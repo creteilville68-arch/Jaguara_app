@@ -1,0 +1,5 @@
+fastapi>=0.100.0
+uvicorn>=0.22.0
+yt-dlp>=2024.03.10
+webvtt-py>=0.4.6
+pydantic>=2.0.0
