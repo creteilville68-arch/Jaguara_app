@@ -1,0 +1,257 @@
+{
+  "id": "lyon_lesson_46",
+  "cityId": "lyon",
+  "domain": "Teatro & Cultura",
+  "level": "Intermediário (B2+)",
+  "titleFr": "Le théâtre des Célestins : deux siècles de scène",
+  "titlePt": "O théâtre des Célestins: dois séculos de palco",
+  "subtitleFr": "Réviser : le théâtre des temps et des hypothèses",
+  "subtitlePt": "Revisar: o teatro dos tempos e das hipóteses",
+  "summaryPt": "O théâtre des Célestins, no antigo convento dos Celestinos, é um dos teatros mais antigos e elegantes da França. Nesta aula B2+, a família assiste a uma peça e revisa as grandes estruturas B2+ de Lyon: discurso indireto, subjonctif passé, condicionais e clivadas.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Le théâtre des Célestins s'élève sur l'ancien couvent des Célestins. « C'est ici que le public applaudit depuis 1792 », dit un vieil habitué. Irlan demanda si le bâtiment avait toujours été un théâtre.",
+      "pt": "O théâtre des Célestins ergue-se sobre o antigo convento dos Celestinos. « É aqui que o público aplaude desde 1792 », disse um velho frequentador. Irlan perguntou se o edifício sempre tinha sido um teatro."
+    },
+    {
+      "id": 2,
+      "fr": "L'habitué répondit que le lieu avait d'abord été un couvent, puis une salle de spectacle, et que des incendies l'avaient reconstruit plusieurs fois. « Il est incroyable que ce théâtre ait survécu à tout cela », murmura Irlan.",
+      "pt": "O frequentador respondeu que o lugar tinha sido primeiro um convento, depois uma sala de espetáculos, e que incêndios o tinham reconstruído várias vezes. « É incrível que este teatro tenha sobrevivido a tudo isso », murmurou Irlan."
+    },
+    {
+      "id": 3,
+      "fr": "La pièce commença. Une actrice, sur scène, déclara qu'elle partait pour Marseille le lendemain. « Si je pouvais partir avec elle, je verrais la mer », murmura Íris en riant.",
+      "pt": "A peça começou. Uma atriz, no palco, declarou que partia para Marseille no dia seguinte. « Se eu pudesse partir com ela, veria o mar », murmurou Íris rindo."
+    },
+    {
+      "id": 4,
+      "fr": "À l'entracte, Andréa avoua : « Si nous avions su qu'il y avait des places si belles, nous serions venus plus tôt. » Irlan répondit qu'ils viendraient chaque mois désormais.",
+      "pt": "No intervalo, Andréa confessou: « Se tivéssemos sabido que havia lugares tão bonitos, teríamos vindo antes. » Irlan respondeu que eles viriam todo mês de agora em diante."
+    },
+    {
+      "id": 5,
+      "fr": "Le soir, Irlan écrivit : « C'est dans ce théâtre que j'ai applaudi pour la première fois en français. Il est émouvant qu'une ville entière se raconte sur une scène. Et si Lyon était un livre, ce théâtre en serait une page d'or. »",
+      "pt": "À noite, Irlan escreveu: « Foi neste teatro que aplaudi pela primeira vez em francês. É emocionante que uma cidade inteira se conte num palco. E se Lyon fosse um livro, este teatro seria uma página de ouro. »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "le théâtre",
+      "definitionPt": "teatro",
+      "definitionFr": "Lieu où l'on joue des pièces.",
+      "inflections": ["le théâtre", "des théâtres"],
+      "ptTargets": ["teatro", "teatros"],
+      "examples": [
+        { "level": "A1", "fr": "Le théâtre est beau.", "pt": "O teatro é bonito." },
+        { "level": "A2-B1", "fr": "Le théâtre des Célestins est célèbre.", "pt": "O théâtre des Célestins é famoso." },
+        { "level": "B1-B2", "fr": "Le théâtre, fondé en 1792, est l'un des plus élégants de France.", "pt": "O teatro, fundado em 1792, é um dos mais elegantes da França." },
+        { "level": "C1-C2", "fr": "C'est le théâtre qui donne à la ville sa voix artistique.", "pt": "É o teatro que dá à cidade sua voz artística." }
+      ]
+    },
+    {
+      "term": "la pièce",
+      "definitionPt": "peça (de teatro)",
+      "definitionFr": "Œuvre jouée sur scène.",
+      "inflections": ["la pièce", "des pièces"],
+      "ptTargets": ["peça", "peças"],
+      "examples": [
+        { "level": "A1", "fr": "La pièce commence.", "pt": "A peça começa." },
+        { "level": "A2-B1", "fr": "La pièce est drôle.", "pt": "A peça é engraçada." },
+        { "level": "B1-B2", "fr": "La pièce, jouée devant une salle pleine, a été applaudie debout.", "pt": "A peça, encenada para uma sala cheia, foi aplaudida de pé." },
+        { "level": "C1-C2", "fr": "C'est la pièce qui fait battre la salle au même rythme.", "pt": "É a peça que faz a sala bater no mesmo ritmo." }
+      ]
+    },
+    {
+      "term": "l'actrice",
+      "definitionPt": "atriz",
+      "definitionFr": "Femme qui joue au théâtre ou au cinéma.",
+      "inflections": ["l'actrice", "des actrices"],
+      "ptTargets": ["atriz", "atrizes"],
+      "examples": [
+        { "level": "A1", "fr": "L'actrice parle.", "pt": "A atriz fala." },
+        { "level": "A2-B1", "fr": "L'actrice déclare qu'elle part pour Marseille.", "pt": "A atriz declara que parte para Marseille." },
+        { "level": "B1-B2", "fr": "L'actrice, émouvante, a tenu la salle en haleine.", "pt": "A atriz, emocionante, manteve a sala em suspense." },
+        { "level": "C1-C2", "fr": "C'est l'actrice qui transforme les mots en émotions.", "pt": "É a atriz que transforma as palavras em emoções." }
+      ]
+    },
+    {
+      "term": "l'habitué",
+      "definitionPt": "frequentador assíduo",
+      "definitionFr": "Personne qui vient souvent dans un lieu.",
+      "inflections": ["l'habitué", "des habitués"],
+      "ptTargets": ["frequentador", "frequentadores"],
+      "examples": [
+        { "level": "A1", "fr": "L'habitué connaît le lieu.", "pt": "O frequentador conhece o lugar." },
+        { "level": "A2-B1", "fr": "Un vieil habitué raconte l'histoire du théâtre.", "pt": "Um velho frequentador conta a história do teatro." },
+        { "level": "B1-B2", "fr": "Les habitués, fidèles depuis des années, connaissent chaque fauteuil.", "pt": "Os frequentadores, fiéis há anos, conhecem cada poltrona." },
+        { "level": "C1-C2", "fr": "C'est l'habitué qui garde la mémoire vivante des lieux.", "pt": "É o frequentador que guarda viva a memória dos lugares." }
+      ]
+    },
+    {
+      "term": "le couvent",
+      "definitionPt": "convento",
+      "definitionFr": "Bâtiment où vivent des religieux.",
+      "inflections": ["le couvent", "des couvents"],
+      "ptTargets": ["convento", "conventos"],
+      "examples": [
+        { "level": "A1", "fr": "Le couvent est vieux.", "pt": "O convento é velho." },
+        { "level": "A2-B1", "fr": "Le théâtre s'élève sur l'ancien couvent.", "pt": "O teatro ergue-se sobre o antigo convento." },
+        { "level": "B1-B2", "fr": "Le couvent, transformé en théâtre, a changé de voix sans changer d'âme.", "pt": "O convento, transformado em teatro, mudou de voz sem mudar de alma." },
+        { "level": "C1-C2", "fr": "C'est le couvent qui garde la mémoire du lieu.", "pt": "É o convento que guarda a memória do lugar." }
+      ]
+    },
+    {
+      "term": "l'incendie",
+      "definitionPt": "incêndio",
+      "definitionFr": "Grand feu destructeur.",
+      "inflections": ["l'incendie", "des incendies"],
+      "ptTargets": ["incêndio", "incêndios"],
+      "examples": [
+        { "level": "A1", "fr": "L'incendie est grave.", "pt": "O incêndio é grave." },
+        { "level": "A2-B1", "fr": "Des incendies ont détruit le théâtre.", "pt": "Incêndios destruíram o teatro." },
+        { "level": "B1-B2", "fr": "Les incendies, survenus plusieurs fois, ont obligé à reconstruire.", "pt": "Os incêndios, ocorridos várias vezes, obrigaram a reconstruir." },
+        { "level": "C1-C2", "fr": "C'est l'incendie qui révèle la résistance d'un lieu.", "pt": "É o incêndio que revela a resistência de um lugar." }
+      ]
+    },
+    {
+      "term": "applaudir",
+      "definitionPt": "aplaudir",
+      "definitionFr": "Frapper des mains pour montrer son plaisir.",
+      "inflections": ["j'applaudis", "applaudir", "applaudi"],
+      "ptTargets": ["aplaudir", "aplaudiu", "aplaudi"],
+      "examples": [
+        { "level": "A1", "fr": "Le public applaudit.", "pt": "O público aplaude." },
+        { "level": "A2-B1", "fr": "Le public a applaudi debout.", "pt": "O público aplaudiu de pé." },
+        { "level": "B1-B2", "fr": "Applaudir, à la fin d'une pièce, c'est remercier les artistes.", "pt": "Aplaudir, no fim de uma peça, é agradecer aos artistas." },
+        { "level": "C1-C2", "fr": "C'est en applaudissant que le public donne la vie à la scène.", "pt": "É aplaudindo que o público dá vida ao palco." }
+      ]
+    },
+    {
+      "term": "l'entracte",
+      "definitionPt": "intervalo (de espetáculo)",
+      "definitionFr": "Pause au milieu d'un spectacle.",
+      "inflections": ["l'entracte", "des entractes"],
+      "ptTargets": ["intervalo", "intervalos"],
+      "examples": [
+        { "level": "A1", "fr": "L'entracte est court.", "pt": "O intervalo é curto." },
+        { "level": "A2-B1", "fr": "À l'entracte, on parle de la pièce.", "pt": "No intervalo, fala-se da peça." },
+        { "level": "B1-B2", "fr": "L'entracte, bienvenu, permet d'échanger les impressions.", "pt": "O intervalo, bem-vindo, permite trocar impressões." },
+        { "level": "C1-C2", "fr": "C'est l'entracte qui prolonge le plaisir du spectacle.", "pt": "É o intervalo que prolonga o prazer do espetáculo." }
+      ]
+    },
+    {
+      "term": "survivre",
+      "definitionPt": "sobreviver",
+      "definitionFr": "Continuer d'exister malgré les épreuves.",
+      "inflections": ["je survis", "survivre", "survécu"],
+      "ptTargets": ["sobreviver", "sobrevivido"],
+      "examples": [
+        { "level": "A1", "fr": "Il survit.", "pt": "Ele sobrevive." },
+        { "level": "A2-B1", "fr": "Le théâtre a survécu aux incendies.", "pt": "O teatro sobreviveu aos incêndios." },
+        { "level": "B1-B2", "fr": "Il est incroyable que ce théâtre ait survécu à tout cela.", "pt": "É incrível que este teatro tenha sobrevivido a tudo isso." },
+        { "level": "C1-C2", "fr": "C'est en survivant que l'on prouve sa nécessité.", "pt": "É sobrevivendo que se prova a própria necessidade." }
+      ]
+    },
+    {
+      "term": "le fauteuil",
+      "definitionPt": "poltrona (de teatro)",
+      "definitionFr": "Siège à accoudoirs.",
+      "inflections": ["le fauteuil", "des fauteuils"],
+      "ptTargets": ["poltrona", "poltronas"],
+      "examples": [
+        { "level": "A1", "fr": "Le fauteuil est rouge.", "pt": "A poltrona é vermelha." },
+        { "level": "A2-B1", "fr": "Les fauteuils du théâtre sont confortables.", "pt": "As poltronas do teatro são confortáveis." },
+        { "level": "B1-B2", "fr": "Les fauteuils, de velours rouge, accueillent les spectateurs.", "pt": "As poltronas, de veludo vermelho, recebem os espectadores." },
+        { "level": "C1-C2", "fr": "C'est le fauteuil qui garde la trace de tous les rêves de la salle.", "pt": "É a poltrona que guarda o rastro de todos os sonhos da sala." }
+      ]
+    },
+    {
+      "term": "la page d'or",
+      "definitionPt": "página de ouro",
+      "definitionFr": "Moment ou lieu le plus brillant d'une histoire.",
+      "inflections": ["la page d'or", "des pages d'or"],
+      "ptTargets": ["página de ouro"],
+      "examples": [
+        { "level": "A1", "fr": "La page d'or est belle.", "pt": "A página de ouro é bela." },
+        { "level": "A2-B1", "fr": "Ce théâtre est une page d'or.", "pt": "Este teatro é uma página de ouro." },
+        { "level": "B1-B2", "fr": "Ce lieu, véritable page d'or, brille dans l'histoire de la ville.", "pt": "Este lugar, verdadeira página de ouro, brilha na história da cidade." },
+        { "level": "C1-C2", "fr": "C'est la page d'or qui illumine le livre d'une cité.", "pt": "É a página de ouro que ilumina o livro de uma cidade." }
+      ]
+    },
+    {
+      "term": "le public",
+      "definitionPt": "público",
+      "definitionFr": "Ensemble des spectateurs.",
+      "inflections": ["le public"],
+      "ptTargets": ["público"],
+      "examples": [
+        { "level": "A1", "fr": "Le public est content.", "pt": "O público está contente." },
+        { "level": "A2-B1", "fr": "Le public applaudit.", "pt": "O público aplaude." },
+        { "level": "B1-B2", "fr": "Le public, captivé, n'a pas bougé pendant deux heures.", "pt": "O público, cativado, não se mexeu durante duas horas." },
+        { "level": "C1-C2", "fr": "C'est le public qui donne son sens au spectacle.", "pt": "É o público que dá sentido ao espetáculo." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Révision B2+ : théâtre des temps et des hypothèses",
+    "explanationPt": "Revisão completa no teatro: discurso indireto ('un habitué répondit que le lieu avait d'abord été un couvent'; 'elle déclara qu'elle partait pour Marseille'), subjonctif passé ('il est incroyable que ce théâtre ait survécu'), condicionais ('si je pouvais partir avec elle, je verrais la mer'; 'si nous avions su, nous serions venus plus tôt') e clivada ('c'est ici que le public applaudit depuis 1792').",
+    "exampleFr": "Il est incroyable que ce théâtre ait survécu ; si nous avions su, nous serions venus plus tôt ; c'est ici que le public applaudit depuis 1792.",
+    "examplePt": "É incrível que este teatro tenha sobrevivido; se tivéssemos sabido, teríamos vindo antes; é aqui que o público aplaude desde 1792.",
+    "practiceQuestion": "Complete: « Il est incroyable que ce théâtre ___ survécu. »",
+    "options": ["ait", "a", "avait"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "Subjonctif passé + discours indirect",
+        "explanationPt": "'Qu'il ait survécu' (subjonctif passé) e 'elle déclara qu'elle partait' (presente vira imperfeito no discurso indireto).",
+        "exampleFr": "Une actrice déclara qu'elle partait pour Marseille le lendemain.",
+        "examplePt": "Uma atriz declarou que partia para Marseille no dia seguinte.",
+        "practiceQuestion": "Complete: « Elle déclara qu'elle ___ pour Marseille. »",
+        "options": ["partait", "part", "partira"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "Conditionnel passé",
+        "explanationPt": "'Si nous avions su, nous serions venus plus tôt' : hipótese passada com condicional passado.",
+        "exampleFr": "Si nous avions su qu'il y avait des places si belles, nous serions venus plus tôt.",
+        "examplePt": "Se tivéssemos sabido que havia lugares tão bonitos, teríamos vindo antes.",
+        "practiceQuestion": "Complete: « Si nous avions su, nous ___ venus plus tôt. »",
+        "options": ["serions", "sommes", "étions"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Complete: « Il est incroyable que ce théâtre ___ survécu. »",
+      "options": ["ait", "a", "avait"],
+      "correctIndex": 0,
+      "explanation": "Subjonctif passé: 'ait survécu'."
+    },
+    {
+      "question": "Desde quando o público aplaude neste teatro?",
+      "options": ["Desde 1792", "Desde 1900", "Desde 1500"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'C'est ici que le public applaudit depuis 1792'."
+    },
+    {
+      "question": "O que havia antes do teatro no lugar?",
+      "options": ["Um convento", "Uma fábrica", "Um hospital"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'le lieu avait d'abord été un couvent'."
+    },
+    {
+      "question": "Complete: « Si nous avions su, nous ___ venus plus tôt. »",
+      "options": ["serions", "sommes", "étions"],
+      "correctIndex": 0,
+      "explanation": "Si + mais-que-perfeito → condicional passado."
+    },
+    {
+      "question": "O que Irlan fez pela primeira vez em francês?",
+      "options": ["Aplaudiu num teatro", "Cantou no palco", "Leu um livro em voz alta"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'C'est dans ce théâtre que j'ai applaudi pour la première fois en français.'"
+    }
+  ]
+}

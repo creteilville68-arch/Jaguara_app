@@ -1,0 +1,252 @@
+{
+  "id": "amiens_lesson_18",
+  "cityId": "amiens",
+  "domain": "Natureza & Rio",
+  "level": "Iniciante em Transição (A1/A2)",
+  "titleFr": "Une barque sur la Somme",
+  "titlePt": "Um barco no rio Somme",
+  "subtitleFr": "La découverte des hortillonnages en barque",
+  "subtitlePt": "A descoberta dos hortillonnages de barco",
+  "summaryPt": "Nesta Aula 18 (A1/A2) da Cidade #2, a família navega pelos hortillonnages em uma barque à plat (barco de fundo chato), como faziam os horticultores de Amiens. O aluno aprende o vocabulário do rio (barque, eau, rame, naviguer, île) e o verbo pouvoir.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Ce matin, la famille monte dans une barque à fond plat. « C'est comme ça que les maraîchers voyageaient dans les hortillonnages, dit Irlan. On peut naviguer sur les petits canaux entre les jardins. »",
+      "pt": "Esta manhã, a família entra num barco de fundo chato. « É assim que os horticultores viajavam pelos hortillonnages, diz Irlan. Pode-se navegar pelos pequenos canais entre os jardins. »"
+    },
+    {
+      "id": 2,
+      "fr": "Andréa rame doucement. L'eau est calme et verte. « Regardez les îles flottantes ! dit-elle. Les jardiniers cultivent des légumes sur ces îles depuis des siècles. »",
+      "pt": "Andréa rema devagar. A água é calma e verde. « Olhem as ilhas flutuantes! diz ela. Os jardineiros cultivam legumes nessas ilhas há séculos. »"
+    },
+    {
+      "id": 3,
+      "fr": "Íris regarde les fleurs et les légumes. « Je peux toucher les plantes ? » demande-t-elle. « Oui, mais doucement, répond Irlan. Il ne faut pas abîmer les cultures. »",
+      "pt": "Íris observa as flores e os legumes. « Posso tocar nas plantas? » pergunta ela. « Sim, mas com cuidado, responde Irlan. Não se deve estragar as plantações. »"
+    },
+    {
+      "id": 4,
+      "fr": "Après une heure, la famille retourne sur la terre. « C'était une belle promenade, dit Andréa. Demain, nous allons goûter le gâteau battu, la spécialité picarde ! »",
+      "pt": "Depois de uma hora, a família volta à terra. « Foi um belo passeio, diz Andréa. Amanhã, vamos provar o gâteau battu, a especialidade picarda! »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "la barque",
+      "definitionPt": "o barco",
+      "definitionFr": "Petit bateau.",
+      "inflections": ["la barque", "une barque", "des barques"],
+      "ptTargets": ["barco"],
+      "examples": [
+        { "level": "A1", "fr": "La barque est petite.", "pt": "O barco é pequeno." },
+        { "level": "A2-B1", "fr": "La famille monte dans une barque.", "pt": "A família entra num barco." },
+        { "level": "B2", "fr": "La barque, plate, glisse sur les canaux.", "pt": "O barco, chato, desliza pelos canais." },
+        { "level": "C1-C2", "fr": "C'est la barque qui, traditionnelle, relie les jardins d'eau.", "pt": "É o barco que, tradicional, liga os jardins de água." }
+      ]
+    },
+    {
+      "term": "l'eau",
+      "definitionPt": "a água",
+      "definitionFr": "Liquide des rivières et des mers.",
+      "inflections": ["l'eau", "une eau"],
+      "ptTargets": ["água"],
+      "examples": [
+        { "level": "A1", "fr": "L'eau est calme.", "pt": "A água é calma." },
+        { "level": "A2-B1", "fr": "L'eau est calme et verte.", "pt": "A água é calma e verde." },
+        { "level": "B2", "fr": "L'eau des hortillonnages nourrit les jardins.", "pt": "A água dos hortillonnages alimenta os jardins." },
+        { "level": "C1-C2", "fr": "C'est l'eau qui, vive, donne vie aux marais.", "pt": "É a água que, viva, dá vida aos pântanos." }
+      ]
+    },
+    {
+      "term": "naviguer",
+      "definitionPt": "navegar",
+      "definitionFr": "Voyager sur l'eau.",
+      "inflections": ["je navigue", "naviguer", "nous naviguons"],
+      "ptTargets": ["navegar"],
+      "examples": [
+        { "level": "A1", "fr": "On navigue sur l'eau.", "pt": "Navega-se na água." },
+        { "level": "A2-B1", "fr": "On peut naviguer sur les petits canaux.", "pt": "Pode-se navegar pelos pequenos canais." },
+        { "level": "B2", "fr": "Naviguer entre les jardins est une expérience unique.", "pt": "Navegar entre os jardins é uma experiência única." },
+        { "level": "C1-C2", "fr": "C'est en naviguant que l'on découvre la ville autrement.", "pt": "É navegando que se descobre a cidade de outro jeito." }
+      ]
+    },
+    {
+      "term": "le canal",
+      "definitionPt": "o canal",
+      "definitionFr": "Cours d'eau creusé par l'homme.",
+      "inflections": ["le canal", "un canal", "des canaux"],
+      "ptTargets": ["canal"],
+      "examples": [
+        { "level": "A1", "fr": "Le canal est étroit.", "pt": "O canal é estreito." },
+        { "level": "A2-B1", "fr": "Les petits canaux relient les jardins.", "pt": "Os pequenos canais ligam os jardins." },
+        { "level": "B2", "fr": "Les canaux des hortillonnages sont centenaires.", "pt": "Os canais dos hortillonnages são centenários." },
+        { "level": "C1-C2", "fr": "C'est le canal qui, paisible, traverse les jardins flottants.", "pt": "É o canal que, pacífico, atravessa os jardins flutuantes." }
+      ]
+    },
+    {
+      "term": "ramer",
+      "definitionPt": "remar",
+      "definitionFr": "Faire avancer une barque avec des rames.",
+      "inflections": ["je rame", "ramer", "nous ramons"],
+      "ptTargets": ["remar"],
+      "examples": [
+        { "level": "A1", "fr": "Je rame sur l'eau.", "pt": "Eu remo na água." },
+        { "level": "A2-B1", "fr": "Andréa rame doucement.", "pt": "Andréa rema devagar." },
+        { "level": "B2", "fr": "Ramer demande de la force et du rythme.", "pt": "Remar exige força e ritmo." },
+        { "level": "C1-C2", "fr": "C'est en ramant que l'on avance sur l'eau.", "pt": "É remando que se avança na água." }
+      ]
+    },
+    {
+      "term": "l'île",
+      "definitionPt": "a ilha",
+      "definitionFr": "Terre entourée d'eau.",
+      "inflections": ["l'île", "une île", "des îles"],
+      "ptTargets": ["ilha"],
+      "examples": [
+        { "level": "A1", "fr": "L'île est verte.", "pt": "A ilha é verde." },
+        { "level": "A2-B1", "fr": "Les îles flottantes sont cultivées.", "pt": "As ilhas flutuantes são cultivadas." },
+        { "level": "B2", "fr": "Les îles des hortillonnages sont reliées par des canaux.", "pt": "As ilhas dos hortillonnages são ligadas por canais." },
+        { "level": "C1-C2", "fr": "C'est l'île qui, flottante, porte des jardins entiers.", "pt": "É a ilha que, flutuante, carrega jardins inteiros." }
+      ]
+    },
+    {
+      "term": "le légume",
+      "definitionPt": "o legume",
+      "definitionFr": "Plante que l'on mange.",
+      "inflections": ["le légume", "un légume", "des légumes"],
+      "ptTargets": ["legume"],
+      "examples": [
+        { "level": "A1", "fr": "Le légume est frais.", "pt": "O legume é fresco." },
+        { "level": "A2-B1", "fr": "Les jardiniers cultivent des légumes.", "pt": "Os jardineiros cultivam legumes." },
+        { "level": "B2", "fr": "Les légumes des hortillonnages sont réputés.", "pt": "Os legumes dos hortillonnages são famosos." },
+        { "level": "C1-C2", "fr": "C'est le légume qui, cultivé avec soin, goûte le terroir.", "pt": "É o legume que, cultivado com cuidado, tem sabor do terroir." }
+      ]
+    },
+    {
+      "term": "toucher",
+      "definitionPt": "tocar",
+      "definitionFr": "Mettre la main sur quelque chose.",
+      "inflections": ["je touche", "toucher", "nous touchons"],
+      "ptTargets": ["tocar"],
+      "examples": [
+        { "level": "A1", "fr": "Je touche la plante.", "pt": "Eu toco na planta." },
+        { "level": "A2-B1", "fr": "Je peux toucher les plantes ?", "pt": "Posso tocar nas plantas?" },
+        { "level": "B2", "fr": "Il ne faut pas toucher les cultures.", "pt": "Não se deve tocar nas plantações." },
+        { "level": "C1-C2", "fr": "C'est en touchant que l'on découvre les textures.", "pt": "É tocando que se descobrem as texturas." }
+      ]
+    },
+    {
+      "term": "abîmer",
+      "definitionPt": "estragar / danificar",
+      "definitionFr": "Endommager.",
+      "inflections": ["j'abîme", "abîmer", "nous abîmons"],
+      "ptTargets": ["estragar", "danificar"],
+      "examples": [
+        { "level": "A1", "fr": "Ne touche pas, tu vas abîmer !", "pt": "Não toque, você vai estragar!" },
+        { "level": "A2-B1", "fr": "Il ne faut pas abîmer les cultures.", "pt": "Não se deve estragar as plantações." },
+        { "level": "B2", "fr": "La pluie a abîmé les fleurs du jardin.", "pt": "A chuva estragou as flores do jardim." },
+        { "level": "C1-C2", "fr": "C'est en respectant que l'on n'abîme pas.", "pt": "É respeitando que não se estraga." }
+      ]
+    },
+    {
+      "term": "la promenade",
+      "definitionPt": "o passeio",
+      "definitionFr": "Marche ou trajet pour le plaisir.",
+      "inflections": ["la promenade", "une promenade", "des promenades"],
+      "ptTargets": ["passeio"],
+      "examples": [
+        { "level": "A1", "fr": "La promenade est belle.", "pt": "O passeio é bonito." },
+        { "level": "A2-B1", "fr": "C'était une belle promenade.", "pt": "Foi um belo passeio." },
+        { "level": "B2", "fr": "La promenade en barque est inoubliable.", "pt": "O passeio de barco é inesquecível." },
+        { "level": "C1-C2", "fr": "C'est la promenade qui, douce, nourrit les souvenirs.", "pt": "É o passeio que, suave, alimenta as lembranças." }
+      ]
+    },
+    {
+      "term": "le maraîcher",
+      "definitionPt": "o horticultor",
+      "definitionFr": "Jardinier qui cultive des légumes.",
+      "inflections": ["le maraîcher", "un maraîcher", "des maraîchers"],
+      "ptTargets": ["horticultor"],
+      "examples": [
+        { "level": "A1", "fr": "Le maraîcher travaille la terre.", "pt": "O horticultor trabalha a terra." },
+        { "level": "A2-B1", "fr": "Les maraîchers voyageaient en barque.", "pt": "Os horticultores viajavam de barco." },
+        { "level": "B2", "fr": "Les maraîchers des hortillonnages sont célèbres.", "pt": "Os horticultores dos hortillonnages são famosos." },
+        { "level": "C1-C2", "fr": "C'est le maraîcher qui, patient, entretient la tradition.", "pt": "É o horticultor que, paciente, mantém a tradição." }
+      ]
+    },
+    {
+      "term": "la terre",
+      "definitionPt": "a terra",
+      "definitionFr": "Sol, ou notre planète.",
+      "inflections": ["la terre", "une terre"],
+      "ptTargets": ["terra"],
+      "examples": [
+        { "level": "A1", "fr": "La terre est brune.", "pt": "A terra é marrom." },
+        { "level": "A2-B1", "fr": "La famille retourne sur la terre.", "pt": "A família volta à terra." },
+        { "level": "B2", "fr": "La terre fertile nourrit les jardins.", "pt": "A terra fértil alimenta os jardins." },
+        { "level": "C1-C2", "fr": "C'est la terre qui, généreuse, offre ses fruits.", "pt": "É a terra que, generosa, oferece seus frutos." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Le verbe pouvoir : poder",
+    "explanationPt": "O verbo 'pouvoir' (poder): je peux, tu peux, il peut, nous pouvons, vous pouvez, ils peuvent. Ex.: 'On peut naviguer' (pode-se navegar), 'Je peux toucher les plantes ?' (posso tocar nas plantas?).",
+    "exampleFr": "On peut naviguer sur les canaux. Je peux toucher les plantes ?",
+    "examplePt": "Pode-se navegar pelos canais. Posso tocar nas plantas?",
+    "practiceQuestion": "Complete: 'Je _____ toucher les plantes ?'",
+    "options": ["peux", "peut", "pouvons"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "Il ne faut pas + infinitif",
+        "explanationPt": "'Il faut' = é preciso. Negativo: 'Il ne faut pas abîmer les cultures' (não se deve estragar as plantações). Ex.: 'Il faut ramer doucement' (é preciso remar devagar).",
+        "exampleFr": "Il ne faut pas abîmer les cultures. Il faut être doux.",
+        "examplePt": "Não se deve estragar as plantações. É preciso ser gentil.",
+        "practiceQuestion": "Complete: 'Il ne faut pas _____ les cultures.'",
+        "options": ["abîmer", "abîme", "abîmons"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "Doucement : advérbios em -ment",
+        "explanationPt": "Advérbios de modo terminam em -ment: 'doucement' (devagar/suavemente), 'rapidement' (rapidamente), 'facilement' (facilmente). Ex.: 'Andréa rame doucement.'",
+        "exampleFr": "Andréa rame doucement. Mais oui, doucement !",
+        "examplePt": "Andréa rema devagar. Mas sim, devagar!",
+        "practiceQuestion": "Complete: 'Andréa rame _____ .'",
+        "options": ["doucement", "douce", "doux"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Como os maraîchers viajavam nos hortillonnages?",
+      "options": ["de barco de fundo chato", "de bicicleta", "a cavalo"],
+      "correctIndex": 0,
+      "explanation": "C'est comme ça que les maraîchers voyageaient dans les hortillonnages."
+    },
+    {
+      "question": "O que se cultiva nas ilhas flutuantes?",
+      "options": ["legumes", "árvores frutíferas", "algodão"],
+      "correctIndex": 0,
+      "explanation": "Les jardiniers cultivent des légumes sur ces îles."
+    },
+    {
+      "question": "Quem rema na barque?",
+      "options": ["Andréa", "Irlan", "Íris"],
+      "correctIndex": 0,
+      "explanation": "Andréa rame doucement."
+    },
+    {
+      "question": "Complete: 'Je _____ toucher les plantes ?'",
+      "options": ["peux", "peut", "pouvons"],
+      "correctIndex": 0,
+      "explanation": "Pouvoir: je peux."
+    },
+    {
+      "question": "Complete: 'Andréa rame _____ .'",
+      "options": ["doucement", "douce", "doux"],
+      "correctIndex": 0,
+      "explanation": "Advérbio: doucement."
+    }
+  ]
+}

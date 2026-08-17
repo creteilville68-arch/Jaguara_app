@@ -1,0 +1,252 @@
+{
+  "id": "mont_saint_michel_lesson_30",
+  "cityId": "mont-saint-michel",
+  "domain": "Natureza & Geografia",
+  "level": "Básico (A2/B1)",
+  "titleFr": "L'hiver au Mont : le rocher sous la tempête",
+  "titlePt": "O inverno no Mont: o rochedo sob a tempestade",
+  "subtitleFr": "Quand le vent hurle, le Mont devient une forteresse sombre",
+  "subtitlePt": "Quando o vento uiva, o Mont vira uma fortaleza sombria",
+  "summaryPt": "Nesta Aula 30 (A2/B1), a família vive um dia de tempestade no Mont: o vento uiva, as ondas batem nas muralhas e os visitantes se abrigam. Irlan se lembra das entregas de scooter sob a chuva. O aluno pratica a atmosfera no imparfait (le vent hurlait, les vagues frappaient) e o contraste com o passé composé.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Ce matin, le ciel était noir. Le vent hurlait autour des tours et les vagues frappaient les remparts. « C'est une vraie tempête », a dit Andréa. « Restons à l'abri. »",
+      "pt": "Esta manhã, o céu estava negro. O vento uivava em volta das torres e as ondas batiam nas muralhas. « É uma tempestade de verdade », disse Andréa. « Fiquemos abrigados. »"
+    },
+    {
+      "id": 2,
+      "fr": "La famille a attendu dans un café de la Grande Rue. « Quand j'étais livreur, je travaillais même sous la pluie », a dit Irlan. « Ma scooter glissait sur les pavés. »",
+      "pt": "A família esperou num café da Grande Rue. « Quando era entregador, trabalhava até sob a chuva », disse Irlan. « Minha scooter derrapava nos paralelepípedos. »"
+    },
+    {
+      "id": 3,
+      "fr": "« Soudain, une rafale a ouvert la porte du café », a raconté Íris. « Tout le monde a crié ! Puis le calme est revenu. »",
+      "pt": "« De repente, uma rajada abriu a porta do café », contou Íris. « Todo mundo gritou! Depois a calma voltou. »"
+    },
+    {
+      "id": 4,
+      "fr": "L'après-midi, le soleil est revenu. La baie brillait à nouveau. « Après la tempête, le Mont est encore plus beau », a souri Irlan. « Comme après les difficultés, la vie est plus douce. »",
+      "pt": "À tarde, o sol voltou. A baía brilhava novamente. « Depois da tempestade, o Mont fica ainda mais bonito », sorriu Irlan. « Como depois das dificuldades, a vida fica mais doce. »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "la tempête",
+      "definitionPt": "a tempestade",
+      "definitionFr": "Forte vent avec pluie.",
+      "inflections": ["la tempête", "une tempête", "des tempêtes"],
+      "ptTargets": ["tempestade"],
+      "examples": [
+        { "level": "A1", "fr": "La tempête est forte.", "pt": "A tempestade é forte." },
+        { "level": "A2-B1", "fr": "Une tempête a frappé le Mont ce matin.", "pt": "Uma tempestade atingiu o Mont esta manhã." },
+        { "level": "B2", "fr": "Les tempêtes d'hiver sont fréquentes dans la baie.", "pt": "As tempestades de inverno são frequentes na baía." },
+        { "level": "C1-C2", "fr": "La tempête révèle la vraie nature du Mont : une forteresse.", "pt": "A tempestade revela a verdadeira natureza do Mont: uma fortaleza." }
+      ]
+    },
+    {
+      "term": "hurler",
+      "definitionPt": "uivar",
+      "definitionFr": "Crier fort (vent, animal).",
+      "inflections": ["je hurle", "nous hurlons", "hurlé"],
+      "ptTargets": ["uivar"],
+      "examples": [
+        { "level": "A1", "fr": "Le loup hurle.", "pt": "O lobo uiva." },
+        { "level": "A2-B1", "fr": "Le vent hurlait autour des tours.", "pt": "O vento uivava em volta das torres." },
+        { "level": "B2", "fr": "La tempête hurlait toute la nuit.", "pt": "A tempestade uivou a noite inteira." },
+        { "level": "C1-C2", "fr": "Le vent hurlait comme une bête en colère.", "pt": "O vento uivava como um animal furioso." }
+      ]
+    },
+    {
+      "term": "la vague",
+      "definitionPt": "a onda",
+      "definitionFr": "Mouvement de l'eau de la mer.",
+      "inflections": ["la vague", "une vague", "des vagues"],
+      "ptTargets": ["onda"],
+      "examples": [
+        { "level": "A1", "fr": "La vague est grande.", "pt": "A onda é grande." },
+        { "level": "A2-B1", "fr": "Les vagues frappaient les remparts.", "pt": "As ondas batiam nas muralhas." },
+        { "level": "B2", "fr": "Les vagues montaient jusqu'aux portes.", "pt": "As ondas subiam até as portas." },
+        { "level": "C1-C2", "fr": "Les vagues, inlassables, usent la pierre depuis mille ans.", "pt": "As ondas, incansáveis, gastam a pedra há mil anos." }
+      ]
+    },
+    {
+      "term": "frapper",
+      "definitionPt": "bater, atingir",
+      "definitionFr": "Donner un coup.",
+      "inflections": ["je frappe", "nous frappons", "frappé"],
+      "ptTargets": ["bater", "atingir"],
+      "examples": [
+        { "level": "A1", "fr": "Je frappe à la porte.", "pt": "Bato na porta." },
+        { "level": "A2-B1", "fr": "Les vagues frappaient les murs.", "pt": "As ondas batiam nas paredes." },
+        { "level": "B2", "fr": "La tempête a frappé la côte toute la nuit.", "pt": "A tempestade atingiu a costa a noite inteira." },
+        { "level": "C1-C2", "fr": "Frappée par la mer et le vent, la pierre tient bon.", "pt": "Atingida pelo mar e pelo vento, a pedra resiste." }
+      ]
+    },
+    {
+      "term": "à l'abri",
+      "definitionPt": "abrigado, ao abrigo",
+      "definitionFr": "Protégé du danger.",
+      "inflections": ["à l'abri", "un abri", "des abris"],
+      "ptTargets": ["abrigado"],
+      "examples": [
+        { "level": "A1", "fr": "Nous sommes à l'abri.", "pt": "Estamos abrigados." },
+        { "level": "A2-B1", "fr": "La famille est restée à l'abri dans le café.", "pt": "A família ficou abrigada no café." },
+        { "level": "B2", "fr": "Le Mont servait d'abri aux voyageurs surpris par la tempête.", "pt": "O Mont servia de abrigo aos viajantes surpreendidos pela tempestade." },
+        { "level": "C1-C2", "fr": "À l'abri des murs épais, on entendait la mer rugir dehors.", "pt": "Abrigados atrás das paredes espessas, ouvia-se o mar rugir lá fora." }
+      ]
+    },
+    {
+      "term": "glisser",
+      "definitionPt": "derrapar, deslizar",
+      "definitionFr": "Perdre l'adhérence ; se déplacer doucement.",
+      "inflections": ["je glisse", "nous glissons", "glissé"],
+      "ptTargets": ["derrapar", "deslizar"],
+      "examples": [
+        { "level": "A1", "fr": "Je glisse sur la glace.", "pt": "Deslizo no gelo." },
+        { "level": "A2-B1", "fr": "La scooter glissait sur les pavés.", "pt": "A scooter derrapava nos paralelepípedos." },
+        { "level": "B2", "fr": "Sous la pluie, les roues glissaient dangereusement.", "pt": "Sob a chuva, as rodas derrapavam perigosamente." },
+        { "level": "C1-C2", "fr": "Glisser sur le pavé mouillé, c'est le risque de chaque livreur.", "pt": "Derrapar no paralelepípedo molhado é o risco de todo entregador." }
+      ]
+    },
+    {
+      "term": "la rafale",
+      "definitionPt": "a rajada",
+      "definitionFr": "Coup de vent soudain.",
+      "inflections": ["la rafale", "une rafale", "des rafales"],
+      "ptTargets": ["rajada"],
+      "examples": [
+        { "level": "A1", "fr": "La rafale est forte.", "pt": "A rajada é forte." },
+        { "level": "A2-B1", "fr": "Une rafale a ouvert la porte.", "pt": "Uma rajada abriu a porta." },
+        { "level": "B2", "fr": "Les rafales de vent ont atteint cent kilomètres par heure.", "pt": "As rajadas de vento atingiram cem quilômetros por hora." },
+        { "level": "C1-C2", "fr": "La rafale, brutale et brève, a fait voler les parapluies.", "pt": "A rajada, brutal e breve, fez voar os guarda-chuvas." }
+      ]
+    },
+    {
+      "term": "le pavé",
+      "definitionPt": "o paralelepípedo",
+      "definitionFr": "Pierre qui couvre les rues.",
+      "inflections": ["le pavé", "un pavé", "des pavés"],
+      "ptTargets": ["paralelepípedo", "pedra"],
+      "examples": [
+        { "level": "A1", "fr": "Le pavé est gris.", "pt": "O paralelepípedo é cinza." },
+        { "level": "A2-B1", "fr": "Les pavés de la Grande Rue sont anciens.", "pt": "Os paralelepípedos da Grande Rue são antigos." },
+        { "level": "B2", "fr": "Les pavés mouillés étaient dangereux pour la scooter.", "pt": "Os paralelepípedos molhados eram perigosos para a scooter." },
+        { "level": "C1-C2", "fr": "Sous les pavés, la pluie de mille ans a laissé ses traces.", "pt": "Sob os paralelepípedos, a chuva de mil anos deixou suas marcas." }
+      ]
+    },
+    {
+      "term": "l'abri",
+      "definitionPt": "o abrigo",
+      "definitionFr": "Lieu protégé.",
+      "inflections": ["l'abri", "un abri", "des abris"],
+      "ptTargets": ["abrigo"],
+      "examples": [
+        { "level": "A1", "fr": "L'abri est chaud.", "pt": "O abrigo é quente." },
+        { "level": "A2-B1", "fr": "Le café servait d'abri pendant la tempête.", "pt": "O café servia de abrigo durante a tempestade." },
+        { "level": "B2", "fr": "Chercher un abri, c'est le premier réflexe des pêcheurs.", "pt": "Procurar um abrigo é o primeiro reflexo dos pescadores." },
+        { "level": "C1-C2", "fr": "L'abri le plus sûr du Mont, c'est la pierre elle-même.", "pt": "O abrigo mais seguro do Mont é a própria pedra." }
+      ]
+    },
+    {
+      "term": "la difficulté",
+      "definitionPt": "a dificuldade",
+      "definitionFr": "Problème, obstacle.",
+      "inflections": ["la difficulté", "une difficulté", "des difficultés"],
+      "ptTargets": ["dificuldade"],
+      "examples": [
+        { "level": "A1", "fr": "La difficulté est grande.", "pt": "A dificuldade é grande." },
+        { "level": "A2-B1", "fr": "Après les difficultés, la vie est plus douce.", "pt": "Depois das dificuldades, a vida fica mais doce." },
+        { "level": "B2", "fr": "Il a surmonté toutes les difficultés de l'immigration.", "pt": "Ele superou todas as dificuldades da imigração." },
+        { "level": "C1-C2", "fr": "Les difficultés d'hier font la force d'aujourd'hui.", "pt": "As dificuldades de ontem fazem a força de hoje." }
+      ]
+    },
+    {
+      "term": "doux",
+      "definitionPt": "doce, suave",
+      "definitionFr": "Agréable, pas dur.",
+      "inflections": ["doux", "douce", "doux"],
+      "ptTargets": ["doce", "suave"],
+      "examples": [
+        { "level": "A1", "fr": "Le chat est doux.", "pt": "O gato é macio." },
+        { "level": "A2-B1", "fr": "La vie est plus douce après la tempête.", "pt": "A vida fica mais doce depois da tempestade." },
+        { "level": "B2", "fr": "La lumière douce du soir dorait les remparts.", "pt": "A luz suave do entardecer dourava as muralhas." },
+        { "level": "C1-C2", "fr": "Il y a une douceur particulière dans les retours au calme.", "pt": "Há uma doçura particular nos retornos à calmaria." }
+      ]
+    },
+    {
+      "term": "revenir",
+      "definitionPt": "voltar",
+      "definitionFr": "Venir de nouveau.",
+      "inflections": ["je reviens", "nous revenons", "revenu"],
+      "ptTargets": ["voltar"],
+      "examples": [
+        { "level": "A1", "fr": "Je reviens demain.", "pt": "Volto amanhã." },
+        { "level": "A2-B1", "fr": "Le soleil est revenu l'après-midi.", "pt": "O sol voltou à tarde." },
+        { "level": "B2", "fr": "Après la pluie, le calme est revenu.", "pt": "Depois da chuva, a calma voltou." },
+        { "level": "C1-C2", "fr": "Le soleil revient toujours, même après les plus grandes tempêtes.", "pt": "O sol sempre volta, mesmo depois das maiores tempestades." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Décrire la tempête : le vent hurlait, les vagues frappaient",
+    "explanationPt": "Atmosfera de tempestade = imparfait: 'le vent hurlait' (o vento uivava), 'les vagues frappaient' (as ondas batiam), 'le ciel était noir' (o céu estava negro). Descrição contínua do cenário.",
+    "exampleFr": "Le vent hurlait, les vagues frappaient les remparts et le ciel était noir.",
+    "examplePt": "O vento uivava, as ondas batiam nas muralhas e o céu estava negro.",
+    "practiceQuestion": "Complete: « Le vent ___ autour des tours. »",
+    "options": ["hurlait", "a hurlé", "hurlera"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "Soudain + passé composé : l'événement dans la tempête",
+        "explanationPt": "'Soudain' + passé composé corta a cena: 'le vent hurlait (IMP) quand, soudain, une rafale a ouvert (PC) la porte'.",
+        "exampleFr": "Soudain, une rafale a ouvert la porte du café.",
+        "examplePt": "De repente, uma rajada abriu a porta do café.",
+        "practiceQuestion": "Complete: « Soudain, une rafale a ___ la porte. »",
+        "options": ["ouvert", "ouvrir", "ouvrait"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "Quand j'étais livreur : le souvenir d'Irlan",
+        "explanationPt": "Recordação de um período da vida: 'quand j'étais (IMP) livreur, je travaillais (IMP) même sous la pluie, ma scooter glissait (IMP) sur les pavés'.",
+        "exampleFr": "Quand j'étais livreur, ma scooter glissait sur les pavés mouillés.",
+        "examplePt": "Quando era entregador, minha scooter derrapava nos paralelepípedos molhados.",
+        "practiceQuestion": "Complete: « Quand j'étais livreur, ma scooter ___ sur les pavés. »",
+        "options": ["glissait", "a glissé", "glissera"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Como estava o tempo na manhã da tempestade?",
+      "options": ["Céu negro, vento uivando e ondas batendo nas muralhas", "Sol e calor", "Nevoeiro leve e silêncio"],
+      "correctIndex": 0,
+      "explanation": "O céu estava negro, o vento uivava e as ondas batiam nos remparts."
+    },
+    {
+      "question": "Complete: « Le vent ___ autour des tours. »",
+      "options": ["hurlait", "a hurlé", "hurlera"],
+      "correctIndex": 0,
+      "explanation": "Atmosfera contínua no passado = imparfait: 'hurlait'."
+    },
+    {
+      "question": "Onde a família esperou a tempestade passar?",
+      "options": ["Num café da Grande Rue", "No alto da abadia", "Na praia"],
+      "correctIndex": 0,
+      "explanation": "A família se abrigou num café da Grande Rue durante a tempestade."
+    },
+    {
+      "question": "O que Irlan lembrou durante a tempestade?",
+      "options": ["Que trabalhava sob chuva como livreur, com a scooter derrapando", "Que nunca viu chuva no Brasil", "Que odeia café"],
+      "correctIndex": 0,
+      "explanation": "Irlan lembrou dos dias de livreur em que trabalhava sob a chuva."
+    },
+    {
+      "question": "Complete: « Soudain, une rafale a ___ la porte. »",
+      "options": ["ouvert", "ouvrir", "ouvrait"],
+      "correctIndex": 0,
+      "explanation": "Evento pontual com 'soudain' = passé composé: 'a ouvert'."
+    }
+  ]
+}

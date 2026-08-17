@@ -1,0 +1,268 @@
+{
+  "id": "paris_lesson_20",
+  "cityId": "paris",
+  "domain": "Cultura & Arte",
+  "level": "Iniciante (A1)",
+  "titleFr": "Le musée d'Orsay et l'impressionnisme",
+  "titlePt": "O museu d'Orsay e o impressionismo",
+  "subtitleFr": "L'ancienne gare, la grande horloge et les couleurs des impressionnistes",
+  "subtitlePt": "A antiga estação, o grande relógio e as cores dos impressionistas",
+  "summaryPt": "Nesta Aula 20 (A1), a família visita o museu d'Orsay, uma antiga estação de trem. Eles admiram a grande horloge e as pinturas impressionistas: Monet, Renoir e as bailarinas de Degas. O aluno aprende o verbo 'peindre' e as expressões de quantidade 'beaucoup de' e 'un peu de'.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Le musée d'Orsay est une ancienne gare. La grande horloge regarde la Seine. Beaucoup de visiteurs admirent ce bâtiment magnifique.",
+      "pt": "O museu d'Orsay é uma antiga estação. O grande relógio olha para o Sena. Muitos visitantes admiram este prédio magnífico."
+    },
+    {
+      "id": 2,
+      "fr": "Dans le musée, il y a beaucoup de peintures impressionnistes. Les impressionnistes peignent la lumière, l'eau et la nature.",
+      "pt": "No museu, há muitas pinturas impressionistas. Os impressionistas pintam a luz, a água e a natureza."
+    },
+    {
+      "id": 3,
+      "fr": "Íris regarde les danseuses de Degas. « Elles sont très jolies ! » dit-elle. Andréa aime beaucoup les tableaux de Monet.",
+      "pt": "Íris olha as bailarinas de Degas. «Elas são muito bonitas!» diz ela. Andréa gosta muito dos quadros de Monet."
+    },
+    {
+      "id": 4,
+      "fr": "Irlan se souvient : quand il était livreur, il passait devant cette gare tous les jours. « Aujourd'hui, je comprends un peu la peinture », dit-il en riant.",
+      "pt": "Irlan se lembra: quando era entregador, passava diante desta estação todos os dias. «Hoje, eu entendo um pouco de pintura», diz ele rindo."
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "gare",
+      "definitionPt": "estação (de trem)",
+      "definitionFr": "Bâtiment où les trains s'arrêtent.",
+      "inflections": ["la gare", "une gare", "des gares"],
+      "ptTargets": ["estação"],
+      "examples": [
+        { "level": "A1", "fr": "Le musée d'Orsay est une ancienne gare.", "pt": "O museu d'Orsay é uma antiga estação." },
+        { "level": "A2-B1", "fr": "La gare est pleine de voyageurs.", "pt": "A estação está cheia de viajantes." },
+        { "level": "B2", "fr": "La gare d'Orsay a été transformée en musée.", "pt": "A estação d'Orsay foi transformada em museu." },
+        { "level": "C1-C2", "fr": "La reconversion de la gare d'Orsay est un modèle d'architecture.", "pt": "A reconversão da estação d'Orsay é um modelo de arquitetura." }
+      ]
+    },
+    {
+      "term": "horloge",
+      "definitionPt": "relógio (de parede/torre)",
+      "definitionFr": "Appareil qui indique l'heure.",
+      "inflections": ["l'horloge", "une horloge", "des horloges"],
+      "ptTargets": ["relógio"],
+      "examples": [
+        { "level": "A1", "fr": "La grande horloge est très belle.", "pt": "O grande relógio é muito bonito." },
+        { "level": "A2-B1", "fr": "L'horloge de la gare indique l'heure.", "pt": "O relógio da estação indica a hora." },
+        { "level": "B2", "fr": "La grande horloge du musée d'Orsay est célèbre.", "pt": "O grande relógio do museu d'Orsay é famoso." },
+        { "level": "C1-C2", "fr": "Derrière la grande horloge, la Seine coule majestueusement.", "pt": "Atrás do grande relógio, o Sena corre majestosamente." }
+      ]
+    },
+    {
+      "term": "visiteur",
+      "definitionPt": "visitante",
+      "definitionFr": "Personne qui visite un lieu.",
+      "inflections": ["le visiteur", "un visiteur", "des visiteurs"],
+      "ptTargets": ["visitante"],
+      "examples": [
+        { "level": "A1", "fr": "Beaucoup de visiteurs admirent le musée.", "pt": "Muitos visitantes admiram o museu." },
+        { "level": "A2-B1", "fr": "Les visiteurs regardent les tableaux.", "pt": "Os visitantes olham os quadros." },
+        { "level": "B2", "fr": "Le musée reçoit des milliers de visiteurs.", "pt": "O museu recebe milhares de visitantes." },
+        { "level": "C1-C2", "fr": "Les visiteurs du monde entier affluent vers ce musée.", "pt": "Visitantes do mundo inteiro afluem a este museu." }
+      ]
+    },
+    {
+      "term": "impressionnisme",
+      "definitionPt": "impressionismo",
+      "definitionFr": "Mouvement artistique du XIXe siècle qui peint la lumière et les impressions.",
+      "inflections": ["l'impressionnisme"],
+      "ptTargets": ["impressionismo"],
+      "examples": [
+        { "level": "A1", "fr": "Le musée a beaucoup de peintures impressionnistes.", "pt": "O museu tem muitas pinturas impressionistas." },
+        { "level": "A2-B1", "fr": "L'impressionnisme est né en France.", "pt": "O impressionismo nasceu na França." },
+        { "level": "B2", "fr": "Monet est un grand peintre impressionniste.", "pt": "Monet é um grande pintor impressionista." },
+        { "level": "C1-C2", "fr": "L'impressionnisme a révolutionné la peinture moderne.", "pt": "O impressionismo revolucionou a pintura moderna." }
+      ]
+    },
+    {
+      "term": "peindre",
+      "definitionPt": "pintar",
+      "definitionFr": "Créer une image avec de la peinture.",
+      "inflections": ["je peins", "peindre", "il peint"],
+      "ptTargets": ["pintar"],
+      "examples": [
+        { "level": "A1", "fr": "Les impressionnistes peignent la lumière.", "pt": "Os impressionistas pintam a luz." },
+        { "level": "A2-B1", "fr": "Monet peint des nénuphars.", "pt": "Monet pinta nenúfares." },
+        { "level": "B2", "fr": "Les artistes peignent la nature en plein air.", "pt": "Os artistas pintam a natureza ao ar livre." },
+        { "level": "C1-C2", "fr": "Peindre la lumière changeante exige une observation constante.", "pt": "Pintar a luz mutável exige uma observação constante." }
+      ]
+    },
+    {
+      "term": "nature",
+      "definitionPt": "natureza",
+      "definitionFr": "Le monde naturel : les arbres, les fleurs, l'eau.",
+      "inflections": ["la nature"],
+      "ptTargets": ["natureza"],
+      "examples": [
+        { "level": "A1", "fr": "Les peintres aiment la nature.", "pt": "Os pintores gostam da natureza." },
+        { "level": "A2-B1", "fr": "Nous aimons la nature et les parcs.", "pt": "Nós gostamos da natureza e dos parques." },
+        { "level": "B2", "fr": "La nature est une source d'inspiration pour les artistes.", "pt": "A natureza é uma fonte de inspiração para os artistas." },
+        { "level": "C1-C2", "fr": "La nature, saisie dans la lumière, devient un tableau.", "pt": "A natureza, captada na luz, torna-se um quadro." }
+      ]
+    },
+    {
+      "term": "danseuse",
+      "definitionPt": "bailarina",
+      "definitionFr": "Femme qui danse, notamment au ballet.",
+      "inflections": ["la danseuse", "une danseuse", "des danseuses"],
+      "ptTargets": ["bailarina"],
+      "examples": [
+        { "level": "A1", "fr": "Íris regarde les danseuses de Degas.", "pt": "Íris olha as bailarinas de Degas." },
+        { "level": "A2-B1", "fr": "La danseuse porte une robe blanche.", "pt": "A bailarina usa um vestido branco." },
+        { "level": "B2", "fr": "Degas a peint de nombreuses danseuses.", "pt": "Degas pintou muitas bailarinas." },
+        { "level": "C1-C2", "fr": "Les danseuses de Degas capturent le mouvement avec délicatesse.", "pt": "As bailarinas de Degas capturam o movimento com delicadeza." }
+      ]
+    },
+    {
+      "term": "tableau",
+      "definitionPt": "quadro, pintura",
+      "definitionFr": "Œuvre d'art peinte sur une toile.",
+      "inflections": ["le tableau", "un tableau", "des tableaux"],
+      "ptTargets": ["quadro"],
+      "examples": [
+        { "level": "A1", "fr": "Andréa aime les tableaux de Monet.", "pt": "Andréa gosta dos quadros de Monet." },
+        { "level": "A2-B1", "fr": "Ce tableau est très coloré.", "pt": "Este quadro é muito colorido." },
+        { "level": "B2", "fr": "Les tableaux impressionnistes sont lumineux.", "pt": "Os quadros impressionistas são luminosos." },
+        { "level": "C1-C2", "fr": "Chaque tableau de Monet explore une nuance de la lumière.", "pt": "Cada quadro de Monet explora uma nuance da luz." }
+      ]
+    },
+    {
+      "term": "comprendre",
+      "definitionPt": "compreender, entender",
+      "definitionFr": "Saisir le sens de quelque chose.",
+      "inflections": ["je comprends", "comprendre", "il comprend"],
+      "ptTargets": ["compreender", "entender"],
+      "examples": [
+        { "level": "A1", "fr": "Je comprends un peu la peinture.", "pt": "Eu entendo um pouco de pintura." },
+        { "level": "A2-B1", "fr": "Nous comprenons le français.", "pt": "Nós entendemos francês." },
+        { "level": "B2", "fr": "Elle comprend l'importance de l'art.", "pt": "Ela entende a importância da arte." },
+        { "level": "C1-C2", "fr": "Comprendre une œuvre, c'est entrer dans le regard de l'artiste.", "pt": "Compreender uma obra é entrar no olhar do artista." }
+      ]
+    },
+    {
+      "term": "lumière",
+      "definitionPt": "luz",
+      "definitionFr": "Clarté qui éclaire les choses.",
+      "inflections": ["la lumière", "une lumière", "des lumières"],
+      "ptTargets": ["luz"],
+      "examples": [
+        { "level": "A1", "fr": "Les peintres peignent la lumière.", "pt": "Os pintores pintam a luz." },
+        { "level": "A2-B1", "fr": "La lumière entre par les grandes fenêtres.", "pt": "A luz entra pelas grandes janelas." },
+        { "level": "B2", "fr": "La lumière de Paris inspire les artistes.", "pt": "A luz de Paris inspira os artistas." },
+        { "level": "C1-C2", "fr": "La lumière changeante du ciel parisien est unique au monde.", "pt": "A luz mutável do céu parisiense é única no mundo." }
+      ]
+    },
+    {
+      "term": "coloré",
+      "definitionPt": "colorido",
+      "definitionFr": "Qui a beaucoup de couleurs.",
+      "inflections": ["coloré", "colorée", "colorés", "colorées"],
+      "ptTargets": ["colorido"],
+      "examples": [
+        { "level": "A1", "fr": "Les tableaux sont très colorés.", "pt": "Os quadros são muito coloridos." },
+        { "level": "A2-B1", "fr": "C'est une peinture colorée et joyeuse.", "pt": "É uma pintura colorida e alegre." },
+        { "level": "B2", "fr": "Les couleurs colorées du tableau attirent l'œil.", "pt": "As cores coloridas do quadro atraem o olhar." },
+        { "level": "C1-C2", "fr": "La palette colorée des impressionnistes illumine le musée.", "pt": "A paleta colorida dos impressionistas ilumina o museu." }
+      ]
+    },
+    {
+      "term": "aimer",
+      "definitionPt": "gostar, amar",
+      "definitionFr": "Apprécier quelque chose ou quelqu'un.",
+      "inflections": ["j'aime", "aimer", "il aime"],
+      "ptTargets": ["gostar", "amar"],
+      "examples": [
+        { "level": "A1", "fr": "Andréa aime beaucoup les tableaux de Monet.", "pt": "Andréa gosta muito dos quadros de Monet." },
+        { "level": "A2-B1", "fr": "Nous aimons visiter les musées.", "pt": "Nós gostamos de visitar os museus." },
+        { "level": "B2", "fr": "Elle aime l'art moderne et classique.", "pt": "Ela gosta de arte moderna e clássica." },
+        { "level": "C1-C2", "fr": "Aimer l'art, c'est cultiver sa sensibilité.", "pt": "Amar a arte é cultivar a sua sensibilidade." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Le verbe peindre au présent",
+    "explanationPt": "O verbo 'peindre' (pintar) é irregular: je peins, tu peins, il/elle peint, nous peignons, vous peignez, ils/elles peignent. Ex.: 'Les impressionnistes peignent la lumière.'",
+    "exampleFr": "Les impressionnistes peignent la lumière, l'eau et la nature.",
+    "examplePt": "Os impressionistas pintam a luz, a água e a natureza.",
+    "practiceQuestion": "Complete com a forma correta: 'Monet _____ des nénuphars.'",
+    "options": ["peint", "peins", "peignons"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "Le verbe peindre au présent",
+        "explanationPt": "'peindre' no presente: je peins, il peint, nous peignons, ils peignent. Ex.: 'Je peins un paysage.', 'Ils peignent la ville.'",
+        "exampleFr": "Je peins un paysage et ils peignent la ville.",
+        "examplePt": "Eu pinto uma paisagem e eles pintam a cidade.",
+        "practiceQuestion": "Complete: 'Nous _____ la nature en plein air.'",
+        "options": ["peignons", "peint", "peignent"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "Beaucoup de / un peu de",
+        "explanationPt": "'beaucoup de' = muito(s): 'Beaucoup de visiteurs'. 'un peu de' = um pouco de: 'un peu de peinture'. Usados com substantivos sem artigo definido.",
+        "exampleFr": "Beaucoup de visiteurs admirent le musée, et je comprends un peu la peinture.",
+        "examplePt": "Muitos visitantes admiram o museu, e eu entendo um pouco de pintura.",
+        "practiceQuestion": "Complete com a expressão correta: 'Il y a _____ peintures dans ce musée.'",
+        "options": ["beaucoup de", "un peu de", "le"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Complete a frase do texto: 'Le musée d'Orsay est une ancienne _____.'",
+      "options": ["gare", "école", "boulangerie"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'Le musée d'Orsay est une ancienne gare.' (O museu d'Orsay é uma antiga estação.)"
+    },
+    {
+      "question": "Ordene corretamente as palavras da frase: [ peignent / la lumière / les impressionnistes / , / ]",
+      "options": [
+        "Les impressionnistes peignent la lumière.",
+        "La lumière peignent les impressionnistes.",
+        "Les impressionnistes la lumière peignent."
+      ],
+      "correctIndex": 0,
+      "explanation": "A frase exata do texto é 'Les impressionnistes peignent la lumière, l'eau et la nature.'"
+    },
+    {
+      "question": "Como se traduz: 'Muitos visitantes admiram o museu'?",
+      "options": [
+        "Beaucoup de visiteurs admirent le musée.",
+        "Un peu de visiteurs admirent le musée.",
+        "Beaucoup de visiteurs admire le musée."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Beaucoup de visiteurs' = muitos visitantes; 'admirent' = admiram."
+    },
+    {
+      "question": "Identifique a frase com ERRO de conjugação do verbo peindre:",
+      "options": [
+        "Je peins un paysage.",
+        "Ils peignent la ville.",
+        "Elle peins des fleurs."
+      ],
+      "correctIndex": 2,
+      "explanation": "O erro é 'Elle peins': com 'elle', o verbo peindre fica 'peint' ('Elle peint des fleurs.')."
+    },
+    {
+      "question": "O que Irlan diz sobre a antiga estação d'Orsay?",
+      "options": [
+        "Que passava diante dela todos os dias quando era entregador",
+        "Que nunca tinha visto Paris",
+        "Que a estação era muito pequena"
+      ],
+      "correctIndex": 0,
+      "explanation": "No texto: 'quand il était livreur, il passait devant cette gare tous les jours.'"
+    }
+  ]
+}

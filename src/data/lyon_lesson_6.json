@@ -1,0 +1,252 @@
+{
+  "id": "lyon_lesson_6",
+  "cityId": "lyon",
+  "domain": "História",
+  "level": "Intermediário (B2+)",
+  "titleFr": "La Croix-Rousse et les canuts : la colline qui travaille",
+  "titlePt": "A Croix-Rousse e os canuts: a colina que trabalha",
+  "subtitleFr": "Les secrets des traboules, le Mur des Canuts et la grande révolte de 1831",
+  "subtitlePt": "Os segredos das traboules, o Muro dos Canuts e a grande revolta de 1831",
+  "summaryPt": "Nesta Aula 6 (B2+), a família explora a Croix-Rousse, a colina dos canuts, e descobre o Mur des Canuts, o maior mural de paredão da Europa. O aluno revisa as três condicionais e o discurso indireto em contexto histórico.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Sur le boulevard de la Croix-Rousse, Iris a découvert une immense fresque : « C'est comme un vrai quartier peint sur le mur ! » Irlan a souri : « C'est le Mur des Canuts, le plus grand mural de la ville. Si tu t'approchais, tu verrais tous les détails de la vie des tisserands. »",
+      "pt": "No bulevar da Croix-Rousse, Íris descobriu um imenso mural: « É como um bairro de verdade pintado na parede! » Irlan sorriu: « É o Muro dos Canuts, o maior mural da cidade. Se você se aproximasse, veria todos os detalhes da vida dos tecelões. »"
+    },
+    {
+      "id": 2,
+      "fr": "Devant une traboule, le guide a raconté : « Les canuts vivaient ici avec leurs métiers à tisser. Si les fenêtres étaient hautes, c'était pour laisser entrer la lumière. Et si le plafond était bas, c'était pour les maisons des ouvriers. »",
+      "pt": "Diante de uma traboule, o guia contou: « Os canuts viviam aqui com seus teares. Se as janelas eram altas, era para deixar entrar a luz. E se o teto era baixo, era por causa das casas dos operários. »"
+    },
+    {
+      "id": 3,
+      "fr": "Au musée, Irlan a lu : « En 1831, les canuts se sont révoltés. Ils demandaient un salaire juste pour leur travail de la soie. Le guide a dit que cette révolte avait marqué toute l'histoire sociale de la France. »",
+      "pt": "No museu, Irlan leu: « Em 1831, os canuts se revoltaram. Eles pediam um salário justo por seu trabalho com a seda. O guia disse que essa revolta tinha marcado toda a história social da França. »"
+    },
+    {
+      "id": 4,
+      "fr": "En redescendant, Iris a demandé : « Si les canuts avaient gagné, la ville serait différente ? » Irlan a répondu : « Peut-être. Si leurs conditions avaient été meilleures, la révolte n'aurait peut-être pas eu lieu. Mais leur combat a fait avancer les droits des travailleurs. »",
+      "pt": "Ao descer, Íris perguntou: « Se os canuts tivessem vencido, a cidade seria diferente? » Irlan respondeu: « Talvez. Se suas condições tivessem sido melhores, a revolta talvez não tivesse acontecido. Mas seu combate fez avançar os direitos dos trabalhadores. »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "la fresque",
+      "definitionPt": "o mural, o afresco",
+      "definitionFr": "Peinture murale.",
+      "inflections": ["la fresque", "les fresques"],
+      "ptTargets": ["mural", "afresco"],
+      "examples": [
+        { "level": "A1", "fr": "La fresque est colorée.", "pt": "O mural é colorido." },
+        { "level": "A2-B1", "fr": "Le Mur des Canuts est une fresque géante.", "pt": "O Muro dos Canuts é um mural gigante." },
+        { "level": "B1-B2", "fr": "La fresque, qui couvre tout le mur, représente un quartier entier.", "pt": "O mural, que cobre a parede inteira, representa um bairro inteiro." },
+        { "level": "C1-C2", "fr": "C'est la fresque qui transforme la rue en musée à ciel ouvert.", "pt": "É o mural que transforma a rua em museu a céu aberto." }
+      ]
+    },
+    {
+      "term": "le mural",
+      "definitionPt": "o mural",
+      "definitionFr": "Peinture réalisée sur un mur.",
+      "inflections": ["le mural", "les muraux"],
+      "ptTargets": ["mural"],
+      "examples": [
+        { "level": "A1", "fr": "Le mural est grand.", "pt": "O mural é grande." },
+        { "level": "A2-B1", "fr": "Le Mur des Canuts est le plus grand mural de Lyon.", "pt": "O Muro dos Canuts é o maior mural de Lyon." },
+        { "level": "B1-B2", "fr": "Les muraux, qui trompent l'œil, attirent des milliers de visiteurs.", "pt": "Os murais, que enganam o olhar, atraem milhares de visitantes." },
+        { "level": "C1-C2", "fr": "C'est l'art du trompe-l'œil qui fait du Mur des Canuts un chef-d'œuvre urbain.", "pt": "É a arte do trompe-l'œil que faz do Muro dos Canuts uma obra-prima urbana." }
+      ]
+    },
+    {
+      "term": "le tisserand",
+      "definitionPt": "o tecelão",
+      "definitionFr": "Ouvrier qui tisse des étoffes.",
+      "inflections": ["le tisserand", "les tisserands"],
+      "ptTargets": ["tecelão"],
+      "examples": [
+        { "level": "A1", "fr": "Le tisserand travaille.", "pt": "O tecelão trabalha." },
+        { "level": "A2-B1", "fr": "Les tisserands vivaient à la Croix-Rousse.", "pt": "Os tecelões viviam na Croix-Rousse." },
+        { "level": "B1-B2", "fr": "Les tisserands, qui travaillaient de longues heures, étaient appelés canuts.", "pt": "Os tecelões, que trabalhavam longas horas, eram chamados canuts." },
+        { "level": "C1-C2", "fr": "C'est le savoir-faire des tisserands qui a fait la renommée de la soie lyonnaise.", "pt": "É o saber-fazer dos tecelões que fez a fama da seda de Lyon." }
+      ]
+    },
+    {
+      "term": "le plafond",
+      "definitionPt": "o teto",
+      "definitionFr": "Surface qui couvre une pièce par le haut.",
+      "inflections": ["le plafond", "les plafonds"],
+      "ptTargets": ["teto"],
+      "examples": [
+        { "level": "A1", "fr": "Le plafond est blanc.", "pt": "O teto é branco." },
+        { "level": "A2-B1", "fr": "Les plafonds des maisons de canuts étaient bas.", "pt": "Os tetos das casas de canuts eram baixos." },
+        { "level": "B1-B2", "fr": "Les plafonds, bas et solides, soutenaient le poids des métiers à tisser.", "pt": "Os tetos, baixos e sólidos, sustentavam o peso dos teares." },
+        { "level": "C1-C2", "fr": "C'est la hauteur des plafonds qui révélait le statut social des habitants.", "pt": "É a altura dos tetos que revelava o status social dos moradores." }
+      ]
+    },
+    {
+      "term": "la fenêtre",
+      "definitionPt": "a janela",
+      "definitionFr": "Ouverture pour laisser entrer la lumière.",
+      "inflections": ["la fenêtre", "les fenêtres"],
+      "ptTargets": ["janela"],
+      "examples": [
+        { "level": "A1", "fr": "La fenêtre est grande.", "pt": "A janela é grande." },
+        { "level": "A2-B1", "fr": "Les fenêtres des ateliers étaient hautes.", "pt": "As janelas dos ateliês eram altas." },
+        { "level": "B1-B2", "fr": "Les fenêtres, hautes et larges, laissaient entrer la lumière pour tisser.", "pt": "As janelas, altas e largas, deixavam entrar a luz para tecer." },
+        { "level": "C1-C2", "fr": "C'est la lumière des fenêtres qui guidait le travail délicat des canuts.", "pt": "É a luz das janelas que guiava o trabalho delicado dos canuts." }
+      ]
+    },
+    {
+      "term": "la révolte",
+      "definitionPt": "a revolta",
+      "definitionFr": "Mouvement de contestation collective.",
+      "inflections": ["la révolte", "les révoltes"],
+      "ptTargets": ["revolta"],
+      "examples": [
+        { "level": "A1", "fr": "La révolte est finie.", "pt": "A revolta acabou." },
+        { "level": "A2-B1", "fr": "La révolte des canuts a eu lieu en 1831.", "pt": "A revolta dos canuts aconteceu em 1831." },
+        { "level": "B1-B2", "fr": "La révolte, qui a duré plusieurs jours, a marqué l'histoire sociale.", "pt": "A revolta, que durou vários dias, marcou a história social." },
+        { "level": "C1-C2", "fr": "C'est la révolte des canuts qui a fait de Lyon un berceau du mouvement ouvrier.", "pt": "É a revolta dos canuts que fez de Lyon um berço do movimento operário." }
+      ]
+    },
+    {
+      "term": "le salaire",
+      "definitionPt": "o salário",
+      "definitionFr": "Argent payé pour un travail.",
+      "inflections": ["le salaire", "les salaires"],
+      "ptTargets": ["salário"],
+      "examples": [
+        { "level": "A1", "fr": "Le salaire est juste.", "pt": "O salário é justo." },
+        { "level": "A2-B1", "fr": "Les canuts demandaient un salaire juste.", "pt": "Os canuts pediam um salário justo." },
+        { "level": "B1-B2", "fr": "Les salaires, trop bas, ont provoqué la colère des ouvriers.", "pt": "Os salários, baixos demais, provocaram a raiva dos operários." },
+        { "level": "C1-C2", "fr": "C'est la question du salaire juste qui a enflammé la révolte de 1831.", "pt": "É a questão do salário justo que incendiou a revolta de 1831." }
+      ]
+    },
+    {
+      "term": "l'ouvrier",
+      "definitionPt": "o operário",
+      "definitionFr": "Personne qui travaille manuellement.",
+      "inflections": ["l'ouvrier", "les ouvriers"],
+      "ptTargets": ["operário", "trabalhador"],
+      "examples": [
+        { "level": "A1", "fr": "L'ouvrier travaille dur.", "pt": "O operário trabalha duro." },
+        { "level": "A2-B1", "fr": "Les ouvriers de la soie étaient nombreux.", "pt": "Os operários da seda eram numerosos." },
+        { "level": "B1-B2", "fr": "Les ouvriers, qui vivaient modestement, rêvaient de conditions meilleures.", "pt": "Os operários, que viviam modestamente, sonhavam com condições melhores." },
+        { "level": "C1-C2", "fr": "C'est la condition des ouvriers qui a nourri les grandes luttes sociales.", "pt": "É a condição dos operários que alimentou as grandes lutas sociais." }
+      ]
+    },
+    {
+      "term": "le travail",
+      "definitionPt": "o trabalho",
+      "definitionFr": "Activité professionnelle.",
+      "inflections": ["le travail", "les travaux"],
+      "ptTargets": ["trabalho"],
+      "examples": [
+        { "level": "A1", "fr": "Le travail est important.", "pt": "O trabalho é importante." },
+        { "level": "A2-B1", "fr": "Le travail de la soie était difficile.", "pt": "O trabalho com a seda era difícil." },
+        { "level": "B1-B2", "fr": "Le travail des canuts, minutieux et épuisant, demandait des heures entières.", "pt": "O trabalho dos canuts, minucioso e exaustivo, exigia horas inteiras." },
+        { "level": "C1-C2", "fr": "C'est la dignité du travail qui était au cœur de la révolte des canuts.", "pt": "É a dignidade do trabalho que estava no coração da revolta dos canuts." }
+      ]
+    },
+    {
+      "term": "le droit",
+      "definitionPt": "o direito",
+      "definitionFr": "Ce qui est permis ou dû à quelqu'un.",
+      "inflections": ["le droit", "les droits"],
+      "ptTargets": ["direito"],
+      "examples": [
+        { "level": "A1", "fr": "Le droit est important.", "pt": "O direito é importante." },
+        { "level": "A2-B1", "fr": "Les travailleurs ont des droits.", "pt": "Os trabalhadores têm direitos." },
+        { "level": "B1-B2", "fr": "Les droits des travailleurs, conquis de haute lutte, sont aujourd'hui protégés.", "pt": "Os direitos dos trabalhadores, conquistados com muito esforço, hoje são protegidos." },
+        { "level": "C1-C2", "fr": "C'est le combat des canuts qui a fait avancer les droits sociaux en France.", "pt": "É o combate dos canuts que fez avançar os direitos sociais na França." }
+      ]
+    },
+    {
+      "term": "lutter",
+      "definitionPt": "lutar",
+      "definitionFr": "Se battre pour quelque chose.",
+      "inflections": ["je lutte", "nous luttons"],
+      "ptTargets": ["lutar", "lutado"],
+      "examples": [
+        { "level": "A1", "fr": "Je lutte pour mes idées.", "pt": "Eu luto pelas minhas ideias." },
+        { "level": "A2-B1", "fr": "Les canuts ont lutté pour leur salaire.", "pt": "Os canuts lutaram pelo seu salário." },
+        { "level": "B1-B2", "fr": "Lutter pour ses droits, c'est refuser l'injustice.", "pt": "Lutar pelos próprios direitos é recusar a injustiça." },
+        { "level": "C1-C2", "fr": "C'est en luttant que les peuples ont conquis leurs libertés.", "pt": "É lutando que os povos conquistaram suas liberdades." }
+      ]
+    },
+    {
+      "term": "l'injustice",
+      "definitionPt": "a injustiça",
+      "definitionFr": "Manque de justice.",
+      "inflections": ["l'injustice", "les injustices"],
+      "ptTargets": ["injustiça"],
+      "examples": [
+        { "level": "A1", "fr": "L'injustice est triste.", "pt": "A injustiça é triste." },
+        { "level": "A2-B1", "fr": "Les canuts ont refusé l'injustice.", "pt": "Os canuts recusaram a injustiça." },
+        { "level": "B1-B2", "fr": "L'injustice, qui frappait les plus faibles, a déclenché la révolte.", "pt": "A injustiça, que atingia os mais fracos, desencadeou a revolta." },
+        { "level": "C1-C2", "fr": "C'est contre l'injustice que s'élèvent les plus grands combats de l'histoire.", "pt": "É contra a injustiça que se erguem os maiores combates da história." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Révision des conditionnelles + discours indirect",
+    "explanationPt": "Revisão integrada: as três condicionais ('Si tu t'approchais, tu verrais', 'Si les canuts avaient gagné, la ville serait différente') e o discurso indireto no passado ('Le guide a dit que cette révolte avait marqué l'histoire').",
+    "exampleFr": "Si les canuts avaient gagné, la ville serait peut-être différente.",
+    "examplePt": "Se os canuts tivessem vencido, a cidade seria talvez diferente.",
+    "practiceQuestion": "Complete: « Si tu t'approchais, tu ___ tous les détails. »",
+    "options": ["verrais", "vois", "verras"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "Si + imparfait → conditionnel présent (répété)",
+        "explanationPt": "Hipóteses no presente: 'Si tu t'approchais, tu verrais tous les détails' (se você se aproximasse, veria todos os detalhes).",
+        "exampleFr": "Si tu t'approchais, tu verrais tous les détails de la fresque.",
+        "examplePt": "Se você se aproximasse, veria todos os detalhes do mural.",
+        "practiceQuestion": "Complete: « Si tu lisais le panneau, tu ___ l'histoire. »",
+        "options": ["comprendrais", "comprends", "comprendras"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "Si + plus-que-parfait → conditionnel passé",
+        "explanationPt": "Hipóteses passadas: 'Si leurs conditions avaient été meilleures, la révolte n'aurait peut-être pas eu lieu' (se as condições tivessem sido melhores, a revolta talvez não tivesse acontecido).",
+        "exampleFr": "Si leurs conditions avaient été meilleures, la révolte n'aurait peut-être pas eu lieu.",
+        "examplePt": "Se as condições tivessem sido melhores, a revolta talvez não tivesse acontecido.",
+        "practiceQuestion": "Complete: « Si les canuts avaient gagné, la ville ___ différente. »",
+        "options": ["serait", "est", "était"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "O que é o Mur des Canuts?",
+      "options": ["um mural gigante que representa um bairro", "um muro medieval", "uma ponte"],
+      "correctIndex": 0,
+      "explanation": "O Mur des Canuts é o maior mural de Lyon, um trompe-l'œil de um bairro inteiro."
+    },
+    {
+      "question": "Por que as janelas dos ateliês eram altas?",
+      "options": ["para deixar entrar a luz", "para enfeitar", "para esconder a rua"],
+      "correctIndex": 0,
+      "explanation": "As janelas altas deixavam entrar a luz necessária para tecer."
+    },
+    {
+      "question": "O que os canuts pediam em 1831?",
+      "options": ["um salário justo", "mais férias", "um novo tear"],
+      "correctIndex": 0,
+      "explanation": "A revolta de 1831 pedia um salário justo para o trabalho da seda."
+    },
+    {
+      "question": "Complete: « Si tu t'approchais, tu ___ les détails. »",
+      "options": ["verrais", "vois", "verras"],
+      "correctIndex": 0,
+      "explanation": "Hipótese presente: si + imparfait → conditionnel présent (verrais)."
+    },
+    {
+      "question": "O que a revolta dos canuts fez avançar?",
+      "options": ["os direitos dos trabalhadores", "o comércio de seda", "a construção de pontes"],
+      "correctIndex": 0,
+      "explanation": "O combate dos canuts fez avançar os direitos dos trabalhadores na França."
+    }
+  ]
+}

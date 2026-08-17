@@ -1,0 +1,257 @@
+{
+  "id": "lyon_lesson_54",
+  "cityId": "lyon",
+  "domain": "Despedida & Balanço",
+  "level": "Intermediário (B2+)",
+  "titleFr": "Le dernier jour : Lyon dit au revoir",
+  "titlePt": "O último dia: Lyon se despede",
+  "subtitleFr": "Rapporter et juger : le dernier bilan B2+",
+  "subtitlePt": "Relatar e julgar: o último balanço B2+",
+  "summaryPt": "No último dia em Lyon, a família refaz o caminho dos lugares amados: a basílica, as traboules, os bouchons, as margens do rio. Nesta aula B2+, o capítulo termina com um balanço que mistura discurso indireto, subjonctif passé, condicionais e clivadas.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "« C'est le dernier matin que nous voyons la basilique », dit Irlan. La famille refit le chemin de Fourvière une dernière fois. « Il est incroyable que six mois soient passés si vite », ajouta Andréa.",
+      "pt": "« É a última manhã em que vemos a basílica », disse Irlan. A família refez o caminho de Fourvière uma última vez. « É incrível que seis meses tenham passado tão rápido », acrescentou Andréa."
+    },
+    {
+      "id": 2,
+      "fr": "Dans un bouchon, la patronne demanda si la famille reviendrait un jour. Irlan répondit qu'ils reviendraient, et que Lyon serait toujours leur deuxième maison. « Si nous n'étions pas venus, nous n'aurions jamais connu tout ça », murmura-t-il.",
+      "pt": "Num bouchon, a dona perguntou se a família voltaria um dia. Irlan respondeu que eles voltariam, e que Lyon seria sempre a segunda casa deles. « Se não tivéssemos vindo, nunca teríamos conhecido tudo isso », murmurou ele."
+    },
+    {
+      "id": 3,
+      "fr": "Sur les berges, Íris fit un dernier tour de vélo. « C'est la plus belle ville du monde après São Paulo ! » cria-t-elle. Andréa répondit qu'elle était d'accord, même si São Paulo n'avait pas de Saône.",
+      "pt": "Nas margens, Íris deu uma última volta de bicicleta. « É a cidade mais bonita do mundo depois de São Paulo! » gritou ela. Andréa respondeu que concordava, mesmo que São Paulo não tivesse um Saône."
+    },
+    {
+      "id": 4,
+      "fr": "Le soir, la famille monta sur la colline pour voir la ville s'illuminer. « Il est émouvant que nous ayons été accueillis ici », dit Irlan. Andréa prit sa main : « C'est ici que nous avons construit notre vie. »",
+      "pt": "À noite, a família subiu à colina para ver a cidade se iluminar. « É emocionante que tenhamos sido acolhidos aqui », disse Irlan. Andréa pegou a mão dele: « Foi aqui que construímos nossa vida. »"
+    },
+    {
+      "id": 5,
+      "fr": "Irlan écrivit : « Demain, le TGV nous emportera vers la mer. Mais je laisse ici une partie de moi : sur la colline, dans les traboules, dans le rire de Guignol. Lyon ne se quitte pas. Elle se garde. Et c'est elle qui me garde aussi. »",
+      "pt": "Irlan escreveu: « Amanhã, o TGV nos levará para o mar. Mas deixo aqui uma parte de mim: na colina, nas traboules, no riso de Guignol. Lyon não se deixa. Ela se guarda. E é ela que também me guarda. »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "le chemin",
+      "definitionPt": "caminho",
+      "definitionFr": "Trajet à parcourir.",
+      "inflections": ["le chemin", "des chemins"],
+      "ptTargets": ["caminho", "caminhos"],
+      "examples": [
+        { "level": "A1", "fr": "Le chemin est long.", "pt": "O caminho é longo." },
+        { "level": "A2-B1", "fr": "La famille refait le chemin de Fourvière.", "pt": "A família refaz o caminho de Fourvière." },
+        { "level": "B1-B2", "fr": "Le chemin, parcouru mille fois, reste toujours nouveau.", "pt": "O caminho, percorrido mil vezes, continua sempre novo." },
+        { "level": "C1-C2", "fr": "C'est le chemin qui fait le voyageur.", "pt": "É o caminho que faz o viajante." }
+      ]
+    },
+    {
+      "term": "revenir",
+      "definitionPt": "voltar",
+      "definitionFr": "Venir de nouveau.",
+      "inflections": ["je reviens", "revenir", "revenu"],
+      "ptTargets": ["voltar", "voltariam", "voltaria"],
+      "examples": [
+        { "level": "A1", "fr": "Je reviens demain.", "pt": "Eu volto amanhã." },
+        { "level": "A2-B1", "fr": "La famille reviendra un jour.", "pt": "A família voltará um dia." },
+        { "level": "B1-B2", "fr": "Revenir à Lyon, c'est retrouver ses souvenirs.", "pt": "Voltar a Lyon é reencontrar as lembranças." },
+        { "level": "C1-C2", "fr": "C'est en revenant que l'on mesure le chemin parcouru.", "pt": "É voltando que se mede o caminho percorrido." }
+      ]
+    },
+    {
+      "term": "construire",
+      "definitionPt": "construir",
+      "definitionFr": "Bâtir, créer.",
+      "inflections": ["je construis", "construire", "construit"],
+      "ptTargets": ["construir", "construímos", "construído"],
+      "examples": [
+        { "level": "A1", "fr": "Je construis une maison.", "pt": "Eu construo uma casa." },
+        { "level": "A2-B1", "fr": "Nous avons construit notre vie ici.", "pt": "Construímos nossa vida aqui." },
+        { "level": "B1-B2", "fr": "Construire une vie nouvelle, c'est accepter le temps.", "pt": "Construir uma vida nova é aceitar o tempo." },
+        { "level": "C1-C2", "fr": "C'est en construisant que l'on laisse une trace.", "pt": "É construindo que se deixa um rastro." }
+      ]
+    },
+    {
+      "term": "accueillir",
+      "definitionPt": "acolher",
+      "definitionFr": "Recevoir chaleureusement.",
+      "inflections": ["j'accueille", "accueillir", "accueilli"],
+      "ptTargets": ["acolher", "acolhidos", "acolhido"],
+      "examples": [
+        { "level": "A1", "fr": "La ville accueille les visiteurs.", "pt": "A cidade acolhe os visitantes." },
+        { "level": "A2-B1", "fr": "Lyon a accueilli la famille.", "pt": "Lyon acolheu a família." },
+        { "level": "B1-B2", "fr": "Il est émouvant que nous ayons été accueillis ici.", "pt": "É emocionante que tenhamos sido acolhidos aqui." },
+        { "level": "C1-C2", "fr": "C'est en accueillant que l'on s'enrichit.", "pt": "É acolhendo que se enriquece." }
+      ]
+    },
+    {
+      "term": "emporter",
+      "definitionPt": "levar, carregar",
+      "definitionFr": "Porter avec soi en partant.",
+      "inflections": ["j'emporte", "emporter", "emporté"],
+      "ptTargets": ["levar", "carregar", "levará"],
+      "examples": [
+        { "level": "A1", "fr": "J'emporte mon sac.", "pt": "Eu levo minha bolsa." },
+        { "level": "A2-B1", "fr": "Le TGV nous emportera vers la mer.", "pt": "O TGV nos levará para o mar." },
+        { "level": "B1-B2", "fr": "Emporter ses souvenirs, c'est voyager léger.", "pt": "Levar as lembranças é viajar leve." },
+        { "level": "C1-C2", "fr": "C'est ce que l'on emporte qui fait la richesse du départ.", "pt": "É o que se leva que faz a riqueza da partida." }
+      ]
+    },
+    {
+      "term": "la mer",
+      "definitionPt": "mar",
+      "definitionFr": "Grande étendue d'eau salée.",
+      "inflections": ["la mer", "des mers"],
+      "ptTargets": ["mar", "mares"],
+      "examples": [
+        { "level": "A1", "fr": "La mer est bleue.", "pt": "O mar é azul." },
+        { "level": "A2-B1", "fr": "Marseille est au bord de la mer.", "pt": "Marseille fica à beira-mar." },
+        { "level": "B1-B2", "fr": "La mer, attendue par Íris, promet de nouveaux rêves.", "pt": "O mar, esperado por Íris, promete novos sonhos." },
+        { "level": "C1-C2", "fr": "C'est la mer qui ouvre l'horizon des villes.", "pt": "É o mar que abre o horizonte das cidades." }
+      ]
+    },
+    {
+      "term": "garder",
+      "definitionPt": "guardar",
+      "definitionFr": "Conserver, protéger.",
+      "inflections": ["je garde", "garder", "gardé"],
+      "ptTargets": ["guardar", "guarda", "guardado"],
+      "examples": [
+        { "level": "A1", "fr": "Je garde le secret.", "pt": "Eu guardo o segredo." },
+        { "level": "A2-B1", "fr": "Je garde Lyon dans mon cœur.", "pt": "Eu guardo Lyon no meu coração." },
+        { "level": "B1-B2", "fr": "Garder une ville en soi, c'est ne jamais la quitter vraiment.", "pt": "Guardar uma cidade dentro de si é nunca a deixar de verdade." },
+        { "level": "C1-C2", "fr": "C'est en gardant que l'on protège ce qui compte.", "pt": "É guardando que se protege o que importa." }
+      ]
+    },
+    {
+      "term": "la deuxième maison",
+      "definitionPt": "segunda casa",
+      "definitionFr": "Lieu où l'on se sent chez soi sans y habiter.",
+      "inflections": ["la deuxième maison", "des deuxièmes maisons"],
+      "ptTargets": ["segunda casa"],
+      "examples": [
+        { "level": "A1", "fr": "La deuxième maison est belle.", "pt": "A segunda casa é bonita." },
+        { "level": "A2-B1", "fr": "Lyon sera notre deuxième maison.", "pt": "Lyon será nossa segunda casa." },
+        { "level": "B1-B2", "fr": "La deuxième maison, choisie par le cœur, ne se quitte jamais.", "pt": "A segunda casa, escolhida pelo coração, nunca se deixa." },
+        { "level": "C1-C2", "fr": "C'est la deuxième maison qui prouve que l'on peut aimer deux fois.", "pt": "É a segunda casa que prova que se pode amar duas vezes." }
+      ]
+    },
+    {
+      "term": "le bilan",
+      "definitionPt": "balanço, avaliação",
+      "definitionFr": "Récapitulation de ce qui a été fait.",
+      "inflections": ["le bilan", "des bilans"],
+      "ptTargets": ["balanço", "avaliação", "balanços"],
+      "examples": [
+        { "level": "A1", "fr": "Le bilan est positif.", "pt": "O balanço é positivo." },
+        { "level": "A2-B1", "fr": "La famille fait le bilan du voyage.", "pt": "A família faz o balanço da viagem." },
+        { "level": "B1-B2", "fr": "Le bilan, fait ensemble, donne du sens à l'aventure.", "pt": "O balanço, feito juntos, dá sentido à aventura." },
+        { "level": "C1-C2", "fr": "C'est le bilan qui transforme l'expérience en mémoire.", "pt": "É o balanço que transforma a experiência em memória." }
+      ]
+    },
+    {
+      "term": "l'aventure",
+      "definitionPt": "aventura",
+      "definitionFr": "Expérience riche en découvertes.",
+      "inflections": ["l'aventure", "des aventures"],
+      "ptTargets": ["aventura", "aventuras"],
+      "examples": [
+        { "level": "A1", "fr": "L'aventure est excitante.", "pt": "A aventura é empolgante." },
+        { "level": "A2-B1", "fr": "La vie en France est une aventure.", "pt": "A vida na França é uma aventura." },
+        { "level": "B1-B2", "fr": "L'aventure, commencée à Paris, continue vers le sud.", "pt": "A aventura, começada em Paris, continua para o sul." },
+        { "level": "C1-C2", "fr": "C'est l'aventure qui donne son goût à la vie.", "pt": "É a aventura que dá gosto à vida." }
+      ]
+    },
+    {
+      "term": "l'horizon",
+      "definitionPt": "horizonte",
+      "definitionFr": "Ligne où le ciel semble toucher la terre ou la mer.",
+      "inflections": ["l'horizon", "des horizons"],
+      "ptTargets": ["horizonte", "horizontes"],
+      "examples": [
+        { "level": "A1", "fr": "L'horizon est loin.", "pt": "O horizonte é longe." },
+        { "level": "A2-B1", "fr": "Marseille ouvre un nouvel horizon.", "pt": "Marseille abre um novo horizonte." },
+        { "level": "B1-B2", "fr": "L'horizon, vu de la mer, semble infini.", "pt": "O horizonte, visto do mar, parece infinito." },
+        { "level": "C1-C2", "fr": "C'est l'horizon qui pousse le voyageur à continuer.", "pt": "É o horizonte que empurra o viajante a continuar." }
+      ]
+    },
+    {
+      "term": "la trace",
+      "definitionPt": "rastro, marca",
+      "definitionFr": "Marque laissée par un passage.",
+      "inflections": ["la trace", "des traces"],
+      "ptTargets": ["rastro", "marca", "rastros"],
+      "examples": [
+        { "level": "A1", "fr": "La trace est visible.", "pt": "O rastro é visível." },
+        { "level": "A2-B1", "fr": "La famille laisse une trace à Lyon.", "pt": "A família deixa um rastro em Lyon." },
+        { "level": "B1-B2", "fr": "Les traces, légères, suffisent à prouver qu'on est passé.", "pt": "Os rastros, leves, bastam para provar que se passou." },
+        { "level": "C1-C2", "fr": "C'est la trace qui relie ceux qui restent à ceux qui partent.", "pt": "É o rastro que liga os que ficam aos que partem." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Le bilan B2+ : toutes les structures réunies",
+    "explanationPt": "Balanço final com tudo: clivadas ('c'est le dernier matin que nous voyons la basilique'; 'c'est ici que nous avons construit notre vie'), subjonctif passé ('il est incroyable que six mois soient passés si vite'; 'il est émouvant que nous ayons été accueillis'), condicionais ('si nous n'étions pas venus, nous n'aurions jamais connu tout ça') e discurso indireto ('la patronne demanda si la famille reviendrait'; 'Irlan répondit qu'ils reviendraient').",
+    "exampleFr": "La patronne demanda si la famille reviendrait ; si nous n'étions pas venus, nous n'aurions jamais connu tout ça.",
+    "examplePt": "A dona perguntou se a família voltaria; se não tivéssemos vindo, nunca teríamos conhecido tudo isso.",
+    "practiceQuestion": "Complete: « La patronne demanda si la famille ___ un jour. »",
+    "options": ["reviendrait", "reviendra", "revient"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "Discours indirect + futur → conditionnel",
+        "explanationPt": "'Elle demanda : reviendrez-vous ?' → 'elle demanda si la famille reviendrait' : futuro vira condicional.",
+        "exampleFr": "Irlan répondit qu'ils reviendraient, et que Lyon serait toujours leur deuxième maison.",
+        "examplePt": "Irlan respondeu que eles voltariam, e que Lyon seria sempre a segunda casa deles.",
+        "practiceQuestion": "Complete: « Irlan répondit qu'ils ___ un jour. »",
+        "options": ["reviendraient", "reviendront", "reviennent"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "Subjonctif passé passif",
+        "explanationPt": "'Que nous ayons été accueillis' : subjonctif passé na voz passiva.",
+        "exampleFr": "Il est émouvant que nous ayons été accueillis ici.",
+        "examplePt": "É emocionante que tenhamos sido acolhidos aqui.",
+        "practiceQuestion": "Complete: « Il est émouvant que nous ___ été accueillis ici. »",
+        "options": ["ayons", "avons", "avions"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Complete: « La patronne demanda si la famille ___ un jour. »",
+      "options": ["reviendrait", "reviendra", "revient"],
+      "correctIndex": 0,
+      "explanation": "Futuro vira condicional no discurso indireto."
+    },
+    {
+      "question": "O que Íris disse sobre Lyon?",
+      "options": ["Que é a cidade mais bonita do mundo depois de São Paulo", "Que é pequena", "Que prefere Paris"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'C'est la plus belle ville du monde après São Paulo !'"
+    },
+    {
+      "question": "O que Irlan disse que teria acontecido se não tivessem vindo?",
+      "options": ["Nunca teriam conhecido tudo aquilo", "Nada teria mudado", "Teriam ficado no Brasil"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'Si nous n'étions pas venus, nous n'aurions jamais connu tout ça.'"
+    },
+    {
+      "question": "Complete: « Irlan répondit qu'ils ___ un jour. »",
+      "options": ["reviendraient", "reviendront", "reviennent"],
+      "correctIndex": 0,
+      "explanation": "Futuro vira condicional no discurso indireto."
+    },
+    {
+      "question": "O que Irlan escreveu sobre Lyon no final?",
+      "options": ["Que Lyon não se deixa, ela se guarda", "Que Lyon é muito fria", "Que Lyon é pequena demais"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'Lyon ne se quitte pas. Elle se garde. Et c'est elle qui me garde aussi.'"
+    }
+  ]
+}

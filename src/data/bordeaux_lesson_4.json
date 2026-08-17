@@ -1,0 +1,252 @@
+{
+  "id": "bordeaux_lesson_4",
+  "cityId": "bordeaux",
+  "domain": "Vinhedos",
+  "level": "Intermediário (B1+)",
+  "titleFr": "Dans un château du Médoc : les secrets du grand cru",
+  "titlePt": "Num castelo do Médoc: os segredos do grande vinho",
+  "subtitleFr": "La visite d'un vignoble, entre chais et vendanges",
+  "subtitlePt": "A visita a um vinhedo, entre adegas e vindimas",
+  "summaryPt": "Nesta Aula 4 (B1+), a família visita um château viticole do Médoc. O vigneron explica o trabalho da vinha e da adega, e Irlan experimenta usar os pronomes complemento: 'je le goûte', 'nous la visitons'. O aluno domina os pronomes COD (le, la, les) e sua posição na frase.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Dans le Médoc, le château se cache derrière une allée de platanes. Le vigneron a accueilli la famille : « Bienvenue ! Je vais vous montrer le chai. »",
+      "pt": "No Médoc, o castelo se esconde atrás de uma alameda de plátanos. O viticultor recebeu a família: « Bem-vindos! Vou mostrar-lhes a adega. »"
+    },
+    {
+      "id": 2,
+      "fr": "Dans le chai, les barriques de chêne s'alignent à l'infini. « Nous les retournons plusieurs fois par an », a expliqué le vigneron. « Le bois leur donne de la structure. »",
+      "pt": "Na adega, os barris de carvalho se alinham até onde a vista alcança. « Nós os giramos várias vezes por ano », explicou o viticultor. « A madeira dá-lhes estrutura. »"
+    },
+    {
+      "id": 3,
+      "fr": "Irlan a goûté un échantillon. « Je le trouve très élégant », a-t-il dit. Le vigneron a souri : « Vous avez bon goût ! Ce vin vient des vignes plantées en 1980. »",
+      "pt": "Irlan provou uma amostra. « Eu o acho muito elegante », disse ele. O viticultor sorriu: « Vocês têm bom gosto! Este vinho vem das videiras plantadas em 1980. »"
+    },
+    {
+      "id": 4,
+      "fr": "Avant de partir, la famille a acheté une bouteille. Andréa l'a mise dans le sac avec soin. « Nous la garderons pour notre anniversaire », a-t-elle promis. Iris a ajouté : « Et moi, je la garderai dans ma mémoire ! »",
+      "pt": "Antes de partir, a família comprou uma garrafa. Andréa a colocou na bolsa com cuidado. « Vamos guardá-la para nosso aniversário », prometeu ela. Íris acrescentou: « E eu, vou guardá-la na minha memória! »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "le vigneron",
+      "definitionPt": "o viticultor, o produtor de vinho",
+      "definitionFr": "Personne qui cultive la vigne et fait le vin.",
+      "inflections": ["le vigneron", "les vignerons"],
+      "ptTargets": ["viticultor", "produtor de vinho", "vignerons"],
+      "examples": [
+        { "level": "A1", "fr": "Le vigneron travaille.", "pt": "O viticultor trabalha." },
+        { "level": "A2-B1", "fr": "Le vigneron a accueilli la famille.", "pt": "O viticultor recebeu a família." },
+        { "level": "B1-B2", "fr": "Le vigneron, qui connaît chaque parcelle, suit les vignes toute l'année.", "pt": "O viticultor, que conhece cada talhão, acompanha as videiras o ano todo." },
+        { "level": "C1-C2", "fr": "Le vigneron bordelais transmet un savoir-faire hérité de plusieurs générations.", "pt": "O viticultor de Bordeaux transmite um saber-fazer herdado de várias gerações." }
+      ]
+    },
+    {
+      "term": "le chai",
+      "definitionPt": "a adega (onde o vinho envelhece)",
+      "definitionFr": "Lieu où l'on élève le vin.",
+      "inflections": ["le chai", "les chais"],
+      "ptTargets": ["adega", "chai"],
+      "examples": [
+        { "level": "A1", "fr": "Le chai est frais.", "pt": "A adega é fresca." },
+        { "level": "A2-B1", "fr": "Le vigneron a montré le chai à la famille.", "pt": "O viticultor mostrou a adega à família." },
+        { "level": "B1-B2", "fr": "Le chai, où les barriques vieillissent, garde une température constante.", "pt": "A adega, onde os barris envelhecem, mantém temperatura constante." },
+        { "level": "C1-C2", "fr": "L'architecture des chais modernes allie tradition viticole et maîtrise technique.", "pt": "A arquitetura das adegas modernas alia tradição vitícola e domínio técnico." }
+      ]
+    },
+    {
+      "term": "la barrique",
+      "definitionPt": "o barril (de carvalho)",
+      "definitionFr": "Fût de chêne pour le vin.",
+      "inflections": ["la barrique", "les barriques"],
+      "ptTargets": ["barril", "tonel"],
+      "examples": [
+        { "level": "A1", "fr": "La barrique est en bois.", "pt": "O barril é de madeira." },
+        { "level": "A2-B1", "fr": "Les barriques de chêne s'alignent dans le chai.", "pt": "Os barris de carvalho se alinham na adega." },
+        { "level": "B1-B2", "fr": "La barrique, qui contient deux cent vingt-cinq litres, parfume le vin.", "pt": "O barril, que contém duzentos e vinte e cinco litros, perfuma o vinho." },
+        { "level": "C1-C2", "fr": "Le choix de la barrique, de son origine et de sa chauffe, influence la finesse du vin.", "pt": "A escolha do barril, de sua origem e de sua queima, influencia a fineza do vinho." }
+      ]
+    },
+    {
+      "term": "le chêne",
+      "definitionPt": "o carvalho",
+      "definitionFr": "Grand arbre à bois dur.",
+      "inflections": ["le chêne", "les chênes"],
+      "ptTargets": ["carvalho"],
+      "examples": [
+        { "level": "A1", "fr": "Le chêne est grand.", "pt": "O carvalho é grande." },
+        { "level": "A2-B1", "fr": "Les barriques sont en chêne.", "pt": "Os barris são de carvalho." },
+        { "level": "B1-B2", "fr": "Le chêne, qui vient souvent de la forêt de Tronçais, donne ses tanins au vin.", "pt": "O carvalho, que vem muitas vezes da floresta de Tronçais, dá seus taninos ao vinho." },
+        { "level": "C1-C2", "fr": "L'élevage en chêne français est un art qui équilibre bois, fruit et temps.", "pt": "A maturação em carvalho francês é uma arte que equilibra madeira, fruta e tempo." }
+      ]
+    },
+    {
+      "term": "le goût",
+      "definitionPt": "o gosto, o paladar",
+      "definitionFr": "Sens qui perçoit les saveurs.",
+      "inflections": ["le goût", "les goûts"],
+      "ptTargets": ["gosto", "paladar"],
+      "examples": [
+        { "level": "A1", "fr": "Le goût est bon.", "pt": "O gosto é bom." },
+        { "level": "A2-B1", "fr": "Irlan a bon goût.", "pt": "Irlan tem bom gosto." },
+        { "level": "B1-B2", "fr": "Le goût, qui s'éduque avec l'expérience, se cultive.", "pt": "O gosto, que se educa com a experiência, se cultiva." },
+        { "level": "C1-C2", "fr": "Le goût est une construction culturelle autant qu'une expérience sensorielle.", "pt": "O gosto é uma construção cultural tanto quanto uma experiência sensorial." }
+      ]
+    },
+    {
+      "term": "la structure",
+      "definitionPt": "a estrutura",
+      "definitionFr": "Organisation, armature.",
+      "inflections": ["la structure", "les structures"],
+      "ptTargets": ["estrutura"],
+      "examples": [
+        { "level": "A1", "fr": "La structure est solide.", "pt": "A estrutura é sólida." },
+        { "level": "A2-B1", "fr": "Le bois donne de la structure au vin.", "pt": "A madeira dá estrutura ao vinho." },
+        { "level": "B1-B2", "fr": "La structure, qui repose sur les tanins, garantit le vieillissement.", "pt": "A estrutura, que se apoia nos taninos, garante o envelhecimento." },
+        { "level": "C1-C2", "fr": "Un grand vin allie structure, finesse et longueur en bouche.", "pt": "Um grande vinho alia estrutura, fineza e persistência na boca." }
+      ]
+    },
+    {
+      "term": "l'échantillon",
+      "definitionPt": "a amostra",
+      "definitionFr": "Petite quantité pour tester.",
+      "inflections": ["l'échantillon", "les échantillons"],
+      "ptTargets": ["amostra"],
+      "examples": [
+        { "level": "A1", "fr": "L'échantillon est petit.", "pt": "A amostra é pequena." },
+        { "level": "A2-B1", "fr": "Irlan a goûté un échantillon du vin.", "pt": "Irlan provou uma amostra do vinho." },
+        { "level": "B1-B2", "fr": "L'échantillon, que l'on tire au fût, permet d'évaluer l'évolution.", "pt": "A amostra, que se tira do tonel, permite avaliar a evolução." },
+        { "level": "C1-C2", "fr": "La dégustation d'échantillons au chai guide les décisions d'assemblage.", "pt": "A degustação de amostras na adega orienta as decisões de assemblage." }
+      ]
+    },
+    {
+      "term": "la bouteille",
+      "definitionPt": "a garrafa",
+      "definitionFr": "Récipient en verre pour le vin.",
+      "inflections": ["la bouteille", "les bouteilles"],
+      "ptTargets": ["garrafa"],
+      "examples": [
+        { "level": "A1", "fr": "La bouteille est pleine.", "pt": "A garrafa está cheia." },
+        { "level": "A2-B1", "fr": "La famille a acheté une bouteille de grand cru.", "pt": "A família comprou uma garrafa de grande vinho." },
+        { "level": "B1-B2", "fr": "La bouteille, qu'Andréa garde précieusement, attend un jour spécial.", "pt": "A garrafa, que Andréa guarda com carinho, espera um dia especial." },
+        { "level": "C1-C2", "fr": "La forme de la bouteille bordelaise est devenue un standard mondial.", "pt": "A forma da garrafa de Bordeaux tornou-se um padrão mundial." }
+      ]
+    },
+    {
+      "term": "l'anniversaire",
+      "definitionPt": "o aniversário",
+      "definitionFr": "Jour de la naissance.",
+      "inflections": ["l'anniversaire", "les anniversaires"],
+      "ptTargets": ["aniversário"],
+      "examples": [
+        { "level": "A1", "fr": "L'anniversaire est joyeux.", "pt": "O aniversário é alegre." },
+        { "level": "A2-B1", "fr": "Andréa gardera la bouteille pour leur anniversaire.", "pt": "Andréa guardará a garrafa para o aniversário deles." },
+        { "level": "B1-B2", "fr": "L'anniversaire, que l'on fête en famille, est un moment précieux.", "pt": "O aniversário, que se celebra em família, é um momento precioso." },
+        { "level": "C1-C2", "fr": "Un grand vin bu à un anniversaire se souvient toute une vie.", "pt": "Um grande vinho bebido num aniversário é lembrado a vida toda." }
+      ]
+    },
+    {
+      "term": "l'allée",
+      "definitionPt": "a alameda, o caminho",
+      "definitionFr": "Chemin bordé d'arbres.",
+      "inflections": ["l'allée", "les allées"],
+      "ptTargets": ["alameda", "caminho"],
+      "examples": [
+        { "level": "A1", "fr": "L'allée est longue.", "pt": "A alameda é longa." },
+        { "level": "A2-B1", "fr": "Le château se cache au bout d'une allée de platanes.", "pt": "O castelo se esconde no fim de uma alameda de plátanos." },
+        { "level": "B1-B2", "fr": "L'allée, qui mène au chai, annonce la grandeur du domaine.", "pt": "A alameda, que leva à adega, anuncia a grandiosidade da propriedade." },
+        { "level": "C1-C2", "fr": "Les allées de platanes dessinent l'image romantique des grands domaines bordelais.", "pt": "As alamedas de plátanos desenham a imagem romântica dos grandes domínios de Bordeaux." }
+      ]
+    },
+    {
+      "term": "le domaine",
+      "definitionPt": "a propriedade, o domínio",
+      "definitionFr": "Exploitation agricole, propriété.",
+      "inflections": ["le domaine", "les domaines"],
+      "ptTargets": ["domínio", "propriedade"],
+      "examples": [
+        { "level": "A1", "fr": "Le domaine est vaste.", "pt": "A propriedade é vasta." },
+        { "level": "A2-B1", "fr": "Le domaine produit un vin excellent.", "pt": "A propriedade produz um vinho excelente." },
+        { "level": "B1-B2", "fr": "Le domaine, qui s'étend sur quarante hectares, appartient à la même famille.", "pt": "A propriedade, que se estende por quarenta hectares, pertence à mesma família." },
+        { "level": "C1-C2", "fr": "La gestion d'un domaine viticole exige patience, précision et amour de la terre.", "pt": "A gestão de uma propriedade vitícola exige paciência, precisão e amor à terra." }
+      ]
+    },
+    {
+      "term": "élégant",
+      "definitionPt": "elegante",
+      "definitionFr": "Qui a de l'élégance.",
+      "inflections": ["élégant", "élégante", "élégants"],
+      "ptTargets": ["elegante"],
+      "examples": [
+        { "level": "A1", "fr": "Le vin est élégant.", "pt": "O vinho é elegante." },
+        { "level": "A2-B1", "fr": "Irlan trouve ce vin très élégant.", "pt": "Irlan acha este vinho muito elegante." },
+        { "level": "B1-B2", "fr": "Ce vin, qui est élégant et profond, accompagnera un grand repas.", "pt": "Este vinho, que é elegante e profundo, acompanhará uma grande refeição." },
+        { "level": "C1-C2", "fr": "L'élégance d'un grand cru réside dans son équilibre parfait.", "pt": "A elegância de um grande vinho reside em seu equilíbrio perfeito." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Les pronoms COD : le, la, les",
+    "explanationPt": "Os pronomes COD substituem o objeto direto e vêm antes do verbo: 'je le trouve élégant' (eu o acho), 'nous la garderons' (vamos guardá-la), 'il les retourne' (ele os gira).",
+    "exampleFr": "Je le trouve très élégant.",
+    "examplePt": "Eu o acho muito elegante.",
+    "practiceQuestion": "Complete: « Andréa ___ gardera pour l'anniversaire. » (a bouteille)",
+    "options": ["la", "le", "les"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "La position du pronom au passé composé",
+        "explanationPt": "No passé composé, o pronome vem antes do auxiliar: 'je l'ai goûté', 'nous l'avons achetée' (concordância do particípio com le COD).",
+        "exampleFr": "Andréa l'a mise dans le sac avec soin.",
+        "examplePt": "Andréa a colocou-a na bolsa com cuidado.",
+        "practiceQuestion": "Complete: « Andréa l'___ mise dans le sac. »",
+        "options": ["a", "as", "ai"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "Le pronom COI : leur",
+        "explanationPt": "COI plural: 'le bois leur donne de la structure' (a madeira lhes dá estrutura). 'Leur' é invariável.",
+        "exampleFr": "Le bois leur donne de la structure.",
+        "examplePt": "A madeira lhes dá estrutura.",
+        "practiceQuestion": "Complete: « Le bois ___ donne de la structure. »",
+        "options": ["leur", "leurs", "la"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "O que se alinha no chai?",
+      "options": ["barris de carvalho", "garrafas vazias", "caixas de uva"],
+      "correctIndex": 0,
+      "explanation": "No chai, as barriques de chêne se alinham."
+    },
+    {
+      "question": "De que as barricas são feitas?",
+      "options": ["de carvalho", "de pinho", "de aço"],
+      "correctIndex": 0,
+      "explanation": "As barricas são de chêne (carvalho)."
+    },
+    {
+      "question": "O que Irlan acha do vinho?",
+      "options": ["muito elegante", "muito doce", "muito fraco"],
+      "correctIndex": 0,
+      "explanation": "Irlan acha o vinho très élégant."
+    },
+    {
+      "question": "Complete: « Andréa ___ gardera pour l'anniversaire. » (a bouteille)",
+      "options": ["la", "le", "les"],
+      "correctIndex": 0,
+      "explanation": "COD feminino singular: la gardera."
+    },
+    {
+      "question": "Para que a família guarda a garrafa?",
+      "options": ["para o aniversário deles", "para vender", "para dar de presente"],
+      "correctIndex": 0,
+      "explanation": "Andréa guarda a garrafa pour leur anniversaire."
+    }
+  ]
+}

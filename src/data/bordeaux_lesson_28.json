@@ -1,0 +1,237 @@
+{
+  "id": "bordeaux_lesson_28",
+  "cityId": "bordeaux",
+  "domain": "Festas e cultura",
+  "level": "Intermediário (B1+)",
+  "titleFr": "La Fête du vin : les quais en fête",
+  "titlePt": "A Festa do Vinho: os cais em festa",
+  "subtitleFr": "En juin, Bordeaux célèbre son vin sur les quais de la Garonne",
+  "subtitlePt": "Em junho, Bordeaux celebra seu vinho nos cais da Garonne",
+  "summaryPt": "Nesta Aula 28 (B1+), a família participa da Fête du vin, a grande festa bienal que enche os cais de Bordeaux de degustações, concertos e fogos. O aluno pratica o vocabulário da festa (la fête, la dégustation, le feu d'artifice) e o gérondif com os pronomes COI.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "« Tous les deux ans, Bordeaux organise la Fête du vin », a dit Andréa. « Les quais se remplissent de stands, de concerts et de dégustations. » Iris a regardé les drapeaux : « On dirait un anniversaire pour la ville entière ! »",
+      "pt": "« De dois em dois anos, Bordeaux organiza a Festa do Vinho », disse Andréa. « Os cais se enchem de estandes, concertos e degustações. » Íris olhou as bandeiras: « Parece um aniversário para a cidade inteira! »"
+    },
+    {
+      "id": 2,
+      "fr": "La famille a reçu un verre de dégustation. « En goûtant, il faut faire tourner le vin dans le verre », a expliqué Irlan. « Et en le sentant, on découvre ses parfums. » Iris a fait semblant de goûter : « Mmm, il sent le raisin… et la fête ! »",
+      "pt": "A família recebeu uma taça de degustação. « Provando, é preciso girar o vinho na taça », explicou Irlan. « E cheirando-o, descobre-se seus perfumes. » Íris fingiu provar: « Mmm, cheira a uva… e a festa! »"
+    },
+    {
+      "id": 3,
+      "fr": "Sur la grande scène, un concert a commencé. « En écoutant cette musique, on oublie le travail », a dit Irlan. Des gens dansaient, d'autres parlaient, tous heureux. « Il faudrait que la fête dure tout l'été ! » a soupiré Andréa.",
+      "pt": "No palco grande, um concerto começou. « Ouvindo essa música, esquece-se o trabalho », disse Irlan. Pessoas dançavam, outras conversavam, todas felizes. « Seria preciso que a festa durasse o verão inteiro! » suspirou Andréa."
+    },
+    {
+      "id": 4,
+      "fr": "Le soir, le feu d'artifice a illuminé le ciel au-dessus du Miroir d'eau. « Regardez ! Les couleurs se reflètent dans l'eau ! » a crié Iris. La foule a applaudi. « En voyant cela, je pense à mes parents au Brésil », a murmuré Irlan. « Je leur montrerai les photos. »",
+      "pt": "À noite, os fogos iluminaram o céu sobre o Miroir d'eau. « Olhem! As cores se refletem na água! » gritou Íris. A multidão aplaudiu. « Vendo isso, penso nos meus pais no Brasil », murmurou Irlan. « Vou mostrar as fotos para eles. »"
+    },
+    {
+      "id": 5,
+      "fr": "En rentrant, Iris était fatiguée mais heureuse. « C'était la plus belle fête de ma vie ! » a-t-elle dit. Irlan l'a portée sur ses épaules : « Et il y en aura d'autres. En France, chaque ville sait faire la fête. » « Alors, on ira à toutes les fêtes de France ! »",
+      "pt": "Voltando, Íris estava cansada mas feliz. « Foi a festa mais bonita da minha vida! » disse. Irlan a carregou nos ombros: « E haverá outras. Na França, cada cidade sabe fazer festa. » « Então, iremos a todas as festas da França! »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "la fête",
+      "definitionPt": "a festa",
+      "definitionFr": "Célébration joyeuse.",
+      "inflections": ["la fête", "une fête", "des fêtes"],
+      "ptTargets": ["festa"],
+      "examples": [
+        { "level": "A1", "fr": "La fête est belle.", "pt": "A festa é bonita." },
+        { "level": "A2-B1", "fr": "La Fête du vin est tous les deux ans.", "pt": "A Festa do Vinho é de dois em dois anos." },
+        { "level": "B1", "fr": "La fête à laquelle on a participé était immense.", "pt": "A festa da qual se participou era imensa." },
+        { "level": "C1-C2", "fr": "La fête, parenthèse de joie, rend la ville plus légère pour un soir.", "pt": "A festa, parêntese de alegria, torna a cidade mais leve por uma noite." }
+      ]
+    },
+    {
+      "term": "la dégustation",
+      "definitionPt": "a degustação",
+      "definitionFr": "Action de goûter pour apprécier.",
+      "inflections": ["la dégustation", "une dégustation", "des dégustations"],
+      "ptTargets": ["degustação"],
+      "examples": [
+        { "level": "A1", "fr": "La dégustation est amusante.", "pt": "A degustação é divertida." },
+        { "level": "A2-B1", "fr": "Les quais proposent des dégustations.", "pt": "Os cais oferecem degustações." },
+        { "level": "B1", "fr": "Les dégustations que l'on fait ici sont gratuites.", "pt": "As degustações que se fazem aqui são gratuitas." },
+        { "level": "C1-C2", "fr": "La dégustation, école du goût, apprend à lire les vins comme des livres.", "pt": "A degustação, escola do gosto, ensina a ler os vinhos como livros." }
+      ]
+    },
+    {
+      "term": "le feu d'artifice",
+      "definitionPt": "o fogo de artifício",
+      "definitionFr": "Spectacle de lumières et de bruits.",
+      "inflections": ["le feu d'artifice", "un feu d'artifice", "des feux d'artifice"],
+      "ptTargets": ["fogo de artifício", "fogos"],
+      "examples": [
+        { "level": "A1", "fr": "Le feu d'artifice est beau.", "pt": "O fogo de artifício é bonito." },
+        { "level": "A2-B1", "fr": "Le feu d'artifice illumine le ciel.", "pt": "O fogo de artifício ilumina o céu." },
+        { "level": "B1", "fr": "Le feu d'artifice que l'on a vu était magnifique.", "pt": "O fogo de artifício que vimos era magnífico." },
+        { "level": "C1-C2", "fr": "Le feu d'artifice, bouquet du ciel, éclate en fleurs éphémères.", "pt": "O fogo de artifício, buquê do céu, explode em flores efêmeras." }
+      ]
+    },
+    {
+      "term": "le concert",
+      "definitionPt": "o concerto, o show",
+      "definitionFr": "Spectacle de musique.",
+      "inflections": ["le concert", "un concert", "des concerts"],
+      "ptTargets": ["concerto", "show"],
+      "examples": [
+        { "level": "A1", "fr": "Le concert est fort.", "pt": "O show é alto." },
+        { "level": "A2-B1", "fr": "Le concert a commencé sur la scène.", "pt": "O show começou no palco." },
+        { "level": "B1", "fr": "Les concerts que l'on écoute ici sont gratuits.", "pt": "Os shows que se ouvem aqui são gratuitos." },
+        { "level": "C1-C2", "fr": "Le concert, communion de sons, fait battre mille cœurs ensemble.", "pt": "O show, comunhão de sons, faz bater mil corações juntos." }
+      ]
+    },
+    {
+      "term": "la scène",
+      "definitionPt": "o palco",
+      "definitionFr": "Plateforme où l'on joue.",
+      "inflections": ["la scène", "une scène", "des scènes"],
+      "ptTargets": ["palco"],
+      "examples": [
+        { "level": "A1", "fr": "La scène est grande.", "pt": "O palco é grande." },
+        { "level": "A2-B1", "fr": "Les musiciens sont sur la scène.", "pt": "Os músicos estão no palco." },
+        { "level": "B1", "fr": "La scène sur laquelle on joue donne sur le fleuve.", "pt": "O palco no qual se toca dá para o rio." },
+        { "level": "C1-C2", "fr": "La scène, lieu de magie, transforme les musiciens en rois d'un soir.", "pt": "O palco, lugar de magia, transforma os músicos em reis de uma noite." }
+      ]
+    },
+    {
+      "term": "le drapeau",
+      "definitionPt": "a bandeira",
+      "definitionFr": "Tissu coloré d'un pays ou d'une ville.",
+      "inflections": ["le drapeau", "un drapeau", "des drapeaux"],
+      "ptTargets": ["bandeira"],
+      "examples": [
+        { "level": "A1", "fr": "Le drapeau est coloré.", "pt": "A bandeira é colorida." },
+        { "level": "A2-B1", "fr": "Les drapeaux décorent les quais.", "pt": "As bandeiras decoram os cais." },
+        { "level": "B1", "fr": "Les drapeaux que l'on voit flottent dans le vent.", "pt": "As bandeiras que se veem flutuam no vento." },
+        { "level": "C1-C2", "fr": "Le drapeau, tissu d'identité, raconte un pays d'un simple coup d'œil.", "pt": "A bandeira, tecido de identidade, conta um país com um simples olhar." }
+      ]
+    },
+    {
+      "term": "applaudir",
+      "definitionPt": "aplaudir",
+      "definitionFr": "Frapper des mains pour montrer son plaisir.",
+      "inflections": ["j'applaudis", "tu applaudis", "il applaudit", "nous applaudissons"],
+      "ptTargets": ["aplaudir"],
+      "examples": [
+        { "level": "A1", "fr": "J'applaudis le chanteur.", "pt": "Eu aplaudo o cantor." },
+        { "level": "A2-B1", "fr": "La foule a applaudi les artistes.", "pt": "A multidão aplaudiu os artistas." },
+        { "level": "B1", "fr": "Les artistes que l'on applaudit sourient.", "pt": "Os artistas que se aplaudem sorriem." },
+        { "level": "C1-C2", "fr": "Applaudir, langage du cœur, dit merci sans un seul mot.", "pt": "Aplaudir, linguagem do coração, diz obrigado sem uma única palavra." }
+      ]
+    },
+    {
+      "term": "le parfum",
+      "definitionPt": "o perfume, o aroma",
+      "definitionFr": "Odeur agréable.",
+      "inflections": ["le parfum", "un parfum", "des parfums"],
+      "ptTargets": ["perfume", "aroma"],
+      "examples": [
+        { "level": "A1", "fr": "Le parfum est doux.", "pt": "O perfume é suave." },
+        { "level": "A2-B1", "fr": "On découvre les parfums du vin.", "pt": "Descobrem-se os perfumes do vinho." },
+        { "level": "B1", "fr": "Les parfums que l'on sent racontent l'automne.", "pt": "Os perfumes que se sentem contam o outono." },
+        { "level": "C1-C2", "fr": "Le parfum, mémoire du nez, ramène un instant vécu en une bouffée.", "pt": "O perfume, memória do nariz, traz de volta um instante vivido numa lufada." }
+      ]
+    },
+    {
+      "term": "la foule",
+      "definitionPt": "a multidão",
+      "definitionFr": "Grand nombre de personnes.",
+      "inflections": ["la foule", "une foule"],
+      "ptTargets": ["multidão"],
+      "examples": [
+        { "level": "A1", "fr": "La foule est joyeuse.", "pt": "A multidão é alegre." },
+        { "level": "A2-B1", "fr": "La foule applaudit le feu d'artifice.", "pt": "A multidão aplaude os fogos." },
+        { "level": "B1", "fr": "La foule, que l'on traverse, danse au rythme de la musique.", "pt": "A multidão, que se atravessa, dança ao ritmo da música." },
+        { "level": "C1-C2", "fr": "La foule, océan de visages, devient une seule personne quand elle est heureuse.", "pt": "A multidão, oceano de rostos, vira uma só pessoa quando está feliz." }
+      ]
+    },
+    {
+      "term": "organiser",
+      "definitionPt": "organizar",
+      "definitionFr": "Préparer, mettre en place.",
+      "inflections": ["j'organise", "tu organises", "il organise", "nous organisons"],
+      "ptTargets": ["organizar"],
+      "examples": [
+        { "level": "A1", "fr": "J'organise une fête.", "pt": "Eu organizo uma festa." },
+        { "level": "A2-B1", "fr": "Bordeaux organise la Fête du vin.", "pt": "Bordeaux organiza a Festa do Vinho." },
+        { "level": "B1", "fr": "Les fêtes que l'on organise ici sont célèbres.", "pt": "As festas que se organizam aqui são famosas." },
+        { "level": "C1-C2", "fr": "Organiser, art du lien, fait tenir ensemble mille détails.", "pt": "Organizar, arte da ligação, faz manter juntos mil detalhes." }
+      ]
+    },
+    {
+      "term": "le stand",
+      "definitionPt": "o estande",
+      "definitionFr": "Petit espace d'exposition.",
+      "inflections": ["le stand", "un stand", "des stands"],
+      "ptTargets": ["estande"],
+      "examples": [
+        { "level": "A1", "fr": "Le stand est ouvert.", "pt": "O estande está aberto." },
+        { "level": "A2-B1", "fr": "Les quais sont pleins de stands.", "pt": "Os cais estão cheios de estandes." },
+        { "level": "B1", "fr": "Les stands que l'on visite proposent des dégustations.", "pt": "Os estandes que se visitam oferecem degustações." },
+        { "level": "C1-C2", "fr": "Le stand, vitrine d'un soir, présente le savoir-faire de toute une région.", "pt": "O estande, vitrine de uma noite, apresenta o saber-fazer de toda uma região." }
+      ]
+    },
+    {
+      "term": "danser",
+      "definitionPt": "dançar",
+      "definitionFr": "Bouger au rythme de la musique.",
+      "inflections": ["je danse", "tu danses", "il danse", "nous dansons"],
+      "ptTargets": ["dançar"],
+      "examples": [
+        { "level": "A1", "fr": "Je danse sur la musique.", "pt": "Eu danço ao som da música." },
+        { "level": "A2-B1", "fr": "Les gens dansent sur les quais.", "pt": "As pessoas dançam nos cais." },
+        { "level": "B1", "fr": "Les couples que l'on voit danser sourient.", "pt": "Os casais que se veem dançar sorriem." },
+        { "level": "C1-C2", "fr": "Danser, langage du corps, parle quand les mots se taisent.", "pt": "Dançar, linguagem do corpo, fala quando as palavras se calam." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "titleFr": "Le gérondif avec les pronoms COI",
+    "titlePt": "O gerúndio com pronomes COI",
+    "points": [
+      {
+        "fr": "« En le sentant, on découvre ses parfums » : le pronom COD se place avant le participe dans le gérondif.",
+        "pt": "« En le sentant, on découvre ses parfums » (Cheirando-o, descobre-se seus perfumes): o pronome COD vem antes do particípio no gerúndio."
+      },
+      {
+        "fr": "« Je leur montrerai les photos » : pronom COI + futur simple. « En voyant cela, je pense à eux » (vendo isso, penso neles).",
+        "pt": "« Je leur montrerai les photos » (Mostrarei as fotos a eles): pronome COI + futuro simples. « En voyant cela, je pense à eux » (vendo isso, penso neles)."
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "De quanto em quanto tempo acontece a Fête du vin ?",
+      "options": ["De dois em dois anos", "Todo ano", "A cada cinco anos", "Todo mês"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Onde a festa acontece ?",
+      "options": ["Nos cais da Garonne", "No estádio", "Na catedral", "No aeroporto"],
+      "correctIndex": 0
+    },
+    {
+      "question": "O que Ilan disse para fazer ao provar o vinho ?",
+      "options": ["Girar o vinho na taça", "Beber rápido", "Fechar os olhos", "Segurar a respiração"],
+      "correctIndex": 0
+    },
+    {
+      "question": "O que iluminou o céu no final da festa ?",
+      "options": ["O fogo de artifício", "Os aviões", "Os relâmpagos", "Os refletores"],
+      "correctIndex": 0
+    },
+    {
+      "question": "A quem Irlan quis mostrar as fotos ?",
+      "options": ["Aos pais no Brasil", "Aos vizinhos", "Aos colegas de trabalho", "À professora"],
+      "correctIndex": 0
+    }
+  ]
+}

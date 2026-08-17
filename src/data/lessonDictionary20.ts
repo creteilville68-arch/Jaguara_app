@@ -1,0 +1,147 @@
+import { DictionaryEntry } from '../utils/textParser';
+
+export const LESSON_DICTIONARY_20: Record<string, DictionaryEntry> = {
+  musée: {
+    term: "musée",
+    wordFr: "musée",
+    definitionPt: "Museu (substantivo masculino)",
+    difficultyLevel: "undefined",
+    examples: [
+      { level: "A1", fr: "Le Musée d'Orsay est très grand.", pt: "O Museu de Orsay é muito grande." },
+      { level: "A2-B1", fr: "Nous achetons nos billets pour visiter le musée ce matin.", pt: "Nós compramos nossos ingressos para visitar o museu esta manhã." },
+      { level: "B2", fr: "Ce musée abrite la plus importante collection de peinture impressionniste au monde.", pt: "Este museu abriga a mais importante coleção de pintura impressionista do mundo." },
+      { level: "C1-C2", fr: "La réhabilitation de cette ancienne gare en musée constitue une réussite muséographique majeure.", pt: "A reabilitação desta antiga estação em museu constitui um êxito museográfico maior." },
+    ],
+  },
+  gare: {
+    term: "gare",
+    wordFr: "gare",
+    definitionPt: "Estação de trem, gare (substantivo feminino)",
+    difficultyLevel: "undefined",
+    examples: [
+      { level: "A1", fr: "C'est une ancienne gare.", pt: "É uma antiga estação de trem." },
+      { level: "A2-B1", fr: "Le Musée d'Orsay était autrefois une grande gare ferroviaire.", pt: "O Museu de Orsay era antigamente uma grande estação ferroviária." },
+      { level: "B2", fr: "L'architecture métallique de la gare a été conservée lors de la création du musée.", pt: "A arquitetura metálica da estação foi conservada durante a criação do museu." },
+      { level: "C1-C2", fr: "La monumentalité de la nef centrale rappelle la splendeur industrielle des grandes gares du XIXe siècle.", pt: "A monumentalidade da nave central lembra o esplendor industrial das grandes estações do século XIX." },
+    ],
+  },
+  tableau: {
+    term: "tableau",
+    wordFr: "tableau",
+    definitionPt: "Quadro, tela, pintura (substantivo masculino)",
+    difficultyLevel: "undefined",
+    examples: [
+      { level: "A1", fr: "J'admire ce beau tableau.", pt: "Eu admiro este belo quadro." },
+      { level: "A2-B1", fr: "Les tableaux impressionnistes utilisent beaucoup de couleurs claires.", pt: "Os quadros impressionistas usam muitas cores claras." },
+      { level: "B2", fr: "Ce tableau célèbre représente un jardin fleuri près de Paris.", pt: "Este quadro famoso representa um jardim florido perto de Paris." },
+      { level: "C1-C2", fr: "La composition novatrice de ce tableau révolutionna les conventions académiques de son temps.", pt: "A composição inovadora deste quadro revolucionou as convenções acadêmicas do seu tempo." },
+    ],
+  },
+  peinture: {
+    term: "peinture",
+    wordFr: "peinture",
+    definitionPt: "Pintura, arte de pintar (substantivo feminino)",
+    difficultyLevel: "undefined",
+    examples: [
+      { level: "A1", fr: "J'aime la peinture française.", pt: "Eu gosto da pintura francesa." },
+      { level: "A2-B1", fr: "Nous étudions l'histoire de la peinture impressionniste.", pt: "Nós estudamos a história da pintura impressionista." },
+      { level: "B2", fr: "La peinture du XIXe siècle a cherché à capturer les effets de lumière.", pt: "A pintura do século XIX procurou captar os efeitos da luz." },
+      { level: "C1-C2", fr: "L'évolution esthétique de la peinture témoigne d'un dialogue constant avec la modernité.", pt: "A evolução estética da pintura testemunha um diálogo constante com a modernidade." },
+    ],
+  },
+  lumière: {
+    term: "lumière",
+    wordFr: "lumière",
+    definitionPt: "Luz, iluminação (substantivo feminino)",
+    difficultyLevel: "undefined",
+    examples: [
+      { level: "A1", fr: "La lumière est belle ce matin.", pt: "A luz está linda esta manhã." },
+      { level: "A2-B1", fr: "La lumière entre par la grande horloge du musée.", pt: "A luz entra pelo grande relógio do museu." },
+      { level: "B2", fr: "Les peintres impressionnistes étaient fascinés par les changements de lumière.", pt: "Os pintores impressionistas eram fascinados pelas mudanças de luz." },
+      { level: "C1-C2", fr: "La maîtrise des jeux de lumière confère à la toile une atmosphère poétique saisissante.", pt: "O domínio dos jogos de luz confere à tela uma atmosfera poética cativante." },
+    ],
+  },
+  jaune: {
+    term: "jaune",
+    wordFr: "jaune",
+    definitionPt: "Amarelo, amarela (adjetivo invariável no gênero; substantivo masculino)",
+    difficultyLevel: "undefined",
+    examples: [
+      { level: "A1", fr: "Le soleil est jaune.", pt: "O sol é amarelo." },
+      { level: "A2-B1", fr: "Il y a beaucoup de jaune dans les champs de blé peints par les artistes.", pt: "Há muito amarelo nos campos de trigo pintados pelos artistas." },
+      { level: "B2", fr: "Le jaune apporte une sensation de chaleur et d'énergie dans cette composition.", pt: "O amarelo traz uma sensação de calor e energia nesta composição." },
+      { level: "C1-C2", fr: "L'éclat intense des nuances de jaune sublime la vibration chromatique du paysage.", pt: "O brilho intenso das nuances de amarelo sublima a vibração cromática da paisagem." },
+    ],
+  },
+  vert: {
+    term: "vert",
+    wordFr: "vert",
+    definitionPt: "Verde (adjetivo masculino; feminino: verte)",
+    difficultyLevel: "undefined",
+    examples: [
+      { level: "A1", fr: "L'arbre est vert.", pt: "A árvore é verde." },
+      { level: "A2-B1", fr: "Les peintres aiment utiliser le vert pour dessiner la nature et les jardins.", pt: "Os pintores gostam de usar o verde para desenhar a natureza e os jardins." },
+      { level: "B2", fr: "Les différentes teintes de vert reflètent la richesse végétale de la campagne.", pt: "Os diferentes tons de verde refletem a riqueza vegetal do campo." },
+      { level: "C1-C2", fr: "La subtilité harmonique des gammes de vert renforce le réalisme atmosphérique de l'œuvre.", pt: "A sutileza harmônica das gamas de verde fortalece o realismo atmosférico da obra." },
+    ],
+  },
+  bleu: {
+    term: "bleu",
+    wordFr: "bleu",
+    definitionPt: "Azul (adjetivo masculino; feminino: bleue)",
+    difficultyLevel: "undefined",
+    examples: [
+      { level: "A1", fr: "Le ciel de Paris est bleu.", pt: "O céu de Paris é azul." },
+      { level: "A2-B1", fr: "La Seine apparaît en bleu clair dans ce tableau historique.", pt: "O Sena aparece em azul claro neste quadro histórico." },
+      { level: "B2", fr: "Le bleu est utilisé pour suggérer la profondeur de l'eau et du ciel.", pt: "O azul é utilizado para sugerir a profundidade da água e do céu." },
+      { level: "C1-C2", fr: "La richesse chromatique des pigments bleus confère une intensité dramatique à l'horizon.", pt: "A riqueza cromática dos pigmentos azuis confere uma intensidade dramática ao horizonte." },
+    ],
+  },
+  grand: {
+    term: "grand",
+    wordFr: "grand",
+    definitionPt: "Grande, alto (adjetivo masculino; feminino: grande)",
+    difficultyLevel: "undefined",
+    examples: [
+      { level: "A1", fr: "C'est un grand musée.", pt: "É um grande museu." },
+      { level: "A2-B1", fr: "La grande horloge du musée offre une vue magnifique sur la ville.", pt: "O grande relógio do museu oferece uma vista magnífica da cidade." },
+      { level: "B2", fr: "Les grands formats de peinture impressionnent toujours les visiteurs en salle.", pt: "Os grandes formatos de pintura sempre impressionam os visitantes na sala." },
+      { level: "C1-C2", fr: "La monumentalité de ce grand hall structure parfaitement le parcours muséal.", pt: "A monumentalidade deste grande saguão estrutura perfeitamente o percurso museológico." },
+    ],
+  },
+  admirer: {
+    term: "admirer",
+    wordFr: "admirer",
+    definitionPt: "Admirar, contemplar (verbo)",
+    difficultyLevel: "undefined",
+    examples: [
+      { level: "A1", fr: "J'admire les tableaux.", pt: "Eu admiro os quadros." },
+      { level: "A2-B1", fr: "Nous passons des heures à admirer les peintures de Claude Monet.", pt: "Nós passamos horas admirando as pinturas de Claude Monet." },
+      { level: "B2", fr: "Les visiteurs du monde entier viennent admirer les chefs-d'œuvre de cette collection.", pt: "Visitantes do mundo inteiro vêm admirar as obras-primas desta coleção." },
+      { level: "C1-C2", fr: "Admirer ces créations permet d'appréhender la rupture esthétique menée par les impressionnistes.", pt: "Admirar estas criações permite compreender a ruptura estética liderada pelos impressionistas." },
+    ],
+  },
+  fleuve: {
+    term: "fleuve",
+    wordFr: "fleuve",
+    definitionPt: "Rio de grande porte que deságua no mar (substantivo masculino)",
+    difficultyLevel: "undefined",
+    examples: [
+      { level: "A1", fr: "La Seine est un grand fleuve.", pt: "O Sena é um grande rio." },
+      { level: "A2-B1", fr: "Le Musée d'Orsay est situé au bord du fleuve, au centre de Paris.", pt: "O Museu de Orsay está localizado às margens do rio, no centro de Paris." },
+      { level: "B2", fr: "Les bateaux naviguent sur le fleuve en passant sous les ponts historiques.", pt: "Os barcos navegam pelo rio passando sob as pontes históricas." },
+      { level: "C1-C2", fr: "La géographie du fleuve a guidé le développement urbain et monumental de la capitale.", pt: "A geografia do rio guiou o desenvolvimento urbano e monumental da capital." },
+    ],
+  },
+  horloge: {
+    term: "horloge",
+    wordFr: "horloge",
+    definitionPt: "Relógio de parede ou de monumento (substantivo feminino)",
+    difficultyLevel: "undefined",
+    examples: [
+      { level: "A1", fr: "Je regarde la grande horloge.", pt: "Eu olhe para o grande relógio." },
+      { level: "A2-B1", fr: "La célèbre horloge du musée donne sur le fleuve de la Seine.", pt: "O famoso relógio do museu dá para o rio Sena." },
+      { level: "C1-C2", fr: "Le cadran vitré de la grande horloge compose un cadre théâtral sur le paysage parisien.", pt: "O mostrador envidraçado do grande relógio compõe uma moldura teatral sobre a paisagem parisiense." },
+    ],
+  },
+};

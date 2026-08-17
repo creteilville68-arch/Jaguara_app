@@ -1,0 +1,252 @@
+{
+  "id": "amiens_lesson_21",
+  "cityId": "amiens",
+  "domain": "Cultura & Espetáculo",
+  "level": "Iniciante em Transição (A1/A2)",
+  "titleFr": "Le spectacle de lumières à la cathédrale",
+  "titlePt": "O espetáculo de luzes na catedral",
+  "subtitleFr": "La cathédrale s'illumine le soir",
+  "subtitlePt": "A catedral se ilumina à noite",
+  "summaryPt": "Nesta Aula 21 (A1/A2) da Cidade #2, a família assiste ao espetáculo de luzes e cores projetadas na fachada da catedral de Amiens, famoso em toda a França. O aluno pratica os verbos em -er e a expressão il y a.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Ce soir, la famille attend le spectacle de lumières devant la cathédrale. « Chaque soir, des couleurs et des images sont projetées sur la façade, dit Andréa. C'est un spectacle très célèbre. »",
+      "pt": "Esta noite, a família espera o espetáculo de luzes diante da catedral. « Todas as noites, cores e imagens são projetadas na fachada, diz Andréa. É um espetáculo muito famoso. »"
+    },
+    {
+      "id": 2,
+      "fr": "Soudain, la cathédrale s'illumine en bleu, en rouge et en or. La foule applaudit. « Regardez ! crie Íris. La cathédrale change de couleur ! C'est magique ! »",
+      "pt": "De repente, a catedral se ilumina em azul, vermelho e dourado. A multidão aplaude. « Olhem! grita Íris. A catedral muda de cor! É mágico! »"
+    },
+    {
+      "id": 3,
+      "fr": "Des images racontent l'histoire de la cathédrale : les bâtisseurs, les sculptures et les grandes fêtes. « Il y a de la musique aussi, dit Irlan. Écoutez comme tout est beau ensemble. »",
+      "pt": "Imagens contam a história da catedral: os construtores, as esculturas e as grandes festas. « Há música também, diz Irlan. Escutem como tudo é bonito junto. »"
+    },
+    {
+      "id": 4,
+      "fr": "Après le spectacle, la famille marche dans la nuit. « C'était le plus beau moment d'Amiens, dit Íris. Demain, nous allons goûter la spécialité du Nord : les gaufres ! »",
+      "pt": "Depois do espetáculo, a família caminha na noite. « Foi o momento mais bonito de Amiens, diz Íris. Amanhã, vamos provar a especialidade do Norte: os waffles! »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "la lumière",
+      "definitionPt": "a luz",
+      "definitionFr": "Clarté qui permet de voir.",
+      "inflections": ["la lumière", "une lumière", "des lumières"],
+      "ptTargets": ["luz"],
+      "examples": [
+        { "level": "A1", "fr": "La lumière est belle.", "pt": "A luz é bonita." },
+        { "level": "A2-B1", "fr": "Les lumières éclairent la cathédrale.", "pt": "As luzes iluminam a catedral." },
+        { "level": "B2", "fr": "Les lumières, colorées, dansent sur la façade.", "pt": "As luzes, coloridas, dançam na fachada." },
+        { "level": "C1-C2", "fr": "C'est la lumière qui, magique, transforme la pierre en tableau.", "pt": "É a luz que, mágica, transforma a pedra em quadro." }
+      ]
+    },
+    {
+      "term": "la façade",
+      "definitionPt": "a fachada",
+      "definitionFr": "Face avant d'un bâtiment.",
+      "inflections": ["la façade", "une façade", "des façades"],
+      "ptTargets": ["fachada"],
+      "examples": [
+        { "level": "A1", "fr": "La façade est grande.", "pt": "A fachada é grande." },
+        { "level": "A2-B1", "fr": "Les images sont projetées sur la façade.", "pt": "As imagens são projetadas na fachada." },
+        { "level": "B2", "fr": "La façade, sculptée, raconte mille histoires.", "pt": "A fachada, esculpida, conta mil histórias." },
+        { "level": "C1-C2", "fr": "C'est la façade qui, illuminée, devient une toile géante.", "pt": "É a fachada que, iluminada, torna-se uma tela gigante." }
+      ]
+    },
+    {
+      "term": "la couleur",
+      "definitionPt": "a cor",
+      "definitionFr": "Aspect visible des choses.",
+      "inflections": ["la couleur", "une couleur", "des couleurs"],
+      "ptTargets": ["cor"],
+      "examples": [
+        { "level": "A1", "fr": "La couleur est rouge.", "pt": "A cor é vermelha." },
+        { "level": "A2-B1", "fr": "Des couleurs sont projetées sur la façade.", "pt": "Cores são projetadas na fachada." },
+        { "level": "B2", "fr": "Les couleurs, vives, attirent les regards.", "pt": "As cores, vivas, atraem os olhares." },
+        { "level": "C1-C2", "fr": "C'est la couleur qui, choisie, donne son âme au spectacle.", "pt": "É a cor que, escolhida, dá alma ao espetáculo." }
+      ]
+    },
+    {
+      "term": "projeter",
+      "definitionPt": "projetar",
+      "definitionFr": "Envoyer des images sur une surface.",
+      "inflections": ["je projette", "projeter", "nous projetons"],
+      "ptTargets": ["projetar"],
+      "examples": [
+        { "level": "A1", "fr": "On projette des images.", "pt": "Projetam-se imagens." },
+        { "level": "A2-B1", "fr": "Des images sont projetées sur la façade.", "pt": "Imagens são projetadas na fachada." },
+        { "level": "B2", "fr": "Le spectacle projette des histoires sur la pierre.", "pt": "O espetáculo projeta histórias na pedra." },
+        { "level": "C1-C2", "fr": "C'est en projetant que l'on donne vie aux murs.", "pt": "É projetando que se dá vida aos muros." }
+      ]
+    },
+    {
+      "term": "la foule",
+      "definitionPt": "a multidão",
+      "definitionFr": "Beaucoup de personnes ensemble.",
+      "inflections": ["la foule", "une foule"],
+      "ptTargets": ["multidão"],
+      "examples": [
+        { "level": "A1", "fr": "La foule applaudit.", "pt": "A multidão aplaude." },
+        { "level": "A2-B1", "fr": "La foule regarde le spectacle.", "pt": "A multidão assiste ao espetáculo." },
+        { "level": "B2", "fr": "La foule, admirative, reste silencieuse.", "pt": "A multidão, admirada, fica silenciosa." },
+        { "level": "C1-C2", "fr": "C'est la foule qui, réunie, partage la même émotion.", "pt": "É a multidão que, reunida, partilha a mesma emoção." }
+      ]
+    },
+    {
+      "term": "magique",
+      "definitionPt": "mágico",
+      "definitionFr": "Qui semble faire des miracles.",
+      "inflections": ["magique", "magiques"],
+      "ptTargets": ["mágico"],
+      "examples": [
+        { "level": "A1", "fr": "Le spectacle est magique.", "pt": "O espetáculo é mágico." },
+        { "level": "A2-B1", "fr": "C'est magique !", "pt": "É mágico!" },
+        { "level": "B2", "fr": "L'atmosphère, magique, émerveille les enfants.", "pt": "A atmosfera, mágica, encanta as crianças." },
+        { "level": "C1-C2", "fr": "C'est magique comme la lumière peut changer une ville.", "pt": "É mágico como a luz pode mudar uma cidade." }
+      ]
+    },
+    {
+      "term": "l'image",
+      "definitionPt": "a imagem",
+      "definitionFr": "Représentation visuelle.",
+      "inflections": ["l'image", "une image", "des images"],
+      "ptTargets": ["imagem"],
+      "examples": [
+        { "level": "A1", "fr": "L'image est belle.", "pt": "A imagem é bonita." },
+        { "level": "A2-B1", "fr": "Des images racontent l'histoire.", "pt": "Imagens contam a história." },
+        { "level": "B2", "fr": "Les images, animées, suivent la musique.", "pt": "As imagens, animadas, seguem a música." },
+        { "level": "C1-C2", "fr": "C'est l'image qui, éphémère, reste gravée dans les mémoires.", "pt": "É a imagem que, efêmera, fica gravada nas memórias." }
+      ]
+    },
+    {
+      "term": "le bâtisseur",
+      "definitionPt": "o construtor",
+      "definitionFr": "Personne qui construit.",
+      "inflections": ["le bâtisseur", "un bâtisseur", "des bâtisseurs"],
+      "ptTargets": ["construtor"],
+      "examples": [
+        { "level": "A1", "fr": "Le bâtisseur travaille dur.", "pt": "O construtor trabalha duro." },
+        { "level": "A2-B1", "fr": "Les bâtisseurs ont construit la cathédrale.", "pt": "Os construtores construíram a catedral." },
+        { "level": "B2", "fr": "Les bâtisseurs du Moyen Âge étaient des artistes.", "pt": "Os construtores da Idade Média eram artistas." },
+        { "level": "C1-C2", "fr": "C'est le bâtisseur qui, anonyme, a légué un chef-d'œuvre.", "pt": "É o construtor que, anônimo, legou uma obra-prima." }
+      ]
+    },
+    {
+      "term": "la musique",
+      "definitionPt": "a música",
+      "definitionFr": "Art des sons.",
+      "inflections": ["la musique", "une musique", "des musiques"],
+      "ptTargets": ["música"],
+      "examples": [
+        { "level": "A1", "fr": "La musique est douce.", "pt": "A música é suave." },
+        { "level": "A2-B1", "fr": "Il y a de la musique aussi.", "pt": "Há música também." },
+        { "level": "B2", "fr": "La musique accompagne les images du spectacle.", "pt": "A música acompanha as imagens do espetáculo." },
+        { "level": "C1-C2", "fr": "C'est la musique qui, émouvante, donne vie aux couleurs.", "pt": "É a música que, emocionante, dá vida às cores." }
+      ]
+    },
+    {
+      "term": "soudain",
+      "definitionPt": "de repente",
+      "definitionFr": "Tout à coup.",
+      "inflections": ["soudain"],
+      "ptTargets": ["de repente", "subitamente"],
+      "examples": [
+        { "level": "A1", "fr": "Soudain, tout s'illumine.", "pt": "De repente, tudo se ilumina." },
+        { "level": "A2-B1", "fr": "Soudain, la cathédrale s'illumine.", "pt": "De repente, a catedral se ilumina." },
+        { "level": "B2", "fr": "Soudain, la nuit devient colorée.", "pt": "De repente, a noite fica colorida." },
+        { "level": "C1-C2", "fr": "C'est soudain que la magie opère.", "pt": "É de repente que a magia acontece." }
+      ]
+    },
+    {
+      "term": "s'illuminer",
+      "definitionPt": "iluminar-se",
+      "definitionFr": "Devenir éclairé.",
+      "inflections": ["je m'illumine", "s'illuminer", "ils s'illuminent"],
+      "ptTargets": ["iluminar-se", "acender"],
+      "examples": [
+        { "level": "A1", "fr": "La ville s'illumine.", "pt": "A cidade se ilumina." },
+        { "level": "A2-B1", "fr": "La cathédrale s'illumine en bleu.", "pt": "A catedral se ilumina em azul." },
+        { "level": "B2", "fr": "Les rues s'illuminent à la nuit tombée.", "pt": "As ruas se iluminam ao anoitecer." },
+        { "level": "C1-C2", "fr": "C'est en s'illuminant que la cathédrale devient un rêve.", "pt": "É iluminando-se que a catedral vira um sonho." }
+      ]
+    },
+    {
+      "term": "ensemble",
+      "definitionPt": "juntos",
+      "definitionFr": "Les uns avec les autres.",
+      "inflections": ["ensemble"],
+      "ptTargets": ["juntos"],
+      "examples": [
+        { "level": "A1", "fr": "Nous regardons ensemble.", "pt": "Nós olhamos juntos." },
+        { "level": "A2-B1", "fr": "Tout est beau ensemble.", "pt": "Tudo é bonito junto." },
+        { "level": "B2", "fr": "La famille profite du spectacle ensemble.", "pt": "A família aproveita o espetáculo junta." },
+        { "level": "C1-C2", "fr": "C'est ensemble que l'on vit les plus beaux moments.", "pt": "É juntos que se vivem os momentos mais bonitos." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Les verbes en -er : projeter, changer, danser",
+    "explanationPt": "Verbos do 1º grupo terminam em -er e têm terminações regulares: je projette, tu projettes, il projette, nous projetons, vous projetez, ils projettent. Ex.: 'La cathédrale change de couleur' (a catedral muda de cor).",
+    "exampleFr": "La cathédrale change de couleur. Nous regardons le spectacle ensemble.",
+    "examplePt": "A catedral muda de cor. Assistimos ao espetáculo juntos.",
+    "practiceQuestion": "Complete: 'La cathédrale _____ de couleur.'",
+    "options": ["change", "changes", "changer"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "Il y a + substantif",
+        "explanationPt": "'Il y a' = há: 'Il y a de la musique' (há música), 'Il y a des images' (há imagens). No plural e singular, 'il y a' não muda.",
+        "exampleFr": "Il y a de la musique. Il y a des images sur la façade.",
+        "examplePt": "Há música. Há imagens na fachada.",
+        "practiceQuestion": "Complete: 'Il y a de la _____ .'",
+        "options": ["musique", "musiques", "musical"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "Le superlatif : le plus beau",
+        "explanationPt": "Para o superlativo: 'le plus beau' (o mais bonito), 'la plus grande' (a maior). Ex.: 'C'était le plus beau moment d'Amiens' (foi o momento mais bonito de Amiens).",
+        "exampleFr": "C'était le plus beau moment d'Amiens.",
+        "examplePt": "Foi o momento mais bonito de Amiens.",
+        "practiceQuestion": "Complete: 'C'était le plus _____ moment.'",
+        "options": ["beau", "bel", "belle"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "O que é projetado na fachada da catedral à noite?",
+      "options": ["cores e imagens", "filmes de animação", "textos de livros"],
+      "correctIndex": 0,
+      "explanation": "Des couleurs et des images sont projetées sur la façade."
+    },
+    {
+      "question": "Em que cores a catedral se ilumina?",
+      "options": ["azul, vermelho e dourado", "preto e branco", "somente verde"],
+      "correctIndex": 0,
+      "explanation": "La cathédrale s'illumine en bleu, en rouge et en or."
+    },
+    {
+      "question": "O que as imagens contam?",
+      "options": ["a história da catedral", "a história do circo", "a história do museu"],
+      "correctIndex": 0,
+      "explanation": "Des images racontent l'histoire de la cathédrale."
+    },
+    {
+      "question": "Complete: 'La cathédrale _____ de couleur.'",
+      "options": ["change", "changes", "changer"],
+      "correctIndex": 0,
+      "explanation": "Changer: il change."
+    },
+    {
+      "question": "Complete: 'C'était le plus _____ moment.'",
+      "options": ["beau", "bel", "belle"],
+      "correctIndex": 0,
+      "explanation": "Le plus beau moment (masculino)."
+    }
+  ]
+}

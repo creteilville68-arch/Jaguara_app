@@ -1,0 +1,278 @@
+{
+  "id": "nice_lesson_16",
+  "cityId": "nice",
+  "domain": "Grande Síntese",
+  "level": "Avançado (C2)",
+  "titleFr": "La seconde patrie : la synthèse d'une vie en onze villes",
+  "titlePt": "A segunda pátria: a síntese de uma vida em onze cidades",
+  "subtitleFr": "De la prose de survie au lyrisme de l'existence, la vérité d'un itinéraire",
+  "subtitlePt": "Da prosa de sobrevivência ao lirismo da existência, a verdade de um itinerário",
+  "summaryPt": "Nesta Aula 16 (C2), a síntese final da jornada: no trem que deixa Nice, Irlan relê sua vida — a prosa de sobrevivência tornou-se lirismo; a doxa que condena o estrangeiro foi desmentida pela experiência; o dilema entre duas pátrias dissolveu-se numa aporia resolvida pelo amor. O aluno domina o vocabulário da síntese (rétrospection, présage, corollaire, épistémè) e as figuras da anáfora e do quiasmo.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Dans le train qui quittait Nice, Irlan ouvrit son carnet une dernière fois. « La rétrospection, dit-il, est le luxe des voyageurs. Je relis ma vie comme une phrase : elle a commencé en prose de survie, livraison après livraison, et s'achève en lyrisme. C'est indéniable : la France a réécrit ma grammaire intérieure. »",
+      "pt": "No trem que deixava Nice, Irlan abriu seu caderno uma última vez. « A retrospecção, disse ele, é o luxo dos viajantes. Releio minha vida como uma frase: ela começou em prosa de sobrevivência, entrega após entrega, e se encerra em lirismo. É inegável: a França reescreveu minha gramática interior. »"
+    },
+    {
+      "id": 2,
+      "fr": "Andréa le regarda. « La doxa, continua-t-il, prétend que l'étranger reste étranger. Or la vérité de mon parcours est irréfutable : onze villes, une langue, une famille. Le corollaire est simple — quand on donne sa vie à un pays, ce pays devient une part de soi. »",
+      "pt": "Andréa olhou para ele. « A doxa, continuou ele, pretende que o estrangeiro continue estrangeiro. Ora, a verdade de meu percurso é irrefutável: onze cidades, uma língua, uma família. O corolário é simples — quando se dá a vida a um país, esse país se torna uma parte de si. »"
+    },
+    {
+      "id": 3,
+      "fr": "« N'était-ce pas un dilemme, demanda Andréa, choisir entre le Brésil et la France ? — Non, répondit Irlan. C'était une aporie : une impasse apparente dont on ne sort que par un saut. J'ai sauté, et j'ai atterri ici. La prescience des poètes l'avait dit avant moi : on peut avoir deux berceaux. »",
+      "pt": "« Não era um dilema, perguntou Andréa, escolher entre o Brasil e a França? — Não, respondeu Irlan. Era uma aporia: um impasse aparente do qual só se sai com um salto. Saltei, e caí aqui. A presciência dos poetas já o dissera antes de mim: pode-se ter dois berços. »"
+    },
+    {
+      "id": 4,
+      "fr": "Le train longeait la mer. « Chaque mot appris fut une prémonition, murmura Irlan, comme si la langue m'attendait. Ce départ est inéluctable — toute étape s'achève. Mais ma nouvelle épistémè, ma manière de connaître le monde, me suivra partout. » Il ferma le carnet. « Et cette tautologie suffit : je suis devenu moi-même. »",
+      "pt": "O trem costeava o mar. « Cada palavra aprendida foi uma premonição, murmurou Irlan, como se a língua me esperasse. Esta partida é inelutável — toda etapa se encerra. Mas minha nova episteme, minha maneira de conhecer o mundo, me seguirá a toda parte. » Ele fechou o caderno. « E essa tautologia basta: tornei-me eu mesmo. »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "la prose",
+      "definitionPt": "a prosa (escrita sem verso)",
+      "definitionFr": "Écriture qui n'est pas en vers.",
+      "inflections": ["la prose", "les proses"],
+      "ptTargets": ["prosa"],
+      "examples": [
+        { "level": "A1", "fr": "La prose est simple.", "pt": "A prosa é simples." },
+        { "level": "A2-B1", "fr": "Le roman est écrit en prose.", "pt": "O romance é escrito em prosa." },
+        { "level": "B1-B2", "fr": "La prose, quotidienne, raconte la vie telle qu'elle est.", "pt": "A prosa, cotidiana, conta a vida tal como ela é." },
+        { "level": "C1-C2", "fr": "C'est la prose qui, sans artifice, porte la vérité des jours ordinaires.", "pt": "É a prosa que, sem artifício, carrega a verdade dos dias ordinários." }
+      ]
+    },
+    {
+      "term": "le lyrisme",
+      "definitionPt": "o lirismo (expressão intensa dos sentimentos)",
+      "definitionFr": "Expression intense des sentiments.",
+      "inflections": ["le lyrisme"],
+      "ptTargets": ["lirismo"],
+      "examples": [
+        { "level": "A1", "fr": "Le lyrisme est beau.", "pt": "O lirismo é belo." },
+        { "level": "A2-B1", "fr": "Le poème est plein de lyrisme.", "pt": "O poema é cheio de lirismo." },
+        { "level": "B1-B2", "fr": "Le lyrisme, contenu, donne au texte sa vibration.", "pt": "O lirismo, contido, dá ao texto sua vibração." },
+        { "level": "C1-C2", "fr": "C'est le lyrisme qui, maîtrisé, élève la prose jusqu'au chant.", "pt": "É o lirismo que, dominado, eleva a prosa até o canto." }
+      ]
+    },
+    {
+      "term": "la tautologie",
+      "definitionPt": "a tautologia (repetição que nada acrescenta)",
+      "definitionFr": "Répétition qui n'apporte aucune information.",
+      "inflections": ["la tautologie", "les tautologies"],
+      "ptTargets": ["tautologia"],
+      "examples": [
+        { "level": "A1", "fr": "La tautologie répète.", "pt": "A tautologia repete." },
+        { "level": "A2-B1", "fr": "« Un cercle est rond » est une tautologie.", "pt": "« Um círculo é redondo » é uma tautologia." },
+        { "level": "B1-B2", "fr": "La tautologie, souvent inutile, peut devenir une évidence apaisante.", "pt": "A tautologia, muitas vezes inútil, pode virar uma evidência tranquilizadora." },
+        { "level": "C1-C2", "fr": "C'est la tautologie finale qui, en bouclant le récit, lui donne sa certitude.", "pt": "É a tautologia final que, fechando a narrativa, dá-lhe sua certeza." }
+      ]
+    },
+    {
+      "term": "l'aporie",
+      "definitionPt": "a aporia (impasse do raciocínio)",
+      "definitionFr": "Impasse du raisonnement, difficulté sans issue apparente.",
+      "inflections": ["l'aporie", "les apories"],
+      "ptTargets": ["aporia", "impasse"],
+      "examples": [
+        { "level": "A1", "fr": "L'aporie bloque.", "pt": "A aporia bloqueia." },
+        { "level": "A2-B1", "fr": "Le débat tombe dans une aporie.", "pt": "O debate cai numa aporia." },
+        { "level": "B1-B2", "fr": "L'aporie, reconnue, force à changer de regard.", "pt": "A aporia, reconhecida, força a mudar de olhar." },
+        { "level": "C1-C2", "fr": "C'est l'aporie qui, insoluble par la raison, appelle parfois un saut.", "pt": "É a aporia que, insolúvel pela razão, pede às vezes um salto." }
+      ]
+    },
+    {
+      "term": "le dilemme",
+      "definitionPt": "o dilema (escolha difícil entre duas opções)",
+      "definitionFr": "Choix difficile entre deux options.",
+      "inflections": ["le dilemme", "les dilemmes"],
+      "ptTargets": ["dilema"],
+      "examples": [
+        { "level": "A1", "fr": "Le dilemme est dur.", "pt": "O dilema é duro." },
+        { "level": "A2-B1", "fr": "Il est devant un dilemme.", "pt": "Ele está diante de um dilema." },
+        { "level": "B1-B2", "fr": "Le dilemme, tranché, libère celui qui choisit.", "pt": "O dilema, decidido, liberta quem escolhe." },
+        { "level": "C1-C2", "fr": "C'est le dilemme apparent qui, dépassé, révèle une troisième voie.", "pt": "É o dilema aparente que, superado, revela um terceiro caminho." }
+      ]
+    },
+    {
+      "term": "le corollaire",
+      "definitionPt": "o corolário (consequência natural)",
+      "definitionFr": "Conséquence naturelle d'un principe.",
+      "inflections": ["le corollaire", "les corollaires"],
+      "ptTargets": ["corolário"],
+      "examples": [
+        { "level": "A1", "fr": "Le corollaire suit.", "pt": "O corolário segue." },
+        { "level": "A2-B1", "fr": "C'est le corollaire de sa décision.", "pt": "É o corolário de sua decisão." },
+        { "level": "B1-B2", "fr": "Le corollaire, logique, découle du principe admis.", "pt": "O corolário, lógico, decorre do princípio admitido." },
+        { "level": "C1-C2", "fr": "C'est le corollaire inévitable de toute vie donnée à une terre.", "pt": "É o corolário inevitável de toda vida dada a uma terra." }
+      ]
+    },
+    {
+      "term": "la doxa",
+      "definitionPt": "a doxa (opinião comum)",
+      "definitionFr": "Opinion commune, croyance partagée.",
+      "inflections": ["la doxa"],
+      "ptTargets": ["doxa", "opinião comum"],
+      "examples": [
+        { "level": "A1", "fr": "La doxa parle.", "pt": "A doxa fala." },
+        { "level": "A2-B1", "fr": "La doxa dit que l'étranger reste étranger.", "pt": "A doxa diz que o estrangeiro continua estrangeiro." },
+        { "level": "B1-B2", "fr": "La doxa, répétée, finit par paraître vraie.", "pt": "A doxa, repetida, acaba parecendo verdadeira." },
+        { "level": "C1-C2", "fr": "C'est contre la doxa que l'expérience singulière fait entendre sa voix.", "pt": "É contra a doxa que a experiência singular faz ouvir sua voz." }
+      ]
+    },
+    {
+      "term": "l'épistémè",
+      "definitionPt": "a episteme (sistema de conhecimento de uma época)",
+      "definitionFr": "Système de connaissance propre à une époque.",
+      "inflections": ["l'épistémè", "les épistémès"],
+      "ptTargets": ["episteme"],
+      "examples": [
+        { "level": "A1", "fr": "L'épistémè change.", "pt": "A episteme muda." },
+        { "level": "A2-B1", "fr": "Chaque époque a son épistémè.", "pt": "Cada época tem sua episteme." },
+        { "level": "B1-B2", "fr": "L'épistémè, inconsciente, structure notre manière de voir.", "pt": "A episteme, inconsciente, estrutura nossa maneira de ver." },
+        { "level": "C1-C2", "fr": "C'est l'épistémè nouvelle qui, après la route, ordonne le monde d'Irlan.", "pt": "É a episteme nova que, depois da estrada, ordena o mundo de Irlan." }
+      ]
+    },
+    {
+      "term": "la rétrospection",
+      "definitionPt": "a retrospecção (olhar para o passado)",
+      "definitionFr": "Regard porté sur le passé.",
+      "inflections": ["la rétrospection"],
+      "ptTargets": ["retrospecção"],
+      "examples": [
+        { "level": "A1", "fr": "La rétrospection regarde.", "pt": "A retrospecção olha." },
+        { "level": "A2-B1", "fr": "La rétrospection aide à comprendre.", "pt": "A retrospecção ajuda a compreender." },
+        { "level": "B1-B2", "fr": "La rétrospection, lucide, donne sens aux chemins parcourus.", "pt": "A retrospecção, lúcida, dá sentido aos caminhos percorridos." },
+        { "level": "C1-C2", "fr": "C'est la rétrospection qui, en relisant la vie, la transforme en œuvre.", "pt": "É a retrospecção que, relendo a vida, transforma-a em obra." }
+      ]
+    },
+    {
+      "term": "la prémonition",
+      "definitionPt": "a premonição (pressentimento do futuro)",
+      "definitionFr": "Pressentiment de ce qui va arriver.",
+      "inflections": ["la prémonition", "les prémonitions"],
+      "ptTargets": ["premonição", "pressentimento"],
+      "examples": [
+        { "level": "A1", "fr": "La prémonition surprend.", "pt": "A premonição surpreende." },
+        { "level": "A2-B1", "fr": "Elle a eu une prémonition.", "pt": "Ela teve uma premonição." },
+        { "level": "B1-B2", "fr": "La prémonition, vague, se confirme avec le temps.", "pt": "A premonição, vaga, se confirma com o tempo." },
+        { "level": "C1-C2", "fr": "C'est la prémonition qui, discrète, préparait déjà la suite du chemin.", "pt": "É a premonição que, discreta, já preparava a continuação do caminho." }
+      ]
+    },
+    {
+      "term": "la prescience",
+      "definitionPt": "a presciência (conhecimento antecipado)",
+      "definitionFr": "Connaissance anticipée des choses à venir.",
+      "inflections": ["la prescience"],
+      "ptTargets": ["presciência"],
+      "examples": [
+        { "level": "A1", "fr": "La prescience est rare.", "pt": "A presciência é rara." },
+        { "level": "A2-B1", "fr": "Le poète a la prescience des choses.", "pt": "O poeta tem a presciência das coisas." },
+        { "level": "B1-B2", "fr": "La prescience, intuitive, devance la raison.", "pt": "A presciência, intuitiva, antecede a razão." },
+        { "level": "C1-C2", "fr": "C'est la prescience des poètes qui avait déjà nommé ce que je vis.", "pt": "É a presciência dos poetas que já tinha nomeado o que eu vivo." }
+      ]
+    },
+    {
+      "term": "indéniable",
+      "definitionPt": "inegável (que não se pode negar)",
+      "definitionFr": "Qui ne peut être nié.",
+      "inflections": ["indéniable", "indéniables"],
+      "ptTargets": ["inegável"],
+      "examples": [
+        { "level": "A1", "fr": "C'est vrai.", "pt": "É verdade." },
+        { "level": "A2-B1", "fr": "Son progrès est indéniable.", "pt": "Seu progresso é inegável." },
+        { "level": "B1-B2", "fr": "Le changement, indéniable, se lit dans ses gestes.", "pt": "A mudança, inegável, se lê em seus gestos." },
+        { "level": "C1-C2", "fr": "C'est un fait indéniable que la route transforme celui qui la parcourt.", "pt": "É um fato inegável que a estrada transforma quem a percorre." }
+      ]
+    },
+    {
+      "term": "irréfutable",
+      "definitionPt": "irrefutável (que não pode ser refutado)",
+      "definitionFr": "Qui ne peut être réfuté.",
+      "inflections": ["irréfutable", "irréfutables"],
+      "ptTargets": ["irrefutável"],
+      "examples": [
+        { "level": "A1", "fr": "La preuve est forte.", "pt": "A prova é forte." },
+        { "level": "A2-B1", "fr": "Son argument est irréfutable.", "pt": "Seu argumento é irrefutável." },
+        { "level": "B1-B2", "fr": "La démonstration, irréfutable, clôt le débat.", "pt": "A demonstração, irrefutável, encerra o debate." },
+        { "level": "C1-C2", "fr": "C'est une vérité irréfutable que l'expérience vécue fonde.", "pt": "É uma verdade irrefutável que a experiência vivida funda." }
+      ]
+    },
+    {
+      "term": "inéluctable",
+      "definitionPt": "inelutável (a que não se pode escapar)",
+      "definitionFr": "À quoi on ne peut échapper.",
+      "inflections": ["inéluctable", "inéluctables"],
+      "ptTargets": ["inelutável", "inevitável"],
+      "examples": [
+        { "level": "A1", "fr": "La fin arrive.", "pt": "O fim chega." },
+        { "level": "A2-B1", "fr": "Le départ est inéluctable.", "pt": "A partida é inelutável." },
+        { "level": "B1-B2", "fr": "L'évolution, inéluctable, ne se laisse pas arrêter.", "pt": "A evolução, inelutável, não se deixa deter." },
+        { "level": "C1-C2", "fr": "C'est l'adieu inéluctable qui, accepté, laisse place à la suite.", "pt": "É a despedida inelutável que, aceita, dá lugar à continuação." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "L'anaphore et le chiasme au C2",
+    "explanationPt": "Duas figuras de construção coroam o C2: a anáfora repete uma palavra no início de frases sucessivas ('Paris m'a donné un travail, la France m'a donné une langue, la mer m'a donné une lumière'); o quiasmo cruza os termos ('il a commencé en prose et s'achève en lyrisme' → 'la prose de survie est devenue le lyrisme de l'existence').",
+    "exampleFr": "Paris m'a donné un travail, la France m'a donné une langue, Nice m'a donné une lumière.",
+    "examplePt": "Paris me deu um trabalho, a França me deu uma língua, Nice me deu uma luz.",
+    "practiceQuestion": "Complete a anáfora: « Paris m'a donné un travail, la France m'a ___ une langue. »",
+    "options": ["donné", "donner", "donnant"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "L'anaphore de la synthèse",
+        "explanationPt": "A anáfora ('Paris m'a donné..., la France m'a donné...') cria ritmo e insistência; é a figura ideal para as conclusões solenes. Cada cidade recebe seu verbo no passé composé.",
+        "exampleFr": "Chaque ville m'a donné un mot ; chaque mot m'a donné un monde.",
+        "examplePt": "Cada cidade me deu uma palavra; cada palavra me deu um mundo.",
+        "practiceQuestion": "Complete: « Chaque ville m'a ___ un mot. »",
+        "options": ["donné", "donner", "donnant"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "Le chiasme de la transformation",
+        "explanationPt": "O quiasmo cruza os termos em AB/BA: 'l'étranger que j'étais est devenu un homme de ce pays' → o estrangeiro e o homem trocam de lugar, e a frase espelha a transformação.",
+        "exampleFr": "Je suis arrivé étranger ; je pars chez moi.",
+        "examplePt": "Cheguei estrangeiro; parto em casa.",
+        "practiceQuestion": "Complete o quiasmo: « Je suis arrivé ___ ; je pars chez moi. »",
+        "options": ["étranger", "voyageur", "libre"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Onde Irlan relê sua vida na aula final?",
+      "options": ["no trem que deixa Nice", "na praia", "no museu"],
+      "correctIndex": 0,
+      "explanation": "No trem que quittait Nice, Irlan abre o carnet pela última vez."
+    },
+    {
+      "question": "Como Irlan descreve o começo e o fim de sua vida na França?",
+      "options": ["prosa de sobrevivência → lirismo", "lirismo → prosa", "silêncio → ruído"],
+      "correctIndex": 0,
+      "explanation": "A vida começou em prosa de survie e se encerra em lyrisme."
+    },
+    {
+      "question": "Complete a anáfora: « Paris m'a donné un travail, la France m'a ___ une langue. »",
+      "options": ["donné", "donner", "donnant"],
+      "correctIndex": 0,
+      "explanation": "A anáfora repete 'm'a donné' no início de cada membro."
+    },
+    {
+      "question": "O que era, para Irlan, a escolha entre Brasil e França?",
+      "options": ["uma aporia resolvida por um salto", "um cálculo financeiro", "um acaso sem sentido"],
+      "correctIndex": 0,
+      "explanation": "Irlan: 'C'était une aporie... on n'en sort que par un saut.'"
+    },
+    {
+      "question": "Qual é a tautologia final de Irlan?",
+      "options": ["« Je suis devenu moi-même. »", "« Je suis fatigué. »", "« Je suis perdu. »"],
+      "correctIndex": 0,
+      "explanation": "A tautologia final, que fecha o relato: 'je suis devenu moi-même'."
+    }
+  ]
+}

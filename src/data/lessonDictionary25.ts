@@ -1,0 +1,147 @@
+import { DictionaryEntry } from '../utils/textParser';
+
+export const LESSON_DICTIONARY_25: Record<string, DictionaryEntry> = {
+  valise: {
+    term: "valise",
+    wordFr: "valise",
+    definitionPt: "Mala de viagem (substantivo feminino)",
+    difficultyLevel: "undefined",
+    examples: [
+      { level: "A1", fr: "Ma valise est bleue et légère.", pt: "Minha mala é azul e leve." },
+      { level: "A2-B1", fr: "Je dois faire ma valise avant de partir pour la gare.", pt: "Eu devo fazer minha mala antes de partir para a estação." },
+      { level: "B2", fr: "Nous avons rangé nos valises dans le compartiment à bagages du train.", pt: "Nós guardamos nossas malas no compartimento de bagagens do trem." },
+      { level: "C1-C2", fr: "La compacité de cette valise ergonomique facilite grandement les déplacements fréquents en train.", pt: "A compacidade desta mala ergonômica facilita grandemente os deslocamentos frequentes de trem." },
+    ],
+  },
+  message: {
+    term: "message",
+    wordFr: "message",
+    definitionPt: "Mensagem, recado (substantivo masculino)",
+    difficultyLevel: "undefined",
+    examples: [
+      { level: "A1", fr: "J'envoie un message à mon ami.", pt: "Eu envio uma mensagem ao meu amigo." },
+      { level: "A2-B1", fr: "Elle a écrit un gentil message pour dire merci.", pt: "Ela escreveu uma mensagem gentil para dizer obrigado." },
+      { level: "B2", fr: "Nous avons reçu un message confirmant l'heure de départ de notre train.", pt: "Nós recebemos uma mensagem confirmando o horário de partida do nosso trem." },
+      { level: "C1-C2", fr: "La clarté de ce message exprime parfaitement la gratitude du voyageur envers ses hôtes.", pt: "A clareza desta mensagem expressa perfeitamente a gratidão do viajante para com seus anfitriões." },
+    ],
+  },
+  billet: {
+    term: "billet",
+    wordFr: "billet",
+    definitionPt: "Passagem, bilhete (substantivo masculino)",
+    difficultyLevel: "undefined",
+    examples: [
+      { level: "A1", fr: "J'ai mon billet pour le train.", pt: "Eu tenho minha passagem para o trem." },
+      { level: "A2-B1", fr: "Où est-ce que je peux acheter un billet pour Amiens ?", pt: "Onde eu posso comprar uma passagem para Amiens?" },
+      { level: "B2", fr: "Pensez à valider votre billet avant de monter à bord du train.", pt: "Lembre-se de validar sua passagem antes de subir a bordo do trem." },
+      { level: "C1-C2", fr: "La dématérialisation des billets de train simplifie les procédures de contrôle en gare.", pt: "A desmaterialização dos bilhetes de trem simplifica os procedimentos de controle na estação." },
+    ],
+  },
+  gare: {
+    term: "gare",
+    wordFr: "gare",
+    definitionPt: "Estação de trem (substantivo feminino)",
+    difficultyLevel: "undefined",
+    examples: [
+      { level: "A1", fr: "La gare est grande et moderne.", pt: "A estação de trem é grande e moderna." },
+      { level: "A2-B1", fr: "Nous prenons le train à la Gare du Nord à Paris.", pt: "Nós pegamos o trem na Gare du Nord em Paris." },
+      { level: "B2", fr: "Les gares parisiens constituent de véritables carrefours pour les voyageurs européens.", pt: "As estações parisienses constituem verdadeiros cruzamentos para os viajantes europeus." },
+      { level: "C1-C2", fr: "L'architecture monumentale du dix-neuvième siècle confère à cette gare un statut symbolique unique.", pt: "A arquitetura monumental do século dezenove confere a esta estação um status simbólico único." },
+    ],
+  },
+  train: {
+    term: "train",
+    wordFr: "train",
+    definitionPt: "Trem (substantivo masculino)",
+    difficultyLevel: "undefined",
+    examples: [
+      { level: "A1", fr: "Le train arrive à la gare.", pt: "O trem chega à estação." },
+      { level: "A2-B1", fr: "Nous voyageons en train pour aller à Amiens rapidement.", pt: "Nós viajamos de trem para ir a Amiens rapidamente." },
+      { level: "B2", fr: "Le train à grande vitesse permet de relier les villes françaises en peu de temps.", pt: "O trem de alta velocidade permite ligar as cidades francesas em pouco tempo." },
+      { level: "C1-C2", fr: "Le développement du réseau ferroviaire a transformé la perception des distances interrégionales.", pt: "O desenvolvimento da rede ferroviária transformou a percepção das distâncias inter-regionais." },
+    ],
+  },
+  monter: {
+    term: "monter",
+    wordFr: "monter",
+    definitionPt: "Subir, entrar em um veículo (verbo)",
+    difficultyLevel: "undefined",
+    examples: [
+      { level: "A1", fr: "Je monte dans le train pour Amiens.", pt: "Eu subo no trem para Amiens." },
+      { level: "A2-B1", fr: "Les voyageurs montent dans le train avec leurs valises.", pt: "Os viajantes sobem no trem com suas malas." },
+      { level: "B2", fr: "Veuillez monter à bord avant la fermeture automatique des portes.", pt: "Por favor, subam a bordo antes do fechamento automático das portas." },
+      { level: "C1-C2", fr: "L'ordre d'embarquement invite les passagers à monter dans les wagons avec fluidité et sérénité.", pt: "A ordem de embarque convida os passageiros a subir nos vagões com fluidez e serenidade." },
+    ],
+  },
+  "au revoir": {
+    term: "au revoir",
+    wordFr: "au revoir",
+    definitionPt: "Adeus, até logo (expressão interjetiva)",
+    difficultyLevel: "undefined",
+    examples: [
+      { level: "A1", fr: "Je dis au revoir à mes amis.", pt: "Eu digo adeus aos meus amigos." },
+      { level: "A2-B1", fr: "Nous disons au revoir à Paris avec beaucoup de beaux souvenirs.", pt: "Nós dizemos adeus a Paris com muitas lindas lembranças." },
+      { level: "B2", fr: "Dire au revoir à une ville que l'on a tant aimée est toujours émouvant.", pt: "Dizer adeus a uma cidade que tanto amamos é sempre emocionante." },
+      { level: "C1-C2", fr: "Ce chaleureux au revoir marque symboliquement l'aboutissement du premier chapitre de son aventure.", pt: "Este caloroso adeus marca simbolicamente a conclusão do primeiro capítulo de sua aventura." },
+    ],
+  },
+  voyage: {
+    term: "voyage",
+    wordFr: "voyage",
+    definitionPt: "Viagem (substantivo masculino)",
+    difficultyLevel: "undefined",
+    examples: [
+      { level: "A1", fr: "C'est un beau voyage en France.", pt: "É uma bela viagem pela França." },
+      { level: "A2-B1", fr: "Mon voyage commence à Paris et continue à Amiens.", pt: "Minha viagem começa em Paris e continua em Amiens." },
+      { level: "B2", fr: "Ce voyage linguistique permet d'explorer la diversité culturelle des régions françaises.", pt: "Esta viagem linguística permite explorar a diversidade cultural das regiões francesas." },
+      { level: "C1-C2", fr: "Le voyage constitue une expérience initiatique fondamentale pour l'enrichissement intellectuel et personnel.", pt: "A viagem constitui uma experiência iniciática fundamental para o enriquecimento intelectual e pessoal." },
+    ],
+  },
+  chambre: {
+    term: "chambre",
+    wordFr: "chambre",
+    definitionPt: "Quarto (substantivo feminino)",
+    difficultyLevel: "undefined",
+    examples: [
+      { level: "A1", fr: "Ma chambre d'hôtel est propre et calme.", pt: "Meu quarto de hotel é limpo e calmo." },
+      { level: "A2-B1", fr: "Je prends mes bagages avant de quitter ma chambre.", pt: "Eu pego minhas bagagens antes de deixar meu quarto." },
+      { level: "B2", fr: "La chambre offre une vue agréable sur les toits parisiens.", pt: "O quarto oferece uma vista agradável sobre os telhados parisienses." },
+      { level: "C1-C2", fr: "L'aménagement sobre et raffiné de cette chambre illustre l'hospitalité de tradition française.", pt: "A decoração sóbria e refinada deste quarto ilustra a hospitalidade de tradição francesa." },
+    ],
+  },
+  dernier: {
+    term: "dernier",
+    wordFr: "dernier",
+    definitionPt: "Último, última (adjetivo)",
+    difficultyLevel: "undefined",
+    examples: [
+      { level: "A1", fr: "C'est mon dernier jour à Paris.", pt: "É meu último dia em Paris." },
+      { level: "A2-B1", fr: "Nous prenons le dernier train de la journée pour arriver à temps.", pt: "Nós pegamos o último trem do dia para chegar a tempo." },
+      { level: "B2", fr: "Pour cette dernière matinée, je souhaite profiter de l'atmosphère unique de la capitale.", pt: "Para esta última manhã, desejo aproveitar a atmosfera única da capital." },
+    ],
+  },
+  préparer: {
+    term: "préparer",
+    wordFr: "préparer",
+    definitionPt: "Preparar, arrumar (verbo)",
+    difficultyLevel: "undefined",
+    examples: [
+      { level: "A1", fr: "Je prépare ma valise ce matin.", pt: "Eu preparo minha mala esta manhã." },
+      { level: "A2-B1", fr: "Nous préparons notre prochain voyage pour Amiens avec enthousiasme.", pt: "Nós preparamos nossa próxima viagem para Amiens com entusiasmo." },
+      { level: "B2", fr: "Il est conseillé de bien préparer son itinéraire avant de prendre le train.", pt: "É aconselhável preparar bem o seu itinerário antes de pegar o trem." },
+      { level: "C1-C2", fr: "Préparer minutieusement un voyage permet d'appréhender sereinement la découverte de nouvelles villes.", pt: "Preparar minuciosamente uma viagem permite encarar com serenidade a descoberta de novas cidades." },
+    ],
+  },
+  main: {
+    term: "main",
+    wordFr: "main",
+    definitionPt: "Mão (substantivo feminino)",
+    difficultyLevel: "undefined",
+    examples: [
+      { level: "A1", fr: "J'ai mon billet dans la main.", pt: "Eu tenho minha passagem na mão." },
+      { level: "A2-B1", fr: "Elle salue ses amis de la main en partant de la gare.", pt: "Ela acena com a mão para seus amigos ao partir da estação." },
+      { level: "B2", fr: "Gardez toujours vos documents de voyage à portée de main.", pt: "Mantenha sempre seus documentos de viagem ao alcance da mão." },
+      { level: "C1-C2", fr: "Ce geste chaleureux de la main symbolise un adieu empreint de gratitude et de courtoisie.", pt: "Este gesto caloroso de mão simboliza um adeus repleto de gratidão e cortesia." },
+    ],
+  },
+};

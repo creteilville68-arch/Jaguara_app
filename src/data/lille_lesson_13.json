@@ -1,0 +1,252 @@
+{
+  "id": "lille_lesson_13",
+  "cityId": "lille",
+  "domain": "Cotidiano",
+  "level": "Básico (A2)",
+  "titleFr": "Le tramway « Mongy » : le tramway de la métropole",
+  "titlePt": "O bonde « Mongy »: o bonde da metrópole",
+  "subtitleFr": "Depuis 1909, il relie Lille, Roubaix et Tourcoing",
+  "subtitlePt": "Desde 1909, ele liga Lille, Roubaix e Tourcoing",
+  "summaryPt": "Nesta Aula 13 (A2), a família descobre o bonde elétrico de Lille, apelidado de Mongy, que circula desde 1909 entre Lille, Roubaix e Tourcoing — o primeiro bonde elétrico da França. Irlan, ex-livreur de scooter, agora usa o transporte público com a família. O aluno pratica os verbos pronominais no Passé Composé (je me suis promené) e o verbo prendre.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Le tramway est arrivé avec un léger bruit électrique. « Il s'appelle le Mongy, comme son inventeur », a expliqué Irlan. La famille est montée à la station Gare Lille-Flandres.",
+      "pt": "O bonde chegou com um leve ruído elétrico. « Ele se chama Mongy, como seu inventor », explicou Irlan. A família subiu na estação Gare Lille-Flandres."
+    },
+    {
+      "id": 2,
+      "fr": "Le tramway a traversé la ville. « C'est le premier tramway électrique de France, depuis 1909 », a dit Andréa. Íris a regardé les maisons de briques défiler.",
+      "pt": "O bonde atravessou a cidade. « É o primeiro bonde elétrico da França, desde 1909 », disse Andréa. Íris viu as casas de tijolos passarem."
+    },
+    {
+      "id": 3,
+      "fr": "Ils se sont arrêtés à Roubaix, la ville des usines textiles. « Nous nous sommes promenés dans le centre, puis nous avons pris le tramway pour revenir », a raconté Irlan.",
+      "pt": "Eles pararam em Roubaix, a cidade das fábricas têxteis. « Passeamos no centro, depois pegamos o bonde para voltar », contou Irlan."
+    },
+    {
+      "id": 4,
+      "fr": "« Quand j'étais livreur, je me suis souvent arrêté ici pour livrer des colis », a souri Irlan. « Aujourd'hui, je me suis promené dans le tramway avec mes filles. »",
+      "pt": "« Quando eu era entregador, muitas vezes parei aqui para entregar pacotes », sorriu Irlan. « Hoje, passei de bonde com minhas meninas. »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "le tramway",
+      "definitionPt": "o bonde, o trólebus",
+      "definitionFr": "Train léger qui circule dans les villes.",
+      "inflections": ["le tramway", "un tramway", "des tramways"],
+      "ptTargets": ["bonde", "tram"],
+      "examples": [
+        { "level": "A1", "fr": "Le tramway est rapide.", "pt": "O bonde é rápido." },
+        { "level": "A2-B1", "fr": "Le tramway de Lille s'appelle le Mongy.", "pt": "O bonde de Lille se chama Mongy." },
+        { "level": "B2", "fr": "Le tramway relie Lille, Roubaix et Tourcoing.", "pt": "O bonde liga Lille, Roubaix e Tourcoing." },
+        { "level": "C1-C2", "fr": "Depuis plus d'un siècle, le tramway rythme la vie de la métropole.", "pt": "Há mais de um século, o bonde marca o ritmo da vida da metrópole." }
+      ]
+    },
+    {
+      "term": "électrique",
+      "definitionPt": "elétrico",
+      "definitionFr": "Qui fonctionne à l'électricité.",
+      "inflections": ["électrique", "électriques", "l'électricité"],
+      "ptTargets": ["elétrico"],
+      "examples": [
+        { "level": "A1", "fr": "Le vélo électrique est silencieux.", "pt": "A bicicleta elétrica é silenciosa." },
+        { "level": "A2-B1", "fr": "C'est le premier tramway électrique de France.", "pt": "É o primeiro bonde elétrico da França." },
+        { "level": "B2", "fr": "La ligne électrique alimente tout le réseau.", "pt": "A linha elétrica alimenta toda a rede." },
+        { "level": "C1-C2", "fr": "L'aventure électrique du tramway a transformé la région en 1909.", "pt": "A aventura elétrica do bonde transformou a região em 1909." }
+      ]
+    },
+    {
+      "term": "se promener",
+      "definitionPt": "passear",
+      "definitionFr": "Marcher pour le plaisir.",
+      "inflections": ["je me promène", "nous nous promenons", "promené"],
+      "ptTargets": ["passear"],
+      "examples": [
+        { "level": "A1", "fr": "Je me promène dans le parc.", "pt": "Passeio no parque." },
+        { "level": "A2-B1", "fr": "Nous nous sommes promenés dans le centre de Roubaix.", "pt": "Passeamos no centro de Roubaix." },
+        { "level": "B2", "fr": "Elle s'est promenée le long des canaux.", "pt": "Ela passeou ao longo dos canais." },
+        { "level": "C1-C2", "fr": "Se promener sans but est le luxe de ceux qui ont du temps.", "pt": "Passear sem destino é o luxo de quem tem tempo." }
+      ]
+    },
+    {
+      "term": "l'inventeur",
+      "definitionPt": "o inventor",
+      "definitionFr": "Personne qui invente quelque chose.",
+      "inflections": ["l'inventeur", "un inventeur", "des inventeurs"],
+      "ptTargets": ["inventor"],
+      "examples": [
+        { "level": "A1", "fr": "L'inventeur est vieux.", "pt": "O inventor é velho." },
+        { "level": "A2-B1", "fr": "Alfred Mongy était l'inventeur du tramway de Lille.", "pt": "Alfred Mongy foi o inventor do bonde de Lille." },
+        { "level": "B2", "fr": "L'inventeur a donné son nom au tramway.", "pt": "O inventor deu seu nome ao bonde." },
+        { "level": "C1-C2", "fr": "L'ingénieur Mongy a imaginé un réseau qui dure encore aujourd'hui.", "pt": "O engenheiro Mongy imaginou uma rede que dura até hoje." }
+      ]
+    },
+    {
+      "term": "la station",
+      "definitionPt": "a estação (de metrô/bonde)",
+      "definitionFr": "Lieu où s'arrête un transport.",
+      "inflections": ["la station", "une station", "des stations"],
+      "ptTargets": ["estação", "ponto"],
+      "examples": [
+        { "level": "A1", "fr": "La station est près de la gare.", "pt": "A estação fica perto da gare." },
+        { "level": "A2-B1", "fr": "Nous sommes montés à la station Gare Lille-Flandres.", "pt": "Subimos na estação Gare Lille-Flandres." },
+        { "level": "B2", "fr": "Chaque station du tramway raconte un quartier.", "pt": "Cada estação do bonde conta um bairro." },
+        { "level": "C1-C2", "fr": "La station, avec ses quais bondés, vit au rythme des horaires.", "pt": "A estação, com suas plataformas lotadas, vive no ritmo dos horários." }
+      ]
+    },
+    {
+      "term": "monter",
+      "definitionPt": "subir, entrar (no transporte)",
+      "definitionFr": "Entrer dans un véhicule ; aller vers le haut.",
+      "inflections": ["je monte", "nous montons", "monté"],
+      "ptTargets": ["subir", "entrar"],
+      "examples": [
+        { "level": "A1", "fr": "Je monte dans le train.", "pt": "Subo no trem." },
+        { "level": "A2-B1", "fr": "Nous sommes montés dans le tramway.", "pt": "Entramos no bonde." },
+        { "level": "B2", "fr": "Elle est montée à la dernière station avant la fermeture.", "pt": "Ela entrou na última estação antes do fechamento." },
+        { "level": "C1-C2", "fr": "Monter dans ce tramway, c'est voyager dans l'histoire de la ville.", "pt": "Entrar neste bonde é viajar pela história da cidade." }
+      ]
+    },
+    {
+      "term": "descendre",
+      "definitionPt": "descer, sair (do transporte)",
+      "definitionFr": "Sortir d'un véhicule ; aller vers le bas.",
+      "inflections": ["je descends", "nous descendons", "descendu"],
+      "ptTargets": ["descer", "sair"],
+      "examples": [
+        { "level": "A1", "fr": "Je descends à la prochaine station.", "pt": "Desço na próxima estação." },
+        { "level": "A2-B1", "fr": "Nous sommes descendus à Roubaix.", "pt": "Descemos em Roubaix." },
+        { "level": "B2", "fr": "Ils sont descendus du tramway en courant.", "pt": "Eles desceram do bonde correndo." },
+        { "level": "C1-C2", "fr": "Descendre du tramway dans une ville inconnue est toujours une aventure.", "pt": "Descer do bonde numa cidade desconhecida é sempre uma aventura." }
+      ]
+    },
+    {
+      "term": "la brique",
+      "definitionPt": "o tijolo",
+      "definitionFr": "Matériau de construction en terre cuite.",
+      "inflections": ["la brique", "une brique", "des briques"],
+      "ptTargets": ["tijolo"],
+      "examples": [
+        { "level": "A1", "fr": "La maison est en briques.", "pt": "A casa é de tijolos." },
+        { "level": "A2-B1", "fr": "Les maisons de Roubaix sont en briques rouges.", "pt": "As casas de Roubaix são de tijolos vermelhos." },
+        { "level": "B2", "fr": "La brique du Nord donne aux villes une couleur chaude.", "pt": "O tijolo do Norte dá às cidades uma cor quente." },
+        { "level": "C1-C2", "fr": "Sous la pluie, les briques deviennent presque violettes.", "pt": "Sob a chuva, os tijolos ficam quase violetas." }
+      ]
+    },
+    {
+      "term": "l'usine",
+      "definitionPt": "a fábrica",
+      "definitionFr": "Bâtiment où l'on fabrique des produits.",
+      "inflections": ["l'usine", "une usine", "des usines"],
+      "ptTargets": ["fábrica"],
+      "examples": [
+        { "level": "A1", "fr": "L'usine est grande.", "pt": "A fábrica é grande." },
+        { "level": "A2-B1", "fr": "Roubaix était une ville d'usines textiles.", "pt": "Roubaix era uma cidade de fábricas têxteis." },
+        { "level": "B2", "fr": "Les usines du Nord ont fermé les unes après les autres.", "pt": "As fábricas do Norte fecharam uma após a outra." },
+        { "level": "C1-C2", "fr": "De l'usine au musée, la ville a réinventé son destin.", "pt": "Da fábrica ao museu, a cidade reinventou seu destino." }
+      ]
+    },
+    {
+      "term": "textile",
+      "definitionPt": "têxtil",
+      "definitionFr": "Qui concerne le tissu.",
+      "inflections": ["textile", "textiles", "le textile"],
+      "ptTargets": ["têxtil"],
+      "examples": [
+        { "level": "A1", "fr": "C'est une usine textile.", "pt": "É uma fábrica têxtil." },
+        { "level": "A2-B1", "fr": "Le textile a fait la richesse de Roubaix.", "pt": "O têxtil fez a riqueza de Roubaix." },
+        { "level": "B2", "fr": "L'industrie textile employait des milliers d'ouvriers.", "pt": "A indústria têxtil empregava milhares de operários." },
+        { "level": "C1-C2", "fr": "L'âge d'or du textile a laissé des palais de briques dans la ville.", "pt": "A era de ouro do têxtil deixou palácios de tijolos na cidade." }
+      ]
+    },
+    {
+      "term": "le colis",
+      "definitionPt": "o pacote, a encomenda",
+      "definitionFr": "Paquet que l'on envoie.",
+      "inflections": ["le colis", "un colis", "des colis"],
+      "ptTargets": ["pacote", "encomenda"],
+      "examples": [
+        { "level": "A1", "fr": "Le colis est lourd.", "pt": "O pacote é pesado." },
+        { "level": "A2-B1", "fr": "Irlan livrait des colis avec sa scooter.", "pt": "Irlan entregava pacotes com sua scooter." },
+        { "level": "B2", "fr": "Le colis est arrivé avec deux jours de retard.", "pt": "O pacote chegou com dois dias de atraso." },
+        { "level": "C1-C2", "fr": "Chaque colis livré à temps est une petite victoire pour un livreur.", "pt": "Cada pacote entregue no prazo é uma pequena vitória para um entregador." }
+      ]
+    },
+    {
+      "term": "traverser",
+      "definitionPt": "atravessar",
+      "definitionFr": "Aller d'un côté à l'autre.",
+      "inflections": ["je traverse", "nous traversons", "traversé"],
+      "ptTargets": ["atravessar"],
+      "examples": [
+        { "level": "A1", "fr": "Je traverse la rue.", "pt": "Atravesso a rua." },
+        { "level": "A2-B1", "fr": "Le tramway a traversé toute la ville.", "pt": "O bonde atravessou toda a cidade." },
+        { "level": "B2", "fr": "Nous avons traversé la métropole de Lille à Roubaix.", "pt": "Atravessamos a metrópole de Lille a Roubaix." },
+        { "level": "C1-C2", "fr": "Traverser le Nord, c'est traverser un siècle d'industrie et de courage.", "pt": "Atravessar o Norte é atravessar um século de indústria e coragem." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Les verbes pronominaux au Passé Composé (je me suis promené)",
+    "explanationPt": "Os verbos pronominais (se promener, se lever, s'arrêter) usam ÊTRE no Passé Composé: 'je me suis promené' (eu passei), 'nous nous sommes promenés' (nós passeamos), 'elle s'est arrêtée' (ela parou).",
+    "exampleFr": "Nous nous sommes promenés dans le centre de Roubaix.",
+    "examplePt": "Passeamos no centro de Roubaix.",
+    "practiceQuestion": "Complete: « Je me suis ___ dans le parc. »",
+    "options": ["promené", "promener", "promenais"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "Se + être : la structure",
+        "explanationPt": "Estrutura: pronome (me, te, se, nous, vous, se) + être no presente + particípio passado. 'Je me suis arrêté', 'elle s'est arrêtée', 'nous nous sommes arrêtés'.",
+        "exampleFr": "Elle s'est arrêtée devant la gare, puis elle est montée dans le tramway.",
+        "examplePt": "Ela parou diante da estação, depois entrou no bonde.",
+        "practiceQuestion": "Complete: « Ils ___ arrêtés à Roubaix. »",
+        "options": ["se sont", "se sonts", "s'ont"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "Prendre : monter, descendre, changer",
+        "explanationPt": "No transporte, usamos: 'prendre le tramway' (pegar o bonde), 'monter dans' (entrar em), 'descendre à' (descer em), 'changer à' (fazer baldeação em).",
+        "exampleFr": "Nous avons pris le tramway, puis nous sommes descendus à la gare.",
+        "examplePt": "Pegamos o bonde, depois descemos na estação.",
+        "practiceQuestion": "Complete: « Nous avons ___ le tramway. »",
+        "options": ["pris", "prendre", "prenu"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Por que o bonde de Lille se chama Mongy?",
+      "options": ["Por causa do seu inventor, Alfred Mongy", "Por causa de um rio", "Por causa de um rei"],
+      "correctIndex": 0,
+      "explanation": "O engenheiro Alfred Mongy projetou a linha e deu nome ao bonde, que circula desde 1909."
+    },
+    {
+      "question": "Qual é a forma correta no Passé Composé?",
+      "options": ["Nous nous sommes promenés à Roubaix.", "Nous nous avons promenés à Roubaix.", "Nous sommes se promenés à Roubaix."],
+      "correctIndex": 0,
+      "explanation": "Verbos pronominais usam ÊTRE: 'nous nous sommes promenés'."
+    },
+    {
+      "question": "Complete: « Ils ___ arrêtés devant la gare. »",
+      "options": ["se sont", "s'ont", "se sonts"],
+      "correctIndex": 0,
+      "explanation": "'Se sont arrêtés' — pronome se + être no plural."
+    },
+    {
+      "question": "O que o tramway de Lille liga?",
+      "options": ["Lille, Roubaix e Tourcoing", "Lille e Paris", "Lille e Bruxelas"],
+      "correctIndex": 0,
+      "explanation": "O Mongy circula desde 1909 entre Lille, Roubaix e Tourcoing, na metrópole do Norte."
+    },
+    {
+      "question": "O que Irlan lembrou em Roubaix?",
+      "options": ["Que entregava colis ali com a scooter quando era livreur", "Que nasceu em Roubaix", "Que nunca tinha vindo ao Norte"],
+      "correctIndex": 0,
+      "explanation": "Irlan, ex-livreur, se lembrava das entregas de colis na região — hoje passeia de bonde com a família."
+    }
+  ]
+}

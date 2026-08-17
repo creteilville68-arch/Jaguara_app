@@ -1,0 +1,252 @@
+{
+  "id": "bordeaux_lesson_1",
+  "cityId": "bordeaux",
+  "domain": "Viagem",
+  "level": "Intermediário (B1+)",
+  "titleFr": "Bienvenue à Bordeaux : le Miroir d'eau et la place de la Bourse",
+  "titlePt": "Bem-vindo a Bordeaux: o Miroir d'eau e a Praça da Bolsa",
+  "subtitleFr": "L'arrivée à la gare Saint-Jean et la plus grande place d'eau du monde",
+  "subtitlePt": "A chegada à estação Saint-Jean e a maior praça d'água do mundo",
+  "summaryPt": "Nesta Aula 1 (B1+), a família chega a Bordeaux de TGV. Irlan, que viveu anos entregando com sua scooter em Paris, agora passeia pela place de la Bourse e pelo Miroir d'eau, o maior espelho d'água do mundo. O aluno aprende o Conditionnel Présent para pedir com polidez: 'je voudrais', 'nous aimerions'.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "À la gare Saint-Jean, Irlan a souri en posant les valises. « Nous voici à Bordeaux ! La ville des grands crus et du Miroir d'eau. »",
+      "pt": "Na estação Saint-Jean, Irlan sorriu ao pousar as malas. « Chegamos a Bordeaux! A cidade dos grandes vinhos e do Miroir d'eau. »"
+    },
+    {
+      "id": 2,
+      "fr": "Sur la place de la Bourse, Iris a couru vers le Miroir d'eau. « Papa, on peut marcher sur l'eau ! » Andréa a ri : « Doucement, chérie. Il faudrait d'abord admirer les façades dorées. »",
+      "pt": "Na Praça da Bolsa, Íris correu até o Miroir d'eau. « Papai, dá para andar sobre a água! » Andréa riu: « Devagar, querida. Seria preciso primeiro admirar as fachadas douradas. »"
+    },
+    {
+      "id": 3,
+      "fr": "Irlan a consulté un panneau : « Ce miroir d'eau est le plus grand du monde : 3 450 mètres carrés. Il reflète la place comme un miroir. Nous pourrions revenir ce soir pour le spectacle. »",
+      "pt": "Irlan consultou uma placa: « Este espelho d'água é o maior do mundo: 3.450 metros quadrados. Ele reflete a praça como um espelho. Poderíamos voltar à noite para o espetáculo. »"
+    },
+    {
+      "id": 4,
+      "fr": "Le soir, la famille est revenue. Les jets d'eau dansaient dans la lumière. « Je voudrais rester ici toute la nuit », a murmuré Iris. Andréa a répondu : « Moi, je voudrais plutôt goûter un canelé. »",
+      "pt": "À noite, a família voltou. Os jatos d'água dançavam na luz. « Eu gostaria de ficar aqui a noite toda », murmurou Íris. Andréa respondeu: « Eu, em vez disso, gostaria de provar um canelé. »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "le miroir",
+      "definitionPt": "o espelho",
+      "definitionFr": "Surface qui reflète les images.",
+      "inflections": ["le miroir", "les miroirs"],
+      "ptTargets": ["espelho"],
+      "examples": [
+        { "level": "A1", "fr": "Le miroir est grand.", "pt": "O espelho é grande." },
+        { "level": "A2-B1", "fr": "Le Miroir d'eau reflète la place de la Bourse.", "pt": "O Miroir d'eau reflete a Praça da Bolsa." },
+        { "level": "B1-B2", "fr": "Le miroir d'eau, qui est le plus grand du monde, transforme la place en spectacle.", "pt": "O espelho d'água, que é o maior do mundo, transforma a praça em espetáculo." },
+        { "level": "C1-C2", "fr": "Le Miroir d'eau illustre l'architecture qui se joue des reflets et des éléments.", "pt": "O Miroir d'eau ilustra a arquitetura que brinca com os reflexos e os elementos." }
+      ]
+    },
+    {
+      "term": "la place",
+      "definitionPt": "a praça",
+      "definitionFr": "Espace public dans une ville.",
+      "inflections": ["la place", "les places"],
+      "ptTargets": ["praça"],
+      "examples": [
+        { "level": "A1", "fr": "La place est belle.", "pt": "A praça é bonita." },
+        { "level": "A2-B1", "fr": "La place de la Bourse date du XVIIIe siècle.", "pt": "A Praça da Bolsa data do século XVIII." },
+        { "level": "B1-B2", "fr": "La place, qui donne sur la Garonne, est le cœur de Bordeaux.", "pt": "A praça, que dá para o Garonne, é o coração de Bordeaux." },
+        { "level": "C1-C2", "fr": "La place de la Bourse incarne l'urbanisme classique voulu par les intendants du roi.", "pt": "A Praça da Bolsa encarna o urbanismo clássico desejado pelos intendentes do rei." }
+      ]
+    },
+    {
+      "term": "la façade",
+      "definitionPt": "a fachada",
+      "definitionFr": "Face extérieure d'un bâtiment.",
+      "inflections": ["la façade", "les façades"],
+      "ptTargets": ["fachada"],
+      "examples": [
+        { "level": "A1", "fr": "La façade est blanche.", "pt": "A fachada é branca." },
+        { "level": "A2-B1", "fr": "Les façades de la place sont dorées au coucher du soleil.", "pt": "As fachadas da praça ficam douradas ao pôr do sol." },
+        { "level": "B1-B2", "fr": "Les façades, que la lumière illumine, sont célèbres dans le monde entier.", "pt": "As fachadas, que a luz ilumina, são famosas no mundo inteiro." },
+        { "level": "C1-C2", "fr": "Les façades du XVIIIe siècle témoignent de la richesse du commerce maritime girondin.", "pt": "As fachadas do século XVIII testemunham a riqueza do comércio marítimo de Bordeaux." }
+      ]
+    },
+    {
+      "term": "refléter",
+      "definitionPt": "refletir",
+      "definitionFr": "Rendre une image par réflexion.",
+      "inflections": ["je reflète", "nous reflétons"],
+      "ptTargets": ["refletir", "reflete"],
+      "examples": [
+        { "level": "A1", "fr": "L'eau reflète le ciel.", "pt": "A água reflete o céu." },
+        { "level": "A2-B1", "fr": "Le Miroir d'eau reflète la place de la Bourse.", "pt": "O Miroir d'eau reflete a Praça da Bolsa." },
+        { "level": "B1-B2", "fr": "La surface, qui reflète les bâtiments, semble immatérielle.", "pt": "A superfície, que reflete os edifícios, parece imaterial." },
+        { "level": "C1-C2", "fr": "L'eau calme reflète l'architecture et invite le passant à la contemplation.", "pt": "A água calma reflete a arquitetura e convida o passante à contemplação." }
+      ]
+    },
+    {
+      "term": "le jet d'eau",
+      "definitionPt": "o jato d'água",
+      "definitionFr": "Eau projetée en l'air.",
+      "inflections": ["le jet d'eau", "les jets d'eau"],
+      "ptTargets": ["jato de água", "jato d'água"],
+      "examples": [
+        { "level": "A1", "fr": "Le jet d'eau est haut.", "pt": "O jato d'água é alto." },
+        { "level": "A2-B1", "fr": "Les jets d'eau dansent sur la place.", "pt": "Os jatos d'água dançam na praça." },
+        { "level": "B1-B2", "fr": "Les jets d'eau, qui montent et descendent, ravissent les enfants.", "pt": "Os jatos d'água, que sobem e descem, encantam as crianças." },
+        { "level": "C1-C2", "fr": "Le spectacle des jets d'eau transforme le miroir en scène éphémère.", "pt": "O espetáculo dos jatos d'água transforma o espelho em cena efêmera." }
+      ]
+    },
+    {
+      "term": "admirer",
+      "definitionPt": "admirar",
+      "definitionFr": "Regarder avec plaisir et respect.",
+      "inflections": ["j'admire", "nous admirons"],
+      "ptTargets": ["admirar", "admira"],
+      "examples": [
+        { "level": "A1", "fr": "J'admire la ville.", "pt": "Eu admiro a cidade." },
+        { "level": "A2-B1", "fr": "Nous admirons les façades dorées.", "pt": "Admiramos as fachadas douradas." },
+        { "level": "B1-B2", "fr": "On pourrait admirer le coucher du soleil depuis les quais.", "pt": "Poderíamos admirar o pôr do sol a partir do cais." },
+        { "level": "C1-C2", "fr": "Admirer l'architecture classique, c'est comprendre l'esprit d'une époque.", "pt": "Admirar a arquitetura clássica é compreender o espírito de uma época." }
+      ]
+    },
+    {
+      "term": "le canelé",
+      "definitionPt": "o canelé (doce bordelês)",
+      "definitionFr": "Petit gâteau bordelais caramélisé.",
+      "inflections": ["le canelé", "les canelés"],
+      "ptTargets": ["canelé", "doce"],
+      "examples": [
+        { "level": "A1", "fr": "Le canelé est sucré.", "pt": "O canelé é doce." },
+        { "level": "A2-B1", "fr": "Andréa voudrait goûter un canelé.", "pt": "Andréa gostaria de provar um canelé." },
+        { "level": "B1-B2", "fr": "Le canelé, qui a une croûte caramélisée, est le dessert emblématique de Bordeaux.", "pt": "O canelé, que tem casquinha caramelizada, é a sobremesa emblemática de Bordeaux." },
+        { "level": "C1-C2", "fr": "Le canelé, né au XVIIIe siècle, illustre la gourmandise raffinée de la tradition bordelaise.", "pt": "O canelé, nascido no século XVIII, ilustra a gulodice refinada da tradição de Bordeaux." }
+      ]
+    },
+    {
+      "term": "goûter",
+      "definitionPt": "provar, degustar",
+      "definitionFr": "Essayer la saveur de quelque chose.",
+      "inflections": ["je goûte", "nous goûtons"],
+      "ptTargets": ["provar", "degustar", "experimentar"],
+      "examples": [
+        { "level": "A1", "fr": "Je goûte le gâteau.", "pt": "Eu provo o bolo." },
+        { "level": "A2-B1", "fr": "Nous aimerions goûter un canelé.", "pt": "Gostaríamos de provar um canelé." },
+        { "level": "B1-B2", "fr": "Pour goûter les vins, il faudrait visiter un château du Médoc.", "pt": "Para provar os vinhos, seria preciso visitar um castelo do Médoc." },
+        { "level": "C1-C2", "fr": "Goûter un vin, c'est en apprécier la robe, le bouquet et la finale.", "pt": "Provar um vinho é apreciar-lhe a cor, o buquê e o final." }
+      ]
+    },
+    {
+      "term": "les quais",
+      "definitionPt": "os cais",
+      "definitionFr": "Rives aménagées d'un fleuve.",
+      "inflections": ["le quai", "les quais"],
+      "ptTargets": ["cais", "quais"],
+      "examples": [
+        { "level": "A1", "fr": "Les quais sont larges.", "pt": "Os cais são largos." },
+        { "level": "A2-B1", "fr": "La famille se promène sur les quais de la Garonne.", "pt": "A família passeia pelos cais do Garonne." },
+        { "level": "B1-B2", "fr": "Les quais, qui ont été réaménagés, invitent à la promenade.", "pt": "Os cais, que foram reformados, convidam ao passeio." },
+        { "level": "C1-C2", "fr": "Les quais de Bordeaux racontent trois siècles de commerce maritime et fluvial.", "pt": "Os cais de Bordeaux contam três séculos de comércio marítimo e fluvial." }
+      ]
+    },
+    {
+      "term": "la valise",
+      "definitionPt": "a mala",
+      "definitionFr": "Bagage pour voyager.",
+      "inflections": ["la valise", "les valises"],
+      "ptTargets": ["mala"],
+      "examples": [
+        { "level": "A1", "fr": "La valise est lourde.", "pt": "A mala é pesada." },
+        { "level": "A2-B1", "fr": "Irlan a posé les valises à la gare.", "pt": "Irlan pousou as malas na estação." },
+        { "level": "B1-B2", "fr": "Les valises, qu'il porte avec soin, contiennent tous les souvenirs du voyage.", "pt": "As malas, que ele carrega com cuidado, contêm todas as lembranças da viagem." },
+        { "level": "C1-C2", "fr": "Chaque valise ouverte est une page d'un carnet de voyage qui s'écrit.", "pt": "Cada mala aberta é uma página de um diário de viagem que se escreve." }
+      ]
+    },
+    {
+      "term": "murmurer",
+      "definitionPt": "murmurar",
+      "definitionFr": "Parler à voix basse.",
+      "inflections": ["je murmure", "nous murmurons"],
+      "ptTargets": ["murmurar", "sussurrar"],
+      "examples": [
+        { "level": "A1", "fr": "Elle murmure une phrase.", "pt": "Ela murmura uma frase." },
+        { "level": "A2-B1", "fr": "Iris a murmuré : « Je voudrais rester ici. »", "pt": "Íris murmurou: « Gostaria de ficar aqui. »" },
+        { "level": "B1-B2", "fr": "Elle murmure, comme si elle parlait aux reflets de l'eau.", "pt": "Ela murmura, como se falasse aos reflexos da água." },
+        { "level": "C1-C2", "fr": "Le murmure de la foule se mêlait au bruit léger des jets d'eau.", "pt": "O murmúrio da multidão misturava-se ao som leve dos jatos d'água." }
+      ]
+    },
+    {
+      "term": "le spectacle",
+      "definitionPt": "o espetáculo",
+      "definitionFr": "Ce que l'on regarde, représentation.",
+      "inflections": ["le spectacle", "les spectacles"],
+      "ptTargets": ["espetáculo"],
+      "examples": [
+        { "level": "A1", "fr": "Le spectacle est beau.", "pt": "O espetáculo é bonito." },
+        { "level": "A2-B1", "fr": "Le Miroir d'eau offre un spectacle la nuit.", "pt": "O Miroir d'eau oferece um espetáculo à noite." },
+        { "level": "B1-B2", "fr": "Le spectacle, qui attire des milliers de spectateurs, est gratuit.", "pt": "O espetáculo, que atrai milhares de espectadores, é gratuito." },
+        { "level": "C1-C2", "fr": "Le spectacle du miroir transforme le patrimoine en art vivant.", "pt": "O espetáculo do espelho transforma o patrimônio em arte viva." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Le Conditionnel Présent pour la politesse",
+    "explanationPt": "O Conditionnel Présent suaviza pedidos e desejos: 'je voudrais' (eu gostaria), 'nous aimerions' (nós gostaríamos), 'il faudrait' (seria preciso). Formação: infinitivo + -ais, -ais, -ait, -ions, -iez, -aient.",
+    "exampleFr": "Je voudrais goûter un canelé, s'il vous plaît.",
+    "examplePt": "Eu gostaria de provar um canelé, por favor.",
+    "practiceQuestion": "Complete: « Je ___ rester ici toute la nuit. »",
+    "options": ["voudrais", "veux", "voulais"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "La suggestion polie avec 'nous pourrions'",
+        "explanationPt": "Sugestões elegantes: 'nous pourrions revenir ce soir' (poderíamos voltar à noite), 'on pourrait admirer le coucher du soleil'.",
+        "exampleFr": "Nous pourrions revenir ce soir pour le spectacle.",
+        "examplePt": "Poderíamos voltar à noite para o espetáculo.",
+        "practiceQuestion": "Complete: « Nous ___ revenir ce soir. »",
+        "options": ["pourrions", "pouvons", "pourrons"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "Le conditionnel de 'être' et 'faire'",
+        "explanationPt": "Irregulares: être → je serais, faire → je ferais, aller → j'irais. 'Il faudrait d'abord admirer les façades.'",
+        "exampleFr": "Il faudrait d'abord admirer les façades dorées.",
+        "examplePt": "Seria preciso primeiro admirar as fachadas douradas.",
+        "practiceQuestion": "Qual é o conditionnel de 'aller'?",
+        "options": ["j'irais", "j'allais", "j'irai"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Onde a família chega de TGV?",
+      "options": ["na estação Saint-Jean", "na Gare du Nord", "em Lyon"],
+      "correctIndex": 0,
+      "explanation": "A família chega a Bordeaux pela gare Saint-Jean."
+    },
+    {
+      "question": "Quanto mede o Miroir d'eau?",
+      "options": ["3.450 metros quadrados", "100 metros quadrados", "10.000 metros quadrados"],
+      "correctIndex": 0,
+      "explanation": "O Miroir d'eau tem 3.450 m² e é o maior do mundo."
+    },
+    {
+      "question": "O que Andréa gostaria de provar?",
+      "options": ["um canelé", "um croissant", "uma baguete"],
+      "correctIndex": 0,
+      "explanation": "Andréa quer provar um canelé, a sobremesa típica de Bordeaux."
+    },
+    {
+      "question": "Complete: « Je ___ rester ici toute la nuit. »",
+      "options": ["voudrais", "veux", "voulais"],
+      "correctIndex": 0,
+      "explanation": "Conditionnel de politesse: je voudrais."
+    },
+    {
+      "question": "Que espetáculo a família vê à noite?",
+      "options": ["os jatos d'água do Miroir", "fogos de artifício", "um concerto"],
+      "correctIndex": 0,
+      "explanation": "À noite, os jets d'eau dançam na luz do Miroir d'eau."
+    }
+  ]
+}

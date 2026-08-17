@@ -1,0 +1,237 @@
+{
+  "id": "tours_lesson_16",
+  "cityId": "tours",
+  "domain": "Natureza & Paisagem",
+  "level": "Intermediário (B1)",
+  "titleFr": "Le jardin botanique : le poumon vert de Tours",
+  "titlePt": "O jardim botânico: o pulmão verde de Tours",
+  "subtitleFr": "Depuis 1843, les Tourangeaux se promènent parmi les arbres du monde",
+  "subtitlePt": "Desde 1843, os tourangeaux passeiam entre as árvores do mundo",
+  "summaryPt": "Nesta Aula 16 (B1), a família passeia pelo jardin botanique de Tours, criado em 1843: árvores exóticas, estufas, lagos e animais. O aluno pratica os pronomes relativos (l'arbre qui, le parc où), a expressão da duração (depuis, il y a) e o vocabulário da natureza.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "« Le jardin botanique existe depuis 1843 », a dit Irlan. « C'est le poumon vert de Tours. On y trouve des arbres du monde entier. » Iris a couru vers le grand portail.",
+      "pt": "« O jardim botânico existe desde 1843 », disse Irlan. « É o pulmão verde de Tours. Encontram-se árvores do mundo inteiro. » Íris correu para o grande portão."
+    },
+    {
+      "id": 2,
+      "fr": "Dans le jardin, il y a des serres pleines de plantes exotiques, un lac avec des canards et des paons qui se promènent librement. « Regarde le paon, maman ! » a crié Iris. « Il ouvre sa queue comme un éventail ! »",
+      "pt": "No jardim, há estufas cheias de plantas exóticas, um lago com patos e pavões que passeiam livres. « Olha o pavão, mamãe! » gritou Íris. « Ele abre a cauda como um leque! »"
+    },
+    {
+      "id": 3,
+      "fr": "Irlan, géographe, connaissait chaque arbre. « Ce séquoia vient d'Amérique, ce cèdre du Liban, ce ginkgo de Chine », a-t-il expliqué. « Le jardin est un atlas vivant. »",
+      "pt": "Irlan, geógrafo, conhecia cada árvore. « Esta sequoia vem da América, este cedro do Líbano, este ginkgo da China », explicou. « O jardim é um atlas vivo. »"
+    },
+    {
+      "id": 4,
+      "fr": "Sur un banc, Andréa a ouvert le pique-nique. « Quand j'étais livreur, je passais devant les parcs sans entrer », a dit Irlan. « J'avais toujours trop de commandes. Maintenant, je prends le temps. »",
+      "pt": "Num banco, Andréa abriu o piquenique. « Quando eu era entregador, eu passava pelos parques sem entrar », disse Irlan. « Sempre tinha pedidos demais. Agora, eu tenho tempo. »"
+    },
+    {
+      "id": 5,
+      "fr": "Avant de partir, Iris a caressé un chat du jardin. « Demain, nous verrons les caves de Vouvray », a annoncé Irlan. « Sous la terre, il y a aussi des trésors. »",
+      "pt": "Antes de partir, Íris acariciou um gato do jardim. « Amanhã, veremos as caves de Vouvray », anunciou Irlan. « Debaixo da terra, também há tesouros. »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "le jardin botanique",
+      "definitionPt": "o jardim botânico",
+      "definitionFr": "Jardin scientifique plein de plantes du monde.",
+      "inflections": ["le jardin botanique", "un jardin botanique", "des jardins botaniques"],
+      "ptTargets": ["jardim botânico"],
+      "examples": [
+        { "level": "A1", "fr": "Le jardin botanique est grand.", "pt": "O jardim botânico é grande." },
+        { "level": "A2-B1", "fr": "Le jardin botanique de Tours existe depuis 1843.", "pt": "O jardim botânico de Tours existe desde 1843." },
+        { "level": "B1", "fr": "Le jardin botanique que nous avons visité a des serres.", "pt": "O jardim botânico que visitamos tem estufas." },
+        { "level": "C1-C2", "fr": "Le jardin botanique, bibliothèque verte, raconte la géographie par les racines.", "pt": "O jardim botânico, biblioteca verde, conta a geografia pelas raízes." }
+      ]
+    },
+    {
+      "term": "la serre",
+      "definitionPt": "a estufa",
+      "definitionFr": "Bâtiment de verre pour les plantes fragiles.",
+      "inflections": ["la serre", "une serre", "des serres"],
+      "ptTargets": ["estufa"],
+      "examples": [
+        { "level": "A1", "fr": "La serre est en verre.", "pt": "A estufa é de vidro." },
+        { "level": "A2-B1", "fr": "Les serres protègent les plantes exotiques.", "pt": "As estufas protegem as plantas exóticas." },
+        { "level": "B1", "fr": "La serre où poussent les orchidées est chaude.", "pt": "A estufa onde crescem as orquídeas é quente." },
+        { "level": "C1-C2", "fr": "La serre, maison de verre, offre aux plantes un été éternel.", "pt": "A estufa, casa de vidro, oferece às plantas um verão eterno." }
+      ]
+    },
+    {
+      "term": "le paon",
+      "definitionPt": "o pavão",
+      "definitionFr": "Oiseau avec une grande queue colorée.",
+      "inflections": ["le paon", "un paon", "des paons"],
+      "ptTargets": ["pavão"],
+      "examples": [
+        { "level": "A1", "fr": "Le paon est beau.", "pt": "O pavão é bonito." },
+        { "level": "A2-B1", "fr": "Les paons se promènent dans le jardin.", "pt": "Os pavões passeiam no jardim." },
+        { "level": "B1", "fr": "Le paon dont on voit la queue est magnifique.", "pt": "O pavão cuja cauda se vê é magnífico." },
+        { "level": "C1-C2", "fr": "Le paon, artiste vaniteux, fait la roue pour séduire le printemps.", "pt": "O pavão, artista vaidoso, abre a roda para seduzir a primavera." }
+      ]
+    },
+    {
+      "term": "le lac",
+      "definitionPt": "o lago",
+      "definitionFr": "Grande étendue d'eau dans un parc.",
+      "inflections": ["le lac", "un lac", "des lacs"],
+      "ptTargets": ["lago"],
+      "examples": [
+        { "level": "A1", "fr": "Le lac est calme.", "pt": "O lago é calmo." },
+        { "level": "A2-B1", "fr": "Des canards nagent dans le lac.", "pt": "Patos nadam no lago." },
+        { "level": "B1", "fr": "Le lac où se promènent les canards est joli.", "pt": "O lago onde os patos passeiam é bonito." },
+        { "level": "C1-C2", "fr": "Le lac, miroir du parc, double la beauté des arbres.", "pt": "O lago, espelho do parque, duplica a beleza das árvores." }
+      ]
+    },
+    {
+      "term": "le canard",
+      "definitionPt": "o pato",
+      "definitionFr": "Oiseau d'eau au bec large.",
+      "inflections": ["le canard", "un canard", "des canards"],
+      "ptTargets": ["pato"],
+      "examples": [
+        { "level": "A1", "fr": "Le canard nage.", "pt": "O pato nada." },
+        { "level": "A2-B1", "fr": "Les canards du lac sont gourmands.", "pt": "Os patos do lago são gulosos." },
+        { "level": "B1", "fr": "Les canards que nous avons nourris étaient drôles.", "pt": "Os patos que alimentamos eram engraçados." },
+        { "level": "C1-C2", "fr": "Le canard, philosophe des eaux douces, glisse sans jamais se presser.", "pt": "O pato, filósofo das águas doces, desliza sem nunca se apressar." }
+      ]
+    },
+    {
+      "term": "exotique",
+      "definitionPt": "exótico",
+      "definitionFr": "Qui vient d'un pays lointain.",
+      "inflections": ["exotique", "exotiques"],
+      "ptTargets": ["exótico"],
+      "examples": [
+        { "level": "A1", "fr": "La plante est exotique.", "pt": "A planta é exótica." },
+        { "level": "A2-B1", "fr": "Les serres abritent des plantes exotiques.", "pt": "As estufas abrigam plantas exóticas." },
+        { "level": "B1", "fr": "Les fleurs exotiques qui poussent ici viennent de loin.", "pt": "As flores exóticas que crescem aqui vêm de longe." },
+        { "level": "C1-C2", "fr": "Exotique, la plante voyage sans bouger, transplantée par la curiosité humaine.", "pt": "Exótica, a planta viaja sem se mover, transplantada pela curiosidade humana." }
+      ]
+    },
+    {
+      "term": "le séquoia",
+      "definitionPt": "a sequoia",
+      "definitionFr": "Très grand arbre d'Amérique.",
+      "inflections": ["le séquoia", "un séquoia", "des séquoias"],
+      "ptTargets": ["sequoia"],
+      "examples": [
+        { "level": "A1", "fr": "Le séquoia est immense.", "pt": "A sequoia é imensa." },
+        { "level": "A2-B1", "fr": "Le séquoia vient d'Amérique.", "pt": "A sequoia vem da América." },
+        { "level": "B1", "fr": "Le séquoia qui domine le jardin a cent ans.", "pt": "A sequoia que domina o jardim tem cem anos." },
+        { "level": "C1-C2", "fr": "Le séquoia, géant patient, porte dans son tronc mille ans d'histoire.", "pt": "A sequoia, gigante paciente, carrega no tronco mil anos de história." }
+      ]
+    },
+    {
+      "term": "le cèdre",
+      "definitionPt": "o cedro",
+      "definitionFr": "Grand arbre au bois odorant.",
+      "inflections": ["le cèdre", "un cèdre", "des cèdres"],
+      "ptTargets": ["cedro"],
+      "examples": [
+        { "level": "A1", "fr": "Le cèdre est grand.", "pt": "O cedro é grande." },
+        { "level": "A2-B1", "fr": "Le cèdre du Liban est célèbre.", "pt": "O cedro do Líbano é famoso." },
+        { "level": "B1", "fr": "Le cèdre dont Irlan parle vient du Liban.", "pt": "O cedro de que Irlan fala vem do Líbano." },
+        { "level": "C1-C2", "fr": "Le cèdre, patriarche odorant, parfume les rêves des promeneurs.", "pt": "O cedro, patriarca odorante, perfuma os sonhos dos passeantes." }
+      ]
+    },
+    {
+      "term": "l'atlas",
+      "definitionPt": "o atlas",
+      "definitionFr": "Livre de cartes géographiques.",
+      "inflections": ["l'atlas", "un atlas", "des atlas"],
+      "ptTargets": ["atlas"],
+      "examples": [
+        { "level": "A1", "fr": "L'atlas est sur la table.", "pt": "O atlas está na mesa." },
+        { "level": "A2-B1", "fr": "Irlan, géographe, adore les atlas.", "pt": "Irlan, geógrafo, adora atlas." },
+        { "level": "B1", "fr": "L'atlas que nous avons consulté montre la Touraine.", "pt": "O atlas que consultamos mostra a Touraine." },
+        { "level": "C1-C2", "fr": "L'atlas, sommeil de papier, contient tous les rêves de voyage.", "pt": "O atlas, sono de papel, contém todos os sonhos de viagem." }
+      ]
+    },
+    {
+      "term": "la plante",
+      "definitionPt": "a planta",
+      "definitionFr": "Être vivant qui pousse dans la terre.",
+      "inflections": ["la plante", "une plante", "des plantes"],
+      "ptTargets": ["planta"],
+      "examples": [
+        { "level": "A1", "fr": "La plante est verte.", "pt": "A planta é verde." },
+        { "level": "A2-B1", "fr": "Le jardin est plein de plantes rares.", "pt": "O jardim está cheio de plantas raras." },
+        { "level": "B1", "fr": "Les plantes qui vivent en serre sont fragiles.", "pt": "As plantas que vivem em estufa são frágeis." },
+        { "level": "C1-C2", "fr": "La plante, voyageuse immobile, s'adapte aux terres étrangères.", "pt": "A planta, viajante imóvel, adapta-se às terras estrangeiras." }
+      ]
+    },
+    {
+      "term": "se promener",
+      "definitionPt": "passear",
+      "definitionFr": "Marcher pour le plaisir.",
+      "inflections": ["je me promène", "tu te promènes", "il se promène", "nous nous promenons"],
+      "ptTargets": ["passear"],
+      "examples": [
+        { "level": "A1", "fr": "Je me promène dans le parc.", "pt": "Eu passeio no parque." },
+        { "level": "A2-B1", "fr": "La famille s'est promenée dans le jardin.", "pt": "A família passeou no jardim." },
+        { "level": "B1", "fr": "Nous nous promènerons après le déjeuner.", "pt": "Passearemos depois do almoço." },
+        { "level": "C1-C2", "fr": "Se promener, c'est lire le monde à la vitesse de ses pas.", "pt": "Passear é ler o mundo na velocidade dos próprios passos." }
+      ]
+    },
+    {
+      "term": "le portail",
+      "definitionPt": "o portão",
+      "definitionFr": "Grande porte d'entrée.",
+      "inflections": ["le portail", "un portail", "des portails"],
+      "ptTargets": ["portão"],
+      "examples": [
+        { "level": "A1", "fr": "Le portail est vert.", "pt": "O portão é verde." },
+        { "level": "A2-B1", "fr": "Iris a couru vers le portail.", "pt": "Íris correu para o portão." },
+        { "level": "B1", "fr": "Le portail qui ouvre le jardin est ancien.", "pt": "O portão que abre o jardim é antigo." },
+        { "level": "C1-C2", "fr": "Le portail, frontière fleurie, sépare la ville du royaume vert.", "pt": "O portão, fronteira florida, separa a cidade do reino verde." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "titleFr": "La durée : depuis, il y a, pendant",
+    "titlePt": "A duração: depuis, il y a, pendant",
+    "points": [
+      {
+        "fr": "« depuis » + un point de départ (continue) : « Le jardin existe depuis 1843. » « il y a » + durée écoulée : « Le jardin a été créé il y a 180 ans. » « pendant » + durée limitée : « Nous nous sommes promenés pendant deux heures. »",
+        "pt": "« depuis » + ponto de partida (continua): « Le jardin existe depuis 1843. » (O jardim existe desde 1843.) « il y a » + tempo decorrido: « Le jardin a été créé il y a 180 ans. » (O jardim foi criado há 180 anos.) « pendant » + duração limitada: « Caminhamos durante duas horas. »"
+      },
+      {
+        "fr": "Les pronoms relatifs avec les arbres : « le séquoia qui domine, le cèdre dont Irlan parle, le jardin où nous marchons ».",
+        "pt": "Os pronomes relativos com as árvores: « le séquoia qui domine » (a sequoia que domina), « le cèdre dont Irlan parle » (o cedro de que Irlan fala), « le jardin où nous marchons » (o jardim onde caminhamos)."
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Depuis quand le jardin botanique existe-t-il ?",
+      "options": ["1843", "1900", "2013", "1700"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Quel oiseau se promène librement dans le jardin ?",
+      "options": ["Le paon", "Le pingouin", "L'autruche", "Le perroquet"],
+      "correctIndex": 0
+    },
+    {
+      "question": "D'où vient le séquoia ?",
+      "options": ["D'Amérique", "De Chine", "Du Brésil", "De Russie"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Qu'est-ce qu'Irlan faisait avant, selon lui ?",
+      "options": ["Il passait devant les parcs sans entrer", "Il jardinait tous les jours", "Il était botaniste", "Il dormait dans les serres"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Où la famille ira-t-elle demain ?",
+      "options": ["Aux caves de Vouvray", "Au château de Chambord", "À la gare", "Au jardin botanique"],
+      "correctIndex": 0
+    }
+  ]
+}

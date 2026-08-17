@@ -1,0 +1,252 @@
+{
+  "id": "lille_lesson_22",
+  "cityId": "lille",
+  "domain": "Cotidiano",
+  "level": "Básico (A2)",
+  "titleFr": "La routine de la famille à Lille",
+  "titlePt": "A rotina da família em Lille",
+  "subtitleFr": "Se lever, déjeuner, se coucher : les jours du Nord",
+  "subtitlePt": "Levantar, almoçar, dormir: os dias do Norte",
+  "summaryPt": "Nesta Aula 22 (A2), acompanhamos um dia comum da família em Lille: Irlan acorda cedo, leva Íris à escola, Andréa trabalha e à noite jantam juntos. O aluno pratica os verbos pronominais no presente (je me lève, nous nous couchons) e as horas e rotinas do dia a dia.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Chaque matin, Irlan se lève à six heures et demie. Il prépare le café, puis il se douche. « Je me lève tôt, comme quand j'étais livreur », dit-il en riant.",
+      "pt": "Todas as manhãs, Irlan se levanta às seis e meia. Ele prepara o café, depois toma banho. « Me levanto cedo, como quando era entregador », diz ele rindo."
+    },
+    {
+      "id": 2,
+      "fr": "À sept heures et quart, il réveille Íris. Elle se lave le visage, s'habille et prend son petit-déjeuner. « Dépêche-toi, ma chérie, l'école commence à huit heures ! »",
+      "pt": "Às sete e quinze, ele acorda Íris. Ela lava o rosto, se veste e toma o café da manhã. « Anda logo, minha querida, a escola começa às oito! »"
+    },
+    {
+      "id": 3,
+      "fr": "Andréa travaille à la bibliothèque de la ville. « Je me couche souvent tard », dit-elle. « Mais le week-end, nous nous promenons tous ensemble dans la Citadelle. »",
+      "pt": "Andréa trabalha na biblioteca da cidade. « Costumo me deitar tarde », diz ela. « Mas no fim de semana, passeamos todos juntos na Citadelle. »"
+    },
+    {
+      "id": 4,
+      "fr": "Le soir, la famille se retrouve autour de la table. « La routine du Nord est simple, mais elle est pleine de douceur », conclut Irlan. « On s'aime, c'est l'essentiel. »",
+      "pt": "À noite, a família se reúne à mesa. « A rotina do Norte é simples, mas é cheia de doçura », conclui Irlan. « Nós nos amamos, isso é o essencial. »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "se lever",
+      "definitionPt": "levantar-se",
+      "definitionFr": "Se mettre debout ; sortir du lit.",
+      "inflections": ["je me lève", "nous nous levons", "levé"],
+      "ptTargets": ["levantar-se", "acordar"],
+      "examples": [
+        { "level": "A1", "fr": "Je me lève à sept heures.", "pt": "Levanto-me às sete horas." },
+        { "level": "A2-B1", "fr": "Irlan se lève à six heures et demie.", "pt": "Irlan se levanta às seis e meia." },
+        { "level": "B2", "fr": "Elle s'est levée tôt pour préparer le petit-déjeuner.", "pt": "Ela se levantou cedo para preparar o café da manhã." },
+        { "level": "C1-C2", "fr": "Se lever avant le soleil, c'est le secret des gens du Nord.", "pt": "Levantar-se antes do sol é o segredo do povo do Norte." }
+      ]
+    },
+    {
+      "term": "se doucher",
+      "definitionPt": "tomar banho (de chuveiro)",
+      "definitionFr": "Prendre une douche.",
+      "inflections": ["je me douche", "nous nous douchons", "douché"],
+      "ptTargets": ["tomar banho"],
+      "examples": [
+        { "level": "A1", "fr": "Je me douche le matin.", "pt": "Tomo banho de manhã." },
+        { "level": "A2-B1", "fr": "Irlan se douche après le café.", "pt": "Irlan toma banho depois do café." },
+        { "level": "B2", "fr": "Elle s'est douchée avant de sortir.", "pt": "Ela tomou banho antes de sair." },
+        { "level": "C1-C2", "fr": "Se doucher à l'eau froide, dit-on, réveille l'esprit du Nord.", "pt": "Tomar banho de água fria, dizem, desperta o espírito do Norte." }
+      ]
+    },
+    {
+      "term": "s'habiller",
+      "definitionPt": "vestir-se",
+      "definitionFr": "Mettre ses vêtements.",
+      "inflections": ["je m'habille", "nous nous habillons", "habillé"],
+      "ptTargets": ["vestir-se"],
+      "examples": [
+        { "level": "A1", "fr": "Je m'habille vite.", "pt": "Visto-me rápido." },
+        { "level": "A2-B1", "fr": "Íris s'habille toute seule.", "pt": "Íris se veste sozinha." },
+        { "level": "B2", "fr": "Elle s'est habillée chaudement pour l'hiver.", "pt": "Ela se vestiu bem agasalhada para o inverno." },
+        { "level": "C1-C2", "fr": "S'habiller le matin, c'est choisir le personnage du jour.", "pt": "Vestir-se de manhã é escolher o personagem do dia." }
+      ]
+    },
+    {
+      "term": "se laver",
+      "definitionPt": "lavar-se",
+      "definitionFr": "Nettoyer son corps.",
+      "inflections": ["je me lave", "nous nous lavons", "lavé"],
+      "ptTargets": ["lavar-se"],
+      "examples": [
+        { "level": "A1", "fr": "Je me lave les mains.", "pt": "Lavo as mãos." },
+        { "level": "A2-B1", "fr": "Íris se lave le visage chaque matin.", "pt": "Íris lava o rosto todas as manhãs." },
+        { "level": "B2", "fr": "Elle s'est lavé les cheveux avant l'école.", "pt": "Ela lavou o cabelo antes da escola." },
+        { "level": "C1-C2", "fr": "Se laver au son de l'eau, c'est le rituel de chaque matin du Nord.", "pt": "Lavar-se ao som da água é o ritual de cada manhã do Norte." }
+      ]
+    },
+    {
+      "term": "se coucher",
+      "definitionPt": "deitar-se, ir dormir",
+      "definitionFr": "Se mettre au lit.",
+      "inflections": ["je me couche", "nous nous couchons", "couché"],
+      "ptTargets": ["deitar-se", "ir dormir"],
+      "examples": [
+        { "level": "A1", "fr": "Je me couche à dix heures.", "pt": "Deito-me às dez horas." },
+        { "level": "A2-B1", "fr": "Andréa se couche souvent tard.", "pt": "Andréa costuma se deitar tarde." },
+        { "level": "B2", "fr": "Les enfants se sont couchés après l'histoire.", "pt": "As crianças se deitaram depois da história." },
+        { "level": "C1-C2", "fr": "Se coucher avec un livre, c'est la plus douce des fins de journée.", "pt": "Deitar-se com um livro é o fim de dia mais doce." }
+      ]
+    },
+    {
+      "term": "le petit-déjeuner",
+      "definitionPt": "o café da manhã",
+      "definitionFr": "Premier repas de la journée.",
+      "inflections": ["le petit-déjeuner", "un petit-déjeuner", "des petits-déjeuners"],
+      "ptTargets": ["café da manhã", "pequeno-almoço"],
+      "examples": [
+        { "level": "A1", "fr": "Le petit-déjeuner est à huit heures.", "pt": "O café da manhã é às oito horas." },
+        { "level": "A2-B1", "fr": "Íris prend son petit-déjeuner avant l'école.", "pt": "Íris toma o café da manhã antes da escola." },
+        { "level": "B2", "fr": "Le petit-déjeuner français est simple : café, pain et beurre.", "pt": "O café da manhã francês é simples: café, pão e manteiga." },
+        { "level": "C1-C2", "fr": "Le petit-déjeuner en famille est le seul rendez-vous du matin qui ne se rate pas.", "pt": "O café da manhã em família é o único encontro da manhã que não se perde." }
+      ]
+    },
+    {
+      "term": "l'école",
+      "definitionPt": "a escola",
+      "definitionFr": "Établissement où l'on enseigne.",
+      "inflections": ["l'école", "une école", "des écoles"],
+      "ptTargets": ["escola"],
+      "examples": [
+        { "level": "A1", "fr": "L'école commence à huit heures.", "pt": "A escola começa às oito." },
+        { "level": "A2-B1", "fr": "Irlan accompagne Íris à l'école.", "pt": "Irlan acompanha Íris à escola." },
+        { "level": "B2", "fr": "L'école de quartier est à dix minutes de la maison.", "pt": "A escola do bairro fica a dez minutos de casa." },
+        { "level": "C1-C2", "fr": "L'école est le premier monde que les enfants explorent seuls.", "pt": "A escola é o primeiro mundo que as crianças exploram sozinhas." }
+      ]
+    },
+    {
+      "term": "la bibliothèque",
+      "definitionPt": "a biblioteca",
+      "definitionFr": "Lieu où l'on conserve des livres.",
+      "inflections": ["la bibliothèque", "une bibliothèque", "des bibliothèques"],
+      "ptTargets": ["biblioteca"],
+      "examples": [
+        { "level": "A1", "fr": "La bibliothèque est grande.", "pt": "A biblioteca é grande." },
+        { "level": "A2-B1", "fr": "Andréa travaille à la bibliothèque de la ville.", "pt": "Andréa trabalha na biblioteca da cidade." },
+        { "level": "B2", "fr": "La bibliothèque de Lille est un joyau d'architecture.", "pt": "A biblioteca de Lille é uma joia de arquitetura." },
+        { "level": "C1-C2", "fr": "Dans une bibliothèque, chaque livre est une porte vers un autre monde.", "pt": "Numa biblioteca, cada livro é uma porta para outro mundo." }
+      ]
+    },
+    {
+      "term": "ensemble",
+      "definitionPt": "juntos",
+      "definitionFr": "Les uns avec les autres.",
+      "inflections": ["ensemble", "tous ensemble", "ensemble, c'est tout"],
+      "ptTargets": ["juntos", "em conjunto"],
+      "examples": [
+        { "level": "A1", "fr": "Nous mangeons ensemble.", "pt": "Comemos juntos." },
+        { "level": "A2-B1", "fr": "Le week-end, nous nous promenons ensemble.", "pt": "No fim de semana, passeamos juntos." },
+        { "level": "B2", "fr": "Ils ont préparé le repas ensemble, en riant.", "pt": "Eles prepararam a refeição juntos, rindo." },
+        { "level": "C1-C2", "fr": "Vivre ensemble, c'est apprendre à se connaître chaque jour un peu plus.", "pt": "Viver juntos é aprender a se conhecer cada dia um pouco mais." }
+      ]
+    },
+    {
+      "term": "la douceur",
+      "definitionPt": "a doçura, a suavidade",
+      "definitionFr": "Caractère doux, agréable.",
+      "inflections": ["la douceur", "une douceur", "des douceurs"],
+      "ptTargets": ["doçura", "suavidade"],
+      "examples": [
+        { "level": "A1", "fr": "La douceur du miel.", "pt": "A doçura do mel." },
+        { "level": "A2-B1", "fr": "La routine est pleine de douceur.", "pt": "A rotina é cheia de doçura." },
+        { "level": "B2", "fr": "La douceur de vivre au Nord est un secret bien gardé.", "pt": "A doçura de viver no Norte é um segredo bem guardado." },
+        { "level": "C1-C2", "fr": "Dans la grisaille du Nord, les cœurs gardent une douceur inattendue.", "pt": "Na cinzenta paisagem do Norte, os corações guardam uma doçura inesperada." }
+      ]
+    },
+    {
+      "term": "le réveil",
+      "definitionPt": "o despertar, o despertador",
+      "definitionFr": "Action de se réveiller ; appareil qui sonne.",
+      "inflections": ["le réveil", "un réveil", "des réveils"],
+      "ptTargets": ["despertar", "despertador"],
+      "examples": [
+        { "level": "A1", "fr": "Le réveil sonne à six heures.", "pt": "O despertador toca às seis." },
+        { "level": "A2-B1", "fr": "Le réveil d'Irlan sonne très tôt.", "pt": "O despertador de Irlan toca muito cedo." },
+        { "level": "B2", "fr": "Le réveil du Nord est gris, mais l'accueil est chaud.", "pt": "O despertar do Norte é cinzento, mas o acolhimento é quente." },
+        { "level": "C1-C2", "fr": "Chaque réveil est une promesse de recommencer.", "pt": "Cada despertar é uma promessa de recomeçar." }
+      ]
+    },
+    {
+      "term": "déjeuner",
+      "definitionPt": "almoçar",
+      "definitionFr": "Prendre le repas de midi.",
+      "inflections": ["je déjeune", "nous déjeunons", "déjeuné"],
+      "ptTargets": ["almoçar"],
+      "examples": [
+        { "level": "A1", "fr": "Je déjeune à midi.", "pt": "Almoço ao meio-dia." },
+        { "level": "A2-B1", "fr": "Andréa déjeune à la bibliothèque.", "pt": "Andréa almoça na biblioteca." },
+        { "level": "B2", "fr": "Nous avons déjeuné dans un petit estaminet.", "pt": "Almoçamos num pequeno estaminet." },
+        { "level": "C1-C2", "fr": "Déjeuner en famille le dimanche est une tradition française sacrée.", "pt": "Almoçar em família aos domingos é uma tradição francesa sagrada." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Les verbes pronominaux au présent (je me lève, nous nous couchons)",
+    "explanationPt": "Os verbos pronominais têm pronome + verbo: 'je me lève' (levanto-me), 'tu te lèves', 'il/elle se lève', 'nous nous levons', 'vous vous levez', 'ils se lèvent'. O pronome muda com a pessoa.",
+    "exampleFr": "Je me lève, tu te lèves, nous nous levons à des heures différentes.",
+    "examplePt": "Eu me levanto, você se levanta, nós nos levantamos em horários diferentes.",
+    "practiceQuestion": "Complete: « Nous nous ___ à six heures. »",
+    "options": ["levons", "lève", "lèvent"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "Se laver, s'habiller : la routine du matin",
+        "explanationPt": "A rotina matinal usa pronominais: 'se laver' (lavar-se), 's'habiller' (vestir-se), 'se doucher' (tomar banho), 'se lever' (levantar-se). Ex.: 'je me lave le visage' (lavo o rosto), 'elle s'habille' (ela se veste).",
+        "exampleFr": "Íris se lave le visage, s'habille et se dépêche.",
+        "examplePt": "Íris lava o rosto, se veste e se apressa.",
+        "practiceQuestion": "Complete: « Elle ___ habille. »",
+        "options": ["s'", "se", "me"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "Les heures : quart, demie, moins le quart",
+        "explanationPt": "Horas: 'six heures et demie' (6h30), 'sept heures et quart' (7h15), 'huit heures moins le quart' (7h45), 'midi' (meio-dia), 'minuit' (meia-noite).",
+        "exampleFr": "Irlan se lève à six heures et demie et Íris se réveille à sept heures et quart.",
+        "examplePt": "Irlan se levanta às seis e meia e Íris acorda às sete e quinze.",
+        "practiceQuestion": "Como se diz 7h15?",
+        "options": ["sept heures et quart", "sept heures et demie", "sept heures moins le quart"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "A que horas Irlan se levanta?",
+      "options": ["Às 6h30", "Às 8h", "Ao meio-dia"],
+      "correctIndex": 0,
+      "explanation": "Irlan se lève à six heures et demie (6h30), como nos tempos de livreur."
+    },
+    {
+      "question": "Complete: « Nous nous ___ à six heures. »",
+      "options": ["levons", "lève", "lèvent"],
+      "correctIndex": 0,
+      "explanation": "Com 'nous', usa-se 'nous nous levons'."
+    },
+    {
+      "question": "Onde trabalha Andréa?",
+      "options": ["Na bibliothèque da cidade", "Num estaminet", "Na escola"],
+      "correctIndex": 0,
+      "explanation": "Andréa trabalha na biblioteca da cidade de Lille."
+    },
+    {
+      "question": "O que Íris faz antes da escola?",
+      "options": ["Lava o rosto, se veste e toma café da manhã", "Vai de metrô sozinha", "Dorme até o meio-dia"],
+      "correctIndex": 0,
+      "explanation": "Íris se lave le visage, s'habille et prend son petit-déjeuner antes das 8h."
+    },
+    {
+      "question": "O que a família faz no fim de semana?",
+      "options": ["Passeia junta na Citadelle", "Vai a Paris", "Fica em casa sem sair"],
+      "correctIndex": 0,
+      "explanation": "No fim de semana, a família se promène ensemble (passeia junta) na Citadelle."
+    }
+  ]
+}

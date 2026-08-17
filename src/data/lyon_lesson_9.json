@@ -1,0 +1,252 @@
+{
+  "id": "lyon_lesson_9",
+  "cityId": "lyon",
+  "domain": "Natureza",
+  "level": "Intermediário (B2+)",
+  "titleFr": "La Fête des Lumières et le parc de la Tête d'Or",
+  "titlePt": "A Festa das Luzes e o parque da Tête d'Or",
+  "subtitleFr": "La légende du 8 décembre et la promenade dans le poumon vert de Lyon",
+  "subtitlePt": "A lenda de 8 de dezembro e o passeio no pulmão verde de Lyon",
+  "summaryPt": "Nesta Aula 9 (B2+), a família descobre a lenda da Fête des Lumières e passeia pelo parc de la Tête d'Or, o maior parque urbano da França. Revisão geral do B2+: subjonctif, clivadas e discurso indireto.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Dans le parc de la Tête d'Or, Iris a regardé les cygnes : « C'est ici que l'on vient se reposer à Lyon, j'imagine. » Irlan a souri : « C'est le plus grand parc urbain de France. Ce que j'aime, c'est qu'on oublie la ville en quelques pas. »",
+      "pt": "No parque da Tête d'Or, Íris olhou os cisnes: « É aqui que se vem descansar em Lyon, imagino. » Irlan sorriu: « É o maior parque urbano da França. O que eu gosto é que se esquece a cidade em poucos passos. »"
+    },
+    {
+      "id": 2,
+      "fr": "Au bord du lac, Andréa a raconté la légende : « En 1852, la ville voulait illuminer Fourvière. Bien que la pluie ait tout annulé, les Lyonnais ont allumé des lumières à leurs fenêtres. C'est ainsi que la Fête des Lumières est née. »",
+      "pt": "À beira do lago, Andréa contou a lenda: « Em 1852, a cidade queria iluminar Fourvière. Embora a chuva tenha cancelado tudo, os lionenses acenderam luzes em suas janelas. Foi assim que nasceu a Festa das Luzes. »"
+    },
+    {
+      "id": 3,
+      "fr": "Iris a demandé : « Et maintenant, c'est quand ? » Irlan a répondu : « Chaque 8 décembre, depuis plus de 170 ans. Le guide nous a dit que des millions de visiteurs venaient du monde entier. Il a ajouté qu'il faudrait revenir un hiver. »",
+      "pt": "Íris perguntou: « E agora, é quando? » Irlan respondeu: « Todo 8 de dezembro, há mais de 170 anos. O guia nos disse que milhões de visitantes vinham do mundo inteiro. Ele acrescentou que seria preciso voltar num inverno. »"
+    },
+    {
+      "id": 4,
+      "fr": "Sous les arbres centenaires, la famille a partagé un pique-nique. « Ce que je retiens de Lyon, a dit Irlan, c'est une ville qui sait se souvenir : de la soie, des canuts, de la Résistance, de la lumière. » Iris a conclu : « Et moi, je me souviendrai qu'il faut que nous revenions pour la Fête des Lumières. »",
+      "pt": "Sob as árvores centenárias, a família dividiu um piquenique. « O que eu guardo de Lyon, disse Irlan, é uma cidade que sabe lembrar: da seda, dos canuts, da Resistência, da luz. » Íris concluiu: « E eu, lembrarei que precisamos voltar para a Festa das Luzes. »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "le cygne",
+      "definitionPt": "o cisne",
+      "definitionFr": "Grand oiseau blanc au long cou.",
+      "inflections": ["le cygne", "les cygnes"],
+      "ptTargets": ["cisne"],
+      "examples": [
+        { "level": "A1", "fr": "Le cygne est blanc.", "pt": "O cisne é branco." },
+        { "level": "A2-B1", "fr": "Les cygnes vivent sur le lac.", "pt": "Os cisnes vivem no lago." },
+        { "level": "B1-B2", "fr": "Les cygnes, qui glissent sur l'eau, enchantent les promeneurs.", "pt": "Os cisnes, que deslizam na água, encantam os caminhantes." },
+        { "level": "C1-C2", "fr": "C'est autour du lac aux cygnes que se concentre la douceur du parc.", "pt": "É em torno do lago dos cisnes que se concentra a suavidade do parque." }
+      ]
+    },
+    {
+      "term": "le lac",
+      "definitionPt": "o lago",
+      "definitionFr": "Grande étendue d'eau.",
+      "inflections": ["le lac", "les lacs"],
+      "ptTargets": ["lago"],
+      "examples": [
+        { "level": "A1", "fr": "Le lac est calme.", "pt": "O lago é calmo." },
+        { "level": "A2-B1", "fr": "Le lac du parc est grand.", "pt": "O lago do parque é grande." },
+        { "level": "B1-B2", "fr": "Le lac, bordé d'arbres, invite à la promenade en barque.", "pt": "O lago, cercado de árvores, convida ao passeio de barco." },
+        { "level": "C1-C2", "fr": "C'est autour du lac que se dessine le paysage le plus romantique du parc.", "pt": "É em torno do lago que se desenha a paisagem mais romântica do parque." }
+      ]
+    },
+    {
+      "term": "le pique-nique",
+      "definitionPt": "o piquenique",
+      "definitionFr": "Repas pris en plein air.",
+      "inflections": ["le pique-nique", "les pique-niques"],
+      "ptTargets": ["piquenique"],
+      "examples": [
+        { "level": "A1", "fr": "Le pique-nique est bon.", "pt": "O piquenique é bom." },
+        { "level": "A2-B1", "fr": "La famille a fait un pique-nique au parc.", "pt": "A família fez um piquenique no parque." },
+        { "level": "B1-B2", "fr": "Le pique-nique, partagé sous les arbres, est un moment de bonheur simple.", "pt": "O piquenique, dividido sob as árvores, é um momento de felicidade simples." },
+        { "level": "C1-C2", "fr": "C'est autour d'un pique-nique que se nouent les plus beaux souvenirs de voyage.", "pt": "É em torno de um piquenique que se criam as mais belas lembranças de viagem." }
+      ]
+    },
+    {
+      "term": "l'arbre",
+      "definitionPt": "a árvore",
+      "definitionFr": "Grand végétal à tronc.",
+      "inflections": ["l'arbre", "les arbres"],
+      "ptTargets": ["árvore"],
+      "examples": [
+        { "level": "A1", "fr": "L'arbre est grand.", "pt": "A árvore é grande." },
+        { "level": "A2-B1", "fr": "Les arbres du parc sont centenaires.", "pt": "As árvores do parque são centenárias." },
+        { "level": "B1-B2", "fr": "Les arbres, qui couvrent le parc, offrent une ombre généreuse.", "pt": "As árvores, que cobrem o parque, oferecem sombra generosa." },
+        { "level": "C1-C2", "fr": "C'est sous les arbres centenaires que se respire l'histoire de la ville.", "pt": "É sob as árvores centenárias que se respira a história da cidade." }
+      ]
+    },
+    {
+      "term": "la légende",
+      "definitionPt": "a lenda",
+      "definitionFr": "Histoire traditionnelle, souvent merveilleuse.",
+      "inflections": ["la légende", "les légendes"],
+      "ptTargets": ["lenda"],
+      "examples": [
+        { "level": "A1", "fr": "La légende est belle.", "pt": "A lenda é bonita." },
+        { "level": "A2-B1", "fr": "La Fête des Lumières a sa légende.", "pt": "A Festa das Luzes tem sua lenda." },
+        { "level": "B1-B2", "fr": "La légende, racontée de génération en génération, explique la fête.", "pt": "A lenda, contada de geração em geração, explica a festa." },
+        { "level": "C1-C2", "fr": "C'est la légende du 8 décembre qui donne à la fête sa dimension spirituelle.", "pt": "É a lenda de 8 de dezembro que dá à festa sua dimensão espiritual." }
+      ]
+    },
+    {
+      "term": "illuminer",
+      "definitionPt": "iluminar",
+      "definitionFr": "Éclairer fortement.",
+      "inflections": ["j'illumine", "nous illuminons"],
+      "ptTargets": ["iluminar", "iluminada"],
+      "examples": [
+        { "level": "A1", "fr": "La ville est illuminée.", "pt": "A cidade é iluminada." },
+        { "level": "A2-B1", "fr": "Les Lyonnais illuminent leurs fenêtres.", "pt": "Os lionenses iluminam suas janelas." },
+        { "level": "B1-B2", "fr": "Les monuments, illuminés de mille couleurs, transforment la ville en spectacle.", "pt": "Os monumentos, iluminados com mil cores, transformam a cidade em espetáculo." },
+        { "level": "C1-C2", "fr": "C'est en illuminant la nuit que Lyon célèbre sa mémoire et son espoir.", "pt": "É iluminando a noite que Lyon celebra sua memória e sua esperança." }
+      ]
+    },
+    {
+      "term": "le visiteur",
+      "definitionPt": "o visitante",
+      "definitionFr": "Personne qui visite un lieu.",
+      "inflections": ["le visiteur", "les visiteurs"],
+      "ptTargets": ["visitante"],
+      "examples": [
+        { "level": "A1", "fr": "Le visiteur est content.", "pt": "O visitante está contente." },
+        { "level": "A2-B1", "fr": "Des millions de visiteurs viennent à Lyon.", "pt": "Milhões de visitantes vêm a Lyon." },
+        { "level": "B1-B2", "fr": "Les visiteurs, venus du monde entier, admirent les illuminations.", "pt": "Os visitantes, vindos do mundo inteiro, admiram as iluminações." },
+        { "level": "C1-C2", "fr": "C'est pour ses visiteurs que Lyon déploie chaque hiver son art de la lumière.", "pt": "É para seus visitantes que Lyon desdobra a cada inverno sua arte da luz." }
+      ]
+    },
+    {
+      "term": "se reposer",
+      "definitionPt": "descansar",
+      "definitionFr": "Se détendre, reprendre des forces.",
+      "inflections": ["je me repose", "nous nous reposons"],
+      "ptTargets": ["descansar", "descanso"],
+      "examples": [
+        { "level": "A1", "fr": "Je me repose.", "pt": "Eu descanso." },
+        { "level": "A2-B1", "fr": "La famille se repose au parc.", "pt": "A família descansa no parque." },
+        { "level": "B1-B2", "fr": "Se reposer au bord du lac, c'est oublier le bruit de la ville.", "pt": "Descansar à beira do lago é esquecer o barulho da cidade." },
+        { "level": "C1-C2", "fr": "C'est en se reposant que l'on goûte le mieux la beauté d'un lieu.", "pt": "É descansando que melhor se saboreia a beleza de um lugar." }
+      ]
+    },
+    {
+      "term": "oublier",
+      "definitionPt": "esquecer",
+      "definitionFr": "Ne plus se souvenir.",
+      "inflections": ["j'oublie", "nous oublions"],
+      "ptTargets": ["esquecer", "esquece"],
+      "examples": [
+        { "level": "A1", "fr": "J'oublie mon prénom.", "pt": "Eu esqueço meu nome." },
+        { "level": "A2-B1", "fr": "On oublie la ville en quelques pas.", "pt": "Esquece-se a cidade em poucos passos." },
+        { "level": "B1-B2", "fr": "Oublier le temps, qui passe si vite au parc, est un luxe.", "pt": "Esquecer o tempo, que passa tão rápido no parque, é um luxo." },
+        { "level": "C1-C2", "fr": "C'est en oubliant l'heure que l'on mesure la vraie valeur d'une promenade.", "pt": "É esquecendo a hora que se mede o verdadeiro valor de um passeio." }
+      ]
+    },
+    {
+      "term": "centenaire",
+      "definitionPt": "centenário",
+      "definitionFr": "Qui a cent ans ou plus.",
+      "inflections": ["centenaire", "centenaires"],
+      "ptTargets": ["centenário", "centenária"],
+      "examples": [
+        { "level": "A1", "fr": "L'arbre est centenaire.", "pt": "A árvore é centenária." },
+        { "level": "A2-B1", "fr": "Le parc a des arbres centenaires.", "pt": "O parque tem árvores centenárias." },
+        { "level": "B1-B2", "fr": "Les arbres centenaires, qui ont vu passer des générations, gardent la mémoire du parc.", "pt": "As árvores centenárias, que viram gerações passarem, guardam a memória do parque." },
+        { "level": "C1-C2", "fr": "C'est sous les arbres centenaires que l'on mesure le temps long de la nature.", "pt": "É sob as árvores centenárias que se mede o tempo longo da natureza." }
+      ]
+    },
+    {
+      "term": "la promenade",
+      "definitionPt": "o passeio",
+      "definitionFr": "Marche faite pour le plaisir.",
+      "inflections": ["la promenade", "les promenades"],
+      "ptTargets": ["passeio", "caminhada"],
+      "examples": [
+        { "level": "A1", "fr": "La promenade est agréable.", "pt": "O passeio é agradável." },
+        { "level": "A2-B1", "fr": "La famille a fait une promenade au parc.", "pt": "A família fez um passeio no parque." },
+        { "level": "B1-B2", "fr": "La promenade, qui longe le lac, est la plus belle du parc.", "pt": "O passeio, que contorna o lago, é o mais bonito do parque." },
+        { "level": "C1-C2", "fr": "C'est la promenade qui révèle l'âme d'une ville et de ses habitants.", "pt": "É o passeio que revela a alma de uma cidade e de seus habitantes." }
+      ]
+    },
+    {
+      "term": "la fenêtre",
+      "definitionPt": "a janela",
+      "definitionFr": "Ouverture pour laisser entrer la lumière.",
+      "inflections": ["la fenêtre", "les fenêtres"],
+      "ptTargets": ["janela"],
+      "examples": [
+        { "level": "A1", "fr": "La fenêtre est ouverte.", "pt": "A janela está aberta." },
+        { "level": "A2-B1", "fr": "Les Lyonnais mettent des lumières aux fenêtres.", "pt": "Os lionenses põem luzes nas janelas." },
+        { "level": "B1-B2", "fr": "Les fenêtres, illuminées le 8 décembre, transforment les façades en tableaux.", "pt": "As janelas, iluminadas em 8 de dezembro, transformam as fachadas em quadros." },
+        { "level": "C1-C2", "fr": "C'est aux fenêtres que se lit la ferveur discrète des Lyonnais.", "pt": "É nas janelas que se lê a devoção discreta dos lionenses." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Révision générale du niveau B2+",
+    "explanationPt": "Revisão dos pilares do B2+ neste capítulo: o subjonctif ('bien que la pluie ait tout annulé'), as clivadas ('C'est au bord du lac que...', 'Ce que j'aime, c'est...') e o discurso indireto ('Le guide nous a dit que des millions de visiteurs venaient').",
+    "exampleFr": "Bien que la pluie ait tout annulé, les Lyonnais ont allumé des lumières à leurs fenêtres.",
+    "examplePt": "Embora a chuva tenha cancelado tudo, os lionenses acenderam luzes em suas janelas.",
+    "practiceQuestion": "Complete: « Bien que la pluie ___ tout annulé, ils ont allumé les fenêtres. »",
+    "options": ["ait", "a", "aura"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "La clivée pour conclure",
+        "explanationPt": "Para resumir: 'Ce que je retiens de Lyon, c'est une ville qui sait se souvenir' (o que guardo de Lyon é uma cidade que sabe lembrar).",
+        "exampleFr": "Ce que je retiens de Lyon, c'est une ville qui sait se souvenir.",
+        "examplePt": "O que guardo de Lyon é uma cidade que sabe lembrar.",
+        "practiceQuestion": "Complete: « Ce que je retiens, ___ une ville qui se souvient. »",
+        "options": ["c'est", "il est", "ce sont"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "Il faut que + subjonctif pour conclure",
+        "explanationPt": "Para expressar necessidade: 'Il faut que nous revenions pour la Fête des Lumières' (é preciso que voltemos para a Festa das Luzes).",
+        "exampleFr": "Il faut que nous revenions pour la Fête des Lumières.",
+        "examplePt": "É preciso que voltemos para a Festa das Luzes.",
+        "practiceQuestion": "Complete: « Il faut que nous ___ pour la Fête des Lumières. »",
+        "options": ["revenions", "revenons", "reviendrons"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Qual é o maior parque urbano da França?",
+      "options": ["o parc de la Tête d'Or", "o Jardim de Luxemburgo", "o parque Monceau"],
+      "correctIndex": 0,
+      "explanation": "O parc de la Tête d'Or, em Lyon, é o maior parque urbano da França."
+    },
+    {
+      "question": "Quando acontece a Fête des Lumières?",
+      "options": ["todo 8 de dezembro", "todo 14 de julho", "todo 1º de janeiro"],
+      "correctIndex": 0,
+      "explanation": "A Festa das Luzes acontece todo 8 de dezembro desde 1852."
+    },
+    {
+      "question": "O que os Lyonnais fizeram quando a chuva cancelou a iluminação em 1852?",
+      "options": ["acenderam luzes nas janelas", "fecharam as janelas", "fizeram uma festa"],
+      "correctIndex": 0,
+      "explanation": "Diante da chuva, os lionenses acenderam luzes em suas janelas, dando origem à festa."
+    },
+    {
+      "question": "Complete: « Bien que la pluie ___ tout annulé, ils ont allumé. »",
+      "options": ["ait", "a", "aura"],
+      "correctIndex": 0,
+      "explanation": "Subjonctif passé após 'bien que': ait annulé."
+    },
+    {
+      "question": "O que Íris concluiu sobre Lyon?",
+      "options": ["que é preciso voltar para a Festa das Luzes", "que é preciso sair logo", "que não gostou da cidade"],
+      "correctIndex": 0,
+      "explanation": "Íris disse que é preciso voltar para a Festa das Luzes."
+    }
+  ]
+}

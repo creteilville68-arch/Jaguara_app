@@ -1,0 +1,268 @@
+{
+  "id": "amiens_lesson_5",
+  "cityId": "amiens",
+  "domain": "Compras & Mercado",
+  "level": "Iniciante em Transição (A1/A2)",
+  "titleFr": "Le marché sur l'eau",
+  "titlePt": "O mercado sobre a água",
+  "subtitleFr": "Acheter des fleurs et des légumes au bord des canaux",
+  "subtitlePt": "Comprar flores e legumes à beira dos canais",
+  "summaryPt": "Nesta Aula 5 (A1/A2), a família visita o mercado de flores e legumes dos hortillons, no coração de Amiens. Eles compram flores e legumes frescos cultivados nos jardins flutuantes. O aluno aprende a perguntar 'Combien ça coûte ?' e os artigos partitivos.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Le samedi, les hortillons vendent leurs légumes sur la place du marché. Les barques sont pleines de fleurs et de légumes frais.",
+      "pt": "No sábado, os hortillons vendem seus legumes na praça do mercado. Os barcos estão cheios de flores e legumes frescos."
+    },
+    {
+      "id": 2,
+      "fr": "Íris demande : « Combien coûte ce bouquet de fleurs ? » La marchande répond : « Il coûte cinq euros, ma petite. »",
+      "pt": "Íris pergunta: «Quanto custa este buquê de flores?» A vendedora responde: «Custa cinco euros, minha pequena.»"
+    },
+    {
+      "id": 3,
+      "fr": "Andréa achète des légumes : des carottes, des tomates et de la salade. Irlan achète du miel et des macarons pour la suite du voyage.",
+      "pt": "Andréa compra legumes: cenouras, tomates e alface. Irlan compra mel e macarons para o resto da viagem."
+    },
+    {
+      "id": 4,
+      "fr": "« C'est un marché magique ! » dit Íris. « Oui, les légumes poussent sur l'eau et arrivent en barque », explique Irlan. La famille rentre avec des sacs pleins.",
+      "pt": "«É um mercado mágico!» diz Íris. «Sim, os legumes crescem sobre a água e chegam de barco», explica Irlan. A família volta com sacolas cheias."
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "marché",
+      "definitionPt": "mercado, feira",
+      "definitionFr": "Lieu où l'on vend des produits.",
+      "inflections": ["le marché", "un marché", "des marchés"],
+      "ptTargets": ["mercado", "feira"],
+      "examples": [
+        { "level": "A1", "fr": "Les hortillons vendent au marché.", "pt": "Os hortillons vendem no mercado." },
+        { "level": "A2-B1", "fr": "Le marché est ouvert le samedi.", "pt": "O mercado está aberto no sábado." },
+        { "level": "B2", "fr": "Le marché sur l'eau est unique en France.", "pt": "O mercado sobre a água é único na França." },
+        { "level": "C1-C2", "fr": "Le marché traditionnel est le cœur vivant de la ville.", "pt": "O mercado tradicional é o coração vivo da cidade." }
+      ]
+    },
+    {
+      "term": "frais",
+      "definitionPt": "fresco",
+      "definitionFr": "Qui vient d'être récolté ou préparé.",
+      "inflections": ["frais", "fraîche", "frais"],
+      "ptTargets": ["fresco"],
+      "examples": [
+        { "level": "A1", "fr": "Les légumes sont frais.", "pt": "Os legumes estão frescos." },
+        { "level": "A2-B1", "fr": "Les fleurs fraîches sentent bon.", "pt": "As flores frescas cheiram bem." },
+        { "level": "B2", "fr": "Les produits frais ont plus de goût.", "pt": "Os produtos frescos têm mais sabor." },
+        { "level": "C1-C2", "fr": "La fraîcheur des légumes d'Amiens est réputée dans toute la région.", "pt": "O frescor dos legumes de Amiens é famoso em toda a região." }
+      ]
+    },
+    {
+      "term": "combien",
+      "definitionPt": "quanto",
+      "definitionFr": "Question sur la quantité ou le prix.",
+      "inflections": ["combien"],
+      "ptTargets": ["quanto"],
+      "examples": [
+        { "level": "A1", "fr": "Combien ça coûte ?", "pt": "Quanto custa?" },
+        { "level": "A2-B1", "fr": "Combien de tomates voulez-vous ?", "pt": "Quantos tomates você quer?" },
+        { "level": "B2", "fr": "Combien coûte ce bouquet de fleurs ?", "pt": "Quanto custa este buquê de flores?" },
+        { "level": "C1-C2", "fr": "Combien ce savoir-faire a-t-il de valeur ?", "pt": "Quanto vale este saber-fazer?" }
+      ]
+    },
+    {
+      "term": "coûter",
+      "definitionPt": "custar",
+      "definitionFr": "Avoir un prix.",
+      "inflections": ["ça coûte", "coûter", "il coûte"],
+      "ptTargets": ["custar"],
+      "examples": [
+        { "level": "A1", "fr": "Ça coûte cinq euros.", "pt": "Custa cinco euros." },
+        { "level": "A2-B1", "fr": "Le bouquet coûte trois euros.", "pt": "O buquê custa três euros." },
+        { "level": "B2", "fr": "Combien coûte le kilo de tomates ?", "pt": "Quanto custa o quilo de tomates?" },
+        { "level": "C1-C2", "fr": "Ce produit coûte plus cher que les autres.", "pt": "Este produto custa mais caro do que os outros." }
+      ]
+    },
+    {
+      "term": "bouquet",
+      "definitionPt": "buquê",
+      "definitionFr": "Ensemble de fleurs.",
+      "inflections": ["le bouquet", "un bouquet", "des bouquets"],
+      "ptTargets": ["buquê"],
+      "examples": [
+        { "level": "A1", "fr": "Le bouquet de fleurs est joli.", "pt": "O buquê de flores é bonito." },
+        { "level": "A2-B1", "fr": "J'achète un bouquet pour Andréa.", "pt": "Eu compro um buquê para a Andréa." },
+        { "level": "B2", "fr": "Un bouquet de fleurs fraîches illumine la maison.", "pt": "Um buquê de flores frescas ilumina a casa." },
+        { "level": "C1-C2", "fr": "Le bouquet de fleurs des hortillonnages est un cadeau précieux.", "pt": "O buquê de flores dos hortillonnages é um presente precioso." }
+      ]
+    },
+    {
+      "term": "marchande",
+      "definitionPt": "vendedora (de mercado)",
+      "definitionFr": "Femme qui vend sur un marché.",
+      "inflections": ["la marchande", "une marchande", "des marchandes"],
+      "ptTargets": ["vendedora"],
+      "examples": [
+        { "level": "A1", "fr": "La marchande est gentille.", "pt": "A vendedora é gentil." },
+        { "level": "A2-B1", "fr": "La marchande répond à la question.", "pt": "A vendedora responde à pergunta." },
+        { "level": "B2", "fr": "Les marchandes du marché connaissent leurs clients.", "pt": "As vendedoras do mercado conhecem os seus clientes." },
+        { "level": "C1-C2", "fr": "La marchande perpétue la tradition du marché sur l'eau.", "pt": "A vendedora perpetua a tradição do mercado sobre a água." }
+      ]
+    },
+    {
+      "term": "carotte",
+      "definitionPt": "cenoura",
+      "definitionFr": "Légume orange qui pousse dans la terre.",
+      "inflections": ["la carotte", "une carotte", "des carottes"],
+      "ptTargets": ["cenoura"],
+      "examples": [
+        { "level": "A1", "fr": "J'aime les carottes.", "pt": "Eu gosto de cenouras." },
+        { "level": "A2-B1", "fr": "Andréa achète des carottes au marché.", "pt": "Andréa compra cenouras no mercado." },
+        { "level": "B2", "fr": "Les carottes cultivées sur les îles sont très bonnes.", "pt": "As cenouras cultivadas nas ilhas são muito boas." },
+        { "level": "C1-C2", "fr": "La carotte d'Amiens est un produit du terroir réputé.", "pt": "A cenoura de Amiens é um produto do terroir famoso." }
+      ]
+    },
+    {
+      "term": "tomate",
+      "definitionPt": "tomate",
+      "definitionFr": "Fruit rouge que l'on mange en légume.",
+      "inflections": ["la tomate", "une tomate", "des tomates"],
+      "ptTargets": ["tomate"],
+      "examples": [
+        { "level": "A1", "fr": "Les tomates sont rouges.", "pt": "Os tomates são vermelhos." },
+        { "level": "A2-B1", "fr": "Nous achetons des tomates au marché.", "pt": "Nós compramos tomates no mercado." },
+        { "level": "B2", "fr": "Les tomates mûres au soleil sont délicieuses.", "pt": "Os tomates maduros ao sol são deliciosos." },
+        { "level": "C1-C2", "fr": "La tomate, cultivée avec soin, est le joyau du potager.", "pt": "O tomate, cultivado com cuidado, é a joia da horta." }
+      ]
+    },
+    {
+      "term": "salade",
+      "definitionPt": "alface, salada",
+      "definitionFr": "Plante verte que l'on mange, ou plat froid de légumes.",
+      "inflections": ["la salade", "une salade", "des salades"],
+      "ptTargets": ["alface", "salada"],
+      "examples": [
+        { "level": "A1", "fr": "Andréa achète de la salade.", "pt": "Andréa compra alface." },
+        { "level": "A2-B1", "fr": "La salade est fraîche et verte.", "pt": "A alface está fresca e verde." },
+        { "level": "B2", "fr": "Une salade de saison accompagne le dîner.", "pt": "Uma salada da estação acompanha o jantar." },
+        { "level": "C1-C2", "fr": "La salade croquante des hortillonnages est un délice.", "pt": "A alface crocante dos hortillonnages é uma delícia." }
+      ]
+    },
+    {
+      "term": "magique",
+      "definitionPt": "mágico",
+      "definitionFr": "Qui ressemble à un conte de fées.",
+      "inflections": ["magique", "magiques"],
+      "ptTargets": ["mágico"],
+      "examples": [
+        { "level": "A1", "fr": "C'est un marché magique !", "pt": "É um mercado mágico!" },
+        { "level": "A2-B1", "fr": "Le paysage est magique le soir.", "pt": "A paisagem é mágica à noite." },
+        { "level": "B2", "fr": "Ce lieu a une atmosphère magique.", "pt": "Este lugar tem uma atmosfera mágica." },
+        { "level": "C1-C2", "fr": "La lumière du matin rend le marché presque magique.", "pt": "A luz da manhã torna o mercado quase mágico." }
+      ]
+    },
+    {
+      "term": "sac",
+      "definitionPt": "bolsa, sacola",
+      "definitionFr": "Objet pour porter des choses.",
+      "inflections": ["le sac", "un sac", "des sacs"],
+      "ptTargets": ["bolsa", "sacola"],
+      "examples": [
+        { "level": "A1", "fr": "La famille rentre avec des sacs pleins.", "pt": "A família volta com sacolas cheias." },
+        { "level": "A2-B1", "fr": "Le sac est plein de légumes.", "pt": "A sacola está cheia de legumes." },
+        { "level": "B2", "fr": "Elle porte ses achats dans un grand sac.", "pt": "Ela carrega as compras numa sacola grande." },
+        { "level": "C1-C2", "fr": "Un sac rempli de produits frais est une richesse simple.", "pt": "Uma sacola cheia de produtos frescos é uma riqueza simples." }
+      ]
+    },
+    {
+      "term": "pousser",
+      "definitionPt": "crescer, brotar",
+      "definitionFr": "Grandir, se développer (pour les plantes).",
+      "inflections": ["je pousse", "pousser", "il pousse"],
+      "ptTargets": ["crescer", "brotar"],
+      "examples": [
+        { "level": "A1", "fr": "Les légumes poussent sur l'eau.", "pt": "Os legumes crescem sobre a água." },
+        { "level": "A2-B1", "fr": "Les fleurs poussent au printemps.", "pt": "As flores crescem na primavera." },
+        { "level": "B2", "fr": "Les légumes poussent rapidement dans ces jardins.", "pt": "Os legumes crescem rapidamente nestes jardins." },
+        { "level": "C1-C2", "fr": "Faire pousser des légumes sur l'eau est un exploit agronomique.", "pt": "Fazer crescer legumes sobre a água é um feito agronômico." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Combien ça coûte ?",
+    "explanationPt": "Para perguntar o preço: 'Combien ça coûte ?' (Quanto custa?) ou 'Combien coûte ce bouquet ?' (Quanto custa este buquê?). Resposta: 'Ça coûte cinq euros.'",
+    "exampleFr": "Combien coûte ce bouquet de fleurs ? — Il coûte cinq euros.",
+    "examplePt": "Quanto custa este buquê de flores? — Custa cinco euros.",
+    "practiceQuestion": "Complete a pergunta: 'Combien _____ ce bouquet de fleurs ?'",
+    "options": ["coûte", "coûtent", "coûter"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "Combien ça coûte ?",
+        "explanationPt": "Estrutura: 'Combien coûte + substantivo ?' ou 'Ça coûte + preço'. Ex.: 'Combien coûte le kilo de tomates ?' / 'Ça coûte trois euros.'",
+        "exampleFr": "Combien coûte le kilo de tomates ? — Ça coûte trois euros.",
+        "examplePt": "Quanto custa o quilo de tomates? — Custa três euros.",
+        "practiceQuestion": "Complete: 'Combien coûte _____ carottes ?'",
+        "options": ["le kilo de", "la kilo de", "les kilos de"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "Les articles partitifs : du, de la, des",
+        "explanationPt": "Para quantidades: 'du' (masc.), 'de la' (fem.), 'des' (plural). Ex.: 'du miel', 'de la salade', 'des tomates'. Depois da negação e de expressões de quantidade: 'de' (ex.: 'un kilo de tomates').",
+        "exampleFr": "Andréa achète des carottes, des tomates et de la salade. Irlan achète du miel.",
+        "examplePt": "Andréa compra cenouras, tomates e alface. Irlan compra mel.",
+        "practiceQuestion": "Complete com o partitivo correto: 'J'achète _____ miel au marché.'",
+        "options": ["du", "de la", "des"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Complete a frase do texto: 'Les barques sont pleines de fleurs et de légumes _____.'",
+      "options": ["frais", "vieux", "bleus"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'Les barques sont pleines de fleurs et de légumes frais.'"
+    },
+    {
+      "question": "Ordene corretamente as palavras da frase: [ coûte / ce bouquet / combien / de fleurs / ? / ]",
+      "options": [
+        "Combien coûte ce bouquet de fleurs ?",
+        "Ce bouquet coûte combien de fleurs ?",
+        "Combien ce bouquet coûte de fleurs ?"
+      ],
+      "correctIndex": 0,
+      "explanation": "A pergunta exata do texto é 'Combien coûte ce bouquet de fleurs ?'"
+    },
+    {
+      "question": "Como se traduz: 'Custa cinco euros'?",
+      "options": [
+        "Ça coûte cinq euros.",
+        "Ça coûte cinq euros ?",
+        "Ça coûte le cinq euros."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Ça coûte' = custa; 'cinq euros' = cinco euros."
+    },
+    {
+      "question": "Identifique a frase com ERRO de partitivo:",
+      "options": [
+        "J'achète du miel.",
+        "J'achète de la salade.",
+        "J'achète des la salade."
+      ],
+      "correctIndex": 2,
+      "explanation": "O erro é 'des la salade': 'salade' é feminino singular, o correto é 'de la salade'."
+    },
+    {
+      "question": "Onde crescem os legumes que a família compra?",
+      "options": [
+        "Sobre a água, nos jardins flutuantes",
+        "Em estufas de vidro",
+        "Em hortas subterrâneas"
+      ],
+      "correctIndex": 0,
+      "explanation": "No texto: 'les légumes poussent sur l'eau et arrivent en barque.'"
+    }
+  ]
+}

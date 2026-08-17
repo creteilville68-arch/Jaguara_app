@@ -1,0 +1,257 @@
+{
+  "id": "toulouse_lesson_24",
+  "cityId": "toulouse",
+  "domain": "Gastronomia",
+  "level": "Intermediário (B2)",
+  "titleFr": "La saucisse de Toulouse et la grillade du dimanche",
+  "titlePt": "A salsicha de Toulouse e a churrasqueada de domingo",
+  "subtitleFr": "Raconter un repas de famille avec EN et les causes",
+  "subtitlePt": "Contar uma refeição em família com EN e as causas",
+  "summaryPt": "A família é convidada para uma grillade num jardim toulousain. Irlan descobre a verdadeira saucisse de Toulouse, feita de carne de porco e apenas sal e pimenta. Nesta aula B2, o pronome EN e as estruturas causais se combinam para contar um domingo perfeito.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Le dimanche, chez les voisins du quartier, la grillade est un rituel. Sur le barbecue, les saucisses de Toulouse grillent doucement. « Il y en a pour tout le monde ! » cria le père de famille en agitant sa pince.",
+      "pt": "No domingo, na casa dos vizinhos do bairro, a churrasqueada é um ritual. Na churrasqueira, as salsichas de Toulouse grelham devagar. « Há delas para todo mundo! » gritou o pai de família agitando a pinça."
+    },
+    {
+      "id": 2,
+      "fr": "« La vraie saucisse de Toulouse, c'est simple, expliqua le voisin : du porc, du sel, du poivre. Rien d'autre. — J'en ai goûté des dizaines, dit Irlan, mais celle-ci est la meilleure. »",
+      "pt": "« A verdadeira salsicha de Toulouse é simples, explicou o vizinho: porco, sal e pimenta. Nada mais. — Eu provei dezenas delas, disse Irlan, mas esta é a melhor. »"
+    },
+    {
+      "id": 3,
+      "fr": "À la table, les assiettes se remplissaient de haricots, de tomates et de saucisses. « C'est parce que le Sud-Ouest est une terre de viande, expliqua Andréa, qu'on y mange si bien. » Íris, les joues rouges de plaisir, en redemanda.",
+      "pt": "Na mesa, os pratos se enchiam de feijão, tomates e salsichas. « É porque o Sudoeste é uma terra de carne, explicou Andréa, que se come tão bem aqui. » Íris, com as bochechas vermelhas de prazer, pediu mais."
+    },
+    {
+      "id": 4,
+      "fr": "Le voisin sortit un vin de Fronton. « Celui-ci, je l'ai choisi moi-même au domaine, dit-il. On en produit à une demi-heure de Toulouse. — Alors, j'en bois un verre ! » dit Irlan en riant.",
+      "pt": "O vizinho trouxe um vinho de Fronton. « Este, eu mesmo o escolhi na vinícola, disse ele. Produz-se a meia hora de Toulouse. — Então, bebo um copo dele! » disse Irlan rindo."
+    },
+    {
+      "id": 5,
+      "fr": "Le soir, Irlan nota : « En France, on ne mange pas seulement pour se nourrir. On mange pour raconter qui on est. Et moi, j'en apprends chaque jour un peu plus sur le pays qui est devenu le mien. »",
+      "pt": "À noite, Irlan anotou: « Na França, não se come apenas para se alimentar. Come-se para contar quem se é. E eu, aprendo um pouco mais a cada dia sobre o país que virou o meu. »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "la saucisse",
+      "definitionPt": "salsicha, linguiça (substantivo feminino)",
+      "definitionFr": "Préparation de viande hachée en boyau.",
+      "inflections": ["la saucisse", "des saucisses"],
+      "ptTargets": ["salsicha", "linguiça", "salsichas"],
+      "examples": [
+        { "level": "A1", "fr": "La saucisse est bonne.", "pt": "A salsicha é boa." },
+        { "level": "A2-B1", "fr": "La saucisse de Toulouse est célèbre.", "pt": "A salsicha de Toulouse é famosa." },
+        { "level": "B2", "fr": "La vraie saucisse de Toulouse ne contient que du porc, du sel et du poivre.", "pt": "A verdadeira salsicha de Toulouse contém apenas porco, sal e pimenta." },
+        { "level": "C1-C2", "fr": "La saucisse de Toulouse, protégée par une charte, est une institution charcutière régionale.", "pt": "A salsicha de Toulouse, protegida por uma carta, é uma instituição churrasqueira regional." }
+      ]
+    },
+    {
+      "term": "la grillade",
+      "definitionPt": "churrasqueada, grelhado (substantivo feminino)",
+      "definitionFr": "Repas de viandes cuites au grill.",
+      "inflections": ["la grillade", "des grillades"],
+      "ptTargets": ["churrasqueada", "grelhado"],
+      "examples": [
+        { "level": "A1", "fr": "La grillade sent bon.", "pt": "A churrasqueada cheira bem." },
+        { "level": "A2-B1", "fr": "Le dimanche, la grillade est un rituel.", "pt": "No domingo, a churrasqueada é um ritual." },
+        { "level": "B2", "fr": "La grillade du dimanche rassemble les voisins autour du barbecue.", "pt": "A churrasqueada de domingo reúne os vizinhos em volta da churrasqueira." },
+        { "level": "C1-C2", "fr": "La grillade est un moment de sociabilité autant qu'un exercice culinaire.", "pt": "A churrasqueada é um momento de sociabilidade tanto quanto um exercício culinário." }
+      ]
+    },
+    {
+      "term": "le barbecue",
+      "definitionPt": "churrasqueira (substantivo masculino)",
+      "definitionFr": "Appareil pour cuire les aliments au feu.",
+      "inflections": ["le barbecue", "des barbecues"],
+      "ptTargets": ["churrasqueira", "barbecue"],
+      "examples": [
+        { "level": "A1", "fr": "Le barbecue est allumé.", "pt": "A churrasqueira está acesa." },
+        { "level": "A2-B1", "fr": "Les saucisses grillent sur le barbecue.", "pt": "As salsichas grelham na churrasqueira." },
+        { "level": "B2", "fr": "Les saucisses de Toulouse grillent doucement sur le barbecue.", "pt": "As salsichas de Toulouse grelham devagar na churrasqueira." },
+        { "level": "C1-C2", "fr": "Le barbecue, popularisé après-guerre, a conquis les jardins français.", "pt": "A churrasqueira, popularizada no pós-guerra, conquistou os jardins franceses." }
+      ]
+    },
+    {
+      "term": "la pince",
+      "definitionPt": "pinça (substantivo feminino)",
+      "definitionFr": "Ustensile pour saisir les aliments.",
+      "inflections": ["la pince", "des pinces"],
+      "ptTargets": ["pinça", "pinças"],
+      "examples": [
+        { "level": "A1", "fr": "La pince est en métal.", "pt": "A pinça é de metal." },
+        { "level": "A2-B1", "fr": "Le voisin agite la pince.", "pt": "O vizinho agita a pinça." },
+        { "level": "B2", "fr": "Il agita sa pince au-dessus du barbecue en criant à la cantonade.", "pt": "Ele agitou a pinça sobre a churrasqueira gritando para todos." },
+        { "level": "C1-C2", "fr": "La pince du maître du barbecue est l'insigne de son autorité culinaire.", "pt": "A pinça do mestre da churrasqueira é a insígnia de sua autoridade culinária." }
+      ]
+    },
+    {
+      "term": "le voisin",
+      "definitionPt": "vizinho (substantivo masculino)",
+      "definitionFr": "Personne qui habite à côté.",
+      "inflections": ["le voisin", "des voisins"],
+      "ptTargets": ["vizinho", "vizinhos"],
+      "examples": [
+        { "level": "A1", "fr": "Le voisin est gentil.", "pt": "O vizinho é gentil." },
+        { "level": "A2-B1", "fr": "Les voisins invitent la famille.", "pt": "Os vizinhos convidam a família." },
+        { "level": "B2", "fr": "Les voisins du quartier organisent une grillade chaque dimanche d'été.", "pt": "Os vizinhos do bairro organizam uma churrasqueada todo domingo de verão." },
+        { "level": "C1-C2", "fr": "La convivialité de voisinage, si vivante dans le Midi, s'organise autour de la table.", "pt": "A convivialidade de vizinhança, tão viva no Midi, se organiza em torno da mesa." }
+      ]
+    },
+    {
+      "term": "le verre",
+      "definitionPt": "copo (substantivo masculino)",
+      "definitionFr": "Récipient pour boire.",
+      "inflections": ["le verre", "des verres"],
+      "ptTargets": ["copo", "copos"],
+      "examples": [
+        { "level": "A1", "fr": "Le verre est plein.", "pt": "O copo está cheio." },
+        { "level": "A2-B1", "fr": "Je bois un verre de vin.", "pt": "Eu bebo um copo de vinho." },
+        { "level": "B2", "fr": "« J'en bois un verre ! » dit Irlan en levant son verre de Fronton.", "pt": "« Bebo um copo dele! » disse Irlan erguendo seu copo de Fronton." },
+        { "level": "C1-C2", "fr": "Lever son verre à la santé des voisins scelle l'amitié du quartier.", "pt": "Erguer o copo à saúde dos vizinhos sela a amizade do bairro." }
+      ]
+    },
+    {
+      "term": "le domaine",
+      "definitionPt": "vinícola, propriedade (substantivo masculino)",
+      "definitionFr": "Exploitation viticole.",
+      "inflections": ["le domaine", "des domaines"],
+      "ptTargets": ["vinícola", "propriedade"],
+      "examples": [
+        { "level": "A1", "fr": "Le domaine est à la campagne.", "pt": "A vinícola fica no campo." },
+        { "level": "A2-B1", "fr": "Le vin vient du domaine de Fronton.", "pt": "O vinho vem da vinícola de Fronton." },
+        { "level": "B2", "fr": "« Je l'ai choisi moi-même au domaine », dit le voisin.", "pt": "« Eu mesmo o escolhi na vinícola », disse o vizinho." },
+        { "level": "C1-C2", "fr": "Le domaine de Fronton perpétue une tradition viticole antérieure à la Révolution.", "pt": "A vinícola de Fronton perpetua uma tradição vitícola anterior à Revolução." }
+      ]
+    },
+    {
+      "term": "le haricot",
+      "definitionPt": "feijão (substantivo masculino)",
+      "definitionFr": "Légumineuse consommée comme légume.",
+      "inflections": ["le haricot", "des haricots"],
+      "ptTargets": ["feijão", "feijões"],
+      "examples": [
+        { "level": "A1", "fr": "Le haricot est vert.", "pt": "O feijão é verde." },
+        { "level": "A2-B1", "fr": "Les assiettes se remplissent de haricots.", "pt": "Os pratos se enchem de feijão." },
+        { "level": "B2", "fr": "Les haricots blancs accompagnent la saucisse de Toulouse.", "pt": "O feijão branco acompanha a salsicha de Toulouse." },
+        { "level": "C1-C2", "fr": "Les haricots du cassoulet ont conquis l'Europe depuis les Amériques au XVIe siècle.", "pt": "O feijão do cassoulet conquistou a Europa vindo das Américas no século XVI." }
+      ]
+    },
+    {
+      "term": "le plaisir",
+      "definitionPt": "prazer (substantivo masculino)",
+      "definitionFr": "Sensation agréable.",
+      "inflections": ["le plaisir", "des plaisirs"],
+      "ptTargets": ["prazer", "prazeres"],
+      "examples": [
+        { "level": "A1", "fr": "Le repas est un plaisir.", "pt": "A refeição é um prazer." },
+        { "level": "A2-B1", "fr": "Íris mange avec plaisir.", "pt": "Íris come com prazer." },
+        { "level": "B2", "fr": "Íris, les joues rouges de plaisir, en redemanda.", "pt": "Íris, com as bochechas vermelhas de prazer, pediu mais." },
+        { "level": "C1-C2", "fr": "Le plaisir de la table est une philosophie française à part entière.", "pt": "O prazer da mesa é uma filosofia francesa por si só." }
+      ]
+    },
+    {
+      "term": "se nourrir",
+      "definitionPt": "alimentar-se (verbo pronominal)",
+      "definitionFr": "Manger pour vivre.",
+      "inflections": ["je me nourris", "se nourrir"],
+      "ptTargets": ["alimentar-se", "se alimentar"],
+      "examples": [
+        { "level": "A1", "fr": "Je me nourris bien.", "pt": "Eu me alimento bem." },
+        { "level": "A2-B1", "fr": "On ne mange pas seulement pour se nourrir.", "pt": "Não se come apenas para se alimentar." },
+        { "level": "B2", "fr": "En France, on ne mange pas seulement pour se nourrir, mais pour partager.", "pt": "Na França, não se come apenas para se alimentar, mas para compartilhar." },
+        { "level": "C1-C2", "fr": "Se nourrir, c'est aussi se relier aux saisons, aux terroirs et aux autres.", "pt": "Alimentar-se é também se ligar às estações, aos terroirs e aos outros." }
+      ]
+    },
+    {
+      "term": "la terre",
+      "definitionPt": "terra (substantivo feminino)",
+      "definitionFr": "Sol cultivé, région.",
+      "inflections": ["la terre", "des terres"],
+      "ptTargets": ["terra", "terras"],
+      "examples": [
+        { "level": "A1", "fr": "La terre est fertile.", "pt": "A terra é fértil." },
+        { "level": "A2-B1", "fr": "Le Sud-Ouest est une terre de viande.", "pt": "O Sudoeste é uma terra de carne." },
+        { "level": "B2", "fr": "C'est parce que le Sud-Ouest est une terre de viande qu'on y mange si bien.", "pt": "É porque o Sudoeste é uma terra de carne que se come tão bem ali." },
+        { "level": "C1-C2", "fr": "La terre du Midi, baignée de soleil, dicte la table de ses habitants.", "pt": "A terra do Midi, banhada de sol, dita a mesa de seus habitantes." }
+      ]
+    },
+    {
+      "term": "la joue",
+      "definitionPt": "bochecha (substantivo feminino)",
+      "definitionFr": "Partie du visage sous les yeux.",
+      "inflections": ["la joue", "des joues"],
+      "ptTargets": ["bochecha", "bochechas"],
+      "examples": [
+        { "level": "A1", "fr": "La joue est rouge.", "pt": "A bochecha é vermelha." },
+        { "level": "A2-B1", "fr": "Íris a les joues rouges.", "pt": "Íris tem as bochechas vermelhas." },
+        { "level": "B2", "fr": "Les joues rouges de plaisir, Íris redemanda une saucisse.", "pt": "Com as bochechas vermelhas de prazer, Íris pediu mais uma salsicha." },
+        { "level": "C1-C2", "fr": "Les joues rouges d'un enfant qui mange sont la plus sincère des critiques gastronomiques.", "pt": "As bochechas vermelhas de uma criança que come são a mais sincera das críticas gastronômicas." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "EN pour les quantités et les causes avec c'est parce que",
+    "explanationPt": "EN substitui o complemento com 'de': 'J'en ai goûté des dizaines', 'j'en bois un verre'. A estrutura 'c'est parce que… que…' reforça a causa: 'C'est parce que le Sud-Ouest est une terre de viande qu'on y mange si bien.'",
+    "exampleFr": "Des saucisses ? J'en ai goûté des dizaines, mais celle-ci est la meilleure.",
+    "examplePt": "Salsichas? Eu provei dezenas delas, mas esta é a melhor.",
+    "practiceQuestion": "Complete: 'Des saucisses ? J'_____ ai goûté des dizaines.'",
+    "options": ["en", "y", "les"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "C'est parce que… que…",
+        "explanationPt": "Para destacar a causa: 'C'est parce que le Sud-Ouest est une terre de viande qu'on y mange si bien.'",
+        "exampleFr": "C'est parce que la saucisse est simple qu'elle est si bonne.",
+        "examplePt": "É porque a salsicha é simples que ela é tão boa.",
+        "practiceQuestion": "Complete: 'C'est _____ la viande est bonne que le plat est bon.'",
+        "options": ["parce que", "à cause de", "puisque"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "EN avec goûter et boire",
+        "explanationPt": "'Goûter de + nom' e 'boire de + nom' usam EN: 'J'en ai goûté des dizaines', 'j'en bois un verre'.",
+        "exampleFr": "Du vin de Fronton ? J'en ai déjà bu au domaine l'an dernier.",
+        "examplePt": "Vinho de Fronton? Eu já bebi dele na vinícola no ano passado.",
+        "practiceQuestion": "Complete: 'De ce vin, j'_____ ai bu un verre hier.'",
+        "options": ["en", "y", "le"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Complete: 'Des saucisses ? J'_____ ai goûté des dizaines.'",
+      "options": ["en", "y", "les"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'J'en ai goûté des dizaines, dit Irlan.'"
+    },
+    {
+      "question": "O que contém a verdadeira saucisse de Toulouse?",
+      "options": ["Porco, sal e pimenta", "Porco, ervas e alho", "Frango, cebola e páprica"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'du porc, du sel, du poivre. Rien d'autre.'"
+    },
+    {
+      "question": "De onde vem o vinho servido pelo vizinho?",
+      "options": ["Fronton", "Bordeaux", "Champagne"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'un vin de Fronton… On en produit à une demi-heure de Toulouse.'"
+    },
+    {
+      "question": "Complete: 'C'est _____ le Sud-Ouest est une terre de viande qu'on y mange si bien.'",
+      "options": ["parce que", "à cause de", "puisque"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'C'est parce que le Sud-Ouest est une terre de viande, expliqua Andréa, qu'on y mange si bien.'"
+    },
+    {
+      "question": "O que Irlan escreveu sobre comer na França?",
+      "options": ["Come-se para contar quem se é", "Come-se apenas para se alimentar", "Come-se muito rápido"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'On mange pour raconter qui on est.'"
+    }
+  ]
+}

@@ -1,0 +1,255 @@
+{
+  "id": "mont_saint_michel_lesson_20",
+  "cityId": "mont-saint-michel",
+  "domain": "Natureza & Geografia",
+  "level": "Básico (A2/B1)",
+  "titleFr": "Le barrage du Couesnon : sauver le Mont de la terre",
+  "titlePt": "A barragem do Couesnon: salvar o Mont da terra",
+  "subtitleFr": "Depuis 2009, un barrage moderne aide la mer à nettoyer la baie",
+  "subtitlePt": "Desde 2009, uma barragem moderna ajuda o mar a limpar a baía",
+  "summaryPt": "Nesta Aula 20 (A2/B1), Irlan, geógrafo, explica o problema do assoreamento: sem a força das marés, o Mont perdia seu caráter de ilha. Em 2009, um novo barrage foi construído no Couesnon para empurrar o lodo de volta ao mar. O aluno pratica a explicação de causas (à cause de, grâce à) e o contraste passado/presente.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "« Le Couesnon est la petite rivière qui passe près du Mont », a expliqué Irlan. « Pendant des siècles, elle a apporté du sable et du lodo dans la baie. »",
+      "pt": "« O Couesnon é o pequeno rio que passa perto do Mont », explicou Irlan. « Durante séculos, ele trouxe areia e lodo para a baía. »"
+    },
+    {
+      "id": 2,
+      "fr": "« Petit à petit, la terre gagnait sur la mer », a dit Andréa. « Le Mont devenait moins une île. Il fallait agir. »",
+      "pt": "« Aos poucos, a terra ganhava do mar », disse Andréa. « O Mont deixava de ser uma ilha. Era preciso agir. »"
+    },
+    {
+      "id": 3,
+      "fr": "« Grâce au barrage construit en 2009, la mer pousse le lodo vers le large », a continué Irlan. « Les marées sont redevenues puissantes. »",
+      "pt": "« Graças à barragem construída em 2009, o mar empurra o lodo para o largo », continuou Irlan. « As marés voltaram a ser poderosas. »"
+    },
+    {
+      "id": 4,
+      "fr": "« Je suis géographe », a souri Irlan. « Quand j'étais petit, je rêvais de sauver des îles. Maintenant, je regarde le barrage qui sauve le Mont. C'est presque magique. »",
+      "pt": "« Sou geógrafo », sorriu Irlan. « Quando era pequeno, sonhava em salvar ilhas. Agora, olho a barragem que salva o Mont. É quase mágico. »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "le barrage",
+      "definitionPt": "a barragem",
+      "definitionFr": "Ouvrage qui retient l'eau.",
+      "inflections": ["le barrage", "un barrage", "des barrages"],
+      "ptTargets": ["barragem"],
+      "examples": [
+        { "level": "A1", "fr": "Le barrage est grand.", "pt": "A barragem é grande." },
+        { "level": "A2-B1", "fr": "Le barrage du Couesnon a été construit en 2009.", "pt": "A barragem do Couesnon foi construída em 2009." },
+        { "level": "B2", "fr": "Le barrage aide la marée à nettoyer la baie.", "pt": "A barragem ajuda a maré a limpar a baía." },
+        { "level": "C1-C2", "fr": "Le barrage moderne a rendu au Mont son caractère d'île.", "pt": "A barragem moderna devolveu ao Mont seu caráter de ilha." }
+      ]
+    },
+    {
+      "term": "le fleuve",
+      "definitionPt": "o rio (grande)",
+      "definitionFr": "Grande rivière qui se jette dans la mer.",
+      "inflections": ["le fleuve", "un fleuve", "des fleuves"],
+      "ptTargets": ["rio"],
+      "examples": [
+        { "level": "A1", "fr": "Le fleuve est long.", "pt": "O rio é longo." },
+        { "level": "A2-B1", "fr": "Le Couesnon est un petit fleuve côtier.", "pt": "O Couesnon é um pequeno rio costeiro." },
+        { "level": "B2", "fr": "Le fleuve apportait du sable dans la baie.", "pt": "O rio trazia areia para a baía." },
+        { "level": "C1-C2", "fr": "Le fleuve et la mer se disputent la baie depuis des siècles.", "pt": "O rio e o mar disputam a baía há séculos." }
+      ]
+    },
+    {
+      "term": "le sable",
+      "definitionPt": "a areia",
+      "definitionFr": "Grains fins sur les plages.",
+      "inflections": ["le sable", "un sable", "des sables"],
+      "ptTargets": ["areia"],
+      "examples": [
+        { "level": "A1", "fr": "Le sable est fin.", "pt": "A areia é fina." },
+        { "level": "A2-B1", "fr": "Le fleuve apportait du sable dans la baie.", "pt": "O rio trazia areia para a baía." },
+        { "level": "B2", "fr": "Le sable s'accumulait autour du Mont.", "pt": "A areia se acumulava ao redor do Mont." },
+        { "level": "C1-C2", "fr": "Le sable, charrié par les siècles, menaçait l'île.", "pt": "A areia, arrastada pelos séculos, ameaçava a ilha." }
+      ]
+    },
+    {
+      "term": "le lodo",
+      "definitionPt": "o lodo, a lama",
+      "definitionFr": "Boue très fine.",
+      "inflections": ["le lodo", "un lodo", "des lodos"],
+      "ptTargets": ["lodo", "lama"],
+      "examples": [
+        { "level": "A1", "fr": "Le lodo est gris.", "pt": "O lodo é cinza." },
+        { "level": "A2-B1", "fr": "Le lodo s'accumulait dans la baie.", "pt": "O lodo se acumulava na baía." },
+        { "level": "B2", "fr": "La mer pousse le lodo vers le large grâce au barrage.", "pt": "O mar empurra o lodo para o largo graças à barragem." },
+        { "level": "C1-C2", "fr": "Le lodo, invisible à marée haute, est le grand ennemi du Mont.", "pt": "O lodo, invisível na maré alta, é o grande inimigo do Mont." }
+      ]
+    },
+    {
+      "term": "l'ensablement",
+      "definitionPt": "o assoreamento",
+      "definitionFr": "Accumulation de sable qui comble un lieu.",
+      "inflections": ["l'ensablement", "un ensablement", "des ensablements"],
+      "ptTargets": ["assoreamento"],
+      "examples": [
+        { "level": "A1", "fr": "L'ensablement est un problème.", "pt": "O assoreamento é um problema." },
+        { "level": "A2-B1", "fr": "L'ensablement menaçait le Mont.", "pt": "O assoreamento ameaçava o Mont." },
+        { "level": "B2", "fr": "Le barrage a stoppé l'ensablement de la baie.", "pt": "A barragem deteve o assoreamento da baía." },
+        { "level": "C1-C2", "fr": "Lutter contre l'ensablement, c'est lutter contre le temps lui-même.", "pt": "Lutar contra o assoreamento é lutar contra o próprio tempo." }
+      ]
+    },
+    {
+      "term": "gagner",
+      "definitionPt": "ganhar, avançar",
+      "definitionFr": "Progresser, occuper un terrain.",
+      "inflections": ["je gagne", "nous gagnons", "gagné"],
+      "ptTargets": ["ganhar", "avançar"],
+      "examples": [
+        { "level": "A1", "fr": "Je gagne le match.", "pt": "Ganho o jogo." },
+        { "level": "A2-B1", "fr": "La terre gagnait sur la mer.", "pt": "A terra ganhava do mar." },
+        { "level": "B2", "fr": "Les marées ont gagné du terrain sur le lodo.", "pt": "As marés ganharam terreno sobre o lodo." },
+        { "level": "C1-C2", "fr": "La mer gagne, la terre gagne : la baie vit de ces batailles.", "pt": "O mar ganha, a terra ganha: a baía vive dessas batalhas." }
+      ]
+    },    {
+      "term": "la vase",
+      "definitionPt": "a lama fina, a vasa",
+      "definitionFr": "Vase, boue déposée par l'eau.",
+      "inflections": [
+        "la vase",
+        "une vase",
+        "des vases"
+      ],
+      "ptTargets": ["lama", "vasa"],
+      "examples": [
+        { "level": "A1", "fr": "La vase est collante.", "pt": "A lama é grudenta." },
+        { "level": "A2-B1", "fr": "La vase recouvrait les prés salés.", "pt": "A lama cobria os prados salgados." },
+        { "level": "B2", "fr": "La vase, riche en nutriments, nourrit la baie.", "pt": "A lama, rica em nutrientes, alimenta a baía." },
+        { "level": "C1-C2", "fr": "Sous la vase, la baie garde la mémoire des siècles.", "pt": "Sob a lama, a baía guarda a memória dos séculos." }
+      ]
+    },
+    {
+      "term": "pousser",
+      "definitionPt": "empurrar",
+      "definitionFr": "Faire avancer en appuyant.",
+      "inflections": ["je pousse", "nous poussons", "poussé"],
+      "ptTargets": ["empurrar"],
+      "examples": [
+        { "level": "A1", "fr": "Je pousse la porte.", "pt": "Empurro a porta." },
+        { "level": "A2-B1", "fr": "La mer pousse le lodo vers le large.", "pt": "O mar empurra o lodo para o largo." },
+        { "level": "B2", "fr": "Le barrage pousse l'eau au bon moment.", "pt": "A barragem empurra a água no momento certo." },
+        { "level": "C1-C2", "fr": "Pousser la terre hors de la baie, telle est la mission du barrage.", "pt": "Empurrar a terra para fora da baía, tal é a missão da barragem." }
+      ]
+    },
+    {
+      "term": "puissant",
+      "definitionPt": "poderoso",
+      "definitionFr": "Fort, vigoureux.",
+      "inflections": ["puissant", "puissante", "puissants"],
+      "ptTargets": ["poderoso"],
+      "examples": [
+        { "level": "A1", "fr": "Le lion est puissant.", "pt": "O leão é poderoso." },
+        { "level": "A2-B1", "fr": "Les marées sont redevenues puissantes.", "pt": "As marés voltaram a ser poderosas." },
+        { "level": "B2", "fr": "La puissance des marées nettoie la baie.", "pt": "A potência das marés limpa a baía." },
+        { "level": "C1-C2", "fr": "Puissantes et régulières, les marées sont les alliées du Mont.", "pt": "Poderosas e regulares, as marés são as aliadas do Mont." }
+      ]
+    },
+    {
+      "term": "moderne",
+      "definitionPt": "moderno",
+      "definitionFr": "Actuel, récent.",
+      "inflections": ["moderne", "modernes", "modernité"],
+      "ptTargets": ["moderno"],
+      "examples": [
+        { "level": "A1", "fr": "La maison est moderne.", "pt": "A casa é moderna." },
+        { "level": "A2-B1", "fr": "Le barrage moderne aide l'ancienne île.", "pt": "A barragem moderna ajuda a antiga ilha." },
+        { "level": "B2", "fr": "La technologie moderne protège un lieu du Moyen Âge.", "pt": "A tecnologia moderna protege um lugar da Idade Média." },
+        { "level": "C1-C2", "fr": "Le moderne et l'ancien se rencontrent dans la baie.", "pt": "O moderno e o antigo se encontram na baía." }
+      ]
+    },
+    {
+      "term": "nettoyer",
+      "definitionPt": "limpar",
+      "definitionFr": "Rendre propre.",
+      "inflections": ["je nettoie", "nous nettoyons", "nettoyé"],
+      "ptTargets": ["limpar"],
+      "examples": [
+        { "level": "A1", "fr": "Je nettoie la table.", "pt": "Limpo a mesa." },
+        { "level": "A2-B1", "fr": "La mer nettoie la baie à chaque marée.", "pt": "O mar limpa a baía a cada maré." },
+        { "level": "B2", "fr": "Le barrage aide la mer à nettoyer le lodo.", "pt": "A barragem ajuda o mar a limpar o lodo." },
+        { "level": "C1-C2", "fr": "Nettoyer la baie, c'est rendre à la mer son travail naturel.", "pt": "Limpar a baía é devolver ao mar seu trabalho natural." }
+      ]
+    },
+    {
+      "term": "l'île",
+      "definitionPt": "a ilha",
+      "definitionFr": "Terre entourée d'eau.",
+      "inflections": ["l'île", "une île", "des îles"],
+      "ptTargets": ["ilha"],
+      "examples": [
+        { "level": "A1", "fr": "L'île est belle.", "pt": "A ilha é bonita." },
+        { "level": "A2-B1", "fr": "Le Mont est une île à marée haute.", "pt": "O Mont é uma ilha na maré alta." },
+        { "level": "B2", "fr": "Le barrage a rendu son statut d'île au Mont.", "pt": "A barragem devolveu ao Mont seu status de ilha." },
+        { "level": "C1-C2", "fr": "Sauver une île, c'est sauver un rêve.", "pt": "Salvar uma ilha é salvar um sonho." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Expliquer les causes : à cause de, grâce à",
+    "explanationPt": "'À cause de' (por causa de — negativo) e 'grâce à' (graças a — positivo): 'à cause du sable, le Mont perdait son île' / 'grâce au barrage, la marée est redevenue puissante'.",
+    "exampleFr": "Grâce au barrage, la marée nettoie la baie et le Mont est redevenu une île.",
+    "examplePt": "Graças à barragem, a maré limpa a baía e o Mont voltou a ser uma ilha.",
+    "practiceQuestion": "Complete: « ___ au barrage, la baie est propre. »",
+    "options": ["Grâce", "À cause", "Pendant"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "La terre gagnait sur la mer : imparfait de progression",
+        "explanationPt": "Progressão no passado = imparfait: 'la terre gagnait sur la mer' (a terra ganhava do mar), 'le Mont devenait moins une île' (o Mont deixava de ser ilha).",
+        "exampleFr": "Petit à petit, la terre gagnait sur la mer et le Mont devenait moins une île.",
+        "examplePt": "Aos poucos, a terra ganhava do mar e o Mont deixava de ser uma ilha.",
+        "practiceQuestion": "Complete: « Petit à petit, la terre ___ sur la mer. »",
+        "options": ["gagnait", "a gagné", "gagnera"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "Il fallait agir : l'obligation au passé",
+        "explanationPt": "'Il fallait + infinitif' expressa obrigação no passado: 'il fallait agir' (era preciso agir). No presente: 'il faut agir'.",
+        "exampleFr": "L'île disparaissait : il fallait agir vite.",
+        "examplePt": "A ilha desaparecia: era preciso agir rápido.",
+        "practiceQuestion": "Complete: « Le Mont disparaissait, il ___ agir. »",
+        "options": ["fallait", "faut", "faudra"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "O que o rio Couesnon trazia para a baía?",
+      "options": ["Areia e lodo", "Peixes raros", "Água doce em excesso"],
+      "correctIndex": 0,
+      "explanation": "Durante séculos, o Couesnon trouxe sable et lodo para a baía, causando o assoreamento."
+    },
+    {
+      "question": "Complete: « Petit à petit, la terre ___ sur la mer. »",
+      "options": ["gagnait", "a gagné", "gagnera"],
+      "correctIndex": 0,
+      "explanation": "Progressão contínua no passado = imparfait: 'gagnait'."
+    },
+    {
+      "question": "Quando foi construído o novo barrage?",
+      "options": ["Em 2009", "Em 1863", "Em 708"],
+      "correctIndex": 0,
+      "explanation": "O barrage do Couesnon foi construído em 2009 para combater o assoreamento."
+    },
+    {
+      "question": "Complete: « ___ au barrage, le Mont est redevenu une île. »",
+      "options": ["Grâce", "À cause", "Malgré"],
+      "correctIndex": 0,
+      "explanation": "'Grâce à' expressa uma causa positiva: graças à barragem."
+    },
+    {
+      "question": "O que Irlan disse sobre seu sonho de criança?",
+      "options": ["Sonhava em salvar ilhas, e agora vê o barrage que salva o Mont", "Sonhava em ser piloto", "Sonhava em morar em Paris"],
+      "correctIndex": 0,
+      "explanation": "Irlan, geógrafo, lembrou que sonhava em salvar ilhas quando criança — e agora vê a barragem fazendo isso."
+    }
+  ]
+}

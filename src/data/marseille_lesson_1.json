@@ -1,0 +1,252 @@
+{
+  "id": "marseille_lesson_1",
+  "cityId": "marseille",
+  "domain": "História",
+  "level": "Avançado (C1)",
+  "titleFr": "Bienvenue à Marseille : le port millénaire",
+  "titlePt": "Bem-vindo a Marseille: o porto milenar",
+  "subtitleFr": "L'arrivée au Vieux-Port et la ville fondée par les Grecs il y a 2 600 ans",
+  "subtitlePt": "A chegada ao Porto Velho e a cidade fundada pelos gregos há 2.600 anos",
+  "summaryPt": "Nesta Aula 1 (C1), a família chega a Marseille e descobre a mais antiga cidade da França, fundada pelos gregos há mais de 2.600 anos. O aluno domina a Voz Passiva: 'la ville a été fondée par les Phocéens', 'les navires sont guidés par le phare'.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Sur le Vieux-Port, Iris a respiré l'air marin : « C'est la première fois que je vois la mer, papa ! » Irlan a souri : « Et quelle mer ! Marseille a été fondée par les marins grecs il y a plus de 2 600 ans. C'est la plus ancienne ville de France. »",
+      "pt": "No Porto Velho, Íris respirou o ar do mar: « É a primeira vez que vejo o mar, papai! » Irlan sorriu: « E que mar! Marseille foi fundada por marinheiros gregos há mais de 2.600 anos. É a cidade mais antiga da França. »"
+    },
+    {
+      "id": 2,
+      "fr": "Un vieux pêcheur a montré les bateaux : « Regardez, la flotte est conduite par le phare de la Joliette. Ici, toute la ville est tournée vers la mer. Les calanques sont protégées par le parc national depuis 2012. »",
+      "pt": "Um velho pescador apontou os barcos: « Olhem, a frota é conduzida pelo farol de la Joliette. Aqui, a cidade inteira é voltada para o mar. As calanques são protegidas pelo parque nacional desde 2012. »"
+    },
+    {
+      "id": 3,
+      "fr": "Andréa a lu un panneau : « Ce port a été fréquenté par les Phocéens, les Romains, les marchands du Moyen Âge. Aujourd'hui encore, Marseille est traversée par des gens du monde entier. » Iris a demandé : « Et le château d'If ? »",
+      "pt": "Andréa leu um painel: « Este porto foi frequentado pelos fócios, pelos romanos, pelos mercadores da Idade Média. Ainda hoje, Marseille é atravessada por gente do mundo inteiro. » Íris perguntou: « E o castelo de If? »"
+    },
+    {
+      "id": 4,
+      "fr": "« Il se trouve sur une île, au large, a répondu Irlan. Il a été rendu célèbre par le roman d'Alexandre Dumas, Le Comte de Monte-Cristo. Mais cela, c'est pour demain. Ce soir, la bouillabaisse nous attend ! »",
+      "pt": "« Ele fica numa ilha, ao largo, respondeu Irlan. Foi tornado famoso pelo romance de Alexandre Dumas, O Conde de Monte Cristo. Mas isso é para amanhã. Hoje à noite, a bouillabaisse nos espera! »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "le port",
+      "definitionPt": "o porto",
+      "definitionFr": "Lieu abrité où accostent les bateaux.",
+      "inflections": ["le port", "les ports"],
+      "ptTargets": ["porto"],
+      "examples": [
+        { "level": "A1", "fr": "Le port est grand.", "pt": "O porto é grande." },
+        { "level": "A2-B1", "fr": "Le Vieux-Port est le cœur de Marseille.", "pt": "O Porto Velho é o coração de Marseille." },
+        { "level": "B1-B2", "fr": "Le port, fréquenté depuis des siècles, a vu passer toutes les civilisations.", "pt": "O porto, frequentado há séculos, viu passar todas as civilizações." },
+        { "level": "C1-C2", "fr": "Ce port, fondé par les Grecs, demeure l'un des plus actifs de la Méditerranée.", "pt": "Este porto, fundado pelos gregos, continua sendo um dos mais ativos do Mediterrâneo." }
+      ]
+    },
+    {
+      "term": "le pêcheur",
+      "definitionPt": "o pescador",
+      "definitionFr": "Personne dont le métier est de pêcher.",
+      "inflections": ["le pêcheur", "les pêcheurs"],
+      "ptTargets": ["pescador"],
+      "examples": [
+        { "level": "A1", "fr": "Le pêcheur est sur le bateau.", "pt": "O pescador está no barco." },
+        { "level": "A2-B1", "fr": "Les pêcheurs vendent leur poisson au Vieux-Port.", "pt": "Os pescadores vendem seu peixe no Porto Velho." },
+        { "level": "B1-B2", "fr": "Les pêcheurs, qui connaissent chaque courant, guident les visiteurs en mer.", "pt": "Os pescadores, que conhecem cada corrente, guiam os visitantes no mar." },
+        { "level": "C1-C2", "fr": "C'est par les pêcheurs que se transmet la mémoire maritime de Marseille.", "pt": "É pelos pescadores que se transmite a memória marítima de Marseille." }
+      ]
+    },
+    {
+      "term": "le phare",
+      "definitionPt": "o farol",
+      "definitionFr": "Tour qui guide les navires avec sa lumière.",
+      "inflections": ["le phare", "les phares"],
+      "ptTargets": ["farol"],
+      "examples": [
+        { "level": "A1", "fr": "Le phare est haut.", "pt": "O farol é alto." },
+        { "level": "A2-B1", "fr": "Le phare guide les bateaux la nuit.", "pt": "O farol guia os barcos à noite." },
+        { "level": "B1-B2", "fr": "Le phare, qui domine la côte, est visible à des kilomètres.", "pt": "O farol, que domina a costa, é visível a quilômetros." },
+        { "level": "C1-C2", "fr": "C'est par le phare que les navires sont conduits en toute sécurité vers le port.", "pt": "É pelo farol que os navios são conduzidos em segurança até o porto." }
+      ]
+    },
+    {
+      "term": "la flotte",
+      "definitionPt": "a frota",
+      "definitionFr": "Ensemble des bateaux d'un port.",
+      "inflections": ["la flotte", "les flottes"],
+      "ptTargets": ["frota"],
+      "examples": [
+        { "level": "A1", "fr": "La flotte est grande.", "pt": "A frota é grande." },
+        { "level": "A2-B1", "fr": "La flotte du port est nombreuse.", "pt": "A frota do porto é numerosa." },
+        { "level": "B1-B2", "fr": "La flotte, qui se renouvelle sans cesse, témoigne de l'activité du port.", "pt": "A frota, que se renova sem parar, testemunha a atividade do porto." },
+        { "level": "C1-C2", "fr": "C'est par la flotte de pêche que se mesure la vitalité du Vieux-Port.", "pt": "É pela frota de pesca que se mede a vitalidade do Porto Velho." }
+      ]
+    },
+    {
+      "term": "la calanque",
+      "definitionPt": "a calanque (enseada rochosa)",
+      "definitionFr": "Petite baie rocheuse entre des falaises.",
+      "inflections": ["la calanque", "les calanques"],
+      "ptTargets": ["calanque", "enseada"],
+      "examples": [
+        { "level": "A1", "fr": "La calanque est belle.", "pt": "A calanque é bonita." },
+        { "level": "A2-B1", "fr": "Les calanques sont protégées par un parc national.", "pt": "As calanques são protegidas por um parque nacional." },
+        { "level": "B1-B2", "fr": "Les calanques, qui s'étendent jusqu'à Cassis, offrent des eaux turquoise.", "pt": "As calanques, que se estendem até Cassis, oferecem águas turquesa." },
+        { "level": "C1-C2", "fr": "C'est par la mer que les calanques se découvrent dans toute leur majesté.", "pt": "É pelo mar que as calanques se descobrem em toda sua majestade." }
+      ]
+    },
+    {
+      "term": "le parc national",
+      "definitionPt": "o parque nacional",
+      "definitionFr": "Espace naturel protégé.",
+      "inflections": ["le parc national", "les parcs nationaux"],
+      "ptTargets": ["parque nacional"],
+      "examples": [
+        { "level": "A1", "fr": "Le parc national est vert.", "pt": "O parque nacional é verde." },
+        { "level": "A2-B1", "fr": "Les calanques sont dans un parc national.", "pt": "As calanques ficam num parque nacional." },
+        { "level": "B1-B2", "fr": "Le parc national, créé en 2012, protège une faune et une flore uniques.", "pt": "O parque nacional, criado em 2012, protege uma fauna e uma flora únicas." },
+        { "level": "C1-C2", "fr": "C'est par le parc national que la beauté des calanques est préservée pour les générations futures.", "pt": "É pelo parque nacional que a beleza das calanques é preservada para as gerações futuras." }
+      ]
+    },
+    {
+      "term": "fréquenter",
+      "definitionPt": "frequentar",
+      "definitionFr": "Aller souvent dans un lieu.",
+      "inflections": ["je fréquente", "nous fréquentons"],
+      "ptTargets": ["frequentar", "frequentado"],
+      "examples": [
+        { "level": "A1", "fr": "Je fréquente la plage.", "pt": "Eu frequento a praia." },
+        { "level": "A2-B1", "fr": "Le port a été fréquenté par les Grecs.", "pt": "O porto foi frequentado pelos gregos." },
+        { "level": "B1-B2", "fr": "Le Vieux-Port, fréquenté depuis des siècles, garde l'empreinte de chaque époque.", "pt": "O Porto Velho, frequentado há séculos, guarda a marca de cada época." },
+        { "level": "C1-C2", "fr": "C'est en fréquentant les quais que l'on comprend l'âme cosmopolite de Marseille.", "pt": "É frequentando os cais que se compreende a alma cosmopolita de Marseille." }
+      ]
+    },
+    {
+      "term": "l'île",
+      "definitionPt": "a ilha",
+      "definitionFr": "Terre entourée d'eau.",
+      "inflections": ["l'île", "les îles"],
+      "ptTargets": ["ilha"],
+      "examples": [
+        { "level": "A1", "fr": "L'île est petite.", "pt": "A ilha é pequena." },
+        { "level": "A2-B1", "fr": "Le château d'If se trouve sur une île.", "pt": "O castelo de If fica numa ilha." },
+        { "level": "B1-B2", "fr": "L'île, située au large, est accessible en bateau.", "pt": "A ilha, situada ao largo, é acessível de barco." },
+        { "level": "C1-C2", "fr": "C'est sur cette île que Dumas a situé la prison de Monte-Cristo.", "pt": "É nessa ilha que Dumas situou a prisão de Monte Cristo." }
+      ]
+    },
+    {
+      "term": "le roman",
+      "definitionPt": "o romance",
+      "definitionFr": "Œuvre littéraire en prose.",
+      "inflections": ["le roman", "les romans"],
+      "ptTargets": ["romance"],
+      "examples": [
+        { "level": "A1", "fr": "Le roman est intéressant.", "pt": "O romance é interessante." },
+        { "level": "A2-B1", "fr": "Le Comte de Monte-Cristo est un roman célèbre.", "pt": "O Conde de Monte Cristo é um romance famoso." },
+        { "level": "B1-B2", "fr": "Le roman, écrit par Dumas, a rendu le château célèbre.", "pt": "O romance, escrito por Dumas, tornou o castelo famoso." },
+        { "level": "C1-C2", "fr": "C'est par ce roman que Marseille est entrée dans l'imaginaire littéraire mondial.", "pt": "É por esse romance que Marseille entrou no imaginário literário mundial." }
+      ]
+    },
+    {
+      "term": "au large",
+      "definitionPt": "ao largo, em alto-mar",
+      "definitionFr": "Loin de la côte, en pleine mer.",
+      "inflections": ["au large"],
+      "ptTargets": ["ao largo", "em alto-mar"],
+      "examples": [
+        { "level": "A1", "fr": "Le bateau est au large.", "pt": "O barco está ao largo." },
+        { "level": "A2-B1", "fr": "L'île du château d'If est au large.", "pt": "A ilha do castelo de If fica ao largo." },
+        { "level": "B1-B2", "fr": "Le navire, qui navigue au large, est guidé par le phare.", "pt": "O navio, que navega ao largo, é guiado pelo farol." },
+        { "level": "C1-C2", "fr": "C'est au large de Marseille que s'étendent les îles du Frioul.", "pt": "É ao largo de Marseille que se estendem as ilhas do Frioul." }
+      ]
+    },
+    {
+      "term": "le marin",
+      "definitionPt": "o marinheiro",
+      "definitionFr": "Personne qui travaille sur un bateau.",
+      "inflections": ["le marin", "les marins"],
+      "ptTargets": ["marinheiro"],
+      "examples": [
+        { "level": "A1", "fr": "Le marin navigue.", "pt": "O marinheiro navega." },
+        { "level": "A2-B1", "fr": "Marseille a été fondée par des marins grecs.", "pt": "Marseille foi fundada por marinheiros gregos." },
+        { "level": "B1-B2", "fr": "Les marins, guidés par les étoiles, ont fondé la ville il y a 2 600 ans.", "pt": "Os marinheiros, guiados pelas estrelas, fundaram a cidade há 2.600 anos." },
+        { "level": "C1-C2", "fr": "C'est par les marins phocéens que la plus ancienne ville de France fut fondée.", "pt": "É pelos marinheiros fócios que a mais antiga cidade da França foi fundada." }
+      ]
+    },
+    {
+      "term": "demeurer",
+      "definitionPt": "permanecer, continuar sendo",
+      "definitionFr": "Rester, continuer d'être.",
+      "inflections": ["je demeure", "nous demeurons"],
+      "ptTargets": ["permanecer", "continuar sendo"],
+      "examples": [
+        { "level": "A1", "fr": "Je demeure à Marseille.", "pt": "Eu moro em Marseille." },
+        { "level": "A2-B1", "fr": "Marseille demeure la plus ancienne ville de France.", "pt": "Marseille continua sendo a cidade mais antiga da França." },
+        { "level": "B1-B2", "fr": "Le port demeure, malgré les siècles, un lieu de passage et d'échange.", "pt": "O porto permanece, apesar dos séculos, um lugar de passagem e troca." },
+        { "level": "C1-C2", "fr": "C'est en demeurant fidèle à la mer que Marseille a traversé les siècles.", "pt": "É permanecendo fiel ao mar que Marseille atravessou os séculos." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "La voix passive : le port a été fondé par les Phocéens",
+    "explanationPt": "A voz passiva transforma a frase colocando o objeto como sujeito: 'Les Phocéens ont fondé la ville' → 'La ville a été fondée par les Phocéens'. Formação: être (no tempo da ativa) + particípio passado + par (agente). Usa-se para focar a ação, não quem a faz.",
+    "exampleFr": "Marseille a été fondée par les marins grecs il y a plus de 2 600 ans.",
+    "examplePt": "Marseille foi fundada por marinheiros gregos há mais de 2.600 anos.",
+    "practiceQuestion": "Complete: « La ville ___ été fondée par les Phocéens. »",
+    "options": ["a", "est", "était"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "Le passif avec 'par' (agent)",
+        "explanationPt": "O agente é introduzido por 'par': 'les calanques sont protégées par le parc national', 'la flotte est conduite par le phare'.",
+        "exampleFr": "Les calanques sont protégées par le parc national depuis 2012.",
+        "examplePt": "As calanques são protegidas pelo parque nacional desde 2012.",
+        "practiceQuestion": "Complete: « Les calanques sont protégées ___ le parc national. »",
+        "options": ["par", "pour", "de"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "L'accord du participe au passif",
+        "explanationPt": "Com 'être', o particípio concorda com o sujeito: 'la ville a été fondée' (f.), 'le port a été fréquenté' (m.), 'les îles sont protégées' (pl.).",
+        "exampleFr": "La ville a été fondée par les Grecs ; les îles sont protégées par la loi.",
+        "examplePt": "A cidade foi fundada pelos gregos; as ilhas são protegidas por lei.",
+        "practiceQuestion": "Complete: « Les calanques ont été ___, protégées par la loi. »",
+        "options": ["créées", "créé", "créés"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Quem fundou Marseille?",
+      "options": ["os marinheiros gregos", "os romanos", "os vikings"],
+      "correctIndex": 0,
+      "explanation": "Marseille foi fundada por marinheiros gregos (fócios) há mais de 2.600 anos."
+    },
+    {
+      "question": "Qual é a idade de Marseille?",
+      "options": ["mais de 2.600 anos", "500 anos", "100 anos"],
+      "correctIndex": 0,
+      "explanation": "Marseille tem mais de 2.600 anos, sendo a mais antiga cidade da França."
+    },
+    {
+      "question": "O que protege as calanques desde 2012?",
+      "options": ["o parque nacional", "o exército", "a prefeitura"],
+      "correctIndex": 0,
+      "explanation": "As calanques são protegidas pelo parque nacional desde 2012."
+    },
+    {
+      "question": "Complete: « La ville ___ été fondée par les Phocéens. »",
+      "options": ["a", "est", "était"],
+      "correctIndex": 0,
+      "explanation": "Voz passiva no passé composé: a été fondée."
+    },
+    {
+      "question": "Onde fica o château d'If?",
+      "options": ["numa ilha ao largo", "no centro da cidade", "nas montanhas"],
+      "correctIndex": 0,
+      "explanation": "O castelo de If fica numa ilha ao largo de Marseille, famoso pelo romance de Dumas."
+    }
+  ]
+}

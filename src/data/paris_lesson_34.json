@@ -1,0 +1,252 @@
+{
+  "id": "paris_lesson_34",
+  "cityId": "paris",
+  "domain": "Festa & Família",
+  "level": "Iniciante (A1)",
+  "titleFr": "L'anniversaire d'Iris",
+  "titlePt": "O aniversário de Íris",
+  "subtitleFr": "Le gâteau, les bougies et les cadeaux",
+  "subtitlePt": "O bolo, as velinhas e os presentes",
+  "summaryPt": "Nesta Aula 34 (A1), é o aniversário de Íris e a família prepara uma fête. O aluno aprende o vocabulário da festa (anniversaire, cadeau, gâteau, bougie, fête, inviter, jouet) e a expressão 'joyeux anniversaire' com o verbo 'chanter'.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Aujourd'hui, c'est l'anniversaire d'Iris ! Elle a six ans. La maison est décorée de ballons et de fleurs. Andréa prépare un grand gâteau au chocolat. « On invite les amis de l'école ? » demande Iris, très contente.",
+      "pt": "Hoje é o aniversário de Íris! Ela faz seis anos. A casa está decorada com balões e flores. Andréa prepara um grande bolo de chocolate. « A gente convida os amigos da escola? » pergunta Íris, muito contente."
+    },
+    {
+      "id": 2,
+      "fr": "Les amis arrivent avec des cadeaux. « Joyeux anniversaire, Iris ! » crient-ils. Iris ouvre un joli paquet : c'est un jouet, un petit train en bois. « Merci beaucoup ! » dit-elle. « C'est exactement ce que je voulais ! »",
+      "pt": "Os amigos chegam com presentes. « Feliz aniversário, Íris! » gritam eles. Íris abre um pacote bonito: é um brinquedo, um trenzinho de madeira. « Muito obrigada! » diz ela. « É exatamente o que eu queria! »"
+    },
+    {
+      "id": 3,
+      "fr": "Andréa apporte le gâteau avec six bougies allumées. Tout le monde chante : « Joyeux anniversaire, Iris ! » Iris ferme les yeux, fait un vœu et souffle les bougies. « Bravo ! » crient les amis. Tout le monde applaudit.",
+      "pt": "Andréa traz o bolo com seis velinhas acesas. Todos cantam: « Feliz aniversário, Íris! » Íris fecha os olhos, faz um pedido e sopra as velinhas. « Bravo! » gritam os amigos. Todos aplaudem."
+    },
+    {
+      "id": 4,
+      "fr": "Après le gâteau, les enfants jouent dans le salon. Iris embrasse ses parents : « Merci, maman. Merci, papa. C'est la plus belle journée ! » Irlan sourit : « Chaque année, c'est un cadeau pour nous aussi. »",
+      "pt": "Depois do bolo, as crianças brincam na sala. Íris abraça e beija os pais: « Obrigada, mamãe. Obrigada, papai. É o dia mais lindo! » Irlan sorri: « A cada ano, é um presente para nós também. »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "l'anniversaire",
+      "definitionPt": "o aniversário",
+      "definitionFr": "Jour où l'on fête sa naissance.",
+      "inflections": ["l'anniversaire", "un anniversaire", "des anniversaires"],
+      "ptTargets": ["aniversário"],
+      "examples": [
+        { "level": "A1", "fr": "Aujourd'hui, c'est mon anniversaire.", "pt": "Hoje é meu aniversário." },
+        { "level": "A2-B1", "fr": "L'anniversaire d'Iris est en juin.", "pt": "O aniversário de Íris é em junho." },
+        { "level": "B2", "fr": "L'anniversaire, fêté en famille, est un moment précieux.", "pt": "O aniversário, celebrado em família, é um momento precioso." },
+        { "level": "C1-C2", "fr": "C'est l'anniversaire qui, chaque année, rappelle le chemin parcouru.", "pt": "É o aniversário que, a cada ano, lembra o caminho percorrido." }
+      ]
+    },
+    {
+      "term": "le cadeau",
+      "definitionPt": "o presente",
+      "definitionFr": "Objet offert.",
+      "inflections": ["le cadeau", "un cadeau", "des cadeaux"],
+      "ptTargets": ["presente"],
+      "examples": [
+        { "level": "A1", "fr": "Le cadeau est joli.", "pt": "O presente é bonito." },
+        { "level": "A2-B1", "fr": "Les amis apportent des cadeaux.", "pt": "Os amigos trazem presentes." },
+        { "level": "B2", "fr": "Le plus beau cadeau n'est pas toujours le plus cher.", "pt": "O presente mais bonito nem sempre é o mais caro." },
+        { "level": "C1-C2", "fr": "C'est le cadeau qui, choisi avec attention, parle de celui qui l'offre.", "pt": "É o presente que, escolhido com atenção, fala de quem o dá." }
+      ]
+    },
+    {
+      "term": "le gâteau",
+      "definitionPt": "o bolo",
+      "definitionFr": "Pâtisserie sucrée.",
+      "inflections": ["le gâteau", "un gâteau", "des gâteaux"],
+      "ptTargets": ["bolo"],
+      "examples": [
+        { "level": "A1", "fr": "Le gâteau est au chocolat.", "pt": "O bolo é de chocolate." },
+        { "level": "A2-B1", "fr": "Andréa prépare un grand gâteau.", "pt": "Andréa prepara um grande bolo." },
+        { "level": "B2", "fr": "Le gâteau d'anniversaire, décoré, est le roi de la fête.", "pt": "O bolo de aniversário, decorado, é o rei da festa." },
+        { "level": "C1-C2", "fr": "C'est le gâteau qui, partagé, scelle les moments de joie.", "pt": "É o bolo que, partilhado, sela os momentos de alegria." }
+      ]
+    },
+    {
+      "term": "la bougie",
+      "definitionPt": "a vela (velinha)",
+      "definitionFr": "Petite bougie pour décorer le gâteau.",
+      "inflections": ["la bougie", "une bougie", "des bougies"],
+      "ptTargets": ["vela", "velinha"],
+      "examples": [
+        { "level": "A1", "fr": "Il y a six bougies sur le gâteau.", "pt": "Há seis velinhas no bolo." },
+        { "level": "A2-B1", "fr": "Iris souffle les bougies.", "pt": "Íris sopra as velinhas." },
+        { "level": "B2", "fr": "Les bougies, allumées, éclairent le vœu de l'année.", "pt": "As velinhas, acesas, iluminam o pedido do ano." },
+        { "level": "C1-C2", "fr": "C'est la bougie qui, soufflée, scelle le secret du vœu.", "pt": "É a velinha que, soprada, sela o segredo do pedido." }
+      ]
+    },
+    {
+      "term": "la fête",
+      "definitionPt": "a festa",
+      "definitionFr": "Célébration joyeuse.",
+      "inflections": ["la fête", "une fête", "des fêtes"],
+      "ptTargets": ["festa"],
+      "examples": [
+        { "level": "A1", "fr": "La fête est belle.", "pt": "A festa é bonita." },
+        { "level": "A2-B1", "fr": "La maison est décorée pour la fête.", "pt": "A casa está decorada para a festa." },
+        { "level": "B2", "fr": "Les fêtes, partagées, renforcent les liens de famille.", "pt": "As festas, partilhadas, reforçam os laços de família." },
+        { "level": "C1-C2", "fr": "C'est la fête qui, préparée avec amour, reste dans les mémoires.", "pt": "É a festa que, preparada com amor, fica nas memórias." }
+      ]
+    },
+    {
+      "term": "inviter",
+      "definitionPt": "convidar",
+      "definitionFr": "Demander à quelqu'un de venir.",
+      "inflections": ["inviter", "j'invite", "nous invitons"],
+      "ptTargets": ["convidar"],
+      "examples": [
+        { "level": "A1", "fr": "J'invite mes amis.", "pt": "Eu convido meus amigos." },
+        { "level": "A2-B1", "fr": "La famille invite les amis de l'école.", "pt": "A família convida os amigos da escola." },
+        { "level": "B2", "fr": "On invite les voisins pour la fête.", "pt": "Convida-se os vizinhos para a festa." },
+        { "level": "C1-C2", "fr": "C'est en invitant que l'on ouvre sa porte et son cœur.", "pt": "É convidando que se abre a porta e o coração." }
+      ]
+    },
+    {
+      "term": "chanter",
+      "definitionPt": "cantar",
+      "definitionFr": "Produire une mélodie avec la voix.",
+      "inflections": ["chanter", "je chante", "nous chantons"],
+      "ptTargets": ["cantar"],
+      "examples": [
+        { "level": "A1", "fr": "Je chante une chanson.", "pt": "Eu canto uma canção." },
+        { "level": "A2-B1", "fr": "Tout le monde chante « Joyeux anniversaire ».", "pt": "Todos cantam « Feliz aniversário »." },
+        { "level": "B2", "fr": "Chanter ensemble rapproche les gens.", "pt": "Cantar juntos aproxima as pessoas." },
+        { "level": "C1-C2", "fr": "C'est en chantant que l'on célèbre la vie.", "pt": "É cantando que se celebra a vida." }
+      ]
+    },
+    {
+      "term": "souffler",
+      "definitionPt": "soprar",
+      "definitionFr": "Expirer de l'air.",
+      "inflections": ["souffler", "je souffle", "nous soufflons"],
+      "ptTargets": ["soprar"],
+      "examples": [
+        { "level": "A1", "fr": "Je souffle les bougies.", "pt": "Eu sopro as velinhas." },
+        { "level": "A2-B1", "fr": "Iris souffle les six bougies.", "pt": "Íris sopra as seis velinhas." },
+        { "level": "B2", "fr": "Elle ferme les yeux et souffle en faisant un vœu.", "pt": "Ela fecha os olhos e sopra fazendo um pedido." },
+        { "level": "C1-C2", "fr": "C'est en soufflant que l'on clôt l'année et l'on ouvre la suivante.", "pt": "É soprando que se encerra o ano e se abre o seguinte." }
+      ]
+    },
+    {
+      "term": "joyeux",
+      "definitionPt": "feliz (alegre)",
+      "definitionFr": "Qui exprime la joie.",
+      "inflections": ["joyeux", "joyeuse", "joyeux", "joyeuses"],
+      "ptTargets": ["feliz", "alegre"],
+      "examples": [
+        { "level": "A1", "fr": "Joyeux anniversaire !", "pt": "Feliz aniversário!" },
+        { "level": "A2-B1", "fr": "Les enfants sont joyeux.", "pt": "As crianças estão alegres." },
+        { "level": "B2", "fr": "Une fête joyeuse réchauffe le cœur.", "pt": "Uma festa alegre aquece o coração." },
+        { "level": "C1-C2", "fr": "C'est la joie, partagée, qui rend la fête inoubliable.", "pt": "É a alegria, partilhada, que torna a festa inesquecível." }
+      ]
+    },
+    {
+      "term": "l'ami",
+      "definitionPt": "o amigo",
+      "definitionFr": "Personne que l'on aime.",
+      "inflections": ["l'ami", "un ami", "des amis"],
+      "ptTargets": ["amigo"],
+      "examples": [
+        { "level": "A1", "fr": "L'ami est gentil.", "pt": "O amigo é gentil." },
+        { "level": "A2-B1", "fr": "Les amis d'Iris viennent à la fête.", "pt": "Os amigos de Íris vêm à festa." },
+        { "level": "B2", "fr": "Les amis, fidèles, sont une famille choisie.", "pt": "Os amigos, fiéis, são uma família escolhida." },
+        { "level": "C1-C2", "fr": "C'est l'ami qui, présent dans les bons jours, l'est aussi dans les autres.", "pt": "É o amigo que, presente nos bons dias, também o está nos outros." }
+      ]
+    },
+    {
+      "term": "le jouet",
+      "definitionPt": "o brinquedo",
+      "definitionFr": "Objet pour jouer.",
+      "inflections": ["le jouet", "un jouet", "des jouets"],
+      "ptTargets": ["brinquedo"],
+      "examples": [
+        { "level": "A1", "fr": "Le jouet est en bois.", "pt": "O brinquedo é de madeira." },
+        { "level": "A2-B1", "fr": "Iris reçoit un joli jouet.", "pt": "Íris recebe um lindo brinquedo." },
+        { "level": "B2", "fr": "Les jouets, partagés, deviennent plus amusants.", "pt": "Os brinquedos, partilhados, ficam mais divertidos." },
+        { "level": "C1-C2", "fr": "C'est le jouet qui, offert, raconte l'enfance et l'amitié.", "pt": "É o brinquedo que, oferecido, conta a infância e a amizade." }
+      ]
+    },
+    {
+      "term": "embrasser",
+      "definitionPt": "beijar (abraçar)",
+      "definitionFr": "Donner un baiser, serrer dans les bras.",
+      "inflections": ["embrasser", "j'embrasse", "nous embrassons"],
+      "ptTargets": ["beijar", "abraçar"],
+      "examples": [
+        { "level": "A1", "fr": "J'embrasse ma maman.", "pt": "Eu beijo minha mãe." },
+        { "level": "A2-B1", "fr": "Iris embrasse ses parents.", "pt": "Íris beija os pais." },
+        { "level": "B2", "fr": "On embrasse ses proches pour dire merci.", "pt": "Beija-se os entes queridos para dizer obrigado." },
+        { "level": "C1-C2", "fr": "C'est en embrassant que l'on dit l'amour sans mots.", "pt": "É beijando que se diz o amor sem palavras." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Joyeux anniversaire : os cumprimentos",
+    "explanationPt": "Cumprimentos de festa: 'Joyeux anniversaire !' (feliz aniversário!), 'Bonne fête !' (feliz festa!), 'Félicitations !' (parabéns!), 'Bravo !' (bravo!). Ex.: 'Tout le monde chante : Joyeux anniversaire !'",
+    "exampleFr": "Tout le monde chante : « Joyeux anniversaire, Iris ! »",
+    "examplePt": "Todos cantam: « Feliz aniversário, Íris! »",
+    "practiceQuestion": "Complete: '_____ anniversaire, Iris !'",
+    "options": ["Joyeux", "Joyeuse", "Joyeusement"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "Avoir + âge : a idade",
+        "explanationPt": "Na França, diz-se 'j'ai six ans' (tenho seis anos) — com o verbo 'avoir', não 'être'. Ex.: 'Elle a six ans.'",
+        "exampleFr": "Aujourd'hui, c'est l'anniversaire d'Iris ! Elle a six ans.",
+        "examplePt": "Hoje é o aniversário de Íris! Ela tem seis anos.",
+        "practiceQuestion": "Complete: 'Elle _____ six ans.'",
+        "options": ["a", "est", "fait"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "Faire un vœu : fazer um pedido",
+        "explanationPt": "Expressão da festa: 'faire un vœu' (fazer um pedido) antes de soprar as velas. Ex.: 'Iris ferme les yeux, fait un vœu et souffle les bougies.'",
+        "exampleFr": "Iris ferme les yeux, fait un vœu et souffle les bougies.",
+        "examplePt": "Íris fecha os olhos, faz um pedido e sopra as velinhas.",
+        "practiceQuestion": "Complete: 'Iris fait un _____ et souffle les bougies.'",
+        "options": ["vœu", "veu", "vaux"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Quantos anos Íris faz?",
+      "options": ["seis anos", "dez anos", "três anos"],
+      "correctIndex": 0,
+      "explanation": "Elle a six ans."
+    },
+    {
+      "question": "O que Íris recebe de presente?",
+      "options": ["um trenzinho de madeira", "um gato", "um relógio"],
+      "correctIndex": 0,
+      "explanation": "C'est un jouet, un petit train en bois."
+    },
+    {
+      "question": "O que Íris faz antes de soprar as velinhas?",
+      "options": ["fecha os olhos e faz um pedido", "corre pela casa", "canta sozinha"],
+      "correctIndex": 0,
+      "explanation": "Elle ferme les yeux, fait un vœu et souffle les bougies."
+    },
+    {
+      "question": "Complete: '_____ anniversaire, Iris !'",
+      "options": ["Joyeux", "Joyeuse", "Joyeusement"],
+      "correctIndex": 0,
+      "explanation": "Joyeux anniversaire: feliz aniversário."
+    },
+    {
+      "question": "Complete: 'Elle _____ six ans.'",
+      "options": ["a", "est", "fait"],
+      "correctIndex": 0,
+      "explanation": "Em francês, a idade usa avoir: elle a six ans."
+    }
+  ]
+}

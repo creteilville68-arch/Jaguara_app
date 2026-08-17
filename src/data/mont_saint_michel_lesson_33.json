@@ -1,0 +1,252 @@
+{
+  "id": "mont_saint_michel_lesson_33",
+  "cityId": "mont-saint-michel",
+  "domain": "Gastronomia",
+  "level": "Básico (A2/B1)",
+  "titleFr": "La cuisine normande : cidre, camembert et trou normand",
+  "titlePt": "A cozinha normanda: cidra, camembert e trou normand",
+  "subtitleFr": "Les pommes, la crème et le calvados : les trésors de la Normandie",
+  "subtitlePt": "As maçãs, o creme e o calvados: os tesouros da Normandia",
+  "summaryPt": "Nesta Aula 33 (A2/B1), a família descobre a cozinha da Normandia: o cidre feito de maçãs, o camembert cremoso e o trou normand, um gole de calvados entre os pratos. O aluno pratica o vocabulário da comida e os hábitos no imparfait (on buvait le cidre, on mangeait le camembert).",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "« La Normandie est le pays des pommes », a dit Andréa. « Avec les pommes, on fait le cidre et le calvados. » Le serveur a apporté une bouteille de cidre.",
+      "pt": "« A Normandia é o país das maçãs », disse Andréa. « Com as maçãs, faz-se a cidra e o calvados. » O garçom trouxe uma garrafa de cidra."
+    },
+    {
+      "id": 2,
+      "fr": "« Le camembert est né ici, en Normandie », a expliqué Irlan. « Il est crémeux et on le mange avec du pain. » Íris a fait une petite grimace, puis elle a souri.",
+      "pt": "« O camembert nasceu aqui, na Normandia », explicou Irlan. « Ele é cremoso e se come com pão. » Íris fez uma careta, depois sorriu."
+    },
+    {
+      "id": 3,
+      "fr": "« Autrefois, les gens buvaient du cidre au repas », a raconté Andréa. « Et entre le plat et le dessert, ils prenaient un trou normand pour avoir encore faim. »",
+      "pt": "« Antigamente, as pessoas bebiam cidra nas refeições », contou Andréa. « E entre o prato e a sobremesa, tomavam um trou normand para continuar com fome. »"
+    },
+    {
+      "id": 4,
+      "fr": "Irlan a goûté le camembert : « C'est fort, mais c'est bon ! » Andréa a ri : « Quand j'étais petite, ma grand-mère disait : un repas sans camembert est un repas triste. »",
+      "pt": "Irlan provou o camembert: « É forte, mas é bom! » Andréa riu: « Quando eu era pequena, minha avó dizia: uma refeição sem camembert é uma refeição triste. »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "le cidre",
+      "definitionPt": "a cidra",
+      "definitionFr": "Boisson faite avec des pommes.",
+      "inflections": ["le cidre", "un cidre", "des cidres"],
+      "ptTargets": ["cidra"],
+      "examples": [
+        { "level": "A1", "fr": "Le cidre est doré.", "pt": "A cidra é dourada." },
+        { "level": "A2-B1", "fr": "Le cidre vient des pommes.", "pt": "A cidra vem das maçãs." },
+        { "level": "B2", "fr": "Le cidre normand accompagne parfaitement les crêpes.", "pt": "A cidra normanda acompanha perfeitamente as crepes." },
+        { "level": "C1-C2", "fr": "Le cidre, pétillant et fruité, est la fierté des vergers normands.", "pt": "A cidra, espumante e frutada, é o orgulho dos pomares normandos." }
+      ]
+    },
+    {
+      "term": "le camembert",
+      "definitionPt": "o camembert (queijo)",
+      "definitionFr": "Fromage crémeux de Normandie.",
+      "inflections": ["le camembert", "un camembert", "des camemberts"],
+      "ptTargets": ["camembert"],
+      "examples": [
+        { "level": "A1", "fr": "Le camembert est blanc.", "pt": "O camembert é branco." },
+        { "level": "A2-B1", "fr": "Le camembert est né en Normandie.", "pt": "O camembert nasceu na Normandia." },
+        { "level": "B2", "fr": "Un camembert coulant et crémeux, c'est un régal.", "pt": "Um camembert cremoso é um deleite." },
+        { "level": "C1-C2", "fr": "Le camembert, humble fromage de ferme, est devenu un symbole national.", "pt": "O camembert, humilde queijo de fazenda, tornou-se um símbolo nacional." }
+      ]
+    },
+    {
+      "term": "la pomme",
+      "definitionPt": "a maçã",
+      "definitionFr": "Fruit du pommier.",
+      "inflections": ["la pomme", "une pomme", "des pommes"],
+      "ptTargets": ["maçã"],
+      "examples": [
+        { "level": "A1", "fr": "La pomme est rouge.", "pt": "A maçã é vermelha." },
+        { "level": "A2-B1", "fr": "La Normandie est le pays des pommes.", "pt": "A Normandia é o país das maçãs." },
+        { "level": "B2", "fr": "Les pommes de la région servent à faire le cidre.", "pt": "As maçãs da região servem para fazer a cidra." },
+        { "level": "C1-C2", "fr": "Dans les vergers normands, chaque pomme a son destin : cidre, calvados ou tarte.", "pt": "Nos pomares normandos, cada maçã tem seu destino: cidra, calvados ou torta." }
+      ]
+    },
+    {
+      "term": "crémeux",
+      "definitionPt": "cremoso",
+      "definitionFr": "Riche en crème, onctueux.",
+      "inflections": ["crémeux", "crémeuse", "crémeux"],
+      "ptTargets": ["cremoso"],
+      "examples": [
+        { "level": "A1", "fr": "Le gâteau est crémeux.", "pt": "O bolo é cremoso." },
+        { "level": "A2-B1", "fr": "Le camembert est crémeux et doux.", "pt": "O camembert é cremoso e suave." },
+        { "level": "B2", "fr": "La crème normande, épaisse et crémeuse, est célèbre.", "pt": "O creme normando, espesso e cremoso, é famoso." },
+        { "level": "C1-C2", "fr": "Crémeux à souhait, ce fromage fond sur le pain comme un nuage.", "pt": "Cremosíssimo, este queijo derrete no pão como uma nuvem." }
+      ]
+    },
+    {
+      "term": "le calvados",
+      "definitionPt": "o calvados (aguardente de maçã)",
+      "definitionFr": "Alcool de pommes de Normandie.",
+      "inflections": ["le calvados", "un calvados", "des calvados"],
+      "ptTargets": ["calvados"],
+      "examples": [
+        { "level": "A1", "fr": "Le calvados est fort.", "pt": "O calvados é forte." },
+        { "level": "A2-B1", "fr": "Le calvados est fait avec des pommes.", "pt": "O calvados é feito com maçãs." },
+        { "level": "B2", "fr": "Le trou normand est un petit verre de calvados.", "pt": "O trou normand é um copinho de calvados." },
+        { "level": "C1-C2", "fr": "Le calvados, brûlant et doré, réveille l'appétit entre deux plats.", "pt": "O calvados, ardente e dourado, desperta o apetite entre dois pratos." }
+      ]
+    },
+    {
+      "term": "le trou normand",
+      "definitionPt": "o trou normand (gole de calvados entre pratos)",
+      "definitionFr": "Petit verre d'alcool entre deux plats.",
+      "inflections": ["le trou normand", "un trou normand", "des trous normands"],
+      "ptTargets": ["trou normand"],
+      "examples": [
+        { "level": "A1", "fr": "Le trou normand est petit.", "pt": "O trou normand é pequeno." },
+        { "level": "A2-B1", "fr": "On prend un trou normand entre le plat et le dessert.", "pt": "Toma-se um trou normand entre o prato e a sobremesa." },
+        { "level": "B2", "fr": "Le trou normand aide à avoir encore faim.", "pt": "O trou normand ajuda a continuar com fome." },
+        { "level": "C1-C2", "fr": "Le trou normand est une tradition qui ouvre un appétit nouveau.", "pt": "O trou normand é uma tradição que abre um apetite novo." }
+      ]
+    },
+    {
+      "term": "la crème",
+      "definitionPt": "o creme, a nata",
+      "definitionFr": "Lait gras et épais.",
+      "inflections": ["la crème", "une crème", "des crèmes"],
+      "ptTargets": ["creme", "nata"],
+      "examples": [
+        { "level": "A1", "fr": "La crème est blanche.", "pt": "O creme é branco." },
+        { "level": "A2-B1", "fr": "La crème normande est très épaisse.", "pt": "O creme normando é muito espesso." },
+        { "level": "B2", "fr": "Les Normands mettent de la crème partout !", "pt": "Os normandos colocam creme em tudo!" },
+        { "level": "C1-C2", "fr": "La crème normande transforme les plats les plus simples.", "pt": "O creme normando transforma os pratos mais simples." }
+      ]
+    },
+    {
+      "term": "le fromage",
+      "definitionPt": "o queijo",
+      "definitionFr": "Aliment fait avec du lait.",
+      "inflections": ["le fromage", "un fromage", "des fromages"],
+      "ptTargets": ["queijo"],
+      "examples": [
+        { "level": "A1", "fr": "J'aime le fromage.", "pt": "Gosto de queijo." },
+        { "level": "A2-B1", "fr": "La France est le pays des fromages.", "pt": "A França é o país dos queijos." },
+        { "level": "B2", "fr": "Le camembert est un fromage normand célèbre.", "pt": "O camembert é um queijo normando famoso." },
+        { "level": "C1-C2", "fr": "Un repas sans fromage, disait la grand-mère, est un repas triste.", "pt": "Uma refeição sem queijo, dizia a avó, é uma refeição triste." }
+      ]
+    },
+    {
+      "term": "le verger",
+      "definitionPt": "o pomar",
+      "definitionFr": "Jardin planté d'arbres fruitiers.",
+      "inflections": ["le verger", "un verger", "des vergers"],
+      "ptTargets": ["pomar"],
+      "examples": [
+        { "level": "A1", "fr": "Le verger est vert.", "pt": "O pomar é verde." },
+        { "level": "A2-B1", "fr": "Les vergers normands sont pleins de pommiers.", "pt": "Os pomares normandos são cheios de macieiras." },
+        { "level": "B2", "fr": "Au printemps, les vergers fleurissent en blanc.", "pt": "Na primavera, os pomares florescem em branco." },
+        { "level": "C1-C2", "fr": "Les vergers de la Normandie racontent la patience des saisons.", "pt": "Os pomares da Normandia contam a paciência das estações." }
+      ]
+    },
+    {
+      "term": "le repas",
+      "definitionPt": "a refeição",
+      "definitionFr": "Moment où l'on mange.",
+      "inflections": ["le repas", "un repas", "des repas"],
+      "ptTargets": ["refeição"],
+      "examples": [
+        { "level": "A1", "fr": "Le repas est prêt.", "pt": "A refeição está pronta." },
+        { "level": "A2-B1", "fr": "Autrefois, on buvait du cidre au repas.", "pt": "Antigamente, bebia-se cidra nas refeições." },
+        { "level": "B2", "fr": "Le repas normand est long et généreux.", "pt": "A refeição normanda é longa e generosa." },
+        { "level": "C1-C2", "fr": "Un bon repas normand, c'est une heure de table et une vie de souvenirs.", "pt": "Uma boa refeição normanda é uma hora de mesa e uma vida de lembranças." }
+      ]
+    },
+    {
+      "term": "la grimace",
+      "definitionPt": "a careta",
+      "definitionFr": "Expression du visage qui déforme les traits.",
+      "inflections": ["la grimace", "une grimace", "des grimaces"],
+      "ptTargets": ["careta"],
+      "examples": [
+        { "level": "A1", "fr": "La grimace est drôle.", "pt": "A careta é engraçada." },
+        { "level": "A2-B1", "fr": "Íris a fait une petite grimace, puis elle a souri.", "pt": "Íris fez uma careta, depois sorriu." },
+        { "level": "B2", "fr": "Il a fait une grimace en goûtant le fromage.", "pt": "Ele fez uma careta ao provar o queijo." },
+        { "level": "C1-C2", "fr": "La grimace de l'enfant devant le fromage est la plus honnête des critiques.", "pt": "A careta da criança diante do queijo é a mais honesta das críticas." }
+      ]
+    },
+    {
+      "term": "fort",
+      "definitionPt": "forte (sabor)",
+      "definitionFr": "Au goût puissant.",
+      "inflections": ["fort", "forte", "forts"],
+      "ptTargets": ["forte"],
+      "examples": [
+        { "level": "A1", "fr": "Le café est fort.", "pt": "O café é forte." },
+        { "level": "A2-B1", "fr": "Le camembert est fort, mais il est bon.", "pt": "O camembert é forte, mas é bom." },
+        { "level": "B2", "fr": "Ce fromage au goût fort ne plaît pas à tout le monde.", "pt": "Este queijo de sabor forte não agrada a todos." },
+        { "level": "C1-C2", "fr": "Les fromages forts cachent souvent les cœurs les plus doux.", "pt": "Os queijos fortes escondem muitas vezes os corações mais doces." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "On fait / on boit : le pronom on pour les traditions",
+    "explanationPt": "'On' para hábitos e tradições: 'on fait le cidre avec les pommes' (faz-se a cidra com maçãs), 'on boit du cidre au repas' (bebe-se cidra nas refeições).",
+    "exampleFr": "Avec les pommes, on fait le cidre et le calvados.",
+    "examplePt": "Com as maçãs, faz-se a cidra e o calvados.",
+    "practiceQuestion": "Complete: « Avec les pommes, on ___ le cidre. »",
+    "options": ["fait", "fais", "faire"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "Autrefois + imparfait : les habitudes du passé",
+        "explanationPt": "Tradições do passado: 'autrefois, les gens buvaient (IMP) du cidre au repas, et ils prenaient (IMP) un trou normand'. Hábitos = imparfait.",
+        "exampleFr": "Autrefois, on buvait du cidre au repas et on prenait un trou normand entre les plats.",
+        "examplePt": "Antigamente, bebia-se cidra nas refeições e tomava-se um trou normand entre os pratos.",
+        "practiceQuestion": "Complete: « Autrefois, les gens ___ du cidre au repas. »",
+        "options": ["buvaient", "ont bu", "boiront"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "Quand j'étais petite : le souvenir de famille",
+        "explanationPt": "'Quand j'étais (IMP) petite, ma grand-mère disait (IMP) : ...' — lembrança de infância com imparfait. As palavras da avó: 'un repas sans camembert est un repas triste'.",
+        "exampleFr": "Quand j'étais petite, ma grand-mère disait qu'un repas sans camembert est triste.",
+        "examplePt": "Quando eu era pequena, minha avó dizia que uma refeição sem camembert é triste.",
+        "practiceQuestion": "Complete: « Quand j'étais petite, ma grand-mère ___ : un repas sans camembert... »",
+        "options": ["disait", "a dit", "dira"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "O que se faz com as maçãs na Normandia?",
+      "options": ["Cidre e calvados", "Suco de laranja", "Chocolate quente"],
+      "correctIndex": 0,
+      "explanation": "Com as pommes normandas, faz-se o cidre e o calvados."
+    },
+    {
+      "question": "Onde nasceu o camembert?",
+      "options": ["Na Normandia", "Em Paris", "Na Provença"],
+      "correctIndex": 0,
+      "explanation": "O camembert é um queijo nascido na Normandia."
+    },
+    {
+      "question": "Complete: « Autrefois, les gens ___ du cidre au repas. »",
+      "options": ["buvaient", "ont bu", "boiront"],
+      "correctIndex": 0,
+      "explanation": "Hábito do passado = imparfait: 'buvaient'."
+    },
+    {
+      "question": "O que é o trou normand?",
+      "options": ["Um gole de calvados entre o prato e a sobremesa", "Um buraco no queijo", "Um prato de crepe"],
+      "correctIndex": 0,
+      "explanation": "O trou normand é um pequeno copo de calvados tomado entre os pratos para reabrir o apetite."
+    },
+    {
+      "question": "O que dizia a avó de Andréa sobre o camembert?",
+      "options": ["Uma refeição sem camembert é uma refeição triste", "Camembert é só no inverno", "Camembert estraga a sopa"],
+      "correctIndex": 0,
+      "explanation": "A avó dizia: 'un repas sans camembert est un repas triste'."
+    }
+  ]
+}

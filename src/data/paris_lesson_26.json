@@ -1,0 +1,252 @@
+{
+  "id": "paris_lesson_26",
+  "cityId": "paris",
+  "domain": "Cotidiano & Correios",
+  "level": "Iniciante (A1)",
+  "titleFr": "À la poste : la lettre pour le Brésil",
+  "titlePt": "No correio: a carta para o Brasil",
+  "subtitleFr": "Envoyer une lettre et un colis à la famille",
+  "subtitlePt": "Enviar uma carta e um pacote para a família",
+  "summaryPt": "Nesta Aula 26 (A1), a família vai à poste para enviar uma carta e um colis para a avó no Brasil. O aluno aprende o vocabulário dos correios (lettre, timbre, colis, adresse, code postal) e os verbos 'envoyer' e 'recevoir'.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Ce matin, la famille va à la poste. Iris a écrit une lettre pour sa grand-mère au Brésil. « Je dessine la Tour Eiffel sur la carte postale ! » dit-elle. Irlan achète un timbre et une enveloppe à la boutique.",
+      "pt": "Esta manhã, a família vai ao correio. Íris escreveu uma carta para sua avó no Brasil. « Desenho a Torre Eiffel no cartão-postal! » diz ela. Irlan compra um selo e um envelope na loja."
+    },
+    {
+      "id": 2,
+      "fr": "Andréa écrit l'adresse sur le colis : le nom, la rue, le code postal et la ville. « Attention, dit-elle, il faut écrire le code postal avant la ville. » Iris répète : « São Paulo, Brésil ! »",
+      "pt": "Andréa escreve o endereço no pacote: o nome, a rua, o CEP e a cidade. « Atenção, diz ela, é preciso escrever o CEP antes da cidade. » Íris repete: « São Paulo, Brasil! »"
+    },
+    {
+      "id": 3,
+      "fr": "Au guichet, l'employée pèse le colis. « Ça fait quinze euros », dit-elle. Irlan paie et donne le colis. « Quand est-ce que ma grand-mère reçoit le colis ? » demande Iris. « Dans une semaine, environ », répond l'employée.",
+      "pt": "No balcão, a funcionária pesa o pacote. « Dá quinze euros », diz ela. Irlan paga e entrega o pacote. « Quando minha avó recebe o pacote? » pergunta Íris. « Em cerca de uma semana », responde a funcionária."
+    },
+    {
+      "id": 4,
+      "fr": "En rentrant, Iris regarde la boîte aux lettres devant la maison. « Le facteur apporte les lettres tous les matins », dit Andréa. Iris sourit : « Un jour, le facteur apportera une lettre de ma grand-mère ! »",
+      "pt": "Voltando, Íris olha a caixa de correio diante da casa. « O carteiro traz as cartas todas as manhãs », diz Andréa. Íris sorri: « Um dia, o carteiro trará uma carta da minha avó! »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "la poste",
+      "definitionPt": "o correio",
+      "definitionFr": "Service qui transporte lettres et colis.",
+      "inflections": ["la poste", "une poste", "des postes"],
+      "ptTargets": ["correio"],
+      "examples": [
+        { "level": "A1", "fr": "La poste est près du marché.", "pt": "O correio fica perto do mercado." },
+        { "level": "A2-B1", "fr": "La famille va à la poste le matin.", "pt": "A família vai ao correio de manhã." },
+        { "level": "B2", "fr": "La poste propose aussi des services bancaires.", "pt": "O correio oferece também serviços bancários." },
+        { "level": "C1-C2", "fr": "C'est à la poste que s'écrit une part de la mémoire familiale.", "pt": "É no correio que se escreve uma parte da memória familiar." }
+      ]
+    },
+    {
+      "term": "la lettre",
+      "definitionPt": "a carta",
+      "definitionFr": "Message écrit sur papier.",
+      "inflections": ["la lettre", "une lettre", "des lettres"],
+      "ptTargets": ["carta"],
+      "examples": [
+        { "level": "A1", "fr": "La lettre est pour la grand-mère.", "pt": "A carta é para a avó." },
+        { "level": "A2-B1", "fr": "Iris écrit une lettre en français.", "pt": "Íris escreve uma carta em francês." },
+        { "level": "B2", "fr": "Les lettres, rares, ont plus de valeur que les messages.", "pt": "As cartas, raras, têm mais valor que as mensagens." },
+        { "level": "C1-C2", "fr": "C'est la lettre qui, écrite à la main, garde la chaleur des mots.", "pt": "É a carta que, escrita à mão, guarda o calor das palavras." }
+      ]
+    },
+    {
+      "term": "le timbre",
+      "definitionPt": "o selo",
+      "definitionFr": "Petite vignette pour affranchir une lettre.",
+      "inflections": ["le timbre", "un timbre", "des timbres"],
+      "ptTargets": ["selo"],
+      "examples": [
+        { "level": "A1", "fr": "Le timbre est petit.", "pt": "O selo é pequeno." },
+        { "level": "A2-B1", "fr": "Irlan achète un timbre à la poste.", "pt": "Irlan compra um selo no correio." },
+        { "level": "B2", "fr": "Les timbres, collectionnés, racontent l'histoire des pays.", "pt": "Os selos, colecionados, contam a história dos países." },
+        { "level": "C1-C2", "fr": "C'est le timbre qui, minuscule, voyage aux quatre coins du monde.", "pt": "É o selo que, minúsculo, viaja pelos quatro cantos do mundo." }
+      ]
+    },
+    {
+      "term": "le colis",
+      "definitionPt": "o pacote (encomenda)",
+      "definitionFr": "Paquet à expédier.",
+      "inflections": ["le colis", "un colis", "des colis"],
+      "ptTargets": ["pacote", "encomenda"],
+      "examples": [
+        { "level": "A1", "fr": "Le colis est lourd.", "pt": "O pacote é pesado." },
+        { "level": "A2-B1", "fr": "Andréa écrit l'adresse sur le colis.", "pt": "Andréa escreve o endereço no pacote." },
+        { "level": "B2", "fr": "Le colis voyage en avion jusqu'au Brésil.", "pt": "O pacote viaja de avião até o Brasil." },
+        { "level": "C1-C2", "fr": "C'est le colis qui, envoyé avec amour, relie les familles séparées.", "pt": "É o pacote que, enviado com amor, liga as famílias separadas." }
+      ]
+    },
+    {
+      "term": "l'adresse",
+      "definitionPt": "o endereço",
+      "definitionFr": "Indication du lieu d'habitation.",
+      "inflections": ["l'adresse", "une adresse", "des adresses"],
+      "ptTargets": ["endereço"],
+      "examples": [
+        { "level": "A1", "fr": "L'adresse est sur l'enveloppe.", "pt": "O endereço está no envelope." },
+        { "level": "A2-B1", "fr": "Andréa écrit l'adresse sur le colis.", "pt": "Andréa escreve o endereço no pacote." },
+        { "level": "B2", "fr": "L'adresse, complète, évite les erreurs de livraison.", "pt": "O endereço, completo, evita erros de entrega." },
+        { "level": "C1-C2", "fr": "C'est l'adresse qui, écrite correctement, guide le voyageur de papier.", "pt": "É o endereço que, escrito corretamente, guia o viajante de papel." }
+      ]
+    },
+    {
+      "term": "la carte postale",
+      "definitionPt": "o cartão-postal",
+      "definitionFr": "Carte illustrée envoyée par la poste.",
+      "inflections": ["la carte postale", "une carte postale", "des cartes postales"],
+      "ptTargets": ["cartão-postal"],
+      "examples": [
+        { "level": "A1", "fr": "La carte postale a une photo de Paris.", "pt": "O cartão-postal tem uma foto de Paris." },
+        { "level": "A2-B1", "fr": "Iris dessine la Tour Eiffel sur la carte postale.", "pt": "Íris desenha a Torre Eiffel no cartão-postal." },
+        { "level": "B2", "fr": "Les cartes postales, envoyées en voyage, disent « je pense à toi ».", "pt": "Os cartões-postais, enviados em viagem, dizem « penso em você »." },
+        { "level": "C1-C2", "fr": "C'est la carte postale qui, illustrée, transporte un peu du paysage vers les absents.", "pt": "É o cartão-postal que, ilustrado, leva um pouco da paisagem aos ausentes." }
+      ]
+    },
+    {
+      "term": "envoyer",
+      "definitionPt": "enviar",
+      "definitionFr": "Faire partir un message ou un objet.",
+      "inflections": ["envoyer", "j'envoie", "nous envoyons"],
+      "ptTargets": ["enviar", "mandar"],
+      "examples": [
+        { "level": "A1", "fr": "J'envoie une lettre.", "pt": "Eu envio uma carta." },
+        { "level": "A2-B1", "fr": "La famille envoie un colis au Brésil.", "pt": "A família envia um pacote para o Brasil." },
+        { "level": "B2", "fr": "Il envoie un message à sa sœur chaque soir.", "pt": "Ele envia uma mensagem à irmã todas as noites." },
+        { "level": "C1-C2", "fr": "C'est en envoyant que l'on apprend à attendre la réponse.", "pt": "É enviando que se aprende a esperar a resposta." }
+      ]
+    },
+    {
+      "term": "recevoir",
+      "definitionPt": "receber",
+      "definitionFr": "Obtenir ce qui est envoyé.",
+      "inflections": ["recevoir", "je reçois", "nous recevons"],
+      "ptTargets": ["receber"],
+      "examples": [
+        { "level": "A1", "fr": "Je reçois une lettre.", "pt": "Eu recebo uma carta." },
+        { "level": "A2-B1", "fr": "La grand-mère reçoit le colis dans une semaine.", "pt": "A avó recebe o pacote em uma semana." },
+        { "level": "B2", "fr": "On reçoit de plus en plus de messages électroniques.", "pt": "Recebemos cada vez mais mensagens eletrônicas." },
+        { "level": "C1-C2", "fr": "C'est en recevant que l'on mesure la valeur de ce qui a été envoyé.", "pt": "É recebendo que se mede o valor do que foi enviado." }
+      ]
+    },
+    {
+      "term": "le facteur",
+      "definitionPt": "o carteiro",
+      "definitionFr": "Personne qui distribue le courrier.",
+      "inflections": ["le facteur", "un facteur", "des facteurs"],
+      "ptTargets": ["carteiro"],
+      "examples": [
+        { "level": "A1", "fr": "Le facteur apporte les lettres.", "pt": "O carteiro traz as cartas." },
+        { "level": "A2-B1", "fr": "Le facteur passe tous les matins.", "pt": "O carteiro passa todas as manhãs." },
+        { "level": "B2", "fr": "Le facteur, fidèle, connaît tous les habitants du quartier.", "pt": "O carteiro, fiel, conhece todos os moradores do bairro." },
+        { "level": "C1-C2", "fr": "C'est le facteur qui, chaque matin, relie les maisons entre elles.", "pt": "É o carteiro que, cada manhã, liga as casas entre si." }
+      ]
+    },
+    {
+      "term": "la boîte aux lettres",
+      "definitionPt": "a caixa de correio",
+      "definitionFr": "Boîte pour recevoir le courrier.",
+      "inflections": ["la boîte aux lettres", "une boîte aux lettres", "des boîtes aux lettres"],
+      "ptTargets": ["caixa de correio"],
+      "examples": [
+        { "level": "A1", "fr": "La boîte aux lettres est devant la maison.", "pt": "A caixa de correio fica diante da casa." },
+        { "level": "A2-B1", "fr": "Iris regarde la boîte aux lettres chaque matin.", "pt": "Íris olha a caixa de correio todas as manhãs." },
+        { "level": "B2", "fr": "Les boîtes aux lettres, colorées, animent les entrées d'immeubles.", "pt": "As caixas de correio, coloridas, animam as entradas dos prédios." },
+        { "level": "C1-C2", "fr": "C'est la boîte aux lettres qui garde les mots qui nous attendent.", "pt": "É a caixa de correio que guarda as palavras que nos esperam." }
+      ]
+    },
+    {
+      "term": "le code postal",
+      "definitionPt": "o CEP (código postal)",
+      "definitionFr": "Numéro qui identifie une zone postale.",
+      "inflections": ["le code postal", "un code postal", "des codes postaux"],
+      "ptTargets": ["CEP", "código postal"],
+      "examples": [
+        { "level": "A1", "fr": "Le code postal de Paris est 75000.", "pt": "O CEP de Paris é 75000." },
+        { "level": "A2-B1", "fr": "Il faut écrire le code postal avant la ville.", "pt": "É preciso escrever o CEP antes da cidade." },
+        { "level": "B2", "fr": "Le code postal facilite le tri des lettres.", "pt": "O CEP facilita a triagem das cartas." },
+        { "level": "C1-C2", "fr": "C'est le code postal qui, en quelques chiffres, situe une vie dans l'espace.", "pt": "É o CEP que, em alguns números, situa uma vida no espaço." }
+      ]
+    },
+    {
+      "term": "l'enveloppe",
+      "definitionPt": "o envelope",
+      "definitionFr": "Poche en papier pour une lettre.",
+      "inflections": ["l'enveloppe", "une enveloppe", "des enveloppes"],
+      "ptTargets": ["envelope"],
+      "examples": [
+        { "level": "A1", "fr": "L'enveloppe est blanche.", "pt": "O envelope é branco." },
+        { "level": "A2-B1", "fr": "La lettre est dans l'enveloppe.", "pt": "A carta está no envelope." },
+        { "level": "B2", "fr": "L'enveloppe, fermée, protège les mots écrits.", "pt": "O envelope, fechado, protege as palavras escritas." },
+        { "level": "C1-C2", "fr": "C'est l'enveloppe qui, scellée, donne au message son mystère.", "pt": "É o envelope que, lacrado, dá à mensagem seu mistério." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Le verbe envoyer au présent",
+    "explanationPt": "O verbo 'envoyer' (enviar): j'envoie, tu envoies, il/elle envoie, nous envoyons, vous envoyez, ils/elles envoient. Ex.: 'J'envoie une lettre.' Como 'payer', o 'y' vira 'i' antes de 'e' mudo.",
+    "exampleFr": "Iris dessine la Tour Eiffel sur la carte postale : « J'envoie ma lettre à grand-mère ! »",
+    "examplePt": "Íris desenha a Torre Eiffel no cartão-postal: « Envio minha carta para a vovó! »",
+    "practiceQuestion": "Complete: 'Nous _____ un colis au Brésil.'",
+    "options": ["envoyons", "envoie", "envoient"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "Le verbe recevoir au présent",
+        "explanationPt": "O verbo 'recevoir' (receber): je reçois, tu reçois, il/elle reçoit, nous recevons, vous recevez, ils/elles reçoivent. Ex.: 'La grand-mère reçoit le colis.'",
+        "exampleFr": "Quand est-ce que ma grand-mère reçoit le colis ?",
+        "examplePt": "Quando minha avó recebe o pacote?",
+        "practiceQuestion": "Complete: 'Je _____ une lettre de ma famille.'",
+        "options": ["reçois", "reçoit", "recevons"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "Écrire une adresse : l'ordre des mots",
+        "explanationPt": "Na França, o endereço segue a ordem: nome, número e rua, depois o code postal e a cidade. Ex.: '12, rue de la Paix, 75002 Paris.'",
+        "exampleFr": "Il faut écrire le code postal avant la ville.",
+        "examplePt": "É preciso escrever o CEP antes da cidade.",
+        "practiceQuestion": "Complete: '12, rue de la Paix, 75002 _____ .'",
+        "options": ["Paris", "France", "Nord"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "O que Íris desenhou na carta para a avó?",
+      "options": ["a Torre Eiffel", "o metrô", "o supermercado"],
+      "correctIndex": 0,
+      "explanation": "Iris desenha a Tour Eiffel na carte postale."
+    },
+    {
+      "question": "O que a família envia para o Brasil?",
+      "options": ["uma carta e um pacote", "um carro", "um gato"],
+      "correctIndex": 0,
+      "explanation": "A família envia une lettre et un colis para a avó."
+    },
+    {
+      "question": "O que se escreve antes da cidade no endereço?",
+      "options": ["o CEP", "a idade", "o telefone"],
+      "correctIndex": 0,
+      "explanation": "Na França, escreve-se o code postal antes da cidade."
+    },
+    {
+      "question": "Complete: 'Nous _____ un colis au Brésil.'",
+      "options": ["envoyons", "envoie", "envoient"],
+      "correctIndex": 0,
+      "explanation": "envoyer no presente, nous: envoyons."
+    },
+    {
+      "question": "Quem traz as cartas todas as manhãs?",
+      "options": ["o carteiro", "a caixa", "o motorista"],
+      "correctIndex": 0,
+      "explanation": "Le facteur apporte les lettres tous les matins."
+    }
+  ]
+}

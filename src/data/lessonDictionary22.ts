@@ -1,0 +1,146 @@
+import { DictionaryEntry } from '../utils/textParser';
+
+export const LESSON_DICTIONARY_22: Record<string, DictionaryEntry> = {
+  place: {
+    term: "place",
+    wordFr: "place",
+    definitionPt: "Praça, local (substantivo feminino)",
+    difficultyLevel: "undefined",
+    examples: [
+      { level: "A1", fr: "La Place de la Bastille est grande.", pt: "A Praça da Bastilha é grande." },
+      { level: "A2-B1", fr: "Nous avons rendez-vous au centre de la place à quatorze heures.", pt: "Nós temos encontro no centro da praça às catorze horas." },
+      { level: "C1-C2", fr: "L'agencement de la place favorise les rassemblements civiques et commémoratifs.", pt: "A disposição da praça favorece os encontros cívicos e comemorativos." },
+    ],
+  },
+  monument: {
+    term: "monument",
+    wordFr: "monument",
+    definitionPt: "Monumento (substantivo masculino)",
+    difficultyLevel: "undefined",
+    examples: [
+      { level: "A1", fr: "C'est un beau monument.", pt: "É um belo monumento." },
+      { level: "A2-B1", fr: "Paris compte de nombreux monuments historiques célèbres.", pt: "Paris conta com muitos monumentos históricos famosos." },
+      { level: "B2", fr: "La préservation des monuments anciens est essentielle pour le patrimoine culturel.", pt: "A preservação dos monumentos antigos é essencial para o patrimônio cultural." },
+      { level: "C1-C2", fr: "Ce monument emblématique témoigne des aspirations républicaines de la nation.", pt: "Este monumento emblemático testemunha as aspirações republicanas da nação." },
+    ],
+  },
+  colonne: {
+    term: "colonne",
+    wordFr: "colonne",
+    definitionPt: "Coluna, pilar monumental (substantivo feminino)",
+    difficultyLevel: "undefined",
+    examples: [
+      { level: "A1", fr: "Je vois une haute colonne au centre.", pt: "Eu vejo uma alta coluna no centro." },
+      { level: "A2-B1", fr: "La Colonne de Juillet s'élève au milieu de la Place de la Bastille.", pt: "A Coluna de Julho ergue-se no meio da Praça da Bastilha." },
+      { level: "B2", fr: "Au sommet de la colonne se trouve une statue dorée qui brille au soleil.", pt: "No topo da coluna encontra-se uma estátua dourada que brilha ao sol." },
+      { level: "C1-C2", fr: "L'élancement vertical de la colonne confère à la place une solennité mémorielle.", pt: "O impulso vertical da coluna confere à praça uma solenidade de memória." },
+    ],
+  },
+  histoire: {
+    term: "histoire",
+    wordFr: "histoire",
+    definitionPt: "História (substantivo feminino)",
+    difficultyLevel: "undefined",
+    examples: [
+      { level: "A1", fr: "J'aime l'histoire de France.", pt: "Eu gosto da história da França." },
+      { level: "B2", fr: "Connaître l'histoire de la ville aide à mieux comprendre ses monuments.", pt: "Conhecer a história da cidade ajuda a compreender melhor seus monumentos." },
+      { level: "C1-C2", fr: "L'étude rigoureuse de l'histoire éclaire les fondements politiques de la République.", pt: "O estudo rigoroso da história esclarece os fundamentos políticos da República." },
+    ],
+  },
+  liberté: {
+    term: "liberté",
+    wordFr: "liberté",
+    definitionPt: "Liberdade (substantivo feminino)",
+    difficultyLevel: "undefined",
+    examples: [
+      { level: "A1", fr: "La liberté est très importante.", pt: "A liberdade é muito importante." },
+      { level: "A2-B1", fr: "La devise de la France est : Liberté, Égalité, Fraternité.", pt: "O lema da França é: Liberdade, Igualdade, Fraternidade." },
+      { level: "B2", fr: "Le Génie de la Liberté domine la place pour célébrer les droits des citoyens.", pt: "O Gênio da Liberdade domina a praça para celebrar os direitos dos cidadãos." },
+      { level: "C1-C2", fr: "La conquête des libertés fondamentales constitue le socle de l'idéal républicain.", pt: "A conquista das liberdades fundamentais constitui a base do ideal republicano." },
+    ],
+  },
+  centre: {
+    term: "centre",
+    wordFr: "centre",
+    definitionPt: "Centro, meio (substantivo masculino)",
+    difficultyLevel: "undefined",
+    examples: [
+      { level: "A1", fr: "La colonne est au centre de la place.", pt: "A coluna está no centro da praça." },
+      { level: "A2-B1", fr: "Le centre de Paris est très bien desservi par le métro.", pt: "O centro de Paris é muito bem atendido pelo metrô." },
+      { level: "B2", fr: "Nous avons loué un appartement situé au centre historique de la ville.", pt: "Nós alugamos um apartamento localizado no centro histórico da cidade." },
+      { level: "C1-C2", fr: "La convergence des grands axes urbains place ce monument au centre du dispositif de communication.", pt: "A convergência dos grandes eixos urbanos coloca este monumento no centro do sistema de tráfego." },
+    ],
+  },
+  droite: {
+    term: "droite",
+    wordFr: "droite",
+    definitionPt: "Direita (substantivo feminino; adjetivo)",
+    difficultyLevel: "undefined",
+    examples: [
+      { level: "A1", fr: "L'opéra est à droite.", pt: "A ópera fica à direita." },
+      { level: "A2-B1", fr: "Prenez la première rue à droite pour aller au musée.", pt: "Pegue a primeira rua à direita para ir ao museu." },
+      { level: "B2", fr: "En sortant de la station, le théâtre se trouve immédiatement sur votre droite.", pt: "Ao sair da estação, o teatro fica imediatamente à sua direita." },
+      { level: "C1-C2", fr: "L'alignement architectural sur l'aile droite équilibre la symétrie générale du quartier.", pt: "O alinhamento arquitetônico na ala direita equilibra a simetria geral do bairro." },
+    ],
+  },
+  gauche: {
+    term: "gauche",
+    wordFr: "gauche",
+    definitionPt: "Esquerda (substantivo feminino; adjetivo)",
+    difficultyLevel: "undefined",
+    examples: [
+      { level: "A1", fr: "La rue est à gauche.", pt: "A rua fica à esquerda." },
+      { level: "A2-B1", fr: "Tournez à gauche après le feu rouge pour trouver la pharmacie.", pt: "Vire à esquerda depois do sinal vermelho para encontrar a farmácia." },
+      { level: "B2", fr: "Sur la rive gauche de la Seine, on trouve de nombreuses universités.", pt: "Na margem esquerda do Sena, encontram-se muitas universidades." },
+      { level: "C1-C2", fr: "Le développement culturel de la rive gauche a durablement marqué l'histoire littéraire parisienne.", pt: "O desenvolvimento cultural da margem esquerda marcou de forma duradoura a história literária parisiense." },
+    ],
+  },
+  gens: {
+    term: "gens",
+    wordFr: "gens",
+    definitionPt: "Pessoas, gente (substantivo masculino plural)",
+    difficultyLevel: "undefined",
+    examples: [
+      { level: "A1", fr: "Il y a beaucoup de gens ici.", pt: "Há muitas pessoas aqui." },
+      { level: "A2-B1", fr: "Les gens aiment se rencontrer sur la place le week-end.", pt: "As pessoas gostam de se encontrar na praça no fim de semana." },
+      { level: "B2", fr: "La convivialité des gens du quartier rend le séjour très agréable.", pt: "A cordialidade das pessoas do bairro torna a estadia muito agradável." },
+      { level: "C1-C2", fr: "L'engagement civique des gens participe au dynamisme démocratique de la cité.", pt: "O engajamento cívico das pessoas participa do dinamismo democrático da cidade." },
+    ],
+  },
+  fête: {
+    term: "fête",
+    wordFr: "fête",
+    definitionPt: "Festa, comemoração (substantivo feminino)",
+    difficultyLevel: "undefined",
+    examples: [
+      { level: "A1", fr: "C'est une grande fête.", pt: "É uma grande festa." },
+      { level: "A2-B1", fr: "Le quatorze juillet est la fête nationale en France.", pt: "O catorze de julho é a festa nacional na França." },
+      { level: "B2", fr: "Pendant la fête de la musique, des concerts ont lieu dans toutes les rues.", pt: "Durante a festa da música, ocorrem concertos em todas as ruas." },
+      { level: "C1-C2", fr: "Les festivités commémoratives renforcent le sentiment d'appartenance à la communauté nationale.", pt: "As festividades comemorativas fortalecem o sentimento de pertencer à comunidade nacional." },
+    ],
+  },
+  ville: {
+    term: "ville",
+    wordFr: "ville",
+    definitionPt: "Cidade (substantivo feminino)",
+    difficultyLevel: "undefined",
+    examples: [
+      { level: "A1", fr: "Paris est une grande ville.", pt: "Paris é uma grande cidade." },
+      { level: "A2-B1", fr: "Nous allons visiter onze villes françaises pendant notre voyage.", pt: "Nós vamos visitar onze cidades francesas durante nossa viagem." },
+      { level: "B2", fr: "Chaque ville de France possède sa propre histoire et ses traditions.", pt: "Cada cidade da França possui sua própria história e suas tradições." },
+      { level: "C1-C2", fr: "Le rayonnement culturel de la ville attire des chercheurs et artistes internationaux.", pt: "O prestígio cultural da cidade atrai pesquisadores e artistas internacionais." },
+    ],
+  },
+  important: {
+    term: "important",
+    wordFr: "important",
+    definitionPt: "Importante (adjetivo masculino; feminino: importante)",
+    difficultyLevel: "undefined",
+    examples: [
+      { level: "A1", fr: "C'est un lieu important.", pt: "É um lugar importante." },
+      { level: "A2-B1", fr: "La Bastille est un symbole très important pour les Français.", pt: "A Bastilha é um símbolo muito importante para os franceses." },
+      { level: "B2", fr: "Il est important d'apprendre les expressions de direction en voyage.", pt: "É importante aprender as expressões de direção em viagem." },
+      { level: "C1-C2", fr: "Ce monument joue un rôle mémoriel important dans la conscience nationale.", pt: "Este monumento desempenha um papel de memória importante na consciência nacional." },
+    ],
+  },
+};

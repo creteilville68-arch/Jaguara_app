@@ -1,0 +1,257 @@
+{
+  "id": "lyon_lesson_52",
+  "cityId": "lyon",
+  "domain": "Rios & Vida Fluvial",
+  "level": "Intermediário (B2+)",
+  "titleFr": "La Saône et ses péniches : des maisons sur l'eau",
+  "titlePt": "O Saône e suas péniches: casas sobre a água",
+  "subtitleFr": "Réviser : subjonctif passé et hypothèses sur l'eau",
+  "subtitlePt": "Revisar: subjonctif passé e hipóteses sobre a água",
+  "summaryPt": "Ao longo do Saône, péniches transformadas em casas, cafés e galerias criam um bairro flutuante. Nesta aula B2+, a família passeia pelos cais de Saint-Paul e revisa o subjonctif passé e os condicionais à beira da água.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "« Il est rare qu'une ville ait des maisons flottantes au cœur de son histoire », dit Irlan devant les péniches. Des familles vivaient là, des jardins fleurissaient sur les ponts, des chats dormaient au soleil.",
+      "pt": "« É raro que uma cidade tenha casas flutuantes no coração de sua história », disse Irlan diante das péniches. Famílias viviam ali, jardins floriam nos convés, gatos dormiam ao sol."
+    },
+    {
+      "id": 2,
+      "fr": "La Saône, rivière calme, a toujours porté les marchandises. « Il est émouvant que ces bateaux aient transporté tant de choses », murmura Andréa. Les péniches modernes, elles, transportent des rêves.",
+      "pt": "O Saône, rio calmo, sempre carregou as mercadorias. « É emocionante que esses barcos tenham transportado tanta coisa », murmurou Andréa. As péniches modernas, elas, transportam sonhos."
+    },
+    {
+      "id": 3,
+      "fr": "Un habitant de péniche invita la famille à monter à bord. « Si vous aimez le calme, vous adorerez vivre ici », dit-il. Irlan demanda si le bateau bougeait beaucoup en hiver.",
+      "pt": "Um morador de péniche convidou a família a subir a bordo. « Se vocês gostam de calma, vão adorar viver aqui », disse ele. Irlan perguntou se o barco balançava muito no inverno."
+    },
+    {
+      "id": 4,
+      "fr": "« Si la Saône montait trop, nous partirions quelques jours », répondit l'habitant. « Mais si nous avions voulu une vie trop tranquille, nous aurions acheté une maison dans les collines. Ici, on écoute l'eau. »",
+      "pt": "« Se o Saône subisse demais, partiríamos alguns dias », respondeu o morador. « Mas se tivéssemos querido uma vida tranquila demais, teríamos comprado uma casa nas colinas. Aqui, a gente escuta a água. »"
+    },
+    {
+      "id": 5,
+      "fr": "Le soir, Irlan écrivit : « Il est merveilleux que des gens aient choisi de vivre sur l'eau. Si je devais changer de vie, je prendrais une péniche. Mais j'ai déjà trouvé mon port : une femme, une fille, une ville qui m'a adopté. »",
+      "pt": "À noite, Irlan escreveu: « É maravilhoso que pessoas tenham escolhido viver sobre a água. Se eu tivesse de mudar de vida, compraria uma péniche. Mas já encontrei meu porto: uma esposa, uma filha, uma cidade que me adotou. »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "la péniche",
+      "definitionPt": "péniche (barco-casa, barcaça)",
+      "definitionFr": "Bateau plat utilisé pour habiter ou transporter.",
+      "inflections": ["la péniche", "des péniches"],
+      "ptTargets": ["péniche", "barco-casa", "barcaça"],
+      "examples": [
+        { "level": "A1", "fr": "La péniche est longue.", "pt": "A péniche é comprida." },
+        { "level": "A2-B1", "fr": "Les péniches bordent la Saône.", "pt": "As péniches margeiam o Saône." },
+        { "level": "B1-B2", "fr": "Les péniches, transformées en maisons, forment un village flottant.", "pt": "As péniches, transformadas em casas, formam um vilarejo flutuante." },
+        { "level": "C1-C2", "fr": "C'est la péniche qui unit la ville à son fleuve.", "pt": "É a péniche que une a cidade ao seu rio." }
+      ]
+    },
+    {
+      "term": "le pont",
+      "definitionPt": "convés",
+      "definitionFr": "Plancher d'un bateau.",
+      "inflections": ["le pont", "des ponts"],
+      "ptTargets": ["convés", "convés"],
+      "examples": [
+        { "level": "A1", "fr": "Le pont est en bois.", "pt": "O convés é de madeira." },
+        { "level": "A2-B1", "fr": "Des jardins fleurissent sur les ponts.", "pt": "Jardins floram nos convés." },
+        { "level": "B1-B2", "fr": "Le pont, décoré de plantes, accueille le café du matin.", "pt": "O convés, decorado com plantas, recebe o café da manhã." },
+        { "level": "C1-C2", "fr": "C'est le pont qui offre la vie au grand air.", "pt": "É o convés que oferece a vida ao ar livre." }
+      ]
+    },
+    {
+      "term": "le port",
+      "definitionPt": "porto",
+      "definitionFr": "Lieu où les bateaux s'arrêtent.",
+      "inflections": ["le port", "des ports"],
+      "ptTargets": ["porto", "portos"],
+      "examples": [
+        { "level": "A1", "fr": "Le port est calme.", "pt": "O porto é calmo." },
+        { "level": "A2-B1", "fr": "Les péniches s'amarrent au port.", "pt": "As péniches atracam no porto." },
+        { "level": "B1-B2", "fr": "Le port, animé, accueille les voyageurs et les rêveurs.", "pt": "O porto, animado, recebe viajantes e sonhadores." },
+        { "level": "C1-C2", "fr": "C'est le port qui donne au voyageur un point d'ancrage.", "pt": "É o porto que dá ao viajante um ponto de ancoragem." }
+      ]
+    },
+    {
+      "term": "la marchandise",
+      "definitionPt": "mercadoria",
+      "definitionFr": "Produit transporté et vendu.",
+      "inflections": ["la marchandise", "des marchandises"],
+      "ptTargets": ["mercadoria", "mercadorias"],
+      "examples": [
+        { "level": "A1", "fr": "La marchandise est lourde.", "pt": "A mercadoria é pesada." },
+        { "level": "A2-B1", "fr": "La Saône portait les marchandises.", "pt": "O Saône carregava as mercadorias." },
+        { "level": "B1-B2", "fr": "Les marchandises, transportées en péniche, traversaient la France.", "pt": "As mercadorias, transportadas de péniche, atravessavam a França." },
+        { "level": "C1-C2", "fr": "C'est la marchandise qui a fait la richesse des fleuves.", "pt": "É a mercadoria que fez a riqueza dos rios." }
+      ]
+    },
+    {
+      "term": "s'amarrer",
+      "definitionPt": "atracar, amarrar",
+      "definitionFr": "Attacher un bateau au quai.",
+      "inflections": ["je m'amarre", "s'amarrer", "amarré"],
+      "ptTargets": ["atracar", "amarrar", "atracam"],
+      "examples": [
+        { "level": "A1", "fr": "Le bateau s'amarre.", "pt": "O barco atraca." },
+        { "level": "A2-B1", "fr": "Les péniches s'amarent le long du quai.", "pt": "As péniches atracam ao longo do cais." },
+        { "level": "B1-B2", "fr": "S'amarrer, c'est choisir son coin de fleuve.", "pt": "Atracar é escolher seu cantinho de rio." },
+        { "level": "C1-C2", "fr": "C'est en s'amarrant que l'on apprivoise le fleuve.", "pt": "É atracando que se doma o rio." }
+      ]
+    },
+    {
+      "term": "le quai",
+      "definitionPt": "cais",
+      "definitionFr": "Bord aménagé d'un fleuve.",
+      "inflections": ["le quai", "des quais"],
+      "ptTargets": ["cais", "cais"],
+      "examples": [
+        { "level": "A1", "fr": "Le quai est long.", "pt": "O cais é longo." },
+        { "level": "A2-B1", "fr": "Les péniches bordent le quai Saint-Paul.", "pt": "As péniches margeiam o cais Saint-Paul." },
+        { "level": "B1-B2", "fr": "Le quai, bordé de cafés, invite à la promenade.", "pt": "O cais, cercado de cafés, convida ao passeio." },
+        { "level": "C1-C2", "fr": "C'est le quai qui fait dialoguer l'eau et la pierre.", "pt": "É o cais que faz dialogar a água e a pedra." }
+      ]
+    },
+    {
+      "term": "la rivière",
+      "definitionPt": "rio",
+      "definitionFr": "Cours d'eau moyen.",
+      "inflections": ["la rivière", "des rivières"],
+      "ptTargets": ["rio", "rios"],
+      "examples": [
+        { "level": "A1", "fr": "La rivière coule.", "pt": "O rio corre." },
+        { "level": "A2-B1", "fr": "La Saône est une rivière calme.", "pt": "O Saône é um rio calmo." },
+        { "level": "B1-B2", "fr": "La rivière, bordée de maisons, traverse la ville en silence.", "pt": "O rio, cercado de casas, atravessa a cidade em silêncio." },
+        { "level": "C1-C2", "fr": "C'est la rivière qui porte les rêves des habitants.", "pt": "É o rio que carrega os sonhos dos habitantes." }
+      ]
+    },
+    {
+      "term": "le rêveur",
+      "definitionPt": "sonhador",
+      "definitionFr": "Personne qui aime rêver.",
+      "inflections": ["le rêveur", "des rêveurs"],
+      "ptTargets": ["sonhador", "sonhadores"],
+      "examples": [
+        { "level": "A1", "fr": "Le rêveur regarde l'eau.", "pt": "O sonhador olha a água." },
+        { "level": "A2-B1", "fr": "Les quais attirent les rêveurs.", "pt": "Os cais atraem os sonhadores." },
+        { "level": "B1-B2", "fr": "Les rêveurs, assis sur le quai, regardent passer les péniches.", "pt": "Os sonhadores, sentados no cais, veem passar as péniches." },
+        { "level": "C1-C2", "fr": "C'est le rêveur qui garde la ville vivante.", "pt": "É o sonhador que mantém a cidade viva." }
+      ]
+    },
+    {
+      "term": "adopter",
+      "definitionPt": "adotar",
+      "definitionFr": "Accueillir comme sien.",
+      "inflections": ["j'adopte", "adopter", "adopté"],
+      "ptTargets": ["adotar", "adotou", "adotado"],
+      "examples": [
+        { "level": "A1", "fr": "J'adopte un chien.", "pt": "Eu adoto um cachorro." },
+        { "level": "A2-B1", "fr": "Lyon a adopté Irlan.", "pt": "Lyon adotou Irlan." },
+        { "level": "B1-B2", "fr": "La ville, en adoptant les nouveaux venus, s'enrichit de leurs histoires.", "pt": "A cidade, ao adotar os recém-chegados, enriquece com suas histórias." },
+        { "level": "C1-C2", "fr": "C'est en adoptant que l'on devient citoyen du cœur.", "pt": "É adotando que se vira cidadão do coração." }
+      ]
+    },
+    {
+      "term": "le calme",
+      "definitionPt": "calma, tranquilidade",
+      "definitionFr": "Absence de bruit et d'agitation.",
+      "inflections": ["le calme"],
+      "ptTargets": ["calma", "tranquilidade"],
+      "examples": [
+        { "level": "A1", "fr": "Le calme est bon.", "pt": "A calma é boa." },
+        { "level": "A2-B1", "fr": "Vivre sur l'eau apporte le calme.", "pt": "Viver na água traz calma." },
+        { "level": "B1-B2", "fr": "Le calme, trouvé sur le fleuve, contraste avec la ville.", "pt": "A calma, encontrada no rio, contrasta com a cidade." },
+        { "level": "C1-C2", "fr": "C'est le calme qui permet d'écouter l'eau.", "pt": "É a calma que permite escutar a água." }
+      ]
+    },
+    {
+      "term": "l'ancrage",
+      "definitionPt": "ancoragem, ancoradouro",
+      "definitionFr": "Point d'attache d'un bateau.",
+      "inflections": ["l'ancrage", "des ancrages"],
+      "ptTargets": ["ancoragem", "ancoradouro"],
+      "examples": [
+        { "level": "A1", "fr": "L'ancrage est solide.", "pt": "A ancoragem é sólida." },
+        { "level": "A2-B1", "fr": "Le port offre un ancrage sûr.", "pt": "O porto oferece ancoragem segura." },
+        { "level": "B1-B2", "fr": "L'ancrage, choisi avec soin, protège le bateau des tempêtes.", "pt": "A ancoragem, escolhida com cuidado, protege o barco das tempestades." },
+        { "level": "C1-C2", "fr": "C'est l'ancrage qui transforme un voyage en maison.", "pt": "É a ancoragem que transforma uma viagem em casa." }
+      ]
+    },
+    {
+      "term": "écouter",
+      "definitionPt": "escutar, ouvir",
+      "definitionFr": "Porter attention à un son.",
+      "inflections": ["j'écoute", "écouter", "écouté"],
+      "ptTargets": ["escutar", "ouvir", "escuta"],
+      "examples": [
+        { "level": "A1", "fr": "J'écoute la musique.", "pt": "Eu escuto música." },
+        { "level": "A2-B1", "fr": "Ici, on écoute l'eau.", "pt": "Aqui, a gente escuta a água." },
+        { "level": "B1-B2", "fr": "Écouter le fleuve, c'est entendre le temps passer.", "pt": "Escutar o rio é ouvir o tempo passar." },
+        { "level": "C1-C2", "fr": "C'est en écoutant que l'on comprend ce que l'eau raconte.", "pt": "É escutando que se compreende o que a água conta." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Révision : subjonctif passé et hypothèses sur l'eau",
+    "explanationPt": "Revisão à beira do Saône: subjonctif passé ('il est rare qu'une ville ait des maisons flottantes'; 'il est émouvant que ces bateaux aient transporté tant de choses'; 'il est merveilleux que des gens aient choisi de vivre sur l'eau') e os condicionais ('si vous aimez le calme, vous adorerez'; 'si la Saône montait trop, nous partirions'; 'si nous avions voulu une vie trop tranquille, nous aurions acheté une maison').",
+    "exampleFr": "Il est émouvant que ces bateaux aient transporté tant de choses ; si la Saône montait trop, nous partirions quelques jours.",
+    "examplePt": "É emocionante que esses barcos tenham transportado tanta coisa; se o Saône subisse demais, partiríamos alguns dias.",
+    "practiceQuestion": "Complete: « Il est émouvant que ces bateaux ___ transporté tant de choses. »",
+    "options": ["aient", "ont", "avaient"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "Subjonctif passé",
+        "explanationPt": "'Que ces bateaux aient transporté', 'que des gens aient choisi' : subjonctif passé com avoir.",
+        "exampleFr": "Il est merveilleux que des gens aient choisi de vivre sur l'eau.",
+        "examplePt": "É maravilhoso que pessoas tenham escolhido viver sobre a água.",
+        "practiceQuestion": "Complete: « Il est merveilleux que des gens ___ choisi de vivre sur l'eau. »",
+        "options": ["aient", "ont", "avaient"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "Les trois conditionnels",
+        "explanationPt": "'Si vous aimez le calme, vous adorerez' (real); 'si la Saône montait trop, nous partirions' (irreal presente); 'si nous avions voulu, nous aurions acheté' (irreal passado).",
+        "exampleFr": "Si la Saône montait trop, nous partirions quelques jours.",
+        "examplePt": "Se o Saône subisse demais, partiríamos alguns dias.",
+        "practiceQuestion": "Complete: « Si la Saône montait trop, nous ___ quelques jours. »",
+        "options": ["partirions", "partirons", "partons"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Complete: « Il est émouvant que ces bateaux ___ transporté tant de choses. »",
+      "options": ["aient", "ont", "avaient"],
+      "correctIndex": 0,
+      "explanation": "Subjonctif passé: 'aient transporté'."
+    },
+    {
+      "question": "O que as péniches modernas transportam?",
+      "options": ["Sonhos", "Carvão", "Peixes"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'Les péniches modernes transportent des rêves'."
+    },
+    {
+      "question": "O que o morador disse que aconteceria se o Saône subisse demais?",
+      "options": ["A família partiria alguns dias", "O barco afundaria", "Nada aconteceria"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'Si la Saône montait trop, nous partirions quelques jours'."
+    },
+    {
+      "question": "Complete: « Il est merveilleux que des gens ___ choisi de vivre sur l'eau. »",
+      "options": ["aient", "ont", "avaient"],
+      "correctIndex": 0,
+      "explanation": "Subjonctif passé no plural."
+    },
+    {
+      "question": "O que Irlan disse que já tinha encontrado?",
+      "options": ["Seu porto: esposa, filha e cidade", "Uma casa nas colinas", "Um barco novo"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'j'ai déjà trouvé mon port : une femme, une fille, une ville qui m'a adopté'."
+    }
+  ]
+}

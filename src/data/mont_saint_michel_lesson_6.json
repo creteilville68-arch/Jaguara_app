@@ -1,0 +1,252 @@
+{
+  "id": "mont_saint_michel_lesson_6",
+  "cityId": "mont-saint-michel",
+  "domain": "Natureza",
+  "level": "Básico (A2/B1)",
+  "titleFr": "La traversée de la baie : avec un guide, en sécurité",
+  "titlePt": "A travessia da baía: com um guia, em segurança",
+  "subtitleFr": "Les sables mouvants, la vase et les règles du guide",
+  "subtitlePt": "As areias movediças, a vasa e as regras do guia",
+  "summaryPt": "Nesta Aula 6 (A2/B1), a família faz a travessia da baía a pé com um guia, na maré baixa. O guia mostra os sables mouvants e explica as regras de segurança: nunca caminhar sozinho. O aluno aprende os verbos reflexivos no Imparfait (il s'approchait, nous nous arrêtions) e a conjunção 'mais' para oposição.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Le guide nous attendait au bord de la baie. Il s'approchait des visiteurs et donnait les consignes : « Suivez-moi, ne marchez jamais seuls. »",
+      "pt": "O guia nos esperava à beira da baía. Ele se aproximava dos visitantes e dava as instruções: « Sigam-me, nunca caminhem sozinhos. »"
+    },
+    {
+      "id": 2,
+      "fr": "Nous marchions sur la vase, puis sur le sable. Le guide montrait les endroits dangereux : les sables mouvants, cachés sous l'eau.",
+      "pt": "Caminhávamos sobre a vasa e depois sobre a areia. O guia mostrava os lugares perigosos: as areias movediças, escondidas sob a água."
+    },
+    {
+      "id": 3,
+      "fr": "Mais Irlan restait prudent. Il regardait ses pieds, écoutait le guide et tenait la main d'Íris. « La prudence, c'est la liberté », disait-il.",
+      "pt": "Mas Irlan continuava prudente. Ele olhava para os pés, escutava o guia e segurava a mão de Íris. « A prudência é a liberdade », dizia ele."
+    },
+    {
+      "id": 4,
+      "fr": "Après deux heures de marche, nous sommes arrivés de l'autre côté. La traversée était magnifique, mais un peu fatigante. Íris a applaudi le guide.",
+      "pt": "Depois de duas horas de caminhada, chegamos do outro lado. A travessia foi magnífica, mas um pouco cansativa. Íris aplaudiu o guia."
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "le guide",
+      "definitionPt": "o guia",
+      "definitionFr": "Personne qui montre le chemin et explique.",
+      "inflections": ["le guide", "les guides"],
+      "ptTargets": ["guia"],
+      "examples": [
+        { "level": "A1", "fr": "Le guide est patient.", "pt": "O guia é paciente." },
+        { "level": "A2-B1", "fr": "Le guide connaît parfaitement la baie.", "pt": "O guia conhece perfeitamente a baía." },
+        { "level": "B2", "fr": "Les guides de la baie sont formés aux dangers des marées.", "pt": "Os guias da baía são treinados para os perigos das marés." },
+        { "level": "C1-C2", "fr": "Le métier de guide de baie exige une connaissance approfondie du marnage et des courants.", "pt": "A profissão de guia de baía exige um conhecimento profundo da amplitude das marés e das correntes." }
+      ]
+    },
+    {
+      "term": "la randonnée",
+      "definitionPt": "a caminhada (trilha)",
+      "definitionFr": "Marche longue, souvent dans la nature.",
+      "inflections": ["la randonnée", "les randonnées"],
+      "ptTargets": ["caminhada"],
+      "examples": [
+        { "level": "A1", "fr": "La randonnée est longue.", "pt": "A caminhada é longa." },
+        { "level": "A2-B1", "fr": "La randonnée dans la baie dure deux heures.", "pt": "A caminhada na baía dura duas horas." },
+        { "level": "B2", "fr": "La randonnée guidée est la seule façon sûre de traverser la baie.", "pt": "A caminhada guiada é o único jeito seguro de atravessar a baía." },
+        { "level": "C1-C2", "fr": "La randonnée dans la baie offre une expérience sensorielle unique entre terre et mer.", "pt": "A caminhada na baía oferece uma experiência sensorial única entre terra e mar." }
+      ]
+    },
+    {
+      "term": "la vase",
+      "definitionPt": "a vasa, a lama",
+      "definitionFr": "Boue fine et glissante.",
+      "inflections": ["la vase"],
+      "ptTargets": ["vasa"],
+      "examples": [
+        { "level": "A1", "fr": "La vase est glissante.", "pt": "A vasa é escorregadia." },
+        { "level": "A2-B1", "fr": "Nous marchions sur la vase, c'était glissant.", "pt": "Caminhávamos sobre a vasa, estava escorregadio." },
+        { "level": "B2", "fr": "La vase peut retenir les promeneurs imprudents.", "pt": "A vasa pode reter os caminhantes imprudentes." },
+        { "level": "C1-C2", "fr": "La vase de la baie, mélange de sédiments et d'eau, est un piège redoutable.", "pt": "A vasa da baía, mistura de sedimentos e água, é uma armadilha temível." }
+      ]
+    },
+    {
+      "term": "le sable mouvant",
+      "definitionPt": "a areia movediça",
+      "definitionFr": "Sable instable qui peut engloutir.",
+      "inflections": ["le sable mouvant", "les sables mouvants"],
+      "ptTargets": ["areia movediça"],
+      "examples": [
+        { "level": "A1", "fr": "Le sable mouvant est dangereux.", "pt": "A areia movediça é perigosa." },
+        { "level": "A2-B1", "fr": "Les sables mouvants sont cachés sous l'eau.", "pt": "As areias movediças estão escondidas sob a água." },
+        { "level": "B2", "fr": "Il faut éviter les sables mouvants, surtout près des rivières.", "pt": "É preciso evitar as areias movediças, principalmente perto dos rios." },
+        { "level": "C1-C2", "fr": "Les sables mouvants résultent de la saturation en eau de certains sédiments.", "pt": "As areias movediças resultam da saturação em água de certos sedimentos." }
+      ]
+    },
+    {
+      "term": "la prudence",
+      "definitionPt": "a prudência, o cuidado",
+      "definitionFr": "Attention à éviter les dangers.",
+      "inflections": ["la prudence"],
+      "ptTargets": ["prudência"],
+      "examples": [
+        { "level": "A1", "fr": "La prudence est importante.", "pt": "A prudência é importante." },
+        { "level": "A2-B1", "fr": "La prudence est essentielle dans la baie.", "pt": "A prudência é essencial na baía." },
+        { "level": "B2", "fr": "Avec prudence, la traversée devient un plaisir.", "pt": "Com prudência, a travessia vira um prazer." },
+        { "level": "C1-C2", "fr": "La prudence face aux éléments naturels est une valeur transmise par les guides.", "pt": "A prudência diante dos elementos naturais é um valor transmitido pelos guias." }
+      ]
+    },
+    {
+      "term": "le danger",
+      "definitionPt": "o perigo",
+      "definitionFr": "Situation qui peut faire du mal.",
+      "inflections": ["le danger", "les dangers"],
+      "ptTargets": ["perigo"],
+      "examples": [
+        { "level": "A1", "fr": "Le danger est grand.", "pt": "O perigo é grande." },
+        { "level": "A2-B1", "fr": "Le guide a montré les dangers de la baie.", "pt": "O guia mostrou os perigos da baía." },
+        { "level": "B2", "fr": "Les dangers de la baie sont réels, même en été.", "pt": "Os perigos da baía são reais, mesmo no verão." },
+        { "level": "C1-C2", "fr": "La méconnaissance des dangers naturels cause encore des accidents chaque année.", "pt": "O desconhecimento dos perigos naturais ainda causa acidentes todos os anos." }
+      ]
+    },
+    {
+      "term": "traverser",
+      "definitionPt": "atravessar",
+      "definitionFr": "Passer d'un côté à l'autre.",
+      "inflections": ["je traverse", "nous traversons", "traversé"],
+      "ptTargets": ["atravessar"],
+      "examples": [
+        { "level": "A1", "fr": "Je traverse la rue.", "pt": "Eu atravesso a rua." },
+        { "level": "A2-B1", "fr": "Nous avons traversé la baie à pied.", "pt": "Atravessamos a baía a pé." },
+        { "level": "B2", "fr": "Traverser la baie au coucher du soleil est magique.", "pt": "Atravessar a baía ao pôr do sol é mágico." },
+        { "level": "C1-C2", "fr": "Traverser la baie sans guide est interdit et dangereux.", "pt": "Atravessar a baía sem guia é proibido e perigoso." }
+      ]
+    },
+    {
+      "term": "suivre",
+      "definitionPt": "seguir",
+      "definitionFr": "Aller derrière quelqu'un.",
+      "inflections": ["je suis", "nous suivons", "suivi"],
+      "ptTargets": ["seguir"],
+      "examples": [
+        { "level": "A1", "fr": "Je suis le guide.", "pt": "Eu sigo o guia." },
+        { "level": "A2-B1", "fr": "Nous avons suivi le guide pas à pas.", "pt": "Seguimos o guia passo a passo." },
+        { "level": "B2", "fr": "Il faut suivre exactement le chemin indiqué.", "pt": "É preciso seguir exatamente o caminho indicado." },
+        { "level": "C1-C2", "fr": "Suivre les consignes de sécurité est la première règle de la randonnée en baie.", "pt": "Seguir as instruções de segurança é a primeira regra da caminhada na baía." }
+      ]
+    },
+    {
+      "term": "écouter",
+      "definitionPt": "escutar, ouvir",
+      "definitionFr": "Prêter attention à un son ou à une personne.",
+      "inflections": ["j'écoute", "nous écoutons", "écouté"],
+      "ptTargets": ["escutar"],
+      "examples": [
+        { "level": "A1", "fr": "J'écoute la radio.", "pt": "Eu escuto o rádio." },
+        { "level": "A2-B1", "fr": "Irlan écoutait le guide attentivement.", "pt": "Irlan escutava o guia atentamente." },
+        { "level": "B2", "fr": "Écouter les conseils du guide peut sauver la vie.", "pt": "Ouvir os conselhos do guia pode salvar a vida." },
+        { "level": "C1-C2", "fr": "Écouter les habitants et les guides permet de comprendre les dangers invisibles du paysage.", "pt": "Ouvir os habitantes e os guias permite compreender os perigos invisíveis da paisagem." }
+      ]
+    },
+    {
+      "term": "prudent",
+      "definitionPt": "prudente",
+      "definitionFr": "Qui fait attention, qui évite les risques.",
+      "inflections": ["prudent", "prudente", "prudents"],
+      "ptTargets": ["prudente"],
+      "examples": [
+        { "level": "A1", "fr": "Il est prudent.", "pt": "Ele é prudente." },
+        { "level": "A2-B1", "fr": "Irlan était très prudent dans la baie.", "pt": "Irlan era muito prudente na baía." },
+        { "level": "B2", "fr": "Un visiteur prudent consulte les horaires des marées avant de partir.", "pt": "Um visitante prudente consulta os horários das marés antes de partir." },
+        { "level": "C1-C2", "fr": "Être prudent ne signifie pas renoncer à l'aventure, mais la préparer.", "pt": "Ser prudente não significa renunciar à aventura, mas prepará-la." }
+      ]
+    },
+    {
+      "term": "sec",
+      "definitionPt": "seco",
+      "definitionFr": "Sans eau, sans humidité.",
+      "inflections": ["sec", "sèche", "secs"],
+      "ptTargets": ["seco"],
+      "examples": [
+        { "level": "A1", "fr": "Le sable est sec.", "pt": "A areia está seca." },
+        { "level": "A2-B1", "fr": "Nous avons marché sur le sable sec au début.", "pt": "Caminhamos na areia seca no começo." },
+        { "level": "B2", "fr": "La partie sèche de la grève est plus sûre que la vase.", "pt": "A parte seca do areal é mais segura que a vasa." },
+        { "level": "C1-C2", "fr": "La limite entre le sable sec et la vase humide est souvent invisible mais cruciale.", "pt": "A fronteira entre a areia seca e a vasa úmida é muitas vezes invisível, mas crucial." }
+      ]
+    },
+    {
+      "term": "le paysage",
+      "definitionPt": "a paisagem",
+      "definitionFr": "Ce que l'on voit d'un lieu.",
+      "inflections": ["le paysage", "les paysages"],
+      "ptTargets": ["paisagem"],
+      "examples": [
+        { "level": "A1", "fr": "Le paysage est beau.", "pt": "A paisagem é bonita." },
+        { "level": "A2-B1", "fr": "Le paysage de la baie change tout le temps.", "pt": "A paisagem da baía muda o tempo todo." },
+        { "level": "B2", "fr": "Le paysage immense donne une sensation de liberté.", "pt": "A paisagem imensa dá uma sensação de liberdade." },
+        { "level": "C1-C2", "fr": "Ce paysage unique, entre ciel, sable et mer, a inspiré des générations d'artistes.", "pt": "Essa paisagem única, entre céu, areia e mar, inspirou gerações de artistas." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Les verbes pronominaux à l'Imparfait",
+    "explanationPt": "Os reflexivos no Imparfait descrevem ações contínuas no passado: 'il s'approchait' (ele se aproximava), 'nous nous arrêtions' (nós parávamos). Formação: pronome reflexivo + imparfait.",
+    "exampleFr": "Le guide s'approchait des visiteurs et donnait les consignes.",
+    "examplePt": "O guia se aproximava dos visitantes e dava as instruções.",
+    "practiceQuestion": "Complete com o Imparfait: « Nous nous ___ sur la vase. »",
+    "options": ["arrêtions", "sommes arrêtés", "arrêtons"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "La répétition et la durée",
+        "explanationPt": "O Imparfait expressa repetição e duração: 'il regardait ses pieds', 'il tenait la main d'Íris'.",
+        "exampleFr": "Irlan regardait ses pieds et écoutait le guide.",
+        "examplePt": "Irlan olhava para os pés e escutava o guia.",
+        "practiceQuestion": "Qual frase indica duração no passado?",
+        "options": ["Nous marchions sur la vase.", "Nous avons traversé la baie.", "Íris a applaudi le guide."],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "La conjonction 'mais' (opposition)",
+        "explanationPt": "'Mais' introduz uma oposição: 'La traversée était magnifique, mais un peu fatigante'.",
+        "exampleFr": "Le sable semblait sûr, mais il cachait des pièges.",
+        "examplePt": "A areia parecia segura, mas escondia armadilhas.",
+        "practiceQuestion": "Qual frase usa 'mais' para oposição?",
+        "options": ["La baie est belle, mais dangereuse.", "La baie est belle et dangereuse.", "La baie est belle parce que dangereuse."],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Qual é a regra principal dada pelo guia?",
+      "options": ["nunca caminhar sozinho na baía", "correr sempre", "nadar na maré alta"],
+      "correctIndex": 0,
+      "explanation": "O guia pediu: 'Suivez-moi, ne marchez jamais seuls'."
+    },
+    {
+      "question": "O que está escondido sob a água e é perigoso?",
+      "options": ["os sables mouvants", "as conchas", "os peixes"],
+      "correctIndex": 0,
+      "explanation": "As areias movediças ficam escondidas sob a água."
+    },
+    {
+      "question": "Complete com o Imparfait: « Le guide ___ des visiteurs. »",
+      "options": ["s'approchait", "s'est approché", "s'approche"],
+      "correctIndex": 0,
+      "explanation": "Ação contínua no passado: il s'approchait."
+    },
+    {
+      "question": "Quanto tempo durou a travessia?",
+      "options": ["duas horas", "dez minutos", "um dia inteiro"],
+      "correctIndex": 0,
+      "explanation": "A travessia durou duas horas."
+    },
+    {
+      "question": "Qual frase usa 'mais' para oposição?",
+      "options": ["La traversée était belle, mais fatigante.", "La traversée était belle et fatigante.", "La traversée était belle donc fatigante."],
+      "correctIndex": 0,
+      "explanation": "'Mais' opõe a beleza ao cansaço."
+    }
+  ]
+}

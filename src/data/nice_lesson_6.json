@@ -1,0 +1,252 @@
+{
+  "id": "nice_lesson_6",
+  "cityId": "nice",
+  "domain": "Carnaval e Cultura",
+  "level": "Avançado (C2)",
+  "titleFr": "Le carnaval de Nice et le tramway",
+  "titlePt": "O carnaval de Nice e o bonde",
+  "subtitleFr": "Les chars, les batailles de fleurs et l'art de l'ironie",
+  "subtitlePt": "Os carros alegóricos, as batalhas de flores e a arte da ironia",
+  "summaryPt": "Nesta Aula 6 (C2), a família assiste ao carnaval de Nice — um dos maiores do mundo — e percorre a cidade de tramway. O aluno domina a ironie e o subtexto, com vocabulário da festa, dos carros alegóricos e da cidade moderna.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Depuis 1873, le carnaval de Nice anime la ville pendant deux semaines. Les chars géants, hauts de vingt mètres, défilèrent sur la promenade. « Sa Majesté Carnaval, annonça le présentateur, règne sur la ville comme il règne sur les cœurs. » Iris applaudit : « Quel roi élégant ! »",
+      "pt": "Desde 1873, o carnaval de Nice anima a cidade durante duas semanas. Os carros alegóricos gigantes, de vinte metros de altura, desfilaram na promenade. « Sua Majestade Carnaval, anunciou o apresentador, reina sobre a cidade como reina sobre os corações. » Íris aplaudiu: « Que rei elegante! »"
+    },
+    {
+      "id": 2,
+      "fr": "Pendant la bataille de fleurs, des centaines de mimosas volèrent vers la foule. « Le carnaval, dit Andréa en riant, est une affaire très sérieuse : il faut des mois de travail pour que la folie dure deux semaines. » Irlan hocha la tête : « Évidemment, rien de plus sérieux que la fête. »",
+      "pt": "Durante a batalha de flores, centenas de mimosas voaram para a multidão. « O carnaval, disse Andréa rindo, é um assunto muito sério: são precisos meses de trabalho para que a loucura dure duas semanas. » Irlan assentiu: « Evidentemente, nada mais sério que a festa. »"
+    },
+    {
+      "id": 3,
+      "fr": "Le lendemain, la famille découvrit le tramway, qui relie l'aéroport au port. « Ce n'est pas un simple moyen de transport, dit Irlan. Le tramway est une galerie d'art : chaque station expose des œuvres. La ville elle-même devient un musée. »",
+      "pt": "No dia seguinte, a família descobriu o bonde, que liga o aeroporto ao porto. « Não é um simples meio de transporte, disse Irlan. O bonde é uma galeria de arte: cada estação expõe obras. A própria cidade vira um museu. »"
+    },
+    {
+      "id": 4,
+      "fr": "Au terminus, face à la mer, Irlan conclut : « Nous avons vu la France du Nord au Sud : des brumes de Paris aux mimosas de Nice. Et si je devais résumer ce voyage ? Le pays n'est pas une carte : c'est une fête, une bataille de fleurs, une conversation. » Andréa murmura : « On ne saurait mieux dire. »",
+      "pt": "No terminal, diante do mar, Irlan concluiu: « Vimos a França do Norte ao Sul: das brumas de Paris aos mimosas de Nice. E se eu tivesse que resumir esta viagem? O país não é um mapa: é uma festa, uma batalha de flores, uma conversa. » Andréa murmurou: « Não se poderia dizer melhor. »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "le carnaval",
+      "definitionPt": "o carnaval",
+      "definitionFr": "Fête populaire avec défilés.",
+      "inflections": ["le carnaval", "les carnavals"],
+      "ptTargets": ["carnaval"],
+      "examples": [
+        { "level": "A1", "fr": "Le carnaval est coloré.", "pt": "O carnaval é colorido." },
+        { "level": "A2-B1", "fr": "Le carnaval de Nice est célèbre.", "pt": "O carnaval de Nice é famoso." },
+        { "level": "B1-B2", "fr": "Le carnaval, vieux de plus de cent cinquante ans, attire des milliers de visiteurs.", "pt": "O carnaval, com mais de cento e cinquenta anos, atrai milhares de visitantes." },
+        { "level": "C1-C2", "fr": "C'est le carnaval qui, chaque année, réinvente l'âme de la Riviera.", "pt": "É o carnaval que, a cada ano, reinventa a alma da Riviera." }
+      ]
+    },
+    {
+      "term": "le char",
+      "definitionPt": "o carro alegórico",
+      "definitionFr": "Véhicule décoré pour un défilé.",
+      "inflections": ["le char", "les chars"],
+      "ptTargets": ["carro alegórico"],
+      "examples": [
+        { "level": "A1", "fr": "Le char est grand.", "pt": "O carro alegórico é grande." },
+        { "level": "A2-B1", "fr": "Les chars défilent sur la promenade.", "pt": "Os carros alegóricos desfilam na promenade." },
+        { "level": "B1-B2", "fr": "Les chars, hauts de vingt mètres, dominent la foule.", "pt": "Os carros alegóricos, de vinte metros, dominam a multidão." },
+        { "level": "C1-C2", "fr": "C'est sur ces chars que le carnaval déploie toute sa démesure.", "pt": "É nesses carros que o carnaval desdobra todo seu excesso." }
+      ]
+    },
+    {
+      "term": "la fleur",
+      "definitionPt": "a flor",
+      "definitionFr": "Partie colorée d'une plante.",
+      "inflections": ["la fleur", "les fleurs"],
+      "ptTargets": ["flor"],
+      "examples": [
+        { "level": "A1", "fr": "La fleur est jaune.", "pt": "A flor é amarela." },
+        { "level": "A2-B1", "fr": "Les fleurs volent vers la foule.", "pt": "As flores voam para a multidão." },
+        { "level": "B1-B2", "fr": "Les fleurs, lancées des chars, parfument la bataille.", "pt": "As flores, lançadas dos carros, perfumam a batalha." },
+        { "level": "C1-C2", "fr": "C'est la bataille de fleurs qui transforme la fête en poème.", "pt": "É a batalha de flores que transforma a festa em poema." }
+      ]
+    },
+    {
+      "term": "le mimosa",
+      "definitionPt": "o mimosa (acácia amarela)",
+      "definitionFr": "Fleur jaune de la Riviera.",
+      "inflections": ["le mimosa", "les mimosas"],
+      "ptTargets": ["mimosa", "acácia amarela"],
+      "examples": [
+        { "level": "A1", "fr": "Le mimosa est jaune.", "pt": "O mimosa é amarelo." },
+        { "level": "A2-B1", "fr": "Les mimosas parfument l'hiver niçois.", "pt": "Os mimosas perfumam o inverno nissardo." },
+        { "level": "B1-B2", "fr": "Les mimosas, dorés, annoncent le printemps de la Riviera.", "pt": "Os mimosas, dourados, anunciam a primavera da Riviera." },
+        { "level": "C1-C2", "fr": "C'est le mimosa qui, en février, donne au carnaval sa couleur de soleil.", "pt": "É o mimosa que, em fevereiro, dá ao carnaval sua cor de sol." }
+      ]
+    },
+    {
+      "term": "la foule",
+      "definitionPt": "a multidão",
+      "definitionFr": "Grand nombre de personnes réunies.",
+      "inflections": ["la foule", "les foules"],
+      "ptTargets": ["multidão"],
+      "examples": [
+        { "level": "A1", "fr": "La foule est grande.", "pt": "A multidão é grande." },
+        { "level": "A2-B1", "fr": "La foule applaudit les chars.", "pt": "A multidão aplaude os carros alegóricos." },
+        { "level": "B1-B2", "fr": "La foule, joyeuse, suit le défilé jusqu'au bout.", "pt": "A multidão, alegre, segue o desfile até o fim." },
+        { "level": "C1-C2", "fr": "C'est la foule qui, par son énergie, donne vie au carnaval.", "pt": "É a multidão que, por sua energia, dá vida ao carnaval." }
+      ]
+    },
+    {
+      "term": "le tramway",
+      "definitionPt": "o bonde (elétrico)",
+      "definitionFr": "Transport en commun sur rails.",
+      "inflections": ["le tramway", "les tramways"],
+      "ptTargets": ["bonde", "elétrico", "tram"],
+      "examples": [
+        { "level": "A1", "fr": "Le tramway est moderne.", "pt": "O bonde é moderno." },
+        { "level": "A2-B1", "fr": "Le tramway relie l'aéroport au port.", "pt": "O bonde liga o aeroporto ao porto." },
+        { "level": "B1-B2", "fr": "Le tramway, silencieux, traverse le centre historique.", "pt": "O bonde, silencioso, atravessa o centro histórico." },
+        { "level": "C1-C2", "fr": "C'est le tramway qui, au fil des stations, raconte l'histoire de la ville.", "pt": "É o bonde que, ao longo das estações, conta a história da cidade." }
+      ]
+    },
+    {
+      "term": "la station",
+      "definitionPt": "a estação (de bonde/metrô)",
+      "definitionFr": "Arrêt d'un transport en commun.",
+      "inflections": ["la station", "les stations"],
+      "ptTargets": ["estação", "ponto"],
+      "examples": [
+        { "level": "A1", "fr": "La station est proche.", "pt": "A estação é próxima." },
+        { "level": "A2-B1", "fr": "La station expose une œuvre.", "pt": "A estação expõe uma obra." },
+        { "level": "B1-B2", "fr": "Les stations, décorées, transforment le trajet en visite.", "pt": "As estações, decoradas, transformam o trajeto em visita." },
+        { "level": "C1-C2", "fr": "C'est à chaque station que se révèle un fragment de l'art niçois.", "pt": "É a cada estação que se revela um fragmento da arte nissarda." }
+      ]
+    },
+    {
+      "term": "la galerie",
+      "definitionPt": "a galeria",
+      "definitionFr": "Lieu d'exposition d'œuvres d'art.",
+      "inflections": ["la galerie", "les galeries"],
+      "ptTargets": ["galeria"],
+      "examples": [
+        { "level": "A1", "fr": "La galerie est blanche.", "pt": "A galeria é branca." },
+        { "level": "A2-B1", "fr": "Le tramway est une galerie d'art.", "pt": "O bonde é uma galeria de arte." },
+        { "level": "B1-B2", "fr": "Les galeries, nombreuses, font vivre les artistes locaux.", "pt": "As galerias, numerosas, fazem viver os artistas locais." },
+        { "level": "C1-C2", "fr": "C'est la galerie qui, en exposant, dialogue avec la ville entière.", "pt": "É a galeria que, ao expor, dialoga com a cidade inteira." }
+      ]
+    },
+    {
+      "term": "l'ironie",
+      "definitionPt": "a ironia",
+      "definitionFr": "Moquerie fine, dire le contraire de ce qu'on pense.",
+      "inflections": ["l'ironie", "les ironies"],
+      "ptTargets": ["ironia"],
+      "examples": [
+        { "level": "A1", "fr": "L'ironie est drôle.", "pt": "A ironia é engraçada." },
+        { "level": "A2-B1", "fr": "Andréa utilise l'ironie.", "pt": "Andréa usa a ironia." },
+        { "level": "B1-B2", "fr": "L'ironie, subtile, demande une oreille attentive.", "pt": "A ironia, sutil, exige um ouvido atento." },
+        { "level": "C1-C2", "fr": "C'est l'ironie qui, chez les Français, exprime l'affection la plus fine.", "pt": "É a ironia que, entre os franceses, expressa o afeto mais fino." }
+      ]
+    },
+    {
+      "term": "le subtexte",
+      "definitionPt": "o subtexto",
+      "definitionFr": "Sens caché sous les paroles.",
+      "inflections": ["le subtexte", "les subtextes"],
+      "ptTargets": ["subtexto"],
+      "examples": [
+        { "level": "A1", "fr": "Le subtexte est caché.", "pt": "O subtexto está escondido." },
+        { "level": "A2-B1", "fr": "Ses paroles ont un subtexte.", "pt": "Suas palavras têm um subtexto." },
+        { "level": "B1-B2", "fr": "Le subtexte, deviné, enrichit la conversation.", "pt": "O subtexto, adivinhado, enriquece a conversa." },
+        { "level": "C1-C2", "fr": "C'est le subtexte qui donne à l'ironie sa profondeur.", "pt": "É o subtexto que dá à ironia sua profundidade." }
+      ]
+    },
+    {
+      "term": "le terminus",
+      "definitionPt": "o ponto final (da linha)",
+      "definitionFr": "Dernier arrêt d'une ligne.",
+      "inflections": ["le terminus", "les terminus"],
+      "ptTargets": ["ponto final", "terminal"],
+      "examples": [
+        { "level": "A1", "fr": "Le terminus est là.", "pt": "O ponto final é aqui." },
+        { "level": "A2-B1", "fr": "Le terminus est près de la mer.", "pt": "O ponto final fica perto do mar." },
+        { "level": "B1-B2", "fr": "Le terminus, face à la baie, offre une vue superbe.", "pt": "O ponto final, diante da baía, oferece uma vista soberba." },
+        { "level": "C1-C2", "fr": "C'est au terminus que se termine, comme le voyage, la ligne.", "pt": "É no ponto final que se encerra, como a viagem, a linha." }
+      ]
+    },
+    {
+      "term": "la conversation",
+      "definitionPt": "a conversa",
+      "definitionFr": "Échange de paroles.",
+      "inflections": ["la conversation", "les conversations"],
+      "ptTargets": ["conversa", "conversação"],
+      "examples": [
+        { "level": "A1", "fr": "La conversation est courte.", "pt": "A conversa é curta." },
+        { "level": "A2-B1", "fr": "La conversation est animée.", "pt": "A conversa é animada." },
+        { "level": "B1-B2", "fr": "Les conversations, vives, sont l'art de vivre français.", "pt": "As conversas, vivas, são a arte de viver francesa." },
+        { "level": "C1-C2", "fr": "C'est la conversation qui, bien menée, révèle toute la culture d'un peuple.", "pt": "É a conversa que, bem conduzida, revela toda a cultura de um povo." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "L'ironie et le subtexte",
+    "explanationPt": "A ironia diz o contrário do que pensa, com um sorriso: 'le carnaval est une affaire très sérieuse' (uma coisa muito séria) — quando é justamente a folia. O subtexto está no que não se diz.",
+    "exampleFr": "Il faut des mois de travail pour que la folie dure deux semaines. Rien de plus sérieux que la fête.",
+    "examplePt": "São precisos meses de trabalho para que a loucura dure duas semanas. Nada mais sério que a festa.",
+    "practiceQuestion": "Onde está a ironia?",
+    "options": ["« Rien de plus sérieux que la fête »", "« Le char est haut »", "« La fleur est jaune »"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "Sa Majesté Carnaval : la personnification",
+        "explanationPt": "O carnaval vira personagem real: 'Sa Majesté Carnaval règne sur la ville'. A personificação dá à festa sua majestade irônica.",
+        "exampleFr": "Sa Majesté Carnaval règne sur la ville comme il règne sur les cœurs.",
+        "examplePt": "Sua Majestade Carnaval reina sobre a cidade como reina sobre os corações.",
+        "practiceQuestion": "Complete: « Sa ___ Carnaval règne sur la ville. »",
+        "options": ["Majesté", "Grandeur", "Sainteté"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "On ne saurait mieux dire : l'éloge retenu",
+        "explanationPt": "Fórmula de aprovação elegante: 'on ne saurait mieux dire' (não se poderia dizer melhor). Elogio com moderação, marca do registro C2.",
+        "exampleFr": "On ne saurait mieux dire.",
+        "examplePt": "Não se poderia dizer melhor.",
+        "practiceQuestion": "Complete: « On ne ___ mieux dire. »",
+        "options": ["saurait", "saura", "sait"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Desde quando existe o carnaval de Nice?",
+      "options": ["desde 1873", "desde 1066", "desde 1945"],
+      "correctIndex": 0,
+      "explanation": "O carnaval de Nice anima a cidade desde 1873."
+    },
+    {
+      "question": "O que é a bataille de fleurs?",
+      "options": ["flores lançadas dos carros para a multidão", "uma competição de jardinagem", "uma corrida de tratores"],
+      "correctIndex": 0,
+      "explanation": "Na batalha de flores, mimosas e outras flores voam dos carros para a multidão."
+    },
+    {
+      "question": "O que o tramway de Nice liga?",
+      "options": ["o aeroporto ao porto", "a montanha ao deserto", "o estádio ao cemitério"],
+      "correctIndex": 0,
+      "explanation": "O bonde liga o aeroporto ao porto."
+    },
+    {
+      "question": "Onde está a ironia?",
+      "options": ["« Rien de plus sérieux que la fête »", "« Le char est haut »", "« La fleur est jaune »"],
+      "correctIndex": 0,
+      "explanation": "Dizer que nada é mais sério que a festa é pura ironia."
+    },
+    {
+      "question": "Como Irlan resume a França?",
+      "options": ["uma festa, uma batalha de flores, uma conversa", "um mapa, uma estrada, um imposto", "um museu fechado"],
+      "correctIndex": 0,
+      "explanation": "O país não é uma carta: é festa, batalha de flores e conversa."
+    }
+  ]
+}

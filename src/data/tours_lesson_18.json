@@ -1,0 +1,237 @@
+{
+  "id": "tours_lesson_18",
+  "cityId": "tours",
+  "domain": "Gastronomia",
+  "level": "Intermediário (B1)",
+  "titleFr": "Les macarons de Cormery : la naissance d'une légende",
+  "titlePt": "Os macarons de Cormery: o nascimento de uma lenda",
+  "subtitleFr": "Les religieuses de Cormery inventèrent le macaron au Moyen Âge",
+  "subtitlePt": "As religiosas de Cormery inventaram o macaron na Idade Média",
+  "summaryPt": "Nesta Aula 18 (B1), a família descobre que o macaron nasceu em Cormery, perto de Tours: as religiosas da abadia o criaram na Idade Média. O aluno pratica o passado narrativo com imparfait e passé composé, os pronomes relativos e o vocabulário da confeitaria.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "« Sais-tu où est né le macaron ? » a demandé Andréa. Iris a réfléchi : « À Paris ? » « Non ! À Cormery, près de Tours. Les religieuses de l'abbaye l'ont inventé au Moyen Âge. »",
+      "pt": "« Sabe onde nasceu o macaron? » perguntou Andréa. Íris pensou: « Em Paris? » « Não! Em Cormery, perto de Tours. As religiosas da abadia o inventaram na Idade Média. »"
+    },
+    {
+      "id": 2,
+      "fr": "Dans la boutique de Cormery, la famille a goûté les petits macarons dorés. « Ils sont moins colorés que ceux de Paris », a remarqué Irlan. « Mais ils sont plus anciens et plus naturels. »",
+      "pt": "Na loja de Cormery, a família provou os pequenos macarons dourados. « São menos coloridos que os de Paris », observou Irlan. « Mas são mais antigos e mais naturais. »"
+    },
+    {
+      "id": 3,
+      "fr": "La vendeuse a expliqué : « La recette vient du couvent. On utilise des amandes, du sucre et des blancs d'œufs. C'est tout. Le secret, c'est la cuisson. »",
+      "pt": "A vendedora explicou: « A receita vem do convento. Usam-se amêndoas, açúcar e claras de ovo. Só isso. O segredo é o cozimento. »"
+    },
+    {
+      "id": 4,
+      "fr": "Iris a compté ses macarons : « J'en garde deux pour mamie au Brésil ! » Irlan a souri : « Les macarons voyagent mieux que les baisers. Mais je suis sûr que mamie préférerait un appel. »",
+      "pt": "Íris contou seus macarons: « Guardo dois para a vovó no Brasil! » Irlan sorriu: « Macarons viajam melhor que beijos. Mas tenho certeza de que a vovó preferiria uma ligação. »"
+    },
+    {
+      "id": 5,
+      "fr": "Le soir, la famille a décidé : demain, on visitera le musée du Compagnonnage à Tours. « Les compagnons, eux aussi, ont des secrets », a dit Irlan. « Comme les religieuses de Cormery. »",
+      "pt": "À noite, a família decidiu: amanhã, visitaremos o museu do Companheirismo em Tours. « Os companheiros, eles também, têm segredos », disse Irlan. « Como as religiosas de Cormery. »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "le macaron",
+      "definitionPt": "o macaron",
+      "definitionFr": "Petit gâteau aux amandes, né à Cormery.",
+      "inflections": ["le macaron", "un macaron", "des macarons"],
+      "ptTargets": ["macaron"],
+      "examples": [
+        { "level": "A1", "fr": "Le macaron est doux.", "pt": "O macaron é doce." },
+        { "level": "A2-B1", "fr": "Les macarons de Cormery sont célèbres.", "pt": "Os macarons de Cormery são famosos." },
+        { "level": "B1", "fr": "Le macaron que nous avons goûté est né ici.", "pt": "O macaron que provamos nasceu aqui." },
+        { "level": "C1-C2", "fr": "Le macaron, bijou de sucre, raconte sept siècles d'histoire.", "pt": "O macaron, joia de açúcar, conta sete séculos de história." }
+      ]
+    },
+    {
+      "term": "la religieuse",
+      "definitionPt": "a religiosa, a freira",
+      "definitionFr": "Femme qui vit dans un couvent.",
+      "inflections": ["la religieuse", "une religieuse", "des religieuses"],
+      "ptTargets": ["religiosa", "freira"],
+      "examples": [
+        { "level": "A1", "fr": "La religieuse prie.", "pt": "A religiosa reza." },
+        { "level": "A2-B1", "fr": "Les religieuses ont inventé le macaron.", "pt": "As religiosas inventaram o macaron." },
+        { "level": "B1", "fr": "Les religieuses qui vivaient ici étaient boulangères.", "pt": "As religiosas que viviam aqui eram padeiras." },
+        { "level": "C1-C2", "fr": "La religieuse, pâtissière de Dieu, offrait ses douceurs aux pèlerins.", "pt": "A religiosa, doceira de Deus, oferecia seus doces aos peregrinos." }
+      ]
+    },
+    {
+      "term": "l'abbaye",
+      "definitionPt": "a abadia",
+      "definitionFr": "Grand monastère.",
+      "inflections": ["l'abbaye", "une abbaye", "des abbayes"],
+      "ptTargets": ["abadia"],
+      "examples": [
+        { "level": "A1", "fr": "L'abbaye est ancienne.", "pt": "A abadia é antiga." },
+        { "level": "A2-B1", "fr": "L'abbaye de Cormery est très vieille.", "pt": "A abadia de Cormery é muito velha." },
+        { "level": "B1", "fr": "L'abbaye où sont nés les macarons existe toujours.", "pt": "A abadia onde nasceram os macarons ainda existe." },
+        { "level": "C1-C2", "fr": "L'abbaye, ruche de pierre, a essaimé ses recettes dans le monde.", "pt": "A abadia, colmeia de pedra, espalhou suas receitas pelo mundo." }
+      ]
+    },
+    {
+      "term": "l'amande",
+      "definitionPt": "a amêndoa",
+      "definitionFr": "Fruit sec utilisé en pâtisserie.",
+      "inflections": ["l'amande", "une amande", "des amandes"],
+      "ptTargets": ["amêndoa"],
+      "examples": [
+        { "level": "A1", "fr": "L'amande est petite.", "pt": "A amêndoa é pequena." },
+        { "level": "A2-B1", "fr": "Le macaron est fait d'amandes.", "pt": "O macaron é feito de amêndoas." },
+        { "level": "B1", "fr": "Les amandes que l'on moud donnent la poudre.", "pt": "As amêndoas que se moem dão o pó." },
+        { "level": "C1-C2", "fr": "L'amande, noyau discret, porte tout le goût du macaron.", "pt": "A amêndoa, núcleo discreto, carrega todo o sabor do macaron." }
+      ]
+    },
+    {
+      "term": "le blanc d'œuf",
+      "definitionPt": "a clara de ovo",
+      "definitionFr": "Partie blanche de l'œuf.",
+      "inflections": ["le blanc d'œuf", "des blancs d'œufs"],
+      "ptTargets": ["clara de ovo"],
+      "examples": [
+        { "level": "A1", "fr": "Le blanc d'œuf est blanc.", "pt": "A clara de ovo é branca." },
+        { "level": "A2-B1", "fr": "La recette demande des blancs d'œufs.", "pt": "A receita pede claras de ovo." },
+        { "level": "B1", "fr": "Les blancs d'œufs que l'on bat deviennent mousseux.", "pt": "As claras que se batem ficam espumosas." },
+        { "level": "C1-C2", "fr": "Le blanc d'œuf, nuage fragile, donne au macaron son âme légère.", "pt": "A clara de ovo, nuvem frágil, dá ao macaron sua alma leve." }
+      ]
+    },
+    {
+      "term": "la cuisson",
+      "definitionPt": "o cozimento",
+      "definitionFr": "Action de cuire.",
+      "inflections": ["la cuisson", "une cuisson", "des cuissons"],
+      "ptTargets": ["cozimento"],
+      "examples": [
+        { "level": "A1", "fr": "La cuisson est longue.", "pt": "O cozimento é longo." },
+        { "level": "A2-B1", "fr": "Le secret, c'est la cuisson.", "pt": "O segredo é o cozimento." },
+        { "level": "B1", "fr": "La cuisson que nous avons contrôlée était parfaite.", "pt": "O cozimento que controlamos estava perfeito." },
+        { "level": "C1-C2", "fr": "La cuisson, minute de vérité, décide du destin du gâteau.", "pt": "O cozimento, minuto da verdade, decide o destino do bolo." }
+      ]
+    },
+    {
+      "term": "le couvent",
+      "definitionPt": "o convento",
+      "definitionFr": "Maison des religieuses.",
+      "inflections": ["le couvent", "un couvent", "des couvents"],
+      "ptTargets": ["convento"],
+      "examples": [
+        { "level": "A1", "fr": "Le couvent est calme.", "pt": "O convento é calmo." },
+        { "level": "A2-B1", "fr": "La recette vient du couvent.", "pt": "A receita vem do convento." },
+        { "level": "B1", "fr": "Le couvent où l'on cuisinait les macarons est devenu une boutique.", "pt": "O convento onde se cozinhavam os macarons virou uma loja." },
+        { "level": "C1-C2", "fr": "Le couvent, ruche de prières, exhalait aussi des parfums sucrés.", "pt": "O convento, colmeia de orações, exalava também perfumes doces." }
+      ]
+    },
+    {
+      "term": "la vendeuse",
+      "definitionPt": "a vendedora",
+      "definitionFr": "Femme qui vend dans un magasin.",
+      "inflections": ["la vendeuse", "une vendeuse", "des vendeuses"],
+      "ptTargets": ["vendedora"],
+      "examples": [
+        { "level": "A1", "fr": "La vendeuse est gentille.", "pt": "A vendedora é gentil." },
+        { "level": "A2-B1", "fr": "La vendeuse a expliqué la recette.", "pt": "A vendedora explicou a receita." },
+        { "level": "B1", "fr": "La vendeuse que nous avons écoutée connaît l'histoire.", "pt": "A vendedora que ouvimos conhece a história." },
+        { "level": "C1-C2", "fr": "La vendeuse, gardienne de la tradition, transmet la recette comme un héritage.", "pt": "A vendedora, guardiã da tradição, transmite a receita como uma herança." }
+      ]
+    },
+    {
+      "term": "le baiser",
+      "definitionPt": "o beijo",
+      "definitionFr": "Bisou, contact des lèvres.",
+      "inflections": ["le baiser", "un baiser", "des baisers"],
+      "ptTargets": ["beijo"],
+      "examples": [
+        { "level": "A1", "fr": "Le baiser est doux.", "pt": "O beijo é doce." },
+        { "level": "A2-B1", "fr": "Les macarons voyagent mieux que les baisers.", "pt": "Os macarons viajam melhor que os beijos." },
+        { "level": "B1", "fr": "Le baiser que mamie enverra passera par le téléphone.", "pt": "O beijo que a vovó mandará passará pelo telefone." },
+        { "level": "C1-C2", "fr": "Le baiser, message sans enveloppe, traverse les distances sans frais.", "pt": "O beijo, mensagem sem envelope, atravessa distâncias sem custo." }
+      ]
+    },
+    {
+      "term": "la poudre",
+      "definitionPt": "o pó",
+      "definitionFr": "Matière réduite en grains très fins.",
+      "inflections": ["la poudre", "une poudre", "des poudres"],
+      "ptTargets": ["pó"],
+      "examples": [
+        { "level": "A1", "fr": "La poudre est fine.", "pt": "O pó é fino." },
+        { "level": "A2-B1", "fr": "On moud les amandes en poudre.", "pt": "Moem-se as amêndoas em pó." },
+        { "level": "B1", "fr": "La poudre d'amandes que l'on utilise est délicate.", "pt": "O pó de amêndoas que se usa é delicado." },
+        { "level": "C1-C2", "fr": "La poudre, neige sucrée, enrobe la pâtisserie de douceur.", "pt": "O pó, neve açucarada, envolve a confeitaria de doçura." }
+      ]
+    },
+    {
+      "term": "compter",
+      "definitionPt": "contar",
+      "definitionFr": "Faire des nombres.",
+      "inflections": ["je compte", "tu comptes", "il compte", "nous comptons"],
+      "ptTargets": ["contar"],
+      "examples": [
+        { "level": "A1", "fr": "Je compte les macarons.", "pt": "Eu conto os macarons." },
+        { "level": "A2-B1", "fr": "Iris a compté ses macarons.", "pt": "Íris contou seus macarons." },
+        { "level": "B1", "fr": "Le nombre que nous avons compté est exact.", "pt": "O número que contamos é exato." },
+        { "level": "C1-C2", "fr": "Compter les douceurs, c'est déjà les savourer deux fois.", "pt": "Contar as doçuras já é saboreá-las duas vezes." }
+      ]
+    },
+    {
+      "term": "la légende",
+      "definitionPt": "a lenda",
+      "definitionFr": "Histoire ancienne et merveilleuse.",
+      "inflections": ["la légende", "une légende", "des légendes"],
+      "ptTargets": ["lenda"],
+      "examples": [
+        { "level": "A1", "fr": "La légende est belle.", "pt": "A lenda é bonita." },
+        { "level": "A2-B1", "fr": "La légende du macaron est née à Cormery.", "pt": "A lenda do macaron nasceu em Cormery." },
+        { "level": "B1", "fr": "La légende que raconte la vendeuse est vraie.", "pt": "A lenda que a vendedora conta é verdadeira." },
+        { "level": "C1-C2", "fr": "La légende, vérité sucrée, survit mieux que les archives.", "pt": "A lenda, verdade açucarada, sobrevive melhor que os arquivos." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "titleFr": "Le comparatif avec les adjectifs",
+    "titlePt": "O comparativo com adjetivos",
+    "points": [
+      {
+        "fr": "Le comparatif : « plus ancien que, moins coloré que, aussi naturel que ». Exemple : « Les macarons de Cormery sont plus anciens que ceux de Paris. »",
+        "pt": "O comparativo: « plus ancien que » (mais antigo que), « moins coloré que » (menos colorido que), « aussi naturel que » (tão natural quanto). Exemplo: « Os macarons de Cormery são mais antigos que os de Paris. »"
+      },
+      {
+        "fr": "Raconter l'origine : « naître dans, venir de, être inventé par ». Exemple : « Le macaron est né dans l'abbaye de Cormery. »",
+        "pt": "Contar a origem: « naître dans » (nascer em), « venir de » (vir de), « être inventé par » (ser inventado por). Exemplo: « O macaron nasceu na abadia de Cormery. »"
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Où est né le macaron ?",
+      "options": ["À Cormery", "À Paris", "À Lyon", "À Marseille"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Qui a inventé le macaron ?",
+      "options": ["Les religieuses", "Les rois", "Les soldats", "Les pêcheurs"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Quels sont les ingrédients du macaron ?",
+      "options": ["Amandes, sucre, blancs d'œufs", "Farine, sel, poivre", "Chocolat, lait, beurre", "Riz, miel, fromage"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Que garde Iris pour sa grand-mère ?",
+      "options": ["Deux macarons", "Un vélo", "Une bouteille", "Un dessin"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Où la famille ira-t-elle demain ?",
+      "options": ["Au musée du Compagnonnage", "Au ski", "À la plage", "Au parc d'attractions"],
+      "correctIndex": 0
+    }
+  ]
+}

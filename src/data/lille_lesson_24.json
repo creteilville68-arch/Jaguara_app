@@ -1,0 +1,252 @@
+{
+  "id": "lille_lesson_24",
+  "cityId": "lille",
+  "domain": "Cotidiano",
+  "level": "Básico (A2)",
+  "titleFr": "La préparation du départ",
+  "titlePt": "A preparação da partida",
+  "subtitleFr": "Les valises, les billets et les adieux aux voisins",
+  "subtitlePt": "As malas, as passagens e os adeuses aos vizinhos",
+  "summaryPt": "Nesta Aula 24 (A2), a família prepara a partida de Lille para a Normandia: as malas, os bilhetes de trem, os adeuses aos vizinhos e o aluguel da casa. O aluno pratica o Futur Proche (nous allons partir), os imperativos (n'oublie pas, n'oublions pas) e o vocabulário da viagem.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Le soir avant le départ, la maison était pleine de valises. « Nous allons partir demain matin à neuf heures », a dit Irlan. « Il ne faut rien oublier ! »",
+      "pt": "Na noite antes da partida, a casa estava cheia de malas. « Vamos partir amanhã de manhã às nove horas », disse Irlan. « Não se pode esquecer nada! »"
+    },
+    {
+      "id": 2,
+      "fr": "Andréa a fait la liste : « N'oublie pas les billets de train. N'oublions pas les cadeaux pour la famille de Normandie. N'oubliez pas vos manteaux ! »",
+      "pt": "Andréa fez a lista: « Não esqueça as passagens de trem. Não esqueçamos os presentes para a família da Normandia. Não esqueçam seus casacos! »"
+    },
+    {
+      "id": 3,
+      "fr": "Les voisins sont venus dire au revoir. « Nous allons vous manquer », a dit madame Dubois. « Revenez vite ! » Íris a promis : « Je vais vous écrire des cartes. »",
+      "pt": "Os vizinhos vieram se despedir. « Vamos sentir saudades de vocês », disse madame Dubois. « Voltem logo! » Íris prometeu: « Vou escrever cartões para vocês. »"
+    },
+    {
+      "id": 4,
+      "fr": "Le soir, Irlan a regardé Lille par la fenêtre. « Je suis arrivé livreur, je repars géographe de ma propre vie. Merci, Lille. »",
+      "pt": "À noite, Irlan olhou Lille pela janela. « Cheguei entregador, parto geógrafo da minha própria vida. Obrigado, Lille. »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "la valise",
+      "definitionPt": "a mala",
+      "definitionFr": "Bagage à main.",
+      "inflections": ["la valise", "une valise", "des valises"],
+      "ptTargets": ["mala"],
+      "examples": [
+        { "level": "A1", "fr": "La valise est pleine.", "pt": "A mala está cheia." },
+        { "level": "A2-B1", "fr": "Nous avons préparé les valises pour le départ.", "pt": "Preparamos as malas para a partida." },
+        { "level": "B2", "fr": "Les valises attendaient dans le couloir.", "pt": "As malas esperavam no corredor." },
+        { "level": "C1-C2", "fr": "Faire ses valises, c'est choisir ce qu'on emporte de sa vie.", "pt": "Fazer as malas é escolher o que se leva da própria vida." }
+      ]
+    },
+    {
+      "term": "le billet",
+      "definitionPt": "a passagem, o bilhete",
+      "definitionFr": "Ticket de train, d'avion.",
+      "inflections": ["le billet", "un billet", "des billets"],
+      "ptTargets": ["passagem", "bilhete"],
+      "examples": [
+        { "level": "A1", "fr": "Le billet coûte vingt euros.", "pt": "A passagem custa vinte euros." },
+        { "level": "A2-B1", "fr": "N'oublie pas les billets de train !", "pt": "Não esqueça as passagens de trem!" },
+        { "level": "B2", "fr": "Les billets pour la Normandie sont déjà réservés.", "pt": "As passagens para a Normandia já estão reservadas." },
+        { "level": "C1-C2", "fr": "Un billet de train est une promesse de départ, même sans destination précise.", "pt": "Uma passagem de trem é uma promessa de partida, mesmo sem destino preciso." }
+      ]
+    },
+    {
+      "term": "le voisin",
+      "definitionPt": "o vizinho",
+      "definitionFr": "Personne qui habite à côté.",
+      "inflections": ["le voisin", "la voisine", "des voisins"],
+      "ptTargets": ["vizinho"],
+      "examples": [
+        { "level": "A1", "fr": "Le voisin est gentil.", "pt": "O vizinho é simpático." },
+        { "level": "A2-B1", "fr": "Les voisins sont venus dire au revoir.", "pt": "Os vizinhos vieram se despedir." },
+        { "level": "B2", "fr": "Les voisins du Nord sont chaleureux et généreux.", "pt": "Os vizinhos do Norte são calorosos e generosos." },
+        { "level": "C1-C2", "fr": "On ne choisit pas ses voisins, mais on choisit d'en faire des amis.", "pt": "Não se escolhem os vizinhos, mas escolhe-se fazer deles amigos." }
+      ]
+    },
+    {
+      "term": "dire au revoir",
+      "definitionPt": "despedir-se",
+      "definitionFr": "Faire ses adieux.",
+      "inflections": ["je dis au revoir", "nous disons au revoir", "dit au revoir"],
+      "ptTargets": ["despedir-se", "dizer adeus"],
+      "examples": [
+        { "level": "A1", "fr": "Je dis au revoir à mes amis.", "pt": "Digo adeus aos meus amigos." },
+        { "level": "A2-B1", "fr": "Les voisins sont venus dire au revoir.", "pt": "Os vizinhos vieram se despedir." },
+        { "level": "B2", "fr": "Dire au revoir à une ville, c'est fermer une porte sans casser la clé.", "pt": "Despedir-se de uma cidade é fechar uma porta sem quebrar a chave." },
+        { "level": "C1-C2", "fr": "Dire au revoir n'est jamais un adieu quand on laisse son cœur.", "pt": "Despedir-se nunca é um adeus quando se deixa o coração." }
+      ]
+    },
+    {
+      "term": "manquer",
+      "definitionPt": "fazer falta, sentir falta",
+      "definitionFr": "Être absent ; faire défaut.",
+      "inflections": ["je manque", "nous manquons", "manqué"],
+      "ptTargets": ["fazer falta", "sentir falta"],
+      "examples": [
+        { "level": "A1", "fr": "Tu me manques.", "pt": "Sinto sua falta." },
+        { "level": "A2-B1", "fr": "Nous allons vous manquer.", "pt": "Vamos fazer falta para vocês." },
+        { "level": "B2", "fr": "Lille va me manquer, ses places et ses gens.", "pt": "Vou sentir falta de Lille, de suas praças e seu povo." },
+        { "level": "C1-C2", "fr": "On ne mesure ce qui nous manque qu'au moment de partir.", "pt": "Só medimos o que nos falta no momento de partir." }
+      ]
+    },
+    {
+      "term": "oublier",
+      "definitionPt": "esquecer",
+      "definitionFr": "Ne pas se souvenir de faire quelque chose.",
+      "inflections": ["j'oublie", "nous oublions", "oublié"],
+      "ptTargets": ["esquecer"],
+      "examples": [
+        { "level": "A1", "fr": "J'oublie mon sac.", "pt": "Esqueço minha bolsa." },
+        { "level": "A2-B1", "fr": "N'oublions pas les cadeaux !", "pt": "Não esqueçamos os presentes!" },
+        { "level": "B2", "fr": "Il a oublié son portefeuille à la maison.", "pt": "Ele esqueceu a carteira em casa." },
+        { "level": "C1-C2", "fr": "On oublie les lieux, jamais les au revoir qu'on y a reçus.", "pt": "Esquecemos os lugares, nunca os adeuses que neles recebemos." }
+      ]
+    },
+    {
+      "term": "la carte",
+      "definitionPt": "o cartão, o cartão-postal",
+      "definitionFr": "Carte postale ; carte de visite.",
+      "inflections": ["la carte", "une carte", "des cartes"],
+      "ptTargets": ["cartão", "postal"],
+      "examples": [
+        { "level": "A1", "fr": "La carte est pour toi.", "pt": "O cartão é para você." },
+        { "level": "A2-B1", "fr": "Íris va écrire des cartes aux voisins.", "pt": "Íris vai escrever cartões para os vizinhos." },
+        { "level": "B2", "fr": "Elle envoie une carte postale de chaque ville visitée.", "pt": "Ela envia um cartão-postal de cada cidade visitada." },
+        { "level": "C1-C2", "fr": "Une carte écrite à la main vaut mille messages électroniques.", "pt": "Um cartão escrito à mão vale mil mensagens eletrônicas." }
+      ]
+    },
+    {
+      "term": "la liste",
+      "definitionPt": "a lista",
+      "definitionFr": "Suite de noms ou de choses à faire.",
+      "inflections": ["la liste", "une liste", "des listes"],
+      "ptTargets": ["lista"],
+      "examples": [
+        { "level": "A1", "fr": "La liste est longue.", "pt": "A lista é longa." },
+        { "level": "A2-B1", "fr": "Andréa a fait la liste des choses à prendre.", "pt": "Andréa fez a lista das coisas a levar." },
+        { "level": "B2", "fr": "La liste des bagages est prête depuis hier.", "pt": "A lista de bagagens está pronta desde ontem." },
+        { "level": "C1-C2", "fr": "Les listes rassurent ceux qui préparent un départ.", "pt": "As listas tranquilizam quem prepara uma partida." }
+      ]
+    },
+    {
+      "term": "la maison",
+      "definitionPt": "a casa",
+      "definitionFr": "Bâtiment où l'on habite.",
+      "inflections": ["la maison", "une maison", "des maisons"],
+      "ptTargets": ["casa"],
+      "examples": [
+        { "level": "A1", "fr": "La maison est grande.", "pt": "A casa é grande." },
+        { "level": "A2-B1", "fr": "Nous quittons la maison demain matin.", "pt": "Saímos de casa amanhã de manhã." },
+        { "level": "B2", "fr": "La maison de Lille gardera nos souvenirs.", "pt": "A casa de Lille guardará nossas lembranças." },
+        { "level": "C1-C2", "fr": "Une maison n'est qu'un toit ; c'est l'amour qui en fait un foyer.", "pt": "Uma casa é só um teto; é o amor que a torna um lar." }
+      ]
+    },
+    {
+      "term": "revenir",
+      "definitionPt": "voltar",
+      "definitionFr": "Venir de nouveau.",
+      "inflections": ["je reviens", "nous revenons", "revenu"],
+      "ptTargets": ["voltar", "regressar"],
+      "examples": [
+        { "level": "A1", "fr": "Je reviens demain.", "pt": "Volto amanhã." },
+        { "level": "A2-B1", "fr": "« Revenez vite ! » ont dit les voisins.", "pt": "« Voltem logo! » disseram os vizinhos." },
+        { "level": "B2", "fr": "Elle est revenue à Lille après dix ans.", "pt": "Ela voltou a Lille depois de dez anos." },
+        { "level": "C1-C2", "fr": "Revenir dans une ville, c'est retrouver l'écho de ses propres pas.", "pt": "Voltar a uma cidade é reencontrar o eco dos próprios passos." }
+      ]
+    },
+    {
+      "term": "demain",
+      "definitionPt": "amanhã",
+      "definitionFr": "Le jour qui suit aujourd'hui.",
+      "inflections": ["demain", "demain matin", "à demain"],
+      "ptTargets": ["amanhã"],
+      "examples": [
+        { "level": "A1", "fr": "À demain !", "pt": "Até amanhã!" },
+        { "level": "A2-B1", "fr": "Nous partons demain matin à neuf heures.", "pt": "Partimos amanhã de manhã às nove horas." },
+        { "level": "B2", "fr": "Demain, une nouvelle ville nous attend.", "pt": "Amanhã, uma nova cidade nos espera." },
+        { "level": "C1-C2", "fr": "Demain est la page blanche que la vie nous offre chaque soir.", "pt": "Amanhã é a página em branco que a vida nos oferece todas as noites." }
+      ]
+    },
+    {
+      "term": "le géographe",
+      "definitionPt": "o geógrafo",
+      "definitionFr": "Spécialiste de la géographie.",
+      "inflections": ["le géographe", "la géographe", "des géographes"],
+      "ptTargets": ["geógrafo"],
+      "examples": [
+        { "level": "A1", "fr": "Le géographe étudie les cartes.", "pt": "O geógrafo estuda os mapas." },
+        { "level": "A2-B1", "fr": "Irlan est géographe, mais il a commencé livreur en France.", "pt": "Irlan é geógrafo, mas começou entregador na França." },
+        { "level": "B2", "fr": "Le géographe lit les paysages comme d'autres lisent les livres.", "pt": "O geógrafo lê as paisagens como outros leem livros." },
+        { "level": "C1-C2", "fr": "Le géographe observe les villes, mais c'est la vie qui lui apprend à les aimer.", "pt": "O geógrafo observa as cidades, mas é a vida que lhe ensina a amá-las." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "L'impératif négatif : N'oublie pas, N'oublions pas !",
+    "explanationPt": "O imperativo negativo: ne + verbo + pas. 'N'oublie pas !' (não esqueça — tu), 'N'oublions pas !' (não esqueçamos — nous), 'N'oubliez pas !' (não esqueçam — vous). O pronome 'n'' substitui 'ne' antes de vogal.",
+    "exampleFr": "N'oublie pas les billets, n'oublions pas les cadeaux, n'oubliez pas vos manteaux !",
+    "examplePt": "Não esqueça as passagens, não esqueçamos os presentes, não esqueçam seus casacos!",
+    "practiceQuestion": "Complete: « N'___ pas les billets ! »",
+    "options": ["oublie", "oublies", "oublier"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "Nous allons partir : le futur proche pour les projets",
+        "explanationPt": "Para anunciar planos: 'nous allons partir' (vamos partir), 'je vais écrire' (vou escrever), 'nous allons vous manquer' (vamos fazer falta). Estrutura: aller + infinitif.",
+        "exampleFr": "Nous allons partir demain, puis nous allons visiter la Normandie.",
+        "examplePt": "Vamos partir amanhã, depois vamos visitar a Normandia.",
+        "practiceQuestion": "Complete: « Nous ___ partir demain. »",
+        "options": ["allons", "avons", "sommes"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "Il ne faut rien oublier : il faut + infinitif",
+        "explanationPt": "'Il faut + infinitif' expressa necessidade: 'il faut prendre les billets' (é preciso pegar as passagens). Negativo: 'il ne faut rien oublier' (não se deve esquecer nada).",
+        "exampleFr": "Il faut préparer les valises et il ne faut rien oublier.",
+        "examplePt": "É preciso preparar as malas e não se deve esquecer nada.",
+        "practiceQuestion": "Complete: « Il ___ partir tôt. »",
+        "options": ["faut", "faux", "fais"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "A que horas a família vai partir?",
+      "options": ["Às 9h da manhã", "Ao meio-dia", "À meia-noite"],
+      "correctIndex": 0,
+      "explanation": "A família vai partir amanhã de manhã às nove horas (neuf heures)."
+    },
+    {
+      "question": "Qual é o imperativo negativo correto?",
+      "options": ["N'oublie pas les billets !", "Ne oublie pas les billets !", "N'oublies pas les billets !"],
+      "correctIndex": 0,
+      "explanation": "O imperativo negativo com tu: 'n'oublie pas' — sem 's' e com 'n'' antes de vogal."
+    },
+    {
+      "question": "Complete: « Nous ___ partir demain. »",
+      "options": ["allons", "avons", "sommes"],
+      "correctIndex": 0,
+      "explanation": "'Nous allons partir' = vamos partir (futur proche)."
+    },
+    {
+      "question": "O que Íris prometeu aos vizinhos?",
+      "options": ["Escrever cartões para eles", "Voltar no dia seguinte", "Enviar presentes de Paris"],
+      "correctIndex": 0,
+      "explanation": "Íris prometeu: « Je vais vous écrire des cartes » (vou escrever cartões para vocês)."
+    },
+    {
+      "question": "O que Irlan disse olhando Lille pela janela?",
+      "options": ["Cheguei livreur, parto geógrafo da minha própria vida.", "Nunca mais quero voltar ao Norte.", "Prefiro o Brasil."],
+      "correctIndex": 0,
+      "explanation": "Irlan fechou o capítulo de Lille com gratidão: de livreur a geógrafo de sua própria vida."
+    }
+  ]
+}

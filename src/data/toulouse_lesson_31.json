@@ -1,0 +1,257 @@
+{
+  "id": "toulouse_lesson_31",
+  "cityId": "toulouse",
+  "domain": "Cultura & Arquitetura",
+  "level": "Intermediário (B2)",
+  "titleFr": "La ville rose : l'histoire secrète de la brique",
+  "titlePt": "A cidade rosa: a história secreta do tijolo",
+  "subtitleFr": "Expliquer une identité urbaine avec les connecteurs de cause",
+  "subtitlePt": "Explicar uma identidade urbana com os conectores de causa",
+  "summaryPt": "Por que Toulouse é rosa? Porque a brique foraine, cozida ao sol e feita com a argila do Garona, tornou-se o material obrigatório da cidade depois do incêndio de 1463, pois a pedra era cara e distante. Nesta aula B2, as estruturas causais explicam a identidade da cidade.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "« Regarde cette maison, dit Irlan à Íris. Elle est rose. Et celle-là, rose aussi. Et celle-là, encore rose. » Íris rit : « Tout est rose à Toulouse ! — Exactement, dit Irlan. Et c'est parce qu'il y a une vraie histoire derrière cette couleur. »",
+      "pt": "« Olha essa casa, disse Irlan a Íris. Ela é rosa. E aquela, rosa também. E aquela, rosa de novo. » Íris riu: « Tudo é rosa em Toulouse! — Exatamente, disse Irlan. E é porque há uma história verdadeira por trás dessa cor. »"
+    },
+    {
+      "id": 2,
+      "fr": "« La brique de Toulouse, la brique foraine, est faite avec l'argile de la Garonne, expliqua Irlan. On la cuisait au soleil et au four. Comme la pierre venait des Pyrénées, à cent kilomètres, elle coûtait une fortune. »",
+      "pt": "« O tijolo de Toulouse, a brique foraine, é feito com a argila do Garona, explicou Irlan. Cozinhava-se ao sol e no forno. Como a pedra vinha dos Pireneus, a cem quilômetros, custava uma fortuna. »"
+    },
+    {
+      "id": 3,
+      "fr": "« Puisque la brique était partout, les architectes ont appris à l'aimer, continua-t-il. Parce qu'elle est légère, on a pu construire des immeubles plus hauts. Et parce qu'elle reflète la lumière du soir, elle donne cette couleur rose unique. »",
+      "pt": "« Já que o tijolo estava em toda parte, os arquitetos aprenderam a amá-lo, continuou ele. Porque ele é leve, foi possível construir prédios mais altos. E porque reflete a luz da tarde, dá essa cor rosa única. »"
+    },
+    {
+      "id": 4,
+      "fr": "« Et puis il y a l'incendie de 1463, ajouta Andréa. Après le grand feu, la ville a interdit le bois et ordonné la brique. À cause de cette règle, tout le centre est devenu rose. » Íris regarda ses mains : « Moi aussi je suis un peu rose ! »",
+      "pt": "« E depois há o incêndio de 1463, acrescentou Andréa. Depois do grande fogo, a cidade proibiu a madeira e ordenou o tijolo. Por causa dessa regra, todo o centro ficou rosa. » Íris olhou para as mãos: « Eu também sou um pouco rosa! »"
+    },
+    {
+      "id": 5,
+      "fr": "Le soir, Irlan nota : « Une ville peut être définie par une couleur, mais cette couleur raconte une histoire : celle des incendies, des rivières et des artisans. Puisque j'ai appris à lire la brique, je commence à comprendre la ville. »",
+      "pt": "À noite, Irlan anotou: « Uma cidade pode ser definida por uma cor, mas essa cor conta uma história: a dos incêndios, dos rios e dos artesãos. Já que aprendi a ler o tijolo, começo a entender a cidade. »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "la brique",
+      "definitionPt": "tijolo (substantivo feminino)",
+      "definitionFr": "Matériau de construction en terre cuite.",
+      "inflections": ["la brique", "des briques"],
+      "ptTargets": ["tijolo", "tijolos"],
+      "examples": [
+        { "level": "A1", "fr": "La brique est rose.", "pt": "O tijolo é rosa." },
+        { "level": "A2-B1", "fr": "Les maisons de Toulouse sont en brique.", "pt": "As casas de Toulouse são de tijolo." },
+        { "level": "B2", "fr": "La brique foraine, cuite au soleil, est le matériau emblématique de Toulouse.", "pt": "A brique foraine, cozida ao sol, é o material emblemático de Toulouse." },
+        { "level": "C1-C2", "fr": "L'usage systématique de la brique a façonné l'unité chromatique de la ville rose.", "pt": "O uso sistemático do tijolo moldou a unidade cromática da cidade rosa." }
+      ]
+    },
+    {
+      "term": "l'argile",
+      "definitionPt": "argila (substantivo feminino)",
+      "definitionFr": "Terre fine et plastique, utilisée pour la brique.",
+      "inflections": ["l'argile"],
+      "ptTargets": ["argila"],
+      "examples": [
+        { "level": "A1", "fr": "L'argile est collante.", "pt": "A argila é pegajosa." },
+        { "level": "A2-B1", "fr": "La brique est faite avec de l'argile.", "pt": "O tijolo é feito com argila." },
+        { "level": "B2", "fr": "L'argile de la Garonne donne à la brique toulousaine sa teinte rosée.", "pt": "A argila do Garona dá ao tijolo de Toulouse seu tom rosado." },
+        { "level": "C1-C2", "fr": "La composition de l'argile locale détermine la couleur des architectures régionales.", "pt": "A composição da argila local determina a cor das arquiteturas regionais." }
+      ]
+    },
+    {
+      "term": "la pierre",
+      "definitionPt": "pedra (substantivo feminino)",
+      "definitionFr": "Matériau de construction minéral.",
+      "inflections": ["la pierre", "des pierres"],
+      "ptTargets": ["pedra", "pedras"],
+      "examples": [
+        { "level": "A1", "fr": "La pierre est dure.", "pt": "A pedra é dura." },
+        { "level": "A2-B1", "fr": "La pierre vient des Pyrénées.", "pt": "A pedra vem dos Pireneus." },
+        { "level": "B2", "fr": "La pierre des Pyrénées, trop chère, fut réservée aux monuments.", "pt": "A pedra dos Pireneus, cara demais, foi reservada aos monumentos." },
+        { "level": "C1-C2", "fr": "Le contraste de la pierre et de la brique structure les façades toulousaines.", "pt": "O contraste da pedra e do tijolo estrutura as fachadas de Toulouse." }
+      ]
+    },
+    {
+      "term": "le four",
+      "definitionPt": "forno (substantivo masculino)",
+      "definitionFr": "Installation pour cuire la brique ou le pain.",
+      "inflections": ["le four", "des fours"],
+      "ptTargets": ["forno", "fornos"],
+      "examples": [
+        { "level": "A1", "fr": "Le four est chaud.", "pt": "O forno está quente." },
+        { "level": "A2-B1", "fr": "On cuisait la brique au four.", "pt": "Cozinha-se o tijolo no forno." },
+        { "level": "B2", "fr": "La brique foraine était cuite dans des fours installés près des chantiers.", "pt": "A brique foraine era cozida em fornos instalados perto das obras." },
+        { "level": "C1-C2", "fr": "La cuisson au four, contrôlée par les maîtres briquetiers, garantissait la qualité du matériau.", "pt": "O cozimento no forno, controlado pelos mestres tijoleiros, garantia a qualidade do material." }
+      ]
+    },
+    {
+      "term": "l'architecte",
+      "definitionPt": "arquiteto (substantivo masculino)",
+      "definitionFr": "Professionnel qui conçoit des bâtiments.",
+      "inflections": ["l'architecte", "des architectes"],
+      "ptTargets": ["arquiteto", "arquitetos"],
+      "examples": [
+        { "level": "A1", "fr": "L'architecte dessine.", "pt": "O arquiteto desenha." },
+        { "level": "A2-B1", "fr": "Les architectes utilisent la brique.", "pt": "Os arquitetos usam o tijolo." },
+        { "level": "B2", "fr": "Les architectes ont appris à tirer parti de la légèreté de la brique.", "pt": "Os arquitetos aprenderam a tirar partido da leveza do tijolo." },
+        { "level": "C1-C2", "fr": "Les architectes toulousains ont fait de la brique une véritable signature stylistique.", "pt": "Os arquitetos de Toulouse fizeram do tijolo uma verdadeira assinatura estilística." }
+      ]
+    },
+    {
+      "term": "léger",
+      "definitionPt": "leve (adjetivo)",
+      "definitionFr": "Qui pèse peu.",
+      "inflections": ["léger", "légère", "légers"],
+      "ptTargets": ["leve", "leves"],
+      "examples": [
+        { "level": "A1", "fr": "La brique est légère.", "pt": "O tijolo é leve." },
+        { "level": "A2-B1", "fr": "La brique est plus légère que la pierre.", "pt": "O tijolo é mais leve que a pedra." },
+        { "level": "B2", "fr": "Parce que la brique est légère, on a pu construire des immeubles plus hauts.", "pt": "Porque o tijolo é leve, foi possível construir prédios mais altos." },
+        { "level": "C1-C2", "fr": "La légèreté de la brique a favorisé l'élancement des façades toulousaines.", "pt": "A leveza do tijolo favoreceu o alongamento das fachadas de Toulouse." }
+      ]
+    },
+    {
+      "term": "interdire",
+      "definitionPt": "proibir (verbo)",
+      "definitionFr": "Défendre quelque chose par une règle.",
+      "inflections": ["j'interdis", "interdire"],
+      "ptTargets": ["proibir", "proibiu"],
+      "examples": [
+        { "level": "A1", "fr": "On interdit le bois.", "pt": "Proíbe-se a madeira." },
+        { "level": "A2-B1", "fr": "La ville a interdit le bois après l'incendie.", "pt": "A cidade proibiu a madeira depois do incêndio." },
+        { "level": "B2", "fr": "Après le grand feu, la ville a interdit le bois et ordonné la brique.", "pt": "Depois do grande fogo, a cidade proibiu a madeira e ordenou o tijolo." },
+        { "level": "C1-C2", "fr": "Interdire un matériau après une catastrophe est une leçon de résilience urbaine.", "pt": "Proibir um material após uma catástrofe é uma lição de resiliência urbana." }
+      ]
+    },
+    {
+      "term": "ordonner",
+      "definitionPt": "ordenar, determinar (verbo)",
+      "definitionFr": "Donner un ordre officiel.",
+      "inflections": ["j'ordonne", "ordonner"],
+      "ptTargets": ["ordenar", "determinar", "ordenou"],
+      "examples": [
+        { "level": "A1", "fr": "Le maire ordonne.", "pt": "O prefeito ordena." },
+        { "level": "A2-B1", "fr": "La ville a ordonné la brique.", "pt": "A cidade ordenou o tijolo." },
+        { "level": "B2", "fr": "Le capitoulat ordonna la reconstruction en brique de tout le centre.", "pt": "O capitoulato ordenou a reconstrução em tijolo de todo o centro." },
+        { "level": "C1-C2", "fr": "Ordonner un matériau, c'est écrire une règle que les siècles respecteront.", "pt": "Ordenar um material é escrever uma regra que os séculos respeitarão." }
+      ]
+    },
+    {
+      "term": "la teinte",
+      "definitionPt": "tom, tonalidade (substantivo feminino)",
+      "definitionFr": "Nuance d'une couleur.",
+      "inflections": ["la teinte", "des teintes"],
+      "ptTargets": ["tom", "tonalidade", "tons"],
+      "examples": [
+        { "level": "A1", "fr": "La teinte est rose.", "pt": "O tom é rosa." },
+        { "level": "A2-B1", "fr": "La brique a une teinte rosée.", "pt": "O tijolo tem um tom rosado." },
+        { "level": "B2", "fr": "Au coucher du soleil, la teinte des façades devient presque orangée.", "pt": "Ao pôr do sol, o tom das fachadas fica quase alaranjado." },
+        { "level": "C1-C2", "fr": "Les variations de teinte de la brique racontent l'âge et la cuisson de chaque façade.", "pt": "As variações de tom do tijolo contam a idade e o cozimento de cada fachada." }
+      ]
+    },
+    {
+      "term": "le briquetier",
+      "definitionPt": "tijoleiro (substantivo masculino)",
+      "definitionFr": "Artisan qui fabrique des briques.",
+      "inflections": ["le briquetier", "des briquetiers"],
+      "ptTargets": ["tijoleiro", "tijoleiros"],
+      "examples": [
+        { "level": "A1", "fr": "Le briquetier travaille l'argile.", "pt": "O tijoleiro trabalha a argila." },
+        { "level": "A2-B1", "fr": "Les briquetiers fabriquaient les briques de la ville.", "pt": "Os tijoleiros fabricavam os tijolos da cidade." },
+        { "level": "B2", "fr": "Les briquetiers toulousains ont développé un savoir-faire reconnu dans toute la région.", "pt": "Os tijoleiros de Toulouse desenvolveram um saber-fazer reconhecido em toda a região." },
+        { "level": "C1-C2", "fr": "La corporation des briquetiers structura l'économie de la construction au Moyen Âge.", "pt": "A corporação dos tijoleiros estruturou a economia da construção na Idade Média." }
+      ]
+    },
+    {
+      "term": "la façade",
+      "definitionPt": "fachada (substantivo feminino)",
+      "definitionFr": "Face extérieure d'un bâtiment.",
+      "inflections": ["la façade", "des façades"],
+      "ptTargets": ["fachada", "fachadas"],
+      "examples": [
+        { "level": "A1", "fr": "La façade est rose.", "pt": "A fachada é rosa." },
+        { "level": "A2-B1", "fr": "Les façades de Toulouse sont en brique.", "pt": "As fachadas de Toulouse são de tijolo." },
+        { "level": "B2", "fr": "Les façades roses reflètent la lumière du soir.", "pt": "As fachadas rosas refletem a luz da tarde." },
+        { "level": "C1-C2", "fr": "L'harmonie des façades confère au centre historique son unité visuelle.", "pt": "A harmonia das fachadas confere ao centro histórico sua unidade visual." }
+      ]
+    },
+    {
+      "term": "le chantier",
+      "definitionPt": "obra (substantivo masculino)",
+      "definitionFr": "Lieu où l'on construit.",
+      "inflections": ["le chantier", "des chantiers"],
+      "ptTargets": ["obra", "obras"],
+      "examples": [
+        { "level": "A1", "fr": "Le chantier est grand.", "pt": "A obra é grande." },
+        { "level": "A2-B1", "fr": "Le chantier utilise la brique.", "pt": "A obra usa o tijolo." },
+        { "level": "B2", "fr": "Les fours étaient installés près des chantiers pour économiser le transport.", "pt": "Os fornos eram instalados perto das obras para economizar o transporte." },
+        { "level": "C1-C2", "fr": "La logistique des chantiers médiévaux conditionnait les choix de matériaux.", "pt": "A logística das obras medievais condicionava as escolhas de materiais." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Les connecteurs de cause pour expliquer la ville rose",
+    "explanationPt": "Para explicar por que Toulouse é rosa: 'parce que' (resposta), 'comme' (causa no início da frase), 'puisque' (causa evidente), 'à cause de + nome' (causa concreta).",
+    "exampleFr": "Comme la pierre venait des Pyrénées, elle coûtait une fortune ; à cause de cette règle, tout le centre est devenu rose.",
+    "examplePt": "Como a pedra vinha dos Pireneus, custava uma fortuna; por causa dessa regra, todo o centro ficou rosa.",
+    "practiceQuestion": "Complete: '_____ la pierre venait de loin, elle coûtait cher.'",
+    "options": ["Comme", "À cause de", "Puisque de"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "Comme en tête de phrase",
+        "explanationPt": "'Comme' + causa no início: 'Comme la pierre venait des Pyrénées, elle coûtait une fortune.'",
+        "exampleFr": "Comme la brique était locale, elle est devenue le matériau de tous.",
+        "examplePt": "Como o tijolo era local, tornou-se o material de todos.",
+        "practiceQuestion": "Complete: '_____ la brique était légère, on construisait plus haut.'",
+        "options": ["Comme", "À cause de", "Puisque"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "À cause de + nom",
+        "explanationPt": "'À cause de cette règle, tout le centre est devenu rose.' (causa concreta)",
+        "exampleFr": "À cause de l'incendie de 1463, le bois a été interdit.",
+        "examplePt": "Por causa do incêndio de 1463, a madeira foi proibida.",
+        "practiceQuestion": "Complete: '_____ l'incendie, le bois a été interdit.'",
+        "options": ["À cause de", "Parce que", "Comme"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Complete: '_____ la pierre venait des Pyrénées, elle coûtait une fortune.'",
+      "options": ["Comme", "À cause de", "Parce que de"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'Comme la pierre venait des Pyrénées, à cent kilomètres, elle coûtait une fortune.'"
+    },
+    {
+      "question": "Com o que é feita a brique foraine?",
+      "options": ["Com a argila do Garona", "Com pedra dos Pireneus", "Com cimento e areia"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'la brique foraine, est faite avec l'argile de la Garonne.'"
+    },
+    {
+      "question": "O que aconteceu em Toulouse em 1463?",
+      "options": ["Um grande incêndio", "Uma grande enchente", "A chegada dos romanos"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'il y a l'incendie de 1463'."
+    },
+    {
+      "question": "O que a cidade ordenou depois do incêndio?",
+      "options": ["O uso da brique e a proibição do madeira", "A demolição do centro", "A construção de um muro"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'la ville a interdit le bois et ordonné la brique.'"
+    },
+    {
+      "question": "Qual frase usa 'à cause de' corretamente?",
+      "options": ["À cause de cette règle, le centre est devenu rose.", "À cause de cette règle est devenue rose.", "À cause de que le centre est rose."],
+      "correctIndex": 0,
+      "explanation": "'À cause de' + nome: 'à cause de cette règle'."
+    }
+  ]
+}

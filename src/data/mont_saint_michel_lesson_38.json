@@ -1,0 +1,237 @@
+{
+  "id": "mont_saint_michel_lesson_38",
+  "cityId": "mont-saint-michel",
+  "domain": "Gastronomia",
+  "level": "Básico (A2/B1)",
+  "titleFr": "Les moules de la baie : le goût de la mer",
+  "titlePt": "Os mexilhões da baía: o gosto do mar",
+  "subtitleFr": "Bouchot, marée basse et bonnes recettes normandes",
+  "subtitlePt": "Bouchot, maré baixa e boas receitas normandas",
+  "summaryPt": "Nesta Aula 38 (A2/B1), a família descobre os bouchots, os postes onde os mexilhões crescem na baía do Mont Saint-Michel, e aprende a receita dos moules marinières. O aluno pratica o futur proche (nous allons goûter), o partitivo (du beurre, de la crème) e o vocabulário do mar.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "« Regardez les bouchots », a dit le guide. « Ce sont les pieux où grandissent les moules. La mer les couvre deux fois par jour, puis les laisse au soleil. »",
+      "pt": "« Olhem os bouchots », disse o guia. « São os postes onde crescem os mexilhões. O mar os cobre duas vezes por dia e depois os deixa ao sol. »"
+    },
+    {
+      "id": 2,
+      "fr": "Iris a demandé : « Est-ce qu'on mange les moules avec les doigts, maman ? » Andréa a ri : « Non, ma chérie. Avec une fourchette et une coquille vide, comme les marins. »",
+      "pt": "Íris perguntou: « A gente come mexilhões com os dedos, mamãe? » Andréa riu: « Não, minha querida. Com um garfo e uma concha vazia, como os marinheiros. »"
+    },
+    {
+      "id": 3,
+      "fr": "Le soir, dans le restaurant, la famille a commandé des moules marinières. « Elles sentent la mer et le beurre », a dit Irlan. « C'est le goût de la Normandie. »",
+      "pt": "À noite, no restaurante, a família pediu mexilhões marinières. « Eles cheiram o mar e a manteiga », disse Irlan. « É o gosto da Normandia. »"
+    },
+    {
+      "id": 4,
+      "fr": "« Quand j'étais livreur à Paris, je voyais souvent des moules dans les restaurants », a dit Irlan. « Mais ici, je comprends enfin d'où elles viennent. »",
+      "pt": "« Quando eu era entregador em Paris, eu via mexilhões com frequência nos restaurantes », disse Irlan. « Mas aqui, finalmente entendo de onde eles vêm. »"
+    },
+    {
+      "id": 5,
+      "fr": "Après le dîner, Iris a dessiné un bouchot sur sa serviette. « Je vais montrer ce dessin à la maîtresse », a-t-elle dit. Andréa et Irlan ont souri : leur petite fille aimait déjà la baie.",
+      "pt": "Depois do jantar, Íris desenhou um bouchot no guardanapo. « Vou mostrar esse desenho para a professora », disse ela. Andréa e Irlan sorriram: a filhinha já amava a baía."
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "la moule",
+      "definitionPt": "o mexilhão",
+      "definitionFr": "Petit coquillage comestible de la mer.",
+      "inflections": ["la moule", "une moule", "des moules"],
+      "ptTargets": ["mexilhão"],
+      "examples": [
+        { "level": "A1", "fr": "La moule est noire.", "pt": "O mexilhão é preto." },
+        { "level": "A2-B1", "fr": "Les moules de la baie sont fameuses.", "pt": "Os mexilhões da baía são famosos." },
+        { "level": "B2", "fr": "Nous avons mangé des moules marinières.", "pt": "Comemos mexilhões marinières." },
+        { "level": "C1-C2", "fr": "La moule, fruit patient de la mer, exige le temps des marées.", "pt": "O mexilhão, fruto paciente do mar, exige o tempo das marés." }
+      ]
+    },
+    {
+      "term": "le bouchot",
+      "definitionPt": "o bouchot (estaca de mexilhões)",
+      "definitionFr": "Pieu en bois où grandissent les moules.",
+      "inflections": ["le bouchot", "un bouchot", "des bouchots"],
+      "ptTargets": ["bouchot"],
+      "examples": [
+        { "level": "A1", "fr": "Le bouchot est dans la baie.", "pt": "O bouchot fica na baía." },
+        { "level": "A2-B1", "fr": "Les moules grandissent sur les bouchots.", "pt": "Os mexilhões crescem nos bouchots." },
+        { "level": "B2", "fr": "La mytiliculture utilise des bouchots depuis des siècles.", "pt": "A mitilicultura usa bouchots há séculos." },
+        { "level": "C1-C2", "fr": "Les bouchots, sentinelles de bois, attendent la caresse des marées.", "pt": "Os bouchots, sentinelas de madeira, esperam a carícia das marés." }
+      ]
+    },
+    {
+      "term": "le coquillage",
+      "definitionPt": "o marisco",
+      "definitionFr": "Animal marin avec une coquille.",
+      "inflections": ["le coquillage", "un coquillage", "des coquillages"],
+      "ptTargets": ["marisco", "concha"],
+      "examples": [
+        { "level": "A1", "fr": "Le coquillage est petit.", "pt": "O marisco é pequeno." },
+        { "level": "A2-B1", "fr": "La baie est pleine de coquillages.", "pt": "A baía está cheia de mariscos." },
+        { "level": "B2", "fr": "Nous avons ramassé des coquillages sur le sable.", "pt": "Coletamos mariscos na areia." },
+        { "level": "C1-C2", "fr": "Chaque coquillage est une sculpture abandonnée par la mer.", "pt": "Cada marisco é uma escultura abandonada pelo mar." }
+      ]
+    },
+    {
+      "term": "le beurre",
+      "definitionPt": "a manteiga",
+      "definitionFr": "Matière grasse faite avec le lait.",
+      "inflections": ["le beurre", "du beurre"],
+      "ptTargets": ["manteiga"],
+      "examples": [
+        { "level": "A1", "fr": "Le beurre est jaune.", "pt": "A manteiga é amarela." },
+        { "level": "A2-B1", "fr": "Les moules marinières ont du beurre.", "pt": "Os mexilhões marinières têm manteiga." },
+        { "level": "B2", "fr": "Le beurre normand est très connu.", "pt": "A manteiga normanda é muito conhecida." },
+        { "level": "C1-C2", "fr": "Le beurre, or jaune de la Normandie, parfume tous les plats.", "pt": "A manteiga, ouro amarelo da Normandia, perfuma todos os pratos." }
+      ]
+    },
+    {
+      "term": "la crème",
+      "definitionPt": "o creme",
+      "definitionFr": "Lait épais et gras.",
+      "inflections": ["la crème", "de la crème"],
+      "ptTargets": ["creme"],
+      "examples": [
+        { "level": "A1", "fr": "La crème est blanche.", "pt": "O creme é branco." },
+        { "level": "A2-B1", "fr": "La recette demande de la crème.", "pt": "A receita pede creme." },
+        { "level": "B2", "fr": "La crème fraîche donne du goût à la sauce.", "pt": "O creme fresco dá sabor ao molho." },
+        { "level": "C1-C2", "fr": "La crème adoucit la saveur puissante des moules.", "pt": "O creme suaviza o sabor forte dos mexilhões." }
+      ]
+    },
+    {
+      "term": "la fourchette",
+      "definitionPt": "o garfo",
+      "definitionFr": "Ustensile avec des dents pour manger.",
+      "inflections": ["la fourchette", "une fourchette", "des fourchettes"],
+      "ptTargets": ["garfo"],
+      "examples": [
+        { "level": "A1", "fr": "La fourchette est sur la table.", "pt": "O garfo está na mesa." },
+        { "level": "A2-B1", "fr": "On mange les moules avec une fourchette.", "pt": "Come-se os mexilhões com um garfo." },
+        { "level": "B2", "fr": "Les marins utilisent une coquille comme fourchette.", "pt": "Os marinheiros usam uma concha como garfo." },
+        { "level": "C1-C2", "fr": "La fourchette, prolongement de la main, devient outil de gourmet.", "pt": "O garfo, prolongamento da mão, torna-se ferramenta de gourmet." }
+      ]
+    },
+    {
+      "term": "le goût",
+      "definitionPt": "o gosto, o sabor",
+      "definitionFr": "Saveur d'un aliment.",
+      "inflections": ["le goût", "un goût", "des goûts"],
+      "ptTargets": ["gosto", "sabor"],
+      "examples": [
+        { "level": "A1", "fr": "Le goût est bon.", "pt": "O gosto é bom." },
+        { "level": "A2-B1", "fr": "C'est le goût de la mer.", "pt": "É o gosto do mar." },
+        { "level": "B2", "fr": "Les moules ont un goût salé et frais.", "pt": "Os mexilhões têm um gosto salgado e fresco." },
+        { "level": "C1-C2", "fr": "Le goût de la Normandie se déguste lentement.", "pt": "O gosto da Normandia se degusta lentamente." }
+      ]
+    },
+    {
+      "term": "la marée",
+      "definitionPt": "a maré",
+      "definitionFr": "Mouvement de la mer qui monte et descend.",
+      "inflections": ["la marée", "une marée", "des marées"],
+      "ptTargets": ["maré"],
+      "examples": [
+        { "level": "A1", "fr": "La marée monte.", "pt": "A maré sobe." },
+        { "level": "A2-B1", "fr": "À marée basse, on voit les bouchots.", "pt": "Na maré baixa, vê-se os bouchots." },
+        { "level": "B2", "fr": "La grande marée couvre toute la baie.", "pt": "A maré grande cobre toda a baía." },
+        { "level": "C1-C2", "fr": "Les marées, horloge de la baie, règlent la vie des hommes.", "pt": "As marés, relógio da baía, regem a vida dos homens." }
+      ]
+    },
+    {
+      "term": "le restaurant",
+      "definitionPt": "o restaurante",
+      "definitionFr": "Lieu où l'on mange.",
+      "inflections": ["le restaurant", "un restaurant", "des restaurants"],
+      "ptTargets": ["restaurante"],
+      "examples": [
+        { "level": "A1", "fr": "Le restaurant est petit.", "pt": "O restaurante é pequeno." },
+        { "level": "A2-B1", "fr": "La famille a commandé des moules au restaurant.", "pt": "A família pediu mexilhões no restaurante." },
+        { "level": "B2", "fr": "Ce restaurant est célèbre pour ses fruits de mer.", "pt": "Este restaurante é famoso pelos seus frutos do mar." },
+        { "level": "C1-C2", "fr": "Le restaurant, temple de la gastronomie, célèbre le mariage de la terre et de la mer.", "pt": "O restaurante, templo da gastronomia, celebra o casamento da terra e do mar." }
+      ]
+    },
+    {
+      "term": "sentir",
+      "definitionPt": "cheirar, sentir",
+      "definitionFr": "Percevoir une odeur.",
+      "inflections": ["je sens", "tu sens", "il sent", "nous sentons"],
+      "ptTargets": ["cheirar", "sentir"],
+      "examples": [
+        { "level": "A1", "fr": "Je sens le beurre.", "pt": "Sinto o cheiro da manteiga." },
+        { "level": "A2-B1", "fr": "Les moules sentent la mer.", "pt": "Os mexilhões cheiram o mar." },
+        { "level": "B2", "fr": "La cuisine sentait l'oignon et le vin.", "pt": "A cozinha cheirava a cebola e vinho." },
+        { "level": "C1-C2", "fr": "On sent dans ce plat toute la générosité de la baie.", "pt": "Sente-se neste prato toda a generosidade da baía." }
+      ]
+    },
+    {
+      "term": "le dessert",
+      "definitionPt": "a sobremesa",
+      "definitionFr": "Plat sucré à la fin du repas.",
+      "inflections": ["le dessert", "un dessert", "des desserts"],
+      "ptTargets": ["sobremesa"],
+      "examples": [
+        { "level": "A1", "fr": "Le dessert est sucré.", "pt": "A sobremesa é doce." },
+        { "level": "A2-B1", "fr": "Iris a choisi un dessert au chocolat.", "pt": "Íris escolheu uma sobremesa de chocolate." },
+        { "level": "B2", "fr": "Après les moules, nous avons pris un dessert léger.", "pt": "Depois dos mexilhões, pegamos uma sobremesa leve." },
+        { "level": "C1-C2", "fr": "Le dessert, apothéose du repas, conclut le voyage des saveurs.", "pt": "A sobremesa, apoteose da refeição, conclui a viagem dos sabores." }
+      ]
+    },
+    {
+      "term": "la recette",
+      "definitionPt": "a receita",
+      "definitionFr": "Liste des ingrédients et des étapes pour cuisiner.",
+      "inflections": ["la recette", "une recette", "des recettes"],
+      "ptTargets": ["receita"],
+      "examples": [
+        { "level": "A1", "fr": "La recette est facile.", "pt": "A receita é fácil." },
+        { "level": "A2-B1", "fr": "La recette demande de la crème et du beurre.", "pt": "A receita pede creme e manteiga." },
+        { "level": "B2", "fr": "Chaque famille a sa recette de moules marinières.", "pt": "Cada família tem sua receita de mexilhões marinières." },
+        { "level": "C1-C2", "fr": "La recette se transmet de mère en fille, comme un trésor.", "pt": "A receita se transmite de mãe para filha, como um tesouro." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "titleFr": "Le partitif et le futur proche",
+    "titlePt": "O partitivo e o futuro próximo",
+    "points": [
+      {
+        "fr": "Le partitif exprime une quantité indéterminée : « du beurre », « de la crème », « des moules ». Après une négation, on utilise « de » : « Je ne mange pas de moules. »",
+        "pt": "O partitivo exprime uma quantidade indeterminada: « du beurre » (manteiga), « de la crème » (creme), « des moules » (mexilhões). Após uma negação, usa-se « de »: « Je ne mange pas de moules. »"
+      },
+      {
+        "fr": "Le futur proche : « aller + infinitif ». Exemple : « Nous allons goûter les moules » = vamos provar os mexilhões.",
+        "pt": "O futuro próximo: « aller + infinitivo ». Exemplo: « Nous allons goûter les moules » = vamos provar os mexilhões."
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Où grandissent les moules dans la baie ?",
+      "options": ["Sur les bouchots", "Dans les maisons", "Sur les rochers du Mont", "Dans les jardins"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Quel plat la famille a-t-elle commandé ?",
+      "options": ["Des moules marinières", "Des pizzas", "Des crêpes sucrées", "Du poisson cru"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Comment mange-t-on les moules ?",
+      "options": ["Avec une fourchette et une coquille", "Avec les doigts", "Avec une cuillère", "Avec des baguettes"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Que dessine Iris après le dîner ?",
+      "options": ["Un bouchot", "Le Mont", "Un bateau", "Un phare"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Combien de fois par jour la mer couvre-t-elle les bouchots ?",
+      "options": ["Deux fois", "Une fois", "Cinq fois", "Jamais"],
+      "correctIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,237 @@
+{
+  "id": "tours_lesson_23",
+  "cityId": "tours",
+  "domain": "Gastronomia",
+  "level": "Intermediário (B1)",
+  "titleFr": "Le Sainte-Maure de Touraine : le fromage de chèvre",
+  "titlePt": "O Sainte-Maure de Touraine: o queijo de cabra",
+  "subtitleFr": "Sa forme de bûche et sa paille font sa célébrité",
+  "subtitlePt": "Sua forma de tronco e sua palha fazem sua fama",
+  "summaryPt": "Nesta Aula 23 (B1), a família descobre o Sainte-Maure de Touraine, o famoso queijo de cabra em forma de tronco com uma palha atravessada. O aluno pratica os partitivos (du fromage, de la chèvre), os pronomes relativos e o vocabulário da fazenda e do mercado.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "« Aujourd'hui, nous visiterons une ferme de chèvres », a annoncé Andréa. « La Touraine produit le Sainte-Maure, un fromage très connu. » Iris a fait la grimace : « Le fromage qui sent fort ? »",
+      "pt": "« Hoje, visitaremos uma fazenda de cabras », anunciou Andréa. « A Touraine produz o Sainte-Maure, um queijo muito famoso. » Íris fez careta: « O queijo que cheira forte? »"
+    },
+    {
+      "id": 2,
+      "fr": "Dans la ferme, la famille a caressé les chèvres. « Le fromage est fait avec le lait des chèvres », a expliqué la fromagère. « La bûche a une paille au milieu pour la tenir. »",
+      "pt": "Na fazenda, a família acariciou as cabras. « O queijo é feito com o leite das cabras », explicou a queijeira. « O tronco tem uma palha no meio para segurá-lo. »"
+    },
+    {
+      "id": 3,
+      "fr": "« Le Sainte-Maure a une forme allongée, comme une bûche », a continué la fromagère. « Il faut le laisser mûrir pendant quelques semaines. Plus il est vieux, plus il est fort. »",
+      "pt": "« O Sainte-Maure tem forma alongada, como um tronco », continuou a queijeira. « É preciso deixá-lo amadurecer por algumas semanas. Quanto mais velho, mais forte. »"
+    },
+    {
+      "id": 4,
+      "fr": "Au goûter, Iris a goûté un petit morceau. « Finalement, ce n'est pas si fort », a-t-elle dit. « Et il a un goût de noisette ! » Tout le monde a ri : la petite gourmande devenait tourangelle.",
+      "pt": "No lanche, Íris provou um pedacinho. « No fim, não é tão forte », disse. « E tem gosto de avelã! » Todos riram: a pequena gulosa virava tourangelle."
+    },
+    {
+      "id": 5,
+      "fr": "« Quand j'étais livreur, je livrais des plateaux de fromages sans les goûter », a dit Irlan. « Maintenant, je connais la chèvre, la ferme et la fromagère. Le fromage a un visage. »",
+      "pt": "« Quando eu era entregador, eu entregava bandejas de queijos sem prová-los », disse Irlan. « Agora, conheço a cabra, a fazenda e a queijeira. O queijo tem um rosto. »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "le fromage",
+      "definitionPt": "o queijo",
+      "definitionFr": "Aliment fait avec du lait.",
+      "inflections": ["le fromage", "un fromage", "des fromages"],
+      "ptTargets": ["queijo"],
+      "examples": [
+        { "level": "A1", "fr": "Le fromage est jaune.", "pt": "O queijo é amarelo." },
+        { "level": "A2-B1", "fr": "La France produit beaucoup de fromages.", "pt": "A França produz muitos queijos." },
+        { "level": "B1", "fr": "Le fromage que nous avons goûté vient d'une ferme.", "pt": "O queijo que provamos vem de uma fazenda." },
+        { "level": "C1-C2", "fr": "Le fromage, mémoire du lait, garde le goût des pâturages.", "pt": "O queijo, memória do leite, guarda o gosto das pastagens." }
+      ]
+    },
+    {
+      "term": "la chèvre",
+      "definitionPt": "a cabra",
+      "definitionFr": "Animal qui donne du lait.",
+      "inflections": ["la chèvre", "une chèvre", "des chèvres"],
+      "ptTargets": ["cabra"],
+      "examples": [
+        { "level": "A1", "fr": "La chèvre est blanche.", "pt": "A cabra é branca." },
+        { "level": "A2-B1", "fr": "Les chèvres de la ferme sont curieuses.", "pt": "As cabras da fazenda são curiosas." },
+        { "level": "B1", "fr": "La chèvre dont on boit le lait est adorable.", "pt": "A cabra cujo leite se bebe é adorável." },
+        { "level": "C1-C2", "fr": "La chèvre, maîtresse des collines, offre son lait à la Touraine.", "pt": "A cabra, senhora das colinas, oferece seu leite à Touraine." }
+      ]
+    },
+    {
+      "term": "la bûche",
+      "definitionPt": "o tronco",
+      "definitionFr": "Morceau de bois ; forme allongée du fromage.",
+      "inflections": ["la bûche", "une bûche", "des bûches"],
+      "ptTargets": ["tronco", "tora"],
+      "examples": [
+        { "level": "A1", "fr": "La bûche est longue.", "pt": "O tronco é comprido." },
+        { "level": "A2-B1", "fr": "Le Sainte-Maure a une forme de bûche.", "pt": "O Sainte-Maure tem forma de tronco." },
+        { "level": "B1", "fr": "La bûche que nous avons achetée est bien mûre.", "pt": "O tronco que compramos está bem maduro." },
+        { "level": "C1-C2", "fr": "La bûche de chèvre, rouleau de saveur, se déguste en fines rondelles.", "pt": "O tronco de cabra, rolo de sabor, degusta-se em rodelinhas." }
+      ]
+    },
+    {
+      "term": "la paille",
+      "definitionPt": "a palha",
+      "definitionFr": "Tige de céréale séchée.",
+      "inflections": ["la paille", "une paille", "des pailles"],
+      "ptTargets": ["palha"],
+      "examples": [
+        { "level": "A1", "fr": "La paille est jaune.", "pt": "A palha é amarela." },
+        { "level": "A2-B1", "fr": "La paille traverse le fromage.", "pt": "A palha atravessa o queijo." },
+        { "level": "B1", "fr": "La paille qui tient le fromage est une tradition.", "pt": "A palha que segura o queijo é uma tradição." },
+        { "level": "C1-C2", "fr": "La paille, lien humble, signe le fromage comme une signature.", "pt": "A palha, laço humilde, assina o queijo como uma assinatura." }
+      ]
+    },
+    {
+      "term": "le lait",
+      "definitionPt": "o leite",
+      "definitionFr": "Liquide blanc des animaux.",
+      "inflections": ["le lait", "du lait"],
+      "ptTargets": ["leite"],
+      "examples": [
+        { "level": "A1", "fr": "Le lait est blanc.", "pt": "O leite é branco." },
+        { "level": "A2-B1", "fr": "Le fromage est fait avec le lait de chèvre.", "pt": "O queijo é feito com leite de cabra." },
+        { "level": "B1", "fr": "Le lait qui vient de la ferme est frais.", "pt": "O leite que vem da fazenda é fresco." },
+        { "level": "C1-C2", "fr": "Le lait, rivière blanche, devient fromage par la patience des mains.", "pt": "O leite, rio branco, vira queijo pela paciência das mãos." }
+      ]
+    },
+    {
+      "term": "mûrir",
+      "definitionPt": "amadurecer",
+      "definitionFr": "Devenir mûr, développer son goût.",
+      "inflections": ["je mûris", "tu mûris", "il mûrit", "nous mûrissons"],
+      "ptTargets": ["amadurecer"],
+      "examples": [
+        { "level": "A1", "fr": "Le fruit mûrit.", "pt": "A fruta amadurece." },
+        { "level": "A2-B1", "fr": "Le fromage doit mûrir pendant des semaines.", "pt": "O queijo deve amadurecer por semanas." },
+        { "level": "B1", "fr": "Le fromage qui mûrit longtemps devient plus fort.", "pt": "O queijo que amadurece muito fica mais forte." },
+        { "level": "C1-C2", "fr": "Mûrir, pour le fromage, est une métamorphose lente du lait.", "pt": "Amadurecer, para o queijo, é uma metamorfose lenta do leite." }
+      ]
+    },
+    {
+      "term": "la noisette",
+      "definitionPt": "a avelã",
+      "definitionFr": "Petit fruit sec rond.",
+      "inflections": ["la noisette", "une noisette", "des noisettes"],
+      "ptTargets": ["avelã"],
+      "examples": [
+        { "level": "A1", "fr": "La noisette est petite.", "pt": "A avelã é pequena." },
+        { "level": "A2-B1", "fr": "Le fromage a un goût de noisette.", "pt": "O queijo tem gosto de avelã." },
+        { "level": "B1", "fr": "La noisette que l'on croque est croquante.", "pt": "A avelã que se morde é crocante." },
+        { "level": "C1-C2", "fr": "La noisette, rondeur du terroir, parfume discrètement les fromages.", "pt": "A avelã, redondeza do terroir, perfuma discretamente os queijos." }
+      ]
+    },
+    {
+      "term": "la ferme",
+      "definitionPt": "a fazenda",
+      "definitionFr": "Lieu où l'on élève des animaux.",
+      "inflections": ["la ferme", "une ferme", "des fermes"],
+      "ptTargets": ["fazenda"],
+      "examples": [
+        { "level": "A1", "fr": "La ferme est grande.", "pt": "A fazenda é grande." },
+        { "level": "A2-B1", "fr": "La ferme élève des chèvres.", "pt": "A fazenda cria cabras." },
+        { "level": "B1", "fr": "La ferme que nous avons visitée est ancienne.", "pt": "A fazenda que visitamos é antiga." },
+        { "level": "C1-C2", "fr": "La ferme, monde clos et vivant, fait naître les goûts du pays.", "pt": "A fazenda, mundo fechado e vivo, faz nascer os gostos do país." }
+      ]
+    },
+    {
+      "term": "la fromagère",
+      "definitionPt": "a queijeira",
+      "definitionFr": "Femme qui fait le fromage.",
+      "inflections": ["la fromagère", "une fromagère", "des fromagères"],
+      "ptTargets": ["queijeira"],
+      "examples": [
+        { "level": "A1", "fr": "La fromagère travaille.", "pt": "A queijeira trabalha." },
+        { "level": "A2-B1", "fr": "La fromagère a expliqué la recette.", "pt": "A queijeira explicou a receita." },
+        { "level": "B1", "fr": "La fromagère qui nous a reçus est passionnée.", "pt": "A queijeira que nos recebeu é apaixonada." },
+        { "level": "C1-C2", "fr": "La fromagère, artiste du lait, signe chaque bûche de son savoir.", "pt": "A queijeira, artista do leite, assina cada tronco com seu saber." }
+      ]
+    },
+    {
+      "term": "goûter",
+      "definitionPt": "provar",
+      "definitionFr": "Manger un peu pour connaître le goût.",
+      "inflections": ["je goûte", "tu goûtes", "il goûte", "nous goûtons"],
+      "ptTargets": ["provar"],
+      "examples": [
+        { "level": "A1", "fr": "Je goûte le fromage.", "pt": "Eu provo o queijo." },
+        { "level": "A2-B1", "fr": "Iris a goûté un petit morceau.", "pt": "Íris provou um pedacinho." },
+        { "level": "B1", "fr": "Le fromage que nous avons goûté est doux.", "pt": "O queijo que provamos é suave." },
+        { "level": "C1-C2", "fr": "Goûter, c'est lire la terre avec la langue.", "pt": "Provar é ler a terra com a língua." }
+      ]
+    },
+    {
+      "term": "le plateau",
+      "definitionPt": "a bandeja",
+      "definitionFr": "Grand plat pour servir.",
+      "inflections": ["le plateau", "un plateau", "des plateaux"],
+      "ptTargets": ["bandeja"],
+      "examples": [
+        { "level": "A1", "fr": "Le plateau est en bois.", "pt": "A bandeja é de madeira." },
+        { "level": "A2-B1", "fr": "Le plateau de fromages est varié.", "pt": "A bandeja de queijos é variada." },
+        { "level": "B1", "fr": "Le plateau que nous avons commandé est copieux.", "pt": "A bandeja que pedimos é farta." },
+        { "level": "C1-C2", "fr": "Le plateau, petit pays de saveurs, voyage de la ferme à la table.", "pt": "A bandeja, pequeno país de sabores, viaja da fazenda à mesa." }
+      ]
+    },
+    {
+      "term": "la grimace",
+      "definitionPt": "a careta",
+      "definitionFr": "Expression du visage qui déforme les traits.",
+      "inflections": ["la grimace", "une grimace", "des grimaces"],
+      "ptTargets": ["careta"],
+      "examples": [
+        { "level": "A1", "fr": "La grimace est drôle.", "pt": "A careta é engraçada." },
+        { "level": "A2-B1", "fr": "Iris a fait la grimace devant le fromage.", "pt": "Íris fez careta diante do queijo." },
+        { "level": "B1", "fr": "La grimace qu'elle a faite a fait rire tout le monde.", "pt": "A careta que ela fez fez todo mundo rir." },
+        { "level": "C1-C2", "fr": "La grimace, éclair du visage, trahit les peurs avant les mots.", "pt": "A careta, relâmpago do rosto, trai os medos antes das palavras." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "titleFr": "Les partitifs et la comparaison progressive",
+    "titlePt": "Os partitivos e a comparação progressiva",
+    "points": [
+      {
+        "fr": "Les partitifs : « du fromage, de la chèvre, des noisettes ». Après une négation : « Je ne mange pas de fromage. »",
+        "pt": "Os partitivos: « du fromage » (queijo), « de la chèvre » (cabra), « des noisettes » (avelãs). Após negação: « Je ne mange pas de fromage. » (Eu não como queijo.)"
+      },
+      {
+        "fr": "La comparaison progressive : « plus il est vieux, plus il est fort » (quanto mais velho, mais forte). Exemple : « Plus on voyage, plus on apprend. »",
+        "pt": "A comparação progressiva: « plus il est vieux, plus il est fort » (quanto mais velho, mais forte). Exemplo: « Plus on voyage, plus on apprend. » (Quanto mais se viaja, mais se aprende.)"
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Quel animal donne le lait du Sainte-Maure ?",
+      "options": ["La chèvre", "La vache", "La brebis", "Le cheval"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Quelle forme a le Sainte-Maure ?",
+      "options": ["Une bûche", "Une boule", "Une pyramide", "Un carré"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Qu'est-ce qui traverse le fromage ?",
+      "options": ["Une paille", "Un fil", "Un bâton", "Une plume"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Quel goût Iris trouve-t-elle dans le fromage ?",
+      "options": ["La noisette", "Le chocolat", "La vanille", "Le citron"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Que livrait Irlan sans jamais goûter ?",
+      "options": ["Des plateaux de fromages", "Des chèvres", "Des bûches", "Des pailles"],
+      "correctIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,257 @@
+{
+  "id": "marseille_lesson_41",
+  "cityId": "marseille",
+  "domain": "Viagens & Paisagem",
+  "level": "Avançado (C1)",
+  "titleFr": "Cassis : le village blanc au pied des falaises",
+  "titlePt": "Cassis: a vila branca aos pés dos penhascos",
+  "subtitleFr": "Le subjonctif et la voix passive : l'escale racontée",
+  "subtitlePt": "O subjuntivo e a voz passiva: a escala contada",
+  "summaryPt": "A poucos quilômetros de Marseille, Cassis é uma vila de pescadores com um porto charmoso, vinhas e as falésias mais altas da Europa. Nesta aula C1, Irlan e Ricardo fazem a excursão clássica e descobrem que, para que um lugar fique inesquecível, é preciso que a luz colabore.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Le bus longeait les calanques quand Cassis apparut, blanche au bord de l'eau. « On raconte que les falaises de Cassis sont les plus hautes de France », dit Irlan. Les bateaux colorés se balançaient dans le port.",
+      "pt": "O ônibus seguia pelas calanques quando Cassis apareceu, branca à beira d'água. « Contam que os penhascos de Cassis são os mais altos da França », disse Irlan. Os barcos coloridos balançavam no porto."
+    },
+    {
+      "id": 2,
+      "fr": "Au marché, les poissons brillaient sur la glace. « Pour que le poisson soit frais, il faut qu'il vienne de la criée du matin », dit le vendeur. Les étals de légumes sentaient le basilic et les pêches.",
+      "pt": "No mercado, os peixes brilhavam sobre o gelo. « Para que o peixe seja fresco, é preciso que ele venha da lota da manhã », disse o vendedor. As bancas de legumes cheiravam a manjericão e pêssegos."
+    },
+    {
+      "id": 3,
+      "fr": "Ricardo goûta le vin blanc de Cassis. « Bien que le vignoble soit petit, il est célèbre depuis des siècles », dit-il. Les vignes grimpaient sur les collines derrière le village.",
+      "pt": "Ricardo provou o vinho branco de Cassis. « Embora o vinhedo seja pequeno, ele é famoso há séculos », disse ele. As videiras subiam as colinas atrás da vila."
+    },
+    {
+      "id": 4,
+      "fr": "Un bateau les emmena au pied du cap Canaille. « Le cap a été peint par des générations d'artistes », dit le capitaine. Les falaises rouges et blanches plongeaient dans une mer transparente.",
+      "pt": "Um barco os levou aos pés do cap Canaille. « O cabo foi pintado por gerações de artistas », disse o capitão. Os penhascos vermelhos e brancos mergulhavam num mar transparente."
+    },
+    {
+      "id": 5,
+      "fr": "Le soir, Irlan écrivit : « Cassis est un mot qui contient toute la Méditerranée : le port, le vin, la falaise et la lumière. Il faut que je revienne, un jour, avec toute la famille, quand les pins sentent l'été. »",
+      "pt": "À noite, Irlan escreveu: « Cassis é uma palavra que contém todo o Mediterrâneo: o porto, o vinho, o penhasco e a luz. É preciso que eu volte, um dia, com toda a família, quando os pinheiros cheiram verão. »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "la falaise",
+      "definitionPt": "penhasco, falésia",
+      "definitionFr": "Paroi rocheuse verticale.",
+      "inflections": ["la falaise", "les falaises"],
+      "ptTargets": ["penhasco", "falésia", "penhascos"],
+      "examples": [
+        { "level": "A1", "fr": "La falaise est haute.", "pt": "O penhasco é alto." },
+        { "level": "A2-B1", "fr": "Les falaises de Cassis dominent la mer.", "pt": "Os penhascos de Cassis dominam o mar." },
+        { "level": "B1-B2", "fr": "Les falaises, sculptées par le vent, comptent parmi les plus hautes de France.", "pt": "Os penhascos, esculpidos pelo vento, estão entre os mais altos da França." },
+        { "level": "C1-C2", "fr": "C'est la falaise qui donne à Cassis sa silhouette inoubliable.", "pt": "É o penhasco que dá a Cassis sua silhueta inesquecível." }
+      ]
+    },
+    {
+      "term": "le port",
+      "definitionPt": "porto",
+      "definitionFr": "Lieu abrité pour les bateaux.",
+      "inflections": ["le port", "les ports"],
+      "ptTargets": ["porto", "portos"],
+      "examples": [
+        { "level": "A1", "fr": "Le port est joli.", "pt": "O porto é bonito." },
+        { "level": "A2-B1", "fr": "Les bateaux se balancent dans le port.", "pt": "Os barcos balançam no porto." },
+        { "level": "B1-B2", "fr": "Le port de Cassis, célèbre dans les chansons, attire les visiteurs du monde entier.", "pt": "O porto de Cassis, famoso nas canções, atrai visitantes do mundo inteiro." },
+        { "level": "C1-C2", "fr": "C'est le port qui donne au village son air de carte postale.", "pt": "É o porto que dá à vila seu ar de cartão-postal." }
+      ]
+    },
+    {
+      "term": "la criée",
+      "definitionPt": "lota (leilão de peixe)",
+      "definitionFr": "Vente aux enchères du poisson.",
+      "inflections": ["la criée", "les criées"],
+      "ptTargets": ["lota", "leilão de peixe"],
+      "examples": [
+        { "level": "A1", "fr": "La criée ouvre tôt.", "pt": "A lota abre cedo." },
+        { "level": "A2-B1", "fr": "Le poisson vient de la criée du matin.", "pt": "O peixe vem da lota da manhã." },
+        { "level": "B1-B2", "fr": "La criée, animée par les enchères, fixe le prix des poissons du jour.", "pt": "A lota, animada pelos leilões, define o preço dos peixes do dia." },
+        { "level": "C1-C2", "fr": "C'est la criée qui donne au marché son rythme du matin.", "pt": "É a lota que dá ao mercado seu ritmo da manhã." }
+      ]
+    },
+    {
+      "term": "le vignoble",
+      "definitionPt": "vinhedo",
+      "definitionFr": "Terrain planté de vignes.",
+      "inflections": ["le vignoble", "les vignobles"],
+      "ptTargets": ["vinhedo", "vinhedos"],
+      "examples": [
+        { "level": "A1", "fr": "Le vignoble est vert.", "pt": "O vinhedo é verde." },
+        { "level": "A2-B1", "fr": "Les vignobles de Cassis sont célèbres.", "pt": "Os vinhedos de Cassis são famosos." },
+        { "level": "B1-B2", "fr": "Le vignoble, accroché aux collines, produit un vin blanc réputé.", "pt": "O vinhedo, agarrado às colinas, produz um vinho branco renomado." },
+        { "level": "C1-C2", "fr": "C'est le vignoble qui donne à Cassis son deuxième trésor après la mer.", "pt": "É o vinhedo que dá a Cassis seu segundo tesouro depois do mar." }
+      ]
+    },
+    {
+      "term": "la vigne",
+      "definitionPt": "videira",
+      "definitionFr": "Plante qui produit le raisin.",
+      "inflections": ["la vigne", "les vignes"],
+      "ptTargets": ["videira", "videiras"],
+      "examples": [
+        { "level": "A1", "fr": "La vigne est basse.", "pt": "A videira é baixa." },
+        { "level": "A2-B1", "fr": "Les vignes grimpent sur les collines.", "pt": "As videiras sobem as colinas." },
+        { "level": "B1-B2", "fr": "Les vignes, taillées chaque hiver, donnent des raisins dorés.", "pt": "As videiras, podadas a cada inverno, dão uvas douradas." },
+        { "level": "C1-C2", "fr": "C'est la vigne qui fait du paysage un tableau vivant.", "pt": "É a videira que faz da paisagem um quadro vivo." }
+      ]
+    },
+    {
+      "term": "le cap",
+      "definitionPt": "cabo (geográfico)",
+      "definitionFr": "Pointe de terre avançant dans la mer.",
+      "inflections": ["le cap", "les caps"],
+      "ptTargets": ["cabo", "cabos"],
+      "examples": [
+        { "level": "A1", "fr": "Le cap est sauvage.", "pt": "O cabo é selvagem." },
+        { "level": "A2-B1", "fr": "Le cap Canaille domine la baie.", "pt": "O cap Canaille domina a baía." },
+        { "level": "B1-B2", "fr": "Le cap, battu par le vent, offre le plus haut point de vue de la côte.", "pt": "O cabo, batido pelo vento, oferece o ponto de vista mais alto da costa." },
+        { "level": "C1-C2", "fr": "C'est le cap qui sépare deux mondes : la mer et la roche.", "pt": "É o cabo que separa dois mundos: o mar e a rocha." }
+      ]
+    },
+    {
+      "term": "le capitaine",
+      "definitionPt": "capitão",
+      "definitionFr": "Personne qui commande un bateau.",
+      "inflections": ["le capitaine", "les capitaines"],
+      "ptTargets": ["capitão", "capitães"],
+      "examples": [
+        { "level": "A1", "fr": "Le capitaine conduit.", "pt": "O capitão conduz." },
+        { "level": "A2-B1", "fr": "Le capitaine raconte les falaises.", "pt": "O capitão conta os penhascos." },
+        { "level": "B1-B2", "fr": "Le capitaine, né au village, connaît chaque recoin de la côte.", "pt": "O capitão, nascido na vila, conhece cada recanto da costa." },
+        { "level": "C1-C2", "fr": "C'est le capitaine qui donne au voyage sa voix humaine.", "pt": "É o capitão que dá à viagem sua voz humana." }
+      ]
+    },
+    {
+      "term": "la pêche",
+      "definitionPt": "pêssego",
+      "definitionFr": "Fruit à la peau duveteuse.",
+      "inflections": ["la pêche", "les pêches"],
+      "ptTargets": ["pêssego", "pêssegos"],
+      "examples": [
+        { "level": "A1", "fr": "La pêche est douce.", "pt": "O pêssego é doce." },
+        { "level": "A2-B1", "fr": "Les pêches sentent l'été.", "pt": "Os pêssegos cheiram verão." },
+        { "level": "B1-B2", "fr": "Les pêches, vendues au marché, gardent le goût du soleil provençal.", "pt": "Os pêssegos, vendidos no mercado, guardam o gosto do sol provençal." },
+        { "level": "C1-C2", "fr": "C'est la pêche qui offre au marché sa couleur la plus tendre.", "pt": "É o pêssego que oferece ao mercado sua cor mais tenra." }
+      ]
+    },
+    {
+      "term": "le pin",
+      "definitionPt": "pinheiro",
+      "definitionFr": "Arbre résineux des régions chaudes.",
+      "inflections": ["le pin", "les pins"],
+      "ptTargets": ["pinheiro", "pinheiros"],
+      "examples": [
+        { "level": "A1", "fr": "Le pin est grand.", "pt": "O pinheiro é grande." },
+        { "level": "A2-B1", "fr": "Les pins bordent les calanques.", "pt": "Os pinheiros margeiam as calanques." },
+        { "level": "B1-B2", "fr": "Les pins, inclinés par le vent, sentent fort l'été.", "pt": "Os pinheiros, inclinados pelo vento, cheiram forte a verão." },
+        { "level": "C1-C2", "fr": "C'est le pin qui parfume la Méditerranée.", "pt": "É o pinheiro que perfuma o Mediterrâneo." }
+      ]
+    },
+    {
+      "term": "plonger",
+      "definitionPt": "mergulhar",
+      "definitionFr": "S'enfoncer dans l'eau ; descendre brusquement.",
+      "inflections": ["je plonge", "plonger", "plongé"],
+      "ptTargets": ["mergulhar", "mergulham", "mergulhei"],
+      "examples": [
+        { "level": "A1", "fr": "Je plonge dans la mer.", "pt": "Eu mergulho no mar." },
+        { "level": "A2-B1", "fr": "Les falaises plongent dans l'eau.", "pt": "Os penhascos mergulham na água." },
+        { "level": "B1-B2", "fr": "Plonger dans ces eaux claires, c'est entrer dans un aquarium géant.", "pt": "Mergulhar nestas águas claras é entrar num aquário gigante." },
+        { "level": "C1-C2", "fr": "C'est en plongeant que l'on mesure la hauteur des falaises.", "pt": "É mergulhando que se mede a altura dos penhascos." }
+      ]
+    },
+    {
+      "term": "l'artiste",
+      "definitionPt": "artista",
+      "definitionFr": "Personne qui crée des œuvres.",
+      "inflections": ["l'artiste", "les artistes"],
+      "ptTargets": ["artista", "artistas"],
+      "examples": [
+        { "level": "A1", "fr": "L'artiste peint.", "pt": "O artista pinta." },
+        { "level": "A2-B1", "fr": "Les artistes viennent à Cassis.", "pt": "Os artistas vêm a Cassis." },
+        { "level": "B1-B2", "fr": "Les artistes, attirés par la lumière, ont fait de la baie un atelier.", "pt": "Os artistas, atraídos pela luz, fizeram da baía um ateliê." },
+        { "level": "C1-C2", "fr": "C'est l'artiste qui rend le paysage éternel.", "pt": "É o artista que torna a paisagem eterna." }
+      ]
+    },
+    {
+      "term": "l'escale",
+      "definitionPt": "escala (parada de viagem)",
+      "definitionFr": "Arrêt au cours d'un voyage.",
+      "inflections": ["l'escale", "les escales"],
+      "ptTargets": ["escala", "escalas"],
+      "examples": [
+        { "level": "A1", "fr": "L'escale est courte.", "pt": "A escala é curta." },
+        { "level": "A2-B1", "fr": "Cassis est une belle escale.", "pt": "Cassis é uma bela escala." },
+        { "level": "B1-B2", "fr": "L'escale, bien choisie, transforme le voyage en souvenir.", "pt": "A escala, bem escolhida, transforma a viagem em lembrança." },
+        { "level": "C1-C2", "fr": "C'est l'escale qui donne au voyageur sa plus belle page.", "pt": "É a escala que dá ao viajante sua página mais bonita." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Subjonctif et voix passive : l'escale racontée",
+    "explanationPt": "Combinação C1 em Cassis: subjonctif ('Pour que le poisson soit frais, il faut qu'il vienne de la criée', 'Bien que le vignoble soit petit', 'Il faut que je revienne') e voz passiva ('Le cap a été peint par des générations d'artistes', 'ont été sculptées').",
+    "exampleFr": "Pour que le poisson soit frais, il faut qu'il vienne de la criée du matin ; le cap a été peint par des générations d'artistes.",
+    "examplePt": "Para que o peixe seja fresco, é preciso que ele venha da lota da manhã; o cabo foi pintado por gerações de artistas.",
+    "practiceQuestion": "Complete: « Il faut qu'il ___ de la criée du matin pour être frais. »",
+    "options": ["vienne", "vient", "viendra"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "Il faut que + subjonctif",
+        "explanationPt": "'Il faut qu'il vienne de la criée du matin' : necessidade com subjonctif.",
+        "exampleFr": "Pour que le poisson soit frais, il faut qu'il vienne de la criée du matin.",
+        "examplePt": "Para que o peixe seja fresco, é preciso que ele venha da lota da manhã.",
+        "practiceQuestion": "Complete: « Il faut qu'il ___ de la criée du matin pour être frais. »",
+        "options": ["vienne", "vient", "viendra"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "Voix passive avec agent",
+        "explanationPt": "'Le cap a été peint par des générations d'artistes' : passiva com agente.",
+        "exampleFr": "Le cap a été peint par des générations d'artistes.",
+        "examplePt": "O cabo foi pintado por gerações de artistas.",
+        "practiceQuestion": "Complete: « Le cap a été ___ par des générations d'artistes. »",
+        "options": ["peint", "peindre", "peignait"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Complete: « Il faut qu'il ___ de la criée du matin pour être frais. »",
+      "options": ["vienne", "vient", "viendra"],
+      "correctIndex": 0,
+      "explanation": "Il faut que + subjonctif : 'vienne'."
+    },
+    {
+      "question": "O que diz o texto sobre as falésias de Cassis?",
+      "options": ["Que estão entre as mais altas da França", "Que são artificiais", "Que desabaram em 2000"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'les falaises de Cassis sont les plus hautes de France'."
+    },
+    {
+      "question": "O que produzem os vinhedos de Cassis?",
+      "options": ["Um vinho branco renomado", "Apenas vinho tinto", "Cerveja artesanal"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'le vignoble, accroché aux collines, produit un vin blanc réputé'."
+    },
+    {
+      "question": "Complete: « Le cap a été ___ par des générations d'artistes. »",
+      "options": ["peint", "peindre", "peignait"],
+      "correctIndex": 0,
+      "explanation": "Voix passive : participe passé 'peint'."
+    },
+    {
+      "question": "Para onde o barco levou Irlan e Ricardo?",
+      "options": ["Ao pé do cap Canaille", "À ilha de Córsega", "Ao Château d'If"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'Un bateau les emmena au pied du cap Canaille'."
+    }
+  ]
+}

@@ -1,0 +1,252 @@
+{
+  "id": "paris_lesson_30",
+  "cityId": "paris",
+  "domain": "Casa & Vizinhos",
+  "level": "Iniciante (A1)",
+  "titleFr": "Les voisins et l'immeuble",
+  "titlePt": "Os vizinhos e o prédio",
+  "subtitleFr": "L'ascenseur, les escaliers et la porte du voisin",
+  "subtitlePt": "O elevador, as escadas e a porta do vizinho",
+  "summaryPt": "Nesta Aula 30 (A1), a família apresenta os vizinhos do prédio. O aluno aprende o vocabulário da casa e do prédio (immeuble, appartement, escalier, ascenseur, porte, clé, étage) e o verbo 'habiter' com as preposições de lugar.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "La famille habite au quatrième étage d'un immeuble parisien. « L'ascenseur est en panne ! » dit Irlan. « Alors, prenons les escaliers ! » rit Andréa. Iris compte les marches : « Une, deux, trois... quatre étages, c'est long ! »",
+      "pt": "A família mora no quarto andar de um prédio parisiense. « O elevador está quebrado! » diz Irlan. « Então, vamos pelas escadas! » ri Andréa. Íris conta os degraus: « Um, dois, três... quatro andares, é longe! »"
+    },
+    {
+      "id": 2,
+      "fr": "En haut, ils sonnent à la porte du voisin, M. Robert. Il ouvre avec un grand sourire. « Bonjour ! Entrez, entrez ! » Il montre son appartement : « J'habite ici depuis vingt ans. Le couloir est long, mais l'appartement est confortable. »",
+      "pt": "Lá em cima, eles tocam a campainha da porta do vizinho, sr. Robert. Ele abre com um grande sorriso. « Bom dia! Entrem, entrem! » Ele mostra seu apartamento: « Moro aqui há vinte anos. O corredor é comprido, mas o apartamento é confortável. »"
+    },
+    {
+      "id": 3,
+      "fr": "M. Robert montre la clé de l'entrée. « Voici la clé de l'immeuble, dit-il. Ne la perdez pas ! » Iris prend la clé : « Elle est lourde, comme une clé de château ! » Tout le monde rit.",
+      "pt": "O sr. Robert mostra a chave da entrada. « Aqui está a chave do prédio, diz ele. Não a perca! » Íris pega a chave: « Ela é pesada, como uma chave de castelo! » Todos riem."
+    },
+    {
+      "id": 4,
+      "fr": "Dans le couloir, ils rencontrent Mme Dupont, la voisine du troisième. « Bienvenue dans l'immeuble ! » dit-elle. « Si vous avez besoin d'aide, je suis au deuxième étage. » Andréa sourit : « Merci, c'est gentil. Nous sommes contents d'habiter ici. »",
+      "pt": "No corredor, eles encontram a sra. Dupont, a vizinha do terceiro. « Bem-vindos ao prédio! » diz ela. « Se precisarem de ajuda, moro no segundo andar. » Andréa sorri: « Obrigada, é gentil. Estamos contentes de morar aqui. »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "le voisin",
+      "definitionPt": "o vizinho",
+      "definitionFr": "Personne qui habite à côté.",
+      "inflections": ["le voisin", "un voisin", "des voisins"],
+      "ptTargets": ["vizinho"],
+      "examples": [
+        { "level": "A1", "fr": "Le voisin est gentil.", "pt": "O vizinho é gentil." },
+        { "level": "A2-B1", "fr": "Les voisins aident la famille.", "pt": "Os vizinhos ajudam a família." },
+        { "level": "B2", "fr": "Les voisins, proches, partagent les petites nouvelles du quartier.", "pt": "Os vizinhos, próximos, compartilham as pequenas notícias do bairro." },
+        { "level": "C1-C2", "fr": "C'est le voisin qui, de palier en palier, tisse la vie de l'immeuble.", "pt": "É o vizinho que, de andar em andar, tece a vida do prédio." }
+      ]
+    },
+    {
+      "term": "l'immeuble",
+      "definitionPt": "o prédio",
+      "definitionFr": "Bâtiment à plusieurs étages.",
+      "inflections": ["l'immeuble", "un immeuble", "des immeubles"],
+      "ptTargets": ["prédio", "edifício"],
+      "examples": [
+        { "level": "A1", "fr": "L'immeuble est grand.", "pt": "O prédio é grande." },
+        { "level": "A2-B1", "fr": "La famille habite dans un immeuble parisien.", "pt": "A família mora num prédio parisiense." },
+        { "level": "B2", "fr": "Les immeubles haussmanniens font le charme de Paris.", "pt": "Os prédios haussmannianos fazem o charme de Paris." },
+        { "level": "C1-C2", "fr": "C'est l'immeuble qui, silencieux, abrite des dizaines de vies voisines.", "pt": "É o prédio que, silencioso, abriga dezenas de vidas vizinhas." }
+      ]
+    },
+    {
+      "term": "l'appartement",
+      "definitionPt": "o apartamento",
+      "definitionFr": "Logement dans un immeuble.",
+      "inflections": ["l'appartement", "un appartement", "des appartements"],
+      "ptTargets": ["apartamento"],
+      "examples": [
+        { "level": "A1", "fr": "L'appartement est confortable.", "pt": "O apartamento é confortável." },
+        { "level": "A2-B1", "fr": "L'appartement de la famille est au quatrième étage.", "pt": "O apartamento da família fica no quarto andar." },
+        { "level": "B2", "fr": "Les appartements parisiens sont souvent petits mais charmants.", "pt": "Os apartamentos parisienses são muitas vezes pequenos, mas charmosos." },
+        { "level": "C1-C2", "fr": "C'est l'appartement qui, habité, devient un foyer.", "pt": "É o apartamento que, habitado, torna-se um lar." }
+      ]
+    },
+    {
+      "term": "l'escalier",
+      "definitionPt": "a escada",
+      "definitionFr": "Suite de marches.",
+      "inflections": ["l'escalier", "un escalier", "des escaliers"],
+      "ptTargets": ["escada"],
+      "examples": [
+        { "level": "A1", "fr": "L'escalier est long.", "pt": "A escada é comprida." },
+        { "level": "A2-B1", "fr": "La famille prend les escaliers.", "pt": "A família sobe pelas escadas." },
+        { "level": "B2", "fr": "Les escaliers en pierre racontent l'histoire des immeubles anciens.", "pt": "As escadas de pedra contam a história dos prédios antigos." },
+        { "level": "C1-C2", "fr": "C'est l'escalier qui, monté chaque jour, garde la mémoire des pas.", "pt": "É a escada que, subida todos os dias, guarda a memória dos passos." }
+      ]
+    },
+    {
+      "term": "l'ascenseur",
+      "definitionPt": "o elevador",
+      "definitionFr": "Appareil pour monter et descendre.",
+      "inflections": ["l'ascenseur", "un ascenseur", "des ascenseurs"],
+      "ptTargets": ["elevador"],
+      "examples": [
+        { "level": "A1", "fr": "L'ascenseur est en panne.", "pt": "O elevador está quebrado." },
+        { "level": "A2-B1", "fr": "L'ascenseur monte au quatrième étage.", "pt": "O elevador sobe até o quarto andar." },
+        { "level": "B2", "fr": "Les ascenseurs, rapides, changent la vie des immeubles.", "pt": "Os elevadores, rápidos, mudam a vida dos prédios." },
+        { "level": "C1-C2", "fr": "C'est l'ascenseur qui, en panne, révèle la solidarité des voisins.", "pt": "É o elevador que, quebrado, revela a solidariedade dos vizinhos." }
+      ]
+    },
+    {
+      "term": "la porte",
+      "definitionPt": "a porta",
+      "definitionFr": "Ouverture qui ferme une pièce.",
+      "inflections": ["la porte", "une porte", "des portes"],
+      "ptTargets": ["porta"],
+      "examples": [
+        { "level": "A1", "fr": "La porte est fermée.", "pt": "A porta está fechada." },
+        { "level": "A2-B1", "fr": "Ils sonnent à la porte du voisin.", "pt": "Eles tocam a campainha da porta do vizinho." },
+        { "level": "B2", "fr": "Les portes, ouvertes, invitent à la rencontre.", "pt": "As portas, abertas, convidam ao encontro." },
+        { "level": "C1-C2", "fr": "C'est la porte qui, franchie, sépare et relie les vies.", "pt": "É a porta que, atravessada, separa e liga as vidas." }
+      ]
+    },
+    {
+      "term": "la clé",
+      "definitionPt": "a chave",
+      "definitionFr": "Objet pour ouvrir une serrure.",
+      "inflections": ["la clé", "une clé", "des clés"],
+      "ptTargets": ["chave"],
+      "examples": [
+        { "level": "A1", "fr": "La clé est dans la poche.", "pt": "A chave está no bolso." },
+        { "level": "A2-B1", "fr": "Voici la clé de l'entrée.", "pt": "Aqui está a chave da entrada." },
+        { "level": "B2", "fr": "La clé, perdue, devient un petit drame du quotidien.", "pt": "A chave, perdida, vira um pequeno drama do cotidiano." },
+        { "level": "C1-C2", "fr": "C'est la clé qui, tournée, ouvre le chez-soi.", "pt": "É a chave que, girada, abre o lar." }
+      ]
+    },
+    {
+      "term": "l'étage",
+      "definitionPt": "o andar",
+      "definitionFr": "Niveau d'un immeuble.",
+      "inflections": ["l'étage", "un étage", "des étages"],
+      "ptTargets": ["andar"],
+      "examples": [
+        { "level": "A1", "fr": "L'appartement est au quatrième étage.", "pt": "O apartamento fica no quarto andar." },
+        { "level": "A2-B1", "fr": "Le voisin habite au deuxième étage.", "pt": "O vizinho mora no segundo andar." },
+        { "level": "B2", "fr": "Les étages supérieurs offrent de belles vues sur Paris.", "pt": "Os andares superiores oferecem belas vistas de Paris." },
+        { "level": "C1-C2", "fr": "C'est l'étage qui, choisi, dessine la vie quotidienne des habitants.", "pt": "É o andar que, escolhido, desenha a vida cotidiana dos moradores." }
+      ]
+    },
+    {
+      "term": "sonner",
+      "definitionPt": "tocar a campainha",
+      "definitionFr": "Actionner une sonnette.",
+      "inflections": ["sonner", "je sonne", "nous sonnons"],
+      "ptTargets": ["tocar a campainha"],
+      "examples": [
+        { "level": "A1", "fr": "Je sonne à la porte.", "pt": "Eu toco a campainha." },
+        { "level": "A2-B1", "fr": "Ils sonnent chez le voisin.", "pt": "Eles tocam a campainha do vizinho." },
+        { "level": "B2", "fr": "Elle sonne et attend une réponse.", "pt": "Ela toca e espera uma resposta." },
+        { "level": "C1-C2", "fr": "C'est en sonnant que l'on annonce son arrivée.", "pt": "É tocando que se anuncia a chegada." }
+      ]
+    },
+    {
+      "term": "l'entrée",
+      "definitionPt": "a entrada",
+      "definitionFr": "Espace à l'entrée d'un bâtiment.",
+      "inflections": ["l'entrée", "une entrée", "des entrées"],
+      "ptTargets": ["entrada"],
+      "examples": [
+        { "level": "A1", "fr": "L'entrée est propre.", "pt": "A entrada é limpa." },
+        { "level": "A2-B1", "fr": "La clé de l'entrée ouvre le portail.", "pt": "A chave da entrada abre o portão." },
+        { "level": "B2", "fr": "Les entrées des immeubles haussmanniens sont majestueuses.", "pt": "As entradas dos prédios haussmannianos são majestosas." },
+        { "level": "C1-C2", "fr": "C'est l'entrée qui, première vue, donne le ton de l'immeuble.", "pt": "É a entrada que, primeira vista, dá o tom do prédio." }
+      ]
+    },
+    {
+      "term": "le couloir",
+      "definitionPt": "o corredor",
+      "definitionFr": "Passage entre les pièces.",
+      "inflections": ["le couloir", "un couloir", "des couloirs"],
+      "ptTargets": ["corredor"],
+      "examples": [
+        { "level": "A1", "fr": "Le couloir est long.", "pt": "O corredor é comprido." },
+        { "level": "A2-B1", "fr": "Ils rencontrent la voisine dans le couloir.", "pt": "Eles encontram a vizinha no corredor." },
+        { "level": "B2", "fr": "Les couloirs des vieux immeubles gardent les odeurs du quotidien.", "pt": "Os corredores dos prédios antigos guardam os cheiros do cotidiano." },
+        { "level": "C1-C2", "fr": "C'est le couloir qui, traversé, mène vers les autres vies de l'immeuble.", "pt": "É o corredor que, atravessado, leva às outras vidas do prédio." }
+      ]
+    },
+    {
+      "term": "habiter",
+      "definitionPt": "morar",
+      "definitionFr": "Vivre dans un lieu.",
+      "inflections": ["habiter", "j'habite", "nous habitons"],
+      "ptTargets": ["morar", "habitar"],
+      "examples": [
+        { "level": "A1", "fr": "J'habite à Paris.", "pt": "Eu moro em Paris." },
+        { "level": "A2-B1", "fr": "La famille habite dans un immeuble.", "pt": "A família mora num prédio." },
+        { "level": "B2", "fr": "Il habite à Paris depuis cinq ans.", "pt": "Ele mora em Paris há cinco anos." },
+        { "level": "C1-C2", "fr": "C'est en habitant un lieu que l'on apprend à le comprendre.", "pt": "É morando num lugar que se aprende a compreendê-lo." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Le verbe habiter et les prépositions",
+    "explanationPt": "Com 'habiter': 'habiter à Paris' (cidade com à), 'habiter en France' (país feminino com en), 'habiter au Brésil' (país masculino com au), 'habiter dans un immeuble' (dentro de um lugar).",
+    "exampleFr": "La famille habite au quatrième étage d'un immeuble parisien.",
+    "examplePt": "A família mora no quarto andar de um prédio parisiense.",
+    "practiceQuestion": "Complete: 'J'habite _____ Paris.'",
+    "options": ["à", "en", "au"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "Les nombres ordinaux : les étages",
+        "explanationPt": "Para os andares: premier (1º), deuxième (2º), troisième (3º), quatrième (4º). Ex.: 'J'habite au deuxième étage.' Atenção: no Brasil o térreo é 1º; na França, o 'rez-de-chaussée' é o térreo.",
+        "exampleFr": "Si vous avez besoin d'aide, je suis au deuxième étage.",
+        "examplePt": "Se precisarem de ajuda, moro no segundo andar.",
+        "practiceQuestion": "Complete: 'J'habite au _____ étage.' (2º)",
+        "options": ["deuxième", "deux", "secondaire"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "Être en panne",
+        "explanationPt": "Para dizer que algo quebrou: 'être en panne' (estar quebrado/em pane). Ex.: 'L'ascenseur est en panne.' Também: 'en panne de batterie' (sem bateria).",
+        "exampleFr": "L'ascenseur est en panne ! Alors, prenons les escaliers !",
+        "examplePt": "O elevador está quebrado! Então, vamos pelas escadas!",
+        "practiceQuestion": "Complete: 'L'ascenseur est en _____ .'",
+        "options": ["panne", "pane", "paine"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Em que andar a família mora?",
+      "options": ["no quarto andar", "no primeiro andar", "no térreo"],
+      "correctIndex": 0,
+      "explanation": "La famille habite au quatrième étage."
+    },
+    {
+      "question": "Por que a família sobe pelas escadas?",
+      "options": ["o elevador está quebrado", "a escada é mais rápida", "o elevador é pequeno"],
+      "correctIndex": 0,
+      "explanation": "L'ascenseur est en panne!"
+    },
+    {
+      "question": "Há quantos anos o sr. Robert mora no prédio?",
+      "options": ["vinte anos", "dois anos", "cem anos"],
+      "correctIndex": 0,
+      "explanation": "J'habite ici depuis vingt ans."
+    },
+    {
+      "question": "Complete: 'J'habite _____ Paris.'",
+      "options": ["à", "en", "au"],
+      "correctIndex": 0,
+      "explanation": "Cidade: habiter à Paris."
+    },
+    {
+      "question": "Complete: 'J'habite au _____ étage.' (2º)",
+      "options": ["deuxième", "deux", "secondaire"],
+      "correctIndex": 0,
+      "explanation": "Ordinal: deuxième étage."
+    }
+  ]
+}

@@ -1,0 +1,237 @@
+{
+  "id": "tours_lesson_24",
+  "cityId": "tours",
+  "domain": "Vida Cotidiana",
+  "level": "Intermediário (B1)",
+  "titleFr": "Les Halles de Tours : le marché du samedi",
+  "titlePt": "As Halles de Tours: o mercado de sábado",
+  "subtitleFr": "Fruits, fromages, rillettes et parfums du terroir",
+  "subtitlePt": "Frutas, queijos, rillettes e perfumes do terroir",
+  "summaryPt": "Nesta Aula 24 (B1), a família faz as compras de sábado nas Halles de Tours, o mercado coberto do centro: frutas, queijos, rillettes e pães. O aluno pratica o vocabulário das compras (le marchand, peser, combien coûte), o imperativo com pronomes e o futuro simple.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "« Le samedi, les Tourangeaux font leurs courses aux Halles », a dit Andréa. « On y trouve des produits frais et des producteurs qui racontent leur travail. »",
+      "pt": "« Aos sábados, os tourangeaux fazem as compras nas Halles », disse Andréa. « Encontram-se produtos frescos e produtores que contam seu trabalho. »"
+    },
+    {
+      "id": 2,
+      "fr": "Dans le marché, les couleurs et les odeurs se mélangeaient : les fraises, les fromages, les fleurs. « Pèse-moi un kilo de fraises, s'il te plaît », a demandé Andréa au marchand.",
+      "pt": "No mercado, as cores e os cheiros se misturavam: morangos, queijos, flores. « Pesas um quilo de morangos, por favor », pediu Andréa ao vendedor."
+    },
+    {
+      "id": 3,
+      "fr": "Irlan a acheté des rillettes, la spécialité de Tours. « Le marchand m'a expliqué que c'est du porc cuit lentement dans sa graisse », a-t-il dit. « On en met sur du pain grillé. »",
+      "pt": "Irlan comprou rillettes, a especialidade de Tours. « O vendedor me explicou que é porco cozido lentamente na própria gordura », disse. « Passa-se no pão torrado. »"
+    },
+    {
+      "id": 4,
+      "fr": "Iris a choisi des bonbons chez le confiseur. « Prends-en deux, pas plus ! » a dit Andréa. « Et n'oublie pas de dire merci. » « Merci, madame ! » a crié Iris avec un grand sourire.",
+      "pt": "Íris escolheu balas no confeiteiro. « Pegue duas, não mais! » disse Andréa. « E não esqueça de agradecer. » « Obrigada, senhora! » gritou Íris com um sorrisão."
+    },
+    {
+      "id": 5,
+      "fr": "Sur le chemin du retour, les sacs étaient pleins. « Quand j'étais livreur, je livrais les restaurants », a dit Irlan. « Maintenant, je comprends pourquoi les chefs choisissent leurs produits avec amour. »",
+      "pt": "No caminho de volta, as sacolas estavam cheias. « Quando eu era entregador, eu entregava nos restaurantes », disse Irlan. « Agora, entendo por que os chefs escolhem seus produtos com amor. »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "le marché",
+      "definitionPt": "o mercado",
+      "definitionFr": "Lieu où l'on vend des produits frais.",
+      "inflections": ["le marché", "un marché", "des marchés"],
+      "ptTargets": ["mercado"],
+      "examples": [
+        { "level": "A1", "fr": "Le marché est animé.", "pt": "O mercado é animado." },
+        { "level": "A2-B1", "fr": "Le marché du samedi est plein de monde.", "pt": "O mercado de sábado está cheio de gente." },
+        { "level": "B1", "fr": "Le marché où nous avons acheté des fraises est célèbre.", "pt": "O mercado onde compramos morangos é famoso." },
+        { "level": "C1-C2", "fr": "Le marché, théâtre des sens, donne au samedi ses couleurs et ses parfums.", "pt": "O mercado, teatro dos sentidos, dá ao sábado suas cores e perfumes." }
+      ]
+    },
+    {
+      "term": "le marchand",
+      "definitionPt": "o vendedor, o comerciante",
+      "definitionFr": "Personne qui vend sur un marché.",
+      "inflections": ["le marchand", "un marchand", "des marchands"],
+      "ptTargets": ["vendedor", "comerciante"],
+      "examples": [
+        { "level": "A1", "fr": "Le marchand est gentil.", "pt": "O vendedor é gentil." },
+        { "level": "A2-B1", "fr": "Le marchand a pesé les fraises.", "pt": "O vendedor pesou os morangos." },
+        { "level": "B1", "fr": "Le marchand qui nous a servi connaît son métier.", "pt": "O vendedor que nos atendeu conhece seu ofício." },
+        { "level": "C1-C2", "fr": "Le marchand, ambassadeur du terroir, transmet la terre par ses étals.", "pt": "O vendedor, embaixador do terroir, transmite a terra por suas bancas." }
+      ]
+    },
+    {
+      "term": "peser",
+      "definitionPt": "pesar",
+      "definitionFr": "Mesurer le poids.",
+      "inflections": ["je pèse", "tu pèses", "il pèse", "nous pesons"],
+      "ptTargets": ["pesar"],
+      "examples": [
+        { "level": "A1", "fr": "Je pèse le sucre.", "pt": "Eu peso o açúcar." },
+        { "level": "A2-B1", "fr": "Pèse-moi un kilo de fraises !", "pt": "Pesa-me um quilo de morangos!" },
+        { "level": "B1", "fr": "Les fraises que le marchand a pesées sont mûres.", "pt": "Os morangos que o vendedor pesou estão maduros." },
+        { "level": "C1-C2", "fr": "Peser, geste exact, transforme la demande en marchandise.", "pt": "Pesar, gesto exato, transforma o pedido em mercadoria." }
+      ]
+    },
+    {
+      "term": "la fraise",
+      "definitionPt": "o morango",
+      "definitionFr": "Fruit rouge et sucré.",
+      "inflections": ["la fraise", "une fraise", "des fraises"],
+      "ptTargets": ["morango"],
+      "examples": [
+        { "level": "A1", "fr": "La fraise est rouge.", "pt": "O morango é vermelho." },
+        { "level": "A2-B1", "fr": "Les fraises du printemps sont les meilleures.", "pt": "Os morangos da primavera são os melhores." },
+        { "level": "B1", "fr": "Les fraises que nous avons achetées sentent bon.", "pt": "Os morangos que compramos cheiram bem." },
+        { "level": "C1-C2", "fr": "La fraise, rubis des jardins, annonce le retour du soleil.", "pt": "O morango, rubi dos jardins, anuncia o retorno do sol." }
+      ]
+    },
+    {
+      "term": "la rillette",
+      "definitionPt": "a rillette (especialidade de Tours)",
+      "definitionFr": "Spécialité de Tours, viande de porc cuite dans la graisse.",
+      "inflections": ["la rillette", "des rillettes"],
+      "ptTargets": ["rillette"],
+      "examples": [
+        { "level": "A1", "fr": "La rillette est bonne.", "pt": "A rillette é boa." },
+        { "level": "A2-B1", "fr": "Les rillettes sont la spécialité de Tours.", "pt": "As rillettes são a especialidade de Tours." },
+        { "level": "B1", "fr": "Les rillettes que nous avons goûtées sont onctueuses.", "pt": "As rillettes que provamos são cremosas." },
+        { "level": "C1-C2", "fr": "La rillette, or du porc, se déguste sur du pain comme un souvenir d'enfance.", "pt": "A rillette, ouro do porco, degusta-se no pão como uma lembrança de infância." }
+      ]
+    },
+    {
+      "term": "le porc",
+      "definitionPt": "o porco",
+      "definitionFr": "Animal dont on mange la viande.",
+      "inflections": ["le porc", "un porc", "des porcs"],
+      "ptTargets": ["porco"],
+      "examples": [
+        { "level": "A1", "fr": "Le porc est rose.", "pt": "O porco é rosa." },
+        { "level": "A2-B1", "fr": "Les rillettes sont faites avec du porc.", "pt": "As rillettes são feitas com porco." },
+        { "level": "B1", "fr": "Le porc qui donne les rillettes est élevé ici.", "pt": "O porco que dá as rillettes é criado aqui." },
+        { "level": "C1-C2", "fr": "Le porc, roi discret de la ferme, nourrit les tables de France.", "pt": "O porco, rei discreto da fazenda, alimenta as mesas da França." }
+      ]
+    },
+    {
+      "term": "le pain grillé",
+      "definitionPt": "o pão torrado",
+      "definitionFr": "Pain chauffé et doré.",
+      "inflections": ["le pain grillé", "des pains grillés"],
+      "ptTargets": ["pão torrado"],
+      "examples": [
+        { "level": "A1", "fr": "Le pain grillé est chaud.", "pt": "O pão torrado é quente." },
+        { "level": "A2-B1", "fr": "On met les rillettes sur du pain grillé.", "pt": "Passa-se rillette no pão torrado." },
+        { "level": "B1", "fr": "Le pain grillé que nous avons préparé est croustillant.", "pt": "O pão torrado que preparamos está crocante." },
+        { "level": "C1-C2", "fr": "Le pain grillé, socle doré, élève la rillette au rang de festin.", "pt": "O pão torrado, base dourada, eleva a rillette à categoria de festim." }
+      ]
+    },
+    {
+      "term": "le sac",
+      "definitionPt": "a sacola, a bolsa",
+      "definitionFr": "Objet pour porter des choses.",
+      "inflections": ["le sac", "un sac", "des sacs"],
+      "ptTargets": ["sacola", "bolsa"],
+      "examples": [
+        { "level": "A1", "fr": "Le sac est lourd.", "pt": "A sacola é pesada." },
+        { "level": "A2-B1", "fr": "Les sacs étaient pleins de courses.", "pt": "As sacolas estavam cheias de compras." },
+        { "level": "B1", "fr": "Les sacs que nous portions sentaient bon.", "pt": "As sacolas que carregávamos cheiravam bem." },
+        { "level": "C1-C2", "fr": "Le sac du marché, corne d'abondance, rapporte la Touraine à la maison.", "pt": "A sacola do mercado, cornucópia, traz a Touraine para casa." }
+      ]
+    },
+    {
+      "term": "le chef",
+      "definitionPt": "o chef",
+      "definitionFr": "Cuisinier professionnel.",
+      "inflections": ["le chef", "un chef", "des chefs"],
+      "ptTargets": ["chef"],
+      "examples": [
+        { "level": "A1", "fr": "Le chef cuisine.", "pt": "O chef cozinha." },
+        { "level": "A2-B1", "fr": "Les chefs choisissent les meilleurs produits.", "pt": "Os chefs escolhem os melhores produtos." },
+        { "level": "B1", "fr": "Le chef dont parle Irlan travaille aux Halles.", "pt": "O chef de quem Irlan fala trabalha nas Halles." },
+        { "level": "C1-C2", "fr": "Le chef, poète de la cuisine, compose ses plats comme des poèmes.", "pt": "O chef, poeta da cozinha, compõe seus pratos como poemas." }
+      ]
+    },
+    {
+      "term": "le confiseur",
+      "definitionPt": "o confeiteiro",
+      "definitionFr": "Personne qui vend des bonbons.",
+      "inflections": ["le confiseur", "un confiseur", "des confiseurs"],
+      "ptTargets": ["confeiteiro"],
+      "examples": [
+        { "level": "A1", "fr": "Le confiseur est souriant.", "pt": "O confeiteiro é sorridente." },
+        { "level": "A2-B1", "fr": "Iris a choisi des bonbons chez le confiseur.", "pt": "Íris escolheu balas no confeiteiro." },
+        { "level": "B1", "fr": "Le confiseur qui tient la boutique est un artiste.", "pt": "O confeiteiro que tem a loja é um artista." },
+        { "level": "C1-C2", "fr": "Le confiseur, enchanteur du sucre, vend du bonheur en petits paquets.", "pt": "O confeiteiro, encantador do açúcar, vende felicidade em pacotinhos." }
+      ]
+    },
+    {
+      "term": "le producteur",
+      "definitionPt": "o produtor",
+      "definitionFr": "Personne qui produit des aliments.",
+      "inflections": ["le producteur", "un producteur", "des producteurs"],
+      "ptTargets": ["produtor"],
+      "examples": [
+        { "level": "A1", "fr": "Le producteur vend ses produits.", "pt": "O produtor vende seus produtos." },
+        { "level": "A2-B1", "fr": "Les producteurs racontent leur travail.", "pt": "Os produtores contam seu trabalho." },
+        { "level": "B1", "fr": "Le producteur dont on achète les fraises est de la région.", "pt": "O produtor de quem se compram os morangos é da região." },
+        { "level": "C1-C2", "fr": "Le producteur, paysan d'aujourd'hui, met un visage sur chaque aliment.", "pt": "O produtor, camponês de hoje, põe um rosto em cada alimento." }
+      ]
+    },
+    {
+      "term": "l'odeur",
+      "definitionPt": "o cheiro, o odor",
+      "definitionFr": "Parfum que l'on sent.",
+      "inflections": ["l'odeur", "une odeur", "des odeurs"],
+      "ptTargets": ["cheiro", "odor"],
+      "examples": [
+        { "level": "A1", "fr": "L'odeur est bonne.", "pt": "O cheiro é bom." },
+        { "level": "A2-B1", "fr": "Les odeurs du marché se mélangent.", "pt": "Os cheiros do mercado se misturam." },
+        { "level": "B1", "fr": "L'odeur qui vient des étals est appétissante.", "pt": "O cheiro que vem das bancas dá apetite." },
+        { "level": "C1-C2", "fr": "L'odeur, mémoire la plus fidèle, nous ramène d'un coup à nos souvenirs.", "pt": "O cheiro, memória mais fiel, traz-nos de volta às nossas lembranças." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "titleFr": "L'impératif avec COD et le verbe peser",
+    "titlePt": "O imperativo com COD e o verbo peser",
+    "points": [
+      {
+        "fr": "L'impératif avec COD : « Pèse-moi un kilo ! », « Prends-en deux ! », « Achète-les ! ». « En » remplace une quantité : « des fraises → prends-en. »",
+        "pt": "O imperativo com COD: « Pèse-moi un kilo ! » (Pesa-me um quilo!), « Prends-en deux ! » (Pega duas!), « Achète-les ! » (Compra-os!). « En » substitui uma quantidade: « des fraises → prends-en » (dos morangos → pega alguns)."
+      },
+      {
+        "fr": "Le verbe « peser » change de sonorité au présent : « je pèse, tu pèses, il pèse, nous pesons, vous pesez, ils pèsent ». (è se ouve em 1ª, 2ª, 3ª do singular e 3ª do plural.)",
+        "pt": "O verbo « peser » muda de som no presente: « je pèse, tu pèses, il pèse, nous pesons, vous pesez, ils pèsent ». (è ouve-se na 1ª, 2ª, 3ª do singular e 3ª do plural.)"
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Quel jour les Tourangeaux vont-ils aux Halles ?",
+      "options": ["Le samedi", "Le lundi", "Le mercredi", "Tous les jours"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Que demande Andréa au marchand ?",
+      "options": ["Un kilo de fraises", "Un kilo de pommes", "Un fromage", "Des fleurs"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Quelle est la spécialité de Tours ?",
+      "options": ["Les rillettes", "La choucroute", "La bouillabaisse", "Les crêpes"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Combien de bonbons Iris peut-elle prendre ?",
+      "options": ["Deux", "Dix", "Tous", "Aucun"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Que livrait Irlan quand il était livreur ?",
+      "options": ["Les restaurants", "Les fermes", "Les écoles", "Les hôpitaux"],
+      "correctIndex": 0
+    }
+  ]
+}

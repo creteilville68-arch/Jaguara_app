@@ -1,0 +1,257 @@
+{
+  "id": "lyon_lesson_28",
+  "cityId": "lyon",
+  "domain": "Gastronomia & Cotidiano",
+  "level": "Intermediário (B2+)",
+  "titleFr": "Le marché Saint-Antoine : les couleurs du quai",
+  "titlePt": "O mercado Saint-Antoine: as cores do cais",
+  "subtitleFr": "Découvrir le marché avec les partitifs et le discours indirect",
+  "subtitlePt": "Descobrir o mercado com os partitivos e o discurso indireto",
+  "summaryPt": "À beira do Saône, o mercado Saint-Antoine é o mercado mais famoso de Lyon, onde os chefs compram seus produtos. Queijos, frutas, flores: o cais se transforma num jardim de sabores. Irlan, ex-entregador, finalmente compra em vez de entregar. Nesta aula B2+, os partitivos e o discurso indireto animam a feira.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "« Au marché Saint-Antoine, on trouve du fromage, des fruits, des fleurs et des poissons », dit le marchand. Irlan regarda les étals : « On m'a dit que les grands chefs de Lyon y font leurs courses. »",
+      "pt": "« No mercado Saint-Antoine, encontra-se queijo, frutas, flores e peixes », disse o vendedor. Irlan olhou as barracas: « Disseram-me que os grandes chefs de Lyon fazem suas compras nele. »"
+    },
+    {
+      "id": 2,
+      "fr": "Un producteur vendait du miel des monts du Lyonnais. « Prenez-en, dit-il, il vient de mes ruches. » Irlan en acheta deux pots. « Le miel d'ici a un goût de fleurs sauvages », remarqua-t-il.",
+      "pt": "Um produtor vendia mel das montanhas do Lionês. « Pegue um pouco, disse ele, vem das minhas colmeias. » Irlan comprou dois potes. « O mel daqui tem gosto de flores silvestres », observou ele."
+    },
+    {
+      "id": 3,
+      "fr": "Au stand des fromages, la fromagère expliqua que chaque fromage venait d'un village différent. « Il faut que vous goûtiez celui-ci, dit-elle, c'est le préféré de Bocuse. » Irlan ferma les yeux : un goût de noisette.",
+      "pt": "No barracão dos queijos, a queijeira explicou que cada queijo vinha de uma vila diferente. « Vocês precisam provar este, disse ela, é o preferido de Bocuse. » Irlan fechou os olhos: um gosto de avelã."
+    },
+    {
+      "id": 4,
+      "fr": "Les cuisiniers passaient avec leurs paniers. « Le chef nous a dit que ce marché était le meilleur de la ville », dit Andréa. Irlan regarda les couleurs : « C'est la plus belle palette de Lyon. »",
+      "pt": "Os cozinheiros passavam com suas cestas. « O chef nos disse que este mercado era o melhor da cidade », disse Andréa. Irlan olhou as cores: « É a paleta mais bonita de Lyon. »"
+    },
+    {
+      "id": 5,
+      "fr": "Le soir, Irlan écrivit : « J'ai passé des années à porter des paniers pour les autres. Aujourd'hui, je remplis le mien, au bord du Saône. C'est la première fois que je me sens chez moi dans un marché français. »",
+      "pt": "À noite, Irlan escreveu: « Passei anos carregando cestas para os outros. Hoje, encho a minha, à beira do Saône. É a primeira vez que me sinto em casa num mercado francês. »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "l'étal",
+      "definitionPt": "barraca, banca",
+      "definitionFr": "Table de vente d'un marchand.",
+      "inflections": ["l'étal", "des étals"],
+      "ptTargets": ["barraca", "banca", "barracas"],
+      "examples": [
+        { "level": "A1", "fr": "L'étal est plein.", "pt": "A barraca está cheia." },
+        { "level": "A2-B1", "fr": "Les étals couvrent le quai.", "pt": "As barracas cobrem o cais." },
+        { "level": "B1-B2", "fr": "Les étals, colorés, attirent les passants dès le matin.", "pt": "As barracas, coloridas, atraem os passantes desde cedo." },
+        { "level": "C1-C2", "fr": "C'est l'étal qui transforme le quai en jardin public.", "pt": "É a barraca que transforma o cais em jardim público." }
+      ]
+    },
+    {
+      "term": "le producteur",
+      "definitionPt": "produtor",
+      "definitionFr": "Personne qui cultive ou fabrique des aliments.",
+      "inflections": ["le producteur", "des producteurs"],
+      "ptTargets": ["produtor", "produtores"],
+      "examples": [
+        { "level": "A1", "fr": "Le producteur vend son miel.", "pt": "O produtor vende seu mel." },
+        { "level": "A2-B1", "fr": "Les producteurs viennent des monts du Lyonnais.", "pt": "Os produtores vêm das montanhas do Lionês." },
+        { "level": "B1-B2", "fr": "Les producteurs, fiers de leur travail, racontent l'origine de chaque produit.", "pt": "Os produtores, orgulhosos de seu trabalho, contam a origem de cada produto." },
+        { "level": "C1-C2", "fr": "C'est le producteur qui relie la terre à la table.", "pt": "É o produtor que liga a terra à mesa." }
+      ]
+    },
+    {
+      "term": "la ruche",
+      "definitionPt": "colmeia",
+      "definitionFr": "Habitat des abeilles.",
+      "inflections": ["la ruche", "des ruches"],
+      "ptTargets": ["colmeia", "colmeias"],
+      "examples": [
+        { "level": "A1", "fr": "La ruche est en bois.", "pt": "A colmeia é de madeira." },
+        { "level": "A2-B1", "fr": "Le miel vient des ruches.", "pt": "O mel vem das colmeias." },
+        { "level": "B1-B2", "fr": "Les ruches, posées sur les collines, produisent un miel parfumé.", "pt": "As colmeias, postas nas colinas, produzem um mel perfumado." },
+        { "level": "C1-C2", "fr": "C'est la ruche qui garde le secret des fleurs.", "pt": "É a colmeia que guarda o segredo das flores." }
+      ]
+    },
+    {
+      "term": "le pot",
+      "definitionPt": "pote, vaso",
+      "definitionFr": "Récipient, souvent pour le miel.",
+      "inflections": ["le pot", "des pots"],
+      "ptTargets": ["pote", "vaso", "potes"],
+      "examples": [
+        { "level": "A1", "fr": "Le pot est petit.", "pt": "O pote é pequeno." },
+        { "level": "A2-B1", "fr": "Irlan acheta deux pots de miel.", "pt": "Irlan comprou dois potes de mel." },
+        { "level": "B1-B2", "fr": "Les pots de miel, alignés sur l'étal, brillent au soleil.", "pt": "Os potes de mel, alinhados na barraca, brilham ao sol." },
+        { "level": "C1-C2", "fr": "C'est dans le pot que se conserve le trésor des abeilles.", "pt": "É no pote que se conserva o tesouro das abelhas." }
+      ]
+    },
+    {
+      "term": "la fromagère",
+      "definitionPt": "queijeira",
+      "definitionFr": "Vendeuse de fromages.",
+      "inflections": ["la fromagère", "des fromagères"],
+      "ptTargets": ["queijeira", "queijeiras"],
+      "examples": [
+        { "level": "A1", "fr": "La fromagère est gentille.", "pt": "A queijeira é gentil." },
+        { "level": "A2-B1", "fr": "La fromagère explique les fromages.", "pt": "A queijeira explica os queijos." },
+        { "level": "B1-B2", "fr": "La fromagère, passionnée, connaît l'histoire de chaque fromage.", "pt": "A queijeira, apaixonada, conhece a história de cada queijo." },
+        { "level": "C1-C2", "fr": "C'est la fromagère qui fait découvrir le terroir en une bouchée.", "pt": "É a queijeira que faz descobrir o terroir numa mordida." }
+      ]
+    },
+    {
+      "term": "le noisette",
+      "definitionPt": "avelã",
+      "definitionFr": "Petit fruit sec au goût délicat.",
+      "inflections": ["la noisette", "des noisettes"],
+      "ptTargets": ["avelã", "avelãs"],
+      "examples": [
+        { "level": "A1", "fr": "La noisette est petite.", "pt": "A avelã é pequena." },
+        { "level": "A2-B1", "fr": "Le fromage a un goût de noisette.", "pt": "O queijo tem gosto de avelã." },
+        { "level": "B1-B2", "fr": "Le goût de noisette, subtil, révèle un fromage de caractère.", "pt": "O gosto de avelã, sutil, revela um queijo de caráter." },
+        { "level": "C1-C2", "fr": "C'est la noisette qui donne au fromage sa rondeur.", "pt": "É a avelã que dá ao queijo sua redondeza." }
+      ]
+    },
+    {
+      "term": "le panier",
+      "definitionPt": "cesta, cesto",
+      "definitionFr": "Récipient tressé pour transporter des achats.",
+      "inflections": ["le panier", "des paniers"],
+      "ptTargets": ["cesta", "cesto", "cestas"],
+      "examples": [
+        { "level": "A1", "fr": "Le panier est en osier.", "pt": "A cesta é de vime." },
+        { "level": "A2-B1", "fr": "Les cuisiniers portent des paniers.", "pt": "Os cozinheiros carregam cestas." },
+        { "level": "B1-B2", "fr": "Les paniers, remplis de produits frais, accompagnent les chefs au marché.", "pt": "As cestas, cheias de produtos frescos, acompanham os chefs ao mercado." },
+        { "level": "C1-C2", "fr": "C'est le panier qui raconte ce que l'on aime manger.", "pt": "É a cesta que conta o que se gosta de comer." }
+      ]
+    },
+    {
+      "term": "la palette",
+      "definitionPt": "paleta (de cores)",
+      "definitionFr": "Ensemble de couleurs.",
+      "inflections": ["la palette", "des palettes"],
+      "ptTargets": ["paleta", "paletas"],
+      "examples": [
+        { "level": "A1", "fr": "La palette est colorée.", "pt": "A paleta é colorida." },
+        { "level": "A2-B1", "fr": "Le marché est une palette de couleurs.", "pt": "O mercado é uma paleta de cores." },
+        { "level": "B1-B2", "fr": "La palette du marché, rouge, verte, dorée, est un tableau vivant.", "pt": "A paleta do mercado, vermelha, verde, dourada, é um quadro vivo." },
+        { "level": "C1-C2", "fr": "C'est la palette des étals qui peint la ville chaque matin.", "pt": "É a paleta das barracas que pinta a cidade a cada manhã." }
+      ]
+    },
+    {
+      "term": "le cuisinier",
+      "definitionPt": "cozinheiro",
+      "definitionFr": "Personne qui cuisine, professionnellement.",
+      "inflections": ["le cuisinier", "des cuisiniers"],
+      "ptTargets": ["cozinheiro", "cozinheiros"],
+      "examples": [
+        { "level": "A1", "fr": "Le cuisinier travaille.", "pt": "O cozinheiro trabalha." },
+        { "level": "A2-B1", "fr": "Les cuisiniers achètent au marché.", "pt": "Os cozinheiros compram no mercado." },
+        { "level": "B1-B2", "fr": "Les cuisiniers, fidèles au marché, choisissent leurs produits à l'aube.", "pt": "Os cozinheiros, fiéis ao mercado, escolhem seus produtos ao amanhecer." },
+        { "level": "C1-C2", "fr": "C'est le cuisinier qui transforme les produits du marché en art.", "pt": "É o cozinheiro que transforma os produtos do mercado em arte." }
+      ]
+    },
+    {
+      "term": "le poisson",
+      "definitionPt": "peixe",
+      "definitionFr": "Animal aquatique comestible.",
+      "inflections": ["le poisson", "des poissons"],
+      "ptTargets": ["peixe", "peixes"],
+      "examples": [
+        { "level": "A1", "fr": "Le poisson est frais.", "pt": "O peixe é fresco." },
+        { "level": "A2-B1", "fr": "Le marché vend du poisson.", "pt": "O mercado vende peixe." },
+        { "level": "B1-B2", "fr": "Les poissons, posés sur la glace, viennent de la mer ou des rivières.", "pt": "Os peixes, postos sobre o gelo, vêm do mar ou dos rios." },
+        { "level": "C1-C2", "fr": "C'est le poisson qui rappelle que Lyon, ville de fleuves, aime l'eau.", "pt": "É o peixe que lembra que Lyon, cidade de rios, ama a água." }
+      ]
+    },
+    {
+      "term": "le village",
+      "definitionPt": "vila, aldeia",
+      "definitionFr": "Petite localité à la campagne.",
+      "inflections": ["le village", "des villages"],
+      "ptTargets": ["vila", "aldeia", "vilas"],
+      "examples": [
+        { "level": "A1", "fr": "Le village est petit.", "pt": "A vila é pequena." },
+        { "level": "A2-B1", "fr": "Chaque fromage vient d'un village.", "pt": "Cada queijo vem de uma vila." },
+        { "level": "B1-B2", "fr": "Les villages des monts du Lyonnais, proches de la ville, fournissent le marché.", "pt": "As vilas das montanhas do Lionês, perto da cidade, abastecem o mercado." },
+        { "level": "C1-C2", "fr": "C'est le village qui donne au produit son goût d'origine.", "pt": "É a vila que dá ao produto seu gosto de origem." }
+      ]
+    },
+    {
+      "term": "le terroir",
+      "definitionPt": "terroir (identidade regional de produtos)",
+      "definitionFr": "Ensemble des traditions et des produits d'une région.",
+      "inflections": ["le terroir"],
+      "ptTargets": ["terroir"],
+      "examples": [
+        { "level": "A1", "fr": "Le terroir est riche.", "pt": "O terroir é rico." },
+        { "level": "A2-B1", "fr": "Le marché met en valeur le terroir.", "pt": "O mercado valoriza o terroir." },
+        { "level": "B1-B2", "fr": "Le terroir, défendu par les producteurs, se goûte sur chaque étal.", "pt": "O terroir, defendido pelos produtores, se prova em cada barraca." },
+        { "level": "C1-C2", "fr": "C'est le terroir qui donne à une cuisine son identité profonde.", "pt": "É o terroir que dá a uma cozinha sua identidade profunda." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Les partitifs et le discours indirect au marché",
+    "explanationPt": "Os partitivos nomeiam as mercadorias: 'du fromage, des fruits, des fleurs, du miel'. EN retoma quantidades: 'prenez-en', 'il en acheta deux pots'. O discurso indireto conta o que foi dito: 'la fromagère expliqua que chaque fromage venait d'un village', 'le chef nous a dit que ce marché était le meilleur'.",
+    "exampleFr": "On y trouve du fromage et des fruits ; la fromagère expliqua que chaque fromage venait d'un village différent.",
+    "examplePt": "Encontra-se nele queijo e frutas; a queijeira explicou que cada queijo vinha de uma vila diferente.",
+    "practiceQuestion": "Complete: « Le producteur dit : Prenez-___ , il vient de mes ruches. »",
+    "options": ["en", "y", "le"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "Prenez-en / en acheter",
+        "explanationPt": "'Prenez-en, il vient de mes ruches' : EN retoma 'du miel'. 'Il en acheta deux pots' = comprou dois potes disso.",
+        "exampleFr": "Prenez-en, dit le producteur, il vient de mes ruches.",
+        "examplePt": "Pegue um pouco, disse o produtor, vem das minhas colmeias.",
+        "practiceQuestion": "Complete: « Du miel ? Il en ___ deux pots. »",
+        "options": ["acheta", "achète", "achètera"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "Expliqua que + imparfait",
+        "explanationPt": "'La fromagère expliqua que chaque fromage venait d'un village' : discurso indireto com imperfeito na subordinada.",
+        "exampleFr": "La fromagère expliqua que chaque fromage venait d'un village différent.",
+        "examplePt": "A queijeira explicou que cada queijo vinha de uma vila diferente.",
+        "practiceQuestion": "Complete: « Elle expliqua que chaque fromage ___ d'un village. »",
+        "options": ["venait", "vient", "viendra"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Complete: « Le producteur dit : Prenez-___ , il vient de mes ruches. »",
+      "options": ["en", "y", "le"],
+      "correctIndex": 0,
+      "explanation": "EN retoma 'du miel': prenez-en."
+    },
+    {
+      "question": "Onde fica o mercado Saint-Antoine?",
+      "options": ["À beira do Saône", "No alto de Fourvière", "Na Part-Dieu"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'À la berge de la Saône' — 'sur le quai'."
+    },
+    {
+      "question": "Quem faz compras nesse mercado?",
+      "options": ["Os grandes chefs de Lyon", "Os turistas somente", "Os monges"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'les grands chefs de Lyon y font leurs courses'."
+    },
+    {
+      "question": "Qual era o queijo preferido de Bocuse?",
+      "options": ["Um queijo com gosto de avelã", "Um queijo azul", "Uma quenelle"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'c'est le préféré de Bocuse' e 'un goût de noisette'."
+    },
+    {
+      "question": "O que Irlan comprou do produtor de mel?",
+      "options": ["Dois potes", "Uma colmeia", "Uma abelha"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'Irlan en acheta deux pots.'"
+    }
+  ]
+}

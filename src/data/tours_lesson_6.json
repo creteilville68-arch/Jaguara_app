@@ -1,0 +1,252 @@
+{
+  "id": "tours_lesson_6",
+  "cityId": "tours",
+  "domain": "Natureza",
+  "level": "Intermediário (B1)",
+  "titleFr": "Les jardins de Villandry : l'art des jardins à la française",
+  "titlePt": "Os jardins de Villandry: a arte dos jardins franceses",
+  "subtitleFr": "Des potagers géométriques, des fleurs parfaites et le géographe qui prend des notes",
+  "subtitlePt": "Hortas geométricas, flores perfeitas e o geógrafo que anota tudo",
+  "summaryPt": "Nesta Aula 6 (B1), a família visita os jardins de Villandry, famosos por seus potagers geométricos e seus canteiros de flores. Irlan, o geógrafo, se encanta com a organização perfeita do espaço. O aluno pratica os comparativos e superlativos (le plus beau, plus ordonné que) e revê os pronomes relativos.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Les jardins de Villandry sont les plus beaux jardins de la Loire, dit-on. Les potagers, qui sont dessinés en carrés parfaits, ressemblent à une mosaïque.",
+      "pt": "Os jardins de Villandry são os mais belos jardins do Loire, dizem. As hortas, desenhadas em quadrados perfeitos, parecem um mosaico."
+    },
+    {
+      "id": 2,
+      "fr": "Irlan, plus enthousiaste que jamais, prenait des notes : « C'est plus ordonné que n'importe quel autre jardin ! » Andréa a ri.",
+      "pt": "Irlan, mais entusiasmado do que nunca, anotava: « É mais organizado do que qualquer outro jardim! » Andréa riu."
+    },
+    {
+      "id": 3,
+      "fr": "La fontaine, dont l'eau chante doucement, est entourée de fleurs. Íris a compté les allées, qui sont toutes parfaitement droites.",
+      "pt": "A fonte, cuja água canta suavemente, é cercada de flores. Íris contou as alamedas, todas perfeitamente retas."
+    },
+    {
+      "id": 4,
+      "fr": "Du haut du belvédère, la vue est la plus belle du domaine. « La géométrie de ce jardin, c'est de la géographie vivante », a conclu Irlan.",
+      "pt": "Do alto do mirante, a vista é a mais bonita do domínio. « A geometria deste jardim é geografia viva », concluiu Irlan."
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "le jardin",
+      "definitionPt": "o jardim",
+      "definitionFr": "Espace planté de fleurs et de légumes.",
+      "inflections": ["le jardin", "les jardins"],
+      "ptTargets": ["jardim"],
+      "examples": [
+        { "level": "A1", "fr": "Le jardin est vert.", "pt": "O jardim é verde." },
+        { "level": "A2-B1", "fr": "Les jardins de Villandry sont célèbres.", "pt": "Os jardins de Villandry são famosos." },
+        { "level": "B1-B2", "fr": "Les jardins, qui sont dessinés en carrés, impressionnent par leur ordre.", "pt": "Os jardins, desenhados em quadrados, impressionam pela sua ordem." },
+        { "level": "C1-C2", "fr": "Les jardins de Villandry illustrent la perfection de l'art paysager français.", "pt": "Os jardins de Villandry ilustram a perfeição da arte paisagística francesa." }
+      ]
+    },
+    {
+      "term": "la fleur",
+      "definitionPt": "a flor",
+      "definitionFr": "Plante colorée.",
+      "inflections": ["la fleur", "les fleurs"],
+      "ptTargets": ["flor"],
+      "examples": [
+        { "level": "A1", "fr": "La fleur est rouge.", "pt": "A flor é vermelha." },
+        { "level": "A2-B1", "fr": "Les fleurs du jardin sont magnifiques.", "pt": "As flores do jardim são magníficas." },
+        { "level": "B1-B2", "fr": "Les fleurs, qui changent avec les saisons, colorent les allées.", "pt": "As flores, que mudam com as estações, colorem as alamedas." },
+        { "level": "C1-C2", "fr": "La composition florale des jardins obéit à une palette savante de couleurs.", "pt": "A composição floral dos jardins obedece a uma paleta sábia de cores." }
+      ]
+    },
+    {
+      "term": "le potager",
+      "definitionPt": "a horta",
+      "definitionFr": "Jardin où l'on cultive des légumes.",
+      "inflections": ["le potager", "les potagers"],
+      "ptTargets": ["horta"],
+      "examples": [
+        { "level": "A1", "fr": "Le potager est petit.", "pt": "A horta é pequena." },
+        { "level": "A2-B1", "fr": "Le potager de Villandry est immense.", "pt": "A horta de Villandry é imensa." },
+        { "level": "B1-B2", "fr": "Le potager, qui produit des légumes, est aussi un objet d'art.", "pt": "A horta, que produz legumes, é também um objeto de arte." },
+        { "level": "C1-C2", "fr": "Les potagers géométriques de Villandry allient utilité et esthétique.", "pt": "As hortas geométricas de Villandry aliam utilidade e estética." }
+      ]
+    },
+    {
+      "term": "la fontaine",
+      "definitionPt": "a fonte",
+      "definitionFr": "Construction d'où jaillit l'eau.",
+      "inflections": ["la fontaine", "les fontaines"],
+      "ptTargets": ["fonte"],
+      "examples": [
+        { "level": "A1", "fr": "La fontaine est belle.", "pt": "A fonte é bonita." },
+        { "level": "A2-B1", "fr": "La fontaine est au centre du jardin.", "pt": "A fonte fica no centro do jardim." },
+        { "level": "B1-B2", "fr": "La fontaine, dont l'eau chante doucement, apporte de la fraîcheur.", "pt": "A fonte, cuja água canta suavemente, traz frescor." },
+        { "level": "C1-C2", "fr": "Les fontaines des jardins classiques rythment l'espace par le son de l'eau.", "pt": "As fontes dos jardins clássicos marcam o espaço pelo som da água." }
+      ]
+    },
+    {
+      "term": "l'allée",
+      "definitionPt": "a alameda",
+      "definitionFr": "Chemin bordé d'arbres ou de plantes.",
+      "inflections": ["l'allée", "les allées"],
+      "ptTargets": ["alameda"],
+      "examples": [
+        { "level": "A1", "fr": "L'allée est droite.", "pt": "A alameda é reta." },
+        { "level": "A2-B1", "fr": "Les allées du jardin sont parfaites.", "pt": "As alamedas do jardim são perfeitas." },
+        { "level": "B1-B2", "fr": "Les allées, qui se croisent en angles droits, structurent le jardin.", "pt": "As alamedas, que se cruzam em ângulos retos, estruturam o jardim." },
+        { "level": "C1-C2", "fr": "La perspective des allées conduit le regard vers les points d'intérêt du domaine.", "pt": "A perspectiva das alamedas conduz o olhar para os pontos de interesse do domínio." }
+      ]
+    },
+    {
+      "term": "la haie",
+      "definitionPt": "a sebe",
+      "definitionFr": "Alignement d'arbustes.",
+      "inflections": ["la haie", "les haies"],
+      "ptTargets": ["sebe"],
+      "examples": [
+        { "level": "A1", "fr": "La haie est verte.", "pt": "A sebe é verde." },
+        { "level": "A2-B1", "fr": "Les haies délimitent les carrés du potager.", "pt": "As sebes delimitam os quadrados da horta." },
+        { "level": "B1-B2", "fr": "Les haies taillées, qui encadrent les allées, sont parfaitement droites.", "pt": "As sebes podadas, que emolduram as alamedas, são perfeitamente retas." },
+        { "level": "C1-C2", "fr": "La taille savante des haies est un art transmis par les jardiniers depuis des siècles.", "pt": "A poda sábia das sebes é uma arte transmitida pelos jardineiros há séculos." }
+      ]
+    },
+    {
+      "term": "la perspective",
+      "definitionPt": "a perspectiva",
+      "definitionFr": "Vue en profondeur, point de vue.",
+      "inflections": ["la perspective", "les perspectives"],
+      "ptTargets": ["perspectiva"],
+      "examples": [
+        { "level": "A1", "fr": "La perspective est belle.", "pt": "A perspectiva é bonita." },
+        { "level": "A2-B1", "fr": "La perspective du jardin est impressionnante.", "pt": "A perspectiva do jardim é impressionante." },
+        { "level": "B1-B2", "fr": "La perspective, qui guide le regard, est un art des jardiniers.", "pt": "A perspectiva, que guia o olhar, é uma arte dos jardineiros." },
+        { "level": "C1-C2", "fr": "Les perspectives des jardins à la française expriment la maîtrise du paysage.", "pt": "As perspectivas dos jardins franceses expressam o domínio da paisagem." }
+      ]
+    },
+    {
+      "term": "le belvédère",
+      "definitionPt": "o mirante",
+      "definitionFr": "Point de vue élevé.",
+      "inflections": ["le belvédère", "les belvédères"],
+      "ptTargets": ["mirante"],
+      "examples": [
+        { "level": "A1", "fr": "Le belvédère est haut.", "pt": "O mirante é alto." },
+        { "level": "A2-B1", "fr": "Du belvédère, on voit tout le jardin.", "pt": "Do mirante, vê-se todo o jardim." },
+        { "level": "B1-B2", "fr": "Le belvédère, qui domine le potager, est le meilleur point de vue.", "pt": "O mirante, que domina a horta, é o melhor ponto de vista." },
+        { "level": "C1-C2", "fr": "Les belvédères des jardins classiques offrent une lecture géométrique du paysage.", "pt": "Os mirantes dos jardins clássicos oferecem uma leitura geométrica da paisagem." }
+      ]
+    },
+    {
+      "term": "géométrique",
+      "definitionPt": "geométrico",
+      "definitionFr": "Qui utilise des formes régulières.",
+      "inflections": ["géométrique", "géométriques"],
+      "ptTargets": ["geométrico"],
+      "examples": [
+        { "level": "A1", "fr": "Le dessin est géométrique.", "pt": "O desenho é geométrico." },
+        { "level": "A2-B1", "fr": "Les potagers de Villandry sont géométriques.", "pt": "As hortas de Villandry são geométricas." },
+        { "level": "B1-B2", "fr": "L'organisation géométrique des jardins reflète l'esprit de la Renaissance.", "pt": "A organização geométrica dos jardins reflete o espírito da Renascença." },
+        { "level": "C1-C2", "fr": "La rigueur géométrique des jardins français exprime une conception ordonnée du monde.", "pt": "O rigor geométrico dos jardins franceses expressa uma concepção ordenada do mundo." }
+      ]
+    },
+    {
+      "term": "parfait",
+      "definitionPt": "perfeito",
+      "definitionFr": "Sans défaut.",
+      "inflections": ["parfait", "parfaite", "parfaits"],
+      "ptTargets": ["perfeito"],
+      "examples": [
+        { "level": "A1", "fr": "Le cercle est parfait.", "pt": "O círculo é perfeito." },
+        { "level": "A2-B1", "fr": "Les carrés du potager sont parfaits.", "pt": "Os quadrados da horta são perfeitos." },
+        { "level": "B1-B2", "fr": "L'alignement parfait des allées émerveille les visiteurs.", "pt": "O alinhamento perfeito das alamedas encanta os visitantes." },
+        { "level": "C1-C2", "fr": "La perfection apparente des jardins dissimule un travail constant des jardiniers.", "pt": "A perfeição aparente dos jardins esconde um trabalho constante dos jardineiros." }
+      ]
+    },
+    {
+      "term": "la couleur",
+      "definitionPt": "a cor",
+      "definitionFr": "Aspect visuel des choses.",
+      "inflections": ["la couleur", "les couleurs"],
+      "ptTargets": ["cor"],
+      "examples": [
+        { "level": "A1", "fr": "La couleur est vive.", "pt": "A cor é viva." },
+        { "level": "A2-B1", "fr": "Les couleurs des fleurs changent avec les saisons.", "pt": "As cores das flores mudam com as estações." },
+        { "level": "B1-B2", "fr": "Les couleurs, qui s'harmonisent, créent des tableaux vivants.", "pt": "As cores, que se harmonizam, criam quadros vivos." },
+        { "level": "C1-C2", "fr": "La palette de couleurs des jardins est renouvelée plusieurs fois par an.", "pt": "A paleta de cores dos jardins é renovada várias vezes por ano." }
+      ]
+    },
+    {
+      "term": "ordonner",
+      "definitionPt": "organizar, ordenar",
+      "definitionFr": "Mettre en ordre.",
+      "inflections": ["j'ordonne", "nous ordonnons", "ordonné"],
+      "ptTargets": ["organizar"],
+      "examples": [
+        { "level": "A1", "fr": "J'ordonne ma chambre.", "pt": "Eu organizo meu quarto." },
+        { "level": "A2-B1", "fr": "Le jardin est parfaitement ordonné.", "pt": "O jardim é perfeitamente organizado." },
+        { "level": "B1-B2", "fr": "Les jardiniers ordonnent les plantes avec une précision extrême.", "pt": "Os jardineiros organizam as plantas com precisão extrema." },
+        { "level": "C1-C2", "fr": "Ordonner le paysage, c'est exprimer une volonté esthétique et politique.", "pt": "Organizar a paisagem é expressar uma vontade estética e política." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Comparatifs et superlatifs (plus ordonné que, le plus beau)",
+    "explanationPt": "Comparativo: 'plus/moins/aussi + adjectif + que'. Superlativo: 'le/la/les + plus/moins + adjectif'. Ex.: 'C'est plus ordonné que n'importe quel autre jardin', 'la vue est la plus belle du domaine'.",
+    "exampleFr": "Les jardins de Villandry sont les plus beaux de la Loire.",
+    "examplePt": "Os jardins de Villandry são os mais belos do Loire.",
+    "practiceQuestion": "Complete: « C'est plus ordonné ___ n'importe quel jardin. »",
+    "options": ["que", "qui", "dont"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "Le superlatif avec 'de'",
+        "explanationPt": "Para limitar o grupo: 'la vue la plus belle du domaine' (do domínio), 'les plus beaux de la Loire' (do Loire).",
+        "exampleFr": "C'est la vue la plus belle du domaine.",
+        "examplePt": "É a vista mais bonita do domínio.",
+        "practiceQuestion": "Complete: « La vue est la plus belle ___ domaine. »",
+        "options": ["du", "de la", "des"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "Relatifs dans la description",
+        "explanationPt": "Os relativos enriquecem a descrição: 'la fontaine, dont l'eau chante', 'les allées, qui sont droites'.",
+        "exampleFr": "La fontaine, dont l'eau chante doucement, est entourée de fleurs.",
+        "examplePt": "A fonte, cuja água canta suavemente, é cercada de flores.",
+        "practiceQuestion": "Complete: « Les allées, ___ sont droites, structurent le jardin. »",
+        "options": ["qui", "que", "dont"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Pelo que os jardins de Villandry são famosos?",
+      "options": ["pelas hortas geométricas", "pelas fontes de mármore", "pelas estátuas de mármore"],
+      "correctIndex": 0,
+      "explanation": "Os potagers geométricos são a fama de Villandry."
+    },
+    {
+      "question": "O que Irlan fazia enquanto admirava o jardim?",
+      "options": ["anotava tudo", "dormia", "comprava sementes"],
+      "correctIndex": 0,
+      "explanation": "Irlan, o geógrafo, tomava notas entusiasmado."
+    },
+    {
+      "question": "Complete: « C'est plus ordonné ___ n'importe quel autre jardin. »",
+      "options": ["que", "qui", "où"],
+      "correctIndex": 0,
+      "explanation": "Comparativo: plus + adjectif + que."
+    },
+    {
+      "question": "Complete: « La vue est la plus belle ___ domaine. »",
+      "options": ["du", "de la", "des"],
+      "correctIndex": 0,
+      "explanation": "Superlativo com 'de': du domaine."
+    },
+    {
+      "question": "Como Irlan definiu o jardim?",
+      "options": ["geografia viva", "arte morta", "um labirinto"],
+      "correctIndex": 0,
+      "explanation": "Irlan disse: 'La géométrie de ce jardin, c'est de la géographie vivante'."
+    }
+  ]
+}

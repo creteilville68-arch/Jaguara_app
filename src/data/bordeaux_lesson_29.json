@@ -1,0 +1,237 @@
+{
+  "id": "bordeaux_lesson_29",
+  "cityId": "bordeaux",
+  "domain": "Transporte e viagem",
+  "level": "Intermediário (B1+)",
+  "titleFr": "La gare Saint-Jean : la porte de Bordeaux",
+  "titlePt": "A gare Saint-Jean: a porta de Bordeaux",
+  "subtitleFr": "En regardant les trains, on rêve de tous les départs",
+  "subtitlePt": "Olhando os trens, sonha-se com todas as partidas",
+  "summaryPt": "Nesta Aula 29 (B1+), a família visita a gare Saint-Jean, a bela estação de 1898, e sonha com as próximas viagens. O aluno pratica o vocabulário da viagem (la gare, le train, le départ) e o conditionnel com os pronomes para expressar projetos.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "« La gare Saint-Jean est la porte de Bordeaux », a dit Irlan. « Elle a été construite en 1898 pour l'exposition universelle. » Iris a levé la tête vers la grande horloge : « Elle est belle comme un château ! »",
+      "pt": "« A gare Saint-Jean é a porta de Bordeaux », disse Irlan. « Ela foi construída em 1898 para a exposição universal. » Íris levantou a cabeça para o grande relógio: « É bela como um castelo! »"
+    },
+    {
+      "id": 2,
+      "fr": "Le tableau des départs affichait des noms magiques : Paris, Toulouse, Marseille, Nice. « Si on prenait le train demain, où irait-on ? » a demandé Iris. « Je choisirais la mer », a dit Andréa. « Et moi, la montagne ! » a répondu Iris.",
+      "pt": "O painel de partidas mostrava nomes mágicos: Paris, Toulouse, Marselha, Nice. « Se pegássemos o trem amanhã, para onde iríamos? » perguntou Íris. « Eu escolheria o mar », disse Andréa. « E eu, a montanha! » respondeu Íris."
+    },
+    {
+      "id": 3,
+      "fr": "Irlan a regardé les voyageurs qui couraient avec leurs valises. « Quand j'étais livreur, je n'avais jamais de valise », a-t-il dit. « Je roulais toute la journée, mais je ne partais jamais. Maintenant, chaque gare me fait rêver. »",
+      "pt": "Irlan olhou os viajantes que corriam com suas malas. « Quando eu era entregador, nunca tinha mala », disse. « Rodava o dia inteiro, mas nunca partia. Agora, cada estação me faz sonhar. »"
+    },
+    {
+      "id": 4,
+      "fr": "« On pourrait faire un grand voyage en famille un jour », a proposé Andréa. « On prendrait le TGV, et on mettrait la scooter dans le train. » « Elle aurait une place en première classe ! » a ri Iris. « On la lui donnerait, bien sûr. »",
+      "pt": "« Poderíamos fazer uma grande viagem em família um dia », propôs Andréa. « Pegaríamos o TGV e colocaríamos a scooter no trem. » « Ela teria um lugar na primeira classe! » riu Íris. « Daríamos a ela, claro. »"
+    },
+    {
+      "id": 5,
+      "fr": "Le soir, Iris a dessiné le train de ses rêves. « Il irait de Bordeaux jusqu'au bout du monde », a-t-elle dit. Irlan a ajouté : « Et il s'arrêterait partout où il y a une histoire à apprendre. » « Alors, il ne s'arrêtera jamais ! » a conclu Iris.",
+      "pt": "À noite, Íris desenhou o trem dos seus sonhos. « Ele iria de Bordeaux até o fim do mundo », disse. Irlan acrescentou: « E pararia em todo lugar onde há uma história para aprender. » « Então, ele nunca vai parar! » concluiu Íris."
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "la gare",
+      "definitionPt": "a estação",
+      "definitionFr": "Lieu où s'arrêtent les trains.",
+      "inflections": ["la gare", "une gare", "des gares"],
+      "ptTargets": ["estação"],
+      "examples": [
+        { "level": "A1", "fr": "La gare est grande.", "pt": "A estação é grande." },
+        { "level": "A2-B1", "fr": "La gare Saint-Jean est célèbre.", "pt": "A gare Saint-Jean é famosa." },
+        { "level": "B1", "fr": "La gare dans laquelle l'on entre sent le voyage.", "pt": "A estação na qual se entra cheira a viagem." },
+        { "level": "C1-C2", "fr": "La gare, seuil du monde, garde les adieux et les retrouvailles.", "pt": "A estação, soleira do mundo, guarda adeuses e reencontros." }
+      ]
+    },
+    {
+      "term": "le train",
+      "definitionPt": "o trem",
+      "definitionFr": "Moyen de transport sur des rails.",
+      "inflections": ["le train", "un train", "des trains"],
+      "ptTargets": ["trem"],
+      "examples": [
+        { "level": "A1", "fr": "Le train est long.", "pt": "O trem é comprido." },
+        { "level": "A2-B1", "fr": "Les trains partent de la gare.", "pt": "Os trens partem da estação." },
+        { "level": "B1", "fr": "Le train que l'on attend arrive à l'heure.", "pt": "O trem que se espera chega na hora." },
+        { "level": "C1-C2", "fr": "Le train, maison qui roule, emporte les rêves vers d'autres villes.", "pt": "O trem, casa que rola, leva os sonhos para outras cidades." }
+      ]
+    },
+    {
+      "term": "le départ",
+      "definitionPt": "a partida",
+      "definitionFr": "Moment où l'on part.",
+      "inflections": ["le départ", "un départ", "des départs"],
+      "ptTargets": ["partida"],
+      "examples": [
+        { "level": "A1", "fr": "Le départ est à neuf heures.", "pt": "A partida é às nove horas." },
+        { "level": "A2-B1", "fr": "Le tableau des départs est grand.", "pt": "O painel das partidas é grande." },
+        { "level": "B1", "fr": "Les départs que l'on regarde font rêver.", "pt": "As partidas que se olham fazem sonhar." },
+        { "level": "C1-C2", "fr": "Le départ, mot de tous les possibles, ouvre la porte des ailleurs.", "pt": "A partida, palavra de todos os possíveis, abre a porta dos alhures." }
+      ]
+    },
+    {
+      "term": "l'horloge",
+      "definitionPt": "o relógio",
+      "definitionFr": "Appareil qui donne l'heure.",
+      "inflections": ["l'horloge", "une horloge", "des horloges"],
+      "ptTargets": ["relógio"],
+      "examples": [
+        { "level": "A1", "fr": "L'horloge est grande.", "pt": "O relógio é grande." },
+        { "level": "A2-B1", "fr": "L'horloge de la gare est belle.", "pt": "O relógio da estação é bonito." },
+        { "level": "B1", "fr": "L'horloge, que l'on regarde avant de partir, est exacte.", "pt": "O relógio, que se olha antes de partir, é exato." },
+        { "level": "C1-C2", "fr": "L'horloge, sentinelle du temps, donne le rythme des trains et des vies.", "pt": "O relógio, sentinela do tempo, dá o ritmo dos trens e das vidas." }
+      ]
+    },
+    {
+      "term": "le voyageur",
+      "definitionPt": "o viajante",
+      "definitionFr": "Personne qui voyage.",
+      "inflections": ["le voyageur", "un voyageur", "des voyageurs"],
+      "ptTargets": ["viajante"],
+      "examples": [
+        { "level": "A1", "fr": "Le voyageur attend.", "pt": "O viajante espera." },
+        { "level": "A2-B1", "fr": "Les voyageurs courent avec leurs valises.", "pt": "Os viajantes correm com suas malas." },
+        { "level": "B1", "fr": "Les voyageurs que l'on voit viennent de partout.", "pt": "Os viajantes que se veem vêm de toda parte." },
+        { "level": "C1-C2", "fr": "Le voyageur, nomade pressé, porte sa vie dans une valise à roulettes.", "pt": "O viajante, nômade apressado, carrega a vida numa mala com rodinhas." }
+      ]
+    },
+    {
+      "term": "la valise",
+      "definitionPt": "a mala",
+      "definitionFr": "Bagage pour les voyages.",
+      "inflections": ["la valise", "une valise", "des valises"],
+      "ptTargets": ["mala"],
+      "examples": [
+        { "level": "A1", "fr": "La valise est lourde.", "pt": "A mala é pesada." },
+        { "level": "A2-B1", "fr": "Les voyageurs portent des valises.", "pt": "Os viajantes carregam malas." },
+        { "level": "B1", "fr": "La valise que l'on prépare sent l'aventure.", "pt": "A mala que se prepara cheira a aventura." },
+        { "level": "C1-C2", "fr": "La valise, maison de poche, emporte le nécessaire vers l'inconnu.", "pt": "A mala, casa de bolso, leva o necessário rumo ao desconhecido." }
+      ]
+    },
+    {
+      "term": "rêver",
+      "definitionPt": "sonhar",
+      "definitionFr": "Imaginer pendant le sommeil ou en pensée.",
+      "inflections": ["je rêve", "tu rêves", "il rêve", "nous rêvons"],
+      "ptTargets": ["sonhar"],
+      "examples": [
+        { "level": "A1", "fr": "Je rêve de voyager.", "pt": "Eu sonho em viajar." },
+        { "level": "A2-B1", "fr": "Chaque gare fait rêver Irlan.", "pt": "Cada estação faz Irlan sonhar." },
+        { "level": "B1", "fr": "Les voyages dont l'on rêve commencent à la gare.", "pt": "As viagens com que se sonha começam na estação." },
+        { "level": "C1-C2", "fr": "Rêver, art gratuit, offre au monde ses plus belles cartes.", "pt": "Sonhar, arte gratuita, oferece ao mundo seus mapas mais belos." }
+      ]
+    },
+    {
+      "term": "la première classe",
+      "definitionPt": "a primeira classe",
+      "definitionFr": "Partie la plus confortable du train.",
+      "inflections": ["la première classe", "en première classe"],
+      "ptTargets": ["primeira classe"],
+      "examples": [
+        { "level": "A1", "fr": "La première classe est confortable.", "pt": "A primeira classe é confortável." },
+        { "level": "A2-B1", "fr": "La scooter voyagerait en première classe.", "pt": "A scooter viajaria na primeira classe." },
+        { "level": "B1", "fr": "Les sièges de la première classe, que l'on trouve chers, sont larges.", "pt": "Os assentos da primeira classe, que se acham caros, são largos." },
+        { "level": "C1-C2", "fr": "La première classe, luxe du voyage, transforme le trajet en pause dorée.", "pt": "A primeira classe, luxo da viagem, transforma o trajeto em pausa dourada." }
+      ]
+    },
+    {
+      "term": "l'exposition",
+      "definitionPt": "a exposição",
+      "definitionFr": "Présentation publique.",
+      "inflections": ["l'exposition", "une exposition", "des expositions"],
+      "ptTargets": ["exposição"],
+      "examples": [
+        { "level": "A1", "fr": "L'exposition est ouverte.", "pt": "A exposição está aberta." },
+        { "level": "A2-B1", "fr": "La gare a été construite pour une exposition.", "pt": "A estação foi construída para uma exposição." },
+        { "level": "B1", "fr": "Les expositions que l'on voit ici sont mondiales.", "pt": "As exposições que se veem aqui são mundiais." },
+        { "level": "C1-C2", "fr": "L'exposition, vitrine du monde, montre ce que les hommes savent faire.", "pt": "A exposição, vitrine do mundo, mostra o que os homens sabem fazer." }
+      ]
+    },
+    {
+      "term": "monter",
+      "definitionPt": "subir, entrar",
+      "definitionFr": "Entrer dans un transport.",
+      "inflections": ["je monte", "tu montes", "il monte", "nous montons"],
+      "ptTargets": ["subir", "entrar"],
+      "examples": [
+        { "level": "A1", "fr": "Je monte dans le train.", "pt": "Eu entro no trem." },
+        { "level": "A2-B1", "fr": "On monte dans le TGV avec la scooter.", "pt": "Entra-se no TGV com a scooter." },
+        { "level": "B1", "fr": "Le train dans lequel l'on monte part à l'heure.", "pt": "O trem no qual se entra parte na hora." },
+        { "level": "C1-C2", "fr": "Monter, geste du départ, commence le voyage avant même le mouvement.", "pt": "Subir, gesto da partida, começa a viagem antes mesmo do movimento." }
+      ]
+    },
+    {
+      "term": "le quai",
+      "definitionPt": "a plataforma",
+      "definitionFr": "Plateforme de la gare.",
+      "inflections": ["le quai", "un quai", "des quais"],
+      "ptTargets": ["plataforma"],
+      "examples": [
+        { "level": "A1", "fr": "Le quai est numéroté.", "pt": "A plataforma é numerada." },
+        { "level": "A2-B1", "fr": "Le train part du quai deux.", "pt": "O trem parte da plataforma dois." },
+        { "level": "B1", "fr": "Le quai où l'on attend sent le café.", "pt": "A plataforma onde se espera cheira a café." },
+        { "level": "C1-C2", "fr": "Le quai, scène des adieux, voit les vies se croiser sans se toucher.", "pt": "A plataforma, cena dos adeuses, vê as vidas se cruzarem sem se tocarem." }
+      ]
+    },
+    {
+      "term": "le billet",
+      "definitionPt": "a passagem",
+      "definitionFr": "Ticket de train.",
+      "inflections": ["le billet", "un billet", "des billets"],
+      "ptTargets": ["passagem", "bilhete"],
+      "examples": [
+        { "level": "A1", "fr": "Le billet est dans la poche.", "pt": "A passagem está no bolso." },
+        { "level": "A2-B1", "fr": "On achète les billets à la gare.", "pt": "Compram-se as passagens na estação." },
+        { "level": "B1", "fr": "Les billets que l'on réserve en ligne sont moins chers.", "pt": "As passagens que se reservam online são mais baratas." },
+        { "level": "C1-C2", "fr": "Le billet, clé de papier, ouvre la porte de tous les départs.", "pt": "A passagem, chave de papel, abre a porta de todas as partidas." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "titleFr": "Le conditionnel pour les projets",
+    "titlePt": "O conditionnel para os projetos",
+    "points": [
+      {
+        "fr": "Pour parler d'un projet imaginaire : « On pourrait faire un grand voyage », « On prendrait le TGV », « Je choisirais la mer ».",
+        "pt": "Para falar de um projeto imaginário: « On pourrait faire un grand voyage » (Poderíamos fazer uma grande viagem), « On prendrait le TGV » (Pegaríamos o TGV), « Je choisirais la mer » (Eu escolheria o mar)."
+      },
+      {
+        "fr": "La condition : « Si + imparfait, conditionnel » : « Si on prenait le train demain, on irait à la mer. »",
+        "pt": "A condição: « Si + imparfait, conditionnel »: « Si on prenait le train demain, on irait à la mer » (Se pegássemos o trem amanhã, iríamos ao mar)."
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Em que ano a gare Saint-Jean foi construída ?",
+      "options": ["1898", "1950", "1700", "2010"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Com o que Iris comparou a estação ?",
+      "options": ["Um castelo", "Uma escola", "Um avião", "Um museu"],
+      "correctIndex": 0
+    },
+    {
+      "question": "O que Andréa escolheria se pegassem o trem amanhã ?",
+      "options": ["O mar", "A montanha", "A cidade grande", "O deserto"],
+      "correctIndex": 0
+    },
+    {
+      "question": "O que Iris disse que a scooter teria no trem ?",
+      "options": ["Um lugar na primeira classe", "Uma cabine privada", "Um bilhete grátis", "Um assento de janela"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Para onde Iris desenhou o trem dos sonhos ?",
+      "options": ["Até o fim do mundo", "Só até Paris", "Até a praia", "Até a escola"],
+      "correctIndex": 0
+    }
+  ]
+}

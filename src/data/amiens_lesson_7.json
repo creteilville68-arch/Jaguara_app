@@ -1,0 +1,268 @@
+{
+  "id": "amiens_lesson_7",
+  "cityId": "amiens",
+  "domain": "Lazer & Cotidiano",
+  "level": "Iniciante em Transição (A1/A2)",
+  "titleFr": "Le pique-nique au bord de la Somme",
+  "titlePt": "O piquenique às margens do Somme",
+  "subtitleFr": "Un déjeuner au soleil et une rencontre avec un étudiant",
+  "subtitlePt": "Um almoço ao sol e um encontro com um estudante",
+  "summaryPt": "Nesta Aula 7 (A1/A2), a família faz um piquenique às margens do rio Somme. Eles encontram Lucas, um estudante de Amiens, e conversam sobre a cidade. A família está contente e curiosa. O aluno aprende os adjetivos em -eux/-euse e o futuro próximo com 'on'.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Aujourd'hui, il fait beau. La famille fait un pique-nique au bord de la Somme. Sur la nappe, il y a du pain, du fromage, des fruits et des macarons.",
+      "pt": "Hoje, faz tempo bom. A família faz um piquenique às margens do Somme. Na toalha, há pão, queijo, frutas e macarons."
+    },
+    {
+      "id": 2,
+      "fr": "Un jeune homme s'approche. « Bonjour, je m'appelle Lucas. Je suis étudiant à Amiens. Vous êtes heureux de visiter notre ville ? » demande-t-il.",
+      "pt": "Um rapaz se aproxima. «Olá, eu me chamo Lucas. Sou estudante em Amiens. Vocês estão felizes em visitar a nossa cidade?» pergunta ele."
+    },
+    {
+      "id": 3,
+      "fr": "« Nous sommes très curieux de découvrir Amiens ! » répond Irlan. Lucas est ravi : « Alors, je suis content de vous conseiller ! »",
+      "pt": "«Nós estamos muito curiosos para descobrir Amiens!» responde Irlan. Lucas fica encantado: «Então, eu fico feliz em dar conselhos a vocês!»"
+    },
+    {
+      "id": 4,
+      "fr": "Lucas propose : « Demain, on va visiter le parc de la Hotoie, et puis on va goûter le gâteau battu, une spécialité picarde ! » Tout le monde est heureux.",
+      "pt": "Lucas propõe: «Amanhã, nós vamos visitar o parque da Hotoie e depois vamos provar o gâteau battu, uma especialidade picarda!» Todos ficam felizes."
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "pique-nique",
+      "definitionPt": "piquenique",
+      "definitionFr": "Repas pris dehors, souvent sur une nappe.",
+      "inflections": ["le pique-nique", "un pique-nique", "des pique-niques"],
+      "ptTargets": ["piquenique"],
+      "examples": [
+        { "level": "A1", "fr": "La famille fait un pique-nique.", "pt": "A família faz um piquenique." },
+        { "level": "A2-B1", "fr": "Le pique-nique est au bord de l'eau.", "pt": "O piquenique é à beira da água." },
+        { "level": "B2", "fr": "Un pique-nique au soleil est un plaisir simple.", "pt": "Um piquenique ao sol é um prazer simples." },
+        { "level": "C1-C2", "fr": "Le pique-nique familial réunit les générations autour d'une nappe.", "pt": "O piquenique familiar reúne as gerações em volta de uma toalha." }
+      ]
+    },
+    {
+      "term": "nappe",
+      "definitionPt": "toalha (de mesa)",
+      "definitionFr": "Tissu que l'on met sur une table ou par terre.",
+      "inflections": ["la nappe", "une nappe", "des nappes"],
+      "ptTargets": ["toalha"],
+      "examples": [
+        { "level": "A1", "fr": "La nappe est sur l'herbe.", "pt": "A toalha está na grama." },
+        { "level": "A2-B1", "fr": "La nappe est pleine de nourriture.", "pt": "A toalha está cheia de comida." },
+        { "level": "B2", "fr": "Une grande nappe accueille tous les plats.", "pt": "Uma toalha grande recebe todos os pratos." },
+        { "level": "C1-C2", "fr": "La nappe blanche met en valeur les couleurs du repas.", "pt": "A toalha branca valoriza as cores da refeição." }
+      ]
+    },
+    {
+      "term": "heureux",
+      "definitionPt": "feliz",
+      "definitionFr": "Qui éprouve de la joie.",
+      "inflections": ["heureux", "heureuse", "heureux"],
+      "ptTargets": ["feliz"],
+      "examples": [
+        { "level": "A1", "fr": "La famille est heureuse.", "pt": "A família está feliz." },
+        { "level": "A2-B1", "fr": "Je suis heureux de te voir.", "pt": "Eu estou feliz em te ver." },
+        { "level": "B2", "fr": "Elle est heureuse de découvrir la ville.", "pt": "Ela está feliz em descobrir a cidade." },
+        { "level": "C1-C2", "fr": "Le bonheur simple d'un pique-nique en famille est précieux.", "pt": "A felicidade simples de um piquenique em família é preciosa." }
+      ]
+    },
+    {
+      "term": "curieux",
+      "definitionPt": "curioso",
+      "definitionFr": "Qui veut apprendre et découvrir.",
+      "inflections": ["curieux", "curieuse", "curieux"],
+      "ptTargets": ["curioso"],
+      "examples": [
+        { "level": "A1", "fr": "Nous sommes curieux de découvrir Amiens.", "pt": "Nós estamos curiosos para descobrir Amiens." },
+        { "level": "A2-B1", "fr": "Íris est très curieuse.", "pt": "Íris é muito curiosa." },
+        { "level": "B2", "fr": "Les voyageurs curieux apprennent toujours plus.", "pt": "Os viajantes curiosos sempre aprendem mais." },
+        { "level": "C1-C2", "fr": "Un esprit curieux est le moteur de la découverte.", "pt": "Um espírito curioso é o motor da descoberta." }
+      ]
+    },
+    {
+      "term": "content",
+      "definitionPt": "contente, feliz",
+      "definitionFr": "Qui éprouve de la satisfaction.",
+      "inflections": ["content", "contente", "contents", "contentes"],
+      "ptTargets": ["contente", "feliz"],
+      "examples": [
+        { "level": "A1", "fr": "Je suis content de vous conseiller.", "pt": "Eu fico feliz em dar conselhos a vocês." },
+        { "level": "A2-B1", "fr": "Nous sommes contents du voyage.", "pt": "Nós estamos contentes com a viagem." },
+        { "level": "B2", "fr": "Elle est contente de sa rencontre.", "pt": "Ela está contente com o encontro." },
+        { "level": "C1-C2", "fr": "Être content de partager, c'est déjà voyager ensemble.", "pt": "Estar contente em partilhar já é viajar juntos." }
+      ]
+    },
+    {
+      "term": "conseiller",
+      "definitionPt": "aconselhar",
+      "definitionFr": "Donner des conseils.",
+      "inflections": ["je conseille", "conseiller", "il conseille"],
+      "ptTargets": ["aconselhar"],
+      "examples": [
+        { "level": "A1", "fr": "Je suis content de vous conseiller.", "pt": "Eu fico feliz em aconselhá-los." },
+        { "level": "A2-B1", "fr": "Le guide conseille les visiteurs.", "pt": "O guia aconselha os visitantes." },
+        { "level": "B2", "fr": "Elle conseille les meilleurs endroits de la ville.", "pt": "Ela aconselha os melhores lugares da cidade." },
+        { "level": "C1-C2", "fr": "Conseiller un voyage, c'est offrir un morceau de sa culture.", "pt": "Aconselhar uma viagem é oferecer um pedaço da sua cultura." }
+      ]
+    },
+    {
+      "term": "étudiant",
+      "definitionPt": "estudante",
+      "definitionFr": "Personne qui étudie à l'université.",
+      "inflections": ["l'étudiant", "un étudiant", "des étudiants"],
+      "ptTargets": ["estudante"],
+      "examples": [
+        { "level": "A1", "fr": "Lucas est étudiant.", "pt": "Lucas é estudante." },
+        { "level": "A2-B1", "fr": "Les étudiants aiment les cafés d'Amiens.", "pt": "Os estudantes gostam dos cafés de Amiens." },
+        { "level": "B2", "fr": "L'étudiant connaît bien sa ville.", "pt": "O estudante conhece bem a sua cidade." },
+        { "level": "C1-C2", "fr": "Les étudiants donnent à Amiens son énergie intellectuelle.", "pt": "Os estudantes dão a Amiens a sua energia intelectual." }
+      ]
+    },
+    {
+      "term": "ravir",
+      "definitionPt": "encantar, alegrar",
+      "definitionFr": "Faire grand plaisir.",
+      "inflections": ["je ravis", "ravir", "il ravit"],
+      "ptTargets": ["encantar", "alegrar"],
+      "examples": [
+        { "level": "A1", "fr": "Lucas est ravi.", "pt": "Lucas está encantado." },
+        { "level": "A2-B1", "fr": "Cette rencontre ravit la famille.", "pt": "Este encontro encanta a família." },
+        { "level": "B2", "fr": "La beauté de la ville ravit les visiteurs.", "pt": "A beleza da cidade encanta os visitantes." },
+        { "level": "C1-C2", "fr": "L'accueil chaleureux des Picards ravit les voyageurs.", "pt": "A recepção calorosa dos picardos encanta os viajantes." }
+      ]
+    },
+    {
+      "term": "proposer",
+      "definitionPt": "propor",
+      "definitionFr": "Offrir une idée ou une activité.",
+      "inflections": ["je propose", "proposer", "il propose"],
+      "ptTargets": ["propor"],
+      "examples": [
+        { "level": "A1", "fr": "Lucas propose une visite.", "pt": "Lucas propõe uma visita." },
+        { "level": "A2-B1", "fr": "Je propose d'aller au parc demain.", "pt": "Eu proponho ir ao parque amanhã." },
+        { "level": "B2", "fr": "Elle propose un itinéraire pour la journée.", "pt": "Ela propõe um roteiro para o dia." },
+        { "level": "C1-C2", "fr": "Proposer une découverte, c'est ouvrir une porte sur sa région.", "pt": "Propor uma descoberta é abrir uma porta para a sua região." }
+      ]
+    },
+    {
+      "term": "parc",
+      "definitionPt": "parque",
+      "definitionFr": "Grand jardin public.",
+      "inflections": ["le parc", "un parc", "des parcs"],
+      "ptTargets": ["parque"],
+      "examples": [
+        { "level": "A1", "fr": "Le parc de la Hotoie est grand.", "pt": "O parque da Hotoie é grande." },
+        { "level": "A2-B1", "fr": "Nous allons au parc cet après-midi.", "pt": "Nós vamos ao parque esta tarde." },
+        { "level": "B2", "fr": "Le parc est un espace vert apprécié des familles.", "pt": "O parque é um espaço verde apreciado pelas famílias." },
+        { "level": "C1-C2", "fr": "Les parcs urbains sont les poumons des villes.", "pt": "Os parques urbanos são os pulmões das cidades." }
+      ]
+    },
+    {
+      "term": "goûter",
+      "definitionPt": "provar, degustar",
+      "definitionFr": "Essayer la saveur d'un aliment.",
+      "inflections": ["je goûte", "goûter", "il goûte"],
+      "ptTargets": ["provar", "degustar"],
+      "examples": [
+        { "level": "A1", "fr": "On va goûter le gâteau battu.", "pt": "Nós vamos provar o gâteau battu." },
+        { "level": "A2-B1", "fr": "Je goûte une spécialité picarde.", "pt": "Eu provo uma especialidade picarda." },
+        { "level": "B2", "fr": "Goûter les spécialités locales est essentiel en voyage.", "pt": "Provar as especialidades locais é essencial numa viagem." },
+        { "level": "C1-C2", "fr": "Goûter le gâteau battu, c'est découvrir le terroir picard.", "pt": "Provar o gâteau battu é descobrir o terroir picardo." }
+      ]
+    },
+    {
+      "term": "spécialité",
+      "definitionPt": "especialidade",
+      "definitionFr": "Plat ou produit typique d'un lieu.",
+      "inflections": ["la spécialité", "une spécialité", "des spécialités"],
+      "ptTargets": ["especialidade"],
+      "examples": [
+        { "level": "A1", "fr": "Le gâteau battu est une spécialité picarde.", "pt": "O gâteau battu é uma especialidade picarda." },
+        { "level": "A2-B1", "fr": "Chaque région a ses spécialités.", "pt": "Cada região tem as suas especialidades." },
+        { "level": "B2", "fr": "La cuisine picarde a des spécialités savoureuses.", "pt": "A cozinha picarda tem especialidades saborosas." },
+        { "level": "C1-C2", "fr": "Les spécialités régionales racontent l'histoire d'un territoire.", "pt": "As especialidades regionais contam a história de um território." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Les adjectifs en -eux / -euse",
+    "explanationPt": "Adjetivos terminados em -eux formam o feminino em -euse: heureux → heureuse, curieux → curieuse. Ex.: 'Il est heureux.' / 'Elle est curieuse.'",
+    "exampleFr": "Vous êtes heureux de visiter notre ville ? — Nous sommes très curieux !",
+    "examplePt": "Vocês estão felizes em visitar a nossa cidade? — Nós estamos muito curiosos!",
+    "practiceQuestion": "Complete com a forma correta: 'Íris est très _____.' (curieux)",
+    "options": ["curieuse", "curieux", "curieuses"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "Les adjectifs en -eux / -euse",
+        "explanationPt": "Masculino -eux → feminino -euse: heureux/heureuse, curieux/curieuse. Ex.: 'Il est heureux.', 'Elle est heureuse.'",
+        "exampleFr": "Lucas est heureux et sa sœur est heureuse aussi.",
+        "examplePt": "Lucas está feliz e a sua irmã está feliz também.",
+        "practiceQuestion": "Complete: 'La famille est _____.' (heureux)",
+        "options": ["heureuse", "heureux", "heureuses"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "Le futur proche avec on",
+        "explanationPt": "Com 'on' (= nós), o futuro próximo: 'on va' + infinitivo. Ex.: 'On va visiter le parc' (Nós vamos visitar o parque), 'On va goûter le gâteau battu'.",
+        "exampleFr": "Demain, on va visiter le parc de la Hotoie, et puis on va goûter le gâteau battu.",
+        "examplePt": "Amanhã, nós vamos visitar o parque da Hotoie e depois vamos provar o gâteau battu.",
+        "practiceQuestion": "Complete com a forma correta: 'On _____ (aller) goûter une spécialité.'",
+        "options": ["va", "vont", "allons"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Complete a frase do texto: 'La famille fait un pique-nique au bord de la _____.'",
+      "options": ["Somme", "Seine", "Loire"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'La famille fait un pique-nique au bord de la Somme.'"
+    },
+    {
+      "question": "Ordene corretamente as palavras da frase: [ au bord / la famille / de la Somme / un pique-nique / fait / ]",
+      "options": [
+        "La famille fait un pique-nique au bord de la Somme.",
+        "Un pique-nique la famille fait au bord de la Somme.",
+        "La famille au bord de la Somme fait un pique-nique."
+      ],
+      "correctIndex": 0,
+      "explanation": "A frase exata do texto é 'La famille fait un pique-nique au bord de la Somme.'"
+    },
+    {
+      "question": "Como se traduz: 'Ela está feliz e curiosa'?",
+      "options": [
+        "Elle est heureuse et curieuse.",
+        "Elle est heureux et curieuse.",
+        "Elle est heureuse et curieux."
+      ],
+      "correctIndex": 0,
+      "explanation": "Feminino de heureux = heureuse; feminino de curieux = curieuse."
+    },
+    {
+      "question": "Identifique a frase com ERRO de concordância:",
+      "options": [
+        "Il est heureux.",
+        "Elle est curieuse.",
+        "Elle est heureux."
+      ],
+      "correctIndex": 2,
+      "explanation": "O erro é 'Elle est heureux': no feminino, é 'heureuse'."
+    },
+    {
+      "question": "O que Lucas propõe para o dia seguinte?",
+      "options": [
+        "Visitar o parque da Hotoie e provar o gâteau battu",
+        "Ir ao museu de arte moderna",
+        "Passear de avião"
+      ],
+      "correctIndex": 0,
+      "explanation": "No texto: 'Demain, on va visiter le parc de la Hotoie, et puis on va goûter le gâteau battu.'"
+    }
+  ]
+}

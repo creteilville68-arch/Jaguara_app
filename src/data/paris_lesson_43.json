@@ -1,0 +1,252 @@
+{
+  "id": "paris_lesson_43",
+  "cityId": "paris",
+  "domain": "Casa & Cozinha",
+  "level": "Iniciante (A1)",
+  "titleFr": "La cuisine à la maison",
+  "titlePt": "A cozinha em casa",
+  "subtitleFr": "Préparer les repas en famille",
+  "subtitlePt": "Preparar as refeições em família",
+  "summaryPt": "Nesta Aula 43 (A1), a família cozinha junta em casa. O aluno aprende o vocabulário da cozinha (cuisine, cuisiner, recette, plat, préparer, goûter, délicieux, four, faim) e o verbo préparer com as refeições do dia.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Le dimanche, la famille cuisine ensemble. « Aujourd'hui, nous préparons une quiche, dit Andréa. C'est une recette française facile : des œufs, de la crème, du fromage et des légumes. »",
+      "pt": "No domingo, a família cozinha junta. « Hoje, preparamos uma quiche, diz Andréa. É uma receita francesa fácil: ovos, creme, queijo e legumes. »"
+    },
+    {
+      "id": 2,
+      "fr": "Iris aide sa mère dans la cuisine. Elle lave les légumes et casse les œufs. « Attention, ma chérie ! dit Andréa. Le four est très chaud. Ne touche pas la porte ! »",
+      "pt": "Íris ajuda a mãe na cozinha. Ela lava os legumes e quebra os ovos. « Cuidado, minha querida! diz Andréa. O forno está muito quente. Não toque na porta! »"
+    },
+    {
+      "id": 3,
+      "fr": "Irlan met la table. « J'ai faim ! dit-il. La quiche sent très bon. » Andréa rit : « Encore un peu de patience ! Nous allons goûter le plat dans dix minutes. »",
+      "pt": "Irlan põe a mesa. « Estou com fome! diz ele. A quiche cheira muito bem. » Andréa ri: « Mais um pouco de paciência! Vamos provar o prato em dez minutos. »"
+    },
+    {
+      "id": 4,
+      "fr": "La quiche est prête. Toute la famille s'assoit à table. Iris goûte et sourit : « C'est délicieux ! » Irlan ajoute : « Mangeons encore un peu de pain et buvons de l'eau. Bon appétit ! »",
+      "pt": "A quiche está pronta. Toda a família se senta à mesa. Íris prova e sorri: « Está delicioso! » Irlan acrescenta: « Comamos mais um pouco de pão e bebamos água. Bom apetite! »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "la cuisine",
+      "definitionPt": "a cozinha (lugar)",
+      "definitionFr": "Pièce où l'on prépare les repas.",
+      "inflections": ["la cuisine", "une cuisine", "des cuisines"],
+      "ptTargets": ["cozinha"],
+      "examples": [
+        { "level": "A1", "fr": "La cuisine est petite.", "pt": "A cozinha é pequena." },
+        { "level": "A2-B1", "fr": "Iris aide sa mère dans la cuisine.", "pt": "Íris ajuda a mãe na cozinha." },
+        { "level": "B2", "fr": "La cuisine, chaude et parfumée, réunit la famille.", "pt": "A cozinha, quente e perfumada, reúne a família." },
+        { "level": "C1-C2", "fr": "C'est la cuisine qui, gourmande, garde les secrets de famille.", "pt": "É a cozinha que, gulosa, guarda os segredos de família." }
+      ]
+    },
+    {
+      "term": "cuisiner",
+      "definitionPt": "cozinhar",
+      "definitionFr": "Préparer des plats.",
+      "inflections": ["cuisiner", "je cuisine", "nous cuisinons"],
+      "ptTargets": ["cozinhar"],
+      "examples": [
+        { "level": "A1", "fr": "J'aime cuisiner.", "pt": "Eu gosto de cozinhar." },
+        { "level": "A2-B1", "fr": "La famille cuisine ensemble le dimanche.", "pt": "A família cozinha junta no domingo." },
+        { "level": "B2", "fr": "Cuisiner ensemble, c'est partager un moment.", "pt": "Cozinhar juntos é partilhar um momento." },
+        { "level": "C1-C2", "fr": "C'est en cuisinant que l'on transmet les traditions.", "pt": "É cozinhando que se transmitem as tradições." }
+      ]
+    },
+    {
+      "term": "la recette",
+      "definitionPt": "a receita",
+      "definitionFr": "Instructions pour préparer un plat.",
+      "inflections": ["la recette", "une recette", "des recettes"],
+      "ptTargets": ["receita"],
+      "examples": [
+        { "level": "A1", "fr": "La recette est facile.", "pt": "A receita é fácil." },
+        { "level": "A2-B1", "fr": "C'est une recette française facile.", "pt": "É uma receita francesa fácil." },
+        { "level": "B2", "fr": "La recette, écrite, se transmet de mère en fille.", "pt": "A receita, escrita, transmite-se de mãe para filha." },
+        { "level": "C1-C2", "fr": "C'est la recette qui, simple, devient un trésor familial.", "pt": "É a receita que, simples, torna-se um tesouro de família." }
+      ]
+    },
+    {
+      "term": "le plat",
+      "definitionPt": "o prato (comida)",
+      "definitionFr": "Préparation culinaire servie.",
+      "inflections": ["le plat", "un plat", "des plats"],
+      "ptTargets": ["prato"],
+      "examples": [
+        { "level": "A1", "fr": "Le plat est bon.", "pt": "O prato é bom." },
+        { "level": "A2-B1", "fr": "Nous allons goûter le plat dans dix minutes.", "pt": "Vamos provar o prato em dez minutos." },
+        { "level": "B2", "fr": "Le plat, parfumé, réveille les appétits.", "pt": "O prato, perfumado, desperta os apetites." },
+        { "level": "C1-C2", "fr": "C'est le plat qui, partagé, rassemble les convives.", "pt": "É o prato que, partilhado, reúne os convivas." }
+      ]
+    },
+    {
+      "term": "préparer",
+      "definitionPt": "preparar",
+      "definitionFr": "Faire quelque chose avec soin.",
+      "inflections": ["préparer", "je prépare", "nous préparons"],
+      "ptTargets": ["preparar"],
+      "examples": [
+        { "level": "A1", "fr": "Je prépare le repas.", "pt": "Eu preparo a refeição." },
+        { "level": "A2-B1", "fr": "Nous préparons une quiche.", "pt": "Preparamos uma quiche." },
+        { "level": "B2", "fr": "Préparer un repas ensemble prend du temps mais fait plaisir.", "pt": "Preparar uma refeição juntos leva tempo mas dá prazer." },
+        { "level": "C1-C2", "fr": "C'est en préparant que l'on prend soin des autres.", "pt": "É preparando que se cuida dos outros." }
+      ]
+    },
+    {
+      "term": "goûter",
+      "definitionPt": "provar (comida)",
+      "definitionFr": "Essayer un aliment.",
+      "inflections": ["goûter", "je goûte", "nous goûtons"],
+      "ptTargets": ["provar", "experimentar"],
+      "examples": [
+        { "level": "A1", "fr": "Je goûte le plat.", "pt": "Eu provo o prato." },
+        { "level": "A2-B1", "fr": "Iris goûte la quiche et sourit.", "pt": "Íris prova a quiche e sorri." },
+        { "level": "B2", "fr": "Il faut goûter avant de saler.", "pt": "É preciso provar antes de salgar." },
+        { "level": "C1-C2", "fr": "C'est en goûtant que l'on découvre les saveurs.", "pt": "É provando que se descobrem os sabores." }
+      ]
+    },
+    {
+      "term": "délicieux",
+      "definitionPt": "delicioso",
+      "definitionFr": "Très bon au goût.",
+      "inflections": ["délicieux", "délicieuse", "délicieuses"],
+      "ptTargets": ["delicioso"],
+      "examples": [
+        { "level": "A1", "fr": "Le gâteau est délicieux.", "pt": "O bolo é delicioso." },
+        { "level": "A2-B1", "fr": "Iris dit : « C'est délicieux ! »", "pt": "Íris diz: « Está delicioso! »" },
+        { "level": "B2", "fr": "La quiche, dorée, est délicieuse.", "pt": "A quiche, dourada, está deliciosa." },
+        { "level": "C1-C2", "fr": "C'est délicieux que de partager un repas fait maison.", "pt": "É delicioso partilhar uma refeição caseira." }
+      ]
+    },
+    {
+      "term": "le four",
+      "definitionPt": "o forno",
+      "definitionFr": "Appareil pour cuire les aliments.",
+      "inflections": ["le four", "un four", "des fours"],
+      "ptTargets": ["forno"],
+      "examples": [
+        { "level": "A1", "fr": "Le four est chaud.", "pt": "O forno está quente." },
+        { "level": "A2-B1", "fr": "Attention, le four est très chaud !", "pt": "Cuidado, o forno está muito quente!" },
+        { "level": "B2", "fr": "Le four, allumé, chauffe toute la cuisine.", "pt": "O forno, aceso, aquece toda a cozinha." },
+        { "level": "C1-C2", "fr": "C'est le four qui, patient, cuit les plats à la perfection.", "pt": "É o forno que, paciente, cozinha os pratos à perfeição." }
+      ]
+    },
+    {
+      "term": "avoir faim",
+      "definitionPt": "estar com fome",
+      "definitionFr": "Avoir besoin de manger.",
+      "inflections": ["j'ai faim", "tu as faim", "nous avons faim"],
+      "ptTargets": ["com fome", "fome"],
+      "examples": [
+        { "level": "A1", "fr": "J'ai faim.", "pt": "Estou com fome." },
+        { "level": "A2-B1", "fr": "Irlan dit : « J'ai faim ! »", "pt": "Irlan diz: « Estou com fome! »" },
+        { "level": "B2", "fr": "Après l'école, les enfants ont faim.", "pt": "Depois da escola, as crianças estão com fome." },
+        { "level": "C1-C2", "fr": "C'est quand on a faim que les plats sont les meilleurs.", "pt": "É quando se está com fome que os pratos são os melhores." }
+      ]
+    },
+    {
+      "term": "mettre la table",
+      "definitionPt": "pôr a mesa",
+      "definitionFr": "Préparer la table pour manger.",
+      "inflections": ["mettre la table", "je mets la table"],
+      "ptTargets": ["pôr a mesa", "pôr a mesa"],
+      "examples": [
+        { "level": "A1", "fr": "Je mets la table.", "pt": "Eu ponho a mesa." },
+        { "level": "A2-B1", "fr": "Irlan met la table pendant qu'Andréa cuisine.", "pt": "Irlan põe a mesa enquanto Andréa cozinha." },
+        { "level": "B2", "fr": "Mettre la table avant le repas, c'est un geste simple et gentil.", "pt": "Pôr a mesa antes da refeição é um gesto simples e gentil." },
+        { "level": "C1-C2", "fr": "C'est en mettant la table que l'on prépare la fête du repas.", "pt": "É pondo a mesa que se prepara a festa da refeição." }
+      ]
+    },
+    {
+      "term": "le pain",
+      "definitionPt": "o pão",
+      "definitionFr": "Aliment fait avec de la farine.",
+      "inflections": ["le pain", "un pain", "des pains"],
+      "ptTargets": ["pão"],
+      "examples": [
+        { "level": "A1", "fr": "Le pain est bon.", "pt": "O pão é bom." },
+        { "level": "A2-B1", "fr": "Mangeons encore un peu de pain.", "pt": "Comamos mais um pouco de pão." },
+        { "level": "B2", "fr": "Le pain français, croustillant, accompagne chaque repas.", "pt": "O pão francês, crocante, acompanha cada refeição." },
+        { "level": "C1-C2", "fr": "C'est le pain qui, quotidien, nourrit les familles.", "pt": "É o pão que, cotidiano, alimenta as famílias." }
+      ]
+    },
+    {
+      "term": "bon appétit",
+      "definitionPt": "bom apetite",
+      "definitionFr": "Formule avant de manger.",
+      "inflections": ["bon appétit"],
+      "ptTargets": ["bom apetite"],
+      "examples": [
+        { "level": "A1", "fr": "Bon appétit !", "pt": "Bom apetite!" },
+        { "level": "A2-B1", "fr": "Irlan dit : « Bon appétit ! »", "pt": "Irlan diz: « Bom apetite! »" },
+        { "level": "B2", "fr": "On dit « bon appétit » avant de commencer le repas.", "pt": "Diz-se « bom apetite » antes de começar a refeição." },
+        { "level": "C1-C2", "fr": "C'est « bon appétit » qui, poli, ouvre chaque repas français.", "pt": "É « bom apetite » que, educado, abre cada refeição francesa." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "L'impératif (o imperativo) : ordens gentis",
+    "explanationPt": "O imperativo dá ordens ou conselhos: 'Mangeons !' (comamos!), 'Buvons !' (bebamos!), 'Ne touche pas !' (não toque!), 'Attention !' (cuidado!). Com 'nous', o imperativo termina em -ons: mangeons, buvons, goûtons.",
+    "exampleFr": "Mangeons encore un peu de pain et buvons de l'eau. Ne touche pas la porte du four !",
+    "examplePt": "Comamos mais um pouco de pão e bebamos água. Não toque na porta do forno!",
+    "practiceQuestion": "Complete: 'Ne _____ pas la porte du four !'",
+    "options": ["touche", "touches", "toucher"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "Avoir faim / avoir soif : fome e sede",
+        "explanationPt": "'Avoir faim' = estar com fome; 'avoir soif' = estar com sede. Ex.: 'J'ai faim' (estou com fome), 'Nous avons soif' (estamos com sede).",
+        "exampleFr": "J'ai faim ! La quiche sent très bon.",
+        "examplePt": "Estou com fome! A quiche cheira muito bem.",
+        "practiceQuestion": "Complete: 'J'ai _____ !'",
+        "options": ["faim", "faims", "faim pas"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "Encore un peu : um pouco mais",
+        "explanationPt": "'Encore un peu' = um pouco mais. Ex.: 'Encore un peu de patience !' (mais um pouco de paciência!), 'Encore un peu de pain' (mais um pouco de pão).",
+        "exampleFr": "Encore un peu de patience ! Nous allons goûter le plat dans dix minutes.",
+        "examplePt": "Mais um pouco de paciência! Vamos provar o prato em dez minutos.",
+        "practiceQuestion": "Complete: 'Encore un peu de _____ !'",
+        "options": ["patience", "patient", "patienter"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "O que a família prepara no domingo?",
+      "options": ["uma quiche", "um bolo", "uma sopa"],
+      "correctIndex": 0,
+      "explanation": "Aujourd'hui, nous préparons une quiche."
+    },
+    {
+      "question": "Quem lava os legumes na cozinha?",
+      "options": ["Íris", "Irlan", "a avó"],
+      "correctIndex": 0,
+      "explanation": "Elle lave les légumes et casse les œufs."
+    },
+    {
+      "question": "O que Andréa diz a Íris sobre o forno?",
+      "options": ["que é muito quente", "que está frio", "que está quebrado"],
+      "correctIndex": 0,
+      "explanation": "Le four est très chaud. Ne touche pas la porte !"
+    },
+    {
+      "question": "Complete: 'Ne _____ pas la porte du four !'",
+      "options": ["touche", "touches", "toucher"],
+      "correctIndex": 0,
+      "explanation": "Imperativo: ne touche pas."
+    },
+    {
+      "question": "Complete: 'J'ai _____ !'",
+      "options": ["faim", "faims", "faim pas"],
+      "correctIndex": 0,
+      "explanation": "Avoir faim = estar com fome."
+    }
+  ]
+}

@@ -1,0 +1,252 @@
+{
+  "id": "amiens_lesson_25",
+  "cityId": "amiens",
+  "domain": "Partida & Nova Etapa",
+  "level": "Iniciante em Transição (A1/A2)",
+  "titleFr": "Au revoir Amiens, départ pour Lille",
+  "titlePt": "Adeus Amiens, partida para Lille",
+  "subtitleFr": "Le train vers le nord",
+  "subtitlePt": "O trem rumo ao norte",
+  "summaryPt": "Nesta Aula 25 (A1/A2) da Cidade #2, a família se despede de Amiens e parte de trem para Lille, a capital do Norte. O aluno revisa as despedidas, o vocabulário da viagem e o passé composé, fechando o capítulo de Amiens.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Le matin, la famille prend le train pour Lille. À la gare d'Amiens, tout le monde est prêt avec ses valises. « Au revoir, Amiens ! Merci pour les beaux moments ! » dit Íris.",
+      "pt": "De manhã, a família pega o trem para Lille. Na estação de Amiens, todos estão prontos com suas malas. « Adeus, Amiens! Obrigada pelos belos momentos! » diz Íris."
+    },
+    {
+      "id": 2,
+      "fr": "Dans le train, la famille regarde les photos de la cathédrale, du cirque et des hortillonnages. « Nous avons découvert beaucoup de choses ici, dit Andréa. Nous avons vu la maison de Jules Verne et les marionnettes. »",
+      "pt": "No trem, a família olha as fotos da catedral, do circo e dos hortillonnages. « Descobrimos muitas coisas aqui, diz Andréa. Vimos a casa de Jules Verne e as marionetes. »"
+    },
+    {
+      "id": 3,
+      "fr": "Le train traverse la campagne picarde. « Regardez les champs, dit Irlan. Demain, nous allons découvrir Lille, sa Grand'Place et ses gaufres chaudes ! » Íris applaudit : « Vive la nouvelle aventure ! »",
+      "pt": "O trem atravessa o campo picardo. « Olhem os campos, diz Irlan. Amanhã, vamos descobrir Lille, sua Grand'Place e seus waffles quentes! » Íris aplaude: « Viva a nova aventura! »"
+    },
+    {
+      "id": 4,
+      "fr": "Irlan sourit et pense à son passé : « Quand j'étais livreur à Paris, chaque quartier était une découverte. Maintenant, chaque ville est un chapitre de notre histoire. » Le train continue vers le nord.",
+      "pt": "Irlan sorri e pensa no seu passado: « Quando eu era entregador em Paris, cada bairro era uma descoberta. Agora, cada cidade é um capítulo da nossa história. » O trem continua rumo ao norte."
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "le train",
+      "definitionPt": "o trem",
+      "definitionFr": "Véhicule sur des rails.",
+      "inflections": ["le train", "un train", "des trains"],
+      "ptTargets": ["trem"],
+      "examples": [
+        { "level": "A1", "fr": "Le train est rapide.", "pt": "O trem é rápido." },
+        { "level": "A2-B1", "fr": "La famille prend le train pour Lille.", "pt": "A família pega o trem para Lille." },
+        { "level": "B2", "fr": "Le train, confortable, traverse la Picardie.", "pt": "O trem, confortável, atravessa a Picardia." },
+        { "level": "C1-C2", "fr": "C'est le train qui, fidèle, relie les villes du Nord.", "pt": "É o trem que, fiel, liga as cidades do Norte." }
+      ]
+    },
+    {
+      "term": "la photo",
+      "definitionPt": "a foto",
+      "definitionFr": "Image prise avec un appareil.",
+      "inflections": ["la photo", "une photo", "des photos"],
+      "ptTargets": ["foto"],
+      "examples": [
+        { "level": "A1", "fr": "La photo est belle.", "pt": "A foto é bonita." },
+        { "level": "A2-B1", "fr": "La famille regarde les photos.", "pt": "A família olha as fotos." },
+        { "level": "B2", "fr": "Les photos gardent les souvenirs du voyage.", "pt": "As fotos guardam as lembranças da viagem." },
+        { "level": "C1-C2", "fr": "C'est la photo qui, immortelle, fixe l'instant.", "pt": "É a foto que, imortal, fixa o instante." }
+      ]
+    },
+    {
+      "term": "la campagne",
+      "definitionPt": "o campo",
+      "definitionFr": "Région de la nature, hors des villes.",
+      "inflections": ["la campagne", "une campagne"],
+      "ptTargets": ["campo"],
+      "examples": [
+        { "level": "A1", "fr": "La campagne est verte.", "pt": "O campo é verde." },
+        { "level": "A2-B1", "fr": "Le train traverse la campagne picarde.", "pt": "O trem atravessa o campo picardo." },
+        { "level": "B2", "fr": "La campagne, calme, s'étend à l'infini.", "pt": "O campo, calmo, estende-se ao infinito." },
+        { "level": "C1-C2", "fr": "C'est la campagne qui, généreuse, nourrit les villes.", "pt": "É o campo que, generoso, alimenta as cidades." }
+      ]
+    },
+    {
+      "term": "le champ",
+      "definitionPt": "o campo (plantação)",
+      "definitionFr": "Terre cultivée.",
+      "inflections": ["le champ", "un champ", "des champs"],
+      "ptTargets": ["campo", "lavoura"],
+      "examples": [
+        { "level": "A1", "fr": "Le champ est grand.", "pt": "O campo é grande." },
+        { "level": "A2-B1", "fr": "Regardez les champs !", "pt": "Olhem os campos!" },
+        { "level": "B2", "fr": "Les champs de blé dorés bordent la voie.", "pt": "Os campos de trigo dourados margeiam a via." },
+        { "level": "C1-C2", "fr": "C'est le champ qui, fertile, rythme les saisons.", "pt": "É o campo que, fértil, ritma as estações." }
+      ]
+    },
+    {
+      "term": "au revoir",
+      "definitionPt": "adeus",
+      "definitionFr": "Formule pour dire adieu.",
+      "inflections": ["au revoir"],
+      "ptTargets": ["adeus", "até logo"],
+      "examples": [
+        { "level": "A1", "fr": "Au revoir, Amiens !", "pt": "Adeus, Amiens!" },
+        { "level": "A2-B1", "fr": "Nous disons au revoir à la ville.", "pt": "Nós nos despedimos da cidade." },
+        { "level": "B2", "fr": "Au revoir est un mot doux qui promet de revenir.", "pt": "Adeus é uma palavra suave que promete voltar." },
+        { "level": "C1-C2", "fr": "C'est au revoir que l'on se dit avant de partir.", "pt": "É adeus que se diz antes de partir." }
+      ]
+    },
+    {
+      "term": "découvrir",
+      "definitionPt": "descobrir",
+      "definitionFr": "Trouver quelque chose de nouveau.",
+      "inflections": ["je découvre", "découvrir", "nous découvrons"],
+      "ptTargets": ["descobrir"],
+      "examples": [
+        { "level": "A1", "fr": "Je découvre une ville.", "pt": "Eu descubro uma cidade." },
+        { "level": "A2-B1", "fr": "Nous avons découvert beaucoup de choses.", "pt": "Descobrimos muitas coisas." },
+        { "level": "B2", "fr": "Demain, nous allons découvrir Lille.", "pt": "Amanhã, vamos descobrir Lille." },
+        { "level": "C1-C2", "fr": "C'est en découvrant que l'on grandit.", "pt": "É descobrindo que se cresce." }
+      ]
+    },
+    {
+      "term": "le chapitre",
+      "definitionPt": "o capítulo",
+      "definitionFr": "Partie d'une histoire.",
+      "inflections": ["le chapitre", "un chapitre", "des chapitres"],
+      "ptTargets": ["capítulo"],
+      "examples": [
+        { "level": "A1", "fr": "Le chapitre est court.", "pt": "O capítulo é curto." },
+        { "level": "A2-B1", "fr": "Chaque ville est un chapitre de notre histoire.", "pt": "Cada cidade é um capítulo da nossa história." },
+        { "level": "B2", "fr": "Le chapitre d'Amiens se termine avec la gaufre de Lille.", "pt": "O capítulo de Amiens termina com o waffle de Lille." },
+        { "level": "C1-C2", "fr": "C'est le chapitre qui, écrit, continue le grand livre de la vie.", "pt": "É o capítulo que, escrito, continua o grande livro da vida." }
+      ]
+    },
+    {
+      "term": "vive",
+      "definitionPt": "viva (exclamação)",
+      "definitionFr": "Acclamation pour célébrer.",
+      "inflections": ["vive"],
+      "ptTargets": ["viva"],
+      "examples": [
+        { "level": "A1", "fr": "Vive la France !", "pt": "Viva a França!" },
+        { "level": "A2-B1", "fr": "Vive la nouvelle aventure !", "pt": "Viva a nova aventura!" },
+        { "level": "B2", "fr": "Vive les voyages et les découvertes !", "pt": "Viva as viagens e as descobertas!" },
+        { "level": "C1-C2", "fr": "C'est « vive » qui, joyeux, célèbre la vie.", "pt": "É « viva » que, alegre, celebra a vida." }
+      ]
+    },
+    {
+      "term": "la découverte",
+      "definitionPt": "a descoberta",
+      "definitionFr": "Ce que l'on trouve de nouveau.",
+      "inflections": ["la découverte", "une découverte", "des découvertes"],
+      "ptTargets": ["descoberta"],
+      "examples": [
+        { "level": "A1", "fr": "La découverte est belle.", "pt": "A descoberta é bonita." },
+        { "level": "A2-B1", "fr": "Chaque quartier était une découverte.", "pt": "Cada bairro era uma descoberta." },
+        { "level": "B2", "fr": "Chaque ville apporte de nouvelles découvertes.", "pt": "Cada cidade traz novas descobertas." },
+        { "level": "C1-C2", "fr": "C'est la découverte qui, constante, enrichit le voyageur.", "pt": "É a descoberta que, constante, enriquece o viajante." }
+      ]
+    },
+    {
+      "term": "continuer",
+      "definitionPt": "continuar",
+      "definitionFr": "Poursuivre.",
+      "inflections": ["je continue", "continuer", "nous continuons"],
+      "ptTargets": ["continuar"],
+      "examples": [
+        { "level": "A1", "fr": "Le train continue.", "pt": "O trem continua." },
+        { "level": "A2-B1", "fr": "Le train continue vers le nord.", "pt": "O trem continua rumo ao norte." },
+        { "level": "B2", "fr": "La famille continue son voyage à travers la France.", "pt": "A família continua sua viagem pela França." },
+        { "level": "C1-C2", "fr": "C'est en continuant que l'on avance dans la vie.", "pt": "É continuando que se avança na vida." }
+      ]
+    },
+    {
+      "term": "le livreur",
+      "definitionPt": "o entregador",
+      "definitionFr": "Personne qui livre des commandes.",
+      "inflections": ["le livreur", "un livreur", "des livreurs"],
+      "ptTargets": ["entregador"],
+      "examples": [
+        { "level": "A1", "fr": "Le livreur est rapide.", "pt": "O entregador é rápido." },
+        { "level": "A2-B1", "fr": "Irlan était livreur à Paris.", "pt": "Irlan era entregador em Paris." },
+        { "level": "B2", "fr": "Le livreur connaît chaque rue de sa ville.", "pt": "O entregador conhece cada rua de sua cidade." },
+        { "level": "C1-C2", "fr": "C'est le livreur qui, infatigable, relie les quartiers.", "pt": "É o entregador que, incansável, liga os bairros." }
+      ]
+    },
+    {
+      "term": "la gaufre",
+      "definitionPt": "o waffle",
+      "definitionFr": "Spécialité sucrée du Nord.",
+      "inflections": ["la gaufre", "une gaufre", "des gaufres"],
+      "ptTargets": ["waffle"],
+      "examples": [
+        { "level": "A1", "fr": "La gaufre est chaude.", "pt": "O waffle é quente." },
+        { "level": "A2-B1", "fr": "À Lille, nous allons goûter les gaufres.", "pt": "Em Lille, vamos provar os waffles." },
+        { "level": "B2", "fr": "La gaufre du Nord, moelleuse, se mange chaude.", "pt": "O waffle do Norte, macio, come-se quente." },
+        { "level": "C1-C2", "fr": "C'est la gaufre qui, gourmande, attend les voyageurs à Lille.", "pt": "É o waffle que, guloso, espera os viajantes em Lille." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Le passé composé : révision d'Amiens",
+    "explanationPt": "Revisão do passé composé com avoir: 'Nous avons découvert beaucoup de choses' (descobrimos muitas coisas), 'Nous avons vu la maison de Jules Verne' (vimos a casa de Jules Verne), 'Nous avons goûté le gâteau battu' (provamos o gâteau battu).",
+    "exampleFr": "Nous avons découvert beaucoup de choses. Nous avons vu la maison de Jules Verne.",
+    "examplePt": "Descobrimos muitas coisas. Vimos a casa de Jules Verne.",
+    "practiceQuestion": "Complete: 'Nous avons _____ beaucoup de choses.'",
+    "options": ["découvert", "découvrir", "découvrons"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "Quand j'étais... : quando eu era",
+        "explanationPt": "'Quand j'étais livreur' (quando eu era entregador) usa o imparfait para descrever o passado. Ex.: 'Quand j'étais enfant, j'aimais les trains' (quando eu era criança, eu gostava de trens).",
+        "exampleFr": "Quand j'étais livreur à Paris, chaque quartier était une découverte.",
+        "examplePt": "Quando eu era entregador em Paris, cada bairro era uma descoberta.",
+        "practiceQuestion": "Complete: 'Quand j'_____ livreur à Paris...'",
+        "options": ["étais", "était", "suis"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "Demain, nous allons... : o futuro próximo",
+        "explanationPt": "Futur proche com 'aller' + infinitivo: 'Demain, nous allons découvrir Lille' (amanhã vamos descobrir Lille), 'Nous allons goûter les gaufres' (vamos provar os waffles).",
+        "exampleFr": "Demain, nous allons découvrir Lille et ses gaufres chaudes !",
+        "examplePt": "Amanhã, vamos descobrir Lille e seus waffles quentes!",
+        "practiceQuestion": "Complete: 'Demain, nous _____ découvrir Lille.'",
+        "options": ["allons", "allez", "vont"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Para onde a família parte de Amiens?",
+      "options": ["Lille", "Lyon", "Marselha"],
+      "correctIndex": 0,
+      "explanation": "La famille prend le train pour Lille."
+    },
+    {
+      "question": "O que a família olha dentro do trem?",
+      "options": ["as fotos da viagem", "a televisão", "os mapas antigos"],
+      "correctIndex": 0,
+      "explanation": "Dans le train, la famille regarde les photos."
+    },
+    {
+      "question": "O que eles vão descobrir em Lille?",
+      "options": ["a Grand'Place e os waffles", "a torre Eiffel", "o castelo de Versalhes"],
+      "correctIndex": 0,
+      "explanation": "Demain, nous allons découvrir Lille, sa Grand'Place et ses gaufres chaudes !"
+    },
+    {
+      "question": "Complete: 'Nous avons _____ beaucoup de choses.'",
+      "options": ["découvert", "découvrir", "découvrons"],
+      "correctIndex": 0,
+      "explanation": "Passé composé: nous avons découvert."
+    },
+    {
+      "question": "Complete: 'Quand j'_____ livreur à Paris...'",
+      "options": ["étais", "était", "suis"],
+      "correctIndex": 0,
+      "explanation": "Imparfait: j'étais."
+    }
+  ]
+}

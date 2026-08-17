@@ -1,0 +1,252 @@
+{
+  "id": "marseille_lesson_6",
+  "cityId": "marseille",
+  "domain": "Gastronomia",
+  "level": "Avançado (C1)",
+  "titleFr": "La bouillabaisse, le pastis et le savon : les trésors de Marseille",
+  "titlePt": "A bouillabaisse, o pastis e o sabonete: os tesouros de Marseille",
+  "subtitleFr": "La soupe des pêcheurs, l'apéritif anisé et le savon légendaire",
+  "subtitlePt": "A sopa dos pescadores, o aperitivo de anis e o sabonete lendário",
+  "summaryPt": "Nesta Aula 6 (C1), a família prova a bouillabaisse, descobre o pastis e revisita a história do sabonete. O aluno domina a concessão e a oposição: 'pourtant', 'cependant', 'malgré', 'en revanche', 'bien que'.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Au bord du Vieux-Port, la serveuse a posé une grande marmite de bouillabaisse. « Elle est chère, pourtant, elle vaut chaque centime, a-t-elle dit. Les pêcheurs l'ont inventée avec les poissons qu'ils ne vendaient pas. Malgré sa réputation, elle reste un plat simple. »",
+      "pt": "À beira do Porto Velho, a garçonete pousou uma grande panela de bouillabaisse. « Ela é cara, no entanto, vale cada centavo, disse ela. Os pescadores a inventaram com os peixes que não vendiam. Apesar de sua reputação, ela continua um prato simples. »"
+    },
+    {
+      "id": 2,
+      "fr": "Iris a trempé une tranche de pain dans la soupe : « C'est délicieux ! Cependant, il y a des arêtes partout. » Andréa a ri : « C'est normal, chérie. En revanche, tu vas adorer la rouille, cette sauce à l'ail. Bien que le goût soit fort, tu vas l'aimer. »",
+      "pt": "Íris molhou uma fatia de pão na sopa: « Está deliciosa! No entanto, tem espinhas por toda parte. » Andréa riu: « É normal, querida. Em compensação, você vai adorar a rouille, esse molho de alho. Embora o gosto seja forte, você vai gostar. »"
+    },
+    {
+      "id": 3,
+      "fr": "Au café, Irlan a commandé un pastis. « Pourtant, ce n'est pas pour moi, a-t-il souri en le poussant vers Andréa. Je préfère l'eau fraîche. Mais je comprends que les Marseillais aiment ce goût d'anis, surtout au coucher du soleil. »",
+      "pt": "No café, Irlan pediu um pastis. « No entanto, não é para mim, sorriu empurrando para Andréa. Prefiro água fresca. Mas entendo que os marselheses gostem desse gosto de anis, principalmente ao pôr do sol. »"
+    },
+    {
+      "id": 4,
+      "fr": "Le soir, dans la boutique du savonnier, Andréa a choisi un savon parfumé. « Malgré tous les produits modernes, a dit le vendeur, le savon de Marseille reste le plus demandé. En revanche, il faut chercher le vrai : 72 % d'huile d'olive, ni plus, ni moins. »",
+      "pt": "À noite, na loja do saboeiro, Andréa escolheu um sabonete perfumado. « Apesar de todos os produtos modernos, disse o vendedor, o sabonete de Marseille continua o mais procurado. Em compensação, é preciso procurar o verdadeiro: 72% de azeite, nem mais, nem menos. »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "la marmite",
+      "definitionPt": "a panela grande",
+      "definitionFr": "Grand récipient pour cuisiner.",
+      "inflections": ["la marmite", "les marmites"],
+      "ptTargets": ["panela", "marmita"],
+      "examples": [
+        { "level": "A1", "fr": "La marmite est grande.", "pt": "A panela é grande." },
+        { "level": "A2-B1", "fr": "La bouillabaisse est servie dans une marmite.", "pt": "A bouillabaisse é servida numa panela." },
+        { "level": "B1-B2", "fr": "La marmite, qui mijote des heures, répand son parfum dans toute la salle.", "pt": "A panela, que cozinha por horas, espalha seu perfume pela sala." },
+        { "level": "C1-C2", "fr": "C'est dans la marmite que se joue toute la magie de la bouillabaisse.", "pt": "É na panela que se joga toda a magia da bouillabaisse." }
+      ]
+    },
+    {
+      "term": "l'arête",
+      "definitionPt": "a espinha (de peixe)",
+      "definitionFr": "Os du poisson.",
+      "inflections": ["l'arête", "les arêtes"],
+      "ptTargets": ["espinha"],
+      "examples": [
+        { "level": "A1", "fr": "L'arête est petite.", "pt": "A espinha é pequena." },
+        { "level": "A2-B1", "fr": "Le poisson a des arêtes.", "pt": "O peixe tem espinhas." },
+        { "level": "B1-B2", "fr": "Les arêtes, nombreuses dans la soupe, demandent de la patience.", "pt": "As espinhas, numerosas na sopa, exigem paciência." },
+        { "level": "C1-C2", "fr": "C'est en ôtant les arêtes que l'on déguste la bouillabaisse comme un vrai Marseillais.", "pt": "É tirando as espinhas que se degusta a bouillabaisse como um verdadeiro marselhês." }
+      ]
+    },
+    {
+      "term": "la rouille",
+      "definitionPt": "a rouille (molho de alho e açafrão)",
+      "definitionFr": "Sauce à l'ail et au safran servie avec la bouillabaisse.",
+      "inflections": ["la rouille", "les rouilles"],
+      "ptTargets": ["rouille", "molho de alho"],
+      "examples": [
+        { "level": "A1", "fr": "La rouille est orange.", "pt": "A rouille é laranja." },
+        { "level": "A2-B1", "fr": "La rouille accompagne la bouillabaisse.", "pt": "A rouille acompanha a bouillabaisse." },
+        { "level": "B1-B2", "fr": "La rouille, faite d'ail et de safran, donne du caractère à la soupe.", "pt": "A rouille, feita de alho e açafrão, dá caráter à sopa." },
+        { "level": "C1-C2", "fr": "C'est la rouille qui distingue une vraie bouillabaisse d'une simple soupe de poisson.", "pt": "É a rouille que distingue uma verdadeira bouillabaisse de uma simples sopa de peixe." }
+      ]
+    },
+    {
+      "term": "l'ail",
+      "definitionPt": "o alho",
+      "definitionFr": "Plante à bulbe au goût fort.",
+      "inflections": ["l'ail"],
+      "ptTargets": ["alho"],
+      "examples": [
+        { "level": "A1", "fr": "L'ail est fort.", "pt": "O alho é forte." },
+        { "level": "A2-B1", "fr": "La rouille contient de l'ail.", "pt": "A rouille contém alho." },
+        { "level": "B1-B2", "fr": "L'ail, utilisé avec mesure, parfume la cuisine provençale.", "pt": "O alho, usado com medida, perfuma a cozinha provençal." },
+        { "level": "C1-C2", "fr": "C'est l'ail qui donne à la rouille sa saveur si reconnaissable.", "pt": "É o alho que dá à rouille seu sabor tão reconhecível." }
+      ]
+    },
+    {
+      "term": "le pastis",
+      "definitionPt": "o pastis (licor de anis)",
+      "definitionFr": "Boisson anisée typique de Marseille.",
+      "inflections": ["le pastis", "les pastis"],
+      "ptTargets": ["pastis", "licor de anis"],
+      "examples": [
+        { "level": "A1", "fr": "Le pastis est fort.", "pt": "O pastis é forte." },
+        { "level": "A2-B1", "fr": "Le pastis se boit avec de l'eau.", "pt": "O pastis se bebe com água." },
+        { "level": "B1-B2", "fr": "Le pastis, qui devient blanc avec l'eau, est l'apéritif des Marseillais.", "pt": "O pastis, que fica branco com a água, é o aperitivo dos marselheses." },
+        { "level": "C1-C2", "fr": "C'est autour du pastis que se nouent les conversations du soir à Marseille.", "pt": "É em torno do pastis que se criam as conversas da noite em Marseille." }
+      ]
+    },
+    {
+      "term": "l'anis",
+      "definitionPt": "o anis",
+      "definitionFr": "Plante au goût proche de la réglisse.",
+      "inflections": ["l'anis"],
+      "ptTargets": ["anis"],
+      "examples": [
+        { "level": "A1", "fr": "L'anis sent bon.", "pt": "O anis cheira bem." },
+        { "level": "A2-B1", "fr": "Le pastis a un goût d'anis.", "pt": "O pastis tem gosto de anis." },
+        { "level": "B1-B2", "fr": "L'anis, qui parfume la boisson, est une tradition du Midi.", "pt": "O anis, que perfuma a bebida, é uma tradição do Sul." },
+        { "level": "C1-C2", "fr": "C'est le goût d'anis qui rappelle aux Marseillais leurs soirs d'été.", "pt": "É o gosto de anis que lembra aos marselheses suas noites de verão." }
+      ]
+    },
+    {
+      "term": "le coucher du soleil",
+      "definitionPt": "o pôr do sol",
+      "definitionFr": "Moment où le soleil disparaît.",
+      "inflections": ["le coucher du soleil", "les couchers de soleil"],
+      "ptTargets": ["pôr do sol"],
+      "examples": [
+        { "level": "A1", "fr": "Le coucher du soleil est beau.", "pt": "O pôr do sol é bonito." },
+        { "level": "A2-B1", "fr": "Le coucher du soleil sur la mer est magique.", "pt": "O pôr do sol sobre o mar é mágico." },
+        { "level": "B1-B2", "fr": "Le coucher du soleil, qui colore le ciel en orange, est le moment préféré d'Iris.", "pt": "O pôr do sol, que colore o céu de laranja, é o momento preferido de Íris." },
+        { "level": "C1-C2", "fr": "C'est au coucher du soleil que Marseille révèle toute sa beauté.", "pt": "É ao pôr do sol que Marseille revela toda sua beleza." }
+      ]
+    },
+    {
+      "term": "le centime",
+      "definitionPt": "o centavo",
+      "definitionFr": "Pièce de monnaie de faible valeur.",
+      "inflections": ["le centime", "les centimes"],
+      "ptTargets": ["centavo", "cêntimo"],
+      "examples": [
+        { "level": "A1", "fr": "Le centime est petit.", "pt": "O centavo é pequeno." },
+        { "level": "A2-B1", "fr": "La bouillabaisse vaut chaque centime.", "pt": "A bouillabaisse vale cada centavo." },
+        { "level": "B1-B2", "fr": "Chaque centime dépensé au marché soutient les pêcheurs locaux.", "pt": "Cada centavo gasto no mercado apoia os pescadores locais." },
+        { "level": "C1-C2", "fr": "C'est en comptant les centimes que l'on apprend la valeur des choses simples.", "pt": "É contando os centavos que se aprende o valor das coisas simples." }
+      ]
+    },
+    {
+      "term": "le vendeur",
+      "definitionPt": "o vendedor",
+      "definitionFr": "Personne qui vend.",
+      "inflections": ["le vendeur", "les vendeurs"],
+      "ptTargets": ["vendedor"],
+      "examples": [
+        { "level": "A1", "fr": "Le vendeur est gentil.", "pt": "O vendedor é gentil." },
+        { "level": "A2-B1", "fr": "Le vendeur a montré les savons.", "pt": "O vendedor mostrou os sabonetes." },
+        { "level": "B1-B2", "fr": "Le vendeur, qui connaît son métier, conseille avec sincérité.", "pt": "O vendedor, que conhece seu ofício, aconselha com sinceridade." },
+        { "level": "C1-C2", "fr": "C'est le vendeur qui révèle les secrets du vrai savon de Marseille.", "pt": "É o vendedor que revela os segredos do verdadeiro sabonete de Marseille." }
+      ]
+    },
+    {
+      "term": "le producteur",
+      "definitionPt": "o produtor",
+      "definitionFr": "Personne qui produit des biens.",
+      "inflections": ["le producteur", "les producteurs"],
+      "ptTargets": ["produtor"],
+      "examples": [
+        { "level": "A1", "fr": "Le producteur vend ses produits.", "pt": "O produtor vende seus produtos." },
+        { "level": "A2-B1", "fr": "Les producteurs vendent au marché.", "pt": "Os produtores vendem no mercado." },
+        { "level": "B1-B2", "fr": "Les producteurs, qui respectent la tradition, fabriquent un savon authentique.", "pt": "Os produtores, que respeitam a tradição, fabricam um sabonete autêntico." },
+        { "level": "C1-C2", "fr": "C'est par les producteurs que se préserve le savoir-faire de Marseille.", "pt": "É pelos produtores que se preserva o saber-fazer de Marseille." }
+      ]
+    },
+    {
+      "term": "tremper",
+      "definitionPt": "molhar, mergulhar",
+      "definitionFr": "Plonger dans un liquide.",
+      "inflections": ["je trempe", "nous trempons"],
+      "ptTargets": ["molhar", "mergulhar"],
+      "examples": [
+        { "level": "A1", "fr": "Je trempe le pain.", "pt": "Eu molho o pão." },
+        { "level": "A2-B1", "fr": "Iris a trempé le pain dans la soupe.", "pt": "Íris molhou o pão na sopa." },
+        { "level": "B1-B2", "fr": "Tremper le pain dans la bouillabaisse, c'est la tradition marseillaise.", "pt": "Molhar o pão na bouillabaisse é a tradição marselhesa." },
+        { "level": "C1-C2", "fr": "C'est en trempant le pain que l'on goûte l'âme du plat.", "pt": "É molhando o pão que se prova a alma do prato." }
+      ]
+    },
+    {
+      "term": "la soupe",
+      "definitionPt": "a sopa",
+      "definitionFr": "Plat liquide, souvent à base de légumes ou de poisson.",
+      "inflections": ["la soupe", "les soupes"],
+      "ptTargets": ["sopa"],
+      "examples": [
+        { "level": "A1", "fr": "La soupe est chaude.", "pt": "A sopa é quente." },
+        { "level": "A2-B1", "fr": "La bouillabaisse est une soupe de poissons.", "pt": "A bouillabaisse é uma sopa de peixes." },
+        { "level": "B1-B2", "fr": "La soupe, mijotée lentement, concentre toutes les saveurs de la mer.", "pt": "A sopa, cozinhada lentamente, concentra todos os sabores do mar." },
+        { "level": "C1-C2", "fr": "C'est la soupe qui réchauffe et rassemble les gens autour de la table.", "pt": "É a sopa que aquece e reúne as pessoas em torno da mesa." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "La concession et l'opposition : pourtant, cependant, malgré, en revanche",
+    "explanationPt": "Para expressar concessão e oposição: 'pourtant' e 'cependant' (no entanto) ligam ideias contrárias; 'malgré + substantif' (apesar de); 'en revanche' (em compensação) marca um contraste positivo; 'bien que + subjonctif' (embora).",
+    "exampleFr": "Elle est chère, pourtant, elle vaut chaque centime.",
+    "examplePt": "Ela é cara, no entanto, vale cada centavo.",
+    "practiceQuestion": "Complete: « Elle est chère, ___ elle vaut chaque centime. »",
+    "options": ["pourtant", "parce que", "puisque"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "Malgré + substantif",
+        "explanationPt": "'Malgré' é seguido de substantivo: 'malgré sa réputation, elle reste un plat simple' (apesar de sua reputação), 'malgré tous les produits modernes'.",
+        "exampleFr": "Malgré sa réputation, la bouillabaisse reste un plat simple.",
+        "examplePt": "Apesar de sua reputação, a bouillabaisse continua um prato simples.",
+        "practiceQuestion": "Complete: « ___ sa réputation, elle reste simple. »",
+        "options": ["Malgré", "Pendant", "Grâce à"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "En revanche : le contraste positif",
+        "explanationPt": "'En revanche' introduz um contraste, muitas vezes positivo: 'Cependant, il y a des arêtes. En revanche, tu vas adorer la rouille'.",
+        "exampleFr": "En revanche, tu vas adorer la rouille.",
+        "examplePt": "Em compensação, você vai adorar a rouille.",
+        "practiceQuestion": "Complete: « Il y a des arêtes. ___ , la sauce est délicieuse. »",
+        "options": ["En revanche", "Parce que", "Avant que"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Quem inventou a bouillabaisse?",
+      "options": ["os pescadores", "os reis", "os monges"],
+      "correctIndex": 0,
+      "explanation": "A bouillabaisse foi inventada pelos pescadores com os peixes que não vendiam."
+    },
+    {
+      "question": "O que é a rouille?",
+      "options": ["um molho de alho e açafrão", "um peixe", "uma sobremesa"],
+      "correctIndex": 0,
+      "explanation": "A rouille é a sauce à l'ail et au safran que acompanha a bouillabaisse."
+    },
+    {
+      "question": "Qual é o aperitivo dos marselheses?",
+      "options": ["o pastis", "o vinho tinto", "a cerveja"],
+      "correctIndex": 0,
+      "explanation": "O pastis, bebida anisada, é o aperitivo típico de Marseille."
+    },
+    {
+      "question": "Complete: « Elle est chère, ___ elle vaut chaque centime. »",
+      "options": ["pourtant", "parce que", "puisque"],
+      "correctIndex": 0,
+      "explanation": "Pourtant marca a oposição: cara, no entanto vale."
+    },
+    {
+      "question": "Qual é a condição para o savon ser autêntico?",
+      "options": ["72% de azeite de oliva", "ser azul", "ser feito à noite"],
+      "correctIndex": 0,
+      "explanation": "O verdadeiro savon de Marseille deve conter 72% de huile d'olive."
+    }
+  ]
+}

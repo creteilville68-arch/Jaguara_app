@@ -1,0 +1,252 @@
+{
+  "id": "amiens_lesson_22",
+  "cityId": "amiens",
+  "domain": "Cotidiano & Escola",
+  "level": "Iniciante em Transição (A1/A2)",
+  "titleFr": "L'école d'Íris à Amiens",
+  "titlePt": "A escola de Íris em Amiens",
+  "subtitleFr": "Une semaine d'école dans une nouvelle ville",
+  "subtitlePt": "Uma semana de escola numa nova cidade",
+  "summaryPt": "Nesta Aula 22 (A1/A2) da Cidade #2, Íris vai à escola em Amiens e faz novas amigas. O aluno aprende o vocabulário da escola (école, classe, élève, maîtresse, récréation, apprendre, dessiner) e os dias da semana.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Lundi matin, Íris va à sa nouvelle école à Amiens. « J'ai un peu peur, dit-elle. Je ne connais pas les élèves. » Andréa la rassure : « Tu vas voir, tu vas te faire des amies très vite. »",
+      "pt": "Na segunda de manhã, Íris vai à sua nova escola em Amiens. « Estou um pouco com medo, diz ela. Não conheço os alunos. » Andréa a tranquiliza: « Você vai ver, vai fazer amigas muito rápido. »"
+    },
+    {
+      "id": 2,
+      "fr": "Dans la classe, la maîtresse présente Íris. « Voici Íris, elle vient de Paris. Accueillons-la bien ! » Les élèves applaudissent. Une fille sourit : « Moi, je m'appelle Camille. Viens t'asseoir à côté de moi ! »",
+      "pt": "Na sala, a professora apresenta Íris. « Aqui está Íris, ela vem de Paris. Vamos recebê-la bem! » Os alunos aplaudem. Uma menina sorri: « Eu me chamo Camille. Vem sentar ao meu lado! »"
+    },
+    {
+      "id": 3,
+      "fr": "Pendant la récréation, Íris et Camille jouent à la corde à sauter. « Tu sautes très bien ! dit Camille. Nous allons bien nous amuser ensemble. » Íris est heureuse : elle a déjà une nouvelle amie.",
+      "pt": "Durante o recreio, Íris e Camille brincam de pular corda. « Você pula muito bem! diz Camille. Vamos nos divertir muito juntas. » Íris está feliz: ela já tem uma nova amiga."
+    },
+    {
+      "id": 4,
+      "fr": "Le soir, Íris raconte sa journée à Irlan : « Nous avons dessiné et nous avons appris les jours de la semaine. Demain, c'est mardi : je vais revoir Camille ! »",
+      "pt": "À noite, Íris conta seu dia a Irlan: « Nós desenhamos e aprendemos os dias da semana. Amanhã é terça: vou rever a Camille! »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "l'école",
+      "definitionPt": "a escola",
+      "definitionFr": "Lieu où l'on apprend.",
+      "inflections": ["l'école", "une école", "des écoles"],
+      "ptTargets": ["escola"],
+      "examples": [
+        { "level": "A1", "fr": "L'école est grande.", "pt": "A escola é grande." },
+        { "level": "A2-B1", "fr": "Íris va à sa nouvelle école.", "pt": "Íris vai à sua nova escola." },
+        { "level": "B2", "fr": "L'école, accueillante, ouvre ses portes chaque matin.", "pt": "A escola, acolhedora, abre suas portas toda manhã." },
+        { "level": "C1-C2", "fr": "C'est l'école qui, bienveillante, prépare l'avenir des enfants.", "pt": "É a escola que, acolhedora, prepara o futuro das crianças." }
+      ]
+    },
+    {
+      "term": "la classe",
+      "definitionPt": "a sala de aula / turma",
+      "definitionFr": "Salle où les élèves apprennent.",
+      "inflections": ["la classe", "une classe", "des classes"],
+      "ptTargets": ["sala de aula", "turma"],
+      "examples": [
+        { "level": "A1", "fr": "La classe est propre.", "pt": "A sala é limpa." },
+        { "level": "A2-B1", "fr": "Dans la classe, la maîtresse présente Íris.", "pt": "Na sala, a professora apresenta Íris." },
+        { "level": "B2", "fr": "La classe, lumineuse, accueille vingt élèves.", "pt": "A sala, luminosa, recebe vinte alunos." },
+        { "level": "C1-C2", "fr": "C'est la classe qui, attentive, écoute les histoires du monde.", "pt": "É a turma que, atenta, ouve as histórias do mundo." }
+      ]
+    },
+    {
+      "term": "l'élève",
+      "definitionPt": "o aluno",
+      "definitionFr": "Personne qui apprend à l'école.",
+      "inflections": ["l'élève", "un élève", "des élèves"],
+      "ptTargets": ["aluno"],
+      "examples": [
+        { "level": "A1", "fr": "L'élève est sage.", "pt": "O aluno é comportado." },
+        { "level": "A2-B1", "fr": "Les élèves applaudissent.", "pt": "Os alunos aplaudem." },
+        { "level": "B2", "fr": "Les élèves, curieux, posent beaucoup de questions.", "pt": "Os alunos, curiosos, fazem muitas perguntas." },
+        { "level": "C1-C2", "fr": "C'est l'élève qui, appliqué, devient un adulte éclairé.", "pt": "É o aluno que, aplicado, torna-se um adulto esclarecido." }
+      ]
+    },
+    {
+      "term": "la maîtresse",
+      "definitionPt": "a professora",
+      "definitionFr": "Enseignante des petites classes.",
+      "inflections": ["la maîtresse", "une maîtresse", "des maîtresses"],
+      "ptTargets": ["professora"],
+      "examples": [
+        { "level": "A1", "fr": "La maîtresse est gentille.", "pt": "A professora é gentil." },
+        { "level": "A2-B1", "fr": "La maîtresse présente Íris.", "pt": "A professora apresenta Íris." },
+        { "level": "B2", "fr": "La maîtresse, patiente, explique les leçons.", "pt": "A professora, paciente, explica as lições." },
+        { "level": "C1-C2", "fr": "C'est la maîtresse qui, dévouée, guide les premiers pas des élèves.", "pt": "É a professora que, dedicada, guia os primeiros passos dos alunos." }
+      ]
+    },
+    {
+      "term": "la récréation",
+      "definitionPt": "o recreio",
+      "definitionFr": "Pause où les enfants jouent.",
+      "inflections": ["la récréation", "une récréation", "des récréations"],
+      "ptTargets": ["recreio"],
+      "examples": [
+        { "level": "A1", "fr": "La récréation est courte.", "pt": "O recreio é curto." },
+        { "level": "A2-B1", "fr": "Pendant la récréation, les enfants jouent.", "pt": "Durante o recreio, as crianças brincam." },
+        { "level": "B2", "fr": "La récréation, joyeuse, remplit la cour de rires.", "pt": "O recreio, alegre, enche o pátio de risadas." },
+        { "level": "C1-C2", "fr": "C'est la récréation qui, brève, fait le bonheur des écoliers.", "pt": "É o recreio que, breve, faz a felicidade dos alunos." }
+      ]
+    },
+    {
+      "term": "apprendre",
+      "definitionPt": "aprender",
+      "definitionFr": "Acquérir des connaissances.",
+      "inflections": ["j'apprends", "apprendre", "nous apprenons"],
+      "ptTargets": ["aprender"],
+      "examples": [
+        { "level": "A1", "fr": "J'apprends le français.", "pt": "Eu aprendo francês." },
+        { "level": "A2-B1", "fr": "Nous avons appris les jours de la semaine.", "pt": "Aprendemos os dias da semana." },
+        { "level": "B2", "fr": "Apprendre une langue, c'est ouvrir une porte.", "pt": "Aprender uma língua é abrir uma porta." },
+        { "level": "C1-C2", "fr": "C'est en apprenant que l'on grandit.", "pt": "É aprendendo que se cresce." }
+      ]
+    },
+    {
+      "term": "dessiner",
+      "definitionPt": "desenhar",
+      "definitionFr": "Faire un dessin.",
+      "inflections": ["je dessine", "dessiner", "nous dessinons"],
+      "ptTargets": ["desenhar"],
+      "examples": [
+        { "level": "A1", "fr": "J'aime dessiner.", "pt": "Eu gosto de desenhar." },
+        { "level": "A2-B1", "fr": "Nous avons dessiné à l'école.", "pt": "Nós desenhamos na escola." },
+        { "level": "B2", "fr": "Dessiner développe l'imagination.", "pt": "Desenhar desenvolve a imaginação." },
+        { "level": "C1-C2", "fr": "C'est en dessinant que l'on exprime ses rêves.", "pt": "É desenhando que se exprimem os sonhos." }
+      ]
+    },
+    {
+      "term": "se faire des amis",
+      "definitionPt": "fazer amigos",
+      "definitionFr": "Rencontrer des amis.",
+      "inflections": ["je me fais des amis", "se faire des amis"],
+      "ptTargets": ["fazer amigos"],
+      "examples": [
+        { "level": "A1", "fr": "Je fais des amis à l'école.", "pt": "Eu faço amigos na escola." },
+        { "level": "A2-B1", "fr": "Tu vas te faire des amies très vite.", "pt": "Você vai fazer amigas muito rápido." },
+        { "level": "B2", "fr": "Se faire des amis dans une nouvelle ville, c'est important.", "pt": "Fazer amigos numa nova cidade é importante." },
+        { "level": "C1-C2", "fr": "C'est en se faisant des amis que l'on s'installe dans la vie.", "pt": "É fazendo amigos que nos instalamos na vida." }
+      ]
+    },
+    {
+      "term": "avoir peur",
+      "definitionPt": "ter medo",
+      "definitionFr": "Ressentir de la peur.",
+      "inflections": ["j'ai peur", "avoir peur", "nous avons peur"],
+      "ptTargets": ["ter medo", "medo"],
+      "examples": [
+        { "level": "A1", "fr": "J'ai un peu peur.", "pt": "Estou um pouco com medo." },
+        { "level": "A2-B1", "fr": "Íris a un peu peur le premier jour.", "pt": "Íris tem um pouco de medo no primeiro dia." },
+        { "level": "B2", "fr": "Avoir peur de l'inconnu est naturel.", "pt": "Ter medo do desconhecido é natural." },
+        { "level": "C1-C2", "fr": "C'est en affrontant sa peur que l'on grandit.", "pt": "É enfrentando o medo que se cresce." }
+      ]
+    },
+    {
+      "term": "à côté de",
+      "definitionPt": "ao lado de",
+      "definitionFr": "Près de, juste à la droite ou la gauche.",
+      "inflections": ["à côté de"],
+      "ptTargets": ["ao lado de"],
+      "examples": [
+        { "level": "A1", "fr": "Camille est à côté de moi.", "pt": "Camille está ao meu lado." },
+        { "level": "A2-B1", "fr": "Viens t'asseoir à côté de moi !", "pt": "Vem sentar ao meu lado!" },
+        { "level": "B2", "fr": "La maîtresse est assise à côté du tableau.", "pt": "A professora está sentada ao lado do quadro." },
+        { "level": "C1-C2", "fr": "C'est à côté de ceux que l'on aime que l'on se sent bien.", "pt": "É ao lado de quem amamos que nos sentimos bem." }
+      ]
+    },
+    {
+      "term": "la semaine",
+      "definitionPt": "a semana",
+      "definitionFr": "Période de sept jours.",
+      "inflections": ["la semaine", "une semaine", "des semaines"],
+      "ptTargets": ["semana"],
+      "examples": [
+        { "level": "A1", "fr": "La semaine a sept jours.", "pt": "A semana tem sete dias." },
+        { "level": "A2-B1", "fr": "Nous avons appris les jours de la semaine.", "pt": "Aprendemos os dias da semana." },
+        { "level": "B2", "fr": "La semaine de travail commence lundi.", "pt": "A semana de trabalho começa na segunda." },
+        { "level": "C1-C2", "fr": "C'est la semaine qui, rythmée, organise nos vies.", "pt": "É a semana que, ritmada, organiza nossas vidas." }
+      ]
+    },
+    {
+      "term": "s'amuser",
+      "definitionPt": "divertir-se",
+      "definitionFr": "Passer un bon moment.",
+      "inflections": ["je m'amuse", "s'amuser", "nous nous amusons"],
+      "ptTargets": ["divertir-se", "se divertir"],
+      "examples": [
+        { "level": "A1", "fr": "Je m'amuse à l'école.", "pt": "Eu me divirto na escola." },
+        { "level": "A2-B1", "fr": "Nous allons bien nous amuser ensemble.", "pt": "Vamos nos divertir muito juntas." },
+        { "level": "B2", "fr": "Les enfants s'amusent pendant la récréation.", "pt": "As crianças se divertem durante o recreio." },
+        { "level": "C1-C2", "fr": "C'est en s'amusant que l'on apprend le mieux.", "pt": "É divertindo-se que se aprende melhor." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Les jours de la semaine",
+    "explanationPt": "Os dias da semana: lundi (segunda), mardi (terça), mercredi (quarta), jeudi (quinta), vendredi (sexta), samedi (sábado), dimanche (domingo). Usa-se 'le' + dia: 'le lundi' (às segundas), ou sem artigo: 'Demain, c'est mardi'.",
+    "exampleFr": "Lundi, Íris va à l'école. Demain, c'est mardi : je vais revoir Camille !",
+    "examplePt": "Na segunda, Íris vai à escola. Amanhã é terça: vou rever a Camille!",
+    "practiceQuestion": "Complete: 'Demain, c'est _____ : je vais revoir Camille !'",
+    "options": ["mardi", "lundi", "dimanche"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "Le verbe venir : vir",
+        "explanationPt": "'Viens' é o imperativo de 'venir' (vir): 'Viens t'asseoir à côté de moi !' (vem sentar ao meu lado!). Conjugação: je viens, tu viens, il vient, nous venons.",
+        "exampleFr": "Viens t'asseoir à côté de moi !",
+        "examplePt": "Vem sentar ao meu lado!",
+        "practiceQuestion": "Complete: '_____ t'asseoir à côté de moi !'",
+        "options": ["Viens", "Vient", "Venir"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "Le passé composé : nous avons dessiné",
+        "explanationPt": "Passé composé com 'avoir': 'Nous avons dessiné' (desenhamos), 'Nous avons appris' (aprendemos). Particípio de apprendre: appris.",
+        "exampleFr": "Nous avons dessiné et nous avons appris les jours de la semaine.",
+        "examplePt": "Desenhamos e aprendemos os dias da semana.",
+        "practiceQuestion": "Complete: 'Nous avons _____ les jours de la semaine.'",
+        "options": ["appris", "apprendre", "apprenons"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "O que Íris sente no primeiro dia de escola?",
+      "options": ["um pouco de medo", "muita raiva", "muito sono"],
+      "correctIndex": 0,
+      "explanation": "J'ai un peu peur, je ne connais pas les élèves."
+    },
+    {
+      "question": "Como se chama a menina que se torna amiga de Íris?",
+      "options": ["Camille", "Camille est la maîtresse", "Léa"],
+      "correctIndex": 0,
+      "explanation": "Moi, je m'appelle Camille."
+    },
+    {
+      "question": "O que Íris e Camille fazem na récréation?",
+      "options": ["pulam corda", "lêem livros", "dormem"],
+      "correctIndex": 0,
+      "explanation": "Pendant la récréation, Íris et Camille jouent à la corde à sauter."
+    },
+    {
+      "question": "Complete: 'Demain, c'est _____ : je vais revoir Camille !'",
+      "options": ["mardi", "lundi", "dimanche"],
+      "correctIndex": 0,
+      "explanation": "Depois de lundi vem mardi."
+    },
+    {
+      "question": "Complete: 'Nous avons _____ les jours de la semaine.'",
+      "options": ["appris", "apprendre", "apprenons"],
+      "correctIndex": 0,
+      "explanation": "Passé composé: nous avons appris."
+    }
+  ]
+}

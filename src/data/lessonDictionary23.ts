@@ -1,0 +1,147 @@
+import { DictionaryEntry } from '../utils/textParser';
+
+export const LESSON_DICTIONARY_23: Record<string, DictionaryEntry> = {
+  boulevard: {
+    term: "boulevard",
+    wordFr: "boulevard",
+    definitionPt: "Avenida larga, bulevar (substantivo masculino)",
+    difficultyLevel: "undefined",
+    examples: [
+      { level: "A1", fr: "Le boulevard est très large et beau.", pt: "A avenida é muito larga e bonita." },
+      { level: "A2-B1", fr: "Nous marchons sur le boulevard Saint-Germain pour voir les cafés.", pt: "Nós caminhamos pelo Boulevard Saint-Germain para ver os cafés." },
+      { level: "B2", fr: "Les grands boulevards de la capitale abritent de nombreux théâtres et commerces.", pt: "As grandes avenidas da capital abrigam muitos teatros e comércios." },
+      { level: "C1-C2", fr: "La physionomie haussmannienne des boulevards témoigne des transformations architecturales du XIXe siècle.", pt: "A fisionomia haussmanniana das avenidas testemunha as transformações arquitetônicas do século XIX." },
+    ],
+  },
+  café: {
+    term: "café",
+    wordFr: "café",
+    definitionPt: "Café, cafeteria (substantivo masculino)",
+    difficultyLevel: "undefined",
+    examples: [
+      { level: "A1", fr: "Je bois un café chaud le matin.", pt: "Eu bebo um café quente de manhã." },
+      { level: "A2-B1", fr: "Nous allons dans un petit café pour discuter tranquillement.", pt: "Nós vamos a um pequeno café para conversar tranquilamente." },
+      { level: "B2", fr: "La culture des cafés parisiens favorise les échanges intellectuels et artistiques.", pt: "A cultura dos cafés parisienses favorece as trocas intelectuais e artísticas." },
+      { level: "C1-C2", fr: "Ces établissements emblématiques ont forgé la légende littéraire de la rive gauche.", pt: "Esses estabelecimentos emblemáticos forjaram a lenda literária da margem esquerda." },
+    ],
+  },
+  écrivain: {
+    term: "écrivain",
+    wordFr: "écrivain",
+    definitionPt: "Escritor, autora (substantivo masculino ou feminino)",
+    difficultyLevel: "undefined",
+    examples: [
+      { level: "A1", fr: "L'écrivain écrit un bon livre.", pt: "O escritor escreve um bom livro." },
+      { level: "A2-B1", fr: "De nombreux écrivains français ont vécu dans ce quartier.", pt: "Muitos escritores franceses viveram neste bairro." },
+      { level: "B2", fr: "Cet écrivain contemporain aborde des thèmes universels avec une plume sensible.", pt: "Este escritor contemporâneo aborda temas universais com uma escrita sensível." },
+      { level: "C1-C2", fr: "La posture engagée de l'écrivain au XXe siècle a profondément influencé le débat public.", pt: "A postura engajada do escritor no século XX influenciou profundamente o debate público." },
+    ],
+  },
+  lire: {
+    term: "lire",
+    wordFr: "lire",
+    definitionPt: "Ler (verbo)",
+    difficultyLevel: "undefined",
+    examples: [
+      { level: "A1", fr: "Je lis un petit livre en français.", pt: "Eu leio um pequeno livro em francês." },
+      { level: "A2-B1", fr: "Est-ce que tu aimes lire des romans pendant le week-end ?", pt: "Você gosta de ler romances durante o fim de semana?" },
+      { level: "B2", fr: "Lire régulièrement la presse francophone permet d'enrichir rapidement son vocabulaire.", pt: "Ler regularmente a imprensa francófona permite enriquecer rapidamente o seu vocabulário." },
+      { level: "C1-C2", fr: "La capacité à lire entre les lignes révèle la subtilité des intentions de l'auteur.", pt: "A capacidade de ler entrelinhas revela a sutileza das intenções do autor." },
+    ],
+  },
+  livre: {
+    term: "livre",
+    wordFr: "livre",
+    definitionPt: "Livro (substantivo masculino)",
+    difficultyLevel: "undefined",
+    examples: [
+      { level: "A1", fr: "Le livre est sur la table du salon.", pt: "O livro está sobre a mesa da sala." },
+      { level: "A2-B1", fr: "J'ai acheté un nouveau livre dans la librairie historique.", pt: "Eu comprei um novo livro na livraria histórica." },
+      { level: "B2", fr: "Ce livre offre une réflexion passionnante sur l'histoire culturelle de Paris.", pt: "Este livro oferece uma reflexão apaixonante sobre a história cultural de Paris." },
+      { level: "C1-C2", fr: "L'édition originale de ce livre constitue une véritable pièce de collection littéraire.", pt: "A edição original deste livro constitui uma verdadeira peça de coleção literária." },
+    ],
+  },
+  écrire: {
+    term: "écrire",
+    wordFr: "écrire",
+    definitionPt: "Escrever (verbo)",
+    difficultyLevel: "undefined",
+    examples: [
+      { level: "A1", fr: "J'écris mon nom sur le cahier.", pt: "Eu escrevo meu nome no caderno." },
+      { level: "A2-B1", fr: "Elle écrit une carte postale à sa famille depuis Paris.", pt: "Ela escreve um cartão-postal para sua família de Paris." },
+      { level: "B2", fr: "Il est important d'écrire des phrases complètes pour bien structurer sa pensée.", pt: "É importante escrever frases completas para estruturar bem o seu pensamento." },
+      { level: "C1-C2", fr: "Écrire un essai littéraire exige à la fois rigueur stylistique et clarté conceptuelle.", pt: "Escrever um ensaio literário exige tanto rigor estilístico quanto clareza conceitual." },
+    ],
+  },
+  texte: {
+    term: "texte",
+    wordFr: "texte",
+    definitionPt: "Texto (substantivo masculino)",
+    difficultyLevel: "undefined",
+    examples: [
+      { level: "A1", fr: "Ce texte est court et facile.", pt: "Este texto é curto e fácil." },
+      { level: "A2-B1", fr: "Nous lisons un texte sur la vie quotidienne à Paris.", pt: "Nós lemos um texto sobre a vida cotidiana em Paris." },
+      { level: "B2", fr: "L'analyse du texte permet de comprendre le contexte historique de l'œuvre.", pt: "A análise do texto permite compreender o contexto histórico da obra." },
+      { level: "C1-C2", fr: "La densité sémantique de ce texte révèle une profonde érudition philosophique.", pt: "A densidade semântica deste texto revela uma profunda erudição filosófica." },
+    ],
+  },
+  commander: {
+    term: "commander",
+    wordFr: "commander",
+    definitionPt: "Pedir, encomendar (verbo)",
+    difficultyLevel: "undefined",
+    examples: [
+      { level: "A1", fr: "Je commande un thé et un croissant.", pt: "Eu peço um chá e um croissant." },
+      { level: "A2-B1", fr: "Nous allons commander le déjeuner sur la terrasse.", pt: "Nós vamos pedir o almoço no terraço." },
+      { level: "B2", fr: "Vous pouvez commander vos livres directement auprès de la librairie indépendante.", pt: "Você pode encomendar seus livros diretamente com a livraria independente." },
+      { level: "C1-C2", fr: "La procédure pour commander des ouvrages rares nécessite une vérification préalable en catalogue.", pt: "O procedimento para encomendar obras raras requer uma verificação prévia no catálogo." },
+    ],
+  },
+  page: {
+    term: "page",
+    wordFr: "page",
+    definitionPt: "Página (substantivo feminino)",
+    difficultyLevel: "undefined",
+    examples: [
+      { level: "A1", fr: "Je lis la première page du livre.", pt: "Eu leio a primeira página do livro." },
+      { level: "A2-B1", fr: "Ouvrez votre livre à la page dix pour l'exercice.", pt: "Abram seu livro na página dez para o exercício." },
+      { level: "B2", fr: "Chaque page du roman apporte de nouveaux détails sur le décor parisien.", pt: "Cada página do romance traz novos detalhes sobre o cenário parisiense." },
+      { level: "C1-C2", fr: "La mise en page soignée contribue à la clarté visuelle de l'édition scientifique.", pt: "A diagramação cuidadosa contribui para a clareza visual da edição científica." },
+    ],
+  },
+  roman: {
+    term: "roman",
+    wordFr: "roman",
+    definitionPt: "Romance, livro de ficção (substantivo masculino)",
+    difficultyLevel: "undefined",
+    examples: [
+      { level: "A1", fr: "C'est un bon roman d'amour.", pt: "É um bom romance de amor." },
+      { level: "A2-B1", fr: "Elle a fini de lire ce roman en trois jours.", pt: "Ela terminou de ler este romance em três dias." },
+      { level: "B2", fr: "Le roman explore les relations humaines dans le Paris de la Belle Époque.", pt: "O romance explora as relações humanas na Paris da Belle Époque." },
+    ],
+  },
+  endroit: {
+    term: "endroit",
+    wordFr: "endroit",
+    definitionPt: "Lugar, local (substantivo masculino)",
+    difficultyLevel: "undefined",
+    examples: [
+      { level: "A1", fr: "C'est un bel endroit dans Paris.", pt: "É um lindo lugar em Paris." },
+      { level: "A2-B1", fr: "Nous cherchons un endroit calme pour lire l'après-midi.", pt: "Nós procuramos um lugar calmo para ler à tarde." },
+      { level: "B2", fr: "Ce café reste l'un des endroits les plus prisés par les étudiants et les artistes.", pt: "Este café continua sendo um dos lugares mais procurados por estudantes e artistas." },
+      { level: "C1-C2", fr: "La préservation de cet endroit emblématique relève de la protection du patrimoine urbain.", pt: "A preservação deste lugar emblemático faz parte da proteção do patrimônio urbano." },
+    ],
+  },
+  discuter: {
+    term: "discuter",
+    wordFr: "discuter",
+    definitionPt: "Conversar, discutir (verbo)",
+    difficultyLevel: "undefined",
+    examples: [
+      { level: "A1", fr: "Je discute avec mon ami au café.", pt: "Eu converso com meu amigo no café." },
+      { level: "A2-B1", fr: "Nous aimons discuter de musique et de cinéma le soir.", pt: "Nós gostamos de conversar sobre música e cinema à noite." },
+      { level: "B2", fr: "Les participants se réunissent pour discuter des projets culturels de la ville.", pt: "Os participantes se reúnem para debater os projetos culturais da cidade." },
+      { level: "C1-C2", fr: "Discuter avec ouverture d'esprit permet de surmonter les divergences théoriques les plus subtiles.", pt: "Conversar com mente aberta permite superar as divergências teóricas mais sutis." },
+    ],
+  },
+};

@@ -1,0 +1,237 @@
+{
+  "id": "bordeaux_lesson_14",
+  "cityId": "bordeaux",
+  "domain": "Cidade e compras",
+  "level": "Intermediário (B1+)",
+  "titleFr": "La rue Sainte-Catherine : la plus longue rue commerçante d'Europe",
+  "titlePt": "A rue Sainte-Catherine: a rua comercial mais longa da Europa",
+  "subtitleFr": "1,2 kilomètre de boutiques, de cafés et de rencontres",
+  "subtitlePt": "1,2 quilômetro de lojas, cafés e encontros",
+  "summaryPt": "Nesta Aula 14 (B1+), a família percorre a rue Sainte-Catherine, a mais longa rua de lojas da Europa, com seus 1,2 km. O aluno pratica o vocabulário das compras (le magasin, la boutique, la vitrine) e os pronomes COD/COI com o conditionnel de cortesia.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "« La rue Sainte-Catherine fait 1,2 kilomètre », a annoncé Irlan. « C'est la plus longue rue commerçante d'Europe. » Iris a regardé la foule : « On ne verra jamais le bout ! »",
+      "pt": "« A rue Sainte-Catherine tem 1,2 quilômetro », anunciou Irlan. « É a rua comercial mais longa da Europa. » Íris olhou a multidão: « Nunca vamos ver o fim! »"
+    },
+    {
+      "id": 2,
+      "fr": "Andréa s'est arrêtée devant une boutique de vêtements. « Je la trouve très belle, cette robe. Je l'essayerais bien. » Irlan a souri : « Prends ton temps. Moi, je lui garderai ta place au café, en face. »",
+      "pt": "Andréa parou diante de uma loja de roupas. « Acho esse vestido muito bonito. Eu o experimentaria. » Irlan sorriu: « Fique à vontade. Eu guardarei seu lugar no café, em frente. »"
+    },
+    {
+      "id": 3,
+      "fr": "Iris et Irlan ont regardé les vitrines. « Regarde, papa, des lunettes de soleil ! » « Tu les essaies ? » « Oui ! Et toi, tu me les achèterais ? » Irlan a ri : « On verra, on verra… »",
+      "pt": "Íris e Irlan olharam as vitrines. « Olha, papai, óculos de sol! » « Você quer experimentá-los? » « Sim! E você, os compraria para mim? » Irlan riu: « A gente vê, a gente vê… »"
+    },
+    {
+      "id": 4,
+      "fr": "Andréa est sortie de la boutique, heureuse. « Je l'ai achetée, la robe. » « Tu lui as dit oui ? » a demandé Iris. « Non, je lui ai demandé le prix d'abord ! » La famille a éclaté de rire.",
+      "pt": "Andréa saiu da loja, feliz. « Comprei o vestido. » « Você disse sim para ele? » perguntou Íris. « Não, primeiro perguntei o preço! » A família caiu na risada."
+    },
+    {
+      "id": 5,
+      "fr": "Au bout de la rue, ils ont trouvé un petit square. « En marchant dans cette rue, j'ai compris le mot \"commerce\" », a dit Irlan. « Le commerce, ce n'est pas seulement acheter. C'est se rencontrer. »",
+      "pt": "No fim da rua, encontraram uma pracinha. « Caminhando nesta rua, entendi a palavra comércio », disse Irlan. « Comércio não é só comprar. É encontrar-se. »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "le magasin",
+      "definitionPt": "a loja",
+      "definitionFr": "Lieu où l'on vend.",
+      "inflections": ["le magasin", "un magasin", "des magasins"],
+      "ptTargets": ["loja"],
+      "examples": [
+        { "level": "A1", "fr": "Le magasin est ouvert.", "pt": "A loja está aberta." },
+        { "level": "A2-B1", "fr": "La rue est pleine de magasins.", "pt": "A rua está cheia de lojas." },
+        { "level": "B1", "fr": "Le magasin où Andréa a acheté la robe est ancien.", "pt": "A loja onde Andréa comprou o vestido é antiga." },
+        { "level": "C1-C2", "fr": "Le magasin, scène des désirs, expose ce que la ville veut posséder.", "pt": "A loja, cena dos desejos, expõe o que a cidade quer possuir." }
+      ]
+    },
+    {
+      "term": "la boutique",
+      "definitionPt": "a butique, a loja",
+      "definitionFr": "Petit magasin élégant.",
+      "inflections": ["la boutique", "une boutique", "des boutiques"],
+      "ptTargets": ["butique", "loja"],
+      "examples": [
+        { "level": "A1", "fr": "La boutique est jolie.", "pt": "A butique é bonita." },
+        { "level": "A2-B1", "fr": "On a regardé les boutiques de la rue.", "pt": "Olhamos as butiques da rua." },
+        { "level": "B1", "fr": "Les boutiques que l'on préfère sont celles des pâtissiers.", "pt": "As butiques que se preferem são as dos confeiteiros." },
+        { "level": "C1-C2", "fr": "La boutique, écrin du quotidien, pare la vie ordinaire de beauté.", "pt": "A butique, estojo do cotidiano, adorna a vida comum de beleza." }
+      ]
+    },
+    {
+      "term": "la vitrine",
+      "definitionPt": "a vitrine",
+      "definitionFr": "Fenêtre de magasin où l'on expose.",
+      "inflections": ["la vitrine", "une vitrine", "des vitrines"],
+      "ptTargets": ["vitrine"],
+      "examples": [
+        { "level": "A1", "fr": "La vitrine est belle.", "pt": "A vitrine é bonita." },
+        { "level": "A2-B1", "fr": "Iris regarde les vitrines.", "pt": "Íris olha as vitrines." },
+        { "level": "B1", "fr": "Les vitrines que l'on regarde le soir sont illuminées.", "pt": "As vitrines que se olham à noite estão iluminadas." },
+        { "level": "C1-C2", "fr": "La vitrine, théâtre de verre, met en scène les objets du désir.", "pt": "A vitrine, teatro de vidro, encena os objetos do desejo." }
+      ]
+    },
+    {
+      "term": "la robe",
+      "definitionPt": "o vestido",
+      "definitionFr": "Vêtement féminin d'une seule pièce.",
+      "inflections": ["la robe", "une robe", "des robes"],
+      "ptTargets": ["vestido"],
+      "examples": [
+        { "level": "A1", "fr": "La robe est rouge.", "pt": "O vestido é vermelho." },
+        { "level": "A2-B1", "fr": "Andréa a acheté une robe.", "pt": "Andréa comprou um vestido." },
+        { "level": "B1", "fr": "La robe que l'on a choisie est parfaite.", "pt": "O vestido que se escolheu é perfeito." },
+        { "level": "C1-C2", "fr": "La robe, poème de tissu, suit le corps comme une ombre légère.", "pt": "O vestido, poema de tecido, segue o corpo como uma sombra leve." }
+      ]
+    },
+    {
+      "term": "essayer",
+      "definitionPt": "experimentar",
+      "definitionFr": "Tester un vêtement.",
+      "inflections": ["j'essaie", "tu essaies", "il essaie", "nous essayons"],
+      "ptTargets": ["experimentar", "provar"],
+      "examples": [
+        { "level": "A1", "fr": "J'essaie la robe.", "pt": "Eu experimento o vestido." },
+        { "level": "A2-B1", "fr": "Tu veux essayer les lunettes ?", "pt": "Você quer experimentar os óculos?" },
+        { "level": "B1", "fr": "Les vêtements que l'on essaie sont souvent trop grands.", "pt": "As roupas que se experimentam costumam ser grandes demais." },
+        { "level": "C1-C2", "fr": "Essayer, geste du doute, cherche la forme qui nous ressemble.", "pt": "Experimentar, gesto da dúvida, procura a forma que se parece conosco." }
+      ]
+    },
+    {
+      "term": "le prix",
+      "definitionPt": "o preço",
+      "definitionFr": "Somme à payer.",
+      "inflections": ["le prix", "un prix", "des prix"],
+      "ptTargets": ["preço"],
+      "examples": [
+        { "level": "A1", "fr": "Le prix est élevé.", "pt": "O preço é alto." },
+        { "level": "A2-B1", "fr": "J'ai demandé le prix d'abord.", "pt": "Perguntei o preço primeiro." },
+        { "level": "B1", "fr": "Le prix que l'on paie ici vaut la qualité.", "pt": "O preço que se paga aqui vale a qualidade." },
+        { "level": "C1-C2", "fr": "Le prix, chiffre sans cœur, décide parfois de nos bonheurs.", "pt": "O preço, número sem coração, às vezes decide nossas felicidades." }
+      ]
+    },
+    {
+      "term": "la foule",
+      "definitionPt": "a multidão",
+      "definitionFr": "Beaucoup de gens ensemble.",
+      "inflections": ["la foule", "une foule"],
+      "ptTargets": ["multidão"],
+      "examples": [
+        { "level": "A1", "fr": "La foule est grande.", "pt": "A multidão é grande." },
+        { "level": "A2-B1", "fr": "La rue est pleine de foule.", "pt": "A rua está cheia de gente." },
+        { "level": "B1", "fr": "La foule que l'on traverse le samedi est joyeuse.", "pt": "A multidão que se atravessa no sábado é alegre." },
+        { "level": "C1-C2", "fr": "La foule, fleuve humain, avance sans jamais se demander où.", "pt": "A multidão, rio humano, avança sem nunca perguntar para onde." }
+      ]
+    },
+    {
+      "term": "le square",
+      "definitionPt": "a pracinha",
+      "definitionFr": "Petit jardin public en ville.",
+      "inflections": ["le square", "un square", "des squares"],
+      "ptTargets": ["pracinha", "praça"],
+      "examples": [
+        { "level": "A1", "fr": "Le square est petit.", "pt": "A pracinha é pequena." },
+        { "level": "A2-B1", "fr": "On s'est reposés dans un square.", "pt": "Descansamos numa pracinha." },
+        { "level": "B1", "fr": "Le square où l'on s'assoit est calme.", "pt": "A pracinha onde nos sentamos é calma." },
+        { "level": "C1-C2", "fr": "Le square, havre minuscule, cache un monde de verdure au cœur du bruit.", "pt": "A pracinha, refúgio minúsculo, esconde um mundo de verde no coração do barulho." }
+      ]
+    },
+    {
+      "term": "le commerce",
+      "definitionPt": "o comércio",
+      "definitionFr": "Activité d'acheter et de vendre.",
+      "inflections": ["le commerce", "un commerce", "des commerces"],
+      "ptTargets": ["comércio"],
+      "examples": [
+        { "level": "A1", "fr": "Le commerce est ouvert.", "pt": "O comércio está aberto." },
+        { "level": "A2-B1", "fr": "La rue est pleine de commerces.", "pt": "A rua está cheia de comércios." },
+        { "level": "B1", "fr": "Les commerces dont la ville vit se trouvent partout.", "pt": "Os comércios dos quais a cidade vive estão em toda parte." },
+        { "level": "C1-C2", "fr": "Le commerce, dialogue des désirs, fait circuler les biens et les idées.", "pt": "O comércio, diálogo dos desejos, faz circular os bens e as ideias." }
+      ]
+    },
+    {
+      "term": "se rencontrer",
+      "definitionPt": "encontrar-se",
+      "definitionFr": "Se voir, se retrouver.",
+      "inflections": ["je me rencontre", "tu te rencontres", "il se rencontre", "nous nous rencontrons"],
+      "ptTargets": ["encontrar-se", "se encontrar"],
+      "examples": [
+        { "level": "A1", "fr": "Nous nous rencontrons ici.", "pt": "Nós nos encontramos aqui." },
+        { "level": "A2-B1", "fr": "Les gens se rencontrent dans les rues commerçantes.", "pt": "As pessoas se encontram nas ruas comerciais." },
+        { "level": "B1", "fr": "Les amis que l'on rencontre par hasard sont les plus doux.", "pt": "Os amigos que se encontram por acaso são os mais doces." },
+        { "level": "C1-C2", "fr": "Se rencontrer, hasard organisé, transforme deux routes en un chemin.", "pt": "Encontrar-se, acaso organizado, transforma duas estradas em um caminho." }
+      ]
+    },
+    {
+      "term": "le kilomètre",
+      "definitionPt": "o quilômetro",
+      "definitionFr": "Unité de distance de mille mètres.",
+      "inflections": ["le kilomètre", "un kilomètre", "des kilomètres"],
+      "ptTargets": ["quilômetro"],
+      "examples": [
+        { "level": "A1", "fr": "Le kilomètre est long.", "pt": "O quilômetro é comprido." },
+        { "level": "A2-B1", "fr": "La rue fait 1,2 kilomètre.", "pt": "A rua tem 1,2 quilômetro." },
+        { "level": "B1", "fr": "Les kilomètres que l'on marche se comptent en sourires.", "pt": "Os quilômetros que se caminham contam-se em sorrisos." },
+        { "level": "C1-C2", "fr": "Le kilomètre, mesure du monde, découpe la terre en tranches de route.", "pt": "O quilômetro, medida do mundo, recorta a terra em fatias de estrada." }
+      ]
+    },
+    {
+      "term": "l'essayage",
+      "definitionPt": "a prova (de roupa)",
+      "definitionFr": "Action d'essayer un vêtement.",
+      "inflections": ["l'essayage", "un essayage", "des essayages"],
+      "ptTargets": ["prova de roupa", "experimentação"],
+      "examples": [
+        { "level": "A1", "fr": "L'essayage est rapide.", "pt": "A prova é rápida." },
+        { "level": "A2-B1", "fr": "La cabine d'essayage est libre.", "pt": "O provador está livre." },
+        { "level": "B1", "fr": "L'essayage dont on parle a duré dix minutes.", "pt": "A prova da qual se fala durou dez minutos." },
+        { "level": "C1-C2", "fr": "L'essayage, instant de vérité, décide si le vêtement nous adopte.", "pt": "A prova, instante de verdade, decide se a roupa nos adota." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "titleFr": "Les pronoms COD et COI : le, la, les, lui, leur",
+    "titlePt": "Os pronomes COD e COI: le, la, les, lui, leur",
+    "points": [
+      {
+        "fr": "COD (objeto direto) : « Je l'essayerais bien, cette robe », « Tu me les achèterais ? » (les lunettes). Le pronom se place avant le verbe.",
+        "pt": "COD (objeto direto): « Je l'essayerais bien, cette robe » (Eu a experimentaria), « Tu me les achèterais ? » (Você os compraria para mim? — os óculos). O pronome vem antes do verbo."
+      },
+      {
+        "fr": "COI (objeto indireto) : « Je lui demanderai le prix » (a ele/ela), « Je lui garderai ta place » (para ela).",
+        "pt": "COI (objeto indireto): « Je lui demanderai le prix » (Perguntarei o preço a ele/ela), « Je lui garderai ta place » (Guardarei seu lugar para ela)."
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Quanto mede a rue Sainte-Catherine ?",
+      "options": ["1,2 quilômetro", "5 quilômetros", "300 metros", "10 quilômetros"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Qual é o título da rue Sainte-Catherine ?",
+      "options": ["A rua comercial mais longa da Europa", "A rua mais estreita da França", "A rua mais antiga do mundo", "A rua mais cara da Europa"],
+      "correctIndex": 0
+    },
+    {
+      "question": "O que Andréa comprou na boutique ?",
+      "options": ["Um vestido", "Uma bolsa", "Um chapéu", "Um par de sapatos"],
+      "correctIndex": 0
+    },
+    {
+      "question": "O que Íris queria experimentar na vitrine ?",
+      "options": ["Óculos de sol", "Um relógio", "Um casaco", "Um boné"],
+      "correctIndex": 0
+    },
+    {
+      "question": "O que Irlan disse que o comércio realmente é ?",
+      "options": ["Um jeito de se encontrar", "Uma forma de ficar rico", "Um esporte", "Uma obrigação"],
+      "correctIndex": 0
+    }
+  ]
+}

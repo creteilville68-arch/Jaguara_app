@@ -1,0 +1,148 @@
+import { DictionaryEntry } from '../utils/textParser';
+
+export const LESSON_DICTIONARY_21: Record<string, DictionaryEntry> = {
+  jardin: {
+    term: "jardin",
+    wordFr: "jardin",
+    definitionPt: "Jardim, parque (substantivo masculino)",
+    difficultyLevel: "undefined",
+    examples: [
+      { level: "A1", fr: "Le jardin est calme.", pt: "O jardim é calmo." },
+      { level: "A2-B1", fr: "Le Jardin du Luxembourg est très populaire auprès des Parisiens.", pt: "O Jardim de Luxemburgo é muito popular entre os parisienses." },
+      { level: "B2", fr: "Ce grand jardin public offre un espace de repos idéal en plein cœur de la ville.", pt: "Este grande jardim público oferece um espaço de repouso ideal no coração da cidade." },
+      { level: "C1-C2", fr: "L'ordonnancement harmonieux des parterres perpétue la tradition du jardin à la française.", pt: "A organização harmônica dos canteiros perpetua a tradição do jardim à francesa." },
+    ],
+  },
+  fleur: {
+    term: "fleur",
+    wordFr: "fleur",
+    definitionPt: "Flor (substantivo feminino)",
+    difficultyLevel: "undefined",
+    examples: [
+      { level: "A1", fr: "La fleur est rouge.", pt: "A flor é vermelha." },
+      { level: "A2-B1", fr: "Au printemps, les jardins sont remplis de fleurs de toutes les couleurs.", pt: "Na primavera, os jardins estão cheios de flores de todas as cores." },
+      { level: "B2", fr: "Les jardiniers municipaux renouvellent régulièrement les massifs de fleurs.", pt: "Os jardineiros municipais renovam regularmente os canteiros de flores." },
+      { level: "C1-C2", fr: "L'éclat chromatique de ces fleurs de saison enrichit la perspective botanique du domaine.", pt: "O brilho cromático destas flores da estação enriquece a perspectiva botânica do parque." },
+    ],
+  },
+  chaise: {
+    term: "chaise",
+    wordFr: "chaise",
+    definitionPt: "Cadeira (substantivo feminino)",
+    difficultyLevel: "undefined",
+    examples: [
+      { level: "A1", fr: "Je prends une chaise verte.", pt: "Eu pego uma cadeira verde." },
+      { level: "A2-B1", fr: "Les chaises vertes du Luxembourg sont célèbres dans le monde entier.", pt: "As cadeiras verdes do Luxemburgo são famosas no mundo inteiro." },
+      { level: "B2", fr: "Vous pouvez déplacer librement votre chaise pour vous installer au soleil.", pt: "Você pode deslocar livremente sua cadeira para se sentar ao sol." },
+      { level: "C1-C2", fr: "La silhouette métallique de cette chaise constitue un emblème intemporel des jardins parisiens.", pt: "A silhueta metálica desta cadeira constitui um emblema atemporal dos jardins parisienses." },
+    ],
+  },
+  printemps: {
+    term: "printemps",
+    wordFr: "printemps",
+    definitionPt: "Primavera (substantivo masculino)",
+    difficultyLevel: "undefined",
+    examples: [
+      { level: "A1", fr: "J'aime le printemps à Paris.", pt: "Eu gosto da primavera em Paris." },
+      { level: "A2-B1", fr: "Au printemps, les arbres fleurissent et les journées sont plus longues.", pt: "Na primavera, as árvores florescem e os dias são mais longos." },
+      { level: "B2", fr: "Le printemps est une période idéale pour visiter les parcs et jardins de France.", pt: "A primavera é um período ideal para visitar os parques e jardins da França." },
+      { level: "C1-C2", fr: "La douceur printanière invite à la promenade sous la ramure naissante des marronniers.", pt: "A amenidade primaveril convida ao passeio sob as folhagens nascentes dos castanheiros." },
+    ],
+  },
+  été: {
+    term: "été",
+    wordFr: "été",
+    definitionPt: "Verão (substantivo masculino)",
+    difficultyLevel: "undefined",
+    examples: [
+      { level: "A1", fr: "Il fait chaud en été.", pt: "Faz calor no verão." },
+      { level: "A2-B1", fr: "En été, les jardins ferment plus tard le soir.", pt: "No verão, os jardins fecham mais tarde à noite." },
+      { level: "B2", fr: "Beaucoup de Parisiens profitent de l'été pour lire à l'ombre des grands arbres.", pt: "Muitos parisienses aproveitam o verão para ler à sombra das grandes árvores." },
+      { level: "C1-C2", fr: "La luminosité intense de l'été sublime le contraste entre les allées claires et les frondaisons.", pt: "A luminosidade intensa do verão realça o contraste entre as alamedas claras e as folhagens." },
+    ],
+  },
+  automne: {
+    term: "automne",
+    wordFr: "automne",
+    definitionPt: "Outono (substantivo masculino)",
+    difficultyLevel: "undefined",
+    examples: [
+      { level: "A1", fr: "En automne, il y a du vent.", pt: "No outono, há vento." },
+      { level: "A2-B1", fr: "En automne, les feuilles des arbres deviennent rouges et jaunes.", pt: "No outono, as folhas das árvores ficam vermelhas e amarelas." },
+      { level: "B2", fr: "L'automne apporte une atmosphère poétique et calme dans les parcs de la capitale.", pt: "O outono traz uma atmosfera poética e calma aos parques da capital." },
+      { level: "C1-C2", fr: "La palette ocre et dorée de l'automne confère aux jardins une mélancolie raffinée.", pt: "A paleta ocre e dourada do outono confere aos jardins uma melancolia refinada." },
+    ],
+  },
+  hiver: {
+    term: "hiver",
+    wordFr: "hiver",
+    definitionPt: "Inverno (substantivo masculino)",
+    difficultyLevel: "undefined",
+    examples: [
+      { level: "A1", fr: "Il fait froid en hiver.", pt: "Faz frio no inverno." },
+      { level: "A2-B1", fr: "En hiver, il est agréable de se promener avec un bon manteau chaud.", pt: "No inverno, é agradável passear com um bom casaco quente." },
+      { level: "B2", fr: "Parfois en hiver, une légère couche de neige recouvre les statues du jardin.", pt: "Às vezes no inverno, uma leve camada de neve cobre as estátuas do jardim." },
+      { level: "C1-C2", fr: "La rigueur hivernale dessine l'architecture géométrique des arbres dénudés.", pt: "A rigidez invernal desenha a arquitetura geométrica das árvores nuas." },
+    ],
+  },
+  "promener (se)": {
+    term: "promener (se)",
+    wordFr: "promener (se)",
+    definitionPt: "Passear, caminhar por lazer (verbo pronominal)",
+    difficultyLevel: "undefined",
+    examples: [
+      { level: "A1", fr: "Je me promène dans le parc.", pt: "Eu passeio no parque." },
+      { level: "A2-B1", fr: "Nous aimons nous promener le dimanche après-midi.", pt: "Nós gostamos de passear no domingo à tarde." },
+      { level: "B2", fr: "Se promener dans les jardins historiques est un véritable art de vivre à Paris.", pt: "Passear nos jardins históricos é uma verdadeira arte de viver em Paris." },
+      { level: "C1-C2", fr: "Se promener sans hâte au fil des allées favorise la sérénité intellectuelle.", pt: "Passear sem pressa pelas alamedas favorece a serenidade intelectual." },
+    ],
+  },
+  "reposer (se)": {
+    term: "reposer (se)",
+    wordFr: "reposer (se)",
+    definitionPt: "Descansar, repousar (verbo pronominal)",
+    difficultyLevel: "undefined",
+    examples: [
+      { level: "A1", fr: "Je me repose au soleil.", pt: "Eu me descanso ao sol." },
+      { level: "A2-B1", fr: "Après une longue marche, je vais me reposer sur un banc.", pt: "Depois de uma longa caminhada, eu vou me descansar em um banco." },
+      { level: "B2", fr: "Le jardin public offre un lieu paisible pour se reposer en fin de journée.", pt: "O jardim público oferece um local tranquilo para descansar no final do dia." },
+      { level: "C1-C2", fr: "Se reposer dans ce cadre arboré permet d'échapper à l'effervescence urbaine.", pt: "Descansar neste ambiente arborizado permite escapar da efervescência urbana." },
+    ],
+  },
+  enfant: {
+    term: "enfant",
+    wordFr: "enfant",
+    definitionPt: "Criança (substantivo masculino ou feminino)",
+    difficultyLevel: "undefined",
+    examples: [
+      { level: "A1", fr: "L'enfant joue dans le parc.", pt: "A criança brinca no parque." },
+      { level: "A2-B1", fr: "Les enfants adorent faire naviguer de petits bateaux sur le bassin.", pt: "As crianças adoram fazer navegar pequenos barcos no tanque de água." },
+      { level: "B2", fr: "Ce jardin propose de nombreuses activités en plein air pour les enfants.", pt: "Este jardim oferece muitas atividades ao ar livre para as crianças." },
+      { level: "C1-C2", fr: "Les cris joyeux des enfants animent le bassin central d'une vivacité intemporelle.", pt: "Os gritos alegres das crianças animam o espelho d'água central com uma vivacidade atemporal." },
+    ],
+  },
+  bateau: {
+    term: "bateau",
+    wordFr: "bateau",
+    definitionPt: "Barco, barquinho (substantivo masculino)",
+    difficultyLevel: "undefined",
+    examples: [
+      { level: "A1", fr: "C'est un petit bateau.", pt: "É um pequeno barco." },
+      { level: "A2-B1", fr: "Les enfants louent des petits bateaux à voile au Jardin du Luxembourg.", pt: "As crianças alugam pequenos barcos a vela no Jardim de Luxemburgo." },
+      { level: "B2", fr: "La tradition des petits bateaux en bois sur le bassin existe depuis des décennies.", pt: "A tradição dos pequenos barcos de madeira no tanque existe há décadas." },
+      { level: "C1-C2", fr: "La silhouette gracieuse de ce bateau à voile perpétue la poésie ludique du jardin.", pt: "A silhueta graciosa deste barco a vela perpetua a poética lúdica do jardim." },
+    ],
+  },
+  saison: {
+    term: "saison",
+    wordFr: "saison",
+    definitionPt: "Estação do ano (substantivo feminino)",
+    difficultyLevel: "undefined",
+    examples: [
+      { level: "A1", fr: "Il y a quatre saisons.", pt: "Há quatro estações do ano." },
+      { level: "A2-B1", fr: "Chaque saison apporte de nouvelles couleurs dans les parcs de Paris.", pt: "Cada estação traz novas cores nos parques de Paris." },
+      { level: "B2", fr: "Le changement de saison transforme le paysage et la lumière de la capitale.", pt: "A mudança de estação transforma a paisagem e a luz da capital." },
+      { level: "C1-C2", fr: "La succession harmonique des saisons rythme la vie botanique et esthétique du domaine.", pt: "A sucessão harmônica das estações dita o ritmo da vida botânica e estética da propriedade." },
+    ],
+  },
+};

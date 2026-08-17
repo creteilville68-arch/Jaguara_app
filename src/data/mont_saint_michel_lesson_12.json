@@ -1,0 +1,252 @@
+{
+  "id": "mont_saint_michel_lesson_12",
+  "cityId": "mont-saint-michel",
+  "domain": "História & Cultura",
+  "level": "Básico (A2/B1)",
+  "titleFr": "Le cloître : un jardin entre ciel et mer",
+  "titlePt": "O claustro: um jardim entre céu e mar",
+  "subtitleFr": "Les colonnes fines et le silence qui flotte au-dessus de la baie",
+  "subtitlePt": "As colunas finas e o silêncio que flutua sobre a baía",
+  "summaryPt": "Nesta Aula 12 (A2/B1), a família descobre o claustro da Merveille, suspenso entre o céu e o mar, com suas colunas duplas e o jardim interior. O aluno pratica a descrição com o Imparfait (le silence régnait, les moines marchaient) e as sensações (calme, léger).",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Le cloître est un jardin suspendu entre le ciel et la mer. Des colonnes fines soutiennent les arcades. « Quand les moines marchaient ici, ils entendaient seulement le vent », a dit Andréa.",
+      "pt": "O claustro é um jardim suspenso entre o céu e o mar. Colunas finas sustentam as arcadas. « Quando os monges caminhavam aqui, ouviam apenas o vento », disse Andréa."
+    },
+    {
+      "id": 2,
+      "fr": "Au centre, un petit jardin vert entourait un bassin. « Les moines venaient lire ici, quand le temps était doux », a expliqué Irlan. « Le silence était impressionnant. »",
+      "pt": "No centro, um pequeno jardim verde cercava um tanque. « Os monges vinham ler aqui, quando o tempo estava ameno », explicou Irlan. « O silêncio era impressionante. »"
+    },
+    {
+      "id": 3,
+      "fr": "« Quand nous sommes entrés, nous avons entendu le bruit des pas sur la pierre. C'était magique », a raconté Íris. Elle a fermé les yeux pour écouter.",
+      "pt": "« Quando entramos, ouvimos o som dos passos na pedra. Era mágico », contou Íris. Ela fechou os olhos para ouvir."
+    },
+    {
+      "id": 4,
+      "fr": "Irlan a regardé la mer par les arcades. « Il y a mille ans, les moines voyaient la même baie. Les marées montaient et descendaient, comme aujourd'hui. »",
+      "pt": "Irlan olhou o mar pelas arcadas. « Há mil anos, os monges viam a mesma baía. As marés subiam e desciam, como hoje. »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "le cloître",
+      "definitionPt": "o claustro",
+      "definitionFr": "Cour intérieure d'un monastère.",
+      "inflections": ["le cloître", "un cloître", "des cloîtres"],
+      "ptTargets": ["claustro"],
+      "examples": [
+        { "level": "A1", "fr": "Le cloître est calme.", "pt": "O claustro é calmo." },
+        { "level": "A2-B1", "fr": "Le cloître de la Merveille est célèbre.", "pt": "O claustro da Merveille é famoso." },
+        { "level": "B2", "fr": "Le cloître est suspendu entre le ciel et la mer.", "pt": "O claustro é suspenso entre o céu e o mar." },
+        { "level": "C1-C2", "fr": "Dans ce cloître, le silence était si profond qu'on entendait la mer.", "pt": "Neste claustro, o silêncio era tão profundo que se ouvia o mar." }
+      ]
+    },
+    {
+      "term": "la colonne",
+      "definitionPt": "a coluna",
+      "definitionFr": "Support vertical en pierre.",
+      "inflections": ["la colonne", "une colonne", "des colonnes"],
+      "ptTargets": ["coluna"],
+      "examples": [
+        { "level": "A1", "fr": "La colonne est droite.", "pt": "A coluna é reta." },
+        { "level": "A2-B1", "fr": "Des colonnes fines soutiennent les arcades.", "pt": "Colunas finas sustentam as arcadas." },
+        { "level": "B2", "fr": "Les colonnes du cloître sont disposées en quinconce.", "pt": "As colunas do claustro são dispostas em zigue-zague." },
+        { "level": "C1-C2", "fr": "Les colonnes légères semblaient danser sous les arcades.", "pt": "As colunas leves pareciam dançar sob as arcadas." }
+      ]
+    },
+    {
+      "term": "le silence",
+      "definitionPt": "o silêncio",
+      "definitionFr": "Absence de bruit.",
+      "inflections": ["le silence", "un silence", "des silences"],
+      "ptTargets": ["silêncio"],
+      "examples": [
+        { "level": "A1", "fr": "Le silence est doux.", "pt": "O silêncio é suave." },
+        { "level": "A2-B1", "fr": "Le silence était impressionnant.", "pt": "O silêncio era impressionante." },
+        { "level": "B2", "fr": "Un grand silence régnait dans le cloître.", "pt": "Um grande silêncio reinava no claustro." },
+        { "level": "C1-C2", "fr": "Le silence du cloître était plus éloquent que mille discours.", "pt": "O silêncio do claustro era mais eloquente que mil discursos." }
+      ]
+    },
+    {
+      "term": "l'arcade",
+      "definitionPt": "a arcada",
+      "definitionFr": "Ouverture en arc.",
+      "inflections": ["l'arcade", "une arcade", "des arcades"],
+      "ptTargets": ["arcada"],
+      "examples": [
+        { "level": "A1", "fr": "L'arcade est haute.", "pt": "A arcada é alta." },
+        { "level": "A2-B1", "fr": "Les arcades entourent le jardin.", "pt": "As arcadas cercam o jardim." },
+        { "level": "B2", "fr": "Sous les arcades, la lumière dessinait des ombres douces.", "pt": "Sob as arcadas, a luz desenhava sombras suaves." },
+        { "level": "C1-C2", "fr": "Les arcades du cloître répétaient l'écho des pas des moines.", "pt": "As arcadas do claustro repetiam o eco dos passos dos monges." }
+      ]
+    },
+    {
+      "term": "le bassin",
+      "definitionPt": "o tanque, o espelho d'água",
+      "definitionFr": "Petit plan d'eau.",
+      "inflections": ["le bassin", "un bassin", "des bassins"],
+      "ptTargets": ["tanque", "espelho d'água"],
+      "examples": [
+        { "level": "A1", "fr": "Le bassin est rond.", "pt": "O tanque é redondo." },
+        { "level": "A2-B1", "fr": "Un bassin entourait le jardin du cloître.", "pt": "Um tanque cercava o jardim do claustro." },
+        { "level": "B2", "fr": "L'eau du bassin reflétait les arcades.", "pt": "A água do tanque refletia as arcadas." },
+        { "level": "C1-C2", "fr": "Le bassin, calme comme un miroir, capturait le ciel entier.", "pt": "O tanque, calmo como um espelho, capturava o céu inteiro." }
+      ]
+    },
+    {
+      "term": "le vent",
+      "definitionPt": "o vento",
+      "definitionFr": "Air qui se déplace.",
+      "inflections": ["le vent", "un vent", "des vents"],
+      "ptTargets": ["vento"],
+      "examples": [
+        { "level": "A1", "fr": "Le vent souffle.", "pt": "O vento sopra." },
+        { "level": "A2-B1", "fr": "Les moines entendaient seulement le vent.", "pt": "Os monges ouviam apenas o vento." },
+        { "level": "B2", "fr": "Le vent de la baie balayait les arcades.", "pt": "O vento da baía varria as arcadas." },
+        { "level": "C1-C2", "fr": "Le vent chantait entre les colonnes, comme une musique ancienne.", "pt": "O vento cantava entre as colunas, como uma música antiga." }
+      ]
+    },
+    {
+      "term": "marcher",
+      "definitionPt": "caminhar, andar",
+      "definitionFr": "Se déplacer à pied.",
+      "inflections": ["je marche", "nous marchons", "marché"],
+      "ptTargets": ["caminhar", "andar"],
+      "examples": [
+        { "level": "A1", "fr": "Je marche dans la rue.", "pt": "Caminho na rua." },
+        { "level": "A2-B1", "fr": "Les moines marchaient lentement dans le cloître.", "pt": "Os monges caminhavam lentamente no claustro." },
+        { "level": "B2", "fr": "Nous avons marché en silence jusqu'à l'abbaye.", "pt": "Caminhamos em silêncio até a abadia." },
+        { "level": "C1-C2", "fr": "Marcher dans ce cloître, c'est marcher dans mille ans de prières.", "pt": "Caminhar neste claustro é caminhar por mil anos de orações." }
+      ]
+    },
+    {
+      "term": "impressionnant",
+      "definitionPt": "impressionante",
+      "definitionFr": "Qui impressionne.",
+      "inflections": ["impressionnant", "impressionnante", "impressionnants"],
+      "ptTargets": ["impressionante"],
+      "examples": [
+        { "level": "A1", "fr": "Le château est impressionnant.", "pt": "O castelo é impressionante." },
+        { "level": "A2-B1", "fr": "Le silence du cloître était impressionnant.", "pt": "O silêncio do claustro era impressionante." },
+        { "level": "B2", "fr": "La vue depuis le cloître est impressionnante.", "pt": "A vista do claustro é impressionante." },
+        { "level": "C1-C2", "fr": "Il y a quelque chose d'impressionnant dans cette architecture suspendue.", "pt": "Há algo de impressionante nesta arquitetura suspensa." }
+      ]
+    },
+    {
+      "term": "magique",
+      "definitionPt": "mágico",
+      "definitionFr": "Qui semble tenir de la magie.",
+      "inflections": ["magique", "magiques", "magiquement"],
+      "ptTargets": ["mágico"],
+      "examples": [
+        { "level": "A1", "fr": "Le moment est magique.", "pt": "O momento é mágico." },
+        { "level": "A2-B1", "fr": "Le silence était magique.", "pt": "O silêncio era mágico." },
+        { "level": "B2", "fr": "La lumière du soir rendait le cloître magique.", "pt": "A luz do entardecer tornava o claustro mágico." },
+        { "level": "C1-C2", "fr": "Ce lieu a quelque chose de magique que les mots ne savent pas dire.", "pt": "Este lugar tem algo de mágico que as palavras não sabem dizer." }
+      ]
+    },
+    {
+      "term": "l'écho",
+      "definitionPt": "o eco",
+      "definitionFr": "Son répété par un obstacle.",
+      "inflections": ["l'écho", "un écho", "des échos"],
+      "ptTargets": ["eco"],
+      "examples": [
+        { "level": "A1", "fr": "L'écho est fort.", "pt": "O eco é forte." },
+        { "level": "A2-B1", "fr": "L'écho des pas résonnait sur la pierre.", "pt": "O eco dos passos ressoava na pedra." },
+        { "level": "B2", "fr": "On entendait l'écho des pas dans le couloir vide.", "pt": "Ouvia-se o eco dos passos no corredor vazio." },
+        { "level": "C1-C2", "fr": "Les murs de l'abbaye gardent l'écho de mille ans de chants.", "pt": "As paredes da abadia guardam o eco de mil anos de cantos." }
+      ]
+    },
+    {
+      "term": "la lumière",
+      "definitionPt": "a luz",
+      "definitionFr": "Clarté.",
+      "inflections": ["la lumière", "une lumière", "des lumières"],
+      "ptTargets": ["luz"],
+      "examples": [
+        { "level": "A1", "fr": "La lumière est douce.", "pt": "A luz é suave." },
+        { "level": "A2-B1", "fr": "La lumière entrait par les arcades.", "pt": "A luz entrava pelas arcadas." },
+        { "level": "B2", "fr": "La lumière de la baie changeait à chaque heure.", "pt": "A luz da baía mudava a cada hora." },
+        { "level": "C1-C2", "fr": "Cette lumière du Nord, grise et dorée à la fois, est unique au monde.", "pt": "Esta luz do Norte, cinzenta e dourada ao mesmo tempo, é única no mundo." }
+      ]
+    },
+    {
+      "term": "résonner",
+      "definitionPt": "ressoar",
+      "definitionFr": "Produire un écho.",
+      "inflections": ["je résonne", "nous résonnons", "résonné"],
+      "ptTargets": ["ressoar"],
+      "examples": [
+        { "level": "A1", "fr": "La voix résonne.", "pt": "A voz ressoa." },
+        { "level": "A2-B1", "fr": "Les pas résonnaient sur la pierre.", "pt": "Os passos ressoavam na pedra." },
+        { "level": "B2", "fr": "Le chant des moines résonnait dans toute l'abbaye.", "pt": "O canto dos monges ressoava em toda a abadia." },
+        { "level": "C1-C2", "fr": "Le silence résonne plus fort que tous les bruits du monde.", "pt": "O silêncio ressoa mais forte que todos os ruídos do mundo." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Décrire les sensations au passé (le silence était impressionnant)",
+    "explanationPt": "Sensações e estados no passado usam imparfait: 'le silence était impressionnant' (o silêncio era impressionante), 'le temps était doux' (o tempo estava ameno). São descrições, não eventos.",
+    "exampleFr": "Quand les moines marchaient, le silence était impressionnant et la lumière était douce.",
+    "examplePt": "Quando os monges caminhavam, o silêncio era impressionante e a luz era suave.",
+    "practiceQuestion": "Complete: « Le silence ___ impressionnant. » (imparfait d'être)",
+    "options": ["était", "a été", "sera"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "Quand + imparfait : les deux actions simultanées",
+        "explanationPt": "'Quand' + dois imparfaits mostra simultaneidade no passado: 'quand les moines marchaient (IMP), ils entendaient (IMP) seulement le vent'. Duas ações no mesmo cenário.",
+        "exampleFr": "Quand les moines marchaient, ils entendaient seulement le vent.",
+        "examplePt": "Quando os monges caminhavam, ouviam apenas o vento.",
+        "practiceQuestion": "Complete: « Quand ils marchaient, ils ___ seulement le vent. »",
+        "options": ["entendaient", "ont entendu", "entendront"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "Les verbes de perception : voir, entendre, écouter",
+        "explanationPt": "No passado: 'ils voyaient la baie' (viam a baía), 'on entendait l'écho' (ouvia-se o eco), 'elle écoutait le silence' (ela escutava o silêncio). Percepção duradoura = imparfait.",
+        "exampleFr": "De là, on voyait la baie entière et on entendait le bruit des vagues.",
+        "examplePt": "De lá, via-se a baía inteira e ouvia-se o barulho das ondas.",
+        "practiceQuestion": "Complete: « On ___ la baie entière. »",
+        "options": ["voyait", "a vu", "verra"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "O que é o cloître da Merveille?",
+      "options": ["Um jardim suspenso entre o céu e o mar", "Uma sala de jantar", "Uma torre de vigia"],
+      "correctIndex": 0,
+      "explanation": "O claustro é um jardim interno cercado de arcadas, suspenso sobre a baía."
+    },
+    {
+      "question": "Complete: « Le silence ___ impressionnant. »",
+      "options": ["était", "a été", "sera"],
+      "correctIndex": 0,
+      "explanation": "Descrição de estado no passado = imparfait: 'était'."
+    },
+    {
+      "question": "O que os monges ouviam quando caminhavam no claustro?",
+      "options": ["Apenas o vento", "O barulho do mercado", "Os sinos de Paris"],
+      "correctIndex": 0,
+      "explanation": "No claustro suspenso, os monges ouviam apenas o vento da baía."
+    },
+    {
+      "question": "Complete: « Quand ils marchaient, ils ___ seulement le vent. »",
+      "options": ["entendaient", "ont entendu", "entendront"],
+      "correctIndex": 0,
+      "explanation": "Duas ações simultâneas no passado = imparfait: 'entendaient'."
+    },
+    {
+      "question": "O que havia no centro do claustro?",
+      "options": ["Um pequeno jardim com um bassin", "Uma estátua de ouro", "Uma escada"],
+      "correctIndex": 0,
+      "explanation": "No centro do claustro havia um jardim verde que cercava um tanque."
+    }
+  ]
+}

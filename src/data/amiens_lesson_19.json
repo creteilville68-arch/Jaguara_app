@@ -1,0 +1,252 @@
+{
+  "id": "amiens_lesson_19",
+  "cityId": "amiens",
+  "domain": "Cozinha & Compras",
+  "level": "Iniciante em Transição (A1/A2)",
+  "titleFr": "La boulangerie du quartier",
+  "titlePt": "A padaria do bairro",
+  "subtitleFr": "Le pain et les viennoiseries du matin",
+  "subtitlePt": "O pão e as massas da manhã",
+  "summaryPt": "Nesta Aula 19 (A1/A2) da Cidade #2, a família compra pão e doces na boulangerie do bairro. O aluno aprende o vocabulário da padaria (pain, baguette, viennoiserie, croissant, boulangerie) e os artigos partitivos com negação.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Le matin, la famille va à la boulangerie du quartier. « Bonjour ! dit Irlan. Nous voudrions une baguette, deux croissants et un pain au chocolat, s'il vous plaît. »",
+      "pt": "De manhã, a família vai à padaria do bairro. « Bom dia! diz Irlan. Gostaríamos de uma baguete, dois croissants e um pão de chocolate, por favor. »"
+    },
+    {
+      "id": 2,
+      "fr": "La boulangère sourit : « Voilà ! Et pour la petite ? » Íris réfléchit : « Je voudrais une madeleine, s'il vous plaît. » La boulangère met le gâteau dans un petit sac.",
+      "pt": "A padeira sorri: « Aqui está! E para a pequena? » Íris pensa: « Eu gostaria de uma madeleine, por favor. » A padeira coloca o bolinho num saquinho."
+    },
+    {
+      "id": 3,
+      "fr": "Dans la boulangerie, il y a des viennoiseries dorées, des tartes aux fruits et des gâteaux. « Je n'achète pas de gâteau aujourd'hui, dit Irlan. Nous avons déjà assez de douceurs ! »",
+      "pt": "Na padaria, há massas douradas, tortas de frutas e bolos. « Não compro bolo hoje, diz Irlan. Já temos doces suficientes! »"
+    },
+    {
+      "id": 4,
+      "fr": "À la maison, la famille prend le petit déjeuner. « Le pain français est le meilleur du monde ! » dit Irlan. Íris rit : « Et la madeleine aussi ! »",
+      "pt": "Em casa, a família toma o café da manhã. « O pão francês é o melhor do mundo! » diz Irlan. Íris ri: « E a madeleine também! »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "la boulangerie",
+      "definitionPt": "a padaria",
+      "definitionFr": "Magasin où l'on fait et vend le pain.",
+      "inflections": ["la boulangerie", "une boulangerie", "des boulangeries"],
+      "ptTargets": ["padaria"],
+      "examples": [
+        { "level": "A1", "fr": "La boulangerie est ouverte.", "pt": "A padaria está aberta." },
+        { "level": "A2-B1", "fr": "La famille va à la boulangerie du quartier.", "pt": "A família vai à padaria do bairro." },
+        { "level": "B2", "fr": "La boulangerie, parfumée, attire les clients chaque matin.", "pt": "A padaria, perfumada, atrai os clientes toda manhã." },
+        { "level": "C1-C2", "fr": "C'est la boulangerie qui, traditionnelle, rythme la vie du quartier.", "pt": "É a padaria que, tradicional, ritma a vida do bairro." }
+      ]
+    },
+    {
+      "term": "le pain",
+      "definitionPt": "o pão",
+      "definitionFr": "Aliment fait avec de la farine.",
+      "inflections": ["le pain", "un pain", "des pains"],
+      "ptTargets": ["pão"],
+      "examples": [
+        { "level": "A1", "fr": "Le pain est bon.", "pt": "O pão é bom." },
+        { "level": "A2-B1", "fr": "Le pain français est célèbre.", "pt": "O pão francês é famoso." },
+        { "level": "B2", "fr": "Le pain, croustillant, accompagne chaque repas.", "pt": "O pão, crocante, acompanha cada refeição." },
+        { "level": "C1-C2", "fr": "C'est le pain qui, quotidien, nourrit les familles.", "pt": "É o pão que, cotidiano, alimenta as famílias." }
+      ]
+    },
+    {
+      "term": "la baguette",
+      "definitionPt": "a baguete",
+      "definitionFr": "Pain long et fin.",
+      "inflections": ["la baguette", "une baguette", "des baguettes"],
+      "ptTargets": ["baguete"],
+      "examples": [
+        { "level": "A1", "fr": "La baguette est longue.", "pt": "A baguete é longa." },
+        { "level": "A2-B1", "fr": "Nous voudrions une baguette, s'il vous plaît.", "pt": "Gostaríamos de uma baguete, por favor." },
+        { "level": "B2", "fr": "La baguette, dorée, est le symbole du pain français.", "pt": "A baguete, dourada, é o símbolo do pão francês." },
+        { "level": "C1-C2", "fr": "C'est la baguette qui, universelle, représente la France dans le monde.", "pt": "É a baguete que, universal, representa a França no mundo." }
+      ]
+    },
+    {
+      "term": "le croissant",
+      "definitionPt": "o croissant",
+      "definitionFr": "Viennoiserie en forme de croissant.",
+      "inflections": ["le croissant", "un croissant", "des croissants"],
+      "ptTargets": ["croissant"],
+      "examples": [
+        { "level": "A1", "fr": "Le croissant est doré.", "pt": "O croissant é dourado." },
+        { "level": "A2-B1", "fr": "Nous achetons deux croissants.", "pt": "Compramos dois croissants." },
+        { "level": "B2", "fr": "Le croissant, feuilleté, croustille sous la dent.", "pt": "O croissant, folhado, estala na boca." },
+        { "level": "C1-C2", "fr": "C'est le croissant qui, matinal, accompagne le café français.", "pt": "É o croissant que, matinal, acompanha o café francês." }
+      ]
+    },
+    {
+      "term": "la viennoiserie",
+      "definitionPt": "a massa doce (folhada)",
+      "definitionFr": "Pâtisserie légère comme le croissant.",
+      "inflections": ["la viennoiserie", "une viennoiserie", "des viennoiseries"],
+      "ptTargets": ["massa doce", "viennoiserie"],
+      "examples": [
+        { "level": "A1", "fr": "La viennoiserie est bonne.", "pt": "A massa doce é boa." },
+        { "level": "A2-B1", "fr": "Il y a des viennoiseries dorées.", "pt": "Há massas doces douradas." },
+        { "level": "B2", "fr": "Les viennoiseries, fraîches, sont faites chaque matin.", "pt": "As massas doces, frescas, são feitas toda manhã." },
+        { "level": "C1-C2", "fr": "C'est la viennoiserie qui, légère, fait la fierté du boulanger.", "pt": "É a massa doce que, leve, é o orgulho do padeiro." }
+      ]
+    },
+    {
+      "term": "la madeleine",
+      "definitionPt": "a madeleine (bolinho)",
+      "definitionFr": "Petit gâteau en forme de coquillage.",
+      "inflections": ["la madeleine", "une madeleine", "des madeleines"],
+      "ptTargets": ["madeleine", "bolinho"],
+      "examples": [
+        { "level": "A1", "fr": "La madeleine est moelleuse.", "pt": "A madeleine é macia." },
+        { "level": "A2-B1", "fr": "Íris voudrait une madeleine.", "pt": "Íris gostaria de uma madeleine." },
+        { "level": "B2", "fr": "La madeleine, dorée, évoque les souvenirs d'enfance.", "pt": "A madeleine, dourada, evoca lembranças de infância." },
+        { "level": "C1-C2", "fr": "C'est la madeleine qui, célèbre, rappelle la mémoire de Proust.", "pt": "É a madeleine que, famosa, lembra a memória de Proust." }
+      ]
+    },
+    {
+      "term": "la tarte",
+      "definitionPt": "a torta",
+      "definitionFr": "Gâteau avec une pâte et une garniture.",
+      "inflections": ["la tarte", "une tarte", "des tartes"],
+      "ptTargets": ["torta"],
+      "examples": [
+        { "level": "A1", "fr": "La tarte est sucrée.", "pt": "A torta é doce." },
+        { "level": "A2-B1", "fr": "Il y a des tartes aux fruits.", "pt": "Há tortas de frutas." },
+        { "level": "B2", "fr": "La tarte aux fruits, colorée, attire les gourmands.", "pt": "A torta de frutas, colorida, atrai os gulosos." },
+        { "level": "C1-C2", "fr": "C'est la tarte qui, délicate, conclut les repas en beauté.", "pt": "É a torta que, delicada, conclui as refeições com beleza." }
+      ]
+    },
+    {
+      "term": "le gâteau",
+      "definitionPt": "o bolo",
+      "definitionFr": "Pâtisserie sucrée.",
+      "inflections": ["le gâteau", "un gâteau", "des gâteaux"],
+      "ptTargets": ["bolo"],
+      "examples": [
+        { "level": "A1", "fr": "Le gâteau est bon.", "pt": "O bolo é bom." },
+        { "level": "A2-B1", "fr": "Je n'achète pas de gâteau aujourd'hui.", "pt": "Não compro bolo hoje." },
+        { "level": "B2", "fr": "Le gâteau, moelleux, est fait avec des œufs frais.", "pt": "O bolo, macio, é feito com ovos frescos." },
+        { "level": "C1-C2", "fr": "C'est le gâteau qui, partagé, célèbre les moments de joie.", "pt": "É o bolo que, partilhado, celebra os momentos de alegria." }
+      ]
+    },
+    {
+      "term": "le sac",
+      "definitionPt": "a sacola",
+      "definitionFr": "Objet pour porter des choses.",
+      "inflections": ["le sac", "un sac", "des sacs"],
+      "ptTargets": ["sacola", "saco"],
+      "examples": [
+        { "level": "A1", "fr": "Le sac est petit.", "pt": "A sacola é pequena." },
+        { "level": "A2-B1", "fr": "La boulangère met le gâteau dans un sac.", "pt": "A padeira coloca o bolo numa sacola." },
+        { "level": "B2", "fr": "Le sac en papier, solide, porte les viennoiseries.", "pt": "A sacola de papel, resistente, carrega as massas doces." },
+        { "level": "C1-C2", "fr": "C'est le sac qui, pratique, accompagne les achats du matin.", "pt": "É a sacola que, prática, acompanha as compras da manhã." }
+      ]
+    },
+    {
+      "term": "le petit déjeuner",
+      "definitionPt": "o café da manhã",
+      "definitionFr": "Premier repas de la journée.",
+      "inflections": ["le petit déjeuner", "un petit déjeuner"],
+      "ptTargets": ["café da manhã", "desjejum"],
+      "examples": [
+        { "level": "A1", "fr": "Le petit déjeuner est prêt.", "pt": "O café da manhã está pronto." },
+        { "level": "A2-B1", "fr": "La famille prend le petit déjeuner ensemble.", "pt": "A família toma o café da manhã junta." },
+        { "level": "B2", "fr": "Le petit déjeuner français : café, pain et viennoiseries.", "pt": "O café da manhã francês: café, pão e massas doces." },
+        { "level": "C1-C2", "fr": "C'est le petit déjeuner qui, partagé, commence la journée en douceur.", "pt": "É o café da manhã que, partilhado, começa o dia com suavidade." }
+      ]
+    },
+    {
+      "term": "la boulangère",
+      "definitionPt": "a padeira",
+      "definitionFr": "Femme qui fait et vend le pain.",
+      "inflections": ["la boulangère", "une boulangère", "des boulangères"],
+      "ptTargets": ["padeira"],
+      "examples": [
+        { "level": "A1", "fr": "La boulangère est gentille.", "pt": "A padeira é gentil." },
+        { "level": "A2-B1", "fr": "La boulangère sourit.", "pt": "A padeira sorri." },
+        { "level": "B2", "fr": "La boulangère, souriante, connaît tous ses clients.", "pt": "A padeira, sorridente, conhece todos os seus clientes." },
+        { "level": "C1-C2", "fr": "C'est la boulangère qui, matinale, réveille le quartier.", "pt": "É a padeira que, matinal, desperta o bairro." }
+      ]
+    },
+    {
+      "term": "assez",
+      "definitionPt": "bastante / suficiente",
+      "definitionFr": "Suffisamment.",
+      "inflections": ["assez"],
+      "ptTargets": ["bastante", "suficiente"],
+      "examples": [
+        { "level": "A1", "fr": "C'est assez.", "pt": "É suficiente." },
+        { "level": "A2-B1", "fr": "Nous avons déjà assez de douceurs !", "pt": "Já temos doces suficientes!" },
+        { "level": "B2", "fr": "Il y a assez de pain pour tout le monde.", "pt": "Há pão suficiente para todos." },
+        { "level": "C1-C2", "fr": "C'est assez que d'être ensemble pour être heureux.", "pt": "Basta estar junto para ser feliz." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Je voudrais : eu gostaria",
+    "explanationPt": "'Je voudrais' (eu gostaria) é a forma educada de pedir: 'Je voudrais une baguette' (gostaria de uma baguete), 'Nous voudrions deux croissants' (gostaríamos de dois croissants). É o conditionnel de 'vouloir'.",
+    "exampleFr": "Je voudrais une baguette, s'il vous plaît. Nous voudrions deux croissants.",
+    "examplePt": "Gostaria de uma baguete, por favor. Gostaríamos de dois croissants.",
+    "practiceQuestion": "Complete: 'Je _____ une baguette, s'il vous plaît.'",
+    "options": ["voudrais", "vouloir", "voudrai"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "La négation avec de",
+        "explanationPt": "Após a negação 'ne...pas', o artigo vira 'de': 'Je n'achète pas de gâteau' (não compro bolo), 'Il n'y a pas de pain' (não há pão).",
+        "exampleFr": "Je n'achète pas de gâteau aujourd'hui.",
+        "examplePt": "Não compro bolo hoje.",
+        "practiceQuestion": "Complete: 'Je n'achète pas _____ gâteau.'",
+        "options": ["de", "du", "un"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "S'il vous plaît : por favor",
+        "explanationPt": "'S'il vous plaît' (por favor, formal) com 'vous'; 's'il te plaît' (informal) com 'tu'. Usado ao pedir algo educadamente.",
+        "exampleFr": "Je voudrais une madeleine, s'il vous plaît.",
+        "examplePt": "Gostaria de uma madeleine, por favor.",
+        "practiceQuestion": "Complete: 'Je voudrais une madeleine, _____ .'",
+        "options": ["s'il vous plaît", "bonjour", "merci"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "O que Irlan pede na padaria?",
+      "options": ["baguete, dois croissants e pão de chocolate", "dois bolos e um suco", "cinco madeleines"],
+      "correctIndex": 0,
+      "explanation": "Nous voudrions une baguette, deux croissants et un pain au chocolat."
+    },
+    {
+      "question": "O que Íris pede?",
+      "options": ["uma madeleine", "um croissant", "uma torta"],
+      "correctIndex": 0,
+      "explanation": "Je voudrais une madeleine, s'il vous plaît."
+    },
+    {
+      "question": "Por que Irlan não compra bolo?",
+      "options": ["já têm doces suficientes", "está sem dinheiro", "não gosta de bolo"],
+      "correctIndex": 0,
+      "explanation": "Nous avons déjà assez de douceurs !"
+    },
+    {
+      "question": "Complete: 'Je _____ une baguette, s'il vous plaît.'",
+      "options": ["voudrais", "vouloir", "voudrai"],
+      "correctIndex": 0,
+      "explanation": "Je voudrais = eu gostaria."
+    },
+    {
+      "question": "Complete: 'Je n'achète pas _____ gâteau.'",
+      "options": ["de", "du", "un"],
+      "correctIndex": 0,
+      "explanation": "Negação + de."
+    }
+  ]
+}

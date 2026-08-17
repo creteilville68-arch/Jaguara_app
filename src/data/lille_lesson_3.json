@@ -1,0 +1,252 @@
+{
+  "id": "lille_lesson_3",
+  "cityId": "lille",
+  "domain": "Cultura",
+  "level": "Básico (A2)",
+  "titleFr": "La Braderie de Lille : le plus grand marché aux puces d'Europe",
+  "titlePt": "A Braderie de Lille: o maior mercado de pulgas da Europa",
+  "subtitleFr": "Des milliers d'étals, des objets anciens et la fête populaire du premier week-end de septembre",
+  "subtitlePt": "Milhares de barracas, objetos antigos e a festa popular do primeiro fim de semana de setembro",
+  "summaryPt": "Nesta Aula 3 (A2), a família visita a Braderie de Lille, o maior mercado de pulgas da Europa, que acontece no primeiro fim de semana de setembro. Eles passeiam entre as barracas, encontram livros e cartões antigos e compram lembranças. O aluno aprende o Passé Composé com être (nous sommes allés, je suis tombé) e a concordância do particípio passado.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "C'est le premier week-end de septembre : c'est la Braderie de Lille ! Des milliers de vendeurs ont installé leurs étals dans toute la ville.",
+      "pt": "É o primeiro fim de semana de setembro: é a Braderie de Lille! Milhares de vendedores instalaram suas barracas por toda a cidade."
+    },
+    {
+      "id": 2,
+      "fr": "Nous sommes allés de stand en stand. Íris a trouvé un vieux jouet en bois et Irlan est tombé sur des cartes postales anciennes.",
+      "pt": "Nós fomos de barraca em barraca. Íris encontrou um brinquedo de madeira antigo e Irlan encontrou cartões-postais antigos."
+    },
+    {
+      "id": 3,
+      "fr": "Andréa a choisi une petite lampe et un livre de recettes du Nord. Nous avons négocié le prix avec un vendeur très sympa.",
+      "pt": "Andréa escolheu uma pequena lâmpada e um livro de receitas do Norte. Nós negociamos o preço com um vendedor muito simpático."
+    },
+    {
+      "id": 4,
+      "fr": "À midi, nous sommes restés pour manger des moules-frites, le plat traditionnel de la Braderie. Quelle belle journée !",
+      "pt": "Ao meio-dia, ficamos para comer moules-frites, o prato tradicional da Braderie. Que dia lindo!"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "le marché",
+      "definitionPt": "o mercado",
+      "definitionFr": "Lieu où l'on vend des produits, souvent en plein air.",
+      "inflections": ["le marché", "les marchés"],
+      "ptTargets": ["mercado"],
+      "examples": [
+        { "level": "A1", "fr": "Le marché est ouvert le matin.", "pt": "O mercado abre de manhã." },
+        { "level": "A2-B1", "fr": "La Braderie est le plus grand marché aux puces d'Europe.", "pt": "A Braderie é o maior mercado de pulgas da Europa." },
+        { "level": "B2", "fr": "Le marché aux puces attire des visiteurs de toute l'Europe.", "pt": "O mercado de pulgas atrai visitantes de toda a Europa." },
+        { "level": "C1-C2", "fr": "Les grands marchés populaires structurent la vie sociale et économique des métropoles.", "pt": "Os grandes mercados populares estruturam a vida social e econômica das metrópoles." }
+      ]
+    },
+    {
+      "term": "l'objet",
+      "definitionPt": "o objeto",
+      "definitionFr": "Chose matérielle, souvent utile ou décorative.",
+      "inflections": ["l'objet", "les objets"],
+      "ptTargets": ["objeto"],
+      "examples": [
+        { "level": "A1", "fr": "L'objet est petit.", "pt": "O objeto é pequeno." },
+        { "level": "A2-B1", "fr": "Les étals sont remplis d'objets anciens.", "pt": "As barracas estão cheias de objetos antigos." },
+        { "level": "B2", "fr": "Nous avons cherché des objets originaux pour la maison.", "pt": "Nós procuramos objetos originais para a casa." },
+        { "level": "C1-C2", "fr": "Chaque objet de brocante raconte une histoire personnelle et sociale unique.", "pt": "Cada objeto de brechó conta uma história pessoal e social única." }
+      ]
+    },
+    {
+      "term": "le prix",
+      "definitionPt": "o preço",
+      "definitionFr": "La somme d'argent demandée pour un produit.",
+      "inflections": ["le prix", "les prix"],
+      "ptTargets": ["preço"],
+      "examples": [
+        { "level": "A1", "fr": "Quel est le prix ?", "pt": "Qual é o preço?" },
+        { "level": "A2-B1", "fr": "Nous avons négocié le prix avec le vendeur.", "pt": "Nós negociamos o preço com o vendedor." },
+        { "level": "B2", "fr": "Les prix à la Braderie sont souvent très raisonnables.", "pt": "Os preços na Braderie costumam ser muito razoáveis." },
+        { "level": "C1-C2", "fr": "La négociation des prix fait partie intégrante de la tradition des marchés aux puces.", "pt": "A negociação de preços faz parte integrante da tradição dos mercados de pulgas." }
+      ]
+    },
+    {
+      "term": "le vendeur",
+      "definitionPt": "o vendedor",
+      "definitionFr": "Personne qui vend des produits.",
+      "inflections": ["le vendeur", "la vendeuse", "les vendeurs"],
+      "ptTargets": ["vendedor"],
+      "examples": [
+        { "level": "A1", "fr": "Le vendeur est très gentil.", "pt": "O vendedor é muito gentil." },
+        { "level": "A2-B1", "fr": "Le vendeur a expliqué l'histoire de la lampe.", "pt": "O vendedor explicou a história da lâmpada." },
+        { "level": "B2", "fr": "Les vendeurs de la Braderie viennent de toute la région.", "pt": "Os vendedores da Braderie vêm de toda a região." },
+        { "level": "C1-C2", "fr": "Un vendeur passionné sait transmettre la valeur sentimentale de ses objets.", "pt": "Um vendedor apaixonado sabe transmitir o valor sentimental de seus objetos." }
+      ]
+    },
+    {
+      "term": "chercher",
+      "definitionPt": "procurar",
+      "definitionFr": "Essayer de trouver quelque chose.",
+      "inflections": ["je cherche", "nous cherchons", "cherché"],
+      "ptTargets": ["procurar"],
+      "examples": [
+        { "level": "A1", "fr": "Je cherche mon sac.", "pt": "Eu procuro minha bolsa." },
+        { "level": "A2-B1", "fr": "Nous avons cherché des souvenirs toute la matinée.", "pt": "Nós procuramos lembranças a manhã inteira." },
+        { "level": "B2", "fr": "Il cherchait une carte ancienne de la région.", "pt": "Ele procurava um mapa antigo da região." },
+        { "level": "C1-C2", "fr": "Chercher un objet rare dans une brocante demande de la patience et de l'attention.", "pt": "Procurar um objeto raro em um brechó exige paciência e atenção." }
+      ]
+    },
+    {
+      "term": "trouver",
+      "definitionPt": "encontrar",
+      "definitionFr": "Découvrir ce que l'on cherchait.",
+      "inflections": ["je trouve", "nous trouvons", "trouvé"],
+      "ptTargets": ["encontrar"],
+      "examples": [
+        { "level": "A1", "fr": "Je trouve la clé.", "pt": "Eu encontro a chave." },
+        { "level": "A2-B1", "fr": "Íris a trouvé un vieux jouet en bois.", "pt": "Íris encontrou um brinquedo de madeira antigo." },
+        { "level": "B2", "fr": "Nous avons trouvé une magnifique lampe à un bon prix.", "pt": "Nós encontramos uma lâmpada magnífica a um bom preço." },
+        { "level": "C1-C2", "fr": "Trouver un trésor inattendu parmi les étals fait tout le charme de la chine.", "pt": "Encontrar um tesouro inesperado entre as barracas é todo o charme de garimpar." }
+      ]
+    },
+    {
+      "term": "choisir",
+      "definitionPt": "escolher",
+      "definitionFr": "Prendre une chose plutôt qu'une autre.",
+      "inflections": ["je choisis", "nous choisissons", "choisi"],
+      "ptTargets": ["escolher"],
+      "examples": [
+        { "level": "A1", "fr": "Je choisis une pomme.", "pt": "Eu escolho uma maçã." },
+        { "level": "A2-B1", "fr": "Andréa a choisi une petite lampe.", "pt": "Andréa escolheu uma pequena lâmpada." },
+        { "level": "B2", "fr": "Il est difficile de choisir parmi tant de beaux objets.", "pt": "É difícil escolher entre tantos objetos bonitos." },
+        { "level": "C1-C2", "fr": "Choisir avec soin un objet ancien, c'est lui offrir une seconde vie.", "pt": "Escolher com cuidado um objeto antigo é dar a ele uma segunda vida." }
+      ]
+    },
+    {
+      "term": "le livre",
+      "definitionPt": "o livro",
+      "definitionFr": "Ensemble de pages imprimées reliées ensemble.",
+      "inflections": ["le livre", "les livres"],
+      "ptTargets": ["livro"],
+      "examples": [
+        { "level": "A1", "fr": "Le livre est sur la table.", "pt": "O livro está na mesa." },
+        { "level": "A2-B1", "fr": "Andréa a acheté un livre de recettes du Nord.", "pt": "Andréa comprou um livro de receitas do Norte." },
+        { "level": "B2", "fr": "Les bouquinistes de la Braderie proposent des livres rares.", "pt": "Os sebos da Braderie oferecem livros raros." },
+        { "level": "C1-C2", "fr": "Chiner un vieux livre, c'est sauvegarder un fragment de la mémoire collective.", "pt": "Garimpar um livro antigo é preservar um fragmento da memória coletiva." }
+      ]
+    },
+    {
+      "term": "le jouet",
+      "definitionPt": "o brinquedo",
+      "definitionFr": "Objet destiné aux jeux des enfants.",
+      "inflections": ["le jouet", "les jouets"],
+      "ptTargets": ["brinquedo"],
+      "examples": [
+        { "level": "A1", "fr": "Le jouet est cassé.", "pt": "O brinquedo está quebrado." },
+        { "level": "A2-B1", "fr": "Íris a trouvé un joli jouet en bois.", "pt": "Íris encontrou um brinquedo de madeira bonito." },
+        { "level": "B2", "fr": "Les jouets anciens fascinent les collectionneurs.", "pt": "Os brinquedos antigos fascinam os colecionadores." },
+        { "level": "C1-C2", "fr": "Les jouets d'autrefois, fabriqués à la main, témoignent d'un savoir-faire artisanal précieux.", "pt": "Os brinquedos de antigamente, feitos à mão, testemunham um saber-fazer artesanal precioso." }
+      ]
+    },
+    {
+      "term": "donner",
+      "definitionPt": "dar",
+      "definitionFr": "Offrir quelque chose à quelqu'un.",
+      "inflections": ["je donne", "nous donnons", "donné"],
+      "ptTargets": ["dar"],
+      "examples": [
+        { "level": "A1", "fr": "Je donne un cadeau.", "pt": "Eu dou um presente." },
+        { "level": "A2-B1", "fr": "Le vendeur a donné une réduction à la fin.", "pt": "O vendedor deu um desconto no final." },
+        { "level": "B2", "fr": "Elle a donné les cartes postales à sa mère.", "pt": "Ela deu os cartões-postais para a mãe." },
+        { "level": "C1-C2", "fr": "Donner une seconde vie aux objets anciens est une démarche écologique et culturelle.", "pt": "Dar uma segunda vida aos objetos antigos é uma atitude ecológica e cultural." }
+      ]
+    },
+    {
+      "term": "le souvenir",
+      "definitionPt": "a lembrança",
+      "definitionFr": "Objet ou image qui rappelle un moment passé.",
+      "inflections": ["le souvenir", "les souvenirs"],
+      "ptTargets": ["lembrança"],
+      "examples": [
+        { "level": "A1", "fr": "Le souvenir est joli.", "pt": "A lembrança é bonita." },
+        { "level": "A2-B1", "fr": "Nous avons acheté des souvenirs à la Braderie.", "pt": "Nós compramos lembranças na Braderie." },
+        { "level": "B2", "fr": "Chaque souvenir de voyage raconte une histoire particulière.", "pt": "Cada lembrança de viagem conta uma história particular." },
+        { "level": "C1-C2", "fr": "Les souvenirs matériels deviennent les gardiens de nos émotions les plus intimes.", "pt": "As lembranças materiais tornam-se guardiãs de nossas emoções mais íntimas." }
+      ]
+    },
+    {
+      "term": "la carte postale",
+      "definitionPt": "o cartão-postal",
+      "definitionFr": "Petit carton avec une image, envoyé pendant un voyage.",
+      "inflections": ["la carte postale", "les cartes postales"],
+      "ptTargets": ["cartão-postal"],
+      "examples": [
+        { "level": "A1", "fr": "J'envoie une carte postale.", "pt": "Eu envio um cartão-postal." },
+        { "level": "A2-B1", "fr": "Irlan a trouvé des cartes postales anciennes de Lille.", "pt": "Irlan encontrou cartões-postais antigos de Lille." },
+        { "level": "B2", "fr": "Les cartes postales anciennes montrent la ville avant sa modernisation.", "pt": "Os cartões-postais antigos mostram a cidade antes de sua modernização." },
+        { "level": "C1-C2", "fr": "La collection de cartes postales constitue un témoignage précieux de l'évolution urbaine.", "pt": "A coleção de cartões-postais constitui um testemunho precioso da evolução urbana." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Le Passé Composé avec ÊTRE (je suis allé, nous sommes arrivés)",
+    "explanationPt": "Verbos de movimento (aller, arriver, partir, rester, tomber) usam o auxiliar être no Passé Composé. O particípio concorda com o sujeito: 'Íris est tombée', 'nous sommes allés'.",
+    "exampleFr": "Nous sommes allés de stand en stand.",
+    "examplePt": "Nós fomos de barraca em barraca.",
+    "practiceQuestion": "Complete: « Íris ___ tombée sur un vieux jouet. »",
+    "options": ["est", "a", "suis"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "Le Passé Composé avec être",
+        "explanationPt": "Com être, o particípio concorda com o sujeito: 'elle est allée', 'ils sont partis', 'nous sommes restés'.",
+        "exampleFr": "Nous sommes restés pour manger des moules-frites.",
+        "examplePt": "Nós ficamos para comer moules-frites.",
+        "practiceQuestion": "Qual frase está correta?",
+        "options": ["Andréa est allée au marché.", "Andréa est allé au marché.", "Andréa a allée au marché."],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "Verbes de mouvement : aller, arriver, rester, tomber",
+        "explanationPt": "Memorize os principais verbos que usam être: aller, arriver, partir, rester, tomber, monter, descendre, entrer, sortir.",
+        "exampleFr": "Irlan est tombé sur des cartes postales anciennes.",
+        "examplePt": "Irlan encontrou cartões-postais antigos.",
+        "practiceQuestion": "Qual verbo usa o auxiliar être no Passé Composé?",
+        "options": ["arriver", "manger", "acheter"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Quando acontece a Braderie de Lille?",
+      "options": ["le premier week-end de septembre", "en décembre", "au printemps"],
+      "correctIndex": 0,
+      "explanation": "A Braderie acontece no primeiro fim de semana de setembro."
+    },
+    {
+      "question": "O que a família comeu ao meio-dia na Braderie?",
+      "options": ["des moules-frites", "du welsh", "des crêpes"],
+      "correctIndex": 0,
+      "explanation": "As moules-frites são o prato tradicional da Braderie."
+    },
+    {
+      "question": "Complete com o Passé Composé: « Nous ___ de stand en stand. »",
+      "options": ["sommes allés", "avons allé", "allons"],
+      "correctIndex": 0,
+      "explanation": "'Aller' usa être: nous sommes allés."
+    },
+    {
+      "question": "O que Íris encontrou na Braderie?",
+      "options": ["un vieux jouet en bois", "une montre", "un manteau"],
+      "correctIndex": 0,
+      "explanation": "Íris encontrou um brinquedo de madeira antigo."
+    },
+    {
+      "question": "Qual frase está gramaticalmente correta?",
+      "options": ["Andréa est restée pour manger.", "Andréa est resté pour manger.", "Andréa a restée pour manger."],
+      "correctIndex": 0,
+      "explanation": "Com être, o particípio concorda: restée (feminino)."
+    }
+  ]
+}

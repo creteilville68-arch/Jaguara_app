@@ -1,0 +1,252 @@
+{
+  "id": "strasbourg_lesson_7",
+  "cityId": "strasbourg",
+  "domain": "Gastronomia",
+  "level": "Avançado (C1+)",
+  "titleFr": "La cuisine alsacienne : choucroute et flammekueche",
+  "titlePt": "A cozinha alsaciana: choucroute e flammekueche",
+  "subtitleFr": "Le repas de famille dans une winstub et les saveurs du Rhin",
+  "subtitlePt": "A refeição em família numa winstub e os sabores do Reno",
+  "summaryPt": "Nesta Aula 7 (C1+), a família janta numa winstub, o restaurante típico alsaciano, e prova choucroute, flammekueche e kouglof. O aluno domina os conectores argumentativos avançados: 'néanmoins', 'toutefois', 'en outre', 'de surcroît', 'par conséquent'.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Dans la winstub, la serveuse a posé une grande choucroute fumante. « La préparation de la choucroute demande plusieurs semaines, a-t-elle expliqué. La fermentation du chou, elle, est le secret du goût. Néanmoins, il faut savoir la servir avec les bonnes charcuteries. »",
+      "pt": "Na winstub, a garçonete pousou uma grande choucroute fumegante. « A preparação da choucroute exige várias semanas, explicou ela. A fermentação do repolho, ela, é o segredo do gosto. No entanto, é preciso saber servi-la com os bons embutidos. »"
+    },
+    {
+      "id": 2,
+      "fr": "Iris a goûté la flammekueche : « C'est comme une pizza, mais en plus fin ! » Andréa a ri : « La cuisson de la flammekueche, faite à très haute température, la rend croustillante. Toutefois, la vraie recette demande de la crème, des oignons et des lardons. En outre, elle se mange bien chaude. »",
+      "pt": "Íris provou a flammekueche: « É como uma pizza, mas mais fina! » Andréa riu: « O cozimento da flammekueche, feito a temperatura muito alta, a deixa crocante. Contudo, a verdadeira receita exige creme, cebolas e bacon. Além disso, ela se come bem quente. »"
+    },
+    {
+      "id": 3,
+      "fr": "Pour le dessert, un kouglof a été servi. « La réussite du kouglof dépend de la patience, a dit Irlan. La levée de la pâte, elle, demande plusieurs heures. De surcroît, le moule en terre cuite est indispensable. Par conséquent, on ne le prépare pas à la hâte. »",
+      "pt": "Na sobremesa, um kouglof foi servido. « O sucesso do kouglof depende da paciência, disse Irlan. O crescimento da massa, ele, exige várias horas. Ademais, a forma de barro é indispensável. Por conseguinte, não se prepara com pressa. »"
+    },
+    {
+      "id": 4,
+      "fr": "En sortant, Andréa a conclu : « La cuisine alsacienne est une cuisine de partage. La réputation de la région, bâtie sur ces plats, attire les gourmets du monde entier. Néanmoins, le meilleur souvenir reste le goût du repas partagé en famille. Par conséquent, nous reviendrons ! »",
+      "pt": "Ao sair, Andréa concluiu: « A cozinha alsaciana é uma cozinha de partilha. A reputação da região, construída sobre esses pratos, atrai gourmets do mundo inteiro. No entanto, a melhor lembrança continua sendo o gosto da refeição partilhada em família. Por conseguinte, voltaremos! »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "la choucroute",
+      "definitionPt": "a choucroute (chucrute)",
+      "definitionFr": "Chou fermenté, plat alsacien.",
+      "inflections": ["la choucroute", "les choucroutes"],
+      "ptTargets": ["choucroute", "chucrute"],
+      "examples": [
+        { "level": "A1", "fr": "La choucroute est chaude.", "pt": "A choucroute é quente." },
+        { "level": "A2-B1", "fr": "La choucroute est le plat alsacien le plus célèbre.", "pt": "A choucroute é o prato alsaciano mais famoso." },
+        { "level": "B1-B2", "fr": "La choucroute, servie avec des saucisses, est un plat généreux.", "pt": "A choucroute, servida com salsichas, é um prato generoso." },
+        { "level": "C1-C2", "fr": "C'est la fermentation du chou qui donne à la choucroute sa saveur unique.", "pt": "É a fermentação do repolho que dá à choucroute seu sabor único." }
+      ]
+    },
+    {
+      "term": "la fermentation",
+      "definitionPt": "a fermentação",
+      "definitionFr": "Transformation des aliments par des micro-organismes.",
+      "inflections": ["la fermentation", "les fermentations"],
+      "ptTargets": ["fermentação"],
+      "examples": [
+        { "level": "A1", "fr": "La fermentation est lente.", "pt": "A fermentação é lenta." },
+        { "level": "A2-B1", "fr": "La fermentation du chou dure des semaines.", "pt": "A fermentação do repolho dura semanas." },
+        { "level": "B1-B2", "fr": "La fermentation, qui transforme le chou, est le secret de la choucroute.", "pt": "A fermentação, que transforma o repolho, é o segredo da choucroute." },
+        { "level": "C1-C2", "fr": "C'est la maîtrise de la fermentation qui distingue les grands cuisiniers alsaciens.", "pt": "É o domínio da fermentação que distingue os grandes cozinheiros alsacianos." }
+      ]
+    },
+    {
+      "term": "le chou",
+      "definitionPt": "o repolho",
+      "definitionFr": "Légume à feuilles serrées.",
+      "inflections": ["le chou", "les choux"],
+      "ptTargets": ["repolho"],
+      "examples": [
+        { "level": "A1", "fr": "Le chou est vert.", "pt": "O repolho é verde." },
+        { "level": "A2-B1", "fr": "La choucroute est faite avec du chou.", "pt": "A choucroute é feita com repolho." },
+        { "level": "B1-B2", "fr": "Le chou, fermenté plusieurs semaines, devient une spécialité.", "pt": "O repolho, fermentado por várias semanas, vira uma especialidade." },
+        { "level": "C1-C2", "fr": "C'est le chou fermenté qui symbolise la cuisine alsacienne.", "pt": "É o repolho fermentado que simboliza a cozinha alsaciana." }
+      ]
+    },
+    {
+      "term": "la flammekueche",
+      "definitionPt": "a flammekueche (torta flambada)",
+      "definitionFr": "Tarte alsacienne à la crème, aux oignons et aux lardons.",
+      "inflections": ["la flammekueche", "les flammekueches"],
+      "ptTargets": ["flammekueche", "torta flambada"],
+      "examples": [
+        { "level": "A1", "fr": "La flammekueche est fine.", "pt": "A flammekueche é fina." },
+        { "level": "A2-B1", "fr": "La flammekueche se mange chaude.", "pt": "A flammekueche se come quente." },
+        { "level": "B1-B2", "fr": "La flammekueche, cuite à très haute température, est croustillante.", "pt": "A flammekueche, assada a temperatura muito alta, é crocante." },
+        { "level": "C1-C2", "fr": "C'est la cuisson au feu de bois qui donne à la flammekueche son goût authentique.", "pt": "É o cozimento a fogo de lenha que dá à flammekueche seu gosto autêntico." }
+      ]
+    },
+    {
+      "term": "le lardon",
+      "definitionPt": "o bacon em cubos",
+      "definitionFr": "Petit morceau de bacon.",
+      "inflections": ["le lardon", "les lardons"],
+      "ptTargets": ["bacon em cubos", "torresmo"],
+      "examples": [
+        { "level": "A1", "fr": "Le lardon est salé.", "pt": "O lardon é salgado." },
+        { "level": "A2-B1", "fr": "La flammekueche contient des lardons.", "pt": "A flammekueche contém lardons." },
+        { "level": "B1-B2", "fr": "Les lardons, dorés à la poêle, parfument la tarte.", "pt": "Os lardons, dourados na frigideira, perfumam a torta." },
+        { "level": "C1-C2", "fr": "C'est l'équilibre entre lardons et oignons qui fait une grande flammekueche.", "pt": "É o equilíbrio entre lardons e cebolas que faz uma grande flammekueche." }
+      ]
+    },
+    {
+      "term": "l'oignon",
+      "definitionPt": "a cebola",
+      "definitionFr": "Légume au goût fort.",
+      "inflections": ["l'oignon", "les oignons"],
+      "ptTargets": ["cebola"],
+      "examples": [
+        { "level": "A1", "fr": "L'oignon est fort.", "pt": "A cebola é forte." },
+        { "level": "A2-B1", "fr": "La flammekueche contient des oignons.", "pt": "A flammekueche contém cebolas." },
+        { "level": "B1-B2", "fr": "Les oignons, émincés finement, fondent à la cuisson.", "pt": "As cebolas, fatiadas finamente, derretem no cozimento." },
+        { "level": "C1-C2", "fr": "C'est la cuisson douce des oignons qui adoucit la tarte alsacienne.", "pt": "É o cozimento suave das cebolas que suaviza a torta alsaciana." }
+      ]
+    },
+    {
+      "term": "la pâte",
+      "definitionPt": "a massa",
+      "definitionFr": "Préparation à base de farine.",
+      "inflections": ["la pâte", "les pâtes"],
+      "ptTargets": ["massa"],
+      "examples": [
+        { "level": "A1", "fr": "La pâte est molle.", "pt": "A massa é macia." },
+        { "level": "A2-B1", "fr": "La pâte du kouglof doit lever.", "pt": "A massa do kouglof deve crescer." },
+        { "level": "B1-B2", "fr": "La pâte, pétrie longuement, devient légère et aérienne.", "pt": "A massa, sovada longamente, fica leve e arejada." },
+        { "level": "C1-C2", "fr": "C'est la préparation de la pâte qui demande le plus de patience au pâtissier.", "pt": "É a preparação da massa que exige mais paciência do confeiteiro." }
+      ]
+    },
+    {
+      "term": "le moule",
+      "definitionPt": "a forma",
+      "definitionFr": "Récipient qui donne sa forme à un gâteau.",
+      "inflections": ["le moule", "les moules"],
+      "ptTargets": ["forma"],
+      "examples": [
+        { "level": "A1", "fr": "Le moule est rond.", "pt": "A forma é redonda." },
+        { "level": "A2-B1", "fr": "Le kouglof se cuit dans un moule en terre cuite.", "pt": "O kouglof é assado numa forma de barro." },
+        { "level": "B1-B2", "fr": "Le moule, strié, donne au gâteau sa forme de couronne.", "pt": "A forma, canelada, dá ao bolo sua forma de coroa." },
+        { "level": "C1-C2", "fr": "C'est le moule traditionnel qui fait du kouglof un gâteau reconnaissable.", "pt": "É a forma tradicional que faz do kouglof um bolo reconhecível." }
+      ]
+    },
+    {
+      "term": "la levée",
+      "definitionPt": "o crescimento (da massa)",
+      "definitionFr": "Action de lever, de gonfler.",
+      "inflections": ["la levée", "les levées"],
+      "ptTargets": ["crescimento", "fermentação da massa"],
+      "examples": [
+        { "level": "A1", "fr": "La levée est lente.", "pt": "O crescimento é lento." },
+        { "level": "A2-B1", "fr": "La levée de la pâte demande des heures.", "pt": "O crescimento da massa exige horas." },
+        { "level": "B1-B2", "fr": "La levée, qui double le volume de la pâte, est essentielle.", "pt": "O crescimento, que dobra o volume da massa, é essencial." },
+        { "level": "C1-C2", "fr": "C'est la patience de la levée qui donne au kouglof sa légèreté.", "pt": "É a paciência do crescimento que dá ao kouglof sua leveza." }
+      ]
+    },
+    {
+      "term": "la winstub",
+      "definitionPt": "a winstub (restaurante alsaciano)",
+      "definitionFr": "Restaurant traditionnel alsacien.",
+      "inflections": ["la winstub", "les winstubs"],
+      "ptTargets": ["winstub", "restaurante alsaciano"],
+      "examples": [
+        { "level": "A1", "fr": "La winstub est chaleureuse.", "pt": "A winstub é acolhedora." },
+        { "level": "A2-B1", "fr": "La famille a dîné dans une winstub.", "pt": "A família jantou numa winstub." },
+        { "level": "B1-B2", "fr": "Les winstubs, qui servent la cuisine locale, sont typiques de Strasbourg.", "pt": "As winstubs, que servem a cozinha local, são típicas de Strasbourg." },
+        { "level": "C1-C2", "fr": "C'est dans les winstubs que se perpétue l'âme gourmande de l'Alsace.", "pt": "É nas winstubs que se perpetua a alma gulosa da Alsácia." }
+      ]
+    },
+    {
+      "term": "la crème",
+      "definitionPt": "o creme",
+      "definitionFr": "Produit laitier onctueux.",
+      "inflections": ["la crème", "les crèmes"],
+      "ptTargets": ["creme"],
+      "examples": [
+        { "level": "A1", "fr": "La crème est douce.", "pt": "O creme é suave." },
+        { "level": "A2-B1", "fr": "La flammekueche contient de la crème.", "pt": "A flammekueche contém creme." },
+        { "level": "B1-B2", "fr": "La crème, étalée finement, rend la tarte onctueuse.", "pt": "O creme, espalhado finamente, torna a torta cremosa." },
+        { "level": "C1-C2", "fr": "C'est la crème fraîche qui adoucit les saveurs de la flammekueche.", "pt": "É o creme fresco que suaviza os sabores da flammekueche." }
+      ]
+    },
+    {
+      "term": "le gourmet",
+      "definitionPt": "o gourmet",
+      "definitionFr": "Personne qui apprécie la bonne cuisine.",
+      "inflections": ["le gourmet", "les gourmets"],
+      "ptTargets": ["gourmet"],
+      "examples": [
+        { "level": "A1", "fr": "Le gourmet mange bien.", "pt": "O gourmet come bem." },
+        { "level": "A2-B1", "fr": "Les gourmets viennent du monde entier.", "pt": "Os gourmets vêm do mundo inteiro." },
+        { "level": "B1-B2", "fr": "Les gourmets, qui cherchent l'authenticité, adorent l'Alsace.", "pt": "Os gourmets, que buscam autenticidade, adoram a Alsácia." },
+        { "level": "C1-C2", "fr": "C'est pour les gourmets que la cuisine alsacienne réserve ses plus belles tables.", "pt": "É para os gourmets que a cozinha alsaciana reserva suas mais belas mesas." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Les connecteurs argumentatifs avancés",
+    "explanationPt": "A argumentação formal usa conectores de precisão: 'néanmoins' (no entanto), 'toutefois' (contudo), 'en outre' (além disso), 'de surcroît' (ademais), 'par conséquent' (por conseguinte). Eles organizam o discurso em textos densos e elegantes.",
+    "exampleFr": "La fermentation du chou est le secret du goût. Néanmoins, il faut savoir la servir avec les bonnes charcuteries.",
+    "examplePt": "A fermentação do repolho é o segredo do gosto. No entanto, é preciso saber servi-la com os bons embutidos.",
+    "practiceQuestion": "Complete: « La recette demande des oignons. ___ , elle demande des lardons. »",
+    "options": ["En outre", "Parce que", "Avant que"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "La nominalisation culinaire",
+        "explanationPt": "Estilo formal: 'la préparation de la choucroute' (a preparação), 'la cuisson de la flammekueche' (o cozimento), 'la levée de la pâte' (o crescimento da massa), 'la réussite du kouglof' (o sucesso).",
+        "exampleFr": "La cuisson de la flammekueche, faite à très haute température, la rend croustillante.",
+        "examplePt": "O cozimento da flammekueche, feito a temperatura muito alta, a deixa crocante.",
+        "practiceQuestion": "Complete: « La ___ de la pâte demande plusieurs heures. »",
+        "options": ["levée", "lever", "levée pas"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "Par conséquent : la conclusion argumentative",
+        "explanationPt": "Para concluir uma argumentação: 'Par conséquent, on ne le prépare pas à la hâte' (por conseguinte, não se prepara com pressa), 'Par conséquent, nous reviendrons'.",
+        "exampleFr": "Par conséquent, on ne prépare pas le kouglof à la hâte.",
+        "examplePt": "Por conseguinte, não se prepara o kouglof com pressa.",
+        "practiceQuestion": "Complete: « ___ , on ne prépare pas le kouglof à la hâte. »",
+        "options": ["Par conséquent", "Avant que", "Pour que"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "O que é uma winstub?",
+      "options": ["um restaurante típico alsaciano", "um museu", "uma igreja"],
+      "correctIndex": 0,
+      "explanation": "A winstub é o restaurante tradicional alsaciano."
+    },
+    {
+      "question": "Qual é o segredo do gosto da choucroute?",
+      "options": ["a fermentação do repolho", "o açúcar", "a pimenta"],
+      "correctIndex": 0,
+      "explanation": "A fermentação do chou é o segredo do sabor da choucroute."
+    },
+    {
+      "question": "O que torna a flammekueche crocante?",
+      "options": ["o cozimento a alta temperatura", "o congelamento", "o açúcar"],
+      "correctIndex": 0,
+      "explanation": "A flammekueche é assada a temperatura muito alta, o que a deixa crocante."
+    },
+    {
+      "question": "Complete: « La ___ de la pâte demande plusieurs heures. »",
+      "options": ["levée", "lever", "levée pas"],
+      "correctIndex": 0,
+      "explanation": "Nominalização: la levée de la pâte (o crescimento da massa)."
+    },
+    {
+      "question": "Qual é a sobremesa servida na winstub?",
+      "options": ["o kouglof", "o canelé", "as bugnes"],
+      "correctIndex": 0,
+      "explanation": "O kouglof, brioche em forma de coroa, é a sobremesa alsaciana."
+    }
+  ]
+}

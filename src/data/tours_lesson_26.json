@@ -1,0 +1,237 @@
+{
+  "id": "tours_lesson_26",
+  "cityId": "tours",
+  "domain": "Gastronomia",
+  "level": "Intermediário (B1)",
+  "titleFr": "Le vignoble de Touraine : les vendanges d'automne",
+  "titlePt": "A vinha da Touraine: a colheita de outono",
+  "subtitleFr": "Entre Loire et Cher, la vigne travaille depuis mille ans",
+  "subtitlePt": "Entre Loire e Cher, a vinha trabalha há mil anos",
+  "summaryPt": "Nesta Aula 26 (B1), a família participa das vendanges numa vinha da Touraine: cortar os cachos, encher as caixas, sentir o perfume das uvas. O aluno pratica o vocabulário da vinha (la vigne, le raisin, le cep, les vendanges) e a comparação (plus doux que).",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "« C'est la saison des vendanges », a dit le vigneron. « Les raisins sont mûrs. Aujourd'hui, vous allez m'aider à les couper. » La famille a pris ses sécateurs.",
+      "pt": "« É a estação da colheita », disse o vinicultor. « As uvas estão maduras. Hoje, vocês vão me ajudar a cortá-las. » A família pegou suas tesouras de poda."
+    },
+    {
+      "id": 2,
+      "fr": "Entre les rangées de ceps, Iris cherchait les plus beaux raisins. « Celui-ci est plus gros que le mien ! » a-t-elle crié. Andréa a ri : « Ne mange pas tout, petite gourmande ! »",
+      "pt": "Entre as fileiras de cepas, Íris procurava as uvas mais bonitas. « Esta é maior que a minha! » gritou. Andréa riu: « Não coma tudo, pequena gulosa! »"
+    },
+    {
+      "id": 3,
+      "fr": "« La vigne aime le soleil et le calcaire », a expliqué Irlan. « Le sol de la Touraine est parfait pour elle. C'est pour cela que les vins d'ici sont si réputés. »",
+      "pt": "« A videira gosta de sol e calcário », explicou Irlan. « O solo da Touraine é perfeito para ela. Por isso os vinhos daqui são tão renomados. »"
+    },
+    {
+      "id": 4,
+      "fr": "Le soir, la famille a rempli des centaines de caisses. « Quand j'étais livreur, je ne connaissais pas la vigne », a dit Irlan. « Maintenant, je sais que chaque bouteille commence ici, dans cette terre. »",
+      "pt": "À noite, a família encheu centenas de caixas. « Quando eu era entregador, eu não conhecia a videira », disse Irlan. « Agora, sei que cada garrafa começa aqui, nesta terra. »"
+    },
+    {
+      "id": 5,
+      "fr": "Le vigneron a offert un verre de jus de raisin à Iris. « Goûte : c'est la Touraine dans un verre. » Iris a bu et a souri : « C'est plus doux que le miel ! »",
+      "pt": "O vinicultor ofereceu um copo de suco de uva a Íris. « Prove: é a Touraine num copo. » Íris bebeu e sorriu: « É mais doce que o mel! »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "la vigne",
+      "definitionPt": "a videira",
+      "definitionFr": "Plante qui produit le raisin.",
+      "inflections": ["la vigne", "une vigne", "des vignes"],
+      "ptTargets": ["videira", "vinha"],
+      "examples": [
+        { "level": "A1", "fr": "La vigne est verte.", "pt": "A videira é verde." },
+        { "level": "A2-B1", "fr": "La vigne aime le soleil.", "pt": "A videira gosta de sol." },
+        { "level": "B1", "fr": "La vigne qui pousse ici est très ancienne.", "pt": "A videira que cresce aqui é muito antiga." },
+        { "level": "C1-C2", "fr": "La vigne, élève patiente de la terre, offre ses fruits aux saisons.", "pt": "A videira, aluna paciente da terra, oferece seus frutos às estações." }
+      ]
+    },
+    {
+      "term": "le raisin",
+      "definitionPt": "a uva",
+      "definitionFr": "Fruit de la vigne.",
+      "inflections": ["le raisin", "du raisin", "des raisins"],
+      "ptTargets": ["uva"],
+      "examples": [
+        { "level": "A1", "fr": "Le raisin est sucré.", "pt": "A uva é doce." },
+        { "level": "A2-B1", "fr": "Les raisins sont mûrs en automne.", "pt": "As uvas estão maduras no outono." },
+        { "level": "B1", "fr": "Les raisins que nous avons coupés sont parfaits.", "pt": "As uvas que cortamos estão perfeitas." },
+        { "level": "C1-C2", "fr": "Le raisin, perle du soleil, concentre l'été en quelques grains.", "pt": "A uva, pérola do sol, concentra o verão em alguns grãos." }
+      ]
+    },
+    {
+      "term": "le cep",
+      "definitionPt": "a cepa",
+      "definitionFr": "Pied de vigne.",
+      "inflections": ["le cep", "un cep", "des ceps"],
+      "ptTargets": ["cepa"],
+      "examples": [
+        { "level": "A1", "fr": "Le cep est petit.", "pt": "A cepa é pequena." },
+        { "level": "A2-B1", "fr": "Les ceps sont alignés dans la vigne.", "pt": "As cepas são alinhadas na vinha." },
+        { "level": "B1", "fr": "Le cep qui donne ces raisins est centenaire.", "pt": "A cepa que dá estas uvas é centenária." },
+        { "level": "C1-C2", "fr": "Le cep, noueux et sage, écrit sa vie dans son écorce.", "pt": "A cepa, nodosa e sábia, escreve sua vida na casca." }
+      ]
+    },
+    {
+      "term": "les vendanges",
+      "definitionPt": "a colheita da uva",
+      "definitionFr": "Récolte du raisin en automne.",
+      "inflections": ["les vendanges", "des vendanges"],
+      "ptTargets": ["colheita da uva", "vindima"],
+      "examples": [
+        { "level": "A1", "fr": "Les vendanges sont en automne.", "pt": "A colheita é no outono." },
+        { "level": "A2-B1", "fr": "La famille a participé aux vendanges.", "pt": "A família participou da colheita." },
+        { "level": "B1", "fr": "Les vendanges qui commencent aujourd'hui seront belles.", "pt": "A colheita que começa hoje será bonita." },
+        { "level": "C1-C2", "fr": "Les vendanges, fête du travail, transforment l'automne en or liquide.", "pt": "A colheita, festa do trabalho, transforma o outono em ouro líquido." }
+      ]
+    },
+    {
+      "term": "le sécateur",
+      "definitionPt": "a tesoura de poda",
+      "definitionFr": "Outil pour couper les branches et les raisins.",
+      "inflections": ["le sécateur", "un sécateur", "des sécateurs"],
+      "ptTargets": ["tesoura de poda"],
+      "examples": [
+        { "level": "A1", "fr": "Le sécateur est pointu.", "pt": "A tesoura de poda é pontiaguda." },
+        { "level": "A2-B1", "fr": "On coupe le raisin avec un sécateur.", "pt": "Corta-se a uva com a tesoura de poda." },
+        { "level": "B1", "fr": "Le sécateur que nous avons utilisé est facile à manier.", "pt": "A tesoura de poda que usamos é fácil de manejar." },
+        { "level": "C1-C2", "fr": "Le sécateur, prolongement du geste, cueille l'été grain par grain.", "pt": "A tesoura de poda, prolongamento do gesto, colhe o verão grão por grão." }
+      ]
+    },
+    {
+      "term": "la caisse",
+      "definitionPt": "a caixa",
+      "definitionFr": "Grand contenant en bois ou en plastique.",
+      "inflections": ["la caisse", "une caisse", "des caisses"],
+      "ptTargets": ["caixa"],
+      "examples": [
+        { "level": "A1", "fr": "La caisse est pleine.", "pt": "A caixa está cheia." },
+        { "level": "A2-B1", "fr": "La famille a rempli des centaines de caisses.", "pt": "A família encheu centenas de caixas." },
+        { "level": "B1", "fr": "Les caisses que nous avons remplies sont lourdes.", "pt": "As caixas que enchemos estão pesadas." },
+        { "level": "C1-C2", "fr": "La caisse, corbeille du vigneron, porte la récolte vers le pressoir.", "pt": "A caixa, cesto do vinicultor, leva a colheita ao lagar." }
+      ]
+    },
+    {
+      "term": "le calcaire",
+      "definitionPt": "o calcário",
+      "definitionFr": "Pierre blanche présente dans le sol.",
+      "inflections": ["le calcaire", "du calcaire"],
+      "ptTargets": ["calcário"],
+      "examples": [
+        { "level": "A1", "fr": "Le calcaire est blanc.", "pt": "O calcário é branco." },
+        { "level": "A2-B1", "fr": "La vigne aime le calcaire.", "pt": "A videira gosta de calcário." },
+        { "level": "B1", "fr": "Le sol calcaire qui couvre la Touraine est parfait pour la vigne.", "pt": "O solo calcário que cobre a Touraine é perfeito para a videira." },
+        { "level": "C1-C2", "fr": "Le calcaire, mémoire de la mer, nourrit secrètement les racines.", "pt": "O calcário, memória do mar, alimenta secretamente as raízes." }
+      ]
+    },
+    {
+      "term": "le sol",
+      "definitionPt": "o solo",
+      "definitionFr": "Terre sur laquelle on marche.",
+      "inflections": ["le sol", "un sol", "des sols"],
+      "ptTargets": ["solo"],
+      "examples": [
+        { "level": "A1", "fr": "Le sol est dur.", "pt": "O solo é duro." },
+        { "level": "A2-B1", "fr": "Le sol de la Touraine est riche.", "pt": "O solo da Touraine é rico." },
+        { "level": "B1", "fr": "Le sol où pousse la vigne est calcaire.", "pt": "O solo onde cresce a videira é calcário." },
+        { "level": "C1-C2", "fr": "Le sol, livre des origines, raconte la terre au vigneron attentif.", "pt": "O solo, livro das origens, conta a terra ao vinicultor atento." }
+      ]
+    },
+    {
+      "term": "le jus",
+      "definitionPt": "o suco",
+      "definitionFr": "Liquide extrait des fruits.",
+      "inflections": ["le jus", "un jus", "des jus"],
+      "ptTargets": ["suco"],
+      "examples": [
+        { "level": "A1", "fr": "Le jus est sucré.", "pt": "O suco é doce." },
+        { "level": "A2-B1", "fr": "Iris a bu un verre de jus de raisin.", "pt": "Íris bebeu um copo de suco de uva." },
+        { "level": "B1", "fr": "Le jus que le vigneron a offert est frais.", "pt": "O suco que o vinicultor ofereceu é fresco." },
+        { "level": "C1-C2", "fr": "Le jus, première vie du raisin, deviendra vin par la magie du temps.", "pt": "O suco, primeira vida da uva, virará vinho pela magia do tempo." }
+      ]
+    },
+    {
+      "term": "mûr",
+      "definitionPt": "maduro",
+      "definitionFr": "Prêt à être cueilli ou mangé.",
+      "inflections": ["mûr", "mûre", "mûrs", "mûres"],
+      "ptTargets": ["maduro"],
+      "examples": [
+        { "level": "A1", "fr": "Le fruit est mûr.", "pt": "A fruta está madura." },
+        { "level": "A2-B1", "fr": "Les raisins sont mûrs en automne.", "pt": "As uvas estão maduras no outono." },
+        { "level": "B1", "fr": "Les grappes qui sont mûres brillent au soleil.", "pt": "Os cachos que estão maduros brilham ao sol." },
+        { "level": "C1-C2", "fr": "Mûr, le fruit offre sa plénitude ; il suffit de savoir attendre.", "pt": "Maduro, o fruto oferece sua plenitude; basta saber esperar." }
+      ]
+    },
+    {
+      "term": "réputé",
+      "definitionPt": "renomado",
+      "definitionFr": "Célèbre, bien connu.",
+      "inflections": ["réputé", "réputée", "réputés", "réputées"],
+      "ptTargets": ["renomado"],
+      "examples": [
+        { "level": "A1", "fr": "Le vin est réputé.", "pt": "O vinho é renomado." },
+        { "level": "A2-B1", "fr": "Les vins de Touraine sont réputés.", "pt": "Os vinhos da Touraine são renomados." },
+        { "level": "B1", "fr": "La région qui est réputée pour ses vins attire les visiteurs.", "pt": "A região que é renomada por seus vinhos atrai visitantes." },
+        { "level": "C1-C2", "fr": "Réputé, le vignoble tient sa gloire de la patience des sols.", "pt": "Renomada, a vinha deve sua glória à paciência dos solos." }
+      ]
+    },
+    {
+      "term": "la grappe",
+      "definitionPt": "o cacho",
+      "definitionFr": "Groupe de raisins sur une tige.",
+      "inflections": ["la grappe", "une grappe", "des grappes"],
+      "ptTargets": ["cacho"],
+      "examples": [
+        { "level": "A1", "fr": "La grappe est lourde.", "pt": "O cacho é pesado." },
+        { "level": "A2-B1", "fr": "On coupe les grappes une par une.", "pt": "Cortam-se os cachos um a um." },
+        { "level": "B1", "fr": "Les grappes que nous avons coupées sont magnifiques.", "pt": "Os cachos que cortamos estão magníficos." },
+        { "level": "C1-C2", "fr": "La grappe, famille de grains, tombe sous le sécateur comme un fruit d'or.", "pt": "O cacho, família de grãos, cai sob a tesoura como um fruto de ouro." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "titleFr": "Les comparatifs et la cause (c'est pour cela que)",
+    "titlePt": "Os comparativos e a causa (c'est pour cela que)",
+    "points": [
+      {
+        "fr": "Les comparatifs : « plus gros que, plus doux que, moins acide que ». Exemple : « Ce raisin est plus doux que le miel. »",
+        "pt": "Os comparativos: « plus gros que » (maior que), « plus doux que » (mais doce que), « moins acide que » (menos ácido que). Exemplo: « Esta uva é mais doce que o mel. »"
+      },
+      {
+        "fr": "La cause : « c'est pour cela que, c'est pourquoi ». Exemple : « Le sol est calcaire, c'est pour cela que la vigne est parfaite ici. »",
+        "pt": "A causa: « c'est pour cela que » (é por isso que), « c'est pourquoi » (por isso). Exemplo: « O solo é calcário, é por isso que a videira é perfeita aqui. »"
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Quand ont lieu les vendanges ?",
+      "options": ["En automne", "Au printemps", "En hiver", "En été"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Avec quoi coupe-t-on le raisin ?",
+      "options": ["Un sécateur", "Une fourchette", "Une scie", "Des ciseaux de couture"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Qu'est-ce que la vigne aime ?",
+      "options": ["Le soleil et le calcaire", "L'ombre et l'eau salée", "Le sable et le vent", "La neige et le froid"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Qu'est-ce que le vigneron a offert à Iris ?",
+      "options": ["Du jus de raisin", "Du vin rouge", "Une bouteille vide", "Des feuilles de vigne"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Que ne connaissait pas Irlan avant ?",
+      "options": ["La vigne", "La Loire", "Le vélo", "Les châteaux"],
+      "correctIndex": 0
+    }
+  ]
+}

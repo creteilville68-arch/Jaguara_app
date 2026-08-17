@@ -1,0 +1,237 @@
+{
+  "id": "bordeaux_lesson_47",
+  "cityId": "bordeaux",
+  "domain": "Viagem e despedida",
+  "level": "Intermediário (B1+)",
+  "titleFr": "Au revoir Bordeaux, bonjour Toulouse",
+  "titlePt": "Adeus Bordeaux, olá Toulouse",
+  "subtitleFr": "Le TGV descend vers le Sud, la ville rose nous attend",
+  "subtitlePt": "O TGV desce para o Sul, a cidade rosa nos espera",
+  "summaryPt": "Nesta Aula 47 (B1+), a família deixa Bordeaux de TGV rumo a Toulouse, com a scooter pliée à bordo, e faz o balanço do capítulo bordelês. O aluno revê o conditionnel, o gérondif, os pronomes e os conectores de causa e finalidade, com um resumo do capítulo.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Le TGV a quitté la gare Saint-Jean à dix heures. « Au revoir, Bordeaux ! » a crié Iris par la fenêtre. La ville rose allait bientôt remplacer la ville de pierre dorée. « En regardant la Garonne s'éloigner, je pense à tous nos moments ici », a dit Irlan.",
+      "pt": "O TGV deixou a gare Saint-Jean às dez horas. « Adeus, Bordeaux! » gritou Íris pela janela. A cidade rosa logo substituiria a cidade de pedra dourada. « Olhando a Garonne se afastar, penso em todos os nossos momentos aqui », disse Irlan."
+    },
+    {
+      "id": 2,
+      "fr": "« Qu'est-ce que tu emporterais de Bordeaux ? » a demandé Andréa. « Les cannelés, bien sûr », a répondu Iris. « Et le Miroir d'eau, pour y jouer quand il pleut. » « Moi, j'emporterais la leçon du pont Chaban-Delmas », a dit Irlan. « Se lever pour laisser passer ce qui est plus grand. »",
+      "pt": "« O que você levaria de Bordeaux? » perguntou Andréa. « Os cannelés, claro », respondeu Íris. « E o Miroir d'eau, para brincar nele quando chove. » « Eu, eu levaria a lição da ponte Chaban-Delmas », disse Irlan. « Levantar-se para deixar passar o que é maior. »"
+    },
+    {
+      "id": 3,
+      "fr": "Le paysage a changé : les pins ont laissé place aux champs, puis la ville rose est apparue à l'horizon. « Regardez, les briques rouges ! » a crié Iris. « Toulouse s'appelle la ville rose à cause de ses briques », a expliqué Irlan, le géographe.",
+      "pt": "A paisagem mudou: os pinheiros deram lugar aos campos, e depois a cidade rosa apareceu no horizonte. « Olhem, os tijolos vermelhos! » gritou Íris. « Toulouse se chama cidade rosa por causa de seus tijolos », explicou Irlan, o geógrafo."
+    },
+    {
+      "id": 4,
+      "fr": "Iris a ouvert son carnet. « Je vais écrire la liste de Bordeaux : Miroir d'eau, cannelés, panda de Beauval, dune du Pilat, huîtres, rugby, Darwin, BatCub. » « Tu pourrais en faire un livre », a souri Andréa. « Un jour, peut-être. Pour qu'on se souvienne de tout. »",
+      "pt": "Íris abriu seu caderno. « Vou escrever a lista de Bordeaux: Miroir d'eau, cannelés, panda de Beauval, duna do Pilat, ostras, rúgbi, Darwin, BatCub. » « Você poderia fazer um livro com isso », sorriu Andréa. « Um dia, talvez. Para que a gente se lembre de tudo. »"
+    },
+    {
+      "id": 5,
+      "fr": "Le TGV est entré en gare de Toulouse. Irlan a pris la scooter pliée sous le siège. « Elle a vu la France entière, presque. » « Grâce à elle, et grâce à nous », a dit Iris. Andréa a souri : « En route pour la ville rose ! » « En route pour la suite de notre histoire ! »",
+      "pt": "O TGV entrou na estação de Toulouse. Irlan pegou a scooter dobrada sob o assento. « Ela viu a França inteira, quase. » « Graças a ela, e graças a nós », disse Íris. Andréa sorriu: « Rumo à cidade rosa! » « Rumo à continuação da nossa história! »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "la brique",
+      "definitionPt": "o tijolo",
+      "definitionFr": "Pierre rouge de construction.",
+      "inflections": ["la brique", "une brique", "des briques"],
+      "ptTargets": ["tijolo"],
+      "examples": [
+        { "level": "A1", "fr": "La brique est rouge.", "pt": "O tijolo é vermelho." },
+        { "level": "A2-B1", "fr": "Les briques de Toulouse sont roses.", "pt": "Os tijolos de Toulouse são rosas." },
+        { "level": "B1", "fr": "Les briques qui font la ville rose sont anciennes.", "pt": "Os tijolos que fazem a cidade rosa são antigos." },
+        { "level": "C1-C2", "fr": "La brique, peau de la ville, donne à Toulouse sa couleur de couchant.", "pt": "O tijolo, pele da cidade, dá a Toulouse sua cor de entardecer." }
+      ]
+    },
+    {
+      "term": "la ville rose",
+      "definitionPt": "a cidade rosa",
+      "definitionFr": "Surnom de Toulouse.",
+      "inflections": ["la ville rose"],
+      "ptTargets": ["cidade rosa"],
+      "examples": [
+        { "level": "A1", "fr": "La ville rose est jolie.", "pt": "A cidade rosa é bonita." },
+        { "level": "A2-B1", "fr": "Toulouse s'appelle la ville rose.", "pt": "Toulouse se chama cidade rosa." },
+        { "level": "B1", "fr": "La ville rose, que l'on voit à l'horizon, brille au soleil.", "pt": "A cidade rosa, que se vê no horizonte, brilha ao sol." },
+        { "level": "C1-C2", "fr": "La ville rose, poème de briques, doit sa beauté au ciel du Sud.", "pt": "A cidade rosa, poema de tijolos, deve sua beleza ao céu do Sul." }
+      ]
+    },
+    {
+      "term": "l'horizon",
+      "definitionPt": "o horizonte",
+      "definitionFr": "Ligne où le ciel touche la terre.",
+      "inflections": ["l'horizon", "un horizon", "des horizons"],
+      "ptTargets": ["horizonte"],
+      "examples": [
+        { "level": "A1", "fr": "L'horizon est loin.", "pt": "O horizonte é longe." },
+        { "level": "A2-B1", "fr": "La ville apparaît à l'horizon.", "pt": "A cidade aparece no horizonte." },
+        { "level": "B1", "fr": "L'horizon que l'on regarde avance avec nous.", "pt": "O horizonte que se olha avança conosco." },
+        { "level": "C1-C2", "fr": "L'horizon, promesse du voyage, recule sans jamais se laisser attraper.", "pt": "O horizonte, promessa da viagem, recua sem jamais se deixar pegar." }
+      ]
+    },
+    {
+      "term": "emporter",
+      "definitionPt": "levar consigo",
+      "definitionFr": "Prendre avec soi.",
+      "inflections": ["j'emporte", "tu emportes", "il emporte", "nous emportons"],
+      "ptTargets": ["levar consigo", "carregar"],
+      "examples": [
+        { "level": "A1", "fr": "J'emporte mon livre.", "pt": "Eu levo meu livro." },
+        { "level": "A2-B1", "fr": "Qu'est-ce que tu emporterais de Bordeaux ?", "pt": "O que você levaria de Bordeaux?" },
+        { "level": "B1", "fr": "Les souvenirs que l'on emporte ne pèsent rien.", "pt": "As lembranças que se levam não pesam nada." },
+        { "level": "C1-C2", "fr": "Emporter, geste du départ, garde l'essentiel et laisse le reste.", "pt": "Levar consigo, gesto da partida, guarda o essencial e deixa o resto." }
+      ]
+    },
+    {
+      "term": "le carnet",
+      "definitionPt": "o caderno",
+      "definitionFr": "Petit cahier.",
+      "inflections": ["le carnet", "un carnet", "des carnets"],
+      "ptTargets": ["caderno"],
+      "examples": [
+        { "level": "A1", "fr": "Le carnet est petit.", "pt": "O caderno é pequeno." },
+        { "level": "A2-B1", "fr": "Iris a ouvert son carnet.", "pt": "Íris abriu seu caderno." },
+        { "level": "B1", "fr": "Le carnet dans lequel Iris écrit est plein de listes.", "pt": "O caderno no qual Íris escreve está cheio de listas." },
+        { "level": "C1-C2", "fr": "Le carnet, mémoire de voyage, garde les villes une à une.", "pt": "O caderno, memória de viagem, guarda as cidades uma a uma." }
+      ]
+    },
+    {
+      "term": "la liste",
+      "definitionPt": "a lista",
+      "definitionFr": "Suite de mots.",
+      "inflections": ["la liste", "une liste", "des listes"],
+      "ptTargets": ["lista"],
+      "examples": [
+        { "level": "A1", "fr": "La liste est longue.", "pt": "A lista é longa." },
+        { "level": "A2-B1", "fr": "Iris a écrit la liste de Bordeaux.", "pt": "Íris escreveu a lista de Bordeaux." },
+        { "level": "B1", "fr": "Les listes que l'on écrit gardent les souvenirs.", "pt": "As listas que se escrevem guardam as lembranças." },
+        { "level": "C1-C2", "fr": "La liste, carte du cœur, dit ce que l'on veut garder du monde.", "pt": "A lista, mapa do coração, diz o que se quer guardar do mundo." }
+      ]
+    },
+    {
+      "term": "se souvenir",
+      "definitionPt": "lembrar-se",
+      "definitionFr": "Garder en mémoire.",
+      "inflections": ["je me souviens", "tu te souviens", "il se souvient", "nous nous souvenons"],
+      "ptTargets": ["lembrar-se", "recordar"],
+      "examples": [
+        { "level": "A1", "fr": "Je me souviens de Bordeaux.", "pt": "Eu me lembro de Bordeaux." },
+        { "level": "A2-B1", "fr": "On se souviendra de tout.", "pt": "Vamos nos lembrar de tudo." },
+        { "level": "B1", "fr": "Les moments dont l'on se souvient sont précieux.", "pt": "Os momentos dos quais se lembra são preciosos." },
+        { "level": "C1-C2", "fr": "Se souvenir, geste de fidélité, refuse que le temps efface les visages.", "pt": "Lembrar-se, gesto de fidelidade, recusa que o tempo apague os rostos." }
+      ]
+    },
+    {
+      "term": "le siège",
+      "definitionPt": "o assento",
+      "definitionFr": "Place pour s'asseoir.",
+      "inflections": ["le siège", "un siège", "des sièges"],
+      "ptTargets": ["assento"],
+      "examples": [
+        { "level": "A1", "fr": "Le siège est doux.", "pt": "O assento é macio." },
+        { "level": "A2-B1", "fr": "La scooter est sous le siège.", "pt": "A scooter está sob o assento." },
+        { "level": "B1", "fr": "Les sièges du TGV sont confortables.", "pt": "Os assentos do TGV são confortáveis." },
+        { "level": "C1-C2", "fr": "Le siège, trône du voyageur, porte les corps et les rêves.", "pt": "O assento, trono do viajante, carrega os corpos e os sonhos." }
+      ]
+    },
+    {
+      "term": "l'histoire",
+      "definitionPt": "a história",
+      "definitionFr": "Suite d'événements.",
+      "inflections": ["l'histoire", "une histoire", "des histoires"],
+      "ptTargets": ["história"],
+      "examples": [
+        { "level": "A1", "fr": "L'histoire est belle.", "pt": "A história é bonita." },
+        { "level": "A2-B1", "fr": "Chaque ville a une histoire.", "pt": "Cada cidade tem uma história." },
+        { "level": "B1", "fr": "Les histoires que l'on vit deviennent des souvenirs.", "pt": "As histórias que se vivem viram lembranças." },
+        { "level": "C1-C2", "fr": "L'histoire, fil des jours, se tisse ville après ville.", "pt": "A história, fio dos dias, tece-se cidade após cidade." }
+      ]
+    },
+    {
+      "term": "presque",
+      "definitionPt": "quase",
+      "definitionFr": "Pas tout à fait.",
+      "inflections": ["presque"],
+      "ptTargets": ["quase"],
+      "examples": [
+        { "level": "A1", "fr": "Presque fini.", "pt": "Quase pronto." },
+        { "level": "A2-B1", "fr": "La scooter a vu presque toute la France.", "pt": "A scooter viu quase toda a França." },
+        { "level": "B1", "fr": "Presque, que l'on dit en souriant, corrige avec tendresse.", "pt": "Quase, que se diz sorrindo, corrige com ternura." },
+        { "level": "C1-C2", "fr": "Presque, mot de l'horizon, approche du but sans jamais mentir.", "pt": "Quase, palavra do horizonte, aproxima-se do alvo sem jamais mentir." }
+      ]
+    },
+    {
+      "term": "la suite",
+      "definitionPt": "a continuação",
+      "definitionFr": "Ce qui vient après.",
+      "inflections": ["la suite", "une suite"],
+      "ptTargets": ["continuação", "sequência"],
+      "examples": [
+        { "level": "A1", "fr": "La suite vient demain.", "pt": "A continuação vem amanhã." },
+        { "level": "A2-B1", "fr": "On attend la suite de l'histoire.", "pt": "Espera-se a continuação da história." },
+        { "level": "B1", "fr": "La suite, que l'on imagine, sera belle.", "pt": "A continuação, que se imagina, será bela." },
+        { "level": "C1-C2", "fr": "La suite, promesse du récit, garde les portes ouvertes.", "pt": "A continuação, promessa da narrativa, mantém as portas abertas." }
+      ]
+    },
+    {
+      "term": "la gare",
+      "definitionPt": "a estação",
+      "definitionFr": "Lieu des trains.",
+      "inflections": ["la gare", "une gare", "des gares"],
+      "ptTargets": ["estação"],
+      "examples": [
+        { "level": "A1", "fr": "La gare est pleine.", "pt": "A estação está cheia." },
+        { "level": "A2-B1", "fr": "Le TGV est entré en gare de Toulouse.", "pt": "O TGV entrou na estação de Toulouse." },
+        { "level": "B1", "fr": "Les gares que l'on traverse marquent les étapes du voyage.", "pt": "As estações que se atravessam marcam as etapas da viagem." },
+        { "level": "C1-C2", "fr": "La gare, seuil des villes, accueille les arrivées comme des naissances.", "pt": "A estação, soleira das cidades, acolhe as chegadas como nascimentos." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "titleFr": "Synthèse B1+ : conditionnel, gérondif, cause et finalité",
+    "titlePt": "Síntese B1+: conditionnel, gerúndio, causa e finalidade",
+    "points": [
+      {
+        "fr": "Le conditionnel : « Qu'est-ce que tu emporterais ? », « J'emporterais la leçon du pont », « Tu pourrais en faire un livre ». Le gérondif : « En regardant la Garonne s'éloigner, je pense à nos moments ici ».",
+        "pt": "O conditionnel: « Qu'est-ce que tu emporterais ? » (O que você levaria?), « J'emporterais la leçon du pont » (Eu levaria a lição da ponte), « Tu pourrais en faire un livre » (Você poderia fazer um livro com isso). O gerúndio: « En regardant la Garonne s'éloigner, je pense à nos moments ici » (Olhando a Garonne se afastar, penso nos nossos momentos aqui)."
+      },
+      {
+        "fr": "La cause et la finalité : « à cause de ses briques » (causa), « Grâce à elle, et grâce à nous » (causa positiva), « Pour qu'on se souvienne de tout » (finalidade, subjonctif).",
+        "pt": "A causa e a finalidade: « à cause de ses briques » (por causa de seus tijolos), « Grâce à elle, et grâce à nous » (graças a ela e graças a nós), « Pour qu'on se souvienne de tout » (para que nos lembremos de tudo)."
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "A que horas o TGV deixou a gare Saint-Jean ?",
+      "options": ["Às dez horas", "Às oito horas", "Ao meio-dia", "Às seis horas"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Por que Toulouse se chama cidade rosa ?",
+      "options": ["Por causa dos tijolos vermelhos", "Por causa das flores", "Por causa do pôr do sol", "Por causa das paredes pintadas"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Qual lição Irlan levaria de Bordeaux ?",
+      "options": ["A da ponte Chaban-Delmas: levantar-se para deixar passar o maior", "A da duna: subir devagar", "A do vinho: provar tudo", "A do mercado: negociar sempre"],
+      "correctIndex": 0
+    },
+    {
+      "question": "O que Íris escreveu no carnet ?",
+      "options": ["A lista de Bordeaux", "Uma receita", "Um poema", "Um mapa"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Onde a scooter viajou no TGV ?",
+      "options": ["Sob o assento, dobrada", "No teto", "Na locomotiva", "No corredor"],
+      "correctIndex": 0
+    }
+  ]
+}

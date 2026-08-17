@@ -1,0 +1,237 @@
+{
+  "id": "tours_lesson_29",
+  "cityId": "tours",
+  "domain": "Cultura & Tradições",
+  "level": "Intermediário (B1)",
+  "titleFr": "L'été de la Saint-Martin : le doux novembre",
+  "titlePt": "O verão de São Martinho: o doce novembro",
+  "subtitleFr": "En novembre, la Touraine offre encore quelques jours d'été",
+  "subtitlePt": "Em novembro, a Touraine ainda oferece alguns dias de verão",
+  "summaryPt": "Nesta Aula 29 (B1), a família descobre o « été de la Saint-Martin », o veranico de novembro que a lenda atribui ao manto de Martinho: dias quentes no fim do outono. O aluno pratica as expressões de clima (il fait doux, le soleil brille) e o contraste entre o verão e o outono.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "« En novembre, il y a parfois des jours magnifiques », a dit Andréa. « On appelle cela l'été de la Saint-Martin. La légende dit que saint Martin a offert ces derniers jours chauds. »",
+      "pt": "« Em novembro, às vezes há dias magníficos », disse Andréa. « Chama-se verão de São Martinho. A lenda diz que são Martinho ofereceu esses últimos dias quentes. »"
+    },
+    {
+      "id": 2,
+      "fr": "« Pourquoi ? » a demandé Iris. « Parce que, dit la légende, quand Martin a partagé son manteau, le ciel a souri », a expliqué Irlan. « Chaque année, il remercie le geste par un peu de soleil. »",
+      "pt": "« Por quê? » perguntou Íris. « Porque, diz a lenda, quando Martinho dividiu seu manto, o céu sorriu », explicou Irlan. « Todos os anos, ele agradece o gesto com um pouco de sol. »"
+    },
+    {
+      "id": 3,
+      "fr": "Ce jour-là, le soleil brillait et il faisait doux. La famille a déjeuné dehors, en manches courtes. « On dirait l'été », a dit Iris. « On dirait que le temps a oublié l'hiver. »",
+      "pt": "Naquele dia, o sol brilhava e fazia ameno. A família almoçou fora, de mangas curtas. « Parece verão », disse Íris. « Parece que o tempo esqueceu o inverno. »"
+    },
+    {
+      "id": 4,
+      "fr": "Les jardins étaient encore dorés, les feuilles tombaient doucement. « Regarde, Iris : l'été de la Saint-Martin, c'est l'automne qui s'excuse de partir », a souri Andréa.",
+      "pt": "Os jardins ainda estavam dourados, as folhas caíam suavemente. « Olha, Íris: o verão de São Martinho é o outono se desculpando por partir », sorriu Andréa."
+    },
+    {
+      "id": 5,
+      "fr": "« Quand j'étais livreur, je travaillais même quand il pleuvait », a dit Irlan. « Aujourd'hui, je me promène au soleil en novembre. La France m'offre des cadeaux. »",
+      "pt": "« Quando eu era entregador, eu trabalhava mesmo quando chovia », disse Irlan. « Hoje, passeio ao sol em novembro. A França me dá presentes. »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "l'été",
+      "definitionPt": "o verão",
+      "definitionFr": "Saison chaude de l'année.",
+      "inflections": ["l'été", "un été", "des étés"],
+      "ptTargets": ["verão"],
+      "examples": [
+        { "level": "A1", "fr": "L'été est chaud.", "pt": "O verão é quente." },
+        { "level": "A2-B1", "fr": "L'été de la Saint-Martin est une légende.", "pt": "O verão de São Martinho é uma lenda." },
+        { "level": "B1", "fr": "L'été qui revient en novembre surprend tout le monde.", "pt": "O verão que volta em novembro surpreende a todos." },
+        { "level": "C1-C2", "fr": "L'été, saison des promesses, s'attarde parfois pour offrir un dernier baiser.", "pt": "O verão, estação das promessas, às vezes se demora para dar um último beijo." }
+      ]
+    },
+    {
+      "term": "novembre",
+      "definitionPt": "novembro",
+      "definitionFr": "Onzième mois de l'année.",
+      "inflections": ["novembre", "en novembre"],
+      "ptTargets": ["novembro"],
+      "examples": [
+        { "level": "A1", "fr": "Novembre est froid.", "pt": "Novembro é frio." },
+        { "level": "A2-B1", "fr": "En novembre, le ciel est gris.", "pt": "Em novembro, o céu é cinza." },
+        { "level": "B1", "fr": "Le mois où il fait encore doux est novembre.", "pt": "O mês em que ainda faz ameno é novembro." },
+        { "level": "C1-C2", "fr": "Novembre, mois des brumes, cache parfois un été clandestin.", "pt": "Novembro, mês das brumas, esconde às vezes um verão clandestino." }
+      ]
+    },
+    {
+      "term": "le soleil",
+      "definitionPt": "o sol",
+      "definitionFr": "Astre qui éclaire et réchauffe la Terre.",
+      "inflections": ["le soleil", "un soleil", "des soleils"],
+      "ptTargets": ["sol"],
+      "examples": [
+        { "level": "A1", "fr": "Le soleil brille.", "pt": "O sol brilha." },
+        { "level": "A2-B1", "fr": "Le soleil de novembre est doux.", "pt": "O sol de novembro é suave." },
+        { "level": "B1", "fr": "Le soleil qui brille aujourd'hui est un cadeau.", "pt": "O sol que brilha hoje é um presente." },
+        { "level": "C1-C2", "fr": "Le soleil, peintre généreux, dore les feuilles avant l'hiver.", "pt": "O sol, pintor generoso, douras as folhas antes do inverno." }
+      ]
+    },
+    {
+      "term": "le manteau",
+      "definitionPt": "o manto",
+      "definitionFr": "Vêtement chaud que l'on porte par-dessus.",
+      "inflections": ["le manteau", "un manteau", "des manteaux"],
+      "ptTargets": ["manto"],
+      "examples": [
+        { "level": "A1", "fr": "Le manteau est chaud.", "pt": "O manto é quente." },
+        { "level": "A2-B1", "fr": "La légende du manteau de Martin est célèbre.", "pt": "A lenda do manto de Martinho é famosa." },
+        { "level": "B1", "fr": "Le manteau que Martin a partagé est à l'origine de la légende.", "pt": "O manto que Martinho dividiu está na origem da lenda." },
+        { "level": "C1-C2", "fr": "Le manteau partagé, geste éternel, revient chaque année sous forme de soleil.", "pt": "O manto dividido, gesto eterno, volta todo ano em forma de sol." }
+      ]
+    },
+    {
+      "term": "la feuille",
+      "definitionPt": "a folha",
+      "definitionFr": "Partie verte des arbres qui tombe en automne.",
+      "inflections": ["la feuille", "une feuille", "des feuilles"],
+      "ptTargets": ["folha"],
+      "examples": [
+        { "level": "A1", "fr": "La feuille est jaune.", "pt": "A folha é amarela." },
+        { "level": "A2-B1", "fr": "Les feuilles tombent en automne.", "pt": "As folhas caem no outono." },
+        { "level": "B1", "fr": "Les feuilles qui tombent doucement dansent dans le vent.", "pt": "As folhas que caem suavemente dançam no vento." },
+        { "level": "C1-C2", "fr": "La feuille, dernière lettre de l'été, s'envole vers l'hiver.", "pt": "A folha, última carta do verão, voa rumo ao inverno." }
+      ]
+    },
+    {
+      "term": "l'automne",
+      "definitionPt": "o outono",
+      "definitionFr": "Saison entre l'été et l'hiver.",
+      "inflections": ["l'automne", "un automne", "des automnes"],
+      "ptTargets": ["outono"],
+      "examples": [
+        { "level": "A1", "fr": "L'automne est doux.", "pt": "O outono é ameno." },
+        { "level": "A2-B1", "fr": "En automne, les feuilles changent de couleur.", "pt": "No outono, as folhas mudam de cor." },
+        { "level": "B1", "fr": "L'automne qui s'excuse de partir offre des jours dorés.", "pt": "O outono que se desculpa por partir oferece dias dourados." },
+        { "level": "C1-C2", "fr": "L'automne, saison des adieux, peint le monde avant le silence.", "pt": "O outono, estação das despedidas, pinta o mundo antes do silêncio." }
+      ]
+    },
+    {
+      "term": "l'hiver",
+      "definitionPt": "o inverno",
+      "definitionFr": "Saison froide de l'année.",
+      "inflections": ["l'hiver", "un hiver", "des hivers"],
+      "ptTargets": ["inverno"],
+      "examples": [
+        { "level": "A1", "fr": "L'hiver est froid.", "pt": "O inverno é frio." },
+        { "level": "A2-B1", "fr": "L'hiver arrive après l'automne.", "pt": "O inverno chega depois do outono." },
+        { "level": "B1", "fr": "L'hiver qui approche rend ces jours plus précieux.", "pt": "O inverno que se aproxima torna esses dias mais preciosos." },
+        { "level": "C1-C2", "fr": "L'hiver, page blanche de l'année, attend le printemps sans impatience.", "pt": "O inverno, página branca do ano, espera a primavera sem impaciência." }
+      ]
+    },
+    {
+      "term": "la manche",
+      "definitionPt": "a manga",
+      "definitionFr": "Partie du vêtement qui couvre le bras.",
+      "inflections": ["la manche", "une manche", "des manches"],
+      "ptTargets": ["manga"],
+      "examples": [
+        { "level": "A1", "fr": "La manche est longue.", "pt": "A manga é comprida." },
+        { "level": "A2-B1", "fr": "On a déjeuné en manches courtes.", "pt": "Almoçamos de mangas curtas." },
+        { "level": "B1", "fr": "Les manches courtes que l'on porte en novembre étonnent.", "pt": "As mangas curtas que se usam em novembro surpreendem." },
+        { "level": "C1-C2", "fr": "La manche, baromètre du quotidien, annonce le temps qu'il fait.", "pt": "A manga, barômetro do cotidiano, anuncia o tempo que faz." }
+      ]
+    },
+    {
+      "term": "remercier",
+      "definitionPt": "agradecer",
+      "definitionFr": "Dire merci.",
+      "inflections": ["je remercie", "tu remercies", "il remercie", "nous remercions"],
+      "ptTargets": ["agradecer"],
+      "examples": [
+        { "level": "A1", "fr": "Je remercie mon ami.", "pt": "Eu agradeço ao meu amigo." },
+        { "level": "A2-B1", "fr": "Le ciel remercie Martin chaque année.", "pt": "O céu agradece Martinho todos os anos." },
+        { "level": "B1", "fr": "La légende dit que le ciel remercie le geste par du soleil.", "pt": "A lenda diz que o céu agradece o gesto com sol." },
+        { "level": "C1-C2", "fr": "Remercier, c'est offrir un sourire au monde.", "pt": "Agradecer é oferecer um sorriso ao mundo." }
+      ]
+    },
+    {
+      "term": "se promener",
+      "definitionPt": "passear",
+      "definitionFr": "Marcher pour le plaisir.",
+      "inflections": ["je me promène", "tu te promènes", "il se promène", "nous nous promenons"],
+      "ptTargets": ["passear"],
+      "examples": [
+        { "level": "A1", "fr": "Je me promène au parc.", "pt": "Eu passeio no parque." },
+        { "level": "A2-B1", "fr": "La famille s'est promenée au soleil.", "pt": "A família passeou ao sol." },
+        { "level": "B1", "fr": "Nous nous promènerons tant qu'il fera doux.", "pt": "Passearemos enquanto fizer ameno." },
+        { "level": "C1-C2", "fr": "Se promener en novembre au soleil, c'est accepter le cadeau du ciel.", "pt": "Passear ao sol em novembro é aceitar o presente do céu." }
+      ]
+    },
+    {
+      "term": "le cadeau",
+      "definitionPt": "o presente",
+      "definitionFr": "Objet que l'on offre.",
+      "inflections": ["le cadeau", "un cadeau", "des cadeaux"],
+      "ptTargets": ["presente"],
+      "examples": [
+        { "level": "A1", "fr": "Le cadeau est joli.", "pt": "O presente é bonito." },
+        { "level": "A2-B1", "fr": "Le soleil de novembre est un cadeau.", "pt": "O sol de novembro é um presente." },
+        { "level": "B1", "fr": "Les cadeaux que la Touraine offre sont nombreux.", "pt": "Os presentes que a Touraine oferece são numerosos." },
+        { "level": "C1-C2", "fr": "Le cadeau, signe d'amour, vaut par le geste plus que par la valeur.", "pt": "O presente, sinal de amor, vale pelo gesto mais que pelo valor." }
+      ]
+    },
+    {
+      "term": "s'excuser",
+      "definitionPt": "desculpar-se",
+      "definitionFr": "Dire pardon.",
+      "inflections": ["je m'excuse", "tu t'excuses", "il s'excuse", "nous nous excusons"],
+      "ptTargets": ["desculpar-se"],
+      "examples": [
+        { "level": "A1", "fr": "Je m'excuse pour le retard.", "pt": "Peço desculpas pelo atraso." },
+        { "level": "A2-B1", "fr": "L'automne s'excuse de partir.", "pt": "O outono se desculpa por partir." },
+        { "level": "B1", "fr": "L'automne qui s'excuse offre des jours dorés.", "pt": "O outono que se desculpa oferece dias dourados." },
+        { "level": "C1-C2", "fr": "S'excuser, c'est reconnaître que le temps passe sans nous demander.", "pt": "Desculpar-se é reconhecer que o tempo passa sem nos perguntar." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "titleFr": "Le temps qu'il fait : il fait + adjectif",
+    "titlePt": "O tempo que faz: il fait + adjetivo",
+    "points": [
+      {
+        "fr": "Le temps : « il fait doux, il fait chaud, il fait froid, il fait gris » ; « le soleil brille, il pleut, les feuilles tombent ». Exemple : « Il fait doux en novembre. »",
+        "pt": "O tempo: « il fait doux » (faz ameno), « il fait chaud » (faz calor), « il fait froid » (faz frio), « il fait gris » (está cinza); « le soleil brille » (o sol brilha), « il pleut » (chove), « les feuilles tombent » (as folhas caem). Exemplo: « Faz ameno em novembro. »"
+      },
+      {
+        "fr": "« on dirait + que + imparfait » exprime l'apparence : « On dirait l'été. » (Parece verão.) « On dirait que le temps a oublié l'hiver. »",
+        "pt": "« on dirait + que + imperfeito » exprime a aparência: « On dirait l'été. » (Parece verão.) « On dirait que le temps a oublié l'hiver. » (Parece que o tempo esqueceu o inverno.)"
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Qu'est-ce que l'été de la Saint-Martin ?",
+      "options": ["Des jours chauds en novembre", "Une saison en été", "Une fête en juillet", "Une tempête d'hiver"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Que dit la légende sur ce phénomène ?",
+      "options": ["Le ciel remercie Martin", "Martin était jardinier", "Le soleil dort", "La Loire déborde"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Qu'est-ce que la famille a fait ce jour-là ?",
+      "options": ["Elle a déjeuné dehors", "Elle a construit un igloo", "Elle est restée au lit", "Elle a allumé un feu"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Comment Andréa décrit-elle l'automne ?",
+      "options": ["Il s'excuse de partir", "Il est en colère", "Il ne parle pas", "Il pleure toujours"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Que faisait Irlan quand il pleuvait ?",
+      "options": ["Il travaillait quand même", "Il restait à la maison", "Il prenait le train", "Il dormait"],
+      "correctIndex": 0
+    }
+  ]
+}

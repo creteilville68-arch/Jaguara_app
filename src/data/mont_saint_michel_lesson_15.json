@@ -1,0 +1,252 @@
+{
+  "id": "mont_saint_michel_lesson_15",
+  "cityId": "mont-saint-michel",
+  "domain": "Natureza & Geografia",
+  "level": "Básico (A2/B1)",
+  "titleFr": "Les sables mouvants : le danger caché de la baie",
+  "titlePt": "As areias movediças: o perigo escondido da baía",
+  "subtitleFr": "Sous les sables, la baie cache des pièges invisibles",
+  "subtitlePt": "Sob as areias, a baía esconde armadilhas invisíveis",
+  "summaryPt": "Nesta Aula 15 (A2/B1), a família aprende sobre as areias movediças da baía, que podem engolir quem caminha sem guia. Irlan, geógrafo, explica os perigos. O aluno pratica o contraste imparfait/passé composé (le sable semblait solide, mais un touriste a coulé) e a expressão do perigo.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "« Attention, la baie est dangereuse », a dit le guide. « Le sable semble solide, mais sous la surface, il y a des sables mouvants. » Irlan a écouté attentivement.",
+      "pt": "« Atenção, a baía é perigosa », disse o guia. « A areia parece sólida, mas sob a superfície há areias movediças. » Irlan escutou atentamente."
+    },
+    {
+      "id": 2,
+      "fr": "« Autrefois, des voyageurs marchaient sans guide », a raconté Andréa. « Ils ne voyaient pas le danger. Soudain, le sable s'ouvrait sous leurs pieds. »",
+      "pt": "« Antigamente, viajantes caminhavam sem guia », contou Andréa. « Eles não viam o perigo. De repente, a areia se abria sob seus pés. »"
+    },
+    {
+      "id": 3,
+      "fr": "« La marée peut monter à la vitesse d'un cheval au galop », a expliqué Irlan. « Hier encore, des promeneurs sont restés coincés sur un banc de sable. »",
+      "pt": "« A maré pode subir na velocidade de um cavalo a galope », explicou Irlan. « Ainda ontem, caminhantes ficaram presos num banco de areia. »"
+    },
+    {
+      "id": 4,
+      "fr": "La famille est restée sur le chemin balisé. « Nous ne marchons que sur les sentiers », a promis Íris. « Je ne veux pas être un sable mouvant ! » a-t-elle plaisanté.",
+      "pt": "A família ficou no caminho sinalizado. « Só andamos nos trilhos », prometeu Íris. « Não quero virar areia movediça! » brincou ela."
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "le sable",
+      "definitionPt": "a areia",
+      "definitionFr": "Petits grains qui couvrent les plages.",
+      "inflections": ["le sable", "un sable", "des sables"],
+      "ptTargets": ["areia"],
+      "examples": [
+        { "level": "A1", "fr": "Le sable est doux.", "pt": "A areia é macia." },
+        { "level": "A2-B1", "fr": "Le sable de la baie est très fin.", "pt": "A areia da baía é muito fina." },
+        { "level": "B2", "fr": "Les sables de la baie cachent des dangers.", "pt": "As areias da baía escondem perigos." },
+        { "level": "C1-C2", "fr": "Sous le sable doré sommeille un piège millénaire.", "pt": "Sob a areia dourada dorme uma armadilha milenar." }
+      ]
+    },
+    {
+      "term": "mouvant",
+      "definitionPt": "movediço",
+      "definitionFr": "Qui bouge, instable.",
+      "inflections": ["mouvant", "mouvante", "mouvants"],
+      "ptTargets": ["movediço"],
+      "examples": [
+        { "level": "A1", "fr": "Le sable est mouvant.", "pt": "A areia é movediça." },
+        { "level": "A2-B1", "fr": "Les sables mouvants sont dangereux.", "pt": "As areias movediças são perigosas." },
+        { "level": "B2", "fr": "Les sables mouvants de la baie ont piégé bien des promeneurs.", "pt": "As areias movediças da baía prenderam muitos caminhantes." },
+        { "level": "C1-C2", "fr": "Il faut marcher avec prudence sur ces terrains mouvants.", "pt": "É preciso caminhar com prudência nesses terrenos movediços." }
+      ]
+    },
+    {
+      "term": "le danger",
+      "definitionPt": "o perigo",
+      "definitionFr": "Situation qui peut faire du mal.",
+      "inflections": ["le danger", "un danger", "des dangers"],
+      "ptTargets": ["perigo"],
+      "examples": [
+        { "level": "A1", "fr": "Le danger est grand.", "pt": "O perigo é grande." },
+        { "level": "A2-B1", "fr": "La baie cache des dangers.", "pt": "A baía esconde perigos." },
+        { "level": "B2", "fr": "Les guides connaissent tous les dangers de la baie.", "pt": "Os guias conhecem todos os perigos da baía." },
+        { "level": "C1-C2", "fr": "Le danger n'est pas dans la mer, mais dans l'ignorance de la mer.", "pt": "O perigo não está no mar, mas na ignorância do mar." }
+      ]
+    },
+    {
+      "term": "dangereux",
+      "definitionPt": "perigoso",
+      "definitionFr": "Qui présente un danger.",
+      "inflections": ["dangereux", "dangereuse", "dangereux"],
+      "ptTargets": ["perigoso"],
+      "examples": [
+        { "level": "A1", "fr": "Le chemin est dangereux.", "pt": "O caminho é perigoso." },
+        { "level": "A2-B1", "fr": "La traversée sans guide est dangereuse.", "pt": "A travessia sem guia é perigosa." },
+        { "level": "B2", "fr": "Cette zone est dangereuse à marée montante.", "pt": "Esta zona é perigosa na maré enchente." },
+        { "level": "C1-C2", "fr": "Il est dangereux de sous-estimer la vitesse de la marée.", "pt": "É perigoso subestimar a velocidade da maré." }
+      ]
+    },
+    {
+      "term": "le guide",
+      "definitionPt": "o guia",
+      "definitionFr": "Personne qui accompagne et montre le chemin.",
+      "inflections": ["le guide", "la guide", "des guides"],
+      "ptTargets": ["guia"],
+      "examples": [
+        { "level": "A1", "fr": "Le guide connaît la baie.", "pt": "O guia conhece a baía." },
+        { "level": "A2-B1", "fr": "Il faut un guide pour traverser la baie.", "pt": "É preciso um guia para atravessar a baía." },
+        { "level": "B2", "fr": "Le guide a montré les zones dangereuses.", "pt": "O guia mostrou as zonas perigosas." },
+        { "level": "C1-C2", "fr": "Un bon guide lit la baie comme un livre ouvert.", "pt": "Um bom guia lê a baía como um livro aberto." }
+      ]
+    },
+    {
+      "term": "le galop",
+      "definitionPt": "o galope",
+      "definitionFr": "Course la plus rapide du cheval.",
+      "inflections": ["le galop", "un galop", "des galops"],
+      "ptTargets": ["galope"],
+      "examples": [
+        { "level": "A1", "fr": "Le cheval court au galop.", "pt": "O cavalo corre a galope." },
+        { "level": "A2-B1", "fr": "La marée monte à la vitesse d'un cheval au galop.", "pt": "A maré sobe na velocidade de um cavalo a galope." },
+        { "level": "B2", "fr": "Au galop, la marée a recouvert la plage en quelques minutes.", "pt": "A galope, a maré cobriu a praia em poucos minutos." },
+        { "level": "C1-C2", "fr": "La légende dit que la mer du Mont galope plus vite qu'un cheval.", "pt": "A lenda diz que o mar do Mont galopa mais rápido que um cavalo." }
+      ]
+    },
+    {
+      "term": "la vitesse",
+      "definitionPt": "a velocidade",
+      "definitionFr": "Rapidité.",
+      "inflections": ["la vitesse", "une vitesse", "des vitesses"],
+      "ptTargets": ["velocidade"],
+      "examples": [
+        { "level": "A1", "fr": "La vitesse est grande.", "pt": "A velocidade é grande." },
+        { "level": "A2-B1", "fr": "La marée arrive à grande vitesse.", "pt": "A maré chega em alta velocidade." },
+        { "level": "B2", "fr": "À cette vitesse, impossible d'échapper à la marée.", "pt": "Nessa velocidade, é impossível escapar da maré." },
+        { "level": "C1-C2", "fr": "La vitesse de la marée surprend même les habitués.", "pt": "A velocidade da maré surpreende até os habituados." }
+      ]
+    },
+    {
+      "term": "rester coincé",
+      "definitionPt": "ficar preso",
+      "definitionFr": "Ne plus pouvoir bouger.",
+      "inflections": ["je reste coincé", "nous restons coincés", "resté coincé"],
+      "ptTargets": ["ficar preso"],
+      "examples": [
+        { "level": "A1", "fr": "Je suis coincé dans l'ascenseur.", "pt": "Estou preso no elevador." },
+        { "level": "A2-B1", "fr": "Des promeneurs sont restés coincés sur un banc de sable.", "pt": "Caminhantes ficaram presos num banco de areia." },
+        { "level": "B2", "fr": "La voiture est restée coincée dans la boue.", "pt": "O carro ficou preso na lama." },
+        { "level": "C1-C2", "fr": "Rester coincé entre deux marées, c'est le cauchemar de la baie.", "pt": "Ficar preso entre duas marés é o pesadelo da baía." }
+      ]
+    },
+    {
+      "term": "le banc de sable",
+      "definitionPt": "o banco de areia",
+      "definitionFr": "Monticule de sable sous l'eau.",
+      "inflections": ["le banc de sable", "un banc de sable", "des bancs de sable"],
+      "ptTargets": ["banco de areia"],
+      "examples": [
+        { "level": "A1", "fr": "Le banc de sable est visible.", "pt": "O banco de areia está visível." },
+        { "level": "A2-B1", "fr": "Le banc de sable disparaît à marée haute.", "pt": "O banco de areia desaparece na maré alta." },
+        { "level": "B2", "fr": "Les bancs de sable se déplacent avec les courants.", "pt": "Os bancos de areia se movem com as correntes." },
+        { "level": "C1-C2", "fr": "Le banc de sable, invisible à marée haute, est un piège mortel.", "pt": "O banco de areia, invisível na maré alta, é uma armadilha mortal." }
+      ]
+    },
+    {
+      "term": "le sentier",
+      "definitionPt": "o trilho, a trilha",
+      "definitionFr": "Chemin étroit.",
+      "inflections": ["le sentier", "un sentier", "des sentiers"],
+      "ptTargets": ["trilho", "trilha"],
+      "examples": [
+        { "level": "A1", "fr": "Le sentier est étroit.", "pt": "O trilho é estreito." },
+        { "level": "A2-B1", "fr": "Nous marchons sur le sentier balisé.", "pt": "Caminhamos no trilho sinalizado." },
+        { "level": "B2", "fr": "Le sentier de la baie est dangereux hors des heures de marée basse.", "pt": "O trilho da baía é perigoso fora das horas de maré baixa." },
+        { "level": "C1-C2", "fr": "Le sentier balisé protège les promeneurs de la colère de la mer.", "pt": "O trilho sinalizado protege os caminhantes da fúria do mar." }
+      ]
+    },
+    {
+      "term": "balisé",
+      "definitionPt": "sinalizado",
+      "definitionFr": "Marqué par des balises.",
+      "inflections": ["balisé", "balisée", "balisés"],
+      "ptTargets": ["sinalizado"],
+      "examples": [
+        { "level": "A1", "fr": "Le chemin est balisé.", "pt": "O caminho é sinalizado." },
+        { "level": "A2-B1", "fr": "Restez sur le sentier balisé !", "pt": "Fiquem no trilho sinalizado!" },
+        { "level": "B2", "fr": "Le sentier balisé traverse la baie en sécurité.", "pt": "O trilho sinalizado atravessa a baía com segurança." },
+        { "level": "C1-C2", "fr": "Hors du sentier balisé, la baie redevient sauvage.", "pt": "Fora do trilho sinalizado, a baía volta a ser selvagem." }
+      ]
+    },
+    {
+      "term": "cacher",
+      "definitionPt": "esconder",
+      "definitionFr": "Mettre hors de vue.",
+      "inflections": ["je cache", "nous cachons", "caché"],
+      "ptTargets": ["esconder"],
+      "examples": [
+        { "level": "A1", "fr": "Je cache le cadeau.", "pt": "Escondo o presente." },
+        { "level": "A2-B1", "fr": "La baie cache des dangers.", "pt": "A baía esconde perigos." },
+        { "level": "B2", "fr": "Le sable cache des trous profonds.", "pt": "A areia esconde buracos profundos." },
+        { "level": "C1-C2", "fr": "La beauté de la baie cache la violence de ses marées.", "pt": "A beleza da baía esconde a violência de suas marés." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Le contraste imparfait / passé composé : le danger de la baie",
+    "explanationPt": "O imparfait descreve o cenário (le sable semblait solide — a areia parecia sólida); o passé composé narra o evento (un promeneur a coulé — um caminhante afundou). Juntos, contam a história do perigo.",
+    "exampleFr": "Le sable semblait solide, mais un promeneur a coulé sous la surface.",
+    "examplePt": "A areia parecia sólida, mas um caminhante afundou sob a superfície.",
+    "practiceQuestion": "Complete: « Le sable ___ solide, mais il ne l'était pas. »",
+    "options": ["semblait", "a semblé", "semblera"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "Autrefois + imparfait : le passé lointain",
+        "explanationPt": "'Autrefois' (antigamente) + imparfait descreve hábitos do passado longínquo: 'autrefois, des voyageurs marchaient sans guide'.",
+        "exampleFr": "Autrefois, des voyageurs marchaient sans guide et ne voyaient pas le danger.",
+        "examplePt": "Antigamente, viajantes caminhavam sem guia e não viam o perigo.",
+        "practiceQuestion": "Complete: « Autrefois, les voyageurs ___ sans guide. »",
+        "options": ["marchaient", "ont marché", "marchent"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "Exprimer la prudence : il faut, attention, rester",
+        "explanationPt": "Para falar de prudência: 'il faut un guide' (é preciso um guia), 'attention !' (cuidado!), 'rester sur le sentier' (ficar no trilho).",
+        "exampleFr": "Attention ! Il faut rester sur le sentier balisé.",
+        "examplePt": "Cuidado! É preciso ficar no trilho sinalizado.",
+        "practiceQuestion": "Complete: « Il ___ un guide pour traverser la baie. »",
+        "options": ["faut", "faux", "fais"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "O que escondem as areias da baía?",
+      "options": ["Areias movediças e perigos", "Tesouros de piratas", "Fontes de água doce"],
+      "correctIndex": 0,
+      "explanation": "Sob a superfície, a baía esconde sables mouvants e outros perigos."
+    },
+    {
+      "question": "Complete: « Le sable ___ solide, mais il ne l'était pas. »",
+      "options": ["semblait", "a semblé", "semblera"],
+      "correctIndex": 0,
+      "explanation": "Descrição do cenário = imparfait: 'semblait'."
+    },
+    {
+      "question": "Com que velocidade a maré pode subir?",
+      "options": ["A de um cavalo a galope", "A de uma tartaruga", "A de um caracol"],
+      "correctIndex": 0,
+      "explanation": "A maré da baía pode avançar à velocidade de um cavalo a galope."
+    },
+    {
+      "question": "O que é preciso para atravessar a baía com segurança?",
+      "options": ["Um guia", "Um barco a remo", "Botas de borracha"],
+      "correctIndex": 0,
+      "explanation": "A travessia da baía exige um guia que conhece os perigos."
+    },
+    {
+      "question": "Onde a família decidiu andar?",
+      "options": ["No sentier balisé", "No meio das areias", "Perto do Couesnon"],
+      "correctIndex": 0,
+      "explanation": "A família prometeu ficar apenas no trilho sinalizado."
+    }
+  ]
+}

@@ -1,0 +1,237 @@
+{
+  "id": "mont_saint_michel_lesson_37",
+  "cityId": "mont-saint-michel",
+  "domain": "Natureza & Paisagem",
+  "level": "Básico (A2/B1)",
+  "titleFr": "Le phare de la baie : la lumière au loin",
+  "titlePt": "O farol da baía: a luz ao longe",
+  "subtitleFr": "Sur la digue, la nuit, une lumière guide les bateaux",
+  "subtitlePt": "Na calçada, à noite, uma luz guia os barcos",
+  "summaryPt": "Nesta Aula 37 (A2/B1), a família passeia à noite pela digue e vê a luz do farol de la Pointe du Grouin ao longe. Irlan explica o trabalho do gardien de phare. O aluno pratica o contraste imparfait/passé composé (il faisait nuit, nous avons vu) e as expressões de distância.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "La nuit tombait sur la baie. La famille marchait sur la digue, main dans la main. Soudain, une lumière a tourné au loin. « C'est le phare », a dit Irlan. « Il montre le chemin aux bateaux. »",
+      "pt": "A noite caía sobre a baía. A família caminhava na calçada, de mãos dadas. De repente, uma luz girou ao longe. « É o farol », disse Irlan. « Ele mostra o caminho aos barcos. »"
+    },
+    {
+      "id": 2,
+      "fr": "« Autrefois, le gardien montait les escaliers du phare chaque soir », a raconté Irlan. « Maintenant, les phares sont automatiques. Mais les marins regardent toujours cette lumière avec confiance. »",
+      "pt": "« Antigamente, o guardião subia as escadas do farol todas as noites », contou Irlan. « Agora, os faróis são automáticos. Mas os marinheiros olham sempre essa luz com confiança. »"
+    },
+    {
+      "id": 3,
+      "fr": "Iris a demandé : « Est-ce que le phare voit le Mont, papa ? » Irlan a ri : « Non, ma puce. Le phare voit la mer. Mais le Mont, lui, voit les phares de toutes les côtes. »",
+      "pt": "Íris perguntou: « O farol vê o Mont, papai? » Irlan riu: « Não, minha flor. O farol vê o mar. Mas o Mont, ele, vê os faróis de todas as costas. »"
+    },
+    {
+      "id": 4,
+      "fr": "« Quand j'étais livreur à Paris, je connaissais chaque rue comme le phare connaît la côte », a dit Irlan. « La nuit, je sentais la ville comme on sent la mer : toujours en mouvement. »",
+      "pt": "« Quando eu era entregador em Paris, eu conhecia cada rua como o farol conhece a costa », disse Irlan. « À noite, eu sentia a cidade como se sente o mar: sempre em movimento. »"
+    },
+    {
+      "id": 5,
+      "fr": "Andréa a ajouté : « Chacun a sa lumière. Toi, tu es la lumière de notre maison. » Irlan a souri dans le noir. La baie brillait sous la lune.",
+      "pt": "Andréa acrescentou: « Cada um tem a sua luz. Você, você é a luz da nossa casa. » Irlan sorriu no escuro. A baía brilhava sob a lua."
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "le phare",
+      "definitionPt": "o farol",
+      "definitionFr": "Tour avec une lumière qui guide les bateaux.",
+      "inflections": ["le phare", "un phare", "des phares"],
+      "ptTargets": ["farol"],
+      "examples": [
+        { "level": "A1", "fr": "Le phare est blanc.", "pt": "O farol é branco." },
+        { "level": "A2-B1", "fr": "Le phare guide les bateaux la nuit.", "pt": "O farol guia os barcos à noite." },
+        { "level": "B2", "fr": "La lumière du phare tourne au-dessus de la mer.", "pt": "A luz do farol gira acima do mar." },
+        { "level": "C1-C2", "fr": "Le phare, sentinelle des côtes, veille sur les navigateurs.", "pt": "O farol, sentinela das costas, vigia os navegadores." }
+      ]
+    },
+    {
+      "term": "la lumière",
+      "definitionPt": "a luz",
+      "definitionFr": "Clarté qui permet de voir.",
+      "inflections": ["la lumière", "une lumière", "des lumières"],
+      "ptTargets": ["luz"],
+      "examples": [
+        { "level": "A1", "fr": "La lumière est forte.", "pt": "A luz é forte." },
+        { "level": "A2-B1", "fr": "La lumière du phare est visible de loin.", "pt": "A luz do farol é visível de longe." },
+        { "level": "B2", "fr": "Nous avons vu une lumière au loin.", "pt": "Vimos uma luz ao longe." },
+        { "level": "C1-C2", "fr": "La lumière s'évanouit à l'horizon, comme un espoir qui s'éloigne.", "pt": "A luz se desvanece no horizonte, como uma esperança que se afasta." }
+      ]
+    },
+    {
+      "term": "le bateau",
+      "definitionPt": "o barco",
+      "definitionFr": "Véhicule qui flotte sur l'eau.",
+      "inflections": ["le bateau", "un bateau", "des bateaux"],
+      "ptTargets": ["barco"],
+      "examples": [
+        { "level": "A1", "fr": "Le bateau est sur la mer.", "pt": "O barco está no mar." },
+        { "level": "A2-B1", "fr": "Les bateaux rentrent au port avant la nuit.", "pt": "Os barcos voltam ao porto antes da noite." },
+        { "level": "B2", "fr": "Le bateau a suivi la lumière du phare.", "pt": "O barco seguiu a luz do farol." },
+        { "level": "C1-C2", "fr": "Chaque bateau est une histoire qui traverse la mer.", "pt": "Cada barco é uma história que atravessa o mar." }
+      ]
+    },
+    {
+      "term": "le gardien",
+      "definitionPt": "o guardião",
+      "definitionFr": "Personne qui garde quelque chose.",
+      "inflections": ["le gardien", "un gardien", "des gardiens"],
+      "ptTargets": ["guardião"],
+      "examples": [
+        { "level": "A1", "fr": "Le gardien ouvre la porte.", "pt": "O guardião abre a porta." },
+        { "level": "A2-B1", "fr": "Le gardien du phare montait les escaliers chaque soir.", "pt": "O guardião do farol subia as escadas todas as noites." },
+        { "level": "B2", "fr": "Autrefois, le gardien vivait seul dans le phare.", "pt": "Antigamente, o guardião vivia sozinho no farol." },
+        { "level": "C1-C2", "fr": "Le gardien de phare, veilleur solitaire, connaissait la mer mieux que quiconque.", "pt": "O guardião do farol, vigia solitário, conhecia o mar melhor do que ninguém." }
+      ]
+    },
+    {
+      "term": "le marin",
+      "definitionPt": "o marinheiro",
+      "definitionFr": "Personne qui travaille sur un bateau.",
+      "inflections": ["le marin", "un marin", "des marins"],
+      "ptTargets": ["marinheiro"],
+      "examples": [
+        { "level": "A1", "fr": "Le marin dort sur le bateau.", "pt": "O marinheiro dorme no barco." },
+        { "level": "A2-B1", "fr": "Les marins regardent le phare avec confiance.", "pt": "Os marinheiros olham o farol com confiança." },
+        { "level": "B2", "fr": "Le marin a reconnu la côte grâce au phare.", "pt": "O marinheiro reconheceu a costa graças ao farol." },
+        { "level": "C1-C2", "fr": "Les marins savent que la lumière du phare ne ment jamais.", "pt": "Os marinheiros sabem que a luz do farol nunca mente." }
+      ]
+    },
+    {
+      "term": "loin",
+      "definitionPt": "longe",
+      "definitionFr": "À grande distance.",
+      "inflections": ["loin", "plus loin", "au loin"],
+      "ptTargets": ["longe"],
+      "examples": [
+        { "level": "A1", "fr": "Le phare est loin.", "pt": "O farol é longe." },
+        { "level": "A2-B1", "fr": "Nous avons vu une lumière au loin.", "pt": "Vimos uma luz ao longe." },
+        { "level": "B2", "fr": "La baie s'étend loin derrière le Mont.", "pt": "A baía se estende longe atrás do Mont." },
+        { "level": "C1-C2", "fr": "De loin, le Mont semble flotter sur la mer.", "pt": "De longe, o Mont parece flutuar sobre o mar." }
+      ]
+    },
+    {
+      "term": "la digue",
+      "definitionPt": "a calçada, o dique",
+      "definitionFr": "Construction qui protège la terre de la mer.",
+      "inflections": ["la digue", "une digue", "des digues"],
+      "ptTargets": ["dique", "calçada"],
+      "examples": [
+        { "level": "A1", "fr": "La digue est longue.", "pt": "O dique é comprido." },
+        { "level": "A2-B1", "fr": "La famille a marché sur la digue.", "pt": "A família caminhou no dique." },
+        { "level": "B2", "fr": "La digue protège la baie des grandes marées.", "pt": "O dique protege a baía das grandes marés." },
+        { "level": "C1-C2", "fr": "Sur la digue, le vent raconte l'histoire de la mer.", "pt": "No dique, o vento conta a história do mar." }
+      ]
+    },
+    {
+      "term": "la nuit",
+      "definitionPt": "a noite",
+      "definitionFr": "Le moment où il fait sombre.",
+      "inflections": ["la nuit", "une nuit", "des nuits"],
+      "ptTargets": ["noite"],
+      "examples": [
+        { "level": "A1", "fr": "La nuit est noire.", "pt": "A noite é escura." },
+        { "level": "A2-B1", "fr": "La nuit tombait sur la baie.", "pt": "A noite caía sobre a baía." },
+        { "level": "B2", "fr": "Nous avons marché toute la nuit.", "pt": "Caminhamos a noite toda." },
+        { "level": "C1-C2", "fr": "La nuit enveloppait le Mont d'un silence millénaire.", "pt": "A noite envolvia o Mont num silêncio milenar." }
+      ]
+    },
+    {
+      "term": "le chemin",
+      "definitionPt": "o caminho",
+      "definitionFr": "Route, direction pour aller quelque part.",
+      "inflections": ["le chemin", "un chemin", "des chemins"],
+      "ptTargets": ["caminho"],
+      "examples": [
+        { "level": "A1", "fr": "Le chemin est long.", "pt": "O caminho é longo." },
+        { "level": "A2-B1", "fr": "Le phare montre le chemin aux bateaux.", "pt": "O farol mostra o caminho aos barcos." },
+        { "level": "B2", "fr": "Nous avons trouvé le chemin grâce à la lumière.", "pt": "Encontramos o caminho graças à luz." },
+        { "level": "C1-C2", "fr": "Chacun cherche son chemin, comme les bateaux cherchent la lumière.", "pt": "Cada um procura o seu caminho, como os barcos procuram a luz." }
+      ]
+    },
+    {
+      "term": "automatique",
+      "definitionPt": "automático",
+      "definitionFr": "Qui fonctionne tout seul.",
+      "inflections": ["automatique", "automatiques"],
+      "ptTargets": ["automático"],
+      "examples": [
+        { "level": "A1", "fr": "La porte est automatique.", "pt": "A porta é automática." },
+        { "level": "A2-B1", "fr": "Les phares sont automatiques maintenant.", "pt": "Os faróis são automáticos agora." },
+        { "level": "B2", "fr": "Le système automatique allume la lumière seul.", "pt": "O sistema automático acende a luz sozinho." },
+        { "level": "C1-C2", "fr": "L'automatisation a libéré le gardien, mais la lumière a perdu son âme.", "pt": "A automatização libertou o guardião, mas a luz perdeu sua alma." }
+      ]
+    },
+    {
+      "term": "la confiance",
+      "definitionPt": "a confiança",
+      "definitionFr": "Sentiment de sécurité en quelqu'un.",
+      "inflections": ["la confiance", "une confiance"],
+      "ptTargets": ["confiança"],
+      "examples": [
+        { "level": "A1", "fr": "J'ai confiance en toi.", "pt": "Eu tenho confiança em você." },
+        { "level": "A2-B1", "fr": "Les marins regardent le phare avec confiance.", "pt": "Os marinheiros olham o farol com confiança." },
+        { "level": "B2", "fr": "La confiance se construit avec le temps.", "pt": "A confiança se constrói com o tempo." },
+        { "level": "C1-C2", "fr": "La confiance des marins en cette lumière ne s'est jamais démentie.", "pt": "A confiança dos marinheiros nessa luz nunca se desmentiu." }
+      ]
+    },
+    {
+      "term": "la mer",
+      "definitionPt": "o mar",
+      "definitionFr": "Grande étendue d'eau salée.",
+      "inflections": ["la mer", "une mer", "des mers"],
+      "ptTargets": ["mar"],
+      "examples": [
+        { "level": "A1", "fr": "La mer est bleue.", "pt": "O mar é azul." },
+        { "level": "A2-B1", "fr": "La mer monte et descend dans la baie.", "pt": "O mar sobe e desce na baía." },
+        { "level": "B2", "fr": "Nous avons écouté la mer toute la nuit.", "pt": "Ouvimos o mar a noite toda." },
+        { "level": "C1-C2", "fr": "La mer, éternelle recommenceuse, efface et réécrit le paysage.", "pt": "O mar, eterno recomeçador, apaga e reescreve a paisagem." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "titleFr": "L'imparfait de description et le passé composé",
+    "titlePt": "O imperfeito de descrição e o passé composé",
+    "points": [
+      {
+        "fr": "L'imparfait décrit le décor : « La nuit tombait, la famille marchait. » Le passé composé annonce l'événement : « Une lumière a tourné. »",
+        "pt": "O imperfeito descreve o cenário: « A noite caía, a família caminhava. » O passé composé anuncia o acontecimento: « Uma luz girou. »"
+      },
+      {
+        "fr": "Les expressions de distance : « au loin », « de loin », « loin de ». Exemple : « Le phare n'est pas loin du Mont. »",
+        "pt": "As expressões de distância: « ao longe », « de longe », « longe de ». Exemplo: « O farol não fica longe do Mont. »"
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Qu'est-ce que le phare montre aux bateaux ?",
+      "options": ["Le chemin", "Le Mont", "Les poissons", "Les maisons"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Que faisait le gardien autrefois, chaque soir ?",
+      "options": ["Il montait les escaliers du phare", "Il dormait sur la plage", "Il vendait du pain", "Il pêchait des crabes"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Où la famille marchait-elle ?",
+      "options": ["Sur la digue", "Dans la Grande Rue", "Sur le toit de l'église", "Dans la forêt"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Qui est la « lumière de la maison » selon Andréa ?",
+      "options": ["Irlan", "Le phare", "Iris", "Le gardien"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Comment sont les phares maintenant ?",
+      "options": ["Automatiques", "En bois", "Sous l'eau", "Très petits"],
+      "correctIndex": 0
+    }
+  ]
+}

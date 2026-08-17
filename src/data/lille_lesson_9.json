@@ -1,0 +1,252 @@
+{
+  "id": "lille_lesson_9",
+  "cityId": "lille",
+  "domain": "Cotidiano",
+  "level": "Básico (A2)",
+  "titleFr": "Une soirée à l'estaminet : les souvenirs de Paris",
+  "titlePt": "Uma noite no estaminet: as lembranças de Paris",
+  "subtitleFr": "Irlan raconte ses années de livreur en scooter et la famille écoute en souriant",
+  "subtitlePt": "Irlan conta seus anos de entregador de scooter e a família escuta sorrindo",
+  "summaryPt": "Nesta Aula 9 (A2), a família janta em um estaminet e Irlan conta suas lembranças dos anos de entregador de scooter em Paris: as ruas, a chuva, os clientes e a correria. O aluno pratica a narração de uma sequência no passado (d'abord, ensuite, enfin) e o Passé Composé para contar histórias.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Le soir, nous avons dîné dans un estaminet chaleureux. Après le repas, Íris a demandé : « Papa, raconte-nous tes années de livreur à Paris ! »",
+      "pt": "À noite, jantamos em um estaminet acolhedor. Depois da refeição, Íris pediu: « Papai, conta para a gente seus anos de entregador em Paris! »"
+    },
+    {
+      "id": 2,
+      "fr": "Irlan a souri et il a raconté : « D'abord, je prenais ma scooter tous les matins. Ensuite, je parcourais la ville avec les commandes. Le soir, je rentrais fatigué mais heureux. »",
+      "pt": "Irlan sorriu e contou: « Primeiro, eu pegava minha scooter todas as manhãs. Depois, eu percorria a cidade com os pedidos. À noite, voltava cansado, mas feliz. »"
+    },
+    {
+      "id": 3,
+      "fr": "Il a expliqué qu'il connaissait chaque rue de Paris grâce aux livraisons. « Un jour, j'ai livré une commande à Andréa, dans une boulangerie », a-t-il ajouté en riant.",
+      "pt": "Ele explicou que conhecia cada rua de Paris graças às entregas. « Um dia, entreguei um pedido para a Andréa, em uma padaria », acrescentou rindo."
+    },
+    {
+      "id": 4,
+      "fr": "Andréa a rougi. « C'est vrai ! » a-t-elle dit. « Et aujourd'hui, nous voyageons tous les trois. » Irlan a conclu : « Enfin, la vie a une belle histoire à raconter. »",
+      "pt": "Andréa corou. « É verdade! » disse ela. « E hoje, viajamos nós três. » Irlan concluiu: « Por fim, a vida tem uma bela história para contar. »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "raconter",
+      "definitionPt": "contar (história)",
+      "definitionFr": "Dire une histoire, relater.",
+      "inflections": ["je raconte", "nous racontons", "raconté"],
+      "ptTargets": ["contar"],
+      "examples": [
+        { "level": "A1", "fr": "Je raconte une histoire.", "pt": "Eu conto uma história." },
+        { "level": "A2-B1", "fr": "Irlan a raconté ses années à Paris.", "pt": "Irlan contou seus anos em Paris." },
+        { "level": "B2", "fr": "Il a raconté comment il avait rencontré Andréa.", "pt": "Ele contou como tinha conhecido Andréa." },
+        { "level": "C1-C2", "fr": "Raconter son parcours de vie, c'est transmettre une expérience unique à la génération suivante.", "pt": "Contar sua trajetória de vida é transmitir uma experiência única à geração seguinte." }
+      ]
+    },
+    {
+      "term": "l'histoire",
+      "definitionPt": "a história",
+      "definitionFr": "Récit, événements du passé.",
+      "inflections": ["l'histoire", "les histoires"],
+      "ptTargets": ["história"],
+      "examples": [
+        { "level": "A1", "fr": "L'histoire est belle.", "pt": "A história é bonita." },
+        { "level": "A2-B1", "fr": "La vie d'Irlan est une belle histoire.", "pt": "A vida do Irlan é uma bela história." },
+        { "level": "B2", "fr": "L'histoire de la ville se lit dans ses rues.", "pt": "A história da cidade se lê em suas ruas." },
+        { "level": "C1-C2", "fr": "L'histoire des migrations raconte la construction des sociétés modernes.", "pt": "A história das migrações conta a construção das sociedades modernas." }
+      ]
+    },
+    {
+      "term": "le passé",
+      "definitionPt": "o passado",
+      "definitionFr": "Le temps qui est déjà écoulé.",
+      "inflections": ["le passé"],
+      "ptTargets": ["passado"],
+      "examples": [
+        { "level": "A1", "fr": "Le passé est loin.", "pt": "O passado está longe." },
+        { "level": "A2-B1", "fr": "Irlan parle de son passé de livreur.", "pt": "Irlan fala do seu passado de entregador." },
+        { "level": "B2", "fr": "Le passé industriel de la région est encore visible aujourd'hui.", "pt": "O passado industrial da região ainda é visível hoje." },
+        { "level": "C1-C2", "fr": "Se souvenir du passé aide à comprendre le présent et à construire l'avenir.", "pt": "Lembrar do passado ajuda a compreender o presente e a construir o futuro." }
+      ]
+    },
+    {
+      "term": "les années",
+      "definitionPt": "os anos",
+      "definitionFr": "Périodes de douze mois.",
+      "inflections": ["l'année", "les années"],
+      "ptTargets": ["anos"],
+      "examples": [
+        { "level": "A1", "fr": "Les années passent vite.", "pt": "Os anos passam rápido." },
+        { "level": "A2-B1", "fr": "Il a parlé de ses années à Paris.", "pt": "Ele falou dos seus anos em Paris." },
+        { "level": "B2", "fr": "Les années de livreur lui ont appris la ville par cœur.", "pt": "Os anos de entregador lhe ensinaram a cidade de cor." },
+        { "level": "C1-C2", "fr": "Les années de travail manuel ont forgé sa connaissance intime de l'espace urbain.", "pt": "Os anos de trabalho manual forjaram seu conhecimento íntimo do espaço urbano." }
+      ]
+    },
+    {
+      "term": "le travail",
+      "definitionPt": "o trabalho",
+      "definitionFr": "Activité professionnelle.",
+      "inflections": ["le travail", "les travaux"],
+      "ptTargets": ["trabalho"],
+      "examples": [
+        { "level": "A1", "fr": "Le travail est dur.", "pt": "O trabalho é difícil." },
+        { "level": "A2-B1", "fr": "Son premier travail en France était livreur.", "pt": "Seu primeiro trabalho na França foi de entregador." },
+        { "level": "B2", "fr": "Le travail de livreur demande beaucoup d'énergie et de courage.", "pt": "O trabalho de entregador exige muita energia e coragem." },
+        { "level": "C1-C2", "fr": "Le travail des livreurs à vélo et en scooter a profondément transformé les villes.", "pt": "O trabalho dos entregadores de bicicleta e scooter transformou profundamente as cidades." }
+      ]
+    },
+    {
+      "term": "la scooter",
+      "definitionPt": "a scooter",
+      "definitionFr": "Véhicule à deux roues à moteur.",
+      "inflections": ["la scooter", "les scooters"],
+      "ptTargets": ["scooter"],
+      "examples": [
+        { "level": "A1", "fr": "La scooter est rapide.", "pt": "A scooter é rápida." },
+        { "level": "A2-B1", "fr": "Irlan faisait ses livraisons en scooter.", "pt": "Irlan fazia suas entregas de scooter." },
+        { "level": "B2", "fr": "La scooter permet de se déplacer vite dans les embouteillages.", "pt": "A scooter permite se deslocar rápido no trânsito." },
+        { "level": "C1-C2", "fr": "L'usage de la scooter en milieu urbain pose des questions de sécurité et de pollution.", "pt": "O uso da scooter em meio urbano levanta questões de segurança e poluição." }
+      ]
+    },
+    {
+      "term": "le client",
+      "definitionPt": "o cliente",
+      "definitionFr": "Personne qui achète un service ou un produit.",
+      "inflections": ["le client", "les clients"],
+      "ptTargets": ["cliente"],
+      "examples": [
+        { "level": "A1", "fr": "Le client attend.", "pt": "O cliente espera." },
+        { "level": "A2-B1", "fr": "Les clients attendaient leurs commandes à Paris.", "pt": "Os clientes esperavam seus pedidos em Paris." },
+        { "level": "B2", "fr": "Un livreur doit souvent répondre aux demandes des clients pressés.", "pt": "Um entregador precisa muitas vezes atender aos pedidos de clientes apressados." },
+        { "level": "C1-C2", "fr": "La relation entre livreur et client est devenue un enjeu central des plateformes numériques.", "pt": "A relação entre entregador e cliente tornou-se um desafio central das plataformas digitais." }
+      ]
+    },
+    {
+      "term": "la pluie",
+      "definitionPt": "a chuva",
+      "definitionFr": "Eau qui tombe du ciel.",
+      "inflections": ["la pluie", "les pluies"],
+      "ptTargets": ["chuva"],
+      "examples": [
+        { "level": "A1", "fr": "La pluie tombe.", "pt": "A chuva cai." },
+        { "level": "A2-B1", "fr": "Il a travaillé sous la pluie pendant des heures.", "pt": "Ele trabalhou sob a chuva durante horas." },
+        { "level": "B2", "fr": "Sous la pluie, les livraisons deviennent beaucoup plus difficiles.", "pt": "Sob a chuva, as entregas ficam muito mais difíceis." },
+        { "level": "C1-C2", "fr": "La pluie parisienne, grise et fine, fait partie de la mémoire de tous les livreurs.", "pt": "A chuva parisiense, cinzenta e fina, faz parte da memória de todos os entregadores." }
+      ]
+    },
+    {
+      "term": "l'hiver",
+      "definitionPt": "o inverno",
+      "definitionFr": "La saison la plus froide.",
+      "inflections": ["l'hiver", "les hivers"],
+      "ptTargets": ["inverno"],
+      "examples": [
+        { "level": "A1", "fr": "L'hiver est froid.", "pt": "O inverno é frio." },
+        { "level": "A2-B1", "fr": "En hiver, la scooter était difficile à conduire.", "pt": "No inverno, a scooter era difícil de conduzir." },
+        { "level": "B2", "fr": "Les hivers parisiens sont froids et humides.", "pt": "Os invernos parisienses são frios e úmidos." },
+        { "level": "C1-C2", "fr": "Affronter l'hiver en livrant en scooter exige une grande résistance physique.", "pt": "Enfrentar o inverno entregando de scooter exige grande resistência física." }
+      ]
+    },
+    {
+      "term": "la commande",
+      "definitionPt": "o pedido (encomenda)",
+      "definitionFr": "Produit demandé et à livrer.",
+      "inflections": ["la commande", "les commandes"],
+      "ptTargets": ["pedido"],
+      "examples": [
+        { "level": "A1", "fr": "La commande est prête.", "pt": "O pedido está pronto." },
+        { "level": "A2-B1", "fr": "Il a livré la commande à la boulangerie.", "pt": "Ele entregou o pedido na padaria." },
+        { "level": "B2", "fr": "Les commandes s'enchaînaient sans pause pendant le déjeuner.", "pt": "Os pedidos se sucediam sem pausa durante o almoço." },
+        { "level": "C1-C2", "fr": "La gestion des commandes en temps réel a révolutionné la logistique urbaine.", "pt": "A gestão de pedidos em tempo real revolucionou a logística urbana." }
+      ]
+    },
+    {
+      "term": "livrer",
+      "definitionPt": "entregar",
+      "definitionFr": "Apporter une commande à quelqu'un.",
+      "inflections": ["je livre", "nous livrons", "livré"],
+      "ptTargets": ["entregar"],
+      "examples": [
+        { "level": "A1", "fr": "Je livre le colis.", "pt": "Eu entrego o pacote." },
+        { "level": "A2-B1", "fr": "Il a livré une commande à Andréa.", "pt": "Ele entregou um pedido para Andréa." },
+        { "level": "B2", "fr": "Il livrait des repas à travers tout Paris.", "pt": "Ele entregava refeições por toda Paris." },
+        { "level": "C1-C2", "fr": "Livrer en scooter dans la capitale exige une connaissance parfaite de ses rues.", "pt": "Entregar de scooter na capital exige um conhecimento perfeito de suas ruas." }
+      ]
+    },
+    {
+      "term": "la vie",
+      "definitionPt": "a vida",
+      "definitionFr": "Existence, manière de vivre.",
+      "inflections": ["la vie", "les vies"],
+      "ptTargets": ["vida"],
+      "examples": [
+        { "level": "A1", "fr": "La vie est belle.", "pt": "A vida é bela." },
+        { "level": "A2-B1", "fr": "La vie d'Irlan a changé en France.", "pt": "A vida do Irlan mudou na França." },
+        { "level": "B2", "fr": "La vie de famille a transformé ses priorités.", "pt": "A vida em família transformou suas prioridades." },
+        { "level": "C1-C2", "fr": "La vie raconte parfois des histoires plus belles que les romans.", "pt": "A vida conta às vezes histórias mais bonitas que os romances." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Narrer une séquence : d'abord, ensuite, enfin",
+    "explanationPt": "Para contar uma história, usamos marcadores de sequência: 'd'abord' (primeiro), 'ensuite' (depois), 'enfin' (por fim). Eles organizam a narração e usam o Passé Composé para as ações.",
+    "exampleFr": "D'abord, je prenais ma scooter. Ensuite, je parcourais la ville. Enfin, je rentrais à la maison.",
+    "examplePt": "Primeiro, eu pegava minha scooter. Depois, percorria a cidade. Por fim, voltava para casa.",
+    "practiceQuestion": "Complete a sequência: « ___, j'ai livré la commande à Andréa. »",
+    "options": ["Un jour", "Enfin", "Toujours"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "Les marqueurs de la narration",
+        "explanationPt": "'Un jour' (um dia) introduz um evento marcante; 'd'abord/ensuite/enfin' organizam o desenrolar da história.",
+        "exampleFr": "Un jour, j'ai livré une commande à Andréa.",
+        "examplePt": "Um dia, entreguei um pedido para Andréa.",
+        "practiceQuestion": "Qual marcador introduz um evento surpreendente?",
+        "options": ["Un jour", "Enfin", "Hier soir"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "Le Passé Composé pour raconter",
+        "explanationPt": "No relato, o Passé Composé marca ações concluídas: 'il a raconté', 'elle a rougi', 'nous avons dîné'.",
+        "exampleFr": "Irlan a raconté ses années de livreur.",
+        "examplePt": "Irlan contou seus anos de entregador.",
+        "practiceQuestion": "Qual frase está no Passé Composé?",
+        "options": ["Elle a rougi.", "Elle rougit.", "Elle rougira."],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "O que Íris pediu ao pai durante o jantar?",
+      "options": ["que contasse seus anos de entregador em Paris", "que comprasse um brinquedo", "que falasse inglês"],
+      "correctIndex": 0,
+      "explanation": "Íris pediu: 'Papa, raconte-nous tes années de livreur à Paris !'"
+    },
+    {
+      "question": "Como Irlan conhecia cada rua de Paris?",
+      "options": ["graças às entregas de scooter", "porque estudou mapas", "porque era guia"],
+      "correctIndex": 0,
+      "explanation": "As entregas de scooter o fizeram conhecer cada rua da cidade."
+    },
+    {
+      "question": "Onde Irlan conheceu Andréa?",
+      "options": ["ao entregar um pedido em uma boulangerie", "na universidade", "no aeroporto"],
+      "correctIndex": 0,
+      "explanation": "Irlan conheceu Andréa ao entregar uma encomenda na padaria onde ela estava."
+    },
+    {
+      "question": "Complete com o marcador de sequência: « ___, je parcourais la ville. »",
+      "options": ["Ensuite", "Demain", "Bientôt"],
+      "correctIndex": 0,
+      "explanation": "'Ensuite' (depois) segue 'd'abord' (primeiro) na narração."
+    },
+    {
+      "question": "Qual foi a conclusão de Irlan?",
+      "options": ["a vida tem uma bela história para contar", "Paris é a cidade mais cara", "a scooter era muito lenta"],
+      "correctIndex": 0,
+      "explanation": "Irlan concluiu: 'Enfin, la vie a une belle histoire à raconter'."
+    }
+  ]
+}

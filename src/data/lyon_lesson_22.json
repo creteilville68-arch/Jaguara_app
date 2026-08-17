@@ -1,0 +1,257 @@
+{
+  "id": "lyon_lesson_22",
+  "cityId": "lyon",
+  "domain": "História & Patrimônio",
+  "level": "Intermediário (B2+)",
+  "titleFr": "Le Grand Hôtel-Dieu : l'hôpital devenu palais",
+  "titlePt": "O Grand Hôtel-Dieu: o hospital virado palácio",
+  "subtitleFr": "Découvrir le grand édifice avec le discours indirect",
+  "subtitlePt": "Descobrir o grande edifício com o discurso indireto",
+  "summaryPt": "Diante do Rhône, o Grand Hôtel-Dieu foi por quatro séculos o hospital dos lionenses, com suas famosas cúpulas. Hoje, restaurado, o edifício abriga lojas e um hotel de luxo. Irlan, que entregou remédios e refeições, descobre o respeito da cidade pela sua história. Nesta aula B2+, o discurso indireto narra essa metamorfose.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "« Ce bâtiment, c'est l'ancien Hôtel-Dieu », dit Andréa. Irlan leva les yeux : quatre dômes, une façade immense. « On m'a dit que les malades y étaient soignés gratuitement depuis 1641. »",
+      "pt": "« Este prédio é o antigo Hôtel-Dieu », disse Andréa. Irlan ergueu os olhos: quatro cúpulas, uma fachada imensa. « Disseram-me que os doentes eram tratados gratuitamente nele desde 1641. »"
+    },
+    {
+      "id": 2,
+      "fr": "Pendant des siècles, l'Hôtel-Dieu fut le plus grand hôpital de la ville. « Le guide nous a raconté que les sœurs y accueillaient les pauvres, les voyageurs et les malades », continua Andréa. Irlan imagina les lits alignés sous les voûtes.",
+      "pt": "Durante séculos, o Hôtel-Dieu foi o maior hospital da cidade. « O guia nos contou que as irmãs recebiam nele os pobres, os viajantes e os doentes », continuou Andréa. Irlan imaginou os leitos alinhados sob as abóbadas."
+    },
+    {
+      "id": 3,
+      "fr": "Fermé en 2009, l'hôpital a été transformé. « Ils ont dit qu'on y trouverait des boutiques et un hôtel, mais que la façade resterait intacte », expliqua Irlan. Les dômes dorés brillaient au soleil du soir.",
+      "pt": "Fechado em 2009, o hospital foi transformado. « Eles disseram que se encontrariam nele lojas e um hotel, mas que a fachada ficaria intacta », explicou Irlan. As cúpulas douradas brilhavam ao sol da tarde."
+    },
+    {
+      "id": 4,
+      "fr": "« Ce qui est beau, c'est qu'on n'a pas effacé la mémoire », dit Irlan. Il pensa aux boîtes de médicaments qu'il livrait, rue après rue. « Je livrais des remèdes sans savoir où ils étaient préparés. Maintenant je sais : ici, pendant quatre siècles. »",
+      "pt": "« O que é bonito é que não se apagou a memória », disse Irlan. Ele pensou nas caixas de remédios que entregava, rua após rua. « Eu entregava remédios sem saber onde eram preparados. Agora sei: aqui, durante quatro séculos. »"
+    },
+    {
+      "id": 5,
+      "fr": "Le soir, Irlan écrivit : « L'Hôtel-Dieu m'a appris qu'une ville peut changer de vie sans perdre son âme. Les murs restent, la mémoire reste, et le respect des anciens devient la beauté des nouveaux. »",
+      "pt": "À noite, Irlan escreveu: « O Hôtel-Dieu me ensinou que uma cidade pode mudar de vida sem perder sua alma. Os muros ficam, a memória fica, e o respeito pelos antigos vira a beleza dos novos. »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "le dôme",
+      "definitionPt": "cúpula",
+      "definitionFr": "Toit en forme de coupole.",
+      "inflections": ["le dôme", "des dômes"],
+      "ptTargets": ["cúpula", "cúpulas"],
+      "examples": [
+        { "level": "A1", "fr": "Le dôme est doré.", "pt": "A cúpula é dourada." },
+        { "level": "A2-B1", "fr": "Les dômes de l'Hôtel-Dieu sont célèbres.", "pt": "As cúpulas do Hôtel-Dieu são famosas." },
+        { "level": "B1-B2", "fr": "Les dômes, dorés au soleil couchant, dominent les quais du Rhône.", "pt": "As cúpulas, douradas ao pôr do sol, dominam os cais do Rhône." },
+        { "level": "C1-C2", "fr": "C'est le dôme qui signale de loin l'ancien hôpital de Lyon.", "pt": "É a cúpula que sinaliza de longe o antigo hospital de Lyon." }
+      ]
+    },
+    {
+      "term": "l'hôpital",
+      "definitionPt": "hospital",
+      "definitionFr": "Lieu où l'on soigne les malades.",
+      "inflections": ["l'hôpital", "des hôpitaux"],
+      "ptTargets": ["hospital", "hospitais"],
+      "examples": [
+        { "level": "A1", "fr": "L'hôpital est grand.", "pt": "O hospital é grande." },
+        { "level": "A2-B1", "fr": "L'Hôtel-Dieu était un hôpital.", "pt": "O Hôtel-Dieu era um hospital." },
+        { "level": "B1-B2", "fr": "L'hôpital, ouvert en 1641, a soigné les Lyonnais pendant des siècles.", "pt": "O hospital, aberto em 1641, tratou os lionenses durante séculos." },
+        { "level": "C1-C2", "fr": "C'est l'hôpital qui a donné à la ville son plus grand palais de la compassion.", "pt": "É o hospital que deu à cidade seu maior palácio da compaixão." }
+      ]
+    },
+    {
+      "term": "la sœur",
+      "definitionPt": "irmã (religiosa)",
+      "definitionFr": "Religieuse qui soigne les malades.",
+      "inflections": ["la sœur", "des sœurs"],
+      "ptTargets": ["irmã", "irmãs"],
+      "examples": [
+        { "level": "A1", "fr": "La sœur est gentille.", "pt": "A irmã é gentil." },
+        { "level": "A2-B1", "fr": "Les sœurs soignaient les malades.", "pt": "As irmãs tratavam os doentes." },
+        { "level": "B1-B2", "fr": "Les sœurs, dévouées, accueillaient les pauvres et les voyageurs.", "pt": "As irmãs, dedicadas, recebiam os pobres e os viajantes." },
+        { "level": "C1-C2", "fr": "C'est la charité des sœurs qui a fait vivre l'hôpital pendant des siècles.", "pt": "É a caridade das irmãs que fez viver o hospital durante séculos." }
+      ]
+    },
+    {
+      "term": "la voûte",
+      "definitionPt": "abóbada",
+      "definitionFr": "Plafond arqué en pierre.",
+      "inflections": ["la voûte", "des voûtes"],
+      "ptTargets": ["abóbada", "abóbadas"],
+      "examples": [
+        { "level": "A1", "fr": "La voûte est haute.", "pt": "A abóbada é alta." },
+        { "level": "A2-B1", "fr": "Les voûtes couvrent les salles.", "pt": "As abóbadas cobrem as salas." },
+        { "level": "B1-B2", "fr": "Les voûtes, majestueuses, abritaient les grands lits des malades.", "pt": "As abóbadas, majestosas, abrigavam os grandes leitos dos doentes." },
+        { "level": "C1-C2", "fr": "C'est sous les voûtes que résonnait la vie de l'hôpital.", "pt": "É sob as abóbadas que ressoava a vida do hospital." }
+      ]
+    },
+    {
+      "term": "effacer",
+      "definitionPt": "apagar",
+      "definitionFr": "Faire disparaître.",
+      "inflections": ["j'efface", "effacer", "effacé"],
+      "ptTargets": ["apagar", "apagado"],
+      "examples": [
+        { "level": "A1", "fr": "J'efface le tableau.", "pt": "Apago o quadro." },
+        { "level": "A2-B1", "fr": "On n'a pas effacé la mémoire.", "pt": "Não se apagou a memória." },
+        { "level": "B1-B2", "fr": "Effacer le passé, c'est appauvrir l'avenir.", "pt": "Apagar o passado é empobrecer o futuro." },
+        { "level": "C1-C2", "fr": "C'est en ne l'effaçant pas que l'on honore le passé.", "pt": "É não o apagando que se honra o passado." }
+      ]
+    },
+    {
+      "term": "le remède",
+      "definitionPt": "remédio",
+      "definitionFr": "Médicament.",
+      "inflections": ["le remède", "des remèdes"],
+      "ptTargets": ["remédio", "remédios"],
+      "examples": [
+        { "level": "A1", "fr": "Le remède est amer.", "pt": "O remédio é amargo." },
+        { "level": "A2-B1", "fr": "Le médecin prescrit un remède.", "pt": "O médico receita um remédio." },
+        { "level": "B1-B2", "fr": "Les remèdes, préparés dans les pharmacies de l'hôpital, soignaient toute la ville.", "pt": "Os remédios, preparados nas farmácias do hospital, tratavam toda a cidade." },
+        { "level": "C1-C2", "fr": "C'est le remède qui réconcilie le corps avec la vie.", "pt": "É o remédio que reconcilia o corpo com a vida." }
+      ]
+    },
+    {
+      "term": "la façade",
+      "definitionPt": "fachada",
+      "definitionFr": "Face extérieure d'un bâtiment.",
+      "inflections": ["la façade", "des façades"],
+      "ptTargets": ["fachada", "fachadas"],
+      "examples": [
+        { "level": "A1", "fr": "La façade est immense.", "pt": "A fachada é imensa." },
+        { "level": "A2-B1", "fr": "La façade donne sur le Rhône.", "pt": "A fachada dá para o Rhône." },
+        { "level": "B1-B2", "fr": "La façade, classée, est restée intacte malgré la transformation.", "pt": "A fachada, tombada, permaneceu intacta apesar da transformação." },
+        { "level": "C1-C2", "fr": "C'est la façade qui garde la mémoire des siècles passés.", "pt": "É a fachada que guarda a memória dos séculos passados." }
+      ]
+    },
+    {
+      "term": "la métamorphose",
+      "definitionPt": "metamorfose, transformação",
+      "definitionFr": "Changement complet de forme ou de nature.",
+      "inflections": ["la métamorphose", "des métamorphoses"],
+      "ptTargets": ["metamorfose", "transformação", "metamorfoses"],
+      "examples": [
+        { "level": "A1", "fr": "La métamorphose est étonnante.", "pt": "A metamorfose é surpreendente." },
+        { "level": "A2-B1", "fr": "L'hôpital a connu une métamorphose.", "pt": "O hospital conheceu uma metamorfose." },
+        { "level": "B1-B2", "fr": "La métamorphose de l'Hôtel-Dieu, respectueuse du passé, est exemplaire.", "pt": "A metamorfose do Hôtel-Dieu, respeitosa do passado, é exemplar." },
+        { "level": "C1-C2", "fr": "C'est une métamorphose qui garde l'âme du lieu.", "pt": "É uma metamorfose que guarda a alma do lugar." }
+      ]
+    },
+    {
+      "term": "la charité",
+      "definitionPt": "caridade",
+      "definitionFr": "Aide donnée aux pauvres.",
+      "inflections": ["la charité"],
+      "ptTargets": ["caridade"],
+      "examples": [
+        { "level": "A1", "fr": "La charité est douce.", "pt": "A caridade é doce." },
+        { "level": "A2-B1", "fr": "L'hôpital soignait par charité.", "pt": "O hospital tratava por caridade." },
+        { "level": "B1-B2", "fr": "La charité, organisée par les sœurs, accueillait tous les malades.", "pt": "A caridade, organizada pelas irmãs, recebia todos os doentes." },
+        { "level": "C1-C2", "fr": "C'est la charité qui a bâti les plus grands hôpitaux de France.", "pt": "É a caridade que construiu os maiores hospitais da França." }
+      ]
+    },
+    {
+      "term": "le voyageur",
+      "definitionPt": "viajante",
+      "definitionFr": "Personne qui voyage.",
+      "inflections": ["le voyageur", "des voyageurs"],
+      "ptTargets": ["viajante", "viajantes"],
+      "examples": [
+        { "level": "A1", "fr": "Le voyageur est fatigué.", "pt": "O viajante está cansado." },
+        { "level": "A2-B1", "fr": "L'hôpital accueillait les voyageurs.", "pt": "O hospital recebia os viajantes." },
+        { "level": "B1-B2", "fr": "Les voyageurs, épuisés par la route, trouvaient un lit à l'Hôtel-Dieu.", "pt": "Os viajantes, exaustos da estrada, encontravam leito no Hôtel-Dieu." },
+        { "level": "C1-C2", "fr": "C'est l'accueil des voyageurs qui a fait la réputation de l'hôpital.", "pt": "É o acolhimento dos viajantes que fez a reputação do hospital." }
+      ]
+    },
+    {
+      "term": "respecter",
+      "definitionPt": "respeitar",
+      "definitionFr": "Honorer, ne pas porter atteinte à.",
+      "inflections": ["je respecte", "respecter", "respecté"],
+      "ptTargets": ["respeitar", "respeitado", "respeita"],
+      "examples": [
+        { "level": "A1", "fr": "Je respecte les règles.", "pt": "Respeito as regras." },
+        { "level": "A2-B1", "fr": "La ville respecte son histoire.", "pt": "A cidade respeita sua história." },
+        { "level": "B1-B2", "fr": "En respectant la façade, la ville a respecté sa mémoire.", "pt": "Respeitando a fachada, a cidade respeitou sua memória." },
+        { "level": "C1-C2", "fr": "C'est en respectant le passé que l'on construit un avenir durable.", "pt": "É respeitando o passado que se constrói um futuro duradouro." }
+      ]
+    },
+    {
+      "term": "le palais",
+      "definitionPt": "palácio",
+      "definitionFr": "Grande demeure majestueuse.",
+      "inflections": ["le palais", "des palais"],
+      "ptTargets": ["palácio", "palácios"],
+      "examples": [
+        { "level": "A1", "fr": "Le palais est immense.", "pt": "O palácio é imenso." },
+        { "level": "A2-B1", "fr": "L'hôpital ressemble à un palais.", "pt": "O hospital parece um palácio." },
+        { "level": "B1-B2", "fr": "Le palais de la compassion, c'est ainsi qu'on surnomme l'Hôtel-Dieu.", "pt": "O palácio da compaixão, é assim que apelidam o Hôtel-Dieu." },
+        { "level": "C1-C2", "fr": "C'est un palais qui a servi à la chose la plus humaine : soigner.", "pt": "É um palácio que serviu à coisa mais humana: curar." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Le discours indirect à l'Hôtel-Dieu",
+    "explanationPt": "O discurso indireto conta o que foi dito: 'On m'a dit que les malades y étaient soignés gratuitement' (disseram-me que eram tratados), 'Le guide nous a raconté que les sœurs y accueillaient les pauvres' (contou que as irmãs recebiam), 'Ils ont dit qu'on y trouverait des boutiques' (disseram que se encontrariam).",
+    "exampleFr": "On m'a dit que les malades y étaient soignés gratuitement depuis 1641.",
+    "examplePt": "Disseram-me que os doentes eram tratados gratuitamente nele desde 1641.",
+    "practiceQuestion": "Complete: « Le guide nous a raconté que les sœurs y ___ les pauvres. »",
+    "options": ["accueillaient", "accueillent", "accueilleront"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "On m'a dit que + imparfait",
+        "explanationPt": "'On m'a dit que les malades y étaient soignés' : discurso indireto com concordância dos tempos.",
+        "exampleFr": "On m'a dit que les malades y étaient soignés gratuitement.",
+        "examplePt": "Disseram-me que os doentes eram tratados gratuitamente nele.",
+        "practiceQuestion": "Complete: « On m'a dit que les malades y ___ soignés. »",
+        "options": ["étaient", "sont", "seront"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "Ils ont dit qu'on y trouverait",
+        "explanationPt": "'Ils ont dit qu'on y trouverait des boutiques' : o futuro do passado no discurso indireto (trouverait).",
+        "exampleFr": "Ils ont dit qu'on y trouverait des boutiques, mais que la façade resterait intacte.",
+        "examplePt": "Eles disseram que se encontrariam nele lojas, mas que a fachada ficaria intacta.",
+        "practiceQuestion": "Complete: « Ils ont dit qu'on y ___ des boutiques. »",
+        "options": ["trouverait", "trouve", "trouvera"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Complete: « Le guide nous a raconté que les sœurs y ___ les pauvres. »",
+      "options": ["accueillaient", "accueillent", "accueilleront"],
+      "correctIndex": 0,
+      "explanation": "Discurso indireto no passado: imperfeito na subordinada."
+    },
+    {
+      "question": "Desde quando o Hôtel-Dieu tratava os doentes?",
+      "options": ["1641", "1741", "1841"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'soignés gratuitement depuis 1641'."
+    },
+    {
+      "question": "Quem o guia disse que recebia os pobres e viajantes?",
+      "options": ["As irmãs", "Os médicos", "Os monges"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'les sœurs y accueillaient les pauvres, les voyageurs et les malades'."
+    },
+    {
+      "question": "Em que ano o hospital fechou?",
+      "options": ["2009", "1999", "2019"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'Fermé en 2009'."
+    },
+    {
+      "question": "O que há no edifício hoje?",
+      "options": ["Lojas e um hotel", "Um museu militar", "Uma escola"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'on y trouverait des boutiques et un hôtel'."
+    }
+  ]
+}

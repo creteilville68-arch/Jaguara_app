@@ -1,0 +1,268 @@
+{
+  "id": "paris_lesson_23",
+  "cityId": "paris",
+  "domain": "Literatura & Café",
+  "level": "Iniciante (A1)",
+  "titleFr": "Les cafés de Saint-Germain",
+  "titlePt": "Os cafés de Saint-Germain",
+  "subtitleFr": "Le Café de Flore, les écrivains et les livres",
+  "subtitlePt": "O Café de Flore, os escritores e os livros",
+  "summaryPt": "Nesta Aula 23 (A1), a família descansa num café de Saint-Germain-des-Prés. Nesse bairro, escritores famosos escreviam seus livros nos cafés. Irlan lê um jornal e Íris desenha. O aluno aprende os verbos 'lire' e 'écrire' no presente.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Le quartier de Saint-Germain-des-Prés est célèbre pour ses cafés littéraires. Au Café de Flore, des écrivains écrivaient leurs livres. Aujourd'hui, nous lisons et nous discutons autour d'un café.",
+      "pt": "O bairro de Saint-Germain-des-Prés é famoso pelos seus cafés literários. No Café de Flore, escritores escreviam seus livros. Hoje, nós lemos e conversamos em volta de um café."
+    },
+    {
+      "id": 2,
+      "fr": "Irlan lit le journal et Andréa lit un roman. Ils lisent lentement, avec plaisir. « J'aime lire au café », dit Andréa.",
+      "pt": "Irlan lê o jornal e Andréa lê um romance. Eles leem devagar, com prazer. «Eu gosto de ler no café», diz Andréa."
+    },
+    {
+      "id": 3,
+      "fr": "Íris écrit une petite lettre à sa grand-mère. Elle écrit : « Je suis à Paris. Je t'aime, mamie ! » Puis elle dessine un café sur la table.",
+      "pt": "Íris escreve uma cartinha para a sua avó. Ela escreve: «Eu estou em Paris. Eu te amo, vovó!» Depois ela desenha um café sobre a mesa."
+    },
+    {
+      "id": 4,
+      "fr": "Le serveur apporte des croissants. « Quand j'étais livreur, je livrais des croissants à ce café », raconte Irlan. Tout le monde rit.",
+      "pt": "O garçom traz croissants. «Quando eu era entregador, eu entregava croissants neste café», conta Irlan. Todo mundo ri."
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "café",
+      "definitionPt": "café (bebida e lugar)",
+      "definitionFr": "Boisson chaude, ou lieu où l'on boit un café.",
+      "inflections": ["le café", "un café", "des cafés"],
+      "ptTargets": ["café"],
+      "examples": [
+        { "level": "A1", "fr": "Nous lisons autour d'un café.", "pt": "Nós lemos em volta de um café." },
+        { "level": "A2-B1", "fr": "Les cafés de Saint-Germain sont célèbres.", "pt": "Os cafés de Saint-Germain são famosos." },
+        { "level": "B2", "fr": "Le café de Flore a vu passer des générations d'écrivains.", "pt": "O Café de Flore viu passar gerações de escritores." },
+        { "level": "C1-C2", "fr": "Le café littéraire est une institution de la vie intellectuelle parisienne.", "pt": "O café literário é uma instituição da vida intelectual parisiense." }
+      ]
+    },
+    {
+      "term": "écrivain",
+      "definitionPt": "escritor",
+      "definitionFr": "Personne qui écrit des livres.",
+      "inflections": ["l'écrivain", "un écrivain", "des écrivains"],
+      "ptTargets": ["escritor"],
+      "examples": [
+        { "level": "A1", "fr": "Des écrivains écrivaient dans ce café.", "pt": "Escritores escreviam neste café." },
+        { "level": "A2-B1", "fr": "L'écrivain travaille sur son nouveau livre.", "pt": "O escritor trabalha no seu novo livro." },
+        { "level": "B2", "fr": "Ce quartier est célèbre pour ses écrivains.", "pt": "Este bairro é famoso pelos seus escritores." },
+        { "level": "C1-C2", "fr": "Les grands écrivains du XXe siècle fréquentaient ces cafés.", "pt": "Os grandes escritores do século XX frequentavam estes cafés." }
+      ]
+    },
+    {
+      "term": "lire",
+      "definitionPt": "ler",
+      "definitionFr": "Regarder et comprendre un texte.",
+      "inflections": ["je lis", "lire", "il lit"],
+      "ptTargets": ["ler"],
+      "examples": [
+        { "level": "A1", "fr": "Irlan lit le journal.", "pt": "Irlan lê o jornal." },
+        { "level": "A2-B1", "fr": "Nous lisons des livres à la maison.", "pt": "Nós lemos livros em casa." },
+        { "level": "B2", "fr": "Elle lit un roman au café.", "pt": "Ela lê um romance no café." },
+        { "level": "C1-C2", "fr": "Lire au café est une tradition parisienne.", "pt": "Ler no café é uma tradição parisiense." }
+      ]
+    },
+    {
+      "term": "écrire",
+      "definitionPt": "escrever",
+      "definitionFr": "Mettre des mots sur du papier.",
+      "inflections": ["j'écris", "écrire", "il écrit"],
+      "ptTargets": ["escrever"],
+      "examples": [
+        { "level": "A1", "fr": "Íris écrit une lettre à sa grand-mère.", "pt": "Íris escreve uma carta para a sua avó." },
+        { "level": "A2-B1", "fr": "J'écris un message à mon ami.", "pt": "Eu escrevo uma mensagem para o meu amigo." },
+        { "level": "B2", "fr": "Les écrivains écrivent leurs livres dans ce quartier.", "pt": "Os escritores escrevem seus livros neste bairro." },
+        { "level": "C1-C2", "fr": "Écrire, c'est offrir ses pensées au monde.", "pt": "Escrever é oferecer os seus pensamentos ao mundo." }
+      ]
+    },
+    {
+      "term": "journal",
+      "definitionPt": "jornal",
+      "definitionFr": "Publication qui donne les nouvelles.",
+      "inflections": ["le journal", "un journal", "des journaux"],
+      "ptTargets": ["jornal"],
+      "examples": [
+        { "level": "A1", "fr": "Irlan lit le journal.", "pt": "Irlan lê o jornal." },
+        { "level": "A2-B1", "fr": "Le journal est sur la table.", "pt": "O jornal está sobre a mesa." },
+        { "level": "B2", "fr": "Elle lit le journal tous les matins.", "pt": "Ela lê o jornal todas as manhãs." },
+        { "level": "C1-C2", "fr": "Le journal est une fenêtre sur le monde.", "pt": "O jornal é uma janela para o mundo." }
+      ]
+    },
+    {
+      "term": "roman",
+      "definitionPt": "romance (livro)",
+      "definitionFr": "Livre qui raconte une histoire imaginaire.",
+      "inflections": ["le roman", "un roman", "des romans"],
+      "ptTargets": ["romance"],
+      "examples": [
+        { "level": "A1", "fr": "Andréa lit un roman.", "pt": "Andréa lê um romance." },
+        { "level": "A2-B1", "fr": "Ce roman est très intéressant.", "pt": "Este romance é muito interessante." },
+        { "level": "B2", "fr": "Elle aime les romans français.", "pt": "Ela gosta de romances franceses." },
+        { "level": "C1-C2", "fr": "Le roman est un miroir de la société.", "pt": "O romance é um espelho da sociedade." }
+      ]
+    },
+    {
+      "term": "grand-mère",
+      "definitionPt": "avó",
+      "definitionFr": "La mère du père ou de la mère.",
+      "inflections": ["la grand-mère", "une grand-mère", "des grand-mères"],
+      "ptTargets": ["avó"],
+      "examples": [
+        { "level": "A1", "fr": "Íris écrit à sa grand-mère.", "pt": "Íris escreve para a sua avó." },
+        { "level": "A2-B1", "fr": "Ma grand-mère habite au Brésil.", "pt": "A minha avó mora no Brasil." },
+        { "level": "B2", "fr": "Sa grand-mère lui raconte des histoires.", "pt": "A sua avó conta histórias para ela." },
+        { "level": "C1-C2", "fr": "Les grands-mères transmettent les traditions familiales.", "pt": "As avós transmitem as tradições familiares." }
+      ]
+    },
+    {
+      "term": "mamie",
+      "definitionPt": "vovó (diminutivo)",
+      "definitionFr": "Surnom affectueux pour la grand-mère.",
+      "inflections": ["mamie"],
+      "ptTargets": ["vovó"],
+      "examples": [
+        { "level": "A1", "fr": "Je t'aime, mamie !", "pt": "Eu te amo, vovó!" },
+        { "level": "A2-B1", "fr": "Mamie arrive demain.", "pt": "A vovó chega amanhã." },
+        { "level": "B2", "fr": "Mamie nous prépare toujours de bons gâteaux.", "pt": "A vovó sempre prepara bolos bons para nós." },
+        { "level": "C1-C2", "fr": "Le mot « mamie » évoque tendresse et souvenirs d'enfance.", "pt": "A palavra «vovó» evoca ternura e lembranças de infância." }
+      ]
+    },
+    {
+      "term": "dessiner",
+      "definitionPt": "desenhar",
+      "definitionFr": "Créer une image avec un crayon.",
+      "inflections": ["je dessine", "dessiner", "il dessine"],
+      "ptTargets": ["desenhar"],
+      "examples": [
+        { "level": "A1", "fr": "Íris dessine un café sur la table.", "pt": "Íris desenha um café sobre a mesa." },
+        { "level": "A2-B1", "fr": "Nous dessinons dans nos cahiers.", "pt": "Nós desenhamos nos nossos cadernos." },
+        { "level": "B2", "fr": "Elle dessine des paysages de Paris.", "pt": "Ela desenha paisagens de Paris." },
+        { "level": "C1-C2", "fr": "Dessiner, c'est écrire avec des images.", "pt": "Desenhar é escrever com imagens." }
+      ]
+    },
+    {
+      "term": "discuter",
+      "definitionPt": "conversar, discutir",
+      "definitionFr": "Parler avec quelqu'un, échanger des idées.",
+      "inflections": ["je discute", "discuter", "il discute"],
+      "ptTargets": ["conversar", "discutir"],
+      "examples": [
+        { "level": "A1", "fr": "Nous discutons autour d'un café.", "pt": "Nós conversamos em volta de um café." },
+        { "level": "A2-B1", "fr": "Les amis discutent au café.", "pt": "Os amigos conversam no café." },
+        { "level": "B2", "fr": "Ils discutent de littérature pendant des heures.", "pt": "Eles conversam sobre literatura durante horas." },
+        { "level": "C1-C2", "fr": "Discuter dans un café est un art de vivre parisien.", "pt": "Conversar num café é uma arte de viver parisiense." }
+      ]
+    },
+    {
+      "term": "lentement",
+      "definitionPt": "devagar, lentamente",
+      "definitionFr": "À petite vitesse.",
+      "inflections": ["lentement"],
+      "ptTargets": ["devagar", "lentamente"],
+      "examples": [
+        { "level": "A1", "fr": "Ils lisent lentement.", "pt": "Eles leem devagar." },
+        { "level": "A2-B1", "fr": "Le serveur marche lentement.", "pt": "O garçom anda devagar." },
+        { "level": "B2", "fr": "Elle parle lentement pour bien prononcer.", "pt": "Ela fala devagar para pronunciar bem." },
+        { "level": "C1-C2", "fr": "Lire lentement permet de savourer chaque phrase.", "pt": "Ler devagar permite saborear cada frase." }
+      ]
+    },
+    {
+      "term": "plaisir",
+      "definitionPt": "prazer",
+      "definitionFr": "Sentiment agréable, joie.",
+      "inflections": ["le plaisir", "un plaisir"],
+      "ptTargets": ["prazer"],
+      "examples": [
+        { "level": "A1", "fr": "Je lis avec plaisir.", "pt": "Eu leio com prazer." },
+        { "level": "A2-B1", "fr": "C'est un grand plaisir de te voir.", "pt": "É um grande prazer te ver." },
+        { "level": "B2", "fr": "Lire au café est un vrai plaisir.", "pt": "Ler no café é um verdadeiro prazer." },
+        { "level": "C1-C2", "fr": "Le plaisir de la lecture est un plaisir solitaire et précieux.", "pt": "O prazer da leitura é um prazer solitário e precioso." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Le verbe lire au présent",
+    "explanationPt": "O verbo 'lire' (ler) é irregular: je lis, tu lis, il/elle lit, nous lisons, vous lisez, ils/elles lisent. Ex.: 'Irlan lit le journal.'",
+    "exampleFr": "Irlan lit le journal et Andréa lit un roman.",
+    "examplePt": "Irlan lê o jornal e Andréa lê um romance.",
+    "practiceQuestion": "Complete com a forma correta: 'Nous _____ des livres au café.'",
+    "options": ["lisons", "lis", "lisent"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "Le verbe lire au présent",
+        "explanationPt": "'lire' no presente: je lis, il lit, nous lisons, ils lisent. Ex.: 'Elle lit un roman au café.'",
+        "exampleFr": "Elle lit un roman au café.",
+        "examplePt": "Ela lê um romance no café.",
+        "practiceQuestion": "Complete: 'Ils _____ le journal tous les matins.'",
+        "options": ["lisent", "lisons", "lit"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "Le verbe écrire au présent",
+        "explanationPt": "'écrire' (escrever) é irregular: j'écris, tu écris, il/elle écrit, nous écrivons, vous écrivez, ils/elles écrivent. Ex.: 'Íris écrit une lettre.'",
+        "exampleFr": "Íris écrit une petite lettre à sa grand-mère.",
+        "examplePt": "Íris escreve uma cartinha para a sua avó.",
+        "practiceQuestion": "Complete: 'Nous _____ des messages à nos amis.'",
+        "options": ["écrivons", "écris", "écrivent"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Complete a frase do texto: 'Irlan _____ le journal et Andréa lit un roman.'",
+      "options": ["lit", "lis", "lisent"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'Irlan lit le journal et Andréa lit un roman.'"
+    },
+    {
+      "question": "Ordene corretamente as palavras da frase: [ une lettre / Íris / à sa grand-mère / écrit / ]",
+      "options": [
+        "Íris écrit une lettre à sa grand-mère.",
+        "Une lettre écrit Íris à sa grand-mère.",
+        "Íris à sa grand-mère écrit une lettre."
+      ],
+      "correctIndex": 0,
+      "explanation": "A frase exata do texto é 'Íris écrit une petite lettre à sa grand-mère.'"
+    },
+    {
+      "question": "Como se traduz: 'Nós lemos livros em casa'?",
+      "options": [
+        "Nous lisons des livres à la maison.",
+        "Nous lis des livres à la maison.",
+        "Nous lisons les livres à la maison."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Nous lisons' = nós lemos; 'des livres' = livros (indefinido plural)."
+    },
+    {
+      "question": "Identifique a frase com ERRO de conjugação do verbo écrire:",
+      "options": [
+        "J'écris une lettre.",
+        "Ils écrivent des livres.",
+        "Elle écris un message."
+      ],
+      "correctIndex": 2,
+      "explanation": "O erro é 'Elle écris': com 'elle', o verbo écrire fica 'écrit' ('Elle écrit un message.')."
+    },
+    {
+      "question": "O que Irlan conta sobre o café de Saint-Germain?",
+      "options": [
+        "Que entregava croissants naquele café quando era entregador",
+        "Que nunca tinha ido àquele bairro",
+        "Que o café estava fechado"
+      ],
+      "correctIndex": 0,
+      "explanation": "No texto: 'Quand j'étais livreur, je livrais des croissants à ce café.'"
+    }
+  ]
+}

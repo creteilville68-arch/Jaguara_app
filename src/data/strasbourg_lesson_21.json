@@ -1,0 +1,252 @@
+{
+  "id": "strasbourg_lesson_21",
+  "cityId": "strasbourg",
+  "domain": "Partida e Revisão",
+  "level": "Avançado (C1+)",
+  "titleFr": "Le départ pour Nice : l'Alsace dans le cœur",
+  "titlePt": "A partida para Nice: a Alsácia no coração",
+  "subtitleFr": "Dernières promenades, souvenirs et adieux au Rhin",
+  "subtitlePt": "Últimos passeios, lembranças e despedidas do Reno",
+  "summaryPt": "Nesta Aula 21 (C1+), a família faz suas últimas compras, despede-se de Strasbourg e parte de TGV para Nice, na Riviera. O aluno faz a revisão final do capítulo: passé simple, futur antérieur, nominalizações e conectores argumentativos.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Le matin du départ, la famille acheta des bredele, ces petits gâteaux de Noël. « La préparation des bredele, expliqua la vendeuse, demande de la cannelle et de la patience. Quand vous serez arrivés à Nice, vous les aurez peut-être déjà mangés ! »",
+      "pt": "Na manhã da partida, a família comprou bredele, aqueles bolinhos de Natal. « A preparação dos bredele, explicou a vendedora, exige canela e paciência. Quando tiverem chegado a Nice, talvez já os tenham comido! »"
+    },
+    {
+      "id": 2,
+      "fr": "Devant la cathédrale, Irlan fit une dernière photo. « La flèche de la cathédrale, dit-il, se vit de loin pendant des siècles. La mémoire de notre voyage, elle, se lira dans les photos et les histoires. Nous sommes arrivés livreurs à Paris ; nous partons géographes de nos propres souvenirs. »",
+      "pt": "Diante da catedral, Irlan tirou uma última foto. « A flecha da catedral, disse ele, foi vista de longe durante séculos. A memória de nossa viagem, ela, se lerá nas fotos e nas histórias. Chegamos entregadores a Paris; partimos geógrafos de nossas próprias lembranças. »"
+    },
+    {
+      "id": 3,
+      "fr": "Dans le TGV, Iris regarda défiler les champs de maïs puis les paysages du sud. « L'Alsace restera dans mon cahier, murmura-t-elle. Les cigognes, les colombages, la cathédrale, le kouglof... » Andréa sourit : « La richesse d'un pays, ma fille, se mesure aux souvenirs qu'on emporte. »",
+      "pt": "No TGV, Íris viu desfilarem os campos de milho e depois as paisagens do sul. « A Alsácia ficará no meu caderno, murmurou ela. As cegonhas, os enxaiméis, a catedral, o kouglof... » Andréa sorriu: « A riqueza de um país, minha filha, se mede pelas lembranças que se leva. »"
+    },
+    {
+      "id": 4,
+      "fr": "À l'approche de la Méditerranée, le soleil changea la lumière. « La diversité de la France, dit Irlan, est une leçon de géographie vivante. La traversée du pays, elle, nous a appris à parler, à goûter et à comprendre. Par conséquent, la prochaine étape, Nice, nous attend. »",
+      "pt": "Ao se aproximar do Mediterrâneo, o sol mudou a luz. « A diversidade da França, disse Irlan, é uma lição de geografia viva. A travessia do país, ela, nos ensinou a falar, a provar e a compreender. Por conseguinte, a próxima etapa, Nice, nos espera. »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "le départ",
+      "definitionPt": "a partida",
+      "definitionFr": "Action de partir.",
+      "inflections": ["le départ", "les départs"],
+      "ptTargets": ["partida"],
+      "examples": [
+        { "level": "A1", "fr": "Le départ est tôt.", "pt": "A partida é cedo." },
+        { "level": "A2-B1", "fr": "Le départ pour Nice est à midi.", "pt": "A partida para Nice é ao meio-dia." },
+        { "level": "B1-B2", "fr": "Le départ, préparé la veille, se fit sans stress.", "pt": "A partida, preparada na véspera, foi feita sem estresse." },
+        { "level": "C1-C2", "fr": "C'est le départ qui donne tout son sens au voyage.", "pt": "É a partida que dá todo o sentido à viagem." }
+      ]
+    },
+    {
+      "term": "le souvenir",
+      "definitionPt": "a lembrança",
+      "definitionFr": "Ce qui reste dans la mémoire.",
+      "inflections": ["le souvenir", "les souvenirs"],
+      "ptTargets": ["lembrança", "recordação"],
+      "examples": [
+        { "level": "A1", "fr": "Le souvenir est doux.", "pt": "A lembrança é doce." },
+        { "level": "A2-B1", "fr": "Les souvenirs sont dans les photos.", "pt": "As lembranças estão nas fotos." },
+        { "level": "B1-B2", "fr": "Les souvenirs, accumulés jour après jour, deviennent un trésor.", "pt": "As lembranças, acumuladas dia após dia, viram um tesouro." },
+        { "level": "C1-C2", "fr": "C'est le souvenir qui, bien plus que les objets, rend le voyage éternel.", "pt": "É a lembrança que, muito mais que os objetos, torna a viagem eterna." }
+      ]
+    },
+    {
+      "term": "la flèche",
+      "definitionPt": "a flecha (agulha da torre)",
+      "definitionFr": "Partie pointue d'un clocher.",
+      "inflections": ["la flèche", "les flèches"],
+      "ptTargets": ["flecha", "agulha"],
+      "examples": [
+        { "level": "A1", "fr": "La flèche est haute.", "pt": "A flecha é alta." },
+        { "level": "A2-B1", "fr": "La flèche de la cathédrale se voit de loin.", "pt": "A flecha da catedral se vê de longe." },
+        { "level": "B1-B2", "fr": "La flèche, unique en grès rose, domine la ville.", "pt": "A flecha, única em arenito rosa, domina a cidade." },
+        { "level": "C1-C2", "fr": "C'est la flèche de la cathédrale qui, pendant des siècles, guida les voyageurs.", "pt": "É a flecha da catedral que, durante séculos, guiou os viajantes." }
+      ]
+    },
+    {
+      "term": "la photo",
+      "definitionPt": "a foto",
+      "definitionFr": "Image prise avec un appareil.",
+      "inflections": ["la photo", "les photos"],
+      "ptTargets": ["foto", "fotografia"],
+      "examples": [
+        { "level": "A1", "fr": "La photo est belle.", "pt": "A foto é bonita." },
+        { "level": "A2-B1", "fr": "Irlan prend une photo de la cathédrale.", "pt": "Irlan tira uma foto da catedral." },
+        { "level": "B1-B2", "fr": "Les photos, rangées dans l'album, racontent le voyage.", "pt": "As fotos, guardadas no álbum, contam a viagem." },
+        { "level": "C1-C2", "fr": "C'est la photo qui fixe l'instant que les mots ne savent pas dire.", "pt": "É a foto que fixa o instante que as palavras não sabem dizer." }
+      ]
+    },
+    {
+      "term": "le cahier",
+      "definitionPt": "o caderno",
+      "definitionFr": "Carnet de notes.",
+      "inflections": ["le cahier", "les cahiers"],
+      "ptTargets": ["caderno"],
+      "examples": [
+        { "level": "A1", "fr": "Le cahier est neuf.", "pt": "O caderno é novo." },
+        { "level": "A2-B1", "fr": "Iris écrit dans son cahier.", "pt": "Íris escreve no seu caderno." },
+        { "level": "B1-B2", "fr": "Le cahier, rempli de dessins et de mots, est son trésor.", "pt": "O caderno, cheio de desenhos e palavras, é seu tesouro." },
+        { "level": "C1-C2", "fr": "C'est dans ce cahier que se construit, page après page, la mémoire familiale.", "pt": "É nesse caderno que se constrói, página após página, a memória familiar." }
+      ]
+    },
+    {
+      "term": "le maïs",
+      "definitionPt": "o milho",
+      "definitionFr": "Céréale cultivée dans les champs.",
+      "inflections": ["le maïs", "les maïs"],
+      "ptTargets": ["milho"],
+      "examples": [
+        { "level": "A1", "fr": "Le maïs est jaune.", "pt": "O milho é amarelo." },
+        { "level": "A2-B1", "fr": "Les champs de maïs défilent.", "pt": "Os campos de milho desfilam." },
+        { "level": "B1-B2", "fr": "Les champs de maïs, immenses, bordent la voie ferrée.", "pt": "Os campos de milho, imensos, margeiam a linha férrea." },
+        { "level": "C1-C2", "fr": "C'est le maïs qui, avec le houblon, façonne les plaines alsaciennes.", "pt": "É o milho que, com o lúpulo, molda as planícies alsacianas." }
+      ]
+    },
+    {
+      "term": "le TGV",
+      "definitionPt": "o TGV (trem de alta velocidade)",
+      "definitionFr": "Train à grande vitesse.",
+      "inflections": ["le TGV", "les TGV"],
+      "ptTargets": ["TGV", "trem de alta velocidade"],
+      "examples": [
+        { "level": "A1", "fr": "Le TGV est rapide.", "pt": "O TGV é rápido." },
+        { "level": "A2-B1", "fr": "La famille prend le TGV.", "pt": "A família pega o TGV." },
+        { "level": "B1-B2", "fr": "Le TGV, lancé à 300 km/h, relie Strasbourg à Nice en quelques heures.", "pt": "O TGV, lançado a 300 km/h, liga Strasbourg a Nice em poucas horas." },
+        { "level": "C1-C2", "fr": "C'est le TGV qui, en rapprochant les régions, a transformé la géographie française.", "pt": "É o TGV que, ao aproximar as regiões, transformou a geografia francesa." }
+      ]
+    },
+    {
+      "term": "la Méditerranée",
+      "definitionPt": "o Mediterrâneo",
+      "definitionFr": "Mer située au sud de la France.",
+      "inflections": ["la Méditerranée"],
+      "ptTargets": ["Mediterrâneo"],
+      "examples": [
+        { "level": "A1", "fr": "La Méditerranée est bleue.", "pt": "O Mediterrâneo é azul." },
+        { "level": "A2-B1", "fr": "Nice est au bord de la Méditerranée.", "pt": "Nice fica à beira do Mediterrâneo." },
+        { "level": "B1-B2", "fr": "La Méditerranée, douce et lumineuse, attire les voyageurs.", "pt": "O Mediterrâneo, doce e luminoso, atrai os viajantes." },
+        { "level": "C1-C2", "fr": "C'est au bord de la Méditerranée que la France du Nord rencontre la lumière du Sud.", "pt": "É à beira do Mediterrâneo que a França do Norte encontra a luz do Sul." }
+      ]
+    },
+    {
+      "term": "la lumière",
+      "definitionPt": "a luz",
+      "definitionFr": "Clarté qui éclaire.",
+      "inflections": ["la lumière", "les lumières"],
+      "ptTargets": ["luz"],
+      "examples": [
+        { "level": "A1", "fr": "La lumière est forte.", "pt": "A luz é forte." },
+        { "level": "A2-B1", "fr": "La lumière du sud est dorée.", "pt": "A luz do sul é dourada." },
+        { "level": "B1-B2", "fr": "La lumière, changeante, transforme le paysage à chaque heure.", "pt": "A luz, mutável, transforma a paisagem a cada hora." },
+        { "level": "C1-C2", "fr": "C'est la lumière de la Méditerranée qui inspira tant de peintres à Nice.", "pt": "É a luz do Mediterrâneo que inspirou tantos pintores em Nice." }
+      ]
+    },
+    {
+      "term": "la richesse",
+      "definitionPt": "a riqueza",
+      "definitionFr": "Ce qui a de la valeur.",
+      "inflections": ["la richesse", "les richesses"],
+      "ptTargets": ["riqueza"],
+      "examples": [
+        { "level": "A1", "fr": "La richesse est grande.", "pt": "A riqueza é grande." },
+        { "level": "A2-B1", "fr": "La France a de nombreuses richesses.", "pt": "A França tem muitas riquezas." },
+        { "level": "B1-B2", "fr": "Les richesses d'un pays, immatérielles, se transmettent par les histoires.", "pt": "As riquezas de um país, imateriais, se transmitem pelas histórias." },
+        { "level": "C1-C2", "fr": "C'est la diversité culturelle qui constitue la véritable richesse de la France.", "pt": "É a diversidade cultural que constitui a verdadeira riqueza da França." }
+      ]
+    },
+    {
+      "term": "la traversée",
+      "definitionPt": "a travessia",
+      "definitionFr": "Action de traverser un espace.",
+      "inflections": ["la traversée", "les traversées"],
+      "ptTargets": ["travessia"],
+      "examples": [
+        { "level": "A1", "fr": "La traversée est longue.", "pt": "A travessia é longa." },
+        { "level": "A2-B1", "fr": "La traversée du pays prend une journée.", "pt": "A travessia do país leva um dia." },
+        { "level": "B1-B2", "fr": "La traversée, ponctuée de paysages, est un voyage en soi.", "pt": "A travessia, pontuada de paisagens, é uma viagem em si." },
+        { "level": "C1-C2", "fr": "C'est la traversée de la France qui révéla à Irlan la géographie du pays.", "pt": "É a travessia da França que revelou a Irlan a geografia do país." }
+      ]
+    },
+    {
+      "term": "l'adieu",
+      "definitionPt": "a despedida",
+      "definitionFr": "Salutation de départ.",
+      "inflections": ["l'adieu", "les adieux"],
+      "ptTargets": ["despedida"],
+      "examples": [
+        { "level": "A1", "fr": "L'adieu est triste.", "pt": "A despedida é triste." },
+        { "level": "A2-B1", "fr": "La famille fait ses adieux à Strasbourg.", "pt": "A família se despede de Strasbourg." },
+        { "level": "B1-B2", "fr": "Les adieux, pleins d'émotion, promettaient un retour.", "pt": "As despedidas, cheias de emoção, prometiam um retorno." },
+        { "level": "C1-C2", "fr": "C'est dans l'adieu que l'on mesure tout ce qu'un lieu nous a donné.", "pt": "É na despedida que se mede tudo o que um lugar nos deu." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "La révision finale : passé simple, futur antérieur, nominalisation",
+    "explanationPt": "Revisão do capítulo C1+: o passé simple narrativo ('la famille acheta', 'le soleil changea'), o futur antérieur ('quand vous serez arrivés, vous les aurez mangés') e as nominalizações ('la préparation des bredele', 'la mémoire de notre voyage').",
+    "exampleFr": "Quand vous serez arrivés à Nice, vous les aurez peut-être déjà mangés !",
+    "examplePt": "Quando tiverem chegado a Nice, talvez já os tenham comido!",
+    "practiceQuestion": "Complete: « Quand vous ___ arrivés à Nice, vous les aurez mangés. »",
+    "options": ["serez", "êtes", "étiez"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "Le passé simple narratif",
+        "explanationPt": "A narrativa usa o passé simple para ações pontuais: 'la famille acheta des bredele' (comprou), 'Irlan fit une dernière photo' (tirou), 'le soleil changea la lumière' (mudou).",
+        "exampleFr": "Le matin du départ, la famille acheta des bredele.",
+        "examplePt": "Na manhã da partida, a família comprou bredele.",
+        "practiceQuestion": "Complete: « Le soleil ___ la lumière. »",
+        "options": ["changea", "change", "changeait"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "Par conséquent : la conclusion du voyage",
+        "explanationPt": "O conector de conclusão fecha o capítulo: 'Par conséquent, la prochaine étape, Nice, nous attend' (por conseguinte, a próxima etapa nos espera).",
+        "exampleFr": "Par conséquent, la prochaine étape, Nice, nous attend.",
+        "examplePt": "Por conseguinte, a próxima etapa, Nice, nos espera.",
+        "practiceQuestion": "Complete: « ___ , la prochaine étape, Nice, nous attend. »",
+        "options": ["Par conséquent", "Pour que", "Bien que"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "O que a família comprou na manhã da partida?",
+      "options": ["bredele, bolinhos de Natal", "bilhetes de loteria", "sapatos"],
+      "correctIndex": 0,
+      "explanation": "Compraram bredele, os pequenos gatos alsacianos de Natal."
+    },
+    {
+      "question": "O que a flèche da catedral fez durante séculos?",
+      "options": ["guiou os viajantes de longe", "serviu de farol para navios", "guardou tesouros"],
+      "correctIndex": 0,
+      "explanation": "A flecha da catedral, vista de longe, guiou os viajantes por séculos."
+    },
+    {
+      "question": "Para onde a família partiu de TGV?",
+      "options": ["Nice", "Lille", "Brest"],
+      "correctIndex": 0,
+      "explanation": "A família partiu de TGV para Nice, na Riviera."
+    },
+    {
+      "question": "Complete: « Quand vous ___ arrivés à Nice, vous les aurez mangés. »",
+      "options": ["serez", "êtes", "étiez"],
+      "correctIndex": 0,
+      "explanation": "Futur antérieur com être: serez arrivés."
+    },
+    {
+      "question": "Qual lição Irlan tirou da travessia da França?",
+      "options": ["a diversidade da França é uma geografia viva", "o país é pequeno demais", "as estradas são ruins"],
+      "correctIndex": 0,
+      "explanation": "A travessia ensinou a falar, provar e compreender a diversidade do país."
+    }
+  ]
+}

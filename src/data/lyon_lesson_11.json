@@ -1,0 +1,257 @@
+{
+  "id": "lyon_lesson_11",
+  "cityId": "lyon",
+  "domain": "História & Patrimônio",
+  "level": "Intermediário (B2+)",
+  "titleFr": "La basilique de Fourvière : la colline qui prie",
+  "titlePt": "A basílica de Fourvière: a colina que reza",
+  "subtitleFr": "Décrire le monument avec le subjonctif présent",
+  "subtitlePt": "Descrever o monumento com o subjuntivo presente",
+  "summaryPt": "No alto da colina de Fourvière, a basílica domina Lyon desde 1896. Branca e dourada, ela foi construída em agradecimento pela proteção da cidade. Para Irlan, subir a colina é entender por que os lionenses a chamam de 'a colina que reza'. Nesta aula B2+, o subjonctif présent acompanha a visita.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "« Fourvière est la colline qui prie, et la Croix-Rousse, la colline qui travaille », dit Andréa. Du haut de la basilique, Irlan découvrait toute la ville. « Il faut que je m'assoie un moment, souffla-t-il. Quelle vue ! »",
+      "pt": "« Fourvière é a colina que reza, e a Croix-Rousse, a colina que trabalha », disse Andréa. Do alto da basílica, Irlan descobria a cidade inteira. « Preciso me sentar um momento, suspirou ele. Que vista! »"
+    },
+    {
+      "id": 2,
+      "fr": "La basilique a été construite entre 1872 et 1896, en remerciement à la Vierge pour avoir protégé Lyon des épidémies. « Il est émouvant que la ville entière ait financé ce monument », murmura Irlan, la tête levée vers les mosaïques dorées.",
+      "pt": "A basílica foi construída entre 1872 e 1896, em agradecimento à Virgem por ter protegido Lyon das epidemias. « É emocionante que a cidade inteira tenha financiado este monumento », murmurou Irlan, com a cabeça erguida para os mosaicos dourados."
+    },
+    {
+      "id": 3,
+      "fr": "À l'intérieur, les murs brillent : or, marbre, mosaïques. « Ce que j'aime, c'est que chaque visiteur découvre quelque chose de différent », dit Andréa. Íris cherchait déjà la statue de la Vierge, au sommet de la chapelle.",
+      "pt": "No interior, as paredes brilham: ouro, mármore, mosaicos. « O que eu gosto é que cada visitante descobre algo diferente », disse Andréa. Íris já procurava a estátua da Virgem, no alto da capela."
+    },
+    {
+      "id": 4,
+      "fr": "De la tour panoramique, Irlan regarda la Saône et le Rhône se rejoindre. « Il suffit que je ferme les yeux pour imaginer les Romains ici, il y a deux mille ans », dit-il. Andréa rit : « Il est vrai que Lyon sait se souvenir. »",
+      "pt": "Da torre panorâmica, Irlan viu o Saône e o Rhône se encontrarem. « Basta fechar os olhos para imaginar os romanos aqui, há dois mil anos », disse ele. Andréa riu: « É verdade que Lyon sabe se lembrar. »"
+    },
+    {
+      "id": 5,
+      "fr": "Le soir, Irlan écrivit : « À Fourvière, j'ai compris ce qu'est la gratitude : bâtir une basilique pour dire merci. Peut-être faut-il que je construise, moi aussi, quelque chose qui dise merci à la France. »",
+      "pt": "À noite, Irlan escreveu: « Em Fourvière, entendi o que é a gratidão: construir uma basílica para dizer obrigado. Talvez seja preciso que eu construa também algo que diga obrigado à França. »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "la basilique",
+      "definitionPt": "basílica",
+      "definitionFr": "Église importante, souvent lieu de pèlerinage.",
+      "inflections": ["la basilique", "des basiliques"],
+      "ptTargets": ["basílica", "basílicas"],
+      "examples": [
+        { "level": "A1", "fr": "La basilique est blanche.", "pt": "A basílica é branca." },
+        { "level": "A2-B1", "fr": "La basilique est sur la colline.", "pt": "A basílica está na colina." },
+        { "level": "B1-B2", "fr": "La basilique, qui domine Lyon, est visible de toute la ville.", "pt": "A basílica, que domina Lyon, é visível de toda a cidade." },
+        { "level": "C1-C2", "fr": "C'est la basilique de Fourvière qui offre la plus belle vue sur Lyon.", "pt": "É a basílica de Fourvière que oferece a mais bela vista de Lyon." }
+      ]
+    },
+    {
+      "term": "la colline",
+      "definitionPt": "colina",
+      "definitionFr": "Élévation de terrain peu élevée.",
+      "inflections": ["la colline", "des collines"],
+      "ptTargets": ["colina", "colinas"],
+      "examples": [
+        { "level": "A1", "fr": "La colline est verte.", "pt": "A colina é verde." },
+        { "level": "A2-B1", "fr": "La basilique est sur la colline.", "pt": "A basílica está na colina." },
+        { "level": "B1-B2", "fr": "Les deux collines de Lyon racontent deux histoires : la prière et le travail.", "pt": "As duas colinas de Lyon contam duas histórias: a oração e o trabalho." },
+        { "level": "C1-C2", "fr": "C'est la colline qui prie qui veille sur la ville endormie.", "pt": "É a colina que reza que vigia a cidade adormecida." }
+      ]
+    },
+    {
+      "term": "le mosaïque",
+      "definitionPt": "mosaico",
+      "definitionFr": "Décoration faite de petits morceaux colorés.",
+      "inflections": ["la mosaïque", "des mosaïques"],
+      "ptTargets": ["mosaico", "mosaicos"],
+      "examples": [
+        { "level": "A1", "fr": "La mosaïque est dorée.", "pt": "O mosaico é dourado." },
+        { "level": "A2-B1", "fr": "Les mosaïques brillent dans la basilique.", "pt": "Os mosaicos brilham na basílica." },
+        { "level": "B1-B2", "fr": "Les mosaïques, qui couvrent les murs, racontent des scènes sacrées.", "pt": "Os mosaicos, que cobrem as paredes, contam cenas sagradas." },
+        { "level": "C1-C2", "fr": "C'est la mosaïque qui donne à la basilique son éclat de trésor byzantin.", "pt": "É o mosaico que dá à basílica seu brilho de tesouro bizantino." }
+      ]
+    },
+    {
+      "term": "la Vierge",
+      "definitionPt": "Virgem (Maria)",
+      "definitionFr": "Marie, mère de Jésus.",
+      "inflections": ["la Vierge"],
+      "ptTargets": ["Virgem"],
+      "examples": [
+        { "level": "A1", "fr": "La Vierge est dans la chapelle.", "pt": "A Virgem está na capela." },
+        { "level": "A2-B1", "fr": "La basilique est dédiée à la Vierge.", "pt": "A basílica é dedicada à Virgem." },
+        { "level": "B1-B2", "fr": "La statue de la Vierge, dorée, domine la chapelle et la ville.", "pt": "A estátua da Virgem, dourada, domina a capela e a cidade." },
+        { "level": "C1-C2", "fr": "C'est à la Vierge que Lyon a confié sa protection depuis des siècles.", "pt": "É à Virgem que Lyon confiou sua proteção há séculos." }
+      ]
+    },
+    {
+      "term": "remercier",
+      "definitionPt": "agradecer",
+      "definitionFr": "Dire merci.",
+      "inflections": ["je remercie", "remercier", "remercié"],
+      "ptTargets": ["agradecer", "agradecimento"],
+      "examples": [
+        { "level": "A1", "fr": "Je te remercie.", "pt": "Agradeço-lhe." },
+        { "level": "A2-B1", "fr": "La ville a construit pour remercier.", "pt": "A cidade construiu para agradecer." },
+        { "level": "B1-B2", "fr": "La basilique, construite en remerciement, protège la ville.", "pt": "A basílica, construída em agradecimento, protege a cidade." },
+        { "level": "C1-C2", "fr": "C'est en remerciant que l'on bâtit les plus beaux monuments.", "pt": "É agradecendo que se constroem os mais belos monumentos." }
+      ]
+    },
+    {
+      "term": "l'épidémie",
+      "definitionPt": "epidemia",
+      "definitionFr": "Maladie qui touche un grand nombre de personnes.",
+      "inflections": ["l'épidémie", "des épidémies"],
+      "ptTargets": ["epidemia", "epidemias"],
+      "examples": [
+        { "level": "A1", "fr": "L'épidémie est grave.", "pt": "A epidemia é grave." },
+        { "level": "A2-B1", "fr": "La ville a souffert des épidémies.", "pt": "A cidade sofreu com as epidemias." },
+        { "level": "B1-B2", "fr": "Les épidémies, qui frappaient la ville, ont poussé Lyon à prier.", "pt": "As epidemias, que atingiam a cidade, levaram Lyon a rezar." },
+        { "level": "C1-C2", "fr": "C'est pour survivre aux épidémies que Lyon a bâti son acte de foi.", "pt": "É para sobreviver às epidemias que Lyon construiu seu ato de fé." }
+      ]
+    },
+    {
+      "term": "la tour panoramique",
+      "definitionPt": "torre panorâmica",
+      "definitionFr": "Tour offrant une vue sur toute la ville.",
+      "inflections": ["la tour panoramique", "des tours panoramiques"],
+      "ptTargets": ["torre panorâmica", "torres panorâmicas"],
+      "examples": [
+        { "level": "A1", "fr": "La tour est haute.", "pt": "A torre é alta." },
+        { "level": "A2-B1", "fr": "De la tour, on voit toute la ville.", "pt": "Da torre, vê-se toda a cidade." },
+        { "level": "B1-B2", "fr": "De la tour panoramique, on découvre les deux fleuves et les deux collines.", "pt": "Da torre panorâmica, descobrem-se os dois rios e as duas colinas." },
+        { "level": "C1-C2", "fr": "C'est de la tour panoramique que se lit la géographie entière de Lyon.", "pt": "É da torre panorâmica que se lê a geografia inteira de Lyon." }
+      ]
+    },
+    {
+      "term": "la gratitude",
+      "definitionPt": "gratidão",
+      "definitionFr": "Sentiment de reconnaissance.",
+      "inflections": ["la gratitude"],
+      "ptTargets": ["gratidão"],
+      "examples": [
+        { "level": "A1", "fr": "La gratitude est belle.", "pt": "A gratidão é bela." },
+        { "level": "A2-B1", "fr": "Il montre sa gratitude.", "pt": "Ele mostra sua gratidão." },
+        { "level": "B1-B2", "fr": "La basilique est un monument de gratitude élevé par toute une ville.", "pt": "A basílica é um monumento de gratidão erguido por toda uma cidade." },
+        { "level": "C1-C2", "fr": "C'est la gratitude qui transforme un simple merci en architecture.", "pt": "É a gratidão que transforma um simples obrigado em arquitetura." }
+      ]
+    },
+    {
+      "term": "la chapelle",
+      "definitionPt": "capela",
+      "definitionFr": "Petit lieu de culte.",
+      "inflections": ["la chapelle", "des chapelles"],
+      "ptTargets": ["capela", "capelas"],
+      "examples": [
+        { "level": "A1", "fr": "La chapelle est petite.", "pt": "A capela é pequena." },
+        { "level": "A2-B1", "fr": "La Vierge est dans la chapelle.", "pt": "A Virgem está na capela." },
+        { "level": "B1-B2", "fr": "La chapelle de la Vierge, au sommet, brille de mille feux.", "pt": "A capela da Virgem, no alto, brilha com mil luzes." },
+        { "level": "C1-C2", "fr": "C'est dans la chapelle haute que se concentre la lumière de la basilique.", "pt": "É na capela alta que se concentra a luz da basílica." }
+      ]
+    },
+    {
+      "term": "s'asseoir",
+      "definitionPt": "sentar-se",
+      "definitionFr": "Prendre place, s'installer sur un siège.",
+      "inflections": ["je m'assieds", "s'asseoir", "s'assoie"],
+      "ptTargets": ["sentar", "sentar-se", "sentar-me"],
+      "examples": [
+        { "level": "A1", "fr": "Je m'assieds.", "pt": "Sento-me." },
+        { "level": "A2-B1", "fr": "Il faut que je m'assoie un moment.", "pt": "Preciso me sentar um momento." },
+        { "level": "B1-B2", "fr": "Il est bon que l'on s'assoie pour admirer la vue en silence.", "pt": "É bom que a gente se sente para admirar a vista em silêncio." },
+        { "level": "C1-C2", "fr": "C'est en s'asseyant que l'on contemple vraiment un paysage.", "pt": "É sentando-se que se contempla de verdade uma paisagem." }
+      ]
+    },
+    {
+      "term": "élevé",
+      "definitionPt": "erguido, elevado",
+      "definitionFr": "Construit, dressé.",
+      "inflections": ["élevé", "élevée", "élevés"],
+      "ptTargets": ["erguido", "elevado", "erguida"],
+      "examples": [
+        { "level": "A1", "fr": "Le mur est élevé.", "pt": "O muro é alto." },
+        { "level": "A2-B1", "fr": "La basilique a été élevée au XIXe siècle.", "pt": "A basílica foi erguida no século XIX." },
+        { "level": "B1-B2", "fr": "Le monument, élevé en remerciement, domine la ville depuis 1896.", "pt": "O monumento, erguido em agradecimento, domina a cidade desde 1896." },
+        { "level": "C1-C2", "fr": "C'est un monument élevé par la foi et la reconnaissance d'un peuple.", "pt": "É um monumento erguido pela fé e pela gratidão de um povo." }
+      ]
+    },
+    {
+      "term": "la protection",
+      "definitionPt": "proteção",
+      "definitionFr": "Action de protéger.",
+      "inflections": ["la protection"],
+      "ptTargets": ["proteção"],
+      "examples": [
+        { "level": "A1", "fr": "La protection est importante.", "pt": "A proteção é importante." },
+        { "level": "A2-B1", "fr": "La ville demande la protection de la Vierge.", "pt": "A cidade pede a proteção da Virgem." },
+        { "level": "B1-B2", "fr": "La basilique, symbole de protection, veille sur les Lyonnais.", "pt": "A basílica, símbolo de proteção, vigia os lionenses." },
+        { "level": "C1-C2", "fr": "C'est la protection spirituelle que Lyon a voulu rendre visible en pierre.", "pt": "É a proteção espiritual que Lyon quis tornar visível em pedra." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Le subjonctif présent à Fourvière",
+    "explanationPt": "O subjonctif présente expressa necessidade e emoção: 'il faut que je m'assoie' (é preciso que eu me sente), 'il est émouvant que la ville ait financé' (subjonctif passé), 'il suffit que je ferme les yeux'. Verbos irregulares: s'asseoir → que je m'assoie; suffire → que je ferme.",
+    "exampleFr": "Il faut que je m'assoie un moment ; il est émouvant que la ville entière ait financé ce monument.",
+    "examplePt": "Preciso me sentar um momento; é emocionante que a cidade inteira tenha financiado este monumento.",
+    "practiceQuestion": "Complete: « Il faut que je m'___ un moment. »",
+    "options": ["assoie", "assieds", "asseois"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "Il faut que + subjonctif",
+        "explanationPt": "'Il faut que je m'assoie' : a necessidade dispara o subjonctif. Verbo s'asseoir → que je m'assoie.",
+        "exampleFr": "Il faut que je m'assoie un moment, souffla Irlan.",
+        "examplePt": "Preciso me sentar um momento, suspirou Irlan.",
+        "practiceQuestion": "Complete: « Il faut que nous ___ la vue d'ici. »",
+        "options": ["admirions", "admirons", "admirerons"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "Il est émouvant que + subjonctif",
+        "explanationPt": "A emoção dispara o subjonctif: 'il est émouvant que la ville entière ait financé ce monument' (tenha financiado).",
+        "exampleFr": "Il est émouvant que la ville entière ait financé ce monument.",
+        "examplePt": "É emocionante que a cidade inteira tenha financiado este monumento.",
+        "practiceQuestion": "Complete: « Il est émouvant que Lyon ___ ce monument. »",
+        "options": ["ait financé", "a financé", "aura financé"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Complete: « Il faut que je m'___ un moment. »",
+      "options": ["assoie", "assieds", "asseois"],
+      "correctIndex": 0,
+      "explanation": "Subjonctif de s'asseoir: que je m'assoie."
+    },
+    {
+      "question": "Entre quais anos a basílica foi construída?",
+      "options": ["1872 e 1896", "1772 e 1796", "1972 e 1996"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'construite entre 1872 et 1896'."
+    },
+    {
+      "question": "Por que a basílica foi construída?",
+      "options": ["Em agradecimento à Virgem pela proteção", "Para comemorar uma vitória", "Para abrigar um museu"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'en remerciement à la Vierge pour avoir protégé Lyon des épidémies'."
+    },
+    {
+      "question": "Qual é a colina que trabalha?",
+      "options": ["A Croix-Rousse", "Fourvière", "Bellecour"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'la Croix-Rousse, la colline qui travaille'."
+    },
+    {
+      "question": "O que se vê da torre panorâmica?",
+      "options": ["A Saône e o Rhône se encontrando", "O mar", "As montanhas dos Alpes"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'Irlan regarda la Saône et le Rhône se rejoindre'."
+    }
+  ]
+}

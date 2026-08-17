@@ -1,0 +1,278 @@
+{
+  "id": "strasbourg_lesson_16",
+  "cityId": "strasbourg",
+  "domain": "Cultura",
+  "level": "Avançado (C1+)",
+  "titleFr": "L'horloge astronomique : le théâtre du temps",
+  "titlePt": "O relógio astronômico: o teatro do tempo",
+  "subtitleFr": "Les apôtres, le coq et la mécanique qui fascine depuis cinq siècles",
+  "subtitlePt": "Os apóstolos, o galo e a mecânica que fascina há cinco séculos",
+  "summaryPt": "Nesta Aula 16 (C1+), a família assiste à apresentação do relógio astronômico da catedral, quando os apóstolos desfilam diante de Cristo. O aluno aprofunda a voz passiva ('l'horloge fut construite', 'le mécanisme est admiré') e os complementos do agente.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Dans la cathédrale, la foule attendait. « L'horloge astronomique, chuchota Irlan, fut construite au XVIe siècle par des maîtres horlogers. Chaque jour, à midi, les apôtres défilent devant le Christ, et cette procession est suivie par des milliers de visiteurs. »",
+      "pt": "Na catedral, a multidão esperava. « O relógio astronômico, sussurrou Irlan, foi construído no século XVI por mestres relojoeiros. Todos os dias, ao meio-dia, os apóstolos desfilam diante de Cristo, e essa procissão é acompanhada por milhares de visitantes. »"
+    },
+    {
+      "id": 2,
+      "fr": "Soudain, une musique douce retentit. « Le mécanisme, expliqua Andréa, est animé par des centaines de rouages. Les aiguilles indiquent l'heure, mais aussi la position des étoiles et les éclipses. Cette précision fut saluée, en son temps, par les plus grands savants d'Europe. »",
+      "pt": "De repente, uma música suave soou. « O mecanismo, explicou Andréa, é animado por centenas de engrenagens. Os ponteiros indicam a hora, mas também a posição das estrelas e os eclipses. Essa precisão foi elogiada, em sua época, pelos maiores sábios da Europa. »"
+    },
+    {
+      "id": 3,
+      "fr": "Au-dessus de la foule, les apôtres passèrent un à un. « Regarde le coq, dit Iris. À chaque heure, il chante trois fois. » Irlan sourit : « Le temps, ma fille, n'est pas seulement mesuré par l'horloge : il est mis en scène. Ici, le temps est raconté comme une histoire. »",
+      "pt": "Acima da multidão, os apóstolos passaram um a um. « Olha o galo, disse Íris. A cada hora, ele canta três vezes. » Irlan sorriu: « O tempo, minha filha, não é apenas medido pelo relógio: ele é encenado. Aqui, o tempo é contado como uma história. »"
+    },
+    {
+      "id": 4,
+      "fr": "Après la démonstration, la famille sortit dans la lumière. « La technique est oubliée, conclut Irlan, mais l'émerveillement est transmis. Chaque génération, en regardant les apôtres défiler, reçoit la même leçon : le temps passe, et pourtant rien ne se perd. »",
+      "pt": "Após a demonstração, a família saiu para a luz. « A técnica é esquecida, concluiu Irlan, mas o encantamento é transmitido. Cada geração, ao ver os apóstolos desfilar, recebe a mesma lição: o tempo passa, e, no entanto, nada se perde. »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "l'horloge",
+      "definitionPt": "o relógio",
+      "definitionFr": "Appareil qui mesure le temps.",
+      "inflections": ["l'horloge", "les horloges"],
+      "ptTargets": ["relógio"],
+      "examples": [
+        { "level": "A1", "fr": "L'horloge est grande.", "pt": "O relógio é grande." },
+        { "level": "A2-B1", "fr": "L'horloge de la cathédrale est célèbre.", "pt": "O relógio da catedral é famoso." },
+        { "level": "B1-B2", "fr": "L'horloge astronomique, merveille de précision, attire les visiteurs du monde entier.", "pt": "O relógio astronômico, maravilha de precisão, atrai visitantes do mundo inteiro." },
+        { "level": "C1-C2", "fr": "C'est l'horloge astronomique qui, depuis cinq siècles, rythme la vie de la cathédrale.", "pt": "É o relógio astronômico que, há cinco séculos, marca o ritmo da vida da catedral." }
+      ]
+    },
+    {
+      "term": "l'apôtre",
+      "definitionPt": "o apóstolo",
+      "definitionFr": "Chacun des douze disciples du Christ.",
+      "inflections": ["l'apôtre", "les apôtres"],
+      "ptTargets": ["apóstolo"],
+      "examples": [
+        { "level": "A1", "fr": "Les apôtres sont douze.", "pt": "Os apóstolos são doze." },
+        { "level": "A2-B1", "fr": "Les apôtres défilent à midi.", "pt": "Os apóstolos desfilam ao meio-dia." },
+        { "level": "B1-B2", "fr": "Les apôtres, sculptés avec soin, défilent devant le Christ à chaque heure.", "pt": "Os apóstolos, esculpidos com cuidado, desfilam diante de Cristo a cada hora." },
+        { "level": "C1-C2", "fr": "C'est le défilé des apôtres qui transforme la mesure du temps en spectacle sacré.", "pt": "É o desfile dos apóstolos que transforma a medição do tempo em espetáculo sagrado." }
+      ]
+    },
+    {
+      "term": "le rouage",
+      "definitionPt": "a engrenagem",
+      "definitionFr": "Pièce dentée d'un mécanisme.",
+      "inflections": ["le rouage", "les rouages"],
+      "ptTargets": ["engrenagem", "roda dentada"],
+      "examples": [
+        { "level": "A1", "fr": "Le rouage tourne.", "pt": "A engrenagem gira." },
+        { "level": "A2-B1", "fr": "Les rouages de l'horloge sont nombreux.", "pt": "As engrenagens do relógio são numerosas." },
+        { "level": "B1-B2", "fr": "Les rouages, assemblés avec précision, donnent vie au mécanisme.", "pt": "As engrenagens, montadas com precisão, dão vida ao mecanismo." },
+        { "level": "C1-C2", "fr": "C'est l'emboîtement des rouages qui fait du temps une mécanique parfaite.", "pt": "É o encaixe das engrenagens que faz do tempo uma mecânica perfeita." }
+      ]
+    },
+    {
+      "term": "le mécanisme",
+      "definitionPt": "o mecanismo",
+      "definitionFr": "Ensemble de pièces qui produisent un mouvement.",
+      "inflections": ["le mécanisme", "les mécanismes"],
+      "ptTargets": ["mecanismo"],
+      "examples": [
+        { "level": "A1", "fr": "Le mécanisme est compliqué.", "pt": "O mecanismo é complicado." },
+        { "level": "A2-B1", "fr": "Le mécanisme de l'horloge est ancien.", "pt": "O mecanismo do relógio é antigo." },
+        { "level": "B1-B2", "fr": "Le mécanisme, entretenu avec soin, fonctionne depuis des siècles.", "pt": "O mecanismo, cuidado com esmero, funciona há séculos." },
+        { "level": "C1-C2", "fr": "C'est la complexité du mécanisme qui fascine encore les ingénieurs d'aujourd'hui.", "pt": "É a complexidade do mecanismo que ainda fascina os engenheiros de hoje." }
+      ]
+    },
+    {
+      "term": "l'aiguille",
+      "definitionPt": "o ponteiro",
+      "definitionFr": "Tige qui indique l'heure sur un cadran.",
+      "inflections": ["l'aiguille", "les aiguilles"],
+      "ptTargets": ["ponteiro"],
+      "examples": [
+        { "level": "A1", "fr": "L'aiguille avance.", "pt": "O ponteiro avança." },
+        { "level": "A2-B1", "fr": "Les aiguilles indiquent l'heure.", "pt": "Os ponteiros indicam a hora." },
+        { "level": "B1-B2", "fr": "Les aiguilles, lentes et régulières, mesurent le passage des heures.", "pt": "Os ponteiros, lentos e regulares, medem a passagem das horas." },
+        { "level": "C1-C2", "fr": "C'est la course des aiguilles qui donne au temps son rythme visible.", "pt": "É a corrida dos ponteiros que dá ao tempo seu ritmo visível." }
+      ]
+    },
+    {
+      "term": "le cadran",
+      "definitionPt": "o mostrador, o quadrante",
+      "definitionFr": "Surface où sont indiquées les heures.",
+      "inflections": ["le cadran", "les cadrans"],
+      "ptTargets": ["mostrador", "quadrante"],
+      "examples": [
+        { "level": "A1", "fr": "Le cadran est rond.", "pt": "O mostrador é redondo." },
+        { "level": "A2-B1", "fr": "Le cadran de l'horloge est décoré.", "pt": "O mostrador do relógio é decorado." },
+        { "level": "B1-B2", "fr": "Le cadran, orné d'étoiles et de symboles, raconte le ciel.", "pt": "O mostrador, ornado de estrelas e símbolos, conta o céu." },
+        { "level": "C1-C2", "fr": "C'est sur ce cadran que se lisent à la fois l'heure et l'ordre du cosmos.", "pt": "É nesse mostrador que se leem ao mesmo tempo a hora e a ordem do cosmos." }
+      ]
+    },
+    {
+      "term": "l'éclipse",
+      "definitionPt": "o eclipse",
+      "definitionFr": "Occultation d'un astre par un autre.",
+      "inflections": ["l'éclipse", "les éclipses"],
+      "ptTargets": ["eclipse"],
+      "examples": [
+        { "level": "A1", "fr": "L'éclipse est rare.", "pt": "O eclipse é raro." },
+        { "level": "A2-B1", "fr": "L'horloge prédit les éclipses.", "pt": "O relógio prevê os eclipses." },
+        { "level": "B1-B2", "fr": "Les éclipses, annoncées par l'horloge, étaient redoutées autrefois.", "pt": "Os eclipses, anunciados pelo relógio, eram temidos antigamente." },
+        { "level": "C1-C2", "fr": "C'est la prévision des éclipses qui fit de l'horloge une science à part entière.", "pt": "É a previsão dos eclipses que fez do relógio uma ciência por direito próprio." }
+      ]
+    },
+    {
+      "term": "le savant",
+      "definitionPt": "o sábio, o cientista",
+      "definitionFr": "Personne qui possède un grand savoir.",
+      "inflections": ["le savant", "les savants"],
+      "ptTargets": ["sábio", "cientista"],
+      "examples": [
+        { "level": "A1", "fr": "Le savant est intelligent.", "pt": "O sábio é inteligente." },
+        { "level": "A2-B1", "fr": "Les savants visitent l'horloge.", "pt": "Os sábios visitam o relógio." },
+        { "level": "B1-B2", "fr": "Les savants d'Europe, émerveillés, vinrent étudier le mécanisme.", "pt": "Os sábios da Europa, maravilhados, vieram estudar o mecanismo." },
+        { "level": "C1-C2", "fr": "C'est la précision de l'horloge qui valut à Strasbourg la visite des plus grands savants.", "pt": "É a precisão do relógio que valeu a Strasbourg a visita dos maiores sábios." }
+      ]
+    },
+    {
+      "term": "la procession",
+      "definitionPt": "a procissão, o desfile",
+      "definitionFr": "Défilé solennel de personnes.",
+      "inflections": ["la procession", "les processions"],
+      "ptTargets": ["procissão", "desfile"],
+      "examples": [
+        { "level": "A1", "fr": "La procession est lente.", "pt": "A procissão é lenta." },
+        { "level": "A2-B1", "fr": "La procession des apôtres commence à midi.", "pt": "A procissão dos apóstolos começa ao meio-dia." },
+        { "level": "B1-B2", "fr": "La procession, suivie par la foule, traverse le cadran en quelques minutes.", "pt": "A procissão, acompanhada pela multidão, atravessa o mostrador em poucos minutos." },
+        { "level": "C1-C2", "fr": "C'est la procession des apôtres qui fait de chaque midi un spectacle unique.", "pt": "É a procissão dos apóstolos que faz de cada meio-dia um espetáculo único." }
+      ]
+    },
+    {
+      "term": "le coq",
+      "definitionPt": "o galo",
+      "definitionFr": "Oiseau qui chante au lever du jour.",
+      "inflections": ["le coq", "les coqs"],
+      "ptTargets": ["galo"],
+      "examples": [
+        { "level": "A1", "fr": "Le coq chante.", "pt": "O galo canta." },
+        { "level": "A2-B1", "fr": "Le coq de l'horloge chante trois fois.", "pt": "O galo do relógio canta três vezes." },
+        { "level": "B1-B2", "fr": "Le coq, doré et mobile, annonce chaque heure de sa voix mécanique.", "pt": "O galo, dourado e móvel, anuncia cada hora com sua voz mecânica." },
+        { "level": "C1-C2", "fr": "C'est le chant du coq qui, depuis des siècles, rythme les heures de la cathédrale.", "pt": "É o canto do galo que, há séculos, marca as horas da catedral." }
+      ]
+    },
+    {
+      "term": "l'émerveillement",
+      "definitionPt": "o encantamento, o deslumbramento",
+      "definitionFr": "État de celui qui est rempli d'admiration.",
+      "inflections": ["l'émerveillement"],
+      "ptTargets": ["encantamento", "deslumbramento"],
+      "examples": [
+        { "level": "A1", "fr": "L'émerveillement est grand.", "pt": "O encantamento é grande." },
+        { "level": "A2-B1", "fr": "Les enfants regardent avec émerveillement.", "pt": "As crianças olham com encantamento." },
+        { "level": "B1-B2", "fr": "L'émerveillement, partagé par toute la famille, remplit la cathédrale.", "pt": "O encantamento, compartilhado por toda a família, enche a catedral." },
+        { "level": "C1-C2", "fr": "C'est l'émerveillement qui, bien plus que la technique, se transmet de génération en génération.", "pt": "É o encantamento que, muito mais que a técnica, se transmite de geração em geração." }
+      ]
+    },
+    {
+      "term": "le horloger",
+      "definitionPt": "o relojoeiro",
+      "definitionFr": "Artisan qui fabrique et répare les horloges.",
+      "inflections": ["l'horloger", "les horlogers"],
+      "ptTargets": ["relojoeiro"],
+      "examples": [
+        { "level": "A1", "fr": "L'horloger travaille.", "pt": "O relojoeiro trabalha." },
+        { "level": "A2-B1", "fr": "L'horloger répare le mécanisme.", "pt": "O relojoeiro conserta o mecanismo." },
+        { "level": "B1-B2", "fr": "Les horlogers, habiles et patients, transmettent leur art depuis des siècles.", "pt": "Os relojoeiros, hábeis e pacientes, transmitem sua arte há séculos." },
+        { "level": "C1-C2", "fr": "C'est aux horlogers de Strasbourg que l'on doit l'un des chefs-d'œuvre de la mesure du temps.", "pt": "É aos relojoeiros de Strasbourg que se deve uma das obras-primas da medição do tempo." }
+      ]
+    },
+    {
+      "term": "la précision",
+      "definitionPt": "a precisão",
+      "definitionFr": "Qualité de ce qui est exact.",
+      "inflections": ["la précision", "les précisions"],
+      "ptTargets": ["precisão"],
+      "examples": [
+        { "level": "A1", "fr": "La précision est utile.", "pt": "A precisão é útil." },
+        { "level": "A2-B1", "fr": "La précision de l'horloge est incroyable.", "pt": "A precisão do relógio é incrível." },
+        { "level": "B1-B2", "fr": "La précision, obtenue par des milliers de rouages, stupéfie les visiteurs.", "pt": "A precisão, obtida por milhares de engrenagens, surpreende os visitantes." },
+        { "level": "C1-C2", "fr": "C'est la précision de l'horloge qui en fit, dès le XVIe siècle, une référence scientifique.", "pt": "É a precisão do relógio que o tornou, desde o século XVI, uma referência científica." }
+      ]
+    },
+    {
+      "term": "l'étoile",
+      "definitionPt": "a estrela",
+      "definitionFr": "Astre visible dans le ciel nocturne.",
+      "inflections": ["l'étoile", "les étoiles"],
+      "ptTargets": ["estrela"],
+      "examples": [
+        { "level": "A1", "fr": "L'étoile brille.", "pt": "A estrela brilha." },
+        { "level": "A2-B1", "fr": "Les étoiles sont dessinées sur le cadran.", "pt": "As estrelas estão desenhadas no mostrador." },
+        { "level": "B1-B2", "fr": "Les étoiles, gravées dans le métal, suivent la course réelle du ciel.", "pt": "As estrelas, gravadas no metal, seguem a marcha real do céu." },
+        { "level": "C1-C2", "fr": "C'est la position des étoiles qui relie l'horloge de Strasbourg à l'astronomie savante.", "pt": "É a posição das estrelas que liga o relógio de Strasbourg à astronomia erudita." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "La voix passive : être + participe passé",
+    "explanationPt": "A voz passiva inverte a frase e destaca a ação: 'l'horloge fut construite par des maîtres horlogers' (o relógio foi construído por mestres relojoeiros). Formas: est admiré (presente), fut construite (passé simple), est suivi (presente). O agente é introduzido por 'par'.",
+    "exampleFr": "L'horloge astronomique fut construite par des maîtres horlogers au XVIe siècle.",
+    "examplePt": "O relógio astronômico foi construído por mestres relojoeiros no século XVI.",
+    "practiceQuestion": "Complete: « Cette précision fut ___ par les savants d'Europe. »",
+    "options": ["saluée", "saluer", "saluait"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "La formation de la voix passive",
+        "explanationPt": "Voz passiva = verbo être (no tempo desejado) + particípio passado do verbo principal, que concorda com o sujeito: 'l'horloge fut construite', 'le mécanisme est animé', 'les aiguilles sont admirées'. O agente vem com 'par': 'par des maîtres horlogers'.",
+        "exampleFr": "Le mécanisme est animé par des centaines de rouages.",
+        "examplePt": "O mecanismo é animado por centenas de engrenagens.",
+        "practiceQuestion": "Complete: « Les apôtres ___ suivis par la foule. »",
+        "options": ["sont", "est", "ont"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "Le passif avec le passé simple",
+        "explanationPt": "Na narrativa, o passivo no passé simple descreve ações pontuais do passado: 'l'horloge fut construite' (foi construída), 'cette précision fut saluée' (foi elogiada), 'le temps fut mis en scène' (foi encenado).",
+        "exampleFr": "Cette précision fut saluée, en son temps, par les plus grands savants d'Europe.",
+        "examplePt": "Essa precisão foi elogiada, em sua época, pelos maiores sábios da Europa.",
+        "practiceQuestion": "Complete: « L'horloge ___ construite au XVIe siècle. »",
+        "options": ["fut", "est", "sera"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Quando os apóstolos desfilam diante de Cristo?",
+      "options": ["todos os dias ao meio-dia", "apenas no Natal", "a cada cinco anos"],
+      "correctIndex": 0,
+      "explanation": "Todos os dias, ao meio-dia, os apóstolos desfilam diante do Cristo."
+    },
+    {
+      "question": "Por quem foi construída a primeira versão da famosa cena? (voz passiva)",
+      "options": ["por mestres relojoeiros", "por carpinteiros", "por pintores"],
+      "correctIndex": 0,
+      "explanation": "L'horloge fut construite par des maîtres horlogers: foi construída por mestres relojoeiros."
+    },
+    {
+      "question": "O que o relógio indica além das horas?",
+      "options": ["a posição das estrelas e os eclipses", "a temperatura do ar", "o preço do pão"],
+      "correctIndex": 0,
+      "explanation": "As aiguilles indicam a hora, mas também a posição das estrelas e os eclipses."
+    },
+    {
+      "question": "Complete: « Cette précision fut ___ par les savants d'Europe. »",
+      "options": ["saluée", "saluer", "saluait"],
+      "correctIndex": 0,
+      "explanation": "Voz passiva com être + particípio: fut saluée."
+    },
+    {
+      "question": "Qual é a conclusão de Irlan sobre o tempo?",
+      "options": ["o tempo passa, mas nada se perde", "o tempo deve ser temido", "o tempo é uma ilusão"],
+      "correctIndex": 0,
+      "explanation": "Irlan conclui que o tempo passa e, no entanto, nada se perde."
+    }
+  ]
+}

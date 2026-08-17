@@ -1,0 +1,257 @@
+{
+  "id": "lyon_lesson_14",
+  "cityId": "lyon",
+  "domain": "Geografia & Cidade",
+  "level": "Intermediário (B2+)",
+  "titleFr": "La Saône et le Rhône : la ville entre deux fleuves",
+  "titlePt": "O Saône e o Rhône: a cidade entre dois rios",
+  "subtitleFr": "Décrire la géographie de Lyon avec les phrases clivées",
+  "subtitlePt": "Descrever a geografia de Lyon com as frases clivadas",
+  "summaryPt": "Lyon é a cidade dos dois rios: o Saône, tranquilo, e o Rhône, poderoso. Entre eles, a presqu'île se estende como uma língua de terra. Para Irlan, geógrafo, essa confluência é um espetáculo: é ali que a geografia se torna poesia. Nesta aula B2+, as frases clivadas (c'est... qui/que) realçam essa paisagem.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "« C'est au confluent que le Rhône reçoit la Saône », expliqua Irlan, ses cartes en tête. Andréa sourit : « C'est à cet endroit précis que Lyon est née, il y a deux mille ans. » Les deux fleuves se mêlaient sous leurs yeux.",
+      "pt": "« É na confluência que o Rhône recebe o Saône », explicou Irlan, com seus mapas na cabeça. Andréa sorriu: « É neste ponto preciso que Lyon nasceu, há dois mil anos. » Os dois rios se misturavam diante de seus olhos."
+    },
+    {
+      "id": 2,
+      "fr": "La Saône, paresseuse, coule lentement entre les collines. « Ce que j'aime dans la Saône, c'est sa douceur », dit Andréa. Irlan, lui, regardait le Rhône : « C'est lui qui porte la puissance, les crues, les péniches. »",
+      "pt": "O Saône, preguiçoso, corre lentamente entre as colinas. « O que eu gosto no Saône é sua doçura », disse Andréa. Irlan, por sua vez, olhava o Rhône: « É ele que carrega a potência, as cheias, as barcaças. »"
+    },
+    {
+      "id": 3,
+      "fr": "Entre les deux fleuves, la presqu'île s'avance comme un navire de pierre. « C'est sur cette langue de terre que se trouve le cœur de Lyon », constata Irlan. Ils marchèrent de la place Bellecour jusqu'aux berges du Rhône.",
+      "pt": "Entre os dois rios, a presqu'île avança como um navio de pedra. « É sobre esta língua de terra que fica o coração de Lyon », constatou Irlan. Caminharam da place Bellecour até as margens do Rhône."
+    },
+    {
+      "id": 4,
+      "fr": "Au bord du Rhône, des joggers, des familles, des voiliers. « Ce qui m'étonne, c'est qu'une ville aussi grande garde ces berges pour ses habitants », dit Andréa. Irlan nota que les quais avaient été réaménagés en 2013.",
+      "pt": "À beira do Rhône, corredores, famílias, veleiros. « O que me surpreende é que uma cidade tão grande guarde essas margens para seus habitantes », disse Andréa. Irlan notou que os cais tinham sido reformados em 2013."
+    },
+    {
+      "id": 5,
+      "fr": "Le soir, Irlan écrivit : « Deux fleuves, deux tempéraments : la douceur et la puissance. C'est dans leur rencontre que Lyon trouve son équilibre. Peut-être est-ce aussi ainsi que l'on vit : entre ce qu'on aime et ce qu'on combat. »",
+      "pt": "À noite, Irlan escreveu: « Dois rios, dois temperamentos: a doçura e a potência. É no encontro deles que Lyon encontra seu equilíbrio. Talvez seja também assim que se vive: entre o que se ama e o que se enfrenta. »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "le confluent",
+      "definitionPt": "confluência",
+      "definitionFr": "Lieu où deux cours d'eau se rejoignent.",
+      "inflections": ["le confluent", "des confluents"],
+      "ptTargets": ["confluência", "confluências"],
+      "examples": [
+        { "level": "A1", "fr": "Le confluent est beau.", "pt": "A confluência é bonita." },
+        { "level": "A2-B1", "fr": "Le Rhône et la Saône se rejoignent au confluent.", "pt": "O Rhône e o Saône se encontram na confluência." },
+        { "level": "B1-B2", "fr": "Le confluent, point de rencontre des fleuves, a donné naissance à Lyon.", "pt": "A confluência, ponto de encontro dos rios, deu origem a Lyon." },
+        { "level": "C1-C2", "fr": "C'est au confluent que se lit la géographie fondatrice de la ville.", "pt": "É na confluência que se lê a geografia fundadora da cidade." }
+      ]
+    },
+    {
+      "term": "la presqu'île",
+      "definitionPt": "península (língua de terra entre rios)",
+      "definitionFr": "Pointe de terre entourée d'eau sur presque tout son pourtour.",
+      "inflections": ["la presqu'île", "des presqu'îles"],
+      "ptTargets": ["península", "presqu'île"],
+      "examples": [
+        { "level": "A1", "fr": "La presqu'île est étroite.", "pt": "A península é estreita." },
+        { "level": "A2-B1", "fr": "La presqu'île est entre deux fleuves.", "pt": "A península fica entre dois rios." },
+        { "level": "B1-B2", "fr": "La presqu'île, entre Saône et Rhône, abrite le cœur commerçant de Lyon.", "pt": "A presqu'île, entre Saône e Rhône, abriga o coração comercial de Lyon." },
+        { "level": "C1-C2", "fr": "C'est sur la presqu'île que se concentre la vie la plus dense de la ville.", "pt": "É na presqu'île que se concentra a vida mais densa da cidade." }
+      ]
+    },
+    {
+      "term": "la crue",
+      "definitionPt": "cheia, enchente",
+      "definitionFr": "Montée des eaux d'un cours d'eau.",
+      "inflections": ["la crue", "des crues"],
+      "ptTargets": ["cheia", "enchente", "cheias"],
+      "examples": [
+        { "level": "A1", "fr": "La crue est dangereuse.", "pt": "A cheia é perigosa." },
+        { "level": "A2-B1", "fr": "Le Rhône a des crues.", "pt": "O Rhône tem cheias." },
+        { "level": "B1-B2", "fr": "Les crues du Rhône, parfois dévastatrices, ont marqué l'histoire de Lyon.", "pt": "As cheias do Rhône, às vezes devastadoras, marcaram a história de Lyon." },
+        { "level": "C1-C2", "fr": "C'est contre les crues que la ville a appris à construire et à se protéger.", "pt": "É contra as cheias que a cidade aprendeu a construir e a se proteger." }
+      ]
+    },
+    {
+      "term": "le fleuve",
+      "definitionPt": "rio",
+      "definitionFr": "Cours d'eau qui se jette dans la mer.",
+      "inflections": ["le fleuve", "des fleuves"],
+      "ptTargets": ["rio", "rios"],
+      "examples": [
+        { "level": "A1", "fr": "Le fleuve est large.", "pt": "O rio é largo." },
+        { "level": "A2-B1", "fr": "Lyon a deux fleuves.", "pt": "Lyon tem dois rios." },
+        { "level": "B1-B2", "fr": "Les deux fleuves, qui traversent la ville, dessinent sa géographie.", "pt": "Os dois rios, que atravessam a cidade, desenham sua geografia." },
+        { "level": "C1-C2", "fr": "C'est entre deux fleuves que Lyon a appris l'art du commerce et du dialogue.", "pt": "É entre dois rios que Lyon aprendeu a arte do comércio e do diálogo." }
+      ]
+    },
+    {
+      "term": "la berge",
+      "definitionPt": "margem (do rio)",
+      "definitionFr": "Bord d'un cours d'eau.",
+      "inflections": ["la berge", "des berges"],
+      "ptTargets": ["margem", "margens"],
+      "examples": [
+        { "level": "A1", "fr": "La berge est verte.", "pt": "A margem é verde." },
+        { "level": "A2-B1", "fr": "Nous marchons sur les berges.", "pt": "Caminhamos nas margens." },
+        { "level": "B1-B2", "fr": "Les berges du Rhône, réaménagées, accueillent les familles le dimanche.", "pt": "As margens do Rhône, reformadas, recebem as famílias no domingo." },
+        { "level": "C1-C2", "fr": "C'est sur les berges que la ville respire et se retrouve.", "pt": "É nas margens que a cidade respira e se reencontra." }
+      ]
+    },
+    {
+      "term": "réaménager",
+      "definitionPt": "reformar, reorganizar",
+      "definitionFr": "Réorganiser un espace, l'embellir.",
+      "inflections": ["je réaménage", "réaménager", "réaménagés"],
+      "ptTargets": ["reformar", "reorganizar", "reformados"],
+      "examples": [
+        { "level": "A1", "fr": "On réaménage le parc.", "pt": "Reformamos o parque." },
+        { "level": "A2-B1", "fr": "Les quais ont été réaménagés.", "pt": "Os cais foram reformados." },
+        { "level": "B1-B2", "fr": "Les berges, réaménagées en 2013, sont devenues un immense jardin public.", "pt": "As margens, reformadas em 2013, viraram um imenso jardim público." },
+        { "level": "C1-C2", "fr": "C'est en réaménageant les quais que Lyon a reconquis son fleuve.", "pt": "É reformando os cais que Lyon reconquistou seu rio." }
+      ]
+    },
+    {
+      "term": "la péniche",
+      "definitionPt": "barcaça",
+      "definitionFr": "Bateau plat de transport ou d'habitation.",
+      "inflections": ["la péniche", "des péniches"],
+      "ptTargets": ["barcaça", "barcaças"],
+      "examples": [
+        { "level": "A1", "fr": "La péniche est blanche.", "pt": "A barcaça é branca." },
+        { "level": "A2-B1", "fr": "Les péniches naviguent sur le Rhône.", "pt": "As barcaças navegam no Rhône." },
+        { "level": "B1-B2", "fr": "Les péniches, amarrées aux quais, abritent des restaurants et des maisons.", "pt": "As barcaças, atracadas nos cais, abrigam restaurantes e casas." },
+        { "level": "C1-C2", "fr": "C'est sur les péniches que se vit la plus belle aventure du Rhône.", "pt": "É nas barcaças que se vive a mais bela aventura do Rhône." }
+      ]
+    },
+    {
+      "term": "la langue de terre",
+      "definitionPt": "língua de terra",
+      "definitionFr": "Étroit espace de terre entre deux eaux.",
+      "inflections": ["la langue de terre", "des langues de terre"],
+      "ptTargets": ["língua de terra", "línguas de terra"],
+      "examples": [
+        { "level": "A1", "fr": "La langue de terre est étroite.", "pt": "A língua de terra é estreita." },
+        { "level": "A2-B1", "fr": "La presqu'île est une langue de terre.", "pt": "A península é uma língua de terra." },
+        { "level": "B1-B2", "fr": "Cette langue de terre, entre deux fleuves, porte tout le cœur de Lyon.", "pt": "Essa língua de terra, entre dois rios, carrega todo o coração de Lyon." },
+        { "level": "C1-C2", "fr": "C'est sur cette langue de terre que la ville a choisi de s'étendre.", "pt": "É sobre essa língua de terra que a cidade escolheu se estender." }
+      ]
+    },
+    {
+      "term": "le tempérament",
+      "definitionPt": "temperamento",
+      "definitionFr": "Caractère, manière d'être.",
+      "inflections": ["le tempérament", "des tempéraments"],
+      "ptTargets": ["temperamento", "temperamentos"],
+      "examples": [
+        { "level": "A1", "fr": "Le tempérament est calme.", "pt": "O temperamento é calmo." },
+        { "level": "A2-B1", "fr": "Chaque fleuve a son tempérament.", "pt": "Cada rio tem seu temperamento." },
+        { "level": "B1-B2", "fr": "Les deux fleuves, aux tempéraments opposés, s'accordent pourtant.", "pt": "Os dois rios, de temperamentos opostos, se harmonizam." },
+        { "level": "C1-C2", "fr": "C'est dans l'opposition des tempéraments que naît l'équilibre.", "pt": "É na oposição dos temperamentos que nasce o equilíbrio." }
+      ]
+    },
+    {
+      "term": "mêler",
+      "definitionPt": "misturar, mesclar",
+      "definitionFr": "Mélanger, unir.",
+      "inflections": ["je mêle", "mêler", "mêlait"],
+      "ptTargets": ["misturar", "mesclar", "misturavam"],
+      "examples": [
+        { "level": "A1", "fr": "Je mêle les couleurs.", "pt": "Misturo as cores." },
+        { "level": "A2-B1", "fr": "Les deux eaux se mêlent.", "pt": "As duas águas se misturam." },
+        { "level": "B1-B2", "fr": "Les deux fleuves, qui se mêlent au confluent, deviennent un seul courant.", "pt": "Os dois rios, que se misturam na confluência, viram uma única corrente." },
+        { "level": "C1-C2", "fr": "C'est en se mêlant que les eaux oublient leur origine.", "pt": "É misturando-se que as águas esquecem sua origem." }
+      ]
+    },
+    {
+      "term": "paresseux",
+      "definitionPt": "preguiçoso",
+      "definitionFr": "Qui aime ne rien faire, lent.",
+      "inflections": ["paresseux", "paresseuse", "paresseux"],
+      "ptTargets": ["preguiçoso", "preguiçosa"],
+      "examples": [
+        { "level": "A1", "fr": "Le chat est paresseux.", "pt": "O gato é preguiçoso." },
+        { "level": "A2-B1", "fr": "La Saône est paresseuse.", "pt": "O Saône é preguiçoso." },
+        { "level": "B1-B2", "fr": "La Saône, paresseuse, coule plus doucement que son voisin le Rhône.", "pt": "O Saône, preguiçoso, corre mais devagar que seu vizinho o Rhône." },
+        { "level": "C1-C2", "fr": "C'est la lenteur paresseuse de la Saône qui fait son charme.", "pt": "É a lentidão preguiçosa do Saône que faz seu charme." }
+      ]
+    },
+    {
+      "term": "le voilier",
+      "definitionPt": "veleiro",
+      "definitionFr": "Bateau à voile.",
+      "inflections": ["le voilier", "des voiliers"],
+      "ptTargets": ["veleiro", "veleiros"],
+      "examples": [
+        { "level": "A1", "fr": "Le voilier est blanc.", "pt": "O veleiro é branco." },
+        { "level": "A2-B1", "fr": "Les voiliers glissent sur le Rhône.", "pt": "Os veleiros deslizam no Rhône." },
+        { "level": "B1-B2", "fr": "Les voiliers, qui naviguent entre les deux fleuves, animent les berges.", "pt": "Os veleiros, que navegam entre os dois rios, animam as margens." },
+        { "level": "C1-C2", "fr": "C'est du voilier que l'on découvre le mieux la rencontre des fleuves.", "pt": "É do veleiro que melhor se descobre o encontro dos rios." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Les phrases clivées entre les deux fleuves",
+    "explanationPt": "As frases clivadas realçam um elemento: 'C'est au confluent que le Rhône reçoit la Saône' (é na confluência que...), 'C'est lui qui porte la puissance' (é ele que...), 'Ce que j'aime dans la Saône, c'est sa douceur' (o que gosto no Saône é sua doçura).",
+    "exampleFr": "C'est au confluent que le Rhône reçoit la Saône ; c'est lui qui porte la puissance.",
+    "examplePt": "É na confluência que o Rhône recebe o Saône; é ele que carrega a potência.",
+    "practiceQuestion": "Complete: « C'est au confluent ___ le Rhône reçoit la Saône. »",
+    "options": ["que", "qui", "dont"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "C'est... que pour le lieu",
+        "explanationPt": "'C'est au confluent que...' realça o lugar. 'C'est sur cette langue de terre que se trouve le cœur de Lyon.'",
+        "exampleFr": "C'est sur cette langue de terre que se trouve le cœur de Lyon.",
+        "examplePt": "É sobre esta língua de terra que fica o coração de Lyon.",
+        "practiceQuestion": "Complete: « C'est sur cette terre ___ se trouve le cœur de Lyon. »",
+        "options": ["que", "qui", "où"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "C'est lui qui / Ce que... c'est",
+        "explanationPt": "'C'est lui qui porte la puissance' (é ele que...). 'Ce que j'aime, c'est sa douceur' (o que gosto é sua doçura).",
+        "exampleFr": "Ce que j'aime dans la Saône, c'est sa douceur.",
+        "examplePt": "O que eu gosto no Saône é sua doçura.",
+        "practiceQuestion": "Complete: « Ce que j'aime dans la Saône, c'___ sa douceur. »",
+        "options": ["est", "sont", "était"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Complete: « C'est au confluent ___ le Rhône reçoit la Saône. »",
+      "options": ["que", "qui", "dont"],
+      "correctIndex": 0,
+      "explanation": "Clivada de lugar: c'est... que."
+    },
+    {
+      "question": "Qual é o rio que Irlan descreve como 'potência'?",
+      "options": ["O Rhône", "O Saône", "O Sena"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'C'est lui qui porte la puissance' — o Rhône."
+    },
+    {
+      "question": "O que Andréa diz que gosta no Saône?",
+      "options": ["A doçura", "A velocidade", "A cor"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'Ce que j'aime dans la Saône, c'est sa douceur.'"
+    },
+    {
+      "question": "Em que ano os cais do Rhône foram reformados?",
+      "options": ["2013", "2003", "2023"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'les quais avaient été réaménagés en 2013'."
+    },
+    {
+      "question": "Onde Lyon nasceu, segundo Andréa?",
+      "options": ["Na confluência dos rios", "No alto de Fourvière", "Na Croix-Rousse"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'C'est à cet endroit précis que Lyon est née.'"
+    }
+  ]
+}

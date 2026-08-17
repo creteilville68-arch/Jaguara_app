@@ -1,0 +1,252 @@
+{
+  "id": "toulouse_lesson_7",
+  "cityId": "toulouse",
+  "domain": "Cidade",
+  "level": "Intermediário (B2)",
+  "titleFr": "Le métro VAL : la ville qui roule sans conducteur",
+  "titlePt": "O metrô VAL: a cidade que roda sem condutor",
+  "subtitleFr": "Le premier métro automatique de France et le souvenir des livraisons parisiennes",
+  "subtitlePt": "O primeiro metrô automático da França e a lembrança das entregas parisienses",
+  "summaryPt": "Nesta Aula 7 (B2), a família descobre o VAL, o primeiro metrô automático da França, inaugurado em 1993. Irlan compara o metrô parisiense com o toulousano. O aluno revisa os pronomes EN/Y e as hipóteses com 'si + plus-que-parfait'.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Dans la rame sans conducteur, Iris a regardé par la vitre : « Personne ne conduit ! » Irlan a souri : « C'est le VAL, le métro automatique. Il fonctionne sans conducteur depuis 1993. Si j'avais su, j'aurais adoré le voir à son inauguration. »",
+      "pt": "No trem sem condutor, Íris olhou pela janela: « Ninguém dirige! » Irlan sorriu: « É o VAL, o metrô automático. Ele funciona sem condutor desde 1993. Se eu tivesse sabido, eu teria adorado vê-lo em sua inauguração. »"
+    },
+    {
+      "id": 2,
+      "fr": "Andréa a demandé : « Tu te souviens de ton premier jour de livreur à Paris ? » Irlan a hoché la tête : « J'avais passé des heures dans le métro pour apprendre les stations. Si j'avais eu un VAL comme ici, j'y aurais voyagé sans y penser. »",
+      "pt": "Andréa perguntou: « Lembra do seu primeiro dia de entregador em Paris? » Irlan assentiu: « Eu tinha passado horas no metrô para aprender as estações. Se eu tivesse tido um VAL como aqui, eu teria viajado nele sem pensar. »"
+    },
+    {
+      "id": 3,
+      "fr": "À la station Marengo, la famille est montée sur la ligne A. « Les rames arrivent toutes les minutes aux heures de pointe, a lu Irlan sur l'écran. Le VAL transporte 200 000 voyageurs par jour. On en compte plus de 70 millions par an. »",
+      "pt": "Na estação Marengo, a família embarcou na linha A. « Os trens chegam a cada minuto nos horários de pico, leu Irlan no painel. O VAL transporta 200 mil passageiros por dia. Contam-se mais de 70 milhões por ano. »"
+    },
+    {
+      "id": 4,
+      "fr": "Iris a conclu : « Si j'avais vécu à Toulouse, j'aurais pris le métro pour aller à l'école ! » Andréa a ri : « Et si tu avais laissé ton papa tranquille, il aurait continué à livrer ses commandes ! » Irlan a ajouté : « Heureusement, aujourd'hui, je livre des souvenirs, pas des repas. »",
+      "pt": "Íris concluiu: « Se eu tivesse morado em Toulouse, eu teria pego o metrô para ir à escola! » Andréa riu: « E se você tivesse deixado seu papai em paz, ele teria continuado a entregar seus pedidos! » Irlan acrescentou: « Felizmente, hoje, eu entrego lembranças, não refeições. »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "le conducteur",
+      "definitionPt": "o condutor, o motorista",
+      "definitionFr": "Personne qui conduit un véhicule.",
+      "inflections": ["le conducteur", "les conducteurs"],
+      "ptTargets": ["condutor", "motorista"],
+      "examples": [
+        { "level": "A1", "fr": "Le conducteur conduit le bus.", "pt": "O condutor dirige o ônibus." },
+        { "level": "A2-B1", "fr": "Le VAL fonctionne sans conducteur.", "pt": "O VAL funciona sem condutor." },
+        { "level": "B1-B2", "fr": "Les conducteurs, remplacés par l'automatisation, ont été reclassés dans d'autres métiers.", "pt": "Os condutores, substituídos pela automatização, foram recolocados em outras profissões." },
+        { "level": "C1-C2", "fr": "L'absence de conducteur a permis au VAL d'augmenter la fréquence des rames.", "pt": "A ausência de condutor permitiu ao VAL aumentar a frequência dos trens." }
+      ]
+    },
+    {
+      "term": "la rame",
+      "definitionPt": "o trem (do metrô)",
+      "definitionFr": "Train de métro.",
+      "inflections": ["la rame", "les rames"],
+      "ptTargets": ["trem", "composição"],
+      "examples": [
+        { "level": "A1", "fr": "La rame est rapide.", "pt": "O trem é rápido." },
+        { "level": "A2-B1", "fr": "La rame arrive toutes les minutes.", "pt": "O trem chega a cada minuto." },
+        { "level": "B1-B2", "fr": "Les rames, qui se suivent sans conducteur, sont contrôlées à distance.", "pt": "Os trens, que se seguem sem condutor, são controlados à distância." },
+        { "level": "C1-C2", "fr": "L'automatisation des rames a révolutionné la gestion des transports urbains.", "pt": "A automatização dos trens revolucionou a gestão dos transportes urbanos." }
+      ]
+    },
+    {
+      "term": "la station",
+      "definitionPt": "a estação",
+      "definitionFr": "Lieu où s'arrête le métro.",
+      "inflections": ["la station", "les stations"],
+      "ptTargets": ["estação"],
+      "examples": [
+        { "level": "A1", "fr": "La station est proche.", "pt": "A estação é perto." },
+        { "level": "A2-B1", "fr": "La station Marengo est sur la ligne A.", "pt": "A estação Marengo fica na linha A." },
+        { "level": "B1-B2", "fr": "Les stations, décorées de façon différente, aident les voyageurs à s'orienter.", "pt": "As estações, decoradas de modo diferente, ajudam os viajantes a se orientar." },
+        { "level": "C1-C2", "fr": "Chaque station du VAL raconte un quartier et une époque de la ville.", "pt": "Cada estação do VAL conta um bairro e uma época da cidade." }
+      ]
+    },
+    {
+      "term": "le voyageur",
+      "definitionPt": "o viajante, o passageiro",
+      "definitionFr": "Personne qui se déplace en transport.",
+      "inflections": ["le voyageur", "les voyageurs"],
+      "ptTargets": ["viajante", "passageiro"],
+      "examples": [
+        { "level": "A1", "fr": "Le voyageur attend.", "pt": "O passageiro espera." },
+        { "level": "A2-B1", "fr": "Le VAL transporte 200 000 voyageurs par jour.", "pt": "O VAL transporta 200 mil passageiros por dia." },
+        { "level": "B1-B2", "fr": "Les voyageurs, qui montent et descendent sans arrêt, donnent vie à la ville.", "pt": "Os passageiros, que sobem e descem sem parar, dão vida à cidade." },
+        { "level": "C1-C2", "fr": "La fluidité des voyageurs dépend de la fiabilité du réseau automatique.", "pt": "A fluidez dos passageiros depende da confiabilidade da rede automática." }
+      ]
+    },
+    {
+      "term": "l'inauguration",
+      "definitionPt": "a inauguração",
+      "definitionFr": "Cérémonie d'ouverture officielle.",
+      "inflections": ["l'inauguration", "les inaugurations"],
+      "ptTargets": ["inauguração"],
+      "examples": [
+        { "level": "A1", "fr": "L'inauguration est grande.", "pt": "A inauguração é grande." },
+        { "level": "A2-B1", "fr": "Le VAL a été inauguré en 1993.", "pt": "O VAL foi inaugurado em 1993." },
+        { "level": "B1-B2", "fr": "L'inauguration, qui a attiré des milliers de Toulousains, a marqué l'histoire de la ville.", "pt": "A inauguração, que atraiu milhares de toulousanos, marcou a história da cidade." },
+        { "level": "C1-C2", "fr": "L'inauguration du VAL fit de Toulouse la première ville française dotée d'un métro automatique.", "pt": "A inauguração do VAL fez de Toulouse a primeira cidade francesa com metrô automático." }
+      ]
+    },
+    {
+      "term": "apprendre",
+      "definitionPt": "aprender",
+      "definitionFr": "Acquérir des connaissances.",
+      "inflections": ["j'apprends", "nous apprenons"],
+      "ptTargets": ["aprender", "aprendido"],
+      "examples": [
+        { "level": "A1", "fr": "J'apprends le français.", "pt": "Eu aprendo francês." },
+        { "level": "A2-B1", "fr": "Irlan avait appris les stations par cœur.", "pt": "Irlan tinha aprendido as estações de cor." },
+        { "level": "B1-B2", "fr": "Il avait appris, en livrant, chaque raccourci de la ville.", "pt": "Ele tinha aprendido, entregando, cada atalho da cidade." },
+        { "level": "C1-C2", "fr": "Apprendre une ville, c'est en éprouver les rues, les heures et les visages.", "pt": "Aprender uma cidade é experimentar suas ruas, suas horas e seus rostos." }
+      ]
+    },
+    {
+      "term": "la pointe",
+      "definitionPt": "o pico (horário de pico)",
+      "definitionFr": "Moment de plus grande affluence.",
+      "inflections": ["la pointe", "les pointes"],
+      "ptTargets": ["pico", "horário de pico"],
+      "examples": [
+        { "level": "A1", "fr": "La pointe est chargée.", "pt": "O pico é movimentado." },
+        { "level": "A2-B1", "fr": "Aux heures de pointe, le métro est plein.", "pt": "Nos horários de pico, o metrô é cheio." },
+        { "level": "B1-B2", "fr": "Aux heures de pointe, les rames arrivent toutes les minutes.", "pt": "Nos horários de pico, os trens chegam a cada minuto." },
+        { "level": "C1-C2", "fr": "La gestion des heures de pointe est le test ultime d'un réseau de transport.", "pt": "A gestão dos horários de pico é o teste supremo de uma rede de transporte." }
+      ]
+    },
+    {
+      "term": "l'écran",
+      "definitionPt": "o painel, a tela",
+      "definitionFr": "Surface d'affichage.",
+      "inflections": ["l'écran", "les écrans"],
+      "ptTargets": ["painel", "tela"],
+      "examples": [
+        { "level": "A1", "fr": "L'écran est grand.", "pt": "A tela é grande." },
+        { "level": "A2-B1", "fr": "L'écran indique les prochaines rames.", "pt": "O painel indica os próximos trens." },
+        { "level": "B1-B2", "fr": "Les écrans, qui annoncent les temps d'attente, rassurent les voyageurs.", "pt": "Os painéis, que anunciam os tempos de espera, tranquilizam os passageiros." },
+        { "level": "C1-C2", "fr": "L'information en temps réel sur écran est devenue un standard des métros modernes.", "pt": "A informação em tempo real em painéis tornou-se um padrão dos metrôs modernos." }
+      ]
+    },
+    {
+      "term": "l'école",
+      "definitionPt": "a escola",
+      "definitionFr": "Lieu où l'on enseigne.",
+      "inflections": ["l'école", "les écoles"],
+      "ptTargets": ["escola"],
+      "examples": [
+        { "level": "A1", "fr": "L'école est grande.", "pt": "A escola é grande." },
+        { "level": "A2-B1", "fr": "Iris va à l'école en métro.", "pt": "Íris vai à escola de metrô." },
+        { "level": "B1-B2", "fr": "L'école, qui se trouve près de la station, est facile d'accès.", "pt": "A escola, que fica perto da estação, é de fácil acesso." },
+        { "level": "C1-C2", "fr": "La proximité des écoles et des transports façonne l'urbanisme des quartiers.", "pt": "A proximidade entre escolas e transportes molda o urbanismo dos bairros." }
+      ]
+    },
+    {
+      "term": "le souvenir",
+      "definitionPt": "a lembrança, a recordação",
+      "definitionFr": "Ce qui reste dans la mémoire.",
+      "inflections": ["le souvenir", "les souvenirs"],
+      "ptTargets": ["lembrança", "recordação", "memória"],
+      "examples": [
+        { "level": "A1", "fr": "Le souvenir est doux.", "pt": "A lembrança é doce." },
+        { "level": "A2-B1", "fr": "Le métro lui rappelle ses souvenirs de livreur.", "pt": "O metrô lhe traz lembranças de entregador." },
+        { "level": "B1-B2", "fr": "Les souvenirs, qui remontent sans prévenir, accompagnent chaque voyage.", "pt": "As lembranças, que vêm sem avisar, acompanham cada viagem." },
+        { "level": "C1-C2", "fr": "Les souvenirs se mêlent aux lieux pour composer la géographie intime de chacun.", "pt": "As lembranças se misturam aos lugares para compor a geografia íntima de cada um." }
+      ]
+    },
+    {
+      "term": "livrer",
+      "definitionPt": "entregar",
+      "definitionFr": "Remettre une commande à quelqu'un.",
+      "inflections": ["je livre", "nous livrons"],
+      "ptTargets": ["entregar", "entregue"],
+      "examples": [
+        { "level": "A1", "fr": "Je livre le repas.", "pt": "Eu entrego a refeição." },
+        { "level": "A2-B1", "fr": "Irlan livrait des repas à scooter.", "pt": "Irlan entregava refeições de scooter." },
+        { "level": "B1-B2", "fr": "Il livrait, qu'il pleuve ou qu'il vente, des commandes dans tout Paris.", "pt": "Ele entregava, chovesse ou fizesse vento, pedidos por toda Paris." },
+        { "level": "C1-C2", "fr": "Livrer en ville exige une connaissance fine des heures, des rues et des humeurs.", "pt": "Entregar na cidade exige um conhecimento fino das horas, das ruas e dos humores." }
+      ]
+    },
+    {
+      "term": "la commande",
+      "definitionPt": "o pedido",
+      "definitionFr": "Demande d'un produit.",
+      "inflections": ["la commande", "les commandes"],
+      "ptTargets": ["pedido"],
+      "examples": [
+        { "level": "A1", "fr": "La commande arrive.", "pt": "O pedido chega." },
+        { "level": "A2-B1", "fr": "Irlan recevait des commandes sur son téléphone.", "pt": "Irlan recebia pedidos no telefone." },
+        { "level": "B1-B2", "fr": "Les commandes, qui arrivaient sans cesse, rythmaient ses journées.", "pt": "Os pedidos, que chegavam sem parar, marcavam o ritmo de seus dias." },
+        { "level": "C1-C2", "fr": "L'optimisation des commandes a transformé le métier de livreur en science de la logistique.", "pt": "A otimização dos pedidos transformou a profissão de entregador em ciência da logística." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "L'hypothèse passée : si + plus-que-parfait, conditionnel passé",
+    "explanationPt": "Para hipóteses não realizadas no passado: 'Si j'avais su, j'aurais adoré' (se eu tivesse sabido, eu teria adorado). Estrutura: si + plus-que-parfait + conditionnel passé. Expressa arrependimentos e desejos passados.",
+    "exampleFr": "Si j'avais eu un VAL comme ici, j'y aurais voyagé sans y penser.",
+    "examplePt": "Se eu tivesse tido um VAL como aqui, eu teria viajado nele sem pensar.",
+    "practiceQuestion": "Complete: « Si j'avais su, j'___ adoré voir l'inauguration. »",
+    "options": ["aurais", "avais", "ai"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "La forme si + plus-que-parfait",
+        "explanationPt": "A condição no passado usa o plus-que-parfait: 'Si j'avais vécu à Toulouse' (se eu tivesse morado em Toulouse), 'si tu avais laissé ton papa tranquille'.",
+        "exampleFr": "Si j'avais vécu à Toulouse, j'aurais pris le métro pour aller à l'école.",
+        "examplePt": "Se eu tivesse morado em Toulouse, eu teria pego o metrô para ir à escola.",
+        "practiceQuestion": "Complete: « Si nous ___ eu le temps, nous serions restés. »",
+        "options": ["avions", "avons", "aurions"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "EN et Y dans les phrases complexes",
+        "explanationPt": "Em frases condicionais, EN e Y evitam repetições: 'j'y aurais voyagé' (teria viajado nele), 'on en compte 70 millions' (contam-se deles 70 milhões).",
+        "exampleFr": "Le VAL ? J'y aurais voyagé tous les jours.",
+        "examplePt": "O VAL? Eu teria viajado nele todos os dias.",
+        "practiceQuestion": "Complete: « Les rames sont fréquentes, on ___ compte 70 millions par an. »",
+        "options": ["en", "y", "les"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "O que é o VAL?",
+      "options": ["um metrô automático sem condutor", "um bonde antigo", "um ônibus elétrico"],
+      "correctIndex": 0,
+      "explanation": "O VAL é o metrô automático de Toulouse, o primeiro da França, de 1993."
+    },
+    {
+      "question": "Quantos passageiros o VAL transporta por dia?",
+      "options": ["200 mil", "5 mil", "1 milhão"],
+      "correctIndex": 0,
+      "explanation": "O VAL transporta cerca de 200 mil passageiros por dia."
+    },
+    {
+      "question": "O que Irlan tinha aprendido de cor como entregador?",
+      "options": ["as estações de metrô de Paris", "as receitas de cozinha", "os horários dos trens"],
+      "correctIndex": 0,
+      "explanation": "Irlan tinha passado horas no metrô aprendendo as estações de Paris."
+    },
+    {
+      "question": "Complete: « Si j'avais su, j'___ adoré voir l'inauguration. »",
+      "options": ["aurais", "avais", "ai"],
+      "correctIndex": 0,
+      "explanation": "Hipótese passada: si + plus-que-parfait + conditionnel passé (aurais adoré)."
+    },
+    {
+      "question": "Em que ano o VAL foi inaugurado?",
+      "options": ["1993", "1850", "2010"],
+      "correctIndex": 0,
+      "explanation": "O VAL foi inaugurado em 1993, o primeiro metrô automático da França."
+    }
+  ]
+}

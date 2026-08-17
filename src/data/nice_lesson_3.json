@@ -1,0 +1,252 @@
+{
+  "id": "nice_lesson_3",
+  "cityId": "nice",
+  "domain": "Panorama e História",
+  "level": "Avançado (C2)",
+  "titleFr": "La colline du Château : Nice à vol d'oiseau",
+  "titlePt": "A colina do Château: Nice vista do alto",
+  "subtitleFr": "Les ruines, la cascade et la plus belle vue de la Riviera",
+  "subtitlePt": "As ruínas, a cascata e a vista mais bonita da Riviera",
+  "summaryPt": "Nesta Aula 3 (C2), a família sobe a colline du Château, onde ficava a fortaleza destruída no século XVIII, e contempla Nice do alto. O aluno domina o euphémisme e a antithèse, com vocabulário da paisagem, das ruínas e da história.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "L'ascension de la colline du Château se fit sous les pins parasols. Au sommet, la vue embrassa la baie, les toits ocres et les montagnes. « La forteresse du Château, expliqua Andréa, a été démantelée par Louis XIV en 1706. Il ne reste que ces ruines paisibles. »",
+      "pt": "A subida da colina do Château foi feita sob os pinheiros-guarda-chuva. No topo, a vista abraçou a baía, os telhados ocres e as montanhas. « A fortaleza do Château, explicou Andréa, foi demolida por Luís XIV em 1706. Restam apenas estas ruínas tranquilas. »"
+    },
+    {
+      "id": 2,
+      "fr": "Iris courait autour de la cascade artificielle, qui tombe en cascade depuis les jardins. « Autrefois, dit Irlan, cette colline protégeait les habitants. Aujourd'hui, elle offre la plus belle terrasse de la ville. La même pierre a connu la guerre et la contemplation. »",
+      "pt": "Íris corria ao redor da cascata artificial, que cai em cascata desde os jardins. « Outrora, disse Irlan, esta colina protegia os habitantes. Hoje, ela oferece o mais belo terraço da cidade. A mesma pedra conheceu a guerra e a contemplação. »"
+    },
+    {
+      "id": 3,
+      "fr": "Du haut du belvédère, Irlan observa le port Lympia en contrebas. « Le port n'a pas toujours été ce havre de paix, murmura-t-il. Il a vu partir les émigrants et revenir les voyageurs. Entre la mer et la pierre, Nice a appris l'art des contrastes. »",
+      "pt": "Do alto do mirante, Irlan observou o porto Lympia abaixo. « O porto nem sempre foi este refúgio de paz, murmurou ele. Viu partirem os emigrantes e voltarem os viajantes. Entre o mar e a pedra, Nice aprendeu a arte dos contrastes. »"
+    },
+    {
+      "id": 4,
+      "fr": "Au coucher du soleil, la ville entière parut s'embraser. « Regardez, dit Andréa : le ciel embrase la mer, et la mer éteint le ciel. C'est l'antithèse parfaite : tout se répond, tout se contredit, et pourtant tout s'harmonise. Voilà la leçon de Nice. »",
+      "pt": "Ao pôr do sol, a cidade inteira pareceu incendiar-se. « Olhem, disse Andréa: o céu incendeia o mar, e o mar apaga o céu. É a antítese perfeita: tudo se responde, tudo se contradiz, e no entanto tudo se harmoniza. Eis a lição de Nice. »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "la colline",
+      "definitionPt": "a colina",
+      "definitionFr": "Élévation de terrain.",
+      "inflections": ["la colline", "les collines"],
+      "ptTargets": ["colina"],
+      "examples": [
+        { "level": "A1", "fr": "La colline est verte.", "pt": "A colina é verde." },
+        { "level": "A2-B1", "fr": "La colline du Château domine Nice.", "pt": "A colina do Château domina Nice." },
+        { "level": "B1-B2", "fr": "La colline, couverte de pins, offre une vue superbe.", "pt": "A colina, coberta de pinheiros, oferece uma vista soberba." },
+        { "level": "C1-C2", "fr": "C'est de cette colline que la ville révèle son vrai visage.", "pt": "É dessa colina que a cidade revela seu verdadeiro rosto." }
+      ]
+    },
+    {
+      "term": "la forteresse",
+      "definitionPt": "a fortaleza",
+      "definitionFr": "Place fortifiée.",
+      "inflections": ["la forteresse", "les forteresses"],
+      "ptTargets": ["fortaleza"],
+      "examples": [
+        { "level": "A1", "fr": "La forteresse est vieille.", "pt": "A fortaleza é velha." },
+        { "level": "A2-B1", "fr": "La forteresse du Château protégeait la ville.", "pt": "A fortaleza do Château protegia a cidade." },
+        { "level": "B1-B2", "fr": "La forteresse, démantelée en 1706, ne laissa que des ruines.", "pt": "A fortaleza, demolida em 1706, só deixou ruínas." },
+        { "level": "C1-C2", "fr": "C'est la forteresse disparue qui donna son nom à la colline.", "pt": "É a fortaleza desaparecida que deu seu nome à colina." }
+      ]
+    },
+    {
+      "term": "la ruine",
+      "definitionPt": "a ruína",
+      "definitionFr": "Restes d'un édifice détruit.",
+      "inflections": ["la ruine", "les ruines"],
+      "ptTargets": ["ruína"],
+      "examples": [
+        { "level": "A1", "fr": "La ruine est ancienne.", "pt": "A ruína é antiga." },
+        { "level": "A2-B1", "fr": "Les ruines du château sont paisibles.", "pt": "As ruínas do castelo são tranquilas." },
+        { "level": "B1-B2", "fr": "Les ruines, envahies par la végétation, gardent leur dignité.", "pt": "As ruínas, invadidas pela vegetação, guardam sua dignidade." },
+        { "level": "C1-C2", "fr": "C'est dans les ruines que se lit le dialogue entre la puissance et le temps.", "pt": "É nas ruínas que se lê o diálogo entre o poder e o tempo." }
+      ]
+    },
+    {
+      "term": "la cascade",
+      "definitionPt": "a cascata",
+      "definitionFr": "Chute d'eau naturelle ou artificielle.",
+      "inflections": ["la cascade", "les cascades"],
+      "ptTargets": ["cascata"],
+      "examples": [
+        { "level": "A1", "fr": "La cascade est fraîche.", "pt": "A cascata é fresca." },
+        { "level": "A2-B1", "fr": "La cascade tombe dans la colline.", "pt": "A cascata cai na colina." },
+        { "level": "B1-B2", "fr": "La cascade, artificielle, rafraîchit les jardins du Château.", "pt": "A cascata, artificial, refresca os jardins do Château." },
+        { "level": "C1-C2", "fr": "C'est le bruit de la cascade qui berce la contemplation du belvédère.", "pt": "É o barulho da cascata que embala a contemplação do mirante." }
+      ]
+    },
+    {
+      "term": "le belvédère",
+      "definitionPt": "o mirante",
+      "definitionFr": "Point de vue élevé.",
+      "inflections": ["le belvédère", "les belvédères"],
+      "ptTargets": ["mirante"],
+      "examples": [
+        { "level": "A1", "fr": "Le belvédère est haut.", "pt": "O mirante é alto." },
+        { "level": "A2-B1", "fr": "Le belvédère offre une belle vue.", "pt": "O mirante oferece uma bela vista." },
+        { "level": "B1-B2", "fr": "Le belvédère, au sommet de la colline, domine la baie.", "pt": "O mirante, no topo da colina, domina a baía." },
+        { "level": "C1-C2", "fr": "C'est du belvédère que le voyageur embrasse toute la Riviera.", "pt": "É do mirante que o viajante abraça toda a Riviera." }
+      ]
+    },
+    {
+      "term": "le contraste",
+      "definitionPt": "o contraste",
+      "definitionFr": "Opposition marquée.",
+      "inflections": ["le contraste", "les contrastes"],
+      "ptTargets": ["contraste"],
+      "examples": [
+        { "level": "A1", "fr": "Le contraste est fort.", "pt": "O contraste é forte." },
+        { "level": "A2-B1", "fr": "Le contraste entre la mer et la ville est beau.", "pt": "O contraste entre o mar e a cidade é bonito." },
+        { "level": "B1-B2", "fr": "Les contrastes, nombreux, font le charme de la Riviera.", "pt": "Os contrastes, numerosos, fazem o charme da Riviera." },
+        { "level": "C1-C2", "fr": "C'est dans le contraste que se révèle l'essence d'une ville.", "pt": "É no contraste que se revela a essência de uma cidade." }
+      ]
+    },
+    {
+      "term": "la guerre",
+      "definitionPt": "a guerra",
+      "definitionFr": "Conflit armé.",
+      "inflections": ["la guerre", "les guerres"],
+      "ptTargets": ["guerra"],
+      "examples": [
+        { "level": "A1", "fr": "La guerre est finie.", "pt": "A guerra acabou." },
+        { "level": "A2-B1", "fr": "La forteresse a connu la guerre.", "pt": "A fortaleza conheceu a guerra." },
+        { "level": "B1-B2", "fr": "La guerre, lointaine, ne laisse que des ruines paisibles.", "pt": "A guerra, distante, só deixa ruínas tranquilas." },
+        { "level": "C1-C2", "fr": "C'est la guerre qui, par sa destruction, offrit à Nice son plus beau point de vue.", "pt": "É a guerra que, por sua destruição, ofereceu a Nice seu mais belo ponto de vista." }
+      ]
+    },
+    {
+      "term": "la contemplation",
+      "definitionPt": "a contemplação",
+      "definitionFr": "Action de contempler, de regarder longuement.",
+      "inflections": ["la contemplation", "les contemplations"],
+      "ptTargets": ["contemplação"],
+      "examples": [
+        { "level": "A1", "fr": "La contemplation est calme.", "pt": "A contemplação é calma." },
+        { "level": "A2-B1", "fr": "La contemplation de la mer est reposante.", "pt": "A contemplação do mar é repousante." },
+        { "level": "B1-B2", "fr": "La contemplation, silencieuse, nourrit l'âme du voyageur.", "pt": "A contemplação, silenciosa, alimenta a alma do viajante." },
+        { "level": "C1-C2", "fr": "C'est dans la contemplation que se mesure la grandeur d'un paysage.", "pt": "É na contemplação que se mede a grandeza de uma paisagem." }
+      ]
+    },
+    {
+      "term": "l'antithèse",
+      "definitionPt": "a antítese",
+      "definitionFr": "Figure de style fondée sur l'opposition.",
+      "inflections": ["l'antithèse", "les antithèses"],
+      "ptTargets": ["antítese"],
+      "examples": [
+        { "level": "A1", "fr": "L'antithèse est une figure.", "pt": "A antítese é uma figura." },
+        { "level": "A2-B1", "fr": "« Le ciel embrase la mer » est une antithèse.", "pt": "« O céu incendeia o mar » é uma antítese." },
+        { "level": "B1-B2", "fr": "L'antithèse, fondée sur l'opposition, crée un effet saisissant.", "pt": "A antítese, fundada na oposição, cria um efeito impressionante." },
+        { "level": "C1-C2", "fr": "C'est l'antithèse qui donne à la phrase sa tension et son équilibre.", "pt": "É a antítese que dá à frase sua tensão e seu equilíbrio." }
+      ]
+    },
+    {
+      "term": "le port",
+      "definitionPt": "o porto",
+      "definitionFr": "Lieu d'accostage des bateaux.",
+      "inflections": ["le port", "les ports"],
+      "ptTargets": ["porto"],
+      "examples": [
+        { "level": "A1", "fr": "Le port est calme.", "pt": "O porto é calmo." },
+        { "level": "A2-B1", "fr": "Le port Lympia est en contrebas.", "pt": "O porto Lympia fica abaixo." },
+        { "level": "B1-B2", "fr": "Le port, protégé par la colline, abrite les bateaux de pêche.", "pt": "O porto, protegido pela colina, abriga os barcos de pesca." },
+        { "level": "C1-C2", "fr": "C'est le port qui, depuis des siècles, ouvre Nice sur le monde.", "pt": "É o porto que, há séculos, abre Nice para o mundo." }
+      ]
+    },
+    {
+      "term": "l'émigrant",
+      "definitionPt": "o emigrante",
+      "definitionFr": "Personne qui quitte son pays.",
+      "inflections": ["l'émigrant", "les émigrants"],
+      "ptTargets": ["emigrante"],
+      "examples": [
+        { "level": "A1", "fr": "L'émigrant part.", "pt": "O emigrante parte." },
+        { "level": "A2-B1", "fr": "Les émigrants sont partis du port.", "pt": "Os emigrantes partiram do porto." },
+        { "level": "B1-B2", "fr": "Les émigrants, chargés d'espoir, quittaient la ville par la mer.", "pt": "Os emigrantes, carregados de esperança, deixavam a cidade pelo mar." },
+        { "level": "C1-C2", "fr": "C'est le souvenir des émigrants qui donne au port sa profondeur humaine.", "pt": "É a lembrança dos emigrantes que dá ao porto sua profundidade humana." }
+      ]
+    },
+    {
+      "term": "le havre",
+      "definitionPt": "o refúgio",
+      "definitionFr": "Lieu sûr, abri.",
+      "inflections": ["le havre", "les havres"],
+      "ptTargets": ["refúgio", "abrigo"],
+      "examples": [
+        { "level": "A1", "fr": "Le havre est calme.", "pt": "O refúgio é calmo." },
+        { "level": "A2-B1", "fr": "Le port est un havre de paix.", "pt": "O porto é um refúgio de paz." },
+        { "level": "B1-B2", "fr": "Le havre, silencieux, accueille les voyageurs fatigués.", "pt": "O refúgio, silencioso, acolhe os viajantes cansados." },
+        { "level": "C1-C2", "fr": "C'est ce havre qui, après la traversée, rend le voyage inoubliable.", "pt": "É esse refúgio que, após a travessia, torna a viagem inesquecível." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "L'euphémisme : adoucir la réalité",
+    "explanationPt": "O eufemismo suaviza o que é duro: 'la forteresse a été démantelée' (foi demolida) vira 'il ne reste que des ruines paisibles'; 'a connu la guerre' substitui as batalhas sangrentas. É a arte do subtexto elegante.",
+    "exampleFr": "Il ne reste que ces ruines paisibles.",
+    "examplePt": "Restam apenas estas ruínas tranquilas.",
+    "practiceQuestion": "Qual é o eufemismo?",
+    "options": ["« des ruines paisibles »", "« une destruction totale »", "« un massacre »"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "L'antithèse : le ciel et la mer",
+        "explanationPt": "A antítese opõe dois termos: 'le ciel embrase la mer, et la mer éteint le ciel' (o céu incendeia o mar, e o mar apaga o céu). A oposição cria equilíbrio e poesia.",
+        "exampleFr": "Le ciel embrase la mer, et la mer éteint le ciel.",
+        "examplePt": "O céu incendeia o mar, e o mar apaga o céu.",
+        "practiceQuestion": "Complete a antítese: « Le ciel ___ la mer, et la mer éteint le ciel. »",
+        "options": ["embrase", "arrose", "déplace"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "La même pierre : le contraste historique",
+        "explanationPt": "O contraste temporal: 'la même pierre a connu la guerre et la contemplation' — a mesma pedra viu a guerra e agora vê a contemplação. Antítese histórica condensada.",
+        "exampleFr": "La même pierre a connu la guerre et la contemplation.",
+        "examplePt": "A mesma pedra conheceu a guerra e a contemplação.",
+        "practiceQuestion": "Complete: « La même pierre a connu la guerre et la ___ . »",
+        "options": ["contemplation", "construction", "navigation"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Quem mandou demolir a forteresse do Château?",
+      "options": ["Luís XIV, em 1706", "Napoleão, em 1815", "César, em 52 a.C."],
+      "correctIndex": 0,
+      "explanation": "A fortaleza foi desmantelada por Louis XIV em 1706."
+    },
+    {
+      "question": "O que se vê do topo da colline du Château?",
+      "options": ["a baía, os telhados ocres e as montanhas", "apenas o aeroporto", "os subúrbios industriais"],
+      "correctIndex": 0,
+      "explanation": "Do alto vê-se a baía, os telhados ocres e as montanhas."
+    },
+    {
+      "question": "O que há nos jardins da colina?",
+      "options": ["uma cascata artificial", "um estádio", "um lago de patinação"],
+      "correctIndex": 0,
+      "explanation": "Uma cascata artificial cai nos jardins da colina."
+    },
+    {
+      "question": "Complete a antítese: « Le ciel ___ la mer, et la mer éteint le ciel. »",
+      "options": ["embrase", "arrose", "déplace"],
+      "correctIndex": 0,
+      "explanation": "Antítese: embrase (incendeia) opõe-se a éteint (apaga)."
+    },
+    {
+      "question": "Qual é o eufemismo usado para a demolição da fortaleza?",
+      "options": ["« des ruines paisibles »", "« une destruction totale »", "« un massacre »"],
+      "correctIndex": 0,
+      "explanation": "O eufemismo suaviza: restam apenas ruínas tranquilas."
+    }
+  ]
+}

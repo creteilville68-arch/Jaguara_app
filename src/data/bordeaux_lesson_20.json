@@ -1,0 +1,237 @@
+{
+  "id": "bordeaux_lesson_20",
+  "cityId": "bordeaux",
+  "domain": "Natureza e viagem",
+  "level": "Intermediário (B1+)",
+  "titleFr": "La dune du Pilat : la plus haute dune d'Europe",
+  "titlePt": "A duna do Pilat: a duna mais alta da Europa",
+  "subtitleFr": "Cent mètres de sable entre la forêt et l'océan",
+  "subtitlePt": "Cem metros de areia entre a floresta e o oceano",
+  "summaryPt": "Nesta Aula 20 (B1+), a família visita a dune du Pilat, a mais alta duna da Europa, com mais de 100 metros, entre a floresta de pinheiros e o oceano. O aluno pratica o vocabulário da natureza (la dune, le sable, l'océan) e o conditionnel para expressar desejos e possibilidades.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "« Aujourd'hui, on monte la plus haute dune d'Europe ! » a annoncé Irlan. « La dune du Pilat mesure plus de 100 mètres. » Iris a regardé la montagne de sable : « On dirait une montagne qui bouge ! »",
+      "pt": "« Hoje subimos a duna mais alta da Europa! » anunciou Irlan. « A duna do Pilat tem mais de 100 metros. » Íris olhou a montanha de areia: « Parece uma montanha que se move! »"
+    },
+    {
+      "id": 2,
+      "fr": "La famille a monté la dune en s'amusant. « En glissant, on remonte », a ri Iris. En haut, le spectacle était immense : la forêt d'un côté, l'océan de l'autre, et la pointe de la dune qui avance vers la mer.",
+      "pt": "A família subiu a duna se divertindo. « Escorregando, a gente sobe », riu Íris. Lá em cima, o espetáculo era imenso: a floresta de um lado, o oceano do outro, e a ponta da duna avançando rumo ao mar."
+    },
+    {
+      "id": 3,
+      "fr": "« Le vent construit la dune, grain par grain », a expliqué Irlan, le géographe. « Elle avance de quelques mètres chaque année. » « Si on attendait cent ans, on la verrait dans la forêt ? » a demandé Iris. « Peut-être », a souri son père.",
+      "pt": "« O vento constrói a duna, grão por grão », explicou Irlan, o geógrafo. « Ela avança alguns metros a cada ano. » « Se a gente esperasse cem anos, a veríamos na floresta? » perguntou Íris. « Talvez », sorriu o pai."
+    },
+    {
+      "id": 4,
+      "fr": "Andréa a étendu une serviette sur le sable. « On pourrait rester ici toute la journée », a-t-elle dit. « Ce serait parfait », a répondu Iris. « Je construirais un château de sable avec des tours et des ponts ! »",
+      "pt": "Andréa estendeu uma toalha na areia. « Poderíamos ficar aqui o dia inteiro », disse. « Seria perfeito », respondeu Íris. « Eu construiria um castelo de areia com torres e pontes! »"
+    },
+    {
+      "id": 5,
+      "fr": "Le soir, en redescendant, Iris a ramassé un coquillage. « Je le garderai toujours », a-t-elle promis. Irlan a regardé l'océan : « Quand j'étais livreur, je voyais les gens partir en vacances. Aujourd'hui, je suis un de ces gens. La France m'a offert la mer. »",
+      "pt": "À noite, descendo, Íris pegou uma concha. « Vou guardá-la para sempre », prometeu. Irlan olhou o oceano: « Quando eu era entregador, eu via as pessoas viajando nas férias. Hoje, sou uma dessas pessoas. A França me ofereceu o mar. »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "la dune",
+      "definitionPt": "a duna",
+      "definitionFr": "Colline de sable formée par le vent.",
+      "inflections": ["la dune", "une dune", "des dunes"],
+      "ptTargets": ["duna"],
+      "examples": [
+        { "level": "A1", "fr": "La dune est haute.", "pt": "A duna é alta." },
+        { "level": "A2-B1", "fr": "La dune du Pilat est la plus haute d'Europe.", "pt": "A duna do Pilat é a mais alta da Europa." },
+        { "level": "B1", "fr": "La dune que l'on monte avance vers la mer.", "pt": "A duna que se sobe avança rumo ao mar." },
+        { "level": "C1-C2", "fr": "La dune, sculpture du vent, change de forme sans jamais se reposer.", "pt": "A duna, escultura do vento, muda de forma sem jamais descansar." }
+      ]
+    },
+    {
+      "term": "le sable",
+      "definitionPt": "a areia",
+      "definitionFr": "Petits grains qui couvrent la plage.",
+      "inflections": ["le sable", "du sable"],
+      "ptTargets": ["areia"],
+      "examples": [
+        { "level": "A1", "fr": "Le sable est chaud.", "pt": "A areia é quente." },
+        { "level": "A2-B1", "fr": "Les enfants jouent dans le sable.", "pt": "As crianças brincam na areia." },
+        { "level": "B1", "fr": "Le sable que le vent déplace construit la dune.", "pt": "A areia que o vento desloca constrói a duna." },
+        { "level": "C1-C2", "fr": "Le sable, poussière des montagnes, voyage des siècles pour faire une plage.", "pt": "A areia, poeira das montanhas, viaja séculos para fazer uma praia." }
+      ]
+    },
+    {
+      "term": "l'océan",
+      "definitionPt": "o oceano",
+      "definitionFr": "Immense étendue d'eau salée.",
+      "inflections": ["l'océan", "un océan", "des océans"],
+      "ptTargets": ["oceano"],
+      "examples": [
+        { "level": "A1", "fr": "L'océan est bleu.", "pt": "O oceano é azul." },
+        { "level": "A2-B1", "fr": "L'océan est à côté de la dune.", "pt": "O oceano fica ao lado da duna." },
+        { "level": "B1", "fr": "L'océan que l'on voit d'en haut est immense.", "pt": "O oceano que se vê lá de cima é imenso." },
+        { "level": "C1-C2", "fr": "L'océan, souffle du monde, commence là où la terre finit.", "pt": "O oceano, sopro do mundo, começa onde a terra termina." }
+      ]
+    },
+    {
+      "term": "le vent",
+      "definitionPt": "o vento",
+      "definitionFr": "Air qui se déplace.",
+      "inflections": ["le vent", "un vent", "des vents"],
+      "ptTargets": ["vento"],
+      "examples": [
+        { "level": "A1", "fr": "Le vent souffle fort.", "pt": "O vento sopra forte." },
+        { "level": "A2-B1", "fr": "Le vent construit la dune.", "pt": "O vento constrói a duna." },
+        { "level": "B1", "fr": "Le vent, qui transporte le sable, façonne le paysage.", "pt": "O vento, que transporta a areia, molda a paisagem." },
+        { "level": "C1-C2", "fr": "Le vent, architecte invisible, écrit des montagnes de sable.", "pt": "O vento, arquiteto invisível, escreve montanhas de areia." }
+      ]
+    },
+    {
+      "term": "la forêt",
+      "definitionPt": "a floresta",
+      "definitionFr": "Grande étendue d'arbres.",
+      "inflections": ["la forêt", "une forêt", "des forêts"],
+      "ptTargets": ["floresta"],
+      "examples": [
+        { "level": "A1", "fr": "La forêt est verte.", "pt": "A floresta é verde." },
+        { "level": "A2-B1", "fr": "La forêt de pins touche la dune.", "pt": "A floresta de pinheiros toca a duna." },
+        { "level": "B1", "fr": "La forêt que l'on voit d'en haut est immense.", "pt": "A floresta que se vê lá de cima é imensa." },
+        { "level": "C1-C2", "fr": "La forêt, poumon de la terre, respire sous les dunes et les nuages.", "pt": "A floresta, pulmão da terra, respira sob as dunas e as nuvens." }
+      ]
+    },
+    {
+      "term": "la mer",
+      "definitionPt": "o mar",
+      "definitionFr": "Grande étendue d'eau salée.",
+      "inflections": ["la mer", "une mer", "des mers"],
+      "ptTargets": ["mar"],
+      "examples": [
+        { "level": "A1", "fr": "La mer est calme.", "pt": "O mar está calmo." },
+        { "level": "A2-B1", "fr": "La dune regarde la mer.", "pt": "A duna olha o mar." },
+        { "level": "B1", "fr": "La mer vers laquelle avance la dune est bleue.", "pt": "O mar para o qual a duna avança é azul." },
+        { "level": "C1-C2", "fr": "La mer, mémoire liquide, garde les histoires des navigateurs.", "pt": "O mar, memória líquida, guarda as histórias dos navegadores." }
+      ]
+    },
+    {
+      "term": "le coquillage",
+      "definitionPt": "a concha",
+      "definitionFr": "Coquille de mer vide.",
+      "inflections": ["le coquillage", "un coquillage", "des coquillages"],
+      "ptTargets": ["concha"],
+      "examples": [
+        { "level": "A1", "fr": "Le coquillage est joli.", "pt": "A concha é bonita." },
+        { "level": "A2-B1", "fr": "Iris a ramassé un coquillage.", "pt": "Íris pegou uma concha." },
+        { "level": "B1", "fr": "Les coquillages que l'on trouve ici sont variés.", "pt": "As conchas que se encontram aqui são variadas." },
+        { "level": "C1-C2", "fr": "Le coquillage, maison de l'escargot de mer, raconte l'océan à qui l'écoute.", "pt": "A concha, casa do caracol do mar, conta o oceano a quem a escuta." }
+      ]
+    },
+    {
+      "term": "le château de sable",
+      "definitionPt": "o castelo de areia",
+      "definitionFr": "Petit château construit avec du sable.",
+      "inflections": ["le château de sable", "un château de sable", "des châteaux de sable"],
+      "ptTargets": ["castelo de areia"],
+      "examples": [
+        { "level": "A1", "fr": "Le château de sable est petit.", "pt": "O castelo de areia é pequeno." },
+        { "level": "A2-B1", "fr": "Les enfants construisent des châteaux de sable.", "pt": "As crianças constroem castelos de areia." },
+        { "level": "B1", "fr": "Le château de sable que l'on construit s'efface avec la marée.", "pt": "O castelo de areia que se constrói se apaga com a maré." },
+        { "level": "C1-C2", "fr": "Le château de sable, œuvre éphémère, apprend la beauté de l'instant.", "pt": "O castelo de areia, obra efêmera, ensina a beleza do instante." }
+      ]
+    },
+    {
+      "term": "la serviette",
+      "definitionPt": "a toalha",
+      "definitionFr": "Tissu pour se sécher ou s'asseoir.",
+      "inflections": ["la serviette", "une serviette", "des serviettes"],
+      "ptTargets": ["toalha"],
+      "examples": [
+        { "level": "A1", "fr": "La serviette est bleue.", "pt": "A toalha é azul." },
+        { "level": "A2-B1", "fr": "Andréa a étendu une serviette sur le sable.", "pt": "Andréa estendeu uma toalha na areia." },
+        { "level": "B1", "fr": "La serviette sur laquelle on s'assoit est douce.", "pt": "A toalha na qual nos sentamos é macia." },
+        { "level": "C1-C2", "fr": "La serviette, carré de plage, délimite notre petit royaume de sable.", "pt": "A toalha, quadrado de praia, delimita nosso pequeno reino de areia." }
+      ]
+    },
+    {
+      "term": "monter",
+      "definitionPt": "subir",
+      "definitionFr": "Aller vers le haut.",
+      "inflections": ["je monte", "tu montes", "il monte", "nous montons"],
+      "ptTargets": ["subir"],
+      "examples": [
+        { "level": "A1", "fr": "Je monte la colline.", "pt": "Eu subo a colina." },
+        { "level": "A2-B1", "fr": "La famille a monté la dune.", "pt": "A família subiu a duna." },
+        { "level": "B1", "fr": "Les dunes que l'on monte donnent faim.", "pt": "As dunas que se sobem dão fome." },
+        { "level": "C1-C2", "fr": "Monter, geste d'effort, récompense le regard d'un horizon nouveau.", "pt": "Subir, gesto de esforço, recompensa o olhar com um horizonte novo." }
+      ]
+    },
+    {
+      "term": "redescendre",
+      "definitionPt": "descer de novo",
+      "definitionFr": "Descendre après être monté.",
+      "inflections": ["je redescends", "tu redescends", "il redescend", "nous redescendons"],
+      "ptTargets": ["descer de novo", "voltar a descer"],
+      "examples": [
+        { "level": "A1", "fr": "Je redescends la dune.", "pt": "Eu desço a duna de novo." },
+        { "level": "A2-B1", "fr": "On redescend en glissant.", "pt": "Desce-se de novo escorregando." },
+        { "level": "B1", "fr": "La pente que l'on redescend semble plus courte.", "pt": "A ladeira que se desce de novo parece mais curta." },
+        { "level": "C1-C2", "fr": "Redescendre, geste de retour, ferme la boucle de l'aventure.", "pt": "Descer de novo, gesto de retorno, fecha o ciclo da aventura." }
+      ]
+    },
+    {
+      "term": "l'horizon",
+      "definitionPt": "o horizonte",
+      "definitionFr": "Ligne où le ciel et la terre se rejoignent.",
+      "inflections": ["l'horizon", "un horizon", "des horizons"],
+      "ptTargets": ["horizonte"],
+      "examples": [
+        { "level": "A1", "fr": "L'horizon est loin.", "pt": "O horizonte é longe." },
+        { "level": "A2-B1", "fr": "De la dune, on voit l'horizon.", "pt": "Da duna, vê-se o horizonte." },
+        { "level": "B1", "fr": "L'horizon que l'on regarde semble infini.", "pt": "O horizonte que se olha parece infinito." },
+        { "level": "C1-C2", "fr": "L'horizon, promesse de l'ailleurs, attire les rêveurs depuis toujours.", "pt": "O horizonte, promessa do alhures, atrai os sonhadores desde sempre." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "titleFr": "Le conditionnel pour les souhaits et les possibilités",
+    "titlePt": "O conditionnel para desejos e possibilidades",
+    "points": [
+      {
+        "fr": "Pour exprimer un souhait : « Je construirais un château de sable », « On pourrait rester ici », « Ce serait parfait ».",
+        "pt": "Para expressar um desejo: « Je construirais un château de sable » (Eu construiria um castelo de areia), « On pourrait rester ici » (Poderíamos ficar aqui), « Ce serait parfait » (Seria perfeito)."
+      },
+      {
+        "fr": "La phrase hypothétique : « Si + imparfait, conditionnel » : « Si on attendait cent ans, on la verrait dans la forêt. »",
+        "pt": "A frase hipotética: « Si + imparfait, conditionnel »: « Si on attendait cent ans, on la verrait dans la forêt » (Se esperássemos cem anos, a veríamos na floresta)."
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Quanto mede a dune du Pilat ?",
+      "options": ["Mais de 100 metros", "10 metros", "500 metros", "1 quilômetro"],
+      "correctIndex": 0
+    },
+    {
+      "question": "O que há de cada lado da dune ?",
+      "options": ["Floresta de um lado, oceano do outro", "Montanhas dos dois lados", "Duas cidades", "Um lago e um deserto"],
+      "correctIndex": 0
+    },
+    {
+      "question": "O que constrói a dune, grão por grão ?",
+      "options": ["O vento", "A chuva", "Os pássaros", "Os turistas"],
+      "correctIndex": 0
+    },
+    {
+      "question": "O que Íris prometeu construir na areia ?",
+      "options": ["Um castelo com torres e pontes", "Uma casa de bonecas", "Um foguete", "Um jardim"],
+      "correctIndex": 0
+    },
+    {
+      "question": "O que Iris guardou como lembrança ?",
+      "options": ["Um coquillage (concha)", "Uma pedra", "Um punhado de areia", "Uma pena"],
+      "correctIndex": 0
+    }
+  ]
+}

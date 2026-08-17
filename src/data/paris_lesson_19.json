@@ -1,0 +1,268 @@
+{
+  "id": "paris_lesson_19",
+  "cityId": "paris",
+  "domain": "Cultura & Turismo",
+  "level": "Iniciante (A1)",
+  "titleFr": "Les ponts de Paris",
+  "titlePt": "As pontes de Paris",
+  "subtitleFr": "Le Pont Neuf, le pont Alexandre III et les bateaux-mouches",
+  "subtitlePt": "A Pont Neuf, a ponte Alexandre III e os bateaux-mouches",
+  "summaryPt": "Nesta Aula 19 (A1), a família caminha pelas pontes de Paris. Eles atravessam o Sena pela Pont Neuf, a ponte mais antiga, e admiram o pont Alexandre III. À noite, um bateau-mouche passa sob as pontes. O aluno aprende os verbos 'traverser' e 'passer' no presente.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Paris a trente-sept ponts sur la Seine. Le Pont Neuf est le plus ancien. Nous traversons le fleuve par ce pont magnifique.",
+      "pt": "Paris tem trinta e sete pontes sobre o Sena. A Pont Neuf é a mais antiga. Nós atravessamos o rio por esta ponte magnífica."
+    },
+    {
+      "id": 2,
+      "fr": "Sur le pont, nous regardons l'eau. Des bateaux passent sous le pont. Les bateaux-mouches sont pleins de touristes.",
+      "pt": "Na ponte, nós olhamos a água. Barcos passam sob a ponte. Os bateaux-mouches estão cheios de turistas."
+    },
+    {
+      "id": 3,
+      "fr": "Ensuite, nous passons devant le pont Alexandre III. Il est décoré de statues dorées. C'est le pont le plus élégant de Paris.",
+      "pt": "Depois, nós passamos diante da ponte Alexandre III. Ela é decorada com estátuas douradas. É a ponte mais elegante de Paris."
+    },
+    {
+      "id": 4,
+      "fr": "Le soir, Irlan dit : « Quand je livrais en scooter, je traversais ces ponts tous les jours. Maintenant, je les traverse avec ma famille. » Andréa sourit.",
+      "pt": "À noite, Irlan diz: «Quando eu entregava de scooter, eu atravessava estas pontes todos os dias. Agora, eu as atravesso com a minha família.» Andréa sorri."
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "pont",
+      "definitionPt": "ponte",
+      "definitionFr": "Construction qui permet de traverser un fleuve.",
+      "inflections": ["le pont", "un pont", "des ponts"],
+      "ptTargets": ["ponte"],
+      "examples": [
+        { "level": "A1", "fr": "Nous traversons le pont.", "pt": "Nós atravessamos a ponte." },
+        { "level": "A2-B1", "fr": "Le Pont Neuf est très ancien.", "pt": "A Pont Neuf é muito antiga." },
+        { "level": "B2", "fr": "Les ponts de Paris relient les deux rives de la Seine.", "pt": "As pontes de Paris ligam as duas margens do Sena." },
+        { "level": "C1-C2", "fr": "Chaque pont de Paris raconte une page de l'histoire de la ville.", "pt": "Cada ponte de Paris conta uma página da história da cidade." }
+      ]
+    },
+    {
+      "term": "fleuve",
+      "definitionPt": "rio (grande)",
+      "definitionFr": "Grand cours d'eau qui se jette dans la mer.",
+      "inflections": ["le fleuve", "un fleuve", "des fleuves"],
+      "ptTargets": ["rio"],
+      "examples": [
+        { "level": "A1", "fr": "La Seine est un fleuve.", "pt": "O Sena é um rio." },
+        { "level": "A2-B1", "fr": "Le fleuve traverse la ville.", "pt": "O rio atravessa a cidade." },
+        { "level": "B2", "fr": "Les bateaux naviguent sur le fleuve.", "pt": "Os barcos navegam no rio." },
+        { "level": "C1-C2", "fr": "Le fleuve a façonné l'histoire et le paysage de Paris.", "pt": "O rio moldou a história e a paisagem de Paris." }
+      ]
+    },
+    {
+      "term": "traverser",
+      "definitionPt": "atravessar",
+      "definitionFr": "Aller d'un côté à l'autre.",
+      "inflections": ["je traverse", "traverser", "il traverse"],
+      "ptTargets": ["atravessar"],
+      "examples": [
+        { "level": "A1", "fr": "Nous traversons le fleuve.", "pt": "Nós atravessamos o rio." },
+        { "level": "A2-B1", "fr": "Je traverse la rue avec prudence.", "pt": "Eu atravesso a rua com prudência." },
+        { "level": "B2", "fr": "Elle traverse Paris en scooter.", "pt": "Ela atravessa Paris de scooter." },
+        { "level": "C1-C2", "fr": "Traverser la Seine au coucher du soleil est un moment magique.", "pt": "Atravessar o Sena ao pôr do sol é um momento mágico." }
+      ]
+    },
+    {
+      "term": "eau",
+      "definitionPt": "água",
+      "definitionFr": "Liquide incolore et indispensable à la vie.",
+      "inflections": ["l'eau"],
+      "ptTargets": ["água"],
+      "examples": [
+        { "level": "A1", "fr": "Nous regardons l'eau du fleuve.", "pt": "Nós olhamos a água do rio." },
+        { "level": "A2-B1", "fr": "L'eau de la Seine est calme.", "pt": "A água do Sena está calma." },
+        { "level": "B2", "fr": "Les reflets de la ville dans l'eau sont magnifiques.", "pt": "Os reflexos da cidade na água são magníficos." },
+        { "level": "C1-C2", "fr": "L'eau du fleuve reflète la lumière des monuments.", "pt": "A água do rio reflete a luz dos monumentos." }
+      ]
+    },
+    {
+      "term": "bateau",
+      "definitionPt": "barco",
+      "definitionFr": "Véhicule qui flotte et se déplace sur l'eau.",
+      "inflections": ["le bateau", "un bateau", "des bateaux"],
+      "ptTargets": ["barco"],
+      "examples": [
+        { "level": "A1", "fr": "Des bateaux passent sous le pont.", "pt": "Barcos passam sob a ponte." },
+        { "level": "A2-B1", "fr": "Le bateau est lent mais joli.", "pt": "O barco é lento, mas bonito." },
+        { "level": "B2", "fr": "Les bateaux-mouches font le tour de Paris.", "pt": "Os bateaux-mouches fazem o tour de Paris." },
+        { "level": "C1-C2", "fr": "Naviguer en bateau sur la Seine offre un autre regard sur Paris.", "pt": "Navegar de barco pelo Sena oferece outro olhar sobre Paris." }
+      ]
+    },
+    {
+      "term": "passer",
+      "definitionPt": "passar",
+      "definitionFr": "Se déplacer devant ou sous quelque chose.",
+      "inflections": ["je passe", "passer", "il passe"],
+      "ptTargets": ["passar"],
+      "examples": [
+        { "level": "A1", "fr": "Les bateaux passent sous le pont.", "pt": "Os barcos passam sob a ponte." },
+        { "level": "A2-B1", "fr": "Nous passons devant le musée.", "pt": "Nós passamos diante do museu." },
+        { "level": "B2", "fr": "Le bus passe toutes les dix minutes.", "pt": "O ônibus passa a cada dez minutos." },
+        { "level": "C1-C2", "fr": "Passer devant un monument est devenu un rituel quotidien.", "pt": "Passar diante de um monumento tornou-se um ritual cotidiano." }
+      ]
+    },
+    {
+      "term": "touriste",
+      "definitionPt": "turista",
+      "definitionFr": "Personne qui voyage pour le plaisir.",
+      "inflections": ["le touriste", "un touriste", "des touristes"],
+      "ptTargets": ["turista"],
+      "examples": [
+        { "level": "A1", "fr": "Les bateaux sont pleins de touristes.", "pt": "Os barcos estão cheios de turistas." },
+        { "level": "A2-B1", "fr": "Les touristes visitent la tour Eiffel.", "pt": "Os turistas visitam a torre Eiffel." },
+        { "level": "B2", "fr": "Des millions de touristes visitent Paris chaque année.", "pt": "Milhões de turistas visitam Paris todos os anos." },
+        { "level": "C1-C2", "fr": "Paris attire les touristes du monde entier.", "pt": "Paris atrai turistas do mundo inteiro." }
+      ]
+    },
+    {
+      "term": "décorer",
+      "definitionPt": "decorar",
+      "definitionFr": "Orner, embellir un lieu.",
+      "inflections": ["je décore", "décorer", "il décore"],
+      "ptTargets": ["decorar"],
+      "examples": [
+        { "level": "A1", "fr": "Le pont est décoré de statues.", "pt": "A ponte é decorada com estátuas." },
+        { "level": "A2-B1", "fr": "Ils décorent la salle pour la fête.", "pt": "Eles decoram a sala para a festa." },
+        { "level": "B2", "fr": "Les lampes décorent le pont la nuit.", "pt": "As lâmpadas decoram a ponte à noite." },
+        { "level": "C1-C2", "fr": "Les statues dorées décorent ce pont avec majesté.", "pt": "As estátuas douradas decoram esta ponte com majestade." }
+      ]
+    },
+    {
+      "term": "doré",
+      "definitionPt": "dourado",
+      "definitionFr": "Qui a la couleur de l'or.",
+      "inflections": ["doré", "dorée", "dorés", "dorées"],
+      "ptTargets": ["dourado"],
+      "examples": [
+        { "level": "A1", "fr": "Les statues sont dorées.", "pt": "As estátuas são douradas." },
+        { "level": "A2-B1", "fr": "La statue dorée brille au soleil.", "pt": "A estátua dourada brilha ao sol." },
+        { "level": "B2", "fr": "Les ornements dorés du pont sont célèbres.", "pt": "Os ornamentos dourados da ponte são famosos." },
+        { "level": "C1-C2", "fr": "Les reflets dorés du pont Alexandre III émerveillent les promeneurs.", "pt": "Os reflexos dourados da ponte Alexandre III encantam os caminhantes." }
+      ]
+    },
+    {
+      "term": "rive",
+      "definitionPt": "margem (de rio)",
+      "definitionFr": "Bord d'un fleuve.",
+      "inflections": ["la rive", "une rive", "des rives"],
+      "ptTargets": ["margem"],
+      "examples": [
+        { "level": "A1", "fr": "Paris est sur les deux rives de la Seine.", "pt": "Paris fica nas duas margens do Sena." },
+        { "level": "A2-B1", "fr": "La rive droite est très animée.", "pt": "A margem direita é muito movimentada." },
+        { "level": "B2", "fr": "Les ponts relient les deux rives du fleuve.", "pt": "As pontes ligam as duas margens do rio." },
+        { "level": "C1-C2", "fr": "La rive gauche et la rive droite ont chacune leur identité.", "pt": "A margem esquerda e a margem direita têm cada uma a sua identidade." }
+      ]
+    },
+    {
+      "term": "soir",
+      "definitionPt": "noite (período do entardecer)",
+      "definitionFr": "La fin de la journée, avant la nuit.",
+      "inflections": ["le soir", "un soir", "des soirs"],
+      "ptTargets": ["noite", "entardecer"],
+      "examples": [
+        { "level": "A1", "fr": "Le soir, la ville est belle.", "pt": "À noite, a cidade é bonita." },
+        { "level": "A2-B1", "fr": "Le soir, nous marchons près de la Seine.", "pt": "À noite, nós caminhamos perto do Sena." },
+        { "level": "B2", "fr": "Les soirs d'été, les quais sont pleins de monde.", "pt": "Nas noites de verão, os cais estão cheios de gente." },
+        { "level": "C1-C2", "fr": "Ce soir-là, les ponts de Paris scintillaient dans l'eau.", "pt": "Naquela noite, as pontes de Paris cintilavam na água." }
+      ]
+    },
+    {
+      "term": "famille",
+      "definitionPt": "família",
+      "definitionFr": "Ensemble des personnes liées par le sang ou le mariage.",
+      "inflections": ["la famille", "une famille", "des familles"],
+      "ptTargets": ["família"],
+      "examples": [
+        { "level": "A1", "fr": "Je traverse les ponts avec ma famille.", "pt": "Eu atravesso as pontes com a minha família." },
+        { "level": "A2-B1", "fr": "La famille dîne ensemble le soir.", "pt": "A família janta junta à noite." },
+        { "level": "B2", "fr": "Sa famille vit à Paris depuis cinq ans.", "pt": "A sua família mora em Paris há cinco anos." },
+        { "level": "C1-C2", "fr": "La famille est le socle de la vie sociale.", "pt": "A família é a base da vida social." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Le verbe traverser au présent",
+    "explanationPt": "O verbo 'traverser' (atravessar) é regular do 1º grupo: je traverse, tu traverses, il/elle traverse, nous traversons, vous traversez, ils/elles traversent. Ex.: 'Nous traversons le fleuve.'",
+    "exampleFr": "Nous traversons le fleuve par ce pont magnifique.",
+    "examplePt": "Nós atravessamos o rio por esta ponte magnífica.",
+    "practiceQuestion": "Complete com a forma correta: 'Je _____ la rue avec prudence.'",
+    "options": ["traverse", "traversons", "traversent"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "Le verbe traverser au présent",
+        "explanationPt": "'traverser' é regular em -er: je traverse, nous traversons, ils traversent. Ex.: 'Elle traverse Paris en scooter.'",
+        "exampleFr": "Elle traverse Paris en scooter.",
+        "examplePt": "Ela atravessa Paris de scooter.",
+        "practiceQuestion": "Complete: 'Ils _____ le pont tous les matins.'",
+        "options": ["traversent", "traverse", "traversons"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "Le verbe passer au présent",
+        "explanationPt": "'passer' (passar) é regular: je passe, il passe, nous passons, ils passent. Ex.: 'Les bateaux passent sous le pont.', 'Nous passons devant le musée.'",
+        "exampleFr": "Les bateaux passent sous le pont.",
+        "examplePt": "Os barcos passam sob a ponte.",
+        "practiceQuestion": "Complete: 'Nous _____ devant le pont Alexandre III.'",
+        "options": ["passons", "passent", "passe"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Complete a frase do texto: 'Le Pont Neuf est le plus _____.'",
+      "options": ["ancien", "nouveau", "court"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'Le Pont Neuf est le plus ancien.' (A Pont Neuf é a mais antiga.)"
+    },
+    {
+      "question": "Ordene corretamente as palavras da frase: [ sous le pont / des bateaux / passent / ]",
+      "options": [
+        "Des bateaux passent sous le pont.",
+        "Sous le pont passent des bateaux.",
+        "Des bateaux sous le pont passent."
+      ],
+      "correctIndex": 0,
+      "explanation": "A frase exata do texto é 'Des bateaux passent sous le pont.'"
+    },
+    {
+      "question": "Como se traduz: 'Nós atravessamos o rio'?",
+      "options": [
+        "Nous traversons le fleuve.",
+        "Nous traverse le fleuve.",
+        "Nous traversons la rive."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Nous traversons' = nós atravessamos; 'le fleuve' = o rio."
+    },
+    {
+      "question": "Identifique a frase com ERRO de conjugação do verbo passer:",
+      "options": [
+        "Les bateaux passent sous le pont.",
+        "Nous passons devant le musée.",
+        "Elle passez devant la tour."
+      ],
+      "correctIndex": 2,
+      "explanation": "O erro é 'Elle passez': com 'elle', o verbo passer fica 'passe' ('Elle passe devant la tour.')."
+    },
+    {
+      "question": "O que Irlan diz sobre as pontes quando era entregador?",
+      "options": [
+        "Que atravessava essas pontes todos os dias de scooter",
+        "Que nunca tinha visto as pontes",
+        "Que as pontes eram fechadas"
+      ],
+      "correctIndex": 0,
+      "explanation": "No texto: 'Quand je livrais en scooter, je traversais ces ponts tous les jours.'"
+    }
+  ]
+}

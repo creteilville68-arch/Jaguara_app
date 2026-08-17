@@ -1,0 +1,252 @@
+{
+  "id": "mont_saint_michel_lesson_2",
+  "cityId": "mont-saint-michel",
+  "domain": "Cultura",
+  "level": "Básico (A2/B1)",
+  "titleFr": "La Grande Rue et les remparts : le village du Mont",
+  "titlePt": "A Grande Rue e as muralhas: o vilarejo do Mont",
+  "subtitleFr": "Des boutiques, une omelette célèbre et les remparts qui regardent la baie",
+  "subtitlePt": "Lojas, uma omelete famosa e as muralhas que olham a baía",
+  "summaryPt": "Nesta Aula 2 (A2/B1), a família sobe a Grande Rue, a rua principal do vilarejo, cheia de lojas e restaurantes. Eles almoçam a famosa omelete da Mère Poulard e depois passeiam pelos remparts, de onde se vê a baía inteira. O aluno aprende o Imparfait para hábitos e descrições (les touristes montaient, la rue était étroite) e o contraste com o Passé Composé para eventos pontuais.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "La Grande Rue était étroite et pleine de monde. Les touristes montaient vers l'abbaye, et les boutiques vendaient des souvenirs et des galettes.",
+      "pt": "A Grande Rue era estreita e cheia de gente. Os turistas subiam em direção à abadia, e as lojas vendiam lembranças e crepes."
+    },
+    {
+      "id": 2,
+      "fr": "À midi, nous avons mangé la fameuse omelette de la Mère Poulard. Elle était légère et dorée, préparée dans une grande poêle en cuivre.",
+      "pt": "Ao meio-dia, comemos a famosa omelete da Mère Poulard. Ela era leve e dourada, preparada em uma grande frigideira de cobre."
+    },
+    {
+      "id": 3,
+      "fr": "Après le repas, nous avons marché sur les remparts. De là-haut, la baie semblait infinie et la lumière dorait le sable.",
+      "pt": "Depois da refeição, caminhamos pelas muralhas. Lá de cima, a baía parecia infinita e a luz dourava a areia."
+    },
+    {
+      "id": 4,
+      "fr": "Íris regardait les bateaux au loin. « Maman, regarde, la mer revient ! » Les remparts étaient le meilleur endroit pour observer la marée.",
+      "pt": "Íris olhava os barcos ao longe. « Mamãe, olha, o mar está voltando! » As muralhas eram o melhor lugar para observar a maré."
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "la rue",
+      "definitionPt": "a rua",
+      "definitionFr": "Voie bordée de maisons et de boutiques.",
+      "inflections": ["la rue", "les rues"],
+      "ptTargets": ["rua"],
+      "examples": [
+        { "level": "A1", "fr": "La rue est longue.", "pt": "A rua é comprida." },
+        { "level": "A2-B1", "fr": "La Grande Rue était pleine de touristes.", "pt": "A Grande Rue estava cheia de turistas." },
+        { "level": "B2", "fr": "Les ruelles du Mont montent en spirale jusqu'à l'abbaye.", "pt": "As ruelas do Mont sobem em espiral até a abadia." },
+        { "level": "C1-C2", "fr": "L'urbanisme médiéval de la Grande Rue illustre la logique d'un village perché.", "pt": "O urbanismo medieval da Grande Rue ilustra a lógica de um vilarejo no alto." }
+      ]
+    },
+    {
+      "term": "la boutique",
+      "definitionPt": "a loja",
+      "definitionFr": "Petit magasin.",
+      "inflections": ["la boutique", "les boutiques"],
+      "ptTargets": ["loja"],
+      "examples": [
+        { "level": "A1", "fr": "La boutique est petite.", "pt": "A loja é pequena." },
+        { "level": "A2-B1", "fr": "Les boutiques vendaient des souvenirs.", "pt": "As lojas vendiam lembranças." },
+        { "level": "B2", "fr": "Les boutiques de la Grande Rue attirent des milliers de visiteurs.", "pt": "As lojas da Grande Rue atraem milhares de visitantes." },
+        { "level": "C1-C2", "fr": "Le commerce de la Grande Rue s'est adapté au tourisme de masse international.", "pt": "O comércio da Grande Rue adaptou-se ao turismo de massa internacional." }
+      ]
+    },
+    {
+      "term": "le restaurant",
+      "definitionPt": "o restaurante",
+      "definitionFr": "Lieu où l'on mange.",
+      "inflections": ["le restaurant", "les restaurants"],
+      "ptTargets": ["restaurante"],
+      "examples": [
+        { "level": "A1", "fr": "Le restaurant est ouvert.", "pt": "O restaurante está aberto." },
+        { "level": "A2-B1", "fr": "Nous avons mangé dans un restaurant célèbre.", "pt": "Comemos em um restaurante famoso." },
+        { "level": "B2", "fr": "Les restaurants de la rue proposent des produits de la baie.", "pt": "Os restaurantes da rua oferecem produtos da baía." },
+        { "level": "C1-C2", "fr": "La gastronomie du Mont valorise l'agneau de pré-salé et les produits locaux.", "pt": "A gastronomia do Mont valoriza o cordeiro de pré-salé e os produtos locais." }
+      ]
+    },
+    {
+      "term": "le rempart",
+      "definitionPt": "a muralha",
+      "definitionFr": "Mur épais qui entoure une ville pour la protéger.",
+      "inflections": ["le rempart", "les remparts"],
+      "ptTargets": ["muralha"],
+      "examples": [
+        { "level": "A1", "fr": "Le rempart est haut.", "pt": "A muralha é alta." },
+        { "level": "A2-B1", "fr": "Nous avons marché sur les remparts.", "pt": "Caminhamos pelas muralhas." },
+        { "level": "B2", "fr": "Les remparts offrent une vue exceptionnelle sur la baie.", "pt": "As muralhas oferecem uma vista excepcional sobre a baía." },
+        { "level": "C1-C2", "fr": "Les remparts du Mont témoignent de siècles de défense et de protection.", "pt": "As muralhas do Mont testemunham séculos de defesa e proteção." }
+      ]
+    },
+    {
+      "term": "la porte",
+      "definitionPt": "a porta",
+      "definitionFr": "Ouverture pour entrer ou sortir.",
+      "inflections": ["la porte", "les portes"],
+      "ptTargets": ["porta"],
+      "examples": [
+        { "level": "A1", "fr": "La porte est fermée.", "pt": "A porta está fechada." },
+        { "level": "A2-B1", "fr": "Nous sommes entrés par la porte principale.", "pt": "Entramos pela porta principal." },
+        { "level": "B2", "fr": "La porte du village marque l'entrée de la Grande Rue.", "pt": "A porta do vilarejo marca a entrada da Grande Rue." },
+        { "level": "C1-C2", "fr": "Les portes fortifiées du Mont illustrent l'architecture défensive médiévale.", "pt": "As portas fortificadas do Mont ilustram a arquitetura defensiva medieval." }
+      ]
+    },
+    {
+      "term": "la foule",
+      "definitionPt": "a multidão",
+      "definitionFr": "Beaucoup de personnes réunies.",
+      "inflections": ["la foule", "les foules"],
+      "ptTargets": ["multidão"],
+      "examples": [
+        { "level": "A1", "fr": "La foule est grande.", "pt": "A multidão é grande." },
+        { "level": "A2-B1", "fr": "La foule montait vers l'abbaye.", "pt": "A multidão subia em direção à abadia." },
+        { "level": "B2", "fr": "En été, la foule rend la rue difficile à traverser.", "pt": "No verão, a multidão torna a rua difícil de atravessar." },
+        { "level": "C1-C2", "fr": "La gestion de la foule est devenue un enjeu majeur pour la conservation du site.", "pt": "A gestão da multidão tornou-se um desafio importante para a conservação do sítio." }
+      ]
+    },
+    {
+      "term": "monter",
+      "definitionPt": "subir",
+      "definitionFr": "Aller vers le haut.",
+      "inflections": ["je monte", "nous montons", "monté"],
+      "ptTargets": ["subir"],
+      "examples": [
+        { "level": "A1", "fr": "Je monte les escaliers.", "pt": "Eu subo as escadas." },
+        { "level": "A2-B1", "fr": "Les touristes montaient vers l'abbaye.", "pt": "Os turistas subiam em direção à abadia." },
+        { "level": "B2", "fr": "Nous avons monté les deux cent soixante-dix marches jusqu'au sommet.", "pt": "Subimos os duzentos e setenta degraus até o topo." },
+        { "level": "C1-C2", "fr": "Monter les escaliers du Mont est une expérience physique et spirituelle.", "pt": "Subir as escadas do Mont é uma experiência física e espiritual." }
+      ]
+    },
+    {
+      "term": "admirer",
+      "definitionPt": "admirar",
+      "definitionFr": "Regarder avec plaisir.",
+      "inflections": ["j'admire", "nous admirons", "admiré"],
+      "ptTargets": ["admirar"],
+      "examples": [
+        { "level": "A1", "fr": "J'admire le paysage.", "pt": "Eu admiro a paisagem." },
+        { "level": "A2-B1", "fr": "Nous avons admiré la baie depuis les remparts.", "pt": "Admiramos a baía desde as muralhas." },
+        { "level": "B2", "fr": "Les visiteurs admirent la beauté unique du site.", "pt": "Os visitantes admiram a beleza única do sítio." },
+        { "level": "C1-C2", "fr": "Admirer le Mont au crépuscule laisse une empreinte indélébile dans la mémoire.", "pt": "Admirar o Mont ao crepúsculo deixa uma marca indelével na memória." }
+      ]
+    },
+    {
+      "term": "marcher",
+      "definitionPt": "caminhar",
+      "definitionFr": "Se déplacer à pied.",
+      "inflections": ["je marche", "nous marchons", "marché"],
+      "ptTargets": ["caminhar"],
+      "examples": [
+        { "level": "A1", "fr": "Je marche dans la rue.", "pt": "Eu caminho na rua." },
+        { "level": "A2-B1", "fr": "Nous avons marché sur les remparts.", "pt": "Caminhamos pelas muralhas." },
+        { "level": "B2", "fr": "Les visiteurs marchent des heures pour explorer le rocher.", "pt": "Os visitantes caminham horas para explorar o rochedo." },
+        { "level": "C1-C2", "fr": "Marcher dans les ruelles du Mont, c'est remonter le temps.", "pt": "Caminhar nas ruelas do Mont é voltar no tempo." }
+      ]
+    },
+    {
+      "term": "étroit",
+      "definitionPt": "estreito",
+      "definitionFr": "Qui a peu de largeur.",
+      "inflections": ["étroit", "étroite", "étroits"],
+      "ptTargets": ["estreito"],
+      "examples": [
+        { "level": "A1", "fr": "La rue est étroite.", "pt": "A rua é estreita." },
+        { "level": "A2-B1", "fr": "La Grande Rue était étroite et animée.", "pt": "A Grande Rue era estreita e animada." },
+        { "level": "B2", "fr": "Les escaliers étroits mènent aux terrasses de l'abbaye.", "pt": "As escadas estreitas levam aos terraços da abadia." },
+        { "level": "C1-C2", "fr": "L'étroitesse des ruelles médiévales contraste avec l'immensité de la baie.", "pt": "A estreiteza das ruelas medievais contrasta com a imensidão da baía." }
+      ]
+    },
+    {
+      "term": "célèbre",
+      "definitionPt": "famoso",
+      "definitionFr": "Connu de beaucoup de monde.",
+      "inflections": ["célèbre", "célèbres"],
+      "ptTargets": ["famoso"],
+      "examples": [
+        { "level": "A1", "fr": "Le Mont est célèbre.", "pt": "O Mont é famoso." },
+        { "level": "A2-B1", "fr": "L'omelette de la Mère Poulard est célèbre dans le monde entier.", "pt": "A omelete da Mère Poulard é famosa no mundo inteiro." },
+        { "level": "B2", "fr": "Ce site célèbre attire des millions de visiteurs chaque année.", "pt": "Este sítio famoso atrai milhões de visitantes por ano." },
+        { "level": "C1-C2", "fr": "La renommée célèbre du Mont dépasse largement les frontières françaises.", "pt": "A fama célebre do Mont ultrapassa amplamente as fronteiras francesas." }
+      ]
+    },
+    {
+      "term": "l'omelette",
+      "definitionPt": "a omelete",
+      "definitionFr": "Plat à base d'œufs battus et cuits.",
+      "inflections": ["l'omelette", "les omelettes"],
+      "ptTargets": ["omelete"],
+      "examples": [
+        { "level": "A1", "fr": "L'omelette est chaude.", "pt": "A omelete está quente." },
+        { "level": "A2-B1", "fr": "Nous avons mangé l'omelette de la Mère Poulard.", "pt": "Comemos a omelete da Mère Poulard." },
+        { "level": "B2", "fr": "L'omelette était légère et dorée, préparée au feu de bois.", "pt": "A omelete era leve e dourada, preparada no fogo de lenha." },
+        { "level": "C1-C2", "fr": "La célébrité de l'omelette de la Mère Poulard repose sur une technique culinaire transmise depuis 1888.", "pt": "A fama da omelete da Mère Poulard baseia-se em uma técnica culinária transmitida desde 1888." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "L'Imparfait pour les habitudes et les descriptions",
+    "explanationPt": "O Imparfait descreve hábitos, estados e cenários no passado: 'les touristes montaient' (os turistas subiam), 'la rue était étroite' (a rua era estreita). Eventos pontuais usam o Passé Composé: 'nous avons mangé'.",
+    "exampleFr": "Les touristes montaient vers l'abbaye, et nous avons mangé l'omelette.",
+    "examplePt": "Os turistas subiam em direção à abadia, e nós comemos a omelete.",
+    "practiceQuestion": "Complete com o Imparfait: « Les boutiques ___ des souvenirs. »",
+    "options": ["vendaient", "ont vendu", "vendent"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "Habitudes au passé",
+        "explanationPt": "Para hábitos no passado, usamos o Imparfait: 'les touristes montaient', 'les boutiques vendaient'.",
+        "exampleFr": "La Grande Rue était pleine de monde tous les jours.",
+        "examplePt": "A Grande Rue estava cheia de gente todos os dias.",
+        "practiceQuestion": "Qual frase descreve um hábito no passado?",
+        "options": ["Les touristes montaient vers l'abbaye.", "Les touristes monteront vers l'abbaye.", "Les touristes montent vers l'abbaye."],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "Contraste avec le Passé Composé",
+        "explanationPt": "O cenário fica no Imparfait; a ação pontual, no Passé Composé: 'Nous avons mangé (PC) pendant que la foule montait (Imparfait)'.",
+        "exampleFr": "Pendant que la foule montait, nous avons admiré la baie.",
+        "examplePt": "Enquanto a multidão subia, admiramos a baía.",
+        "practiceQuestion": "Qual verbo está no Passé Composé?",
+        "options": ["nous avons mangé", "la rue était", "les boutiques vendaient"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Qual era a característica da Grande Rue?",
+      "options": ["estreita e cheia de gente", "larga e vazia", "escura e fechada"],
+      "correctIndex": 0,
+      "explanation": "A Grande Rue era estreita e cheia de turistas."
+    },
+    {
+      "question": "Qual prato famoso a família provou ao meio-dia?",
+      "options": ["a omelete da Mère Poulard", "o welsh", "a pizza"],
+      "correctIndex": 0,
+      "explanation": "Provaram a famosa omelete da Mère Poulard."
+    },
+    {
+      "question": "De onde a família observou a baía?",
+      "options": ["dos remparts", "do estacionamento", "do topo da torre de Paris"],
+      "correctIndex": 0,
+      "explanation": "Os remparts oferecem uma vista excepcional sobre a baía."
+    },
+    {
+      "question": "Complete com o Imparfait: « La rue ___ étroite. »",
+      "options": ["était", "a été", "est"],
+      "correctIndex": 0,
+      "explanation": "Descrição no passado: la rue était étroite."
+    },
+    {
+      "question": "O que Íris viu ao longe das muralhas?",
+      "options": ["os barcos e o mar voltando", "um avião", "uma tempestade"],
+      "correctIndex": 0,
+      "explanation": "Íris viu os barcos e percebeu que a maré voltava."
+    }
+  ]
+}

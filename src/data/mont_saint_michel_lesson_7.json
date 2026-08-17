@@ -1,0 +1,252 @@
+{
+  "id": "mont_saint_michel_lesson_7",
+  "cityId": "mont-saint-michel",
+  "domain": "Natureza",
+  "level": "Básico (A2/B1)",
+  "titleFr": "Les prés-salés et le Couesnon : la frontière entre deux régions",
+  "titlePt": "Os pré-salés e o Couesnon: a fronteira entre duas regiões",
+  "subtitleFr": "Les moutons, l'agneau de pré-salé et la rivière qui sépare la Normandie et la Bretagne",
+  "subtitlePt": "As ovelhas, o cordeiro de pré-salé e o rio que separa a Normandia e a Bretanha",
+  "summaryPt": "Nesta Aula 7 (A2/B1), a família passeia pelos prés-salés, os prados onde pastam as ovelhas que dão o famoso agneau de pré-salé. Irlan, o geógrafo, explica o papel do rio Couesnon, que marca a fronteira entre a Normandia e a Bretanha. O aluno aprende o Imparfait para descrições geográficas (le fleuve coulait, la frontière était) e a expressão 'il y avait'.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Autour du Mont, les prés-salés étaient verts et paisibles. Des moutons paissaient tranquillement, au rythme des marées.",
+      "pt": "Ao redor do Mont, os prados salgados eram verdes e pacíficos. Ovelhas pastavam tranquilamente, no ritmo das marés."
+    },
+    {
+      "id": 2,
+      "fr": "Le guide a expliqué : « Les moutons mangent l'herbe salée par la mer. Leur viande, l'agneau de pré-salé, est très réputée. »",
+      "pt": "O guia explicou: « As ovelhas comem a grama salgada pelo mar. A carne delas, o cordeiro de pré-salé, é muito famosa. »"
+    },
+    {
+      "id": 3,
+      "fr": "Irlan a montré la rivière au loin : « C'est le Couesnon. La légende dit qu'il sépare la Normandie et la Bretagne. »",
+      "pt": "Irlan mostrou o rio ao longe: « É o Couesnon. A lenda diz que ele separa a Normandia e a Bretanha. »"
+    },
+    {
+      "id": 4,
+      "fr": "Il y avait des fermes anciennes au bord des prés. La famille a dégusté de l'agneau de pré-salé dans une petite auberge. Quel délice !",
+      "pt": "Havia fazendas antigas à beira dos prados. A família degustou cordeiro de pré-salé em uma pequena pousada. Que delícia!"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "le mouton",
+      "definitionPt": "a ovelha",
+      "definitionFr": "Animal qui donne de la laine et de la viande.",
+      "inflections": ["le mouton", "les moutons"],
+      "ptTargets": ["ovelha"],
+      "examples": [
+        { "level": "A1", "fr": "Le mouton est blanc.", "pt": "A ovelha é branca." },
+        { "level": "A2-B1", "fr": "Les moutons paissaient dans les prés.", "pt": "As ovelhas pastavam nos prados." },
+        { "level": "B2", "fr": "Les moutons de la baie donnent une viande très appréciée.", "pt": "As ovelhas da baía dão uma carne muito apreciada." },
+        { "level": "C1-C2", "fr": "L'élevage des moutons sur les prés-salés est un modèle agricole respectueux de l'environnement.", "pt": "A criação de ovelhas nos prados salgados é um modelo agrícola respeitoso do meio ambiente." }
+      ]
+    },
+    {
+      "term": "le pré",
+      "definitionPt": "o prado",
+      "definitionFr": "Champ d'herbe où paissent les animaux.",
+      "inflections": ["le pré", "les prés"],
+      "ptTargets": ["prado"],
+      "examples": [
+        { "level": "A1", "fr": "Le pré est vert.", "pt": "O prado é verde." },
+        { "level": "A2-B1", "fr": "Les prés-salés entourent le Mont.", "pt": "Os prados salgados cercam o Mont." },
+        { "level": "B2", "fr": "Les prés-salés sont inondés par la mer à marée haute.", "pt": "Os prados salgados são inundados pelo mar na maré alta." },
+        { "level": "C1-C2", "fr": "L'écologie singulière des prés-salés façonne un terroir unique au monde.", "pt": "A ecologia singular dos prados salgados molda um terroir único no mundo." }
+      ]
+    },
+    {
+      "term": "l'agneau",
+      "definitionPt": "o cordeiro",
+      "definitionFr": "Jeune mouton et sa viande.",
+      "inflections": ["l'agneau", "les agneaux"],
+      "ptTargets": ["cordeiro"],
+      "examples": [
+        { "level": "A1", "fr": "L'agneau est petit.", "pt": "O cordeiro é pequeno." },
+        { "level": "A2-B1", "fr": "L'agneau de pré-salé est célèbre.", "pt": "O cordeiro de pré-salé é famoso." },
+        { "level": "B2", "fr": "L'agneau de pré-salé a un goût délicat et unique.", "pt": "O cordeiro de pré-salé tem um sabor delicado e único." },
+        { "level": "C1-C2", "fr": "L'agneau de pré-salé bénéficie d'une appellation protégée en Europe.", "pt": "O cordeiro de pré-salé beneficia de uma denominação protegida na Europa." }
+      ]
+    },
+    {
+      "term": "la viande",
+      "definitionPt": "a carne",
+      "definitionFr": "Nourriture provenant des animaux.",
+      "inflections": ["la viande", "les viandes"],
+      "ptTargets": ["carne"],
+      "examples": [
+        { "level": "A1", "fr": "La viande est bonne.", "pt": "A carne é boa." },
+        { "level": "A2-B1", "fr": "La viande des moutons de la baie est réputée.", "pt": "A carne das ovelhas da baía é famosa." },
+        { "level": "B2", "fr": "Cette viande tendre et goûteuse vient des prés-salés.", "pt": "Essa carne macia e saborosa vem dos prados salgados." },
+        { "level": "C1-C2", "fr": "La qualité de la viande dépend directement de l'alimentation naturelle des animaux.", "pt": "A qualidade da carne depende diretamente da alimentação natural dos animais." }
+      ]
+    },
+    {
+      "term": "le fromage",
+      "definitionPt": "o queijo",
+      "definitionFr": "Aliment fait à partir du lait.",
+      "inflections": ["le fromage", "les fromages"],
+      "ptTargets": ["queijo"],
+      "examples": [
+        { "level": "A1", "fr": "J'aime le fromage.", "pt": "Eu gosto de queijo." },
+        { "level": "A2-B1", "fr": "La région produit aussi des fromages de vache.", "pt": "A região produz também queijos de vaca." },
+        { "level": "B2", "fr": "Les fromages normands accompagnent parfaitement l'agneau.", "pt": "Os queijos normandos acompanham perfeitamente o cordeiro." },
+        { "level": "C1-C2", "fr": "Le patrimoine fromager normand est l'un des plus riches de France.", "pt": "O patrimônio queijeiro normando é um dos mais ricos da França." }
+      ]
+    },
+    {
+      "term": "le champ",
+      "definitionPt": "o campo (cultivo)",
+      "definitionFr": "Terrain cultivé.",
+      "inflections": ["le champ", "les champs"],
+      "ptTargets": ["campo"],
+      "examples": [
+        { "level": "A1", "fr": "Le champ est grand.", "pt": "O campo é grande." },
+        { "level": "A2-B1", "fr": "Les champs entourent la baie.", "pt": "Os campos cercam a baía." },
+        { "level": "B2", "fr": "Les champs de la baie sont inondés par les marées.", "pt": "Os campos da baía são inundados pelas marés." },
+        { "level": "C1-C2", "fr": "La frontière entre les champs cultivés et les prés-salés dessine un paysage en mosaïque.", "pt": "A fronteira entre os campos cultivados e os prados salgados desenha uma paisagem em mosaico." }
+      ]
+    },
+    {
+      "term": "la ferme",
+      "definitionPt": "a fazenda",
+      "definitionFr": "Maison et terrain où l'on élève des animaux.",
+      "inflections": ["la ferme", "les fermes"],
+      "ptTargets": ["fazenda"],
+      "examples": [
+        { "level": "A1", "fr": "La ferme est vieille.", "pt": "A fazenda é antiga." },
+        { "level": "A2-B1", "fr": "Il y avait des fermes anciennes au bord des prés.", "pt": "Havia fazendas antigas à beira dos prados." },
+        { "level": "B2", "fr": "Les fermes de la baie élèvent des moutons depuis des siècles.", "pt": "As fazendas da baía criam ovelhas há séculos." },
+        { "level": "C1-C2", "fr": "La reconversion des fermes traditionnelles valorise le patrimoine rural normand.", "pt": "A reconversão das fazendas tradicionais valoriza o patrimônio rural normando." }
+      ]
+    },
+    {
+      "term": "la rivière",
+      "definitionPt": "o rio",
+      "definitionFr": "Cours d'eau naturel.",
+      "inflections": ["la rivière", "les rivières"],
+      "ptTargets": ["rio"],
+      "examples": [
+        { "level": "A1", "fr": "La rivière est calme.", "pt": "O rio é calmo." },
+        { "level": "A2-B1", "fr": "Le Couesnon est la rivière du Mont.", "pt": "O Couesnon é o rio do Mont." },
+        { "level": "B2", "fr": "La rivière dépose des sédiments qui modifient le paysage.", "pt": "O rio deposita sedimentos que modificam a paisagem." },
+        { "level": "C1-C2", "fr": "Le détournement du Couesnon a eu des conséquences géographiques majeures sur la baie.", "pt": "O desvio do Couesnon teve consequências geográficas importantes sobre a baía." }
+      ]
+    },
+    {
+      "term": "la frontière",
+      "definitionPt": "a fronteira",
+      "definitionFr": "Limite entre deux régions ou pays.",
+      "inflections": ["la frontière", "les frontières"],
+      "ptTargets": ["fronteira"],
+      "examples": [
+        { "level": "A1", "fr": "La frontière est loin.", "pt": "A fronteira é longe." },
+        { "level": "A2-B1", "fr": "La frontière entre les deux régions suit la rivière.", "pt": "A fronteira entre as duas regiões segue o rio." },
+        { "level": "B2", "fr": "Le Couesnon marque la frontière entre la Normandie et la Bretagne.", "pt": "O Couesnon marca a fronteira entre a Normandia e a Bretanha." },
+        { "level": "C1-C2", "fr": "Les frontières naturelles, comme les fleuves, ont façonné les identités régionales.", "pt": "As fronteiras naturais, como os rios, moldaram as identidades regionais." }
+      ]
+    },
+    {
+      "term": "la Bretagne",
+      "definitionPt": "a Bretanha",
+      "definitionFr": "Région de l'ouest de la France.",
+      "inflections": ["la Bretagne"],
+      "ptTargets": ["Bretanha"],
+      "examples": [
+        { "level": "A1", "fr": "La Bretagne est une région.", "pt": "A Bretanha é uma região." },
+        { "level": "A2-B1", "fr": "Le Mont est à la frontière de la Bretagne.", "pt": "O Mont fica na fronteira da Bretanha." },
+        { "level": "B2", "fr": "La Bretagne possède une culture celtique très vivante.", "pt": "A Bretanha possui uma cultura celta muito viva." },
+        { "level": "C1-C2", "fr": "Les liens historiques entre la Normandie et la Bretagne enrichissent l'identité de la baie.", "pt": "Os laços históricos entre a Normandia e a Bretanha enriquecem a identidade da baía." }
+      ]
+    },
+    {
+      "term": "salé",
+      "definitionPt": "salgado",
+      "definitionFr": "Qui a le goût du sel.",
+      "inflections": ["salé", "salée", "salés"],
+      "ptTargets": ["salgado"],
+      "examples": [
+        { "level": "A1", "fr": "L'eau est salée.", "pt": "A água é salgada." },
+        { "level": "A2-B1", "fr": "L'herbe des prés est salée par la mer.", "pt": "A grama dos prados é salgada pelo mar." },
+        { "level": "B2", "fr": "La viande des prés-salés a un goût légèrement salé.", "pt": "A carne dos pré-salés tem um gosto levemente salgado." },
+        { "level": "C1-C2", "fr": "Le terroir salé de la baie confère aux produits locaux une identité gustative précieuse.", "pt": "O terroir salgado da baía confere aos produtos locais uma identidade gustativa preciosa." }
+      ]
+    },
+    {
+      "term": "goûter",
+      "definitionPt": "provar, experimentar",
+      "definitionFr": "Tester une nourriture.",
+      "inflections": ["je goûte", "nous goûtons", "goûté"],
+      "ptTargets": ["provar"],
+      "examples": [
+        { "level": "A1", "fr": "Je goûte le plat.", "pt": "Eu provo o prato." },
+        { "level": "A2-B1", "fr": "La famille a goûté l'agneau de pré-salé.", "pt": "A família provou o cordeiro de pré-salé." },
+        { "level": "B2", "fr": "Nous avons goûté la spécialité locale à l'auberge.", "pt": "Provamos a especialidade local na pousada." },
+        { "level": "C1-C2", "fr": "Goûter les produits du terroir est une façon de comprendre le paysage et son histoire.", "pt": "Provar os produtos do terroir é uma forma de compreender a paisagem e sua história." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Décrire la géographie au passé : le Imparfait",
+    "explanationPt": "Para descrever uma paisagem no passado, usamos o Imparfait: 'les prés-salés étaient verts', 'des moutons paissaient', 'le fleuve coulait'.",
+    "exampleFr": "Les prés-salés étaient verts et paisibles autour du Mont.",
+    "examplePt": "Os prados salgados eram verdes e pacíficos ao redor do Mont.",
+    "practiceQuestion": "Complete com o Imparfait: « Des moutons ___ dans les prés. »",
+    "options": ["paissaient", "ont pâturé", "paissent"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "L'expression 'il y avait'",
+        "explanationPt": "Para dizer 'havia', usamos 'il y avait': 'Il y avait des fermes anciennes'.",
+        "exampleFr": "Il y avait des fermes anciennes au bord des prés.",
+        "examplePt": "Havia fazendas antigas à beira dos prados.",
+        "practiceQuestion": "Como se diz 'havia fazendas' no passado?",
+        "options": ["Il y avait des fermes.", "Il y a des fermes.", "Il y aura des fermes."],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "Décrire une frontière naturelle",
+        "explanationPt": "Para explicar o que uma coisa fazia/era, usamos o Imparfait: 'le fleuve coulait', 'la frontière suivait la rivière'.",
+        "exampleFr": "Le Couesnon marquait la frontière entre deux régions.",
+        "examplePt": "O Couesnon marcava a fronteira entre duas regiões.",
+        "practiceQuestion": "Qual frase está no Imparfait?",
+        "options": ["Le fleuve coulait vers la mer.", "Le fleuve coule vers la mer.", "Le fleuve coulera vers la mer."],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "O que os moutons comem nos prés-salés?",
+      "options": ["a grama salgada pela maré", "peixe", "pão"],
+      "correctIndex": 0,
+      "explanation": "Os moutons comem a erva salgada pelo mar."
+    },
+    {
+      "question": "Qual é o nome da carne famosa da região?",
+      "options": ["l'agneau de pré-salé", "le welsh", "la choucroute"],
+      "correctIndex": 0,
+      "explanation": "O cordeiro de pré-salé é a carne famosa da baía."
+    },
+    {
+      "question": "Qual rio marca a fronteira entre Normandia e Bretanha?",
+      "options": ["le Couesnon", "la Seine", "le Rhône"],
+      "correctIndex": 0,
+      "explanation": "O Couesnon marca a fronteira entre as duas regiões."
+    },
+    {
+      "question": "Complete com o Imparfait: « Il y ___ des fermes anciennes. »",
+      "options": ["avait", "a", "aura"],
+      "correctIndex": 0,
+      "explanation": "Passado: il y avait."
+    },
+    {
+      "question": "Onde a família degustou o cordeiro?",
+      "options": ["em uma pequena auberge", "na Grande Rue", "em um navio"],
+      "correctIndex": 0,
+      "explanation": "A família provou o cordeiro em uma pequena pousada."
+    }
+  ]
+}

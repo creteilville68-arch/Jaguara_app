@@ -1,0 +1,252 @@
+{
+  "id": "mont_saint_michel_lesson_16",
+  "cityId": "mont-saint-michel",
+  "domain": "Natureza & Geografia",
+  "level": "Básico (A2/B1)",
+  "titleFr": "Les moutons de pré-salé",
+  "titlePt": "Os carneiros do prado salgado",
+  "subtitleFr": "Dans les prés salés, les moutons paissent l'herbe que la mer a touchée",
+  "subtitlePt": "Nos prados salgados, os carneiros pastam a erva que o mar tocou",
+  "summaryPt": "Nesta Aula 16 (A2/B1), a família descobre os moutons de pré-salé, os carneiros que pastam nas pradarias salgadas da baía e cuja carne tem um sabor único. Irlan, geógrafo, explica a formação dos prés-salés. O aluno pratica a descrição no imparfait e o vocabulário da natureza.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Dans la baie, des moutons paissaient tranquillement. « Ils mangent une herbe que la mer touche à chaque marée », a expliqué Irlan. « C'est l'herbe des prés-salés. »",
+      "pt": "Na baía, carneiros pastavam tranquilamente. « Eles comem uma erva que o mar toca a cada maré », explicou Irlan. « É a erva dos prados salgados. »"
+    },
+    {
+      "id": 2,
+      "fr": "« Quand la mer montait, elle laissait le sel sur les herbes », a dit Andréa. « Les moutons mangeaient cette herbe salée, et leur viande devenait délicieuse. »",
+      "pt": "« Quando a maré subia, ela deixava o sal sobre as ervas », disse Andréa. « Os carneiros comiam essa erva salgada, e sua carne ficava deliciosa. »"
+    },
+    {
+      "id": 3,
+      "fr": "Un mouton a levé la tête et a regardé la famille. Íris a ri : « Il dit bonjour ! » « Les moutons de pré-salé sont célèbres dans toute la France », a ajouté Irlan.",
+      "pt": "Um carneiro levantou a cabeça e olhou a família. Íris riu: « Ele diz olá! » « Os carneiros de prado salgado são famosos em toda a França », acrescentou Irlan."
+    },
+    {
+      "id": 4,
+      "fr": "« Ce soir, nous allons goûter l'agneau de pré-salé au restaurant », a annoncé Andréa. « Tu vas voir, il a un goût unique. » Íris a applaudi.",
+      "pt": "« Hoje à noite, vamos provar o cordeiro de prado salgado no restaurante », anunciou Andréa. « Você vai ver, ele tem um sabor único. » Íris bateu palmas."
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "le mouton",
+      "definitionPt": "o carneiro, a ovelha",
+      "definitionFr": "Animal qui donne la laine.",
+      "inflections": ["le mouton", "la brebis", "des moutons"],
+      "ptTargets": ["carneiro", "ovelha"],
+      "examples": [
+        { "level": "A1", "fr": "Le mouton est blanc.", "pt": "O carneiro é branco." },
+        { "level": "A2-B1", "fr": "Les moutons paissent dans la baie.", "pt": "Os carneiros pastam na baía." },
+        { "level": "B2", "fr": "Les moutons de pré-salé sont une fierté de la région.", "pt": "Os carneiros de prado salgado são um orgulho da região." },
+        { "level": "C1-C2", "fr": "Les moutons suivent la mer, et la mer suit les saisons.", "pt": "Os carneiros seguem o mar, e o mar segue as estações." }
+      ]
+    },
+    {
+      "term": "paître",
+      "definitionPt": "pastar",
+      "definitionFr": "Manger l'herbe dans un pré.",
+      "inflections": ["il paît", "ils paissent", "pais"],
+      "ptTargets": ["pastar"],
+      "examples": [
+        { "level": "A1", "fr": "Les moutons paissent.", "pt": "Os carneiros pastam." },
+        { "level": "A2-B1", "fr": "Les moutons paissaient dans les prés.", "pt": "Os carneiros pastavam nos prados." },
+        { "level": "B2", "fr": "Les troupeaux paissent au rythme des marées.", "pt": "Os rebanhos pastam ao ritmo das marés." },
+        { "level": "C1-C2", "fr": "Paître dans ces prés salés donne à la viande son âme.", "pt": "Pastar nesses prados salgados dá à carne sua alma." }
+      ]
+    },
+    {
+      "term": "le pré",
+      "definitionPt": "o prado",
+      "definitionFr": "Champ d'herbe.",
+      "inflections": ["le pré", "un pré", "des prés"],
+      "ptTargets": ["prado"],
+      "examples": [
+        { "level": "A1", "fr": "Le pré est vert.", "pt": "O prado é verde." },
+        { "level": "A2-B1", "fr": "Les prés salés entourent le Mont.", "pt": "Os prados salgados cercam o Mont." },
+        { "level": "B2", "fr": "Les prés salés sont recouverts par la mer à marée haute.", "pt": "Os prados salgados são cobertos pelo mar na maré alta." },
+        { "level": "C1-C2", "fr": "Ces prés, à moitié terre, à moitié mer, n'existent qu'ici.", "pt": "Estes prados, metade terra, metade mar, só existem aqui." }
+      ]
+    },
+    {
+      "term": "salé",
+      "definitionPt": "salgado",
+      "definitionFr": "Qui contient du sel.",
+      "inflections": ["salé", "salée", "salés"],
+      "ptTargets": ["salgado"],
+      "examples": [
+        { "level": "A1", "fr": "La soupe est salée.", "pt": "A sopa está salgada." },
+        { "level": "A2-B1", "fr": "L'herbe salée donne un goût unique à la viande.", "pt": "A erva salgada dá um sabor único à carne." },
+        { "level": "B2", "fr": "Le pré-salé est recouvert d'eau salée à chaque marée.", "pt": "O prado salgado é coberto de água salgada a cada maré." },
+        { "level": "C1-C2", "fr": "Le sel des marées imprègne l'herbe, les moutons, puis les tables.", "pt": "O sal das marés impregna a erva, os carneiros e depois as mesas." }
+      ]
+    },
+    {
+      "term": "l'herbe",
+      "definitionPt": "a erva, a grama",
+      "definitionFr": "Plante qui couvre les prés.",
+      "inflections": ["l'herbe", "une herbe", "des herbes"],
+      "ptTargets": ["erva", "grama"],
+      "examples": [
+        { "level": "A1", "fr": "L'herbe est verte.", "pt": "A grama é verde." },
+        { "level": "A2-B1", "fr": "Les moutons mangent l'herbe salée.", "pt": "Os carneiros comem a erva salgada." },
+        { "level": "B2", "fr": "L'herbe des prés salés résiste à l'eau de mer.", "pt": "A erva dos prados salgados resiste à água do mar." },
+        { "level": "C1-C2", "fr": "Cette herbe courte et drue est le secret du goût du pré-salé.", "pt": "Esta erva curta e viçosa é o segredo do sabor do pré-salé." }
+      ]
+    },
+    {
+      "term": "le sel",
+      "definitionPt": "o sal",
+      "definitionFr": "Substance blanche qui sale les aliments.",
+      "inflections": ["le sel", "un sel", "des sels"],
+      "ptTargets": ["sal"],
+      "examples": [
+        { "level": "A1", "fr": "Le sel est blanc.", "pt": "O sal é branco." },
+        { "level": "A2-B1", "fr": "La mer laisse le sel sur les herbes.", "pt": "O mar deixa o sal sobre as ervas." },
+        { "level": "B2", "fr": "Le sel de la baie est réputé depuis le Moyen Âge.", "pt": "O sal da baía é famoso desde a Idade Média." },
+        { "level": "C1-C2", "fr": "Le sel de la mer, invisible et puissant, transforme les paysages et les saveurs.", "pt": "O sal do mar, invisível e poderoso, transforma paisagens e sabores." }
+      ]
+    },
+    {
+      "term": "le goût",
+      "definitionPt": "o sabor, o gosto",
+      "definitionFr": "Saveur d'un aliment.",
+      "inflections": ["le goût", "un goût", "des goûts"],
+      "ptTargets": ["sabor", "gosto"],
+      "examples": [
+        { "level": "A1", "fr": "Le goût est bon.", "pt": "O sabor é bom." },
+        { "level": "A2-B1", "fr": "La viande a un goût unique.", "pt": "A carne tem um sabor único." },
+        { "level": "B2", "fr": "Ce goût de sel et d'herbe, on ne le trouve nulle part ailleurs.", "pt": "Este sabor de sal e erva não se encontra em nenhum outro lugar." },
+        { "level": "C1-C2", "fr": "Les goûts simples de la baie cachent une alchimie parfaite.", "pt": "Os sabores simples da baía escondem uma alquimia perfeita." }
+      ]
+    },
+    {
+      "term": "la viande",
+      "definitionPt": "a carne",
+      "definitionFr": "Chair des animaux que l'on mange.",
+      "inflections": ["la viande", "une viande", "des viandes"],
+      "ptTargets": ["carne"],
+      "examples": [
+        { "level": "A1", "fr": "La viande est cuite.", "pt": "A carne está cozida." },
+        { "level": "A2-B1", "fr": "La viande des moutons de pré-salé est délicieuse.", "pt": "A carne dos carneiros de prado salgado é deliciosa." },
+        { "level": "B2", "fr": "La viande d'agneau est tendre et parfumée.", "pt": "A carne de cordeiro é macia e perfumada." },
+        { "level": "C1-C2", "fr": "Cette viande doit sa finesse à l'herbe et au sel de la baie.", "pt": "Esta carne deve sua finura à erva e ao sal da baía." }
+      ]
+    },
+    {
+      "term": "le troupeau",
+      "definitionPt": "o rebanho",
+      "definitionFr": "Groupe d'animaux qui paissent ensemble.",
+      "inflections": ["le troupeau", "un troupeau", "des troupeaux"],
+      "ptTargets": ["rebanho"],
+      "examples": [
+        { "level": "A1", "fr": "Le troupeau est dans le pré.", "pt": "O rebanho está no prado." },
+        { "level": "A2-B1", "fr": "Un troupeau de moutons traversait la digue.", "pt": "Um rebanho de carneiros atravessava o dique." },
+        { "level": "B2", "fr": "Le troupeau suit le berger depuis des générations.", "pt": "O rebanho segue o pastor há gerações." },
+        { "level": "C1-C2", "fr": "Les troupeaux de pré-salé dessinent des taches blanches sur l'herbe verte.", "pt": "Os rebanhos de pré-salé desenham manchas brancas na erva verde." }
+      ]
+    },
+    {
+      "term": "le berger",
+      "definitionPt": "o pastor",
+      "definitionFr": "Personne qui garde les moutons.",
+      "inflections": ["le berger", "la bergère", "des bergers"],
+      "ptTargets": ["pastor"],
+      "examples": [
+        { "level": "A1", "fr": "Le berger a un chien.", "pt": "O pastor tem um cachorro." },
+        { "level": "A2-B1", "fr": "Le berger connaissait chaque mouton de son troupeau.", "pt": "O pastor conhecia cada carneiro de seu rebanho." },
+        { "level": "B2", "fr": "Le berger suivait la marée pour choisir les prés.", "pt": "O pastor seguia a maré para escolher os prados." },
+        { "level": "C1-C2", "fr": "Le berger de la baie lit le ciel, l'eau et l'herbe comme un livre.", "pt": "O pastor da baía lê o céu, a água e a erva como um livro." }
+      ]
+    },
+    {
+      "term": "l'agneau",
+      "definitionPt": "o cordeiro",
+      "definitionFr": "Jeune mouton ; sa viande.",
+      "inflections": ["l'agneau", "un agneau", "des agneaux"],
+      "ptTargets": ["cordeiro"],
+      "examples": [
+        { "level": "A1", "fr": "L'agneau est petit.", "pt": "O cordeiro é pequeno." },
+        { "level": "A2-B1", "fr": "Nous allons goûter l'agneau de pré-salé.", "pt": "Vamos provar o cordeiro de prado salgado." },
+        { "level": "B2", "fr": "L'agneau de pré-salé est une spécialité gastronomique.", "pt": "O cordeiro de prado salgado é uma especialidade gastronômica." },
+        { "level": "C1-C2", "fr": "L'agneau de pré-salé, tendre et iodé, est le roi de la table normande.", "pt": "O cordeiro de prado salgado, macio e com sabor de mar, é o rei da mesa normanda." }
+      ]
+    },
+    {
+      "term": "unique",
+      "definitionPt": "único",
+      "definitionFr": "Seul de son genre.",
+      "inflections": ["unique", "uniques", "uniquement"],
+      "ptTargets": ["único"],
+      "examples": [
+        { "level": "A1", "fr": "C'est un endroit unique.", "pt": "É um lugar único." },
+        { "level": "A2-B1", "fr": "Ce goût est unique au monde.", "pt": "Este sabor é único no mundo." },
+        { "level": "B2", "fr": "La baie offre un paysage unique en Europe.", "pt": "A baía oferece uma paisagem única na Europa." },
+        { "level": "C1-C2", "fr": "Unique comme la rencontre de la terre, du sel et du ciel.", "pt": "Único como o encontro da terra, do sal e do céu." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Quand + imparfait : l'habitude de la marée",
+    "explanationPt": "'Quand la marée montait (IMP), elle laissait (IMP) le sel sur les herbes' — ação repetida no passado = imparfait nos dois verbos. Descreve um ciclo habitual.",
+    "exampleFr": "Quand la marée montait, elle laissait le sel sur les herbes des prés.",
+    "examplePt": "Quando a maré subia, deixava o sal sobre as ervas dos prados.",
+    "practiceQuestion": "Complete: « Quand la marée montait, elle ___ le sel. »",
+    "options": ["laissait", "a laissé", "laissera"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "Décrire la baie : les sens",
+        "explanationPt": "Descrição sensorial no passado: 'les moutons paissaient tranquillement' (pastavam tranquilamente), 'l'herbe était verte et salée'. Ações em curso = imparfait.",
+        "exampleFr": "Dans les prés, les moutons paissaient tranquillement pendant que la mer remontait.",
+        "examplePt": "Nos prados, os carneiros pastavam tranquilamente enquanto o mar subia.",
+        "practiceQuestion": "Complete: « Les moutons ___ tranquillement. »",
+        "options": ["paissaient", "ont pâtu", "paîtront"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "Devenir + adjectif : le changement",
+        "explanationPt": "'Devenir + adjectif' expressa mudança: 'la viande devenait délicieuse' (a carne ficava deliciosa). No passado habitual: imparfait.",
+        "exampleFr": "Grâce à l'herbe salée, la viande devenait délicieuse.",
+        "examplePt": "Graças à erva salgada, a carne ficava deliciosa.",
+        "practiceQuestion": "Complete: « La viande ___ délicieuse. »",
+        "options": ["devenait", "deviendra", "est devenue"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "O que comem os moutons de pré-salé?",
+      "options": ["Erva que o mar toca a cada maré", "Algas do fundo", "Sal puro das salinas"],
+      "correctIndex": 0,
+      "explanation": "Os carneiros pastam a erva dos prés-salés, que o mar cobre na maré alta."
+    },
+    {
+      "question": "Complete: « Quand la marée montait, elle ___ le sel sur les herbes. »",
+      "options": ["laissait", "a laissé", "laissera"],
+      "correctIndex": 0,
+      "explanation": "Ciclo habitual no passado = imparfait: 'laissait'."
+    },
+    {
+      "question": "Por que a carne dos moutons de pré-salé é famosa?",
+      "options": ["Por causa do sabor único dado pela erva salgada", "Porque são moutons gigantes", "Porque comem cereais especiais"],
+      "correctIndex": 0,
+      "explanation": "O sal deixado pela maré na erva dá à carne um sabor único."
+    },
+    {
+      "question": "O que a família vai provar no restaurante?",
+      "options": ["L'agneau de pré-salé", "Uma omelete", "Um kouglof"],
+      "correctIndex": 0,
+      "explanation": "Andréa anunciou que à noite iriam provar o cordeiro de prado salgado."
+    },
+    {
+      "question": "Complete: « La viande ___ délicieuse grâce au sel. »",
+      "options": ["devenait", "deviendra", "est devenue"],
+      "correctIndex": 0,
+      "explanation": "Mudança habitual no passado = imparfait: 'devenait'."
+    }
+  ]
+}

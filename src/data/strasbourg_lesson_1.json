@@ -1,0 +1,252 @@
+{
+  "id": "strasbourg_lesson_1",
+  "cityId": "strasbourg",
+  "domain": "Viagem",
+  "level": "Avançado (C1+)",
+  "titleFr": "Bienvenue à Strasbourg : la capitale de l'Europe",
+  "titlePt": "Bem-vindo a Strasbourg: a capital da Europa",
+  "subtitleFr": "L'arrivée au bord du Rhin et la ville carrefour entre la France et l'Allemagne",
+  "subtitlePt": "A chegada às margens do Reno e a cidade encruzilhada entre a França e a Alemanha",
+  "summaryPt": "Nesta Aula 1 (C1+), a família chega a Strasbourg, cidade fronteiriça entre a França e a Alemanha, capital do Parlamento Europeu. O aluno é introduzido ao Passé Simple literário: 'la ville devint un carrefour', 'les marchands firent fortune'.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "À la gare de Strasbourg, Iris a regardé l'immense verrière : « On est où, en France ou en Allemagne ? » Irlan a souri : « En France, mais juste au bord du Rhin. Depuis des siècles, Strasbourg fut le carrefour des deux cultures. Les marchands y firent fortune. »",
+      "pt": "Na estação de Strasbourg, Íris olhou o imenso vitral: « Onde estamos, na França ou na Alemanha? » Irlan sorriu: « Na França, mas bem na margem do Reno. Há séculos, Strasbourg foi a encruzilhada das duas culturas. Os mercadores ali fizeram fortuna. »"
+    },
+    {
+      "id": 2,
+      "fr": "Sur la Grande Île, classée à l'UNESCO, la famille a découvert des maisons à colombages. « Le guide nous a dit que cette île était le cœur historique de la ville, a traduit Andréa. Il a ajouté qu'on y voyait l'influence française et allemande mêlées. »",
+      "pt": "Na Grande Île, patrimônio da UNESCO, a família descobriu casas de enxaimel. « O guia nos disse que esta ilha era o coração histórico da cidade, traduziu Andréa. Ele acrescentou que ali se via a influência francesa e alemã misturadas. »"
+    },
+    {
+      "id": 3,
+      "fr": "Au bord de l'Ill, Iris a regardé les canaux : « Pourquoi y a-t-il des barrages partout ? » Irlan a expliqué : « Au Moyen Âge, les tanneurs utilisaient ces canaux pour leurs peaux. La ville devint riche grâce à ces métiers. Néanmoins, aujourd'hui, ce sont les institutions européennes qui font sa réputation. »",
+      "pt": "À beira do Ill, Íris olhou os canais: « Por que há barragens por toda parte? » Irlan explicou: « Na Idade Média, os curtidores usavam esses canais para seus couros. A cidade enriqueceu graças a esses ofícios. No entanto, hoje, são as instituições europeias que fazem sua reputação. »"
+    },
+    {
+      "id": 4,
+      "fr": "Le soir, devant la cathédrale illuminée, Irlan a conclu : « Strasbourg est un pont entre les peuples. Il faudra que nous visitions le Parlement européen, mais aussi la Petite France et le marché de Noël. En outre, il faudra goûter la choucroute ! »",
+      "pt": "À noite, diante da catedral iluminada, Irlan concluiu: « Strasbourg é uma ponte entre os povos. Será preciso que visitemos o Parlamento Europeu, mas também a Petite France e o mercado de Natal. Além disso, será preciso provar a choucroute! »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "le carrefour",
+      "definitionPt": "a encruzilhada, o cruzamento",
+      "definitionFr": "Lieu où se croisent plusieurs routes ou cultures.",
+      "inflections": ["le carrefour", "les carrefours"],
+      "ptTargets": ["encruzilhada", "cruzamento"],
+      "examples": [
+        { "level": "A1", "fr": "Le carrefour est grand.", "pt": "O cruzamento é grande." },
+        { "level": "A2-B1", "fr": "Strasbourg est un carrefour entre la France et l'Allemagne.", "pt": "Strasbourg é uma encruzilhada entre a França e a Alemanha." },
+        { "level": "B1-B2", "fr": "Le carrefour, situé au bord du Rhin, a vu passer les marchands et les idées.", "pt": "A encruzilhada, situada à beira do Reno, viu passar mercadores e ideias." },
+        { "level": "C1-C2", "fr": "C'est en tant que carrefour européen que Strasbourg a construit son identité.", "pt": "É como encruzilhada europeia que Strasbourg construiu sua identidade." }
+      ]
+    },
+    {
+      "term": "le Rhin",
+      "definitionPt": "o Reno",
+      "definitionFr": "Fleuve qui traverse l'Europe et sépare la France de l'Allemagne.",
+      "inflections": ["le Rhin"],
+      "ptTargets": ["Reno"],
+      "examples": [
+        { "level": "A1", "fr": "Le Rhin est long.", "pt": "O Reno é comprido." },
+        { "level": "A2-B1", "fr": "Strasbourg est au bord du Rhin.", "pt": "Strasbourg fica à beira do Reno." },
+        { "level": "B1-B2", "fr": "Le Rhin, qui sépare la France de l'Allemagne, fut une frontière disputée.", "pt": "O Reno, que separa a França da Alemanha, foi uma fronteira disputada." },
+        { "level": "C1-C2", "fr": "C'est le Rhin qui fit de Strasbourg un lieu de passage obligé de l'Europe.", "pt": "É o Reno que fez de Strasbourg um lugar de passagem obrigatória da Europa." }
+      ]
+    },
+    {
+      "term": "le tanneur",
+      "definitionPt": "o curtidor",
+      "definitionFr": "Ouvrier qui transforme les peaux en cuir.",
+      "inflections": ["le tanneur", "les tanneurs"],
+      "ptTargets": ["curtidor"],
+      "examples": [
+        { "level": "A1", "fr": "Le tanneur travaille le cuir.", "pt": "O curtidor trabalha o couro." },
+        { "level": "A2-B1", "fr": "Les tanneurs utilisaient les canaux.", "pt": "Os curtidores usavam os canais." },
+        { "level": "B1-B2", "fr": "Les tanneurs, installés à la Petite France, firent la richesse de la ville.", "pt": "Os curtidores, instalados na Petite France, fizeram a riqueza da cidade." },
+        { "level": "C1-C2", "fr": "C'est le savoir-faire des tanneurs qui façonna le quartier de la Petite France.", "pt": "É o saber-fazer dos curtidores que moldou o bairro da Petite France." }
+      ]
+    },
+    {
+      "term": "le barrage",
+      "definitionPt": "a barragem, a represa",
+      "definitionFr": "Ouvrage qui retient ou régule l'eau.",
+      "inflections": ["le barrage", "les barrages"],
+      "ptTargets": ["barragem", "represa"],
+      "examples": [
+        { "level": "A1", "fr": "Le barrage est solide.", "pt": "A barragem é sólida." },
+        { "level": "A2-B1", "fr": "Les barrages régulent les canaux.", "pt": "As barragens regulam os canais." },
+        { "level": "B1-B2", "fr": "Les barrages, construits au Moyen Âge, protégeaient la ville des inondations.", "pt": "As barragens, construídas na Idade Média, protegiam a cidade das inundações." },
+        { "level": "C1-C2", "fr": "C'est par les barrages que Strasbourg maîtrisa ses canaux et son destin.", "pt": "É pelas barragens que Strasbourg dominou seus canais e seu destino." }
+      ]
+    },
+    {
+      "term": "la verrière",
+      "definitionPt": "o vitral, a claraboia de vidro",
+      "definitionFr": "Grande surface vitrée.",
+      "inflections": ["la verrière", "les verrières"],
+      "ptTargets": ["vitral", "claraboia"],
+      "examples": [
+        { "level": "A1", "fr": "La verrière est grande.", "pt": "O vitral é grande." },
+        { "level": "A2-B1", "fr": "La gare de Strasbourg a une grande verrière.", "pt": "A estação de Strasbourg tem um grande vitral." },
+        { "level": "B1-B2", "fr": "La verrière, qui laisse entrer la lumière, est un chef-d'œuvre moderne.", "pt": "O vitral, que deixa entrar a luz, é uma obra-prima moderna." },
+        { "level": "C1-C2", "fr": "C'est la verrière de la gare qui accueille les voyageurs avec éclat.", "pt": "É o vitral da estação que recebe os viajantes com brilho." }
+      ]
+    },
+    {
+      "term": "le colombage",
+      "definitionPt": "o enxaimel",
+      "definitionFr": "Construction à charpente de bois visible.",
+      "inflections": ["le colombage", "les colombages"],
+      "ptTargets": ["enxaimel"],
+      "examples": [
+        { "level": "A1", "fr": "Le colombage est ancien.", "pt": "O enxaimel é antigo." },
+        { "level": "A2-B1", "fr": "Les maisons à colombages sont typiques de Strasbourg.", "pt": "As casas de enxaimel são típicas de Strasbourg." },
+        { "level": "B1-B2", "fr": "Les colombages, qui décorent les façades, attirent les photographes.", "pt": "Os enxaiméis, que decoram as fachadas, atraem os fotógrafos." },
+        { "level": "C1-C2", "fr": "C'est par ses colombages que la Grande Île affirme son héritage alsacien.", "pt": "É pelos enxaiméis que a Grande Île afirma seu legado alsaciano." }
+      ]
+    },
+    {
+      "term": "la peau",
+      "definitionPt": "o couro, a pele",
+      "definitionFr": "Enveloppe du corps ou cuir.",
+      "inflections": ["la peau", "les peaux"],
+      "ptTargets": ["couro", "pele"],
+      "examples": [
+        { "level": "A1", "fr": "La peau est douce.", "pt": "A pele é macia." },
+        { "level": "A2-B1", "fr": "Les tanneurs préparaient les peaux.", "pt": "Os curtidores preparavam os couros." },
+        { "level": "B1-B2", "fr": "Les peaux, travaillées dans les ateliers, devenaient du cuir précieux.", "pt": "Os couros, trabalhados nos ateliês, viravam couro precioso." },
+        { "level": "C1-C2", "fr": "C'est par le travail des peaux que la Petite France connut sa prospérité.", "pt": "É pelo trabalho dos couros que a Petite France conheceu sua prosperidade." }
+      ]
+    },
+    {
+      "term": "le pont",
+      "definitionPt": "a ponte",
+      "definitionFr": "Ouvrage qui permet de traverser un cours d'eau.",
+      "inflections": ["le pont", "les ponts"],
+      "ptTargets": ["ponte"],
+      "examples": [
+        { "level": "A1", "fr": "Le pont est long.", "pt": "A ponte é comprida." },
+        { "level": "A2-B1", "fr": "Les ponts traversent les canaux.", "pt": "As pontes atravessam os canais." },
+        { "level": "B1-B2", "fr": "Les ponts, qui enjambent l'Ill, offrent de belles vues sur la ville.", "pt": "As pontes, que cruzam o Ill, oferecem belas vistas da cidade." },
+        { "level": "C1-C2", "fr": "C'est par ses ponts que Strasbourg relie ses quartiers et ses cultures.", "pt": "É pelas pontes que Strasbourg liga seus bairros e suas culturas." }
+      ]
+    },
+    {
+      "term": "la frontière",
+      "definitionPt": "a fronteira",
+      "definitionFr": "Limite entre deux pays.",
+      "inflections": ["la frontière", "les frontières"],
+      "ptTargets": ["fronteira"],
+      "examples": [
+        { "level": "A1", "fr": "La frontière est proche.", "pt": "A fronteira é perto." },
+        { "level": "A2-B1", "fr": "L'Allemagne est juste derrière la frontière.", "pt": "A Alemanha fica logo atrás da fronteira." },
+        { "level": "B1-B2", "fr": "La frontière, longtemps disputée, a marqué l'histoire de la ville.", "pt": "A fronteira, durante muito tempo disputada, marcou a história da cidade." },
+        { "level": "C1-C2", "fr": "C'est au-delà de la frontière que Strasbourg a construit son rôle européen.", "pt": "É para além da fronteira que Strasbourg construiu seu papel europeu." }
+      ]
+    },
+    {
+      "term": "le métier",
+      "definitionPt": "o ofício, a profissão",
+      "definitionFr": "Activité professionnelle.",
+      "inflections": ["le métier", "les métiers"],
+      "ptTargets": ["ofício", "profissão"],
+      "examples": [
+        { "level": "A1", "fr": "Le métier est important.", "pt": "A profissão é importante." },
+        { "level": "A2-B1", "fr": "Les métiers de la rivière firent la richesse de la ville.", "pt": "Os ofícios do rio fizeram a riqueza da cidade." },
+        { "level": "B1-B2", "fr": "Les métiers, transmis de génération en génération, façonnent les quartiers.", "pt": "Os ofícios, transmitidos de geração em geração, moldam os bairros." },
+        { "level": "C1-C2", "fr": "C'est par ses métiers traditionnels que Strasbourg a bâti sa prospérité.", "pt": "É pelos ofícios tradicionais que Strasbourg construiu sua prosperidade." }
+      ]
+    },
+    {
+      "term": "l'institution",
+      "definitionPt": "a instituição",
+      "definitionFr": "Organisation officielle.",
+      "inflections": ["l'institution", "les institutions"],
+      "ptTargets": ["instituição"],
+      "examples": [
+        { "level": "A1", "fr": "L'institution est importante.", "pt": "A instituição é importante." },
+        { "level": "A2-B1", "fr": "Le Parlement européen est une institution.", "pt": "O Parlamento Europeu é uma instituição." },
+        { "level": "B1-B2", "fr": "Les institutions, installées à Strasbourg, donnent à la ville son rôle européen.", "pt": "As instituições, instaladas em Strasbourg, dão à cidade seu papel europeu." },
+        { "level": "C1-C2", "fr": "C'est par ses institutions que Strasbourg incarne l'idée européenne.", "pt": "É pelas instituições que Strasbourg encarna a ideia europeia." }
+      ]
+    },
+    {
+      "term": "le traité",
+      "definitionPt": "o tratado",
+      "definitionFr": "Accord officiel entre des États.",
+      "inflections": ["le traité", "les traités"],
+      "ptTargets": ["tratado"],
+      "examples": [
+        { "level": "A1", "fr": "Le traité est signé.", "pt": "O tratado é assinado." },
+        { "level": "A2-B1", "fr": "Les traités européens se signent à Strasbourg.", "pt": "Os tratados europeus se assinam em Strasbourg." },
+        { "level": "B1-B2", "fr": "Le traité, qui engage les nations, est discuté dans l'hémicycle.", "pt": "O tratado, que compromete as nações, é discutido no plenário." },
+        { "level": "C1-C2", "fr": "C'est la signature du traité qui marqua l'entrée de la ville dans l'ère européenne.", "pt": "É a assinatura do tratado que marcou a entrada da cidade na era europeia." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Le Passé Simple : la langue des chroniques et des récits historiques",
+    "explanationPt": "O Passé Simple é usado em narrativas históricas, crônicas e placas: 'la ville devint un carrefour' (a cidade tornou-se), 'les marchands y firent fortune' (os mercadores ali fizeram fortuna), 'il naquit' (nasceu). Formas: devint (devenir), firent (faire), naquit (naître).",
+    "exampleFr": "Depuis des siècles, Strasbourg fut le carrefour des deux cultures.",
+    "examplePt": "Há séculos, Strasbourg foi a encruzilhada das duas culturas.",
+    "practiceQuestion": "Complete: « Les marchands y ___ fortune. »",
+    "options": ["firent", "font", "feront"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "Les verbes du 3e groupe au passé simple",
+        "explanationPt": "Formas irregulares frequentes: devenir → il devint, naître → il naquit, faire → ils firent, construire → ils construisirent, voir → ils virent.",
+        "exampleFr": "La ville devint riche grâce à ces métiers.",
+        "examplePt": "A cidade tornou-se rica graças a esses ofícios.",
+        "practiceQuestion": "Complete: « La ville ___ riche grâce aux marchands. »",
+        "options": ["devint", "devient", "deviendra"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "Le passé simple à la 3e personne du singulier",
+        "explanationPt": "Terminações: -a (aimer → il aima), -it (finir → il finit), -ut (boire → il but), -int (venir → il vint). Ex.: 'Il naquit au Moyen Âge'.",
+        "exampleFr": "Il naquit au bord du Rhin, dans une famille de marchands.",
+        "examplePt": "Ele nasceu às margens do Reno, numa família de mercadores.",
+        "practiceQuestion": "Complete: « Le bâtisseur ___ une cathédrale magnifique. »",
+        "options": ["construisit", "construit", "construira"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Entre quais países Strasbourg fica?",
+      "options": ["França e Alemanha", "França e Espanha", "Bélgica e Holanda"],
+      "correctIndex": 0,
+      "explanation": "Strasbourg fica na fronteira entre a França e a Alemanha, às margens do Reno."
+    },
+    {
+      "question": "O que é a Grande Île?",
+      "options": ["o coração histórico da cidade, classificado pela UNESCO", "uma praia artificial", "um parque de diversões"],
+      "correctIndex": 0,
+      "explanation": "A Grande Île é o centro histórico de Strasbourg, patrimônio da UNESCO."
+    },
+    {
+      "question": "Quem usava os canais na Idade Média?",
+      "options": ["os curtidores", "os pescadores", "os pintores"],
+      "correctIndex": 0,
+      "explanation": "Os tanneurs, curtidores, usavam os canais para trabalhar as peles."
+    },
+    {
+      "question": "Complete: « Les marchands y ___ fortune. »",
+      "options": ["firent", "font", "feront"],
+      "correctIndex": 0,
+      "explanation": "Passé simple de 'faire': ils firent fortune."
+    },
+    {
+      "question": "O que a família quer provar em Strasbourg?",
+      "options": ["a choucroute", "a bouillabaisse", "o cassoulet"],
+      "correctIndex": 0,
+      "explanation": "Irlan quer provar a choucroute, especialidade alsaciana."
+    }
+  ]
+}

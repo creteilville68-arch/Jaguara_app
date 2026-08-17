@@ -1,0 +1,252 @@
+{
+  "id": "lyon_lesson_1",
+  "cityId": "lyon",
+  "domain": "Viagem",
+  "level": "Intermediário (B2+)",
+  "titleFr": "Bienvenue à Lyon : entre Rhône et Saône",
+  "titlePt": "Bem-vindo a Lyon: entre Ródano e Saône",
+  "subtitleFr": "L'arrivée à la Part-Dieu et la place Bellecour, l'une des plus grandes d'Europe",
+  "subtitlePt": "A chegada à Part-Dieu e a place Bellecour, uma das maiores da Europa",
+  "summaryPt": "Nesta Aula 1 (B2+), a família chega a Lyon de TGV e descobre a cidade entre dois rios: o Ródano e o Saône. O aluno domina as frases clivadas e a topicalização: 'C'est à Lyon que...', 'Ce dont je me souviens, c'est...'.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "À la gare de la Part-Dieu, Iris a regardé la carte : « Il y a deux rivières, papa ! » Irlan a souri : « Oui, c'est le Rhône et la Saône. C'est entre ces deux fleuves que Lyon a grandi. Les géographes appellent cette langue de terre la presqu'île. »",
+      "pt": "Na estação da Part-Dieu, Íris olhou o mapa: « Tem dois rios, papai! » Irlan sorriu: « Sim, são o Ródano e o Saône. É entre esses dois rios que Lyon cresceu. Os geógrafos chamam essa língua de terra de península. »"
+    },
+    {
+      "id": 2,
+      "fr": "Sur la place Bellecour, la plus grande place piétonne d'Europe, Iris a couru vers la statue de Louis XIV. « Ce dont je me souviens, c'est que Lyon est la capitale de la gastronomie », a dit Andréa. « Ce soir, nous mangerons dans un bouchon ! »",
+      "pt": "Na place Bellecour, a maior praça de pedestres da Europa, Íris correu até a estátua de Luís XIV. « O que eu me lembro, é que Lyon é a capital da gastronomia », disse Andréa. « Hoje à noite, comeremos num bouchon! »"
+    },
+    {
+      "id": 3,
+      "fr": "Ils ont marché jusqu'aux quais de la Saône. « C'est ici que les canuts transportaient leurs soies autrefois », a expliqué Irlan. « Et c'est à Lyon que les frères Lumière ont inventé le cinéma. Cette ville a marqué l'histoire de la France. »",
+      "pt": "Eles caminharam até os cais do Saône. « É aqui que os canuts transportavam suas sedas antigamente », explicou Irlan. « E é em Lyon que os irmãos Lumière inventaram o cinema. Esta cidade marcou a história da França. »"
+    },
+    {
+      "id": 4,
+      "fr": "Le soir, de la colline de Fourvière, la ville scintillait. « Ce que je préfère, c'est cette vue », a murmuré Iris. Andréa a répondu : « Alors c'est demain que nous monterons à la basilique. Ce dont je rêve, moi, c'est d'une quenelle à la sauce Nantua ! »",
+      "pt": "À noite, da colina de Fourvière, a cidade cintilava. « O que eu mais gosto é dessa vista », murmurou Íris. Andréa respondeu: « Então é amanhã que subiremos à basílica. O que eu sonho, eu, é com uma quenelle ao molho Nantua! »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "la presqu'île",
+      "definitionPt": "a península (entre dois rios)",
+      "definitionFr": "Péninsule formée entre deux cours d'eau.",
+      "inflections": ["la presqu'île", "les presqu'îles"],
+      "ptTargets": ["península", "presqu'île"],
+      "examples": [
+        { "level": "A1", "fr": "La presqu'île est belle.", "pt": "A península é bonita." },
+        { "level": "A2-B1", "fr": "Lyon est construite sur une presqu'île.", "pt": "Lyon é construída numa península." },
+        { "level": "B1-B2", "fr": "La presqu'île, située entre Rhône et Saône, est le cœur de Lyon.", "pt": "A península, situada entre Ródano e Saône, é o coração de Lyon." },
+        { "level": "C1-C2", "fr": "C'est sur cette presqu'île que s'est développée la puissance marchande de Lyon.", "pt": "É nessa península que se desenvolveu o poder mercantil de Lyon." }
+      ]
+    },
+    {
+      "term": "la gastronomie",
+      "definitionPt": "a gastronomia",
+      "definitionFr": "Art de la bonne cuisine.",
+      "inflections": ["la gastronomie"],
+      "ptTargets": ["gastronomia"],
+      "examples": [
+        { "level": "A1", "fr": "La gastronomie est célèbre.", "pt": "A gastronomia é famosa." },
+        { "level": "A2-B1", "fr": "Lyon est la capitale de la gastronomie.", "pt": "Lyon é a capital da gastronomia." },
+        { "level": "B1-B2", "fr": "La gastronomie lyonnaise, qui mêle tradition et créativité, attire les gourmets du monde entier.", "pt": "A gastronomia de Lyon, que mistura tradição e criatividade, atrai gourmets do mundo inteiro." },
+        { "level": "C1-C2", "fr": "C'est à Lyon que la gastronomie française a trouvé l'un de ses plus beaux terroirs.", "pt": "É em Lyon que a gastronomia francesa encontrou um de seus mais belos terroirs." }
+      ]
+    },
+    {
+      "term": "le bouchon",
+      "definitionPt": "o bouchon (restaurante típico de Lyon)",
+      "definitionFr": "Restaurant typique de Lyon.",
+      "inflections": ["le bouchon", "les bouchons"],
+      "ptTargets": ["bouchon", "restaurante típico"],
+      "examples": [
+        { "level": "A1", "fr": "Le bouchon est petit.", "pt": "O bouchon é pequeno." },
+        { "level": "A2-B1", "fr": "La famille va manger dans un bouchon.", "pt": "A família vai comer num bouchon." },
+        { "level": "B1-B2", "fr": "Les bouchons, tenus par des 'mères' lyonnaises, servent la cuisine traditionnelle.", "pt": "Os bouchons, comandados pelas 'mães' lionenses, servem a cozinha tradicional." },
+        { "level": "C1-C2", "fr": "C'est dans les bouchons que se perpétue l'âme gourmande de la ville de Lyon.", "pt": "É nos bouchons que se perpetua a alma gulosa da cidade de Lyon." }
+      ]
+    },
+    {
+      "term": "le canut",
+      "definitionPt": "o tecelão de seda de Lyon",
+      "definitionFr": "Ouvrier tisseur de soie à Lyon.",
+      "inflections": ["le canut", "les canuts"],
+      "ptTargets": ["canut", "tecelão de seda"],
+      "examples": [
+        { "level": "A1", "fr": "Le canut travaillait la soie.", "pt": "O canut trabalhava a seda." },
+        { "level": "A2-B1", "fr": "Les canuts habitaient la Croix-Rousse.", "pt": "Os canuts moravam na Croix-Rousse." },
+        { "level": "B1-B2", "fr": "Les canuts, qui tissaient les soies précieuses, vivaient dans des conditions difficiles.", "pt": "Os canuts, que teciam as sedas preciosas, viviam em condições difíceis." },
+        { "level": "C1-C2", "fr": "C'est la révolte des canuts, en 1831, qui marqua l'histoire sociale de la France.", "pt": "Foi a revolta dos canuts, em 1831, que marcou a história social da França." }
+      ]
+    },
+    {
+      "term": "la soie",
+      "definitionPt": "a seda",
+      "definitionFr": "Tissu précieux produit par le ver à soie.",
+      "inflections": ["la soie", "les soies"],
+      "ptTargets": ["seda"],
+      "examples": [
+        { "level": "A1", "fr": "La soie est douce.", "pt": "A seda é macia." },
+        { "level": "A2-B1", "fr": "Lyon était célèbre pour ses soies.", "pt": "Lyon era famosa por suas sedas." },
+        { "level": "B1-B2", "fr": "Les soies de Lyon, qui ornaient les cours d'Europe, firent la richesse de la ville.", "pt": "As sedas de Lyon, que enfeitavam as cortes da Europa, fizeram a riqueza da cidade." },
+        { "level": "C1-C2", "fr": "C'est grâce à la soie que Lyon devint l'une des capitales économiques de l'Europe moderne.", "pt": "Foi graças à seda que Lyon se tornou uma das capitais econômicas da Europa moderna." }
+      ]
+    },
+    {
+      "term": "la quenelle",
+      "definitionPt": "a quenelle (prato lionês)",
+      "definitionFr": "Spécialité lyonnaise à base de poisson.",
+      "inflections": ["la quenelle", "les quenelles"],
+      "ptTargets": ["quenelle"],
+      "examples": [
+        { "level": "A1", "fr": "La quenelle est douce.", "pt": "A quenelle é macia." },
+        { "level": "A2-B1", "fr": "Andréa rêve d'une quenelle à la sauce Nantua.", "pt": "Andréa sonha com uma quenelle ao molho Nantua." },
+        { "level": "B1-B2", "fr": "Les quenelles, servies avec une sauce crémeuse, sont la fierté des bouchons.", "pt": "As quenelles, servidas com molho cremoso, são o orgulho dos bouchons." },
+        { "level": "C1-C2", "fr": "C'est avec la quenelle que la cuisine lyonnaise a conquis les tables du monde.", "pt": "É com a quenelle que a cozinha de Lyon conquistou as mesas do mundo." }
+      ]
+    },
+    {
+      "term": "scintiller",
+      "definitionPt": "cintilar, brilhar",
+      "definitionFr": "Briller d'une lumière tremblante.",
+      "inflections": ["je scintille", "nous scintillons"],
+      "ptTargets": ["cintilar", "brilhar", "cintilava"],
+      "examples": [
+        { "level": "A1", "fr": "Les étoiles scintillent.", "pt": "As estrelas cintilam." },
+        { "level": "A2-B1", "fr": "La ville scintillait dans la nuit.", "pt": "A cidade cintilava na noite." },
+        { "level": "B1-B2", "fr": "Les lumières, qui scintillaient sur les quais, se reflétaient dans la Saône.", "pt": "As luzes, que cintilavam nos cais, refletiam-se no Saône." },
+        { "level": "C1-C2", "fr": "C'est au crépuscule que Lyon scintille le plus, entre ses deux fleuves.", "pt": "É ao entardecer que Lyon mais cintila, entre seus dois rios." }
+      ]
+    },
+    {
+      "term": "murmurer",
+      "definitionPt": "murmurar",
+      "definitionFr": "Parler à voix basse.",
+      "inflections": ["je murmure", "nous murmurons"],
+      "ptTargets": ["murmurar", "murmurou"],
+      "examples": [
+        { "level": "A1", "fr": "Elle murmure une phrase.", "pt": "Ela murmura uma frase." },
+        { "level": "A2-B1", "fr": "Iris a murmuré : « Ce que je préfère, c'est cette vue. »", "pt": "Íris murmurou: « O que eu mais gosto é dessa vista. »" },
+        { "level": "B1-B2", "fr": "Elle murmurait, comme si elle parlait aux lumières de la ville.", "pt": "Ela murmurava, como se falasse às luzes da cidade." },
+        { "level": "C1-C2", "fr": "C'est en murmurant qu'il confia son émotion devant le panorama.", "pt": "Foi murmurando que ele confiou sua emoção diante do panorama." }
+      ]
+    },
+    {
+      "term": "la vue",
+      "definitionPt": "a vista",
+      "definitionFr": "Panorama que l'on voit d'un lieu.",
+      "inflections": ["la vue", "les vues"],
+      "ptTargets": ["vista"],
+      "examples": [
+        { "level": "A1", "fr": "La vue est belle.", "pt": "A vista é bonita." },
+        { "level": "A2-B1", "fr": "La vue de Fourvière est magnifique.", "pt": "A vista de Fourvière é magnífica." },
+        { "level": "B1-B2", "fr": "La vue, qui s'étend sur toute la ville, justifie la montée à la colline.", "pt": "A vista, que se estende por toda a cidade, justifica a subida à colina." },
+        { "level": "C1-C2", "fr": "C'est cette vue que les Lyonnais offrent à leurs visiteurs comme premier cadeau.", "pt": "É essa vista que os lionenses oferecem aos visitantes como primeiro presente." }
+      ]
+    },
+    {
+      "term": "le quai",
+      "definitionPt": "o cais",
+      "definitionFr": "Rive aménagée le long d'un cours d'eau.",
+      "inflections": ["le quai", "les quais"],
+      "ptTargets": ["cais"],
+      "examples": [
+        { "level": "A1", "fr": "Le quai est long.", "pt": "O cais é comprido." },
+        { "level": "A2-B1", "fr": "La famille a marché sur les quais de la Saône.", "pt": "A família caminhou pelos cais do Saône." },
+        { "level": "B1-B2", "fr": "Les quais, aménagés en promenade, sont le rendez-vous des joggers et des familles.", "pt": "Os cais, transformados em passeio, são o ponto de encontro de corredores e famílias." },
+        { "level": "C1-C2", "fr": "C'est le long des quais que l'on comprend le mieux l'histoire fluviale de Lyon.", "pt": "É ao longo dos cais que melhor se compreende a história fluvial de Lyon." }
+      ]
+    },
+    {
+      "term": "l'invention",
+      "definitionPt": "a invenção",
+      "definitionFr": "Création nouvelle.",
+      "inflections": ["l'invention", "les inventions"],
+      "ptTargets": ["invenção"],
+      "examples": [
+        { "level": "A1", "fr": "L'invention est grande.", "pt": "A invenção é grande." },
+        { "level": "A2-B1", "fr": "Le cinéma est une invention française.", "pt": "O cinema é uma invenção francesa." },
+        { "level": "B1-B2", "fr": "L'invention du cinéma, due aux frères Lumière, a bouleversé le monde.", "pt": "A invenção do cinema, devida aos irmãos Lumière, transformou o mundo." },
+        { "level": "C1-C2", "fr": "C'est à Lyon que l'invention du cinéma a eu lieu, en 1895.", "pt": "É em Lyon que a invenção do cinema aconteceu, em 1895." }
+      ]
+    },
+    {
+      "term": "le fleuve",
+      "definitionPt": "o rio (que deságua no mar)",
+      "definitionFr": "Cours d'eau qui se jette dans la mer.",
+      "inflections": ["le fleuve", "les fleuves"],
+      "ptTargets": ["rio"],
+      "examples": [
+        { "level": "A1", "fr": "Le fleuve est long.", "pt": "O rio é comprido." },
+        { "level": "A2-B1", "fr": "Le Rhône et la Saône sont deux fleuves.", "pt": "O Ródano e o Saône são dois rios." },
+        { "level": "B1-B2", "fr": "Les deux fleuves, qui se rejoignent à Lyon, dessinent la presqu'île.", "pt": "Os dois rios, que se encontram em Lyon, desenham a península." },
+        { "level": "C1-C2", "fr": "C'est au confluent des deux fleuves que se joue l'identité géographique de Lyon.", "pt": "É na confluência dos dois rios que se joga a identidade geográfica de Lyon." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Les phrases clivées : c'est... qui / c'est... que",
+    "explanationPt": "As frases clivadas destacam um elemento da frase: 'C'est à Lyon que le cinéma est né' (é em Lyon que o cinema nasceu), 'C'est demain que nous monterons' (é amanhã que subiremos). Estrutura: c'est + elemento destacado + qui (sujeito) ou que (complemento).",
+    "exampleFr": "C'est entre ces deux fleuves que Lyon a grandi.",
+    "examplePt": "É entre esses dois rios que Lyon cresceu.",
+    "practiceQuestion": "Complete: « C'est ___ Lyon que le cinéma est né. »",
+    "options": ["à", "de", "en"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "La topicalisation : ce dont je me souviens, c'est...",
+        "explanationPt": "Para destacar com 'o que... é': 'Ce dont je me souviens, c'est que Lyon est la capitale de la gastronomie' (o que eu me lembro é que...). Outra forma: 'Ce que je préfère, c'est cette vue'.",
+        "exampleFr": "Ce dont je rêve, c'est d'une quenelle à la sauce Nantua.",
+        "examplePt": "O que eu sonho é com uma quenelle ao molho Nantua.",
+        "practiceQuestion": "Complete: « Ce que je préfère, ___ cette vue. »",
+        "options": ["c'est", "il est", "ce sont pas"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "C'est... qui pour le sujet",
+        "explanationPt": "Quando o elemento destacado é o sujeito, usa-se 'qui': 'C'est Iris qui a couru vers la statue' (foi a Íris quem correu até a estátua).",
+        "exampleFr": "C'est Iris qui a couru vers la statue de Louis XIV.",
+        "examplePt": "Foi a Íris quem correu até a estátua de Luís XIV.",
+        "practiceQuestion": "Complete: « C'est Iris ___ a couru vers la statue. »",
+        "options": ["qui", "que", "où"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Quais são os dois rios de Lyon?",
+      "options": ["o Ródano e o Saône", "o Sena e o Marna", "o Garonne e o Loire"],
+      "correctIndex": 0,
+      "explanation": "Lyon fica entre o Ródano e o Saône, formando a presqu'île."
+    },
+    {
+      "question": "Qual é a maior praça de pedestres da Europa mencionada?",
+      "options": ["place Bellecour", "place du Capitole", "place de la Bourse"],
+      "correctIndex": 0,
+      "explanation": "A place Bellecour é uma das maiores praças de pedestres da Europa."
+    },
+    {
+      "question": "Quem inventou o cinema em Lyon?",
+      "options": ["os irmãos Lumière", "os irmãos Montgolfier", "os irmãos Grimm"],
+      "correctIndex": 0,
+      "explanation": "Os irmãos Lumière inventaram o cinema em Lyon, em 1895."
+    },
+    {
+      "question": "Complete: « C'est ___ Lyon que le cinéma est né. »",
+      "options": ["à", "de", "en"],
+      "correctIndex": 0,
+      "explanation": "Frases clivadas: C'est à Lyon que..."
+    },
+    {
+      "question": "O que Andréa sonha comer?",
+      "options": ["uma quenelle ao molho Nantua", "um cassoulet", "um welsh"],
+      "correctIndex": 0,
+      "explanation": "Andréa sonha com uma quenelle à sauce Nantua, especialidade de Lyon."
+    }
+  ]
+}

@@ -1,0 +1,252 @@
+{
+  "id": "paris_lesson_40",
+  "cityId": "paris",
+  "domain": "Festas & Família",
+  "level": "Iniciante (A1)",
+  "titleFr": "Noël en famille à Paris",
+  "titlePt": "O Natal em família em Paris",
+  "subtitleFr": "Le sapin, les cadeaux et le réveillon",
+  "subtitlePt": "A árvore, os presentes e a ceia",
+  "summaryPt": "Nesta Aula 40 (A1), a família prepara o Natal em Paris. O aluno aprende o vocabulário das festas de fim de ano (Noël, sapin, cadeau, réveillon, décembre, neige) e a expressão 'joyeux Noël' com o futur proche.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "En décembre, Paris se prépare pour Noël. Les rues sont décorées de lumières. La famille achète un grand sapin pour la maison. « Nous allons décorer le sapin ensemble ! » dit Iris, très contente.",
+      "pt": "Em dezembro, Paris se prepara para o Natal. As ruas são decoradas com luzes. A família compra um grande pinheiro para a casa. « Vamos enfeitar a árvore juntos! » diz Íris, muito contente."
+    },
+    {
+      "id": 2,
+      "fr": "Iris met des boules rouges et dorées sur le sapin. Irlan place l'étoile en haut. « Le réveillon, c'est le soir du 24 décembre, dit Andréa. Nous allons préparer un bon repas et chanter ensemble. »",
+      "pt": "Íris coloca bolas vermelhas e douradas na árvore. Irlan põe a estrela no topo. « A ceia é na noite de 24 de dezembro, diz Andréa. Vamos preparar uma boa refeição e cantar juntos. »"
+    },
+    {
+      "id": 3,
+      "fr": "Le soir de Noël, il neige doucement sur Paris. Après le repas, Iris regarde par la fenêtre : « Est-ce que le père Noël va venir ? » Andréa sourit : « Oui, il va passer pendant que tu dors. Demain matin, il y aura des cadeaux sous le sapin ! »",
+      "pt": "Na noite de Natal, neva suavemente sobre Paris. Depois da ceia, Íris olha pela janela: « O Papai Noel vai vir? » Andréa sorri: « Sim, ele vai passar enquanto você dorme. Amanhã de manhã, haverá presentes sob a árvore! »"
+    },
+    {
+      "id": 4,
+      "fr": "Le matin de Noël, Iris trouve des cadeaux sous le sapin. « Joyeux Noël, ma chérie ! » dit Irlan. Iris ouvre ses cadeaux avec joie et embrasse ses parents. « C'est le plus beau Noël de ma vie ! »",
+      "pt": "Na manhã de Natal, Íris encontra presentes sob a árvore. « Feliz Natal, minha querida! » diz Irlan. Íris abre seus presentes com alegria e beija os pais. « É o Natal mais lindo da minha vida! »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "Noël",
+      "definitionPt": "o Natal",
+      "definitionFr": "Fête du 25 décembre.",
+      "inflections": ["Noël", "les Noëls"],
+      "ptTargets": ["Natal"],
+      "examples": [
+        { "level": "A1", "fr": "Joyeux Noël !", "pt": "Feliz Natal!" },
+        { "level": "A2-B1", "fr": "Noël est une grande fête en France.", "pt": "O Natal é uma grande festa na França." },
+        { "level": "B2", "fr": "À Noël, les familles se réunissent autour du sapin.", "pt": "No Natal, as famílias se reúnem em volta da árvore." },
+        { "level": "C1-C2", "fr": "C'est Noël qui, chaque année, réchauffe les cœurs en hiver.", "pt": "É o Natal que, a cada ano, aquece os corações no inverno." }
+      ]
+    },
+    {
+      "term": "le sapin",
+      "definitionPt": "o pinheiro (árvore de Natal)",
+      "definitionFr": "Arbre décoré pour Noël.",
+      "inflections": ["le sapin", "un sapin", "des sapins"],
+      "ptTargets": ["pinheiro", "árvore de Natal"],
+      "examples": [
+        { "level": "A1", "fr": "Le sapin est vert.", "pt": "O pinheiro é verde." },
+        { "level": "A2-B1", "fr": "La famille décore le sapin.", "pt": "A família enfeita o pinheiro." },
+        { "level": "B2", "fr": "Le sapin, décoré, illumine le salon de Noël.", "pt": "O pinheiro, enfeitado, ilumina a sala de Natal." },
+        { "level": "C1-C2", "fr": "C'est le sapin qui, au centre du salon, réunit toute la famille.", "pt": "É o pinheiro que, no centro da sala, reúne toda a família." }
+      ]
+    },
+    {
+      "term": "le réveillon",
+      "definitionPt": "a ceia de Natal",
+      "definitionFr": "Repas du soir de Noël.",
+      "inflections": ["le réveillon", "un réveillon", "des réveillons"],
+      "ptTargets": ["ceia de Natal", "réveillon"],
+      "examples": [
+        { "level": "A1", "fr": "Le réveillon est le soir du 24 décembre.", "pt": "A ceia é na noite de 24 de dezembro." },
+        { "level": "A2-B1", "fr": "La famille prépare le réveillon ensemble.", "pt": "A família prepara a ceia juntos." },
+        { "level": "B2", "fr": "Le réveillon, festif, se termine tard dans la nuit.", "pt": "A ceia, festiva, termina tarde na noite." },
+        { "level": "C1-C2", "fr": "C'est le réveillon qui, gourmand, rassemble les générations.", "pt": "É a ceia que, gulosa, reúne as gerações." }
+      ]
+    },
+    {
+      "term": "le père Noël",
+      "definitionPt": "o Papai Noel",
+      "definitionFr": "Personnage qui apporte les cadeaux.",
+      "inflections": ["le père Noël"],
+      "ptTargets": ["Papai Noel"],
+      "examples": [
+        { "level": "A1", "fr": "Le père Noël apporte des cadeaux.", "pt": "O Papai Noel traz presentes." },
+        { "level": "A2-B1", "fr": "Le père Noël passe pendant la nuit.", "pt": "O Papai Noel passa durante a noite." },
+        { "level": "B2", "fr": "Les enfants attendent le père Noël avec impatience.", "pt": "As crianças esperam o Papai Noel com impaciência." },
+        { "level": "C1-C2", "fr": "C'est le père Noël qui, légendaire, habite l'enfance des peuples.", "pt": "É o Papai Noel que, lendário, habita a infância dos povos." }
+      ]
+    },
+    {
+      "term": "l'étoile",
+      "definitionPt": "a estrela",
+      "definitionFr": "Objet lumineux dans le ciel.",
+      "inflections": ["l'étoile", "une étoile", "des étoiles"],
+      "ptTargets": ["estrela"],
+      "examples": [
+        { "level": "A1", "fr": "L'étoile est dorée.", "pt": "A estrela é dourada." },
+        { "level": "A2-B1", "fr": "L'étoile est en haut du sapin.", "pt": "A estrela fica no topo da árvore." },
+        { "level": "B2", "fr": "Les étoiles, brillantes, éclairent le ciel d'hiver.", "pt": "As estrelas, brilhantes, iluminam o céu de inverno." },
+        { "level": "C1-C2", "fr": "C'est l'étoile qui, au sommet, guide la fête de Noël.", "pt": "É a estrela que, no topo, guia a festa de Natal." }
+      ]
+    },
+    {
+      "term": "la boule",
+      "definitionPt": "a bola (de enfeite)",
+      "definitionFr": "Décoration ronde pour le sapin.",
+      "inflections": ["la boule", "une boule", "des boules"],
+      "ptTargets": ["bola", "enfeite"],
+      "examples": [
+        { "level": "A1", "fr": "La boule est rouge.", "pt": "A bola é vermelha." },
+        { "level": "A2-B1", "fr": "Les boules décorent le sapin.", "pt": "As bolas enfeitam a árvore." },
+        { "level": "B2", "fr": "Les boules de Noël, délicates, brillent sous les lumières.", "pt": "As bolas de Natal, delicadas, brilham sob as luzes." },
+        { "level": "C1-C2", "fr": "C'est la boule qui, accrochée, ajoute sa touche de magie.", "pt": "É a bola que, pendurada, acrescenta seu toque de magia." }
+      ]
+    },
+    {
+      "term": "décorer",
+      "definitionPt": "enfeitar (decorar)",
+      "definitionFr": "Rendre plus beau.",
+      "inflections": ["décorer", "je décore", "nous décorons"],
+      "ptTargets": ["enfeitar", "decorar"],
+      "examples": [
+        { "level": "A1", "fr": "Je décore le sapin.", "pt": "Eu enfeito a árvore." },
+        { "level": "A2-B1", "fr": "Nous allons décorer le sapin ensemble.", "pt": "Vamos enfeitar a árvore juntos." },
+        { "level": "B2", "fr": "Les rues de Paris se décorent pour Noël.", "pt": "As ruas de Paris se enfeitam para o Natal." },
+        { "level": "C1-C2", "fr": "C'est en décorant que l'on prépare la fête avec amour.", "pt": "É enfeitando que se prepara a festa com amor." }
+      ]
+    },
+    {
+      "term": "le cadeau",
+      "definitionPt": "o presente",
+      "definitionFr": "Objet offert.",
+      "inflections": ["le cadeau", "un cadeau", "des cadeaux"],
+      "ptTargets": ["presente"],
+      "examples": [
+        { "level": "A1", "fr": "Le cadeau est sous le sapin.", "pt": "O presente está sob a árvore." },
+        { "level": "A2-B1", "fr": "Le père Noël apporte des cadeaux.", "pt": "O Papai Noel traz presentes." },
+        { "level": "B2", "fr": "Les cadeaux de Noël sont ouverts le matin du 25.", "pt": "Os presentes de Natal são abertos na manhã do dia 25." },
+        { "level": "C1-C2", "fr": "C'est le cadeau qui, offert avec le cœur, vaut plus que sa valeur.", "pt": "É o presente que, oferecido com o coração, vale mais que seu valor." }
+      ]
+    },
+    {
+      "term": "décembre",
+      "definitionPt": "o dezembro",
+      "definitionFr": "Dernier mois de l'année.",
+      "inflections": ["décembre", "en décembre"],
+      "ptTargets": ["dezembro"],
+      "examples": [
+        { "level": "A1", "fr": "Noël est en décembre.", "pt": "O Natal é em dezembro." },
+        { "level": "A2-B1", "fr": "En décembre, Paris est décorée de lumières.", "pt": "Em dezembro, Paris é decorada com luzes." },
+        { "level": "B2", "fr": "Le mois de décembre est le plus festif de l'année.", "pt": "O mês de dezembro é o mais festivo do ano." },
+        { "level": "C1-C2", "fr": "C'est en décembre que l'année se clôt en beauté.", "pt": "É em dezembro que o ano se encerra com beleza." }
+      ]
+    },
+    {
+      "term": "la nuit",
+      "definitionPt": "a noite",
+      "definitionFr": "Période sombre du jour.",
+      "inflections": ["la nuit", "une nuit", "des nuits"],
+      "ptTargets": ["noite"],
+      "examples": [
+        { "level": "A1", "fr": "La nuit est calme.", "pt": "A noite é calma." },
+        { "level": "A2-B1", "fr": "Le père Noël passe pendant la nuit.", "pt": "O Papai Noel passa durante a noite." },
+        { "level": "B2", "fr": "La nuit de Noël est la plus attendue des enfants.", "pt": "A noite de Natal é a mais esperada das crianças." },
+        { "level": "C1-C2", "fr": "C'est la nuit qui, magique, garde le secret des cadeaux.", "pt": "É a noite que, mágica, guarda o segredo dos presentes." }
+      ]
+    },
+    {
+      "term": "la joie",
+      "definitionPt": "a alegria",
+      "definitionFr": "Sentiment de bonheur.",
+      "inflections": ["la joie", "une joie", "des joies"],
+      "ptTargets": ["alegria"],
+      "examples": [
+        { "level": "A1", "fr": "La joie est grande.", "pt": "A alegria é grande." },
+        { "level": "A2-B1", "fr": "Iris ouvre ses cadeaux avec joie.", "pt": "Íris abre seus presentes com alegria." },
+        { "level": "B2", "fr": "La joie de Noël se lit dans les yeux des enfants.", "pt": "A alegria do Natal se lê nos olhos das crianças." },
+        { "level": "C1-C2", "fr": "C'est la joie qui, partagée, rend la fête inoubliable.", "pt": "É a alegria que, partilhada, torna a festa inesquecível." }
+      ]
+    },
+    {
+      "term": "l'hiver",
+      "definitionPt": "o inverno",
+      "definitionFr": "Saison froide.",
+      "inflections": ["l'hiver", "un hiver", "des hivers"],
+      "ptTargets": ["inverno"],
+      "examples": [
+        { "level": "A1", "fr": "Noël est en hiver.", "pt": "O Natal é no inverno." },
+        { "level": "A2-B1", "fr": "En hiver, il neige parfois sur Paris.", "pt": "No inverno, às vezes neva sobre Paris." },
+        { "level": "B2", "fr": "L'hiver parisien, froid et doux, est la saison de Noël.", "pt": "O inverno parisiense, frio e suave, é a estação do Natal." },
+        { "level": "C1-C2", "fr": "C'est l'hiver qui, enneigé, rend Noël encore plus magique.", "pt": "É o inverno que, nevado, torna o Natal ainda mais mágico." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Le futur proche : aller + infinitif",
+    "explanationPt": "Para o futuro próximo: 'aller' + infinitivo. Ex.: 'Nous allons décorer le sapin' (vamos enfeitar a árvore), 'Le père Noël va passer' (o Papai Noel vai passar), 'Il va neiger' (vai nevar).",
+    "exampleFr": "Nous allons décorer le sapin ensemble ! Le père Noël va passer pendant que tu dors.",
+    "examplePt": "Vamos enfeitar a árvore juntos! O Papai Noel vai passar enquanto você dorme.",
+    "practiceQuestion": "Complete: 'Nous _____ décorer le sapin.'",
+    "options": ["allons", "allons pas", "allez"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "Joyeux Noël : os votos de festa",
+        "explanationPt": "Votos de fim de ano: 'Joyeux Noël !' (feliz Natal!), 'Bonne année !' (feliz ano novo!), 'Meilleurs vœux !' (melhores votos!).",
+        "exampleFr": "Joyeux Noël, ma chérie !",
+        "examplePt": "Feliz Natal, minha querida!",
+        "practiceQuestion": "Complete: '_____ Noël, ma chérie !'",
+        "options": ["Joyeux", "Joyeuse", "Heureux"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "Il y aura : o futuro de il y a",
+        "explanationPt": "O futuro de 'il y a' é 'il y aura' (haverá). Ex.: 'Demain matin, il y aura des cadeaux sous le sapin.'",
+        "exampleFr": "Demain matin, il y aura des cadeaux sous le sapin.",
+        "examplePt": "Amanhã de manhã, haverá presentes sob a árvore.",
+        "practiceQuestion": "Complete: 'Il y _____ des cadeaux sous le sapin.'",
+        "options": ["aura", "a", "avait"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Quando é o réveillon?",
+      "options": ["na noite de 24 de dezembro", "no dia 1º de janeiro", "em junho"],
+      "correctIndex": 0,
+      "explanation": "Le réveillon est le soir du 24 décembre."
+    },
+    {
+      "question": "Quem coloca a estrela no topo da árvore?",
+      "options": ["Irlan", "Íris", "Andréa"],
+      "correctIndex": 0,
+      "explanation": "Irlan place l'étoile en haut du sapin."
+    },
+    {
+      "question": "Quando o pai Noel passa?",
+      "options": ["enquanto as crianças dormem", "de manhã cedo", "na escola"],
+      "correctIndex": 0,
+      "explanation": "Le père Noël va passer pendant que tu dors."
+    },
+    {
+      "question": "Complete: 'Nous _____ décorer le sapin.'",
+      "options": ["allons", "allons pas", "allez"],
+      "correctIndex": 0,
+      "explanation": "Futur proche: aller + infinitivo."
+    },
+    {
+      "question": "Complete: 'Il y _____ des cadeaux sous le sapin.'",
+      "options": ["aura", "a", "avait"],
+      "correctIndex": 0,
+      "explanation": "Futuro de il y a: il y aura."
+    }
+  ]
+}

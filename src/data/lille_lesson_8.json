@@ -1,0 +1,252 @@
+{
+  "id": "lille_lesson_8",
+  "cityId": "lille",
+  "domain": "Arte e Cultura",
+  "level": "Básico (A2)",
+  "titleFr": "La Piscine de Roubaix : l'art dans une ancienne usine",
+  "titlePt": "A Piscine de Roubaix: a arte em uma antiga fábrica",
+  "subtitleFr": "Un musée unique dans une ancienne piscine Art déco, au cœur de la ville textile",
+  "subtitlePt": "Um museu único em uma antiga piscina Art déco, no coração da cidade têxtil",
+  "summaryPt": "Nesta Aula 8 (A2), a família pega o metrô até Roubaix e visita La Piscine, um museu instalado em uma antiga piscina Art déco e em uma antiga fábrica têxtil. Eles admiram as coleções de tecidos e esculturas. O aluno pratica a concordância do particípio passado com être e a descrição no passado com 'c'était'.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Hier, nous avons pris le métro jusqu'à Roubaix. La Piscine est un musée unique : elle est installée dans une ancienne piscine Art déco et une ancienne usine textile.",
+      "pt": "Ontem, pegamos o metrô até Roubaix. A Piscine é um museu único: está instalado em uma antiga piscina Art déco e em uma antiga fábrica têxtil."
+    },
+    {
+      "id": 2,
+      "fr": "Nous sommes entrés dans le grand bassin transformé en salle d'exposition. Les sculptures étaient disposées autour de l'eau.",
+      "pt": "Entramos na grande piscina transformada em sala de exposição. As esculturas estavam dispostas ao redor da água."
+    },
+    {
+      "id": 3,
+      "fr": "La visite a montré l'histoire du textile. Andréa est restée longtemps devant les tissus anciens. Íris est partie à la recherche des statues colorées.",
+      "pt": "A visita mostrou a história do têxtil. Andréa ficou muito tempo diante dos tecidos antigos. Íris saiu à procura das estátuas coloridas."
+    },
+    {
+      "id": 4,
+      "fr": "C'était une matinée magnifique. Nous sommes sortis du musée avec de belles images plein la tête et quelques cartes postales.",
+      "pt": "Foi uma manhã magnífica. Saímos do museu com belas imagens na cabeça e alguns cartões-postais."
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "la piscine",
+      "definitionPt": "a piscina",
+      "definitionFr": "Bassin pour nager.",
+      "inflections": ["la piscine", "les piscines"],
+      "ptTargets": ["piscina"],
+      "examples": [
+        { "level": "A1", "fr": "La piscine est grande.", "pt": "A piscina é grande." },
+        { "level": "A2-B1", "fr": "La Piscine de Roubaix est un musée très connu.", "pt": "A Piscine de Roubaix é um museu muito conhecido." },
+        { "level": "B2", "fr": "L'ancienne piscine a été transformée en musée d'art et d'industrie.", "pt": "A antiga piscina foi transformada em museu de arte e indústria." },
+        { "level": "C1-C2", "fr": "La reconversion de la piscine en musée illustre la renaissance culturelle de Roubaix.", "pt": "A reconversão da piscina em museu ilustra o renascimento cultural de Roubaix." }
+      ]
+    },
+    {
+      "term": "la collection",
+      "definitionPt": "a coleção",
+      "definitionFr": "Ensemble d'objets ou d'œuvres réunis.",
+      "inflections": ["la collection", "les collections"],
+      "ptTargets": ["coleção"],
+      "examples": [
+        { "level": "A1", "fr": "La collection est riche.", "pt": "A coleção é rica." },
+        { "level": "A2-B1", "fr": "Le musée possède une belle collection de sculptures.", "pt": "O museu possui uma bela coleção de esculturas." },
+        { "level": "B2", "fr": "La collection de tissus retrace l'histoire industrielle de la région.", "pt": "A coleção de tecidos reconstrói a história industrial da região." },
+        { "level": "C1-C2", "fr": "La collection réunit art, industrie et mémoire ouvrière dans un dialogue inédit.", "pt": "A coleção reúne arte, indústria e memória operária em um diálogo inédito." }
+      ]
+    },
+    {
+      "term": "la visite",
+      "definitionPt": "a visita",
+      "definitionFr": "Action de visiter un lieu.",
+      "inflections": ["la visite", "les visites"],
+      "ptTargets": ["visita"],
+      "examples": [
+        { "level": "A1", "fr": "La visite est longue.", "pt": "A visita é longa." },
+        { "level": "A2-B1", "fr": "La visite du musée a duré deux heures.", "pt": "A visita ao museu durou duas horas." },
+        { "level": "B2", "fr": "La visite guidée permet de comprendre l'histoire du bâtiment.", "pt": "A visita guiada permite compreender a história do edifício." },
+        { "level": "C1-C2", "fr": "La scénographie de la visite transforme la mémoire industrielle en expérience esthétique.", "pt": "A cenografia da visita transforma a memória industrial em experiência estética." }
+      ]
+    },
+    {
+      "term": "le textile",
+      "definitionPt": "o têxtil",
+      "definitionFr": "Industrie du tissu et des étoffes.",
+      "inflections": ["le textile", "les textiles"],
+      "ptTargets": ["têxtil"],
+      "examples": [
+        { "level": "A1", "fr": "Le textile est important ici.", "pt": "O têxtil é importante aqui." },
+        { "level": "A2-B1", "fr": "Roubaix était une grande ville textile.", "pt": "Roubaix era uma grande cidade têxtil." },
+        { "level": "B2", "fr": "L'industrie textile a fait la richesse de la région au XIXe siècle.", "pt": "A indústria têxtil fez a riqueza da região no século XIX." },
+        { "level": "C1-C2", "fr": "Le patrimoine textile de Roubaix témoigne d'une ère industrielle révolue mais fondatrice.", "pt": "O patrimônio têxtil de Roubaix testemunha uma era industrial passada, mas fundadora." }
+      ]
+    },
+    {
+      "term": "l'usine",
+      "definitionPt": "a fábrica",
+      "definitionFr": "Bâtiment où l'on fabrique des produits.",
+      "inflections": ["l'usine", "les usines"],
+      "ptTargets": ["fábrica"],
+      "examples": [
+        { "level": "A1", "fr": "L'usine est grande.", "pt": "A fábrica é grande." },
+        { "level": "A2-B1", "fr": "Le musée est installé dans une ancienne usine textile.", "pt": "O museu está instalado em uma antiga fábrica têxtil." },
+        { "level": "B2", "fr": "Les anciennes usines du Nord ont été transformées en lieux culturels.", "pt": "As antigas fábricas do Norte foram transformadas em lugares culturais." },
+        { "level": "C1-C2", "fr": "La réhabilitation des friches industrielles est devenue un enjeu majeur des villes post-industrielles.", "pt": "A reabilitação dos terrenos industriais tornou-se um desafio importante das cidades pós-industriais." }
+      ]
+    },
+    {
+      "term": "le tissu",
+      "definitionPt": "o tecido",
+      "definitionFr": "Étoffe, matériau textile.",
+      "inflections": ["le tissu", "les tissus"],
+      "ptTargets": ["tecido"],
+      "examples": [
+        { "level": "A1", "fr": "Le tissu est doux.", "pt": "O tecido é macio." },
+        { "level": "A2-B1", "fr": "Les tissus anciens sont magnifiques.", "pt": "Os tecidos antigos são magníficos." },
+        { "level": "B2", "fr": "La collection de tissus montre l'évolution des techniques de fabrication.", "pt": "A coleção de tecidos mostra a evolução das técnicas de fabricação." },
+        { "level": "C1-C2", "fr": "L'étude des tissus anciens révèle les échanges commerciaux entre la région et le monde.", "pt": "O estudo dos tecidos antigos revela as trocas comerciais entre a região e o mundo." }
+      ]
+    },
+    {
+      "term": "la mode",
+      "definitionPt": "a moda",
+      "definitionFr": "Manière de s'habiller en vogue.",
+      "inflections": ["la mode", "les modes"],
+      "ptTargets": ["moda"],
+      "examples": [
+        { "level": "A1", "fr": "La mode change.", "pt": "A moda muda." },
+        { "level": "A2-B1", "fr": "La région du Nord a longtemps été capitale de la mode.", "pt": "A região do Norte foi por muito tempo capital da moda." },
+        { "level": "B2", "fr": "Le musée conserve des pièces de mode du XIXe siècle.", "pt": "O museu conserva peças de moda do século XIX." },
+        { "level": "C1-C2", "fr": "L'industrie de la mode à Roubaix a révolutionné la production vestimentaire européenne.", "pt": "A indústria da moda em Roubaix revolucionou a produção de vestuário europeia." }
+      ]
+    },
+    {
+      "term": "découvrir",
+      "definitionPt": "descobrir",
+      "definitionFr": "Trouver quelque chose de nouveau.",
+      "inflections": ["je découvre", "nous découvrons", "découvert"],
+      "ptTargets": ["descobrir"],
+      "examples": [
+        { "level": "A1", "fr": "Je découvre le musée.", "pt": "Eu descubro o museu." },
+        { "level": "A2-B1", "fr": "Nous avons découvert l'histoire du textile.", "pt": "Nós descobrimos a história do têxtil." },
+        { "level": "B2", "fr": "Chaque salle permet de découvrir une époque différente.", "pt": "Cada sala permite descobrir uma época diferente." },
+        { "level": "C1-C2", "fr": "Découvrir ce musée insolite change complètement l'image de la ville industrielle.", "pt": "Descobrir este museu inusitado muda completamente a imagem da cidade industrial." }
+      ]
+    },
+    {
+      "term": "l'architecte",
+      "definitionPt": "o arquiteto",
+      "definitionFr": "Personne qui conçoit des bâtiments.",
+      "inflections": ["l'architecte", "les architectes"],
+      "ptTargets": ["arquiteto"],
+      "examples": [
+        { "level": "A1", "fr": "L'architecte dessine.", "pt": "O arquiteto desenha." },
+        { "level": "A2-B1", "fr": "L'architecte a gardé le bassin de la piscine.", "pt": "O arquiteto preservou a piscina." },
+        { "level": "B2", "fr": "L'architecte a transformé l'usine sans détruire sa mémoire.", "pt": "O arquiteto transformou a fábrica sem destruir sua memória." },
+        { "level": "C1-C2", "fr": "L'architecte contemporain dialogue avec l'héritage industriel pour créer un lieu hybride.", "pt": "O arquiteto contemporâneo dialoga com o legado industrial para criar um lugar híbrido." }
+      ]
+    },
+    {
+      "term": "le bâtiment",
+      "definitionPt": "o edifício",
+      "definitionFr": "Construction, immeuble.",
+      "inflections": ["le bâtiment", "les bâtiments"],
+      "ptTargets": ["edifício"],
+      "examples": [
+        { "level": "A1", "fr": "Le bâtiment est vieux.", "pt": "O edifício é antigo." },
+        { "level": "A2-B1", "fr": "Le bâtiment Art déco est superbe.", "pt": "O edifício Art déco é soberbo." },
+        { "level": "B2", "fr": "Le bâtiment mélange briques rouges et béton moderne.", "pt": "O edifício mistura tijolos vermelhos e concreto moderno." },
+        { "level": "C1-C2", "fr": "La sauvegarde de ce bâtiment industriel représente un geste patrimonial et social fort.", "pt": "A preservação deste edifício industrial representa um gesto patrimonial e social forte." }
+      ]
+    },
+    {
+      "term": "la lumière",
+      "definitionPt": "a luz",
+      "definitionFr": "Clarté qui éclaire.",
+      "inflections": ["la lumière", "les lumières"],
+      "ptTargets": ["luz"],
+      "examples": [
+        { "level": "A1", "fr": "La lumière est belle.", "pt": "A luz é bonita." },
+        { "level": "A2-B1", "fr": "La lumière du matin éclaire les sculptures.", "pt": "A luz da manhã ilumina as esculturas." },
+        { "level": "B2", "fr": "Les grandes baies vitrées laissent entrer la lumière naturelle.", "pt": "As grandes janelas deixam entrar a luz natural." },
+        { "level": "C1-C2", "fr": "Le jeu de la lumière sur l'eau du bassin crée une atmosphère unique au musée.", "pt": "O jogo da luz sobre a água da piscina cria uma atmosfera única no museu." }
+      ]
+    },
+    {
+      "term": "le bassin",
+      "definitionPt": "a bacia, o tanque (de piscina)",
+      "definitionFr": "Grand récipient ou partie d'une piscine.",
+      "inflections": ["le bassin", "les bassins"],
+      "ptTargets": ["tanque"],
+      "examples": [
+        { "level": "A1", "fr": "Le bassin est plein d'eau.", "pt": "O tanque está cheio de água." },
+        { "level": "A2-B1", "fr": "Le grand bassin est devenu une salle d'exposition.", "pt": "A grande piscina tornou-se uma sala de exposição." },
+        { "level": "B2", "fr": "Les sculptures sont disposées autour du bassin central.", "pt": "As esculturas estão dispostas ao redor do tanque central." },
+        { "level": "C1-C2", "fr": "Le bassin conserve sa fonction de miroir d'eau, soulignant la majesté du lieu.", "pt": "O tanque mantém sua função de espelho d'água, destacando a majestade do lugar." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "L'accord du participe passé avec ÊTRE",
+    "explanationPt": "Com o auxiliar être, o particípio passado concorda em gênero e número com o sujeito: 'Andréa est restée', 'Íris est partie', 'nous sommes sortis'.",
+    "exampleFr": "Andréa est restée longtemps devant les tissus.",
+    "examplePt": "Andréa ficou muito tempo diante dos tecidos.",
+    "practiceQuestion": "Complete: « Íris est ___ à la recherche des statues. »",
+    "options": ["partie", "parti", "partis"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "L'accord avec le sujet féminin",
+        "explanationPt": "Sujeito feminino singular → particípio + e: 'elle est entrée', 'elle est sortie', 'elle est partie'.",
+        "exampleFr": "Andréa est entrée dans la salle des tissus.",
+        "examplePt": "Andréa entrou na sala dos tecidos.",
+        "practiceQuestion": "Qual frase está correta?",
+        "options": ["Íris est sortie du musée.", "Íris est sorti du musée.", "Íris est sorties du musée."],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "L'accord avec le sujet pluriel",
+        "explanationPt": "Sujeito plural → particípio + s: 'nous sommes sortis', 'elles sont restées'.",
+        "exampleFr": "Nous sommes sortis du musée avec des cartes postales.",
+        "examplePt": "Saímos do museu com cartões-postais.",
+        "practiceQuestion": "Complete: « Les visiteurs sont ___ . »",
+        "options": ["entrés", "entré", "entrée"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Onde fica La Piscine de Roubaix?",
+      "options": ["em uma antiga piscina Art déco", "em um castelo", "em uma igreja"],
+      "correctIndex": 0,
+      "explanation": "O museu está instalado em uma antiga piscina Art déco e uma antiga fábrica têxtil."
+    },
+    {
+      "question": "Qual foi o papel de Roubaix no passado?",
+      "options": ["grande cidade têxtil", "cidade portuária", "estação de esqui"],
+      "correctIndex": 0,
+      "explanation": "Roubaix foi uma grande cidade têxtil, capital da moda."
+    },
+    {
+      "question": "Complete com a concordância: « Andréa est ___ devant les tissus. »",
+      "options": ["restée", "resté", "restés"],
+      "correctIndex": 0,
+      "explanation": "Sujeito feminino singular: restée."
+    },
+    {
+      "question": "O que a família comprou na saída do museu?",
+      "options": ["cartões-postais", "tecidos", "esculturas"],
+      "correctIndex": 0,
+      "explanation": "Saíram com belas imagens e alguns cartões-postais."
+    },
+    {
+      "question": "Como a família foi até Roubaix?",
+      "options": ["de metrô", "de scooter", "de avião"],
+      "correctIndex": 0,
+      "explanation": "Eles pegaram o metrô até Roubaix."
+    }
+  ]
+}

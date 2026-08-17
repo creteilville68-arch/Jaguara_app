@@ -1,0 +1,237 @@
+{
+  "id": "bordeaux_lesson_36",
+  "cityId": "bordeaux",
+  "domain": "Gastronomia",
+  "level": "Intermediário (B1+)",
+  "titleFr": "La cuisine bordelaise : l'entrecôte à la bordelaise",
+  "titlePt": "A cozinha bordelesa: a entrecôte à bordelesa",
+  "subtitleFr": "En cuisine, Bordeaux se goûte aussi avec les yeux",
+  "subtitlePt": "Na cozinha, Bordeaux também se prova com os olhos",
+  "summaryPt": "Nesta Aula 36 (B1+), a família cozinha um prato típico de Bordeaux: a entrecôte à la bordelaise, com sua famosa manteiga de vinho e chalotas. O aluno pratica o vocabulário da cozinha (la casserole, la sauce, les herbes) e o imperativo com os pronomes.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "« Ce soir, on cuisine un vrai plat bordelais », a annoncé Andréa. « L'entrecôte à la bordelaise : une viande grillée avec une sauce au vin et aux échalotes. » Iris a mis son tablier : « Je suis prête à aider ! »",
+      "pt": "« Hoje à noite, vamos cozinhar um prato bordelês de verdade », anunciou Andréa. « A entrecôte à bordelesa: uma carne grelhada com molho de vinho e chalotas. » Íris vestiu seu avental: « Estou pronta para ajudar! »"
+    },
+    {
+      "id": 2,
+      "fr": "« D'abord, fais fondre le beurre doucement », a dit Andréa. « Ensuite, ajoute les échalotes. » Iris a remué la casserole. « Ça sent déjà bon ! » « Grâce au vin, la sauce sera parfumée », a expliqué son père. « Prends-en un peu, tu l'ajouteras à la fin. »",
+      "pt": "« Primeiro, derreta a manteiga devagar », disse Andréa. « Depois, acrescente as chalotas. » Íris mexeu a panela. « Já cheira bem! » « Graças ao vinho, o molho ficará perfumado », explicou o pai. « Pegue um pouco, você o acrescentará no final. »"
+    },
+    {
+      "id": 3,
+      "fr": "« Ajoute-y le persil », a dit Andréa. « Et donne-le-moi, le sel, s'il te plaît. » Iris a tendu la salière. « Tu te débrouilles très bien en cuisine », a souri sa mère. « C'est parce que je regarde et j'écoute », a répondu Iris.",
+      "pt": "« Acrescente a salsa », disse Andréa. « E me dê o sal, por favor. » Íris estendeu o saleiro. « Você se vira muito bem na cozinha », sorriu a mãe. « É porque eu olho e escuto », respondeu Íris."
+    },
+    {
+      "id": 4,
+      "fr": "Le plat est sorti du four, tout doré. « Goûte-le, papa, et dis-nous ce que tu en penses ! » Irlan a goûté lentement. « C'est le goût de Bordeaux », a-t-il dit. « Le vin, les échalotes, la viande… et la famille. »",
+      "pt": "O prato saiu do forno, bem dourado. « Prove, papai, e nos diga o que acha! » Irlan provou devagar. « É o gosto de Bordeaux », disse. « O vinho, as chalotas, a carne… e a família. »"
+    },
+    {
+      "id": 5,
+      "fr": "« Quand j'étais livreur, je livrais des plats comme celui-ci », a dit Irlan. « Ils arrivaient chauds, mais je n'en goûtais jamais. » Iris a rempli une assiette : « Alors, mange, papa. Aujourd'hui, le livreur est à table ! »",
+      "pt": "« Quando eu era entregador, entregava pratos como este », disse Irlan. « Chegavam quentes, mas eu nunca os provava. » Íris encheu um prato: « Então, coma, papai. Hoje, o entregador está à mesa! »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "la cuisine",
+      "definitionPt": "a cozinha; a culinária",
+      "definitionFr": "Pièce où l'on prépare les repas.",
+      "inflections": ["la cuisine", "une cuisine", "des cuisines"],
+      "ptTargets": ["cozinha", "culinária"],
+      "examples": [
+        { "level": "A1", "fr": "La cuisine est propre.", "pt": "A cozinha está limpa." },
+        { "level": "A2-B1", "fr": "La cuisine bordelaise est célèbre.", "pt": "A culinária bordelesa é famosa." },
+        { "level": "B1", "fr": "La cuisine dans laquelle l'on cuisine sent bon.", "pt": "A cozinha na qual se cozinha cheira bem." },
+        { "level": "C1-C2", "fr": "La cuisine, théâtre du goût, transforme les ingrédients en souvenirs.", "pt": "A cozinha, teatro do gosto, transforma os ingredientes em lembranças." }
+      ]
+    },
+    {
+      "term": "l'entrecôte",
+      "definitionPt": "a entrecôte (bife)",
+      "definitionFr": "Morceau de bœuf grillé.",
+      "inflections": ["l'entrecôte", "une entrecôte", "des entrecôtes"],
+      "ptTargets": ["entrecôte", "bife"],
+      "examples": [
+        { "level": "A1", "fr": "L'entrecôte est chaude.", "pt": "A entrecôte está quente." },
+        { "level": "A2-B1", "fr": "L'entrecôte à la bordelaise est un plat célèbre.", "pt": "A entrecôte à bordelesa é um prato famoso." },
+        { "level": "B1", "fr": "L'entrecôte que l'on grille est tendre.", "pt": "A entrecôte que se grelha é macia." },
+        { "level": "C1-C2", "fr": "L'entrecôte, reine du grill, doit sa gloire à la sauce qui l'accompagne.", "pt": "A entrecôte, rainha da grelha, deve sua glória ao molho que a acompanha." }
+      ]
+    },
+    {
+      "term": "la sauce",
+      "definitionPt": "o molho",
+      "definitionFr": "Préparation liquide qui accompagne un plat.",
+      "inflections": ["la sauce", "une sauce", "des sauces"],
+      "ptTargets": ["molho"],
+      "examples": [
+        { "level": "A1", "fr": "La sauce est bonne.", "pt": "O molho é bom." },
+        { "level": "A2-B1", "fr": "La sauce au vin est parfumée.", "pt": "O molho de vinho é perfumado." },
+        { "level": "B1", "fr": "La sauce que l'on prépare demande de la patience.", "pt": "O molho que se prepara exige paciência." },
+        { "level": "C1-C2", "fr": "La sauce, musique du plat, lie les saveurs comme les notes d'un accord.", "pt": "O molho, música do prato, liga os sabores como as notas de um acorde." }
+      ]
+    },
+    {
+      "term": "l'échalote",
+      "definitionPt": "a chalota",
+      "definitionFr": "Petit oignon fin.",
+      "inflections": ["l'échalote", "une échalote", "des échalotes"],
+      "ptTargets": ["chalota"],
+      "examples": [
+        { "level": "A1", "fr": "L'échalote est petite.", "pt": "A chalota é pequena." },
+        { "level": "A2-B1", "fr": "Les échalotes parfument la sauce.", "pt": "As chalotas perfumam o molho." },
+        { "level": "B1", "fr": "Les échalotes que l'on coupe font pleurer.", "pt": "As chalotas que se cortam fazem chorar." },
+        { "level": "C1-C2", "fr": "L'échalote, complice du vin, donne au plat bordelais sa note secrète.", "pt": "A chalota, cúmplice do vinho, dá ao prato bordelês sua nota secreta." }
+      ]
+    },
+    {
+      "term": "le beurre",
+      "definitionPt": "a manteiga",
+      "definitionFr": "Matière grasse du lait.",
+      "inflections": ["le beurre", "un beurre"],
+      "ptTargets": ["manteiga"],
+      "examples": [
+        { "level": "A1", "fr": "Le beurre est jaune.", "pt": "A manteiga é amarela." },
+        { "level": "A2-B1", "fr": "On fait fondre le beurre.", "pt": "Derrete-se a manteiga." },
+        { "level": "B1", "fr": "Le beurre que l'on utilise ici vient de la région.", "pt": "A manteiga que se usa aqui vem da região." },
+        { "level": "C1-C2", "fr": "Le beurre, or de la cuisine, fait chanter les saveurs.", "pt": "A manteiga, ouro da cozinha, faz cantar os sabores." }
+      ]
+    },
+    {
+      "term": "la casserole",
+      "definitionPt": "a panela",
+      "definitionFr": "Récipient pour cuire.",
+      "inflections": ["la casserole", "une casserole", "des casseroles"],
+      "ptTargets": ["panela"],
+      "examples": [
+        { "level": "A1", "fr": "La casserole est chaude.", "pt": "A panela está quente." },
+        { "level": "A2-B1", "fr": "Iris a remué la casserole.", "pt": "Íris mexeu a panela." },
+        { "level": "B1", "fr": "La casserole dans laquelle l'on cuisine est en cuivre.", "pt": "A panela na qual se cozinha é de cobre." },
+        { "level": "C1-C2", "fr": "La casserole, chaudron moderne, garde les secrets des recettes de famille.", "pt": "A panela, caldeirão moderno, guarda os segredos das receitas de família." }
+      ]
+    },
+    {
+      "term": "le persil",
+      "definitionPt": "a salsa, o cheiro-verde",
+      "definitionFr": "Herbe verte qui parfume.",
+      "inflections": ["le persil", "du persil"],
+      "ptTargets": ["salsa", "cheiro-verde"],
+      "examples": [
+        { "level": "A1", "fr": "Le persil est vert.", "pt": "A salsa é verde." },
+        { "level": "A2-B1", "fr": "On ajoute le persil à la fin.", "pt": "Acrescenta-se a salsa no final." },
+        { "level": "B1", "fr": "Le persil que l'on coupe frais parfume le plat.", "pt": "A salsa que se corta fresca perfuma o prato." },
+        { "level": "C1-C2", "fr": "Le persil, touche de vert, termine les plats comme une signature.", "pt": "A salsa, toque de verde, termina os pratos como uma assinatura." }
+      ]
+    },
+    {
+      "term": "le tablier",
+      "definitionPt": "o avental",
+      "definitionFr": "Vêtement pour protéger pendant la cuisine.",
+      "inflections": ["le tablier", "un tablier", "des tabliers"],
+      "ptTargets": ["avental"],
+      "examples": [
+        { "level": "A1", "fr": "Le tablier est blanc.", "pt": "O avental é branco." },
+        { "level": "A2-B1", "fr": "Iris a mis son tablier.", "pt": "Íris vestiu seu avental." },
+        { "level": "B1", "fr": "Le tablier que l'on porte en cuisine est utile.", "pt": "O avental que se usa na cozinha é útil." },
+        { "level": "C1-C2", "fr": "Le tablier, armure du cuisinier, garde les traces des bons repas.", "pt": "O avental, armadura do cozinheiro, guarda as marcas das boas refeições." }
+      ]
+    },
+    {
+      "term": "fondre",
+      "definitionPt": "derreter",
+      "definitionFr": "Devenir liquide.",
+      "inflections": ["je fonds", "tu fonds", "il fond", "nous fondons"],
+      "ptTargets": ["derreter"],
+      "examples": [
+        { "level": "A1", "fr": "Le beurre fond.", "pt": "A manteiga derrete." },
+        { "level": "A2-B1", "fr": "On fait fondre le beurre doucement.", "pt": "Derrete-se a manteiga devagar." },
+        { "level": "B1", "fr": "Le beurre que l'on fait fondre devient doré.", "pt": "A manteiga que se derrete fica dourada." },
+        { "level": "C1-C2", "fr": "Fondre, métamorphose du feu, transforme le solide en velours.", "pt": "Derreter, metamorfose do fogo, transforma o sólido em veludo." }
+      ]
+    },
+    {
+      "term": "remuer",
+      "definitionPt": "mexer",
+      "definitionFr": "Bouger pour mélanger.",
+      "inflections": ["je remue", "tu remues", "il remue", "nous remuons"],
+      "ptTargets": ["mexer"],
+      "examples": [
+        { "level": "A1", "fr": "Je remue la sauce.", "pt": "Eu mexo o molho." },
+        { "level": "A2-B1", "fr": "Iris a remué la casserole.", "pt": "Íris mexeu a panela." },
+        { "level": "B1", "fr": "La sauce que l'on remue devient lisse.", "pt": "O molho que se mexe fica liso." },
+        { "level": "C1-C2", "fr": "Remuer, geste du cuisinier, invite les saveurs à se connaître.", "pt": "Mexer, gesto do cozinheiro, convida os sabores a se conhecerem." }
+      ]
+    },
+    {
+      "term": "le sel",
+      "definitionPt": "o sal",
+      "definitionFr": "Produit blanc qui sale.",
+      "inflections": ["le sel", "du sel"],
+      "ptTargets": ["sal"],
+      "examples": [
+        { "level": "A1", "fr": "Le sel est blanc.", "pt": "O sal é branco." },
+        { "level": "A2-B1", "fr": "On ajoute un peu de sel.", "pt": "Acrescenta-se um pouco de sal." },
+        { "level": "B1", "fr": "Le sel que l'on met donne du goût.", "pt": "O sal que se põe dá gosto." },
+        { "level": "C1-C2", "fr": "Le sel, trésor des cuisines, révèle ce que le sucre cache.", "pt": "O sal, tesouro das cozinhas, revela o que o açúcar esconde." }
+      ]
+    },
+    {
+      "term": "la salière",
+      "definitionPt": "o saleiro",
+      "definitionFr": "Récipient pour le sel.",
+      "inflections": ["la salière", "une salière", "des salières"],
+      "ptTargets": ["saleiro"],
+      "examples": [
+        { "level": "A1", "fr": "La salière est pleine.", "pt": "O saleiro está cheio." },
+        { "level": "A2-B1", "fr": "Iris a tendu la salière.", "pt": "Íris estendeu o saleiro." },
+        { "level": "B1", "fr": "La salière que l'on cherche est sur la table.", "pt": "O saleiro que se procura está na mesa." },
+        { "level": "C1-C2", "fr": "La salière, gardienne du goût, veille sur les plats.", "pt": "O saleiro, guardião do gosto, vigia os pratos." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "titleFr": "L'impératif avec les pronoms",
+    "titlePt": "O imperativo com pronomes",
+    "points": [
+      {
+        "fr": "L'impératif : « Fais fondre le beurre », « Ajoute les échalotes », « Goûte-le », « Donne-le-moi » (dá-mo).",
+        "pt": "O imperativo: « Fais fondre le beurre » (Derreta a manteiga), « Ajoute les échalotes » (Acrescente as chalotas), « Goûte-le » (Prove-o), « Donne-le-moi » (dá-mo)."
+      },
+      {
+        "fr": "Avec la négation, les pronoms passent avant : « Ne le mange pas trop chaud » (não o coma muito quente).",
+        "pt": "Na negativa, os pronomes vêm antes: « Ne le mange pas trop chaud » (não o coma muito quente)."
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Qual é o prato típico cozinhado pela família ?",
+      "options": ["Entrecôte à la bordelaise", "Cassoulet", "Bouillabaisse", "Quiche"],
+      "correctIndex": 0
+    },
+    {
+      "question": "O que dá sabor ao molho bordelês ?",
+      "options": ["Vinho e chalotas", "Chocolate e mel", "Limão e açúcar", "Pimenta e mostarda"],
+      "correctIndex": 0
+    },
+    {
+      "question": "O que Iris fez primeiro, segundo a receita ?",
+      "options": ["Derreteu a manteiga", "Cortou a carne", "Acendeu o forno", "Lavou a louça"],
+      "correctIndex": 0
+    },
+    {
+      "question": "O que Iris pediu à mãe para provar ?",
+      "options": ["O prato, ao papai", "A sobremesa", "O vinho", "A salada"],
+      "correctIndex": 0
+    },
+    {
+      "question": "O que Irlan nunca provava quando era livreur ?",
+      "options": ["Os pratos que entregava", "O café", "O pão", "A fruta"],
+      "correctIndex": 0
+    }
+  ]
+}

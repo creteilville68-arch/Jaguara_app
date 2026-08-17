@@ -1,0 +1,252 @@
+{
+  "id": "amiens_lesson_24",
+  "cityId": "amiens",
+  "domain": "Viagem & Preparação",
+  "level": "Iniciante em Transição (A1/A2)",
+  "titleFr": "La préparation du départ",
+  "titlePt": "A preparação da partida",
+  "subtitleFr": "Les souvenirs d'Amiens dans la valise",
+  "subtitlePt": "As lembranças de Amiens na mala",
+  "summaryPt": "Nesta Aula 24 (A1/A2) da Cidade #2, a família se prepara para partir para Lille. O aluno revisa o vocabulário da viagem (valise, billet, gare, préparer, partir) e o futur proche com aller, antes da partida da aula 25.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Ce soir, la famille prépare les valises pour Lille. « Nous allons prendre le train demain matin, dit Andréa. N'oublions rien : les vêtements, les livres et les souvenirs d'Amiens. »",
+      "pt": "Esta noite, a família prepara as malas para Lille. « Vamos pegar o trem amanhã de manhã, diz Andréa. Não vamos esquecer nada: as roupas, os livros e as lembranças de Amiens. »"
+    },
+    {
+      "id": 2,
+      "fr": "Íris met dans sa valise un petit gâteau battu, une carte postale de la cathédrale et un dessin du cirque. « Je garde mes souvenirs préférés, dit-elle. Je vais les montrer à ma nouvelle amie Camille. »",
+      "pt": "Íris coloca na mala um pequeno gâteau battu, um cartão-postal da catedral e um desenho do circo. « Guardo minhas lembranças favoritas, diz ela. Vou mostrá-las à minha nova amiga Camille. »"
+    },
+    {
+      "id": 3,
+      "fr": "Irlan vérifie les billets de train. « Tout est prêt, dit-il. La gare d'Amiens est à quinze minutes à pied. Nous allons partir à neuf heures. » Andréa sourit : « Bien, une dernière promenade ce soir. »",
+      "pt": "Irlan confere os bilhetes de trem. « Está tudo pronto, diz ele. A estação de Amiens fica a quinze minutos a pé. Vamos partir às nove horas. » Andréa sorri: « Bem, um último passeio esta noite. »"
+    },
+    {
+      "id": 4,
+      "fr": "Sous les étoiles, la famille marche près de la cathédrale. « Amiens nous a donné beaucoup de beaux moments, dit Irlan. Maintenant, une nouvelle ville nous attend : Lille et ses gaufres ! »",
+      "pt": "Sob as estrelas, a família caminha perto da catedral. « Amiens nos deu muitos momentos bonitos, diz Irlan. Agora, uma nova cidade nos espera: Lille e seus waffles! »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "préparer",
+      "definitionPt": "preparar",
+      "definitionFr": "Organiser à l'avance.",
+      "inflections": ["je prépare", "préparer", "nous préparons"],
+      "ptTargets": ["preparar"],
+      "examples": [
+        { "level": "A1", "fr": "Je prépare ma valise.", "pt": "Eu preparo minha mala." },
+        { "level": "A2-B1", "fr": "La famille prépare les valises.", "pt": "A família prepara as malas." },
+        { "level": "B2", "fr": "Préparer un départ demande de l'organisation.", "pt": "Preparar uma partida exige organização." },
+        { "level": "C1-C2", "fr": "C'est en préparant que l'on voyage sereinement.", "pt": "É preparando que se viaja com serenidade." }
+      ]
+    },
+    {
+      "term": "le billet",
+      "definitionPt": "o bilhete",
+      "definitionFr": "Ticket de train.",
+      "inflections": ["le billet", "un billet", "des billets"],
+      "ptTargets": ["bilhete"],
+      "examples": [
+        { "level": "A1", "fr": "Le billet est important.", "pt": "O bilhete é importante." },
+        { "level": "A2-B1", "fr": "Irlan vérifie les billets de train.", "pt": "Irlan confere os bilhetes de trem." },
+        { "level": "B2", "fr": "Les billets, achetés en ligne, sont prêts.", "pt": "Os bilhetes, comprados online, estão prontos." },
+        { "level": "C1-C2", "fr": "C'est le billet qui, précieux, ouvre la porte du voyage.", "pt": "É o bilhete que, precioso, abre a porta da viagem." }
+      ]
+    },
+    {
+      "term": "oublier",
+      "definitionPt": "esquecer",
+      "definitionFr": "Ne pas se souvenir.",
+      "inflections": ["j'oublie", "oublier", "nous oublions"],
+      "ptTargets": ["esquecer"],
+      "examples": [
+        { "level": "A1", "fr": "N'oublie pas ta valise !", "pt": "Não esqueça sua mala!" },
+        { "level": "A2-B1", "fr": "N'oublions rien !", "pt": "Não vamos esquecer nada!" },
+        { "level": "B2", "fr": "Il ne faut pas oublier les souvenirs.", "pt": "Não se deve esquecer as lembranças." },
+        { "level": "C1-C2", "fr": "C'est en n'oubliant pas que l'on honore le passé.", "pt": "É não esquecendo que se honra o passado." }
+      ]
+    },
+    {
+      "term": "le souvenir",
+      "definitionPt": "a lembrança / recordação",
+      "definitionFr": "Objet ou mémoire d'un moment passé.",
+      "inflections": ["le souvenir", "un souvenir", "des souvenirs"],
+      "ptTargets": ["lembrança", "recordação"],
+      "examples": [
+        { "level": "A1", "fr": "Le souvenir est beau.", "pt": "A lembrança é bonita." },
+        { "level": "A2-B1", "fr": "Íris garde ses souvenirs préférés.", "pt": "Íris guarda suas lembranças favoritas." },
+        { "level": "B2", "fr": "Les souvenirs d'un voyage restent dans le cœur.", "pt": "As lembranças de uma viagem ficam no coração." },
+        { "level": "C1-C2", "fr": "C'est le souvenir qui, précieux, dure plus que les objets.", "pt": "É a lembrança que, preciosa, dura mais que os objetos." }
+      ]
+    },
+    {
+      "term": "garder",
+      "definitionPt": "guardar",
+      "definitionFr": "Conserver avec soi.",
+      "inflections": ["je garde", "garder", "nous gardons"],
+      "ptTargets": ["guardar"],
+      "examples": [
+        { "level": "A1", "fr": "Je garde le dessin.", "pt": "Eu guardo o desenho." },
+        { "level": "A2-B1", "fr": "Je garde mes souvenirs préférés.", "pt": "Eu guardo minhas lembranças favoritas." },
+        { "level": "B2", "fr": "Elle garde une photo de chaque ville visitée.", "pt": "Ela guarda uma foto de cada cidade visitada." },
+        { "level": "C1-C2", "fr": "C'est en gardant que l'on protège la mémoire.", "pt": "É guardando que se protege a memória." }
+      ]
+    },
+    {
+      "term": "montrer",
+      "definitionPt": "mostrar",
+      "definitionFr": "Faire voir.",
+      "inflections": ["je montre", "montrer", "nous montrons"],
+      "ptTargets": ["mostrar"],
+      "examples": [
+        { "level": "A1", "fr": "Je montre le dessin.", "pt": "Eu mostro o desenho." },
+        { "level": "A2-B1", "fr": "Je vais les montrer à Camille.", "pt": "Vou mostrá-los à Camille." },
+        { "level": "B2", "fr": "Montrer ses souvenirs, c'est partager son voyage.", "pt": "Mostrar as lembranças é partilhar a viagem." },
+        { "level": "C1-C2", "fr": "C'est en montrant que l'on transmet l'émotion.", "pt": "É mostrando que se transmite a emoção." }
+      ]
+    },
+    {
+      "term": "vérifier",
+      "definitionPt": "conferir / verificar",
+      "definitionFr": "Contrôler quelque chose.",
+      "inflections": ["je vérifie", "vérifier", "nous vérifions"],
+      "ptTargets": ["conferir", "verificar"],
+      "examples": [
+        { "level": "A1", "fr": "Je vérifie le billet.", "pt": "Eu confiro o bilhete." },
+        { "level": "A2-B1", "fr": "Irlan vérifie les billets de train.", "pt": "Irlan confere os bilhetes de trem." },
+        { "level": "B2", "fr": "Il faut vérifier les horaires avant de partir.", "pt": "É preciso conferir os horários antes de partir." },
+        { "level": "C1-C2", "fr": "C'est en vérifiant que l'on évite les surprises.", "pt": "É conferindo que se evitam surpresas." }
+      ]
+    },
+    {
+      "term": "tout est prêt",
+      "definitionPt": "está tudo pronto",
+      "definitionFr": "Tout est préparé.",
+      "inflections": ["tout est prêt"],
+      "ptTargets": ["tudo pronto"],
+      "examples": [
+        { "level": "A1", "fr": "Tout est prêt.", "pt": "Está tudo pronto." },
+        { "level": "A2-B1", "fr": "Tout est prêt pour le départ.", "pt": "Está tudo pronto para a partida." },
+        { "level": "B2", "fr": "Les valises sont faites, tout est prêt.", "pt": "As malas estão feitas, está tudo pronto." },
+        { "level": "C1-C2", "fr": "Quand tout est prêt, le voyage commence en paix.", "pt": "Quando está tudo pronto, a viagem começa em paz." }
+      ]
+    },
+    {
+      "term": "les étoiles",
+      "definitionPt": "as estrelas",
+      "definitionFr": "Points lumineux dans le ciel la nuit.",
+      "inflections": ["les étoiles", "des étoiles"],
+      "ptTargets": ["estrelas"],
+      "examples": [
+        { "level": "A1", "fr": "Les étoiles brillent.", "pt": "As estrelas brilham." },
+        { "level": "A2-B1", "fr": "Sous les étoiles, la famille marche.", "pt": "Sob as estrelas, a família caminha." },
+        { "level": "B2", "fr": "Les étoiles, nombreuses, éclairent la nuit.", "pt": "As estrelas, numerosas, iluminam a noite." },
+        { "level": "C1-C2", "fr": "C'est sous les étoiles que l'on rêve le mieux.", "pt": "É sob as estrelas que se sonha melhor." }
+      ]
+    },
+    {
+      "term": "attendre",
+      "definitionPt": "esperar / aguardar",
+      "definitionFr": "Rester jusqu'à l'arrivée.",
+      "inflections": ["j'attends", "attendre", "nous attendons"],
+      "ptTargets": ["esperar", "aguardar"],
+      "examples": [
+        { "level": "A1", "fr": "Une ville nous attend.", "pt": "Uma cidade nos espera." },
+        { "level": "A2-B1", "fr": "Une nouvelle ville nous attend : Lille.", "pt": "Uma nova cidade nos espera: Lille." },
+        { "level": "B2", "fr": "Les grandes aventures attendent les voyageurs.", "pt": "As grandes aventuras esperam os viajantes." },
+        { "level": "C1-C2", "fr": "C'est l'avenir qui, généreux, nous attend.", "pt": "É o futuro que, generoso, nos espera." }
+      ]
+    },
+    {
+      "term": "donner",
+      "definitionPt": "dar",
+      "definitionFr": "Offrir quelque chose.",
+      "inflections": ["je donne", "donner", "nous donnons"],
+      "ptTargets": ["dar"],
+      "examples": [
+        { "level": "A1", "fr": "Je donne un cadeau.", "pt": "Eu dou um presente." },
+        { "level": "A2-B1", "fr": "Amiens nous a donné de beaux moments.", "pt": "Amiens nos deu momentos bonitos." },
+        { "level": "B2", "fr": "Chaque ville donne quelque chose de unique.", "pt": "Cada cidade dá algo de único." },
+        { "level": "C1-C2", "fr": "C'est en donnant que l'on reçoit le plus.", "pt": "É dando que se recebe mais." }
+      ]
+    },
+    {
+      "term": "la gaufre",
+      "definitionPt": "o waffle",
+      "definitionFr": "Gâteau cuit dans un moule spécial, spécialité du Nord.",
+      "inflections": ["la gaufre", "une gaufre", "des gaufres"],
+      "ptTargets": ["waffle", "gauffre"],
+      "examples": [
+        { "level": "A1", "fr": "La gaufre est sucrée.", "pt": "O waffle é doce." },
+        { "level": "A2-B1", "fr": "À Lille, on va goûter les gaufres.", "pt": "Em Lille, vamos provar os waffles." },
+        { "level": "B2", "fr": "La gaufre du Nord, chaude, est délicieuse.", "pt": "O waffle do Norte, quente, é delicioso." },
+        { "level": "C1-C2", "fr": "C'est la gaufre qui, dorée, est le symbole gourmand du Nord.", "pt": "É o waffle que, dourado, é o símbolo guloso do Norte." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Le futur proche : révision",
+    "explanationPt": "Futur proche com 'aller' + infinitivo: 'Nous allons prendre le train' (vamos pegar o trem), 'Nous allons partir à neuf heures' (vamos partir às nove), 'Je vais les montrer' (vou mostrá-los).",
+    "exampleFr": "Nous allons prendre le train demain matin. Nous allons partir à neuf heures.",
+    "examplePt": "Vamos pegar o trem amanhã de manhã. Vamos partir às nove horas.",
+    "practiceQuestion": "Complete: 'Nous _____ partir à neuf heures.'",
+    "options": ["allons", "allez", "vont"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "N'oublions rien ! : imperativo negativo",
+        "explanationPt": "Imperativo negativo com 'ne...pas' e 'ne...rien': 'N'oublions rien !' (não vamos esquecer nada!), 'N'oublie pas ta valise !' (não esqueça sua mala!), 'Ne partons pas sans les billets !'.",
+        "exampleFr": "N'oublions rien : les vêtements, les livres et les souvenirs !",
+        "examplePt": "Não vamos esquecer nada: as roupas, os livros e as lembranças!",
+        "practiceQuestion": "Complete: 'N'_____ rien !'",
+        "options": ["oublions", "oublie", "oublier"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "À quinze minutes à pied",
+        "explanationPt": "Para distâncias: 'à quinze minutes à pied' (a quinze minutos a pé), 'à dix minutes en bus' (a dez minutos de ônibus), 'près de' (perto de), 'loin de' (longe de).",
+        "exampleFr": "La gare est à quinze minutes à pied.",
+        "examplePt": "A estação fica a quinze minutos a pé.",
+        "practiceQuestion": "Complete: 'La gare est à quinze minutes _____ .'",
+        "options": ["à pied", "à pieds", "en pied"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Para onde a família vai viajar?",
+      "options": ["Lille", "Lyon", "Nice"],
+      "correctIndex": 0,
+      "explanation": "La famille prépare les valises pour Lille."
+    },
+    {
+      "question": "O que Íris coloca na mala?",
+      "options": ["gâteau battu, cartão-postal e desenho", "brinquedos e jogos", "livros de receitas"],
+      "correctIndex": 0,
+      "explanation": "Íris met un gâteau battu, une carte postale et un dessin du cirque."
+    },
+    {
+      "question": "A que distância fica a estação de Amiens?",
+      "options": ["a quinze minutos a pé", "a uma hora de carro", "do outro lado da cidade"],
+      "correctIndex": 0,
+      "explanation": "La gare d'Amiens est à quinze minutes à pied."
+    },
+    {
+      "question": "Complete: 'Nous _____ partir à neuf heures.'",
+      "options": ["allons", "allez", "vont"],
+      "correctIndex": 0,
+      "explanation": "Futur proche: nous allons partir."
+    },
+    {
+      "question": "Complete: 'N'_____ rien !'",
+      "options": ["oublions", "oublie", "oublier"],
+      "correctIndex": 0,
+      "explanation": "Imperativo negativo com nous: n'oublions rien."
+    }
+  ]
+}

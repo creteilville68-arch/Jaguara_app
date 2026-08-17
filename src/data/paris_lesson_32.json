@@ -1,0 +1,252 @@
+{
+  "id": "paris_lesson_32",
+  "cityId": "paris",
+  "domain": "Trabalho & Entrega",
+  "level": "Iniciante (A1)",
+  "titleFr": "La journée de travail d'Irlan : livreur à Paris",
+  "titlePt": "O dia de trabalho de Irlan: entregador em Paris",
+  "subtitleFr": "La commande, le restaurant et la route en scooter",
+  "subtitlePt": "O pedido, o restaurante e a rota de scooter",
+  "summaryPt": "Nesta Aula 32 (A1), Irlan conta um dia típico de trabalho como livreur à Paris. O aluno aprende o vocabulário do trabalho (livraison, commande, restaurant, client, apporter) e os verbos 'commencer' e 'finir' com as horas do dia.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Quand Irlan était livreur à Paris, il commençait son travail à midi. « Je prenais ma scooter et je regardais l'application », dit-il. « Une commande arrive : un restaurant, une adresse, un client. Je vais chercher le repas. »",
+      "pt": "Quando Irlan era entregador em Paris, começava seu trabalho ao meio-dia. « Pegava minha scooter e olhava o aplicativo », diz ele. « Chega um pedido: um restaurante, um endereço, um cliente. Vou buscar a refeição. »"
+    },
+    {
+      "id": 2,
+      "fr": "Au restaurant, Irlan prend la commande : un plat chaud, un dessert et une boisson. « C'est pour le client rue de Rivoli », dit la serveuse. Irlan met le sac dans la sacoche de sa scooter et part sur la route.",
+      "pt": "No restaurante, Irlan pega o pedido: um prato quente, uma sobremesa e uma bebida. « É para o cliente da rue de Rivoli », diz a garçonete. Irlan põe a sacola na bolsa da scooter e parte para a estrada."
+    },
+    {
+      "id": 3,
+      "fr": "La route est pleine de voitures et de vélos. Irlan fait attention aux feux rouges. Il arrive devant l'immeuble du client et apporte le sac à la porte. « Merci, monsieur ! Bon appétit ! » dit-il. Le client sourit.",
+      "pt": "A estrada está cheia de carros e bicicletas. Irlan presta atenção nos semáforos. Ele chega diante do prédio do cliente e leva a sacola até a porta. « Obrigado, senhor! Bom apetite! » diz ele. O cliente sorri."
+    },
+    {
+      "id": 4,
+      "fr": "« Le soir, je finissais mon travail après les commandes du dîner, raconte Irlan. Je rentrais à la maison avec Andréa et Iris. Le travail de livreur est dur, mais il m'a appris Paris : chaque rue, chaque quartier. »",
+      "pt": "« À noite, eu terminava meu trabalho depois dos pedidos do jantar, conta Irlan. Voltava para casa, com Andréa e Íris. O trabalho de entregador é duro, mas me ensinou Paris: cada rua, cada bairro. »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "la livraison",
+      "definitionPt": "a entrega",
+      "definitionFr": "Action de livrer un produit.",
+      "inflections": ["la livraison", "une livraison", "des livraisons"],
+      "ptTargets": ["entrega"],
+      "examples": [
+        { "level": "A1", "fr": "La livraison est rapide.", "pt": "A entrega é rápida." },
+        { "level": "A2-B1", "fr": "Irlan fait des livraisons à Paris.", "pt": "Irlan faz entregas em Paris." },
+        { "level": "B2", "fr": "Les applications de livraison ont changé les villes.", "pt": "Os aplicativos de entrega mudaram as cidades." },
+        { "level": "C1-C2", "fr": "C'est la livraison qui, ponctuelle, gagne la confiance du client.", "pt": "É a entrega que, pontual, ganha a confiança do cliente." }
+      ]
+    },
+    {
+      "term": "la commande",
+      "definitionPt": "o pedido",
+      "definitionFr": "Ce que le client demande.",
+      "inflections": ["la commande", "une commande", "des commandes"],
+      "ptTargets": ["pedido"],
+      "examples": [
+        { "level": "A1", "fr": "La commande est prête.", "pt": "O pedido está pronto." },
+        { "level": "A2-B1", "fr": "Irlan prend la commande au restaurant.", "pt": "Irlan pega o pedido no restaurante." },
+        { "level": "B2", "fr": "La commande en ligne arrive en trente minutes.", "pt": "O pedido online chega em trinta minutos." },
+        { "level": "C1-C2", "fr": "C'est la commande qui, bien préparée, fait la réputation d'un restaurant.", "pt": "É o pedido que, bem preparado, faz a reputação de um restaurante." }
+      ]
+    },
+    {
+      "term": "le restaurant",
+      "definitionPt": "o restaurante",
+      "definitionFr": "Lieu où l'on sert des repas.",
+      "inflections": ["le restaurant", "un restaurant", "des restaurants"],
+      "ptTargets": ["restaurante"],
+      "examples": [
+        { "level": "A1", "fr": "Le restaurant est ouvert.", "pt": "O restaurante está aberto." },
+        { "level": "A2-B1", "fr": "Irlan va chercher le repas au restaurant.", "pt": "Irlan vai buscar a refeição no restaurante." },
+        { "level": "B2", "fr": "Les restaurants parisiens offrent des cuisines du monde entier.", "pt": "Os restaurantes parisienses oferecem cozinhas do mundo inteiro." },
+        { "level": "C1-C2", "fr": "C'est le restaurant qui, fidèle, devient un repère dans le quartier.", "pt": "É o restaurante que, fiel, vira um ponto de referência no bairro." }
+      ]
+    },
+    {
+      "term": "la cuisine",
+      "definitionPt": "a cozinha",
+      "definitionFr": "Lieu où l'on prépare les repas.",
+      "inflections": ["la cuisine", "une cuisine", "des cuisines"],
+      "ptTargets": ["cozinha"],
+      "examples": [
+        { "level": "A1", "fr": "La cuisine est chaude.", "pt": "A cozinha é quente." },
+        { "level": "A2-B1", "fr": "Le repas sort de la cuisine.", "pt": "A refeição sai da cozinha." },
+        { "level": "B2", "fr": "La cuisine française est célèbre dans le monde.", "pt": "A cozinha francesa é famosa no mundo." },
+        { "level": "C1-C2", "fr": "C'est la cuisine qui, partagée, rapproche les cultures.", "pt": "É a cozinha que, partilhada, aproxima as culturas." }
+      ]
+    },
+    {
+      "term": "le client",
+      "definitionPt": "o cliente",
+      "definitionFr": "Personne qui achète un service.",
+      "inflections": ["le client", "un client", "des clients"],
+      "ptTargets": ["cliente"],
+      "examples": [
+        { "level": "A1", "fr": "Le client attend.", "pt": "O cliente espera." },
+        { "level": "A2-B1", "fr": "Irlan apporte le repas au client.", "pt": "Irlan leva a refeição ao cliente." },
+        { "level": "B2", "fr": "Le client satisfait recommande le service.", "pt": "O cliente satisfeito recomenda o serviço." },
+        { "level": "C1-C2", "fr": "C'est le client qui, au bout du compte, juge le travail.", "pt": "É o cliente que, no fim das contas, julga o trabalho." }
+      ]
+    },
+    {
+      "term": "apporter",
+      "definitionPt": "trazer (levar)",
+      "definitionFr": "Porter quelque chose à quelqu'un.",
+      "inflections": ["apporter", "j'apporte", "nous apportons"],
+      "ptTargets": ["trazer", "levar"],
+      "examples": [
+        { "level": "A1", "fr": "J'apporte le sac.", "pt": "Eu levo a sacola." },
+        { "level": "A2-B1", "fr": "Irlan apporte le repas à la porte.", "pt": "Irlan leva a refeição até a porta." },
+        { "level": "B2", "fr": "La serveuse apporte les plats à la table.", "pt": "A garçonete traz os pratos à mesa." },
+        { "level": "C1-C2", "fr": "C'est en apportant le sourire que l'on rend le service parfait.", "pt": "É levando o sorriso que se torna o serviço perfeito." }
+      ]
+    },
+    {
+      "term": "la route",
+      "definitionPt": "a estrada (rota)",
+      "definitionFr": "Chemin pour aller d'un lieu à un autre.",
+      "inflections": ["la route", "une route", "des routes"],
+      "ptTargets": ["estrada", "rota", "caminho"],
+      "examples": [
+        { "level": "A1", "fr": "La route est longue.", "pt": "A estrada é longa." },
+        { "level": "A2-B1", "fr": "Irlan part sur la route avec sa scooter.", "pt": "Irlan parte para a estrada com sua scooter." },
+        { "level": "B2", "fr": "Les routes de Paris sont souvent encombrées.", "pt": "As estradas de Paris costumam estar congestionadas." },
+        { "level": "C1-C2", "fr": "C'est la route qui, parcourue chaque jour, devient une connaissance intime.", "pt": "É a estrada que, percorrida todos os dias, torna-se um conhecimento íntimo." }
+      ]
+    },
+    {
+      "term": "le travail",
+      "definitionPt": "o trabalho",
+      "definitionFr": "Activité professionnelle.",
+      "inflections": ["le travail", "un travail", "des travaux"],
+      "ptTargets": ["trabalho"],
+      "examples": [
+        { "level": "A1", "fr": "Le travail commence à midi.", "pt": "O trabalho começa ao meio-dia." },
+        { "level": "A2-B1", "fr": "Irlan a trouvé un travail de livreur.", "pt": "Irlan encontrou um trabalho de entregador." },
+        { "level": "B2", "fr": "Le travail, bien fait, donne de la fierté.", "pt": "O trabalho, bem feito, dá orgulho." },
+        { "level": "C1-C2", "fr": "C'est le travail qui, humble, peut mener loin quand on l'aime.", "pt": "É o trabalho que, humilde, pode levar longe quando se o ama." }
+      ]
+    },
+    {
+      "term": "commencer",
+      "definitionPt": "começar",
+      "definitionFr": "Débuter.",
+      "inflections": ["commencer", "je commence", "nous commençons"],
+      "ptTargets": ["começar", "iniciar"],
+      "examples": [
+        { "level": "A1", "fr": "Le travail commence à midi.", "pt": "O trabalho começa ao meio-dia." },
+        { "level": "A2-B1", "fr": "Irlan commence sa journée de livraison.", "pt": "Irlan começa seu dia de entrega." },
+        { "level": "B2", "fr": "La journée commence tôt pour les livreurs.", "pt": "O dia começa cedo para os entregadores." },
+        { "level": "C1-C2", "fr": "C'est en commençant que l'on surmonte la difficulté du début.", "pt": "É começando que se supera a dificuldade do início." }
+      ]
+    },
+    {
+      "term": "finir",
+      "definitionPt": "terminar",
+      "definitionFr": "Achever.",
+      "inflections": ["finir", "je finis", "nous finissons"],
+      "ptTargets": ["terminar", "acabar"],
+      "examples": [
+        { "level": "A1", "fr": "Le travail finit le soir.", "pt": "O trabalho termina à noite." },
+        { "level": "A2-B1", "fr": "Irlan finit après les commandes du dîner.", "pt": "Irlan termina depois dos pedidos do jantar." },
+        { "level": "B2", "fr": "Elle finit son travail à dix-huit heures.", "pt": "Ela termina seu trabalho às dezoito horas." },
+        { "level": "C1-C2", "fr": "C'est en finissant bien que l'on prépare le lendemain.", "pt": "É terminando bem que se prepara o dia seguinte." }
+      ]
+    },
+    {
+      "term": "rapide",
+      "definitionPt": "rápido",
+      "definitionFr": "Qui va vite.",
+      "inflections": ["rapide", "rapides"],
+      "ptTargets": ["rápido"],
+      "examples": [
+        { "level": "A1", "fr": "La livraison est rapide.", "pt": "A entrega é rápida." },
+        { "level": "A2-B1", "fr": "La scooter est rapide dans la ville.", "pt": "A scooter é rápida na cidade." },
+        { "level": "B2", "fr": "Le service rapide est apprécié des clients.", "pt": "O serviço rápido é apreciado pelos clientes." },
+        { "level": "C1-C2", "fr": "C'est la rapidité qui, bien dosée, fait la différence.", "pt": "É a rapidez que, bem dosada, faz a diferença." }
+      ]
+    },
+    {
+      "term": "chaud",
+      "definitionPt": "quente",
+      "definitionFr": "À haute température.",
+      "inflections": ["chaud", "chaude", "chauds", "chaudes"],
+      "ptTargets": ["quente"],
+      "examples": [
+        { "level": "A1", "fr": "Le plat est chaud.", "pt": "O prato está quente." },
+        { "level": "A2-B1", "fr": "Le repas arrive chaud chez le client.", "pt": "A refeição chega quente ao cliente." },
+        { "level": "B2", "fr": "Il faut livrer le plat chaud à temps.", "pt": "É preciso entregar o prato quente a tempo." },
+        { "level": "C1-C2", "fr": "C'est le repas chaud qui, livré à temps, réchauffe la soirée du client.", "pt": "É a refeição quente que, entregue a tempo, aquece a noite do cliente." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Le verbe commencer : le cédille",
+    "explanationPt": "O verbo 'commencer' ganha cedilha antes de 'o' e 'u': je commence, tu commences, il commence, nous commençons, vous commencez, ils commencent. Ex.: 'Nous commençons à midi.'",
+    "exampleFr": "Irlan commençait son travail à midi.",
+    "examplePt": "Irlan começava seu trabalho ao meio-dia.",
+    "practiceQuestion": "Complete: 'Nous _____ à midi.'",
+    "options": ["commençons", "commencons", "commencez"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "Les verbes en -ir : finir",
+        "explanationPt": "O verbo 'finir' (terminar), modelo dos verbos em -ir: je finis, tu finis, il finit, nous finissons, vous finissez, ils finissent. Ex.: 'Je finis à dix-huit heures.'",
+        "exampleFr": "Le soir, je finissais mon travail après les commandes du dîner.",
+        "examplePt": "À noite, eu terminava meu trabalho depois dos pedidos do jantar.",
+        "practiceQuestion": "Complete: 'Nous _____ à dix-huit heures.'",
+        "options": ["finissons", "finis", "finissent"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "Faire attention : ter cuidado",
+        "explanationPt": "Expressão útil: 'faire attention' (prestar atenção/ter cuidado). Ex.: 'Il fait attention aux feux rouges.' Também: 'faire attention à quelqu'un'.",
+        "exampleFr": "Irlan fait attention aux feux rouges.",
+        "examplePt": "Irlan presta atenção nos semáforos.",
+        "practiceQuestion": "Complete: 'Il faut faire _____ aux feux rouges.'",
+        "options": ["attention", "attentionner", "attentionne"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Quando Irlan começava o trabalho de entregador?",
+      "options": ["ao meio-dia", "às seis da manhã", "à meia-noite"],
+      "correctIndex": 0,
+      "explanation": "Il commençait son travail à midi."
+    },
+    {
+      "question": "O que Irlan leva ao cliente?",
+      "options": ["um prato quente, uma sobremesa e uma bebida", "um jornal", "um mapa antigo"],
+      "correctIndex": 0,
+      "explanation": "Il prend la commande : un plat chaud, un dessert et une boisson."
+    },
+    {
+      "question": "O que Irlan aprendeu sendo entregador?",
+      "options": ["cada rua e cada bairro de Paris", "a cozinhar", "a dirigir ônibus"],
+      "correctIndex": 0,
+      "explanation": "Le travail de livreur lui a appris Paris : chaque rue, chaque quartier."
+    },
+    {
+      "question": "Complete: 'Nous _____ à midi.'",
+      "options": ["commençons", "commencons", "commencez"],
+      "correctIndex": 0,
+      "explanation": "commencer com nous: commençons (com cedilha)."
+    },
+    {
+      "question": "Complete: 'Il faut faire _____ aux feux rouges.'",
+      "options": ["attention", "attentionner", "attentionne"],
+      "correctIndex": 0,
+      "explanation": "faire attention: prestar atenção."
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+import { DictionaryEntry } from '../utils/textParser';
+
+export const LESSON_DICTIONARY_24: Record<string, DictionaryEntry> = {
+  immeuble: {
+    term: "immeuble",
+    wordFr: "immeuble",
+    definitionPt: "Prédio, edifício (substantivo masculino)",
+    difficultyLevel: "undefined",
+    examples: [
+      { level: "A1", fr: "L'immeuble est très haut et moderne.", pt: "O prédio é muito alto e moderno." },
+      { level: "A2-B1", fr: "Il habite au quatrième étage de cet immeuble parisien.", pt: "Ele mora no quarto andar deste prédio parisiense." },
+      { level: "B2", fr: "Les immeubles en verre du quartier de La Défense reflètent la lumière du soleil.", pt: "Os edifícios de vidro do bairro de La Défense refletem a luz do sol." },
+      { level: "C1-C2", fr: "La réhabilitation énergétique des immeubles anciens représente un défi technique majeur en milieu urbain.", pt: "A reabilitação energética de edifícios antigos representa um importante desafio técnico em meio urbano." },
+    ],
+  },
+  moderne: {
+    term: "moderne",
+    wordFr: "moderne",
+    definitionPt: "Moderno, moderna (adjetivo)",
+    difficultyLevel: "undefined",
+    examples: [
+      { level: "A1", fr: "C'est une ville très moderne.", pt: "É uma cidade muito moderna." },
+      { level: "A2-B1", fr: "J'aime l'architecture moderne et les grands ponts.", pt: "Eu gosto da arquitetura moderna e das grandes pontes." },
+      { level: "C1-C2", fr: "La métropole conjugue habilement son patrimoine séculaire avec une urbanisation résolument moderne.", pt: "A metrópole combina habilmente seu patrimônio secular com uma urbanização resolutamente moderna." },
+    ],
+  },
+  verre: {
+    term: "verre",
+    wordFr: "verre",
+    definitionPt: "Vidro, copo (substantivo masculino)",
+    difficultyLevel: "undefined",
+    examples: [
+      { level: "A1", fr: "La fenêtre est en verre transparent.", pt: "A janela é de vidro transparente." },
+      { level: "A2-B1", fr: "Je voudrais un verre d'eau fraîche, s'il vous plaît.", pt: "Eu gostaria de um copo de água fresca, por favor." },
+      { level: "B2", fr: "Les façades en verre permettent d'optimiser l'éclairage naturel dans les bureaux.", pt: "As fachadas de vidro permitem otimizar a iluminação natural nos escritórios." },
+      { level: "C1-C2", fr: "La transparence architecturale du verre symbolise souvent l'ouverture et la modernité des institutions.", pt: "A transparência arquitetônica do vidro simboliza frequentemente a abertura e a modernidade das instituições." },
+    ],
+  },
+  employé: {
+    term: "employé",
+    wordFr: "employé",
+    definitionPt: "Funcionário, empregado (substantivo masculino ou feminino)",
+    difficultyLevel: "undefined",
+    examples: [
+      { level: "A1", fr: "L'employé travaille dans un bureau.", pt: "O funcionário trabalha em um escritório." },
+      { level: "A2-B1", fr: "Les employés prennent le train tous les matins pour aller au travail.", pt: "Os funcionários pegam o trem todas as manhãs para ir ao trabalho." },
+      { level: "B2", fr: "L'entreprise propose des formations continues à l'ensemble de ses employés.", pt: "A empresa oferece formações contínuas a todos os seus funcionários." },
+      { level: "C1-C2", fr: "La valorisation des compétences de chaque employé constitue un levier essentiel de performance organisationnelle.", pt: "A valorização das competências de cada funcionário constitui uma alavanca essencial de desempenho organizacional." },
+    ],
+  },
+  travailler: {
+    term: "travailler",
+    wordFr: "travailler",
+    definitionPt: "Trabalhar (verbo)",
+    difficultyLevel: "undefined",
+    examples: [
+      { level: "A1", fr: "Je travaille à Paris cette semaine.", pt: "Eu trabalho em Paris esta semana." },
+      { level: "A2-B1", fr: "Mon frère travaille dans une grande entreprise française.", pt: "Meu irmão trabalha em uma grande empresa francesa." },
+      { level: "B2", fr: "Travailler en équipe permet de résoudre plus facilement les problèmes complexes.", pt: "Trabalhar em equipe permite resolver mais facilmente os problemas complexos." },
+      { level: "C1-C2", fr: "La flexibilité des horaires a redéfini la manière dont nous concevons le fait de travailler aujourd'hui.", pt: "A flexibilidade dos horários redefiniu a maneira como concebemos o ato de trabalhar hoje." },
+    ],
+  },
+  heure: {
+    term: "heure",
+    wordFr: "heure",
+    definitionPt: "Hora, horário (substantivo feminino)",
+    difficultyLevel: "undefined",
+    examples: [
+      { level: "A1", fr: "Il est neuf heures du matin.", pt: "São nove horas da manhã." },
+      { level: "A2-B1", fr: "À quelle heure arrive le train pour Amiens ?", pt: "A que horas chega o trem para Amiens?" },
+      { level: "B2", fr: "Nous avons convenu d'un rendez-vous à quatorze heures précises.", pt: "Nós concordamos com um compromisso às quatorze horas em ponto." },
+      { level: "C1-C2", fr: "La ponctualité exige une gestion rigoureuse de chaque heure de la journée de travail.", pt: "A pontualidade exige uma gestão rigorosa de cada hora da jornada de trabalho." },
+    ],
+  },
+  matin: {
+    term: "matin",
+    wordFr: "matin",
+    definitionPt: "Manhã (substantivo masculino)",
+    difficultyLevel: "undefined",
+    examples: [
+      { level: "A1", fr: "Le matin, je bois un café au lait.", pt: "De manhã, eu bebo um café com leite." },
+      { level: "A2-B1", fr: "Demain matin, nous visiterons le quartier moderne de La Défense.", pt: "Amanhã de manhã, visitaremos o bairro moderno de La Défense." },
+      { level: "B2", fr: "La lumière du matin offre d'excellentes conditions pour photographier les monuments.", pt: "A luz da manhã oferece excelentes condições para fotografar os monumentos." },
+      { level: "C1-C2", fr: "L'effervescence matinale des gares illustre le dynamisme quotidien de la métropole.", pt: "A efervescência matinal das estações ilustra o dinamismo cotidiano da metrópole." },
+    ],
+  },
+  finir: {
+    term: "finir",
+    wordFr: "finir",
+    definitionPt: "Terminar, acabar (verbo)",
+    difficultyLevel: "undefined",
+    examples: [
+      { level: "A1", fr: "Je finis mon travail à cinq heures.", pt: "Eu termino meu trabalho às cinco horas." },
+      { level: "A2-B1", fr: "À quelle heure finissez-vous votre cours de français ?", pt: "A que horas vocês terminam sua aula de francês?" },
+      { level: "B2", fr: "Dès que j'aurai fini ce dossier, nous pourrons aller nous promener.", pt: "Assim que eu tiver terminado este relatório, poderemos ir passear." },
+      { level: "C1-C2", fr: "Savoir finir un projet dans les délais impartis témoigne d'une grande rigueur professionnelle.", pt: "Saber terminar um projeto nos prazos estabelecidos testemunha um grande rigor profissional." },
+    ],
+  },
+  neuf: {
+    term: "neuf",
+    wordFr: "neuf",
+    definitionPt: "Nove (número) / novo (adjetivo)",
+    difficultyLevel: "undefined",
+    examples: [
+      { level: "A1", fr: "Il est neuf heures du matin.", pt: "São nove horas da manhã." },
+      { level: "A2-B1", fr: "J'ai acheté un cahier neuf pour mes leçons de français.", pt: "Eu comprei um caderno novo para minhas lições de francês." },
+      { level: "B2", fr: "Le musée ouvre ses portes au public à neuf heures trente.", pt: "O museu abre suas portas ao público às nove e meia." },
+      { level: "C1-C2", fr: "L'inauguration de ces neuf immeubles marque une étape clé du renouvellement urbain.", pt: "A inauguração destes nove edifícios marca uma etapa chave da renovação urbana." },
+    ],
+  },
+  contraste: {
+    term: "contraste",
+    wordFr: "contraste",
+    definitionPt: "Contraste, oposição visual ou cultural (substantivo masculino)",
+    difficultyLevel: "undefined",
+    examples: [
+      { level: "A1", fr: "Il y a un grand contraste entre le moderne et l'ancien.", pt: "Há um grande contraste entre o moderno e o antigo." },
+      { level: "A2-B1", fr: "J'aime le contraste de couleurs dans ce beau quartier.", pt: "Eu gosto do contraste de cores neste lindo bairro." },
+      { level: "B2", fr: "Le contraste architectural entre le Louvre et sa pyramide de verre est saisissant.", pt: "O contraste arquitetônico entre o Louvre e sua pirâmide de vidro é marcante." },
+      { level: "C1-C2", fr: "Cet aménagement urbain joue subtilement sur le contraste des époques et des volumes.", pt: "Este planejamento urbano joga sutilmente com o contraste das épocas e dos volumes." },
+    ],
+  },
+  ancien: {
+    term: "ancien",
+    wordFr: "ancien",
+    definitionPt: "Antigo, antiga (adjetivo)",
+    difficultyLevel: "undefined",
+    examples: [
+      { level: "A1", fr: "C'est un ancien bâtiment historique.", pt: "É um antigo prédio histórico." },
+      { level: "A2-B1", fr: "Les rues anciennes du centre-ville ont beaucoup de charme.", pt: "As ruas antigas do centro da cidade têm muito charme." },
+      { level: "C1-C2", fr: "La conservation du patrimoine ancien est primordiale pour maintenir l'identité culturelle de la cité.", pt: "A conservação do patrimônio antigo é primordial para manter a identidade cultural da cidade." },
+    ],
+  },
+  centre: {
+    term: "centre",
+    wordFr: "centre",
+    definitionPt: "Centro (substantivo masculino)",
+    difficultyLevel: "undefined",
+    examples: [
+      { level: "A1", fr: "Mon hôtel est dans le centre de Paris.", pt: "Meu hotel fica no centro de Paris." },
+      { level: "A2-B1", fr: "Nous allons au centre-ville pour visiter les musées et les boutiques.", pt: "Nós vamos ao centro da cidade para visitar os museus e as lojas." },
+      { level: "B2", fr: "Le réseau de métro permet de relier rapidement la banlieue au centre historique.", pt: "A rede de metrô permite ligar rapidamente a periferia ao centro histórico." },
+      { level: "C1-C2", fr: "La revitalisation économique du centre urbain favorise la cohésion sociale et culturelle.", pt: "A revitalização econômica do centro urbano favorece a coesão social e cultural." },
+    ],
+  },
+};

@@ -1,0 +1,252 @@
+{
+  "id": "amiens_lesson_13",
+  "cityId": "amiens",
+  "domain": "Natureza & Animais",
+  "level": "Iniciante em Transição (A1/A2)",
+  "titleFr": "Le zoo d'Amiens",
+  "titlePt": "O zoológico de Amiens",
+  "subtitleFr": "Les animaux du parc de la Hotoie",
+  "subtitlePt": "Os animais do parque de la Hotoie",
+  "summaryPt": "Nesta Aula 13 (A1/A2) da Cidade #2, a família visita o zoo de Amiens, no parque de la Hotoie, criado em 1952. O aluno aprende o nome dos animais e pratica 'il y a / il n'y a pas' e o verbo 'aimer' + infinitivo.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Ce matin, la famille va au zoo d'Amiens, dans le parc de la Hotoie. « Le zoo existe depuis 1952, dit Irlan. Il y a des lions, des singes, des ours et beaucoup d'oiseaux. »",
+      "pt": "Esta manhã, a família vai ao zoológico de Amiens, no parque de la Hotoie. « O zoológico existe desde 1952, diz Irlan. Há leões, macacos, ursos e muitos pássaros. »"
+    },
+    {
+      "id": 2,
+      "fr": "Íris aime beaucoup les animaux. « J'aime regarder les singes, dit-elle. Ils sont drôles et rapides ! » Andréa sourit : « Regarde le grand ours. Il n'y a pas de danger : il est derrière une vitre. »",
+      "pt": "Íris gosta muito dos animais. « Eu gosto de olhar os macacos, diz ela. Eles são engraçados e rápidos! » Andréa sorri: « Olhe o grande urso. Não há perigo: ele está atrás de um vidro. »"
+    },
+    {
+      "id": 3,
+      "fr": "La famille regarde les éléphants et les girafes. « Comment s'appelle le petit singe ? » demande Íris. Irlan lit l'étiquette : « Il s'appelle Kiki. Les animaux ont chacun leur histoire ici. »",
+      "pt": "A família observa os elefantes e as girafas. « Como se chama o macaquinho? » pergunta Íris. Irlan lê a etiqueta: « Ele se chama Kiki. Os animais têm cada um sua história aqui. »"
+    },
+    {
+      "id": 4,
+      "fr": "Le soir, Íris raconte à sa grand-mère au téléphone : « Au zoo, j'ai vu des lions et des girafes. J'aime apprendre les noms des animaux en français. C'est une belle journée ! »",
+      "pt": "À noite, Íris conta à avó ao telefone: « No zoológico, eu vi leões e girafas. Gosto de aprender os nomes dos animais em francês. É um belo dia! »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "le zoo",
+      "definitionPt": "o zoológico",
+      "definitionFr": "Lieu où l'on voit des animaux.",
+      "inflections": ["le zoo", "un zoo", "des zoos"],
+      "ptTargets": ["zoológico", "zoo"],
+      "examples": [
+        { "level": "A1", "fr": "Le zoo est grand.", "pt": "O zoológico é grande." },
+        { "level": "A2-B1", "fr": "La famille va au zoo d'Amiens.", "pt": "A família vai ao zoológico de Amiens." },
+        { "level": "B2", "fr": "Le zoo, moderne, protège les espèces menacées.", "pt": "O zoológico, moderno, protege as espécies ameaçadas." },
+        { "level": "C1-C2", "fr": "C'est le zoo qui, éducatif, rapproche les enfants de la nature.", "pt": "É o zoológico que, educativo, aproxima as crianças da natureza." }
+      ]
+    },
+    {
+      "term": "le lion",
+      "definitionPt": "o leão",
+      "definitionFr": "Grand animal sauvage.",
+      "inflections": ["le lion", "un lion", "des lions"],
+      "ptTargets": ["leão"],
+      "examples": [
+        { "level": "A1", "fr": "Le lion est fort.", "pt": "O leão é forte." },
+        { "level": "A2-B1", "fr": "Il y a des lions au zoo.", "pt": "Há leões no zoológico." },
+        { "level": "B2", "fr": "Le lion, majestueux, est le roi des animaux.", "pt": "O leão, majestoso, é o rei dos animais." },
+        { "level": "C1-C2", "fr": "C'est le lion qui, fier, incarne la force sauvage.", "pt": "É o leão que, orgulhoso, encarna a força selvagem." }
+      ]
+    },
+    {
+      "term": "le singe",
+      "definitionPt": "o macaco",
+      "definitionFr": "Animal qui grimpe aux arbres.",
+      "inflections": ["le singe", "un singe", "des singes"],
+      "ptTargets": ["macaco"],
+      "examples": [
+        { "level": "A1", "fr": "Le singe est drôle.", "pt": "O macaco é engraçado." },
+        { "level": "A2-B1", "fr": "J'aime regarder les singes.", "pt": "Eu gosto de olhar os macacos." },
+        { "level": "B2", "fr": "Les singes, agiles, sautent de branche en branche.", "pt": "Os macacos, ágeis, pulam de galho em galho." },
+        { "level": "C1-C2", "fr": "C'est le singe qui, malicieux, amuse les visiteurs.", "pt": "É o macaco que, travesso, diverte os visitantes." }
+      ]
+    },
+    {
+      "term": "l'ours",
+      "definitionPt": "o urso",
+      "definitionFr": "Grand animal poilu.",
+      "inflections": ["l'ours", "un ours", "des ours"],
+      "ptTargets": ["urso"],
+      "examples": [
+        { "level": "A1", "fr": "L'ours est grand.", "pt": "O urso é grande." },
+        { "level": "A2-B1", "fr": "Le grand ours est derrière une vitre.", "pt": "O grande urso está atrás de um vidro." },
+        { "level": "B2", "fr": "L'ours, puissant, dort une partie de l'hiver.", "pt": "O urso, poderoso, dorme parte do inverno." },
+        { "level": "C1-C2", "fr": "C'est l'ours qui, massif, impressionne petits et grands.", "pt": "É o urso que, massivo, impressiona pequenos e grandes." }
+      ]
+    },
+    {
+      "term": "l'oiseau",
+      "definitionPt": "o pássaro",
+      "definitionFr": "Animal qui vole.",
+      "inflections": ["l'oiseau", "un oiseau", "des oiseaux"],
+      "ptTargets": ["pássaro"],
+      "examples": [
+        { "level": "A1", "fr": "L'oiseau chante.", "pt": "O pássaro canta." },
+        { "level": "A2-B1", "fr": "Il y a beaucoup d'oiseaux au zoo.", "pt": "Há muitos pássaros no zoológico." },
+        { "level": "B2", "fr": "Les oiseaux, colorés, volent au-dessus des arbres.", "pt": "Os pássaros, coloridos, voam acima das árvores." },
+        { "level": "C1-C2", "fr": "C'est l'oiseau qui, libre, chante la beauté du monde.", "pt": "É o pássaro que, livre, canta a beleza do mundo." }
+      ]
+    },
+    {
+      "term": "l'éléphant",
+      "definitionPt": "o elefante",
+      "definitionFr": "Très grand animal avec une trompe.",
+      "inflections": ["l'éléphant", "un éléphant", "des éléphants"],
+      "ptTargets": ["elefante"],
+      "examples": [
+        { "level": "A1", "fr": "L'éléphant est très grand.", "pt": "O elefante é muito grande." },
+        { "level": "A2-B1", "fr": "La famille regarde les éléphants.", "pt": "A família observa os elefantes." },
+        { "level": "B2", "fr": "L'éléphant utilise sa trompe pour manger.", "pt": "O elefante usa a tromba para comer." },
+        { "level": "C1-C2", "fr": "C'est l'éléphant qui, sage, semble tout comprendre.", "pt": "É o elefante que, sábio, parece entender tudo." }
+      ]
+    },
+    {
+      "term": "la girafe",
+      "definitionPt": "a girafa",
+      "definitionFr": "Animal au très long cou.",
+      "inflections": ["la girafe", "une girafe", "des girafes"],
+      "ptTargets": ["girafa"],
+      "examples": [
+        { "level": "A1", "fr": "La girafe est haute.", "pt": "A girafa é alta." },
+        { "level": "A2-B1", "fr": "La girafe mange les feuilles en haut des arbres.", "pt": "A girafa come as folhas no alto das árvores." },
+        { "level": "B2", "fr": "La girafe, élégante, se déplace avec douceur.", "pt": "A girafa, elegante, se move com suavidade." },
+        { "level": "C1-C2", "fr": "C'est la girafe qui, haute, voit le monde d'en haut.", "pt": "É a girafa que, alta, vê o mundo de cima." }
+      ]
+    },
+    {
+      "term": "le danger",
+      "definitionPt": "o perigo",
+      "definitionFr": "Situation qui peut blesser.",
+      "inflections": ["le danger", "un danger", "des dangers"],
+      "ptTargets": ["perigo"],
+      "examples": [
+        { "level": "A1", "fr": "Il n'y a pas de danger.", "pt": "Não há perigo." },
+        { "level": "A2-B1", "fr": "Attention, il y a un danger !", "pt": "Cuidado, há um perigo!" },
+        { "level": "B2", "fr": "Le danger est écarté grâce aux barrières.", "pt": "O perigo é afastado graças às barreiras." },
+        { "level": "C1-C2", "fr": "C'est le danger qui, évité, rend la visite sereine.", "pt": "É o perigo que, evitado, torna a visita serena." }
+      ]
+    },
+    {
+      "term": "la vitre",
+      "definitionPt": "o vidro",
+      "definitionFr": "Verre d'une fenêtre ou d'un enclos.",
+      "inflections": ["la vitre", "une vitre", "des vitres"],
+      "ptTargets": ["vidro"],
+      "examples": [
+        { "level": "A1", "fr": "La vitre est propre.", "pt": "O vidro está limpo." },
+        { "level": "A2-B1", "fr": "L'ours est derrière une vitre.", "pt": "O urso está atrás de um vidro." },
+        { "level": "B2", "fr": "La vitre, épaisse, protège les visiteurs.", "pt": "O vidro, grosso, protege os visitantes." },
+        { "level": "C1-C2", "fr": "C'est la vitre qui, invisible, sépare l'homme de l'animal.", "pt": "É o vidro que, invisível, separa o homem do animal." }
+      ]
+    },
+    {
+      "term": "l'étiquette",
+      "definitionPt": "a etiqueta / placa",
+      "definitionFr": "Petit texte qui donne des informations.",
+      "inflections": ["l'étiquette", "une étiquette", "des étiquettes"],
+      "ptTargets": ["etiqueta", "placa"],
+      "examples": [
+        { "level": "A1", "fr": "L'étiquette est petite.", "pt": "A etiqueta é pequena." },
+        { "level": "A2-B1", "fr": "Irlan lit l'étiquette du zoo.", "pt": "Irlan lê a etiqueta do zoológico." },
+        { "level": "B2", "fr": "L'étiquette explique le nom de chaque animal.", "pt": "A etiqueta explica o nome de cada animal." },
+        { "level": "C1-C2", "fr": "C'est l'étiquette qui, informative, enrichit la visite.", "pt": "É a etiqueta que, informativa, enriquece a visita." }
+      ]
+    },
+    {
+      "term": "protéger",
+      "definitionPt": "proteger",
+      "definitionFr": "Mettre à l'abri du danger.",
+      "inflections": ["je protège", "protéger", "nous protégeons"],
+      "ptTargets": ["proteger"],
+      "examples": [
+        { "level": "A1", "fr": "Le zoo protège les animaux.", "pt": "O zoológico protege os animais." },
+        { "level": "A2-B1", "fr": "Il faut protéger la nature.", "pt": "É preciso proteger a natureza." },
+        { "level": "B2", "fr": "Les parcs nationaux protègent les espèces rares.", "pt": "Os parques nacionais protegem as espécies raras." },
+        { "level": "C1-C2", "fr": "C'est en protégeant que l'on préserve l'avenir.", "pt": "É protegendo que se preserva o futuro." }
+      ]
+    },
+    {
+      "term": "raconter",
+      "definitionPt": "contar",
+      "definitionFr": "Dire une histoire.",
+      "inflections": ["je raconte", "raconter", "nous racontons"],
+      "ptTargets": ["contar"],
+      "examples": [
+        { "level": "A1", "fr": "Je raconte ma journée.", "pt": "Eu conto meu dia." },
+        { "level": "A2-B1", "fr": "Íris raconte sa journée à sa grand-mère.", "pt": "Íris conta seu dia à avó." },
+        { "level": "B2", "fr": "Elle raconte sa visite avec enthousiasme.", "pt": "Ela conta sua visita com entusiasmo." },
+        { "level": "C1-C2", "fr": "C'est en racontant que l'on revit les bons moments.", "pt": "É contando que se revivem os bons momentos." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Il y a / Il n'y a pas",
+    "explanationPt": "'Il y a' = há, existe. Negativo: 'Il n'y a pas' = não há. Ex.: 'Il y a des lions' (há leões), 'Il n'y a pas de danger' (não há perigo). No negativo, usa-se 'de' depois de 'pas'.",
+    "exampleFr": "Il y a des lions, des singes et des ours. Il n'y a pas de danger.",
+    "examplePt": "Há leões, macacos e ursos. Não há perigo.",
+    "practiceQuestion": "Complete: 'Il y a _____ lions au zoo.'",
+    "options": ["des", "de", "du"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "Aimer + infinitif",
+        "explanationPt": "'Aimer' + infinitivo = gostar de fazer algo: 'J'aime regarder les singes' (gosto de olhar os macacos), 'J'aime apprendre' (gosto de aprender). Também 'aimer' + substantivo: 'J'aime les animaux'.",
+        "exampleFr": "J'aime regarder les singes. J'aime apprendre les noms des animaux.",
+        "examplePt": "Gosto de olhar os macacos. Gosto de aprender os nomes dos animais.",
+        "practiceQuestion": "Complete: 'J'aime _____ les singes.'",
+        "options": ["regarder", "regarde", "regardons"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "Comment s'appelle... ?",
+        "explanationPt": "Para perguntar o nome: 'Comment s'appelle le petit singe ?' (como se chama o macaquinho?). Resposta: 'Il s'appelle Kiki' (ele se chama Kiki).",
+        "exampleFr": "— Comment s'appelle le petit singe ? — Il s'appelle Kiki.",
+        "examplePt": "— Como se chama o macaquinho? — Ele se chama Kiki.",
+        "practiceQuestion": "Complete: 'Comment s'_____ le petit singe ?'",
+        "options": ["appelle", "appeler", "appelons"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Desde que ano existe o zoo de Amiens?",
+      "options": ["1952", "1889", "2005"],
+      "correctIndex": 0,
+      "explanation": "Le zoo existe depuis 1952."
+    },
+    {
+      "question": "Onde fica o zoo de Amiens?",
+      "options": ["no parque de la Hotoie", "perto da catedral", "no quartier Saint-Leu"],
+      "correctIndex": 0,
+      "explanation": "La famille va au zoo d'Amiens, dans le parc de la Hotoie."
+    },
+    {
+      "question": "O que Íris mais gosta de olhar?",
+      "options": ["os macacos", "os elefantes", "os ursos"],
+      "correctIndex": 0,
+      "explanation": "J'aime regarder les singes."
+    },
+    {
+      "question": "Complete: 'Il y a _____ lions au zoo.'",
+      "options": ["des", "de", "du"],
+      "correctIndex": 0,
+      "explanation": "Il y a + des + plural."
+    },
+    {
+      "question": "Complete: 'Comment s'_____ le petit singe ?'",
+      "options": ["appelle", "appeler", "appelons"],
+      "correctIndex": 0,
+      "explanation": "S'appeler: il s'appelle."
+    }
+  ]
+}

@@ -1,0 +1,257 @@
+{
+  "id": "marseille_lesson_33",
+  "cityId": "marseille",
+  "domain": "Transportes & Cidade",
+  "level": "Avançado (C1)",
+  "titleFr": "Le métro et la scooter : Marseille en mouvement",
+  "titlePt": "O metrô e a scooter: Marseille em movimento",
+  "subtitleFr": "Le subjonctif et la condition : la ville qui circule",
+  "subtitlePt": "O subjuntivo e a condição: a cidade que circula",
+  "summaryPt": "O metrô de Marseille, inaugurado em 1977, atravessa a cidade em linhas automáticas, enquanto a scooter de Irlan dança entre os carros. Nesta aula C1, o geógrafo compara os dois jeitos de viver a cidade: debaixo da terra e sobre duas rodas.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Le métro de Marseille, ouvert en 1977, roulait sans conducteur. « Pour que les rames soient fiables, tout est contrôlé à distance », expliqua un agent à Irlan. Les portes se fermaient avec un sifflement doux.",
+      "pt": "O metrô de Marseille, aberto em 1977, rodava sem condutor. « Para que os trens sejam confiáveis, tudo é controlado à distância », explicou um agente a Irlan. As portas se fechavam com um assobio suave."
+    },
+    {
+      "id": 2,
+      "fr": "Mais Irlan préférait sa scooter. « Bien que le métro soit rapide, la scooter me montre les couleurs de la ville », dit-il. Il slalomait entre les voitures, remontait les rues étroites, découvrait des places oubliées.",
+      "pt": "Mas Irlan preferia sua scooter. « Embora o metrô seja rápido, a scooter me mostra as cores da cidade », disse ele. Ele fazia zigue-zague entre os carros, subia as ruas estreitas, descobria praças esquecidas."
+    },
+    {
+      "id": 3,
+      "fr": "À condition que le casque soit bien attaché, la ville entière devient un terrain de jeu. « Si j'avais pris le métro, je n'aurais jamais vu cette cour fleurie », nota Irlan. Il nota aussi l'adresse : un futur client peut-être.",
+      "pt": "Contanto que o capacete esteja bem preso, a cidade inteira vira um parque de diversões. « Se eu tivesse pego o metrô, nunca teria visto este pátio florido », observou Irlan. Ele anotou também o endereço: um futuro cliente, talvez."
+    },
+    {
+      "id": 4,
+      "fr": "Le soir, il rejoignit Andréa et Íris à la station Vieux-Port. « Sans que le métro existe, la ville serait étouffée par les voitures », dit Andréa. Íris regardait les rames passer comme des serpents de lumière.",
+      "pt": "À noite, ele encontrou Andréa e Íris na estação Vieux-Port. « Sem que o metrô existisse, a cidade seria sufocada pelos carros », disse Andréa. Íris olhava os trens passarem como serpentes de luz."
+    },
+    {
+      "id": 5,
+      "fr": "Le soir, Irlan écrivit : « Il y a deux Marseilles : celle du dessous, rapide et discrète, et celle du dessus, bruyante et colorée. Pour que je sois complet, il me faut les deux. Comme dans la vie : le cœur et la carte. »",
+      "pt": "À noite, Irlan escreveu: « Há duas Marseilles: a de baixo, rápida e discreta, e a de cima, barulhenta e colorida. Para que eu seja completo, preciso das duas. Como na vida: o coração e o mapa. »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "le métro",
+      "definitionPt": "metrô",
+      "definitionFr": "Chemin de fer souterrain urbain.",
+      "inflections": ["le métro", "les métros"],
+      "ptTargets": ["metrô", "metrôs"],
+      "examples": [
+        { "level": "A1", "fr": "Le métro est rapide.", "pt": "O metrô é rápido." },
+        { "level": "A2-B1", "fr": "Nous prenons le métro.", "pt": "Pegamos o metrô." },
+        { "level": "B1-B2", "fr": "Le métro de Marseille, ouvert en 1977, relie le centre aux quartiers.", "pt": "O metrô de Marseille, aberto em 1977, liga o centro aos bairros." },
+        { "level": "C1-C2", "fr": "C'est le métro qui porte la ville sous la ville.", "pt": "É o metrô que carrega a cidade sob a cidade." }
+      ]
+    },
+    {
+      "term": "la rame",
+      "definitionPt": "trem (de metrô), composição",
+      "definitionFr": "Train du métro.",
+      "inflections": ["la rame", "les rames"],
+      "ptTargets": ["trem", "composição", "trens"],
+      "examples": [
+        { "level": "A1", "fr": "La rame arrive.", "pt": "O trem chega." },
+        { "level": "A2-B1", "fr": "Les rames passent toutes les trois minutes.", "pt": "Os trens passam a cada três minutos." },
+        { "level": "B1-B2", "fr": "Les rames, automatiques, circulent sans conducteur depuis l'origine.", "pt": "Os trens, automáticos, circulam sem condutor desde a origem." },
+        { "level": "C1-C2", "fr": "C'est la rame qui donne au métro son pouls régulier.", "pt": "É o trem que dá ao metrô sua pulsação regular." }
+      ]
+    },
+    {
+      "term": "le conducteur",
+      "definitionPt": "condutor, motorista",
+      "definitionFr": "Personne qui conduit un véhicule.",
+      "inflections": ["le conducteur", "les conducteurs"],
+      "ptTargets": ["condutor", "motorista", "condutores"],
+      "examples": [
+        { "level": "A1", "fr": "Le conducteur est attentif.", "pt": "O condutor é atento." },
+        { "level": "A2-B1", "fr": "Le métro roule sans conducteur.", "pt": "O metrô roda sem condutor." },
+        { "level": "B1-B2", "fr": "Les conducteurs de bus, patients, connaissent chaque arrêt par cœur.", "pt": "Os condutores de ônibus, pacientes, conhecem cada parada de cor." },
+        { "level": "C1-C2", "fr": "C'est le conducteur qui rend le voyage humain.", "pt": "É o condutor que torna a viagem humana." }
+      ]
+    },
+    {
+      "term": "le casque",
+      "definitionPt": "capacete",
+      "definitionFr": "Protection pour la tête.",
+      "inflections": ["le casque", "les casques"],
+      "ptTargets": ["capacete", "capacetes"],
+      "examples": [
+        { "level": "A1", "fr": "Le casque est bleu.", "pt": "O capacete é azul." },
+        { "level": "A2-B1", "fr": "Irlan attache son casque.", "pt": "Irlan prende seu capacete." },
+        { "level": "B1-B2", "fr": "Le casque, bien attaché, protège dans les rues les plus étroites.", "pt": "O capacete, bem preso, protege nas ruas mais estreitas." },
+        { "level": "C1-C2", "fr": "C'est le casque qui permet à la scooter d'oser la ville.", "pt": "É o capacete que permite à scooter ousar a cidade." }
+      ]
+    },
+    {
+      "term": "slalomer",
+      "definitionPt": "fazer zigue-zague, slalomar",
+      "definitionFr": "Avancer en zigzags.",
+      "inflections": ["je slalome", "slalomer", "slalomé"],
+      "ptTargets": ["fazer zigue-zague", "slalomar", "ziguezaguear"],
+      "examples": [
+        { "level": "A1", "fr": "Je slalome entre les cônes.", "pt": "Eu faço zigue-zague entre os cones." },
+        { "level": "A2-B1", "fr": "Irlan slalome entre les voitures.", "pt": "Irlan faz zigue-zague entre os carros." },
+        { "level": "B1-B2", "fr": "Slalomer dans les rues étroites, c'est le sport quotidien du livreur.", "pt": "Ziguezaguear nas ruas estreitas é o esporte diário do entregador." },
+        { "level": "C1-C2", "fr": "C'est en slalomant que l'on découvre les secrets de la ville.", "pt": "É ziguezagueando que se descobrem os segredos da cidade." }
+      ]
+    },
+    {
+      "term": "la voiture",
+      "definitionPt": "carro",
+      "definitionFr": "Véhicule à quatre roues.",
+      "inflections": ["la voiture", "les voitures"],
+      "ptTargets": ["carro", "carros"],
+      "examples": [
+        { "level": "A1", "fr": "La voiture est rouge.", "pt": "O carro é vermelho." },
+        { "level": "A2-B1", "fr": "Les voitures remplissent les rues.", "pt": "Os carros enchem as ruas." },
+        { "level": "B1-B2", "fr": "Les voitures, nombreuses le matin, ralentissent les trajets.", "pt": "Os carros, numerosos de manhã, tornam os trajetos mais lentos." },
+        { "level": "C1-C2", "fr": "C'est la voiture qui étouffe les villes qui oublient le métro.", "pt": "É o carro que sufoca as cidades que esquecem o metrô." }
+      ]
+    },
+    {
+      "term": "le serpent",
+      "definitionPt": "serpente",
+      "definitionFr": "Animal long et sans pattes.",
+      "inflections": ["le serpent", "les serpents"],
+      "ptTargets": ["serpente", "serpentes"],
+      "examples": [
+        { "level": "A1", "fr": "Le serpent est long.", "pt": "A serpente é comprida." },
+        { "level": "A2-B1", "fr": "Les rames passent comme des serpents de lumière.", "pt": "Os trens passam como serpentes de luz." },
+        { "level": "B1-B2", "fr": "Les serpents de métal glissent dans les tunnels sombres.", "pt": "As serpentes de metal deslizam nos túneis escuros." },
+        { "level": "C1-C2", "fr": "C'est le serpent qui hante les légendes des villes souterraines.", "pt": "É a serpente que habita as lendas das cidades subterrâneas." }
+      ]
+    },
+    {
+      "term": "le tunnel",
+      "definitionPt": "túnel",
+      "definitionFr": "Passage creusé sous terre.",
+      "inflections": ["le tunnel", "les tunnels"],
+      "ptTargets": ["túnel", "túneis"],
+      "examples": [
+        { "level": "A1", "fr": "Le tunnel est sombre.", "pt": "O túnel é escuro." },
+        { "level": "A2-B1", "fr": "Le métro traverse les tunnels.", "pt": "O metrô atravessa os túneis." },
+        { "level": "B1-B2", "fr": "Les tunnels, creusés sous la ville, forment un second Marseille.", "pt": "Os túneis, escavados sob a cidade, formam uma segunda Marseille." },
+        { "level": "C1-C2", "fr": "C'est le tunnel qui relie les rêves souterrains de la ville.", "pt": "É o túnel que liga os sonhos subterrâneos da cidade." }
+      ]
+    },
+    {
+      "term": "s'étouffer",
+      "definitionPt": "sufocar-se",
+      "definitionFr": "Manquer d'air.",
+      "inflections": ["je m'étouffe", "s'étouffer", "étouffé"],
+      "ptTargets": ["sufocar-se", "sufocada", "sufocar"],
+      "examples": [
+        { "level": "A1", "fr": "La ville s'étouffe.", "pt": "A cidade sufoca." },
+        { "level": "A2-B1", "fr": "La ville serait étouffée par les voitures.", "pt": "A cidade seria sufocada pelos carros." },
+        { "level": "B1-B2", "fr": "S'étouffer dans les embouteillages, c'est le quotidien des grandes villes.", "pt": "Sufocar-se nos engarrafamentos é o cotidiano das grandes cidades." },
+        { "level": "C1-C2", "fr": "C'est en s'étouffant que la ville apprend la valeur du métro.", "pt": "É se sufocando que a cidade aprende o valor do metrô." }
+      ]
+    },
+    {
+      "term": "la cour fleurie",
+      "definitionPt": "pátio florido",
+      "definitionFr": "Cour décorée de fleurs.",
+      "inflections": ["la cour fleurie", "les cours fleuries"],
+      "ptTargets": ["pátio florido", "pátios floridos"],
+      "examples": [
+        { "level": "A1", "fr": "La cour fleurie est belle.", "pt": "O pátio florido é bonito." },
+        { "level": "A2-B1", "fr": "Irlan découvre une cour fleurie.", "pt": "Irlan descobre um pátio florido." },
+        { "level": "B1-B2", "fr": "Les cours fleuries, cachées derrière les façades, étonnent les passants.", "pt": "Os pátios floridos, escondidos atrás das fachadas, surpreendem os passantes." },
+        { "level": "C1-C2", "fr": "C'est la cour fleurie qui offre au livreur sa pause de beauté.", "pt": "É o pátio florido que oferece ao entregador sua pausa de beleza." }
+      ]
+    },
+    {
+      "term": "l'adresse",
+      "definitionPt": "endereço",
+      "definitionFr": "Indication du lieu d'habitation.",
+      "inflections": ["l'adresse", "les adresses"],
+      "ptTargets": ["endereço", "endereços"],
+      "examples": [
+        { "level": "A1", "fr": "L'adresse est connue.", "pt": "O endereço é conhecido." },
+        { "level": "A2-B1", "fr": "Il note l'adresse dans son carnet.", "pt": "Ele anota o endereço no caderno." },
+        { "level": "B1-B2", "fr": "Les adresses, accumulées au fil des livraisons, dessinent une carte personnelle.", "pt": "Os endereços, acumulados ao longo das entregas, desenham um mapa pessoal." },
+        { "level": "C1-C2", "fr": "C'est l'adresse qui transforme les rues en mémoire vivante.", "pt": "É o endereço que transforma as ruas em memória viva." }
+      ]
+    },
+    {
+      "term": "le client",
+      "definitionPt": "cliente",
+      "definitionFr": "Personne qui achète un service.",
+      "inflections": ["le client", "les clients"],
+      "ptTargets": ["cliente", "clientes"],
+      "examples": [
+        { "level": "A1", "fr": "Le client attend.", "pt": "O cliente espera." },
+        { "level": "A2-B1", "fr": "Les clients commandent en ligne.", "pt": "Os clientes pedem online." },
+        { "level": "B1-B2", "fr": "Les clients, fidèles, connaissent le livreur par son prénom.", "pt": "Os clientes, fiéis, conhecem o entregador pelo nome." },
+        { "level": "C1-C2", "fr": "C'est le client qui donne au travail du livreur sa raison d'être.", "pt": "É o cliente que dá ao trabalho do entregador sua razão de ser." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Subjonctif et condition : la ville qui circule",
+    "explanationPt": "Combinação C1 nos transportes: subjonctif ('Pour que les rames soient fiables', 'Bien que le métro soit rapide', 'Pour que je sois complet', 'Sans que le métro existe') e condição/hipótese ('Si j'avais pris le métro, je n'aurais jamais vu cette cour', 'À condition que le casque soit bien attaché').",
+    "exampleFr": "Bien que le métro soit rapide, la scooter me montre les couleurs de la ville ; si j'avais pris le métro, je n'aurais jamais vu cette cour fleurie.",
+    "examplePt": "Embora o metrô seja rápido, a scooter me mostra as cores da cidade; se eu tivesse pego o metrô, nunca teria visto este pátio florido.",
+    "practiceQuestion": "Complete: « Si j'avais pris le métro, je n'___ jamais vu cette cour fleurie. »",
+    "options": ["aurais", "avais", "ai"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "Si + PQP → conditionnel passé",
+        "explanationPt": "'Si j'avais pris le métro, je n'aurais jamais vu cette cour' : hipótese passada irreal.",
+        "exampleFr": "Si j'avais pris le métro, je n'aurais jamais vu cette cour fleurie.",
+        "examplePt": "Se eu tivesse pego o metrô, nunca teria visto este pátio florido.",
+        "practiceQuestion": "Complete: « Si j'avais pris le métro, je n'___ jamais vu cette cour. »",
+        "options": ["aurais", "avais", "ai"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "Sans que + subjonctif",
+        "explanationPt": "'Sans que le métro existe, la ville serait étouffée' : hipótese com subjonctif.",
+        "exampleFr": "Sans que le métro existe, la ville serait étouffée par les voitures.",
+        "examplePt": "Sem que o metrô existisse, a cidade seria sufocada pelos carros.",
+        "practiceQuestion": "Complete: « Sans que le métro ___, la ville serait étouffée. »",
+        "options": ["existe", "existait", "existera"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Complete: « Si j'avais pris le métro, je n'___ jamais vu cette cour. »",
+      "options": ["aurais", "avais", "ai"],
+      "correctIndex": 0,
+      "explanation": "Hypothèse passée → conditionnel passé : 'aurais vu'."
+    },
+    {
+      "question": "Em que ano o metrô de Marseille foi aberto?",
+      "options": ["1977", "1950", "2001"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'Le métro de Marseille, ouvert en 1977'."
+    },
+    {
+      "question": "Por que Irlan prefere a scooter?",
+      "options": ["Porque ela mostra as cores da cidade", "Porque é mais barata", "Porque não gosta de metrô"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'la scooter me montre les couleurs de la ville'."
+    },
+    {
+      "question": "Complete: « Sans que le métro ___, la ville serait étouffée. »",
+      "options": ["existe", "existait", "existera"],
+      "correctIndex": 0,
+      "explanation": "Sans que + subjonctif : 'existe'."
+    },
+    {
+      "question": "O que diz Andréa sobre o metrô?",
+      "options": ["Que sem ele a cidade seria sufocada pelos carros", "Que ele é velho demais", "Que ele deveria ser fechado"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'Sans que le métro existe, la ville serait étouffée par les voitures'."
+    }
+  ]
+}

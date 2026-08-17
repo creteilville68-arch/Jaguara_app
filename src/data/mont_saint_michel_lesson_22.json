@@ -1,0 +1,252 @@
+{
+  "id": "mont_saint_michel_lesson_22",
+  "cityId": "mont-saint-michel",
+  "domain": "História & Cultura",
+  "level": "Básico (A2/B1)",
+  "titleFr": "L'église abbatiale : trois étages vers le ciel",
+  "titlePt": "A igreja da abadia: três andares rumo ao céu",
+  "subtitleFr": "Sur le sommet du rocher, l'église monte en trois niveaux",
+  "subtitlePt": "No topo do rochedo, a igreja sobe em três níveis",
+  "summaryPt": "Nesta Aula 22 (A2/B1), a família chega ao topo do Mont e visita a igreja da abadia, construída sobre o rochedo em três níveis: a cripta embaixo, a igreja no meio e a Merveille em cima. O aluno pratica a descrição de lugares (l'église était immense, les murs étaient épais) e o vocabulário da arquitetura.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Au sommet du rocher, l'église abbatiale domine la baie. « Les moines ont construit trois étages pour soutenir l'église », a expliqué le guide. « Le rocher était trop petit. »",
+      "pt": "No topo do rochedo, a igreja da abadia domina a baía. « Os monges construíram três andares para sustentar a igreja », explicou o guia. « O rochedo era pequeno demais. »"
+    },
+    {
+      "id": 2,
+      "fr": "« En bas, la crypte soutenait tout », a dit Andréa. « Au milieu, l'église accueillait les fidèles. En haut, les moines vivaient dans la Merveille. »",
+      "pt": "« Embaixo, a cripta sustentava tudo », disse Andréa. « No meio, a igreja recebia os fiéis. Em cima, os monges viviam na Merveille. »"
+    },
+    {
+      "id": 3,
+      "fr": "Les murs étaient épais et les colonnes étaient immenses. « Quand les pèlerins entraient ici, ils étaient fatigués, mais ils oubliaient tout », a murmuré Irlan.",
+      "pt": "As paredes eram espessas e as colunas eram imensas. « Quando os peregrinos entravam aqui, estavam cansados, mas esqueciam tudo », murmurou Irlan."
+    },
+    {
+      "id": 4,
+      "fr": "De l'église, on voyait la mer à perte de vue. « C'est le toit du Mont », a dit Íris. « On est sur le toit du monde ! »",
+      "pt": "Da igreja, via-se o mar até perder de vista. « É o telhado do Mont », disse Íris. « Estamos no telhado do mundo! »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "l'église",
+      "definitionPt": "a igreja",
+      "definitionFr": "Édifice religieux.",
+      "inflections": ["l'église", "une église", "des églises"],
+      "ptTargets": ["igreja"],
+      "examples": [
+        { "level": "A1", "fr": "L'église est vieille.", "pt": "A igreja é velha." },
+        { "level": "A2-B1", "fr": "L'église abbatiale domine le Mont.", "pt": "A igreja da abadia domina o Mont." },
+        { "level": "B2", "fr": "L'église, perchée sur le rocher, semble toucher le ciel.", "pt": "A igreja, empoleirada no rochedo, parece tocar o céu." },
+        { "level": "C1-C2", "fr": "Cette église, bâtie sur la mer, est un acte de foi en pierre.", "pt": "Esta igreja, construída sobre o mar, é um ato de fé em pedra." }
+      ]
+    },
+    {
+      "term": "le sommet",
+      "definitionPt": "o topo, o cume",
+      "definitionFr": "Partie la plus haute.",
+      "inflections": ["le sommet", "un sommet", "des sommets"],
+      "ptTargets": ["topo", "cume"],
+      "examples": [
+        { "level": "A1", "fr": "Le sommet est haut.", "pt": "O topo é alto." },
+        { "level": "A2-B1", "fr": "L'église est au sommet du rocher.", "pt": "A igreja fica no topo do rochedo." },
+        { "level": "B2", "fr": "Du sommet, la vue sur la baie est incroyable.", "pt": "Do topo, a vista da baía é incrível." },
+        { "level": "C1-C2", "fr": "Atteindre le sommet du Mont, c'est toucher le ciel et la mer à la fois.", "pt": "Alcançar o topo do Mont é tocar o céu e o mar ao mesmo tempo." }
+      ]
+    },
+    {
+      "term": "la crypte",
+      "definitionPt": "a cripta",
+      "definitionFr": "Salle souterraine d'une église.",
+      "inflections": ["la crypte", "une crypte", "des cryptes"],
+      "ptTargets": ["cripta"],
+      "examples": [
+        { "level": "A1", "fr": "La crypte est sombre.", "pt": "A cripta é escura." },
+        { "level": "A2-B1", "fr": "La crypte soutient l'église au-dessus.", "pt": "A cripta sustenta a igreja acima." },
+        { "level": "B2", "fr": "La crypte de la Merveille est immense.", "pt": "A cripta da Merveille é imensa." },
+        { "level": "C1-C2", "fr": "Dans la crypte, la lumière est si faible qu'on entend son propre souffle.", "pt": "Na cripta, a luz é tão fraca que se ouve o próprio sopro." }
+      ]
+    },
+    {
+      "term": "soutenir",
+      "definitionPt": "sustentar, apoiar",
+      "definitionFr": "Porter, maintenir.",
+      "inflections": ["je soutiens", "nous soutenons", "soutenu"],
+      "ptTargets": ["sustentar", "apoiar"],
+      "examples": [
+        { "level": "A1", "fr": "La table soutient le vase.", "pt": "A mesa sustenta o vaso." },
+        { "level": "A2-B1", "fr": "La crypte soutient toute l'église.", "pt": "A cripta sustenta toda a igreja." },
+        { "level": "B2", "fr": "Les colonnes soutiennent le poids de la pierre.", "pt": "As colunas sustentam o peso da pedra." },
+        { "level": "C1-C2", "fr": "Soutenir une église sur un rocher, c'est défier les lois de la gravité.", "pt": "Sustentar uma igreja sobre um rochedo é desafiar as leis da gravidade." }
+      ]
+    },
+    {
+      "term": "le fidèle",
+      "definitionPt": "o fiel",
+      "definitionFr": "Personne qui pratique une religion.",
+      "inflections": ["le fidèle", "la fidèle", "des fidèles"],
+      "ptTargets": ["fiel"],
+      "examples": [
+        { "level": "A1", "fr": "Le fidèle prie.", "pt": "O fiel reza." },
+        { "level": "A2-B1", "fr": "L'église accueillait les fidèles.", "pt": "A igreja recebia os fiéis." },
+        { "level": "B2", "fr": "Des milliers de fidèles sont venus prier ici.", "pt": "Milhares de fiéis vieram rezar aqui." },
+        { "level": "C1-C2", "fr": "Les fidèles montaient le rocher pour rencontrer l'archange.", "pt": "Os fiéis subiam o rochedo para encontrar o arcanjo." }
+      ]
+    },
+    {
+      "term": "épais",
+      "definitionPt": "espesso",
+      "definitionFr": "Dont les parois sont épaisses.",
+      "inflections": ["épais", "épaisse", "épais"],
+      "ptTargets": ["espesso"],
+      "examples": [
+        { "level": "A1", "fr": "Le mur est épais.", "pt": "A parede é espessa." },
+        { "level": "A2-B1", "fr": "Les murs de l'église sont très épais.", "pt": "As paredes da igreja são muito espessas." },
+        { "level": "B2", "fr": "Les murs épais protègent des tempêtes de la baie.", "pt": "As paredes espessas protegem das tempestades da baía." },
+        { "level": "C1-C2", "fr": "Épais comme des forteresses, les murs défient les siècles.", "pt": "Espessas como fortalezas, as paredes desafiam os séculos." }
+      ]
+    },
+    {
+      "term": "la colonne",
+      "definitionPt": "a coluna",
+      "definitionFr": "Support vertical.",
+      "inflections": ["la colonne", "une colonne", "des colonnes"],
+      "ptTargets": ["coluna"],
+      "examples": [
+        { "level": "A1", "fr": "La colonne est en pierre.", "pt": "A coluna é de pedra." },
+        { "level": "A2-B1", "fr": "Les colonnes de l'église sont immenses.", "pt": "As colunas da igreja são imensas." },
+        { "level": "B2", "fr": "Les colonnes montent vers la voûte comme des arbres de pierre.", "pt": "As colunas sobem até a abóbada como árvores de pedra." },
+        { "level": "C1-C2", "fr": "Ces colonnes ont vu mille ans de prières silencieuses.", "pt": "Estas colunas viram mil anos de orações silenciosas." }
+      ]
+    },
+    {
+      "term": "la voûte",
+      "definitionPt": "a abóbada",
+      "definitionFr": "Plafond en arc.",
+      "inflections": ["la voûte", "une voûte", "des voûtes"],
+      "ptTargets": ["abóbada"],
+      "examples": [
+        { "level": "A1", "fr": "La voûte est haute.", "pt": "A abóbada é alta." },
+        { "level": "A2-B1", "fr": "La voûte de l'église est impressionnante.", "pt": "A abóbada da igreja é impressionante." },
+        { "level": "B2", "fr": "La voûte en pierre soutient le poids de la Merveille.", "pt": "A abóbada de pedra sustenta o peso da Merveille." },
+        { "level": "C1-C2", "fr": "Sous la voûte, la voix des moines résonnait comme un chant venu du ciel.", "pt": "Sob a abóbada, a voz dos monges ressoava como um canto vindo do céu." }
+      ]
+    },
+    {
+      "term": "à perte de vue",
+      "definitionPt": "até perder de vista",
+      "definitionFr": "Aussi loin que l'œil peut voir.",
+      "inflections": ["à perte de vue", "à perte de vue", "perte de vue"],
+      "ptTargets": ["até perder de vista"],
+      "examples": [
+        { "level": "A1", "fr": "La mer s'étend à perte de vue.", "pt": "O mar se estende até perder de vista." },
+        { "level": "A2-B1", "fr": "De l'église, on voyait la baie à perte de vue.", "pt": "Da igreja, via-se a baía até perder de vista." },
+        { "level": "B2", "fr": "Les prés salés s'étendaient à perte de vue sous le soleil.", "pt": "Os prados salgados se estendiam até perder de vista sob o sol." },
+        { "level": "C1-C2", "fr": "À perte de vue, le ciel et la mer se confondaient dans un même gris.", "pt": "Até perder de vista, o céu e o mar se confundiam num mesmo cinza." }
+      ]
+    },
+    {
+      "term": "le poids",
+      "definitionPt": "o peso",
+      "definitionFr": "Lourdeur.",
+      "inflections": ["le poids", "un poids", "des poids"],
+      "ptTargets": ["peso"],
+      "examples": [
+        { "level": "A1", "fr": "Le poids est lourd.", "pt": "O peso é pesado." },
+        { "level": "A2-B1", "fr": "Les colonnes soutiennent le poids de la pierre.", "pt": "As colunas sustentam o peso da pedra." },
+        { "level": "B2", "fr": "Le poids de l'église repose sur la crypte.", "pt": "O peso da igreja repousa na cripta." },
+        { "level": "C1-C2", "fr": "Le poids des siècles pèse aussi sur les murs.", "pt": "O peso dos séculos também pesa sobre as paredes." }
+      ]
+    },
+    {
+      "term": "construire",
+      "definitionPt": "construir",
+      "definitionFr": "Bâtir.",
+      "inflections": ["je construis", "nous construisons", "construit"],
+      "ptTargets": ["construir"],
+      "examples": [
+        { "level": "A1", "fr": "Ils construisent une maison.", "pt": "Eles constroem uma casa." },
+        { "level": "A2-B1", "fr": "Les moines ont construit l'église sur le rocher.", "pt": "Os monges construíram a igreja sobre o rochedo." },
+        { "level": "B2", "fr": "Construire sur un rocher demande un génie incroyable.", "pt": "Construir sobre um rochedo exige um gênio incrível." },
+        { "level": "C1-C2", "fr": "Ils ont construit pour l'éternité, et l'éternité les a remerciés.", "pt": "Eles construíram para a eternidade, e a eternidade os agradeceu." }
+      ]
+    },
+    {
+      "term": "immense",
+      "definitionPt": "imenso",
+      "definitionFr": "Très grand.",
+      "inflections": ["immense", "immenses", "immensément"],
+      "ptTargets": ["imenso"],
+      "examples": [
+        { "level": "A1", "fr": "Le château est immense.", "pt": "O castelo é imenso." },
+        { "level": "A2-B1", "fr": "Les colonnes étaient immenses.", "pt": "As colunas eram imensas." },
+        { "level": "B2", "fr": "La baie, immense, changeait de couleur à chaque heure.", "pt": "A baía, imensa, mudava de cor a cada hora." },
+        { "level": "C1-C2", "fr": "Immense et solitaire, l'église veille sur les marées.", "pt": "Imensa e solitária, a igreja vigia as marés." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Décrire l'architecture au passé : les murs étaient épais",
+    "explanationPt": "Descrição de lugares no passado = imparfait: 'les murs étaient épais' (as paredes eram espessas), 'les colonnes étaient immenses' (as colunas eram imensas).",
+    "exampleFr": "Les murs étaient épais, les colonnes étaient immenses et la lumière était douce.",
+    "examplePt": "As paredes eram espessas, as colunas eram imensas e a luz era suave.",
+    "practiceQuestion": "Complete: « Les murs ___ très épais. »",
+    "options": ["étaient", "ont été", "seront"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "En bas / au milieu / en haut : organiser la description",
+        "explanationPt": "Para descrever um edifício em níveis: 'en bas' (embaixo), 'au milieu' (no meio), 'en haut' (em cima). 'La crypte était en bas, l'église au milieu, la Merveille en haut'.",
+        "exampleFr": "En bas, la crypte soutenait tout ; au milieu, l'église ; en haut, la Merveille.",
+        "examplePt": "Embaixo, a cripta sustentava tudo; no meio, a igreja; em cima, a Merveille.",
+        "practiceQuestion": "Onde ficava a crypte?",
+        "options": ["En bas", "Au milieu", "En haut"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "Quand les pèlerins entraient : l'émotion au passé",
+        "explanationPt": "'Quand les pèlerins entraient (IMP), ils étaient fatigués (IMP), mais ils oubliaient (IMP) tout' — cena emocional habitual no passado.",
+        "exampleFr": "Quand les pèlerins entraient dans l'église, ils oubliaient leur fatigue.",
+        "examplePt": "Quando os peregrinos entravam na igreja, esqueciam seu cansaço.",
+        "practiceQuestion": "Complete: « Quand les pèlerins entraient, ils ___ leur fatigue. »",
+        "options": ["oubliaient", "ont oublié", "oublieront"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Por que os monges construíram três níveis?",
+      "options": ["Porque o rochedo era pequeno demais para a igreja", "Para ter mais janelas", "Para esconder tesouros"],
+      "correctIndex": 0,
+      "explanation": "O rochedo era pequeno, então os monges construíram três andares para sustentar a igreja."
+    },
+    {
+      "question": "Complete: « Les murs ___ très épais. »",
+      "options": ["étaient", "ont été", "seront"],
+      "correctIndex": 0,
+      "explanation": "Descrição no passado = imparfait: 'étaient'."
+    },
+    {
+      "question": "O que sustentava a igreja por baixo?",
+      "options": ["A crypte", "A Merveille", "O claustro"],
+      "correctIndex": 0,
+      "explanation": "A cripta, no nível mais baixo, sustentava todo o edifício."
+    },
+    {
+      "question": "Onde viviam os monges?",
+      "options": ["Na Merveille, no topo", "Na crypte", "Fora do Mont"],
+      "correctIndex": 0,
+      "explanation": "Os monges viviam na Merveille, no nível mais alto do edifício."
+    },
+    {
+      "question": "O que os peregrinos esqueciam ao entrar na igreja?",
+      "options": ["Sua fadiga", "Seus nomes", "O caminho de volta"],
+      "correctIndex": 0,
+      "explanation": "Ao entrar na igreja, os peregrinos cansados esqueciam a fadiga da subida."
+    }
+  ]
+}

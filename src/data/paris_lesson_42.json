@@ -1,0 +1,252 @@
+{
+  "id": "paris_lesson_42",
+  "cityId": "paris",
+  "domain": "Cultura & Leitura",
+  "level": "Iniciante (A1)",
+  "titleFr": "La bibliothèque",
+  "titlePt": "A biblioteca",
+  "subtitleFr": "Les livres et la lecture à Paris",
+  "subtitlePt": "Os livros e a leitura em Paris",
+  "summaryPt": "Nesta Aula 42 (A1), Íris descobre a biblioteca do bairro com a mãe. O aluno aprende o vocabulário da leitura (livre, bibliothèque, histoire, page, lire, emprunter, rendre, dictionnaire) e o verbo lire.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Le samedi matin, Iris va à la bibliothèque avec Andréa. « La bibliothèque est un endroit calme, dit Andréa. On lit des livres, on regarde des histoires et on peut emprunter des livres pour la maison. »",
+      "pt": "No sábado de manhã, Íris vai à biblioteca com Andréa. « A biblioteca é um lugar calmo, diz Andréa. Lê-se livros, olha-se histórias e pode-se pegar livros emprestados para casa. »"
+    },
+    {
+      "id": 2,
+      "fr": "Iris cherche un livre sur les animaux. La bibliothécaire sourit : « Voici un beau livre avec beaucoup d'images. Tu peux le lire ici ou l'emprunter pour deux semaines. N'oublie pas de le rendre à temps ! »",
+      "pt": "Íris procura um livro sobre animais. A bibliotecária sorri: « Aqui está um lindo livro com muitas imagens. Você pode lê-lo aqui ou pegá-lo emprestado por duas semanas. Não esqueça de devolvê-lo a tempo! »"
+    },
+    {
+      "id": 3,
+      "fr": "Irlan apprend le français avec un dictionnaire. « Chaque jour, je lis une page, dit-il. Je cherche les mots nouveaux et j'écris des phrases avec ces mots. C'est comme ça que j'apprends. »",
+      "pt": "Irlan aprende francês com um dicionário. « Todos os dias, eu leio uma página, diz ele. Procuro as palavras novas e escrevo frases com essas palavras. É assim que eu aprendo. »"
+    },
+    {
+      "id": 4,
+      "fr": "Le soir, la famille lit ensemble. Iris lit une histoire à voix haute : « Il était une fois une petite souris... » Andréa et Irlan applaudissent. « Bravo ! Tu lis très bien, ma chérie ! »",
+      "pt": "À noite, a família lê junto. Íris lê uma história em voz alta: « Era uma vez um ratinho... » Andréa e Irlan aplaudem. « Parabéns! Você lê muito bem, minha querida! »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "la bibliothèque",
+      "definitionPt": "a biblioteca",
+      "definitionFr": "Lieu où l'on emprunte des livres.",
+      "inflections": ["la bibliothèque", "une bibliothèque", "des bibliothèques"],
+      "ptTargets": ["biblioteca"],
+      "examples": [
+        { "level": "A1", "fr": "La bibliothèque est calme.", "pt": "A biblioteca é calma." },
+        { "level": "A2-B1", "fr": "Nous allons à la bibliothèque le samedi.", "pt": "Vamos à biblioteca no sábado." },
+        { "level": "B2", "fr": "La bibliothèque du quartier, moderne, accueille petits et grands.", "pt": "A biblioteca do bairro, moderna, acolhe pequenos e grandes." },
+        { "level": "C1-C2", "fr": "C'est la bibliothèque qui, silencieuse, garde la mémoire des mots.", "pt": "É a biblioteca que, silenciosa, guarda a memória das palavras." }
+      ]
+    },
+    {
+      "term": "le livre",
+      "definitionPt": "o livro",
+      "definitionFr": "Objet avec des pages à lire.",
+      "inflections": ["le livre", "un livre", "des livres"],
+      "ptTargets": ["livro"],
+      "examples": [
+        { "level": "A1", "fr": "Le livre est rouge.", "pt": "O livro é vermelho." },
+        { "level": "A2-B1", "fr": "Iris emprunte un livre sur les animaux.", "pt": "Íris pega emprestado um livro sobre animais." },
+        { "level": "B2", "fr": "Les livres, ouverts, racontent des mondes entiers.", "pt": "Os livros, abertos, contam mundos inteiros." },
+        { "level": "C1-C2", "fr": "C'est le livre qui, fidèle, accompagne chaque lecteur.", "pt": "É o livro que, fiel, acompanha cada leitor." }
+      ]
+    },
+    {
+      "term": "l'histoire",
+      "definitionPt": "a história",
+      "definitionFr": "Récit à raconter.",
+      "inflections": ["l'histoire", "une histoire", "des histoires"],
+      "ptTargets": ["história"],
+      "examples": [
+        { "level": "A1", "fr": "L'histoire est belle.", "pt": "A história é bonita." },
+        { "level": "A2-B1", "fr": "Iris lit une histoire à voix haute.", "pt": "Íris lê uma história em voz alta." },
+        { "level": "B2", "fr": "Les histoires du soir, douces, aident les enfants à dormir.", "pt": "As histórias da noite, suaves, ajudam as crianças a dormir." },
+        { "level": "C1-C2", "fr": "C'est l'histoire qui, racontée, voyage de génération en génération.", "pt": "É a história que, contada, viaja de geração em geração." }
+      ]
+    },
+    {
+      "term": "la page",
+      "definitionPt": "a página",
+      "definitionFr": "Feuille d'un livre.",
+      "inflections": ["la page", "une page", "des pages"],
+      "ptTargets": ["página"],
+      "examples": [
+        { "level": "A1", "fr": "La page est blanche.", "pt": "A página é branca." },
+        { "level": "A2-B1", "fr": "Je lis une page chaque jour.", "pt": "Eu leio uma página todos os dias." },
+        { "level": "B2", "fr": "La page, tournée, fait avancer l'histoire.", "pt": "A página, virada, faz a história avançar." },
+        { "level": "C1-C2", "fr": "C'est la page qui, écrite, devient le reflet de la pensée.", "pt": "É a página que, escrita, torna-se o reflexo do pensamento." }
+      ]
+    },
+    {
+      "term": "lire",
+      "definitionPt": "ler",
+      "definitionFr": "Comprendre un texte écrit.",
+      "inflections": ["lire", "je lis", "nous lisons"],
+      "ptTargets": ["ler"],
+      "examples": [
+        { "level": "A1", "fr": "Je lis un livre.", "pt": "Eu leio um livro." },
+        { "level": "A2-B1", "fr": "Iris lit une histoire à voix haute.", "pt": "Íris lê uma história em voz alta." },
+        { "level": "B2", "fr": "Lire chaque jour, c'est apprendre chaque jour.", "pt": "Ler todos os dias é aprender todos os dias." },
+        { "level": "C1-C2", "fr": "C'est en lisant que l'on découvre le monde.", "pt": "É lendo que se descobre o mundo." }
+      ]
+    },
+    {
+      "term": "emprunter",
+      "definitionPt": "pegar emprestado",
+      "definitionFr": "Prendre un livre pour un temps.",
+      "inflections": ["emprunter", "j'emprunte", "nous empruntons"],
+      "ptTargets": ["pegar emprestado", "emprestar"],
+      "examples": [
+        { "level": "A1", "fr": "J'emprunte un livre.", "pt": "Eu pego um livro emprestado." },
+        { "level": "A2-B1", "fr": "Tu peux emprunter ce livre pour deux semaines.", "pt": "Você pode pegar este livro emprestado por duas semanas." },
+        { "level": "B2", "fr": "À la bibliothèque, on emprunte et on rend des livres.", "pt": "Na biblioteca, pega-se emprestado e devolve-se livros." },
+        { "level": "C1-C2", "fr": "C'est en empruntant que l'on partage les lectures.", "pt": "É pegando emprestado que se partilham as leituras." }
+      ]
+    },
+    {
+      "term": "rendre",
+      "definitionPt": "devolver",
+      "definitionFr": "Donner ce que l'on a emprunté.",
+      "inflections": ["rendre", "je rends", "nous rendons"],
+      "ptTargets": ["devolver"],
+      "examples": [
+        { "level": "A1", "fr": "Je rends le livre.", "pt": "Eu devolvo o livro." },
+        { "level": "A2-B1", "fr": "N'oublie pas de rendre le livre à temps !", "pt": "Não esqueça de devolver o livro a tempo!" },
+        { "level": "B2", "fr": "Il faut rendre les livres à la fin du mois.", "pt": "É preciso devolver os livros no fim do mês." },
+        { "level": "C1-C2", "fr": "C'est en rendant que l'on respecte le partage.", "pt": "É devolvendo que se respeita o compartilhamento." }
+      ]
+    },
+    {
+      "term": "le dictionnaire",
+      "definitionPt": "o dicionário",
+      "definitionFr": "Livre qui explique les mots.",
+      "inflections": ["le dictionnaire", "un dictionnaire", "des dictionnaires"],
+      "ptTargets": ["dicionário"],
+      "examples": [
+        { "level": "A1", "fr": "Le dictionnaire est grand.", "pt": "O dicionário é grande." },
+        { "level": "A2-B1", "fr": "Irlan cherche les mots nouveaux dans le dictionnaire.", "pt": "Irlan procura as palavras novas no dicionário." },
+        { "level": "B2", "fr": "Le dictionnaire, épais, contient des milliers de mots.", "pt": "O dicionário, grosso, contém milhares de palavras." },
+        { "level": "C1-C2", "fr": "C'est le dictionnaire qui, patient, répond à toutes les questions.", "pt": "É o dicionário que, paciente, responde a todas as perguntas." }
+      ]
+    },
+    {
+      "term": "chercher",
+      "definitionPt": "procurar",
+      "definitionFr": "Essayer de trouver.",
+      "inflections": ["chercher", "je cherche", "nous cherchons"],
+      "ptTargets": ["procurar", "buscar"],
+      "examples": [
+        { "level": "A1", "fr": "Je cherche un livre.", "pt": "Eu procuro um livro." },
+        { "level": "A2-B1", "fr": "Iris cherche un livre sur les animaux.", "pt": "Íris procura um livro sobre animais." },
+        { "level": "B2", "fr": "Il cherche les mots nouveaux dans le dictionnaire.", "pt": "Ele procura as palavras novas no dicionário." },
+        { "level": "C1-C2", "fr": "C'est en cherchant que l'on trouve.", "pt": "É procurando que se encontra." }
+      ]
+    },
+    {
+      "term": "écrire",
+      "definitionPt": "escrever",
+      "definitionFr": "Former des mots sur une page.",
+      "inflections": ["écrire", "j'écris", "nous écrivons"],
+      "ptTargets": ["escrever"],
+      "examples": [
+        { "level": "A1", "fr": "J'écris une phrase.", "pt": "Eu escrevo uma frase." },
+        { "level": "A2-B1", "fr": "J'écris des phrases avec les mots nouveaux.", "pt": "Escrevo frases com as palavras novas." },
+        { "level": "B2", "fr": "Écrire chaque jour améliore la langue.", "pt": "Escrever todos os dias melhora o idioma." },
+        { "level": "C1-C2", "fr": "C'est en écrivant que l'on fixe les mots dans la mémoire.", "pt": "É escrevendo que se fixam as palavras na memória." }
+      ]
+    },
+    {
+      "term": "la bibliothécaire",
+      "definitionPt": "a bibliotecária",
+      "definitionFr": "Personne qui travaille à la bibliothèque.",
+      "inflections": ["la bibliothécaire", "une bibliothécaire", "des bibliothécaires"],
+      "ptTargets": ["bibliotecária"],
+      "examples": [
+        { "level": "A1", "fr": "La bibliothécaire est gentille.", "pt": "A bibliotecária é gentil." },
+        { "level": "A2-B1", "fr": "La bibliothécaire donne un livre à Iris.", "pt": "A bibliotecária dá um livro a Íris." },
+        { "level": "B2", "fr": "La bibliothécaire, attentive, aide chaque lecteur.", "pt": "A bibliotecária, atenciosa, ajuda cada leitor." },
+        { "level": "C1-C2", "fr": "C'est la bibliothécaire qui, souriante, ouvre la porte du savoir.", "pt": "É a bibliotecária que, sorridente, abre a porta do saber." }
+      ]
+    },
+    {
+      "term": "à voix haute",
+      "definitionPt": "em voz alta",
+      "definitionFr": "En parlant fort.",
+      "inflections": ["à voix haute"],
+      "ptTargets": ["em voz alta"],
+      "examples": [
+        { "level": "A1", "fr": "Je lis à voix haute.", "pt": "Eu leio em voz alta." },
+        { "level": "A2-B1", "fr": "Iris lit une histoire à voix haute.", "pt": "Íris lê uma história em voz alta." },
+        { "level": "B2", "fr": "Lire à voix haute aide à bien prononcer.", "pt": "Ler em voz alta ajuda a pronunciar bem." },
+        { "level": "C1-C2", "fr": "C'est à voix haute que la langue prend vie.", "pt": "É em voz alta que o idioma ganha vida." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Le verbe lire (ler)",
+    "explanationPt": "O verbo 'lire' (ler) é irregular: je lis, tu lis, il/elle lit, nous lisons, vous lisez, ils/elles lisent. Ex.: 'Je lis un livre' (eu leio um livro), 'Iris lit une histoire' (Íris lê uma história).",
+    "exampleFr": "Je lis une page chaque jour. Iris lit une histoire à voix haute.",
+    "examplePt": "Eu leio uma página todos os dias. Íris lê uma história em voz alta.",
+    "practiceQuestion": "Complete: 'Iris _____ une histoire.'",
+    "options": ["lit", "lis", "lisons"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "Emprunter / rendre : pegar e devolver",
+        "explanationPt": "'Emprunter' = pegar emprestado; 'rendre' = devolver. Ex.: 'J'emprunte un livre' (pego um livro emprestado), 'Je rends le livre' (devolvo o livro).",
+        "exampleFr": "J'emprunte un livre à la bibliothèque et je le rends à temps.",
+        "examplePt": "Pego um livro emprestado na biblioteca e o devolvo a tempo.",
+        "practiceQuestion": "Complete: 'J'_____ un livre à la bibliothèque.'",
+        "options": ["emprunte", "emprunte pas", "rends"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "Il était une fois : o início das histórias",
+        "explanationPt": "Os contos começam com 'Il était une fois...' (era uma vez...). Ex.: 'Il était une fois une petite souris' (era uma vez um ratinho).",
+        "exampleFr": "Il était une fois une petite souris...",
+        "examplePt": "Era uma vez um ratinho...",
+        "practiceQuestion": "Complete: 'Il _____ une fois une petite souris.'",
+        "options": ["était", "est", "a"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Onde Íris vai no sábado de manhã?",
+      "options": ["à biblioteca", "ao mercado", "à praia"],
+      "correctIndex": 0,
+      "explanation": "Le samedi matin, Iris va à la bibliothèque avec Andréa."
+    },
+    {
+      "question": "Que livro Íris procura?",
+      "options": ["um livro sobre animais", "um livro de receitas", "um livro de história"],
+      "correctIndex": 0,
+      "explanation": "Iris cherche un livre sur les animaux."
+    },
+    {
+      "question": "Por quantas semanas ela pode ficar com o livro?",
+      "options": ["duas semanas", "uma semana", "um mês"],
+      "correctIndex": 0,
+      "explanation": "Tu peux le lire ici ou l'emprunter pour deux semaines."
+    },
+    {
+      "question": "Complete: 'Iris _____ une histoire.'",
+      "options": ["lit", "lis", "lisons"],
+      "correctIndex": 0,
+      "explanation": "Lire: il/elle lit."
+    },
+    {
+      "question": "Complete: 'Il _____ une fois une petite souris.'",
+      "options": ["était", "est", "a"],
+      "correctIndex": 0,
+      "explanation": "Il était une fois = era uma vez."
+    }
+  ]
+}

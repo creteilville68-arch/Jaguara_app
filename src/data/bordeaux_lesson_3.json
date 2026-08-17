@@ -1,0 +1,252 @@
+{
+  "id": "bordeaux_lesson_3",
+  "cityId": "bordeaux",
+  "domain": "Cultura",
+  "level": "Intermediário (B1+)",
+  "titleFr": "La Cité du Vin : un voyage sensoriel",
+  "titlePt": "A Cité du Vin: uma viagem sensorial",
+  "subtitleFr": "Le musée du vin de Bordeaux, entre fleuve et architecture moderne",
+  "subtitlePt": "O museu do vinho de Bordeaux, entre rio e arquitetura moderna",
+  "summaryPt": "Nesta Aula 3 (B1+), a família visita a Cité du Vin, o museu do vinho às margens da Garonne. Irlan propõe uma degustação com cortesia: 'nous pourrions déguster un grand cru'. O aluno aprende o Conditionnel Présent de sugestão e o vocabulário da degustação: la robe, le bouquet, le terroir.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "La Cité du Vin se dresse sur les quais comme une grande sculpture dorée. « Nous pourrions commencer par le parcours de visite », a proposé Irlan, en montrant les billets.",
+      "pt": "A Cité du Vin se ergue sobre os cais como uma grande escultura dourada. « Poderíamos começar pelo percurso da visita », propôs Irlan, mostrando os ingressos."
+    },
+    {
+      "id": 2,
+      "fr": "Au huitième étage, le belvédère offre une vue magnifique sur Bordeaux. « Regarde, papa, on voit toute la ville ! » a crié Iris en courant vers la fenêtre.",
+      "pt": "No oitavo andar, o mirante oferece uma vista magnífica de Bordeaux. « Olha, papai, dá para ver a cidade inteira! » gritou Íris correndo para a janela."
+    },
+    {
+      "id": 3,
+      "fr": "À la dégustation, un sommelier a présenté un vin de Saint-Émilion. « Observez sa robe profonde, puis son bouquet. Vous pourriez noter des notes de cerise », a-t-il suggéré.",
+      "pt": "Na degustação, um sommelier apresentou um vinho de Saint-Émilion. « Observem sua cor profunda, depois seu buquê. Vocês poderiam notar notas de cereja », sugeriu ele."
+    },
+    {
+      "id": 4,
+      "fr": "Iris a fait semblant de déguster comme une grande. Andréa a ri : « Ma petite somnellière ! Demain, nous pourrions visiter un vrai château dans le Médoc. » Irlan a approuvé : « Excellente idée. »",
+      "pt": "Íris fingiu degustar como gente grande. Andréa riu: « Minha pequena sommelière! Amanhã, poderíamos visitar um verdadeiro castelo no Médoc. » Irlan aprovou: « Excelente ideia. »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "le vin",
+      "definitionPt": "o vinho",
+      "definitionFr": "Boisson faite de raisin fermenté.",
+      "inflections": ["le vin", "les vins"],
+      "ptTargets": ["vinho"],
+      "examples": [
+        { "level": "A1", "fr": "Le vin est rouge.", "pt": "O vinho é tinto." },
+        { "level": "A2-B1", "fr": "Bordeaux est célèbre pour ses vins.", "pt": "Bordeaux é famosa por seus vinhos." },
+        { "level": "B1-B2", "fr": "Le vin, que l'on déguste avec modération, accompagne les grands repas.", "pt": "O vinho, que se degusta com moderação, acompanha as grandes refeições." },
+        { "level": "C1-C2", "fr": "Le vin bordelais est le fruit d'un terroir, d'un savoir-faire et d'un climat uniques.", "pt": "O vinho de Bordeaux é fruto de um terroir, de um saber-fazer e de um clima únicos." }
+      ]
+    },
+    {
+      "term": "déguster",
+      "definitionPt": "degustar",
+      "definitionFr": "Goûter avec attention.",
+      "inflections": ["je déguste", "nous dégustons"],
+      "ptTargets": ["degustar", "degusta"],
+      "examples": [
+        { "level": "A1", "fr": "Je déguste le gâteau.", "pt": "Eu degusto o bolo." },
+        { "level": "A2-B1", "fr": "Nous pourrions déguster un grand cru.", "pt": "Poderíamos degustar um grande vinho." },
+        { "level": "B1-B2", "fr": "Pour déguster, il faut d'abord observer la robe du vin.", "pt": "Para degustar, é preciso primeiro observar a cor do vinho." },
+        { "level": "C1-C2", "fr": "Déguster un vin, c'est exercer ses sens avec méthode et humilité.", "pt": "Degustar um vinho é exercitar os sentidos com método e humildade." }
+      ]
+    },
+    {
+      "term": "le sommelier",
+      "definitionPt": "o sommelier, o especialista em vinhos",
+      "definitionFr": "Spécialiste du vin.",
+      "inflections": ["le sommelier", "les sommeliers"],
+      "ptTargets": ["sommelier", "especialista em vinhos"],
+      "examples": [
+        { "level": "A1", "fr": "Le sommelier conseille.", "pt": "O sommelier aconselha." },
+        { "level": "A2-B1", "fr": "Le sommelier a présenté un vin de Saint-Émilion.", "pt": "O sommelier apresentou um vinho de Saint-Émilion." },
+        { "level": "B1-B2", "fr": "Le sommelier, qui connaît des milliers de vins, guide le client avec élégance.", "pt": "O sommelier, que conhece milhares de vinhos, guia o cliente com elegância." },
+        { "level": "C1-C2", "fr": "Le sommelier exerce un métier d'exigence où se mêlent mémoire, science et art de la parole.", "pt": "O sommelier exerce uma profissão exigente em que se misturam memória, ciência e arte da palavra." }
+      ]
+    },
+    {
+      "term": "la robe",
+      "definitionPt": "a cor (do vinho); o vestido",
+      "definitionFr": "Couleur d'un vin ; vêtement féminin.",
+      "inflections": ["la robe", "les robes"],
+      "ptTargets": ["cor", "vestido", "robe"],
+      "examples": [
+        { "level": "A1", "fr": "La robe est belle.", "pt": "O vestido é bonito." },
+        { "level": "A2-B1", "fr": "La robe du vin est profonde.", "pt": "A cor do vinho é profunda." },
+        { "level": "B1-B2", "fr": "La robe, que l'on observe à la lumière, révèle l'âge du vin.", "pt": "A cor, que se observa à luz, revela a idade do vinho." },
+        { "level": "C1-C2", "fr": "L'examen de la robe n'est que la première étape d'une dégustation savante.", "pt": "O exame da cor é apenas a primeira etapa de uma degustação sábia." }
+      ]
+    },
+    {
+      "term": "le bouquet",
+      "definitionPt": "o buquê (aroma do vinho); o ramalhete",
+      "definitionFr": "Arôme d'un vin ; ensemble de fleurs.",
+      "inflections": ["le bouquet", "les bouquets"],
+      "ptTargets": ["buquê", "aroma", "ramalhete"],
+      "examples": [
+        { "level": "A1", "fr": "Le bouquet est joli.", "pt": "O buquê é bonito." },
+        { "level": "A2-B1", "fr": "Le bouquet du vin sent la cerise.", "pt": "O buquê do vinho cheira a cereja." },
+        { "level": "B1-B2", "fr": "Le bouquet, qui se développe avec l'âge, est complexe.", "pt": "O buquê, que se desenvolve com a idade, é complexo." },
+        { "level": "C1-C2", "fr": "Le bouquet d'un grand vin évolue dans le verre pendant des heures.", "pt": "O buquê de um grande vinho evolui no copo durante horas." }
+      ]
+    },
+    {
+      "term": "le terroir",
+      "definitionPt": "o terroir (conjunto solo-clima-tradição)",
+      "definitionFr": "Ensemble sol-climat-savoir-faire d'une région.",
+      "inflections": ["le terroir", "les terroirs"],
+      "ptTargets": ["terroir"],
+      "examples": [
+        { "level": "A1", "fr": "Le terroir est important.", "pt": "O terroir é importante." },
+        { "level": "A2-B1", "fr": "Le terroir donne son caractère au vin.", "pt": "O terroir dá seu caráter ao vinho." },
+        { "level": "B1-B2", "fr": "Le terroir, qui associe sol et climat, ne peut pas être imité.", "pt": "O terroir, que associa solo e clima, não pode ser imitado." },
+        { "level": "C1-C2", "fr": "La notion de terroir est au cœur de l'identité des grands vins français.", "pt": "A noção de terroir está no coração da identidade dos grandes vinhos franceses." }
+      ]
+    },
+    {
+      "term": "le belvédère",
+      "definitionPt": "o mirante",
+      "definitionFr": "Point de vue élevé.",
+      "inflections": ["le belvédère", "les belvédères"],
+      "ptTargets": ["mirante"],
+      "examples": [
+        { "level": "A1", "fr": "Le belvédère est haut.", "pt": "O mirante é alto." },
+        { "level": "A2-B1", "fr": "Le belvédère de la Cité du Vin est au huitième étage.", "pt": "O mirante da Cité du Vin fica no oitavo andar." },
+        { "level": "B1-B2", "fr": "Du belvédère, on voit la ville et le fleuve.", "pt": "Do mirante, vê-se a cidade e o rio." },
+        { "level": "C1-C2", "fr": "Le belvédère offre une lecture géographique de la ville et de son fleuve.", "pt": "O mirante oferece uma leitura geográfica da cidade e de seu rio." }
+      ]
+    },
+    {
+      "term": "la vue",
+      "definitionPt": "a vista",
+      "definitionFr": "Ce que l'on voit d'un lieu.",
+      "inflections": ["la vue", "les vues"],
+      "ptTargets": ["vista"],
+      "examples": [
+        { "level": "A1", "fr": "La vue est belle.", "pt": "A vista é bonita." },
+        { "level": "A2-B1", "fr": "La vue depuis le belvédère est magnifique.", "pt": "A vista do mirante é magnífica." },
+        { "level": "B1-B2", "fr": "La vue, qui embrasse tout Bordeaux, vaut le détour.", "pt": "A vista, que abrange toda Bordeaux, vale o desvio." },
+        { "level": "C1-C2", "fr": "D'ici, la vue embrasse deux mille ans d'histoire urbaine.", "pt": "Daqui, a vista abrange dois mil anos de história urbana." }
+      ]
+    },
+    {
+      "term": "la dégustation",
+      "definitionPt": "a degustação",
+      "definitionFr": "Action de goûter avec attention.",
+      "inflections": ["la dégustation", "les dégustations"],
+      "ptTargets": ["degustação"],
+      "examples": [
+        { "level": "A1", "fr": "La dégustation commence.", "pt": "A degustação começa." },
+        { "level": "A2-B1", "fr": "La dégustation a lieu au deuxième étage.", "pt": "A degustação acontece no segundo andar." },
+        { "level": "B1-B2", "fr": "Une dégustation, qui mobilise tous les sens, demande de la concentration.", "pt": "Uma degustação, que mobiliza todos os sentidos, exige concentração." },
+        { "level": "C1-C2", "fr": "La dégustation est un art qui s'apprend et se cultive tout au long de la vie.", "pt": "A degustação é uma arte que se aprende e se cultiva ao longo da vida." }
+      ]
+    },
+    {
+      "term": "la cerise",
+      "definitionPt": "a cereja",
+      "definitionFr": "Petit fruit rouge.",
+      "inflections": ["la cerise", "les cerises"],
+      "ptTargets": ["cereja"],
+      "examples": [
+        { "level": "A1", "fr": "La cerise est rouge.", "pt": "A cereja é vermelha." },
+        { "level": "A2-B1", "fr": "Le vin a des notes de cerise.", "pt": "O vinho tem notas de cereja." },
+        { "level": "B1-B2", "fr": "Les notes de cerise, que l'on retrouve au nez, rappellent le fruit mûr.", "pt": "As notas de cereja, que se encontram no nariz, lembram o fruto maduro." },
+        { "level": "C1-C2", "fr": "L'évocation de la cerise dans un vin témoigne de la richesse aromatique du Merlot.", "pt": "A evocação da cereja num vinho testemunha a riqueza aromática da Merlot." }
+      ]
+    },
+    {
+      "term": "approuver",
+      "definitionPt": "aprovar",
+      "definitionFr": "Être d'accord avec.",
+      "inflections": ["j'approuve", "nous approuvons"],
+      "ptTargets": ["aprovar", "aprova"],
+      "examples": [
+        { "level": "A1", "fr": "J'approuve ton idée.", "pt": "Eu aprovo sua ideia." },
+        { "level": "A2-B1", "fr": "Irlan a approuvé l'idée d'Andréa.", "pt": "Irlan aprovou a ideia de Andréa." },
+        { "level": "B1-B2", "fr": "Le sommelier a approuvé le choix du vin d'un signe de tête.", "pt": "O sommelier aprovou a escolha do vinho com um sinal de cabeça." },
+        { "level": "C1-C2", "fr": "Approuver une suggestion avec élégance fait partie de l'art de la conversation.", "pt": "Aprovar uma sugestão com elegância faz parte da arte da conversação." }
+      ]
+    },
+    {
+      "term": "l'étage",
+      "definitionPt": "o andar",
+      "definitionFr": "Niveau d'un bâtiment.",
+      "inflections": ["l'étage", "les étages"],
+      "ptTargets": ["andar", "piso"],
+      "examples": [
+        { "level": "A1", "fr": "L'étage est haut.", "pt": "O andar é alto." },
+        { "level": "A2-B1", "fr": "Le belvédère est au huitième étage.", "pt": "O mirante fica no oitavo andar." },
+        { "level": "B1-B2", "fr": "L'étage, qui abrite la dégustation, sent bon le chêne.", "pt": "O andar, que abriga a degustação, cheira bem a carvalho." },
+        { "level": "C1-C2", "fr": "Chaque étage de la Cité du Vin propose une nouvelle étape du voyage sensoriel.", "pt": "Cada andar da Cité du Vin propõe uma nova etapa da viagem sensorial." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "La suggestion polie avec 'nous pourrions'",
+    "explanationPt": "O Conditionnel de 'pouvoir' (pourrions) transforma ordens em sugestões corteses: 'nous pourrions déguster', 'vous pourriez noter des notes de cerise'. É a ferramenta perfeita do savoir-vivre.",
+    "exampleFr": "Nous pourrions commencer par le parcours de visite.",
+    "examplePt": "Poderíamos começar pelo percurso da visita.",
+    "practiceQuestion": "Complete: « Nous ___ déguster un grand cru. »",
+    "options": ["pourrions", "pouvons", "pourrons"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "Le conditionnel de 'vous pourriez'",
+        "explanationPt": "Conselho elegante na segunda pessoa: 'vous pourriez noter des notes de cerise' (vocês poderiam notar notas de cereja).",
+        "exampleFr": "Vous pourriez noter des notes de cerise dans ce vin.",
+        "examplePt": "Vocês poderiam notar notas de cereja neste vinho.",
+        "practiceQuestion": "Complete: « Vous ___ noter des notes de cerise. »",
+        "options": ["pourriez", "pouvez", "pourrez"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "Le conditionnel de 'faire semblant'",
+        "explanationPt": "'Faire semblant de' = fingir: 'Iris a fait semblant de déguster comme une grande' (Íris fingiu degustar como gente grande).",
+        "exampleFr": "Iris a fait semblant de déguster comme une grande.",
+        "examplePt": "Íris fingiu degustar como gente grande.",
+        "practiceQuestion": "Complete: « Iris a fait ___ de déguster. »",
+        "options": ["semblant", "semblance", "sembler"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Onde fica o belvédère da Cité du Vin?",
+      "options": ["no oitavo andar", "no térreo", "no porão"],
+      "correctIndex": 0,
+      "explanation": "O belvédère fica no oitavo andar do museu."
+    },
+    {
+      "question": "Que vinho o sommelier apresentou?",
+      "options": ["um vinho de Saint-Émilion", "um champagne", "um vinho da Alsácia"],
+      "correctIndex": 0,
+      "explanation": "O sommelier apresentou um vinho de Saint-Émilion."
+    },
+    {
+      "question": "Que notas o sommelier sugeriu perceber?",
+      "options": ["notas de cereja", "notas de baunilha", "notas de menta"],
+      "correctIndex": 0,
+      "explanation": "Ele sugeriu notar des notes de cerise."
+    },
+    {
+      "question": "Complete: « Nous ___ déguster un grand cru. »",
+      "options": ["pourrions", "pouvons", "pourrons"],
+      "correctIndex": 0,
+      "explanation": "Sugestão cortês: nous pourrions déguster."
+    },
+    {
+      "question": "O que a família planeja fazer amanhã?",
+      "options": ["visitar um castelo no Médoc", "ir à praia", "voltar a Paris"],
+      "correctIndex": 0,
+      "explanation": "Andréa propõe visitar um vrai château dans le Médoc."
+    }
+  ]
+}

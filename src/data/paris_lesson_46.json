@@ -1,0 +1,252 @@
+{
+  "id": "paris_lesson_46",
+  "cityId": "paris",
+  "domain": "Natureza & Campo",
+  "level": "Iniciante (A1)",
+  "titleFr": "Une journée à la campagne",
+  "titlePt": "Um dia no campo",
+  "subtitleFr": "La nature près de Paris",
+  "subtitlePt": "A natureza perto de Paris",
+  "summaryPt": "Nesta Aula 46 (A1), a família passa um dia no campo. O aluno aprende o vocabulário da natureza (campagne, arbre, fleur, champ, rivière, soleil, ciel, marcher, oiseau) e as estações do ano com as preposições en/au.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Un dimanche de printemps, la famille va à la campagne. « Il fait beau, dit Irlan. Le soleil brille et le ciel est bleu. C'est parfait pour une promenade. »",
+      "pt": "Num domingo de primavera, a família vai ao campo. « Está fazendo bom tempo, diz Irlan. O sol brilha e o céu está azul. É perfeito para um passeio. »"
+    },
+    {
+      "id": 2,
+      "fr": "Ils marchent dans les champs. Iris regarde les fleurs et les arbres. « Regarde, maman ! Un oiseau ! » Andréa sourit : « Oui, il chante pour nous. En campagne, on entend la nature. »",
+      "pt": "Eles caminham pelos campos. Íris observa as flores e as árvores. « Olha, mamãe! Um passarinho! » Andréa sorri: « Sim, ele canta para nós. No campo, ouve-se a natureza. »"
+    },
+    {
+      "id": 3,
+      "fr": "Au bord de la rivière, la famille s'assoit pour le pique-nique. Irlan sort le pain, le fromage et les fruits. « Mangeons ! dit-il. Ici, l'air est frais et le calme est doux. »",
+      "pt": "À beira do rio, a família se senta para o piquenique. Irlan tira o pão, o queijo e as frutas. « Vamos comer! diz ele. Aqui, o ar é fresco e o silêncio é suave. »"
+    },
+    {
+      "id": 4,
+      "fr": "Le soir, ils rentrent à Paris. « La campagne est belle, dit Iris. Mais j'aime aussi la ville. J'aime nos deux vies ! » Irlan rit : « Toi, tu es une petite géographe, comme papa ! »",
+      "pt": "À noite, eles voltam para Paris. « O campo é bonito, diz Íris. Mas eu também gosto da cidade. Gosto das nossas duas vidas! » Irlan ri: « Você é uma pequena geógrafa, como o papai! »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "la campagne",
+      "definitionPt": "o campo",
+      "definitionFr": "Région de la nature.",
+      "inflections": ["la campagne", "une campagne"],
+      "ptTargets": ["campo"],
+      "examples": [
+        { "level": "A1", "fr": "La campagne est verte.", "pt": "O campo é verde." },
+        { "level": "A2-B1", "fr": "La famille va à la campagne le dimanche.", "pt": "A família vai ao campo no domingo." },
+        { "level": "B2", "fr": "La campagne, calme, est loin du bruit de la ville.", "pt": "O campo, calmo, fica longe do barulho da cidade." },
+        { "level": "C1-C2", "fr": "C'est la campagne qui, paisible, ressource les citadins.", "pt": "É o campo que, pacífico, reenergiza os citadinos." }
+      ]
+    },
+    {
+      "term": "l'arbre",
+      "definitionPt": "a árvore",
+      "definitionFr": "Grande plante avec un tronc.",
+      "inflections": ["l'arbre", "un arbre", "des arbres"],
+      "ptTargets": ["árvore"],
+      "examples": [
+        { "level": "A1", "fr": "L'arbre est grand.", "pt": "A árvore é grande." },
+        { "level": "A2-B1", "fr": "Iris regarde les arbres.", "pt": "Íris observa as árvores." },
+        { "level": "B2", "fr": "Les arbres, verts, donnent de l'ombre en été.", "pt": "As árvores, verdes, dão sombra no verão." },
+        { "level": "C1-C2", "fr": "C'est l'arbre qui, ancien, garde la mémoire du paysage.", "pt": "É a árvore que, antiga, guarda a memória da paisagem." }
+      ]
+    },
+    {
+      "term": "la fleur",
+      "definitionPt": "a flor",
+      "definitionFr": "Plante colorée et parfumée.",
+      "inflections": ["la fleur", "une fleur", "des fleurs"],
+      "ptTargets": ["flor"],
+      "examples": [
+        { "level": "A1", "fr": "La fleur est rouge.", "pt": "A flor é vermelha." },
+        { "level": "A2-B1", "fr": "Iris regarde les fleurs dans les champs.", "pt": "Íris observa as flores nos campos." },
+        { "level": "B2", "fr": "Les fleurs, colorées, parfument le printemps.", "pt": "As flores, coloridas, perfumam a primavera." },
+        { "level": "C1-C2", "fr": "C'est la fleur qui, fragile, embellit le monde.", "pt": "É a flor que, frágil, embeleza o mundo." }
+      ]
+    },
+    {
+      "term": "le champ",
+      "definitionPt": "o campo (plantação)",
+      "definitionFr": "Terre cultivée.",
+      "inflections": ["le champ", "un champ", "des champs"],
+      "ptTargets": ["campo", "plantação"],
+      "examples": [
+        { "level": "A1", "fr": "Le champ est grand.", "pt": "O campo é grande." },
+        { "level": "A2-B1", "fr": "Ils marchent dans les champs.", "pt": "Eles caminham pelos campos." },
+        { "level": "B2", "fr": "Les champs, dorés, s'étendent à l'horizon.", "pt": "Os campos, dourados, estendem-se até o horizonte." },
+        { "level": "C1-C2", "fr": "C'est le champ qui, fertile, nourrit les campagnes.", "pt": "É o campo que, fértil, alimenta as campanhas." }
+      ]
+    },
+    {
+      "term": "la rivière",
+      "definitionPt": "o rio",
+      "definitionFr": "Cours d'eau naturel.",
+      "inflections": ["la rivière", "une rivière", "des rivières"],
+      "ptTargets": ["rio"],
+      "examples": [
+        { "level": "A1", "fr": "La rivière est calme.", "pt": "O rio é calmo." },
+        { "level": "A2-B1", "fr": "La famille s'assoit au bord de la rivière.", "pt": "A família se senta à beira do rio." },
+        { "level": "B2", "fr": "La rivière, claire, coule entre les champs.", "pt": "O rio, claro, corre entre os campos." },
+        { "level": "C1-C2", "fr": "C'est la rivière qui, vive, dessine les paysages.", "pt": "É o rio que, vivo, desenha as paisagens." }
+      ]
+    },
+    {
+      "term": "le soleil",
+      "definitionPt": "o sol",
+      "definitionFr": "Étoile qui éclaire la Terre.",
+      "inflections": ["le soleil", "un soleil"],
+      "ptTargets": ["sol"],
+      "examples": [
+        { "level": "A1", "fr": "Le soleil brille.", "pt": "O sol brilha." },
+        { "level": "A2-B1", "fr": "Le soleil brille et le ciel est bleu.", "pt": "O sol brilha e o céu está azul." },
+        { "level": "B2", "fr": "Le soleil, doré, chauffe les après-midis d'été.", "pt": "O sol, dourado, aquece as tardes de verão." },
+        { "level": "C1-C2", "fr": "C'est le soleil qui, levant, réveille la campagne.", "pt": "É o sol que, nascendo, desperta o campo." }
+      ]
+    },
+    {
+      "term": "le ciel",
+      "definitionPt": "o céu",
+      "definitionFr": "Espace au-dessus de la Terre.",
+      "inflections": ["le ciel", "un ciel"],
+      "ptTargets": ["céu"],
+      "examples": [
+        { "level": "A1", "fr": "Le ciel est bleu.", "pt": "O céu está azul." },
+        { "level": "A2-B1", "fr": "Le ciel est bleu aujourd'hui.", "pt": "O céu está azul hoje." },
+        { "level": "B2", "fr": "Le ciel, dégagé, annonce une belle journée.", "pt": "O céu, limpo, anuncia um belo dia." },
+        { "level": "C1-C2", "fr": "C'est le ciel qui, immense, couvre toutes les vies.", "pt": "É o céu que, imenso, cobre todas as vidas." }
+      ]
+    },
+    {
+      "term": "marcher",
+      "definitionPt": "caminhar / andar",
+      "definitionFr": "Avancer à pied.",
+      "inflections": ["marcher", "je marche", "nous marchons"],
+      "ptTargets": ["caminhar", "andar"],
+      "examples": [
+        { "level": "A1", "fr": "Je marche dans le champ.", "pt": "Eu caminho no campo." },
+        { "level": "A2-B1", "fr": "Ils marchent dans les champs.", "pt": "Eles caminham pelos campos." },
+        { "level": "B2", "fr": "Marcher dans la nature calme l'esprit.", "pt": "Caminhar na natureza acalma a mente." },
+        { "level": "C1-C2", "fr": "C'est en marchant que l'on découvre les paysages.", "pt": "É caminhando que se descobrem as paisagens." }
+      ]
+    },
+    {
+      "term": "l'oiseau",
+      "definitionPt": "o pássaro",
+      "definitionFr": "Animal qui vole.",
+      "inflections": ["l'oiseau", "un oiseau", "des oiseaux"],
+      "ptTargets": ["pássaro", "pássaro"],
+      "examples": [
+        { "level": "A1", "fr": "L'oiseau chante.", "pt": "O pássaro canta." },
+        { "level": "A2-B1", "fr": "Iris regarde un oiseau dans le ciel.", "pt": "Íris observa um pássaro no céu." },
+        { "level": "B2", "fr": "Les oiseaux, libres, traversent les champs.", "pt": "Os pássaros, livres, atravessam os campos." },
+        { "level": "C1-C2", "fr": "C'est l'oiseau qui, léger, annonce le printemps.", "pt": "É o pássaro que, leve, anuncia a primavera." }
+      ]
+    },
+    {
+      "term": "le pique-nique",
+      "definitionPt": "o piquenique",
+      "definitionFr": "Repas en plein air.",
+      "inflections": ["le pique-nique", "un pique-nique", "des pique-niques"],
+      "ptTargets": ["piquenique"],
+      "examples": [
+        { "level": "A1", "fr": "Le pique-nique est bon.", "pt": "O piquenique é bom." },
+        { "level": "A2-B1", "fr": "La famille fait un pique-nique au bord de la rivière.", "pt": "A família faz um piquenique à beira do rio." },
+        { "level": "B2", "fr": "Le pique-nique, partagé, est un moment de joie.", "pt": "O piquenique, partilhado, é um momento de alegria." },
+        { "level": "C1-C2", "fr": "C'est le pique-nique qui, simple, célèbre la nature.", "pt": "É o piquenique que, simples, celebra a natureza." }
+      ]
+    },
+    {
+      "term": "l'air",
+      "definitionPt": "o ar",
+      "definitionFr": "Ce que l'on respire.",
+      "inflections": ["l'air", "un air"],
+      "ptTargets": ["ar"],
+      "examples": [
+        { "level": "A1", "fr": "L'air est frais.", "pt": "O ar é fresco." },
+        { "level": "A2-B1", "fr": "Ici, l'air est frais.", "pt": "Aqui, o ar é fresco." },
+        { "level": "B2", "fr": "L'air de la campagne, pur, fait du bien.", "pt": "O ar do campo, puro, faz bem." },
+        { "level": "C1-C2", "fr": "C'est l'air qui, léger, donne vie aux poumons.", "pt": "É o ar que, leve, dá vida aos pulmões." }
+      ]
+    },
+    {
+      "term": "le printemps",
+      "definitionPt": "a primavera",
+      "definitionFr": "Saison après l'hiver.",
+      "inflections": ["le printemps", "un printemps"],
+      "ptTargets": ["primavera"],
+      "examples": [
+        { "level": "A1", "fr": "Le printemps est beau.", "pt": "A primavera é bonita." },
+        { "level": "A2-B1", "fr": "Les fleurs poussent au printemps.", "pt": "As flores nascem na primavera." },
+        { "level": "B2", "fr": "Le printemps, fleuri, réveille la campagne.", "pt": "A primavera, florida, desperta o campo." },
+        { "level": "C1-C2", "fr": "C'est le printemps qui, tendre, renouvelle la nature.", "pt": "É a primavera que, terna, renova a natureza." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Les saisons : en / au",
+    "explanationPt": "As estações: 'au printemps' (na primavera), 'en été' (no verão), 'en automne' (no outono), 'en hiver' (no inverno). Atenção: primavera usa 'au' (masculino), as outras usam 'en'.",
+    "exampleFr": "Au printemps, les fleurs poussent. En été, le soleil brille.",
+    "examplePt": "Na primavera, as flores nascem. No verão, o sol brilha.",
+    "practiceQuestion": "Complete: '_____ printemps, les fleurs poussent.'",
+    "options": ["Au", "En", "Dans"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "Il fait beau : o tempo",
+        "explanationPt": "Para falar do tempo: 'Il fait beau' (faz bom tempo), 'Il fait froid' (faz frio), 'Il fait chaud' (faz calor), 'Il pleut' (chove).",
+        "exampleFr": "Il fait beau aujourd'hui. Le soleil brille et le ciel est bleu.",
+        "examplePt": "Faz bom tempo hoje. O sol brilha e o céu está azul.",
+        "practiceQuestion": "Complete: 'Il _____ beau aujourd'hui.'",
+        "options": ["fait", "faire", "fais"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "Comme papa : comparações simples",
+        "explanationPt": "Para comparar: 'comme' = como. Ex.: 'une petite géographe, comme papa' (uma pequena geógrafa, como o papai).",
+        "exampleFr": "Tu es une petite géographe, comme papa !",
+        "examplePt": "Você é uma pequena geógrafa, como o papai!",
+        "practiceQuestion": "Complete: 'Tu es une petite géographe, _____ papa !'",
+        "options": ["comme", "comme pas", "comment"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Onde a família vai num domingo de primavera?",
+      "options": ["ao campo", "ao shopping", "ao museu"],
+      "correctIndex": 0,
+      "explanation": "Un dimanche de printemps, la famille va à la campagne."
+    },
+    {
+      "question": "O que Íris vê no céu?",
+      "options": ["um pássaro", "um avião", "um balão"],
+      "correctIndex": 0,
+      "explanation": "Regarde, maman ! Un oiseau !"
+    },
+    {
+      "question": "Onde a família faz o piquenique?",
+      "options": ["à beira do rio", "na praia", "no jardim"],
+      "correctIndex": 0,
+      "explanation": "Au bord de la rivière, la famille s'assoit pour le pique-nique."
+    },
+    {
+      "question": "Complete: '_____ printemps, les fleurs poussent.'",
+      "options": ["Au", "En", "Dans"],
+      "correctIndex": 0,
+      "explanation": "Au printemps = na primavera."
+    },
+    {
+      "question": "Complete: 'Il _____ beau aujourd'hui.'",
+      "options": ["fait", "faire", "fais"],
+      "correctIndex": 0,
+      "explanation": "Il fait beau = faz bom tempo."
+    }
+  ]
+}

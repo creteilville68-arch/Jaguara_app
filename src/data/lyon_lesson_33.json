@@ -1,0 +1,257 @@
+{
+  "id": "lyon_lesson_33",
+  "cityId": "lyon",
+  "domain": "Natureza & Lazer",
+  "level": "Intermediário (B2+)",
+  "titleFr": "Le parc de la Tête d'Or : le poumon vert de Lyon",
+  "titlePt": "O Parc de la Tête d'Or: o pulmão verde de Lyon",
+  "subtitleFr": "Rapporter les paroles : le discours indirect",
+  "subtitlePt": "Relatar as falas: o discurso indireto",
+  "summaryPt": "Com 117 hectares, o Parc de la Tête d'Or é um dos maiores parques urbanos da França: tem lago, rosaário, jardim botânico e até um zoológico gratuito. Nesta aula B2+, a família passeia e aprende a relatar falas no discurso indireto, com a concordância dos tempos.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "« C'est le plus grand parc de Lyon ! » dit Andréa. Irlan raconta plus tard qu'elle avait dit que c'était le plus grand parc de la ville. « La Tête d'Or, ça veut dire la tête en or », expliqua-t-elle.",
+      "pt": "« É o maior parque de Lyon! » disse Andréa. Irlan contou depois que ela tinha dito que era o maior parque da cidade. « La Tête d'Or quer dizer a cabeça de ouro », explicou ela."
+    },
+    {
+      "id": 2,
+      "fr": "Le nom vient d'une légende : un trésor à tête de Christ en or serait caché dans le parc. « On dit que le trésor est encore là », murmura Íris. Andréa répondit qu'elle croyait que la légende était vraie.",
+      "pt": "O nome vem de uma lenda: um tesouro com uma cabeça de Cristo em ouro estaria escondido no parque. « Dizem que o tesouro ainda está lá », murmurou Íris. Andréa respondeu que acreditava que a lenda era verdadeira."
+    },
+    {
+      "id": 3,
+      "fr": "Sur le lac, des barques glissent. « Regarde les canards ! » cria Íris. Plus tard, elle expliqua à sa grand-mère au téléphone qu'elle avait vu des canards et une barque rouge.",
+      "pt": "No lago, barcos deslizam. « Olha os patos! » gritou Íris. Mais tarde, ela explicou à avó ao telefone que tinha visto patos e um barco vermelho."
+    },
+    {
+      "id": 4,
+      "fr": "Irlan découvrit la roseraie, un des plus beaux jardins de roses d'Europe. Le jardinier lui dit : « Ici, il y a plus de trois cents variétés. » Irlan nota qu'il y avait plus de trois cents variétés de roses.",
+      "pt": "Irlan descobriu o rosaário, um dos mais belos jardins de rosas da Europa. O jardineiro lhe disse: « Aqui, há mais de trezentas variedades. » Irlan anotou que havia mais de trezentas variedades de rosas."
+    },
+    {
+      "id": 5,
+      "fr": "Le soir, Irlan écrivit : « Andréa m'a dit qu'elle venait ici quand elle était petite. Íris a promis qu'elle reviendrait pour nourrir les canards. Et moi, j'ai compris que la Tête d'Or, c'était notre nouveau jardin de famille. »",
+      "pt": "À noite, Irlan escreveu: « Andréa me disse que vinha aqui quando era pequena. Íris prometeu que voltaria para alimentar os patos. E eu entendi que a Tête d'Or era o nosso novo jardim de família. »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "le parc",
+      "definitionPt": "parque",
+      "definitionFr": "Grand jardin public.",
+      "inflections": ["le parc", "des parcs"],
+      "ptTargets": ["parque", "parques"],
+      "examples": [
+        { "level": "A1", "fr": "Le parc est grand.", "pt": "O parque é grande." },
+        { "level": "A2-B1", "fr": "Le parc de la Tête d'Or est immense.", "pt": "O Parc de la Tête d'Or é imenso." },
+        { "level": "B1-B2", "fr": "Le parc, ouvert en 1857, offre 117 hectares de nature.", "pt": "O parque, aberto em 1857, oferece 117 hectares de natureza." },
+        { "level": "C1-C2", "fr": "C'est le parc qui donne à Lyon son souffle de verdure.", "pt": "É o parque que dá a Lyon seu fôlego de verdura." }
+      ]
+    },
+    {
+      "term": "le trésor",
+      "definitionPt": "tesouro",
+      "definitionFr": "Ensemble d'objets précieux cachés.",
+      "inflections": ["le trésor", "des trésors"],
+      "ptTargets": ["tesouro", "tesouros"],
+      "examples": [
+        { "level": "A1", "fr": "Le trésor est caché.", "pt": "O tesouro está escondido." },
+        { "level": "A2-B1", "fr": "Une légende parle d'un trésor.", "pt": "Uma lenda fala de um tesouro." },
+        { "level": "B1-B2", "fr": "Le trésor, jamais trouvé, alimente l'imagination des enfants.", "pt": "O tesouro, nunca encontrado, alimenta a imaginação das crianças." },
+        { "level": "C1-C2", "fr": "C'est le trésor légendaire qui a donné son nom au parc.", "pt": "É o tesouro lendário que deu nome ao parque." }
+      ]
+    },
+    {
+      "term": "la légende",
+      "definitionPt": "lenda",
+      "definitionFr": "Histoire merveilleuse transmise par la tradition.",
+      "inflections": ["la légende", "des légendes"],
+      "ptTargets": ["lenda", "lendas"],
+      "examples": [
+        { "level": "A1", "fr": "La légende est vieille.", "pt": "A lenda é velha." },
+        { "level": "A2-B1", "fr": "La légende raconte un trésor caché.", "pt": "A lenda conta um tesouro escondido." },
+        { "level": "B1-B2", "fr": "La légende, racontée depuis des siècles, vit dans le cœur des Lyonnais.", "pt": "A lenda, contada há séculos, vive no coração dos lyonnais." },
+        { "level": "C1-C2", "fr": "C'est la légende qui transforme un simple parc en lieu de mystère.", "pt": "É a lenda que transforma um simples parque em lugar de mistério." }
+      ]
+    },
+    {
+      "term": "le canard",
+      "definitionPt": "pato",
+      "definitionFr": "Oiseau aquatique au bec plat.",
+      "inflections": ["le canard", "des canards"],
+      "ptTargets": ["pato", "patos"],
+      "examples": [
+        { "level": "A1", "fr": "Le canard nage.", "pt": "O pato nada." },
+        { "level": "A2-B1", "fr": "Les canards glissent sur le lac.", "pt": "Os patos deslizam no lago." },
+        { "level": "B1-B2", "fr": "Les canards, habitués aux visiteurs, attendent du pain sur la berge.", "pt": "Os patos, acostumados aos visitantes, esperam pão na margem." },
+        { "level": "C1-C2", "fr": "C'est aux canards que les enfants de Lyon apprennent à donner.", "pt": "É aos patos que as crianças de Lyon aprendem a dar." }
+      ]
+    },
+    {
+      "term": "la barque",
+      "definitionPt": "barco pequeno",
+      "definitionFr": "Petit bateau sans pont.",
+      "inflections": ["la barque", "des barques"],
+      "ptTargets": ["barco", "barcos"],
+      "examples": [
+        { "level": "A1", "fr": "La barque est rouge.", "pt": "O barco é vermelho." },
+        { "level": "A2-B1", "fr": "Des barques glissent sur le lac.", "pt": "Barcos deslizam no lago." },
+        { "level": "B1-B2", "fr": "Les barques, louées à l'heure, dessinent des cercles sur l'eau.", "pt": "Os barcos, alugados por hora, desenham círculos na água." },
+        { "level": "C1-C2", "fr": "C'est en barque que l'on découvre le parc sous un autre angle.", "pt": "É de barco que se descobre o parque sob outro ângulo." }
+      ]
+    },
+    {
+      "term": "la roseraie",
+      "definitionPt": "rosaário (jardim de rosas)",
+      "definitionFr": "Jardin planté de rosiers.",
+      "inflections": ["la roseraie", "des roseraies"],
+      "ptTargets": ["rosaário", "jardim de rosas"],
+      "examples": [
+        { "level": "A1", "fr": "La roseraie est belle.", "pt": "O rosaário é bonito." },
+        { "level": "A2-B1", "fr": "La roseraie sent très bon.", "pt": "O rosaário cheira muito bem." },
+        { "level": "B1-B2", "fr": "La roseraie, plantée en 1964, réunit des variétés du monde entier.", "pt": "O rosaário, plantado em 1964, reúne variedades do mundo inteiro." },
+        { "level": "C1-C2", "fr": "C'est la roseraie qui parfume les promenades d'été.", "pt": "É o rosaário que perfuma os passeios de verão." }
+      ]
+    },
+    {
+      "term": "la variété",
+      "definitionPt": "variedade",
+      "definitionFr": "Type particulier d'une plante ou d'une espèce.",
+      "inflections": ["la variété", "des variétés"],
+      "ptTargets": ["variedade", "variedades"],
+      "examples": [
+        { "level": "A1", "fr": "La variété est nouvelle.", "pt": "A variedade é nova." },
+        { "level": "A2-B1", "fr": "Il y a trois cents variétés de roses.", "pt": "Há trezentas variedades de rosas." },
+        { "level": "B1-B2", "fr": "Les variétés, venues du monde entier, colorent le jardin.", "pt": "As variedades, vindas do mundo inteiro, colorem o jardim." },
+        { "level": "C1-C2", "fr": "C'est la variété qui fait la richesse du jardin botanique.", "pt": "É a variedade que faz a riqueza do jardim botânico." }
+      ]
+    },
+    {
+      "term": "le lac",
+      "definitionPt": "lago",
+      "definitionFr": "Grande étendue d'eau entourée de terre.",
+      "inflections": ["le lac", "des lacs"],
+      "ptTargets": ["lago", "lagos"],
+      "examples": [
+        { "level": "A1", "fr": "Le lac est bleu.", "pt": "O lago é azul." },
+        { "level": "A2-B1", "fr": "Le lac du parc est immense.", "pt": "O lago do parque é imenso." },
+        { "level": "B1-B2", "fr": "Le lac, bordé de platanes, invite à la promenade en barque.", "pt": "O lago, cercado de plátanos, convida ao passeio de barco." },
+        { "level": "C1-C2", "fr": "C'est sur le lac que se reflètent les plus beaux dimanches lyonnais.", "pt": "É no lago que se refletem os mais belos domingos lyonnais." }
+      ]
+    },
+    {
+      "term": "nourrir",
+      "definitionPt": "alimentar, dar de comer",
+      "definitionFr": "Donner à manger.",
+      "inflections": ["je nourris", "nourrir", "nourri"],
+      "ptTargets": ["alimentar", "dar de comer"],
+      "examples": [
+        { "level": "A1", "fr": "Je nourris le chat.", "pt": "Eu alimento o gato." },
+        { "level": "A2-B1", "fr": "Íris veut nourrir les canards.", "pt": "Íris quer alimentar os patos." },
+        { "level": "B1-B2", "fr": "Nourrir les canards, interdit parfois, reste un plaisir d'enfant.", "pt": "Alimentar os patos, às vezes proibido, continua um prazer de criança." },
+        { "level": "C1-C2", "fr": "C'est en nourrissant les autres que l'on nourrit aussi son propre cœur.", "pt": "É alimentando os outros que se alimenta também o próprio coração." }
+      ]
+    },
+    {
+      "term": "promettre",
+      "definitionPt": "prometer",
+      "definitionFr": "S'engager à faire quelque chose.",
+      "inflections": ["je promets", "promettre", "promis"],
+      "ptTargets": ["prometer", "prometeu"],
+      "examples": [
+        { "level": "A1", "fr": "Je promets.", "pt": "Eu prometo." },
+        { "level": "A2-B1", "fr": "Íris a promis qu'elle reviendrait.", "pt": "Íris prometeu que voltaria." },
+        { "level": "B1-B2", "fr": "Elle a promis qu'elle reviendrait nourrir les canards le dimanche.", "pt": "Ela prometeu que voltaria para alimentar os patos no domingo." },
+        { "level": "C1-C2", "fr": "C'est en promettant que l'on donne aux enfants une raison de revenir.", "pt": "É prometendo que se dá às crianças uma razão para voltar." }
+      ]
+    },
+    {
+      "term": "le poumon",
+      "definitionPt": "pulmão",
+      "definitionFr": "Organe qui permet de respirer (au figuré : espace vert d'une ville).",
+      "inflections": ["le poumon", "des poumons"],
+      "ptTargets": ["pulmão", "pulmões"],
+      "examples": [
+        { "level": "A1", "fr": "Le poumon respire.", "pt": "O pulmão respira." },
+        { "level": "A2-B1", "fr": "Le parc est le poumon de Lyon.", "pt": "O parque é o pulmão de Lyon." },
+        { "level": "B1-B2", "fr": "Le parc, véritable poumon vert, purifie l'air de la ville.", "pt": "O parque, verdadeiro pulmão verde, purifica o ar da cidade." },
+        { "level": "C1-C2", "fr": "C'est le poumon de la ville qui permet à Lyon de respirer.", "pt": "É o pulmão da cidade que permite a Lyon respirar." }
+      ]
+    },
+    {
+      "term": "la promenade",
+      "definitionPt": "passeio, caminhada",
+      "definitionFr": "Marche agréable pour se détendre.",
+      "inflections": ["la promenade", "des promenades"],
+      "ptTargets": ["passeio", "caminhada", "passeios"],
+      "examples": [
+        { "level": "A1", "fr": "La promenade est agréable.", "pt": "O passeio é agradável." },
+        { "level": "A2-B1", "fr": "La famille fait une promenade.", "pt": "A família faz um passeio." },
+        { "level": "B1-B2", "fr": "La promenade, au bord du lac, devient une habitude du dimanche.", "pt": "O passeio, à beira do lago, vira um hábito de domingo." },
+        { "level": "C1-C2", "fr": "C'est la promenade qui rythme les saisons lyonnaises.", "pt": "É o passeio que marca o ritmo das estações lyonnaises." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Le discours indirect : rapporter les paroles",
+    "explanationPt": "Para relatar falas: 'Andréa a dit : « C'est le plus grand parc »' → 'Andréa a dit que c'était le plus grand parc'. O presente vira imperfeito, o futuro vira condicional ('elle reviendrait'), o passé composé vira mais-que-perfeito ('qu'elle avait vu des canards').",
+    "exampleFr": "Andréa a dit que c'était le plus grand parc de la ville ; Íris a promis qu'elle reviendrait nourrir les canards.",
+    "examplePt": "Andréa disse que era o maior parque da cidade; Íris prometeu que voltaria para alimentar os patos.",
+    "practiceQuestion": "Complete: « Andréa a dit que c'___ le plus grand parc. »",
+    "options": ["était", "est", "sera"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "Présent → imparfait",
+        "explanationPt": "'C'est le plus grand' → 'elle a dit que c'était le plus grand' : o presente vira imperfeito no discurso indireto.",
+        "exampleFr": "Andréa a dit : « C'est le plus grand parc » → Andréa a dit que c'était le plus grand parc.",
+        "examplePt": "Andréa disse: « É o maior parque » → Andréa disse que era o maior parque.",
+        "practiceQuestion": "Complete: « Irlan a dit qu'il y ___ plus de trois cents variétés. »",
+        "options": ["avait", "a", "aura"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "Futur → conditionnel",
+        "explanationPt": "'Elle reviendra' → 'elle a promis qu'elle reviendrait' : o futuro vira condicional.",
+        "exampleFr": "Íris a promis : « Je reviendrai » → Íris a promis qu'elle reviendrait.",
+        "examplePt": "Íris prometeu: « Voltarei » → Íris prometeu que voltaria.",
+        "practiceQuestion": "Complete: « Íris a promis qu'elle ___ nourrir les canards. »",
+        "options": ["reviendrait", "reviendra", "revient"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Complete: « Andréa a dit que c'___ le plus grand parc. »",
+      "options": ["était", "est", "sera"],
+      "correctIndex": 0,
+      "explanation": "Discurso indireto: presente vira imperfeito."
+    },
+    {
+      "question": "De onde vem o nome do parque?",
+      "options": ["De uma lenda de um tesouro com cabeça de ouro", "De um rei famoso", "De um rio dourado"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'un trésor à tête de Christ en or serait caché dans le parc'."
+    },
+    {
+      "question": "O que Íris contou à avó ao telefone?",
+      "options": ["Que tinha visto patos e um barco vermelho", "Que tinha comido muito", "Que queria voltar para casa"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'elle expliqua qu'elle avait vu des canards et une barque rouge'."
+    },
+    {
+      "question": "Quantas variedades de rosas o jardineiro mencionou?",
+      "options": ["Mais de trezentas", "Cinquenta", "Mil"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'plus de trois cents variétés'."
+    },
+    {
+      "question": "Complete: « Íris a promis qu'elle ___ nourrir les canards. »",
+      "options": ["reviendrait", "reviendra", "revient"],
+      "correctIndex": 0,
+      "explanation": "Futuro vira condicional no discurso indireto."
+    }
+  ]
+}

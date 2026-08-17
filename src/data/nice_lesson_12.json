@@ -1,0 +1,278 @@
+{
+  "id": "nice_lesson_12",
+  "cityId": "nice",
+  "domain": "Língua Viva",
+  "level": "Avançado (C2)",
+  "titleFr": "Le Vieux Nice : une langue vivante, rue après rue",
+  "titlePt": "O Vieux Nice: uma língua viva, rua após rua",
+  "subtitleFr": "Le marché aux fleurs, les figures de style et la parole qui invente",
+  "subtitlePt": "O mercado de flores, as figuras de linguagem e a fala que inventa",
+  "summaryPt": "Nesta Aula 12 (C2), a família percorre as ruelas do Vieux Nice e o marché aux fleurs da cours Saleya. Andréa mostra que uma língua viva se reconhece pelas suas figuras: a hipérbole dos vendedores, o eufemismo da cortesia, o neologismo do povo, a concisão dos provérbios. O aluno domina o vocabulário da retórica francesa (aphorisme, métonymie, synecdoque, périphrase) e a arte da litote.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Dans les ruelles du Vieux Nice, les façades ocres semblaient raconter des siècles. « Une langue vivante, dit Andréa, se reconnaît à ses figures. Écoute : ce vendeur ne dit pas “c'est bon”, il dit “c'est divin !” — c'est une hyperbole. La parole du peuple, inventive, crée sans cesse des néologismes. »",
+      "pt": "Nas ruelas do Vieux Nice, as fachadas ocre pareciam contar séculos. « Uma língua viva, disse Andréa, se reconhece por suas figuras. Ouça: aquele vendedor não diz “é bom”, ele diz “é divino!” — é uma hipérbole. A fala do povo, inventiva, cria sem parar neologismos. »"
+    },
+    {
+      "id": 2,
+      "fr": "Au marché aux fleurs, une marchande lança : « Ces roses, c'est un peu de paradis dans vos bras ! » Irlan nota dans son carnet : « La métonymie met le contenant pour le contenu ; la synecdoque, la partie pour le tout. “Un toit”, c'est une maison entière. » Andréa sourit : « Tu parles comme un grammairien. »",
+      "pt": "No mercado de flores, uma vendedora gritou: « Estas rosas são um pouco do paraíso em seus braços! » Irlan anotou no caderno: « A metonímia põe o continente pelo conteúdo; a sinédoque, a parte pelo todo. “Um teto” é uma casa inteira. » Andréa sorriu: « Você fala como um gramático. »"
+    },
+    {
+      "id": 3,
+      "fr": "Devant une boutique, une plaque affichait un aphorisme niçois. « Les adages et les maximes, expliqua Andréa, sont la sagesse condensée d'un peuple. Chaque langue garde aussi ses archaïsmes, comme des meubles anciens dans une maison moderne. Et quand on veut adoucir une vérité, on emploie l'euphémisme. »",
+      "pt": "Diante de uma loja, uma placa exibia um aforismo nissardo. « Os adágios e as máximas, explicou Andréa, são a sabedoria condensada de um povo. Cada língua guarda também seus arcaísmos, como móveis antigos numa casa moderna. E quando se quer suavizar uma verdade, usa-se o eufemismo. »"
+    },
+    {
+      "id": 4,
+      "fr": "Au crépuscule, Irlan relut ses notes. « L'oxymore de cette ville, dit-il, c'est “la douce violence de la lumière”. La digression, elle, nous a menés de la grammaire au marché ; mais la concision, ajouta-t-il, garde l'essentiel. » Il écrivit, en une phrase : « Nice m'a appris que la langue est une maison. »",
+      "pt": "Ao crepúsculo, Irlan releu suas anotações. « O oxímoro desta cidade, disse ele, é “a doce violência da luz”. A digressão, por sua vez, nos levou da gramática ao mercado; mas a concisão, acrescentou, guarda o essencial. » Escreveu, numa frase: « Nice me ensinou que a língua é uma casa. »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "l'aphorisme",
+      "definitionPt": "o aforismo (sentença breve e profunda)",
+      "definitionFr": "Sentence brève qui résume une vérité.",
+      "inflections": ["l'aphorisme", "les aphorismes"],
+      "ptTargets": ["aforismo"],
+      "examples": [
+        { "level": "A1", "fr": "L'aphorisme est court.", "pt": "O aforismo é curto." },
+        { "level": "A2-B1", "fr": "J'aime les aphorismes de La Rochefoucauld.", "pt": "Eu gosto dos aforismos de La Rochefoucauld." },
+        { "level": "B1-B2", "fr": "L'aphorisme, dense, condense une vie en une phrase.", "pt": "O aforismo, denso, condensa uma vida numa frase." },
+        { "level": "C1-C2", "fr": "C'est l'aphorisme qui, bien ciselé, traverse les siècles.", "pt": "É o aforismo que, bem cinzelado, atravessa os séculos." }
+      ]
+    },
+    {
+      "term": "la maxime",
+      "definitionPt": "a máxima (regra de conduta em frase breve)",
+      "definitionFr": "Règle de conduite énoncée brièvement.",
+      "inflections": ["la maxime", "les maximes"],
+      "ptTargets": ["máxima"],
+      "examples": [
+        { "level": "A1", "fr": "La maxime est sage.", "pt": "A máxima é sábia." },
+        { "level": "A2-B1", "fr": "« Mieux vaut tard que jamais » est une maxime.", "pt": "« Antes tarde do que nunca » é uma máxima." },
+        { "level": "B1-B2", "fr": "La maxime, répétée, guide la conduite des hommes.", "pt": "A máxima, repetida, guia a conduta dos homens." },
+        { "level": "C1-C2", "fr": "C'est la maxime qui, transmise, fonde l'éthique d'un peuple.", "pt": "É a máxima que, transmitida, funda a ética de um povo." }
+      ]
+    },
+    {
+      "term": "l'adage",
+      "definitionPt": "o adágio (provérbio antigo)",
+      "definitionFr": "Proverbe ancien et populaire.",
+      "inflections": ["l'adage", "les adages"],
+      "ptTargets": ["adágio", "provérbio"],
+      "examples": [
+        { "level": "A1", "fr": "L'adage est ancien.", "pt": "O adágio é antigo." },
+        { "level": "A2-B1", "fr": "« Petit à petit, l'oiseau fait son nid » est un adage.", "pt": "« Devagar se vai ao longe » é um adágio." },
+        { "level": "B1-B2", "fr": "L'adage, transmis de bouche à oreille, traverse les générations.", "pt": "O adágio, transmitido de boca em boca, atravessa as gerações." },
+        { "level": "C1-C2", "fr": "C'est l'adage qui, sous sa brièveté, cache toute la sagesse du peuple.", "pt": "É o adágio que, sob sua brevidade, esconde toda a sabedoria do povo." }
+      ]
+    },
+    {
+      "term": "le précepte",
+      "definitionPt": "o preceito (regra que se ensina)",
+      "definitionFr": "Règle d'enseignement ou de conduite.",
+      "inflections": ["le précepte", "les préceptes"],
+      "ptTargets": ["preceito"],
+      "examples": [
+        { "level": "A1", "fr": "Le précepte est clair.", "pt": "O preceito é claro." },
+        { "level": "A2-B1", "fr": "Le professeur suit un précepte simple.", "pt": "O professor segue um preceito simples." },
+        { "level": "B1-B2", "fr": "Le précepte, respecté, protège l'apprenti de l'erreur.", "pt": "O preceito, respeitado, protege o aprendiz do erro." },
+        { "level": "C1-C2", "fr": "C'est le précepte qui, appliqué avec rigueur, fait le maître.", "pt": "É o preceito que, aplicado com rigor, faz o mestre." }
+      ]
+    },
+    {
+      "term": "l'oxymore",
+      "definitionPt": "o oxímoro (união de termos contraditórios)",
+      "definitionFr": "Figure qui unit deux termes contradictoires.",
+      "inflections": ["l'oxymore", "les oxymores"],
+      "ptTargets": ["oxímoro"],
+      "examples": [
+        { "level": "A1", "fr": "L'oxymore est étrange.", "pt": "O oxímoro é estranho." },
+        { "level": "A2-B1", "fr": "« Un silence éclatant » est un oxymore.", "pt": "« Um silêncio estrondoso » é um oxímoro." },
+        { "level": "B1-B2", "fr": "L'oxymore, paradoxal, éclaire une vérité complexe.", "pt": "O oxímoro, paradoxal, ilumina uma verdade complexa." },
+        { "level": "C1-C2", "fr": "C'est l'oxymore qui, en heurtant les mots, révèle l'essence des choses.", "pt": "É o oxímoro que, chocando as palavras, revela a essência das coisas." }
+      ]
+    },
+    {
+      "term": "l'euphémisme",
+      "definitionPt": "o eufemismo (expressão que suaviza)",
+      "definitionFr": "Expression adoucie d'une réalité brutale.",
+      "inflections": ["l'euphémisme", "les euphémismes"],
+      "ptTargets": ["eufemismo"],
+      "examples": [
+        { "level": "A1", "fr": "L'euphémisme est poli.", "pt": "O eufemismo é educado." },
+        { "level": "A2-B1", "fr": "« Il nous a quittés » est un euphémisme.", "pt": "« Ele nos deixou » é um eufemismo." },
+        { "level": "B1-B2", "fr": "L'euphémisme, choisi, adoucit les nouvelles difficiles.", "pt": "O eufemismo, escolhido, suaviza as notícias difíceis." },
+        { "level": "C1-C2", "fr": "C'est l'euphémisme qui, dans la diplomatie, ménage l'honneur de chacun.", "pt": "É o eufemismo que, na diplomacia, poupa a honra de cada um." }
+      ]
+    },
+    {
+      "term": "l'hyperbole",
+      "definitionPt": "a hipérbole (exagero expressivo)",
+      "definitionFr": "Figure d'exagération volontaire.",
+      "inflections": ["l'hyperbole", "les hyperboles"],
+      "ptTargets": ["hipérbole", "exagero"],
+      "examples": [
+        { "level": "A1", "fr": "L'hyperbole exagère.", "pt": "A hipérbole exagera." },
+        { "level": "A2-B1", "fr": "« Je t'aime à la folie » est une hyperbole.", "pt": "« Eu te amo loucamente » é uma hipérbole." },
+        { "level": "B1-B2", "fr": "L'hyperbole, excessive, donne de l'élan au discours.", "pt": "A hipérbole, excessiva, dá impulso ao discurso." },
+        { "level": "C1-C2", "fr": "C'est l'hyperbole qui, maîtrisée, transforme une simple phrase en épopée.", "pt": "É a hipérbole que, dominada, transforma uma simples frase em epopeia." }
+      ]
+    },
+    {
+      "term": "la métonymie",
+      "definitionPt": "a metonímia (troca de termos associados)",
+      "definitionFr": "Figure qui remplace un terme par un terme associé.",
+      "inflections": ["la métonymie", "les métonymies"],
+      "ptTargets": ["metonímia"],
+      "examples": [
+        { "level": "A1", "fr": "La métonymie est subtile.", "pt": "A metonímia é sutil." },
+        { "level": "A2-B1", "fr": "« Boire un verre » est une métonymie.", "pt": "« Beber um copo » é uma metonímia." },
+        { "level": "B1-B2", "fr": "La métonymie, discrète, enrichit la langue quotidienne.", "pt": "A metonímia, discreta, enriquece a língua cotidiana." },
+        { "level": "C1-C2", "fr": "C'est la métonymie qui, en reliant les idées, donne au style sa densité.", "pt": "É a metonímia que, ligando as ideias, dá ao estilo sua densidade." }
+      ]
+    },
+    {
+      "term": "la synecdoque",
+      "definitionPt": "a sinédoque (a parte pelo todo)",
+      "definitionFr": "Figure qui prend la partie pour le tout.",
+      "inflections": ["la synecdoque", "les synecdoques"],
+      "ptTargets": ["sinédoque"],
+      "examples": [
+        { "level": "A1", "fr": "La synecdoque est rare.", "pt": "A sinédoque é rara." },
+        { "level": "A2-B1", "fr": "« Un toit » pour une maison est une synecdoque.", "pt": "« Um teto » por uma casa é uma sinédoque." },
+        { "level": "B1-B2", "fr": "La synecdoque, condensée, dit beaucoup en peu de mots.", "pt": "A sinédoque, condensada, diz muito em poucas palavras." },
+        { "level": "C1-C2", "fr": "C'est la synecdoque qui, en réduisant le tout à sa partie, donne au style sa vigueur.", "pt": "É a sinédoque que, reduzindo o todo à sua parte, dá ao estilo seu vigor." }
+      ]
+    },
+    {
+      "term": "le néologisme",
+      "definitionPt": "o neologismo (palavra recém-criada)",
+      "definitionFr": "Mot nouvellement créé.",
+      "inflections": ["le néologisme", "les néologismes"],
+      "ptTargets": ["neologismo"],
+      "examples": [
+        { "level": "A1", "fr": "Le néologisme est nouveau.", "pt": "O neologismo é novo." },
+        { "level": "A2-B1", "fr": "« Clavier » était un néologisme.", "pt": "« Teclado » foi um neologismo." },
+        { "level": "B1-B2", "fr": "Le néologisme, accepté, entre peu à peu dans le dictionnaire.", "pt": "O neologismo, aceito, entra pouco a pouco no dicionário." },
+        { "level": "C1-C2", "fr": "C'est le néologisme qui, en nommant le nouveau monde, fait évoluer la langue.", "pt": "É o neologismo que, nomeando o mundo novo, faz a língua evoluir." }
+      ]
+    },
+    {
+      "term": "l'archaïsme",
+      "definitionPt": "o arcaísmo (palavra fora de uso)",
+      "definitionFr": "Mot ou forme sorti de l'usage courant.",
+      "inflections": ["l'archaïsme", "les archaïsmes"],
+      "ptTargets": ["arcaísmo"],
+      "examples": [
+        { "level": "A1", "fr": "L'archaïsme est vieux.", "pt": "O arcaísmo é velho." },
+        { "level": "A2-B1", "fr": "« Icelle » est un archaïsme.", "pt": "« Icelle » é um arcaísmo." },
+        { "level": "B1-B2", "fr": "L'archaïsme, conservé, donne au texte sa patine.", "pt": "O arcaísmo, conservado, dá ao texto sua pátina." },
+        { "level": "C1-C2", "fr": "C'est l'archaïsme qui, employé à dessein, crée l'effet de l'ancien temps.", "pt": "É o arcaísmo que, empregado de propósito, cria o efeito de antigamente." }
+      ]
+    },
+    {
+      "term": "la périphrase",
+      "definitionPt": "a perífrase (rodear uma palavra com outras)",
+      "definitionFr": "Figure qui remplace un mot par une expression.",
+      "inflections": ["la périphrase", "les périphrases"],
+      "ptTargets": ["perífrase"],
+      "examples": [
+        { "level": "A1", "fr": "La périphrase est longue.", "pt": "A perífrase é longa." },
+        { "level": "A2-B1", "fr": "« La ville lumière » est une périphrase.", "pt": "« A cidade-luz » é uma perífrase." },
+        { "level": "B1-B2", "fr": "La périphrase, élégante, évite la répétition du mot.", "pt": "A perífrase, elegante, evita a repetição da palavra." },
+        { "level": "C1-C2", "fr": "C'est la périphrase qui, en habillant le mot, donne au style sa noblesse.", "pt": "É a perífrase que, vestindo a palavra, dá ao estilo sua nobreza." }
+      ]
+    },
+    {
+      "term": "la digression",
+      "definitionPt": "a digressão (afastamento do assunto)",
+      "definitionFr": "Écart volontaire hors du sujet.",
+      "inflections": ["la digression", "les digressions"],
+      "ptTargets": ["digressão"],
+      "examples": [
+        { "level": "A1", "fr": "La digression est amusante.", "pt": "A digressão é divertida." },
+        { "level": "A2-B1", "fr": "Il fait souvent des digressions.", "pt": "Ele faz muitas digressões." },
+        { "level": "B1-B2", "fr": "La digression, savoureuse, éloigne puis enrichit le propos.", "pt": "A digressão, saborosa, afasta e depois enriquece o assunto." },
+        { "level": "C1-C2", "fr": "C'est la digression qui, bien menée, révèle les liens cachés du récit.", "pt": "É a digressão que, bem conduzida, revela os laços ocultos da narrativa." }
+      ]
+    },
+    {
+      "term": "la concision",
+      "definitionPt": "a concisão (brevidade precisa)",
+      "definitionFr": "Brièveté qui dit l'essentiel.",
+      "inflections": ["la concision"],
+      "ptTargets": ["concisão"],
+      "examples": [
+        { "level": "A1", "fr": "La concision est claire.", "pt": "A concisão é clara." },
+        { "level": "A2-B1", "fr": "La concision aide à comprendre.", "pt": "A concisão ajuda a compreender." },
+        { "level": "B1-B2", "fr": "La concision, difficile, exige de choisir chaque mot.", "pt": "A concisão, difícil, exige escolher cada palavra." },
+        { "level": "C1-C2", "fr": "C'est la concision qui, en retranchant l'inutile, donne au style sa force.", "pt": "É a concisão que, cortando o inútil, dá ao estilo sua força." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "La litote et l'hyperbole au C2",
+    "explanationPt": "A litote diz menos para sugerir mais ('Ce n'est pas mal' = é excelente); a hipérbole exagera para impressionar ('C'est divin !'). No C2, o falante domina as duas e escolhe entre a contenção e a amplificação segundo a situação.",
+    "exampleFr": "Ce n'est pas mal, cette lumière de Nice — c'est divin !",
+    "examplePt": "Não é nada mau, essa luz de Nice — é divina!",
+    "practiceQuestion": "Complete com a litote: « Cette lumière n'est pas ___ . »",
+    "options": ["mal", "mauvaise", "mauvais"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "La litote de la politesse",
+        "explanationPt": "A litote atenua o elogio: 'Ce n'est pas mal' (não é nada mau) pode significar 'é admirável'. Na França, a litote é também uma forma de polidez.",
+        "exampleFr": "Ce n'est pas mal, ta leçon de grammaire.",
+        "examplePt": "Não está nada mau, tua lição de gramática.",
+        "practiceQuestion": "Complete: « Ce n'est pas ___ , ton français. »",
+        "options": ["mal", "bien", "mieux"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "L'hyperbole du marché",
+        "explanationPt": "A hipérbole anima o discurso popular: 'Ces roses, c'est un peu de paradis !' (estas rosas são um pouco do paraíso). Exagera-se para seduzir o comprador.",
+        "exampleFr": "Ces roses, c'est un peu de paradis dans vos bras !",
+        "examplePt": "Estas rosas são um pouco do paraíso em seus braços!",
+        "practiceQuestion": "Complete: « C'est ___ de paradis ! »",
+        "options": ["un peu", "un peu de rien", "rien"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "O que os vendedores do marché aux fleurs usam para atrair os clientes?",
+      "options": ["a hipérbole", "o silêncio", "o arcaísmo"],
+      "correctIndex": 0,
+      "explanation": "O vendedor exagera: 'Ces roses, c'est un peu de paradis !' — é uma hipérbole."
+    },
+    {
+      "question": "O que é a métonymie, segundo o caderno de Irlan?",
+      "options": ["põe o continente pelo conteúdo", "inventa palavras novas", "une termos contraditórios"],
+      "correctIndex": 0,
+      "explanation": "A metonímia substitui um termo por outro associado, como o continente pelo conteúdo."
+    },
+    {
+      "question": "Complete com a litote: « Cette lumière n'est pas ___ . »",
+      "options": ["mal", "mauvaise", "mauvais"],
+      "correctIndex": 0,
+      "explanation": "A litote usa 'pas mal' para sugerir, na verdade, um elogio."
+    },
+    {
+      "question": "« Un toit » para dizer 'uma casa inteira' é um exemplo de:",
+      "options": ["sinédoque (a parte pelo todo)", "oxímoro", "neologismo"],
+      "correctIndex": 0,
+      "explanation": "A sinédoque toma a parte pelo todo: 'un toit' = uma casa."
+    },
+    {
+      "question": "Qual frase Irlan escreveu ao final da aula?",
+      "options": ["« Nice m'a appris que la langue est une maison. »", "« A língua é inútil. »", "« Prefiro o silêncio. »"],
+      "correctIndex": 0,
+      "explanation": "Irlan concluiu: 'Nice m'a appris que la langue est une maison.'"
+    }
+  ]
+}

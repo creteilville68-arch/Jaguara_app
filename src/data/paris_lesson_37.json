@@ -1,0 +1,252 @@
+{
+  "id": "paris_lesson_37",
+  "cityId": "paris",
+  "domain": "Escola & Aprendizado",
+  "level": "Iniciante (A1)",
+  "titleFr": "L'école d'Iris",
+  "titlePt": "A escola de Íris",
+  "subtitleFr": "La classe, la maîtresse et les leçons",
+  "subtitlePt": "A sala, a professora e as lições",
+  "summaryPt": "Nesta Aula 37 (A1), Íris conta como é a escola em Paris. O aluno aprende o vocabulário escolar (école, classe, maîtresse, cahier, crayon, livre, apprendre, écrire, lire) e os verbos 'lire' e 'écrire'.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Iris va à l'école tous les matins. « Mon école est près de la maison », dit-elle. Dans la classe, il y a une maîtresse et vingt-cinq élèves. Iris a un cahier, des crayons et des livres dans son cartable.",
+      "pt": "Íris vai à escola todas as manhãs. « Minha escola fica perto de casa », diz ela. Na sala, há uma professora e vinte e cinco alunos. Íris tem um caderno, lápis e livros na mochila."
+    },
+    {
+      "id": 2,
+      "fr": "Le matin, la maîtresse dit : « Sortez vos cahiers, nous allons écrire. » Iris écrit les lettres de l'alphabet. « Bravo, Iris, tu écris très bien ! » dit la maîtresse. Iris est fière et contente.",
+      "pt": "De manhã, a professora diz: « Tirem seus cadernos, vamos escrever. » Íris escreve as letras do alfabeto. « Muito bem, Íris, você escreve muito bem! » diz a professora. Íris fica orgulhosa e contente."
+    },
+    {
+      "id": 3,
+      "fr": "Après l'écriture, c'est la lecture. La maîtresse lit une petite histoire. « Aimez-vous les histoires ? » demande-t-elle. « Oui ! » crient les enfants. Iris lit aussi des mots simples : « chat », « maison », « soleil ».",
+      "pt": "Depois da escrita, é a leitura. A professora lê uma historinha. « Vocês gostam de histórias? » pergunta ela. « Sim! » gritam as crianças. Íris também lê palavras simples: « gato », « casa », « sol »."
+    },
+    {
+      "id": 4,
+      "fr": "À la récréation, les enfants jouent dans la cour. Iris joue avec ses amis et apprend des jeux nouveaux. « À l'école, dit-elle à ses parents, on apprend à lire, à écrire et à compter. Mais on apprend aussi à être amis ! »",
+      "pt": "No recreio, as crianças brincam no pátio. Íris brinca com os amigos e aprende brincadeiras novas. « Na escola, diz ela aos pais, aprende-se a ler, a escrever e a contar. Mas também se aprende a ser amigo! »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "l'école",
+      "definitionPt": "a escola",
+      "definitionFr": "Lieu où l'on apprend.",
+      "inflections": ["l'école", "une école", "des écoles"],
+      "ptTargets": ["escola"],
+      "examples": [
+        { "level": "A1", "fr": "L'école est près de la maison.", "pt": "A escola fica perto de casa." },
+        { "level": "A2-B1", "fr": "Iris va à l'école tous les matins.", "pt": "Íris vai à escola todas as manhãs." },
+        { "level": "B2", "fr": "Les écoles françaises accueillent les enfants dès trois ans.", "pt": "As escolas francesas recebem as crianças desde os três anos." },
+        { "level": "C1-C2", "fr": "C'est l'école qui, jour après jour, construit les citoyens de demain.", "pt": "É a escola que, dia após dia, constrói os cidadãos de amanhã." }
+      ]
+    },
+    {
+      "term": "la classe",
+      "definitionPt": "a sala (de aula)",
+      "definitionFr": "Groupe d'élèves avec un professeur.",
+      "inflections": ["la classe", "une classe", "des classes"],
+      "ptTargets": ["sala de aula", "turma"],
+      "examples": [
+        { "level": "A1", "fr": "La classe est grande.", "pt": "A sala é grande." },
+        { "level": "A2-B1", "fr": "Il y a vingt-cinq élèves dans la classe.", "pt": "Há vinte e cinco alunos na sala." },
+        { "level": "B2", "fr": "La classe, attentive, écoute la maîtresse.", "pt": "A turma, atenta, escuta a professora." },
+        { "level": "C1-C2", "fr": "C'est la classe qui, ensemble, apprend à vivre en société.", "pt": "É a turma que, junta, aprende a viver em sociedade." }
+      ]
+    },
+    {
+      "term": "la maîtresse",
+      "definitionPt": "a professora",
+      "definitionFr": "Enseignante à l'école primaire.",
+      "inflections": ["la maîtresse", "une maîtresse", "des maîtresses"],
+      "ptTargets": ["professora", "tia"],
+      "examples": [
+        { "level": "A1", "fr": "La maîtresse est gentille.", "pt": "A professora é gentil." },
+        { "level": "A2-B1", "fr": "La maîtresse lit une histoire.", "pt": "A professora lê uma história." },
+        { "level": "B2", "fr": "La maîtresse, patiente, explique chaque leçon.", "pt": "A professora, paciente, explica cada lição." },
+        { "level": "C1-C2", "fr": "C'est la maîtresse qui, par ses encouragements, révèle le meilleur de chaque élève.", "pt": "É a professora que, por seus incentivos, revela o melhor de cada aluno." }
+      ]
+    },
+    {
+      "term": "le cahier",
+      "definitionPt": "o caderno",
+      "definitionFr": "Carnet pour écrire.",
+      "inflections": ["le cahier", "un cahier", "des cahiers"],
+      "ptTargets": ["caderno"],
+      "examples": [
+        { "level": "A1", "fr": "Le cahier est neuf.", "pt": "O caderno é novo." },
+        { "level": "A2-B1", "fr": "Iris écrit dans son cahier.", "pt": "Íris escreve no caderno." },
+        { "level": "B2", "fr": "Les cahiers, soignés, montrent le travail de l'élève.", "pt": "Os cadernos, caprichados, mostram o trabalho do aluno." },
+        { "level": "C1-C2", "fr": "C'est le cahier qui, rempli, raconte une année d'apprentissage.", "pt": "É o caderno que, preenchido, conta um ano de aprendizado." }
+      ]
+    },
+    {
+      "term": "le crayon",
+      "definitionPt": "o lápis",
+      "definitionFr": "Instrument pour écrire ou dessiner.",
+      "inflections": ["le crayon", "un crayon", "des crayons"],
+      "ptTargets": ["lápis"],
+      "examples": [
+        { "level": "A1", "fr": "Le crayon est rouge.", "pt": "O lápis é vermelho." },
+        { "level": "A2-B1", "fr": "Iris a des crayons de couleur.", "pt": "Íris tem lápis de cor." },
+        { "level": "B2", "fr": "Les crayons, taillés, attendent le dessin du matin.", "pt": "Os lápis, apontados, esperam o desenho da manhã." },
+        { "level": "C1-C2", "fr": "C'est le crayon qui, léger, porte les premières idées des enfants.", "pt": "É o lápis que, leve, carrega as primeiras ideias das crianças." }
+      ]
+    },
+    {
+      "term": "le livre",
+      "definitionPt": "o livro",
+      "definitionFr": "Ouvrage à lire.",
+      "inflections": ["le livre", "un livre", "des livres"],
+      "ptTargets": ["livro"],
+      "examples": [
+        { "level": "A1", "fr": "Le livre est dans le cartable.", "pt": "O livro está na mochila." },
+        { "level": "A2-B1", "fr": "Iris lit un petit livre.", "pt": "Íris lê um livrinho." },
+        { "level": "B2", "fr": "Les livres, ouverts, ouvrent des mondes.", "pt": "Os livros, abertos, abrem mundos." },
+        { "level": "C1-C2", "fr": "C'est le livre qui, lu, reste à jamais dans la mémoire.", "pt": "É o livro que, lido, fica para sempre na memória." }
+      ]
+    },
+    {
+      "term": "apprendre",
+      "definitionPt": "aprender",
+      "definitionFr": "Acquérir des connaissances.",
+      "inflections": ["apprendre", "j'apprends", "nous apprenons"],
+      "ptTargets": ["aprender"],
+      "examples": [
+        { "level": "A1", "fr": "J'apprends le français.", "pt": "Eu aprendo francês." },
+        { "level": "A2-B1", "fr": "On apprend à lire à l'école.", "pt": "Aprende-se a ler na escola." },
+        { "level": "B2", "fr": "Apprendre demande du temps et de la patience.", "pt": "Aprender exige tempo e paciência." },
+        { "level": "C1-C2", "fr": "C'est en apprenant que l'on grandit.", "pt": "É aprendendo que se cresce." }
+      ]
+    },
+    {
+      "term": "écrire",
+      "definitionPt": "escrever",
+      "definitionFr": "Tracer des lettres.",
+      "inflections": ["écrire", "j'écris", "nous écrivons"],
+      "ptTargets": ["escrever"],
+      "examples": [
+        { "level": "A1", "fr": "J'écris mon nom.", "pt": "Eu escrevo meu nome." },
+        { "level": "A2-B1", "fr": "Iris écrit les lettres de l'alphabet.", "pt": "Íris escreve as letras do alfabeto." },
+        { "level": "B2", "fr": "Écrire, c'est penser avec ses mains.", "pt": "Escrever é pensar com as mãos." },
+        { "level": "C1-C2", "fr": "C'est en écrivant que l'on organise ses idées.", "pt": "É escrevendo que se organizam as ideias." }
+      ]
+    },
+    {
+      "term": "lire",
+      "definitionPt": "ler",
+      "definitionFr": "Déchiffrer un texte.",
+      "inflections": ["lire", "je lis", "nous lisons"],
+      "ptTargets": ["ler"],
+      "examples": [
+        { "level": "A1", "fr": "Je lis un livre.", "pt": "Eu leio um livro." },
+        { "level": "A2-B1", "fr": "Iris lit des mots simples.", "pt": "Íris lê palavras simples." },
+        { "level": "B2", "fr": "Lire chaque jour ouvre l'esprit.", "pt": "Ler todos os dias abre a mente." },
+        { "level": "C1-C2", "fr": "C'est en lisant que l'on voyage sans bouger.", "pt": "É lendo que se viaja sem sair do lugar." }
+      ]
+    },
+    {
+      "term": "compter",
+      "definitionPt": "contar",
+      "definitionFr": "Dénombrer, calculer.",
+      "inflections": ["compter", "je compte", "nous comptons"],
+      "ptTargets": ["contar"],
+      "examples": [
+        { "level": "A1", "fr": "Je compte jusqu'à dix.", "pt": "Eu conto até dez." },
+        { "level": "A2-B1", "fr": "On apprend à compter à l'école.", "pt": "Aprende-se a contar na escola." },
+        { "level": "B2", "fr": "Compter, c'est le premier pas des mathématiques.", "pt": "Contar é o primeiro passo da matemática." },
+        { "level": "C1-C2", "fr": "C'est en comptant que l'on mesure le monde.", "pt": "É contando que se mede o mundo." }
+      ]
+    },
+    {
+      "term": "la récréation",
+      "definitionPt": "o recreio",
+      "definitionFr": "Pause entre les cours.",
+      "inflections": ["la récréation", "une récréation", "des récréations"],
+      "ptTargets": ["recreio", "intervalo"],
+      "examples": [
+        { "level": "A1", "fr": "La récréation est à dix heures.", "pt": "O recreio é às dez horas." },
+        { "level": "A2-B1", "fr": "À la récréation, les enfants jouent dans la cour.", "pt": "No recreio, as crianças brincam no pátio." },
+        { "level": "B2", "fr": "La récréation, courte, est très attendue.", "pt": "O recreio, curto, é muito esperado." },
+        { "level": "C1-C2", "fr": "C'est à la récréation que se nouent les amitiés d'enfance.", "pt": "É no recreio que se formam as amizades de infância." }
+      ]
+    },
+    {
+      "term": "le cartable",
+      "definitionPt": "a mochila (escolar)",
+      "definitionFr": "Sac d'écolier.",
+      "inflections": ["le cartable", "un cartable", "des cartables"],
+      "ptTargets": ["mochila", "mochila escolar"],
+      "examples": [
+        { "level": "A1", "fr": "Le cartable est lourd.", "pt": "A mochila é pesada." },
+        { "level": "A2-B1", "fr": "Les livres sont dans le cartable.", "pt": "Os livros estão na mochila." },
+        { "level": "B2", "fr": "Le cartable, bien rangé, est prêt pour l'école.", "pt": "A mochila, bem arrumada, está pronta para a escola." },
+        { "level": "C1-C2", "fr": "C'est le cartable qui, chaque matin, accompagne les premiers pas de l'enfance.", "pt": "É a mochila que, cada manhã, acompanha os primeiros passos da infância." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Le verbe écrire au présent",
+    "explanationPt": "O verbo 'écrire' (escrever): j'écris, tu écris, il/elle écrit, nous écrivons, vous écrivez, ils/elles écrivent. Ex.: 'Iris écrit les lettres de l'alphabet.'",
+    "exampleFr": "Iris écrit les lettres de l'alphabet.",
+    "examplePt": "Íris escreve as letras do alfabeto.",
+    "practiceQuestion": "Complete: 'Nous _____ une lettre.'",
+    "options": ["écrivons", "écris", "écrivent"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "Le verbe lire au présent",
+        "explanationPt": "O verbo 'lire' (ler): je lis, tu lis, il/elle lit, nous lisons, vous lisez, ils/elles lisent. Ex.: 'La maîtresse lit une histoire.'",
+        "exampleFr": "La maîtresse lit une petite histoire.",
+        "examplePt": "A professora lê uma historinha.",
+        "practiceQuestion": "Complete: 'Ils _____ des livres.'",
+        "options": ["lisent", "lis", "lisons"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "On apprend à + infinitif",
+        "explanationPt": "Para dizer o que se aprende: 'apprendre à + infinitivo'. Ex.: 'On apprend à lire, à écrire et à compter.'",
+        "exampleFr": "On apprend à lire, à écrire et à compter.",
+        "examplePt": "Aprende-se a ler, a escrever e a contar.",
+        "practiceQuestion": "Complete: 'On apprend _____ lire.'",
+        "options": ["à", "de", "pour"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Quantos alunos há na classe de Íris?",
+      "options": ["vinte e cinco", "cinco", "cem"],
+      "correctIndex": 0,
+      "explanation": "Il y a vingt-cinq élèves dans la classe."
+    },
+    {
+      "question": "O que Íris escreve de manhã?",
+      "options": ["as letras do alfabeto", "números grandes", "desenhos de carros"],
+      "correctIndex": 0,
+      "explanation": "Iris écrit les lettres de l'alphabet."
+    },
+    {
+      "question": "Onde as crianças brincam no recreio?",
+      "options": ["no pátio", "na sala", "na rua"],
+      "correctIndex": 0,
+      "explanation": "À la récréation, les enfants jouent dans la cour."
+    },
+    {
+      "question": "Complete: 'Nous _____ une lettre.'",
+      "options": ["écrivons", "écris", "écrivent"],
+      "correctIndex": 0,
+      "explanation": "écrire com nous: écrivons."
+    },
+    {
+      "question": "Complete: 'On apprend _____ lire.'",
+      "options": ["à", "de", "pour"],
+      "correctIndex": 0,
+      "explanation": "apprendre à + infinitivo."
+    }
+  ]
+}

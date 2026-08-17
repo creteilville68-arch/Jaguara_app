@@ -1,0 +1,252 @@
+{
+  "id": "strasbourg_lesson_9",
+  "cityId": "strasbourg",
+  "domain": "Natureza e Vinhos",
+  "level": "Avançado (C1+)",
+  "titleFr": "Le parc de l'Orangerie et la route des vins",
+  "titlePt": "O parque da Orangerie e a rota dos vinhos",
+  "subtitleFr": "Les cigognes, les muscats et un pique-nique alsacien",
+  "subtitlePt": "As cegonhas, os muscat e um piquenique alsaciano",
+  "summaryPt": "Nesta Aula 9 (C1+), a família passa a manhã no parc de l'Orangerie, onde vivem as cegonhas, símbolo da Alsácia, e planeja a route des vins. O aluno revisa o futur antérieur e os conectores argumentativos, com vocabulário da natureza e da viticultura.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Dans le parc de l'Orangerie, les cigognes marchaient fièrement sur la pelouse. « La cigogne est l'oiseau de l'Alsace, dit Andréa. La nidification de la cigogne, elle, se fait sur les toits et les cheminées. Quand nous aurons visité la région, nous aurons vu des dizaines de nids. »",
+      "pt": "No parque da Orangerie, as cegonhas andavam orgulhosamente no gramado. « A cegonha é a ave da Alsácia, disse Andréa. A nidificação da cegonha, ela, se faz nos telhados e nas chaminés. Quando tivermos visitado a região, teremos visto dezenas de ninhos. »"
+    },
+    {
+      "id": 2,
+      "fr": "Iris nourrissait les canards au bord du lac. « Après la promenade, dit Irlan, nous aurons mérité notre déjeuner. La dégustation des vins, elle, nous attendra plus tard. La route des vins traverse des villages magnifiques : Mittelbergheim, Ribeauvillé, Riquewihr. »",
+      "pt": "Íris alimentava os patos à beira do lago. « Depois do passeio, disse Irlan, teremos merecido nosso almoço. A degustação dos vinhos, ela, nos esperará mais tarde. A rota dos vinhos atravessa vilarejos magníficos: Mittelbergheim, Ribeauvillé, Riquewihr. »"
+    },
+    {
+      "id": 3,
+      "fr": "Le pique-nique fut installé sous un marronnier. « La production du riesling et du gewurztraminer, expliqua Andréa, est le trésor de nos collines. Néanmoins, il faut savoir les accompagner. La dégustation du vin, elle, demande des yeux, un nez et de la patience. »",
+      "pt": "O piquenique foi montado sob um castanheiro. « A produção do riesling e do gewurztraminer, explicou Andréa, é o tesouro de nossas colinas. No entanto, é preciso saber acompanhá-los. A degustação do vinho, ela, exige olhos, nariz e paciência. »"
+    },
+    {
+      "id": 4,
+      "fr": "En fin d'après-midi, Irlan résuma : « La réputation de la route des vins, bâtie sur des siècles de travail, attire les voyageurs du monde entier. Toutefois, le plus beau souvenir restera cette journée simple : les cigognes, les canards et notre pique-nique. Par conséquent, l'Alsace est complète dans nos cœurs. »",
+      "pt": "No fim da tarde, Irlan resumiu: « A reputação da rota dos vinhos, construída sobre séculos de trabalho, atrai viajantes do mundo inteiro. Contudo, a lembrança mais bonita continuará sendo este dia simples: as cegonhas, os patos e nosso piquenique. Por conseguinte, a Alsácia está completa em nossos corações. »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "la cigogne",
+      "definitionPt": "a cegonha",
+      "definitionFr": "Grand oiseau migrateur, symbole de l'Alsace.",
+      "inflections": ["la cigogne", "les cigognes"],
+      "ptTargets": ["cegonha"],
+      "examples": [
+        { "level": "A1", "fr": "La cigogne est blanche.", "pt": "A cegonha é branca." },
+        { "level": "A2-B1", "fr": "Les cigognes vivent dans le parc.", "pt": "As cegonhas vivem no parque." },
+        { "level": "B1-B2", "fr": "Les cigognes, qui nichent sur les toits, sont le symbole de l'Alsace.", "pt": "As cegonhas, que fazem ninho nos telhados, são o símbolo da Alsácia." },
+        { "level": "C1-C2", "fr": "C'est la cigogne, fidèle à son nid, qui incarne l'attachement alsacien.", "pt": "É a cegonha, fiel ao seu ninho, que encarna o apego alsaciano." }
+      ]
+    },
+    {
+      "term": "le nid",
+      "definitionPt": "o ninho",
+      "definitionFr": "Abri construit par les oiseaux.",
+      "inflections": ["le nid", "les nids"],
+      "ptTargets": ["ninho"],
+      "examples": [
+        { "level": "A1", "fr": "Le nid est haut.", "pt": "O ninho é alto." },
+        { "level": "A2-B1", "fr": "Les nids sont sur les cheminées.", "pt": "Os ninhos estão nas chaminés." },
+        { "level": "B1-B2", "fr": "Les nids, construits au fil des années, deviennent immenses.", "pt": "Os ninhos, construídos ao longo dos anos, ficam imensos." },
+        { "level": "C1-C2", "fr": "C'est le retour de la cigogne à son nid qui annonce le printemps alsacien.", "pt": "É o retorno da cegonha ao seu ninho que anuncia a primavera alsaciana." }
+      ]
+    },
+    {
+      "term": "le lac",
+      "definitionPt": "o lago",
+      "definitionFr": "Grande étendue d'eau.",
+      "inflections": ["le lac", "les lacs"],
+      "ptTargets": ["lago"],
+      "examples": [
+        { "level": "A1", "fr": "Le lac est calme.", "pt": "O lago é calmo." },
+        { "level": "A2-B1", "fr": "Les canards nagent dans le lac.", "pt": "Os patos nadam no lago." },
+        { "level": "B1-B2", "fr": "Le lac, entouré d'arbres, invite à la promenade.", "pt": "O lago, cercado de árvores, convida ao passeio." },
+        { "level": "C1-C2", "fr": "C'est au bord de ce lac que la famille goûta la douceur alsacienne.", "pt": "É à beira deste lago que a família provou a doçura alsaciana." }
+      ]
+    },
+    {
+      "term": "le canard",
+      "definitionPt": "o pato",
+      "definitionFr": "Oiseau aquatique.",
+      "inflections": ["le canard", "les canards"],
+      "ptTargets": ["pato"],
+      "examples": [
+        { "level": "A1", "fr": "Le canard nage.", "pt": "O pato nada." },
+        { "level": "A2-B1", "fr": "Iris nourrit les canards.", "pt": "Íris alimenta os patos." },
+        { "level": "B1-B2", "fr": "Les canards, habitués aux visiteurs, s'approchent sans peur.", "pt": "Os patos, acostumados aos visitantes, se aproximam sem medo." },
+        { "level": "C1-C2", "fr": "C'est le vol matinal des canards qui anime les rives du lac.", "pt": "É o voo matinal dos patos que anima as margens do lago." }
+      ]
+    },
+    {
+      "term": "le marronnier",
+      "definitionPt": "o castanheiro-da-índia",
+      "definitionFr": "Arbre aux larges feuilles.",
+      "inflections": ["le marronnier", "les marronniers"],
+      "ptTargets": ["castanheiro", "marronier"],
+      "examples": [
+        { "level": "A1", "fr": "Le marronnier est grand.", "pt": "O castanheiro é grande." },
+        { "level": "A2-B1", "fr": "Le pique-nique a lieu sous un marronnier.", "pt": "O piquenique acontece sob um castanheiro." },
+        { "level": "B1-B2", "fr": "Les marronniers, centenaires, ombragent les allées du parc.", "pt": "Os castanheiros, centenários, sombreiam as alamedas do parque." },
+        { "level": "C1-C2", "fr": "C'est sous les marronniers de l'Orangerie que Strasbourg vient se reposer.", "pt": "É sob os castanheiros da Orangerie que Strasbourg vem descansar." }
+      ]
+    },
+    {
+      "term": "le pique-nique",
+      "definitionPt": "o piquenique",
+      "definitionFr": "Repas pris en plein air.",
+      "inflections": ["le pique-nique", "les pique-niques"],
+      "ptTargets": ["piquenique"],
+      "examples": [
+        { "level": "A1", "fr": "Le pique-nique est bon.", "pt": "O piquenique é bom." },
+        { "level": "A2-B1", "fr": "La famille fait un pique-nique au parc.", "pt": "A família faz um piquenique no parque." },
+        { "level": "B1-B2", "fr": "Le pique-nique, préparé le matin, fut partagé sous les arbres.", "pt": "O piquenique, preparado de manhã, foi partilhado sob as árvores." },
+        { "level": "C1-C2", "fr": "C'est autour d'un pique-nique alsacien que la famille se sentit chez elle.", "pt": "É em torno de um piquenique alsaciano que a família se sentiu em casa." }
+      ]
+    },
+    {
+      "term": "la production",
+      "definitionPt": "a produção",
+      "definitionFr": "Action de produire.",
+      "inflections": ["la production", "les productions"],
+      "ptTargets": ["produção"],
+      "examples": [
+        { "level": "A1", "fr": "La production est importante.", "pt": "A produção é importante." },
+        { "level": "A2-B1", "fr": "La production du vin est célèbre ici.", "pt": "A produção do vinho é famosa aqui." },
+        { "level": "B1-B2", "fr": "La production du riesling, réglée par des siècles de savoir-faire, est exigeante.", "pt": "A produção do riesling, regida por séculos de saber-fazer, é exigente." },
+        { "level": "C1-C2", "fr": "C'est la production viticole qui façonne les collines alsaciennes.", "pt": "É a produção vitivinícola que molda as colinas alsacianas." }
+      ]
+    },
+    {
+      "term": "la dégustation",
+      "definitionPt": "a degustação",
+      "definitionFr": "Action de goûter un produit.",
+      "inflections": ["la dégustation", "les dégustations"],
+      "ptTargets": ["degustação"],
+      "examples": [
+        { "level": "A1", "fr": "La dégustation est amusante.", "pt": "A degustação é divertida." },
+        { "level": "A2-B1", "fr": "La dégustation des vins commence à 15 heures.", "pt": "A degustação dos vinhos começa às 15 horas." },
+        { "level": "B1-B2", "fr": "La dégustation, guidée par un vigneron, révèle les arômes du terroir.", "pt": "A degustação, guiada por um vinicultor, revela os aromas do terroir." },
+        { "level": "C1-C2", "fr": "C'est la dégustation qui transforme une visite en expérience inoubliable.", "pt": "É a degustação que transforma uma visita em experiência inesquecível." }
+      ]
+    },
+    {
+      "term": "le vigneron",
+      "definitionPt": "o vinicultor",
+      "definitionFr": "Personne qui cultive la vigne.",
+      "inflections": ["le vigneron", "les vignerons"],
+      "ptTargets": ["vinicultor", "vitivinicultor"],
+      "examples": [
+        { "level": "A1", "fr": "Le vigneron travaille.", "pt": "O vinicultor trabalha." },
+        { "level": "A2-B1", "fr": "Le vigneron nous accueille.", "pt": "O vinicultor nos recebe." },
+        { "level": "B1-B2", "fr": "Les vignerons, fiers de leur travail, ouvrent leurs caves aux visiteurs.", "pt": "Os vinicultores, orgulhosos de seu trabalho, abrem suas adegas aos visitantes." },
+        { "level": "C1-C2", "fr": "C'est le vigneron qui, génération après génération, transmet l'âme des collines.", "pt": "É o vinicultor que, geração após geração, transmite a alma das colinas." }
+      ]
+    },
+    {
+      "term": "le riesling",
+      "definitionPt": "o riesling",
+      "definitionFr": "Cépage blanc emblématique d'Alsace.",
+      "inflections": ["le riesling", "les rieslings"],
+      "ptTargets": ["riesling"],
+      "examples": [
+        { "level": "A1", "fr": "Le riesling est blanc.", "pt": "O riesling é branco." },
+        { "level": "A2-B1", "fr": "Le riesling accompagne la choucroute.", "pt": "O riesling acompanha a choucroute." },
+        { "level": "B1-B2", "fr": "Le riesling, sec et fruité, est le vin des grands repas.", "pt": "O riesling, seco e frutado, é o vinho das grandes refeições." },
+        { "level": "C1-C2", "fr": "C'est le riesling qui, dans l'accord parfait, sublime la cuisine alsacienne.", "pt": "É o riesling que, na combinação perfeita, realça a cozinha alsaciana." }
+      ]
+    },
+    {
+      "term": "le terroir",
+      "definitionPt": "o terroir (solo e clima típicos)",
+      "definitionFr": "Ensemble des caractéristiques d'une région viticole.",
+      "inflections": ["le terroir", "les terroirs"],
+      "ptTargets": ["terroir"],
+      "examples": [
+        { "level": "A1", "fr": "Le terroir est spécial.", "pt": "O terroir é especial." },
+        { "level": "A2-B1", "fr": "L'Alsace a un beau terroir.", "pt": "A Alsácia tem um belo terroir." },
+        { "level": "B1-B2", "fr": "Le terroir, unique, donne au vin son caractère.", "pt": "O terroir, único, dá ao vinho seu caráter." },
+        { "level": "C1-C2", "fr": "C'est l'alliance du terroir et du savoir-faire qui fait la grandeur des vins d'Alsace.", "pt": "É a aliança do terroir e do saber-fazer que faz a grandeza dos vinhos da Alsácia." }
+      ]
+    },
+    {
+      "term": "la colline",
+      "definitionPt": "a colina",
+      "definitionFr": "Élévation de terrain peu élevée.",
+      "inflections": ["la colline", "les collines"],
+      "ptTargets": ["colina"],
+      "examples": [
+        { "level": "A1", "fr": "La colline est verte.", "pt": "A colina é verde." },
+        { "level": "A2-B1", "fr": "Les vignes couvrent les collines.", "pt": "As vinhas cobrem as colinas." },
+        { "level": "B1-B2", "fr": "Les collines, couvertes de vignes, se succèdent à perte de vue.", "pt": "As colinas, cobertas de vinhas, se sucedem até onde a vista alcança." },
+        { "level": "C1-C2", "fr": "C'est sur ces collines que se joue, chaque année, le destin du millésime.", "pt": "É nessas colinas que se decide, a cada ano, o destino da safra." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Le futur antérieur : l'action accomplie",
+    "explanationPt": "O futur antérieur (auxiliaire au futur + particípio) exprime uma ação futura já terminada antes de outra: 'Quand nous aurons visité la région, nous aurons vu des dizaines de nids' (quando tivermos visitado, teremos visto).",
+    "exampleFr": "Après la promenade, nous aurons mérité notre déjeuner.",
+    "examplePt": "Depois do passeio, teremos merecido nosso almoço.",
+    "practiceQuestion": "Complete: « Quand nous ___ visité la région, nous aurons vu des nids. »",
+    "options": ["aurons", "avons", "avions"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "La dégustation : vocabulaire des sens",
+        "explanationPt": "A degustação usa os sentidos: 'les yeux' (os olhos), 'un nez' (um nariz), 'la patience' (a paciência). O vocabulário sensorial enriquece a descrição formal.",
+        "exampleFr": "La dégustation du vin demande des yeux, un nez et de la patience.",
+        "examplePt": "A degustação do vinho exige olhos, nariz e paciência.",
+        "practiceQuestion": "Complete: « La dégustation demande des yeux, un nez et de la ___ . »",
+        "options": ["patience", "patiente", "patienter"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "Toutefois et Par conséquent en conclusion",
+        "explanationPt": "Fechamento argumentativo: 'Toutefois, le plus beau souvenir restera cette journée' (contudo) e 'Par conséquent, l'Alsace est complète dans nos cœurs' (por conseguinte).",
+        "exampleFr": "Toutefois, le plus beau souvenir restera cette journée simple.",
+        "examplePt": "Contudo, a lembrança mais bonita continuará sendo este dia simples.",
+        "practiceQuestion": "Complete: « ___ , l'Alsace est complète dans nos cœurs. »",
+        "options": ["Par conséquent", "Avant que", "Quoique"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Qual ave é o símbolo da Alsácia?",
+      "options": ["a cegonha", "a águia", "o corvo"],
+      "correctIndex": 0,
+      "explanation": "A cegonha, que nidifica nos telhados, é o símbolo da Alsácia."
+    },
+    {
+      "question": "Onde a família fez o piquenique?",
+      "options": ["no parc de l'Orangerie", "na catedral", "no aeroporto"],
+      "correctIndex": 0,
+      "explanation": "O piquenique foi no parc de l'Orangerie, sob um castanheiro."
+    },
+    {
+      "question": "Quais vilarejos ficam na route des vins?",
+      "options": ["Mittelbergheim, Ribeauvillé e Riquewihr", "Nice, Cannes e Antibes", "Lille, Roubaix e Tourcoing"],
+      "correctIndex": 0,
+      "explanation": "Mittelbergheim, Ribeauvillé e Riquewihr estão na rota dos vinhos da Alsácia."
+    },
+    {
+      "question": "Complete: « Quand nous ___ visité la région, nous aurons vu des nids. »",
+      "options": ["aurons", "avons", "avions"],
+      "correctIndex": 0,
+      "explanation": "Futur antérieur: aurons visité (tivermos visitado)."
+    },
+    {
+      "question": "O que a degustação do vinho exige?",
+      "options": ["olhos, nariz e paciência", "dinheiro e pressa", "sorte e silêncio"],
+      "correctIndex": 0,
+      "explanation": "A degustação pede os sentidos: olhos, nariz e paciência."
+    }
+  ]
+}

@@ -1,0 +1,252 @@
+{
+  "id": "lille_lesson_4",
+  "cityId": "lille",
+  "domain": "Arte e Cultura",
+  "level": "Básico (A2)",
+  "titleFr": "Le Palais des Beaux-Arts : une matinée au musée",
+  "titlePt": "O Palais des Beaux-Arts: uma manhã no museu",
+  "subtitleFr": "Peintures flamandes, sculptures et le plus grand musée de France après le Louvre",
+  "subtitlePt": "Pinturas flamengas, esculturas e o maior museu da França depois do Louvre",
+  "summaryPt": "Nesta Aula 4 (A2), a família visita o Palais des Beaux-Arts, o maior museu de arte da França depois do Louvre. Eles admiram as pinturas flamengas e as esculturas, e Íris descobre a sala das cerâmicas. O aluno pratica o Passé Composé negativo (je n'ai pas vu, nous n'avons pas compris) e os pronomes de objeto direto (je l'ai adorée).",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Le Palais des Beaux-Arts est le plus grand musée de France après le Louvre. Nous avons acheté les billets et nous sommes entrés dans la grande salle.",
+      "pt": "O Palais des Beaux-Arts é o maior museu da França depois do Louvre. Compramos os ingressos e entramos na grande sala."
+    },
+    {
+      "id": 2,
+      "fr": "J'ai adoré les peintures flamandes du XVIIe siècle. Andréa a expliqué les tableaux à Íris, qui a posé beaucoup de questions.",
+      "pt": "Eu adorei as pinturas flamengas do século XVII. Andréa explicou os quadros para Íris, que fez muitas perguntas."
+    },
+    {
+      "id": 3,
+      "fr": "Dans la salle des sculptures, je n'ai pas vu la statue de Rubens tout de suite. Le guide a dit : « Elle est juste là ! »",
+      "pt": "Na sala das esculturas, eu não vi a estátua de Rubens de imediato. O guia disse: « Ela está bem ali! »"
+    },
+    {
+      "id": 4,
+      "fr": "Nous n'avons pas visité toutes les salles, mais nous avons découvert les céramiques anciennes. Íris a pris des notes dans son carnet.",
+      "pt": "Não visitamos todas as salas, mas descobrimos as cerâmicas antigas. Íris anotou no seu caderno."
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "le musée",
+      "definitionPt": "o museu",
+      "definitionFr": "Lieu où l'on expose des œuvres d'art ou des objets.",
+      "inflections": ["le musée", "les musées"],
+      "ptTargets": ["museu"],
+      "examples": [
+        { "level": "A1", "fr": "Le musée est ouvert.", "pt": "O museu está aberto." },
+        { "level": "A2-B1", "fr": "Le Palais des Beaux-Arts est un grand musée.", "pt": "O Palais des Beaux-Arts é um grande museu." },
+        { "level": "B2", "fr": "Ce musée possède l'une des plus belles collections d'Europe.", "pt": "Este museu possui uma das mais belas coleções da Europa." },
+        { "level": "C1-C2", "fr": "La muséographie moderne transforme la visite en une véritable expérience sensorielle.", "pt": "A museografia moderna transforma a visita em uma verdadeira experiência sensorial." }
+      ]
+    },
+    {
+      "term": "la peinture",
+      "definitionPt": "a pintura",
+      "definitionFr": "Œuvre d'art réalisée avec des couleurs.",
+      "inflections": ["la peinture", "les peintures"],
+      "ptTargets": ["pintura"],
+      "examples": [
+        { "level": "A1", "fr": "La peinture est belle.", "pt": "A pintura é bonita." },
+        { "level": "A2-B1", "fr": "J'ai adoré les peintures flamandes.", "pt": "Eu adorei as pinturas flamengas." },
+        { "level": "B2", "fr": "Les peintures du XVIIe siècle montrent la richesse des marchands flamands.", "pt": "As pinturas do século XVII mostram a riqueza dos mercadores flamengos." },
+        { "level": "C1-C2", "fr": "La peinture flamande illustre la puissance économique et culturelle des Provinces-Unies.", "pt": "A pintura flamenga ilustra o poder econômico e cultural das Províncias Unidas." }
+      ]
+    },
+    {
+      "term": "la sculpture",
+      "definitionPt": "a escultura",
+      "definitionFr": "Œuvre d'art en trois dimensions.",
+      "inflections": ["la sculpture", "les sculptures"],
+      "ptTargets": ["escultura"],
+      "examples": [
+        { "level": "A1", "fr": "La sculpture est grande.", "pt": "A escultura é grande." },
+        { "level": "A2-B1", "fr": "Nous avons vu des sculptures anciennes.", "pt": "Nós vimos esculturas antigas." },
+        { "level": "B2", "fr": "La salle des sculptures rassemble des œuvres du Moyen Âge à nos jours.", "pt": "A sala das esculturas reúne obras da Idade Média até hoje." },
+        { "level": "C1-C2", "fr": "La sculpture baroque exprime avec intensité le mouvement et l'émotion.", "pt": "A escultura barroca expressa com intensidade o movimento e a emoção." }
+      ]
+    },
+    {
+      "term": "le tableau",
+      "definitionPt": "o quadro",
+      "definitionFr": "Peinture exposée, souvent dans un cadre.",
+      "inflections": ["le tableau", "les tableaux"],
+      "ptTargets": ["quadro"],
+      "examples": [
+        { "level": "A1", "fr": "Le tableau est sur le mur.", "pt": "O quadro está na parede." },
+        { "level": "A2-B1", "fr": "Andréa a expliqué les tableaux à Íris.", "pt": "Andréa explicou os quadros para Íris." },
+        { "level": "B2", "fr": "Ce tableau de Rubens est l'une des pièces maîtresses du musée.", "pt": "Este quadro de Rubens é uma das peças principais do museu." },
+        { "level": "C1-C2", "fr": "L'analyse d'un tableau flamand révèle des détails symboliques fascinants.", "pt": "A análise de um quadro flamengo revela detalhes simbólicos fascinantes." }
+      ]
+    },
+    {
+      "term": "l'artiste",
+      "definitionPt": "o artista",
+      "definitionFr": "Personne qui crée des œuvres d'art.",
+      "inflections": ["l'artiste", "les artistes"],
+      "ptTargets": ["artista"],
+      "examples": [
+        { "level": "A1", "fr": "L'artiste peint.", "pt": "O artista pinta." },
+        { "level": "A2-B1", "fr": "Rubens est un artiste flamand célèbre.", "pt": "Rubens é um artista flamengo famoso." },
+        { "level": "B2", "fr": "Les artistes du Nord ont marqué l'histoire de la peinture européenne.", "pt": "Os artistas do Norte marcaram a história da pintura europeia." },
+        { "level": "C1-C2", "fr": "L'artiste s'inscrit dans un réseau de commanditaires et de marchands qui façonnent sa carrière.", "pt": "O artista se insere em uma rede de encomendantes e mercadores que moldam sua carreira." }
+      ]
+    },
+    {
+      "term": "admirer",
+      "definitionPt": "admirar",
+      "definitionFr": "Regarder avec plaisir et respect.",
+      "inflections": ["j'admire", "nous admirons", "admiré"],
+      "ptTargets": ["admirar"],
+      "examples": [
+        { "level": "A1", "fr": "J'admire le paysage.", "pt": "Eu admiro a paisagem." },
+        { "level": "A2-B1", "fr": "Nous avons admiré les peintures pendant une heure.", "pt": "Nós admiramos as pinturas durante uma hora." },
+        { "level": "B2", "fr": "Les visiteurs admirent la richesse des collections permanentes.", "pt": "Os visitantes admiram a riqueza das coleções permanentes." },
+        { "level": "C1-C2", "fr": "Admirer une œuvre, c'est entrer en dialogue silencieux avec son créateur.", "pt": "Admirar uma obra é entrar em diálogo silencioso com seu criador." }
+      ]
+    },
+    {
+      "term": "expliquer",
+      "definitionPt": "explicar",
+      "definitionFr": "Rendre clair, faire comprendre.",
+      "inflections": ["j'explique", "nous expliquons", "expliqué"],
+      "ptTargets": ["explicar"],
+      "examples": [
+        { "level": "A1", "fr": "J'explique le jeu.", "pt": "Eu explico o jogo." },
+        { "level": "A2-B1", "fr": "Andréa a expliqué le tableau à Íris.", "pt": "Andréa explicou o quadro para Íris." },
+        { "level": "B2", "fr": "Le guide a expliqué l'histoire de chaque sculpture.", "pt": "O guia explicou a história de cada escultura." },
+        { "level": "C1-C2", "fr": "Expliquer une œuvre d'art demande une connaissance fine du contexte historique.", "pt": "Explicar uma obra de arte exige um conhecimento refinado do contexto histórico." }
+      ]
+    },
+    {
+      "term": "découvrir",
+      "definitionPt": "descobrir",
+      "definitionFr": "Trouver quelque chose de nouveau.",
+      "inflections": ["je découvre", "nous découvrons", "découvert"],
+      "ptTargets": ["descobrir"],
+      "examples": [
+        { "level": "A1", "fr": "Je découvre la ville.", "pt": "Eu descubro a cidade." },
+        { "level": "A2-B1", "fr": "Nous avons découvert les céramiques anciennes.", "pt": "Nós descobrimos as cerâmicas antigas." },
+        { "level": "B2", "fr": "Le musée permet de découvrir des artistes moins connus.", "pt": "O museu permite descobrir artistas menos conhecidos." },
+        { "level": "C1-C2", "fr": "Découvrir un chef-d'œuvre inattendu transforme profondément notre regard sur l'art.", "pt": "Descobrir uma obra-prima inesperada transforma profundamente nosso olhar sobre a arte." }
+      ]
+    },
+    {
+      "term": "le guide",
+      "definitionPt": "o guia",
+      "definitionFr": "Personne qui fait visiter et explique.",
+      "inflections": ["le guide", "la guide", "les guides"],
+      "ptTargets": ["guia"],
+      "examples": [
+        { "level": "A1", "fr": "Le guide parle français.", "pt": "O guia fala francês." },
+        { "level": "A2-B1", "fr": "Le guide a montré la statue de Rubens.", "pt": "O guia mostrou a estátua de Rubens." },
+        { "level": "B2", "fr": "Un bon guide rend la visite vivante et instructive.", "pt": "Um bom guia torna a visita viva e instrutiva." },
+        { "level": "C1-C2", "fr": "Le guide conférencier adapte son discours au public pour éveiller sa curiosité.", "pt": "O guia-conferencista adapta seu discurso ao público para despertar sua curiosidade." }
+      ]
+    },
+    {
+      "term": "la salle",
+      "definitionPt": "a sala",
+      "definitionFr": "Grande pièce, espace d'exposition.",
+      "inflections": ["la salle", "les salles"],
+      "ptTargets": ["sala"],
+      "examples": [
+        { "level": "A1", "fr": "La salle est grande.", "pt": "A sala é grande." },
+        { "level": "A2-B1", "fr": "La salle des sculptures est immense.", "pt": "A sala das esculturas é imensa." },
+        { "level": "B2", "fr": "Chaque salle du musée présente une période différente.", "pt": "Cada sala do museu apresenta um período diferente." },
+        { "level": "C1-C2", "fr": "L'architecture de la salle, avec sa verrière, baigne les œuvres d'une lumière naturelle.", "pt": "A arquitetura da sala, com seu teto de vidro, banha as obras de uma luz natural." }
+      ]
+    },
+    {
+      "term": "ancien",
+      "definitionPt": "antigo",
+      "definitionFr": "Qui existe depuis longtemps, du passé.",
+      "inflections": ["ancien", "ancienne", "anciens"],
+      "ptTargets": ["antigo"],
+      "examples": [
+        { "level": "A1", "fr": "C'est un vieux bâtiment ancien.", "pt": "É um edifício antigo." },
+        { "level": "A2-B1", "fr": "Les céramiques anciennes sont très belles.", "pt": "As cerâmicas antigas são muito bonitas." },
+        { "level": "B2", "fr": "Les objets anciens racontent la vie quotidienne d'autrefois.", "pt": "Os objetos antigos contam a vida cotidiana de antigamente." },
+        { "level": "C1-C2", "fr": "La conservation des œuvres anciennes exige des conditions climatiques rigoureuses.", "pt": "A conservação das obras antigas exige condições climáticas rigorosas." }
+      ]
+    },
+    {
+      "term": "moderne",
+      "definitionPt": "moderno",
+      "definitionFr": "Qui est récent, actuel.",
+      "inflections": ["moderne", "modernes"],
+      "ptTargets": ["moderno"],
+      "examples": [
+        { "level": "A1", "fr": "La maison est moderne.", "pt": "A casa é moderna." },
+        { "level": "A2-B1", "fr": "Le musée combine art ancien et art moderne.", "pt": "O museu combina arte antiga e arte moderna." },
+        { "level": "B2", "fr": "La nouvelle aile du musée propose une architecture moderne et lumineuse.", "pt": "A nova ala do museu propõe uma arquitetura moderna e luminosa." },
+        { "level": "C1-C2", "fr": "Le dialogue entre les œuvres anciennes et modernes enrichit l'expérience du visiteur.", "pt": "O diálogo entre as obras antigas e modernas enriquece a experiência do visitante." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Le Passé Composé négatif (je n'ai pas vu, nous n'avons pas visité)",
+    "explanationPt": "Na forma negativa do Passé Composé, ne... pas envolve o auxiliar: 'je n'ai pas vu', 'nous n'avons pas visité'. Com être: 'elle n'est pas allée'.",
+    "exampleFr": "Nous n'avons pas visité toutes les salles.",
+    "examplePt": "Nós não visitamos todas as salas.",
+    "practiceQuestion": "Complete: « Je ___ pas vu la statue. »",
+    "options": ["n'ai", "ne suis", "n'as"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "La négation avec le Passé Composé",
+        "explanationPt": "Estrutura: ne + auxiliar + pas + particípio. Ex.: 'Je n'ai pas vu', 'Nous ne sommes pas restés'.",
+        "exampleFr": "Je n'ai pas compris la question du guide.",
+        "examplePt": "Eu não entendi a pergunta do guia.",
+        "practiceQuestion": "Qual frase negativa está correta?",
+        "options": ["Nous n'avons pas compris.", "Nous n'avons ne pas compris.", "Nous ne pas avons compris."],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "Les pronoms COD : je l'ai adorée",
+        "explanationPt": "Para evitar repetir o objeto, usamos le/la/les antes do auxiliar: 'J'ai adoré la peinture' → 'Je l'ai adorée'.",
+        "exampleFr": "La sculpture ? Je l'ai photographiée.",
+        "examplePt": "A escultura? Eu a fotografei.",
+        "practiceQuestion": "Substitua o objeto: « J'ai vu la statue. »",
+        "options": ["Je l'ai vue.", "Je l'ai vu.", "Je la ai vue."],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Qual é o posto do Palais des Beaux-Arts entre os museus da França?",
+      "options": ["o segundo maior, depois do Louvre", "o terceiro maior", "o menor da região"],
+      "correctIndex": 0,
+      "explanation": "É o maior museu da França depois do Louvre."
+    },
+    {
+      "question": "Que pinturas Irlan adorou no museu?",
+      "options": ["as pinturas flamengas do século XVII", "as pinturas modernas", "as aquarelas"],
+      "correctIndex": 0,
+      "explanation": "Irlan adorou as pinturas flamengas do século XVII."
+    },
+    {
+      "question": "Complete com a forma negativa: « Nous ___ pas visité toutes les salles. »",
+      "options": ["n'avons", "ne sommes", "n'avoir"],
+      "correctIndex": 0,
+      "explanation": "Negação: ne + avons + pas → nous n'avons pas visité."
+    },
+    {
+      "question": "O que Íris fez durante a visita?",
+      "options": ["tomou notas no caderno", "dormiu", "comprou um quadro"],
+      "correctIndex": 0,
+      "explanation": "Íris anotou no seu caderno."
+    },
+    {
+      "question": "Qual artista é citado na aula?",
+      "options": ["Rubens", "Monet", "Picasso"],
+      "correctIndex": 0,
+      "explanation": "O guia mostrou a estátua de Rubens."
+    }
+  ]
+}

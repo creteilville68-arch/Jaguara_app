@@ -1,0 +1,257 @@
+{
+  "id": "toulouse_lesson_44",
+  "cityId": "toulouse",
+  "domain": "Gastronomia",
+  "level": "Intermediário (B2)",
+  "titleFr": "Le cassoulet : le plat qui rassemble",
+  "titlePt": "O cassoulet: o prato que reúne",
+  "subtitleFr": "Décrire un plat avec les partitifs, EN et le plus-que-parfait",
+  "subtitlePt": "Descrever um prato com os partitivos, EN e o mais-que-perfeito",
+  "summaryPt": "O cassoulet nasceu em Castelnaudary e conquistou Toulouse. Feijão branco, confit, linguiça de Toulouse: cada ingrediente conta uma história. Para Irlan, que aprendeu a cozinhar para a família, esse prato é uma lição de paciência. Nesta aula B2, os partitivos, EN e o plus-que-parfait temperam a receita.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "« Le cassoulet, c'est trois villes qui se disputent l'origine, expliqua Andréa. Castelnaudary, Carcassonne et Toulouse. Mais ici, on le fait avec de la saucisse de Toulouse, évidemment. » Irlan en avait entendu parler au Brésil, mais jamais goûté.",
+      "pt": "« O cassoulet são três cidades que disputam a origem, explicou Andréa. Castelnaudary, Carcassonne e Toulouse. Mas aqui, faz-se com linguiça de Toulouse, é claro. » Irlan tinha ouvido falar disso no Brasil, mas nunca tinha provado."
+    },
+    {
+      "id": 2,
+      "fr": "La recette demande de la patience : des haricots blancs, du confit de canard, un peu de couenne, et des heures de cuisson lente. « Mon grand-père y mettait du pain et de l'ail, dit un voisin. Chaque famille y ajoute son secret. »",
+      "pt": "A receita exige paciência: feijão branco, confit de pato, um pouco de pele de porco e horas de cozimento lento. « Meu avô punha pão e alho, disse um vizinho. Cada família acrescenta seu segredo. »"
+    },
+    {
+      "id": 3,
+      "fr": "Irlan regarda la cocotte en terre cuite. « Tu sais d'où vient le nom ? demanda-t-il. — De la cassole, la grande terrine où l'on cuit le plat. » La cassole avait été inventée à Issel, non loin d'ici, au Moyen Âge.",
+      "pt": "Irlan olhou a panela de barro. « Você sabe de onde vem o nome? perguntou ele. — De la cassole, a grande terrina onde se cozinha o prato. » A cassole tinha sido inventada em Issel, perto dali, na Idade Média."
+    },
+    {
+      "id": 4,
+      "fr": "Au marché Victor Hugo, Irlan acheta de la saucisse, des haricots et du confit. « On en fera dimanche, décida-t-il. Et j'en offrirai aux voisins. Un plat qui réunit, c'est la meilleure des géographies. »",
+      "pt": "No mercado Victor Hugo, Irlan comprou linguiça, feijão e confit. « Vamos fazer no domingo, decidiu ele. E vou oferecer aos vizinhos. Um prato que reúne é a melhor das geografias. »"
+    },
+    {
+      "id": 5,
+      "fr": "Le dimanche, la table était pleine. « Avant de venir en France, je ne savais pas cuisiner, avoua Irlan. Maintenant, je sais que la pauvreté d'hier a inventé le cassoulet. Et la richesse d'aujourd'hui, c'est de le partager. »",
+      "pt": "No domingo, a mesa estava cheia. « Antes de vir para a França, eu não sabia cozinhar, confessou Irlan. Agora, sei que a pobreza de ontem inventou o cassoulet. E a riqueza de hoje é partilhá-lo. »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "le cassoulet",
+      "definitionPt": "cassoulet (substantivo masculino)",
+      "definitionFr": "Plat mijoté à base de haricots blancs et de viandes.",
+      "inflections": ["le cassoulet", "des cassoulets"],
+      "ptTargets": ["cassoulet", "cassoulets"],
+      "examples": [
+        { "level": "A1", "fr": "Le cassoulet est chaud.", "pt": "O cassoulet está quente." },
+        { "level": "A2-B1", "fr": "Le cassoulet est un plat du Sud-Ouest.", "pt": "O cassoulet é um prato do Sudoeste." },
+        { "level": "B2", "fr": "Le cassoulet de Toulouse se fait avec de la saucisse de Toulouse.", "pt": "O cassoulet de Toulouse se faz com linguiça de Toulouse." },
+        { "level": "C1-C2", "fr": "Le cassoulet incarne la cuisine paysanne élevée au rang de symbole régional.", "pt": "O cassoulet encarna a cozinha camponesa elevada à categoria de símbolo regional." }
+      ]
+    },
+    {
+      "term": "le haricot",
+      "definitionPt": "feijão (substantivo masculino)",
+      "definitionFr": "Légumineuse à graines, ingrédient du cassoulet.",
+      "inflections": ["le haricot", "des haricots"],
+      "ptTargets": ["feijão", "feijões"],
+      "examples": [
+        { "level": "A1", "fr": "Le haricot est blanc.", "pt": "O feijão é branco." },
+        { "level": "A2-B1", "fr": "Il y a des haricots dans le cassoulet.", "pt": "Há feijões no cassoulet." },
+        { "level": "B2", "fr": "La recette demande des haricots blancs et du confit de canard.", "pt": "A receita exige feijão branco e confit de pato." },
+        { "level": "C1-C2", "fr": "Le haricot de Castelnaudary a conquis la table de toute la région.", "pt": "O feijão de Castelnaudary conquistou a mesa de toda a região." }
+      ]
+    },
+    {
+      "term": "la saucisse",
+      "definitionPt": "linguiça (substantivo feminino)",
+      "definitionFr": "Préparation de viande hachée dans un boyau.",
+      "inflections": ["la saucisse", "des saucisses"],
+      "ptTargets": ["linguiça", "linguiças"],
+      "examples": [
+        { "level": "A1", "fr": "La saucisse est bonne.", "pt": "A linguiça é boa." },
+        { "level": "A2-B1", "fr": "Je mange une saucisse.", "pt": "Como uma linguiça." },
+        { "level": "B2", "fr": "La saucisse de Toulouse est l'ingrédient signature du cassoulet local.", "pt": "A linguiça de Toulouse é o ingrediente assinatura do cassoulet local." },
+        { "level": "C1-C2", "fr": "La saucisse de Toulouse, grossièrement hachée et épicée, définit le goût de la ville.", "pt": "A linguiça de Toulouse, moída grosseiramente e temperada, define o gosto da cidade." }
+      ]
+    },
+    {
+      "term": "le confit",
+      "definitionPt": "confit (substantivo masculino)",
+      "definitionFr": "Viande cuite lentement dans sa graisse.",
+      "inflections": ["le confit"],
+      "ptTargets": ["confit"],
+      "examples": [
+        { "level": "A1", "fr": "Le confit est tendre.", "pt": "O confit é macio." },
+        { "level": "A2-B1", "fr": "Le confit de canard est célèbre.", "pt": "O confit de pato é famoso." },
+        { "level": "B2", "fr": "Le cassoulet se fait avec du confit de canard.", "pt": "O cassoulet se faz com confit de pato." },
+        { "level": "C1-C2", "fr": "Le confit, né de la nécessité de conserver, est devenu un art gastronomique.", "pt": "O confit, nascido da necessidade de conservar, virou uma arte gastronômica." }
+      ]
+    },
+    {
+      "term": "la cocotte",
+      "definitionPt": "panela (substantivo feminino)",
+      "definitionFr": "Récipient en terre ou en fonte pour cuisiner.",
+      "inflections": ["la cocotte", "des cocottes"],
+      "ptTargets": ["panela", "panelas"],
+      "examples": [
+        { "level": "A1", "fr": "La cocotte est en terre.", "pt": "A panela é de barro." },
+        { "level": "A2-B1", "fr": "Le cassoulet cuit dans la cocotte.", "pt": "O cassoulet cozinha na panela." },
+        { "level": "B2", "fr": "Irlan regarda la cocotte en terre cuite avec respect.", "pt": "Irlan olhou a panela de barro com respeito." },
+        { "level": "C1-C2", "fr": "La cocotte en terre donne au cassoulet son âme de feu doux.", "pt": "A panela de barro dá ao cassoulet sua alma de fogo brando." }
+      ]
+    },
+    {
+      "term": "mijoter",
+      "definitionPt": "cozinhar lentamente (verbo)",
+      "definitionFr": "Cuire doucement et longtemps.",
+      "inflections": ["je mijote", "mijoter", "mijoté"],
+      "ptTargets": ["cozinhar lentamente", "cozinhar", "cozido"],
+      "examples": [
+        { "level": "A1", "fr": "Le plat mijote.", "pt": "O prato cozinha lentamente." },
+        { "level": "A2-B1", "fr": "Le cassoulet mijote pendant des heures.", "pt": "O cassoulet cozinha lentamente por horas." },
+        { "level": "B2", "fr": "La patience du cassoulet, c'est de mijoter sans jamais bouillir.", "pt": "A paciência do cassoulet é cozinhar lentamente sem nunca ferver." },
+        { "level": "C1-C2", "fr": "Mijoter, c'est laisser le temps transformer les ingrédients en mémoire.", "pt": "Cozinhar lentamente é deixar o tempo transformar ingredientes em memória." }
+      ]
+    },
+    {
+      "term": "la couenne",
+      "definitionPt": "pele de porco (substantivo feminino)",
+      "definitionFr": "Peau du porc, utilisée en cuisine.",
+      "inflections": ["la couenne"],
+      "ptTargets": ["pele de porco"],
+      "examples": [
+        { "level": "A1", "fr": "La couenne est dure.", "pt": "A pele de porco é dura." },
+        { "level": "A2-B1", "fr": "On met de la couenne dans le cassoulet.", "pt": "Põe-se pele de porco no cassoulet." },
+        { "level": "B2", "fr": "Un peu de couenne donne au cassoulet son onctuosité.", "pt": "Um pouco de pele de porco dá ao cassoulet sua untuosidade." },
+        { "level": "C1-C2", "fr": "La couenne, ingrédient modeste, est la clé secrète des grands mijotés.", "pt": "A pele de porco, ingrediente modesto, é a chave secreta dos grandes cozidos." }
+      ]
+    },
+    {
+      "term": "l'ail",
+      "definitionPt": "alho (substantivo masculino)",
+      "definitionFr": "Plante aromatique au goût fort.",
+      "inflections": ["l'ail"],
+      "ptTargets": ["alho"],
+      "examples": [
+        { "level": "A1", "fr": "L'ail sent fort.", "pt": "O alho cheira forte." },
+        { "level": "A2-B1", "fr": "On met de l'ail dans la recette.", "pt": "Põe-se alho na receita." },
+        { "level": "B2", "fr": "Mon grand-père y mettait du pain et de l'ail.", "pt": "Meu avô punha pão e alho." },
+        { "level": "C1-C2", "fr": "L'ail du Midi parfume les plats de toute une civilisation culinaire.", "pt": "O alho do Midi perfuma os pratos de toda uma civilização culinária." }
+      ]
+    },
+    {
+      "term": "goûter",
+      "definitionPt": "provar (verbo)",
+      "definitionFr": "Découvrir le goût d'un aliment.",
+      "inflections": ["je goûte", "goûter", "goûté"],
+      "ptTargets": ["provar", "provado", "prova"],
+      "examples": [
+        { "level": "A1", "fr": "Je goûte le plat.", "pt": "Provo o prato." },
+        { "level": "A2-B1", "fr": "Tu as goûté le cassoulet ?", "pt": "Você provou o cassoulet?" },
+        { "level": "B2", "fr": "Irlan en avait entendu parler au Brésil, mais jamais goûté.", "pt": "Irlan tinha ouvido falar disso no Brasil, mas nunca tinha provado." },
+        { "level": "C1-C2", "fr": "Goûter un plat régional, c'est lire un chapitre de son histoire.", "pt": "Provar um prato regional é ler um capítulo de sua história." }
+      ]
+    },
+    {
+      "term": "cuire",
+      "definitionPt": "cozinhar (verbo)",
+      "definitionFr": "Préparer un aliment par la chaleur.",
+      "inflections": ["je cuis", "cuire", "cuit"],
+      "ptTargets": ["cozinhar", "cozinha", "cozido"],
+      "examples": [
+        { "level": "A1", "fr": "Le riz cuit.", "pt": "O arroz cozinha." },
+        { "level": "A2-B1", "fr": "Le plat cuit lentement.", "pt": "O prato cozinha lentamente." },
+        { "level": "B2", "fr": "Le cassoulet cuit des heures dans la cassole.", "pt": "O cassoulet cozinha por horas na cassole." },
+        { "level": "C1-C2", "fr": "Cuire à petit feu, c'est respecter le temps des choses.", "pt": "Cozinhar em fogo baixo é respeitar o tempo das coisas." }
+      ]
+    },
+    {
+      "term": "la terrine",
+      "definitionPt": "terrina (substantivo feminino)",
+      "definitionFr": "Grand récipient de terre pour cuire les plats.",
+      "inflections": ["la terrine", "des terrines"],
+      "ptTargets": ["terrina", "terrinas"],
+      "examples": [
+        { "level": "A1", "fr": "La terrine est lourde.", "pt": "A terrina é pesada." },
+        { "level": "A2-B1", "fr": "Le cassoulet est cuit dans une terrine.", "pt": "O cassoulet é cozido numa terrina." },
+        { "level": "B2", "fr": "La cassole, la grande terrine, a donné son nom au cassoulet.", "pt": "A cassole, a grande terrina, deu nome ao cassoulet." },
+        { "level": "C1-C2", "fr": "La terrine en terre cuite transmet la chaleur avec une douceur infinie.", "pt": "A terrina de barro transmite o calor com uma doçura infinita." }
+      ]
+    },
+    {
+      "term": "partager",
+      "definitionPt": "partilhar, compartilhar (verbo)",
+      "definitionFr": "Diviser en plusieurs parts ; faire profiter les autres.",
+      "inflections": ["je partage", "partager", "partagé"],
+      "ptTargets": ["partilhar", "compartilhar", "partilhá-lo"],
+      "examples": [
+        { "level": "A1", "fr": "Je partage le gâteau.", "pt": "Partilho o bolo." },
+        { "level": "A2-B1", "fr": "On partage le repas en famille.", "pt": "Partilhamos a refeição em família." },
+        { "level": "B2", "fr": "La richesse d'aujourd'hui, c'est de partager le cassoulet.", "pt": "A riqueza de hoje é partilhar o cassoulet." },
+        { "level": "C1-C2", "fr": "Partager un plat, c'est tisser un lien plus fort que les mots.", "pt": "Partilhar um prato é tecer um laço mais forte que as palavras." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Les partitifs, EN et le plus-que-parfait dans la cocotte",
+    "explanationPt": "Os partitivos nomeiam porções: 'de la saucisse, des haricots, du confit, de l'ail'. EN retoma 'de + coisa': 'on en fera dimanche' (faremos disso no domingo), 'j'en offrirai aux voisins'. O plus-que-parfait marca o antes: 'la cassole avait été inventée à Issel'.",
+    "exampleFr": "Il acheta de la saucisse et des haricots ; on en fera dimanche, et j'en offrirai aux voisins.",
+    "examplePt": "Ele comprou linguiça e feijão; faremos disso no domingo, e vou oferecer aos vizinhos.",
+    "practiceQuestion": "Complete: 'On en _____ dimanche, du cassoulet.'",
+    "options": ["fera", "fais", "a fait"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "EN pour la quantité de nourriture",
+        "explanationPt": "'Acheter de la saucisse → en acheter' / 'Faire du cassoulet → en faire'. EN retoma a quantidade.",
+        "exampleFr": "Il acheta de la saucisse, des haricots et du confit ; on en fera dimanche.",
+        "examplePt": "Ele comprou linguiça, feijão e confit; faremos disso no domingo.",
+        "practiceQuestion": "Complete: 'Des haricots, j'en _____ au marché.'",
+        "options": ["achète", "achètent", "acheter"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "Le plus-que-parfait de la cassole",
+        "explanationPt": "'La cassole avait été inventée à Issel au Moyen Âge' : passado do passado, voz passiva.",
+        "exampleFr": "La cassole avait été inventée à Issel, non loin de Toulouse.",
+        "examplePt": "A cassole tinha sido inventada em Issel, perto de Toulouse.",
+        "practiceQuestion": "Complete: 'La cassole avait été _____ à Issel.'",
+        "options": ["inventée", "inventé", "inventer"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Complete: 'On en _____ dimanche, du cassoulet.'",
+      "options": ["fera", "fais", "a fait"],
+      "correctIndex": 0,
+      "explanation": "EN retoma 'du cassoulet' + futur: 'on en fera'."
+    },
+    {
+      "question": "Quais três cidades disputam a origem do cassoulet?",
+      "options": ["Castelnaudary, Carcassonne e Toulouse", "Bordeaux, Agen e Toulouse", "Lyon, Paris e Toulouse"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'Castelnaudary, Carcassonne et Toulouse'."
+    },
+    {
+      "question": "De onde vem o nome 'cassoulet'?",
+      "options": ["Da cassole, a terrina de barro", "Do feijão, o cassou", "De um chef chamado Cassoulet"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'De la cassole, la grande terrine où l'on cuit le plat.'"
+    },
+    {
+      "question": "Onde Irlan comprou os ingredientes?",
+      "options": ["No mercado Victor Hugo", "No mercado das Carmes", "Na mercearia do bairro"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'Au marché Victor Hugo, Irlan acheta de la saucisse.'"
+    },
+    {
+      "question": "Qual frase usa o partitivo corretamente?",
+      "options": ["On met de l'ail dans le cassoulet.", "On met du l'ail dans le cassoulet.", "On met des ail dans le cassoulet."],
+      "correctIndex": 0,
+      "explanation": "Ail começa com vogal: 'de l'ail'."
+    }
+  ]
+}

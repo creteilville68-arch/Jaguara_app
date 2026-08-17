@@ -1,0 +1,268 @@
+{
+  "id": "paris_lesson_10",
+  "cityId": "paris",
+  "domain": "Transporte & Orientação",
+  "level": "Iniciante (A1)",
+  "titleFr": "Le métro de Paris",
+  "titlePt": "O metrô de Paris",
+  "subtitleFr": "La carte Navigo, la ligne 1 et les couloirs du métro parisien",
+  "subtitlePt": "A carte Navigo, a linha 1 e os corredores do metrô parisiense",
+  "summaryPt": "Nesta Aula 10 (A1), a família pega o metrô com a carte Navigo. A linha 1 passa pelo Louvre, pela Concorde e pelos Champs-Élysées. Irlan compara as ruas que conhecia como entregador com os corredores do metrô. O aluno aprende o verbo 'prendre' no presente e as preposições de lugar.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Lundi matin, la famille prend le métro. Irlan a une carte Navigo. La ligne 1 passe devant le Louvre, la place de la Concorde et les Champs-Élysées.",
+      "pt": "Segunda-feira de manhã, a família pega o metrô. Irlan tem uma carte Navigo. A linha 1 passa diante do Louvre, da praça da Concorde e dos Champs-Élysées."
+    },
+    {
+      "id": 2,
+      "fr": "Dans le wagon, Íris regarde les gens. Andréa lit son livre. Le métro parisien a seize lignes et plus de trois cents stations.",
+      "pt": "No vagão, Íris olha as pessoas. Andréa lê o seu livro. O metrô parisiense tem dezesseis linhas e mais de trezentas estações."
+    },
+    {
+      "id": 3,
+      "fr": "« Quand je livrais en scooter, je connaissais toutes les rues. Maintenant, je connais aussi tous les couloirs du métro ! » dit Irlan en riant.",
+      "pt": "«Quando eu entregava de scooter, eu conhecia todas as ruas. Agora, eu conheço também todos os corredores do metrô!» diz Irlan rindo."
+    },
+    {
+      "id": 4,
+      "fr": "Ils descendent à la station Bastille, à côté de la place. Le métro est rapide et pratique pour la famille. Íris dit : « Le métro, c'est mon train préféré ! »",
+      "pt": "Eles descem na estação Bastille, ao lado da praça. O metrô é rápido e prático para a família. Íris diz: «O metrô é o meu trem preferido!»"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "métro",
+      "definitionPt": "metrô",
+      "definitionFr": "Transport en commun souterrain dans les grandes villes.",
+      "inflections": ["le métro", "un métro", "des métros"],
+      "ptTargets": ["metrô"],
+      "examples": [
+        { "level": "A1", "fr": "La famille prend le métro.", "pt": "A família pega o metrô." },
+        { "level": "A2-B1", "fr": "Le métro est rapide et pratique.", "pt": "O metrô é rápido e prático." },
+        { "level": "B2", "fr": "Le métro parisien dessert toute la ville.", "pt": "O metrô parisiense atende toda a cidade." },
+        { "level": "C1-C2", "fr": "Le métro parisien, avec ses seize lignes, est l'un des plus denses du monde.", "pt": "O metrô parisiense, com as suas dezesseis linhas, é um dos mais densos do mundo." }
+      ]
+    },
+    {
+      "term": "wagon",
+      "definitionPt": "vagão",
+      "definitionFr": "Voiture d'un train ou d'un métro.",
+      "inflections": ["le wagon", "un wagon", "des wagons"],
+      "ptTargets": ["vagão"],
+      "examples": [
+        { "level": "A1", "fr": "Dans le wagon, Íris regarde les gens.", "pt": "No vagão, Íris olha as pessoas." },
+        { "level": "A2-B1", "fr": "Le wagon est plein le matin.", "pt": "O vagão está cheio de manhã." },
+        { "level": "B2", "fr": "Le wagon est calme après neuf heures.", "pt": "O vagão está calmo depois das nove horas." },
+        { "level": "C1-C2", "fr": "Le métro parisien est bondé aux heures de pointe.", "pt": "O metrô parisiense fica lotado nas horas de pico." }
+      ]
+    },
+    {
+      "term": "ligne",
+      "definitionPt": "linha (de metrô)",
+      "definitionFr": "Trajet régulier d'un transport en commun.",
+      "inflections": ["la ligne", "une ligne", "des lignes"],
+      "ptTargets": ["linha"],
+      "examples": [
+        { "level": "A1", "fr": "La ligne 1 passe devant le Louvre.", "pt": "A linha 1 passa diante do Louvre." },
+        { "level": "A2-B1", "fr": "La ligne 4 va vers le sud de Paris.", "pt": "A linha 4 vai para o sul de Paris." },
+        { "level": "B2", "fr": "Cette ligne relie l'est et l'ouest de la ville.", "pt": "Esta linha liga o leste e o oeste da cidade." },
+        { "level": "C1-C2", "fr": "Chaque ligne du métro raconte l'histoire des quartiers qu'elle traverse.", "pt": "Cada linha do metrô conta a história dos bairros que atravessa." }
+      ]
+    },
+    {
+      "term": "station",
+      "definitionPt": "estação",
+      "definitionFr": "Arrêt du métro ou du train.",
+      "inflections": ["la station", "une station", "des stations"],
+      "ptTargets": ["estação"],
+      "examples": [
+        { "level": "A1", "fr": "Ils descendent à la station Bastille.", "pt": "Eles descem na estação Bastille." },
+        { "level": "A2-B1", "fr": "La station est près de la maison.", "pt": "A estação fica perto de casa." },
+        { "level": "B2", "fr": "Le métro a plus de trois cents stations.", "pt": "O metrô tem mais de trezentas estações." },
+        { "level": "C1-C2", "fr": "Les stations du métro parisien sont de véritables galeries d'art.", "pt": "As estações do metrô parisiense são verdadeiras galerias de arte." }
+      ]
+    },
+    {
+      "term": "couloir",
+      "definitionPt": "corredor",
+      "definitionFr": "Passage long et étroit dans un bâtiment ou sous terre.",
+      "inflections": ["le couloir", "un couloir", "des couloirs"],
+      "ptTargets": ["corredor"],
+      "examples": [
+        { "level": "A1", "fr": "Les couloirs du métro sont grands.", "pt": "Os corredores do metrô são grandes." },
+        { "level": "A2-B1", "fr": "Le couloir mène à la ligne 1.", "pt": "O corredor leva à linha 1." },
+        { "level": "B2", "fr": "Les couloirs du métro sont pleins de monde à midi.", "pt": "Os corredores do metrô estão cheios de gente ao meio-dia." },
+        { "level": "C1-C2", "fr": "Les couloirs souterrains forment un labyrinthe fascinant sous la capitale.", "pt": "Os corredores subterrâneos formam um labirinto fascinante sob a capital." }
+      ]
+    },
+    {
+      "term": "prendre",
+      "definitionPt": "pegar, tomar",
+      "definitionFr": "Utiliser un moyen de transport ou saisir quelque chose.",
+      "inflections": ["je prends", "prendre", "il prend"],
+      "ptTargets": ["pegar", "tomar"],
+      "examples": [
+        { "level": "A1", "fr": "La famille prend le métro.", "pt": "A família pega o metrô." },
+        { "level": "A2-B1", "fr": "Nous prenons le bus pour aller au centre.", "pt": "Nós pegamos o ônibus para ir ao centro." },
+        { "level": "B2", "fr": "Elle prend le métro tous les jours.", "pt": "Ela pega o metrô todos os dias." },
+        { "level": "C1-C2", "fr": "Prendre les transports en commun est un choix écologique.", "pt": "Pegar o transporte público é uma escolha ecológica." }
+      ]
+    },
+    {
+      "term": "descendre",
+      "definitionPt": "descer",
+      "definitionFr": "Aller vers le bas, ou sortir d'un transport.",
+      "inflections": ["je descends", "descendre", "il descend"],
+      "ptTargets": ["descer"],
+      "examples": [
+        { "level": "A1", "fr": "Ils descendent à la station Bastille.", "pt": "Eles descem na estação Bastille." },
+        { "level": "A2-B1", "fr": "Nous descendons du métro ici.", "pt": "Nós descemos do metrô aqui." },
+        { "level": "B2", "fr": "Elle descend à la prochaine station.", "pt": "Ela desce na próxima estação." },
+        { "level": "C1-C2", "fr": "Descendre au bon arrêt demande une bonne connaissance du réseau.", "pt": "Descer na parada certa exige um bom conhecimento da rede." }
+      ]
+    },
+    {
+      "term": "rapide",
+      "definitionPt": "rápido",
+      "definitionFr": "Qui va vite.",
+      "inflections": ["rapide", "rapides"],
+      "ptTargets": ["rápido"],
+      "examples": [
+        { "level": "A1", "fr": "Le métro est rapide.", "pt": "O metrô é rápido." },
+        { "level": "A2-B1", "fr": "Le train est plus rapide que le bus.", "pt": "O trem é mais rápido que o ônibus." },
+        { "level": "B2", "fr": "La ligne est rapide et régulière.", "pt": "A linha é rápida e regular." },
+        { "level": "C1-C2", "fr": "Un métro rapide et fiable est essentiel pour une grande métropole.", "pt": "Um metrô rápido e confiável é essencial para uma grande metrópole." }
+      ]
+    },
+    {
+      "term": "pratique",
+      "definitionPt": "prático",
+      "definitionFr": "Facile à utiliser, commode.",
+      "inflections": ["pratique", "pratiques"],
+      "ptTargets": ["prático"],
+      "examples": [
+        { "level": "A1", "fr": "Le métro est pratique pour la famille.", "pt": "O metrô é prático para a família." },
+        { "level": "A2-B1", "fr": "La carte Navigo est très pratique.", "pt": "A carte Navigo é muito prática." },
+        { "level": "B2", "fr": "Ce quartier est pratique : tout est près.", "pt": "Este bairro é prático: tudo fica perto." },
+        { "level": "C1-C2", "fr": "Un réseau de transports pratique améliore la qualité de vie urbaine.", "pt": "Uma rede de transportes prática melhora a qualidade de vida urbana." }
+      ]
+    },
+    {
+      "term": "connaître",
+      "definitionPt": "conhecer",
+      "definitionFr": "Avoir des informations sur quelqu'un ou quelque chose.",
+      "inflections": ["je connais", "connaître", "il connaît"],
+      "ptTargets": ["conhecer"],
+      "examples": [
+        { "level": "A1", "fr": "Je connais toutes les rues de Paris.", "pt": "Eu conheço todas as ruas de Paris." },
+        { "level": "A2-B1", "fr": "Elle connaît bien le quartier.", "pt": "Ela conhece bem o bairro." },
+        { "level": "B2", "fr": "Il connaît tous les couloirs du métro.", "pt": "Ele conhece todos os corredores do metrô." },
+        { "level": "C1-C2", "fr": "Connaître une ville, c'est comprendre son histoire et ses habitants.", "pt": "Conhecer uma cidade é compreender a sua história e os seus habitantes." }
+      ]
+    },
+    {
+      "term": "gens",
+      "definitionPt": "pessoas, gente",
+      "definitionFr": "Personnes, êtres humains.",
+      "inflections": ["les gens", "des gens"],
+      "ptTargets": ["pessoas", "gente"],
+      "examples": [
+        { "level": "A1", "fr": "Íris regarde les gens dans le wagon.", "pt": "Íris olha as pessoas no vagão." },
+        { "level": "A2-B1", "fr": "Beaucoup de gens prennent le métro.", "pt": "Muitas pessoas pegam o metrô." },
+        { "level": "B2", "fr": "Les gens sont pressés le matin.", "pt": "As pessoas estão apressadas de manhã." },
+        { "level": "C1-C2", "fr": "Le métro rassemble des gens de tous les horizons.", "pt": "O metrô reúne pessoas de todas as origens." }
+      ]
+    },
+    {
+      "term": "livre",
+      "definitionPt": "livro",
+      "definitionFr": "Ensemble de pages imprimées reliées ensemble.",
+      "inflections": ["le livre", "un livre", "des livres"],
+      "ptTargets": ["livro"],
+      "examples": [
+        { "level": "A1", "fr": "Andréa lit son livre dans le métro.", "pt": "Andréa lê o seu livro no metrô." },
+        { "level": "A2-B1", "fr": "Le livre est sur la table.", "pt": "O livro está sobre a mesa." },
+        { "level": "B2", "fr": "Elle lit un livre sur l'histoire de Paris.", "pt": "Ela lê um livro sobre a história de Paris." },
+        { "level": "C1-C2", "fr": "Lire un livre dans le métro est une façon agréable de voyager.", "pt": "Ler um livro no metrô é uma forma agradável de viajar." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Le verbe prendre au présent",
+    "explanationPt": "O verbo 'prendre' (pegar, tomar) é irregular no presente: je prends, tu prends, il/elle prend, nous prenons, vous prenez, ils/elles prennent. Ex.: 'La famille prend le métro.'",
+    "exampleFr": "La famille prend le métro le matin.",
+    "examplePt": "A família pega o metrô de manhã.",
+    "practiceQuestion": "Complete com o verbo correto no presente: 'Nous _____ le métro tous les jours.'",
+    "options": ["prenons", "prends", "prennent"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "Le verbe prendre au présent",
+        "explanationPt": "'prendre' no presente: je prends, tu prends, il prend, nous prenons, vous prenez, ils prennent. Ex.: 'Je prends la ligne 1.', 'Ils prennent le bus.'",
+        "exampleFr": "Je prends la ligne 1 et ils prennent le bus.",
+        "examplePt": "Eu pego a linha 1 e eles pegam o ônibus.",
+        "practiceQuestion": "Complete: 'Ils _____ le métro à la station Bastille.'",
+        "options": ["prennent", "prend", "prenons"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "Les prépositions de lieu",
+        "explanationPt": "As preposições de lugar: 'devant' (diante de), 'derrière' (atrás de), 'à côté de' (ao lado de), 'près de' (perto de). Ex.: 'La ligne 1 passe devant le Louvre.'",
+        "exampleFr": "Ils descendent à la station Bastille, à côté de la place.",
+        "examplePt": "Eles descem na estação Bastille, ao lado da praça.",
+        "practiceQuestion": "Complete com a preposição correta: 'La ligne 1 passe _____ le Louvre.'",
+        "options": ["devant", "derrière", "dans"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Complete a frase do texto: 'La ligne 1 passe devant le Louvre, la place de la Concorde et les _____.'",
+      "options": ["Champs-Élysées", "Montmartre", "Calanques"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'La ligne 1 passe devant le Louvre, la place de la Concorde et les Champs-Élysées.'"
+    },
+    {
+      "question": "Ordene corretamente as palavras da frase: [ prend / le métro / la famille / Lundi matin / , / ]",
+      "options": [
+        "Lundi matin, la famille prend le métro.",
+        "La famille le métro prend, lundi matin.",
+        "Lundi matin, le métro prend la famille."
+      ],
+      "correctIndex": 0,
+      "explanation": "A frase exata do texto é 'Lundi matin, la famille prend le métro.'"
+    },
+    {
+      "question": "Como se traduz: 'Nós pegamos o metrô todos os dias'?",
+      "options": [
+        "Nous prenons le métro tous les jours.",
+        "Nous prenons le métro hier.",
+        "Nous prends le métro tous les jours."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Nous prenons' = nós pegamos (verbo prendre); 'tous les jours' = todos os dias."
+    },
+    {
+      "question": "Identifique a frase com ERRO de conjugação do verbo prendre:",
+      "options": [
+        "Je prends la ligne 1.",
+        "Ils prennent le métro.",
+        "Il prends le bus."
+      ],
+      "correctIndex": 2,
+      "explanation": "O erro é 'Il prends': com 'il', o verbo prendre fica 'prend' ('Il prend le bus.')."
+    },
+    {
+      "question": "O que Irlan conhecia quando era entregador de scooter?",
+      "options": [
+        "Todas as ruas de Paris",
+        "Todos os trens da França",
+        "Todas as praias"
+      ],
+      "correctIndex": 0,
+      "explanation": "No texto: 'Quand je livrais en scooter, je connaissais toutes les rues.'"
+    }
+  ]
+}

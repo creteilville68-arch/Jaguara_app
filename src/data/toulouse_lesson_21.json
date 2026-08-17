@@ -1,0 +1,257 @@
+{
+  "id": "toulouse_lesson_21",
+  "cityId": "toulouse",
+  "domain": "Gastronomia & Cotidiano",
+  "level": "Intermediário (B2)",
+  "titleFr": "Le marché des Carmes : les produits du Sud-Ouest",
+  "titlePt": "O mercado dos Carmes: os produtos do Sudoeste",
+  "subtitleFr": "Faire ses courses et parler quantité avec EN",
+  "subtitlePt": "Fazer compras e falar de quantidade com EN",
+  "summaryPt": "No mercado coberto dos Carmes, a família faz compras para o jantar. Irlan descobre os produtos do Sudoeste: foie gras, magret de canard, roquefort e azeitonas. Nesta aula B2, o pronome EN exprime quantidades: 'j'en prends deux cents grammes', 'il y en a de toutes sortes'.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Sous la verrière du marché des Carmes, les odeurs se mélangent : fromage, épices, fruits mûrs. C'est ici, dit Andréa, qu'on trouve l'âme gastronomique de Toulouse. Irlan respira profondément : il en avait tant rêvé, de ce marché !",
+      "pt": "Sob o vitral do mercado dos Carmes, os cheiros se misturam: queijo, especiarias, frutas maduras. É aqui, disse Andréa, que se encontra a alma gastronômica de Toulouse. Irlan respirou fundo: ele tinha sonhado tanto com esse mercado!"
+    },
+    {
+      "id": 2,
+      "fr": "Au stand des volailles, Irlan demanda : « Je voudrais du magret de canard. — J'en ai de très beaux, répondit la vendeuse. Combien ? — J'en prends deux, s'il vous plaît. »",
+      "pt": "Na banca das aves, Irlan pediu: « Eu gostaria de magret de pato. — Tenho uns muito bonitos, respondeu a vendedora. Quanto? — Levo dois, por favor. »"
+    },
+    {
+      "id": 3,
+      "fr": "Plus loin, un fromager alignait des roqueforts. « Des roqueforts, il y en a de plusieurs fermes, expliqua-t-il. Ceux-ci, je les ai choisis moi-même dans les caves de l'Aveyron. » Íris, intriguée par les veines bleues, n'en avait jamais vu.",
+      "pt": "Mais adiante, um queijeiro alinhava roqueforts. « Roqueforts, há deles de várias fazendas, explicou ele. Estes, eu mesmo os escolhi nas cavernas de Aveyron. » Íris, intrigada com as veias azuis, nunca tinha visto um."
+    },
+    {
+      "id": 4,
+      "fr": "Au comptoir des olives, une file patiente attendait. « Il y en a de toutes les sortes, dit la patronne : vertes, noires, aux herbes, au piment. — Nous en prenons un mélange », dit Andréa en souriant à Irlan.",
+      "pt": "No balcão das azeitonas, uma fila paciente esperava. « Há delas de todos os tipos, disse a dona: verdes, pretas, com ervas, com pimenta. — Levamos uma mistura », disse Andréa sorrindo para Íris."
+    },
+    {
+      "id": 5,
+      "fr": "De retour à la maison, Irlan étala ses trésors sur la table. « La France, c'est ça, dit-il : des marchés où chaque région raconte son histoire. Et nous, on en a plein les paniers. » Íris applaudit : « Vive le marché ! »",
+      "pt": "De volta em casa, Irlan espalhou seus tesouros na mesa. « A França é isso, disse ele: mercados onde cada região conta sua história. E nós, temos os cestos cheios delas. » Íris aplaudiu: « Viva o mercado! »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "le marché",
+      "definitionPt": "mercado, feira (substantivo masculino)",
+      "definitionFr": "Lieu où l'on vend des produits, souvent en plein air ou sous verrière.",
+      "inflections": ["le marché", "des marchés"],
+      "ptTargets": ["mercado", "feira", "mercados"],
+      "examples": [
+        { "level": "A1", "fr": "Le marché est ouvert.", "pt": "O mercado está aberto." },
+        { "level": "A2-B1", "fr": "Nous allons au marché le dimanche.", "pt": "Nós vamos ao mercado no domingo." },
+        { "level": "B2", "fr": "Le marché des Carmes est le plus ancien marché couvert de Toulouse.", "pt": "O mercado dos Carmes é o mercado coberto mais antigo de Toulouse." },
+        { "level": "C1-C2", "fr": "Les marchés structurent la sociabilité urbaine et l'économie de proximité.", "pt": "Os mercados estruturam a sociabilidade urbana e a economia de proximidade." }
+      ]
+    },
+    {
+      "term": "la verrière",
+      "definitionPt": "vitral, claraboia (substantivo feminino)",
+      "definitionFr": "Toit ou mur vitré d'un bâtiment.",
+      "inflections": ["la verrière", "des verrières"],
+      "ptTargets": ["vitral", "claraboia"],
+      "examples": [
+        { "level": "A1", "fr": "La verrière est jolie.", "pt": "O vitral é bonito." },
+        { "level": "A2-B1", "fr": "La verrière laisse entrer la lumière.", "pt": "O vitral deixa entrar a luz." },
+        { "level": "B2", "fr": "Sous la verrière du marché, les odeurs se mélangent.", "pt": "Sob o vitral do mercado, os cheiros se misturam." },
+        { "level": "C1-C2", "fr": "La verrière métallique du XIXe siècle caractérise l'architecture des halles.", "pt": "O vitral metálico do século XIX caracteriza a arquitetura das galerias." }
+      ]
+    },
+    {
+      "term": "le magret",
+      "definitionPt": "magret de pato (substantivo masculino)",
+      "definitionFr": "Filet de canard, spécialité du Sud-Ouest.",
+      "inflections": ["le magret", "des magrets"],
+      "ptTargets": ["magret", "magret de pato"],
+      "examples": [
+        { "level": "A1", "fr": "Le magret est bon.", "pt": "O magret é bom." },
+        { "level": "A2-B1", "fr": "Je voudrais un magret de canard.", "pt": "Eu gostaria de um magret de pato." },
+        { "level": "B2", "fr": "Le magret de canard est l'une des fiertés de la cuisine du Sud-Ouest.", "pt": "O magret de pato é um dos orgulhos da cozinha do Sudoeste." },
+        { "level": "C1-C2", "fr": "La cuisson du magret, rosé et croustillant, exige une maîtrise précise du feu.", "pt": "O cozimento do magret, rosado e crocante, exige um domínio preciso do fogo." }
+      ]
+    },
+    {
+      "term": "le roquefort",
+      "definitionPt": "roquefort (substantivo masculino)",
+      "definitionFr": "Fromage de brebis à pâte persillée, affiné dans les caves de l'Aveyron.",
+      "inflections": ["le roquefort", "des roqueforts"],
+      "ptTargets": ["roquefort", "roqueforts"],
+      "examples": [
+        { "level": "A1", "fr": "Le roquefort est fort.", "pt": "O roquefort é forte." },
+        { "level": "A2-B1", "fr": "Le roquefort vient de l'Aveyron.", "pt": "O roquefort vem de Aveyron." },
+        { "level": "B2", "fr": "Des roqueforts, il y en a de plusieurs fermes sur ce stand.", "pt": "Roqueforts, há deles de várias fazendas nessa banca." },
+        { "level": "C1-C2", "fr": "L'affinage du roquefort dans les caves de Roquefort-sur-Soulzon est régi par une appellation stricte.", "pt": "A maturação do roquefort nas cavernas de Roquefort-sur-Soulzon é regida por uma denominação estrita." }
+      ]
+    },
+    {
+      "term": "la brebis",
+      "definitionPt": "ovelha (substantivo feminino)",
+      "definitionFr": "Femelle du bélier, dont on utilise le lait.",
+      "inflections": ["la brebis", "des brebis"],
+      "ptTargets": ["ovelha", "ovelhas"],
+      "examples": [
+        { "level": "A1", "fr": "La brebis est blanche.", "pt": "A ovelha é branca." },
+        { "level": "A2-B1", "fr": "Le roquefort est fait avec du lait de brebis.", "pt": "O roquefort é feito com leite de ovelha." },
+        { "level": "B2", "fr": "Le lait de brebis donne au roquefort son caractère unique.", "pt": "O leite de ovelha dá ao roquefort seu caráter único." },
+        { "level": "C1-C2", "fr": "L'élevage ovin du Larzac alimente les caves d'affinage depuis des siècles.", "pt": "A criação de ovinos do Larzac alimenta as cavernas de maturação há séculos." }
+      ]
+    },
+    {
+      "term": "la cave",
+      "definitionPt": "caverna, adega (substantivo feminino)",
+      "definitionFr": "Lieu souterrain de conservation et d'affinage.",
+      "inflections": ["la cave", "des caves"],
+      "ptTargets": ["caverna", "adega", "cavernas"],
+      "examples": [
+        { "level": "A1", "fr": "La cave est fraîche.", "pt": "A adega é fresca." },
+        { "level": "A2-B1", "fr": "Le fromage mûrit dans les caves.", "pt": "O queijo amadurece nas cavernas." },
+        { "level": "B2", "fr": "Le fromager choisit ses roqueforts dans les caves de l'Aveyron.", "pt": "O queijeiro escolhe seus roqueforts nas cavernas de Aveyron." },
+        { "level": "C1-C2", "fr": "Les caves naturelles du causse offrent une hygrométrie idéale à l'affinage.", "pt": "As cavernas naturais do causse oferecem uma umidade ideal para a maturação." }
+      ]
+    },
+    {
+      "term": "l'olive",
+      "definitionPt": "azeitona (substantivo feminino)",
+      "definitionFr": "Fruit de l'olivier, souvent consommé en apéritif.",
+      "inflections": ["l'olive", "des olives"],
+      "ptTargets": ["azeitona", "azeitonas"],
+      "examples": [
+        { "level": "A1", "fr": "L'olive est verte.", "pt": "A azeitona é verde." },
+        { "level": "A2-B1", "fr": "J'aime les olives noires.", "pt": "Eu gosto de azeitonas pretas." },
+        { "level": "B2", "fr": "Au comptoir des olives, il y en a de toutes les sortes.", "pt": "No balcão das azeitonas, há delas de todos os tipos." },
+        { "level": "C1-C2", "fr": "La dégustation d'olives aux herbes du Midi ouvre l'apéritif toulousain.", "pt": "A degustação de azeitonas com ervas do Midi abre o aperitivo de Toulouse." }
+      ]
+    },
+    {
+      "term": "le piment",
+      "definitionPt": "pimenta (substantivo masculino)",
+      "definitionFr": "Fruit au goût fort et épicé.",
+      "inflections": ["le piment", "des piments"],
+      "ptTargets": ["pimenta", "pimentas"],
+      "examples": [
+        { "level": "A1", "fr": "Le piment est fort.", "pt": "A pimenta é forte." },
+        { "level": "A2-B1", "fr": "Les olives au piment sont épicées.", "pt": "As azeitonas com pimenta são picantes." },
+        { "level": "B2", "fr": "Il y a des olives au piment, aux herbes et à l'ail.", "pt": "Há azeitonas com pimenta, com ervas e com alho." },
+        { "level": "C1-C2", "fr": "Le piment d'Espelette, doux et parfumé, s'invite dans la cuisine du Sud-Ouest.", "pt": "A pimenta de Espelette, doce e perfumada, se convida para a cozinha do Sudoeste." }
+      ]
+    },
+    {
+      "term": "le panier",
+      "definitionPt": "cesto, cesta (substantivo masculino)",
+      "definitionFr": "Conteneur tressé ou en plastique pour porter des courses.",
+      "inflections": ["le panier", "des paniers"],
+      "ptTargets": ["cesto", "cesta", "cestos"],
+      "examples": [
+        { "level": "A1", "fr": "Le panier est plein.", "pt": "O cesto está cheio." },
+        { "level": "A2-B1", "fr": "Nous remplissons le panier au marché.", "pt": "Nós enchemos o cesto no mercado." },
+        { "level": "B2", "fr": "On en a plein les paniers, des trésors du marché.", "pt": "Temos os cestos cheios deles, dos tesouros do mercado." },
+        { "level": "C1-C2", "fr": "Le panier du marché reflète les saisons et les terroirs de la région.", "pt": "O cesto do mercado reflete as estações e os terroirs da região." }
+      ]
+    },
+    {
+      "term": "le trésor",
+      "definitionPt": "tesouro (substantivo masculino)",
+      "definitionFr": "Chose précieuse.",
+      "inflections": ["le trésor", "des trésors"],
+      "ptTargets": ["tesouro", "tesouros"],
+      "examples": [
+        { "level": "A1", "fr": "Le trésor est caché.", "pt": "O tesouro está escondido." },
+        { "level": "A2-B1", "fr": "Les paniers sont pleins de trésors.", "pt": "Os cestos estão cheios de tesouros." },
+        { "level": "B2", "fr": "Irlan étala ses trésors sur la table de la cuisine.", "pt": "Irlan espalhou seus tesouros na mesa da cozinha." },
+        { "level": "C1-C2", "fr": "Les produits du terroir sont les trésors discrets de la gastronomie française.", "pt": "Os produtos do terroir são os tesouros discretos da gastronomia francesa." }
+      ]
+    },
+    {
+      "term": "la ferme",
+      "definitionPt": "fazenda, sítio (substantivo feminino)",
+      "definitionFr": "Exploitation agricole.",
+      "inflections": ["la ferme", "des fermes"],
+      "ptTargets": ["fazenda", "sítio", "fazendas"],
+      "examples": [
+        { "level": "A1", "fr": "La ferme est à la campagne.", "pt": "A fazenda fica no campo." },
+        { "level": "A2-B1", "fr": "Le fromage vient d'une ferme.", "pt": "O queijo vem de uma fazenda." },
+        { "level": "B2", "fr": "Des roqueforts, il y en a de plusieurs fermes de l'Aveyron.", "pt": "Roqueforts, há deles de várias fazendas de Aveyron." },
+        { "level": "C1-C2", "fr": "Les fermes familiales garantissent la diversité des fromages d'appellation.", "pt": "As fazendas familiares garantem a diversidade dos queijos de denominação." }
+      ]
+    },
+    {
+      "term": "applaudir",
+      "definitionPt": "aplaudir (verbo)",
+      "definitionFr": "Battre des mains pour marquer sa joie.",
+      "inflections": ["j'applaudis", "applaudir"],
+      "ptTargets": ["aplaudir", "aplaudiu"],
+      "examples": [
+        { "level": "A1", "fr": "J'applaudis.", "pt": "Eu aplaudo." },
+        { "level": "A2-B1", "fr": "Íris applaudit de joie.", "pt": "Íris aplaudiu de alegria." },
+        { "level": "B2", "fr": "« Vive le marché ! » s'écria Íris en applaudissant.", "pt": "« Viva o mercado! » exclamou Íris aplaudindo." },
+        { "level": "C1-C2", "fr": "Applaudir un marché, c'est célébrer la vie simple qui s'y déploie.", "pt": "Aplaudir um mercado é celebrar a vida simples que ali se desdobra." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "EN pour les quantités au marché",
+    "explanationPt": "Para falar de quantidade, EN substitui 'de + produto': 'Des magrets ? J'en prends deux.' / 'Des olives ? Nous en prenons un mélange.'",
+    "exampleFr": "Des magrets ? J'en ai de très beaux, et j'en prends deux.",
+    "examplePt": "Magrets? Tenho uns muito bonitos, e levo dois.",
+    "practiceQuestion": "Complete: 'Des olives ? Nous _____ prenons un mélange.'",
+    "options": ["en", "y", "les"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "EN + quantité précise",
+        "explanationPt": "Com quantidade precisa: 'J'en prends deux', 'Nous en prenons un mélange', 'Il en a choisi trois'.",
+        "exampleFr": "Des roqueforts ? J'en ai choisi trois moi-même.",
+        "examplePt": "Roqueforts? Eu mesmo escolhi três.",
+        "practiceQuestion": "Complete: 'Des tomates ? J'_____ prends un kilo.'",
+        "options": ["en", "y", "le"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "EN + quantité indéterminée",
+        "explanationPt": "Com quantidade vaga: 'il y en a de toutes les sortes', 'j'en ai de très beaux'.",
+        "exampleFr": "Des fromages ? Il y en a de toutes les sortes sur ce stand.",
+        "examplePt": "Queijos? Há deles de todos os tipos nessa banca.",
+        "practiceQuestion": "Complete: 'Des olives ? Il _____ a de toutes les sortes.'",
+        "options": ["y en", "en y", "en"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Complete: 'Des magrets ? J'_____ prends deux, s'il vous plaît.'",
+      "options": ["en", "y", "les"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'J'en prends deux, s'il vous plaît.'"
+    },
+    {
+      "question": "Qual é o mercado coberto mais antigo de Toulouse?",
+      "options": ["O mercado dos Carmes", "O mercado Victor Hugo", "O mercado Saint-Cyprien"],
+      "correctIndex": 0,
+      "explanation": "No vocabulário: 'Le marché des Carmes est le plus ancien marché couvert de Toulouse.'"
+    },
+    {
+      "question": "De onde vêm os roqueforts escolhidos pelo queijeiro?",
+      "options": ["Das cavernas de Aveyron", "Da Bretanha", "Da Alsácia"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'je les ai choisis moi-même dans les caves de l'Aveyron.'"
+    },
+    {
+      "question": "Qual frase usa EN corretamente com quantidade?",
+      "options": ["Des olives ? Nous en prenons un mélange.", "Des olives ? Nous y prenons un mélange.", "Des olives ? Nous le prenons un mélange."],
+      "correctIndex": 0,
+      "explanation": "EN substitui 'des olives' com quantidade: 'Nous en prenons un mélange'."
+    },
+    {
+      "question": "O que Irlan disse que é a França?",
+      "options": ["Mercados onde cada região conta sua história", "Monumentos antigos", "Vinhos famosos"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'des marchés où chaque région raconte son histoire.'"
+    }
+  ]
+}

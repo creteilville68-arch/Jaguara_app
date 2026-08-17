@@ -1,0 +1,268 @@
+{
+  "id": "paris_lesson_24",
+  "cityId": "paris",
+  "domain": "Arquitetura & Cotidiano",
+  "level": "Iniciante (A1)",
+  "titleFr": "Paris moderne à La Défense",
+  "titlePt": "Paris moderna em La Défense",
+  "subtitleFr": "La Grande Arche, les tours et la vie des bureaux",
+  "subtitlePt": "A Grande Arche, as torres e a vida dos escritórios",
+  "summaryPt": "Nesta Aula 24 (A1), a família visita La Défense, o bairro moderno de Paris. Eles veem a Grande Arche, as torres altas e a esplanada. Irlan conta que entregava refeições para os trabalhadores dos escritórios. O aluno aprende os grandes números e as horas.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "La Défense est le quartier moderne de Paris. Il y a beaucoup de tours et de bureaux. La Grande Arche est au bout de l'esplanade.",
+      "pt": "La Défense é o bairro moderno de Paris. Há muitas torres e escritórios. A Grande Arche fica no fim da esplanada."
+    },
+    {
+      "id": 2,
+      "fr": "Les tours sont très hautes. La Grande Arche mesure plus de cent dix mètres. Mille personnes travaillent dans certaines tours.",
+      "pt": "As torres são muito altas. A Grande Arche mede mais de cento e dez metros. Mil pessoas trabalham em algumas torres."
+    },
+    {
+      "fr": "Au bureau, on travaille de neuf heures à dix-huit heures. À midi, beaucoup de gens mangent sur l'esplanade au soleil.",
+      "id": 3,
+      "pt": "No escritório, trabalha-se das nove às dezoito horas. Ao meio-dia, muitas pessoas comem na esplanada ao sol."
+    },
+    {
+      "id": 4,
+      "fr": "« Quand j'étais livreur, je livrais des déjeuners dans ces tours », dit Irlan. « Aujourd'hui, je suis géographe et je travaille aussi dans un bureau. »",
+      "pt": "«Quando eu era entregador, eu entregava almoços nestas torres», diz Irlan. «Hoje, eu sou geógrafo e também trabalho num escritório.»"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "tour",
+      "definitionPt": "torre",
+      "definitionFr": "Très haut bâtiment.",
+      "inflections": ["la tour", "une tour", "des tours"],
+      "ptTargets": ["torre"],
+      "examples": [
+        { "level": "A1", "fr": "Il y a beaucoup de tours à La Défense.", "pt": "Há muitas torres em La Défense." },
+        { "level": "A2-B1", "fr": "La tour est très haute.", "pt": "A torre é muito alta." },
+        { "level": "B2", "fr": "Les tours de La Défense dominent l'horizon.", "pt": "As torres de La Défense dominam o horizonte." },
+        { "level": "C1-C2", "fr": "Les tours modernes contrastent avec les monuments historiques de Paris.", "pt": "As torres modernas contrastam com os monumentos históricos de Paris." }
+      ]
+    },
+    {
+      "term": "bureau",
+      "definitionPt": "escritório, mesa de trabalho",
+      "definitionFr": "Pièce ou meuble où l'on travaille.",
+      "inflections": ["le bureau", "un bureau", "des bureaux"],
+      "ptTargets": ["escritório", "mesa"],
+      "examples": [
+        { "level": "A1", "fr": "Je travaille dans un bureau.", "pt": "Eu trabalho num escritório." },
+        { "level": "A2-B1", "fr": "Le bureau est au vingtième étage.", "pt": "O escritório fica no vigésimo andar." },
+        { "level": "B2", "fr": "Les bureaux de La Défense sont modernes.", "pt": "Os escritórios de La Défense são modernos." },
+        { "level": "C1-C2", "fr": "Le travail de bureau a transformé la vie urbaine moderne.", "pt": "O trabalho de escritório transformou a vida urbana moderna." }
+      ]
+    },
+    {
+      "term": "esplanade",
+      "definitionPt": "esplanada",
+      "definitionFr": "Grand espace ouvert, souvent piéton.",
+      "inflections": ["l'esplanade", "une esplanade", "des esplanades"],
+      "ptTargets": ["esplanada"],
+      "examples": [
+        { "level": "A1", "fr": "La Grande Arche est au bout de l'esplanade.", "pt": "A Grande Arche fica no fim da esplanada." },
+        { "level": "A2-B1", "fr": "L'esplanade est grande et calme.", "pt": "A esplanada é grande e calma." },
+        { "level": "B2", "fr": "Les gens se promènent sur l'esplanade à midi.", "pt": "As pessoas passeiam na esplanada ao meio-dia." },
+        { "level": "C1-C2", "fr": "L'esplanade de La Défense est un espace public emblématique.", "pt": "A esplanada de La Défense é um espaço público emblemático." }
+      ]
+    },
+    {
+      "term": "haut",
+      "definitionPt": "alto",
+      "definitionFr": "Qui est élevé, grand.",
+      "inflections": ["haut", "haute", "hauts", "hautes"],
+      "ptTargets": ["alto"],
+      "examples": [
+        { "level": "A1", "fr": "Les tours sont très hautes.", "pt": "As torres são muito altas." },
+        { "level": "A2-B1", "fr": "La Grande Arche est très haute.", "pt": "A Grande Arche é muito alta." },
+        { "level": "B2", "fr": "Le sommet de la tour offre une vue haute et large.", "pt": "O topo da torre oferece uma vista alta e ampla." },
+        { "level": "C1-C2", "fr": "Les immeubles de grande hauteur définissent le paysage moderne.", "pt": "Os edifícios de grande altura definem a paisagem moderna." }
+      ]
+    },
+    {
+      "term": "mesurer",
+      "definitionPt": "medir",
+      "definitionFr": "Avoir une certaine taille ou dimension.",
+      "inflections": ["je mesure", "mesurer", "il mesure"],
+      "ptTargets": ["medir"],
+      "examples": [
+        { "level": "A1", "fr": "La tour mesure plus de cent mètres.", "pt": "A torre mede mais de cem metros." },
+        { "level": "A2-B1", "fr": "La Grande Arche mesure cent dix mètres.", "pt": "A Grande Arche mede cento e dez metros." },
+        { "level": "B2", "fr": "Ce monument mesure plus de trois cents mètres.", "pt": "Este monumento mede mais de trezentos metros." },
+        { "level": "C1-C2", "fr": "Mesurer l'ampleur d'un édifice aide à comprendre son impact.", "pt": "Medir a magnitude de um edifício ajuda a compreender o seu impacto." }
+      ]
+    },
+    {
+      "term": "mètre",
+      "definitionPt": "metro (unidade)",
+      "definitionFr": "Unité de mesure de longueur.",
+      "inflections": ["le mètre", "un mètre", "des mètres"],
+      "ptTargets": ["metro"],
+      "examples": [
+        { "level": "A1", "fr": "La tour mesure cent mètres.", "pt": "A torre mede cem metros." },
+        { "level": "A2-B1", "fr": "La Grande Arche mesure cent dix mètres.", "pt": "A Grande Arche mede cento e dez metros." },
+        { "level": "B2", "fr": "La tour Eiffel mesure trois cent trente mètres.", "pt": "A torre Eiffel mede trezentos e trinta metros." },
+        { "level": "C1-C2", "fr": "Les centaines de mètres de cette tour impressionnent les visiteurs.", "pt": "As centenas de metros desta torre impressionam os visitantes." }
+      ]
+    },
+    {
+      "term": "travailler",
+      "definitionPt": "trabalhar",
+      "definitionFr": "Faire un métier ou une activité.",
+      "inflections": ["je travaille", "travailler", "il travaille"],
+      "ptTargets": ["trabalhar"],
+      "examples": [
+        { "level": "A1", "fr": "Mille personnes travaillent dans cette tour.", "pt": "Mil pessoas trabalham nesta torre." },
+        { "level": "A2-B1", "fr": "Nous travaillons dans un bureau à La Défense.", "pt": "Nós trabalhamos num escritório em La Défense." },
+        { "level": "B2", "fr": "Elle travaille de neuf heures à dix-huit heures.", "pt": "Ela trabalha das nove às dezoito horas." },
+        { "level": "C1-C2", "fr": "Travailler dans un quartier moderne change le rythme de vie.", "pt": "Trabalhar num bairro moderno muda o ritmo de vida." }
+      ]
+    },
+    {
+      "term": "déjeuner",
+      "definitionPt": "almoço / almoçar",
+      "definitionFr": "Repas du milieu de la journée.",
+      "inflections": ["le déjeuner", "déjeuner", "je déjeune"],
+      "ptTargets": ["almoço", "almoçar"],
+      "examples": [
+        { "level": "A1", "fr": "À midi, les gens mangent leur déjeuner.", "pt": "Ao meio-dia, as pessoas comem o seu almoço." },
+        { "level": "A2-B1", "fr": "Le déjeuner est à douze heures trente.", "pt": "O almoço é às doze e trinta." },
+        { "level": "B2", "fr": "Il livre des déjeuners dans les tours.", "pt": "Ele entrega almoços nas torres." },
+        { "level": "C1-C2", "fr": "Le déjeuner d'affaires est une pratique courante à La Défense.", "pt": "O almoço de negócios é uma prática comum em La Défense." }
+      ]
+    },
+    {
+      "term": "midi",
+      "definitionPt": "meio-dia",
+      "definitionFr": "Le milieu de la journée, douze heures.",
+      "inflections": ["midi"],
+      "ptTargets": ["meio-dia"],
+      "examples": [
+        { "level": "A1", "fr": "À midi, nous mangeons.", "pt": "Ao meio-dia, nós comemos." },
+        { "level": "A2-B1", "fr": "Le restaurant ouvre à midi.", "pt": "O restaurante abre ao meio-dia." },
+        { "level": "B2", "fr": "À midi, l'esplanade est pleine de monde.", "pt": "Ao meio-dia, a esplanada está cheia de gente." },
+        { "level": "C1-C2", "fr": "Le déjeuner de midi rythme la journée de travail.", "pt": "O almoço do meio-dia marca o ritmo do dia de trabalho." }
+      ]
+    },
+    {
+      "term": "peuple",
+      "definitionPt": "povo, gente",
+      "definitionFr": "Ensemble des personnes.",
+      "inflections": ["le peuple"],
+      "ptTargets": ["povo", "gente"],
+      "examples": [
+        { "level": "A1", "fr": "Beaucoup de gens mangent sur l'esplanade.", "pt": "Muitas pessoas comem na esplanada." },
+        { "level": "A2-B1", "fr": "Les gens travaillent dans les tours.", "pt": "As pessoas trabalham nas torres." },
+        { "level": "B2", "fr": "Des milliers de gens passent ici chaque jour.", "pt": "Milhares de pessoas passam por aqui todos os dias." },
+        { "level": "C1-C2", "fr": "Le quartier d'affaires rassemble des gens de toute la région.", "pt": "O bairro de negócios reúne pessoas de toda a região." }
+      ]
+    },
+    {
+      "term": "géographe",
+      "definitionPt": "geógrafo",
+      "definitionFr": "Personne qui étudie la géographie.",
+      "inflections": ["le géographe", "un géographe", "des géographes"],
+      "ptTargets": ["geógrafo"],
+      "examples": [
+        { "level": "A1", "fr": "Irlan est géographe.", "pt": "Irlan é geógrafo." },
+        { "level": "A2-B1", "fr": "Le géographe étudie les cartes.", "pt": "O geógrafo estuda os mapas." },
+        { "level": "B2", "fr": "Le géographe analyse l'organisation des villes.", "pt": "O geógrafo analisa a organização das cidades." },
+        { "level": "C1-C2", "fr": "Le géographe observe les transformations du territoire urbain.", "pt": "O geógrafo observa as transformações do território urbano." }
+      ]
+    },
+    {
+      "term": "moderne",
+      "definitionPt": "moderno",
+      "definitionFr": "Qui appartient à notre époque.",
+      "inflections": ["moderne", "modernes"],
+      "ptTargets": ["moderno"],
+      "examples": [
+        { "level": "A1", "fr": "La Défense est un quartier moderne.", "pt": "La Défense é um bairro moderno." },
+        { "level": "A2-B1", "fr": "Les tours modernes sont impressionnantes.", "pt": "As torres modernas são impressionantes." },
+        { "level": "B2", "fr": "L'architecture moderne transforme le paysage.", "pt": "A arquitetura moderna transforma a paisagem." },
+        { "level": "C1-C2", "fr": "La Défense incarne la modernité du Grand Paris.", "pt": "La Défense encarna a modernidade do Grande Paris." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Les grands nombres",
+    "explanationPt": "Os grandes números: cent (100), deux cents (200), mille (1.000). 'La Grande Arche mesure plus de cent dix mètres' (mais de 110 m). 'Mille personnes travaillent' (1.000 pessoas).",
+    "exampleFr": "La Grande Arche mesure plus de cent dix mètres. Mille personnes travaillent dans certaines tours.",
+    "examplePt": "A Grande Arche mede mais de cento e dez metros. Mil pessoas trabalham em algumas torres.",
+    "practiceQuestion": "Complete com o número correto: 'La tour mesure plus de trois _____ mètres.'",
+    "options": ["cents", "cent", "milles"],
+    "correctIndex": 1,
+    "points": [
+      {
+        "ruleTitle": "Les grands nombres",
+        "explanationPt": "'cent' é invariável quando seguido de outro número: 'cent dix' (110). Com multiplicador, leva -s: 'deux cents' (200). 'mille' é sempre invariável: 'mille personnes'.",
+        "exampleFr": "La tour mesure deux cents mètres, et mille personnes y travaillent.",
+        "examplePt": "A torre mede duzentos metros, e mil pessoas trabalham nela.",
+        "practiceQuestion": "Complete: 'La tour Eiffel mesure trois cent trente _____.'",
+        "options": ["mètres", "mètre", "mètress"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "L'heure et les horaires de travail",
+        "explanationPt": "Horas: 'Il est neuf heures' (são nove horas), 'de neuf heures à dix-huit heures' (das nove às dezoito). 'À midi' = ao meio-dia.",
+        "exampleFr": "Au bureau, on travaille de neuf heures à dix-huit heures.",
+        "examplePt": "No escritório, trabalha-se das nove às dezoito horas.",
+        "practiceQuestion": "Complete com a expressão correta: 'Le déjeuner est à douze heures _____.'",
+        "options": ["trente", "trente-et-un", "trentaine"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Complete a frase do texto: 'Il y a beaucoup de _____ et de bureaux à La Défense.'",
+      "options": ["tours", "jardins", "églises"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'Il y a beaucoup de tours et de bureaux.'"
+    },
+    {
+      "question": "Ordene corretamente as palavras da frase: [ mesurer / plus de / la Grande Arche / cent dix mètres / ]",
+      "options": [
+        "La Grande Arche mesure plus de cent dix mètres.",
+        "Plus de cent dix mètres la Grande Arche mesure.",
+        "La Grande Arche plus de cent dix mètres mesure."
+      ],
+      "correctIndex": 0,
+      "explanation": "A frase exata do texto é 'La Grande Arche mesure plus de cent dix mètres.'"
+    },
+    {
+      "question": "Como se traduz: 'Mil pessoas trabalham nesta torre'?",
+      "options": [
+        "Mille personnes travaillent dans cette tour.",
+        "Mille personnes travaille dans cette tour.",
+        "Millions personnes travaillent dans cette tour."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Mille' = mil; 'travaillent' = trabalham (plural)."
+    },
+    {
+      "question": "Identifique a frase com ERRO de número:",
+      "options": [
+        "La tour mesure cent dix mètres.",
+        "Mille personnes travaillent ici.",
+        "La tour mesure deux cent mètres."
+      ],
+      "correctIndex": 2,
+      "explanation": "O erro é 'deux cent mètres': com multiplicador e sem número seguinte, é 'deux cents mètres'."
+    },
+    {
+      "question": "O que Irlan entregava quando era entregador em La Défense?",
+      "options": [
+        "Almoços para as pessoas que trabalhavam nas torres",
+        "Flores para os jardins",
+        "Livros para as bibliotecas"
+      ],
+      "correctIndex": 0,
+      "explanation": "No texto: 'je livrais des déjeuners dans ces tours.'"
+    }
+  ]
+}

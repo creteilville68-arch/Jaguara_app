@@ -1,0 +1,257 @@
+{
+  "id": "lyon_lesson_51",
+  "cityId": "lyon",
+  "domain": "Ofícios & Patrimônio",
+  "level": "Intermediário (B2+)",
+  "titleFr": "La Maison des Canuts : la soie qui habille le monde",
+  "titlePt": "A Maison des Canuts: a seda que veste o mundo",
+  "subtitleFr": "Clivées et discours indirect : l'atelier vivant",
+  "subtitlePt": "Clivadas e discurso indireto: a oficina viva",
+  "summaryPt": "Na Maison des Canuts, na Croix-Rousse, teares do século XIX ainda funcionam diante dos visitantes: é a memória viva da seda de Lyon. Nesta aula B2+, a família assiste a uma demonstração e combina clivadas e discurso indireto.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "« C'est ce métier à tisser qui a fait la fortune de Lyon », dit le tisseur. Les navettes volaient, les fils se croisaient. Irlan demanda combien de temps il fallait pour tisser une étoffe.",
+      "pt": "« É este tear que fez a fortuna de Lyon », disse o tecelão. As lançadeiras voavam, os fios se cruzavam. Irlan perguntou quanto tempo era preciso para tecer um tecido."
+    },
+    {
+      "id": 2,
+      "fr": "Le tisseur répondit qu'un mètre de soie pouvait demander des heures et que chaque motif racontait une histoire. « C'est la patience qui fait la beauté », conclut-il. Andréa hocha la tête, admirative.",
+      "pt": "O tecelão respondeu que um metro de seda podia exigir horas e que cada estampa contava uma história. « É a paciência que faz a beleza », concluiu ele. Andréa balançou a cabeça, admirada."
+    },
+    {
+      "id": 3,
+      "fr": "Les canuts travaillaient dans leurs appartements, les métiers sous les fenêtres. « C'est pour la lumière que les fenêtres étaient si hautes », expliqua le guide. Les plafonds de la Croix-Rousse gardent la trace de ces métiers.",
+      "pt": "Os canuts trabalhavam em seus apartamentos, com os teares sob as janelas. « Era por causa da luz que as janelas eram tão altas », explicou o guia. Os tetos da Croix-Rousse guardam o rastro desses teares."
+    },
+    {
+      "id": 4,
+      "fr": "Une touriste demanda si la soie était encore produite à Lyon. Le guide répondit que oui, et que la ville restait une capitale mondiale du textile. Irlan sourit, pensant à sa scooter qui sillonnait ces rues.",
+      "pt": "Uma turista perguntou se a seda ainda era produzida em Lyon. O guia respondeu que sim, e que a cidade continuava uma capital mundial do têxtil. Irlan sorriu, pensando em sua scooter que percorria essas ruas."
+    },
+    {
+      "id": 5,
+      "fr": "Le soir, Irlan écrivit : « C'est la patience qui transforme le fil en richesse. Le tisseur m'a dit que chaque geste comptait. Et moi, je compte chaque rue de Lyon comme un fil de cette grande étoffe qui s'appelle la vie. »",
+      "pt": "À noite, Irlan escreveu: « É a paciência que transforma o fio em riqueza. O tecelão me disse que cada gesto contava. E eu conto cada rua de Lyon como um fio desse grande tecido que se chama vida. »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "le tisseur",
+      "definitionPt": "tecelão",
+      "definitionFr": "Personne qui tisse.",
+      "inflections": ["le tisseur", "des tisseurs"],
+      "ptTargets": ["tecelão", "tecelões"],
+      "examples": [
+        { "level": "A1", "fr": "Le tisseur travaille.", "pt": "O tecelão trabalha." },
+        { "level": "A2-B1", "fr": "Le tisseur montre son métier.", "pt": "O tecelão mostra seu ofício." },
+        { "level": "B1-B2", "fr": "Le tisseur, héritier des canuts, transmet son savoir.", "pt": "O tecelão, herdeiro dos canuts, transmite seu saber." },
+        { "level": "C1-C2", "fr": "C'est le tisseur qui garde vivant le geste des anciens.", "pt": "É o tecelão que mantém vivo o gesto dos antigos." }
+      ]
+    },
+    {
+      "term": "la navette",
+      "definitionPt": "lançadeira (de tear)",
+      "definitionFr": "Pièce du métier à tisser qui passe les fils.",
+      "inflections": ["la navette", "des navettes"],
+      "ptTargets": ["lançadeira", "lançadeiras"],
+      "examples": [
+        { "level": "A1", "fr": "La navette vole.", "pt": "A lançadeira voa." },
+        { "level": "A2-B1", "fr": "Les navettes passent entre les fils.", "pt": "As lançadeiras passam entre os fios." },
+        { "level": "B1-B2", "fr": "Les navettes, rapides, tissent l'étoffe sous nos yeux.", "pt": "As lançadeiras, rápidas, tecem o tecido diante de nossos olhos." },
+        { "level": "C1-C2", "fr": "C'est la navette qui donne au métier son rythme.", "pt": "É a lançadeira que dá ao tear seu ritmo." }
+      ]
+    },
+    {
+      "term": "le fil",
+      "definitionPt": "fio",
+      "definitionFr": "Tissu mince de coton, de soie ou de laine.",
+      "inflections": ["le fil", "des fils"],
+      "ptTargets": ["fio", "fios"],
+      "examples": [
+        { "level": "A1", "fr": "Le fil est fin.", "pt": "O fio é fino." },
+        { "level": "A2-B1", "fr": "Les fils se croisent sur le métier.", "pt": "Os fios se cruzam no tear." },
+        { "level": "B1-B2", "fr": "Les fils, tendus avec précision, forment le motif.", "pt": "Os fios, esticados com precisão, formam a estampa." },
+        { "level": "C1-C2", "fr": "C'est le fil qui relie l'effort au chef-d'œuvre.", "pt": "É o fio que liga o esforço à obra-prima." }
+      ]
+    },
+    {
+      "term": "l'étoffe",
+      "definitionPt": "tecido",
+      "definitionFr": "Tissu fabriqué.",
+      "inflections": ["l'étoffe", "des étoffes"],
+      "ptTargets": ["tecido", "tecidos"],
+      "examples": [
+        { "level": "A1", "fr": "L'étoffe est douce.", "pt": "O tecido é macio." },
+        { "level": "A2-B1", "fr": "L'étoffe sort du métier.", "pt": "O tecido sai do tear." },
+        { "level": "B1-B2", "fr": "L'étoffe, tissée à la main, se vend dans le monde entier.", "pt": "O tecido, tecido à mão, é vendido no mundo inteiro." },
+        { "level": "C1-C2", "fr": "C'est l'étoffe qui porte la mémoire des doigts.", "pt": "É o tecido que carrega a memória dos dedos." }
+      ]
+    },
+    {
+      "term": "le motif",
+      "definitionPt": "estampa, padrão",
+      "definitionFr": "Dessin répété sur un tissu.",
+      "inflections": ["le motif", "des motifs"],
+      "ptTargets": ["estampa", "padrão", "estampas"],
+      "examples": [
+        { "level": "A1", "fr": "Le motif est joli.", "pt": "A estampa é bonita." },
+        { "level": "A2-B1", "fr": "Chaque motif raconte une histoire.", "pt": "Cada estampa conta uma história." },
+        { "level": "B1-B2", "fr": "Les motifs, dessinés avec soin, ornent les plus belles soieries.", "pt": "As estampas, desenhadas com cuidado, ornam as mais belas sedas." },
+        { "level": "C1-C2", "fr": "C'est le motif qui donne au tissu son identité.", "pt": "É a estampa que dá ao tecido sua identidade." }
+      ]
+    },
+    {
+      "term": "le plafond",
+      "definitionPt": "teto",
+      "definitionFr": "Surface supérieure d'une pièce.",
+      "inflections": ["le plafond", "des plafonds"],
+      "ptTargets": ["teto", "tetos"],
+      "examples": [
+        { "level": "A1", "fr": "Le plafond est haut.", "pt": "O teto é alto." },
+        { "level": "A2-B1", "fr": "Les plafonds de la Croix-Rousse sont hauts.", "pt": "Os tetos da Croix-Rousse são altos." },
+        { "level": "B1-B2", "fr": "Les plafonds, hauts de quatre mètres, accueillaient les métiers à tisser.", "pt": "Os tetos, altos de quatro metros, abrigavam os teares." },
+        { "level": "C1-C2", "fr": "C'est le plafond qui garde la mémoire des métiers.", "pt": "É o teto que guarda a memória dos teares." }
+      ]
+    },
+    {
+      "term": "le textile",
+      "definitionPt": "têxtil",
+      "definitionFr": "Industrie du tissu.",
+      "inflections": ["le textile"],
+      "ptTargets": ["têxtil"],
+      "examples": [
+        { "level": "A1", "fr": "Le textile est important.", "pt": "O têxtil é importante." },
+        { "level": "A2-B1", "fr": "Lyon est une capitale du textile.", "pt": "Lyon é uma capital do têxtil." },
+        { "level": "B1-B2", "fr": "Le textile, né de la soie, fait toujours la fierté de Lyon.", "pt": "O têxtil, nascido da seda, continua sendo o orgulho de Lyon." },
+        { "level": "C1-C2", "fr": "C'est le textile qui a tissé la richesse de la région.", "pt": "É o têxtil que teceu a riqueza da região." }
+      ]
+    },
+    {
+      "term": "la démonstration",
+      "definitionPt": "demonstração",
+      "definitionFr": "Action de montrer comment fonctionne quelque chose.",
+      "inflections": ["la démonstration", "des démonstrations"],
+      "ptTargets": ["demonstração", "demonstrações"],
+      "examples": [
+        { "level": "A1", "fr": "La démonstration est intéressante.", "pt": "A demonstração é interessante." },
+        { "level": "A2-B1", "fr": "Le tisseur fait une démonstration.", "pt": "O tecelão faz uma demonstração." },
+        { "level": "B1-B2", "fr": "La démonstration, précise, fascine les visiteurs.", "pt": "A demonstração, precisa, fascina os visitantes." },
+        { "level": "C1-C2", "fr": "C'est la démonstration qui fait comprendre le geste.", "pt": "É a demonstração que faz compreender o gesto." }
+      ]
+    },
+    {
+      "term": "l'atelier",
+      "definitionPt": "oficina, ateliê",
+      "definitionFr": "Lieu de travail d'un artisan.",
+      "inflections": ["l'atelier", "des ateliers"],
+      "ptTargets": ["oficina", "ateliê", "oficinas"],
+      "examples": [
+        { "level": "A1", "fr": "L'atelier est plein.", "pt": "A oficina está cheia." },
+        { "level": "A2-B1", "fr": "L'atelier abrite les métiers à tisser.", "pt": "A oficina abriga os teares." },
+        { "level": "B1-B2", "fr": "L'atelier, vivant, transmet un savoir de génération en génération.", "pt": "A oficina, viva, transmite um saber de geração em geração." },
+        { "level": "C1-C2", "fr": "C'est l'atelier qui garde l'âme du métier.", "pt": "É a oficina que guarda a alma do ofício." }
+      ]
+    },
+    {
+      "term": "transmettre",
+      "definitionPt": "transmitir",
+      "definitionFr": "Faire passer un savoir à la génération suivante.",
+      "inflections": ["je transmets", "transmettre", "transmis"],
+      "ptTargets": ["transmitir", "transmite", "transmitido"],
+      "examples": [
+        { "level": "A1", "fr": "Je transmets un message.", "pt": "Eu transmito uma mensagem." },
+        { "level": "A2-B1", "fr": "Le tisseur transmet son savoir.", "pt": "O tecelão transmite seu saber." },
+        { "level": "B1-B2", "fr": "Transmettre, c'est offrir au futur la mémoire du passé.", "pt": "Transmitir é oferecer ao futuro a memória do passado." },
+        { "level": "C1-C2", "fr": "C'est en transmettant que l'on devient immortel.", "pt": "É transmitindo que se torna imortal." }
+      ]
+    },
+    {
+      "term": "le savoir-faire",
+      "definitionPt": "saber-fazer, ofício",
+      "definitionFr": "Connaissance pratique d'un métier.",
+      "inflections": ["le savoir-faire"],
+      "ptTargets": ["saber-fazer", "ofício"],
+      "examples": [
+        { "level": "A1", "fr": "Le savoir-faire est précieux.", "pt": "O saber-fazer é precioso." },
+        { "level": "A2-B1", "fr": "Lyon est fière de son savoir-faire.", "pt": "Lyon tem orgulho de seu saber-fazer." },
+        { "level": "B1-B2", "fr": "Le savoir-faire des canuts, transmis depuis des siècles, est reconnu dans le monde.", "pt": "O saber-fazer dos canuts, transmitido há séculos, é reconhecido no mundo." },
+        { "level": "C1-C2", "fr": "C'est le savoir-faire qui fait la réputation d'un peuple.", "pt": "É o saber-fazer que faz a reputação de um povo." }
+      ]
+    },
+    {
+      "term": "la lumière",
+      "definitionPt": "luz",
+      "definitionFr": "Clarté qui permet de voir.",
+      "inflections": ["la lumière", "des lumières"],
+      "ptTargets": ["luz", "luzes"],
+      "examples": [
+        { "level": "A1", "fr": "La lumière est belle.", "pt": "A luz é bonita." },
+        { "level": "A2-B1", "fr": "Les fenêtres étaient hautes pour la lumière.", "pt": "As janelas eram altas por causa da luz." },
+        { "level": "B1-B2", "fr": "La lumière, venant du nord, éclairait les métiers sans éblouir.", "pt": "A luz, vinda do norte, iluminava os teares sem ofuscar." },
+        { "level": "C1-C2", "fr": "C'est la lumière qui a guidé la main des canuts.", "pt": "É a luz que guiou a mão dos canuts." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Clivées et discours indirect : l'atelier vivant",
+    "explanationPt": "Combinação de clivadas ('c'est ce métier à tisser qui a fait la fortune de Lyon'; 'c'est la patience qui fait la beauté'; 'c'est pour la lumière que les fenêtres étaient si hautes') e discurso indireto ('le tisseur répondit qu'un mètre de soie pouvait demander des heures'; 'le guide répondit que la ville restait une capitale mondiale du textile').",
+    "exampleFr": "C'est la patience qui fait la beauté ; le tisseur répondit qu'un mètre de soie pouvait demander des heures.",
+    "examplePt": "É a paciência que faz a beleza; o tecelão respondeu que um metro de seda podia exigir horas.",
+    "practiceQuestion": "Complete: « C'est ce métier à tisser ___ a fait la fortune de Lyon. »",
+    "options": ["qui", "que", "où"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "Clivées avec QUI",
+        "explanationPt": "'C'est ce métier qui a fait la fortune', 'c'est la patience qui fait la beauté' : sujeito destacado com QUI.",
+        "exampleFr": "C'est la patience qui fait la beauté.",
+        "examplePt": "É a paciência que faz a beleza.",
+        "practiceQuestion": "Complete: « C'est la patience ___ fait la beauté. »",
+        "options": ["qui", "que", "où"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "Discours indirect",
+        "explanationPt": "'Le tisseur répondit qu'un mètre de soie pouvait demander des heures' : presente/futuro viram imperfeito/condicional no discurso indireto.",
+        "exampleFr": "Le guide répondit que la ville restait une capitale mondiale du textile.",
+        "examplePt": "O guia respondeu que a cidade continuava uma capital mundial do têxtil.",
+        "practiceQuestion": "Complete: « Le tisseur répondit qu'un mètre de soie ___ demander des heures. »",
+        "options": ["pouvait", "peut", "pourra"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Complete: « C'est ce métier à tisser ___ a fait la fortune de Lyon. »",
+      "options": ["qui", "que", "où"],
+      "correctIndex": 0,
+      "explanation": "Sujeito destacado → QUI."
+    },
+    {
+      "question": "O que pode exigir um metro de seda?",
+      "options": ["Horas de trabalho", "Dias de espera", "Um minuto"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'un mètre de soie pouvait demander des heures'."
+    },
+    {
+      "question": "Por que as janelas dos canuts eram altas?",
+      "options": ["Por causa da luz", "Porque eram antigas", "Para entrar o vento"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'C'est pour la lumière que les fenêtres étaient si hautes'."
+    },
+    {
+      "question": "Complete: « Le tisseur répondit qu'un mètre de soie ___ demander des heures. »",
+      "options": ["pouvait", "peut", "pourra"],
+      "correctIndex": 0,
+      "explanation": "Presente vira imperfeito no discurso indireto."
+    },
+    {
+      "question": "O que Irlan escreveu sobre as ruas de Lyon?",
+      "options": ["Que as conta como fios de um grande tecido", "Que são curtas demais", "Que estão sempre vazias"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'je compte chaque rue de Lyon comme un fil de cette grande étoffe'."
+    }
+  ]
+}

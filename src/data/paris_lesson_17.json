@@ -1,0 +1,268 @@
+{
+  "id": "paris_lesson_17",
+  "cityId": "paris",
+  "domain": "Moda & Alta-Costura",
+  "level": "Iniciante (A1)",
+  "titleFr": "L'élégance de l'avenue Montaigne",
+  "titlePt": "A elegância da avenue Montaigne",
+  "subtitleFr": "Les grandes maisons de couture et les vitrines élégantes",
+  "subtitlePt": "As grandes casas de moda e as vitrines elegantes",
+  "summaryPt": "Nesta Aula 17 (A1), a família passeia pela avenue Montaigne, o bairro da alta-costura. Andréa admira as vitrines das grandes maisons de couture e Íris sonha com vestidos. Irlan lembra das entregas que fazia para as boutiques. O aluno aprende o verbo 'porter' e as cores com concordância.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "L'avenue Montaigne est le quartier de la haute couture. Les boutiques sont élégantes et les vitrines sont magnifiques. Andréa adore regarder les vêtements.",
+      "pt": "A avenue Montaigne é o bairro da alta-costura. As lojas são elegantes e as vitrines são magníficas. Andréa adora olhar as roupas."
+    },
+    {
+      "id": 2,
+      "fr": "Dans une vitrine, il y a une robe rouge et des chaussures noires. Íris dit : « Quand je serai grande, je porterai une robe rouge ! »",
+      "pt": "Numa vitrine, há um vestido vermelho e sapatos pretos. Íris diz: «Quando eu for grande, usarei um vestido vermelho!»"
+    },
+    {
+      "id": 3,
+      "fr": "Irlan se souvient : quand il était livreur, il livrait des colis aux boutiques de la rue. « Les sacs étaient très beaux », dit-il en riant.",
+      "pt": "Irlan se lembra: quando era entregador, entregava pacotes nas lojas da rua. «As sacolas eram muito bonitas», diz ele rindo."
+    },
+    {
+      "id": 4,
+      "fr": "Andréa essaie un manteau bleu dans une boutique. La vendeuse dit : « Il vous va très bien ! » Andréa sourit, mais elle n'achète pas aujourd'hui.",
+      "pt": "Andréa prova um casaco azul numa loja. A vendedora diz: «Fica muito bem em você!» Andréa sorri, mas não compra hoje."
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "couture",
+      "definitionPt": "costura, moda",
+      "definitionFr": "Art de fabriquer des vêtements.",
+      "inflections": ["la couture"],
+      "ptTargets": ["costura", "moda"],
+      "examples": [
+        { "level": "A1", "fr": "Paris est la capitale de la haute couture.", "pt": "Paris é a capital da alta-costura." },
+        { "level": "A2-B1", "fr": "Les grandes maisons de couture sont célèbres.", "pt": "As grandes casas de moda são famosas." },
+        { "level": "B2", "fr": "La couture française influence la mode mondiale.", "pt": "A costura francesa influencia a moda mundial." },
+        { "level": "C1-C2", "fr": "La haute couture parisienne allie tradition artisanale et création.", "pt": "A alta-costura parisiense alia tradição artesanal e criação." }
+      ]
+    },
+    {
+      "term": "vitrine",
+      "definitionPt": "vitrine",
+      "definitionFr": "Fenêtre d'un magasin où l'on montre les produits.",
+      "inflections": ["la vitrine", "une vitrine", "des vitrines"],
+      "ptTargets": ["vitrine"],
+      "examples": [
+        { "level": "A1", "fr": "Les vitrines sont magnifiques.", "pt": "As vitrines são magníficas." },
+        { "level": "A2-B1", "fr": "La robe est dans la vitrine.", "pt": "O vestido está na vitrine." },
+        { "level": "B2", "fr": "Les vitrines de l'avenue Montaigne attirent les regards.", "pt": "As vitrines da avenue Montaigne atraem os olhares." },
+        { "level": "C1-C2", "fr": "Les vitrines parisiennes transforment le shopping en art.", "pt": "As vitrines parisienses transformam as compras em arte." }
+      ]
+    },
+    {
+      "term": "vêtement",
+      "definitionPt": "roupa, vestuário",
+      "definitionFr": "Chose que l'on porte pour se couvrir.",
+      "inflections": ["le vêtement", "un vêtement", "des vêtements"],
+      "ptTargets": ["roupa", "vestuário"],
+      "examples": [
+        { "level": "A1", "fr": "Andréa adore les vêtements.", "pt": "Andréa adora roupas." },
+        { "level": "A2-B1", "fr": "Ces vêtements sont très élégants.", "pt": "Estas roupas são muito elegantes." },
+        { "level": "B2", "fr": "Les vêtements de cette boutique sont chers.", "pt": "As roupas desta loja são caras." },
+        { "level": "C1-C2", "fr": "Le vêtement exprime une part de l'identité de chacun.", "pt": "A roupa expressa uma parte da identidade de cada um." }
+      ]
+    },
+    {
+      "term": "robe",
+      "definitionPt": "vestido",
+      "definitionFr": "Vêtement féminin qui couvre le corps.",
+      "inflections": ["la robe", "une robe", "des robes"],
+      "ptTargets": ["vestido"],
+      "examples": [
+        { "level": "A1", "fr": "Il y a une robe rouge dans la vitrine.", "pt": "Há um vestido vermelho na vitrine." },
+        { "level": "A2-B1", "fr": "La robe rouge est très jolie.", "pt": "O vestido vermelho é muito bonito." },
+        { "level": "B2", "fr": "Elle rêve d'une robe de haute couture.", "pt": "Ela sonha com um vestido de alta-costura." },
+        { "level": "C1-C2", "fr": "La robe de couture est un objet d'art à part entière.", "pt": "O vestido de alta-costura é um objeto de arte por direito próprio." }
+      ]
+    },
+    {
+      "term": "chaussure",
+      "definitionPt": "sapato",
+      "definitionFr": "Vêtement que l'on porte aux pieds.",
+      "inflections": ["la chaussure", "une chaussure", "des chaussures"],
+      "ptTargets": ["sapato"],
+      "examples": [
+        { "level": "A1", "fr": "Les chaussures sont noires.", "pt": "Os sapatos são pretos." },
+        { "level": "A2-B1", "fr": "J'aime ces chaussures rouges.", "pt": "Eu gosto destes sapatos vermelhos." },
+        { "level": "B2", "fr": "Elle choisit ses chaussures avec soin.", "pt": "Ela escolhe os sapatos com cuidado." },
+        { "level": "C1-C2", "fr": "Une paire de chaussures élégante complète une tenue.", "pt": "Um par de sapatos elegante completa uma produção." }
+      ]
+    },
+    {
+      "term": "porter",
+      "definitionPt": "usar, vestir, carregar",
+      "definitionFr": "Avoir un vêtement sur soi, ou tenir quelque chose.",
+      "inflections": ["je porte", "porter", "il porte"],
+      "ptTargets": ["usar", "vestir", "carregar"],
+      "examples": [
+        { "level": "A1", "fr": "Je porterai une robe rouge !", "pt": "Eu usarei um vestido vermelho!" },
+        { "level": "A2-B1", "fr": "Elle porte une jolie robe bleue.", "pt": "Ela usa um vestido azul bonito." },
+        { "level": "B2", "fr": "Il porte ses colis en scooter.", "pt": "Ele carrega os seus pacotes de scooter." },
+        { "level": "C1-C2", "fr": "Porter une tenue élégante change la perception de soi.", "pt": "Usar uma produção elegante muda a percepção de si mesmo." }
+      ]
+    },
+    {
+      "term": "manteau",
+      "definitionPt": "casaco",
+      "definitionFr": "Vêtement chaud que l'on porte par-dessus les autres.",
+      "inflections": ["le manteau", "un manteau", "des manteaux"],
+      "ptTargets": ["casaco"],
+      "examples": [
+        { "level": "A1", "fr": "Andréa essaie un manteau bleu.", "pt": "Andréa prova um casaco azul." },
+        { "level": "A2-B1", "fr": "Le manteau est chaud et élégant.", "pt": "O casaco é quente e elegante." },
+        { "level": "B2", "fr": "Un bon manteau est essentiel en hiver.", "pt": "Um bom casaco é essencial no inverno." },
+        { "level": "C1-C2", "fr": "Le manteau de couture allie fonction et raffinement.", "pt": "O casaco de alta-costura alia função e refinamento." }
+      ]
+    },
+    {
+      "term": "colis",
+      "definitionPt": "pacote, encomenda",
+      "definitionFr": "Paquet que l'on envoie ou que l'on livre.",
+      "inflections": ["le colis", "un colis", "des colis"],
+      "ptTargets": ["pacote", "encomenda"],
+      "examples": [
+        { "level": "A1", "fr": "Il livrait des colis aux boutiques.", "pt": "Ele entregava pacotes nas lojas." },
+        { "level": "A2-B1", "fr": "Le colis est arrivé ce matin.", "pt": "O pacote chegou esta manhã." },
+        { "level": "B2", "fr": "Les livreurs transportent des colis toute la journée.", "pt": "Os entregadores transportam pacotes o dia inteiro." },
+        { "level": "C1-C2", "fr": "La livraison de colis est devenue un pilier du commerce moderne.", "pt": "A entrega de pacotes tornou-se um pilar do comércio moderno." }
+      ]
+    },
+    {
+      "term": "sac",
+      "definitionPt": "bolsa, sacola",
+      "definitionFr": "Objet pour porter des choses.",
+      "inflections": ["le sac", "un sac", "des sacs"],
+      "ptTargets": ["bolsa", "sacola"],
+      "examples": [
+        { "level": "A1", "fr": "Les sacs étaient très beaux.", "pt": "As sacolas eram muito bonitas." },
+        { "level": "A2-B1", "fr": "Elle porte un sac rouge.", "pt": "Ela carrega uma bolsa vermelha." },
+        { "level": "B2", "fr": "Le sac de la boutique est en papier élégant.", "pt": "A sacola da loja é de papel elegante." },
+        { "level": "C1-C2", "fr": "Le sac à main est devenu un objet de désir dans la mode.", "pt": "A bolsa tornou-se um objeto de desejo na moda." }
+      ]
+    },
+    {
+      "term": "élégant",
+      "definitionPt": "elegante",
+      "definitionFr": "Qui a de la grâce et du style.",
+      "inflections": ["élégant", "élégante", "élégants", "élégantes"],
+      "ptTargets": ["elegante"],
+      "examples": [
+        { "level": "A1", "fr": "Les boutiques sont élégantes.", "pt": "As lojas são elegantes." },
+        { "level": "A2-B1", "fr": "C'est une rue très élégante.", "pt": "É uma rua muito elegante." },
+        { "level": "B2", "fr": "Les vêtements élégants donnent confiance.", "pt": "Roupas elegantes dão confiança." },
+        { "level": "C1-C2", "fr": "L'élégance française est un art de vivre reconnu dans le monde.", "pt": "A elegância francesa é uma arte de viver reconhecida no mundo." }
+      ]
+    },
+    {
+      "term": "rêver",
+      "definitionPt": "sonhar",
+      "definitionFr": "Imaginer des choses agréables.",
+      "inflections": ["je rêve", "rêver", "il rêve"],
+      "ptTargets": ["sonhar"],
+      "examples": [
+        { "level": "A1", "fr": "Íris rêve de robes magnifiques.", "pt": "Íris sonha com vestidos magníficos." },
+        { "level": "A2-B1", "fr": "Je rêve de visiter Paris.", "pt": "Eu sonho em visitar Paris." },
+        { "level": "B2", "fr": "Elle rêve de devenir créatrice de mode.", "pt": "Ela sonha em se tornar estilista." },
+        { "level": "C1-C2", "fr": "Rêver, c'est déjà voyager.", "pt": "Sonhar já é viajar." }
+      ]
+    },
+    {
+      "term": "essayer",
+      "definitionPt": "provar, experimentar",
+      "definitionFr": "Mettre un vêtement pour voir s'il va bien.",
+      "inflections": ["j'essaie", "essayer", "il essaie"],
+      "ptTargets": ["provar", "experimentar"],
+      "examples": [
+        { "level": "A1", "fr": "Andréa essaie un manteau bleu.", "pt": "Andréa prova um casaco azul." },
+        { "level": "A2-B1", "fr": "Je veux essayer cette robe.", "pt": "Eu quero provar este vestido." },
+        { "level": "B2", "fr": "Elle essaie plusieurs manteaux dans la boutique.", "pt": "Ela prova vários casacos na loja." },
+        { "level": "C1-C2", "fr": "Essayer un vêtement de couture est une expérience unique.", "pt": "Provar uma roupa de alta-costura é uma experiência única." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Le verbe porter au présent",
+    "explanationPt": "O verbo 'porter' (usar, vestir, carregar) é regular do 1º grupo: je porte, tu portes, il/elle porte, nous portons, vous portez, ils/elles portent. Ex.: 'Elle porte une robe rouge.'",
+    "exampleFr": "Elle porte une jolie robe bleue.",
+    "examplePt": "Ela usa um vestido azul bonito.",
+    "practiceQuestion": "Complete com a forma correta: 'Nous _____ des vêtements élégants.'",
+    "options": ["portons", "porte", "portent"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "Le verbe porter au présent",
+        "explanationPt": "'porter' é regular: je porte, nous portons, ils portent. Ex.: 'Il porte ses colis en scooter.'",
+        "exampleFr": "Il porte ses colis en scooter.",
+        "examplePt": "Ele carrega os seus pacotes de scooter.",
+        "practiceQuestion": "Complete: 'Ils _____ de beaux vêtements à la fête.'",
+        "options": ["portent", "portons", "porte"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "Les couleurs et l'accord des adjectifs",
+        "explanationPt": "As cores concordam em gênero e número: rouge (invariável no fem. para 'rouge'? não — rouge é invariável: une robe rouge), noir → noire, bleu → bleue, blanc → blanche. Ex.: 'une robe rouge', 'des chaussures noires'.",
+        "exampleFr": "Il y a une robe rouge et des chaussures noires dans la vitrine.",
+        "examplePt": "Há um vestido vermelho e sapatos pretos na vitrine.",
+        "practiceQuestion": "Complete com o adjetivo correto: 'Andréa essaie un manteau _____.'",
+        "options": ["bleu", "bleue", "bleus"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Complete a frase do texto: 'Il y a une robe _____ et des chaussures noires dans la vitrine.'",
+      "options": ["rouge", "bleue", "verte"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'Dans une vitrine, il y a une robe rouge et des chaussures noires.'"
+    },
+    {
+      "question": "Ordene corretamente as palavras da frase: [ essaie / Andréa / un manteau / bleu / ]",
+      "options": [
+        "Andréa essaie un manteau bleu.",
+        "Un manteau essaie Andréa bleu.",
+        "Andréa un manteau essaie bleu."
+      ],
+      "correctIndex": 0,
+      "explanation": "A frase exata do texto é 'Andréa essaie un manteau bleu dans une boutique.'"
+    },
+    {
+      "question": "Como se traduz: 'Ela usa um vestido azul bonito'?",
+      "options": [
+        "Elle porte une jolie robe bleue.",
+        "Elle porte une jolie robe bleu.",
+        "Elle porte un jolie robe bleue."
+      ],
+      "correctIndex": 0,
+      "explanation": "'porte' = usa; 'une jolie robe bleue' = um vestido azul bonito (concordância feminina)."
+    },
+    {
+      "question": "Identifique a frase com ERRO de concordância da cor:",
+      "options": [
+        "Une robe rouge.",
+        "Des chaussures noires.",
+        "Un manteau bleue."
+      ],
+      "correctIndex": 2,
+      "explanation": "O erro é 'Un manteau bleue': 'manteau' é masculino, o correto é 'bleu'."
+    },
+    {
+      "question": "Do que Irlan se lembra na avenue Montaigne?",
+      "options": [
+        "Das entregas de pacotes que fazia de scooter para as boutiques",
+        "Das suas aulas de geografia no Brasil",
+        "Da primeira vez que visitou a Torre Eiffel"
+      ],
+      "correctIndex": 0,
+      "explanation": "No texto: 'quand il était livreur, il livrait des colis aux boutiques de la rue.'"
+    }
+  ]
+}

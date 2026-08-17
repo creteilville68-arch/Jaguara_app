@@ -1,0 +1,252 @@
+{
+  "id": "mont_saint_michel_lesson_32",
+  "cityId": "mont-saint-michel",
+  "domain": "Cotidiano",
+  "level": "Básico (A2/B1)",
+  "titleFr": "Les artisans de la Grande Rue",
+  "titlePt": "Os artesãos da Grande Rue",
+  "subtitleFr": "Potiers, sculpteurs et fabricants de souvenirs : les mains du Mont",
+  "subtitlePt": "Ceramistas, escultores e fabricantes de lembranças: as mãos do Mont",
+  "summaryPt": "Nesta Aula 32 (A2/B1), a família observa os artesãos que trabalham na Grande Rue: um ceramista molda argila, um escultor talha a madeira, um fabricante de doces prepara os famosos biscoitos. O aluno pratica a descrição de profissões e de gestos no imparfait (il travaillait, il façonnait) e o vocabulário do trabalho manual.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Dans sa petite boutique, le potier façonnait l'argile. Ses mains tournaient, la terre montait. « Regardez comme il travaille », a dit Andréa. « C'est de l'art. »",
+      "pt": "Em sua pequena loja, o ceramista moldava a argila. Suas mãos giravam, a terra subia. « Olhem como ele trabalha », disse Andréa. « É arte. »"
+    },
+    {
+      "id": 2,
+      "fr": "Plus loin, un sculpteur taillait le granit. « Il fait des statues du Mont », a expliqué Irlan. « Chaque morceau de pierre devient une petite Merveille. »",
+      "pt": "Mais adiante, um escultor talhava o granito. « Ele faz estátuas do Mont », explicou Irlan. « Cada pedaço de pedra vira uma pequena Merveille. »"
+    },
+    {
+      "id": 3,
+      "fr": "Le fabricant de gâteaux préparait les biscuits aux amandes. L'odeur remplissait la rue. Íris a demandé : « On peut goûter ? » Tout le monde a ri.",
+      "pt": "O fabricante de bolos preparava os biscoitos de amêndoa. O cheiro enchia a rua. Íris perguntou: « Podemos provar? » Todos riram."
+    },
+    {
+      "id": 4,
+      "fr": "« Quand je livrais des colis, je voyais les artisans travailler par les fenêtres », a dit Irlan. « Aujourd'hui, je prends le temps de les regarder. »",
+      "pt": "« Quando entregava pacotes, via os artesãos trabalhando pelas janelas », disse Irlan. « Hoje, tiro tempo para observá-los. »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "l'artisan",
+      "definitionPt": "o artesão",
+      "definitionFr": "Personne qui travaille de ses mains.",
+      "inflections": ["l'artisan", "une artisane", "des artisans"],
+      "ptTargets": ["artesão"],
+      "examples": [
+        { "level": "A1", "fr": "L'artisan travaille.", "pt": "O artesão trabalha." },
+        { "level": "A2-B1", "fr": "Les artisans de la Grande Rue sont nombreux.", "pt": "Os artesãos da Grande Rue são numerosos." },
+        { "level": "B2", "fr": "Les artisans transmettent leur savoir de génération en génération.", "pt": "Os artesãos transmitem seu saber de geração em geração." },
+        { "level": "C1-C2", "fr": "L'artisan donne à la matière une âme que l'usine ne connaît pas.", "pt": "O artesão dá à matéria uma alma que a fábrica não conhece." }
+      ]
+    },
+    {
+      "term": "le potier",
+      "definitionPt": "o ceramista, o oleiro",
+      "definitionFr": "Artisan qui travaille l'argile.",
+      "inflections": ["le potier", "la potière", "des potiers"],
+      "ptTargets": ["ceramista", "oleiro"],
+      "examples": [
+        { "level": "A1", "fr": "Le potier fait des pots.", "pt": "O ceramista faz potes." },
+        { "level": "A2-B1", "fr": "Le potier façonnait l'argile dans sa boutique.", "pt": "O ceramista moldava a argila em sua loja." },
+        { "level": "B2", "fr": "Le potier crée des objets uniques à la main.", "pt": "O ceramista cria objetos únicos à mão." },
+        { "level": "C1-C2", "fr": "Entre ses mains, la terre oublie qu'elle est terre.", "pt": "Entre suas mãos, a terra esquece que é terra." }
+      ]
+    },
+    {
+      "term": "l'argile",
+      "definitionPt": "a argila",
+      "definitionFr": "Terre utilisée pour la poterie.",
+      "inflections": ["l'argile", "une argile", "des argiles"],
+      "ptTargets": ["argila"],
+      "examples": [
+        { "level": "A1", "fr": "L'argile est molle.", "pt": "A argila é macia." },
+        { "level": "A2-B1", "fr": "Le potier façonnait l'argile.", "pt": "O ceramista moldava a argila." },
+        { "level": "B2", "fr": "L'argile de la baie a une couleur unique.", "pt": "A argila da baía tem uma cor única." },
+        { "level": "C1-C2", "fr": "L'argile garde l'empreinte des doigts de l'artisan.", "pt": "A argila guarda a impressão dos dedos do artesão." }
+      ]
+    },
+    {
+      "term": "façonner",
+      "definitionPt": "moldar, modelar",
+      "definitionFr": "Donner une forme à la main.",
+      "inflections": ["je façonne", "nous façonnons", "façonné"],
+      "ptTargets": ["moldar", "modelar"],
+      "examples": [
+        { "level": "A1", "fr": "Je façonne la pâte.", "pt": "Moldo a massa." },
+        { "level": "A2-B1", "fr": "Le potier façonnait l'argile avec ses mains.", "pt": "O ceramista moldava a argila com as mãos." },
+        { "level": "B2", "fr": "Il a façonné un petit Mont en quelques minutes.", "pt": "Ele moldou um pequeno Mont em poucos minutos." },
+        { "level": "C1-C2", "fr": "Façonner la matière, c'est dialoguer avec elle.", "pt": "Moldar a matéria é dialogar com ela." }
+      ]
+    },
+    {
+      "term": "le sculpteur",
+      "definitionPt": "o escultor",
+      "definitionFr": "Artiste qui taille la pierre.",
+      "inflections": ["le sculpteur", "la sculptrice", "des sculpteurs"],
+      "ptTargets": ["escultor"],
+      "examples": [
+        { "level": "A1", "fr": "Le sculpteur travaille la pierre.", "pt": "O escultor trabalha a pedra." },
+        { "level": "A2-B1", "fr": "Le sculpteur taillait le granit.", "pt": "O escultor talhava o granito." },
+        { "level": "B2", "fr": "Le sculpteur donne vie à la pierre.", "pt": "O escultor dá vida à pedra." },
+        { "level": "C1-C2", "fr": "Le sculpteur enlève la pierre pour révéler la forme cachée.", "pt": "O escultor remove a pedra para revelar a forma escondida." }
+      ]
+    },
+    {
+      "term": "tailler",
+      "definitionPt": "talhar, esculpir",
+      "definitionFr": "Couper, façonner avec un outil.",
+      "inflections": ["je taille", "nous taillons", "taillé"],
+      "ptTargets": ["talhar", "esculpir"],
+      "examples": [
+        { "level": "A1", "fr": "Je taille un crayon.", "pt": "Aponto um lápis." },
+        { "level": "A2-B1", "fr": "Le sculpteur taillait le granit.", "pt": "O escultor talhava o granito." },
+        { "level": "B2", "fr": "Il a taillé une petite abbaye dans la pierre.", "pt": "Ele talhou uma pequena abadia na pedra." },
+        { "level": "C1-C2", "fr": "Tailler la pierre, c'est écouter ce qu'elle veut devenir.", "pt": "Talhar a pedra é ouvir o que ela quer se tornar." }
+      ]
+    },
+    {
+      "term": "le granit",
+      "definitionPt": "o granito",
+      "definitionFr": "Pierre dure.",
+      "inflections": ["le granit", "un granit", "des granits"],
+      "ptTargets": ["granito"],
+      "examples": [
+        { "level": "A1", "fr": "Le granit est gris.", "pt": "O granito é cinza." },
+        { "level": "A2-B1", "fr": "Le sculpteur travaille le granit.", "pt": "O escultor trabalha o granito." },
+        { "level": "B2", "fr": "Les statues de granit résistent à la mer.", "pt": "As estátuas de granito resistem ao mar." },
+        { "level": "C1-C2", "fr": "Le granit du Mont, poli par les siècles, a la couleur du temps.", "pt": "O granito do Mont, polido pelos séculos, tem a cor do tempo." }
+      ]
+    },
+    {
+      "term": "l'odeur",
+      "definitionPt": "o cheiro",
+      "definitionFr": "Parfum.",
+      "inflections": ["l'odeur", "une odeur", "des odeurs"],
+      "ptTargets": ["cheiro"],
+      "examples": [
+        { "level": "A1", "fr": "L'odeur est bonne.", "pt": "O cheiro é bom." },
+        { "level": "A2-B1", "fr": "L'odeur des gâteaux remplissait la rue.", "pt": "O cheiro dos bolos enchia a rua." },
+        { "level": "B2", "fr": "L'odeur du granit et de la mer flotte dans l'air.", "pt": "O cheiro de granito e de mar flutua no ar." },
+        { "level": "C1-C2", "fr": "Chaque boutique de la Grande Rue a son odeur et son histoire.", "pt": "Cada loja da Grande Rue tem seu cheiro e sua história." }
+      ]
+    },
+    {
+      "term": "goûter",
+      "definitionPt": "provar",
+      "definitionFr": "Essayer un aliment.",
+      "inflections": ["je goûte", "nous goûtons", "goûté"],
+      "ptTargets": ["provar"],
+      "examples": [
+        { "level": "A1", "fr": "Je goûte le gâteau.", "pt": "Provo o bolo." },
+        { "level": "A2-B1", "fr": "Íris a demandé si on pouvait goûter.", "pt": "Íris perguntou se podiam provar." },
+        { "level": "B2", "fr": "Goûtez ces biscuits, ils sont faits à la main.", "pt": "Provem estes biscoitos, são feitos à mão." },
+        { "level": "C1-C2", "fr": "Goûter le travail d'un artisan, c'est respecter ses mains.", "pt": "Provar o trabalho de um artesão é respeitar suas mãos." }
+      ]
+    },
+    {
+      "term": "le colis",
+      "definitionPt": "o pacote",
+      "definitionFr": "Paquet à livrer.",
+      "inflections": ["le colis", "un colis", "des colis"],
+      "ptTargets": ["pacote", "encomenda"],
+      "examples": [
+        { "level": "A1", "fr": "Le colis est lourd.", "pt": "O pacote é pesado." },
+        { "level": "A2-B1", "fr": "Irlan livrait des colis à Paris.", "pt": "Irlan entregava pacotes em Paris." },
+        { "level": "B2", "fr": "Chaque colis livré racontait une histoire.", "pt": "Cada pacote entregue contava uma história." },
+        { "level": "C1-C2", "fr": "Entre deux colis, le livreur entrevoyait des vies entières.", "pt": "Entre dois pacotes, o entregador vislumbrava vidas inteiras." }
+      ]
+    },
+    {
+      "term": "le biscuit",
+      "definitionPt": "o biscoito",
+      "definitionFr": "Petit gâteau sec.",
+      "inflections": ["le biscuit", "un biscuit", "des biscuits"],
+      "ptTargets": ["biscoito"],
+      "examples": [
+        { "level": "A1", "fr": "Le biscuit est sucré.", "pt": "O biscoito é doce." },
+        { "level": "A2-B1", "fr": "Les biscuits aux amandes sont une spécialité.", "pt": "Os biscoitos de amêndoa são uma especialidade." },
+        { "level": "B2", "fr": "Les biscuits faits maison sentent meilleur.", "pt": "Os biscoitos caseiros cheiram melhor." },
+        { "level": "C1-C2", "fr": "Dans chaque biscuit, il y a le geste précis de l'artisan.", "pt": "Em cada biscoito, há o gesto preciso do artesão." }
+      ]
+    },
+    {
+      "term": "transmettre",
+      "definitionPt": "transmitir",
+      "definitionFr": "Faire passer à d'autres.",
+      "inflections": ["je transmets", "nous transmettons", "transmis"],
+      "ptTargets": ["transmitir"],
+      "examples": [
+        { "level": "A1", "fr": "Je transmets le message.", "pt": "Transmito a mensagem." },
+        { "level": "A2-B1", "fr": "Les artisans transmettent leur savoir.", "pt": "Os artesãos transmitem seu saber." },
+        { "level": "B2", "fr": "Il a transmis son métier à son fils.", "pt": "Ele transmitiu seu ofício ao filho." },
+        { "level": "C1-C2", "fr": "Transmettre un geste, c'est offrir une part de soi.", "pt": "Transmitir um gesto é oferecer uma parte de si." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Décrire les gestes de l'artisan à l'imparfait",
+    "explanationPt": "Gestos contínuos no passado = imparfait: 'le potier façonnait l'argile' (o ceramista moldava a argila), 'ses mains tournaient' (suas mãos giravam), 'l'odeur remplissait la rue' (o cheiro enchia a rua).",
+    "exampleFr": "Le potier façonnait l'argile, le sculpteur taillait le granit et l'odeur des gâteaux remplissait la rue.",
+    "examplePt": "O ceramista moldava a argila, o escultor talhava o granito e o cheiro dos bolos enchia a rua.",
+    "practiceQuestion": "Complete: « Le potier ___ l'argile. »",
+    "options": ["façonnait", "a façonné", "façonnera"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "Les métiers : potier, sculpteur, fabricant",
+        "explanationPt": "Vocabulário dos ofícios: 'le potier' (ceramista), 'le sculpteur' (escultor), 'le fabricant de gâteaux' (fabricante de bolos), 'l'artisan' (artesão).",
+        "exampleFr": "Le potier, le sculpteur et le fabricant de gâteaux travaillent dans la même rue.",
+        "examplePt": "O ceramista, o escultor e o fabricante de bolos trabalham na mesma rua.",
+        "practiceQuestion": "Quem trabalha com argile?",
+        "options": ["Le potier", "Le sculpteur", "Le pêcheur"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "Demander à + infinitif : demander la permission",
+        "explanationPt": "'Demander à + infinitif' = pedir para: 'Íris a demandé à goûter' (Íris pediu para provar). Também: 'demander si' (perguntar se): 'elle a demandé si on pouvait goûter'.",
+        "exampleFr": "Íris a demandé si on pouvait goûter les biscuits.",
+        "examplePt": "Íris perguntou se podiam provar os biscoitos.",
+        "practiceQuestion": "Complete: « Íris a demandé ___ on pouvait goûter. »",
+        "options": ["si", "que", "qui"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "O que fazia o potier em sua loja?",
+      "options": ["Moldava a argila com as mãos", "Talhava o granito", "Vendia biscoitos"],
+      "correctIndex": 0,
+      "explanation": "O ceramista façonnait (moldava) a argila, fazendo a terra subir entre as mãos."
+    },
+    {
+      "question": "Complete: « Le potier ___ l'argile. »",
+      "options": ["façonnait", "a façonné", "façonnera"],
+      "correctIndex": 0,
+      "explanation": "Gestos contínuos no passado = imparfait: 'façonnait'."
+    },
+    {
+      "question": "O que o sculpteur fazia com o granit?",
+      "options": ["Talhava estátuas do Mont", "Construía muros", "Fazia pontes"],
+      "correctIndex": 0,
+      "explanation": "O escultor taillait o granito para fazer estátuas do Mont."
+    },
+    {
+      "question": "O que Íris pediu ao fabricante de gâteaux?",
+      "options": ["Para provar os biscoitos", "Para levar um pote", "Para ver o forno"],
+      "correctIndex": 0,
+      "explanation": "Íris perguntou se podiam goûter (provar) os biscoitos de amêndoa."
+    },
+    {
+      "question": "Complete: « Íris a demandé ___ on pouvait goûter. »",
+      "options": ["si", "que", "qui"],
+      "correctIndex": 0,
+      "explanation": "'Demander si' — perguntar se."
+    }
+  ]
+}

@@ -1,0 +1,252 @@
+{
+  "id": "nice_lesson_7",
+  "cityId": "nice",
+  "domain": "Gastronomia",
+  "level": "Avançado (C2)",
+  "titleFr": "La salade niçoise et les trésors de la table",
+  "titlePt": "A salada nissarda e os tesouros da mesa",
+  "subtitleFr": "Pan bagnat, pissaladière et les pièges des faux amis",
+  "subtitlePt": "Pan bagnat, pissaladière e as armadilhas dos falsos cognatos",
+  "summaryPt": "Nesta Aula 7 (C2), a família almoça no cours Saleya e prova a salade niçoise e o pan bagnat. O aluno descobre os falsos cognatos cultos ('demander', 'rester', 'assister') e o vocabulário da mesa, com as sutilezas lexicais do francês nativo.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Au restaurant du cours Saleya, la serveuse apporta une salade niçoise généreuse. « Attention, dit-elle en souriant, la vraie recette ne contient ni haricots verts ni pommes de terre. Les puristes n'y mettent que tomates, anchois, olives et œufs durs. »",
+      "pt": "No restaurante do cours Saleya, a garçonete trouxe uma salada nissarda generosa. « Atenção, disse ela sorrindo, a receita verdadeira não leva nem vagens nem batatas. Os puristas só colocam tomates, anchovas, azeitonas e ovos cozidos. »"
+    },
+    {
+      "id": 2,
+      "fr": "Irlan mordit dans un pan bagnat, le sandwich niçois par excellence. « Assister à la préparation de ce sandwich, dit-il, demande une école de patience : le pain doit être imbibé d'huile d'olive sans être détrempé. » Andréa rit : « Tu parles comme un critique gastronomique ! »",
+      "pt": "Irlan mordeu um pan bagnat, o sanduíche nissardo por excelência. « Assistir à preparação deste sanduíche, disse ele, exige uma escola de paciência: o pão deve ser embebido em azeite sem ficar encharcado. » Andréa riu: « Você fala como um crítico gastronômico! »"
+    },
+    {
+      "id": 3,
+      "fr": "Iris goûta une pissaladière, tarte aux oignons et anchois. « C'est une pizza sans fromage ! » s'exclama-t-elle. « Demander à un Niçois si c'est une pizza, répondit le serveur, serait une grave offense. Cette tarte existait bien avant la pizza moderne. »",
+      "pt": "Íris provou uma pissaladière, torta de cebolas e anchovas. « É uma pizza sem queijo! » exclamou ela. « Pedir a um nissardo se isso é uma pizza, respondeu o garçom, seria uma grave ofensa. Esta torta existia muito antes da pizza moderna. »"
+    },
+    {
+      "id": 4,
+      "fr": "En quittant le restaurant, Irlan réfléchit : « Le français est plein de faux amis. 'Rester' ne veut pas dire 'restar', 'demander' ne veut pas dire 'demandar', 'assister' ne veut pas dire 'assistir'. La langue, comme la cuisine, demande de la précision. »",
+      "pt": "Ao sair do restaurante, Irlan refletiu: « O francês está cheio de falsos cognatos. 'Rester' não significa 'restar', 'demander' não significa 'demandar', 'assister' não significa 'assistir'. A língua, como a cozinha, exige precisão. »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "la salade",
+      "definitionPt": "a salada",
+      "definitionFr": "Plat de légumes ou de crudités.",
+      "inflections": ["la salade", "les salades"],
+      "ptTargets": ["salada"],
+      "examples": [
+        { "level": "A1", "fr": "La salade est fraîche.", "pt": "A salada é fresca." },
+        { "level": "A2-B1", "fr": "La salade niçoise est célèbre.", "pt": "A salada nissarda é famosa." },
+        { "level": "B1-B2", "fr": "La salade, généreuse, se partage au soleil.", "pt": "A salada, generosa, se partilha ao sol." },
+        { "level": "C1-C2", "fr": "C'est la salade niçoise qui, simple et parfaite, résume la cuisine du Sud.", "pt": "É a salada nissarda que, simples e perfeita, resume a cozinha do Sul." }
+      ]
+    },
+    {
+      "term": "la tomate",
+      "definitionPt": "o tomate",
+      "definitionFr": "Fruit rouge de la tomate.",
+      "inflections": ["la tomate", "les tomates"],
+      "ptTargets": ["tomate"],
+      "examples": [
+        { "level": "A1", "fr": "La tomate est rouge.", "pt": "O tomate é vermelho." },
+        { "level": "A2-B1", "fr": "La salade contient des tomates.", "pt": "A salada contém tomates." },
+        { "level": "B1-B2", "fr": "Les tomates, mûres au soleil, parfument le marché.", "pt": "Os tomates, maduros ao sol, perfumam o mercado." },
+        { "level": "C1-C2", "fr": "C'est la tomate de Nice qui, gorgée de soleil, donne son goût à la salade.", "pt": "É o tomate de Nice que, cheio de sol, dá seu gosto à salada." }
+      ]
+    },
+    {
+      "term": "l'anchois",
+      "definitionPt": "a anchova",
+      "definitionFr": "Petit poisson salé.",
+      "inflections": ["l'anchois", "les anchois"],
+      "ptTargets": ["anchova"],
+      "examples": [
+        { "level": "A1", "fr": "L'anchois est salé.", "pt": "A anchova é salgada." },
+        { "level": "A2-B1", "fr": "Les anchois sont dans la salade.", "pt": "As anchovas estão na salada." },
+        { "level": "B1-B2", "fr": "Les anchois, salés et fins, relèvent la pissaladière.", "pt": "As anchovas, salgadas e finas, realçam a pissaladière." },
+        { "level": "C1-C2", "fr": "C'est l'anchois qui, discret, donne à la cuisine niçoise sa profondeur.", "pt": "É a anchova que, discreta, dá à cozinha nissarda sua profundidade." }
+      ]
+    },
+    {
+      "term": "l'olive",
+      "definitionPt": "a azeitona",
+      "definitionFr": "Fruit de l'olivier.",
+      "inflections": ["l'olive", "les olives"],
+      "ptTargets": ["azeitona", "oliva"],
+      "examples": [
+        { "level": "A1", "fr": "L'olive est verte.", "pt": "A azeitona é verde." },
+        { "level": "A2-B1", "fr": "Les olives sont sur la table.", "pt": "As azeitonas estão na mesa." },
+        { "level": "B1-B2", "fr": "Les olives, noires et luisantes, parfument la salade.", "pt": "As azeitonas, pretas e brilhantes, perfumam a salada." },
+        { "level": "C1-C2", "fr": "C'est l'olive qui, avec l'huile, unit la table méditerranéenne.", "pt": "É a azeitona que, com o azeite, une a mesa mediterrânea." }
+      ]
+    },
+    {
+      "term": "le sandwich",
+      "definitionPt": "o sanduíche",
+      "definitionFr": "Aliment composé de deux tranches de pain.",
+      "inflections": ["le sandwich", "les sandwiches"],
+      "ptTargets": ["sanduíche"],
+      "examples": [
+        { "level": "A1", "fr": "Le sandwich est bon.", "pt": "O sanduíche é bom." },
+        { "level": "A2-B1", "fr": "Le pan bagnat est un sandwich.", "pt": "O pan bagnat é um sanduíche." },
+        { "level": "B1-B2", "fr": "Le sandwich, préparé à l'avance, se mange sur la plage.", "pt": "O sanduíche, preparado antes, se come na praia." },
+        { "level": "C1-C2", "fr": "C'est le sandwich qui, simple, accompagne les journées de Riviera.", "pt": "É o sanduíche que, simples, acompanha os dias de Riviera." }
+      ]
+    },
+    {
+      "term": "le pain",
+      "definitionPt": "o pão",
+      "definitionFr": "Aliment à base de farine.",
+      "inflections": ["le pain", "les pains"],
+      "ptTargets": ["pão"],
+      "examples": [
+        { "level": "A1", "fr": "Le pain est frais.", "pt": "O pão é fresco." },
+        { "level": "A2-B1", "fr": "Le pan bagnat se fait avec du pain rond.", "pt": "O pan bagnat é feito com pão redondo." },
+        { "level": "B1-B2", "fr": "Le pain, imbibé d'huile, devient moelleux.", "pt": "O pão, embebido em azeite, fica macio." },
+        { "level": "C1-C2", "fr": "C'est le pain qui, bien préparé, fait toute la différence du pan bagnat.", "pt": "É o pão que, bem preparado, faz toda a diferença do pan bagnat." }
+      ]
+    },
+    {
+      "term": "l'huile",
+      "definitionPt": "o azeite (óleo)",
+      "definitionFr": "Matière grasse liquide.",
+      "inflections": ["l'huile", "les huiles"],
+      "ptTargets": ["azeite", "óleo"],
+      "examples": [
+        { "level": "A1", "fr": "L'huile est dorée.", "pt": "O azeite é dourado." },
+        { "level": "A2-B1", "fr": "L'huile d'olive est précieuse.", "pt": "O azeite de oliva é precioso." },
+        { "level": "B1-B2", "fr": "L'huile, versée généreusement, imbibe le pain.", "pt": "O azeite, derramado generosamente, embebe o pão." },
+        { "level": "C1-C2", "fr": "C'est l'huile d'olive qui, verte et fruitée, scelle l'identité du Sud.", "pt": "É o azeite de oliva que, verde e frutado, sela a identidade do Sul." }
+      ]
+    },
+    {
+      "term": "l'oignon",
+      "definitionPt": "a cebola",
+      "definitionFr": "Légume au goût fort.",
+      "inflections": ["l'oignon", "les oignons"],
+      "ptTargets": ["cebola"],
+      "examples": [
+        { "level": "A1", "fr": "L'oignon est fort.", "pt": "A cebola é forte." },
+        { "level": "A2-B1", "fr": "La pissaladière contient des oignons.", "pt": "A pissaladière contém cebolas." },
+        { "level": "B1-B2", "fr": "Les oignons, confits lentement, deviennent sucrés.", "pt": "As cebolas, confitadas lentamente, ficam doces." },
+        { "level": "C1-C2", "fr": "C'est la cuisson lente des oignons qui fait la grandeur de la pissaladière.", "pt": "É o cozimento lento das cebolas que faz a grandeza da pissaladière." }
+      ]
+    },
+    {
+      "term": "la tarte",
+      "definitionPt": "a torta",
+      "definitionFr": "Pâtisserie salée ou sucrée.",
+      "inflections": ["la tarte", "les tartes"],
+      "ptTargets": ["torta"],
+      "examples": [
+        { "level": "A1", "fr": "La tarte est chaude.", "pt": "A torta é quente." },
+        { "level": "A2-B1", "fr": "La pissaladière est une tarte salée.", "pt": "A pissaladière é uma torta salgada." },
+        { "level": "B1-B2", "fr": "La tarte, dorée au four, embaume la rue.", "pt": "A torta, dourada no forno, perfuma a rua." },
+        { "level": "C1-C2", "fr": "C'est la tarte aux oignons qui, à Nice, rivalise avec la socca.", "pt": "É a torta de cebolas que, em Nice, rivaliza com a socca." }
+      ]
+    },
+    {
+      "term": "le critique",
+      "definitionPt": "o crítico",
+      "definitionFr": "Personne qui juge une œuvre ou un plat.",
+      "inflections": ["le critique", "les critiques"],
+      "ptTargets": ["crítico"],
+      "examples": [
+        { "level": "A1", "fr": "Le critique est sévère.", "pt": "O crítico é severo." },
+        { "level": "A2-B1", "fr": "Le critique goûte le plat.", "pt": "O crítico prova o prato." },
+        { "level": "B1-B2", "fr": "Le critique, précis, décrit les saveurs avec justesse.", "pt": "O crítico, preciso, descreve os sabores com justeza." },
+        { "level": "C1-C2", "fr": "C'est le critique gastronomique qui, par ses mots, immortalise une recette.", "pt": "É o crítico gastronômico que, por suas palavras, imortaliza uma receita." }
+      ]
+    },
+    {
+      "term": "la précision",
+      "definitionPt": "a precisão",
+      "definitionFr": "Exactitude, justesse.",
+      "inflections": ["la précision", "les précisions"],
+      "ptTargets": ["precisão"],
+      "examples": [
+        { "level": "A1", "fr": "La précision est utile.", "pt": "A precisão é útil." },
+        { "level": "A2-B1", "fr": "La cuisine demande de la précision.", "pt": "A cozinha exige precisão." },
+        { "level": "B1-B2", "fr": "La précision, dans la langue comme en cuisine, est une vertu.", "pt": "A precisão, na língua como na cozinha, é uma virtude." },
+        { "level": "C1-C2", "fr": "C'est la précision qui distingue le grand cuisinier du simple exécutant.", "pt": "É a precisão que distingue o grande cozinheiro do simples executor." }
+      ]
+    },
+    {
+      "term": "le puriste",
+      "definitionPt": "o purista",
+      "definitionFr": "Personne attachée à la tradition exacte.",
+      "inflections": ["le puriste", "les puristes"],
+      "ptTargets": ["purista"],
+      "examples": [
+        { "level": "A1", "fr": "Le puriste est exigeant.", "pt": "O purista é exigente." },
+        { "level": "A2-B1", "fr": "Les puristes défendent la recette traditionnelle.", "pt": "Os puristas defendem a receita tradicional." },
+        { "level": "B1-B2", "fr": "Les puristes, attachés aux origines, refusent les ajouts modernes.", "pt": "Os puristas, apegados às origens, recusam os acréscimos modernos." },
+        { "level": "C1-C2", "fr": "C'est le puriste qui, par sa rigueur, préserve l'authenticité d'un plat.", "pt": "É o purista que, por seu rigor, preserva a autenticidade de um prato." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Les faux amis : les pièges du lexique",
+    "explanationPt": "Os falsos cognatos cultos traem o falante de português: 'rester' = ficar (não 'restar'), 'demander' = pedir (não 'demandar'), 'assister' = presenciar (não 'assistir'). A precisão lexical é a marca do C2.",
+    "exampleFr": "« Demander » ne veut pas dire « demandar » en français.",
+    "examplePt": "« Demander » não significa « demandar » em francês.",
+    "practiceQuestion": "Qual é o significado correto de « demander »?",
+    "options": ["pedir", "demandar", "mandar"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "Assister : presenciar, não assistir",
+        "explanationPt": "'Assister à la préparation' significa presenciar/estar presente, não 'assistir' no sentido de ver TV. A sutileza evita o erro do lusófono.",
+        "exampleFr": "Assister à la préparation de ce sandwich demande de la patience.",
+        "examplePt": "Presenciar a preparação deste sanduíche exige paciência.",
+        "practiceQuestion": "Qual é o significado de « assister à un spectacle »?",
+        "options": ["estar presente num espetáculo", "dar assistência", "assistir passivamente na TV"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "Rester : ficar, não restar",
+        "explanationPt": "'Rester' significa permanecer: 'il reste peu de temps' (fica pouco tempo). O falso amigo do português 'restar' quase nunca se aplica.",
+        "exampleFr": "Rester à Nice, c'est apprendre à vivre lentement.",
+        "examplePt": "Ficar em Nice é aprender a viver devagar.",
+        "practiceQuestion": "Complete: « ___ à Nice, c'est apprendre à vivre lentement. »",
+        "options": ["Rester", "Restar", "Résister"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "O que a receita verdadeira da salade niçoise NÃO contém?",
+      "options": ["vagens e batatas", "tomates e anchovas", "azeitonas e ovos"],
+      "correctIndex": 0,
+      "explanation": "Os puristas não colocam nem haricots verts nem pommes de terre."
+    },
+    {
+      "question": "O que é o pan bagnat?",
+      "options": ["o sanduíche nissardo por excelência", "um peixe grelhado", "uma sobremesa de mel"],
+      "correctIndex": 0,
+      "explanation": "O pan bagnat é o sanduíche nissardo, com pão embebido em azeite."
+    },
+    {
+      "question": "O que é a pissaladière?",
+      "options": ["uma torta de cebolas e anchovas", "uma sopa de peixe", "um bolo de amêndoas"],
+      "correctIndex": 0,
+      "explanation": "A pissaladière é a torta de oignons et anchois."
+    },
+    {
+      "question": "Qual é o significado correto de « demander »?",
+      "options": ["pedir", "demandar", "mandar"],
+      "correctIndex": 0,
+      "explanation": "'Demander' significa pedir, não 'demandar'."
+    },
+    {
+      "question": "Qual é o significado de « assister à »?",
+      "options": ["estar presente em", "dar assistência", "assistir TV"],
+      "correctIndex": 0,
+      "explanation": "'Assister à un spectacle' é estar presente num espetáculo."
+    }
+  ]
+}

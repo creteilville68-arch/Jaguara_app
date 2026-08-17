@@ -1,0 +1,252 @@
+{
+  "id": "paris_lesson_28",
+  "cityId": "paris",
+  "domain": "Tecnologia & Cotidiano",
+  "level": "Iniciante (A1)",
+  "titleFr": "Le téléphone et les messages",
+  "titlePt": "O telefone e as mensagens",
+  "subtitleFr": "Appeler, envoyer un message, charger la batterie",
+  "subtitlePt": "Ligar, enviar mensagem, carregar a bateria",
+  "summaryPt": "Nesta Aula 28 (A1), a família usa o telefone para falar com a avó no Brasil. O aluno aprende o vocabulário da tecnologia (portable, écran, batterie, chargeur, réseau, application) e o verbo 'appeler', com a negação 'ne...pas'.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Ce soir, la famille appelle la grand-mère au Brésil. Iris prend le téléphone portable de son père. « Allô, mamie ! » dit-elle. « C'est moi, Iris ! » Sur l'écran, on voit la grand-mère qui sourit.",
+      "pt": "Esta noite, a família liga para a avó no Brasil. Íris pega o celular do pai. « Alô, vovó! » diz ela. « Sou eu, Íris! » Na tela, vê-se a avó sorrindo."
+    },
+    {
+      "id": 2,
+      "fr": "Irlan regarde son téléphone : « La batterie est presque vide. Où est le chargeur ? » Andréa rit : « Il est dans ta poche ! » Iris dit : « Papa, il faut éteindre l'écran pour économiser la batterie. »",
+      "pt": "Irlan olha seu celular: « A bateria está quase vazia. Onde está o carregador? » Andréa ri: « Está no seu bolso! » Íris diz: « Papai, é preciso apagar a tela para economizar bateria. »"
+    },
+    {
+      "id": 3,
+      "fr": "Après la conversation, Irlan envoie un message à sa sœur au Brésil. « Je t'envoie une photo de la Tour Eiffel », écrit-il. « Le réseau est bon ce soir », dit-il. Andréa répond : « Et la photo est très belle ! »",
+      "pt": "Depois da conversa, Irlan envia uma mensagem para sua irmã no Brasil. « Envio uma foto da Torre Eiffel », escreve ele. « O sinal está bom esta noite », diz ele. Andréa responde: « E a foto está muito bonita! »"
+    },
+    {
+      "id": 4,
+      "fr": "Avant de dormir, Iris regarde une application de dessin sur le téléphone. « Ne regarde pas l'écran trop longtemps ! » dit Andréa. Iris éteint le téléphone : « Bonne nuit, mamie ! Bonne nuit, Paris ! »",
+      "pt": "Antes de dormir, Íris olha um aplicativo de desenho no celular. « Não olhe a tela por muito tempo! » diz Andréa. Íris desliga o celular: « Boa noite, vovó! Boa noite, Paris! »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "le téléphone",
+      "definitionPt": "o telefone",
+      "definitionFr": "Appareil pour communiquer à distance.",
+      "inflections": ["le téléphone", "un téléphone", "des téléphones"],
+      "ptTargets": ["telefone"],
+      "examples": [
+        { "level": "A1", "fr": "Le téléphone sonne.", "pt": "O telefone toca." },
+        { "level": "A2-B1", "fr": "La famille appelle avec le téléphone.", "pt": "A família liga com o telefone." },
+        { "level": "B2", "fr": "Le téléphone est devenu indispensable au quotidien.", "pt": "O telefone tornou-se indispensável no cotidiano." },
+        { "level": "C1-C2", "fr": "C'est le téléphone qui, en rapprochant les distances, a changé nos vies.", "pt": "É o telefone que, ao aproximar as distâncias, mudou nossas vidas." }
+      ]
+    },
+    {
+      "term": "le portable",
+      "definitionPt": "o celular",
+      "definitionFr": "Téléphone mobile.",
+      "inflections": ["le portable", "un portable", "des portables"],
+      "ptTargets": ["celular", "telemóvel"],
+      "examples": [
+        { "level": "A1", "fr": "Le portable est dans la poche.", "pt": "O celular está no bolso." },
+        { "level": "A2-B1", "fr": "Iris prend le portable de son père.", "pt": "Íris pega o celular do pai." },
+        { "level": "B2", "fr": "Les portables, omniprésents, accompagnent nos journées.", "pt": "Os celulares, onipresentes, acompanham nossos dias." },
+        { "level": "C1-C2", "fr": "C'est le portable qui, petit, contient pourtant toute une vie.", "pt": "É o celular que, pequeno, contém no entanto uma vida inteira." }
+      ]
+    },
+    {
+      "term": "appeler",
+      "definitionPt": "ligar (chamar)",
+      "definitionFr": "Contacter par téléphone.",
+      "inflections": ["appeler", "j'appelle", "nous appelons"],
+      "ptTargets": ["ligar", "chamar", "telefonar"],
+      "examples": [
+        { "level": "A1", "fr": "J'appelle ma grand-mère.", "pt": "Eu ligo para minha avó." },
+        { "level": "A2-B1", "fr": "La famille appelle le Brésil le soir.", "pt": "A família liga para o Brasil à noite." },
+        { "level": "B2", "fr": "Il appelle son frère pour son anniversaire.", "pt": "Ele liga para o irmão no aniversário dele." },
+        { "level": "C1-C2", "fr": "C'est en appelant que l'on entend la voix qui manque.", "pt": "É ligando que se ouve a voz que faz falta." }
+      ]
+    },
+    {
+      "term": "le message",
+      "definitionPt": "a mensagem",
+      "definitionFr": "Texte envoyé par téléphone.",
+      "inflections": ["le message", "un message", "des messages"],
+      "ptTargets": ["mensagem"],
+      "examples": [
+        { "level": "A1", "fr": "Le message arrive vite.", "pt": "A mensagem chega rápido." },
+        { "level": "A2-B1", "fr": "Irlan envoie un message à sa sœur.", "pt": "Irlan envia uma mensagem para a irmã." },
+        { "level": "B2", "fr": "Les messages, courts, rythment nos journées.", "pt": "As mensagens, curtas, ritmam nossos dias." },
+        { "level": "C1-C2", "fr": "C'est le message qui, bien choisi, dit plus que mille mots.", "pt": "É a mensagem que, bem escolhida, diz mais que mil palavras." }
+      ]
+    },
+    {
+      "term": "l'écran",
+      "definitionPt": "a tela",
+      "definitionFr": "Surface d'affichage.",
+      "inflections": ["l'écran", "un écran", "des écrans"],
+      "ptTargets": ["tela", "ecrã"],
+      "examples": [
+        { "level": "A1", "fr": "L'écran est grand.", "pt": "A tela é grande." },
+        { "level": "A2-B1", "fr": "On voit la grand-mère sur l'écran.", "pt": "Vê-se a avó na tela." },
+        { "level": "B2", "fr": "Les écrans, nombreux, occupent une grande place dans nos vies.", "pt": "As telas, numerosas, ocupam um grande espaço em nossas vidas." },
+        { "level": "C1-C2", "fr": "C'est l'écran qui, allumé, relie les familles séparées par l'océan.", "pt": "É a tela que, acesa, liga as famílias separadas pelo oceano." }
+      ]
+    },
+    {
+      "term": "la batterie",
+      "definitionPt": "a bateria",
+      "definitionFr": "Réserve d'énergie d'un appareil.",
+      "inflections": ["la batterie", "une batterie", "des batteries"],
+      "ptTargets": ["bateria"],
+      "examples": [
+        { "level": "A1", "fr": "La batterie est vide.", "pt": "A bateria está vazia." },
+        { "level": "A2-B1", "fr": "La batterie du téléphone est presque vide.", "pt": "A bateria do celular está quase vazia." },
+        { "level": "B2", "fr": "La batterie se recharge en une heure environ.", "pt": "A bateria recarrega em cerca de uma hora." },
+        { "level": "C1-C2", "fr": "C'est la batterie qui, faible, impose ses limites à nos journées connectées.", "pt": "É a bateria que, fraca, impõe seus limites aos nossos dias conectados." }
+      ]
+    },
+    {
+      "term": "le chargeur",
+      "definitionPt": "o carregador",
+      "definitionFr": "Appareil pour recharger la batterie.",
+      "inflections": ["le chargeur", "un chargeur", "des chargeurs"],
+      "ptTargets": ["carregador"],
+      "examples": [
+        { "level": "A1", "fr": "Le chargeur est dans la poche.", "pt": "O carregador está no bolso." },
+        { "level": "A2-B1", "fr": "Irlan cherche le chargeur du téléphone.", "pt": "Irlan procura o carregador do celular." },
+        { "level": "B2", "fr": "Les chargeurs sans fil deviennent courants.", "pt": "Os carregadores sem fio estão se tornando comuns." },
+        { "level": "C1-C2", "fr": "C'est le chargeur qui, oublié, transforme une batterie vide en problème du soir.", "pt": "É o carregador que, esquecido, transforma uma bateria vazia em problema da noite." }
+      ]
+    },
+    {
+      "term": "le réseau",
+      "definitionPt": "a rede (sinal)",
+      "definitionFr": "Système de communication.",
+      "inflections": ["le réseau", "un réseau", "des réseaux"],
+      "ptTargets": ["rede", "sinal"],
+      "examples": [
+        { "level": "A1", "fr": "Le réseau est bon.", "pt": "O sinal está bom." },
+        { "level": "A2-B1", "fr": "Le réseau fonctionne bien ce soir.", "pt": "O sinal funciona bem esta noite." },
+        { "level": "B2", "fr": "Les réseaux sociaux connectent les gens du monde entier.", "pt": "As redes sociais conectam pessoas do mundo inteiro." },
+        { "level": "C1-C2", "fr": "C'est le réseau qui, invisible, tisse la toile de notre temps.", "pt": "É a rede que, invisível, tece a teia do nosso tempo." }
+      ]
+    },
+    {
+      "term": "l'application",
+      "definitionPt": "o aplicativo",
+      "definitionFr": "Programme pour téléphone.",
+      "inflections": ["l'application", "une application", "des applications"],
+      "ptTargets": ["aplicativo", "app"],
+      "examples": [
+        { "level": "A1", "fr": "L'application est gratuite.", "pt": "O aplicativo é gratuito." },
+        { "level": "A2-B1", "fr": "Iris regarde une application de dessin.", "pt": "Íris olha um aplicativo de desenho." },
+        { "level": "B2", "fr": "Les applications de livraison ont changé le travail d'Irlan.", "pt": "Os aplicativos de entrega mudaram o trabalho de Irlan." },
+        { "level": "C1-C2", "fr": "C'est l'application qui, bien conçue, simplifie la vie quotidienne.", "pt": "É o aplicativo que, bem projetado, simplifica a vida cotidiana." }
+      ]
+    },
+    {
+      "term": "sonner",
+      "definitionPt": "tocar (telefone, campainha)",
+      "definitionFr": "Émettre un son.",
+      "inflections": ["sonner", "ça sonne", "le téléphone sonne"],
+      "ptTargets": ["tocar", "soar"],
+      "examples": [
+        { "level": "A1", "fr": "Le téléphone sonne.", "pt": "O telefone toca." },
+        { "level": "A2-B1", "fr": "Le téléphone sonne et Iris répond.", "pt": "O telefone toca e Íris atende." },
+        { "level": "B2", "fr": "Le téléphone sonne rarement le dimanche.", "pt": "O telefone toca raramente no domingo." },
+        { "level": "C1-C2", "fr": "C'est le téléphone qui sonne qui, parfois, change le cours d'une journée.", "pt": "É o telefone que toca que, às vezes, muda o rumo de um dia." }
+      ]
+    },
+    {
+      "term": "allumer",
+      "definitionPt": "ligar (acender)",
+      "definitionFr": "Mettre en marche.",
+      "inflections": ["allumer", "j'allume", "nous allumons"],
+      "ptTargets": ["ligar", "acender"],
+      "examples": [
+        { "level": "A1", "fr": "J'allume le téléphone.", "pt": "Eu ligo o celular." },
+        { "level": "A2-B1", "fr": "Il faut allumer l'écran pour voir le message.", "pt": "É preciso ligar a tela para ver a mensagem." },
+        { "level": "B2", "fr": "Elle allume son portable chaque matin au réveil.", "pt": "Ela liga o celular toda manhã ao acordar." },
+        { "level": "C1-C2", "fr": "C'est en allumant l'écran que l'on entre dans le monde connecté.", "pt": "É ligando a tela que se entra no mundo conectado." }
+      ]
+    },
+    {
+      "term": "éteindre",
+      "definitionPt": "desligar (apagar)",
+      "definitionFr": "Arrêter, mettre hors service.",
+      "inflections": ["éteindre", "j'éteins", "nous éteignons"],
+      "ptTargets": ["desligar", "apagar"],
+      "examples": [
+        { "level": "A1", "fr": "J'éteins le téléphone.", "pt": "Eu desligo o celular." },
+        { "level": "A2-B1", "fr": "Iris éteint l'écran avant de dormir.", "pt": "Íris apaga a tela antes de dormir." },
+        { "level": "B2", "fr": "Il faut éteindre la lumière en quittant la pièce.", "pt": "É preciso apagar a luz ao sair do quarto." },
+        { "level": "C1-C2", "fr": "C'est en éteignant les écrans que l'on retrouve le silence.", "pt": "É desligando as telas que se reencontra o silêncio." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Le verbe appeler au présent",
+    "explanationPt": "O verbo 'appeler' (ligar/chamar) dobra o 'l': j'appelle, tu appelles, il/elle appelle, nous appelons, vous appelez, ils/elles appellent. Ex.: 'J'appelle ma grand-mère.'",
+    "exampleFr": "Ce soir, la famille appelle la grand-mère au Brésil.",
+    "examplePt": "Esta noite, a família liga para a avó no Brasil.",
+    "practiceQuestion": "Complete: 'J'_____ ma grand-mère ce soir.'",
+    "options": ["appelle", "appele", "appelons"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "La négation : ne...pas",
+        "explanationPt": "A negação rodeia o verbo: 'Ne regarde pas l'écran' (não olhe a tela), 'Je ne sais pas' (não sei). Ex.: 'Il ne regarde pas la télévision.'",
+        "exampleFr": "Ne regarde pas l'écran trop longtemps !",
+        "examplePt": "Não olhe a tela por muito tempo!",
+        "practiceQuestion": "Complete: 'Je _____ regarde _____ la télévision le soir.'",
+        "options": ["ne...pas", "pas...ne", "ne...plus"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "Économiser la batterie : o vocabulário do celular",
+        "explanationPt": "Expressões úteis: 'la batterie est vide' (a bateria acabou), 'économiser la batterie' (economizar bateria), 'le réseau est bon' (o sinal está bom), 'recharger' (recarregar).",
+        "exampleFr": "Il faut éteindre l'écran pour économiser la batterie.",
+        "examplePt": "É preciso apagar a tela para economizar bateria.",
+        "practiceQuestion": "Complete: 'Il faut éteindre l'écran pour économiser la _____ .'",
+        "options": ["batterie", "maison", "route"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Para quem a família liga nesta noite?",
+      "options": ["para a avó no Brasil", "para o correio", "para o médico"],
+      "correctIndex": 0,
+      "explanation": "La famille appelle la grand-mère au Brésil."
+    },
+    {
+      "question": "O que Irlan procura?",
+      "options": ["o carregador do celular", "a chave do carro", "o guarda-chuva"],
+      "correctIndex": 0,
+      "explanation": "Irlan procura o chargeur — que está no próprio bolso."
+    },
+    {
+      "question": "O que é preciso fazer para economizar a bateria?",
+      "options": ["apagar a tela", "falar mais alto", "fechar a janela"],
+      "correctIndex": 0,
+      "explanation": "Il faut éteindre l'écran pour économiser la batterie."
+    },
+    {
+      "question": "Complete: 'J'_____ ma grand-mère ce soir.'",
+      "options": ["appelle", "appele", "appelons"],
+      "correctIndex": 0,
+      "explanation": "appeler no presente, je: j'appelle (dobra o l)."
+    },
+    {
+      "question": "Complete a negação: 'Je _____ regarde _____ la télévision le soir.'",
+      "options": ["ne...pas", "pas...ne", "ne...plus"],
+      "correctIndex": 0,
+      "explanation": "A negação em francês: ne + verbo + pas."
+    }
+  ]
+}

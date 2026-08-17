@@ -1,0 +1,252 @@
+{
+  "id": "toulouse_lesson_8",
+  "cityId": "toulouse",
+  "domain": "Natureza",
+  "level": "Intermediário (B2)",
+  "titleFr": "La Garonne et le Pont Neuf : le fleuve qui a fait Toulouse",
+  "titlePt": "O Garonne e o Pont Neuf: o rio que fez Toulouse",
+  "subtitleFr": "La promenade sur les quais et les arches du plus vieux pont de la ville",
+  "subtitlePt": "O passeio pelos cais e os arcos da ponte mais antiga da cidade",
+  "summaryPt": "Nesta Aula 8 (B2), a família passeia pelas margens do Garonne e descobre o Pont Neuf, a ponte mais antiga de Toulouse, construída no século XVI. O aluno revisa o Plus-que-parfait, EN/Y e as estruturas causais em um passeio pela natureza.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Sur les quais de la Garonne, Iris a regardé l'eau couler : « Ce fleuve, d'où vient-il ? » Irlan a répondu : « Il vient des Pyrénées, comme si la montagne nous envoyait un message. Avant le voyage, j'avais étudié son parcours : 647 kilomètres jusqu'à l'océan. »",
+      "pt": "Nos cais do Garonne, Íris olhou a água correr: « Este rio, de onde vem? » Irlan respondeu: « Ele vem dos Pireneus, como se a montanha nos mandasse uma mensagem. Antes da viagem, eu tinha estudado seu percurso: 647 quilômetros até o oceano. »"
+    },
+    {
+      "id": 2,
+      "fr": "La famille a traversé le Pont Neuf, ses sept arches de pierre. « C'est le plus vieux pont de Toulouse, a expliqué Andréa. Les pèlerins de Compostelle l'empruntaient déjà il y a quatre cents ans. On y voit la ville comme personne. »",
+      "pt": "A família atravessou o Pont Neuf, seus sete arcos de pedra. « É a ponte mais antiga de Toulouse, explicou Andréa. Os peregrinos de Compostela já a usavam há quatrocentos anos. Dela se vê a cidade como ninguém. »"
+    },
+    {
+      "id": 3,
+      "fr": "À cause de la brume du matin, la ville semblait flotter sur l'eau. « Puisque nous avons le fleuve devant nous, j'aurais aimé être géographe ici, a murmuré Irlan. À Paris, je livrais des repas ; ici, j'aurais cartographié les crues et les îles. »",
+      "pt": "Por causa da bruma da manhã, a cidade parecia flutuar sobre a água. « Já que temos o rio diante de nós, eu teria gostado de ser geógrafo aqui, murmurou Irlan. Em Paris, eu entregava refeições; aqui, eu teria cartografado as cheias e as ilhas. »"
+    },
+    {
+      "id": 4,
+      "fr": "Andréa a souri : « Tu as toujours été un géographe, même en scooter. Tu connaissais chaque rue, chaque raccourci, comme si tu avais dessiné la carte toi-même. » Iris a conclu : « Et moi, j'en ferai mon métier : dessiner les rivières du monde ! »",
+      "pt": "Andréa sorriu: « Você sempre foi geógrafo, mesmo de scooter. Você conhecia cada rua, cada atalho, como se tivesse desenhado o mapa você mesmo. » Íris concluiu: « E eu, farei disso minha profissão: desenhar os rios do mundo! »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "le fleuve",
+      "definitionPt": "o rio (que deságua no mar)",
+      "definitionFr": "Cours d'eau qui se jette dans la mer.",
+      "inflections": ["le fleuve", "les fleuves"],
+      "ptTargets": ["rio", "fluvial"],
+      "examples": [
+        { "level": "A1", "fr": "Le fleuve est long.", "pt": "O rio é comprido." },
+        { "level": "A2-B1", "fr": "La Garonne est un fleuve.", "pt": "O Garonne é um rio." },
+        { "level": "B1-B2", "fr": "Le fleuve, qui vient des Pyrénées, traverse toute la région.", "pt": "O rio, que vem dos Pireneus, atravessa toda a região." },
+        { "level": "C1-C2", "fr": "Les fleuves ont toujours déterminé l'emplacement et la prospérité des grandes cités.", "pt": "Os rios sempre determinaram a localização e a prosperidade das grandes cidades." }
+      ]
+    },
+    {
+      "term": "la rive",
+      "definitionPt": "a margem",
+      "definitionFr": "Bord d'un cours d'eau.",
+      "inflections": ["la rive", "les rives"],
+      "ptTargets": ["margem"],
+      "examples": [
+        { "level": "A1", "fr": "La rive est verte.", "pt": "A margem é verde." },
+        { "level": "A2-B1", "fr": "Les quais bordent les rives du fleuve.", "pt": "Os cais ladeiam as margens do rio." },
+        { "level": "B1-B2", "fr": "Les rives, aménagées en promenade, attirent les familles le dimanche.", "pt": "As margens, transformadas em passeio, atraem as famílias aos domingos." },
+        { "level": "C1-C2", "fr": "L'aménagement des rives urbaines est devenu un enjeu central de l'écologie des villes.", "pt": "A urbanização das margens tornou-se um tema central da ecologia das cidades." }
+      ]
+    },
+    {
+      "term": "l'arche",
+      "definitionPt": "o arco",
+      "definitionFr": "Ouverture en demi-cercle d'un pont.",
+      "inflections": ["l'arche", "les arches"],
+      "ptTargets": ["arco"],
+      "examples": [
+        { "level": "A1", "fr": "L'arche est grande.", "pt": "O arco é grande." },
+        { "level": "A2-B1", "fr": "Le Pont Neuf a sept arches.", "pt": "O Pont Neuf tem sete arcos." },
+        { "level": "B1-B2", "fr": "Les arches, construites au XVIe siècle, soutiennent le plus vieux pont de la ville.", "pt": "Os arcos, construídos no século XVI, sustentam a ponte mais antiga da cidade." },
+        { "level": "C1-C2", "fr": "Les arches du Pont Neuf témoignent du génie des bâtisseurs de la Renaissance.", "pt": "Os arcos do Pont Neuf testemunham o gênio dos construtores da Renascença." }
+      ]
+    },
+    {
+      "term": "la crue",
+      "definitionPt": "a cheia, a enchente",
+      "definitionFr": "Montée des eaux d'un cours d'eau.",
+      "inflections": ["la crue", "les crues"],
+      "ptTargets": ["cheia", "enchente"],
+      "examples": [
+        { "level": "A1", "fr": "La crue est dangereuse.", "pt": "A cheia é perigosa." },
+        { "level": "A2-B1", "fr": "Les crues de la Garonne sont célèbres.", "pt": "As cheias do Garonne são famosas." },
+        { "level": "B1-B2", "fr": "Les crues, qui montent très vite, ont marqué l'histoire de la ville.", "pt": "As cheias, que sobem muito rápido, marcaram a história da cidade." },
+        { "level": "C1-C2", "fr": "La géographie des crues, étudiée depuis des siècles, guide l'urbanisme toulousain.", "pt": "A geografia das cheias, estudada há séculos, orienta o urbanismo de Toulouse." }
+      ]
+    },
+    {
+      "term": "l'île",
+      "definitionPt": "a ilha",
+      "definitionFr": "Terre entourée d'eau.",
+      "inflections": ["l'île", "les îles"],
+      "ptTargets": ["ilha"],
+      "examples": [
+        { "level": "A1", "fr": "L'île est petite.", "pt": "A ilha é pequena." },
+        { "level": "A2-B1", "fr": "Il y a des îles sur la Garonne.", "pt": "Há ilhas no Garonne." },
+        { "level": "B1-B2", "fr": "Les îles du fleuve, qui changent avec les saisons, sont des refuges pour les oiseaux.", "pt": "As ilhas do rio, que mudam com as estações, são refúgios para as aves." },
+        { "level": "C1-C2", "fr": "L'étude des îles fluviales révèle la dynamique naturelle du fleuve.", "pt": "O estudo das ilhas fluviais revela a dinâmica natural do rio." }
+      ]
+    },
+    {
+      "term": "la brume",
+      "definitionPt": "a bruma, a névoa",
+      "definitionFr": "Brouillard léger.",
+      "inflections": ["la brume", "les brumes"],
+      "ptTargets": ["bruma", "névoa"],
+      "examples": [
+        { "level": "A1", "fr": "La brume est blanche.", "pt": "A bruma é branca." },
+        { "level": "A2-B1", "fr": "La brume du matin couvre le fleuve.", "pt": "A bruma da manhã cobre o rio." },
+        { "level": "B1-B2", "fr": "La brume, qui s'élève au lever du jour, donne un air de mystère à la ville.", "pt": "A bruma, que sobe ao amanhecer, dá um ar de mistério à cidade." },
+        { "level": "C1-C2", "fr": "Les brumes automnales de la Garonne ont inspiré peintres et poètes.", "pt": "As brumas outonais do Garonne inspiraram pintores e poetas." }
+      ]
+    },
+    {
+      "term": "cartographier",
+      "definitionPt": "cartografar, mapear",
+      "definitionFr": "Représenter un territoire sur une carte.",
+      "inflections": ["je cartographie", "nous cartographions"],
+      "ptTargets": ["cartografar", "mapear"],
+      "examples": [
+        { "level": "A1", "fr": "Je cartographie la ville.", "pt": "Eu mapeio a cidade." },
+        { "level": "A2-B1", "fr": "Le géographe cartographie les fleuves.", "pt": "O geógrafo cartografa os rios." },
+        { "level": "B1-B2", "fr": "Cartographier les crues, qui demande des années de données, est essentiel.", "pt": "Cartografar as cheias, que exige anos de dados, é essencial." },
+        { "level": "C1-C2", "fr": "Cartographier un territoire, c'est en révéler la géographie humaine et naturelle.", "pt": "Cartografar um território é revelar sua geografia humana e natural." }
+      ]
+    },
+    {
+      "term": "le raccourci",
+      "definitionPt": "o atalho",
+      "definitionFr": "Chemin plus court.",
+      "inflections": ["le raccourci", "les raccourcis"],
+      "ptTargets": ["atalho"],
+      "examples": [
+        { "level": "A1", "fr": "Le raccourci est court.", "pt": "O atalho é curto." },
+        { "level": "A2-B1", "fr": "Irlan connaissait tous les raccourcis de Paris.", "pt": "Irlan conhecia todos os atalhos de Paris." },
+        { "level": "B1-B2", "fr": "Les raccourcis, appris à force de livraisons, lui faisaient gagner des minutes précieuses.", "pt": "Os atalhos, aprendidos à força de entregas, lhe faziam ganhar minutos preciosos." },
+        { "level": "C1-C2", "fr": "La connaissance des raccourcis urbains est un savoir géographique informel précieux.", "pt": "O conhecimento dos atalhos urbanos é um saber geográfico informal precioso." }
+      ]
+    },
+    {
+      "term": "le message",
+      "definitionPt": "a mensagem",
+      "definitionFr": "Ce que l'on communique.",
+      "inflections": ["le message", "les messages"],
+      "ptTargets": ["mensagem"],
+      "examples": [
+        { "level": "A1", "fr": "Le message est court.", "pt": "A mensagem é curta." },
+        { "level": "A2-B1", "fr": "Le fleuve semble envoyer un message.", "pt": "O rio parece enviar uma mensagem." },
+        { "level": "B1-B2", "fr": "Les messages de la nature, qui passent par les saisons, sont faciles à lire.", "pt": "As mensagens da natureza, que passam pelas estações, são fáceis de ler." },
+        { "level": "C1-C2", "fr": "Le paysage est un message que les géographes apprennent à déchiffrer.", "pt": "A paisagem é uma mensagem que os geógrafos aprendem a decifrar." }
+      ]
+    },
+    {
+      "term": "dessiner",
+      "definitionPt": "desenhar",
+      "definitionFr": "Représenter par le trait.",
+      "inflections": ["je dessine", "nous dessinons"],
+      "ptTargets": ["desenhar", "desenhado"],
+      "examples": [
+        { "level": "A1", "fr": "Je dessine une maison.", "pt": "Eu desenho uma casa." },
+        { "level": "A2-B1", "fr": "Iris dessine les rivières du monde.", "pt": "Íris desenha os rios do mundo." },
+        { "level": "B1-B2", "fr": "Il dessinait, comme s'il avait voulu retenir chaque paysage.", "pt": "Ele desenhava, como se quisesse guardar cada paisagem." },
+        { "level": "C1-C2", "fr": "Dessiner, c'est apprendre à voir le monde avec une attention nouvelle.", "pt": "Desenhar é aprender a ver o mundo com uma atenção nova." }
+      ]
+    },
+    {
+      "term": "le métier",
+      "definitionPt": "a profissão, o ofício",
+      "definitionFr": "Activité professionnelle.",
+      "inflections": ["le métier", "les métiers"],
+      "ptTargets": ["profissão", "ofício"],
+      "examples": [
+        { "level": "A1", "fr": "Le métier est intéressant.", "pt": "A profissão é interessante." },
+        { "level": "A2-B1", "fr": "Le métier de géographe est passionnant.", "pt": "A profissão de geógrafo é apaixonante." },
+        { "level": "B1-B2", "fr": "Les métiers, qui changent avec la société, exigent de se former sans cesse.", "pt": "As profissões, que mudam com a sociedade, exigem formação constante." },
+        { "level": "C1-C2", "fr": "Choisir un métier, c'est choisir la façon dont on veut servir le monde.", "pt": "Escolher uma profissão é escolher a forma como se quer servir o mundo." }
+      ]
+    },
+    {
+      "term": "la carte",
+      "definitionPt": "o mapa",
+      "definitionFr": "Représentation d'un territoire.",
+      "inflections": ["la carte", "les cartes"],
+      "ptTargets": ["mapa", "carta"],
+      "examples": [
+        { "level": "A1", "fr": "La carte est grande.", "pt": "O mapa é grande." },
+        { "level": "A2-B1", "fr": "Irlan dessinait des cartes.", "pt": "Irlan desenhava mapas." },
+        { "level": "B1-B2", "fr": "Les cartes, qui ont guidé ses livraisons, étaient devenues sa seconde mémoire.", "pt": "Os mapas, que guiaram suas entregas, tinham se tornado sua segunda memória." },
+        { "level": "C1-C2", "fr": "Lire une carte, c'est dialoguer avec l'espace et avec ceux qui l'ont mesuré.", "pt": "Ler um mapa é dialogar com o espaço e com aqueles que o mediram." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Révision : le passé dans le paysage",
+    "explanationPt": "Revisão dos tempos do passado: o Plus-que-parfait situa um conhecimento anterior ('j'avais étudié son parcours'), o imparfait descreve a paisagem ('la ville semblait flotter') e o passé composé narra ações ('la famille a traversé'). Três camadas temporais em um relato.",
+    "exampleFr": "Avant le voyage, j'avais étudié son parcours : 647 kilomètres jusqu'à l'océan.",
+    "examplePt": "Antes da viagem, eu tinha estudado seu percurso: 647 quilômetros até o oceano.",
+    "practiceQuestion": "Complete: « Avant le voyage, j'___ étudié son parcours. »",
+    "options": ["avais", "ai", "aurais"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "Comme si + imparfait ou plus-que-parfait",
+        "explanationPt": "'Comme si' (como se) introduz uma comparação irreal: 'comme si la montagne nous envoyait un message' (como se a montanha nos enviasse uma mensagem), 'comme si tu avais dessiné la carte'.",
+        "exampleFr": "Il connaissait chaque rue, comme s'il avait dessiné la carte lui-même.",
+        "examplePt": "Ele conhecia cada rua, como se tivesse desenhado o mapa ele mesmo.",
+        "practiceQuestion": "Complete: « Il parlait du fleuve comme s'il l'___ dessiné. »",
+        "options": ["avait", "a", "aurait"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "EN et Y révisés",
+        "explanationPt": "EN substitui 'de + coisa' e Y substitui lugar: 'on y voit la ville' (vê-se a cidade dela), 'j'en ferai mon métier' (farei disso minha profissão).",
+        "exampleFr": "Ce pont ? On y voit la ville comme nulle part ailleurs.",
+        "examplePt": "Esta ponte? Dela se vê a cidade como em nenhum outro lugar.",
+        "practiceQuestion": "Complete: « La Garonne est belle, on ___ voit les îles. »",
+        "options": ["y", "en", "les"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "De onde vem o Garonne?",
+      "options": ["dos Pireneus", "do Mont Blanc", "do mar do Norte"],
+      "correctIndex": 0,
+      "explanation": "O Garonne nasce nos Pireneus e percorre 647 quilômetros até o oceano."
+    },
+    {
+      "question": "Qual é a ponte mais antiga de Toulouse?",
+      "options": ["o Pont Neuf", "o Pont Alexandre III", "a ponte de Chenonceau"],
+      "correctIndex": 0,
+      "explanation": "O Pont Neuf, com seus sete arcos, é a ponte mais antiga de Toulouse."
+    },
+    {
+      "question": "Quem já usava a ponte há quatrocentos anos?",
+      "options": ["os peregrinos de Compostela", "os astronautas", "os reis da Inglaterra"],
+      "correctIndex": 0,
+      "explanation": "Os peregrinos do caminho de Santiago já cruzavam o Pont Neuf há quatrocentos anos."
+    },
+    {
+      "question": "Complete: « Avant le voyage, j'___ étudié son parcours. »",
+      "options": ["avais", "ai", "aurais"],
+      "correctIndex": 0,
+      "explanation": "Plus-que-parfait: j'avais étudié."
+    },
+    {
+      "question": "O que Íris quer fazer como profissão?",
+      "options": ["desenhar os rios do mundo", "pilotar aviões", "cozinhar cassoulet"],
+      "correctIndex": 0,
+      "explanation": "Íris quer desenhar os rios do mundo, seguindo os passos do pai geógrafo."
+    }
+  ]
+}

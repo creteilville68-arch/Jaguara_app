@@ -1,0 +1,257 @@
+{
+  "id": "toulouse_lesson_34",
+  "cityId": "toulouse",
+  "domain": "Ciência & Cultura",
+  "level": "Intermediário (B2)",
+  "titleFr": "Le Quai des Savoirs : la science à portée de main",
+  "titlePt": "O Quai des Savoirs: a ciência ao alcance da mão",
+  "subtitleFr": "Expliquer la science avec EN et le conditionnel passé",
+  "subtitlePt": "Explicar a ciência com EN e o condicional passado",
+  "summaryPt": "No Quai des Savoirs, a família toca, testa e experimenta a ciência. Irlan descobre exposições sobre o corpo, o espaço e o clima. Ele pensa no que teria feito se tivesse estudado ciências: 'j'aurais aimé faire ça'. Nesta aula B2, EN e o conditionnel passé expressam descobertas e desejos.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Le Quai des Savoirs, installé dans une ancienne manufacture de tabac, invite à toucher la science. « Ici, pas de panneaux interdits, dit Irlan à Íris : on peut tout essayer. Des expériences, il y en a des dizaines. »",
+      "pt": "O Quai des Savoirs, instalado numa antiga fábrica de tabaco, convida a tocar a ciência. « Aqui, sem placas de proibido, disse Irlan a Íris: pode-se tentar tudo. Experiências, há dezenas delas. »"
+    },
+    {
+      "id": 2,
+      "fr": "Íris s'approcha d'une maquette qui simulait le climat de la Terre. « Regarde, papa, les océans qui chauffent ! — C'est ça, la science, dit Irlan : comprendre pour agir. Si les scientifiques n'avaient rien découvert, on ne saurait pas. »",
+      "pt": "Íris se aproximou de uma maquete que simulava o clima da Terra. « Olha, pai, os oceanos aquecendo! — É isso, a ciência, disse Irlan: compreender para agir. Se os cientistas não tivessem descoberto nada, não saberíamos. »"
+    },
+    {
+      "id": 3,
+      "fr": "Dans la salle du corps humain, Andréa posa la main sur un cœur artificiel qui battait. « J'aurais aimé faire médecine, avoua-t-elle. Mais j'ai choisi autre chose. En revanche, j'en ai appris des choses, du fonctionnement du corps ! »",
+      "pt": "Na sala do corpo humano, Andréa pousou a mão num coração artificial que batia. « Eu teria gostado de fazer medicina, confessou ela. Mas escolhi outra coisa. Em compensação, aprendi muitas coisas sobre o funcionamento do corpo! »"
+    },
+    {
+      "id": 4,
+      "fr": "Irlan, lui, s'attarda devant les cartes de l'évolution du climat. « Moi aussi, dit-il, j'aurais pu devenir chercheur. Mais j'ai trouvé ma façon d'observer la Terre : la géographie. Des cartes, j'en fais, et j'en lis tous les jours. »",
+      "pt": "Irlan, por sua vez, demorou-se diante dos mapas da evolução do clima. « Eu também, disse ele, poderia ter virado pesquisador. Mas encontrei minha forma de observar a Terra: a geografia. Mapas, eu os faço e os leio todos os dias. »"
+    },
+    {
+      "id": 5,
+      "fr": "Le soir, Irlan nota : « La science, ce n'est pas un savoir fermé. C'est une porte ouverte. Et si j'avais su plus tôt qu'elle était si accessible, j'y aurais mis les pieds bien avant. Mieux vaut tard que jamais. »",
+      "pt": "À noite, Irlan anotou: « A ciência não é um saber fechado. É uma porta aberta. E se eu tivesse sabido antes que era tão acessível, teria entrado nela bem antes. Antes tarde do que nunca. »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "le savoir",
+      "definitionPt": "saber, conhecimento (substantivo masculino)",
+      "definitionFr": "Ensemble des connaissances.",
+      "inflections": ["le savoir", "des savoirs"],
+      "ptTargets": ["saber", "conhecimento"],
+      "examples": [
+        { "level": "A1", "fr": "Le savoir est précieux.", "pt": "O saber é precioso." },
+        { "level": "A2-B1", "fr": "Le Quai des Savoirs explique la science.", "pt": "O Quai des Savoirs explica a ciência." },
+        { "level": "B2", "fr": "Le savoir scientifique appartient à tous, pas seulement aux chercheurs.", "pt": "O saber científico pertence a todos, não apenas aos pesquisadores." },
+        { "level": "C1-C2", "fr": "La diffusion des savoirs est devenue une mission publique à part entière.", "pt": "A difusão dos saberes tornou-se uma missão pública por si só." }
+      ]
+    },
+    {
+      "term": "l'expérience",
+      "definitionPt": "experiência, experimento (substantivo feminino)",
+      "definitionFr": "Test scientifique que l'on réalise.",
+      "inflections": ["l'expérience", "des expériences"],
+      "ptTargets": ["experiência", "experimento", "experimentos"],
+      "examples": [
+        { "level": "A1", "fr": "L'expérience est amusante.", "pt": "A experiência é divertida." },
+        { "level": "A2-B1", "fr": "On peut essayer les expériences.", "pt": "Pode-se tentar os experimentos." },
+        { "level": "B2", "fr": "Des expériences, il y en a des dizaines dans ce lieu.", "pt": "Experimentos, há dezenas deles neste lugar." },
+        { "level": "C1-C2", "fr": "L'expérience scientifique, pour être valide, doit être reproductible.", "pt": "O experimento científico, para ser válido, deve ser reproduzível." }
+      ]
+    },
+    {
+      "term": "la maquette",
+      "definitionPt": "maquete (substantivo feminino)",
+      "definitionFr": "Modèle réduit.",
+      "inflections": ["la maquette", "des maquettes"],
+      "ptTargets": ["maquete", "maquetes"],
+      "examples": [
+        { "level": "A1", "fr": "La maquette est petite.", "pt": "A maquete é pequena." },
+        { "level": "A2-B1", "fr": "La maquette simule le climat.", "pt": "A maquete simula o clima." },
+        { "level": "B2", "fr": "La maquette du climat montre les océans qui se réchauffent.", "pt": "A maquete do clima mostra os oceanos se aquecendo." },
+        { "level": "C1-C2", "fr": "Les maquettes scientifiques visualisent des phénomènes invisibles à l'œil nu.", "pt": "As maquetes científicas visualizam fenômenos invisíveis a olho nu." }
+      ]
+    },
+    {
+      "term": "le chercheur",
+      "definitionPt": "pesquisador (substantivo masculino)",
+      "definitionFr": "Scientifique qui fait de la recherche.",
+      "inflections": ["le chercheur", "des chercheurs"],
+      "ptTargets": ["pesquisador", "pesquisadores"],
+      "examples": [
+        { "level": "A1", "fr": "Le chercheur étudie.", "pt": "O pesquisador estuda." },
+        { "level": "A2-B1", "fr": "Les chercheurs travaillent au laboratoire.", "pt": "Os pesquisadores trabalham no laboratório." },
+        { "level": "B2", "fr": "Si les chercheurs n'avaient rien découvert, on ne saurait rien.", "pt": "Se os pesquisadores não tivessem descoberto nada, não saberíamos nada." },
+        { "level": "C1-C2", "fr": "Le chercheur moderne publie, partage et collabore à l'échelle mondiale.", "pt": "O pesquisador moderno publica, compartilha e colabora em escala mundial." }
+      ]
+    },
+    {
+      "term": "le climat",
+      "definitionPt": "clima (substantivo masculino)",
+      "definitionFr": "Ensemble des conditions météorologiques d'une région.",
+      "inflections": ["le climat", "des climats"],
+      "ptTargets": ["clima", "climas"],
+      "examples": [
+        { "level": "A1", "fr": "Le climat est chaud.", "pt": "O clima é quente." },
+        { "level": "A2-B1", "fr": "Le climat de Toulouse est ensoleillé.", "pt": "O clima de Toulouse é ensolarado." },
+        { "level": "B2", "fr": "Le climat de la Terre change plus vite que jamais.", "pt": "O clima da Terra muda mais rápido do que nunca." },
+        { "level": "C1-C2", "fr": "La modélisation du climat mobilise les plus grands ordinateurs du monde.", "pt": "A modelagem do clima mobiliza os maiores computadores do mundo." }
+      ]
+    },
+    {
+      "term": "le cœur",
+      "definitionPt": "coração (substantivo masculino)",
+      "definitionFr": "Organe qui fait circuler le sang.",
+      "inflections": ["le cœur", "des cœurs"],
+      "ptTargets": ["coração", "corações"],
+      "examples": [
+        { "level": "A1", "fr": "Le cœur bat.", "pt": "O coração bate." },
+        { "level": "A2-B1", "fr": "Le cœur artificiel bat dans la salle.", "pt": "O coração artificial bate na sala." },
+        { "level": "B2", "fr": "Andréa posa la main sur un cœur artificiel qui battait.", "pt": "Andréa pousou a mão num coração artificial que batia." },
+        { "level": "C1-C2", "fr": "La recherche sur le cœur artificiel a sauvé des milliers de vies.", "pt": "A pesquisa sobre o coração artificial salvou milhares de vidas." }
+      ]
+    },
+    {
+      "term": "battre",
+      "definitionPt": "bater, pulsar (verbo)",
+      "definitionFr": "Pulser régulièrement, en parlant du cœur.",
+      "inflections": ["je bats", "battre"],
+      "ptTargets": ["bater", "pulsar", "batia"],
+      "examples": [
+        { "level": "A1", "fr": "Mon cœur bat vite.", "pt": "Meu coração bate rápido." },
+        { "level": "A2-B1", "fr": "Le cœur artificiel bat régulièrement.", "pt": "O coração artificial bate regularmente." },
+        { "level": "B2", "fr": "Le cœur artificiel battait doucement sous la main d'Andréa.", "pt": "O coração artificial batia suavemente sob a mão de Andréa." },
+        { "level": "C1-C2", "fr": "Le cœur qui bat est la première musique que nous connaissons tous.", "pt": "O coração que bate é a primeira música que todos conhecemos." }
+      ]
+    },
+    {
+      "term": "la médecine",
+      "definitionPt": "medicina (substantivo feminino)",
+      "definitionFr": "Science qui soigne les maladies.",
+      "inflections": ["la médecine"],
+      "ptTargets": ["medicina"],
+      "examples": [
+        { "level": "A1", "fr": "La médecine aide les gens.", "pt": "A medicina ajuda as pessoas." },
+        { "level": "A2-B1", "fr": "Elle étudie la médecine.", "pt": "Ela estuda medicina." },
+        { "level": "B2", "fr": "« J'aurais aimé faire médecine », avoua Andréa.", "pt": "« Eu teria gostado de fazer medicina », confessou Andréa." },
+        { "level": "C1-C2", "fr": "La médecine moderne repose sur l'alliance de la recherche et de la clinique.", "pt": "A medicina moderna se apoia na aliança da pesquisa e da clínica." }
+      ]
+    },
+    {
+      "term": "à portée de main",
+      "definitionPt": "ao alcance da mão (expressão)",
+      "definitionFr": "Accessible facilement.",
+      "inflections": ["à portée de main"],
+      "ptTargets": ["ao alcance da mão"],
+      "examples": [
+        { "level": "A1", "fr": "Le livre est à portée de main.", "pt": "O livro está ao alcance da mão." },
+        { "level": "A2-B1", "fr": "La science est à portée de main ici.", "pt": "A ciência está ao alcance da mão aqui." },
+        { "level": "B2", "fr": "Ce lieu met la science à portée de main des visiteurs.", "pt": "Esse lugar põe a ciência ao alcance da mão dos visitantes." },
+        { "level": "C1-C2", "fr": "Mettre le savoir à portée de main, c'est démocratiser l'émerveillement.", "pt": "Pôr o saber ao alcance da mão é democratizar o encantamento." }
+      ]
+    },
+    {
+      "term": "la porte ouverte",
+      "definitionPt": "porta aberta (expressão)",
+      "definitionFr": "Possibilité accessible.",
+      "inflections": ["la porte ouverte", "des portes ouvertes"],
+      "ptTargets": ["porta aberta", "portas abertas"],
+      "examples": [
+        { "level": "A1", "fr": "La porte est ouverte.", "pt": "A porta está aberta." },
+        { "level": "A2-B1", "fr": "La science est une porte ouverte.", "pt": "A ciência é uma porta aberta." },
+        { "level": "B2", "fr": "La science n'est pas un savoir fermé, c'est une porte ouverte.", "pt": "A ciência não é um saber fechado, é uma porta aberta." },
+        { "level": "C1-C2", "fr": "Une porte ouverte ne dispense pas d'entrer ; encore faut-il oser pousser.", "pt": "Uma porta aberta não dispensa entrar; ainda é preciso ousar empurrá-la." }
+      ]
+    },
+    {
+      "term": "la manufacture",
+      "definitionPt": "fábrica, manufatura (substantivo feminino)",
+      "definitionFr": "Grand établissement industriel historique.",
+      "inflections": ["la manufacture", "des manufactures"],
+      "ptTargets": ["fábrica", "manufatura"],
+      "examples": [
+        { "level": "A1", "fr": "La manufacture est ancienne.", "pt": "A fábrica é antiga." },
+        { "level": "A2-B1", "fr": "Le Quai des Savoirs est dans une manufacture de tabac.", "pt": "O Quai des Savoirs fica numa fábrica de tabaco." },
+        { "level": "B2", "fr": "L'ancienne manufacture de tabac a été transformée en centre culturel.", "pt": "A antiga fábrica de tabaco foi transformada em centro cultural." },
+        { "level": "C1-C2", "fr": "La reconversion des manufactures en lieux de culture illustre la métamorphose industrielle.", "pt": "A reconversão das fábricas em lugares de cultura ilustra a metamorfose industrial." }
+      ]
+    },
+    {
+      "term": "se réchauffer",
+      "definitionPt": "aquecer-se (verbo pronominal)",
+      "definitionFr": "Devenir plus chaud.",
+      "inflections": ["je me réchauffe", "se réchauffer"],
+      "ptTargets": ["aquecer-se", "aquecendo"],
+      "examples": [
+        { "level": "A1", "fr": "Je me réchauffe au feu.", "pt": "Eu me aqueço no fogo." },
+        { "level": "A2-B1", "fr": "Les océans se réchauffent.", "pt": "Os oceanos se aquecem." },
+        { "level": "B2", "fr": "La maquette montrait les océans qui se réchauffent.", "pt": "A maquete mostrava os oceanos se aquecendo." },
+        { "level": "C1-C2", "fr": "Le réchauffement des océans menace des écosystèmes entiers.", "pt": "O aquecimento dos oceanos ameaça ecossistemas inteiros." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "EN et le conditionnel passé au Quai des Savoirs",
+    "explanationPt": "EN para quantidades e complementos com 'de' ('j'en ai appris des choses' = aprendi muitas coisas delas). O conditionnel passé para desejos: 'j'aurais aimé faire médecine', 'j'aurais pu devenir chercheur'.",
+    "exampleFr": "Des choses sur le corps ? J'en ai appris beaucoup aujourd'hui.",
+    "examplePt": "Coisas sobre o corpo? Aprendi muitas delas hoje.",
+    "practiceQuestion": "Complete: 'Des choses ? J'_____ ai appris beaucoup.'",
+    "options": ["en", "y", "les"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "Le conditionnel passé du souhait",
+        "explanationPt": "'J'aurais aimé faire médecine', 'j'aurais pu devenir chercheur' : desejos e possibilidades não realizadas.",
+        "exampleFr": "J'aurais pu devenir chercheur, mais j'ai choisi la géographie.",
+        "examplePt": "Eu poderia ter virado pesquisador, mas escolhi a geografia.",
+        "practiceQuestion": "Complete: 'J'_____ pu devenir chercheur.'",
+        "options": ["aurais", "ai", "avais"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "Si + plus-que-parfait → conditionnel passé",
+        "explanationPt": "'Si j'avais su plus tôt, j'y aurais mis les pieds bien avant.'",
+        "exampleFr": "Si j'avais su que c'était accessible, j'y serais allé plus tôt.",
+        "examplePt": "Se eu tivesse sabido que era acessível, teria ido mais cedo.",
+        "practiceQuestion": "Complete: 'Si j'avais su, j'y _____ mis les pieds avant.'",
+        "options": ["aurais", "avais", "ai"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Complete: 'Des choses sur le corps ? J'_____ ai appris beaucoup.'",
+      "options": ["en", "y", "les"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'j'en ai appris des choses, du fonctionnement du corps !'"
+    },
+    {
+      "question": "Onde está instalado o Quai des Savoirs?",
+      "options": ["Numa antiga fábrica de tabaco", "Num antigo convento", "Numa estação de trem"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'installé dans une ancienne manufacture de tabac.'"
+    },
+    {
+      "question": "O que Andréa teria gostado de fazer?",
+      "options": ["Medicina", "Astronomia", "Arquitetura"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'J'aurais aimé faire médecine, avoua-t-elle.'"
+    },
+    {
+      "question": "O que Irlan disse que poderia ter sido?",
+      "options": ["Pesquisador", "Piloto", "Chef"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'j'aurais pu devenir chercheur.'"
+    },
+    {
+      "question": "Complete: 'Si j'avais su, j'y _____ mis les pieds bien avant.'",
+      "options": ["aurais", "avais", "ai"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'si j'avais su plus tôt qu'elle était si accessible, j'y aurais mis les pieds bien avant.'"
+    }
+  ]
+}

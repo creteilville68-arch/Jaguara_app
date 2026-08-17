@@ -1,0 +1,252 @@
+{
+  "id": "paris_lesson_48",
+  "cityId": "paris",
+  "domain": "Viagem & Preparação",
+  "level": "Iniciante (A1)",
+  "titleFr": "La préparation du voyage",
+  "titlePt": "A preparação da viagem",
+  "subtitleFr": "Préparer la valise pour Amiens",
+  "subtitlePt": "Preparar a mala para Amiens",
+  "summaryPt": "Nesta Aula 48 (A1), a família se prepara para viajar a Amiens. O aluno aprende o vocabulário da viagem (valise, voyage, train, billet, carte d'identité, préparer, partir, emporter, gare, arrivée) e o futur proche com aller.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "La famille va partir pour Amiens. « C'est notre premier voyage ensemble, dit Andréa. Nous allons prendre le train demain matin. Préparons la valise ce soir ! »",
+      "pt": "A família vai partir para Amiens. « É nossa primeira viagem juntos, diz Andréa. Vamos pegar o trem amanhã de manhã. Vamos preparar a mala esta noite! »"
+    },
+    {
+      "id": 2,
+      "fr": "Iris met ses vêtements et ses jouets dans la valise. « N'oublie pas ton doudou, dit Irlan. Et emportons aussi de l'eau et des biscuits pour le voyage. »",
+      "pt": "Íris coloca suas roupas e brinquedos na mala. « Não esqueça seu ursinho, diz Irlan. E levemos também água e biscoitos para a viagem. »"
+    },
+    {
+      "id": 3,
+      "fr": "Irlan vérifie les billets de train et la carte d'identité d'Iris. « Tout est prêt, dit-il. La gare est proche. Nous allons prendre le train à dix heures. »",
+      "pt": "Irlan confere os bilhetes de trem e o documento de identidade de Íris. « Está tudo pronto, diz ele. A estação é perto. Vamos pegar o trem às dez horas. »"
+    },
+    {
+      "id": 4,
+      "fr": "Le soir, Iris demande : « Comment est Amiens ? » Andréa sourit : « C'est une belle ville au nord de Paris. Tu vas voir, c'est une belle aventure ! » Iris ferme les yeux et rêve déjà du voyage.",
+      "pt": "À noite, Íris pergunta: « Como é Amiens? » Andréa sorri: « É uma bela cidade ao norte de Paris. Você vai ver, é uma bela aventura! » Íris fecha os olhos e já sonha com a viagem."
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "la valise",
+      "definitionPt": "a mala",
+      "definitionFr": "Bagage pour voyager.",
+      "inflections": ["la valise", "une valise", "des valises"],
+      "ptTargets": ["mala"],
+      "examples": [
+        { "level": "A1", "fr": "La valise est grande.", "pt": "A mala é grande." },
+        { "level": "A2-B1", "fr": "Iris met ses vêtements dans la valise.", "pt": "Íris coloca suas roupas na mala." },
+        { "level": "B2", "fr": "La valise, remplie, attend près de la porte.", "pt": "A mala, cheia, espera perto da porta." },
+        { "level": "C1-C2", "fr": "C'est la valise qui, prête, annonce le départ.", "pt": "É a mala que, pronta, anuncia a partida." }
+      ]
+    },
+    {
+      "term": "le voyage",
+      "definitionPt": "a viagem",
+      "definitionFr": "Trajet vers un autre lieu.",
+      "inflections": ["le voyage", "un voyage", "des voyages"],
+      "ptTargets": ["viagem"],
+      "examples": [
+        { "level": "A1", "fr": "Le voyage est long.", "pt": "A viagem é longa." },
+        { "level": "A2-B1", "fr": "C'est notre premier voyage ensemble.", "pt": "É nossa primeira viagem juntos." },
+        { "level": "B2", "fr": "Le voyage, préparé, promet de belles découvertes.", "pt": "A viagem, preparada, promete belas descobertas." },
+        { "level": "C1-C2", "fr": "C'est le voyage qui, vécu, transforme les voyageurs.", "pt": "É a viagem que, vivida, transforma os viajantes." }
+      ]
+    },
+    {
+      "term": "le train",
+      "definitionPt": "o trem",
+      "definitionFr": "Véhicule sur des rails.",
+      "inflections": ["le train", "un train", "des trains"],
+      "ptTargets": ["trem"],
+      "examples": [
+        { "level": "A1", "fr": "Le train est rapide.", "pt": "O trem é rápido." },
+        { "level": "A2-B1", "fr": "Nous allons prendre le train demain matin.", "pt": "Vamos pegar o trem amanhã de manhã." },
+        { "level": "B2", "fr": "Le train, confortable, traverse la campagne française.", "pt": "O trem, confortável, atravessa o campo francês." },
+        { "level": "C1-C2", "fr": "C'est le train qui, fidèle, relie les villes et les vies.", "pt": "É o trem que, fiel, liga as cidades e as vidas." }
+      ]
+    },
+    {
+      "term": "le billet",
+      "definitionPt": "o bilhete",
+      "definitionFr": "Ticket de transport.",
+      "inflections": ["le billet", "un billet", "des billets"],
+      "ptTargets": ["bilhete", "passagem"],
+      "examples": [
+        { "level": "A1", "fr": "Le billet est cher.", "pt": "O bilhete é caro." },
+        { "level": "A2-B1", "fr": "Irlan vérifie les billets de train.", "pt": "Irlan confere os bilhetes de trem." },
+        { "level": "B2", "fr": "Les billets, achetés, attendent le départ.", "pt": "Os bilhetes, comprados, esperam a partida." },
+        { "level": "C1-C2", "fr": "C'est le billet qui, précieux, ouvre le voyage.", "pt": "É o bilhete que, precioso, abre a viagem." }
+      ]
+    },
+    {
+      "term": "la carte d'identité",
+      "definitionPt": "o documento de identidade",
+      "definitionFr": "Document officiel de la personne.",
+      "inflections": ["la carte d'identité", "une carte d'identité"],
+      "ptTargets": ["identidade", "documento"],
+      "examples": [
+        { "level": "A1", "fr": "La carte d'identité est importante.", "pt": "O documento de identidade é importante." },
+        { "level": "A2-B1", "fr": "Irlan vérifie la carte d'identité d'Iris.", "pt": "Irlan confere o documento de Íris." },
+        { "level": "B2", "fr": "Pour voyager, il faut une carte d'identité en règle.", "pt": "Para viajar, é preciso ter o documento em dia." },
+        { "level": "C1-C2", "fr": "C'est la carte d'identité qui, officielle, atteste qui l'on est.", "pt": "É o documento que, oficial, atesta quem somos." }
+      ]
+    },
+    {
+      "term": "préparer",
+      "definitionPt": "preparar",
+      "definitionFr": "Organiser à l'avance.",
+      "inflections": ["préparer", "je prépare", "nous préparons"],
+      "ptTargets": ["preparar"],
+      "examples": [
+        { "level": "A1", "fr": "Je prépare la valise.", "pt": "Eu preparo a mala." },
+        { "level": "A2-B1", "fr": "Préparons la valise ce soir !", "pt": "Vamos preparar a mala esta noite!" },
+        { "level": "B2", "fr": "Préparer un voyage demande de l'organisation.", "pt": "Preparar uma viagem exige organização." },
+        { "level": "C1-C2", "fr": "C'est en préparant que l'on profite mieux du voyage.", "pt": "É preparando que se aproveita melhor a viagem." }
+      ]
+    },
+    {
+      "term": "partir",
+      "definitionPt": "partir / ir embora",
+      "definitionFr": "Aller ailleurs.",
+      "inflections": ["partir", "je pars", "nous partons"],
+      "ptTargets": ["partir", "ir embora"],
+      "examples": [
+        { "level": "A1", "fr": "Je pars demain.", "pt": "Eu parto amanhã." },
+        { "level": "A2-B1", "fr": "La famille va partir pour Amiens.", "pt": "A família vai partir para Amiens." },
+        { "level": "B2", "fr": "Partir en voyage, c'est ouvrir de nouveaux horizons.", "pt": "Partir em viagem é abrir novos horizontes." },
+        { "level": "C1-C2", "fr": "C'est en partant que l'on découvre l'inconnu.", "pt": "É partindo que se descobre o desconhecido." }
+      ]
+    },
+    {
+      "term": "emporter",
+      "definitionPt": "levar (consigo)",
+      "definitionFr": "Prendre avec soi.",
+      "inflections": ["emporter", "j'emporte", "nous emportons"],
+      "ptTargets": ["levar"],
+      "examples": [
+        { "level": "A1", "fr": "J'emporte un livre.", "pt": "Eu levo um livro." },
+        { "level": "A2-B1", "fr": "Emportons de l'eau et des biscuits.", "pt": "Levemos água e biscoitos." },
+        { "level": "B2", "fr": "Pour le voyage, emportons des choses utiles.", "pt": "Para a viagem, levemos coisas úteis." },
+        { "level": "C1-C2", "fr": "C'est en emportant peu que l'on voyage léger.", "pt": "É levando pouco que se viaja leve." }
+      ]
+    },
+    {
+      "term": "la gare",
+      "definitionPt": "a estação (de trem)",
+      "definitionFr": "Lieu où s'arrêtent les trains.",
+      "inflections": ["la gare", "une gare", "des gares"],
+      "ptTargets": ["estação"],
+      "examples": [
+        { "level": "A1", "fr": "La gare est proche.", "pt": "A estação é perto." },
+        { "level": "A2-B1", "fr": "La gare est proche de la maison.", "pt": "A estação é perto de casa." },
+        { "level": "B2", "fr": "La gare, animée, vit au rythme des départs.", "pt": "A estação, animada, vive ao ritmo das partidas." },
+        { "level": "C1-C2", "fr": "C'est la gare qui, immense, dit au revoir et bonjour.", "pt": "É a estação que, imensa, diz adeus e olá." }
+      ]
+    },
+    {
+      "term": "l'arrivée",
+      "definitionPt": "a chegada",
+      "definitionFr": "Moment où l'on arrive.",
+      "inflections": ["l'arrivée", "une arrivée", "des arrivées"],
+      "ptTargets": ["chegada"],
+      "examples": [
+        { "level": "A1", "fr": "L'arrivée est à dix heures.", "pt": "A chegada é às dez horas." },
+        { "level": "A2-B1", "fr": "L'arrivée à Amiens est prévue à midi.", "pt": "A chegada a Amiens está prevista ao meio-dia." },
+        { "level": "B2", "fr": "L'arrivée, attendue, promet une belle découverte.", "pt": "A chegada, esperada, promete uma bela descoberta." },
+        { "level": "C1-C2", "fr": "C'est l'arrivée qui, espérée, récompense le voyage.", "pt": "É a chegada que, esperada, recompensa a viagem." }
+      ]
+    },
+    {
+      "term": "le doudou",
+      "definitionPt": "o ursinho (objeto de apego)",
+      "definitionFr": "Objet préféré d'un enfant.",
+      "inflections": ["le doudou", "un doudou", "des doudous"],
+      "ptTargets": ["ursinho", "objeto de apego"],
+      "examples": [
+        { "level": "A1", "fr": "Le doudou est doux.", "pt": "O ursinho é macio." },
+        { "level": "A2-B1", "fr": "N'oublie pas ton doudou !", "pt": "Não esqueça seu ursinho!" },
+        { "level": "B2", "fr": "Le doudou, fidèle, accompagne les enfants partout.", "pt": "O ursinho, fiel, acompanha as crianças em todos os lugares." },
+        { "level": "C1-C2", "fr": "C'est le doudou qui, rassurant, garde les secrets de l'enfance.", "pt": "É o ursinho que, tranquilizador, guarda os segredos da infância." }
+      ]
+    },
+    {
+      "term": "l'aventure",
+      "definitionPt": "a aventura",
+      "definitionFr": "Expérience nouvelle et excitante.",
+      "inflections": ["l'aventure", "une aventure", "des aventures"],
+      "ptTargets": ["aventura"],
+      "examples": [
+        { "level": "A1", "fr": "L'aventure est belle.", "pt": "A aventura é bonita." },
+        { "level": "A2-B1", "fr": "C'est une belle aventure !", "pt": "É uma bela aventura!" },
+        { "level": "B2", "fr": "Chaque voyage est une aventure unique.", "pt": "Cada viagem é uma aventura única." },
+        { "level": "C1-C2", "fr": "C'est l'aventure qui, osée, enrichit la vie.", "pt": "É a aventura que, ousada, enriquece a vida." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Le futur proche : aller + infinitif",
+    "explanationPt": "Para o futuro próximo: 'aller' (presente) + infinitivo. Ex.: 'Nous allons partir demain' (vamos partir amanhã), 'Nous allons prendre le train' (vamos pegar o trem), 'Tu vas voir' (você vai ver).",
+    "exampleFr": "Nous allons prendre le train demain matin. Tu vas voir, c'est une belle aventure !",
+    "examplePt": "Vamos pegar o trem amanhã de manhã. Você vai ver, é uma bela aventura!",
+    "practiceQuestion": "Complete: 'Nous _____ prendre le train demain.'",
+    "options": ["allons", "allez", "vont"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "L'impératif de préparation",
+        "explanationPt": "Imperativo para preparar: 'Préparons la valise !' (vamos preparar a mala!), 'N'oublie pas ton doudou !' (não esqueça seu ursinho!), 'Emportons de l'eau !' (vamos levar água!).",
+        "exampleFr": "Préparons la valise ce soir ! N'oublie pas ton doudou !",
+        "examplePt": "Vamos preparar la mala esta noite! Não esqueça seu ursinho!",
+        "practiceQuestion": "Complete: '_____ la valise ce soir !'",
+        "options": ["Préparons", "Préparons pas", "Préparer"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "Tout est prêt : está tudo pronto",
+        "explanationPt": "'Tout est prêt' = está tudo pronto. Ex.: 'Tout est prêt pour le départ' (está tudo pronto para a partida).",
+        "exampleFr": "Tout est prêt. La gare est proche.",
+        "examplePt": "Está tudo pronto. A estação é perto.",
+        "practiceQuestion": "Complete: 'Tout _____ prêt.'",
+        "options": ["est", "sont", "es"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Para onde a família vai viajar?",
+      "options": ["Amiens", "Lyon", "Marselha"],
+      "correctIndex": 0,
+      "explanation": "La famille va partir pour Amiens."
+    },
+    {
+      "question": "Que meio de transporte eles vão pegar?",
+      "options": ["o trem", "o avião", "o ônibus"],
+      "correctIndex": 0,
+      "explanation": "Nous allons prendre le train demain matin."
+    },
+    {
+      "question": "O que Irlan verifica antes da viagem?",
+      "options": ["os bilhetes e o documento", "as chaves", "o telefone"],
+      "correctIndex": 0,
+      "explanation": "Irlan vérifie les billets de train et la carte d'identité d'Iris."
+    },
+    {
+      "question": "Complete: 'Nous _____ prendre le train demain.'",
+      "options": ["allons", "allez", "vont"],
+      "correctIndex": 0,
+      "explanation": "Futur proche: nous allons."
+    },
+    {
+      "question": "Complete: 'Tout _____ prêt.'",
+      "options": ["est", "sont", "es"],
+      "correctIndex": 0,
+      "explanation": "Tout est prêt = está tudo pronto."
+    }
+  ]
+}

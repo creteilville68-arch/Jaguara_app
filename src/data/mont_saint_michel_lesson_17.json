@@ -1,0 +1,252 @@
+{
+  "id": "mont_saint_michel_lesson_17",
+  "cityId": "mont-saint-michel",
+  "domain": "Natureza & Geografia",
+  "level": "Básico (A2/B1)",
+  "titleFr": "Tombelaine et les îles Chausey",
+  "titlePt": "Tombelaine e as ilhas Chausey",
+  "subtitleFr": "Au large, des îles racontent l'histoire de la baie",
+  "subtitlePt": "Ao largo, ilhas contam a história da baía",
+  "summaryPt": "Nesta Aula 17 (A2/B1), a família observa do Mont as ilhas da baía: Tombelaine, perto, e o arquipélago de Chausey, ao longe. Irlan explica que Tombelaine já foi um convento e que Chausey é feita de mais de cinquenta ilhas. O aluno pratica o imparfait de descrição e as comparações (plus petit que, aussi ancien que).",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "De la digue, on voyait Tombelaine, une petite île au milieu de la baie. « Autrefois, il y avait un couvent sur cette île », a raconté Irlan. « Les moines y vivaient seuls. »",
+      "pt": "Do dique, via-se Tombelaine, uma pequena ilha no meio da baía. « Antigamente, havia um convento nesta ilha », contou Irlan. « Os monges viviam sozinhos lá. »"
+    },
+    {
+      "id": 2,
+      "fr": "« Au loin, c'est Chausey », a dit Andréa. « C'est un archipel de plus de cinquante îles. À marée basse, les rochers apparaissent. »",
+      "pt": "« Ao longe, é Chausey », disse Andréa. « É um arquipélago de mais de cinquenta ilhas. Na maré baixa, os rochedos aparecem. »"
+    },
+    {
+      "id": 3,
+      "fr": "« Tombelaine est plus petite que le Mont », a observé Íris. « Oui, mais elle est aussi ancienne que lui », a répondu Irlan. « Les deux îles gardent des secrets. »",
+      "pt": "« Tombelaine é menor que o Mont », observou Íris. « Sim, mas é tão antiga quanto ele », respondeu Irlan. « As duas ilhas guardam segredos. »"
+    },
+    {
+      "id": 4,
+      "fr": "Quand la marée montait, les îles semblaient flotter sur l'eau. « Regarde, le Mont et Tombelaine sont devenus des bateaux », a plaisanté Andréa.",
+      "pt": "Quando a maré subia, as ilhas pareciam flutuar sobre a água. « Olha, o Mont e Tombelaine viraram barcos », brincou Andréa."
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "l'île",
+      "definitionPt": "a ilha",
+      "definitionFr": "Terre entourée d'eau.",
+      "inflections": ["l'île", "une île", "des îles"],
+      "ptTargets": ["ilha"],
+      "examples": [
+        { "level": "A1", "fr": "L'île est petite.", "pt": "A ilha é pequena." },
+        { "level": "A2-B1", "fr": "Tombelaine est une île de la baie.", "pt": "Tombelaine é uma ilha da baía." },
+        { "level": "B2", "fr": "Les îles Chausey sont plus de cinquante à marée basse.", "pt": "As ilhas Chausey são mais de cinquenta na maré baixa." },
+        { "level": "C1-C2", "fr": "Les îles de la baie semblent dormir sous la brume du matin.", "pt": "As ilhas da baía parecem dormir sob a névoa da manhã." }
+      ]
+    },
+    {
+      "term": "l'archipel",
+      "definitionPt": "o arquipélago",
+      "definitionFr": "Groupe d'îles.",
+      "inflections": ["l'archipel", "un archipel", "des archipels"],
+      "ptTargets": ["arquipélago"],
+      "examples": [
+        { "level": "A1", "fr": "L'archipel est loin.", "pt": "O arquipélago fica longe." },
+        { "level": "A2-B1", "fr": "Chausey est un archipel célèbre.", "pt": "Chausey é um arquipélago famoso." },
+        { "level": "B2", "fr": "L'archipel de Chausey change de forme avec la marée.", "pt": "O arquipélago de Chausey muda de forma com a maré." },
+        { "level": "C1-C2", "fr": "Cet archipel, né du granit et de la mer, est un joyau sauvage.", "pt": "Este arquipélago, nascido do granito e do mar, é uma joia selvagem." }
+      ]
+    },
+    {
+      "term": "le couvent",
+      "definitionPt": "o convento",
+      "definitionFr": "Monastère, maison religieuse.",
+      "inflections": ["le couvent", "un couvent", "des couvents"],
+      "ptTargets": ["convento"],
+      "examples": [
+        { "level": "A1", "fr": "Le couvent est vieux.", "pt": "O convento é velho." },
+        { "level": "A2-B1", "fr": "Il y avait un couvent à Tombelaine.", "pt": "Havia um convento em Tombelaine." },
+        { "level": "B2", "fr": "Le couvent de Tombelaine a été détruit pendant les guerres.", "pt": "O convento de Tombelaine foi destruído durante as guerras." },
+        { "level": "C1-C2", "fr": "Les ruines du couvent racontent une vie de prière et de solitude.", "pt": "As ruínas do convento contam uma vida de oração e solidão." }
+      ]
+    },
+    {
+      "term": "le rocher",
+      "definitionPt": "o rochedo",
+      "definitionFr": "Grande pierre, masse de roche.",
+      "inflections": ["le rocher", "un rocher", "des rochers"],
+      "ptTargets": ["rochedo"],
+      "examples": [
+        { "level": "A1", "fr": "Le rocher est gris.", "pt": "O rochedo é cinza." },
+        { "level": "A2-B1", "fr": "À marée basse, les rochers apparaissent.", "pt": "Na maré baixa, os rochedos aparecem." },
+        { "level": "B2", "fr": "Les rochers de Chausey sont en granit rose.", "pt": "Os rochedos de Chausey são de granito rosa." },
+        { "level": "C1-C2", "fr": "Le rocher du Mont domine la baie depuis un million d'années.", "pt": "O rochedo do Mont domina a baía há um milhão de anos." }
+      ]
+    },
+    {
+      "term": "flotter",
+      "definitionPt": "flutuar",
+      "definitionFr": "Rester à la surface de l'eau.",
+      "inflections": ["je flotte", "nous flottons", "flotté"],
+      "ptTargets": ["flutuar"],
+      "examples": [
+        { "level": "A1", "fr": "Le bateau flotte.", "pt": "O barco flutua." },
+        { "level": "A2-B1", "fr": "Les îles semblaient flotter sur l'eau.", "pt": "As ilhas pareciam flutuar sobre a água." },
+        { "level": "B2", "fr": "Le brouillard flottait au-dessus de la baie.", "pt": "A névoa flutuava sobre a baía." },
+        { "level": "C1-C2", "fr": "À marée haute, le Mont semble flotter entre ciel et mer.", "pt": "Na maré alta, o Mont parece flutuar entre céu e mar." }
+      ]
+    },
+    {
+      "term": "la brume",
+      "definitionPt": "a névoa",
+      "definitionFr": "Brouillard léger.",
+      "inflections": ["la brume", "une brume", "des brumes"],
+      "ptTargets": ["névoa", "bruma"],
+      "examples": [
+        { "level": "A1", "fr": "La brume est blanche.", "pt": "A névoa é branca." },
+        { "level": "A2-B1", "fr": "La brume couvrait les îles au matin.", "pt": "A névoa cobria as ilhas pela manhã." },
+        { "level": "B2", "fr": "La brume du matin cachait le sommet de l'abbaye.", "pt": "A névoa da manhã escondia o topo da abadia." },
+        { "level": "C1-C2", "fr": "Dans la brume, le Mont devenait un château de nuages.", "pt": "Na névoa, o Mont virava um castelo de nuvens." }
+      ]
+    },
+    {
+      "term": "le secret",
+      "definitionPt": "o segredo",
+      "definitionFr": "Ce que l'on cache.",
+      "inflections": ["le secret", "un secret", "des secrets"],
+      "ptTargets": ["segredo"],
+      "examples": [
+        { "level": "A1", "fr": "C'est un secret.", "pt": "É um segredo." },
+        { "level": "A2-B1", "fr": "Les îles gardent des secrets.", "pt": "As ilhas guardam segredos." },
+        { "level": "B2", "fr": "La baie garde le secret des naufrages anciens.", "pt": "A baía guarda o segredo dos naufrágios antigos." },
+        { "level": "C1-C2", "fr": "Chaque île de la baie garde un secret que la mer ne rend jamais.", "pt": "Cada ilha da baía guarda um segredo que o mar nunca devolve." }
+      ]
+    },
+    {
+      "term": "ancien",
+      "definitionPt": "antigo, velho",
+      "definitionFr": "Qui existe depuis longtemps.",
+      "inflections": ["ancien", "ancienne", "anciens"],
+      "ptTargets": ["antigo", "velho"],
+      "examples": [
+        { "level": "A1", "fr": "Le château est ancien.", "pt": "O castelo é antigo." },
+        { "level": "A2-B1", "fr": "Tombelaine est aussi ancienne que le Mont.", "pt": "Tombelaine é tão antiga quanto o Mont." },
+        { "level": "B2", "fr": "Les légendes anciennes parlent de ces îles.", "pt": "As lendas antigas falam dessas ilhas." },
+        { "level": "C1-C2", "fr": "L'ancienne abbaye de Tombelaine n'existe plus, mais son histoire vit encore.", "pt": "A antiga abadia de Tombelaine não existe mais, mas sua história ainda vive." }
+      ]
+    },
+    {
+      "term": "au large",
+      "definitionPt": "ao largo, mar adentro",
+      "definitionFr": "Loin de la côte, en mer.",
+      "inflections": ["au large", "prendre le large", "de large"],
+      "ptTargets": ["ao largo", "mar adentro"],
+      "examples": [
+        { "level": "A1", "fr": "Le bateau est au large.", "pt": "O barco está ao largo." },
+        { "level": "A2-B1", "fr": "Chausey est au large de la baie.", "pt": "Chausey fica ao largo da baía." },
+        { "level": "B2", "fr": "Au large, le vent soufflait plus fort.", "pt": "Ao largo, o vento soprava mais forte." },
+        { "level": "C1-C2", "fr": "Au large, l'horizon se confondait avec la mer.", "pt": "Ao largo, o horizonte se confundia com o mar." }
+      ]
+    },
+    {
+      "term": "disparaître",
+      "definitionPt": "desaparecer",
+      "definitionFr": "Cesser d'être visible.",
+      "inflections": ["je disparais", "nous disparaissons", "disparu"],
+      "ptTargets": ["desaparecer"],
+      "examples": [
+        { "level": "A1", "fr": "Le bateau disparaît.", "pt": "O barco desaparece." },
+        { "level": "A2-B1", "fr": "À marée haute, les rochers disparaissent.", "pt": "Na maré alta, os rochedos desaparecem." },
+        { "level": "B2", "fr": "Les îles ont disparu dans la brume.", "pt": "As ilhas desapareceram na névoa." },
+        { "level": "C1-C2", "fr": "Disparaître puis renaître, c'est la vie des îles de la baie.", "pt": "Desaparecer e renascer, é a vida das ilhas da baía." }
+      ]
+    },
+    {
+      "term": "observer",
+      "definitionPt": "observar",
+      "definitionFr": "Regarder attentivement.",
+      "inflections": ["j'observe", "nous observons", "observé"],
+      "ptTargets": ["observar"],
+      "examples": [
+        { "level": "A1", "fr": "J'observe les oiseaux.", "pt": "Observo os pássaros." },
+        { "level": "A2-B1", "fr": "Íris a observé les îles au loin.", "pt": "Íris observou as ilhas ao longe." },
+        { "level": "B2", "fr": "Le géographe observait les mouvements de la marée.", "pt": "O geógrafo observava os movimentos da maré." },
+        { "level": "C1-C2", "fr": "Observer la baie, c'est voir le temps travailler.", "pt": "Observar a baía é ver o tempo trabalhar." }
+      ]
+    },
+    {
+      "term": "le granit",
+      "definitionPt": "o granito",
+      "definitionFr": "Pierre dure et grise.",
+      "inflections": ["le granit", "un granit", "des granits"],
+      "ptTargets": ["granito"],
+      "examples": [
+        { "level": "A1", "fr": "Le granit est dur.", "pt": "O granito é duro." },
+        { "level": "A2-B1", "fr": "Les rochers de Chausey sont en granit.", "pt": "Os rochedos de Chausey são de granito." },
+        { "level": "B2", "fr": "Le granit rose de Chausey est très recherché.", "pt": "O granito rosa de Chausey é muito procurado." },
+        { "level": "C1-C2", "fr": "Le granit, poli par la mer, brille sous le soleil couchant.", "pt": "O granito, polido pelo mar, brilha sob o sol poente." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Les comparaisons : plus petit que, aussi ancien que",
+    "explanationPt": "Comparações: 'plus petit que' (menor que), 'aussi ancien que' (tão antigo quanto), 'moins grand que' (menos grande que). 'Tombelaine est plus petite que le Mont'.",
+    "exampleFr": "Tombelaine est plus petite que le Mont, mais elle est aussi ancienne que lui.",
+    "examplePt": "Tombelaine é menor que o Mont, mas é tão antiga quanto ele.",
+    "practiceQuestion": "Complete: « Tombelaine est plus petite ___ le Mont. »",
+    "options": ["que", "qu'", "de"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "Décrire le paysage à l'imparfait",
+        "explanationPt": "Paisagem no passado = imparfait: 'les îles semblaient flotter', 'la brume couvrait les rochers', 'le vent soufflait'. Descrição contínua.",
+        "exampleFr": "La brume couvrait les îles et les rochers semblaient flotter sur l'eau.",
+        "examplePt": "A névoa cobria as ilhas e os rochedos pareciam flutuar sobre a água.",
+        "practiceQuestion": "Complete: « La brume ___ les îles. »",
+        "options": ["couvrait", "a couvert", "couvrira"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "Autrefois / à marée basse : situer dans le temps",
+        "explanationPt": "'Autrefois' (antigamente) + imparfait para o passado longínquo; 'à marée basse' (na maré baixa) + presente para fatos regulares: 'les rochers apparaissent'.",
+        "exampleFr": "Autrefois, un couvent existait à Tombelaine. Aujourd'hui, seuls les oiseaux y vivent.",
+        "examplePt": "Antigamente, existia um convento em Tombelaine. Hoje, só os pássaros vivem lá.",
+        "practiceQuestion": "Complete: « Autrefois, un couvent ___ à Tombelaine. »",
+        "options": ["existait", "existe", "existera"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "O que havia antigamente em Tombelaine?",
+      "options": ["Um convento", "Um farol", "Um porto"],
+      "correctIndex": 0,
+      "explanation": "Autrefois, um convento existia em Tombelaine, no meio da baía."
+    },
+    {
+      "question": "Quantas ilhas formam o arquipélago de Chausey?",
+      "options": ["Mais de cinquenta", "Cinco", "Cento e vinte"],
+      "correctIndex": 0,
+      "explanation": "Chausey é um arquipélago com mais de cinquenta ilhas, visíveis na maré baixa."
+    },
+    {
+      "question": "Complete: « Tombelaine est plus petite ___ le Mont. »",
+      "options": ["que", "qu'", "de"],
+      "correctIndex": 0,
+      "explanation": "Comparativo: 'plus petit que' — 'que' antes de consoante."
+    },
+    {
+      "question": "Complete: « La brume ___ les îles au matin. »",
+      "options": ["couvrait", "a couvert", "couvrira"],
+      "correctIndex": 0,
+      "explanation": "Descrição contínua do cenário = imparfait: 'couvrait'."
+    },
+    {
+      "question": "O que acontece com os rochedos de Chausey na maré alta?",
+      "options": ["Desaparecem sob a água", "Ficam rosados", "Viram ilhas habitadas"],
+      "correctIndex": 0,
+      "explanation": "À maré alta, grande parte dos rochedos de Chausey desaparece sob a água."
+    }
+  ]
+}

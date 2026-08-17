@@ -1,0 +1,257 @@
+{
+  "id": "lyon_lesson_42",
+  "cityId": "lyon",
+  "domain": "Transportes & Cidade",
+  "level": "Intermediário (B2+)",
+  "titleFr": "Le métro de Lyon : le premier métro automatique du monde",
+  "titlePt": "O metrô de Lyon: o primeiro metrô automático do mundo",
+  "subtitleFr": "Rapporter les paroles : le discours indirect en voyage",
+  "subtitlePt": "Relatar as falas: o discurso indireto em viagem",
+  "summaryPt": "Inaugurado em 1978, o metrô de Lyon foi o primeiro metrô automático do mundo: a linha A circula sem condutor. Nesta aula B2+, a família usa o metrô pela cidade e pratica o discurso indireto para relatar perguntas, respostas e anúncios.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "« C'est incroyable, ce métro roule tout seul ! » dit Irlan. Andréa expliqua que la ligne A était automatique depuis 1978 et que c'était une première mondiale. Íris demanda qui conduisait le train.",
+      "pt": "« É incrível, esse metrô anda sozinho! » disse Irlan. Andréa explicou que a linha A era automática desde 1978 e que era uma estreia mundial. Íris perguntou quem dirigia o trem."
+    },
+    {
+      "id": 2,
+      "fr": "« Maman, où descend-on ? » demanda Íris. Andréa répondit qu'ils descendaient à Bellecour. Irlan annonça qu'il avait réservé une table dans un bouchon près de la place.",
+      "pt": "« Mamãe, onde a gente desce? » perguntou Íris. Andréa respondeu que eles desciam em Bellecour. Irlan anunciou que tinha reservado uma mesa num bouchon perto da praça."
+    },
+    {
+      "id": 3,
+      "fr": "Un haut-parleur annonça la prochaine station. Irlan demanda à un passager si le métro allait vite. Le passager répondit que les rames étaient rapides et silencieuses.",
+      "pt": "Um alto-falante anunciou a próxima estação. Irlan perguntou a um passageiro se o metrô ia rápido. O passageiro respondeu que os trens eram rápidos e silenciosos."
+    },
+    {
+      "id": 4,
+      "fr": "« Pourquoi y a-t-il des portes sur le quai ? » demanda Íris. Andréa expliqua que les portes palières protégeaient les voyageurs et que c'était aussi une innovation lyonnaise.",
+      "pt": "« Por que há portas na plataforma? » perguntou Íris. Andréa explicou que as portas de plataforma protegiam os passageiros e que também era uma inovação lyonnaise."
+    },
+    {
+      "id": 5,
+      "fr": "Le soir, Irlan écrivit : « J'ai demandé à Andréa si Lyon avait été la première ville au monde avec un métro automatique. Elle a répondu que oui, et que c'était en 1978. Même sous terre, Lyon invente. »",
+      "pt": "À noite, Irlan escreveu: « Perguntei a Andréa se Lyon tinha sido a primeira cidade do mundo com metrô automático. Ela respondeu que sim, e que foi em 1978. Até no subsolo, Lyon inventa. »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "le métro",
+      "definitionPt": "metrô",
+      "definitionFr": "Train souterrain urbain.",
+      "inflections": ["le métro", "des métros"],
+      "ptTargets": ["metrô", "metrôs"],
+      "examples": [
+        { "level": "A1", "fr": "Le métro est rapide.", "pt": "O metrô é rápido." },
+        { "level": "A2-B1", "fr": "Le métro de Lyon est automatique.", "pt": "O metrô de Lyon é automático." },
+        { "level": "B1-B2", "fr": "Le métro, ouvert en 1978, fut le premier automatique du monde.", "pt": "O metrô, aberto em 1978, foi o primeiro automático do mundo." },
+        { "level": "C1-C2", "fr": "C'est le métro qui relie les collines et les fleuves de Lyon.", "pt": "É o metrô que liga as colinas e os rios de Lyon." }
+      ]
+    },
+    {
+      "term": "automatique",
+      "definitionPt": "automático",
+      "definitionFr": "Qui fonctionne sans intervention humaine.",
+      "inflections": ["automatique", "automatiques"],
+      "ptTargets": ["automático", "automática"],
+      "examples": [
+        { "level": "A1", "fr": "La porte est automatique.", "pt": "A porta é automática." },
+        { "level": "A2-B1", "fr": "Le métro automatique roule seul.", "pt": "O metrô automático anda sozinho." },
+        { "level": "B1-B2", "fr": "Le métro automatique, pionnier en 1978, a inspiré le monde entier.", "pt": "O metrô automático, pioneiro em 1978, inspirou o mundo inteiro." },
+        { "level": "C1-C2", "fr": "C'est l'automatisation qui a fait entrer le métro dans le futur.", "pt": "É a automatização que fez o metrô entrar no futuro." }
+      ]
+    },
+    {
+      "term": "la station",
+      "definitionPt": "estação (de metrô)",
+      "definitionFr": "Lieu où s'arrête le métro.",
+      "inflections": ["la station", "des stations"],
+      "ptTargets": ["estação", "estações"],
+      "examples": [
+        { "level": "A1", "fr": "La station est proche.", "pt": "A estação é perto." },
+        { "level": "A2-B1", "fr": "La prochaine station est Bellecour.", "pt": "A próxima estação é Bellecour." },
+        { "level": "B1-B2", "fr": "Les stations, décorées par des artistes, forment un musée souterrain.", "pt": "As estações, decoradas por artistas, formam um museu subterrâneo." },
+        { "level": "C1-C2", "fr": "C'est la station qui rythme les trajets des Lyonnais.", "pt": "É a estação que marca o ritmo dos trajetos dos lyonnais." }
+      ]
+    },
+    {
+      "term": "la rame",
+      "definitionPt": "trem (de metrô)",
+      "definitionFr": "Train du métro.",
+      "inflections": ["la rame", "des rames"],
+      "ptTargets": ["trem", "trens"],
+      "examples": [
+        { "level": "A1", "fr": "La rame arrive.", "pt": "O trem chega." },
+        { "level": "A2-B1", "fr": "Les rames sont silencieuses.", "pt": "Os trens são silenciosos." },
+        { "level": "B1-B2", "fr": "Les rames, automatiques, s'arrêtent au centimètre près.", "pt": "Os trens, automáticos, param ao centímetro." },
+        { "level": "C1-C2", "fr": "C'est la rame qui glisse sans un bruit sous la ville.", "pt": "É o trem que desliza sem um ruído sob a cidade." }
+      ]
+    },
+    {
+      "term": "le quai",
+      "definitionPt": "plataforma (de estação)",
+      "definitionFr": "Plateforme où l'on attend le métro.",
+      "inflections": ["le quai", "des quais"],
+      "ptTargets": ["plataforma", "plataformas"],
+      "examples": [
+        { "level": "A1", "fr": "Le quai est propre.", "pt": "A plataforma é limpa." },
+        { "level": "A2-B1", "fr": "On attend le métro sur le quai.", "pt": "Espera-se o metrô na plataforma." },
+        { "level": "B1-B2", "fr": "Les quais, protégés par des portes, garantissent la sécurité.", "pt": "As plataformas, protegidas por portas, garantem a segurança." },
+        { "level": "C1-C2", "fr": "C'est le quai qui sépare l'attente du départ.", "pt": "É a plataforma que separa a espera da partida." }
+      ]
+    },
+    {
+      "term": "la porte palière",
+      "definitionPt": "porta de plataforma",
+      "definitionFr": "Porte vitrée qui sépare le quai de la voie.",
+      "inflections": ["la porte palière", "des portes palières"],
+      "ptTargets": ["porta de plataforma", "portas de plataforma"],
+      "examples": [
+        { "level": "A1", "fr": "La porte palière est en verre.", "pt": "A porta de plataforma é de vidro." },
+        { "level": "A2-B1", "fr": "Les portes palières s'ouvrent avec le métro.", "pt": "As portas de plataforma abrem com o metrô." },
+        { "level": "B1-B2", "fr": "Les portes palières, inventées à Lyon, protègent les voyageurs.", "pt": "As portas de plataforma, inventadas em Lyon, protegem os passageiros." },
+        { "level": "C1-C2", "fr": "C'est la porte palière qui a fait la sécurité du métro moderne.", "pt": "É a porta de plataforma que fez a segurança do metrô moderno." }
+      ]
+    },
+    {
+      "term": "le voyageur",
+      "definitionPt": "passageiro, viajante",
+      "definitionFr": "Personne qui se déplace en transport.",
+      "inflections": ["le voyageur", "des voyageurs"],
+      "ptTargets": ["passageiro", "viajante", "passageiros"],
+      "examples": [
+        { "level": "A1", "fr": "Le voyageur attend.", "pt": "O passageiro espera." },
+        { "level": "A2-B1", "fr": "Les voyageurs montent dans le métro.", "pt": "Os passageiros entram no metrô." },
+        { "level": "B1-B2", "fr": "Les voyageurs, pressés le matin, sourient le soir.", "pt": "Os passageiros, apressados de manhã, sorriem à noite." },
+        { "level": "C1-C2", "fr": "C'est le voyageur qui donne au métro son vrai visage.", "pt": "É o passageiro que dá ao metrô seu verdadeiro rosto." }
+      ]
+    },
+    {
+      "term": "descendre",
+      "definitionPt": "descer",
+      "definitionFr": "Sortir d'un véhicule ou aller vers le bas.",
+      "inflections": ["je descends", "descendre", "descendu"],
+      "ptTargets": ["descer", "desce", "descem"],
+      "examples": [
+        { "level": "A1", "fr": "Je descends du bus.", "pt": "Eu desço do ônibus." },
+        { "level": "A2-B1", "fr": "Où descend-on ?", "pt": "Onde a gente desce?" },
+        { "level": "B1-B2", "fr": "Descendre à Bellecour, c'est entrer dans le cœur de Lyon.", "pt": "Descer em Bellecour é entrar no coração de Lyon." },
+        { "level": "C1-C2", "fr": "C'est en descendant que l'on découvre la ville à hauteur d'homme.", "pt": "É descendo que se descobre a cidade na altura do homem." }
+      ]
+    },
+    {
+      "term": "le haut-parleur",
+      "definitionPt": "alto-falante",
+      "definitionFr": "Appareil qui diffuse des annonces.",
+      "inflections": ["le haut-parleur", "des haut-parleurs"],
+      "ptTargets": ["alto-falante", "alto-falantes"],
+      "examples": [
+        { "level": "A1", "fr": "Le haut-parleur parle.", "pt": "O alto-falante fala." },
+        { "level": "A2-B1", "fr": "Le haut-parleur annonce la station.", "pt": "O alto-falante anuncia a estação." },
+        { "level": "B1-B2", "fr": "Le haut-parleur, clair et poli, guide les voyageurs.", "pt": "O alto-falante, claro e educado, guia os passageiros." },
+        { "level": "C1-C2", "fr": "C'est le haut-parleur qui donne sa voix au métro.", "pt": "É o alto-falante que dá voz ao metrô." }
+      ]
+    },
+    {
+      "term": "pionnier",
+      "definitionPt": "pioneiro",
+      "definitionFr": "Qui ouvre la voie à quelque chose de nouveau.",
+      "inflections": ["pionnier", "pionnière", "pionniers"],
+      "ptTargets": ["pioneiro", "pioneira"],
+      "examples": [
+        { "level": "A1", "fr": "Le métro est pionnier.", "pt": "O metrô é pioneiro." },
+        { "level": "A2-B1", "fr": "Lyon a été pionnière en 1978.", "pt": "Lyon foi pioneira em 1978." },
+        { "level": "B1-B2", "fr": "Le métro lyonnais, pionnier de l'automatisation, a servi de modèle.", "pt": "O metrô lyonnais, pioneiro da automatização, serviu de modelo." },
+        { "level": "C1-C2", "fr": "C'est la ville pionnière qui ouvre le chemin aux autres.", "pt": "É a cidade pioneira que abre o caminho para as outras." }
+      ]
+    },
+    {
+      "term": "souterrain",
+      "definitionPt": "subterrâneo",
+      "definitionFr": "Situé sous la terre.",
+      "inflections": ["souterrain", "souterraine", "souterrains"],
+      "ptTargets": ["subterrâneo", "subterrânea"],
+      "examples": [
+        { "level": "A1", "fr": "Le tunnel est souterrain.", "pt": "O túnel é subterrâneo." },
+        { "level": "A2-B1", "fr": "Le métro est souterrain.", "pt": "O metrô é subterrâneo." },
+        { "level": "B1-B2", "fr": "La ville souterraine, silencieuse, vit sous les pas des Lyonnais.", "pt": "A cidade subterrânea, silenciosa, vive sob os passos dos lyonnais." },
+        { "level": "C1-C2", "fr": "C'est le réseau souterrain qui relie les quartiers invisibles.", "pt": "É a rede subterrânea que liga os bairros invisíveis." }
+      ]
+    },
+    {
+      "term": "l'innovation",
+      "definitionPt": "inovação",
+      "definitionFr": "Invention nouvelle qui améliore les choses.",
+      "inflections": ["l'innovation", "des innovations"],
+      "ptTargets": ["inovação", "inovações"],
+      "examples": [
+        { "level": "A1", "fr": "L'innovation est utile.", "pt": "A inovação é útil." },
+        { "level": "A2-B1", "fr": "L'innovation lyonnaise est célèbre.", "pt": "A inovação lyonnaise é famosa." },
+        { "level": "B1-B2", "fr": "L'innovation, née à Lyon, a changé les transports du monde.", "pt": "A inovação, nascida em Lyon, mudou os transportes do mundo." },
+        { "level": "C1-C2", "fr": "C'est l'innovation qui pousse une ville vers demain.", "pt": "É a inovação que impulsiona uma cidade rumo ao amanhã." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Le discours indirect : questions et réponses dans le métro",
+    "explanationPt": "Relatar perguntas e respostas: 'Íris demanda : « Où descend-on ? »' → 'Íris demanda où l'on descendait'. 'Irlan demanda : « Le métro va-t-il vite ? »' → 'il demanda si le métro allait vite'. 'Andréa expliqua : « La ligne A est automatique »' → 'Andréa expliqua que la ligne A était automatique'.",
+    "exampleFr": "Íris demanda où l'on descendait ; Irlan demanda si le métro allait vite ; Andréa expliqua que la ligne A était automatique depuis 1978.",
+    "examplePt": "Íris perguntou onde se descia; Irlan perguntou se o metrô ia rápido; Andréa explicou que a linha A era automática desde 1978.",
+    "practiceQuestion": "Complete: « Andréa expliqua que la ligne A ___ automatique. »",
+    "options": ["était", "est", "sera"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "Questions avec SI",
+        "explanationPt": "'Le métro va-t-il vite ?' → 'il demanda si le métro allait vite' : perguntas sim/não usam SI.",
+        "exampleFr": "Irlan demanda si le métro allait vite.",
+        "examplePt": "Irlan perguntou se o metrô ia rápido.",
+        "practiceQuestion": "Complete: « Irlan demanda si le métro ___ vite. »",
+        "options": ["allait", "va", "ira"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "Présent → imparfait",
+        "explanationPt": "'La ligne est automatique' → 'elle expliqua que la ligne était automatique' : presente vira imperfeito.",
+        "exampleFr": "Andréa expliqua que les portes palières protégeaient les voyageurs.",
+        "examplePt": "Andréa explicou que as portas de plataforma protegiam os passageiros.",
+        "practiceQuestion": "Complete: « Andréa expliqua que les portes palières ___ les voyageurs. »",
+        "options": ["protégeaient", "protègent", "protégeront"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Complete: « Andréa expliqua que la ligne A ___ automatique. »",
+      "options": ["était", "est", "sera"],
+      "correctIndex": 0,
+      "explanation": "Presente vira imperfeito no discurso indireto."
+    },
+    {
+      "question": "O que havia de especial no metrô de Lyon em 1978?",
+      "options": ["Era o primeiro metrô automático do mundo", "Era o mais longo do mundo", "Era todo de madeira"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'la ligne A était automatique depuis 1978 et c'était une première mondiale'."
+    },
+    {
+      "question": "Onde a família desceu?",
+      "options": ["Em Bellecour", "Na Part-Dieu", "Em Villeurbanne"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'ils descendaient à Bellecour'."
+    },
+    {
+      "question": "Complete: « Irlan demanda si le métro ___ vite. »",
+      "options": ["allait", "va", "ira"],
+      "correctIndex": 0,
+      "explanation": "Pergunta sim/não no discurso indireto com SI."
+    },
+    {
+      "question": "Para que servem as portas palières?",
+      "options": ["Proteger os passageiros", "Decorar as estações", "Vender publicidade"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'les portes palières protégeaient les voyageurs'."
+    }
+  ]
+}

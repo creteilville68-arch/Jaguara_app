@@ -1,0 +1,252 @@
+{
+  "id": "amiens_lesson_20",
+  "cityId": "amiens",
+  "domain": "Clima & Natureza",
+  "level": "Iniciante em Transição (A1/A2)",
+  "titleFr": "Le temps du Nord",
+  "titlePt": "O tempo do Norte",
+  "subtitleFr": "La pluie, le vent et les beaux jours",
+  "subtitlePt": "A chuva, o vento e os belos dias",
+  "summaryPt": "Nesta Aula 20 (A1/A2) da Cidade #2, a família fala do tempo no norte da França. O aluno aprende o vocabulário do clima (pluie, vent, nuage, soleil, parapluie, il pleut, il fait) e a construção il fait + adjetivo.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Dans le nord de la France, il pleut souvent. « Aujourd'hui, il pleut, dit Andréa. Prenons le parapluie et mettons les manteaux. Le ciel est gris avec beaucoup de nuages. »",
+      "pt": "No norte da França, chove com frequência. « Hoje, está chovendo, diz Andréa. Vamos levar o guarda-chuva e vestir os casacos. O céu está cinza, com muitas nuvens. »"
+    },
+    {
+      "id": 2,
+      "fr": "Íris regarde par la fenêtre : « Est-ce qu'il fait froid aujourd'hui ? » Irlan répond : « Oui, il fait frais. Mais le vent souffle fort, alors il fait froid. Mettons une écharpe ! »",
+      "pt": "Íris olha pela janela: « Está frio hoje? » Irlan responde: « Sim, está fresco. Mas o vento sopra forte, então está frio. Vamos colocar um cachecol! »"
+    },
+    {
+      "id": 3,
+      "fr": "L'après-midi, le soleil apparaît entre les nuages. « Regardez ! dit Íris. Il ne pleut plus ! Nous pouvons aller au parc. » Andréa sourit : « Le temps du Nord change vite. »",
+      "pt": "À tarde, o sol aparece entre as nuvens. « Olhem! diz Íris. Não chove mais! Podemos ir ao parque. » Andréa sorri: « O tempo do Norte muda rápido. »"
+    },
+    {
+      "id": 4,
+      "fr": "Au parc, la famille marche sur un chemin sec. « J'aime le temps du Nord, dit Irlan. Quand il pleut, les jardins sont verts. Quand le soleil brille, tout devient doré. »",
+      "pt": "No parque, a família caminha por um caminho seco. « Gosto do tempo do Norte, diz Irlan. Quando chove, os jardins ficam verdes. Quando o sol brilha, tudo fica dourado. »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "la pluie",
+      "definitionPt": "a chuva",
+      "definitionFr": "Eau qui tombe du ciel.",
+      "inflections": ["la pluie", "une pluie"],
+      "ptTargets": ["chuva"],
+      "examples": [
+        { "level": "A1", "fr": "La pluie tombe.", "pt": "A chuva cai." },
+        { "level": "A2-B1", "fr": "Dans le nord, il pleut souvent.", "pt": "No norte, chove com frequência." },
+        { "level": "B2", "fr": "La pluie, douce, arrose les jardins.", "pt": "A chuva, suave, rega os jardins." },
+        { "level": "C1-C2", "fr": "C'est la pluie qui, discrète, rend le Nord si vert.", "pt": "É a chuva que, discreta, torna o Norte tão verde." }
+      ]
+    },
+    {
+      "term": "le vent",
+      "definitionPt": "o vento",
+      "definitionFr": "Air qui se déplace.",
+      "inflections": ["le vent", "un vent"],
+      "ptTargets": ["vento"],
+      "examples": [
+        { "level": "A1", "fr": "Le vent souffle.", "pt": "O vento sopra." },
+        { "level": "A2-B1", "fr": "Le vent souffle fort aujourd'hui.", "pt": "O vento sopra forte hoje." },
+        { "level": "B2", "fr": "Le vent, froid, traverse les rues.", "pt": "O vento, frio, atravessa as ruas." },
+        { "level": "C1-C2", "fr": "C'est le vent qui, puissant, sculpte les paysages du Nord.", "pt": "É o vento que, poderoso, esculpe as paisagens do Norte." }
+      ]
+    },
+    {
+      "term": "le nuage",
+      "definitionPt": "a nuvem",
+      "definitionFr": "Masse visible dans le ciel.",
+      "inflections": ["le nuage", "un nuage", "des nuages"],
+      "ptTargets": ["nuvem"],
+      "examples": [
+        { "level": "A1", "fr": "Le nuage est blanc.", "pt": "A nuvem é branca." },
+        { "level": "A2-B1", "fr": "Le ciel est gris avec beaucoup de nuages.", "pt": "O céu está cinza, com muitas nuvens." },
+        { "level": "B2", "fr": "Les nuages, lourds, annoncent la pluie.", "pt": "As nuvens, pesadas, anunciam a chuva." },
+        { "level": "C1-C2", "fr": "C'est le nuage qui, voyageur, traverse le ciel du Nord.", "pt": "É a nuvem que, viajante, atravessa o céu do Norte." }
+      ]
+    },
+    {
+      "term": "le parapluie",
+      "definitionPt": "o guarda-chuva",
+      "definitionFr": "Objet qui protège de la pluie.",
+      "inflections": ["le parapluie", "un parapluie", "des parapluies"],
+      "ptTargets": ["guarda-chuva"],
+      "examples": [
+        { "level": "A1", "fr": "Le parapluie est rouge.", "pt": "O guarda-chuva é vermelho." },
+        { "level": "A2-B1", "fr": "Prenons le parapluie !", "pt": "Vamos levar o guarda-chuva!" },
+        { "level": "B2", "fr": "Le parapluie, ouvert, protège de la pluie fine.", "pt": "O guarda-chuva, aberto, protege da chuva fina." },
+        { "level": "C1-C2", "fr": "C'est le parapluie qui, fidèle, accompagne les habitants du Nord.", "pt": "É o guarda-chuva que, fiel, acompanha os habitantes do Norte." }
+      ]
+    },
+    {
+      "term": "souffler",
+      "definitionPt": "soprar",
+      "definitionFr": "Déplacer de l'air.",
+      "inflections": ["je souffle", "souffler", "le vent souffle"],
+      "ptTargets": ["soprar"],
+      "examples": [
+        { "level": "A1", "fr": "Le vent souffle.", "pt": "O vento sopra." },
+        { "level": "A2-B1", "fr": "Le vent souffle fort.", "pt": "O vento sopra forte." },
+        { "level": "B2", "fr": "Le vent souffle sur la plaine picarde.", "pt": "O vento sopra sobre a planície picarda." },
+        { "level": "C1-C2", "fr": "C'est le vent qui, soufflant, donne son caractère au Nord.", "pt": "É o vento que, soprando, dá caráter ao Norte." }
+      ]
+    },
+    {
+      "term": "le manteau",
+      "definitionPt": "o casaco",
+      "definitionFr": "Vêtement chaud que l'on porte par-dessus.",
+      "inflections": ["le manteau", "un manteau", "des manteaux"],
+      "ptTargets": ["casaco"],
+      "examples": [
+        { "level": "A1", "fr": "Le manteau est chaud.", "pt": "O casaco é quente." },
+        { "level": "A2-B1", "fr": "Mettons les manteaux !", "pt": "Vamos vestir os casacos!" },
+        { "level": "B2", "fr": "Le manteau, épais, protège du froid du Nord.", "pt": "O casaco, grosso, protege do frio do Norte." },
+        { "level": "C1-C2", "fr": "C'est le manteau qui, enveloppant, garde la chaleur du corps.", "pt": "É o casaco que, envolvente, guarda o calor do corpo." }
+      ]
+    },
+    {
+      "term": "l'écharpe",
+      "definitionPt": "o cachecol",
+      "definitionFr": "Vêtement porté autour du cou.",
+      "inflections": ["l'écharpe", "une écharpe", "des écharpes"],
+      "ptTargets": ["cachecol", "echarpe"],
+      "examples": [
+        { "level": "A1", "fr": "L'écharpe est bleue.", "pt": "O cachecol é azul." },
+        { "level": "A2-B1", "fr": "Mettons une écharpe !", "pt": "Vamos colocar um cachecol!" },
+        { "level": "B2", "fr": "L'écharpe, en laine, réchauffe le cou.", "pt": "O cachecol, de lã, aquece o pescoço." },
+        { "level": "C1-C2", "fr": "C'est l'écharpe qui, colorée, illumine les jours gris.", "pt": "É o cachecol que, colorido, ilumina os dias cinzas." }
+      ]
+    },
+    {
+      "term": "apparaître",
+      "definitionPt": "aparecer",
+      "definitionFr": "Devenir visible.",
+      "inflections": ["j'apparais", "apparaître", "nous apparaissons"],
+      "ptTargets": ["aparecer"],
+      "examples": [
+        { "level": "A1", "fr": "Le soleil apparaît.", "pt": "O sol aparece." },
+        { "level": "A2-B1", "fr": "Le soleil apparaît entre les nuages.", "pt": "O sol aparece entre as nuvens." },
+        { "level": "B2", "fr": "Après la pluie, le soleil apparaît doucement.", "pt": "Depois da chuva, o sol aparece suavemente." },
+        { "level": "C1-C2", "fr": "C'est en apparaissant que le soleil change le ciel.", "pt": "É aparecendo que o sol muda o céu." }
+      ]
+    },
+    {
+      "term": "devenir",
+      "definitionPt": "tornar-se",
+      "definitionFr": "Changer d'état.",
+      "inflections": ["je deviens", "devenir", "nous devenons"],
+      "ptTargets": ["tornar-se", "ficar"],
+      "examples": [
+        { "level": "A1", "fr": "Le ciel devient gris.", "pt": "O céu fica cinza." },
+        { "level": "A2-B1", "fr": "Tout devient doré.", "pt": "Tudo fica dourado." },
+        { "level": "B2", "fr": "Les jardins deviennent verts après la pluie.", "pt": "Os jardins ficam verdes depois da chuva." },
+        { "level": "C1-C2", "fr": "C'est en devenant que les choses changent.", "pt": "É tornando-se que as coisas mudam." }
+      ]
+    },
+    {
+      "term": "souvent",
+      "definitionPt": "frequentemente / muitas vezes",
+      "definitionFr": "De nombreuses fois.",
+      "inflections": ["souvent"],
+      "ptTargets": ["frequentemente", "muitas vezes"],
+      "examples": [
+        { "level": "A1", "fr": "Il pleut souvent.", "pt": "Chove com frequência." },
+        { "level": "A2-B1", "fr": "Dans le nord, il pleut souvent.", "pt": "No norte, chove com frequência." },
+        { "level": "B2", "fr": "On voit souvent des nuages dans le ciel du Nord.", "pt": "Veem-se muitas vezes nuvens no céu do Norte." },
+        { "level": "C1-C2", "fr": "C'est souvent dans les petites choses que se cache le bonheur.", "pt": "É muitas vezes nas pequenas coisas que se esconde a felicidade." }
+      ]
+    },
+    {
+      "term": "le chemin",
+      "definitionPt": "o caminho",
+      "definitionFr": "Route ou sentier.",
+      "inflections": ["le chemin", "un chemin", "des chemins"],
+      "ptTargets": ["caminho"],
+      "examples": [
+        { "level": "A1", "fr": "Le chemin est long.", "pt": "O caminho é longo." },
+        { "level": "A2-B1", "fr": "La famille marche sur un chemin sec.", "pt": "A família caminha por um caminho seco." },
+        { "level": "B2", "fr": "Le chemin, bordé d'arbres, mène au parc.", "pt": "O caminho, cercado de árvores, leva ao parque." },
+        { "level": "C1-C2", "fr": "C'est le chemin qui, choisi, raconte nos histoires.", "pt": "É o caminho que, escolhido, conta nossas histórias." }
+      ]
+    },
+    {
+      "term": "frais",
+      "definitionPt": "fresco",
+      "definitionFr": "Un peu froid.",
+      "inflections": ["frais", "fraîche", "frais"],
+      "ptTargets": ["fresco"],
+      "examples": [
+        { "level": "A1", "fr": "Il fait frais.", "pt": "Está fresco." },
+        { "level": "A2-B1", "fr": "Il fait frais aujourd'hui.", "pt": "Está fresco hoje." },
+        { "level": "B2", "fr": "L'air frais du matin réveille les promeneurs.", "pt": "O ar fresco da manhã desperta os caminhantes." },
+        { "level": "C1-C2", "fr": "C'est la fraîcheur qui, légère, annonce l'automne.", "pt": "É o frescor que, leve, anuncia o outono." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Il fait + adjectif : o tempo",
+    "explanationPt": "Para falar do tempo: 'il fait beau' (faz bom tempo), 'il fait froid' (faz frio), 'il fait chaud' (faz calor), 'il fait frais' (está fresco). Para a chuva: 'il pleut' (chove). Para o vento: 'il y a du vent' (há vento).",
+    "exampleFr": "Il fait froid aujourd'hui. Il pleut souvent dans le Nord. Il y a du vent.",
+    "examplePt": "Está frio hoje. Chove com frequência no Norte. Há vento.",
+    "practiceQuestion": "Complete: 'Il _____ froid aujourd'hui.'",
+    "options": ["fait", "faire", "fais"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "L'impératif de mettre",
+        "explanationPt": "Imperativo de 'mettre' (vestir/colocar): 'Mets ton manteau !' (vista seu casaco!), 'Mettons les manteaux !' (vamos vestir os casacos!), 'Mettez une écharpe !' (coloquem um cachecol!).",
+        "exampleFr": "Mettons les manteaux ! Mettez une écharpe !",
+        "examplePt": "Vamos vestir os casacos! Coloquem um cachecol!",
+        "practiceQuestion": "Complete: '_____ les manteaux !'",
+        "options": ["Mettons", "Mettre", "Mets pas"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "Quand... : quando",
+        "explanationPt": "'Quand' + presente = quando: 'Quand il pleut, les jardins sont verts' (quando chove, os jardins ficam verdes), 'Quand le soleil brille, tout devient doré' (quando o sol brilha, tudo fica dourado).",
+        "exampleFr": "Quand il pleut, les jardins sont verts. Quand le soleil brille, tout devient doré.",
+        "examplePt": "Quando chove, os jardins ficam verdes. Quando o sol brilha, tudo fica dourado.",
+        "practiceQuestion": "Complete: '_____ il pleut, les jardins sont verts.'",
+        "options": ["Quand", "Comment", "Pourquoi"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Como é o tempo no norte da França?",
+      "options": ["chove com frequência", "faz muito calor", "nunca chove"],
+      "correctIndex": 0,
+      "explanation": "Dans le nord de la France, il pleut souvent."
+    },
+    {
+      "question": "O que a família leva quando chove?",
+      "options": ["o guarda-chuva", "os óculos de sol", "o leque"],
+      "correctIndex": 0,
+      "explanation": "Prenons le parapluie et mettons les manteaux."
+    },
+    {
+      "question": "O que acontece à tarde?",
+      "options": ["o sol aparece entre as nuvens", "começa a nevar", "o céu fica todo escuro"],
+      "correctIndex": 0,
+      "explanation": "L'après-midi, le soleil apparaît entre les nuages."
+    },
+    {
+      "question": "Complete: 'Il _____ froid aujourd'hui.'",
+      "options": ["fait", "faire", "fais"],
+      "correctIndex": 0,
+      "explanation": "Il fait froid = está frio."
+    },
+    {
+      "question": "Complete: '_____ il pleut, les jardins sont verts.'",
+      "options": ["Quand", "Comment", "Pourquoi"],
+      "correctIndex": 0,
+      "explanation": "Quand = quando."
+    }
+  ]
+}

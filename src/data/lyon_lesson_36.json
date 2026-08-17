@@ -1,0 +1,257 @@
+{
+  "id": "lyon_lesson_36",
+  "cityId": "lyon",
+  "domain": "Terra & Vinhos",
+  "level": "Intermediário (B2+)",
+  "titleFr": "Le Beaujolais : les pierres dorées et le vin nouveau",
+  "titlePt": "O Beaujolais: as pedras douradas e o vinho novo",
+  "subtitleFr": "Les trois conditionnels au pays du Beaujolais",
+  "subtitlePt": "Os três condicionais na terra do Beaujolais",
+  "summaryPt": "Ao norte de Lyon, as colinas do Beaujolais guardam vilarejos de pedras douradas (pierres dorées) e produzem vinhos famosos. Todo ano, na terceira quinta-feira de novembro, o beaujolais nouveau sai dos produtores à meia-noite. Nesta aula B2+, Irlan revisita os três condicionais.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Irlan loua une voiture et la famille roula vers le nord. « Si les pierres sont dorées, c'est parce que le soleil les caresse », dit Andréa. Les maisons des villages brillaient d'une lumière chaude.",
+      "pt": "Irlan alugou um carro e a família seguiu para o norte. « Se as pedras são douradas, é porque o sol as acaricia », disse Andréa. As casas dos vilarejos brilhavam com uma luz quente."
+    },
+    {
+      "id": 2,
+      "fr": "Dans une cave, le vigneron fit goûter le vin nouveau. « Si vous veniez en novembre, vous pourriez voir la fête du beaujolais », dit-il. Irlan demanda quand avait lieu cette fête.",
+      "pt": "Numa adega, o viticultor fez provar o vinho novo. « Se vocês viessem em novembro, poderiam ver a festa do beaujolais », disse ele. Irlan perguntou quando acontecia essa festa."
+    },
+    {
+      "id": 3,
+      "fr": "« Le beaujolais nouveau sort chaque année la troisième semaine de novembre, à minuit », expliqua le vigneron. « Si vous aviez goûté celui de l'an dernier, vous auriez compris pourquoi on l'appelle le vin de la joie. »",
+      "pt": "« O beaujolais nouveau sai todo ano na terceira semana de novembro, à meia-noite », explicou o viticultor. « Se vocês tivessem provado o do ano passado, teriam entendido por que o chamam de vinho da alegria. »"
+    },
+    {
+      "id": 4,
+      "fr": "Íris, avec un jus de raisin, trinqua avec les adultes. « Si j'étais grande, je trinquerais avec du vrai vin », dit-elle en riant. Andréa promit qu'elle pourrait goûter quand elle serait adulte.",
+      "pt": "Íris, com um suco de uva, brindou com os adultos. « Se eu fosse grande, brindaria com vinho de verdade », disse ela rindo. Andréa prometeu que ela poderia provar quando fosse adulta."
+    },
+    {
+      "id": 5,
+      "fr": "Le soir, Irlan écrivit : « Si je devais choisir un paysage français, je choisirais les pierres dorées du Beaujolais. Si nous étions venus en novembre, nous aurions vu la fête du vin. Nous reviendrons. C'est promis. »",
+      "pt": "À noite, Irlan escreveu: « Se eu tivesse de escolher uma paisagem francesa, escolheria as pedras douradas do Beaujolais. Se tivéssemos vindo em novembro, teríamos visto a festa do vinho. Voltaremos. Prometido. »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "le vignoble",
+      "definitionPt": "vinhedo, região vinícola",
+      "definitionFr": "Territoire planté de vignes.",
+      "inflections": ["le vignoble", "des vignobles"],
+      "ptTargets": ["vinhedo", "vinícola", "vinhedos"],
+      "examples": [
+        { "level": "A1", "fr": "Le vignoble est vert.", "pt": "O vinhedo é verde." },
+        { "level": "A2-B1", "fr": "Le Beaujolais est un vignoble célèbre.", "pt": "O Beaujolais é um vinhedo famoso." },
+        { "level": "B1-B2", "fr": "Le vignoble, étendu sur les collines, produit des vins réputés.", "pt": "O vinhedo, estendido pelas colinas, produz vinhos renomados." },
+        { "level": "C1-C2", "fr": "C'est le vignoble qui dessine le paysage des pierres dorées.", "pt": "É o vinhedo que desenha a paisagem das pedras douradas." }
+      ]
+    },
+    {
+      "term": "le vigneron",
+      "definitionPt": "viticultor, produtor de vinho",
+      "definitionFr": "Personne qui cultive la vigne et produit le vin.",
+      "inflections": ["le vigneron", "des vignerons"],
+      "ptTargets": ["viticultor", "produtor de vinho"],
+      "examples": [
+        { "level": "A1", "fr": "Le vigneron travaille la terre.", "pt": "O viticultor trabalha a terra." },
+        { "level": "A2-B1", "fr": "Le vigneron a fait goûter son vin.", "pt": "O viticultor fez provar seu vinho." },
+        { "level": "B1-B2", "fr": "Le vigneron, passionné, raconte son terroir avec fierté.", "pt": "O viticultor, apaixonado, conta seu terroir com orgulho." },
+        { "level": "C1-C2", "fr": "C'est le vigneron qui donne à la terre le goût du temps.", "pt": "É o viticultor que dá à terra o gosto do tempo." }
+      ]
+    },
+    {
+      "term": "la cave",
+      "definitionPt": "adega, porão",
+      "definitionFr": "Lieu souterrain où l'on garde le vin.",
+      "inflections": ["la cave", "des caves"],
+      "ptTargets": ["adega", "porão", "adegas"],
+      "examples": [
+        { "level": "A1", "fr": "La cave est fraîche.", "pt": "A adega é fresca." },
+        { "level": "A2-B1", "fr": "La cave sent le vin.", "pt": "A adega cheira a vinho." },
+        { "level": "B1-B2", "fr": "La cave, creusée dans la roche, garde les bouteilles à bonne température.", "pt": "A adega, escavada na rocha, mantém as garrafas na temperatura ideal." },
+        { "level": "C1-C2", "fr": "C'est la cave qui préserve le fruit de l'effort du vigneron.", "pt": "É a adega que preserva o fruto do esforço do viticultor." }
+      ]
+    },
+    {
+      "term": "le vin nouveau",
+      "definitionPt": "vinho novo",
+      "definitionFr": "Vin jeune vendu quelques semaines après la récolte.",
+      "inflections": ["le vin nouveau", "des vins nouveaux"],
+      "ptTargets": ["vinho novo", "vinhos novos"],
+      "examples": [
+        { "level": "A1", "fr": "Le vin nouveau arrive.", "pt": "O vinho novo chega." },
+        { "level": "A2-B1", "fr": "Le beaujolais nouveau se boit en novembre.", "pt": "O beaujolais nouveau se bebe em novembro." },
+        { "level": "B1-B2", "fr": "Le vin nouveau, sorti à minuit, fait la fête dans toute la France.", "pt": "O vinho novo, lançado à meia-noite, faz festa em toda a França." },
+        { "level": "C1-C2", "fr": "C'est le vin nouveau qui célèbre la fin des vendanges.", "pt": "É o vinho novo que celebra o fim da colheita." }
+      ]
+    },
+    {
+      "term": "trinquer",
+      "definitionPt": "brindar, tocar os copos",
+      "definitionFr": "Toucher les verres en signe de fête.",
+      "inflections": ["je trinque", "trinquer", "trinqué"],
+      "ptTargets": ["brindar", "brindaria", "brindou"],
+      "examples": [
+        { "level": "A1", "fr": "Ils trinquent.", "pt": "Eles brindam." },
+        { "level": "A2-B1", "fr": "La famille trinque avec du jus de raisin.", "pt": "A família brinda com suco de uva." },
+        { "level": "B1-B2", "fr": "Si j'étais grande, je trinquerais avec du vrai vin.", "pt": "Se eu fosse grande, brindaria com vinho de verdade." },
+        { "level": "C1-C2", "fr": "C'est en trinquant que l'on scelle les amitiés.", "pt": "É brindando que se selam as amizades." }
+      ]
+    },
+    {
+      "term": "la bouteille",
+      "definitionPt": "garrafa",
+      "definitionFr": "Récipient en verre pour le vin.",
+      "inflections": ["la bouteille", "des bouteilles"],
+      "ptTargets": ["garrafa", "garrafas"],
+      "examples": [
+        { "level": "A1", "fr": "La bouteille est pleine.", "pt": "A garrafa está cheia." },
+        { "level": "A2-B1", "fr": "Le vigneron ouvre une bouteille.", "pt": "O viticultor abre uma garrafa." },
+        { "level": "B1-B2", "fr": "Les bouteilles, alignées dans la cave, attendent leur heure.", "pt": "As garrafas, alinhadas na adega, esperam sua hora." },
+        { "level": "C1-C2", "fr": "C'est la bouteille qui voyage avec les souvenirs.", "pt": "É a garrafa que viaja com as lembranças." }
+      ]
+    },
+    {
+      "term": "la récolte",
+      "definitionPt": "colheita",
+      "definitionFr": "Ramassage des fruits de la terre.",
+      "inflections": ["la récolte", "des récoltes"],
+      "ptTargets": ["colheita", "colheitas"],
+      "examples": [
+        { "level": "A1", "fr": "La récolte arrive.", "pt": "A colheita chega." },
+        { "level": "A2-B1", "fr": "La récolte du raisin se fait en automne.", "pt": "A colheita da uva acontece no outono." },
+        { "level": "B1-B2", "fr": "La récolte, abondante, promet un beau vin nouveau.", "pt": "A colheita, abundante, promete um belo vinho novo." },
+        { "level": "C1-C2", "fr": "C'est la récolte qui récompense une année de travail.", "pt": "É a colheita que recompensa um ano de trabalho." }
+      ]
+    },
+    {
+      "term": "le raisin",
+      "definitionPt": "uva",
+      "definitionFr": "Fruit de la vigne.",
+      "inflections": ["le raisin", "des raisins"],
+      "ptTargets": ["uva", "uvas"],
+      "examples": [
+        { "level": "A1", "fr": "Le raisin est sucré.", "pt": "A uva é doce." },
+        { "level": "A2-B1", "fr": "Íris boit du jus de raisin.", "pt": "Íris bebe suco de uva." },
+        { "level": "B1-B2", "fr": "Le raisin, mûri au soleil, donne au vin sa couleur.", "pt": "A uva, amadurecida ao sol, dá ao vinho sua cor." },
+        { "level": "C1-C2", "fr": "C'est le raisin qui transforme une colline en richesse.", "pt": "É a uva que transforma uma colina em riqueza." }
+      ]
+    },
+    {
+      "term": "les vendanges",
+      "definitionPt": "vindima (colheita da uva)",
+      "definitionFr": "Période de la récolte du raisin.",
+      "inflections": ["les vendanges"],
+      "ptTargets": ["vindima", "vindimas"],
+      "examples": [
+        { "level": "A1", "fr": "Les vendanges sont en automne.", "pt": "A vindima é no outono." },
+        { "level": "A2-B1", "fr": "Les vendanges rassemblent les familles.", "pt": "A vindima reúne as famílias." },
+        { "level": "B1-B2", "fr": "Les vendanges, tradition ancienne, mobilisent tout le village.", "pt": "A vindima, tradição antiga, mobiliza todo o vilarejo." },
+        { "level": "C1-C2", "fr": "C'est aux vendanges que le vin nouveau promet sa joie.", "pt": "É na vindima que o vinho novo promete sua alegria." }
+      ]
+    },
+    {
+      "term": "doré",
+      "definitionPt": "dourado",
+      "definitionFr": "De la couleur de l'or.",
+      "inflections": ["doré", "dorée", "dorés", "dorées"],
+      "ptTargets": ["dourado", "dourada", "dourados"],
+      "examples": [
+        { "level": "A1", "fr": "La pierre est dorée.", "pt": "A pedra é dourada." },
+        { "level": "A2-B1", "fr": "Les pierres dorées brillent au soleil.", "pt": "As pedras douradas brilham ao sol." },
+        { "level": "B1-B2", "fr": "Les maisons dorées, typiques du Beaujolais, illuminent les villages.", "pt": "As casas douradas, típicas do Beaujolais, iluminam os vilarejos." },
+        { "level": "C1-C2", "fr": "C'est la pierre dorée qui donne au paysage son éclat unique.", "pt": "É a pedra dourada que dá à paisagem seu brilho único." }
+      ]
+    },
+    {
+      "term": "le terroir",
+      "definitionPt": "terroir (terra + clima que dão caráter ao produto)",
+      "definitionFr": "Ensemble des caractéristiques d'un lieu qui influencent le goût.",
+      "inflections": ["le terroir", "des terroirs"],
+      "ptTargets": ["terroir", "terroirs"],
+      "examples": [
+        { "level": "A1", "fr": "Le terroir est riche.", "pt": "O terroir é rico." },
+        { "level": "A2-B1", "fr": "Le vin exprime le terroir.", "pt": "O vinho expressa o terroir." },
+        { "level": "B1-B2", "fr": "Le terroir, unique, donne au Beaujolais son caractère.", "pt": "O terroir, único, dá ao Beaujolais seu caráter." },
+        { "level": "C1-C2", "fr": "C'est le terroir que le vigneron apprend à respecter toute sa vie.", "pt": "É o terroir que o viticultor aprende a respeitar a vida inteira." }
+      ]
+    },
+    {
+      "term": "la joie",
+      "definitionPt": "alegria",
+      "definitionFr": "Sentiment de grand bonheur.",
+      "inflections": ["la joie"],
+      "ptTargets": ["alegria"],
+      "examples": [
+        { "level": "A1", "fr": "La joie est grande.", "pt": "A alegria é grande." },
+        { "level": "A2-B1", "fr": "Le vin nouveau apporte de la joie.", "pt": "O vinho novo traz alegria." },
+        { "level": "B1-B2", "fr": "La joie, partagée autour de la table, rend le vin plus savoureux.", "pt": "A alegria, compartilhada à mesa, torna o vinho mais saboroso." },
+        { "level": "C1-C2", "fr": "C'est la joie qui donne son vrai goût au vin de la fête.", "pt": "É a alegria que dá o verdadeiro gosto ao vinho da festa." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Les trois conditionnels : hypothèses dans le Beaujolais",
+    "explanationPt": "Três hipóteses: presente/real ('si les pierres sont dorées, c'est parce que le soleil les caresse'), irreal do presente ('si vous veniez en novembre, vous pourriez voir la fête'; 'si j'étais grande, je trinquerais'), irreal do passado ('si vous aviez goûté celui de l'an dernier, vous auriez compris').",
+    "exampleFr": "Si vous veniez en novembre, vous pourriez voir la fête ; si vous aviez goûté celui de l'an dernier, vous auriez compris pourquoi on l'appelle le vin de la joie.",
+    "examplePt": "Se vocês viessem em novembro, poderiam ver a festa; se tivessem provado o do ano passado, teriam entendido por que o chamam de vinho da alegria.",
+    "practiceQuestion": "Complete: « Si vous veniez en novembre, vous ___ voir la fête. »",
+    "options": ["pourriez", "pourrez", "pouvez"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "Si + imparfait → conditionnel présent",
+        "explanationPt": "'Si vous veniez en novembre, vous pourriez voir la fête' : hipótese no presente/futuro.",
+        "exampleFr": "Si j'étais grande, je trinquerais avec du vrai vin.",
+        "examplePt": "Se eu fosse grande, brindaria com vinho de verdade.",
+        "practiceQuestion": "Complete: « Si j'étais grande, je ___ avec du vrai vin. »",
+        "options": ["trinquerais", "trinquerai", "trinque"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "Si + plus-que-parfait → conditionnel passé",
+        "explanationPt": "'Si vous aviez goûté celui de l'an dernier, vous auriez compris' : hipótese passada.",
+        "exampleFr": "Si nous étions venus en novembre, nous aurions vu la fête du vin.",
+        "examplePt": "Se tivéssemos vindo em novembro, teríamos visto a festa do vinho.",
+        "practiceQuestion": "Complete: « Si nous étions venus en novembre, nous ___ vu la fête. »",
+        "options": ["aurions", "avons", "avions"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Complete: « Si vous veniez en novembre, vous ___ voir la fête. »",
+      "options": ["pourriez", "pourrez", "pouvez"],
+      "correctIndex": 0,
+      "explanation": "Si + imparfait → condicional presente."
+    },
+    {
+      "question": "Por que as pedras das casas são douradas?",
+      "options": ["Porque o sol as acaricia", "Porque são pintadas", "Porque são de ouro real"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'Si les pierres sont dorées, c'est parce que le soleil les caresse'."
+    },
+    {
+      "question": "Quando sai o beaujolais nouveau?",
+      "options": ["Terceira semana de novembro, à meia-noite", "No verão, ao meio-dia", "Na Páscoa"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'Le beaujolais nouveau sort chaque année la troisième semaine de novembre, à minuit'."
+    },
+    {
+      "question": "Complete: « Si vous aviez goûté celui de l'an dernier, vous ___ compris. »",
+      "options": ["auriez", "aurez", "avez"],
+      "correctIndex": 0,
+      "explanation": "Si + mais-que-perfeito → condicional passado."
+    },
+    {
+      "question": "O que Irlan prometeu no final?",
+      "options": ["Que a família voltaria ao Beaujolais", "Que compraria uma casa", "Que plantaria uvas"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'Nous reviendrons. C'est promis.'"
+    }
+  ]
+}

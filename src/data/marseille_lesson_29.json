@@ -1,0 +1,257 @@
+{
+  "id": "marseille_lesson_29",
+  "cityId": "marseille",
+  "domain": "Mercados & Gastronomia",
+  "level": "Avançado (C1)",
+  "titleFr": "Le marché des Capucins : le ventre de Marseille",
+  "titlePt": "O mercado dos Capuchinhos: o ventre de Marseille",
+  "subtitleFr": "Le subjonctif et l'opposition : la ville qui se goûte",
+  "subtitlePt": "O subjuntivo e a oposição: a cidade que se prova",
+  "summaryPt": "Entre Noailles e o Vieux-Port, o marché des Capucins é um dos mercados mais antigos e animados de Marseille: frutas, peixes, especiarias e gritos de vendedores. Nesta aula C1, Irlan entrega pedidos no mercado e descobre que, para conhecer uma cidade, é preciso prová-la.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "À huit heures, le marché des Capucins rugissait déjà. « Pour que les clients aient les produits les plus frais, il faut se lever avant le soleil », dit un maraîcher à Irlan. Les cageots de fruits coloraient la place.",
+      "pt": "Às oito horas, o mercado dos Capuchinhos já rugia. « Para que os clientes tenham os produtos mais frescos, é preciso levantar antes do sol », disse um feirante a Irlan. As caixas de frutas coloriam a praça."
+    },
+    {
+      "id": 2,
+      "fr": "Irlan, en scooter, chargeait ses commandes de livraison. « Bien que le marché soit bondé, j'adore ce bruit », cria-t-il à Andréa. Les poissonniers appelaient les passants, les épiciers empilaient les épices.",
+      "pt": "Irlan, de scooter, carregava seus pedidos de entrega. « Embora o mercado esteja lotado, adoro esse barulho », gritou ele para Andréa. Os peixeiros chamavam os passantes, os merceeiros empilhavam as especiarias."
+    },
+    {
+      "id": 3,
+      "fr": "Un vieux client choisissait ses tomates une à une. « Pourtant, on trouve les mêmes tomates au supermarché », plaisanta le maraîcher. « Oui, mais ici, il y a le soleil, les mains et les histoires », répondit le client.",
+      "pt": "Um velho cliente escolhia seus tomates um a um. « No entanto, encontram-se os mesmos tomates no supermercado », brincou o feirante. « Sim, mas aqui há o sol, as mãos e as histórias », respondeu o cliente."
+    },
+    {
+      "id": 4,
+      "fr": "Íris goûtait une olive, puis une autre. « Il est important que les enfants connaissent le goût des choses vraies », dit la marchande d'olives. Andréa acheta du miel, du basilic et une courge énorme.",
+      "pt": "Íris provava uma azeitona, depois outra. « É importante que as crianças conheçam o gosto das coisas verdadeiras », disse a vendedora de azeitonas. Andréa comprou mel, manjericão e uma abóbora enorme."
+    },
+    {
+      "id": 5,
+      "fr": "Le soir, Irlan écrivit : « Marseille se goûte avant de se comprendre. Alors que les immeubles se ressemblent, chaque étal raconte un voyage. Et il faut que je me souvienne : la ville est une table immense. »",
+      "pt": "À noite, Irlan escreveu: « Marseille se prova antes de se compreender. Enquanto os prédios se parecem, cada banca conta uma viagem. E é preciso que eu me lembre: a cidade é uma mesa imensa. »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "le marché",
+      "definitionPt": "mercado (feira)",
+      "definitionFr": "Lieu où l'on vend des produits frais.",
+      "inflections": ["le marché", "les marchés"],
+      "ptTargets": ["mercado", "feira", "mercados"],
+      "examples": [
+        { "level": "A1", "fr": "Le marché est ouvert.", "pt": "O mercado está aberto." },
+        { "level": "A2-B1", "fr": "Nous allons au marché le matin.", "pt": "Vamos ao mercado de manhã." },
+        { "level": "B1-B2", "fr": "Le marché des Capucins, ouvert depuis plus d'un siècle, est le cœur du quartier.", "pt": "O mercado dos Capuchinhos, aberto há mais de um século, é o coração do bairro." },
+        { "level": "C1-C2", "fr": "C'est le marché qui donne à la ville son goût quotidien.", "pt": "É o mercado que dá à cidade seu gosto cotidiano." }
+      ]
+    },
+    {
+      "term": "le maraîcher",
+      "definitionPt": "feirante (produtor de hortaliças)",
+      "definitionFr": "Producteur de légumes et de fruits.",
+      "inflections": ["le maraîcher", "les maraîchers"],
+      "ptTargets": ["feirante", "horticultor", "feirantes"],
+      "examples": [
+        { "level": "A1", "fr": "Le maraîcher vend des tomates.", "pt": "O feirante vende tomates." },
+        { "level": "A2-B1", "fr": "Le maraîcher arrive avant le soleil.", "pt": "O feirante chega antes do sol." },
+        { "level": "B1-B2", "fr": "Les maraîchers, fidèles au marché, connaissent chaque client par son prénom.", "pt": "Os feirantes, fiéis ao mercado, conhecem cada cliente pelo nome." },
+        { "level": "C1-C2", "fr": "C'est le maraîcher qui relie la terre à la ville.", "pt": "É o feirante que liga a terra à cidade." }
+      ]
+    },
+    {
+      "term": "le cageot",
+      "definitionPt": "caixote (de frutas)",
+      "definitionFr": "Caisse en bois pour les fruits.",
+      "inflections": ["le cageot", "les cageots"],
+      "ptTargets": ["caixote", "caixas", "caixotes"],
+      "examples": [
+        { "level": "A1", "fr": "Le cageot est plein.", "pt": "O caixote está cheio." },
+        { "level": "A2-B1", "fr": "Les cageots de fruits colorient la place.", "pt": "Os caixotes de frutas colorem a praça." },
+        { "level": "B1-B2", "fr": "Les cageots, empilés dès l'aube, annoncent l'ouverture du marché.", "pt": "Os caixotes, empilhados desde o amanhecer, anunciam a abertura do mercado." },
+        { "level": "C1-C2", "fr": "C'est le cageot qui garde la fraîcheur de la nuit.", "pt": "É o caixote que guarda o frescor da noite." }
+      ]
+    },
+    {
+      "term": "le poissonnier",
+      "definitionPt": "peixeiro",
+      "definitionFr": "Vendeur de poissons.",
+      "inflections": ["le poissonnier", "les poissonniers"],
+      "ptTargets": ["peixeiro", "peixeiros"],
+      "examples": [
+        { "level": "A1", "fr": "Le poissonnier crie.", "pt": "O peixeiro grita." },
+        { "level": "A2-B1", "fr": "Les poissonniers appellent les passants.", "pt": "Os peixeiros chamam os passantes." },
+        { "level": "B1-B2", "fr": "Le poissonnier, debout derrière sa glace, annonce les arrivages du matin.", "pt": "O peixeiro, em pé atrás do seu balcão de gelo, anuncia as chegadas da manhã." },
+        { "level": "C1-C2", "fr": "C'est le poissonnier qui connaît la mer par son carnet de commandes.", "pt": "É o peixeiro que conhece o mar por seu caderno de pedidos." }
+      ]
+    },
+    {
+      "term": "l'épicier",
+      "definitionPt": "merceeiro",
+      "definitionFr": "Vendeur de produits alimentaires secs.",
+      "inflections": ["l'épicier", "les épiciers"],
+      "ptTargets": ["merceeiro", "merceeiros"],
+      "examples": [
+        { "level": "A1", "fr": "L'épicier est aimable.", "pt": "O merceeiro é simpático." },
+        { "level": "A2-B1", "fr": "L'épicier empile les épices.", "pt": "O merceeiro empilha as especiarias." },
+        { "level": "B1-B2", "fr": "L'épicier, installé au marché depuis trente ans, a vu changer tout le quartier.", "pt": "O merceeiro, instalado no mercado há trinta anos, viu mudar todo o bairro." },
+        { "level": "C1-C2", "fr": "C'est l'épicier qui tisse les liens invisibles du marché.", "pt": "É o merceeiro que tece os laços invisíveis do mercado." }
+      ]
+    },
+    {
+      "term": "l'épice",
+      "definitionPt": "especiaria, tempero",
+      "definitionFr": "Produit aromatique pour la cuisine.",
+      "inflections": ["l'épice", "les épices"],
+      "ptTargets": ["especiaria", "tempero", "especiarias"],
+      "examples": [
+        { "level": "A1", "fr": "L'épice sent fort.", "pt": "A especiaria cheira forte." },
+        { "level": "A2-B1", "fr": "Les épices viennent du monde entier.", "pt": "As especiarias vêm do mundo inteiro." },
+        { "level": "B1-B2", "fr": "Les épices, alignées en pyramides, racontent les routes du commerce.", "pt": "As especiarias, alinhadas em pirâmides, contam as rotas do comércio." },
+        { "level": "C1-C2", "fr": "C'est l'épice qui fait voyager le palais sans quitter la place.", "pt": "É a especiaria que faz o paladar viajar sem sair da praça." }
+      ]
+    },
+    {
+      "term": "la commande",
+      "definitionPt": "pedido, encomenda",
+      "definitionFr": "Demande d'un produit ou d'un service.",
+      "inflections": ["la commande", "les commandes"],
+      "ptTargets": ["pedido", "encomenda", "pedidos"],
+      "examples": [
+        { "level": "A1", "fr": "La commande est prête.", "pt": "O pedido está pronto." },
+        { "level": "A2-B1", "fr": "Irlan charge ses commandes sur la scooter.", "pt": "Irlan carrega seus pedidos na scooter." },
+        { "level": "B1-B2", "fr": "Les commandes, enregistrées sur le téléphone, guident les livreurs dans la ville.", "pt": "Os pedidos, registrados no celular, guiam os entregadores pela cidade." },
+        { "level": "C1-C2", "fr": "C'est la commande qui fait battre le rythme de la livraison.", "pt": "É o pedido que faz bater o ritmo da entrega." }
+      ]
+    },
+    {
+      "term": "la livraison",
+      "definitionPt": "entrega",
+      "definitionFr": "Action de livrer une commande.",
+      "inflections": ["la livraison", "les livraisons"],
+      "ptTargets": ["entrega", "entregas"],
+      "examples": [
+        { "level": "A1", "fr": "La livraison est rapide.", "pt": "A entrega é rápida." },
+        { "level": "A2-B1", "fr": "Les livraisons commencent tôt.", "pt": "As entregas começam cedo." },
+        { "level": "B1-B2", "fr": "La livraison, effectuée en scooter, traverse la ville en un quart d'heure.", "pt": "A entrega, feita de scooter, atravessa a cidade em quinze minutos." },
+        { "level": "C1-C2", "fr": "C'est la livraison qui relie les marchés aux tables de la ville.", "pt": "É a entrega que liga os mercados às mesas da cidade." }
+      ]
+    },
+    {
+      "term": "l'étal",
+      "definitionPt": "banca, estande de venda",
+      "definitionFr": "Table de vente au marché.",
+      "inflections": ["l'étal", "les étals"],
+      "ptTargets": ["banca", "estande", "bancas"],
+      "examples": [
+        { "level": "A1", "fr": "L'étal est coloré.", "pt": "A banca é colorida." },
+        { "level": "A2-B1", "fr": "Chaque étal raconte un voyage.", "pt": "Cada banca conta uma viagem." },
+        { "level": "B1-B2", "fr": "Les étals, chargés de produits du monde, font du marché une carte géante.", "pt": "As bancas, carregadas de produtos do mundo, fazem do mercado um mapa gigante." },
+        { "level": "C1-C2", "fr": "C'est l'étal qui transforme le commerce en spectacle.", "pt": "É a banca que transforma o comércio em espetáculo." }
+      ]
+    },
+    {
+      "term": "le miel",
+      "definitionPt": "mel",
+      "definitionFr": "Produit sucré des abeilles.",
+      "inflections": ["le miel", "les miels"],
+      "ptTargets": ["mel", "méis"],
+      "examples": [
+        { "level": "A1", "fr": "Le miel est doux.", "pt": "O mel é doce." },
+        { "level": "A2-B1", "fr": "Andréa achète du miel.", "pt": "Andréa compra mel." },
+        { "level": "B1-B2", "fr": "Le miel, vendu en pot de verre, garde le goût des collines provençales.", "pt": "O mel, vendido em pote de vidro, guarda o gosto das colinas provençais." },
+        { "level": "C1-C2", "fr": "C'est le miel qui parfume le petit-déjeuner de toute la Méditerranée.", "pt": "É o mel que perfuma o café da manhã de todo o Mediterrâneo." }
+      ]
+    },
+    {
+      "term": "le basilic",
+      "definitionPt": "manjericão",
+      "definitionFr": "Plante aromatique.",
+      "inflections": ["le basilic", "les basilics"],
+      "ptTargets": ["manjericão", "manjericões"],
+      "examples": [
+        { "level": "A1", "fr": "Le basilic sent bon.", "pt": "O manjericão cheira bem." },
+        { "level": "A2-B1", "fr": "Le basilic parfume la sauce.", "pt": "O manjericão perfuma o molho." },
+        { "level": "B1-B2", "fr": "Le basilic, acheté en pot, embaume toute la cuisine.", "pt": "O manjericão, comprado em vaso, perfuma toda a cozinha." },
+        { "level": "C1-C2", "fr": "C'est le basilic qui donne à la cuisine du Midi son parfum d'été.", "pt": "É o manjericão que dá à cozinha do Sul seu perfume de verão." }
+      ]
+    },
+    {
+      "term": "la courge",
+      "definitionPt": "abóbora",
+      "definitionFr": "Gros légume orange.",
+      "inflections": ["la courge", "les courges"],
+      "ptTargets": ["abóbora", "abóboras"],
+      "examples": [
+        { "level": "A1", "fr": "La courge est orange.", "pt": "A abóbora é laranja." },
+        { "level": "A2-B1", "fr": "Andréa achète une courge énorme.", "pt": "Andréa compra uma abóbora enorme." },
+        { "level": "B1-B2", "fr": "Les courges, alignées en automne, annoncent les soupes d'hiver.", "pt": "As abóboras, alinhadas no outono, anunciam as sopas de inverno." },
+        { "level": "C1-C2", "fr": "C'est la courge qui garde toute la douceur du soleil d'été.", "pt": "É a abóbora que guarda toda a doçura do sol de verão." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Subjonctif et opposition : la ville qui se goûte",
+    "explanationPt": "Combinação C1 no marché des Capucins: subjonctif ('Pour que les clients aient les produits les plus frais', 'Bien que le marché soit bondé', 'Il est important que les enfants connaissent le goût', 'il faut que je me souvienne') e oposição ('Pourtant, on trouve les mêmes tomates au supermarché', 'Alors que les immeubles se ressemblent, chaque étal raconte un voyage').",
+    "exampleFr": "Pour que les clients aient les produits les plus frais, il faut se lever avant le soleil ; pourtant, on trouve les mêmes tomates au supermarché.",
+    "examplePt": "Para que os clientes tenham os produtos mais frescos, é preciso levantar antes do sol; no entanto, encontram-se os mesmos tomates no supermercado.",
+    "practiceQuestion": "Complete: « Pour que les clients ___ les produits les plus frais, il faut se lever tôt. »",
+    "options": ["aient", "ont", "auront"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "Pour que + subjonctif",
+        "explanationPt": "'Pour que les clients aient les produits les plus frais' : finalidade com subjonctif.",
+        "exampleFr": "Pour que les clients aient les produits les plus frais, il faut se lever avant le soleil.",
+        "examplePt": "Para que os clientes tenham os produtos mais frescos, é preciso levantar antes do sol.",
+        "practiceQuestion": "Complete: « Pour que les clients ___ les produits les plus frais, il faut se lever tôt. »",
+        "options": ["aient", "ont", "auront"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "Alors que + opposition",
+        "explanationPt": "'Alors que les immeubles se ressemblent, chaque étal raconte un voyage' : contraste.",
+        "exampleFr": "Alors que les immeubles se ressemblent, chaque étal raconte un voyage.",
+        "examplePt": "Enquanto os prédios se parecem, cada banca conta uma viagem.",
+        "practiceQuestion": "Complete: « ___ les immeubles se ressemblent, chaque étal raconte un voyage. »",
+        "options": ["Alors que", "Pour que", "Avant que"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Complete: « Pour que les clients ___ les produits les plus frais, il faut se lever tôt. »",
+      "options": ["aient", "ont", "auront"],
+      "correctIndex": 0,
+      "explanation": "Pour que + subjonctif : 'aient'."
+    },
+    {
+      "question": "O que faz Irlan no mercado?",
+      "options": ["Carrega seus pedidos de entrega na scooter", "Vende legumes", "Lava os barcos"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'Irlan, en scooter, chargeait ses commandes de livraison'."
+    },
+    {
+      "question": "O que respondeu o velho cliente ao maraîcher sobre o supermercado?",
+      "options": ["Que no mercado há o sol, as mãos e as histórias", "Que o supermercado é mais barato", "Que não gosta de tomates"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'ici, il y a le soleil, les mains et les histoires'."
+    },
+    {
+      "question": "Complete: « ___ les immeubles se ressemblent, chaque étal raconte un voyage. »",
+      "options": ["Alors que", "Pour que", "Avant que"],
+      "correctIndex": 0,
+      "explanation": "Opposition : 'alors que'."
+    },
+    {
+      "question": "O que disse a marchande de azeitonas sobre as crianças?",
+      "options": ["Que é importante que conheçam o gosto das coisas verdadeiras", "Que devem comer só doce", "Que não devem ir ao mercado"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'Il est important que les enfants connaissent le goût des choses vraies'."
+    }
+  ]
+}

@@ -1,0 +1,257 @@
+{
+  "id": "toulouse_lesson_33",
+  "cityId": "toulouse",
+  "domain": "História & Aventura",
+  "level": "Intermediário (B2)",
+  "titleFr": "L'Envol des Pionniers : Mermoz, Saint-Exupéry et l'aéropostale",
+  "titlePt": "O Envol dos Pioneiros: Mermoz, Saint-Exupéry e a aéropostale",
+  "subtitleFr": "Narrer l'épopée de l'aéropostale avec le plus-que-parfait",
+  "subtitlePt": "Narrar a epopeia da aéropostale com o mais-que-perfeito",
+  "summaryPt": "Em Montaudran, onde nasceu a aéropostale, Irlan descobre a história dos pilotos que tinham aberto as rotas do correio aéreo: Latécoère, Mermoz, Saint-Exupéry. Nenhum deles tinha visto o avião se tornar o que é hoje. Nesta aula B2, o plus-que-parfait narra a epopeia.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "À Montaudran, au sud de Toulouse, un ancien hangar raconte une légende. C'est ici qu'est née l'aéropostale, la compagnie qui transportait le courrier en avion jusqu'en Amérique du Sud. Irlan, le cœur serré, pénétra dans le lieu.",
+      "pt": "Em Montaudran, ao sul de Toulouse, um antigo hangar conta uma lenda. Foi ali que nasceu a aéropostale, a companhia que transportava o correio de avião até a América do Sul. Irlan, com o coração apertado, entrou no lugar."
+    },
+    {
+      "id": 2,
+      "fr": "« Avant les vols réguliers, il avait fallu des années d'essais, expliqua la guide. Des pilotes comme Jean Mermoz avaient traversé l'Atlantique Sud alors que personne n'y croyait. Ils avaient risqué leur vie pour transporter des lettres. »",
+      "pt": "« Antes dos voos regulares, tinham sido necessários anos de testes, explicou la guia. Pilotos como Jean Mermoz tinham atravessado o Atlântico Sul quando ninguém acreditava nisso. Tinham arriscado a vida para transportar cartas. »"
+    },
+    {
+      "id": 3,
+      "fr": "Sur les murs, des photos jaunies montraient les avions de l'époque : des carlingues ouvertes, des ailes de toile. « Antoine de Saint-Exupéry a travaillé ici, continua la guide. C'est lui qui a écrit 'Vol de nuit'. »",
+      "pt": "Nas paredes, fotos amareladas mostravam os aviões da época: cabines abertas, asas de lona. « Antoine de Saint-Exupéry trabalhou aqui, continuou a guia. Foi ele quem escreveu 'Voo Noturno'. »"
+    },
+    {
+      "id": 4,
+      "fr": "« Le courrier, expliqua-t-elle encore, c'était sacré. Si un pilote était en retard, des milliers de personnes attendaient. Mermoz avait dit que pour les autres, le courrier était un métier ; pour eux, c'était une raison de vivre. »",
+      "pt": "« O correio, explicou ela ainda, era sagrado. Se um piloto se atrasava, milhares de pessoas esperavam. Mermoz tinha dito que, para os outros, o correio era um ofício; para eles, era uma razão de viver. »"
+    },
+    {
+      "id": 5,
+      "fr": "Le soir, Irlan nota : « Ils avaient ouvert la voie avec des avions de toile et du courage. Et moi, j'étais passé par cette même ville sans savoir que des hommes y avaient rêvé le ciel. Aujourd'hui, je sais. »",
+      "pt": "À noite, Irlan anotou: « Eles tinham aberto o caminho com aviões de lona e coragem. E eu tinha passado por essa mesma cidade sem saber que homens tinham sonhado o céu ali. Hoje, sei. »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "le pionnier",
+      "definitionPt": "pioneiro (substantivo masculino)",
+      "definitionFr": "Personne qui ouvre une voie nouvelle.",
+      "inflections": ["le pionnier", "des pionniers"],
+      "ptTargets": ["pioneiro", "pioneiros"],
+      "examples": [
+        { "level": "A1", "fr": "Le pionnier est courageux.", "pt": "O pioneiro é corajoso." },
+        { "level": "A2-B1", "fr": "Les pionniers de l'aviation sont célèbres.", "pt": "Os pioneiros da aviação são famosos." },
+        { "level": "B2", "fr": "L'Envol des Pionniers raconte l'histoire des premiers pilotes de l'aéropostale.", "pt": "O Envol dos Pioneiros conta a história dos primeiros pilotos da aéropostale." },
+        { "level": "C1-C2", "fr": "Les pionniers de l'aéropostale ont écrit l'une des plus belles épopées du XXe siècle.", "pt": "Os pioneiros da aéropostale escreveram uma das mais belas epopeias do século XX." }
+      ]
+    },
+    {
+      "term": "le courrier",
+      "definitionPt": "correio, correspondência (substantivo masculino)",
+      "definitionFr": "Lettres et paquets transportés par la poste.",
+      "inflections": ["le courrier"],
+      "ptTargets": ["correio", "correspondência"],
+      "examples": [
+        { "level": "A1", "fr": "Le courrier arrive le matin.", "pt": "O correio chega de manhã." },
+        { "level": "A2-B1", "fr": "L'avion transporte le courrier.", "pt": "O avião transporta o correio." },
+        { "level": "B2", "fr": "L'aéropostale transportait le courrier jusqu'en Amérique du Sud.", "pt": "A aéropostale transportava o correio até a América do Sul." },
+        { "level": "C1-C2", "fr": "Le transport du courrier a justifié les premières grandes lignes aériennes commerciales.", "pt": "O transporte do correio justificou as primeiras grandes linhas aéreas comerciais." }
+      ]
+    },
+    {
+      "term": "l'aile",
+      "definitionPt": "asa (de avião) (substantivo feminino)",
+      "definitionFr": "Surface portante d'un avion.",
+      "inflections": ["l'aile", "des ailes"],
+      "ptTargets": ["asa", "asas"],
+      "examples": [
+        { "level": "A1", "fr": "L'aile est en toile.", "pt": "A asa é de lona." },
+        { "level": "A2-B1", "fr": "Les ailes de l'avion sont fragiles.", "pt": "As asas do avião são frágeis." },
+        { "level": "B2", "fr": "Les ailes de toile des premiers avions semblaient bien fragiles.", "pt": "As asas de lona dos primeiros aviões pareciam bem frágeis." },
+        { "level": "C1-C2", "fr": "L'aile, élément crucial de l'aérodynamique, a connu une évolution technique spectaculaire.", "pt": "A asa, elemento crucial da aerodinâmica, conheceu uma evolução técnica espetacular." }
+      ]
+    },
+    {
+      "term": "la carlingue",
+      "definitionPt": "cabine, fuselagem (substantivo feminino)",
+      "definitionFr": "Partie de l'avion où se tient l'équipage.",
+      "inflections": ["la carlingue", "des carlingues"],
+      "ptTargets": ["cabine", "fuselagem"],
+      "examples": [
+        { "level": "A1", "fr": "La carlingue est petite.", "pt": "A cabine é pequena." },
+        { "level": "A2-B1", "fr": "Les premières carlingues étaient ouvertes.", "pt": "As primeiras cabines eram abertas." },
+        { "level": "B2", "fr": "Dans les carlingues ouvertes, les pilotes affrontaient le vent et le froid.", "pt": "Nas cabines abertas, os pilotos enfrentavam o vento e o frio." },
+        { "level": "C1-C2", "fr": "La carlingue des pionniers, à peine fermée, n'offrait aucune protection contre les éléments.", "pt": "A cabine dos pioneiros, mal fechada, não oferecia nenhuma proteção contra os elementos." }
+      ]
+    },
+    {
+      "term": "le pilote",
+      "definitionPt": "piloto (substantivo masculino)",
+      "definitionFr": "Personne qui conduit un avion.",
+      "inflections": ["le pilote", "des pilotes"],
+      "ptTargets": ["piloto", "pilotos"],
+      "examples": [
+        { "level": "A1", "fr": "Le pilote conduit l'avion.", "pt": "O piloto conduz o avião." },
+        { "level": "A2-B1", "fr": "Les pilotes de l'aéropostale étaient célèbres.", "pt": "Os pilotos da aéropostale eram famosos." },
+        { "level": "B2", "fr": "Les pilotes de l'aéropostale avaient risqué leur vie pour le courrier.", "pt": "Os pilotos da aéropostale tinham arriscado a vida pelo correio." },
+        { "level": "C1-C2", "fr": "La génération des pilotes pionniers a fondé l'éthique de l'aviation commerciale.", "pt": "A geração dos pilotos pioneiros fundou a ética da aviação comercial." }
+      ]
+    },
+    {
+      "term": "traverser",
+      "definitionPt": "atravessar (verbo)",
+      "definitionFr": "Parcourir d'un bout à l'autre.",
+      "inflections": ["je traverse", "traverser"],
+      "ptTargets": ["atravessar", "atravessaram"],
+      "examples": [
+        { "level": "A1", "fr": "Je traverse la rue.", "pt": "Eu atravesso a rua." },
+        { "level": "A2-B1", "fr": "L'avion traverse l'océan.", "pt": "O avião atravessa o oceano." },
+        { "level": "B2", "fr": "Mermoz avait traversé l'Atlantique Sud en 1930.", "pt": "Mermoz tinha atravessado o Atlântico Sul em 1930." },
+        { "level": "C1-C2", "fr": "Traverser l'Atlantique Sud en avion en 1930 relevait de l'exploit pur.", "pt": "Atravessar o Atlântico Sul de avião em 1930 era uma proeza pura." }
+      ]
+    },
+    {
+      "term": "risquer",
+      "definitionPt": "arriscar (verbo)",
+      "definitionFr": "Exposer à un danger.",
+      "inflections": ["je risque", "risquer"],
+      "ptTargets": ["arriscar", "arriscaram"],
+      "examples": [
+        { "level": "A1", "fr": "Je risque ma vie.", "pt": "Eu arrisco minha vida." },
+        { "level": "A2-B1", "fr": "Ils risquent leur vie.", "pt": "Eles arriscam a vida." },
+        { "level": "B2", "fr": "Ils avaient risqué leur vie pour transporter des lettres.", "pt": "Tinham arriscado a vida para transportar cartas." },
+        { "level": "C1-C2", "fr": "Risquer sa vie pour une lettre semble déraisonnable, sauf quand la lettre est une promesse.", "pt": "Arriscar a vida por uma carta parece irracional, exceto quando a carta é uma promessa." }
+      ]
+    },
+    {
+      "term": "jauni",
+      "definitionPt": "amarelado (adjetivo)",
+      "definitionFr": "Devenu jaune avec le temps.",
+      "inflections": ["jauni", "jaunie", "jaunis"],
+      "ptTargets": ["amarelado", "amareladas"],
+      "examples": [
+        { "level": "A1", "fr": "La photo est jaunie.", "pt": "A foto está amarelada." },
+        { "level": "A2-B1", "fr": "Les photos jaunies sont anciennes.", "pt": "As fotos amareladas são antigas." },
+        { "level": "B2", "fr": "Sur les murs, des photos jaunies montraient les avions de l'époque.", "pt": "Nas paredes, fotos amareladas mostravam os aviões da época." },
+        { "level": "C1-C2", "fr": "Les documents jaunis des archives racontent une époque révolue.", "pt": "Os documentos amarelados dos arquivos contam uma época passada." }
+      ]
+    },
+    {
+      "term": "le hangar",
+      "definitionPt": "hangar (substantivo masculino)",
+      "definitionFr": "Bâtiment où l'on remise les avions.",
+      "inflections": ["le hangar", "des hangars"],
+      "ptTargets": ["hangar", "hangares"],
+      "examples": [
+        { "level": "A1", "fr": "Le hangar est grand.", "pt": "O hangar é grande." },
+        { "level": "A2-B1", "fr": "Les avions dorment dans le hangar.", "pt": "Os aviões dormem no hangar." },
+        { "level": "B2", "fr": "L'ancien hangar de Montaudran abrite aujourd'hui un musée.", "pt": "O antigo hangar de Montaudran abriga hoje um museu." },
+        { "level": "C1-C2", "fr": "Le hangar de Montaudran est devenu un lieu de mémoire de l'aviation mondiale.", "pt": "O hangar de Montaudran tornou-se um lugar de memória da aviação mundial." }
+      ]
+    },
+    {
+      "term": "la toile",
+      "definitionPt": "lona, tecido (substantivo feminino)",
+      "definitionFr": "Tissu utilisé pour couvrir les premières ailes.",
+      "inflections": ["la toile", "des toiles"],
+      "ptTargets": ["lona", "tecido"],
+      "examples": [
+        { "level": "A1", "fr": "La toile est fine.", "pt": "A lona é fina." },
+        { "level": "A2-B1", "fr": "Les ailes sont en toile.", "pt": "As asas são de lona." },
+        { "level": "B2", "fr": "Les ailes de toile semblaient trop fragiles pour affronter la tempête.", "pt": "As asas de lona pareciam frágeis demais para enfrentar a tempestade." },
+        { "level": "C1-C2", "fr": "La toile des premiers avions symbolise la fragilité des débuts de l'aviation.", "pt": "A lona dos primeiros aviões simboliza a fragilidade dos começos da aviação." }
+      ]
+    },
+    {
+      "term": "sacré",
+      "definitionPt": "sagrado (adjetivo)",
+      "definitionFr": "Qui ne doit pas être touché, intouchable.",
+      "inflections": ["sacré", "sacrée", "sacrés"],
+      "ptTargets": ["sagrado", "sagrada"],
+      "examples": [
+        { "level": "A1", "fr": "Le courrier est sacré.", "pt": "O correio é sagrado." },
+        { "level": "A2-B1", "fr": "Pour eux, le courrier était sacré.", "pt": "Para eles, o correio era sagrado." },
+        { "level": "B2", "fr": "Le courrier, c'était sacré : des milliers de personnes attendaient les lettres.", "pt": "O correio era sagrado: milhares de pessoas esperavam as cartas." },
+        { "level": "C1-C2", "fr": "Ce qui est sacré échappe à la logique du calcul, et c'est ce qui le rend précieux.", "pt": "O que é sagrado escapa à lógica do cálculo, e é isso que o torna precioso." }
+      ]
+    },
+    {
+      "term": "la raison de vivre",
+      "definitionPt": "razão de viver (expressão)",
+      "definitionFr": "Ce qui donne sens à la vie.",
+      "inflections": ["la raison de vivre"],
+      "ptTargets": ["razão de viver"],
+      "examples": [
+        { "level": "A1", "fr": "La famille est ma raison de vivre.", "pt": "A família é minha razão de viver." },
+        { "level": "A2-B1", "fr": "Le courrier était leur raison de vivre.", "pt": "O correio era a razão de viver deles." },
+        { "level": "B2", "fr": "Pour Mermoz, le courrier n'était pas un métier, c'était une raison de vivre.", "pt": "Para Mermoz, o correio não era um ofício, era uma razão de viver." },
+        { "level": "C1-C2", "fr": "Trouver sa raison de vivre transforme un travail en vocation.", "pt": "Encontrar sua razão de viver transforma um trabalho em vocação." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Le plus-que-parfait dans l'épopée de l'aéropostale",
+    "explanationPt": "Para situar as ações anteriores ao relato: 'Il avait fallu des années d'essais', 'Mermoz avait traversé l'Atlantique', 'ils avaient risqué leur vie'.",
+    "exampleFr": "Des pilotes comme Mermoz avaient traversé l'Atlantique Sud alors que personne n'y croyait.",
+    "examplePt": "Pilotos como Mermoz tinham atravessado o Atlântico Sul quando ninguém acreditava nisso.",
+    "practiceQuestion": "Complete: 'Mermoz _____ traversé l'Atlantique en 1930.'",
+    "options": ["avait", "a", "aura"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "Le plus-que-parfait du passé lointain",
+        "explanationPt": "Fatos anteriores ao momento do relato: 'Ils avaient ouvert la voie avec des avions de toile.'",
+        "exampleFr": "Ils avaient ouvert la voie avec des avions de toile et du courage.",
+        "examplePt": "Eles tinham aberto o caminho com aviões de lona e coragem.",
+        "practiceQuestion": "Complete: 'Ils _____ ouvert la voie avant les vols réguliers.'",
+        "options": ["avaient", "ont", "auront"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "Le plus-que-parfait du discours rapporté",
+        "explanationPt": "Citação no passado: 'Mermoz avait dit que le courrier était une raison de vivre.'",
+        "exampleFr": "La guide rappela que Saint-Exupéry avait écrit 'Vol de nuit' ici.",
+        "examplePt": "A guia lembrou que Saint-Exupéry tinha escrito 'Voo Noturno' ali.",
+        "practiceQuestion": "Complete: 'Elle rappela qu'il _____ écrit le livre à Toulouse.'",
+        "options": ["avait", "a", "aura"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Complete: 'Mermoz _____ traversé l'Atlantique Sud en 1930.'",
+      "options": ["avait", "a", "aura"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'Des pilotes comme Jean Mermoz avaient traversé l'Atlantique Sud.'"
+    },
+    {
+      "question": "Onde nasceu a aéropostale?",
+      "options": ["Montaudran, ao sul de Toulouse", "Paris", "Bordeaux"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'À Montaudran, au sud de Toulouse… C'est ici qu'est née l'aéropostale.'"
+    },
+    {
+      "question": "Qual escritor trabalhou na aéropostale e escreveu 'Vol de nuit'?",
+      "options": ["Saint-Exupéry", "Victor Hugo", "Marcel Proust"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'Antoine de Saint-Exupéry a travaillé ici… C'est lui qui a écrit Vol de nuit.'"
+    },
+    {
+      "question": "O que Mermoz tinha dito sobre o correio?",
+      "options": ["Que era uma razão de viver", "Que era apenas um trabalho", "Que era perigoso demais"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'Mermoz avait dit que pour les autres, le courrier était un métier ; pour eux, c'était une raison de vivre.'"
+    },
+    {
+      "question": "Como eram os primeiros aviões?",
+      "options": ["Com cabines abertas e asas de lona", "Com cabines fechadas e motores a jato", "Com hélices de metal e radar"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'des carlingues ouvertes, des ailes de toile.'"
+    }
+  ]
+}

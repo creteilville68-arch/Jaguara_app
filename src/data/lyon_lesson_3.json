@@ -1,0 +1,252 @@
+{
+  "id": "lyon_lesson_3",
+  "cityId": "lyon",
+  "domain": "Gastronomia",
+  "level": "Intermediário (B2+)",
+  "titleFr": "Un soir dans un bouchon : la cuisine des mères lyonnaises",
+  "titlePt": "Uma noite num bouchon: a cozinha das mães lionenses",
+  "subtitleFr": "Le tablier de sapeur, la cervelle de canut et l'art de la table à la lyonnaise",
+  "subtitlePt": "O tablier de sapeur, a cervelle de canut e a arte da mesa à moda de Lyon",
+  "summaryPt": "Nesta Aula 3 (B2+), a família janta num bouchon e descobre as especialidades das 'mères lyonnaises'. O aluno domina as frases condicionais completas: 'Si j'avais plus de temps, je goûterais tout' (hipótese presente) e 'Si j'avais su, j'aurais réservé' (hipótese passada).",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Dans le bouchon, la serveuse a posé un tablier de sapeur sur la table. « C'est du gras de bœuf pané, a-t-elle expliqué. Si vous aviez faim, vous adoreriez ce plat. Les mères lyonnaises l'ont inventé au XIXe siècle. »",
+      "pt": "No bouchon, a garçonete pousou um tablier de sapeur sobre a mesa. « É gordura de boi empanada, explicou ela. Se vocês tivessem fome, adorariam este prato. As mães lionenses o inventaram no século XIX. »"
+    },
+    {
+      "id": 2,
+      "fr": "Iris a goûté la cervelle de canut : « C'est du fromage blanc avec des herbes ! » Andréa a ri : « Si tu goûtais le saucisson, tu comprendrais pourquoi Lyon est la capitale de la gastronomie. » Irlan a ajouté : « Si je n'étais pas devenu livreur à Paris, je n'aurais jamais découvert tous ces trésors. »",
+      "pt": "Íris provou a cervelle de canut: « É queijo branco com ervas! » Andréa riu: « Se você provasse o salame, entenderia por que Lyon é a capital da gastronomia. » Irlan acrescentou: « Se eu não tivesse me tornado entregador em Paris, nunca teria descoberto todos esses tesouros. »"
+    },
+    {
+      "id": 3,
+      "fr": "La serveuse a apporté une salade de pissenlits. « Si vous veniez en décembre, vous verriez la Fête des Lumières, a-t-elle dit. Toute la ville s'illumine. Et si vous étiez venus hier, vous auriez goûté notre quenelle, mais elle est finie ! »",
+      "pt": "A garçonete trouxe uma salada de dente-de-leão. « Se vocês viessem em dezembro, veriam a Festa das Luzes, disse ela. A cidade inteira se ilumina. E se vocês tivessem vindo ontem, teriam provado nossa quenelle, mas acabou! »"
+    },
+    {
+      "id": 4,
+      "fr": "Au dessert, des bugnes dorées. « Si nous avions un peu plus de place, nous commanderions encore, a soupiré Irlan. Mais gardons l'appétit pour demain : les Halles Paul Bocuse nous attendent. Si vous saviez ce qu'on y trouve, vous en rêveriez ce soir ! »",
+      "pt": "Na sobremesa, bugnes douradas. « Se tivéssemos um pouco mais de espaço, pediríamos mais, suspirou Irlan. Mas guardemos o apetite para amanhã: o Mercado Paul Bocuse nos espera. Se vocês soubessem o que se encontra lá, sonhariam com isso esta noite! »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "le tablier de sapeur",
+      "definitionPt": "o tablier de sapeur (prato lionês)",
+      "definitionFr": "Spécialité lyonnaise de gras de bœuf pané.",
+      "inflections": ["le tablier de sapeur", "les tabliers de sapeur"],
+      "ptTargets": ["tablier de sapeur"],
+      "examples": [
+        { "level": "A1", "fr": "Le tablier de sapeur est chaud.", "pt": "O tablier de sapeur é quente." },
+        { "level": "A2-B1", "fr": "Le tablier de sapeur est un plat de Lyon.", "pt": "O tablier de sapeur é um prato de Lyon." },
+        { "level": "B1-B2", "fr": "Le tablier de sapeur, qui se mange avec une sauce gribiche, surprend les visiteurs.", "pt": "O tablier de sapeur, que se come com molho gribiche, surpreende os visitantes." },
+        { "level": "C1-C2", "fr": "C'est dans les bouchons que le tablier de sapeur a conquis ses lettres de noblesse.", "pt": "É nos bouchons que o tablier de sapeur conquistou suas cartas de nobreza." }
+      ]
+    },
+    {
+      "term": "la cervelle de canut",
+      "definitionPt": "a cervelle de canut (queijo com ervas)",
+      "definitionFr": "Fromage blanc aux herbes, spécialité lyonnaise.",
+      "inflections": ["la cervelle de canut"],
+      "ptTargets": ["cervelle de canut", "queijo com ervas"],
+      "examples": [
+        { "level": "A1", "fr": "La cervelle de canut est fraîche.", "pt": "A cervelle de canut é fresca." },
+        { "level": "A2-B1", "fr": "Iris a goûté la cervelle de canut.", "pt": "Íris provou a cervelle de canut." },
+        { "level": "B1-B2", "fr": "La cervelle de canut, qui se prépare avec des herbes et de l'échalote, accompagne les pommes de terre.", "pt": "A cervelle de canut, que se prepara com ervas e chalota, acompanha batatas." },
+        { "level": "C1-C2", "fr": "C'est le nom amusant de la cervelle de canut qui cache une recette simple et savoureuse.", "pt": "É o nome engraçado da cervelle de canut que esconde uma receita simples e saborosa." }
+      ]
+    },
+    {
+      "term": "la bugne",
+      "definitionPt": "a bugne (doce de Lyon)",
+      "definitionFr": "Beignet lyonnais traditionnel.",
+      "inflections": ["la bugne", "les bugnes"],
+      "ptTargets": ["bugne", "doce"],
+      "examples": [
+        { "level": "A1", "fr": "La bugne est sucrée.", "pt": "A bugne é doce." },
+        { "level": "A2-B1", "fr": "Les bugnes sont servies au dessert.", "pt": "As bugnes são servidas na sobremesa." },
+        { "level": "B1-B2", "fr": "Les bugnes, dorées et croustillantes, sont traditionnellement préparées au carnaval.", "pt": "As bugnes, douradas e crocantes, são tradicionalmente preparadas no carnaval." },
+        { "level": "C1-C2", "fr": "C'est avec les bugnes que se termine en douceur un repas lyonnais authentique.", "pt": "É com as bugnes que termina docemente uma refeição lionense autêntica." }
+      ]
+    },
+    {
+      "term": "la serveuse",
+      "definitionPt": "a garçonete",
+      "definitionFr": "Femme qui sert les clients.",
+      "inflections": ["la serveuse", "les serveuses"],
+      "ptTargets": ["garçonete"],
+      "examples": [
+        { "level": "A1", "fr": "La serveuse est gentille.", "pt": "A garçonete é gentil." },
+        { "level": "A2-B1", "fr": "La serveuse a apporté les plats.", "pt": "A garçonete trouxe os pratos." },
+        { "level": "B1-B2", "fr": "La serveuse, qui connaissait chaque plat par cœur, conseillait les clients avec passion.", "pt": "A garçonete, que conhecia cada prato de cor, aconselhava os clientes com paixão." },
+        { "level": "C1-C2", "fr": "C'est la serveuse qui a sauvé le repas en recommandant le meilleur dessert.", "pt": "Foi a garçonete que salvou a refeição recomendando a melhor sobremesa." }
+      ]
+    },
+    {
+      "term": "goûter",
+      "definitionPt": "provar, degustar",
+      "definitionFr": "Essayer la saveur de quelque chose.",
+      "inflections": ["je goûte", "nous goûtons"],
+      "ptTargets": ["provar", "degustar"],
+      "examples": [
+        { "level": "A1", "fr": "Je goûte le plat.", "pt": "Eu provo o prato." },
+        { "level": "A2-B1", "fr": "Iris a goûté la cervelle de canut.", "pt": "Íris provou a cervelle de canut." },
+        { "level": "B1-B2", "fr": "Si tu goûtais le saucisson, tu comprendrais pourquoi Lyon est célèbre.", "pt": "Se você provasse o salame, entenderia por que Lyon é famosa." },
+        { "level": "C1-C2", "fr": "Goûter un plat, c'est entrer en dialogue avec une tradition et un terroir.", "pt": "Provar um prato é entrar em diálogo com uma tradição e um terroir." }
+      ]
+    },
+    {
+      "term": "le saucisson",
+      "definitionPt": "o salame, a linguiça curada",
+      "definitionFr": "Charcuterie séchée.",
+      "inflections": ["le saucisson", "les saucissons"],
+      "ptTargets": ["salame", "embutido"],
+      "examples": [
+        { "level": "A1", "fr": "Le saucisson est bon.", "pt": "O salame é bom." },
+        { "level": "A2-B1", "fr": "Le saucisson accompagne le tablier de sapeur.", "pt": "O salame acompanha o tablier de sapeur." },
+        { "level": "B1-B2", "fr": "Le saucisson, tranché finement, est l'un des trésors des bouchons.", "pt": "O salame, fatiado fininho, é um dos tesouros dos bouchons." },
+        { "level": "C1-C2", "fr": "C'est autour du saucisson et des quenelles que se joue l'identité gourmande de Lyon.", "pt": "É em torno do salame e das quenelles que se joga a identidade gulosa de Lyon." }
+      ]
+    },
+    {
+      "term": "le fromage blanc",
+      "definitionPt": "o queijo branco, o requeijão",
+      "definitionFr": "Produit laitier frais et léger.",
+      "inflections": ["le fromage blanc", "les fromages blancs"],
+      "ptTargets": ["queijo branco", "requeijão"],
+      "examples": [
+        { "level": "A1", "fr": "Le fromage blanc est frais.", "pt": "O queijo branco é fresco." },
+        { "level": "A2-B1", "fr": "La cervelle de canut est faite de fromage blanc.", "pt": "A cervelle de canut é feita de queijo branco." },
+        { "level": "B1-B2", "fr": "Le fromage blanc, battu avec des herbes, devient un délice lyonnais.", "pt": "O queijo branco, batido com ervas, vira uma delícia de Lyon." },
+        { "level": "C1-C2", "fr": "C'est dans la simplicité du fromage blanc que se cache toute la finesse de la recette.", "pt": "É na simplicidade do queijo branco que se esconde toda a fineza da receita." }
+      ]
+    },
+    {
+      "term": "l'herbe",
+      "definitionPt": "a erva",
+      "definitionFr": "Plante non ligneuse, souvent aromatique.",
+      "inflections": ["l'herbe", "les herbes"],
+      "ptTargets": ["erva"],
+      "examples": [
+        { "level": "A1", "fr": "L'herbe est verte.", "pt": "A erva é verde." },
+        { "level": "A2-B1", "fr": "Les herbes parfument le fromage blanc.", "pt": "As ervas perfumam o queijo branco." },
+        { "level": "B1-B2", "fr": "Les herbes, hachées finement, donnent toute sa saveur au plat.", "pt": "As ervas, picadas finamente, dão todo o sabor ao prato." },
+        { "level": "C1-C2", "fr": "C'est le choix des herbes qui distingue une bonne cervelle de canut d'une autre.", "pt": "É a escolha das ervas que distingue uma boa cervelle de canut de outra." }
+      ]
+    },
+    {
+      "term": "la salade",
+      "definitionPt": "a salada",
+      "definitionFr": "Plat de légumes, souvent crus.",
+      "inflections": ["la salade", "les salades"],
+      "ptTargets": ["salada"],
+      "examples": [
+        { "level": "A1", "fr": "La salade est verte.", "pt": "A salada é verde." },
+        { "level": "A2-B1", "fr": "La serveuse a apporté une salade de pissenlits.", "pt": "A garçonete trouxe uma salada de dente-de-leão." },
+        { "level": "B1-B2", "fr": "La salade, servie avec des lardons, ouvre traditionnellement le repas lyonnais.", "pt": "A salada, servida com torresmos, abre tradicionalmente a refeição lionense." },
+        { "level": "C1-C2", "fr": "C'est avec une salade de pissenlits que se déguste le mieux un bon saucisson chaud.", "pt": "É com uma salada de dente-de-leão que melhor se degusta um bom salame quente." }
+      ]
+    },
+    {
+      "term": "le dessert",
+      "definitionPt": "a sobremesa",
+      "definitionFr": "Plat sucré servi à la fin du repas.",
+      "inflections": ["le dessert", "les desserts"],
+      "ptTargets": ["sobremesa"],
+      "examples": [
+        { "level": "A1", "fr": "Le dessert est sucré.", "pt": "A sobremesa é doce." },
+        { "level": "A2-B1", "fr": "Les bugnes sont le dessert du bouchon.", "pt": "As bugnes são a sobremesa do bouchon." },
+        { "level": "B1-B2", "fr": "Le dessert, qui change avec les saisons, termine le repas en beauté.", "pt": "A sobremesa, que muda com as estações, termina a refeição com chave de ouro." },
+        { "level": "C1-C2", "fr": "C'est le dessert qui laisse le souvenir le plus durable d'un grand repas.", "pt": "É a sobremesa que deixa a lembrança mais duradoura de uma grande refeição." }
+      ]
+    },
+    {
+      "term": "l'appétit",
+      "definitionPt": "o apetite",
+      "definitionFr": "Envie de manger.",
+      "inflections": ["l'appétit", "les appétits"],
+      "ptTargets": ["apetite"],
+      "examples": [
+        { "level": "A1", "fr": "J'ai de l'appétit.", "pt": "Estou com apetite." },
+        { "level": "A2-B1", "fr": "Il faut garder l'appétit pour demain.", "pt": "É preciso guardar o apetite para amanhã." },
+        { "level": "B1-B2", "fr": "Si vous saviez ce qui nous attend, votre appétit reviendrait vite.", "pt": "Se vocês soubessem o que nos espera, seu apetite voltaria rápido." },
+        { "level": "C1-C2", "fr": "C'est avec un appétit d'enfant que l'on goûte le mieux une cuisine de tradition.", "pt": "É com apetite de criança que melhor se prova uma cozinha de tradição." }
+      ]
+    },
+    {
+      "term": "réserver",
+      "definitionPt": "reservar",
+      "definitionFr": "Retenir une place à l'avance.",
+      "inflections": ["je réserve", "nous réservons"],
+      "ptTargets": ["reservar", "reservado"],
+      "examples": [
+        { "level": "A1", "fr": "Je réserve une table.", "pt": "Eu reservo uma mesa." },
+        { "level": "A2-B1", "fr": "La famille a réservé une table au bouchon.", "pt": "A família reservou uma mesa no bouchon." },
+        { "level": "B1-B2", "fr": "Si j'avais su, j'aurais réservé une table plus grande.", "pt": "Se eu tivesse sabido, teria reservado uma mesa maior." },
+        { "level": "C1-C2", "fr": "C'est en réservant à l'avance que l'on découvre les meilleures tables de Lyon.", "pt": "É reservando com antecedência que se descobrem as melhores mesas de Lyon." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Les trois conditionnelles françaises",
+    "explanationPt": "As três estruturas condicionais: (1) Si + présent → futur simple (hipótese real): 'Si vous savez, vous verrez'; (2) Si + imparfait → conditionnel présent (hipótese presente): 'Si tu goûtais, tu comprendrais'; (3) Si + plus-que-parfait → conditionnel passé (hipótese passada): 'Si j'avais su, j'aurais réservé'.",
+    "exampleFr": "Si tu goûtais le saucisson, tu comprendrais pourquoi Lyon est la capitale de la gastronomie.",
+    "examplePt": "Se você provasse o salame, entenderia por que Lyon é a capital da gastronomia.",
+    "practiceQuestion": "Complete: « Si j'avais plus de temps, je ___ tout goûter. »",
+    "options": ["goûterais", "goûte", "goûterai"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "Si + imparfait → conditionnel présent",
+        "explanationPt": "Hipótese no presente: 'Si vous aviez faim, vous adoreriez ce plat' (se tivessem fome, adorariam), 'Si vous veniez en décembre, vous verriez la Fête des Lumières'.",
+        "exampleFr": "Si vous veniez en décembre, vous verriez la Fête des Lumières.",
+        "examplePt": "Se vocês viessem em dezembro, veriam a Festa das Luzes.",
+        "practiceQuestion": "Complete: « Si nous avions faim, nous ___ tout le menu. »",
+        "options": ["commanderions", "commandons", "commanderons"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "Si + plus-que-parfait → conditionnel passé",
+        "explanationPt": "Hipótese não realizada no passado: 'Si vous étiez venus hier, vous auriez goûté notre quenelle' (se tivessem vindo ontem, teriam provado).",
+        "exampleFr": "Si vous étiez venus hier, vous auriez goûté notre quenelle.",
+        "examplePt": "Se vocês tivessem vindo ontem, teriam provado nossa quenelle.",
+        "practiceQuestion": "Complete: « Si j'avais su, j'___ réservé une plus grande table. »",
+        "options": ["aurais", "avais", "ai"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "O que é o tablier de sapeur?",
+      "options": ["gordura de boi empanada", "uma sobremesa", "uma salada"],
+      "correctIndex": 0,
+      "explanation": "O tablier de sapeur é um prato de gordura de boi empanada, invenção das mães lionenses."
+    },
+    {
+      "question": "O que é a cervelle de canut?",
+      "options": ["queijo branco com ervas", "um peixe", "um doce de chocolate"],
+      "correctIndex": 0,
+      "explanation": "A cervelle de canut é queijo branco batido com ervas e chalota."
+    },
+    {
+      "question": "Quando acontece a Fête des Lumières?",
+      "options": ["em dezembro", "em julho", "em março"],
+      "correctIndex": 0,
+      "explanation": "A Festa das Luzes acontece em dezembro, iluminando toda a cidade."
+    },
+    {
+      "question": "Complete: « Si j'avais plus de temps, je ___ tout goûter. »",
+      "options": ["goûterais", "goûte", "goûterai"],
+      "correctIndex": 0,
+      "explanation": "Condicional presente: si + imparfait → conditionnel (goûterais)."
+    },
+    {
+      "question": "Qual é a sobremesa do bouchon?",
+      "options": ["as bugnes", "o canelé", "o cassoulet"],
+      "correctIndex": 0,
+      "explanation": "As bugnes, beignets dourados, são a sobremesa tradicional dos bouchons."
+    }
+  ]
+}

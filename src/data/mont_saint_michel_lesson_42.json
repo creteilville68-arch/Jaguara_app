@@ -1,0 +1,237 @@
+{
+  "id": "mont_saint_michel_lesson_42",
+  "cityId": "mont-saint-michel",
+  "domain": "Vida Cotidiana",
+  "level": "Básico (A2/B1)",
+  "titleFr": "Les boutiques de la Grande Rue : les souvenirs",
+  "titlePt": "As lojinhas da Grande Rue: as lembranças",
+  "subtitleFr": "Cartes postales, biscuits et petits cadeaux",
+  "subtitlePt": "Cartões-postais, biscoitos e pequenos presentes",
+  "summaryPt": "Nesta Aula 42 (A2/B1), a família passeia pelas lojas da Grande Rue para comprar lembranças da viagem: cartões-postais, biscoitos e pequenos presentes para a avó no Brasil. O aluno pratica as compras (combien ça coûte, je voudrais, payer) e os pronomes COD (le, la, les).",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "« Maman, je voudrais acheter une carte postale pour mamie ! » a dit Iris. « Moi aussi », a souri Irlan. « Elle va adorer le Mont Saint-Michel. »",
+      "pt": "« Mamãe, quero comprar um cartão-postal para a vovó! » disse Íris. « Eu também », sorriu Irlan. « Ela vai adorar o Mont Saint-Michel. »"
+    },
+    {
+      "id": 2,
+      "fr": "Dans la boutique, il y avait des biscuits, des magnets, des livres et des cartes. « Combien coûte cette carte ? » a demandé Andréa. « Deux euros », a répondu la vendeuse.",
+      "pt": "Na loja, havia biscoitos, ímãs, livros e cartões. « Quanto custa este cartão? » perguntou Andréa. « Dois euros », respondeu a vendedora."
+    },
+    {
+      "id": 3,
+      "fr": "Iris a choisi un magnet en forme du Mont. « Je vais le mettre sur le frigo », a-t-elle expliqué. « Comme ça, je verrai le Mont tous les jours. »",
+      "pt": "Íris escolheu um ímã em forma de Mont. « Vou colocá-lo na geladeira », explicou. « Assim, verei o Mont todos os dias. »"
+    },
+    {
+      "id": 4,
+      "fr": "Irlan a payé avec sa carte bancaire. « Quand j'étais livreur, je voyais ces boutiques fermées, tard le soir », a-t-il dit. « Aujourd'hui, j'achète des souvenirs dans une ville millénaire. »",
+      "pt": "Irlan pagou com seu cartão bancário. « Quando eu era entregador, eu via essas lojas fechadas, tarde da noite », disse ele. « Hoje, compro lembranças numa cidade milenar. »"
+    },
+    {
+      "id": 5,
+      "fr": "Le soir, Iris a écrit sa carte : « Chère mamie, je marche sur la mer. Gros bisous, Iris. » Andréa a ajouté un petit dessin de la baie. « C'est un morceau de notre voyage », a-t-elle dit.",
+      "pt": "À noite, Íris escreveu seu cartão: « Querida vovó, eu ando sobre o mar. Beijos, Íris. » Andréa acrescentou um desenho da baía. « É um pedaço da nossa viagem », disse ela."
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "la boutique",
+      "definitionPt": "a loja",
+      "definitionFr": "Petit magasin.",
+      "inflections": ["la boutique", "une boutique", "des boutiques"],
+      "ptTargets": ["loja"],
+      "examples": [
+        { "level": "A1", "fr": "La boutique est petite.", "pt": "A loja é pequena." },
+        { "level": "A2-B1", "fr": "Les boutiques de la Grande Rue vendent des souvenirs.", "pt": "As lojas da Grande Rue vendem lembranças." },
+        { "level": "B2", "fr": "Nous avons visité toutes les boutiques du Mont.", "pt": "Visitamos todas as lojas do Mont." },
+        { "level": "C1-C2", "fr": "La boutique, antre du souvenir, transforme la mémoire en objets.", "pt": "A loja, antro da lembrança, transforma a memória em objetos." }
+      ]
+    },
+    {
+      "term": "le souvenir",
+      "definitionPt": "a lembrança, a recordação",
+      "definitionFr": "Objet ou mémoire qui rappelle quelque chose.",
+      "inflections": ["le souvenir", "un souvenir", "des souvenirs"],
+      "ptTargets": ["lembrança", "recordação"],
+      "examples": [
+        { "level": "A1", "fr": "Le souvenir est joli.", "pt": "A lembrança é bonita." },
+        { "level": "A2-B1", "fr": "La famille a acheté des souvenirs du Mont.", "pt": "A família comprou lembranças do Mont." },
+        { "level": "B2", "fr": "Ce magnet sera un beau souvenir de voyage.", "pt": "Este ímã será uma bela lembrança de viagem." },
+        { "level": "C1-C2", "fr": "Les souvenirs, refuges contre l'oubli, habitent nos maisons et nos cœurs.", "pt": "As lembranças, refúgios contra o esquecimento, habitam nossas casas e corações." }
+      ]
+    },
+    {
+      "term": "la carte postale",
+      "definitionPt": "o cartão-postal",
+      "definitionFr": "Carte avec une image qu'on envoie par la poste.",
+      "inflections": ["la carte postale", "une carte postale", "des cartes postales"],
+      "ptTargets": ["cartão-postal"],
+      "examples": [
+        { "level": "A1", "fr": "La carte postale est belle.", "pt": "O cartão-postal é bonito." },
+        { "level": "A2-B1", "fr": "Iris a écrit une carte postale pour mamie.", "pt": "Íris escreveu um cartão-postal para a vovó." },
+        { "level": "B2", "fr": "On a envoyé des cartes postales à tous nos amis.", "pt": "Enviamos cartões-postais a todos os nossos amigos." },
+        { "level": "C1-C2", "fr": "La carte postale, message d'une époque, traverse le temps avant la lettre.", "pt": "O cartão-postal, mensagem de uma época, atravessa o tempo antes da carta." }
+      ]
+    },
+    {
+      "term": "le magnet",
+      "definitionPt": "o ímã",
+      "definitionFr": "Petit objet aimanté pour le frigo.",
+      "inflections": ["le magnet", "un magnet", "des magnets"],
+      "ptTargets": ["ímã"],
+      "examples": [
+        { "level": "A1", "fr": "Le magnet est sur le frigo.", "pt": "O ímã está na geladeira." },
+        { "level": "A2-B1", "fr": "Iris a choisi un magnet en forme du Mont.", "pt": "Íris escolheu um ímã em forma de Mont." },
+        { "level": "B2", "fr": "Les magnets rappellent les voyages de la famille.", "pt": "Os ímãs lembram as viagens da família." },
+        { "level": "C1-C2", "fr": "Le magnet, témoin minuscule, garde le Mont dans la cuisine familiale.", "pt": "O ímã, testemunha minúscula, guarda o Mont na cozinha da família." }
+      ]
+    },
+    {
+      "term": "payer",
+      "definitionPt": "pagar",
+      "definitionFr": "Donner de l'argent pour quelque chose.",
+      "inflections": ["je paie", "tu paies", "il paie", "nous payons"],
+      "ptTargets": ["pagar"],
+      "examples": [
+        { "level": "A1", "fr": "Je paie le pain.", "pt": "Eu pago o pão." },
+        { "level": "A2-B1", "fr": "Irlan a payé avec sa carte bancaire.", "pt": "Irlan pagou com seu cartão bancário." },
+        { "level": "B2", "fr": "On peut payer en espèces ou par carte.", "pt": "Pode-se pagar em dinheiro ou com cartão." },
+        { "level": "C1-C2", "fr": "Payer, c'est échanger de l'argent contre un peu de bonheur.", "pt": "Pagar é trocar dinheiro por um pouco de felicidade." }
+      ]
+    },
+    {
+      "term": "combien",
+      "definitionPt": "quanto",
+      "definitionFr": "Mot pour demander une quantité ou un prix.",
+      "inflections": ["combien", "combien de"],
+      "ptTargets": ["quanto"],
+      "examples": [
+        { "level": "A1", "fr": "Combien ça coûte ?", "pt": "Quanto custa?" },
+        { "level": "A2-B1", "fr": "Combien coûte cette carte postale ?", "pt": "Quanto custa este cartão-postal?" },
+        { "level": "B2", "fr": "Combien de temps reste-t-il avant le départ ?", "pt": "Quanto tempo falta para a partida?" },
+        { "level": "C1-C2", "fr": "Combien de rêves tient dans une petite boutique de souvenirs ?", "pt": "Quantos sonhos cabem numa pequena loja de lembranças?" }
+      ]
+    },
+    {
+      "term": "le frigo",
+      "definitionPt": "a geladeira",
+      "definitionFr": "Appareil qui garde la nourriture au froid.",
+      "inflections": ["le frigo", "un frigo", "des frigos"],
+      "ptTargets": ["geladeira"],
+      "examples": [
+        { "level": "A1", "fr": "Le frigo est dans la cuisine.", "pt": "A geladeira está na cozinha." },
+        { "level": "A2-B1", "fr": "Le magnet est sur le frigo.", "pt": "O ímã está na geladeira." },
+        { "level": "B2", "fr": "On a mis les biscuits dans le frigo.", "pt": "Colocamos os biscoitos na geladeira." },
+        { "level": "C1-C2", "fr": "Le frigo, gardien du quotidien, expose aussi nos souvenirs aimantés.", "pt": "A geladeira, guardiã do cotidiano, também expõe nossas lembranças imantadas." }
+      ]
+    },
+    {
+      "term": "le cadeau",
+      "definitionPt": "o presente",
+      "definitionFr": "Objet qu'on offre à quelqu'un.",
+      "inflections": ["le cadeau", "un cadeau", "des cadeaux"],
+      "ptTargets": ["presente"],
+      "examples": [
+        { "level": "A1", "fr": "Le cadeau est pour toi.", "pt": "O presente é para você." },
+        { "level": "A2-B1", "fr": "Iris a acheté un cadeau pour sa grand-mère.", "pt": "Íris comprou um presente para a avó." },
+        { "level": "B2", "fr": "Le plus beau cadeau, c'est la présence.", "pt": "O melhor presente é a presença." },
+        { "level": "C1-C2", "fr": "Un cadeau choisi avec amour vaut plus que mille trésors.", "pt": "Um presente escolhido com amor vale mais que mil tesouros." }
+      ]
+    },
+    {
+      "term": "la vendeuse",
+      "definitionPt": "a vendedora",
+      "definitionFr": "Femme qui vend dans un magasin.",
+      "inflections": ["la vendeuse", "une vendeuse", "des vendeuses"],
+      "ptTargets": ["vendedora"],
+      "examples": [
+        { "level": "A1", "fr": "La vendeuse est gentille.", "pt": "A vendedora é gentil." },
+        { "level": "A2-B1", "fr": "La vendeuse a répondu au prix.", "pt": "A vendedora respondeu o preço." },
+        { "level": "B2", "fr": "La vendeuse a emballé le cadeau avec soin.", "pt": "A vendedora embrulhou o presente com cuidado." },
+        { "level": "C1-C2", "fr": "La vendeuse, passeuse de souvenirs, connaît les goûts des voyageurs.", "pt": "A vendedora, passadora de lembranças, conhece os gostos dos viajantes." }
+      ]
+    },
+    {
+      "term": "choisir",
+      "definitionPt": "escolher",
+      "definitionFr": "Prendre une chose parmi plusieurs.",
+      "inflections": ["je choisis", "tu choisis", "il choisit", "nous choisissons"],
+      "ptTargets": ["escolher"],
+      "examples": [
+        { "level": "A1", "fr": "Je choisis le rouge.", "pt": "Eu escolho o vermelho." },
+        { "level": "A2-B1", "fr": "Iris a choisi un magnet du Mont.", "pt": "Íris escolheu um ímã do Mont." },
+        { "level": "B2", "fr": "Choisir un souvenir, c'est choisir une mémoire.", "pt": "Escolher uma lembrança é escolher uma memória." },
+        { "level": "C1-C2", "fr": "Choisir, c'est renoncer à tout le reste pour une seule joie.", "pt": "Escolher é renunciar a todo o resto por uma única alegria." }
+      ]
+    },
+    {
+      "term": "la grand-mère",
+      "definitionPt": "a avó",
+      "definitionFr": "Mère du père ou de la mère.",
+      "inflections": ["la grand-mère", "une grand-mère", "des grand-mères"],
+      "ptTargets": ["avó"],
+      "examples": [
+        { "level": "A1", "fr": "Ma grand-mère est gentille.", "pt": "Minha avó é gentil." },
+        { "level": "A2-B1", "fr": "Iris a écrit à sa grand-mère au Brésil.", "pt": "Íris escreveu para a avó no Brasil." },
+        { "level": "B2", "fr": "La grand-mère garde les cartes postales dans une boîte.", "pt": "A avó guarda os cartões-postais numa caixa." },
+        { "level": "C1-C2", "fr": "La grand-mère, mémoire vivante de la famille, reçoit nos voyages en images.", "pt": "A avó, memória viva da família, recebe nossas viagens em imagens." }
+      ]
+    },
+    {
+      "term": "l'argent",
+      "definitionPt": "o dinheiro",
+      "definitionFr": "Ce qu'on utilise pour payer.",
+      "inflections": ["l'argent", "de l'argent"],
+      "ptTargets": ["dinheiro"],
+      "examples": [
+        { "level": "A1", "fr": "L'argent est dans le portefeuille.", "pt": "O dinheiro está na carteira." },
+        { "level": "A2-B1", "fr": "Irlan a payé sans argent liquide.", "pt": "Irlan pagou sem dinheiro em espécie." },
+        { "level": "B2", "fr": "Les souvenirs ne s'achètent pas avec de l'argent.", "pt": "As lembranças não se compram com dinheiro." },
+        { "level": "C1-C2", "fr": "L'argent achète des objets, jamais les instants qu'ils rappellent.", "pt": "O dinheiro compra objetos, nunca os instantes que eles lembram." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "titleFr": "Les pronoms COD : le, la, les",
+    "titlePt": "Os pronomes de objeto direto: le, la, les",
+    "points": [
+      {
+        "fr": "Pour éviter de répéter, on utilise le, la, les : « Je vois le Mont → Je le vois. » « J'achète la carte → Je l'achète. » « J'envoie les cartes → Je les envoie. »",
+        "pt": "Para evitar repetir, usam-se le, la, les: « Je vois le Mont → Je le vois. » (Eu o vejo.) « J'achète la carte → Je l'achète. » (Eu a compro.) « J'envoie les cartes → Je les envoie. » (Eu as envio.)"
+      },
+      {
+        "fr": "Pour demander un prix : « Combien ça coûte ? » / « C'est combien ? » Réponse : « Ça coûte deux euros. »",
+        "pt": "Para perguntar um preço: « Combien ça coûte ? » (Quanto custa?) / « C'est combien ? » (É quanto?). Resposta: « Ça coûte deux euros. » (Custa dois euros.)"
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Que veut acheter Iris pour sa grand-mère ?",
+      "options": ["Une carte postale", "Un vélo", "Une mouette", "Un sandwich"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Combien coûte la carte postale ?",
+      "options": ["Deux euros", "Dix euros", "Cinquante centimes", "Gratuit"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Qu'est-ce qu'Iris a choisi pour le frigo ?",
+      "options": ["Un magnet du Mont", "Un biscuit", "Un livre", "Un parapluie"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Comment Irlan a-t-il payé ?",
+      "options": ["Avec sa carte bancaire", "Avec des pièces", "Avec des coquillages", "Il n'a pas payé"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Qu'écrit Iris sur sa carte ?",
+      "options": ["« Je marche sur la mer »", "« Je mange des moules »", "« Il pleut »", "« J'ai perdu ma chaussure »"],
+      "correctIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,257 @@
+{
+  "id": "toulouse_lesson_23",
+  "cityId": "toulouse",
+  "domain": "Gastronomia",
+  "level": "Intermediário (B2)",
+  "titleFr": "Le cassoulet toulousain : la légende du plat du dimanche",
+  "titlePt": "O cassoulet de Toulouse: a lenda do prato de domingo",
+  "subtitleFr": "Parler de la cuisine et des hypothèses avec si + conditionnel",
+  "subtitlePt": "Falar de cozinha e hipóteses com si + condicional",
+  "summaryPt": "Num estaminet do centro, a família prova o cassoulet, o prato mais famoso do Sudoeste. Irlan conta a lenda: segundo a tradição, o cassoulet teria nascido durante o cerco de Castelnaudary. Nesta aula B2, as frases com 'si + mais-que-perfeito → conditionnel passé' e as hipóteses históricas são o foco.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Le dimanche, à Toulouse, l'odeur du cassoulet flotte dans les ruelles. Dans le petit estaminet de la rue du Taur, Irlan commanda le plat légendaire : haricots blancs, saucisse, confit de canard et couenne dorée.",
+      "pt": "Aos domingos, em Toulouse, o cheiro do cassoulet flutua pelas ruazinhas. No pequeno bistrô da rue du Taur, Irlan pediu o prato lendário: feijão branco, salsicha, confit de pato e pele dourada."
+    },
+    {
+      "id": 2,
+      "fr": "« La légende raconte que le cassoulet serait né à Castelnaudary pendant un siège, dit Irlan. Les habitants auraient mis tout ce qu'ils possédaient dans le même pot : des fèves, de la viande, du lard. »",
+      "pt": "« A lenda conta que o cassoulet teria nascido em Castelnaudary durante um cerco, disse Irlan. Os habitantes teriam colocado tudo o que possuíam na mesma panela: favas, carne, toucinho. »"
+    },
+    {
+      "id": 3,
+      "fr": "Andréa rit doucement : « Si les habitants avaient su que leur soupe de guerre deviendrait un plat gastronomique, ils n'en seraient pas revenus ! » Íris, le nez dans son assiette, approuva en silence.",
+      "pt": "Andréa riu baixinho: « Se os habitantes soubessem que sua sopa de guerra viraria um prato gastronômico, não teriam acreditado! » Íris, com o nariz no prato, aprovou em silêncio."
+    },
+    {
+      "id": 4,
+      "fr": "« La vraie question, c'est la croûte, continua Irlan. À Toulouse, on perce la croûte sept fois pendant la cuisson. Si on ne la perçait pas, le cassoulet serait trop gras. » Le patron, fier, hocha la tête.",
+      "pt": "« A verdadeira questão é a crosta, continuou Irlan. Em Toulouse, fura-se a crosta sete vezes durante o cozimento. Se não a furassem, o cassoulet ficaria gorduroso demais. » O dono, orgulhoso, balançou a cabeça."
+    },
+    {
+      "id": 5,
+      "fr": "Le soir, Irlan nota : « Si quelqu'un m'avait dit, il y a deux ans, que je mangerais du cassoulet en écoutant une légende française, je ne l'aurais pas cru. Et pourtant, la France est devenue ma recette préférée. »",
+      "pt": "À noite, Irlan anotou: « Se alguém tivesse me dito, há dois anos, que eu comeria cassoulet ouvindo uma lenda francesa, eu não teria acreditado. E, no entanto, a França virou minha receita preferida. »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "le cassoulet",
+      "definitionPt": "cassoulet (ensopado de feijão branco) (substantivo masculino)",
+      "definitionFr": "Plat du Sud-Ouest à base de haricots blancs et de viandes.",
+      "inflections": ["le cassoulet"],
+      "ptTargets": ["cassoulet"],
+      "examples": [
+        { "level": "A1", "fr": "Le cassoulet est chaud.", "pt": "O cassoulet é quente." },
+        { "level": "A2-B1", "fr": "Le cassoulet est un plat du dimanche.", "pt": "O cassoulet é um prato de domingo." },
+        { "level": "B2", "fr": "Le cassoulet toulousain mêle haricots, saucisse et confit de canard.", "pt": "O cassoulet de Toulouse mistura feijão, salsicha e confit de pato." },
+        { "level": "C1-C2", "fr": "La querelle du vrai cassoulet oppose encore Toulouse, Castelnaudary et Carcassonne.", "pt": "A disputa do verdadeiro cassoulet ainda opõe Toulouse, Castelnaudary e Carcassonne." }
+      ]
+    },
+    {
+      "term": "le haricot blanc",
+      "definitionPt": "feijão branco (substantivo masculino)",
+      "definitionFr": "Légumineuse à graine blanche.",
+      "inflections": ["le haricot blanc", "des haricots blancs"],
+      "ptTargets": ["feijão branco"],
+      "examples": [
+        { "level": "A1", "fr": "Les haricots sont bons.", "pt": "Os feijões são bons." },
+        { "level": "A2-B1", "fr": "Le cassoulet est fait de haricots blancs.", "pt": "O cassoulet é feito de feijão branco." },
+        { "level": "B2", "fr": "Les haricots blancs du cassoulet mijotent pendant des heures.", "pt": "Os feijões brancos do cassoulet cozinham durante horas." },
+        { "level": "C1-C2", "fr": "La qualité des haricots détermine la texture crémeuse du plat.", "pt": "A qualidade dos feijões determina a textura cremosa do prato." }
+      ]
+    },
+    {
+      "term": "le confit",
+      "definitionPt": "confit (substantivo masculino)",
+      "definitionFr": "Viande cuite et conservée dans sa graisse.",
+      "inflections": ["le confit", "des confits"],
+      "ptTargets": ["confit"],
+      "examples": [
+        { "level": "A1", "fr": "Le confit est tendre.", "pt": "O confit é macio." },
+        { "level": "A2-B1", "fr": "Le confit de canard vient du Sud-Ouest.", "pt": "O confit de pato vem do Sudoeste." },
+        { "level": "B2", "fr": "Le confit de canard, fondant, se défait à la fourchette.", "pt": "O confit de pato, derretido, se desfaz no garfo." },
+        { "level": "C1-C2", "fr": "La cuisson lente du confit préserve la chair et concentre les arômes.", "pt": "O cozimento lento do confit preserva a carne e concentra os aromas." }
+      ]
+    },
+    {
+      "term": "la couenne",
+      "definitionPt": "pele de porco, torresmo (substantivo feminino)",
+      "definitionFr": "Peau du porc, souvent dorée en cuisine.",
+      "inflections": ["la couenne"],
+      "ptTargets": ["pele de porco", "torresmo"],
+      "examples": [
+        { "level": "A1", "fr": "La couenne est dorée.", "pt": "A pele de porco é dourada." },
+        { "level": "A2-B1", "fr": "La couenne donne du goût au cassoulet.", "pt": "A pele de porco dá sabor ao cassoulet." },
+        { "level": "B2", "fr": "La couenne dorée forme la croûte croustillante du plat.", "pt": "A pele de porco dourada forma a crosta crocante do prato." },
+        { "level": "C1-C2", "fr": "L'utilisation de la couenne illustre la cuisine du tout-utiliser du Sud-Ouest.", "pt": "O uso da pele de porco ilustra a cozinha do aproveitamento total do Sudoeste." }
+      ]
+    },
+    {
+      "term": "le siège",
+      "definitionPt": "cerco (substantivo masculino)",
+      "definitionFr": "Blocus militaire d'une ville.",
+      "inflections": ["le siège", "des sièges"],
+      "ptTargets": ["cerco", "cercos"],
+      "examples": [
+        { "level": "A1", "fr": "Le siège est long.", "pt": "O cerco é longo." },
+        { "level": "A2-B1", "fr": "La ville a résisté au siège.", "pt": "A cidade resistiu ao cerco." },
+        { "level": "B2", "fr": "Le cassoulet serait né pendant le siège de Castelnaudary.", "pt": "O cassoulet teria nascido durante o cerco de Castelnaudary." },
+        { "level": "C1-C2", "fr": "Les plats de résistance naissent souvent des contraintes des sièges militaires.", "pt": "Os pratos de resistência nascem muitas vezes das restrições dos cercos militares." }
+      ]
+    },
+    {
+      "term": "la fève",
+      "definitionPt": "fava (substantivo feminino)",
+      "definitionFr": "Légumineuse à grosse graine plate.",
+      "inflections": ["la fève", "des fèves"],
+      "ptTargets": ["fava", "favas"],
+      "examples": [
+        { "level": "A1", "fr": "La fève est verte.", "pt": "A fava é verde." },
+        { "level": "A2-B1", "fr": "Les habitants mettaient des fèves dans le pot.", "pt": "Os habitantes colocavam favas na panela." },
+        { "level": "B2", "fr": "Les fèves du premier cassoulet auraient remplacé les haricots inconnus alors.", "pt": "As favas do primeiro cassoulet teriam substituído os feijões, desconhecidos então." },
+        { "level": "C1-C2", "fr": "L'histoire des légumineuses dans le Sud-Ouest raconte la grande mutation alimentaire du Nouveau Monde.", "pt": "A história das leguminosas no Sudoeste conta a grande mutação alimentar do Novo Mundo." }
+      ]
+    },
+    {
+      "term": "la croûte",
+      "definitionPt": "crosta (substantivo feminino)",
+      "definitionFr": "Couche dorée qui se forme à la surface d'un plat.",
+      "inflections": ["la croûte", "des croûtes"],
+      "ptTargets": ["crosta"],
+      "examples": [
+        { "level": "A1", "fr": "La croûte est dorée.", "pt": "A crosta é dourada." },
+        { "level": "A2-B1", "fr": "On perce la croûte pendant la cuisson.", "pt": "Fura-se a crosta durante o cozimento." },
+        { "level": "B2", "fr": "À Toulouse, on perce la croûte du cassoulet sept fois.", "pt": "Em Toulouse, fura-se a crosta do cassoulet sete vezes." },
+        { "level": "C1-C2", "fr": "La croûte du cassoulet, dorée et croustillante, est le signe d'une cuisson maîtrisée.", "pt": "A crosta do cassoulet, dourada e crocante, é sinal de um cozimento dominado." }
+      ]
+    },
+    {
+      "term": "le lard",
+      "definitionPt": "toucinho, bacon (substantivo masculino)",
+      "definitionFr": "Graisse de porc, souvent salée.",
+      "inflections": ["le lard"],
+      "ptTargets": ["toucinho", "bacon"],
+      "examples": [
+        { "level": "A1", "fr": "Le lard est salé.", "pt": "O toucinho é salgado." },
+        { "level": "A2-B1", "fr": "Les habitants mettaient du lard dans le pot.", "pt": "Os habitantes colocavam toucinho na panela." },
+        { "level": "B2", "fr": "Le lard fond dans le cassoulet et parfume les haricots.", "pt": "O toucinho derrete no cassoulet e perfuma os feijões." },
+        { "level": "C1-C2", "fr": "L'usage du lard structure la cuisine populaire de conservation du Sud-Ouest.", "pt": "O uso do toucinho estrutura a cozinha popular de conservação do Sudoeste." }
+      ]
+    },
+    {
+      "term": "le patron",
+      "definitionPt": "dono (de restaurante) (substantivo masculino)",
+      "definitionFr": "Propriétaire d'un commerce.",
+      "inflections": ["le patron", "des patrons"],
+      "ptTargets": ["dono", "patrão"],
+      "examples": [
+        { "level": "A1", "fr": "Le patron sourit.", "pt": "O dono sorri." },
+        { "level": "A2-B1", "fr": "Le patron prépare le cassoulet.", "pt": "O dono prepara o cassoulet." },
+        { "level": "B2", "fr": "Le patron de l'estaminet hocha la tête, fier de son plat.", "pt": "O dono do bistrô balançou a cabeça, orgulhoso de seu prato." },
+        { "level": "C1-C2", "fr": "Le patron toulousain défend la recette de sa grand-mère comme un trésor de famille.", "pt": "O dono de Toulouse defende a receita da avó como um tesouro de família." }
+      ]
+    },
+    {
+      "term": "l'estaminet",
+      "definitionPt": "bistrô, estaminet (substantivo masculino)",
+      "definitionFr": "Petit café-restaurant populaire.",
+      "inflections": ["l'estaminet", "des estaminets"],
+      "ptTargets": ["bistrô", "estaminet"],
+      "examples": [
+        { "level": "A1", "fr": "L'estaminet est petit.", "pt": "O bistrô é pequeno." },
+        { "level": "A2-B1", "fr": "Nous mangeons dans un estaminet.", "pt": "Nós comemos num bistrô." },
+        { "level": "B2", "fr": "Dans le petit estaminet de la rue du Taur, l'odeur du cassoulet flottait.", "pt": "No pequeno bistrô da rue du Taur, o cheiro do cassoulet flutuava." },
+        { "level": "C1-C2", "fr": "L'estaminet populaire conserve la mémoire culinaire des quartiers anciens.", "pt": "O bistrô popular conserva a memória culinária dos bairros antigos." }
+      ]
+    },
+    {
+      "term": "mijoter",
+      "definitionPt": "cozinhar em fogo lento (verbo)",
+      "definitionFr": "Cuire doucement et longtemps.",
+      "inflections": ["je mijote", "mijoter"],
+      "ptTargets": ["cozinhar em fogo lento", "cozinhar lentamente"],
+      "examples": [
+        { "level": "A1", "fr": "Le plat mijote.", "pt": "O prato cozinha lentamente." },
+        { "level": "A2-B1", "fr": "Le cassoulet mijote pendant des heures.", "pt": "O cassoulet cozinha lentamente durante horas." },
+        { "level": "B2", "fr": "Le cassoulet mijote à feu doux jusqu'à former sa croûte.", "pt": "O cassoulet cozinha em fogo baixo até formar sua crosta." },
+        { "level": "C1-C2", "fr": "Mijoter lentement, c'est laisser le temps aux saveurs de se marier.", "pt": "Cozinhar lentamente é deixar o tempo casar os sabores." }
+      ]
+    },
+    {
+      "term": "approuver",
+      "definitionPt": "aprovar (verbo)",
+      "definitionFr": "Être d'accord avec quelque chose.",
+      "inflections": ["j'approuve", "approuver"],
+      "ptTargets": ["aprovar", "aprovou"],
+      "examples": [
+        { "level": "A1", "fr": "J'approuve ton idée.", "pt": "Eu aprovo sua ideia." },
+        { "level": "A2-B1", "fr": "Íris approuva en silence.", "pt": "Íris aprovou em silêncio." },
+        { "level": "B2", "fr": "Le nez dans son assiette, Íris approuva la légende du cassoulet.", "pt": "Com o nariz no prato, Íris aprovou a lenda do cassoulet." },
+        { "level": "C1-C2", "fr": "Approuver d'un simple geste vaut parfois mieux qu'un long discours.", "pt": "Aprovar com um simples gesto vale às vezes mais do que um longo discurso." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Si + plus-que-parfait → conditionnel passé",
+    "explanationPt": "Hipóteses irrealistas sobre o passado: 'Si les habitants avaient su, ils n'en seraient pas revenus.' (Se os habitantes tivessem sabido, não teriam acreditado.)",
+    "exampleFr": "Si les habitants avaient su que leur soupe deviendrait un plat gastronomique, ils n'en seraient pas revenus.",
+    "examplePt": "Se os habitantes tivessem sabido que sua sopa viraria um prato gastronômico, não teriam acreditado.",
+    "practiceQuestion": "Complete: 'Si j'avais su, je n'_____ pas cru.'",
+    "options": ["y serais", "serais y", "suis"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "L'hypothèse historique avec le conditionnel passé",
+        "explanationPt": "Para hipóteses históricas não confirmadas: 'Le cassoulet serait né pendant un siège', 'Les habitants auraient mis tout dans le même pot'.",
+        "exampleFr": "Les habitants auraient mis tout ce qu'ils possédaient dans le même pot.",
+        "examplePt": "Os habitantes teriam colocado tudo o que possuíam na mesma panela.",
+        "practiceQuestion": "Complete: 'Le cassoulet _____ né à Castelnaudary.'",
+        "options": ["serait", "est", "était"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "Si + présent → conditionnel présent",
+        "explanationPt": "Hipótese realista no presente: 'Si on ne perçait pas la croûte, le cassoulet serait trop gras.'",
+        "exampleFr": "Si on ne perçait pas la croûte, le plat serait trop gras.",
+        "examplePt": "Se não furassem a crosta, o prato ficaria gorduroso demais.",
+        "practiceQuestion": "Complete: 'Si on la perçait sept fois, le cassoulet _____ parfait.'",
+        "options": ["serait", "sera", "était"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Complete: 'Si les habitants avaient su, ils n'en _____ pas revenus.'",
+      "options": ["seraient", "sont", "étaient"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'ils n'en seraient pas revenus !'"
+    },
+    {
+      "question": "Segundo a lenda, onde o cassoulet teria nascido?",
+      "options": ["Castelnaudary", "Paris", "Lyon"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'le cassoulet serait né à Castelnaudary pendant un siège.'"
+    },
+    {
+      "question": "Quantas vezes se fura a crosta do cassoulet em Toulouse?",
+      "options": ["Sete", "Três", "Dez"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'on perce la croûte sept fois pendant la cuisson.'"
+    },
+    {
+      "question": "O que os habitantes teriam colocado na mesma panela?",
+      "options": ["Favas, carne e toucinho", "Arroz, peixe e ervas", "Batatas, cebolas e queijo"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'des fèves, de la viande, du lard.'"
+    },
+    {
+      "question": "Qual frase é uma hipótese histórica no conditionnel passé?",
+      "options": ["Le cassoulet serait né pendant un siège.", "Le cassoulet est né pendant un siège.", "Le cassoulet naîtra pendant un siège."],
+      "correctIndex": 0,
+      "explanation": "'Serait né' = condicional passado de incerteza histórica."
+    }
+  ]
+}

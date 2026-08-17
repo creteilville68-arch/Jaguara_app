@@ -1,0 +1,237 @@
+{
+  "id": "bordeaux_lesson_19",
+  "cityId": "bordeaux",
+  "domain": "Escola e rotina",
+  "level": "Intermediário (B1+)",
+  "titleFr": "L'école d'Iris : une nouvelle rentrée à Bordeaux",
+  "titlePt": "A escola de Íris: um novo ano letivo em Bordeaux",
+  "subtitleFr": "Une nouvelle maîtresse, de nouveaux amis, un nouveau quartier",
+  "subtitlePt": "Uma nova professora, novos amigos, um novo bairro",
+  "summaryPt": "Nesta Aula 19 (B1+), Íris começa o ano numa nova escola em Bordeaux, com uma nova maîtresse e novos amigos. O aluno pratica o vocabulário da escola (l'école, la maîtresse, la récréation) e os pronomes duplos (je le lui donne, je la lui montre).",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "« C'est le grand jour ! » a dit Irlan. Iris portait son nouveau cartable. « Je le lui ai préparé hier soir », a confié Andréa. « Il y a des crayons, des cahiers et un petit mot pour la maîtresse. »",
+      "pt": "« É o grande dia! » disse Irlan. Íris carregava sua mochila nova. « Eu a preparei ontem à noite », confidenciou Andréa. « Tem lápis, cadernos e um bilhetinho para a professora. »"
+    },
+    {
+      "id": 2,
+      "fr": "La maîtresse, Madame Rivière, a accueilli les élèves dans la cour. « Bienvenue, Iris ! Tu viens de Tours, n'est-ce pas ? » Iris a hoché la tête. « Je leur raconterai tout sur la Touraine », a-t-elle promis à ses nouveaux camarades.",
+      "pt": "A professora, senhora Rivière, recebeu os alunos no pátio. « Bem-vinda, Íris! Você vem de Tours, não é? » Íris assentiu. « Vou contar tudo sobre a Touraine para eles », prometeu aos novos colegas."
+    },
+    {
+      "id": 3,
+      "fr": "En classe, Iris a dessiné un plan de la France. « Regardez, ici c'est Paris, ici Tours, et ici Bordeaux ! » La maîtresse a souri : « Tu es une petite géographe, comme ton papa. » « Je le lui montrerai ce soir », a dit Iris, fière.",
+      "pt": "Na aula, Íris desenhou um mapa da França. « Olhem, aqui é Paris, aqui Tours, e aqui Bordeaux! » A professora sorriu: « Você é uma pequena geógrafa, como seu pai. » « Vou mostrá-lo a ele esta noite », disse Íris, orgulhosa."
+    },
+    {
+      "id": 4,
+      "fr": "À la récréation, les enfants ont joué à la marelle. « Tu joues bien ! » a dit une fille, Salomé. « Merci ! Je la jouais tous les jours à Tours », a répondu Iris. « Demain, je vous l'apprendrai, si vous voulez. »",
+      "pt": "No recreio, as crianças jogaram amarelinha. « Você joga bem! » disse uma menina, Salomé. « Obrigada! Eu jogava todos os dias em Tours », respondeu Íris. « Amanhã, eu a ensino para vocês, se quiserem. »"
+    },
+    {
+      "id": 5,
+      "fr": "Le soir, Iris a raconté sa journée. « J'ai une nouvelle amie, Salomé. Et la maîtresse m'a dit que je parlais bien français. » Irlan a pris sa fille dans ses bras : « Tu vois ? Quand on arrive quelque part, on ne sait pas ce qui nous attend. Mais on apprend, chaque jour, un peu plus. »",
+      "pt": "À noite, Íris contou seu dia. « Tenho uma nova amiga, Salomé. E a professora me disse que eu falava bem francês. » Irlan abraçou a filha: « Viu? Quando se chega num lugar, não se sabe o que nos espera. Mas se aprende, cada dia, um pouco mais. »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "l'école",
+      "definitionPt": "a escola",
+      "definitionFr": "Lieu où l'on apprend.",
+      "inflections": ["l'école", "une école", "des écoles"],
+      "ptTargets": ["escola"],
+      "examples": [
+        { "level": "A1", "fr": "L'école est grande.", "pt": "A escola é grande." },
+        { "level": "A2-B1", "fr": "Iris va à une nouvelle école.", "pt": "Íris vai a uma nova escola." },
+        { "level": "B1", "fr": "L'école où Iris étudie se trouve près du parc.", "pt": "A escola onde Íris estuda fica perto do parque." },
+        { "level": "C1-C2", "fr": "L'école, premier monde, apprend à l'enfant à vivre avec les autres.", "pt": "A escola, primeiro mundo, ensina a criança a viver com os outros." }
+      ]
+    },
+    {
+      "term": "la maîtresse",
+      "definitionPt": "a professora",
+      "definitionFr": "Enseignante des petits.",
+      "inflections": ["la maîtresse", "une maîtresse", "des maîtresses"],
+      "ptTargets": ["professora", "mestra"],
+      "examples": [
+        { "level": "A1", "fr": "La maîtresse est gentille.", "pt": "A professora é gentil." },
+        { "level": "A2-B1", "fr": "La maîtresse a accueilli les élèves.", "pt": "A professora recebeu os alunos." },
+        { "level": "B1", "fr": "La maîtresse à qui l'on a donné le mot est Madame Rivière.", "pt": "A professora a quem se entregou o bilhete é a senhora Rivière." },
+        { "level": "C1-C2", "fr": "La maîtresse, semeuse d'idées, plante dans les têtes des jardins entiers.", "pt": "A professora, semeadeira de ideias, planta nas cabeças jardins inteiros." }
+      ]
+    },
+    {
+      "term": "la récréation",
+      "definitionPt": "o recreio",
+      "definitionFr": "Pause entre les cours.",
+      "inflections": ["la récréation", "une récréation", "des récréations"],
+      "ptTargets": ["recreio"],
+      "examples": [
+        { "level": "A1", "fr": "La récréation est courte.", "pt": "O recreio é curto." },
+        { "level": "A2-B1", "fr": "Les enfants jouent à la récréation.", "pt": "As crianças brincam no recreio." },
+        { "level": "B1", "fr": "La récréation pendant laquelle on joue dure vingt minutes.", "pt": "O recreio durante o qual se brinca dura vinte minutos." },
+        { "level": "C1-C2", "fr": "La récréation, royaume des enfants, suspend les règles du monde adulte.", "pt": "O recreio, reino das crianças, suspende as regras do mundo adulto." }
+      ]
+    },
+    {
+      "term": "le cartable",
+      "definitionPt": "a mochila escolar",
+      "definitionFr": "Sac d'écolier.",
+      "inflections": ["le cartable", "un cartable", "des cartables"],
+      "ptTargets": ["mochila escolar", "mochila"],
+      "examples": [
+        { "level": "A1", "fr": "Le cartable est rouge.", "pt": "A mochila é vermelha." },
+        { "level": "A2-B1", "fr": "Iris porte son nouveau cartable.", "pt": "Íris carrega sua mochila nova." },
+        { "level": "B1", "fr": "Le cartable que l'on a préparé est prêt.", "pt": "A mochila que se preparou está pronta." },
+        { "level": "C1-C2", "fr": "Le cartable, monde portatif, transporte l'école sur le dos des enfants.", "pt": "A mochila, mundo portátil, transporta a escola nas costas das crianças." }
+      ]
+    },
+    {
+      "term": "le camarade",
+      "definitionPt": "o colega",
+      "definitionFr": "Compagnon d'école.",
+      "inflections": ["le camarade", "un camarade", "des camarades"],
+      "ptTargets": ["colega"],
+      "examples": [
+        { "level": "A1", "fr": "Le camarade est sympa.", "pt": "O colega é legal." },
+        { "level": "A2-B1", "fr": "Iris a fait de nouveaux camarades.", "pt": "Íris fez novos colegas." },
+        { "level": "B1", "fr": "Les camarades avec qui l'on joue deviennent des amis.", "pt": "Os colegas com quem se brinca viram amigos." },
+        { "level": "C1-C2", "fr": "Le camarade, compagnon de route, partage les bancs et les souvenirs.", "pt": "O colega, companheiro de estrada, partilha os bancos e as lembranças." }
+      ]
+    },
+    {
+      "term": "la marelle",
+      "definitionPt": "a amarelinha",
+      "definitionFr": "Jeu d'enfants tracé au sol.",
+      "inflections": ["la marelle", "une marelle", "des marelles"],
+      "ptTargets": ["amarelinha"],
+      "examples": [
+        { "level": "A1", "fr": "La marelle est sur le sol.", "pt": "A amarelinha está no chão." },
+        { "level": "A2-B1", "fr": "Les enfants jouent à la marelle.", "pt": "As crianças jogam amarelinha." },
+        { "level": "B1", "fr": "La marelle sur laquelle on joue est tracée à la craie.", "pt": "A amarelinha na qual se joga é desenhada com giz." },
+        { "level": "C1-C2", "fr": "La marelle, échelle de craie, fait monter les enfants vers le ciel.", "pt": "A amarelinha, escada de giz, faz as crianças subirem ao céu." }
+      ]
+    },
+    {
+      "term": "dessiner",
+      "definitionPt": "desenhar",
+      "definitionFr": "Tracer des formes.",
+      "inflections": ["je dessine", "tu dessines", "il dessine", "nous dessinons"],
+      "ptTargets": ["desenhar"],
+      "examples": [
+        { "level": "A1", "fr": "Je dessine une fleur.", "pt": "Eu desenho uma flor." },
+        { "level": "A2-B1", "fr": "Iris a dessiné un plan de la France.", "pt": "Íris desenhou um mapa da França." },
+        { "level": "B1", "fr": "Le plan qu'elle a dessiné est très précis.", "pt": "O mapa que ela desenhou é muito preciso." },
+        { "level": "C1-C2", "fr": "Dessiner, geste d'enfance, redonne au monde sa forme la plus simple.", "pt": "Desenhar, gesto de infância, devolve ao mundo sua forma mais simples." }
+      ]
+    },
+    {
+      "term": "fier",
+      "definitionPt": "orgulhoso",
+      "definitionFr": "Content et heureux de soi.",
+      "inflections": ["fier", "fière", "fiers", "fières"],
+      "ptTargets": ["orgulhoso"],
+      "examples": [
+        { "level": "A1", "fr": "Je suis fier de toi.", "pt": "Eu estou orgulhoso de você." },
+        { "level": "A2-B1", "fr": "Iris était fière de son dessin.", "pt": "Íris estava orgulhosa de seu desenho." },
+        { "level": "B1", "fr": "Les parents, fiers de leur fille, la regardaient sourire.", "pt": "Os pais, orgulhosos da filha, a olhavam sorrir." },
+        { "level": "C1-C2", "fr": "Fier, sentiment de lumière, éclaire le visage de ceux qui ont osé.", "pt": "Orgulhoso, sentimento de luz, ilumina o rosto dos que ousaram." }
+      ]
+    },
+    {
+      "term": "raconter",
+      "definitionPt": "contar",
+      "definitionFr": "Dire une histoire.",
+      "inflections": ["je raconte", "tu racontes", "il raconte", "nous racontons"],
+      "ptTargets": ["contar"],
+      "examples": [
+        { "level": "A1", "fr": "Je raconte mon jour.", "pt": "Eu conto meu dia." },
+        { "level": "A2-B1", "fr": "Iris a raconté sa journée.", "pt": "Íris contou seu dia." },
+        { "level": "B1", "fr": "Les histoires que l'on raconte deviennent vraies.", "pt": "As histórias que se contam viram verdade." },
+        { "level": "C1-C2", "fr": "Raconter, art du partage, transforme la vie en histoire pour les autres.", "pt": "Contar, arte da partilha, transforma a vida em história para os outros." }
+      ]
+    },
+    {
+      "term": "le crayon",
+      "definitionPt": "o lápis",
+      "definitionFr": "Instrument pour écrire.",
+      "inflections": ["le crayon", "un crayon", "des crayons"],
+      "ptTargets": ["lápis"],
+      "examples": [
+        { "level": "A1", "fr": "Le crayon est jaune.", "pt": "O lápis é amarelo." },
+        { "level": "A2-B1", "fr": "Le cartable est plein de crayons.", "pt": "A mochila está cheia de lápis." },
+        { "level": "B1", "fr": "Les crayons que l'on a achetés sont de toutes les couleurs.", "pt": "Os lápis que se compraram são de todas as cores." },
+        { "level": "C1-C2", "fr": "Le crayon, baguette de bois, écrit les rêves avant de les vivre.", "pt": "O lápis, varinha de madeira, escreve os sonhos antes de vivê-los." }
+      ]
+    },
+    {
+      "term": "la craie",
+      "definitionPt": "o giz",
+      "definitionFr": "Bâton blanc pour écrire au tableau.",
+      "inflections": ["la craie", "une craie", "des craies"],
+      "ptTargets": ["giz"],
+      "examples": [
+        { "level": "A1", "fr": "La craie est blanche.", "pt": "O giz é branco." },
+        { "level": "A2-B1", "fr": "On trace la marelle à la craie.", "pt": "Desenha-se a amarelinha com giz." },
+        { "level": "B1", "fr": "Les lignes que l'on fait à la craie s'effacent avec la pluie.", "pt": "As linhas que se fazem com giz apagam-se com a chuva." },
+        { "level": "C1-C2", "fr": "La craie, poussière qui écrit, dessine le savoir avant de s'envoler.", "pt": "O giz, poeira que escreve, desenha o saber antes de voar." }
+      ]
+    },
+    {
+      "term": "l'accueil",
+      "definitionPt": "a recepção, o acolhimento",
+      "definitionFr": "Action de recevoir quelqu'un.",
+      "inflections": ["l'accueil", "un accueil"],
+      "ptTargets": ["recepção", "acolhimento"],
+      "examples": [
+        { "level": "A1", "fr": "L'accueil est chaleureux.", "pt": "A recepção é calorosa." },
+        { "level": "A2-B1", "fr": "L'accueil de la maîtresse était gentil.", "pt": "A recepção da professora foi gentil." },
+        { "level": "B1", "fr": "L'accueil que l'on reçoit ici est parfait.", "pt": "A recepção que se recebe aqui é perfeita." },
+        { "level": "C1-C2", "fr": "L'accueil, première parole, décide de la couleur de tout un séjour.", "pt": "A recepção, primeira palavra, decide a cor de toda uma estadia." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "titleFr": "Les pronoms doubles : je le lui donne",
+    "titlePt": "Os pronomes duplos: je le lui donne",
+    "points": [
+      {
+        "fr": "Deux pronoms peuvent se suivre : « Je le lui ai préparé » (eu o preparei para ela), « Je le lui montrerai » (eu o mostrarei a ele/ela). Ordre : COD puis COI.",
+        "pt": "Dois pronomes podem vir juntos: « Je le lui ai préparé » (eu o preparei para ela), « Je le lui montrerai » (eu o mostrarei a ele/ela). Ordem: COD depois COI."
+      },
+      {
+        "fr": "Exemples : « Je te le donne » (eu te dou isto), « Je la lui montre » (eu a mostro a ele/ela), « Je vous les apprendrai » (eu os ensinarei a vocês).",
+        "pt": "Exemplos: « Je te le donne » (eu te dou isto), « Je la lui montre » (eu a mostro a ele/ela), « Je vous les apprendrai » (eu os ensinarei a vocês)."
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Quem é a nova professora de Íris ?",
+      "options": ["Madame Rivière", "Madame Lefèvre", "Madame Dupont", "Madame Martin"],
+      "correctIndex": 0
+    },
+    {
+      "question": "O que Íris desenhou na aula ?",
+      "options": ["Um mapa da França", "Uma casa", "Uma scooter", "Um gato"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Como se chama a nova amiga de Íris ?",
+      "options": ["Salomé", "Camille", "Juliette", "Manon"],
+      "correctIndex": 0
+    },
+    {
+      "question": "O que as crianças jogaram no recreio ?",
+      "options": ["Marelle (amarelinha)", "Futebol", "Esconde-esconde", "Pega-pega"],
+      "correctIndex": 0
+    },
+    {
+      "question": "O que Andréa preparou no cartable ?",
+      "options": ["Lápis, cadernos e um bilhete", "Um lanche", "Um brinquedo", "Uma foto"],
+      "correctIndex": 0
+    }
+  ]
+}

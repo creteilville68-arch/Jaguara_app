@@ -1,0 +1,252 @@
+{
+  "id": "tours_lesson_4",
+  "cityId": "tours",
+  "domain": "História",
+  "level": "Intermediário (B1)",
+  "titleFr": "Le château de Chambord : le géant de la Loire",
+  "titlePt": "O castelo de Chambord: o gigante do Loire",
+  "subtitleFr": "Le plus grand château, son escalier à double hélice et la forêt royale",
+  "subtitlePt": "O maior castelo, sua escada de dupla hélice e a floresta real",
+  "summaryPt": "Nesta Aula 4 (B1), a família visita Chambord, o maior e um dos mais famosos castelos do Loire, construído por François I com a provável inspiração de Leonardo da Vinci, autor da escada de dupla hélice. O aluno aprende os superlativos (le plus grand, la plus célèbre) e o pronome relativo 'dont'.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Chambord est le plus grand château de la Loire. Ses 440 pièces et son escalier à double hélice impressionnent tous les visiteurs.",
+      "pt": "Chambord é o maior castelo do Loire. Seus 440 cômodos e sua escada de dupla hélice impressionam todos os visitantes."
+    },
+    {
+      "id": 2,
+      "fr": "L'escalier, dont on attribue souvent le dessin à Léonard de Vinci, permet de monter et de descendre sans se croiser. C'est la pièce la plus célèbre du château.",
+      "pt": "A escada, cujo desenho costuma ser atribuído a Leonardo da Vinci, permite subir e descer sem se cruzar. É a peça mais famosa do castelo."
+    },
+    {
+      "id": 3,
+      "fr": "François I, qui aimait la chasse, a fait construire ce château au cœur d'une immense forêt. « La forêt, dont nous voyons la fin, est magnifique », a dit Andréa.",
+      "pt": "Francisco I, que amava a caça, mandou construir este castelo no coração de uma floresta imensa. « A floresta, cujo fim vemos, é magnífica », disse Andréa."
+    },
+    {
+      "id": 4,
+      "fr": "Sur la terrasse, Íris a crié : « Je suis la reine du plus beau château du monde ! » Tout le monde a ri sous le soleil.",
+      "pt": "No terraço, Íris gritou: « Eu sou a rainha do castelo mais bonito do mundo! » Todos riram sob o sol."
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "l'escalier",
+      "definitionPt": "a escada",
+      "definitionFr": "Suite de marches.",
+      "inflections": ["l'escalier", "les escaliers"],
+      "ptTargets": ["escada"],
+      "examples": [
+        { "level": "A1", "fr": "L'escalier est long.", "pt": "A escada é comprida." },
+        { "level": "A2-B1", "fr": "L'escalier de Chambord est célèbre.", "pt": "A escada de Chambord é famosa." },
+        { "level": "B1-B2", "fr": "L'escalier à double hélice permet de monter sans croiser les autres.", "pt": "A escada de dupla hélice permite subir sem cruzar com os outros." },
+        { "level": "C1-C2", "fr": "L'escalier à double hélice de Chambord est une prouesse technique de la Renaissance.", "pt": "A escada de dupla hélice de Chambord é uma proeza técnica da Renascença." }
+      ]
+    },
+    {
+      "term": "la tour",
+      "definitionPt": "a torre",
+      "definitionFr": "Bâtiment haut et étroit.",
+      "inflections": ["la tour", "les tours"],
+      "ptTargets": ["torre"],
+      "examples": [
+        { "level": "A1", "fr": "La tour est haute.", "pt": "A torre é alta." },
+        { "level": "A2-B1", "fr": "Les tours de Chambord entourent le château.", "pt": "As torres de Chambord cercam o castelo." },
+        { "level": "B1-B2", "fr": "La tour, qui culmine à plus de cinquante mètres, domine la forêt.", "pt": "A torre, que culmina a mais de cinquenta metros, domina a floresta." },
+        { "level": "C1-C2", "fr": "Les tours de Chambord allient élégance architecturale et fonction défensive.", "pt": "As torres de Chambord aliam elegância arquitetônica e função defensiva." }
+      ]
+    },
+    {
+      "term": "le roi",
+      "definitionPt": "o rei",
+      "definitionFr": "Souverain d'un royaume.",
+      "inflections": ["le roi", "les rois"],
+      "ptTargets": ["rei"],
+      "examples": [
+        { "level": "A1", "fr": "Le roi est puissant.", "pt": "O rei é poderoso." },
+        { "level": "A2-B1", "fr": "François I a fait construire Chambord.", "pt": "Francisco I mandou construir Chambord." },
+        { "level": "B1-B2", "fr": "Le roi, qui aimait la chasse, venait souvent au château.", "pt": "O rei, que amava a caça, vinha muitas vezes ao castelo." },
+        { "level": "C1-C2", "fr": "Les rois de France ont marqué la vallée de la Loire de leur empreinte.", "pt": "Os reis da França marcaram o vale do Loire com sua marca." }
+      ]
+    },
+    {
+      "term": "la chasse",
+      "definitionPt": "a caça",
+      "definitionFr": "Action de poursuivre des animaux.",
+      "inflections": ["la chasse", "les chasses"],
+      "ptTargets": ["caça"],
+      "examples": [
+        { "level": "A1", "fr": "La chasse est ancienne.", "pt": "A caça é antiga." },
+        { "level": "A2-B1", "fr": "La forêt de Chambord était réservée à la chasse.", "pt": "A floresta de Chambord era reservada à caça." },
+        { "level": "B1-B2", "fr": "Le roi, qui adorait la chasse, a créé un immense domaine.", "pt": "O rei, que adorava a caça, criou um domínio imenso." },
+        { "level": "C1-C2", "fr": "La chasse royale structurait l'économie et le paysage des campagnes françaises.", "pt": "A caça real estruturava a economia e a paisagem dos campos franceses." }
+      ]
+    },
+    {
+      "term": "la taille",
+      "definitionPt": "o tamanho",
+      "definitionFr": "Dimension, grandeur.",
+      "inflections": ["la taille", "les tailles"],
+      "ptTargets": ["tamanho"],
+      "examples": [
+        { "level": "A1", "fr": "La taille est grande.", "pt": "O tamanho é grande." },
+        { "level": "A2-B1", "fr": "La taille de Chambord impressionne.", "pt": "O tamanho de Chambord impressiona." },
+        { "level": "B1-B2", "fr": "La taille du château reflète le pouvoir de son roi.", "pt": "O tamanho do castelo reflete o poder de seu rei." },
+        { "level": "C1-C2", "fr": "La taille monumentale de Chambord en fait un symbole de l'absolutisme renaissant.", "pt": "O tamanho monumental de Chambord o torna um símbolo do absolutismo renascentista." }
+      ]
+    },
+    {
+      "term": "immense",
+      "definitionPt": "imenso",
+      "definitionFr": "Très grand.",
+      "inflections": ["immense", "immenses"],
+      "ptTargets": ["imenso"],
+      "examples": [
+        { "level": "A1", "fr": "La forêt est immense.", "pt": "A floresta é imensa." },
+        { "level": "A2-B1", "fr": "Le château et sa forêt forment un ensemble immense.", "pt": "O castelo e sua floresta formam um conjunto imenso." },
+        { "level": "B1-B2", "fr": "La forêt immense, qui entoure Chambord, est la plus grande de France.", "pt": "A floresta imensa, que cerca Chambord, é a maior da França." },
+        { "level": "C1-C2", "fr": "L'immensité du domaine de Chambord illustre l'ambition de François I.", "pt": "A imensidão do domínio de Chambord ilustra a ambição de Francisco I." }
+      ]
+    },
+    {
+      "term": "le génie",
+      "definitionPt": "o gênio",
+      "definitionFr": "Personne d'un talent exceptionnel.",
+      "inflections": ["le génie", "les génies"],
+      "ptTargets": ["gênio"],
+      "examples": [
+        { "level": "A1", "fr": "Le génie est rare.", "pt": "O gênio é raro." },
+        { "level": "A2-B1", "fr": "Léonard de Vinci était un génie.", "pt": "Leonardo da Vinci era um gênio." },
+        { "level": "B1-B2", "fr": "Le génie de Vinci a marqué l'art et la science.", "pt": "O gênio de Vinci marcou a arte e a ciência." },
+        { "level": "C1-C2", "fr": "Le génie de la Renaissance associe l'art, la technique et la pensée humaniste.", "pt": "O gênio da Renascença associa a arte, a técnica e o pensamento humanista." }
+      ]
+    },
+    {
+      "term": "la Renaissance",
+      "definitionPt": "a Renascença",
+      "definitionFr": "Période de renouveau artistique et scientifique.",
+      "inflections": ["la Renaissance"],
+      "ptTargets": ["Renascença"],
+      "examples": [
+        { "level": "A1", "fr": "La Renaissance est ancienne.", "pt": "A Renascença é antiga." },
+        { "level": "A2-B1", "fr": "Chambord est un chef-d'œuvre de la Renaissance.", "pt": "Chambord é uma obra-prima da Renascença." },
+        { "level": "B1-B2", "fr": "La Renaissance, qui venait d'Italie, a transformé l'art français.", "pt": "A Renascença, que vinha da Itália, transformou a arte francesa." },
+        { "level": "C1-C2", "fr": "La Renaissance française a fait de la vallée de la Loire le théâtre de ses plus grandes réalisations.", "pt": "A Renascença francesa fez do vale do Loire o palco de suas maiores realizações." }
+      ]
+    },
+    {
+      "term": "la salle",
+      "definitionPt": "a sala",
+      "definitionFr": "Grande pièce.",
+      "inflections": ["la salle", "les salles"],
+      "ptTargets": ["sala"],
+      "examples": [
+        { "level": "A1", "fr": "La salle est grande.", "pt": "A sala é grande." },
+        { "level": "A2-B1", "fr": "Le château compte plus de quatre cents salles.", "pt": "O castelo tem mais de quatrocentas salas." },
+        { "level": "B1-B2", "fr": "Les salles, dont certaines sont décorées de salamandres, sont superbes.", "pt": "As salas, algumas decoradas com salamandras, são soberbas." },
+        { "level": "C1-C2", "fr": "La salle des gardes témoigne du faste de la cour de François I.", "pt": "A sala dos guardas testemunha o fausto da corte de Francisco I." }
+      ]
+    },
+    {
+      "term": "la terrasse",
+      "definitionPt": "o terraço",
+      "definitionFr": "Plateforme en hauteur.",
+      "inflections": ["la terrasse", "les terrasses"],
+      "ptTargets": ["terraço"],
+      "examples": [
+        { "level": "A1", "fr": "La terrasse est grande.", "pt": "O terraço é grande." },
+        { "level": "A2-B1", "fr": "La terrasse de Chambord offre une vue immense.", "pt": "O terraço de Chambord oferece uma vista imensa." },
+        { "level": "B1-B2", "fr": "Depuis la terrasse, on découvre les cheminées sculptées du château.", "pt": "Do terraço, descobrem-se as chaminés esculpidas do castelo." },
+        { "level": "C1-C2", "fr": "La terrasse sommitale de Chambord est l'un des plus beaux belvédères de France.", "pt": "O terraço do topo de Chambord é um dos mais belos mirantes da França." }
+      ]
+    },
+    {
+      "term": "construire",
+      "definitionPt": "construir",
+      "definitionFr": "Bâtir, édifier.",
+      "inflections": ["je construis", "nous construisons", "construit"],
+      "ptTargets": ["construir"],
+      "examples": [
+        { "level": "A1", "fr": "Je construis une tour.", "pt": "Eu construo uma torre." },
+        { "level": "A2-B1", "fr": "François I a fait construire Chambord.", "pt": "Francisco I mandou construir Chambord." },
+        { "level": "B1-B2", "fr": "Le roi, qui a construit ce château, venait rarement y vivre.", "pt": "O rei, que construiu este castelo, raramente vinha morar nele." },
+        { "level": "C1-C2", "fr": "Construire Chambord a mobilisé des milliers d'ouvriers pendant plusieurs décennies.", "pt": "Construir Chambord mobilizou milhares de operários durante várias décadas." }
+      ]
+    },
+    {
+      "term": "la couronne",
+      "definitionPt": "a coroa",
+      "definitionFr": "Symbole du pouvoir royal.",
+      "inflections": ["la couronne", "les couronnes"],
+      "ptTargets": ["coroa"],
+      "examples": [
+        { "level": "A1", "fr": "La couronne est en or.", "pt": "A coroa é de ouro." },
+        { "level": "A2-B1", "fr": "La couronne est le symbole du roi.", "pt": "A coroa é o símbolo do rei." },
+        { "level": "B1-B2", "fr": "Le château, dont la couronne orne les façades, exprime la puissance royale.", "pt": "O castelo, cuja coroa ornamenta as fachadas, expressa o poder real." },
+        { "level": "C1-C2", "fr": "La couronne et la salamandre, emblèmes de François I, ornent les murs de Chambord.", "pt": "A coroa e a salamandra, emblemas de Francisco I, ornamentam os muros de Chambord." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Les superlatifs (le plus grand, la plus célèbre)",
+    "explanationPt": "O superlativo expressa o máximo: le/la/les + plus/moins + adjectif. Ex.: 'Chambord est le plus grand château', 'l'escalier est la pièce la plus célèbre'.",
+    "exampleFr": "Chambord est le plus grand château de la Loire.",
+    "examplePt": "Chambord é o maior castelo do Loire.",
+    "practiceQuestion": "Complete: « Chambord est ___ plus grand château de la Loire. »",
+    "options": ["le", "la", "les"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "Le superlatif relatif",
+        "explanationPt": "Estrutura: le/la/les + plus/moins + adjectif (+ de + groupe). Ex.: 'la pièce la plus célèbre du château'.",
+        "exampleFr": "C'est la pièce la plus célèbre du château.",
+        "examplePt": "É a peça mais famosa do castelo.",
+        "practiceQuestion": "Qual é o superlativo de 'célèbre'?",
+        "options": ["la plus célèbre", "plus célèbre que", "aussi célèbre"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "Le pronom relatif DONT",
+        "explanationPt": "'Dont' substitui um complemento com 'de': 'l'escalier, dont on attribue le dessin à Vinci' (a escada, cujo desenho atribuem a Vinci).",
+        "exampleFr": "La forêt, dont nous voyons la fin, est magnifique.",
+        "examplePt": "A floresta, cujo fim vemos, é magnífica.",
+        "practiceQuestion": "Complete: « L'escalier, ___ le dessin est célèbre, est superbe. »",
+        "options": ["dont", "qui", "où"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Qual é a posição de Chambord entre os castelos do Loire?",
+      "options": ["o maior", "o menor", "o mais antigo"],
+      "correctIndex": 0,
+      "explanation": "Chambord é o maior castelo da região do Loire."
+    },
+    {
+      "question": "A quem é atribuído o desenho da escada de dupla hélice?",
+      "options": ["Leonardo da Vinci", "Napoleão", "Victor Hugo"],
+      "correctIndex": 0,
+      "explanation": "Atribui-se a Leonardo da Vinci o desenho da escada."
+    },
+    {
+      "question": "Quem mandou construir Chambord?",
+      "options": ["François I", "Luís XIV", "Carlos Magno"],
+      "correctIndex": 0,
+      "explanation": "Francisco I mandou construir o castelo."
+    },
+    {
+      "question": "Complete: « Chambord est ___ plus grand château. »",
+      "options": ["le", "la", "les"],
+      "correctIndex": 0,
+      "explanation": "Superlativo masculino: le plus grand."
+    },
+    {
+      "question": "Complete: « L'escalier, ___ on parle souvent, est célèbre. »",
+      "options": ["dont", "où", "que"],
+      "correctIndex": 0,
+      "explanation": "'Dont' substitui 'de' + complemento: l'escalier dont on parle."
+    }
+  ]
+}

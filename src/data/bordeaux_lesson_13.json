@@ -1,0 +1,237 @@
+{
+  "id": "bordeaux_lesson_13",
+  "cityId": "bordeaux",
+  "domain": "Natureza e lazer",
+  "level": "Intermediário (B1+)",
+  "titleFr": "Le jardin public : le poumon vert de Bordeaux",
+  "titlePt": "O jardim público: o pulmão verde de Bordeaux",
+  "subtitleFr": "En se promenant, on oublie que l'on est en ville",
+  "subtitlePt": "Passeando, esquece-se que se está na cidade",
+  "summaryPt": "Nesta Aula 13 (B1+), a família passa uma tarde no jardin public, criado no século XVIII, com seu lago, seus cisnes e o carrossel para crianças. O aluno pratica o vocabulário do parque (le jardin, le lac, le cygne) e o conditionnel para sugestões (il faudrait, on pourrait).",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "« Aujourd'hui, on va au jardin public », a annoncé Irlan. « Il a été créé au XVIIIe siècle, dans le style des jardins anglais. » Iris a couru devant : « Je veux voir les cygnes du lac ! »",
+      "pt": "« Hoje vamos ao jardim público », anunciou Irlan. « Ele foi criado no século XVIII, no estilo dos jardins ingleses. » Íris correu na frente: « Quero ver os cisnes do lago! »"
+    },
+    {
+      "id": 2,
+      "fr": "Le jardin était plein de monde : des enfants au carrousel, des étudiants sur l'herbe, des grands-parents sur les bancs. « En regardant les gens, on comprend la ville », a souri Andréa. « Ici, tout le monde se repose. »",
+      "pt": "O jardim estava cheio de gente: crianças no carrossel, estudantes na grama, avós nos bancos. « Olhando as pessoas, entende-se a cidade », sorriu Andréa. « Aqui, todo mundo descansa. »"
+    },
+    {
+      "id": 3,
+      "fr": "Iris a donné du pain aux cygnes. « Il faudrait revenir tous les dimanches », a-t-elle dit. « On pourrait apporter un pique-nique », a proposé Andréa. « Et un ballon », a ajouté Irlan. « Et la scooter ? » a demandé Iris en riant.",
+      "pt": "Íris deu pão aos cisnes. « Seria preciso voltar todos os domingos », disse. « Poderíamos trazer um piquenique », propôs Andréa. « E uma bola », acrescentou Irlan. « E a scooter? » perguntou Íris rindo."
+    },
+    {
+      "id": 4,
+      "fr": "« Le jardin public, c'est le poumon vert de la ville », a expliqué Irlan, le géographe. « Les arbres font baisser la chaleur en été. » Iris a écouté les oiseaux : « On dirait la campagne, pas une grande ville ! »",
+      "pt": "« O jardim público é o pulmão verde da cidade », explicou Irlan, o geógrafo. « As árvores fazem baixar o calor no verão. » Íris escutou os pássaros: « Parece o campo, não uma cidade grande! »"
+    },
+    {
+      "id": 5,
+      "fr": "Le soir, sur le chemin du retour, Iris a demandé : « Papa, quand j'étais petite, tu me porteras encore sur tes épaules ? » Irlan a souri : « Je te porterai toujours, même quand tu seras grande. » « Alors, on reviendra ici dans dix ans », a dit Iris. « C'est promis. »",
+      "pt": "À noite, no caminho de volta, Íris perguntou: « Papai, quando eu era pequena, você ainda vai me carregar nos ombros? » Irlan sorriu: « Vou te carregar sempre, mesmo quando você for grande. » « Então, a gente volta aqui daqui a dez anos », disse Íris. « Prometido. »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "le jardin",
+      "definitionPt": "o jardim",
+      "definitionFr": "Espace vert aménagé.",
+      "inflections": ["le jardin", "un jardin", "des jardins"],
+      "ptTargets": ["jardim"],
+      "examples": [
+        { "level": "A1", "fr": "Le jardin est vert.", "pt": "O jardim é verde." },
+        { "level": "A2-B1", "fr": "Le jardin public est grand.", "pt": "O jardim público é grande." },
+        { "level": "B1", "fr": "Le jardin dans lequel on se promène est du XVIIIe siècle.", "pt": "O jardim no qual se passeia é do século XVIII." },
+        { "level": "C1-C2", "fr": "Le jardin, poème de verdure, apaise les yeux et les pensées.", "pt": "O jardim, poema de verdura, acalma os olhos e os pensamentos." }
+      ]
+    },
+    {
+      "term": "le lac",
+      "definitionPt": "o lago",
+      "definitionFr": "Étendue d'eau entourée de terre.",
+      "inflections": ["le lac", "un lac", "des lacs"],
+      "ptTargets": ["lago"],
+      "examples": [
+        { "level": "A1", "fr": "Le lac est calme.", "pt": "O lago é calmo." },
+        { "level": "A2-B1", "fr": "Les cygnes vivent sur le lac.", "pt": "Os cisnes vivem no lago." },
+        { "level": "B1", "fr": "Le lac autour duquel on marche est petit mais joli.", "pt": "O lago ao redor do qual se caminha é pequeno mas bonito." },
+        { "level": "C1-C2", "fr": "Le lac, œil de l'eau, reflète les arbres et les rêves.", "pt": "O lago, olho da água, reflete as árvores e os sonhos." }
+      ]
+    },
+    {
+      "term": "le cygne",
+      "definitionPt": "o cisne",
+      "definitionFr": "Grand oiseau blanc au long cou.",
+      "inflections": ["le cygne", "un cygne", "des cygnes"],
+      "ptTargets": ["cisne"],
+      "examples": [
+        { "level": "A1", "fr": "Le cygne est blanc.", "pt": "O cisne é branco." },
+        { "level": "A2-B1", "fr": "Les cygnes glissent sur le lac.", "pt": "Os cisnes deslizam no lago." },
+        { "level": "B1", "fr": "Les cygnes que l'on nourrit ici sont doux.", "pt": "Os cisnes que se alimentam aqui são dóceis." },
+        { "level": "C1-C2", "fr": "Le cygne, élégance muette, glisse sans remuer l'eau qu'il traverse.", "pt": "O cisne, elegância muda, desliza sem agitar a água que atravessa." }
+      ]
+    },
+    {
+      "term": "le carrousel",
+      "definitionPt": "o carrossel",
+      "definitionFr": "Manège pour enfants.",
+      "inflections": ["le carrousel", "un carrousel", "des carrousels"],
+      "ptTargets": ["carrossel"],
+      "examples": [
+        { "level": "A1", "fr": "Le carrousel tourne.", "pt": "O carrossel gira." },
+        { "level": "A2-B1", "fr": "Les enfants adorent le carrousel.", "pt": "As crianças adoram o carrossel." },
+        { "level": "B1", "fr": "Le carrousel sur lequel Iris monte est ancien.", "pt": "O carrossel no qual Íris sobe é antigo." },
+        { "level": "C1-C2", "fr": "Le carrousel, tour de joie, fait danser les enfances.", "pt": "O carrossel, torre de alegria, faz dançar as infâncias." }
+      ]
+    },
+    {
+      "term": "le banc",
+      "definitionPt": "o banco (de praça)",
+      "definitionFr": "Siège public dans la rue ou le jardin.",
+      "inflections": ["le banc", "un banc", "des bancs"],
+      "ptTargets": ["banco"],
+      "examples": [
+        { "level": "A1", "fr": "Le banc est en bois.", "pt": "O banco é de madeira." },
+        { "level": "A2-B1", "fr": "Les grands-parents lisent sur le banc.", "pt": "Os avós leem no banco." },
+        { "level": "B1", "fr": "Le banc où l'on s'assoit est sous un grand arbre.", "pt": "O banco onde nos sentamos fica sob uma grande árvore." },
+        { "level": "C1-C2", "fr": "Le banc, confident des villes, écoute les conversations du temps.", "pt": "O banco, confidente das cidades, escuta as conversas do tempo." }
+      ]
+    },
+    {
+      "term": "le pique-nique",
+      "definitionPt": "o piquenique",
+      "definitionFr": "Repas pris dehors.",
+      "inflections": ["le pique-nique", "un pique-nique", "des pique-niques"],
+      "ptTargets": ["piquenique"],
+      "examples": [
+        { "level": "A1", "fr": "Le pique-nique est bon.", "pt": "O piquenique é bom." },
+        { "level": "A2-B1", "fr": "On pourrait apporter un pique-nique.", "pt": "Poderíamos trazer um piquenique." },
+        { "level": "B1", "fr": "Le pique-nique que nous préparons aura du fromage.", "pt": "O piquenique que preparamos terá queijo." },
+        { "level": "C1-C2", "fr": "Le pique-nique, repas nomade, transforme l'herbe en table.", "pt": "O piquenique, refeição nômade, transforma a grama em mesa." }
+      ]
+    },
+    {
+      "term": "le poumon",
+      "definitionPt": "o pulmão",
+      "definitionFr": "Organe qui permet de respirer.",
+      "inflections": ["le poumon", "un poumon", "des poumons"],
+      "ptTargets": ["pulmão"],
+      "examples": [
+        { "level": "A1", "fr": "Le poumon respire.", "pt": "O pulmão respira." },
+        { "level": "A2-B1", "fr": "Le jardin est le poumon de la ville.", "pt": "O jardim é o pulmão da cidade." },
+        { "level": "B1", "fr": "Les arbres dont la ville a besoin sont son poumon vert.", "pt": "As árvores das quais a cidade precisa são seu pulmão verde." },
+        { "level": "C1-C2", "fr": "Le poumon, temple du souffle, rappelle que toute ville a besoin d'air.", "pt": "O pulmão, templo do sopro, lembra que toda cidade precisa de ar." }
+      ]
+    },
+    {
+      "term": "l'herbe",
+      "definitionPt": "a grama",
+      "definitionFr": "Plante verte qui couvre le sol.",
+      "inflections": ["l'herbe", "une herbe", "des herbes"],
+      "ptTargets": ["grama", "relva"],
+      "examples": [
+        { "level": "A1", "fr": "L'herbe est verte.", "pt": "A grama é verde." },
+        { "level": "A2-B1", "fr": "On s'assoit sur l'herbe.", "pt": "Senta-se na grama." },
+        { "level": "B1", "fr": "L'herbe sur laquelle on s'assoit est fraîche.", "pt": "A grama na qual nos sentamos é fresca." },
+        { "level": "C1-C2", "fr": "L'herbe, tapis du ciel, reçoit les pique-niques et les rêves.", "pt": "A grama, tapete do céu, recebe piqueniques e sonhos." }
+      ]
+    },
+    {
+      "term": "l'oiseau",
+      "definitionPt": "o pássaro",
+      "definitionFr": "Animal qui a des plumes et des ailes.",
+      "inflections": ["l'oiseau", "un oiseau", "des oiseaux"],
+      "ptTargets": ["pássaro"],
+      "examples": [
+        { "level": "A1", "fr": "L'oiseau chante.", "pt": "O pássaro canta." },
+        { "level": "A2-B1", "fr": "Les oiseaux chantent dans le jardin.", "pt": "Os pássaros cantam no jardim." },
+        { "level": "B1", "fr": "Les oiseaux que l'on entend ici chantent au lever du soleil.", "pt": "Os pássaros que se ouvem aqui cantam ao nascer do sol." },
+        { "level": "C1-C2", "fr": "L'oiseau, musicien sans école, donne un concert gratuit à la ville.", "pt": "O pássaro, músico sem escola, dá um concerto gratuito à cidade." }
+      ]
+    },
+    {
+      "term": "baisser",
+      "definitionPt": "baixar, diminuir",
+      "definitionFr": "Faire descendre.",
+      "inflections": ["je baisse", "tu baisses", "il baisse", "nous baissons"],
+      "ptTargets": ["baixar", "diminuir"],
+      "examples": [
+        { "level": "A1", "fr": "Je baisse la voix.", "pt": "Eu baixo a voz." },
+        { "level": "A2-B1", "fr": "Les arbres baissent la chaleur.", "pt": "As árvores baixam o calor." },
+        { "level": "B1", "fr": "La température, qui baisse le soir, devient agréable.", "pt": "A temperatura, que baixa à noite, fica agradável." },
+        { "level": "C1-C2", "fr": "Baisser, geste de l'ombre, adoucit le monde quand il brûle.", "pt": "Baixar, gesto da sombra, suaviza o mundo quando ele queima." }
+      ]
+    },
+    {
+      "term": "le dimanche",
+      "definitionPt": "o domingo",
+      "definitionFr": "Dernier jour de la semaine.",
+      "inflections": ["le dimanche", "le dimanche matin"],
+      "ptTargets": ["domingo"],
+      "examples": [
+        { "level": "A1", "fr": "Le dimanche est reposant.", "pt": "O domingo é descanso." },
+        { "level": "A2-B1", "fr": "On va au parc le dimanche.", "pt": "Vai-se ao parque no domingo." },
+        { "level": "B1", "fr": "Les dimanches où l'on se promène sont les meilleurs.", "pt": "Os domingos em que se passeia são os melhores." },
+        { "level": "C1-C2", "fr": "Le dimanche, don du temps, ralentit la ville pour un jour.", "pt": "O domingo, dom do tempo, desacelera a cidade por um dia." }
+      ]
+    },
+    {
+      "term": "le retour",
+      "definitionPt": "a volta",
+      "definitionFr": "Action de revenir.",
+      "inflections": ["le retour", "un retour", "des retours"],
+      "ptTargets": ["volta", "retorno"],
+      "examples": [
+        { "level": "A1", "fr": "Le retour est long.", "pt": "A volta é longa." },
+        { "level": "A2-B1", "fr": "Sur le chemin du retour, Iris a demandé…", "pt": "No caminho de volta, Íris perguntou…" },
+        { "level": "B1", "fr": "Le retour, que l'on attend avec joie, est doux.", "pt": "A volta, que se espera com alegria, é doce." },
+        { "level": "C1-C2", "fr": "Le retour, promesse tenue, ferme le cercle du voyage.", "pt": "A volta, promessa cumprida, fecha o círculo da viagem." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "titleFr": "Les suggestions avec le conditionnel",
+    "titlePt": "As sugestões com o conditionnel",
+    "points": [
+      {
+        "fr": "Pour proposer poliment : « Il faudrait revenir », « On pourrait apporter un pique-nique », « Je voudrais voir les cygnes ».",
+        "pt": "Para propor educadamente: « Il faudrait revenir » (Seria preciso voltar), « On pourrait apporter un pique-nique » (Poderíamos trazer um piquenique), « Je voudrais voir les cygnes » (Eu gostaria de ver os cisnes)."
+      },
+      {
+        "fr": "« On pourrait » + infinitif est la formule la plus courante pour suggérer : « On pourrait revenir tous les dimanches. »",
+        "pt": "« On pourrait » + infinitivo é a fórmula mais comum para sugerir: « On pourrait revenir tous les dimanches » (Poderíamos voltar todos os domingos)."
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Em que estilo foi criado o jardin public de Bordeaux ?",
+      "options": ["Estilo dos jardins ingleses", "Estilo japonês", "Estilo deserto", "Estilo tropical"],
+      "correctIndex": 0
+    },
+    {
+      "question": "O que Íris queria ver no lago ?",
+      "options": ["Os cisnes", "Os peixes", "Os patos", "Os barcos"],
+      "correctIndex": 0
+    },
+    {
+      "question": "O que Andréa propôs para o próximo domingo ?",
+      "options": ["Trazer um piquenique", "Ir ao cinema", "Visitar o museu", "Ficar em casa"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Por que o jardim é chamado de pulmão verde ?",
+      "options": ["As árvores baixam o calor", "Tem oxigênio líquido", "É feito de plástico", "Fica perto do hospital"],
+      "correctIndex": 0
+    },
+    {
+      "question": "O que a família prometeu fazer daqui a dez anos ?",
+      "options": ["Voltar ao jardim", "Mudar de cidade", "Comprar uma casa", "Vender a scooter"],
+      "correctIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,252 @@
+{
+  "id": "toulouse_lesson_1",
+  "cityId": "toulouse",
+  "domain": "Viagem",
+  "level": "Intermediário (B2)",
+  "titleFr": "Bienvenue à Toulouse : la Ville Rose et le Capitole",
+  "titlePt": "Bem-vindo a Toulouse: a Cidade Rosa e o Capitólio",
+  "subtitleFr": "L'arrivée à la gare Matabiau et les briques roses qui ont donné son surnom à la ville",
+  "subtitlePt": "A chegada à estação Matabiau e os tijolos rosados que deram o apelido à cidade",
+  "summaryPt": "Nesta Aula 1 (B2), a família chega a Toulouse de TGV, na gare Matabiau. Irlan, geógrafo, já tinha estudado a Ville Rose na faculdade — e usa o Plus-que-parfait para contar o que já sabia antes de chegar. O aluno aprende a anterioridade no passado: 'j'avais déjà lu', 'nous avions vu'.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "À la gare Matabiau, Iris a levé les yeux vers les toits : « Regarde, papa, tout est rose ! » Irlan a souri : « Oui, c'est la Ville Rose. Avant de venir, j'avais déjà lu que les maisons sont construites en briques roses. »",
+      "pt": "Na estação Matabiau, Íris ergueu os olhos para os telhados: « Olha, papai, está tudo rosa! » Irlan sorriu: « Sim, é a Cidade Rosa. Antes de vir, eu já tinha lido que as casas são construídas com tijolos rosados. »"
+    },
+    {
+      "id": 2,
+      "fr": "Andréa a consulté un plan : « Le canal du Midi passe juste derrière la gare. Avant le voyage, j'avais réservé une promenade en péniche pour demain. » Iris a sauté de joie : « J'y vais aussi ! »",
+      "pt": "Andréa consultou um mapa: « O Canal do Midi passa logo atrás da estação. Antes da viagem, eu tinha reservado um passeio de barco para amanhã. » Íris pulou de alegria: « Eu também vou! »"
+    },
+    {
+      "id": 3,
+      "fr": "Sur la place du Capitole, Irlan a expliqué : « Les huit colonnes de la façade et l'étoile occitane… Nous avions étudié cette place à l'université, mais je n'avais jamais imaginé qu'elle était si longue : 128 mètres ! »",
+      "pt": "Na Praça do Capitólio, Irlan explicou: « As oito colunas da fachada e a estrela occitana… Nós tínhamos estudado esta praça na universidade, mas eu nunca tinha imaginado que ela era tão comprida: 128 metros! »"
+    },
+    {
+      "id": 4,
+      "fr": "Le soir, devant les façades illuminées, Iris a demandé : « Pourquoi s'appelle-t-on le Capitole ? » Andréa a répondu : « Parce que les capitouls, les magistrats de la ville, gouvernaient ici depuis le Moyen Âge. » Irlan a ajouté : « Et moi, j'avais promis de te montrer les Salles des Illustres demain. »",
+      "pt": "À noite, diante das fachadas iluminadas, Íris perguntou: « Por que se chama Capitólio? » Andréa respondeu: « Porque os capitouls, os magistrados da cidade, governavam aqui desde a Idade Média. » Irlan acrescentou: « E eu tinha prometido te mostrar as Salas dos Ilustres amanhã. »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "la brique",
+      "definitionPt": "o tijolo",
+      "definitionFr": "Matériau de construction en argile cuite.",
+      "inflections": ["la brique", "les briques"],
+      "ptTargets": ["tijolo"],
+      "examples": [
+        { "level": "A1", "fr": "La brique est rouge.", "pt": "O tijolo é vermelho." },
+        { "level": "A2-B1", "fr": "Les briques roses donnent son surnom à Toulouse.", "pt": "Os tijolos rosados dão seu apelido a Toulouse." },
+        { "level": "B1-B2", "fr": "Les briques, qui rougissent au coucher du soleil, illuminent toute la ville.", "pt": "Os tijolos, que ficam vermelhos ao pôr do sol, iluminam a cidade inteira." },
+        { "level": "C1-C2", "fr": "L'usage de la brique, né du manque de pierre locale, a façonné l'identité urbaine toulousaine.", "pt": "O uso do tijolo, nascido da falta de pedra local, moldou a identidade urbana de Toulouse." }
+      ]
+    },
+    {
+      "term": "le capitoul",
+      "definitionPt": "o magistrado de Toulouse",
+      "definitionFr": "Magistrat municipal de Toulouse sous l'Ancien Régime.",
+      "inflections": ["le capitoul", "les capitouls"],
+      "ptTargets": ["capitoul", "magistrado"],
+      "examples": [
+        { "level": "A1", "fr": "Le capitoul était un magistrat.", "pt": "O capitoul era um magistrado." },
+        { "level": "A2-B1", "fr": "Les capitouls gouvernaient la ville au Moyen Âge.", "pt": "Os capitouls governavam a cidade na Idade Média." },
+        { "level": "B1-B2", "fr": "Les capitouls, qui siégeaient au Capitole, géraient les finances de la cité.", "pt": "Os capitouls, que se reuniam no Capitólio, geriam as finanças da cidade." },
+        { "level": "C1-C2", "fr": "Le pouvoir des capitouls illustre l'autonomie des grandes cités marchandes du Languedoc.", "pt": "O poder dos capitouls ilustra a autonomia das grandes cidades mercantis do Languedoc." }
+      ]
+    },
+    {
+      "term": "le canal",
+      "definitionPt": "o canal",
+      "definitionFr": "Voie d'eau artificielle pour la navigation.",
+      "inflections": ["le canal", "les canaux"],
+      "ptTargets": ["canal"],
+      "examples": [
+        { "level": "A1", "fr": "Le canal est long.", "pt": "O canal é comprido." },
+        { "level": "A2-B1", "fr": "Le canal du Midi passe derrière la gare Matabiau.", "pt": "O Canal do Midi passa atrás da estação Matabiau." },
+        { "level": "B1-B2", "fr": "Le canal du Midi, qui relie la Garonne à la Méditerranée, est classé à l'UNESCO.", "pt": "O Canal do Midi, que liga o Garonne ao Mediterrâneo, é patrimônio da UNESCO." },
+        { "level": "C1-C2", "fr": "Riquet a conçu le canal du Midi comme un chef-d'œuvre d'ingénierie hydraulique au XVIIe siècle.", "pt": "Riquet concebeu o Canal do Midi como uma obra-prima de engenharia hidráulica no século XVII." }
+      ]
+    },
+    {
+      "term": "la péniche",
+      "definitionPt": "a barcaça",
+      "definitionFr": "Bateau de transport fluvial.",
+      "inflections": ["la péniche", "les péniches"],
+      "ptTargets": ["barcaça", "barco"],
+      "examples": [
+        { "level": "A1", "fr": "La péniche est sur l'eau.", "pt": "A barcaça está na água." },
+        { "level": "A2-B1", "fr": "La famille a réservé une promenade en péniche.", "pt": "A família reservou um passeio de barcaça." },
+        { "level": "B1-B2", "fr": "Les péniches, qui descendent les écluses une à une, avancent lentement.", "pt": "As barcaças, que descem as eclusas uma a uma, avançam devagar." },
+        { "level": "C1-C2", "fr": "Autrefois chargées de marchandises, les péniches du canal servent aujourd'hui au tourisme fluvial.", "pt": "Antigamente carregadas de mercadorias, as barcaças do canal hoje servem ao turismo fluvial." }
+      ]
+    },
+    {
+      "term": "la façade",
+      "definitionPt": "a fachada",
+      "definitionFr": "Face extérieure d'un bâtiment.",
+      "inflections": ["la façade", "les façades"],
+      "ptTargets": ["fachada"],
+      "examples": [
+        { "level": "A1", "fr": "La façade est rose.", "pt": "A fachada é rosa." },
+        { "level": "A2-B1", "fr": "La façade du Capitole a huit colonnes.", "pt": "A fachada do Capitólio tem oito colunas." },
+        { "level": "B1-B2", "fr": "La façade, qui date du XVIIIe siècle, domine la plus grande place de Toulouse.", "pt": "A fachada, que data do século XVIII, domina a maior praça de Toulouse." },
+        { "level": "C1-C2", "fr": "La façade du Capitole célèbre l'étoile occitane, emblème de l'identité languedocienne.", "pt": "A fachada do Capitólio celebra a estrela occitana, emblema da identidade do Languedoc." }
+      ]
+    },
+    {
+      "term": "la colonne",
+      "definitionPt": "a coluna",
+      "definitionFr": "Support vertical en pierre ou en marbre.",
+      "inflections": ["la colonne", "les colonnes"],
+      "ptTargets": ["coluna"],
+      "examples": [
+        { "level": "A1", "fr": "La colonne est haute.", "pt": "A coluna é alta." },
+        { "level": "A2-B1", "fr": "Huit colonnes soutiennent la façade du Capitole.", "pt": "Oito colunas sustentam a fachada do Capitólio." },
+        { "level": "B1-B2", "fr": "Les colonnes, qui encadrent les portes, donnent un air de théâtre à la place.", "pt": "As colunas, que emolduram as portas, dão um ar de teatro à praça." },
+        { "level": "C1-C2", "fr": "Le jeu des colonnes et des arcades inscrit la place du Capitole dans la tradition classique française.", "pt": "O jogo de colunas e arcadas inscreve a Praça do Capitólio na tradição clássica francesa." }
+      ]
+    },
+    {
+      "term": "l'étoile occitane",
+      "definitionPt": "a estrela occitana",
+      "definitionFr": "Symbole à six branches représentant l'Occitanie.",
+      "inflections": ["l'étoile occitane", "les étoiles occitanes"],
+      "ptTargets": ["estrela occitana"],
+      "examples": [
+        { "level": "A1", "fr": "L'étoile est belle.", "pt": "A estrela é bonita." },
+        { "level": "A2-B1", "fr": "L'étoile occitane décore la place du Capitole.", "pt": "A estrela occitana decora a Praça do Capitólio." },
+        { "level": "B1-B2", "fr": "L'étoile occitane, qui a six branches, évoque la croix du Languedoc.", "pt": "A estrela occitana, que tem seis pontas, evoca a cruz do Languedoc." },
+        { "level": "C1-C2", "fr": "L'étoile occitane, gravée dans le pavement, rappelle l'ancienne langue et la culture de la région.", "pt": "A estrela occitana, gravada no calçamento, lembra a antiga língua e a cultura da região." }
+      ]
+    },
+    {
+      "term": "le magistrat",
+      "definitionPt": "o magistrado",
+      "definitionFr": "Personne qui exerce une fonction de justice ou d'administration.",
+      "inflections": ["le magistrat", "les magistrats"],
+      "ptTargets": ["magistrado"],
+      "examples": [
+        { "level": "A1", "fr": "Le magistrat travaille.", "pt": "O magistrado trabalha." },
+        { "level": "A2-B1", "fr": "Les magistrats gouvernaient Toulouse autrefois.", "pt": "Os magistrados governavam Toulouse antigamente." },
+        { "level": "B1-B2", "fr": "Les magistrats, qui se réunissaient au Capitole, prenaient les décisions de la cité.", "pt": "Os magistrados, que se reuniam no Capitólio, tomavam as decisões da cidade." },
+        { "level": "C1-C2", "fr": "L'institution des capitouls reflétait la puissance politique et économique de Toulouse au Moyen Âge.", "pt": "A instituição dos capitouls refletia o poder político e econômico de Toulouse na Idade Média." }
+      ]
+    },
+    {
+      "term": "étudier",
+      "definitionPt": "estudar",
+      "definitionFr": "Apprendre, examiner avec attention.",
+      "inflections": ["j'étudie", "nous étudions"],
+      "ptTargets": ["estudar", "estuda", "estudamos"],
+      "examples": [
+        { "level": "A1", "fr": "J'étudie le français.", "pt": "Eu estudo francês." },
+        { "level": "A2-B1", "fr": "Irlan avait étudié Toulouse à l'université.", "pt": "Irlan tinha estudado Toulouse na universidade." },
+        { "level": "B1-B2", "fr": "Nous avions étudié le canal du Midi avant de voyager.", "pt": "Nós tínhamos estudado o Canal do Midi antes de viajar." },
+        { "level": "C1-C2", "fr": "Étudier l'histoire urbaine, c'est comprendre comment une ville s'invente au fil des siècles.", "pt": "Estudar a história urbana é compreender como uma cidade se inventa ao longo dos séculos." }
+      ]
+    },
+    {
+      "term": "promettre",
+      "definitionPt": "prometer",
+      "definitionFr": "S'engager à faire quelque chose.",
+      "inflections": ["je promets", "nous promettons"],
+      "ptTargets": ["prometer", "prometeu", "prometido"],
+      "examples": [
+        { "level": "A1", "fr": "Je promets de venir.", "pt": "Eu prometo vir." },
+        { "level": "A2-B1", "fr": "Irlan avait promis de montrer les Salles des Illustres.", "pt": "Irlan tinha prometido mostrar as Salas dos Ilustres." },
+        { "level": "B1-B2", "fr": "Il avait promis, mais il avait oublié ses cartes à la maison.", "pt": "Ele tinha prometido, mas tinha esquecido seus mapas em casa." },
+        { "level": "C1-C2", "fr": "Promettre sans tenir, c'est perdre la confiance de ceux qui vous écoutent.", "pt": "Prometer sem cumprir é perder a confiança de quem o escuta." }
+      ]
+    },
+    {
+      "term": "la rive",
+      "definitionPt": "a margem",
+      "definitionFr": "Bord d'un cours d'eau.",
+      "inflections": ["la rive", "les rives"],
+      "ptTargets": ["margem"],
+      "examples": [
+        { "level": "A1", "fr": "La rive est verte.", "pt": "A margem é verde." },
+        { "level": "A2-B1", "fr": "Les platanes bordent les rives du canal.", "pt": "Os plátanos ladeiam as margens do canal." },
+        { "level": "B1-B2", "fr": "Les rives, plantées d'arbres, offrent une ombre agréable aux promeneurs.", "pt": "As margens, plantadas de árvores, oferecem sombra agradável aos caminhantes." },
+        { "level": "C1-C2", "fr": "Riquet fit planter des platanes sur les rives du canal pour stabiliser ses berges.", "pt": "Riquet mandou plantar plátanos nas margens do canal para estabilizar suas encostas." }
+      ]
+    },
+    {
+      "term": "le surnom",
+      "definitionPt": "o apelido",
+      "definitionFr": "Nom donné en plus du nom officiel.",
+      "inflections": ["le surnom", "les surnoms"],
+      "ptTargets": ["apelido"],
+      "examples": [
+        { "level": "A1", "fr": "Le surnom est amusant.", "pt": "O apelido é engraçado." },
+        { "level": "A2-B1", "fr": "« Ville Rose » est le surnom de Toulouse.", "pt": "« Cidade Rosa » é o apelido de Toulouse." },
+        { "level": "B1-B2", "fr": "Le surnom, qui vient des briques, est connu dans toute la France.", "pt": "O apelido, que vem dos tijolos, é conhecido em toda a França." },
+        { "level": "C1-C2", "fr": "Le surnom de Ville Rose est devenu un véritable marqueur identitaire et touristique.", "pt": "O apelido de Cidade Rosa tornou-se um verdadeiro marcador de identidade e turismo." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Le Plus-que-parfait : l'antériorité dans le passé",
+    "explanationPt": "O Plus-que-parfait expressa uma ação anterior a outra ação passada. Formação: auxiliar (avoir/être) no imparfait + particípio. 'J'avais déjà lu' (eu já tinha lido), 'nous avions étudié' (nós tínhamos estudado). É o passado do passado.",
+    "exampleFr": "Avant de venir à Toulouse, j'avais déjà lu que la ville est construite en briques roses.",
+    "examplePt": "Antes de vir a Toulouse, eu já tinha lido que a cidade é construída com tijolos rosados.",
+    "practiceQuestion": "Complete: « Avant le voyage, Andréa ___ réservé une promenade en péniche. »",
+    "options": ["avait", "a", "aura"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "L'auxiliaire avoir au plus-que-parfait",
+        "explanationPt": "A maioria dos verbos usa avoir: j'avais lu, tu avais vu, il avait étudié, nous avions réservé. O particípio concorda apenas com o COD anteposto.",
+        "exampleFr": "Nous avions réservé une promenade en péniche pour demain.",
+        "examplePt": "Nós tínhamos reservado um passeio de barco para amanhã.",
+        "practiceQuestion": "Complete: « Nous ___ étudié cette place à l'université. »",
+        "options": ["avions", "avons", "aurions"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "L'auxiliaire être avec les verbes de mouvement",
+        "explanationPt": "Verbos como aller, venir, arriver, partir usam être: j'étais arrivé, elle était partie. O particípio concorda com o sujeito.",
+        "exampleFr": "Elle était arrivée à la gare avant nous.",
+        "examplePt": "Ela tinha chegado à estação antes de nós.",
+        "practiceQuestion": "Complete: « Iris ___ arrivée à la gare la première. »",
+        "options": ["était", "avait", "a"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Por que Toulouse é chamada de Ville Rose?",
+      "options": ["por causa dos tijolos rosados", "por causa das flores", "por causa do pôr do sol"],
+      "correctIndex": 0,
+      "explanation": "As casas construídas em briques roses deram o apelido de Cidade Rosa a Toulouse."
+    },
+    {
+      "question": "Onde a família chega de TGV?",
+      "options": ["na gare Matabiau", "na gare du Nord", "em Lyon"],
+      "correctIndex": 0,
+      "explanation": "A família chega a Toulouse pela gare Matabiau, com o Canal do Midi logo atrás."
+    },
+    {
+      "question": "Quanto mede a place du Capitole?",
+      "options": ["128 metros", "50 metros", "300 metros"],
+      "correctIndex": 0,
+      "explanation": "A Praça do Capitólio tem 128 metros de comprimento."
+    },
+    {
+      "question": "Complete: « Avant de venir, j'___ déjà lu que la ville est rose. »",
+      "options": ["avais", "ai", "aurai"],
+      "correctIndex": 0,
+      "explanation": "Plus-que-parfait com avoir: j'avais déjà lu."
+    },
+    {
+      "question": "O que Irlan tinha estudado na universidade?",
+      "options": ["a place du Capitole", "a gare Matabiau", "o metrô VAL"],
+      "correctIndex": 0,
+      "explanation": "Irlan tinha estudado a Praça do Capitólio na faculdade de geografia."
+    }
+  ]
+}

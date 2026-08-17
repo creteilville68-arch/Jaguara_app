@@ -1,0 +1,252 @@
+{
+  "id": "lille_lesson_5",
+  "cityId": "lille",
+  "domain": "Gastronomia",
+  "level": "Básico (A2)",
+  "titleFr": "Le marché de Wazemmes : moules-frites et saveurs du Nord",
+  "titlePt": "O mercado de Wazemmes: moules-frites e sabores do Norte",
+  "subtitleFr": "Un marché coloré, des étals de poissons et le fromage maroilles",
+  "subtitlePt": "Um mercado colorido, barracas de peixe e o queijo maroilles",
+  "summaryPt": "Nesta Aula 5 (A2), a família vai ao mercado de Wazemmes, um dos mais animados de Lille. Eles se perdem entre os étals de legumes, peixes e flores, provam o maroilles e almoçam moules-frites. O aluno aprende o Passé Composé dos verbos reflexivos (je me suis promené, on s'est arrêtés) e o 'on' do francês falado.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Le dimanche matin, nous sommes allés au marché de Wazemmes. On s'est promenés entre les étals de légumes, de poissons et de fleurs.",
+      "pt": "No domingo de manhã, fomos ao mercado de Wazemmes. Passeamos entre as barracas de legumes, peixes e flores."
+    },
+    {
+      "id": 2,
+      "fr": "Les odeurs étaient fortes et joyeuses. Un marchand nous a fait goûter du maroilles, le fameux fromage du Nord. Íris a fait une drôle de tête !",
+      "pt": "Os cheiros eram fortes e alegres. Um comerciante nos fez provar o maroilles, o famoso queijo do Norte. Íris fez uma careta!"
+    },
+    {
+      "id": 3,
+      "fr": "Nous avons acheté des moules, des frites et du pain. Le cuisinier du marché a préparé notre plat : des moules-frites, délicieuses et généreuses.",
+      "pt": "Compramos mexilhões, batatas fritas e pão. O cozinheiro do mercado preparou nosso prato: moules-frites, deliciosas e generosas."
+    },
+    {
+      "id": 4,
+      "fr": "On s'est arrêtés à une table en plein air pour manger. Après le repas, nous avons acheté un bouquet de fleurs pour Andréa.",
+      "pt": "Paramos em uma mesa ao ar livre para comer. Depois da refeição, compramos um buquê de flores para Andréa."
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "l'étal",
+      "definitionPt": "a barraca (de mercado)",
+      "definitionFr": "Table ou stand où l'on expose des marchandises.",
+      "inflections": ["l'étal", "les étals"],
+      "ptTargets": ["barraca"],
+      "examples": [
+        { "level": "A1", "fr": "L'étal est plein de fruits.", "pt": "A barraca está cheia de frutas." },
+        { "level": "A2-B1", "fr": "Les étals du marché de Wazemmes sont très colorés.", "pt": "As barracas do mercado de Wazemmes são muito coloridas." },
+        { "level": "B2", "fr": "Chaque étal du marché propose des produits frais de la région.", "pt": "Cada barraca do mercado oferece produtos frescos da região." },
+        { "level": "C1-C2", "fr": "L'organisation des étals reflète la diversité culturelle du quartier.", "pt": "A organização das barracas reflete a diversidade cultural do bairro." }
+      ]
+    },
+    {
+      "term": "les moules",
+      "definitionPt": "os mexilhões",
+      "definitionFr": "Coquillages très appréciés dans le Nord.",
+      "inflections": ["la moule", "les moules"],
+      "ptTargets": ["mexilhões"],
+      "examples": [
+        { "level": "A1", "fr": "J'aime les moules.", "pt": "Eu gosto de mexilhões." },
+        { "level": "A2-B1", "fr": "Nous avons mangé des moules-frites au marché.", "pt": "Nós comemos moules-frites no mercado." },
+        { "level": "B2", "fr": "Les moules-frites sont le plat emblématique de la Braderie de Lille.", "pt": "As moules-frites são o prato emblemático da Braderie de Lille." },
+        { "level": "C1-C2", "fr": "La saison des moules, de juillet à février, rythme la gastronomie du littoral nordiste.", "pt": "A temporada dos mexilhões, de julho a fevereiro, marca o ritmo da gastronomia do litoral norte." }
+      ]
+    },
+    {
+      "term": "les frites",
+      "definitionPt": "as batatas fritas",
+      "definitionFr": "Pommes de terre coupées et frites dans l'huile.",
+      "inflections": ["la frite", "les frites"],
+      "ptTargets": ["batatas fritas"],
+      "examples": [
+        { "level": "A1", "fr": "Les frites sont chaudes.", "pt": "As batatas fritas estão quentes." },
+        { "level": "A2-B1", "fr": "On a commandé des frites avec les moules.", "pt": "Pedimos batatas fritas com os mexilhões." },
+        { "level": "B2", "fr": "Dans le Nord, les frites se dégustent avec de la sauce dans un cornet.", "pt": "No Norte, as batatas fritas são degustadas com molho em um cone." },
+        { "level": "C1-C2", "fr": "La frite du Nord, croustillante à l'extérieur et moelleuse à l'intérieur, est un art culinaire.", "pt": "A batata frita do Norte, crocante por fora e macia por dentro, é uma arte culinária." }
+      ]
+    },
+    {
+      "term": "le poisson",
+      "definitionPt": "o peixe",
+      "definitionFr": "Animal aquatique que l'on mange.",
+      "inflections": ["le poisson", "les poissons"],
+      "ptTargets": ["peixe"],
+      "examples": [
+        { "level": "A1", "fr": "Le poisson est frais.", "pt": "O peixe está fresco." },
+        { "level": "A2-B1", "fr": "Le marchand de poissons criait le prix des produits.", "pt": "O vendedor de peixes gritava o preço dos produtos." },
+        { "level": "B2", "fr": "Les étals de poissons attirent les gourmets du quartier.", "pt": "As barracas de peixe atraem os gourmets do bairro." },
+        { "level": "C1-C2", "fr": "La criée et les marchés de poissons rythment la vie des villes côtières du Nord.", "pt": "Os leilões e os mercados de peixe marcam a vida das cidades costeiras do Norte." }
+      ]
+    },
+    {
+      "term": "les légumes",
+      "definitionPt": "os legumes",
+      "definitionFr": "Plantes que l'on mange, comme les carottes ou les tomates.",
+      "inflections": ["le légume", "les légumes"],
+      "ptTargets": ["legumes"],
+      "examples": [
+        { "level": "A1", "fr": "Les légumes sont bons.", "pt": "Os legumes são bons." },
+        { "level": "A2-B1", "fr": "Nous avons acheté des légumes frais au marché.", "pt": "Nós compramos legumes frescos no mercado." },
+        { "level": "B2", "fr": "Les légumes de saison sont toujours meilleurs et moins chers.", "pt": "Os legumes da estação são sempre melhores e mais baratos." },
+        { "level": "C1-C2", "fr": "La consommation de légumes locaux soutient les producteurs de la région.", "pt": "O consumo de legumes locais apoia os produtores da região." }
+      ]
+    },
+    {
+      "term": "sentir",
+      "definitionPt": "sentir (cheiro, odor)",
+      "definitionFr": "Percevoir une odeur.",
+      "inflections": ["je sens", "nous sentons", "senti"],
+      "ptTargets": ["sentir"],
+      "examples": [
+        { "level": "A1", "fr": "Je sens le parfum des fleurs.", "pt": "Eu sinto o perfume das flores." },
+        { "level": "A2-B1", "fr": "On sentait les odeurs du marché de loin.", "pt": "Dava para sentir os cheiros do mercado de longe." },
+        { "level": "B2", "fr": "Dans le marché, on sent le mélange des épices et des poissons.", "pt": "No mercado, sente-se a mistura de especiarias e peixes." },
+        { "level": "C1-C2", "fr": "Sentir les arômes d'un marché populaire éveille immédiatement la mémoire sensorielle.", "pt": "Sentir os aromas de um mercado popular desperta imediatamente a memória sensorial." }
+      ]
+    },
+    {
+      "term": "préparer",
+      "definitionPt": "preparar",
+      "definitionFr": "Mettre en état, cuisiner.",
+      "inflections": ["je prépare", "nous préparons", "préparé"],
+      "ptTargets": ["preparar"],
+      "examples": [
+        { "level": "A1", "fr": "Je prépare le dîner.", "pt": "Eu preparo o jantar." },
+        { "level": "A2-B1", "fr": "Le cuisinier a préparé notre plat très vite.", "pt": "O cozinheiro preparou nosso prato muito rápido." },
+        { "level": "B2", "fr": "Nous avons préparé un pique-nique avec les produits du marché.", "pt": "Nós preparamos um piquenique com os produtos do mercado." },
+        { "level": "C1-C2", "fr": "Préparer un plat traditionnel demande du temps et des ingrédients de qualité.", "pt": "Preparar um prato tradicional exige tempo e ingredientes de qualidade." }
+      ]
+    },
+    {
+      "term": "déguster",
+      "definitionPt": "degustar, saborear",
+      "definitionFr": "Manger ou boire avec plaisir.",
+      "inflections": ["je déguste", "nous dégustons", "dégusté"],
+      "ptTargets": ["degustar"],
+      "examples": [
+        { "level": "A1", "fr": "Je déguste un gâteau.", "pt": "Eu degusto um bolo." },
+        { "level": "A2-B1", "fr": "Nous avons dégusté les moules-frites en plein air.", "pt": "Nós degustamos as moules-frites ao ar livre." },
+        { "level": "B2", "fr": "On déguste le maroilles avec du pain et un peu de beurre.", "pt": "Degusta-se o maroilles com pão e um pouco de manteiga." },
+        { "level": "C1-C2", "fr": "Déguster un fromage affiné, c'est apprécier le travail patient du fromager.", "pt": "Degustar um queijo curado é apreciar o trabalho paciente do queijeiro." }
+      ]
+    },
+    {
+      "term": "le cuisinier",
+      "definitionPt": "o cozinheiro",
+      "definitionFr": "Personne qui prépare les plats.",
+      "inflections": ["le cuisinier", "la cuisinière", "les cuisiniers"],
+      "ptTargets": ["cozinheiro"],
+      "examples": [
+        { "level": "A1", "fr": "Le cuisinier est rapide.", "pt": "O cozinheiro é rápido." },
+        { "level": "A2-B1", "fr": "Le cuisinier du marché a préparé notre plat.", "pt": "O cozinheiro do mercado preparou nosso prato." },
+        { "level": "B2", "fr": "Le cuisinier connaît parfaitement les produits de sa région.", "pt": "O cozinheiro conhece perfeitamente os produtos de sua região." },
+        { "level": "C1-C2", "fr": "Un bon cuisinier transforme des ingrédients simples en un véritable festin.", "pt": "Um bom cozinheiro transforma ingredientes simples em um verdadeiro banquete." }
+      ]
+    },
+    {
+      "term": "la recette",
+      "definitionPt": "a receita",
+      "definitionFr": "Manière de préparer un plat.",
+      "inflections": ["la recette", "les recettes"],
+      "ptTargets": ["receita"],
+      "examples": [
+        { "level": "A1", "fr": "La recette est facile.", "pt": "A receita é fácil." },
+        { "level": "A2-B1", "fr": "Andréa a noté la recette des moules-frites.", "pt": "Andréa anotou a receita das moules-frites." },
+        { "level": "B2", "fr": "Chaque famille du Nord garde sa propre recette de carbonnade.", "pt": "Cada família do Norte guarda sua própria receita de carbonnade." },
+        { "level": "C1-C2", "fr": "La transmission des recettes régionales perpétue l'identité gastronomique d'un terroir.", "pt": "A transmissão das receitas regionais perpetua a identidade gastronômica de um terroir." }
+      ]
+    },
+    {
+      "term": "savoureux",
+      "definitionPt": "saboroso",
+      "definitionFr": "Qui a beaucoup de goût.",
+      "inflections": ["savoureux", "savoureuse", "savoureux"],
+      "ptTargets": ["saboroso"],
+      "examples": [
+        { "level": "A1", "fr": "Le plat est savoureux.", "pt": "O prato é saboroso." },
+        { "level": "A2-B1", "fr": "Les moules-frites étaient vraiment savoureuses.", "pt": "As moules-frites estavam realmente saborosas." },
+        { "level": "B2", "fr": "Ce fromage savoureux se marie parfaitement avec la bière locale.", "pt": "Este queijo saboroso combina perfeitamente com a cerveja local." },
+        { "level": "C1-C2", "fr": "Un plat savoureux révèle l'équilibre subtil entre les ingrédients et l'assaisonnement.", "pt": "Um prato saboroso revela o equilíbrio sutil entre os ingredientes e o tempero." }
+      ]
+    },
+    {
+      "term": "la spécialité",
+      "definitionPt": "a especialidade",
+      "definitionFr": "Plat ou produit typique d'une région.",
+      "inflections": ["la spécialité", "les spécialités"],
+      "ptTargets": ["especialidade"],
+      "examples": [
+        { "level": "A1", "fr": "La spécialité est bonne.", "pt": "A especialidade é boa." },
+        { "level": "A2-B1", "fr": "Les moules-frites sont une spécialité du Nord.", "pt": "As moules-frites são uma especialidade do Norte." },
+        { "level": "B2", "fr": "Ce restaurant propose toutes les spécialités lilloises.", "pt": "Este restaurante oferece todas as especialidades de Lille." },
+        { "level": "C1-C2", "fr": "Les spécialités régionales constituent un patrimoine culinaire protégé et valorisé.", "pt": "As especialidades regionais constituem um patrimônio culinário protegido e valorizado." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Le Passé Composé des verbes pronominaux (je me suis promené)",
+    "explanationPt": "Os verbos reflexivos (se promener, s'arrêter, se perdre) usam être e o pronome reflexivo: 'je me suis promené', 'on s'est arrêtés'. O particípio concorda com o sujeito.",
+    "exampleFr": "On s'est promenés entre les étals du marché.",
+    "examplePt": "Nós passeamos entre as barracas do mercado.",
+    "practiceQuestion": "Complete: « Je me ___ promené au marché. »",
+    "options": ["suis", "ai", "es"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "Les verbes pronominaux au passé composé",
+        "explanationPt": "Estrutura: pronome reflexivo (me, te, se, nous, vous, se) + être + particípio. Ex.: 'nous nous sommes arrêtés', 'elle s'est promenée'.",
+        "exampleFr": "Nous nous sommes arrêtés à une table.",
+        "examplePt": "Nós paramos em uma mesa.",
+        "practiceQuestion": "Qual frase está correta?",
+        "options": ["Elle s'est promenée au marché.", "Elle a se promenée au marché.", "Elle s'est promené au marché."],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "Le 'on' du français parlé",
+        "explanationPt": "No francês falado, 'on' substitui 'nous': 'On s'est arrêtés' = 'nós paramos'. O verbo fica na 3ª pessoa do singular, mas o particípio pode concordar com o sentido.",
+        "exampleFr": "On a acheté des moules et des frites.",
+        "examplePt": "Nós compramos mexilhões e batatas fritas.",
+        "practiceQuestion": "O que significa 'on a mangé' no francês falado?",
+        "options": ["nós comemos", "ele comeu", "eu comerei"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Onde a família foi no domingo de manhã?",
+      "options": ["au marché de Wazemmes", "à la cathédrale", "à la plage"],
+      "correctIndex": 0,
+      "explanation": "Eles foram ao mercado de Wazemmes, muito animado aos domingos."
+    },
+    {
+      "question": "Que queijo o marchand fez a família provar?",
+      "options": ["le maroilles", "le camembert", "la mozzarella"],
+      "correctIndex": 0,
+      "explanation": "O maroilles é o famoso queijo forte do Norte."
+    },
+    {
+      "question": "Complete com o reflexivo: « On ___ arrêtés à une table. »",
+      "options": ["s'est", "a se", "est se"],
+      "correctIndex": 0,
+      "explanation": "Verbo pronominal: on s'est arrêtés."
+    },
+    {
+      "question": "O que a família comprou para Andréa no final?",
+      "options": ["un bouquet de fleurs", "un chapeau", "du fromage"],
+      "correctIndex": 0,
+      "explanation": "Compraram um buquê de flores para Andréa."
+    },
+    {
+      "question": "Qual é o prato tradicional citado na aula?",
+      "options": ["les moules-frites", "le couscous", "les crêpes"],
+      "correctIndex": 0,
+      "explanation": "As moules-frites são o prato tradicional da região."
+    }
+  ]
+}

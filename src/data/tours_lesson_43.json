@@ -1,0 +1,237 @@
+{
+  "id": "tours_lesson_43",
+  "cityId": "tours",
+  "domain": "Cidade e arquitetura",
+  "level": "Intermediário (B1)",
+  "titleFr": "La place Plumereau : le cœur du Vieux Tours",
+  "titlePt": "A place Plumereau: o coração do Vieux Tours",
+  "subtitleFr": "Les maisons à colombages qui penchent depuis cinq siècles",
+  "subtitlePt": "As casas de enxaimel que se inclinam há cinco séculos",
+  "summaryPt": "Nesta Aula 43 (B1), a família descobre a place Plumereau, a praça medieval mais famosa de Tours, com suas casas de enxaimel do século XV e seus cafés. O aluno pratica o vocabulário da cidade (la place, la maison à colombages, la terrasse) e os pronomes relativos qui/que/où.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "« Ici, c'est la place Plumereau », a dit Andréa. « Les Toursiens l'appellent la place Plum. Regarde ces maisons qui penchent : elles ont cinq cents ans. »",
+      "pt": "« Aqui é a place Plumereau », disse Andréa. « Os turoneses a chamam de place Plum. Olhe essas casas que se inclinam: elas têm quinhentos anos. »"
+    },
+    {
+      "id": 2,
+      "fr": "Les maisons à colombages sont en bois et en pierre. « Chaque étage avance un peu », a expliqué Irlan, le géographe. « C'est une astuce qui donne plus de place en haut. » Iris a compté les étages qui penchent : « Il y en a quatre ! »",
+      "pt": "As casas de enxaimel são de madeira e pedra. « Cada andar avança um pouco », explicou Irlan, o geógrafo. « É um truque que dá mais espaço em cima. » Íris contou os andares que se inclinam: « São quatro! »"
+    },
+    {
+      "id": 3,
+      "fr": "La famille s'est assise à la terrasse d'un café. « Ici, on se retrouve entre amis », a dit Andréa. « C'est la place où toute la ville se donne rendez-vous. » Un serveur a apporté des citronnades et des gâteaux.",
+      "pt": "A família sentou-se no terraço de um café. « Aqui, as pessoas se encontram entre amigos », disse Andréa. « É a praça onde a cidade inteira marca encontro. » Um garçom trouxe limonadas e bolos."
+    },
+    {
+      "id": 4,
+      "fr": "« Regarde les sculptures sur les maisons », a dit Irlan. « Les visages que tu vois racontent des histoires de marchands et de vignerons. » Iris a cherché une grenouille cachée dans la pierre : « La voilà ! Celle que papa cherchait ! »",
+      "pt": "« Olhe as esculturas nas casas », disse Irlan. « Os rostos que você vê contam histórias de comerciantes e vinicultores. » Íris procurou um sapo escondido na pedra: « Está ali! Aquele que o papai procurava! »"
+    },
+    {
+      "id": 5,
+      "fr": "Le soir, des musiciens ont joué de la guitare. « Quand j'étais livreur, je passais ici avec ma scooter », a souri Irlan. « Je n'avais jamais le temps de m'arrêter. Aujourd'hui, je comprends pourquoi tout le monde reste. »",
+      "pt": "À noite, músicos tocaram violão. « Quando eu era entregador, eu passava aqui de scooter », sorriu Irlan. « Nunca tinha tempo de parar. Hoje, entendo por que todo mundo fica. »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "la place",
+      "definitionPt": "a praça",
+      "definitionFr": "Espace public dans une ville.",
+      "inflections": ["la place", "une place", "des places"],
+      "ptTargets": ["praça"],
+      "examples": [
+        { "level": "A1", "fr": "La place est grande.", "pt": "A praça é grande." },
+        { "level": "A2-B1", "fr": "La place Plumereau est célèbre à Tours.", "pt": "A place Plumereau é famosa em Tours." },
+        { "level": "B1", "fr": "La place où l'on se retrouve est pleine de cafés.", "pt": "A praça onde as pessoas se encontram está cheia de cafés." },
+        { "level": "C1-C2", "fr": "La place, salle de séjour de la ville, garde la mémoire des siècles.", "pt": "A praça, sala de estar da cidade, guarda a memória dos séculos." }
+      ]
+    },
+    {
+      "term": "la maison à colombages",
+      "definitionPt": "a casa de enxaimel",
+      "definitionFr": "Maison ancienne en bois et en pierre.",
+      "inflections": ["la maison à colombages", "une maison à colombages", "des maisons à colombages"],
+      "ptTargets": ["casa de enxaimel", "enxaimel"],
+      "examples": [
+        { "level": "A1", "fr": "La maison à colombages est vieille.", "pt": "A casa de enxaimel é velha." },
+        { "level": "A2-B1", "fr": "Les maisons à colombages penchent un peu.", "pt": "As casas de enxaimel se inclinam um pouco." },
+        { "level": "B1", "fr": "Les maisons à colombages que l'on voit ici datent du XVe siècle.", "pt": "As casas de enxaimel que se veem aqui datam do século XV." },
+        { "level": "C1-C2", "fr": "La maison à colombages, squelette de bois et chair de pierre, danse avec le temps.", "pt": "A casa de enxaimel, esqueleto de madeira e carne de pedra, dança com o tempo." }
+      ]
+    },
+    {
+      "term": "la terrasse",
+      "definitionPt": "o terraço",
+      "definitionFr": "Espace de café en plein air.",
+      "inflections": ["la terrasse", "une terrasse", "des terrasses"],
+      "ptTargets": ["terraço"],
+      "examples": [
+        { "level": "A1", "fr": "La terrasse est pleine.", "pt": "O terraço está cheio." },
+        { "level": "A2-B1", "fr": "On s'assoit à la terrasse du café.", "pt": "Sentamo-nos no terraço do café." },
+        { "level": "B1", "fr": "La terrasse où nous sommes assis donne sur la place.", "pt": "O terraço onde estamos sentados dá para a praça." },
+        { "level": "C1-C2", "fr": "La terrasse, scène ouverte, offre le spectacle de la ville à qui sait regarder.", "pt": "O terraço, palco aberto, oferece o espetáculo da cidade a quem sabe olhar." }
+      ]
+    },
+    {
+      "term": "se retrouver",
+      "definitionPt": "encontrar-se",
+      "definitionFr": "Se rencontrer au même endroit.",
+      "inflections": ["je me retrouve", "tu te retrouves", "il se retrouve", "nous nous retrouvons"],
+      "ptTargets": ["encontrar-se", "se encontrar"],
+      "examples": [
+        { "level": "A1", "fr": "Nous nous retrouvons ici.", "pt": "Nós nos encontramos aqui." },
+        { "level": "A2-B1", "fr": "Les amis se retrouvent sur la place.", "pt": "Os amigos se encontram na praça." },
+        { "level": "B1", "fr": "C'est l'endroit où l'on se retrouve le samedi.", "pt": "É o lugar onde as pessoas se encontram aos sábados." },
+        { "level": "C1-C2", "fr": "Se retrouver, c'est réinventer ensemble un lieu que chacun porte en soi.", "pt": "Encontrar-se é reinventar juntos um lugar que cada um carrega em si." }
+      ]
+    },
+    {
+      "term": "le quartier",
+      "definitionPt": "o bairro",
+      "definitionFr": "Partie d'une ville.",
+      "inflections": ["le quartier", "un quartier", "des quartiers"],
+      "ptTargets": ["bairro"],
+      "examples": [
+        { "level": "A1", "fr": "Le quartier est calme.", "pt": "O bairro é calmo." },
+        { "level": "A2-B1", "fr": "Le Vieux Tours est un quartier célèbre.", "pt": "O Vieux Tours é um bairro famoso." },
+        { "level": "B1", "fr": "Le quartier où nous habitons est près de la place.", "pt": "O bairro onde moramos fica perto da praça." },
+        { "level": "C1-C2", "fr": "Le quartier, petit monde, a son accent, ses habitudes et ses légendes.", "pt": "O bairro, pequeno mundo, tem seu sotaque, seus costumes e suas lendas." }
+      ]
+    },
+    {
+      "term": "la pierre",
+      "definitionPt": "a pedra",
+      "definitionFr": "Matière dure utilisée pour construire.",
+      "inflections": ["la pierre", "une pierre", "des pierres"],
+      "ptTargets": ["pedra"],
+      "examples": [
+        { "level": "A1", "fr": "La pierre est dure.", "pt": "A pedra é dura." },
+        { "level": "A2-B1", "fr": "Les maisons sont en pierre et en bois.", "pt": "As casas são de pedra e madeira." },
+        { "level": "B1", "fr": "Les pierres que l'on voit ont été taillées il y a cinq siècles.", "pt": "As pedras que se veem foram talhadas há cinco séculos." },
+        { "level": "C1-C2", "fr": "La pierre, mémoire muette, raconte les mains qui l'ont façonnée.", "pt": "A pedra, memória muda, conta as mãos que a modelaram." }
+      ]
+    },
+    {
+      "term": "le bois",
+      "definitionPt": "a madeira",
+      "definitionFr": "Matière des arbres.",
+      "inflections": ["le bois", "un bois", "des bois"],
+      "ptTargets": ["madeira"],
+      "examples": [
+        { "level": "A1", "fr": "Le bois est brun.", "pt": "A madeira é marrom." },
+        { "level": "A2-B1", "fr": "Les colombages sont en bois.", "pt": "Os enxaiméis são de madeira." },
+        { "level": "B1", "fr": "Le bois qui soutient ces maisons vient de la forêt de Touraine.", "pt": "A madeira que sustenta essas casas vem da floresta da Touraine." },
+        { "level": "C1-C2", "fr": "Le bois, matière vivante, respire encore sous les toits anciens.", "pt": "A madeira, matéria viva, ainda respira sob os telhados antigos." }
+      ]
+    },
+    {
+      "term": "l'étage",
+      "definitionPt": "o andar",
+      "definitionFr": "Niveau d'une maison.",
+      "inflections": ["l'étage", "un étage", "des étages"],
+      "ptTargets": ["andar"],
+      "examples": [
+        { "level": "A1", "fr": "La maison a quatre étages.", "pt": "A casa tem quatro andares." },
+        { "level": "A2-B1", "fr": "Chaque étage avance un peu sur la place.", "pt": "Cada andar avança um pouco sobre a praça." },
+        { "level": "B1", "fr": "L'étage où nous montons est en bois.", "pt": "O andar aonde subimos é de madeira." },
+        { "level": "C1-C2", "fr": "L'étage, promesse de hauteur, défie la gravité depuis cinq cents ans.", "pt": "O andar, promessa de altura, desafia a gravidade há quinhentos anos." }
+      ]
+    },
+    {
+      "term": "le restaurant",
+      "definitionPt": "o restaurante",
+      "definitionFr": "Lieu où l'on mange.",
+      "inflections": ["le restaurant", "un restaurant", "des restaurants"],
+      "ptTargets": ["restaurante"],
+      "examples": [
+        { "level": "A1", "fr": "Le restaurant est ouvert.", "pt": "O restaurante está aberto." },
+        { "level": "A2-B1", "fr": "Les restaurants de la place sont célèbres.", "pt": "Os restaurantes da praça são famosos." },
+        { "level": "B1", "fr": "Le restaurant où nous avons dîné fait des rillettes.", "pt": "O restaurante onde jantamos faz rillettes." },
+        { "level": "C1-C2", "fr": "Le restaurant, scène du goût, transforme la cuisine en fête.", "pt": "O restaurante, cena do gosto, transforma a cozinha em festa." }
+      ]
+    },
+    {
+      "term": "l'ambiance",
+      "definitionPt": "o ambiente, o clima",
+      "definitionFr": "Atmosphère d'un lieu.",
+      "inflections": ["l'ambiance", "une ambiance", "des ambiances"],
+      "ptTargets": ["ambiente", "clima"],
+      "examples": [
+        { "level": "A1", "fr": "L'ambiance est bonne.", "pt": "O ambiente é bom." },
+        { "level": "A2-B1", "fr": "L'ambiance de la place est chaleureuse.", "pt": "O ambiente da praça é acolhedor." },
+        { "level": "B1", "fr": "L'ambiance que l'on ressent ici est unique.", "pt": "O ambiente que se sente aqui é único." },
+        { "level": "C1-C2", "fr": "L'ambiance, musique invisible, se compose de rires, de voix et de lumière.", "pt": "O ambiente, música invisível, compõe-se de risos, vozes e luz." }
+      ]
+    },
+    {
+      "term": "se promener",
+      "definitionPt": "passear",
+      "definitionFr": "Marcher pour le plaisir.",
+      "inflections": ["je me promène", "tu te promènes", "il se promène", "nous nous promenons"],
+      "ptTargets": ["passear"],
+      "examples": [
+        { "level": "A1", "fr": "Je me promène dans la rue.", "pt": "Eu passeio na rua." },
+        { "level": "A2-B1", "fr": "On se promène sur la place le soir.", "pt": "As pessoas passeiam na praça à noite." },
+        { "level": "B1", "fr": "La place où l'on se promène est pleine de vie.", "pt": "A praça onde se passeia está cheia de vida." },
+        { "level": "C1-C2", "fr": "Se promener, c'est lire la ville sans se presser.", "pt": "Passear é ler a cidade sem pressa." }
+      ]
+    },
+    {
+      "term": "la sculpture",
+      "definitionPt": "a escultura",
+      "definitionFr": "Œuvre taillée dans la pierre ou le bois.",
+      "inflections": ["la sculpture", "une sculpture", "des sculptures"],
+      "ptTargets": ["escultura"],
+      "examples": [
+        { "level": "A1", "fr": "La sculpture est petite.", "pt": "A escultura é pequena." },
+        { "level": "A2-B1", "fr": "Les sculptures racontent des histoires.", "pt": "As esculturas contam histórias." },
+        { "level": "B1", "fr": "Les visages que l'on voit sur les maisons sont des sculptures.", "pt": "Os rostos que se veem nas casas são esculturas." },
+        { "level": "C1-C2", "fr": "La sculpture, parole de pierre, fige un geste pour l'éternité.", "pt": "A escultura, palavra de pedra, congela um gesto para a eternidade." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "titleFr": "Les pronoms relatifs qui, que et où",
+    "titlePt": "Os pronomes relativos qui, que e où",
+    "points": [
+      {
+        "fr": "« Qui » remplace le sujet : « les maisons qui penchent » (que pencham). « Que » remplace l'objet : « les visages que tu vois » (que você vê).",
+        "pt": "« Qui » substitui o sujeito: « les maisons qui penchent » (as casas que se inclinam). « Que » substitui o objeto: « les visages que tu vois » (os rostos que você vê)."
+      },
+      {
+        "fr": "« Où » indique le lieu ou le moment : « la place où l'on se retrouve », « le jour où nous sommes arrivés ».",
+        "pt": "« Où » indica o lugar ou o momento: « la place où l'on se retrouve » (a praça onde as pessoas se encontram), « le jour où nous sommes arrivés » (o dia em que chegamos)."
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Como os turoneses chamam a place Plumereau ?",
+      "options": ["La place Plum", "La Grand-Place", "La place Rouge", "Le marché central"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Quantos anos têm as casas da place Plumereau ?",
+      "options": ["Cinquenta anos", "Cem anos", "Quinhentos anos", "Mil anos"],
+      "correctIndex": 2
+    },
+    {
+      "question": "De que materiais são feitas as casas à colombages ?",
+      "options": ["De madeira e pedra", "De vidro e metal", "De papel e cartão", "De tijolos azuis"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Por que cada andar avança um pouco ?",
+      "options": ["Para dar mais espaço em cima", "Para dar mais sol", "Para escapar da chuva", "Para os pássaros"],
+      "correctIndex": 0
+    },
+    {
+      "question": "O que Irlan fazia quando passava pela place Plum ?",
+      "options": ["Entregava comida de scooter", "Tocava violão", "Vendia flores", "Consertava bicicletas"],
+      "correctIndex": 0
+    }
+  ]
+}

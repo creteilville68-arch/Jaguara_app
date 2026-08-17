@@ -1,0 +1,252 @@
+{
+  "id": "paris_lesson_33",
+  "cityId": "paris",
+  "domain": "Gastronomia & Lazer",
+  "level": "Iniciante (A1)",
+  "titleFr": "Le restaurant en famille",
+  "titlePt": "O restaurante em família",
+  "subtitleFr": "Commander, servir, payer l'addition",
+  "subtitlePt": "Pedir, servir, pagar a conta",
+  "summaryPt": "Nesta Aula 33 (A1), a família janta num pequeno restaurant perto de casa. O aluno aprende o vocabulário do restaurante (table, menu, commander, servir, addition, pourboire) e a expressão de polidez 'je voudrais'.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Ce soir, la famille dîne au restaurant. « Une table pour trois, s'il vous plaît », dit Irlan au serveur. Ils s'assoient près de la fenêtre. Le serveur apporte les menus : « Voici la carte. Je reviens pour la commande. »",
+      "pt": "Esta noite, a família janta no restaurante. « Uma mesa para três, por favor », diz Irlan ao garçom. Eles sentam perto da janela. O garçom traz os menus: « Aqui está o cardápio. Volto para o pedido. »"
+    },
+    {
+      "id": 2,
+      "fr": "Iris lit le menu : « Je voudrais des pâtes, s'il vous plaît », dit-elle poliment. Andréa choisit une salade et un verre de jus d'orange. Irlan commande un steak-frites. « Et une carafe d'eau, s'il vous plaît », ajoute-t-il.",
+      "pt": "Íris lê o menu: « Eu gostaria de macarrão, por favor », diz ela educadamente. Andréa escolhe uma salada e um copo de suco de laranja. Irlan pede um bife com fritas. « E uma jarra de água, por favor », acrescenta ele."
+    },
+    {
+      "id": 3,
+      "fr": "Le serveur apporte les assiettes : des pâtes, une salade et un steak-frites. « Mmm, c'est délicieux ! » dit Iris. « Goûte mon assiette, maman ! » Ils mangent, parlent et rient ensemble. La soirée est douce.",
+      "pt": "O garçom traz os pratos: macarrão, uma salada e um bife com fritas. « Mmm, está delicioso! » diz Íris. « Prova meu prato, mamãe! » Eles comem, conversam e riem juntos. A noite está tranquila."
+    },
+    {
+      "id": 4,
+      "fr": "À la fin, Irlan demande l'addition. « C'est pour moi, dit-il. On a bien mangé ! » Il laisse un petit pourboire sur la table. « Merci, bonsoir ! » dit le serveur. Iris prend la main de ses parents : « J'adore les restaurants ! »",
+      "pt": "No fim, Irlan pede a conta. « É por minha conta, diz ele. Comemos bem! » Ele deixa uma pequena gorjeta na mesa. « Obrigado, boa noite! » diz o garçom. Íris pega a mão dos pais: « Adoro restaurantes! »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "le restaurant",
+      "definitionPt": "o restaurante",
+      "definitionFr": "Lieu où l'on mange.",
+      "inflections": ["le restaurant", "un restaurant", "des restaurants"],
+      "ptTargets": ["restaurante"],
+      "examples": [
+        { "level": "A1", "fr": "Le restaurant est près de la maison.", "pt": "O restaurante fica perto de casa." },
+        { "level": "A2-B1", "fr": "La famille dîne au restaurant ce soir.", "pt": "A família janta no restaurante esta noite." },
+        { "level": "B2", "fr": "Les petits restaurants de quartier sont les plus charmants.", "pt": "Os pequenos restaurantes de bairro são os mais charmosos." },
+        { "level": "C1-C2", "fr": "C'est le restaurant qui, tenu avec passion, devient une maison pour ses clients.", "pt": "É o restaurante que, tocado com paixão, vira uma casa para seus clientes." }
+      ]
+    },
+    {
+      "term": "la table",
+      "definitionPt": "a mesa",
+      "definitionFr": "Meuble où l'on mange.",
+      "inflections": ["la table", "une table", "des tables"],
+      "ptTargets": ["mesa"],
+      "examples": [
+        { "level": "A1", "fr": "La table est près de la fenêtre.", "pt": "A mesa fica perto da janela." },
+        { "level": "A2-B1", "fr": "Le serveur montre une table libre.", "pt": "O garçom mostra uma mesa livre." },
+        { "level": "B2", "fr": "Une table près de la fenêtre offre une belle vue.", "pt": "Uma mesa perto da janela oferece uma bela vista." },
+        { "level": "C1-C2", "fr": "C'est autour de la table que se partagent les meilleurs moments.", "pt": "É em volta da mesa que se partilham os melhores momentos." }
+      ]
+    },
+    {
+      "term": "le menu",
+      "definitionPt": "o cardápio (menu)",
+      "definitionFr": "Liste des plats.",
+      "inflections": ["le menu", "un menu", "des menus"],
+      "ptTargets": ["cardápio", "menu"],
+      "examples": [
+        { "level": "A1", "fr": "Le menu est sur la table.", "pt": "O cardápio está na mesa." },
+        { "level": "A2-B1", "fr": "Iris lit le menu avec attention.", "pt": "Íris lê o cardápio com atenção." },
+        { "level": "B2", "fr": "Le menu du jour propose des plats simples et frais.", "pt": "O menu do dia oferece pratos simples e frescos." },
+        { "level": "C1-C2", "fr": "C'est le menu qui, bien écrit, donne envie de goûter.", "pt": "É o cardápio que, bem escrito, dá vontade de provar." }
+      ]
+    },
+    {
+      "term": "commander",
+      "definitionPt": "pedir",
+      "definitionFr": "Demander un plat au restaurant.",
+      "inflections": ["commander", "je commande", "nous commandons"],
+      "ptTargets": ["pedir", "encomendar"],
+      "examples": [
+        { "level": "A1", "fr": "Je commande des pâtes.", "pt": "Eu peço macarrão." },
+        { "level": "A2-B1", "fr": "Irlan commande un steak-frites.", "pt": "Irlan pede um bife com fritas." },
+        { "level": "B2", "fr": "Il commande un plat chaud et une boisson.", "pt": "Ele pede um prato quente e uma bebida." },
+        { "level": "C1-C2", "fr": "C'est en commandant que l'on affirme ses goûts.", "pt": "É pedindo que se afirmam os próprios gostos." }
+      ]
+    },
+    {
+      "term": "servir",
+      "definitionPt": "servir",
+      "definitionFr": "Apporter les plats.",
+      "inflections": ["servir", "je sers", "nous servons"],
+      "ptTargets": ["servir"],
+      "examples": [
+        { "level": "A1", "fr": "Le serveur sert les plats.", "pt": "O garçom serve os pratos." },
+        { "level": "A2-B1", "fr": "On nous sert rapidement.", "pt": "Servem-nos rapidamente." },
+        { "level": "B2", "fr": "Le restaurant sert des plats faits maison.", "pt": "O restaurante serve pratos caseiros." },
+        { "level": "C1-C2", "fr": "C'est en servant que l'on offre, au-delà du plat, un moment.", "pt": "É servindo que se oferece, além do prato, um momento." }
+      ]
+    },
+    {
+      "term": "le serveur",
+      "definitionPt": "o garçom",
+      "definitionFr": "Personne qui sert au restaurant.",
+      "inflections": ["le serveur", "un serveur", "des serveurs"],
+      "ptTargets": ["garçom", "servidor"],
+      "examples": [
+        { "level": "A1", "fr": "Le serveur est aimable.", "pt": "O garçom é amável." },
+        { "level": "A2-B1", "fr": "Le serveur apporte les menus.", "pt": "O garçom traz os cardápios." },
+        { "level": "B2", "fr": "Le serveur, attentif, connaît les plats par cœur.", "pt": "O garçom, atento, conhece os pratos de cor." },
+        { "level": "C1-C2", "fr": "C'est le serveur qui, par son sourire, fait le succès d'une salle.", "pt": "É o garçom que, por seu sorriso, faz o sucesso de um salão." }
+      ]
+    },
+    {
+      "term": "l'addition",
+      "definitionPt": "a conta (do restaurante)",
+      "definitionFr": "Somme à payer au restaurant.",
+      "inflections": ["l'addition", "une addition", "des additions"],
+      "ptTargets": ["conta"],
+      "examples": [
+        { "level": "A1", "fr": "L'addition, s'il vous plaît.", "pt": "A conta, por favor." },
+        { "level": "A2-B1", "fr": "Irlan demande l'addition à la fin.", "pt": "Irlan pede a conta no fim." },
+        { "level": "B2", "fr": "On partage souvent l'addition entre amis.", "pt": "Muitas vezes divide-se a conta entre amigos." },
+        { "level": "C1-C2", "fr": "C'est l'addition qui, payée, clôt la soirée en douceur.", "pt": "É a conta que, paga, encerra a noite com suavidade." }
+      ]
+    },
+    {
+      "term": "le pourboire",
+      "definitionPt": "a gorjeta",
+      "definitionFr": "Somme laissée en plus du prix.",
+      "inflections": ["le pourboire", "un pourboire", "des pourboires"],
+      "ptTargets": ["gorjeta"],
+      "examples": [
+        { "level": "A1", "fr": "Le pourboire est petit.", "pt": "A gorjeta é pequena." },
+        { "level": "A2-B1", "fr": "Irlan laisse un pourboire sur la table.", "pt": "Irlan deixa uma gorjeta na mesa." },
+        { "level": "B2", "fr": "En France, le pourboire est un geste de remerciement.", "pt": "Na França, a gorjeta é um gesto de agradecimento." },
+        { "level": "C1-C2", "fr": "C'est le pourboire qui, laissé avec le sourire, dit merci sans mots.", "pt": "É a gorjeta que, deixada com sorriso, diz obrigado sem palavras." }
+      ]
+    },
+    {
+      "term": "le verre",
+      "definitionPt": "o copo",
+      "definitionFr": "Récipient pour boire.",
+      "inflections": ["le verre", "un verre", "des verres"],
+      "ptTargets": ["copo", "taça"],
+      "examples": [
+        { "level": "A1", "fr": "Le verre est plein.", "pt": "O copo está cheio." },
+        { "level": "A2-B1", "fr": "Andréa commande un verre de jus d'orange.", "pt": "Andréa pede um copo de suco de laranja." },
+        { "level": "B2", "fr": "On trinque avec des verres de jus de fruits.", "pt": "Brinda-se com copos de suco de frutas." },
+        { "level": "C1-C2", "fr": "C'est le verre qui, levé, accompagne tous les toasts de la vie.", "pt": "É o copo que, erguido, acompanha todos os brindes da vida." }
+      ]
+    },
+    {
+      "term": "l'assiette",
+      "definitionPt": "o prato (utensílio)",
+      "definitionFr": "Récipient pour manger.",
+      "inflections": ["l'assiette", "une assiette", "des assiettes"],
+      "ptTargets": ["prato"],
+      "examples": [
+        { "level": "A1", "fr": "L'assiette est pleine.", "pt": "O prato está cheio." },
+        { "level": "A2-B1", "fr": "Le serveur apporte les assiettes.", "pt": "O garçom traz os pratos." },
+        { "level": "B2", "fr": "Les assiettes, bien dressées, sont une fête pour les yeux.", "pt": "Os pratos, bem apresentados, são uma festa para os olhos." },
+        { "level": "C1-C2", "fr": "C'est l'assiette qui, vidée, dit tout le plaisir du repas.", "pt": "É o prato que, esvaziado, diz todo o prazer da refeição." }
+      ]
+    },
+    {
+      "term": "délicieux",
+      "definitionPt": "delicioso",
+      "definitionFr": "Très bon.",
+      "inflections": ["délicieux", "délicieuse", "délicieux", "délicieuses"],
+      "ptTargets": ["delicioso"],
+      "examples": [
+        { "level": "A1", "fr": "Le gâteau est délicieux.", "pt": "O bolo está delicioso." },
+        { "level": "A2-B1", "fr": "Mmm, c'est délicieux !", "pt": "Mmm, está delicioso!" },
+        { "level": "B2", "fr": "Ce plat est délicieux, je vais le recommander.", "pt": "Este prato está delicioso, vou recomendá-lo." },
+        { "level": "C1-C2", "fr": "C'est une cuisine délicieuse qui, simple, touche le cœur.", "pt": "É uma cozinha deliciosa que, simples, toca o coração." }
+      ]
+    },
+    {
+      "term": "manger",
+      "definitionPt": "comer",
+      "definitionFr": "Prendre de la nourriture.",
+      "inflections": ["manger", "je mange", "nous mangeons"],
+      "ptTargets": ["comer"],
+      "examples": [
+        { "level": "A1", "fr": "Je mange une pomme.", "pt": "Eu como uma maçã." },
+        { "level": "A2-B1", "fr": "La famille mange au restaurant.", "pt": "A família come no restaurante." },
+        { "level": "B2", "fr": "Manger ensemble est un moment de partage.", "pt": "Comer juntos é um momento de partilha." },
+        { "level": "C1-C2", "fr": "C'est en mangeant que l'on découvre l'âme d'un pays.", "pt": "É comendo que se descobre a alma de um país." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Je voudrais : a polidez",
+    "explanationPt": "Para pedir com educação: 'je voudrais' (eu gostaria) + substantivo ou infinitivo. Ex.: 'Je voudrais des pâtes, s'il vous plaît.' É a forma mais usada em restaurantes.",
+    "exampleFr": "« Je voudrais des pâtes, s'il vous plaît », dit Iris poliment.",
+    "examplePt": "« Eu gostaria de macarrão, por favor », diz Íris educadamente.",
+    "practiceQuestion": "Complete: 'Je _____ des pâtes, s'il vous plaît.'",
+    "options": ["voudrais", "veux", "voudrai"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "Une table pour trois : as expressões do restaurante",
+        "explanationPt": "Expressões úteis: 'une table pour trois' (uma mesa para três), 'la carte' (o cardápio), 'la carafe d'eau' (a jarra de água), 'l'addition' (a conta).",
+        "exampleFr": "— Bonsoir, une table pour trois, s'il vous plaît.",
+        "examplePt": "— Boa noite, uma mesa para três, por favor.",
+        "practiceQuestion": "Complete: 'Une table pour _____ , s'il vous plaît.'",
+        "options": ["trois", "troie", "troit"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "Le verbe manger : le cédille",
+        "explanationPt": "O verbo 'manger' (comer) ganha cedilha antes de 'o' e 'u': je mange, nous mangeons. Ex.: 'Nous mangeons au restaurant.'",
+        "exampleFr": "Ils mangent, parlent et rient ensemble.",
+        "examplePt": "Eles comem, conversam e riem juntos.",
+        "practiceQuestion": "Complete: 'Nous _____ au restaurant.'",
+        "options": ["mangeons", "mangeons pas", "mangons"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "O que Íris pede no restaurante?",
+      "options": ["macarrão", "sopa", "peixe cru"],
+      "correctIndex": 0,
+      "explanation": "Je voudrais des pâtes, s'il vous plaît."
+    },
+    {
+      "question": "O que Irlan pede?",
+      "options": ["um bife com fritas", "uma salada de frutas", "um sanduíche"],
+      "correctIndex": 0,
+      "explanation": "Irlan commande un steak-frites."
+    },
+    {
+      "question": "Quem paga a conta?",
+      "options": ["Irlan", "Andréa", "o garçom"],
+      "correctIndex": 0,
+      "explanation": "C'est pour moi, diz Irlan: ele paga a conta."
+    },
+    {
+      "question": "Complete: 'Je _____ des pâtes, s'il vous plaît.'",
+      "options": ["voudrais", "veux", "voudrai"],
+      "correctIndex": 0,
+      "explanation": "Je voudrais: a forma educada de pedir."
+    },
+    {
+      "question": "O que Irlan deixa sobre a mesa?",
+      "options": ["uma gorjeta", "as chaves", "o guardanapo"],
+      "correctIndex": 0,
+      "explanation": "Il laisse un petit pourboire sur la table."
+    }
+  ]
+}

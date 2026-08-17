@@ -1,0 +1,237 @@
+{
+  "id": "bordeaux_lesson_15",
+  "cityId": "bordeaux",
+  "domain": "Transporte e cidade",
+  "level": "Intermediário (B1+)",
+  "titleFr": "Le tramway de Bordeaux : le courant dans le sol",
+  "titlePt": "O bonde de Bordeaux: a corrente no chão",
+  "subtitleFr": "Le premier grand tramway du monde alimenté par le sol",
+  "subtitlePt": "O primeiro grande bonde do mundo alimentado pelo chão",
+  "summaryPt": "Nesta Aula 15 (B1+), a família descobre o tramway de Bordeaux, o primeiro grande bonde do mundo alimentado pela corrente do próprio chão, sem fios nos lugares históricos. O aluno pratica o vocabulário do transporte (le tramway, l'arrêt, le ticket) e o conditionnel para expressar surpresa e hipóteses.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "« Le tramway de Bordeaux n'a pas de fils électriques dans le centre », a expliqué Irlan. « Le courant passe par le sol. » Iris a regardé le rail : « Mais alors, où est l'électricité ? »",
+      "pt": "« O bonde de Bordeaux não tem fios elétricos no centro », explicou Irlan. « A corrente passa pelo chão. » Íris olhou o trilho: « Mas então, onde está a eletricidade? »"
+    },
+    {
+      "id": 2,
+      "fr": "« C'est une technologie inventée ici, l'APS », a continué Irlan. « Elle serait impossible sans des milliers de capteurs sous la chaussée. » Le tramway est arrivé sans un bruit, comme un grand animal poli.",
+      "pt": "« É uma tecnologia inventada aqui, a APS », continuou Irlan. « Ela seria impossível sem milhares de sensores sob a calçada. » O bonde chegou sem um ruído, como um grande animal educado."
+    },
+    {
+      "id": 3,
+      "fr": "La famille est montée. « Il faudrait valider nos tickets », a dit Andréa. « Comme ça, on ne paie pas d'amende. » Iris a regardé le plan : « Nous irions jusqu'à la place de la Victoire ? » « Oui, et nous déjeunerions au marché des Capucins. »",
+      "pt": "A família subiu. « Seria preciso validar nossos bilhetes », disse Andréa. « Assim, não se paga multa. » Íris olhou o mapa: « Iríamos até a place de la Victoire? » « Sim, e almoçaríamos no mercado dos Capucins. »"
+    },
+    {
+      "id": 4,
+      "fr": "En regardant par la fenêtre, Irlan a dit : « Quand j'étais livreur à Paris, je roulais sous la pluie avec ma scooter. Ici, le tramway glisse sur le sol comme une idée moderne. » « Et nous, on serait libres de nos mains ! » a ri Iris.",
+      "pt": "Olhando pela janela, Irlan disse: « Quando eu era entregador em Paris, eu rodava sob a chuva de scooter. Aqui, o bonde desliza no chão como uma ideia moderna. » « E nós, ficaríamos com as mãos livres! » riu Íris."
+    },
+    {
+      "id": 5,
+      "fr": "Au marché des Capucins, Iris a commandé des huîtres avec sa mère. « Elles seraient meilleures avec du citron », a dit Andréa. « Et moi, je prendrais un cannelé pour le dessert ! » a ajouté Iris. Irlan a souri : « Bordeaux nous gâte. »",
+      "pt": "No mercado dos Capucins, Íris pediu ostras com a mãe. « Elas ficariam melhores com limão », disse Andréa. « E eu, eu comeria um cannelé de sobremesa! » acrescentou Íris. Irlan sorriu: « Bordeaux nos mima. »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "le tramway",
+      "definitionPt": "o bonde, o trem urbano",
+      "definitionFr": "Train léger qui circule en ville.",
+      "inflections": ["le tramway", "un tramway", "des tramways"],
+      "ptTargets": ["bonde", "trem urbano", "metrô de superfície"],
+      "examples": [
+        { "level": "A1", "fr": "Le tramway est silencieux.", "pt": "O bonde é silencioso." },
+        { "level": "A2-B1", "fr": "Le tramway traverse la ville.", "pt": "O bonde atravessa a cidade." },
+        { "level": "B1", "fr": "Le tramway sur lequel nous sommes montés est moderne.", "pt": "O bonde no qual subimos é moderno." },
+        { "level": "C1-C2", "fr": "Le tramway, serpent de verre, coud la ville avec ses rails.", "pt": "O bonde, serpente de vidro, costura a cidade com seus trilhos." }
+      ]
+    },
+    {
+      "term": "l'arrêt",
+      "definitionPt": "a parada",
+      "definitionFr": "Endroit où s'arrête le tramway.",
+      "inflections": ["l'arrêt", "un arrêt", "des arrêts"],
+      "ptTargets": ["parada", "ponto"],
+      "examples": [
+        { "level": "A1", "fr": "L'arrêt est proche.", "pt": "A parada é perto." },
+        { "level": "A2-B1", "fr": "On descend au prochain arrêt.", "pt": "Desce-se na próxima parada." },
+        { "level": "B1", "fr": "L'arrêt où l'on descend s'appelle Victoire.", "pt": "A parada onde se desce chama-se Victoire." },
+        { "level": "C1-C2", "fr": "L'arrêt, porte du voyage, ouvre la ville à chaque ouverture de portes.", "pt": "A parada, porta da viagem, abre a cidade a cada abertura de portas." }
+      ]
+    },
+    {
+      "term": "le ticket",
+      "definitionPt": "o bilhete",
+      "definitionFr": "Petit papier pour voyager.",
+      "inflections": ["le ticket", "un ticket", "des tickets"],
+      "ptTargets": ["bilhete", "passagem"],
+      "examples": [
+        { "level": "A1", "fr": "Le ticket est petit.", "pt": "O bilhete é pequeno." },
+        { "level": "A2-B1", "fr": "Il faut valider son ticket.", "pt": "É preciso validar o bilhete." },
+        { "level": "B1", "fr": "Les tickets que l'on valide servent une heure.", "pt": "Os bilhetes que se validam valem por uma hora." },
+        { "level": "C1-C2", "fr": "Le ticket, sésame de carton, ouvre les portes du tramway pour une heure.", "pt": "O bilhete, sésamo de papelão, abre as portas do bonde por uma hora." }
+      ]
+    },
+    {
+      "term": "valider",
+      "definitionPt": "validar",
+      "definitionFr": "Rendre valable un ticket.",
+      "inflections": ["je valide", "tu valides", "il valide", "nous validons"],
+      "ptTargets": ["validar"],
+      "examples": [
+        { "level": "A1", "fr": "Je valide mon ticket.", "pt": "Eu valido meu bilhete." },
+        { "level": "A2-B1", "fr": "On valide les tickets dans le tramway.", "pt": "Validam-se os bilhetes no bonde." },
+        { "level": "B1", "fr": "Les tickets que l'on valide sont contrôlés parfois.", "pt": "Os bilhetes que se validam às vezes são fiscalizados." },
+        { "level": "C1-C2", "fr": "Valider, geste du voyageur honnête, ouvre le droit de rouler en paix.", "pt": "Validar, gesto do viajante honesto, abre o direito de rodar em paz." }
+      ]
+    },
+    {
+      "term": "le capteur",
+      "definitionPt": "o sensor",
+      "definitionFr": "Appareil qui détecte quelque chose.",
+      "inflections": ["le capteur", "un capteur", "des capteurs"],
+      "ptTargets": ["sensor"],
+      "examples": [
+        { "level": "A1", "fr": "Le capteur est petit.", "pt": "O sensor é pequeno." },
+        { "level": "A2-B1", "fr": "Des capteurs sont sous la chaussée.", "pt": "Há sensores sob a calçada." },
+        { "level": "B1", "fr": "Les capteurs qui alimentent le tramway sont invisibles.", "pt": "Os sensores que alimentam o bonde são invisíveis." },
+        { "level": "C1-C2", "fr": "Le capteur, oreille du sol, écoute passer le tramway et lui donne la vie.", "pt": "O sensor, ouvido do chão, escuta o bonde passar e lhe dá vida." }
+      ]
+    },
+    {
+      "term": "le rail",
+      "definitionPt": "o trilho",
+      "definitionFr": "Barre de métal sur laquelle roule le train.",
+      "inflections": ["le rail", "un rail", "des rails"],
+      "ptTargets": ["trilho"],
+      "examples": [
+        { "level": "A1", "fr": "Le rail est en métal.", "pt": "O trilho é de metal." },
+        { "level": "A2-B1", "fr": "Le tramway roule sur les rails.", "pt": "O bonde roda sobre os trilhos." },
+        { "level": "B1", "fr": "Les rails que l'on voit guident le tramway.", "pt": "Os trilhos que se veem guiam o bonde." },
+        { "level": "C1-C2", "fr": "Le rail, ligne de vie, écrit le destin des villes en deux traits d'acier.", "pt": "O trilho, linha de vida, escreve o destino das cidades em dois traços de aço." }
+      ]
+    },
+    {
+      "term": "la chaussée",
+      "definitionPt": "a pista, a via",
+      "definitionFr": "Partie de la rue où passent les voitures.",
+      "inflections": ["la chaussée", "une chaussée", "des chaussées"],
+      "ptTargets": ["pista", "via"],
+      "examples": [
+        { "level": "A1", "fr": "La chaussée est large.", "pt": "A pista é larga." },
+        { "level": "A2-B1", "fr": "Les capteurs sont sous la chaussée.", "pt": "Os sensores estão sob a pista." },
+        { "level": "B1", "fr": "La chaussée sur laquelle roule le tramway est spéciale.", "pt": "A pista sobre a qual roda o bonde é especial." },
+        { "level": "C1-C2", "fr": "La chaussée, peau de la ville, cache des milliers de secrets sous son asphalte.", "pt": "A pista, pele da cidade, esconde milhares de segredos sob seu asfalto." }
+      ]
+    },
+    {
+      "term": "l'amende",
+      "definitionPt": "a multa",
+      "definitionFr": "Somme à payer pour une faute.",
+      "inflections": ["l'amende", "une amende", "des amendes"],
+      "ptTargets": ["multa"],
+      "examples": [
+        { "level": "A1", "fr": "L'amende est chère.", "pt": "A multa é cara." },
+        { "level": "A2-B1", "fr": "Sans ticket, on paie une amende.", "pt": "Sem bilhete, paga-se multa." },
+        { "level": "B1", "fr": "L'amende que l'on évite en validant son ticket est chère.", "pt": "A multa que se evita validando o bilhete é cara." },
+        { "level": "C1-C2", "fr": "L'amende, rappel sévère, enseigne les règles sans dire un mot.", "pt": "A multa, lembrete severo, ensina as regras sem dizer palavra." }
+      ]
+    },
+    {
+      "term": "le plan",
+      "definitionPt": "o mapa (de transporte)",
+      "definitionFr": "Carte des lignes de transport.",
+      "inflections": ["le plan", "un plan", "des plans"],
+      "ptTargets": ["mapa"],
+      "examples": [
+        { "level": "A1", "fr": "Le plan est sur le mur.", "pt": "O mapa está na parede." },
+        { "level": "A2-B1", "fr": "Iris regarde le plan du tramway.", "pt": "Íris olha o mapa do bonde." },
+        { "level": "B1", "fr": "Le plan sur lequel on cherche sa ligne est clair.", "pt": "O mapa no qual se procura a linha é claro." },
+        { "level": "C1-C2", "fr": "Le plan, toile d'araignée, tisse la ville en lignes de couleurs.", "pt": "O mapa, teia de aranha, tece a cidade em linhas de cores." }
+      ]
+    },
+    {
+      "term": "le citron",
+      "definitionPt": "o limão",
+      "definitionFr": "Fruit jaune et acide.",
+      "inflections": ["le citron", "un citron", "des citrons"],
+      "ptTargets": ["limão"],
+      "examples": [
+        { "level": "A1", "fr": "Le citron est jaune.", "pt": "O limão é amarelo." },
+        { "level": "A2-B1", "fr": "Les huîtres se mangent avec du citron.", "pt": "As ostras se comem com limão." },
+        { "level": "B1", "fr": "Le citron que l'on presse sur les huîtres est frais.", "pt": "O limão que se espreme sobre as ostras é fresco." },
+        { "level": "C1-C2", "fr": "Le citron, éclat acide, réveille les saveurs endormies de la mer.", "pt": "O limão, clarão ácido, desperta os sabores adormecidos do mar." }
+      ]
+    },
+    {
+      "term": "la technologie",
+      "definitionPt": "a tecnologia",
+      "definitionFr": "Ensemble des techniques modernes.",
+      "inflections": ["la technologie", "une technologie", "des technologies"],
+      "ptTargets": ["tecnologia"],
+      "examples": [
+        { "level": "A1", "fr": "La technologie est nouvelle.", "pt": "A tecnologia é nova." },
+        { "level": "A2-B1", "fr": "La technologie de l'APS est née à Bordeaux.", "pt": "A tecnologia da APS nasceu em Bordeaux." },
+        { "level": "B1", "fr": "La technologie dont on parle est utilisée dans le monde entier.", "pt": "A tecnologia da qual se fala é usada no mundo inteiro." },
+        { "level": "C1-C2", "fr": "La technologie, main invisible, change la ville sans qu'on la voie.", "pt": "A tecnologia, mão invisível, muda a cidade sem que se a veja." }
+      ]
+    },
+    {
+      "term": "l'huître",
+      "definitionPt": "a ostra",
+      "definitionFr": "Coquillage que l'on mange.",
+      "inflections": ["l'huître", "une huître", "des huîtres"],
+      "ptTargets": ["ostra"],
+      "examples": [
+        { "level": "A1", "fr": "L'huître est salée.", "pt": "A ostra é salgada." },
+        { "level": "A2-B1", "fr": "Les huîtres sont célèbres à Bordeaux.", "pt": "As ostras são famosas em Bordeaux." },
+        { "level": "B1", "fr": "Les huîtres que l'on mange ici viennent du bassin d'Arcachon.", "pt": "As ostras que se comem aqui vêm da bacia de Arcachon." },
+        { "level": "C1-C2", "fr": "L'huître, écrin de la mer, cache une perle de goût dans son eau salée.", "pt": "A ostra, estojo do mar, esconde uma pérola de sabor em sua água salgada." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "titleFr": "Le conditionnel pour les hypothèses",
+    "titlePt": "O conditionnel para as hipóteses",
+    "points": [
+      {
+        "fr": "Le conditionnel exprime une hypothèse ou une conséquence imaginaire : « Ce serait impossible sans capteurs », « Nous irions jusqu'à la place de la Victoire ».",
+        "pt": "O conditionnel expressa hipótese ou consequência imaginária: « Ce serait impossible sans capteurs » (Seria impossível sem sensores), « Nous irions jusqu'à la place de la Victoire » (Iríamos até a place de la Victoire)."
+      },
+      {
+        "fr": "Structure « Si + présent, conditionnel » : « Si nous validons nos tickets, nous n'aurions pas d'amende » — en pratique : « Si on valide, pas d'amende. »",
+        "pt": "Estrutura « Si + presente, conditionnel »: « Si nous validons nos tickets, nous n'aurions pas d'amende » — na prática: « Se validarmos, sem multa. »"
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "O que há de especial no tramway de Bordeaux ?",
+      "options": ["A corrente passa pelo chão, sem fios no centro", "Ele voa sobre os trilhos", "Ele é movido a vapor", "Ele anda só à noite"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Como se chama a tecnologia inventada em Bordeaux ?",
+      "options": ["APS", "GPS", "USB", "TGV"],
+      "correctIndex": 0
+    },
+    {
+      "question": "O que acontece se não se valida o bilhete ?",
+      "options": ["Paga-se multa", "Nada acontece", "O bonde para", "Ganha-se um presente"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Onde a família almoçou ?",
+      "options": ["No mercado dos Capucins", "Na estação", "No parque", "Em casa"],
+      "correctIndex": 0
+    },
+    {
+      "question": "O que Iris pediu de sobremesa ?",
+      "options": ["Um cannelé", "Um sorvete", "Uma maçã", "Um bolo de chocolate"],
+      "correctIndex": 0
+    }
+  ]
+}

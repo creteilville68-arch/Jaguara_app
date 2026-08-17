@@ -1,0 +1,257 @@
+{
+  "id": "lyon_lesson_35",
+  "cityId": "lyon",
+  "domain": "Gastronomia",
+  "level": "Intermediário (B2+)",
+  "titleFr": "Les Halles de Lyon Paul Bocuse : le temple de la gastronomie",
+  "titlePt": "As Halles de Lyon Paul Bocuse: o templo da gastronomia",
+  "subtitleFr": "Exprimer la conséquence et l'émotion : le subjonctif passé",
+  "subtitlePt": "Exprimir a consequência e a emoção: o subjonctif passé",
+  "summaryPt": "As Halles de Lyon Paul Bocuse reúnem os melhores produtos da região: queijos, carnes, peixes e os pratos das mères lyonnaises. Nesta aula B2+, a família descobre o mercado e pratica o subjonctif passé para falar de emoções e consequências de fatos passados.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "« Je suis ravie que vous ayez goûté la quenelle ! » dit la fromagère en riant. Irlan, la bouche pleine, hocha la tête. Autour d'eux, des étals croulaient sous les fromages, les saucissons et les fruits.",
+      "pt": "« Estou encantada que vocês tenham provado a quenelle! » disse a queijeira rindo. Irlan, de boca cheia, balançou a cabeça. Ao redor deles, as bancas transbordavam de queijos, salames e frutas."
+    },
+    {
+      "id": 2,
+      "fr": "Les Halles portent le nom de Paul Bocuse, le plus célèbre cuisinier lyonnais. « C'est grâce à lui que la cuisine lyonnaise est connue dans le monde entier », dit Andréa. Irlan regarda une statue du chef, un sourire aux lèvres.",
+      "pt": "As Halles levam o nome de Paul Bocuse, o mais famoso cozinheiro lyonnais. « É graças a ele que a cozinha lyonnaise é conhecida no mundo inteiro », disse Andréa. Irlan olhou uma estátua do chef, com um sorriso nos lábios."
+    },
+    {
+      "id": 3,
+      "fr": "« Il est incroyable que ces fromages aient traversé les siècles », murmura Irlan devant un saint-marcellin. La vendeuse expliqua que la tradition fromagère lyonnaise remontait au Moyen Âge.",
+      "pt": "« É incrível que esses queijos tenham atravessado os séculos », murmurou Irlan diante de um saint-marcellin. A vendedora explicou que a tradição queijeira lyonnaise remontava à Idade Média."
+    },
+    {
+      "id": 4,
+      "fr": "Íris découvrit les bugnes, ces beignets sucrés du carnaval lyonnais. « Je suis triste que nous n'en ayons mangé qu'une ! » s'exclama-t-elle. Son père en acheta un sachet entier, pour le plus grand bonheur de tous.",
+      "pt": "Íris descobriu as bugnes, esses bolinhos doces do carnaval lyonnais. « Estou triste que tenhamos comido só uma! » exclamou ela. Seu pai comprou um saquinho inteiro, para a maior alegria de todos."
+    },
+    {
+      "id": 5,
+      "fr": "Le soir, Irlan écrivit : « Je suis fier que ma fille ait découvert la quenelle, le saint-marcellin et les bugnes. La France ne se mange pas : elle se goûte, se partage et se raconte. Et c'est à Lyon que cela se passe le mieux. »",
+      "pt": "À noite, Irlan escreveu: « Tenho orgulho de que minha filha tenha descoberto a quenelle, o saint-marcellin e as bugnes. A França não se come: ela se prova, se compartilha e se conta. E é em Lyon que isso acontece melhor. »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "le fromage",
+      "definitionPt": "queijo",
+      "definitionFr": "Aliment fabriqué à partir du lait.",
+      "inflections": ["le fromage", "des fromages"],
+      "ptTargets": ["queijo", "queijos"],
+      "examples": [
+        { "level": "A1", "fr": "Le fromage est bon.", "pt": "O queijo é bom." },
+        { "level": "A2-B1", "fr": "Les fromages de Lyon sont célèbres.", "pt": "Os queijos de Lyon são famosos." },
+        { "level": "B1-B2", "fr": "Les fromages, affinés avec soin, embaument les allées du marché.", "pt": "Os queijos, maturados com cuidado, perfumam os corredores do mercado." },
+        { "level": "C1-C2", "fr": "C'est le fromage qui fait la fierté des tables lyonnaises.", "pt": "É o queijo que faz a glória das mesas lyonnaises." }
+      ]
+    },
+    {
+      "term": "la quenelle",
+      "definitionPt": "quenelle (prato lyonnais)",
+      "definitionFr": "Spécialité lyonnaise à base de farine de poisson ou de volaille.",
+      "inflections": ["la quenelle", "des quenelles"],
+      "ptTargets": ["quenelle", "quenelles"],
+      "examples": [
+        { "level": "A1", "fr": "La quenelle est blanche.", "pt": "A quenelle é branca." },
+        { "level": "A2-B1", "fr": "La quenelle se mange avec une sauce.", "pt": "A quenelle se come com molho." },
+        { "level": "B1-B2", "fr": "La quenelle, servie avec une sauce nantua, est un plat lyonnais.", "pt": "A quenelle, servida com molho nantua, é um prato lyonnais." },
+        { "level": "C1-C2", "fr": "C'est la quenelle qui résume le génie simple de la cuisine lyonnaise.", "pt": "É a quenelle que resume o gênio simples da cozinha lyonnaise." }
+      ]
+    },
+    {
+      "term": "le cuisinier",
+      "definitionPt": "cozinheiro",
+      "definitionFr": "Personne qui cuisine professionnellement.",
+      "inflections": ["le cuisinier", "des cuisiniers"],
+      "ptTargets": ["cozinheiro", "cozinheiros"],
+      "examples": [
+        { "level": "A1", "fr": "Le cuisinier travaille.", "pt": "O cozinheiro trabalha." },
+        { "level": "A2-B1", "fr": "Paul Bocuse était un grand cuisinier.", "pt": "Paul Bocuse era um grande cozinheiro." },
+        { "level": "B1-B2", "fr": "Le cuisinier, devenu légende, a donné son nom aux Halles.", "pt": "O cozinheiro, virado lenda, deu seu nome às Halles." },
+        { "level": "C1-C2", "fr": "C'est le cuisinier qui a élevé la cuisine française au rang d'art.", "pt": "É o cozinheiro que elevou a cozinha francesa à categoria de arte." }
+      ]
+    },
+    {
+      "term": "l'étal",
+      "definitionPt": "banca (de mercado)",
+      "definitionFr": "Table où l'on expose les marchandises.",
+      "inflections": ["l'étal", "des étals"],
+      "ptTargets": ["banca", "bancas"],
+      "examples": [
+        { "level": "A1", "fr": "L'étal est plein.", "pt": "A banca está cheia." },
+        { "level": "A2-B1", "fr": "Les étals croulent sous les produits.", "pt": "As bancas transbordam de produtos." },
+        { "level": "B1-B2", "fr": "Les étals, colorés et odorants, attirent les gourmands.", "pt": "As bancas, coloridas e perfumadas, atraem os gourmands." },
+        { "level": "C1-C2", "fr": "C'est derrière les étals que se joue la scène du marché.", "pt": "É atrás das bancas que se encena a cena do mercado." }
+      ]
+    },
+    {
+      "term": "le saucisson",
+      "definitionPt": "salame, embutido",
+      "definitionFr": "Charcuterie en forme de boudin.",
+      "inflections": ["le saucisson", "des saucissons"],
+      "ptTargets": ["salame", "embutido", "saucisson"],
+      "examples": [
+        { "level": "A1", "fr": "Le saucisson est salé.", "pt": "O salame é salgado." },
+        { "level": "A2-B1", "fr": "Les saucissons pendent aux étals.", "pt": "Os salames pendem nas bancas." },
+        { "level": "B1-B2", "fr": "Les saucissons, fabriqués dans la région, accompagnent le vin du Beaujolais.", "pt": "Os salames, fabricados na região, acompanham o vinho do Beaujolais." },
+        { "level": "C1-C2", "fr": "C'est le saucisson qui ouvre l'apéritif lyonnais.", "pt": "É o salame que abre o aperitivo lyonnais." }
+      ]
+    },
+    {
+      "term": "la spécialité",
+      "definitionPt": "especialidade",
+      "definitionFr": "Plat ou produit typique d'une région.",
+      "inflections": ["la spécialité", "des spécialités"],
+      "ptTargets": ["especialidade", "especialidades"],
+      "examples": [
+        { "level": "A1", "fr": "La spécialité est bonne.", "pt": "A especialidade é boa." },
+        { "level": "A2-B1", "fr": "La quenelle est une spécialité lyonnaise.", "pt": "A quenelle é uma especialidade lyonnaise." },
+        { "level": "B1-B2", "fr": "Les spécialités, nombreuses et variées, font la réputation de la ville.", "pt": "As especialidades, numerosas e variadas, fazem a reputação da cidade." },
+        { "level": "C1-C2", "fr": "C'est la spécialité qui raconte l'identité d'un peuple.", "pt": "É a especialidade que conta a identidade de um povo." }
+      ]
+    },
+    {
+      "term": "le beignet",
+      "definitionPt": "bolinho frito, sonho",
+      "definitionFr": "Pâtisserie frite dans l'huile.",
+      "inflections": ["le beignet", "des beignets"],
+      "ptTargets": ["bolinho", "sonho", "beignet"],
+      "examples": [
+        { "level": "A1", "fr": "Le beignet est sucré.", "pt": "O bolinho é doce." },
+        { "level": "A2-B1", "fr": "Les bugnes sont des beignets lyonnais.", "pt": "As bugnes são bolinhos lyonnais." },
+        { "level": "B1-B2", "fr": "Les beignets, saupoudrés de sucre, se dégustent au carnaval.", "pt": "Os bolinhos, polvilhados de açúcar, são saboreados no carnaval." },
+        { "level": "C1-C2", "fr": "C'est le beignet qui réchauffe les hivers de carnaval.", "pt": "É o bolinho que aquece os invernos de carnaval." }
+      ]
+    },
+    {
+      "term": "le chef",
+      "definitionPt": "chef (de cozinha)",
+      "definitionFr": "Cuisinier de haut niveau.",
+      "inflections": ["le chef", "des chefs"],
+      "ptTargets": ["chef", "chefs"],
+      "examples": [
+        { "level": "A1", "fr": "Le chef cuisine.", "pt": "O chef cozinha." },
+        { "level": "A2-B1", "fr": "Le chef Bocuse est célèbre.", "pt": "O chef Bocuse é famoso." },
+        { "level": "B1-B2", "fr": "Le chef, venu de Collonges-au-Mont-d'Or, a révolutionné la gastronomie.", "pt": "O chef, vindo de Collonges-au-Mont-d'Or, revolucionou a gastronomia." },
+        { "level": "C1-C2", "fr": "C'est le chef qui a inventé la nouvelle cuisine.", "pt": "É o chef que inventou a nouvelle cuisine." }
+      ]
+    },
+    {
+      "term": "goûter",
+      "definitionPt": "provar, experimentar",
+      "definitionFr": "Gouter pour apprécier le goût.",
+      "inflections": ["je goûte", "goûter", "goûté"],
+      "ptTargets": ["provar", "experimentar", "provado"],
+      "examples": [
+        { "level": "A1", "fr": "Je goûte le gâteau.", "pt": "Eu provo o bolo." },
+        { "level": "A2-B1", "fr": "Je suis ravi que vous ayez goûté la quenelle.", "pt": "Estou encantado que vocês tenham provado a quenelle." },
+        { "level": "B1-B2", "fr": "Il est rare qu'un visiteur ait goûté autant de spécialités en une heure.", "pt": "É raro que um visitante tenha provado tantas especialidades em uma hora." },
+        { "level": "C1-C2", "fr": "C'est en goûtant que l'on apprend à connaître un pays.", "pt": "É provando que se aprende a conhecer um país." }
+      ]
+    },
+    {
+      "term": "la fierté",
+      "definitionPt": "orgulho",
+      "definitionFr": "Sentiment de satisfaction légitime.",
+      "inflections": ["la fierté"],
+      "ptTargets": ["orgulho"],
+      "examples": [
+        { "level": "A1", "fr": "La fierté est grande.", "pt": "O orgulho é grande." },
+        { "level": "A2-B1", "fr": "La gastronomie est une fierté lyonnaise.", "pt": "A gastronomia é um orgulho lyonnais." },
+        { "level": "B1-B2", "fr": "La fierté, partagée par toute la ville, se lit sur les visages.", "pt": "O orgulho, compartilhado por toda a cidade, se lê nos rostos." },
+        { "level": "C1-C2", "fr": "C'est la fierté qui fait rayonner une cuisine au-delà des frontières.", "pt": "É o orgulho que faz uma cozinha brilhar além das fronteiras." }
+      ]
+    },
+    {
+      "term": "l'affinage",
+      "definitionPt": "maturação (de queijos)",
+      "definitionFr": "Période pendant laquelle un fromage développe son goût.",
+      "inflections": ["l'affinage"],
+      "ptTargets": ["maturação", "afinagem"],
+      "examples": [
+        { "level": "A1", "fr": "L'affinage est long.", "pt": "A maturação é longa." },
+        { "level": "A2-B1", "fr": "L'affinage donne du goût.", "pt": "A maturação dá sabor." },
+        { "level": "B1-B2", "fr": "L'affinage, soigné par des maîtres, transforme le lait en trésor.", "pt": "A maturação, cuidada por mestres, transforma o leite em tesouro." },
+        { "level": "C1-C2", "fr": "C'est l'affinage qui distingue un bon fromage d'un grand fromage.", "pt": "É a maturação que distingue um bom queijo de um grande queijo." }
+      ]
+    },
+    {
+      "term": "le marché",
+      "definitionPt": "mercado, feira",
+      "definitionFr": "Lieu où l'on achète et vend des produits.",
+      "inflections": ["le marché", "des marchés"],
+      "ptTargets": ["mercado", "feira", "mercados"],
+      "examples": [
+        { "level": "A1", "fr": "Le marché est ouvert.", "pt": "O mercado está aberto." },
+        { "level": "A2-B1", "fr": "Le marché est plein de monde.", "pt": "O mercado está cheio de gente." },
+        { "level": "B1-B2", "fr": "Le marché, lieu de rencontre, anime la ville chaque matin.", "pt": "O mercado, lugar de encontro, anima a cidade a cada manhã." },
+        { "level": "C1-C2", "fr": "C'est le marché qui offre la vraie âme d'une ville.", "pt": "É o mercado que oferece a verdadeira alma de uma cidade." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Le subjonctif passé : émotion et conséquence au marché",
+    "explanationPt": "Depois de expressões de emoção ou julgamento, o subjonctif passé indica um fato passado: 'je suis ravie que vous ayez goûté la quenelle' (estou encantada que vocês tenham provado), 'il est incroyable que ces fromages aient traversé les siècles' (é incrível que esses queijos tenham atravessado os séculos), 'je suis triste que nous n'en ayons mangé qu'une' (estou triste que tenhamos comido só uma).",
+    "exampleFr": "Je suis ravie que vous ayez goûté la quenelle ; il est incroyable que ces fromages aient traversé les siècles.",
+    "examplePt": "Estou encantada que vocês tenham provado a quenelle; é incrível que esses queijos tenham atravessado os séculos.",
+    "practiceQuestion": "Complete: « Je suis ravie que vous ___ goûté la quenelle. »",
+    "options": ["ayez", "avez", "aviez"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "Ayez + participe",
+        "explanationPt": "'Que vous ayez goûté' : avoir no subjonctif + particípio passado.",
+        "exampleFr": "Je suis ravie que vous ayez goûté la quenelle !",
+        "examplePt": "Estou encantada que vocês tenham provado a quenelle!",
+        "practiceQuestion": "Complete: « Je suis triste que nous n'en ___ mangé qu'une. »",
+        "options": ["ayons", "avons", "avions"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "Aient + participe",
+        "explanationPt": "'Que ces fromages aient traversé les siècles' : subjonctif passé com terceira pessoa do plural.",
+        "exampleFr": "Il est incroyable que ces fromages aient traversé les siècles.",
+        "examplePt": "É incrível que esses queijos tenham atravessado os séculos.",
+        "practiceQuestion": "Complete: « Il est incroyable que ces fromages ___ traversé les siècles. »",
+        "options": ["aient", "ont", "avaient"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Complete: « Je suis ravie que vous ___ goûté la quenelle. »",
+      "options": ["ayez", "avez", "aviez"],
+      "correctIndex": 0,
+      "explanation": "Subjonctif passé: 'que vous ayez goûté'."
+    },
+    {
+      "question": "Quem deu nome às Halles de Lyon?",
+      "options": ["Paul Bocuse", "Louis XIV", "Tony Garnier"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'Les Halles portent le nom de Paul Bocuse, le plus célèbre cuisinier lyonnais.'"
+    },
+    {
+      "question": "O que são as bugnes?",
+      "options": ["Beignets doces do carnaval", "Peixes do Ródano", "Queijos de cabra"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'les bugnes, ces beignets sucrés du carnaval lyonnais'."
+    },
+    {
+      "question": "Complete: « Il est incroyable que ces fromages ___ traversé les siècles. »",
+      "options": ["aient", "ont", "avaient"],
+      "correctIndex": 0,
+      "explanation": "Subjonctif passé com ils: 'aient traversé'."
+    },
+    {
+      "question": "O que Irlan escreveu sobre a França no final?",
+      "options": ["Que ela se prova, se compartilha e se conta", "Que ela é muito cara", "Que ela está sempre com pressa"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'La France ne se mange pas : elle se goûte, se partage et se raconte.'"
+    }
+  ]
+}

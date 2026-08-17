@@ -1,0 +1,237 @@
+{
+  "id": "tours_lesson_30",
+  "cityId": "tours",
+  "domain": "Natureza & Paisagem",
+  "level": "Intermediário (B1)",
+  "titleFr": "Les oiseaux de la Loire : hérons et martins-pêcheurs",
+  "titlePt": "As aves do Loire: garças e martim-pescadores",
+  "subtitleFr": "Le fleuve sauvage est un paradis pour les oiseaux",
+  "subtitlePt": "O rio selvagem é um paraíso para as aves",
+  "summaryPt": "Nesta Aula 30 (B1), a família observa os pássaros da Loire com binóculos: a garça-real imóvel, o guarda-rios que mergulha como uma flecha azul, os patos selvagens. O aluno pratica o vocabulário dos pássaros (l'oiseau, la plume, le bec, observer) e a expressão de comparação (comme une flèche).",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "« La Loire est le dernier grand fleuve sauvage d'Europe, et les oiseaux l'adorent », a dit Irlan. « Prends les jumelles, Iris : nous allons observer les hérons. »",
+      "pt": "« O Loire é o último grande rio selvagem da Europa, e as aves o adoram », disse Irlan. « Pega os binóculos, Íris: vamos observar as garças. »"
+    },
+    {
+      "id": 2,
+      "fr": "Un héron cendré restait immobile dans l'eau peu profonde. « Il attend un poisson », a chuchoté Irlan. « Il peut rester sans bouger pendant une heure. Il faut de la patience. »",
+      "pt": "Uma garça-cinzenta ficava imóvel na água rasa. « Ela espera um peixe », sussurrou Irlan. « Pode ficar parada durante uma hora. É preciso paciência. »"
+    },
+    {
+      "id": 3,
+      "fr": "Soudain, un oiseau bleu est passé comme une flèche au-dessus de l'eau. « C'est un martin-pêcheur ! » a dit Andréa. « Regarde ses couleurs : bleu et orange, comme un bijou vivant. »",
+      "pt": "De repente, um pássaro azul passou como uma flecha sobre a água. « É um martim-pescador! » disse Andréa. « Olha as cores: azul e laranja, como uma joia viva. »"
+    },
+    {
+      "id": 4,
+      "fr": "Le martin-pêcheur a plongé et est remonté avec un petit poisson. « Il attrape plus de poissons que moi au marché ! » a ri Irlan. Iris a ri aussi : « Il n'a pas besoin de payer ! »",
+      "pt": "O martim-pescador mergulhou e voltou com um peixinho. « Ele pega mais peixes que eu no mercado! » riu Irlan. Íris riu também: « Ele não precisa pagar! »"
+    },
+    {
+      "id": 5,
+      "fr": "La famille a noté les oiseaux qu'elle avait vus : deux hérons, un martin-pêcheur, des canards et une mouette. « Quand j'étais livreur, je ne regardais pas le ciel », a dit Irlan. « Maintenant, je lève les yeux. »",
+      "pt": "A família anotou as aves que viu: duas garças, um martim-pescador, patos e uma gaivota. « Quando eu era entregador, eu não olhava o céu », disse Irlan. « Agora, levanto os olhos. »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "l'oiseau",
+      "definitionPt": "o pássaro, a ave",
+      "definitionFr": "Animal qui a des plumes et des ailes.",
+      "inflections": ["l'oiseau", "un oiseau", "des oiseaux"],
+      "ptTargets": ["pássaro", "ave"],
+      "examples": [
+        { "level": "A1", "fr": "L'oiseau chante.", "pt": "O pássaro canta." },
+        { "level": "A2-B1", "fr": "Les oiseaux aiment la Loire.", "pt": "As aves adoram o Loire." },
+        { "level": "B1", "fr": "Les oiseaux que nous avons vus sont magnifiques.", "pt": "As aves que vimos são magníficas." },
+        { "level": "C1-C2", "fr": "L'oiseau, lettre vivante, écrit des phrases dans le ciel.", "pt": "O pássaro, carta viva, escreve frases no céu." }
+      ]
+    },
+    {
+      "term": "le héron",
+      "definitionPt": "a garça",
+      "definitionFr": "Grand oiseau au long cou qui vit près de l'eau.",
+      "inflections": ["le héron", "un héron", "des hérons"],
+      "ptTargets": ["garça"],
+      "examples": [
+        { "level": "A1", "fr": "Le héron est grand.", "pt": "A garça é grande." },
+        { "level": "A2-B1", "fr": "Le héron attend un poisson.", "pt": "A garça espera um peixe." },
+        { "level": "B1", "fr": "Le héron qui reste immobile est patient.", "pt": "A garça que fica imóvel é paciente." },
+        { "level": "C1-C2", "fr": "Le héron, statue vivante, transforme la patience en art de chasse.", "pt": "A garça, estátua viva, transforma a paciência em arte de caça." }
+      ]
+    },
+    {
+      "term": "le martin-pêcheur",
+      "definitionPt": "o martim-pescador",
+      "definitionFr": "Petit oiseau bleu et orange qui plonge pour pêcher.",
+      "inflections": ["le martin-pêcheur", "un martin-pêcheur", "des martins-pêcheurs"],
+      "ptTargets": ["martim-pescador"],
+      "examples": [
+        { "level": "A1", "fr": "Le martin-pêcheur est bleu.", "pt": "O martim-pescador é azul." },
+        { "level": "A2-B1", "fr": "Le martin-pêcheur passe comme une flèche.", "pt": "O martim-pescador passa como uma flecha." },
+        { "level": "B1", "fr": "Le martin-pêcheur que nous avons vu est rare.", "pt": "O martim-pescador que vimos é raro." },
+        { "level": "C1-C2", "fr": "Le martin-pêcheur, bijou volant, émerveille les promeneurs attentifs.", "pt": "O martim-pescador, joia voadora, encanta os passeantes atentos." }
+      ]
+    },
+    {
+      "term": "la plume",
+      "definitionPt": "a pena",
+      "definitionFr": "Ce qui couvre le corps des oiseaux.",
+      "inflections": ["la plume", "une plume", "des plumes"],
+      "ptTargets": ["pena"],
+      "examples": [
+        { "level": "A1", "fr": "La plume est légère.", "pt": "A pena é leve." },
+        { "level": "A2-B1", "fr": "Les plumes du martin-pêcheur sont brillantes.", "pt": "As penas do martim-pescador são brilhantes." },
+        { "level": "B1", "fr": "Les plumes qui brillent au soleil sont magnifiques.", "pt": "As penas que brilham ao sol são magníficas." },
+        { "level": "C1-C2", "fr": "La plume, parure du vol, dessine les couleurs du ciel.", "pt": "A pena, ornamento do voo, desenha as cores do céu." }
+      ]
+    },
+    {
+      "term": "le bec",
+      "definitionPt": "o bico",
+      "definitionFr": "Bouche pointue des oiseaux.",
+      "inflections": ["le bec", "un bec", "des becs"],
+      "ptTargets": ["bico"],
+      "examples": [
+        { "level": "A1", "fr": "Le bec est pointu.", "pt": "O bico é pontiagudo." },
+        { "level": "A2-B1", "fr": "Le héron attrape le poisson avec son bec.", "pt": "A garça pega o peixe com o bico." },
+        { "level": "B1", "fr": "Le bec qui attrape le poisson est précis.", "pt": "O bico que pega o peixe é preciso." },
+        { "level": "C1-C2", "fr": "Le bec, outil du pêcheur ailé, frappe l'eau sans bruit.", "pt": "O bico, ferramenta do pescador alado, fere a água sem ruído." }
+      ]
+    },
+    {
+      "term": "observer",
+      "definitionPt": "observar",
+      "definitionFr": "Regarder avec attention.",
+      "inflections": ["j'observe", "tu observes", "il observe", "nous observons"],
+      "ptTargets": ["observar"],
+      "examples": [
+        { "level": "A1", "fr": "J'observe le ciel.", "pt": "Eu observo o céu." },
+        { "level": "A2-B1", "fr": "La famille a observé les oiseaux.", "pt": "A família observou as aves." },
+        { "level": "B1", "fr": "Les oiseaux que nous avons observés sont partis.", "pt": "As aves que observamos partiram." },
+        { "level": "C1-C2", "fr": "Observer, c'est donner du temps au monde pour qu'il se montre.", "pt": "Observar é dar tempo ao mundo para que ele se mostre." }
+      ]
+    },
+    {
+      "term": "les jumelles",
+      "definitionPt": "os binóculos",
+      "definitionFr": "Instrument pour voir de loin.",
+      "inflections": ["les jumelles", "des jumelles"],
+      "ptTargets": ["binóculos"],
+      "examples": [
+        { "level": "A1", "fr": "Les jumelles sont lourdes.", "pt": "Os binóculos são pesados." },
+        { "level": "A2-B1", "fr": "Iris a pris les jumelles.", "pt": "Íris pegou os binóculos." },
+        { "level": "B1", "fr": "Les jumelles que nous avons utilisées sont puissantes.", "pt": "Os binóculos que usamos são potentes." },
+        { "level": "C1-C2", "fr": "Les jumelles, yeux prolongés, rapprochent le monde sans le toucher.", "pt": "Os binóculos, olhos prolongados, aproximam o mundo sem tocá-lo." }
+      ]
+    },
+    {
+      "term": "plonger",
+      "definitionPt": "mergulhar",
+      "definitionFr": "Entrer dans l'eau d'un coup.",
+      "inflections": ["je plonge", "tu plonges", "il plonge", "nous plongeons"],
+      "ptTargets": ["mergulhar"],
+      "examples": [
+        { "level": "A1", "fr": "Le canard plonge.", "pt": "O pato mergulha." },
+        { "level": "A2-B1", "fr": "Le martin-pêcheur a plongé dans l'eau.", "pt": "O martim-pescador mergulhou na água." },
+        { "level": "B1", "fr": "L'oiseau qui plonge ressort avec un poisson.", "pt": "A ave que mergulha volta com um peixe." },
+        { "level": "C1-C2", "fr": "Plonger, c'est offrir son corps à l'inconnu de l'eau.", "pt": "Mergulhar é oferecer o corpo ao desconhecido da água." }
+      ]
+    },
+    {
+      "term": "le poisson",
+      "definitionPt": "o peixe",
+      "definitionFr": "Animal qui vit dans l'eau.",
+      "inflections": ["le poisson", "un poisson", "des poissons"],
+      "ptTargets": ["peixe"],
+      "examples": [
+        { "level": "A1", "fr": "Le poisson nage.", "pt": "O peixe nada." },
+        { "level": "A2-B1", "fr": "Le héron attend un poisson.", "pt": "A garça espera um peixe." },
+        { "level": "B1", "fr": "Les poissons que la Loire cache sont nombreux.", "pt": "Os peixes que o Loire esconde são numerosos." },
+        { "level": "C1-C2", "fr": "Le poisson, habitant silencieux, connaît le fleuve mieux que personne.", "pt": "O peixe, habitante silencioso, conhece o rio melhor que ninguém." }
+      ]
+    },
+    {
+      "term": "la flèche",
+      "definitionPt": "a flecha",
+      "definitionFr": "Projectile pointu ; symbole de vitesse.",
+      "inflections": ["la flèche", "une flèche", "des flèches"],
+      "ptTargets": ["flecha"],
+      "examples": [
+        { "level": "A1", "fr": "La flèche est droite.", "pt": "A flecha é reta." },
+        { "level": "A2-B1", "fr": "L'oiseau passe comme une flèche.", "pt": "O pássaro passa como uma flecha." },
+        { "level": "B1", "fr": "La vitesse de l'oiseau est celle d'une flèche.", "pt": "A velocidade da ave é a de uma flecha." },
+        { "level": "C1-C2", "fr": "La flèche, rêve de vitesse, ne rattrape jamais le martin-pêcheur.", "pt": "A flecha, sonho de velocidade, nunca alcança o martim-pescador." }
+      ]
+    },
+    {
+      "term": "la patience",
+      "definitionPt": "a paciência",
+      "definitionFr": "Capacité d'attendre sans s'énerver.",
+      "inflections": ["la patience", "une patience"],
+      "ptTargets": ["paciência"],
+      "examples": [
+        { "level": "A1", "fr": "La patience est utile.", "pt": "A paciência é útil." },
+        { "level": "A2-B1", "fr": "Le héron a beaucoup de patience.", "pt": "A garça tem muita paciência." },
+        { "level": "B1", "fr": "La patience que montre le héron est impressionnante.", "pt": "A paciência que a garça mostra é impressionante." },
+        { "level": "C1-C2", "fr": "La patience, vertu du pêcheur et de l'oiseau, nourrit ceux qui attendent.", "pt": "A paciência, virtude do pescador e da ave, alimenta os que esperam." }
+      ]
+    },
+    {
+      "term": "le canard sauvage",
+      "definitionPt": "o pato selvagem",
+      "definitionFr": "Canard qui vit libre dans la nature.",
+      "inflections": ["le canard sauvage", "des canards sauvages"],
+      "ptTargets": ["pato selvagem"],
+      "examples": [
+        { "level": "A1", "fr": "Le canard sauvage nage.", "pt": "O pato selvagem nada." },
+        { "level": "A2-B1", "fr": "Des canards sauvages vivent sur la Loire.", "pt": "Patos selvagens vivem no Loire." },
+        { "level": "B1", "fr": "Les canards sauvages que nous avons vus volaient en groupe.", "pt": "Os patos selvagens que vimos voavam em grupo." },
+        { "level": "C1-C2", "fr": "Le canard sauvage, citoyen du fleuve, ne doit rien à personne.", "pt": "O pato selvagem, cidadão do rio, não deve nada a ninguém." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "titleFr": "La comparaison avec comme",
+    "titlePt": "A comparação com comme",
+    "points": [
+      {
+        "fr": "« comme » introduit une comparaison : « passer comme une flèche » (passar como uma flecha), « bleu comme le ciel » (azul como o céu).",
+        "pt": "« comme » introduz uma comparação: « passer comme une flèche » (passar como uma flecha), « bleu comme le ciel » (azul como o céu)."
+      },
+      {
+        "fr": "Le vocabulaire de l'observation : « observer, regarder, chuchoter, noter, rester immobile ». Exemple : « Nous avons observé les oiseaux sans faire de bruit. »",
+        "pt": "O vocabulário da observação: « observer » (observar), « regarder » (olhar), « chuchoter » (sussurrar), « noter » (anotar), « rester immobile » (ficar imóvel). Exemplo: « Observamos as aves sem fazer barulho. »"
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Quel oiseau reste immobile dans l'eau ?",
+      "options": ["Le héron", "Le martin-pêcheur", "Le moineau", "Le corbeau"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Quelles couleurs a le martin-pêcheur ?",
+      "options": ["Bleu et orange", "Rouge et noir", "Vert et jaune", "Blanc et gris"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Qu'est-ce que le martin-pêcheur a attrapé ?",
+      "options": ["Un poisson", "Une mouche", "Un ver", "Une feuille"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Quel instrument la famille a-t-elle utilisé ?",
+      "options": ["Des jumelles", "Un télescope", "Une caméra", "Un micro"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Que ne regardait pas Irlan quand il était livreur ?",
+      "options": ["Le ciel", "La route", "Son téléphone", "Les clients"],
+      "correctIndex": 0
+    }
+  ]
+}

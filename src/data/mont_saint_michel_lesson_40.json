@@ -1,0 +1,237 @@
+{
+  "id": "mont_saint_michel_lesson_40",
+  "cityId": "mont-saint-michel",
+  "domain": "Aventura & Descoberta",
+  "level": "Básico (A2/B1)",
+  "titleFr": "La traversée de la baie : marcher comme les pèlerins",
+  "titlePt": "A travessia da baía: caminhar como os peregrinos",
+  "subtitleFr": "Bottes aux pieds, un guide et l'horizon ouvert",
+  "subtitlePt": "Botas nos pés, um guia e o horizonte aberto",
+  "summaryPt": "Nesta Aula 40 (A2/B1), a família atravessa a baía a pé com um guia, como faziam os pèlerins antigamente. Eles sentem o sable sob os pés, veem o Mont de longe e aprendem a respeitar a marée. O aluno pratica o vocabulário da caminhada (marcher, traverser, le guide, les bottes) e o contraste imparfait/passé composé.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "« Aujourd'hui, nous allons traverser la baie à pied », a annoncé le guide. « Comme les pèlerins d'autrefois. » La famille a mis ses bottes et a commencé à marcher.",
+      "pt": "« Hoje, vamos atravessar a baía a pé », anunciou o guia. « Como os peregrinos de antigamente. » A família calçou as botas e começou a caminhar."
+    },
+    {
+      "id": 2,
+      "fr": "Le sable était mouillé et brillant. Parfois, les pieds s'enfonçaient un peu. « Ne vous arrêtez jamais quand la mer monte », a dit le guide. « La marée arrive plus vite qu'un cheval au galop. »",
+      "pt": "A areia estava molhada e brilhante. Às vezes, os pés afundavam um pouco. « Nunca parem quando o mar sobe », disse o guia. « A maré chega mais rápido que um cavalo a galope. »"
+    },
+    {
+      "id": 3,
+      "fr": "Au milieu de la baie, Irlan s'est arrêté un instant. Il a regardé le Mont, la mer, le ciel. « C'est comme une carte géographique qui devient réelle », a-t-il murmuré.",
+      "pt": "No meio da baía, Irlan parou um instante. Olhou o Mont, o mar, o céu. « É como um mapa geográfico que se torna real », murmurou."
+    },
+    {
+      "id": 4,
+      "fr": "« Quand j'étais livreur, je traversais Paris chaque jour », a dit Irlan. « Mais aujourd'hui, je traverse le temps. Les pèlerins marchaient ici il y a mille ans. »",
+      "pt": "« Quando eu era entregador, eu atravessava Paris todos os dias », disse Irlan. « Mas hoje, eu atravesso o tempo. Os peregrinos caminhavam aqui há mil anos. »"
+    },
+    {
+      "id": 5,
+      "fr": "Après deux heures, la famille est arrivée au pied du Mont. Iris a levé les yeux : « On a marché sur la mer, maman ! » Andréa a souri : « Non, ma puce. On a marché sur le chemin des pèlerins. »",
+      "pt": "Depois de duas horas, a família chegou ao pé do Mont. Íris levantou os olhos: « A gente caminhou sobre o mar, mamãe! » Andréa sorriu: « Não, minha flor. A gente caminhou no caminho dos peregrinos. »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "traverser",
+      "definitionPt": "atravessar",
+      "definitionFr": "Passer d'un côté à l'autre.",
+      "inflections": ["je traverse", "tu traverses", "il traverse", "nous traversons"],
+      "ptTargets": ["atravessar"],
+      "examples": [
+        { "level": "A1", "fr": "Je traverse la rue.", "pt": "Eu atravesso a rua." },
+        { "level": "A2-B1", "fr": "La famille a traversé la baie à pied.", "pt": "A família atravessou a baía a pé." },
+        { "level": "B2", "fr": "Traverser la baie demande un guide expérimenté.", "pt": "Atravessar a baía exige um guia experiente." },
+        { "level": "C1-C2", "fr": "Traverser la baie, c'est remonter le temps à chaque pas.", "pt": "Atravessar a baía é voltar no tempo a cada passo." }
+      ]
+    },
+    {
+      "term": "le guide",
+      "definitionPt": "o guia",
+      "definitionFr": "Personne qui montre le chemin.",
+      "inflections": ["le guide", "un guide", "des guides"],
+      "ptTargets": ["guia"],
+      "examples": [
+        { "level": "A1", "fr": "Le guide est gentil.", "pt": "O guia é gentil." },
+        { "level": "A2-B1", "fr": "Le guide connaît bien la baie.", "pt": "O guia conhece bem a baía." },
+        { "level": "B2", "fr": "Sans guide, la traversée est dangereuse.", "pt": "Sem guia, a travessia é perigosa." },
+        { "level": "C1-C2", "fr": "Le guide, gardien des savoirs anciens, lit la baie comme un livre.", "pt": "O guia, guardião dos saberes antigos, lê a baía como um livro." }
+      ]
+    },
+    {
+      "term": "les bottes",
+      "definitionPt": "as botas",
+      "definitionFr": "Chaussures hautes qui protègent du froid et de l'eau.",
+      "inflections": ["les bottes", "des bottes", "une botte"],
+      "ptTargets": ["botas"],
+      "examples": [
+        { "level": "A1", "fr": "Les bottes sont noires.", "pt": "As botas são pretas." },
+        { "level": "A2-B1", "fr": "La famille a mis ses bottes pour la traversée.", "pt": "A família calçou as botas para a travessia." },
+        { "level": "B2", "fr": "Les bottes protègent du sable mouillé.", "pt": "As botas protegem da areia molhada." },
+        { "level": "C1-C2", "fr": "Des bottes aux pieds, le pèlerin moderne affronte la baie.", "pt": "De botas nos pés, o peregrino moderno enfrenta a baía." }
+      ]
+    },
+    {
+      "term": "le sable",
+      "definitionPt": "a areia",
+      "definitionFr": "Petits grains qui couvrent les plages.",
+      "inflections": ["le sable", "du sable"],
+      "ptTargets": ["areia"],
+      "examples": [
+        { "level": "A1", "fr": "Le sable est doré.", "pt": "A areia é dourada." },
+        { "level": "A2-B1", "fr": "Le sable était mouillé sous les pieds.", "pt": "A areia estava molhada sob os pés." },
+        { "level": "B2", "fr": "Le sable de la baie change de couleur avec la lumière.", "pt": "A areia da baía muda de cor com a luz." },
+        { "level": "C1-C2", "fr": "Le sable, mémoire fragile, garde nos pas une seule marée.", "pt": "A areia, memória frágil, guarda nossos passos por uma única maré." }
+      ]
+    },
+    {
+      "term": "s'enfoncer",
+      "definitionPt": "afundar",
+      "definitionFr": "Descendre dans quelque chose de mou.",
+      "inflections": ["je m'enfonce", "tu t'enfonces", "il s'enfonce", "nous nous enfonçons"],
+      "ptTargets": ["afundar"],
+      "examples": [
+        { "level": "A1", "fr": "Le pied s'enfonce dans le sable.", "pt": "O pé afunda na areia." },
+        { "level": "A2-B1", "fr": "Parfois, les pieds s'enfonçaient un peu.", "pt": "Às vezes, os pés afundavam um pouco." },
+        { "level": "B2", "fr": "Le guide a montré où les pieds s'enfoncent.", "pt": "O guia mostrou onde os pés afundam." },
+        { "level": "C1-C2", "fr": "Le sable mouvant s'enfonce sous la peur du marcheur.", "pt": "A areia movediça afunda sob o medo do caminhante." }
+      ]
+    },
+    {
+      "term": "le galop",
+      "definitionPt": "o galope",
+      "definitionFr": "Course rapide du cheval.",
+      "inflections": ["le galop", "un galop", "des galops"],
+      "ptTargets": ["galope"],
+      "examples": [
+        { "level": "A1", "fr": "Le cheval va au galop.", "pt": "O cavalo vai a galope." },
+        { "level": "A2-B1", "fr": "La marée arrive plus vite qu'un cheval au galop.", "pt": "A maré chega mais rápido que um cavalo a galope." },
+        { "level": "B2", "fr": "Au galop, le cheval traverse la plage.", "pt": "A galope, o cavalo atravessa a praia." },
+        { "level": "C1-C2", "fr": "La mer, au galop de ses marées, rattrape toujours l'imprudent.", "pt": "O mar, a galope de suas marés, alcança sempre o imprudente." }
+      ]
+    },
+    {
+      "term": "le pèlerin",
+      "definitionPt": "o peregrino",
+      "definitionFr": "Personne qui voyage vers un lieu saint.",
+      "inflections": ["le pèlerin", "un pèlerin", "des pèlerins"],
+      "ptTargets": ["peregrino"],
+      "examples": [
+        { "level": "A1", "fr": "Le pèlerin marche.", "pt": "O peregrino caminha." },
+        { "level": "A2-B1", "fr": "Les pèlerins marchaient vers le Mont.", "pt": "Os peregrinos caminhavam rumo ao Mont." },
+        { "level": "B2", "fr": "Des milliers de pèlerins venaient chaque année.", "pt": "Milhares de peregrinos vinham todos os anos." },
+        { "level": "C1-C2", "fr": "Le pèlerin cherche, à travers la baie, une vérité plus grande que lui.", "pt": "O peregrino procura, através da baía, uma verdade maior que ele." }
+      ]
+    },
+    {
+      "term": "le chemin",
+      "definitionPt": "o caminho",
+      "definitionFr": "Route, direction pour aller quelque part.",
+      "inflections": ["le chemin", "un chemin", "des chemins"],
+      "ptTargets": ["caminho"],
+      "examples": [
+        { "level": "A1", "fr": "Le chemin est long.", "pt": "O caminho é longo." },
+        { "level": "A2-B1", "fr": "On a marché sur le chemin des pèlerins.", "pt": "Caminhamos no caminho dos peregrinos." },
+        { "level": "B2", "fr": "Le chemin devient dangereux quand la mer monte.", "pt": "O caminho fica perigoso quando o mar sobe." },
+        { "level": "C1-C2", "fr": "Chaque chemin de la baie est une invitation au voyage intérieur.", "pt": "Cada caminho da baía é um convite à viagem interior." }
+      ]
+    },
+    {
+      "term": "le ciel",
+      "definitionPt": "o céu",
+      "definitionFr": "L'espace au-dessus de nos têtes.",
+      "inflections": ["le ciel", "un ciel", "des ciels", "des cieux"],
+      "ptTargets": ["céu"],
+      "examples": [
+        { "level": "A1", "fr": "Le ciel est bleu.", "pt": "O céu é azul." },
+        { "level": "A2-B1", "fr": "Le ciel changeait de couleur sur la baie.", "pt": "O céu mudava de cor sobre a baía." },
+        { "level": "B2", "fr": "Nous avons admiré le ciel immense au-dessus du Mont.", "pt": "Admiramos o céu imenso acima do Mont." },
+        { "level": "C1-C2", "fr": "Le ciel et la mer, au Mont, ne font plus qu'un seul horizon.", "pt": "O céu e o mar, no Mont, não formam mais que um só horizonte." }
+      ]
+    },
+    {
+      "term": "la carte",
+      "definitionPt": "o mapa",
+      "definitionFr": "Dessin qui montre les lieux.",
+      "inflections": ["la carte", "une carte", "des cartes"],
+      "ptTargets": ["mapa", "carta"],
+      "examples": [
+        { "level": "A1", "fr": "La carte est sur le mur.", "pt": "O mapa está na parede." },
+        { "level": "A2-B1", "fr": "Irlan connaît bien les cartes géographiques.", "pt": "Irlan conhece bem os mapas geográficos." },
+        { "level": "B2", "fr": "La carte de la baie montre les chemins de sable.", "pt": "O mapa da baía mostra os caminhos de areia." },
+        { "level": "C1-C2", "fr": "La carte n'est qu'un rêve de papier que le voyage rend réel.", "pt": "O mapa não é senão um sonho de papel que a viagem torna real." }
+      ]
+    },
+    {
+      "term": "l'horizon",
+      "definitionPt": "o horizonte",
+      "definitionFr": "Ligne où le ciel rencontre la mer ou la terre.",
+      "inflections": ["l'horizon", "un horizon", "des horizons"],
+      "ptTargets": ["horizonte"],
+      "examples": [
+        { "level": "A1", "fr": "L'horizon est loin.", "pt": "O horizonte é longe." },
+        { "level": "A2-B1", "fr": "L'horizon semblait infini dans la baie.", "pt": "O horizonte parecia infinito na baía." },
+        { "level": "B2", "fr": "Le Mont grandissait à l'horizon.", "pt": "O Mont crescia no horizonte." },
+        { "level": "C1-C2", "fr": "Marcher vers l'horizon, c'est apprendre que la terre est plus grande que nos peurs.", "pt": "Caminhar rumo ao horizonte é aprender que a terra é maior que nossos medos." }
+      ]
+    },
+    {
+      "term": "marcher",
+      "definitionPt": "caminhar, andar",
+      "definitionFr": "Avancer avec les pieds.",
+      "inflections": ["je marche", "tu marches", "il marche", "nous marchons"],
+      "ptTargets": ["caminhar", "andar"],
+      "examples": [
+        { "level": "A1", "fr": "Je marche à l'école.", "pt": "Eu ando até a escola." },
+        { "level": "A2-B1", "fr": "La famille a marché deux heures dans la baie.", "pt": "A família caminhou duas horas na baía." },
+        { "level": "B2", "fr": "Marcher dans la baie demande du courage et un guide.", "pt": "Caminhar na baía exige coragem e um guia." },
+        { "level": "C1-C2", "fr": "Marcher, c'est la plus ancienne des façons de comprendre un pays.", "pt": "Caminhar é a mais antiga das maneiras de compreender um país." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "titleFr": "Le superlatif et les comparaisons",
+    "titlePt": "O superlativo e as comparações",
+    "points": [
+      {
+        "fr": "La comparaison : « plus vite que », « moins vite que », « aussi vite que ». Exemple : « La marée arrive plus vite qu'un cheval au galop. »",
+        "pt": "A comparação: « plus vite que » (mais rápido que), « moins vite que » (menos rápido que), « aussi vite que » (tão rápido quanto). Exemplo: « A maré chega mais rápido que um cavalo a galope. »"
+      },
+      {
+        "fr": "L'imparfait décrit le paysage pendant l'action : « Le sable était mouillé, le ciel changeait, la famille marchait. »",
+        "pt": "O imperfeito descreve a paisagem durante a ação: « A areia estava molhada, o céu mudava, a família caminhava. »"
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Comment la famille traverse-t-elle la baie ?",
+      "options": ["À pied", "En bateau", "En voiture", "En hélicoptère"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Quand ne faut-il jamais s'arrêter ?",
+      "options": ["Quand la mer monte", "Quand il pleut", "Quand on a faim", "Quand le soleil brille"],
+      "correctIndex": 0
+    },
+    {
+      "question": "À quoi Irlan compare-t-il la traversée ?",
+      "options": ["À une carte qui devient réelle", "À un film", "À une chanson", "À un rêve de pizza"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Que disait Irlan de son métier de livreur ?",
+      "options": ["Il traversait Paris chaque jour", "Il dormait toute la journée", "Il n'aimait pas la ville", "Il voyageait en avion"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Combien de temps a duré la traversée ?",
+      "options": ["Deux heures", "Dix minutes", "Une journée", "Une semaine"],
+      "correctIndex": 0
+    }
+  ]
+}

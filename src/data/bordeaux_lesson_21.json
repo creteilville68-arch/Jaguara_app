@@ -1,0 +1,237 @@
+{
+  "id": "bordeaux_lesson_21",
+  "cityId": "bordeaux",
+  "domain": "Natureza e gastronomia",
+  "level": "Intermediário (B1+)",
+  "titleFr": "Le bassin d'Arcachon : les huîtres et les cabanes tchanquées",
+  "titlePt": "A bacia de Arcachon: as ostras e as cabanas tchanquées",
+  "subtitleFr": "En dégustant les huîtres, on apprend le métier des ostréiculteurs",
+  "subtitlePt": "Degustando as ostras, aprende-se o ofício dos ostricultores",
+  "summaryPt": "Nesta Aula 21 (B1+), a família visita o bassin d'Arcachon, famoso pelas ostras e pelas cabanas tchanquées sobre palafitas. O aluno pratica o vocabulário do mar e dos ofícios (l'ostréiculteur, la cabane, la marée) e o gérondif com en + participe présent.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "« Le bassin d'Arcachon produit les deux tiers des huîtres de France », a expliqué Irlan. La famille s'est approchée des parcs à huîtres. « En regardant la mer, on comprend le travail des ostréiculteurs. »",
+      "pt": "« A bacia de Arcachon produz dois terços das ostras da França », explicou Irlan. A família se aproximou dos parques de ostras. « Olhando o mar, entende-se o trabalho dos ostricultores. »"
+    },
+    {
+      "id": 2,
+      "fr": "Les cabanes tchanquées se dressaient sur l'eau, posées sur leurs pilotis. « Elles sont célèbres dans le monde entier », a dit Andréa. « On les voit sur toutes les photos du bassin. » « Elles seraient parfaites pour un livre de coloriage », a souri Iris.",
+      "pt": "As cabanas tchanquées se erguiam sobre a água, apoiadas em suas estacas. « Elas são famosas no mundo inteiro », disse Andréa. « Aparecem em todas as fotos da bacia. » « Elas seriam perfeitas para um livro de colorir », sorriu Íris."
+    },
+    {
+      "id": 3,
+      "fr": "Un ostréiculteur a ouvert des huîtres pour la famille. « En les goûtant, vous sentirez la mer », a-t-il dit. Iris a fait une petite grimace. « Elles sont salées, mais c'est bon ! » « C'est le goût de l'océan », a ri Andréa.",
+      "pt": "Um ostricultor abriu ostras para a família. « Provando-as, vocês sentirão o mar », disse. Íris fez uma caretinha. « São salgadas, mas são boas! » « É o gosto do oceano », riu Andréa."
+    },
+    {
+      "id": 4,
+      "fr": "« Les huîtres grandissent ici pendant trois ans », a raconté l'ostréiculteur. « Il faudrait beaucoup de patience pour ce métier. » Irlan a regardé les parcs : « Quand j'étais livreur, je livrais des plateaux de fruits de mer. Je ne savais pas d'où ils venaient. »",
+      "pt": "« As ostras crescem aqui durante três anos », contou o ostricultor. « Seria preciso muita paciência para esse ofício. » Irlan olhou os parques: « Quando eu era entregador, entregava bandejas de frutos do mar. Não sabia de onde vinham. »"
+    },
+    {
+      "id": 5,
+      "fr": "Le soir, le soleil a couché sur le bassin. Les cabanes tchanquées se sont découpées en ombres chinoises. « En voyant cela, je comprends pourquoi les gens aiment tant ce pays », a murmuré Irlan. « C'est simple, c'est beau, c'est vrai. Comme les mots que j'apprends. »",
+      "pt": "À noite, o sol se pôs sobre a bacia. As cabanas tchanquées se recortaram em sombras chinesas. « Vendo isso, entendo por que as pessoas amam tanto este país », murmurou Irlan. « É simples, é belo, é verdadeiro. Como as palavras que aprendo. »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "le bassin",
+      "definitionPt": "a bacia (baía)",
+      "definitionFr": "Étendue d'eau entourée de terre, près de la mer.",
+      "inflections": ["le bassin", "un bassin", "des bassins"],
+      "ptTargets": ["bacia", "baía"],
+      "examples": [
+        { "level": "A1", "fr": "Le bassin est grand.", "pt": "A bacia é grande." },
+        { "level": "A2-B1", "fr": "Le bassin d'Arcachon est célèbre.", "pt": "A bacia de Arcachon é famosa." },
+        { "level": "B1", "fr": "Le bassin dans lequel on pêche est calme.", "pt": "A bacia na qual se pesca é calma." },
+        { "level": "C1-C2", "fr": "Le bassin, mer de poche, berce les bateaux et les villages.", "pt": "A bacia, mar de bolso, embala os barcos e as vilas." }
+      ]
+    },
+    {
+      "term": "l'huître",
+      "definitionPt": "a ostra",
+      "definitionFr": "Coquillage très apprécié.",
+      "inflections": ["l'huître", "une huître", "des huîtres"],
+      "ptTargets": ["ostra"],
+      "examples": [
+        { "level": "A1", "fr": "L'huître est salée.", "pt": "A ostra é salgada." },
+        { "level": "A2-B1", "fr": "Les huîtres d'Arcachon sont célèbres.", "pt": "As ostras de Arcachon são famosas." },
+        { "level": "B1", "fr": "Les huîtres que l'on goûte ici sont fraîches.", "pt": "As ostras que se provam aqui são frescas." },
+        { "level": "C1-C2", "fr": "L'huître, perle des tables, offre à la France le goût de la mer.", "pt": "A ostra, pérola das mesas, oferece à França o gosto do mar." }
+      ]
+    },
+    {
+      "term": "la cabane",
+      "definitionPt": "a cabana",
+      "definitionFr": "Petite maison en bois.",
+      "inflections": ["la cabane", "une cabane", "des cabanes"],
+      "ptTargets": ["cabana"],
+      "examples": [
+        { "level": "A1", "fr": "La cabane est en bois.", "pt": "A cabana é de madeira." },
+        { "level": "A2-B1", "fr": "Les cabanes tchanquées sont sur l'eau.", "pt": "As cabanas tchanquées estão sobre a água." },
+        { "level": "B1", "fr": "Les cabanes que l'on photographie sont célèbres.", "pt": "As cabanas que se fotografam são famosas." },
+        { "level": "C1-C2", "fr": "La cabane, refuge simple, garde les souvenirs des pêcheurs.", "pt": "A cabana, refúgio simples, guarda as lembranças dos pescadores." }
+      ]
+    },
+    {
+      "term": "le pilotis",
+      "definitionPt": "a palafita, a estaca",
+      "definitionFr": "Pieu qui soutient une construction sur l'eau.",
+      "inflections": ["le pilotis", "un pilotis", "des pilotis"],
+      "ptTargets": ["palafita", "estaca"],
+      "examples": [
+        { "level": "A1", "fr": "Le pilotis est long.", "pt": "A estaca é comprida." },
+        { "level": "A2-B1", "fr": "Les cabanes sont posées sur des pilotis.", "pt": "As cabanas são apoiadas em palafitas." },
+        { "level": "B1", "fr": "Les pilotis qui soutiennent la cabane sont solides.", "pt": "As estacas que sustentam a cabana são sólidas." },
+        { "level": "C1-C2", "fr": "Le pilotis, jambe de bois, permet aux maisons de marcher sur l'eau.", "pt": "A palafita, perna de madeira, permite às casas andar sobre a água." }
+      ]
+    },
+    {
+      "term": "l'ostréiculteur",
+      "definitionPt": "o ostricultor",
+      "definitionFr": "Personne qui élève des huîtres.",
+      "inflections": ["l'ostréiculteur", "un ostréiculteur", "des ostréiculteurs"],
+      "ptTargets": ["ostricultor"],
+      "examples": [
+        { "level": "A1", "fr": "L'ostréiculteur travaille sur l'eau.", "pt": "O ostricultor trabalha na água." },
+        { "level": "A2-B1", "fr": "L'ostréiculteur a ouvert des huîtres.", "pt": "O ostricultor abriu ostras." },
+        { "level": "B1", "fr": "L'ostréiculteur à qui l'on a parlé élève ses huîtres depuis trente ans.", "pt": "O ostricultor com quem se falou cria suas ostras há trinta anos." },
+        { "level": "C1-C2", "fr": "L'ostréiculteur, paysan de la mer, cultive un jardin d'eau salée.", "pt": "O ostricultor, camponês do mar, cultiva um jardim de água salgada." }
+      ]
+    },
+    {
+      "term": "la marée",
+      "definitionPt": "a maré",
+      "definitionFr": "Mouvement de la mer qui monte et descend.",
+      "inflections": ["la marée", "une marée", "des marées"],
+      "ptTargets": ["maré"],
+      "examples": [
+        { "level": "A1", "fr": "La marée monte.", "pt": "A maré sobe." },
+        { "level": "A2-B1", "fr": "La marée change deux fois par jour.", "pt": "A maré muda duas vezes por dia." },
+        { "level": "B1", "fr": "Les huîtres, que la marée couvre, respirent au rythme de l'eau.", "pt": "As ostras, que a maré cobre, respiram ao ritmo da água." },
+        { "level": "C1-C2", "fr": "La marée, horloge de l'océan, règle la vie des gens de la mer.", "pt": "A maré, relógio do oceano, rege a vida das gentes do mar." }
+      ]
+    },
+    {
+      "term": "le parc à huîtres",
+      "definitionPt": "o parque de ostras",
+      "definitionFr": "Terrain sous l'eau où l'on élève des huîtres.",
+      "inflections": ["le parc à huîtres", "un parc à huîtres", "des parcs à huîtres"],
+      "ptTargets": ["parque de ostras"],
+      "examples": [
+        { "level": "A1", "fr": "Le parc à huîtres est sous l'eau.", "pt": "O parque de ostras fica sob a água." },
+        { "level": "A2-B1", "fr": "Les parcs à huîtres couvrent le bassin.", "pt": "Os parques de ostras cobrem a bacia." },
+        { "level": "B1", "fr": "Les parcs à huîtres que l'on voit sont très anciens.", "pt": "Os parques de ostras que se veem são muito antigos." },
+        { "level": "C1-C2", "fr": "Le parc à huîtres, jardin sous-marin, nourrit la France depuis des siècles.", "pt": "O parque de ostras, jardim submarino, alimenta a França há séculos." }
+      ]
+    },
+    {
+      "term": "le plateau",
+      "definitionPt": "a bandeja",
+      "definitionFr": "Grand plat pour servir.",
+      "inflections": ["le plateau", "un plateau", "des plateaux"],
+      "ptTargets": ["bandeja"],
+      "examples": [
+        { "level": "A1", "fr": "Le plateau est lourd.", "pt": "A bandeja é pesada." },
+        { "level": "A2-B1", "fr": "Irlan livrait des plateaux de fruits de mer.", "pt": "Irlan entregava bandejas de frutos do mar." },
+        { "level": "B1", "fr": "Les plateaux que l'on commande ici sont magnifiques.", "pt": "As bandejas que se pedem aqui são magníficas." },
+        { "level": "C1-C2", "fr": "Le plateau, scène des saveurs, présente la mer en tableau.", "pt": "A bandeja, cena dos sabores, apresenta o mar em quadro." }
+      ]
+    },
+    {
+      "term": "déguster",
+      "definitionPt": "degustar",
+      "definitionFr": "Goûter avec attention.",
+      "inflections": ["je déguste", "tu dégustes", "il déguste", "nous dégustons"],
+      "ptTargets": ["degustar"],
+      "examples": [
+        { "level": "A1", "fr": "Je déguste l'huître.", "pt": "Eu degusto a ostra." },
+        { "level": "A2-B1", "fr": "On déguste les huîtres avec du citron.", "pt": "Degustam-se as ostras com limão." },
+        { "level": "B1", "fr": "Les huîtres que l'on déguste ici sont fraîches.", "pt": "As ostras que se degustam aqui são frescas." },
+        { "level": "C1-C2", "fr": "Déguster, art du gourmet, donne au repas le temps qu'il mérite.", "pt": "Degustar, arte do gourmet, dá à refeição o tempo que ela merece." }
+      ]
+    },
+    {
+      "term": "le goût",
+      "definitionPt": "o gosto, o sabor",
+      "definitionFr": "Sensation sur la langue.",
+      "inflections": ["le goût", "un goût", "des goûts"],
+      "ptTargets": ["gosto", "sabor"],
+      "examples": [
+        { "level": "A1", "fr": "Le goût est salé.", "pt": "O gosto é salgado." },
+        { "level": "A2-B1", "fr": "Les huîtres ont le goût de la mer.", "pt": "As ostras têm gosto de mar." },
+        { "level": "B1", "fr": "Le goût que l'on préfère est une affaire personnelle.", "pt": "O gosto que se prefere é uma questão pessoal." },
+        { "level": "C1-C2", "fr": "Le goût, mémoire du palais, se souvient des repas de l'enfance.", "pt": "O gosto, memória do paladar, lembra-se das refeições da infância." }
+      ]
+    },
+    {
+      "term": "le coucher du soleil",
+      "definitionPt": "o pôr do sol",
+      "definitionFr": "Moment où le soleil disparaît.",
+      "inflections": ["le coucher du soleil", "un coucher de soleil", "des couchers de soleil"],
+      "ptTargets": ["pôr do sol"],
+      "examples": [
+        { "level": "A1", "fr": "Le coucher du soleil est beau.", "pt": "O pôr do sol é bonito." },
+        { "level": "A2-B1", "fr": "On a regardé le coucher du soleil.", "pt": "Assistimos ao pôr do sol." },
+        { "level": "B1", "fr": "Le coucher du soleil que l'on a vu était incroyable.", "pt": "O pôr do sol que vimos era incrível." },
+        { "level": "C1-C2", "fr": "Le coucher du soleil, adieu du jour, peint le ciel avec les couleurs du soir.", "pt": "O pôr do sol, adeus do dia, pinta o céu com as cores da noite." }
+      ]
+    },
+    {
+      "term": "l'ombre",
+      "definitionPt": "a sombra",
+      "definitionFr": "Zone sombre faite par la lumière.",
+      "inflections": ["l'ombre", "une ombre", "des ombres"],
+      "ptTargets": ["sombra"],
+      "examples": [
+        { "level": "A1", "fr": "L'ombre est longue.", "pt": "A sombra é comprida." },
+        { "level": "A2-B1", "fr": "Les cabanes font des ombres sur l'eau.", "pt": "As cabanas fazem sombras na água." },
+        { "level": "B1", "fr": "Les ombres que le soir dessine sont belles.", "pt": "As sombras que a noite desenha são bonitas." },
+        { "level": "C1-C2", "fr": "L'ombre, sœur de la lumière, raconte la forme des choses sans les montrer.", "pt": "A sombra, irmã da luz, conta a forma das coisas sem mostrá-las." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "titleFr": "Le gérondif pour les actions simultanées",
+    "titlePt": "O gerúndio para ações simultâneas",
+    "points": [
+      {
+        "fr": "« En + participe présent » exprime une action en même temps qu'une autre : « En goûtant, vous sentirez la mer », « En voyant cela, je comprends ».",
+        "pt": "« En + particípio presente » expressa uma ação simultânea a outra: « En goûtant, vous sentirez la mer » (Provando, vocês sentirão o mar), « En voyant cela, je comprends » (Vendo isso, eu entendo)."
+      },
+      {
+        "fr": "Le participe présent se forme sur « nous » au présent : nous regardons → regardant, nous dégustons → dégustant, nous finissons → finissant.",
+        "pt": "O particípio presente se forma com « nous » no presente: nous regardons → regardant (olhando), nous dégustons → dégustant (degustando), nous finissons → finissant (terminando)."
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Que fração das ostras da França vem do bassin d'Arcachon ?",
+      "options": ["Dois terços", "Um décimo", "A metade", "Tudo"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Sobre o que são construídas as cabanas tchanquées ?",
+      "options": ["Palafitas (pilotis)", "Rochas", "Barcos velhos", "Tijolos"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Durante quanto tempo as ostras crescem ?",
+      "options": ["Três anos", "Três meses", "Três semanas", "Três dias"],
+      "correctIndex": 0
+    },
+    {
+      "question": "O que Irlan entregava sem saber a origem ?",
+      "options": ["Bandejas de frutos do mar", "Flores", "Jornais", "Roupas"],
+      "correctIndex": 0
+    },
+    {
+      "question": "O que Iris achou das ostras ?",
+      "options": ["Salgadas, mas boas", "Doces demais", "Sem gosto", "Amargas"],
+      "correctIndex": 0
+    }
+  ]
+}

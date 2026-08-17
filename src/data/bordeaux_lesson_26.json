@@ -1,0 +1,237 @@
+{
+  "id": "bordeaux_lesson_26",
+  "cityId": "bordeaux",
+  "domain": "Vinhedo e natureza",
+  "level": "Intermediário (B1+)",
+  "titleFr": "Le Sauternais : le vin doré de Sauternes",
+  "titlePt": "O Sauternais: o vinho dourado de Sauternes",
+  "subtitleFr": "Grâce au brouillard de la Garonne, naît un vin unique au monde",
+  "subtitlePt": "Graças à névoa da Garonne, nasce um vinho único no mundo",
+  "summaryPt": "Nesta Aula 26 (B1+), a família descobre Sauternes, a terra do vinho dourado, onde a névoa do outono cria um fenômeno único: a podridão nobre que doceia as uvas. O aluno pratica o vocabulário do vinho (le château, la cave, le tonneau) e as conjunções de causa e finalidade.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "« Sauternes est un village connu dans le monde entier », a dit Irlan. « Ici, on fait un vin doré, doux et rare. » La famille a visité un château au milieu des vignes. « Il faudrait goûter ce vin pour comprendre », a souri le guide.",
+      "pt": "« Sauternes é uma vila conhecida no mundo inteiro », disse Irlan. « Aqui, faz-se um vinho dourado, doce e raro. » A família visitou um castelo no meio dos vinhedos. « Seria preciso provar esse vinho para entender », sorriu o guia."
+    },
+    {
+      "id": 2,
+      "fr": "« Le secret, c'est le brouillard », a expliqué le guide. « En automne, la Garonne envoie une brume douce sur les vignes. Grâce à cette brume, un champignon noble se développe sur les raisins. » Iris a froncé les sourcils : « Un champignon ? C'est bizarre ! »",
+      "pt": "« O segredo é a névoa », explicou o guia. « No outono, a Garonne envia uma bruma suave sobre os vinhedos. Graças a essa bruma, um fungo nobre se desenvolve nas uvas. » Íris franziu a testa: « Um fungo? Que estranho! »"
+    },
+    {
+      "id": 3,
+      "fr": "« Ce champignon s'appelle la pourriture noble », a continué le guide. « Il perce la peau du raisin pour que l'eau s'évapore. Le raisin devient sucré comme du miel. » « C'est pour cela que le vin est doré ! » s'est exclamé Irlan.",
+      "pt": "« Esse fungo se chama podridão nobre », continuou o guia. « Ele fura a casca da uva para que a água evapore. A uva fica doce como mel. » « É por isso que o vinho é dourado! » exclamou Irlan."
+    },
+    {
+      "id": 4,
+      "fr": "Dans la cave, des milliers de bouteilles dormaient dans le calme. « Le vin vieillit ici pour devenir plus riche », a dit le guide. « Il faudrait attendre des années pour boire certaines bouteilles. » Iris a chuchoté : « Elles dorment comme des trésors. »",
+      "pt": "Na adega, milhares de garrafas dormiam na calma. « O vinho envelhece aqui para ficar mais rico », disse o guia. « Seria preciso esperar anos para beber algumas garrafas. » Íris sussurrou: « Elas dormem como tesouros. »"
+    },
+    {
+      "id": 5,
+      "fr": "Au retour, Irlan a dit : « Pour faire du bon vin, il faut du brouillard, du soleil et du temps. Pour apprendre une langue, il faut la même chose : un peu de brume pour hésiter, du soleil pour continuer, et du temps pour mûrir. »",
+      "pt": "Na volta, Irlan disse: « Para fazer bom vinho, é preciso névoa, sol e tempo. Para aprender uma língua, é preciso a mesma coisa: um pouco de bruma para hesitar, sol para continuar e tempo para amadurecer. »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "le brouillard",
+      "definitionPt": "a névoa, o nevoeiro",
+      "definitionFr": "Nuage bas près du sol.",
+      "inflections": ["le brouillard", "un brouillard"],
+      "ptTargets": ["névoa", "nevoeiro", "bruma"],
+      "examples": [
+        { "level": "A1", "fr": "Le brouillard est blanc.", "pt": "A névoa é branca." },
+        { "level": "A2-B1", "fr": "Le brouillard arrive de la Garonne.", "pt": "A névoa vem da Garonne." },
+        { "level": "B1", "fr": "Le brouillard, qui couvre les vignes, fait la réputation de Sauternes.", "pt": "A névoa, que cobre os vinhedos, faz a fama de Sauternes." },
+        { "level": "C1-C2", "fr": "Le brouillard, voile du matin, transforme les vignes en royaume fantôme.", "pt": "A névoa, véu da manhã, transforma os vinhedos em reino fantasma." }
+      ]
+    },
+    {
+      "term": "le champignon",
+      "definitionPt": "o fungo, o cogumelo",
+      "definitionFr": "Être vivant qui pousse dans l'humidité.",
+      "inflections": ["le champignon", "un champignon", "des champignons"],
+      "ptTargets": ["fungo", "cogumelo"],
+      "examples": [
+        { "level": "A1", "fr": "Le champignon est petit.", "pt": "O cogumelo é pequeno." },
+        { "level": "A2-B1", "fr": "Un champignon noble vit sur les raisins.", "pt": "Um fungo nobre vive nas uvas." },
+        { "level": "B1", "fr": "Le champignon qui fait le sauternes est invisible à l'œil nu.", "pt": "O fungo que faz o sauternes é invisível a olho nu." },
+        { "level": "C1-C2", "fr": "Le champignon, artisan invisible, transforme l'eau du raisin en sucre d'or.", "pt": "O fungo, artesão invisível, transforma a água da uva em açúcar de ouro." }
+      ]
+    },
+    {
+      "term": "la pourriture noble",
+      "definitionPt": "a podridão nobre",
+      "definitionFr": "Champignon qui rend le raisin très sucré.",
+      "inflections": ["la pourriture noble"],
+      "ptTargets": ["podridão nobre"],
+      "examples": [
+        { "level": "A1", "fr": "La pourriture noble est spéciale.", "pt": "A podridão nobre é especial." },
+        { "level": "A2-B1", "fr": "La pourriture noble donne le vin doré.", "pt": "A podridão nobre dá o vinho dourado." },
+        { "level": "B1", "fr": "La pourriture noble, que l'on ne trouve pas partout, est précieuse.", "pt": "A podridão nobre, que não se encontra em qualquer lugar, é preciosa." },
+        { "level": "C1-C2", "fr": "La pourriture noble, miracle du brouillard, transforme la maladie en délice.", "pt": "A podridão nobre, milagre da névoa, transforma a doença em deleite." }
+      ]
+    },
+    {
+      "term": "la brume",
+      "definitionPt": "a bruma",
+      "definitionFr": "Léger brouillard.",
+      "inflections": ["la brume", "une brume", "des brumes"],
+      "ptTargets": ["bruma"],
+      "examples": [
+        { "level": "A1", "fr": "La brume est légère.", "pt": "A bruma é leve." },
+        { "level": "A2-B1", "fr": "La brume du matin couvre les vignes.", "pt": "A bruma da manhã cobre os vinhedos." },
+        { "level": "B1", "fr": "La brume grâce à laquelle le vin naît vient du fleuve.", "pt": "A bruma graças à qual o vinho nasce vem do rio." },
+        { "level": "C1-C2", "fr": "La brume, respiration du fleuve, enveloppe la terre d'un secret bienfaisant.", "pt": "A bruma, respiração do rio, envolve a terra com um segredo benfazejo." }
+      ]
+    },
+    {
+      "term": "la cave",
+      "definitionPt": "a adega",
+      "definitionFr": "Lieu souterrain où l'on garde le vin.",
+      "inflections": ["la cave", "une cave", "des caves"],
+      "ptTargets": ["adega"],
+      "examples": [
+        { "level": "A1", "fr": "La cave est fraîche.", "pt": "A adega é fresca." },
+        { "level": "A2-B1", "fr": "Le vin vieillit dans la cave.", "pt": "O vinho envelhece na adega." },
+        { "level": "B1", "fr": "La cave dans laquelle dorment les bouteilles est silencieuse.", "pt": "A adega na qual dormem as garrafas é silenciosa." },
+        { "level": "C1-C2", "fr": "La cave, berceau du vin, garde le temps prisonnier dans ses bouteilles.", "pt": "A adega, berço do vinho, mantém o tempo prisioneiro em suas garrafas." }
+      ]
+    },
+    {
+      "term": "le tonneau",
+      "definitionPt": "o tonel, o barril",
+      "definitionFr": "Grand récipient en bois pour le vin.",
+      "inflections": ["le tonneau", "un tonneau", "des tonneaux"],
+      "ptTargets": ["tonel", "barril"],
+      "examples": [
+        { "level": "A1", "fr": "Le tonneau est en bois.", "pt": "O tonel é de madeira." },
+        { "level": "A2-B1", "fr": "Le vin dort dans les tonneaux.", "pt": "O vinho dorme nos tonéis." },
+        { "level": "B1", "fr": "Les tonneaux dans lesquels le vin vieillit sont en chêne.", "pt": "Os tonéis nos quais o vinho envelhece são de carvalho." },
+        { "level": "C1-C2", "fr": "Le tonneau, maison de bois, donne au vin le goût du temps.", "pt": "O tonel, casa de madeira, dá ao vinho o gosto do tempo." }
+      ]
+    },
+    {
+      "term": "mûrir",
+      "definitionPt": "amadurecer",
+      "definitionFr": "Devenir mûr.",
+      "inflections": ["je mûris", "tu mûris", "il mûrit", "nous mûrissons"],
+      "ptTargets": ["amadurecer"],
+      "examples": [
+        { "level": "A1", "fr": "Le raisin mûrit au soleil.", "pt": "A uva amadurece ao sol." },
+        { "level": "A2-B1", "fr": "Le vin mûrit dans la cave.", "pt": "O vinho amadurece na adega." },
+        { "level": "B1", "fr": "Les saveurs qui mûrissent lentement sont les plus riches.", "pt": "Os sabores que amadurecem devagar são os mais ricos." },
+        { "level": "C1-C2", "fr": "Mûrir, apprentissage du temps, donne au fruit et à l'homme leur profondeur.", "pt": "Amadurecer, aprendizado do tempo, dá ao fruto e ao homem sua profundidade." }
+      ]
+    },
+    {
+      "term": "le miel",
+      "definitionPt": "o mel",
+      "definitionFr": "Produit sucré des abeilles.",
+      "inflections": ["le miel", "un miel", "des miels"],
+      "ptTargets": ["mel"],
+      "examples": [
+        { "level": "A1", "fr": "Le miel est sucré.", "pt": "O mel é doce." },
+        { "level": "A2-B1", "fr": "Le raisin devient sucré comme du miel.", "pt": "A uva fica doce como mel." },
+        { "level": "B1", "fr": "Le miel que l'on goûte ici vient des fleurs.", "pt": "O mel que se prova aqui vem das flores." },
+        { "level": "C1-C2", "fr": "Le miel, or des abeilles, garde l'été dans une cuillère.", "pt": "O mel, ouro das abelhas, guarda o verão numa colher." }
+      ]
+    },
+    {
+      "term": "vieillir",
+      "definitionPt": "envelhecer",
+      "definitionFr": "Devenir plus vieux, gagner en qualité.",
+      "inflections": ["je vieillis", "tu vieillis", "il vieillit", "nous vieillissons"],
+      "ptTargets": ["envelhecer"],
+      "examples": [
+        { "level": "A1", "fr": "Le vin vieillit.", "pt": "O vinho envelhece." },
+        { "level": "A2-B1", "fr": "Le vin vieillit dans la cave.", "pt": "O vinho envelhece na adega." },
+        { "level": "B1", "fr": "Les vins qui vieillissent bien deviennent précieux.", "pt": "Os vinhos que envelhecem bem tornam-se preciosos." },
+        { "level": "C1-C2", "fr": "Vieillir, métamorphose lente, transforme la force en saveur.", "pt": "Envelhecer, metamorfose lenta, transforma a força em sabor." }
+      ]
+    },
+    {
+      "term": "s'évaporer",
+      "definitionPt": "evaporar-se",
+      "definitionFr": "Se transformer en vapeur.",
+      "inflections": ["je m'évapore", "tu t'évapores", "il s'évapore", "nous nous évaporons"],
+      "ptTargets": ["evaporar-se", "evaporar"],
+      "examples": [
+        { "level": "A1", "fr": "L'eau s'évapore.", "pt": "A água evapora." },
+        { "level": "A2-B1", "fr": "L'eau du raisin s'évapore.", "pt": "A água da uva evapora." },
+        { "level": "B1", "fr": "L'eau qui s'évapore laisse le sucre dans le fruit.", "pt": "A água que evapora deixa o açúcar na fruta." },
+        { "level": "C1-C2", "fr": "S'évaporer, départ discret, laisse derrière soi l'essentiel.", "pt": "Evaporar-se, partida discreta, deixa atrás de si o essencial." }
+      ]
+    },
+    {
+      "term": "le trésor",
+      "definitionPt": "o tesouro",
+      "definitionFr": "Chose très précieuse.",
+      "inflections": ["le trésor", "un trésor", "des trésors"],
+      "ptTargets": ["tesouro"],
+      "examples": [
+        { "level": "A1", "fr": "Le trésor est caché.", "pt": "O tesouro está escondido." },
+        { "level": "A2-B1", "fr": "Les bouteilles dorment comme des trésors.", "pt": "As garrafas dormem como tesouros." },
+        { "level": "B1", "fr": "Les trésors que la cave garde valent de l'or.", "pt": "Os tesouros que a adega guarda valem ouro." },
+        { "level": "C1-C2", "fr": "Le trésor, patience devenue matière, récompense ceux qui savent attendre.", "pt": "O tesouro, paciência virada matéria, recompensa os que sabem esperar." }
+      ]
+    },
+    {
+      "term": "rare",
+      "definitionPt": "raro",
+      "definitionFr": "Qui existe en petite quantité.",
+      "inflections": ["rare", "rares"],
+      "ptTargets": ["raro"],
+      "examples": [
+        { "level": "A1", "fr": "Le vin est rare.", "pt": "O vinho é raro." },
+        { "level": "A2-B1", "fr": "Le sauternes est un vin rare.", "pt": "O sauternes é um vinho raro." },
+        { "level": "B1", "fr": "Les vins rares que l'on goûte ici sont précieux.", "pt": "Os vinhos raros que se provam aqui são preciosos." },
+        { "level": "C1-C2", "fr": "Rare, adjectif d'exception, rend précieux ce que le temps a choisi.", "pt": "Raro, adjetivo de exceção, torna precioso o que o tempo escolheu." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "titleFr": "La cause et la finalité : grâce à, pour que, pour",
+    "titlePt": "A causa e a finalidade: grâce à, pour que, pour",
+    "points": [
+      {
+        "fr": "« Grâce à » + nom : cause positive : « Grâce à cette brume, un champignon se développe. »",
+        "pt": "« Grâce à » + substantivo: causa positiva: « Grâce à cette brume, un champignon se développe » (Graças a essa bruma, um fungo se desenvolve)."
+      },
+      {
+        "fr": "« Pour que » + subjonctif : finalité : « Il perce la peau pour que l'eau s'évapore. » « Pour » + infinitif : « Pour faire du bon vin, il faut du temps. »",
+        "pt": "« Pour que » + subjuntivo: finalidade: « Il perce la peau pour que l'eau s'évapore » (Ele fura a casca para que a água evapore). « Pour » + infinitivo: « Pour faire du bon vin, il faut du temps » (Para fazer bom vinho, é preciso tempo)."
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "O que torna Sauternes único no mundo ?",
+      "options": ["A névoa que cria a podridão nobre", "O clima quente do deserto", "As montanhas", "O mar salgado"],
+      "correctIndex": 0
+    },
+    {
+      "question": "O que a podridão nobre faz com a uva ?",
+      "options": ["Fura a casca para a água evaporar", "Apodrece a videira toda", "Mata a planta", "Deixa a uva amarga"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Como fica o raisin depois do fungo ?",
+      "options": ["Doce como mel", "Azedo", "Sem gosto", "Salgado"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Onde o vinho envelhece ?",
+      "options": ["Na cave (adega)", "No campo", "No telhado", "No rio"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Segundo Irlan, o que é preciso para aprender uma língua ?",
+      "options": ["Névoa, sol e tempo", "Dinheiro e pressa", "Livros e canetas", "Frio e chuva"],
+      "correctIndex": 0
+    }
+  ]
+}

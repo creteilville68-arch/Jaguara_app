@@ -1,0 +1,252 @@
+{
+  "id": "mont_saint_michel_lesson_9",
+  "cityId": "mont-saint-michel",
+  "domain": "Natureza",
+  "level": "Básico (A2/B1)",
+  "titleFr": "Le coucher du soleil : un moment hors du temps",
+  "titlePt": "O pôr do sol: um momento fora do tempo",
+  "subtitleFr": "Les couleurs dorées, la brume sur la baie et l'émotion partagée",
+  "subtitlePt": "As cores douradas, a bruma sobre a baía e a emoção compartilhada",
+  "summaryPt": "Nesta Aula 9 (A2/B1), a família assiste ao pôr do sol sobre a baía: o céu fica dourado e rosa, a bruma cobre o sable e o vento se acalma. É um momento de silêncio e emoção. O aluno aprende o Imparfait para sentimentos e atmosfera (il faisait froid, le vent soufflait) e o 'soudain' com o Passé Composé para eventos inesperados.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Le soir, la famille est montée sur les remparts pour regarder le coucher du soleil. Le ciel devenait doré, puis rose, puis violet.",
+      "pt": "À noite, a família subiu às muralhas para ver o pôr do sol. O céu ficava dourado, depois rosa, depois violeta."
+    },
+    {
+      "id": 2,
+      "fr": "La brume montait doucement sur la baie. Il faisait froid, mais personne ne voulait partir. Le silence était profond.",
+      "pt": "A bruma subia suavemente sobre a baía. Fazia frio, mas ninguém queria ir embora. O silêncio era profundo."
+    },
+    {
+      "id": 3,
+      "fr": "Soudain, un banc de mouettes a traversé le ciel. Íris a crié de joie et tout le monde a ri sur les remparts.",
+      "pt": "De repente, um bando de gaivotas atravessou o céu. Íris gritou de alegria e todos riram nas muralhas."
+    },
+    {
+      "id": 4,
+      "fr": "Irlan a regardé Andréa et a murmuré : « C'est le plus beau soir de notre voyage. » La famille est redescendue, le cœur plein de lumière.",
+      "pt": "Irlan olhou para Andréa e murmurou: « É a noite mais bonita da nossa viagem. » A família desceu, com o coração cheio de luz."
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "le coucher du soleil",
+      "definitionPt": "o pôr do sol",
+      "definitionFr": "Moment où le soleil disparaît à l'horizon.",
+      "inflections": ["le coucher du soleil", "les couchers de soleil"],
+      "ptTargets": ["pôr do sol"],
+      "examples": [
+        { "level": "A1", "fr": "Le coucher du soleil est beau.", "pt": "O pôr do sol é bonito." },
+        { "level": "A2-B1", "fr": "Nous avons regardé le coucher du soleil sur la baie.", "pt": "Vimos o pôr do sol sobre a baía." },
+        { "level": "B2", "fr": "Le coucher du soleil embrase le ciel et la mer.", "pt": "O pôr do sol incendeia o céu e o mar." },
+        { "level": "C1-C2", "fr": "Le coucher du soleil sur la baie est un spectacle naturel d'une beauté bouleversante.", "pt": "O pôr do sol sobre a baía é um espetáculo natural de beleza comovente." }
+      ]
+    },
+    {
+      "term": "le soir",
+      "definitionPt": "a noite (começo da noite)",
+      "definitionFr": "Fin de la journée.",
+      "inflections": ["le soir", "les soirs"],
+      "ptTargets": ["noite"],
+      "examples": [
+        { "level": "A1", "fr": "Le soir, je me repose.", "pt": "À noite, eu descanso." },
+        { "level": "A2-B1", "fr": "Le soir, la baie devient calme.", "pt": "À noite, a baía fica calma." },
+        { "level": "B2", "fr": "Les soirs d'été, la terrasse est magnifique.", "pt": "Nas noites de verão, o terraço é magnífico." },
+        { "level": "C1-C2", "fr": "Les soirs d'automne, la brume enveloppe le Mont d'un voile mystérieux.", "pt": "Nas noites de outono, a bruma envolve o Mont com um véu misterioso." }
+      ]
+    },
+    {
+      "term": "la couleur",
+      "definitionPt": "a cor",
+      "definitionFr": "Aspect visuel des choses.",
+      "inflections": ["la couleur", "les couleurs"],
+      "ptTargets": ["cor"],
+      "examples": [
+        { "level": "A1", "fr": "La couleur est rouge.", "pt": "A cor é vermelha." },
+        { "level": "A2-B1", "fr": "Les couleurs du ciel changeaient sans cesse.", "pt": "As cores do céu mudavam sem parar." },
+        { "level": "B2", "fr": "Les couleurs dorées du soir illuminaient la baie.", "pt": "As cores douradas da noite iluminavam a baía." },
+        { "level": "C1-C2", "fr": "La palette de couleurs du crépuscule normand a inspiré d'innombrables peintres.", "pt": "A paleta de cores do crepúsculo normando inspirou inúmeros pintores." }
+      ]
+    },
+    {
+      "term": "doré",
+      "definitionPt": "dourado",
+      "definitionFr": "De la couleur de l'or.",
+      "inflections": ["doré", "dorée", "dorés"],
+      "ptTargets": ["dourado"],
+      "examples": [
+        { "level": "A1", "fr": "Le soleil est doré.", "pt": "O sol é dourado." },
+        { "level": "A2-B1", "fr": "Le ciel devenait doré au coucher du soleil.", "pt": "O céu ficava dourado ao pôr do sol." },
+        { "level": "B2", "fr": "La lumière dorée éclairait la façade de l'abbaye.", "pt": "A luz dourada iluminava a fachada da abadia." },
+        { "level": "C1-C2", "fr": "Les reflets dorés sur la grève humide créent une atmosphère irréelle.", "pt": "Os reflexos dourados no areal úmido criam uma atmosfera irreal." }
+      ]
+    },
+    {
+      "term": "rose",
+      "definitionPt": "rosa",
+      "definitionFr": "Couleur entre le rouge et le blanc.",
+      "inflections": ["rose", "roses"],
+      "ptTargets": ["rosa"],
+      "examples": [
+        { "level": "A1", "fr": "La fleur est rose.", "pt": "A flor é rosa." },
+        { "level": "A2-B1", "fr": "Le ciel est devenu rose au coucher du soleil.", "pt": "O céu ficou rosa ao pôr do sol." },
+        { "level": "B2", "fr": "Les nuages roses flottaient au-dessus de la baie.", "pt": "As nuvens rosas flutuavam sobre a baía." },
+        { "level": "C1-C2", "fr": "La teinte rose du crépuscule se reflète sur les pierres du Mont.", "pt": "O tom rosa do crepúsculo se reflete nas pedras do Mont." }
+      ]
+    },
+    {
+      "term": "la brume",
+      "definitionPt": "a bruma, o nevoeiro",
+      "definitionFr": "Brouillard léger.",
+      "inflections": ["la brume", "les brumes"],
+      "ptTargets": ["bruma"],
+      "examples": [
+        { "level": "A1", "fr": "La brume est blanche.", "pt": "A bruma é branca." },
+        { "level": "A2-B1", "fr": "La brume montait doucement sur la baie.", "pt": "A bruma subia suavemente sobre a baía." },
+        { "level": "B2", "fr": "La brume du soir enveloppe le Mont d'un voile mystérieux.", "pt": "A bruma da noite envolve o Mont com um véu misterioso." },
+        { "level": "C1-C2", "fr": "La brume, mêlée au sable et à la mer, brouille les frontières entre les éléments.", "pt": "A bruma, misturada à areia e ao mar, embaralha as fronteiras entre os elementos." }
+      ]
+    },
+    {
+      "term": "le vent",
+      "definitionPt": "o vento",
+      "definitionFr": "Air qui se déplace.",
+      "inflections": ["le vent", "les vents"],
+      "ptTargets": ["vento"],
+      "examples": [
+        { "level": "A1", "fr": "Le vent souffle.", "pt": "O vento sopra." },
+        { "level": "A2-B1", "fr": "Le vent soufflait fort sur les remparts.", "pt": "O vento soprava forte nas muralhas." },
+        { "level": "B2", "fr": "Le vent s'est calmé juste après le coucher du soleil.", "pt": "O vento se acalmou logo após o pôr do sol." },
+        { "level": "C1-C2", "fr": "Le vent de la baie, constant et puissant, façonne les dunes et les prés.", "pt": "O vento da baía, constante e poderoso, molda as dunas e os prados." }
+      ]
+    },
+    {
+      "term": "observer",
+      "definitionPt": "observar",
+      "definitionFr": "Regarder avec attention.",
+      "inflections": ["j'observe", "nous observons", "observé"],
+      "ptTargets": ["observar"],
+      "examples": [
+        { "level": "A1", "fr": "J'observe les oiseaux.", "pt": "Eu observo os pássaros." },
+        { "level": "A2-B1", "fr": "Nous avons observé le changement des couleurs.", "pt": "Observamos a mudança das cores." },
+        { "level": "B2", "fr": "Les visiteurs observaient la marée en silence.", "pt": "Os visitantes observavam a maré em silêncio." },
+        { "level": "C1-C2", "fr": "Observer la nature dans cette baie, c'est assister à un spectacle perpétuel.", "pt": "Observar a natureza nessa baía é assistir a um espetáculo perpétuo." }
+      ]
+    },
+    {
+      "term": "se reposer",
+      "definitionPt": "descansar",
+      "definitionFr": "Se détendre, reprendre des forces.",
+      "inflections": ["je me repose", "nous nous reposons", "se reposer"],
+      "ptTargets": ["descansar"],
+      "examples": [
+        { "level": "A1", "fr": "Je me repose le dimanche.", "pt": "Eu descanso no domingo." },
+        { "level": "A2-B1", "fr": "La famille s'est reposée après la longue marche.", "pt": "A família descansou depois da longa caminhada." },
+        { "level": "B2", "fr": "Le silence de la baie invite à se reposer l'esprit.", "pt": "O silêncio da baía convida a descansar a mente." },
+        { "level": "C1-C2", "fr": "Se reposer au rythme des marées est une leçon de lenteur précieuse.", "pt": "Descansar no ritmo das marés é uma lição de lentidão preciosa." }
+      ]
+    },
+    {
+      "term": "paisible",
+      "definitionPt": "pacífico, tranquilo",
+      "definitionFr": "Calme, sans agitation.",
+      "inflections": ["paisible", "paisibles"],
+      "ptTargets": ["pacífico"],
+      "examples": [
+        { "level": "A1", "fr": "Le lac est paisible.", "pt": "O lago é pacífico." },
+        { "level": "A2-B1", "fr": "La baie était paisible au coucher du soleil.", "pt": "A baía estava pacífica ao pôr do sol." },
+        { "level": "B2", "fr": "L'atmosphère paisible du soir invitait à la rêverie.", "pt": "A atmosfera pacífica da noite convidava ao devaneio." },
+        { "level": "C1-C2", "fr": "La sérénité paisible du lieu contraste avec la puissance brutale des marées.", "pt": "A serenidade pacífica do lugar contrasta com a força brutal das marés." }
+      ]
+    },
+    {
+      "term": "émouvant",
+      "definitionPt": "comovente",
+      "definitionFr": "Qui touche les émotions.",
+      "inflections": ["émouvant", "émouvante", "émouvants"],
+      "ptTargets": ["comovente"],
+      "examples": [
+        { "level": "A1", "fr": "Le film est émouvant.", "pt": "O filme é comovente." },
+        { "level": "A2-B1", "fr": "Le coucher du soleil était vraiment émouvant.", "pt": "O pôr do sol foi realmente comovente." },
+        { "level": "B2", "fr": "Ce moment de silence partagé était très émouvant.", "pt": "Esse momento de silêncio compartilhado foi muito comovente." },
+        { "level": "C1-C2", "fr": "La beauté émouvante du site touche profondément tous ceux qui le contemplent.", "pt": "A beleza comovente do sítio toca profundamente todos os que o contemplam." }
+      ]
+    },
+    {
+      "term": "la mer",
+      "definitionPt": "o mar",
+      "definitionFr": "Grande étendue d'eau salée.",
+      "inflections": ["la mer", "les mers"],
+      "ptTargets": ["mar"],
+      "examples": [
+        { "level": "A1", "fr": "La mer est bleue.", "pt": "O mar é azul." },
+        { "level": "A2-B1", "fr": "La mer se confondait avec le ciel à l'horizon.", "pt": "O mar se confundia com o céu no horizonte." },
+        { "level": "B2", "fr": "Le reflet de la mer éclairait les remparts.", "pt": "O reflexo do mar iluminava as muralhas." },
+        { "level": "C1-C2", "fr": "Le dialogue entre la mer et la terre dessine le paysage le plus mouvant d'Europe.", "pt": "O diálogo entre o mar e a terra desenha a paisagem mais mutante da Europa." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "L'Imparfait pour l'atmosphère et les sentiments",
+    "explanationPt": "O Imparfait descreve atmosfera, clima e sentimentos no passado: 'il faisait froid' (fazia frio), 'le vent soufflait' (o vento soprava), 'le silence était profond' (o silêncio era profundo).",
+    "exampleFr": "Il faisait froid, mais personne ne voulait partir.",
+    "examplePt": "Fazia frio, mas ninguém queria ir embora.",
+    "practiceQuestion": "Complete com o Imparfait: « Le ciel ___ doré. »",
+    "options": ["devenait", "est devenu", "devient"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "La météo et l'atmosphère au passé",
+        "explanationPt": "Meteorologia e sensações no passado: 'il faisait froid', 'la brume montait', 'le vent soufflait'.",
+        "exampleFr": "La brume montait doucement sur la baie.",
+        "examplePt": "A bruma subia suavemente sobre a baía.",
+        "practiceQuestion": "Qual frase descreve a atmosfera no passado?",
+        "options": ["Le vent soufflait fort.", "Le vent a soufflé fort.", "Le vent soufflera fort."],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "'Soudain' + Passé Composé",
+        "explanationPt": "Um evento inesperado interrompe o cenário: 'Soudain, un banc de mouettes a traversé le ciel'.",
+        "exampleFr": "Soudain, Íris a crié de joie.",
+        "examplePt": "De repente, Íris gritou de alegria.",
+        "practiceQuestion": "Complete: « Soudain, les mouettes ___ le ciel. »",
+        "options": ["ont traversé", "traversaient", "traverseront"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Onde a família assistiu ao pôr do sol?",
+      "options": ["nos remparts", "na Grande Rue", "no estacionamento"],
+      "correctIndex": 0,
+      "explanation": "A família subiu aos remparts para ver o pôr do sol."
+    },
+    {
+      "question": "Que cores o céu assumiu no pôr do sol?",
+      "options": ["dourado, rosa e violeta", "preto e branco", "apenas azul"],
+      "correctIndex": 0,
+      "explanation": "O céu ficou dourado, depois rosa, depois violeta."
+    },
+    {
+      "question": "Complete com o Imparfait: « Il ___ froid. »",
+      "options": ["faisait", "a fait", "fera"],
+      "correctIndex": 0,
+      "explanation": "Clima no passado: il faisait froid."
+    },
+    {
+      "question": "O que interrompeu o silêncio de repente?",
+      "options": ["um bando de gaivotas", "uma música alta", "um trem"],
+      "correctIndex": 0,
+      "explanation": "Soudain, um bando de gaivotas atravessou o céu."
+    },
+    {
+      "question": "O que Irlan disse a Andréa?",
+      "options": ["que era a noite mais bonita da viagem", "que queria voltar", "que estava com fome"],
+      "correctIndex": 0,
+      "explanation": "Irlan murmurou: 'C'est le plus beau soir de notre voyage'."
+    }
+  ]
+}

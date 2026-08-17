@@ -1,0 +1,237 @@
+{
+  "id": "bordeaux_lesson_39",
+  "cityId": "bordeaux",
+  "domain": "Arte e cidade",
+  "level": "Intermediário (B1+)",
+  "titleFr": "Le street art : le MUR de la place Saint-Martial",
+  "titlePt": "A arte de rua: o MUR da place Saint-Martial",
+  "subtitleFr": "En regardant les murs, on lit une autre histoire de la ville",
+  "subtitlePt": "Olhando os muros, lê-se outra história da cidade",
+  "summaryPt": "Nesta Aula 39 (B1+), a família descobre o street art de Bordeaux, especialmente o MUR da place Saint-Martial, onde artistas pintam um novo mural a cada duas semanas. O aluno pratica o vocabulário da arte (le mur, l'artiste, la fresque) e as estruturas comparativas.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "« Bordeaux est aussi une galerie à ciel ouvert », a dit Irlan. « Regarde ce grand mur, place Saint-Martial : c'est le MUR. Toutes les deux semaines, un artiste y peint une nouvelle fresque. » Iris a ouvert de grands yeux : « Un nouveau tableau toutes les deux semaines ? »",
+      "pt": "« Bordeaux também é uma galeria a céu aberto », disse Irlan. « Olhe aquele muro grande, na place Saint-Martial: é o MUR. A cada duas semanas, um artista pinta ali uma nova pintura mural. » Íris arregalou os olhos: « Um quadro novo a cada duas semanas? »"
+    },
+    {
+      "id": 2,
+      "fr": "La fresque du jour montrait un grand poisson volant au-dessus de la ville. « L'artiste l'a peinte en trois jours », a expliqué une passante. « Grâce à ce mur, les artistes du monde entier viennent à Bordeaux. » « Il faudrait revenir dans deux semaines pour voir la prochaine ! » a dit Iris.",
+      "pt": "A pintura do dia mostrava um grande peixe voador sobre a cidade. « O artista a pintou em três dias », explicou uma passante. « Graças a este muro, artistas do mundo inteiro vêm a Bordeaux. » « Seria preciso voltar daqui a duas semanas para ver a próxima! » disse Íris."
+    },
+    {
+      "id": 3,
+      "fr": "Plus loin, les murs des bassins à flot racontaient d'autres histoires : des visages, des animaux, des couleurs. « En comparant les fresques, on voit le style de chaque artiste », a dit Andréa. « Chacune est plus surprenante que l'autre. »",
+      "pt": "Mais adiante, os muros dos bassins à flot contavam outras histórias: rostos, animais, cores. « Comparando as pinturas, vê-se o estilo de cada artista », disse Andréa. « Cada uma é mais surpreendente que a outra. »"
+    },
+    {
+      "id": 4,
+      "fr": "Iris a trouvé une petite fresque cachée dans une ruelle : un chat géant qui dormait sur un toit. « Je la préfère à toutes les autres ! » a-t-elle dit. « Le street art, c'est la ville qui se raconte sans demander la permission », a souri Irlan.",
+      "pt": "Íris achou uma pintura pequena escondida numa ruela: um gato gigante dormindo num telhado. « Eu a prefiro a todas as outras! » disse. « A arte de rua é a cidade se contando sem pedir permissão », sorriu Irlan."
+    },
+    {
+      "id": 5,
+      "fr": "Le soir, Iris a dessiné sa propre fresque : la scooter d'Irlan qui volait au-dessus de la Garonne, avec des ailes de couleurs. « Je la montrerais bien à l'artiste du MUR », a-t-elle dit. « Peut-être qu'il l'aimerait », a répondu Irlan. « Et peut-être qu'un jour, ce sera toi qui peindras le MUR. »",
+      "pt": "À noite, Íris desenhou sua própria pintura: a scooter de Irlan voando sobre a Garonne, com asas coloridas. « Eu bem que a mostraria ao artista do MUR », disse. « Talvez ele goste dela », respondeu Irlan. « E talvez, um dia, seja você quem pintará o MUR. »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "le street art",
+      "definitionPt": "a arte de rua",
+      "definitionFr": "Art peint dans les rues.",
+      "inflections": ["le street art"],
+      "ptTargets": ["arte de rua", "street art"],
+      "examples": [
+        { "level": "A1", "fr": "Le street art est coloré.", "pt": "A arte de rua é colorida." },
+        { "level": "A2-B1", "fr": "Le street art est partout à Bordeaux.", "pt": "A arte de rua está em toda parte em Bordeaux." },
+        { "level": "B1", "fr": "Le street art, que l'on voit dans les rues, change la ville.", "pt": "A arte de rua, que se vê nas ruas, muda a cidade." },
+        { "level": "C1-C2", "fr": "Le street art, galerie sans toit, offre l'art à ceux qui ne le cherchent pas.", "pt": "A arte de rua, galeria sem teto, oferece a arte a quem não a procura." }
+      ]
+    },
+    {
+      "term": "la fresque",
+      "definitionPt": "a pintura mural, o mural",
+      "definitionFr": "Grande peinture sur un mur.",
+      "inflections": ["la fresque", "une fresque", "des fresques"],
+      "ptTargets": ["pintura mural", "mural", "afresco"],
+      "examples": [
+        { "level": "A1", "fr": "La fresque est grande.", "pt": "A pintura mural é grande." },
+        { "level": "A2-B1", "fr": "La fresque du MUR change toutes les deux semaines.", "pt": "A pintura do MUR muda a cada duas semanas." },
+        { "level": "B1", "fr": "Les fresques que l'on voit racontent des histoires.", "pt": "As pinturas murais que se veem contam histórias." },
+        { "level": "C1-C2", "fr": "La fresque, page du mur, s'écrit avec des couleurs et des rêves.", "pt": "A pintura mural, página do muro, escreve-se com cores e sonhos." }
+      ]
+    },
+    {
+      "term": "l'artiste",
+      "definitionPt": "o artista",
+      "definitionFr": "Personne qui crée de l'art.",
+      "inflections": ["l'artiste", "un artiste", "des artistes"],
+      "ptTargets": ["artista"],
+      "examples": [
+        { "level": "A1", "fr": "L'artiste peint.", "pt": "O artista pinta." },
+        { "level": "A2-B1", "fr": "Les artistes viennent du monde entier.", "pt": "Os artistas vêm do mundo inteiro." },
+        { "level": "B1", "fr": "L'artiste qui a peint cette fresque est célèbre.", "pt": "O artista que pintou esta pintura mural é famoso." },
+        { "level": "C1-C2", "fr": "L'artiste, rêveur exigeant, donne au mur une âme de plus.", "pt": "O artista, sonhador exigente, dá ao muro mais uma alma." }
+      ]
+    },
+    {
+      "term": "le mur",
+      "definitionPt": "o muro, a parede",
+      "definitionFr": "Paroi où l'on peint.",
+      "inflections": ["le mur", "un mur", "des murs"],
+      "ptTargets": ["muro", "parede"],
+      "examples": [
+        { "level": "A1", "fr": "Le mur est blanc.", "pt": "O muro é branco." },
+        { "level": "A2-B1", "fr": "Les murs de la ville sont peints.", "pt": "Os muros da cidade são pintados." },
+        { "level": "B1", "fr": "Les murs que l'on regarde racontent la ville.", "pt": "Os muros que se olham contam a cidade." },
+        { "level": "C1-C2", "fr": "Le mur, toile du peuple, devient musée sans demander l'avis de personne.", "pt": "O muro, tela do povo, vira museu sem pedir a opinião de ninguém." }
+      ]
+    },
+    {
+      "term": "peindre",
+      "definitionPt": "pintar",
+      "definitionFr": "Couvrir de couleurs.",
+      "inflections": ["je peins", "tu peins", "il peint", "nous peignons"],
+      "ptTargets": ["pintar"],
+      "examples": [
+        { "level": "A1", "fr": "Je peins une fleur.", "pt": "Eu pinto uma flor." },
+        { "level": "A2-B1", "fr": "L'artiste a peint une fresque en trois jours.", "pt": "O artista pintou uma pintura mural em três dias." },
+        { "level": "B1", "fr": "Les murs que l'on peint changent la rue.", "pt": "Os muros que se pintam mudam a rua." },
+        { "level": "C1-C2", "fr": "Peindre, geste de liberté, laisse des couleurs sur les gris du monde.", "pt": "Pintar, gesto de liberdade, deixa cores sobre os cinzas do mundo." }
+      ]
+    },
+    {
+      "term": "surprenant",
+      "definitionPt": "surpreendente",
+      "definitionFr": "Qui étonne.",
+      "inflections": ["surprenant", "surprenante", "surprenants", "surprenantes"],
+      "ptTargets": ["surpreendente"],
+      "examples": [
+        { "level": "A1", "fr": "Le tableau est surprenant.", "pt": "O quadro é surpreendente." },
+        { "level": "A2-B1", "fr": "Les fresques sont surprenantes.", "pt": "As pinturas murais são surpreendentes." },
+        { "level": "B1", "fr": "Les œuvres que l'on trouve ici sont surprenantes.", "pt": "As obras que se encontram aqui são surpreendentes." },
+        { "level": "C1-C2", "fr": "Surprenant, adjectif du génie, arrête le passant dans sa course.", "pt": "Surpreendente, adjetivo do gênio, para o passante em sua corrida." }
+      ]
+    },
+    {
+      "term": "le passant",
+      "definitionPt": "o passante",
+      "definitionFr": "Personne qui passe dans la rue.",
+      "inflections": ["le passant", "un passant", "des passants"],
+      "ptTargets": ["passante"],
+      "examples": [
+        { "level": "A1", "fr": "Le passant regarde.", "pt": "O passante olha." },
+        { "level": "A2-B1", "fr": "Les passants admirent la fresque.", "pt": "Os passantes admiram a pintura mural." },
+        { "level": "B1", "fr": "Les passants que la fresque arrête sourient.", "pt": "Os passantes que a pintura para sorriem." },
+        { "level": "C1-C2", "fr": "Le passant, spectateur du hasard, reçoit l'art sans billet.", "pt": "O passante, espectador do acaso, recebe a arte sem bilhete." }
+      ]
+    },
+    {
+      "term": "la ruelle",
+      "definitionPt": "a ruela, o beco",
+      "definitionFr": "Petite rue étroite.",
+      "inflections": ["la ruelle", "une ruelle", "des ruelles"],
+      "ptTargets": ["ruela", "beco"],
+      "examples": [
+        { "level": "A1", "fr": "La ruelle est étroite.", "pt": "A ruela é estreita." },
+        { "level": "A2-B1", "fr": "La fresque est cachée dans une ruelle.", "pt": "A pintura mural está escondida numa ruela." },
+        { "level": "B1", "fr": "Les ruelles que l'on explore cachent des trésors.", "pt": "As ruelas que se exploram escondem tesouros." },
+        { "level": "C1-C2", "fr": "La ruelle, veine secrète, garde les surprises de la ville.", "pt": "A ruela, veia secreta, guarda as surpresas da cidade." }
+      ]
+    },
+    {
+      "term": "caché",
+      "definitionPt": "escondido",
+      "definitionFr": "Difficile à trouver.",
+      "inflections": ["caché", "cachée", "cachés", "cachées"],
+      "ptTargets": ["escondido"],
+      "examples": [
+        { "level": "A1", "fr": "Le trésor est caché.", "pt": "O tesouro está escondido." },
+        { "level": "A2-B1", "fr": "La fresque est cachée dans une ruelle.", "pt": "A pintura mural está escondida numa ruela." },
+        { "level": "B1", "fr": "Les œuvres cachées que l'on trouve sont les plus belles.", "pt": "As obras escondidas que se encontram são as mais belas." },
+        { "level": "C1-C2", "fr": "Caché, secret des rues, attend que l'œil curieux le découvre.", "pt": "Escondido, segredo das ruas, espera que o olho curioso o descubra." }
+      ]
+    },
+    {
+      "term": "le style",
+      "definitionPt": "o estilo",
+      "definitionFr": "Manière propre à un artiste.",
+      "inflections": ["le style", "un style", "des styles"],
+      "ptTargets": ["estilo"],
+      "examples": [
+        { "level": "A1", "fr": "Le style est moderne.", "pt": "O estilo é moderno." },
+        { "level": "A2-B1", "fr": "Chaque artiste a son style.", "pt": "Cada artista tem seu estilo." },
+        { "level": "B1", "fr": "Les styles que l'on compare sont différents.", "pt": "Os estilos que se comparam são diferentes." },
+        { "level": "C1-C2", "fr": "Le style, signature invisible, reconnaît l'artiste sans son nom.", "pt": "O estilo, assinatura invisível, reconhece o artista sem seu nome." }
+      ]
+    },
+    {
+      "term": "l'aile",
+      "definitionPt": "a asa",
+      "definitionFr": "Partie qui permet de voler.",
+      "inflections": ["l'aile", "une aile", "des ailes"],
+      "ptTargets": ["asa"],
+      "examples": [
+        { "level": "A1", "fr": "L'aile est blanche.", "pt": "A asa é branca." },
+        { "level": "A2-B1", "fr": "Le poisson volant a de grandes ailes.", "pt": "O peixe voador tem asas grandes." },
+        { "level": "B1", "fr": "Les ailes que l'on dessine sont colorées.", "pt": "As asas que se desenham são coloridas." },
+        { "level": "C1-C2", "fr": "L'aile, promesse du vol, libère les rêves de la pesanteur.", "pt": "A asa, promessa do voo, liberta os sonhos da gravidade." }
+      ]
+    },
+    {
+      "term": "la permission",
+      "definitionPt": "a permissão",
+      "definitionFr": "Autorisation.",
+      "inflections": ["la permission", "une permission", "des permissions"],
+      "ptTargets": ["permissão"],
+      "examples": [
+        { "level": "A1", "fr": "La permission est nécessaire.", "pt": "A permissão é necessária." },
+        { "level": "A2-B1", "fr": "La ville raconte sans demander la permission.", "pt": "A cidade se conta sem pedir permissão." },
+        { "level": "B1", "fr": "Les artistes, qui peignent sans permission, surprennent.", "pt": "Os artistas, que pintam sem permissão, surpreendem." },
+        { "level": "C1-C2", "fr": "La permission, frontière du possible, choisit qui peut créer.", "pt": "A permissão, fronteira do possível, escolhe quem pode criar." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "titleFr": "Les comparatifs avec les pronoms",
+    "titlePt": "Os comparativos com pronomes",
+    "points": [
+      {
+        "fr": "Comparatifs : « plus surprenante que, aussi belle que, moins colorée que ». Exemple : « Chacune est plus surprenante que l'autre. »",
+        "pt": "Comparativos: « plus surprenante que » (mais surpreendente que), « aussi belle que » (tão bela quanto), « moins colorée que » (menos colorida que). Exemplo: « Chacune est plus surprenante que l'autre » (Cada uma é mais surpreendente que a outra)."
+      },
+      {
+        "fr": "« Je la préfère à toutes les autres » : pronom COD (la) avant le verbe. « Je la montrerais bien à l'artiste » : conditionnel + pronom.",
+        "pt": "« Je la préfère à toutes les autres » (Eu a prefiro a todas as outras): pronome COD (la) antes do verbo. « Je la montrerais bien à l'artiste » (Eu bem que a mostraria ao artista): conditionnel + pronome."
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Onde fica o MUR de Bordeaux ?",
+      "options": ["Place Saint-Martial", "Na estação", "No estádio", "No parque"],
+      "correctIndex": 0
+    },
+    {
+      "question": "De quanto em quanto tempo o MUR muda ?",
+      "options": ["A cada duas semanas", "Todo ano", "A cada hora", "Nunca"],
+      "correctIndex": 0
+    },
+    {
+      "question": "O que a fresca do dia mostrava ?",
+      "options": ["Um peixe voador sobre a cidade", "Um gato gigante", "Uma scooter", "Uma flor"],
+      "correctIndex": 0
+    },
+    {
+      "question": "O que Iris achou numa ruela escondida ?",
+      "options": ["Um gato gigante dormindo num telhado", "Um tesouro", "Uma porta secreta", "Um jardim"],
+      "correctIndex": 0
+    },
+    {
+      "question": "O que Iris desenhou à noite ?",
+      "options": ["A scooter voando sobre a Garonne", "O Miroir d'eau", "O estádio", "O mercado"],
+      "correctIndex": 0
+    }
+  ]
+}

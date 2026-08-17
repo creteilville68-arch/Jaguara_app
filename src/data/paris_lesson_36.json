@@ -1,0 +1,252 @@
+{
+  "id": "paris_lesson_36",
+  "cityId": "paris",
+  "domain": "Natureza & Estações",
+  "level": "Iniciante (A1)",
+  "titleFr": "Les saisons et la météo à Paris",
+  "titlePt": "As estações e o tempo em Paris",
+  "subtitleFr": "Le printemps, l'été, l'automne et l'hiver parisiens",
+  "subtitlePt": "A primavera, o verão, o outono e o inverno parisienses",
+  "summaryPt": "Nesta Aula 36 (A1), a família fala das quatro estações e do tempo em Paris. O aluno aprende o vocabulário do clima (printemps, été, automne, hiver, soleil, pluie, neige) e as expressões 'il fait beau' e 'il y a du soleil'.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "À Paris, il y a quatre saisons. Au printemps, il fait doux et les arbres sont verts. En été, il fait chaud et il y a du soleil. « J'aime l'été, dit Iris. On mange des glaces au parc ! »",
+      "pt": "Em Paris, há quatro estações. Na primavera, faz ameno e as árvores ficam verdes. No verão, faz calor e há sol. « Gosto do verão, diz Íris. A gente come sorvete no parque! »"
+    },
+    {
+      "id": 2,
+      "fr": "En automne, il pleut souvent et il y a des nuages. Les feuilles tombent des arbres. « L'automne, c'est la saison des parapluies », rit Andréa. « Et des marrons chauds ! » ajoute Irlan.",
+      "pt": "No outono, chove muito e há nuvens. As folhas caem das árvores. « O outono é a estação dos guarda-chuvas », ri Andréa. « E das castanhas quentes! » acrescenta Irlan."
+    },
+    {
+      "id": 3,
+      "fr": "En hiver, il fait froid et il neige parfois. Les enfants font des bonhommes de neige. « J'adore la neige ! » crie Iris. « Mais il faut mettre un manteau, une écharpe et des gants », dit Andréa.",
+      "pt": "No inverno, faz frio e às vezes neva. As crianças fazem bonecos de neve. « Adoro a neve! » grita Íris. « Mas é preciso vestir casaco, cachecol e luvas », diz Andréa."
+    },
+    {
+      "id": 4,
+      "fr": "Ce matin, Irlan regarde la météo sur son téléphone. « Aujourd'hui, il fait beau : il y a du soleil et pas de nuages. C'est parfait pour la promenade ! » La famille sort ensemble, heureuse sous le ciel bleu de Paris.",
+      "pt": "Esta manhã, Irlan olha a previsão do tempo no celular. « Hoje faz tempo bom: tem sol e não há nuvens. É perfeito para o passeio! » A família sai junta, feliz sob o céu azul de Paris."
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "la saison",
+      "definitionPt": "a estação (do ano)",
+      "definitionFr": "Période de l'année.",
+      "inflections": ["la saison", "une saison", "des saisons"],
+      "ptTargets": ["estação", "estação do ano"],
+      "examples": [
+        { "level": "A1", "fr": "L'année a quatre saisons.", "pt": "O ano tem quatro estações." },
+        { "level": "A2-B1", "fr": "À Paris, chaque saison est différente.", "pt": "Em Paris, cada estação é diferente." },
+        { "level": "B2", "fr": "Les saisons rythment la vie de la ville.", "pt": "As estações ritmam a vida da cidade." },
+        { "level": "C1-C2", "fr": "C'est la saison qui, tour à tour, transforme le visage de Paris.", "pt": "É a estação que, uma a uma, transforma o rosto de Paris." }
+      ]
+    },
+    {
+      "term": "le printemps",
+      "definitionPt": "a primavera",
+      "definitionFr": "Saison après l'hiver.",
+      "inflections": ["le printemps", "un printemps", "des printemps"],
+      "ptTargets": ["primavera"],
+      "examples": [
+        { "level": "A1", "fr": "Le printemps est doux.", "pt": "A primavera é amena." },
+        { "level": "A2-B1", "fr": "Au printemps, les arbres sont verts.", "pt": "Na primavera, as árvores ficam verdes." },
+        { "level": "B2", "fr": "Le printemps parisien est célèbre pour ses cerisiers en fleurs.", "pt": "A primavera parisiense é famosa por suas cerejeiras em flor." },
+        { "level": "C1-C2", "fr": "C'est au printemps que la ville se réveille et s'habille de fleurs.", "pt": "É na primavera que a cidade desperta e se veste de flores." }
+      ]
+    },
+    {
+      "term": "l'été",
+      "definitionPt": "o verão",
+      "definitionFr": "Saison chaude.",
+      "inflections": ["l'été", "un été", "des étés"],
+      "ptTargets": ["verão"],
+      "examples": [
+        { "level": "A1", "fr": "L'été est chaud.", "pt": "O verão é quente." },
+        { "level": "A2-B1", "fr": "En été, il y a du soleil à Paris.", "pt": "No verão, há sol em Paris." },
+        { "level": "B2", "fr": "L'été, les Parisiens partent en vacances au bord de la mer.", "pt": "No verão, os parisienses viajam de férias para o litoral." },
+        { "level": "C1-C2", "fr": "C'est l'été qui, lumineux, offre à Paris ses plus longues soirées.", "pt": "É o verão que, luminoso, oferece a Paris suas noites mais longas." }
+      ]
+    },
+    {
+      "term": "l'automne",
+      "definitionPt": "o outono",
+      "definitionFr": "Saison après l'été.",
+      "inflections": ["l'automne", "un automne", "des automnes"],
+      "ptTargets": ["outono"],
+      "examples": [
+        { "level": "A1", "fr": "L'automne est frais.", "pt": "O outono é fresco." },
+        { "level": "A2-B1", "fr": "En automne, il pleut souvent.", "pt": "No outono, chove muito." },
+        { "level": "B2", "fr": "L'automne colore les parcs de rouge et d'or.", "pt": "O outono colore os parques de vermelho e dourado." },
+        { "level": "C1-C2", "fr": "C'est l'automne qui, mélancolique, inspire les poètes parisiens.", "pt": "É o outono que, melancólico, inspira os poetas parisienses." }
+      ]
+    },
+    {
+      "term": "l'hiver",
+      "definitionPt": "o inverno",
+      "definitionFr": "Saison froide.",
+      "inflections": ["l'hiver", "un hiver", "des hivers"],
+      "ptTargets": ["inverno"],
+      "examples": [
+        { "level": "A1", "fr": "L'hiver est froid.", "pt": "O inverno é frio." },
+        { "level": "A2-B1", "fr": "En hiver, il neige parfois à Paris.", "pt": "No inverno, às vezes neva em Paris." },
+        { "level": "B2", "fr": "L'hiver parisien est gris mais charmant.", "pt": "O inverno parisiense é cinza, mas charmoso." },
+        { "level": "C1-C2", "fr": "C'est l'hiver qui, silencieux, donne à la ville ses matins dorés.", "pt": "É o inverno que, silencioso, dá à cidade suas manhãs douradas." }
+      ]
+    },
+    {
+      "term": "le soleil",
+      "definitionPt": "o sol",
+      "definitionFr": "Astre qui éclaire la Terre.",
+      "inflections": ["le soleil", "un soleil", "des soleils"],
+      "ptTargets": ["sol"],
+      "examples": [
+        { "level": "A1", "fr": "Le soleil brille.", "pt": "O sol brilha." },
+        { "level": "A2-B1", "fr": "Il y a du soleil aujourd'hui.", "pt": "Há sol hoje." },
+        { "level": "B2", "fr": "Le soleil de Paris est doux et clair.", "pt": "O sol de Paris é doce e claro." },
+        { "level": "C1-C2", "fr": "C'est le soleil qui, levant, dore les toits de la ville.", "pt": "É o sol que, ao nascer, dourá os telhados da cidade." }
+      ]
+    },
+    {
+      "term": "la pluie",
+      "definitionPt": "a chuva",
+      "definitionFr": "Eau qui tombe du ciel.",
+      "inflections": ["la pluie", "une pluie", "des pluies"],
+      "ptTargets": ["chuva"],
+      "examples": [
+        { "level": "A1", "fr": "La pluie tombe.", "pt": "A chuva cai." },
+        { "level": "A2-B1", "fr": "En automne, la pluie est fréquente.", "pt": "No outono, a chuva é frequente." },
+        { "level": "B2", "fr": "La pluie fine de Paris est douce au visage.", "pt": "A chuva fina de Paris é suave no rosto." },
+        { "level": "C1-C2", "fr": "C'est la pluie qui, après la pluie, fait briller les rues.", "pt": "É a chuva que, depois de cair, faz brilhar as ruas." }
+      ]
+    },
+    {
+      "term": "la neige",
+      "definitionPt": "a neve",
+      "definitionFr": "Eau gelée qui tombe du ciel.",
+      "inflections": ["la neige", "une neige", "des neiges"],
+      "ptTargets": ["neve"],
+      "examples": [
+        { "level": "A1", "fr": "La neige est blanche.", "pt": "A neve é branca." },
+        { "level": "A2-B1", "fr": "En hiver, il neige parfois.", "pt": "No inverno, às vezes neva." },
+        { "level": "B2", "fr": "La neige, rare à Paris, enchante les enfants.", "pt": "A neve, rara em Paris, encanta as crianças." },
+        { "level": "C1-C2", "fr": "C'est la neige qui, en tombant, rend la ville silencieuse et magique.", "pt": "É a neve que, ao cair, torna a cidade silenciosa e mágica." }
+      ]
+    },
+    {
+      "term": "le nuage",
+      "definitionPt": "a nuvem",
+      "definitionFr": "Masse visible dans le ciel.",
+      "inflections": ["le nuage", "un nuage", "des nuages"],
+      "ptTargets": ["nuvem"],
+      "examples": [
+        { "level": "A1", "fr": "Le nuage est blanc.", "pt": "A nuvem é branca." },
+        { "level": "A2-B1", "fr": "Il y a des nuages aujourd'hui.", "pt": "Há nuvens hoje." },
+        { "level": "B2", "fr": "Les nuages gris annoncent la pluie.", "pt": "As nuvens cinzas anunciam chuva." },
+        { "level": "C1-C2", "fr": "C'est le nuage qui, léger, traverse le ciel de Paris.", "pt": "É a nuvem que, leve, atravessa o céu de Paris." }
+      ]
+    },
+    {
+      "term": "le manteau",
+      "definitionPt": "o casaco",
+      "definitionFr": "Vêtement chaud pour l'hiver.",
+      "inflections": ["le manteau", "un manteau", "des manteaux"],
+      "ptTargets": ["casaco"],
+      "examples": [
+        { "level": "A1", "fr": "Le manteau est chaud.", "pt": "O casaco é quente." },
+        { "level": "A2-B1", "fr": "Il faut mettre un manteau en hiver.", "pt": "É preciso vestir um casaco no inverno." },
+        { "level": "B2", "fr": "Le manteau, bien choisi, protège du froid parisien.", "pt": "O casaco, bem escolhido, protege do frio parisiense." },
+        { "level": "C1-C2", "fr": "C'est le manteau qui, porté, dit l'élégance d'une époque.", "pt": "É o casaco que, usado, diz a elegância de uma época." }
+      ]
+    },
+    {
+      "term": "la météo",
+      "definitionPt": "a previsão do tempo",
+      "definitionFr": "Prévision du temps.",
+      "inflections": ["la météo", "une météo", "des météos"],
+      "ptTargets": ["previsão do tempo", "tempo"],
+      "examples": [
+        { "level": "A1", "fr": "La météo est bonne.", "pt": "A previsão do tempo está boa." },
+        { "level": "A2-B1", "fr": "Irlan regarde la météo sur son téléphone.", "pt": "Irlan olha a previsão no celular." },
+        { "level": "B2", "fr": "La météo annonce du soleil pour le week-end.", "pt": "A previsão anuncia sol para o fim de semana." },
+        { "level": "C1-C2", "fr": "C'est la météo qui, incertaine, organise nos vies et nos espoirs.", "pt": "É a previsão que, incerta, organiza nossas vidas e esperanças." }
+      ]
+    },
+    {
+      "term": "il fait beau",
+      "definitionPt": "faz tempo bom",
+      "definitionFr": "Le temps est agréable.",
+      "inflections": ["il fait beau", "il faisait beau"],
+      "ptTargets": ["faz tempo bom", "o tempo está bom"],
+      "examples": [
+        { "level": "A1", "fr": "Aujourd'hui, il fait beau.", "pt": "Hoje faz tempo bom." },
+        { "level": "A2-B1", "fr": "S'il fait beau, nous allons au parc.", "pt": "Se fizer tempo bom, vamos ao parque." },
+        { "level": "B2", "fr": "Il fait beau, c'est parfait pour la promenade.", "pt": "Faz tempo bom, é perfeito para o passeio." },
+        { "level": "C1-C2", "fr": "C'est quand il fait beau que Paris révèle toute sa beauté.", "pt": "É quando faz tempo bom que Paris revela toda sua beleza." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Il fait + adjectif : a expressão do tempo",
+    "explanationPt": "Para descrever o tempo: 'il fait beau' (faz tempo bom), 'il fait chaud' (faz calor), 'il fait froid' (faz frio), 'il fait doux' (faz ameno). Usa-se 'il fait', não 'está'.",
+    "exampleFr": "Au printemps, il fait doux. En été, il fait chaud. En hiver, il fait froid.",
+    "examplePt": "Na primavera, faz ameno. No verão, faz calor. No inverno, faz frio.",
+    "practiceQuestion": "Complete: 'Aujourd'hui, il _____ beau.'",
+    "options": ["fait", "est", "a"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "Il y a + article : a presença",
+        "explanationPt": "Para dizer o que existe: 'il y a du soleil' (há sol), 'il y a des nuages' (há nuvens), 'il y a de la neige' (há neve).",
+        "exampleFr": "Aujourd'hui, il y a du soleil et pas de nuages.",
+        "examplePt": "Hoje, há sol e não há nuvens.",
+        "practiceQuestion": "Complete: 'Il y a _____ soleil.'",
+        "options": ["du", "de la", "des"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "Les saisons : en ou au ?",
+        "explanationPt": "Com as estações: 'au printemps', 'en été', 'en automne', 'en hiver'. Ex.: 'En hiver, il neige parfois.'",
+        "exampleFr": "En hiver, il neige parfois à Paris.",
+        "examplePt": "No inverno, às vezes neva em Paris.",
+        "practiceQuestion": "Complete: '_____ hiver, il neige.'",
+        "options": ["En", "Au", "Dans"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Quantas estações tem o ano?",
+      "options": ["quatro", "duas", "seis"],
+      "correctIndex": 0,
+      "explanation": "L'année a quatre saisons."
+    },
+    {
+      "question": "O que acontece no outono em Paris?",
+      "options": ["chove muito e as folhas caem", "neva sempre", "faz muito calor"],
+      "correctIndex": 0,
+      "explanation": "En automne, il pleut souvent et les feuilles tombent."
+    },
+    {
+      "question": "O que as crianças fazem no inverno?",
+      "options": ["bonecos de neve", "castelos de areia", "piqueniques"],
+      "correctIndex": 0,
+      "explanation": "Les enfants font des bonhommes de neige."
+    },
+    {
+      "question": "Complete: 'Aujourd'hui, il _____ beau.'",
+      "options": ["fait", "est", "a"],
+      "correctIndex": 0,
+      "explanation": "O tempo usa 'il fait': il fait beau."
+    },
+    {
+      "question": "Complete: '_____ hiver, il neige.'",
+      "options": ["En", "Au", "Dans"],
+      "correctIndex": 0,
+      "explanation": "En hiver: no inverno."
+    }
+  ]
+}

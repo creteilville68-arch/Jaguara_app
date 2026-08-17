@@ -1,0 +1,252 @@
+{
+  "id": "lille_lesson_19",
+  "cityId": "lille",
+  "domain": "Cotidiano",
+  "level": "Básico (A2)",
+  "titleFr": "La gare Lille Europe : la porte de l'Europe",
+  "titlePt": "A gare Lille Europe: a porta da Europa",
+  "subtitleFr": "En 1994, l'Eurostar a rapproché Lille de Londres et de Bruxelles",
+  "subtitlePt": "Em 1994, o Eurostar aproximou Lille de Londres e Bruxelas",
+  "summaryPt": "Nesta Aula 19 (A2), a família descobre a gare Lille Europe, inaugurada em 1994 para o TGV e o Eurostar, que liga Lille a Londres em cerca de 1h20 e a Bruxelas em 40 minutos. Irlan sonha levar a família a Londres. O aluno pratica o Futur Proche (nous allons prendre) e o verbo prendre no transporte.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "La gare Lille Europe est immense et pleine de lumière. « D'ici, on va à Londres en une heure vingt », a dit Irlan. « Et à Bruxelles, en quarante minutes ! »",
+      "pt": "A gare Lille Europe é imensa e cheia de luz. « Daqui, vamos a Londres em uma hora e vinte », disse Irlan. « E a Bruxelas, em quarenta minutos! »"
+    },
+    {
+      "id": 2,
+      "fr": "Ils ont regardé le tableau des départs. « Nous allons prendre l'Eurostar un jour », a rêvé Andréa. « Nous allons voir le Big Ben et la Tour de Londres. »",
+      "pt": "Eles olharam o painel de partidas. « Vamos pegar o Eurostar um dia », sonhou Andréa. « Vamos ver o Big Ben e a Torre de Londres. »"
+    },
+    {
+      "id": 3,
+      "fr": "Íris a demandé : « Le train va sous la mer ? » Irlan a ri : « Oui, il passe dans un tunnel sous la Manche, long de cinquante kilomètres. »",
+      "pt": "Íris perguntou: « O trem passa sob o mar? » Irlan riu: « Sim, ele passa num túnel sob o Canal da Mancha, com cinquenta quilômetros de extensão. »"
+    },
+    {
+      "id": 4,
+      "fr": "En sortant, Irlan a regardé les quais. « Quand j'étais livreur, je venais ici livrer des valises oubliées. Aujourd'hui, je regarde les départs avec mes rêves. »",
+      "pt": "Ao sair, Irlan olhou as plataformas. « Quando eu era entregador, vinha aqui entregar malas esquecidas. Hoje, olho as partidas com meus sonhos. »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "la gare",
+      "definitionPt": "a estação (de trem)",
+      "definitionFr": "Bâtiment où s'arrêtent les trains.",
+      "inflections": ["la gare", "une gare", "des gares"],
+      "ptTargets": ["estação", "gare"],
+      "examples": [
+        { "level": "A1", "fr": "La gare est grande.", "pt": "A estação é grande." },
+        { "level": "A2-B1", "fr": "La gare Lille Europe a ouvert en 1994.", "pt": "A gare Lille Europe abriu em 1994." },
+        { "level": "B2", "fr": "La gare est un lieu de départs et de retrouvailles.", "pt": "A estação é um lugar de partidas e reencontros." },
+        { "level": "C1-C2", "fr": "Chaque gare raconte les histoires de ceux qui partent et de ceux qui attendent.", "pt": "Cada estação conta as histórias dos que partem e dos que esperam." }
+      ]
+    },
+    {
+      "term": "le départ",
+      "definitionPt": "a partida",
+      "definitionFr": "Action de partir.",
+      "inflections": ["le départ", "un départ", "des départs"],
+      "ptTargets": ["partida", "saída"],
+      "examples": [
+        { "level": "A1", "fr": "Le départ est à neuf heures.", "pt": "A partida é às nove horas." },
+        { "level": "A2-B1", "fr": "Le tableau des départs montre tous les trains.", "pt": "O painel de partidas mostra todos os trens." },
+        { "level": "B2", "fr": "Les départs se succèdent toutes les dix minutes.", "pt": "As partidas se sucedem a cada dez minutos." },
+        { "level": "C1-C2", "fr": "Il y a dans chaque départ une promesse de découverte.", "pt": "Há em cada partida uma promessa de descoberta." }
+      ]
+    },
+    {
+      "term": "l'arrivée",
+      "definitionPt": "a chegada",
+      "definitionFr": "Action d'arriver.",
+      "inflections": ["l'arrivée", "une arrivée", "des arrivées"],
+      "ptTargets": ["chegada"],
+      "examples": [
+        { "level": "A1", "fr": "L'arrivée est à dix heures.", "pt": "A chegada é às dez horas." },
+        { "level": "A2-B1", "fr": "L'arrivée à Londres est en gare Saint-Pancras.", "pt": "A chegada a Londres é na Saint-Pancras." },
+        { "level": "B2", "fr": "L'arrivée du TGV a transformé la vie de la région.", "pt": "A chegada do TGV transformou a vida da região." },
+        { "level": "C1-C2", "fr": "Entre le départ et l'arrivée, il y a tout un monde à traverser.", "pt": "Entre a partida e a chegada, há um mundo inteiro a atravessar." }
+      ]
+    },
+    {
+      "term": "le tableau",
+      "definitionPt": "o painel, o quadro",
+      "definitionFr": "Panneau d'affichage ; tableau noir.",
+      "inflections": ["le tableau", "un tableau", "des tableaux"],
+      "ptTargets": ["painel", "quadro"],
+      "examples": [
+        { "level": "A1", "fr": "Le tableau est grand.", "pt": "O painel é grande." },
+        { "level": "A2-B1", "fr": "Le tableau des départs indique les quais.", "pt": "O painel de partidas indica as plataformas." },
+        { "level": "B2", "fr": "Le tableau lumineux annonce les retards en direct.", "pt": "O painel luminoso anuncia os atrasos ao vivo." },
+        { "level": "C1-C2", "fr": "Le tableau des départs est une carte des rêves possibles.", "pt": "O painel de partidas é um mapa dos sonhos possíveis." }
+      ]
+    },
+    {
+      "term": "le tunnel",
+      "definitionPt": "o túnel",
+      "definitionFr": "Passage creusé sous terre ou sous l'eau.",
+      "inflections": ["le tunnel", "un tunnel", "des tunnels"],
+      "ptTargets": ["túnel"],
+      "examples": [
+        { "level": "A1", "fr": "Le tunnel est long.", "pt": "O túnel é longo." },
+        { "level": "A2-B1", "fr": "Le train passe dans le tunnel sous la Manche.", "pt": "O trem passa no túnel sob o Canal da Mancha." },
+        { "level": "B2", "fr": "Le tunnel sous la Manche mesure cinquante kilomètres.", "pt": "O túnel sob o Canal da Mancha mede cinquenta quilômetros." },
+        { "level": "C1-C2", "fr": "Le tunnel a rapproché deux îles et deux mondes.", "pt": "O túnel aproximou duas ilhas e dois mundos." }
+      ]
+    },
+    {
+      "term": "la mer",
+      "definitionPt": "o mar",
+      "definitionFr": "Grande étendue d'eau salée.",
+      "inflections": ["la mer", "une mer", "des mers"],
+      "ptTargets": ["mar"],
+      "examples": [
+        { "level": "A1", "fr": "La mer est bleue.", "pt": "O mar é azul." },
+        { "level": "A2-B1", "fr": "Le train passe sous la mer.", "pt": "O trem passa sob o mar." },
+        { "level": "B2", "fr": "De Lille, la mer n'est qu'à une heure de route.", "pt": "De Lille, o mar fica a apenas uma hora de estrada." },
+        { "level": "C1-C2", "fr": "La Manche, cette petite mer, sépare et relie deux nations.", "pt": "A Mancha, esse pequeno mar, separa e liga duas nações." }
+      ]
+    },
+    {
+      "term": "le quai",
+      "definitionPt": "a plataforma (de estação)",
+      "definitionFr": "Plateforme où montent les voyageurs.",
+      "inflections": ["le quai", "un quai", "des quais"],
+      "ptTargets": ["plataforma", "cais"],
+      "examples": [
+        { "level": "A1", "fr": "Le train est au quai trois.", "pt": "O trem está na plataforma três." },
+        { "level": "A2-B1", "fr": "Nous sommes montés sur le quai numéro deux.", "pt": "Subimos na plataforma número dois." },
+        { "level": "B2", "fr": "Les quais de la gare étaient pleins de voyageurs.", "pt": "As plataformas da estação estavam cheias de viajantes." },
+        { "level": "C1-C2", "fr": "Sur le quai, les adieux ont la couleur des départs.", "pt": "Na plataforma, os adeuses têm a cor das partidas." }
+      ]
+    },
+    {
+      "term": "rêver",
+      "definitionPt": "sonhar",
+      "definitionFr": "Imaginer, souhaiter.",
+      "inflections": ["je rêve", "nous rêvons", "rêvé"],
+      "ptTargets": ["sonhar"],
+      "examples": [
+        { "level": "A1", "fr": "Je rêve la nuit.", "pt": "Sonho à noite." },
+        { "level": "A2-B1", "fr": "Andréa rêve de voir Londres.", "pt": "Andréa sonha em ver Londres." },
+        { "level": "B2", "fr": "Irlan a rêvé de cette vie avant même de partir du Brésil.", "pt": "Irlan sonhou com esta vida antes mesmo de partir do Brasil." },
+        { "level": "C1-C2", "fr": "Rêver, c'est tracer la carte des possibles.", "pt": "Sonhar é traçar o mapa dos possíveis." }
+      ]
+    },
+    {
+      "term": "la valise",
+      "definitionPt": "a mala",
+      "definitionFr": "Bagage que l'on porte à la main.",
+      "inflections": ["la valise", "une valise", "des valises"],
+      "ptTargets": ["mala"],
+      "examples": [
+        { "level": "A1", "fr": "La valise est lourde.", "pt": "A mala é pesada." },
+        { "level": "A2-B1", "fr": "Il a oublié sa valise à la gare.", "pt": "Ele esqueceu a mala na estação." },
+        { "level": "B2", "fr": "Les valises oubliées sont souvent livrées par les livreurs.", "pt": "As malas esquecidas são muitas vezes entregues pelos entregadores." },
+        { "level": "C1-C2", "fr": "Dans chaque valise, il y a la vie qu'on emporte et celle qu'on laisse.", "pt": "Em cada mala, há a vida que se leva e a que se deixa." }
+      ]
+    },
+    {
+      "term": "oublier",
+      "definitionPt": "esquecer",
+      "definitionFr": "Ne plus se souvenir.",
+      "inflections": ["j'oublie", "nous oublions", "oublié"],
+      "ptTargets": ["esquecer"],
+      "examples": [
+        { "level": "A1", "fr": "J'oublie mon parapluie.", "pt": "Esqueço meu guarda-chuva." },
+        { "level": "A2-B1", "fr": "Il a oublié sa valise sur le quai.", "pt": "Ele esqueceu a mala na plataforma." },
+        { "level": "B2", "fr": "N'oublie pas de prendre tes billets !", "pt": "Não esqueça de pegar suas passagens!" },
+        { "level": "C1-C2", "fr": "On oublie les objets, mais jamais les gares où l'on a aimé attendre.", "pt": "Esquecemos os objetos, mas nunca as estações onde amamos esperar." }
+      ]
+    },
+    {
+      "term": "voyager",
+      "definitionPt": "viajar",
+      "definitionFr": "Faire un voyage.",
+      "inflections": ["je voyage", "nous voyageons", "voyagé"],
+      "ptTargets": ["viajar"],
+      "examples": [
+        { "level": "A1", "fr": "J'aime voyager.", "pt": "Gosto de viajar." },
+        { "level": "A2-B1", "fr": "On peut voyager à Londres en train depuis Lille.", "pt": "Pode-se viajar a Londres de trem desde Lille." },
+        { "level": "B2", "fr": "Elle a beaucoup voyagé avant de s'installer en France.", "pt": "Ela viajou muito antes de se estabelecer na França." },
+        { "level": "C1-C2", "fr": "Voyager, c'est grandir en regardant le monde autrement.", "pt": "Viajar é crescer olhando o mundo de outra forma." }
+      ]
+    },
+    {
+      "term": "l'Europe",
+      "definitionPt": "a Europa",
+      "definitionFr": "Continent ; union des pays européens.",
+      "inflections": ["l'Europe", "en Europe", "européen"],
+      "ptTargets": ["Europa"],
+      "examples": [
+        { "level": "A1", "fr": "L'Europe est grande.", "pt": "A Europa é grande." },
+        { "level": "A2-B1", "fr": "Lille Europe est la gare du train européen.", "pt": "Lille Europe é a estação do trem europeu." },
+        { "level": "B2", "fr": "L'Europe se construit aussi dans les gares.", "pt": "A Europa se constrói também nas estações." },
+        { "level": "C1-C2", "fr": "Au cœur de l'Europe, Lille relie Paris, Londres et Bruxelles.", "pt": "No coração da Europa, Lille liga Paris, Londres e Bruxelas." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Prendre le train : les expressions du voyage",
+    "explanationPt": "No transporte, usa-se 'prendre': 'prendre le train' (pegar o trem), 'prendre l'Eurostar', 'prendre un billet' (comprar passagem). Partidas: 'le train part' (o trem parte), 'le train arrive' (o trem chega), 'monter dans' (entrar em), 'descendre à' (descer em).",
+    "exampleFr": "Nous allons prendre l'Eurostar et nous allons arriver à Londres en une heure vingt.",
+    "examplePt": "Vamos pegar o Eurostar e vamos chegar a Londres em uma hora e vinte.",
+    "practiceQuestion": "Complete: « Nous allons ___ le train. »",
+    "options": ["prendre", "prends", "pris"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "Le Futur Proche pour les projets : nous allons voir",
+        "explanationPt": "Para planos futuros, use 'aller + infinitif': 'nous allons voir' (vamos ver), 'nous allons prendre' (vamos pegar), 'nous allons arriver' (vamos chegar).",
+        "exampleFr": "Nous allons voir le Big Ben et nous allons prendre l'Eurostar.",
+        "examplePt": "Vamos ver o Big Ben e vamos pegar o Eurostar.",
+        "practiceQuestion": "Complete: « Nous ___ prendre l'Eurostar un jour. »",
+        "options": ["allons", "allonsons", "avons"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "Depuis / à / en : la géographie des distances",
+        "explanationPt": "Para falar de distâncias: 'depuis Lille' (desde/partindo de Lille), 'à Londres' (a Londres), 'en une heure' (em uma hora), 'à Bruxelles en quarante minutes'.",
+        "exampleFr": "Depuis Lille, on va à Bruxelles en quarante minutes.",
+        "examplePt": "De Lille, vai-se a Bruxelas em quarenta minutos.",
+        "practiceQuestion": "Complete: « On va à Londres ___ une heure vingt. »",
+        "options": ["en", "à", "de"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Quando a gare Lille Europe foi inaugurada?",
+      "options": ["Em 1994", "Em 1909", "Em 1685"],
+      "correctIndex": 0,
+      "explanation": "A gare Lille Europe foi inaugurada em 1994, para o TGV e o Eurostar."
+    },
+    {
+      "question": "Quanto tempo leva o trem de Lille a Londres?",
+      "options": ["Cerca de 1h20", "3 horas", "30 minutos"],
+      "correctIndex": 0,
+      "explanation": "O Eurostar liga Lille a Londres em cerca de uma hora e vinte minutos."
+    },
+    {
+      "question": "Complete: « Nous ___ prendre l'Eurostar un jour. »",
+      "options": ["allons", "allonsons", "avons"],
+      "correctIndex": 0,
+      "explanation": "'Nous allons prendre' = vamos pegar (futur proche)."
+    },
+    {
+      "question": "Como o trem atravessa o Canal da Mancha?",
+      "options": ["Por um túnel de 50 km", "Por uma ponte", "Por um ferry"],
+      "correctIndex": 0,
+      "explanation": "O Eurostar passa pelo túnel sob a Manche, com 50 quilômetros de extensão."
+    },
+    {
+      "question": "O que Irlan fazia na gare quando era livreur?",
+      "options": ["Entregava malas esquecidas", "Vendia passagens", "Limpava os trens"],
+      "correctIndex": 0,
+      "explanation": "Irlan entregava valises oubliées (malas esquecidas) na gare com sua scooter."
+    }
+  ]
+}

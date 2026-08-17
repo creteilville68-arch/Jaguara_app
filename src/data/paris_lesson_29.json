@@ -1,0 +1,252 @@
+{
+  "id": "paris_lesson_29",
+  "cityId": "paris",
+  "domain": "Compras & Moda",
+  "level": "Iniciante (A1)",
+  "titleFr": "Les vêtements : la boutique de mode",
+  "titlePt": "As roupas: a loja de moda",
+  "subtitleFr": "Essayer un pantalon, choisir une robe, profiter des soldes",
+  "subtitlePt": "Experimentar uma calça, escolher um vestido, aproveitar as liquidações",
+  "summaryPt": "Nesta Aula 29 (A1), a família vai a uma boutique de roupas perto de casa. O aluno aprende o vocabulário das roupas (vêtement, pantalon, chemise, robe, chaussure, taille) e o verbo 'essayer', com as expressões de preço e tamanho.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "C'est samedi, et il y a les soldes dans les magasins de Paris. La famille entre dans une boutique de vêtements. « J'adore cette robe rouge ! » dit Andréa. Iris regarde les chaussures : « Et ces baskets, maman ? Elles sont jolies ! »",
+      "pt": "É sábado, e há liquidações nas lojas de Paris. A família entra numa loja de roupas. « Adoro esse vestido vermelho! » diz Andréa. Íris olha os sapatos: « E esses tênis, mamãe? Eles são bonitos! »"
+    },
+    {
+      "id": 2,
+      "fr": "Irlan choisit un pantalon et une chemise bleue. « Quelle est votre taille ? » demande la vendeuse. « Du 42, s'il vous plaît », répond Irlan. Il entre dans la cabine pour essayer le pantalon. « Il est parfait ! » dit-il en sortant.",
+      "pt": "Irlan escolhe uma calça e uma camisa azul. « Qual é o seu tamanho? » pergunta a vendedora. « 42, por favor », responde Irlan. Ele entra no provador para experimentar a calça. « Ficou perfeita! » diz ele ao sair."
+    },
+    {
+      "id": 3,
+      "fr": "Andréa essaie la robe rouge. « Elle est très belle sur toi, maman ! » dit Iris. Andréa regarde le prix : « Quatre-vingts euros... C'est un peu cher. Mais avec les soldes, c'est moins cher. » Elle sourit : « Je la prends ! »",
+      "pt": "Andréa experimenta o vestido vermelho. « Ficou muito bonito em você, mamãe! » diz Íris. Andréa olha o preço: « Oitenta euros... É um pouco caro. Mas com as liquidações, fica mais barato. » Ela sorri: « Vou levar! »"
+    },
+    {
+      "id": 4,
+      "fr": "À la caisse, la vendeuse plie les vêtements dans un sac. « Ça fait cent vingt euros », dit-elle. Irlan paie avec sa carte bancaire. « Merci, bonne journée ! » dit la vendeuse. Iris porte le sac : « C'est lourd, mais c'est beau ! »",
+      "pt": "No caixa, a vendedora dobra as roupas numa sacola. « Dá cento e vinte euros », diz ela. Irlan paga com seu cartão bancário. « Obrigada, bom dia! » diz a vendedora. Íris carrega a sacola: « É pesada, mas é bonita! »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "le vêtement",
+      "definitionPt": "a roupa (peça)",
+      "definitionFr": "Objet que l'on porte sur soi.",
+      "inflections": ["le vêtement", "un vêtement", "des vêtements"],
+      "ptTargets": ["roupa", "vestuário"],
+      "examples": [
+        { "level": "A1", "fr": "Le vêtement est rouge.", "pt": "A roupa é vermelha." },
+        { "level": "A2-B1", "fr": "La boutique vend des vêtements.", "pt": "A loja vende roupas." },
+        { "level": "B2", "fr": "Les vêtements racontent aussi une époque.", "pt": "As roupas contam também uma época." },
+        { "level": "C1-C2", "fr": "C'est le vêtement qui, choisi, exprime qui l'on est.", "pt": "É a roupa que, escolhida, expressa quem se é." }
+      ]
+    },
+    {
+      "term": "le pantalon",
+      "definitionPt": "a calça",
+      "definitionFr": "Vêtement qui couvre les jambes.",
+      "inflections": ["le pantalon", "un pantalon", "des pantalons"],
+      "ptTargets": ["calça"],
+      "examples": [
+        { "level": "A1", "fr": "Le pantalon est bleu.", "pt": "A calça é azul." },
+        { "level": "A2-B1", "fr": "Irlan essaie un pantalon.", "pt": "Irlan experimenta uma calça." },
+        { "level": "B2", "fr": "Le pantalon, bien coupé, donne de l'allure.", "pt": "A calça, bem cortada, dá elegância." },
+        { "level": "C1-C2", "fr": "C'est le pantalon qui, ajusté, parfait la silhouette.", "pt": "É a calça que, ajustada, completa a silhueta." }
+      ]
+    },
+    {
+      "term": "la chemise",
+      "definitionPt": "a camisa",
+      "definitionFr": "Vêtement à boutons pour le haut du corps.",
+      "inflections": ["la chemise", "une chemise", "des chemises"],
+      "ptTargets": ["camisa"],
+      "examples": [
+        { "level": "A1", "fr": "La chemise est blanche.", "pt": "A camisa é branca." },
+        { "level": "A2-B1", "fr": "Irlan achète une chemise bleue.", "pt": "Irlan compra uma camisa azul." },
+        { "level": "B2", "fr": "La chemise, repassée, est parfaite pour le travail.", "pt": "A camisa, passada, é perfeita para o trabalho." },
+        { "level": "C1-C2", "fr": "C'est la chemise qui, bien choisie, habille un homme sans effort.", "pt": "É a camisa que, bem escolhida, veste um homem sem esforço." }
+      ]
+    },
+    {
+      "term": "la robe",
+      "definitionPt": "o vestido",
+      "definitionFr": "Vêtement féminin d'une seule pièce.",
+      "inflections": ["la robe", "une robe", "des robes"],
+      "ptTargets": ["vestido"],
+      "examples": [
+        { "level": "A1", "fr": "La robe est rouge.", "pt": "O vestido é vermelho." },
+        { "level": "A2-B1", "fr": "Andréa essaie une robe rouge.", "pt": "Andréa experimenta um vestido vermelho." },
+        { "level": "B2", "fr": "La robe, élégante, convient à une soirée.", "pt": "O vestido, elegante, combina com uma festa." },
+        { "level": "C1-C2", "fr": "C'est la robe qui, portée, transforme une soirée en souvenir.", "pt": "É o vestido que, usado, transforma uma noite em lembrança." }
+      ]
+    },
+    {
+      "term": "la chaussure",
+      "definitionPt": "o sapato",
+      "definitionFr": "Vêtement pour le pied.",
+      "inflections": ["la chaussure", "une chaussure", "des chaussures"],
+      "ptTargets": ["sapato", "calçado"],
+      "examples": [
+        { "level": "A1", "fr": "La chaussure est confortable.", "pt": "O sapato é confortável." },
+        { "level": "A2-B1", "fr": "Iris regarde les chaussures dans la boutique.", "pt": "Íris olha os sapatos na loja." },
+        { "level": "B2", "fr": "Les chaussures, bien choisies, accompagnent les longues marches à Paris.", "pt": "Os sapatos, bem escolhidos, acompanham as longas caminhadas em Paris." },
+        { "level": "C1-C2", "fr": "C'est la chaussure qui, parfaite, reste invisible tant elle est juste.", "pt": "É o sapato que, perfeito, fica invisível de tão certo." }
+      ]
+    },
+    {
+      "term": "la taille",
+      "definitionPt": "o tamanho (manequim)",
+      "definitionFr": "Dimension d'un vêtement.",
+      "inflections": ["la taille", "une taille", "des tailles"],
+      "ptTargets": ["tamanho", "manequim"],
+      "examples": [
+        { "level": "A1", "fr": "Quelle est votre taille ?", "pt": "Qual é o seu tamanho?" },
+        { "level": "A2-B1", "fr": "Irlan porte du 42.", "pt": "Irlan veste 42." },
+        { "level": "B2", "fr": "Les tailles varient selon les marques.", "pt": "Os tamanhos variam conforme as marcas." },
+        { "level": "C1-C2", "fr": "C'est la taille qui, bien comprise, évite bien des déceptions.", "pt": "É o tamanho que, bem compreendido, evita muitas decepções." }
+      ]
+    },
+    {
+      "term": "essayer",
+      "definitionPt": "experimentar (provar)",
+      "definitionFr": "Mettre un vêtement pour vérifier.",
+      "inflections": ["essayer", "j'essaie", "nous essayons"],
+      "ptTargets": ["experimentar", "provar"],
+      "examples": [
+        { "level": "A1", "fr": "J'essaie le pantalon.", "pt": "Eu experimento a calça." },
+        { "level": "A2-B1", "fr": "Andréa essaie la robe dans la cabine.", "pt": "Andréa experimenta o vestido no provador." },
+        { "level": "B2", "fr": "Il faut essayer les vêtements avant de les acheter.", "pt": "É preciso experimentar as roupas antes de comprar." },
+        { "level": "C1-C2", "fr": "C'est en essayant que l'on découvre ce qui nous va vraiment.", "pt": "É experimentando que se descobre o que realmente nos cai bem." }
+      ]
+    },
+    {
+      "term": "la cabine",
+      "definitionPt": "o provador",
+      "definitionFr": "Petite pièce pour essayer des vêtements.",
+      "inflections": ["la cabine", "une cabine", "des cabines"],
+      "ptTargets": ["provador", "cabine"],
+      "examples": [
+        { "level": "A1", "fr": "La cabine est libre.", "pt": "O provador está livre." },
+        { "level": "A2-B1", "fr": "Irlan entre dans la cabine pour essayer.", "pt": "Irlan entra no provador para experimentar." },
+        { "level": "B2", "fr": "Les cabines, nombreuses, évitent les longues attentes.", "pt": "Os provadores, numerosos, evitam longas esperas." },
+        { "level": "C1-C2", "fr": "C'est dans la cabine que se joue, en miroir, le choix final.", "pt": "É no provador que se decide, no espelho, a escolha final." }
+      ]
+    },
+    {
+      "term": "le magasin",
+      "definitionPt": "a loja",
+      "definitionFr": "Lieu de vente.",
+      "inflections": ["le magasin", "un magasin", "des magasins"],
+      "ptTargets": ["loja"],
+      "examples": [
+        { "level": "A1", "fr": "Le magasin est ouvert.", "pt": "A loja está aberta." },
+        { "level": "A2-B1", "fr": "La famille entre dans un magasin de vêtements.", "pt": "A família entra numa loja de roupas." },
+        { "level": "B2", "fr": "Les magasins parisiens attirent les visiteurs du monde entier.", "pt": "As lojas parisienses atraem visitantes do mundo inteiro." },
+        { "level": "C1-C2", "fr": "C'est le magasin qui, bien tenu, fait naître l'envie d'acheter.", "pt": "É a loja que, bem cuidada, faz nascer a vontade de comprar." }
+      ]
+    },
+    {
+      "term": "les soldes",
+      "definitionPt": "as liquidações",
+      "definitionFr": "Période de réductions.",
+      "inflections": ["les soldes"],
+      "ptTargets": ["liquidações", "saldos"],
+      "examples": [
+        { "level": "A1", "fr": "Les soldes commencent en janvier.", "pt": "As liquidações começam em janeiro." },
+        { "level": "A2-B1", "fr": "Les vêtements sont moins chers pendant les soldes.", "pt": "As roupas ficam mais baratas durante as liquidações." },
+        { "level": "B2", "fr": "Les soldes d'été attirent beaucoup de monde à Paris.", "pt": "As liquidações de verão atraem muita gente em Paris." },
+        { "level": "C1-C2", "fr": "C'est pendant les soldes que l'on apprend l'art de la patience.", "pt": "É durante as liquidações que se aprende a arte da paciência." }
+      ]
+    },
+    {
+      "term": "cher",
+      "definitionPt": "caro",
+      "definitionFr": "Qui coûte beaucoup.",
+      "inflections": ["cher", "chère", "chers", "chères"],
+      "ptTargets": ["caro"],
+      "examples": [
+        { "level": "A1", "fr": "Le prix est cher.", "pt": "O preço é caro." },
+        { "level": "A2-B1", "fr": "La robe est un peu chère.", "pt": "O vestido é um pouco caro." },
+        { "level": "B2", "fr": "Paris peut être cher, mais il y a des bonnes affaires.", "pt": "Paris pode ser cara, mas há boas ofertas." },
+        { "level": "C1-C2", "fr": "C'est ce qui est rare qui, souvent, est cher.", "pt": "É o que é raro que, muitas vezes, é caro." }
+      ]
+    },
+    {
+      "term": "la vendeuse",
+      "definitionPt": "a vendedora",
+      "definitionFr": "Personne qui vend en magasin.",
+      "inflections": ["la vendeuse", "une vendeuse", "des vendeuses"],
+      "ptTargets": ["vendedora"],
+      "examples": [
+        { "level": "A1", "fr": "La vendeuse est aimable.", "pt": "A vendedora é amável." },
+        { "level": "A2-B1", "fr": "La vendeuse demande la taille.", "pt": "A vendedora pergunta o tamanho." },
+        { "level": "B2", "fr": "La vendeuse, attentive, conseille bien ses clients.", "pt": "A vendedora, atenta, orienta bem seus clientes." },
+        { "level": "C1-C2", "fr": "C'est la vendeuse qui, par son conseil, transforme un essayage en achat.", "pt": "É a vendedora que, por seu conselho, transforma uma prova em compra." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Le verbe essayer au présent",
+    "explanationPt": "O verbo 'essayer' (experimentar): j'essaie, tu essaies, il/elle essaie, nous essayons, vous essayez, ils/elles essaient. Ex.: 'J'essaie le pantalon.' O 'y' vira 'i' antes de 'e' mudo.",
+    "exampleFr": "Irlan entre dans la cabine pour essayer le pantalon.",
+    "examplePt": "Irlan entra no provador para experimentar a calça.",
+    "practiceQuestion": "Complete: 'Andréa _____ la robe dans la cabine.'",
+    "options": ["essaie", "essaye pas", "essayons"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "Quelle est votre taille ?",
+        "explanationPt": "Para perguntar o tamanho: 'Quelle est votre taille ?' (Qual é o seu tamanho?). Responder: 'Je porte du 42' (visto 42), 'C'est ma taille' (é meu tamanho).",
+        "exampleFr": "— Quelle est votre taille ? — Du 42, s'il vous plaît.",
+        "examplePt": "— Qual é o seu tamanho? — 42, por favor.",
+        "practiceQuestion": "Complete: 'Quelle est votre _____ ?'",
+        "options": ["taille", "ville", "fille"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "C'est un peu cher : o preço",
+        "explanationPt": "Expressões de preço: 'C'est cher' (é caro), 'C'est moins cher' (é mais barato), 'C'est une bonne affaire' (é uma boa oferta). Ex.: 'Avec les soldes, c'est moins cher.'",
+        "exampleFr": "Quatre-vingts euros... C'est un peu cher. Mais avec les soldes, c'est moins cher.",
+        "examplePt": "Oitenta euros... É um pouco caro. Mas com as liquidações, fica mais barato.",
+        "practiceQuestion": "Complete: 'Avec les soldes, c'est _____ cher.'",
+        "options": ["moins", "plus", "très"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "O que Andréa adora na boutique?",
+      "options": ["um vestido vermelho", "uma calça cinza", "um chapéu"],
+      "correctIndex": 0,
+      "explanation": "Andréa adora a robe rouge."
+    },
+    {
+      "question": "Qual é o tamanho de Irlan?",
+      "options": ["42", "38", "46"],
+      "correctIndex": 0,
+      "explanation": "Irlan veste du 42."
+    },
+    {
+      "question": "Quanto custa o vestido com as liquidações?",
+      "options": ["ficou mais barato", "ficou mais caro", "não mudou"],
+      "correctIndex": 0,
+      "explanation": "Avec les soldes, c'est moins cher."
+    },
+    {
+      "question": "Complete: 'Andréa _____ la robe dans la cabine.'",
+      "options": ["essaie", "essaye pas", "essayons"],
+      "correctIndex": 0,
+      "explanation": "essayer no presente, elle: essaie."
+    },
+    {
+      "question": "Complete: 'Quelle est votre _____ ?'",
+      "options": ["taille", "ville", "fille"],
+      "correctIndex": 0,
+      "explanation": "Quelle est votre taille? = Qual é o seu tamanho?"
+    }
+  ]
+}

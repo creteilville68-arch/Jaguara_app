@@ -1,0 +1,252 @@
+{
+  "id": "mont_saint_michel_lesson_14",
+  "cityId": "mont-saint-michel",
+  "domain": "História & Cultura",
+  "level": "Básico (A2/B1)",
+  "titleFr": "Les remparts et la Porte du Roi",
+  "titlePt": "As muralhas e a Porte du Roi",
+  "subtitleFr": "Des tours de pierre qui veillent sur la baie depuis le XIIIe siècle",
+  "subtitlePt": "Torres de pedra que vigiam a baía desde o século XIII",
+  "summaryPt": "Nesta Aula 14 (A2/B1), a família caminha pelos remparts do Mont, construídos no século XIII, e atravessa a Porte du Roi. De cima, veem a baía inteira e as ilhas. O aluno pratica o imparfait de descrição (les soldats montaient la garde, la mer montait) e os conectores quando/lorsque.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Les remparts entourent le Mont depuis le XIIIe siècle. « Quand les soldats montaient la garde, ils voyaient arriver les ennemis de très loin », a dit Irlan.",
+      "pt": "As muralhas cercam o Mont desde o século XIII. « Quando os soldados montavam guarda, viam os inimigos chegarem de muito longe », disse Irlan."
+    },
+    {
+      "id": 2,
+      "fr": "La famille a traversé la Porte du Roi. « Les visiteurs entraient par cette porte et montaient jusqu'à l'abbaye », a expliqué Andréa. « La porte était toujours gardée. »",
+      "pt": "A família atravessou a Porte du Roi. « Os visitantes entravam por esta porta e subiam até a abadia », explicou Andréa. « A porta era sempre guardada. »"
+    },
+    {
+      "id": 3,
+      "fr": "Sur les remparts, le vent soufflait fort. « Lorsque la marée montait, l'eau arrivait jusqu'aux murs », a raconté Irlan. « Le Mont devenait une île. »",
+      "pt": "Nas muralhas, o vento soprava forte. « Quando a maré subia, a água chegava até os muros », contou Irlan. « O Mont virava uma ilha. »"
+    },
+    {
+      "id": 4,
+      "fr": "« Regardez Tombelaine », a dit Andréa. « Avant, cette île était aussi un lieu de pèlerinage. » Íris a regardé l'île au loin : « C'est un petit Mont ! »",
+      "pt": "« Olhem Tombelaine », disse Andréa. « Antes, esta ilha também era um lugar de peregrinação. » Íris olhou a ilha ao longe: « É um Mont pequeno! »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "le rempart",
+      "definitionPt": "a muralha",
+      "definitionFr": "Mur de défense autour d'une ville.",
+      "inflections": ["le rempart", "un rempart", "des remparts"],
+      "ptTargets": ["muralha"],
+      "examples": [
+        { "level": "A1", "fr": "Le rempart est haut.", "pt": "A muralha é alta." },
+        { "level": "A2-B1", "fr": "Les remparts entourent le Mont.", "pt": "As muralhas cercam o Mont." },
+        { "level": "B2", "fr": "Les remparts du Mont datent du XIIIe siècle.", "pt": "As muralhas do Mont datam do século XIII." },
+        { "level": "C1-C2", "fr": "Les remparts ont résisté aux guerres et aux marées.", "pt": "As muralhas resistiram às guerras e às marés." }
+      ]
+    },
+    {
+      "term": "monter la garde",
+      "definitionPt": "montar guarda",
+      "definitionFr": "Surveiller, être de garde.",
+      "inflections": ["je monte la garde", "nous montons la garde", "monté la garde"],
+      "ptTargets": ["montar guarda"],
+      "examples": [
+        { "level": "A1", "fr": "Le soldat monte la garde.", "pt": "O soldado monta guarda." },
+        { "level": "A2-B1", "fr": "Les soldats montaient la garde sur les remparts.", "pt": "Os soldados montavam guarda nas muralhas." },
+        { "level": "B2", "fr": "Deux soldats montaient la garde devant la porte.", "pt": "Dois soldados montavam guarda diante da porta." },
+        { "level": "C1-C2", "fr": "Monter la garde au sommet du Mont, c'était veiller sur toute la baie.", "pt": "Montar guarda no topo do Mont era vigiar toda a baía." }
+      ]
+    },
+    {
+      "term": "l'ennemi",
+      "definitionPt": "o inimigo",
+      "definitionFr": "Personne qui combat contre nous.",
+      "inflections": ["l'ennemi", "l'ennemie", "des ennemis"],
+      "ptTargets": ["inimigo"],
+      "examples": [
+        { "level": "A1", "fr": "L'ennemi est loin.", "pt": "O inimigo está longe." },
+        { "level": "A2-B1", "fr": "Les soldats voyaient arriver les ennemis de loin.", "pt": "Os soldados viam os inimigos chegarem de longe." },
+        { "level": "B2", "fr": "Le Mont n'a jamais été pris par les ennemis.", "pt": "O Mont nunca foi tomado pelos inimigos." },
+        { "level": "C1-C2", "fr": "Les remparts ont fait du Mont une forteresse que les ennemis craignaient.", "pt": "As muralhas fizeram do Mont uma fortaleza temida pelos inimigos." }
+      ]
+    },
+    {
+      "term": "la tour",
+      "definitionPt": "a torre",
+      "definitionFr": "Construction haute et ronde.",
+      "inflections": ["la tour", "une tour", "des tours"],
+      "ptTargets": ["torre"],
+      "examples": [
+        { "level": "A1", "fr": "La tour est haute.", "pt": "A torre é alta." },
+        { "level": "A2-B1", "fr": "Les tours des remparts protégeaient la ville.", "pt": "As torres das muralhas protegiam a cidade." },
+        { "level": "B2", "fr": "La tour la plus ancienne date du XIIe siècle.", "pt": "A torre mais antiga data do século XII." },
+        { "level": "C1-C2", "fr": "Les tours, rondes et solides, veillaient sur les portes du Mont.", "pt": "As torres, redondas e sólidas, vigiavam as portas do Mont." }
+      ]
+    },
+    {
+      "term": "la garde",
+      "definitionPt": "a guarda",
+      "definitionFr": "Action de surveiller ; soldats de service.",
+      "inflections": ["la garde", "une garde", "des gardes"],
+      "ptTargets": ["guarda"],
+      "examples": [
+        { "level": "A1", "fr": "La garde est devant la porte.", "pt": "A guarda está diante da porta." },
+        { "level": "A2-B1", "fr": "La porte était toujours gardée.", "pt": "A porta era sempre guardada." },
+        { "level": "B2", "fr": "La garde changeait toutes les deux heures.", "pt": "A guarda trocava a cada duas horas." },
+        { "level": "C1-C2", "fr": "La garde du Mont ne dormait jamais, dit la légende.", "pt": "A guarda do Mont nunca dormia, diz a lenda." }
+      ]
+    },
+    {
+      "term": "la marée",
+      "definitionPt": "a maré",
+      "definitionFr": "Mouvement de la mer qui monte et descend.",
+      "inflections": ["la marée", "une marée", "des marées"],
+      "ptTargets": ["maré"],
+      "examples": [
+        { "level": "A1", "fr": "La marée monte.", "pt": "A maré sobe." },
+        { "level": "A2-B1", "fr": "Lorsque la marée montait, le Mont devenait une île.", "pt": "Quando a maré subia, o Mont virava uma ilha." },
+        { "level": "B2", "fr": "La marée de la baie est la plus forte d'Europe.", "pt": "A maré da baía é a mais forte da Europa." },
+        { "level": "C1-C2", "fr": "Les marées du Mont rythment la vie de la baie depuis des siècles.", "pt": "As marés do Mont marcam o ritmo da vida da baía há séculos." }
+      ]
+    },
+    {
+      "term": "l'île",
+      "definitionPt": "a ilha",
+      "definitionFr": "Terre entourée d'eau.",
+      "inflections": ["l'île", "une île", "des îles"],
+      "ptTargets": ["ilha"],
+      "examples": [
+        { "level": "A1", "fr": "L'île est petite.", "pt": "A ilha é pequena." },
+        { "level": "A2-B1", "fr": "À marée haute, le Mont devient une île.", "pt": "Na maré alta, o Mont vira uma ilha." },
+        { "level": "B2", "fr": "Tombelaine est une île voisine du Mont.", "pt": "Tombelaine é uma ilha vizinha do Mont." },
+        { "level": "C1-C2", "fr": "L'île du Mont surgit de la mer comme un rêve de pierre.", "pt": "A ilha do Mont surge do mar como um sonho de pedra." }
+      ]
+    },
+    {
+      "term": "garder",
+      "definitionPt": "guardar, vigiar",
+      "definitionFr": "Protéger, surveiller.",
+      "inflections": ["je garde", "nous gardons", "gardé"],
+      "ptTargets": ["guardar", "vigiar"],
+      "examples": [
+        { "level": "A1", "fr": "Je garde le chien.", "pt": "Guardo o cachorro." },
+        { "level": "A2-B1", "fr": "Les soldats gardaient la porte du roi.", "pt": "Os soldados guardavam a porta do rei." },
+        { "level": "B2", "fr": "La baie garde encore des secrets dans ses sables.", "pt": "A baía ainda guarda segredos em suas areias." },
+        { "level": "C1-C2", "fr": "Garder le Mont, c'était garder la porte de la Normandie.", "pt": "Guardar o Mont era guardar a porta da Normandia." }
+      ]
+    },
+    {
+      "term": "la baie",
+      "definitionPt": "a baía",
+      "definitionFr": "Étendue de mer entourée de terres.",
+      "inflections": ["la baie", "une baie", "des baies"],
+      "ptTargets": ["baía"],
+      "examples": [
+        { "level": "A1", "fr": "La baie est grande.", "pt": "A baía é grande." },
+        { "level": "A2-B1", "fr": "De la tour, on voyait la baie entière.", "pt": "Da torre, via-se a baía inteira." },
+        { "level": "B2", "fr": "La baie du Mont couvre plus de deux cents kilomètres carrés.", "pt": "A baía do Mont cobre mais de duzentos quilômetros quadrados." },
+        { "level": "C1-C2", "fr": "La baie change de visage à chaque marée, à chaque heure du jour.", "pt": "A baía muda de rosto a cada maré, a cada hora do dia." }
+      ]
+    },
+    {
+      "term": "veiller",
+      "definitionPt": "vigiar, velar",
+      "definitionFr": "Surveiller, rester éveillé pour protéger.",
+      "inflections": ["je veille", "nous veillons", "veillé"],
+      "ptTargets": ["vigiar", "velar"],
+      "examples": [
+        { "level": "A1", "fr": "Je veille sur mon petit frère.", "pt": "Vigio meu irmãozinho." },
+        { "level": "A2-B1", "fr": "Les tours veillaient sur la baie.", "pt": "As torres vigiavam a baía." },
+        { "level": "B2", "fr": "Les moines veillaient et priaient pendant la nuit.", "pt": "Os monges vigiavam e rezavam durante a noite." },
+        { "level": "C1-C2", "fr": "Veiller sur le Mont, c'était veiller sur des milliers de voyageurs.", "pt": "Vigiar o Mont era vigiar milhares de viajantes." }
+      ]
+    },
+    {
+      "term": "la forteresse",
+      "definitionPt": "a fortaleza",
+      "definitionFr": "Lieu fortifié.",
+      "inflections": ["la forteresse", "une forteresse", "des forteresses"],
+      "ptTargets": ["fortaleza"],
+      "examples": [
+        { "level": "A1", "fr": "La forteresse est solide.", "pt": "A fortaleza é sólida." },
+        { "level": "A2-B1", "fr": "Le Mont était une forteresse imprenable.", "pt": "O Mont era uma fortaleza inexpugnável." },
+        { "level": "B2", "fr": "La forteresse du Mont a protégé la région pendant des siècles.", "pt": "A fortaleza do Mont protegeu a região durante séculos." },
+        { "level": "C1-C2", "fr": "Mer et pierre ont fait du Mont une forteresse unique au monde.", "pt": "Mar e pedra fizeram do Mont uma fortaleza única no mundo." }
+      ]
+    },
+    {
+      "term": "au loin",
+      "definitionPt": "ao longe",
+      "definitionFr": "Loin de l'endroit où l'on est.",
+      "inflections": ["au loin", "de loin", "vers le loin"],
+      "ptTargets": ["ao longe"],
+      "examples": [
+        { "level": "A1", "fr": "La montagne est au loin.", "pt": "A montanha está ao longe." },
+        { "level": "A2-B1", "fr": "On voyait Tombelaine au loin.", "pt": "Via-se Tombelaine ao longe." },
+        { "level": "B2", "fr": "Au loin, les nuages annonçaient la tempête.", "pt": "Ao longe, as nuvens anunciavam a tempestade." },
+        { "level": "C1-C2", "fr": "Au loin, la ligne de l'horizon séparait le ciel de la mer.", "pt": "Ao longe, a linha do horizonte separava o céu do mar." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Lorsque / quand : la marée et le Mont au passé",
+    "explanationPt": "'Lorsque' e 'quand' (quando) ligam momentos no passado: 'lorsque la marée montait (IMP), le Mont devenait (IMP) une île'. Duas ações repetidas = imparfait nos dois lados.",
+    "exampleFr": "Lorsque la marée montait, l'eau arrivait jusqu'aux murs et le Mont devenait une île.",
+    "examplePt": "Quando a maré subia, a água chegava até os muros e o Mont virava uma ilha.",
+    "practiceQuestion": "Complete: « Lorsque la marée montait, le Mont ___ une île. »",
+    "options": ["devenait", "est devenu", "deviendra"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "Imparfait de description des remparts",
+        "explanationPt": "Descrição dos remparts no passado: 'les soldats montaient la garde', 'la porte était toujours gardée', 'le vent soufflait fort'. Cenário = imparfait.",
+        "exampleFr": "Les remparts étaient hauts, le vent soufflait fort et les soldats montaient la garde.",
+        "examplePt": "As muralhas eram altas, o vento soprava forte e os soldados montavam guarda.",
+        "practiceQuestion": "Complete: « Le vent ___ fort sur les remparts. »",
+        "options": ["soufflait", "a soufflé", "soufflera"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "Il y a mille ans / au XIIIe siècle : situer dans le temps",
+        "explanationPt": "Para situar no tempo: 'au XIIIe siècle' (no século XIII), 'il y a mille ans' (há mil anos), 'depuis le XIIIe siècle' (desde o século XIII).",
+        "exampleFr": "Les remparts existent depuis le XIIIe siècle, il y a plus de sept cents ans.",
+        "examplePt": "As muralhas existem desde o século XIII, há mais de setecentos anos.",
+        "practiceQuestion": "Complete: « Les remparts datent ___ XIIIe siècle. »",
+        "options": ["du", "au", "en"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Desde quando as muralhas cercam o Mont?",
+      "options": ["Desde o século XIII", "Desde 1960", "Desde 708"],
+      "correctIndex": 0,
+      "explanation": "Os remparts do Mont Saint-Michel datam do século XIII."
+    },
+    {
+      "question": "Complete: « Lorsque la marée montait, le Mont ___ une île. »",
+      "options": ["devenait", "est devenu", "deviendra"],
+      "correctIndex": 0,
+      "explanation": "Ação repetida no passado = imparfait: 'devenait'."
+    },
+    {
+      "question": "O que os soldados viam dos remparts?",
+      "options": ["Os inimigos chegando de muito longe", "Os tesouros da abadia", "As estrelas"],
+      "correctIndex": 0,
+      "explanation": "Dos remparts, os soldados vigiavam a chegada dos inimigos pela baía."
+    },
+    {
+      "question": "O que acontecia quando a maré subia?",
+      "options": ["O Mont virava uma ilha", "As portas fechavam", "Os monges cantavam"],
+      "correctIndex": 0,
+      "explanation": "Na maré alta, a água chegava aos muros e o Mont se tornava uma ilha."
+    },
+    {
+      "question": "O que é Tombelaine?",
+      "options": ["Uma ilha vizinha, antigo lugar de peregrinação", "Uma torre dos remparts", "Um restaurante"],
+      "correctIndex": 0,
+      "explanation": "Tombelaine é uma ilha próxima, que também foi um lugar de peregrinação."
+    }
+  ]
+}

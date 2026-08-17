@@ -1,0 +1,252 @@
+{
+  "id": "amiens_lesson_17",
+  "cityId": "amiens",
+  "domain": "Natureza & Lazer",
+  "level": "Iniciante em Transição (A1/A2)",
+  "titleFr": "Le parc Saint-Pierre",
+  "titlePt": "O parque Saint-Pierre",
+  "subtitleFr": "Un grand jardin près de la cathédrale",
+  "subtitlePt": "Um grande jardim perto da catedral",
+  "summaryPt": "Nesta Aula 17 (A1/A2) da Cidade #2, a família passa a tarde no parque Saint-Pierre, um grande jardim criado perto da catedral de Amiens. O aluno pratica os verbos de ação no presente (courir, sauter, jouer) e a concordância dos adjetivos em -eux / -euse.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Le parc Saint-Pierre est un grand jardin au bord de la rivière, juste à côté de la cathédrale. « C'est un parc récent, dit Andréa. Il a été créé au début des années 2000. Les gens viennent ici pour se reposer. »",
+      "pt": "O parque Saint-Pierre é um grande jardim à beira do rio, bem ao lado da catedral. « É um parque recente, diz Andréa. Ele foi criado no início dos anos 2000. As pessoas vêm aqui para descansar. »"
+    },
+    {
+      "id": 2,
+      "fr": "Íris court sur la pelouse et saute avec joie. « Regardez-moi ! Je cours très vite ! » Andréa rit : « Tu es très rapide, ma chérie. Fais attention aux autres enfants ! »",
+      "pt": "Íris corre no gramado e pula com alegria. « Olhem para mim! Eu corro muito rápido! » Andréa ri: « Você é muito rápida, minha querida. Cuidado com as outras crianças! »"
+    },
+    {
+      "id": 3,
+      "fr": "Irlan s'assoit sur un banc et regarde les canards dans l'eau. « C'est un endroit paisible, dit-il. J'adore ce mélange de nature et de ville : le vert du parc et la pierre de la cathédrale. »",
+      "pt": "Irlan senta num banco e observa os patos na água. « É um lugar tranquilo, diz ele. Adoro essa mistura de natureza e cidade: o verde do parque e a pedra da catedral. »"
+    },
+    {
+      "id": 4,
+      "fr": "La famille joue au ballon ensemble. « C'est une belle journée heureuse ! » dit Íris. Andréa répond : « Oui, les moments simples sont souvent les plus beaux. Rentrons à la maison maintenant. »",
+      "pt": "A família brinca de bola junto. « É um belo dia feliz! » diz Íris. Andréa responde: « Sim, os momentos simples são muitas vezes os mais bonitos. Vamos voltar para casa agora. »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "le parc",
+      "definitionPt": "o parque",
+      "definitionFr": "Espace vert public.",
+      "inflections": ["le parc", "un parc", "des parcs"],
+      "ptTargets": ["parque"],
+      "examples": [
+        { "level": "A1", "fr": "Le parc est vert.", "pt": "O parque é verde." },
+        { "level": "A2-B1", "fr": "Le parc Saint-Pierre est près de la cathédrale.", "pt": "O parque Saint-Pierre fica perto da catedral." },
+        { "level": "B2", "fr": "Le parc, fleuri, invite à la promenade.", "pt": "O parque, florido, convida ao passeio." },
+        { "level": "C1-C2", "fr": "C'est le parc qui, apaisant, offre un refuge au cœur de la ville.", "pt": "É o parque que, apaziguador, oferece um refúgio no coração da cidade." }
+      ]
+    },
+    {
+      "term": "le jardin",
+      "definitionPt": "o jardim",
+      "definitionFr": "Espace avec des plantes et des fleurs.",
+      "inflections": ["le jardin", "un jardin", "des jardins"],
+      "ptTargets": ["jardim"],
+      "examples": [
+        { "level": "A1", "fr": "Le jardin est joli.", "pt": "O jardim é bonito." },
+        { "level": "A2-B1", "fr": "Le parc est un grand jardin.", "pt": "O parque é um grande jardim." },
+        { "level": "B2", "fr": "Le jardin, entretenu, offre de l'ombre en été.", "pt": "O jardim, cuidado, oferece sombra no verão." },
+        { "level": "C1-C2", "fr": "C'est le jardin qui, soigné, embellit la ville.", "pt": "É o jardim que, caprichado, embeleza a cidade." }
+      ]
+    },
+    {
+      "term": "la pelouse",
+      "definitionPt": "o gramado",
+      "definitionFr": "Herbe courte d'un parc.",
+      "inflections": ["la pelouse", "une pelouse", "des pelouses"],
+      "ptTargets": ["gramado", "relvado"],
+      "examples": [
+        { "level": "A1", "fr": "La pelouse est verte.", "pt": "O gramado é verde." },
+        { "level": "A2-B1", "fr": "Íris court sur la pelouse.", "pt": "Íris corre no gramado." },
+        { "level": "B2", "fr": "La pelouse, douce, accueille les familles.", "pt": "O gramado, macio, acolhe as famílias." },
+        { "level": "C1-C2", "fr": "C'est la pelouse qui, verte, invite à s'asseoir.", "pt": "É o gramado que, verde, convida a sentar." }
+      ]
+    },
+    {
+      "term": "courir",
+      "definitionPt": "correr",
+      "definitionFr": "Se déplacer vite avec les jambes.",
+      "inflections": ["je cours", "courir", "nous courons"],
+      "ptTargets": ["correr"],
+      "examples": [
+        { "level": "A1", "fr": "Je cours dans le parc.", "pt": "Eu corro no parque." },
+        { "level": "A2-B1", "fr": "Íris court sur la pelouse.", "pt": "Íris corre no gramado." },
+        { "level": "B2", "fr": "Les enfants courent après le ballon.", "pt": "As crianças correm atrás da bola." },
+        { "level": "C1-C2", "fr": "C'est en courant que l'on sent la liberté du corps.", "pt": "É correndo que se sente a liberdade do corpo." }
+      ]
+    },
+    {
+      "term": "sauter",
+      "definitionPt": "pular",
+      "definitionFr": "Se lever du sol avec force.",
+      "inflections": ["je saute", "sauter", "nous sautons"],
+      "ptTargets": ["pular", "saltar"],
+      "examples": [
+        { "level": "A1", "fr": "Je saute avec joie.", "pt": "Eu pulo com alegria." },
+        { "level": "A2-B1", "fr": "Íris saute sur la pelouse.", "pt": "Íris pula no gramado." },
+        { "level": "B2", "fr": "Les enfants sautent par-dessus la corde.", "pt": "As crianças pulam a corda." },
+        { "level": "C1-C2", "fr": "C'est en sautant que l'on oublie la gravité.", "pt": "É pulando que se esquece a gravidade." }
+      ]
+    },
+    {
+      "term": "le canard",
+      "definitionPt": "o pato",
+      "definitionFr": "Oiseau qui vit près de l'eau.",
+      "inflections": ["le canard", "un canard", "des canards"],
+      "ptTargets": ["pato"],
+      "examples": [
+        { "level": "A1", "fr": "Le canard est blanc.", "pt": "O pato é branco." },
+        { "level": "A2-B1", "fr": "Les canards nagent dans l'eau.", "pt": "Os patos nadam na água." },
+        { "level": "B2", "fr": "Les canards du parc attirent les enfants.", "pt": "Os patos do parque atraem as crianças." },
+        { "level": "C1-C2", "fr": "C'est le canard qui, paisible, glisse sur le miroir de l'eau.", "pt": "É o pato que, pacífico, desliza no espelho da água." }
+      ]
+    },
+    {
+      "term": "le banc",
+      "definitionPt": "o banco (assento)",
+      "definitionFr": "Siège long dans un parc.",
+      "inflections": ["le banc", "un banc", "des bancs"],
+      "ptTargets": ["banco"],
+      "examples": [
+        { "level": "A1", "fr": "Le banc est en bois.", "pt": "O banco é de madeira." },
+        { "level": "A2-B1", "fr": "Irlan s'assoit sur un banc.", "pt": "Irlan senta num banco." },
+        { "level": "B2", "fr": "Le banc, confortable, invite à la lecture.", "pt": "O banco, confortável, convida à leitura." },
+        { "level": "C1-C2", "fr": "C'est le banc qui, discret, garde les conversations du soir.", "pt": "É o banco que, discreto, guarda as conversas da noite." }
+      ]
+    },
+    {
+      "term": "paisible",
+      "definitionPt": "tranquilo / pacífico",
+      "definitionFr": "Calme et serein.",
+      "inflections": ["paisible", "paisibles"],
+      "ptTargets": ["tranquilo", "pacífico"],
+      "examples": [
+        { "level": "A1", "fr": "Le parc est paisible.", "pt": "O parque é tranquilo." },
+        { "level": "A2-B1", "fr": "C'est un endroit paisible.", "pt": "É um lugar tranquilo." },
+        { "level": "B2", "fr": "L'atmosphère, paisible, invite à la détente.", "pt": "A atmosfera, tranquila, convida ao descanso." },
+        { "level": "C1-C2", "fr": "C'est le lieu paisible qui, apaisant, ressource l'âme.", "pt": "É o lugar tranquilo que, apaziguador, revigora a alma." }
+      ]
+    },
+    {
+      "term": "la rivière",
+      "definitionPt": "o rio",
+      "definitionFr": "Cours d'eau naturel.",
+      "inflections": ["la rivière", "une rivière", "des rivières"],
+      "ptTargets": ["rio"],
+      "examples": [
+        { "level": "A1", "fr": "La rivière est calme.", "pt": "O rio é calmo." },
+        { "level": "A2-B1", "fr": "Le parc est au bord de la rivière.", "pt": "O parque fica à beira do rio." },
+        { "level": "B2", "fr": "La rivière, lente, traverse la ville.", "pt": "O rio, lento, atravessa a cidade." },
+        { "level": "C1-C2", "fr": "C'est la rivière qui, fidèle, accompagne l'histoire d'Amiens.", "pt": "É o rio que, fiel, acompanha a história de Amiens." }
+      ]
+    },
+    {
+      "term": "heureux",
+      "definitionPt": "feliz",
+      "definitionFr": "Qui ressent de la joie.",
+      "inflections": ["heureux", "heureuse", "heureux"],
+      "ptTargets": ["feliz"],
+      "examples": [
+        { "level": "A1", "fr": "Je suis heureux.", "pt": "Eu sou feliz." },
+        { "level": "A2-B1", "fr": "C'est une belle journée heureuse !", "pt": "É um belo dia feliz!" },
+        { "level": "B2", "fr": "Les enfants, heureux, jouent dans le parc.", "pt": "As crianças, felizes, brincam no parque." },
+        { "level": "C1-C2", "fr": "C'est être heureux que de profiter des petits moments.", "pt": "É ser feliz aproveitar os pequenos momentos." }
+      ]
+    },
+    {
+      "term": "simple",
+      "definitionPt": "simples",
+      "definitionFr": "Sans complications.",
+      "inflections": ["simple", "simples"],
+      "ptTargets": ["simples"],
+      "examples": [
+        { "level": "A1", "fr": "Le geste est simple.", "pt": "O gesto é simples." },
+        { "level": "A2-B1", "fr": "Les moments simples sont les plus beaux.", "pt": "Os momentos simples são os mais bonitos." },
+        { "level": "B2", "fr": "Une vie simple peut être très riche.", "pt": "Uma vida simples pode ser muito rica." },
+        { "level": "C1-C2", "fr": "C'est la beauté simple qui, discrète, touche le cœur.", "pt": "É a beleza simples que, discreta, toca o coração." }
+      ]
+    },
+    {
+      "term": "rentrer",
+      "definitionPt": "voltar (para casa)",
+      "definitionFr": "Revenir à la maison.",
+      "inflections": ["je rentre", "rentrer", "nous rentrons"],
+      "ptTargets": ["voltar", "regressar"],
+      "examples": [
+        { "level": "A1", "fr": "Je rentre à la maison.", "pt": "Eu volto para casa." },
+        { "level": "A2-B1", "fr": "Rentrons à la maison maintenant !", "pt": "Vamos voltar para casa agora!" },
+        { "level": "B2", "fr": "La famille rentre après une belle journée.", "pt": "A família volta depois de um belo dia." },
+        { "level": "C1-C2", "fr": "C'est en rentrant que l'on retrouve la douceur du foyer.", "pt": "É voltando que se reencontra a doçura do lar." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Les adjectifs en -eux / -euse",
+    "explanationPt": "Adjetivos terminados em -eux têm o feminino em -euse: heureux → heureuse, paisible não muda, courageux → courageuse. Ex.: 'un homme heureux' / 'une femme heureuse', 'un endroit paisible'.",
+    "exampleFr": "Un homme heureux, une femme heureuse, un endroit paisible.",
+    "examplePt": "Um homem feliz, uma mulher feliz, um lugar tranquilo.",
+    "practiceQuestion": "Complete: 'une femme _____'",
+    "options": ["heureuse", "heureux", "heureuses"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "Fais attention : imperativo com faire",
+        "explanationPt": "Imperativo de 'faire': 'Fais attention !' (preste atenção!), 'Faites attention !' (prestem atenção!). Também 'Fais attention aux autres enfants !'.",
+        "exampleFr": "Fais attention aux autres enfants !",
+        "examplePt": "Preste atenção nas outras crianças!",
+        "practiceQuestion": "Complete: '_____ attention aux autres enfants !'",
+        "options": ["Fais", "Fait", "Faire"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "Rentrons ! : o imperativo com nous",
+        "explanationPt": "Imperativo com 'nous': 'Rentrons à la maison !' (vamos voltar para casa!), 'Jouons au ballon !' (vamos brincar de bola!), 'Regardons !' (vamos olhar!).",
+        "exampleFr": "Rentrons à la maison maintenant !",
+        "examplePt": "Vamos voltar para casa agora!",
+        "practiceQuestion": "Complete: '_____ à la maison maintenant !'",
+        "options": ["Rentrons", "Rentre", "Rentrer"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Onde fica o parque Saint-Pierre?",
+      "options": ["ao lado da catedral", "perto da estação", "no campo"],
+      "correctIndex": 0,
+      "explanation": "Le parc Saint-Pierre est un grand jardin au bord de la rivière, juste à côté de la cathédrale."
+    },
+    {
+      "question": "O que Íris faz na pelouse?",
+      "options": ["corre e pula", "dorme", "lê um livro"],
+      "correctIndex": 0,
+      "explanation": "Íris court sur la pelouse et saute avec joie."
+    },
+    {
+      "question": "O que Irlan observa da beira da água?",
+      "options": ["os patos", "os peixes", "os barcos"],
+      "correctIndex": 0,
+      "explanation": "Irlan s'assoit sur un banc et regarde les canards dans l'eau."
+    },
+    {
+      "question": "Complete: 'une femme _____'",
+      "options": ["heureuse", "heureux", "heureuses"],
+      "correctIndex": 0,
+      "explanation": "Feminino de heureux: heureuse."
+    },
+    {
+      "question": "Complete: '_____ attention aux autres enfants !'",
+      "options": ["Fais", "Fait", "Faire"],
+      "correctIndex": 0,
+      "explanation": "Imperativo: fais attention."
+    }
+  ]
+}

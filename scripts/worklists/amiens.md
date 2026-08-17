@@ -1,0 +1,584 @@
+# #2 Amiens — A1/A2
+
+**573 palavras** ainda precisam aparecer nos textos das aulas desta cidade.
+
+Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aventura do Irlan.
+
+## A1 (349)
+
+- [ ] **accélérer** — acelerar
+- [ ] **accoucher** — dar à luz (verbo)
+- [ ] **acheter du pain** — comprar pão
+- [ ] **acide** — azedo
+- [ ] **adopter** — adotar
+- [ ] **agrandir** — ampliar
+- [ ] **aller au marché** — ir ao mercado
+- [ ] **aller tout droit** — ir em frente
+- [ ] **amarrer** — atracar
+- [ ] **ampoule** — bolha no pé / calo
+- [ ] **apercevoir** — perceber, avistar
+- [ ] **appeler un ami** — ligar para um amigo
+- [ ] **approuver** — aprovar
+- [ ] **arroser les plantes** — regar as plantas
+- [ ] **attacher** — amarrar
+- [ ] **atterrir** — aterrissar, pousar (verbo)
+- [ ] **avant-hier** — anteontem
+- [ ] **avouer** — confessar, admitir (verbo)
+- [ ] **bagages** — bagagens / malas
+- [ ] **balayer le sol** — varrer o chão
+- [ ] **bohème** — boêmio / estilo boêmio / artístico
+- [ ] **brancher** — conectar (tomada)
+- [ ] **cabaret** — cabaré / casa de espetáculos
+- [ ] **calculer** — calcular
+- [ ] **chaleureusement** — calorosamente / com calor
+- [ ] **check** — check (registro de entrada, check-in)
+- [ ] **chercher sur internet** — pesquisar na internet
+- [ ] **circuler** — circular
+- [ ] **clignoter** — piscar
+- [ ] **clore** — encerrar / fechar / terminar
+- [ ] **commencent** — começam / iniciam (do verbo commencer)
+- [ ] **conduire une voiture** — dirigir um carro
+- [ ] **confire** — confeitar, cristalizar (conservar)
+- [ ] **confisquer** — confiscar (verbo)
+- [ ] **copier** — copiar
+- [ ] **courir vite** — correr rápido
+- [ ] **cristalliser** — cristalizar (verbo)
+- [ ] **croquant** — crocante
+- [ ] **débarrasser** — tirar a mesa
+- [ ] **déborder** — transbordar (verbo)
+- [ ] **découper** — recortar
+- [ ] **démarrer** — dar partida, ligar
+- [ ] **demeurer** — permanecer, continuar sendo
+- [ ] **déporter** — deportar
+- [ ] **désagréable** — desagradável
+- [ ] **détacher** — desamarrar
+- [ ] **disponible** — disponível
+- [ ] **distributeur** — máquina automática / distribuidor
+- [ ] **dose** — dose / quantidade
+- [ ] **dynamique** — dinâmico
+- [ ] **éclater de rire** — cair na risada
+- [ ] **écraser** — esmagar, reprimir
+- [ ] **embaumer** — perfumar, exalar (verbo)
+- [ ] **émerveiller** — maravilhar, encantar
+- [ ] **en désordre** — desarrumado
+- [ ] **énergique** — enérgico
+- [ ] **enregistrer** — salvar
+- [ ] **enterrer** — enterrar
+- [ ] **envoyer un SMS** — enviar um SMS
+- [ ] **escalator** — escada rolante
+- [ ] **espresso** — café expresso
+- [ ] **essuyer** — enxugar
+- [ ] **éteindre l’ordinateur** — desligar o computador
+- [ ] **excursion** — excursão / passeio de um dia / bate-volta
+- [ ] **fabriquer** — fabricar
+- [ ] **façonner** — moldar, modelar
+- [ ] **faiblir** — enfraquecer (verbo)
+- [ ] **faire demi-tour** — dar meia-volta
+- [ ] **faire la cuisine** — cozinhar
+- [ ] **faire le lit** — arrumar a cama
+- [ ] **faire les courses** — fazer as compras
+- [ ] **falloir** — ser preciso
+- [ ] **fonder** — fundar
+- [ ] **frémissir** — estremecer, tremer (verbo)
+- [ ] **frissonner** — estremecer, tremer
+- [ ] **garer** — estacionar
+- [ ] **généreux** — o generoso
+- [ ] **goûter (verbe)** — provar
+- [ ] **graver** — gravar, esculpir (verbo)
+- [ ] **grimper** — escalar, subir
+- [ ] **hurler** — uivar
+- [ ] **impoli** — mal-educado
+- [ ] **indiquer le chemin** — indicar o caminho
+- [ ] **interpeller** — chamar, interpelar (verbo)
+- [ ] **jeudi** — quinta-feira
+- [ ] **jouer du piano** — tocar piano
+- [ ] **l’adoucissant** — o amaciante
+- [ ] **l’allumette** — o fósforo
+- [ ] **l’ananas** — o abacaxi
+- [ ] **l'antenne** — antena
+- [ ] **l’araignée** — a aranha
+- [ ] **l’armoire** — o armário
+- [ ] **l'artisanat** — o artesanato
+- [ ] **l’aubergine** — a berinjela
+- [ ] **l’autoroute** — a rodovia
+- [ ] **l’e-mail** — o e-mail
+- [ ] **l’eau minérale** — a água mineral
+- [ ] **l'empereur** — o imperador
+- [ ] **l’épinard** — o espinafre
+- [ ] **l'équipage** — a tripulação
+- [ ] **l’évier** — a pia
+- [ ] **l'hésitation** — a hesitação
+- [ ] **l’imprimante** — a impressora
+- [ ] **l’infirmière** — a enfermeira
+- [ ] **l’instituteur** — o professor primário
+- [ ] **l’interrupteur** — o interruptor
+- [ ] **l'occupation** — ocupação
+- [ ] **l’oncle** — o tio
+- [ ] **l’orange pressée** — o suco de laranja espremido
+- [ ] **l’oreiller** — o travesseiro
+- [ ] **la balance** — a balança
+- [ ] **la bande dessinée** — a história em quadrinhos
+- [ ] **la batterie (téléphone)** — a bateria (celular)
+- [ ] **la blanquette** — o guisado branco
+- [ ] **la boisson fraîche** — a bebida gelada
+- [ ] **la brioche** — o brioche
+- [ ] **la brosse à dents** — a escova de dentes
+- [ ] **la carte perforée** — cartão perfurado
+- [ ] **la chaîne d'assemblage** — linha de montagem (substantivo feminino)
+- [ ] **la chambre froide** — câmara fria (substantivo feminino)
+- [ ] **la charpente** — a estrutura (de madeira)
+- [ ] **la clandestinité** — clandestinidade
+- [ ] **la clé USB** — o pen drive
+- [ ] **la clôture** — a cerca
+- [ ] **la confiture** — a geleia
+- [ ] **la confiture de fraises** — a geleia de morango
+- [ ] **la courgette** — a abobrinha
+- [ ] **la craie** — o giz
+- [ ] **la crevette** — o camarão
+- [ ] **la déportation** — deportação
+- [ ] **la fondue** — a fondue
+- [ ] **la fresque murale** — afresco mural
+- [ ] **la glace au chocolat** — o sorvete de chocolate
+- [ ] **la gorgée** — o gole
+- [ ] **la jupe** — a saia
+- [ ] **la limonade** — a limonada
+- [ ] **la manœuvre** — manobra (substantivo feminino)
+- [ ] **la médaille** — a medalha
+- [ ] **la métamorphose** — metamorfose, transformação
+- [ ] **la mousse au chocolat** — o mousse de chocolate
+- [ ] **la passoire** — a peneira / o escorredor
+- [ ] **la perceuse** — a furadeira
+- [ ] **la photo numérique** — a foto digital
+- [ ] **la planche à repasser** — a tábua de passar
+- [ ] **la plaque photographique** — chapa fotográfica
+- [ ] **la pomme de terre** — a batata
+- [ ] **la poudre** — o pó
+- [ ] **la prune** — a ameixa
+- [ ] **la purée** — o purê
+- [ ] **la rallonge** — a extensão
+- [ ] **la ratatouille** — o ratatouille
+- [ ] **la rue piétonne** — a rua de pedestres
+- [ ] **la rumeur** — o rumor (boato)
+- [ ] **la salade verte** — a salada verde
+- [ ] **la salle de bain** — o banheiro
+- [ ] **la satire** — a sátira
+- [ ] **la serviette de bain** — a toalha de banho
+- [ ] **la soupe de légumes** — a sopa de legumes
+- [ ] **la souris d’ordinateur** — o mouse
+- [ ] **la station spatiale** — a estação espacial
+- [ ] **la teinture** — a tintura, o corante
+- [ ] **la tisane** — o chá de ervas
+- [ ] **la tour pointue** — a torre pontiaguda
+- [ ] **la véranda** — a varanda / a varanda fechada
+- [ ] **la vidéo en ligne** — o vídeo online
+- [ ] **la violation** — a violação
+- [ ] **laisser un message** — deixar um recado
+- [ ] **laver la vaisselle** — lavar a louça
+- [ ] **le balai** — a vassoura
+- [ ] **le blanc d'œuf** — a clara de ovo
+- [ ] **le briquetier** — tijoleiro (substantivo masculino)
+- [ ] **le cadran** — o mostrador, o quadrante
+- [ ] **le calendrier** — o calendário
+- [ ] **le canard sauvage** — o pato selvagem
+- [ ] **le carburant** — o combustível
+- [ ] **le castelet** — castelet (palco de marionetes)
+- [ ] **le clavier** — o teclado
+- [ ] **le coiffeur** — o cabeleireiro
+- [ ] **le concombre** — o pepino
+- [ ] **le cosmopolitisme** — o cosmopolitismo
+- [ ] **le couvercle** — a tampa
+- [ ] **le dessin animé** — o desenho animado
+- [ ] **le faste** — o fausto (luxo suntuoso)
+- [ ] **le ferry** — balsa
+- [ ] **le fonctionnaire** — o funcionário público
+- [ ] **le fouet** — o batedor
+- [ ] **le fruit de mer** — o fruto do mar
+- [ ] **le garçon** — o menino
+- [ ] **le gratin** — o gratinado
+- [ ] **le gruyère** — o gruyère
+- [ ] **le haricot blanc** — feijão branco (substantivo masculino)
+- [ ] **le jeu télévisé** — o programa de auditório
+- [ ] **le journal intime** — o diário
+- [ ] **le jus de pomme** — o suco de maçã
+- [ ] **le lave-vaisselle** — a lava-louças
+- [ ] **le micro** — o microfone
+- [ ] **le minuteur** — o timer
+- [ ] **le monastère** — o monastério
+- [ ] **le mur peint** — muro pintado (afresco de fachada)
+- [ ] **le nom d’utilisateur** — o nome de usuário
+- [ ] **le parc à huîtres** — o parque de ostras
+- [ ] **le passage piéton** — a faixa de pedestres
+- [ ] **le plancher** — o assoalho
+- [ ] **le poisson rouge** — o peixinho dourado
+- [ ] **le port naturel** — porto natural
+- [ ] **le poulet rôti** — o frango assado
+- [ ] **le produit de nettoyage** — o produto de limpeza
+- [ ] **le quart d’heure** — o quarto de hora
+- [ ] **le rasoir** — o barbeador
+- [ ] **le réfrigérateur** — a geladeira
+- [ ] **le reportage** — a reportagem
+- [ ] **le robinet d’eau** — a torneira de água
+- [ ] **le rouleau à pâtisserie** — o rolo de massa
+- [ ] **le saumon** — o salmão
+- [ ] **le shampooing** — o xampu
+- [ ] **le site internet** — o site
+- [ ] **le soda** — o refrigerante
+- [ ] **le stylo** — a caneta
+- [ ] **le t-shirt** — a camiseta
+- [ ] **le thé noir** — o chá preto
+- [ ] **le thon** — o atum
+- [ ] **le tombeau** — o túmulo
+- [ ] **le tournevis** — a chave de fenda
+- [ ] **le troupeau** — o rebanho
+- [ ] **le ver à soie** — bicho-da-seda
+- [ ] **le yaourt** — o iogurte
+- [ ] **lequel** — qual deles
+- [ ] **les chaussettes** — as meias
+- [ ] **les crêpes sucrées** — os crepes doces
+- [ ] **les œufs brouillés** — os ovos mexidos
+- [ ] **libérer** — libertar
+- [ ] **maigre** — magro / esguio
+- [ ] **marcher à pied** — ir a pé
+- [ ] **mélanger** — misturar
+- [ ] **mercredi** — quarta-feira
+- [ ] **migrer** — migrar
+- [ ] **mimer** — imitar, representar com gestos
+- [ ] **moche** — feio (coloquial)
+- [ ] **monter dans le train** — subir no trem
+- [ ] **mourir** — morrer
+- [ ] **musclé** — musculoso
+- [ ] **neiger** — nevar
+- [ ] **nicher** — nidificar
+- [ ] **nulle part** — em lugar nenhum
+- [ ] **obéir** — obedecer
+- [ ] **onduler** — ondular, ondear (verbo)
+- [ ] **orchestre** — orquestra
+- [ ] **paître** — pastar
+- [ ] **pardon** — com licença / perdão / desculpe
+- [ ] **partager une photo** — compartilhar uma foto
+- [ ] **passe Navigo** — passe Navigo / cartão Navigo
+- [ ] **passer l’aspirateur** — passar o aspirador
+- [ ] **payer en espèces** — pagar em dinheiro
+- [ ] **percer** — furar, romper
+- [ ] **perfectionner** — aperfeiçoar
+- [ ] **peureux** — medroso
+- [ ] **pleuvoir** — chover
+- [ ] **polluer** — poluir
+- [ ] **poser une question** — fazer uma pergunta
+- [ ] **prendre le bus** — pegar o ônibus
+- [ ] **prendre le petit-déjeuner** — tomar café da manhã
+- [ ] **prendre une douche** — tomar banho (chuveiro)
+- [ ] **préparer le repas** — preparar a refeição
+- [ ] **prêter attention** — prestar atenção (expressão)
+- [ ] **principale** — principal / central (adjetivo feminino singular)
+- [ ] **profiter** — aproveitar
+- [ ] **promener (se)** — Passear, caminhar por lazer (verbo pronominal)
+- [ ] **promettre** — prometer
+- [ ] **quatre-vingt-dix** — noventa
+- [ ] **ralentir** — desacelerar, diminuir o ritmo
+- [ ] **ramer** — remar
+- [ ] **rapetisser** — diminuir, encolher
+- [ ] **rapporter** — trazer de volta
+- [ ] **rassurer** — tranquilizar, tranquilizar (verbo)
+- [ ] **ravir** — encantar, alegrar
+- [ ] **réapprendre** — reaprender (verbo)
+- [ ] **réception** — recepção / na recepção
+- [ ] **recevoir un colis** — receber uma encomenda
+- [ ] **récompense** — recompensa
+- [ ] **reconstituer** — reconstituir (verbo)
+- [ ] **recouvrir** — cobrir
+- [ ] **redémarrer** — reiniciar
+- [ ] **redevenir** — voltar a ser
+- [ ] **regarder une vidéo** — assistir a um vídeo
+- [ ] **remédier à** — resolver, remediar (verbo + à)
+- [ ] **remuer** — mexer
+- [ ] **rentrer à la maison** — voltar para casa
+- [ ] **répondre** — responder / responde
+- [ ] **reposer (se)** — Descansar, repousar (verbo pronominal)
+- [ ] **représenter** — representar
+- [ ] **résonner** — ressoar
+- [ ] **rester à la maison** — ficar em casa
+- [ ] **retentir** — ressoar, ecoar
+- [ ] **rêver de** — sonhar com (verbo + de)
+- [ ] **risquer** — arriscar (verbo)
+- [ ] **rouler** — rolar, andar (de veículo)
+- [ ] **s'agenouiller** — ajoelhar-se
+- [ ] **s'animer** — animar-se, ganhar vida
+- [ ] **s'enfermer** — trancar-se (verbo pronominal)
+- [ ] **s'enfuir** — fugir
+- [ ] **s’entraîner** — treinar
+- [ ] **s'étonner** — espantar-se (verbo pronominal)
+- [ ] **s'excuser** — desculpar-se
+- [ ] **s'inquiéter** — preocupar-se (verbo pronominal)
+- [ ] **s'occuper de** — cuidar de
+- [ ] **saluer** — cumprimentar (verbo)
+- [ ] **savourer** — saborear
+- [ ] **sculpter** — esculpir
+- [ ] **se brosser** — escovar-se
+- [ ] **se chausser** — calçar-se
+- [ ] **se connecter** — conectar-se
+- [ ] **se déconnecter** — desconectar-se
+- [ ] **se détendre** — relaxar
+- [ ] **se faire des amis** — fazer amigos
+- [ ] **se laver** — lavar-se
+- [ ] **se lever tôt** — levantar cedo
+- [ ] **se moquer** — zombar, caçoar
+- [ ] **se percher** — empoleirar-se (verbo pronominal)
+- [ ] **se raser** — barbear-se
+- [ ] **se relever** — levantar-se de novo
+- [ ] **se succéder** — suceder-se (verbo pronominal)
+- [ ] **secondaire** — secundário
+- [ ] **shopping** — compras / shopping / fazer compras
+- [ ] **signer** — assinar
+- [ ] **somptueux** — suntuoso / luxuoso / magnífico
+- [ ] **sortir le soir** — sair à noite
+- [ ] **soulager** — aliviar / diminuir a dor
+- [ ] **soupirer** — suspirar
+- [ ] **suffire** — bastar
+- [ ] **supprimer** — apagar
+- [ ] **surveiller** — vigiar
+- [ ] **symphonie** — sinfonia
+- [ ] **taper** — digitar
+- [ ] **télécharger** — baixar
+- [ ] **tenir une promesse** — cumprir uma promessa (expressão)
+- [ ] **terminal** — terminal / fim de linha / terminus
+- [ ] **timide** — tímido
+- [ ] **toucher l’écran** — tocar na tela
+- [ ] **tourner à gauche** — virar à esquerda
+- [ ] **trajet** — trajeto / percurso / viagem
+- [ ] **transformer** — transformar (verbo)
+- [ ] **traverser la rue** — atravessar a rua
+- [ ] **trilha** — trilha / caminho cultural de exploração
+- [ ] **trouver son chemin** — achar o caminho
+- [ ] **unifier** — unificar
+- [ ] **valider son billet** — validar o bilhete
+- [ ] **vingt et un** — vinte e um
+- [ ] **visiter un musée** — visitar um museu
+- [ ] **Wi-Fi** — Wi-Fi / rede sem fio
+
+## A2 (224)
+
+- [ ] **à gauche** — à esquerda
+- [ ] **accepter une invitation** — aceitar um convite
+- [ ] **acheter en ligne** — comprar online
+- [ ] **agacer** — irritar / aborrecer
+- [ ] **allergique** — alérgico
+- [ ] **animées** — animadas / movimentadas (adjetivo feminino plural)
+- [ ] **antipathique** — antipático
+- [ ] **attrister** — entristecer
+- [ ] **avertir** — advertir / avisar
+- [ ] **avoir faim** — ter fome
+- [ ] **avoir le temps** — ter tempo
+- [ ] **avoir soif** — ter sede
+- [ ] **bavarder** — bater papo
+- [ ] **chauve** — careca
+- [ ] **composer le code** — digitar a senha
+- [ ] **continuer tout droit** — continuar em frente
+- [ ] **créer un compte** — criar uma conta
+- [ ] **déclarer** — declarar
+- [ ] **demander conseil** — pedir conselho
+- [ ] **dernièrement** — ultimamente
+- [ ] **descendre l’escalier** — descer a escada
+- [ ] **détendu** — relaxado
+- [ ] **donner son avis** — dar a opinião
+- [ ] **échanger un article** — trocar um produto
+- [ ] **émouvoir** — comover
+- [ ] **en colère** — com raiva
+- [ ] **en version originale** — na versão original
+- [ ] **énerver** — irritar
+- [ ] **envoyer un colis** — enviar uma encomenda
+- [ ] **essayer un vêtement** — experimentar uma roupa
+- [ ] **étonner** — surpreender
+- [ ] **être d’accord** — estar de acordo
+- [ ] **être en panne** — estar quebrado
+- [ ] **être poli** — ser educado
+- [ ] **fâché** — irritado / zangado
+- [ ] **faire la bise** — dar beijinhos
+- [ ] **faire la queue** — enfrentar a fila
+- [ ] **faire une pause** — fazer uma pausa
+- [ ] **féliciter** — parabenizar
+- [ ] **fermer le parapluie** — fechar o guarda-chuva
+- [ ] **frapper à la porte** — bater na porta
+- [ ] **gaspiller** — desperdiçar
+- [ ] **honnête** — honesto
+- [ ] **il fait du vent** — está ventando
+- [ ] **il y a de l’orage** — há tempestade
+- [ ] **indiquer** — indicar
+- [ ] **intéressant** — interessante
+- [ ] **jaloux** — ciumento / invejoso
+- [ ] **l’adaptateur** — o adaptador
+- [ ] **l’aigle** — a águia
+- [ ] **l’année dernière** — o ano passado
+- [ ] **l’appel vidéo** — a videochamada
+- [ ] **l’assiette plate** — o prato raso
+- [ ] **l’audioguide** — o audioguia
+- [ ] **l’embouteillage** — o congestionamento
+- [ ] **l’escale** — a escala
+- [ ] **l’hôtesse de l’air** — a comissária de bordo
+- [ ] **l’imperméable** — a capa de chuva
+- [ ] **l’orage** — a tempestade
+- [ ] **l’orpheline** — a órfã
+- [ ] **la bande-annonce** — o trailer
+- [ ] **la boîte de réception** — a caixa de entrada
+- [ ] **la bruine** — a garoa
+- [ ] **la cantine** — o refeitório
+- [ ] **la carte de transport** — o cartão de transporte
+- [ ] **la chambre d’amis** — o quarto de hóspedes
+- [ ] **la chauve-souris** — o morcego
+- [ ] **la chouette** — a coruja (sem orelhas)
+- [ ] **la cliente** — a cliente
+- [ ] **la commission** — a taxa / a comissão
+- [ ] **la console de jeux** — o videogame
+- [ ] **la coupelle** — o potinho / a tigelinha
+- [ ] **la couverture supplémentaire** — o cobertor extra
+- [ ] **la déception** — a decepção
+- [ ] **la déviation** — o desvio
+- [ ] **la douzaine** — a dúzia
+- [ ] **la feuille de calcul** — a planilha
+- [ ] **la file d’attente** — a fila
+- [ ] **la grippe** — a gripe
+- [ ] **la journée tranquille** — o dia tranquilo
+- [ ] **la lettre recommandée** — a carta registrada
+- [ ] **la locomotive** — a locomotiva
+- [ ] **la méduse** — a água-viva
+- [ ] **la moustache** — o bigode
+- [ ] **la nuitée** — a diária
+- [ ] **la pause café** — a pausa para o café
+- [ ] **la pension complète** — a pensão completa
+- [ ] **la petite cuillère** — a colher de chá
+- [ ] **la photocopie** — a fotocópia
+- [ ] **la piqûre** — a injeção
+- [ ] **la place côté fenêtre** — o assento na janela
+- [ ] **la pointure** — o número (calçado)
+- [ ] **la poule** — a galinha
+- [ ] **la promotion** — a promoção
+- [ ] **la remise** — o desconto
+- [ ] **la salle d’attente** — a sala de espera
+- [ ] **la serviette de table** — o guardanapo de mesa
+- [ ] **la soif** — a sede
+- [ ] **la table libre** — a mesa livre
+- [ ] **la tortue** — a tartaruga
+- [ ] **la vache** — a vaca
+- [ ] **la visioconférence** — a videoconferência
+- [ ] **le banquier** — o gerente de banco
+- [ ] **le blouson** — a jaqueta
+- [ ] **le bureau (meuble)** — a escrivaninha
+- [ ] **le caddie** — o carrinho de compras
+- [ ] **le café-restaurant** — o café-restaurante
+- [ ] **le cellier** — a despensa
+- [ ] **le chauffage** — o aquecimento
+- [ ] **le chemisier** — a blusa
+- [ ] **le ciel dégagé** — o céu limpo
+- [ ] **le cockpit** — a cabine do piloto
+- [ ] **le coin non-fumeur** — a área de não fumantes
+- [ ] **le compte bancaire** — a conta bancária
+- [ ] **le corail** — o coral
+- [ ] **le coupe-ongles** — o cortador de unhas
+- [ ] **le crabe** — o caranguejo
+- [ ] **le débarras** — o quartinho de despejo
+- [ ] **le destinataire** — o destinatário
+- [ ] **le distributeur automatique** — a máquina automática
+- [ ] **le fast-food** — o fast-food
+- [ ] **le fichier** — o arquivo
+- [ ] **le film d’action** — o filme de ação
+- [ ] **le footing** — a corrida
+- [ ] **le gel douche** — o gel de banho
+- [ ] **le groupe de musique** — a banda
+- [ ] **le hérisson** — o ouriço
+- [ ] **le hublot** — a janela do avião
+- [ ] **le jumeau** — o gêmeo
+- [ ] **le lézard** — o lagarto
+- [ ] **le lit simple** — a cama de solteiro
+- [ ] **le locataire** — o inquilino
+- [ ] **le loisir** — o lazer
+- [ ] **le mal de dos** — a dor nas costas
+- [ ] **le malheur** — a infelicidade
+- [ ] **le mascara** — o rímel
+- [ ] **le metteur en scène** — o diretor (de teatro)
+- [ ] **le mois prochain** — o próximo mês
+- [ ] **le moule à gâteau** — a forma de bolo
+- [ ] **le panier en ligne** — o carrinho virtual
+- [ ] **le papier toilette** — o papel higiênico
+- [ ] **le passe-temps** — o passatempo
+- [ ] **le phoque** — a foca
+- [ ] **le pilote d’avion** — o piloto de avião
+- [ ] **le polo** — a camisa polo
+- [ ] **le post-it** — o bloco autoadesivo
+- [ ] **le pyjama** — o pijama
+- [ ] **le recyclage** — a reciclagem
+- [ ] **le rendez-vous médical** — a consulta médica
+- [ ] **le résultat** — o resultado
+- [ ] **le sac en plastique** — a sacola plástica
+- [ ] **le scotch** — a fita adesiva
+- [ ] **le sens unique** — a mão única
+- [ ] **le short** — o short
+- [ ] **le sous-titre** — a legenda
+- [ ] **le stress** — o estresse
+- [ ] **le téléchargement** — o download
+- [ ] **le temps sec** — o tempo seco
+- [ ] **le ticket de caisse** — o recibo
+- [ ] **le tremblement de terre** — o terremoto
+- [ ] **le vernis à ongles** — o esmalte
+- [ ] **le vin rosé** — o vinho rosé
+- [ ] **les boucles d’oreilles** — os brincos
+- [ ] **les chaussures à talons** — os sapatos de salto
+- [ ] **les cheveux bouclés** — o cabelo cacheado
+- [ ] **les cheveux frisés** — o cabelo crespo
+- [ ] **les cheveux raides** — o cabelo liso
+- [ ] **les noces** — as bodas
+- [ ] **les taches de rousseur** — as sardas
+- [ ] **les yeux marron** — os olhos castanhos
+- [ ] **libérer la chambre** — desocupar o quarto
+- [ ] **louer un appartement** — alugar um apartamento
+- [ ] **malvoyant** — com deficiência visual
+- [ ] **mettre en copie** — colocar em cópia
+- [ ] **ne pas être d’accord** — não estar de acordo
+- [ ] **optimiste** — otimista
+- [ ] **ouvrir un compte** — abrir uma conta
+- [ ] **partir au travail** — sair para o trabalho
+- [ ] **passionnée** — apaixonada / entusiasta
+- [ ] **peindre un mur** — pintar uma parede
+- [ ] **planter** — travar (sistema)
+- [ ] **porter des lunettes** — usar óculos
+- [ ] **porter un chapeau** — usar um chapéu
+- [ ] **précéder** — preceder
+- [ ] **prendre rendez-vous** — marcar compromisso
+- [ ] **prendre un parapluie** — levar um guarda-chuva
+- [ ] **progrès** — progresso / evolução / avanço
+- [ ] **râler** — resmungar
+- [ ] **recharger** — recarregar
+- [ ] **regarder la télévision** — assistir à televisão
+- [ ] **rembourser** — reembolsar
+- [ ] **rendre un livre** — devolver um livro
+- [ ] **repasser le linge** — passar a roupa
+- [ ] **répondre au message** — responder à mensagem
+- [ ] **retrouver** — reencontrar
+- [ ] **réutiliser** — reutilizar
+- [ ] **s’énerver** — irritar-se
+- [ ] **s’étonner** — surpreender-se
+- [ ] **s’inscrire** — inscrever-se
+- [ ] **s’occuper de** — cuidar de / ocupar-se de
+- [ ] **scanner** — escanear
+- [ ] **se changer** — trocar de roupa
+- [ ] **se connecter au wifi** — conectar-se ao wifi
+- [ ] **se disputer** — brigar
+- [ ] **se fâcher** — ficar com raiva
+- [ ] **se garer** — estacionar
+- [ ] **se plaindre** — reclamar
+- [ ] **se protéger du soleil** — proteger-se do sol
+- [ ] **se régaler** — deliciar-se
+- [ ] **se repérer** — localizar-se
+- [ ] **se servir** — servir-se
+- [ ] **se tromper de route** — errar o caminho
+- [ ] **sortir les poubelles** — colocar o lixo para fora
+- [ ] **souhaiter un bon anniversaire** — desejar feliz aniversário
+- [ ] **stationner** — estacionar
+- [ ] **surfer sur internet** — navegar na internet
+- [ ] **tchatter** — conversar (chat)
+- [ ] **tomber malade** — ficar doente
+- [ ] **transférer** — encaminhar
+- [ ] **traverser le pont** — atravessar a ponte
+- [ ] **un pot de** — um pote de
+- [ ] **verrouiller** — trancar
+- [ ] **visser** — aparafusar
+- [ ] **voyager à pied** — viajar a pé

@@ -1,0 +1,252 @@
+{
+  "id": "paris_lesson_47",
+  "cityId": "paris",
+  "domain": "Lazer & Cinema",
+  "level": "Iniciante (A1)",
+  "titleFr": "Le cinéma",
+  "titlePt": "O cinema",
+  "subtitleFr": "Une soirée au cinéma",
+  "subtitlePt": "Uma noite no cinema",
+  "summaryPt": "Nesta Aula 47 (A1), a família vai ao cinema. O aluno aprende o vocabulário do cinema (cinéma, film, place, écran, histoire, acteur, regarder, rigoler, séance) e o verbo aller com o passé composé.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Le vendredi soir, la famille va au cinéma. « Il y a un nouveau film pour les enfants, dit Andréa. Il commence à dix-neuf heures. Prenons les places maintenant ! »",
+      "pt": "Na sexta à noite, a família vai ao cinema. « Há um filme novo para crianças, diz Andréa. Ele começa às dezenove horas. Vamos comprar os ingressos agora! »"
+    },
+    {
+      "id": 2,
+      "fr": "Au cinéma, Iris achète du pop-corn. Ils entrent dans la salle et s'assoient. « L'écran est très grand ! dit Iris. J'adore regarder des films ici. »",
+      "pt": "No cinema, Íris compra pipoca. Eles entram na sala e se sentam. « A tela é muito grande! diz Íris. Adoro ver filmes aqui. »"
+    },
+    {
+      "id": 3,
+      "fr": "Le film raconte l'histoire d'un petit chat qui voyage dans le monde. Les acteurs sont des animaux qui parlent. Toute la famille rigole beaucoup. « C'est drôle ! » dit Iris.",
+      "pt": "O filme conta a história de um gatinho que viaja pelo mundo. Os atores são animais que falam. Toda a família ri muito. « É engraçado! » diz Íris."
+    },
+    {
+      "id": 4,
+      "fr": "Après la séance, Irlan demande : « Est-ce que tu as aimé le film, Iris ? » Elle répond : « Oui, beaucoup ! Merci papa et maman. C'était la meilleure soirée ! »",
+      "pt": "Depois da sessão, Irlan pergunta: « Você gostou do filme, Íris? » Ela responde: « Sim, muito! Obrigada, papai e mamãe. Foi a melhor noite! »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "le cinéma",
+      "definitionPt": "o cinema",
+      "definitionFr": "Lieu où l'on regarde des films.",
+      "inflections": ["le cinéma", "un cinéma", "des cinémas"],
+      "ptTargets": ["cinema"],
+      "examples": [
+        { "level": "A1", "fr": "Le cinéma est grand.", "pt": "O cinema é grande." },
+        { "level": "A2-B1", "fr": "La famille va au cinéma le vendredi soir.", "pt": "A família vai ao cinema na sexta à noite." },
+        { "level": "B2", "fr": "Le cinéma, sombre, accueille les rêves des spectateurs.", "pt": "O cinema, escuro, acolhe os sonhos dos espectadores." },
+        { "level": "C1-C2", "fr": "C'est le cinéma qui, magique, transporte les spectateurs ailleurs.", "pt": "É o cinema que, mágico, transporta os espectadores para outro lugar." }
+      ]
+    },
+    {
+      "term": "le film",
+      "definitionPt": "o filme",
+      "definitionFr": "Histoire racontée en images.",
+      "inflections": ["le film", "un film", "des films"],
+      "ptTargets": ["filme"],
+      "examples": [
+        { "level": "A1", "fr": "Le film est drôle.", "pt": "O filme é engraçado." },
+        { "level": "A2-B1", "fr": "Il y a un nouveau film pour les enfants.", "pt": "Há um filme novo para crianças." },
+        { "level": "B2", "fr": "Le film, touchant, fait rire et rêver.", "pt": "O filme, tocante, faz rir e sonhar." },
+        { "level": "C1-C2", "fr": "C'est le film qui, réussi, reste dans les mémoires.", "pt": "É o filme que, bem-sucedido, fica nas memórias." }
+      ]
+    },
+    {
+      "term": "la place",
+      "definitionPt": "o ingresso (lugar)",
+      "definitionFr": "Billet pour le cinéma.",
+      "inflections": ["la place", "une place", "des places"],
+      "ptTargets": ["ingresso", "lugar"],
+      "examples": [
+        { "level": "A1", "fr": "La place coûte dix euros.", "pt": "O ingresso custa dez euros." },
+        { "level": "A2-B1", "fr": "Prenons les places maintenant !", "pt": "Vamos comprar os ingressos agora!" },
+        { "level": "B2", "fr": "Les places, choisies, attendent les spectateurs.", "pt": "Os lugares, escolhidos, esperam os espectadores." },
+        { "level": "C1-C2", "fr": "C'est la place qui, réservée, promet une belle séance.", "pt": "É o ingresso que, reservado, promete uma bela sessão." }
+      ]
+    },
+    {
+      "term": "l'écran",
+      "definitionPt": "a tela",
+      "definitionFr": "Surface où l'on voit le film.",
+      "inflections": ["l'écran", "un écran", "des écrans"],
+      "ptTargets": ["tela"],
+      "examples": [
+        { "level": "A1", "fr": "L'écran est grand.", "pt": "A tela é grande." },
+        { "level": "A2-B1", "fr": "L'écran est très grand ici.", "pt": "A tela é muito grande aqui." },
+        { "level": "B2", "fr": "L'écran, lumineux, montre les images du film.", "pt": "A tela, luminosa, mostra as imagens do filme." },
+        { "level": "C1-C2", "fr": "C'est l'écran qui, immense, ouvre la porte des histoires.", "pt": "É a tela que, imensa, abre a porta das histórias." }
+      ]
+    },
+    {
+      "term": "regarder",
+      "definitionPt": "assistir / olhar",
+      "definitionFr": "Observer quelque chose.",
+      "inflections": ["regarder", "je regarde", "nous regardons"],
+      "ptTargets": ["assistir", "olhar"],
+      "examples": [
+        { "level": "A1", "fr": "Je regarde un film.", "pt": "Eu assisto a um filme." },
+        { "level": "A2-B1", "fr": "J'adore regarder des films ici.", "pt": "Adoro assistir a filmes aqui." },
+        { "level": "B2", "fr": "Regarder un film en famille est un plaisir simple.", "pt": "Assistir a um filme em família é um prazer simples." },
+        { "level": "C1-C2", "fr": "C'est en regardant que l'on vit mille vies.", "pt": "É assistindo que se vive mil vidas." }
+      ]
+    },
+    {
+      "term": "la séance",
+      "definitionPt": "a sessão",
+      "definitionFr": "Projection d'un film.",
+      "inflections": ["la séance", "une séance", "des séances"],
+      "ptTargets": ["sessão"],
+      "examples": [
+        { "level": "A1", "fr": "La séance commence à dix-neuf heures.", "pt": "A sessão começa às dezenove horas." },
+        { "level": "A2-B1", "fr": "Après la séance, ils rentrent à la maison.", "pt": "Depois da sessão, eles voltam para casa." },
+        { "level": "B2", "fr": "La séance du soir attire beaucoup de monde.", "pt": "A sessão da noite atrai muita gente." },
+        { "level": "C1-C2", "fr": "C'est la séance qui, choisie, organise la soirée.", "pt": "É a sessão que, escolhida, organiza a noite." }
+      ]
+    },
+    {
+      "term": "l'acteur",
+      "definitionPt": "o ator",
+      "definitionFr": "Personne qui joue dans un film.",
+      "inflections": ["l'acteur", "un acteur", "des acteurs"],
+      "ptTargets": ["ator"],
+      "examples": [
+        { "level": "A1", "fr": "L'acteur est connu.", "pt": "O ator é conhecido." },
+        { "level": "A2-B1", "fr": "Les acteurs sont des animaux qui parlent.", "pt": "Os atores são animais que falam." },
+        { "level": "B2", "fr": "L'acteur, talentueux, donne vie au personnage.", "pt": "O ator, talentoso, dá vida ao personagem." },
+        { "level": "C1-C2", "fr": "C'est l'acteur qui, convaincant, fait oublier la réalité.", "pt": "É o ator que, convincente, faz esquecer a realidade." }
+      ]
+    },
+    {
+      "term": "rigoler",
+      "definitionPt": "rir / se divertir",
+      "definitionFr": "Rire beaucoup.",
+      "inflections": ["rigoler", "je rigole", "nous rigolons"],
+      "ptTargets": ["rir", "se divertir"],
+      "examples": [
+        { "level": "A1", "fr": "J'aime rigoler.", "pt": "Eu gosto de rir." },
+        { "level": "A2-B1", "fr": "Toute la famille rigole beaucoup.", "pt": "Toda a família ri muito." },
+        { "level": "B2", "fr": "Rigoler ensemble, c'est bon pour le cœur.", "pt": "Rir juntos faz bem ao coração." },
+        { "level": "C1-C2", "fr": "C'est en rigolant que l'on oublie les soucis.", "pt": "É rindo que se esquecem os problemas." }
+      ]
+    },
+    {
+      "term": "drôle",
+      "definitionPt": "engraçado",
+      "definitionFr": "Qui fait rire.",
+      "inflections": ["drôle", "drôles"],
+      "ptTargets": ["engraçado"],
+      "examples": [
+        { "level": "A1", "fr": "Le film est drôle.", "pt": "O filme é engraçado." },
+        { "level": "A2-B1", "fr": "Iris dit : « C'est drôle ! »", "pt": "Íris diz: « É engraçado! »" },
+        { "level": "B2", "fr": "L'histoire, drôle, fait sourire toute la salle.", "pt": "A história, engraçada, faz sorrir toda a sala." },
+        { "level": "C1-C2", "fr": "C'est drôle comme un bon film change la soirée.", "pt": "É engraçado como um bom filme muda a noite." }
+      ]
+    },
+    {
+      "term": "raconter",
+      "definitionPt": "contar",
+      "definitionFr": "Dire une histoire.",
+      "inflections": ["raconter", "je raconte", "nous racontons"],
+      "ptTargets": ["contar"],
+      "examples": [
+        { "level": "A1", "fr": "Je raconte une histoire.", "pt": "Eu conto uma história." },
+        { "level": "A2-B1", "fr": "Le film raconte l'histoire d'un petit chat.", "pt": "O filme conta a história de um gatinho." },
+        { "level": "B2", "fr": "Raconter une histoire, c'est partager un moment.", "pt": "Contar uma história é partilhar um momento." },
+        { "level": "C1-C2", "fr": "C'est en racontant que l'on transmet.", "pt": "É contando que se transmite." }
+      ]
+    },
+    {
+      "term": "le pop-corn",
+      "definitionPt": "a pipoca",
+      "definitionFr": "Maïs soufflé pour le cinéma.",
+      "inflections": ["le pop-corn"],
+      "ptTargets": ["pipoca"],
+      "examples": [
+        { "level": "A1", "fr": "Le pop-corn est bon.", "pt": "A pipoca é boa." },
+        { "level": "A2-B1", "fr": "Iris achète du pop-corn au cinéma.", "pt": "Íris compra pipoca no cinema." },
+        { "level": "B2", "fr": "Le pop-corn, croustillant, accompagne le film.", "pt": "A pipoca, crocante, acompanha o filme." },
+        { "level": "C1-C2", "fr": "C'est le pop-corn qui, partagé, fait partie de la fête.", "pt": "É a pipoca que, partilhada, faz parte da festa." }
+      ]
+    },
+    {
+      "term": "la meilleure",
+      "definitionPt": "a melhor",
+      "definitionFr": "Superlatif de bonne.",
+      "inflections": ["la meilleure", "le meilleur", "les meilleures"],
+      "ptTargets": ["melhor"],
+      "examples": [
+        { "level": "A1", "fr": "C'est la meilleure soirée.", "pt": "É a melhor noite." },
+        { "level": "A2-B1", "fr": "C'était la meilleure soirée !", "pt": "Foi a melhor noite!" },
+        { "level": "B2", "fr": "Ce film est le meilleur de l'année.", "pt": "Este filme é o melhor do ano." },
+        { "level": "C1-C2", "fr": "C'est la meilleure des soirées que la famille ait passées.", "pt": "É a melhor das noites que a família passou." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Le passé composé avec avoir (introdução)",
+    "explanationPt": "Para falar do passado, usa-se o passé composé: avoir (presente) + particípio. Ex.: 'J'ai acheté du pop-corn' (comprei pipoca), 'Tu as aimé le film ?' (você gostou do filme?), 'Nous avons rigolé' (nós rimos).",
+    "exampleFr": "J'ai acheté du pop-corn. Est-ce que tu as aimé le film ?",
+    "examplePt": "Comprei pipoca. Você gostou do filme?",
+    "practiceQuestion": "Complete: 'J'ai _____ du pop-corn.'",
+    "options": ["acheté", "acheter", "achetés"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "Prenons ! : o imperativo com nous",
+        "explanationPt": "Com 'nous', o imperativo é igual ao presente: 'Prenons les places !' (vamos comprar os ingressos!), 'Entrons dans la salle !' (vamos entrar na sala!).",
+        "exampleFr": "Prenons les places maintenant !",
+        "examplePt": "Vamos comprar os ingressos agora!",
+        "practiceQuestion": "Complete: '_____ les places maintenant !'",
+        "options": ["Prenons", "Prenons pas", "Prenons les pas"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "Est-ce que : fazer perguntas",
+        "explanationPt": "Para fazer perguntas: 'Est-ce que' + frase. Ex.: 'Est-ce que tu as aimé le film ?' (você gostou do filme?), 'Est-ce que nous sortons ?' (nós saímos?).",
+        "exampleFr": "Est-ce que tu as aimé le film, Iris ?",
+        "examplePt": "Você gostou do filme, Íris?",
+        "practiceQuestion": "Complete: 'Est-ce que tu as aimé _____ ?'",
+        "options": ["le film", "les film", "la film"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Quando a família vai ao cinema?",
+      "options": ["na sexta à noite", "no sábado de manhã", "no domingo à tarde"],
+      "correctIndex": 0,
+      "explanation": "Le vendredi soir, la famille va au cinéma."
+    },
+    {
+      "question": "O que Íris compra no cinema?",
+      "options": ["pipoca", "bala", "chocolate"],
+      "correctIndex": 0,
+      "explanation": "Iris achète du pop-corn."
+    },
+    {
+      "question": "Sobre o que é o filme?",
+      "options": ["um gatinho que viaja pelo mundo", "um cão policial", "um astronauta"],
+      "correctIndex": 0,
+      "explanation": "Le film raconte l'histoire d'un petit chat qui voyage dans le monde."
+    },
+    {
+      "question": "Complete: 'J'ai _____ du pop-corn.'",
+      "options": ["acheté", "acheter", "achetés"],
+      "correctIndex": 0,
+      "explanation": "Passé composé: j'ai acheté."
+    },
+    {
+      "question": "Complete: 'Est-ce que tu as aimé _____ ?'",
+      "options": ["le film", "les film", "la film"],
+      "correctIndex": 0,
+      "explanation": "Le film (masculino singular)."
+    }
+  ]
+}

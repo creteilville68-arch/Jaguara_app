@@ -1,0 +1,257 @@
+{
+  "id": "toulouse_lesson_16",
+  "cityId": "toulouse",
+  "domain": "História & Natureza",
+  "level": "Intermediário (B2)",
+  "titleFr": "Les écluses et le pont-canal : le génie de l'eau",
+  "titlePt": "As eclusas e a ponte-canal: o gênio da água",
+  "subtitleFr": "Expliquer un système technique avec EN et Y",
+  "subtitlePt": "Explicar um sistema técnico com EN e Y",
+  "summaryPt": "A família para numa eclusa para ver a manobra de uma péniche. Irlan explica a Íris como a água sobe e desce, e como o canal atravessa os rios graças a pontes-canal. Nesta aula B2, os pronomes EN e Y servem para falar com precisão: 'il y en a des dizaines', 'on y passe en bateau'.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "La péniche s'engagea dans l'écluse, un étroit couloir de pierre. L'éclusier referma la porte derrière elle, puis l'eau commença à monter. Íris, fascinée, ne clignait pas des yeux.",
+      "pt": "A barcaça entrou na eclusa, um corredor estreito de pedra. O eclusiero fechou a porta atrás dela, e a água começou a subir. Íris, fascinada, não piscava os olhos."
+    },
+    {
+      "id": 2,
+      "fr": "« Le principe est simple, dit Irlan. On remplit ou on vide le bassin pour passer d'un niveau à l'autre. Des écluses, il y en a des dizaines sur le canal : soixante-trois exactement. »",
+      "pt": "« O princípio é simples, disse Irlan. Enchemos ou esvaziamos a bacia para passar de um nível a outro. Eclusas, há dezenas delas no canal: sessenta e três exatamente. »"
+    },
+    {
+      "id": 3,
+      "fr": "Plus loin, le canal franchissait une rivière. « Ça, c'est un pont-canal, expliqua Andréa. L'eau du canal passe au-dessus de la rivière. On y circule en bateau sans jamais croiser les courants. »",
+      "pt": "Mais adiante, o canal atravessava um rio. « Isso é uma ponte-canal, explicou Andréa. A água do canal passa por cima do rio. Circula-se por ela de barco sem nunca cruzar as correntes. »"
+    },
+    {
+      "id": 4,
+      "fr": "Au bord, un pêcheur leur montra les poissons qui vivaient dans l'écluse. « Il y en a de toutes les tailles, dit-il. Des carpes, des gardons, même des anguilles. Le canal, on n'y pense pas, mais c'est un vrai jardin sous l'eau. »",
+      "pt": "Na margem, um pescador lhes mostrou os peixes que viviam na eclusa. « Há deles de todos os tamanhos, disse ele. Carpas, gardons, até enguias. O canal, a gente nem pensa nisso, mas é um verdadeiro jardim submerso. »"
+    },
+    {
+      "id": 5,
+      "fr": "Le soir, Irlan nota : « Riquet n'avait pas seulement construit un chemin d'eau. Il avait inventé une machine de 240 kilomètres. Et nous, on y a passé une journée entière sans voir le temps passer. »",
+      "pt": "À noite, Irlan anotou: « Riquet não tinha apenas construído um caminho de água. Tinha inventado uma máquina de 240 quilômetros. E nós passamos um dia inteiro nela sem ver o tempo passar. »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "la péniche",
+      "definitionPt": "barcaça (substantivo feminino)",
+      "definitionFr": "Bateau long et plat servant au transport sur les canaux.",
+      "inflections": ["la péniche", "des péniches"],
+      "ptTargets": ["barcaça", "barcaças"],
+      "examples": [
+        { "level": "A1", "fr": "La péniche est longue.", "pt": "A barcaça é longa." },
+        { "level": "A2-B1", "fr": "La péniche passe l'écluse.", "pt": "A barcaça passa pela eclusa." },
+        { "level": "B2", "fr": "La péniche s'engagea lentement dans le couloir de l'écluse.", "pt": "A barcaça entrou lentamente no corredor da eclusa." },
+        { "level": "C1-C2", "fr": "Les péniches de plaisance ont remplacé les chalands de marchandises sur le canal.", "pt": "As barcaças de lazer substituíram os batelões de carga no canal." }
+      ]
+    },
+    {
+      "term": "l'éclusier",
+      "definitionPt": "eclusiero, operador de eclusa (substantivo masculino)",
+      "definitionFr": "Personne qui manœuvre les écluses.",
+      "inflections": ["l'éclusier", "des éclusiers"],
+      "ptTargets": ["eclusiero", "operador de eclusa"],
+      "examples": [
+        { "level": "A1", "fr": "L'éclusier ouvre la porte.", "pt": "O eclusiero abre a porta." },
+        { "level": "A2-B1", "fr": "L'éclusier travaille sur le canal.", "pt": "O eclusiero trabalha no canal." },
+        { "level": "B2", "fr": "L'éclusier referma la porte derrière la péniche avant d'ouvrir les vannes.", "pt": "O eclusiero fechou a porta atrás da barcaça antes de abrir as comportas." },
+        { "level": "C1-C2", "fr": "Le métier d'éclusier, autrefois héréditaire, a été transformé par l'automatisation.", "pt": "O ofício de eclusiero, outrora hereditário, foi transformado pela automação." }
+      ]
+    },
+    {
+      "term": "la vanne",
+      "definitionPt": "comporta, válvula (substantivo feminino)",
+      "definitionFr": "Dispositif qui contrôle l'écoulement de l'eau.",
+      "inflections": ["la vanne", "des vannes"],
+      "ptTargets": ["comporta", "válvula"],
+      "examples": [
+        { "level": "A1", "fr": "La vanne est fermée.", "pt": "A comporta está fechada." },
+        { "level": "A2-B1", "fr": "L'éclusier ouvre les vannes.", "pt": "O eclusiero abre as comportas." },
+        { "level": "B2", "fr": "L'eau entre par les vannes latérales et fait monter la péniche.", "pt": "A água entra pelas comportas laterais e faz a barcaça subir." },
+        { "level": "C1-C2", "fr": "La manœuvre synchronisée des vannes évite les turbulences dangereuses.", "pt": "A manobra sincronizada das comportas evita turbulências perigosas." }
+      ]
+    },
+    {
+      "term": "le niveau",
+      "definitionPt": "nível (substantivo masculino)",
+      "definitionFr": "Hauteur atteinte par l'eau.",
+      "inflections": ["le niveau", "des niveaux"],
+      "ptTargets": ["nível", "níveis"],
+      "examples": [
+        { "level": "A1", "fr": "Le niveau de l'eau monte.", "pt": "O nível da água sobe." },
+        { "level": "A2-B1", "fr": "L'écluse fait passer d'un niveau à un autre.", "pt": "A eclusa faz passar de um nível a outro." },
+        { "level": "B2", "fr": "Le dénivelé total du canal atteint 190 mètres entre les deux mers.", "pt": "O desnível total do canal atinge 190 metros entre os dois mares." },
+        { "level": "C1-C2", "fr": "La gestion fine des niveaux d'eau permet d'économiser des millions de mètres cubes par an.", "pt": "A gestão fina dos níveis de água permite economizar milhões de metros cúbicos por ano." }
+      ]
+    },
+    {
+      "term": "le pont-canal",
+      "definitionPt": "ponte-canal (substantivo masculino)",
+      "definitionFr": "Pont qui porte un canal au-dessus d'une rivière.",
+      "inflections": ["le pont-canal", "des ponts-canaux"],
+      "ptTargets": ["ponte-canal"],
+      "examples": [
+        { "level": "A1", "fr": "Le pont-canal est haut.", "pt": "A ponte-canal é alta." },
+        { "level": "A2-B1", "fr": "Le canal passe sur le pont-canal.", "pt": "O canal passa sobre a ponte-canal." },
+        { "level": "B2", "fr": "Le pont-canal permet au canal de franchir une rivière sans se mélanger à elle.", "pt": "A ponte-canal permite que o canal atravesse um rio sem se misturar com ele." },
+        { "level": "C1-C2", "fr": "Les ponts-canaux du Midi, dont celui du Répudre, sont des prouesses techniques du XVIIe siècle.", "pt": "As pontes-canal do Midi, incluindo a do Répudre, são proezas técnicas do século XVII." }
+      ]
+    },
+    {
+      "term": "franchir",
+      "definitionPt": "atravessar, transpor (verbo)",
+      "definitionFr": "Traverser un obstacle.",
+      "inflections": ["je franchis", "franchir"],
+      "ptTargets": ["atravessar", "transpor", "atravessa"],
+      "examples": [
+        { "level": "A1", "fr": "Je franchis la rivière.", "pt": "Eu atravesso o rio." },
+        { "level": "A2-B1", "fr": "Le canal franchit la rivière sur un pont-canal.", "pt": "O canal atravessa o rio sobre uma ponte-canal." },
+        { "level": "B2", "fr": "La péniche franchit l'écluse sans jamais quitter l'eau.", "pt": "A barcaça atravessa a eclusa sem nunca sair da água." },
+        { "level": "C1-C2", "fr": "Franchir la ligne de partage des eaux fut le défi fondateur du projet de Riquet.", "pt": "Atravessar a linha divisória das águas foi o desafio fundador do projeto de Riquet." }
+      ]
+    },
+    {
+      "term": "le pêcheur",
+      "definitionPt": "pescador (substantivo masculino)",
+      "definitionFr": "Personne qui pêche des poissons.",
+      "inflections": ["le pêcheur", "des pêcheurs"],
+      "ptTargets": ["pescador", "pescadores"],
+      "examples": [
+        { "level": "A1", "fr": "Le pêcheur est patient.", "pt": "O pescador é paciente." },
+        { "level": "A2-B1", "fr": "Le pêcheur montre ses poissons.", "pt": "O pescador mostra seus peixes." },
+        { "level": "B2", "fr": "Au bord de l'écluse, un pêcheur leur montra les poissons du canal.", "pt": "Na margem da eclusa, um pescador lhes mostrou os peixes do canal." },
+        { "level": "C1-C2", "fr": "Les pêcheurs de l'écluse connaissent chaque reflet d'eau du canal.", "pt": "Os pescadores da eclusa conhecem cada reflexo de água do canal." }
+      ]
+    },
+    {
+      "term": "la carpe",
+      "definitionPt": "carpa (substantivo feminino)",
+      "definitionFr": "Poisson d'eau douce très répandu.",
+      "inflections": ["la carpe", "des carpes"],
+      "ptTargets": ["carpa", "carpas"],
+      "examples": [
+        { "level": "A1", "fr": "La carpe est dans l'eau.", "pt": "A carpa está na água." },
+        { "level": "A2-B1", "fr": "Il y a des carpes dans le canal.", "pt": "Há carpas no canal." },
+        { "level": "B2", "fr": "Des carpes, il y en a de toutes les tailles dans l'écluse.", "pt": "Carpas, há delas de todos os tamanhos na eclusa." },
+        { "level": "C1-C2", "fr": "La présence de carpes indique un écosystème aquatique relativement équilibré.", "pt": "A presença de carpas indica um ecossistema aquático relativamente equilibrado." }
+      ]
+    },
+    {
+      "term": "l'anguille",
+      "definitionPt": "enguia (substantivo feminino)",
+      "definitionFr": "Poisson long et fin, presque un serpent.",
+      "inflections": ["l'anguille", "des anguilles"],
+      "ptTargets": ["enguia", "enguias"],
+      "examples": [
+        { "level": "A1", "fr": "L'anguille est longue.", "pt": "A enguia é comprida." },
+        { "level": "A2-B1", "fr": "Les anguilles vivent dans la vase.", "pt": "As enguias vivem na lama." },
+        { "level": "B2", "fr": "Même des anguilles, dit le pêcheur, il y en a dans ce canal.", "pt": "Até enguias, disse o pescador, há delas nesse canal." },
+        { "level": "C1-C2", "fr": "L'anguille européenne, menacée, trouve encore refuge dans les canaux du Midi.", "pt": "A enguia europeia, ameaçada, ainda encontra refúgio nos canais do Midi." }
+      ]
+    },
+    {
+      "term": "la manœuvre",
+      "definitionPt": "manobra (substantivo feminino)",
+      "definitionFr": "Action de diriger un bateau ou un mécanisme.",
+      "inflections": ["la manœuvre", "des manœuvres"],
+      "ptTargets": ["manobra", "manobras"],
+      "examples": [
+        { "level": "A1", "fr": "La manœuvre est difficile.", "pt": "A manobra é difícil." },
+        { "level": "A2-B1", "fr": "La manœuvre de l'écluse demande de l'attention.", "pt": "A manobra da eclusa exige atenção." },
+        { "level": "B2", "fr": "La manœuvre complète d'une écluse ne prend que quelques minutes.", "pt": "A manobra completa de uma eclusa leva apenas alguns minutos." },
+        { "level": "C1-C2", "fr": "La précision de la manœuvre évite les chocs entre la péniche et les parois.", "pt": "A precisão da manobra evita choques entre a barcaça e as paredes." }
+      ]
+    },
+    {
+      "term": "le jardin sous l'eau",
+      "definitionPt": "jardim submerso (expressão)",
+      "definitionFr": "Expression pour décrire la vie cachée d'un cours d'eau.",
+      "inflections": ["le jardin sous l'eau"],
+      "ptTargets": ["jardim submerso", "jardim debaixo d'água"],
+      "examples": [
+        { "level": "A1", "fr": "Le canal est plein de vie.", "pt": "O canal é cheio de vida." },
+        { "level": "A2-B1", "fr": "Sous l'eau, il y a un jardin secret.", "pt": "Debaixo d'água, há um jardim secreto." },
+        { "level": "B2", "fr": "« Le canal, c'est un vrai jardin sous l'eau », dit le pêcheur.", "pt": "« O canal é um verdadeiro jardim submerso », disse o pescador." },
+        { "level": "C1-C2", "fr": "Percevoir le canal comme un jardin sous l'eau change notre rapport à ces voies artificielles.", "pt": "Perceber o canal como um jardim submerso muda nossa relação com essas vias artificiais." }
+      ]
+    },
+    {
+      "term": "cligner des yeux",
+      "definitionPt": "piscar os olhos (expressão)",
+      "definitionFr": "Fermer et rouvrir rapidement les paupières.",
+      "inflections": ["cligner des yeux"],
+      "ptTargets": ["piscar os olhos", "piscar"],
+      "examples": [
+        { "level": "A1", "fr": "Je cligne des yeux.", "pt": "Eu pisco os olhos." },
+        { "level": "A2-B1", "fr": "Íris ne clignait pas des yeux.", "pt": "Íris não piscava os olhos." },
+        { "level": "B2", "fr": "Fascinée par la montée des eaux, Íris ne clignait pas des yeux.", "pt": "Fascinada pela subida das águas, Íris não piscava os olhos." },
+        { "level": "C1-C2", "fr": "Ne pas cligner des yeux traduit une attention si intense qu'elle suspend le corps.", "pt": "Não piscar os olhos traduz uma atenção tão intensa que suspende o corpo." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "EN et Y pour parler du canal",
+    "explanationPt": "EN substitui complementos com 'de' (quantidade, origem): 'Des écluses, il y en a soixante-trois.' Y substitui lugares e complementos com 'à': 'On y circule en bateau' (circula-se lá, no canal).",
+    "exampleFr": "Des écluses, il y en a des dizaines ; et on y passe en bateau sans effort.",
+    "examplePt": "Eclusas, há dezenas delas; e passa-se por elas de barco sem esforço.",
+    "practiceQuestion": "Complete: 'Des carpes ? Il _____ a de toutes les tailles.'",
+    "options": ["y en", "en y", "en"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "Y pour un lieu (à + lieu)",
+        "explanationPt": "Y substitui um lugar ou um complemento com 'à': 'On circule sur le canal → on y circule.' / 'Nous pensons au canal → nous y pensons.'",
+        "exampleFr": "Le pont-canal, on y passe en bateau au-dessus de la rivière.",
+        "examplePt": "A ponte-canal, passa-se por ela de barco por cima do rio.",
+        "practiceQuestion": "Complete: 'Le canal ? Nous _____ avons passé la journée.'",
+        "options": ["y", "en", "le"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "EN + Y combinés (il y en a)",
+        "explanationPt": "Para dizer 'há muitos deles/nelas': 'Des écluses ? Il y en a soixante-trois.' A ordem é fixa: Y antes de EN.",
+        "exampleFr": "Des poissons dans l'écluse ? Il y en a de toutes les tailles.",
+        "examplePt": "Peixes na eclusa? Há deles de todos os tamanhos.",
+        "practiceQuestion": "Complete: 'Des anguilles ? Il _____ a même dans le canal.'",
+        "options": ["y en", "en y", "y"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Complete: 'Des écluses, il _____ a soixante-trois exactement.'",
+      "options": ["y en", "en y", "y"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'Des écluses, il y en a des dizaines sur le canal : soixante-trois exactement.'"
+    },
+    {
+      "question": "O que é um pont-canal?",
+      "options": ["Um canal que passa por cima de um rio", "Uma ponte para pedestres", "Um túnel submerso"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'L'eau du canal passe au-dessus de la rivière.'"
+    },
+    {
+      "question": "Quem manobra a eclusa?",
+      "options": ["O eclusiero", "O capitão da péniche", "O pescador"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'L'éclusier referma la porte derrière elle, puis l'eau commença à monter.'"
+    },
+    {
+      "question": "Qual frase usa corretamente Y para lugar?",
+      "options": ["Le pont-canal, on y passe en bateau.", "Le pont-canal, on en passe en bateau.", "Le pont-canal, on le passe en bateau."],
+      "correctIndex": 0,
+      "explanation": "Y substitui 'sur le pont-canal' (lugar): 'on y passe en bateau'."
+    },
+    {
+      "question": "Qual desnível total o canal vence entre os dois mares?",
+      "options": ["190 metros", "240 metros", "63 metros"],
+      "correctIndex": 0,
+      "explanation": "No vocabulário: 'Le dénivelé total du canal atteint 190 mètres entre les deux mers.'"
+    }
+  ]
+}

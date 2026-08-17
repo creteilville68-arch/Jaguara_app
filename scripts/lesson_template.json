@@ -1,0 +1,46 @@
+{
+  "id": "CITY_lesson_N",
+  "cityId": "CITY",
+  "domain": "Cotidiano",
+  "level": "Nível (A1)",
+  "titleFr": "",
+  "titlePt": "",
+  "subtitleFr": "",
+  "subtitlePt": "",
+  "summaryPt": "",
+  "paragraphs": [
+    { "id": 1, "fr": "", "pt": "" }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "",
+      "definitionPt": "",
+      "definitionFr": "",
+      "inflections": [""],
+      "ptTargets": [""],
+      "examples": [
+        { "level": "A1", "fr": "", "pt": "" },
+        { "level": "A2-B1", "fr": "", "pt": "" },
+        { "level": "B2", "fr": "", "pt": "" },
+        { "level": "C1-C2", "fr": "", "pt": "" }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "",
+    "explanationPt": "",
+    "exampleFr": "",
+    "examplePt": "",
+    "practiceQuestion": "",
+    "options": ["", "", ""],
+    "correctIndex": 0
+  },
+  "quizQuestions": [
+    {
+      "question": "",
+      "options": ["", "", ""],
+      "correctIndex": 0,
+      "explanation": ""
+    }
+  ]
+}

@@ -1,0 +1,252 @@
+{
+  "id": "mont_saint_michel_lesson_11",
+  "cityId": "mont-saint-michel",
+  "domain": "História & Cultura",
+  "level": "Básico (A2/B1)",
+  "titleFr": "La salle des Hôtes : recevoir les rois et les pèlerins",
+  "titlePt": "A sala dos Hóspedes: receber reis e peregrinos",
+  "subtitleFr": "Deux grandes cheminées, une lumière douce et mille ans d'accueil",
+  "subtitlePt": "Duas grandes lareiras, uma luz suave e mil anos de acolhimento",
+  "summaryPt": "Nesta Aula 11 (A2/B1), a família visita a salle des Hôtes da Merveille, onde os monges recebiam reis, duques e peregrinos. O aluno pratica o Imparfait para descrever o lugar e os hábitos (les moines accueillaient, le feu brûlait) e o contraste com o Passé Composé dos eventos.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "La salle des Hôtes est immense. Deux grandes cheminées brûlaient toute l'année pour réchauffer les visiteurs. « Les moines accueillaient ici les rois et les pauvres », a expliqué le guide.",
+      "pt": "A sala dos Hóspedes é imensa. Duas grandes lareiras queimavam o ano inteiro para aquecer os visitantes. « Os monges recebiam aqui reis e pobres », explicou o guia."
+    },
+    {
+      "id": 2,
+      "fr": "« Quand le roi Louis XI est venu en 1469, les moines ont allumé les deux cheminées », a dit Andréa. « Le feu brûlait jour et nuit pendant sa visite. »",
+      "pt": "« Quando o rei Luís XI veio em 1469, os monges acenderam as duas lareiras », disse Andréa. « O fogo queimava dia e noite durante sua visita. »"
+    },
+    {
+      "id": 3,
+      "fr": "Irlan a regardé les grandes fenêtres. « D'ici, on voyait la baie entière. Les pèlerins arrivaient de loin, fatigués, et les moines leur donnaient à manger. »",
+      "pt": "Irlan olhou as grandes janelas. « Daqui, via-se a baía inteira. Os peregrinos chegavam de longe, cansados, e os monges lhes davam de comer. »"
+    },
+    {
+      "id": 4,
+      "fr": "Íris a demandé : « Ils dormaient ici ? » « Non, les hôtes dormaient dans la salle, sur des tapis, mais les moines retournaient dans leurs cellules. »",
+      "pt": "Íris perguntou: « Eles dormiam aqui? » « Não, os hóspedes dormiam na sala, sobre tapetes, mas os monges voltavam para suas celas. »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "l'hôte",
+      "definitionPt": "o hóspede",
+      "definitionFr": "Personne reçue chez quelqu'un.",
+      "inflections": ["l'hôte", "l'hôtesse", "des hôtes"],
+      "ptTargets": ["hóspede"],
+      "examples": [
+        { "level": "A1", "fr": "L'hôte est arrivé.", "pt": "O hóspede chegou." },
+        { "level": "A2-B1", "fr": "La salle des Hôtes recevait les visiteurs du Mont.", "pt": "A sala dos Hóspedes recebia os visitantes do Mont." },
+        { "level": "B2", "fr": "Les hôtes dormaient sur des tapis dans la grande salle.", "pt": "Os hóspedes dormiam sobre tapetes na grande sala." },
+        { "level": "C1-C2", "fr": "Recevoir ses hôtes avec générosité était le devoir sacré des moines.", "pt": "Receber seus hóspedes com generosidade era o dever sagrado dos monges." }
+      ]
+    },
+    {
+      "term": "la cheminée",
+      "definitionPt": "a lareira",
+      "definitionFr": "Foyer où l'on fait du feu.",
+      "inflections": ["la cheminée", "une cheminée", "des cheminées"],
+      "ptTargets": ["lareira"],
+      "examples": [
+        { "level": "A1", "fr": "La cheminée est allumée.", "pt": "A lareira está acesa." },
+        { "level": "A2-B1", "fr": "Deux grandes cheminées brûlaient dans la salle.", "pt": "Duas grandes lareiras queimavam na sala." },
+        { "level": "B2", "fr": "Le feu de la cheminée réchauffait les pèlerins trempés.", "pt": "O fogo da lareira aquecia os peregrinos encharcados." },
+        { "level": "C1-C2", "fr": "Les cheminées de la Merveille n'ont jamais cessé de raconter l'accueil.", "pt": "As lareiras da Merveille nunca pararam de contar o acolhimento." }
+      ]
+    },
+    {
+      "term": "accueillir",
+      "definitionPt": "receber, acolher",
+      "definitionFr": "Recevoir quelqu'un.",
+      "inflections": ["j'accueille", "nous accueillons", "accueilli"],
+      "ptTargets": ["receber", "acolher"],
+      "examples": [
+        { "level": "A1", "fr": "J'accueille mes amis.", "pt": "Recebo meus amigos." },
+        { "level": "A2-B1", "fr": "Les moines accueillaient les pèlerins avec gentillesse.", "pt": "Os monges recebiam os peregrinos com gentileza." },
+        { "level": "B2", "fr": "Le Mont a accueilli des millions de visiteurs en mille ans.", "pt": "O Mont recebeu milhões de visitantes em mil anos." },
+        { "level": "C1-C2", "fr": "Accueillir l'autre, c'est ouvrir sa porte et son cœur.", "pt": "Acolher o outro é abrir a porta e o coração." }
+      ]
+    },
+    {
+      "term": "le roi",
+      "definitionPt": "o rei",
+      "definitionFr": "Souverain d'un royaume.",
+      "inflections": ["le roi", "un roi", "des rois"],
+      "ptTargets": ["rei"],
+      "examples": [
+        { "level": "A1", "fr": "Le roi est riche.", "pt": "O rei é rico." },
+        { "level": "A2-B1", "fr": "Louis XI est venu au Mont en 1469.", "pt": "Luís XI veio ao Mont em 1469." },
+        { "level": "B2", "fr": "Les rois de France visitaient le Mont pour prier.", "pt": "Os reis da França visitavam o Mont para rezar." },
+        { "level": "C1-C2", "fr": "Devant le roi comme devant le mendiant, les moines offraient la même table.", "pt": "Diante do rei como diante do mendigo, os monges ofereciam a mesma mesa." }
+      ]
+    },
+    {
+      "term": "le feu",
+      "definitionPt": "o fogo",
+      "definitionFr": "Flammes qui brûlent.",
+      "inflections": ["le feu", "un feu", "des feux"],
+      "ptTargets": ["fogo"],
+      "examples": [
+        { "level": "A1", "fr": "Le feu est chaud.", "pt": "O fogo é quente." },
+        { "level": "A2-B1", "fr": "Le feu brûlait jour et nuit.", "pt": "O fogo queimava dia e noite." },
+        { "level": "B2", "fr": "Les moines ont allumé un grand feu pour les visiteurs.", "pt": "Os monges acenderam um grande fogo para os visitantes." },
+        { "level": "C1-C2", "fr": "Le feu de la cheminée dansait sur les murs de pierre.", "pt": "O fogo da lareira dançava nas paredes de pedra." }
+      ]
+    },
+    {
+      "term": "brûler",
+      "definitionPt": "queimar, arder",
+      "definitionFr": "Être en feu.",
+      "inflections": ["je brûle", "nous brûlons", "brûlé"],
+      "ptTargets": ["queimar", "arder"],
+      "examples": [
+        { "level": "A1", "fr": "La bougie brûle.", "pt": "A vela queima." },
+        { "level": "A2-B1", "fr": "Le feu brûlait dans les deux cheminées.", "pt": "O fogo queimava nas duas lareiras." },
+        { "level": "B2", "fr": "Les bûches brûlaient lentement dans la grande cheminée.", "pt": "As toras queimavam lentamente na grande lareira." },
+        { "level": "C1-C2", "fr": "Les flammes brûlaient doucement, comme pour veiller sur les dormeurs.", "pt": "As chamas ardiam suavemente, como que velando pelos adormecidos." }
+      ]
+    },
+    {
+      "term": "le tapis",
+      "definitionPt": "o tapete",
+      "definitionFr": "Tissu posé sur le sol.",
+      "inflections": ["le tapis", "un tapis", "des tapis"],
+      "ptTargets": ["tapete"],
+      "examples": [
+        { "level": "A1", "fr": "Le tapis est rouge.", "pt": "O tapete é vermelho." },
+        { "level": "A2-B1", "fr": "Les hôtes dormaient sur des tapis.", "pt": "Os hóspedes dormiam sobre tapetes." },
+        { "level": "B2", "fr": "Les tapis étaient posés près des cheminées.", "pt": "Os tapetes eram colocados perto das lareiras." },
+        { "level": "C1-C2", "fr": "Sur les tapis usés, mille pèlerins avaient reposé leur fatigue.", "pt": "Sobre os tapetes gastos, mil peregrinos haviam depositado seu cansaço." }
+      ]
+    },
+    {
+      "term": "la cellule",
+      "definitionPt": "a cela (de monge)",
+      "definitionFr": "Petite chambre d'un moine.",
+      "inflections": ["la cellule", "une cellule", "des cellules"],
+      "ptTargets": ["cela"],
+      "examples": [
+        { "level": "A1", "fr": "La cellule est petite.", "pt": "A cela é pequena." },
+        { "level": "A2-B1", "fr": "Les moines retournaient dans leurs cellules.", "pt": "Os monges voltavam para suas celas." },
+        { "level": "B2", "fr": "Dans sa cellule, le moine priait en silence.", "pt": "Em sua cela, o monge rezava em silêncio." },
+        { "level": "C1-C2", "fr": "La cellule, nue et froide, était le luxe des âmes simples.", "pt": "A cela, nua e fria, era o luxo das almas simples." }
+      ]
+    },
+    {
+      "term": "la fenêtre",
+      "definitionPt": "a janela",
+      "definitionFr": "Ouverture avec du verre.",
+      "inflections": ["la fenêtre", "une fenêtre", "des fenêtres"],
+      "ptTargets": ["janela"],
+      "examples": [
+        { "level": "A1", "fr": "La fenêtre est grande.", "pt": "A janela é grande." },
+        { "level": "A2-B1", "fr": "Les grandes fenêtres montraient la baie.", "pt": "As grandes janelas mostravam a baía." },
+        { "level": "B2", "fr": "Par les fenêtres, on voyait la marée monter.", "pt": "Pelas janelas, via-se a maré subir." },
+        { "level": "C1-C2", "fr": "Les fenêtres de la Merveille encadrent le ciel et la mer.", "pt": "As janelas da Merveille emolduram o céu e o mar." }
+      ]
+    },
+    {
+      "term": "le moine",
+      "definitionPt": "o monge",
+      "definitionFr": "Homme qui vit dans un monastère.",
+      "inflections": ["le moine", "un moine", "des moines"],
+      "ptTargets": ["monge"],
+      "examples": [
+        { "level": "A1", "fr": "Le moine prie.", "pt": "O monge reza." },
+        { "level": "A2-B1", "fr": "Les moines accueillaient les visiteurs.", "pt": "Os monges recebiam os visitantes." },
+        { "level": "B2", "fr": "Les moines de la Merveille travaillaient, priaient et copiaient des livres.", "pt": "Os monges da Merveille trabalhavam, rezavam e copiavam livros." },
+        { "level": "C1-C2", "fr": "Les moines ont construit cette merveille pierre après pierre, prière après prière.", "pt": "Os monges construíram esta maravilha pedra após pedra, oração após oração." }
+      ]
+    },
+    {
+      "term": "la visite",
+      "definitionPt": "a visita",
+      "definitionFr": "Venue d'une personne ; tour d'un lieu.",
+      "inflections": ["la visite", "une visite", "des visites"],
+      "ptTargets": ["visita"],
+      "examples": [
+        { "level": "A1", "fr": "La visite est longue.", "pt": "A visita é longa." },
+        { "level": "A2-B1", "fr": "La visite du roi a duré plusieurs jours.", "pt": "A visita do rei durou vários dias." },
+        { "level": "B2", "fr": "Pendant sa visite, le roi a prié dans l'abbaye.", "pt": "Durante sua visita, o rei rezou na abadia." },
+        { "level": "C1-C2", "fr": "Chaque visite au Mont laisse une trace dans la mémoire des voyageurs.", "pt": "Cada visita ao Mont deixa uma marca na memória dos viajantes." }
+      ]
+    },
+    {
+      "term": "le guide",
+      "definitionPt": "o guia",
+      "definitionFr": "Personne qui fait visiter.",
+      "inflections": ["le guide", "la guide", "des guides"],
+      "ptTargets": ["guia"],
+      "examples": [
+        { "level": "A1", "fr": "Le guide parle doucement.", "pt": "O guia fala baixinho." },
+        { "level": "A2-B1", "fr": "Le guide a expliqué l'histoire de la salle.", "pt": "O guia explicou a história da sala." },
+        { "level": "B2", "fr": "La guide connaissait chaque pierre de la Merveille.", "pt": "A guia conhecia cada pedra da Merveille." },
+        { "level": "C1-C2", "fr": "Le guide racontait l'histoire comme on raconte un conte.", "pt": "O guia contava a história como se conta um conto." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Décrire un lieu au passé : l'Imparfait",
+    "explanationPt": "Para descrever como era um lugar, use o imparfait: 'deux cheminées brûlaient' (duas lareiras queimavam), 'les moines accueillaient' (os monges recebiam). É o tempo da descrição e dos hábitos.",
+    "exampleFr": "La salle était immense, les cheminées brûlaient et les moines accueillaient les visiteurs.",
+    "examplePt": "A sala era imensa, as lareiras queimavam e os monges recebiam os visitantes.",
+    "practiceQuestion": "Complete: « Les moines ___ les pèlerins. » (imparfait d'accueillir)",
+    "options": ["accueillaient", "accueillent", "ont accueilli"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "Quand + passé composé, imparfait pour le décor",
+        "explanationPt": "Num relato: 'quand le roi est venu (PC), les moines ont allumé (PC) les cheminées' — eventos. 'Le feu brûlait (IMP) jour et nuit' — pano de fundo. Imparfait decora, passé composé narra.",
+        "exampleFr": "Quand le roi est venu, les moines ont allumé les cheminées qui brûlaient jour et nuit.",
+        "examplePt": "Quando o rei veio, os monges acenderam as lareiras que queimavam dia e noite.",
+        "practiceQuestion": "Complete: « Quand Louis XI est venu, les moines ___ les cheminées. »",
+        "options": ["ont allumé", "allumaient", "allumeront"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "L'habitude au passé : retournaient, dormaient",
+        "explanationPt": "Hábitos no passado usam imparfait: 'les moines retournaient dans leurs cellules' (os monges voltavam para suas celas — toda noite).",
+        "exampleFr": "Chaque soir, les hôtes dormaient dans la salle et les moines retournaient dans leurs cellules.",
+        "examplePt": "Todas as noites, os hóspedes dormiam na sala e os monges voltavam para suas celas.",
+        "practiceQuestion": "Complete: « Chaque soir, les moines ___ dans leurs cellules. »",
+        "options": ["retournaient", "retournent", "sont retournés"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "O que havia de especial na salle des Hôtes?",
+      "options": ["Duas grandes lareiras que queimavam o ano inteiro", "Uma piscina", "Uma biblioteca com mil livros"],
+      "correctIndex": 0,
+      "explanation": "Duas grandes cheminées brûlaient para aquecer os visitantes do Mont."
+    },
+    {
+      "question": "Qual é o imparfait de 'les moines accueillent les pèlerins'?",
+      "options": ["les moines accueillaient les pèlerins", "les moines ont accueilli les pèlerins", "les moines accueilleront les pèlerins"],
+      "correctIndex": 0,
+      "explanation": "'Accueillaient' é o imparfait — hábito/descrição no passado."
+    },
+    {
+      "question": "Complete: « Quand Louis XI est venu, les moines ___ les cheminées. »",
+      "options": ["ont allumé", "allumaient", "allumeront"],
+      "correctIndex": 0,
+      "explanation": "Ação pontual no passado = passé composé: 'ont allumé'."
+    },
+    {
+      "question": "Em que ano o rei Luís XI visitou o Mont?",
+      "options": ["1469", "1863", "708"],
+      "correctIndex": 0,
+      "explanation": "Louis XI veio ao Mont em 1469 e os monges acenderam as duas lareiras."
+    },
+    {
+      "question": "Onde dormiam os hóspedes na Idade Média?",
+      "options": ["Na grande sala, sobre tapetes", "Em camas de pedra", "No claustro"],
+      "correctIndex": 0,
+      "explanation": "Os hóspedes dormiam na sala dos Hôtes, sobre tapetes, perto do fogo."
+    }
+  ]
+}

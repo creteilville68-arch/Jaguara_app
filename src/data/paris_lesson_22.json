@@ -1,0 +1,268 @@
+{
+  "id": "paris_lesson_22",
+  "cityId": "paris",
+  "domain": "História & Cidade",
+  "level": "Iniciante (A1)",
+  "titleFr": "Les Champs-Élysées et l'Arc de Triomphe",
+  "titlePt": "Os Champs-Élysées e o Arco do Triunfo",
+  "subtitleFr": "La plus belle avenue du monde et la flamme du Soldat inconnu",
+  "subtitlePt": "A avenida mais bonita do mundo e a chama do Soldado Desconhecido",
+  "summaryPt": "Nesta Aula 22 (A1), a família caminha pelos Champs-Élysées, a avenida mais famosa de Paris. Eles chegam ao Arco do Triunfo e veem a flamme du Soldat inconnu. Irlan dá direções como fazia quando entregava. O aluno aprende o imperativo de direção e a preposição 'au bout de'.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Les Champs-Élysées sont l'avenue la plus célèbre de Paris. Beaucoup de magasins et de cinémas bordent l'avenue. Les touristes marchent et photographient.",
+      "pt": "Os Champs-Élysées são a avenida mais famosa de Paris. Muitas lojas e cinemas ladeiam a avenida. Os turistas caminham e fotografam."
+    },
+    {
+      "id": 2,
+      "fr": "Nous marchons jusqu'au bout de l'avenue. Au bout, il y a l'Arc de Triomphe. « Allez tout droit, puis tournez à droite », dit Irlan en plaisantant.",
+      "pt": "Nós caminhamos até o fim da avenida. No fim, há o Arco do Triunfo. «Vão em frente e depois virem à direita», diz Irlan brincando."
+    },
+    {
+      "id": 3,
+      "fr": "Sous l'Arc de Triomphe, la flamme du Soldat inconnu brûle toujours. La famille regarde la flamme en silence. C'est un moment très émouvant.",
+      "pt": "Sob o Arco do Triunfo, a chama do Soldado Desconhecido queima sempre. A família olha a chama em silêncio. É um momento muito emocionante."
+    },
+    {
+      "id": 4,
+      "fr": "Le soir, la famille monte en haut de l'Arc. La vue sur Paris est incroyable : la tour Eiffel, La Défense et toutes les lumières de la ville.",
+      "pt": "À noite, a família sobe ao topo do Arco. A vista sobre Paris é incrível: a torre Eiffel, La Défense e todas as luzes da cidade."
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "avenue",
+      "definitionPt": "avenida",
+      "definitionFr": "Grande rue large et bordée d'arbres.",
+      "inflections": ["l'avenue", "une avenue", "des avenues"],
+      "ptTargets": ["avenida"],
+      "examples": [
+        { "level": "A1", "fr": "Les Champs-Élysées sont une avenue célèbre.", "pt": "Os Champs-Élysées são uma avenida famosa." },
+        { "level": "A2-B1", "fr": "L'avenue est large et belle.", "pt": "A avenida é larga e bonita." },
+        { "level": "B2", "fr": "Les grandes avenues de Paris sont bordées d'arbres.", "pt": "As grandes avenidas de Paris são ladeadas de árvores." },
+        { "level": "C1-C2", "fr": "L'avenue des Champs-Élysées est un symbole de l'élégance parisienne.", "pt": "A avenida dos Champs-Élysées é um símbolo da elegância parisiense." }
+      ]
+    },
+    {
+      "term": "célèbre",
+      "definitionPt": "famoso, célebre",
+      "definitionFr": "Qui est connu par beaucoup de gens.",
+      "inflections": ["célèbre", "célèbres"],
+      "ptTargets": ["famoso", "célebre"],
+      "examples": [
+        { "level": "A1", "fr": "C'est l'avenue la plus célèbre de Paris.", "pt": "É a avenida mais famosa de Paris." },
+        { "level": "A2-B1", "fr": "L'Arc de Triomphe est un monument célèbre.", "pt": "O Arco do Triunfo é um monumento famoso." },
+        { "level": "B2", "fr": "Les Champs-Élysées sont célèbres dans le monde entier.", "pt": "Os Champs-Élysées são famosos no mundo inteiro." },
+        { "level": "C1-C2", "fr": "Ce monument célèbre attire des millions de visiteurs.", "pt": "Este monumento famoso atrai milhões de visitantes." }
+      ]
+    },
+    {
+      "term": "magasin",
+      "definitionPt": "loja, magazine",
+      "definitionFr": "Lieu où l'on vend des produits.",
+      "inflections": ["le magasin", "un magasin", "des magasins"],
+      "ptTargets": ["loja"],
+      "examples": [
+        { "level": "A1", "fr": "Beaucoup de magasins bordent l'avenue.", "pt": "Muitas lojas ladeiam a avenida." },
+        { "level": "A2-B1", "fr": "Le magasin est ouvert jusqu'à vingt heures.", "pt": "A loja está aberta até as vinte horas." },
+        { "level": "B2", "fr": "Les grands magasins parisiens sont célèbres.", "pt": "As grandes lojas parisienses são famosas." },
+        { "level": "C1-C2", "fr": "Les magasins de l'avenue offrent le meilleur du luxe français.", "pt": "As lojas da avenida oferecem o melhor do luxo francês." }
+      ]
+    },
+    {
+      "term": "bout",
+      "definitionPt": "fim, extremidade",
+      "definitionFr": "L'extrémité d'une chose.",
+      "inflections": ["le bout"],
+      "ptTargets": ["fim", "extremidade"],
+      "examples": [
+        { "level": "A1", "fr": "L'Arc de Triomphe est au bout de l'avenue.", "pt": "O Arco do Triunfo fica no fim da avenida." },
+        { "level": "A2-B1", "fr": "La rue finit au bout du parc.", "pt": "A rua termina no fim do parque." },
+        { "level": "B2", "fr": "Au bout de l'avenue, le monument apparaît.", "pt": "No fim da avenida, o monumento aparece." },
+        { "level": "C1-C2", "fr": "Au bout de la perspective, l'Arc de Triomphe domine la ville.", "pt": "No fim da perspectiva, o Arco do Triunfo domina a cidade." }
+      ]
+    },
+    {
+      "term": "flamme",
+      "definitionPt": "chama",
+      "definitionFr": "Partie visible du feu.",
+      "inflections": ["la flamme", "une flamme", "des flammes"],
+      "ptTargets": ["chama"],
+      "examples": [
+        { "level": "A1", "fr": "La flamme brûle toujours.", "pt": "A chama queima sempre." },
+        { "level": "A2-B1", "fr": "La flamme du Soldat inconnu est éternelle.", "pt": "A chama do Soldado Desconhecido é eterna." },
+        { "level": "B2", "fr": "La flamme est ravivée chaque soir à dix-huit heures trente.", "pt": "A chama é reavivada todas as noites às dezoito e trinta." },
+        { "level": "C1-C2", "fr": "La flamme du souvenir brûle sous l'Arc de Triomphe depuis 1923.", "pt": "A chama da memória queima sob o Arco do Triunfo desde 1923." }
+      ]
+    },
+    {
+      "term": "brûler",
+      "definitionPt": "queimar",
+      "definitionFr": "Être en feu, produire de la chaleur.",
+      "inflections": ["je brûle", "brûler", "il brûle"],
+      "ptTargets": ["queimar"],
+      "examples": [
+        { "level": "A1", "fr": "La flamme brûle jour et nuit.", "pt": "A chama queima dia e noite." },
+        { "level": "A2-B1", "fr": "Le feu brûle dans la cheminée.", "pt": "O fogo queima na lareira." },
+        { "level": "B2", "fr": "La flamme brûle depuis presque cent ans.", "pt": "A chama queima há quase cem anos." },
+        { "level": "C1-C2", "fr": "La flamme qui brûle sans jamais s'éteindre est un symbole de mémoire.", "pt": "A chama que queima sem nunca se apagar é um símbolo de memória." }
+      ]
+    },
+    {
+      "term": "silence",
+      "definitionPt": "silêncio",
+      "definitionFr": "Absence de bruit.",
+      "inflections": ["le silence"],
+      "ptTargets": ["silêncio"],
+      "examples": [
+        { "level": "A1", "fr": "La famille regarde en silence.", "pt": "A família olha em silêncio." },
+        { "level": "A2-B1", "fr": "Le silence est profond dans le jardin.", "pt": "O silêncio é profundo no jardim." },
+        { "level": "B2", "fr": "Un moment de silence rend hommage aux soldats.", "pt": "Um momento de silêncio homenageia os soldados." },
+        { "level": "C1-C2", "fr": "Le silence du souvenir parle plus fort que les mots.", "pt": "O silêncio da memória fala mais alto que as palavras." }
+      ]
+    },
+    {
+      "term": "émouvant",
+      "definitionPt": "emocionante",
+      "definitionFr": "Qui touche le cœur, qui émeut.",
+      "inflections": ["émouvant", "émouvante", "émouvants", "émouvantes"],
+      "ptTargets": ["emocionante"],
+      "examples": [
+        { "level": "A1", "fr": "C'est un moment émouvant.", "pt": "É um momento emocionante." },
+        { "level": "A2-B1", "fr": "La cérémonie est très émouvante.", "pt": "A cerimônia é muito emocionante." },
+        { "level": "B2", "fr": "La flamme du souvenir est un spectacle émouvant.", "pt": "A chama da memória é um espetáculo emocionante." },
+        { "level": "C1-C2", "fr": "Se recueillir sous l'Arc est une expérience profondément émouvante.", "pt": "Recolher-se sob o Arco é uma experiência profundamente emocionante." }
+      ]
+    },
+    {
+      "term": "incroyable",
+      "definitionPt": "incrível",
+      "definitionFr": "Difficile à croire, extraordinaire.",
+      "inflections": ["incroyable", "incroyables"],
+      "ptTargets": ["incrível"],
+      "examples": [
+        { "level": "A1", "fr": "La vue est incroyable.", "pt": "A vista é incrível." },
+        { "level": "A2-B1", "fr": "C'est un spectacle incroyable !", "pt": "É um espetáculo incrível!" },
+        { "level": "B2", "fr": "Le panorama depuis l'Arc est incroyable.", "pt": "O panorama do Arco é incrível." },
+        { "level": "C1-C2", "fr": "La vue incroyable depuis l'Arc de Triomphe justifie la montée.", "pt": "A vista incrível do Arco do Triunfo justifica a subida." }
+      ]
+    },
+    {
+      "term": "photographier",
+      "definitionPt": "fotografar",
+      "definitionFr": "Prendre des photos.",
+      "inflections": ["je photographie", "photographier", "il photographie"],
+      "ptTargets": ["fotografar"],
+      "examples": [
+        { "level": "A1", "fr": "Les touristes photographient l'Arc de Triomphe.", "pt": "Os turistas fotografam o Arco do Triunfo." },
+        { "level": "A2-B1", "fr": "Nous photographions la vue.", "pt": "Nós fotografamos a vista." },
+        { "level": "B2", "fr": "Elle photographie les monuments de Paris.", "pt": "Ela fotografa os monumentos de Paris." },
+        { "level": "C1-C2", "fr": "Photographier Paris, c'est capturer sa lumière unique.", "pt": "Fotografar Paris é capturar a sua luz única." }
+      ]
+    },
+    {
+      "term": "tout droit",
+      "definitionPt": "em frente, reto",
+      "definitionFr": "Sans tourner, en ligne droite.",
+      "inflections": ["tout droit"],
+      "ptTargets": ["em frente", "reto"],
+      "examples": [
+        { "level": "A1", "fr": "Allez tout droit jusqu'au monument.", "pt": "Vão em frente até o monumento." },
+        { "level": "A2-B1", "fr": "Continuez tout droit puis tournez à droite.", "pt": "Continuem em frente e depois virem à direita." },
+        { "level": "B2", "fr": "L'avenue va tout droit vers l'Arc de Triomphe.", "pt": "A avenida vai reto em direção ao Arco do Triunfo." },
+        { "level": "C1-C2", "fr": "Suivre tout droit cette avenue mène au cœur du Paris monumental.", "pt": "Seguir reto por esta avenida leva ao coração do Paris monumental." }
+      ]
+    },
+    {
+      "term": "tourner",
+      "definitionPt": "virar, girar",
+      "definitionFr": "Changer de direction.",
+      "inflections": ["je tourne", "tourner", "il tourne"],
+      "ptTargets": ["virar", "girar"],
+      "examples": [
+        { "level": "A1", "fr": "Tournez à droite à la prochaine rue.", "pt": "Virem à direita na próxima rua." },
+        { "level": "A2-B1", "fr": "Nous tournons à gauche près du parc.", "pt": "Nós viramos à esquerda perto do parque." },
+        { "level": "B2", "fr": "Elle tourne au bout de l'avenue.", "pt": "Ela vira no fim da avenida." },
+        { "level": "C1-C2", "fr": "Tourner à droite sous l'Arc mène vers l'avenue de la Grande Armée.", "pt": "Virar à direita sob o Arco leva à avenue de la Grande Armée." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "L'impératif pour donner des directions",
+    "explanationPt": "Para dar direções usamos o imperativo: 'Allez tout droit' (Vão em frente), 'Tournez à droite' (Virem à direita), 'Continuez' (Continuem). O imperativo com 'vous' termina em -ez para verbos em -er.",
+    "exampleFr": "Allez tout droit, puis tournez à droite.",
+    "examplePt": "Vão em frente e depois virem à direita.",
+    "practiceQuestion": "Complete com o imperativo correto: '_____ (tourner) à gauche à la prochaine rue.'",
+    "options": ["Tournez", "Tourne", "Tournent"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "L'impératif pour donner des directions",
+        "explanationPt": "Imperativo (vous): verbos em -er → -ez ('Allez', 'Tournez', 'Continuez'). Ex.: 'Continuez tout droit, puis tournez à droite.'",
+        "exampleFr": "Continuez tout droit, puis tournez à droite.",
+        "examplePt": "Continuem em frente e depois virem à direita.",
+        "practiceQuestion": "Complete: '_____ (aller) tout droit jusqu'au bout de l'avenue.'",
+        "options": ["Allez", "Allons", "Allent"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "La préposition au bout de",
+        "explanationPt": "'au bout de' = no fim de / no final de. Ex.: 'L'Arc de Triomphe est au bout de l'avenue.' (O Arco do Triunfo fica no fim da avenida.)",
+        "exampleFr": "Au bout de l'avenue, il y a l'Arc de Triomphe.",
+        "examplePt": "No fim da avenida, há o Arco do Triunfo.",
+        "practiceQuestion": "Complete com a preposição correta: 'La flamme brûle _____ l'Arc de Triomphe.'",
+        "options": ["sous", "au bout de", "sur"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Complete a frase do texto: 'Les Champs-Élysées sont l'avenue la plus _____ de Paris.'",
+      "options": ["célèbre", "courte", "calme"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'Les Champs-Élysées sont l'avenue la plus célèbre de Paris.'"
+    },
+    {
+      "question": "Ordene corretamente as palavras da frase: [ tout droit / allez / , / puis / à droite / tournez / ]",
+      "options": [
+        "Allez tout droit, puis tournez à droite.",
+        "Tout droit allez, puis tournez à droite.",
+        "Allez tout droit, puis à droite tournez."
+      ],
+      "correctIndex": 0,
+      "explanation": "A frase exata do texto é 'Allez tout droit, puis tournez à droite.'"
+    },
+    {
+      "question": "Como se traduz: 'O Arco do Triunfo fica no fim da avenida'?",
+      "options": [
+        "L'Arc de Triomphe est au bout de l'avenue.",
+        "L'Arc de Triomphe est dans l'avenue.",
+        "L'Arc de Triomphe est derrière l'avenue."
+      ],
+      "correctIndex": 0,
+      "explanation": "'au bout de l'avenue' = no fim da avenida."
+    },
+    {
+      "question": "Identifique a frase com ERRO de imperativo:",
+      "options": [
+        "Allez tout droit !",
+        "Tournez à droite !",
+        "Continuez tout droit et tournez."
+      ],
+      "correctIndex": 2,
+      "explanation": "A frase 'Continuez tout droit et tournez' está incompleta: falta o complemento de direção ('Tournez à droite')."
+    },
+    {
+      "question": "O que a família vê sob o Arco do Triunfo?",
+      "options": [
+        "A chama do Soldado Desconhecido, que queima sempre",
+        "Um mercado de flores",
+        "Um cinema antigo"
+      ],
+      "correctIndex": 0,
+      "explanation": "No texto: 'Sous l'Arc de Triomphe, la flamme du Soldat inconnu brûle toujours.'"
+    }
+  ]
+}

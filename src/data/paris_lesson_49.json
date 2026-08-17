@@ -1,0 +1,252 @@
+{
+  "id": "paris_lesson_49",
+  "cityId": "paris",
+  "domain": "Partida & Nova Etapa",
+  "level": "Iniciante (A1)",
+  "titleFr": "Au revoir Paris, départ pour Amiens",
+  "titlePt": "Adeus Paris, partida para Amiens",
+  "subtitleFr": "Le premier voyage de la famille",
+  "subtitlePt": "A primeira viagem da família",
+  "summaryPt": "Nesta Aula 49 (A1), a família se despede de Paris e parte para Amiens. O aluno revisa o vocabulário da viagem e da cidade, aprende as expressões de despedida (au revoir, bonne route, à bientôt) e usa o futur proche.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Le matin du départ, la famille se réveille tôt. Les valises sont prêtes près de la porte. Iris regarde par la fenêtre : « Au revoir, Paris ! » Elle embrasse la ville avec les yeux.",
+      "pt": "Na manhã da partida, a família acorda cedo. As malas estão prontas perto da porta. Íris olha pela janela: « Adeus, Paris! » Ela abraça a cidade com os olhos."
+    },
+    {
+      "id": 2,
+      "fr": "À la gare, Irlan montre les billets au contrôleur. « Bonne route ! » dit le contrôleur avec un sourire. La famille monte dans le train et cherche ses places près de la fenêtre.",
+      "pt": "Na estação, Irlan mostra os bilhetes ao controlador. « Boa viagem! » diz o controlador com um sorriso. A família entra no trem e procura seus lugares perto da janela."
+    },
+    {
+      "id": 3,
+      "fr": "Le train part doucement. Paris devient petite derrière la vitre. « Regardez, dit Andréa, nous allons découvrir une nouvelle ville, une nouvelle région, de nouvelles histoires. » Iris applaudit : « Quelle aventure ! »",
+      "pt": "O trem parte suavemente. Paris vai ficando pequena atrás do vidro. « Olhem, diz Andréa, vamos descobrir uma nova cidade, uma nova região, novas histórias. » Íris aplaude: « Que aventura! »"
+    },
+    {
+      "id": 4,
+      "fr": "Après une heure de voyage, Amiens apparaît au loin. « Demain, nous allons visiter la cathédrale, dit Irlan. Mais d'abord, mangeons un sandwich et buvons de l'eau. » La famille sourit : un nouveau chapitre commence.",
+      "pt": "Depois de uma hora de viagem, Amiens aparece ao longe. « Amanhã, vamos visitar a catedral, diz Irlan. Mas primeiro, comamos um sanduíche e bebamos água. » A família sorri: um novo capítulo começa."
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "au revoir",
+      "definitionPt": "adeus / até logo",
+      "definitionFr": "Formule pour dire adieu.",
+      "inflections": ["au revoir"],
+      "ptTargets": ["adeus", "até logo"],
+      "examples": [
+        { "level": "A1", "fr": "Au revoir, Paris !", "pt": "Adeus, Paris!" },
+        { "level": "A2-B1", "fr": "Nous disons au revoir à la ville.", "pt": "Nós nos despedimos da cidade." },
+        { "level": "B2", "fr": "Au revoir est un mot doux qui promet de revenir.", "pt": "Adeus é uma palavra suave que promete voltar." },
+        { "level": "C1-C2", "fr": "C'est au revoir que l'on se dit avant de partir.", "pt": "É adeus que se diz antes de partir." }
+      ]
+    },
+    {
+      "term": "le départ",
+      "definitionPt": "a partida",
+      "definitionFr": "Moment où l'on part.",
+      "inflections": ["le départ", "un départ", "des départs"],
+      "ptTargets": ["partida"],
+      "examples": [
+        { "level": "A1", "fr": "Le départ est à dix heures.", "pt": "A partida é às dez horas." },
+        { "level": "A2-B1", "fr": "Le matin du départ, la famille se réveille tôt.", "pt": "Na manhã da partida, a família acorda cedo." },
+        { "level": "B2", "fr": "Le départ, préparé, ouvre une nouvelle aventure.", "pt": "A partida, preparada, abre uma nova aventura." },
+        { "level": "C1-C2", "fr": "C'est le départ qui, décidé, change les vies.", "pt": "É a partida que, decidida, muda as vidas." }
+      ]
+    },
+    {
+      "term": "le contrôleur",
+      "definitionPt": "o controlador (trem)",
+      "definitionFr": "Personne qui vérifie les billets.",
+      "inflections": ["le contrôleur", "un contrôleur", "des contrôleurs"],
+      "ptTargets": ["controlador"],
+      "examples": [
+        { "level": "A1", "fr": "Le contrôleur est gentil.", "pt": "O controlador é gentil." },
+        { "level": "A2-B1", "fr": "Irlan montre les billets au contrôleur.", "pt": "Irlan mostra os bilhetes ao controlador." },
+        { "level": "B2", "fr": "Le contrôleur, souriant, vérifie les billets du train.", "pt": "O controlador, sorridente, confere os bilhetes do trem." },
+        { "level": "C1-C2", "fr": "C'est le contrôleur qui, attentif, veille au bon déroulement du voyage.", "pt": "É o controlador que, atento, zela pelo bom andamento da viagem." }
+      ]
+    },
+    {
+      "term": "bonne route",
+      "definitionPt": "boa viagem",
+      "definitionFr": "Formule de bon voyage.",
+      "inflections": ["bonne route"],
+      "ptTargets": ["boa viagem"],
+      "examples": [
+        { "level": "A1", "fr": "Bonne route !", "pt": "Boa viagem!" },
+        { "level": "A2-B1", "fr": "Le contrôleur dit : « Bonne route ! »", "pt": "O controlador diz: « Boa viagem! »" },
+        { "level": "B2", "fr": "On souhaite une bonne route avant de partir.", "pt": "Deseja-se boa viagem antes de partir." },
+        { "level": "C1-C2", "fr": "C'est « bonne route » qui, gentil, accompagne les voyageurs.", "pt": "É « boa viagem » que, gentil, acompanha os viajantes." }
+      ]
+    },
+    {
+      "term": "chercher",
+      "definitionPt": "procurar",
+      "definitionFr": "Essayer de trouver.",
+      "inflections": ["chercher", "je cherche", "nous cherchons"],
+      "ptTargets": ["procurar"],
+      "examples": [
+        { "level": "A1", "fr": "Je cherche ma place.", "pt": "Eu procuro meu lugar." },
+        { "level": "A2-B1", "fr": "La famille cherche ses places près de la fenêtre.", "pt": "A família procura seus lugares perto da janela." },
+        { "level": "B2", "fr": "Les voyageurs cherchent leurs places dans le train.", "pt": "Os viajantes procuram seus lugares no trem." },
+        { "level": "C1-C2", "fr": "C'est en cherchant que l'on trouve sa place.", "pt": "É procurando que se encontra seu lugar." }
+      ]
+    },
+    {
+      "term": "la fenêtre",
+      "definitionPt": "a janela",
+      "definitionFr": "Ouverture dans un mur.",
+      "inflections": ["la fenêtre", "une fenêtre", "des fenêtres"],
+      "ptTargets": ["janela"],
+      "examples": [
+        { "level": "A1", "fr": "La fenêtre est ouverte.", "pt": "A janela está aberta." },
+        { "level": "A2-B1", "fr": "Iris regarde par la fenêtre.", "pt": "Íris olha pela janela." },
+        { "level": "B2", "fr": "La fenêtre, grande, laisse entrer la lumière.", "pt": "A janela, grande, deixa entrar a luz." },
+        { "level": "C1-C2", "fr": "C'est la fenêtre qui, ouverte, offre le monde au regard.", "pt": "É a janela que, aberta, oferece o mundo ao olhar." }
+      ]
+    },
+    {
+      "term": "la vitre",
+      "definitionPt": "o vidro",
+      "definitionFr": "Verre d'une fenêtre.",
+      "inflections": ["la vitre", "une vitre", "des vitres"],
+      "ptTargets": ["vidro"],
+      "examples": [
+        { "level": "A1", "fr": "La vitre est propre.", "pt": "O vidro está limpo." },
+        { "level": "A2-B1", "fr": "Paris devient petite derrière la vitre.", "pt": "Paris vai ficando pequena atrás do vidro." },
+        { "level": "B2", "fr": "La vitre, claire, montre le paysage qui défile.", "pt": "O vidro, claro, mostra a paisagem que passa." },
+        { "level": "C1-C2", "fr": "C'est la vitre qui, transparente, cadre les souvenirs du voyage.", "pt": "É o vidro que, transparente, emoldura as lembranças da viagem." }
+      ]
+    },
+    {
+      "term": "découvrir",
+      "definitionPt": "descobrir",
+      "definitionFr": "Trouver quelque chose de nouveau.",
+      "inflections": ["découvrir", "je découvre", "nous découvrons"],
+      "ptTargets": ["descobrir"],
+      "examples": [
+        { "level": "A1", "fr": "Je découvre une ville.", "pt": "Eu descubro uma cidade." },
+        { "level": "A2-B1", "fr": "Nous allons découvrir une nouvelle ville.", "pt": "Vamos descobrir uma nova cidade." },
+        { "level": "B2", "fr": "Découvrir une nouvelle région, c'est enrichissant.", "pt": "Descobrir uma nova região é enriquecedor." },
+        { "level": "C1-C2", "fr": "C'est en découvrant que l'on grandit.", "pt": "É descobrindo que se cresce." }
+      ]
+    },
+    {
+      "term": "apparaître",
+      "definitionPt": "aparecer",
+      "definitionFr": "Devenir visible.",
+      "inflections": ["apparaître", "j'apparais", "nous apparaissons"],
+      "ptTargets": ["aparecer"],
+      "examples": [
+        { "level": "A1", "fr": "La ville apparaît.", "pt": "A cidade aparece." },
+        { "level": "A2-B1", "fr": "Amiens apparaît au loin.", "pt": "Amiens aparece ao longe." },
+        { "level": "B2", "fr": "Les lumières de la ville apparaissent dans la nuit.", "pt": "As luzes da cidade aparecem na noite." },
+        { "level": "C1-C2", "fr": "C'est en apparaissant que la ville se révèle au voyageur.", "pt": "É aparecendo que a cidade se revela ao viajante." }
+      ]
+    },
+    {
+      "term": "le chapitre",
+      "definitionPt": "o capítulo",
+      "definitionFr": "Partie d'une histoire.",
+      "inflections": ["le chapitre", "un chapitre", "des chapitres"],
+      "ptTargets": ["capítulo"],
+      "examples": [
+        { "level": "A1", "fr": "Le chapitre est court.", "pt": "O capítulo é curto." },
+        { "level": "A2-B1", "fr": "Un nouveau chapitre commence.", "pt": "Um novo capítulo começa." },
+        { "level": "B2", "fr": "Chaque ville est un chapitre de la grande histoire.", "pt": "Cada cidade é um capítulo da grande história." },
+        { "level": "C1-C2", "fr": "C'est le chapitre qui, écrit, continue l'histoire de la famille.", "pt": "É o capítulo que, escrito, continua a história da família." }
+      ]
+    },
+    {
+      "term": "le sandwich",
+      "definitionPt": "o sanduíche",
+      "definitionFr": "Pain garni.",
+      "inflections": ["le sandwich", "un sandwich", "des sandwichs"],
+      "ptTargets": ["sanduíche"],
+      "examples": [
+        { "level": "A1", "fr": "Le sandwich est bon.", "pt": "O sanduíche é bom." },
+        { "level": "A2-B1", "fr": "Mangeons un sandwich dans le train.", "pt": "Comamos um sanduíche no trem." },
+        { "level": "B2", "fr": "Le sandwich, simple, nourrit les voyageurs pressés.", "pt": "O sanduíche, simples, alimenta os viajantes apressados." },
+        { "level": "C1-C2", "fr": "C'est le sandwich qui, pratique, accompagne les voyages.", "pt": "É o sanduíche que, prático, acompanha as viagens." }
+      ]
+    },
+    {
+      "term": "l'aventure",
+      "definitionPt": "a aventura",
+      "definitionFr": "Expérience nouvelle.",
+      "inflections": ["l'aventure", "une aventure", "des aventures"],
+      "ptTargets": ["aventura"],
+      "examples": [
+        { "level": "A1", "fr": "Quelle aventure !", "pt": "Que aventura!" },
+        { "level": "A2-B1", "fr": "Iris applaudit : « Quelle aventure ! »", "pt": "Íris aplaude: « Que aventura! »" },
+        { "level": "B2", "fr": "Le voyage est une aventure partagée.", "pt": "A viagem é uma aventura partilhada." },
+        { "level": "C1-C2", "fr": "C'est l'aventure qui, vécue ensemble, renforce la famille.", "pt": "É a aventura que, vivida juntos, fortalece a família." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Les salutations de départ",
+    "explanationPt": "Despedidas: 'Au revoir !' (adeus/até logo), 'Bonne route !' (boa viagem!), 'À bientôt !' (até breve), 'À demain !' (até amanhã). Todas acompanham a partida com gentileza.",
+    "exampleFr": "Au revoir, Paris ! Bonne route ! À bientôt, les amis !",
+    "examplePt": "Adeus, Paris! Boa viagem! Até breve, amigos!",
+    "practiceQuestion": "Complete: '_____ , Paris !'",
+    "options": ["Au revoir", "Bonjour", "Bonne nuit"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "Devenir + adjetivo : tornar-se",
+        "explanationPt": "'Devenir' + adjetivo = tornar-se. Ex.: 'Paris devient petite' (Paris vai ficando pequena), 'Iris devient grande' (Íris vai ficando grande).",
+        "exampleFr": "Paris devient petite derrière la vitre.",
+        "examplePt": "Paris vai ficando pequena atrás do vidro.",
+        "practiceQuestion": "Complete: 'Paris _____ petite derrière la vitre.'",
+        "options": ["devient", "devenir", "deviens"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "Révision : le futur proche",
+        "explanationPt": "Revisão do futuro próximo: 'aller' + infinitivo. Ex.: 'Nous allons visiter la cathédrale' (vamos visitar a catedral), 'Nous allons découvrir' (vamos descobrir).",
+        "exampleFr": "Demain, nous allons visiter la cathédrale.",
+        "examplePt": "Amanhã, vamos visitar a catedral.",
+        "practiceQuestion": "Complete: 'Nous _____ visiter la cathédrale.'",
+        "options": ["allons", "allons pas", "vont"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Como Íris se despede de Paris?",
+      "options": ["Au revoir, Paris !", "Bonjour, Paris !", "Bonne nuit, Paris !"],
+      "correctIndex": 0,
+      "explanation": "Iris regarde par la fenêtre : « Au revoir, Paris ! »"
+    },
+    {
+      "question": "O que o controlador diz à família?",
+      "options": ["Bonne route !", "Au travail !", "À demain !"],
+      "correctIndex": 0,
+      "explanation": "Le contrôleur dit : « Bonne route ! »"
+    },
+    {
+      "question": "O que a família vai visitar em Amiens?",
+      "options": ["a catedral", "o castelo", "o museu"],
+      "correctIndex": 0,
+      "explanation": "Demain, nous allons visiter la cathédrale."
+    },
+    {
+      "question": "Complete: 'Paris _____ petite derrière la vitre.'",
+      "options": ["devient", "devenir", "deviens"],
+      "correctIndex": 0,
+      "explanation": "Devenir: il devient."
+    },
+    {
+      "question": "Complete: 'Nous _____ visiter la cathédrale.'",
+      "options": ["allons", "allons pas", "vont"],
+      "correctIndex": 0,
+      "explanation": "Futur proche: nous allons visiter."
+    }
+  ]
+}

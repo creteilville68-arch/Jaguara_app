@@ -1,0 +1,257 @@
+{
+  "id": "toulouse_lesson_53",
+  "cityId": "toulouse",
+  "domain": "Cidade & Patrimônio",
+  "level": "Intermediário (B2)",
+  "titleFr": "Les ponts de Toulouse : relier les rives",
+  "titlePt": "As pontes de Toulouse: ligar as margens",
+  "subtitleFr": "Raconter la ville avec Y, le plus-que-parfait et les connecteurs",
+  "subtitlePt": "Contar a cidade com Y, o mais-que-perfeito e os conectores",
+  "summaryPt": "O pont Neuf, terminado em 1632, é a ponte mais antiga de Toulouse. Depois vieram outras: o pont Saint-Pierre, a passerelle, o pont des Catalans. Cada ponte conta uma história de encontro. Para Irlan, que cruzou o oceano, as pontes são a metáfora de sua vida. Nesta aula B2, Y e o plus-que-parfait atravessam o Garona.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "« Le pont Neuf a été terminé en 1632, expliqua Andréa. Il a fallu deux siècles pour le construire. — Deux siècles ? s'étonna Irlan. Les ponts du Brésil se construisaient en quelques années. »",
+      "pt": "« O pont Neuf foi terminado em 1632, explicou Andréa. Foram necessários dois séculos para construí-lo. — Dois séculos? espantou-se Irlan. As pontes do Brasil se construíam em poucos anos. »"
+    },
+    {
+      "id": 2,
+      "fr": "Le pont Neuf est resté le seul pont de Toulouse pendant longtemps. « Les bateliers y avaient leurs quartiers, dit Andréa. Le fleuve était une rue : on y transportait le vin, le blé, les briques. »",
+      "pt": "O pont Neuf continuou sendo a única ponte de Toulouse por muito tempo. « Os barqueiros tinham nela seus bairros, disse Andréa. O rio era uma rua: transportava-se nele vinho, trigo, tijolos. »"
+    },
+    {
+      "id": 3,
+      "fr": "Aujourd'hui, Toulouse a plus de dix ponts : Saint-Pierre, les Catalans, la passerelle. « On y traverse le fleuve à pied, à vélo, en tramway, dit Irlan. Chaque pont a son rythme. »",
+      "pt": "Hoje, Toulouse tem mais de dez pontes: Saint-Pierre, os Catalães, a passarela. « Atravessa-se o rio a pé, de bicicleta, de bonde, disse Irlan. Cada ponte tem seu ritmo. »"
+    },
+    {
+      "id": 4,
+      "fr": "Au pont Saint-Pierre, un musicien jouait de l'accordéon au coucher du soleil. « C'est ici que je t'ai vue pour la première fois, se souvint Irlan. Tu regardais le fleuve, tu avais l'air triste. — J'étais triste, avoua Andréa. Et puis tu es arrivé. »",
+      "pt": "Na ponte Saint-Pierre, um músico tocava acordeão ao pôr do sol. « Foi aqui que te vi pela primeira vez, lembrou-se Irlan. Você olhava o rio, parecia triste. — Eu estava triste, confessou Andréa. E então você chegou. »"
+    },
+    {
+      "id": 5,
+      "fr": "Le soir, Irlan écrivit : « J'ai traversé l'océan pour trouver une femme, une fille, une langue. Mais ce sont les ponts de Toulouse qui m'ont appris le vrai sens du mot traverser : ce n'est pas arriver. C'est rencontrer. »",
+      "pt": "À noite, Irlan escreveu: « Atravessei o oceano para encontrar uma mulher, uma filha, uma língua. Mas foram as pontes de Toulouse que me ensinaram o verdadeiro sentido da palavra atravessar: não é chegar. É encontrar. »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "le pont",
+      "definitionPt": "ponte (substantivo masculino)",
+      "definitionFr": "Ouvrage qui permet de franchir un cours d'eau.",
+      "inflections": ["le pont", "des ponts"],
+      "ptTargets": ["ponte", "pontes"],
+      "examples": [
+        { "level": "A1", "fr": "Le pont est long.", "pt": "A ponte é longa." },
+        { "level": "A2-B1", "fr": "Le pont traverse la rivière.", "pt": "A ponte atravessa o rio." },
+        { "level": "B2", "fr": "Le pont Neuf a été terminé en 1632 après deux siècles de travaux.", "pt": "O pont Neuf foi terminado em 1632 após dois séculos de obras." },
+        { "level": "C1-C2", "fr": "Chaque pont de Toulouse est une signature de pierre sur le fleuve.", "pt": "Cada ponte de Toulouse é uma assinatura de pedra sobre o rio." }
+      ]
+    },
+    {
+      "term": "la rive",
+      "definitionPt": "margem (substantivo feminino)",
+      "definitionFr": "Bord d'un cours d'eau.",
+      "inflections": ["la rive", "des rives"],
+      "ptTargets": ["margem", "margens"],
+      "examples": [
+        { "level": "A1", "fr": "La rive est verte.", "pt": "A margem é verde." },
+        { "level": "A2-B1", "fr": "La ville a deux rives.", "pt": "A cidade tem duas margens." },
+        { "level": "B2", "fr": "Les ponts relient les deux rives du Garona.", "pt": "As pontes ligam as duas margens do Garona." },
+        { "level": "C1-C2", "fr": "La rive gauche et la rive droite vivent deux rythmes différents.", "pt": "A margem esquerda e a margem direita vivem dois ritmos diferentes." }
+      ]
+    },
+    {
+      "term": "franchir",
+      "definitionPt": "atravessar, transpor (verbo)",
+      "definitionFr": "Passer au-delà d'un obstacle.",
+      "inflections": ["je franchis", "franchir", "franchi"],
+      "ptTargets": ["atravessar", "transpor", "atravessa"],
+      "examples": [
+        { "level": "A1", "fr": "Le chat franchit le mur.", "pt": "O gato transpõe o muro." },
+        { "level": "A2-B1", "fr": "La passerelle franchit le fleuve.", "pt": "A passarela atravessa o rio." },
+        { "level": "B2", "fr": "Le pont Saint-Pierre permet de franchir le Garona à pied.", "pt": "A ponte Saint-Pierre permite atravessar o Garona a pé." },
+        { "level": "C1-C2", "fr": "Franchir un fleuve, c'est changer de monde sans changer de ville.", "pt": "Atravessar um rio é mudar de mundo sem mudar de cidade." }
+      ]
+    },
+    {
+      "term": "la passerelle",
+      "definitionPt": "passarela (substantivo feminino)",
+      "definitionFr": "Pont étroit réservé aux piétons.",
+      "inflections": ["la passerelle", "des passerelles"],
+      "ptTargets": ["passarela", "passarelas"],
+      "examples": [
+        { "level": "A1", "fr": "La passerelle est étroite.", "pt": "A passarela é estreita." },
+        { "level": "A2-B1", "fr": "On traverse par la passerelle.", "pt": "Atravessamos pela passarela." },
+        { "level": "B2", "fr": "La passerelle de la Daurade relie les deux rives à pied.", "pt": "A passarela de la Daurade liga as duas margens a pé." },
+        { "level": "C1-C2", "fr": "La passerelle piétonne invite à ralentir, là où la ville s'accélère.", "pt": "A passarela de pedestres convida a desacelerar, onde a cidade acelera." }
+      ]
+    },
+    {
+      "term": "le tramway",
+      "definitionPt": "bonde, elétrico (substantivo masculino)",
+      "definitionFr": "Transport en commun sur rails, en ville.",
+      "inflections": ["le tramway", "des tramways"],
+      "ptTargets": ["bonde", "elétrico", "bondes"],
+      "examples": [
+        { "level": "A1", "fr": "Le tramway est lent.", "pt": "O bonde é lento." },
+        { "level": "A2-B1", "fr": "Le tramway traverse la ville.", "pt": "O bonde atravessa a cidade." },
+        { "level": "B2", "fr": "On traverse le fleuve à pied, à vélo, en tramway.", "pt": "Atravessa-se o rio a pé, de bicicleta, de bonde." },
+        { "level": "C1-C2", "fr": "Le tramway dessine une ligne de vie dans la ville contemporaine.", "pt": "O bonde desenha uma linha de vida na cidade contemporânea." }
+      ]
+    },
+    {
+      "term": "le batelier",
+      "definitionPt": "barqueiro (substantivo masculino)",
+      "definitionFr": "Personne qui transporte des marchandises sur un fleuve.",
+      "inflections": ["le batelier", "des bateliers"],
+      "ptTargets": ["barqueiro", "barqueiros"],
+      "examples": [
+        { "level": "A1", "fr": "Le batelier travaille.", "pt": "O barqueiro trabalha." },
+        { "level": "A2-B1", "fr": "Les bateliers connaissent le fleuve.", "pt": "Os barqueiros conhecem o rio." },
+        { "level": "B2", "fr": "Les bateliers y avaient leurs quartiers, près du pont Neuf.", "pt": "Os barqueiros tinham seus bairros perto do pont Neuf." },
+        { "level": "C1-C2", "fr": "Le quartier des bateliers fut longtemps le poumon commercial de la ville.", "pt": "O bairro dos barqueiros foi durante muito tempo o pulmão comercial da cidade." }
+      ]
+    },
+    {
+      "term": "le blé",
+      "definitionPt": "trigo (substantivo masculino)",
+      "definitionFr": "Céréale cultivée pour la farine.",
+      "inflections": ["le blé"],
+      "ptTargets": ["trigo"],
+      "examples": [
+        { "level": "A1", "fr": "Le blé est doré.", "pt": "O trigo é dourado." },
+        { "level": "A2-B1", "fr": "On transporte du blé sur le fleuve.", "pt": "Transporta-se trigo no rio." },
+        { "level": "B2", "fr": "On y transportait le vin, le blé, les briques.", "pt": "Transportava-se nele vinho, trigo, tijolos." },
+        { "level": "C1-C2", "fr": "Le blé du Lauragais fit la richesse du canal et du fleuve.", "pt": "O trigo do Lauragais fez a riqueza do canal e do rio." }
+      ]
+    },
+    {
+      "term": "l'accordéon",
+      "definitionPt": "acordeão (substantivo masculino)",
+      "definitionFr": "Instrument de musique à soufflet et à clavier.",
+      "inflections": ["l'accordéon", "des accordéons"],
+      "ptTargets": ["acordeão", "acordeões"],
+      "examples": [
+        { "level": "A1", "fr": "L'accordéon est bruyant.", "pt": "O acordeão é barulhento." },
+        { "level": "A2-B1", "fr": "Le musicien joue de l'accordéon.", "pt": "O músico toca acordeão." },
+        { "level": "B2", "fr": "Au pont Saint-Pierre, un musicien jouait de l'accordéon.", "pt": "Na ponte Saint-Pierre, um músico tocava acordeão." },
+        { "level": "C1-C2", "fr": "L'accordéon du Midi accompagne les fêtes et les adieux.", "pt": "O acordeão do Midi acompanha as festas e as despedidas." }
+      ]
+    },
+    {
+      "term": "se souvenir",
+      "definitionPt": "lembrar-se (verbo pronominal)",
+      "definitionFr": "Garder en mémoire.",
+      "inflections": ["je me souviens", "se souvenir", "se souvint"],
+      "ptTargets": ["lembrar", "lembrou-se", "lembrar-se"],
+      "examples": [
+        { "level": "A1", "fr": "Je me souviens de toi.", "pt": "Lembro-me de você." },
+        { "level": "A2-B1", "fr": "Il se souvient de son arrivée.", "pt": "Ele se lembra de sua chegada." },
+        { "level": "B2", "fr": "C'est ici que je t'ai vue pour la première fois, se souvint Irlan.", "pt": "Foi aqui que te vi pela primeira vez, lembrou-se Irlan." },
+        { "level": "C1-C2", "fr": "Se souvenir d'un lieu, c'est le faire revivre à chaque retour.", "pt": "Lembrar-se de um lugar é fazê-lo reviver a cada retorno." }
+      ]
+    },
+    {
+      "term": "traverser",
+      "definitionPt": "atravessar (verbo)",
+      "definitionFr": "Passer d'un côté à l'autre.",
+      "inflections": ["je traverse", "traverser", "traversé"],
+      "ptTargets": ["atravessar", "atravessei", "atravessa"],
+      "examples": [
+        { "level": "A1", "fr": "Je traverse la rue.", "pt": "Atravesso a rua." },
+        { "level": "A2-B1", "fr": "Le bateau traverse le fleuve.", "pt": "O barco atravessa o rio." },
+        { "level": "B2", "fr": "J'ai traversé l'océan pour trouver une famille.", "pt": "Atravessei o oceano para encontrar uma família." },
+        { "level": "C1-C2", "fr": "Traverser, ce n'est pas arriver : c'est rencontrer.", "pt": "Atravessar não é chegar: é encontrar." }
+      ]
+    },
+    {
+      "term": "rencontrer",
+      "definitionPt": "encontrar (verbo)",
+      "definitionFr": "Faire la connaissance de quelqu'un.",
+      "inflections": ["je rencontre", "rencontrer", "rencontré"],
+      "ptTargets": ["encontrar", "encontrei", "encontra"],
+      "examples": [
+        { "level": "A1", "fr": "Je rencontre un ami.", "pt": "Encontro um amigo." },
+        { "level": "A2-B1", "fr": "Nous nous sommes rencontrés à Toulouse.", "pt": "Nos encontramos em Toulouse." },
+        { "level": "B2", "fr": "C'est au pont Saint-Pierre qu'il avait rencontré Andréa.", "pt": "Foi na ponte Saint-Pierre que ele tinha encontrado Andréa." },
+        { "level": "C1-C2", "fr": "Rencontrer quelqu'un, c'est ouvrir une porte sur un autre monde.", "pt": "Encontrar alguém é abrir uma porta para outro mundo." }
+      ]
+    },
+    {
+      "term": "le fleuve",
+      "definitionPt": "rio (substantivo masculino)",
+      "definitionFr": "Cours d'eau qui se jette dans la mer.",
+      "inflections": ["le fleuve", "des fleuves"],
+      "ptTargets": ["rio", "rios"],
+      "examples": [
+        { "level": "A1", "fr": "Le fleuve est large.", "pt": "O rio é largo." },
+        { "level": "A2-B1", "fr": "Le fleuve traverse la ville.", "pt": "O rio atravessa a cidade." },
+        { "level": "B2", "fr": "Le Garona est le fleuve qui donne sa vie à Toulouse.", "pt": "O Garona é o rio que dá vida a Toulouse." },
+        { "level": "C1-C2", "fr": "Un fleuve est une mémoire qui coule entre les villes.", "pt": "Um rio é uma memória que corre entre as cidades." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Y, le plus-que-parfait et les connecteurs sur le pont",
+    "explanationPt": "Y retoma o lugar: 'les bateliers y avaient leurs quartiers' (tinham seus bairros ali), 'on y transportait le vin' (transportava-se nele). O plus-que-parfait conta o antes: 'il avait rencontré Andréa'. Os conectores encadeiam: 'd'abord, puis, ensuite, enfin'.",
+    "exampleFr": "C'est ici qu'il avait rencontré Andréa ; d'abord, elle regardait le fleuve, puis il est arrivé.",
+    "examplePt": "Foi aqui que ele tinha encontrado Andréa; primeiro, ela olhava o rio, depois ele chegou.",
+    "practiceQuestion": "Complete: 'Les bateliers y _____ leurs quartiers près du pont.'",
+    "options": ["avaient", "ont", "auront"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "Y pour le lieu",
+        "explanationPt": "'Avoir ses quartiers près du pont → y avoir ses quartiers' / 'Transporter sur le fleuve → y transporter'.",
+        "exampleFr": "On y transportait le vin, le blé, les briques.",
+        "examplePt": "Transportava-se nele vinho, trigo, tijolos.",
+        "practiceQuestion": "Complete: 'Sur ce fleuve, on y _____ le vin autrefois.'",
+        "options": ["transportait", "transporte", "transportera"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "Le plus-que-parfait du souvenir",
+        "explanationPt": "'Il avait rencontré Andréa ici' : o encontro anterior ao presente da narrativa.",
+        "exampleFr": "C'est ici qu'il avait rencontré Andréa, au pont Saint-Pierre.",
+        "examplePt": "Foi aqui que ele tinha encontrado Andréa, na ponte Saint-Pierre.",
+        "practiceQuestion": "Complete: 'Il avait _____ Andréa au pont Saint-Pierre.'",
+        "options": ["rencontré", "rencontrer", "rencontrés"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Complete: 'Les bateliers y _____ leurs quartiers près du pont.'",
+      "options": ["avaient", "ont", "auront"],
+      "correctIndex": 0,
+      "explanation": "Y + mais-que-perfeito/imperfeito: 'y avaient leurs quartiers'."
+    },
+    {
+      "question": "Em que ano o pont Neuf foi terminado?",
+      "options": ["1632", "1732", "1832"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'Le pont Neuf a été terminé en 1632.'"
+    },
+    {
+      "question": "Quanto tempo levou para construir o pont Neuf?",
+      "options": ["Dois séculos", "Dois anos", "Vinte anos"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'Il a fallu deux siècles pour le construire.'"
+    },
+    {
+      "question": "O que se transportava no rio antigamente?",
+      "options": ["Vinho, trigo e tijolos", "Ouro e prata", "Madeira e sal"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'on y transportait le vin, le blé, les briques'."
+    },
+    {
+      "question": "Onde Irlan viu Andréa pela primeira vez?",
+      "options": ["No pont Saint-Pierre", "No mercado dos Carmes", "No Capitole"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'C'est ici que je t'ai vue pour la première fois.'"
+    }
+  ]
+}

@@ -1,0 +1,252 @@
+{
+  "id": "tours_lesson_2",
+  "cityId": "tours",
+  "domain": "Cultura",
+  "level": "Intermediário (B1)",
+  "titleFr": "Le Vieux Tours et la cathédrale Saint-Gatien",
+  "titlePt": "O Vieux Tours e a catedral Saint-Gatien",
+  "subtitleFr": "Des ruelles médiévales, un marché animé et une cathédrale qui domine la ville",
+  "subtitlePt": "Ruelas medievais, um mercado animado e uma catedral que domina a cidade",
+  "summaryPt": "Nesta Aula 2 (B1), a família explora o Vieux Tours: ruelas medievais, a catedral Saint-Gatien e o mercado coberto. Andréa explica as vitrais à Íris. O aluno aprende os pronomes relativos 'qui' e 'que' (la cathédrale qui domine la ville, le quartier que nous visitons) e usa o Futur Simple para o programa da tarde.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Ce matin, nous avons exploré le Vieux Tours. Les ruelles médiévales sont charmantes, et le marché couvert, qui sent bon, est plein de produits locaux.",
+      "pt": "Esta manhã, exploramos o Vieux Tours. As ruelas medievais são charmosas, e o mercado coberto, que cheira bem, está cheio de produtos locais."
+    },
+    {
+      "id": 2,
+      "fr": "La cathédrale Saint-Gatien, qui domine la ville, est un mélange de styles gothique et Renaissance. Ses vitraux, que la lumière traverse, sont superbes.",
+      "pt": "A catedral Saint-Gatien, que domina a cidade, é uma mistura de estilos gótico e renascentista. Seus vitrais, que a luz atravessa, são soberbos."
+    },
+    {
+      "id": 3,
+      "fr": "Andréa a montré les vitraux à Íris : « Regarde les couleurs. Le soleil, qui brille à travers le verre, crée des merveilles. »",
+      "pt": "Andréa mostrou os vitrais a Íris: « Olha as cores. O sol, que brilha através do vidro, cria maravilhas. »"
+    },
+    {
+      "id": 4,
+      "fr": "Cet après-midi, nous visiterons la rive de la Loire. « Nous ferons une promenade le long du fleuve », a promis Irlan.",
+      "pt": "Esta tarde, visitaremos a margem do Loire. « Faremos um passeio ao longo do rio », prometeu Irlan."
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "la cathédrale",
+      "definitionPt": "a catedral",
+      "definitionFr": "Grande église principale d'un diocèse.",
+      "inflections": ["la cathédrale", "les cathédrales"],
+      "ptTargets": ["catedral"],
+      "examples": [
+        { "level": "A1", "fr": "La cathédrale est grande.", "pt": "A catedral é grande." },
+        { "level": "A2-B1", "fr": "La cathédrale Saint-Gatien domine Tours.", "pt": "A catedral Saint-Gatien domina Tours." },
+        { "level": "B1-B2", "fr": "La cathédrale, qui mêle gothique et Renaissance, fascine les visiteurs.", "pt": "A catedral, que mistura gótico e Renascença, fascina os visitantes." },
+        { "level": "C1-C2", "fr": "La construction de la cathédrale s'étendit sur plusieurs siècles, laissant une empreinte unique.", "pt": "A construção da catedral estendeu-se por vários séculos, deixando uma marca única." }
+      ]
+    },
+    {
+      "term": "la rive",
+      "definitionPt": "a margem",
+      "definitionFr": "Bord d'un fleuve ou d'une rivière.",
+      "inflections": ["la rive", "les rives"],
+      "ptTargets": ["margem"],
+      "examples": [
+        { "level": "A1", "fr": "La rive est verte.", "pt": "A margem é verde." },
+        { "level": "A2-B1", "fr": "Nous avons marché sur la rive de la Loire.", "pt": "Caminhamos na margem do Loire." },
+        { "level": "B1-B2", "fr": "Les rives de la Loire sont classées au patrimoine de l'UNESCO.", "pt": "As margens do Loire são classificadas como patrimônio da UNESCO." },
+        { "level": "C1-C2", "fr": "La rive, qui change au fil des saisons, offre un paysage toujours renouvelé.", "pt": "A margem, que muda com as estações, oferece uma paisagem sempre renovada." }
+      ]
+    },
+    {
+      "term": "la Loire",
+      "definitionPt": "o Loire (rio)",
+      "definitionFr": "Plus long fleuve de France.",
+      "inflections": ["la Loire"],
+      "ptTargets": ["Loire"],
+      "examples": [
+        { "level": "A1", "fr": "La Loire est un fleuve.", "pt": "O Loire é um rio." },
+        { "level": "A2-B1", "fr": "La Loire traverse la ville de Tours.", "pt": "O Loire atravessa a cidade de Tours." },
+        { "level": "B1-B2", "fr": "Le Val de Loire est surnommé le jardin de la France.", "pt": "O Vale do Loire é chamado de jardim da França." },
+        { "level": "C1-C2", "fr": "La Loire, dernier grand fleuve sauvage d'Europe, dessine le paysage de la Touraine.", "pt": "O Loire, último grande rio selvagem da Europa, desenha a paisagem da Touraine." }
+      ]
+    },
+    {
+      "term": "le pont",
+      "definitionPt": "a ponte",
+      "definitionFr": "Construction qui traverse un cours d'eau.",
+      "inflections": ["le pont", "les ponts"],
+      "ptTargets": ["ponte"],
+      "examples": [
+        { "level": "A1", "fr": "Le pont est long.", "pt": "A ponte é comprida." },
+        { "level": "A2-B1", "fr": "Le pont enjambe la Loire.", "pt": "A ponte atravessa o Loire." },
+        { "level": "B1-B2", "fr": "Le pont, qui date du XVIIIe siècle, relie les deux rives.", "pt": "A ponte, que data do século XVIII, liga as duas margens." },
+        { "level": "C1-C2", "fr": "Les ponts de Tours témoignent de l'ingénierie remarquable de leur époque.", "pt": "As pontes de Tours testemunham a engenharia notável de sua época." }
+      ]
+    },
+    {
+      "term": "le fleuve",
+      "definitionPt": "o rio (grande)",
+      "definitionFr": "Cours d'eau qui se jette dans la mer.",
+      "inflections": ["le fleuve", "les fleuves"],
+      "ptTargets": ["rio"],
+      "examples": [
+        { "level": "A1", "fr": "Le fleuve est large.", "pt": "O rio é largo." },
+        { "level": "A2-B1", "fr": "La Loire est le plus long fleuve de France.", "pt": "O Loire é o rio mais comprido da França." },
+        { "level": "B1-B2", "fr": "Le fleuve, qui coule doucement, est une frontière naturelle.", "pt": "O rio, que corre devagar, é uma fronteira natural." },
+        { "level": "C1-C2", "fr": "Les fleuves ont façonné les civilisations, leurs villes et leurs cultures.", "pt": "Os rios moldaram as civilizações, suas cidades e suas culturas." }
+      ]
+    },
+    {
+      "term": "la promenade",
+      "definitionPt": "o passeio",
+      "definitionFr": "Marche pour le plaisir.",
+      "inflections": ["la promenade", "les promenades"],
+      "ptTargets": ["passeio"],
+      "examples": [
+        { "level": "A1", "fr": "La promenade est agréable.", "pt": "O passeio é agradável." },
+        { "level": "A2-B1", "fr": "Nous ferons une promenade le long du fleuve.", "pt": "Faremos um passeio ao longo do rio." },
+        { "level": "B1-B2", "fr": "La promenade, qui suit la rive, offre de belles vues.", "pt": "O passeio, que segue a margem, oferece belas vistas." },
+        { "level": "C1-C2", "fr": "La promenade au bord de la Loire est devenue un rituel de la vie tourangelle.", "pt": "O passeio à beira do Loire tornou-se um ritual da vida de Tours." }
+      ]
+    },
+    {
+      "term": "la rue piétonne",
+      "definitionPt": "a rua de pedestres",
+      "definitionFr": "Rue réservée aux piétons.",
+      "inflections": ["la rue piétonne", "les rues piétonnes"],
+      "ptTargets": ["rua de pedestres"],
+      "examples": [
+        { "level": "A1", "fr": "La rue piétonne est calme.", "pt": "A rua de pedestres é calma." },
+        { "level": "A2-B1", "fr": "La rue piétonne est pleine de boutiques.", "pt": "A rua de pedestres está cheia de lojas." },
+        { "level": "B1-B2", "fr": "Les rues piétonnes du centre attirent les familles.", "pt": "As ruas de pedestres do centro atraem as famílias." },
+        { "level": "C1-C2", "fr": "La piétonnisation des rues du centre a transformé la vie urbaine de Tours.", "pt": "A pedestrização das ruas do centro transformou a vida urbana de Tours." }
+      ]
+    },
+    {
+      "term": "la librairie",
+      "definitionPt": "a livraria",
+      "definitionFr": "Magasin de livres.",
+      "inflections": ["la librairie", "les librairies"],
+      "ptTargets": ["livraria"],
+      "examples": [
+        { "level": "A1", "fr": "La librairie est petite.", "pt": "A livraria é pequena." },
+        { "level": "A2-B1", "fr": "Nous avons trouvé une belle librairie dans le Vieux Tours.", "pt": "Encontramos uma bela livraria no Vieux Tours." },
+        { "level": "B1-B2", "fr": "La librairie, qui propose des livres sur la Touraine, a ravi Irlan.", "pt": "A livraria, que oferece livros sobre a Touraine, encantou Irlan." },
+        { "level": "C1-C2", "fr": "Les librairies indépendantes jouent un rôle essentiel dans la vie culturelle des villes.", "pt": "As livrarias independentes desempenham um papel essencial na vida cultural das cidades." }
+      ]
+    },
+    {
+      "term": "le marché",
+      "definitionPt": "o mercado",
+      "definitionFr": "Lieu où l'on vend des produits.",
+      "inflections": ["le marché", "les marchés"],
+      "ptTargets": ["mercado"],
+      "examples": [
+        { "level": "A1", "fr": "Le marché est ouvert.", "pt": "O mercado está aberto." },
+        { "level": "A2-B1", "fr": "Le marché couvert de Tours est très animé.", "pt": "O mercado coberto de Tours é muito animado." },
+        { "level": "B1-B2", "fr": "Le marché, qui propose des produits locaux, est une institution.", "pt": "O mercado, que oferece produtos locais, é uma instituição." },
+        { "level": "C1-C2", "fr": "Les marchés couverts du XIXe siècle sont des chefs-d'œuvre d'architecture métallique.", "pt": "Os mercados cobertos do século XIX são obras-primas de arquitetura metálica." }
+      ]
+    },
+    {
+      "term": "visiter",
+      "definitionPt": "visitar",
+      "definitionFr": "Aller voir un lieu.",
+      "inflections": ["je visite", "nous visitons", "visité"],
+      "ptTargets": ["visitar"],
+      "examples": [
+        { "level": "A1", "fr": "Je visite la ville.", "pt": "Eu visito a cidade." },
+        { "level": "A2-B1", "fr": "Nous avons visité la cathédrale ce matin.", "pt": "Visitamos a catedral esta manhã." },
+        { "level": "B1-B2", "fr": "Cet après-midi, nous visiterons les rives de la Loire.", "pt": "Esta tarde, visitaremos as margens do Loire." },
+        { "level": "C1-C2", "fr": "Visiter la Touraine, c'est parcourir mille ans d'histoire de France.", "pt": "Visitar a Touraine é percorrer mil anos de história da França." }
+      ]
+    },
+    {
+      "term": "ancien",
+      "definitionPt": "antigo",
+      "definitionFr": "Qui date du passé.",
+      "inflections": ["ancien", "ancienne", "anciens"],
+      "ptTargets": ["antigo"],
+      "examples": [
+        { "level": "A1", "fr": "La maison est ancienne.", "pt": "A casa é antiga." },
+        { "level": "A2-B1", "fr": "Les ruelles anciennes du Vieux Tours sont charmantes.", "pt": "As ruelas antigas do Vieux Tours são charmosas." },
+        { "level": "B1-B2", "fr": "Le quartier ancien, qui date du Moyen Âge, est préservé.", "pt": "O bairro antigo, que data da Idade Média, é preservado." },
+        { "level": "C1-C2", "fr": "La conservation des quartiers anciens est un enjeu patrimonial et touristique majeur.", "pt": "A conservação dos bairros antigos é um desafio patrimonial e turístico importante." }
+      ]
+    },
+    {
+      "term": "médiéval",
+      "definitionPt": "medieval",
+      "definitionFr": "Qui date du Moyen Âge.",
+      "inflections": ["médiéval", "médiévale", "médiévaux"],
+      "ptTargets": ["medieval"],
+      "examples": [
+        { "level": "A1", "fr": "Le château est médiéval.", "pt": "O castelo é medieval." },
+        { "level": "A2-B1", "fr": "Les ruelles médiévales sont étroites.", "pt": "As ruelas medievais são estreitas." },
+        { "level": "B1-B2", "fr": "La place Plumereau conserve son atmosphère médiévale.", "pt": "A place Plumereau conserva sua atmosfera medieval." },
+        { "level": "C1-C2", "fr": "L'urbanisme médiéval se lit encore dans le plan des rues de Tours.", "pt": "O urbanismo medieval ainda se lê no traçado das ruas de Tours." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Les pronoms relatifs QUI et QUE",
+    "explanationPt": "'Qui' substitui o sujeito: 'la cathédrale qui domine la ville' (a catedral que domina a cidade). 'Que' substitui o objeto: 'le quartier que nous visitons' (o bairro que visitamos).",
+    "exampleFr": "La cathédrale, qui domine la ville, est superbe.",
+    "examplePt": "A catedral, que domina a cidade, é soberba.",
+    "practiceQuestion": "Complete: « La cathédrale ___ domine la ville est superbe. »",
+    "options": ["qui", "que", "où"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "Qui = sujeito",
+        "explanationPt": "Depois de 'qui' vem sempre um verbo (sujeito): 'la lumière qui traverse le verre'.",
+        "exampleFr": "Le soleil, qui brille à travers le verre, crée des merveilles.",
+        "examplePt": "O sol, que brilha através do vidro, cria maravilhas.",
+        "practiceQuestion": "Complete: « Les vitraux, ___ la lumière traverse, sont beaux. »",
+        "options": ["que", "qui", "dont"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "Que = objet",
+        "explanationPt": "Depois de 'que' vem um sujeito + verbo (objeto): 'le quartier que nous visitons'.",
+        "exampleFr": "Le marché que nous avons vu est très animé.",
+        "examplePt": "O mercado que vimos é muito animado.",
+        "practiceQuestion": "Qual pronome relativo substitui o objeto?",
+        "options": ["que", "qui", "où"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Qual catedral domina a cidade de Tours?",
+      "options": ["Saint-Gatien", "Notre-Dame de Paris", "Saint-Michel"],
+      "correctIndex": 0,
+      "explanation": "A catedral Saint-Gatien domina a cidade de Tours."
+    },
+    {
+      "question": "Complete: « La cathédrale, ___ domine la ville, est superbe. »",
+      "options": ["qui", "que", "où"],
+      "correctIndex": 0,
+      "explanation": "'Qui' substitui o sujeito 'la cathédrale'."
+    },
+    {
+      "question": "O que a família fará à tarde?",
+      "options": ["uma promenade ao longo da Loire", "voltar para Paris", "dormir no hotel"],
+      "correctIndex": 0,
+      "explanation": "Irlan prometeu: 'Nous ferons une promenade le long du fleuve'."
+    },
+    {
+      "question": "O que Andréa mostrou a Íris?",
+      "options": ["os vitrais da catedral", "o metrô", "as estátuas da praça"],
+      "correctIndex": 0,
+      "explanation": "Andréa mostrou os vitrais e as cores criadas pela luz."
+    },
+    {
+      "question": "Complete: « Le marché ___ nous avons vu est animé. »",
+      "options": ["que", "qui", "dont"],
+      "correctIndex": 0,
+      "explanation": "'Que' substitui o objeto 'le marché'."
+    }
+  ]
+}

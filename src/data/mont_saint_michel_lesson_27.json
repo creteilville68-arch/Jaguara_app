@@ -1,0 +1,252 @@
+{
+  "id": "mont_saint_michel_lesson_27",
+  "cityId": "mont-saint-michel",
+  "domain": "História & Cultura",
+  "level": "Básico (A2/B1)",
+  "titleFr": "La Bastille des mers : le Mont prison",
+  "titlePt": "A Bastilha dos mares: o Mont prisão",
+  "subtitleFr": "De 1793 à 1863, l'abbaye est devenue une prison",
+  "subtitlePt": "De 1793 a 1863, a abadia virou uma prisão",
+  "summaryPt": "Nesta Aula 27 (A2/B1), a família descobre um capítulo sombrio do Mont: durante a Revolução e depois, de 1793 a 1863, a abadia serviu de prisão, apelidada de 'Bastille des mers'. O aluno pratica o contraste entre o passado da prisão (les prisonniers travaillaient) e o presente de visita (aujourd'hui, les visiteurs se promènent).",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "« Pendant la Révolution, les moines ont quitté le Mont », a raconté Irlan. « L'abbaye est devenue une prison en 1793. On l'appelait la Bastille des mers. »",
+      "pt": "« Durante a Revolução, os monges deixaram o Mont », contou Irlan. « A abadia virou prisão em 1793. Chamavam-na de Bastilha dos mares. »"
+    },
+    {
+      "id": 2,
+      "fr": "« Les prisonniers travaillaient toute la journée », a dit Andréa. « Ils fabriquaient des chapeaux de paille. La vie était très dure. »",
+      "pt": "« Os prisioneiros trabalhavam o dia inteiro », disse Andréa. « Fabricavam chapéus de palha. A vida era muito dura. »"
+    },
+    {
+      "id": 3,
+      "fr": "« En 1836, un prisonnier célèbre a tenté de s'évader : Armand Barbès », a ajouté Irlan. « Il est resté dans une cellule spéciale. »",
+      "pt": "« Em 1836, um prisioneiro famoso tentou fugir: Armand Barbès », acrescentou Irlan. « Ele ficou numa cela especial. »"
+    },
+    {
+      "id": 4,
+      "fr": "« Aujourd'hui, la prison est fermée depuis 1863 », a conclu Andréa. « Les visiteurs se promènent dans les salles où vivaient les prisonniers. » Íris a frissonné.",
+      "pt": "« Hoje, a prisão está fechada desde 1863 », concluiu Andréa. « Os visitantes passeiam nas salas onde viviam os prisioneiros. » Íris estremeceu."
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "la prison",
+      "definitionPt": "a prisão",
+      "definitionFr": "Lieu où l'on enferme les prisonniers.",
+      "inflections": ["la prison", "une prison", "des prisons"],
+      "ptTargets": ["prisão"],
+      "examples": [
+        { "level": "A1", "fr": "La prison est fermée.", "pt": "A prisão está fechada." },
+        { "level": "A2-B1", "fr": "L'abbaye est devenue une prison en 1793.", "pt": "A abadia virou prisão em 1793." },
+        { "level": "B2", "fr": "La prison du Mont a fermé en 1863.", "pt": "A prisão do Mont fechou em 1863." },
+        { "level": "C1-C2", "fr": "La mer était la plus sûre des gardiennes de cette prison.", "pt": "O mar era a mais segura das guardiãs desta prisão." }
+      ]
+    },
+    {
+      "term": "le prisonnier",
+      "definitionPt": "o prisioneiro",
+      "definitionFr": "Personne enfermée en prison.",
+      "inflections": ["le prisonnier", "la prisonnière", "des prisonniers"],
+      "ptTargets": ["prisioneiro"],
+      "examples": [
+        { "level": "A1", "fr": "Le prisonnier est dans sa cellule.", "pt": "O prisioneiro está na cela." },
+        { "level": "A2-B1", "fr": "Les prisonniers travaillaient dans l'abbaye.", "pt": "Os prisioneiros trabalhavam na abadia." },
+        { "level": "B2", "fr": "Les prisonniers du Mont venaient de toute la France.", "pt": "Os prisioneiros do Mont vinham de toda a França." },
+        { "level": "C1-C2", "fr": "Le prisonnier, séparé du monde par la mer, regardait les marées passer.", "pt": "O prisioneiro, separado do mundo pelo mar, via as marés passarem." }
+      ]
+    },
+    {
+      "term": "s'évader",
+      "definitionPt": "fugir, evadir-se",
+      "definitionFr": "S'échapper de prison.",
+      "inflections": ["je m'évade", "nous nous évadons", "évadé"],
+      "ptTargets": ["fugir", "evadir-se"],
+      "examples": [
+        { "level": "A1", "fr": "Le prisonnier veut s'évader.", "pt": "O prisioneiro quer fugir." },
+        { "level": "A2-B1", "fr": "Barbès a tenté de s'évader en 1836.", "pt": "Barbès tentou fugir em 1836." },
+        { "level": "B2", "fr": "S'évader du Mont semblait impossible : la mer gardait l'île.", "pt": "Fugir do Mont parecia impossível: o mar guardava a ilha." },
+        { "level": "C1-C2", "fr": "S'évader, c'est d'abord s'évader de soi-même.", "pt": "Fugir é antes de tudo fugir de si mesmo." }
+      ]
+    },
+    {
+      "term": "la cellule",
+      "definitionPt": "a cela",
+      "definitionFr": "Chambre de prison.",
+      "inflections": ["la cellule", "une cellule", "des cellules"],
+      "ptTargets": ["cela"],
+      "examples": [
+        { "level": "A1", "fr": "La cellule est petite.", "pt": "A cela é pequena." },
+        { "level": "A2-B1", "fr": "Barbès est resté dans une cellule spéciale.", "pt": "Barbès ficou numa cela especial." },
+        { "level": "B2", "fr": "Les cellules du Mont étaient froides et humides.", "pt": "As celas do Mont eram frias e úmidas." },
+        { "level": "C1-C2", "fr": "Dans sa cellule, le prisonnier entendait la mer gronder.", "pt": "Em sua cela, o prisioneiro ouvia o mar rugir." }
+      ]
+    },
+    {
+      "term": "la Révolution",
+      "definitionPt": "a Revolução (Francesa)",
+      "definitionFr": "Grand changement politique de 1789.",
+      "inflections": ["la Révolution", "la Révolution française", "révolutionnaire"],
+      "ptTargets": ["Revolução"],
+      "examples": [
+        { "level": "A1", "fr": "La Révolution est ancienne.", "pt": "A Revolução é antiga." },
+        { "level": "A2-B1", "fr": "Pendant la Révolution, les moines ont quitté le Mont.", "pt": "Durante a Revolução, os monges deixaram o Mont." },
+        { "level": "B2", "fr": "La Révolution française a commencé en 1789.", "pt": "A Revolução Francesa começou em 1789." },
+        { "level": "C1-C2", "fr": "La Révolution a transformé les églises en prisons et les monastères en casernes.", "pt": "A Revolução transformou igrejas em prisões e mosteiros em quartéis." }
+      ]
+    },
+    {
+      "term": "la paille",
+      "definitionPt": "a palha",
+      "definitionFr": "Tige séchée des céréales.",
+      "inflections": ["la paille", "une paille", "des pailles"],
+      "ptTargets": ["palha"],
+      "examples": [
+        { "level": "A1", "fr": "La paille est jaune.", "pt": "A palha é amarela." },
+        { "level": "A2-B1", "fr": "Les prisonniers fabriquaient des chapeaux de paille.", "pt": "Os prisioneiros fabricavam chapéus de palha." },
+        { "level": "B2", "fr": "Le travail de la paille occupait les journées des prisonniers.", "pt": "O trabalho com palha ocupava os dias dos prisioneiros." },
+        { "level": "C1-C2", "fr": "La paille, humble matière, rythmait la vie de la Bastille des mers.", "pt": "A palha, humilde matéria, marcava o ritmo da vida na Bastilha dos mares." }
+      ]
+    },
+    {
+      "term": "dur",
+      "definitionPt": "duro, difícil",
+      "definitionFr": "Difficile, pénible.",
+      "inflections": ["dur", "dure", "durs"],
+      "ptTargets": ["duro", "difícil"],
+      "examples": [
+        { "level": "A1", "fr": "Le travail est dur.", "pt": "O trabalho é duro." },
+        { "level": "A2-B1", "fr": "La vie des prisonniers était très dure.", "pt": "A vida dos prisioneiros era muito dura." },
+        { "level": "B2", "fr": "Les hivers étaient durs sur le rocher.", "pt": "Os invernos eram duros no rochedo." },
+        { "level": "C1-C2", "fr": "La dureté du lieu n'avait d'égale que la dureté des jours.", "pt": "A dureza do lugar só tinha igual na dureza dos dias." }
+      ]
+    },
+    {
+      "term": "fabriquer",
+      "definitionPt": "fabricar",
+      "definitionFr": "Faire, produire.",
+      "inflections": ["je fabrique", "nous fabriquons", "fabriqué"],
+      "ptTargets": ["fabricar"],
+      "examples": [
+        { "level": "A1", "fr": "Je fabrique un jouet.", "pt": "Fabrico um brinquedo." },
+        { "level": "A2-B1", "fr": "Les prisonniers fabriquaient des chapeaux.", "pt": "Os prisioneiros fabricavam chapéus." },
+        { "level": "B2", "fr": "On fabriquait des objets vendus sur le continent.", "pt": "Fabricavam-se objetos vendidos no continente." },
+        { "level": "C1-C2", "fr": "Fabriquer de ses mains, même en prison, garde l'esprit vivant.", "pt": "Fabricar com as próprias mãos, mesmo na prisão, mantém o espírito vivo." }
+      ]
+    },
+    {
+      "term": "fermer",
+      "definitionPt": "fechar",
+      "definitionFr": "Clore, mettre fin.",
+      "inflections": ["je ferme", "nous fermons", "fermé"],
+      "ptTargets": ["fechar"],
+      "examples": [
+        { "level": "A1", "fr": "Je ferme la porte.", "pt": "Fecho a porta." },
+        { "level": "A2-B1", "fr": "La prison a fermé en 1863.", "pt": "A prisão fechou em 1863." },
+        { "level": "B2", "fr": "L'abbaye a fermé ses portes aux prisonniers pour toujours.", "pt": "A abadia fechou suas portas aos prisioneiros para sempre." },
+        { "level": "C1-C2", "fr": "Fermer une prison, c'est ouvrir un chapitre d'histoire.", "pt": "Fechar uma prisão é abrir um capítulo de história." }
+      ]
+    },
+    {
+      "term": "tenter",
+      "definitionPt": "tentar",
+      "definitionFr": "Essayer de faire quelque chose.",
+      "inflections": ["je tente", "nous tentons", "tenté"],
+      "ptTargets": ["tentar"],
+      "examples": [
+        { "level": "A1", "fr": "Je tente ma chance.", "pt": "Tento a sorte." },
+        { "level": "A2-B1", "fr": "Barbès a tenté de s'évader.", "pt": "Barbès tentou fugir." },
+        { "level": "B2", "fr": "Il a tenté l'impossible et il a échoué.", "pt": "Ele tentou o impossível e falhou." },
+        { "level": "C1-C2", "fr": "Tenter l'évasion, c'est déjà refuser la prison.", "pt": "Tentar a fuga já é recusar a prisão." }
+      ]
+    },
+    {
+      "term": "frissonner",
+      "definitionPt": "estremecer, tremer",
+      "definitionFr": "Trembler de froid ou d'émotion.",
+      "inflections": ["je frissonne", "nous frissonnons", "frissonné"],
+      "ptTargets": ["estremecer", "tremer"],
+      "examples": [
+        { "level": "A1", "fr": "Je frissonne de froid.", "pt": "Estremeço de frio." },
+        { "level": "A2-B1", "fr": "Íris a frissonné dans la salle des prisons.", "pt": "Íris estremeceu na sala das prisões." },
+        { "level": "B2", "fr": "On frissonne en pensant à la vie des prisonniers.", "pt": "Estremece-se pensando na vida dos prisioneiros." },
+        { "level": "C1-C2", "fr": "Frissonner devant l'histoire, c'est la comprendre avec son corps.", "pt": "Estremecer diante da história é compreendê-la com o corpo." }
+      ]
+    },
+    {
+      "term": "l'histoire",
+      "definitionPt": "a história",
+      "definitionFr": "Passé ; récit.",
+      "inflections": ["l'histoire", "une histoire", "des histoires"],
+      "ptTargets": ["história"],
+      "examples": [
+        { "level": "A1", "fr": "J'aime les histoires.", "pt": "Gosto de histórias." },
+        { "level": "A2-B1", "fr": "L'histoire du Mont est pleine de surprises.", "pt": "A história do Mont é cheia de surpresas." },
+        { "level": "B2", "fr": "L'histoire de la prison fait partie de l'histoire du Mont.", "pt": "A história da prisão faz parte da história do Mont." },
+        { "level": "C1-C2", "fr": "L'histoire du Mont est écrite en pierre, en mer et en mémoire.", "pt": "A história do Mont está escrita em pedra, em mar e em memória." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Devenir + nom : l'abbaye est devenue une prison",
+    "explanationPt": "'Devenir + nom' indica mudança de estado: 'l'abbaye est devenue une prison' (a abadia virou prisão). No passé composé: 'est devenu(e)'.",
+    "exampleFr": "L'abbaye est devenue une prison en 1793, puis elle est redevenue un lieu de visite.",
+    "examplePt": "A abadia virou prisão em 1793, depois voltou a ser um lugar de visita.",
+    "practiceQuestion": "Complete: « L'abbaye est ___ une prison. »",
+    "options": ["devenue", "devenir", "deviendra"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "Les prisonniers travaillaient : l'habitude en prison",
+        "explanationPt": "Rotina no passado = imparfait: 'les prisonniers travaillaient toute la journée' (os prisioneiros trabalhavam o dia inteiro), 'ils fabriquaient des chapeaux' (fabricavam chapéus).",
+        "exampleFr": "Les prisonniers travaillaient toute la journée et fabriquaient des chapeaux de paille.",
+        "examplePt": "Os prisioneiros trabalhavam o dia inteiro e fabricavam chapéus de palha.",
+        "practiceQuestion": "Complete: « Les prisonniers ___ des chapeaux de paille. »",
+        "options": ["fabriquaient", "ont fabriqué", "fabriqueront"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "Aujourd'hui / autrefois : le contraste",
+        "explanationPt": "'Autrefois, c'était une prison. Aujourd'hui, c'est un lieu de visite.' O imparfait descreve o antigamente; o presente descreve o agora.",
+        "exampleFr": "Autrefois, les prisonniers vivaient ici. Aujourd'hui, les visiteurs se promènent dans les mêmes salles.",
+        "examplePt": "Antigamente, os prisioneiros viviam aqui. Hoje, os visitantes passeiam nas mesmas salas.",
+        "practiceQuestion": "Complete: « Autrefois, les prisonniers ___ ici. »",
+        "options": ["vivaient", "vivent", "vivront"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Quando a abadia virou prisão?",
+      "options": ["Em 1793", "Em 708", "Em 1863"],
+      "correctIndex": 0,
+      "explanation": "Durante a Revolução, a abadia se tornou prisão em 1793."
+    },
+    {
+      "question": "Como era chamada a prisão do Mont?",
+      "options": ["A Bastille des mers", "A Torre de Londres", "O Castelo do Rei"],
+      "correctIndex": 0,
+      "explanation": "A prisão do Mont ficou conhecida como a Bastille des mers."
+    },
+    {
+      "question": "Complete: « Les prisonniers ___ des chapeaux de paille. »",
+      "options": ["fabriquaient", "ont fabriqué", "fabriqueront"],
+      "correctIndex": 0,
+      "explanation": "Rotina no passado = imparfait: 'fabriquaient'."
+    },
+    {
+      "question": "O que fez o prisioneiro famoso Armand Barbès em 1836?",
+      "options": ["Tentou se evadir", "Escreveu um livro", "Construiu uma capela"],
+      "correctIndex": 0,
+      "explanation": "Armand Barbès tentou s'évader (fugir) em 1836 e ficou numa cela especial."
+    },
+    {
+      "question": "Quando a prisão fechou?",
+      "options": ["Em 1863", "Em 1793", "Em 1900"],
+      "correctIndex": 0,
+      "explanation": "A prisão do Mont fechou em 1863, e a abadia voltou a ser um lugar de visita."
+    }
+  ]
+}

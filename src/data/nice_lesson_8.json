@@ -1,0 +1,252 @@
+{
+  "id": "nice_lesson_8",
+  "cityId": "nice",
+  "domain": "O Porto e o Mar",
+  "level": "Avançado (C2)",
+  "titleFr": "Le port Lympia et la promenade en mer",
+  "titlePt": "O porto Lympia e o passeio de barco",
+  "subtitleFr": "Les bateaux, les sirènes et l'écriture littéraire",
+  "subtitlePt": "Os barcos, as sirenes e a escrita literária",
+  "summaryPt": "Nesta Aula 8 (C2), a família desce ao port Lympia e parte para uma promenade en mer. O aluno pratica a écriture littéraire com antithèses e rythmes binaires, e o vocabulário do mar, dos barcos e da navegação.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Le port Lympia, creusé au XVIIIe siècle, abritait des bateaux de toutes tailles. « Un port est un lieu étrange, dit Irlan : il accueille ceux qui partent et ceux qui reviennent, les adieux et les retrouvailles. La même eau porte les larmes et les sourires. »",
+      "pt": "O porto Lympia, escavado no século XVIII, abrigava barcos de todos os tamanhos. « Um porto é um lugar estranho, disse Irlan: ele acolhe os que partem e os que voltam, as despedidas e os reencontros. A mesma água carrega lágrimas e sorrisos. »"
+    },
+    {
+      "id": 2,
+      "fr": "Le petit bateau quitta le port dans un murmure de moteur. La ville s'éloigna, la baie s'ouvrit. « Regardez, dit Andréa : Nice, vue de la mer, n'est plus une ville ; c'est une amphithéâtre de lumière posé entre le ciel et l'eau. »",
+      "pt": "O pequeno barco deixou o porto num murmúrio de motor. A cidade se afastou, a baía se abriu. « Olhem, disse Andréa: Nice, vista do mar, já não é uma cidade; é um anfiteatro de luz posto entre o céu e a água. »"
+    },
+    {
+      "id": 3,
+      "fr": "Des dauphins apparurent au loin, dansant autour des vagues. Iris cria de joie. « Le bonheur, murmura Irlan, tient à peu de choses : un matin bleu, une famille, une mer tranquille. La vie nous rappelle parfois que l'essentiel est invisible. »",
+      "pt": "Golfinhos apareceram ao longe, dançando em torno das ondas. Íris gritou de alegria. « A felicidade, murmurou Irlan, depende de poucas coisas: uma manhã azul, uma família, um mar tranquilo. A vida nos lembra às vezes que o essencial é invisível. »"
+    },
+    {
+      "id": 4,
+      "fr": "Au retour, le port se dessina doucement dans la lumière dorée. « Tout voyage a un terme, dit Andréa, mais chaque terme ouvre une nouvelle route. Nous voici au bout de la France, et pourtant il nous semble que tout commence. »",
+      "pt": "No retorno, o porto se desenhou suavemente na luz dourada. « Toda viagem tem um fim, disse Andréa, mas cada fim abre uma nova rota. Eis-nos no fim da França, e no entanto nos parece que tudo começa. »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "le bateau",
+      "definitionPt": "o barco",
+      "definitionFr": "Embarcation.",
+      "inflections": ["le bateau", "les bateaux"],
+      "ptTargets": ["barco"],
+      "examples": [
+        { "level": "A1", "fr": "Le bateau est blanc.", "pt": "O barco é branco." },
+        { "level": "A2-B1", "fr": "Le bateau quitte le port.", "pt": "O barco deixa o porto." },
+        { "level": "B1-B2", "fr": "Les bateaux, alignés, dansent sur l'eau du port.", "pt": "Os barcos, alinhados, dançam na água do porto." },
+        { "level": "C1-C2", "fr": "C'est le bateau qui, fragile, porte pourtant tous les rêves du départ.", "pt": "É o barco que, frágil, carrega no entanto todos os sonhos da partida." }
+      ]
+    },
+    {
+      "term": "le port",
+      "definitionPt": "o porto",
+      "definitionFr": "Lieu d'accostage.",
+      "inflections": ["le port", "les ports"],
+      "ptTargets": ["porto"],
+      "examples": [
+        { "level": "A1", "fr": "Le port est calme.", "pt": "O porto é calmo." },
+        { "level": "A2-B1", "fr": "Le port Lympia est ancien.", "pt": "O porto Lympia é antigo." },
+        { "level": "B1-B2", "fr": "Le port, creusé au XVIIIe siècle, abrite les bateaux.", "pt": "O porto, escavado no século XVIII, abriga os barcos." },
+        { "level": "C1-C2", "fr": "C'est le port qui, entre les adieux et les retrouvailles, bat au rythme de la ville.", "pt": "É o porto que, entre despedidas e reencontros, bate no ritmo da cidade." }
+      ]
+    },
+    {
+      "term": "la mer",
+      "definitionPt": "o mar",
+      "definitionFr": "Grande étendue d'eau salée.",
+      "inflections": ["la mer", "les mers"],
+      "ptTargets": ["mar"],
+      "examples": [
+        { "level": "A1", "fr": "La mer est bleue.", "pt": "O mar é azul." },
+        { "level": "A2-B1", "fr": "La mer brille au soleil.", "pt": "O mar brilha ao sol." },
+        { "level": "B1-B2", "fr": "La mer, changeante, prend toutes les couleurs du ciel.", "pt": "O mar, mutável, assume todas as cores do céu." },
+        { "level": "C1-C2", "fr": "C'est la mer qui, immobile en apparence, contient pourtant tous les voyages.", "pt": "É o mar que, imóvel na aparência, contém no entanto todas as viagens." }
+      ]
+    },
+    {
+      "term": "la vague",
+      "definitionPt": "a onda",
+      "definitionFr": "Mouvement de l'eau de mer.",
+      "inflections": ["la vague", "les vagues"],
+      "ptTargets": ["onda"],
+      "examples": [
+        { "level": "A1", "fr": "La vague est grande.", "pt": "A onda é grande." },
+        { "level": "A2-B1", "fr": "Les vagues touchent le bateau.", "pt": "As ondas tocam o barco." },
+        { "level": "B1-B2", "fr": "Les vagues, régulières, bercent la navigation.", "pt": "As ondas, regulares, embalam a navegação." },
+        { "level": "C1-C2", "fr": "C'est la vague qui, en se brisant, écrit sur le sable des dessins éphémères.", "pt": "É a onda que, ao se quebrar, escreve na areia desenhos efêmeros." }
+      ]
+    },
+    {
+      "term": "le dauphin",
+      "definitionPt": "o golfinho",
+      "definitionFr": "Mammifère marin intelligent.",
+      "inflections": ["le dauphin", "les dauphins"],
+      "ptTargets": ["golfinho", "delfim"],
+      "examples": [
+        { "level": "A1", "fr": "Le dauphin est rapide.", "pt": "O golfinho é rápido." },
+        { "level": "A2-B1", "fr": "Les dauphins apparaissent au loin.", "pt": "Os golfinhos aparecem ao longe." },
+        { "level": "B1-B2", "fr": "Les dauphins, curieux, accompagnent parfois le bateau.", "pt": "Os golfinhos, curiosos, às vezes acompanham o barco." },
+        { "level": "C1-C2", "fr": "C'est le dauphin qui, par sa danse, transforme une simple traversée en merveille.", "pt": "É o golfinho que, por sua dança, transforma uma simples travessia em maravilha." }
+      ]
+    },
+    {
+      "term": "le moteur",
+      "definitionPt": "o motor",
+      "definitionFr": "Machine qui produit le mouvement.",
+      "inflections": ["le moteur", "les moteurs"],
+      "ptTargets": ["motor"],
+      "examples": [
+        { "level": "A1", "fr": "Le moteur est fort.", "pt": "O motor é forte." },
+        { "level": "A2-B1", "fr": "Le moteur du bateau tourne.", "pt": "O motor do barco funciona." },
+        { "level": "B1-B2", "fr": "Le moteur, discret, murmure sous la coque.", "pt": "O motor, discreto, murmura sob o casco." },
+        { "level": "C1-C2", "fr": "C'est le moteur qui, silencieux, glisse le bateau sur l'eau.", "pt": "É o motor que, silencioso, desliza o barco sobre a água." }
+      ]
+    },
+    {
+      "term": "la sirène",
+      "definitionPt": "a sirene (e a sereia)",
+      "definitionFr": "Appareil sonore ; créature marine légendaire.",
+      "inflections": ["la sirène", "les sirènes"],
+      "ptTargets": ["sirene", "sereia"],
+      "examples": [
+        { "level": "A1", "fr": "La sirène sonne.", "pt": "A sirene soa." },
+        { "level": "A2-B1", "fr": "La sirène du bateau retentit.", "pt": "A sirene do barco soa." },
+        { "level": "B1-B2", "fr": "Les sirènes, lointaines, annoncent le retour au port.", "pt": "As sirenes, distantes, anunciam o retorno ao porto." },
+        { "level": "C1-C2", "fr": "C'est la sirène qui, mêlée au vent, donne au départ sa mélancolie.", "pt": "É a sirene que, misturada ao vento, dá à partida sua melancolia." }
+      ]
+    },
+    {
+      "term": "l'horizon",
+      "definitionPt": "o horizonte",
+      "definitionFr": "Ligne où le ciel semble toucher la mer.",
+      "inflections": ["l'horizon", "les horizons"],
+      "ptTargets": ["horizonte"],
+      "examples": [
+        { "level": "A1", "fr": "L'horizon est loin.", "pt": "O horizonte é longe." },
+        { "level": "A2-B1", "fr": "L'horizon se dessine au loin.", "pt": "O horizonte se desenha ao longe." },
+        { "level": "B1-B2", "fr": "L'horizon, infini, invite au voyage.", "pt": "O horizonte, infinito, convida à viagem." },
+        { "level": "C1-C2", "fr": "C'est l'horizon qui, toujours repoussé, nourrit l'éternelle curiosité des hommes.", "pt": "É o horizonte que, sempre adiado, alimenta a eterna curiosidade dos homens." }
+      ]
+    },
+    {
+      "term": "la traversée",
+      "definitionPt": "a travessia",
+      "definitionFr": "Action de traverser la mer.",
+      "inflections": ["la traversée", "les traversées"],
+      "ptTargets": ["travessia"],
+      "examples": [
+        { "level": "A1", "fr": "La traversée est courte.", "pt": "A travessia é curta." },
+        { "level": "A2-B1", "fr": "La traversée de la baie dure une heure.", "pt": "A travessia da baía dura uma hora." },
+        { "level": "B1-B2", "fr": "La traversée, paisible, offre une vue unique sur la ville.", "pt": "A travessia, tranquila, oferece uma vista única da cidade." },
+        { "level": "C1-C2", "fr": "C'est la traversée qui, en s'éloignant de la terre, change le regard sur elle.", "pt": "É a travessia que, ao se afastar da terra, muda o olhar sobre ela." }
+      ]
+    },
+    {
+      "term": "l'adieu",
+      "definitionPt": "a despedida",
+      "definitionFr": "Salutation de départ.",
+      "inflections": ["l'adieu", "les adieux"],
+      "ptTargets": ["despedida"],
+      "examples": [
+        { "level": "A1", "fr": "L'adieu est triste.", "pt": "A despedida é triste." },
+        { "level": "A2-B1", "fr": "Les adieux se font au port.", "pt": "As despedidas acontecem no porto." },
+        { "level": "B1-B2", "fr": "Les adieux, chargés d'émotion, précèdent les retrouvailles.", "pt": "As despedidas, carregadas de emoção, precedem os reencontros." },
+        { "level": "C1-C2", "fr": "C'est dans l'adieu que se mesure la profondeur d'un attachement.", "pt": "É na despedida que se mede a profundidade de um apego." }
+      ]
+    },
+    {
+      "term": "la retrouvaille",
+      "definitionPt": "o reencontro",
+      "definitionFr": "Retour de personnes qui se sont quittées.",
+      "inflections": ["la retrouvaille", "les retrouvailles"],
+      "ptTargets": ["reencontro"],
+      "examples": [
+        { "level": "A1", "fr": "La retrouvaille est joyeuse.", "pt": "O reencontro é alegre." },
+        { "level": "A2-B1", "fr": "Les retrouvailles au port sont émouvantes.", "pt": "Os reencontros no porto são emocionantes." },
+        { "level": "B1-B2", "fr": "Les retrouvailles, longtemps attendues, effacent les chagrins.", "pt": "Os reencontros, muito esperados, apagam as mágoas." },
+        { "level": "C1-C2", "fr": "C'est la retrouvaille qui, après l'adieu, donne tout son sens au port.", "pt": "É o reencontro que, após a despedida, dá todo o sentido ao porto." }
+      ]
+    },
+    {
+      "term": "l'essentiel",
+      "definitionPt": "o essencial",
+      "definitionFr": "Ce qui est le plus important.",
+      "inflections": ["l'essentiel"],
+      "ptTargets": ["essencial"],
+      "examples": [
+        { "level": "A1", "fr": "L'essentiel est là.", "pt": "O essencial está aqui." },
+        { "level": "A2-B1", "fr": "L'essentiel est invisible.", "pt": "O essencial é invisível." },
+        { "level": "B1-B2", "fr": "L'essentiel, souvent silencieux, échappe aux regards pressés.", "pt": "O essencial, muitas vezes silencioso, escapa aos olhares apressados." },
+        { "level": "C1-C2", "fr": "C'est l'essentiel qui, négligé par la hâte, donne pourtant son prix à la vie.", "pt": "É o essencial que, negligenciado pela pressa, dá no entanto seu valor à vida." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "L'écriture littéraire : l'antithèse et le rythme binaire",
+    "explanationPt": "A prosa literária usa antíteses e ritmos binários: 'ceux qui partent et ceux qui reviennent, les adieux et les retrouvailles'. O equilíbrio das oposições dá música à frase.",
+    "exampleFr": "Il accueille ceux qui partent et ceux qui reviennent, les adieux et les retrouvailles.",
+    "examplePt": "Ele acolhe os que partem e os que voltam, as despedidas e os reencontros.",
+    "practiceQuestion": "Complete a antítese: « La même eau porte les larmes et les ___ . »",
+    "options": ["sourires", "orages", "tempêtes"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "Ce n'est plus... c'est : la reformulation poétique",
+        "explanationPt": "Estrutura de ênfase: 'Nice n'est plus une ville ; c'est un amphithéâtre de lumière'. A negação abre espaço para a metáfora.",
+        "exampleFr": "Nice, vue de la mer, n'est plus une ville ; c'est un amphithéâtre de lumière.",
+        "examplePt": "Nice, vista do mar, já não é uma cidade; é um anfiteatro de luz.",
+        "practiceQuestion": "Complete: « Nice n'est plus une ville ; c'est un amphithéâtre de ___ . »",
+        "options": ["lumière", "bruit", "ombre"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "Tout voyage a un terme : la maxime finale",
+        "explanationPt": "A maxime (máxima) encerra o texto com sabedoria: 'tout voyage a un terme, mais chaque terme ouvre une nouvelle route'. Sentença lapidar de nível nativo.",
+        "exampleFr": "Tout voyage a un terme, mais chaque terme ouvre une nouvelle route.",
+        "examplePt": "Toda viagem tem um fim, mas cada fim abre uma nova rota.",
+        "practiceQuestion": "Complete: « Tout voyage a un terme, mais chaque terme ___ une nouvelle route. »",
+        "options": ["ouvre", "ferme", "efface"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Quando foi escavado o port Lympia?",
+      "options": ["no século XVIII", "no século X", "em 1968"],
+      "correctIndex": 0,
+      "explanation": "O port Lympia foi escavado no século XVIII."
+    },
+    {
+      "question": "O que um porto acolhe, segundo Irlan?",
+      "options": ["os que partem e os que voltam", "apenas os barcos de guerra", "somente os turistas"],
+      "correctIndex": 0,
+      "explanation": "O porto acolhe adieux e retrouvailles: partidas e reencontros."
+    },
+    {
+      "question": "O que apareceu ao longe durante o passeio?",
+      "options": ["golfinhos", "baleias gigantes", "submarinos"],
+      "correctIndex": 0,
+      "explanation": "Dauphins apareceram ao longe, dançando em torno das ondas."
+    },
+    {
+      "question": "Complete a antítese: « La même eau porte les larmes et les ___ . »",
+      "options": ["sourires", "orages", "tempêtes"],
+      "correctIndex": 0,
+      "explanation": "Antítese: larmes (lágrimas) × sourires (sorrisos)."
+    },
+    {
+      "question": "Complete: « Nice n'est plus une ville ; c'est un amphithéâtre de ___ . »",
+      "options": ["lumière", "bruit", "ombre"],
+      "correctIndex": 0,
+      "explanation": "Nice vira anfiteatro de luz entre o céu e a água."
+    }
+  ]
+}

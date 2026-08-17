@@ -1,0 +1,252 @@
+{
+  "id": "marseille_lesson_9",
+  "cityId": "marseille",
+  "domain": "Natureza",
+  "level": "Avançado (C1)",
+  "titleFr": "Les îles du Frioul et les plages du Prado",
+  "titlePt": "As ilhas do Frioul e as praias do Prado",
+  "subtitleFr": "La dernière journée de mer avant le départ pour Strasbourg",
+  "subtitlePt": "O último dia de mar antes da partida para Strasbourg",
+  "summaryPt": "Nesta Aula 9 (C1), a família passa o último dia de mar nas ilhas do Frioul e nas praias do Prado. Revisão geral do C1: voz passiva, subjonctif, concessão e discurso indireto em um dia de descanso.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Le bateau a glissé vers les îles du Frioul. « Ces îles, bien qu'elles soient proches, semblent être à l'autre bout du monde, a dit Andréa. Il faut que nous profitions de cette eau claire avant de quitter Marseille. »",
+      "pt": "O barco deslizou até as ilhas do Frioul. « Estas ilhas, embora sejam próximas, parecem estar no outro lado do mundo, disse Andréa. É preciso que aproveitemos esta água clara antes de deixar Marseille. »"
+    },
+    {
+      "id": 2,
+      "fr": "Sur la plage, Iris a ramassé des coquillages : « Il a été dit que ces îles étaient habitées depuis l'Antiquité ? » Irlan a hoché la tête : « Oui. Le guide a expliqué que les îles avaient servi de quarantaine pour les navires. Pourtant, aujourd'hui, elles sont un paradis. »",
+      "pt": "Na praia, Íris recolheu conchas: « Foi dito que estas ilhas eram habitadas desde a Antiguidade? » Irlan assentiu: « Sim. O guia explicou que as ilhas tinham servido de quarentena para os navios. No entanto, hoje, elas são um paraíso. »"
+    },
+    {
+      "id": 3,
+      "fr": "À l'ombre d'un rocher, la famille a pique-niqué. « Malgré les milliers de visiteurs, a remarqué Irlan, les eaux restent d'une pureté incroyable. En revanche, il faut que nous emportions nos déchets. Bien que ce soit un petit geste, il compte beaucoup. »",
+      "pt": "À sombra de uma rocha, a família fez piquenique. « Apesar dos milhares de visitantes, observou Irlan, as águas continuam de uma pureza incrível. Em compensação, é preciso que levemos nosso lixo. Embora seja um pequeno gesto, ele conta muito. »"
+    },
+    {
+      "id": 4,
+      "fr": "Le soir, sur les plages du Prado, le soleil a disparu dans la mer. « Demain, nous partons pour Strasbourg, a annoncé Andréa. Il faut que nous gardions dans nos cœurs cette lumière de Marseille. » Iris a ajouté : « Et je veux que nous revenions un jour, c'est promis ! »",
+      "pt": "À noite, nas praias do Prado, o sol desapareceu no mar. « Amanhã, partimos para Strasbourg, anunciou Andréa. É preciso que guardemos em nossos corações esta luz de Marseille. » Íris acrescentou: « E quero que voltemos um dia, prometido! »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "le coquillage",
+      "definitionPt": "a concha",
+      "definitionFr": "Coquille d'un animal marin.",
+      "inflections": ["le coquillage", "les coquillages"],
+      "ptTargets": ["concha", "marisco"],
+      "examples": [
+        { "level": "A1", "fr": "Le coquillage est joli.", "pt": "A concha é bonita." },
+        { "level": "A2-B1", "fr": "Iris ramasse des coquillages.", "pt": "Íris recolhe conchas." },
+        { "level": "B1-B2", "fr": "Les coquillages, offerts par la mer, sont les souvenirs préférés des enfants.", "pt": "As conchas, oferecidas pelo mar, são as lembranças preferidas das crianças." },
+        { "level": "C1-C2", "fr": "C'est par les coquillages que la mer raconte ses voyages.", "pt": "É pelas conchas que o mar conta suas viagens." }
+      ]
+    },
+    {
+      "term": "la quarantaine",
+      "definitionPt": "a quarentena",
+      "definitionFr": "Isolement imposé aux navires suspects.",
+      "inflections": ["la quarantaine", "les quarantaines"],
+      "ptTargets": ["quarentena"],
+      "examples": [
+        { "level": "A1", "fr": "La quarantaine est longue.", "pt": "A quarentena é longa." },
+        { "level": "A2-B1", "fr": "Les îles ont servi de quarantaine.", "pt": "As ilhas serviram de quarentena." },
+        { "level": "B1-B2", "fr": "La quarantaine, imposée aux navires, protégeait la ville des épidémies.", "pt": "A quarentena, imposta aos navios, protegia a cidade das epidemias." },
+        { "level": "C1-C2", "fr": "C'est par la quarantaine que Marseille a contrôlé les échanges maritimes pendant des siècles.", "pt": "É pela quarentena que Marseille controlou os intercâmbios marítimos durante séculos." }
+      ]
+    },
+    {
+      "term": "le déchet",
+      "definitionPt": "o lixo, o resíduo",
+      "definitionFr": "Objet dont on se débarrasse.",
+      "inflections": ["le déchet", "les déchets"],
+      "ptTargets": ["lixo", "resíduo"],
+      "examples": [
+        { "level": "A1", "fr": "Le déchet est petit.", "pt": "O lixo é pequeno." },
+        { "level": "A2-B1", "fr": "Il faut emporter ses déchets.", "pt": "É preciso levar o próprio lixo." },
+        { "level": "B1-B2", "fr": "Les déchets, laissés sur la plage, menacent la nature.", "pt": "Os lixos, deixados na praia, ameaçam a natureza." },
+        { "level": "C1-C2", "fr": "C'est en emportant nos déchets que nous protégeons les calanques.", "pt": "É levando nosso lixo que protegemos as calanques." }
+      ]
+    },
+    {
+      "term": "la plage",
+      "definitionPt": "a praia",
+      "definitionFr": "Bord de mer couvert de sable.",
+      "inflections": ["la plage", "les plages"],
+      "ptTargets": ["praia"],
+      "examples": [
+        { "level": "A1", "fr": "La plage est belle.", "pt": "A praia é bonita." },
+        { "level": "A2-B1", "fr": "Les plages du Prado sont célèbres.", "pt": "As praias do Prado são famosas." },
+        { "level": "B1-B2", "fr": "Les plages, surveillées en été, accueillent des milliers de familles.", "pt": "As praias, vigiadas no verão, recebem milhares de famílias." },
+        { "level": "C1-C2", "fr": "C'est sur les plages que se termine la journée parfaite à Marseille.", "pt": "É nas praias que termina o dia perfeito em Marseille." }
+      ]
+    },
+    {
+      "term": "le sable",
+      "definitionPt": "a areia",
+      "definitionFr": "Grain fin qui couvre les plages.",
+      "inflections": ["le sable", "les sables"],
+      "ptTargets": ["areia"],
+      "examples": [
+        { "level": "A1", "fr": "Le sable est fin.", "pt": "A areia é fina." },
+        { "level": "A2-B1", "fr": "Iris a construit un château de sable.", "pt": "Íris construiu um castelo de areia." },
+        { "level": "B1-B2", "fr": "Le sable, doré et doux, invite à la sieste.", "pt": "A areia, dourada e macia, convida à sesta." },
+        { "level": "C1-C2", "fr": "C'est dans le sable que se dessinent les souvenirs des vacances.", "pt": "É na areia que se desenham as lembranças das férias." }
+      ]
+    },
+    {
+      "term": "la sieste",
+      "definitionPt": "a sesta",
+      "definitionFr": "Repos pris après le repas.",
+      "inflections": ["la sieste", "les siestes"],
+      "ptTargets": ["sesta", "cochilo"],
+      "examples": [
+        { "level": "A1", "fr": "La sieste est courte.", "pt": "A sesta é curta." },
+        { "level": "A2-B1", "fr": "La famille a fait une sieste sur la plage.", "pt": "A família fez uma sesta na praia." },
+        { "level": "B1-B2", "fr": "La sieste, à l'ombre d'un rocher, est un moment de bonheur simple.", "pt": "A sesta, à sombra de uma rocha, é um momento de felicidade simples." },
+        { "level": "C1-C2", "fr": "C'est la sieste qui rythme la douceur de vivre méditerranéenne.", "pt": "É a sesta que marca o ritmo da doçura de viver mediterrânea." }
+      ]
+    },
+    {
+      "term": "le rocher",
+      "definitionPt": "a rocha",
+      "definitionFr": "Grande masse de pierre.",
+      "inflections": ["le rocher", "les rochers"],
+      "ptTargets": ["rocha"],
+      "examples": [
+        { "level": "A1", "fr": "Le rocher est grand.", "pt": "A rocha é grande." },
+        { "level": "A2-B1", "fr": "La famille a pique-niqué à l'ombre d'un rocher.", "pt": "A família fez piquenique à sombra de uma rocha." },
+        { "level": "B1-B2", "fr": "Les rochers, sculptés par le vent, protègent les criques.", "pt": "As rochas, esculpidas pelo vento, protegem as enseadas." },
+        { "level": "C1-C2", "fr": "C'est entre les rochers que se cachent les plus beaux secrets de la côte.", "pt": "É entre as rochas que se escondem os mais belos segredos da costa." }
+      ]
+    },
+    {
+      "term": "la pureté",
+      "definitionPt": "a pureza",
+      "definitionFr": "Qualité de ce qui est pur.",
+      "inflections": ["la pureté", "les puretés"],
+      "ptTargets": ["pureza"],
+      "examples": [
+        { "level": "A1", "fr": "La pureté est belle.", "pt": "A pureza é bela." },
+        { "level": "A2-B1", "fr": "L'eau a une pureté incroyable.", "pt": "A água tem uma pureza incrível." },
+        { "level": "B1-B2", "fr": "La pureté des eaux, qui fascine les plongeurs, est protégée par la loi.", "pt": "A pureza das águas, que fascina os mergulhadores, é protegida por lei." },
+        { "level": "C1-C2", "fr": "C'est la pureté de la Méditerranée qui fait la beauté de ses côtes.", "pt": "É a pureza do Mediterrâneo que faz a beleza de suas costas." }
+      ]
+    },
+    {
+      "term": "disparaître",
+      "definitionPt": "desaparecer",
+      "definitionFr": "Cesser d'être visible.",
+      "inflections": ["je disparais", "nous disparaissons"],
+      "ptTargets": ["desaparecer", "desapareceu"],
+      "examples": [
+        { "level": "A1", "fr": "Le soleil disparaît.", "pt": "O sol desaparece." },
+        { "level": "A2-B1", "fr": "Le soleil a disparu dans la mer.", "pt": "O sol desapareceu no mar." },
+        { "level": "B1-B2", "fr": "Le soleil, qui disparaît lentement, colore le ciel de rouge.", "pt": "O sol, que desaparece lentamente, colore o céu de vermelho." },
+        { "level": "C1-C2", "fr": "C'est en disparaissant à l'horizon que le soleil clôt la journée.", "pt": "É desaparecendo no horizonte que o sol encerra o dia." }
+      ]
+    },
+    {
+      "term": "l'horizon",
+      "definitionPt": "o horizonte",
+      "definitionFr": "Ligne où le ciel semble toucher la mer.",
+      "inflections": ["l'horizon", "les horizons"],
+      "ptTargets": ["horizonte"],
+      "examples": [
+        { "level": "A1", "fr": "L'horizon est loin.", "pt": "O horizonte é longe." },
+        { "level": "A2-B1", "fr": "Le soleil disparaît à l'horizon.", "pt": "O sol desaparece no horizonte." },
+        { "level": "B1-B2", "fr": "L'horizon, qui s'étend à l'infini, invite au voyage.", "pt": "O horizonte, que se estende até o infinito, convida à viagem." },
+        { "level": "C1-C2", "fr": "C'est vers l'horizon que Marseille a toujours tourné son regard.", "pt": "É para o horizonte que Marseille sempre voltou seu olhar." }
+      ]
+    },
+    {
+      "term": "glisser",
+      "definitionPt": "deslizar",
+      "definitionFr": "Se déplacer en douceur.",
+      "inflections": ["je glisse", "nous glissons"],
+      "ptTargets": ["deslizar", "deslizou"],
+      "examples": [
+        { "level": "A1", "fr": "Le bateau glisse.", "pt": "O barco desliza." },
+        { "level": "A2-B1", "fr": "Le bateau a glissé vers les îles.", "pt": "O barco deslizou até as ilhas." },
+        { "level": "B1-B2", "fr": "Le bateau, qui glissait sans bruit, laissait un sillage blanc.", "pt": "O barco, que deslizava sem ruído, deixava um rastro branco." },
+        { "level": "C1-C2", "fr": "C'est en glissant sur l'eau que l'on goûte la paix des îles.", "pt": "É deslizando sobre a água que se saboreia a paz das ilhas." }
+      ]
+    },
+    {
+      "term": "le sillage",
+      "definitionPt": "o rastro, a esteira",
+      "definitionFr": "Trace laissée par un bateau sur l'eau.",
+      "inflections": ["le sillage", "les sillages"],
+      "ptTargets": ["rastro", "esteira"],
+      "examples": [
+        { "level": "A1", "fr": "Le sillage est blanc.", "pt": "O rastro é branco." },
+        { "level": "A2-B1", "fr": "Le bateau laisse un sillage.", "pt": "O barco deixa um rastro." },
+        { "level": "B1-B2", "fr": "Le sillage, qui s'élargit derrière le bateau, se dissout lentement.", "pt": "O rastro, que se alarga atrás do barco, se dissolve lentamente." },
+        { "level": "C1-C2", "fr": "C'est dans le sillage des bateaux que se lisent les routes de la Méditerranée.", "pt": "É no rastro dos barcos que se leem as rotas do Mediterrâneo." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Révision générale du niveau C1",
+    "explanationPt": "Revisão dos pilares do C1: voz passiva ('il a été dit que les îles avaient servi de quarantaine'), subjonctif ('il faut que nous profitions', 'je veux que nous revenions'), concessão ('bien qu'elles soient proches', 'malgré les milliers de visiteurs') e discurso indireto ('le guide a expliqué que les îles avaient servi').",
+    "exampleFr": "Il faut que nous gardions dans nos cœurs cette lumière de Marseille.",
+    "examplePt": "É preciso que guardemos em nossos corações esta luz de Marseille.",
+    "practiceQuestion": "Complete: « Bien que les îles ___ proches, elles semblent lointaines. »",
+    "options": ["soient", "sont", "seront"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "Il a été dit que... (passif du discours)",
+        "explanationPt": "Passiva de relato: 'Il a été dit que ces îles étaient habitées depuis l'Antiquité' (foi dito que estas ilhas eram habitadas desde a Antiguidade).",
+        "exampleFr": "Il a été dit que ces îles avaient servi de quarantaine.",
+        "examplePt": "Foi dito que estas ilhas tinham servido de quarentena.",
+        "practiceQuestion": "Complete: « Il a été ___ que ces îles étaient habitées. »",
+        "options": ["dit", "dite", "dits"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "En revanche + il faut que",
+        "explanationPt": "Combinação típica do C1: 'En revanche, il faut que nous emportions nos déchets' (em compensação, é preciso que levemos nosso lixo).",
+        "exampleFr": "En revanche, il faut que nous emportions nos déchets.",
+        "examplePt": "Em compensação, é preciso que levemos nosso lixo.",
+        "practiceQuestion": "Complete: « Il faut que nous ___ nos déchets. »",
+        "options": ["emportions", "emportons", "emporterons"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Para que serviram as ilhas do Frioul na história?",
+      "options": ["quarentena para navios", "fábrica de sabão", "prisão de reis"],
+      "correctIndex": 0,
+      "explanation": "As ilhas do Frioul serviram de quarentena para os navios que chegavam."
+    },
+    {
+      "question": "O que Íris recolheu na praia?",
+      "options": ["conchas", "pedras preciosas", "moedas antigas"],
+      "correctIndex": 0,
+      "explanation": "Íris recolheu coquillages, conchas, na praia."
+    },
+    {
+      "question": "O que a família deve fazer com os dejetos?",
+      "options": ["levar embora", "enterrar na areia", "jogar no mar"],
+      "correctIndex": 0,
+      "explanation": "Para proteger as ilhas, é preciso levar os déchets ao partir."
+    },
+    {
+      "question": "Complete: « Bien que les îles ___ proches, elles semblent lointaines. »",
+      "options": ["soient", "sont", "seront"],
+      "correctIndex": 0,
+      "explanation": "Subjonctif após 'bien que': soient."
+    },
+    {
+      "question": "Para onde a família parte amanhã?",
+      "options": ["Strasbourg", "Lyon", "Nice"],
+      "correctIndex": 0,
+      "explanation": "A próxima etapa é Strasbourg, no leste da França."
+    }
+  ]
+}

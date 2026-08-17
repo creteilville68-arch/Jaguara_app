@@ -1,0 +1,252 @@
+{
+  "id": "amiens_lesson_23",
+  "cityId": "amiens",
+  "domain": "Gastronomia & Tradição",
+  "level": "Iniciante em Transição (A1/A2)",
+  "titleFr": "Le gâteau battu",
+  "titlePt": "O gâteau battu",
+  "subtitleFr": "La spécialité dorée de la Picardie",
+  "subtitlePt": "A especialidade dourada da Picardia",
+  "summaryPt": "Nesta Aula 23 (A1/A2) da Cidade #2, a família prova o gâteau battu, o famoso bolo da Picardia, feito com farinha, ovos, beurre e levure. O aluno aprende o vocabulário dos ingredientes (farine, œuf, beurre, sucre, levure) e o imperativo de fazer (fais, faites, faisons).",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Dans une pâtisserie d'Amiens, la famille découvre le gâteau battu. « C'est la spécialité de la Picardie, dit Andréa. On le prépare avec de la farine, des œufs, du beurre, du sucre et de la levure. »",
+      "pt": "Numa confeitaria de Amiens, a família descobre o gâteau battu. « É a especialidade da Picardia, diz Andréa. Prepara-se com farinha, ovos, manteiga, açúcar e fermento. »"
+    },
+    {
+      "id": 2,
+      "fr": "Le gâteau battu est haut et doré, comme un grand champignon. « Regardez ! dit Íris. On dirait un petit chapeau jaune ! » La pâtissière rit : « Le secret, c'est de battre la pâte longtemps. »",
+      "pt": "O gâteau battu é alto e dourado, como um grande cogumelo. « Olhem! diz Íris. Parece um chapéu amarelo! » A confeiteira ri: « O segredo é bater a massa por muito tempo. »"
+    },
+    {
+      "id": 3,
+      "fr": "À la maison, la famille prépare un gâteau battu ensemble. « Fais attention à la levure, dit Andréa. Mettons la pâte au four et attendons trente minutes. » La maison sent bon.",
+      "pt": "Em casa, a família prepara um gâteau battu junta. « Preste atenção no fermento, diz Andréa. Vamos colocar a massa no forno e esperar trinta minutos. » A casa fica cheirosa."
+    },
+    {
+      "id": 4,
+      "fr": "Le gâteau est prêt : il est doré et moelleux. « Mangeons-le avec un peu de beurre, dit Irlan. C'est le goût de la Picardie ! » Íris goûte et sourit : « C'est délicieux ! »",
+      "pt": "O bolo está pronto: está dourado e macio. « Vamos comê-lo com um pouco de manteiga, diz Irlan. É o sabor da Picardia! » Íris prova e sorri: « Está delicioso! »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "la farine",
+      "definitionPt": "a farinha",
+      "definitionFr": "Poudre obtenue à partir du blé.",
+      "inflections": ["la farine", "une farine"],
+      "ptTargets": ["farinha"],
+      "examples": [
+        { "level": "A1", "fr": "La farine est blanche.", "pt": "A farinha é branca." },
+        { "level": "A2-B1", "fr": "On prépare le gâteau avec de la farine.", "pt": "Prepara-se o bolo com farinha." },
+        { "level": "B2", "fr": "La farine de blé est la base du gâteau battu.", "pt": "A farinha de trigo é a base do gâteau battu." },
+        { "level": "C1-C2", "fr": "C'est la farine qui, fine, donne sa légèreté à la pâte.", "pt": "É a farinha que, fina, dá leveza à massa." }
+      ]
+    },
+    {
+      "term": "l'œuf",
+      "definitionPt": "o ovo",
+      "definitionFr": "Produit pondu par les poules.",
+      "inflections": ["l'œuf", "un œuf", "des œufs"],
+      "ptTargets": ["ovo"],
+      "examples": [
+        { "level": "A1", "fr": "L'œuf est frais.", "pt": "O ovo é fresco." },
+        { "level": "A2-B1", "fr": "Il faut des œufs pour le gâteau.", "pt": "É preciso ovos para o bolo." },
+        { "level": "B2", "fr": "Les œufs donnent du moelleux au gâteau.", "pt": "Os ovos dão maciez ao bolo." },
+        { "level": "C1-C2", "fr": "C'est l'œuf qui, jaune, colore la pâte.", "pt": "É o ovo que, amarelo, colore a massa." }
+      ]
+    },
+    {
+      "term": "le beurre",
+      "definitionPt": "a manteiga",
+      "definitionFr": "Matière grasse faite avec du lait.",
+      "inflections": ["le beurre", "un beurre"],
+      "ptTargets": ["manteiga"],
+      "examples": [
+        { "level": "A1", "fr": "Le beurre est jaune.", "pt": "A manteiga é amarela." },
+        { "level": "A2-B1", "fr": "Le gâteau est fait avec du beurre.", "pt": "O bolo é feito com manteiga." },
+        { "level": "B2", "fr": "Le beurre donne un goût délicieux à la pâte.", "pt": "A manteiga dá um gosto delicioso à massa." },
+        { "level": "C1-C2", "fr": "C'est le beurre qui, doré, fait la richesse du gâteau battu.", "pt": "É a manteiga que, dourada, dá riqueza ao gâteau battu." }
+      ]
+    },
+    {
+      "term": "le sucre",
+      "definitionPt": "o açúcar",
+      "definitionFr": "Substance sucrée.",
+      "inflections": ["le sucre", "un sucre"],
+      "ptTargets": ["açúcar"],
+      "examples": [
+        { "level": "A1", "fr": "Le sucre est blanc.", "pt": "O açúcar é branco." },
+        { "level": "A2-B1", "fr": "Le gâteau contient du sucre.", "pt": "O bolo contém açúcar." },
+        { "level": "B2", "fr": "Le sucre, ajouté avec soin, adoucit la pâte.", "pt": "O açúcar, adicionado com cuidado, adoça a massa." },
+        { "level": "C1-C2", "fr": "C'est le sucre qui, juste, équilibre les saveurs.", "pt": "É o açúcar que, na medida, equilibra os sabores." }
+      ]
+    },
+    {
+      "term": "la levure",
+      "definitionPt": "o fermento",
+      "definitionFr": "Ingrédient qui fait gonfler la pâte.",
+      "inflections": ["la levure", "une levure"],
+      "ptTargets": ["fermento"],
+      "examples": [
+        { "level": "A1", "fr": "La levure fait lever la pâte.", "pt": "O fermento faz a massa crescer." },
+        { "level": "A2-B1", "fr": "Fais attention à la levure !", "pt": "Preste atenção no fermento!" },
+        { "level": "B2", "fr": "La levure donne son volume au gâteau battu.", "pt": "O fermento dá volume ao gâteau battu." },
+        { "level": "C1-C2", "fr": "C'est la levure qui, magique, fait respirer la pâte.", "pt": "É o fermento que, mágico, faz a massa respirar." }
+      ]
+    },
+    {
+      "term": "la pâte",
+      "definitionPt": "a massa",
+      "definitionFr": "Mélange de farine et d'autres ingrédients.",
+      "inflections": ["la pâte", "une pâte", "des pâtes"],
+      "ptTargets": ["massa"],
+      "examples": [
+        { "level": "A1", "fr": "La pâte est molle.", "pt": "A massa é mole." },
+        { "level": "A2-B1", "fr": "Mettons la pâte au four.", "pt": "Vamos colocar a massa no forno." },
+        { "level": "B2", "fr": "La pâte, battue longtemps, devient légère.", "pt": "A massa, batida por muito tempo, fica leve." },
+        { "level": "C1-C2", "fr": "C'est la pâte qui, travaillée avec amour, devient un chef-d'œuvre.", "pt": "É a massa que, trabalhada com amor, vira uma obra-prima." }
+      ]
+    },
+    {
+      "term": "battre",
+      "definitionPt": "bater",
+      "definitionFr": "Mélanger avec force.",
+      "inflections": ["je bats", "battre", "nous battons"],
+      "ptTargets": ["bater"],
+      "examples": [
+        { "level": "A1", "fr": "Je bats les œufs.", "pt": "Eu bato os ovos." },
+        { "level": "A2-B1", "fr": "Il faut battre la pâte longtemps.", "pt": "É preciso bater a massa por muito tempo." },
+        { "level": "B2", "fr": "Battre les œufs jusqu'à obtenir une mousse.", "pt": "Bater os ovos até obter uma espuma." },
+        { "level": "C1-C2", "fr": "C'est en battant que la pâte devient aérienne.", "pt": "É batendo que a massa fica aérea." }
+      ]
+    },
+    {
+      "term": "le four",
+      "definitionPt": "o forno",
+      "definitionFr": "Appareil pour cuire.",
+      "inflections": ["le four", "un four", "des fours"],
+      "ptTargets": ["forno"],
+      "examples": [
+        { "level": "A1", "fr": "Le four est chaud.", "pt": "O forno está quente." },
+        { "level": "A2-B1", "fr": "Mettons la pâte au four.", "pt": "Vamos colocar a massa no forno." },
+        { "level": "B2", "fr": "Le four, réglé à 180 degrés, cuit le gâteau.", "pt": "O forno, ajustado a 180 graus, assa o bolo." },
+        { "level": "C1-C2", "fr": "C'est le four qui, patient, donne sa couleur dorée au gâteau.", "pt": "É o forno que, paciente, dá a cor dourada ao bolo." }
+      ]
+    },
+    {
+      "term": "moelleux",
+      "definitionPt": "macio",
+      "definitionFr": "Doux et tendre.",
+      "inflections": ["moelleux", "moelleuse", "moelleux"],
+      "ptTargets": ["macio"],
+      "examples": [
+        { "level": "A1", "fr": "Le gâteau est moelleux.", "pt": "O bolo é macio." },
+        { "level": "A2-B1", "fr": "Il est doré et moelleux.", "pt": "Ele está dourado e macio." },
+        { "level": "B2", "fr": "Une texture moelleuse fait tout le charme du gâteau.", "pt": "Uma textura macia faz todo o charme do bolo." },
+        { "level": "C1-C2", "fr": "C'est le moelleux qui, parfait, fond dans la bouche.", "pt": "É a maciez que, perfeita, derrete na boca." }
+      ]
+    },
+    {
+      "term": "attendre",
+      "definitionPt": "esperar",
+      "definitionFr": "Rester jusqu'à un moment.",
+      "inflections": ["j'attends", "attendre", "nous attendons"],
+      "ptTargets": ["esperar"],
+      "examples": [
+        { "level": "A1", "fr": "Nous attendons le gâteau.", "pt": "Nós esperamos o bolo." },
+        { "level": "A2-B1", "fr": "Attendons trente minutes !", "pt": "Vamos esperar trinta minutos!" },
+        { "level": "B2", "fr": "La cuisson demande de la patience : il faut attendre.", "pt": "O cozimento exige paciência: é preciso esperar." },
+        { "level": "C1-C2", "fr": "C'est en attendant que l'on savoure l'attente.", "pt": "É esperando que se saboreia a espera." }
+      ]
+    },
+    {
+      "term": "le goût",
+      "definitionPt": "o sabor",
+      "definitionFr": "Saveur d'un aliment.",
+      "inflections": ["le goût", "un goût", "des goûts"],
+      "ptTargets": ["sabor", "gosto"],
+      "examples": [
+        { "level": "A1", "fr": "Le goût est bon.", "pt": "O sabor é bom." },
+        { "level": "A2-B1", "fr": "C'est le goût de la Picardie !", "pt": "É o sabor da Picardia!" },
+        { "level": "B2", "fr": "Le goût du gâteau battu rappelle l'enfance.", "pt": "O sabor do gâteau battu lembra a infância." },
+        { "level": "C1-C2", "fr": "C'est le goût qui, authentique, raconte un terroir.", "pt": "É o sabor que, autêntico, conta um terroir." }
+      ]
+    },
+    {
+      "term": "délicieux",
+      "definitionPt": "delicioso",
+      "definitionFr": "Très bon au goût.",
+      "inflections": ["délicieux", "délicieuse", "délicieux"],
+      "ptTargets": ["delicioso"],
+      "examples": [
+        { "level": "A1", "fr": "Le gâteau est délicieux.", "pt": "O bolo está delicioso." },
+        { "level": "A2-B1", "fr": "Íris goûte et sourit : c'est délicieux.", "pt": "Íris prova e sorri: está delicioso." },
+        { "level": "B2", "fr": "La spécialité picarde est délicieuse.", "pt": "A especialidade picarda é deliciosa." },
+        { "level": "C1-C2", "fr": "C'est délicieux que de partager un gâteau fait maison.", "pt": "É delicioso partilhar um bolo feito em casa." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "L'impératif : fais, faisons, faites",
+    "explanationPt": "Imperativo de 'faire': 'Fais attention !' (preste atenção! - tu), 'Faisons le gâteau !' (vamos fazer o bolo!), 'Faites la pâte !' (façam a massa! - vous). Também 'Mettons la pâte au four' (vamos colocar a massa no forno).",
+    "exampleFr": "Fais attention à la levure ! Faisons le gâteau ensemble ! Mettons la pâte au four.",
+    "examplePt": "Preste atenção no fermento! Vamos fazer o bolo juntos! Vamos colocar a massa no forno.",
+    "practiceQuestion": "Complete: '_____ attention à la levure !'",
+    "options": ["Fais", "Fait", "Faire"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "Le partitif avec les ingrédients",
+        "explanationPt": "Com ingredientes, usa-se o partitivo: 'de la farine' (farinha), 'des œufs' (ovos), 'du beurre' (manteiga), 'du sucre' (açúcar), 'de la levure' (fermento).",
+        "exampleFr": "On prépare le gâteau avec de la farine, des œufs, du beurre, du sucre et de la levure.",
+        "examplePt": "Prepara-se o bolo com farinha, ovos, manteiga, açúcar e fermento.",
+        "practiceQuestion": "Complete: 'du _____'",
+        "options": ["beurre", "farine", "levure"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "On dirait : parece",
+        "explanationPt": "'On dirait' = parece (literalmente 'dir-se-ia'): 'On dirait un petit chapeau jaune' (parece um chapéu amarelo).",
+        "exampleFr": "On dirait un petit chapeau jaune !",
+        "examplePt": "Parece um chapéu amarelo!",
+        "practiceQuestion": "Complete: 'On _____ un petit chapeau jaune !'",
+        "options": ["dirait", "dit", "dire"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Qual é a especialidade da Picardia que a família prova?",
+      "options": ["o gâteau battu", "o croissant", "a baguete"],
+      "correctIndex": 0,
+      "explanation": "C'est la spécialité de la Picardie : le gâteau battu."
+    },
+    {
+      "question": "Qual é o segredo do gâteau battu?",
+      "options": ["bater a massa por muito tempo", "usar muito chocolate", "congelar a massa"],
+      "correctIndex": 0,
+      "explanation": "Le secret, c'est de battre la pâte longtemps."
+    },
+    {
+      "question": "Quanto tempo a massa fica no forno?",
+      "options": ["trinta minutos", "duas horas", "cinco minutos"],
+      "correctIndex": 0,
+      "explanation": "Mettons la pâte au four et attendons trente minutes."
+    },
+    {
+      "question": "Complete: '_____ attention à la levure !'",
+      "options": ["Fais", "Fait", "Faire"],
+      "correctIndex": 0,
+      "explanation": "Imperativo de faire: fais."
+    },
+    {
+      "question": "Complete: 'On _____ un petit chapeau jaune !'",
+      "options": ["dirait", "dit", "dire"],
+      "correctIndex": 0,
+      "explanation": "On dirait = parece."
+    }
+  ]
+}

@@ -1,0 +1,257 @@
+{
+  "id": "marseille_lesson_28",
+  "cityId": "marseille",
+  "domain": "Arte & Paisagem",
+  "level": "Avançado (C1)",
+  "titleFr": "L'Estaque : la colline qui a inspiré les peintres",
+  "titlePt": "L'Estaque: a colina que inspirou os pintores",
+  "subtitleFr": "Le discours indirect et la voix passive : le paysage raconté",
+  "subtitlePt": "O discurso indireto e a voz passiva: a paisagem contada",
+  "summaryPt": "L'Estaque, antiga vila de pescadores a noroeste de Marseille, foi pintada por Cézanne, Braque e Dufy. Nesta aula C1, Irlan leva a família ao mirante e entende que uma paisagem pode ser vista, pintada e reinventada mil vezes.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Irlan avait promis qu'il montrerait à la famille le paysage des peintres. « On dit que Cézanne venait ici peindre la baie », expliqua-t-il. Les toits roses de L'Estaque descendaient vers l'eau.",
+      "pt": "Irlan tinha prometido que mostraria à família a paisagem dos pintores. « Dizem que Cézanne vinha aqui pintar a baía », explicou ele. Os telhados rosas de L'Estaque desciam em direção à água."
+    },
+    {
+      "id": 2,
+      "fr": "Au XIXᵉ siècle, les carrières et les tuileries faisaient vivre le village. « Il paraît que les ouvriers chargeaient les bateaux de tuiles roses », raconta Andréa. Les cheminées des anciennes usines se dressaient comme des souvenirs.",
+      "pt": "No século XIX, as pedreiras e as olarias faziam viver o vilarejo. « Dizem que os operários carregavam os barcos de telhas rosas », contou Andréa. As chaminés das antigas fábricas erguiam-se como lembranças."
+    },
+    {
+      "id": 3,
+      "fr": "Au belvédère, la baie s'ouvrait, immense. « Bien que Cézanne ait peint ce paysage des dizaines de fois, il n'a jamais répété la même lumière », dit Irlan. Les voiliers glissaient sur l'eau calme.",
+      "pt": "No mirante, a baía se abria, imensa. « Embora Cézanne tenha pintado esta paisagem dezenas de vezes, ele nunca repetiu a mesma luz », disse Irlan. Os veleiros deslizavam sobre a água calma."
+    },
+    {
+      "id": 4,
+      "fr": "Plus tard, Braque et Dufy ont aussi posé leur chevalet ici. « On raconte que c'est en regardant ces toits que le cubisme a trouvé ses premières formes », murmura Andréa. Íris essayait de dessiner la baie avec son crayon.",
+      "pt": "Mais tarde, Braque e Dufy também colocaram seus cavaletes aqui. « Contam que foi olhando estes telhados que o cubismo encontrou suas primeiras formas », murmurou Andréa. Íris tentava desenhar a baía com seu lápis."
+    },
+    {
+      "id": 5,
+      "fr": "Le soir, Irlan écrivit : « Un paysage n'est jamais fini : il a été peint, repeint, rêvé. L'Estaque m'a appris que la beauté est une conversation entre le regard et le monde. »",
+      "pt": "À noite, Irlan escreveu: « Uma paisagem nunca está acabada: ela foi pintada, repintada, sonhada. L'Estaque me ensinou que a beleza é uma conversa entre o olhar e o mundo. »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "la baie",
+      "definitionPt": "baía",
+      "definitionFr": "Étendue d'eau entourée de terres.",
+      "inflections": ["la baie", "les baies"],
+      "ptTargets": ["baía", "baías"],
+      "examples": [
+        { "level": "A1", "fr": "La baie est bleue.", "pt": "A baía é azul." },
+        { "level": "A2-B1", "fr": "La baie s'ouvre devant nous.", "pt": "A baía se abre diante de nós." },
+        { "level": "B1-B2", "fr": "La baie, bordée de collines, a inspiré des générations de peintres.", "pt": "A baía, ladeada de colinas, inspirou gerações de pintores." },
+        { "level": "C1-C2", "fr": "C'est la baie qui donne au paysage sa respiration.", "pt": "É a baía que dá à paisagem sua respiração." }
+      ]
+    },
+    {
+      "term": "la colline",
+      "definitionPt": "colina",
+      "definitionFr": "Élévation de terrain peu élevée.",
+      "inflections": ["la colline", "les collines"],
+      "ptTargets": ["colina", "colinas"],
+      "examples": [
+        { "level": "A1", "fr": "La colline est verte.", "pt": "A colina é verde." },
+        { "level": "A2-B1", "fr": "Le village monte sur la colline.", "pt": "O vilarejo sobe a colina." },
+        { "level": "B1-B2", "fr": "Les collines, couvertes de pins, protègent la baie du vent.", "pt": "As colinas, cobertas de pinheiros, protegem a baía do vento." },
+        { "level": "C1-C2", "fr": "C'est de la colline que le paysage prend tout son sens.", "pt": "É da colina que a paisagem ganha todo o seu sentido." }
+      ]
+    },
+    {
+      "term": "le peintre",
+      "definitionPt": "pintor",
+      "definitionFr": "Artiste qui peint.",
+      "inflections": ["le peintre", "les peintres"],
+      "ptTargets": ["pintor", "pintores"],
+      "examples": [
+        { "level": "A1", "fr": "Le peintre travaille.", "pt": "O pintor trabalha." },
+        { "level": "A2-B1", "fr": "Les peintres viennent ici.", "pt": "Os pintores vêm para cá." },
+        { "level": "B1-B2", "fr": "Les peintres, fascinés par la lumière, ont fait de L'Estaque un atelier à ciel ouvert.", "pt": "Os pintores, fascinados pela luz, fizeram de L'Estaque um ateliê a céu aberto." },
+        { "level": "C1-C2", "fr": "C'est le regard du peintre qui transforme un village en chef-d'œuvre.", "pt": "É o olhar do pintor que transforma um vilarejo em obra-prima." }
+      ]
+    },
+    {
+      "term": "la tuilerie",
+      "definitionPt": "olaria (fábrica de telhas)",
+      "definitionFr": "Usine où l'on fabrique des tuiles.",
+      "inflections": ["la tuilerie", "les tuileries"],
+      "ptTargets": ["olaria", "telheira", "olarias"],
+      "examples": [
+        { "level": "A1", "fr": "La tuilerie est ancienne.", "pt": "A olaria é antiga." },
+        { "level": "A2-B1", "fr": "Les tuileries faisaient vivre le village.", "pt": "As olarias faziam viver o vilarejo." },
+        { "level": "B1-B2", "fr": "Les tuileries, fermées depuis longtemps, ont laissé leurs cheminées dans le paysage.", "pt": "As olarias, fechadas há muito tempo, deixaram suas chaminés na paisagem." },
+        { "level": "C1-C2", "fr": "C'est la tuilerie qui a donné au village sa couleur rose.", "pt": "É a olaria que deu ao vilarejo sua cor rosa." }
+      ]
+    },
+    {
+      "term": "la tuile",
+      "definitionPt": "telha",
+      "definitionFr": "Plaque de terre cuite pour les toits.",
+      "inflections": ["la tuile", "les tuiles"],
+      "ptTargets": ["telha", "telhas"],
+      "examples": [
+        { "level": "A1", "fr": "La tuile est rose.", "pt": "A telha é rosa." },
+        { "level": "A2-B1", "fr": "Les toits sont couverts de tuiles roses.", "pt": "Os telhados são cobertos de telhas rosas." },
+        { "level": "B1-B2", "fr": "Les tuiles, fabriquées sur place, partaient par bateau dans toute la Méditerranée.", "pt": "As telhas, fabricadas no local, partiam de barco para todo o Mediterrâneo." },
+        { "level": "C1-C2", "fr": "C'est la tuile rose qui fait l'unité des toits du Midi.", "pt": "É a telha rosa que dá unidade aos telhados do Sul." }
+      ]
+    },
+    {
+      "term": "le belvédère",
+      "definitionPt": "mirante",
+      "definitionFr": "Point de vue élevé.",
+      "inflections": ["le belvédère", "les belvédères"],
+      "ptTargets": ["mirante", "belvedere", "mirantes"],
+      "examples": [
+        { "level": "A1", "fr": "Le belvédère est haut.", "pt": "O mirante é alto." },
+        { "level": "A2-B1", "fr": "Au belvédère, la vue est magnifique.", "pt": "No mirante, a vista é magnífica." },
+        { "level": "B1-B2", "fr": "Le belvédère, aménagé au-dessus du village, offre un panorama unique.", "pt": "O mirante, instalado acima do vilarejo, oferece um panorama único." },
+        { "level": "C1-C2", "fr": "C'est du belvédère que l'on comprend la géographie du lieu.", "pt": "É do mirante que se compreende a geografia do lugar." }
+      ]
+    },
+    {
+      "term": "le chevalet",
+      "definitionPt": "cavalete (de pintor)",
+      "definitionFr": "Support pour peindre.",
+      "inflections": ["le chevalet", "les chevalets"],
+      "ptTargets": ["cavalete", "cavaletes"],
+      "examples": [
+        { "level": "A1", "fr": "Le chevalet est en bois.", "pt": "O cavalete é de madeira." },
+        { "level": "A2-B1", "fr": "Le peintre pose son chevalet.", "pt": "O pintor coloca seu cavalete." },
+        { "level": "B1-B2", "fr": "Les chevalets, plantés face à la baie, se sont multipliés au fil des années.", "pt": "Os cavaletes, plantados de frente para a baía, multiplicaram-se ao longo dos anos." },
+        { "level": "C1-C2", "fr": "C'est le chevalet qui fixe le dialogue entre l'artiste et le paysage.", "pt": "É o cavalete que fixa o diálogo entre o artista e a paisagem." }
+      ]
+    },
+    {
+      "term": "le crayon",
+      "definitionPt": "lápis",
+      "definitionFr": "Instrument pour dessiner.",
+      "inflections": ["le crayon", "les crayons"],
+      "ptTargets": ["lápis", "lápis"],
+      "examples": [
+        { "level": "A1", "fr": "Le crayon est noir.", "pt": "O lápis é preto." },
+        { "level": "A2-B1", "fr": "Íris dessine avec son crayon.", "pt": "Íris desenha com seu lápis." },
+        { "level": "B1-B2", "fr": "Le crayon, taillé avec soin, suit la main de l'enfant.", "pt": "O lápis, apontado com cuidado, segue a mão da criança." },
+        { "level": "C1-C2", "fr": "C'est le crayon qui donne au premier regard sa forme définitive.", "pt": "É o lápis que dá ao primeiro olhar sua forma definitiva." }
+      ]
+    },
+    {
+      "term": "le voilier",
+      "definitionPt": "veleiro",
+      "definitionFr": "Bateau à voiles.",
+      "inflections": ["le voilier", "les voiliers"],
+      "ptTargets": ["veleiro", "veleiros"],
+      "examples": [
+        { "level": "A1", "fr": "Le voilier est blanc.", "pt": "O veleiro é branco." },
+        { "level": "A2-B1", "fr": "Les voiliers glissent sur l'eau.", "pt": "Os veleiros deslizam sobre a água." },
+        { "level": "B1-B2", "fr": "Les voiliers, poussés par la brise, dessinent des lignes blanches sur la baie.", "pt": "Os veleiros, empurrados pela brisa, desenham linhas brancas na baía." },
+        { "level": "C1-C2", "fr": "C'est le voilier qui donne au paysage son mouvement.", "pt": "É o veleiro que dá à paisagem seu movimento." }
+      ]
+    },
+    {
+      "term": "l'ouvrier",
+      "definitionPt": "operário",
+      "definitionFr": "Travailleur manuel.",
+      "inflections": ["l'ouvrier", "les ouvriers"],
+      "ptTargets": ["operário", "operários"],
+      "examples": [
+        { "level": "A1", "fr": "L'ouvrier travaille dur.", "pt": "O operário trabalha duro." },
+        { "level": "A2-B1", "fr": "Les ouvriers chargeaient les bateaux.", "pt": "Os operários carregavam os barcos." },
+        { "level": "B1-B2", "fr": "Les ouvriers, ignorés des peintres, ont construit la richesse du village.", "pt": "Os operários, ignorados pelos pintores, construíram a riqueza do vilarejo." },
+        { "level": "C1-C2", "fr": "C'est le travail de l'ouvrier qui a façonné ces toits roses.", "pt": "É o trabalho do operário que moldou estes telhados rosas." }
+      ]
+    },
+    {
+      "term": "la cheminée",
+      "definitionPt": "chaminé",
+      "definitionFr": "Conduit pour la fumée ; cheminée d'usine.",
+      "inflections": ["la cheminée", "les cheminées"],
+      "ptTargets": ["chaminé", "chaminés"],
+      "examples": [
+        { "level": "A1", "fr": "La cheminée est haute.", "pt": "A chaminé é alta." },
+        { "level": "A2-B1", "fr": "Les cheminées se dressent au-dessus du village.", "pt": "As chaminés se erguem acima do vilarejo." },
+        { "level": "B1-B2", "fr": "Les cheminées des anciennes usines, immobiles, racontent l'âge industriel.", "pt": "As chaminés das antigas fábricas, imóveis, contam a era industrial." },
+        { "level": "C1-C2", "fr": "C'est la cheminée qui relie le paysage d'aujourd'hui au passé ouvrier.", "pt": "É a chaminé que liga a paisagem de hoje ao passado operário." }
+      ]
+    },
+    {
+      "term": "le chef-d'œuvre",
+      "definitionPt": "obra-prima",
+      "definitionFr": "Œuvre d'une grande beauté.",
+      "inflections": ["le chef-d'œuvre", "les chefs-d'œuvre"],
+      "ptTargets": ["obra-prima", "obras-primas"],
+      "examples": [
+        { "level": "A1", "fr": "Le chef-d'œuvre est célèbre.", "pt": "A obra-prima é famosa." },
+        { "level": "A2-B1", "fr": "Ce tableau est un chef-d'œuvre.", "pt": "Este quadro é uma obra-prima." },
+        { "level": "B1-B2", "fr": "Les chefs-d'œuvre de Cézanne sont visibles dans les musées du monde entier.", "pt": "As obras-primas de Cézanne estão visíveis nos museus do mundo inteiro." },
+        { "level": "C1-C2", "fr": "C'est dans les chefs-d'œuvre que le paysage devient éternel.", "pt": "É nas obras-primas que a paisagem se torna eterna." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Discours indirect et voix passive : le paysage raconté",
+    "explanationPt": "Combinação C1 em L'Estaque: discurso indireto ('On dit que Cézanne venait ici', 'Il paraît que les ouvriers chargeaient les bateaux', 'On raconte que c'est en regardant ces toits que le cubisme a trouvé ses premières formes', 'Irlan avait promis qu'il montrerait') e voz passiva ('a été peint, repeint, rêvé', 'a été inspiré').",
+    "exampleFr": "On dit que Cézanne venait ici peindre la baie ; ce paysage a été peint, repeint, rêvé.",
+    "examplePt": "Dizem que Cézanne vinha aqui pintar a baía; esta paisagem foi pintada, repintada, sonhada.",
+    "practiceQuestion": "Complete: « Irlan avait promis qu'il ___ à la famille le paysage des peintres. »",
+    "options": ["montrerait", "montre", "montrera"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "Promettre que + conditionnel",
+        "explanationPt": "'Irlan avait promis qu'il montrerait' : promessa no passado → futur no conditionnel.",
+        "exampleFr": "Irlan avait promis qu'il montrerait à la famille le paysage des peintres.",
+        "examplePt": "Irlan tinha prometido que mostraria à família a paisagem dos pintores.",
+        "practiceQuestion": "Complete: « Irlan avait promis qu'il ___ à la famille le paysage. »",
+        "options": ["montrerait", "montre", "montrera"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "C'est en + gérondif",
+        "explanationPt": "'C'est en regardant ces toits que le cubisme a trouvé ses premières formes' : mise en relief + gérondif.",
+        "exampleFr": "C'est en regardant ces toits que le cubisme a trouvé ses premières formes.",
+        "examplePt": "Foi olhando estes telhados que o cubismo encontrou suas primeiras formas.",
+        "practiceQuestion": "Complete: « C'est en ___ ces toits que le cubisme a trouvé ses formes. »",
+        "options": ["regardant", "regarder", "regardé"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Complete: « Irlan avait promis qu'il ___ à la famille le paysage des peintres. »",
+      "options": ["montrerait", "montre", "montrera"],
+      "correctIndex": 0,
+      "explanation": "Promesse au passé → conditionnel : 'montrerait'."
+    },
+    {
+      "question": "Qual pintor vinha pintar a baía em L'Estaque?",
+      "options": ["Cézanne", "Monet", "Van Gogh"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'On dit que Cézanne venait ici peindre la baie'."
+    },
+    {
+      "question": "O que fazia viver o vilarejo no século XIX?",
+      "options": ["As pedreiras e as olarias", "O turismo", "A pesca do atum"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'les carrières et les tuileries faisaient vivre le village'."
+    },
+    {
+      "question": "Complete: « C'est en ___ ces toits que le cubisme a trouvé ses formes. »",
+      "options": ["regardant", "regarder", "regardé"],
+      "correctIndex": 0,
+      "explanation": "Mise en relief avec gérondif : 'en regardant'."
+    },
+    {
+      "question": "O que diz o texto sobre Cézanne e a luz?",
+      "options": ["Ele nunca repetiu a mesma luz", "Ele pintava só à noite", "Ele usava só o azul"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'il n'a jamais répété la même lumière'."
+    }
+  ]
+}

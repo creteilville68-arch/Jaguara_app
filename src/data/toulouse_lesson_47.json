@@ -1,0 +1,257 @@
+{
+  "id": "toulouse_lesson_47",
+  "cityId": "toulouse",
+  "domain": "Esporte & Cultura",
+  "level": "Intermediário (B2)",
+  "titleFr": "Le Stade Toulousain : la religion du rugby",
+  "titlePt": "O Stade Toulousain: a religião do rugby",
+  "subtitleFr": "Exprimer l'hypothèse passée avec si + plus-que-parfait et le conditionnel",
+  "subtitlePt": "Expressar a hipótese passada com si + mais-que-perfeito e o condicional",
+  "summaryPt": "O Stade Toulousain é o clube de rugby mais laureado da França, com mais de vinte títulos. No estádio Ernest-Wallon, Irlan descobre um ritual: cantos, bandeiras e uma paixão que une a cidade. Nesta aula B2, si + plus-que-parfait e o conditionnel passé falam do que teria sido.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "« À Toulouse, le rugby est presque une religion, dit un voisin. Le Stade Toulousain a gagné plus de vingt titres de champion de France. » Irlan n'y connaissait rien : au Brésil, on vivait football et volley.",
+      "pt": "« Em Toulouse, o rugby é quase uma religião, disse um vizinho. O Stade Toulousain ganhou mais de vinte títulos de campeão da França. » Irlan não entendia nada disso: no Brasil, vivia-se de futebol e vôlei."
+    },
+    {
+      "id": 2,
+      "fr": "Au stade Ernest-Wallon, la foule chante avant le match. « Si j'avais su, j'aurais appris les règles plus tôt, rit Irlan. — Ne t'inquiète pas, dit Andréa. Ici, on comprend tout avec les yeux. »",
+      "pt": "No estádio Ernest-Wallon, a multidão canta antes do jogo. « Se eu tivesse sabido, teria aprendido as regras mais cedo, riu Irlan. — Não se preocupe, disse Andréa. Aqui, entende-se tudo com os olhos. »"
+    },
+    {
+      "id": 3,
+      "fr": "Les supporteurs chantent « Ici c'est Toulouse ! » et agitent des drapeaux rouge et noir. « C'est comme un grand match de samba, observa Irlan. La différence, c'est qu'ici, on pousse un ballon ovale. »",
+      "pt": "Os torcedores cantam « Ici c'est Toulouse! » e agitam bandeiras vermelhas e pretas. « É como um grande jogo de samba, observou Irlan. A diferença é que aqui, empurra-se uma bola oval. »"
+    },
+    {
+      "id": 4,
+      "fr": "Un essai est marqué : tout le stade explose. « Si j'avais grandi ici, j'aurais peut-être joué au rugby, dit Irlan. — Toi, avec ta scooter ? rit Andréa. Tu aurais livré le ballon plus vite que tout le monde ! »",
+      "pt": "Um try é marcado: o estádio inteiro explode. « Se eu tivesse crescido aqui, talvez tivesse jogado rugby, disse Irlan. — Você, com sua scooter? riu Andréa. Você teria entregado a bola mais rápido que todos! »"
+    },
+    {
+      "id": 5,
+      "fr": "Le soir, Irlan écrivit : « Le rugby m'a appris une chose : dans le Sud-Ouest, on ne gagne pas seul. Le pack avance ensemble, comme une famille. Comme la mienne, née ici, portée par toute la ville. »",
+      "pt": "À noite, Irlan escreveu: « O rugby me ensinou uma coisa: no Sudoeste, não se ganha sozinho. O pack avança junto, como uma família. Como a minha, nascida aqui, carregada por toda a cidade. »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "le rugby",
+      "definitionPt": "rugby (substantivo masculino)",
+      "definitionFr": "Sport d'équipe avec un ballon ovale.",
+      "inflections": ["le rugby"],
+      "ptTargets": ["rugby", "rúgbi"],
+      "examples": [
+        { "level": "A1", "fr": "Le rugby est un sport.", "pt": "O rugby é um esporte." },
+        { "level": "A2-B1", "fr": "Le rugby est populaire à Toulouse.", "pt": "O rugby é popular em Toulouse." },
+        { "level": "B2", "fr": "Le Stade Toulousain est le club de rugby le plus titré de France.", "pt": "O Stade Toulousain é o clube de rugby mais laureado da França." },
+        { "level": "C1-C2", "fr": "Le rugby incarne une culture du collectif et du dépassement de soi.", "pt": "O rugby encarna uma cultura do coletivo e da superação." }
+      ]
+    },
+    {
+      "term": "le titre",
+      "definitionPt": "título (substantivo masculino)",
+      "definitionFr": "Victoire dans une compétition.",
+      "inflections": ["le titre", "des titres"],
+      "ptTargets": ["título", "títulos"],
+      "examples": [
+        { "level": "A1", "fr": "Le titre est important.", "pt": "O título é importante." },
+        { "level": "A2-B1", "fr": "L'équipe a gagné un titre.", "pt": "O time ganhou um título." },
+        { "level": "B2", "fr": "Le Stade Toulousain a gagné plus de vingt titres de champion.", "pt": "O Stade Toulousain ganhou mais de vinte títulos de campeão." },
+        { "level": "C1-C2", "fr": "Le bouclier de Brennus récompense chaque année le champion de France.", "pt": "O escudo de Brennus recompensa todos os anos o campeão da França." }
+      ]
+    },
+    {
+      "term": "le supporteur",
+      "definitionPt": "torcedor (substantivo masculino)",
+      "definitionFr": "Personne qui soutient une équipe.",
+      "inflections": ["le supporteur", "des supporteurs"],
+      "ptTargets": ["torcedor", "torcedores"],
+      "examples": [
+        { "level": "A1", "fr": "Le supporteur chante.", "pt": "O torcedor canta." },
+        { "level": "A2-B1", "fr": "Les supporteurs sont nombreux.", "pt": "Os torcedores são numerosos." },
+        { "level": "B2", "fr": "Les supporteurs chantent et agitent des drapeaux rouge et noir.", "pt": "Os torcedores cantam e agitam bandeiras vermelhas e pretas." },
+        { "level": "C1-C2", "fr": "Le supporteur transforme le stade en un seul organisme vivant.", "pt": "O torcedor transforma o estádio num único organismo vivo." }
+      ]
+    },
+    {
+      "term": "le stade",
+      "definitionPt": "estádio (substantivo masculino)",
+      "definitionFr": "Lieu où l'on pratique des sports.",
+      "inflections": ["le stade", "des stades"],
+      "ptTargets": ["estádio", "estádios"],
+      "examples": [
+        { "level": "A1", "fr": "Le stade est grand.", "pt": "O estádio é grande." },
+        { "level": "A2-B1", "fr": "Le match a lieu au stade.", "pt": "O jogo acontece no estádio." },
+        { "level": "B2", "fr": "Le stade Ernest-Wallon accueille les matchs du Stade Toulousain.", "pt": "O estádio Ernest-Wallon recebe os jogos do Stade Toulousain." },
+        { "level": "C1-C2", "fr": "Le stade est le temple où la ville se rassemble et se reconnaît.", "pt": "O estádio é o templo onde a cidade se reúne e se reconhece." }
+      ]
+    },
+    {
+      "term": "la foule",
+      "definitionPt": "multidão (substantivo feminino)",
+      "definitionFr": "Grand nombre de personnes réunies.",
+      "inflections": ["la foule", "des foules"],
+      "ptTargets": ["multidão", "multidões"],
+      "examples": [
+        { "level": "A1", "fr": "La foule est bruyante.", "pt": "A multidão é barulhenta." },
+        { "level": "A2-B1", "fr": "La foule chante.", "pt": "A multidão canta." },
+        { "level": "B2", "fr": "La foule chante avant le match, dans une seule voix.", "pt": "A multidão canta antes do jogo, numa única voz." },
+        { "level": "C1-C2", "fr": "La foule du stade est une géographie vivante de la ville.", "pt": "A multidão do estádio é uma geografia viva da cidade." }
+      ]
+    },
+    {
+      "term": "l'essai",
+      "definitionPt": "try (substantivo masculino)",
+      "definitionFr": "Action qui rapporte des points au rugby.",
+      "inflections": ["l'essai", "des essais"],
+      "ptTargets": ["try", "tries"],
+      "examples": [
+        { "level": "A1", "fr": "L'essai est marqué.", "pt": "O try é marcado." },
+        { "level": "A2-B1", "fr": "Ils ont marqué un essai.", "pt": "Eles marcaram um try." },
+        { "level": "B2", "fr": "Un essai est marqué : tout le stade explose.", "pt": "Um try é marcado: o estádio inteiro explode." },
+        { "level": "C1-C2", "fr": "L'essai, fruit du collectif, est l'aboutissement d'un mouvement parfait.", "pt": "O try, fruto do coletivo, é a culminância de um movimento perfeito." }
+      ]
+    },
+    {
+      "term": "le drapeau",
+      "definitionPt": "bandeira (substantivo masculino)",
+      "definitionFr": "Morceau de tissu aux couleurs d'un groupe.",
+      "inflections": ["le drapeau", "des drapeaux"],
+      "ptTargets": ["bandeira", "bandeiras"],
+      "examples": [
+        { "level": "A1", "fr": "Le drapeau est rouge.", "pt": "A bandeira é vermelha." },
+        { "level": "A2-B1", "fr": "Les drapeaux flottent dans le stade.", "pt": "As bandeiras flutuam no estádio." },
+        { "level": "B2", "fr": "Les supporteurs agitent des drapeaux rouge et noir.", "pt": "Os torcedores agitam bandeiras vermelhas e pretas." },
+        { "level": "C1-C2", "fr": "Le drapeau est un drapeau de reconnaissance, une seconde peau.", "pt": "A bandeira é um sinal de reconhecimento, uma segunda pele." }
+      ]
+    },
+    {
+      "term": "le pack",
+      "definitionPt": "pack, bloco de forwards (substantivo masculino)",
+      "definitionFr": "Groupe des avants d'une équipe de rugby.",
+      "inflections": ["le pack", "des packs"],
+      "ptTargets": ["pack", "pack de forwards"],
+      "examples": [
+        { "level": "A1", "fr": "Le pack pousse.", "pt": "O pack empurra." },
+        { "level": "A2-B1", "fr": "Le pack avance ensemble.", "pt": "O pack avança junto." },
+        { "level": "B2", "fr": "Le pack avance ensemble, comme une famille.", "pt": "O pack avança junto, como uma família." },
+        { "level": "C1-C2", "fr": "La mêlée est l'épreuve de vérité où le pack se révèle.", "pt": "A formação é a prova de verdade onde o pack se revela." }
+      ]
+    },
+    {
+      "term": "le ballon ovale",
+      "definitionPt": "bola oval (substantivo masculino)",
+      "definitionFr": "Ballon de rugby, de forme ovale.",
+      "inflections": ["le ballon ovale", "des ballons ovales"],
+      "ptTargets": ["bola oval"],
+      "examples": [
+        { "level": "A1", "fr": "Le ballon ovale est étrange.", "pt": "A bola oval é estranha." },
+        { "level": "A2-B1", "fr": "On pousse le ballon ovale.", "pt": "Empurra-se a bola oval." },
+        { "level": "B2", "fr": "Ici, on pousse un ballon ovale au lieu de jouer au football.", "pt": "Aqui, empurra-se uma bola oval em vez de jogar futebol." },
+        { "level": "C1-C2", "fr": "Le ballon ovale rebondit de manière imprévisible, comme la vie.", "pt": "A bola oval quica de maneira imprevisível, como a vida." }
+      ]
+    },
+    {
+      "term": "apprendre",
+      "definitionPt": "aprender (verbo)",
+      "definitionFr": "Acquérir des connaissances.",
+      "inflections": ["j'apprends", "apprendre", "appris"],
+      "ptTargets": ["aprender", "aprendido", "aprendi"],
+      "examples": [
+        { "level": "A1", "fr": "J'apprends le français.", "pt": "Aprendo francês." },
+        { "level": "A2-B1", "fr": "Nous apprenons les règles.", "pt": "Aprendemos as regras." },
+        { "level": "B2", "fr": "Si j'avais su, j'aurais appris les règles plus tôt.", "pt": "Se eu tivesse sabido, teria aprendido as regras mais cedo." },
+        { "level": "C1-C2", "fr": "Apprendre une culture, c'est apprendre ses règles invisibles.", "pt": "Aprender uma cultura é aprender suas regras invisíveis." }
+      ]
+    },
+    {
+      "term": "la religion",
+      "definitionPt": "religião (substantivo feminino)",
+      "definitionFr": "Ensemble de croyances et de pratiques.",
+      "inflections": ["la religion", "des religions"],
+      "ptTargets": ["religião", "religiões"],
+      "examples": [
+        { "level": "A1", "fr": "La religion est ancienne.", "pt": "A religião é antiga." },
+        { "level": "A2-B1", "fr": "Le rugby est une religion ici.", "pt": "O rugby é uma religião aqui." },
+        { "level": "B2", "fr": "À Toulouse, le rugby est presque une religion.", "pt": "Em Toulouse, o rugby é quase uma religião." },
+        { "level": "C1-C2", "fr": "La religion du stade réunit des foules que rien d'autre ne rassemble.", "pt": "A religião do estádio reúne multidões que nada mais reúne." }
+      ]
+    },
+    {
+      "term": "s'inquiéter",
+      "definitionPt": "preocupar-se (verbo pronominal)",
+      "definitionFr": "Se faire du souci.",
+      "inflections": ["je m'inquiète", "s'inquiéter", "inquiète"],
+      "ptTargets": ["preocupar", "preocupar-se"],
+      "examples": [
+        { "level": "A1", "fr": "Je m'inquiète pour toi.", "pt": "Preocupo-me com você." },
+        { "level": "A2-B1", "fr": "Ne t'inquiète pas.", "pt": "Não se preocupe." },
+        { "level": "B2", "fr": "Ne t'inquiète pas, dit Andréa, on comprend tout avec les yeux.", "pt": "Não se preocupe, disse Andréa, entende-se tudo com os olhos." },
+        { "level": "C1-C2", "fr": "S'inquiéter, c'est prévoir un futur qui n'existe pas encore.", "pt": "Preocupar-se é prever um futuro que ainda não existe." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Si + plus-que-parfait, conditionnel passé au stade",
+    "explanationPt": "A hipótese passada usa si + mais-que-perfeito + condicional passado: 'si j'avais su, j'aurais appris les règles' (se eu tivesse sabido, teria aprendido), 'si j'avais grandi ici, j'aurais peut-être joué au rugby'.",
+    "exampleFr": "Si j'avais grandi ici, j'aurais peut-être joué au rugby ; si j'avais su, j'aurais appris les règles plus tôt.",
+    "examplePt": "Se eu tivesse crescido aqui, talvez tivesse jogado rugby; se eu tivesse sabido, teria aprendido as regras mais cedo.",
+    "practiceQuestion": "Complete: 'Si j'avais su, j'_____ appris les règles plus tôt.'",
+    "options": ["aurais", "avais", "ai"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "Si j'avais su...",
+        "explanationPt": "'Si j'avais su' = se eu tivesse sabido. A condição está no passado, a consequência também.",
+        "exampleFr": "Si j'avais su, j'aurais appris les règles plus tôt.",
+        "examplePt": "Se eu tivesse sabido, teria aprendido as regras mais cedo.",
+        "practiceQuestion": "Complete: 'Si j'_____ su, j'aurais appris.'",
+        "options": ["avais", "ai", "aurais"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "Si + PQP, conditionnel passé",
+        "explanationPt": "'Si j'avais grandi ici, j'aurais peut-être joué au rugby' : hipótese irreal sobre o passado.",
+        "exampleFr": "Si j'avais grandi ici, j'aurais peut-être joué au rugby.",
+        "examplePt": "Se eu tivesse crescido aqui, talvez tivesse jogado rugby.",
+        "practiceQuestion": "Complete: 'Si j'avais grandi ici, j'aurais peut-être _____ au rugby.'",
+        "options": ["joué", "jouer", "jouais"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Complete: 'Si j'avais su, j'_____ appris les règles plus tôt.'",
+      "options": ["aurais", "avais", "ai"],
+      "correctIndex": 0,
+      "explanation": "Hipótese passada: si + mais-que-perfeito + condicional passado."
+    },
+    {
+      "question": "Quantos títulos o Stade Toulousain ganhou?",
+      "options": ["Mais de vinte", "Cinco", "Dez"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'Le Stade Toulousain a gagné plus de vingt titres de champion de France.'"
+    },
+    {
+      "question": "Como se chama o estádio do clube?",
+      "options": ["Ernest-Wallon", "Vélodrome", "Parc des Princes"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'Au stade Ernest-Wallon'."
+    },
+    {
+      "question": "O que os torcedores cantam?",
+      "options": ["Ici c'est Toulouse !", "Allez Paris !", "Vive le Midi !"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'Les supporteurs chantent « Ici c'est Toulouse ! »'."
+    },
+    {
+      "question": "Qual frase expressa hipótese passada?",
+      "options": ["Si j'avais grandi ici, j'aurais joué au rugby.", "Si je grandis ici, je jouerai au rugby.", "Si je grandissais ici, je jouais au rugby."],
+      "correctIndex": 0,
+      "explanation": "Si + mais-que-perfeito + condicional passado = hipótese irreal sobre o passado."
+    }
+  ]
+}

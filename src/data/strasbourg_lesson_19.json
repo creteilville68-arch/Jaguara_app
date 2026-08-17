@@ -1,0 +1,278 @@
+{
+  "id": "strasbourg_lesson_19",
+  "cityId": "strasbourg",
+  "domain": "Cultura",
+  "level": "Avançado (C1+)",
+  "titleFr": "La soirée alsacienne : chansons et winstub",
+  "titlePt": "A noite alsaciana: canções e winstub",
+  "subtitleFr": "L'accordéon, les chants et la table généreuse de la tradition",
+  "subtitlePt": "O acordeão, os cantos e a mesa generosa da tradição",
+  "summaryPt": "Nesta Aula 19 (C1+), a família passa uma noite num winstub, restaurante típico de Strasbourg, com música, dança e chucrute. O aluno aprofunda o conditionnel passé ('nous aurions aimé', 'il aurait fallu') para expressar hipóteses e arrependimentos no passado.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Le soir, la famille poussa la porte d'un winstub. « Ici, dit Irlan, on mange comme chez soi, mais on chante aussi. Un winstub, c'est une taverne où l'on sert de la choucroute et du vin d'Alsace. Sans la musique, la soirée n'aurait pas été complète. »",
+      "pt": "À noite, a família empurrou a porta de um winstub. « Aqui, disse Irlan, come-se como em casa, mas também se canta. Um winstub é uma taverna onde se serve chucrute e vinho da Alsácia. Sem a música, a noite não teria sido completa. »"
+    },
+    {
+      "id": 2,
+      "fr": "Un accordéoniste commença à jouer. « J'aurais aimé apprendre cet instrument, soupira Irlan. Quand j'étais enfant, mes grands-parents chantaient ces chansons. Aujourd'hui, si nous étions restés au Brésil, nous n'aurions jamais entendu ce répertoire. »",
+      "pt": "Um acordeonista começou a tocar. « Eu teria gostado de aprender esse instrumento, suspirou Irlan. Quando eu era criança, meus avós cantavam essas canções. Hoje, se tivéssemos ficado no Brasil, nunca teríamos ouvido esse repertório. »"
+    },
+    {
+      "id": 3,
+      "fr": "Andréa servit la choucroute fumante. « Les gestes de la tradition, dit-elle, sont simples : on partage, on raconte, on rit. Nous aurions pu rester à l'hôtel, mais nous aurions raté l'âme de l'Alsace. La vraie richesse, ce n'est pas le décor, c'est la table. »",
+      "pt": "Andréa serviu a chucrute fumegante. « Os gestos da tradição, disse ela, são simples: compartilha-se, conta-se, ri-se. Poderíamos ter ficado no hotel, mas teríamos perdido a alma da Alsácia. A verdadeira riqueza não é o cenário, é a mesa. »"
+    },
+    {
+      "id": 4,
+      "fr": "Iris battit des mains au rythme de la musique. « Si j'avais su, dit-elle en riant, j'aurais appris quelques mots en alsacien ! » Un vieux monsieur lui tendit un bredele. « La tradition, dit-il, ne s'apprend pas dans les livres. Elle se danse, elle se chante, elle se partage. »",
+      "pt": "Íris bateu palmas no ritmo da música. « Se eu tivesse sabido, disse ela rindo, teria aprendido algumas palavras em alsaciano! » Um senhor idoso lhe ofereceu um bredele. « A tradição, disse ele, não se aprende nos livros. Ela se dança, se canta, se compartilha. »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "le winstub",
+      "definitionPt": "o winstub (taverna alsaciana)",
+      "definitionFr": "Taverne alsacienne où l'on sert des plats régionaux.",
+      "inflections": ["le winstub", "les winstubs"],
+      "ptTargets": ["winstub", "taverna alsaciana"],
+      "examples": [
+        { "level": "A1", "fr": "Le winstub est chaleureux.", "pt": "O winstub é acolhedor." },
+        { "level": "A2-B1", "fr": "La famille dîne dans un winstub.", "pt": "A família janta num winstub." },
+        { "level": "B1-B2", "fr": "Les winstubs, aux tables de bois, gardent l'âme de la vieille ville.", "pt": "Os winstubs, com mesas de madeira, guardam a alma da cidade antiga." },
+        { "level": "C1-C2", "fr": "C'est dans les winstubs que se perpétue, chaque soir, la tradition alsacienne.", "pt": "É nos winstubs que se perpetua, todas as noites, a tradição alsaciana." }
+      ]
+    },
+    {
+      "term": "la choucroute",
+      "definitionPt": "a chucrute",
+      "definitionFr": "Plat de chou fermenté accompagné de viandes.",
+      "inflections": ["la choucroute", "les choucroutes"],
+      "ptTargets": ["chucrute"],
+      "examples": [
+        { "level": "A1", "fr": "La choucroute est chaude.", "pt": "A chucrute é quente." },
+        { "level": "A2-B1", "fr": "Irlan commande une choucroute.", "pt": "Irlan pede uma chucrute." },
+        { "level": "B1-B2", "fr": "La choucroute, généreuse et fumante, est le plat roi des winstubs.", "pt": "A chucrute, generosa e fumegante, é o prato rei dos winstubs." },
+        { "level": "C1-C2", "fr": "C'est la choucroute qui, plus que tout autre plat, incarne la table alsacienne.", "pt": "É a chucrute que, mais que qualquer outro prato, encarna a mesa alsaciana." }
+      ]
+    },
+    {
+      "term": "l'accordéon",
+      "definitionPt": "o acordeão",
+      "definitionFr": "Instrument de musique à soufflet.",
+      "inflections": ["l'accordéon", "les accordéons"],
+      "ptTargets": ["acordeão"],
+      "examples": [
+        { "level": "A1", "fr": "L'accordéon est bruyant.", "pt": "O acordeão é barulhento." },
+        { "level": "A2-B1", "fr": "L'accordéoniste joue de l'accordéon.", "pt": "O acordeonista toca acordeão." },
+        { "level": "B1-B2", "fr": "L'accordéon, chantant et joyeux, remplit la salle de vie.", "pt": "O acordeão, cantante e alegre, enche a sala de vida." },
+        { "level": "C1-C2", "fr": "C'est l'accordéon qui donne aux soirées alsaciennes leur âme musicale.", "pt": "É o acordeão que dá às noites alsacianas sua alma musical." }
+      ]
+    },
+    {
+      "term": "la chanson",
+      "definitionPt": "a canção",
+      "definitionFr": "Texte chanté, souvent accompagné de musique.",
+      "inflections": ["la chanson", "les chansons"],
+      "ptTargets": ["canção"],
+      "examples": [
+        { "level": "A1", "fr": "La chanson est belle.", "pt": "A canção é bonita." },
+        { "level": "A2-B1", "fr": "Les grands-parents chantaient des chansons.", "pt": "Os avós cantavam canções." },
+        { "level": "B1-B2", "fr": "Les chansons, transmises de génération en génération, racontent la vie du peuple.", "pt": "As canções, transmitidas de geração em geração, contam a vida do povo." },
+        { "level": "C1-C2", "fr": "C'est par les chansons que la langue alsacienne a survécu à l'école française.", "pt": "É pelas canções que a língua alsaciana sobreviveu à escola francesa." }
+      ]
+    },
+    {
+      "term": "la taverne",
+      "definitionPt": "a taverna",
+      "definitionFr": "Lieu où l'on boit et mange.",
+      "inflections": ["la taverne", "les tavernes"],
+      "ptTargets": ["taverna"],
+      "examples": [
+        { "level": "A1", "fr": "La taverne est pleine.", "pt": "A taverna está cheia." },
+        { "level": "A2-B1", "fr": "La famille entre dans la taverne.", "pt": "A família entra na taverna." },
+        { "level": "B1-B2", "fr": "Les tavernes, conviviales et bruyantes, rassemblent les habitants du quartier.", "pt": "As tavernas, conviviais e barulhentas, reúnem os moradores do bairro." },
+        { "level": "C1-C2", "fr": "C'est dans les tavernes que se tisse, verre après verre, le lien social d'une ville.", "pt": "É nas tavernas que se tece, copo após copo, o vínculo social de uma cidade." }
+      ]
+    },
+    {
+      "term": "le bredele",
+      "definitionPt": "o bredele (biscoito de Natal alsaciano)",
+      "definitionFr": "Petit gâteau de Noël alsacien.",
+      "inflections": ["le bredele", "les bredele"],
+      "ptTargets": ["bredele", "biscoito de Natal"],
+      "examples": [
+        { "level": "A1", "fr": "Le bredele est sucré.", "pt": "O bredele é doce." },
+        { "level": "A2-B1", "fr": "Iris goûte un bredele.", "pt": "Íris prova um bredele." },
+        { "level": "B1-B2", "fr": "Les bredele, préparés à la cannelle, accompagnent le vin chaud.", "pt": "Os bredele, preparados com canela, acompanham o vinho quente." },
+        { "level": "C1-C2", "fr": "C'est le bredele qui, avec le kouglof, incarne la douceur de Noël en Alsace.", "pt": "É o bredele que, com o kouglof, encarna a doçura do Natal na Alsácia." }
+      ]
+    },
+    {
+      "term": "la tradition",
+      "definitionPt": "a tradição",
+      "definitionFr": "Transmission de coutumes de génération en génération.",
+      "inflections": ["la tradition", "les traditions"],
+      "ptTargets": ["tradição"],
+      "examples": [
+        { "level": "A1", "fr": "La tradition est ancienne.", "pt": "A tradição é antiga." },
+        { "level": "A2-B1", "fr": "La famille aime les traditions.", "pt": "A família gosta das tradições." },
+        { "level": "B1-B2", "fr": "Les traditions, vivantes et partagées, unissent les générations.", "pt": "As tradições, vivas e compartilhadas, unem as gerações." },
+        { "level": "C1-C2", "fr": "C'est la tradition qui donne à une culture sa profondeur et sa mémoire.", "pt": "É a tradição que dá a uma cultura sua profundidade e sua memória." }
+      ]
+    },
+    {
+      "term": "le répertoire",
+      "definitionPt": "o repertório",
+      "definitionFr": "Ensemble des pièces jouées ou chantées.",
+      "inflections": ["le répertoire", "les répertoires"],
+      "ptTargets": ["repertório"],
+      "examples": [
+        { "level": "A1", "fr": "Le répertoire est riche.", "pt": "O repertório é rico." },
+        { "level": "A2-B1", "fr": "Le répertoire alsacien est varié.", "pt": "O repertório alsaciano é variado." },
+        { "level": "B1-B2", "fr": "Le répertoire, transmis oralement, s'enrichit à chaque génération.", "pt": "O repertório, transmitido oralmente, enriquece-se a cada geração." },
+        { "level": "C1-C2", "fr": "C'est un répertoire entier qui se joue, chaque soir, dans les winstubs de la ville.", "pt": "É um repertório inteiro que se toca, todas as noites, nos winstubs da cidade." }
+      ]
+    },
+    {
+      "term": "le rythme",
+      "definitionPt": "o ritmo",
+      "definitionFr": "Cadence régulière d'une musique.",
+      "inflections": ["le rythme", "les rythmes"],
+      "ptTargets": ["ritmo"],
+      "examples": [
+        { "level": "A1", "fr": "Le rythme est rapide.", "pt": "O ritmo é rápido." },
+        { "level": "A2-B1", "fr": "Iris bat des mains au rythme.", "pt": "Íris bate palmas no ritmo." },
+        { "level": "B1-B2", "fr": "Le rythme, entraînant et chaleureux, fait danser toute la salle.", "pt": "O ritmo, contagiante e caloroso, faz dançar a sala inteira." },
+        { "level": "C1-C2", "fr": "C'est le rythme qui, bien avant les paroles, fait vibrer le public.", "pt": "É o ritmo que, muito antes das palavras, faz vibrar o público." }
+      ]
+    },
+    {
+      "term": "généreux",
+      "definitionPt": "o generoso",
+      "definitionFr": "Qui donne sans compter.",
+      "inflections": ["généreux", "généreuse", "généreux"],
+      "ptTargets": ["generoso"],
+      "examples": [
+        { "level": "A1", "fr": "Le repas est généreux.", "pt": "A refeição é generosa." },
+        { "level": "A2-B1", "fr": "La choucroute est généreuse.", "pt": "A chucrute é generosa." },
+        { "level": "B1-B2", "fr": "La cuisine généreuse, abondante et savoureuse, est une marque d'accueil.", "pt": "A culinária generosa, abundante e saborosa, é uma marca de acolhimento." },
+        { "level": "C1-C2", "fr": "C'est une hospitalité généreuse qui caractérise les tables alsaciennes.", "pt": "É uma hospitalidade generosa que caracteriza as mesas alsacianas." }
+      ]
+    },
+    {
+      "term": "le vieux monsieur",
+      "definitionPt": "o senhor idoso",
+      "definitionFr": "Homme âgé.",
+      "inflections": ["le vieux monsieur", "les vieux messieurs"],
+      "ptTargets": ["senhor idoso"],
+      "examples": [
+        { "level": "A1", "fr": "Le vieux monsieur sourit.", "pt": "O senhor idoso sorri." },
+        { "level": "A2-B1", "fr": "Un vieux monsieur offre un gâteau.", "pt": "Um senhor idoso oferece um bolo." },
+        { "level": "B1-B2", "fr": "Les vieux messieurs, mémoire vivante du quartier, racontent les veillées d'autrefois.", "pt": "Os senhores idosos, memória viva do bairro, contam as reuniões de antigamente." },
+        { "level": "C1-C2", "fr": "C'est le vieux monsieur qui, par un simple geste, transmit la tradition à Iris.", "pt": "É o senhor idoso que, por um simples gesto, transmitiu a tradição a Íris." }
+      ]
+    },
+    {
+      "term": "la veillée",
+      "definitionPt": "a reunião noturna, o serão",
+      "definitionFr": "Soirée passée ensemble à parler ou chanter.",
+      "inflections": ["la veillée", "les veillées"],
+      "ptTargets": ["serão", "reunião noturna"],
+      "examples": [
+        { "level": "A1", "fr": "La veillée est longue.", "pt": "A reunião noturna é longa." },
+        { "level": "A2-B1", "fr": "Les veillées sont joyeuses.", "pt": "As reuniões noturnas são alegres." },
+        { "level": "B1-B2", "fr": "Les veillées, animées par les chansons, rassemblaient tout le village.", "pt": "As reuniões noturnas, animadas por canções, reuniam toda a aldeia." },
+        { "level": "C1-C2", "fr": "C'est lors des veillées que se transmettaient, sans livres, les histoires du pays.", "pt": "É nas reuniões noturnas que se transmitiam, sem livros, as histórias do país." }
+      ]
+    },
+    {
+      "term": "le geste",
+      "definitionPt": "o gesto",
+      "definitionFr": "Mouvement du corps qui exprime quelque chose.",
+      "inflections": ["le geste", "les gestes"],
+      "ptTargets": ["gesto"],
+      "examples": [
+        { "level": "A1", "fr": "Le geste est simple.", "pt": "O gesto é simples." },
+        { "level": "A2-B1", "fr": "Un geste suffit pour offrir.", "pt": "Um gesto basta para oferecer." },
+        { "level": "B1-B2", "fr": "Les gestes de la tradition, répétés chaque soir, deviennent une seconde nature.", "pt": "Os gestos da tradição, repetidos todas as noites, tornam-se uma segunda natureza." },
+        { "level": "C1-C2", "fr": "C'est par les gestes simples que se transmet l'essentiel d'une culture.", "pt": "É pelos gestos simples que se transmite o essencial de uma cultura." }
+      ]
+    },
+    {
+      "term": "la richesse",
+      "definitionPt": "a riqueza",
+      "definitionFr": "Ce qui a de la valeur.",
+      "inflections": ["la richesse", "les richesses"],
+      "ptTargets": ["riqueza"],
+      "examples": [
+        { "level": "A1", "fr": "La richesse est grande.", "pt": "A riqueza é grande." },
+        { "level": "A2-B1", "fr": "La table est une richesse.", "pt": "A mesa é uma riqueza." },
+        { "level": "B1-B2", "fr": "Les richesses d'une région ne se mesurent pas en argent.", "pt": "As riquezas de uma região não se medem em dinheiro." },
+        { "level": "C1-C2", "fr": "C'est dans le partage que se trouve la vraie richesse de la tradition.", "pt": "É no compartilhar que se encontra a verdadeira riqueza da tradição." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Le conditionnel passé : l'hypothèse et le regret",
+    "explanationPt": "O conditionnel passé (auxiliar avoir/être no conditionnel + particípio passado) expressa hipóteses não realizadas no passado: 'nous aurions aimé' (teríamos gostado), 'nous aurions raté l'âme' (teríamos perdido a alma). Com 'si + plus-que-parfait', forma a irrealidade: 'si nous étions restés, nous n'aurions jamais entendu'.",
+    "exampleFr": "Si nous étions restés au Brésil, nous n'aurions jamais entendu ce répertoire.",
+    "examplePt": "Se tivéssemos ficado no Brasil, nunca teríamos ouvido esse repertório.",
+    "practiceQuestion": "Complete: « J'___ aimé apprendre cet instrument. »",
+    "options": ["aurais", "avais", "ai"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "La formation du conditionnel passé",
+        "explanationPt": "Conditionnel de l'auxiliaire + particípio passado: 'j'aurais aimé', 'tu aurais raté', 'nous serions partis'. O particípio concorda com o sujeito com être: 'elles seraient revenues'.",
+        "exampleFr": "Nous aurions pu rester à l'hôtel, mais nous aurions raté l'âme de l'Alsace.",
+        "examplePt": "Poderíamos ter ficado no hotel, mas teríamos perdido a alma da Alsácia.",
+        "practiceQuestion": "Complete: « Nous ___ pu rester à l'hôtel. »",
+        "options": ["aurions", "avions", "avons"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "Si + plus-que-parfait + conditionnel passé",
+        "explanationPt": "Para expressar uma condição irreal no passado: 'si j'avais su, j'aurais appris quelques mots' (se eu tivesse sabido, teria aprendido). A condição (plus-que-parfait) é anterior à consequência (conditionnel passé).",
+        "exampleFr": "Si j'avais su, j'aurais appris quelques mots en alsacien !",
+        "examplePt": "Se eu tivesse sabido, teria aprendido algumas palavras em alsaciano!",
+        "practiceQuestion": "Complete: « Si j'avais su, j'___ appris quelques mots. »",
+        "options": ["aurais", "avais", "ai"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "O que é um winstub?",
+      "options": ["uma taverna alsaciana com comidas típicas", "uma estação de trem", "um museu de arte"],
+      "correctIndex": 0,
+      "explanation": "Um winstub é uma taverna onde se serve chucrute e vinho da Alsácia."
+    },
+    {
+      "question": "O que Irlan teria gostado de aprender?",
+      "options": ["tocar acordeão", "cozinhar chucrute", "dançar valsa"],
+      "correctIndex": 0,
+      "explanation": "Irlan suspirou: 'J'aurais aimé apprendre cet instrument'."
+    },
+    {
+      "question": "Complete: « J'___ aimé apprendre cet instrument. »",
+      "options": ["aurais", "avais", "ai"],
+      "correctIndex": 0,
+      "explanation": "Conditionnel passé: j'aurais aimé."
+    },
+    {
+      "question": "O que Andréa diz sobre a verdadeira riqueza?",
+      "options": ["não é o cenário, é a mesa", "é o dinheiro guardado", "é o hotel mais caro"],
+      "correctIndex": 0,
+      "explanation": "Andréa conclui: a verdadeira riqueza é a mesa compartilhada."
+    },
+    {
+      "question": "Complete: « Si j'avais su, j'___ appris quelques mots en alsacien. »",
+      "options": ["aurais", "avais", "ai"],
+      "correctIndex": 0,
+      "explanation": "Si + plus-que-parfait + conditionnel passé: j'aurais appris."
+    }
+  ]
+}

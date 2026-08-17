@@ -1,0 +1,268 @@
+{
+  "id": "amiens_lesson_2",
+  "cityId": "amiens",
+  "domain": "História & Arquitetura",
+  "level": "Iniciante em Transição (A1/A2)",
+  "titleFr": "La majestueuse cathédrale d'Amiens",
+  "titlePt": "A majestosa catedral de Amiens",
+  "subtitleFr": "La plus grande cathédrale de France et ses sculptures",
+  "subtitlePt": "A maior catedral da França e suas esculturas",
+  "summaryPt": "Nesta Aula 2 (A1/A2), a família admira o exterior da Catedral Notre-Dame d'Amiens, a maior catedral da França em volume. Eles observam a fachada com suas esculturas e a famosa Vierge Dorée. O aluno aprende 'c'est' vs 'il/elle est' e a posição dos adjetivos qualificativos.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "La cathédrale Notre-Dame d'Amiens est la plus grande cathédrale de France. C'est un monument gothique incroyable. La façade est pleine de sculptures.",
+      "pt": "A catedral Notre-Dame de Amiens é a maior catedral da França. É um monumento gótico incrível. A fachada está cheia de esculturas."
+    },
+    {
+      "id": 2,
+      "fr": "Irlan, le géographe, explique : « C'est la plus grande cathédrale en volume. Elle mesure 145 mètres de long. » Andréa et Íris écoutent avec attention.",
+      "pt": "Irlan, o geógrafo, explica: «É a maior catedral em volume. Ela mede 145 metros de comprimento.» Andréa e Íris escutam com atenção."
+    },
+    {
+      "id": 3,
+      "fr": "Sur le portail central, la Vierge Dorée sourit aux visiteurs. « Elle est belle ! » dit Íris. « Oui, elle est très célèbre », répond Andréa.",
+      "pt": "No portal central, a Vierge Dorée sorri para os visitantes. «Ela é bonita!» diz Íris. «Sim, ela é muito famosa», responde Andréa."
+    },
+    {
+      "id": 4,
+      "fr": "Le soir, la famille dîne près de la cathédrale. « La cathédrale est magnifique le soir avec ses lumières », dit Irlan. Tout le monde est d'accord.",
+      "pt": "À noite, a família janta perto da catedral. «A catedral é magnífica à noite com as suas luzes», diz Irlan. Todos concordam."
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "monument",
+      "definitionPt": "monumento",
+      "definitionFr": "Construction historique importante.",
+      "inflections": ["le monument", "un monument", "des monuments"],
+      "ptTargets": ["monumento"],
+      "examples": [
+        { "level": "A1", "fr": "La cathédrale est un monument incroyable.", "pt": "A catedral é um monumento incrível." },
+        { "level": "A2-B1", "fr": "Ce monument est très ancien.", "pt": "Este monumento é muito antigo." },
+        { "level": "B2", "fr": "Les monuments de France attirent les touristes.", "pt": "Os monumentos da França atraem os turistas." },
+        { "level": "C1-C2", "fr": "Ce monument gothique témoigne du génie des bâtisseurs médiévaux.", "pt": "Este monumento gótico testemunha o gênio dos construtores medievais." }
+      ]
+    },
+    {
+      "term": "gothique",
+      "definitionPt": "gótico",
+      "definitionFr": "Style architectural du Moyen Âge avec des arcs pointus.",
+      "inflections": ["gothique", "gothiques"],
+      "ptTargets": ["gótico"],
+      "examples": [
+        { "level": "A1", "fr": "C'est un monument gothique.", "pt": "É um monumento gótico." },
+        { "level": "A2-B1", "fr": "La cathédrale gothique est impressionnante.", "pt": "A catedral gótica é impressionante." },
+        { "level": "B2", "fr": "L'architecture gothique est née en France.", "pt": "A arquitetura gótica nasceu na França." },
+        { "level": "C1-C2", "fr": "La voûte gothique élancée s'élève vers la lumière.", "pt": "A abóbada gótica esbelta eleva-se em direção à luz." }
+      ]
+    },
+    {
+      "term": "façade",
+      "definitionPt": "fachada",
+      "definitionFr": "Devant d'un bâtiment.",
+      "inflections": ["la façade", "une façade", "des façades"],
+      "ptTargets": ["fachada"],
+      "examples": [
+        { "level": "A1", "fr": "La façade est pleine de sculptures.", "pt": "A fachada está cheia de esculturas." },
+        { "level": "A2-B1", "fr": "La façade de la cathédrale est magnifique.", "pt": "A fachada da catedral é magnífica." },
+        { "level": "B2", "fr": "La façade gothique est décorée de centaines de figures.", "pt": "A fachada gótica é decorada com centenas de figuras." },
+        { "level": "C1-C2", "fr": "La façade sculptée de la cathédrale raconte des histoires bibliques.", "pt": "A fachada esculpida da catedral conta histórias bíblicas." }
+      ]
+    },
+    {
+      "term": "sculpture",
+      "definitionPt": "escultura",
+      "definitionFr": "Œuvre d'art faite en sculptant la pierre ou le bois.",
+      "inflections": ["la sculpture", "une sculpture", "des sculptures"],
+      "ptTargets": ["escultura"],
+      "examples": [
+        { "level": "A1", "fr": "Il y a des sculptures sur la façade.", "pt": "Há esculturas na fachada." },
+        { "level": "A2-B1", "fr": "Les sculptures sont très anciennes.", "pt": "As esculturas são muito antigas." },
+        { "level": "B2", "fr": "Les sculptures de la cathédrale sont célèbres dans le monde.", "pt": "As esculturas da catedral são famosas no mundo." },
+        { "level": "C1-C2", "fr": "Chaque sculpture médiévale est une œuvre d'art unique.", "pt": "Cada escultura medieval é uma obra de arte única." }
+      ]
+    },
+    {
+      "term": "mesurer",
+      "definitionPt": "medir",
+      "definitionFr": "Avoir une certaine taille ou dimension.",
+      "inflections": ["je mesure", "mesurer", "il mesure"],
+      "ptTargets": ["medir"],
+      "examples": [
+        { "level": "A1", "fr": "La cathédrale mesure 145 mètres.", "pt": "A catedral mede 145 metros." },
+        { "level": "A2-B1", "fr": "La tour mesure plus de cent mètres.", "pt": "A torre mede mais de cem metros." },
+        { "level": "B2", "fr": "Ce monument mesure plusieurs centaines de mètres.", "pt": "Este monumento mede várias centenas de metros." },
+        { "level": "C1-C2", "fr": "Mesurer la hauteur des voûtes révèle l'audace des bâtisseurs.", "pt": "Medir a altura das abóbadas revela a audácia dos construtores." }
+      ]
+    },
+    {
+      "term": "portail",
+      "definitionPt": "portal, portão",
+      "definitionFr": "Grande porte décorée d'un monument.",
+      "inflections": ["le portail", "un portail", "des portails"],
+      "ptTargets": ["portal", "portão"],
+      "examples": [
+        { "level": "A1", "fr": "Le portail est très grand.", "pt": "O portal é muito grande." },
+        { "level": "A2-B1", "fr": "Le portail central est décoré.", "pt": "O portal central é decorado." },
+        { "level": "B2", "fr": "Les portails de la cathédrale sont des chefs-d'œuvre.", "pt": "Os portais da catedral são obras-primas." },
+        { "level": "C1-C2", "fr": "Le portail sculpté accueille les fidèles depuis huit siècles.", "pt": "O portal esculpido acolhe os fiéis há oito séculos." }
+      ]
+    },
+    {
+      "term": "célèbre",
+      "definitionPt": "famoso, célebre",
+      "definitionFr": "Qui est connu par beaucoup de gens.",
+      "inflections": ["célèbre", "célèbres"],
+      "ptTargets": ["famoso", "célebre"],
+      "examples": [
+        { "level": "A1", "fr": "La cathédrale est très célèbre.", "pt": "A catedral é muito famosa." },
+        { "level": "A2-B1", "fr": "La Vierge Dorée est une statue célèbre.", "pt": "A Vierge Dorée é uma estátua famosa." },
+        { "level": "B2", "fr": "Amiens est célèbre pour sa cathédrale.", "pt": "Amiens é famosa pela sua catedral." },
+        { "level": "C1-C2", "fr": "Ce monument célèbre figure au patrimoine mondial de l'UNESCO.", "pt": "Este monumento famoso consta no patrimônio mundial da UNESCO." }
+      ]
+    },
+    {
+      "term": "visiteur",
+      "definitionPt": "visitante",
+      "definitionFr": "Personne qui visite un lieu.",
+      "inflections": ["le visiteur", "un visiteur", "des visiteurs"],
+      "ptTargets": ["visitante"],
+      "examples": [
+        { "level": "A1", "fr": "Les visiteurs regardent la cathédrale.", "pt": "Os visitantes olham a catedral." },
+        { "level": "A2-B1", "fr": "Beaucoup de visiteurs viennent ici.", "pt": "Muitos visitantes vêm aqui." },
+        { "level": "B2", "fr": "Des milliers de visiteurs admirent la façade.", "pt": "Milhares de visitantes admiram a fachada." },
+        { "level": "C1-C2", "fr": "Les visiteurs du monde entier viennent contempler ce chef-d'œuvre.", "pt": "Visitantes do mundo inteiro vêm contemplar esta obra-prima." }
+      ]
+    },
+    {
+      "term": "attention",
+      "definitionPt": "atenção",
+      "definitionFr": "Concentration de l'esprit sur quelque chose.",
+      "inflections": ["l'attention"],
+      "ptTargets": ["atenção"],
+      "examples": [
+        { "level": "A1", "fr": "Andréa et Íris écoutent avec attention.", "pt": "Andréa e Íris escutam com atenção." },
+        { "level": "A2-B1", "fr": "Écoutez avec attention, s'il vous plaît.", "pt": "Escutem com atenção, por favor." },
+        { "level": "B2", "fr": "Elle regarde les sculptures avec attention.", "pt": "Ela olha as esculturas com atenção." },
+        { "level": "C1-C2", "fr": "Une observation attentive révèle les détails cachés de l'œuvre.", "pt": "Uma observação atenta revela os detalhes ocultos da obra." }
+      ]
+    },
+    {
+      "term": "magnifique",
+      "definitionPt": "magnífico, maravilhoso",
+      "definitionFr": "Très beau, impressionnant.",
+      "inflections": ["magnifique", "magnifiques"],
+      "ptTargets": ["magnífico", "maravilhoso"],
+      "examples": [
+        { "level": "A1", "fr": "La cathédrale est magnifique.", "pt": "A catedral é magnífica." },
+        { "level": "A2-B1", "fr": "La façade est magnifique le soir.", "pt": "A fachada é magnífica à noite." },
+        { "level": "B2", "fr": "Les lumières rendent le monument magnifique.", "pt": "As luzes tornam o monumento magnífico." },
+        { "level": "C1-C2", "fr": "Le spectacle son et lumière de la cathédrale est magnifique.", "pt": "O espetáculo de luz e som da catedral é magnífico." }
+      ]
+    },
+    {
+      "term": "lumière",
+      "definitionPt": "luz",
+      "definitionFr": "Clarté qui éclaire les choses.",
+      "inflections": ["la lumière", "une lumière", "des lumières"],
+      "ptTargets": ["luz"],
+      "examples": [
+        { "level": "A1", "fr": "La cathédrale brille avec ses lumières.", "pt": "A catedral brilha com as suas luzes." },
+        { "level": "A2-B1", "fr": "Les lumières éclairent la façade.", "pt": "As luzes iluminam a fachada." },
+        { "level": "B2", "fr": "La lumière dorée illumine les sculptures.", "pt": "A luz dourada ilumina as esculturas." },
+        { "level": "C1-C2", "fr": "Les jeux de lumière subliment la pierre gothique.", "pt": "Os jogos de luz sublimam a pedra gótica." }
+      ]
+    },
+    {
+      "term": "d'accord",
+      "definitionPt": "de acordo",
+      "definitionFr": "Être du même avis que quelqu'un.",
+      "inflections": ["d'accord"],
+      "ptTargets": ["de acordo"],
+      "examples": [
+        { "level": "A1", "fr": "Tout le monde est d'accord.", "pt": "Todos concordam." },
+        { "level": "A2-B1", "fr": "Je suis d'accord avec toi.", "pt": "Eu concordo com você." },
+        { "level": "B2", "fr": "Elle est d'accord avec le projet.", "pt": "Ela concorda com o projeto." },
+        { "level": "C1-C2", "fr": "Être d'accord ne signifie pas toujours être convaincu.", "pt": "Concordar nem sempre significa estar convencido." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "C'est vs il / elle est",
+    "explanationPt": "'C'est' apresenta ou identifica algo (c'est un monument, c'est la plus grande). 'Il/elle est' descreve (elle est belle, elle est célèbre). Ex.: 'C'est un monument gothique.' / 'Elle est belle.'",
+    "exampleFr": "C'est la plus grande cathédrale de France. Elle est magnifique.",
+    "examplePt": "É a maior catedral da França. Ela é magnífica.",
+    "practiceQuestion": "Complete com a forma correta: '_____ la plus grande cathédrale de France.'",
+    "options": ["C'est", "Elle est", "Il est"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "C'est vs il / elle est",
+        "explanationPt": "'C'est + substantivo' identifica: 'C'est un monument'. 'Il/elle est + adjetivo' descreve: 'Elle est très célèbre'.",
+        "exampleFr": "C'est un monument gothique incroyable. Elle est très célèbre.",
+        "examplePt": "É um monumento gótico incrível. Ela é muito famosa.",
+        "practiceQuestion": "Complete: 'La Vierge Dorée, _____ est belle !'",
+        "options": ["elle", "c'", "il"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "La position des adjectifs qualificatifs",
+        "explanationPt": "Adjetivos como 'grand', 'petit', 'beau', 'magnifique' têm posição variada: 'une grande cathédrale' (antes) / 'un monument gothique' (depois).",
+        "exampleFr": "La grande cathédrale gothique est pleine de sculptures.",
+        "examplePt": "A grande catedral gótica está cheia de esculturas.",
+        "practiceQuestion": "Escolha a ordem correta: 'une _____ cathédrale'",
+        "options": ["grande cathédrale", "cathédrale grande", "grandes cathédrales"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Complete a frase do texto: 'La cathédrale Notre-Dame d'Amiens est la plus _____ de France.'",
+      "options": ["grande", "petite", "moderne"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'La cathédrale Notre-Dame d'Amiens est la plus grande cathédrale de France.'"
+    },
+    {
+      "question": "Ordene corretamente as palavras da frase: [ la plus grande / c'est / cathédrale / de France / ]",
+      "options": [
+        "C'est la plus grande cathédrale de France.",
+        "La plus grande cathédrale c'est de France.",
+        "C'est la cathédrale de France plus grande."
+      ],
+      "correctIndex": 0,
+      "explanation": "A frase exata do texto é 'C'est la plus grande cathédrale de France.'"
+    },
+    {
+      "question": "Como se traduz: 'Ela é muito famosa'?",
+      "options": [
+        "Elle est très célèbre.",
+        "C'est très célèbre.",
+        "Elle très célèbre est."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Elle est + adjetivo' descreve: 'Elle est très célèbre.'"
+    },
+    {
+      "question": "Identifique a frase com ERRO (c'est vs elle est):",
+      "options": [
+        "C'est un monument gothique.",
+        "Elle est magnifique.",
+        "Elle est un monument gothique."
+      ],
+      "correctIndex": 2,
+      "explanation": "O erro é 'Elle est un monument': com substantivo usamos 'c'est' ('C'est un monument')."
+    },
+    {
+      "question": "O que é a Vierge Dorée?",
+      "options": [
+        "Uma escultura famosa no portal central da catedral",
+        "Uma torre moderna de concreto",
+        "Um macaron especial"
+      ],
+      "correctIndex": 0,
+      "explanation": "No texto: 'Sur le portail central, la Vierge Dorée sourit aux visiteurs.'"
+    }
+  ]
+}

@@ -1,0 +1,252 @@
+{
+  "id": "toulouse_lesson_4",
+  "cityId": "toulouse",
+  "domain": "Ciência",
+  "level": "Intermediário (B2)",
+  "titleFr": "La Cité de l'espace : Toulouse, capitale de l'aérospatiale",
+  "titlePt": "A Cité de l'espace: Toulouse, capital da aerospacial",
+  "subtitleFr": "La réplique d'Ariane 5, la station Mir et le planétarium",
+  "subtitlePt": "A réplica do Ariane 5, a estação Mir e o planetário",
+  "summaryPt": "Nesta Aula 4 (B2), a família visita a Cité de l'espace, onde se ergue a réplica de 53 metros do foguete Ariane 5. O aluno revisa o Plus-que-parfait e os pronomes EN/Y em contexto científico: 'j'y étais déjà monté', 'on en a vu'.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "La fusée Ariane se dresse au milieu du parc, haute de cinquante-trois mètres. « Avant de venir, j'avais déjà vu des photos, a dit Irlan, mais je n'y étais jamais monté si près. » Iris a couru : « On peut entrer dans la réplique de la station Mir, j'y vais ! »",
+      "pt": "O foguete Ariane se ergue no meio do parque, com cinquenta e três metros de altura. « Antes de vir, eu já tinha visto fotos, disse Irlan, mas nunca tinha chegado tão perto dele. » Íris correu: « Dá para entrar na réplica da estação Mir, eu vou lá! »"
+    },
+    {
+      "id": 2,
+      "fr": "Dans la station Mir, Andréa a expliqué : « Les astronautes y vivaient pendant des mois. Ils en sortaient pour marcher dans l'espace. Tu imagines dormir ici ? » Iris a répondu : « J'y dormirais bien, mais sans flotter partout ! »",
+      "pt": "Na estação Mir, Andréa explicou: « Os astronautas viviam lá durante meses. Eles saíam dela para caminhar no espaço. Imagina dormir aqui? » Íris respondeu: « Eu dormiria bem lá, mas sem flutuar por toda parte! »"
+    },
+    {
+      "id": 3,
+      "fr": "Au planétarium, les étoiles ont défilé sur le dôme. « La Terre, on l'y voit toute petite, a murmuré Irlan. Comme livreur à Paris, j'avais appris les rues par cœur ; ici, j'apprends les galaxies par cœur. C'est un autre voyage. »",
+      "pt": "No planetário, as estrelas desfilaram na cúpula. « A Terra, a gente a vê lá pequenininha, murmurou Irlan. Como entregador em Paris, eu tinha aprendido as ruas de cor; aqui, aprendo as galáxias de cor. É outra viagem. »"
+    },
+    {
+      "id": 4,
+      "fr": "En sortant, Irlan a conclu : « Toulouse est l'une des capitales mondiales de l'aérospatiale. Les ingénieurs d'Airbus et du CNES y travaillent chaque jour. Sans eux, aucun satellite n'aurait été lancé. » Iris a ajouté : « Et moi, j'en aurai peut-être un, de métier, un jour ! »",
+      "pt": "Ao sair, Irlan concluiu: « Toulouse é uma das capitais mundiais da aerospacial. Os engenheiros da Airbus e do CNES trabalham aqui todos os dias. Sem eles, nenhum satélite teria sido lançado. » Íris acrescentou: « E eu, quem sabe um dia eu terei uma dessas profissões! »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "le satellite",
+      "definitionPt": "o satélite",
+      "definitionFr": "Objet artificiel envoyé en orbite.",
+      "inflections": ["le satellite", "les satellites"],
+      "ptTargets": ["satélite"],
+      "examples": [
+        { "level": "A1", "fr": "Le satellite est dans le ciel.", "pt": "O satélite está no céu." },
+        { "level": "A2-B1", "fr": "Ariane a lancé des centaines de satellites.", "pt": "O Ariane lançou centenas de satélites." },
+        { "level": "B1-B2", "fr": "Les satellites, qui tournent autour de la Terre, servent à la communication.", "pt": "Os satélites, que giram em torno da Terra, servem para a comunicação." },
+        { "level": "C1-C2", "fr": "Sans les satellites, la navigation, la météo et les télécommunications modernes seraient impossibles.", "pt": "Sem os satélites, a navegação, a meteorologia e as telecomunicações modernas seriam impossíveis." }
+      ]
+    },
+    {
+      "term": "l'astronaute",
+      "definitionPt": "o astronauta",
+      "definitionFr": "Personne qui voyage dans l'espace.",
+      "inflections": ["l'astronaute", "les astronautes"],
+      "ptTargets": ["astronauta"],
+      "examples": [
+        { "level": "A1", "fr": "L'astronaute est dans la fusée.", "pt": "O astronauta está no foguete." },
+        { "level": "A2-B1", "fr": "Les astronautes vivaient dans la station Mir.", "pt": "Os astronautas viviam na estação Mir." },
+        { "level": "B1-B2", "fr": "Les astronautes, qui restent des mois en orbite, doivent s'entraîner longtemps.", "pt": "Os astronautas, que ficam meses em órbita, precisam treinar muito." },
+        { "level": "C1-C2", "fr": "Le métier d'astronaute exige une préparation physique et psychologique extrême.", "pt": "A profissão de astronauta exige uma preparação física e psicológica extrema." }
+      ]
+    },
+    {
+      "term": "la station spatiale",
+      "definitionPt": "a estação espacial",
+      "definitionFr": "Structure habitée placée en orbite.",
+      "inflections": ["la station spatiale", "les stations spatiales"],
+      "ptTargets": ["estação espacial"],
+      "examples": [
+        { "level": "A1", "fr": "La station est dans l'espace.", "pt": "A estação está no espaço." },
+        { "level": "A2-B1", "fr": "La réplique de la station Mir est ouverte au public.", "pt": "A réplica da estação Mir é aberta ao público." },
+        { "level": "B1-B2", "fr": "La station Mir, qui a tourné quinze ans autour de la Terre, fut une pionnière.", "pt": "A estação Mir, que orbitou a Terra por quinze anos, foi pioneira." },
+        { "level": "C1-C2", "fr": "Les stations spatiales ont ouvert la voie à une présence humaine continue dans l'espace.", "pt": "As estações espaciais abriram caminho para uma presença humana contínua no espaço." }
+      ]
+    },
+    {
+      "term": "le planétarium",
+      "definitionPt": "o planetário",
+      "definitionFr": "Salle en dôme où l'on projette le ciel.",
+      "inflections": ["le planétarium", "les planétariums"],
+      "ptTargets": ["planetário"],
+      "examples": [
+        { "level": "A1", "fr": "Le planétarium est sombre.", "pt": "O planetário é escuro." },
+        { "level": "A2-B1", "fr": "La famille a visité le planétarium.", "pt": "A família visitou o planetário." },
+        { "level": "B1-B2", "fr": "Le planétarium, qui projette des millions d'étoiles, impressionne les enfants.", "pt": "O planetário, que projeta milhões de estrelas, impressiona as crianças." },
+        { "level": "C1-C2", "fr": "Sous le dôme du planétarium, le public voyage à travers les galaxies sans quitter la terre.", "pt": "Sob a cúpula do planetário, o público viaja pelas galáxias sem sair da terra." }
+      ]
+    },
+    {
+      "term": "le dôme",
+      "definitionPt": "a cúpula",
+      "definitionFr": "Voûte en forme de demi-sphère.",
+      "inflections": ["le dôme", "les dômes"],
+      "ptTargets": ["cúpula", "domo"],
+      "examples": [
+        { "level": "A1", "fr": "Le dôme est rond.", "pt": "A cúpula é redonda." },
+        { "level": "A2-B1", "fr": "Les étoiles défilent sur le dôme du planétarium.", "pt": "As estrelas desfilam na cúpula do planetário." },
+        { "level": "B1-B2", "fr": "Le dôme, qui couvre toute la salle, donne l'impression d'être dans le ciel.", "pt": "A cúpula, que cobre a sala inteira, dá a impressão de estar no céu." },
+        { "level": "C1-C2", "fr": "La projection sur dôme offre une immersion totale dans la voûte céleste.", "pt": "A projeção em cúpula oferece uma imersão total na abóbada celeste." }
+      ]
+    },
+    {
+      "term": "la galaxie",
+      "definitionPt": "a galáxia",
+      "definitionFr": "Ensemble d'étoiles liées par la gravitation.",
+      "inflections": ["la galaxie", "les galaxies"],
+      "ptTargets": ["galáxia"],
+      "examples": [
+        { "level": "A1", "fr": "La galaxie est immense.", "pt": "A galáxia é imensa." },
+        { "level": "A2-B1", "fr": "La Voie lactée est notre galaxie.", "pt": "A Via Láctea é a nossa galáxia." },
+        { "level": "B1-B2", "fr": "Les galaxies, qui contiennent des milliards d'étoiles, sont innombrables.", "pt": "As galáxias, que contêm bilhões de estrelas, são inúmeras." },
+        { "level": "C1-C2", "fr": "Observer les galaxies lointaines, c'est regarder le passé de l'univers.", "pt": "Observar as galáxias distantes é olhar o passado do universo." }
+      ]
+    },
+    {
+      "term": "flotter",
+      "definitionPt": "flutuar",
+      "definitionFr": "Se maintenir à la surface ou en l'air.",
+      "inflections": ["je flotte", "nous flottons"],
+      "ptTargets": ["flutuar", "flutuando"],
+      "examples": [
+        { "level": "A1", "fr": "Le ballon flotte.", "pt": "O balão flutua." },
+        { "level": "A2-B1", "fr": "Les astronautes flottent dans la station.", "pt": "Os astronautas flutuam na estação." },
+        { "level": "B1-B2", "fr": "Les objets, qui flottent en apesanteur, semblent vivants.", "pt": "Os objetos, que flutuam em gravidade zero, parecem vivos." },
+        { "level": "C1-C2", "fr": "Flotter en apesanteur transforme le rapport du corps à l'espace.", "pt": "Flutuar em gravidade zero transforma a relação do corpo com o espaço." }
+      ]
+    },
+    {
+      "term": "l'apesanteur",
+      "definitionPt": "a gravidade zero",
+      "definitionFr": "État où la gravité ne se fait plus sentir.",
+      "inflections": ["l'apesanteur"],
+      "ptTargets": ["gravidade zero", "imponderabilidade"],
+      "examples": [
+        { "level": "A1", "fr": "L'apesanteur est étrange.", "pt": "A gravidade zero é estranha." },
+        { "level": "A2-B1", "fr": "Les astronautes vivent en apesanteur.", "pt": "Os astronautas vivem em gravidade zero." },
+        { "level": "B1-B2", "fr": "L'apesanteur, qui dure des mois en orbite, fragilise les os.", "pt": "A gravidade zero, que dura meses em órbita, enfraquece os ossos." },
+        { "level": "C1-C2", "fr": "L'étude de l'apesanteur est essentielle pour préparer les longs voyages habités.", "pt": "O estudo da gravidade zero é essencial para preparar as longas viagens tripuladas." }
+      ]
+    },
+    {
+      "term": "l'ingénieur",
+      "definitionPt": "o engenheiro",
+      "definitionFr": "Professionnel de la technique et des sciences appliquées.",
+      "inflections": ["l'ingénieur", "les ingénieurs"],
+      "ptTargets": ["engenheiro"],
+      "examples": [
+        { "level": "A1", "fr": "L'ingénieur travaille.", "pt": "O engenheiro trabalha." },
+        { "level": "A2-B1", "fr": "Les ingénieurs d'Airbus travaillent à Toulouse.", "pt": "Os engenheiros da Airbus trabalham em Toulouse." },
+        { "level": "B1-B2", "fr": "Les ingénieurs, qui conçoivent les fusées, testent chaque pièce plusieurs fois.", "pt": "Os engenheiros, que projetam os foguetes, testam cada peça várias vezes." },
+        { "level": "C1-C2", "fr": "Les ingénieurs toulousains participent aux plus grands programmes aérospatiaux européens.", "pt": "Os engenheiros de Toulouse participam dos maiores programas aeroespaciais europeus." }
+      ]
+    },
+    {
+      "term": "décoller",
+      "definitionPt": "decolar",
+      "definitionFr": "Quitter le sol pour s'envoler.",
+      "inflections": ["je décolle", "nous décollons"],
+      "ptTargets": ["decolar", "decolou"],
+      "examples": [
+        { "level": "A1", "fr": "L'avion décolle.", "pt": "O avião decola." },
+        { "level": "A2-B1", "fr": "La fusée a décollé de Kourou.", "pt": "O foguete decolou de Kourou." },
+        { "level": "B1-B2", "fr": "La fusée, qui décolle en quelques secondes, libère une énergie immense.", "pt": "O foguete, que decola em poucos segundos, libera uma energia imensa." },
+        { "level": "C1-C2", "fr": "Décoller, c'est vaincre la gravité grâce à la maîtrise de la propulsion.", "pt": "Decolar é vencer a gravidade graças ao domínio da propulsão." }
+      ]
+    },
+    {
+      "term": "l'orbite",
+      "definitionPt": "a órbita",
+      "definitionFr": "Trajectoire d'un objet autour d'un astre.",
+      "inflections": ["l'orbite", "les orbites"],
+      "ptTargets": ["órbita"],
+      "examples": [
+        { "level": "A1", "fr": "L'orbite est circulaire.", "pt": "A órbita é circular." },
+        { "level": "A2-B1", "fr": "Le satellite tourne en orbite.", "pt": "O satélite gira em órbita." },
+        { "level": "B1-B2", "fr": "Les satellites, qui restent en orbite des années, finissent par redescendre.", "pt": "Os satélites, que ficam em órbita por anos, acabam descendo de volta." },
+        { "level": "C1-C2", "fr": "Placer un satellite en orbite géostationnaire exige une précision extrême.", "pt": "Colocar um satélite em órbita geoestacionária exige precisão extrema." }
+      ]
+    },
+    {
+      "term": "le décollage",
+      "definitionPt": "a decolagem",
+      "definitionFr": "Action de quitter le sol.",
+      "inflections": ["le décollage", "les décollages"],
+      "ptTargets": ["decolagem"],
+      "examples": [
+        { "level": "A1", "fr": "Le décollage est rapide.", "pt": "A decolagem é rápida." },
+        { "level": "A2-B1", "fr": "Iris aurait adoré voir un décollage.", "pt": "Íris teria adorado ver uma decolagem." },
+        { "level": "B1-B2", "fr": "Le décollage d'Ariane, qui dure deux minutes, produit un bruit assourdissant.", "pt": "A decolagem do Ariane, que dura dois minutos, produz um barulho ensurdecedor." },
+        { "level": "C1-C2", "fr": "Assister à un décollage, c'est vivre un moment où la science devient spectacle.", "pt": "Assistir a uma decolagem é viver um momento em que a ciência vira espetáculo." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Le Plus-que-parfait en contexte scientifique",
+    "explanationPt": "Em relatos científicos e de viagem, o Plus-que-parfait situa um conhecimento anterior: 'j'avais déjà vu des photos' (eu já tinha visto fotos), 'les ingénieurs avaient testé' (os engenheiros tinham testado). Funciona como o passado do passado na narração.",
+    "exampleFr": "Avant de visiter la Cité de l'espace, j'avais déjà vu des photos d'Ariane.",
+    "examplePt": "Antes de visitar a Cité de l'espace, eu já tinha visto fotos do Ariane.",
+    "practiceQuestion": "Complete: « Les ingénieurs ___ testé la fusée avant le lancement. »",
+    "options": ["avaient", "ont", "auront"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "EN et Y pour éviter les répétitions",
+        "explanationPt": "Em frases longas, EN e Y evitam repetições: 'j'y étais monté si près' (chegado perto dela), 'on en a vu' (vimos dela). Y para lugar/à, EN para de/quantidade.",
+        "exampleFr": "La station Mir ? On y entre et on en sort par le même sas.",
+        "examplePt": "A estação Mir? Entra-se nela e sai-se dela pela mesma eclusa.",
+        "practiceQuestion": "Complete: « La fusée est là, j'___ suis monté tout à l'heure. »",
+        "options": ["y", "en", "le"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "L'hypothèse passée avec 'sans eux'",
+        "explanationPt": "Para expressar consequências não realizadas: 'Sans eux, aucun satellite n'aurait été lancé' (sem eles, nenhum satélite teria sido lançado).",
+        "exampleFr": "Sans les ingénieurs, aucun satellite n'aurait été lancé.",
+        "examplePt": "Sem os engenheiros, nenhum satélite teria sido lançado.",
+        "practiceQuestion": "Complete: « Sans Airbus, Toulouse ___ moins célèbre. »",
+        "options": ["serait", "est", "était"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Quanto mede a réplica da fusée Ariane 5?",
+      "options": ["53 metros", "10 metros", "100 metros"],
+      "correctIndex": 0,
+      "explanation": "A réplica do Ariane 5 tem 53 metros de altura, vertical na Cité de l'espace."
+    },
+    {
+      "question": "O que a família pôde visitar na Cité de l'espace?",
+      "options": ["a réplica da estação Mir", "a torre Eiffel", "o castelo de Chambord"],
+      "correctIndex": 0,
+      "explanation": "A réplica da estação Mir é aberta ao público na Cité de l'espace."
+    },
+    {
+      "question": "Onde os astronautas viviam durante meses?",
+      "options": ["na estação Mir", "em Paris", "num hotel"],
+      "correctIndex": 0,
+      "explanation": "Os astronautas viviam meses na estação Mir, em órbita."
+    },
+    {
+      "question": "Complete: « Avant de venir, j'___ déjà vu des photos. »",
+      "options": ["avais", "ai", "aurais"],
+      "correctIndex": 0,
+      "explanation": "Plus-que-parfait: j'avais déjà vu."
+    },
+    {
+      "question": "Qual cidade é capital da aerospacial na França?",
+      "options": ["Toulouse", "Lille", "Nice"],
+      "correctIndex": 0,
+      "explanation": "Toulouse abriga a Airbus, o CNES e a Cité de l'espace."
+    }
+  ]
+}

@@ -1,0 +1,268 @@
+{
+  "id": "paris_lesson_14",
+  "cityId": "paris",
+  "domain": "Cotidiano & Cidade",
+  "level": "Iniciante (A1)",
+  "titleFr": "Les belles places de Paris",
+  "titlePt": "As belas praças de Paris",
+  "subtitleFr": "La place des Vosges, la place de la Bastille et la Concorde",
+  "subtitlePt": "A place des Vosges, a praça da Bastilha e a Concorde",
+  "summaryPt": "Nesta Aula 14 (A1), a família passeia pelas praças de Paris: a place des Vosges com suas arcadas, a praça da Bastilha com sua coluna e a Concorde com seu obelisco. Irlan, o geógrafo, mostra os pontos importantes da cidade. O aluno aprende 'se trouver' e as preposições de lugar na cidade.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "La place des Vosges se trouve dans le Marais. C'est la plus ancienne place de Paris. Les maisons rouges ont des arcades au rez-de-chaussée.",
+      "pt": "A place des Vosges fica no Marais. É a praça mais antiga de Paris. As casas vermelhas têm arcadas no térreo."
+    },
+    {
+      "id": 2,
+      "fr": "Au centre de la place, il y a un joli jardin et une fontaine. Íris joue près de la fontaine. Andréa s'assoit sur un banc.",
+      "pt": "No centro da praça, há um jardim bonito e uma fonte. Íris brinca perto da fonte. Andréa senta num banco."
+    },
+    {
+      "id": 3,
+      "fr": "Après, la famille va à la place de la Bastille. La colonne est au milieu de la place. Ensuite, ils regardent l'obélisque de la place de la Concorde.",
+      "pt": "Depois, a família vai à praça da Bastilha. A coluna está no meio da praça. Em seguida, eles olham o obelisco da praça da Concorde."
+    },
+    {
+      "id": 4,
+      "fr": "Irlan montre les points importants de la ville. « Quand j'étais livreur, je passais devant ces places tous les jours », dit-il. Andréa sourit et prend sa main.",
+      "pt": "Irlan mostra os pontos importantes da cidade. «Quando eu era entregador, eu passava diante dessas praças todos os dias», diz ele. Andréa sorri e pega a mão dele."
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "place",
+      "definitionPt": "praça",
+      "definitionFr": "Espace public entouré de bâtiments dans une ville.",
+      "inflections": ["la place", "une place", "des places"],
+      "ptTargets": ["praça"],
+      "examples": [
+        { "level": "A1", "fr": "La place des Vosges est dans le Marais.", "pt": "A place des Vosges fica no Marais." },
+        { "level": "A2-B1", "fr": "La place est pleine de monde le dimanche.", "pt": "A praça está cheia de gente no domingo." },
+        { "level": "B2", "fr": "Chaque place de Paris a son histoire.", "pt": "Cada praça de Paris tem a sua história." },
+        { "level": "C1-C2", "fr": "Les grandes places parisiennes sont des lieux de mémoire et de rencontre.", "pt": "As grandes praças parisienses são lugares de memória e encontro." }
+      ]
+    },
+    {
+      "term": "se trouver",
+      "definitionPt": "ficar, localizar-se",
+      "definitionFr": "Être situé quelque part.",
+      "inflections": ["je me trouve", "se trouver", "il se trouve"],
+      "ptTargets": ["ficar", "localizar-se"],
+      "examples": [
+        { "level": "A1", "fr": "La place des Vosges se trouve dans le Marais.", "pt": "A place des Vosges fica no Marais." },
+        { "level": "A2-B1", "fr": "La boulangerie se trouve près de la maison.", "pt": "A padaria fica perto de casa." },
+        { "level": "B2", "fr": "Le musée se trouve au centre de la ville.", "pt": "O museu fica no centro da cidade." },
+        { "level": "C1-C2", "fr": "Le monument se trouve au cœur du quartier historique.", "pt": "O monumento fica no coração do bairro histórico." }
+      ]
+    },
+    {
+      "term": "ancien",
+      "definitionPt": "antigo, velho",
+      "definitionFr": "Qui existe depuis très longtemps.",
+      "inflections": ["ancien", "ancienne", "anciens", "anciennes"],
+      "ptTargets": ["antigo", "velho"],
+      "examples": [
+        { "level": "A1", "fr": "C'est la plus ancienne place de Paris.", "pt": "É a praça mais antiga de Paris." },
+        { "level": "A2-B1", "fr": "Ce bâtiment est très ancien.", "pt": "Este prédio é muito antigo." },
+        { "level": "B2", "fr": "Les quartiers anciens ont beaucoup de charme.", "pt": "Os bairros antigos têm muito charme." },
+        { "level": "C1-C2", "fr": "Le patrimoine ancien de Paris est protégé par la loi.", "pt": "O patrimônio antigo de Paris é protegido por lei." }
+      ]
+    },
+    {
+      "term": "arcade",
+      "definitionPt": "arcada",
+      "definitionFr": "Passage couvert en forme d'arcs.",
+      "inflections": ["l'arcade", "une arcade", "des arcades"],
+      "ptTargets": ["arcada"],
+      "examples": [
+        { "level": "A1", "fr": "Les maisons ont des arcades.", "pt": "As casas têm arcadas." },
+        { "level": "A2-B1", "fr": "Nous marchons sous les arcades.", "pt": "Nós caminhamos sob as arcadas." },
+        { "level": "B2", "fr": "Les arcades de la place des Vosges abritent des boutiques.", "pt": "As arcadas da place des Vosges abrigam lojas." },
+        { "level": "C1-C2", "fr": "Les arcades régulières donnent à la place son harmonie unique.", "pt": "As arcadas regulares dão à praça a sua harmonia única." }
+      ]
+    },
+    {
+      "term": "centre",
+      "definitionPt": "centro",
+      "definitionFr": "Le milieu d'un lieu.",
+      "inflections": ["le centre", "un centre"],
+      "ptTargets": ["centro"],
+      "examples": [
+        { "level": "A1", "fr": "Au centre de la place, il y a une fontaine.", "pt": "No centro da praça, há uma fonte." },
+        { "level": "A2-B1", "fr": "Le centre de Paris est très animé.", "pt": "O centro de Paris é muito movimentado." },
+        { "level": "B2", "fr": "Le monument se trouve au centre de la place.", "pt": "O monumento fica no centro da praça." },
+        { "level": "C1-C2", "fr": "Le centre historique concentre l'essentiel du patrimoine.", "pt": "O centro histórico concentra o essencial do patrimônio." }
+      ]
+    },
+    {
+      "term": "colonne",
+      "definitionPt": "coluna",
+      "definitionFr": "Pilier vertical, souvent décoratif.",
+      "inflections": ["la colonne", "une colonne", "des colonnes"],
+      "ptTargets": ["coluna"],
+      "examples": [
+        { "level": "A1", "fr": "La colonne est au milieu de la place.", "pt": "A coluna está no meio da praça." },
+        { "level": "A2-B1", "fr": "La colonne de la Bastille est très haute.", "pt": "A coluna da Bastilha é muito alta." },
+        { "level": "B2", "fr": "Au sommet de la colonne, il y a une statue dorée.", "pt": "No topo da coluna, há uma estátua dourada." },
+        { "level": "C1-C2", "fr": "La colonne de Juillet commémore la Révolution de 1830.", "pt": "A Coluna de Julho comemora a Revolução de 1830." }
+      ]
+    },
+    {
+      "term": "milieu",
+      "definitionPt": "meio",
+      "definitionFr": "Partie centrale d'un lieu.",
+      "inflections": ["le milieu"],
+      "ptTargets": ["meio"],
+      "examples": [
+        { "level": "A1", "fr": "La colonne est au milieu de la place.", "pt": "A coluna está no meio da praça." },
+        { "level": "A2-B1", "fr": "Le jardin est au milieu du quartier.", "pt": "O jardim está no meio do bairro." },
+        { "level": "B2", "fr": "Au milieu de la circulation, la place reste un refuge.", "pt": "No meio do trânsito, a praça continua sendo um refúgio." },
+        { "level": "C1-C2", "fr": "Au milieu de la ville, la place offre un espace de calme.", "pt": "No meio da cidade, a praça oferece um espaço de calma." }
+      ]
+    },
+    {
+      "term": "obélisque",
+      "definitionPt": "obelisco",
+      "definitionFr": "Monument en forme de colonne pointue.",
+      "inflections": ["l'obélisque", "un obélisque", "des obélisques"],
+      "ptTargets": ["obelisco"],
+      "examples": [
+        { "level": "A1", "fr": "Ils regardent l'obélisque de la Concorde.", "pt": "Eles olham o obelisco da Concorde." },
+        { "level": "A2-B1", "fr": "L'obélisque est très ancien.", "pt": "O obelisco é muito antigo." },
+        { "level": "B2", "fr": "L'obélisque de Louxor date de plus de trois mille ans.", "pt": "O obelisco de Luxor tem mais de três mil anos." },
+        { "level": "C1-C2", "fr": "L'obélisque égyptien trône au centre de la place de la Concorde.", "pt": "O obelisco egípcio domina o centro da praça da Concorde." }
+      ]
+    },
+    {
+      "term": "montrer",
+      "definitionPt": "mostrar",
+      "definitionFr": "Faire voir quelque chose à quelqu'un.",
+      "inflections": ["je montre", "montrer", "il montre"],
+      "ptTargets": ["mostrar"],
+      "examples": [
+        { "level": "A1", "fr": "Irlan montre les points importants de la ville.", "pt": "Irlan mostra os pontos importantes da cidade." },
+        { "level": "A2-B1", "fr": "Elle montre le plan aux touristes.", "pt": "Ela mostra o mapa aos turistas." },
+        { "level": "B2", "fr": "Il montre les places célèbres à sa famille.", "pt": "Ele mostra as praças famosas à sua família." },
+        { "level": "C1-C2", "fr": "Montrer une ville, c'est raconter son histoire.", "pt": "Mostrar uma cidade é contar a sua história." }
+      ]
+    },
+    {
+      "term": "point",
+      "definitionPt": "ponto",
+      "definitionFr": "Endroit précis, élément important.",
+      "inflections": ["le point", "un point", "des points"],
+      "ptTargets": ["ponto"],
+      "examples": [
+        { "level": "A1", "fr": "Ce sont les points importants de la ville.", "pt": "São os pontos importantes da cidade." },
+        { "level": "A2-B1", "fr": "La tour Eiffel est un point connu de Paris.", "pt": "A torre Eiffel é um ponto conhecido de Paris." },
+        { "level": "B2", "fr": "Le géographe connaît tous les points de la carte.", "pt": "O geógrafo conhece todos os pontos do mapa." },
+        { "level": "C1-C2", "fr": "Chaque point de repère structure la perception de la ville.", "pt": "Cada ponto de referência estrutura a percepção da cidade." }
+      ]
+    },
+    {
+      "term": "banc",
+      "definitionPt": "banco (assento)",
+      "definitionFr": "Siège long, souvent dans un parc.",
+      "inflections": ["le banc", "un banc", "des bancs"],
+      "ptTargets": ["banco"],
+      "examples": [
+        { "level": "A1", "fr": "Andréa s'assoit sur un banc.", "pt": "Andréa senta num banco." },
+        { "level": "A2-B1", "fr": "Le banc est sous un arbre.", "pt": "O banco está sob uma árvore." },
+        { "level": "B2", "fr": "Sur le banc, on regarde les gens passer.", "pt": "No banco, olhamos as pessoas passarem." },
+        { "level": "C1-C2", "fr": "Un banc dans un jardin public invite à la contemplation.", "pt": "Um banco num jardim público convida à contemplação." }
+      ]
+    },
+    {
+      "term": "jouer",
+      "definitionPt": "brincar, jogar",
+      "definitionFr": "S'amuser avec un jeu ou un objet.",
+      "inflections": ["je joue", "jouer", "il joue"],
+      "ptTargets": ["brincar", "jogar"],
+      "examples": [
+        { "level": "A1", "fr": "Íris joue près de la fontaine.", "pt": "Íris brinca perto da fonte." },
+        { "level": "A2-B1", "fr": "Les enfants jouent dans le jardin.", "pt": "As crianças brincam no jardim." },
+        { "level": "B2", "fr": "Elle joue avec ses amis le samedi.", "pt": "Ela brinca com os amigos no sábado." },
+        { "level": "C1-C2", "fr": "Jouer dans les espaces publics est essentiel au développement des enfants.", "pt": "Brincar nos espaços públicos é essencial para o desenvolvimento das crianças." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Le verbe se trouver",
+    "explanationPt": "Para dizer onde algo fica/localiza-se: 'se trouver' (ficar). Ex.: 'La place des Vosges se trouve dans le Marais.' (A place des Vosges fica no Marais.)",
+    "exampleFr": "La place des Vosges se trouve dans le Marais.",
+    "examplePt": "A place des Vosges fica no Marais.",
+    "practiceQuestion": "Complete com a forma correta: 'Le musée se _____ au centre de la ville.'",
+    "options": ["trouve", "trouvent", "trouver"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "Le verbe se trouver",
+        "explanationPt": "'se trouver' se conjuga com pronome reflexivo: je me trouve, il se trouve, ils se trouvent. Ex.: 'La boulangerie se trouve près de la maison.'",
+        "exampleFr": "La boulangerie se trouve près de la maison.",
+        "examplePt": "A padaria fica perto de casa.",
+        "practiceQuestion": "Complete: 'Les places célèbres se _____ au centre de Paris.'",
+        "options": ["trouvent", "trouve", "trouvons"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "Les prépositions de lieu dans la ville",
+        "explanationPt": "Preposições para localizar: 'au centre de' (no centro de), 'au milieu de' (no meio de), 'près de' (perto de), 'devant' (diante de). Ex.: 'La colonne est au milieu de la place.'",
+        "exampleFr": "La colonne est au milieu de la place et la fontaine est au centre du jardin.",
+        "examplePt": "A coluna está no meio da praça e a fonte está no centro do jardim.",
+        "practiceQuestion": "Complete: 'Íris joue _____ de la fontaine.'",
+        "options": ["près", "centre", "milieu"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Complete a frase do texto: 'La place des Vosges _____ dans le Marais.'",
+      "options": ["se trouve", "se trouvent", "trouver"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'La place des Vosges se trouve dans le Marais.'"
+    },
+    {
+      "question": "Ordene corretamente as palavras da frase: [ au milieu / la colonne / de la place / est / ]",
+      "options": [
+        "La colonne est au milieu de la place.",
+        "Au milieu de la place la colonne est.",
+        "La colonne au milieu est de la place."
+      ],
+      "correctIndex": 0,
+      "explanation": "A frase exata do texto é 'La colonne est au milieu de la place.'"
+    },
+    {
+      "question": "Como se traduz: 'A padaria fica perto de casa'?",
+      "options": [
+        "La boulangerie se trouve près de la maison.",
+        "La boulangerie se trouvent près de la maison.",
+        "La boulangerie se trouve dans la maison."
+      ],
+      "correctIndex": 0,
+      "explanation": "'se trouve' = fica; 'près de la maison' = perto de casa."
+    },
+    {
+      "question": "Identifique a frase com ERRO:",
+      "options": [
+        "La place des Vosges se trouve dans le Marais.",
+        "Les arcades se trouvent au rez-de-chaussée.",
+        "La colonne se trouve au milieu du centre."
+      ],
+      "correctIndex": 2,
+      "explanation": "A frase 'au milieu du centre' é redundante; o correto é 'au milieu de la place'."
+    },
+    {
+      "question": "O que Irlan mostra para a família nas praças?",
+      "options": [
+        "Os pontos importantes da cidade por onde passava como entregador",
+        "Os restaurantes mais caros",
+        "As estações de trem"
+      ],
+      "correctIndex": 0,
+      "explanation": "No texto: 'Irlan montre les points importants de la ville. Quand j'étais livreur, je passais devant ces places tous les jours.'"
+    }
+  ]
+}

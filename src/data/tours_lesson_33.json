@@ -1,0 +1,237 @@
+{
+  "id": "tours_lesson_33",
+  "cityId": "tours",
+  "domain": "Natureza & Paisagem",
+  "level": "Intermediário (B1)",
+  "titleFr": "Les bords de Loire : l'été des familles",
+  "titlePt": "As margens do Loire: o verão das famílias",
+  "subtitleFr": "Sable, pique-niques et baignades au cœur de la ville",
+  "subtitlePt": "Areia, piqueniques e banhos no coração da cidade",
+  "summaryPt": "Nesta Aula 33 (B1), a família passa um dia de verão nas margens da Loire, onde os Tourangeaux fazem piquenique e se refrescam: a praia urbana, os barcos, os jogos de bola. O aluno pratica o vocabulário do lazer (se baigner, le sable, se rafraîchir) e o futuro simple.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "« En été, les Tourangeaux viennent se rafraîchir au bord de la Loire », a dit Andréa. « Il y a même des plages de sable en plein centre-ville. » Iris a couru vers l'eau, un peu surprise.",
+      "pt": "« No verão, os tourangeaux vêm se refrescar à beira do Loire », disse Andréa. « Há até praias de areia bem no centro da cidade. » Íris correu para a água, um pouco surpresa."
+    },
+    {
+      "id": 2,
+      "fr": "Sur le sable, des familles jouaient au ballon, d'autres lisaient ou dormaient. « C'est comme une plage de la mer, mais avec un château à la place des vagues », a dit Irlan en riant.",
+      "pt": "Na areia, famílias jogavam bola, outras liam ou dormiam. « É como uma praia do mar, mas com um castelo no lugar das ondas », disse Irlan rindo."
+    },
+    {
+      "id": 3,
+      "fr": "« Attention, l'eau est parfois dangereuse », a prévenu Andréa. « La Loire a des courants forts. On ne se baigne que dans les zones surveillées. » Iris a hoché la tête, très sérieuse.",
+      "pt": "« Atenção, a água às vezes é perigosa », avisou Andréa. « O Loire tem correntes fortes. Só se nada nas áreas vigiadas. » Íris balançou a cabeça, muito séria."
+    },
+    {
+      "id": 4,
+      "fr": "Après le pique-nique, Irlan a sorti sa carte : « Regarde, Iris : la Loire fait comme un grand serpent à travers la France. Elle va du Massif central jusqu'à l'océan Atlantique. »",
+      "pt": "Depois do piquenique, Irlan tirou seu mapa: « Olha, Íris: o Loire faz como uma grande serpente através da França. Vai do Maciço Central até o oceano Atlântico. »"
+    },
+    {
+      "id": 5,
+      "fr": "Le soir, en rentrant, Iris a dit : « J'ai passé le meilleur été de ma vie, et on n'est même pas encore partis à la mer ! » Irlan a souri : « Attends de voir l'océan, ma puce. »",
+      "pt": "À noite, ao voltar, Íris disse: « Passei o melhor verão da minha vida, e nem fomos ao mar ainda! » Irlan sorriu: « Espera para ver o oceano, minha flor. »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "le bord",
+      "definitionPt": "a margem, a beira",
+      "definitionFr": "Ligne qui limite un lieu, une eau.",
+      "inflections": ["le bord", "un bord", "des bords"],
+      "ptTargets": ["margem", "beira"],
+      "examples": [
+        { "level": "A1", "fr": "Le bord de l'eau est calme.", "pt": "A beira d'água é calma." },
+        { "level": "A2-B1", "fr": "Les familles viennent au bord de la Loire.", "pt": "As famílias vêm à margem do Loire." },
+        { "level": "B1", "fr": "Le bord de l'eau où nous avons pique-niqué est joli.", "pt": "A margem onde fizemos piquenique é bonita." },
+        { "level": "C1-C2", "fr": "Le bord du fleuve, frontière douce, invite à la fois au repos et au voyage.", "pt": "A margem do rio, fronteira suave, convida ao descanso e à viagem." }
+      ]
+    },
+    {
+      "term": "se baigner",
+      "definitionPt": "nadar, banhar-se",
+      "definitionFr": "Se mettre dans l'eau pour se rafraîchir.",
+      "inflections": ["je me baigne", "tu te baignes", "il se baigne", "nous nous baignons"],
+      "ptTargets": ["nadar", "banhar-se"],
+      "examples": [
+        { "level": "A1", "fr": "Je me baigne dans la piscine.", "pt": "Eu nado na piscina." },
+        { "level": "A2-B1", "fr": "On se baigne seulement dans les zones surveillées.", "pt": "Nada-se somente nas áreas vigiadas." },
+        { "level": "B1", "fr": "La zone où l'on se baigne est indiquée.", "pt": "A área onde se nada é indicada." },
+        { "level": "C1-C2", "fr": "Se baigner dans la Loire, c'est toucher la France du bout des doigts.", "pt": "Banhar-se no Loire é tocar a França com a ponta dos dedos." }
+      ]
+    },
+    {
+      "term": "le sable",
+      "definitionPt": "a areia",
+      "definitionFr": "Petits grains qui couvrent les plages.",
+      "inflections": ["le sable", "du sable"],
+      "ptTargets": ["areia"],
+      "examples": [
+        { "level": "A1", "fr": "Le sable est chaud.", "pt": "A areia é quente." },
+        { "level": "A2-B1", "fr": "Il y a des plages de sable en ville.", "pt": "Há praias de areia na cidade." },
+        { "level": "B1", "fr": "Le sable où nous jouions était doré.", "pt": "A areia onde brincávamos era dourada." },
+        { "level": "C1-C2", "fr": "Le sable, million de grains, garde les empreintes d'un été entier.", "pt": "A areia, milhão de grãos, guarda as pegadas de um verão inteiro." }
+      ]
+    },
+    {
+      "term": "le courant",
+      "definitionPt": "a correnteza",
+      "definitionFr": "Mouvement de l'eau qui coule.",
+      "inflections": ["le courant", "un courant", "des courants"],
+      "ptTargets": ["correnteza"],
+      "examples": [
+        { "level": "A1", "fr": "Le courant est fort.", "pt": "A correnteza é forte." },
+        { "level": "A2-B1", "fr": "La Loire a des courants dangereux.", "pt": "O Loire tem correntezas perigosas." },
+        { "level": "B1", "fr": "Le courant qui pousse l'eau est invisible mais puissant.", "pt": "A correnteza que empurra a água é invisível mas poderosa." },
+        { "level": "C1-C2", "fr": "Le courant, muscle du fleuve, emporte ce que l'on sous-estime.", "pt": "A correnteza, músculo do rio, leva o que se subestima." }
+      ]
+    },
+    {
+      "term": "se rafraîchir",
+      "definitionPt": "refrescar-se",
+      "definitionFr": "Devenir plus frais.",
+      "inflections": ["je me rafraîchis", "tu te rafraîchis", "il se rafraîchit", "nous nous rafraîchissons"],
+      "ptTargets": ["refrescar-se"],
+      "examples": [
+        { "level": "A1", "fr": "Je me rafraîchis avec de l'eau.", "pt": "Eu me refresco com água." },
+        { "level": "A2-B1", "fr": "On vient au bord du fleuve pour se rafraîchir.", "pt": "Vem-se à margem do rio para se refrescar." },
+        { "level": "B1", "fr": "L'eau fraîche nous a rafraîchis.", "pt": "A água fresca nos refrescou." },
+        { "level": "C1-C2", "fr": "Se rafraîchir, c'est reprendre souffle avant la reprise.", "pt": "Refrescar-se é retomar o fôlego antes da retomada." }
+      ]
+    },
+    {
+      "term": "la vague",
+      "definitionPt": "a onda",
+      "definitionFr": "Mouvement de l'eau qui monte.",
+      "inflections": ["la vague", "une vague", "des vagues"],
+      "ptTargets": ["onda"],
+      "examples": [
+        { "level": "A1", "fr": "La vague est grande.", "pt": "A onda é grande." },
+        { "level": "A2-B1", "fr": "À la place des vagues, il y a des châteaux.", "pt": "No lugar das ondas, há castelos." },
+        { "level": "B1", "fr": "Les vagues que l'on voit à la mer sont fortes.", "pt": "As ondas que se veem no mar são fortes." },
+        { "level": "C1-C2", "fr": "La vague, dos de l'océan, porte les rêves des enfants.", "pt": "A onda, dorso do oceano, carrega os sonhos das crianças." }
+      ]
+    },
+    {
+      "term": "surveillé",
+      "definitionPt": "vigiado",
+      "definitionFr": "Protégé par un garde, contrôlé.",
+      "inflections": ["surveillé", "surveillée", "surveillés", "surveillées"],
+      "ptTargets": ["vigiado"],
+      "examples": [
+        { "level": "A1", "fr": "La plage est surveillée.", "pt": "A praia é vigiada." },
+        { "level": "A2-B1", "fr": "On se baigne dans les zones surveillées.", "pt": "Nada-se nas áreas vigiadas." },
+        { "level": "B1", "fr": "La zone surveillée par les sauveteurs est sûre.", "pt": "A área vigiada pelos salva-vidas é segura." },
+        { "level": "C1-C2", "fr": "Surveillée, la baignade devient un plaisir sans peur.", "pt": "Vigiada, a natação vira um prazer sem medo." }
+      ]
+    },
+    {
+      "term": "la baignade",
+      "definitionPt": "o banho (de rio ou mar)",
+      "definitionFr": "Action de se baigner.",
+      "inflections": ["la baignade", "une baignade", "des baignades"],
+      "ptTargets": ["banho"],
+      "examples": [
+        { "level": "A1", "fr": "La baignade est agréable.", "pt": "O banho é agradável." },
+        { "level": "A2-B1", "fr": "La baignade est interdite ici.", "pt": "O banho é proibido aqui." },
+        { "level": "B1", "fr": "La baignade que nous avons faite était fraîche.", "pt": "O banho que tomamos foi fresco." },
+        { "level": "C1-C2", "fr": "La baignade, cérémonie de l'été, lave la chaleur du jour.", "pt": "O banho, cerimônia do verão, lava o calor do dia." }
+      ]
+    },
+    {
+      "term": "le serpent",
+      "definitionPt": "a serpente",
+      "definitionFr": "Animal long sans pattes.",
+      "inflections": ["le serpent", "un serpent", "des serpents"],
+      "ptTargets": ["serpente"],
+      "examples": [
+        { "level": "A1", "fr": "Le serpent est long.", "pt": "A serpente é comprida." },
+        { "level": "A2-B1", "fr": "La Loire fait comme un serpent.", "pt": "O Loire faz como uma serpente." },
+        { "level": "B1", "fr": "Le serpent que dessine le fleuve traverse la France.", "pt": "A serpente que o rio desenha atravessa a França." },
+        { "level": "C1-C2", "fr": "Le serpent d'argent du fleuve glisse vers l'océan depuis des siècles.", "pt": "A serpente de prata do rio desliza rumo ao oceano há séculos." }
+      ]
+    },
+    {
+      "term": "l'océan",
+      "definitionPt": "o oceano",
+      "definitionFr": "Immense étendue d'eau salée.",
+      "inflections": ["l'océan", "un océan", "des océans"],
+      "ptTargets": ["oceano"],
+      "examples": [
+        { "level": "A1", "fr": "L'océan est immense.", "pt": "O oceano é imenso." },
+        { "level": "A2-B1", "fr": "La Loire se jette dans l'océan Atlantique.", "pt": "O Loire desagua no oceano Atlântico." },
+        { "level": "B1", "fr": "L'océan où arrive la Loire est puissant.", "pt": "O oceano onde chega o Loire é poderoso." },
+        { "level": "C1-C2", "fr": "L'océan, mémoire de toutes les rivières, reçoit chaque fleuve sans le juger.", "pt": "O oceano, memória de todos os rios, recebe cada rio sem julgá-lo." }
+      ]
+    },
+    {
+      "term": "le pique-nique",
+      "definitionPt": "o piquenique",
+      "definitionFr": "Repas pris en plein air.",
+      "inflections": ["le pique-nique", "un pique-nique", "des pique-niques"],
+      "ptTargets": ["piquenique"],
+      "examples": [
+        { "level": "A1", "fr": "Le pique-nique est prêt.", "pt": "O piquenique está pronto." },
+        { "level": "A2-B1", "fr": "Après le pique-nique, Irlan a sorti sa carte.", "pt": "Depois do piquenique, Irlan tirou seu mapa." },
+        { "level": "B1", "fr": "Le pique-nique que nous avons fait était parfait.", "pt": "O piquenique que fizemos foi perfeito." },
+        { "level": "C1-C2", "fr": "Le pique-nique, festin nomade, transforme le sable en nappe.", "pt": "O piquenique, festim nômade, transforma a areia em toalha." }
+      ]
+    },
+    {
+      "term": "le centre-ville",
+      "definitionPt": "o centro da cidade",
+      "definitionFr": "Partie centrale d'une ville.",
+      "inflections": ["le centre-ville", "un centre-ville", "des centres-villes"],
+      "ptTargets": ["centro da cidade"],
+      "examples": [
+        { "level": "A1", "fr": "Le centre-ville est animé.", "pt": "O centro da cidade é animado." },
+        { "level": "A2-B1", "fr": "Il y a des plages en plein centre-ville.", "pt": "Há praias bem no centro da cidade." },
+        { "level": "B1", "fr": "Le centre-ville où nous marchons est joli.", "pt": "O centro da cidade onde andamos é bonito." },
+        { "level": "C1-C2", "fr": "Le centre-ville, cœur battant, mêle la pierre et le sable.", "pt": "O centro da cidade, coração pulsante, mistura pedra e areia." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "titleFr": "Le superlatif relatif et l'expression du danger",
+    "titlePt": "O superlativo relativo e a expressão do perigo",
+    "points": [
+      {
+        "fr": "Le superlatif : « le meilleur été, la plus belle plage, les zones les plus sûres ». Exemple : « J'ai passé le meilleur été de ma vie. »",
+        "pt": "O superlativo: « le meilleur été » (o melhor verão), « la plus belle plage » (a praia mais bonita), « les zones les plus sûres » (as áreas mais seguras). Exemplo: « Passei o melhor verão da minha vida. »"
+      },
+      {
+        "fr": "Exprimer le danger : « attention, c'est dangereux, c'est interdit, il faut faire attention ». Exemple : « La Loire a des courants forts, il faut faire attention. »",
+        "pt": "Expressar perigo: « attention » (cuidado), « c'est dangereux » (é perigoso), « c'est interdit » (é proibido), « il faut faire attention » (é preciso ter cuidado). Exemplo: « O Loire tem correntezas fortes, é preciso ter cuidado. »"
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Qu'est-ce qu'il y a en plein centre-ville de Tours ?",
+      "options": ["Des plages de sable", "Des montagnes", "Un désert", "Un glacier"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Où peut-on se baigner ?",
+      "options": ["Dans les zones surveillées", "Partout", "Jamais", "Seulement la nuit"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Qu'est-ce que la Loire traverse selon Irlan ?",
+      "options": ["Toute la France", "Seulement Tours", "Les montagnes", "Le désert"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Où la Loire se jette-t-elle ?",
+      "options": ["Dans l'océan Atlantique", "Dans la Méditerranée", "Dans la Manche", "Dans un lac"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Qu'est-ce qu'Iris a dit à propos de son été ?",
+      "options": ["C'est le meilleur de sa vie", "C'est ennuyeux", "Il fait trop froid", "Elle veut partir"],
+      "correctIndex": 0
+    }
+  ]
+}

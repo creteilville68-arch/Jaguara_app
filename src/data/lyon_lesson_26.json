@@ -1,0 +1,257 @@
+{
+  "id": "lyon_lesson_26",
+  "cityId": "lyon",
+  "domain": "Arte & Cultura",
+  "level": "Intermediário (B2+)",
+  "titleFr": "Le musée des Beaux-Arts : le petit Louvre lyonnais",
+  "titlePt": "O musée des Beaux-Arts: o pequeno Louvre lionense",
+  "subtitleFr": "Découvrir le musée avec le subjonctif présent",
+  "subtitlePt": "Descobrir o museu com o subjuntivo presente",
+  "summaryPt": "Instalado num antigo palácio de abadias, o musée des Beaux-Arts de Lyon é um dos maiores museus de França. De Rubens a Picasso, ele guarda tesouros de todos os séculos. Para Irlan, geógrafo, uma pintura é um mapa da alma. Nesta aula B2+, o subjonctif présent acompanha essa visita artística.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "« C'est l'ancien palais de Saint-Pierre, une abbaye du XVIIe siècle », dit Andréa. Irlan regarda la cour intérieure : « Il est rare qu'un musée soit aussi beau que son contenu. » Les cloîtres étaient remplis de sculptures.",
+      "pt": "« É o antigo palácio de Saint-Pierre, uma abadia do século XVII », disse Andréa. Irlan olhou o pátio interno: « É raro que um museu seja tão bonito quanto seu conteúdo. » Os claustros estavam cheios de esculturas."
+    },
+    {
+      "id": 2,
+      "fr": "Le musée des Beaux-Arts de Lyon est l'un des plus grands de France. « Il est important que vous preniez le temps de voir les salles de peinture », conseilla une guide. Irlan découvrit des toiles de Monet, de Rodin, de Picasso.",
+      "pt": "O musée des Beaux-Arts de Lyon é um dos maiores da França. « É importante que vocês tenham tempo de ver as salas de pintura », aconselhou uma guia. Irlan descobriu telas de Monet, de Rodin, de Picasso."
+    },
+    {
+      "id": 3,
+      "fr": "Dans la salle des sculptures, Íris fit le tour des marbres blancs. « Il est drôle qu'ils soient si froids, mais si vivants », dit-elle. Irlan sourit : « C'est l'art qui réchauffe la pierre. »",
+      "pt": "Na sala das esculturas, Íris deu a volta nos mármores brancos. « É engraçado que eles sejam tão frios, mas tão vivos », disse ela. Irlan sorriu: « É a arte que aquece a pedra. »"
+    },
+    {
+      "id": 4,
+      "fr": "« Il faut que je revienne ici cent fois », dit Irlan, devant un tableau de Monet. Andréa ajouta : « Il suffit que tu reviennes, ce sera toujours différent. Chaque visite, on voit ce qu'on n'avait pas vu. »",
+      "pt": "« Preciso voltar aqui cem vezes », disse Irlan, diante de um quadro de Monet. Andréa acrescentou: « Basta você voltar, será sempre diferente. A cada visita, vê-se o que não se tinha visto. »"
+    },
+    {
+      "id": 5,
+      "fr": "Le soir, Irlan écrivit : « J'ai découvert que la peinture est une géographie de l'âme : chaque toile est un paysage intérieur. Il est temps que j'apprenne à lire ces cartes-là aussi. »",
+      "pt": "À noite, Irlan escreveu: « Descobri que a pintura é uma geografia da alma: cada tela é uma paisagem interior. Está na hora de eu aprender a ler também esses mapas. »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "l'abbaye",
+      "definitionPt": "abadia",
+      "definitionFr": "Monastère dirigé par un abbé.",
+      "inflections": ["l'abbaye", "des abbayes"],
+      "ptTargets": ["abadia", "abadias"],
+      "examples": [
+        { "level": "A1", "fr": "L'abbaye est ancienne.", "pt": "A abadia é antiga." },
+        { "level": "A2-B1", "fr": "L'abbaye est devenue un musée.", "pt": "A abadia virou um museu." },
+        { "level": "B1-B2", "fr": "L'abbaye de Saint-Pierre, du XVIIe siècle, abrite le musée des Beaux-Arts.", "pt": "A abadia de Saint-Pierre, do século XVII, abriga o museu de Belas Artes." },
+        { "level": "C1-C2", "fr": "C'est l'abbaye qui donne au musée son atmosphère de recueillement.", "pt": "É a abadia que dá ao museu sua atmosfera de recolhimento." }
+      ]
+    },
+    {
+      "term": "le cloître",
+      "definitionPt": "claustro",
+      "definitionFr": "Galerie couverte autour d'une cour de monastère.",
+      "inflections": ["le cloître", "des cloîtres"],
+      "ptTargets": ["claustro", "claustros"],
+      "examples": [
+        { "level": "A1", "fr": "Le cloître est calme.", "pt": "O claustro é calmo." },
+        { "level": "A2-B1", "fr": "Les cloîtres sont remplis de sculptures.", "pt": "Os claustros estão cheios de esculturas." },
+        { "level": "B1-B2", "fr": "Les cloîtres, ornés de statues, invitent à la promenade silencieuse.", "pt": "Os claustros, ornados de estátuas, convidam ao passeio silencioso." },
+        { "level": "C1-C2", "fr": "C'est dans le cloître que le musée déploie sa plus belle lumière.", "pt": "É no claustro que o museu desdobra sua mais bela luz." }
+      ]
+    },
+    {
+      "term": "la sculpture",
+      "definitionPt": "escultura",
+      "definitionFr": "Œuvre d'art en trois dimensions.",
+      "inflections": ["la sculpture", "des sculptures"],
+      "ptTargets": ["escultura", "esculturas"],
+      "examples": [
+        { "level": "A1", "fr": "La sculpture est en marbre.", "pt": "A escultura é de mármore." },
+        { "level": "A2-B1", "fr": "Les sculptures remplissent les cloîtres.", "pt": "As esculturas enchem os claustros." },
+        { "level": "B1-B2", "fr": "Les sculptures de Rodin, puissantes, donnent vie au bronze.", "pt": "As esculturas de Rodin, potentes, dão vida ao bronze." },
+        { "level": "C1-C2", "fr": "C'est la sculpture qui donne au geste humain son éternité.", "pt": "É a escultura que dá ao gesto humano sua eternidade." }
+      ]
+    },
+    {
+      "term": "le tableau",
+      "definitionPt": "quadro, tela",
+      "definitionFr": "Peinture encadrée.",
+      "inflections": ["le tableau", "des tableaux"],
+      "ptTargets": ["quadro", "tela", "quadros"],
+      "examples": [
+        { "level": "A1", "fr": "Le tableau est beau.", "pt": "O quadro é bonito." },
+        { "level": "A2-B1", "fr": "Le musée montre des tableaux de Monet.", "pt": "O museu mostra quadros de Monet." },
+        { "level": "B1-B2", "fr": "Les tableaux, accrochés aux murs, racontent des siècles de regards.", "pt": "Os quadros, pendurados nas paredes, contam séculos de olhares." },
+        { "level": "C1-C2", "fr": "C'est le tableau qui transforme un mur en fenêtre sur le monde.", "pt": "É o quadro que transforma uma parede em janela para o mundo." }
+      ]
+    },
+    {
+      "term": "la toile",
+      "definitionPt": "tela",
+      "definitionFr": "Peinture sur tissu.",
+      "inflections": ["la toile", "des toiles"],
+      "ptTargets": ["tela", "telas"],
+      "examples": [
+        { "level": "A1", "fr": "La toile est grande.", "pt": "A tela é grande." },
+        { "level": "A2-B1", "fr": "La toile de Monet est célèbre.", "pt": "A tela de Monet é famosa." },
+        { "level": "B1-B2", "fr": "Les toiles, exposées dans les salles, attirent des visiteurs du monde entier.", "pt": "As telas, expostas nas salas, atraem visitantes do mundo inteiro." },
+        { "level": "C1-C2", "fr": "C'est la toile qui garde la mémoire du geste du peintre.", "pt": "É a tela que guarda a memória do gesto do pintor." }
+      ]
+    },
+    {
+      "term": "le marbre",
+      "definitionPt": "mármore",
+      "definitionFr": "Pierre précieuse et dure, souvent blanche.",
+      "inflections": ["le marbre", "des marbres"],
+      "ptTargets": ["mármore", "mármores"],
+      "examples": [
+        { "level": "A1", "fr": "Le marbre est blanc.", "pt": "O mármore é branco." },
+        { "level": "A2-B1", "fr": "Les sculptures sont en marbre.", "pt": "As esculturas são de mármore." },
+        { "level": "B1-B2", "fr": "Le marbre, poli par les siècles, brille sous la lumière.", "pt": "O mármore, polido pelos séculos, brilha sob a luz." },
+        { "level": "C1-C2", "fr": "C'est le marbre qui donne aux statues leur immobilité éternelle.", "pt": "É o mármore que dá às estátuas sua imobilidade eterna." }
+      ]
+    },
+    {
+      "term": "la peinture",
+      "definitionPt": "pintura",
+      "definitionFr": "Art de peindre ; tableau.",
+      "inflections": ["la peinture", "des peintures"],
+      "ptTargets": ["pintura", "pinturas"],
+      "examples": [
+        { "level": "A1", "fr": "La peinture est colorée.", "pt": "A pintura é colorida." },
+        { "level": "A2-B1", "fr": "Les salles de peinture sont nombreuses.", "pt": "As salas de pintura são numerosas." },
+        { "level": "B1-B2", "fr": "La peinture, de la Renaissance à l'art moderne, traverse tous les siècles.", "pt": "A pintura, do Renascimento à arte moderna, atravessa todos os séculos." },
+        { "level": "C1-C2", "fr": "C'est la peinture qui apprend à voir le monde autrement.", "pt": "É a pintura que ensina a ver o mundo de outro jeito." }
+      ]
+    },
+    {
+      "term": "le musée",
+      "definitionPt": "museu",
+      "definitionFr": "Lieu où l'on expose des œuvres d'art.",
+      "inflections": ["le musée", "des musées"],
+      "ptTargets": ["museu", "museus"],
+      "examples": [
+        { "level": "A1", "fr": "Le musée est grand.", "pt": "O museu é grande." },
+        { "level": "A2-B1", "fr": "Le musée des Beaux-Arts est célèbre.", "pt": "O museu de Belas Artes é famoso." },
+        { "level": "B1-B2", "fr": "Le musée, installé dans une abbaye, est l'un des plus grands de France.", "pt": "O museu, instalado numa abadia, é um dos maiores da França." },
+        { "level": "C1-C2", "fr": "C'est le musée qui garde la mémoire visuelle d'une civilisation.", "pt": "É o museu que guarda a memória visual de uma civilização." }
+      ]
+    },
+    {
+      "term": "réchauffer",
+      "definitionPt": "aquecer, esquentar",
+      "definitionFr": "Rendre chaud.",
+      "inflections": ["je réchauffe", "réchauffer", "réchauffe"],
+      "ptTargets": ["aquecer", "esquentar", "aquece"],
+      "examples": [
+        { "level": "A1", "fr": "Je réchauffe la soupe.", "pt": "Esquento a sopa." },
+        { "level": "A2-B1", "fr": "L'art réchauffe la pierre.", "pt": "A arte aquece a pedra." },
+        { "level": "B1-B2", "fr": "La lumière, douce, réchauffe les marbres froids du musée.", "pt": "A luz, suave, aquece os mármores frios do museu." },
+        { "level": "C1-C2", "fr": "C'est en réchauffant les matières que l'artiste leur donne une âme.", "pt": "É aquecendo as matérias que o artista lhes dá uma alma." }
+      ]
+    },
+    {
+      "term": "la cour intérieure",
+      "definitionPt": "pátio interno",
+      "definitionFr": "Espace ouvert à l'intérieur d'un bâtiment.",
+      "inflections": ["la cour intérieure", "des cours intérieures"],
+      "ptTargets": ["pátio interno", "pátios internos"],
+      "examples": [
+        { "level": "A1", "fr": "La cour est jolie.", "pt": "O pátio é bonito." },
+        { "level": "A2-B1", "fr": "La cour intérieure est fleurie.", "pt": "O pátio interno é florido." },
+        { "level": "B1-B2", "fr": "La cour intérieure, entourée de cloîtres, est un havre de silence.", "pt": "O pátio interno, cercado de claustros, é um refúgio de silêncio." },
+        { "level": "C1-C2", "fr": "C'est dans la cour intérieure que se respire l'âme du lieu.", "pt": "É no pátio interno que se respira a alma do lugar." }
+      ]
+    },
+    {
+      "term": "l'art moderne",
+      "definitionPt": "arte moderna",
+      "definitionFr": "Art des XIXe et XXe siècles, souvent audacieux.",
+      "inflections": ["l'art moderne"],
+      "ptTargets": ["arte moderna"],
+      "examples": [
+        { "level": "A1", "fr": "L'art moderne est surprenant.", "pt": "A arte moderna é surpreendente." },
+        { "level": "A2-B1", "fr": "Le musée expose de l'art moderne.", "pt": "O museu expõe arte moderna." },
+        { "level": "B1-B2", "fr": "L'art moderne, de Picasso à nos jours, dialogue avec les maîtres anciens.", "pt": "A arte moderna, de Picasso aos nossos dias, dialoga com os mestres antigos." },
+        { "level": "C1-C2", "fr": "C'est l'art moderne qui a libéré la couleur et la forme.", "pt": "É a arte moderna que libertou a cor e a forma." }
+      ]
+    },
+    {
+      "term": "la salle",
+      "definitionPt": "sala",
+      "definitionFr": "Pièce d'un bâtiment.",
+      "inflections": ["la salle", "des salles"],
+      "ptTargets": ["sala", "salas"],
+      "examples": [
+        { "level": "A1", "fr": "La salle est claire.", "pt": "A sala é clara." },
+        { "level": "A2-B1", "fr": "La salle des sculptures est immense.", "pt": "A sala das esculturas é imensa." },
+        { "level": "B1-B2", "fr": "Les salles, en enfilade, guident le visiteur à travers les époques.", "pt": "As salas, em sequência, guiam o visitante através das épocas." },
+        { "level": "C1-C2", "fr": "C'est de salle en salle que se construit le parcours du regard.", "pt": "É de sala em sala que se constrói o percurso do olhar." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Le subjonctif présent au musée des Beaux-Arts",
+    "explanationPt": "O subjonctif presente expressa reações e necessidades: 'il est rare qu'un musée soit aussi beau' (é raro que um museu seja), 'il est important que vous preniez le temps' (é importante que vocês tenham tempo), 'il est drôle qu'ils soient si froids' (é engraçado que sejam tão frios), 'il faut que je revienne'.",
+    "exampleFr": "Il est rare qu'un musée soit aussi beau que son contenu ; il faut que je revienne ici cent fois.",
+    "examplePt": "É raro que um museu seja tão bonito quanto seu conteúdo; preciso voltar aqui cem vezes.",
+    "practiceQuestion": "Complete: « Il est rare qu'un musée ___ aussi beau. »",
+    "options": ["soit", "est", "sera"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "Il est rare que + subjonctif",
+        "explanationPt": "'Il est rare qu'un musée soit aussi beau' : a exceção dispara o subjonctif. Être → que ... soit.",
+        "exampleFr": "Il est rare qu'un musée soit aussi beau que son contenu.",
+        "examplePt": "É raro que um museu seja tão bonito quanto seu conteúdo.",
+        "practiceQuestion": "Complete: « Il est rare qu'un musée ___ si beau. »",
+        "options": ["soit", "est", "serait"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "Il est temps que + subjonctif",
+        "explanationPt": "'Il est temps que j'apprenne à lire ces cartes' : chegou a hora de eu aprender. Apprendre → que j'apprenne.",
+        "exampleFr": "Il est temps que j'apprenne à lire ces cartes-là aussi.",
+        "examplePt": "Está na hora de eu aprender a ler também esses mapas.",
+        "practiceQuestion": "Complete: « Il est temps que j'___ à lire ces cartes. »",
+        "options": ["apprenne", "apprends", "apprendrai"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Complete: « Il est rare qu'un musée ___ aussi beau. »",
+      "options": ["soit", "est", "sera"],
+      "correctIndex": 0,
+      "explanation": "Subjonctif após il est rare que."
+    },
+    {
+      "question": "O que era o prédio do museu?",
+      "options": ["Uma abadia do século XVII", "Um castelo medieval", "Uma fábrica de seda"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'l'ancien palais de Saint-Pierre, une abbaye du XVIIe siècle'."
+    },
+    {
+      "question": "Qual pintor NÃO é citado no texto?",
+      "options": ["Van Gogh", "Monet", "Picasso"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'des toiles de Monet, de Rodin, de Picasso'."
+    },
+    {
+      "question": "O que Íris achou das esculturas?",
+      "options": ["Que são frias mas vivas", "Que são muito grandes", "Que são coloridas"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'Il est drôle qu'ils soient si froids, mais si vivants.'"
+    },
+    {
+      "question": "O que Irlan descobriu sobre a pintura?",
+      "options": ["Que é uma geografia da alma", "Que é difícil de entender", "Que só os artistas podem apreciá-la"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'la peinture est une géographie de l'âme'."
+    }
+  ]
+}

@@ -1,0 +1,252 @@
+{
+  "id": "mont_saint_michel_lesson_3",
+  "cityId": "mont-saint-michel",
+  "domain": "Natureza",
+  "level": "Básico (A2/B1)",
+  "titleFr": "La marée montante : quand la mer reprend la baie",
+  "titlePt": "A maré enchente: quando o mar retoma a baía",
+  "subtitleFr": "L'eau qui avance plus vite qu'un cheval et la leçon de géographie d'Irlan",
+  "subtitlePt": "A água que avança mais rápido que um cavalo e a lição de geografia do Irlan",
+  "summaryPt": "Nesta Aula 3 (A2/B1), a família assiste à maré subir: a água avança pela baía mais rápido do que um cavalo galopa. Irlan explica o perigo da maré e a família se afasta da grève. O aluno aprende o contraste entre Imparfait (pano de fundo: la marée montait) e Passé Composé (ação pontual: la marée a recouvert le chemin), além do conector 'pendant que'.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Pendant que nous marchions sur la grève, la marée a commencé à monter. L'eau avançait vite, très vite, sur le sable.",
+      "pt": "Enquanto caminhávamos no areal, a maré começou a subir. A água avançava rápido, muito rápido, sobre a areia."
+    },
+    {
+      "id": 2,
+      "fr": "Irlan a crié : « Revenez ! Ici, la marée avance plus vite qu'un cheval au galop ! » Nous avons couru vers la route.",
+      "pt": "Irlan gritou: « Voltem! Aqui, a maré avança mais rápido que um cavalo a galope! » Corremos em direção à estrada."
+    },
+    {
+      "id": 3,
+      "fr": "Soudain, la marée a recouvert le chemin que nous avions pris. L'eau était froide, mais nous étions déjà en sécurité.",
+      "pt": "De repente, a maré cobriu o caminho que tínhamos tomado. A água estava fria, mas já estávamos em segurança."
+    },
+    {
+      "id": 4,
+      "fr": "Andréa a dit : « Merci, géographe ! » Irlan a souri : « Les marées sont dangereuses, il faut toujours les respecter. »",
+      "pt": "Andréa disse: « Obrigada, geógrafo! » Irlan sorriu: « As marés são perigosas, é preciso sempre respeitá-las. »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "la marée haute",
+      "definitionPt": "a maré alta",
+      "definitionFr": "Moment où la mer est au plus haut.",
+      "inflections": ["la marée haute"],
+      "ptTargets": ["maré alta"],
+      "examples": [
+        { "level": "A1", "fr": "À marée haute, l'eau monte.", "pt": "Na maré alta, a água sobe." },
+        { "level": "A2-B1", "fr": "À marée haute, le rocher devient une île.", "pt": "Na maré alta, o rochedo vira uma ilha." },
+        { "level": "B2", "fr": "La marée haute recouvre entièrement la grève.", "pt": "A maré alta cobre totalmente o areal." },
+        { "level": "C1-C2", "fr": "La marée haute transforme radicalement le paysage et l'accessibilité du site.", "pt": "A maré alta transforma radicalmente a paisagem e a acessibilidade do sítio." }
+      ]
+    },
+    {
+      "term": "la marée basse",
+      "definitionPt": "a maré baixa",
+      "definitionFr": "Moment où la mer est au plus bas.",
+      "inflections": ["la marée basse"],
+      "ptTargets": ["maré baixa"],
+      "examples": [
+        { "level": "A1", "fr": "À marée basse, le sable est visible.", "pt": "Na maré baixa, a areia fica visível." },
+        { "level": "A2-B1", "fr": "Nous avons marché sur la grève à marée basse.", "pt": "Caminhamos no areal na maré baixa." },
+        { "level": "B2", "fr": "À marée basse, la baie découvre des kilomètres de sable.", "pt": "Na maré baixa, a baía revela quilômetros de areia." },
+        { "level": "C1-C2", "fr": "L'alternance des marées basses et hautes rythme toute la vie de la baie.", "pt": "A alternância das marés baixas e altas marca toda a vida da baía." }
+      ]
+    },
+    {
+      "term": "l'eau",
+      "definitionPt": "a água",
+      "definitionFr": "Liquide qui forme les mers et les rivières.",
+      "inflections": ["l'eau", "les eaux"],
+      "ptTargets": ["água"],
+      "examples": [
+        { "level": "A1", "fr": "L'eau est froide.", "pt": "A água é fria." },
+        { "level": "A2-B1", "fr": "L'eau avançait très vite sur le sable.", "pt": "A água avançava muito rápido sobre a areia." },
+        { "level": "B2", "fr": "L'eau de la baie est peu profonde mais extrêmement dangereuse.", "pt": "A água da baía é rasa, mas extremamente perigosa." },
+        { "level": "C1-C2", "fr": "La vitesse de montée des eaux dans la baie surprend même les visiteurs avertis.", "pt": "A velocidade da subida das águas na baía surpreende até os visitantes avisados." }
+      ]
+    },
+    {
+      "term": "le sable",
+      "definitionPt": "a areia",
+      "definitionFr": "Petits grains qui couvrent les plages.",
+      "inflections": ["le sable", "les sables"],
+      "ptTargets": ["areia"],
+      "examples": [
+        { "level": "A1", "fr": "Le sable est chaud.", "pt": "A areia está quente." },
+        { "level": "A2-B1", "fr": "Le sable de la baie était humide.", "pt": "A areia da baía estava úmida." },
+        { "level": "B2", "fr": "Le sable mouillé reflète la lumière du ciel.", "pt": "A areia molhada reflete a luz do céu." },
+        { "level": "C1-C2", "fr": "La composition des sables de la baie explique leur instabilité naturelle.", "pt": "A composição das areias da baía explica sua instabilidade natural." }
+      ]
+    },
+    {
+      "term": "le chemin",
+      "definitionPt": "o caminho",
+      "definitionFr": "Voie, itinéraire.",
+      "inflections": ["le chemin", "les chemins"],
+      "ptTargets": ["caminho"],
+      "examples": [
+        { "level": "A1", "fr": "Le chemin est long.", "pt": "O caminho é longo." },
+        { "level": "A2-B1", "fr": "La marée a recouvert le chemin.", "pt": "A maré cobriu o caminho." },
+        { "level": "B2", "fr": "Le chemin vers le rocher change à chaque marée.", "pt": "O caminho até o rochedo muda a cada maré." },
+        { "level": "C1-C2", "fr": "Les chemins de la baie sont redessinés en permanence par les courants.", "pt": "Os caminhos da baía são redesenhados permanentemente pelas correntes." }
+      ]
+    },
+    {
+      "term": "le pied",
+      "definitionPt": "o pé",
+      "definitionFr": "Partie du corps ; à pied : en marchant.",
+      "inflections": ["le pied", "les pieds"],
+      "ptTargets": ["pé"],
+      "examples": [
+        { "level": "A1", "fr": "Je marche à pied.", "pt": "Eu ando a pé." },
+        { "level": "A2-B1", "fr": "La traversée à pied de la baie se fait avec un guide.", "pt": "A travessia a pé da baía se faz com um guia." },
+        { "level": "B2", "fr": "Les pieds dans l'eau froide, nous avons couru vers la route.", "pt": "Com os pés na água fria, corremos para a estrada." },
+        { "level": "C1-C2", "fr": "Marcher à pied dans la baie exige de connaître parfaitement les horaires des marées.", "pt": "Caminhar a pé na baía exige conhecer perfeitamente os horários das marés." }
+      ]
+    },
+    {
+      "term": "soudain",
+      "definitionPt": "de repente, subitamente",
+      "definitionFr": "Tout à coup, sans prévenir.",
+      "inflections": ["soudain"],
+      "ptTargets": ["de repente"],
+      "examples": [
+        { "level": "A1", "fr": "Soudain, il pleut.", "pt": "De repente, chove." },
+        { "level": "A2-B1", "fr": "Soudain, la marée a recouvert le chemin.", "pt": "De repente, a maré cobriu o caminho." },
+        { "level": "B2", "fr": "Soudain, le vent s'est levé et les vagues ont grossi.", "pt": "De repente, o vento se levantou e as ondas cresceram." },
+        { "level": "C1-C2", "fr": "Soudain, le paysage paisible s'est transformé en spectacle grandiose.", "pt": "De repente, a paisagem pacífica transformou-se em espetáculo grandioso." }
+      ]
+    },
+    {
+      "term": "recouvrir",
+      "definitionPt": "cobrir",
+      "definitionFr": "Couvrir entièrement.",
+      "inflections": ["je recouvre", "nous recouvrons", "recouvert"],
+      "ptTargets": ["cobrir"],
+      "examples": [
+        { "level": "A1", "fr": "La neige recouvre la terre.", "pt": "A neve cobre a terra." },
+        { "level": "A2-B1", "fr": "La marée a recouvert le chemin en quelques minutes.", "pt": "A maré cobriu o caminho em poucos minutos." },
+        { "level": "B2", "fr": "L'eau a recouvert toute la grève en moins d'une heure.", "pt": "A água cobriu todo o areal em menos de uma hora." },
+        { "level": "C1-C2", "fr": "La mer recouvre et découvre la baie selon un cycle immuable de deux marées par jour.", "pt": "O mar cobre e descobre a baía segundo um ciclo imutável de duas marés por dia." }
+      ]
+    },
+    {
+      "term": "avancer",
+      "definitionPt": "avançar",
+      "definitionFr": "Aller vers l'avant.",
+      "inflections": ["j'avance", "nous avançons", "avancé"],
+      "ptTargets": ["avançar"],
+      "examples": [
+        { "level": "A1", "fr": "J'avance dans la rue.", "pt": "Eu avanço na rua." },
+        { "level": "A2-B1", "fr": "L'eau avançait plus vite que nous.", "pt": "A água avançava mais rápido que nós." },
+        { "level": "B2", "fr": "La marée avançait à la vitesse d'un cheval au galop.", "pt": "A maré avançava à velocidade de um cavalo a galope." },
+        { "level": "C1-C2", "fr": "La progression rapide des eaux dans la baie est un phénomène redouté des promeneurs.", "pt": "A progressão rápida das águas na baía é um fenômeno temido pelos caminhantes." }
+      ]
+    },
+    {
+      "term": "rapide",
+      "definitionPt": "rápido",
+      "definitionFr": "Qui va vite.",
+      "inflections": ["rapide", "rapides"],
+      "ptTargets": ["rápido"],
+      "examples": [
+        { "level": "A1", "fr": "Le train est rapide.", "pt": "O trem é rápido." },
+        { "level": "A2-B1", "fr": "La montée de la marée est très rapide ici.", "pt": "A subida da maré é muito rápida aqui." },
+        { "level": "B2", "fr": "La montée rapide de l'eau surprend les touristes chaque année.", "pt": "A subida rápida da água surpreende os turistas todos os anos." },
+        { "level": "C1-C2", "fr": "La rapidité du marnage dans cette baie constitue un danger réel et souvent sous-estimé.", "pt": "A rapidez da variação de maré nessa baía constitui um perigo real e muitas vezes subestimado." }
+      ]
+    },
+    {
+      "term": "dangereux",
+      "definitionPt": "perigoso",
+      "definitionFr": "Qui présente un danger.",
+      "inflections": ["dangereux", "dangereuse", "dangereux"],
+      "ptTargets": ["perigoso"],
+      "examples": [
+        { "level": "A1", "fr": "Le feu est dangereux.", "pt": "O fogo é perigoso." },
+        { "level": "A2-B1", "fr": "La baie est dangereuse sans guide.", "pt": "A baía é perigosa sem guia." },
+        { "level": "B2", "fr": "Traverser la baie sans guide est extrêmement dangereux.", "pt": "Atravessar a baía sem guia é extremamente perigoso." },
+        { "level": "C1-C2", "fr": "La dangerosité des sables mouvants et des marées impose des règles strictes aux promeneurs.", "pt": "A periculosidade das areias movediças e das marés impõe regras estritas aos caminhantes." }
+      ]
+    },
+    {
+      "term": "courir",
+      "definitionPt": "correr",
+      "definitionFr": "Se déplacer très vite à pied.",
+      "inflections": ["je cours", "nous courons", "couru"],
+      "ptTargets": ["correr"],
+      "examples": [
+        { "level": "A1", "fr": "Je cours dans le parc.", "pt": "Eu corro no parque." },
+        { "level": "A2-B1", "fr": "Nous avons couru vers la route.", "pt": "Corremos em direção à estrada." },
+        { "level": "B2", "fr": "Les promeneurs ont couru pour échapper à la marée.", "pt": "Os caminhantes correram para escapar da maré." },
+        { "level": "C1-C2", "fr": "Courir dans la baie en sentant l'eau monter est une expérience à la fois exaltante et effrayante.", "pt": "Correr na baía sentindo a água subir é uma experiência ao mesmo tempo exaltante e assustadora." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Contraste Imparfait et Passé Composé",
+    "explanationPt": "O Imparfait descreve o pano de fundo e a duração (la marée montait, l'eau avançait); o Passé Composé marca a ação pontual e concluída (la marée a recouvert le chemin, nous avons couru).",
+    "exampleFr": "Pendant que nous marchions, la marée a commencé à monter.",
+    "examplePt": "Enquanto caminhávamos, a maré começou a subir.",
+    "practiceQuestion": "Qual frase usa o Imparfait (pano de fundo)?",
+    "options": ["L'eau avançait sur le sable.", "L'eau a recouvert le chemin.", "Nous avons couru."],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "Le pano de fundo no Imparfait",
+        "explanationPt": "Descrição contínua: 'l'eau avançait', 'le ciel était gris', 'nous marchions'. Sempre que algo durou no passado, usamos o Imparfait.",
+        "exampleFr": "L'eau avançait vite, très vite, sur le sable.",
+        "examplePt": "A água avançava rápido, muito rápido, sobre a areia.",
+        "practiceQuestion": "Complete com o Imparfait: « La marée ___ . »",
+        "options": ["montait", "a monté", "monte"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "A ação pontual no Passé Composé",
+        "explanationPt": "Evento concluído: 'soudain, la marée a recouvert le chemin' (de repente, a maré cobriu o caminho).",
+        "exampleFr": "Soudain, la marée a recouvert le chemin.",
+        "examplePt": "De repente, a maré cobriu o caminho.",
+        "practiceQuestion": "Qual frase marca uma ação pontual concluída?",
+        "options": ["Nous avons couru vers la route.", "La marée montait.", "L'eau était froide."],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Com o que Irlan comparou a velocidade da maré?",
+      "options": ["um cavalo a galope", "um trem", "um carro de corrida"],
+      "correctIndex": 0,
+      "explanation": "Irlan gritou que a maré avança mais rápido que um cavalo a galope."
+    },
+    {
+      "question": "O que aconteceu com o caminho que a família tinha tomado?",
+      "options": ["foi coberto pela maré", "virou asfalto", "sumiu na neblina"],
+      "correctIndex": 0,
+      "explanation": "Soudain, a maré recobriu o caminho que tinham tomado."
+    },
+    {
+      "question": "Complete com o Imparfait: « L'eau ___ sur le sable. »",
+      "options": ["avançait", "a avancé", "avancera"],
+      "correctIndex": 0,
+      "explanation": "Pano de fundo contínuo: l'eau avançait."
+    },
+    {
+      "question": "Complete com o Passé Composé: « Soudain, la marée ___ le chemin. »",
+      "options": ["a recouvert", "recouvrait", "recouvre"],
+      "correctIndex": 0,
+      "explanation": "Ação pontual: la marée a recouvert."
+    },
+    {
+      "question": "Qual lição Irlan deu à família?",
+      "options": ["respeitar sempre as marés", "nunca voltar ao Mont", "nadar na baía"],
+      "correctIndex": 0,
+      "explanation": "Irlan disse que as marés são perigosas e devem ser respeitadas."
+    }
+  ]
+}

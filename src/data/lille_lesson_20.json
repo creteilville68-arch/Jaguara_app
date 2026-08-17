@@ -1,0 +1,252 @@
+{
+  "id": "lille_lesson_20",
+  "cityId": "lille",
+  "domain": "Cotidiano",
+  "level": "Básico (A2)",
+  "titleFr": "Le métro VAL : le premier métro automatique du monde",
+  "titlePt": "O metrô VAL: o primeiro metrô automático do mundo",
+  "subtitleFr": "Depuis 1983, les rames roulent sans conducteur sous Lille",
+  "subtitlePt": "Desde 1983, os trens circulam sem maquinista sob Lille",
+  "summaryPt": "Nesta Aula 20 (A2), a família descobre o metrô VAL de Lille, o primeiro metrô automático do mundo, aberto em 1983. As estações têm portas de vidro e as ramas circulam sem maquinista. Irlan compara com seus dias de livreur no trânsito. O aluno pratica a negação ne...pas e o verbo prendre.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "« Le métro de Lille s'appelle le VAL : Véhicule Automatique Léger », a expliqué Irlan. « C'est le premier métro automatique du monde, depuis 1983. »",
+      "pt": "« O metrô de Lille se chama VAL: Veículo Automático Leve », explicou Irlan. « É o primeiro metrô automático do mundo, desde 1983. »"
+    },
+    {
+      "id": 2,
+      "fr": "La rame est arrivée sans conducteur. Íris a regardé les portes en verre : « Il n'y a pas de conducteur ? » « Non, il n'y en a pas ! » a ri Andréa.",
+      "pt": "O trem chegou sem maquinista. Íris olhou as portas de vidro: « Não há maquinista? » « Não, não há! » riu Andréa."
+    },
+    {
+      "id": 3,
+      "fr": "Ils ont pris le métro jusqu'à la station République. « Je ne prends pas le métro quand je livre avec ma scooter, mais aujourd'hui, je prends le métro avec ma fille. »",
+      "pt": "Eles pegaram o metrô até a estação República. « Não pego o metrô quando entrego com minha scooter, mas hoje, pego o metrô com minha filha. »"
+    },
+    {
+      "id": 4,
+      "fr": "Le métro a filé sous la ville. « Les rames passent toutes les deux minutes », a dit Irlan. « Même la nuit, elles ne s'arrêtent pas. »",
+      "pt": "O metrô deslizou sob a cidade. « Os trens passam a cada dois minutos », disse Irlan. « Mesmo à noite, eles não param. »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "le métro",
+      "definitionPt": "o metrô",
+      "definitionFr": "Chemin de fer urbain souterrain.",
+      "inflections": ["le métro", "un métro", "des métros"],
+      "ptTargets": ["metrô"],
+      "examples": [
+        { "level": "A1", "fr": "Le métro est rapide.", "pt": "O metrô é rápido." },
+        { "level": "A2-B1", "fr": "Le métro de Lille est automatique.", "pt": "O metrô de Lille é automático." },
+        { "level": "B2", "fr": "Le métro VAL a été le premier au monde sans conducteur.", "pt": "O metrô VAL foi o primeiro do mundo sem maquinista." },
+        { "level": "C1-C2", "fr": "Sous les rues de Lille, le métro file comme un poisson dans l'eau.", "pt": "Sob as ruas de Lille, o metrô desliza como um peixe na água." }
+      ]
+    },
+    {
+      "term": "automatique",
+      "definitionPt": "automático",
+      "definitionFr": "Qui fonctionne sans intervention humaine.",
+      "inflections": ["automatique", "automatiques", "automatiquement"],
+      "ptTargets": ["automático"],
+      "examples": [
+        { "level": "A1", "fr": "La porte est automatique.", "pt": "A porta é automática." },
+        { "level": "A2-B1", "fr": "Le métro automatique n'a pas de conducteur.", "pt": "O metrô automático não tem maquinista." },
+        { "level": "B2", "fr": "Le système automatique contrôle chaque rame en temps réel.", "pt": "O sistema automático controla cada trem em tempo real." },
+        { "level": "C1-C2", "fr": "L'automatisation du métro a été une révolution mondiale née à Lille.", "pt": "A automatização do metrô foi uma revolução mundial nascida em Lille." }
+      ]
+    },
+    {
+      "term": "le conducteur",
+      "definitionPt": "o maquinista, o condutor",
+      "definitionFr": "Personne qui conduit un véhicule.",
+      "inflections": ["le conducteur", "la conductrice", "des conducteurs"],
+      "ptTargets": ["maquinista", "condutor"],
+      "examples": [
+        { "level": "A1", "fr": "Le conducteur est dans le bus.", "pt": "O motorista está no ônibus." },
+        { "level": "A2-B1", "fr": "Il n'y a pas de conducteur dans le métro VAL.", "pt": "Não há maquinista no metrô VAL." },
+        { "level": "B2", "fr": "Le conducteur du tramway salue les passagers.", "pt": "O motorista do bonde cumprimenta os passageiros." },
+        { "level": "C1-C2", "fr": "Sans conducteur, le métro a libéré les quais et les regards.", "pt": "Sem maquinista, o metrô liberou as plataformas e os olhares." }
+      ]
+    },
+    {
+      "term": "la rame",
+      "definitionPt": "o trem (de metrô)",
+      "definitionFr": "Train du métro.",
+      "inflections": ["la rame", "une rame", "des rames"],
+      "ptTargets": ["trem", "composição"],
+      "examples": [
+        { "level": "A1", "fr": "La rame arrive.", "pt": "O trem chega." },
+        { "level": "A2-B1", "fr": "La rame est arrivée sans bruit.", "pt": "O trem chegou sem ruído." },
+        { "level": "B2", "fr": "Les rames se succèdent toutes les deux minutes.", "pt": "Os trens se sucedem a cada dois minutos." },
+        { "level": "C1-C2", "fr": "La rame glisse dans le tunnel comme un éclair souterrain.", "pt": "O trem desliza no túnel como um relâmpago subterrâneo." }
+      ]
+    },
+    {
+      "term": "le verre",
+      "definitionPt": "o vidro",
+      "definitionFr": "Matière transparente et dure.",
+      "inflections": ["le verre", "un verre", "des verres"],
+      "ptTargets": ["vidro"],
+      "examples": [
+        { "level": "A1", "fr": "Le verre est transparent.", "pt": "O vidro é transparente." },
+        { "level": "A2-B1", "fr": "Les portes en verre protègent le quai.", "pt": "As portas de vidro protegem a plataforma." },
+        { "level": "B2", "fr": "Derrière les portes de verre, on voit le métro arriver.", "pt": "Atrás das portas de vidro, vê-se o metrô chegar." },
+        { "level": "C1-C2", "fr": "Le verre des quais laisse voir la ville qui file sous nos pieds.", "pt": "O vidro das plataformas deixa ver a cidade que corre sob nossos pés." }
+      ]
+    },
+    {
+      "term": "la station",
+      "definitionPt": "a estação (de metrô)",
+      "definitionFr": "Arrêt du métro.",
+      "inflections": ["la station", "une station", "des stations"],
+      "ptTargets": ["estação"],
+      "examples": [
+        { "level": "A1", "fr": "La station est proche.", "pt": "A estação é perto." },
+        { "level": "A2-B1", "fr": "Nous sommes descendus à la station République.", "pt": "Descemos na estação República." },
+        { "level": "B2", "fr": "Chaque station du métro a sa propre architecture.", "pt": "Cada estação de metrô tem sua própria arquitetura." },
+        { "level": "C1-C2", "fr": "Les stations du VAL sont des galeries d'art souterraines.", "pt": "As estações do VAL são galerias de arte subterrâneas." }
+      ]
+    },
+    {
+      "term": "sans",
+      "definitionPt": "sem",
+      "definitionFr": "Préposition indiquant l'absence.",
+      "inflections": ["sans", "sans doute", "sans arrêt"],
+      "ptTargets": ["sem"],
+      "examples": [
+        { "level": "A1", "fr": "Je bois un café sans sucre.", "pt": "Bebo um café sem açúcar." },
+        { "level": "A2-B1", "fr": "Le métro circule sans conducteur.", "pt": "O metrô circula sem maquinista." },
+        { "level": "B2", "fr": "Elle est partie sans dire au revoir.", "pt": "Ela partiu sem dizer adeus." },
+        { "level": "C1-C2", "fr": "On ne traverse pas la vie sans laisser de traces.", "pt": "Não se atravessa a vida sem deixar marcas." }
+      ]
+    },
+    {
+      "term": "circuler",
+      "definitionPt": "circular",
+      "definitionFr": "Se déplacer, fonctionner (transport).",
+      "inflections": ["je circule", "nous circulons", "circulé"],
+      "ptTargets": ["circular"],
+      "examples": [
+        { "level": "A1", "fr": "Les voitures circulent dans la rue.", "pt": "Os carros circulam na rua." },
+        { "level": "A2-B1", "fr": "Le métro circule toutes les deux minutes.", "pt": "O metrô circula a cada dois minutos." },
+        { "level": "B2", "fr": "Les rames circulent même la nuit.", "pt": "Os trens circulam mesmo à noite." },
+        { "level": "C1-C2", "fr": "Circuler dans une ville, c'est lire son pouls.", "pt": "Circular numa cidade é ler seu pulso." }
+      ]
+    },
+    {
+      "term": "descendre",
+      "definitionPt": "descer",
+      "definitionFr": "Sortir d'un véhicule.",
+      "inflections": ["je descends", "nous descendons", "descendu"],
+      "ptTargets": ["descer"],
+      "examples": [
+        { "level": "A1", "fr": "Je descends du bus.", "pt": "Desço do ônibus." },
+        { "level": "A2-B1", "fr": "Nous sommes descendus à la station République.", "pt": "Descemos na estação República." },
+        { "level": "B2", "fr": "Ils sont descendus du métro en souriant.", "pt": "Eles desceram do metrô sorrindo." },
+        { "level": "C1-C2", "fr": "Descendre à la bonne station, c'est déjà connaître la ville.", "pt": "Descer na estação certa já é conhecer a cidade." }
+      ]
+    },
+    {
+      "term": "le ticket",
+      "definitionPt": "a passagem, o bilhete",
+      "definitionFr": "Billet de transport.",
+      "inflections": ["le ticket", "un ticket", "des tickets"],
+      "ptTargets": ["passagem", "bilhete", "ticket"],
+      "examples": [
+        { "level": "A1", "fr": "Le ticket coûte deux euros.", "pt": "A passagem custa dois euros." },
+        { "level": "A2-B1", "fr": "Nous avons acheté des tickets de métro.", "pt": "Compramos passagens de metrô." },
+        { "level": "B2", "fr": "Le ticket est valable une heure pour tous les transports.", "pt": "A passagem é válida por uma hora em todos os transportes." },
+        { "level": "C1-C2", "fr": "Un ticket de métro est un petit sésame pour toute la ville.", "pt": "Uma passagem de metrô é um pequeno sésamo para toda a cidade." }
+      ]
+    },
+    {
+      "term": "la nuit",
+      "definitionPt": "a noite",
+      "definitionFr": "Partie sombre de la journée.",
+      "inflections": ["la nuit", "une nuit", "des nuits"],
+      "ptTargets": ["noite"],
+      "examples": [
+        { "level": "A1", "fr": "La nuit est calme.", "pt": "A noite é calma." },
+        { "level": "A2-B1", "fr": "Le métro circule même la nuit.", "pt": "O metrô circula mesmo à noite." },
+        { "level": "B2", "fr": "Les nuits de livreur étaient longues à Paris.", "pt": "As noites de entregador eram longas em Paris." },
+        { "level": "C1-C2", "fr": "La nuit, la ville souterraine vit d'une autre vie.", "pt": "À noite, a cidade subterrânea vive de outra vida." }
+      ]
+    },
+    {
+      "term": "rapide",
+      "definitionPt": "rápido",
+      "definitionFr": "Qui va vite.",
+      "inflections": ["rapide", "rapides", "rapidement"],
+      "ptTargets": ["rápido"],
+      "examples": [
+        { "level": "A1", "fr": "Le train est rapide.", "pt": "O trem é rápido." },
+        { "level": "A2-B1", "fr": "Le métro est plus rapide que le bus.", "pt": "O metrô é mais rápido que o ônibus." },
+        { "level": "B2", "fr": "La correspondance est rapide à la station Gare.", "pt": "A baldeação é rápida na estação Gare." },
+        { "level": "C1-C2", "fr": "Rapide et silencieux, le VAL a conquis les voyageurs du monde entier.", "pt": "Rápido e silencioso, o VAL conquistou os viajantes do mundo inteiro." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "La négation : ne...pas (Il n'y a pas de conducteur)",
+    "explanationPt": "A negação em francês tem duas partes: 'ne' + verbo + 'pas'. 'Il y a' vira 'il n'y a pas' (não há). Depois de 'pas de', não se usa artigo: 'il n'y a pas de conducteur' (não há maquinista).",
+    "exampleFr": "Il n'y a pas de conducteur dans le métro automatique.",
+    "examplePt": "Não há maquinista no metrô automático.",
+    "practiceQuestion": "Complete: « Il n'y a ___ de conducteur. »",
+    "options": ["pas", "plus", "jamais"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "Ne...pas avec les verbes courants",
+        "explanationPt": "Estrutura: ne + verbo + pas. 'Je ne prends pas le métro' (não pego o metrô), 'nous ne dormons pas' (não dormimos). Com 'on': 'on ne s'arrête pas' (não paramos).",
+        "exampleFr": "Je ne prends pas le métro quand je livre, mais Andréa le prend.",
+        "examplePt": "Não pego o metrô quando entrego, mas Andréa o pega.",
+        "practiceQuestion": "Complete: « Je ne ___ pas le métro. »",
+        "options": ["prends", "prend", "prendre"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "Pas de + nom : la négation des articles",
+        "explanationPt": "Após 'pas', o artigo indefinido vira 'de': 'pas de conducteur', 'pas de métro', 'pas de problème'. Exceção com 'être': 'ce n'est pas un métro'.",
+        "exampleFr": "Il n'y a pas de conducteur et pas de bruit.",
+        "examplePt": "Não há maquinista e não há barulho.",
+        "practiceQuestion": "Complete: « Il n'y a pas ___ problème. »",
+        "options": ["de", "du", "des"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "O que significa a sigla VAL?",
+      "options": ["Véhicule Automatique Léger", "Ville Art et Lumière", "Vieux Arrondissement de Lille"],
+      "correctIndex": 0,
+      "explanation": "VAL = Véhicule Automatique Léger, o metrô automático de Lille."
+    },
+    {
+      "question": "Quando o metrô VAL foi inaugurado?",
+      "options": ["Em 1983", "Em 1909", "Em 1994"],
+      "correctIndex": 0,
+      "explanation": "O VAL entrou em serviço em 1983, o primeiro metrô automático do mundo."
+    },
+    {
+      "question": "Complete a negação: « Il n'y a pas ___ conducteur. »",
+      "options": ["de", "du", "des"],
+      "correctIndex": 0,
+      "explanation": "Após 'pas', usa-se 'de': 'pas de conducteur'."
+    },
+    {
+      "question": "De quanto em quanto tempo passam os trens do VAL?",
+      "options": ["A cada 2 minutos", "A cada 30 minutos", "A cada hora"],
+      "correctIndex": 0,
+      "explanation": "As rames do VAL passam aproximadamente a cada dois minutos."
+    },
+    {
+      "question": "O que Irlan disse sobre o metrô?",
+      "options": ["Não pega o metrô quando entrega de scooter, mas hoje pegou com a filha", "Odeia o metrô", "Nunca usou o metrô"],
+      "correctIndex": 0,
+      "explanation": "Irlan, livreur de scooter, não usa o metrô no trabalho, mas passeia com a família."
+    }
+  ]
+}

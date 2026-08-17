@@ -1,0 +1,252 @@
+{
+  "id": "tours_lesson_1",
+  "cityId": "tours",
+  "domain": "Cotidiano",
+  "level": "Intermediário (B1)",
+  "titleFr": "Bienvenue à Tours : la ville du français le plus pur",
+  "titlePt": "Bem-vindo a Tours: a cidade do francês mais puro",
+  "subtitleFr": "La place Plumereau, les maisons à colombages et la langue qui brille",
+  "subtitlePt": "A place Plumereau, as casas de enxaimel e a língua que brilha",
+  "summaryPt": "Nesta Aula 1 (Nível B1) da Cidade #5, a família chega de trem a Tours, no Vale do Loire. Dizem que ali se fala o francês mais puro da França. Eles passeiam pela place Plumereau e admiram as casas antigas com colombages. O aluno aprende o Futur Simple (je visiterai, nous découvrirons) e a expressão 'demain'.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Nous sommes arrivés à Tours hier soir. La ville est connue pour son français pur : ici, dit-on, on parle le plus beau français de France.",
+      "pt": "Chegamos a Tours ontem à noite. A cidade é conhecida pelo seu francês puro: aqui, dizem, fala-se o mais belo francês da França."
+    },
+    {
+      "id": 2,
+      "fr": "Ce matin, nous avons marché jusqu'à la place Plumereau. Les maisons à colombages sont magnifiques et les terrasses sont pleines.",
+      "pt": "Esta manhã, caminhamos até a place Plumereau. As casas de enxaimel são magníficas e os terraços estão cheios."
+    },
+    {
+      "id": 3,
+      "fr": "Andréa a dit : « Demain, nous visiterons les châteaux de la Loire. » Íris a sauté de joie : « Et nous découvrirons la maison de Léonard de Vinci ! »",
+      "pt": "Andréa disse: « Amanhã, visitaremos os castelos do Loire. » Íris pulou de alegria: « E descobriremos a casa de Leonardo da Vinci! »"
+    },
+    {
+      "id": 4,
+      "fr": "Irlan, le géographe, a regardé la carte : « La Touraine, c'est le jardin de la France. Nous aimerons chaque rivière et chaque château. »",
+      "pt": "Irlan, o geógrafo, olhou o mapa: « A Touraine é o jardim da França. Nós amaremos cada rio e cada castelo. »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "la langue",
+      "definitionPt": "a língua (idioma)",
+      "definitionFr": "Moyen de communication d'un peuple.",
+      "inflections": ["la langue", "les langues"],
+      "ptTargets": ["língua"],
+      "examples": [
+        { "level": "A1", "fr": "La langue française est belle.", "pt": "A língua francesa é bela." },
+        { "level": "A2-B1", "fr": "À Tours, on parle un français très pur.", "pt": "Em Tours, fala-se um francês muito puro." },
+        { "level": "B1-B2", "fr": "La langue de la Touraine a servi de référence pour le français standard.", "pt": "A língua da Touraine serviu de referência para o francês padrão." },
+        { "level": "C1-C2", "fr": "L'histoire de la langue française est indissociable du rayonnement culturel de la Touraine.", "pt": "A história da língua francesa é indissociável do esplendor cultural da Touraine." }
+      ]
+    },
+    {
+      "term": "le français",
+      "definitionPt": "o francês (idioma)",
+      "definitionFr": "Langue parlée en France.",
+      "inflections": ["le français"],
+      "ptTargets": ["francês"],
+      "examples": [
+        { "level": "A1", "fr": "J'apprends le français.", "pt": "Eu aprendo francês." },
+        { "level": "A2-B1", "fr": "Le français de Tours est réputé pour sa clarté.", "pt": "O francês de Tours é famoso pela sua clareza." },
+        { "level": "B1-B2", "fr": "Le français standard moderne s'est largement inspiré du parler de la Touraine.", "pt": "O francês padrão moderno inspirou-se amplamente no falar da Touraine." },
+        { "level": "C1-C2", "fr": "La pureté attribuée au français de Tours relève à la fois de l'histoire et du mythe linguistique.", "pt": "A pureza atribuída ao francês de Tours pertence à história e ao mito linguístico." }
+      ]
+    },
+    {
+      "term": "la région",
+      "definitionPt": "a região",
+      "definitionFr": "Grande zone géographique.",
+      "inflections": ["la région", "les régions"],
+      "ptTargets": ["região"],
+      "examples": [
+        { "level": "A1", "fr": "La région est belle.", "pt": "A região é bonita." },
+        { "level": "A2-B1", "fr": "La région de Tours est appelée la Touraine.", "pt": "A região de Tours é chamada de Touraine." },
+        { "level": "B1-B2", "fr": "La région du Val de Loire est classée au patrimoine mondial de l'UNESCO.", "pt": "A região do Vale do Loire é classificada como patrimônio mundial da UNESCO." },
+        { "level": "C1-C2", "fr": "La région a joué un rôle central dans l'histoire de France à la Renaissance.", "pt": "A região desempenhou um papel central na história da França na Renascença." }
+      ]
+    },
+    {
+      "term": "la place",
+      "definitionPt": "a praça",
+      "definitionFr": "Espace public dans une ville.",
+      "inflections": ["la place", "les places"],
+      "ptTargets": ["praça"],
+      "examples": [
+        { "level": "A1", "fr": "La place est animée.", "pt": "A praça é animada." },
+        { "level": "A2-B1", "fr": "La place Plumereau est le cœur du Vieux Tours.", "pt": "A place Plumereau é o coração do Vieux Tours." },
+        { "level": "B1-B2", "fr": "La place est entourée de maisons à colombages du XVe siècle.", "pt": "A praça é cercada por casas de enxaimel do século XV." },
+        { "level": "C1-C2", "fr": "La place Plumereau offre un témoignage exceptionnel de l'architecture urbaine médiévale.", "pt": "A place Plumereau oferece um testemunho excepcional da arquitetura urbana medieval." }
+      ]
+    },
+    {
+      "term": "la maison",
+      "definitionPt": "a casa",
+      "definitionFr": "Bâtiment où l'on habite.",
+      "inflections": ["la maison", "les maisons"],
+      "ptTargets": ["casa"],
+      "examples": [
+        { "level": "A1", "fr": "La maison est grande.", "pt": "A casa é grande." },
+        { "level": "A2-B1", "fr": "Les maisons de la place sont anciennes.", "pt": "As casas da praça são antigas." },
+        { "level": "B1-B2", "fr": "Les maisons à colombages donnent à la place un charme unique.", "pt": "As casas de enxaimel dão à praça um charme único." },
+        { "level": "C1-C2", "fr": "La restauration des maisons à colombages a préservé le patrimoine de la vieille ville.", "pt": "A restauração das casas de enxaimel preservou o patrimônio da cidade velha." }
+      ]
+    },
+    {
+      "term": "l'architecture",
+      "definitionPt": "a arquitetura",
+      "definitionFr": "Art de construire.",
+      "inflections": ["l'architecture"],
+      "ptTargets": ["arquitetura"],
+      "examples": [
+        { "level": "A1", "fr": "L'architecture est belle.", "pt": "A arquitetura é bonita." },
+        { "level": "A2-B1", "fr": "L'architecture de la place est médiévale.", "pt": "A arquitetura da praça é medieval." },
+        { "level": "B1-B2", "fr": "L'architecture Renaissance des châteaux impressionne les visiteurs.", "pt": "A arquitetura renascentista dos castelos impressiona os visitantes." },
+        { "level": "C1-C2", "fr": "L'architecture de la Loire illustre la transition entre le gothique et la Renaissance.", "pt": "A arquitetura do Loire ilustra a transição entre o gótico e a Renascença." }
+      ]
+    },
+    {
+      "term": "le quartier",
+      "definitionPt": "o bairro",
+      "definitionFr": "Partie d'une ville.",
+      "inflections": ["le quartier", "les quartiers"],
+      "ptTargets": ["bairro"],
+      "examples": [
+        { "level": "A1", "fr": "Le quartier est calme.", "pt": "O bairro é calmo." },
+        { "level": "A2-B1", "fr": "Le Vieux Tours est un quartier plein de charme.", "pt": "O Vieux Tours é um bairro cheio de charme." },
+        { "level": "B1-B2", "fr": "Le quartier de la place Plumereau est entièrement piéton.", "pt": "O bairro da place Plumereau é totalmente de pedestres." },
+        { "level": "C1-C2", "fr": "La piétonnisation du quartier historique a redynamisé le centre de Tours.", "pt": "A pedestrização do bairro histórico revitalizou o centro de Tours." }
+      ]
+    },
+    {
+      "term": "parler",
+      "definitionPt": "falar",
+      "definitionFr": "S'exprimer avec la voix.",
+      "inflections": ["je parle", "nous parlons", "parlé"],
+      "ptTargets": ["falar"],
+      "examples": [
+        { "level": "A1", "fr": "Je parle français.", "pt": "Eu falo francês." },
+        { "level": "A2-B1", "fr": "Les Tourangeaux parlent avec une prononciation très claire.", "pt": "Os habitantes de Tours falam com uma pronúncia muito clara." },
+        { "level": "B1-B2", "fr": "On dit que l'on parle le français le plus pur dans cette région.", "pt": "Dizem que se fala o francês mais puro nesta região." },
+        { "level": "C1-C2", "fr": "Parler une langue, c'est aussi porter l'histoire et l'identité d'un territoire.", "pt": "Falar uma língua é também carregar a história e a identidade de um território." }
+      ]
+    },
+    {
+      "term": "arriver",
+      "definitionPt": "chegar",
+      "definitionFr": "Atteindre un lieu.",
+      "inflections": ["j'arrive", "nous arrivons", "arrivé"],
+      "ptTargets": ["chegar"],
+      "examples": [
+        { "level": "A1", "fr": "J'arrive à la gare.", "pt": "Eu chego à estação." },
+        { "level": "A2-B1", "fr": "Nous sommes arrivés à Tours hier soir.", "pt": "Chegamos a Tours ontem à noite." },
+        { "level": "B1-B2", "fr": "La famille arrivera à Chambord avant midi.", "pt": "A família chegará a Chambord antes do meio-dia." },
+        { "level": "C1-C2", "fr": "Arriver dans le Val de Loire, c'est pénétrer dans le cœur historique de la France.", "pt": "Chegar ao Vale do Loire é penetrar no coração histórico da França." }
+      ]
+    },
+    {
+      "term": "célèbre",
+      "definitionPt": "famoso",
+      "definitionFr": "Connu de beaucoup.",
+      "inflections": ["célèbre", "célèbres"],
+      "ptTargets": ["famoso"],
+      "examples": [
+        { "level": "A1", "fr": "La ville est célèbre.", "pt": "A cidade é famosa." },
+        { "level": "A2-B1", "fr": "Tours est célèbre pour ses châteaux.", "pt": "Tours é famosa pelos seus castelos." },
+        { "level": "B1-B2", "fr": "Les châteaux les plus célèbres de la Loire se trouvent près de Tours.", "pt": "Os castelos mais famosos do Loire ficam perto de Tours." },
+        { "level": "C1-C2", "fr": "La célébrité de la Touraine repose sur son patrimoine exceptionnel et sa douceur de vivre.", "pt": "A fama da Touraine baseia-se em seu patrimônio excepcional e em sua doçura de viver." }
+      ]
+    },
+    {
+      "term": "pur",
+      "definitionPt": "puro",
+      "definitionFr": "Sans mélange, clair.",
+      "inflections": ["pur", "pure", "purs"],
+      "ptTargets": ["puro"],
+      "examples": [
+        { "level": "A1", "fr": "L'eau est pure.", "pt": "A água é pura." },
+        { "level": "A2-B1", "fr": "Le français de Tours est réputé pur et clair.", "pt": "O francês de Tours é famoso por ser puro e claro." },
+        { "level": "B1-B2", "fr": "On attribue à la Touraine un français pur, sans accent régional marqué.", "pt": "Atribui-se à Touraine um francês puro, sem sotaque regional marcado." },
+        { "level": "C1-C2", "fr": "La notion de français pur relève d'un idéal linguistique façonné par l'histoire.", "pt": "A noção de francês puro pertence a um ideal linguístico moldado pela história." }
+      ]
+    },
+    {
+      "term": "accueillant",
+      "definitionPt": "acolhedor",
+      "definitionFr": "Qui reçoit bien les gens.",
+      "inflections": ["accueillant", "accueillante", "accueillants"],
+      "ptTargets": ["acolhedor"],
+      "examples": [
+        { "level": "A1", "fr": "Le quartier est accueillant.", "pt": "O bairro é acolhedor." },
+        { "level": "A2-B1", "fr": "Les habitants de Tours sont accueillants.", "pt": "Os habitantes de Tours são acolhedores." },
+        { "level": "B1-B2", "fr": "L'atmosphère accueillante de la place invite à s'attarder.", "pt": "A atmosfera acolhedora da praça convida a ficar." },
+        { "level": "C1-C2", "fr": "La douceur accueillante de la Touraine séduit les visiteurs depuis des siècles.", "pt": "A acolhida suave da Touraine encanta os visitantes há séculos." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Le Futur Simple (je visiterai, nous découvrirons)",
+    "explanationPt": "O Futur Simple anuncia ações futuras. Formação: infinitivo + terminações -ai, -as, -a, -ons, -ez, -ont. Ex.: visiter → je visiterai; découvrir → nous découvrirons. Verbos irregulares: être → je serai, avoir → j'aurai, aller → j'irai.",
+    "exampleFr": "Demain, nous visiterons les châteaux de la Loire.",
+    "examplePt": "Amanhã, visitaremos os castelos do Loire.",
+    "practiceQuestion": "Complete com o Futur Simple: « Demain, nous ___ les châteaux. »",
+    "options": ["visiterons", "visitons", "avons visité"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "La formation du futur simple",
+        "explanationPt": "Infinitivo + terminações: je visiter-ai, tu visiter-as, il visiter-a, nous visiter-ons, vous visiter-ez, ils visiter-ont.",
+        "exampleFr": "Je visiterai le château de Chambord.",
+        "examplePt": "Eu visitarei o castelo de Chambord.",
+        "practiceQuestion": "Qual é a forma correta do Futur Simple de 'découvrir'?",
+        "options": ["nous découvrirons", "nous découvrons", "nous avons découvert"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "Les verbes irréguliers au futur",
+        "explanationPt": "Alguns radicais mudam: être → ser-, avoir → aur-, aller → ir-, faire → fer-, venir → viendr-.",
+        "exampleFr": "Nous aimerons chaque rivière et chaque château.",
+        "examplePt": "Amaremos cada rio e cada castelo.",
+        "practiceQuestion": "Qual é o Futur Simple de 'être'?",
+        "options": ["je serai", "je suis", "j'ai été"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Pelo que Tours é conhecida?",
+      "options": ["pelo francês mais puro da França", "pela praia", "pela neve eterna"],
+      "correctIndex": 0,
+      "explanation": "Diz-se que em Tours se fala o francês mais puro da França."
+    },
+    {
+      "question": "Qual praça é o coração do Vieux Tours?",
+      "options": ["la place Plumereau", "la place de la Concorde", "la Grand-Place"],
+      "correctIndex": 0,
+      "explanation": "A place Plumereau, com suas casas de enxaimel, é o coração do Vieux Tours."
+    },
+    {
+      "question": "O que Andréa anunciou para o dia seguinte?",
+      "options": ["visitar os castelos do Loire", "voltar para Paris", "ir à praia"],
+      "correctIndex": 0,
+      "explanation": "Andréa disse: 'Demain, nous visiterons les châteaux de la Loire'."
+    },
+    {
+      "question": "Complete com o Futur Simple: « Nous ___ la maison de Léonard de Vinci. »",
+      "options": ["découvrirons", "découvrons", "avons découvert"],
+      "correctIndex": 0,
+      "explanation": "Futur simple de découvrir: nous découvrirons."
+    },
+    {
+      "question": "Como Irlan chamou a Touraine?",
+      "options": ["o jardim da França", "o deserto da França", "a capital do Norte"],
+      "correctIndex": 0,
+      "explanation": "Irlan disse: 'La Touraine, c'est le jardin de la France'."
+    }
+  ]
+}

@@ -1,0 +1,237 @@
+{
+  "id": "bordeaux_lesson_11",
+  "cityId": "bordeaux",
+  "domain": "Cidade e rio",
+  "level": "Intermediário (B1+)",
+  "titleFr": "Les quais de la Garonne : la promenade des Bordelais",
+  "titlePt": "Os cais da Garonne: o passeio dos bordeleses",
+  "subtitleFr": "En marchant le long du fleuve, la ville se raconte",
+  "subtitlePt": "Caminhando ao longo do rio, a cidade se conta",
+  "summaryPt": "Nesta Aula 11 (B1+), a família passeia pelos cais da Garonne, o coração da vida bordelesa, entre o Miroir d'eau, os barcos e os passeios. O aluno pratica o vocabulário do rio e da cidade (le quai, le fleuve, le bateau) e o gérondif com en + participe présent.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "« Les quais, c'est le salon de Bordeaux », a dit Andréa. La famille marchait le long de la Garonne. « En regardant l'eau, on comprend la ville », a ajouté Irlan. « Tout est venu par le fleuve. »",
+      "pt": "« Os cais são a sala de visitas de Bordeaux », disse Andréa. A família caminhava ao longo da Garonne. « Olhando a água, entende-se a cidade », acrescentou Irlan. « Tudo veio pelo rio. »"
+    },
+    {
+      "id": 2,
+      "fr": "Iris a couru vers le Miroir d'eau. « Papa, regarde ! Je marche sur le ciel ! » Le Miroir, c'est une immense surface d'eau très fine qui reflète la place de la Bourse. « En s'amusant, on apprend », a souri Andréa. « C'est la plus grande place d'eau du monde. »",
+      "pt": "Íris correu para o Miroir d'eau. « Papai, olha! Estou andando no céu! » O Miroir é uma imensa superfície de água bem fina que reflete a place de la Bourse. « Brincando, aprende-se », sorriu Andréa. « É a maior praça de água do mundo. »"
+    },
+    {
+      "id": 3,
+      "fr": "Plus loin, des bateaux attendaient les touristes. « On pourrait faire une croisière un jour », a dit Irlan. « En descendant le fleuve, on verrait la ville autrement. » Iris a compté les ponts : « Un, deux, trois… Il y en a beaucoup ! »",
+      "pt": "Mais adiante, barcos esperavam os turistas. « Poderíamos fazer um cruzeiro um dia », disse Irlan. « Descendo o rio, veríamos a cidade de outro jeito. » Íris contou as pontes: « Um, dois, três… São muitas! »"
+    },
+    {
+      "id": 4,
+      "fr": "Le soir est tombé. Les façades des quais se sont allumées. « En rentrant à la maison, j'aimerais m'arrêter chez le pâtissier », a dit Andréa. « Aujourd'hui, on a bien mérité des cannelés. »",
+      "pt": "A noite caiu. As fachadas dos cais se acenderam. « Voltando para casa, gostaria de parar na confeitaria », disse Andréa. « Hoje, merecemos uns cannelés. »"
+    },
+    {
+      "id": 5,
+      "fr": "Iris s'est endormie sur les épaules de son père. « Quand j'étais livreur, je traversais cette ville sans la voir », a murmuré Irlan. « En marchant, on regarde. En regardant, on comprend. C'est ça, apprendre une langue. »",
+      "pt": "Íris adormeceu nos ombros do pai. « Quando eu era entregador, atravessava esta cidade sem vê-la », murmurou Irlan. « Caminhando, olha-se. Olhando, compreende-se. É isso, aprender uma língua. »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "le quai",
+      "definitionPt": "o cais",
+      "definitionFr": "Rive aménagée d'un fleuve.",
+      "inflections": ["le quai", "un quai", "des quais"],
+      "ptTargets": ["cais"],
+      "examples": [
+        { "level": "A1", "fr": "Le quai est long.", "pt": "O cais é comprido." },
+        { "level": "A2-B1", "fr": "On se promène sur les quais.", "pt": "Passeia-se pelos cais." },
+        { "level": "B1", "fr": "Les quais que l'on voit ici sont du XVIIIe siècle.", "pt": "Os cais que se veem aqui são do século XVIII." },
+        { "level": "C1-C2", "fr": "Le quai, frontière élégante, marie la pierre noble et l'eau qui passe.", "pt": "O cais, fronteira elegante, casa a pedra nobre com a água que passa." }
+      ]
+    },
+    {
+      "term": "le fleuve",
+      "definitionPt": "o rio",
+      "definitionFr": "Grand cours d'eau qui va à la mer.",
+      "inflections": ["le fleuve", "un fleuve", "des fleuves"],
+      "ptTargets": ["rio"],
+      "examples": [
+        { "level": "A1", "fr": "Le fleuve est large.", "pt": "O rio é largo." },
+        { "level": "A2-B1", "fr": "La Garonne est un grand fleuve.", "pt": "A Garonne é um grande rio." },
+        { "level": "B1", "fr": "Le fleuve qui traverse Bordeaux change de couleur au coucher du soleil.", "pt": "O rio que atravessa Bordeaux muda de cor ao pôr do sol." },
+        { "level": "C1-C2", "fr": "Le fleuve, veine de la ville, porte les rêves des hommes depuis mille ans.", "pt": "O rio, veia da cidade, carrega os sonhos dos homens há mil anos." }
+      ]
+    },
+    {
+      "term": "le miroir",
+      "definitionPt": "o espelho",
+      "definitionFr": "Surface qui reflète.",
+      "inflections": ["le miroir", "un miroir", "des miroirs"],
+      "ptTargets": ["espelho"],
+      "examples": [
+        { "level": "A1", "fr": "Le miroir est propre.", "pt": "O espelho está limpo." },
+        { "level": "A2-B1", "fr": "Le Miroir d'eau reflète la place de la Bourse.", "pt": "O Miroir d'eau reflete a place de la Bourse." },
+        { "level": "B1", "fr": "Le miroir dans lequel la ville se regarde est en eau.", "pt": "O espelho no qual a cidade se contempla é de água." },
+        { "level": "C1-C2", "fr": "Le miroir, surface de vérité, double le monde sans jamais le juger.", "pt": "O espelho, superfície da verdade, duplica o mundo sem jamais julgá-lo." }
+      ]
+    },
+    {
+      "term": "refléter",
+      "definitionPt": "refletir",
+      "definitionFr": "Rendre une image comme un miroir.",
+      "inflections": ["je reflète", "tu reflètes", "il reflète", "nous reflétons"],
+      "ptTargets": ["refletir"],
+      "examples": [
+        { "level": "A1", "fr": "L'eau reflète le ciel.", "pt": "A água reflete o céu." },
+        { "level": "A2-B1", "fr": "Le Miroir reflète la place.", "pt": "O Miroir reflete a praça." },
+        { "level": "B1", "fr": "La place que l'eau reflète est magnifique le soir.", "pt": "A praça que a água reflete é magnífica à noite." },
+        { "level": "C1-C2", "fr": "Refléter, geste de l'eau, offre au monde une seconde naissance.", "pt": "Refletir, gesto da água, oferece ao mundo um segundo nascimento." }
+      ]
+    },
+    {
+      "term": "la façade",
+      "definitionPt": "a fachada",
+      "definitionFr": "Face principale d'un bâtiment.",
+      "inflections": ["la façade", "une façade", "des façades"],
+      "ptTargets": ["fachada"],
+      "examples": [
+        { "level": "A1", "fr": "La façade est blanche.", "pt": "A fachada é branca." },
+        { "level": "A2-B1", "fr": "Les façades des quais sont célèbres.", "pt": "As fachadas dos cais são famosas." },
+        { "level": "B1", "fr": "Les façades que l'on admire datent du XVIIIe siècle.", "pt": "As fachadas que se admiram datam do século XVIII." },
+        { "level": "C1-C2", "fr": "La façade, visage de la ville, sourit aux passants depuis des siècles.", "pt": "A fachada, rosto da cidade, sorri aos passantes há séculos." }
+      ]
+    },
+    {
+      "term": "le bateau",
+      "definitionPt": "o barco",
+      "definitionFr": "Moyen de transport sur l'eau.",
+      "inflections": ["le bateau", "un bateau", "des bateaux"],
+      "ptTargets": ["barco"],
+      "examples": [
+        { "level": "A1", "fr": "Le bateau est sur l'eau.", "pt": "O barco está na água." },
+        { "level": "A2-B1", "fr": "Les bateaux attendent les touristes.", "pt": "Os barcos esperam os turistas." },
+        { "level": "B1", "fr": "Le bateau sur lequel nous monterons part ce soir.", "pt": "O barco no qual subiremos parte esta noite." },
+        { "level": "C1-C2", "fr": "Le bateau, invité du fleuve, vient et repart au rythme des marées.", "pt": "O barco, convidado do rio, vem e vai ao ritmo das marés." }
+      ]
+    },
+    {
+      "term": "la croisière",
+      "definitionPt": "o cruzeiro",
+      "definitionFr": "Voyage en bateau.",
+      "inflections": ["la croisière", "une croisière", "des croisières"],
+      "ptTargets": ["cruzeiro"],
+      "examples": [
+        { "level": "A1", "fr": "La croisière est longue.", "pt": "O cruzeiro é longo." },
+        { "level": "A2-B1", "fr": "On pourrait faire une croisière sur la Garonne.", "pt": "Poderíamos fazer um cruzeiro na Garonne." },
+        { "level": "B1", "fr": "La croisière dont nous rêvons partira au printemps.", "pt": "O cruzeiro com que sonhamos partirá na primavera." },
+        { "level": "C1-C2", "fr": "La croisière, voyage horizontal, change le paysage sans changer de place.", "pt": "O cruzeiro, viagem horizontal, muda a paisagem sem mudar de lugar." }
+      ]
+    },
+    {
+      "term": "descendre",
+      "definitionPt": "descer",
+      "definitionFr": "Aller de haut en bas ou vers l'aval.",
+      "inflections": ["je descends", "tu descends", "il descend", "nous descendons"],
+      "ptTargets": ["descer"],
+      "examples": [
+        { "level": "A1", "fr": "Je descends l'escalier.", "pt": "Eu desço a escada." },
+        { "level": "A2-B1", "fr": "On descend le fleuve en bateau.", "pt": "Desce-se o rio de barco." },
+        { "level": "B1", "fr": "Le fleuve que l'on descend mène à l'océan.", "pt": "O rio que se desce leva ao oceano." },
+        { "level": "C1-C2", "fr": "Descendre, geste du voyageur, suit le chemin que l'eau a choisi.", "pt": "Descer, gesto do viajante, segue o caminho que a água escolheu." }
+      ]
+    },
+    {
+      "term": "le cannelé",
+      "definitionPt": "o cannelé (doce bordelês)",
+      "definitionFr": "Petit gâteau bordelais au rhum et à la vanille.",
+      "inflections": ["le cannelé", "un cannelé", "des cannelés"],
+      "ptTargets": ["cannelé", "doce bordelês"],
+      "examples": [
+        { "level": "A1", "fr": "Le cannelé est sucré.", "pt": "O cannelé é doce." },
+        { "level": "A2-B1", "fr": "Les cannelés sont une spécialité de Bordeaux.", "pt": "Os cannelés são uma especialidade de Bordeaux." },
+        { "level": "B1", "fr": "Les cannelés que nous avons achetés sont encore chauds.", "pt": "Os cannelés que compramos ainda estão quentes." },
+        { "level": "C1-C2", "fr": "Le cannelé, bijou doré, cache un cœur tendre sous sa croûte sucrée.", "pt": "O cannelé, joia dourada, esconde um coração macio sob sua crosta doce." }
+      ]
+    },
+    {
+      "term": "se promener",
+      "definitionPt": "passear",
+      "definitionFr": "Marcher pour le plaisir.",
+      "inflections": ["je me promène", "tu te promènes", "il se promène", "nous nous promenons"],
+      "ptTargets": ["passear"],
+      "examples": [
+        { "level": "A1", "fr": "Je me promène sur le quai.", "pt": "Eu passeio no cais." },
+        { "level": "A2-B1", "fr": "Les Bordelais se promènent sur les quais.", "pt": "Os bordeleses passeiam nos cais." },
+        { "level": "B1", "fr": "Le soir où l'on se promène, la ville s'allume.", "pt": "Na noite em que se passeia, a cidade se acende." },
+        { "level": "C1-C2", "fr": "Se promener, art de la ville, transforme chaque rue en découverte.", "pt": "Passear, arte da cidade, transforma cada rua em descoberta." }
+      ]
+    },
+    {
+      "term": "le passant",
+      "definitionPt": "o passante",
+      "definitionFr": "Personne qui passe dans la rue.",
+      "inflections": ["le passant", "un passant", "des passants"],
+      "ptTargets": ["passante"],
+      "examples": [
+        { "level": "A1", "fr": "Le passant marche vite.", "pt": "O passante anda rápido." },
+        { "level": "A2-B1", "fr": "Les passants admirent les façades.", "pt": "Os passantes admiram as fachadas." },
+        { "level": "B1", "fr": "Les passants que l'on croise sourient.", "pt": "Os passantes com quem se cruza sorriem." },
+        { "level": "C1-C2", "fr": "Le passant, figure éphémère, écrit la ville à chaque pas.", "pt": "O passante, figura efêmera, escreve a cidade a cada passo." }
+      ]
+    },
+    {
+      "term": "l'épaules",
+      "definitionPt": "os ombros",
+      "definitionFr": "Parties du corps entre le cou et les bras.",
+      "inflections": ["l'épaule", "une épaule", "des épaules"],
+      "ptTargets": ["ombros", "ombro"],
+      "examples": [
+        { "level": "A1", "fr": "L'épaule est forte.", "pt": "O ombro é forte." },
+        { "level": "A2-B1", "fr": "Iris dort sur les épaules de son père.", "pt": "Íris dorme nos ombros do pai." },
+        { "level": "B1", "fr": "Les épaules sur lesquelles elle dort sont fatiguées.", "pt": "Os ombros nos quais ela dorme estão cansados." },
+        { "level": "C1-C2", "fr": "L'épaule, port du sommeil, tient debout ceux qui s'endorment.", "pt": "O ombro, porto do sono, sustenta de pé os que adormecem." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "titleFr": "Le gérondif : en + participe présent",
+    "titlePt": "O gerúndio: en + particípio presente",
+    "points": [
+      {
+        "fr": "« En » + participe présent exprime deux actions en même temps : « En marchant, on regarde » (caminhando, olha-se), « En regardant l'eau, on comprend la ville ».",
+        "pt": "« En » + particípio presente expressa duas ações simultâneas: « En marchant, on regarde » (caminhando, olha-se), « En regardant l'eau, on comprend la ville » (olhando a água, entende-se a cidade)."
+      },
+      {
+        "fr": "Formation : on prend « nous » au présent (nous marchons) et on enlève « nous » : marchant, regardant, chantant. Verbes en -ir : finissant, partant.",
+        "pt": "Formação: pega-se « nous » no presente (nous marchons) e tira-se « nous »: marchant (caminhando), regardant (olhando), chantant (cantando). Verbos em -ir: finissant, partant."
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Como Andréa chama os cais de Bordeaux ?",
+      "options": ["A sala de visitas da cidade", "O coração da cidade", "O jardim da cidade", "O telhado da cidade"],
+      "correctIndex": 0
+    },
+    {
+      "question": "O que o Miroir d'eau reflete ?",
+      "options": ["A place de la Bourse", "A catedral", "A torre Pey-Berland", "O estádio"],
+      "correctIndex": 0
+    },
+    {
+      "question": "O que Íris achou que estava fazendo no Miroir d'eau ?",
+      "options": ["Andando no céu", "Nadando no mar", "Dançando na chuva", "Voando"],
+      "correctIndex": 0
+    },
+    {
+      "question": "O que Andréa quis comprar no caminho de volta ?",
+      "options": ["Cannelés", "Queijos", "Flores", "Jornais"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Segundo Irlan, o que se aprende caminhando ?",
+      "options": ["A entender a cidade", "A dirigir", "A cozinhar", "A pescar"],
+      "correctIndex": 0
+    }
+  ]
+}

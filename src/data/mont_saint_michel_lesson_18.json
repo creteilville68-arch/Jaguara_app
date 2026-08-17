@@ -1,0 +1,252 @@
+{
+  "id": "mont_saint_michel_lesson_18",
+  "cityId": "mont-saint-michel",
+  "domain": "Gastronomia",
+  "level": "Básico (A2/B1)",
+  "titleFr": "Les moules de la baie : la pêche à pied",
+  "titlePt": "Os mexilhões da baía: a pesca a pé",
+  "subtitleFr": "À marée basse, la baie se transforme en jardin de fruits de mer",
+  "subtitlePt": "Na maré baixa, a baía vira um jardim de frutos do mar",
+  "summaryPt": "Nesta Aula 18 (A2/B1), a família descobre a pêche à pied na baía: com a maré baixa, as pessoas recolhem moules, coques e palourdes. Irlan explica os bouchots, os postes de madeira onde se criam os mexilhões. O aluno pratica os hábitos no imparfait e o vocabulário do mar.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "À marée basse, la baie se transformait en un immense jardin. Des familles entières ramassaient des moules et des coques dans le sable. « C'est la pêche à pied », a expliqué Irlan.",
+      "pt": "Na maré baixa, a baía virava um imenso jardim. Famílias inteiras recolhiam mexilhões e berbigões na areia. « É a pesca a pé », explicou Irlan."
+    },
+    {
+      "id": 2,
+      "fr": "« Les moules de bouchot poussent sur des pieux en bois », a dit Andréa. « Quand la mer montait, elle apportait leur nourriture. » Les pieux sortaient de l'eau comme des sentinelles.",
+      "pt": "« Os mexilhões de bouchot crescem em estacas de madeira », disse Andréa. « Quando a maré subia, trazia seu alimento. » As estacas saíam da água como sentinelas."
+    },
+    {
+      "id": 3,
+      "fr": "Íris a trouvé un coquillage. « Regarde, il est encore vivant ! » Elle l'a remis dans l'eau doucement. « Il faut respecter la mer », a dit Andréa.",
+      "pt": "Íris encontrou uma concha. « Olha, ainda está viva! » Ela a devolveu à água com cuidado. « É preciso respeitar o mar », disse Andréa."
+    },
+    {
+      "id": 4,
+      "fr": "Le soir, la famille a mangé des moules marinières au restaurant. « Hier, nous avons vu les moules dans la baie. Aujourd'hui, nous les mangeons ! » a ri Irlan.",
+      "pt": "À noite, a família comeu mexilhões ao vinho branco no restaurante. « Ontem, vimos os mexilhões na baía. Hoje, nós os comemos! » riu Irlan."
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "la moule",
+      "definitionPt": "o mexilhão",
+      "definitionFr": "Coquillage noir comestible.",
+      "inflections": ["la moule", "une moule", "des moules"],
+      "ptTargets": ["mexilhão"],
+      "examples": [
+        { "level": "A1", "fr": "J'aime les moules.", "pt": "Gosto de mexilhões." },
+        { "level": "A2-B1", "fr": "Les moules de la baie sont célèbres.", "pt": "Os mexilhões da baía são famosos." },
+        { "level": "B2", "fr": "Les moules marinières, avec du vin blanc, sont un plat du Nord.", "pt": "Mexilhões ao vinho branco são um prato do Norte." },
+        { "level": "C1-C2", "fr": "La moule de bouchot, charnue et iodée, est une fierté de la baie.", "pt": "O mexilhão de bouchot, carnudo e com sabor de mar, é um orgulho da baía." }
+      ]
+    },
+    {
+      "term": "ramasser",
+      "definitionPt": "recolher, apanhar",
+      "definitionFr": "Prendre ce qui est à terre.",
+      "inflections": ["je ramasse", "nous ramassons", "ramassé"],
+      "ptTargets": ["recolher", "apanhar"],
+      "examples": [
+        { "level": "A1", "fr": "Je ramasse les coquillages.", "pt": "Recolho as conchas." },
+        { "level": "A2-B1", "fr": "Les familles ramassaient des moules dans le sable.", "pt": "As famílias recolhiam mexilhões na areia." },
+        { "level": "B2", "fr": "On ramassait les coques à la marée basse.", "pt": "Recolhiam-se os berbigões na maré baixa." },
+        { "level": "C1-C2", "fr": "Ramasser les fruits de la mer, c'est lire la baie à l'œil nu.", "pt": "Recolher os frutos do mar é ler a baía a olho nu." }
+      ]
+    },
+    {
+      "term": "le bouchot",
+      "definitionPt": "o bouchot (criadouro de mexilhões em estacas)",
+      "definitionFr": "Alignement de pieux où poussent les moules.",
+      "inflections": ["le bouchot", "un bouchot", "des bouchots"],
+      "ptTargets": ["bouchot"],
+      "examples": [
+        { "level": "A1", "fr": "Le bouchot est dans la baie.", "pt": "O bouchot fica na baía." },
+        { "level": "A2-B1", "fr": "Les moules de bouchot poussent sur des pieux.", "pt": "Os mexilhões de bouchot crescem em estacas." },
+        { "level": "B2", "fr": "Les bouchots de la baie s'étendent sur des kilomètres.", "pt": "Os bouchots da baía se estendem por quilômetros." },
+        { "level": "C1-C2", "fr": "Sur les bouchots, chaque pieu porte des milliers de moules.", "pt": "Nos bouchots, cada estaca carrega milhares de mexilhões." }
+      ]
+    },
+    {
+      "term": "le pieu",
+      "definitionPt": "a estaca",
+      "definitionFr": "Poteau planté dans le sol ou l'eau.",
+      "inflections": ["le pieu", "un pieu", "des pieux"],
+      "ptTargets": ["estaca"],
+      "examples": [
+        { "level": "A1", "fr": "Le pieu est en bois.", "pt": "A estaca é de madeira." },
+        { "level": "A2-B1", "fr": "Les moules poussent sur des pieux en bois.", "pt": "Os mexilhões crescem em estacas de madeira." },
+        { "level": "B2", "fr": "Les pieux des bouchots sortaient de l'eau à marée basse.", "pt": "As estacas dos bouchots saíam da água na maré baixa." },
+        { "level": "C1-C2", "fr": "Les pieux, alignés comme des soldats, dessinent des allées dans la baie.", "pt": "As estacas, alinhadas como soldados, desenham alamedas na baía." }
+      ]
+    },
+    {
+      "term": "le coquillage",
+      "definitionPt": "a concha, o marisco",
+      "definitionFr": "Animal à coquille ; sa coquille.",
+      "inflections": ["le coquillage", "un coquillage", "des coquillages"],
+      "ptTargets": ["concha", "marisco"],
+      "examples": [
+        { "level": "A1", "fr": "Le coquillage est joli.", "pt": "A concha é bonita." },
+        { "level": "A2-B1", "fr": "Íris a trouvé un coquillage dans le sable.", "pt": "Íris encontrou uma concha na areia." },
+        { "level": "B2", "fr": "Les coquillages de la baie sont nombreux et variés.", "pt": "Os mariscos da baía são numerosos e variados." },
+        { "level": "C1-C2", "fr": "Chaque coquillage raconte la vie secrète de la baie.", "pt": "Cada concha conta a vida secreta da baía." }
+      ]
+    },
+    {
+      "term": "la coque",
+      "definitionPt": "o berbigão",
+      "definitionFr": "Petit coquillage comestible.",
+      "inflections": ["la coque", "une coque", "des coques"],
+      "ptTargets": ["berbigão"],
+      "examples": [
+        { "level": "A1", "fr": "La coque est petite.", "pt": "O berbigão é pequeno." },
+        { "level": "A2-B1", "fr": "Les familles ramassaient des coques dans le sable.", "pt": "As famílias recolhiam berbigões na areia." },
+        { "level": "B2", "fr": "Les coques se cachent à quelques centimètres sous le sable.", "pt": "Os berbigões se escondem a poucos centímetros sob a areia." },
+        { "level": "C1-C2", "fr": "La coque, modeste et savoureuse, est le trésor des pêcheurs à pied.", "pt": "O berbigão, modesto e saboroso, é o tesouro dos pescadores a pé." }
+      ]
+    },
+    {
+      "term": "la marée basse",
+      "definitionPt": "a maré baixa",
+      "definitionFr": "Moment où la mer est au plus bas.",
+      "inflections": ["la marée basse", "à marée basse", "des marées basses"],
+      "ptTargets": ["maré baixa"],
+      "examples": [
+        { "level": "A1", "fr": "À marée basse, on voit le sable.", "pt": "Na maré baixa, vê-se a areia." },
+        { "level": "A2-B1", "fr": "À marée basse, on ramasse des moules.", "pt": "Na maré baixa, recolhem-se mexilhões." },
+        { "level": "B2", "fr": "La pêche à pied n'est possible qu'à marée basse.", "pt": "A pesca a pé só é possível na maré baixa." },
+        { "level": "C1-C2", "fr": "À marée basse, la baie se vide et livre ses trésors.", "pt": "Na maré baixa, a baía se esvazia e entrega seus tesouros." }
+      ]
+    },
+    {
+      "term": "respecter",
+      "definitionPt": "respeitar",
+      "definitionFr": "Traiter avec considération.",
+      "inflections": ["je respecte", "nous respectons", "respecté"],
+      "ptTargets": ["respeitar"],
+      "examples": [
+        { "level": "A1", "fr": "Je respecte les règles.", "pt": "Respeito as regras." },
+        { "level": "A2-B1", "fr": "Il faut respecter la mer.", "pt": "É preciso respeitar o mar." },
+        { "level": "B2", "fr": "Les pêcheurs respectent les tailles minimales.", "pt": "Os pescadores respeitam os tamanhos mínimos." },
+        { "level": "C1-C2", "fr": "Respecter la baie, c'est assurer sa survie pour des siècles.", "pt": "Respeitar a baía é garantir sua sobrevivência por séculos." }
+      ]
+    },
+    {
+      "term": "la sentinelle",
+      "definitionPt": "a sentinela",
+      "definitionFr": "Soldat qui monte la garde.",
+      "inflections": ["la sentinelle", "une sentinelle", "des sentinelles"],
+      "ptTargets": ["sentinela"],
+      "examples": [
+        { "level": "A1", "fr": "La sentinelle regarde.", "pt": "A sentinela observa." },
+        { "level": "A2-B1", "fr": "Les pieux sortaient de l'eau comme des sentinelles.", "pt": "As estacas saíam da água como sentinelas." },
+        { "level": "B2", "fr": "Les tours du Mont veillaient comme des sentinelles de pierre.", "pt": "As torres do Mont vigiavam como sentinelas de pedra." },
+        { "level": "C1-C2", "fr": "Sentinelles immobiles, les bouchots gardent la baie.", "pt": "Sentinelas imóveis, os bouchots guardam a baía." }
+      ]
+    },
+    {
+      "term": "le fruit de mer",
+      "definitionPt": "o fruto do mar",
+      "definitionFr": "Coquillage ou crustacé comestible.",
+      "inflections": ["le fruit de mer", "un fruit de mer", "des fruits de mer"],
+      "ptTargets": ["fruto do mar"],
+      "examples": [
+        { "level": "A1", "fr": "J'aime les fruits de mer.", "pt": "Gosto de frutos do mar." },
+        { "level": "A2-B1", "fr": "La baie est riche en fruits de mer.", "pt": "A baía é rica em frutos do mar." },
+        { "level": "B2", "fr": "Le plateau de fruits de mer est une spécialité de la côte.", "pt": "A travessa de frutos do mar é uma especialidade da costa." },
+        { "level": "C1-C2", "fr": "Les fruits de mer de la baie portent le goût du large.", "pt": "Os frutos do mar da baía carregam o sabor do mar aberto." }
+      ]
+    },
+    {
+      "term": "vivant",
+      "definitionPt": "vivo",
+      "definitionFr": "Qui est en vie.",
+      "inflections": ["vivant", "vivante", "vivants"],
+      "ptTargets": ["vivo"],
+      "examples": [
+        { "level": "A1", "fr": "Le poisson est vivant.", "pt": "O peixe está vivo." },
+        { "level": "A2-B1", "fr": "Le coquillage était encore vivant.", "pt": "A concha ainda estava viva." },
+        { "level": "B2", "fr": "La baie est un monde vivant qui respire avec les marées.", "pt": "A baía é um mundo vivo que respira com as marés." },
+        { "level": "C1-C2", "fr": "Tout est vivant ici, même le sable semble respirer.", "pt": "Tudo é vivo aqui, até a areia parece respirar." }
+      ]
+    },
+    {
+      "term": "délicieux",
+      "definitionPt": "delicioso",
+      "definitionFr": "Très bon.",
+      "inflections": ["délicieux", "délicieuse", "délicieux"],
+      "ptTargets": ["delicioso"],
+      "examples": [
+        { "level": "A1", "fr": "Le gâteau est délicieux.", "pt": "O bolo é delicioso." },
+        { "level": "A2-B1", "fr": "Les moules marinières sont délicieuses.", "pt": "Os mexilhões ao vinho branco são deliciosos." },
+        { "level": "B2", "fr": "Ce plat de coquillages était délicieux.", "pt": "Este prato de mariscos estava delicioso." },
+        { "level": "C1-C2", "fr": "Délicieuses et simples, les moules de la baie n'ont besoin d'aucune sauce.", "pt": "Deliciosos e simples, os mexilhões da baía não precisam de molho algum." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Quand la mer montait : l'habitude au passé",
+    "explanationPt": "'Quand la mer montait (IMP), elle apportait (IMP) la nourriture des moules' — ação repetida no passado = imparfait. Descreve um ciclo da natureza.",
+    "exampleFr": "Quand la mer montait, elle apportait la nourriture aux moules des bouchots.",
+    "examplePt": "Quando a maré subia, trazia o alimento aos mexilhões dos bouchots.",
+    "practiceQuestion": "Complete: « Quand la mer montait, elle ___ la nourriture. »",
+    "options": ["apportait", "a apporté", "apportera"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "À marée basse / à marée haute : le vocabulaire des marées",
+        "explanationPt": "'À marée basse' (maré baixa), 'à marée haute' (maré alta), 'la marée monte' (a maré sobe), 'la marée descend' (a maré desce). Esses termos organizam a vida na baía.",
+        "exampleFr": "À marée basse, on ramasse des moules ; à marée haute, la mer couvre les bouchots.",
+        "examplePt": "Na maré baixa, recolhem-se mexilhões; na maré alta, o mar cobre os bouchots.",
+        "practiceQuestion": "Quando se faz a pêche à pied?",
+        "options": ["À marée basse", "À marée haute", "La nuit"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "Il faut respecter : le devoir envers la nature",
+        "explanationPt": "'Il faut + infinitif' expressa dever: 'il faut respecter la mer' (é preciso respeitar o mar), 'il faut remettre les petits coquillages à l'eau'.",
+        "exampleFr": "Il faut respecter la nature et remettre les petits coquillages à l'eau.",
+        "examplePt": "É preciso respeitar a natureza e devolver os pequenos mariscos à água.",
+        "practiceQuestion": "Complete: « Il ___ respecter la mer. »",
+        "options": ["faut", "faux", "fait"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "O que é a pêche à pied?",
+      "options": ["Recolher mariscos a pé na maré baixa", "Pescar com redes de barco", "Pescar no gelo"],
+      "correctIndex": 0,
+      "explanation": "Na maré baixa, as pessoas andam pela baía recolhendo moules, coques e outros mariscos."
+    },
+    {
+      "question": "Onde crescem as moules de bouchot?",
+      "options": ["Em estacas de madeira", "Em rochas profundas", "Em caixas de vidro"],
+      "correctIndex": 0,
+      "explanation": "Os mexilhões de bouchot crescem em pieux (estacas) de madeira na baía."
+    },
+    {
+      "question": "Complete: « Quand la mer montait, elle ___ la nourriture aux moules. »",
+      "options": ["apportait", "a apporté", "apportera"],
+      "correctIndex": 0,
+      "explanation": "Ciclo habitual no passado = imparfait: 'apportait'."
+    },
+    {
+      "question": "O que Íris fez com o coquillage vivo?",
+      "options": ["Devolveu-o à água com cuidado", "Levou-o para casa", "Jogou-o na areia"],
+      "correctIndex": 0,
+      "explanation": "Íris devolveu o coquillage vivo à água, respeitando o mar."
+    },
+    {
+      "question": "O que a família comeu à noite?",
+      "options": ["Moules marinières", "Carbonnade", "Omelete da Mère Poulard"],
+      "correctIndex": 0,
+      "explanation": "À noite, a família comeu mexilhões ao vinho branco no restaurante."
+    }
+  ]
+}

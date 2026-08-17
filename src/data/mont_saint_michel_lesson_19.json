@@ -1,0 +1,252 @@
+{
+  "id": "mont_saint_michel_lesson_19",
+  "cityId": "mont-saint-michel",
+  "domain": "Cotidiano",
+  "level": "Básico (A2/B1)",
+  "titleFr": "Le Passeur : la navette vers le Mont",
+  "titlePt": "O Passeur: a van rumo ao Mont",
+  "subtitleFr": "Depuis 2012, des navettes électriques mènent les visiteurs au rocher",
+  "subtitlePt": "Desde 2012, vans elétricas levam os visitantes ao rochedo",
+  "summaryPt": "Nesta Aula 19 (A2/B1), a família descobre o Passeur, o ônibus elétrico que leva os visitantes do estacionamento até o Mont desde 2012, substituindo os carros na digue. O aluno pratica o contraste entre passado e presente (autrefois, les voitures traversaient / aujourd'hui, les navettes circulent) e o futur proche.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Le Passeur est arrivé sans bruit. « C'est une navette électrique », a dit Irlan. « Depuis 2012, elle mène les visiteurs du parking au Mont. »",
+      "pt": "O Passeur chegou sem ruído. « É uma van elétrica », disse Irlan. « Desde 2012, ela leva os visitantes do estacionamento ao Mont. »"
+    },
+    {
+      "id": 2,
+      "fr": "« Autrefois, les voitures traversaient la digue », a expliqué Andréa. « Elles étaient des milliers chaque jour. Maintenant, les gens prennent la navette ou marchent. »",
+      "pt": "« Antigamente, os carros atravessavam o dique », explicou Andréa. « Eram milhares a cada dia. Agora, as pessoas pegam a van ou caminham. »"
+    },
+    {
+      "id": 3,
+      "fr": "La famille est montée dans la navette. « Nous allons arriver au Mont en dix minutes », a annoncé Irlan. « Et nous allons marcher sur la digue au retour. »",
+      "pt": "A família entrou na van. « Vamos chegar ao Mont em dez minutos », anunciou Irlan. « E vamos caminhar pelo dique na volta. »"
+    },
+    {
+      "id": 4,
+      "fr": "De la navette, on voyait la baie changer de couleur. « Regardez, la mer monte déjà », a dit Íris. « Le Passeur est plus rapide que la marée ! »",
+      "pt": "Da van, via-se a baía mudar de cor. « Olhem, o mar já está subindo », disse Íris. « O Passeur é mais rápido que a maré! »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "la navette",
+      "definitionPt": "a van, o transporte de ligação",
+      "definitionFr": "Véhicule qui fait des allers-retours.",
+      "inflections": ["la navette", "une navette", "des navettes"],
+      "ptTargets": ["van", "transporte"],
+      "examples": [
+        { "level": "A1", "fr": "La navette est gratuite.", "pt": "A van é gratuita." },
+        { "level": "A2-B1", "fr": "La navette mène les visiteurs au Mont.", "pt": "A van leva os visitantes ao Mont." },
+        { "level": "B2", "fr": "Les navettes électriques ont remplacé les voitures sur la digue.", "pt": "As vans elétricas substituíram os carros no dique." },
+        { "level": "C1-C2", "fr": "La navette glisse vers le Mont comme un oiseau silencieux.", "pt": "A van desliza rumo ao Mont como um pássaro silencioso." }
+      ]
+    },
+    {
+      "term": "électrique",
+      "definitionPt": "elétrico",
+      "definitionFr": "Qui fonctionne à l'électricité.",
+      "inflections": ["électrique", "électriques", "l'électricité"],
+      "ptTargets": ["elétrico"],
+      "examples": [
+        { "level": "A1", "fr": "Le bus est électrique.", "pt": "O ônibus é elétrico." },
+        { "level": "A2-B1", "fr": "Le Passeur est une navette électrique.", "pt": "O Passeur é uma van elétrica." },
+        { "level": "B2", "fr": "Les navettes électriques protègent la baie de la pollution.", "pt": "As vans elétricas protegem a baía da poluição." },
+        { "level": "C1-C2", "fr": "Le silence des moteurs électriques a rendu la digue plus belle.", "pt": "O silêncio dos motores elétricos deixou o dique mais bonito." }
+      ]
+    },
+    {
+      "term": "le parking",
+      "definitionPt": "o estacionamento",
+      "definitionFr": "Lieu où l'on gare les voitures.",
+      "inflections": ["le parking", "un parking", "des parkings"],
+      "ptTargets": ["estacionamento"],
+      "examples": [
+        { "level": "A1", "fr": "Le parking est plein.", "pt": "O estacionamento está cheio." },
+        { "level": "A2-B1", "fr": "Les visiteurs laissent leur voiture au parking.", "pt": "Os visitantes deixam o carro no estacionamento." },
+        { "level": "B2", "fr": "Le grand parking du Mont accueille des milliers de voitures.", "pt": "O grande estacionamento do Mont recebe milhares de carros." },
+        { "level": "C1-C2", "fr": "Du parking, le Mont semble un navire ancré dans la baie.", "pt": "Do estacionamento, o Mont parece um navio ancorado na baía." }
+      ]
+    },
+    {
+      "term": "la digue",
+      "definitionPt": "o dique",
+      "definitionFr": "Route surélevée qui protège de la mer.",
+      "inflections": ["la digue", "une digue", "des digues"],
+      "ptTargets": ["dique"],
+      "examples": [
+        { "level": "A1", "fr": "La digue est longue.", "pt": "O dique é longo." },
+        { "level": "A2-B1", "fr": "La digue relie le continent au Mont.", "pt": "O dique liga o continente ao Mont." },
+        { "level": "B2", "fr": "Autrefois, les voitures traversaient la digue.", "pt": "Antigamente, os carros atravessavam o dique." },
+        { "level": "C1-C2", "fr": "La digue, à marée haute, ressemble à un chemin de sable sur l'eau.", "pt": "O dique, na maré alta, parece um caminho de areia sobre a água." }
+      ]
+    },
+    {
+      "term": "le visiteur",
+      "definitionPt": "o visitante",
+      "definitionFr": "Personne qui visite un lieu.",
+      "inflections": ["le visiteur", "la visiteuse", "des visiteurs"],
+      "ptTargets": ["visitante"],
+      "examples": [
+        { "level": "A1", "fr": "Le visiteur est perdu.", "pt": "O visitante está perdido." },
+        { "level": "A2-B1", "fr": "Des milliers de visiteurs viennent chaque jour.", "pt": "Milhares de visitantes vêm todos os dias." },
+        { "level": "B2", "fr": "Les visiteurs doivent respecter les heures de marée.", "pt": "Os visitantes devem respeitar os horários da maré." },
+        { "level": "C1-C2", "fr": "Le visiteur du Mont repart toujours avec un peu de baie dans les yeux.", "pt": "O visitante do Mont sempre parte com um pouco de baía nos olhos." }
+      ]
+    },
+    {
+      "term": "la voiture",
+      "definitionPt": "o carro",
+      "definitionFr": "Automobile.",
+      "inflections": ["la voiture", "une voiture", "des voitures"],
+      "ptTargets": ["carro"],
+      "examples": [
+        { "level": "A1", "fr": "La voiture est rouge.", "pt": "O carro é vermelho." },
+        { "level": "A2-B1", "fr": "Autrefois, les voitures traversaient la digue.", "pt": "Antigamente, os carros atravessavam o dique." },
+        { "level": "B2", "fr": "La voiture est restée au parking, loin du Mont.", "pt": "O carro ficou no estacionamento, longe do Mont." },
+        { "level": "C1-C2", "fr": "La voiture a cédé la place au pas et à la navette.", "pt": "O carro cedeu lugar ao passo e à van." }
+      ]
+    },
+    {
+      "term": "marcher",
+      "definitionPt": "caminhar",
+      "definitionFr": "Se déplacer à pied.",
+      "inflections": ["je marche", "nous marchons", "marché"],
+      "ptTargets": ["caminhar"],
+      "examples": [
+        { "level": "A1", "fr": "Je marche dans la rue.", "pt": "Caminho na rua." },
+        { "level": "A2-B1", "fr": "Nous allons marcher sur la digue.", "pt": "Vamos caminhar pelo dique." },
+        { "level": "B2", "fr": "Les visiteurs marchent jusqu'au Mont quand la météo est belle.", "pt": "Os visitantes caminham até o Mont quando o tempo está bom." },
+        { "level": "C1-C2", "fr": "Marcher sur la digue, c'est marcher entre deux mondes.", "pt": "Caminhar no dique é caminhar entre dois mundos." }
+      ]
+    },
+    {
+      "term": "protéger",
+      "definitionPt": "proteger",
+      "definitionFr": "Mettre à l'abri.",
+      "inflections": ["je protège", "nous protégeons", "protégé"],
+      "ptTargets": ["proteger"],
+      "examples": [
+        { "level": "A1", "fr": "Je protège mon chat.", "pt": "Protejo meu gato." },
+        { "level": "A2-B1", "fr": "La navette protège la baie de la pollution.", "pt": "A van protege a baía da poluição." },
+        { "level": "B2", "fr": "Les barrages protègent le Mont de l'ensablement.", "pt": "As barragens protegem o Mont do assoreamento." },
+        { "level": "C1-C2", "fr": "Protéger ce lieu unique est devenu une mission collective.", "pt": "Proteger este lugar único tornou-se uma missão coletiva." }
+      ]
+    },
+    {
+      "term": "le bruit",
+      "definitionPt": "o ruído, o barulho",
+      "definitionFr": "Son fort ou désagréable.",
+      "inflections": ["le bruit", "un bruit", "des bruits"],
+      "ptTargets": ["ruído", "barulho"],
+      "examples": [
+        { "level": "A1", "fr": "Le bruit est fort.", "pt": "O barulho é alto." },
+        { "level": "A2-B1", "fr": "Le Passeur avance sans bruit.", "pt": "O Passeur avança sem ruído." },
+        { "level": "B2", "fr": "Le seul bruit de la baie, c'est celui du vent et des oiseaux.", "pt": "O único ruído da baía é o do vento e dos pássaros." },
+        { "level": "C1-C2", "fr": "La disparition des bruits de moteur a rendu la baie plus profonde.", "pt": "O desaparecimento dos ruídos de motor deixou a baía mais profunda." }
+      ]
+    },
+    {
+      "term": "le continent",
+      "definitionPt": "o continente",
+      "definitionFr": "Grande étendue de terre.",
+      "inflections": ["le continent", "un continent", "des continents"],
+      "ptTargets": ["continente"],
+      "examples": [
+        { "level": "A1", "fr": "Le continent est grand.", "pt": "O continente é grande." },
+        { "level": "A2-B1", "fr": "La digue relie le Mont au continent.", "pt": "O dique liga o Mont ao continente." },
+        { "level": "B2", "fr": "À marée haute, le Mont semble séparé du continent.", "pt": "Na maré alta, o Mont parece separado do continente." },
+        { "level": "C1-C2", "fr": "Entre l'île et le continent, la digue est un fil de pierre.", "pt": "Entre a ilha e o continente, o dique é um fio de pedra." }
+      ]
+    },
+    {
+      "term": "changer",
+      "definitionPt": "mudar",
+      "definitionFr": "Devenir différent.",
+      "inflections": ["je change", "nous changeons", "changé"],
+      "ptTargets": ["mudar"],
+      "examples": [
+        { "level": "A1", "fr": "Le temps change.", "pt": "O tempo muda." },
+        { "level": "A2-B1", "fr": "La baie change de couleur avec la marée.", "pt": "A baía muda de cor com a maré." },
+        { "level": "B2", "fr": "Le Mont a changé de visage au fil des siècles.", "pt": "O Mont mudou de rosto ao longo dos séculos." },
+        { "level": "C1-C2", "fr": "Changer sans se trahir, c'est l'art des lieux qui durent.", "pt": "Mudar sem se trair é a arte dos lugares que duram." }
+      ]
+    },
+    {
+      "term": "arriver",
+      "definitionPt": "chegar",
+      "definitionFr": "Parvenir à destination.",
+      "inflections": ["j'arrive", "nous arrivons", "arrivé"],
+      "ptTargets": ["chegar"],
+      "examples": [
+        { "level": "A1", "fr": "J'arrive à midi.", "pt": "Chego ao meio-dia." },
+        { "level": "A2-B1", "fr": "Nous allons arriver au Mont en dix minutes.", "pt": "Vamos chegar ao Mont em dez minutos." },
+        { "level": "B2", "fr": "Les visiteurs sont arrivés avant la marée haute.", "pt": "Os visitantes chegaram antes da maré alta." },
+        { "level": "C1-C2", "fr": "Arriver au Mont, c'est toujours un moment de grâce.", "pt": "Chegar ao Mont é sempre um momento de graça." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Autrefois / aujourd'hui : le contraste des temps",
+    "explanationPt": "Para contrastar passado e presente: 'autrefois, les voitures traversaient (IMP) la digue' / 'aujourd'hui, les gens prennent (présent) la navette'. Imparfait para o passado, presente para o agora.",
+    "exampleFr": "Autrefois, les voitures traversaient la digue. Aujourd'hui, les navettes électriques circulent en silence.",
+    "examplePt": "Antigamente, os carros atravessavam o dique. Hoje, as vans elétricas circulam em silêncio.",
+    "practiceQuestion": "Complete: « Autrefois, les voitures ___ la digue. »",
+    "options": ["traversaient", "traversent", "traverseront"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "Le futur proche pour les projets du jour",
+        "explanationPt": "Planos imediatos: 'nous allons arriver' (vamos chegar), 'nous allons marcher' (vamos caminhar). Estrutura: aller + infinitif.",
+        "exampleFr": "Nous allons arriver en dix minutes, puis nous allons marcher sur la digue.",
+        "examplePt": "Vamos chegar em dez minutos, depois vamos caminhar pelo dique.",
+        "practiceQuestion": "Complete: « Nous ___ arriver en dix minutes. »",
+        "options": ["allons", "avons", "sommes"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "Depuis 2012 : situer une durée",
+        "explanationPt": "'Depuis + ano' indica desde quando algo existe: 'depuis 2012, la navette mène les visiteurs' (desde 2012, a van leva os visitantes). Com o presente.",
+        "exampleFr": "Depuis 2012, le Passeur mène les visiteurs au Mont.",
+        "examplePt": "Desde 2012, o Passeur leva os visitantes ao Mont.",
+        "practiceQuestion": "Complete: « ___ 2012, la navette mène les visiteurs. »",
+        "options": ["Depuis", "Pendant", "Avant"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "O que é o Passeur?",
+      "options": ["Uma van elétrica que leva os visitantes ao Mont desde 2012", "Um barco de pesca", "Um cavalo da baía"],
+      "correctIndex": 0,
+      "explanation": "O Passeur é a navette elétrica que liga o estacionamento ao Mont desde 2012."
+    },
+    {
+      "question": "Complete: « Autrefois, les voitures ___ la digue. »",
+      "options": ["traversaient", "traversent", "traverseront"],
+      "correctIndex": 0,
+      "explanation": "Passado habitual = imparfait: 'traversaient'."
+    },
+    {
+      "question": "Complete: « Nous ___ arriver en dix minutes. »",
+      "options": ["allons", "avons", "sommes"],
+      "correctIndex": 0,
+      "explanation": "Futur proche: 'nous allons arriver'."
+    },
+    {
+      "question": "O que as pessoas fazem agora em vez de cruzar o dique de carro?",
+      "options": ["Pegam a navette ou caminham", "Andam de bicicleta na maré", "Voam de helicóptero"],
+      "correctIndex": 0,
+      "explanation": "Desde 2012, os visitantes usam a navette ou caminham pela digue."
+    },
+    {
+      "question": "O que Íris observou da navette?",
+      "options": ["A maré já subindo, mudando a cor da baía", "Um cardume de peixes", "Um navio pirata"],
+      "correctIndex": 0,
+      "explanation": "Da van, a família viu a maré subir e a baía mudar de cor."
+    }
+  ]
+}

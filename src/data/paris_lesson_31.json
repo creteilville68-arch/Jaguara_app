@@ -1,0 +1,252 @@
+{
+  "id": "paris_lesson_31",
+  "cityId": "paris",
+  "domain": "Lazer & Natureza",
+  "level": "Iniciante (A1)",
+  "titleFr": "Le week-end au parc",
+  "titlePt": "O fim de semana no parque",
+  "subtitleFr": "Le pique-nique, le ballon et les jeux en famille",
+  "subtitlePt": "O piquenique, a bola e as brincadeiras em família",
+  "summaryPt": "Nesta Aula 31 (A1), a família passa o sábado no parc des Buttes-Chaumont. O aluno aprende o vocabulário do lazer (week-end, parc, pique-nique, jeux, vélo, ballon, banc) e o verbo 'jouer' com as preposições 'à' e 'au'.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "C'est samedi, le week-end ! La famille va au parc des Buttes-Chaumont. « Prenons le ballon et le pique-nique ! » dit Iris. Ils marchent sous les arbres jusqu'à une grande pelouse verte.",
+      "pt": "É sábado, fim de semana! A família vai ao parque des Buttes-Chaumont. « Vamos levar a bola e o piquenique! » diz Íris. Eles caminham sob as árvores até um grande gramado verde."
+    },
+    {
+      "id": 2,
+      "fr": "Iris joue au ballon avec son père. « Passe-moi le ballon, papa ! » Andréa prépare le pique-nique sur un banc : du pain, du fromage, des fruits et de l'eau. « Mangez un peu, les sportifs ! » rit-elle.",
+      "pt": "Íris joga bola com o pai. « Passa a bola pra mim, papai! » Andréa prepara o piquenique num banco: pão, queijo, frutas e água. « Comam um pouco, atletas! » ri ela."
+    },
+    {
+      "id": 3,
+      "fr": "Après le repas, Iris fait du vélo sur la petite route du parc. « Regarde, maman, sans les mains ! » crie-t-elle. Irlan court à côté d'elle. « Attention, ma chérie ! » dit Andréa, inquiète. « Ne va pas trop vite ! »",
+      "pt": "Depois da refeição, Íris anda de bicicleta na estradinha do parque. « Olha, mamãe, sem as mãos! » grita ela. Irlan corre ao lado dela. « Cuidado, minha querida! » diz Andréa, preocupada. « Não vá rápido demais! »"
+    },
+    {
+      "id": 4,
+      "fr": "En fin de journée, ils s'assoient sur l'herbe pour regarder le ciel. « C'est beau, la nature à Paris, dit Andréa. On peut jouer, rire et se reposer, tout près de la ville. » Iris prend la main de ses parents : « Le week-end, c'est mon jour préféré ! »",
+      "pt": "No fim do dia, eles sentam na grama para olhar o céu. « É linda, a natureza em Paris, diz Andréa. Pode-se brincar, rir e descansar, bem perto da cidade. » Íris pega a mão dos pais: « O fim de semana é o meu dia preferido! »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "le week-end",
+      "definitionPt": "o fim de semana",
+      "definitionFr": "Samedi et dimanche.",
+      "inflections": ["le week-end", "un week-end", "des week-ends"],
+      "ptTargets": ["fim de semana", "final de semana"],
+      "examples": [
+        { "level": "A1", "fr": "Le week-end, la famille se repose.", "pt": "No fim de semana, a família descansa." },
+        { "level": "A2-B1", "fr": "Le week-end commence le samedi matin.", "pt": "O fim de semana começa no sábado de manhã." },
+        { "level": "B2", "fr": "Le week-end, les parcs parisiens sont pleins de familles.", "pt": "No fim de semana, os parques parisienses ficam cheios de famílias." },
+        { "level": "C1-C2", "fr": "C'est le week-end qui, attendu, récompense la semaine de travail.", "pt": "É o fim de semana que, esperado, recompensa a semana de trabalho." }
+      ]
+    },
+    {
+      "term": "le parc",
+      "definitionPt": "o parque",
+      "definitionFr": "Espace vert public.",
+      "inflections": ["le parc", "un parc", "des parcs"],
+      "ptTargets": ["parque"],
+      "examples": [
+        { "level": "A1", "fr": "Le parc est vert.", "pt": "O parque é verde." },
+        { "level": "A2-B1", "fr": "La famille va au parc le samedi.", "pt": "A família vai ao parque no sábado." },
+        { "level": "B2", "fr": "Les parcs, nombreux, offrent une bouffée d'air à Paris.", "pt": "Os parques, numerosos, oferecem um sopro de ar a Paris." },
+        { "level": "C1-C2", "fr": "C'est le parc qui, au cœur de la ville, invite à la rêverie.", "pt": "É o parque que, no coração da cidade, convida à fantasia." }
+      ]
+    },
+    {
+      "term": "le pique-nique",
+      "definitionPt": "o piquenique",
+      "definitionFr": "Repas en plein air.",
+      "inflections": ["le pique-nique", "un pique-nique", "des pique-niques"],
+      "ptTargets": ["piquenique"],
+      "examples": [
+        { "level": "A1", "fr": "Le pique-nique est prêt.", "pt": "O piquenique está pronto." },
+        { "level": "A2-B1", "fr": "La famille fait un pique-nique sur l'herbe.", "pt": "A família faz um piquenique na grama." },
+        { "level": "B2", "fr": "Le pique-nique, préparé ensemble, est un moment de partage.", "pt": "O piquenique, preparado juntos, é um momento de partilha." },
+        { "level": "C1-C2", "fr": "C'est le pique-nique qui, simple, transforme un dimanche en souvenir.", "pt": "É o piquenique que, simples, transforma um domingo em lembrança." }
+      ]
+    },
+    {
+      "term": "les jeux",
+      "definitionPt": "as brincadeiras (jogos)",
+      "definitionFr": "Activités amusantes.",
+      "inflections": ["les jeux", "le jeu", "un jeu"],
+      "ptTargets": ["brincadeiras", "jogos"],
+      "examples": [
+        { "level": "A1", "fr": "Les jeux sont amusants.", "pt": "As brincadeiras são divertidas." },
+        { "level": "A2-B1", "fr": "Les enfants aiment les jeux au parc.", "pt": "As crianças gostam das brincadeiras no parque." },
+        { "level": "B2", "fr": "Les jeux, partagés, rapprochent les générations.", "pt": "As brincadeiras, partilhadas, aproximam as gerações." },
+        { "level": "C1-C2", "fr": "C'est le jeu qui, bien choisi, enseigne sans qu'on s'en aperçoive.", "pt": "É a brincadeira que, bem escolhida, ensina sem que se perceba." }
+      ]
+    },
+    {
+      "term": "le vélo",
+      "definitionPt": "a bicicleta",
+      "definitionFr": "Bicyclette.",
+      "inflections": ["le vélo", "un vélo", "des vélos"],
+      "ptTargets": ["bicicleta", "bike"],
+      "examples": [
+        { "level": "A1", "fr": "Le vélo est rouge.", "pt": "A bicicleta é vermelha." },
+        { "level": "A2-B1", "fr": "Iris fait du vélo dans le parc.", "pt": "Íris anda de bicicleta no parque." },
+        { "level": "B2", "fr": "Les vélos en libre-service sillonnent Paris.", "pt": "As bicicletas compartilhadas percorrem Paris." },
+        { "level": "C1-C2", "fr": "C'est le vélo qui, silencieux, permet de découvrir une ville autrement.", "pt": "É a bicicleta que, silenciosa, permite descobrir uma cidade de outro jeito." }
+      ]
+    },
+    {
+      "term": "la promenade",
+      "definitionPt": "o passeio",
+      "definitionFr": "Marche pour le plaisir.",
+      "inflections": ["la promenade", "une promenade", "des promenades"],
+      "ptTargets": ["passeio", "caminhada"],
+      "examples": [
+        { "level": "A1", "fr": "La promenade est agréable.", "pt": "O passeio é agradável." },
+        { "level": "A2-B1", "fr": "La famille fait une promenade au parc.", "pt": "A família faz um passeio no parque." },
+        { "level": "B2", "fr": "La promenade du dimanche est une tradition française.", "pt": "O passeio de domingo é uma tradição francesa." },
+        { "level": "C1-C2", "fr": "C'est la promenade qui, lente, permet de voir ce que la hâte cache.", "pt": "É o passeio que, lento, permite ver o que a pressa esconde." }
+      ]
+    },
+    {
+      "term": "ensemble",
+      "definitionPt": "juntos",
+      "definitionFr": "Les uns avec les autres.",
+      "inflections": ["ensemble"],
+      "ptTargets": ["juntos", "em conjunto"],
+      "examples": [
+        { "level": "A1", "fr": "La famille joue ensemble.", "pt": "A família brinca junta." },
+        { "level": "A2-B1", "fr": "Ils mangent le pique-nique ensemble.", "pt": "Eles comem o piquenique juntos." },
+        { "level": "B2", "fr": "Vivre ensemble demande de l'écoute et du respect.", "pt": "Viver juntos exige escuta e respeito." },
+        { "level": "C1-C2", "fr": "C'est ensemble que l'on construit les plus beaux souvenirs.", "pt": "É juntos que se constroem as mais belas lembranças." }
+      ]
+    },
+    {
+      "term": "rire",
+      "definitionPt": "rir",
+      "definitionFr": "Exprimer la joie.",
+      "inflections": ["rire", "je ris", "nous rions"],
+      "ptTargets": ["rir"],
+      "examples": [
+        { "level": "A1", "fr": "Les enfants rient.", "pt": "As crianças riem." },
+        { "level": "A2-B1", "fr": "La famille rit ensemble au parc.", "pt": "A família ri junta no parque." },
+        { "level": "B2", "fr": "On dit que le rire est bon pour la santé.", "pt": "Dizem que o riso faz bem à saúde." },
+        { "level": "C1-C2", "fr": "C'est le rire qui, partagé, illumine les journées ordinaires.", "pt": "É o riso que, partilhado, ilumina os dias comuns." }
+      ]
+    },
+    {
+      "term": "le ballon",
+      "definitionPt": "a bola",
+      "definitionFr": "Objet rond pour jouer.",
+      "inflections": ["le ballon", "un ballon", "des ballons"],
+      "ptTargets": ["bola"],
+      "examples": [
+        { "level": "A1", "fr": "Le ballon est rouge.", "pt": "A bola é vermelha." },
+        { "level": "A2-B1", "fr": "Iris joue au ballon avec son père.", "pt": "Íris joga bola com o pai." },
+        { "level": "B2", "fr": "Les ballons, multicolores, animent les pelouses des parcs.", "pt": "As bolas, multicoloridas, animam os gramados dos parques." },
+        { "level": "C1-C2", "fr": "C'est le ballon qui, lancé, relie les joueurs dans un même élan.", "pt": "É a bola que, lançada, liga os jogadores num mesmo impulso." }
+      ]
+    },
+    {
+      "term": "le banc",
+      "definitionPt": "o banco (assento)",
+      "definitionFr": "Siège public en bois ou en pierre.",
+      "inflections": ["le banc", "un banc", "des bancs"],
+      "ptTargets": ["banco", "assento"],
+      "examples": [
+        { "level": "A1", "fr": "Le banc est au soleil.", "pt": "O banco está ao sol." },
+        { "level": "A2-B1", "fr": "Andréa prépare le pique-nique sur un banc.", "pt": "Andréa prepara o piquenique num banco." },
+        { "level": "B2", "fr": "Les bancs des parcs invitent à la lecture et à la rêverie.", "pt": "Os bancos dos parques convidam à leitura e à fantasia." },
+        { "level": "C1-C2", "fr": "C'est le banc qui, témoin muet, a vu défiler des milliers d'histoires.", "pt": "É o banco que, testemunha muda, viu desfilar milhares de histórias." }
+      ]
+    },
+    {
+      "term": "l'arbre",
+      "definitionPt": "a árvore",
+      "definitionFr": "Végétal avec un tronc.",
+      "inflections": ["l'arbre", "un arbre", "des arbres"],
+      "ptTargets": ["árvore"],
+      "examples": [
+        { "level": "A1", "fr": "L'arbre est grand.", "pt": "A árvore é grande." },
+        { "level": "A2-B1", "fr": "La famille marche sous les arbres.", "pt": "A família caminha sob as árvores." },
+        { "level": "B2", "fr": "Les arbres, centenaires, protègent les allées du parc.", "pt": "As árvores, centenárias, protegem as alamedas do parque." },
+        { "level": "C1-C2", "fr": "C'est l'arbre qui, immobile, voit passer les saisons et les vies.", "pt": "É a árvore que, imóvel, vê passarem as estações e as vidas." }
+      ]
+    },
+    {
+      "term": "jouer",
+      "definitionPt": "brincar (jogar)",
+      "definitionFr": "S'amuser, pratiquer un jeu.",
+      "inflections": ["jouer", "je joue", "nous jouons"],
+      "ptTargets": ["brincar", "jogar"],
+      "examples": [
+        { "level": "A1", "fr": "Je joue au ballon.", "pt": "Eu jogo bola." },
+        { "level": "A2-B1", "fr": "Les enfants jouent dans le parc.", "pt": "As crianças brincam no parque." },
+        { "level": "B2", "fr": "Jouer ensemble, c'est apprendre à partager.", "pt": "Brincar juntos é aprender a partilhar." },
+        { "level": "C1-C2", "fr": "C'est en jouant que l'on apprend les règles de la vie en société.", "pt": "É brincando que se aprendem as regras da vida em sociedade." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Jouer à / jouer au : o esporte e a bola",
+    "explanationPt": "Com jogos e esportes: 'jouer à' + artigo. 'jouer au ballon' (jogar bola), 'jouer au foot' (jogar futebol), 'jouer aux cartes' (jogar cartas). Ex.: 'Iris joue au ballon avec son père.'",
+    "exampleFr": "Iris joue au ballon avec son père.",
+    "examplePt": "Íris joga bola com o pai.",
+    "practiceQuestion": "Complete: 'Nous jouons _____ foot.'",
+    "options": ["au", "à la", "aux"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "Faire du vélo : a atividade",
+        "explanationPt": "Com algumas atividades usa-se 'faire de': 'faire du vélo' (andar de bicicleta), 'faire de la natation' (nadar), 'faire de la musique'. Ex.: 'Iris fait du vélo.'",
+        "exampleFr": "Après le repas, Iris fait du vélo sur la petite route du parc.",
+        "examplePt": "Depois da refeição, Íris anda de bicicleta na estradinha do parque.",
+        "practiceQuestion": "Complete: 'Iris fait _____ vélo.'",
+        "options": ["du", "de la", "des"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "L'impératif négatif : ne...pas",
+        "explanationPt": "Para proibir com carinho: 'Ne va pas trop vite !' (não vá rápido demais), 'Ne cours pas !' (não corra!). Verbo no imperativo entre ne...pas.",
+        "exampleFr": "Attention, ma chérie ! Ne va pas trop vite !",
+        "examplePt": "Cuidado, minha querida! Não vá rápido demais!",
+        "practiceQuestion": "Complete: 'Ne _____ pas trop vite !'",
+        "options": ["va", "vas", "vais"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Para qual parque a família vai no sábado?",
+      "options": ["parc des Buttes-Chaumont", "parque da Torre Eiffel", "parque do aeroporto"],
+      "correctIndex": 0,
+      "explanation": "La famille va au parc des Buttes-Chaumont."
+    },
+    {
+      "question": "O que Íris faz depois da refeição?",
+      "options": ["anda de bicicleta", "dorme no banco", "volta para casa"],
+      "correctIndex": 0,
+      "explanation": "Iris fait du vélo sur la petite route du parc."
+    },
+    {
+      "question": "Complete: 'Nous jouons _____ foot.'",
+      "options": ["au", "à la", "aux"],
+      "correctIndex": 0,
+      "explanation": "jouer au foot: jogar futebol."
+    },
+    {
+      "question": "Complete: 'Iris fait _____ vélo.'",
+      "options": ["du", "de la", "des"],
+      "correctIndex": 0,
+      "explanation": "faire du vélo: andar de bicicleta."
+    },
+    {
+      "question": "Qual é o dia preferido de Íris?",
+      "options": ["o fim de semana", "a segunda-feira", "o dia de escola"],
+      "correctIndex": 0,
+      "explanation": "Le week-end, c'est mon jour préféré!"
+    }
+  ]
+}

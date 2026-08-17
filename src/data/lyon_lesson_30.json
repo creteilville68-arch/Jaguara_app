@@ -1,0 +1,257 @@
+{
+  "id": "lyon_lesson_30",
+  "cityId": "lyon",
+  "domain": "História & Memória",
+  "level": "Intermediário (B2+)",
+  "titleFr": "Les traboules de la Résistance : les couloirs de la liberté",
+  "titlePt": "As traboules da Resistência: os corredores da liberdade",
+  "subtitleFr": "Raconter la Résistance avec si + plus-que-parfait",
+  "subtitlePt": "Contar a Resistência com si + mais-que-perfeito",
+  "summaryPt": "Durante a ocupação, as traboules de Lyon salvaram vidas: os resistentes circulavam pelos pátios e corredores sem serem vistos. Nesta aula, Irlan percorre esses passagens e imagina o medo e a coragem daqueles anos. Nesta aula B2+, si + plus-que-parfait → conditionnel passé explora o que teria acontecido.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "« Pendant la guerre, ces cours étaient pleines de résistants », dit le guide. Irlan regarda les portes en bois : « S'ils avaient été découverts, ils auraient été arrêtés. » Le guide hocha la tête, grave.",
+      "pt": "« Durante a guerra, esses pátios estavam cheios de resistentes », disse o guia. Irlan olhou as portas de madeira: « Se tivessem sido descobertos, teriam sido presos. » O guia balançou a cabeça, sério."
+    },
+    {
+      "id": 2,
+      "fr": "Les résistants utilisaient les traboules pour échapper aux patrouilles. « S'ils n'avaient pas connu ces passages, beaucoup n'auraient pas survécu », murmura Irlan. Andréa écouta en silence, Íris serra la main de sa mère.",
+      "pt": "Os resistentes usavam as traboules para escapar das patrulhas. « Se não tivessem conhecido essas passagens, muitos não teriam sobrevivido », murmurou Irlan. Andréa ouviu em silêncio, Íris apertou a mão da mãe."
+    },
+    {
+      "id": 3,
+      "fr": "Le guide raconta une histoire : une famille cachée derrière un mur pendant des mois. « Si les voisins avaient parlé, ils auraient tous été déportés. Personne n'a parlé. » Irlan sentit un frisson.",
+      "pt": "O guia contou uma história: uma família escondida atrás de um muro durante meses. « Se os vizinhos tivessem falado, todos teriam sido deportados. Ninguém falou. » Irlan sentiu um arrepio."
+    },
+    {
+      "id": 4,
+      "fr": "« Aujourd'hui, ces couloirs semblent paisibles, dit Andréa. On imagine mal le danger. » Irlan répondit : « Si nous n'avions pas appris cette histoire, nous aurions traversé ces cours sans comprendre. C'est pour cela qu'il faut se souvenir. »",
+      "pt": "« Hoje, esses corredores parecem pacíficos, disse Andréa. Não se imagina o perigo. » Irlan respondeu: « Se não tivéssemos aprendido essa história, teríamos atravessado esses pátios sem compreender. É por isso que é preciso lembrar. »"
+    },
+    {
+      "id": 5,
+      "fr": "Le soir, Irlan écrivit : « Une traboule, c'est un couloir. Mais dans l'histoire de Lyon, c'est devenu un acte de courage. Si les murs pouvaient parler, ils raconteraient des centaines de vies sauvées. Je les écoute en silence. »",
+      "pt": "À noite, Irlan escreveu: « Uma traboule é um corredor. Mas na história de Lyon, virou um ato de coragem. Se os muros pudessem falar, contariam centenas de vidas salvas. Eu os escuto em silêncio. »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "la patrouille",
+      "definitionPt": "patrulha",
+      "definitionFr": "Groupe de soldats qui surveille.",
+      "inflections": ["la patrouille", "des patrouilles"],
+      "ptTargets": ["patrulha", "patrulhas"],
+      "examples": [
+        { "level": "A1", "fr": "La patrouille passe.", "pt": "A patrulha passa." },
+        { "level": "A2-B1", "fr": "Les résistants échappaient aux patrouilles.", "pt": "Os resistentes escapavam das patrulhas." },
+        { "level": "B1-B2", "fr": "Les patrouilles, nombreuses, surveillaient les rues de Lyon.", "pt": "As patrulhas, numerosas, vigiavam as ruas de Lyon." },
+        { "level": "C1-C2", "fr": "C'est contre les patrouilles que les traboules ont joué leur rôle.", "pt": "É contra as patrulhas que as traboules desempenharam seu papel." }
+      ]
+    },
+    {
+      "term": "échapper",
+      "definitionPt": "escapar, fugir",
+      "definitionFr": "Se soustraire à un danger.",
+      "inflections": ["j'échappe", "échapper", "échappé"],
+      "ptTargets": ["escapar", "fugir", "escapavam"],
+      "examples": [
+        { "level": "A1", "fr": "Le chat échappe au chien.", "pt": "O gato escapa do cachorro." },
+        { "level": "A2-B1", "fr": "Les résistants échappaient aux patrouilles.", "pt": "Os resistentes escapavam das patrulhas." },
+        { "level": "B1-B2", "fr": "En échappant aux patrouilles, ils protégeaient leurs réseaux.", "pt": "Escapando das patrulhas, eles protegiam suas redes." },
+        { "level": "C1-C2", "fr": "C'est en échappant à la surveillance que l'on protège ce qui compte.", "pt": "É escapando da vigilância que se protege o que importa." }
+      ]
+    },
+    {
+      "term": "survivre",
+      "definitionPt": "sobreviver",
+      "definitionFr": "Continuer à vivre malgré le danger.",
+      "inflections": ["je survis", "survivre", "survécu"],
+      "ptTargets": ["sobreviver", "sobrevivido", "teriam sobrevivido"],
+      "examples": [
+        { "level": "A1", "fr": "Il survit à l'accident.", "pt": "Ele sobrevive ao acidente." },
+        { "level": "A2-B1", "fr": "Beaucoup n'ont pas survécu.", "pt": "Muitos não sobreviveram." },
+        { "level": "B1-B2", "fr": "S'ils n'avaient pas connu ces passages, beaucoup n'auraient pas survécu.", "pt": "Se não tivessem conhecido essas passagens, muitos não teriam sobrevivido." },
+        { "level": "C1-C2", "fr": "C'est en survivant que l'on honore ceux qui ne sont pas revenus.", "pt": "É sobrevivendo que se honra os que não voltaram." }
+      ]
+    },
+    {
+      "term": "le frisson",
+      "definitionPt": "arrepio, calafrio",
+      "definitionFr": "Tremblement léger dû à l'émotion.",
+      "inflections": ["le frisson", "des frissons"],
+      "ptTargets": ["arrepio", "calafrio", "arrepios"],
+      "examples": [
+        { "level": "A1", "fr": "Le frisson passe.", "pt": "O arrepio passa." },
+        { "level": "A2-B1", "fr": "Il sentit un frisson.", "pt": "Ele sentiu um arrepio." },
+        { "level": "B1-B2", "fr": "Le frisson, provoqué par l'histoire, parcourut la famille.", "pt": "O arrepio, provocado pela história, percorreu a família." },
+        { "level": "C1-C2", "fr": "C'est le frisson qui révèle que l'histoire nous touche.", "pt": "É o arrepio que revela que a história nos toca." }
+      ]
+    },
+    {
+      "term": "déporter",
+      "definitionPt": "deportar",
+      "definitionFr": "Envoyer de force dans un camp.",
+      "inflections": ["je déporte", "déporter", "déportés"],
+      "ptTargets": ["deportar", "deportados"],
+      "examples": [
+        { "level": "A1", "fr": "C'est terrible de déporter.", "pt": "É terrível deportar." },
+        { "level": "A2-B1", "fr": "Des familles ont été déportées.", "pt": "Famílias foram deportadas." },
+        { "level": "B1-B2", "fr": "S'ils avaient été découverts, ils auraient tous été déportés.", "pt": "Se tivessem sido descobertos, todos teriam sido deportados." },
+        { "level": "C1-C2", "fr": "C'est la déportation qui marque la mémoire des peuples.", "pt": "É a deportação que marca a memória dos povos." }
+      ]
+    },
+    {
+      "term": "se souvenir",
+      "definitionPt": "lembrar-se",
+      "definitionFr": "Garder en mémoire.",
+      "inflections": ["je me souviens", "se souvenir", "se souvenir"],
+      "ptTargets": ["lembrar", "lembrar-se", "lembrar"],
+      "examples": [
+        { "level": "A1", "fr": "Je me souviens de toi.", "pt": "Lembro-me de você." },
+        { "level": "A2-B1", "fr": "Il faut se souvenir.", "pt": "É preciso lembrar." },
+        { "level": "B1-B2", "fr": "Se souvenir de ces histoires, c'est honorer ceux qui ont souffert.", "pt": "Lembrar dessas histórias é honrar os que sofreram." },
+        { "level": "C1-C2", "fr": "C'est en se souvenant que l'on empêche l'oubli de gagner.", "pt": "É lembrando que se impede o esquecimento de vencer." }
+      ]
+    },
+    {
+      "term": "le réseau",
+      "definitionPt": "rede (de resistência)",
+      "definitionFr": "Organisation secrète de résistants.",
+      "inflections": ["le réseau", "des réseaux"],
+      "ptTargets": ["rede", "redes"],
+      "examples": [
+        { "level": "A1", "fr": "Le réseau est secret.", "pt": "A rede é secreta." },
+        { "level": "A2-B1", "fr": "Les réseaux organisaient la Résistance.", "pt": "As redes organizavam a Resistência." },
+        { "level": "B1-B2", "fr": "Les réseaux, dispersés dans la ville, communiquaient par les traboules.", "pt": "As redes, dispersas na cidade, comunicavam-se pelas traboules." },
+        { "level": "C1-C2", "fr": "C'est le réseau qui transforme des actes isolés en force collective.", "pt": "É a rede que transforma atos isolados em força coletiva." }
+      ]
+    },
+    {
+      "term": "le courage",
+      "definitionPt": "coragem",
+      "definitionFr": "Force face au danger.",
+      "inflections": ["le courage"],
+      "ptTargets": ["coragem"],
+      "examples": [
+        { "level": "A1", "fr": "Le courage est grand.", "pt": "A coragem é grande." },
+        { "level": "A2-B1", "fr": "Les voisins ont eu du courage.", "pt": "Os vizinhos tiveram coragem." },
+        { "level": "B1-B2", "fr": "Le courage des voisins, qui n'ont pas parlé, a sauvé des vies.", "pt": "A coragem dos vizinhos, que não falaram, salvou vidas." },
+        { "level": "C1-C2", "fr": "C'est le courage silencieux qui écrit les plus belles pages de l'histoire.", "pt": "É a coragem silenciosa que escreve as mais belas páginas da história." }
+      ]
+    },
+    {
+      "term": "cacher",
+      "definitionPt": "esconder",
+      "definitionFr": "Mettre à l'abri des regards.",
+      "inflections": ["je cache", "cacher", "cachée"],
+      "ptTargets": ["esconder", "escondida"],
+      "examples": [
+        { "level": "A1", "fr": "Je cache le trésor.", "pt": "Escondo o tesouro." },
+        { "level": "A2-B1", "fr": "La famille était cachée derrière un mur.", "pt": "A família estava escondida atrás de um muro." },
+        { "level": "B1-B2", "fr": "La famille, cachée pendant des mois, n'a jamais été découverte.", "pt": "A família, escondida durante meses, nunca foi descoberta." },
+        { "level": "C1-C2", "fr": "C'est en cachant les autres que l'on révèle sa propre humanité.", "pt": "É escondendo os outros que se revela a própria humanidade." }
+      ]
+    },
+    {
+      "term": "la déportation",
+      "definitionPt": "deportação",
+      "definitionFr": "Envoi forcé dans un camp de concentration.",
+      "inflections": ["la déportation"],
+      "ptTargets": ["deportação"],
+      "examples": [
+        { "level": "A1", "fr": "La déportation est tragique.", "pt": "A deportação é trágica." },
+        { "level": "A2-B1", "fr": "La déportation marque l'histoire.", "pt": "A deportação marca a história." },
+        { "level": "B1-B2", "fr": "La déportation, évoquée au musée, reste une plaie de la mémoire.", "pt": "A deportação, evocada no museu, continua uma ferida da memória." },
+        { "level": "C1-C2", "fr": "C'est contre la déportation que se sont levées les consciences.", "pt": "É contra a deportação que se levantaram as consciências." }
+      ]
+    },
+    {
+      "term": "la liberté",
+      "definitionPt": "liberdade",
+      "definitionFr": "Droit de vivre sans oppression.",
+      "inflections": ["la liberté"],
+      "ptTargets": ["liberdade"],
+      "examples": [
+        { "level": "A1", "fr": "La liberté est précieuse.", "pt": "A liberdade é preciosa." },
+        { "level": "A2-B1", "fr": "Les traboules ont protégé la liberté.", "pt": "As traboules protegeram a liberdade." },
+        { "level": "B1-B2", "fr": "La liberté, défendue dans l'ombre, a gagné dans la lumière.", "pt": "A liberdade, defendida na sombra, venceu na luz." },
+        { "level": "C1-C2", "fr": "C'est dans les couloirs obscurs que la liberté a préparé sa victoire.", "pt": "É nos corredores obscuros que a liberdade preparou sua vitória." }
+      ]
+    },
+    {
+      "term": "l'occupation",
+      "definitionPt": "ocupação",
+      "definitionFr": "Période où un pays est occupé par une armée étrangère.",
+      "inflections": ["l'occupation"],
+      "ptTargets": ["ocupação"],
+      "examples": [
+        { "level": "A1", "fr": "L'occupation est dure.", "pt": "A ocupação é dura." },
+        { "level": "A2-B1", "fr": "L'occupation a duré quatre ans.", "pt": "A ocupação durou quatro anos." },
+        { "level": "B1-B2", "fr": "L'occupation, marquée par la peur, a révélé le courage des résistants.", "pt": "A ocupação, marcada pelo medo, revelou a coragem dos resistentes." },
+        { "level": "C1-C2", "fr": "C'est l'occupation qui a forcé la France à choisir son camp.", "pt": "É a ocupação que forçou a França a escolher seu lado." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Si + plus-que-parfait dans les traboules de la Résistance",
+    "explanationPt": "A hipótese passada sobre a Resistência: 's'ils avaient été découverts, ils auraient été arrêtés' (se tivessem sido descobertos, teriam sido presos), 's'ils n'avaient pas connu ces passages, beaucoup n'auraient pas survécu', 'si les voisins avaient parlé, ils auraient tous été déportés'.",
+    "exampleFr": "S'ils avaient été découverts, ils auraient été arrêtés ; si les voisins avaient parlé, ils auraient tous été déportés.",
+    "examplePt": "Se tivessem sido descobertos, teriam sido presos; se os vizinhos tivessem falado, todos teriam sido deportados.",
+    "practiceQuestion": "Complete: « S'ils avaient été découverts, ils auraient été ___. »",
+    "options": ["arrêtés", "arrêté", "arrêter"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "Auraient + participe",
+        "explanationPt": "'Ils auraient été arrêtés' : condicional passado na voz passiva, com concordância.",
+        "exampleFr": "S'ils avaient été découverts, ils auraient été arrêtés.",
+        "examplePt": "Se tivessem sido descobertos, teriam sido presos.",
+        "practiceQuestion": "Complete: « Ils auraient été ___ immédiatement. »",
+        "options": ["arrêtés", "arrêtées", "arrêter"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "N'auraient pas survécu",
+        "explanationPt": "'Beaucoup n'auraient pas survécu' : a negação no condicional passado.",
+        "exampleFr": "S'ils n'avaient pas connu ces passages, beaucoup n'auraient pas survécu.",
+        "examplePt": "Se não tivessem conhecido essas passagens, muitos não teriam sobrevivido.",
+        "practiceQuestion": "Complete: « Beaucoup n'auraient pas ___ sans ces passages. »",
+        "options": ["survécu", "survivre", "survécus"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Complete: « S'ils avaient été découverts, ils auraient été ___. »",
+      "options": ["arrêtés", "arrêté", "arrêter"],
+      "correctIndex": 0,
+      "explanation": "Condicional passado passivo com concordância."
+    },
+    {
+      "question": "O que os resistentes faziam nas traboules?",
+      "options": ["Escapeavam das patrulhas", "Faziam festas", "Escondiam comida"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'Les résistants utilisaient les traboules pour échapper aux patrouilles.'"
+    },
+    {
+      "question": "O que aconteceria se os vizinhos tivessem falado?",
+      "options": ["Todos teriam sido deportados", "Nada aconteceria", "Os resistentes fugiriam"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'Si les voisins avaient parlé, ils auraient tous été déportés.'"
+    },
+    {
+      "question": "Onde a família ficou escondida?",
+      "options": ["Atrás de um muro", "Numa igreja", "Numa barcaça"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'une famille cachée derrière un mur pendant des mois'."
+    },
+    {
+      "question": "O que Irlan disse sobre atravessar os pátios sem saber a história?",
+      "options": ["Que teria atravessado sem compreender", "Que não teria vindo", "Que teria adivinhado tudo"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'Si nous n'avions pas appris cette histoire, nous aurions traversé ces cours sans comprendre.'"
+    }
+  ]
+}

@@ -1,0 +1,237 @@
+{
+  "id": "tours_lesson_39",
+  "cityId": "tours",
+  "domain": "Vida Cotidiana",
+  "level": "Intermediário (B1)",
+  "titleFr": "L'hôtel de ville : le cœur administratif de Tours",
+  "titlePt": "A prefeitura: o coração administrativo de Tours",
+  "subtitleFr": "Sur la place Jean Jaurès, la mairie brille depuis 1904",
+  "subtitlePt": "Na praça Jean Jaurès, a prefeitura brilha desde 1904",
+  "summaryPt": "Nesta Aula 39 (B1), a família descobre o hôtel de ville de Tours, construído entre 1896 e 1904 na praça Jean Jaurès, com sua fachada suntuosa e seu relógio. O aluno pratica o vocabulário administrativo (la mairie, le maire, le document) e a expressão de obrigação (il faut).",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "« Le bâtiment le plus élégant de la place Jean Jaurès, c'est l'hôtel de ville », a dit Andréa. « Il a été construit entre 1896 et 1904. Sa façade est très décorée. »",
+      "pt": "« O edifício mais elegante da praça Jean Jaurès é a prefeitura », disse Andréa. « Foi construída entre 1896 e 1904. Sua fachada é muito decorada. »"
+    },
+    {
+      "id": 2,
+      "fr": "Iris a regardé le grand bâtiment : « C'est la maison du maire ? » « C'est le bureau du maire et de son équipe », a expliqué Irlan. « C'est ici que l'on s'occupe des affaires de la ville. »",
+      "pt": "Íris olhou o grande edifício: « É a casa do prefeito? » « É o gabinete do prefeito e da equipe dele », explicou Irlan. « É aqui que se cuidam dos assuntos da cidade. »"
+    },
+    {
+      "id": 3,
+      "fr": "« Un jour, nous viendrons ici pour les papiers de la famille », a dit Andréa. « Il faut présenter nos documents pour la résidence. C'est une étape obligatoire pour vivre en France. »",
+      "pt": "« Um dia, viremos aqui para os papéis da família », disse Andréa. « É preciso apresentar nossos documentos para a residência. É uma etapa obrigatória para viver na França. »"
+    },
+    {
+      "id": 4,
+      "fr": "Sur la place, des enfants jouaient près de la fontaine. « Quand j'étais livreur, je ne connaissais pas le mot « maire » », a dit Irlan en riant. « Maintenant, je sais que chaque ville de France a son histoire et son administration. »",
+      "pt": "Na praça, crianças brincavam perto da fonte. « Quando eu era entregador, eu não conhecia a palavra « prefeito » », disse Irlan rindo. « Agora, sei que cada cidade da França tem sua história e sua administração. »"
+    },
+    {
+      "id": 5,
+      "fr": "Le soir, Irlan a écrit dans son cahier : « Aujourd'hui, j'ai appris trois mots nouveaux : la mairie, le maire, les documents. Demain, j'en apprendrai trois autres. C'est comme cela qu'on construit une vie nouvelle. »",
+      "pt": "À noite, Irlan escreveu no caderno: « Hoje, aprendi três palavras novas: la mairie, le maire, les documents. Amanhã, aprenderei mais três. É assim que se constrói uma vida nova. »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "l'hôtel de ville",
+      "definitionPt": "a prefeitura",
+      "definitionFr": "Bâtiment où travaille la mairie.",
+      "inflections": ["l'hôtel de ville", "un hôtel de ville", "des hôtels de ville"],
+      "ptTargets": ["prefeitura"],
+      "examples": [
+        { "level": "A1", "fr": "L'hôtel de ville est grand.", "pt": "A prefeitura é grande." },
+        { "level": "A2-B1", "fr": "L'hôtel de ville de Tours est élégant.", "pt": "A prefeitura de Tours é elegante." },
+        { "level": "B1", "fr": "L'hôtel de ville que nous avons vu date de 1904.", "pt": "A prefeitura que vimos data de 1904." },
+        { "level": "C1-C2", "fr": "L'hôtel de ville, palais du citoyen, abrite la vie publique de la cité.", "pt": "A prefeitura, palácio do cidadão, abriga a vida pública da cidade." }
+      ]
+    },
+    {
+      "term": "le maire",
+      "definitionPt": "o prefeito",
+      "definitionFr": "Chef d'une ville.",
+      "inflections": ["le maire", "un maire", "des maires"],
+      "ptTargets": ["prefeito"],
+      "examples": [
+        { "level": "A1", "fr": "Le maire est élu.", "pt": "O prefeito é eleito." },
+        { "level": "A2-B1", "fr": "Le maire s'occupe des affaires de la ville.", "pt": "O prefeito cuida dos assuntos da cidade." },
+        { "level": "B1", "fr": "Le maire qui dirige Tours habite dans la ville.", "pt": "O prefeito que dirige Tours mora na cidade." },
+        { "level": "C1-C2", "fr": "Le maire, premier citoyen, porte la ville sur ses épaules.", "pt": "O prefeito, primeiro cidadão, carrega a cidade nos ombros." }
+      ]
+    },
+    {
+      "term": "la mairie",
+      "definitionPt": "a prefeitura (administração)",
+      "definitionFr": "Administration d'une ville.",
+      "inflections": ["la mairie", "une mairie", "des mairies"],
+      "ptTargets": ["prefeitura"],
+      "examples": [
+        { "level": "A1", "fr": "La mairie est ouverte.", "pt": "A prefeitura está aberta." },
+        { "level": "A2-B1", "fr": "On va à la mairie pour les papiers.", "pt": "Vai-se à prefeitura para os papéis." },
+        { "level": "B1", "fr": "La mairie où nous devons aller est proche.", "pt": "A prefeitura onde devemos ir é perto." },
+        { "level": "C1-C2", "fr": "La mairie, maison commune, enregistre les naissances et les mariages de la cité.", "pt": "A prefeitura, casa comum, registra nascimentos e casamentos da cidade." }
+      ]
+    },
+    {
+      "term": "le document",
+      "definitionPt": "o documento",
+      "definitionFr": "Papier officiel.",
+      "inflections": ["le document", "un document", "des documents"],
+      "ptTargets": ["documento"],
+      "examples": [
+        { "level": "A1", "fr": "Le document est important.", "pt": "O documento é importante." },
+        { "level": "A2-B1", "fr": "Il faut présenter ses documents.", "pt": "É preciso apresentar os documentos." },
+        { "level": "B1", "fr": "Les documents que nous avons préparés sont complets.", "pt": "Os documentos que preparamos estão completos." },
+        { "level": "C1-C2", "fr": "Le document, preuve de papier, ouvre les portes de la vie administrative.", "pt": "O documento, prova de papel, abre as portas da vida administrativa." }
+      ]
+    },
+    {
+      "term": "la résidence",
+      "definitionPt": "a residência",
+      "definitionFr": "Fait d'habiter dans un pays.",
+      "inflections": ["la résidence", "une résidence", "des résidences"],
+      "ptTargets": ["residência"],
+      "examples": [
+        { "level": "A1", "fr": "La résidence est officielle.", "pt": "A residência é oficial." },
+        { "level": "A2-B1", "fr": "Il faut un titre de résidence.", "pt": "É preciso um título de residência." },
+        { "level": "B1", "fr": "La résidence que la famille demande est en cours.", "pt": "A residência que a família pede está em andamento." },
+        { "level": "C1-C2", "fr": "La résidence, ancrage légal, transforme un visiteur en habitant.", "pt": "A residência, ancoragem legal, transforma um visitante em habitante." }
+      ]
+    },
+    {
+      "term": "la fontaine",
+      "definitionPt": "a fonte",
+      "definitionFr": "Construction d'où coule de l'eau.",
+      "inflections": ["la fontaine", "une fontaine", "des fontaines"],
+      "ptTargets": ["fonte"],
+      "examples": [
+        { "level": "A1", "fr": "La fontaine est jolie.", "pt": "A fonte é bonita." },
+        { "level": "A2-B1", "fr": "Les enfants jouent près de la fontaine.", "pt": "As crianças brincam perto da fonte." },
+        { "level": "B1", "fr": "La fontaine qui orne la place est ancienne.", "pt": "A fonte que ornamenta a praça é antiga." },
+        { "level": "C1-C2", "fr": "La fontaine, chant d'eau, rafraîchit la place et les conversations.", "pt": "A fonte, canto de água, refresca a praça e as conversas." }
+      ]
+    },
+    {
+      "term": "la façade",
+      "definitionPt": "a fachada",
+      "definitionFr": "Face avant d'un bâtiment.",
+      "inflections": ["la façade", "une façade", "des façades"],
+      "ptTargets": ["fachada"],
+      "examples": [
+        { "level": "A1", "fr": "La façade est blanche.", "pt": "A fachada é branca." },
+        { "level": "A2-B1", "fr": "La façade de l'hôtel de ville est décorée.", "pt": "A fachada da prefeitura é decorada." },
+        { "level": "B1", "fr": "La façade que l'on admire est sculptée.", "pt": "A fachada que se admira é esculpida." },
+        { "level": "C1-C2", "fr": "La façade, visage du bâtiment, sourit aux habitants de la place.", "pt": "A fachada, rosto do edifício, sorri aos habitantes da praça." }
+      ]
+    },
+    {
+      "term": "l'horloge",
+      "definitionPt": "o relógio",
+      "definitionFr": "Appareil qui donne l'heure.",
+      "inflections": ["l'horloge", "une horloge", "des horloges"],
+      "ptTargets": ["relógio"],
+      "examples": [
+        { "level": "A1", "fr": "L'horloge est ronde.", "pt": "O relógio é redondo." },
+        { "level": "A2-B1", "fr": "L'horloge de la mairie sonne les heures.", "pt": "O relógio da prefeitura bate as horas." },
+        { "level": "B1", "fr": "L'horloge qui domine la place est précise.", "pt": "O relógio que domina a praça é preciso." },
+        { "level": "C1-C2", "fr": "L'horloge, témoin du temps, regarde passer les générations.", "pt": "O relógio, testemunha do tempo, vê passar as gerações." }
+      ]
+    },
+    {
+      "term": "la place",
+      "definitionPt": "a praça",
+      "definitionFr": "Espace public dans une ville.",
+      "inflections": ["la place", "une place", "des places"],
+      "ptTargets": ["praça"],
+      "examples": [
+        { "level": "A1", "fr": "La place est grande.", "pt": "A praça é grande." },
+        { "level": "A2-B1", "fr": "La place Jean Jaurès est au centre.", "pt": "A praça Jean Jaurès fica no centro." },
+        { "level": "B1", "fr": "La place où se trouve la mairie est vivante.", "pt": "A praça onde fica a prefeitura é viva." },
+        { "level": "C1-C2", "fr": "La place, salon public, accueille les fêtes et les silences de la ville.", "pt": "A praça, salão público, acolhe as festas e os silêncios da cidade." }
+      ]
+    },
+    {
+      "term": "obligatoire",
+      "definitionPt": "obrigatório",
+      "definitionFr": "Qu'il faut faire.",
+      "inflections": ["obligatoire", "obligatoires"],
+      "ptTargets": ["obrigatório"],
+      "examples": [
+        { "level": "A1", "fr": "Le devoir est obligatoire.", "pt": "A tarefa é obrigatória." },
+        { "level": "A2-B1", "fr": "Les papiers sont obligatoires.", "pt": "Os papéis são obrigatórios." },
+        { "level": "B1", "fr": "L'étape que nous devons faire est obligatoire.", "pt": "A etapa que devemos fazer é obrigatória." },
+        { "level": "C1-C2", "fr": "Obligatoire, la démarche devient légère quand on la comprend.", "pt": "Obrigatória, a tramitação fica leve quando se a compreende." }
+      ]
+    },
+    {
+      "term": "s'occuper de",
+      "definitionPt": "cuidar de",
+      "definitionFr": "Prendre soin de quelque chose.",
+      "inflections": ["je m'occupe de", "tu t'occupes de", "il s'occupe de", "nous nous occupons de"],
+      "ptTargets": ["cuidar de"],
+      "examples": [
+        { "level": "A1", "fr": "Je m'occupe du chien.", "pt": "Eu cuido do cão." },
+        { "level": "A2-B1", "fr": "Le maire s'occupe de la ville.", "pt": "O prefeito cuida da cidade." },
+        { "level": "B1", "fr": "Les affaires dont la mairie s'occupe sont nombreuses.", "pt": "Os assuntos de que a prefeitura cuida são numerosos." },
+        { "level": "C1-C2", "fr": "S'occuper de sa ville, c'est s'occuper de sa propre maison.", "pt": "Cuidar da própria cidade é cuidar da própria casa." }
+      ]
+    },
+    {
+      "term": "construire",
+      "definitionPt": "construir",
+      "definitionFr": "Bâtir, créer.",
+      "inflections": ["je construis", "tu construis", "il construit", "nous construisons"],
+      "ptTargets": ["construir"],
+      "examples": [
+        { "level": "A1", "fr": "Ils construisent une école.", "pt": "Eles constroem uma escola." },
+        { "level": "A2-B1", "fr": "On a construit la mairie en 1904.", "pt": "Construiu-se a prefeitura em 1904." },
+        { "level": "B1", "fr": "La vie que nous construisons ici est nouvelle.", "pt": "A vida que construímos aqui é nova." },
+        { "level": "C1-C2", "fr": "Construire une vie, c'est poser des mots chaque jour comme des briques.", "pt": "Construir uma vida é assentar palavras todos os dias como tijolos." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "titleFr": "L'obligation : il faut + infinitif",
+    "titlePt": "A obrigação: il faut + infinitivo",
+    "points": [
+      {
+        "fr": "L'obligation impersonnelle : « il faut + infinitif ». Exemple : « Il faut présenter nos documents. » (É preciso apresentar nossos documentos.)",
+        "pt": "A obrigação impessoal: « il faut + infinitivo ». Exemplo: « Il faut présenter nos documents. » (É preciso apresentar nossos documentos.)"
+      },
+      {
+        "fr": "L'obligation personnelle : « devoir + infinitif ». Exemple : « Nous devons aller à la mairie. » (Nós devemos ir à prefeitura.)",
+        "pt": "A obrigação pessoal: « devoir + infinitivo ». Exemplo: « Nous devons aller à la mairie. » (Nós devemos ir à prefeitura.)"
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Entre quais anos a prefeitura de Tours foi construída ?",
+      "options": ["1896 et 1904", "1950 et 1960", "1800 et 1810", "2000 et 2010"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Qual é o nome da praça ?",
+      "options": ["La place Jean Jaurès", "La place Plumereau", "La place de la Bourse", "La place de l'Étoile"],
+      "correctIndex": 0
+    },
+    {
+      "question": "O que é preciso apresentar para a residência ?",
+      "options": ["Des documents", "Des photos", "Des fleurs", "Des cadeaux"],
+      "correctIndex": 0
+    },
+    {
+      "question": "O que Irlan não conhecia quando era entregador ?",
+      "options": ["Le mot maire", "La Loire", "Le vélo", "Le café"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Quantas palavras novas Irlan aprendeu hoje ?",
+      "options": ["Trois", "Dix", "Un", "Cent"],
+      "correctIndex": 0
+    }
+  ]
+}

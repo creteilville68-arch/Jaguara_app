@@ -1,0 +1,252 @@
+{
+  "id": "paris_lesson_25",
+  "cityId": "paris",
+  "domain": "Cotidiano & Compras",
+  "level": "Iniciante (A1)",
+  "titleFr": "Le supermarché du quartier",
+  "titlePt": "O supermercado do bairro",
+  "subtitleFr": "Faire les courses avec la famille, la caisse et la carte bancaire",
+  "subtitlePt": "Fazer as compras com a família, o caixa e o cartão bancário",
+  "summaryPt": "Nesta Aula 25 (A1), a família faz as compras da semana no supermercado do bairro. O aluno aprende o vocabulário das compras (supermarché, caisse, caissière, payer, carte bancaire, espèces) e o verbo 'payer', além de 'faire les courses'.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Aujourd'hui, la famille fait les courses au supermarché du quartier. Iris pousse un panier rouge. « Nous avons besoin de pain, de lait et de fruits », dit Andréa. Irlan regarde la liste sur son téléphone. « Et du fromage ! » ajoute Iris en riant.",
+      "pt": "Hoje, a família faz as compras no supermercado do bairro. Íris empurra um carrinho vermelho. « Precisamos de pão, leite e frutas », diz Andréa. Irlan olha a lista no seu telefone. « E queijo! » acrescenta Íris rindo."
+    },
+    {
+      "id": 2,
+      "fr": "Dans le rayon des légumes, Irlan choisit des tomates et des carottes. « Regarde le prix, mon chéri », dit Andréa. « C'est deux euros le kilo. C'est bien. » Iris met des pommes dans le panier. « Une, deux, trois... j'adore compter ! »",
+      "pt": "Na seção dos legumes, Irlan escolhe tomates e cenouras. « Olhe o preço, meu amor », diz Andréa. « São dois euros o quilo. Está bom. » Íris coloca maçãs no carrinho. « Uma, duas, três... adoro contar! »"
+    },
+    {
+      "id": 3,
+      "fr": "À la caisse, il y a une longue queue. La caissière scanne les articles : le pain, le lait, le fromage, les fruits. « Ça fait trente-deux euros cinquante », dit-elle. Irlan sort sa carte bancaire. « Je paie par carte, s'il vous plaît. »",
+      "pt": "No caixa, há uma fila longa. A caixa registradora lê os produtos: o pão, o leite, o queijo, as frutas. « Dá trinta e dois euros e cinquenta », diz ela. Irlan tira seu cartão bancário. « Vou pagar com cartão, por favor. »"
+    },
+    {
+      "id": 4,
+      "fr": "Ils mettent les courses dans des sacs. « Où est la voiture ? » demande Iris. « Il n'y a pas de voiture, ma chérie ! » rit Andréa. « Nous habitons à Paris : nous rentrons à pied, avec les sacs. » Iris prend un petit sac. « Moi aussi, je peux porter ! »",
+      "pt": "Eles colocam as compras em sacolas. « Onde está o carro? » pergunta Íris. « Não tem carro, minha querida! » ri Andréa. « Moramos em Paris: voltamos a pé, com as sacolas. » Íris pega uma sacola pequena. « Eu também posso carregar! »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "le supermarché",
+      "definitionPt": "o supermercado",
+      "definitionFr": "Grand magasin d'alimentation.",
+      "inflections": ["le supermarché", "un supermarché", "des supermarchés"],
+      "ptTargets": ["supermercado"],
+      "examples": [
+        { "level": "A1", "fr": "Le supermarché est près de la maison.", "pt": "O supermercado fica perto de casa." },
+        { "level": "A2-B1", "fr": "La famille fait les courses au supermarché.", "pt": "A família faz as compras no supermercado." },
+        { "level": "B2", "fr": "Les supermarchés parisiens proposent des produits du monde entier.", "pt": "Os supermercados parisienses oferecem produtos do mundo inteiro." },
+        { "level": "C1-C2", "fr": "C'est au supermarché du quartier que se lit la vie quotidienne d'une ville.", "pt": "É no supermercado do bairro que se lê a vida cotidiana de uma cidade." }
+      ]
+    },
+    {
+      "term": "la caisse",
+      "definitionPt": "o caixa (do supermercado)",
+      "definitionFr": "Endroit où l'on paie.",
+      "inflections": ["la caisse", "une caisse", "des caisses"],
+      "ptTargets": ["caixa"],
+      "examples": [
+        { "level": "A1", "fr": "Il y a une longue queue à la caisse.", "pt": "Há uma fila longa no caixa." },
+        { "level": "A2-B1", "fr": "On paie les courses à la caisse.", "pt": "Paga-se as compras no caixa." },
+        { "level": "B2", "fr": "La caisse automatique permet de payer sans attendre.", "pt": "O caixa automático permite pagar sem esperar." },
+        { "level": "C1-C2", "fr": "C'est à la caisse que se termine le rituel des courses.", "pt": "É no caixa que termina o ritual das compras." }
+      ]
+    },
+    {
+      "term": "la caissière",
+      "definitionPt": "a caixa (funcionária)",
+      "definitionFr": "Personne qui encaisse les achats.",
+      "inflections": ["la caissière", "une caissière", "des caissières"],
+      "ptTargets": ["caixa", "operadora de caixa"],
+      "examples": [
+        { "level": "A1", "fr": "La caissière est gentille.", "pt": "A caixa é gentil." },
+        { "level": "A2-B1", "fr": "La caissière scanne les articles.", "pt": "A caixa lê os produtos." },
+        { "level": "B2", "fr": "La caissière, rapide et souriante, accueille les clients.", "pt": "A caixa, rápida e sorridente, recebe os clientes." },
+        { "level": "C1-C2", "fr": "C'est la caissière qui, par sa patience, adoucit l'attente des clients.", "pt": "É a caixa que, por sua paciência, suaviza a espera dos clientes." }
+      ]
+    },
+    {
+      "term": "payer",
+      "definitionPt": "pagar",
+      "definitionFr": "Donner de l'argent pour un achat.",
+      "inflections": ["payer", "je paie", "nous payons"],
+      "ptTargets": ["pagar"],
+      "examples": [
+        { "level": "A1", "fr": "Je paie à la caisse.", "pt": "Eu pago no caixa." },
+        { "level": "A2-B1", "fr": "Nous payons avec une carte bancaire.", "pt": "Nós pagamos com cartão bancário." },
+        { "level": "B2", "fr": "Il paie ses courses en ligne pour gagner du temps.", "pt": "Ele paga suas compras online para ganhar tempo." },
+        { "level": "C1-C2", "fr": "C'est en payant que l'on découvre le vrai prix des choses simples.", "pt": "É pagando que se descobre o verdadeiro preço das coisas simples." }
+      ]
+    },
+    {
+      "term": "la carte bancaire",
+      "definitionPt": "o cartão bancário",
+      "definitionFr": "Carte de paiement.",
+      "inflections": ["la carte bancaire", "une carte bancaire", "des cartes bancaires"],
+      "ptTargets": ["cartão bancário", "cartão de crédito"],
+      "examples": [
+        { "level": "A1", "fr": "La carte bancaire est dans le portefeuille.", "pt": "O cartão bancário está na carteira." },
+        { "level": "A2-B1", "fr": "Irlan paie avec sa carte bancaire.", "pt": "Irlan paga com seu cartão bancário." },
+        { "level": "B2", "fr": "La carte bancaire sans contact accélère les paiements.", "pt": "O cartão sem contato acelera os pagamentos." },
+        { "level": "C1-C2", "fr": "C'est la carte bancaire qui a transformé nos façons de payer.", "pt": "É o cartão bancário que transformou nossas formas de pagar." }
+      ]
+    },
+    {
+      "term": "les espèces",
+      "definitionPt": "o dinheiro (em espécie)",
+      "definitionFr": "Argent liquide.",
+      "inflections": ["les espèces"],
+      "ptTargets": ["dinheiro em espécie", "dinheiro vivo"],
+      "examples": [
+        { "level": "A1", "fr": "Je paie en espèces.", "pt": "Eu pago em dinheiro." },
+        { "level": "A2-B1", "fr": "Il n'a pas d'espèces, seulement une carte.", "pt": "Ele não tem dinheiro, só cartão." },
+        { "level": "B2", "fr": "De plus en plus de clients préfèrent la carte aux espèces.", "pt": "Cada vez mais clientes preferem o cartão ao dinheiro." },
+        { "level": "C1-C2", "fr": "C'est en espèces que l'on mesure encore la valeur symbolique de l'argent.", "pt": "É em espécie que ainda se mede o valor simbólico do dinheiro." }
+      ]
+    },
+    {
+      "term": "la queue",
+      "definitionPt": "a fila",
+      "definitionFr": "Suite de personnes qui attendent.",
+      "inflections": ["la queue", "une queue", "des queues"],
+      "ptTargets": ["fila"],
+      "examples": [
+        { "level": "A1", "fr": "La queue est longue.", "pt": "A fila é longa." },
+        { "level": "A2-B1", "fr": "Il y a une queue à la caisse.", "pt": "Há uma fila no caixa." },
+        { "level": "B2", "fr": "Faire la queue fait partie de la vie des grandes villes.", "pt": "Fazer fila faz parte da vida das grandes cidades." },
+        { "level": "C1-C2", "fr": "C'est dans la queue que se nouent les petites conversations du quotidien.", "pt": "É na fila que se tecem as pequenas conversas do cotidiano." }
+      ]
+    },
+    {
+      "term": "le sac",
+      "definitionPt": "a sacola",
+      "definitionFr": "Objet pour transporter des courses.",
+      "inflections": ["le sac", "un sac", "des sacs"],
+      "ptTargets": ["sacola", "saco"],
+      "examples": [
+        { "level": "A1", "fr": "Le sac est plein.", "pt": "A sacola está cheia." },
+        { "level": "A2-B1", "fr": "Ils mettent les courses dans des sacs.", "pt": "Eles colocam as compras em sacolas." },
+        { "level": "B2", "fr": "Les sacs réutilisables remplacent les sacs plastique.", "pt": "As sacolas reutilizáveis substituem as sacolas plásticas." },
+        { "level": "C1-C2", "fr": "C'est le sac du marché qui raconte les habitudes d'une famille.", "pt": "É a sacola do mercado que conta os hábitos de uma família." }
+      ]
+    },
+    {
+      "term": "l'article",
+      "definitionPt": "o produto (artigo)",
+      "definitionFr": "Produit acheté en magasin.",
+      "inflections": ["l'article", "un article", "des articles"],
+      "ptTargets": ["produto", "artigo"],
+      "examples": [
+        { "level": "A1", "fr": "La caissière scanne les articles.", "pt": "A caixa lê os produtos." },
+        { "level": "A2-B1", "fr": "Les articles sont dans le panier.", "pt": "Os produtos estão no carrinho." },
+        { "level": "B2", "fr": "Le magasin propose des articles de qualité.", "pt": "A loja oferece produtos de qualidade." },
+        { "level": "C1-C2", "fr": "C'est le choix des articles qui révèle les goûts d'une époque.", "pt": "É a escolha dos produtos que revela os gostos de uma época." }
+      ]
+    },
+    {
+      "term": "le prix",
+      "definitionPt": "o preço",
+      "definitionFr": "Somme à payer.",
+      "inflections": ["le prix", "un prix", "des prix"],
+      "ptTargets": ["preço"],
+      "examples": [
+        { "level": "A1", "fr": "Le prix est bon.", "pt": "O preço é bom." },
+        { "level": "A2-B1", "fr": "Le prix des tomates est deux euros.", "pt": "O preço dos tomates é dois euros." },
+        { "level": "B2", "fr": "Les prix de Paris sont plus élevés qu'en province.", "pt": "Os preços de Paris são mais altos que no interior." },
+        { "level": "C1-C2", "fr": "C'est le prix qui, dans le commerce, donne leur valeur aux choses.", "pt": "É o preço que, no comércio, dá seu valor às coisas." }
+      ]
+    },
+    {
+      "term": "le panier",
+      "definitionPt": "o carrinho (de compras)",
+      "definitionFr": "Contenant pour les achats.",
+      "inflections": ["le panier", "un panier", "des paniers"],
+      "ptTargets": ["carrinho", "cesto"],
+      "examples": [
+        { "level": "A1", "fr": "Le panier est rouge.", "pt": "O carrinho é vermelho." },
+        { "level": "A2-B1", "fr": "Iris pousse le panier du supermarché.", "pt": "Íris empurra o carrinho do supermercado." },
+        { "level": "B2", "fr": "Le panier en ligne garde les produits choisis.", "pt": "O carrinho online guarda os produtos escolhidos." },
+        { "level": "C1-C2", "fr": "C'est le panier qui, rempli, annonce le repas du soir.", "pt": "É o carrinho que, cheio, anuncia a refeição da noite." }
+      ]
+    },
+    {
+      "term": "faire les courses",
+      "definitionPt": "fazer as compras",
+      "definitionFr": "Acheter de la nourriture et des produits.",
+      "inflections": ["faire les courses", "je fais les courses"],
+      "ptTargets": ["fazer as compras", "fazer mercado"],
+      "examples": [
+        { "level": "A1", "fr": "Nous faisons les courses le samedi.", "pt": "Fazemos as compras no sábado." },
+        { "level": "A2-B1", "fr": "Faire les courses au supermarché est rapide.", "pt": "Fazer as compras no supermercado é rápido." },
+        { "level": "B2", "fr": "Elle fait les courses en ligne pour la semaine.", "pt": "Ela faz as compras online para a semana." },
+        { "level": "C1-C2", "fr": "C'est en faisant les courses que l'on découvre les habitudes d'un quartier.", "pt": "É fazendo as compras que se descobrem os hábitos de um bairro." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Le verbe payer au présent",
+    "explanationPt": "O verbo 'payer' (pagar): je paie, tu paies, il/elle paie, nous payons, vous payez, ils/elles paient. Ex.: 'Je paie par carte.' O 'y' vira 'i' antes de um 'e' mudo.",
+    "exampleFr": "Irlan sort sa carte bancaire : « Je paie par carte, s'il vous plaît. »",
+    "examplePt": "Irlan tira seu cartão bancário: « Vou pagar com cartão, por favor. »",
+    "practiceQuestion": "Complete com a forma correta: 'Nous _____ avec une carte.'",
+    "options": ["payons", "paie", "payent"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "Combien ça coûte ?",
+        "explanationPt": "Para perguntar o preço: 'Combien ça coûte ?' (Quanto custa?) e 'C'est combien ?' (Quanto é?). Ex.: 'Ça fait trente-deux euros cinquante.'",
+        "exampleFr": "— Combien ça coûte ? — Ça fait deux euros le kilo.",
+        "examplePt": "— Quanto custa? — Dá dois euros o quilo.",
+        "practiceQuestion": "Complete: '_____ ça coûte ?'",
+        "options": ["Combien", "Comment", "Quand"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "Il n'y a pas de : a negação de existência",
+        "explanationPt": "Com 'il y a' na negação, usa-se 'de': 'Il n'y a pas de voiture' (não tem carro). Ex.: 'Il n'y a pas de pain.'",
+        "exampleFr": "Il n'y a pas de voiture : nous rentrons à pied.",
+        "examplePt": "Não tem carro: voltamos a pé.",
+        "practiceQuestion": "Complete: 'Il n'y a pas _____ voiture.'",
+        "options": ["de", "une", "la"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Complete a frase do texto: 'Nous _____ les courses au supermarché.'",
+      "options": ["faisons", "fais", "font"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'la famille fait les courses' — nous faisons."
+    },
+    {
+      "question": "Como Irlan paga as compras?",
+      "options": ["com cartão bancário", "em dinheiro", "com cheque"],
+      "correctIndex": 0,
+      "explanation": "Irlan paga com sua carte bancaire."
+    },
+    {
+      "question": "Quanto custam as compras da família?",
+      "options": ["trinta e dois euros e cinquenta", "dois euros", "cem euros"],
+      "correctIndex": 0,
+      "explanation": "A caixa diz: 'Ça fait trente-deux euros cinquante.'"
+    },
+    {
+      "question": "Complete: 'Nous _____ avec une carte.'",
+      "options": ["payons", "paie", "payent"],
+      "correctIndex": 0,
+      "explanation": "payer no presente, nous: payons."
+    },
+    {
+      "question": "Por que a família volta a pé?",
+      "options": ["não tem carro", "o metrô está fechado", "está chovendo"],
+      "correctIndex": 0,
+      "explanation": "Não há carro: 'Il n'y a pas de voiture.'"
+    }
+  ]
+}

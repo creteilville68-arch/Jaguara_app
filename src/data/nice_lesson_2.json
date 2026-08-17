@@ -1,0 +1,252 @@
+{
+  "id": "nice_lesson_2",
+  "cityId": "nice",
+  "domain": "Vieux Nice e Mercados",
+  "level": "Avançado (C2)",
+  "titleFr": "Le Vieux Nice et le cours Saleya",
+  "titlePt": "O Vieux Nice e o cours Saleya",
+  "subtitleFr": "Les ruelles, les étals colorés et l'art de la litote",
+  "subtitlePt": "As ruelas, as bancas coloridas e a arte da litote",
+  "summaryPt": "Nesta Aula 2 (C2), a família percorre as ruas do Vieux Nice e o mercado do cours Saleya. O aluno domina a métaphore e a litote, figuras de linguagem essenciais do francês culto, com vocabulário do mercado, das flores e da gastronomia local.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Le cours Saleya, au cœur du Vieux Nice, éclatait de couleurs. Les étals de fleurs, de fruits et d'épices se touchaient sous les auvents. « Ce marché est le cœur de Nice, dit Andréa. Les Niçois n'y viennent pas seulement pour acheter : ils y viennent pour vivre. »",
+      "pt": "O cours Saleya, no coração do Vieux Nice, explodia de cores. As bancas de flores, frutas e especiarias se tocavam sob os toldos. « Este mercado é o coração de Nice, disse Andréa. Os nissardos não vêm aqui apenas para comprar: vêm para viver. »"
+    },
+    {
+      "id": 2,
+      "fr": "Iris respirait les parfums. « Ça sent la fête ! » s'exclama-t-elle. Irlan la prit par la main : « Le marché n'est pas un simple lieu d'échange, ma fille. C'est un théâtre où chaque étal joue sa scène. La métaphore, tu vois, habite déjà notre langage. »",
+      "pt": "Íris respirava os perfumes. « Cheira a festa! » exclamou ela. Irlan a pegou pela mão: « O mercado não é um simples lugar de troca, minha filha. É um teatro onde cada banca representa sua cena. A metáfora, você vê, já habita nossa linguagem. »"
+    },
+    {
+      "id": 3,
+      "fr": "Au coin d'une ruelle, un marchand de socca faisait crépiter sa grande poêle. « La socca, expliqua-t-il, n'est pas une galette ordinaire : c'est la mémoire de Nice dans une assiette. » Andréa goûta et murmura, avec un sourire : « Ce n'est pas mauvais du tout... »",
+      "pt": "Na esquina de uma ruela, um vendedor de socca fazia crepitar sua grande frigideira. « A socca, explicou ele, não é uma galette comum: é a memória de Nice num prato. » Andréa provou e murmurou, com um sorriso: « Não é nada mau... »"
+    },
+    {
+      "id": 4,
+      "fr": "Le soir tombait sur les façades ocres du Vieux Nice. « La ville entière, dit Irlan, est une œuvre d'art que le soleil repeint chaque jour. Après des mois de voyage, je peux le dire sans exagérer : il ne nous manque rien. » Andréa sourit : la litote, elle aussi, était devenue leur langue. »",
+      "pt": "A noite caía sobre as fachadas ocres do Vieux Nice. « A cidade inteira, disse Irlan, é uma obra de arte que o sol repinta todos os dias. Depois de meses de viagem, posso dizê-lo sem exagerar: não nos falta nada. » Andréa sorriu: a litote, também ela, havia se tornado sua língua. »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "le marché",
+      "definitionPt": "o mercado",
+      "definitionFr": "Lieu où l'on vend des produits.",
+      "inflections": ["le marché", "les marchés"],
+      "ptTargets": ["mercado"],
+      "examples": [
+        { "level": "A1", "fr": "Le marché est grand.", "pt": "O mercado é grande." },
+        { "level": "A2-B1", "fr": "Le marché de Saleya est célèbre.", "pt": "O mercado de Saleya é famoso." },
+        { "level": "B1-B2", "fr": "Le marché, coloré et bruyant, anime le Vieux Nice.", "pt": "O mercado, colorido e barulhento, anima o Vieux Nice." },
+        { "level": "C1-C2", "fr": "C'est au marché que bat le cœur authentique de la ville.", "pt": "É no mercado que bate o coração autêntico da cidade." }
+      ]
+    },
+    {
+      "term": "l'étal",
+      "definitionPt": "a banca",
+      "definitionFr": "Table de vente en plein air.",
+      "inflections": ["l'étal", "les étals"],
+      "ptTargets": ["banca", "barraca"],
+      "examples": [
+        { "level": "A1", "fr": "L'étal est coloré.", "pt": "A banca é colorida." },
+        { "level": "A2-B1", "fr": "Les étals de fleurs sont magnifiques.", "pt": "As bancas de flores são magníficas." },
+        { "level": "B1-B2", "fr": "Les étals, chargés de produits, se touchent sous les auvents.", "pt": "As bancas, carregadas de produtos, se tocam sob os toldos." },
+        { "level": "C1-C2", "fr": "C'est derrière chaque étal que se joue le théâtre du quotidien.", "pt": "É atrás de cada banca que se representa o teatro do cotidiano." }
+      ]
+    },
+    {
+      "term": "la fleur",
+      "definitionPt": "a flor",
+      "definitionFr": "Partie colorée d'une plante.",
+      "inflections": ["la fleur", "les fleurs"],
+      "ptTargets": ["flor"],
+      "examples": [
+        { "level": "A1", "fr": "La fleur est jaune.", "pt": "A flor é amarela." },
+        { "level": "A2-B1", "fr": "Les fleurs parfument le marché.", "pt": "As flores perfumam o mercado." },
+        { "level": "B1-B2", "fr": "Les fleurs, alignées par couleurs, offrent un tableau vivant.", "pt": "As flores, alinhadas por cores, oferecem um quadro vivo." },
+        { "level": "C1-C2", "fr": "C'est la fleur qui donne au marché sa palette la plus éclatante.", "pt": "É a flor que dá ao mercado sua paleta mais radiante." }
+      ]
+    },
+    {
+      "term": "le parfum",
+      "definitionPt": "o perfume",
+      "definitionFr": "Odeur agréable.",
+      "inflections": ["le parfum", "les parfums"],
+      "ptTargets": ["perfume", "aroma"],
+      "examples": [
+        { "level": "A1", "fr": "Le parfum est doux.", "pt": "O perfume é suave." },
+        { "level": "A2-B1", "fr": "Le parfum des fleurs remplit la rue.", "pt": "O perfume das flores enche a rua." },
+        { "level": "B1-B2", "fr": "Les parfums, mêlés d'épices, composent l'âme du marché.", "pt": "Os perfumes, misturados a especiarias, compõem a alma do mercado." },
+        { "level": "C1-C2", "fr": "C'est le parfum du Sud qui, dès l'aube, réveille le cours Saleya.", "pt": "É o perfume do Sul que, desde a alvorada, desperta o cours Saleya." }
+      ]
+    },
+    {
+      "term": "la ruelle",
+      "definitionPt": "a ruela",
+      "definitionFr": "Petite rue étroite.",
+      "inflections": ["la ruelle", "les ruelles"],
+      "ptTargets": ["ruela", "beco"],
+      "examples": [
+        { "level": "A1", "fr": "La ruelle est étroite.", "pt": "A ruela é estreita." },
+        { "level": "A2-B1", "fr": "Les ruelles du Vieux Nice sont charmantes.", "pt": "As ruelas do Vieux Nice são encantadoras." },
+        { "level": "B1-B2", "fr": "Les ruelles, ombragées et fraîches, serpentent entre les façades ocres.", "pt": "As ruelas, sombreadas e frescas, serpenteiam entre as fachadas ocres." },
+        { "level": "C1-C2", "fr": "C'est dans ces ruelles que se cache l'histoire millénaire de la ville.", "pt": "É nessas ruelas que se esconde a história milenar da cidade." }
+      ]
+    },
+    {
+      "term": "la socca",
+      "definitionPt": "a socca (panqueca de grão-de-bico)",
+      "definitionFr": "Galette niçoise à base de pois chiches.",
+      "inflections": ["la socca"],
+      "ptTargets": ["socca", "panqueca de grão-de-bico"],
+      "examples": [
+        { "level": "A1", "fr": "La socca est chaude.", "pt": "A socca é quente." },
+        { "level": "A2-B1", "fr": "La socca se mange dans la rue.", "pt": "A socca se come na rua." },
+        { "level": "B1-B2", "fr": "La socca, croustillante, est la spécialité des marchés niçois.", "pt": "A socca, crocante, é a especialidade dos mercados nissardos." },
+        { "level": "C1-C2", "fr": "C'est la socca qui, chaude et dorée, incarne l'âme gourmande de Nice.", "pt": "É a socca que, quente e dourada, encarna a alma gulosa de Nice." }
+      ]
+    },
+    {
+      "term": "la poêle",
+      "definitionPt": "a frigideira",
+      "definitionFr": "Ustensile de cuisson.",
+      "inflections": ["la poêle", "les poêles"],
+      "ptTargets": ["frigideira"],
+      "examples": [
+        { "level": "A1", "fr": "La poêle est chaude.", "pt": "A frigideira está quente." },
+        { "level": "A2-B1", "fr": "La socca cuit dans une grande poêle.", "pt": "A socca cozinha numa grande frigideira." },
+        { "level": "B1-B2", "fr": "La poêle, immense et graissée, fait crépiter la pâte.", "pt": "A frigideira, imensa e untada, faz crepitar a massa." },
+        { "level": "C1-C2", "fr": "C'est dans sa poêle de cuivre que le marchand tourne la socca au feu de bois.", "pt": "É na sua frigideira de cobre que o vendedor vira a socca no fogo de lenha." }
+      ]
+    },
+    {
+      "term": "la façade",
+      "definitionPt": "a fachada",
+      "definitionFr": "Face extérieure d'un bâtiment.",
+      "inflections": ["la façade", "les façades"],
+      "ptTargets": ["fachada"],
+      "examples": [
+        { "level": "A1", "fr": "La façade est ocre.", "pt": "A fachada é ocre." },
+        { "level": "A2-B1", "fr": "Les façades du Vieux Nice sont colorées.", "pt": "As fachadas do Vieux Nice são coloridas." },
+        { "level": "B1-B2", "fr": "Les façades, patinées par le soleil, gardent la mémoire des siècles.", "pt": "As fachadas, patinadas pelo sol, guardam a memória dos séculos." },
+        { "level": "C1-C2", "fr": "C'est la lumière rasante qui, le soir, sculpte les façades du Vieux Nice.", "pt": "É a luz rasante que, à noite, esculpe as fachadas do Vieux Nice." }
+      ]
+    },
+    {
+      "term": "le théâtre",
+      "definitionPt": "o teatro",
+      "definitionFr": "Lieu de représentation, spectacle.",
+      "inflections": ["le théâtre", "les théâtres"],
+      "ptTargets": ["teatro"],
+      "examples": [
+        { "level": "A1", "fr": "Le théâtre est grand.", "pt": "O teatro é grande." },
+        { "level": "A2-B1", "fr": "Le marché est comme un théâtre.", "pt": "O mercado é como um teatro." },
+        { "level": "B1-B2", "fr": "Le théâtre de la rue, spontané, joue sans répétition.", "pt": "O teatro da rua, espontâneo, representa sem ensaio." },
+        { "level": "C1-C2", "fr": "C'est au marché que se joue le plus beau théâtre de la vie quotidienne.", "pt": "É no mercado que se representa o mais belo teatro da vida cotidiana." }
+      ]
+    },
+    {
+      "term": "la scène",
+      "definitionPt": "a cena",
+      "definitionFr": "Espace où se produit un spectacle.",
+      "inflections": ["la scène", "les scènes"],
+      "ptTargets": ["cena"],
+      "examples": [
+        { "level": "A1", "fr": "La scène est prête.", "pt": "A cena está pronta." },
+        { "level": "A2-B1", "fr": "Chaque étal joue sa scène.", "pt": "Cada banca representa sua cena." },
+        { "level": "B1-B2", "fr": "Les scènes de marché, vives et colorées, nourrissent la littérature.", "pt": "As cenas de mercado, vivas e coloridas, alimentam a literatura." },
+        { "level": "C1-C2", "fr": "C'est sur la scène du cours Saleya que se mêlent tous les parfums du monde.", "pt": "É na cena do cours Saleya que se misturam todos os perfumes do mundo." }
+      ]
+    },
+    {
+      "term": "la litote",
+      "definitionPt": "a litote (afirmar negando)",
+      "definitionFr": "Figure de style qui dit moins pour dire plus.",
+      "inflections": ["la litote", "les litotes"],
+      "ptTargets": ["litote"],
+      "examples": [
+        { "level": "A1", "fr": "La litote est une figure.", "pt": "A litote é uma figura." },
+        { "level": "A2-B1", "fr": "« Ce n'est pas mauvais » est une litote.", "pt": "« Não é nada mau » é uma litote." },
+        { "level": "B1-B2", "fr": "La litote, discrète, exprime beaucoup en disant peu.", "pt": "A litote, discreta, expressa muito dizendo pouco." },
+        { "level": "C1-C2", "fr": "C'est la litote qui donne à la langue française sa célèbre élégance.", "pt": "É a litote que dá à língua francesa sua célebre elegância." }
+      ]
+    },
+    {
+      "term": "l'auvent",
+      "definitionPt": "o toldo",
+      "definitionFr": "Toit léger protégeant une devanture.",
+      "inflections": ["l'auvent", "les auvents"],
+      "ptTargets": ["toldo"],
+      "examples": [
+        { "level": "A1", "fr": "L'auvent est rayé.", "pt": "O toldo é listrado." },
+        { "level": "A2-B1", "fr": "Les auvents protègent les étals.", "pt": "Os toldos protegem as bancas." },
+        { "level": "B1-B2", "fr": "Les auvents, rayés de couleurs, ombragent le marché.", "pt": "Os toldos, listrados de cores, sombreiam o mercado." },
+        { "level": "C1-C2", "fr": "C'est sous les auvents que les marchands racontent leurs histoires.", "pt": "É sob os toldos que os vendedores contam suas histórias." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "La métaphore : le marché-théâtre",
+    "explanationPt": "A metáfora substitui uma realidade por outra: 'le marché est un théâtre' (o mercado é um teatro), 'chaque étal joue sa scène' (cada banca representa sua cena). Ela enriquece o discurso com imagens.",
+    "exampleFr": "Le marché n'est pas un simple lieu d'échange : c'est un théâtre où chaque étal joue sa scène.",
+    "examplePt": "O mercado não é um simples lugar de troca: é um teatro onde cada banca representa sua cena.",
+    "practiceQuestion": "Identifique a metáfora: « Ce marché est le ___ de Nice. »",
+    "options": ["cœur", "mur", "toit"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "La litote : dire moins pour dire plus",
+        "explanationPt": "A litote afirma pela negação: 'ce n'est pas mauvais du tout' (não é nada mau) significa 'é excelente'. É a marca da elegância francesa e do subtexto.",
+        "exampleFr": "Andréa goûta la socca et murmura : « Ce n'est pas mauvais du tout... »",
+        "examplePt": "Andréa provou a socca e murmurou: « Não é nada mau... »",
+        "practiceQuestion": "Qual é a litote?",
+        "options": ["« Ce n'est pas mauvais du tout »", "« C'est excellent »", "« C'est délicieux »"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "Il ne nous manque rien : la litote du bonheur",
+        "explanationPt": "Irlan conclui com litote: 'il ne nous manque rien' (não nos falta nada) — a forma mais elegante de dizer que a felicidade está completa.",
+        "exampleFr": "Après des mois de voyage, il ne nous manque rien.",
+        "examplePt": "Depois de meses de viagem, não nos falta nada.",
+        "practiceQuestion": "Complete: « Après des mois de voyage, il ne nous ___ rien. »",
+        "options": ["manque", "manquent", "manquerait"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "O que é o cours Saleya?",
+      "options": ["o mercado no coração do Vieux Nice", "uma estação de trem", "um museu de arte moderna"],
+      "correctIndex": 0,
+      "explanation": "O cours Saleya é o mercado no coração do Vieux Nice."
+    },
+    {
+      "question": "Qual figura de linguagem usa a frase « o mercado é um teatro »?",
+      "options": ["a metáfora", "a enumeração", "a anáfora"],
+      "correctIndex": 0,
+      "explanation": "A metáfora substitui uma realidade por outra: o mercado vira teatro."
+    },
+    {
+      "question": "O que é a socca?",
+      "options": ["uma galette de grão-de-bico", "um peixe grelhado", "um bolo de mel"],
+      "correctIndex": 0,
+      "explanation": "A socca é a galette nissarda feita com farinha de grão-de-bico."
+    },
+    {
+      "question": "Qual é a litote?",
+      "options": ["« Ce n'est pas mauvais du tout »", "« C'est excellent »", "« C'est délicieux »"],
+      "correctIndex": 0,
+      "explanation": "A litote diz menos para dizer mais: 'não é nada mau' = excelente."
+    },
+    {
+      "question": "Como Irlan descreve a cidade ao entardecer?",
+      "options": ["uma obra de arte que o sol repinta todos os dias", "uma máquina antiga", "um mapa desatualizado"],
+      "correctIndex": 0,
+      "explanation": "A cidade inteira é uma obra de arte repintada pelo sol."
+    }
+  ]
+}

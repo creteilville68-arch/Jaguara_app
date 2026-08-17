@@ -1,0 +1,237 @@
+{
+  "id": "tours_lesson_14",
+  "cityId": "tours",
+  "domain": "Música & Festa",
+  "level": "Intermediário (B1)",
+  "titleFr": "Les guinguettes : la fête au bord du fleuve",
+  "titlePt": "As guinguettes: a festa à beira do rio",
+  "subtitleFr": "Musique, danse et terrasses sur les quais de Loire",
+  "subtitlePt": "Música, dança e terraços nos cais do Loire",
+  "summaryPt": "Nesta Aula 14 (B1), a família descobre as guinguettes de Tours, os bares dançantes instalados nos cais da Loire desde o século XIX. O aluno pratica o imperativo com pronomes (Dansons !, Écoutez-nous !), o futuro simple e o vocabulário da festa (la musique, danser, le bal).",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "« Ce soir, nous irons à une guinguette », a annoncé Andréa. « Autrefois, les ouvriers venaient ici le dimanche pour danser au bord du fleuve. Aujourd'hui, les guinguettes sont revenues. »",
+      "pt": "« Hoje à noite, iremos a uma guinguette », anunciou Andréa. « Antigamente, os operários vinham aqui aos domingos para dançar à beira do rio. Hoje, as guinguettes voltaram. »"
+    },
+    {
+      "id": 2,
+      "fr": "Sur le quai, des guirlandes éclairaient les tables. Un groupe jouait de la musique. Iris a tiré la main de son père : « Dansons, papa ! » Irlan a ri : « Montre-nous tes pas, ma puce ! »",
+      "pt": "No cais, guirlandas iluminavam as mesas. Um grupo tocava música. Íris puxou a mão do pai: « Vamos dançar, papai! » Irlan riu: « Mostra pra gente seus passos, minha flor! »"
+    },
+    {
+      "id": 3,
+      "fr": "La famille a dansé au bord de l'eau. « Cette musique vient de la tradition française », a expliqué Andréa. « Les guinguettes, c'est la joie simple : un verre, une chanson, un coucher de soleil. »",
+      "pt": "A família dançou à beira d'água. « Esta música vem da tradição francesa », explicou Andréa. « Guinguettes são a alegria simples: um drinque, uma canção, um pôr do sol. »"
+    },
+    {
+      "id": 4,
+      "fr": "« Quand j'étais livreur, je passais devant les terrasses sans m'arrêter », a dit Irlan. « Je n'avais pas le temps de danser. Ce soir, la Loire me donne une leçon : la vie est aussi une fête. »",
+      "pt": "« Quando eu era entregador, eu passava pelos terraços sem parar », disse Irlan. « Não tinha tempo de dançar. Hoje, o Loire me dá uma lição: a vida também é uma festa. »"
+    },
+    {
+      "id": 5,
+      "fr": "Le lendemain, Iris a chanté la chanson de la guinguette toute la journée. « Nous y retournerons samedi prochain », a promis Andréa. Iris a applaudi : « Et j'apprendrai la danse complète ! »",
+      "pt": "No dia seguinte, Íris cantou a canção da guinguette o dia todo. « Voltaremos lá no próximo sábado », prometeu Andréa. Íris bateu palmas: « E eu vou aprender a dança completa! »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "la guinguette",
+      "definitionPt": "a guinguette (bar dançante à beira do rio)",
+      "definitionFr": "Bar dansant au bord de l'eau, tradition française.",
+      "inflections": ["la guinguette", "une guinguette", "des guinguettes"],
+      "ptTargets": ["guinguette", "bar dançante"],
+      "examples": [
+        { "level": "A1", "fr": "La guinguette est au bord de l'eau.", "pt": "A guinguette fica à beira d'água." },
+        { "level": "A2-B1", "fr": "Les guinguettes de Tours sont célèbres.", "pt": "As guinguettes de Tours são famosas." },
+        { "level": "B1", "fr": "La guinguette où nous avons dansé était charmante.", "pt": "A guinguette onde dançamos era charmosa." },
+        { "level": "C1-C2", "fr": "La guinguette, royaume éphémère, transforme le quai en scène de joie.", "pt": "A guinguette, reino efêmero, transforma o cais em palco de alegria." }
+      ]
+    },
+    {
+      "term": "danser",
+      "definitionPt": "dançar",
+      "definitionFr": "Bouger au rythme de la musique.",
+      "inflections": ["je danse", "tu danses", "il danse", "nous dansons"],
+      "ptTargets": ["dançar"],
+      "examples": [
+        { "level": "A1", "fr": "Je danse avec toi.", "pt": "Eu danço com você." },
+        { "level": "A2-B1", "fr": "La famille a dansé au bord du fleuve.", "pt": "A família dançou à beira do rio." },
+        { "level": "B1", "fr": "Dansons ensemble, comme les Tourangeaux d'autrefois !", "pt": "Vamos dançar juntos, como os tourangeaux de antigamente!" },
+        { "level": "C1-C2", "fr": "Danser, c'est parler avec le corps quand les mots s'arrêtent.", "pt": "Dançar é falar com o corpo quando as palavras param." }
+      ]
+    },
+    {
+      "term": "le bal",
+      "definitionPt": "o baile",
+      "definitionFr": "Fête où l'on danse.",
+      "inflections": ["le bal", "un bal", "des bals"],
+      "ptTargets": ["baile"],
+      "examples": [
+        { "level": "A1", "fr": "Le bal est joyeux.", "pt": "O baile é alegre." },
+        { "level": "A2-B1", "fr": "Autrefois, il y avait des bals à la guinguette.", "pt": "Antigamente, havia bailes na guinguette." },
+        { "level": "B1", "fr": "Le bal auquel nous avons assisté était inoubliable.", "pt": "O baile a que assistimos foi inesquecível." },
+        { "level": "C1-C2", "fr": "Le bal, parenthèse enchantée, fait tourner les cœurs et les jupes.", "pt": "O baile, parêntese encantado, faz girar corações e saias." }
+      ]
+    },
+    {
+      "term": "la guirlande",
+      "definitionPt": "a guirlanda",
+      "definitionFr": "Décoration en série de lumières.",
+      "inflections": ["la guirlande", "une guirlande", "des guirlandes"],
+      "ptTargets": ["guirlanda"],
+      "examples": [
+        { "level": "A1", "fr": "La guirlande est colorée.", "pt": "A guirlanda é colorida." },
+        { "level": "A2-B1", "fr": "Des guirlandes éclairaient les tables.", "pt": "Guirlandas iluminavam as mesas." },
+        { "level": "B1", "fr": "Les guirlandes qui brillent au-dessus de l'eau sont belles.", "pt": "As guirlandas que brilham acima da água são bonitas." },
+        { "level": "C1-C2", "fr": "La guirlande, collier de lumière, pare la nuit des quais.", "pt": "A guirlanda, colar de luz, adorna a noite dos cais." }
+      ]
+    },
+    {
+      "term": "le groupe",
+      "definitionPt": "o grupo",
+      "definitionFr": "Ensemble de personnes ; groupe de musique.",
+      "inflections": ["le groupe", "un groupe", "des groupes"],
+      "ptTargets": ["grupo"],
+      "examples": [
+        { "level": "A1", "fr": "Le groupe joue.", "pt": "O grupo toca." },
+        { "level": "A2-B1", "fr": "Un groupe jouait de la musique sur le quai.", "pt": "Um grupo tocava música no cais." },
+        { "level": "B1", "fr": "Le groupe qui jouait hier était excellent.", "pt": "O grupo que tocava ontem era excelente." },
+        { "level": "C1-C2", "fr": "Le groupe, petit orchestre du soir, donne voix à la foule.", "pt": "O grupo, pequena orquestra da noite, dá voz à multidão." }
+      ]
+    },
+    {
+      "term": "la chanson",
+      "definitionPt": "a canção",
+      "definitionFr": "Texte chanté avec une mélodie.",
+      "inflections": ["la chanson", "une chanson", "des chansons"],
+      "ptTargets": ["canção"],
+      "examples": [
+        { "level": "A1", "fr": "La chanson est jolie.", "pt": "A canção é bonita." },
+        { "level": "A2-B1", "fr": "Iris a chanté la chanson de la guinguette.", "pt": "Íris cantou a canção da guinguette." },
+        { "level": "B1", "fr": "La chanson que nous avons entendue parle de la Loire.", "pt": "A canção que ouvimos fala do Loire." },
+        { "level": "C1-C2", "fr": "La chanson, mémoire sonore, traverse les générations sans vieillir.", "pt": "A canção, memória sonora, atravessa as gerações sem envelhecer." }
+      ]
+    },
+    {
+      "term": "le quai",
+      "definitionPt": "o cais",
+      "definitionFr": "Bord aménagé d'un fleuve.",
+      "inflections": ["le quai", "un quai", "des quais"],
+      "ptTargets": ["cais"],
+      "examples": [
+        { "level": "A1", "fr": "Le quai est long.", "pt": "O cais é longo." },
+        { "level": "A2-B1", "fr": "Les guinguettes sont installées sur les quais.", "pt": "As guinguettes ficam nos cais." },
+        { "level": "B1", "fr": "Le quai où l'on danse est devenu célèbre.", "pt": "O cais onde se dança ficou famoso." },
+        { "level": "C1-C2", "fr": "Le quai, scène entre deux eaux, accueille les dimanches joyeux.", "pt": "O cais, palco entre duas águas, acolhe os domingos alegres." }
+      ]
+    },
+    {
+      "term": "l'ouvrier",
+      "definitionPt": "o operário",
+      "definitionFr": "Personne qui travaille de ses mains.",
+      "inflections": ["l'ouvrier", "un ouvrier", "des ouvriers"],
+      "ptTargets": ["operário"],
+      "examples": [
+        { "level": "A1", "fr": "L'ouvrier travaille.", "pt": "O operário trabalha." },
+        { "level": "A2-B1", "fr": "Les ouvriers venaient danser le dimanche.", "pt": "Os operários vinham dançar aos domingos." },
+        { "level": "B1", "fr": "Les ouvriers qui venaient ici sont devenus des légendes.", "pt": "Os operários que vinham aqui viraram lendas." },
+        { "level": "C1-C2", "fr": "L'ouvrier du dimanche, en costume du dimanche, faisait la fête comme un roi.", "pt": "O operário de domingo, de roupa de domingo, festejava como um rei." }
+      ]
+    },
+    {
+      "term": "la tradition",
+      "definitionPt": "a tradição",
+      "definitionFr": "Habitude transmise de génération en génération.",
+      "inflections": ["la tradition", "une tradition", "des traditions"],
+      "ptTargets": ["tradição"],
+      "examples": [
+        { "level": "A1", "fr": "La tradition est ancienne.", "pt": "A tradição é antiga." },
+        { "level": "A2-B1", "fr": "Les guinguettes sont une tradition française.", "pt": "As guinguettes são uma tradição francesa." },
+        { "level": "B1", "fr": "La tradition qui revient à Tours plaît à tous.", "pt": "A tradição que volta a Tours agrada a todos." },
+        { "level": "C1-C2", "fr": "La tradition, fil invisible, relie les générations autour d'une danse.", "pt": "A tradição, fio invisível, liga as gerações em torno de uma dança." }
+      ]
+    },
+    {
+      "term": "apprendre",
+      "definitionPt": "aprender",
+      "definitionFr": "Acquérir une connaissance.",
+      "inflections": ["j'apprends", "tu apprends", "il apprend", "nous apprenons"],
+      "ptTargets": ["aprender"],
+      "examples": [
+        { "level": "A1", "fr": "J'apprends le français.", "pt": "Eu aprendo francês." },
+        { "level": "A2-B1", "fr": "Iris veut apprendre la danse complète.", "pt": "Íris quer aprender a dança completa." },
+        { "level": "B1", "fr": "Nous apprendrons les chansons de la Loire.", "pt": "Aprenderemos as canções do Loire." },
+        { "level": "C1-C2", "fr": "Apprendre, c'est danser avec l'inconnu jusqu'à le connaître.", "pt": "Aprender é dançar com o desconhecido até conhecê-lo." }
+      ]
+    },
+    {
+      "term": "chanter",
+      "definitionPt": "cantar",
+      "definitionFr": "Faire de la musique avec la voix.",
+      "inflections": ["je chante", "tu chantes", "il chante", "nous chantons"],
+      "ptTargets": ["cantar"],
+      "examples": [
+        { "level": "A1", "fr": "Je chante une chanson.", "pt": "Eu canto uma canção." },
+        { "level": "A2-B1", "fr": "Iris a chanté toute la journée.", "pt": "Íris cantou o dia todo." },
+        { "level": "B1", "fr": "La chanson que nous chantons parle du fleuve.", "pt": "A canção que cantamos fala do rio." },
+        { "level": "C1-C2", "fr": "Chanter au bord de l'eau, c'est offrir sa joie au fleuve.", "pt": "Cantar à beira d'água é oferecer a alegria ao rio." }
+      ]
+    },
+    {
+      "term": "la joie",
+      "definitionPt": "a alegria",
+      "definitionFr": "Sentiment de grand bonheur.",
+      "inflections": ["la joie", "une joie"],
+      "ptTargets": ["alegria"],
+      "examples": [
+        { "level": "A1", "fr": "La joie est dans mon cœur.", "pt": "A alegria está no meu coração." },
+        { "level": "A2-B1", "fr": "La guinguette est un lieu de joie.", "pt": "A guinguette é um lugar de alegria." },
+        { "level": "B1", "fr": "La joie que nous avons ressentie était immense.", "pt": "A alegria que sentimos foi imensa." },
+        { "level": "C1-C2", "fr": "La joie, lumière intérieure, se partage comme un verre au bord de l'eau.", "pt": "A alegria, luz interior, se compartilha como um drinque à beira d'água." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "titleFr": "L'impératif avec pronoms",
+    "titlePt": "O imperativo com pronomes",
+    "points": [
+      {
+        "fr": "L'impératif avec pronoms : « Dansons ! », « Montre-nous tes pas ! », « Écoutez-moi ! ». Le pronom COD/COI se place après le verbe : « Chante-la ! » (cante-a).",
+        "pt": "O imperativo com pronomes: « Dansons ! » (Vamos dançar!), « Montre-nous tes pas ! » (Mostra-nos seus passos!), « Écoutez-moi ! » (Ouçam-me!). O pronome COD/COI vem depois do verbo: « Chante-la ! » (cante-a)."
+      },
+      {
+        "fr": "Le futur simple pour les promesses : « Nous y retournerons, j'apprendrai, tu viendras ». Exemple : « Nous y retournerons samedi prochain. »",
+        "pt": "O futur simple para promessas: « Nous y retournerons » (voltaremos lá), « j'apprendrai » (aprenderei), « tu viendras » (virás). Exemplo: « Voltaremos lá no próximo sábado. »"
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Où se trouvent les guinguettes ?",
+      "options": ["Au bord du fleuve", "Dans les châteaux", "Sous la terre", "Dans les gares"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Qui venait danser aux guinguettes autrefois ?",
+      "options": ["Les ouvriers", "Les rois", "Les soldats romains", "Les marins du Pacifique"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Qu'est-ce qui éclairait les tables ?",
+      "options": ["Des guirlandes", "Des projecteurs", "La lune seule", "Des torches"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Que faisait Irlan quand il était livreur ?",
+      "options": ["Il passait sans s'arrêter", "Il dansait tous les soirs", "Il chantait au métro", "Il jouait de la guitare"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Quand la famille retournera-t-elle à la guinguette ?",
+      "options": ["Samedi prochain", "Dans un an", "Jamais", "Demain matin à huit heures"],
+      "correctIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,257 @@
+{
+  "id": "mont_saint_michel_lesson_24",
+  "cityId": "mont-saint-michel",
+  "domain": "Natureza & Geografia",
+  "level": "Básico (A2/B1)",
+  "titleFr": "La grande marée : quatorze mètres d'eau",
+  "titlePt": "A grande maré: catorze metros de água",
+  "subtitleFr": "Deux fois par an, la baie vit une marée spectaculaire",
+  "subtitlePt": "Duas vezes por ano, a baía vive uma maré espetacular",
+  "summaryPt": "Nesta Aula 24 (A2/B1), a família vive uma grande maré: a água sobe até 14 metros, a mais forte da Europa. As pessoas observam da digue enquanto o mar engole a baía. O aluno pratica o contraste imparfait/passé composé (la mer montait, puis elle a recouvert les prés) e o vocabulário do mar.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Ce jour-là, la baie préparait une grande marée. « Deux fois par an, l'eau monte jusqu'à quatorze mètres », a dit Irlan. « C'est la plus forte marée d'Europe. »",
+      "pt": "Naquele dia, a baía preparava uma grande maré. « Duas vezes por ano, a água sobe até catorze metros », disse Irlan. « É a maré mais forte da Europa. »"
+    },
+    {
+      "id": 2,
+      "fr": "La famille a regardé depuis la digue. « La mer montait lentement, puis elle a accéléré », a raconté Íris. « Les prés salés ont disparu en quelques minutes. »",
+      "pt": "A família olhou do dique. « O mar subia lentamente, depois acelerou », contou Íris. « Os prados salgados desapareceram em poucos minutos. »"
+    },
+    {
+      "id": 3,
+      "fr": "« Autrefois, des voyageurs se noyaient dans la baie », a expliqué Andréa. « Ils ne croyaient pas à la vitesse de la mer. Maintenant, on fait attention. »",
+      "pt": "« Antigamente, viajantes se afogavam na baía », explicou Andréa. « Eles não acreditavam na velocidade do mar. Agora, tomamos cuidado. »"
+    },
+    {
+      "id": 4,
+      "fr": "Le soir, l'eau est arrivée au pied des remparts. « Le Mont est redevenu une vraie île », a souri Irlan. « C'est un spectacle que je n'oublierai jamais. »",
+      "pt": "À noite, a água chegou ao pé das muralhas. « O Mont voltou a ser uma verdadeira ilha », sorriu Irlan. « É um espetáculo que nunca esquecerei. »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "la marée",
+      "definitionPt": "a maré",
+      "definitionFr": "Mouvement de la mer.",
+      "inflections": ["la marée", "une marée", "des marées"],
+      "ptTargets": ["maré"],
+      "examples": [
+        { "level": "A1", "fr": "La marée monte.", "pt": "A maré sobe." },
+        { "level": "A2-B1", "fr": "La grande marée monte jusqu'à quatorze mètres.", "pt": "A grande maré sobe até catorze metros." },
+        { "level": "B2", "fr": "Les marées du Mont sont les plus fortes d'Europe.", "pt": "As marés do Mont são as mais fortes da Europa." },
+        { "level": "C1-C2", "fr": "La grande marée, deux fois par an, réveille la baie endormie.", "pt": "A grande maré, duas vezes por ano, desperta a baía adormecida." }
+      ]
+    },
+    {
+      "term": "le mètre",
+      "definitionPt": "o metro",
+      "definitionFr": "Unité de mesure de longueur.",
+      "inflections": ["le mètre", "un mètre", "des mètres"],
+      "ptTargets": ["metro"],
+      "examples": [
+        { "level": "A1", "fr": "La table fait deux mètres.", "pt": "A mesa tem dois metros." },
+        { "level": "A2-B1", "fr": "La marée monte jusqu'à quatorze mètres.", "pt": "A maré sobe até catorze metros." },
+        { "level": "B2", "fr": "La différence entre les deux marées dépasse quatorze mètres.", "pt": "A diferença entre as duas marés ultrapassa catorze metros." },
+        { "level": "C1-C2", "fr": "Quatorze mètres d'eau, c'est la hauteur d'un immeuble de cinq étages.", "pt": "Catorze metros de água é a altura de um prédio de cinco andares." }
+      ]
+    },
+    {
+      "term": "l'eau",
+      "definitionPt": "a água",
+      "definitionFr": "Liquide de la mer.",
+      "inflections": ["l'eau", "une eau", "des eaux"],
+      "ptTargets": ["água"],
+      "examples": [
+        { "level": "A1", "fr": "L'eau est froide.", "pt": "A água é fria." },
+        { "level": "A2-B1", "fr": "L'eau a recouvert les prés salés.", "pt": "A água cobriu os prados salgados." },
+        { "level": "B2", "fr": "L'eau de la baie est l'une des plus rapides du monde.", "pt": "A água da baía é uma das mais rápidas do mundo." },
+        { "level": "C1-C2", "fr": "L'eau monte, l'eau descend : la baie vit au rythme de la lune.", "pt": "A água sobe, a água desce: a baía vive no ritmo da lua." }
+      ]
+    },
+    {
+      "term": "disparaître",
+      "definitionPt": "desaparecer",
+      "definitionFr": "Cesser d'être visible.",
+      "inflections": ["je disparais", "nous disparaissons", "disparu"],
+      "ptTargets": ["desaparecer"],
+      "examples": [
+        { "level": "A1", "fr": "Le soleil disparaît.", "pt": "O sol desaparece." },
+        { "level": "A2-B1", "fr": "Les prés salés ont disparu sous l'eau.", "pt": "Os prados salgados desapareceram sob a água." },
+        { "level": "B2", "fr": "La digue a disparu sous la marée.", "pt": "O dique desapareceu sob a maré." },
+        { "level": "C1-C2", "fr": "Disparaître puis renaître, c'est le miracle des marées.", "pt": "Desaparecer e renascer, é o milagre das marés." }
+      ]
+    },
+    {
+      "term": "accélérer",
+      "definitionPt": "acelerar",
+      "definitionFr": "Aller de plus en plus vite.",
+      "inflections": ["j'accélère", "nous accélérons", "accéléré"],
+      "ptTargets": ["acelerar"],
+      "examples": [
+        { "level": "A1", "fr": "La voiture accélère.", "pt": "O carro acelera." },
+        { "level": "A2-B1", "fr": "La mer a accéléré soudainement.", "pt": "O mar acelerou de repente." },
+        { "level": "B2", "fr": "L'eau accélère quand elle entre dans la baie.", "pt": "A água acelera quando entra na baía." },
+        { "level": "C1-C2", "fr": "La marée accélère sans prévenir, comme un cheval qui s'emballe.", "pt": "A maré acelera sem avisar, como um cavalo desembestado." }
+      ]
+    },
+    {
+      "term": "se noyer",
+      "definitionPt": "afogar-se",
+      "definitionFr": "Mourir noyé.",
+      "inflections": ["je me noie", "nous nous noyons", "noyé"],
+      "ptTargets": ["afogar-se"],
+      "examples": [
+        { "level": "A1", "fr": "Il ne sait pas nager, il peut se noyer.", "pt": "Ele não sabe nadar, pode se afogar." },
+        { "level": "A2-B1", "fr": "Autrefois, des voyageurs se noyaient dans la baie.", "pt": "Antigamente, viajantes se afogavam na baía." },
+        { "level": "B2", "fr": "Il s'est noyé en voulant traverser la baie.", "pt": "Ele se afogou ao tentar atravessar a baía." },
+        { "level": "C1-C2", "fr": "Se noyer dans cette baie, c'est disparaître sans laisser de trace.", "pt": "Afogar-se nesta baía é desaparecer sem deixar rastro." }
+      ]
+    },
+    {
+      "term": "la vitesse",
+      "definitionPt": "a velocidade",
+      "definitionFr": "Rapidité.",
+      "inflections": ["la vitesse", "une vitesse", "des vitesses"],
+      "ptTargets": ["velocidade"],
+      "examples": [
+        { "level": "A1", "fr": "La vitesse est grande.", "pt": "A velocidade é grande." },
+        { "level": "A2-B1", "fr": "On ne croyait pas à la vitesse de la mer.", "pt": "Não se acreditava na velocidade do mar." },
+        { "level": "B2", "fr": "La vitesse de l'eau surprend les promeneurs.", "pt": "A velocidade da água surpreende os caminhantes." },
+        { "level": "C1-C2", "fr": "À cette vitesse, la mer avance de dix mètres par minute.", "pt": "Nessa velocidade, o mar avança dez metros por minuto." }
+      ]
+    },
+    {
+      "term": "le spectacle",
+      "definitionPt": "o espetáculo",
+      "definitionFr": "Chose admirable à regarder.",
+      "inflections": ["le spectacle", "un spectacle", "des spectacles"],
+      "ptTargets": ["espetáculo"],
+      "examples": [
+        { "level": "A1", "fr": "Le spectacle est beau.", "pt": "O espetáculo é bonito." },
+        { "level": "A2-B1", "fr": "La grande marée est un spectacle incroyable.", "pt": "A grande maré é um espetáculo incrível." },
+        { "level": "B2", "fr": "Le spectacle de la marée attire des milliers de curieux.", "pt": "O espetáculo da maré atrai milhares de curiosos." },
+        { "level": "C1-C2", "fr": "La nature offre ici un spectacle que nul théâtre ne peut égaler.", "pt": "A natureza oferece aqui um espetáculo que nenhum teatro pode igualar." }
+      ]
+    },
+    {
+      "term": "recouvrir",
+      "definitionPt": "cobrir",
+      "definitionFr": "Couvrir entièrement.",
+      "inflections": ["je recouvre", "nous recouvrons", "recouvert"],
+      "ptTargets": ["cobrir"],
+      "examples": [
+        { "level": "A1", "fr": "La neige recouvre la ville.", "pt": "A neve cobre a cidade." },
+        { "level": "A2-B1", "fr": "L'eau a recouvert les prés salés.", "pt": "A água cobriu os prados salgados." },
+        { "level": "B2", "fr": "La marée a recouvert la digue en quelques minutes.", "pt": "A maré cobriu o dique em poucos minutos." },
+        { "level": "C1-C2", "fr": "L'eau recouvre tout, efface tout, puis se retire comme si rien n'était arrivé.", "pt": "A água cobre tudo, apaga tudo, depois recua como se nada tivesse acontecido." }
+      ]
+    },
+    {
+      "term": "la lune",
+      "definitionPt": "a lua",
+      "definitionFr": "Satellite de la Terre.",
+      "inflections": ["la lune", "une lune", "des lunes"],
+      "ptTargets": ["lua"],
+      "examples": [
+        { "level": "A1", "fr": "La lune est blanche.", "pt": "A lua é branca." },
+        { "level": "A2-B1", "fr": "La lune contrôle les marées.", "pt": "A lua controla as marés." },
+        { "level": "B2", "fr": "Les grandes marées arrivent avec la pleine lune.", "pt": "As grandes marés chegam com a lua cheia." },
+        { "level": "C1-C2", "fr": "La lune, invisible force, soulève des murs d'eau de quatorze mètres.", "pt": "A lua, força invisível, ergue paredes de água de catorze metros." }
+      ]
+    },
+    {
+      "term": "oublier",
+      "definitionPt": "esquecer",
+      "definitionFr": "Ne plus se souvenir.",
+      "inflections": ["j'oublie", "nous oublions", "oublié"],
+      "ptTargets": ["esquecer"],
+      "examples": [
+        { "level": "A1", "fr": "J'oublie son nom.", "pt": "Esqueço o nome dele." },
+        { "level": "A2-B1", "fr": "Je n'oublierai jamais ce spectacle.", "pt": "Nunca esquecerei este espetáculo." },
+        { "level": "B2", "fr": "On n'oublie pas la première grande marée qu'on voit.", "pt": "Não se esquece a primeira grande maré que se vê." },
+        { "level": "C1-C2", "fr": "Les souvenirs que la mer laisse ne s'oublient jamais.", "pt": "As lembranças que o mar deixa nunca se esquecem." }
+      ]
+    },    {
+      "term": "l'imprudence",
+      "definitionPt": "a imprudência",
+      "definitionFr": "Manque de prudence, de précaution.",
+      "inflections": [
+        "l'imprudence",
+        "une imprudence",
+        "des imprudences"
+      ],
+      "ptTargets": [
+        "imprudência"
+      ],
+      "examples": [
+        { "level": "A1", "fr": "Attention, c'est une imprudence !", "pt": "Cuidado, é uma imprudência!" },
+        { "level": "A2-B1", "fr": "L'imprudence est dangereuse dans la baie.", "pt": "A imprudência é perigosa na baía." },
+        { "level": "B2", "fr": "Beaucoup ont péri par imprudence, en sous-estimant la mer.", "pt": "Muitos pereceram por imprudência, subestimando o mar." },
+        { "level": "C1-C2", "fr": "L'imprudence, faute fatale, transforme la beauté en piège.", "pt": "A imprudência, falta fatal, transforma a beleza em armadilha." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "La mer montait, puis elle a recouvert : imparfait + passé composé",
+    "explanationPt": "Numa grande maré: o imparfait descreve o processo ('la mer montait lentamente' — subia lentamente), o passé composé narra o evento ('elle a accéléré' — ela acelerou, 'les prés ont disparu' — os prados desapareceram).",
+    "exampleFr": "La mer montait lentement, puis elle a accéléré et a recouvert les prés salés.",
+    "examplePt": "O mar subia lentamente, depois acelerou e cobriu os prados salgados.",
+    "practiceQuestion": "Complete: « La mer montait lentement, puis elle a ___. »",
+    "options": ["accéléré", "accélérait", "accélérer"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "Deux fois par an : la fréquence",
+        "explanationPt": "Para frequência: 'deux fois par an' (duas vezes por ano), 'une fois par mois', 'tous les jours'. 'La grande marée arrive deux fois par an'.",
+        "exampleFr": "Deux fois par an, la grande marée monte jusqu'à quatorze mètres.",
+        "examplePt": "Duas vezes por ano, a grande maré sobe até catorze metros.",
+        "practiceQuestion": "Complete: « La grande marée arrive deux fois ___ an. »",
+        "options": ["par", "pour", "en"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "Le futur pour les souvenirs : je n'oublierai jamais",
+        "explanationPt": "'Je n'oublierai jamais' (nunca esquecerei) usa o futur simple. Formação: radical + ai, as, a, ons, ez, ont.",
+        "exampleFr": "Je n'oublierai jamais ce spectacle de la grande marée.",
+        "examplePt": "Nunca esquecerei este espetáculo da grande maré.",
+        "practiceQuestion": "Complete: « Je n'___ jamais ce spectacle. »",
+        "options": ["oublierai", "oublie", "oubliais"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Até quantos metros sobe a grande maré do Mont?",
+      "options": ["Catorze metros", "Dois metros", "Cinquenta metros"],
+      "correctIndex": 0,
+      "explanation": "Duas vezes por ano, a maré sobe até quatorze mètres, a mais forte da Europa."
+    },
+    {
+      "question": "Complete: « La mer montait lentement, puis elle a ___. »",
+      "options": ["accéléré", "accélérait", "accélérer"],
+      "correctIndex": 0,
+      "explanation": "Evento pontual no passado = passé composé: 'a accéléré'."
+    },
+    {
+      "question": "O que aconteceu com os prés salés?",
+      "options": ["Desapareceram sob a água em poucos minutos", "Ficaram mais verdes", "Viraram praia"],
+      "correctIndex": 0,
+      "explanation": "Os prados salgados desapareceram sob a água em poucos minutos."
+    },
+    {
+      "question": "Por que viajantes se afogavam antigamente?",
+      "options": ["Não acreditavam na velocidade da maré", "Não sabiam nadar", "Andavam à noite"],
+      "correctIndex": 0,
+      "explanation": "Eles subestimavam a velocidade da água, que avança como um cavalo a galope."
+    },
+    {
+      "question": "O que aconteceu ao Mont quando a água chegou aos remparts?",
+      "options": ["Voltou a ser uma verdadeira ilha", "Ficou submerso", "Fechou para visitação"],
+      "correctIndex": 0,
+      "explanation": "Com a maré alta no pé das muralhas, o Mont se tornou novamente uma ilha."
+    }
+  ]
+}

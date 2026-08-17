@@ -1,0 +1,268 @@
+{
+  "id": "paris_lesson_8",
+  "cityId": "paris",
+  "domain": "Cultura & Turismo",
+  "level": "Iniciante (A1)",
+  "titleFr": "Le musée du Louvre",
+  "titlePt": "O museu do Louvre",
+  "subtitleFr": "La pyramide de verre, La Joconde et les souvenirs du livreur",
+  "subtitlePt": "A pirâmide de vidro, a Mona Lisa e as lembranças do entregador",
+  "summaryPt": "Nesta Aula 8 (A1), a família visita o museu do Louvre no domingo. Eles veem a pirâmide de vidro, os corredores cheios de pinturas e a famosa Mona Lisa. Irlan lembra que, quando era entregador, passava todos os dias diante do Louvre. O aluno aprende o verbo 'voir' no presente e a pergunta com 'est-ce que'.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Dimanche, la famille visite le musée du Louvre. La pyramide de verre brille au soleil. Il y a beaucoup de monde devant l'entrée.",
+      "pt": "Domingo, a família visita o museu do Louvre. A pirâmide de vidro brilha ao sol. Há muita gente em frente à entrada."
+    },
+    {
+      "id": 2,
+      "fr": "Irlan achète trois billets. Ils entrent dans le musée. Andréa lit le plan, et Íris regarde les grandes peintures.",
+      "pt": "Irlan compra três ingressos. Eles entram no museu. Andréa lê o mapa, e Íris olha as grandes pinturas."
+    },
+    {
+      "id": 3,
+      "fr": "Ils regardent La Joconde. Íris dit : « Elle est petite ! » Tout le monde rit. La Joconde est le tableau le plus célèbre du monde.",
+      "pt": "Eles olham a Mona Lisa. Íris diz: «Ela é pequena!» Todo mundo ri. A Mona Lisa é o quadro mais famoso do mundo."
+    },
+    {
+      "id": 4,
+      "fr": "Irlan se souvient : quand il était livreur, il passait souvent devant le Louvre. Aujourd'hui, il visite le musée avec sa famille. « Est-ce que tu vois la Joconde, Íris ? » demande-t-il. « Oui, papa, je la vois ! » répond Íris.",
+      "pt": "Irlan se lembra: quando era entregador, passava muitas vezes diante do Louvre. Hoje, ele visita o museu com a sua família. «Você vê a Mona Lisa, Íris?» pergunta ele. «Sim, papai, eu a vejo!» responde Íris."
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "musée",
+      "definitionPt": "museu",
+      "definitionFr": "Lieu où l'on expose des œuvres d'art et des objets historiques.",
+      "inflections": ["le musée", "un musée", "des musées"],
+      "ptTargets": ["museu"],
+      "examples": [
+        { "level": "A1", "fr": "La famille visite le musée du Louvre.", "pt": "A família visita o museu do Louvre." },
+        { "level": "A2-B1", "fr": "Le musée est ouvert tous les jours sauf le mardi.", "pt": "O museu está aberto todos os dias, exceto terça-feira." },
+        { "level": "B2", "fr": "Ce musée possède des collections exceptionnelles.", "pt": "Este museu possui coleções excepcionais." },
+        { "level": "C1-C2", "fr": "Le Louvre est l'un des musées les plus visités au monde.", "pt": "O Louvre é um dos museus mais visitados do mundo." }
+      ]
+    },
+    {
+      "term": "pyramide",
+      "definitionPt": "pirâmide",
+      "definitionFr": "Monument en forme de pyramide, comme celle du Louvre.",
+      "inflections": ["la pyramide", "une pyramide", "des pyramides"],
+      "ptTargets": ["pirâmide"],
+      "examples": [
+        { "level": "A1", "fr": "La pyramide de verre brille au soleil.", "pt": "A pirâmide de vidro brilha ao sol." },
+        { "level": "A2-B1", "fr": "La pyramide du Louvre est très célèbre.", "pt": "A pirâmide do Louvre é muito famosa." },
+        { "level": "B2", "fr": "La pyramide a été construite en 1989.", "pt": "A pirâmide foi construída em 1989." },
+        { "level": "C1-C2", "fr": "La pyramide de verre, œuvre de l'architecte Pei, est devenue un symbole de Paris.", "pt": "A pirâmide de vidro, obra do arquiteto Pei, tornou-se um símbolo de Paris." }
+      ]
+    },
+    {
+      "term": "verre",
+      "definitionPt": "vidro",
+      "definitionFr": "Matière transparente et fragile.",
+      "inflections": ["le verre", "un verre", "des verres"],
+      "ptTargets": ["vidro"],
+      "examples": [
+        { "level": "A1", "fr": "La pyramide est en verre.", "pt": "A pirâmide é de vidro." },
+        { "level": "A2-B1", "fr": "Ce verre est très propre.", "pt": "Este vidro está muito limpo." },
+        { "level": "B2", "fr": "L'architecture de verre laisse entrer la lumière.", "pt": "A arquitetura de vidro deixa entrar a luz." },
+        { "level": "C1-C2", "fr": "Le verre réfléchit la lumière et transforme l'espace urbain.", "pt": "O vidro reflete a luz e transforma o espaço urbano." }
+      ]
+    },
+    {
+      "term": "billet",
+      "definitionPt": "ingresso, bilhete",
+      "definitionFr": "Ticket qui permet d'entrer quelque part.",
+      "inflections": ["le billet", "un billet", "des billets"],
+      "ptTargets": ["ingresso", "bilhete"],
+      "examples": [
+        { "level": "A1", "fr": "J'achète trois billets pour le musée.", "pt": "Eu compro três ingressos para o museu." },
+        { "level": "A2-B1", "fr": "Le billet coûte quinze euros.", "pt": "O ingresso custa quinze euros." },
+        { "level": "B2", "fr": "Les billets se réservent en ligne.", "pt": "Os ingressos são reservados online." },
+        { "level": "C1-C2", "fr": "La réservation des billets évite une longue attente à l'entrée.", "pt": "A reserva dos ingressos evita uma longa espera na entrada." }
+      ]
+    },
+    {
+      "term": "entrée",
+      "definitionPt": "entrada",
+      "definitionFr": "Endroit par lequel on entre dans un lieu.",
+      "inflections": ["l'entrée", "une entrée", "des entrées"],
+      "ptTargets": ["entrada"],
+      "examples": [
+        { "level": "A1", "fr": "Il y a beaucoup de monde devant l'entrée.", "pt": "Há muita gente em frente à entrada." },
+        { "level": "A2-B1", "fr": "L'entrée du musée est grande.", "pt": "A entrada do museu é grande." },
+        { "level": "B2", "fr": "L'entrée principale est réservée aux visiteurs.", "pt": "A entrada principal é reservada aos visitantes." },
+        { "level": "C1-C2", "fr": "L'entrée pyramidale accueille des millions de visiteurs chaque année.", "pt": "A entrada piramidal acolhe milhões de visitantes a cada ano." }
+      ]
+    },
+    {
+      "term": "peinture",
+      "definitionPt": "pintura",
+      "definitionFr": "Œuvre d'art réalisée avec de la peinture.",
+      "inflections": ["la peinture", "une peinture", "des peintures"],
+      "ptTargets": ["pintura"],
+      "examples": [
+        { "level": "A1", "fr": "Íris regarde les grandes peintures.", "pt": "Íris olha as grandes pinturas." },
+        { "level": "A2-B1", "fr": "Cette peinture est très ancienne.", "pt": "Esta pintura é muito antiga." },
+        { "level": "B2", "fr": "La peinture italienne occupe une grande salle.", "pt": "A pintura italiana ocupa uma grande sala." },
+        { "level": "C1-C2", "fr": "La peinture classique française rayonne dans le monde entier.", "pt": "A pintura clássica francesa brilha no mundo inteiro." }
+      ]
+    },
+    {
+      "term": "tableau",
+      "definitionPt": "quadro, pintura",
+      "definitionFr": "Œuvre d'art peinte sur une toile.",
+      "inflections": ["le tableau", "un tableau", "des tableaux"],
+      "ptTargets": ["quadro"],
+      "examples": [
+        { "level": "A1", "fr": "La Joconde est un tableau célèbre.", "pt": "A Mona Lisa é um quadro famoso." },
+        { "level": "A2-B1", "fr": "Ce tableau est très petit.", "pt": "Este quadro é muito pequeno." },
+        { "level": "B2", "fr": "Les tableaux du Louvre attirent des milliers de visiteurs.", "pt": "Os quadros do Louvre atraem milhares de visitantes." },
+        { "level": "C1-C2", "fr": "Ce tableau de Léonard de Vinci est protégé derrière une vitre.", "pt": "Este quadro de Leonardo da Vinci é protegido atrás de um vidro." }
+      ]
+    },
+    {
+      "term": "célèbre",
+      "definitionPt": "famoso, célebre",
+      "definitionFr": "Qui est connu par beaucoup de gens.",
+      "inflections": ["célèbre", "célèbres"],
+      "ptTargets": ["famoso", "célebre"],
+      "examples": [
+        { "level": "A1", "fr": "La Joconde est très célèbre.", "pt": "A Mona Lisa é muito famosa." },
+        { "level": "A2-B1", "fr": "Paris est une ville célèbre dans le monde.", "pt": "Paris é uma cidade famosa no mundo." },
+        { "level": "B2", "fr": "Ce peintre est devenu célèbre après sa mort.", "pt": "Este pintor ficou famoso depois da sua morte." },
+        { "level": "C1-C2", "fr": "Les œuvres célèbres du Louvre attirent des visiteurs du monde entier.", "pt": "As obras famosas do Louvre atraem visitantes do mundo inteiro." }
+      ]
+    },
+    {
+      "term": "regarder",
+      "definitionPt": "olhar, assistir",
+      "definitionFr": "Diriger les yeux vers quelque chose.",
+      "inflections": ["je regarde", "regarder", "il regarde"],
+      "ptTargets": ["olhar", "assistir"],
+      "examples": [
+        { "level": "A1", "fr": "Je regarde le tableau.", "pt": "Eu olho o quadro." },
+        { "level": "A2-B1", "fr": "Nous regardons les peintures avec attention.", "pt": "Nós olhamos as pinturas com atenção." },
+        { "level": "B2", "fr": "Elle regarde le plan du musée.", "pt": "Ela olha o mapa do museu." },
+        { "level": "C1-C2", "fr": "Regarder une œuvre, c'est entrer en dialogue avec l'artiste.", "pt": "Olhar uma obra é entrar em diálogo com o artista." }
+      ]
+    },
+    {
+      "term": "visiter",
+      "definitionPt": "visitar",
+      "definitionFr": "Aller voir un lieu pour le découvrir.",
+      "inflections": ["je visite", "visiter", "il visite"],
+      "ptTargets": ["visitar"],
+      "examples": [
+        { "level": "A1", "fr": "La famille visite le musée.", "pt": "A família visita o museu." },
+        { "level": "A2-B1", "fr": "Nous visitons Paris en été.", "pt": "Nós visitamos Paris no verão." },
+        { "level": "B2", "fr": "Ils visitent les monuments historiques.", "pt": "Eles visitam os monumentos históricos." },
+        { "level": "C1-C2", "fr": "Visiter un musée enrichit la compréhension d'une culture.", "pt": "Visitar um museu enriquece a compreensão de uma cultura." }
+      ]
+    },
+    {
+      "term": "monde",
+      "definitionPt": "mundo; gente, pessoas",
+      "definitionFr": "La Terre et tous ses habitants, ou beaucoup de personnes.",
+      "inflections": ["le monde", "un monde"],
+      "ptTargets": ["mundo", "gente"],
+      "examples": [
+        { "level": "A1", "fr": "Il y a beaucoup de monde au musée.", "pt": "Há muita gente no museu." },
+        { "level": "A2-B1", "fr": "La Joconde est connue dans le monde entier.", "pt": "A Mona Lisa é conhecida no mundo inteiro." },
+        { "level": "B2", "fr": "Le Louvre reçoit des visiteurs du monde entier.", "pt": "O Louvre recebe visitantes do mundo inteiro." },
+        { "level": "C1-C2", "fr": "La culture française rayonne sur le monde depuis des siècles.", "pt": "A cultura francesa brilha sobre o mundo há séculos." }
+      ]
+    },
+    {
+      "term": "rire",
+      "definitionPt": "rir",
+      "definitionFr": "Manifester sa joie en faisant des sons.",
+      "inflections": ["je ris", "rire", "il rit"],
+      "ptTargets": ["rir"],
+      "examples": [
+        { "level": "A1", "fr": "Tout le monde rit.", "pt": "Todo mundo ri." },
+        { "level": "A2-B1", "fr": "Nous rions ensemble à la maison.", "pt": "Nós rimos juntos em casa." },
+        { "level": "B2", "fr": "Elle rit de bon cœur devant le tableau.", "pt": "Ela ri de bom grado diante do quadro." },
+        { "level": "C1-C2", "fr": "Rire ensemble renforce les liens de la famille.", "pt": "Rir juntos fortalece os laços da família." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Le verbe voir au présent",
+    "explanationPt": "O verbo 'voir' (ver) é irregular no presente: je vois, tu vois, il/elle voit, nous voyons, vous voyez, ils/elles voient. Ex.: 'Est-ce que tu vois la Joconde ?' (Você vê a Mona Lisa?)",
+    "exampleFr": "Oui, papa, je la vois !",
+    "examplePt": "Sim, papai, eu a vejo!",
+    "practiceQuestion": "Complete com o verbo correto no presente: 'Nous _____ les peintures du musée.'",
+    "options": ["voyons", "vois", "voient"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "Le verbe voir au présent",
+        "explanationPt": "'voir' é irregular: je vois, tu vois, il voit, nous voyons, vous voyez, ils voient. Ex.: 'Je vois la pyramide.', 'Ils voient le tableau.'",
+        "exampleFr": "Je vois la pyramide de verre.",
+        "examplePt": "Eu vejo a pirâmide de vidro.",
+        "practiceQuestion": "Complete: 'Ils _____ la Joconde au musée.'",
+        "options": ["voient", "voyons", "vois"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "La question avec est-ce que",
+        "explanationPt": "Para fazer uma pergunta, podemos usar 'est-ce que' + frase afirmativa: 'Est-ce que tu vois la Joconde ?' (Você vê a Mona Lisa?)",
+        "exampleFr": "Est-ce que tu vois la Joconde, Íris ?",
+        "examplePt": "Você vê a Mona Lisa, Íris?",
+        "practiceQuestion": "Complete a pergunta: '_____ vous visitez le musée demain ?'",
+        "options": ["Est-ce que", "Il y a", "Je suis"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Complete a frase do texto: 'La pyramide de _____ brille au soleil.'",
+      "options": ["verre", "bois", "papier"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'La pyramide de verre brille au soleil.' (A pirâmide de vidro brilha ao sol.)"
+    },
+    {
+      "question": "Ordene corretamente as palavras da frase: [ tu / la Joconde / Est-ce que / vois / ? / ]",
+      "options": [
+        "Est-ce que tu vois la Joconde ?",
+        "Tu vois est-ce que la Joconde ?",
+        "La Joconde tu vois est-ce que ?"
+      ],
+      "correctIndex": 0,
+      "explanation": "A frase exata do texto é 'Est-ce que tu vois la Joconde, Íris ?'"
+    },
+    {
+      "question": "Como se traduz: 'Eu vejo a pirâmide de vidro'?",
+      "options": [
+        "Je vois la pyramide de verre.",
+        "Je regarde la pyramide de verre.",
+        "Je suis la pyramide de verre."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Je vois' = eu vejo (ver); 'la pyramide de verre' = a pirâmide de vidro."
+    },
+    {
+      "question": "Identifique a frase com ERRO de conjugação do verbo voir:",
+      "options": [
+        "Je vois la Joconde.",
+        "Nous voyons les peintures.",
+        "Elle vois le tableau."
+      ],
+      "correctIndex": 2,
+      "explanation": "O erro é 'Elle vois': com 'elle', o verbo voir fica 'voit' ('Elle voit le tableau.')."
+    },
+    {
+      "question": "O que Íris diz quando vê a Mona Lisa?",
+      "options": [
+        "« Elle est petite ! » (Ela é pequena!)",
+        "« Elle est très grande ! »",
+        "« Elle est fermée ! »"
+      ],
+      "correctIndex": 0,
+      "explanation": "No texto: 'Íris dit : « Elle est petite ! » Tout le monde rit.'"
+    }
+  ]
+}

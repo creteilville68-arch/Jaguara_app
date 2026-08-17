@@ -1,0 +1,237 @@
+{
+  "id": "bordeaux_lesson_40",
+  "cityId": "bordeaux",
+  "domain": "Esporte e festa",
+  "level": "Intermediário (B1+)",
+  "titleFr": "Le Tour de France : la grande fête du vélo",
+  "titlePt": "O Tour de France: a grande festa da bicicleta",
+  "subtitleFr": "En attendant les coureurs, toute la ville est sur les quais",
+  "subtitlePt": "Esperando os ciclistas, a cidade inteira está nos cais",
+  "summaryPt": "Nesta Aula 40 (B1+), Bordeaux recebe a passagem do Tour de France e a família vai torcer nas margens da Garonne. O aluno pratica o vocabulário do ciclismo (le vélo, le coureur, la foule) e o gérondif com as expressões de causa e simultaneidade.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "« Le Tour de France passe par Bordeaux ! » a annoncé Irlan. « C'est la plus grande course de vélo du monde. » Sur les quais, des milliers de personnes attendaient. « En attendant les coureurs, on pourrait manger une glace », a proposé Iris.",
+      "pt": "« O Tour de France passa por Bordeaux! » anunciou Irlan. « É a maior corrida de bicicleta do mundo. » Nos cais, milhares de pessoas esperavam. « Esperando os ciclistas, poderíamos tomar um sorvete », propôs Íris."
+    },
+    {
+      "id": 2,
+      "fr": "Une caravane publicitaire est passée d'abord, jetant des cadeaux à la foule. « Attrape celui-ci, Iris ! » a crié Andréa. Iris a attrapé un petit porte-clés. « Grâce au Tour, j'ai un cadeau ! » a-t-elle ri.",
+      "pt": "Uma caravana publicitária passou primeiro, jogando brindes à multidão. « Pega este, Íris! » gritou Andréa. Íris pegou un chaveiro. « Graças ao Tour, ganhei um presente! » riu."
+    },
+    {
+      "id": 3,
+      "fr": "Puis, un grand bruit est venu : des motos, des voitures, et enfin les coureurs, penchés sur leurs vélos. « Allez ! Allez ! » criait toute la foule. Iris a agité les bras : « Ils vont tellement vite qu'on dirait des oiseaux ! »",
+      "pt": "Depois, um grande barulho veio: motos, carros e, enfim, os ciclistas, inclinados sobre suas bicicletas. « Vamos! Vamos! » gritava a multidão inteira. Íris acenou os braços: « Eles vão tão rápido que parecem pássaros! »"
+    },
+    {
+      "id": 4,
+      "fr": "Les coureurs ont disparu en quelques secondes. « C'est fini ? » a demandé Iris, déçue. « Pas tout à fait », a souri Irlan. « En rentrant à la maison, on regardera les images du Tour et on verra Bordeaux vu du ciel. »",
+      "pt": "Os ciclistas desapareceram em poucos segundos. « Acabou? » perguntou Íris, decepcionada. « Não de todo », sorriu Irlan. « Voltando para casa, veremos as imagens do Tour e veremos Bordeaux vista do céu. »"
+    },
+    {
+      "id": 5,
+      "fr": "Le soir, Iris a demandé : « Papa, un jour, tu feras le Tour avec ta scooter ? » Irlan a éclaté de rire : « La scooter et le vélo, ce n'est pas la même histoire ! Mais un jour, peut-être, on suivra le Tour dans toute la France. » « Comme pour apprendre le français ! » a conclu Iris. « On avance, on avance, et un jour, on arrive. »",
+      "pt": "À noite, Íris perguntou: « Papai, um dia, você vai fazer o Tour com sua scooter? » Irlan caiu na risada: « Scooter e bicicleta não são a mesma história! Mas um dia, talvez, a gente siga o Tour por toda a França. » « Como para aprender francês! » concluiu Íris. « A gente avança, avança, e um dia, chega. »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "le vélo",
+      "definitionPt": "a bicicleta",
+      "definitionFr": "Deux-roues sans moteur.",
+      "inflections": ["le vélo", "un vélo", "des vélos"],
+      "ptTargets": ["bicicleta"],
+      "examples": [
+        { "level": "A1", "fr": "Le vélo est rapide.", "pt": "A bicicleta é rápida." },
+        { "level": "A2-B1", "fr": "Le Tour de France est une course de vélos.", "pt": "O Tour de France é uma corrida de bicicletas." },
+        { "level": "B1", "fr": "Les vélos que l'on voit passent à toute vitesse.", "pt": "As bicicletas que se veem passam em alta velocidade." },
+        { "level": "C1-C2", "fr": "Le vélo, machine de liberté, fait de la France un pays de routes.", "pt": "A bicicleta, máquina de liberdade, faz da França um país de estradas." }
+      ]
+    },
+    {
+      "term": "le coureur",
+      "definitionPt": "o ciclista, o corredor",
+      "definitionFr": "Personne qui participe à une course.",
+      "inflections": ["le coureur", "un coureur", "des coureurs"],
+      "ptTargets": ["ciclista", "corredor"],
+      "examples": [
+        { "level": "A1", "fr": "Le coureur va vite.", "pt": "O ciclista vai rápido." },
+        { "level": "A2-B1", "fr": "Les coureurs du Tour sont célèbres.", "pt": "Os ciclistas do Tour são famosos." },
+        { "level": "B1", "fr": "Les coureurs que l'on attend arrivent bientôt.", "pt": "Os ciclistas que se esperam chegam logo." },
+        { "level": "C1-C2", "fr": "Le coureur, héros d'un jour, avale les kilomètres comme des rêves.", "pt": "O ciclista, herói de um dia, engole os quilômetros como sonhos." }
+      ]
+    },
+    {
+      "term": "la foule",
+      "definitionPt": "a multidão",
+      "definitionFr": "Beaucoup de personnes.",
+      "inflections": ["la foule", "une foule"],
+      "ptTargets": ["multidão"],
+      "examples": [
+        { "level": "A1", "fr": "La foule attend.", "pt": "A multidão espera." },
+        { "level": "A2-B1", "fr": "La foule crie pour les coureurs.", "pt": "A multidão grita pelos ciclistas." },
+        { "level": "B1", "fr": "La foule, que l'on voit sur les quais, est immense.", "pt": "A multidão, que se vê nos cais, é imensa." },
+        { "level": "C1-C2", "fr": "La foule, fleuve d'applaudissements, pousse les coureurs plus loin.", "pt": "A multidão, rio de aplausos, empurra os ciclistas mais longe." }
+      ]
+    },
+    {
+      "term": "la course",
+      "definitionPt": "a corrida",
+      "definitionFr": "Compétition de vitesse.",
+      "inflections": ["la course", "une course", "des courses"],
+      "ptTargets": ["corrida"],
+      "examples": [
+        { "level": "A1", "fr": "La course est longue.", "pt": "A corrida é longa." },
+        { "level": "A2-B1", "fr": "La course passe par Bordeaux.", "pt": "A corrida passa por Bordeaux." },
+        { "level": "B1", "fr": "Les courses que l'on regarde à la télé sont belles.", "pt": "As corridas que se veem na TV são bonitas." },
+        { "level": "C1-C2", "fr": "La course, poème de vitesse, écrit la France en ligne droite.", "pt": "A corrida, poema de velocidade, escreve a França em linha reta." }
+      ]
+    },
+    {
+      "term": "le porte-clés",
+      "definitionPt": "o chaveiro",
+      "definitionFr": "Petit objet pour les clés.",
+      "inflections": ["le porte-clés", "un porte-clés", "des porte-clés"],
+      "ptTargets": ["chaveiro"],
+      "examples": [
+        { "level": "A1", "fr": "Le porte-clés est petit.", "pt": "O chaveiro é pequeno." },
+        { "level": "A2-B1", "fr": "Iris a attrapé un porte-clés.", "pt": "Íris pegou um chaveiro." },
+        { "level": "B1", "fr": "Les porte-clés que l'on jette volent loin.", "pt": "Os chaveiros que se jogam voam longe." },
+        { "level": "C1-C2", "fr": "Le porte-clés, souvenir de fête, garde les clés et les souvenirs.", "pt": "O chaveiro, lembrança de festa, guarda as chaves e as recordações." }
+      ]
+    },
+    {
+      "term": "attraper",
+      "definitionPt": "pegar, apanhar",
+      "definitionFr": "Prendre au vol.",
+      "inflections": ["j'attrape", "tu attrapes", "il attrape", "nous attrapons"],
+      "ptTargets": ["pegar", "apanhar"],
+      "examples": [
+        { "level": "A1", "fr": "J'attrape le ballon.", "pt": "Eu pego a bola." },
+        { "level": "A2-B1", "fr": "Iris a attrapé un porte-clés.", "pt": "Íris pegou um chaveiro." },
+        { "level": "B1", "fr": "Les cadeaux que l'on attrape sont rares.", "pt": "Os presentes que se pegam são raros." },
+        { "level": "C1-C2", "fr": "Attraper, geste du hasard, attrape un peu de fête au passage.", "pt": "Pegar, gesto do acaso, apanha um pouco de festa na passagem." }
+      ]
+    },
+    {
+      "term": "le cadeau",
+      "definitionPt": "o brinde, o presente",
+      "definitionFr": "Objet donné.",
+      "inflections": ["le cadeau", "un cadeau", "des cadeaux"],
+      "ptTargets": ["presente", "brinde"],
+      "examples": [
+        { "level": "A1", "fr": "Le cadeau est joli.", "pt": "O presente é bonito." },
+        { "level": "A2-B1", "fr": "La caravane jette des cadeaux.", "pt": "A caravana joga presentes." },
+        { "level": "B1", "fr": "Les cadeaux que la foule attrape font rire.", "pt": "Os presentes que a multidão pega fazem rir." },
+        { "level": "C1-C2", "fr": "Le cadeau, pluie de joie, tombe du ciel publicitaire.", "pt": "O presente, chuva de alegria, cai do céu publicitário." }
+      ]
+    },
+    {
+      "term": "crier",
+      "definitionPt": "gritar",
+      "definitionFr": "Parler très fort.",
+      "inflections": ["je crie", "tu cries", "il crie", "nous crions"],
+      "ptTargets": ["gritar"],
+      "examples": [
+        { "level": "A1", "fr": "Je crie fort.", "pt": "Eu grito alto." },
+        { "level": "A2-B1", "fr": "La foule crie pour les coureurs.", "pt": "A multidão grita pelos ciclistas." },
+        { "level": "B1", "fr": "Les gens que l'on entend crient de joie.", "pt": "As pessoas que se ouvem gritam de alegria." },
+        { "level": "C1-C2", "fr": "Crier, voix de la foule, porte l'énergie des espoirs.", "pt": "Gritar, voz da multidão, carrega a energia das esperanças." }
+      ]
+    },
+    {
+      "term": "la glace",
+      "definitionPt": "o sorvete",
+      "definitionFr": "Dessert froid.",
+      "inflections": ["la glace", "une glace", "des glaces"],
+      "ptTargets": ["sorvete"],
+      "examples": [
+        { "level": "A1", "fr": "La glace est froide.", "pt": "O sorvete é frio." },
+        { "level": "A2-B1", "fr": "On mange une glace en attendant.", "pt": "Come-se um sorvete esperando." },
+        { "level": "B1", "fr": "La glace que l'on choisit est à la fraise.", "pt": "O sorvete que se escolhe é de morango." },
+        { "level": "C1-C2", "fr": "La glace, fraîcheur d'été, fait patienter les foules au soleil.", "pt": "O sorvete, frescor de verão, faz as multidões esperarem ao sol." }
+      ]
+    },
+    {
+      "term": "la caravane",
+      "definitionPt": "a caravana (publicitária)",
+      "definitionFr": "Cortège de véhicules avant la course.",
+      "inflections": ["la caravane", "une caravane", "des caravanes"],
+      "ptTargets": ["caravana"],
+      "examples": [
+        { "level": "A1", "fr": "La caravane est longue.", "pt": "A caravana é comprida." },
+        { "level": "A2-B1", "fr": "La caravane passe avant les coureurs.", "pt": "A caravana passa antes dos ciclistas." },
+        { "level": "B1", "fr": "La caravane, que l'on attend, distribue des cadeaux.", "pt": "A caravana, que se espera, distribui presentes." },
+        { "level": "C1-C2", "fr": "La caravane, défilé du luxe, ouvre la fête avant les héros.", "pt": "A caravana, desfile do luxo, abre a festa antes dos heróis." }
+      ]
+    },
+    {
+      "term": "attendre",
+      "definitionPt": "esperar",
+      "definitionFr": "Rester jusqu'à l'arrivée.",
+      "inflections": ["j'attends", "tu attends", "il attend", "nous attendons"],
+      "ptTargets": ["esperar"],
+      "examples": [
+        { "level": "A1", "fr": "J'attends le train.", "pt": "Eu espero o trem." },
+        { "level": "A2-B1", "fr": "On attend les coureurs.", "pt": "Esperamos os ciclistas." },
+        { "level": "B1", "fr": "Les coureurs que l'on attend arrivent dans une heure.", "pt": "Os ciclistas que se esperam chegam em uma hora." },
+        { "level": "C1-C2", "fr": "Attendre, art de la fête, rend l'arrivée plus belle.", "pt": "Esperar, arte da festa, torna a chegada mais bela." }
+      ]
+    },
+    {
+      "term": "la vitesse",
+      "definitionPt": "a velocidade",
+      "definitionFr": "Rapidité.",
+      "inflections": ["la vitesse", "une vitesse", "des vitesses"],
+      "ptTargets": ["velocidade"],
+      "examples": [
+        { "level": "A1", "fr": "La vitesse est grande.", "pt": "A velocidade é grande." },
+        { "level": "A2-B1", "fr": "Les coureurs passent à toute vitesse.", "pt": "Os ciclistas passam em alta velocidade." },
+        { "level": "B1", "fr": "La vitesse à laquelle ils roulent est incroyable.", "pt": "A velocidade com que eles pedalam é incrível." },
+        { "level": "C1-C2", "fr": "La vitesse, ivresse du vent, efface les kilomètres sous les roues.", "pt": "A velocidade, embriaguez do vento, apaga os quilômetros sob as rodas." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "titleFr": "Le gérondif et la simultanéité",
+    "titlePt": "O gerúndio e a simultaneidade",
+    "points": [
+      {
+        "fr": "« En attendant les coureurs, on pourrait manger une glace » : le gérondif exprime une action pendant une autre.",
+        "pt": "« En attendant les coureurs, on pourrait manger une glace » (Esperando os ciclistas, poderíamos tomar um sorvete): o gerúndio expressa uma ação durante outra."
+      },
+      {
+        "fr": "« Grâce au Tour, j'ai un cadeau » : « grâce à » exprime la cause positive.",
+        "pt": "« Grâce au Tour, j'ai un cadeau » (Graças ao Tour, ganhei um presente): « grâce à » expressa a causa positiva."
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "O que passa por Bordeaux na aula ?",
+      "options": ["O Tour de France", "O rali de carros", "A maratona", "O circo"],
+      "correctIndex": 0
+    },
+    {
+      "question": "O que passa antes dos ciclistas ?",
+      "options": ["A caravana publicitária", "Os cavalos", "Os aviões", "Os navios"],
+      "correctIndex": 0
+    },
+    {
+      "question": "O que Iris pegou da caravana ?",
+      "options": ["Um chaveiro", "Uma bola", "Um boné", "Uma camiseta"],
+      "correctIndex": 0
+    },
+    {
+      "question": "O que a família comeu enquanto esperava ?",
+      "options": ["Um sorvete", "Um cachorro-quente", "Uma pizza", "Um bolo"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Como é chamado o Tour de France ?",
+      "options": ["A maior corrida de bicicleta do mundo", "Uma pequena corrida local", "Uma prova de natação", "Um jogo de futebol"],
+      "correctIndex": 0
+    }
+  ]
+}

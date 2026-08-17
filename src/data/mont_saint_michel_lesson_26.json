@@ -1,0 +1,252 @@
+{
+  "id": "mont_saint_michel_lesson_26",
+  "cityId": "mont-saint-michel",
+  "domain": "História & Cultura",
+  "level": "Básico (A2/B1)",
+  "titleFr": "L'archange et l'évêque : les trois rêves d'Aubert",
+  "titlePt": "O arcanjo e o bispo: os três sonhos de Aubert",
+  "subtitleFr": "En 708, saint Michel est apparu trois fois à l'évêque Aubert",
+  "subtitlePt": "Em 708, são Miguel apareceu três vezes ao bispo Aubert",
+  "summaryPt": "Nesta Aula 26 (A2/B1), Irlan conta a lenda da fundação: em 708, o arcanjo Miguel apareceu três vezes ao bispo Aubert de Avranches, pedindo-lhe que construísse uma igreja no Mont. A lenda diz que Aubert obedeceu na terceira aparição. O aluno pratica a narrativa no passado (l'archange est apparu, Aubert a obéi) e o vocabulário da lenda.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "« En 708, l'archange Michel est apparu à l'évêque Aubert », a raconté Irlan. « Il lui a demandé de construire une église sur le Mont Tombe. »",
+      "pt": "« Em 708, o arcanjo Miguel apareceu ao bispo Aubert », contou Irlan. « Pediu-lhe que construísse uma igreja no Mont Tombe. »"
+    },
+    {
+      "id": 2,
+      "fr": "« Aubert n'a pas cru au premier rêve », a dit Andréa. « Il est resté chez lui. L'archange est apparu une deuxième fois, puis une troisième fois. »",
+      "pt": "« Aubert não acreditou no primeiro sonho », disse Andréa. « Ficou em casa. O arcanjo apareceu uma segunda vez, depois uma terceira. »"
+    },
+    {
+      "id": 3,
+      "fr": "« La légende dit que l'archange a touché la tête d'Aubert avec son doigt », a ajouté Irlan. « Alors, l'évêque a enfin obéi et il a construit la première chapelle. »",
+      "pt": "« A lenda diz que o arcanjo tocou a cabeça de Aubert com o dedo », acrescentou Irlan. « Então, o bispo finalmente obedeceu e construiu a primeira capela. »"
+    },
+    {
+      "id": 4,
+      "fr": "Íris a touché sa tête : « Comme ça ? » Toute la famille a ri. « Oui, comme ça ! » a dit Irlan. « Et c'est comme ça que le Mont est devenu un lieu sacré. »",
+      "pt": "Íris tocou a cabeça: « Assim? » Toda a família riu. « Sim, assim! » disse Irlan. « E foi assim que o Mont se tornou um lugar sagrado. »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "l'archange",
+      "definitionPt": "o arcanjo",
+      "definitionFr": "Ange de haut rang.",
+      "inflections": ["l'archange", "un archange", "des archanges"],
+      "ptTargets": ["arcanjo"],
+      "examples": [
+        { "level": "A1", "fr": "L'archange est un ange.", "pt": "O arcanjo é um anjo." },
+        { "level": "A2-B1", "fr": "L'archange Michel est apparu à Aubert.", "pt": "O arcanjo Miguel apareceu a Aubert." },
+        { "level": "B2", "fr": "L'archange, protecteur du Mont, veille sur la baie.", "pt": "O arcanjo, protetor do Mont, vigia a baía." },
+        { "level": "C1-C2", "fr": "L'archange de pierre, au sommet de l'abbaye, défie le ciel et le temps.", "pt": "O arcanjo de pedra, no topo da abadia, desafia o céu e o tempo." }
+      ]
+    },
+    {
+      "term": "l'évêque",
+      "definitionPt": "o bispo",
+      "definitionFr": "Chef religieux d'un diocèse.",
+      "inflections": ["l'évêque", "un évêque", "des évêques"],
+      "ptTargets": ["bispo"],
+      "examples": [
+        { "level": "A1", "fr": "L'évêque prie.", "pt": "O bispo reza." },
+        { "level": "A2-B1", "fr": "Aubert était l'évêque d'Avranches.", "pt": "Aubert era o bispo de Avranches." },
+        { "level": "B2", "fr": "L'évêque a fondé le premier lieu de culte du Mont.", "pt": "O bispo fundou o primeiro lugar de culto do Mont." },
+        { "level": "C1-C2", "fr": "L'évêque, d'abord incrédule, est devenu l'outil de la légende.", "pt": "O bispo, primeiro incrédulo, tornou-se o instrumento da lenda." }
+      ]
+    },
+    {
+      "term": "le rêve",
+      "definitionPt": "o sonho",
+      "definitionFr": "Images pendant le sommeil ; souhait.",
+      "inflections": ["le rêve", "un rêve", "des rêves"],
+      "ptTargets": ["sonho"],
+      "examples": [
+        { "level": "A1", "fr": "Le rêve est étrange.", "pt": "O sonho é estranho." },
+        { "level": "A2-B1", "fr": "L'archange est apparu dans les rêves d'Aubert.", "pt": "O arcanjo apareceu nos sonhos de Aubert." },
+        { "level": "B2", "fr": "Les rêves d'Aubert ont changé l'histoire du Mont.", "pt": "Os sonhos de Aubert mudaram a história do Mont." },
+        { "level": "C1-C2", "fr": "Trois rêves ont suffi à bâtir une merveille.", "pt": "Três sonhos bastaram para construir uma maravilha." }
+      ]
+    },
+    {
+      "term": "apparaître",
+      "definitionPt": "aparecer",
+      "definitionFr": "Devenir visible.",
+      "inflections": ["j'apparais", "nous apparaissons", "apparu"],
+      "ptTargets": ["aparecer"],
+      "examples": [
+        { "level": "A1", "fr": "Le soleil apparaît.", "pt": "O sol aparece." },
+        { "level": "A2-B1", "fr": "L'archange est apparu trois fois.", "pt": "O arcanjo apareceu três vezes." },
+        { "level": "B2", "fr": "L'archange est apparu dans le rêve de l'évêque.", "pt": "O arcanjo apareceu no sonho do bispo." },
+        { "level": "C1-C2", "fr": "Apparaître trois fois, c'est insister sans violence : la méthode des anges.", "pt": "Aparecer três vezes é insistir sem violência: o método dos anjos." }
+      ]
+    },
+    {
+      "term": "construire",
+      "definitionPt": "construir",
+      "definitionFr": "Bâtir.",
+      "inflections": ["je construis", "nous construisons", "construit"],
+      "ptTargets": ["construir"],
+      "examples": [
+        { "level": "A1", "fr": "Ils construisent une chapelle.", "pt": "Eles constroem uma capela." },
+        { "level": "A2-B1", "fr": "Aubert a construit la première chapelle.", "pt": "Aubert construiu a primeira capela." },
+        { "level": "B2", "fr": "L'évêque a construit une chapelle au sommet du rocher.", "pt": "O bispo construiu uma capela no topo do rochedo." },
+        { "level": "C1-C2", "fr": "Construire sur ordre d'un rêve, c'est bâtir avec la foi pour architecte.", "pt": "Construir por ordem de um sonho é erguer com a fé como arquiteta." }
+      ]
+    },
+    {
+      "term": "obéir",
+      "definitionPt": "obedecer",
+      "definitionFr": "Faire ce que l'on demande.",
+      "inflections": ["j'obéis", "nous obéissons", "obéi"],
+      "ptTargets": ["obedecer"],
+      "examples": [
+        { "level": "A1", "fr": "J'obéis à mon père.", "pt": "Obedeço ao meu pai." },
+        { "level": "A2-B1", "fr": "Aubert a enfin obéi à l'archange.", "pt": "Aubert finalmente obedeceu ao arcanjo." },
+        { "level": "B2", "fr": "Obéir à un rêve peut sembler fou, mais cela a changé le monde.", "pt": "Obedecer a um sonho pode parecer loucura, mas isso mudou o mundo." },
+        { "level": "C1-C2", "fr": "Obéir sans comprendre, puis comprendre en obéissant : l'histoire d'Aubert.", "pt": "Obedecer sem entender e depois entender obedecendo: a história de Aubert." }
+      ]
+    },
+    {
+      "term": "le doigt",
+      "definitionPt": "o dedo",
+      "definitionFr": "Partie de la main.",
+      "inflections": ["le doigt", "un doigt", "des doigts"],
+      "ptTargets": ["dedo"],
+      "examples": [
+        { "level": "A1", "fr": "Le doigt est petit.", "pt": "O dedo é pequeno." },
+        { "level": "A2-B1", "fr": "L'archange a touché la tête d'Aubert avec son doigt.", "pt": "O arcanjo tocou a cabeça de Aubert com o dedo." },
+        { "level": "B2", "fr": "La légende dit qu'un trou est resté dans le crâne d'Aubert.", "pt": "A lenda diz que um buraco ficou no crânio de Aubert." },
+        { "level": "C1-C2", "fr": "Un simple doigt a suffi à marquer un homme et un mont pour l'éternité.", "pt": "Um simples dedo bastou para marcar um homem e um monte para a eternidade." }
+      ]
+    },
+    {
+      "term": "la légende",
+      "definitionPt": "a lenda",
+      "definitionFr": "Histoire traditionnelle, souvent merveilleuse.",
+      "inflections": ["la légende", "une légende", "des légendes"],
+      "ptTargets": ["lenda"],
+      "examples": [
+        { "level": "A1", "fr": "La légende est belle.", "pt": "A lenda é bonita." },
+        { "level": "A2-B1", "fr": "La légende raconte l'apparition de l'archange.", "pt": "A lenda conta a aparição do arcanjo." },
+        { "level": "B2", "fr": "Les légendes donnent au Mont son âme.", "pt": "As lendas dão ao Mont sua alma." },
+        { "level": "C1-C2", "fr": "Derrière chaque légende, il y a une vérité que le temps a embellie.", "pt": "Atrás de cada lenda há uma verdade que o tempo embelezou." }
+      ]
+    },
+    {
+      "term": "sacré",
+      "definitionPt": "sagrado",
+      "definitionFr": "Religieux, saint.",
+      "inflections": ["sacré", "sacrée", "sacrés"],
+      "ptTargets": ["sagrado"],
+      "examples": [
+        { "level": "A1", "fr": "Le lieu est sacré.", "pt": "O lugar é sagrado." },
+        { "level": "A2-B1", "fr": "Le Mont est devenu un lieu sacré.", "pt": "O Mont se tornou um lugar sagrado." },
+        { "level": "B2", "fr": "Depuis 708, le rocher est un lieu sacré.", "pt": "Desde 708, o rochedo é um lugar sagrado." },
+        { "level": "C1-C2", "fr": "Le sacré se loge parfois dans un rêve, une pierre, une apparition.", "pt": "O sagrado às vezes se instala num sonho, numa pedra, numa aparição." }
+      ]
+    },
+    {
+      "term": "la chapelle",
+      "definitionPt": "a capela",
+      "definitionFr": "Petite église.",
+      "inflections": ["la chapelle", "une chapelle", "des chapelles"],
+      "ptTargets": ["capela"],
+      "examples": [
+        { "level": "A1", "fr": "La chapelle est petite.", "pt": "A capela é pequena." },
+        { "level": "A2-B1", "fr": "Aubert a construit la première chapelle en 708.", "pt": "Aubert construiu a primeira capela em 708." },
+        { "level": "B2", "fr": "La chapelle a grandi jusqu'à devenir une abbaye immense.", "pt": "A capela cresceu até virar uma abadia imensa." },
+        { "level": "C1-C2", "fr": "Une chapelle de pierre, née d'un rêve, a donné naissance à une merveille.", "pt": "Uma capela de pedra, nascida de um sonho, deu origem a uma maravilha." }
+      ]
+    },
+    {
+      "term": "croire",
+      "definitionPt": "acreditar, crer",
+      "definitionFr": "Tenir pour vrai.",
+      "inflections": ["je crois", "nous croyons", "cru"],
+      "ptTargets": ["acreditar", "crer"],
+      "examples": [
+        { "level": "A1", "fr": "Je crois en toi.", "pt": "Acredito em você." },
+        { "level": "A2-B1", "fr": "Aubert n'a pas cru au premier rêve.", "pt": "Aubert não acreditou no primeiro sonho." },
+        { "level": "B2", "fr": "Personne ne croyait à l'histoire, mais le Mont existe.", "pt": "Ninguém acreditava na história, mas o Mont existe." },
+        { "level": "C1-C2", "fr": "Croire, c'est parfois voir les choses qu'on ne peut pas prouver.", "pt": "Acreditar é às vezes ver as coisas que não se podem provar." }
+      ]
+    },
+    {
+      "term": "enfin",
+      "definitionPt": "finalmente, enfim",
+      "definitionFr": "Après un long moment.",
+      "inflections": ["enfin", "enfin !", "en fin de compte"],
+      "ptTargets": ["finalmente", "enfim"],
+      "examples": [
+        { "level": "A1", "fr": "Enfin, le train arrive !", "pt": "Finalmente, o trem chega!" },
+        { "level": "A2-B1", "fr": "Aubert a enfin obéi à l'archange.", "pt": "Aubert finalmente obedeceu ao arcanjo." },
+        { "level": "B2", "fr": "Après trois rêves, il a enfin compris.", "pt": "Depois de três sonhos, ele finalmente entendeu." },
+        { "level": "C1-C2", "fr": "Enfin, après des siècles, la légende continue de voyager.", "pt": "Enfim, depois de séculos, a lenda continua viajando." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Narrer la légende : le passé composé de l'histoire",
+    "explanationPt": "A lenda usa o passé composé para os eventos: 'l'archange est apparu' (o arcanjo apareceu), 'Aubert a obéi' (Aubert obedeceu), 'il a construit' (ele construiu).",
+    "exampleFr": "L'archange est apparu trois fois et Aubert a enfin obéi.",
+    "examplePt": "O arcanjo apareceu três vezes e Aubert finalmente obedeceu.",
+    "practiceQuestion": "Complete: « L'archange est ___ trois fois. »",
+    "options": ["apparu", "apparut", "apparaît"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "D'abord / puis / enfin : la suite de l'histoire",
+        "explanationPt": "Para contar uma história: 'd'abord' (primeiro), 'puis' (depois), 'enfin' (finalmente). 'D'abord, Aubert n'a pas cru. Puis, il a obéi. Enfin, il a construit la chapelle'.",
+        "exampleFr": "D'abord, Aubert n'a pas cru. Puis, l'archange est revenu. Enfin, Aubert a construit la chapelle.",
+        "examplePt": "Primeiro, Aubert não acreditou. Depois, o arcanjo voltou. Finalmente, Aubert construiu a capela.",
+        "practiceQuestion": "Complete: « D'abord, Aubert n'a pas cru. ___, il a obéi. »",
+        "options": ["Puis", "Avant", "Hier"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "Dire que / la légende dit que : rapporter une croyance",
+        "explanationPt": "'La légende dit que + phrase' (a lenda diz que...): 'la légende dit que l'archange a touché la tête d'Aubert'. Serve para contar crenças.",
+        "exampleFr": "La légende dit que l'archange a touché la tête de l'évêque avec son doigt.",
+        "examplePt": "A lenda diz que o arcanjo tocou a cabeça do bispo com o dedo.",
+        "practiceQuestion": "Complete: « La légende ___ que l'archange est apparu. »",
+        "options": ["dit", "dis", "dire"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Em que ano o arcanjo Miguel apareceu ao bispo Aubert?",
+      "options": ["Em 708", "Em 1863", "Em 2009"],
+      "correctIndex": 0,
+      "explanation": "Segundo a lenda, em 708 o arcanjo Miguel apareceu ao bispo Aubert de Avranches."
+    },
+    {
+      "question": "Quantas vezes o arcanjo apareceu?",
+      "options": ["Três vezes", "Uma vez", "Dez vezes"],
+      "correctIndex": 0,
+      "explanation": "O arcanjo apareceu três vezes nos sonhos de Aubert antes de ser ouvido."
+    },
+    {
+      "question": "Complete: « L'archange est ___ trois fois. »",
+      "options": ["apparu", "apparut", "apparaît"],
+      "correctIndex": 0,
+      "explanation": "Evento da lenda = passé composé: 'est apparu'."
+    },
+    {
+      "question": "O que Aubert construiu após obedecer?",
+      "options": ["A primeira capela no Mont", "Uma ponte", "Um farol"],
+      "correctIndex": 0,
+      "explanation": "Aubert construiu a primeira chapelle no topo do Mont Tombe."
+    },
+    {
+      "question": "Complete: « La légende ___ que l'archange a touché sa tête. »",
+      "options": ["dit", "dis", "dire"],
+      "correctIndex": 0,
+      "explanation": "'La légende dit que...' — a lenda diz que..."
+    }
+  ]
+}

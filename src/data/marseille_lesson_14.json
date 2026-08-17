@@ -1,0 +1,257 @@
+{
+  "id": "marseille_lesson_14",
+  "cityId": "marseille",
+  "domain": "Natureza & Mar",
+  "level": "Avançado (C1)",
+  "titleFr": "Les Calanques : la mer dans la pierre",
+  "titlePt": "As Calanques: o mar na pedra",
+  "subtitleFr": "Le subjonctif : avant que, à condition que, sans que",
+  "subtitlePt": "O subjuntivo: avant que, à condition que, sans que",
+  "summaryPt": "Entre Marseille e Cassis, o Parque Nacional das Calanques protege falésias de 400 metros e enseadas de água turquesa. Nesta aula C1, a família caminha pelas calanques e pratica o subjonctif com avant que, à condition que e sans que.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Le parc national des Calanques, créé en 2012, est le premier parc national périurbain d'Europe. « Il faut que nous partions tôt, avant que le soleil ne soit trop fort », dit Irlan. Le sentier descendait vers la mer.",
+      "pt": "O Parque Nacional das Calanques, criado em 2012, é o primeiro parque nacional periurbano da Europa. « É preciso que partamos cedo, antes que o sol fique forte demais », disse Irlan. A trilha descia para o mar."
+    },
+    {
+      "id": 2,
+      "fr": "Les calanques, sculptées par la mer et le vent depuis des millions d'années, cachent des criques secrètes. « Il est interdit de camper, sans que personne ne puisse en connaître la raison ? » demanda Íris. « Non, c'est pour protéger les espèces », répondit sa mère.",
+      "pt": "As calanques, esculpidas pelo mar e pelo vento há milhões de anos, escondem enseadas secretas. « É proibido acampar, sem que ninguém possa saber a razão? » perguntou Íris. « Não, é para proteger as espécies », respondeu a mãe."
+    },
+    {
+      "id": 3,
+      "fr": "À Sormiou, l'eau turquoise brillait entre les falaises. « À condition que nous respections la nature, ce paradis restera intact », dit un garde du parc. Des grimpeurs escaladaient les rochers au-dessus de l'eau.",
+      "pt": "Em Sormiou, a água turquesa brilhava entre as falésias. « Na condição de respeitarmos a natureza, este paraíso continuará intacto », disse um guarda do parque. Escaladores subiam as rochas sobre a água."
+    },
+    {
+      "id": 4,
+      "fr": "La famille pique-niqua face à l'eau. « Bien que le chemin soit long, chaque virage en vaut la peine », dit Andréa. Irlan plongea, et l'eau fraîche le réveilla comme jamais.",
+      "pt": "A família fez piquenique de frente para a água. « Embora o caminho seja longo, cada curva vale a pena », disse Andréa. Irlan mergulhou, e a água fresca o despertou como nunca."
+    },
+    {
+      "id": 5,
+      "fr": "Le soir, Irlan écrivit : « Avant que je quitte la France, je reviendrai ici. À condition que le mistral me laisse le temps, je marcherai de calanque en calanque. Et sans que personne ne me le demande, je protégerai ce paradis. »",
+      "pt": "À noite, Irlan escreveu: « Antes que eu deixe a França, voltarei aqui. Na condição de o mistral me dar tempo, caminharei de calanque em calanque. E sem que ninguém me peça, protegerei este paraíso. »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "la calanque",
+      "definitionPt": "calanque (enseada entre falésias)",
+      "definitionFr": "Crique étroite entre des falaises.",
+      "inflections": ["la calanque", "les calanques"],
+      "ptTargets": ["calanque", "calanques", "enseada"],
+      "examples": [
+        { "level": "A1", "fr": "La calanque est belle.", "pt": "A calanque é bonita." },
+        { "level": "A2-B1", "fr": "Les calanques sont célèbres.", "pt": "As calanques são famosas." },
+        { "level": "B1-B2", "fr": "Les calanques, protégées depuis 2012, offrent des eaux cristallines.", "pt": "As calanques, protegidas desde 2012, oferecem águas cristalinas." },
+        { "level": "C1-C2", "fr": "C'est la calanque qui révèle la beauté sauvage de la Méditerranée.", "pt": "É a calanque que revela a beleza selvagem do Mediterrâneo." }
+      ]
+    },
+    {
+      "term": "la falaise",
+      "definitionPt": "falésia",
+      "definitionFr": "Paroi rocheuse verticale.",
+      "inflections": ["la falaise", "les falaises"],
+      "ptTargets": ["falésia", "falésias"],
+      "examples": [
+        { "level": "A1", "fr": "La falaise est haute.", "pt": "A falésia é alta." },
+        { "level": "A2-B1", "fr": "Les falaises tombent dans la mer.", "pt": "As falésias caem no mar." },
+        { "level": "B1-B2", "fr": "Les falaises, hautes de 400 mètres, dominent les criques.", "pt": "As falésias, com 400 metros, dominam as enseadas." },
+        { "level": "C1-C2", "fr": "C'est la falaise qui garde les secrets des calanques.", "pt": "É a falésia que guarda os segredos das calanques." }
+      ]
+    },
+    {
+      "term": "le sentier",
+      "definitionPt": "trilha",
+      "definitionFr": "Chemin étroit.",
+      "inflections": ["le sentier", "les sentiers"],
+      "ptTargets": ["trilha", "trilhas"],
+      "examples": [
+        { "level": "A1", "fr": "Le sentier est étroit.", "pt": "A trilha é estreita." },
+        { "level": "A2-B1", "fr": "Le sentier descend vers la mer.", "pt": "A trilha desce para o mar." },
+        { "level": "B1-B2", "fr": "Les sentiers, balisés, serpentent entre les falaises.", "pt": "As trilhas, sinalizadas, serpenteiam entre as falésias." },
+        { "level": "C1-C2", "fr": "C'est le sentier qui ouvre l'accès au paradis.", "pt": "É a trilha que abre o acesso ao paraíso." }
+      ]
+    },
+    {
+      "term": "la crique",
+      "definitionPt": "enseada, caleta",
+      "definitionFr": "Petite baie abritée.",
+      "inflections": ["la crique", "les criques"],
+      "ptTargets": ["enseada", "caleta", "enseadas"],
+      "examples": [
+        { "level": "A1", "fr": "La crique est calme.", "pt": "A enseada é calma." },
+        { "level": "A2-B1", "fr": "Les criques cachent des plages secrètes.", "pt": "As enseadas escondem praias secretas." },
+        { "level": "B1-B2", "fr": "Les criques, accessibles à pied, restent sauvages.", "pt": "As enseadas, acessíveis a pé, continuam selvagens." },
+        { "level": "C1-C2", "fr": "C'est la crique qui offre le repos après la marche.", "pt": "É a enseada que oferece o descanso após a caminhada." }
+      ]
+    },
+    {
+      "term": "le grimpeur",
+      "definitionPt": "escalador",
+      "definitionFr": "Personne qui escalade les rochers.",
+      "inflections": ["le grimpeur", "les grimpeurs"],
+      "ptTargets": ["escalador", "escaladores"],
+      "examples": [
+        { "level": "A1", "fr": "Le grimpeur monte.", "pt": "O escalador sobe." },
+        { "level": "A2-B1", "fr": "Les grimpeurs escaladent les falaises.", "pt": "Os escaladores escalam as falésias." },
+        { "level": "B1-B2", "fr": "Les grimpeurs, équipés de cordes, défient la verticalité des rochers.", "pt": "Os escaladores, equipados com cordas, desafiam a verticalidade das rochas." },
+        { "level": "C1-C2", "fr": "C'est le grimpeur qui mesure la hauteur des falaises.", "pt": "É o escalador que mede a altura das falésias." }
+      ]
+    },
+    {
+      "term": "plonger",
+      "definitionPt": "mergulhar",
+      "definitionFr": "S'enfoncer dans l'eau.",
+      "inflections": ["je plonge", "plonger", "plongé"],
+      "ptTargets": ["mergulhar", "mergulhou"],
+      "examples": [
+        { "level": "A1", "fr": "Je plonge dans la mer.", "pt": "Eu mergulho no mar." },
+        { "level": "A2-B1", "fr": "Irlan a plongé dans l'eau fraîche.", "pt": "Irlan mergulhou na água fresca." },
+        { "level": "B1-B2", "fr": "Plonger dans les calanques, c'est entrer dans un autre monde.", "pt": "Mergulhar nas calanques é entrar em outro mundo." },
+        { "level": "C1-C2", "fr": "C'est en plongeant que l'on découvre la vie cachée de la mer.", "pt": "É mergulhando que se descobre a vida escondida do mar." }
+      ]
+    },
+    {
+      "term": "cristallin",
+      "definitionPt": "cristalino",
+      "definitionFr": "Transparent comme le cristal.",
+      "inflections": ["cristallin", "cristalline", "cristallins"],
+      "ptTargets": ["cristalino", "cristalina"],
+      "examples": [
+        { "level": "A1", "fr": "L'eau est cristalline.", "pt": "A água é cristalina." },
+        { "level": "A2-B1", "fr": "Les eaux cristallines attirent les plongeurs.", "pt": "As águas cristalinas atraem os mergulhadores." },
+        { "level": "B1-B2", "fr": "Les eaux cristallines, protégées par le parc, gardent leur pureté.", "pt": "As águas cristalinas, protegidas pelo parque, mantêm sua pureza." },
+        { "level": "C1-C2", "fr": "C'est la transparence cristalline qui fait la magie des calanques.", "pt": "É a transparência cristalina que faz a magia das calanques." }
+      ]
+    },
+    {
+      "term": "l'espèce",
+      "definitionPt": "espécie",
+      "definitionFr": "Ensemble d'êtres vivants semblables.",
+      "inflections": ["l'espèce", "les espèces"],
+      "ptTargets": ["espécie", "espécies"],
+      "examples": [
+        { "level": "A1", "fr": "L'espèce est protégée.", "pt": "A espécie é protegida." },
+        { "level": "A2-B1", "fr": "Le parc protège des espèces rares.", "pt": "O parque protege espécies raras." },
+        { "level": "B1-B2", "fr": "Les espèces, menacées, trouvent refuge dans le parc.", "pt": "As espécies, ameaçadas, encontram refúgio no parque." },
+        { "level": "C1-C2", "fr": "C'est la protection des espèces qui justifie les règles du parc.", "pt": "É a proteção das espécies que justifica as regras do parque." }
+      ]
+    },
+    {
+      "term": "périurbain",
+      "definitionPt": "periurbano",
+      "definitionFr": "Situé près d'une ville.",
+      "inflections": ["périurbain", "périurbaine", "périurbains"],
+      "ptTargets": ["periurbano", "periurbana"],
+      "examples": [
+        { "level": "A1", "fr": "Le parc est périurbain.", "pt": "O parque é periurbano." },
+        { "level": "A2-B1", "fr": "Le parc est proche de la ville.", "pt": "O parque é perto da cidade." },
+        { "level": "B1-B2", "fr": "Le parc périurbain, premier du genre, se trouve à quelques minutes de Marseille.", "pt": "O parque periurbano, primeiro do gênero, fica a poucos minutos de Marseille." },
+        { "level": "C1-C2", "fr": "C'est le parc périurbain qui permet à la nature de respirer à côté de la ville.", "pt": "É o parque periurbano que permite à natureza respirar ao lado da cidade." }
+      ]
+    },
+    {
+      "term": "le garde",
+      "definitionPt": "guarda (de parque)",
+      "definitionFr": "Personne qui surveille et protège un parc.",
+      "inflections": ["le garde", "les gardes"],
+      "ptTargets": ["guarda", "guardas"],
+      "examples": [
+        { "level": "A1", "fr": "Le garde parle.", "pt": "O guarda fala." },
+        { "level": "A2-B1", "fr": "Le garde surveille le parc.", "pt": "O guarda vigia o parque." },
+        { "level": "B1-B2", "fr": "Les gardes, attentifs, veillent sur la nature.", "pt": "Os guardas, atentos, zelam pela natureza." },
+        { "level": "C1-C2", "fr": "C'est le garde qui transmet les règles de protection.", "pt": "É o guarda que transmite as regras de proteção." }
+      ]
+    },
+    {
+      "term": "balisé",
+      "definitionPt": "sinalizado (trilha)",
+      "definitionFr": "Marqué par des repères.",
+      "inflections": ["balisé", "balisée", "balisés"],
+      "ptTargets": ["sinalizado", "sinalizada"],
+      "examples": [
+        { "level": "A1", "fr": "Le sentier est balisé.", "pt": "A trilha é sinalizada." },
+        { "level": "A2-B1", "fr": "Il faut suivre les sentiers balisés.", "pt": "É preciso seguir as trilhas sinalizadas." },
+        { "level": "B1-B2", "fr": "Les sentiers balisés protègent les visiteurs et la nature.", "pt": "As trilhas sinalizadas protegem os visitantes e a natureza." },
+        { "level": "C1-C2", "fr": "C'est en restant sur les sentiers balisés que l'on respecte le parc.", "pt": "É permanecendo nas trilhas sinalizadas que se respeita o parque." }
+      ]
+    },
+    {
+      "term": "en valoir la peine",
+      "definitionPt": "valer a pena",
+      "definitionFr": "Mériter l'effort.",
+      "inflections": ["en valoir la peine"],
+      "ptTargets": ["valer a pena"],
+      "examples": [
+        { "level": "A1", "fr": "Ça vaut la peine.", "pt": "Vale a pena." },
+        { "level": "A2-B1", "fr": "Le chemin en vaut la peine.", "pt": "O caminho vale a pena." },
+        { "level": "B1-B2", "fr": "Chaque virage en vaut la peine, malgré la fatigue.", "pt": "Cada curva vale a pena, apesar do cansaço." },
+        { "level": "C1-C2", "fr": "C'est en arrivant au bout que l'on comprend que tout en valait la peine.", "pt": "É chegando ao fim que se entende que tudo valeu a pena." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Le subjonctif : avant que, à condition que, sans que",
+    "explanationPt": "Conjunções C1 com subjonctif: 'avant que le soleil ne soit trop fort' (antes que o sol fique forte — com ne explétif), 'à condition que nous respections la nature' (na condição de respeitarmos), 'sans que personne ne puisse en connaître la raison' (sem que ninguém possa saber).",
+    "exampleFr": "Il faut que nous partions tôt, avant que le soleil ne soit trop fort ; à condition que nous respections la nature, ce paradis restera intact.",
+    "examplePt": "É preciso que partamos cedo, antes que o sol fique forte demais; na condição de respeitarmos a natureza, este paraíso continuará intacto.",
+    "practiceQuestion": "Complete: « Avant que le soleil ne ___ trop fort, partons ! »",
+    "options": ["soit", "est", "sera"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "Avant que + ne explétif",
+        "explanationPt": "'Avant que le soleil ne soit trop fort' : avant que + subjonctif, frequentemente com 'ne' explétivo.",
+        "exampleFr": "Avant que je quitte la France, je reviendrai ici.",
+        "examplePt": "Antes que eu deixe a França, voltarei aqui.",
+        "practiceQuestion": "Complete: « Avant que je ___ la France, je reviendrai. »",
+        "options": ["quitte", "quitte", "quitterai"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "À condition que + subjonctif",
+        "explanationPt": "'À condition que nous respections la nature' : condição com subjonctif.",
+        "exampleFr": "À condition que le mistral me laisse le temps, je marcherai de calanque en calanque.",
+        "examplePt": "Na condição de o mistral me dar tempo, caminharei de calanque em calanque.",
+        "practiceQuestion": "Complete: « À condition que nous ___ la nature, ce paradis restera intact. »",
+        "options": ["respections", "respectons", "respecterons"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Complete: « Avant que le soleil ne ___ trop fort, partons ! »",
+      "options": ["soit", "est", "sera"],
+      "correctIndex": 0,
+      "explanation": "Avant que + subjonctif: 'soit'."
+    },
+    {
+      "question": "Quando foi criado o Parque Nacional das Calanques?",
+      "options": ["2012", "1900", "1789"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'créé en 2012, est le premier parc national périurbain d'Europe'."
+    },
+    {
+      "question": "Por que é proibido acampar nas calanques?",
+      "options": ["Para proteger as espécies", "Porque é perigoso", "Porque é proibido por lei antiga"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'c'est pour protéger les espèces'."
+    },
+    {
+      "question": "Complete: « À condition que nous ___ la nature, ce paradis restera intact. »",
+      "options": ["respections", "respectons", "respecterons"],
+      "correctIndex": 0,
+      "explanation": "À condition que + subjonctif: 'respections'."
+    },
+    {
+      "question": "O que Irlan prometeu no final?",
+      "options": ["Proteger as calanques sem que ninguém peça", "Construir uma casa no parque", "Nunca mais caminhar"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'sans que personne ne me le demande, je protégerai ce paradis'."
+    }
+  ]
+}

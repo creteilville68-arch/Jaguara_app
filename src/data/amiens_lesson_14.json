@@ -1,0 +1,252 @@
+{
+  "id": "amiens_lesson_14",
+  "cityId": "amiens",
+  "domain": "Arte & Museu",
+  "level": "Iniciante em Transição (A1/A2)",
+  "titleFr": "Le musée de Picardie",
+  "titlePt": "O Museu da Picardia",
+  "subtitleFr": "Les trésors de l'art à Amiens",
+  "subtitlePt": "Os tesouros da arte em Amiens",
+  "summaryPt": "Nesta Aula 14 (A1/A2) da Cidade #2, a família visita o Museu da Picardia, inaugurado em 1867, um dos maiores museus de província da França. O aluno aprende o vocabulário do museu (musée, tableau, peinture, sculpture, salle, œuvre) e o passé composé com avoir.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Le musée de Picardie est un très beau bâtiment, inauguré en 1867. « C'est l'un des plus grands musées de province en France, dit Andréa. Il y a des tableaux, des sculptures et des objets anciens. »",
+      "pt": "O Museu da Picardia é um prédio muito bonito, inaugurado em 1867. « É um dos maiores museus de província da França, diz Andréa. Há quadros, esculturas e objetos antigos. »"
+    },
+    {
+      "id": 2,
+      "fr": "Dans la salle des peintures, Íris regarde un grand tableau coloré. « J'aime cette peinture ! dit-elle. Qui a fait cette œuvre ? » Irlan lit le cartel : « C'est un peintre français du dix-neuvième siècle. »",
+      "pt": "Na sala das pinturas, Íris olha um grande quadro colorido. « Gosto desta pintura! diz ela. Quem fez esta obra? » Irlan lê a legenda: « É um pintor francês do século XIX. »"
+    },
+    {
+      "id": 3,
+      "fr": "La famille a visité la salle égyptienne. « J'ai vu des statues anciennes et des objets de l'Égypte, raconte Íris à sa mère. Nous avons découvert des trésors très vieux ! »",
+      "pt": "A família visitou a sala egípcia. « Vi estátuas antigas e objetos do Egito, conta Íris à mãe. Descobrimos tesouros muito antigos! »"
+    },
+    {
+      "id": 4,
+      "fr": "Avant de partir, la famille achète des cartes postales du musée. « Demain, nous allons voir les marionnettes picardes, dit Andréa. La culture de la région continue ! »",
+      "pt": "Antes de partir, a família compra cartões-postais do museu. « Amanhã, vamos ver as marionetes picardas, diz Andréa. A cultura da região continua! »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "le musée",
+      "definitionPt": "o museu",
+      "definitionFr": "Lieu où l'on expose des œuvres d'art.",
+      "inflections": ["le musée", "un musée", "des musées"],
+      "ptTargets": ["museu"],
+      "examples": [
+        { "level": "A1", "fr": "Le musée est grand.", "pt": "O museu é grande." },
+        { "level": "A2-B1", "fr": "Le musée de Picardie est célèbre.", "pt": "O Museu da Picardia é famoso." },
+        { "level": "B2", "fr": "Le musée, inauguré en 1867, est un joyau de la région.", "pt": "O museu, inaugurado em 1867, é uma joia da região." },
+        { "level": "C1-C2", "fr": "C'est le musée qui, cultivé, garde la mémoire des siècles.", "pt": "É o museu que, culto, guarda a memória dos séculos." }
+      ]
+    },
+    {
+      "term": "le tableau",
+      "definitionPt": "o quadro",
+      "definitionFr": "Peinture sur un support.",
+      "inflections": ["le tableau", "un tableau", "des tableaux"],
+      "ptTargets": ["quadro"],
+      "examples": [
+        { "level": "A1", "fr": "Le tableau est beau.", "pt": "O quadro é bonito." },
+        { "level": "A2-B1", "fr": "Íris regarde un grand tableau.", "pt": "Íris olha um grande quadro." },
+        { "level": "B2", "fr": "Le tableau, coloré, attire tous les regards.", "pt": "O quadro, colorido, atrai todos os olhares." },
+        { "level": "C1-C2", "fr": "C'est le tableau qui, immortel, traverse les générations.", "pt": "É o quadro que, imortal, atravessa as gerações." }
+      ]
+    },
+    {
+      "term": "la peinture",
+      "definitionPt": "a pintura",
+      "definitionFr": "Art de peindre, ou tableau.",
+      "inflections": ["la peinture", "une peinture", "des peintures"],
+      "ptTargets": ["pintura"],
+      "examples": [
+        { "level": "A1", "fr": "J'aime cette peinture.", "pt": "Gosto desta pintura." },
+        { "level": "A2-B1", "fr": "La salle des peintures est au premier étage.", "pt": "A sala das pinturas fica no primeiro andar." },
+        { "level": "B2", "fr": "La peinture française du dix-neuvième siècle est célèbre.", "pt": "A pintura francesa do século XIX é famosa." },
+        { "level": "C1-C2", "fr": "C'est la peinture qui, émouvante, parle sans mots.", "pt": "É a pintura que, emocionante, fala sem palavras." }
+      ]
+    },
+    {
+      "term": "la sculpture",
+      "definitionPt": "a escultura",
+      "definitionFr": "Œuvre d'art en trois dimensions.",
+      "inflections": ["la sculpture", "une sculpture", "des sculptures"],
+      "ptTargets": ["escultura"],
+      "examples": [
+        { "level": "A1", "fr": "La sculpture est grande.", "pt": "A escultura é grande." },
+        { "level": "A2-B1", "fr": "Il y a des sculptures dans le musée.", "pt": "Há esculturas no museu." },
+        { "level": "B2", "fr": "La sculpture, élégante, montre un visage ancien.", "pt": "A escultura, elegante, mostra um rosto antigo." },
+        { "level": "C1-C2", "fr": "C'est la sculpture qui, immobile, raconte une histoire éternelle.", "pt": "É a escultura que, imóvel, conta uma história eterna." }
+      ]
+    },
+    {
+      "term": "la salle",
+      "definitionPt": "a sala",
+      "definitionFr": "Pièce d'un bâtiment.",
+      "inflections": ["la salle", "une salle", "des salles"],
+      "ptTargets": ["sala"],
+      "examples": [
+        { "level": "A1", "fr": "La salle est grande.", "pt": "A sala é grande." },
+        { "level": "A2-B1", "fr": "La salle des peintures est belle.", "pt": "A sala das pinturas é bonita." },
+        { "level": "B2", "fr": "Les salles du musée sont organisées par époque.", "pt": "As salas do museu são organizadas por época." },
+        { "level": "C1-C2", "fr": "C'est la salle qui, majestueuse, accueille les chefs-d'œuvre.", "pt": "É a sala que, majestosa, acolhe as obras-primas." }
+      ]
+    },
+    {
+      "term": "l'œuvre",
+      "definitionPt": "a obra",
+      "definitionFr": "Création artistique.",
+      "inflections": ["l'œuvre", "une œuvre", "des œuvres"],
+      "ptTargets": ["obra"],
+      "examples": [
+        { "level": "A1", "fr": "L'œuvre est belle.", "pt": "A obra é bonita." },
+        { "level": "A2-B1", "fr": "Qui a fait cette œuvre ?", "pt": "Quem fez esta obra?" },
+        { "level": "B2", "fr": "Les œuvres du musée viennent du monde entier.", "pt": "As obras do museu vêm do mundo inteiro." },
+        { "level": "C1-C2", "fr": "C'est l'œuvre qui, unique, révèle le génie de son auteur.", "pt": "É a obra que, única, revela o gênio de seu autor." }
+      ]
+    },
+    {
+      "term": "le peintre",
+      "definitionPt": "o pintor",
+      "definitionFr": "Artiste qui peint.",
+      "inflections": ["le peintre", "un peintre", "des peintres"],
+      "ptTargets": ["pintor"],
+      "examples": [
+        { "level": "A1", "fr": "Le peintre est talentueux.", "pt": "O pintor é talentoso." },
+        { "level": "A2-B1", "fr": "C'est un peintre français du dix-neuvième siècle.", "pt": "É um pintor francês do século XIX." },
+        { "level": "B2", "fr": "Le peintre a utilisé des couleurs très vives.", "pt": "O pintor usou cores muito vivas." },
+        { "level": "C1-C2", "fr": "C'est le peintre qui, visionnaire, transforme la toile en émotion.", "pt": "É o pintor que, visionário, transforma a tela em emoção." }
+      ]
+    },
+    {
+      "term": "le cartel",
+      "definitionPt": "a legenda (do quadro)",
+      "definitionFr": "Étiquette qui explique une œuvre.",
+      "inflections": ["le cartel", "un cartel", "des cartels"],
+      "ptTargets": ["legenda", "cartela"],
+      "examples": [
+        { "level": "A1", "fr": "Le cartel est petit.", "pt": "A legenda é pequena." },
+        { "level": "A2-B1", "fr": "Irlan lit le cartel du tableau.", "pt": "Irlan lê a legenda do quadro." },
+        { "level": "B2", "fr": "Le cartel donne le nom du peintre et la date.", "pt": "A legenda dá o nome do pintor e a data." },
+        { "level": "C1-C2", "fr": "C'est le cartel qui, discret, éclaire l'histoire de l'œuvre.", "pt": "É a legenda que, discreta, ilumina a história da obra." }
+      ]
+    },
+    {
+      "term": "ancien",
+      "definitionPt": "antigo",
+      "definitionFr": "Qui existe depuis longtemps.",
+      "inflections": ["ancien", "ancienne", "anciens"],
+      "ptTargets": ["antigo"],
+      "examples": [
+        { "level": "A1", "fr": "L'objet est ancien.", "pt": "O objeto é antigo." },
+        { "level": "A2-B1", "fr": "Il y a des objets anciens au musée.", "pt": "Há objetos antigos no museu." },
+        { "level": "B2", "fr": "La salle égyptienne contient des objets très anciens.", "pt": "A sala egípcia contém objetos muito antigos." },
+        { "level": "C1-C2", "fr": "C'est l'ancien qui, précieux, relie le présent au passé.", "pt": "É o antigo que, precioso, liga o presente ao passado." }
+      ]
+    },
+    {
+      "term": "découvrir",
+      "definitionPt": "descobrir",
+      "definitionFr": "Trouver quelque chose de nouveau.",
+      "inflections": ["je découvre", "découvrir", "nous découvrons"],
+      "ptTargets": ["descobrir"],
+      "examples": [
+        { "level": "A1", "fr": "Je découvre le musée.", "pt": "Eu descubro o museu." },
+        { "level": "A2-B1", "fr": "Nous avons découvert des trésors.", "pt": "Descobrimos tesouros." },
+        { "level": "B2", "fr": "Découvrir l'art, c'est ouvrir son esprit.", "pt": "Descobrir a arte é abrir o espírito." },
+        { "level": "C1-C2", "fr": "C'est en découvrant que l'on grandit.", "pt": "É descobrindo que se cresce." }
+      ]
+    },
+    {
+      "term": "la carte postale",
+      "definitionPt": "o cartão-postal",
+      "definitionFr": "Carte avec une image, envoyée par la poste.",
+      "inflections": ["la carte postale", "une carte postale", "des cartes postales"],
+      "ptTargets": ["cartão-postal"],
+      "examples": [
+        { "level": "A1", "fr": "La carte postale est jolie.", "pt": "O cartão-postal é bonito." },
+        { "level": "A2-B1", "fr": "La famille achète des cartes postales.", "pt": "A família compra cartões-postais." },
+        { "level": "B2", "fr": "La carte postale montre le musée de Picardie.", "pt": "O cartão-postal mostra o Museu da Picardia." },
+        { "level": "C1-C2", "fr": "C'est la carte postale qui, envoyée, partage les souvenirs.", "pt": "É o cartão-postal que, enviado, partilha as lembranças." }
+      ]
+    },
+    {
+      "term": "la région",
+      "definitionPt": "a região",
+      "definitionFr": "Grand territoire d'un pays.",
+      "inflections": ["la région", "une région", "des régions"],
+      "ptTargets": ["região"],
+      "examples": [
+        { "level": "A1", "fr": "La région est belle.", "pt": "A região é bonita." },
+        { "level": "A2-B1", "fr": "La Picardie est une belle région.", "pt": "A Picardia é uma bela região." },
+        { "level": "B2", "fr": "La région du nord de la France a une riche culture.", "pt": "A região do norte da França tem uma cultura rica." },
+        { "level": "C1-C2", "fr": "C'est la région qui, fière, porte son histoire avec elle.", "pt": "É a região que, orgulhosa, carrega sua história." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Le passé composé avec avoir",
+    "explanationPt": "Para falar do passado: avoir (presente) + particípio passado. Ex.: 'J'ai vu des statues' (eu vi estátuas), 'Nous avons découvert des trésors' (nós descobrimos tesouros), 'Nous avons visité la salle' (visitamos a sala).",
+    "exampleFr": "J'ai vu des statues anciennes. Nous avons découvert des trésors très vieux.",
+    "examplePt": "Vi estátuas antigas. Descobrimos tesouros muito antigos.",
+    "practiceQuestion": "Complete: 'Nous avons _____ des trésors.'",
+    "options": ["découvert", "découvrir", "découvrons"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "C'est l'un des + superlatif",
+        "explanationPt": "'C'est l'un des plus grands musées' = é um dos maiores museus. Ex.: 'C'est l'une des plus belles villes' (é uma das mais belas cidades).",
+        "exampleFr": "C'est l'un des plus grands musées de province en France.",
+        "examplePt": "É um dos maiores museus de província da França.",
+        "practiceQuestion": "Complete: 'C'est l'un des plus _____ musées.'",
+        "options": ["grands", "grand", "grandes"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "Le futur proche pour demain",
+        "explanationPt": "Futur proche com 'aller' + infinitivo: 'Demain, nous allons voir les marionnettes' (amanhã vamos ver as marionetes).",
+        "exampleFr": "Demain, nous allons voir les marionnettes picardes.",
+        "examplePt": "Amanhã, vamos ver as marionetes picardas.",
+        "practiceQuestion": "Complete: 'Demain, nous _____ voir les marionnettes.'",
+        "options": ["allons", "allez", "vont"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Em que ano foi inaugurado o Museu da Picardia?",
+      "options": ["1867", "1889", "1952"],
+      "correctIndex": 0,
+      "explanation": "Le musée de Picardie est un très beau bâtiment, inauguré en 1867."
+    },
+    {
+      "question": "O que Íris mais gosta na sala das pinturas?",
+      "options": ["um grande quadro colorido", "uma escultura de pedra", "um vaso antigo"],
+      "correctIndex": 0,
+      "explanation": "Íris regarde un grand tableau coloré."
+    },
+    {
+      "question": "Que sala a família visitou com estátuas antigas?",
+      "options": ["a sala egípcia", "a sala romana", "a sala medieval"],
+      "correctIndex": 0,
+      "explanation": "La famille a visité la salle égyptienne."
+    },
+    {
+      "question": "Complete: 'Nous avons _____ des trésors.'",
+      "options": ["découvert", "découvrir", "découvrons"],
+      "correctIndex": 0,
+      "explanation": "Passé composé: nous avons découvert."
+    },
+    {
+      "question": "Complete: 'Demain, nous _____ voir les marionnettes.'",
+      "options": ["allons", "allez", "vont"],
+      "correctIndex": 0,
+      "explanation": "Futur proche: nous allons voir."
+    }
+  ]
+}

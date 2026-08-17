@@ -1,0 +1,252 @@
+{
+  "id": "mont_saint_michel_lesson_4",
+  "cityId": "mont-saint-michel",
+  "domain": "História",
+  "level": "Básico (A2/B1)",
+  "titleFr": "L'abbaye et la Merveille : le joyau du rocher",
+  "titlePt": "A abadia e a Merveille: a joia do rochedo",
+  "subtitleFr": "Des voûtes gothiques, des moines et dix siècles d'histoire",
+  "subtitlePt": "Abóbadas góticas, monges e dez séculos de história",
+  "summaryPt": "Nesta Aula 4 (A2/B1), a família visita a abadia beneditina do Mont, coroada pela Merveille, obra-prima da arquitetura gótica. Eles passeiam pelas salas dos monges e admiram as voûtes e a luz. O aluno aprende os conectores 'quand' e 'lorsque' e os verbos reflexivos no passado (nous nous sommes arrêtés, il s'approchait).",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Lorsque nous sommes entrés dans l'abbaye, nous sommes restés sans voix. Les voûtes gothiques montaient très haut et la lumière entrait par les grandes fenêtres.",
+      "pt": "Quando entramos na abadia, ficamos sem palavras. As abóbadas góticas subiam muito alto e a luz entrava pelas grandes janelas."
+    },
+    {
+      "id": 2,
+      "fr": "La Merveille, c'est le joyau du Mont : trois étages construits par les moines au XIIIe siècle. Quand on la regarde, on comprend la puissance de la foi.",
+      "pt": "A Merveille é a joia do Mont: três andares construídos pelos monges no século XIII. Quando se olha para ela, entende-se o poder da fé."
+    },
+    {
+      "id": 3,
+      "fr": "Nous nous sommes arrêtés dans la salle des chevaliers. Un guide s'approchait des visiteurs et racontait l'histoire des moines qui vivaient ici.",
+      "pt": "Paramos na sala dos cavaleiros. Um guia se aproximava dos visitantes e contava a história dos monges que viviam ali."
+    },
+    {
+      "id": 4,
+      "fr": "Quand la visite s'est terminée, la famille est montée sur la terrasse. La vue sur la baie était à couper le souffle.",
+      "pt": "Quando a visita terminou, a família subiu ao terraço. A vista sobre a baía era de tirar o fôlego."
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "l'abbaye",
+      "definitionPt": "a abadia",
+      "definitionFr": "Monastère dirigé par un abbé ou une abbesse.",
+      "inflections": ["l'abbaye", "les abbayes"],
+      "ptTargets": ["abadia"],
+      "examples": [
+        { "level": "A1", "fr": "L'abbaye est ancienne.", "pt": "A abadia é antiga." },
+        { "level": "A2-B1", "fr": "L'abbaye du Mont est célèbre dans le monde.", "pt": "A abadia do Mont é famosa no mundo." },
+        { "level": "B2", "fr": "L'abbaye bénédictine a été fondée au VIIIe siècle.", "pt": "A abadia beneditina foi fundada no século VIII." },
+        { "level": "C1-C2", "fr": "L'abbaye du Mont Saint-Michel illustre l'apogée de l'architecture monastique médiévale.", "pt": "A abadia do Mont Saint-Michel ilustra o apogeu da arquitetura monástica medieval." }
+      ]
+    },
+    {
+      "term": "le monastère",
+      "definitionPt": "o monastério",
+      "definitionFr": "Lieu où vivent des moines.",
+      "inflections": ["le monastère", "les monastères"],
+      "ptTargets": ["monastério"],
+      "examples": [
+        { "level": "A1", "fr": "Le monastère est calme.", "pt": "O monastério é calmo." },
+        { "level": "A2-B1", "fr": "Le monastère abritait des moines pendant des siècles.", "pt": "O monastério abrigou monges durante séculos." },
+        { "level": "B2", "fr": "La vie du monastère suivait les prières et le travail des moines.", "pt": "A vida do monastério seguia as orações e o trabalho dos monges." },
+        { "level": "C1-C2", "fr": "Le monastère du Mont constituait un centre spirituel et intellectuel majeur du Moyen Âge.", "pt": "O monastério do Mont constituía um centro espiritual e intelectual importante da Idade Média." }
+      ]
+    },
+    {
+      "term": "la salle",
+      "definitionPt": "a sala",
+      "definitionFr": "Grande pièce.",
+      "inflections": ["la salle", "les salles"],
+      "ptTargets": ["sala"],
+      "examples": [
+        { "level": "A1", "fr": "La salle est grande.", "pt": "A sala é grande." },
+        { "level": "A2-B1", "fr": "La salle des chevaliers est impressionnante.", "pt": "A sala dos cavaleiros é impressionante." },
+        { "level": "B2", "fr": "Les salles de la Merveille servaient à la prière et à l'accueil des pèlerins.", "pt": "As salas da Merveille serviam à oração e ao acolhimento dos peregrinos." },
+        { "level": "C1-C2", "fr": "L'architecture des salles voûtées témoigne du génie des bâtisseurs médiévaux.", "pt": "A arquitetura das salas abobadadas testemunha o gênio dos construtores medievais." }
+      ]
+    },
+    {
+      "term": "la voûte",
+      "definitionPt": "a abóbada",
+      "definitionFr": "Plafond arrondi en pierre.",
+      "inflections": ["la voûte", "les voûtes"],
+      "ptTargets": ["abóbada"],
+      "examples": [
+        { "level": "A1", "fr": "La voûte est haute.", "pt": "A abóbada é alta." },
+        { "level": "A2-B1", "fr": "Les voûtes gothiques montaient très haut.", "pt": "As abóbadas góticas subiam muito alto." },
+        { "level": "B2", "fr": "Les voûtes en pierre soutiennent tout le poids de l'édifice.", "pt": "As abóbadas de pedra sustentam todo o peso do edifício." },
+        { "level": "C1-C2", "fr": "Le jeu des voûtes et des contreforts illustre la prouesse technique de l'architecture gothique.", "pt": "O jogo das abóbadas e dos contrafortes ilustra a proeza técnica da arquitetura gótica." }
+      ]
+    },
+    {
+      "term": "la pierre",
+      "definitionPt": "a pedra",
+      "definitionFr": "Matériau dur utilisé en construction.",
+      "inflections": ["la pierre", "les pierres"],
+      "ptTargets": ["pedra"],
+      "examples": [
+        { "level": "A1", "fr": "La pierre est lourde.", "pt": "A pedra é pesada." },
+        { "level": "A2-B1", "fr": "Le rocher et l'abbaye sont faits de pierre.", "pt": "O rochedo e a abadia são feitos de pedra." },
+        { "level": "B2", "fr": "Les pierres du Mont ont été transportées depuis le continent.", "pt": "As pedras do Mont foram transportadas desde o continente." },
+        { "level": "C1-C2", "fr": "La construction en pierre sur un rocher exigu a exigé des techniques exceptionnelles.", "pt": "A construção em pedra sobre um rochedo exíguo exigiu técnicas excepcionais." }
+      ]
+    },
+    {
+      "term": "le moine",
+      "definitionPt": "o monge",
+      "definitionFr": "Homme qui vit dans un monastère.",
+      "inflections": ["le moine", "les moines"],
+      "ptTargets": ["monge"],
+      "examples": [
+        { "level": "A1", "fr": "Le moine prie.", "pt": "O monge reza." },
+        { "level": "A2-B1", "fr": "Les moines ont construit la Merveille.", "pt": "Os monges construíram a Merveille." },
+        { "level": "B2", "fr": "Les moines accueillaient les pèlerins dans la salle des hôtes.", "pt": "Os monges acolhiam os peregrinos na sala dos hóspedes." },
+        { "level": "C1-C2", "fr": "La vie des moines bénédictins était rythmée par la prière, l'étude et le travail.", "pt": "A vida dos monges beneditinos era marcada pela oração, o estudo e o trabalho." }
+      ]
+    },
+    {
+      "term": "la visite",
+      "definitionPt": "a visita",
+      "definitionFr": "Action de visiter un lieu.",
+      "inflections": ["la visite", "les visites"],
+      "ptTargets": ["visita"],
+      "examples": [
+        { "level": "A1", "fr": "La visite est intéressante.", "pt": "A visita é interessante." },
+        { "level": "A2-B1", "fr": "La visite de l'abbaye a duré deux heures.", "pt": "A visita à abadia durou duas horas." },
+        { "level": "B2", "fr": "La visite guidée révèle les secrets de la Merveille.", "pt": "A visita guiada revela os segredos da Merveille." },
+        { "level": "C1-C2", "fr": "La scénographie de la visite valorise le patrimoine sans le dénaturer.", "pt": "A cenografia da visita valoriza o patrimônio sem descaracterizá-lo." }
+      ]
+    },
+    {
+      "term": "la lumière",
+      "definitionPt": "a luz",
+      "definitionFr": "Clarté qui éclaire.",
+      "inflections": ["la lumière", "les lumières"],
+      "ptTargets": ["luz"],
+      "examples": [
+        { "level": "A1", "fr": "La lumière est douce.", "pt": "A luz é suave." },
+        { "level": "A2-B1", "fr": "La lumière entrait par les grandes fenêtres.", "pt": "A luz entrava pelas grandes janelas." },
+        { "level": "B2", "fr": "La lumière dorée éclairait les voûtes de pierre.", "pt": "A luz dourada iluminava as abóbadas de pedra." },
+        { "level": "C1-C2", "fr": "La lumière normande, changeante et subtile, magnifie l'architecture de l'abbaye.", "pt": "A luz normanda, mutante e sutil, engrandece a arquitetura da abadia." }
+      ]
+    },
+    {
+      "term": "la merveille",
+      "definitionPt": "a maravilha",
+      "definitionFr": "Chose extraordinaire et belle.",
+      "inflections": ["la merveille", "les merveilles"],
+      "ptTargets": ["maravilha"],
+      "examples": [
+        { "level": "A1", "fr": "La merveille est belle.", "pt": "A maravilha é bela." },
+        { "level": "A2-B1", "fr": "La Merveille est le joyau de l'abbaye.", "pt": "A Merveille é a joia da abadia." },
+        { "level": "B2", "fr": "La Merveille est un chef-d'œuvre de l'art gothique.", "pt": "A Merveille é uma obra-prima da arte gótica." },
+        { "level": "C1-C2", "fr": "La Merveille incarne l'audace spirituelle et technique des bâtisseurs du XIIIe siècle.", "pt": "A Merveille encarna a audácia espiritual e técnica dos construtores do século XIII." }
+      ]
+    },
+    {
+      "term": "l'architecture",
+      "definitionPt": "a arquitetura",
+      "definitionFr": "Art de concevoir et construire des bâtiments.",
+      "inflections": ["l'architecture"],
+      "ptTargets": ["arquitetura"],
+      "examples": [
+        { "level": "A1", "fr": "L'architecture est ancienne.", "pt": "A arquitetura é antiga." },
+        { "level": "A2-B1", "fr": "L'architecture gothique de l'abbaye est célèbre.", "pt": "A arquitetura gótica da abadia é famosa." },
+        { "level": "B2", "fr": "L'architecture du Mont s'adapte parfaitement au rocher.", "pt": "A arquitetura do Mont se adapta perfeitamente ao rochedo." },
+        { "level": "C1-C2", "fr": "L'architecture religieuse du Mont témoigne de l'évolution des styles du roman au gothique flamboyant.", "pt": "A arquitetura religiosa do Mont testemunha a evolução dos estilos do românico ao gótico flamejante." }
+      ]
+    },
+    {
+      "term": "construire",
+      "definitionPt": "construir",
+      "definitionFr": "Bâtir, édifier.",
+      "inflections": ["je construis", "nous construisons", "construit"],
+      "ptTargets": ["construir"],
+      "examples": [
+        { "level": "A1", "fr": "Je construis une maison.", "pt": "Eu construo uma casa." },
+        { "level": "A2-B1", "fr": "Les moines ont construit la Merveille au XIIIe siècle.", "pt": "Os monges construíram a Merveille no século XIII." },
+        { "level": "B2", "fr": "Les bâtisseurs ont construit sur le rocher malgré les difficultés.", "pt": "Os construtores ergueram sobre o rochedo apesar das dificuldades." },
+        { "level": "C1-C2", "fr": "Construire une abbaye sur un rocher isolé relevait d'une prouesse logistique immense.", "pt": "Construir uma abadia sobre um rochedo isolado era uma proeza logística imensa." }
+      ]
+    },
+    {
+      "term": "la terrasse",
+      "definitionPt": "o terraço",
+      "definitionFr": "Plateforme en hauteur avec une vue.",
+      "inflections": ["la terrasse", "les terrasses"],
+      "ptTargets": ["terraço"],
+      "examples": [
+        { "level": "A1", "fr": "La terrasse est grande.", "pt": "O terraço é grande." },
+        { "level": "A2-B1", "fr": "La terrasse offre une vue magnifique sur la baie.", "pt": "O terraço oferece uma vista magnífica sobre a baía." },
+        { "level": "B2", "fr": "De la terrasse, on aperçoit le continent et les îles.", "pt": "Do terraço, avistam-se o continente e as ilhas." },
+        { "level": "C1-C2", "fr": "La terrasse de l'abbaye constitue un point de vue incomparable sur le marnage.", "pt": "O terraço da abadia constitui um ponto de vista incomparável sobre a amplitude das marés." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Les connecteurs : quand et lorsque",
+    "explanationPt": "'Quand' e 'lorsque' significam 'quando' e introduzem uma ação que acontece ao mesmo tempo ou logo depois de outra. Ex.: 'Lorsque nous sommes entrés, nous sommes restés sans voix'.",
+    "exampleFr": "Quand la visite s'est terminée, la famille est montée sur la terrasse.",
+    "examplePt": "Quando a visita terminou, a família subiu ao terraço.",
+    "practiceQuestion": "Complete: « ___ nous sommes entrés, nous avons été émerveillés. »",
+    "options": ["Lorsque", "Mais", "Parce que"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "Lorsque / quand + Passé Composé",
+        "explanationPt": "A conjunção liga duas ações: 'Lorsque nous sommes entrés (PC), nous avons admiré les voûtes (PC)'.",
+        "exampleFr": "Lorsque nous sommes entrés dans l'abbaye, nous sommes restés sans voix.",
+        "examplePt": "Quando entramos na abadia, ficamos sem palavras.",
+        "practiceQuestion": "Qual conector introduz o momento da ação?",
+        "options": ["Lorsque", "Soudainement", "Ensuite"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "Les verbes pronominaux au passé",
+        "explanationPt": "Reflexivos usam être: 'nous nous sommes arrêtés', 'il s'approchait' (Imparfait, duração).",
+        "exampleFr": "Nous nous sommes arrêtés dans la salle des chevaliers.",
+        "examplePt": "Paramos na sala dos cavaleiros.",
+        "practiceQuestion": "Complete: « Nous nous ___ arrêtés devant les voûtes. »",
+        "options": ["sommes", "avons", "allons"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Como se chama o joyau do Mont, construído no século XIII?",
+      "options": ["la Merveille", "la Grande Rue", "la navette"],
+      "correctIndex": 0,
+      "explanation": "La Merveille é a obra-prima gótica construída pelos monges no século XIII."
+    },
+    {
+      "question": "Quem construiu a Merveille?",
+      "options": ["os monges", "os romanos", "os vikings"],
+      "correctIndex": 0,
+      "explanation": "A Merveille foi construída pelos monges beneditinos."
+    },
+    {
+      "question": "Complete com o conector: « ___ la visite s'est terminée, nous sommes montés. »",
+      "options": ["Quand", "Mais", "Aussi"],
+      "correctIndex": 0,
+      "explanation": "'Quand' liga as duas ações no tempo."
+    },
+    {
+      "question": "Complete com o reflexivo: « Nous nous ___ arrêtés dans la salle. »",
+      "options": ["sommes", "avons", "sont"],
+      "correctIndex": 0,
+      "explanation": "Verbo pronominal com être: nous nous sommes arrêtés."
+    },
+    {
+      "question": "Onde a família subiu no final da visita?",
+      "options": ["na terrasse", "no telhado da Mère Poulard", "no estacionamento"],
+      "correctIndex": 0,
+      "explanation": "A família subiu ao terraço, com vista de tirar o fôlego."
+    }
+  ]
+}

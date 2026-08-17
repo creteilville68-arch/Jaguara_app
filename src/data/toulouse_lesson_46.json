@@ -1,0 +1,257 @@
+{
+  "id": "toulouse_lesson_46",
+  "cityId": "toulouse",
+  "domain": "Cidade & Transportes",
+  "level": "Intermediário (B2)",
+  "titleFr": "Le métro de Toulouse : sous la Ville rose",
+  "titlePt": "O metrô de Toulouse: sob a Cidade Rosa",
+  "subtitleFr": "Décrire le quotidien avec Y, EN et le plus-que-parfait",
+  "subtitlePt": "Descrever o cotidiano com Y, EN e o mais-que-perfeito",
+  "summaryPt": "Em 1993, Toulouse inaugurou seu metrô VAL, herdeiro da tecnologia nascida em Lille. Para Irlan, que passou meses sobre duas rodas, o metrô é outra forma de ler a cidade: subterrânea e pontual. Nesta aula B2, Y, EN e o plus-que-parfait descrevem o cotidiano sob a Ville rose.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "« Le métro de Toulouse est automatique, expliqua Irlan. La technologie VAL est née à Lille, en 1983. Ici, la première ligne a été inaugurée en 1993. » Íris regarda la rame sans conducteur arriver toute seule.",
+      "pt": "« O metrô de Toulouse é automático, explicou Irlan. A tecnologia VAL nasceu em Lille, em 1983. Aqui, a primeira linha foi inaugurada em 1993. » Íris viu o trem sem maquinista chegar sozinho."
+    },
+    {
+      "id": 2,
+      "fr": "« Tu n'étais pas encore née, dit Irlan à sa fille. Moi, en 1993, j'avais déjà commencé mes études de géographie au Brésil. Je n'en avais jamais entendu parler, du métro de Toulouse. »",
+      "pt": "« Você ainda não tinha nascido, disse Irlan à filha. Eu, em 1993, já tinha começado meus estudos de geografia no Brasil. Eu nunca tinha ouvido falar disso, do metrô de Toulouse. »"
+    },
+    {
+      "id": 3,
+      "fr": "La station Capitole est une grotte de briques roses. « On y sent la terre de la ville, remarqua Andréa. Chaque station a son style. Regarde celle-ci : elle ressemble à un temple. »",
+      "pt": "A estação Capitole é uma gruta de tijolos cor-de-rosa. « Sente-se nela a terra da cidade, observou Andréa. Cada estação tem seu estilo. Olha esta: parece um templo. »"
+    },
+    {
+      "id": 4,
+      "fr": "Dans le métro, Irlan reconnaissait des visages : un livreur qu'il croisait, une étudiante du Téléo. « C'est drôle, dit-il. Avant, je connaissais la ville par ses livraisons. Maintenant, j'en découvre le sous-sol. »",
+      "pt": "No metrô, Irlan reconhecia rostos: um entregador com quem cruzava, uma estudante do Téléo. « É engraçado, disse ele. Antes, eu conhecia a cidade pelas entregas. Agora, descubro-lhe o subsolo. »"
+    },
+    {
+      "id": 5,
+      "fr": "En sortant, Irlan conclut : « J'avais peur de m'enfermer sous terre. Mais le métro, c'est une autre carte de la ville : celle des gens pressés qui se croisent sans se voir. Un géographe doit lire les deux. »",
+      "pt": "Ao sair, Irlan concluiu: « Eu tinha medo de me enfiar debaixo da terra. Mas o metrô é outro mapa da cidade: o dos apressados que se cruzam sem se ver. Um geógrafo deve ler os dois. »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "le métro",
+      "definitionPt": "metrô (substantivo masculino)",
+      "definitionFr": "Transport en commun souterrain.",
+      "inflections": ["le métro", "des métros"],
+      "ptTargets": ["metrô", "metrôs"],
+      "examples": [
+        { "level": "A1", "fr": "Le métro est rapide.", "pt": "O metrô é rápido." },
+        { "level": "A2-B1", "fr": "Nous prenons le métro.", "pt": "Pegamos o metrô." },
+        { "level": "B2", "fr": "Le métro de Toulouse est automatique depuis 1993.", "pt": "O metrô de Toulouse é automático desde 1993." },
+        { "level": "C1-C2", "fr": "Le métro structure le temps de la ville autant que son espace.", "pt": "O metrô estrutura o tempo da cidade tanto quanto seu espaço." }
+      ]
+    },
+    {
+      "term": "automatique",
+      "definitionPt": "automático (adjetivo)",
+      "definitionFr": "Qui fonctionne sans intervention humaine.",
+      "inflections": ["automatique", "automatiques"],
+      "ptTargets": ["automático", "automática"],
+      "examples": [
+        { "level": "A1", "fr": "La porte est automatique.", "pt": "A porta é automática." },
+        { "level": "A2-B1", "fr": "Le métro est automatique.", "pt": "O metrô é automático." },
+        { "level": "B2", "fr": "La rame automatique du métro arrive sans conducteur.", "pt": "O trem automático do metrô chega sem maquinista." },
+        { "level": "C1-C2", "fr": "Le métro automatique libère l'homme de la conduite pour mieux le servir.", "pt": "O metrô automático liberta o homem da condução para melhor servi-lo." }
+      ]
+    },
+    {
+      "term": "la rame",
+      "definitionPt": "trem, composição (substantivo feminino)",
+      "definitionFr": "Train du métro.",
+      "inflections": ["la rame", "des rames"],
+      "ptTargets": ["trem", "composição", "trens"],
+      "examples": [
+        { "level": "A1", "fr": "La rame arrive.", "pt": "O trem chega." },
+        { "level": "A2-B1", "fr": "La rame est pleine.", "pt": "O trem está cheio." },
+        { "level": "B2", "fr": "Íris regarda la rame sans conducteur arriver toute seule.", "pt": "Íris viu o trem sem maquinista chegar sozinho." },
+        { "level": "C1-C2", "fr": "Chaque rame du VAL glisse dans le tunnel comme un poisson dans son fleuve.", "pt": "Cada composição do VAL desliza no túnel como um peixe em seu rio." }
+      ]
+    },
+    {
+      "term": "le conducteur",
+      "definitionPt": "maquinista, condutor (substantivo masculino)",
+      "definitionFr": "Personne qui conduit un véhicule.",
+      "inflections": ["le conducteur", "des conducteurs"],
+      "ptTargets": ["maquinista", "condutor", "condutores"],
+      "examples": [
+        { "level": "A1", "fr": "Le conducteur conduit.", "pt": "O condutor dirige." },
+        { "level": "A2-B1", "fr": "Le métro n'a pas de conducteur.", "pt": "O metrô não tem maquinista." },
+        { "level": "B2", "fr": "Dans le métro automatique, il n'y a pas de conducteur.", "pt": "No metrô automático, não há maquinista." },
+        { "level": "C1-C2", "fr": "La suppression du conducteur a bouleversé l'économie du transport urbain.", "pt": "A supressão do maquinista revolucionou a economia do transporte urbano." }
+      ]
+    },
+    {
+      "term": "la station",
+      "definitionPt": "estação (substantivo feminino)",
+      "definitionFr": "Lieu où le métro s'arrête.",
+      "inflections": ["la station", "des stations"],
+      "ptTargets": ["estação", "estações"],
+      "examples": [
+        { "level": "A1", "fr": "La station est belle.", "pt": "A estação é bonita." },
+        { "level": "A2-B1", "fr": "Nous descendons à la station Capitole.", "pt": "Descemos na estação Capitole." },
+        { "level": "B2", "fr": "La station Capitole est une grotte de briques roses.", "pt": "A estação Capitole é uma gruta de tijolos cor-de-rosa." },
+        { "level": "C1-C2", "fr": "Chaque station du métro toulousain est une œuvre d'art souterraine.", "pt": "Cada estação do metrô toulousain é uma obra de arte subterrânea." }
+      ]
+    },
+    {
+      "term": "la grotte",
+      "definitionPt": "gruta, caverna (substantivo feminino)",
+      "definitionFr": "Cavité naturelle ou aménagée dans la roche.",
+      "inflections": ["la grotte", "des grottes"],
+      "ptTargets": ["gruta", "caverna", "grutas"],
+      "examples": [
+        { "level": "A1", "fr": "La grotte est sombre.", "pt": "A gruta é escura." },
+        { "level": "A2-B1", "fr": "Nous visitons la grotte.", "pt": "Visitamos a gruta." },
+        { "level": "B2", "fr": "La station Capitole ressemble à une grotte de briques roses.", "pt": "A estação Capitole parece uma gruta de tijolos cor-de-rosa." },
+        { "level": "C1-C2", "fr": "La grotte souterraine de la station invite le voyageur à une archéologie urbaine.", "pt": "A gruta subterrânea da estação convida o viajante a uma arqueologia urbana." }
+      ]
+    },
+    {
+      "term": "le tunnel",
+      "definitionPt": "túnel (substantivo masculino)",
+      "definitionFr": "Galerie souterraine.",
+      "inflections": ["le tunnel", "des tunnels"],
+      "ptTargets": ["túnel", "túneis"],
+      "examples": [
+        { "level": "A1", "fr": "Le tunnel est long.", "pt": "O túnel é longo." },
+        { "level": "A2-B1", "fr": "Le métro passe dans le tunnel.", "pt": "O metrô passa no túnel." },
+        { "level": "B2", "fr": "Les rames glissent dans les tunnels sous la Ville rose.", "pt": "Os trens deslizam nos túneis sob a Cidade Rosa." },
+        { "level": "C1-C2", "fr": "Le tunnel est la métaphore parfaite de la ville moderne : circulation et invisibilité.", "pt": "O túnel é a metáfora perfeita da cidade moderna: circulação e invisibilidade." }
+      ]
+    },
+    {
+      "term": "le sous-sol",
+      "definitionPt": "subsolo (substantivo masculino)",
+      "definitionFr": "Espace situé sous la surface de la terre.",
+      "inflections": ["le sous-sol", "des sous-sols"],
+      "ptTargets": ["subsolo", "subsolos"],
+      "examples": [
+        { "level": "A1", "fr": "Le sous-sol est froid.", "pt": "O subsolo é frio." },
+        { "level": "A2-B1", "fr": "Le métro est dans le sous-sol.", "pt": "O metrô está no subsolo." },
+        { "level": "B2", "fr": "J'en découvre le sous-sol, la carte cachée de la ville.", "pt": "Descubro-lhe o subsolo, o mapa escondido da cidade." },
+        { "level": "C1-C2", "fr": "Le sous-sol urbain est une seconde ville, parallèle et silencieuse.", "pt": "O subsolo urbano é uma segunda cidade, paralela e silenciosa." }
+      ]
+    },
+    {
+      "term": "se croiser",
+      "definitionPt": "cruzar-se (verbo pronominal)",
+      "definitionFr": "Se rencontrer en passant, sans s'arrêter.",
+      "inflections": ["je me croise", "se croiser", "se croisent"],
+      "ptTargets": ["cruzar", "cruzam-se", "se cruzam"],
+      "examples": [
+        { "level": "A1", "fr": "Les chemins se croisent.", "pt": "Os caminhos se cruzam." },
+        { "level": "A2-B1", "fr": "Nous nous croisons dans le métro.", "pt": "Cruzamo-nos no metrô." },
+        { "level": "B2", "fr": "Les gens pressés se croisent sans se voir dans le métro.", "pt": "Os apressados se cruzam sem se ver no metrô." },
+        { "level": "C1-C2", "fr": "Se croiser sans se voir : la poésie involontaire de la ville.", "pt": "Cruzar-se sem se ver: a poesia involuntária da cidade." }
+      ]
+    },
+    {
+      "term": "pressé",
+      "definitionPt": "apressado (adjetivo)",
+      "definitionFr": "Qui est pressé, manque de temps.",
+      "inflections": ["pressé", "pressée", "pressés"],
+      "ptTargets": ["apressado", "apressados", "apressada"],
+      "examples": [
+        { "level": "A1", "fr": "Il est pressé.", "pt": "Ele está apressado." },
+        { "level": "A2-B1", "fr": "Les gens pressés courent.", "pt": "Os apressados correm." },
+        { "level": "B2", "fr": "Le métro est le royaume des gens pressés.", "pt": "O metrô é o reino dos apressados." },
+        { "level": "C1-C2", "fr": "La ville pressée oublie que la lenteur est aussi une richesse.", "pt": "A cidade apressada esquece que a lentidão também é uma riqueza." }
+      ]
+    },
+    {
+      "term": "s'enfermer",
+      "definitionPt": "trancar-se (verbo pronominal)",
+      "definitionFr": "Se mettre dans un espace clos.",
+      "inflections": ["je m'enferme", "s'enfermer", "enfermer"],
+      "ptTargets": ["trancar", "enfiar", "trancar-se"],
+      "examples": [
+        { "level": "A1", "fr": "Je m'enferme dans la chambre.", "pt": "Tranco-me no quarto." },
+        { "level": "A2-B1", "fr": "Il s'enferme dans la voiture.", "pt": "Ele se tranca no carro." },
+        { "level": "B2", "fr": "J'avais peur de m'enfermer sous terre, avoua Irlan.", "pt": "Eu tinha medo de me enfiar debaixo da terra, confessou Irlan." },
+        { "level": "C1-C2", "fr": "S'enfermer dans un tunnel, c'est accepter de voir la ville autrement.", "pt": "Trancar-se num túnel é aceitar ver a cidade de outro jeito." }
+      ]
+    },
+    {
+      "term": "le géographe",
+      "definitionPt": "geógrafo (substantivo masculino)",
+      "definitionFr": "Spécialiste de la géographie, de l'étude des territoires.",
+      "inflections": ["le géographe", "des géographes"],
+      "ptTargets": ["geógrafo", "geógrafos"],
+      "examples": [
+        { "level": "A1", "fr": "Le géographe étudie les cartes.", "pt": "O geógrafo estuda os mapas." },
+        { "level": "A2-B1", "fr": "Irlan est géographe.", "pt": "Irlan é geógrafo." },
+        { "level": "B2", "fr": "Un géographe doit lire les deux cartes de la ville.", "pt": "Um geógrafo deve ler os dois mapas da cidade." },
+        { "level": "C1-C2", "fr": "Le géographe observe les flux invisibles qui font battre la ville.", "pt": "O geógrafo observa os fluxos invisíveis que fazem a cidade bater." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Y, EN et le plus-que-parfait sous la ville",
+    "explanationPt": "Y retoma o lugar: 'on y sent la terre' (sente-se nela). EN retoma 'de + coisa': 'j'en découvre le sous-sol' (descubro-lhe o subsolo), 'je n'en avais jamais entendu parler' (nunca tinha ouvido falar disso).",
+    "exampleFr": "Dans ce métro, on y sent la terre de la ville ; j'en découvre le sous-sol aujourd'hui.",
+    "examplePt": "Neste metrô, sente-se nele a terra da cidade; hoje descubro-lhe o subsolo.",
+    "practiceQuestion": "Complete: 'J'avais peur de m'enfermer : je n'en avais jamais _____ parler.'",
+    "options": ["entendu", "entendre", "entends"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "EN pour 'de + chose'",
+        "explanationPt": "'Entendre parler du métro → en entendre parler' / 'Découvrir le sous-sol de la ville → en découvrir le sous-sol'.",
+        "exampleFr": "Je n'en avais jamais entendu parler, du métro de Toulouse.",
+        "examplePt": "Eu nunca tinha ouvido falar disso, do metrô de Toulouse.",
+        "practiceQuestion": "Complete: 'Le sous-sol, j'en _____ le monde aujourd'hui.'",
+        "options": ["découvre", "découvrent", "découvrir"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "Le plus-que-parfait du souvenir",
+        "explanationPt": "'En 1993, j'avais déjà commencé mes études' : ação anterior a um momento do passado.",
+        "exampleFr": "En 1993, j'avais déjà commencé mes études de géographie au Brésil.",
+        "examplePt": "Em 1993, eu já tinha começado meus estudos de geografia no Brasil.",
+        "practiceQuestion": "Complete: 'En 1993, j'avais déjà _____ mes études.'",
+        "options": ["commencé", "commencer", "commencés"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Complete: 'Je n'en avais jamais _____ parler, du métro de Toulouse.'",
+      "options": ["entendu", "entendre", "entends"],
+      "correctIndex": 0,
+      "explanation": "Plus-que-parfait: avais + particípio (entendu)."
+    },
+    {
+      "question": "Em que ano a primeira linha do metrô de Toulouse foi inaugurada?",
+      "options": ["1993", "1983", "2003"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'la première ligne a été inaugurée en 1993'."
+    },
+    {
+      "question": "Onde nasceu a tecnologia VAL?",
+      "options": ["Em Lille, em 1983", "Em Paris, em 1970", "Em Lyon, em 1990"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'La technologie VAL est née à Lille, en 1983.'"
+    },
+    {
+      "question": "Como é a estação Capitole?",
+      "options": ["Uma gruta de tijolos cor-de-rosa", "Toda branca de mármore", "Cheia de vitrais"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'La station Capitole est une grotte de briques roses.'"
+    },
+    {
+      "question": "Qual frase usa Y corretamente?",
+      "options": ["On y sent la terre de la ville.", "On en sent la terre de la ville.", "On le sent la terre de la ville."],
+      "correctIndex": 0,
+      "explanation": "Y retoma 'dans la station' (lugar)."
+    }
+  ]
+}

@@ -1,0 +1,252 @@
+{
+  "id": "tours_lesson_9",
+  "cityId": "tours",
+  "domain": "Viagem",
+  "level": "Intermediário (B1)",
+  "titleFr": "Le plan du voyage dans la vallée du Loire",
+  "titlePt": "O plano da viagem no Vale do Loire",
+  "subtitleFr": "Irlan, le géographe, organise la route des châteaux",
+  "subtitlePt": "Irlan, o geógrafo, organiza a rota dos castelos",
+  "summaryPt": "Nesta Aula 9 (B1), Irlan usa seu lado de geógrafo para planejar a rota dos castelos do Loire. A família decide o itinerário, consulta os horários e projeta o futuro com o Futur Simple. O aluno aprende a planejar uma viagem em francês: itinerário, horários, meio de transporte e previsões.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Ce matin, Irlan a étalé une grande carte du Val de Loire sur la table. « Je suis géographe, c'est mon travail de planifier un itinéraire », a-t-il dit en souriant.",
+      "pt": "Nesta manhã, Irlan estendeu um grande mapa do Vale do Loire sobre a mesa. « Sou geógrafo, é meu trabalho planejar um itinerário », disse ele sorrindo."
+    },
+    {
+      "id": 2,
+      "fr": "« Demain, nous prendrons le train jusqu'à Amboise. Ensuite, nous louerons des vélos pour suivre la Loire à vélo jusqu'à Chenonceau », a expliqué Irlan.",
+      "pt": "« Amanhã, pegaremos o trem até Amboise. Depois, alugaremos bicicletas para seguir a rota do Loire até Chenonceau », explicou Irlan."
+    },
+    {
+      "id": 3,
+      "fr": "Andréa a regardé l'itinéraire : « Et nous visiterons Chambord le lendemain. Il faudra vérifier les horaires des trains au retour. »",
+      "pt": "Andréa olhou o itinerário: « E visitaremos Chambord no dia seguinte. Será preciso verificar os horários dos trens na volta. »"
+    },
+    {
+      "id": 4,
+      "fr": "Iris a dessiné une petite scooter sur la carte. « Quand je serai grande, je conduirai une scooter comme papa à Paris ! » Tout le monde a ri.",
+      "pt": "Íris desenhou uma scooterzinha no mapa. « Quando eu crescer, vou andar de scooter como o papai em Paris! » Todos riram."
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "la carte",
+      "definitionPt": "o mapa",
+      "definitionFr": "Représentation d'un territoire.",
+      "inflections": ["la carte", "les cartes"],
+      "ptTargets": ["mapa"],
+      "examples": [
+        { "level": "A1", "fr": "La carte est sur la table.", "pt": "O mapa está sobre a mesa." },
+        { "level": "A2-B1", "fr": "Irlan a étalé la carte du Val de Loire.", "pt": "Irlan estendeu o mapa do Vale do Loire." },
+        { "level": "B1-B2", "fr": "La carte, dont il a besoin pour planifier, montre tous les châteaux.", "pt": "O mapa, de que ele precisa para planejar, mostra todos os castelos." },
+        { "level": "C1-C2", "fr": "La carte ancienne révèle l'évolution des paysages ligériens.", "pt": "O mapa antigo revela a evolução das paisagens do Loire." }
+      ]
+    },
+    {
+      "term": "l'itinéraire",
+      "definitionPt": "o itinerário",
+      "definitionFr": "Trajet à suivre.",
+      "inflections": ["l'itinéraire", "les itinéraires"],
+      "ptTargets": ["itinerário", "roteiro"],
+      "examples": [
+        { "level": "A1", "fr": "L'itinéraire est long.", "pt": "O itinerário é longo." },
+        { "level": "A2-B1", "fr": "Irlan a préparé un itinéraire pour la famille.", "pt": "Irlan preparou um itinerário para a família." },
+        { "level": "B1-B2", "fr": "L'itinéraire, qui suit le fleuve, passe par Amboise et Chenonceau.", "pt": "O itinerário, que segue o rio, passa por Amboise e Chenonceau." },
+        { "level": "C1-C2", "fr": "Un bon itinéraire tient compte du relief, des horaires et des imprévus.", "pt": "Um bom itinerário leva em conta o relevo, os horários e os imprevistos." }
+      ]
+    },
+    {
+      "term": "le château",
+      "definitionPt": "o castelo",
+      "definitionFr": "Grande résidence fortifiée ou de plaisance.",
+      "inflections": ["le château", "les châteaux"],
+      "ptTargets": ["castelo"],
+      "examples": [
+        { "level": "A1", "fr": "Le château est grand.", "pt": "O castelo é grande." },
+        { "level": "A2-B1", "fr": "Le Val de Loire est célèbre pour ses châteaux.", "pt": "O Vale do Loire é famoso por seus castelos." },
+        { "level": "B1-B2", "fr": "Le château, que nous visiterons demain, date de la Renaissance.", "pt": "O castelo, que visitaremos amanhã, data da Renascença." },
+        { "level": "C1-C2", "fr": "Les châteaux de la Loire témoignent du raffinement de la Renaissance française.", "pt": "Os castelos do Loire testemunham o refinamento da Renascença francesa." }
+      ]
+    },
+    {
+      "term": "le fleuve",
+      "definitionPt": "o rio (que deságua no mar)",
+      "definitionFr": "Cours d'eau qui se jette dans la mer.",
+      "inflections": ["le fleuve", "les fleuves"],
+      "ptTargets": ["rio", "rio grande"],
+      "examples": [
+        { "level": "A1", "fr": "Le fleuve est beau.", "pt": "O rio é bonito." },
+        { "level": "A2-B1", "fr": "La Loire est le plus long fleuve de France.", "pt": "O Loire é o rio mais longo da França." },
+        { "level": "B1-B2", "fr": "Le fleuve, qui serpente entre les châteaux, sculpte le paysage.", "pt": "O rio, que serpenteia entre os castelos, esculpe a paisagem." },
+        { "level": "C1-C2", "fr": "La Loire sauvage, classée au patrimoine mondial, est un laboratoire naturel unique.", "pt": "O Loire selvagem, classificado como patrimônio mundial, é um laboratório natural único." }
+      ]
+    },
+    {
+      "term": "le vélo",
+      "definitionPt": "a bicicleta",
+      "definitionFr": "Bicyclette.",
+      "inflections": ["le vélo", "les vélos"],
+      "ptTargets": ["bicicleta", "bike"],
+      "examples": [
+        { "level": "A1", "fr": "Le vélo est rapide.", "pt": "A bicicleta é rápida." },
+        { "level": "A2-B1", "fr": "Nous louerons des vélos pour suivre la Loire.", "pt": "Alugaremos bicicletas para seguir o Loire." },
+        { "level": "B1-B2", "fr": "Le vélo, qui permet de ralentir, est idéal pour découvrir la vallée.", "pt": "A bicicleta, que permite desacelerar, é ideal para descobrir o vale." },
+        { "level": "C1-C2", "fr": "La véloroute de la Loire relie les châteaux sur plus de huit cents kilomètres.", "pt": "A ciclovia do Loire liga os castelos por mais de oitocentos quilômetros." }
+      ]
+    },
+    {
+      "term": "le train",
+      "definitionPt": "o trem",
+      "definitionFr": "Moyen de transport sur rails.",
+      "inflections": ["le train", "les trains"],
+      "ptTargets": ["trem"],
+      "examples": [
+        { "level": "A1", "fr": "Le train part à huit heures.", "pt": "O trem parte às oito horas." },
+        { "level": "A2-B1", "fr": "Nous prendrons le train jusqu'à Amboise.", "pt": "Pegaremos o trem até Amboise." },
+        { "level": "B1-B2", "fr": "Le train, qui longe le fleuve, offre une vue magnifique.", "pt": "O trem, que acompanha o rio, oferece uma vista magnífica." },
+        { "level": "C1-C2", "fr": "Le réseau ferroviaire français, parmi les plus denses d'Europe, facilite l'exploration du territoire.", "pt": "A rede ferroviária francesa, uma das mais densas da Europa, facilita a exploração do território." }
+      ]
+    },
+    {
+      "term": "l'horaire",
+      "definitionPt": "o horário",
+      "definitionFr": "Heure prévue pour un départ, une arrivée.",
+      "inflections": ["l'horaire", "les horaires"],
+      "ptTargets": ["horário"],
+      "examples": [
+        { "level": "A1", "fr": "L'horaire est affiché.", "pt": "O horário está afixado." },
+        { "level": "A2-B1", "fr": "Il faudra vérifier les horaires des trains.", "pt": "Será preciso verificar os horários dos trens." },
+        { "level": "B1-B2", "fr": "Les horaires, que nous avons consultés en ligne, sont pratiques.", "pt": "Os horários, que consultamos online, são práticos." },
+        { "level": "C1-C2", "fr": "Un voyageur avisé consulte les horaires et anticipe les correspondances.", "pt": "Um viajante esperto consulta os horários e antecipa as conexões." }
+      ]
+    },
+    {
+      "term": "planifier",
+      "definitionPt": "planejar",
+      "definitionFr": "Organiser à l'avance.",
+      "inflections": ["je planifie", "nous planifions"],
+      "ptTargets": ["planejar", "planeja"],
+      "examples": [
+        { "level": "A1", "fr": "Je planifie la journée.", "pt": "Eu planejo o dia." },
+        { "level": "A2-B1", "fr": "Irlan a planifié l'itinéraire avec soin.", "pt": "Irlan planejou o itinerário com cuidado." },
+        { "level": "B1-B2", "fr": "Nous planifierons chaque étape avant le départ.", "pt": "Planejaremos cada etapa antes da partida." },
+        { "level": "C1-C2", "fr": "Planifier un voyage, c'est prévoir sans s'interdire l'imprévu.", "pt": "Planejar uma viagem é prever sem se proibir o imprevisto." }
+      ]
+    },
+    {
+      "term": "louer",
+      "definitionPt": "alugar",
+      "definitionFr": "Payer pour utiliser quelque chose.",
+      "inflections": ["je loue", "nous louons"],
+      "ptTargets": ["alugar", "aluga"],
+      "examples": [
+        { "level": "A1", "fr": "Je loue une chambre.", "pt": "Eu alugo um quarto." },
+        { "level": "A2-B1", "fr": "Nous louerons des vélos à Amboise.", "pt": "Alugaremos bicicletas em Amboise." },
+        { "level": "B1-B2", "fr": "On peut louer un vélo pour la journée entière.", "pt": "Pode-se alugar uma bicicleta pelo dia inteiro." },
+        { "level": "C1-C2", "fr": "Louer un vélo permet de découvrir la vallée à son propre rythme.", "pt": "Alugar uma bicicleta permite descobrir o vale no próprio ritmo." }
+      ]
+    },
+    {
+      "term": "l'étape",
+      "definitionPt": "a etapa",
+      "definitionFr": "Partie d'un trajet.",
+      "inflections": ["l'étape", "les étapes"],
+      "ptTargets": ["etapa"],
+      "examples": [
+        { "level": "A1", "fr": "L'étape est courte.", "pt": "A etapa é curta." },
+        { "level": "A2-B1", "fr": "Amboise est notre première étape.", "pt": "Amboise é nossa primeira etapa." },
+        { "level": "B1-B2", "fr": "Chaque étape, qui a son propre château, mérite une journée.", "pt": "Cada etapa, que tem seu próprio castelo, merece um dia." },
+        { "level": "C1-C2", "fr": "Découper le voyage en étapes raisonnables, c'est l'art du géographe.", "pt": "Dividir a viagem em etapas razoáveis é a arte do geógrafo." }
+      ]
+    },
+    {
+      "term": "la scooter",
+      "definitionPt": "a scooter",
+      "definitionFr": "Petit deux-roues à moteur.",
+      "inflections": ["la scooter", "les scooters"],
+      "ptTargets": ["scooter"],
+      "examples": [
+        { "level": "A1", "fr": "La scooter est rapide.", "pt": "A scooter é rápida." },
+        { "level": "A2-B1", "fr": "Irlan livrait les repas en scooter à Paris.", "pt": "Irlan entregava refeições de scooter em Paris." },
+        { "level": "B1-B2", "fr": "La scooter, qu'il garde précieusement, lui rappelle ses débuts.", "pt": "A scooter, que ele guarda com carinho, lembra seus começos." },
+        { "level": "C1-C2", "fr": "La scooter reste un symbole de sa résilience d'immigrant.", "pt": "A scooter continua sendo um símbolo de sua resiliência de imigrante." }
+      ]
+    },
+    {
+      "term": "le paysage",
+      "definitionPt": "a paisagem",
+      "definitionFr": "Ce que l'on voit d'un lieu.",
+      "inflections": ["le paysage", "les paysages"],
+      "ptTargets": ["paisagem"],
+      "examples": [
+        { "level": "A1", "fr": "Le paysage est vert.", "pt": "A paisagem é verde." },
+        { "level": "A2-B1", "fr": "Le paysage du Val de Loire est magnifique.", "pt": "A paisagem do Vale do Loire é magnífica." },
+        { "level": "B1-B2", "fr": "Le paysage, que le fleuve a façonné, alterne forêts et vignes.", "pt": "A paisagem, que o rio modelou, alterna florestas e vinhedos." },
+        { "level": "C1-C2", "fr": "Les paysages ligériens, inscrits au patrimoine mondial, incarnent l'harmonie entre l'homme et la nature.", "pt": "As paisagens do Loire, inscritas no patrimônio mundial, encarnam a harmonia entre o homem e a natureza." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Le Futur Simple pour planifier",
+    "explanationPt": "O Futur Simple é perfeito para planos e previsões: 'nous prendrons le train', 'nous louerons des vélos', 'nous visiterons Chambord'. Formação: infinitivo + -ai, -as, -a, -ons, -ez, -ont.",
+    "exampleFr": "Demain, nous prendrons le train jusqu'à Amboise.",
+    "examplePt": "Amanhã, pegaremos o trem até Amboise.",
+    "practiceQuestion": "Complete: « Demain, nous ___ le train. »",
+    "options": ["prendrons", "prenons", "avons pris"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "Exprimer une prévision",
+        "explanationPt": "Previsões: 'nous louerons des vélos', 'nous visiterons Chambord le lendemain', 'il faudra vérifier les horaires'.",
+        "exampleFr": "Nous visiterons Chambord le lendemain.",
+        "examplePt": "Visitaremos Chambord no dia seguinte.",
+        "practiceQuestion": "Qual é o Futur Simple de 'louer'?",
+        "options": ["nous louerons", "nous louons", "nous avons loué"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "Le Futur Simple de 'être'",
+        "explanationPt": "Futur de être: je serai, tu seras, il sera, nous serons, vous serez, ils seront. 'Quand je serai grande, je conduirai une scooter.'",
+        "exampleFr": "Quand je serai grande, je conduirai une scooter comme papa.",
+        "examplePt": "Quando eu crescer, andarei de scooter como o papai.",
+        "practiceQuestion": "Complete: « Quand je ___ grande... »",
+        "options": ["serai", "suis", "étais"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "O que Irlan estendeu sobre a mesa?",
+      "options": ["um grande mapa do Vale do Loire", "uma toalha de mesa", "um jornal"],
+      "correctIndex": 0,
+      "explanation": "Irlan estendeu um grande mapa do Val de Loire."
+    },
+    {
+      "question": "Por que Irlan é bom em planejar itinerários?",
+      "options": ["ele é geógrafo", "ele é cozinheiro", "ele é motorista de ônibus"],
+      "correctIndex": 0,
+      "explanation": "Irlan é geógrafo, e planejar itinerários é seu trabalho."
+    },
+    {
+      "question": "Como a família pretende seguir o Loire até Chenonceau?",
+      "options": ["de bicicleta", "de carro", "de barco"],
+      "correctIndex": 0,
+      "explanation": "Eles alugarão vélos para seguir a Loire à vélo até Chenonceau."
+    },
+    {
+      "question": "Complete: « Demain, nous ___ le train jusqu'à Amboise. »",
+      "options": ["prendrons", "prenons", "avons pris"],
+      "correctIndex": 0,
+      "explanation": "Futur Simple: nous prendrons."
+    },
+    {
+      "question": "O que Íris desenhou no mapa?",
+      "options": ["uma scooter", "um castelo", "um trem"],
+      "correctIndex": 0,
+      "explanation": "Íris desenhou uma pequena scooter, como a do pai em Paris."
+    }
+  ]
+}

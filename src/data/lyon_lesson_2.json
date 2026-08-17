@@ -1,0 +1,252 @@
+{
+  "id": "lyon_lesson_2",
+  "cityId": "lyon",
+  "domain": "História",
+  "level": "Intermediário (B2+)",
+  "titleFr": "Le Vieux Lyon et ses traboules : les passages secrets",
+  "titlePt": "A Lyon Antiga e suas traboules: as passagens secretas",
+  "subtitleFr": "La Renaissance lyonnaise et les couloirs qui traversent les immeubles",
+  "subtitlePt": "A Renascença lionense e os corredores que atravessam os prédios",
+  "summaryPt": "Nesta Aula 2 (B2+), a família percorre o Vieux Lyon, bairro renascentista classificado pela UNESCO, e descobre as traboules, passagens secretas que atravessam os prédios. O aluno domina o discurso indireto: 'Le guide a dit que les traboules servaient...'.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Dans la rue Saint-Jean, un guide a expliqué : « Le Vieux Lyon est l'un des plus grands ensembles Renaissance d'Europe. Les traboules, ces passages qui traversent les immeubles, permettaient aux canuts de porter la soie sans passer par la rue. »",
+      "pt": "Na rue Saint-Jean, um guia explicou: « A Lyon Antiga é um dos maiores conjuntos renascentistas da Europa. As traboules, essas passagens que atravessam os prédios, permitiam aos canuts carregar a seda sem passar pela rua. »"
+    },
+    {
+      "id": 2,
+      "fr": "Iris a poussé une porte et s'est retrouvée dans une cour secrète. « Le guide a dit que ces passages servaient aussi pendant la Résistance, a murmuré Irlan. Les résistants y cachaient leurs messages et leurs armes. »",
+      "pt": "Íris empurrou uma porta e se viu num pátio secreto. « O guia disse que essas passagens também serviam durante a Resistência, murmurou Irlan. Os resistentes escondiam ali suas mensagens e suas armas. »"
+    },
+    {
+      "id": 3,
+      "fr": "Andréa a demandé au guide si l'on pouvait visiter la Maison des Canuts. « Il a répondu que la visite était passionnante, a-t-elle traduit en riant. Il a ajouté qu'on y voyait les métiers à tisser d'époque. »",
+      "pt": "Andréa perguntou ao guia se se podia visitar a Casa dos Canuts. « Ele respondeu que a visita era apaixonante, traduziu ela rindo. Ele acrescentou que ali se viam os teares da época. »"
+    },
+    {
+      "id": 4,
+      "fr": "En sortant d'une traboule, Iris a conclu : « J'ai compris : Lyon, c'est une ville avec des secrets. » Irlan a souri : « Et c'est ce que j'aime ici : chaque porte cache une histoire. Un jour, je te raconterai celle de ma scooter et de mes livraisons secrètes dans Paris. »",
+      "pt": "Ao sair de uma traboule, Íris concluiu: « Entendi: Lyon é uma cidade com segredos. » Irlan sorriu: « E é isso que eu amo aqui: cada porta esconde uma história. Um dia, eu te conto a da minha scooter e das minhas entregas secretas em Paris. »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "la traboule",
+      "definitionPt": "a traboule (passagem secreta de Lyon)",
+      "definitionFr": "Passage couvert qui traverse un immeuble.",
+      "inflections": ["la traboule", "les traboules"],
+      "ptTargets": ["traboule", "passagem secreta"],
+      "examples": [
+        { "level": "A1", "fr": "La traboule est secrète.", "pt": "A traboule é secreta." },
+        { "level": "A2-B1", "fr": "Les traboules traversent les immeubles.", "pt": "As traboules atravessam os prédios." },
+        { "level": "B1-B2", "fr": "Les traboules, qui relient les cours et les rues, sont typiques de Lyon.", "pt": "As traboules, que ligam pátios e ruas, são típicas de Lyon." },
+        { "level": "C1-C2", "fr": "C'est dans les traboules que se lisent l'ingéniosité et l'histoire secrète de Lyon.", "pt": "É nas traboules que se leem a engenhosidade e a história secreta de Lyon." }
+      ]
+    },
+    {
+      "term": "le passage",
+      "definitionPt": "a passagem",
+      "definitionFr": "Endroit par où l'on passe.",
+      "inflections": ["le passage", "les passages"],
+      "ptTargets": ["passagem"],
+      "examples": [
+        { "level": "A1", "fr": "Le passage est étroit.", "pt": "A passagem é estreita." },
+        { "level": "A2-B1", "fr": "Les passages secrets fascinent Iris.", "pt": "As passagens secretas fascinam Íris." },
+        { "level": "B1-B2", "fr": "Les passages, autrefois utilitaires, sont aujourd'hui des trésors touristiques.", "pt": "As passagens, antigamente utilitárias, hoje são tesouros turísticos." },
+        { "level": "C1-C2", "fr": "C'est par ces passages que la soie voyageait à l'abri des regards.", "pt": "É por essas passagens que a seda viajava a salvo dos olhares." }
+      ]
+    },
+    {
+      "term": "la Résistance",
+      "definitionPt": "a Resistência",
+      "definitionFr": "Mouvement de lutte contre l'occupation pendant la Seconde Guerre mondiale.",
+      "inflections": ["la Résistance"],
+      "ptTargets": ["Resistência"],
+      "examples": [
+        { "level": "A1", "fr": "La Résistance est célèbre.", "pt": "A Resistência é famosa." },
+        { "level": "A2-B1", "fr": "Les traboules servaient à la Résistance.", "pt": "As traboules serviam à Resistência." },
+        { "level": "B1-B2", "fr": "La Résistance, qui utilisait les passages secrets, a marqué l'histoire de Lyon.", "pt": "A Resistência, que usava as passagens secretas, marcou a história de Lyon." },
+        { "level": "C1-C2", "fr": "C'est à Lyon que la Résistance a organisé l'une de ses plus grandes batailles secrètes.", "pt": "É em Lyon que a Resistência organizou uma de suas maiores batalhas secretas." }
+      ]
+    },
+    {
+      "term": "le résistant",
+      "definitionPt": "o resistente",
+      "definitionFr": "Personne qui a participé à la Résistance.",
+      "inflections": ["le résistant", "les résistants"],
+      "ptTargets": ["resistente"],
+      "examples": [
+        { "level": "A1", "fr": "Le résistant était courageux.", "pt": "O resistente era corajoso." },
+        { "level": "A2-B1", "fr": "Les résistants cachaient des messages.", "pt": "Os resistentes escondiam mensagens." },
+        { "level": "B1-B2", "fr": "Les résistants, qui risquaient leur vie, utilisaient les traboules pour se déplacer.", "pt": "Os resistentes, que arriscavam a vida, usavam as traboules para se deslocar." },
+        { "level": "C1-C2", "fr": "C'est le courage des résistants qui a permis à la liberté de survivre dans l'ombre.", "pt": "É a coragem dos resistentes que permitiu à liberdade sobreviver na sombra." }
+      ]
+    },
+    {
+      "term": "la cour",
+      "definitionPt": "o pátio",
+      "definitionFr": "Espace découvert entouré de bâtiments.",
+      "inflections": ["la cour", "les cours"],
+      "ptTargets": ["pátio"],
+      "examples": [
+        { "level": "A1", "fr": "La cour est calme.", "pt": "O pátio é calmo." },
+        { "level": "A2-B1", "fr": "Iris a découvert une cour secrète.", "pt": "Íris descobriu um pátio secreto." },
+        { "level": "B1-B2", "fr": "Les cours, cachées derrière les façades, surprennent les visiteurs.", "pt": "Os pátios, escondidos atrás das fachadas, surpreendem os visitantes." },
+        { "level": "C1-C2", "fr": "C'est dans ces cours que l'on découvre l'élégance des escaliers Renaissance.", "pt": "É nesses pátios que se descobre a elegância das escadarias renascentistas." }
+      ]
+    },
+    {
+      "term": "le métier à tisser",
+      "definitionPt": "o tear",
+      "definitionFr": "Machine pour tisser les tissus.",
+      "inflections": ["le métier à tisser", "les métiers à tisser"],
+      "ptTargets": ["tear"],
+      "examples": [
+        { "level": "A1", "fr": "Le métier à tisser est ancien.", "pt": "O tear é antigo." },
+        { "level": "A2-B1", "fr": "Le guide a dit qu'on y voyait des métiers à tisser.", "pt": "O guia disse que ali se viam teares." },
+        { "level": "B1-B2", "fr": "Les métiers à tisser, qui occupaient toute la pièce, rythmaient la vie des canuts.", "pt": "Os teares, que ocupavam a sala inteira, marcavam o ritmo de vida dos canuts." },
+        { "level": "C1-C2", "fr": "C'est autour du métier à tisser que s'est organisée toute la vie de la Croix-Rousse.", "pt": "É em torno do tear que se organizou toda a vida da Croix-Rousse." }
+      ]
+    },
+    {
+      "term": "l'immeuble",
+      "definitionPt": "o prédio",
+      "definitionFr": "Bâtiment à plusieurs étages.",
+      "inflections": ["l'immeuble", "les immeubles"],
+      "ptTargets": ["prédio"],
+      "examples": [
+        { "level": "A1", "fr": "L'immeuble est haut.", "pt": "O prédio é alto." },
+        { "level": "A2-B1", "fr": "Les traboules traversent les immeubles.", "pt": "As traboules atravessam os prédios." },
+        { "level": "B1-B2", "fr": "Les immeubles, percés de passages secrets, cachent des cours magnifiques.", "pt": "Os prédios, atravessados por passagens secretas, escondem pátios magníficos." },
+        { "level": "C1-C2", "fr": "C'est dans ces immeubles Renaissance que l'architecture lyonnaise a inventé son art du passage.", "pt": "É nesses prédios renascentistas que a arquitetura de Lyon inventou sua arte da passagem." }
+      ]
+    },
+    {
+      "term": "cacher",
+      "definitionPt": "esconder",
+      "definitionFr": "Mettre à l'abri des regards.",
+      "inflections": ["je cache", "nous cachons"],
+      "ptTargets": ["esconder", "escondiam", "escondido"],
+      "examples": [
+        { "level": "A1", "fr": "Je cache le trésor.", "pt": "Eu escondo o tesouro." },
+        { "level": "A2-B1", "fr": "Les résistants cachaient des armes.", "pt": "Os resistentes escondiam armas." },
+        { "level": "B1-B2", "fr": "Les traboules, qui cachaient les hommes et les messages, sauvaient des vies.", "pt": "As traboules, que escondiam homens e mensagens, salvavam vidas." },
+        { "level": "C1-C2", "fr": "Cacher, c'est parfois la seule façon de protéger ce que l'on aime.", "pt": "Esconder às vezes é a única forma de proteger o que se ama." }
+      ]
+    },
+    {
+      "term": "l'arme",
+      "definitionPt": "a arma",
+      "definitionFr": "Instrument utilisé pour attaquer ou se défendre.",
+      "inflections": ["l'arme", "les armes"],
+      "ptTargets": ["arma"],
+      "examples": [
+        { "level": "A1", "fr": "L'arme est dangereuse.", "pt": "A arma é perigosa." },
+        { "level": "A2-B1", "fr": "Les résistants cachaient des armes.", "pt": "Os resistentes escondiam armas." },
+        { "level": "B1-B2", "fr": "Les armes, cachées dans les traboules, étaient prêtes pour la libération.", "pt": "As armas, escondidas nas traboules, estavam prontas para a libertação." },
+        { "level": "C1-C2", "fr": "C'est avec des armes cachées dans l'ombre que la liberté fut reconquise.", "pt": "É com armas escondidas na sombra que a liberdade foi reconquistada." }
+      ]
+    },
+    {
+      "term": "raconter",
+      "definitionPt": "contar, narrar",
+      "definitionFr": "Faire le récit de quelque chose.",
+      "inflections": ["je raconte", "nous racontons"],
+      "ptTargets": ["contar", "narrar", "contarei"],
+      "examples": [
+        { "level": "A1", "fr": "Je raconte une histoire.", "pt": "Eu conto uma história." },
+        { "level": "A2-B1", "fr": "Irlan a raconté ses livraisons à Paris.", "pt": "Irlan contou suas entregas em Paris." },
+        { "level": "B1-B2", "fr": "Le guide racontait des histoires, que les enfants écoutaient bouche bée.", "pt": "O guia contava histórias, que as crianças ouviam de boca aberta." },
+        { "level": "C1-C2", "fr": "Raconter une ville, c'est en révéler les secrets et les silences.", "pt": "Contar uma cidade é revelar seus segredos e seus silêncios." }
+      ]
+    },
+    {
+      "term": "le secret",
+      "definitionPt": "o segredo",
+      "definitionFr": "Ce que l'on ne révèle pas.",
+      "inflections": ["le secret", "les secrets"],
+      "ptTargets": ["segredo"],
+      "examples": [
+        { "level": "A1", "fr": "Le secret est petit.", "pt": "O segredo é pequeno." },
+        { "level": "A2-B1", "fr": "Lyon est une ville pleine de secrets.", "pt": "Lyon é uma cidade cheia de segredos." },
+        { "level": "B1-B2", "fr": "Les secrets de la ville, qui se cachent derrière les portes, fascinent les curieux.", "pt": "Os segredos da cidade, que se escondem atrás das portas, fascinam os curiosos." },
+        { "level": "C1-C2", "fr": "C'est le secret des traboules qui donne à Lyon son mystère et sa profondeur.", "pt": "É o segredo das traboules que dá a Lyon seu mistério e sua profundidade." }
+      ]
+    },
+    {
+      "term": "la porte",
+      "definitionPt": "a porta",
+      "definitionFr": "Ouverture pour entrer et sortir.",
+      "inflections": ["la porte", "les portes"],
+      "ptTargets": ["porta"],
+      "examples": [
+        { "level": "A1", "fr": "La porte est verte.", "pt": "A porta é verde." },
+        { "level": "A2-B1", "fr": "Iris a poussé une porte secrète.", "pt": "Íris empurrou uma porta secreta." },
+        { "level": "B1-B2", "fr": "Les portes, qui semblent banales, cachent des cours magnifiques.", "pt": "As portas, que parecem banais, escondem pátios magníficos." },
+        { "level": "C1-C2", "fr": "C'est derrière les portes les plus simples que se cachent les plus beaux secrets.", "pt": "É atrás das portas mais simples que se escondem os mais belos segredos." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Le discours indirect au passé",
+    "explanationPt": "Ao relatar o que alguém disse no passado, recuamos os tempos: 'Le guide a dit que les traboules servaient...' (o guia disse que as traboules serviam...), 'Il a ajouté qu'on y voyait des métiers à tisser' (ele acrescentou que ali se viam teares). O presente vira imparfait, o futuro vira conditionnel.",
+    "exampleFr": "Le guide a dit que les traboules permettaient de transporter la soie sans passer par la rue.",
+    "examplePt": "O guia disse que as traboules permitiam transportar a seda sem passar pela rua.",
+    "practiceQuestion": "Complete: « Le guide a dit que la visite ___ passionnante. »",
+    "options": ["était", "est", "sera"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "Le présent devient imparfait",
+        "explanationPt": "No discurso indireto no passado: 'Elle a demandé si l'on pouvait visiter la Maison des Canuts' (ela perguntou se se podia visitar). 'Pouvoir' no presente vira 'pouvait' no passado.",
+        "exampleFr": "Andréa a demandé si l'on pouvait visiter la Maison des Canuts.",
+        "examplePt": "Andréa perguntou se se podia visitar a Casa dos Canuts.",
+        "practiceQuestion": "Complete: « Elle a demandé si on ___ visiter la Maison des Canuts. »",
+        "options": ["pouvait", "peut", "pourra"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "Le futur devient conditionnel",
+        "explanationPt": "O futuro no discurso direto vira conditionnel no indireto: 'Il a dit qu'on verrait les métiers à tisser' (ele disse que se veriam os teares).",
+        "exampleFr": "Il a dit qu'on verrait les métiers à tisser d'époque.",
+        "examplePt": "Ele disse que se veriam os teares da época.",
+        "practiceQuestion": "Complete: « Il a dit qu'on ___ les métiers à tisser. »",
+        "options": ["verrait", "verra", "voit"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "O que são as traboules?",
+      "options": ["passagens secretas que atravessam os prédios", "restaurantes típicos", "barcos do Ródano"],
+      "correctIndex": 0,
+      "explanation": "As traboules são passagens cobertas que atravessam os imóveis de Lyon."
+    },
+    {
+      "question": "Para que os canuts usavam as traboules?",
+      "options": ["transportar a seda sem passar pela rua", "vender legumes", "ir ao cinema"],
+      "correctIndex": 0,
+      "explanation": "As traboules permitiam aos canuts transportar a seda ao abrigo da chuva e dos olhares."
+    },
+    {
+      "question": "Quem mais usava as traboules durante a guerra?",
+      "options": ["a Resistência", "os reis da França", "os astronautas"],
+      "correctIndex": 0,
+      "explanation": "Os resistentes usavam as traboules para esconder mensagens e armas."
+    },
+    {
+      "question": "Complete: « Le guide a dit que la visite ___ passionnante. »",
+      "options": ["était", "est", "sera"],
+      "correctIndex": 0,
+      "explanation": "Discurso indireto no passado: o presente vira imparfait (était)."
+    },
+    {
+      "question": "O que se vê na Maison des Canuts?",
+      "options": ["teares da época", "foguetes", "quadros modernos"],
+      "correctIndex": 0,
+      "explanation": "Na Maison des Canuts vêem-se os métiers à tisser de época."
+    }
+  ]
+}

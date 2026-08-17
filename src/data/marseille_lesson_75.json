@@ -1,0 +1,308 @@
+{
+  "id": "marseille_lesson_75",
+  "cityId": "marseille",
+  "domain": "Chegada e recomeço",
+  "level": "Avançado (C1)",
+  "titleFr": "L'arrivée à Strasbourg, la porte de l'Europe",
+  "titlePt": "A chegada a Estrasburgo, a porta da Europa",
+  "subtitleFr": "Un nouveau chapitre commence",
+  "subtitlePt": "Um novo capítulo começa",
+  "summaryPt": "Nesta Aula 75 (C1), a família deixa Marselha de TGV e chega a Estrasburgo. Íris compara o bairro da Krutenau a Veneza, o proprietário oferece uma tarte flambée, e no dia seguinte a família admira a catedral de 142 metros. 'Cada cidade é um novo mundo, e nós aprendemos a viver em cada um', murmura Irlan. O aluno revisa o subjonctif nas subordinadas de tempo (avant que, jusqu'à ce que).",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Après quatre heures de TGV, le train avait franchi le Rhin. Irlan avait regardé défiler les villages alsaciens aux maisons à colombages, les clochers, les vignobles. À l'arrivée en gare de Strasbourg, la famille était descendue sur le quai, un peu fatiguée mais curieuse. La ville se dévoilait déjà, avec ses toits rouges et sa cathédrale visible de loin.",
+      "pt": "Depois de quatro horas de TGV, o trem cruzou o Reno. Irlan viu desfilar as vilas alsacianas com casas de enxaimel, os campanários, os vinhedos. Ao chegar na estação de Estrasburgo, a família desceu na plataforma, um pouco cansada, mas curiosa. A cidade já se revelava, com seus telhados vermelhos e sua catedral visível de longe.",
+      "vocabularies": [
+        { "id": 1, "fr": "franchir", "pt": "cruzar", "exampleFr": "Le train a franchi le Rhin.", "examplePt": "O trem cruzou o Reno." },
+        { "id": 2, "fr": "défiler", "pt": "desfilar", "exampleFr": "Les villages ont défilé devant ses yeux.", "examplePt": "As vilas desfilaram diante de seus olhos." },
+        { "id": 3, "fr": "à colombages", "pt": "de enxaimel", "exampleFr": "Les maisons à colombages sont typiques.", "examplePt": "As casas de enxaimel são típicas." },
+        { "id": 4, "fr": "un vignoble", "pt": "um vinhedo", "exampleFr": "L'Alsace est couverte de vignobles.", "examplePt": "A Alsácia é coberta de vinhedos." },
+        { "id": 5, "fr": "descendre", "pt": "descer", "exampleFr": "Ils sont descendus du train.", "examplePt": "Eles desceram do trem." },
+        { "id": 6, "fr": "un quai", "pt": "uma plataforma", "exampleFr": "Le quai était plein de voyageurs.", "examplePt": "A plataforma estava cheia de viajantes." },
+        { "id": 7, "fr": "fatigué", "pt": "cansado", "exampleFr": "Ils étaient fatigués mais heureux.", "examplePt": "Eles estavam cansados, mas felizes." },
+        { "id": 8, "fr": "curieux", "pt": "curioso", "exampleFr": "Ils étaient curieux de découvrir la ville.", "examplePt": "Eles estavam curiosos para descobrir a cidade." },
+        { "id": 9, "fr": "se dévoiler", "pt": "se revelar", "exampleFr": "La ville se dévoile peu à peu.", "examplePt": "A cidade se revela aos poucos." },
+        { "id": 10, "fr": "un toit", "pt": "um telhado", "exampleFr": "Les toits rouges de Strasbourg sont célèbres.", "examplePt": "Os telhados vermelhos de Estrasburgo são famosos." },
+        { "id": 11, "fr": "visible de loin", "pt": "visível de longe", "exampleFr": "La cathédrale est visible de loin.", "examplePt": "A catedral é visível de longe." },
+        { "id": 12, "fr": "la cathédrale", "pt": "a catedral", "exampleFr": "La cathédrale de Strasbourg est célèbre.", "examplePt": "A catedral de Estrasburgo é famosa." }
+      ]
+    },
+    {
+      "id": 2,
+      "fr": "Le taxi les avait conduits jusqu'à leur nouvel appartement, dans le quartier de la Krutenau. Les rues étaient bordées de canaux, de ponts, de barques. 'On dirait Venise !', s'était exclamée Íris. Le propriétaire, un Alsacien jovial, leur avait offert une bouteille de vin blanc et une tarte flambée. 'Bienvenue en Alsace !', avait-il dit en riant.",
+      "pt": "O táxi os levou até o novo apartamento, no bairro da Krutenau. As ruas eram ladeadas por canais, pontes, barcos. 'Parece Veneza!', exclamou Íris. O proprietário, um alsaciano jovial, lhes ofereceu uma garrafa de vinho branco e uma tarte flambée. 'Bem-vindos à Alsácia!', disse rindo.",
+      "vocabularies": [
+        { "id": 1, "fr": "conduire", "pt": "levar", "exampleFr": "Le taxi les a conduits à l'appartement.", "examplePt": "O táxi os levou ao apartamento." },
+        { "id": 2, "fr": "un canal", "pt": "um canal", "exampleFr": "La Krutenau est bordée de canaux.", "examplePt": "A Krutenau é ladeada por canais." },
+        { "id": 3, "fr": "une barque", "pt": "um barco", "exampleFr": "Les barques sont amarrées aux quais.", "examplePt": "Os barcos estão amarrados nos cais." },
+        { "id": 4, "fr": "un propriétaire", "pt": "um proprietário", "exampleFr": "Le propriétaire est très gentil.", "examplePt": "O proprietário é muito gentil." },
+        { "id": 5, "fr": "alsacien", "pt": "alsaciano", "exampleFr": "L'accent alsacien est chantant.", "examplePt": "O sotaque alsaciano é cantado." },
+        { "id": 6, "fr": "offrir", "pt": "oferecer", "exampleFr": "Ils ont offert une bouteille.", "examplePt": "Eles ofereceram uma garrafa." },
+        { "id": 7, "fr": "une tarte flambée", "pt": "uma tarte flambée", "exampleFr": "La tarte flambée est une spécialité alsacienne.", "examplePt": "A tarte flambée é uma especialidade alsaciana." },
+        { "id": 8, "fr": "bienvenue", "pt": "bem-vindo", "exampleFr": "Bienvenue en Alsace !", "examplePt": "Bem-vindo à Alsácia!" },
+        { "id": 9, "fr": "un pont", "pt": "uma ponte", "exampleFr": "Les ponts enjambent les canaux.", "examplePt": "As pontes cruzam os canais." },
+        { "id": 10, "fr": "s'exclamer", "pt": "exclamar", "exampleFr": "Elle s'est exclamée de surprise.", "examplePt": "Ela exclamou de surpresa." },
+        { "id": 11, "fr": "jovial", "pt": "jovial", "exampleFr": "Le propriétaire est jovial.", "examplePt": "O proprietário é jovial." },
+        { "id": 12, "fr": "un nouveau chapitre", "pt": "um novo capítulo", "exampleFr": "Un nouveau chapitre commence ici.", "examplePt": "Um novo capítulo começa aqui." }
+      ]
+    },
+    {
+      "id": 3,
+      "fr": "Le lendemain matin, Irlan avait marché jusqu'à la cathédrale Notre-Dame. La flèche de 142 mètres s'élevait dans le ciel clair. Il avait fait le tour du bâtiment, admirant la façade rouge et les sculptures. Un guide racontait que la cathédrale avait été la plus haute du monde pendant des siècles. 'Chaque ville de France a son géant', avait pensé Irlan. À Paris, c'était la tour Eiffel. Ici, c'était la flèche.",
+      "pt": "Na manhã seguinte, Irlan caminhou até a catedral Notre-Dame. A flecha de 142 metros se erguia no céu claro. Ele deu a volta no edifício, admirando a fachada vermelha e as esculturas. Um guia contava que a catedral tinha sido a mais alta do mundo durante séculos. 'Cada cidade da França tem seu gigante', pensou Irlan. Em Paris, era a torre Eiffel. Aqui, era a flecha.",
+      "vocabularies": [
+        { "id": 1, "fr": "le lendemain matin", "pt": "na manhã seguinte", "exampleFr": "Le lendemain matin, tout était calme.", "examplePt": "Na manhã seguinte, tudo estava calmo." },
+        { "id": 2, "fr": "une flèche", "pt": "uma flecha (torre)", "exampleFr": "La flèche de la cathédrale est élancée.", "examplePt": "A flecha da catedral é esguia." },
+        { "id": 3, "fr": "s'élever", "pt": "erguer-se", "exampleFr": "La flèche s'élève dans le ciel.", "examplePt": "A flecha se ergue no céu." },
+        { "id": 4, "fr": "la façade", "pt": "a fachada", "exampleFr": "La façade est en grès rouge.", "examplePt": "A fachada é em arenito vermelho." },
+        { "id": 5, "fr": "une sculpture", "pt": "uma escultura", "exampleFr": "Les sculptures ornent le portail.", "examplePt": "As esculturas ornamentam o portal." },
+        { "id": 6, "fr": "le plus haut du monde", "pt": "o mais alto do mundo", "exampleFr": "La cathédrale fut la plus haute du monde.", "examplePt": "A catedral foi a mais alta do mundo." },
+        { "id": 7, "fr": "un géant", "pt": "um gigante", "exampleFr": "Chaque ville a son géant.", "examplePt": "Cada cidade tem seu gigante." },
+        { "id": 8, "fr": "la tour Eiffel", "pt": "a torre Eiffel", "exampleFr": "La tour Eiffel est le géant de Paris.", "examplePt": "A torre Eiffel é o gigante de Paris." },
+        { "id": 9, "fr": "un guide", "pt": "um guia", "exampleFr": "Le guide raconte l'histoire.", "examplePt": "O guia conta a história." },
+        { "id": 10, "fr": "faire le tour", "pt": "dar a volta", "exampleFr": "Il a fait le tour du bâtiment.", "examplePt": "Ele deu a volta no edifício." },
+        { "id": 11, "fr": "admirer", "pt": "admirar", "exampleFr": "Il admire la cathédrale.", "examplePt": "Ele admira a catedral." },
+        { "id": 12, "fr": "pendant des siècles", "pt": "durante séculos", "exampleFr": "Elle resta la plus haute pendant des siècles.", "examplePt": "Ela permaneceu a mais alta durante séculos." }
+      ]
+    },
+    {
+      "id": 4,
+      "fr": "Le soir, la famille s'était promenée sur les quais de l'Ill. Les maisons à colombages se reflétaient dans l'eau calme. Irlan avait pensé à Marseille, au soleil, à la mer, aux amis. Puis il avait regardé sa famille, Andréa et Íris qui riaient devant une boutique de Noël. 'Chaque ville est un nouveau monde, et nous, on apprend à vivre dans chacun', avait-il murmuré. Strasbourg, c'était leur neuvième monde.",
+      "pt": "À noite, a família passeou pelos cais do Ill. As casas de enxaimel se refletiam na água calma. Irlan pensou em Marselha, no sol, no mar, nos amigos. Depois olhou para sua família, Andréa e Íris que riam diante de uma loja de Natal. 'Cada cidade é um novo mundo, e nós aprendemos a viver em cada um', murmurou. Estrasburgo era o nono mundo deles.",
+      "vocabularies": [
+        { "id": 1, "fr": "se promener", "pt": "passear", "exampleFr": "Ils se sont promenés sur les quais.", "examplePt": "Eles passearam pelos cais." },
+        { "id": 2, "fr": "se refléter", "pt": "se refletir", "exampleFr": "Les maisons se reflètent dans l'eau.", "examplePt": "As casas se refletem na água." },
+        { "id": 3, "fr": "une boutique", "pt": "uma loja", "exampleFr": "La boutique de Noël est décorée.", "examplePt": "A loja de Natal está decorada." },
+        { "id": 4, "fr": "de Noël", "pt": "de Natal", "exampleFr": "Strasbourg est la capitale de Noël.", "examplePt": "Estrasburgo é a capital do Natal." },
+        { "id": 5, "fr": "murmurer", "pt": "murmurar", "exampleFr": "Il a murmuré une pensée.", "examplePt": "Ele murmurou um pensamento." },
+        { "id": 6, "fr": "un nouveau monde", "pt": "um novo mundo", "exampleFr": "Chaque ville est un nouveau monde.", "examplePt": "Cada cidade é um novo mundo." },
+        { "id": 7, "fr": "apprendre à vivre", "pt": "aprender a viver", "exampleFr": "On apprend à vivre dans chaque ville.", "examplePt": "Aprendemos a viver em cada cidade." },
+        { "id": 8, "fr": "les quais", "pt": "os cais", "exampleFr": "Les quais de l'Ill sont charmants.", "examplePt": "Os cais do Ill são charmosos." },
+        { "id": 9, "fr": "rire", "pt": "rir", "exampleFr": "Andréa et Íris riaient.", "examplePt": "Andréa e Íris riam." },
+        { "id": 10, "fr": "devant", "pt": "diante de", "exampleFr": "Elles riaient devant la boutique.", "examplePt": "Elas riam diante da loja." },
+        { "id": 11, "fr": "le neuvième", "pt": "o nono", "exampleFr": "C'est leur neuvième monde.", "examplePt": "É o nono mundo deles." },
+        { "id": 12, "fr": "le calme", "pt": "a calma", "exampleFr": "L'eau calme reflète les maisons.", "examplePt": "A água calma reflete as casas." }
+      ]
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "franchir",
+      "definitionPt": "cruzar, atravessar",
+      "definitionFr": "Traverser, passer au-delà d'un obstacle.",
+      "inflections": ["je franchis", "nous franchissons", "il a franchi"],
+      "ptTargets": ["cruzar", "atravessar", "ultrapassar"],
+      "examples": [
+        { "level": "A1", "fr": "Nous franchissons le pont.", "pt": "Nós atravessamos a ponte." },
+        { "level": "A2-B1", "fr": "Le train a franchi le Rhin.", "pt": "O trem cruzou o Reno." },
+        { "level": "B1-B2", "fr": "Après quatre heures de TGV, le train avait franchi le Rhin et entrait en Alsace.", "pt": "Depois de quatro horas de TGV, o trem cruzara o Reno e entrava na Alsácia." },
+        { "level": "C1-C2", "fr": "Franchir le Rhin, c'est passer symboliquement d'un monde à un autre, de la Méditerranée au cœur de l'Europe.", "pt": "Cruzar o Reno é passar simbolicamente de um mundo a outro, do Mediterrâneo ao coração da Europa." }
+      ]
+    },
+    {
+      "term": "à colombages",
+      "definitionPt": "de enxaimel",
+      "definitionFr": "Se dit d'une maison dont la charpente de bois est apparente.",
+      "inflections": ["à colombages"],
+      "ptTargets": ["enxaimel", "de enxaimel"],
+      "examples": [
+        { "level": "A1", "fr": "La maison est à colombages.", "pt": "A casa é de enxaimel." },
+        { "level": "A2-B1", "fr": "Les maisons à colombages sont typiques.", "pt": "As casas de enxaimel são típicas." },
+        { "level": "B1-B2", "fr": "Les villages alsaciens aux maisons à colombages défilaient devant les fenêtres du TGV.", "pt": "As vilas alsacianas com casas de enxaimel desfilavam diante das janelas do TGV." },
+        { "level": "C1-C2", "fr": "Les maisons à colombages, aux poutres apparentes et aux toits pentus, incarnent l'identité architecturale de l'Alsace.", "pt": "As casas de enxaimel, com vigas aparentes e telhados inclinados, encarnam a identidade arquitetônica da Alsácia." }
+      ]
+    },
+    {
+      "term": "un vignoble",
+      "definitionPt": "um vinhedo",
+      "definitionFr": "Terrain planté de vignes.",
+      "inflections": ["un vignoble", "des vignobles"],
+      "ptTargets": ["vinhedo", "vinhedos", "vinha"],
+      "examples": [
+        { "level": "A1", "fr": "Le vignoble est vert.", "pt": "O vinhedo é verde." },
+        { "level": "A2-B1", "fr": "L'Alsace est couverte de vignobles.", "pt": "A Alsácia é coberta de vinhedos." },
+        { "level": "B1-B2", "fr": "Les vignobles alsaciens s'étendaient à perte de vue le long de la route du vin.", "pt": "Os vinhedos alsacianos se estendiam até perder de vista ao longo da rota do vinho." },
+        { "level": "C1-C2", "fr": "Le vignoble alsacien, tissé de cépages nobles, raconte la rencontre séculaire du terroir et du savoir-faire.", "pt": "O vinhedo alsaciano, tecido de cepas nobres, conta o encontro secular do terroir com o saber-fazer." }
+      ]
+    },
+    {
+      "term": "un quai",
+      "definitionPt": "uma plataforma, um cais",
+      "definitionFr": "Plateforme d'une gare ou bord aménagé d'un fleuve.",
+      "inflections": ["un quai", "des quais"],
+      "ptTargets": ["plataforma", "cais", "quais"],
+      "examples": [
+        { "level": "A1", "fr": "Le quai est vide.", "pt": "A plataforma está vazia." },
+        { "level": "A2-B1", "fr": "Le quai était plein de voyageurs.", "pt": "A plataforma estava cheia de viajantes." },
+        { "level": "B1-B2", "fr": "À l'arrivée en gare, la famille était descendue sur le quai, fatiguée mais curieuse.", "pt": "Ao chegar na estação, a família desceu na plataforma, cansada, mas curiosa." },
+        { "level": "C1-C2", "fr": "Le quai d'une gare est ce lieu étrange où se croisent les départs et les retrouvailles.", "pt": "A plataforma de uma estação é esse lugar estranho onde se cruzam partidas e reencontros." }
+      ]
+    },
+    {
+      "term": "curieux",
+      "definitionPt": "curioso",
+      "definitionFr": "Qui a envie de découvrir, d'apprendre.",
+      "inflections": ["curieux", "curieuse", "curieuses"],
+      "ptTargets": ["curioso", "curiosa"],
+      "examples": [
+        { "level": "A1", "fr": "Je suis curieux.", "pt": "Eu sou curioso." },
+        { "level": "A2-B1", "fr": "Ils étaient curieux de découvrir la ville.", "pt": "Eles estavam curiosos para descobrir a cidade." },
+        { "level": "B1-B2", "fr": "Fatigués mais curieux, ils descendaient sur le quai d'une ville inconnue.", "pt": "Cansados, mas curiosos, desciam na plataforma de uma cidade desconhecida." },
+        { "level": "C1-C2", "fr": "La curiosité, cette disposition à s'émerveiller, est la plus belle qualité du voyageur.", "pt": "A curiosidade, essa disposição para se maravilhar, é a mais bela qualidade do viajante." }
+      ]
+    },
+    {
+      "term": "se dévoiler",
+      "definitionPt": "revelar-se",
+      "definitionFr": "Se montrer peu à peu, devenir visible.",
+      "inflections": ["je me dévoile", "il se dévoile", "elle s'est dévoilée"],
+      "ptTargets": ["revelar-se", "se revelar"],
+      "examples": [
+        { "level": "A1", "fr": "La ville se dévoile.", "pt": "A cidade se revela." },
+        { "level": "A2-B1", "fr": "La ville se dévoile peu à peu.", "pt": "A cidade se revela aos poucos." },
+        { "level": "B1-B2", "fr": "La ville se dévoilait déjà, avec ses toits rouges et sa cathédrale visible de loin.", "pt": "A cidade já se revelava, com seus telhados vermelhos e sua catedral visível de longe." },
+        { "level": "C1-C2", "fr": "Une ville ne se dévoile jamais entièrement : il faut du temps pour en saisir les strates et les silences.", "pt": "Uma cidade nunca se revela por inteiro: é preciso tempo para captar suas camadas e seus silêncios." }
+      ]
+    },
+    {
+      "term": "un canal",
+      "definitionPt": "um canal",
+      "definitionFr": "Voie d'eau aménagée, parfois en ville.",
+      "inflections": ["un canal", "des canaux"],
+      "ptTargets": ["canal", "canais"],
+      "examples": [
+        { "level": "A1", "fr": "Le canal est calme.", "pt": "O canal é calmo." },
+        { "level": "A2-B1", "fr": "La Krutenau est bordée de canaux.", "pt": "A Krutenau é ladeada por canais." },
+        { "level": "B1-B2", "fr": "Les rues de la Krutenau étaient bordées de canaux, de ponts et de barques.", "pt": "As ruas da Krutenau eram ladeadas por canais, pontes e barcos." },
+        { "level": "C1-C2", "fr": "Les canaux de la Krutenau, paisibles reflets des maisons, font de Strasbourg une Venise du Nord.", "pt": "Os canais da Krutenau, reflexos pacíficos das casas, fazem de Estrasburgo uma Veneza do Norte." }
+      ]
+    },
+    {
+      "term": "une barque",
+      "definitionPt": "um barco (pequeno)",
+      "definitionFr": "Petite embarcation.",
+      "inflections": ["une barque", "des barques"],
+      "ptTargets": ["barco", "barcos", "barquinho"],
+      "examples": [
+        { "level": "A1", "fr": "La barque est rouge.", "pt": "O barco é vermelho." },
+        { "level": "A2-B1", "fr": "Les barques sont amarrées aux quais.", "pt": "Os barcos estão amarrados nos cais." },
+        { "level": "B1-B2", "fr": "Les barques, amarrées le long des canaux, semblaient dormir sur l'eau.", "pt": "Os barcos, amarrados ao longo dos canais, pareciam dormir sobre a água." },
+        { "level": "C1-C2", "fr": "Une barque immobile sur un canal est une invitation au voyage immobile, à la rêverie flâneuse.", "pt": "Um barco imóvel sobre um canal é um convite à viagem imóvel, à divagação do flâneur." }
+      ]
+    },
+    {
+      "term": "une tarte flambée",
+      "definitionPt": "a tarte flambée (especialidade alsaciana)",
+      "definitionFr": "Spécialité alsacienne : pâte fine garnie de crème, oignons et lardons.",
+      "inflections": ["une tarte flambée", "des tartes flambées"],
+      "ptTargets": ["tarte flambée", "tarte flambée alsaciana"],
+      "examples": [
+        { "level": "A1", "fr": "La tarte flambée est bonne.", "pt": "A tarte flambée é boa." },
+        { "level": "A2-B1", "fr": "La tarte flambée est une spécialité alsacienne.", "pt": "A tarte flambée é uma especialidade alsaciana." },
+        { "level": "B1-B2", "fr": "Le propriétaire leur avait offert une bouteille de vin blanc et une tarte flambée.", "pt": "O proprietário lhes ofereceu uma garrafa de vinho branco e uma tarte flambée." },
+        { "level": "C1-C2", "fr": "La tarte flambée, cuite au feu de bois, est bien plus qu'un plat : c'est un rituel de convivialité alsacienne.", "pt": "A tarte flambée, assada no fogo de lenha, é muito mais que um prato: é um ritual de convivência alsaciana." }
+      ]
+    },
+    {
+      "term": "une flèche",
+      "definitionPt": "uma flecha (torre de catedral)",
+      "definitionFr": "Partie pointue et élancée qui surmonte un clocher.",
+      "inflections": ["une flèche", "des flèches"],
+      "ptTargets": ["flecha", "torre", "agulha"],
+      "examples": [
+        { "level": "A1", "fr": "La flèche est haute.", "pt": "A flecha é alta." },
+        { "level": "A2-B1", "fr": "La flèche de la cathédrale est élancée.", "pt": "A flecha da catedral é esguia." },
+        { "level": "B1-B2", "fr": "La flèche de 142 mètres s'élevait dans le ciel clair de Strasbourg.", "pt": "A flecha de 142 metros se erguia no céu claro de Estrasburgo." },
+        { "level": "C1-C2", "fr": "La flèche de la cathédrale, chef-d'œuvre de verticalité gothique, domine la ville depuis des siècles.", "pt": "A flecha da catedral, obra-prima de verticalidade gótica, domina a cidade há séculos." }
+      ]
+    },
+    {
+      "term": "s'élever",
+      "definitionPt": "erguer-se, elevar-se",
+      "definitionFr": "Se dresser vers le haut.",
+      "inflections": ["je m'élève", "il s'élève", "elle s'est élevée"],
+      "ptTargets": ["erguer-se", "elevar-se", "levantar-se"],
+      "examples": [
+        { "level": "A1", "fr": "La tour s'élève.", "pt": "A torre se ergue." },
+        { "level": "A2-B1", "fr": "La flèche s'élève dans le ciel.", "pt": "A flecha se ergue no céu." },
+        { "level": "B1-B2", "fr": "La flèche s'élevait au-dessus des toits, visible de toute la ville.", "pt": "A flecha se erguia acima dos telhados, visível de toda a cidade." },
+        { "level": "C1-C2", "fr": "S'élever vers le ciel, c'est le geste même de la foi gothique, une prière de pierre lancée à l'infini.", "pt": "Erguer-se em direção ao céu é o próprio gesto da fé gótica, uma oração de pedra lançada ao infinito." }
+      ]
+    },
+    {
+      "term": "un nouveau monde",
+      "definitionPt": "um novo mundo",
+      "definitionFr": "Un univers inconnu qui s'offre à la découverte.",
+      "inflections": ["un nouveau monde", "des nouveaux mondes"],
+      "ptTargets": ["novo mundo", "novos mundos"],
+      "examples": [
+        { "level": "A1", "fr": "C'est un nouveau monde.", "pt": "É um novo mundo." },
+        { "level": "A2-B1", "fr": "Chaque ville est un nouveau monde.", "pt": "Cada cidade é um novo mundo." },
+        { "level": "B1-B2", "fr": "'Chaque ville est un nouveau monde, et nous, on apprend à vivre dans chacun', avait murmuré Irlan.", "pt": "'Cada cidade é um novo mundo, e nós aprendemos a viver em cada um', murmurou Irlan." },
+        { "level": "C1-C2", "fr": "Chaque nouveau monde exige qu'on abandonne ses repères pour apprendre, encore une fois, à habiter le monde.", "pt": "Cada novo mundo exige que abandonemos nossos pontos de referência para aprender, mais uma vez, a habitar o mundo." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Le subjonctif dans les subordonnées de temps",
+    "explanationPt": "Com 'avant que' (antes que), 'jusqu'à ce que' (até que) e 'en attendant que' (enquanto espera que), usa-se o subjonctif para expressar anterioridade ou espera: 'avant qu'il parte', 'jusqu'à ce que tu reviennes'.",
+    "exampleFr": "Avant qu'Irlan commence sa mission, il explore la ville à pied.",
+    "examplePt": "Antes que Irlan comece sua missão, ele explora a cidade a pé.",
+    "practiceQuestion": "Complete: « Reste ici jusqu'à ce que je ___. »",
+    "options": ["revienne", "reviens", "reviendrai"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "'Avant que' + subjonctif",
+        "explanationPt": "Após 'avant que', o subjonctif expressa anterioridade: 'avant qu'il arrive, on prépare tout'.",
+        "exampleFr": "Avant qu'ils visitent la cathédrale, ils prennent un café sur la place.",
+        "examplePt": "Antes que visitem a catedral, tomam um café na praça.",
+        "practiceQuestion": "Complete: « Avant que la nuit ___, rentrons. »",
+        "options": ["tombe", "tombera", "tombait"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "'Jusqu'à ce que' + subjonctif",
+        "explanationPt": "Após 'jusqu'à ce que', o subjonctif expressa o limite de uma espera: 'on reste jusqu'à ce qu'il revienne'.",
+        "exampleFr": "Ils restent sur le quai jusqu'à ce que le train s'éloigne.",
+        "examplePt": "Eles ficam na plataforma até que o trem se afaste.",
+        "practiceQuestion": "Complete: « Attendons jusqu'à ce qu'elle ___. »",
+        "options": ["arrive", "arrivera", "arrivait"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Quelle est la spécialité offerte par le propriétaire ?",
+      "options": ["Une tarte flambée", "Une bouillabaisse", "Un cassoulet"],
+      "correctIndex": 0,
+      "explanation": "Le propriétaire a offert une tarte flambée, spécialité alsacienne."
+    },
+    {
+      "question": "Quelle est la hauteur de la flèche de la cathédrale de Strasbourg ?",
+      "options": ["142 mètres", "108 mètres", "200 mètres"],
+      "correctIndex": 0,
+      "explanation": "La flèche de la cathédrale de Strasbourg mesure 142 mètres, elle fut la plus haute du monde."
+    },
+    {
+      "question": "À quoi Íris compare-t-elle le quartier de la Krutenau ?",
+      "options": ["À Venise", "À Marseille", "À Paris"],
+      "correctIndex": 0,
+      "explanation": "En voyant les canaux, les ponts et les barques, Íris s'exclame : 'On dirait Venise !'"
+    },
+    {
+      "question": "Complete: « Reste ici jusqu'à ce que je ___. »",
+      "options": ["revienne", "reviens", "reviendrai"],
+      "correctIndex": 0,
+      "explanation": "Après 'jusqu'à ce que', on utilise le subjonctif : 'revienne'."
+    },
+    {
+      "question": "Quel est le neuvième monde de la famille ?",
+      "options": ["Strasbourg", "Nice", "Bordeaux"],
+      "correctIndex": 0,
+      "explanation": "La famille a déjà vécu dans huit villes ; Strasbourg est leur neuvième monde."
+    }
+  ]
+}

@@ -1,0 +1,252 @@
+{
+  "id": "lille_lesson_1",
+  "cityId": "lille",
+  "domain": "Cotidiano",
+  "level": "Básico (A2)",
+  "titleFr": "Bienvenue à Lille : la Grand-Place et la Vieille Bourse",
+  "titlePt": "Bem-vindo a Lille: a Grand-Place e a Vieille Bourse",
+  "subtitleFr": "La famille arrive du Nord, découvre les façades flamandes et raconte sa première journée",
+  "subtitlePt": "A família chega do Norte, descobre as fachadas flamengas e conta o seu primeiro dia",
+  "summaryPt": "Nesta Aula 1 (Nível A2) da Cidade #3, Irlan, Andréa e Íris chegam de trem de Amiens à estação Lille Flandres. Caminham até a Grand-Place, admiram a Vieille Bourse de arquitetura flamenga e compram gaufres. O aluno aprende o Passé Composé com avoir (j'ai vu, nous avons marché) e o advérbio de tempo 'hier'.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Hier, nous avons pris le train à Amiens. Ce matin, nous sommes arrivés à la gare Lille Flandres. Irlan dit : « Quelle belle gare ! »",
+      "pt": "Ontem, nós pegamos o trem em Amiens. Esta manhã, chegamos na estação Lille Flandres. Irlan diz: « Que estação bonita! »"
+    },
+    {
+      "id": 2,
+      "fr": "Nous avons marché jusqu'à la Grand-Place. J'ai vu les façades flamandes colorées et la Vieille Bourse, un très beau bâtiment du XVIIe siècle.",
+      "pt": "Nós caminhamos até a Grand-Place. Eu vi as fachadas flamengas coloridas e a Vieille Bourse, um edifício muito bonito do século XVII."
+    },
+    {
+      "id": 3,
+      "fr": "Dans le centre, Andréa a acheté des gaufres chaudes. Íris a ri : « Papa, regarde les pigeons ! » Nous avons visité la place en famille.",
+      "pt": "No centro, Andréa comprou waffles quentes. Íris riu: « Papai, olha os pombos! » Nós visitamos a praça em família."
+    },
+    {
+      "id": 4,
+      "fr": "Avant de partir, Irlan a regardé la carte de la ville. « Demain, nous allons explorer le Vieux-Lille », a-t-il dit. La journée a été parfaite.",
+      "pt": "Antes de partir, Irlan olhou o mapa da cidade. « Amanhã, vamos explorar o Vieux-Lille », disse ele. O dia foi perfeito."
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "la gare",
+      "definitionPt": "a estação (de trem)",
+      "definitionFr": "Lieu où les trains arrivent et partent.",
+      "inflections": ["la gare", "les gares"],
+      "ptTargets": ["estação"],
+      "examples": [
+        { "level": "A1", "fr": "La gare est grande.", "pt": "A estação é grande." },
+        { "level": "A2-B1", "fr": "Nous sommes arrivés à la gare Lille Flandres.", "pt": "Nós chegamos na estação Lille Flandres." },
+        { "level": "B2", "fr": "La gare Lille Europe accueille aussi les trains à grande vitesse.", "pt": "A estação Lille Europe também recebe os trens de alta velocidade." },
+        { "level": "C1-C2", "fr": "La rénovation de la gare a transformé tout le quartier du centre-ville.", "pt": "A reforma da estação transformou todo o bairro do centro." }
+      ]
+    },
+    {
+      "term": "le train",
+      "definitionPt": "o trem",
+      "definitionFr": "Véhicule qui voyage sur des rails.",
+      "inflections": ["le train", "les trains"],
+      "ptTargets": ["trem"],
+      "examples": [
+        { "level": "A1", "fr": "Le train part à huit heures.", "pt": "O trem parte às oito horas." },
+        { "level": "A2-B1", "fr": "Hier, nous avons pris le train à Amiens.", "pt": "Ontem, nós pegamos o trem em Amiens." },
+        { "level": "B2", "fr": "Le train régional relie Lille à la Belgique en moins d'une heure.", "pt": "O trem regional liga Lille à Bélgica em menos de uma hora." },
+        { "level": "C1-C2", "fr": "Le réseau ferroviaire du nord de la France illustre l'intégration européenne des transports.", "pt": "A rede ferroviária do norte da França ilustra a integração europeia dos transportes." }
+      ]
+    },
+    {
+      "term": "la place",
+      "definitionPt": "a praça",
+      "definitionFr": "Espace public au centre d'une ville.",
+      "inflections": ["la place", "les places"],
+      "ptTargets": ["praça"],
+      "examples": [
+        { "level": "A1", "fr": "La place est très belle.", "pt": "A praça é muito bonita." },
+        { "level": "A2-B1", "fr": "La Grand-Place de Lille est le cœur de la ville.", "pt": "A Grand-Place de Lille é o coração da cidade." },
+        { "level": "B2", "fr": "Les terrasses de la place sont pleines le dimanche matin.", "pt": "Os terraços da praça ficam cheios no domingo de manhã." },
+        { "level": "C1-C2", "fr": "La Grand-Place incarne l'identité flamande et commerçante de la métropole lilloise.", "pt": "A Grand-Place encarna a identidade flamenga e comerciante da metrópole lillesa." }
+      ]
+    },
+    {
+      "term": "la ville",
+      "definitionPt": "a cidade",
+      "definitionFr": "Grande centre habité avec des rues et des bâtiments.",
+      "inflections": ["la ville", "les villes"],
+      "ptTargets": ["cidade"],
+      "examples": [
+        { "level": "A1", "fr": "Lille est une grande ville.", "pt": "Lille é uma grande cidade." },
+        { "level": "A2-B1", "fr": "La ville de Lille est la capitale des Flandres.", "pt": "A cidade de Lille é a capital da Flandres." },
+        { "level": "B2", "fr": "La ville a grandi autour de son centre historique et commercial.", "pt": "A cidade cresceu em torno do seu centro histórico e comercial." },
+        { "level": "C1-C2", "fr": "Le dynamisme culturel de la ville attire chaque année des milliers de visiteurs européens.", "pt": "O dinamismo cultural da cidade atrai todos os anos milhares de visitantes europeus." }
+      ]
+    },
+    {
+      "term": "la famille",
+      "definitionPt": "a família",
+      "definitionFr": "Les personnes qui vivent ensemble ou sont liées.",
+      "inflections": ["la famille", "les familles"],
+      "ptTargets": ["família"],
+      "examples": [
+        { "level": "A1", "fr": "Ma famille est petite.", "pt": "Minha família é pequena." },
+        { "level": "A2-B1", "fr": "La famille d'Irlan visite la France ensemble.", "pt": "A família do Irlan visita a França junta." },
+        { "level": "B2", "fr": "En famille, ils préfèrent voyager en train.", "pt": "Em família, eles preferem viajar de trem." },
+        { "level": "C1-C2", "fr": "Les moments passés en famille deviennent les souvenirs les plus précieux d'un voyage.", "pt": "Os momentos em família tornam-se as lembranças mais preciosas de uma viagem." }
+      ]
+    },
+    {
+      "term": "arriver",
+      "definitionPt": "chegar",
+      "definitionFr": "Venir à un endroit, atteindre une destination.",
+      "inflections": ["j'arrive", "nous arrivons", "arrivé"],
+      "ptTargets": ["chegar"],
+      "examples": [
+        { "level": "A1", "fr": "Je arrive à la gare.", "pt": "Eu chego na estação." },
+        { "level": "A2-B1", "fr": "Nous sommes arrivés à Lille ce matin.", "pt": "Nós chegamos em Lille esta manhã." },
+        { "level": "B2", "fr": "Le train est arrivé avec seulement cinq minutes de retard.", "pt": "O trem chegou com apenas cinco minutos de atraso." },
+        { "level": "C1-C2", "fr": "Arriver dans une nouvelle ville est toujours une promesse de découvertes.", "pt": "Chegar em uma nova cidade é sempre uma promessa de descobertas." }
+      ]
+    },
+    {
+      "term": "prendre",
+      "definitionPt": "pegar (transporte), tomar",
+      "definitionFr": "Utiliser un moyen de transport.",
+      "inflections": ["je prends", "nous prenons", "pris"],
+      "ptTargets": ["pegar"],
+      "examples": [
+        { "level": "A1", "fr": "Je prends le bus.", "pt": "Eu pego o ônibus." },
+        { "level": "A2-B1", "fr": "Hier, nous avons pris le train pour Lille.", "pt": "Ontem, pegamos o trem para Lille." },
+        { "level": "B2", "fr": "Beaucoup de voyageurs prennent le métro automatique pour traverser la ville.", "pt": "Muitos viajantes pegam o metrô automático para atravessar a cidade." },
+        { "level": "C1-C2", "fr": "Prendre les transports en commun permet de découvrir la vie quotidienne d'une métropole.", "pt": "Pegar o transporte público permite descobrir a vida cotidiana de uma metrópole." }
+      ]
+    },
+    {
+      "term": "voir",
+      "definitionPt": "ver",
+      "definitionFr": "Percevoir avec les yeux.",
+      "inflections": ["je vois", "nous voyons", "vu"],
+      "ptTargets": ["ver"],
+      "examples": [
+        { "level": "A1", "fr": "Je vois la place.", "pt": "Eu vejo a praça." },
+        { "level": "A2-B1", "fr": "J'ai vu la Vieille Bourse, c'était magnifique.", "pt": "Eu vi a Vieille Bourse, era magnífica." },
+        { "level": "B2", "fr": "Nous avons vu les façades colorées du centre historique.", "pt": "Nós vimos as fachadas coloridas do centro histórico." },
+        { "level": "C1-C2", "fr": "Voir la Grand-Place au coucher du soleil révèle toute la beauté de l'architecture flamande.", "pt": "Ver a Grand-Place ao pôr do sol revela toda a beleza da arquitetura flamenga." }
+      ]
+    },
+    {
+      "term": "acheter",
+      "definitionPt": "comprar",
+      "definitionFr": "Obtenir quelque chose en payant.",
+      "inflections": ["j'achète", "nous achetons", "acheté"],
+      "ptTargets": ["comprar"],
+      "examples": [
+        { "level": "A1", "fr": "J'achète un pain.", "pt": "Eu compro um pão." },
+        { "level": "A2-B1", "fr": "Andréa a acheté des gaufres chaudes.", "pt": "Andréa comprou waffles quentes." },
+        { "level": "B2", "fr": "Nous avons acheté des souvenirs dans le centre-ville.", "pt": "Nós compramos lembranças no centro." },
+        { "level": "C1-C2", "fr": "Acheter sur les marchés du Nord est une expérience conviviale et authentique.", "pt": "Comprar nos mercados do Norte é uma experiência acolhedora e autêntica." }
+      ]
+    },
+    {
+      "term": "la façade",
+      "definitionPt": "a fachada",
+      "definitionFr": "La face extérieure d'un bâtiment.",
+      "inflections": ["la façade", "les façades"],
+      "ptTargets": ["fachada"],
+      "examples": [
+        { "level": "A1", "fr": "La façade est rouge.", "pt": "A fachada é vermelha." },
+        { "level": "A2-B1", "fr": "Les façades de la Grand-Place sont colorées.", "pt": "As fachadas da Grand-Place são coloridas." },
+        { "level": "B2", "fr": "La façade de la Vieille Bourse est ornée de sculptures délicates.", "pt": "A fachada da Vieille Bourse é ornamentada com esculturas delicadas." },
+        { "level": "C1-C2", "fr": "Les façades flamandes témoignent de la richesse marchande de Lille au Grand Siècle.", "pt": "As fachadas flamengas testemunham a riqueza comercial de Lille no Grande Século." }
+      ]
+    },
+    {
+      "term": "le centre",
+      "definitionPt": "o centro",
+      "definitionFr": "La partie principale d'une ville.",
+      "inflections": ["le centre", "les centres"],
+      "ptTargets": ["centro"],
+      "examples": [
+        { "level": "A1", "fr": "Le centre est près d'ici.", "pt": "O centro é perto daqui." },
+        { "level": "A2-B1", "fr": "Le centre de Lille est piéton et très animé.", "pt": "O centro de Lille é de pedestres e muito animado." },
+        { "level": "B2", "fr": "Le centre historique concentre les boutiques et les restaurants traditionnels.", "pt": "O centro histórico concentra as lojas e os restaurantes tradicionais." },
+        { "level": "C1-C2", "fr": "La piétonnisation du centre a profondément transformé les habitudes des Lillois.", "pt": "A pedestrização do centro transformou profundamente os hábitos dos habitantes de Lille." }
+      ]
+    },
+    {
+      "term": "la bourse",
+      "definitionPt": "a bolsa (edifício de comércio)",
+      "definitionFr": "Bâtiment historique où l'on faisait du commerce.",
+      "inflections": ["la bourse", "les bourses"],
+      "ptTargets": ["bolsa"],
+      "examples": [
+        { "level": "A1", "fr": "La bourse est un vieux bâtiment.", "pt": "A bolsa é um edifício antigo." },
+        { "level": "A2-B1", "fr": "La Vieille Bourse se trouve sur la Grand-Place.", "pt": "A Vieille Bourse fica na Grand-Place." },
+        { "level": "B2", "fr": "Sous les arcades de la Vieille Bourse, des bouquinistes vendent de vieux livres.", "pt": "Sob as arcadas da Vieille Bourse, sebos vendem livros antigos." },
+        { "level": "C1-C2", "fr": "La Vieille Bourse illustre le passé commerçant et prospère de la capitale des Flandres.", "pt": "A Vieille Bourse ilustra o passado comercial e próspero da capital da Flandres." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Le Passé Composé avec AVOIR (j'ai vu, nous avons marché)",
+    "explanationPt": "Para contar o que aconteceu, usamos o Passé Composé: sujeito + avoir no presente + particípio passado. Ex.: 'J'ai vu' (eu vi), 'nous avons marché' (nós caminhamos).",
+    "exampleFr": "Hier, nous avons pris le train à Amiens.",
+    "examplePt": "Ontem, nós pegamos o trem em Amiens.",
+    "practiceQuestion": "Complete: « Hier, j'___ la Grand-Place. »",
+    "options": ["ai vu", "suis vu", "vois"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "Le Passé Composé avec AVOIR",
+        "explanationPt": "Formação: avoir no presente (j'ai, tu as, il a, nous avons, vous avez, ils ont) + particípio passado. 'Voir' → 'vu'; 'prendre' → 'pris'; 'acheter' → 'acheté'.",
+        "exampleFr": "J'ai vu la Vieille Bourse.",
+        "examplePt": "Eu vi a Vieille Bourse.",
+        "practiceQuestion": "Qual é o particípio passado de 'voir'?",
+        "options": ["vu", "voit", "vois"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "L'adverbe de temps 'hier'",
+        "explanationPt": "'Hier' (ontem) anuncia o passado. Com ele, usamos o Passé Composé: 'Hier, nous avons mangé'.",
+        "exampleFr": "Hier, nous avons pris le train.",
+        "examplePt": "Ontem, nós pegamos o trem.",
+        "practiceQuestion": "Qual frase está correta?",
+        "options": ["Hier, j'ai acheté des gaufres.", "Hier, j'achète des gaufres.", "Hier, j'achèterai des gaufres."],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Em que estação a família chegou em Lille?",
+      "options": ["Lille Flandres", "Lille Europe", "Gare du Nord"],
+      "correctIndex": 0,
+      "explanation": "A família chegou à gare Lille Flandres, vinda de Amiens."
+    },
+    {
+      "question": "Qual edifício histórico fica na Grand-Place de Lille?",
+      "options": ["La Vieille Bourse", "Le Louvre", "La Tour Eiffel"],
+      "correctIndex": 0,
+      "explanation": "A Vieille Bourse, do século XVII, fica na Grand-Place."
+    },
+    {
+      "question": "Complete com o Passé Composé: « Nous ___ jusqu'à la place. »",
+      "options": ["avons marché", "sommes marchés", "marchons"],
+      "correctIndex": 0,
+      "explanation": "'Marcher' usa avoir: nous avons marché."
+    },
+    {
+      "question": "O que Andréa comprou no centro?",
+      "options": ["des gaufres chaudes", "des macarons", "du fromage"],
+      "correctIndex": 0,
+      "explanation": "Andréa comprou gaufres (waffles) quentes."
+    },
+    {
+      "question": "O que Irlan disse que vão fazer amanhã?",
+      "options": ["explorer le Vieux-Lille", "retourner à Paris", "prendre l'avion"],
+      "correctIndex": 0,
+      "explanation": "Irlan anunciou: 'Demain, nous allons explorer le Vieux-Lille'."
+    }
+  ]
+}

@@ -1,0 +1,278 @@
+{
+  "id": "strasbourg_lesson_20",
+  "cityId": "strasbourg",
+  "domain": "Cotidiano",
+  "level": "Avançado (C1+)",
+  "titleFr": "La dernière nuit à Strasbourg : les lumières de l'Ill",
+  "titlePt": "A última noite em Strasbourg: as luzes do Ill",
+  "subtitleFr": "Une promenade nocturne, des promesses et la ville qui veille",
+  "subtitlePt": "Um passeio noturno, promessas e a cidade que vigia",
+  "summaryPt": "Nesta Aula 20 (C1+), a família faz sua última caminhada noturna às margens do Ill. O aluno aprofunda o discurso indireto no passado ('il dit qu'il reviendrait', 'elle demanda si...') e a expressão da promessa e da dúvida em narrativa.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "La nuit tombait sur l'Ill. « Demain, dit Irlan, nous prendrons le TGV pour Nice. » Andréa le regarda et demanda s'il était triste de quitter Strasbourg. Irlan sourit : « Je répondrais que non, si je ne mentais pas. »",
+      "pt": "A noite caía sobre o Ill. « Amanhã, disse Irlan, pegaremos o TGV para Nice. » Andréa olhou para ele e perguntou se ele estava triste por deixar Strasbourg. Irlan sorriu: « Eu responderia que não, se eu não estivesse mentindo. »"
+    },
+    {
+      "id": 2,
+      "fr": "Iris courut vers la passerelle. « Regarde, s'écria-t-elle, les reflets dans l'eau ! » Elle demanda si la rivière brillait toujours comme ça le soir. Irlan répondit qu'elle brillait ainsi depuis toujours, et que les lumières de la ville dansaient dans son courant depuis des siècles.",
+      "pt": "Íris correu para a passarela. « Olha, exclamou ela, os reflexos na água! » Ela perguntou se o rio brilhava sempre assim à noite. Irlan respondeu que ele brilhava assim desde sempre, e que as luzes da cidade dançavam em sua correnteza há séculos. »"
+    },
+    {
+      "id": 3,
+      "fr": "Sur le pont, la famille s'arrêta. « Promets-moi, dit Iris, que nous reviendrons un jour. » Irlan promit qu'ils reviendraient, et qu'à ce moment-là, elle parlerait français couramment. Andréa ajouta qu'elle préparerait une choucroute pour fêter ça. »",
+      "pt": "Na ponte, a família parou. « Promete, disse Íris, que um dia voltaremos. » Irlan prometeu que eles voltariam e que, nesse momento, ela falaria francês fluentemente. Andréa acrescentou que prepararia uma chucrute para comemorar. »"
+    },
+    {
+      "id": 4,
+      "fr": "La ville scintillait au loin. « Une ville, murmura Irlan, est une promesse qu'on se fait à soi-même. Strasbourg nous a appris à parler, à écouter, à revenir. Elle demanda qu'on se souvienne d'elle. Nous répondrons, chaque jour, par notre mémoire. »",
+      "pt": "A cidade cintilava ao longe. « Uma cidade, murmurou Irlan, é uma promessa que se faz a si mesmo. Strasbourg nos ensinou a falar, a ouvir, a voltar. Ela pediu que nos lembrássemos dela. Nós responderemos, todos os dias, com a nossa memória. »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "la promenade",
+      "definitionPt": "o passeio",
+      "definitionFr": "Marche faite pour le plaisir.",
+      "inflections": ["la promenade", "les promenades"],
+      "ptTargets": ["passeio"],
+      "examples": [
+        { "level": "A1", "fr": "La promenade est agréable.", "pt": "O passeio é agradável." },
+        { "level": "A2-B1", "fr": "La famille fait une promenade le soir.", "pt": "A família faz um passeio à noite." },
+        { "level": "B1-B2", "fr": "La promenade, le long de l'Ill, est devenue leur rituel du soir.", "pt": "O passeio, ao longo do Ill, tornou-se o ritual noturno deles." },
+        { "level": "C1-C2", "fr": "C'est cette promenade nocturne qui restera gravée dans la mémoire familiale.", "pt": "É esse passeio noturno que ficará gravado na memória da família." }
+      ]
+    },
+    {
+      "term": "le reflet",
+      "definitionPt": "o reflexo",
+      "definitionFr": "Image réfléchie par une surface.",
+      "inflections": ["le reflet", "les reflets"],
+      "ptTargets": ["reflexo"],
+      "examples": [
+        { "level": "A1", "fr": "Le reflet est joli.", "pt": "O reflexo é bonito." },
+        { "level": "A2-B1", "fr": "Les reflets dans l'eau brillent.", "pt": "Os reflexos na água brilham." },
+        { "level": "B1-B2", "fr": "Les reflets, dansants et dorés, doublent la ville dans la rivière.", "pt": "Os reflexos, dançantes e dourados, duplicam a cidade no rio." },
+        { "level": "C1-C2", "fr": "C'est dans les reflets de l'Ill que la ville se montre sous son visage le plus tendre.", "pt": "É nos reflexos do Ill que a cidade se mostra sob seu rosto mais terno." }
+      ]
+    },
+    {
+      "term": "la passerelle",
+      "definitionPt": "a passarela",
+      "definitionFr": "Pont étroit réservé aux piétons.",
+      "inflections": ["la passerelle", "les passerelles"],
+      "ptTargets": ["passarela"],
+      "examples": [
+        { "level": "A1", "fr": "La passerelle est étroite.", "pt": "A passarela é estreita." },
+        { "level": "A2-B1", "fr": "Iris court sur la passerelle.", "pt": "Íris corre na passarela." },
+        { "level": "B1-B2", "fr": "Les passerelles, suspendues au-dessus de l'eau, offrent un point de vue unique.", "pt": "As passarelas, suspensas sobre a água, oferecem um ponto de vista único." },
+        { "level": "C1-C2", "fr": "C'est depuis la passerelle que la famille vit la ville se refléter une dernière fois.", "pt": "É da passarela que a família viu a cidade se refletir uma última vez." }
+      ]
+    },
+    {
+      "term": "la promesse",
+      "definitionPt": "a promessa",
+      "definitionFr": "Engagement de faire quelque chose.",
+      "inflections": ["la promesse", "les promesses"],
+      "ptTargets": ["promessa"],
+      "examples": [
+        { "level": "A1", "fr": "La promesse est sincère.", "pt": "A promessa é sincera." },
+        { "level": "A2-B1", "fr": "Iris fait une promesse.", "pt": "Íris faz uma promessa." },
+        { "level": "B1-B2", "fr": "Les promesses, tenues avec le temps, deviennent des souvenirs précieux.", "pt": "As promessas, cumpridas com o tempo, tornam-se lembranças preciosas." },
+        { "level": "C1-C2", "fr": "C'est la promesse du retour qui adoucit la tristesse du départ.", "pt": "É a promessa do retorno que suaviza a tristeza da partida." }
+      ]
+    },
+    {
+      "term": "le retour",
+      "definitionPt": "o retorno",
+      "definitionFr": "Action de revenir.",
+      "inflections": ["le retour", "les retours"],
+      "ptTargets": ["retorno"],
+      "examples": [
+        { "level": "A1", "fr": "Le retour est proche.", "pt": "O retorno está próximo." },
+        { "level": "A2-B1", "fr": "Ils promettent un retour.", "pt": "Eles prometem um retorno." },
+        { "level": "B1-B2", "fr": "Le retour, promis avec émotion, deviendra un projet de famille.", "pt": "O retorno, prometido com emoção, tornar-se-á um projeto de família." },
+        { "level": "C1-C2", "fr": "C'est la certitude du retour qui transforme les adieux en rendez-vous.", "pt": "É a certeza do retorno que transforma as despedidas em reencontro marcado." }
+      ]
+    },
+    {
+      "term": "la mémoire",
+      "definitionPt": "a memória",
+      "definitionFr": "Capacité de se souvenir.",
+      "inflections": ["la mémoire", "les mémoires"],
+      "ptTargets": ["memória"],
+      "examples": [
+        { "level": "A1", "fr": "La mémoire est précieuse.", "pt": "A memória é preciosa." },
+        { "level": "A2-B1", "fr": "La mémoire garde les bons moments.", "pt": "A memória guarda os bons momentos." },
+        { "level": "B1-B2", "fr": "La mémoire, nourrie d'images et de mots, construit l'histoire d'une famille.", "pt": "A memória, alimentada de imagens e palavras, constrói a história de uma família." },
+        { "level": "C1-C2", "fr": "C'est la mémoire qui, bien après le voyage, gardera Strasbourg vivante.", "pt": "É a memória que, muito depois da viagem, manterá Strasbourg viva." }
+      ]
+    },
+    {
+      "term": "scintiller",
+      "definitionPt": "cintilar",
+      "definitionFr": "Briller d'une lumière tremblante.",
+      "inflections": ["scintiller", "elle scintille", "elles scintillaient"],
+      "ptTargets": ["cintilar"],
+      "examples": [
+        { "level": "A1", "fr": "Les lumières scintillent.", "pt": "As luzes cintilam." },
+        { "level": "A2-B1", "fr": "La ville scintille la nuit.", "pt": "A cidade cintila à noite." },
+        { "level": "B1-B2", "fr": "Les lumières, scintillant dans l'eau, semblaient un ciel renversé.", "pt": "As luzes, cintilando na água, pareciam um céu invertido." },
+        { "level": "C1-C2", "fr": "C'est en scintillant que la ville dit son dernier adieu aux voyageurs.", "pt": "É cintilando que a cidade se despede dos viajantes." }
+      ]
+    },
+    {
+      "term": "murmurer",
+      "definitionPt": "murmurar, sussurrar",
+      "definitionFr": "Parler à voix basse.",
+      "inflections": ["murmurer", "je murmure", "il murmura"],
+      "ptTargets": ["murmurar", "sussurrar"],
+      "examples": [
+        { "level": "A1", "fr": "Iris murmure un mot.", "pt": "Íris murmura uma palavra." },
+        { "level": "A2-B1", "fr": "Irlan murmure une réponse.", "pt": "Irlan murmura uma resposta." },
+        { "level": "B1-B2", "fr": "Il murmura une promesse que la nuit garda secrète.", "pt": "Ele murmurou uma promessa que a noite guardou em segredo." },
+        { "level": "C1-C2", "fr": "C'est en murmurant qu'Iris demanda si l'on reviendrait un jour.", "pt": "É murmurando que Íris perguntou se voltariam um dia." }
+      ]
+    },
+    {
+      "term": "le courant",
+      "definitionPt": "a correnteza",
+      "definitionFr": "Mouvement de l'eau qui s'écoule.",
+      "inflections": ["le courant", "les courants"],
+      "ptTargets": ["correnteza", "corrente"],
+      "examples": [
+        { "level": "A1", "fr": "Le courant est rapide.", "pt": "A correnteza é rápida." },
+        { "level": "A2-B1", "fr": "Le courant de l'Ill est calme.", "pt": "A correnteza do Ill é calma." },
+        { "level": "B1-B2", "fr": "Le courant, doux et régulier, porte les reflets vers la cathédrale.", "pt": "A correnteza, doce e regular, leva os reflexos até a catedral." },
+        { "level": "C1-C2", "fr": "C'est dans le courant de l'Ill que se mêlent, depuis toujours, la ville et son image.", "pt": "É na correnteza do Ill que se misturam, desde sempre, a cidade e sua imagem." }
+      ]
+    },
+    {
+      "term": "l'adieu",
+      "definitionPt": "a despedida",
+      "definitionFr": "Salutation de départ.",
+      "inflections": ["l'adieu", "les adieux"],
+      "ptTargets": ["despedida"],
+      "examples": [
+        { "level": "A1", "fr": "L'adieu est triste.", "pt": "A despedida é triste." },
+        { "level": "A2-B1", "fr": "La famille fait ses adieux.", "pt": "A família se despede." },
+        { "level": "B1-B2", "fr": "Les adieux, faits au bord de l'eau, promettaient un retour.", "pt": "As despedidas, feitas à beira d'água, prometiam um retorno." },
+        { "level": "C1-C2", "fr": "C'est dans l'adieu que l'on mesure ce qu'une ville a planté en nous.", "pt": "É na despedida que se mede o que uma cidade plantou em nós." }
+      ]
+    },
+    {
+      "term": "le voyageur",
+      "definitionPt": "o viajante",
+      "definitionFr": "Personne qui voyage.",
+      "inflections": ["le voyageur", "les voyageurs"],
+      "ptTargets": ["viajante"],
+      "examples": [
+        { "level": "A1", "fr": "Le voyageur part.", "pt": "O viajante parte." },
+        { "level": "A2-B1", "fr": "Les voyageurs prennent le train.", "pt": "Os viajantes pegam o trem." },
+        { "level": "B1-B2", "fr": "Les voyageurs, chargés de souvenirs, quittent la gare sans se retourner.", "pt": "Os viajantes, carregados de lembranças, deixam a estação sem se virar." },
+        { "level": "C1-C2", "fr": "C'est le voyageur qui, en partant, emporte un morceau de la ville avec lui.", "pt": "É o viajante que, ao partir, leva um pedaço da cidade consigo." }
+      ]
+    },
+    {
+      "term": "la gare",
+      "definitionPt": "a estação",
+      "definitionFr": "Lieu de départ et d'arrivée des trains.",
+      "inflections": ["la gare", "les gares"],
+      "ptTargets": ["estação"],
+      "examples": [
+        { "level": "A1", "fr": "La gare est grande.", "pt": "A estação é grande." },
+        { "level": "A2-B1", "fr": "La gare de Strasbourg est moderne.", "pt": "A estação de Strasbourg é moderna." },
+        { "level": "B1-B2", "fr": "La gare, point de départ et d'arrivée, vit des milliers de destins chaque jour.", "pt": "A estação, ponto de partida e de chegada, vive milhares de destinos todos os dias." },
+        { "level": "C1-C2", "fr": "C'est à la gare que le voyage prend tout son sens : partir, c'est déjà revenir.", "pt": "É na estação que a viagem ganha todo o seu sentido: partir já é voltar." }
+      ]
+    },
+    {
+      "term": "le TGV",
+      "definitionPt": "o TGV (trem de alta velocidade)",
+      "definitionFr": "Train à grande vitesse.",
+      "inflections": ["le TGV", "les TGV"],
+      "ptTargets": ["TGV", "trem de alta velocidade"],
+      "examples": [
+        { "level": "A1", "fr": "Le TGV est rapide.", "pt": "O TGV é rápido." },
+        { "level": "A2-B1", "fr": "La famille prend le TGV.", "pt": "A família pega o TGV." },
+        { "level": "B1-B2", "fr": "Le TGV, silencieux et confortable, relie Strasbourg à Nice en quelques heures.", "pt": "O TGV, silencioso e confortável, liga Strasbourg a Nice em poucas horas." },
+        { "level": "C1-C2", "fr": "C'est le TGV qui, demain matin, emportera la famille vers la lumière du Sud.", "pt": "É o TGV que, amanhã de manhã, levará a família para a luz do Sul." }
+      ]
+    },
+    {
+      "term": "la nuit",
+      "definitionPt": "a noite",
+      "definitionFr": "Période sombre de la journée.",
+      "inflections": ["la nuit", "les nuits"],
+      "ptTargets": ["noite"],
+      "examples": [
+        { "level": "A1", "fr": "La nuit est calme.", "pt": "A noite é calma." },
+        { "level": "A2-B1", "fr": "La nuit, la ville est belle.", "pt": "À noite, a cidade é bonita." },
+        { "level": "B1-B2", "fr": "La nuit, douce et lumineuse, enveloppe les quais d'une lumière dorée.", "pt": "A noite, doce e luminosa, envolve os cais com uma luz dourada." },
+        { "level": "C1-C2", "fr": "C'est cette nuit-là que la famille gardera comme la plus précieuse de toutes.", "pt": "É aquela noite que a família guardará como a mais preciosa de todas." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Le discours indirect au passé : il dit qu'il reviendrait",
+    "explanationPt": "No discurso indireto no passado, os tempos recuam: presente vira imparfait ('elle brille' → 'elle brillait'), futur vira conditionnel ('nous reviendrons' → 'qu'ils reviendraient'), e as perguntas usam 'si' ('il demanda s'il était triste').",
+    "exampleFr": "Irlan promit qu'ils reviendraient, et qu'à ce moment-là, elle parlerait français couramment.",
+    "examplePt": "Irlan prometeu que eles voltariam e que, nesse momento, ela falaria francês fluentemente.",
+    "practiceQuestion": "Complete: « Il demanda s'il ___ triste de quitter Strasbourg. »",
+    "options": ["était", "est", "sera"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "La concordance des temps",
+        "explanationPt": "Após um verbo no passado (dit, demanda, promit), o presente vira imparfait ('elle brille' → 'elle brillait'), o passé composé vira plus-que-parfait, e o futuro vira conditionnel ('nous reviendrons' → 'qu'ils reviendraient').",
+        "exampleFr": "Andréa demanda s'il était triste de quitter Strasbourg.",
+        "examplePt": "Andréa perguntou se ele estava triste por deixar Strasbourg.",
+        "practiceQuestion": "Complete: « Iris demanda si la rivière ___ toujours comme ça. »",
+        "options": ["brillait", "brille", "brillera"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "Les questions indirectes avec si",
+        "explanationPt": "As perguntas de sim/não viram indiretas com 'si': 'Est-il triste ?' → 'elle demanda s'il était triste'. A inversão desaparece e a ordem vira sujeito + verbo.",
+        "exampleFr": "Andréa demanda s'il était triste de quitter Strasbourg.",
+        "examplePt": "Andréa perguntou se ele estava triste por deixar Strasbourg.",
+        "practiceQuestion": "Complete: « Elle demanda ___ nous reviendrions un jour. »",
+        "options": ["si", "que", "pourquoi"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "O que a família fará amanhã de manhã?",
+      "options": ["pegará o TGV para Nice", "visitará a Alemanha", "voltará para o Brasil"],
+      "correctIndex": 0,
+      "explanation": "Irlan disse: 'Demain, nous prendrons le TGV pour Nice.'"
+    },
+    {
+      "question": "O que Íris pediu que fosse prometido?",
+      "options": ["que voltassem um dia", "que comprassem mais doces", "que visitassem o zoológico"],
+      "correctIndex": 0,
+      "explanation": "Íris pediu: 'Promets-moi que nous reviendrons un jour.'"
+    },
+    {
+      "question": "Complete: « Il demanda s'il ___ triste de quitter Strasbourg. »",
+      "options": ["était", "est", "sera"],
+      "correctIndex": 0,
+      "explanation": "Discurso indireto no passado: presente vira imparfait (était)."
+    },
+    {
+      "question": "O que Andréa acrescentou que faria para comemorar?",
+      "options": ["prepararia uma chucrute", "compraria um acordeão", "escreveria um livro"],
+      "correctIndex": 0,
+      "explanation": "Andréa ajouta qu'elle préparerait une choucroute pour fêter ça."
+    },
+    {
+      "question": "Qual é a conclusão de Irlan sobre as cidades?",
+      "options": ["uma cidade é uma promessa que se faz a si mesmo", "as cidades são todas iguais", "as cidades esquecem os viajantes"],
+      "correctIndex": 0,
+      "explanation": "Irlan conclui: uma cidade é uma promessa que se faz a si mesmo."
+    }
+  ]
+}

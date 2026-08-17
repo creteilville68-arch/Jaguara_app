@@ -1,0 +1,257 @@
+{
+  "id": "toulouse_lesson_52",
+  "cityId": "toulouse",
+  "domain": "Gastronomia & Cotidiano",
+  "level": "Intermediário (B2)",
+  "titleFr": "Le marché des Carmes : les couleurs du Sud-Ouest",
+  "titlePt": "O mercado dos Carmes: as cores do Sudoeste",
+  "subtitleFr": "Décrire un marché avec les partitifs, EN et le plus-que-parfait",
+  "subtitlePt": "Descrever um mercado com os partitivos, EN e o mais-que-perfeito",
+  "summaryPt": "Desde 1840, o mercado dos Carmes reúne produtores do Sudoeste: queijos, aves, frutas, flores. Para Irlan, ex-entregador, o mercado é a mais bela aula de geografia humana: cada banquinha conta um território. Nesta aula B2, os partitivos, EN e o plus-que-parfait animam a feira.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Le marché des Carmes existe depuis 1840. « On y trouve de tout, dit Andréa : du fromage de brebis, des légumes du Lauragais, des fleurs. » Irlan respira : « Ça sent le Brésil, les marchés de mon enfance. »",
+      "pt": "O mercado dos Carmes existe desde 1840. « Encontra-se de tudo nele, disse Andréa: queijo de ovelha, legumes do Lauragais, flores. » Irlan respirou: « Cheira ao Brasil, aos mercados da minha infância. »"
+    },
+    {
+      "id": 2,
+      "fr": "Une vendeuse offrit un échantillon de fromage à Irlan. « Goûtez, dit-elle, il vient des Pyrénées. » Irlan en prit un morceau : « C'est doux et fort à la fois. — Comme le Midi », rit la vendeuse.",
+      "pt": "Uma vendedora ofereceu uma amostra de queijo a Irlan. « Prove, disse ela, vem dos Pireneus. » Irlan pegou um pedaço: « É suave e forte ao mesmo tempo. — Como o Midi », riu a vendedora."
+    },
+    {
+      "id": 3,
+      "fr": "Au stand des volailles, une fermière parlait de ses canards. « Avant, mon grand-père vendait ici, dit-elle. Le marché avait toujours été le cœur du quartier. » Irlan l'écouta avec attention : il reconnaissait la fierté des producteurs.",
+      "pt": "No barracão de aves, uma criadora falava de seus patos. « Antes, meu avô vendia aqui, disse ela. O mercado sempre tinha sido o coração do bairro. » Irlan ouviu com atenção: reconhecia o orgulho dos produtores."
+    },
+    {
+      "id": 4,
+      "fr": "Irlan acheta des fruits, du miel et des herbes. « Prends-en pour les voisins, dit Andréa. — C'est ça, sourit Irlan. Un livreur sait toujours quoi apporter. » Il se souvint des commandes qu'il avait portées, rue après rue.",
+      "pt": "Irlan comprou frutas, mel e ervas. « Pega um pouco para os vizinhos, disse Andréa. — É isso, sorriu Irlan. Um entregador sempre sabe o que levar. » Ele se lembrou dos pedidos que tinha carregado, rua após rua."
+    },
+    {
+      "id": 5,
+      "fr": "Le soir, Irlan écrivit : « Pendant des années, j'ai porté les courses des autres. Aujourd'hui, je porte les miennes, au marché des Carmes. Le marché est la première carte du monde : celle où l'on apprend à choisir. »",
+      "pt": "À noite, Irlan escreveu: « Durante anos, carreguei as compras dos outros. Hoje, carrego as minhas, no mercado dos Carmes. O mercado é o primeiro mapa do mundo: aquele onde se aprende a escolher. »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "le marché",
+      "definitionPt": "mercado, feira (substantivo masculino)",
+      "definitionFr": "Lieu où l'on vend des produits, souvent en plein air.",
+      "inflections": ["le marché", "des marchés"],
+      "ptTargets": ["mercado", "feira", "mercados"],
+      "examples": [
+        { "level": "A1", "fr": "Le marché est coloré.", "pt": "O mercado é colorido." },
+        { "level": "A2-B1", "fr": "Nous allons au marché le samedi.", "pt": "Vamos ao mercado no sábado." },
+        { "level": "B2", "fr": "Le marché des Carmes existe depuis 1840.", "pt": "O mercado dos Carmes existe desde 1840." },
+        { "level": "C1-C2", "fr": "Le marché est le théâtre où la ville se raconte chaque matin.", "pt": "O mercado é o teatro onde a cidade se conta a cada manhã." }
+      ]
+    },
+    {
+      "term": "le producteur",
+      "definitionPt": "produtor (substantivo masculino)",
+      "definitionFr": "Personne qui produit des aliments.",
+      "inflections": ["le producteur", "des producteurs"],
+      "ptTargets": ["produtor", "produtores"],
+      "examples": [
+        { "level": "A1", "fr": "Le producteur vend ses fruits.", "pt": "O produtor vende suas frutas." },
+        { "level": "A2-B1", "fr": "Les producteurs viennent de la région.", "pt": "Os produtores vêm da região." },
+        { "level": "B2", "fr": "Le marché des Carmes réunit des producteurs du Sud-Ouest.", "pt": "O mercado dos Carmes reúne produtores do Sudoeste." },
+        { "level": "C1-C2", "fr": "Le producteur incarne le lien direct entre la terre et la table.", "pt": "O produtor encarna o vínculo direto entre a terra e a mesa." }
+      ]
+    },
+    {
+      "term": "la volaille",
+      "definitionPt": "aves (substantivo feminino)",
+      "definitionFr": "Oiseaux d'élevage : poulets, canards, oies.",
+      "inflections": ["la volaille", "des volailles"],
+      "ptTargets": ["aves", "aves de criação"],
+      "examples": [
+        { "level": "A1", "fr": "La volaille est chez le fermier.", "pt": "As aves estão na casa do fazendeiro." },
+        { "level": "A2-B1", "fr": "Le marché vend de la volaille.", "pt": "O mercado vende aves." },
+        { "level": "B2", "fr": "Au stand des volailles, une fermière parlait de ses canards.", "pt": "No barracão de aves, uma criadora falava de seus patos." },
+        { "level": "C1-C2", "fr": "La volaille du Sud-Ouest est réputée pour son élevage traditionnel.", "pt": "As aves do Sudoeste são célebres por sua criação tradicional." }
+      ]
+    },
+    {
+      "term": "le fromage de brebis",
+      "definitionPt": "queijo de ovelha (substantivo masculino)",
+      "definitionFr": "Fromage fabriqué avec du lait de brebis.",
+      "inflections": ["le fromage de brebis"],
+      "ptTargets": ["queijo de ovelha"],
+      "examples": [
+        { "level": "A1", "fr": "Le fromage de brebis est bon.", "pt": "O queijo de ovelha é bom." },
+        { "level": "A2-B1", "fr": "J'aime le fromage de brebis.", "pt": "Gosto de queijo de ovelha." },
+        { "level": "B2", "fr": "Le fromage de brebis des Pyrénées est célèbre.", "pt": "O queijo de ovelha dos Pireneus é famoso." },
+        { "level": "C1-C2", "fr": "Le fromage de brebis raconte l'histoire des transhumances pyrénéennes.", "pt": "O queijo de ovelha conta a história das transumâncias pirenaicas." }
+      ]
+    },
+    {
+      "term": "l'échantillon",
+      "definitionPt": "amostra (substantivo masculino)",
+      "definitionFr": "Petite quantité offerte pour goûter.",
+      "inflections": ["l'échantillon", "des échantillons"],
+      "ptTargets": ["amostra", "amostras"],
+      "examples": [
+        { "level": "A1", "fr": "L'échantillon est petit.", "pt": "A amostra é pequena." },
+        { "level": "A2-B1", "fr": "La vendeuse donne un échantillon.", "pt": "A vendedora dá uma amostra." },
+        { "level": "B2", "fr": "Une vendeuse offrit un échantillon de fromage à Irlan.", "pt": "Uma vendedora ofereceu uma amostra de queijo a Irlan." },
+        { "level": "C1-C2", "fr": "L'échantillon est une promesse : le goût avant l'achat.", "pt": "A amostra é uma promessa: o gosto antes da compra." }
+      ]
+    },
+    {
+      "term": "la fermière",
+      "definitionPt": "criadora, fazendeira (substantivo feminino)",
+      "definitionFr": "Femme qui travaille à la ferme.",
+      "inflections": ["la fermière", "des fermières"],
+      "ptTargets": ["criadora", "fazendeira"],
+      "examples": [
+        { "level": "A1", "fr": "La fermière travaille.", "pt": "A fazendeira trabalha." },
+        { "level": "A2-B1", "fr": "La fermière vend ses canards.", "pt": "A criadora vende seus patos." },
+        { "level": "B2", "fr": "Au stand des volailles, une fermière parlait de ses canards.", "pt": "No barracão de aves, uma criadora falava de seus patos." },
+        { "level": "C1-C2", "fr": "La fermière du marché porte l'héritage de générations de paysans.", "pt": "A criadora do mercado carrega a herança de gerações de camponeses." }
+      ]
+    },
+    {
+      "term": "le miel",
+      "definitionPt": "mel (substantivo masculino)",
+      "definitionFr": "Produit sucré fabriqué par les abeilles.",
+      "inflections": ["le miel"],
+      "ptTargets": ["mel"],
+      "examples": [
+        { "level": "A1", "fr": "Le miel est doux.", "pt": "O mel é doce." },
+        { "level": "A2-B1", "fr": "J'achète du miel au marché.", "pt": "Compro mel no mercado." },
+        { "level": "B2", "fr": "Irlan acheta des fruits, du miel et des herbes.", "pt": "Irlan comprou frutas, mel e ervas." },
+        { "level": "C1-C2", "fr": "Le miel des garrigues du Midi porte le parfum de toute la flore régionale.", "pt": "O mel das charnecas do Midi carrega o perfume de toda a flora regional." }
+      ]
+    },
+    {
+      "term": "la course",
+      "definitionPt": "compra, pedido (substantivo feminino)",
+      "definitionFr": "Marchandise achetée ; livraison.",
+      "inflections": ["la course", "des courses"],
+      "ptTargets": ["compra", "pedido", "compras"],
+      "examples": [
+        { "level": "A1", "fr": "La course est lourde.", "pt": "A compra é pesada." },
+        { "level": "A2-B1", "fr": "Je fais les courses.", "pt": "Faço as compras." },
+        { "level": "B2", "fr": "J'ai porté les courses des autres pendant des années.", "pt": "Carreguei as compras dos outros durante anos." },
+        { "level": "C1-C2", "fr": "Les courses du marché sont une cérémonie : on y choisit, on y goûte, on y parle.", "pt": "As compras do mercado são uma cerimônia: escolhe-se, prova-se, conversa-se." }
+      ]
+    },
+    {
+      "term": "la banque",
+      "definitionPt": "barraca (substantivo feminino)",
+      "definitionFr": "Étal de vente au marché.",
+      "inflections": ["la banque", "des banques"],
+      "ptTargets": ["barraca", "barracas"],
+      "examples": [
+        { "level": "A1", "fr": "La banque du marché est pleine.", "pt": "A barraca do mercado está cheia." },
+        { "level": "A2-B1", "fr": "Chaque banque vend des produits.", "pt": "Cada barraca vende produtos." },
+        { "level": "B2", "fr": "Chaque banque du marché raconte un territoire.", "pt": "Cada barraca do mercado conta um território." },
+        { "level": "C1-C2", "fr": "La banque du marché est une vitrine ouverte sur une terre précise.", "pt": "A barraca do mercado é uma vitrine aberta para uma terra precisa." }
+      ]
+    },
+    {
+      "term": "porter",
+      "definitionPt": "carregar (verbo)",
+      "definitionFr": "Transporter quelque chose.",
+      "inflections": ["je porte", "porter", "porté"],
+      "ptTargets": ["carregar", "carregado", "carrego"],
+      "examples": [
+        { "level": "A1", "fr": "Je porte le sac.", "pt": "Carrego a sacola." },
+        { "level": "A2-B1", "fr": "Le livreur porte les colis.", "pt": "O entregador carrega os pacotes." },
+        { "level": "B2", "fr": "Pendant des années, j'ai porté les courses des autres.", "pt": "Durante anos, carreguei as compras dos outros." },
+        { "level": "C1-C2", "fr": "Porter le poids de la ville, c'est connaître chacun de ses étages.", "pt": "Carregar o peso da cidade é conhecer cada um de seus andares." }
+      ]
+    },
+    {
+      "term": "choisir",
+      "definitionPt": "escolher (verbo)",
+      "definitionFr": "Prendre une chose parmi plusieurs.",
+      "inflections": ["je choisis", "choisir", "choisi"],
+      "ptTargets": ["escolher", "escolhe", "escolher"],
+      "examples": [
+        { "level": "A1", "fr": "Je choisis un fruit.", "pt": "Escolho uma fruta." },
+        { "level": "A2-B1", "fr": "Tu choisis tes légumes.", "pt": "Você escolhe seus legumes." },
+        { "level": "B2", "fr": "Le marché est le lieu où l'on apprend à choisir.", "pt": "O mercado é o lugar onde se aprende a escolher." },
+        { "level": "C1-C2", "fr": "Choisir librement, c'est le premier geste de la liberté quotidienne.", "pt": "Escolher livremente é o primeiro gesto da liberdade cotidiana." }
+      ]
+    },
+    {
+      "term": "l'herbe",
+      "definitionPt": "erva (substantivo feminino)",
+      "definitionFr": "Plante aromatique ou médicinale.",
+      "inflections": ["l'herbe", "des herbes"],
+      "ptTargets": ["erva", "ervas"],
+      "examples": [
+        { "level": "A1", "fr": "L'herbe est verte.", "pt": "A erva é verde." },
+        { "level": "A2-B1", "fr": "On met des herbes dans la soupe.", "pt": "Põem-se ervas na sopa." },
+        { "level": "B2", "fr": "Irlan acheta des fruits, du miel et des herbes.", "pt": "Irlan comprou frutas, mel e ervas." },
+        { "level": "C1-C2", "fr": "Les herbes du marché sont une géographie en bouquet.", "pt": "As ervas do mercado são uma geografia em buquê." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Les partitifs, EN et le plus-que-parfait au marché",
+    "explanationPt": "Os partitivos nomeiam mercadorias: 'du fromage, des légumes, des fleurs, du miel'. EN retoma quantidades: 'prends-en pour les voisins' (pega um pouco para os vizinhos). O plus-que-parfait conta o antes: 'le marché avait toujours été le cœur du quartier'.",
+    "exampleFr": "On y trouve du fromage, des légumes et des fleurs ; prends-en pour les voisins.",
+    "examplePt": "Encontra-se nele queijo, legumes e flores; pega um pouco para os vizinhos.",
+    "practiceQuestion": "Complete: 'On y trouve de tout : du fromage, des légumes, des fleurs. Prends-_____.'",
+    "options": ["en", "y", "le"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "EN pour les achats",
+        "explanationPt": "'Acheter des fruits → en acheter' / 'Prendre des fleurs → en prendre'. EN retoma a mercadoria.",
+        "exampleFr": "Des fruits ? Prends-en pour les voisins.",
+        "examplePt": "Frutas? Pega um pouco para os vizinhos.",
+        "practiceQuestion": "Complete: 'Des fleurs, j'en _____ pour Andréa.'",
+        "options": ["achète", "achètes", "acheter"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "Le plus-que-parfait du quartier",
+        "explanationPt": "'Le marché avait toujours été le cœur du quartier' : verdade antiga anterior ao presente.",
+        "exampleFr": "Le marché avait toujours été le cœur du quartier des Carmes.",
+        "examplePt": "O mercado sempre tinha sido o coração do bairro dos Carmes.",
+        "practiceQuestion": "Complete: 'Le marché avait toujours été le _____ du quartier.'",
+        "options": ["cœur", "cœurs", "cour"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Complete: 'On y trouve de tout : du fromage, des légumes, des fleurs. Prends-_____.'",
+      "options": ["en", "y", "le"],
+      "correctIndex": 0,
+      "explanation": "EN retoma a quantidade das mercadorias."
+    },
+    {
+      "question": "Desde quando existe o mercado dos Carmes?",
+      "options": ["1840", "1940", "1804"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'Le marché des Carmes existe depuis 1840.'"
+    },
+    {
+      "question": "De onde vinha o queijo provado por Irlan?",
+      "options": ["Dos Pireneus", "De Bordeaux", "Do Lauragais"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'il vient des Pyrénées'."
+    },
+    {
+      "question": "O que o mercado tinha sempre sido para o bairro?",
+      "options": ["O coração do bairro", "Um estacionamento", "Uma fábrica"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'Le marché avait toujours été le cœur du quartier.'"
+    },
+    {
+      "question": "O que Irlan era antes de chegar à França?",
+      "options": ["Entregador, que carregava as compras dos outros", "Chef de cozinha", "Professor de mercado"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'Pendant des années, j'ai porté les courses des autres.'"
+    }
+  ]
+}

@@ -1,0 +1,257 @@
+{
+  "id": "toulouse_lesson_20",
+  "cityId": "toulouse",
+  "domain": "Cotidiano & Cultura",
+  "level": "Intermediário (B2)",
+  "titleFr": "Le quartier Saint-Cyprien : l'autre rive de Toulouse",
+  "titlePt": "O bairro Saint-Cyprien: a outra margem de Toulouse",
+  "subtitleFr": "Expliquer les causes avec puisque, parce que et à cause de",
+  "subtitlePt": "Explicar as causas com puisque, parce que e à cause de",
+  "summaryPt": "Do outro lado do Garona, o bairro Saint-Cyprien guarda a alma popular de Toulouse: mercados, bistrôs e o hospital La Grave. Irlan explica por que o bairro é diferente do centro: porque foi reconstruído depois da enchente, pois os telhados novos são visíveis, já que a história está escrita nas fachadas. Nesta aula B2, as estruturas causais são o foco.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "De l'autre côté de la Garonne, le quartier Saint-Cyprien s'étend paisiblement. Irlan aimait ce quartier parce qu'il y retrouvait l'atmosphère des villes du Sud : des places ombragées, des marchés bruyants et des gens qui parlent fort.",
+      "pt": "Do outro lado do Garona, o bairro Saint-Cyprien se estende tranquilamente. Irlan gostava desse bairro porque reencontrava ali a atmosfera das cidades do Sul: praças sombreadas, mercados barulhentos e gente que fala alto."
+    },
+    {
+      "id": 2,
+      "fr": "« Pourquoi les maisons d'ici sont-elles plus basses qu'au centre ? » demanda Íris. « Parce que la crue de 1875 a tout détruit, répondit Irlan. Puisque le quartier a été reconstruit après, il a un air plus moderne, avec des rues plus larges. »",
+      "pt": "« Por que as casas daqui são mais baixas que no centro? » perguntou Íris. « Porque a enchente de 1875 destruiu tudo, respondeu Irlan. Já que o bairro foi reconstruído depois, ele tem um ar mais moderno, com ruas mais largas. »"
+    },
+    {
+      "id": 3,
+      "fr": "Au marché Saint-Cyprien, les étals débordent de fruits et de légumes. Une marchande interpella Andréa : « Vous venez souvent ? — Nous venons chaque dimanche, répondit-elle, parce que c'est ici qu'on trouve les meilleures tomates de la ville. »",
+      "pt": "No mercado Saint-Cyprien, as bancas transbordam de frutas e legumes. Uma vendedora chamou Andréa: « Vocês vêm sempre? — Viemos todo domingo, respondeu ela, porque é aqui que se encontram os melhores tomates da cidade. »"
+    },
+    {
+      "id": 4,
+      "fr": "Plus loin, le dôme de l'hôpital de La Grave domine la rive. « Ce bâtiment a failli être détruit, expliqua Irlan. Mais à cause de son histoire — c'était un hôpital pour les pauvres depuis le XIIe siècle — la ville a décidé de le sauver. »",
+      "pt": "Mais adiante, a cúpula do hospital La Grave domina a margem. « Este prédio quase foi destruído, explicou Irlan. Mas por causa de sua história — era um hospital para os pobres desde o século XII — a cidade decidiu salvá-lo. »"
+    },
+    {
+      "id": 5,
+      "fr": "Le soir, Irlan nota : « Saint-Cyprien a souffert, et pourtant il vit. Puisque l'histoire est écrite dans les pierres, il suffit de savoir la lire. Moi, j'apprends à lire la France pierre après pierre. »",
+      "pt": "À noite, Irlan anotou: « Saint-Cyprien sofreu e, mesmo assim, vive. Já que a história está escrita nas pedras, basta saber lê-la. Eu estou aprendendo a ler a França pedra por pedra. »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "parce que",
+      "definitionPt": "porque (conjunção causal)",
+      "definitionFr": "Introduit la cause d'un fait.",
+      "inflections": ["parce que"],
+      "ptTargets": ["porque", "pois"],
+      "examples": [
+        { "level": "A1", "fr": "Je viens parce que j'aime la ville.", "pt": "Eu venho porque gosto da cidade." },
+        { "level": "A2-B1", "fr": "Nous venons parce que les tomates sont bonnes.", "pt": "Nós viemos porque os tomates são bons." },
+        { "level": "B2", "fr": "Irlan aimait ce quartier parce qu'il y retrouvait l'âme du Sud.", "pt": "Irlan gostava desse bairro porque reencontrava ali a alma do Sul." },
+        { "level": "C1-C2", "fr": "Parce que la crue avait tout détruit, la ville dut repenser son rapport au fleuve.", "pt": "Porque a enchente tinha destruído tudo, a cidade teve de repensar sua relação com o rio." }
+      ]
+    },
+    {
+      "term": "puisque",
+      "definitionPt": "já que, pois (conjunção causal)",
+      "definitionFr": "Introduit une cause considérée comme évidente.",
+      "inflections": ["puisque"],
+      "ptTargets": ["já que", "pois", "visto que"],
+      "examples": [
+        { "level": "A1", "fr": "Puisque tu es là, viens !", "pt": "Já que você está aqui, vem!" },
+        { "level": "A2-B1", "fr": "Puisque le marché est ouvert, entrons.", "pt": "Já que o mercado está aberto, entremos." },
+        { "level": "B2", "fr": "Puisque le quartier a été reconstruit après la crue, il a des rues plus larges.", "pt": "Já que o bairro foi reconstruído depois da enchente, ele tem ruas mais largas." },
+        { "level": "C1-C2", "fr": "Puisque l'histoire est écrite dans les pierres, il suffit de savoir la lire.", "pt": "Já que a história está escrita nas pedras, basta saber lê-la." }
+      ]
+    },
+    {
+      "term": "à cause de",
+      "definitionPt": "por causa de (locução causal)",
+      "definitionFr": "Introduit une cause, souvent négative.",
+      "inflections": ["à cause de"],
+      "ptTargets": ["por causa de", "devido a"],
+      "examples": [
+        { "level": "A1", "fr": "À cause de la pluie, je reste.", "pt": "Por causa da chuva, eu fico." },
+        { "level": "A2-B1", "fr": "À cause de la crue, le quartier a changé.", "pt": "Por causa da enchente, o bairro mudou." },
+        { "level": "B2", "fr": "À cause de son histoire, la ville a décidé de sauver l'hôpital.", "pt": "Por causa de sua história, a cidade decidiu salvar o hospital." },
+        { "level": "C1-C2", "fr": "À cause de sa vocation séculaire, ce lieu est resté dans les mémoires.", "pt": "Por causa de sua vocação secular, esse lugar permaneceu nas memórias." }
+      ]
+    },
+    {
+      "term": "l'étal",
+      "definitionPt": "banca, barraca de mercado (substantivo masculino)",
+      "definitionFr": "Table où l'on expose des marchandises.",
+      "inflections": ["l'étal", "des étals"],
+      "ptTargets": ["banca", "barraca"],
+      "examples": [
+        { "level": "A1", "fr": "L'étal est plein.", "pt": "A banca está cheia." },
+        { "level": "A2-B1", "fr": "Les étals débordent de fruits.", "pt": "As bancas transbordam de frutas." },
+        { "level": "B2", "fr": "Au marché Saint-Cyprien, les étals débordent de légumes.", "pt": "No mercado Saint-Cyprien, as bancas transbordam de legumes." },
+        { "level": "C1-C2", "fr": "La diversité des étals reflète la diversité des habitants du quartier.", "pt": "A diversidade das bancas reflete a diversidade dos habitantes do bairro." }
+      ]
+    },
+    {
+      "term": "la marchande",
+      "definitionPt": "vendedora (substantivo feminino)",
+      "definitionFr": "Femme qui vend sur un marché.",
+      "inflections": ["la marchande", "des marchandes"],
+      "ptTargets": ["vendedora", "comerciante"],
+      "examples": [
+        { "level": "A1", "fr": "La marchande sourit.", "pt": "A vendedora sorri." },
+        { "level": "A2-B1", "fr": "La marchande vend des tomates.", "pt": "A vendedora vende tomates." },
+        { "level": "B2", "fr": "Une marchande interpella Andréa depuis son étal.", "pt": "Uma vendedora chamou Andréa desde sua banca." },
+        { "level": "C1-C2", "fr": "Les marchandes du marché perpétuent une sociabilité populaire urbaine.", "pt": "As vendedoras do mercado perpetuam uma sociabilidade popular urbana." }
+      ]
+    },
+    {
+      "term": "l'âme",
+      "definitionPt": "alma (substantivo feminino)",
+      "definitionFr": "Ce qui donne son caractère à un lieu.",
+      "inflections": ["l'âme"],
+      "ptTargets": ["alma"],
+      "examples": [
+        { "level": "A1", "fr": "La ville a une âme.", "pt": "A cidade tem uma alma." },
+        { "level": "A2-B1", "fr": "Ce quartier a une âme populaire.", "pt": "Esse bairro tem uma alma popular." },
+        { "level": "B2", "fr": "Saint-Cyprien garde l'âme populaire de Toulouse.", "pt": "Saint-Cyprien guarda a alma popular de Toulouse." },
+        { "level": "C1-C2", "fr": "L'âme d'un quartier se lit dans ses marchés plus que dans ses monuments.", "pt": "A alma de um bairro se lê em seus mercados mais do que em seus monumentos." }
+      ]
+    },
+    {
+      "term": "le dôme",
+      "definitionPt": "cúpula (substantivo masculino)",
+      "definitionFr": "Toiture arrondie.",
+      "inflections": ["le dôme", "des dômes"],
+      "ptTargets": ["cúpula", "domo"],
+      "examples": [
+        { "level": "A1", "fr": "Le dôme est blanc.", "pt": "A cúpula é branca." },
+        { "level": "A2-B1", "fr": "Le dôme de La Grave domine la rive.", "pt": "A cúpula de La Grave domina a margem." },
+        { "level": "B2", "fr": "Le dôme de l'hôpital de La Grave est le symbole de Saint-Cyprien.", "pt": "A cúpula do hospital La Grave é o símbolo de Saint-Cyprien." },
+        { "level": "C1-C2", "fr": "La silhouette du dôme structure le paysage urbain de la rive gauche.", "pt": "A silhueta da cúpula estrutura a paisagem urbana da margem esquerda." }
+      ]
+    },
+    {
+      "term": "interpeller",
+      "definitionPt": "chamar, interpelar (verbo)",
+      "definitionFr": "Adresser la parole à quelqu'un, souvent pour l'arrêter.",
+      "inflections": ["j'interpelle", "interpeller"],
+      "ptTargets": ["chamar", "interpelar", "chamou"],
+      "examples": [
+        { "level": "A1", "fr": "Elle m'interpelle.", "pt": "Ela me chama." },
+        { "level": "A2-B1", "fr": "La marchande interpella Andréa.", "pt": "A vendedora chamou Andréa." },
+        { "level": "B2", "fr": "Une marchande interpella la famille depuis son étal de tomates.", "pt": "Uma vendedora chamou a família desde sua banca de tomates." },
+        { "level": "C1-C2", "fr": "Interpeller un passant au marché relève d'une politesse populaire spontanée.", "pt": "Chamar um passante no mercado faz parte de uma cortesia popular espontânea." }
+      ]
+    },
+    {
+      "term": "la rive",
+      "definitionPt": "margem (de rio) (substantivo feminino)",
+      "definitionFr": "Bord d'un cours d'eau.",
+      "inflections": ["la rive", "des rives"],
+      "ptTargets": ["margem", "margens"],
+      "examples": [
+        { "level": "A1", "fr": "La rive est calme.", "pt": "A margem é calma." },
+        { "level": "A2-B1", "fr": "Le quartier est sur l'autre rive.", "pt": "O bairro fica na outra margem." },
+        { "level": "B2", "fr": "Saint-Cyprien occupe toute la rive gauche de la Garonne.", "pt": "Saint-Cyprien ocupa toda a margem esquerda do Garona." },
+        { "level": "C1-C2", "fr": "La rive gauche, longtemps populaire, se gentrifie sans perdre son identité.", "pt": "A margem esquerda, muito tempo popular, se gentrifica sem perder sua identidade." }
+      ]
+    },
+    {
+      "term": "faillir",
+      "definitionPt": "quase, estar prestes a (verbo)",
+      "definitionFr": "Être sur le point de faire quelque chose.",
+      "inflections": ["je faillis", "faillir"],
+      "ptTargets": ["quase", "esteve prestes a"],
+      "examples": [
+        { "level": "A1", "fr": "J'ai failli tomber.", "pt": "Eu quase caí." },
+        { "level": "A2-B1", "fr": "Le bâtiment a failli être détruit.", "pt": "O prédio quase foi destruído." },
+        { "level": "B2", "fr": "L'hôpital de La Grave a failli disparaître dans les années 1970.", "pt": "O hospital La Grave quase desapareceu nos anos 1970." },
+        { "level": "C1-C2", "fr": "Ce monument a failli être rayé de la carte, avant d'être sauvé in extremis.", "pt": "Esse monumento quase foi riscado do mapa, antes de ser salvo in extremis." }
+      ]
+    },
+    {
+      "term": "sauver",
+      "definitionPt": "salvar (verbo)",
+      "definitionFr": "Tirer d'un danger, préserver.",
+      "inflections": ["je sauve", "sauver"],
+      "ptTargets": ["salvar", "salvou"],
+      "examples": [
+        { "level": "A1", "fr": "Je sauve le chat.", "pt": "Eu salvo o gato." },
+        { "level": "A2-B1", "fr": "La ville a décidé de sauver l'hôpital.", "pt": "A cidade decidiu salvar o hospital." },
+        { "level": "B2", "fr": "À cause de son histoire, le quartier a été sauvé de la démolition.", "pt": "Por causa de sua história, o bairro foi salvo da demolição." },
+        { "level": "C1-C2", "fr": "Sauver un patrimoine, c'est choisir de transmettre une mémoire plutôt qu'un terrain.", "pt": "Salvar um patrimônio é escolher transmitir uma memória em vez de um terreno." }
+      ]
+    },
+    {
+      "term": "la façade",
+      "definitionPt": "fachada (substantivo feminino)",
+      "definitionFr": "Face extérieure d'un bâtiment.",
+      "inflections": ["la façade", "des façades"],
+      "ptTargets": ["fachada", "fachadas"],
+      "examples": [
+        { "level": "A1", "fr": "La façade est rose.", "pt": "A fachada é rosa." },
+        { "level": "A2-B1", "fr": "Les façades racontent l'histoire.", "pt": "As fachadas contam a história." },
+        { "level": "B2", "fr": "Puisque l'histoire est écrite dans les façades, il suffit de savoir la lire.", "pt": "Já que a história está escrita nas fachadas, basta saber lê-la." },
+        { "level": "C1-C2", "fr": "Les façades reconstruites après 1875 témoignent de la résilience du quartier.", "pt": "As fachadas reconstruídas após 1875 testemunham a resiliência do bairro." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Les connecteurs de cause : parce que, puisque, à cause de",
+    "explanationPt": "Três maneiras de exprimir a causa: 'parce que' (resposta a 'por quê?'), 'puisque' (causa evidente), 'à cause de + nome' (causa, muitas vezes negativa).",
+    "exampleFr": "Parce que la crue a tout détruit, le quartier a été reconstruit ; puisque tu le sais, tu comprends ses rues larges.",
+    "examplePt": "Porque a enchente destruiu tudo, o bairro foi reconstruído; já que você sabe disso, entende suas ruas largas.",
+    "practiceQuestion": "Complete: '_____ la crue de 1875, le quartier a été reconstruit.'",
+    "options": ["À cause de", "Parce que", "Puisque"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "Parce que vs puisque",
+        "explanationPt": "'Parce que' responde à pergunta e introduz a causa nova; 'puisque' apresenta uma causa conhecida ou evidente: 'Parce que la crue a tout détruit' / 'Puisque le quartier a été reconstruit, il est moderne.'",
+        "exampleFr": "Puisque tu connais l'histoire, tu comprends le paysage.",
+        "examplePt": "Já que você conhece a história, você entende a paisagem.",
+        "practiceQuestion": "Complete: '_____ c'est dimanche, le marché est ouvert.'",
+        "options": ["Puisque", "Parce que", "À cause de"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "À cause de + nom",
+        "explanationPt": "'À cause de' é seguido de um nome (não de uma frase): 'à cause de son histoire', 'à cause de la crue'.",
+        "exampleFr": "À cause de son histoire séculaire, l'hôpital a été sauvé.",
+        "examplePt": "Por causa de sua história secular, o hospital foi salvo.",
+        "practiceQuestion": "Complete: '_____ la pluie, le marché est vide.'",
+        "options": ["À cause de", "Parce que", "Puisque"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Complete: '_____ la crue de 1875, le quartier a été reconstruit.'",
+      "options": ["À cause de", "Parce que", "Puisque"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'à cause de son histoire — la ville a décidé de le sauver.'"
+    },
+    {
+      "question": "Por que as casas de Saint-Cyprien são mais baixas que as do centro?",
+      "options": ["Porque a enchente de 1875 destruiu tudo", "Porque a prefeitura proibiu prédios altos", "Porque o solo é fraco"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'Parce que la crue de 1875 a tout détruit.'"
+    },
+    {
+      "question": "Qual construção domina a margem em Saint-Cyprien?",
+      "options": ["O dôme do hospital La Grave", "A basílica Saint-Sernin", "O Capitólio"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'le dôme de l'hôpital de La Grave domine la rive.'"
+    },
+    {
+      "question": "Por que a cidade decidiu salvar o hospital?",
+      "options": ["Por causa de sua história desde o século XII", "Porque era o mais moderno da França", "Porque o rei mandou"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'à cause de son histoire — c'était un hôpital pour les pauvres depuis le XIIe siècle — la ville a décidé de le sauver.'"
+    },
+    {
+      "question": "Qual frase usa corretamente 'à cause de'?",
+      "options": ["À cause de son histoire, l'hôpital a été sauvé.", "À cause de son histoire a été sauvé.", "À cause de il a été sauvé."],
+      "correctIndex": 0,
+      "explanation": "'À cause de' é seguido de um nome: 'à cause de son histoire'."
+    }
+  ]
+}

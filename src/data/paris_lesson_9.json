@@ -1,0 +1,268 @@
+{
+  "id": "paris_lesson_9",
+  "cityId": "paris",
+  "domain": "Cotidiano & Compras",
+  "level": "Iniciante (A1)",
+  "titleFr": "Une promenade dans le Marais",
+  "titlePt": "Um passeio pelo Marais",
+  "subtitleFr": "La rue des Rosiers, le falafel et la petite boutique de robes",
+  "subtitlePt": "A rue des Rosiers, o falafel e a pequena loja de vestidos",
+  "summaryPt": "Nesta Aula 9 (A1), a família passeia pelo Marais, o bairro histórico de Paris. Eles comem um falafel na rue des Rosiers e Andréa prova um vestido numa pequena boutique. Irlan conta as suas antigas entregas de scooter nas ruas estreitas do bairro. O aluno aprende a concordância dos adjetivos e o verbo 'essayer' no presente.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "L'après-midi, la famille se promène dans le Marais. Les rues sont étroites et les maisons sont anciennes. C'est le quartier préféré d'Andréa.",
+      "pt": "À tarde, a família passeia pelo Marais. As ruas são estreitas e as casas são antigas. É o bairro preferido da Andréa."
+    },
+    {
+      "id": 2,
+      "fr": "Rue des Rosiers, ils mangent un falafel. C'est une spécialité du quartier. Íris aime beaucoup le falafel.",
+      "pt": "Na rue des Rosiers, eles comem um falafel. É uma especialidade do bairro. Íris gosta muito de falafel."
+    },
+    {
+      "id": 3,
+      "fr": "Ensuite, Andréa essaie une robe dans une petite boutique. La vendeuse est gentille. « Elle est très jolie ! » dit Íris.",
+      "pt": "Depois, Andréa prova um vestido numa pequena loja. A vendedora é gentil. «Ele é muito bonito!» diz Íris."
+    },
+    {
+      "id": 4,
+      "fr": "Le soir, ils rentrent à pied. Irlan raconte ses livraisons dans le Marais : les rues étroites, les escaliers et les clients pressés. « C'était difficile, mais j'aime ce quartier », dit-il.",
+      "pt": "À noite, eles voltam a pé. Irlan conta as suas entregas no Marais: as ruas estreitas, as escadas e os clientes apressados. «Era difícil, mas eu gosto deste bairro», diz ele."
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "se promener",
+      "definitionPt": "passear",
+      "definitionFr": "Marcher pour le plaisir, sans but précis.",
+      "inflections": ["je me promène", "se promener", "il se promène"],
+      "ptTargets": ["passear"],
+      "examples": [
+        { "level": "A1", "fr": "La famille se promène dans le Marais.", "pt": "A família passeia pelo Marais." },
+        { "level": "A2-B1", "fr": "Nous nous promenons près de la Seine.", "pt": "Nós passeamos perto do Sena." },
+        { "level": "B2", "fr": "Elle se promène dans les rues étroites du quartier.", "pt": "Ela passeia pelas ruas estreitas do bairro." },
+        { "level": "C1-C2", "fr": "Se promener dans le Marais, c'est traverser l'histoire de Paris.", "pt": "Passear pelo Marais é atravessar a história de Paris." }
+      ]
+    },
+    {
+      "term": "rue",
+      "definitionPt": "rua",
+      "definitionFr": "Voie bordée de maisons dans une ville.",
+      "inflections": ["la rue", "une rue", "des rues"],
+      "ptTargets": ["rua"],
+      "examples": [
+        { "level": "A1", "fr": "Les rues sont étroites.", "pt": "As ruas são estreitas." },
+        { "level": "A2-B1", "fr": "La rue des Rosiers est très connue.", "pt": "A rue des Rosiers é muito conhecida." },
+        { "level": "B2", "fr": "Les rues du Marais sont pleines de boutiques.", "pt": "As ruas do Marais estão cheias de lojas." },
+        { "level": "C1-C2", "fr": "Chaque rue du Marais raconte une page de l'histoire parisienne.", "pt": "Cada rua do Marais conta uma página da história parisiense." }
+      ]
+    },
+    {
+      "term": "étroit",
+      "definitionPt": "estreito",
+      "definitionFr": "Qui a peu de largeur.",
+      "inflections": ["étroit", "étroite", "étroits", "étroites"],
+      "ptTargets": ["estreito"],
+      "examples": [
+        { "level": "A1", "fr": "La rue est étroite.", "pt": "A rua é estreita." },
+        { "level": "A2-B1", "fr": "Les escaliers sont étroits dans ce quartier.", "pt": "As escadas são estreitas neste bairro." },
+        { "level": "B2", "fr": "Une rue étroite et ancienne mène à la place.", "pt": "Uma rua estreita e antiga leva à praça." },
+        { "level": "C1-C2", "fr": "Les ruelles étroites du Marais conservent un charme médiéval.", "pt": "As vielas estreitas do Marais conservam um charme medieval." }
+      ]
+    },
+    {
+      "term": "ancien",
+      "definitionPt": "antigo, velho",
+      "definitionFr": "Qui existe depuis très longtemps.",
+      "inflections": ["ancien", "ancienne", "anciens", "anciennes"],
+      "ptTargets": ["antigo", "velho"],
+      "examples": [
+        { "level": "A1", "fr": "Les maisons sont anciennes.", "pt": "As casas são antigas." },
+        { "level": "A2-B1", "fr": "Ce quartier a des bâtiments anciens.", "pt": "Este bairro tem prédios antigos." },
+        { "level": "B2", "fr": "Les anciennes maisons du Marais sont magnifiques.", "pt": "As antigas casas do Marais são magníficas." },
+        { "level": "C1-C2", "fr": "Le patrimoine ancien du Marais est soigneusement préservé.", "pt": "O patrimônio antigo do Marais é cuidadosamente preservado." }
+      ]
+    },
+    {
+      "term": "spécialité",
+      "definitionPt": "especialidade",
+      "definitionFr": "Plat ou produit typique d'un lieu.",
+      "inflections": ["la spécialité", "une spécialité", "des spécialités"],
+      "ptTargets": ["especialidade"],
+      "examples": [
+        { "level": "A1", "fr": "Le falafel est une spécialité du quartier.", "pt": "O falafel é uma especialidade do bairro." },
+        { "level": "A2-B1", "fr": "La crêpe est une spécialité bretonne.", "pt": "A crêpe é uma especialidade bretã." },
+        { "level": "B2", "fr": "Chaque région de France a ses spécialités.", "pt": "Cada região da França tem as suas especialidades." },
+        { "level": "C1-C2", "fr": "Les spécialités culinaires locales reflètent l'identité d'un territoire.", "pt": "As especialidades culinárias locais refletem a identidade de um território." }
+      ]
+    },
+    {
+      "term": "boutique",
+      "definitionPt": "loja, butique",
+      "definitionFr": "Petit magasin.",
+      "inflections": ["la boutique", "une boutique", "des boutiques"],
+      "ptTargets": ["loja", "butique"],
+      "examples": [
+        { "level": "A1", "fr": "Andréa essaie une robe dans une boutique.", "pt": "Andréa prova um vestido numa loja." },
+        { "level": "A2-B1", "fr": "La boutique est petite mais jolie.", "pt": "A loja é pequena, mas bonita." },
+        { "level": "B2", "fr": "Ce quartier est plein de boutiques de mode.", "pt": "Este bairro está cheio de lojas de moda." },
+        { "level": "C1-C2", "fr": "Les boutiques du Marais allient tradition et création contemporaine.", "pt": "As lojas do Marais aliam tradição e criação contemporânea." }
+      ]
+    },
+    {
+      "term": "robe",
+      "definitionPt": "vestido",
+      "definitionFr": "Vêtement féminin qui couvre le corps.",
+      "inflections": ["la robe", "une robe", "des robes"],
+      "ptTargets": ["vestido"],
+      "examples": [
+        { "level": "A1", "fr": "Andréa essaie une robe.", "pt": "Andréa prova um vestido." },
+        { "level": "A2-B1", "fr": "La robe est très jolie.", "pt": "O vestido é muito bonito." },
+        { "level": "B2", "fr": "Elle achète une robe pour l'été.", "pt": "Ela compra um vestido para o verão." },
+        { "level": "C1-C2", "fr": "La robe élégante reflète le goût raffiné de celle qui la porte.", "pt": "O vestido elegante reflete o gosto refinado de quem o veste." }
+      ]
+    },
+    {
+      "term": "vendeuse",
+      "definitionPt": "vendedora",
+      "definitionFr": "Femme qui vend dans un magasin.",
+      "inflections": ["la vendeuse", "une vendeuse", "des vendeuses"],
+      "ptTargets": ["vendedora"],
+      "examples": [
+        { "level": "A1", "fr": "La vendeuse est gentille.", "pt": "A vendedora é gentil." },
+        { "level": "A2-B1", "fr": "La vendeuse aide les clients.", "pt": "A vendedora ajuda os clientes." },
+        { "level": "B2", "fr": "La vendeuse recommande les nouvelles robes.", "pt": "A vendedora recomenda os novos vestidos." },
+        { "level": "C1-C2", "fr": "Une vendeuse attentive transforme l'expérience d'achat.", "pt": "Uma vendedora atenciosa transforma a experiência de compra." }
+      ]
+    },
+    {
+      "term": "joli",
+      "definitionPt": "bonito, lindo",
+      "definitionFr": "Qui est agréable à regarder.",
+      "inflections": ["joli", "jolie", "jolis", "jolies"],
+      "ptTargets": ["bonito", "lindo"],
+      "examples": [
+        { "level": "A1", "fr": "La robe est très jolie.", "pt": "O vestido é muito bonito." },
+        { "level": "A2-B1", "fr": "C'est un joli quartier.", "pt": "É um bairro bonito." },
+        { "level": "B2", "fr": "Les jolies boutiques attirent les passants.", "pt": "As lojas bonitas atraem os transeuntes." },
+        { "level": "C1-C2", "fr": "La ville dévoile ses plus jolis coins au fil de la promenade.", "pt": "A cidade revela os seus cantos mais bonitos ao longo do passeio." }
+      ]
+    },
+    {
+      "term": "essayer",
+      "definitionPt": "provar, experimentar",
+      "definitionFr": "Mettre un vêtement pour voir s'il va bien.",
+      "inflections": ["j'essaie", "essayer", "il essaie"],
+      "ptTargets": ["provar", "experimentar"],
+      "examples": [
+        { "level": "A1", "fr": "Andréa essaie une robe.", "pt": "Andréa prova um vestido." },
+        { "level": "A2-B1", "fr": "Je veux essayer ce pantalon.", "pt": "Eu quero provar esta calça." },
+        { "level": "B2", "fr": "Elle essaie plusieurs vêtements avant de choisir.", "pt": "Ela prova várias roupas antes de escolher." },
+        { "level": "C1-C2", "fr": "Essayer un vêtement permet de vérifier sa coupe et son confort.", "pt": "Provar uma roupa permite verificar o corte e o conforto." }
+      ]
+    },
+    {
+      "term": "raconter",
+      "definitionPt": "contar, narrar",
+      "definitionFr": "Dire une histoire ou des événements.",
+      "inflections": ["je raconte", "raconter", "il raconte"],
+      "ptTargets": ["contar", "narrar"],
+      "examples": [
+        { "level": "A1", "fr": "Irlan raconte ses livraisons.", "pt": "Irlan conta as suas entregas." },
+        { "level": "A2-B1", "fr": "Elle raconte son voyage à la maison.", "pt": "Ela conta a sua viagem em casa." },
+        { "level": "B2", "fr": "Il raconte une histoire à sa fille.", "pt": "Ele conta uma história à sua filha." },
+        { "level": "C1-C2", "fr": "Raconter ses souvenirs, c'est partager son histoire avec les autres.", "pt": "Contar as suas memórias é partilhar a sua história com os outros." }
+      ]
+    },
+    {
+      "term": "client",
+      "definitionPt": "cliente",
+      "definitionFr": "Personne qui achète dans un magasin ou un service.",
+      "inflections": ["le client", "un client", "des clients"],
+      "ptTargets": ["cliente"],
+      "examples": [
+        { "level": "A1", "fr": "Les clients sont pressés.", "pt": "Os clientes estão apressados." },
+        { "level": "A2-B1", "fr": "Le client attend son commande.", "pt": "O cliente espera o seu pedido." },
+        { "level": "B2", "fr": "La vendeuse accueille les clients avec le sourire.", "pt": "A vendedora recebe os clientes com um sorriso." },
+        { "level": "C1-C2", "fr": "La satisfaction du client est au cœur du commerce.", "pt": "A satisfação do cliente está no centro do comércio." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "L'accord des adjectifs",
+    "explanationPt": "Os adjetivos concordam em gênero e número com o substantivo: 'étroit' (masc.) → 'étroite' (fem.), 'ancien' → 'ancienne', 'joli' → 'jolie'. Ex.: 'Les rues sont étroites et les maisons sont anciennes.'",
+    "exampleFr": "Les rues sont étroites et les maisons sont anciennes.",
+    "examplePt": "As ruas são estreitas e as casas são antigas.",
+    "practiceQuestion": "Complete com o adjetivo correto: 'La boutique est petite mais _____.'",
+    "options": ["jolie", "joli", "jolies"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "L'accord des adjectifs",
+        "explanationPt": "Regra geral: acrescenta-se -e no feminino e -s no plural. 'joli' → 'jolie' (fem.), 'étroit' → 'étroite', 'étroites' (fem. pl.).",
+        "exampleFr": "La vendeuse est gentille et la robe est jolie.",
+        "examplePt": "A vendedora é gentil e o vestido é bonito.",
+        "practiceQuestion": "Complete: 'Les rues sont _____ (étroit) dans ce quartier.'",
+        "options": ["étroites", "étroits", "étroit"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "Le verbe essayer au présent",
+        "explanationPt": "'Essayer' (provar) muda 'y' para 'i' antes do final mudo: j'essaie, tu essaies, il/elle essaie, nous essayons, vous essayez, ils/elles essaient.",
+        "exampleFr": "Andréa essaie une robe dans une petite boutique.",
+        "examplePt": "Andréa prova um vestido numa pequena loja.",
+        "practiceQuestion": "Complete: 'Je _____ une robe dans la boutique.'",
+        "options": ["essaie", "essayeons", "essai"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Complete a frase do texto: 'Les rues sont _____ et les maisons sont anciennes.'",
+      "options": ["étroites", "grandes", "larges"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'Les rues sont étroites et les maisons sont anciennes.'"
+    },
+    {
+      "question": "Ordene corretamente as palavras da frase: [ essaie / une robe / Andréa / dans / boutique / une petite / ]",
+      "options": [
+        "Andréa essaie une robe dans une petite boutique.",
+        "Une robe essaie Andréa dans une petite boutique.",
+        "Andréa une robe essaie dans une petite boutique."
+      ],
+      "correctIndex": 0,
+      "explanation": "A frase exata do texto é 'Andréa essaie une robe dans une petite boutique.'"
+    },
+    {
+      "question": "Como se traduz: 'A vendedora é gentil'?",
+      "options": [
+        "La vendeuse est gentille.",
+        "La vendeuse est gentil.",
+        "Le vendeuse est gentille."
+      ],
+      "correctIndex": 0,
+      "explanation": "'La vendeuse' (feminino) + 'est' + 'gentille' (feminino de gentil)."
+    },
+    {
+      "question": "Identifique a frase com ERRO de concordância:",
+      "options": [
+        "Les maisons sont anciennes.",
+        "Les rues sont étroits.",
+        "La robe est jolie."
+      ],
+      "correctIndex": 1,
+      "explanation": "O erro é 'Les rues sont étroits': 'rues' é feminino plural, o correto é 'étroites'."
+    },
+    {
+      "question": "O que Irlan conta à noite sobre o Marais?",
+      "options": [
+        "As suas entregas de scooter nas ruas estreitas do bairro",
+        "As suas férias no Brasil",
+        "O seu trabalho no escritório"
+      ],
+      "correctIndex": 0,
+      "explanation": "No texto: 'Irlan raconte ses livraisons dans le Marais : les rues étroites, les escaliers et les clients pressés.'"
+    }
+  ]
+}

@@ -1,0 +1,257 @@
+{
+  "id": "toulouse_lesson_51",
+  "cityId": "toulouse",
+  "domain": "Língua & Cultura",
+  "level": "Intermediário (B2)",
+  "titleFr": "L'occitan : la langue d'oc de Toulouse",
+  "titlePt": "O occitano: a língua d'oc de Toulouse",
+  "subtitleFr": "Découvrir une langue avec EN, le plus-que-parfait et les comparatifs",
+  "subtitlePt": "Descobrir uma língua com EN, o mais-que-perfeito e os comparativos",
+  "summaryPt": "Toulouse é a capital histórica do Occitânia, a terra da língua d'oc. A cruz occitana decora a cidade, e canções e nomes de ruas guardam essa herança. Para Irlan, que fala português e aprende francês, descobrir uma terceira língua é uma emoção. Nesta aula B2, EN e o plus-que-parfait exploram essa memória linguística.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "« Tolosa, c'est le nom occitan de Toulouse, expliqua Andréa. Avant le français, on parlait ici l'occitan, la langue d'oc. » Irlan répéta : « Tolosa. Ça sonne comme le portugais. » Il en était surpris : les langues se ressemblent plus qu'on ne croit.",
+      "pt": "« Tolosa é o nome occitano de Toulouse, explicou Andréa. Antes do francês, falava-se aqui o occitano, a língua d'oc. » Irlan repetiu: « Tolosa. Soa como o português. » Ele estava surpreso: as línguas se parecem mais do que se imagina."
+    },
+    {
+      "id": 2,
+      "fr": "La croix occitane, aux douze pointes, est partout : sur les drapeaux, les murs, les gâteaux. « Elle avait été le symbole des comtes de Toulouse, dit Andréa. Les comtes régnaient sur la région au Moyen Âge. »",
+      "pt": "A cruz occitana, de doze pontas, está em todo lugar: nas bandeiras, nos muros, nos bolos. « Ela tinha sido o símbolo dos condes de Toulouse, disse Andréa. Os condes reinavam na região na Idade Média. »"
+    },
+    {
+      "id": 3,
+      "fr": "Au musée, Irlan découvrit des chansons en occitan. « Écoute : 'Se canto, que cante' , dit Andréa. C'est une chanson que tout le Midi connaît. » Irlan ferma les yeux : la mélodie ressemblait à celles du Brésil.",
+      "pt": "No museu, Irlan descobriu canções em occitano. « Escuta: 'Se canto, que cante', disse Andréa. É uma canção que todo o Midi conhece. » Irlan fechou os olhos: a melodia parecia com as do Brasil."
+    },
+    {
+      "id": 4,
+      "fr": "« L'occitan a presque disparu, puis on l'a réappris, raconta un professeur. Les enfants n'en parlaient plus il y a cent ans. Aujourd'hui, des écoles l'enseignent à nouveau. » Irlan nota quelques mots : « adishatz », « merci ».",
+      "pt": "« O occitano quase desapareceu, e depois foi reaprendido, contou um professor. As crianças não o falavam mais há cem anos. Hoje, escolas o ensinam novamente. » Irlan anotou algumas palavras: « adishatz », « merci ». »"
+    },
+    {
+      "id": 5,
+      "fr": "Le soir, Irlan écrivit : « Je pensais apprendre une langue en venant en France. J'en ai découvert deux : le français et l'occitan. Et j'ai compris que chaque langue est une géographie de l'âme. »",
+      "pt": "À noite, Irlan escreveu: « Pensei aprender uma língua vindo para a França. Descobri duas: o francês e o occitano. E entendi que cada língua é uma geografia da alma. »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "la langue",
+      "definitionPt": "língua, idioma (substantivo feminino)",
+      "definitionFr": "Système de communication d'un peuple.",
+      "inflections": ["la langue", "des langues"],
+      "ptTargets": ["língua", "idioma", "línguas"],
+      "examples": [
+        { "level": "A1", "fr": "La langue française est belle.", "pt": "A língua francesa é bonita." },
+        { "level": "A2-B1", "fr": "Je parle deux langues.", "pt": "Falo duas línguas." },
+        { "level": "B2", "fr": "La langue d'oc était parlée dans tout le Midi.", "pt": "A língua d'oc era falada em todo o Midi." },
+        { "level": "C1-C2", "fr": "Chaque langue est une fenêtre unique sur le monde.", "pt": "Cada língua é uma janela única sobre o mundo." }
+      ]
+    },
+    {
+      "term": "l'occitan",
+      "definitionPt": "occitano (substantivo masculino)",
+      "definitionFr": "Langue romane parlée dans le sud de la France.",
+      "inflections": ["l'occitan"],
+      "ptTargets": ["occitano"],
+      "examples": [
+        { "level": "A1", "fr": "L'occitan est une langue.", "pt": "O occitano é uma língua." },
+        { "level": "A2-B1", "fr": "On parlait occitan à Toulouse.", "pt": "Falava-se occitano em Toulouse." },
+        { "level": "B2", "fr": "L'occitan, la langue d'oc, est proche du catalan et du portugais.", "pt": "O occitano, a língua d'oc, é próximo do catalão e do português." },
+        { "level": "C1-C2", "fr": "L'occitan a nourri la littérature des troubadours du Moyen Âge.", "pt": "O occitano alimentou a literatura dos trovadores da Idade Média." }
+      ]
+    },
+    {
+      "term": "la croix",
+      "definitionPt": "cruz (substantivo feminino)",
+      "definitionFr": "Signe formé de deux lignes croisées.",
+      "inflections": ["la croix", "des croix"],
+      "ptTargets": ["cruz", "cruzes"],
+      "examples": [
+        { "level": "A1", "fr": "La croix est dorée.", "pt": "A cruz é dourada." },
+        { "level": "A2-B1", "fr": "La croix occitane est jolie.", "pt": "A cruz occitana é bonita." },
+        { "level": "B2", "fr": "La croix occitane, aux douze pointes, est partout à Toulouse.", "pt": "A cruz occitana, de doze pontas, está em todo lugar em Toulouse." },
+        { "level": "C1-C2", "fr": "La croix occitane est le blason vivant d'une culture millénaire.", "pt": "A cruz occitana é o brasão vivo de uma cultura milenar." }
+      ]
+    },
+    {
+      "term": "le comte",
+      "definitionPt": "conde (substantivo masculino)",
+      "definitionFr": "Titre de noblesse au Moyen Âge.",
+      "inflections": ["le comte", "des comtes"],
+      "ptTargets": ["conde", "condes"],
+      "examples": [
+        { "level": "A1", "fr": "Le comte est riche.", "pt": "O conde é rico." },
+        { "level": "A2-B1", "fr": "Les comtes vivaient au château.", "pt": "Os condes viviam no castelo." },
+        { "level": "B2", "fr": "La croix avait été le symbole des comtes de Toulouse.", "pt": "A cruz tinha sido o símbolo dos condes de Toulouse." },
+        { "level": "C1-C2", "fr": "Les comtes de Toulouse furent parmi les plus puissants seigneurs du Midi.", "pt": "Os condes de Toulouse estiveram entre os mais poderosos senhores do Midi." }
+      ]
+    },
+    {
+      "term": "le troubadour",
+      "definitionPt": "trovador (substantivo masculino)",
+      "definitionFr": "Poète musicien du Moyen Âge, en langue d'oc.",
+      "inflections": ["le troubadour", "des troubadours"],
+      "ptTargets": ["trovador", "trovadores"],
+      "examples": [
+        { "level": "A1", "fr": "Le troubadour chante.", "pt": "O trovador canta." },
+        { "level": "A2-B1", "fr": "Les troubadours écrivaient en occitan.", "pt": "Os trovadores escreviam em occitano." },
+        { "level": "B2", "fr": "Les troubadours ont inventé l'amour courtois en langue d'oc.", "pt": "Os trovadores inventaram o amor cortês em língua d'oc." },
+        { "level": "C1-C2", "fr": "Le troubadour est l'ancêtre de tous les poètes de l'Europe.", "pt": "O trovador é o ancestral de todos os poetas da Europa." }
+      ]
+    },
+    {
+      "term": "la mélodie",
+      "definitionPt": "melodia (substantivo feminino)",
+      "definitionFr": "Suite de sons musicaux.",
+      "inflections": ["la mélodie", "des mélodies"],
+      "ptTargets": ["melodia", "melodias"],
+      "examples": [
+        { "level": "A1", "fr": "La mélodie est douce.", "pt": "A melodia é suave." },
+        { "level": "A2-B1", "fr": "La mélodie de la chanson est belle.", "pt": "A melodia da canção é bonita." },
+        { "level": "B2", "fr": "La mélodie ressemblait à celles du Brésil.", "pt": "A melodia parecia com as do Brasil." },
+        { "level": "C1-C2", "fr": "La mélodie est la géographie la plus intime d'un peuple.", "pt": "A melodia é a geografia mais íntima de um povo." }
+      ]
+    },
+    {
+      "term": "disparaître",
+      "definitionPt": "desaparecer (verbo)",
+      "definitionFr": "Cesser d'exister, de se voir.",
+      "inflections": ["je disparais", "disparaître", "disparu"],
+      "ptTargets": ["desaparecer", "desaparecido"],
+      "examples": [
+        { "level": "A1", "fr": "Le chat disparaît.", "pt": "O gato desaparece." },
+        { "level": "A2-B1", "fr": "La langue a presque disparu.", "pt": "A língua quase desapareceu." },
+        { "level": "B2", "fr": "L'occitan a presque disparu, puis on l'a réappris.", "pt": "O occitano quase desapareceu, e depois foi reaprendido." },
+        { "level": "C1-C2", "fr": "Une langue qui disparaît emporte avec elle tout un monde.", "pt": "Uma língua que desaparece leva consigo todo um mundo." }
+      ]
+    },
+    {
+      "term": "réapprendre",
+      "definitionPt": "reaprender (verbo)",
+      "definitionFr": "Apprendre de nouveau.",
+      "inflections": ["je réapprends", "réapprendre", "réappris"],
+      "ptTargets": ["reaprender", "reaprendido"],
+      "examples": [
+        { "level": "A1", "fr": "Je réapprends le français.", "pt": "Reaprendo o francês." },
+        { "level": "A2-B1", "fr": "On a réappris l'occitan.", "pt": "Reaprendeu-se o occitano." },
+        { "level": "B2", "fr": "L'occitan a presque disparu, puis on l'a réappris.", "pt": "O occitano quase desapareceu, e depois foi reaprendido." },
+        { "level": "C1-C2", "fr": "Réapprendre une langue, c'est rendre la parole à ses ancêtres.", "pt": "Reaprender uma língua é devolver a palavra aos ancestrais." }
+      ]
+    },
+    {
+      "term": "enseigner",
+      "definitionPt": "ensinar (verbo)",
+      "definitionFr": "Transmettre un savoir.",
+      "inflections": ["j'enseigne", "enseigner", "enseignent"],
+      "ptTargets": ["ensinar", "ensinam"],
+      "examples": [
+        { "level": "A1", "fr": "Le professeur enseigne.", "pt": "O professor ensina." },
+        { "level": "A2-B1", "fr": "Elle enseigne l'occitan.", "pt": "Ela ensina occitano." },
+        { "level": "B2", "fr": "Aujourd'hui, des écoles enseignent l'occitan à nouveau.", "pt": "Hoje, escolas ensinam occitano novamente." },
+        { "level": "C1-C2", "fr": "Enseigner une langue, c'est cultiver un jardin de mémoire.", "pt": "Ensinar uma língua é cultivar um jardim de memória." }
+      ]
+    },
+    {
+      "term": "l'âme",
+      "definitionPt": "alma (substantivo feminino)",
+      "definitionFr": "Principe de vie, essence d'une personne ou d'un lieu.",
+      "inflections": ["l'âme", "des âmes"],
+      "ptTargets": ["alma", "almas"],
+      "examples": [
+        { "level": "A1", "fr": "L'âme est invisible.", "pt": "A alma é invisível." },
+        { "level": "A2-B1", "fr": "La ville a une âme.", "pt": "A cidade tem uma alma." },
+        { "level": "B2", "fr": "Chaque langue est une géographie de l'âme.", "pt": "Cada língua é uma geografia da alma." },
+        { "level": "C1-C2", "fr": "L'âme d'un lieu se lit dans ses mots les plus anciens.", "pt": "A alma de um lugar se lê em suas palavras mais antigas." }
+      ]
+    },
+    {
+      "term": "le blason",
+      "definitionPt": "brasão (substantivo masculino)",
+      "definitionFr": "Emblème d'une famille ou d'une ville.",
+      "inflections": ["le blason", "des blasons"],
+      "ptTargets": ["brasão", "brasões"],
+      "examples": [
+        { "level": "A1", "fr": "Le blason est ancien.", "pt": "O brasão é antigo." },
+        { "level": "A2-B1", "fr": "La ville a un blason.", "pt": "A cidade tem um brasão." },
+        { "level": "B2", "fr": "La croix occitane est le blason de toute l'Occitanie.", "pt": "A cruz occitana é o brasão de toda a Occitânia." },
+        { "level": "C1-C2", "fr": "Le blason raconte en images ce que les livres racontent en mots.", "pt": "O brasão conta em imagens o que os livros contam em palavras." }
+      ]
+    },
+    {
+      "term": "ressembler",
+      "definitionPt": "parecer-se (verbo)",
+      "definitionFr": "Être semblable à.",
+      "inflections": ["je ressemble", "ressembler", "ressemblent"],
+      "ptTargets": ["parecer", "parecem", "parecia"],
+      "examples": [
+        { "level": "A1", "fr": "Tu ressembles à ta mère.", "pt": "Você se parece com sua mãe." },
+        { "level": "A2-B1", "fr": "Les deux langues se ressemblent.", "pt": "As duas línguas se parecem." },
+        { "level": "B2", "fr": "Les langues se ressemblent plus qu'on ne croit.", "pt": "As línguas se parecem mais do que se imagina." },
+        { "level": "C1-C2", "fr": "Se ressembler, c'est partager une même racine sans le savoir.", "pt": "Parecer-se é partilhar uma mesma raiz sem saber." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "EN et le plus-que-parfait dans la langue d'oc",
+    "explanationPt": "EN retoma 'de + coisa': 'il en était surpris' (estava surpreso com isso), 'j'en ai découvert deux' (descobri duas delas). O plus-que-parfait conta o antes: 'la croix avait été le symbole des comtes', 'les enfants n'en parlaient plus il y a cent ans'.",
+    "exampleFr": "Il en était surpris : la croix avait été le symbole des comtes, et il en découvrait l'histoire aujourd'hui.",
+    "examplePt": "Ele estava surpreso: a cruz tinha sido o símbolo dos condes, e ele descobria a história hoje.",
+    "practiceQuestion": "Complete: 'J'en ai _____ deux : le français et l'occitan.'",
+    "options": ["découvert", "découvrir", "découverts"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "EN pour 'de + langue'",
+        "explanationPt": "'Découvrir des langues → en découvrir' / 'Être surpris de quelque chose → en être surpris'.",
+        "exampleFr": "Je pensais apprendre une langue ; j'en ai découvert deux.",
+        "examplePt": "Pensei aprender uma língua; descobri duas.",
+        "practiceQuestion": "Complete: 'Des langues, j'en ai _____ deux ici.'",
+        "options": ["découvert", "découvrir", "découvre"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "Le plus-que-parfait des comtes",
+        "explanationPt": "'La croix avait été le symbole des comtes' : voz passiva no passado do passado.",
+        "exampleFr": "La croix occitane avait été le symbole des comtes de Toulouse.",
+        "examplePt": "A cruz occitana tinha sido o símbolo dos condes de Toulouse.",
+        "practiceQuestion": "Complete: 'La croix avait été le _____ des comtes.'",
+        "options": ["symbole", "symboles", "symboliser"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Complete: 'J'en ai _____ deux : le français et l'occitan.'",
+      "options": ["découvert", "découvrir", "découverts"],
+      "correctIndex": 0,
+      "explanation": "Passé composé: ai + particípio invariável (découvert) + EN."
+    },
+    {
+      "question": "Qual é o nome occitano de Toulouse?",
+      "options": ["Tolosa", "Tolosana", "Toulouso"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'Tolosa, c'est le nom occitan de Toulouse.'"
+    },
+    {
+      "question": "Quantas pontas tem a cruz occitana?",
+      "options": ["Doze", "Oito", "Quatro"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'La croix occitane, aux douze pointes.'"
+    },
+    {
+      "question": "De quem a cruz tinha sido o símbolo?",
+      "options": ["Dos condes de Toulouse", "Dos reis de França", "Dos peregrinos"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'Elle avait été le symbole des comtes de Toulouse.'"
+    },
+    {
+      "question": "O que aconteceu com o occitano?",
+      "options": ["Quase desapareceu e foi reaprendido", "Nunca deixou de ser falado", "Virou língua oficial da França"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'L'occitan a presque disparu, puis on l'a réappris.'"
+    }
+  ]
+}

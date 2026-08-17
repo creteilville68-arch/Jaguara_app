@@ -1,0 +1,257 @@
+{
+  "id": "toulouse_lesson_29",
+  "cityId": "toulouse",
+  "domain": "Ciência & Natureza",
+  "level": "Intermediário (B2)",
+  "titleFr": "Le Muséum de Toulouse : les merveilles de la nature",
+  "titlePt": "O Muséum de Toulouse: as maravilhas da natureza",
+  "subtitleFr": "Décrire la biodiversité avec EN",
+  "subtitlePt": "Descrever a biodiversidade com EN",
+  "summaryPt": "No Muséum de Toulouse, um dos mais antigos da França, a família descobre esqueletos de baleias, coleções de insetos e a história da biodiversidade. Irlan percebe que o museu guarda milhões de espécimes: 'il y en a des millions'. Nesta aula B2, o pronome EN exprime quantidades impressionantes.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Le Muséum de Toulouse, fondé en 1865, abrite des millions de spécimens. Dans la grande galerie, le squelette d'une baleine domine la salle. « Des baleines comme celle-ci, il y en a de moins en moins dans les océans », murmura Irlan.",
+      "pt": "O Muséum de Toulouse, fundado em 1865, abriga milhões de espécimes. Na grande galeria, o esqueleto de uma baleia domina a sala. « Baleias como esta, há cada vez menos delas nos oceanos », murmurou Irlan."
+    },
+    {
+      "id": 2,
+      "fr": "Íris courut vers les collections d'insectes. Des papillons de toutes les couleurs s'alignaient dans les vitrines. « Il y en a des centaines, dit-elle. Et chacun a sa propre histoire ! »",
+      "pt": "Íris correu para as coleções de insetos. Borboletas de todas as cores se alinhavam nas vitrines. « Há centenas delas, disse ela. E cada uma tem sua própria história! »"
+    },
+    {
+      "id": 3,
+      "fr": "Dans la salle des dinosaures, Andréa expliqua à Íris comment les paléontologues reconstituent les squelettes. « Des os, il y en a des milliers, mais on n'en trouve presque jamais de complets. Il faut les imaginer. »",
+      "pt": "Na sala dos dinossauros, Andréa explicou a Íris como os paleontólogos reconstituem os esqueletos. « Ossos, há milhares deles, mas quase nunca se encontram completos. É preciso imaginá-los. »"
+    },
+    {
+      "id": 4,
+      "fr": "Irlan, lui, s'attarda devant les cartes du monde. « Je suis géographe, expliqua-t-il à une visiteuse. Ce musée, c'est un peu ma maison : ici, on comprend pourquoi les espèces vivent ici et pas ailleurs. »",
+      "pt": "Irlan, por sua vez, demorou-se diante dos mapas do mundo. « Sou geógrafo, explicou ele a uma visitante. Este museu é um pouco minha casa: aqui, entende-se por que as espécies vivem aqui e não em outro lugar. »"
+    },
+    {
+      "id": 5,
+      "fr": "Le soir, Irlan nota : « Dans ce musée, j'ai vu la Terre telle qu'elle est : immense, fragile et pleine de surprises. Si j'en avais eu un comme celui-ci dans mon enfance, je serais devenu naturaliste. »",
+      "pt": "À noite, Irlan anotou: « Neste museu, vi a Terra como ela é: imensa, frágil e cheia de surpresas. Se eu tivesse tido um assim na minha infância, teria virado naturalista. »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "le spécimen",
+      "definitionPt": "espécime (substantivo masculino)",
+      "definitionFr": "Exemplaire conservé pour l'étude scientifique.",
+      "inflections": ["le spécimen", "des spécimens"],
+      "ptTargets": ["espécime", "espécimes"],
+      "examples": [
+        { "level": "A1", "fr": "Le spécimen est rare.", "pt": "O espécime é raro." },
+        { "level": "A2-B1", "fr": "Le musée garde des spécimens.", "pt": "O museu guarda espécimes." },
+        { "level": "B2", "fr": "Le Muséum de Toulouse abrite des millions de spécimens.", "pt": "O Muséum de Toulouse abriga milhões de espécimes." },
+        { "level": "C1-C2", "fr": "Les collections de spécimens constituent une mémoire scientifique irremplaçable.", "pt": "As coleções de espécimes constituem uma memória científica insubstituível." }
+      ]
+    },
+    {
+      "term": "le squelette",
+      "definitionPt": "esqueleto (substantivo masculino)",
+      "definitionFr": "Ensemble des os d'un animal.",
+      "inflections": ["le squelette", "des squelettes"],
+      "ptTargets": ["esqueleto", "esqueletos"],
+      "examples": [
+        { "level": "A1", "fr": "Le squelette est blanc.", "pt": "O esqueleto é branco." },
+        { "level": "A2-B1", "fr": "Le squelette de la baleine est énorme.", "pt": "O esqueleto da baleia é enorme." },
+        { "level": "B2", "fr": "Le squelette de la baleine domine la grande galerie du musée.", "pt": "O esqueleto da baleia domina a grande galeria do museu." },
+        { "level": "C1-C2", "fr": "La reconstitution d'un squelette exige une connaissance fine de l'anatomie comparée.", "pt": "A reconstituição de um esqueleto exige um conhecimento fino de anatomia comparada." }
+      ]
+    },
+    {
+      "term": "la baleine",
+      "definitionPt": "baleia (substantivo feminino)",
+      "definitionFr": "Très grand mammifère marin.",
+      "inflections": ["la baleine", "des baleines"],
+      "ptTargets": ["baleia", "baleias"],
+      "examples": [
+        { "level": "A1", "fr": "La baleine est immense.", "pt": "A baleia é imensa." },
+        { "level": "A2-B1", "fr": "La baleine vit dans l'océan.", "pt": "A baleia vive no oceano." },
+        { "level": "B2", "fr": "Des baleines, il y en a de moins en moins dans les océans.", "pt": "Baleias, há cada vez menos delas nos oceanos." },
+        { "level": "C1-C2", "fr": "Les migrations des baleines suivent des corridors marins aujourd'hui menacés.", "pt": "As migrações das baleias seguem corredores marinhos hoje ameaçados." }
+      ]
+    },
+    {
+      "term": "le papillon",
+      "definitionPt": "borboleta (substantivo masculino)",
+      "definitionFr": "Insecte aux ailes colorées.",
+      "inflections": ["le papillon", "des papillons"],
+      "ptTargets": ["borboleta", "borboletas"],
+      "examples": [
+        { "level": "A1", "fr": "Le papillon est coloré.", "pt": "A borboleta é colorida." },
+        { "level": "A2-B1", "fr": "Les papillons volent dans le jardin.", "pt": "As borboletas voam no jardim." },
+        { "level": "B2", "fr": "Des papillons de toutes les couleurs s'alignent dans les vitrines.", "pt": "Borboletas de todas as cores se alinham nas vitrines." },
+        { "level": "C1-C2", "fr": "La diversité des papillons témoigne de la santé des écosystèmes locaux.", "pt": "A diversidade das borboletas testemunha a saúde dos ecossistemas locais." }
+      ]
+    },
+    {
+      "term": "l'insecte",
+      "definitionPt": "inseto (substantivo masculino)",
+      "definitionFr": "Petit animal à six pattes.",
+      "inflections": ["l'insecte", "des insectes"],
+      "ptTargets": ["inseto", "insetos"],
+      "examples": [
+        { "level": "A1", "fr": "L'insecte est petit.", "pt": "O inseto é pequeno." },
+        { "level": "A2-B1", "fr": "Les insectes sont partout.", "pt": "Os insetos estão em toda parte." },
+        { "level": "B2", "fr": "Les collections d'insectes du Muséum comptent des centaines de milliers de pièces.", "pt": "As coleções de insetos do Muséum contam centenas de milhares de peças." },
+        { "level": "C1-C2", "fr": "L'entomologie, science des insectes, est essentielle à la compréhension de la biodiversité.", "pt": "A entomologia, ciência dos insetos, é essencial à compreensão da biodiversidade." }
+      ]
+    },
+    {
+      "term": "le paléontologue",
+      "definitionPt": "paleontólogo (substantivo masculino)",
+      "definitionFr": "Spécialiste des fossiles et des espèces disparues.",
+      "inflections": ["le paléontologue", "des paléontologues"],
+      "ptTargets": ["paleontólogo", "paleontólogos"],
+      "examples": [
+        { "level": "A1", "fr": "Le paléontologue étudie.", "pt": "O paleontólogo estuda." },
+        { "level": "A2-B1", "fr": "Les paléontologues reconstituent les dinosaures.", "pt": "Os paleontólogos reconstituem os dinossauros." },
+        { "level": "B2", "fr": "Les paléontologues reconstituent les squelettes à partir de quelques os.", "pt": "Os paleontólogos reconstituem os esqueletos a partir de poucos ossos." },
+        { "level": "C1-C2", "fr": "Le travail du paléontologue allie terrain, laboratoire et imagination scientifique.", "pt": "O trabalho do paleontólogo alia campo, laboratório e imaginação científica." }
+      ]
+    },
+    {
+      "term": "le dinosaure",
+      "definitionPt": "dinossauro (substantivo masculino)",
+      "definitionFr": "Reptile géant disparu il y a des millions d'années.",
+      "inflections": ["le dinosaure", "des dinosaures"],
+      "ptTargets": ["dinossauro", "dinossauros"],
+      "examples": [
+        { "level": "A1", "fr": "Le dinosaure est énorme.", "pt": "O dinossauro é enorme." },
+        { "level": "A2-B1", "fr": "Íris adore les dinosaures.", "pt": "Íris adora dinossauros." },
+        { "level": "B2", "fr": "Les dinosaures ont disparu il y a 66 millions d'années.", "pt": "Os dinossauros desapareceram há 66 milhões de anos." },
+        { "level": "C1-C2", "fr": "L'extinction des dinosaures continue de fasciner les scientifiques et le public.", "pt": "A extinção dos dinossauros continua a fascinar cientistas e público." }
+      ]
+    },
+    {
+      "term": "l'os",
+      "definitionPt": "osso (substantivo masculino)",
+      "definitionFr": "Pièce dure du squelette.",
+      "inflections": ["l'os", "des os"],
+      "ptTargets": ["osso", "ossos"],
+      "examples": [
+        { "level": "A1", "fr": "L'os est dur.", "pt": "O osso é duro." },
+        { "level": "A2-B1", "fr": "Les os du dinosaure sont vieux.", "pt": "Os ossos do dinossauro são antigos." },
+        { "level": "B2", "fr": "Des os, il y en a des milliers, mais rarement de complets.", "pt": "Ossos, há milhares deles, mas raramente completos." },
+        { "level": "C1-C2", "fr": "Chaque os fossile est une pièce d'un puzzle de plusieurs millions d'années.", "pt": "Cada osso fóssil é uma peça de um quebra-cabeça de milhões de anos." }
+      ]
+    },
+    {
+      "term": "reconstituer",
+      "definitionPt": "reconstituir (verbo)",
+      "definitionFr": "Reconstruire à partir d'éléments épars.",
+      "inflections": ["je reconstitue", "reconstituer"],
+      "ptTargets": ["reconstituir", "reconstituem"],
+      "examples": [
+        { "level": "A1", "fr": "On reconstitue le puzzle.", "pt": "Reconstitui-se o quebra-cabeça." },
+        { "level": "A2-B1", "fr": "Les scientifiques reconstituent le squelette.", "pt": "Os cientistas reconstituem o esqueleto." },
+        { "level": "B2", "fr": "Les paléontologues reconstituent les squelettes à partir de fragments.", "pt": "Os paleontólogos reconstituem os esqueletos a partir de fragmentos." },
+        { "level": "C1-C2", "fr": "Reconstituer une espèce disparue exige de croiser anatomie et génétique.", "pt": "Reconstituir uma espécie extinta exige cruzar anatomia e genética." }
+      ]
+    },
+    {
+      "term": "la biodiversité",
+      "definitionPt": "biodiversidade (substantivo feminino)",
+      "definitionFr": "Diversité des êtres vivants sur Terre.",
+      "inflections": ["la biodiversité"],
+      "ptTargets": ["biodiversidade"],
+      "examples": [
+        { "level": "A1", "fr": "La nature est riche.", "pt": "A natureza é rica." },
+        { "level": "A2-B1", "fr": "Le musée explique la biodiversité.", "pt": "O museu explica a biodiversidade." },
+        { "level": "B2", "fr": "La biodiversité est menacée par les activités humaines.", "pt": "A biodiversidade é ameaçada pelas atividades humanas." },
+        { "level": "C1-C2", "fr": "La préservation de la biodiversité est devenue un enjeu politique mondial.", "pt": "A preservação da biodiversidade tornou-se uma questão política mundial." }
+      ]
+    },
+    {
+      "term": "le naturaliste",
+      "definitionPt": "naturalista (substantivo masculino)",
+      "definitionFr": "Spécialiste qui étudie la nature.",
+      "inflections": ["le naturaliste", "des naturalistes"],
+      "ptTargets": ["naturalista", "naturalistas"],
+      "examples": [
+        { "level": "A1", "fr": "Le naturaliste observe.", "pt": "O naturalista observa." },
+        { "level": "A2-B1", "fr": "Les naturalistes collectionnent les espèces.", "pt": "Os naturalistas colecionam as espécies." },
+        { "level": "B2", "fr": "Si j'en avais eu un dans mon enfance, je serais devenu naturaliste.", "pt": "Se eu tivesse tido um na minha infância, teria virado naturalista." },
+        { "level": "C1-C2", "fr": "Les naturalistes du XIXe siècle ont fondé les grands muséums européens.", "pt": "Os naturalistas do século XIX fundaram os grandes museus europeus." }
+      ]
+    },
+    {
+      "term": "la vitrine",
+      "definitionPt": "vitrine, vitral de exposição (substantivo feminino)",
+      "definitionFr": "Armoire vitrée d'exposition.",
+      "inflections": ["la vitrine", "des vitrines"],
+      "ptTargets": ["vitrine", "vitrines"],
+      "examples": [
+        { "level": "A1", "fr": "La vitrine est propre.", "pt": "A vitrine é limpa." },
+        { "level": "A2-B1", "fr": "Les papillons sont dans les vitrines.", "pt": "As borboletas estão nas vitrines." },
+        { "level": "B2", "fr": "Des papillons de toutes les couleurs s'alignaient dans les vitrines.", "pt": "Borboletas de todas as cores se alinhavam nas vitrines." },
+        { "level": "C1-C2", "fr": "Les vitrines muséales protègent les spécimens tout en les rendant visibles.", "pt": "As vitrines de museu protegem os espécimes ao mesmo tempo que os tornam visíveis." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "EN pour les quantités impressionnantes",
+    "explanationPt": "EN + quantidade para falar de coleções: 'Il y en a des millions', 'il y en a des centaines', 'on n'en trouve presque jamais de complets'.",
+    "exampleFr": "Des spécimens ? Il y en a des millions dans ce musée.",
+    "examplePt": "Espécimes? Há milhões deles neste museu.",
+    "practiceQuestion": "Complete: 'Des papillons ? Il _____ a des centaines.'",
+    "options": ["y en", "en y", "en"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "EN avec les quantités approximatives",
+        "explanationPt": "Des millions, des centaines, des milliers + EN: 'Des os, il y en a des milliers, mais on n'en trouve jamais de complets.'",
+        "exampleFr": "Des os de dinosaure ? Il y en a des milliers, mais rarement de complets.",
+        "examplePt": "Ossos de dinossauro? Há milhares deles, mas raramente completos.",
+        "practiceQuestion": "Complete: 'Des squelettes ? On n'_____ trouve jamais de complets.'",
+        "options": ["en", "y", "le"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "Si + plus-que-parfait → conditionnel passé",
+        "explanationPt": "Desejo retrospectivo: 'Si j'en avais eu un dans mon enfance, je serais devenu naturaliste.'",
+        "exampleFr": "Si j'avais eu ce musée dans mon enfance, je serais devenu naturaliste.",
+        "examplePt": "Se eu tivesse tido este museu na minha infância, teria virado naturalista.",
+        "practiceQuestion": "Complete: 'Si j'avais su, je _____ devenu naturaliste.'",
+        "options": ["serais", "suis", "serai"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Complete: 'Des spécimens ? Il _____ a des millions.'",
+      "options": ["y en", "en y", "en"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'Le Muséum de Toulouse, fondé en 1865, abrite des millions de spécimens.'"
+    },
+    {
+      "question": "Em que ano o Muséum foi fundado?",
+      "options": ["1865", "1795", "1900"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'Le Muséum de Toulouse, fondé en 1865.'"
+    },
+    {
+      "question": "O que domina a grande galeria do museu?",
+      "options": ["O esqueleto de uma baleia", "Um meteorito", "Uma estátua romana"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'le squelette d'une baleine domine la salle.'"
+    },
+    {
+      "question": "O que Andréa explicou sobre os ossos de dinossauro?",
+      "options": ["Há milhares, mas quase nunca completos", "São todos falsos", "Foram encontrados em Toulouse"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'Des os, il y en a des milliers, mais on n'en trouve presque jamais de complets.'"
+    },
+    {
+      "question": "O que Irlan teria se tornado se tivesse tido um museu assim na infância?",
+      "options": ["Naturalista", "Astronauta", "Chef de cozinha"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'je serais devenu naturaliste.'"
+    }
+  ]
+}

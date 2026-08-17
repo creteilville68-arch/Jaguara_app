@@ -1,0 +1,252 @@
+{
+  "id": "lille_lesson_23",
+  "cityId": "lille",
+  "domain": "Cotidiano",
+  "level": "Básico (A2)",
+  "titleFr": "Le dimanche au parc Jean-Baptiste Lebas",
+  "titlePt": "O domingo no parque Jean-Baptiste Lebas",
+  "subtitleFr": "La grande fontaine, les familles et la douceur du dimanche",
+  "subtitlePt": "A grande fonte, as famílias e a doçura do domingo",
+  "summaryPt": "Nesta Aula 23 (A2), a família passa a tarde no parque Jean-Baptiste Lebas, perto do centro de Lille, com sua grande fonte e as famílias que se encontram aos domingos. Irlan olha o parque e pensa na vida. O aluno revisa o Passé Composé (avoir e être) e os verbos de movimento.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Dimanche après-midi, nous sommes allés au parc Jean-Baptiste Lebas. La grande fontaine brillait au soleil. « C'est le parc préféré des familles du quartier », a dit Andréa.",
+      "pt": "Domingo à tarde, fomos ao parque Jean-Baptiste Lebas. A grande fonte brilhava ao sol. « É o parque preferido das famílias do bairro », disse Andréa."
+    },
+    {
+      "id": 2,
+      "fr": "Íris a couru vers les jets d'eau. Irlan et Andréa se sont assis sur un banc. « Regarde toutes ces familles », a murmuré Irlan. « Elles sont heureuses, simplement. »",
+      "pt": "Íris correu até os jatos d'água. Irlan e Andréa se sentaram num banco. « Olha todas essas famílias », murmurou Irlan. « Elas são felizes, simplesmente. »"
+    },
+    {
+      "id": 3,
+      "fr": "« Quand je suis arrivé en France, je n'avais pas de dimanche », a dit Irlan. « Je livrais même le dimanche. Aujourd'hui, j'ai un dimanche avec ma famille. »",
+      "pt": "« Quando cheguei à França, eu não tinha domingo », disse Irlan. « Entregava até aos domingos. Hoje, tenho um domingo com minha família. »"
+    },
+    {
+      "id": 4,
+      "fr": "Avant de partir, ils ont acheté une glace au kiosque. « Le dimanche au parc, c'est notre petit bonheur », a souri Andréa. « Et il est gratuit ! »",
+      "pt": "Antes de ir embora, compraram um sorvete no quiosque. « Domingo no parque é a nossa pequena felicidade », sorriu Andréa. « E é gratuito! »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "le parc",
+      "definitionPt": "o parque",
+      "definitionFr": "Espace vert public.",
+      "inflections": ["le parc", "un parc", "des parcs"],
+      "ptTargets": ["parque"],
+      "examples": [
+        { "level": "A1", "fr": "Le parc est joli.", "pt": "O parque é bonito." },
+        { "level": "A2-B1", "fr": "Le parc Jean-Baptiste Lebas est près du centre.", "pt": "O parque Jean-Baptiste Lebas fica perto do centro." },
+        { "level": "B2", "fr": "Le parc est un espace de vie au cœur de la ville.", "pt": "O parque é um espaço de vida no coração da cidade." },
+        { "level": "C1-C2", "fr": "Le parc, avec sa fontaine, est le salon à ciel ouvert des Lillois.", "pt": "O parque, com sua fonte, é a sala a céu aberto dos lilenos." }
+      ]
+    },
+    {
+      "term": "la fontaine",
+      "definitionPt": "a fonte",
+      "definitionFr": "Bassin d'eau décoratif.",
+      "inflections": ["la fontaine", "une fontaine", "des fontaines"],
+      "ptTargets": ["fonte"],
+      "examples": [
+        { "level": "A1", "fr": "La fontaine est belle.", "pt": "A fonte é bonita." },
+        { "level": "A2-B1", "fr": "La grande fontaine brille au soleil.", "pt": "A grande fonte brilha ao sol." },
+        { "level": "B2", "fr": "Les enfants jouent autour de la fontaine.", "pt": "As crianças brincam em volta da fonte." },
+        { "level": "C1-C2", "fr": "Le bruit de la fontaine apaise les promeneurs du dimanche.", "pt": "O som da fonte acalma os caminhantes de domingo." }
+      ]
+    },
+    {
+      "term": "le banc",
+      "definitionPt": "o banco (de praça)",
+      "definitionFr": "Siège public, souvent en bois.",
+      "inflections": ["le banc", "un banc", "des bancs"],
+      "ptTargets": ["banco"],
+      "examples": [
+        { "level": "A1", "fr": "Le banc est en bois.", "pt": "O banco é de madeira." },
+        { "level": "A2-B1", "fr": "Ils se sont assis sur un banc.", "pt": "Eles se sentaram num banco." },
+        { "level": "B2", "fr": "Les bancs du parc racontent des conversations sans fin.", "pt": "Os bancos do parque contam conversas sem fim." },
+        { "level": "C1-C2", "fr": "Un banc de parc, c'est un théâtre où se joue la vie des autres.", "pt": "Um banco de parque é um teatro onde se encena a vida dos outros." }
+      ]
+    },
+    {
+      "term": "s'asseoir",
+      "definitionPt": "sentar-se",
+      "definitionFr": "Se mettre sur un siège.",
+      "inflections": ["je m'assois", "nous nous assoyons", "assis"],
+      "ptTargets": ["sentar-se"],
+      "examples": [
+        { "level": "A1", "fr": "Je m'assois sur le banc.", "pt": "Sento-me no banco." },
+        { "level": "A2-B1", "fr": "Ils se sont assis près de la fontaine.", "pt": "Eles se sentaram perto da fonte." },
+        { "level": "B2", "fr": "Elle s'est assise à l'ombre d'un arbre.", "pt": "Ela se sentou à sombra de uma árvore." },
+        { "level": "C1-C2", "fr": "S'asseoir et regarder les gens, c'est lire la ville.", "pt": "Sentar-se e observar as pessoas é ler a cidade." }
+      ]
+    },
+    {
+      "term": "le jet d'eau",
+      "definitionPt": "o jato d'água",
+      "definitionFr": "Eau projetée en l'air.",
+      "inflections": ["le jet d'eau", "un jet d'eau", "des jets d'eau"],
+      "ptTargets": ["jato d'água"],
+      "examples": [
+        { "level": "A1", "fr": "Le jet d'eau est haut.", "pt": "O jato d'água é alto." },
+        { "level": "A2-B1", "fr": "Íris a couru vers les jets d'eau.", "pt": "Íris correu até os jatos d'água." },
+        { "level": "B2", "fr": "Les jets d'eau dansent au rythme de la musique.", "pt": "Os jatos d'água dançam ao ritmo da música." },
+        { "level": "C1-C2", "fr": "Les jets d'eau du parc rafraîchissent les étés lillois.", "pt": "Os jatos d'água do parque refrescam os verões lilenos." }
+      ]
+    },
+    {
+      "term": "la glace",
+      "definitionPt": "o sorvete",
+      "definitionFr": "Dessert froid et sucré.",
+      "inflections": ["la glace", "une glace", "des glaces"],
+      "ptTargets": ["sorvete", "gelado"],
+      "examples": [
+        { "level": "A1", "fr": "J'aime la glace à la fraise.", "pt": "Gosto de sorvete de morango." },
+        { "level": "A2-B1", "fr": "Ils ont acheté une glace au kiosque.", "pt": "Compraram um sorvete no quiosque." },
+        { "level": "B2", "fr": "Les glaces du kiosque sont faites maison.", "pt": "Os sorvetes do quiosque são caseiros." },
+        { "level": "C1-C2", "fr": "Une glace au soleil du dimanche, c'est le goût de l'enfance qui revient.", "pt": "Um sorvete ao sol de domingo é o gosto da infância que volta." }
+      ]
+    },
+    {
+      "term": "le kiosque",
+      "definitionPt": "o quiosque",
+      "definitionFr": "Petite boutique en plein air.",
+      "inflections": ["le kiosque", "un kiosque", "des kiosques"],
+      "ptTargets": ["quiosque"],
+      "examples": [
+        { "level": "A1", "fr": "Le kiosque vend des journaux.", "pt": "O quiosque vende jornais." },
+        { "level": "A2-B1", "fr": "Le kiosque du parc vend des glaces.", "pt": "O quiosque do parque vende sorvetes." },
+        { "level": "B2", "fr": "Le kiosque à musique a été restauré l'année dernière.", "pt": "O coreto foi restaurado no ano passado." },
+        { "level": "C1-C2", "fr": "Les kiosques, vestiges d'un autre temps, égayent encore les parcs.", "pt": "Os quiosques, vestígios de outro tempo, ainda alegram os parques." }
+      ]
+    },
+    {
+      "term": "le bonheur",
+      "definitionPt": "a felicidade",
+      "definitionFr": "Grande joie, état heureux.",
+      "inflections": ["le bonheur", "un bonheur", "des bonheurs"],
+      "ptTargets": ["felicidade"],
+      "examples": [
+        { "level": "A1", "fr": "Le bonheur est important.", "pt": "A felicidade é importante." },
+        { "level": "A2-B1", "fr": "Le dimanche au parc, c'est notre petit bonheur.", "pt": "Domingo no parque é a nossa pequena felicidade." },
+        { "level": "B2", "fr": "Elle a trouvé le bonheur dans les choses simples.", "pt": "Ela encontrou a felicidade nas coisas simples." },
+        { "level": "C1-C2", "fr": "Le bonheur n'habite pas les grandes villes, mais les petits dimanches.", "pt": "A felicidade não mora nas grandes cidades, mas nos pequenos domingos." }
+      ]
+    },
+    {
+      "term": "s'installer",
+      "definitionPt": "instalar-se, estabelecer-se",
+      "definitionFr": "S'établir dans un lieu.",
+      "inflections": ["je m'installe", "nous nous installons", "installé"],
+      "ptTargets": ["instalar-se", "estabelecer-se"],
+      "examples": [
+        { "level": "A1", "fr": "Je m'installe à Lille.", "pt": "Instalo-me em Lille." },
+        { "level": "A2-B1", "fr": "La famille s'est installée dans le Nord.", "pt": "A família se estabeleceu no Norte." },
+        { "level": "B2", "fr": "Ils se sont installés près du parc, pour les enfants.", "pt": "Eles se instalaram perto do parque, por causa das crianças." },
+        { "level": "C1-C2", "fr": "S'installer quelque part, c'est accepter d'y laisser des racines.", "pt": "Instalar-se em algum lugar é aceitar deixar raízes." }
+      ]
+    },
+    {
+      "term": "la famille",
+      "definitionPt": "a família",
+      "definitionFr": "Groupe de personnes liées par le sang ou l'amour.",
+      "inflections": ["la famille", "une famille", "des familles"],
+      "ptTargets": ["família"],
+      "examples": [
+        { "level": "A1", "fr": "Ma famille est grande.", "pt": "Minha família é grande." },
+        { "level": "A2-B1", "fr": "Les familles du quartier viennent au parc.", "pt": "As famílias do bairro vêm ao parque." },
+        { "level": "B2", "fr": "La famille d'Irlan s'est agrandie en France.", "pt": "A família de Irlan cresceu na França." },
+        { "level": "C1-C2", "fr": "La famille est le port où l'on revient après chaque tempête.", "pt": "A família é o porto onde se volta depois de cada tempestade." }
+      ]
+    },
+    {
+      "term": "se reposer",
+      "definitionPt": "descansar",
+      "definitionFr": "Se détendre, reprendre des forces.",
+      "inflections": ["je me repose", "nous nous reposons", "reposé"],
+      "ptTargets": ["descansar"],
+      "examples": [
+        { "level": "A1", "fr": "Je me repose le dimanche.", "pt": "Descanso no domingo." },
+        { "level": "A2-B1", "fr": "Le dimanche, toute la famille se repose.", "pt": "No domingo, toda a família descansa." },
+        { "level": "B2", "fr": "Après la semaine, ils se sont reposés au parc.", "pt": "Depois da semana, eles descansaram no parque." },
+        { "level": "C1-C2", "fr": "Se reposer, c'est donner au corps le temps de dire merci.", "pt": "Descansar é dar ao corpo tempo de dizer obrigado." }
+      ]
+    },
+    {
+      "term": "le soleil",
+      "definitionPt": "o sol",
+      "definitionFr": "Étoile qui éclaire la Terre.",
+      "inflections": ["le soleil", "un soleil", "des soleils"],
+      "ptTargets": ["sol"],
+      "examples": [
+        { "level": "A1", "fr": "Le soleil brille.", "pt": "O sol brilha." },
+        { "level": "A2-B1", "fr": "La fontaine brille au soleil.", "pt": "A fonte brilha ao sol." },
+        { "level": "B2", "fr": "Un rayon de soleil suffit à illuminer un dimanche du Nord.", "pt": "Um raio de sol basta para iluminar um domingo do Norte." },
+        { "level": "C1-C2", "fr": "Dans le Nord, le soleil est une visite rare que l'on accueille avec joie.", "pt": "No Norte, o sol é uma visita rara que se recebe com alegria." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Récapitulatif : le Passé Composé avec avoir et être",
+    "explanationPt": "Revisão final do A2: com AVOIR ('nous avons acheté', 'j'ai livré'), com ÊTRE ('nous sommes allés', 'je suis arrivé'), e pronominais com ÊTRE ('ils se sont assis', 'nous nous sommes reposés').",
+    "exampleFr": "Nous sommes allés au parc, nous avons acheté une glace et nous nous sommes assis sur un banc.",
+    "examplePt": "Fomos ao parque, compramos um sorvete e nos sentamos num banco.",
+    "practiceQuestion": "Complete: « Ils se sont ___ sur un banc. »",
+    "options": ["assis", "assirent", "assoient"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "Le contraste : hier livreur, aujourd'hui père",
+        "explanationPt": "Irlan contrasta passado e presente: 'quand je suis arrivé en France, je livrais même le dimanche' (quando cheguei à França, entregava até domingo) e 'aujourd'hui, j'ai un dimanche avec ma famille' (hoje, tenho um domingo com minha família).",
+        "exampleFr": "Quand je suis arrivé, je travaillais tous les jours. Aujourd'hui, je me repose avec les miens.",
+        "examplePt": "Quando cheguei, trabalhava todos os dias. Hoje, descanso com os meus.",
+        "practiceQuestion": "Qual palavra introduz o passado?",
+        "options": ["quand", "aujourd'hui", "demain"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "Les verbes de mouvement au parc : courir, s'asseoir, partir",
+        "explanationPt": "No parque: 'Íris a couru' (Íris correu — avoir), 'ils se sont assis' (sentaram-se — pronominal/être), 'nous sommes partis' (partimos — être).",
+        "exampleFr": "Íris a couru, nous sommes restés, puis nous sommes partis.",
+        "examplePt": "Íris correu, nós ficamos, depois partimos.",
+        "practiceQuestion": "Complete: « Nous sommes ___ du parc. »",
+        "options": ["partis", "parti", "parties"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Onde a família passou o domingo?",
+      "options": ["No parc Jean-Baptiste Lebas", "Na gare Lille Europe", "No zoo da Citadelle"],
+      "correctIndex": 0,
+      "explanation": "A família passou a tarde no parc Jean-Baptiste Lebas, perto do centro de Lille."
+    },
+    {
+      "question": "Complete: « Ils se sont ___ sur un banc. »",
+      "options": ["assis", "asseyés", "assoient"],
+      "correctIndex": 0,
+      "explanation": "O particípio passado de 's'asseoir' é 'assis'."
+    },
+    {
+      "question": "Qual frase usa o auxiliar correto?",
+      "options": ["Nous sommes allés au parc.", "Nous avons allés au parc.", "Nous sommes acheté une glace."],
+      "correctIndex": 0,
+      "explanation": "'Aller' usa ÊTRE ('sommes allés'); 'acheter' usa AVOIR ('avons acheté')."
+    },
+    {
+      "question": "O que Irlan disse sobre seus domingos quando chegou à França?",
+      "options": ["Ele não tinha domingo: entregava até domingo", "Ele dormia o dia todo", "Ele passeava todo dia"],
+      "correctIndex": 0,
+      "explanation": "Quando chegou, Irlan era livreur e trabalhava até aos domingos."
+    },
+    {
+      "question": "O que a família comprou no kiosque?",
+      "options": ["Uma glace (sorvete)", "Um jornal", "Uma écharpe"],
+      "correctIndex": 0,
+      "explanation": "Antes de ir embora, a família comprou sorvetes no quiosque do parque."
+    }
+  ]
+}

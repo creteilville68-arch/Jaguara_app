@@ -1,0 +1,237 @@
+{
+  "id": "bordeaux_lesson_32",
+  "cityId": "bordeaux",
+  "domain": "Natureza e esporte",
+  "level": "Intermediário (B1+)",
+  "titleFr": "Une journée à Lacanau : la leçon de surf",
+  "titlePt": "Um dia em Lacanau: a aula de surfe",
+  "subtitleFr": "En attrapant la vague, on attrape aussi le courage",
+  "subtitlePt": "Pegando a onda, pega-se também a coragem",
+  "summaryPt": "Nesta Aula 32 (B1+), a família passa um dia em Lacanau, a capital do surfe da costa atlântica, e Íris tem sua primeira aula. O aluno pratica o vocabulário do mar e do esporte (la vague, la planche, la plage) e o gérondif com os pronomes.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "« Lacanau est à quarante-cinq minutes de Bordeaux », a dit Irlan. « C'est le paradis du surf sur la côte atlantique. » La famille est arrivée sur la grande plage. « Regardez les vagues ! Elles sont énormes ! » a crié Iris.",
+      "pt": "« Lacanau fica a quarenta e cinco minutos de Bordeaux », disse Irlan. « É o paraíso do surfe na costa atlântica. » A família chegou à grande praia. « Olhem as ondas! São enormes! » gritou Íris."
+    },
+    {
+      "id": 2,
+      "fr": "Un moniteur a donné la première leçon. « Il faut allonger la planche sur l'eau, puis attendre la vague. En la sentant arriver, on se lève doucement. » Iris a écouté très sérieusement. « Je peux l'essayer tout de suite ? »",
+      "pt": "Um instrutor deu a primeira aula. « É preciso deitar a prancha na água e depois esperar a onda. Sentindo-a chegar, levanta-se devagar. » Íris escutou muito séria. « Posso experimentar agora mesmo? »"
+    },
+    {
+      "id": 3,
+      "fr": "Iris est tombée plusieurs fois, mais elle se relevait en riant. « En tombant, on apprend ! » criait-elle. « Tu la veux, cette vague ? » demandait le moniteur. « Oui, je la prends ! » Et, miracle, elle a glissé quelques mètres debout sur l'eau.",
+      "pt": "Íris caiu várias vezes, mas se levantava rindo. « Caindo, aprende-se! » gritava. « Você quer esta onda? » perguntava o instrutor. « Sim, eu a pego! » E, milagre, ela deslizou alguns metros em pé sobre a água."
+    },
+    {
+      "id": 4,
+      "fr": "Sur la plage, Andréa a ouvert le pique-nique. « En regardant Iris surfer, j'ai eu un peu peur », a-t-elle avoué. « Mais en la voyant heureuse, j'étais fière. » Irlan a souri : « Elle a le courage de son père… et l'équilibre de sa mère. »",
+      "pt": "Na praia, Andréa abriu o piquenique. « Vendo Íris surfar, fiquei com um pouco de medo », confessou. « Mas vendo-a feliz, fiquei orgulhosa. » Irlan sorriu: « Ela tem a coragem do pai… e o equilíbrio da mãe. »"
+    },
+    {
+      "id": 5,
+      "fr": "Le soir, au coucher du soleil, Iris a dit : « Le surf, c'est comme le français. On tombe, on se relève, et un jour, on glisse. » Irlan l'a prise dans ses bras : « Tu viens de faire la plus belle phrase de ta vie. »",
+      "pt": "À noite, no pôr do sol, Íris disse: « O surfe é como o francês. Cai-se, levanta-se, e um dia, desliza-se. » Irlan a abraçou: « Você acabou de fazer a frase mais bonita da sua vida. »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "la vague",
+      "definitionPt": "a onda",
+      "definitionFr": "Grande mouvement de la mer.",
+      "inflections": ["la vague", "une vague", "des vagues"],
+      "ptTargets": ["onda"],
+      "examples": [
+        { "level": "A1", "fr": "La vague est haute.", "pt": "A onda é alta." },
+        { "level": "A2-B1", "fr": "Les vagues de Lacanau sont célèbres.", "pt": "As ondas de Lacanau são famosas." },
+        { "level": "B1", "fr": "La vague que l'on attend arrive enfin.", "pt": "A onda que se espera finalmente chega." },
+        { "level": "C1-C2", "fr": "La vague, page de la mer, s'écrit et s'efface en une seconde.", "pt": "A onda, página do mar, escreve-se e apaga-se num segundo." }
+      ]
+    },
+    {
+      "term": "la planche",
+      "definitionPt": "a prancha",
+      "definitionFr": "Planche de surf.",
+      "inflections": ["la planche", "une planche", "des planches"],
+      "ptTargets": ["prancha"],
+      "examples": [
+        { "level": "A1", "fr": "La planche est légère.", "pt": "A prancha é leve." },
+        { "level": "A2-B1", "fr": "On allonge la planche sur l'eau.", "pt": "Deita-se a prancha na água." },
+        { "level": "B1", "fr": "La planche que l'on porte est plus lourde qu'elle en a l'air.", "pt": "A prancha que se carrega é mais pesada do que parece." },
+        { "level": "C1-C2", "fr": "La planche, alliée de bois, porte le rêve d'un homme sur la mer.", "pt": "A prancha, aliada de madeira, carrega o sonho de um homem sobre o mar." }
+      ]
+    },
+    {
+      "term": "la plage",
+      "definitionPt": "a praia",
+      "definitionFr": "Bord de mer avec du sable.",
+      "inflections": ["la plage", "une plage", "des plages"],
+      "ptTargets": ["praia"],
+      "examples": [
+        { "level": "A1", "fr": "La plage est grande.", "pt": "A praia é grande." },
+        { "level": "A2-B1", "fr": "La plage de Lacanau est immense.", "pt": "A praia de Lacanau é imensa." },
+        { "level": "B1", "fr": "La plage où l'on apprend à surfer est douce.", "pt": "A praia onde se aprende a surfar é suave." },
+        { "level": "C1-C2", "fr": "La plage, frontière de sable, réunit la terre, la mer et les rêves.", "pt": "A praia, fronteira de areia, reúne a terra, o mar e os sonhos." }
+      ]
+    },
+    {
+      "term": "le surf",
+      "definitionPt": "o surfe",
+      "definitionFr": "Sport où l'on glisse sur les vagues.",
+      "inflections": ["le surf", "un cours de surf"],
+      "ptTargets": ["surfe", "surf"],
+      "examples": [
+        { "level": "A1", "fr": "Le surf est amusant.", "pt": "O surfe é divertido." },
+        { "level": "A2-B1", "fr": "Lacanau est connue pour le surf.", "pt": "Lacanau é conhecida pelo surfe." },
+        { "level": "B1", "fr": "Le surf, que l'on apprend ici, demande du courage.", "pt": "O surfe, que se aprende aqui, exige coragem." },
+        { "level": "C1-C2", "fr": "Le surf, danse avec la mer, enseigne l'humilité devant la force de l'eau.", "pt": "O surfe, dança com o mar, ensina a humildade diante da força da água." }
+      ]
+    },
+    {
+      "term": "le moniteur",
+      "definitionPt": "o instrutor",
+      "definitionFr": "Personne qui enseigne un sport.",
+      "inflections": ["le moniteur", "un moniteur", "des moniteurs"],
+      "ptTargets": ["instrutor"],
+      "examples": [
+        { "level": "A1", "fr": "Le moniteur explique.", "pt": "O instrutor explica." },
+        { "level": "A2-B1", "fr": "Le moniteur a donné la première leçon.", "pt": "O instrutor deu a primeira aula." },
+        { "level": "B1", "fr": "Le moniteur avec qui l'on surfe est patient.", "pt": "O instrutor com quem se surfa é paciente." },
+        { "level": "C1-C2", "fr": "Le moniteur, passeur de courage, apprend aux autres à ne pas craindre l'eau.", "pt": "O instrutor, passador de coragem, ensina os outros a não temer a água." }
+      ]
+    },
+    {
+      "term": "se lever",
+      "definitionPt": "levantar-se",
+      "definitionFr": "Se mettre debout.",
+      "inflections": ["je me lève", "tu te lèves", "il se lève", "nous nous levons"],
+      "ptTargets": ["levantar-se", "se levantar"],
+      "examples": [
+        { "level": "A1", "fr": "Je me lève le matin.", "pt": "Eu me levanto de manhã." },
+        { "level": "A2-B1", "fr": "On se lève doucement sur la planche.", "pt": "Levanta-se devagar na prancha." },
+        { "level": "B1", "fr": "La vague sur laquelle l'on se lève est puissante.", "pt": "A onda sobre a qual se levanta é poderosa." },
+        { "level": "C1-C2", "fr": "Se lever, geste du surfeur, choisit le bon moment entre l'effort et l'abandon.", "pt": "Levantar-se, gesto do surfista, escolhe o momento certo entre o esforço e a desistência." }
+      ]
+    },
+    {
+      "term": "tomber",
+      "definitionPt": "cair",
+      "definitionFr": "Perdre l'équilibre.",
+      "inflections": ["je tombe", "tu tombes", "il tombe", "nous tombons"],
+      "ptTargets": ["cair"],
+      "examples": [
+        { "level": "A1", "fr": "Je tombe dans l'eau.", "pt": "Eu caio na água." },
+        { "level": "A2-B1", "fr": "Iris est tombée plusieurs fois.", "pt": "Íris caiu várias vezes." },
+        { "level": "B1", "fr": "Les vagues sur lesquelles l'on tombe sont froides.", "pt": "As ondas nas quais se cai são frias." },
+        { "level": "C1-C2", "fr": "Tomber, leçon du surfeur, n'est jamais une fin, seulement un début.", "pt": "Cair, lição do surfista, nunca é um fim, apenas um começo." }
+      ]
+    },
+    {
+      "term": "se relever",
+      "definitionPt": "levantar-se de novo",
+      "definitionFr": "Se remettre debout après une chute.",
+      "inflections": ["je me relève", "tu te relèves", "il se relève", "nous nous relevons"],
+      "ptTargets": ["levantar-se de novo", "se reerguer"],
+      "examples": [
+        { "level": "A1", "fr": "Je me relève vite.", "pt": "Eu me levanto rápido." },
+        { "level": "A2-B1", "fr": "Iris se relevait en riant.", "pt": "Íris se levantava rindo." },
+        { "level": "B1", "fr": "Celui qui se relève toujours apprend plus vite.", "pt": "Quem sempre se levanta aprende mais rápido." },
+        { "level": "C1-C2", "fr": "Se relever, geste d'espoir, transforme chaque chute en victoire.", "pt": "Levantar-se de novo, gesto de esperança, transforma cada queda em vitória." }
+      ]
+    },
+    {
+      "term": "glisser",
+      "definitionPt": "deslizar",
+      "definitionFr": "Avancer sans effort sur une surface.",
+      "inflections": ["je glisse", "tu glisses", "il glisse", "nous glissons"],
+      "ptTargets": ["deslizar"],
+      "examples": [
+        { "level": "A1", "fr": "La planche glisse.", "pt": "A prancha desliza." },
+        { "level": "A2-B1", "fr": "Iris a glissé sur l'eau.", "pt": "Íris deslizou sobre a água." },
+        { "level": "B1", "fr": "Les surfeurs que l'on regarde glissent avec grâce.", "pt": "Os surfistas que se olham deslizam com graça." },
+        { "level": "C1-C2", "fr": "Glisser, art de la mer, rend léger tout ce qui se donne à la vague.", "pt": "Deslizar, arte do mar, torna leve tudo o que se entrega à onda." }
+      ]
+    },
+    {
+      "term": "le courage",
+      "definitionPt": "a coragem",
+      "definitionFr": "Force devant le danger.",
+      "inflections": ["le courage", "du courage"],
+      "ptTargets": ["coragem"],
+      "examples": [
+        { "level": "A1", "fr": "Le courage est fort.", "pt": "A coragem é forte." },
+        { "level": "A2-B1", "fr": "Il faut du courage pour surfer.", "pt": "É preciso coragem para surfar." },
+        { "level": "B1", "fr": "Le courage que l'on montre inspire les autres.", "pt": "A coragem que se mostra inspira os outros." },
+        { "level": "C1-C2", "fr": "Le courage, feu intérieur, brille plus dans les moments difficiles.", "pt": "A coragem, fogo interior, brilha mais nos momentos difíceis." }
+      ]
+    },
+    {
+      "term": "l'équilibre",
+      "definitionPt": "o equilíbrio",
+      "definitionFr": "Capacité de rester stable.",
+      "inflections": ["l'équilibre", "un équilibre", "des équilibres"],
+      "ptTargets": ["equilíbrio"],
+      "examples": [
+        { "level": "A1", "fr": "L'équilibre est important.", "pt": "O equilíbrio é importante." },
+        { "level": "A2-B1", "fr": "Le surf demande de l'équilibre.", "pt": "O surfe exige equilíbrio." },
+        { "level": "B1", "fr": "L'équilibre que l'on trouve sur l'eau vient avec le temps.", "pt": "O equilíbrio que se encontra na água vem com o tempo." },
+        { "level": "C1-C2", "fr": "L'équilibre, danse silencieuse, tient entre deux forces contraires.", "pt": "O equilíbrio, dança silenciosa, sustenta-se entre duas forças contrárias." }
+      ]
+    },
+    {
+      "term": "fier",
+      "definitionPt": "orgulhoso",
+      "definitionFr": "Content de quelqu'un ou de soi.",
+      "inflections": ["fier", "fière", "fiers", "fières"],
+      "ptTargets": ["orgulhoso"],
+      "examples": [
+        { "level": "A1", "fr": "Je suis fier de toi.", "pt": "Eu estou orgulhoso de você." },
+        { "level": "A2-B1", "fr": "Andréa était fière de sa fille.", "pt": "Andréa estava orgulhosa da filha." },
+        { "level": "B1", "fr": "Les parents, fiers de leur enfant, applaudissaient.", "pt": "Os pais, orgulhosos da filha, aplaudiam." },
+        { "level": "C1-C2", "fr": "Fier, sentiment qui grandit, récompense les efforts sans faire de bruit.", "pt": "Orgulhoso, sentimento que cresce, recompensa os esforços sem fazer barulho." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "titleFr": "Le gérondif pour les leçons de vie",
+    "titlePt": "O gerúndio para as lições de vida",
+    "points": [
+      {
+        "fr": "« En tombant, on apprend », « En la voyant heureuse, j'étais fière » : le gérondif (en + participe présent) exprime la circonstance.",
+        "pt": "« En tombant, on apprend » (Caindo, aprende-se), « En la voyant heureuse, j'étais fière » (Vendo-a feliz, eu estava orgulhosa): o gerúndio (en + particípio presente) expressa a circunstância."
+      },
+      {
+        "fr": "Avec un pronom, le pronom se place avant le participe : « en la sentant arriver », « en la voyant ».",
+        "pt": "Com pronome, o pronome vem antes do particípio: « en la sentant arriver » (sentindo-a chegar), « en la voyant » (vendo-a)."
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Onde fica Lacanau ?",
+      "options": ["A 45 minutos de Bordeaux", "Em Paris", "Na montanha", "No deserto"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Pelo que Lacanau é conhecida ?",
+      "options": ["Pelo surfe", "Pelo vinho", "Pelo queijo", "Pelas flores"],
+      "correctIndex": 0
+    },
+    {
+      "question": "O que se faz quando a onda chega, segundo o instrutor ?",
+      "options": ["Levanta-se devagar", "Fecha os olhos", "Senta-se", "Nada para longe"],
+      "correctIndex": 0
+    },
+    {
+      "question": "O que Iris disse que o surfe tem em comum com o francês ?",
+      "options": ["Cai-se, levanta-se e um dia desliza-se", "É preciso estudar muito", "É muito caro", "É só para crianças"],
+      "correctIndex": 0
+    },
+    {
+      "question": "O que Andréa sentiu ao ver Iris surfar ?",
+      "options": ["Um pouco de medo e depois orgulho", "Raiva", "Tédio", "Sono"],
+      "correctIndex": 0
+    }
+  ]
+}

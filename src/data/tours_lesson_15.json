@@ -1,0 +1,237 @@
+{
+  "id": "tours_lesson_15",
+  "cityId": "tours",
+  "domain": "Vida Cotidiana",
+  "level": "Intermediário (B1)",
+  "titleFr": "Le tramway : la ville qui roule en silence",
+  "titlePt": "O bonde: a cidade que rola em silêncio",
+  "subtitleFr": "Depuis 2013, le tramway traverse Tours de part en part",
+  "subtitlePt": "Desde 2013, o bonde atravessa Tours de ponta a ponta",
+  "summaryPt": "Nesta Aula 15 (B1), a família descobre o tramway de Tours, que voltou à cidade em 2013 após 60 anos de ausência. O aluno pratica o vocabulário do transporte (le tramway, la station, le ticket, valider), as expressões de direção (prendre la ligne, descendre à) e o futur simple.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "« Nous prendrons le tramway pour traverser la ville », a dit Irlan. « Il est revenu en 2013, après soixante ans d'absence. Les Tourangeaux l'ont accueilli avec joie. »",
+      "pt": "« Pegaremos o bonde para atravessar a cidade », disse Irlan. « Ele voltou em 2013, após sessenta anos de ausência. Os tourangeaux o receberam com alegria. »"
+    },
+    {
+      "id": 2,
+      "fr": "À la station, Iris a regardé le tramway arriver sans bruit. « Il est silencieux, papa ! » « Oui, c'est un tramway électrique moderne. Il ne pollue pas. »",
+      "pt": "Na estação, Íris viu o bonde chegar sem barulho. « Ele é silencioso, papai! » « Sim, é um bonde elétrico moderno. Não polui. »"
+    },
+    {
+      "id": 3,
+      "fr": "La famille est montée et s'est assise près de la fenêtre. « Il faut valider son ticket avant de monter », a expliqué Andréa. « Le contrôleur vérifie de temps en temps. »",
+      "pt": "A família subiu e sentou perto da janela. « É preciso validar o bilhete antes de subir », explicou Andréa. « O fiscal verifica de vez em quando. »"
+    },
+    {
+      "id": 4,
+      "fr": "Le tramway glissait entre les places, les jardins et les maisons anciennes. « Quand j'étais livreur, je connaissais Paris par les rues », a dit Irlan. « Ici, je découvre Tours par les rails. »",
+      "pt": "O bonde deslizava entre praças, jardins e casas antigas. « Quando eu era entregador, eu conhecia Paris pelas ruas », disse Irlan. « Aqui, descubro Tours pelos trilhos. »"
+    },
+    {
+      "id": 5,
+      "fr": "« Nous descendrons à la prochaine station pour visiter le jardin botanique », a annoncé Irlan. Iris a souri : « Le tramway, c'est comme un train qui connaît tous les secrets de la ville ! »",
+      "pt": "« Desceremos na próxima estação para visitar o jardim botânico », anunciou Irlan. Íris sorriu: « O bonde é como um trem que conhece todos os segredos da cidade! »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "le tramway",
+      "definitionPt": "o bonde, o trem leve",
+      "definitionFr": "Train léger qui circule dans la ville.",
+      "inflections": ["le tramway", "un tramway", "des tramways"],
+      "ptTargets": ["bonde", "trem leve"],
+      "examples": [
+        { "level": "A1", "fr": "Le tramway est moderne.", "pt": "O bonde é moderno." },
+        { "level": "A2-B1", "fr": "Le tramway traverse toute la ville.", "pt": "O bonde atravessa toda a cidade." },
+        { "level": "B1", "fr": "Le tramway que nous avons pris est silencieux.", "pt": "O bonde que pegamos é silencioso." },
+        { "level": "C1-C2", "fr": "Le tramway, serpent de verre, coud la ville de rails lumineux.", "pt": "O bonde, serpente de vidro, costura a cidade com trilhos luminosos." }
+      ]
+    },
+    {
+      "term": "la station",
+      "definitionPt": "a estação, o ponto",
+      "definitionFr": "Endroit où s'arrête le tramway.",
+      "inflections": ["la station", "une station", "des stations"],
+      "ptTargets": ["estação", "ponto"],
+      "examples": [
+        { "level": "A1", "fr": "La station est proche.", "pt": "A estação é perto." },
+        { "level": "A2-B1", "fr": "On descend à la prochaine station.", "pt": "Descemos na próxima estação." },
+        { "level": "B1", "fr": "La station où nous sommes montés est moderne.", "pt": "A estação onde subimos é moderna." },
+        { "level": "C1-C2", "fr": "La station, porte roulante, avale et recrache les passagers du jour.", "pt": "A estação, porta rolante, engole e cospe os passageiros do dia." }
+      ]
+    },
+    {
+      "term": "le ticket",
+      "definitionPt": "o bilhete",
+      "definitionFr": "Petit billet pour les transports.",
+      "inflections": ["le ticket", "un ticket", "des tickets"],
+      "ptTargets": ["bilhete"],
+      "examples": [
+        { "level": "A1", "fr": "Le ticket est petit.", "pt": "O bilhete é pequeno." },
+        { "level": "A2-B1", "fr": "Il faut acheter un ticket avant de monter.", "pt": "É preciso comprar um bilhete antes de subir." },
+        { "level": "B1", "fr": "Le ticket que j'ai validé est valable une heure.", "pt": "O bilhete que validei é válido por uma hora." },
+        { "level": "C1-C2", "fr": "Le ticket, sésame de papier, ouvre la ville à ceux qui le gardent.", "pt": "O bilhete, sésamo de papel, abre a cidade a quem o guarda." }
+      ]
+    },
+    {
+      "term": "valider",
+      "definitionPt": "validar, carimbar",
+      "definitionFr": "Faire marquer un ticket pour le rendre valable.",
+      "inflections": ["je valide", "tu valides", "il valide", "nous validons"],
+      "ptTargets": ["validar", "carimbar"],
+      "examples": [
+        { "level": "A1", "fr": "Je valide mon ticket.", "pt": "Eu valido meu bilhete." },
+        { "level": "A2-B1", "fr": "Il faut valider son ticket avant de monter.", "pt": "É preciso validar o bilhete antes de subir." },
+        { "level": "B1", "fr": "Le voyageur qui n'a pas validé paie une amende.", "pt": "O viajante que não validou paga multa." },
+        { "level": "C1-C2", "fr": "Valider son ticket, geste minuscule, est un contrat avec la ville.", "pt": "Validar o bilhete, gesto minúsculo, é um contrato com a cidade." }
+      ]
+    },
+    {
+      "term": "le contrôleur",
+      "definitionPt": "o fiscal",
+      "definitionFr": "Personne qui vérifie les tickets.",
+      "inflections": ["le contrôleur", "un contrôleur", "des contrôleurs"],
+      "ptTargets": ["fiscal", "inspetor"],
+      "examples": [
+        { "level": "A1", "fr": "Le contrôleur arrive.", "pt": "O fiscal chega." },
+        { "level": "A2-B1", "fr": "Le contrôleur vérifie les tickets.", "pt": "O fiscal verifica os bilhetes." },
+        { "level": "B1", "fr": "Le contrôleur que nous avons vu était poli.", "pt": "O fiscal que vimos foi educado." },
+        { "level": "C1-C2", "fr": "Le contrôleur, mémoire des règles, rappelle que rien n'est gratuit.", "pt": "O fiscal, memória das regras, lembra que nada é grátis." }
+      ]
+    },
+    {
+      "term": "descendre",
+      "definitionPt": "descer",
+      "definitionFr": "Aller en bas ; sortir d'un transport.",
+      "inflections": ["je descends", "tu descends", "il descend", "nous descendons"],
+      "ptTargets": ["descer"],
+      "examples": [
+        { "level": "A1", "fr": "Je descends du tramway.", "pt": "Eu desço do bonde." },
+        { "level": "A2-B1", "fr": "Nous descendrons à la prochaine station.", "pt": "Desceremos na próxima estação." },
+        { "level": "B1", "fr": "La station où nous descendons est près du jardin.", "pt": "A estação onde descemos é perto do jardim." },
+        { "level": "C1-C2", "fr": "Descendre d'un tramway, c'est entrer dans un autre décor.", "pt": "Descer de um bonde é entrar em outro cenário." }
+      ]
+    },
+    {
+      "term": "le rail",
+      "definitionPt": "o trilho",
+      "definitionFr": "Chemin d'acier sur lequel roule le tramway.",
+      "inflections": ["le rail", "un rail", "des rails"],
+      "ptTargets": ["trilho"],
+      "examples": [
+        { "level": "A1", "fr": "Le rail est en métal.", "pt": "O trilho é de metal." },
+        { "level": "A2-B1", "fr": "Le tramway roule sur les rails.", "pt": "O bonde roda nos trilhos." },
+        { "level": "B1", "fr": "Les rails qui traversent la ville brillent au soleil.", "pt": "Os trilhos que atravessam a cidade brilham ao sol." },
+        { "level": "C1-C2", "fr": "Le rail, ligne de vie, écrit la ville en caractères d'acier.", "pt": "O trilho, linha de vida, escreve a cidade em caracteres de aço." }
+      ]
+    },
+    {
+      "term": "silencieux",
+      "definitionPt": "silencioso",
+      "definitionFr": "Qui ne fait pas de bruit.",
+      "inflections": ["silencieux", "silencieuse", "silencieux", "silencieuses"],
+      "ptTargets": ["silencioso"],
+      "examples": [
+        { "level": "A1", "fr": "Le tramway est silencieux.", "pt": "O bonde é silencioso." },
+        { "level": "A2-B1", "fr": "La rue est silencieuse le matin.", "pt": "A rua é silenciosa de manhã." },
+        { "level": "B1", "fr": "Le tramway moderne est plus silencieux que l'autobus.", "pt": "O bonde moderno é mais silencioso que o ônibus." },
+        { "level": "C1-C2", "fr": "Silencieux, le tramway glisse comme un rêve sur les rails.", "pt": "Silencioso, o bonde desliza como um sonho sobre os trilhos." }
+      ]
+    },
+    {
+      "term": "polluer",
+      "definitionPt": "poluir",
+      "definitionFr": "Salir l'environnement.",
+      "inflections": ["je pollue", "tu pollues", "il pollue", "nous polluons"],
+      "ptTargets": ["poluir"],
+      "examples": [
+        { "level": "A1", "fr": "Les voitures polluent.", "pt": "Os carros poluem." },
+        { "level": "A2-B1", "fr": "Le tramway électrique ne pollue pas.", "pt": "O bonde elétrico não polui." },
+        { "level": "B1", "fr": "La ville qui veut moins polluer choisit le tramway.", "pt": "A cidade que quer poluir menos escolhe o bonde." },
+        { "level": "C1-C2", "fr": "Polluer, c'est emprunter l'air de demain sans le rendre.", "pt": "Poluir é emprestar o ar de amanhã sem devolvê-lo." }
+      ]
+    },
+    {
+      "term": "l'absence",
+      "definitionPt": "a ausência",
+      "definitionFr": "Fait de ne pas être là.",
+      "inflections": ["l'absence", "une absence", "des absences"],
+      "ptTargets": ["ausência"],
+      "examples": [
+        { "level": "A1", "fr": "L'absence est triste.", "pt": "A ausência é triste." },
+        { "level": "A2-B1", "fr": "Le tramway a été absent pendant soixante ans.", "pt": "O bonde ficou ausente por sessenta anos." },
+        { "level": "B1", "fr": "L'absence dont on parle a duré longtemps.", "pt": "A ausência de que se fala durou muito." },
+        { "level": "C1-C2", "fr": "L'absence, vide sonore, rend le retour plus précieux.", "pt": "A ausência, vazio sonoro, torna o retorno mais precioso." }
+      ]
+    },
+    {
+      "term": "accueillir",
+      "definitionPt": "receber, acolher",
+      "definitionFr": "Recevoir quelqu'un avec plaisir.",
+      "inflections": ["j'accueille", "tu accueilles", "il accueille", "nous accueillons"],
+      "ptTargets": ["receber", "acolher"],
+      "examples": [
+        { "level": "A1", "fr": "J'accueille mes amis.", "pt": "Eu recebo meus amigos." },
+        { "level": "A2-B1", "fr": "Les Tourangeaux ont accueilli le tramway avec joie.", "pt": "Os tourangeaux receberam o bonde com alegria." },
+        { "level": "B1", "fr": "La ville qui accueille le tramway change de visage.", "pt": "A cidade que recebe o bonde muda de rosto." },
+        { "level": "C1-C2", "fr": "Accueillir, c'est ouvrir ses bras au changement.", "pt": "Acolher é abrir os braços à mudança." }
+      ]
+    },
+    {
+      "term": "le jardin",
+      "definitionPt": "o jardim",
+      "definitionFr": "Terrain planté de fleurs et d'arbres.",
+      "inflections": ["le jardin", "un jardin", "des jardins"],
+      "ptTargets": ["jardim"],
+      "examples": [
+        { "level": "A1", "fr": "Le jardin est vert.", "pt": "O jardim é verde." },
+        { "level": "A2-B1", "fr": "Le tramway passe près du jardin botanique.", "pt": "O bonde passa perto do jardim botânico." },
+        { "level": "B1", "fr": "Le jardin où nous irons est plein de fleurs.", "pt": "O jardim onde iremos está cheio de flores." },
+        { "level": "C1-C2", "fr": "Le jardin, poumon de la ville, respire à la place des pierres.", "pt": "O jardim, pulmão da cidade, respira no lugar das pedras." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "titleFr": "Le futur simple des verbes irréguliers",
+    "titlePt": "O futur simple dos verbos irregulares",
+    "points": [
+      {
+        "fr": "Le futur simple des verbes irréguliers : « prendre → nous prendrons », « aller → nous irons », « voir → nous verrons », « venir → nous viendrons », « descendre → nous descendrons ».",
+        "pt": "O futur simple dos verbos irregulares: « prendre → nous prendrons » (pegaremos), « aller → nous irons » (iremos), « voir → nous verrons » (veremos), « venir → nous viendrons » (viremos), « descendre → nous descendrons » (desceremos)."
+      },
+      {
+        "fr": "Les verbes de transport : « monter dans, descendre à, prendre la ligne, valider son ticket ». Exemple : « Nous montons dans le tramway, nous descendons au jardin. »",
+        "pt": "Os verbos de transporte: « monter dans » (subir em), « descendre à » (descer em), « prendre la ligne » (pegar a linha), « valider son ticket » (validar o bilhete). Exemplo: « Subimos no bonde, descemos no jardim. »"
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "En quelle année le tramway est-il revenu à Tours ?",
+      "options": ["2013", "1900", "1950", "2000"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Combien de temps le tramway a-t-il été absent ?",
+      "options": ["Soixante ans", "Dix ans", "Un an", "Deux siècles"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Qu'est-ce qu'il faut faire avant de monter ?",
+      "options": ["Valider son ticket", "Dormir", "Chanter", "Manger"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Où la famille descend-elle ?",
+      "options": ["Au jardin botanique", "À la gare", "Au château", "Au restaurant"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Pourquoi le tramway est-il bon pour la ville ?",
+      "options": ["Il ne pollue pas", "Il est très rapide", "Il est gratuit", "Il est ancien"],
+      "correctIndex": 0
+    }
+  ]
+}

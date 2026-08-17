@@ -1,0 +1,257 @@
+{
+  "id": "lyon_lesson_50",
+  "cityId": "lyon",
+  "domain": "Bairros & Caminhos",
+  "level": "Intermediário (B2+)",
+  "titleFr": "La montée de la Grande Côte : l'escalier de la Croix-Rousse",
+  "titlePt": "A montée de la Grande Côte: a escadaria da Croix-Rousse",
+  "subtitleFr": "Exprimer l'hypothèse : les trois conditionnels en montant",
+  "subtitlePt": "Exprimir a hipótese: os três condicionais subindo",
+  "summaryPt": "A montée de la Grande Côte é uma rua-escadaria que sobe do centro até a Croix-Rousse, com 220 degraus e jardins escondidos. Nesta aula B2+, a família sobe a pé e pratica os três condicionais: presente, passado e as hipóteses do caminho.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "« Si nous prenions le funiculaire, nous arriverions en deux minutes », plaisanta Irlan. Mais Andréa avait choisi la montée de la Grande Côte : deux cent vingt marches, des jardins secrets, et des vues sur les toits.",
+      "pt": "« Se pegássemos o funicular, chegaríamos em dois minutos », brincou Irlan. Mas Andréa tinha escolhido a montée de la Grande Côte: duzentos e vinte degraus, jardins secretos e vistas sobre os telhados."
+    },
+    {
+      "id": 2,
+      "fr": "À mi-chemin, un jardin caché s'ouvrit entre les immeubles. « Si j'avais su qu'il y avait un jardin ici, j'aurais apporté un livre », dit Irlan. Íris, elle, courait déjà vers les balançoires.",
+      "pt": "No meio do caminho, um jardim escondido se abriu entre os prédios. « Se eu tivesse sabido que havia um jardim aqui, teria trazido um livro », disse Irlan. Íris, ela, já corria para os balanços."
+    },
+    {
+      "id": 3,
+      "fr": "Un habitant arrosait ses tomates. « Si vous montez souvent, vous verrez le quartier changer au fil des saisons », dit-il. Irlan demanda s'il vivait ici depuis longtemps.",
+      "pt": "Um morador regava seus tomates. « Se vocês subirem com frequência, verão o bairro mudar ao longo das estações », disse ele. Irlan perguntou se ele vivia ali há muito tempo."
+    },
+    {
+      "id": 4,
+      "fr": "L'habitant répondit qu'il habitait là depuis quarante ans et qu'il ne quitterait jamais sa montée. « Si je partais, je perdrais mon jardin et mes voisins », conclut-il en souriant.",
+      "pt": "O morador respondeu que morava ali há quarenta anos e que nunca deixaria sua ladeira. « Se eu fosse embora, perderia meu jardim e meus vizinhos », concluiu ele sorrindo."
+    },
+    {
+      "id": 5,
+      "fr": "En haut, la Croix-Rousse s'ouvrit sur le ciel. Irlan écrivit : « Si je n'étais pas venu en France, je n'aurais jamais connu ces marches. Mais je suis venu. Et chaque marche m'a rapproché d'un chez-moi. »",
+      "pt": "Lá em cima, a Croix-Rousse se abriu para o céu. Irlan escreveu: « Se eu não tivesse vindo para a França, nunca teria conhecido esses degraus. Mas vim. E cada degrau me aproximou de um lar. »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "la montée",
+      "definitionPt": "ladeira, subida",
+      "definitionFr": "Rue en pente.",
+      "inflections": ["la montée", "des montées"],
+      "ptTargets": ["ladeira", "subida", "ladeiras"],
+      "examples": [
+        { "level": "A1", "fr": "La montée est raide.", "pt": "A ladeira é íngreme." },
+        { "level": "A2-B1", "fr": "La montée de la Grande Côte est célèbre.", "pt": "A montée de la Grande Côte é famosa." },
+        { "level": "B1-B2", "fr": "La montée, bordée de jardins, relie le centre à la Croix-Rousse.", "pt": "A ladeira, cercada de jardins, liga o centro à Croix-Rousse." },
+        { "level": "C1-C2", "fr": "C'est la montée qui offre la ville en récompense.", "pt": "É a ladeira que oferece a cidade como recompensa." }
+      ]
+    },
+    {
+      "term": "la marche",
+      "definitionPt": "degrau",
+      "definitionFr": "Chacun des degrés d'un escalier.",
+      "inflections": ["la marche", "des marches"],
+      "ptTargets": ["degrau", "degraus"],
+      "examples": [
+        { "level": "A1", "fr": "La marche est haute.", "pt": "O degrau é alto." },
+        { "level": "A2-B1", "fr": "La montée a deux cent vingt marches.", "pt": "A ladeira tem duzentos e vinte degraus." },
+        { "level": "B1-B2", "fr": "Les marches, usées par les pas, racontent des siècles de vie.", "pt": "Os degraus, desgastados pelos passos, contam séculos de vida." },
+        { "level": "C1-C2", "fr": "C'est la marche qui rythme la montée vers la lumière.", "pt": "É o degrau que marca o ritmo da subida rumo à luz." }
+      ]
+    },
+    {
+      "term": "le jardin",
+      "definitionPt": "jardim",
+      "definitionFr": "Espace planté de fleurs et de plantes.",
+      "inflections": ["le jardin", "des jardins"],
+      "ptTargets": ["jardim", "jardins"],
+      "examples": [
+        { "level": "A1", "fr": "Le jardin est vert.", "pt": "O jardim é verde." },
+        { "level": "A2-B1", "fr": "Un jardin caché s'ouvre entre les immeubles.", "pt": "Um jardim escondido se abre entre os prédios." },
+        { "level": "B1-B2", "fr": "Les jardins, secrets et fleuris, surprennent les promeneurs.", "pt": "Os jardins, secretos e floridos, surpreendem os passeantes." },
+        { "level": "C1-C2", "fr": "C'est le jardin qui rend la ville respirable.", "pt": "É o jardim que torna a cidade respirável." }
+      ]
+    },
+    {
+      "term": "le voisin",
+      "definitionPt": "vizinho",
+      "definitionFr": "Personne qui habite à côté.",
+      "inflections": ["le voisin", "des voisins"],
+      "ptTargets": ["vizinho", "vizinhos"],
+      "examples": [
+        { "level": "A1", "fr": "Le voisin est gentil.", "pt": "O vizinho é gentil." },
+        { "level": "A2-B1", "fr": "Les voisins se saluent sur la montée.", "pt": "Os vizinhos se cumprimentam na ladeira." },
+        { "level": "B1-B2", "fr": "Les voisins, réunis dans le jardin, partagent le soleil.", "pt": "Os vizinhos, reunidos no jardim, compartilham o sol." },
+        { "level": "C1-C2", "fr": "C'est le voisin qui fait le village au cœur de la ville.", "pt": "É o vizinho que faz o vilarejo no coração da cidade." }
+      ]
+    },
+    {
+      "term": "arroser",
+      "definitionPt": "regar",
+      "definitionFr": "Verser de l'eau sur les plantes.",
+      "inflections": ["j'arrose", "arroser", "arrosé"],
+      "ptTargets": ["regar", "regava", "regado"],
+      "examples": [
+        { "level": "A1", "fr": "J'arrose les fleurs.", "pt": "Eu rego as flores." },
+        { "level": "A2-B1", "fr": "Un habitant arrose ses tomates.", "pt": "Um morador rega seus tomates." },
+        { "level": "B1-B2", "fr": "Arroser le soir, c'est respecter le rythme des plantes.", "pt": "Regar à noite é respeitar o ritmo das plantas." },
+        { "level": "C1-C2", "fr": "C'est en arrosant que l'on apprend la patience.", "pt": "É regando que se aprende a paciência." }
+      ]
+    },
+    {
+      "term": "grimper",
+      "definitionPt": "escalar, subir",
+      "definitionFr": "Monter avec effort.",
+      "inflections": ["je grimpe", "grimper", "grimpé"],
+      "ptTargets": ["escalar", "subir", "escalada"],
+      "examples": [
+        { "level": "A1", "fr": "Je grimpe la colline.", "pt": "Eu subo a colina." },
+        { "level": "A2-B1", "fr": "Grimper la montée demande du souffle.", "pt": "Subir a ladeira exige fôlego." },
+        { "level": "B1-B2", "fr": "Grimper les deux cent vingt marches, c'est gagner le ciel de la ville.", "pt": "Subir os duzentos e vinte degraus é ganhar o céu da cidade." },
+        { "level": "C1-C2", "fr": "C'est en grimpant que l'on mérite la vue.", "pt": "É escalando que se merece a vista." }
+      ]
+    },
+    {
+      "term": "la balançoire",
+      "definitionPt": "balanço",
+      "definitionFr": "Siège suspendu pour se balancer.",
+      "inflections": ["la balançoire", "des balançoires"],
+      "ptTargets": ["balanço", "balanços"],
+      "examples": [
+        { "level": "A1", "fr": "La balançoire est amusante.", "pt": "O balanço é divertido." },
+        { "level": "A2-B1", "fr": "Íris court vers les balançoires.", "pt": "Íris corre para os balanços." },
+        { "level": "B1-B2", "fr": "Les balançoires, installées dans le jardin, accueillent les enfants.", "pt": "Os balanços, instalados no jardim, recebem as crianças." },
+        { "level": "C1-C2", "fr": "C'est la balançoire qui garde les rires des enfants.", "pt": "É o balanço que guarda os risos das crianças." }
+      ]
+    },
+    {
+      "term": "le toit",
+      "definitionPt": "telhado",
+      "definitionFr": "Partie supérieure d'un bâtiment.",
+      "inflections": ["le toit", "des toits"],
+      "ptTargets": ["telhado", "telhados"],
+      "examples": [
+        { "level": "A1", "fr": "Le toit est rouge.", "pt": "O telhado é vermelho." },
+        { "level": "A2-B1", "fr": "La vue s'ouvre sur les toits.", "pt": "A vista se abre sobre os telhados." },
+        { "level": "B1-B2", "fr": "Les toits, enchevêtrés, forment un paysage unique.", "pt": "Os telhados, entrelaçados, formam uma paisagem única." },
+        { "level": "C1-C2", "fr": "C'est le toit qui dessine la silhouette de la ville.", "pt": "É o telhado que desenha a silhueta da cidade." }
+      ]
+    },
+    {
+      "term": "la saison",
+      "definitionPt": "estação (do ano)",
+      "definitionFr": "Chacune des quatre périodes de l'année.",
+      "inflections": ["la saison", "des saisons"],
+      "ptTargets": ["estação", "estações"],
+      "examples": [
+        { "level": "A1", "fr": "La saison change.", "pt": "A estação muda." },
+        { "level": "A2-B1", "fr": "Le quartier change au fil des saisons.", "pt": "O bairro muda ao longo das estações." },
+        { "level": "B1-B2", "fr": "Les saisons, rythmées, transforment le jardin.", "pt": "As estações, ritmadas, transformam o jardim." },
+        { "level": "C1-C2", "fr": "C'est la saison qui donne son humeur à la ville.", "pt": "É a estação que dá seu humor à cidade." }
+      ]
+    },
+    {
+      "term": "à mi-chemin",
+      "definitionPt": "no meio do caminho",
+      "definitionFr": "Au milieu du trajet.",
+      "inflections": ["à mi-chemin"],
+      "ptTargets": ["no meio do caminho"],
+      "examples": [
+        { "level": "A1", "fr": "On s'arrête à mi-chemin.", "pt": "Paramos no meio do caminho." },
+        { "level": "A2-B1", "fr": "À mi-chemin, un jardin apparaît.", "pt": "No meio do caminho, um jardim aparece." },
+        { "level": "B1-B2", "fr": "À mi-chemin, la fatigue laisse place à la curiosité.", "pt": "No meio do caminho, o cansaço dá lugar à curiosidade." },
+        { "level": "C1-C2", "fr": "C'est à mi-chemin que l'on comprend le sens de la montée.", "pt": "É no meio do caminho que se compreende o sentido da subida." }
+      ]
+    },
+    {
+      "term": "l'habitant",
+      "definitionPt": "morador",
+      "definitionFr": "Personne qui habite un lieu.",
+      "inflections": ["l'habitant", "des habitants"],
+      "ptTargets": ["morador", "moradores"],
+      "examples": [
+        { "level": "A1", "fr": "L'habitant travaille.", "pt": "O morador trabalha." },
+        { "level": "A2-B1", "fr": "Un habitant arrose ses tomates.", "pt": "Um morador rega seus tomates." },
+        { "level": "B1-B2", "fr": "Les habitants, fiers de leur montée, la racontent aux visiteurs.", "pt": "Os moradores, orgulhosos de sua ladeira, a contam aos visitantes." },
+        { "level": "C1-C2", "fr": "C'est l'habitant qui donne son âme à la rue.", "pt": "É o morador que dá alma à rua." }
+      ]
+    },
+    {
+      "term": "récompense",
+      "definitionPt": "recompensa",
+      "definitionFr": "Ce que l'on gagne après un effort.",
+      "inflections": ["la récompense", "des récompenses"],
+      "ptTargets": ["recompensa", "recompensas"],
+      "examples": [
+        { "level": "A1", "fr": "La récompense est belle.", "pt": "A recompensa é bela." },
+        { "level": "A2-B1", "fr": "La vue est la récompense.", "pt": "A vista é a recompensa." },
+        { "level": "B1-B2", "fr": "La récompense, au sommet, efface la fatigue.", "pt": "A recompensa, no topo, apaga o cansaço." },
+        { "level": "C1-C2", "fr": "C'est la récompense qui donne son prix à l'effort.", "pt": "É a recompensa que dá valor ao esforço." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Les trois conditionnels : hypothèses en montant",
+    "explanationPt": "Os três condicionais na subida: irreal do presente ('si nous prenions le funiculaire, nous arriverions en deux minutes'; 'si je partais, je perdrais mon jardin'), irreal do passado ('si j'avais su qu'il y avait un jardin, j'aurais apporté un livre'; 'si je n'étais pas venu en France, je n'aurais jamais connu ces marches') e futuro real ('si vous montez souvent, vous verrez le quartier changer').",
+    "exampleFr": "Si je partais, je perdrais mon jardin et mes voisins ; si je n'étais pas venu en France, je n'aurais jamais connu ces marches.",
+    "examplePt": "Se eu fosse embora, perderia meu jardim e meus vizinhos; se eu não tivesse vindo para a França, nunca teria conhecido esses degraus.",
+    "practiceQuestion": "Complete: « Si je partais, je ___ mon jardin. »",
+    "options": ["perdrais", "perdrai", "perds"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "Si + imparfait → conditionnel présent",
+        "explanationPt": "'Si nous prenions le funiculaire, nous arriverions en deux minutes' : hipótese no presente.",
+        "exampleFr": "Si nous prenions le funiculaire, nous arriverions en deux minutes.",
+        "examplePt": "Se pegássemos o funicular, chegaríamos em dois minutos.",
+        "practiceQuestion": "Complete: « Si je partais, je ___ mon jardin. »",
+        "options": ["perdrais", "perdrai", "perds"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "Si + plus-que-parfait → conditionnel passé",
+        "explanationPt": "'Si j'avais su, j'aurais apporté un livre' : hipótese passada.",
+        "exampleFr": "Si je n'étais pas venu en France, je n'aurais jamais connu ces marches.",
+        "examplePt": "Se eu não tivesse vindo para a França, nunca teria conhecido esses degraus.",
+        "practiceQuestion": "Complete: « Si j'avais su, j'___ apporté un livre. »",
+        "options": ["aurais", "aurai", "ai"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Complete: « Si je partais, je ___ mon jardin. »",
+      "options": ["perdrais", "perdrai", "perds"],
+      "correctIndex": 0,
+      "explanation": "Si + imperfeito → condicional presente."
+    },
+    {
+      "question": "Quantos degraus tem a montée de la Grande Côte?",
+      "options": ["Duzentos e vinte", "Cinquenta", "Mil"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'deux cent vingt marches'."
+    },
+    {
+      "question": "O que Irlan teria trazido se soubesse do jardim?",
+      "options": ["Um livro", "Um guarda-chuva", "Uma câmera"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'si j'avais su qu'il y avait un jardin ici, j'aurais apporté un livre'."
+    },
+    {
+      "question": "Há quanto tempo o morador vive na montée?",
+      "options": ["Quarenta anos", "Cinco anos", "Dois meses"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'il habitait là depuis quarante ans'."
+    },
+    {
+      "question": "Complete: « Si je n'étais pas venu, je n'___ jamais connu ces marches. »",
+      "options": ["aurais", "aurai", "ai"],
+      "correctIndex": 0,
+      "explanation": "Si + mais-que-perfeito → condicional passado."
+    }
+  ]
+}

@@ -1,0 +1,237 @@
+{
+  "id": "bordeaux_lesson_25",
+  "cityId": "bordeaux",
+  "domain": "Natureza e trabalho",
+  "level": "Intermediário (B1+)",
+  "titleFr": "Les vendanges en famille : une journée dans le vignoble",
+  "titlePt": "As vindimas em família: um dia no vinhedo",
+  "subtitleFr": "En cueillant le raisin, on comprend le vin autrement",
+  "subtitlePt": "Colhendo a uva, entende-se o vinho de outro jeito",
+  "summaryPt": "Nesta Aula 25 (B1+), a família participa das vendanges num vinhedo perto de Bordeaux, colhendo uvas como os viticultores. O aluno pratica o vocabulário da colheita (la vendange, le raisin, le panier) e o gérondif com os pronomes.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "« En septembre, c'est la saison des vendanges », a dit Irlan. La famille est allée dans un vignoble, à vingt minutes de Bordeaux. « On va cueillir le raisin nous-mêmes ! » Iris a mis ses bottes : « Je suis prête ! »",
+      "pt": "« Em setembro, é a estação das vindimas », disse Irlan. A família foi a um vinhedo, a vinte minutos de Bordeaux. « Vamos colher as uvas nós mesmos! » Íris calçou suas botas: « Estou pronta! »"
+    },
+    {
+      "id": 2,
+      "fr": "Le viticulteur a donné les consignes. « Il faut couper la grappe avec des ciseaux, sans abîmer les autres. » « En les coupant doucement, on protège la vigne », a ajouté Andréa. Iris a rempli son premier panier : « Regardez, il est plein ! »",
+      "pt": "O viticultor deu as instruções. « É preciso cortar o cacho com uma tesoura, sem estragar os outros. » « Cortando-os com cuidado, protege-se a videira », acrescentou Andréa. Íris encheu seu primeiro cesto: « Olhem, está cheio! »"
+    },
+    {
+      "id": 3,
+      "fr": "À midi, le viticulteur a invité la famille à table. « En mangeant ensemble, on devient une famille de vignoble », a-t-il souri. Il y avait du pain, du fromage, de la charcuterie… et du jus de raisin pour Iris.",
+      "pt": "Ao meio-dia, o viticultor convidou a família para a mesa. « Comendo juntos, vira-se uma família de vinhedo », sorriu. Havia pão, queijo, embutidos… e suco de uva para Íris."
+    },
+    {
+      "id": 4,
+      "fr": "« Le raisin que l'on cueille aujourd'hui deviendra du vin dans quelques mois », a expliqué le viticulteur. « Il faudrait revenir au printemps pour voir la vigne fleurir. » « On reviendrait avec la scooter ! » a promis Iris.",
+      "pt": "« A uva que se colhe hoje virará vinho em alguns meses », explicou o viticultor. « Seria preciso voltar na primavera para ver a videira florescer. » « A gente voltaria de scooter! » prometeu Íris."
+    },
+    {
+      "id": 5,
+      "fr": "Le soir, les mains tachées de jus, Irlan a dit : « Quand j'étais livreur, je livrais des bouteilles sans savoir d'où venait le raisin. Aujourd'hui, je l'ai cueilli. La France m'apprend le monde, grappe par grappe. »",
+      "pt": "À noite, com as mãos manchadas de suco, Irlan disse: « Quando eu era entregador, entregava garrafas sem saber de onde vinha a uva. Hoje, eu a colhi. A França me ensina o mundo, cacho por cacho. »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "la vendange",
+      "definitionPt": "a vindima, a colheita das uvas",
+      "definitionFr": "Récolte du raisin.",
+      "inflections": ["la vendange", "une vendange", "des vendanges"],
+      "ptTargets": ["vindima", "colheita das uvas"],
+      "examples": [
+        { "level": "A1", "fr": "La vendange est en septembre.", "pt": "A vindima é em setembro." },
+        { "level": "A2-B1", "fr": "La famille participe aux vendanges.", "pt": "A família participa das vindimas." },
+        { "level": "B1", "fr": "Les vendanges, qui durent trois semaines, sont une fête.", "pt": "As vindimas, que duram três semanas, são uma festa." },
+        { "level": "C1-C2", "fr": "La vendange, rendez-vous de la terre, réunit toute la région au soleil d'automne.", "pt": "A vindima, encontro da terra, reúne toda a região ao sol do outono." }
+      ]
+    },
+    {
+      "term": "le raisin",
+      "definitionPt": "a uva",
+      "definitionFr": "Fruit de la vigne.",
+      "inflections": ["le raisin", "un grain de raisin"],
+      "ptTargets": ["uva"],
+      "examples": [
+        { "level": "A1", "fr": "Le raisin est sucré.", "pt": "A uva é doce." },
+        { "level": "A2-B1", "fr": "On cueille le raisin en automne.", "pt": "Colhe-se a uva no outono." },
+        { "level": "B1", "fr": "Le raisin que l'on cueille doit être mûr.", "pt": "A uva que se colhe deve estar madura." },
+        { "level": "C1-C2", "fr": "Le raisin, perle de la vigne, garde le soleil dans sa peau fine.", "pt": "A uva, pérola da videira, guarda o sol em sua pele fina." }
+      ]
+    },
+    {
+      "term": "la grappe",
+      "definitionPt": "o cacho",
+      "definitionFr": "Groupe de grains de raisin.",
+      "inflections": ["la grappe", "une grappe", "des grappes"],
+      "ptTargets": ["cacho"],
+      "examples": [
+        { "level": "A1", "fr": "La grappe est lourde.", "pt": "O cacho é pesado." },
+        { "level": "A2-B1", "fr": "On coupe la grappe avec des ciseaux.", "pt": "Corta-se o cacho com tesoura." },
+        { "level": "B1", "fr": "Les grappes que l'on coupe sont bien mûres.", "pt": "Os cachos que se cortam estão bem maduros." },
+        { "level": "C1-C2", "fr": "La grappe, famille de grains, pend à la vigne comme un trésor.", "pt": "O cacho, família de grãos, pende da videira como um tesouro." }
+      ]
+    },
+    {
+      "term": "le panier",
+      "definitionPt": "o cesto",
+      "definitionFr": "Objet pour porter la récolte.",
+      "inflections": ["le panier", "un panier", "des paniers"],
+      "ptTargets": ["cesto"],
+      "examples": [
+        { "level": "A1", "fr": "Le panier est plein.", "pt": "O cesto está cheio." },
+        { "level": "A2-B1", "fr": "Iris a rempli son panier de raisin.", "pt": "Íris encheu seu cesto de uvas." },
+        { "level": "B1", "fr": "Les paniers que l'on porte sont lourds.", "pt": "Os cestos que se carregam são pesados." },
+        { "level": "C1-C2", "fr": "Le panier, corbeille de la vigne, recueille le fruit du travail.", "pt": "O cesto, cesta da videira, recolhe o fruto do trabalho." }
+      ]
+    },
+    {
+      "term": "le viticulteur",
+      "definitionPt": "o viticultor",
+      "definitionFr": "Personne qui cultive la vigne.",
+      "inflections": ["le viticulteur", "un viticulteur", "des viticulteurs"],
+      "ptTargets": ["viticultor"],
+      "examples": [
+        { "level": "A1", "fr": "Le viticulteur travaille dans les vignes.", "pt": "O viticultor trabalha nos vinhedos." },
+        { "level": "A2-B1", "fr": "Le viticulteur a donné les consignes.", "pt": "O viticultor deu as instruções." },
+        { "level": "B1", "fr": "Le viticulteur chez qui l'on a vendangé est gentil.", "pt": "O viticultor em cuja casa se vindimou é gentil." },
+        { "level": "C1-C2", "fr": "Le viticulteur, lecteur de la terre, sait lire le ciel et la pluie.", "pt": "O viticultor, leitor da terra, sabe ler o céu e a chuva." }
+      ]
+    },
+    {
+      "term": "couper",
+      "definitionPt": "cortar",
+      "definitionFr": "Séparer avec un outil.",
+      "inflections": ["je coupe", "tu coupes", "il coupe", "nous coupons"],
+      "ptTargets": ["cortar"],
+      "examples": [
+        { "level": "A1", "fr": "Je coupe le pain.", "pt": "Eu corto o pão." },
+        { "level": "A2-B1", "fr": "On coupe la grappe avec des ciseaux.", "pt": "Corta-se o cacho com tesoura." },
+        { "level": "B1", "fr": "Les grappes que l'on coupe ne doivent pas être abîmées.", "pt": "Os cachos que se cortam não devem ser estragados." },
+        { "level": "C1-C2", "fr": "Couper, geste du vendangeur, demande la précision d'un chirurgien.", "pt": "Cortar, gesto do vindimador, exige a precisão de um cirurgião." }
+      ]
+    },
+    {
+      "term": "les ciseaux",
+      "definitionPt": "a tesoura",
+      "definitionFr": "Outil avec deux lames.",
+      "inflections": ["les ciseaux", "une paire de ciseaux"],
+      "ptTargets": ["tesoura"],
+      "examples": [
+        { "level": "A1", "fr": "Les ciseaux sont petits.", "pt": "A tesoura é pequena." },
+        { "level": "A2-B1", "fr": "On utilise des ciseaux pour les vendanges.", "pt": "Usa-se tesoura nas vindimas." },
+        { "level": "B1", "fr": "Les ciseaux avec lesquels l'on coupe sont tranchants.", "pt": "A tesoura com a qual se corta é afiada." },
+        { "level": "C1-C2", "fr": "Les ciseaux, prolongement de la main, rendent le geste du vendangeur précis.", "pt": "A tesoura, prolongamento da mão, torna o gesto do vindimador preciso." }
+      ]
+    },
+    {
+      "term": "la botte",
+      "definitionPt": "a bota",
+      "definitionFr": "Chaussure qui monte sur la jambe.",
+      "inflections": ["la botte", "une botte", "des bottes"],
+      "ptTargets": ["bota"],
+      "examples": [
+        { "level": "A1", "fr": "La botte est en caoutchouc.", "pt": "A bota é de borracha." },
+        { "level": "A2-B1", "fr": "Iris a mis ses bottes pour la vigne.", "pt": "Íris calçou suas botas para o vinhedo." },
+        { "level": "B1", "fr": "Les bottes que l'on porte dans la vigne sont utiles.", "pt": "As botas que se usam no vinhedo são úteis." },
+        { "level": "C1-C2", "fr": "La botte, garde des pieds, marche dans la boue sans se plaindre.", "pt": "A bota, guardiã dos pés, anda na lama sem reclamar." }
+      ]
+    },
+    {
+      "term": "la charcuterie",
+      "definitionPt": "os embutidos, a charcutaria",
+      "definitionFr": "Viandes préparées comme le jambon, le saucisson.",
+      "inflections": ["la charcuterie", "une charcuterie", "des charcuteries"],
+      "ptTargets": ["embutidos", "charcutaria", "frios"],
+      "examples": [
+        { "level": "A1", "fr": "La charcuterie est salée.", "pt": "Os embutidos são salgados." },
+        { "level": "A2-B1", "fr": "On mange de la charcuterie au déjeuner.", "pt": "Come-se embutidos no almoço." },
+        { "level": "B1", "fr": "La charcuterie que l'on goûte ici vient de la région.", "pt": "Os embutidos que se provam aqui vêm da região." },
+        { "level": "C1-C2", "fr": "La charcuterie, art de la campagne, transforme le cochon en festin.", "pt": "A charcutaria, arte do campo, transforma o porco em festim." }
+      ]
+    },
+    {
+      "term": "mûr",
+      "definitionPt": "maduro",
+      "definitionFr": "Prêt à être mangé.",
+      "inflections": ["mûr", "mûre", "mûrs", "mûres"],
+      "ptTargets": ["maduro"],
+      "examples": [
+        { "level": "A1", "fr": "Le raisin est mûr.", "pt": "A uva está madura." },
+        { "level": "A2-B1", "fr": "Les grappes mûres sont sucrées.", "pt": "Os cachos maduros são doces." },
+        { "level": "B1", "fr": "Le raisin qui est mûr se cueille en automne.", "pt": "A uva que está madura colhe-se no outono." },
+        { "level": "C1-C2", "fr": "Mûr, état parfait, arrive quand la patience a fait son travail.", "pt": "Maduro, estado perfeito, chega quando a paciência fez seu trabalho." }
+      ]
+    },
+    {
+      "term": "le jus",
+      "definitionPt": "o suco",
+      "definitionFr": "Liquide d'un fruit.",
+      "inflections": ["le jus", "un jus", "des jus"],
+      "ptTargets": ["suco"],
+      "examples": [
+        { "level": "A1", "fr": "Le jus est sucré.", "pt": "O suco é doce." },
+        { "level": "A2-B1", "fr": "Iris boit du jus de raisin.", "pt": "Íris bebe suco de uva." },
+        { "level": "B1", "fr": "Le jus que l'on boit vient des grappes d'aujourd'hui.", "pt": "O suco que se bebe vem dos cachos de hoje." },
+        { "level": "C1-C2", "fr": "Le jus, premier vin, garde la fraîcheur du fruit cueilli.", "pt": "O suco, primeiro vinho, guarda o frescor da fruta colhida." }
+      ]
+    },
+    {
+      "term": "taché",
+      "definitionPt": "manchado",
+      "definitionFr": "Marqué par une tache.",
+      "inflections": ["taché", "tachée", "tachés", "tachées"],
+      "ptTargets": ["manchado"],
+      "examples": [
+        { "level": "A1", "fr": "Le doigt est taché.", "pt": "O dedo está manchado." },
+        { "level": "A2-B1", "fr": "Les mains sont tachées de jus.", "pt": "As mãos estão manchadas de suco." },
+        { "level": "B1", "fr": "Les mains, que l'on a tachées en vendangeant, sont fières.", "pt": "As mãos, que se mancharam vindimando, estão orgulhosas." },
+        { "level": "C1-C2", "fr": "Taché, souvenir du travail, raconte une journée bien vécue.", "pt": "Manchado, lembrança do trabalho, conta um dia bem vivido." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "titleFr": "Le gérondif avec les pronoms COD",
+    "titlePt": "O gerúndio com pronomes COD",
+    "points": [
+      {
+        "fr": "« En les coupant doucement, on protège la vigne » : le pronom (les) se place avant le participe présent dans le gérondif.",
+        "pt": "« En les coupant doucement, on protège la vigne » (Cortando-os com cuidado, protege-se a videira): o pronome (les) vem antes do particípio presente no gerúndio."
+      },
+      {
+        "fr": "Exemples : « En le cueillant, on sent le soleil » (colhendo-a, sente-se o sol), « En la goûtant, Iris a souri » (provando-o, Íris sorriu).",
+        "pt": "Exemplos: « En le cueillant, on sent le soleil » (colhendo-a, sente-se o sol), « En la goûtant, Iris a souri » (provando-o, Íris sorriu)."
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Em que estação acontecem as vendanges ?",
+      "options": ["Setembro, no outono", "Janeiro, no inverno", "Junho, no verão", "Abril, na primavera"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Com que ferramenta se corta a grappe ?",
+      "options": ["Tesoura", "Faca", "Machado", "Foice"],
+      "correctIndex": 0
+    },
+    {
+      "question": "O que Iris bebeu no almoço ?",
+      "options": ["Suco de uva", "Café", "Água com gás", "Chocolate quente"],
+      "correctIndex": 0
+    },
+    {
+      "question": "O que a uva colhida vai virar em alguns meses ?",
+      "options": ["Vinho", "Doce", "Vinagre", "Suco"],
+      "correctIndex": 0
+    },
+    {
+      "question": "O que Irlan descobriu hoje sobre as garrafas que entregava ?",
+      "options": ["De onde vinha o raisin (a uva)", "O preço delas", "A marca", "O peso"],
+      "correctIndex": 0
+    }
+  ]
+}

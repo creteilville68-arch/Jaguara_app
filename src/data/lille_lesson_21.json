@@ -1,0 +1,252 @@
+{
+  "id": "lille_lesson_21",
+  "cityId": "lille",
+  "domain": "Gastronomia",
+  "level": "Básico (A2)",
+  "titleFr": "La carbonnade flamande : le plat du Nord",
+  "titlePt": "A carbonnade flamande: o prato do Norte",
+  "subtitleFr": "Du bœuf mijoté dans la bière, comme chez les estaminets",
+  "subtitlePt": "Carne cozida na cerveja, como nos estaminets",
+  "summaryPt": "Nesta Aula 21 (A2), a família almoça num estaminet e descobre a carbonnade flamande, carne bovina cozida lentamente na cerveja, junto com o waterzoï e o potjevleesch. O aluno pratica o imperativo (goûte, goûtez), os partitivos (du, de la, des) e o vocabulário da cozinha do Norte.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Dans l'estaminet, l'odeur de la carbonnade a rempli la salle. « C'est du bœuf mijoté dans la bière », a dit le serveur. « Goûtez, vous verrez ! »",
+      "pt": "No estaminet, o cheiro da carbonnade encheu a sala. « É carne bovina cozida na cerveja », disse o garçom. « Provem, vocês vão ver! »"
+    },
+    {
+      "id": 2,
+      "fr": "Irlan a goûté une cuillère. « C'est incroyable ! La viande fond dans la bouche. » Andréa a souri : « Avec des frites et de la bière du Nord, c'est parfait. »",
+      "pt": "Irlan provou uma colherada. « É inacreditável! A carne derrete na boca. » Andréa sorriu: « Com batatas fritas e cerveja do Norte, é perfeito. »"
+    },
+    {
+      "id": 3,
+      "fr": "Íris a demandé : « Pourquoi la sauce est-elle si foncée ? » « À cause de la bière et du pain d'épices », a expliqué Andréa. « C'est une recette très ancienne. »",
+      "pt": "Íris perguntou: « Por que o molho é tão escuro? » « Por causa da cerveja e do pão de especiarias », explicou Andréa. « É uma receita muito antiga. »"
+    },
+    {
+      "id": 4,
+      "fr": "Irlan a regardé la salle pleine de familles. « Quand j'étais livreur, je livrais des plats comme ça à Paris. Je ne connaissais pas le nom. Aujourd'hui, je le mange chez moi, dans le Nord. »",
+      "pt": "Irlan olhou a sala cheia de famílias. « Quando eu era entregador, entregava pratos assim em Paris. Não conhecia o nome. Hoje, como-o aqui, no Norte. »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "la carbonnade",
+      "definitionPt": "a carbonnade (carne na cerveja)",
+      "definitionFr": "Plat de bœuf mijoté dans la bière.",
+      "inflections": ["la carbonnade", "une carbonnade", "des carbonnades"],
+      "ptTargets": ["carbonnade"],
+      "examples": [
+        { "level": "A1", "fr": "La carbonnade est chaude.", "pt": "A carbonnade é quente." },
+        { "level": "A2-B1", "fr": "La carbonnade flamande est un plat de Lille.", "pt": "A carbonnade flamande é um prato de Lille." },
+        { "level": "B2", "fr": "La carbonnade mijote pendant trois heures.", "pt": "A carbonnade cozinha durante três horas." },
+        { "level": "C1-C2", "fr": "La carbonnade, humble plat de bœuf et de bière, est devenue une fierté du Nord.", "pt": "A carbonnade, humilde prato de carne e cerveja, tornou-se um orgulho do Norte." }
+      ]
+    },
+    {
+      "term": "mijoter",
+      "definitionPt": "cozinhar lentamente, refogar",
+      "definitionFr": "Cuire à feu doux et longtemps.",
+      "inflections": ["je mijote", "nous mijotons", "mijoté"],
+      "ptTargets": ["cozinhar lentamente"],
+      "examples": [
+        { "level": "A1", "fr": "La soupe mijote.", "pt": "A sopa cozinha lentamente." },
+        { "level": "A2-B1", "fr": "La viande mijote dans la bière.", "pt": "A carne cozinha lentamente na cerveja." },
+        { "level": "B2", "fr": "Le plat a mijoté toute la matinée.", "pt": "O prato cozinhou a manhã inteira." },
+        { "level": "C1-C2", "fr": "Mijoter, c'est donner au temps le pouvoir de parfumer la viande.", "pt": "Cozinhar lentamente é dar ao tempo o poder de perfumar a carne." }
+      ]
+    },
+    {
+      "term": "la bière",
+      "definitionPt": "a cerveja",
+      "definitionFr": "Boisson alcoolisée faite d'orge et de houblon.",
+      "inflections": ["la bière", "une bière", "des bières"],
+      "ptTargets": ["cerveja"],
+      "examples": [
+        { "level": "A1", "fr": "La bière est blonde.", "pt": "A cerveja é clara." },
+        { "level": "A2-B1", "fr": "La carbonnade est cuite dans la bière.", "pt": "A carbonnade é cozida na cerveja." },
+        { "level": "B2", "fr": "Le Nord est une région de bières célèbres.", "pt": "O Norte é uma região de cervejas famosas." },
+        { "level": "C1-C2", "fr": "La bière du Nord, blonde et amère, est le secret de la carbonnade.", "pt": "A cerveja do Norte, clara e amarga, é o segredo da carbonnade." }
+      ]
+    },
+    {
+      "term": "le bœuf",
+      "definitionPt": "a carne bovina, o boi",
+      "definitionFr": "Viande de la vache.",
+      "inflections": ["le bœuf", "un bœuf", "des bœufs"],
+      "ptTargets": ["carne bovina", "boi"],
+      "examples": [
+        { "level": "A1", "fr": "Le bœuf est au champ.", "pt": "O boi está no campo." },
+        { "level": "A2-B1", "fr": "La carbonnade est un plat de bœuf.", "pt": "A carbonnade é um prato de carne bovina." },
+        { "level": "B2", "fr": "Le bœuf mijoté devient tendre comme du beurre.", "pt": "A carne cozida fica macia como manteiga." },
+        { "level": "C1-C2", "fr": "Un bon morceau de bœuf et une bonne bière suffisent à faire un chef.", "pt": "Um bom pedaço de carne e uma boa cerveja bastam para fazer um chef." }
+      ]
+    },
+    {
+      "term": "le plat",
+      "definitionPt": "o prato",
+      "definitionFr": "Préparation culinaire ; assiette.",
+      "inflections": ["le plat", "un plat", "des plats"],
+      "ptTargets": ["prato"],
+      "examples": [
+        { "level": "A1", "fr": "Le plat est chaud.", "pt": "O prato está quente." },
+        { "level": "A2-B1", "fr": "La carbonnade est le plat préféré d'Irlan.", "pt": "A carbonnade é o prato preferido de Irlan." },
+        { "level": "B2", "fr": "Chaque région de France a ses plats traditionnels.", "pt": "Cada região da França tem seus pratos tradicionais." },
+        { "level": "C1-C2", "fr": "Un plat du Nord, c'est une leçon d'histoire dans une assiette.", "pt": "Um prato do Norte é uma lição de história num prato." }
+      ]
+    },
+    {
+      "term": "le pain d'épices",
+      "definitionPt": "o pão de especiarias, o pão de mel",
+      "definitionFr": "Gâteau au miel et aux épices.",
+      "inflections": ["le pain d'épices", "un pain d'épices", "des pains d'épices"],
+      "ptTargets": ["pão de especiarias", "pão de mel"],
+      "examples": [
+        { "level": "A1", "fr": "Le pain d'épices est sucré.", "pt": "O pão de especiarias é doce." },
+        { "level": "A2-B1", "fr": "La sauce de la carbonnade contient du pain d'épices.", "pt": "O molho da carbonnade contém pão de especiarias." },
+        { "level": "B2", "fr": "Le pain d'épices donne une touche sucrée au plat.", "pt": "O pão de especiarias dá um toque doce ao prato." },
+        { "level": "C1-C2", "fr": "Le pain d'épices, venu d'Orient, est devenu un trésor du Nord.", "pt": "O pão de especiarias, vindo do Oriente, tornou-se um tesouro do Norte." }
+      ]
+    },
+    {
+      "term": "le serveur",
+      "definitionPt": "o garçom",
+      "definitionFr": "Personne qui sert dans un restaurant.",
+      "inflections": ["le serveur", "la serveuse", "des serveurs"],
+      "ptTargets": ["garçom", "garçonete"],
+      "examples": [
+        { "level": "A1", "fr": "Le serveur est gentil.", "pt": "O garçom é simpático." },
+        { "level": "A2-B1", "fr": "Le serveur a apporté la carbonnade.", "pt": "O garçom trouxe a carbonnade." },
+        { "level": "B2", "fr": "Le serveur a recommandé le plat du jour.", "pt": "O garçom recomendou o prato do dia." },
+        { "level": "C1-C2", "fr": "Un serveur de l'estaminet connaît chaque client par son prénom.", "pt": "Um garçom de estaminet conhece cada cliente pelo primeiro nome." }
+      ]
+    },
+    {
+      "term": "fondre",
+      "definitionPt": "derreter",
+      "definitionFr": "Se transformer en liquide ; devenir très tendre.",
+      "inflections": ["je fonds", "nous fondons", "fondu"],
+      "ptTargets": ["derreter"],
+      "examples": [
+        { "level": "A1", "fr": "La glace fond au soleil.", "pt": "O sorvete derrete ao sol." },
+        { "level": "A2-B1", "fr": "La viande fond dans la bouche.", "pt": "A carne derrete na boca." },
+        { "level": "B2", "fr": "La carbonnade, après des heures de cuisson, fond littéralement.", "pt": "A carbonnade, após horas de cozimento, literalmente derrete." },
+        { "level": "C1-C2", "fr": "Une viande qui fond, c'est la promesse d'un repas inoubliable.", "pt": "Uma carne que derrete é a promessa de uma refeição inesquecível." }
+      ]
+    },
+    {
+      "term": "la frite",
+      "definitionPt": "a batata frita",
+      "definitionFr": "Pomme de terre coupée et frite.",
+      "inflections": ["la frite", "une frite", "des frites"],
+      "ptTargets": ["batata frita"],
+      "examples": [
+        { "level": "A1", "fr": "J'aime les frites.", "pt": "Gosto de batatas fritas." },
+        { "level": "A2-B1", "fr": "La carbonnade se mange avec des frites.", "pt": "A carbonnade se come com batatas fritas." },
+        { "level": "B2", "fr": "Les frites du Nord sont les meilleures de France.", "pt": "As batatas fritas do Norte são as melhores da França." },
+        { "level": "C1-C2", "fr": "La frite, humble et croustillante, est une religion dans le Nord.", "pt": "A batata frita, humilde e crocante, é uma religião no Norte." }
+      ]
+    },
+    {
+      "term": "la recette",
+      "definitionPt": "a receita",
+      "definitionFr": "Ensemble des ingrédients et des étapes d'un plat.",
+      "inflections": ["la recette", "une recette", "des recettes"],
+      "ptTargets": ["receita"],
+      "examples": [
+        { "level": "A1", "fr": "La recette est facile.", "pt": "A receita é fácil." },
+        { "level": "A2-B1", "fr": "C'est une recette très ancienne.", "pt": "É uma receita muito antiga." },
+        { "level": "B2", "fr": "Chaque famille du Nord garde sa recette secrète.", "pt": "Cada família do Norte guarda sua receita secreta." },
+        { "level": "C1-C2", "fr": "Les recettes se transmettent de grand-mère en petit-enfant.", "pt": "As receitas se transmitem de avó para neto." }
+      ]
+    },
+    {
+      "term": "l'estaminet",
+      "definitionPt": "o estaminet (café típico do Norte)",
+      "definitionFr": "Café traditionnel du Nord de la France.",
+      "inflections": ["l'estaminet", "un estaminet", "des estaminets"],
+      "ptTargets": ["estaminet"],
+      "examples": [
+        { "level": "A1", "fr": "L'estaminet est chaleureux.", "pt": "O estaminet é acolhedor." },
+        { "level": "A2-B1", "fr": "Nous avons mangé dans un estaminet.", "pt": "Comemos num estaminet." },
+        { "level": "B2", "fr": "Les estaminets gardent l'âme du Nord vivante.", "pt": "Os estaminets mantêm viva a alma do Norte." },
+        { "level": "C1-C2", "fr": "Dans l'estaminet, le temps s'arrête autour d'une bière et d'une carbonnade.", "pt": "No estaminet, o tempo para em volta de uma cerveja e uma carbonnade." }
+      ]
+    },
+    {
+      "term": "goûter",
+      "definitionPt": "provar",
+      "definitionFr": "Tester le goût d'un aliment.",
+      "inflections": ["je goûte", "nous goûtons", "goûté"],
+      "ptTargets": ["provar"],
+      "examples": [
+        { "level": "A1", "fr": "Goûte la soupe !", "pt": "Prova a sopa!" },
+        { "level": "A2-B1", "fr": "Irlan a goûté une cuillère de carbonnade.", "pt": "Irlan provou uma colherada de carbonnade." },
+        { "level": "B2", "fr": "Goûtez ce plat, il est extraordinaire !", "pt": "Provem este prato, é extraordinário!" },
+        { "level": "C1-C2", "fr": "Goûter un plat inconnu, c'est ouvrir une porte sur un pays.", "pt": "Provar um prato desconhecido é abrir uma porta para um país." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "L'impératif à table : Goûte ! Goûtez !",
+    "explanationPt": "À mesa, usamos o imperativo: 'Goûte !' (prova, para tu), 'Goûtez !' (provem, para vous), 'Mangeons !' (comamos). O imperativo pede, aconselha ou convida.",
+    "exampleFr": "« Goûtez la carbonnade, vous verrez ! » a dit le serveur.",
+    "examplePt": "« Provem a carbonnade, vocês vão ver! » disse o garçom.",
+    "practiceQuestion": "Complete o imperativo: « ___ la sauce, c'est délicieux ! »",
+    "options": ["Goûte", "Goûter", "Goûté"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "Les partitifs : du, de la, des, de l'",
+        "explanationPt": "Para porções indefinidas: 'du bœuf' (carne), 'de la bière' (cerveja), 'des frites' (fritas), 'de l'eau' (água). Na negação: 'pas de bière'.",
+        "exampleFr": "Il y a du bœuf, de la bière et des frites dans ce plat.",
+        "examplePt": "Há carne, cerveja e batatas fritas neste prato.",
+        "practiceQuestion": "Complete: « J'ajoute ___ bière. »",
+        "options": ["de la", "du", "des"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "À cause de : expliquer la recette",
+        "explanationPt": "Para explicar uma causa: 'à cause de + nome' (por causa de): 'à cause de la bière' (por causa da cerveja). Com verbo: 'parce que' (porque): 'la sauce est foncée parce qu'il y a du pain d'épices'.",
+        "exampleFr": "La sauce est foncée à cause de la bière et du pain d'épices.",
+        "examplePt": "O molho é escuro por causa da cerveja e do pão de especiarias.",
+        "practiceQuestion": "Complete: « La sauce est foncée ___ de la bière. »",
+        "options": ["à cause", "parce que", "pour"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "O que é a carbonnade flamande?",
+      "options": ["Carne bovina cozida na cerveja", "Peixe grelhado", "Sopa de legumes"],
+      "correctIndex": 0,
+      "explanation": "A carbonnade flamande é bœuf (carne bovina) mijoté na bière, típica do Norte."
+    },
+    {
+      "question": "Qual é o imperativo correto?",
+      "options": ["Goûtez la carbonnade !", "Goûter la carbonnade !", "Goûté la carbonnade !"],
+      "correctIndex": 0,
+      "explanation": "O imperativo com vous de 'goûter' é 'goûtez'."
+    },
+    {
+      "question": "Complete: « Il y a ___ bière dans la sauce. »",
+      "options": ["de la", "du", "des"],
+      "correctIndex": 0,
+      "explanation": "'Bière' é feminina singular, então o partitivo é 'de la'."
+    },
+    {
+      "question": "Por que o molho da carbonnade é escuro?",
+      "options": ["Por causa da bière e do pain d'épices", "Por causa do sal", "Por causa do leite"],
+      "correctIndex": 0,
+      "explanation": "A cerveja e o pão de especiarias dão a cor escura e o sabor doce ao molho."
+    },
+    {
+      "question": "O que Irlan lembrou no estaminet?",
+      "options": ["Que entregava pratos assim em Paris sem conhecer o nome", "Que nunca comeu carne", "Que odeia estaminets"],
+      "correctIndex": 0,
+      "explanation": "Irlan entregava pratos do Norte em Paris sem saber o que eram; hoje os saboreia no Norte."
+    }
+  ]
+}

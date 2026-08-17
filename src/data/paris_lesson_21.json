@@ -1,0 +1,268 @@
+{
+  "id": "paris_lesson_21",
+  "cityId": "paris",
+  "domain": "Cotidiano & Natureza",
+  "level": "Iniciante (A1)",
+  "titleFr": "Les jardins de Paris et les saisons",
+  "titlePt": "Os jardins de Paris e as estações",
+  "subtitleFr": "Le jardin du Luxembourg, les Tuileries et le temps qui change",
+  "subtitlePt": "O jardim do Luxemburgo, as Tulherias e o tempo que muda",
+  "summaryPt": "Nesta Aula 21 (A1), a família passeia pelos jardins de Paris: o jardim do Luxemburgo e as Tulherias. Eles falam das estações e do tempo. Íris adora as flores da primavera. O aluno aprende as expressões de tempo 'il fait' e os nomes das estações.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Au printemps, la famille se promène au jardin du Luxembourg. Il fait beau et les fleurs sont magnifiques. Les enfants jouent près des fontaines.",
+      "pt": "Na primavera, a família passeia no jardim do Luxemburgo. Faz tempo bom e as flores são magníficas. As crianças brincam perto das fontes."
+    },
+    {
+      "id": 2,
+      "fr": "Les arbres sont verts et les oiseaux chantent. Nous nous asseyons sur une chaise et nous regardons les gens. C'est un moment calme et agréable.",
+      "pt": "As árvores estão verdes e os pássaros cantam. Nós nos sentamos numa cadeira e olhamos as pessoas. É um momento calmo e agradável."
+    },
+    {
+      "id": 3,
+      "fr": "En été, nous allons souvent aux Tuileries. Il fait chaud et les Parisiens se reposent au soleil. En hiver, il fait froid, mais les jardins restent beaux.",
+      "pt": "No verão, nós vamos muitas vezes às Tulherias. Faz calor e os parisienses descansam ao sol. No inverno, faz frio, mas os jardins continuam bonitos."
+    },
+    {
+      "id": 4,
+      "fr": "Irlan dit : « En automne, les feuilles sont orange et rouges. C'est ma saison préférée. La nature change, comme les quartiers de Paris. »",
+      "pt": "Irlan diz: «No outono, as folhas são laranja e vermelhas. É a minha estação preferida. A natureza muda, como os bairros de Paris.»"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "printemps",
+      "definitionPt": "primavera",
+      "definitionFr": "La saison après l'hiver, où les fleurs poussent.",
+      "inflections": ["le printemps"],
+      "ptTargets": ["primavera"],
+      "examples": [
+        { "level": "A1", "fr": "Au printemps, les fleurs sont magnifiques.", "pt": "Na primavera, as flores são magníficas." },
+        { "level": "A2-B1", "fr": "Le printemps est ma saison préférée.", "pt": "A primavera é a minha estação preferida." },
+        { "level": "B2", "fr": "Au printemps, les jardins de Paris se couvrent de fleurs.", "pt": "Na primavera, os jardins de Paris se cobrem de flores." },
+        { "level": "C1-C2", "fr": "Le printemps parisien est une fête de couleurs et de lumière.", "pt": "A primavera parisiense é uma festa de cores e luz." }
+      ]
+    },
+    {
+      "term": "été",
+      "definitionPt": "verão",
+      "definitionFr": "La saison la plus chaude de l'année.",
+      "inflections": ["l'été"],
+      "ptTargets": ["verão"],
+      "examples": [
+        { "level": "A1", "fr": "En été, il fait chaud à Paris.", "pt": "No verão, faz calor em Paris." },
+        { "level": "A2-B1", "fr": "Nous allons au parc en été.", "pt": "Nós vamos ao parque no verão." },
+        { "level": "B2", "fr": "En été, les terrasses parisiennes sont pleines.", "pt": "No verão, os terraços parisienses estão cheios." },
+        { "level": "C1-C2", "fr": "L'été à Paris est une saison de lumière et de douceur.", "pt": "O verão em Paris é uma estação de luz e suavidade." }
+      ]
+    },
+    {
+      "term": "automne",
+      "definitionPt": "outono",
+      "definitionFr": "La saison où les feuilles tombent.",
+      "inflections": ["l'automne"],
+      "ptTargets": ["outono"],
+      "examples": [
+        { "level": "A1", "fr": "En automne, les feuilles sont orange.", "pt": "No outono, as folhas são laranja." },
+        { "level": "A2-B1", "fr": "L'automne est une belle saison.", "pt": "O outono é uma estação bonita." },
+        { "level": "B2", "fr": "En automne, les jardins changent de couleur.", "pt": "No outono, os jardins mudam de cor." },
+        { "level": "C1-C2", "fr": "L'automne parisien offre des couleurs d'une beauté saisissante.", "pt": "O outono parisiense oferece cores de uma beleza impressionante." }
+      ]
+    },
+    {
+      "term": "hiver",
+      "definitionPt": "inverno",
+      "definitionFr": "La saison la plus froide de l'année.",
+      "inflections": ["l'hiver"],
+      "ptTargets": ["inverno"],
+      "examples": [
+        { "level": "A1", "fr": "En hiver, il fait froid.", "pt": "No inverno, faz frio." },
+        { "level": "A2-B1", "fr": "Les jardins sont calmes en hiver.", "pt": "Os jardins estão calmos no inverno." },
+        { "level": "B2", "fr": "En hiver, on boit du chocolat chaud.", "pt": "No inverno, bebe-se chocolate quente." },
+        { "level": "C1-C2", "fr": "L'hiver parisien, gris et doux, a son propre charme.", "pt": "O inverno parisiense, cinza e suave, tem o seu próprio charme." }
+      ]
+    },
+    {
+      "term": "fleur",
+      "definitionPt": "flor",
+      "definitionFr": "Partie colorée d'une plante.",
+      "inflections": ["la fleur", "une fleur", "des fleurs"],
+      "ptTargets": ["flor"],
+      "examples": [
+        { "level": "A1", "fr": "Les fleurs sont magnifiques au printemps.", "pt": "As flores são magníficas na primavera." },
+        { "level": "A2-B1", "fr": "Íris aime les fleurs du jardin.", "pt": "Íris gosta das flores do jardim." },
+        { "level": "B2", "fr": "Les fleurs colorent les jardins de Paris.", "pt": "As flores colorem os jardins de Paris." },
+        { "level": "C1-C2", "fr": "Les fleurs du Luxembourg annoncent l'arrivée du printemps.", "pt": "As flores do Luxemburgo anunciam a chegada da primavera." }
+      ]
+    },
+    {
+      "term": "arbre",
+      "definitionPt": "árvore",
+      "definitionFr": "Grande plante avec un tronc et des branches.",
+      "inflections": ["l'arbre", "un arbre", "des arbres"],
+      "ptTargets": ["árvore"],
+      "examples": [
+        { "level": "A1", "fr": "Les arbres sont verts.", "pt": "As árvores estão verdes." },
+        { "level": "A2-B1", "fr": "L'arbre est grand et vieux.", "pt": "A árvore é grande e velha." },
+        { "level": "B2", "fr": "Les arbres du jardin donnent de l'ombre.", "pt": "As árvores do jardim dão sombra." },
+        { "level": "C1-C2", "fr": "Les arbres centenaires du Luxembourg ont vu défiler des générations.", "pt": "As árvores centenárias do Luxemburgo viram passar gerações." }
+      ]
+    },
+    {
+      "term": "oiseau",
+      "definitionPt": "pássaro",
+      "definitionFr": "Animal qui a des plumes et qui vole.",
+      "inflections": ["l'oiseau", "un oiseau", "des oiseaux"],
+      "ptTargets": ["pássaro"],
+      "examples": [
+        { "level": "A1", "fr": "Les oiseaux chantent dans les arbres.", "pt": "Os pássaros cantam nas árvores." },
+        { "level": "A2-B1", "fr": "L'oiseau est petit et rapide.", "pt": "O pássaro é pequeno e rápido." },
+        { "level": "B2", "fr": "Les oiseaux reviennent au printemps.", "pt": "Os pássaros voltam na primavera." },
+        { "level": "C1-C2", "fr": "Le chant des oiseaux accompagne la promenade du matin.", "pt": "O canto dos pássaros acompanha o passeio da manhã." }
+      ]
+    },
+    {
+      "term": "feuille",
+      "definitionPt": "folha",
+      "definitionFr": "Partie verte des plantes et des arbres.",
+      "inflections": ["la feuille", "une feuille", "des feuilles"],
+      "ptTargets": ["folha"],
+      "examples": [
+        { "level": "A1", "fr": "Les feuilles sont orange en automne.", "pt": "As folhas são laranja no outono." },
+        { "level": "A2-B1", "fr": "Les feuilles tombent des arbres.", "pt": "As folhas caem das árvores." },
+        { "level": "B2", "fr": "Les feuilles mortes couvrent les allées du jardin.", "pt": "As folhas secas cobrem as alamedas do jardim." },
+        { "level": "C1-C2", "fr": "Les feuilles qui tombent annoncent l'automne parisien.", "pt": "As folhas que caem anunciam o outono parisiense." }
+      ]
+    },
+    {
+      "term": "chaise",
+      "definitionPt": "cadeira",
+      "definitionFr": "Siège avec un dossier.",
+      "inflections": ["la chaise", "une chaise", "des chaises"],
+      "ptTargets": ["cadeira"],
+      "examples": [
+        { "level": "A1", "fr": "Nous nous asseyons sur une chaise.", "pt": "Nós nos sentamos numa cadeira." },
+        { "level": "A2-B1", "fr": "Les chaises du jardin sont vertes.", "pt": "As cadeiras do jardim são verdes." },
+        { "level": "B2", "fr": "Les chaises du Luxembourg sont célèbres à Paris.", "pt": "As cadeiras do Luxemburgo são famosas em Paris." },
+        { "level": "C1-C2", "fr": "S'asseoir sur une chaise du Luxembourg est un rituel parisien.", "pt": "Sentar-se numa cadeira do Luxemburgo é um ritual parisiense." }
+      ]
+    },
+    {
+      "term": "calme",
+      "definitionPt": "calmo",
+      "definitionFr": "Qui est paisible, sans bruit.",
+      "inflections": ["calme", "calmes"],
+      "ptTargets": ["calmo"],
+      "examples": [
+        { "level": "A1", "fr": "C'est un moment calme.", "pt": "É um momento calmo." },
+        { "level": "A2-B1", "fr": "Le jardin est calme le matin.", "pt": "O jardim está calmo de manhã." },
+        { "level": "B2", "fr": "Les jardins offrent un havre de calme au cœur de la ville.", "pt": "Os jardins oferecem um refúgio de calma no coração da cidade." },
+        { "level": "C1-C2", "fr": "Le calme des jardins contraste avec l'agitation de la capitale.", "pt": "A calma dos jardins contrasta com a agitação da capital." }
+      ]
+    },
+    {
+      "term": "agréable",
+      "definitionPt": "agradável",
+      "definitionFr": "Qui fait plaisir, plaisant.",
+      "inflections": ["agréable", "agréables"],
+      "ptTargets": ["agradável"],
+      "examples": [
+        { "level": "A1", "fr": "C'est un moment agréable.", "pt": "É um momento agradável." },
+        { "level": "A2-B1", "fr": "La promenade est très agréable.", "pt": "O passeio é muito agradável." },
+        { "level": "B2", "fr": "Un pique-nique au jardin est agréable en été.", "pt": "Um piquenique no jardim é agradável no verão." },
+        { "level": "C1-C2", "fr": "La douceur agréable de l'après-midi invite à la flânerie.", "pt": "A suavidade agradável da tarde convida a vagabundear." }
+      ]
+    },
+    {
+      "term": "se reposer",
+      "definitionPt": "descansar",
+      "definitionFr": "Cesser toute activité pour récupérer.",
+      "inflections": ["je me repose", "se reposer", "il se repose"],
+      "ptTargets": ["descansar"],
+      "examples": [
+        { "level": "A1", "fr": "Les Parisiens se reposent au soleil.", "pt": "Os parisienses descansam ao sol." },
+        { "level": "A2-B1", "fr": "Nous nous reposons sur la chaise.", "pt": "Nós descansamos na cadeira." },
+        { "level": "B2", "fr": "Elle se repose à l'ombre des arbres.", "pt": "Ela descansa à sombra das árvores." },
+        { "level": "C1-C2", "fr": "Se reposer dans un jardin public est un luxe accessible à tous.", "pt": "Descansar num jardim público é um luxo acessível a todos." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Il fait + météo",
+    "explanationPt": "Para falar do tempo: 'il fait' + adjetivo. Ex.: 'Il fait beau' (Faz tempo bom), 'Il fait chaud' (Faz calor), 'Il fait froid' (Faz frio).",
+    "exampleFr": "Il fait beau et les fleurs sont magnifiques.",
+    "examplePt": "Faz tempo bom e as flores são magníficas.",
+    "practiceQuestion": "Complete com a expressão correta: 'En hiver, il fait _____.'",
+    "options": ["froid", "chaud", "beau"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "Il fait + météo",
+        "explanationPt": "Tempo: 'il fait beau' (bom), 'il fait chaud' (calor), 'il fait froid' (frio). Ex.: 'En été, il fait chaud à Paris.'",
+        "exampleFr": "En été, il fait chaud et les Parisiens se reposent au soleil.",
+        "examplePt": "No verão, faz calor e os parisienses descansam ao sol.",
+        "practiceQuestion": "Complete: 'Au printemps, il fait _____.'",
+        "options": ["beau", "froid", "nuit"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "Les saisons et les prépositions",
+        "explanationPt": "As estações: le printemps (primavera), l'été (verão), l'automne (outono), l'hiver (inverno). Usamos 'au' + printemps/été... na verdade: 'au printemps', 'en été', 'en automne', 'en hiver'.",
+        "exampleFr": "Au printemps, en été, en automne et en hiver, les jardins de Paris sont beaux.",
+        "examplePt": "Na primavera, no verão, no outono e no inverno, os jardins de Paris são bonitos.",
+        "practiceQuestion": "Complete com a preposição correta: '_____ été, nous allons aux Tuileries.'",
+        "options": ["En", "Au", "Dans"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Complete a frase do texto: 'Au printemps, il fait _____ et les fleurs sont magnifiques.'",
+      "options": ["beau", "froid", "nuit"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'Il fait beau et les fleurs sont magnifiques.'"
+    },
+    {
+      "question": "Ordene corretamente as palavras da frase: [ au soleil / se reposent / les Parisiens / , / ]",
+      "options": [
+        "Les Parisiens se reposent au soleil.",
+        "Au soleil se reposent les Parisiens.",
+        "Les Parisiens au soleil se reposent."
+      ],
+      "correctIndex": 0,
+      "explanation": "A frase exata do texto é 'les Parisiens se reposent au soleil.'"
+    },
+    {
+      "question": "Como se traduz: 'No inverno, faz frio'?",
+      "options": [
+        "En hiver, il fait froid.",
+        "En été, il fait froid.",
+        "En hiver, il fait chaud."
+      ],
+      "correctIndex": 0,
+      "explanation": "'En hiver' = no inverno; 'il fait froid' = faz frio."
+    },
+    {
+      "question": "Identifique a frase com ERRO:",
+      "options": [
+        "Au printemps, il fait beau.",
+        "En été, il fait chaud.",
+        "En hiver, il fait chaud à Paris."
+      ],
+      "correctIndex": 2,
+      "explanation": "A frase 'En hiver, il fait chaud' é falsa: no inverno faz frio ('il fait froid')."
+    },
+    {
+      "question": "Qual é a estação preferida de Irlan?",
+      "options": [
+        "O outono, porque as folhas ficam laranja e vermelhas",
+        "O inverno, porque neva",
+        "O verão, porque faz muito calor"
+      ],
+      "correctIndex": 0,
+      "explanation": "No texto: 'En automne, les feuilles sont orange et rouges. C'est ma saison préférée.'"
+    }
+  ]
+}

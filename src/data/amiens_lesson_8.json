@@ -1,0 +1,268 @@
+{
+  "id": "amiens_lesson_8",
+  "cityId": "amiens",
+  "domain": "Gastronomia & Restaurante",
+  "level": "Iniciante em Transição (A1/A2)",
+  "titleFr": "Le déjeuner picard",
+  "titlePt": "O almoço picardo",
+  "subtitleFr": "La ficelle picarde, le gâteau battu et les macarons",
+  "subtitlePt": "A ficelle picarde, o gâteau battu e os macarons",
+  "summaryPt": "Nesta Aula 8 (A1/A2), a família almoça num restaurante tradicional de Amiens. Eles pedem a ficelle picarde e o gâteau battu, especialidades da região. Íris aprende a pedir com educação. O aluno aprende 'je voudrais' + infinitivo e a diferença entre 'c'est' e 'il/elle est'.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "À midi, la famille entre dans un restaurant picard. Le serveur apporte la carte. « Je voudrais une ficelle picarde, s'il vous plaît », dit Irlan.",
+      "pt": "Ao meio-dia, a família entra num restaurante picardo. O garçom traz o cardápio. «Eu gostaria de uma ficelle picarde, por favor», diz Irlan."
+    },
+    {
+      "id": 2,
+      "fr": "La ficelle picarde est une crêpe roulée avec du jambon, des champignons et de la crème. C'est une spécialité délicieuse d'Amiens.",
+      "pt": "A ficelle picarde é uma crêpe enrolada com presunto, cogumelos e creme. É uma especialidade deliciosa de Amiens."
+    },
+    {
+      "id": 3,
+      "fr": "« Je voudrais un gâteau battu, s'il vous plaît », demande Íris. Le gâteau battu est un gâteau doré et moelleux. « C'est très bon ! » dit-elle.",
+      "pt": "«Eu gostaria de um gâteau battu, por favor», pede Íris. O gâteau battu é um bolo dourado e macio. «É muito bom!» diz ela."
+    },
+    {
+      "id": 4,
+      "fr": "Le serveur est gentil et la salle est chaleureuse. « La cuisine picarde est simple, mais elle est excellente », explique Andréa. Tout le monde est d'accord.",
+      "pt": "O garçom é gentil e a sala é acolhedora. «A cozinha picarda é simples, mas é excelente», explica Andréa. Todos concordam."
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "restaurant",
+      "definitionPt": "restaurante",
+      "definitionFr": "Lieu où l'on prépare et sert des repas.",
+      "inflections": ["le restaurant", "un restaurant", "des restaurants"],
+      "ptTargets": ["restaurante"],
+      "examples": [
+        { "level": "A1", "fr": "La famille entre dans un restaurant.", "pt": "A família entra num restaurante." },
+        { "level": "A2-B1", "fr": "Le restaurant est plein à midi.", "pt": "O restaurante está cheio ao meio-dia." },
+        { "level": "B2", "fr": "Ce restaurant propose des spécialités locales.", "pt": "Este restaurante oferece especialidades locais." },
+        { "level": "C1-C2", "fr": "Les restaurants traditionnels perpétuent la gastronomie régionale.", "pt": "Os restaurantes tradicionais perpetuam a gastronomia regional." }
+      ]
+    },
+    {
+      "term": "carte",
+      "definitionPt": "cardápio / mapa",
+      "definitionFr": "Liste des plats, ou représentation d'un territoire.",
+      "inflections": ["la carte", "une carte", "des cartes"],
+      "ptTargets": ["cardápio", "mapa"],
+      "examples": [
+        { "level": "A1", "fr": "Le serveur apporte la carte.", "pt": "O garçom traz o cardápio." },
+        { "level": "A2-B1", "fr": "La carte est longue et variée.", "pt": "O cardápio é longo e variado." },
+        { "level": "B2", "fr": "La carte propose des plats de saison.", "pt": "O cardápio oferece pratos da estação." },
+        { "level": "C1-C2", "fr": "La carte reflète l'identité culinaire de la région.", "pt": "O cardápio reflete a identidade culinária da região." }
+      ]
+    },
+    {
+      "term": "jambon",
+      "definitionPt": "presunto",
+      "definitionFr": "Viande de porc salée et séchée ou cuite.",
+      "inflections": ["le jambon", "un jambon", "des jambons"],
+      "ptTargets": ["presunto"],
+      "examples": [
+        { "level": "A1", "fr": "La ficelle picarde contient du jambon.", "pt": "A ficelle picarde contém presunto." },
+        { "level": "A2-B1", "fr": "J'aime le jambon dans les crêpes.", "pt": "Eu gosto de presunto nas crêpes." },
+        { "level": "B2", "fr": "Le jambon fumé donne un goût particulier au plat.", "pt": "O presunto defumado dá um sabor particular ao prato." },
+        { "level": "C1-C2", "fr": "Le jambon d'Amiens accompagne les spécialités picardes.", "pt": "O presunto de Amiens acompanha as especialidades picardas." }
+      ]
+    },
+    {
+      "term": "champignon",
+      "definitionPt": "cogumelo",
+      "definitionFr": "Plante qui pousse dans les bois, comestible ou non.",
+      "inflections": ["le champignon", "un champignon", "des champignons"],
+      "ptTargets": ["cogumelo"],
+      "examples": [
+        { "level": "A1", "fr": "La ficelle picarde a des champignons.", "pt": "A ficelle picarde tem cogumelos." },
+        { "level": "A2-B1", "fr": "J'aime les champignons dans la sauce.", "pt": "Eu gosto de cogumelos no molho." },
+        { "level": "B2", "fr": "Les champignons frais parfument le plat.", "pt": "Os cogumelos frescos perfumam o prato." },
+        { "level": "C1-C2", "fr": "Le champignon, délicatement cuisiné, est un trésor de la forêt.", "pt": "O cogumelo, delicadamente cozinhado, é um tesouro da floresta." }
+      ]
+    },
+    {
+      "term": "crème",
+      "definitionPt": "creme, nata",
+      "definitionFr": "Produit laitier épais et doux.",
+      "inflections": ["la crème", "une crème"],
+      "ptTargets": ["creme", "nata"],
+      "examples": [
+        { "level": "A1", "fr": "La crème est dans la recette.", "pt": "O creme está na receita." },
+        { "level": "A2-B1", "fr": "La crème donne du goût au plat.", "pt": "O creme dá sabor ao prato." },
+        { "level": "B2", "fr": "Une sauce à la crème accompagne la ficelle.", "pt": "Um molho de creme acompanha a ficelle." },
+        { "level": "C1-C2", "fr": "La crème fraîche est un pilier de la cuisine française.", "pt": "O creme de leite fresco é um pilar da cozinha francesa." }
+      ]
+    },
+    {
+      "term": "délicieux",
+      "definitionPt": "delicioso",
+      "definitionFr": "Qui a un goût très agréable.",
+      "inflections": ["délicieux", "délicieuse", "délicieux"],
+      "ptTargets": ["delicioso"],
+      "examples": [
+        { "level": "A1", "fr": "La spécialité est délicieuse.", "pt": "A especialidade é deliciosa." },
+        { "level": "A2-B1", "fr": "Cette crêpe est délicieuse.", "pt": "Esta crêpe é deliciosa." },
+        { "level": "B2", "fr": "La cuisine picarde est délicieuse et généreuse.", "pt": "A cozinha picarda é deliciosa e generosa." },
+        { "level": "C1-C2", "fr": "Un dessert délicieux conclut parfaitement le repas.", "pt": "Uma sobremesa deliciosa conclui perfeitamente a refeição." }
+      ]
+    },
+    {
+      "term": "excellent",
+      "definitionPt": "excelente",
+      "definitionFr": "Très bon, de très grande qualité.",
+      "inflections": ["excellent", "excellente", "excellents", "excellentes"],
+      "ptTargets": ["excelente"],
+      "examples": [
+        { "level": "A1", "fr": "La cuisine est excellente.", "pt": "A cozinha é excelente." },
+        { "level": "A2-B1", "fr": "Le gâteau battu est excellent.", "pt": "O gâteau battu é excelente." },
+        { "level": "B2", "fr": "La qualité de ce restaurant est excellente.", "pt": "A qualidade deste restaurante é excelente." },
+        { "level": "C1-C2", "fr": "Une cuisine simple mais excellente vaut tous les grands restaurants.", "pt": "Uma cozinha simples, mas excelente, vale todos os grandes restaurantes." }
+      ]
+    },
+    {
+      "term": "chaleureux",
+      "definitionPt": "acolhedor, caloroso",
+      "definitionFr": "Qui est accueillant et agréable.",
+      "inflections": ["chaleureux", "chaleureuse", "chaleureux"],
+      "ptTargets": ["acolhedor", "caloroso"],
+      "examples": [
+        { "level": "A1", "fr": "La salle est chaleureuse.", "pt": "A sala é acolhedora." },
+        { "level": "A2-B1", "fr": "Le restaurant est petit mais chaleureux.", "pt": "O restaurante é pequeno, mas acolhedor." },
+        { "level": "B2", "fr": "L'accueil chaleureux des Picards est réputé.", "pt": "A recepção calorosa dos picardos é famosa." },
+        { "level": "C1-C2", "fr": "Une atmosphère chaleureuse rend le repas inoubliable.", "pt": "Uma atmosfera acolhedora torna a refeição inesquecível." }
+      ]
+    },
+    {
+      "term": "cuisine",
+      "definitionPt": "cozinha (lugar e arte culinária)",
+      "definitionFr": "Pièce où l'on cuisine, ou art de cuisiner.",
+      "inflections": ["la cuisine", "une cuisine", "des cuisines"],
+      "ptTargets": ["cozinha"],
+      "examples": [
+        { "level": "A1", "fr": "La cuisine picarde est simple.", "pt": "A cozinha picarda é simples." },
+        { "level": "A2-B1", "fr": "La cuisine est ouverte sur la salle.", "pt": "A cozinha é aberta para a sala." },
+        { "level": "B2", "fr": "La cuisine française est célèbre dans le monde.", "pt": "A cozinha francesa é famosa no mundo." },
+        { "level": "C1-C2", "fr": "La cuisine régionale raconte le terroir et les saisons.", "pt": "A cozinha regional conta o terroir e as estações." }
+      ]
+    },
+    {
+      "term": "simple",
+      "definitionPt": "simples",
+      "definitionFr": "Qui n'est pas compliqué.",
+      "inflections": ["simple", "simples"],
+      "ptTargets": ["simples"],
+      "examples": [
+        { "level": "A1", "fr": "Le plat est simple mais bon.", "pt": "O prato é simples, mas bom." },
+        { "level": "A2-B1", "fr": "La recette est simple et rapide.", "pt": "A receita é simples e rápida." },
+        { "level": "B2", "fr": "Les plats simples mettent en valeur les produits.", "pt": "Os pratos simples valorizam os produtos." },
+        { "level": "C1-C2", "fr": "La simplicité est souvent la marque du grand savoir-faire.", "pt": "A simplicidade é muitas vezes a marca do grande saber-fazer." }
+      ]
+    },
+    {
+      "term": "serveur",
+      "definitionPt": "garçom",
+      "definitionFr": "Personne qui sert les clients dans un restaurant.",
+      "inflections": ["le serveur", "un serveur", "des serveurs"],
+      "ptTargets": ["garçom"],
+      "examples": [
+        { "level": "A1", "fr": "Le serveur apporte la carte.", "pt": "O garçom traz o cardápio." },
+        { "level": "A2-B1", "fr": "Le serveur est très gentil.", "pt": "O garçom é muito gentil." },
+        { "level": "B2", "fr": "Le serveur explique les spécialités du jour.", "pt": "O garçom explica as especialidades do dia." },
+        { "level": "C1-C2", "fr": "Un bon serveur conseille les plats avec générosité.", "pt": "Um bom garçom recomenda os pratos com generosidade." }
+      ]
+    },
+    {
+      "term": "demander",
+      "definitionPt": "pedir, perguntar",
+      "definitionFr": "Solliciter quelque chose ou poser une question.",
+      "inflections": ["je demande", "demander", "il demande"],
+      "ptTargets": ["pedir", "perguntar"],
+      "examples": [
+        { "level": "A1", "fr": "Je voudrais demander le gâteau battu.", "pt": "Eu gostaria de pedir o gâteau battu." },
+        { "level": "A2-B1", "fr": "Elle demande l'addition.", "pt": "Ela pede a conta." },
+        { "level": "B2", "fr": "Il demande des conseils au serveur.", "pt": "Ele pede conselhos ao garçom." },
+        { "level": "C1-C2", "fr": "Demander poliment est la clé d'un bon service.", "pt": "Pedir educadamente é a chave de um bom serviço." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Je voudrais + infinitif / nom",
+    "explanationPt": "Para pedir com educação: 'Je voudrais' (eu gostaria) + substantivo ou infinitivo. Ex.: 'Je voudrais une ficelle picarde, s'il vous plaît.' / 'Je voudrais goûter le gâteau battu.'",
+    "exampleFr": "Je voudrais une ficelle picarde, s'il vous plaît.",
+    "examplePt": "Eu gostaria de uma ficelle picarde, por favor.",
+    "practiceQuestion": "Complete com a forma correta: 'Je _____ un gâteau battu, s'il vous plaît.'",
+    "options": ["voudrais", "vouloir", "veux pas"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "Je voudrais + infinitif / nom",
+        "explanationPt": "'Je voudrais' é o condicional de polidez de 'vouloir'. Ex.: 'Je voudrais une crêpe.' / 'Je voudrais visiter la cathédrale.'",
+        "exampleFr": "Je voudrais goûter la spécialité picarde.",
+        "examplePt": "Eu gostaria de provar a especialidade picarda.",
+        "practiceQuestion": "Complete: 'Nous _____ une table pour quatre, s'il vous plaît.'",
+        "options": ["voudrions", "voudrais", "vouloir"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "C'est vs il / elle est (révision)",
+        "explanationPt": "'C'est + adjetivo/avaliação' com valor geral: 'C'est très bon', 'C'est délicieux'. 'Il/elle est' com sujeito definido: 'La cuisine picarde est simple, mais elle est excellente.'",
+        "exampleFr": "C'est très bon ! Et la cuisine picarde est simple, mais elle est excellente.",
+        "examplePt": "É muito bom! E a cozinha picarda é simples, mas é excelente.",
+        "practiceQuestion": "Complete: 'La ficelle picarde, _____ est délicieuse.'",
+        "options": ["elle", "c'", "il"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Complete a frase do texto: 'Je _____ une ficelle picarde, s'il vous plaît.'",
+      "options": ["voudrais", "vouloir", "voudrai"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'Je voudrais une ficelle picarde, s'il vous plaît.'"
+    },
+    {
+      "question": "Ordene corretamente as palavras da frase: [ une ficelle picarde / je voudrais / s'il vous plaît / , / ]",
+      "options": [
+        "Je voudrais une ficelle picarde, s'il vous plaît.",
+        "Une ficelle picarde je voudrais, s'il vous plaît.",
+        "Je voudrais s'il vous plaît une ficelle picarde."
+      ],
+      "correctIndex": 0,
+      "explanation": "A frase exata do texto é 'Je voudrais une ficelle picarde, s'il vous plaît.'"
+    },
+    {
+      "question": "Como se traduz: 'É muito bom!'?",
+      "options": [
+        "C'est très bon !",
+        "Il est très bon !",
+        "C'est très bien s'il vous plaît."
+      ],
+      "correctIndex": 0,
+      "explanation": "'C'est + adjetivo' para avaliação geral: 'C'est très bon !'"
+    },
+    {
+      "question": "Identifique a frase com ERRO de polidez:",
+      "options": [
+        "Je voudrais une crêpe, s'il vous plaît.",
+        "Je voudrais goûter le gâteau battu.",
+        "Je vouloir un café."
+      ],
+      "correctIndex": 2,
+      "explanation": "O erro é 'Je vouloir un café': o correto é 'Je voudrais un café'."
+    },
+    {
+      "question": "O que é a ficelle picarde?",
+      "options": [
+        "Uma crêpe enrolada com presunto, cogumelos e creme",
+        "Uma sopa de peixe",
+        "Um bolo de chocolate"
+      ],
+      "correctIndex": 0,
+      "explanation": "No texto: 'La ficelle picarde est une crêpe roulée avec du jambon, des champignons et de la crème.'"
+    }
+  ]
+}

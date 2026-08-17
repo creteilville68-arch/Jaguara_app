@@ -1,0 +1,250 @@
+{
+  "id": "tours_lesson_12",
+  "cityId": "tours",
+  "domain": "História & Cultura",
+  "level": "Intermediário (B1)",
+  "titleFr": "La basilique Saint-Martin : le manteau partagé",
+  "titlePt": "A basílica de Saint-Martin: o manto dividido",
+  "subtitleFr": "La légende du manteau coupé en deux et la ville de Tours",
+  "subtitlePt": "A lenda do manto cortado ao meio e a cidade de Tours",
+  "summaryPt": "Nesta Aula 12 (B1), a família visita a basílica Saint-Martin, onde repousa o famoso bispo que dividiu seu manto com um pobre. O aluno pratica a narração com pronomes relativos (le manteau qu'il a partagé), o imperativo com pronomes (Raconte-nous !) e o vocabulário do pèlerinage.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "« Raconte-nous l'histoire de saint Martin, papa ! » a demandé Iris. Irlan s'est assis sur un banc : « Il y a très longtemps, Martin était un soldat romain. Un soir d'hiver, il a rencontré un pauvre qui grelottait. »",
+      "pt": "« Conta para a gente a história de são Martinho, papai! » pediu Íris. Irlan sentou num banco: « Há muito tempo, Martinho era um soldado romano. Numa noite de inverno, encontrou um pobre que tiritava. »"
+    },
+    {
+      "id": 2,
+      "fr": "« Martin avait un manteau. Il l'a coupé en deux avec son épée et il en a donné la moitié au pauvre. Cette nuit-là, il a rêvé du Christ qui portait ce manteau. »",
+      "pt": "« Martinho tinha um manto. Cortou-o ao meio com sua espada e deu metade ao pobre. Naquela noite, sonhou com Cristo que vestia aquele manto. »"
+    },
+    {
+      "id": 3,
+      "fr": "« Et alors ? » a demandé Iris. « Alors Martin est devenu évêque de Tours », a continué Irlan. « Après sa mort, sa tombe est devenue un lieu de pèlerinage. C'est pour lui que la ville s'appelle Tours. »",
+      "pt": "« E então? » perguntou Íris. « Então Martinho se tornou bispo de Tours », continuou Irlan. « Depois de sua morte, sua tumba virou um lugar de peregrinação. É por ele que a cidade se chama Tours. »"
+    },
+    {
+      "id": 4,
+      "fr": "La basilique, détruite pendant la Révolution, a été reconstruite au XIXe siècle. « Les gens ont reconstruit cette église parce que Martin est très aimé », a expliqué Andréa. « Chaque année, des milliers de pèlerins viennent ici. »",
+      "pt": "A basílica, destruída durante a Revolução, foi reconstruída no século XIX. « As pessoas reconstruíram esta igreja porque Martinho é muito amado », explicou Andréa. « Todos os anos, milhares de peregrinos vêm aqui. »"
+    },
+    {
+      "id": 5,
+      "fr": "Dans la basilique, Iris a regardé les vitraux qui racontent la vie de Martin. « Moi, quand je serai grande, je partagerai mon manteau », a-t-elle promis. Irlan l'a serrée : « C'est la plus belle leçon de la Touraine. »",
+      "pt": "Na basílica, Íris olhou os vitrais que contam a vida de Martinho. « Eu, quando for grande, vou dividir meu casaco », prometeu. Irlan a abraçou: « É a lição mais bonita da Touraine. »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "la basilique",
+      "definitionPt": "a basílica",
+      "definitionFr": "Grande église importante.",
+      "inflections": ["la basilique", "une basilique", "des basiliques"],
+      "ptTargets": ["basílica"],
+      "examples": [
+        { "level": "A1", "fr": "La basilique est grande.", "pt": "A basílica é grande." },
+        { "level": "A2-B1", "fr": "La basilique Saint-Martin est à Tours.", "pt": "A basílica de Saint-Martin fica em Tours." },
+        { "level": "B1", "fr": "La basilique que nous avons visitée est magnifique.", "pt": "A basílica que visitamos é magnífica." },
+        { "level": "C1-C2", "fr": "La basilique, arche de prière, accueille les pèlerins de tous les chemins.", "pt": "A basílica, arca de oração, acolhe os peregrinos de todos os caminhos." }
+      ]
+    },
+    {
+      "term": "le manteau",
+      "definitionPt": "o manto, o casaco",
+      "definitionFr": "Vêtement chaud que l'on porte par-dessus.",
+      "inflections": ["le manteau", "un manteau", "des manteaux"],
+      "ptTargets": ["manto", "casaco"],
+      "examples": [
+        { "level": "A1", "fr": "Le manteau est chaud.", "pt": "O casaco é quente." },
+        { "level": "A2-B1", "fr": "Martin a partagé son manteau avec un pauvre.", "pt": "Martinho dividiu seu manto com um pobre." },
+        { "level": "B1", "fr": "Le manteau qu'il a coupé en deux est resté célèbre.", "pt": "O manto que ele cortou ao meio ficou famoso." },
+        { "level": "C1-C2", "fr": "Le manteau partagé, geste minuscule, a changé l'histoire d'une ville.", "pt": "O manto dividido, gesto minúsculo, mudou a história de uma cidade." }
+      ]
+    },
+    {
+      "term": "partager",
+      "definitionPt": "dividir, compartilhar",
+      "definitionFr": "Donner une partie de ce que l'on a.",
+      "inflections": ["je partage", "tu partages", "il partage", "nous partageons"],
+      "ptTargets": ["dividir", "compartilhar"],
+      "examples": [
+        { "level": "A1", "fr": "Je partage mon gâteau.", "pt": "Eu divido meu bolo." },
+        { "level": "A2-B1", "fr": "Martin a partagé son manteau.", "pt": "Martinho dividiu seu manto." },
+        { "level": "B1", "fr": "Partager, c'est ce que nous apprendrons à Iris.", "pt": "Dividir é o que ensinaremos a Íris." },
+        { "level": "C1-C2", "fr": "Partager, c'est démultiplier ce que l'on possède.", "pt": "Dividir é multiplicar o que se possui." }
+      ]
+    },
+    {
+      "term": "le pauvre",
+      "definitionPt": "o pobre",
+      "definitionFr": "Personne qui n'a pas d'argent.",
+      "inflections": ["le pauvre", "un pauvre", "des pauvres"],
+      "ptTargets": ["pobre"],
+      "examples": [
+        { "level": "A1", "fr": "Le pauvre a froid.", "pt": "O pobre tem frio." },
+        { "level": "A2-B1", "fr": "Martin a donné son manteau à un pauvre.", "pt": "Martinho deu seu manto a um pobre." },
+        { "level": "B1", "fr": "Le pauvre qui grelottait a reçu la moitié du manteau.", "pt": "O pobre que tiritava recebeu metade do manto." },
+        { "level": "C1-C2", "fr": "Le pauvre, miroir de notre humanité, nous rappelle ce que nous partageons.", "pt": "O pobre, espelho de nossa humanidade, lembra-nos o que compartilhamos." }
+      ]
+    },
+    {
+      "term": "l'épée",
+      "definitionPt": "a espada",
+      "definitionFr": "Arme longue et pointue.",
+      "inflections": ["l'épée", "une épée", "des épées"],
+      "ptTargets": ["espada"],
+      "examples": [
+        { "level": "A1", "fr": "L'épée est brillante.", "pt": "A espada é brilhante." },
+        { "level": "A2-B1", "fr": "Martin a coupé son manteau avec son épée.", "pt": "Martinho cortou seu manto com sua espada." },
+        { "level": "B1", "fr": "L'épée qui a coupé le manteau est devenue une légende.", "pt": "A espada que cortou o manto virou lenda." },
+        { "level": "C1-C2", "fr": "L'épée, arme de guerre, est devenue ici instrument de générosité.", "pt": "A espada, arma de guerra, tornou-se aqui instrumento de generosidade." }
+      ]
+    },
+    {
+      "term": "l'évêque",
+      "definitionPt": "o bispo",
+      "definitionFr": "Chef religieux d'une région.",
+      "inflections": ["l'évêque", "un évêque", "des évêques"],
+      "ptTargets": ["bispo"],
+      "examples": [
+        { "level": "A1", "fr": "L'évêque est sage.", "pt": "O bispo é sábio." },
+        { "level": "A2-B1", "fr": "Martin est devenu évêque de Tours.", "pt": "Martinho se tornou bispo de Tours." },
+        { "level": "B1", "fr": "L'évêque dont on visite la tombe est vénéré.", "pt": "O bispo cuja tumba se visita é venerado." },
+        { "level": "C1-C2", "fr": "L'évêque, pasteur de la ville, portait la foi comme un manteau partagé.", "pt": "O bispo, pastor da cidade, carregava a fé como um manto dividido." }
+      ]
+    },
+    {
+      "term": "la tombe",
+      "definitionPt": "a tumba, o túmulo",
+      "definitionFr": "Lieu où repose un mort.",
+      "inflections": ["la tombe", "une tombe", "des tombes"],
+      "ptTargets": ["tumba", "túmulo"],
+      "examples": [
+        { "level": "A1", "fr": "La tombe est en pierre.", "pt": "A tumba é de pedra." },
+        { "level": "A2-B1", "fr": "La tombe de saint Martin attire les pèlerins.", "pt": "A tumba de são Martinho atrai os peregrinos." },
+        { "level": "B1", "fr": "La tombe que nous avons vue est sous la basilique.", "pt": "A tumba que vimos fica sob a basílica." },
+        { "level": "C1-C2", "fr": "La tombe, demeure silencieuse, garde la mémoire d'un geste immense.", "pt": "A tumba, morada silenciosa, guarda a memória de um gesto imenso." }
+      ]
+    },
+    {
+      "term": "le pèlerinage",
+      "definitionPt": "a peregrinação",
+      "definitionFr": "Voyage vers un lieu saint.",
+      "inflections": ["le pèlerinage", "un pèlerinage", "des pèlerinages"],
+      "ptTargets": ["peregrinação"],
+      "examples": [
+        { "level": "A1", "fr": "Le pèlerinage est long.", "pt": "A peregrinação é longa." },
+        { "level": "A2-B1", "fr": "Tours est un lieu de pèlerinage.", "pt": "Tours é um lugar de peregrinação." },
+        { "level": "B1", "fr": "Le pèlerinage qui passe par Tours est célèbre.", "pt": "A peregrinação que passa por Tours é famosa." },
+        { "level": "C1-C2", "fr": "Le pèlerinage, chemin intérieur, transforme chaque pas en prière.", "pt": "A peregrinação, caminho interior, transforma cada passo em oração." }
+      ]
+    },
+    {
+      "term": "le vitrail",
+      "definitionPt": "o vitral",
+      "definitionFr": "Fenêtre décorée de verres colorés.",
+      "inflections": ["le vitrail", "un vitrail", "des vitraux"],
+      "ptTargets": ["vitral"],
+      "examples": [
+        { "level": "A1", "fr": "Le vitrail est coloré.", "pt": "O vitral é colorido." },
+        { "level": "A2-B1", "fr": "Les vitraux racontent la vie de saint Martin.", "pt": "Os vitrais contam a vida de são Martinho." },
+        { "level": "B1", "fr": "Le vitrail que j'ai préféré montre le manteau partagé.", "pt": "O vitral de que mais gostei mostra o manto dividido." },
+        { "level": "C1-C2", "fr": "Le vitrail, livre de lumière, raconte les histoires à ceux qui ne lisent pas.", "pt": "O vitral, livro de luz, conta histórias aos que não leem." }
+      ]
+    },
+    {
+      "term": "la Révolution",
+      "definitionPt": "a Revolução",
+      "definitionFr": "Grand changement politique, surtout celle de 1789.",
+      "inflections": ["la Révolution", "la Révolution française"],
+      "ptTargets": ["Revolução"],
+      "examples": [
+        { "level": "A1", "fr": "La Révolution a changé la France.", "pt": "A Revolução mudou a França." },
+        { "level": "A2-B1", "fr": "La basilique a été détruite pendant la Révolution.", "pt": "A basílica foi destruída durante a Revolução." },
+        { "level": "B1", "fr": "La Révolution dont on parle a détruit beaucoup d'églises.", "pt": "A Revolução de que se fala destruiu muitas igrejas." },
+        { "level": "C1-C2", "fr": "La Révolution, tempête de l'histoire, a balayé les pierres mais pas la foi.", "pt": "A Revolução, tempestade da história, varreu as pedras, mas não a fé." }
+      ]
+    },
+    {
+      "term": "reconstruire",
+      "definitionPt": "reconstruir",
+      "definitionFr": "Construire de nouveau.",
+      "inflections": ["je reconstruis", "tu reconstruis", "il reconstruit", "nous reconstruisons"],
+      "ptTargets": ["reconstruir"],
+      "examples": [
+        { "level": "A1", "fr": "Ils reconstruisent la maison.", "pt": "Eles reconstroem a casa." },
+        { "level": "A2-B1", "fr": "On a reconstruit la basilique au XIXe siècle.", "pt": "Reconstruíram a basílica no século XIX." },
+        { "level": "B1", "fr": "Reconstruire, c'est ce que les Tourangeaux ont fait avec amour.", "pt": "Reconstruir é o que os tourangeaux fizeram com amor." },
+        { "level": "C1-C2", "fr": "Reconstruire, c'est réparer le temps avec de la foi.", "pt": "Reconstruir é reparar o tempo com fé." }
+      ]
+    },
+    {
+      "term": "grelotter",
+      "definitionPt": "tiritar, tremer de frio",
+      "definitionFr": "Trembler de froid.",
+      "inflections": ["je grelotte", "tu grelottes", "il grelotte", "nous grelottons"],
+      "ptTargets": ["tiritar", "tremer de frio"],
+      "examples": [
+        { "level": "A1", "fr": "J'ai froid, je grelotte.", "pt": "Estou com frio, estou tiritando." },
+        { "level": "A2-B1", "fr": "Le pauvre grelottait dans le froid.", "pt": "O pobre tiritava no frio." },
+        { "level": "B1", "fr": "Le pauvre qui grelottait a reçu un manteau.", "pt": "O pobre que tiritava recebeu um manto." },
+        { "level": "C1-C2", "fr": "Grelotter, c'est la langue muette du froid.", "pt": "Tiritar é a língua muda do frio." }
+      ]
+    },
+    {
+      "term": "promettre",
+      "definitionPt": "prometer",
+      "definitionFr": "Dire que l'on fera quelque chose.",
+      "inflections": ["je promets", "tu promets", "il promet", "nous promettons"],
+      "ptTargets": ["prometer"],
+      "examples": [
+        { "level": "A1", "fr": "Je promets de venir.", "pt": "Eu prometo vir." },
+        { "level": "A2-B1", "fr": "Iris a promis de partager son manteau.", "pt": "Íris prometeu dividir seu casaco." },
+        { "level": "B1", "fr": "Elle promet qu'elle partagera ses jouets.", "pt": "Ela promete que dividirá seus brinquedos." },
+        { "level": "C1-C2", "fr": "Promettre, c'est engager son avenir dans ses mots.", "pt": "Prometer é comprometer o futuro nas próprias palavras." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "titleFr": "L'impératif avec pronoms et le futur simple",
+    "titlePt": "O imperativo com pronomes e o futur simple",
+    "points": [
+      {
+        "fr": "L'impératif avec pronoms COD/COI : « Raconte-nous ! », « Donne-le-lui ! », « Partagez-les ! ». Le pronom se place après le verbe, avec un trait d'union.",
+        "pt": "O imperativo com pronomes COD/COI: « Raconte-nous ! » (Conta-nos!), « Donne-le-lui ! » (Dá-o a ele!), « Partagez-les ! » (Dividam-nos!). O pronome vem depois do verbo, com hífen."
+      },
+      {
+        "fr": "Le futur simple exprime la promesse : « Je partagerai, nous reconstruirons, ils viendront ». Exemple : « Quand je serai grande, je partagerai mon manteau. »",
+        "pt": "O futur simple exprime a promessa: « Je partagerai » (dividirei), « nous reconstruirons » (reconstruiremos), « ils viendront » (virão). Exemplo: « Quando eu for grande, dividirei meu casaco. »"
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Qui était Martin avant de devenir évêque ?",
+      "options": ["Un soldat romain", "Un roi", "Un pêcheur", "Un marchand"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Qu'est-ce que Martin a partagé avec le pauvre ?",
+      "options": ["Son manteau", "Son cheval", "Son pain", "Sa maison"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Avec quoi Martin a-t-il coupé son manteau ?",
+      "options": ["Avec son épée", "Avec des ciseaux", "Avec ses mains", "Avec un couteau de cuisine"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Pourquoi la ville s'appelle-t-elle Tours ?",
+      "options": ["À cause de saint Martin", "À cause d'un roi", "À cause d'un fleuve", "À cause d'un château"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Que promet Iris ?",
+      "options": ["De partager son manteau", "De devenir soldat", "De couper son vélo", "De quitter Tours"],
+      "correctIndex": 0
+    }
+  ]
+}

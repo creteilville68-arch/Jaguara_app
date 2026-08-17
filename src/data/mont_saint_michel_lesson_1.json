@@ -1,0 +1,252 @@
+{
+  "id": "mont_saint_michel_lesson_1",
+  "cityId": "mont-saint-michel",
+  "domain": "Cotidiano",
+  "level": "Básico (A2/B1)",
+  "titleFr": "Le Mont Saint-Michel : la baie au rythme des marées",
+  "titlePt": "O Mont Saint-Michel: a baía no ritmo das marés",
+  "subtitleFr": "L'arrivée en Normandie, le rocher au loin et le géographe qui retient son souffle",
+  "subtitlePt": "A chegada na Normandia, o rochedo ao longe e o geógrafo que prende a respiração",
+  "summaryPt": "Nesta Aula 1 (A2/B1) da Cidade #4, a família chega de trem a Pontorson e pega a navette até o Mont Saint-Michel. Na maré baixa, o rochedo aparece cercado por uma baía imensa. Irlan, geógrafo, explica as marés à família. O aluno aprende o Imparfait de l'Indicatif (la baie était immense, le ciel était gris) e a descrição de paisagens no passado.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Hier, nous avons pris le train jusqu'à Pontorson. De là, la navette nous a conduits au Mont Saint-Michel. Le ciel était gris, mais la vue était magnifique.",
+      "pt": "Ontem, pegamos o trem até Pontorson. De lá, a van nos levou ao Mont Saint-Michel. O céu estava cinzento, mas a vista era magnífica."
+    },
+    {
+      "id": 2,
+      "fr": "C'était la marée basse. La baie était immense et le rocher semblait sortir du sable. Irlan, le géographe, regardait l'horizon avec un grand sourire.",
+      "pt": "Era maré baixa. A baía era imensa e o rochedo parecia sair da areia. Irlan, o geógrafo, olhava o horizonte com um grande sorriso."
+    },
+    {
+      "id": 3,
+      "fr": "Il a expliqué : « Ici, les marées sont parmi les plus fortes d'Europe. L'eau peut monter de quinze mètres ! » Andréa et Íris écoutaient, émerveillées.",
+      "pt": "Ele explicou: « Aqui, as marés estão entre as mais fortes da Europa. A água pode subir quinze metros! » Andréa e Íris escutavam, encantadas."
+    },
+    {
+      "id": 4,
+      "fr": "La famille marchait doucement vers la porte du village. Le vent soufflait et les mouettes criaient au-dessus du rocher.",
+      "pt": "A família caminhava devagar em direção à porta do vilarejo. O vento soprava e as gaivotas gritavam sobre o rochedo."
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "la baie",
+      "definitionPt": "a baía",
+      "definitionFr": "Grande étendue de mer entre deux côtes.",
+      "inflections": ["la baie", "les baies"],
+      "ptTargets": ["baía"],
+      "examples": [
+        { "level": "A1", "fr": "La baie est grande.", "pt": "A baía é grande." },
+        { "level": "A2-B1", "fr": "La baie du Mont Saint-Michel est célèbre.", "pt": "A baía do Mont Saint-Michel é famosa." },
+        { "level": "B2", "fr": "La baie est classée au patrimoine mondial de l'UNESCO.", "pt": "A baía é classificada como patrimônio mundial da UNESCO." },
+        { "level": "C1-C2", "fr": "La baie du Mont Saint-Michel offre l'un des plus grands marnages d'Europe.", "pt": "A baía do Mont Saint-Michel oferece uma das maiores amplitudes de maré da Europa." }
+      ]
+    },
+    {
+      "term": "le rocher",
+      "definitionPt": "o rochedo",
+      "definitionFr": "Grande masse de pierre.",
+      "inflections": ["le rocher", "les rochers"],
+      "ptTargets": ["rochedo"],
+      "examples": [
+        { "level": "A1", "fr": "Le rocher est haut.", "pt": "O rochedo é alto." },
+        { "level": "A2-B1", "fr": "Le Mont Saint-Michel est un rocher dans la mer.", "pt": "O Mont Saint-Michel é um rochedo no mar." },
+        { "level": "B2", "fr": "Le rocher se transforme en île à marée haute.", "pt": "O rochedo se transforma em ilha na maré alta." },
+        { "level": "C1-C2", "fr": "La géologie du rocher granitique explique sa résistance à l'érosion marine.", "pt": "A geologia do rochedo granítico explica sua resistência à erosão marinha." }
+      ]
+    },
+    {
+      "term": "la marée",
+      "definitionPt": "a maré",
+      "definitionFr": "Montée et descente régulières de la mer.",
+      "inflections": ["la marée", "les marées"],
+      "ptTargets": ["maré"],
+      "examples": [
+        { "level": "A1", "fr": "La marée monte.", "pt": "A maré sobe." },
+        { "level": "A2-B1", "fr": "La marée peut monter de quinze mètres ici.", "pt": "A maré pode subir quinze metros aqui." },
+        { "level": "B2", "fr": "Les marées rythment la vie de la baie.", "pt": "As marés marcam o ritmo da vida da baía." },
+        { "level": "C1-C2", "fr": "L'amplitude exceptionnelle des marées est due à la configuration de la baie.", "pt": "A amplitude excepcional das marés deve-se à configuração da baía." }
+      ]
+    },
+    {
+      "term": "le ciel",
+      "definitionPt": "o céu",
+      "definitionFr": "Espace au-dessus de la terre.",
+      "inflections": ["le ciel", "les ciels"],
+      "ptTargets": ["céu"],
+      "examples": [
+        { "level": "A1", "fr": "Le ciel est bleu.", "pt": "O céu é azul." },
+        { "level": "A2-B1", "fr": "Le ciel était gris ce matin.", "pt": "O céu estava cinzento esta manhã." },
+        { "level": "B2", "fr": "Le ciel changeait de couleur à chaque heure.", "pt": "O céu mudava de cor a cada hora." },
+        { "level": "C1-C2", "fr": "La lumière changeante du ciel normand fascine les peintres depuis des siècles.", "pt": "A luz mutante do céu normando fascina os pintores há séculos." }
+      ]
+    },
+    {
+      "term": "la grève",
+      "definitionPt": "a praia de areia (na baía)",
+      "definitionFr": "Étendue de sable découverte à marée basse.",
+      "inflections": ["la grève", "les grèves"],
+      "ptTargets": ["areal"],
+      "examples": [
+        { "level": "A1", "fr": "La grève est longue.", "pt": "O areal é comprido." },
+        { "level": "A2-B1", "fr": "Nous avons marché sur la grève à marée basse.", "pt": "Caminhamos no areal na maré baixa." },
+        { "level": "B2", "fr": "La grève découvre des kilomètres de sable à marée basse.", "pt": "O areal revela quilômetros de areia na maré baixa." },
+        { "level": "C1-C2", "fr": "La topographie changeante de la grève rend la traversée de la baie délicate.", "pt": "A topografia mutante do areal torna a travessia da baía delicada." }
+      ]
+    },
+    {
+      "term": "la navette",
+      "definitionPt": "a van (transporte), o ônibus de ligação",
+      "definitionFr": "Transport qui relie deux lieux régulièrement.",
+      "inflections": ["la navette", "les navettes"],
+      "ptTargets": ["van"],
+      "examples": [
+        { "level": "A1", "fr": "La navette est rapide.", "pt": "A van é rápida." },
+        { "level": "A2-B1", "fr": "La navette nous a conduits jusqu'au rocher.", "pt": "A van nos levou até o rochedo." },
+        { "level": "B2", "fr": "Les navettes partent toutes les vingt minutes du parking.", "pt": "As vans saem a cada vinte minutos do estacionamento." },
+        { "level": "C1-C2", "fr": "La gestion des flux touristiques repose sur un système de navettes efficace.", "pt": "A gestão dos fluxos turísticos apoia-se em um sistema eficiente de vans." }
+      ]
+    },
+    {
+      "term": "la route",
+      "definitionPt": "a estrada",
+      "definitionFr": "Chemin pour les voitures et les bus.",
+      "inflections": ["la route", "les routes"],
+      "ptTargets": ["estrada"],
+      "examples": [
+        { "level": "A1", "fr": "La route est longue.", "pt": "A estrada é longa." },
+        { "level": "A2-B1", "fr": "La route traverse la baie jusqu'au rocher.", "pt": "A estrada atravessa a baía até o rochedo." },
+        { "level": "B2", "fr": "La route a remplacé l'ancienne chaussée dangereuse.", "pt": "A estrada substituiu a antiga calçada perigosa." },
+        { "level": "C1-C2", "fr": "La construction de la route a profondément modifié l'équilibre naturel de la baie.", "pt": "A construção da estrada modificou profundamente o equilíbrio natural da baía." }
+      ]
+    },
+    {
+      "term": "arriver",
+      "definitionPt": "chegar",
+      "definitionFr": "Atteindre un lieu.",
+      "inflections": ["j'arrive", "nous arrivons", "arrivé"],
+      "ptTargets": ["chegar"],
+      "examples": [
+        { "level": "A1", "fr": "Je arrive à la gare.", "pt": "Eu chego na estação." },
+        { "level": "A2-B1", "fr": "Nous sommes arrivés à Pontorson hier.", "pt": "Chegamos em Pontorson ontem." },
+        { "level": "B2", "fr": "Les visiteurs arrivent par bus ou par la navette.", "pt": "Os visitantes chegam de ônibus ou de van." },
+        { "level": "C1-C2", "fr": "Arriver au Mont au moment de la marée montante est un spectacle inoubliable.", "pt": "Chegar ao Mont no momento da maré enchente é um espetáculo inesquecível." }
+      ]
+    },
+    {
+      "term": "regarder",
+      "definitionPt": "olhar",
+      "definitionFr": "Diriger son regard vers quelque chose.",
+      "inflections": ["je regarde", "nous regardons", "regardé"],
+      "ptTargets": ["olhar"],
+      "examples": [
+        { "level": "A1", "fr": "Je regarde la mer.", "pt": "Eu olho o mar." },
+        { "level": "A2-B1", "fr": "Irlan regardait l'horizon avec un grand sourire.", "pt": "Irlan olhava o horizonte com um grande sorriso." },
+        { "level": "B2", "fr": "Nous avons regardé la marée monter pendant une heure.", "pt": "Nós olhamos a maré subir durante uma hora." },
+        { "level": "C1-C2", "fr": "Regarder la baie se transformer à chaque marée est une leçon de géographie vivante.", "pt": "Olhar a baía se transformar a cada maré é uma lição de geografia viva." }
+      ]
+    },
+    {
+      "term": "immense",
+      "definitionPt": "imenso",
+      "definitionFr": "Très grand, énorme.",
+      "inflections": ["immense", "immenses"],
+      "ptTargets": ["imenso"],
+      "examples": [
+        { "level": "A1", "fr": "La baie est immense.", "pt": "A baía é imensa." },
+        { "level": "A2-B1", "fr": "La baie était immense à marée basse.", "pt": "A baía estava imensa na maré baixa." },
+        { "level": "B2", "fr": "L'espace immense de la baie donne une impression de liberté totale.", "pt": "O espaço imenso da baía dá uma impressão de liberdade total." },
+        { "level": "C1-C2", "fr": "L'immensité de la baie contraste avec la verticalité du rocher et de l'abbaye.", "pt": "A imensidão da baía contrasta com a verticalidade do rochedo e da abadia." }
+      ]
+    },
+    {
+      "term": "calme",
+      "definitionPt": "calmo",
+      "definitionFr": "Sans bruit, paisible.",
+      "inflections": ["calme", "calmes"],
+      "ptTargets": ["calmo"],
+      "examples": [
+        { "level": "A1", "fr": "La mer est calme.", "pt": "O mar está calmo." },
+        { "level": "A2-B1", "fr": "La baie était calme au petit matin.", "pt": "A baía estava calma de madrugada." },
+        { "level": "B2", "fr": "Le silence calme de la baie invite à la réflexion.", "pt": "O silêncio calmo da baía convida à reflexão." },
+        { "level": "C1-C2", "fr": "L'atmosphère calme et minérale du site en fait un lieu de recueillement unique.", "pt": "A atmosfera calma e mineral do sítio o torna um lugar de recolhimento único." }
+      ]
+    },
+    {
+      "term": "l'horizon",
+      "definitionPt": "o horizonte",
+      "definitionFr": "Ligne où le ciel semble toucher la terre ou la mer.",
+      "inflections": ["l'horizon", "les horizons"],
+      "ptTargets": ["horizonte"],
+      "examples": [
+        { "level": "A1", "fr": "L'horizon est loin.", "pt": "O horizonte é longe." },
+        { "level": "A2-B1", "fr": "On voyait l'abbaye à l'horizon.", "pt": "Víamos a abadia no horizonte." },
+        { "level": "B2", "fr": "À l'horizon, le rocher semblait flotter sur le sable.", "pt": "No horizonte, o rochedo parecia flutuar sobre a areia." },
+        { "level": "C1-C2", "fr": "L'horizon de la baie se confond avec la mer, le ciel et le sable dans une même lumière.", "pt": "O horizonte da baía se confunde com o mar, o céu e a areia em uma mesma luz." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "L'Imparfait de l'Indicatif (la baie était immense)",
+    "explanationPt": "O Imparfait descreve o passado: cenários, clima, hábitos e estados. Formação: radical do 'nous' no presente + terminações -ais, -ais, -ait, -ions, -iez, -aient. Ex.: être → nous étions → 'la baie était immense'.",
+    "exampleFr": "Le ciel était gris, mais la vue était magnifique.",
+    "examplePt": "O céu estava cinzento, mas a vista era magnífica.",
+    "practiceQuestion": "Complete com o Imparfait: « La baie ___ immense. »",
+    "options": ["était", "est", "sera"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "La formation de l'imparfait",
+        "explanationPt": "Terminações: -ais, -ais, -ait, -ions, -iez, -aient. Ex.: regarder → je regardais, nous regardions; être → j'étais, il était.",
+        "exampleFr": "Le vent soufflait au-dessus du rocher.",
+        "examplePt": "O vento soprava sobre o rochedo.",
+        "practiceQuestion": "Qual é a forma correta do Imparfait de 'regarder'?",
+        "options": ["je regardais", "je regarde", "j'ai regardé"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "Décrire un paysage au passé",
+        "explanationPt": "Para descrever um cenário no passado, usamos o Imparfait: 'La baie était immense, le ciel était gris, le vent soufflait'.",
+        "exampleFr": "Les mouettes criaient au-dessus du rocher.",
+        "examplePt": "As gaivotas gritavam sobre o rochedo.",
+        "practiceQuestion": "Qual frase descreve um cenário no passado?",
+        "options": ["La baie était calme.", "La baie est calme.", "La baie sera calme."],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Como a família chegou ao Mont Saint-Michel?",
+      "options": ["de trem até Pontorson e depois de navette", "de avião", "a pé desde Lille"],
+      "correctIndex": 0,
+      "explanation": "Eles pegaram o trem até Pontorson e a navette até o Mont."
+    },
+    {
+      "question": "Qual era o estado da maré na chegada?",
+      "options": ["maré baixa", "maré alta", "maré cheia de peixes"],
+      "correctIndex": 0,
+      "explanation": "Era maré baixa, e o rochedo parecia sair do sable."
+    },
+    {
+      "question": "Quanto pode subir a maré na baía?",
+      "options": ["quinze metros", "dois metros", "cem metros"],
+      "correctIndex": 0,
+      "explanation": "As marés estão entre as mais fortes da Europa: até quinze metros."
+    },
+    {
+      "question": "Complete com o Imparfait: « Le ciel ___ gris. »",
+      "options": ["était", "est", "sera"],
+      "correctIndex": 0,
+      "explanation": "Imparfait de être: le ciel était gris."
+    },
+    {
+      "question": "O que Irlan fazia na vida e que explica seu fascínio pelo Mont?",
+      "options": ["era geógrafo", "era cozinheiro", "era mecânico"],
+      "correctIndex": 0,
+      "explanation": "Irlan é geógrafo e adorou explicar as marés para a família."
+    }
+  ]
+}

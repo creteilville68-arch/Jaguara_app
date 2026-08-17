@@ -1,0 +1,237 @@
+{
+  "id": "bordeaux_lesson_27",
+  "cityId": "bordeaux",
+  "domain": "Festas e tradições",
+  "level": "Intermediário (B1+)",
+  "titleFr": "Le marché de Noël : la place de la Bourse en fête",
+  "titlePt": "O mercado de Natal: a place de la Bourse em festa",
+  "subtitleFr": "En décembre, la plus belle place de Bordeaux s'illumine",
+  "subtitlePt": "Em dezembro, a mais bela praça de Bordeaux se ilumina",
+  "summaryPt": "Nesta Aula 27 (B1+), a família visita o marché de Noël na place de la Bourse, com seus chalés, vinho quente e luzes sobre o Miroir d'eau. O aluno pratica o vocabulário do Natal (le marché de Noël, le chalet, le vin chaud) e o conditionnel de desejo com os pronomes.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "« En décembre, la place de la Bourse devient un village de Noël », a dit Andréa. Des chalets en bois s'alignaient sous les lumières. « Je voudrais tout voir ! » a crié Iris. « On pourrait commencer par le vin chaud », a proposé Irlan.",
+      "pt": "« Em dezembro, a place de la Bourse vira uma vila de Natal », disse Andréa. Chalés de madeira se alinhavam sob as luzes. « Eu gostaria de ver tudo! » gritou Íris. « Poderíamos começar pelo vinho quente », propôs Irlan."
+    },
+    {
+      "id": 2,
+      "fr": "Le marché sentait la cannelle et le chocolat. Iris a choisi un petit cadeau pour Salomé : « Je le lui donnerais tout de suite si elle était là ! » « Elle le recevra à la rentrée », a souri sa mère. « Ça lui ferait tellement plaisir. »",
+      "pt": "O mercado cheirava a canela e chocolate. Íris escolheu um presentinho para Salomé: « Eu o daria a ela agora mesmo se ela estivesse aqui! » « Ela o receberá na volta às aulas », sorriu a mãe. « Isso lhe daria tanto prazer. »"
+    },
+    {
+      "id": 3,
+      "fr": "Irlan s'est arrêté devant un chalet de bijoux. « Je te l'achèterais bien, ce collier », a-t-il dit à Andréa. « Il brillerait comme le Miroir d'eau. » Andréa a rougi : « Tu me gâtes. Alors, je le prendrais avec plaisir. »",
+      "pt": "Irlan parou diante de um chalé de joias. « Eu bem que compraria este colar para você », disse a Andréa. « Ele brilharia como o Miroir d'eau. » Andréa corou: « Você me mima. Então, eu o aceitaria com prazer. »"
+    },
+    {
+      "id": 4,
+      "fr": "Le soir, la place s'est illuminée. Le Miroir d'eau reflétait les lumières du marché. « Regardez ! On dirait deux marchés de Noël, un en haut et un en bas ! » a dit Iris. « En voyant cela, j'ai envie de rester ici pour toujours », a murmuré Andréa.",
+      "pt": "À noite, a praça se iluminou. O Miroir d'eau refletia as luzes do mercado. « Olhem! Parecem dois mercados de Natal, um em cima e um embaixo! » disse Íris. « Vendo isso, tenho vontade de ficar aqui para sempre », murmurou Andréa."
+    },
+    {
+      "id": 5,
+      "fr": "En rentrant, les mains pleines de paquets, Irlan a dit : « Quand j'étais livreur, je livrais des cadeaux de Noël sans savoir pour qui ils étaient. Aujourd'hui, je choisis moi-même les cadeaux que j'offre. C'est ça, être chez soi quelque part. »",
+      "pt": "Voltando, com as mãos cheias de pacotes, Irlan disse: « Quando eu era entregador, entregava presentes de Natal sem saber para quem eram. Hoje, eu mesmo escolho os presentes que ofereço. É isso, sentir-se em casa em algum lugar. »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "le marché de Noël",
+      "definitionPt": "o mercado de Natal",
+      "definitionFr": "Marché de fin d'année avec des chalets.",
+      "inflections": ["le marché de Noël", "un marché de Noël", "des marchés de Noël"],
+      "ptTargets": ["mercado de Natal"],
+      "examples": [
+        { "level": "A1", "fr": "Le marché de Noël est beau.", "pt": "O mercado de Natal é bonito." },
+        { "level": "A2-B1", "fr": "Le marché de Noël est sur la place.", "pt": "O mercado de Natal fica na praça." },
+        { "level": "B1", "fr": "Le marché de Noël que l'on visite est illuminé.", "pt": "O mercado de Natal que se visita é iluminado." },
+        { "level": "C1-C2", "fr": "Le marché de Noël, village d'un soir, fait rêver la ville entière.", "pt": "O mercado de Natal, vila de uma noite, faz sonhar a cidade inteira." }
+      ]
+    },
+    {
+      "term": "le chalet",
+      "definitionPt": "o chalé",
+      "definitionFr": "Petite maison en bois.",
+      "inflections": ["le chalet", "un chalet", "des chalets"],
+      "ptTargets": ["chalé"],
+      "examples": [
+        { "level": "A1", "fr": "Le chalet est en bois.", "pt": "O chalé é de madeira." },
+        { "level": "A2-B1", "fr": "Les chalets vendent des cadeaux.", "pt": "Os chalés vendem presentes." },
+        { "level": "B1", "fr": "Les chalets que l'on voit brillent de mille lumières.", "pt": "Os chalés que se veem brilham com mil luzes." },
+        { "level": "C1-C2", "fr": "Le chalet, écrin de bois, offre aux passants un peu de chaleur d'hiver.", "pt": "O chalé, estojo de madeira, oferece aos passantes um pouco de calor de inverno." }
+      ]
+    },
+    {
+      "term": "le vin chaud",
+      "definitionPt": "o vinho quente",
+      "definitionFr": "Boisson chaude épicée de l'hiver.",
+      "inflections": ["le vin chaud", "un vin chaud"],
+      "ptTargets": ["vinho quente"],
+      "examples": [
+        { "level": "A1", "fr": "Le vin chaud est chaud.", "pt": "O vinho quente é quente." },
+        { "level": "A2-B1", "fr": "On boit du vin chaud au marché de Noël.", "pt": "Bebe-se vinho quente no mercado de Natal." },
+        { "level": "B1", "fr": "Le vin chaud que l'on boit sent la cannelle.", "pt": "O vinho quente que se bebe cheira a canela." },
+        { "level": "C1-C2", "fr": "Le vin chaud, feu liquide, réchauffe les mains et les cœurs de décembre.", "pt": "O vinho quente, fogo líquido, aquece as mãos e os corações de dezembro." }
+      ]
+    },
+    {
+      "term": "la cannelle",
+      "definitionPt": "a canela",
+      "definitionFr": "Épice douce et parfumée.",
+      "inflections": ["la cannelle", "de la cannelle"],
+      "ptTargets": ["canela"],
+      "examples": [
+        { "level": "A1", "fr": "La cannelle sent bon.", "pt": "A canela cheira bem." },
+        { "level": "A2-B1", "fr": "Le vin chaud est parfumé à la cannelle.", "pt": "O vinho quente é perfumado com canela." },
+        { "level": "B1", "fr": "La cannelle que l'on utilise vient de loin.", "pt": "A canela que se usa vem de longe." },
+        { "level": "C1-C2", "fr": "La cannelle, épice des fêtes, parfume les souvenirs d'hiver.", "pt": "A canela, especiaria das festas, perfuma as lembranças de inverno." }
+      ]
+    },
+    {
+      "term": "le cadeau",
+      "definitionPt": "o presente",
+      "definitionFr": "Chose offerte.",
+      "inflections": ["le cadeau", "un cadeau", "des cadeaux"],
+      "ptTargets": ["presente"],
+      "examples": [
+        { "level": "A1", "fr": "Le cadeau est joli.", "pt": "O presente é bonito." },
+        { "level": "A2-B1", "fr": "Iris a choisi un cadeau pour Salomé.", "pt": "Íris escolheu um presente para Salomé." },
+        { "level": "B1", "fr": "Les cadeaux que l'on offre viennent du cœur.", "pt": "Os presentes que se dão vêm do coração." },
+        { "level": "C1-C2", "fr": "Le cadeau, messager muet, dit ce que les mots n'osent pas.", "pt": "O presente, mensageiro mudo, diz o que as palavras não ousam." }
+      ]
+    },
+    {
+      "term": "le collier",
+      "definitionPt": "o colar",
+      "definitionFr": "Bijou que l'on porte autour du cou.",
+      "inflections": ["le collier", "un collier", "des colliers"],
+      "ptTargets": ["colar"],
+      "examples": [
+        { "level": "A1", "fr": "Le collier est doré.", "pt": "O colar é dourado." },
+        { "level": "A2-B1", "fr": "Le collier brille au marché.", "pt": "O colar brilha no mercado." },
+        { "level": "B1", "fr": "Le collier que l'on regarde est magnifique.", "pt": "O colar que se olha é magnífico." },
+        { "level": "C1-C2", "fr": "Le collier, cercle de lumière, encadre le visage de celle qui le porte.", "pt": "O colar, círculo de luz, emoldura o rosto de quem o usa." }
+      ]
+    },
+    {
+      "term": "la lumière",
+      "definitionPt": "a luz",
+      "definitionFr": "Éclairage, clarté.",
+      "inflections": ["la lumière", "une lumière", "des lumières"],
+      "ptTargets": ["luz"],
+      "examples": [
+        { "level": "A1", "fr": "La lumière est belle.", "pt": "A luz é bonita." },
+        { "level": "A2-B1", "fr": "Les lumières du marché sont partout.", "pt": "As luzes do mercado estão por toda parte." },
+        { "level": "B1", "fr": "Les lumières que le Miroir reflète dansent sur l'eau.", "pt": "As luzes que o Miroir reflete dançam na água." },
+        { "level": "C1-C2", "fr": "La lumière, artiste de décembre, peint la ville en or.", "pt": "A luz, artista de dezembro, pinta a cidade em ouro." }
+      ]
+    },
+    {
+      "term": "illuminé",
+      "definitionPt": "iluminado",
+      "definitionFr": "Rempli de lumières.",
+      "inflections": ["illuminé", "illuminée", "illuminés", "illuminées"],
+      "ptTargets": ["iluminado"],
+      "examples": [
+        { "level": "A1", "fr": "La place est illuminée.", "pt": "A praça está iluminada." },
+        { "level": "A2-B1", "fr": "Les chalets sont illuminés.", "pt": "Os chalés estão iluminados." },
+        { "level": "B1", "fr": "Les rues, que l'on illumine en décembre, sont magiques.", "pt": "As ruas, que se iluminam em dezembro, são mágicas." },
+        { "level": "C1-C2", "fr": "Illuminé, adjectif de fête, transforme la nuit en rêve éveillé.", "pt": "Iluminado, adjetivo de festa, transforma a noite em sonho acordado." }
+      ]
+    },
+    {
+      "term": "le paquet",
+      "definitionPt": "o pacote",
+      "definitionFr": "Objet emballé.",
+      "inflections": ["le paquet", "un paquet", "des paquets"],
+      "ptTargets": ["pacote", "embrulho"],
+      "examples": [
+        { "level": "A1", "fr": "Le paquet est rouge.", "pt": "O pacote é vermelho." },
+        { "level": "A2-B1", "fr": "Les mains sont pleines de paquets.", "pt": "As mãos estão cheias de pacotes." },
+        { "level": "B1", "fr": "Les paquets que l'on porte sont légers.", "pt": "Os pacotes que se carregam são leves." },
+        { "level": "C1-C2", "fr": "Le paquet, promesse pliée, cache sa surprise jusqu'au dernier moment.", "pt": "O pacote, promessa dobrada, esconde sua surpresa até o último momento." }
+      ]
+    },
+    {
+      "term": "offrir",
+      "definitionPt": "oferecer, dar de presente",
+      "definitionFr": "Donner en cadeau.",
+      "inflections": ["j'offre", "tu offres", "il offre", "nous offrons"],
+      "ptTargets": ["oferecer", "dar de presente"],
+      "examples": [
+        { "level": "A1", "fr": "J'offre une fleur.", "pt": "Eu ofereço uma flor." },
+        { "level": "A2-B1", "fr": "On offre des cadeaux à Noël.", "pt": "Oferecem-se presentes no Natal." },
+        { "level": "B1", "fr": "Les cadeaux que l'on offre rendent heureux.", "pt": "Os presentes que se dão fazem felizes." },
+        { "level": "C1-C2", "fr": "Offrir, geste généreux, double le plaisir de celui qui reçoit.", "pt": "Oferecer, gesto generoso, dobra o prazer de quem recebe." }
+      ]
+    },
+    {
+      "term": "le plaisir",
+      "definitionPt": "o prazer",
+      "definitionFr": "Joie, contentement.",
+      "inflections": ["le plaisir", "un plaisir", "des plaisirs"],
+      "ptTargets": ["prazer"],
+      "examples": [
+        { "level": "A1", "fr": "Le plaisir est grand.", "pt": "O prazer é grande." },
+        { "level": "A2-B1", "fr": "Ça lui ferait tellement plaisir.", "pt": "Isso lhe daria tanto prazer." },
+        { "level": "B1", "fr": "Les plaisirs que l'on partage durent plus longtemps.", "pt": "Os prazeres que se compartilham duram mais." },
+        { "level": "C1-C2", "fr": "Le plaisir, instant précieux, se multiplie quand on le donne.", "pt": "O prazer, instante precioso, multiplica-se quando se dá." }
+      ]
+    },
+    {
+      "term": "la surprise",
+      "definitionPt": "a surpresa",
+      "definitionFr": "Chose inattendue.",
+      "inflections": ["la surprise", "une surprise", "des surprises"],
+      "ptTargets": ["surpresa"],
+      "examples": [
+        { "level": "A1", "fr": "La surprise est gentille.", "pt": "A surpresa é gentil." },
+        { "level": "A2-B1", "fr": "Le marché est plein de surprises.", "pt": "O mercado está cheio de surpresas." },
+        { "level": "B1", "fr": "La surprise que l'on prépare rend heureux.", "pt": "A surpresa que se prepara faz felizes." },
+        { "level": "C1-C2", "fr": "La surprise, émotion neuve, réveille l'enfant qui dort en nous.", "pt": "A surpresa, emoção nova, desperta a criança que dorme em nós." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "titleFr": "Le conditionnel pour exprimer des désirs",
+    "titlePt": "O conditionnel para expressar desejos",
+    "points": [
+      {
+        "fr": "Le conditionnel exprime un souhait : « Je voudrais tout voir », « Je le lui donnerais tout de suite », « Ça lui ferait plaisir ».",
+        "pt": "O conditionnel expressa um desejo: « Je voudrais tout voir » (Eu gostaria de ver tudo), « Je le lui donnerais tout de suite » (Eu o daria a ela agora mesmo), « Ça lui ferait plaisir » (Isso lhe daria prazer)."
+      },
+      {
+        "fr": "La phrase irréelle : « Si elle était là, je le lui donnerais » (Se ela estivesse aqui, eu o daria a ela).",
+        "pt": "A frase irreal: « Si elle était là, je le lui donnerais » (Se ela estivesse aqui, eu o daria a ela)."
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Onde acontece o marché de Noël de Bordeaux ?",
+      "options": ["Na place de la Bourse", "No estádio", "Na estação", "No parque"],
+      "correctIndex": 0
+    },
+    {
+      "question": "O que a família bebeu no mercado ?",
+      "options": ["Vinho quente", "Café", "Suco", "Chá gelado"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Para quem Iris comprou um presente ?",
+      "options": ["Salomé", "Camille", "A avó", "A professora"],
+      "correctIndex": 0
+    },
+    {
+      "question": "O que Irlan quis comprar para Andréa ?",
+      "options": ["Um colar", "Um anel", "Uma bolsa", "Um relógio"],
+      "correctIndex": 0
+    },
+    {
+      "question": "O que Iris achou que o Miroir d'eau refletia ?",
+      "options": ["Dois mercados de Natal", "Dois castelos", "Duas cidades", "Dois sóis"],
+      "correctIndex": 0
+    }
+  ]
+}

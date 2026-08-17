@@ -1,0 +1,237 @@
+{
+  "id": "bordeaux_lesson_35",
+  "cityId": "bordeaux",
+  "domain": "Natureza e lazer",
+  "level": "Intermediário (B1+)",
+  "titleFr": "Le parc bordelais : le dimanche des familles",
+  "titlePt": "O parc bordelais: o domingo das famílias",
+  "subtitleFr": "En se promenant autour du lac, le temps s'arrête",
+  "subtitlePt": "Passeando ao redor do lago, o tempo para",
+  "summaryPt": "Nesta Aula 35 (B1+), a família passa um domingo no parc bordelais, criado no século XIX, com seu lago, suas árvores centenárias e seus carrosséis. O aluno pratica o vocabulário do parque (l'arbre, le lac, le sentier) e o conditionnel para sugestões e hipóteses.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "« Le parc bordelais a été créé en 1858 », a dit Irlan. « C'est le jardin préféré des familles du quartier. » Iris a couru vers le vieux carrousel : « On pourrait faire un tour avant la promenade ! »",
+      "pt": "« O parc bordelais foi criado em 1858 », disse Irlan. « É o jardim preferido das famílias do bairro. » Íris correu para o carrossel antigo: « Poderíamos dar uma volta antes do passeio! »"
+    },
+    {
+      "id": 2,
+      "fr": "Autour du lac, des grands-parents marchaient doucement, des enfants lançaient du pain aux canards. « En regardant tout ce monde, on se dit que le temps est bien fait », a murmuré Andréa. « Chaque âge a sa place ici. »",
+      "pt": "Ao redor do lago, avós caminhavam devagar, crianças jogavam pão aos patos. « Olhando toda essa gente, a gente pensa que o tempo é bem feito », murmurou Andréa. « Cada idade tem seu lugar aqui. »"
+    },
+    {
+      "id": 3,
+      "fr": "Irlan a montré un grand chêne. « Il a plus de deux cents ans », a-t-il dit. « Il aurait vu passer des générations de Bordelais. » Iris a posé sa main sur l'écorce : « S'il parlait, il raconterait toute la ville ! »",
+      "pt": "Irlan mostrou um grande carvalho. « Ele tem mais de duzentos anos », disse. « Ele teria visto passar gerações de bordeleses. » Íris pousou a mão na casca: « Se ele falasse, contaria a cidade inteira! »"
+    },
+    {
+      "id": 4,
+      "fr": "Sur un sentier, ils ont croisé une dame qui promenait ses chiens. « Il y a des sentiers pour courir, des jardins pour les fleurs et des bancs pour rêver », a-t-elle dit. « Ce parc, c'est toute la vie en miniature. »",
+      "pt": "Num trilho, cruzaram com uma senhora que passeava seus cachorros. « Há trilhos para correr, jardins para as flores e bancos para sonhar », disse. « Este parque é toda a vida em miniatura. »"
+    },
+    {
+      "id": 5,
+      "fr": "Le soir, Iris s'est endormie dans la voiture, un dessin à la main : le parc avec un soleil, un lac et une petite scooter garée près du carrousel. « Elle a mis la scooter dans le dessin », a souri Irlan. « Elle est bien de la famille. »",
+      "pt": "À noite, Íris adormeceu no carro, com um desenho na mão: o parque com um sol, um lago e uma scootezinha estacionada perto do carrossel. « Ela pôs a scooter no desenho », sorriu Irlan. « Ela é mesmo da família. »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "l'arbre",
+      "definitionPt": "a árvore",
+      "definitionFr": "Grande plante avec un tronc.",
+      "inflections": ["l'arbre", "un arbre", "des arbres"],
+      "ptTargets": ["árvore"],
+      "examples": [
+        { "level": "A1", "fr": "L'arbre est grand.", "pt": "A árvore é grande." },
+        { "level": "A2-B1", "fr": "Les arbres du parc sont vieux.", "pt": "As árvores do parque são velhas." },
+        { "level": "B1", "fr": "L'arbre que l'on regarde a deux cents ans.", "pt": "A árvore que se olha tem duzentos anos." },
+        { "level": "C1-C2", "fr": "L'arbre, témoin silencieux, garde les histoires des générations.", "pt": "A árvore, testemunha silenciosa, guarda as histórias das gerações." }
+      ]
+    },
+    {
+      "term": "le lac",
+      "definitionPt": "o lago",
+      "definitionFr": "Petite étendue d'eau.",
+      "inflections": ["le lac", "un lac", "des lacs"],
+      "ptTargets": ["lago"],
+      "examples": [
+        { "level": "A1", "fr": "Le lac est calme.", "pt": "O lago é calmo." },
+        { "level": "A2-B1", "fr": "Les canards nagent sur le lac.", "pt": "Os patos nadam no lago." },
+        { "level": "B1", "fr": "Le lac autour duquel l'on marche est petit.", "pt": "O lago ao redor do qual se caminha é pequeno." },
+        { "level": "C1-C2", "fr": "Le lac, miroir des arbres, double le parc dans son eau.", "pt": "O lago, espelho das árvores, duplica o parque em sua água." }
+      ]
+    },
+    {
+      "term": "le sentier",
+      "definitionPt": "o trilho, a trilha",
+      "definitionFr": "Petit chemin.",
+      "inflections": ["le sentier", "un sentier", "des sentiers"],
+      "ptTargets": ["trilho", "trilha"],
+      "examples": [
+        { "level": "A1", "fr": "Le sentier est étroit.", "pt": "O trilho é estreito." },
+        { "level": "A2-B1", "fr": "Les sentiers du parc sont doux.", "pt": "Os trilhos do parque são suaves." },
+        { "level": "B1", "fr": "Le sentier que l'on suit mène au lac.", "pt": "O trilho que se segue leva ao lago." },
+        { "level": "C1-C2", "fr": "Le sentier, fil du parc, relie les arbres comme des perles.", "pt": "O trilho, fio do parque, liga as árvores como pérolas." }
+      ]
+    },
+    {
+      "term": "le canard",
+      "definitionPt": "o pato",
+      "definitionFr": "Oiseau qui nage.",
+      "inflections": ["le canard", "un canard", "des canards"],
+      "ptTargets": ["pato"],
+      "examples": [
+        { "level": "A1", "fr": "Le canard nage.", "pt": "O pato nada." },
+        { "level": "A2-B1", "fr": "Les enfants donnent du pain aux canards.", "pt": "As crianças dão pão aos patos." },
+        { "level": "B1", "fr": "Les canards que l'on voit sur le lac sont nombreux.", "pt": "Os patos que se veem no lago são muitos." },
+        { "level": "C1-C2", "fr": "Le canard, petit roi du lac, glisse sans effort sur l'eau.", "pt": "O pato, pequeno rei do lago, desliza sem esforço na água." }
+      ]
+    },
+    {
+      "term": "le chêne",
+      "definitionPt": "o carvalho",
+      "definitionFr": "Grand arbre au bois dur.",
+      "inflections": ["le chêne", "un chêne", "des chênes"],
+      "ptTargets": ["carvalho"],
+      "examples": [
+        { "level": "A1", "fr": "Le chêne est grand.", "pt": "O carvalho é grande." },
+        { "level": "A2-B1", "fr": "Le chêne du parc a deux cents ans.", "pt": "O carvalho do parque tem duzentos anos." },
+        { "level": "B1", "fr": "Les chênes que l'on admire sont centenaires.", "pt": "Os carvalhos que se admiram são centenários." },
+        { "level": "C1-C2", "fr": "Le chêne, roi des forêts, donne son ombre aux rêveurs.", "pt": "O carvalho, rei das florestas, dá sua sombra aos sonhadores." }
+      ]
+    },
+    {
+      "term": "l'écorce",
+      "definitionPt": "a casca (da árvore)",
+      "definitionFr": "Peau de l'arbre.",
+      "inflections": ["l'écorce", "une écorce", "des écorces"],
+      "ptTargets": ["casca"],
+      "examples": [
+        { "level": "A1", "fr": "L'écorce est dure.", "pt": "A casca é dura." },
+        { "level": "A2-B1", "fr": "Iris a touché l'écorce du chêne.", "pt": "Íris tocou a casca do carvalho." },
+        { "level": "B1", "fr": "L'écorce que l'on touche est rugueuse.", "pt": "A casca que se toca é áspera." },
+        { "level": "C1-C2", "fr": "L'écorce, peau ridée de l'arbre, écrit les années en sillons.", "pt": "A casca, pele enrugada da árvore, escreve os anos em sulcos." }
+      ]
+    },
+    {
+      "term": "la génération",
+      "definitionPt": "a geração",
+      "definitionFr": "Personnes nées à la même époque.",
+      "inflections": ["la génération", "une génération", "des générations"],
+      "ptTargets": ["geração"],
+      "examples": [
+        { "level": "A1", "fr": "La génération est nouvelle.", "pt": "A geração é nova." },
+        { "level": "A2-B1", "fr": "Des générations de Bordelais ont joué ici.", "pt": "Gerações de bordeleses brincaram aqui." },
+        { "level": "B1", "fr": "Les générations qui se succèdent changent la ville.", "pt": "As gerações que se sucedem mudam a cidade." },
+        { "level": "C1-C2", "fr": "La génération, chaîne des âges, relie les souvenirs aux promesses.", "pt": "A geração, corrente das idades, liga as lembranças às promessas." }
+      ]
+    },
+    {
+      "term": "le banc",
+      "definitionPt": "o banco (de praça)",
+      "definitionFr": "Siège dans les parcs.",
+      "inflections": ["le banc", "un banc", "des bancs"],
+      "ptTargets": ["banco"],
+      "examples": [
+        { "level": "A1", "fr": "Le banc est en bois.", "pt": "O banco é de madeira." },
+        { "level": "A2-B1", "fr": "Les bancs servent à rêver.", "pt": "Os bancos servem para sonhar." },
+        { "level": "B1", "fr": "Le banc sur lequel l'on s'assoit est au soleil.", "pt": "O banco no qual nos sentamos fica ao sol." },
+        { "level": "C1-C2", "fr": "Le banc, confident du parc, écoute les confidences des dimanches.", "pt": "O banco, confidente do parque, escuta as confidências dos domingos." }
+      ]
+    },
+    {
+      "term": "la miniature",
+      "definitionPt": "a miniatura",
+      "definitionFr": "Petite version de quelque chose.",
+      "inflections": ["la miniature", "une miniature", "des miniatures"],
+      "ptTargets": ["miniatura"],
+      "examples": [
+        { "level": "A1", "fr": "La miniature est petite.", "pt": "A miniatura é pequena." },
+        { "level": "A2-B1", "fr": "Le parc est la vie en miniature.", "pt": "O parque é a vida em miniatura." },
+        { "level": "B1", "fr": "La miniature, que l'on regarde de près, est parfaite.", "pt": "A miniatura, que se olha de perto, é perfeita." },
+        { "level": "C1-C2", "fr": "La miniature, monde réduit, résume le grand dans le petit.", "pt": "A miniatura, mundo reduzido, resume o grande no pequeno." }
+      ]
+    },
+    {
+      "term": "se promener",
+      "definitionPt": "passear",
+      "definitionFr": "Marcher pour le plaisir.",
+      "inflections": ["je me promène", "tu te promènes", "il se promène", "nous nous promenons"],
+      "ptTargets": ["passear"],
+      "examples": [
+        { "level": "A1", "fr": "Je me promène dans le parc.", "pt": "Eu passeio no parque." },
+        { "level": "A2-B1", "fr": "Les familles se promènent le dimanche.", "pt": "As famílias passeiam no domingo." },
+        { "level": "B1", "fr": "Les dimanches où l'on se promène sont doux.", "pt": "Os domingos em que se passeia são doces." },
+        { "level": "C1-C2", "fr": "Se promener, rituel du dimanche, donne à la semaine un air de fête.", "pt": "Passear, ritual do domingo, dá à semana um ar de festa." }
+      ]
+    },
+    {
+      "term": "l'âge",
+      "definitionPt": "a idade",
+      "definitionFr": "Nombre d'années vécues.",
+      "inflections": ["l'âge", "un âge", "des âges"],
+      "ptTargets": ["idade"],
+      "examples": [
+        { "level": "A1", "fr": "L'âge est important.", "pt": "A idade é importante." },
+        { "level": "A2-B1", "fr": "Chaque âge a sa place ici.", "pt": "Cada idade tem seu lugar aqui." },
+        { "level": "B1", "fr": "Les âges que l'on croise se complètent.", "pt": "As idades com que se cruza se completam." },
+        { "level": "C1-C2", "fr": "L'âge, nombre du temps, n'empêche jamais de rêver.", "pt": "A idade, número do tempo, nunca impede de sonhar." }
+      ]
+    },
+    {
+      "term": "le tronc",
+      "definitionPt": "o tronco",
+      "definitionFr": "Partie principale de l'arbre.",
+      "inflections": ["le tronc", "un tronc", "des troncs"],
+      "ptTargets": ["tronco"],
+      "examples": [
+        { "level": "A1", "fr": "Le tronc est gros.", "pt": "O tronco é grosso." },
+        { "level": "A2-B1", "fr": "Le tronc du chêne est immense.", "pt": "O tronco do carvalho é imenso." },
+        { "level": "B1", "fr": "Les troncs que l'on voit sont centenaires.", "pt": "Os troncos que se veem são centenários." },
+        { "level": "C1-C2", "fr": "Le tronc, colonne de l'arbre, porte la couronne des feuilles.", "pt": "O tronco, coluna da árvore, sustenta a coroa das folhas." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "titleFr": "Le conditionnel pour les hypothèses",
+    "titlePt": "O conditionnel para as hipóteses",
+    "points": [
+      {
+        "fr": "« S'il parlait, il raconterait toute la ville » : si + imparfait, conditionnel. Hypothèse imaginaire.",
+        "pt": "« S'il parlait, il raconterait toute la ville » (Se ele falasse, contaria a cidade inteira): si + imparfait, conditionnel. Hipótese imaginária."
+      },
+      {
+        "fr": "Pour suggérer : « On pourrait faire un tour », « Il aurait vu passer des générations ».",
+        "pt": "Para sugerir: « On pourrait faire un tour » (Poderíamos dar uma volta), « Il aurait vu passer des générations » (Ele teria visto passar gerações)."
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Em que ano o parc bordelais foi criado ?",
+      "options": ["1858", "2000", "1700", "1950"],
+      "correctIndex": 0
+    },
+    {
+      "question": "O que as crianças faziam no lago ?",
+      "options": ["Davam pão aos patos", "Nadavam", "Pescavam", "Andavam de barco"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Quantos anos tem o grande carvalho ?",
+      "options": ["Mais de duzentos", "Dez", "Cinquenta", "Mil"],
+      "correctIndex": 0
+    },
+    {
+      "question": "O que a senhora disse que o parque é ?",
+      "options": ["A vida em miniatura", "Um deserto", "Uma floresta", "Uma fazenda"],
+      "correctIndex": 0
+    },
+    {
+      "question": "O que Iris desenhou perto do carrossel ?",
+      "options": ["Uma scooter", "Um avião", "Um gato", "Uma árvore"],
+      "correctIndex": 0
+    }
+  ]
+}

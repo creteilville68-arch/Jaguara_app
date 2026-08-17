@@ -1,0 +1,252 @@
+{
+  "id": "amiens_lesson_16",
+  "cityId": "amiens",
+  "domain": "Cidade & Compras",
+  "level": "Iniciante em Transição (A1/A2)",
+  "titleFr": "La place Gambetta et les magasins",
+  "titlePt": "A place Gambetta e as lojas",
+  "subtitleFr": "Une journée dans les rues d'Amiens",
+  "subtitlePt": "Um dia nas ruas de Amiens",
+  "summaryPt": "Nesta Aula 16 (A1/A2) da Cidade #2, a família passeia pela place Gambetta e pelas ruas comerciais de Amiens. O aluno aprende o vocabulário das compras (magasin, boutique, prix, cher, acheter, payer) e os artigos partitivos du/de la/des.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Aujourd'hui, la famille se promène sur la place Gambetta, au centre d'Amiens. « Regardez ces belles maisons, dit Andréa. Et ici, il y a beaucoup de magasins : la boulangerie, la librairie et la pharmacie. »",
+      "pt": "Hoje, a família passeia pela place Gambetta, no centro de Amiens. « Olhem estas belas casas, diz Andréa. E aqui, há muitas lojas: a padaria, a livraria e a farmácia. »"
+    },
+    {
+      "id": 2,
+      "fr": "Íris entre dans une librairie et regarde les livres. « Combien coûte ce livre ? » demande-t-elle. La vendeuse répond : « Il coûte douze euros. Il y a aussi des cartes postales à deux euros. »",
+      "pt": "Íris entra numa livraria e olha os livros. « Quanto custa este livro? » pergunta ela. A vendedora responde: « Ele custa doze euros. Há também cartões-postais por dois euros. »"
+    },
+    {
+      "id": 3,
+      "fr": "Irlan veut acheter du fromage pour le dîner. « Prenons de la tomme picarde, dit-il. Et achetons des fruits au marché. » Andréa sourit : « Bonne idée ! Nous allons préparer un beau repas. »",
+      "pt": "Irlan quer comprar queijo para o jantar. « Vamos levar tomme picarda, diz ele. E compremos frutas no mercado. » Andréa sorri: « Boa ideia! Vamos preparar uma bela refeição. »"
+    },
+    {
+      "id": 4,
+      "fr": "À la caisse, Irlan paie avec sa carte bancaire. « C'est un peu cher, dit-il en riant. Mais la qualité est bonne. Allons au parc maintenant ! »",
+      "pt": "No caixa, Irlan paga com seu cartão bancário. « É um pouco caro, diz ele rindo. Mas a qualidade é boa. Vamos ao parque agora! »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "le magasin",
+      "definitionPt": "a loja",
+      "definitionFr": "Lieu où l'on vend des choses.",
+      "inflections": ["le magasin", "un magasin", "des magasins"],
+      "ptTargets": ["loja"],
+      "examples": [
+        { "level": "A1", "fr": "Le magasin est grand.", "pt": "A loja é grande." },
+        { "level": "A2-B1", "fr": "Il y a beaucoup de magasins au centre.", "pt": "Há muitas lojas no centro." },
+        { "level": "B2", "fr": "Les magasins du centre sont ouverts le samedi.", "pt": "As lojas do centro abrem no sábado." },
+        { "level": "C1-C2", "fr": "C'est le magasin qui, ancien, garde le charme des rues piétonnes.", "pt": "É a loja que, antiga, guarda o charme das ruas de pedestres." }
+      ]
+    },
+    {
+      "term": "la librairie",
+      "definitionPt": "a livraria",
+      "definitionFr": "Magasin de livres.",
+      "inflections": ["la librairie", "une librairie", "des librairies"],
+      "ptTargets": ["livraria"],
+      "examples": [
+        { "level": "A1", "fr": "La librairie est petite.", "pt": "A livraria é pequena." },
+        { "level": "A2-B1", "fr": "Íris entre dans une librairie.", "pt": "Íris entra numa livraria." },
+        { "level": "B2", "fr": "La librairie du centre vend des livres du monde entier.", "pt": "A livraria do centro vende livros do mundo inteiro." },
+        { "level": "C1-C2", "fr": "C'est la librairie qui, accueillante, invite à la lecture.", "pt": "É a livraria que, acolhedora, convida à leitura." }
+      ]
+    },
+    {
+      "term": "acheter",
+      "definitionPt": "comprar",
+      "definitionFr": "Obtenir contre de l'argent.",
+      "inflections": ["j'achète", "acheter", "nous achetons"],
+      "ptTargets": ["comprar"],
+      "examples": [
+        { "level": "A1", "fr": "J'achète un livre.", "pt": "Eu compro um livro." },
+        { "level": "A2-B1", "fr": "Achetons des fruits au marché !", "pt": "Compremos frutas no mercado!" },
+        { "level": "B2", "fr": "La famille achète du fromage pour le dîner.", "pt": "A família compra queijo para o jantar." },
+        { "level": "C1-C2", "fr": "C'est en achetant local que l'on soutient la région.", "pt": "É comprando local que se apoia a região." }
+      ]
+    },
+    {
+      "term": "payer",
+      "definitionPt": "pagar",
+      "definitionFr": "Donner de l'argent pour acheter.",
+      "inflections": ["je paie", "payer", "nous payons"],
+      "ptTargets": ["pagar"],
+      "examples": [
+        { "level": "A1", "fr": "Je paie à la caisse.", "pt": "Eu pago no caixa." },
+        { "level": "A2-B1", "fr": "Irlan paie avec sa carte bancaire.", "pt": "Irlan paga com seu cartão bancário." },
+        { "level": "B2", "fr": "On peut payer par carte ou en espèces.", "pt": "Pode-se pagar com cartão ou em dinheiro." },
+        { "level": "C1-C2", "fr": "C'est en payant que l'on remercie le travail des autres.", "pt": "É pagando que se agradece o trabalho dos outros." }
+      ]
+    },
+    {
+      "term": "le prix",
+      "definitionPt": "o preço",
+      "definitionFr": "Quantité d'argent demandée.",
+      "inflections": ["le prix", "un prix", "des prix"],
+      "ptTargets": ["preço"],
+      "examples": [
+        { "level": "A1", "fr": "Le prix est bon.", "pt": "O preço é bom." },
+        { "level": "A2-B1", "fr": "Le prix du livre est douze euros.", "pt": "O preço do livro é doze euros." },
+        { "level": "B2", "fr": "Les prix du marché sont raisonnables.", "pt": "Os preços do mercado são razoáveis." },
+        { "level": "C1-C2", "fr": "C'est le prix qui, juste, récompense la qualité.", "pt": "É o preço que, justo, recompensa a qualidade." }
+      ]
+    },
+    {
+      "term": "cher",
+      "definitionPt": "caro",
+      "definitionFr": "Qui coûte beaucoup.",
+      "inflections": ["cher", "chère", "chers"],
+      "ptTargets": ["caro"],
+      "examples": [
+        { "level": "A1", "fr": "Le livre est cher.", "pt": "O livro é caro." },
+        { "level": "A2-B1", "fr": "C'est un peu cher, dit Irlan.", "pt": "É um pouco caro, diz Irlan." },
+        { "level": "B2", "fr": "Ce magasin est trop cher pour moi.", "pt": "Esta loja é cara demais para mim." },
+        { "level": "C1-C2", "fr": "C'est cher, mais la qualité se paie.", "pt": "É caro, mas a qualidade se paga." }
+      ]
+    },
+    {
+      "term": "la caisse",
+      "definitionPt": "o caixa",
+      "definitionFr": "Endroit où l'on paie.",
+      "inflections": ["la caisse", "une caisse", "des caisses"],
+      "ptTargets": ["caixa"],
+      "examples": [
+        { "level": "A1", "fr": "La caisse est là.", "pt": "O caixa fica ali." },
+        { "level": "A2-B1", "fr": "Je paie à la caisse.", "pt": "Eu pago no caixa." },
+        { "level": "B2", "fr": "Il y a une longue file à la caisse.", "pt": "Há uma longa fila no caixa." },
+        { "level": "C1-C2", "fr": "C'est la caisse qui, rapide, clôt chaque achat.", "pt": "É o caixa que, rápido, encerra cada compra." }
+      ]
+    },
+    {
+      "term": "le fromage",
+      "definitionPt": "o queijo",
+      "definitionFr": "Aliment fait avec du lait.",
+      "inflections": ["le fromage", "un fromage", "des fromages"],
+      "ptTargets": ["queijo"],
+      "examples": [
+        { "level": "A1", "fr": "J'aime le fromage.", "pt": "Eu gosto de queijo." },
+        { "level": "A2-B1", "fr": "Irlan veut acheter du fromage.", "pt": "Irlan quer comprar queijo." },
+        { "level": "B2", "fr": "Le fromage picard est savoureux.", "pt": "O queijo picardo é saboroso." },
+        { "level": "C1-C2", "fr": "C'est le fromage qui, affiné, révèle les terroirs.", "pt": "É o queijo que, maturado, revela os terroirs." }
+      ]
+    },
+    {
+      "term": "le marché",
+      "definitionPt": "o mercado (feira)",
+      "definitionFr": "Lieu où l'on vend des produits frais.",
+      "inflections": ["le marché", "un marché", "des marchés"],
+      "ptTargets": ["mercado", "feira"],
+      "examples": [
+        { "level": "A1", "fr": "Le marché est coloré.", "pt": "O mercado é colorido." },
+        { "level": "A2-B1", "fr": "Achetons des fruits au marché !", "pt": "Compremos frutas no mercado!" },
+        { "level": "B2", "fr": "Le marché du samedi anime la place.", "pt": "A feira de sábado anima a praça." },
+        { "level": "C1-C2", "fr": "C'est le marché qui, vivant, réunit les producteurs et les habitants.", "pt": "É o mercado que, vivo, reúne produtores e moradores." }
+      ]
+    },
+    {
+      "term": "le dîner",
+      "definitionPt": "o jantar",
+      "definitionFr": "Repas du soir.",
+      "inflections": ["le dîner", "un dîner", "des dîners"],
+      "ptTargets": ["jantar"],
+      "examples": [
+        { "level": "A1", "fr": "Le dîner est prêt.", "pt": "O jantar está pronto." },
+        { "level": "A2-B1", "fr": "Achetons du fromage pour le dîner.", "pt": "Compremos queijo para o jantar." },
+        { "level": "B2", "fr": "Le dîner en famille est un moment sacré.", "pt": "O jantar em família é um momento sagrado." },
+        { "level": "C1-C2", "fr": "C'est le dîner qui, partagé, clôt la journée en douceur.", "pt": "É o jantar que, partilhado, encerra o dia com suavidade." }
+      ]
+    },
+    {
+      "term": "la carte bancaire",
+      "definitionPt": "o cartão bancário",
+      "definitionFr": "Carte pour payer.",
+      "inflections": ["la carte bancaire", "une carte bancaire", "des cartes bancaires"],
+      "ptTargets": ["cartão bancário", "cartão"],
+      "examples": [
+        { "level": "A1", "fr": "La carte bancaire est rouge.", "pt": "O cartão bancário é vermelho." },
+        { "level": "A2-B1", "fr": "Irlan paie avec sa carte bancaire.", "pt": "Irlan paga com seu cartão bancário." },
+        { "level": "B2", "fr": "La carte bancaire est pratique pour les achats.", "pt": "O cartão bancário é prático para as compras." },
+        { "level": "C1-C2", "fr": "C'est la carte bancaire qui, rapide, simplifie la vie quotidienne.", "pt": "É o cartão bancário que, rápido, simplifica a vida cotidiana." }
+      ]
+    },
+    {
+      "term": "la qualité",
+      "definitionPt": "a qualidade",
+      "definitionFr": "Ce qui rend quelque chose bon.",
+      "inflections": ["la qualité", "une qualité", "des qualités"],
+      "ptTargets": ["qualidade"],
+      "examples": [
+        { "level": "A1", "fr": "La qualité est bonne.", "pt": "A qualidade é boa." },
+        { "level": "A2-B1", "fr": "La qualité est bonne ici.", "pt": "A qualidade é boa aqui." },
+        { "level": "B2", "fr": "La qualité des produits locaux est excellente.", "pt": "A qualidade dos produtos locais é excelente." },
+        { "level": "C1-C2", "fr": "C'est la qualité qui, exigeante, distingue les bons producteurs.", "pt": "É a qualidade que, exigente, distingue os bons produtores." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Les articles partitifs : du, de la, des",
+    "explanationPt": "Os artigos partitivos indicam uma parte de algo: 'du fromage' (queijo - masculino), 'de la tomme' (queijo feminino), 'des fruits' (frutas - plural). Após a negação, usa-se 'de': 'je n'achète pas de fromage'.",
+    "exampleFr": "Prenons du fromage. Achetons des fruits. Je voudrais de la confiture.",
+    "examplePt": "Vamos levar queijo. Compremos frutas. Eu gostaria de geleia.",
+    "practiceQuestion": "Complete: 'Prenons _____ fromage.'",
+    "options": ["du", "de la", "des"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "Combien coûte... ?",
+        "explanationPt": "Para perguntar o preço: 'Combien coûte ce livre ?' (quanto custa este livro?), 'Combien ça coûte ?' (quanto custa?). Resposta: 'Il coûte douze euros.'",
+        "exampleFr": "— Combien coûte ce livre ? — Il coûte douze euros.",
+        "examplePt": "— Quanto custa este livro? — Ele custa doze euros.",
+        "practiceQuestion": "Complete: 'Combien _____ ce livre ?'",
+        "options": ["coûte", "coûtes", "coûtent"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "Allons au parc ! : imperativo com aller",
+        "explanationPt": "Imperativo de 'aller': 'Va !' (vá!), 'Allons !' (vamos!), 'Allez !' (vão!). Ex.: 'Allons au parc maintenant !'",
+        "exampleFr": "Allons au parc maintenant !",
+        "examplePt": "Vamos ao parque agora!",
+        "practiceQuestion": "Complete: '_____ au parc maintenant !'",
+        "options": ["Allons", "Aller", "Va pas"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Onde a família passeia no centro de Amiens?",
+      "options": ["na place Gambetta", "na praia", "na estação"],
+      "correctIndex": 0,
+      "explanation": "La famille se promène sur la place Gambetta."
+    },
+    {
+      "question": "Quanto custa o livro que Íris vê?",
+      "options": ["doze euros", "dois euros", "vinte euros"],
+      "correctIndex": 0,
+      "explanation": "Il coûte douze euros."
+    },
+    {
+      "question": "O que Irlan quer comprar para o jantar?",
+      "options": ["queijo", "peixe", "chocolate"],
+      "correctIndex": 0,
+      "explanation": "Irlan veut acheter du fromage pour le dîner."
+    },
+    {
+      "question": "Complete: 'Prenons _____ fromage.'",
+      "options": ["du", "de la", "des"],
+      "correctIndex": 0,
+      "explanation": "Partitivo masculino: du fromage."
+    },
+    {
+      "question": "Complete: 'Combien _____ ce livre ?'",
+      "options": ["coûte", "coûtes", "coûtent"],
+      "correctIndex": 0,
+      "explanation": "Combien coûte + singular."
+    }
+  ]
+}

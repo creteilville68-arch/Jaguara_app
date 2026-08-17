@@ -1,0 +1,237 @@
+{
+  "id": "mont_saint_michel_lesson_41",
+  "cityId": "mont-saint-michel",
+  "domain": "Natureza & Paisagem",
+  "level": "Básico (A2/B1)",
+  "titleFr": "Les mouettes et les goélands : les rois du ciel",
+  "titlePt": "As gaivotas: os reis do céu",
+  "subtitleFr": "Leurs cris racontent la vie de la baie",
+  "subtitlePt": "Seus gritos contam a vida da baía",
+  "summaryPt": "Nesta Aula 41 (A2/B1), a família observa as gaivotas e os goélands que vivem no Mont: seus ninhos nas janelas, seus voos sobre a baía e seus gritos que anunciam a maré. O aluno pratica o vocabulário dos pássaros (l'aile, le nid, voler, le cri) e o presente de descrição com on.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "« Écoutez ! » a dit Iris. « Il y a un bébé oiseau ! » Irlan a ri : « Non, c'est une mouette. Elle crie pour sa nourriture. »",
+      "pt": "« Escutem! » disse Íris. « Tem um passarinho bebê! » Irlan riu: « Não, é uma gaivota. Ela grita pela comida. »"
+    },
+    {
+      "id": 2,
+      "fr": "Sur les toits du Mont, des goélands surveillaient la foule. « Ils sont grands comme des chats », a observé Andréa. « Et ils aiment les frites des touristes ! »",
+      "pt": "Nos telhados do Mont, gaivotões vigiavam a multidão. « Eles são grandes como gatos », observou Andréa. « E amam as batatas fritas dos turistas! »"
+    },
+    {
+      "id": 3,
+      "fr": "« Les mouettes font leur nid dans les fenêtres, au printemps », a expliqué Irlan. « Elles choisissent le Mont parce que la mer est toujours près. »",
+      "pt": "« As gaivotas fazem seus ninhos nas janelas, na primavera », explicou Irlan. « Elas escolhem o Mont porque o mar está sempre perto. »"
+    },
+    {
+      "id": 4,
+      "fr": "Quand la marée montait, les oiseaux prenaient leur envol tous ensemble. « C'est le signal », a dit Irlan. « Les oiseaux connaissent la mer mieux que nous. »",
+      "pt": "Quando a maré subia, os pássaros levantavam voo todos juntos. « É o sinal », disse Irlan. « Os pássaros conhecem o mar melhor que nós. »"
+    },
+    {
+      "id": 5,
+      "fr": "« Quand j'étais livreur, je voyais des pigeons à Paris », a dit Irlan. « Mais les pigeons ne crient pas comme les mouettes. Ils ne racontent pas la mer. »",
+      "pt": "« Quando eu era entregador, eu via pombos em Paris », disse Irlan. « Mas os pombos não gritam como as gaivotas. Eles não contam o mar. »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "la mouette",
+      "definitionPt": "a gaivota",
+      "definitionFr": "Oiseau blanc qui vit près de la mer.",
+      "inflections": ["la mouette", "une mouette", "des mouettes"],
+      "ptTargets": ["gaivota"],
+      "examples": [
+        { "level": "A1", "fr": "La mouette est blanche.", "pt": "A gaivota é branca." },
+        { "level": "A2-B1", "fr": "Les mouettes crient au-dessus du Mont.", "pt": "As gaivotas gritam acima do Mont." },
+        { "level": "B2", "fr": "Nous avons vu une mouette voler au-dessus de la baie.", "pt": "Vimos uma gaivota voar acima da baía." },
+        { "level": "C1-C2", "fr": "La mouette, sentinelle du littoral, annonce les marées par ses cris.", "pt": "A gaivota, sentinela do litoral, anuncia as marés com seus gritos." }
+      ]
+    },
+    {
+      "term": "le goéland",
+      "definitionPt": "a gaivota-grande",
+      "definitionFr": "Grand oiseau de mer proche de la mouette.",
+      "inflections": ["le goéland", "un goéland", "des goélands"],
+      "ptTargets": ["gaivota"],
+      "examples": [
+        { "level": "A1", "fr": "Le goéland est grand.", "pt": "A gaivota-grande é grande." },
+        { "level": "A2-B1", "fr": "Les goélands surveillaient la foule sur les toits.", "pt": "Os gaivotões vigiavam a multidão nos telhados." },
+        { "level": "B2", "fr": "Le goéland est plus grand que la mouette.", "pt": "O gaivotão é maior que a gaivota." },
+        { "level": "C1-C2", "fr": "Le goéland, tyran des toits, règne sur les hauteurs du Mont.", "pt": "O gaivotão, tirano dos telhados, reina nas alturas do Mont." }
+      ]
+    },
+    {
+      "term": "le nid",
+      "definitionPt": "o ninho",
+      "definitionFr": "Maison que les oiseaux construisent.",
+      "inflections": ["le nid", "un nid", "des nids"],
+      "ptTargets": ["ninho"],
+      "examples": [
+        { "level": "A1", "fr": "Le nid est petit.", "pt": "O ninho é pequeno." },
+        { "level": "A2-B1", "fr": "Les mouettes font leur nid dans les fenêtres.", "pt": "As gaivotas fazem ninho nas janelas." },
+        { "level": "B2", "fr": "Au printemps, les nids sont pleins d'oisillons.", "pt": "Na primavera, os ninhos ficam cheios de filhotes." },
+        { "level": "C1-C2", "fr": "Le nid, fragile architecture, défie le vent de la baie.", "pt": "O ninho, arquitetura frágil, desafia o vento da baía." }
+      ]
+    },
+    {
+      "term": "l'aile",
+      "definitionPt": "a asa",
+      "definitionFr": "Partie du corps qui permet de voler.",
+      "inflections": ["l'aile", "une aile", "des ailes"],
+      "ptTargets": ["asa"],
+      "examples": [
+        { "level": "A1", "fr": "L'oiseau a deux ailes.", "pt": "O pássaro tem duas asas." },
+        { "level": "A2-B1", "fr": "Les mouettes déploient leurs ailes au vent.", "pt": "As gaivotas abrem suas asas ao vento." },
+        { "level": "B2", "fr": "D'un battement d'ailes, les oiseaux ont disparu.", "pt": "Num bater de asas, os pássaros desapareceram." },
+        { "level": "C1-C2", "fr": "Les ailes des mouettes dessinent des routes invisibles dans le ciel.", "pt": "As asas das gaivotas desenham rotas invisíveis no céu." }
+      ]
+    },
+    {
+      "term": "voler",
+      "definitionPt": "voar",
+      "definitionFr": "Se déplacer dans l'air.",
+      "inflections": ["je vole", "tu voles", "il vole", "nous volons"],
+      "ptTargets": ["voar"],
+      "examples": [
+        { "level": "A1", "fr": "L'oiseau vole.", "pt": "O pássaro voa." },
+        { "level": "A2-B1", "fr": "Les mouettes volent au-dessus de la baie.", "pt": "As gaivotas voam acima da baía." },
+        { "level": "B2", "fr": "Nous avons regardé les oiseaux voler en cercle.", "pt": "Observamos os pássaros voarem em círculo." },
+        { "level": "C1-C2", "fr": "Voler, pour la mouette, n'est pas un don mais une nécessité.", "pt": "Voar, para a gaivota, não é um dom, mas uma necessidade." }
+      ]
+    },
+    {
+      "term": "le cri",
+      "definitionPt": "o grito",
+      "definitionFr": "Son fort poussé par un animal ou une personne.",
+      "inflections": ["le cri", "un cri", "des cris"],
+      "ptTargets": ["grito"],
+      "examples": [
+        { "level": "A1", "fr": "Le cri est fort.", "pt": "O grito é forte." },
+        { "level": "A2-B1", "fr": "Les cris des mouettes remplissent le ciel.", "pt": "Os gritos das gaivotas enchem o céu." },
+        { "level": "B2", "fr": "Le cri du goéland annonce la tempête.", "pt": "O grito do gaivotão anuncia a tempestade." },
+        { "level": "C1-C2", "fr": "Le cri des mouettes, musique sauvage, accompagne la vie du Mont.", "pt": "O grito das gaivotas, música selvagem, acompanha a vida do Mont." }
+      ]
+    },
+    {
+      "term": "le toit",
+      "definitionPt": "o telhado",
+      "definitionFr": "Partie qui couvre une maison.",
+      "inflections": ["le toit", "un toit", "des toits"],
+      "ptTargets": ["telhado"],
+      "examples": [
+        { "level": "A1", "fr": "Le toit est rouge.", "pt": "O telhado é vermelho." },
+        { "level": "A2-B1", "fr": "Les goélands se posent sur les toits.", "pt": "Os gaivotões pousam nos telhados." },
+        { "level": "B2", "fr": "Du toit, on voit toute la baie.", "pt": "Do telhado, vê-se toda a baía." },
+        { "level": "C1-C2", "fr": "Les toits du Mont, escaliers de pierre, montent vers le ciel.", "pt": "Os telhados do Mont, escadarias de pedra, sobem rumo ao céu." }
+      ]
+    },
+    {
+      "term": "le printemps",
+      "definitionPt": "a primavera",
+      "definitionFr": "Saison après l'hiver.",
+      "inflections": ["le printemps", "au printemps"],
+      "ptTargets": ["primavera"],
+      "examples": [
+        { "level": "A1", "fr": "Le printemps est doux.", "pt": "A primavera é amena." },
+        { "level": "A2-B1", "fr": "Au printemps, les mouettes font leur nid.", "pt": "Na primavera, as gaivotas fazem seus ninhos." },
+        { "level": "B2", "fr": "Le printemps ramène les oiseaux dans la baie.", "pt": "A primavera traz de volta os pássaros na baía." },
+        { "level": "C1-C2", "fr": "Le printemps, saison des recommencements, réveille la baie endormie.", "pt": "A primavera, estação dos recomeços, desperta a baía adormecida." }
+      ]
+    },
+    {
+      "term": "la fenêtre",
+      "definitionPt": "a janela",
+      "definitionFr": "Ouverture dans un mur qui laisse entrer la lumière.",
+      "inflections": ["la fenêtre", "une fenêtre", "des fenêtres"],
+      "ptTargets": ["janela"],
+      "examples": [
+        { "level": "A1", "fr": "La fenêtre est ouverte.", "pt": "A janela está aberta." },
+        { "level": "A2-B1", "fr": "Les mouettes font leur nid dans les fenêtres.", "pt": "As gaivotas fazem ninho nas janelas." },
+        { "level": "B2", "fr": "De la fenêtre de l'hôtel, on voyait le Mont.", "pt": "Da janela do hotel, via-se o Mont." },
+        { "level": "C1-C2", "fr": "Chaque fenêtre du Mont est un tableau vivant sur la baie.", "pt": "Cada janela do Mont é um quadro vivo sobre a baía." }
+      ]
+    },
+    {
+      "term": "le signal",
+      "definitionPt": "o sinal",
+      "definitionFr": "Signe qui annonce quelque chose.",
+      "inflections": ["le signal", "un signal", "des signaux"],
+      "ptTargets": ["sinal"],
+      "examples": [
+        { "level": "A1", "fr": "Le signal est rouge.", "pt": "O sinal é vermelho." },
+        { "level": "A2-B1", "fr": "Les oiseaux donnent le signal de la marée.", "pt": "Os pássaros dão o sinal da maré." },
+        { "level": "B2", "fr": "Le signal est parti : les oiseaux s'envolent.", "pt": "O sinal partiu: os pássaros levantam voo." },
+        { "level": "C1-C2", "fr": "La nature envoie des signaux que seuls les attentifs savent lire.", "pt": "A natureza envia sinais que só os atentos sabem ler." }
+      ]
+    },
+    {
+      "term": "le pigeon",
+      "definitionPt": "o pombo",
+      "definitionFr": "Oiseau gris qui vit dans les villes.",
+      "inflections": ["le pigeon", "un pigeon", "des pigeons"],
+      "ptTargets": ["pombo"],
+      "examples": [
+        { "level": "A1", "fr": "Le pigeon est gris.", "pt": "O pombo é cinza." },
+        { "level": "A2-B1", "fr": "Il y a beaucoup de pigeons à Paris.", "pt": "Há muitos pombos em Paris." },
+        { "level": "B2", "fr": "Les pigeons se promènent sur la place.", "pt": "Os pombos passeiam na praça." },
+        { "level": "C1-C2", "fr": "Le pigeon, citadin sans ailes d'ambition, contemple les mouettes libres.", "pt": "O pombo, citadino sem asas de ambição, contempla as gaivotas livres." }
+      ]
+    },
+    {
+      "term": "la foule",
+      "definitionPt": "a multidão",
+      "definitionFr": "Beaucoup de personnes ensemble.",
+      "inflections": ["la foule", "une foule", "des foules"],
+      "ptTargets": ["multidão"],
+      "examples": [
+        { "level": "A1", "fr": "La foule est grande.", "pt": "A multidão é grande." },
+        { "level": "A2-B1", "fr": "Les goélands surveillaient la foule.", "pt": "Os gaivotões vigiavam a multidão." },
+        { "level": "B2", "fr": "La foule montait vers l'abbaye au lever du jour.", "pt": "A multidão subia rumo à abadia ao amanhecer." },
+        { "level": "C1-C2", "fr": "La foule, fleuve humain, monte et descend la Grande Rue.", "pt": "A multidão, rio humano, sobe e desce a Grande Rue." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "titleFr": "Les comparatifs avec les adjectifs",
+    "titlePt": "Os comparativos com adjetivos",
+    "points": [
+      {
+        "fr": "Avec un adjectif : « plus grand que », « moins grand que », « aussi grand que ». Exemple : « Le goéland est plus grand que la mouette. »",
+        "pt": "Com um adjetivo: « plus grand que » (maior que), « moins grand que » (menor que), « aussi grand que » (tão grande quanto). Exemplo: « O gaivotão é maior que a gaivota. »"
+      },
+      {
+        "fr": "Pour décrire une habitude au présent, on peut utiliser « on » : « On voit des mouettes partout. » (Vê-se gaivotas em toda parte.)",
+        "pt": "Para descrever um hábito no presente, pode-se usar « on »: « On voit des mouettes partout. » (Vê-se gaivotas em toda parte.)"
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Que fait la mouette selon Irlan ?",
+      "options": ["Elle crie pour sa nourriture", "Elle dort toute la journée", "Elle nage sous l'eau", "Elle chante des chansons"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Où les mouettes font-elles leur nid ?",
+      "options": ["Dans les fenêtres", "Sous la mer", "Dans les églises fermées", "Sur les tables du restaurant"],
+      "correctIndex": 0
+    },
+    {
+      "question": "À quoi Andréa compare-t-elle les goélands ?",
+      "options": ["À des chats", "À des chiens", "À des vélos", "À des nuages"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Qu'est-ce que les oiseaux annoncent quand ils s'envolent ensemble ?",
+      "options": ["La marée qui monte", "La pluie", "Le départ du bus", "La fermeture du magasin"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Quel oiseau Irlan voyait-il à Paris ?",
+      "options": ["Les pigeons", "Les mouettes", "Les aigles", "Les perroquets"],
+      "correctIndex": 0
+    }
+  ]
+}

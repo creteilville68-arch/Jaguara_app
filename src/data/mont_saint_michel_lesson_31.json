@@ -1,0 +1,252 @@
+{
+  "id": "mont_saint_michel_lesson_31",
+  "cityId": "mont-saint-michel",
+  "domain": "Cotidiano",
+  "level": "Básico (A2/B1)",
+  "titleFr": "Le soir, quand les visiteurs partent",
+  "titlePt": "À noite, quando os visitantes partem",
+  "subtitleFr": "La Grande Rue se vide, le Mont retrouve son silence",
+  "subtitlePt": "A Grande Rue se esvazia, o Mont reencontra seu silêncio",
+  "summaryPt": "Nesta Aula 31 (A2/B1), a família fica no Mont até a noite e vê a transformação: os visitantes partem, as lojas fecham e o Mont reencontra sua calma. Irlan compara com suas noites de livreur. O aluno pratica o contraste de atmosfera (la rue était pleine / la rue était vide) e o imparfait de descrição.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Le soir, les derniers visiteurs ont pris la navette. La Grande Rue s'est vidée peu à peu. « Écoute, c'est silencieux », a chuchoté Íris.",
+      "pt": "À noite, os últimos visitantes pegaram a van. A Grande Rue se esvaziou aos poucos. « Escuta, está silencioso », sussurrou Íris."
+    },
+    {
+      "id": 2,
+      "fr": "Les boutiques ont fermé leurs portes. Les lumières se sont éteintes une à une. « Le jour, la rue était pleine de monde. Maintenant, elle est à nous », a dit Andréa.",
+      "pt": "As lojas fecharam suas portas. As luzes se apagaram uma a uma. « De dia, a rua estava cheia de gente. Agora, ela é nossa », disse Andréa."
+    },
+    {
+      "id": 3,
+      "fr": "La famille a marché jusqu'aux remparts. La mer brillait sous la lune. « Quand je livrais à Paris, la nuit était bruyante. Ici, la nuit est douce », a murmuré Irlan.",
+      "pt": "A família caminhou até as muralhas. O mar brilhava sob a lua. « Quando eu entregava em Paris, a noite era barulhenta. Aqui, a noite é doce », murmurou Irlan."
+    },
+    {
+      "id": 4,
+      "fr": "« C'est le plus beau moment du Mont », a dit Andréa. « Quand la foule part, le rocher redevient lui-même. » La famille est restée longtemps en silence.",
+      "pt": "« É o momento mais bonito do Mont », disse Andréa. « Quando a multidão parte, o rochedo volta a ser ele mesmo. » A família ficou muito tempo em silêncio."
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "le soir",
+      "definitionPt": "a noite, o entardecer",
+      "definitionFr": "Fin de la journée.",
+      "inflections": ["le soir", "un soir", "des soirs"],
+      "ptTargets": ["noite", "entardecer"],
+      "examples": [
+        { "level": "A1", "fr": "Le soir, je lis.", "pt": "À noite, eu leio." },
+        { "level": "A2-B1", "fr": "Le soir, la Grande Rue se vide.", "pt": "À noite, a Grande Rue se esvazia." },
+        { "level": "B2", "fr": "Ce soir-là, le Mont était presque vide.", "pt": "Naquela noite, o Mont estava quase vazio." },
+        { "level": "C1-C2", "fr": "Les soirs du Mont ont une lumière que le jour ne connaît pas.", "pt": "As noites do Mont têm uma luz que o dia não conhece." }
+      ]
+    },
+    {
+      "term": "la foule",
+      "definitionPt": "a multidão",
+      "definitionFr": "Grand nombre de personnes.",
+      "inflections": ["la foule", "une foule", "des foules"],
+      "ptTargets": ["multidão"],
+      "examples": [
+        { "level": "A1", "fr": "La foule est grande.", "pt": "A multidão é grande." },
+        { "level": "A2-B1", "fr": "Le jour, la rue était pleine de foule.", "pt": "De dia, a rua estava cheia de multidão." },
+        { "level": "B2", "fr": "La foule de l'été envahit la Grande Rue.", "pt": "A multidão do verão invade a Grande Rue." },
+        { "level": "C1-C2", "fr": "Quand la foule se retire, le Mont retrouve son âme.", "pt": "Quando a multidão se retira, o Mont reencontra sua alma." }
+      ]
+    },
+    {
+      "term": "se vider",
+      "definitionPt": "esvaziar-se",
+      "definitionFr": "Devenir vide.",
+      "inflections": ["je me vide", "nous nous vidons", "vidé"],
+      "ptTargets": ["esvaziar-se"],
+      "examples": [
+        { "level": "A1", "fr": "La salle se vide.", "pt": "A sala se esvazia." },
+        { "level": "A2-B1", "fr": "La Grande Rue s'est vidée le soir.", "pt": "A Grande Rue se esvaziou à noite." },
+        { "level": "B2", "fr": "La rue se vide dès que la navette part.", "pt": "A rua se esvazia assim que a van parte." },
+        { "level": "C1-C2", "fr": "Se vider pour se retrouver, c'est le rituel du Mont.", "pt": "Esvaziar-se para se reencontrar é o ritual do Mont." }
+      ]
+    },
+    {
+      "term": "s'éteindre",
+      "definitionPt": "apagar-se",
+      "definitionFr": "Cesser d'éclairer.",
+      "inflections": ["je m'éteins", "nous nous éteignons", "éteint"],
+      "ptTargets": ["apagar-se"],
+      "examples": [
+        { "level": "A1", "fr": "La lumière s'éteint.", "pt": "A luz se apaga." },
+        { "level": "A2-B1", "fr": "Les lumières se sont éteintes une à une.", "pt": "As luzes se apagaram uma a uma." },
+        { "level": "B2", "fr": "La dernière lumière s'est éteinte à minuit.", "pt": "A última luz se apagou à meia-noite." },
+        { "level": "C1-C2", "fr": "Quand les lumières s'éteignent, les étoiles prennent leur place.", "pt": "Quando as luzes se apagam, as estrelas ocupam seu lugar." }
+      ]
+    },
+    {
+      "term": "silencieux",
+      "definitionPt": "silencioso",
+      "definitionFr": "Sans bruit.",
+      "inflections": ["silencieux", "silencieuse", "silencieux"],
+      "ptTargets": ["silencioso"],
+      "examples": [
+        { "level": "A1", "fr": "Le parc est silencieux.", "pt": "O parque é silencioso." },
+        { "level": "A2-B1", "fr": "Le Mont silencieux est encore plus beau.", "pt": "O Mont silencioso é ainda mais bonito." },
+        { "level": "B2", "fr": "La rue silencieuse semblait endormie.", "pt": "A rua silenciosa parecia adormecida." },
+        { "level": "C1-C2", "fr": "Le silence du Mont, la nuit, est plus grand que tous les bruits du jour.", "pt": "O silêncio do Mont, à noite, é maior que todos os ruídos do dia." }
+      ]
+    },
+    {
+      "term": "la lune",
+      "definitionPt": "a lua",
+      "definitionFr": "Satellite de la Terre.",
+      "inflections": ["la lune", "une lune", "des lunes"],
+      "ptTargets": ["lua"],
+      "examples": [
+        { "level": "A1", "fr": "La lune est blanche.", "pt": "A lua é branca." },
+        { "level": "A2-B1", "fr": "La mer brillait sous la lune.", "pt": "O mar brilhava sob a lua." },
+        { "level": "B2", "fr": "La lune dessinait un chemin d'argent sur l'eau.", "pt": "A lua desenhava um caminho de prata na água." },
+        { "level": "C1-C2", "fr": "Sous la lune, le Mont devient une île de rêve.", "pt": "Sob a lua, o Mont vira uma ilha de sonho." }
+      ]
+    },
+    {
+      "term": "bruyant",
+      "definitionPt": "barulhento",
+      "definitionFr": "Qui fait du bruit.",
+      "inflections": ["bruyant", "bruyante", "bruyants"],
+      "ptTargets": ["barulhento"],
+      "examples": [
+        { "level": "A1", "fr": "La rue est bruyante.", "pt": "A rua é barulhenta." },
+        { "level": "A2-B1", "fr": "Paris était bruyant la nuit.", "pt": "Paris era barulhento à noite." },
+        { "level": "B2", "fr": "La foule bruyante a quitté la rue.", "pt": "A multidão barulhenta deixou a rua." },
+        { "level": "C1-C2", "fr": "Le contraste entre le jour bruyant et la nuit calme est magique.", "pt": "O contraste entre o dia barulhento e a noite calma é mágico." }
+      ]
+    },
+    {
+      "term": "chuchoter",
+      "definitionPt": "sussurrar",
+      "definitionFr": "Parler très doucement.",
+      "inflections": ["je chuchote", "nous chuchotons", "chuchoté"],
+      "ptTargets": ["sussurrar"],
+      "examples": [
+        { "level": "A1", "fr": "Je chuchote à l'école.", "pt": "Sussurro na escola." },
+        { "level": "A2-B1", "fr": "Íris a chuchoté dans le silence.", "pt": "Íris sussurrou no silêncio." },
+        { "level": "B2", "fr": "On chuchotait pour ne pas réveiller le Mont.", "pt": "Sussurrava-se para não acordar o Mont." },
+        { "level": "C1-C2", "fr": "Chuchoter dans ce lieu, c'est respecter mille ans de silence.", "pt": "Sussurrar neste lugar é respeitar mil anos de silêncio." }
+      ]
+    },
+    {
+      "term": "la porte",
+      "definitionPt": "a porta",
+      "definitionFr": "Ouverture pour entrer.",
+      "inflections": ["la porte", "une porte", "des portes"],
+      "ptTargets": ["porta"],
+      "examples": [
+        { "level": "A1", "fr": "La porte est fermée.", "pt": "A porta está fechada." },
+        { "level": "A2-B1", "fr": "Les boutiques ont fermé leurs portes.", "pt": "As lojas fecharam suas portas." },
+        { "level": "B2", "fr": "Derrière les portes closes, le Mont garde ses secrets.", "pt": "Atrás das portas fechadas, o Mont guarda seus segredos." },
+        { "level": "C1-C2", "fr": "Chaque porte du Mont s'est fermée sur un siècle d'histoires.", "pt": "Cada porta do Mont se fechou sobre um século de histórias." }
+      ]
+    },
+    {
+      "term": "redevenir",
+      "definitionPt": "voltar a ser",
+      "definitionFr": "Devenir de nouveau.",
+      "inflections": ["je redeviens", "nous redevenons", "redevenu"],
+      "ptTargets": ["voltar a ser"],
+      "examples": [
+        { "level": "A1", "fr": "Il redevient calme.", "pt": "Ele volta a ficar calmo." },
+        { "level": "A2-B1", "fr": "Le Mont redevient lui-même le soir.", "pt": "O Mont volta a ser ele mesmo à noite." },
+        { "level": "B2", "fr": "Après la foule, le rocher est redevenu une île silencieuse.", "pt": "Depois da multidão, o rochedo voltou a ser uma ilha silenciosa." },
+        { "level": "C1-C2", "fr": "Redevenir soi-même, c'est le luxe des lieux et des hommes.", "pt": "Voltar a ser si mesmo é o luxo dos lugares e dos homens." }
+      ]
+    },
+    {
+      "term": "rester",
+      "definitionPt": "ficar, permanecer",
+      "definitionFr": "Continuer à être dans un lieu.",
+      "inflections": ["je reste", "nous restons", "resté"],
+      "ptTargets": ["ficar", "permanecer"],
+      "examples": [
+        { "level": "A1", "fr": "Je reste ici.", "pt": "Fico aqui." },
+        { "level": "A2-B1", "fr": "La famille est restée longtemps en silence.", "pt": "A família ficou muito tempo em silêncio." },
+        { "level": "B2", "fr": "Ils sont restés jusqu'à la dernière navette.", "pt": "Eles ficaram até a última van." },
+        { "level": "C1-C2", "fr": "Rester après la foule, c'est voir le vrai visage des lieux.", "pt": "Ficar depois da multidão é ver o verdadeiro rosto dos lugares." }
+      ]
+    },
+    {
+      "term": "à nous",
+      "definitionPt": "nosso, a nós",
+      "definitionFr": "Qui nous appartient.",
+      "inflections": ["à nous", "c'est à nous", "à nous deux"],
+      "ptTargets": ["nosso"],
+      "examples": [
+        { "level": "A1", "fr": "Ce livre est à nous.", "pt": "Este livro é nosso." },
+        { "level": "A2-B1", "fr": "Maintenant, la rue est à nous.", "pt": "Agora, a rua é nossa." },
+        { "level": "B2", "fr": "Le Mont silencieux est à nous ce soir.", "pt": "O Mont silencioso é nosso esta noite." },
+        { "level": "C1-C2", "fr": "Les plus beaux moments sont ceux où le lieu nous appartient enfin.", "pt": "Os momentos mais bonitos são aqueles em que o lugar enfim nos pertence." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Le jour / le soir : l'opposition des atmosphères",
+    "explanationPt": "Para contrastar: 'le jour, la rue était (IMP) pleine de monde' / 'le soir, elle s'est vidée (PC)'. Imparfait para o cenário habitual, passé composé para a mudança.",
+    "exampleFr": "Le jour, la rue était pleine de monde ; le soir, elle s'est vidée peu à peu.",
+    "examplePt": "De dia, a rua estava cheia de gente; à noite, ela se esvaziou aos poucos.",
+    "practiceQuestion": "Complete: « Le soir, la rue s'est ___. »",
+    "options": ["vidée", "vidait", "videra"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "Les lumières se sont éteintes : le pronominal au passé",
+        "explanationPt": "Verbos pronominais no passé composé usam ÊTRE: 'les lumières se sont éteintes' (as luzes se apagaram), 'la rue s'est vidée' (a rua se esvaziou).",
+        "exampleFr": "Les lumières se sont éteintes une à une et la rue s'est vidée.",
+        "examplePt": "As luzes se apagaram uma a uma e a rua se esvaziou.",
+        "practiceQuestion": "Complete: « Les lumières se sont ___ une à une. »",
+        "options": ["éteintes", "éteint", "éteindre"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "Quand je livrais à Paris : le souvenir contrasté",
+        "explanationPt": "Recordação: 'quand je livrais (IMP) à Paris, la nuit était (IMP) bruyante. Ici, la nuit est (présent) douce.' Contraste entre o passado de Irlan e o presente.",
+        "exampleFr": "Quand je livrais à Paris, la nuit était bruyante. Ici, elle est douce.",
+        "examplePt": "Quando entregava em Paris, a noite era barulhenta. Aqui, ela é doce.",
+        "practiceQuestion": "Complete: « Quand je livrais à Paris, la nuit ___ bruyante. »",
+        "options": ["était", "a été", "sera"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "O que acontece com a Grande Rue quando os visitantes partem?",
+      "options": ["Ela se esvazia e o Mont reencontra seu silêncio", "Ela abre mais lojas", "Ela vira um mercado noturno"],
+      "correctIndex": 0,
+      "explanation": "À noite, a Grande Rue se esvazia e o Mont reencontra a calma."
+    },
+    {
+      "question": "Complete: « Le soir, la rue s'est ___. »",
+      "options": ["vidée", "vidait", "videra"],
+      "correctIndex": 0,
+      "explanation": "Mudança pontual no passado = passé composé pronominal: 's'est vidée'."
+    },
+    {
+      "question": "Complete: « Les lumières se sont ___ une à une. »",
+      "options": ["éteintes", "éteint", "éteindre"],
+      "correctIndex": 0,
+      "explanation": "Pronominal no passé composé com concordância: 'se sont éteintes'."
+    },
+    {
+      "question": "O que Irlan lembrou sobre as noites de Paris?",
+      "options": ["Que eram bruyantes (barulhentas), ao contrário daqui", "Que eram silenciosas", "Que nunca trabalhou à noite"],
+      "correctIndex": 0,
+      "explanation": "Irlan contrastou as noites barulhentas de livreur em Paris com a doçura do Mont."
+    },
+    {
+      "question": "O que Andréa disse sobre o momento em que a foule parte?",
+      "options": ["O rocher reencontra a si mesmo", "O Mont fica triste", "As lojas reabrem"],
+      "correctIndex": 0,
+      "explanation": "Para Andréa, quando a multidão parte, o rochedo volta a ser ele mesmo."
+    }
+  ]
+}

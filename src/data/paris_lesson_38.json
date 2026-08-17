@@ -1,0 +1,252 @@
+{
+  "id": "paris_lesson_38",
+  "cityId": "paris",
+  "domain": "Animais & Natureza",
+  "level": "Iniciante (A1)",
+  "titleFr": "Les animaux : la visite au zoo",
+  "titlePt": "Os animais: a visita ao zoológico",
+  "subtitleFr": "Les animaux du parc zoologique et les animaux de la maison",
+  "subtitlePt": "Os animais do zoológico e os animais de casa",
+  "summaryPt": "Nesta Aula 38 (A1), a família visita o parc zoologique de Paris e fala dos animais. O aluno aprende o vocabulário dos animais (chat, chien, oiseau, poisson, lapin, cheval, singe, éléphant) e o verbo 'aimer' com 'les animaux'.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Le dimanche, la famille visite le parc zoologique de Paris. Iris adore les animaux. « Regarde le singe, papa ! Il saute dans l'arbre ! » Devant la cage des éléphants, elle ouvre de grands yeux : « Il est immense ! »",
+      "pt": "No domingo, a família visita o zoológico de Paris. Íris adora os animais. « Olha o macaco, papai! Ele pula na árvore! » Diante do recinto dos elefantes, ela arregala os olhos: « Ele é imenso! »"
+    },
+    {
+      "id": 2,
+      "fr": "Andréa préfère les oiseaux. « Regarde le paon, dit-elle. Il ouvre ses plumes bleues et vertes. » Iris demande : « On peut avoir un oiseau à la maison ? » Andréa rit : « Peut-être un poisson, d'abord. C'est plus facile ! »",
+      "pt": "Andréa prefere os pássaros. « Olha o pavão, diz ela. Ele abre suas penas azuis e verdes. » Íris pergunta: « A gente pode ter um pássaro em casa? » Andréa ri: « Talvez um peixe, primeiro. É mais fácil! »"
+    },
+    {
+      "id": 3,
+      "fr": "Près des chevaux, Iris demande : « Et un lapin, c'est facile ? » Irlan sourit : « Un lapin est un bon animal de maison. Il mange des carottes et des salades. Mais il faut le nourrir et le soigner chaque jour. »",
+      "pt": "Perto dos cavalos, Íris pergunta: « E um coelho, é fácil? » Irlan sorri: « O coelho é um bom animal de casa. Ele come cenouras e alfaces. Mas é preciso alimentá-lo e cuidar dele todos os dias. »"
+    },
+    {
+      "id": 4,
+      "fr": "À la maison, il y a un chat qui dort près de la fenêtre. « Lui, il n'est pas au zoo ! » rit Iris. Elle caresse le chat : « J'aime les animaux, tous les animaux. Mais toi, mon chat, tu es mon préféré. »",
+      "pt": "Em casa, há um gato que dorme perto da janela. « Ele, não está no zoológico! » ri Íris. Ela faz carinho no gato: « Gosto dos animais, de todos os animais. Mas você, meu gato, é o meu preferido. »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "l'animal",
+      "definitionPt": "o animal",
+      "definitionFr": "Être vivant non humain.",
+      "inflections": ["l'animal", "un animal", "des animaux"],
+      "ptTargets": ["animal"],
+      "examples": [
+        { "level": "A1", "fr": "L'animal est joli.", "pt": "O animal é bonito." },
+        { "level": "A2-B1", "fr": "Iris aime les animaux.", "pt": "Íris gosta dos animais." },
+        { "level": "B2", "fr": "Les animaux du zoo viennent du monde entier.", "pt": "Os animais do zoológico vêm do mundo inteiro." },
+        { "level": "C1-C2", "fr": "C'est l'animal qui, fidèle, partage la vie des hommes.", "pt": "É o animal que, fiel, partilha a vida dos homens." }
+      ]
+    },
+    {
+      "term": "le chat",
+      "definitionPt": "o gato",
+      "definitionFr": "Animal domestique.",
+      "inflections": ["le chat", "un chat", "des chats"],
+      "ptTargets": ["gato"],
+      "examples": [
+        { "level": "A1", "fr": "Le chat dort.", "pt": "O gato dorme." },
+        { "level": "A2-B1", "fr": "Le chat dort près de la fenêtre.", "pt": "O gato dorme perto da janela." },
+        { "level": "B2", "fr": "Le chat, indépendant, choisit sa maison.", "pt": "O gato, independente, escolhe sua casa." },
+        { "level": "C1-C2", "fr": "C'est le chat qui, silencieux, comprend tout sans rien dire.", "pt": "É o gato que, silencioso, compreende tudo sem dizer nada." }
+      ]
+    },
+    {
+      "term": "le chien",
+      "definitionPt": "o cachorro",
+      "definitionFr": "Animal domestique fidèle.",
+      "inflections": ["le chien", "un chien", "des chiens"],
+      "ptTargets": ["cachorro", "cão"],
+      "examples": [
+        { "level": "A1", "fr": "Le chien aboie.", "pt": "O cachorro late." },
+        { "level": "A2-B1", "fr": "Le chien joue dans le parc.", "pt": "O cachorro brinca no parque." },
+        { "level": "B2", "fr": "Le chien, fidèle, accompagne son maître partout.", "pt": "O cachorro, fiel, acompanha seu dono aonde quer que vá." },
+        { "level": "C1-C2", "fr": "C'est le chien qui, par sa joie, apprend aux hommes l'amour simple.", "pt": "É o cachorro que, por sua alegria, ensina aos homens o amor simples." }
+      ]
+    },
+    {
+      "term": "l'oiseau",
+      "definitionPt": "o pássaro",
+      "definitionFr": "Animal qui vole.",
+      "inflections": ["l'oiseau", "un oiseau", "des oiseaux"],
+      "ptTargets": ["pássaro", "ave"],
+      "examples": [
+        { "level": "A1", "fr": "L'oiseau chante.", "pt": "O pássaro canta." },
+        { "level": "A2-B1", "fr": "Les oiseaux volent dans le ciel.", "pt": "Os pássaros voam no céu." },
+        { "level": "B2", "fr": "Les oiseaux, libres, animent les matins de Paris.", "pt": "Os pássaros, livres, animam as manhãs de Paris." },
+        { "level": "C1-C2", "fr": "C'est l'oiseau qui, par son chant, annonce le printemps.", "pt": "É o pássaro que, por seu canto, anuncia a primavera." }
+      ]
+    },
+    {
+      "term": "le poisson",
+      "definitionPt": "o peixe",
+      "definitionFr": "Animal qui vit dans l'eau.",
+      "inflections": ["le poisson", "un poisson", "des poissons"],
+      "ptTargets": ["peixe"],
+      "examples": [
+        { "level": "A1", "fr": "Le poisson nage.", "pt": "O peixe nada." },
+        { "level": "A2-B1", "fr": "Un poisson vit dans un aquarium.", "pt": "Um peixe vive num aquário." },
+        { "level": "B2", "fr": "Les poissons, colorés, éclairent les aquariums.", "pt": "Os peixes, coloridos, iluminam os aquários." },
+        { "level": "C1-C2", "fr": "C'est le poisson qui, silencieux, traverse les eaux du monde.", "pt": "É o peixe que, silencioso, atravessa as águas do mundo." }
+      ]
+    },
+    {
+      "term": "le lapin",
+      "definitionPt": "o coelho",
+      "definitionFr": "Petit animal aux longues oreilles.",
+      "inflections": ["le lapin", "un lapin", "des lapins"],
+      "ptTargets": ["coelho"],
+      "examples": [
+        { "level": "A1", "fr": "Le lapin mange une carotte.", "pt": "O coelho come uma cenoura." },
+        { "level": "A2-B1", "fr": "Le lapin est un bon animal de maison.", "pt": "O coelho é um bom animal de casa." },
+        { "level": "B2", "fr": "Les lapins, rapides, adorent les jardins.", "pt": "Os coelhos, rápidos, adoram os jardins." },
+        { "level": "C1-C2", "fr": "C'est le lapin qui, doux, réchauffe les cœurs des enfants.", "pt": "É o coelho que, doce, aquece os corações das crianças." }
+      ]
+    },
+    {
+      "term": "le cheval",
+      "definitionPt": "o cavalo",
+      "definitionFr": "Grand animal que l'on monte.",
+      "inflections": ["le cheval", "un cheval", "des chevaux"],
+      "ptTargets": ["cavalo"],
+      "examples": [
+        { "level": "A1", "fr": "Le cheval court.", "pt": "O cavalo corre." },
+        { "level": "A2-B1", "fr": "Les chevaux sont grands et forts.", "pt": "Os cavalos são grandes e fortes." },
+        { "level": "B2", "fr": "Les chevaux, élégants, participent aux grands spectacles.", "pt": "Os cavalos, elegantes, participam dos grandes espetáculos." },
+        { "level": "C1-C2", "fr": "C'est le cheval qui, depuis des siècles, accompagne les hommes dans leurs voyages.", "pt": "É o cavalo que, há séculos, acompanha os homens em suas viagens." }
+      ]
+    },
+    {
+      "term": "le singe",
+      "definitionPt": "o macaco",
+      "definitionFr": "Animal proche de l'homme.",
+      "inflections": ["le singe", "un singe", "des singes"],
+      "ptTargets": ["macaco"],
+      "examples": [
+        { "level": "A1", "fr": "Le singe saute.", "pt": "O macaco pula." },
+        { "level": "A2-B1", "fr": "Le singe saute dans l'arbre.", "pt": "O macaco pula na árvore." },
+        { "level": "B2", "fr": "Les singes, curieux, observent les visiteurs.", "pt": "Os macacos, curiosos, observam os visitantes." },
+        { "level": "C1-C2", "fr": "C'est le singe qui, malicieux, amuse et étonne.", "pt": "É o macaco que, travesso, diverte e surpreende." }
+      ]
+    },
+    {
+      "term": "l'éléphant",
+      "definitionPt": "o elefante",
+      "definitionFr": "Très grand animal.",
+      "inflections": ["l'éléphant", "un éléphant", "des éléphants"],
+      "ptTargets": ["elefante"],
+      "examples": [
+        { "level": "A1", "fr": "L'éléphant est immense.", "pt": "O elefante é imenso." },
+        { "level": "A2-B1", "fr": "L'éléphant a une grande trompe.", "pt": "O elefante tem uma tromba grande." },
+        { "level": "B2", "fr": "Les éléphants, paisibles, impressionnent par leur force.", "pt": "Os elefantes, tranquilos, impressionam por sua força." },
+        { "level": "C1-C2", "fr": "C'est l'éléphant qui, malgré sa taille, reste doux et fidèle.", "pt": "É o elefante que, apesar do tamanho, continua doce e fiel." }
+      ]
+    },
+    {
+      "term": "le paon",
+      "definitionPt": "o pavão",
+      "definitionFr": "Oiseau aux plumes colorées.",
+      "inflections": ["le paon", "un paon", "des paons"],
+      "ptTargets": ["pavão"],
+      "examples": [
+        { "level": "A1", "fr": "Le paon est bleu et vert.", "pt": "O pavão é azul e verde." },
+        { "level": "A2-B1", "fr": "Le paon ouvre ses plumes.", "pt": "O pavão abre suas penas." },
+        { "level": "B2", "fr": "Le paon, fier, déploie sa queue comme un éventail.", "pt": "O pavão, orgulhoso, abre sua cauda como um leque." },
+        { "level": "C1-C2", "fr": "C'est le paon qui, par sa parure, célèbre la beauté de la nature.", "pt": "É o pavão que, por seu adorno, celebra a beleza da natureza." }
+      ]
+    },
+    {
+      "term": "le zoo",
+      "definitionPt": "o zoológico",
+      "definitionFr": "Parc où l'on montre des animaux.",
+      "inflections": ["le zoo", "un zoo", "des zoos"],
+      "ptTargets": ["zoológico", "jardim zoológico"],
+      "examples": [
+        { "level": "A1", "fr": "Le zoo est grand.", "pt": "O zoológico é grande." },
+        { "level": "A2-B1", "fr": "La famille visite le zoo le dimanche.", "pt": "A família visita o zoológico no domingo." },
+        { "level": "B2", "fr": "Les zoos modernes protègent les espèces menacées.", "pt": "Os zoológicos modernos protegem as espécies ameaçadas." },
+        { "level": "C1-C2", "fr": "C'est le zoo qui, éducatif, rapproche les enfants des animaux du monde.", "pt": "É o zoológico que, educativo, aproxima as crianças dos animais do mundo." }
+      ]
+    },
+    {
+      "term": "caresser",
+      "definitionPt": "fazer carinho (acariciar)",
+      "definitionFr": "Toucher doucement.",
+      "inflections": ["caresser", "je caresse", "nous caressons"],
+      "ptTargets": ["fazer carinho", "acariciar"],
+      "examples": [
+        { "level": "A1", "fr": "Je caresse le chat.", "pt": "Eu faço carinho no gato." },
+        { "level": "A2-B1", "fr": "Iris caresse le chat doucement.", "pt": "Íris faz carinho no gato suavemente." },
+        { "level": "B2", "fr": "Caresser un animal calme et rassure.", "pt": "Fazer carinho num animal acalma e tranquiliza." },
+        { "level": "C1-C2", "fr": "C'est en caressant que l'on apprend la tendresse.", "pt": "É fazendo carinho que se aprende a ternura." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Le verbe aimer : gostar de",
+    "explanationPt": "O verbo 'aimer' (gostar/amar): j'aime, tu aimes, il/elle aime, nous aimons, vous aimez, ils/elles aiment. Ex.: 'J'aime les animaux.' Atenção: 'aimer + le/la/les' = gostar de algo em geral.",
+    "exampleFr": "J'aime les animaux, tous les animaux. Mais toi, mon chat, tu es mon préféré.",
+    "examplePt": "Gosto dos animais, de todos os animais. Mas você, meu gato, é o meu preferido.",
+    "practiceQuestion": "Complete: 'J'aime _____ animaux.'",
+    "options": ["les", "des", "de"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "Le pluriel des animaux",
+        "explanationPt": "Alguns plurais são irregulares: un animal → des animaux, un oiseau → des oiseaux, un cheval → des chevaux. Ex.: 'Les animaux du zoo.'",
+        "exampleFr": "Les animaux du zoo viennent du monde entier.",
+        "examplePt": "Os animais do zoológico vêm do mundo inteiro.",
+        "practiceQuestion": "Complete o plural: 'un cheval → des _____'",
+        "options": ["chevaux", "chevais", "chevals"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "Il faut le nourrir : cuidar do animal",
+        "explanationPt": "Para falar dos cuidados: 'il faut le nourrir' (é preciso alimentá-lo), 'il faut le soigner' (é preciso cuidar dele), 'il faut le caresser' (fazer carinho).",
+        "exampleFr": "Il faut le nourrir et le soigner chaque jour.",
+        "examplePt": "É preciso alimentá-lo e cuidar dele todos os dias.",
+        "practiceQuestion": "Complete: 'Il faut le _____ chaque jour.'",
+        "options": ["nourrir", "nourrit", "nourrissez"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "O que Íris adora?",
+      "options": ["os animais", "a chuva", "os deveres"],
+      "correctIndex": 0,
+      "explanation": "Iris adore les animaux."
+    },
+    {
+      "question": "O que Andréa prefere no zoológico?",
+      "options": ["os pássaros", "os elefantes", "as cobras"],
+      "correctIndex": 0,
+      "explanation": "Andréa préfère les oiseaux."
+    },
+    {
+      "question": "Qual animal a família tem em casa?",
+      "options": ["um gato", "um cavalo", "um elefante"],
+      "correctIndex": 0,
+      "explanation": "À la maison, il y a un chat qui dort près de la fenêtre."
+    },
+    {
+      "question": "Complete: 'J'aime _____ animaux.'",
+      "options": ["les", "des", "de"],
+      "correctIndex": 0,
+      "explanation": "aimer + les: gostar de algo em geral."
+    },
+    {
+      "question": "Complete o plural: 'un cheval → des _____'",
+      "options": ["chevaux", "chevais", "chevals"],
+      "correctIndex": 0,
+      "explanation": "un cheval → des chevaux."
+    }
+  ]
+}

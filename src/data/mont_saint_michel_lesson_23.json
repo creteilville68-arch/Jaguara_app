@@ -1,0 +1,252 @@
+{
+  "id": "mont_saint_michel_lesson_23",
+  "cityId": "mont-saint-michel",
+  "domain": "Natureza & Geografia",
+  "level": "Básico (A2/B1)",
+  "titleFr": "La lumière de la baie",
+  "titlePt": "A luz da baía",
+  "subtitleFr": "Le matin, l'après-midi, le soir : la baie change de visage",
+  "subtitlePt": "Manhã, tarde, noite: a baía muda de rosto",
+  "summaryPt": "Nesta Aula 23 (A2/B1), a família observa como a luz muda na baía ao longo do dia: cinzenta de manhã, dourada à tarde, violeta ao pôr do sol. O aluno pratica os adjetivos de sensação e atmosfera (gris, doré, violet, calme) e a descrição de paisagens no imparfait.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Le matin, la baie était grise et calme. La brume couvrait les prés salés. « On dirait un tableau », a murmuré Andréa.",
+      "pt": "De manhã, a baía era cinzenta e calma. A névoa cobria os prados salgados. « Parece um quadro », murmurou Andréa."
+    },
+    {
+      "id": 2,
+      "fr": "À midi, le soleil a percé les nuages. L'eau est devenue dorée. « Regarde, la baie brille comme de l'or », a dit Íris.",
+      "pt": "Ao meio-dia, o sol furou as nuvens. A água ficou dourada. « Olha, a baía brilha como ouro », disse Íris."
+    },
+    {
+      "id": 3,
+      "fr": "Le soir, le ciel est devenu violet et rose. Le Mont semblait flotter dans les nuages. « Chaque heure est une nouvelle peinture », a soupiré Irlan.",
+      "pt": "À noite, o céu ficou violeta e rosa. O Mont parecia flutuar nas nuvens. « Cada hora é uma nova pintura », suspirou Irlan."
+    },
+    {
+      "id": 4,
+      "fr": "« Quand j'étais livreur à Paris, je courais après le temps », a dit Irlan. « Ici, je regarde le temps passer. C'est un luxe. »",
+      "pt": "« Quando eu era entregador em Paris, corria atrás do tempo », disse Irlan. « Aqui, vejo o tempo passar. É um luxo. »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "la lumière",
+      "definitionPt": "a luz",
+      "definitionFr": "Clarté.",
+      "inflections": ["la lumière", "une lumière", "des lumières"],
+      "ptTargets": ["luz"],
+      "examples": [
+        { "level": "A1", "fr": "La lumière est belle.", "pt": "A luz é bonita." },
+        { "level": "A2-B1", "fr": "La lumière de la baie change à chaque heure.", "pt": "A luz da baía muda a cada hora." },
+        { "level": "B2", "fr": "La lumière du soir dorait les remparts.", "pt": "A luz da noite dourava as muralhas." },
+        { "level": "C1-C2", "fr": "Cette lumière du Nord, si changeante, a inspiré des peintres.", "pt": "Esta luz do Norte, tão mutável, inspirou pintores." }
+      ]
+    },
+    {
+      "term": "gris",
+      "definitionPt": "cinza",
+      "definitionFr": "Couleur entre blanc et noir.",
+      "inflections": ["gris", "grise", "gris"],
+      "ptTargets": ["cinza"],
+      "examples": [
+        { "level": "A1", "fr": "Le ciel est gris.", "pt": "O céu está cinza." },
+        { "level": "A2-B1", "fr": "Le matin, la baie était grise.", "pt": "De manhã, a baía era cinzenta." },
+        { "level": "B2", "fr": "Le gris de la baie n'est pas triste, il est doux.", "pt": "O cinza da baía não é triste, é suave." },
+        { "level": "C1-C2", "fr": "Dans le gris du matin, le Mont semblait un rêve de pierre.", "pt": "No cinza da manhã, o Mont parecia um sonho de pedra." }
+      ]
+    },
+    {
+      "term": "doré",
+      "definitionPt": "dourado",
+      "definitionFr": "De la couleur de l'or.",
+      "inflections": ["doré", "dorée", "dorés"],
+      "ptTargets": ["dourado"],
+      "examples": [
+        { "level": "A1", "fr": "Le soleil est doré.", "pt": "O sol é dourado." },
+        { "level": "A2-B1", "fr": "L'eau est devenue dorée à midi.", "pt": "A água ficou dourada ao meio-dia." },
+        { "level": "B2", "fr": "La lumière dorée caressait les toits du Mont.", "pt": "A luz dourada acariciava os telhados do Mont." },
+        { "level": "C1-C2", "fr": "Dorée par le soir, la baie ressemblait à un océan de miel.", "pt": "Dourada pela noite, a baía parecia um oceano de mel." }
+      ]
+    },
+    {
+      "term": "violet",
+      "definitionPt": "violeta",
+      "definitionFr": "Couleur entre bleu et rouge.",
+      "inflections": ["violet", "violette", "violets"],
+      "ptTargets": ["violeta"],
+      "examples": [
+        { "level": "A1", "fr": "La fleur est violette.", "pt": "A flor é violeta." },
+        { "level": "A2-B1", "fr": "Le ciel est devenu violet le soir.", "pt": "O céu ficou violeta à noite." },
+        { "level": "B2", "fr": "Les nuages violets annonçaient la fin du jour.", "pt": "As nuvens violetas anunciavam o fim do dia." },
+        { "level": "C1-C2", "fr": "Dans la lumière violette, le Mont semblait irréel.", "pt": "Na luz violeta, o Mont parecia irreal." }
+      ]
+    },
+    {
+      "term": "le tableau",
+      "definitionPt": "o quadro, a pintura",
+      "definitionFr": "Peinture.",
+      "inflections": ["le tableau", "un tableau", "des tableaux"],
+      "ptTargets": ["quadro", "pintura"],
+      "examples": [
+        { "level": "A1", "fr": "Le tableau est joli.", "pt": "O quadro é bonito." },
+        { "level": "A2-B1", "fr": "La baie ressemblait à un tableau.", "pt": "A baía parecia um quadro." },
+        { "level": "B2", "fr": "Chaque heure peint un nouveau tableau de la baie.", "pt": "Cada hora pinta um novo quadro da baía." },
+        { "level": "C1-C2", "fr": "Les tableaux de la baie sont gratuits, mais ils ne se reproduisent jamais.", "pt": "Os quadros da baía são gratuitos, mas nunca se reproduzem." }
+      ]
+    },
+    {
+      "term": "la brume",
+      "definitionPt": "a névoa",
+      "definitionFr": "Brouillard léger.",
+      "inflections": ["la brume", "une brume", "des brumes"],
+      "ptTargets": ["névoa"],
+      "examples": [
+        { "level": "A1", "fr": "La brume est blanche.", "pt": "A névoa é branca." },
+        { "level": "A2-B1", "fr": "La brume couvrait les prés salés.", "pt": "A névoa cobria os prados salgados." },
+        { "level": "B2", "fr": "La brume s'est levée quand le soleil est arrivé.", "pt": "A névoa se levantou quando o sol chegou." },
+        { "level": "C1-C2", "fr": "La brume du matin enveloppait le Mont d'un mystère sacré.", "pt": "A névoa da manhã envolvia o Mont num mistério sagrado." }
+      ]
+    },
+    {
+      "term": "percer",
+      "definitionPt": "furar, romper",
+      "definitionFr": "Traverser, faire un trou.",
+      "inflections": ["je perce", "nous perçons", "percé"],
+      "ptTargets": ["furar", "romper"],
+      "examples": [
+        { "level": "A1", "fr": "Le soleil perce les nuages.", "pt": "O sol fura as nuvens." },
+        { "level": "A2-B1", "fr": "À midi, le soleil a percé les nuages.", "pt": "Ao meio-dia, o sol furou as nuvens." },
+        { "level": "B2", "fr": "Un rayon a percé la brume du matin.", "pt": "Um raio furou a névoa da manhã." },
+        { "level": "C1-C2", "fr": "Quand le soleil perce, la baie entière s'illumine.", "pt": "Quando o sol fura, a baía inteira se ilumina." }
+      ]
+    },
+    {
+      "term": "le nuage",
+      "definitionPt": "a nuvem",
+      "definitionFr": "Masse visible de vapeur d'eau dans le ciel.",
+      "inflections": ["le nuage", "un nuage", "des nuages"],
+      "ptTargets": ["nuvem"],
+      "examples": [
+        { "level": "A1", "fr": "Le nuage est blanc.", "pt": "A nuvem é branca." },
+        { "level": "A2-B1", "fr": "Les nuages cachaient le soleil.", "pt": "As nuvens escondiam o sol." },
+        { "level": "B2", "fr": "Des nuages roses flottaient au-dessus de l'abbaye.", "pt": "Nuvens rosas flutuavam sobre a abadia." },
+        { "level": "C1-C2", "fr": "Les nuages, rapides, dessinaient des ombres mouvantes sur la baie.", "pt": "As nuvens, rápidas, desenhavam sombras móveis sobre a baía." }
+      ]
+    },
+    {
+      "term": "briller",
+      "definitionPt": "brilhar",
+      "definitionFr": "Émettre de la lumière.",
+      "inflections": ["je brille", "nous brillons", "brillé"],
+      "ptTargets": ["brilhar"],
+      "examples": [
+        { "level": "A1", "fr": "Les étoiles brillent.", "pt": "As estrelas brilham." },
+        { "level": "A2-B1", "fr": "L'eau brillait comme de l'or.", "pt": "A água brilhava como ouro." },
+        { "level": "B2", "fr": "Le Mont brillait sous le soleil couchant.", "pt": "O Mont brilhava sob o sol poente." },
+        { "level": "C1-C2", "fr": "Quand la baie brille, on comprend pourquoi les peintres l'aimaient.", "pt": "Quando a baía brilha, entende-se por que os pintores a amavam." }
+      ]
+    },
+    {
+      "term": "le coucher du soleil",
+      "definitionPt": "o pôr do sol",
+      "definitionFr": "Moment où le soleil disparaît.",
+      "inflections": ["le coucher du soleil", "un coucher de soleil", "des couchers de soleil"],
+      "ptTargets": ["pôr do sol"],
+      "examples": [
+        { "level": "A1", "fr": "Le coucher du soleil est beau.", "pt": "O pôr do sol é bonito." },
+        { "level": "A2-B1", "fr": "Le coucher du soleil a coloré la baie en rose.", "pt": "O pôr do sol coloriu a baía de rosa." },
+        { "level": "B2", "fr": "Chaque coucher de soleil sur la baie est différent.", "pt": "Cada pôr do sol sobre a baía é diferente." },
+        { "level": "C1-C2", "fr": "Au coucher du soleil, le Mont devient une ombre d'or.", "pt": "Ao pôr do sol, o Mont vira uma sombra de ouro." }
+      ]
+    },
+    {
+      "term": "soupirer",
+      "definitionPt": "suspirar",
+      "definitionFr": "Respirer fortement par émotion.",
+      "inflections": ["je soupire", "nous soupirons", "soupiré"],
+      "ptTargets": ["suspirar"],
+      "examples": [
+        { "level": "A1", "fr": "Elle soupire de joie.", "pt": "Ela suspira de alegria." },
+        { "level": "A2-B1", "fr": "Irlan a soupiré devant la beauté de la baie.", "pt": "Irlan suspirou diante da beleza da baía." },
+        { "level": "B2", "fr": "Elle a soupiré en regardant le paysage.", "pt": "Ela suspirou olhando a paisagem." },
+        { "level": "C1-C2", "fr": "Soupirer devant un tel spectacle, c'est dire merci sans mots.", "pt": "Suspirar diante de tal espetáculo é dizer obrigado sem palavras." }
+      ]
+    },
+    {
+      "term": "le luxe",
+      "definitionPt": "o luxo",
+      "definitionFr": "Grande richesse ; plaisir rare.",
+      "inflections": ["le luxe", "un luxe", "des luxes"],
+      "ptTargets": ["luxo"],
+      "examples": [
+        { "level": "A1", "fr": "Le luxe est cher.", "pt": "O luxo é caro." },
+        { "level": "A2-B1", "fr": "Regarder le temps passer, c'est un luxe.", "pt": "Ver o tempo passar é um luxo." },
+        { "level": "B2", "fr": "Le vrai luxe, c'est le silence et la beauté.", "pt": "O verdadeiro luxo é o silêncio e a beleza." },
+        { "level": "C1-C2", "fr": "Ce luxe-là ne s'achète pas : il se contemple.", "pt": "Esse luxo não se compra: contempla-se." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Les couleurs et les sensations : gris, doré, violet",
+    "explanationPt": "Adjetivos de atmosfera: 'gris' (cinza), 'doré' (dourado), 'violet' (violeta), 'calme' (calmo). Com devenir: 'l'eau est devenue dorée' (a água ficou dourada).",
+    "exampleFr": "Le matin, la baie était grise ; à midi, l'eau est devenue dorée ; le soir, le ciel est devenu violet.",
+    "examplePt": "De manhã, a baía era cinzenta; ao meio-dia, a água ficou dourada; à noite, o céu ficou violeta.",
+    "practiceQuestion": "Complete: « L'eau est ___ dorée. »",
+    "options": ["devenue", "devenir", "deviendra"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "Le matin / à midi / le soir : le déroulement du jour",
+        "explanationPt": "Para contar o dia: 'le matin' (de manhã), 'à midi' (ao meio-dia), 'l'après-midi' (à tarde), 'le soir' (à noite). Com imparfait para o cenário, passé composé para mudanças.",
+        "exampleFr": "Le matin, la baie était grise ; à midi, le soleil a percé les nuages.",
+        "examplePt": "De manhã, a baía era cinzenta; ao meio-dia, o sol furou as nuvens.",
+        "practiceQuestion": "Complete: « ___ midi, le soleil a percé les nuages. »",
+        "options": ["À", "Le", "En"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "Quand j'étais livreur : le contraste de vie",
+        "explanationPt": "'Quand j'étais (IMP) livreur à Paris, je courais (IMP) après le temps' — descrição de um período da vida. 'Aujourd'hui, je regarde (présent) le temps passer' — o presente.",
+        "exampleFr": "Quand j'étais livreur, je courais après le temps. Aujourd'hui, je le regarde passer.",
+        "examplePt": "Quando era entregador, corria atrás do tempo. Hoje, vejo-o passar.",
+        "practiceQuestion": "Complete: « Quand j'étais livreur, je ___ après le temps. »",
+        "options": ["courais", "ai couru", "courrai"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Como estava a baía pela manhã?",
+      "options": ["Cinza e calma, com névoa", "Dourada e quente", "Violeta e agitada"],
+      "correctIndex": 0,
+      "explanation": "De manhã, a baía era grise et calme, coberta de brume."
+    },
+    {
+      "question": "Complete: « L'eau est ___ dorée à midi. »",
+      "options": ["devenue", "devenir", "deviendra"],
+      "correctIndex": 0,
+      "explanation": "Mudança pontual = passé composé: 'est devenue'."
+    },
+    {
+      "question": "O que aconteceu quando o sol furou as nuvens?",
+      "options": ["A água ficou dourada e brilhou como ouro", "A névoa engrossou", "O Mont desapareceu"],
+      "correctIndex": 0,
+      "explanation": "Ao meio-dia, o sol perfurou as nuvens e a água brilhou como ouro."
+    },
+    {
+      "question": "Complete: « Quand j'étais livreur, je ___ après le temps. »",
+      "options": ["courais", "ai couru", "courrai"],
+      "correctIndex": 0,
+      "explanation": "Descrição de um período da vida = imparfait: 'courais'."
+    },
+    {
+      "question": "O que Irlan disse sobre ver o tempo passar no Mont?",
+      "options": ["Que é um luxo, diferente da vida de livreur", "Que é chato", "Que prefere a cidade"],
+      "correctIndex": 0,
+      "explanation": "Irlan contrastou a corrida de livreur com a calma de contemplar a baía."
+    }
+  ]
+}

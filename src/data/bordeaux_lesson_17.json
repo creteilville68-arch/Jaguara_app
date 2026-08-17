@@ -1,0 +1,237 @@
+{
+  "id": "bordeaux_lesson_17",
+  "cityId": "bordeaux",
+  "domain": "Gastronomia e saber-viver",
+  "level": "Intermediário (B1+)",
+  "titleFr": "Le bar à vin : le savoir-vivre bordelais",
+  "titlePt": "O bar de vinhos: o saber-viver bordelês",
+  "subtitleFr": "Je voudrais un verre de vin, s'il vous plaît",
+  "subtitlePt": "Eu gostaria de uma taça de vinho, por favor",
+  "summaryPt": "Nesta Aula 17 (B1+), o casal descobre o bar à vin, instituição de Bordeaux, e aprende a arte de pedir, cheirar e provar o vinho com elegância. O aluno pratica o vocabulário do vinho (le vin, le verre, le sommelier) e o conditionnel de cortesia nas conversas.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "« Pour bien connaître Bordeaux, il faut connaître ses vins », a dit Irlan. Le couple est entré dans un bar à vin, près de la place de la Bourse. « Bonsoir ! Nous voudrions deux verres de vin, s'il vous plaît. »",
+      "pt": "« Para conhecer bem Bordeaux, é preciso conhecer seus vinhos », disse Irlan. O casal entrou num bar de vinhos, perto da place de la Bourse. « Boa noite! Gostaríamos de duas taças de vinho, por favor. »"
+    },
+    {
+      "id": 2,
+      "fr": "« Avez-vous un vin de Bordeaux pour commencer ? » a demandé Andréa. Le sommelier a souri : « Je vous conseillerais un Saint-Émilion, ou bien un Graves. » « Je lui ferais confiance », a murmuré Irlan. « Il a l'air de s'y connaître. »",
+      "pt": "« Vocês têm um vinho de Bordeaux para começar? » perguntou Andréa. O sommelier sorriu: « Eu lhes aconselharia um Saint-Émilion, ou então um Graves. » « Eu confiaria nele », murmurou Irlan. « Parece entender do assunto. »"
+    },
+    {
+      "id": 3,
+      "fr": "Le sommelier a versé un peu de vin dans le verre d'Irlan. « Il faudrait le sentir d'abord, puis goûter. » Irlan a fait tourner le verre. « Il sent le fruit mûr », a-t-il dit. Andréa a souri : « Tu parles comme un vrai Bordelais ! »",
+      "pt": "O sommelier serviu um pouco de vinho na taça de Irlan. « Seria preciso cheirá-lo primeiro, depois provar. » Irlan girou a taça. « Cheira a fruta madura », disse. Andréa sorriu: « Você fala como um verdadeiro bordelês! »"
+    },
+    {
+      "id": 4,
+      "fr": "« À la vôtre ! » ont-ils dit en trinquant. « Quand j'étais livreur, je livrais des bouteilles », a raconté Irlan. « Je ne savais même pas que la région était célèbre. Maintenant, je comprends pourquoi les gens parlent du vin comme d'un ami. »",
+      "pt": "« À la vôtre! » (Saúde!) disseram brindando. « Quando eu era entregador, entregava garrafas », contou Irlan. « Nem sabia que a região era famosa. Agora, entendo por que as pessoas falam do vinho como de um amigo. »"
+    },
+    {
+      "id": 5,
+      "fr": "En sortant, Andréa a dit : « Il faudrait apprendre à Iris, un jour, l'histoire du vin. » « Oui », a répondu Irlan. « Et lui apprendre surtout le mot \"s'il vous plaît\". C'est lui qui ouvre toutes les portes en France. »",
+      "pt": "Ao sair, Andréa disse: « Seria preciso ensinar a Íris, um dia, a história do vinho. » « Sim », respondeu Irlan. « E ensinar a ela principalmente a palavra \"s'il vous plaît\". É ela que abre todas as portas na França. »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "le vin",
+      "definitionPt": "o vinho",
+      "definitionFr": "Boisson faite avec du raisin.",
+      "inflections": ["le vin", "un vin", "des vins"],
+      "ptTargets": ["vinho"],
+      "examples": [
+        { "level": "A1", "fr": "Le vin est rouge.", "pt": "O vinho é tinto." },
+        { "level": "A2-B1", "fr": "Bordeaux est célèbre pour ses vins.", "pt": "Bordeaux é famosa por seus vinhos." },
+        { "level": "B1", "fr": "Le vin que l'on a goûté vient de Saint-Émilion.", "pt": "O vinho que se provou vem de Saint-Émilion." },
+        { "level": "C1-C2", "fr": "Le vin, poème liquide, raconte le soleil et la terre d'une région.", "pt": "O vinho, poema líquido, conta o sol e a terra de uma região." }
+      ]
+    },
+    {
+      "term": "le verre",
+      "definitionPt": "a taça, o copo",
+      "definitionFr": "Récipient pour boire.",
+      "inflections": ["le verre", "un verre", "des verres"],
+      "ptTargets": ["taça", "copo"],
+      "examples": [
+        { "level": "A1", "fr": "Le verre est vide.", "pt": "A taça está vazia." },
+        { "level": "A2-B1", "fr": "On boit le vin dans un verre.", "pt": "Bebe-se o vinho numa taça." },
+        { "level": "B1", "fr": "Le verre dans lequel on goûte est en cristal.", "pt": "A taça na qual se prova é de cristal." },
+        { "level": "C1-C2", "fr": "Le verre, écrin de verre, transforme le vin en lumière.", "pt": "A taça, estojo de vidro, transforma o vinho em luz." }
+      ]
+    },
+    {
+      "term": "le sommelier",
+      "definitionPt": "o sommelier",
+      "definitionFr": "Spécialiste du vin.",
+      "inflections": ["le sommelier", "un sommelier", "des sommeliers"],
+      "ptTargets": ["sommelier"],
+      "examples": [
+        { "level": "A1", "fr": "Le sommelier travaille au restaurant.", "pt": "O sommelier trabalha no restaurante." },
+        { "level": "A2-B1", "fr": "Le sommelier conseille les vins.", "pt": "O sommelier aconselha os vinhos." },
+        { "level": "B1", "fr": "Le sommelier à qui l'on a parlé connaît tous les vins.", "pt": "O sommelier com quem se falou conhece todos os vinhos." },
+        { "level": "C1-C2", "fr": "Le sommelier, traducteur de la vigne, raconte chaque bouteille comme une histoire.", "pt": "O sommelier, tradutor da videira, conta cada garrafa como uma história." }
+      ]
+    },
+    {
+      "term": "goûter",
+      "definitionPt": "provar, degustar",
+      "definitionFr": "Manger ou boire pour apprécier.",
+      "inflections": ["je goûte", "tu goûtes", "il goûte", "nous goûtons"],
+      "ptTargets": ["provar", "degustar"],
+      "examples": [
+        { "level": "A1", "fr": "Je goûte le vin.", "pt": "Eu provo o vinho." },
+        { "level": "A2-B1", "fr": "Il faudrait goûter le vin d'abord.", "pt": "Seria preciso provar o vinho primeiro." },
+        { "level": "B1", "fr": "Les vins que l'on goûte ici sont excellents.", "pt": "Os vinhos que se provam aqui são excelentes." },
+        { "level": "C1-C2", "fr": "Goûter, art du palais, lit la terre dans une gorgée.", "pt": "Provar, arte do paladar, lê a terra num gole." }
+      ]
+    },
+    {
+      "term": "sentir",
+      "definitionPt": "cheirar; sentir",
+      "definitionFr": "Percevoir par le nez.",
+      "inflections": ["je sens", "tu sens", "il sent", "nous sentons"],
+      "ptTargets": ["cheirar", "sentir"],
+      "examples": [
+        { "level": "A1", "fr": "Je sens la fleur.", "pt": "Eu cheiro a flor." },
+        { "level": "A2-B1", "fr": "On sent le fruit mûr dans le vin.", "pt": "Sente-se a fruta madura no vinho." },
+        { "level": "B1", "fr": "Le parfum que l'on sent vient du raisin.", "pt": "O perfume que se sente vem da uva." },
+        { "level": "C1-C2", "fr": "Sentir, geste du dégustateur, écoute ce que les mots ne disent pas.", "pt": "Cheirar, gesto do degustador, escuta o que as palavras não dizem." }
+      ]
+    },
+    {
+      "term": "trinquer",
+      "definitionPt": "brindar",
+      "definitionFr": "Toucher les verres en signe de fête.",
+      "inflections": ["je trinque", "tu trinques", "il trinque", "nous trinquons"],
+      "ptTargets": ["brindar"],
+      "examples": [
+        { "level": "A1", "fr": "On trinque ensemble.", "pt": "Brinda-se juntos." },
+        { "level": "A2-B1", "fr": "Ils ont trinqué à la santé de la famille.", "pt": "Brindaram à saúde da família." },
+        { "level": "B1", "fr": "Les verres que l'on trinque sonnent clair.", "pt": "As taças com que se brinda soam claras." },
+        { "level": "C1-C2", "fr": "Trinquer, geste de partage, scelle les amitiés d'un cliquetis.", "pt": "Brindar, gesto de partilha, sela amizades com um tilintar." }
+      ]
+    },
+    {
+      "term": "conseiller",
+      "definitionPt": "aconselhar",
+      "definitionFr": "Donner un avis.",
+      "inflections": ["je conseille", "tu conseilles", "il conseille", "nous conseillons"],
+      "ptTargets": ["aconselhar"],
+      "examples": [
+        { "level": "A1", "fr": "Je conseille un vin.", "pt": "Eu aconselho um vinho." },
+        { "level": "A2-B1", "fr": "Le sommelier conseille les clients.", "pt": "O sommelier aconselha os clientes." },
+        { "level": "B1", "fr": "Le vin que l'on conseille ici est doux.", "pt": "O vinho que se aconselha aqui é suave." },
+        { "level": "C1-C2", "fr": "Conseiller, art de l'écoute, offre un chemin sans imposer le sien.", "pt": "Aconselhar, arte da escuta, oferece um caminho sem impor o seu." }
+      ]
+    },
+    {
+      "term": "la confiance",
+      "definitionPt": "a confiança",
+      "definitionFr": "Fait de croire en quelqu'un.",
+      "inflections": ["la confiance", "une confiance"],
+      "ptTargets": ["confiança"],
+      "examples": [
+        { "level": "A1", "fr": "La confiance est importante.", "pt": "A confiança é importante." },
+        { "level": "A2-B1", "fr": "Je lui ferais confiance.", "pt": "Eu confiaria nele." },
+        { "level": "B1", "fr": "La confiance que l'on donne se gagne avec le temps.", "pt": "A confiança que se dá ganha-se com o tempo." },
+        { "level": "C1-C2", "fr": "La confiance, pont invisible, relie ceux qui se respectent.", "pt": "A confiança, ponte invisível, liga os que se respeitam." }
+      ]
+    },
+    {
+      "term": "la bouteille",
+      "definitionPt": "a garrafa",
+      "definitionFr": "Récipient en verre pour le vin.",
+      "inflections": ["la bouteille", "une bouteille", "des bouteilles"],
+      "ptTargets": ["garrafa"],
+      "examples": [
+        { "level": "A1", "fr": "La bouteille est verte.", "pt": "A garrafa é verde." },
+        { "level": "A2-B1", "fr": "Irlan livrait des bouteilles de vin.", "pt": "Irlan entregava garrafas de vinho." },
+        { "level": "B1", "fr": "Les bouteilles que l'on vend ici viennent du vignoble.", "pt": "As garrafas que se vendem aqui vêm do vinhedo." },
+        { "level": "C1-C2", "fr": "La bouteille, prison de verre, garde un été prisonnier pour des années.", "pt": "A garrafa, prisão de vidro, guarda um verão prisioneiro por anos." }
+      ]
+    },
+    {
+      "term": "le vignoble",
+      "definitionPt": "o vinhedo",
+      "definitionFr": "Région où l'on cultive la vigne.",
+      "inflections": ["le vignoble", "un vignoble", "des vignobles"],
+      "ptTargets": ["vinhedo"],
+      "examples": [
+        { "level": "A1", "fr": "Le vignoble est vert.", "pt": "O vinhedo é verde." },
+        { "level": "A2-B1", "fr": "Bordeaux est entouré de vignobles.", "pt": "Bordeaux é cercada de vinhedos." },
+        { "level": "B1", "fr": "Les vignobles que l'on visite ici sont célèbres.", "pt": "Os vinhedos que se visitam aqui são famosos." },
+        { "level": "C1-C2", "fr": "Le vignoble, océan de ceps, ondule au rythme des saisons.", "pt": "O vinhedo, oceano de videiras, ondula ao ritmo das estações." }
+      ]
+    },
+    {
+      "term": "savoir-vivre",
+      "definitionPt": "saber-viver, boas maneiras",
+      "definitionFr": "Connaissance des bonnes manières.",
+      "inflections": ["le savoir-vivre"],
+      "ptTargets": ["saber-viver", "boas maneiras", "etiqueta"],
+      "examples": [
+        { "level": "A1", "fr": "Le savoir-vivre est important.", "pt": "O saber-viver é importante." },
+        { "level": "A2-B1", "fr": "En France, le savoir-vivre compte beaucoup.", "pt": "Na França, o saber-viver conta muito." },
+        { "level": "B1", "fr": "Le savoir-vivre que l'on apprend ici ouvre des portes.", "pt": "O saber-viver que se aprende aqui abre portas." },
+        { "level": "C1-C2", "fr": "Le savoir-vivre, art invisible, fait le charme des rencontres.", "pt": "O saber-viver, arte invisível, faz o charme dos encontros." }
+      ]
+    },
+    {
+      "term": "la gorgée",
+      "definitionPt": "o gole",
+      "definitionFr": "Petite quantité de liquide bue.",
+      "inflections": ["la gorgée", "une gorgée", "des gorgées"],
+      "ptTargets": ["gole"],
+      "examples": [
+        { "level": "A1", "fr": "La gorgée est petite.", "pt": "O gole é pequeno." },
+        { "level": "A2-B1", "fr": "On goûte le vin par petites gorgées.", "pt": "Prova-se o vinho em pequenos goles." },
+        { "level": "B1", "fr": "Les gorgées que l'on prend doivent être lentes.", "pt": "Os goles que se tomam devem ser lentos." },
+        { "level": "C1-C2", "fr": "La gorgée, instant de vérité, résume en une seconde une année de soleil.", "pt": "O gole, instante de verdade, resume em um segundo um ano de sol." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "titleFr": "Les formules de politesse au conditionnel",
+    "titlePt": "As fórmulas de polidez no conditionnel",
+    "points": [
+      {
+        "fr": "Pour demander poliment : « Nous voudrions deux verres », « Je vous conseillerais un Saint-Émilion », « Il faudrait le sentir d'abord ».",
+        "pt": "Para pedir educadamente: « Nous voudrions deux verres » (Gostaríamos de duas taças), « Je vous conseillerais un Saint-Émilion » (Eu lhes aconselharia um Saint-Émilion), « Il faudrait le sentir d'abord » (Seria preciso cheirá-lo primeiro)."
+      },
+      {
+        "fr": "« S'il vous plaît » (formal) ou « s'il te plaît » (informal) accompagne toujours les demandes : « Deux verres de vin, s'il vous plaît. »",
+        "pt": "« S'il vous plaît » (formal) ou « s'il te plaît » (informal) acompanha sempre os pedidos: « Deux verres de vin, s'il vous plaît » (Duas taças de vinho, por favor)."
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "O que Irlan pediu no bar à vin ?",
+      "options": ["Duas taças de vinho", "Um café", "Um suco", "Uma cerveja"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Qual vinho o sommelier aconselhou ?",
+      "options": ["Um Saint-Émilion ou um Graves", "Um champanhe", "Um vinho italiano", "Um vinho alemão"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Qual é o primeiro passo para provar o vinho ?",
+      "options": ["Cheirá-lo", "Beber tudo", "Agitar a garrafa", "Esquentá-lo"],
+      "correctIndex": 0
+    },
+    {
+      "question": "O que Irlan fazia com garrafas quando era livreur ?",
+      "options": ["Entregava sem conhecer a região", "Bebia todas", "Colecionava os rótulos", "Quebrava acidentalmente"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Qual palavra abre todas as portas na França, segundo Irlan ?",
+      "options": ["S'il vous plaît", "Merci", "Bonjour", "D'accord"],
+      "correctIndex": 0
+    }
+  ]
+}

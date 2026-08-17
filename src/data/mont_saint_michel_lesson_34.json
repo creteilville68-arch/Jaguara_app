@@ -1,0 +1,252 @@
+{
+  "id": "mont_saint_michel_lesson_34",
+  "cityId": "mont-saint-michel",
+  "domain": "Natureza & Geografia",
+  "level": "Básico (A2/B1)",
+  "titleFr": "La nuit étoilée : le Mont sous les étoiles",
+  "titlePt": "A noite estrelada: o Mont sob as estrelas",
+  "subtitleFr": "Quand la nuit tombe, le ciel de la baie se couvre d'étoiles",
+  "subtitlePt": "Quando a noite cai, o céu da baía se cobre de estrelas",
+  "summaryPt": "Nesta Aula 34 (A2/B1), a família sobe aos remparts à noite e contempla as estrelas. Sem as luzes da cidade, o céu da baía é imenso. Irlan conta que aprendeu as constelações com seu pai no Brasil. O aluno pratica a descrição noturna no imparfait (les étoiles brillaient, le silence régnait).",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "La nuit, la famille est montée sur les remparts. Le ciel était immense et plein d'étoiles. « À Paris, on ne voit presque pas d'étoiles », a dit Irlan. « Ici, c'est un autre monde. »",
+      "pt": "À noite, a família subiu às muralhas. O céu estava imenso e cheio de estrelas. « Em Paris, quase não se veem estrelas », disse Irlan. « Aqui, é outro mundo. »"
+    },
+    {
+      "id": 2,
+      "fr": "« Quand j'étais petit, au Brésil, mon père me montrait les constellations », a raconté Irlan. « Il connaissait toutes les étoiles. » Il a montré la Grande Ourse à Íris.",
+      "pt": "« Quando eu era pequeno, no Brasil, meu pai me mostrava as constelações », contou Irlan. « Ele conhecia todas as estrelas. » Ele mostrou a Ursa Maior a Íris."
+    },
+    {
+      "id": 3,
+      "fr": "Les étoiles brillaient au-dessus de la mer. Le phare de Chausey clignotait au loin. « On dirait une autre étoile », a chuchoté Íris.",
+      "pt": "As estrelas brilhavam sobre o mar. O farol de Chausey piscava ao longe. « Parece outra estrela », sussurrou Íris."
+    },
+    {
+      "id": 4,
+      "fr": "« Le géographe regarde les étoiles et il sait où il est », a souri Irlan. « Moi, je regarde les étoiles et je sais où je veux être : ici, avec vous. »",
+      "pt": "« O geógrafo olha as estrelas e sabe onde está », sorriu Irlan. « Eu olho as estrelas e sei onde quero estar: aqui, com vocês. »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "l'étoile",
+      "definitionPt": "a estrela",
+      "definitionFr": "Astre qui brille dans le ciel.",
+      "inflections": ["l'étoile", "une étoile", "des étoiles"],
+      "ptTargets": ["estrela"],
+      "examples": [
+        { "level": "A1", "fr": "L'étoile brille.", "pt": "A estrela brilha." },
+        { "level": "A2-B1", "fr": "Les étoiles brillaient au-dessus de la mer.", "pt": "As estrelas brilhavam sobre o mar." },
+        { "level": "B2", "fr": "Le ciel de la baie est couvert d'étoiles la nuit.", "pt": "O céu da baía é coberto de estrelas à noite." },
+        { "level": "C1-C2", "fr": "Chaque étoile raconte une histoire que la nuit seule connaît.", "pt": "Cada estrela conta uma história que só a noite conhece." }
+      ]
+    },
+    {
+      "term": "la constellation",
+      "definitionPt": "a constelação",
+      "definitionFr": "Groupe d'étoiles qui forme une figure.",
+      "inflections": ["la constellation", "une constellation", "des constellations"],
+      "ptTargets": ["constelação"],
+      "examples": [
+        { "level": "A1", "fr": "La constellation est visible.", "pt": "A constelação é visível." },
+        { "level": "A2-B1", "fr": "Mon père me montrait les constellations.", "pt": "Meu pai me mostrava as constelações." },
+        { "level": "B2", "fr": "Les marins se guidaient grâce aux constellations.", "pt": "Os marinheiros se guiavam pelas constelações." },
+        { "level": "C1-C2", "fr": "Les constellations sont les cartes que les anciens ont écrites dans le ciel.", "pt": "As constelações são os mapas que os antigos escreveram no céu." }
+      ]
+    },
+    {
+      "term": "briller",
+      "definitionPt": "brilhar",
+      "definitionFr": "Émettre de la lumière.",
+      "inflections": ["je brille", "nous brillons", "brillé"],
+      "ptTargets": ["brilhar"],
+      "examples": [
+        { "level": "A1", "fr": "La lune brille.", "pt": "A lua brilha." },
+        { "level": "A2-B1", "fr": "Les étoiles brillaient dans le ciel.", "pt": "As estrelas brilhavam no céu." },
+        { "level": "B2", "fr": "La voie lactée brillait au-dessus de la baie.", "pt": "A Via Láctea brilhava sobre a baía." },
+        { "level": "C1-C2", "fr": "Les étoiles brillent pour tous, mais chacun y voit son propre chemin.", "pt": "As estrelas brilham para todos, mas cada um vê nelas seu próprio caminho." }
+      ]
+    },
+    {
+      "term": "le ciel",
+      "definitionPt": "o céu",
+      "definitionFr": "Espace au-dessus de nos têtes.",
+      "inflections": ["le ciel", "un ciel", "des cieux"],
+      "ptTargets": ["céu"],
+      "examples": [
+        { "level": "A1", "fr": "Le ciel est bleu.", "pt": "O céu é azul." },
+        { "level": "A2-B1", "fr": "Le ciel était immense et plein d'étoiles.", "pt": "O céu estava imenso e cheio de estrelas." },
+        { "level": "B2", "fr": "Le ciel du Mont, la nuit, est d'une profondeur incroyable.", "pt": "O céu do Mont, à noite, tem uma profundidade incrível." },
+        { "level": "C1-C2", "fr": "Entre le ciel et la mer, le Mont tient sa place depuis mille ans.", "pt": "Entre o céu e o mar, o Mont mantém seu lugar há mil anos." }
+      ]
+    },
+    {
+      "term": "le phare",
+      "definitionPt": "o farol",
+      "definitionFr": "Tour avec une lumière pour guider les bateaux.",
+      "inflections": ["le phare", "un phare", "des phares"],
+      "ptTargets": ["farol"],
+      "examples": [
+        { "level": "A1", "fr": "Le phare est blanc.", "pt": "O farol é branco." },
+        { "level": "A2-B1", "fr": "Le phare de Chausey clignotait au loin.", "pt": "O farol de Chausey piscava ao longe." },
+        { "level": "B2", "fr": "Le phare guide les bateaux dans la baie.", "pt": "O farol guia os barcos na baía." },
+        { "level": "C1-C2", "fr": "Le phare, sentinelle de lumière, veille sur les navigateurs.", "pt": "O farol, sentinela de luz, vigia os navegantes." }
+      ]
+    },
+    {
+      "term": "clignoter",
+      "definitionPt": "piscar",
+      "definitionFr": "S'allumer et s'éteindre sans arrêt.",
+      "inflections": ["je clignote", "nous clignotons", "clignoté"],
+      "ptTargets": ["piscar"],
+      "examples": [
+        { "level": "A1", "fr": "La lumière clignote.", "pt": "A luz pisca." },
+        { "level": "A2-B1", "fr": "Le phare clignotait au loin.", "pt": "O farol piscava ao longe." },
+        { "level": "B2", "fr": "Le phare clignote toutes les dix secondes.", "pt": "O farol pisca a cada dez segundos." },
+        { "level": "C1-C2", "fr": "Le clignotement du phare rythme les nuits des pêcheurs.", "pt": "O piscar do farol marca o ritmo das noites dos pescadores." }
+      ]
+    },
+    {
+      "term": "la Grande Ourse",
+      "definitionPt": "a Ursa Maior",
+      "definitionFr": "Constellation célèbre de l'hémisphère nord.",
+      "inflections": ["la Grande Ourse", "la Petite Ourse", "des Ourses"],
+      "ptTargets": ["Ursa Maior"],
+      "examples": [
+        { "level": "A1", "fr": "La Grande Ourse est dans le ciel.", "pt": "A Ursa Maior está no céu." },
+        { "level": "A2-B1", "fr": "Irlan a montré la Grande Ourse à Íris.", "pt": "Irlan mostrou a Ursa Maior a Íris." },
+        { "level": "B2", "fr": "La Grande Ourse aide à trouver l'étoile polaire.", "pt": "A Ursa Maior ajuda a encontrar a estrela polar." },
+        { "level": "C1-C2", "fr": "La Grande Ourse, immuable, veille sur les nuits de la Terre.", "pt": "A Ursa Maior, imutável, vigia as noites da Terra." }
+      ]
+    },
+    {
+      "term": "guider",
+      "definitionPt": "guiar",
+      "definitionFr": "Montrer le chemin.",
+      "inflections": ["je guide", "nous guidons", "guidé"],
+      "ptTargets": ["guiar"],
+      "examples": [
+        { "level": "A1", "fr": "Je guide mon ami.", "pt": "Guio meu amigo." },
+        { "level": "A2-B1", "fr": "Les étoiles guidaient les marins.", "pt": "As estrelas guiavam os marinheiros." },
+        { "level": "B2", "fr": "Le phare guide les bateaux vers le port.", "pt": "O farol guia os barcos para o porto." },
+        { "level": "C1-C2", "fr": "Guider quelqu'un, c'est l'aider à trouver sa propre route.", "pt": "Guiar alguém é ajudá-lo a encontrar sua própria rota." }
+      ]
+    },
+    {
+      "term": "le géographe",
+      "definitionPt": "o geógrafo",
+      "definitionFr": "Spécialiste de la géographie.",
+      "inflections": ["le géographe", "la géographe", "des géographes"],
+      "ptTargets": ["geógrafo"],
+      "examples": [
+        { "level": "A1", "fr": "Le géographe regarde les cartes.", "pt": "O geógrafo olha os mapas." },
+        { "level": "A2-B1", "fr": "Irlan est géographe.", "pt": "Irlan é geógrafo." },
+        { "level": "B2", "fr": "Le géographe sait lire les étoiles et les paysages.", "pt": "O geógrafo sabe ler as estrelas e as paisagens." },
+        { "level": "C1-C2", "fr": "Le géographe étudie la Terre, mais il rêve toujours du ciel.", "pt": "O geógrafo estuda a Terra, mas sonha sempre com o céu." }
+      ]
+    },
+    {
+      "term": "le souvenir",
+      "definitionPt": "a lembrança",
+      "definitionFr": "Mémoire du passé.",
+      "inflections": ["le souvenir", "un souvenir", "des souvenirs"],
+      "ptTargets": ["lembrança"],
+      "examples": [
+        { "level": "A1", "fr": "Le souvenir est doux.", "pt": "A lembrança é doce." },
+        { "level": "A2-B1", "fr": "Le souvenir de son père est précieux.", "pt": "A lembrança do pai é preciosa." },
+        { "level": "B2", "fr": "Les souvenirs du Brésil accompagnaient Irlan.", "pt": "As lembranças do Brasil acompanhavam Irlan." },
+        { "level": "C1-C2", "fr": "Certains souvenirs brillent plus que les étoiles.", "pt": "Algumas lembranças brilham mais que as estrelas." }
+      ]
+    },
+    {
+      "term": "chuchoter",
+      "definitionPt": "sussurrar",
+      "definitionFr": "Parler tout doucement.",
+      "inflections": ["je chuchote", "nous chuchotons", "chuchoté"],
+      "ptTargets": ["sussurrar"],
+      "examples": [
+        { "level": "A1", "fr": "Je chuchote un secret.", "pt": "Sussurro um segredo." },
+        { "level": "A2-B1", "fr": "Íris a chuchoté dans la nuit.", "pt": "Íris sussurrou na noite." },
+        { "level": "B2", "fr": "On chuchotait pour ne pas troubler le silence.", "pt": "Sussurrava-se para não perturbar o silêncio." },
+        { "level": "C1-C2", "fr": "Chuchoter sous les étoiles, c'est parler à l'infini.", "pt": "Sussurrar sob as estrelas é falar com o infinito." }
+      ]
+    },
+    {
+      "term": "la mer",
+      "definitionPt": "o mar",
+      "definitionFr": "Grande étendue d'eau salée.",
+      "inflections": ["la mer", "une mer", "des mers"],
+      "ptTargets": ["mar"],
+      "examples": [
+        { "level": "A1", "fr": "La mer est bleue.", "pt": "O mar é azul." },
+        { "level": "A2-B1", "fr": "Les étoiles brillaient au-dessus de la mer.", "pt": "As estrelas brilhavam sobre o mar." },
+        { "level": "B2", "fr": "La mer de la nuit reflétait les étoiles.", "pt": "O mar da noite refletia as estrelas." },
+        { "level": "C1-C2", "fr": "La mer et le ciel, la nuit, ne font plus qu'un.", "pt": "O mar e o céu, à noite, não são mais que um." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Décrire la nuit : les étoiles brillaient",
+    "explanationPt": "Descrição noturna = imparfait: 'le ciel était immense' (o céu estava imenso), 'les étoiles brillaient' (as estrelas brilhavam), 'le phare clignotait' (o farol piscava).",
+    "exampleFr": "Le ciel était immense, les étoiles brillaient et le phare clignotait au loin.",
+    "examplePt": "O céu estava imenso, as estrelas brilhavam e o farol piscava ao longe.",
+    "practiceQuestion": "Complete: « Les étoiles ___ au-dessus de la mer. »",
+    "options": ["brillaient", "ont brillé", "brilleront"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "Quand j'étais petit : le souvenir d'enfance",
+        "explanationPt": "Lembranças de infância: 'quand j'étais (IMP) petit, mon père me montrait (IMP) les constellations'. Imparfait para hábitos da infância.",
+        "exampleFr": "Quand j'étais petit, mon père me montrait les constellations.",
+        "examplePt": "Quando eu era pequeno, meu pai me mostrava as constelações.",
+        "practiceQuestion": "Complete: « Quand j'étais petit, mon père me ___ les constellations. »",
+        "options": ["montrait", "a montré", "montrera"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "On dirait + nom : la comparaison",
+        "explanationPt": "'On dirait + nom' compara: 'on dirait une autre étoile' (parece outra estrela). Sem 'que' — direto com o nome.",
+        "exampleFr": "Ce phare, on dirait une autre étoile tombée dans la mer.",
+        "examplePt": "Este farol parece outra estrela caída no mar.",
+        "practiceQuestion": "Complete: « Ce phare, on dirait une autre ___. »",
+        "options": ["étoile", "étoiles", "étoilé"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Por que no Mont se veem tantas estrelas?",
+      "options": ["Porque não há luzes de cidade para apagá-las", "Porque as estrelas são maiores lá", "Porque o Mont é mais alto"],
+      "correctIndex": 0,
+      "explanation": "Sem a poluição luminosa das cidades, o céu da baía aparece cheio de estrelas."
+    },
+    {
+      "question": "Complete: « Les étoiles ___ au-dessus de la mer. »",
+      "options": ["brillaient", "ont brillé", "brilleront"],
+      "correctIndex": 0,
+      "explanation": "Descrição contínua da noite = imparfait: 'brillaient'."
+    },
+    {
+      "question": "O que o pai de Irlan fazia quando ele era pequeno?",
+      "options": ["Mostrava-lhe as constelações", "Levava-o ao futebol", "Ensinava-lhe a cozinhar"],
+      "correctIndex": 0,
+      "explanation": "No Brasil, o pai de Irlan lhe mostrava as constelações e conhecia todas as estrelas."
+    },
+    {
+      "question": "O que piscava ao longe na baía?",
+      "options": ["O farol de Chausey", "Um barco pirata", "O relâmpago"],
+      "correctIndex": 0,
+      "explanation": "O farol (phare) de Chausey clignotait ao longe."
+    },
+    {
+      "question": "Complete: « Quand j'étais petit, mon père me ___ les constellations. »",
+      "options": ["montrait", "a montré", "montrera"],
+      "correctIndex": 0,
+      "explanation": "Hábito da infância = imparfait: 'montrait'."
+    }
+  ]
+}

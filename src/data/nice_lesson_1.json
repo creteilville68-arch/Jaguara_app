@@ -1,0 +1,252 @@
+{
+  "id": "nice_lesson_1",
+  "cityId": "nice",
+  "domain": "A Riviera",
+  "level": "Avançado (C2)",
+  "titleFr": "La Promenade des Anglais : l'arrivée sur la Riviera",
+  "titlePt": "A Promenade des Anglais: a chegada à Riviera",
+  "subtitleFr": "La baie des Anges, les palmiers et la lumière du Sud",
+  "subtitlePt": "A baía dos Anjos, as palmeiras e a luz do Sul",
+  "summaryPt": "Nesta Aula 1 (C2), a família chega a Nice e caminha pela Promenade des Anglais, à beira da baie des Anges. O aluno domina o conditionnel de rumeur ('il serait', 'elle aurait été fondée') e as nuances modais avançadas, com vocabulário da Riviera e da Belle Époque.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "À la sortie de la gare, la lumière du Sud frappa la famille comme une évidence. La Promenade des Anglais, bordée de palmiers, s'étendait le long de la baie des Anges. « La promenade aurait été créée au XIXe siècle par les hivernants anglais, expliqua Andréa. Ils auraient voulu offrir aux riches visiteurs une route au bord de la mer. »",
+      "pt": "Na saída da estação, a luz do Sul atingiu a família como uma evidência. A Promenade des Anglais, ladeada de palmeiras, estendia-se ao longo da baía dos Anjos. « A promenade teria sido criada no século XIX pelos veranistas ingleses, explicou Andréa. Eles teriam querido oferecer aos visitantes ricos uma estrada à beira-mar. »"
+    },
+    {
+      "id": 2,
+      "fr": "Iris courait vers l'eau, les chaussures à la main. « L'eau est turquoise ! » cria-t-elle. Irlan sourit : « La baie des Anges tiendrait son nom des anges qui, dit-on, veillent sur les pêcheurs. On raconte aussi que la lumière de Nice aurait inspiré les plus grands peintres du monde. »",
+      "pt": "Íris corria para a água, os sapatos na mão. « A água é turquesa! » gritou ela. Irlan sorriu: « A baía dos Anjos teria recebido seu nome dos anjos que, diz-se, velam pelos pescadores. Conta-se também que a luz de Nice teria inspirado os maiores pintores do mundo. »"
+    },
+    {
+      "id": 3,
+      "fr": "Sur les chaises bleues, des promeneurs admiraient le coucher de soleil. « La culture de la flânerie, murmura Andréa, serait née sur ces chaises. S'asseoir, ne rien faire, regarder la mer : voilà l'art de vivre niçois. L'élégance de cette ville, elle, se lirait dans chaque détail. »",
+      "pt": "Nas cadeiras azuis, passeantes admiravam o pôr do sol. « A cultura do flanar, murmurou Andréa, teria nascido nessas cadeiras. Sentar, não fazer nada, olhar o mar: eis a arte de viver nissarda. A elegância desta cidade, ela, se leria em cada detalhe. »"
+    },
+    {
+      "id": 4,
+      "fr": "Quand le soleil plongea dans la Méditerranée, Irlan prit la main d'Andréa. « La traversée de la France s'achève ici, dit-il. Paris m'a accueilli livreur ; la mer, aujourd'hui, me reçoit comme un voyageur. Le voyage, commencé dans le froid du Nord, se conclurait peut-être sous cette lumière d'or. »",
+      "pt": "Quando o sol mergulhou no Mediterrâneo, Irlan pegou a mão de Andréa. « A travessia da França se encerra aqui, disse ele. Paris me acolheu entregador; o mar, hoje, me recebe como um viajante. A viagem, começada no frio do Norte, se concluiria talvez sob esta luz de ouro. »"
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "la promenade",
+      "definitionPt": "o passeio (avenida à beira-mar)",
+      "definitionFr": "Lieu aménagé pour se promener.",
+      "inflections": ["la promenade", "les promenades"],
+      "ptTargets": ["passeio", "avenida à beira-mar"],
+      "examples": [
+        { "level": "A1", "fr": "La promenade est belle.", "pt": "O passeio é bonito." },
+        { "level": "A2-B1", "fr": "La Promenade des Anglais longe la mer.", "pt": "A Promenade des Anglais margeia o mar." },
+        { "level": "B1-B2", "fr": "La promenade, bordée de palmiers, attire les promeneurs.", "pt": "O passeio, ladeado de palmeiras, atrai os passeantes." },
+        { "level": "C1-C2", "fr": "C'est sur cette promenade que l'art de la flânerie s'épanouit.", "pt": "É nesse passeio que a arte do flanar floresce." }
+      ]
+    },
+    {
+      "term": "la baie",
+      "definitionPt": "a baía",
+      "definitionFr": "Échancrure du littoral.",
+      "inflections": ["la baie", "les baies"],
+      "ptTargets": ["baía"],
+      "examples": [
+        { "level": "A1", "fr": "La baie est bleue.", "pt": "A baía é azul." },
+        { "level": "A2-B1", "fr": "Nice est au bord de la baie des Anges.", "pt": "Nice fica à beira da baía dos Anjos." },
+        { "level": "B1-B2", "fr": "La baie, en forme de croissant, abrite la ville.", "pt": "A baía, em forma de meia-lua, abriga a cidade." },
+        { "level": "C1-C2", "fr": "C'est dans la baie des Anges que se mire la lumière du Sud.", "pt": "É na baía dos Anjos que se espelha a luz do Sul." }
+      ]
+    },
+    {
+      "term": "la lumière",
+      "definitionPt": "a luz",
+      "definitionFr": "Clarté naturelle.",
+      "inflections": ["la lumière", "les lumières"],
+      "ptTargets": ["luz"],
+      "examples": [
+        { "level": "A1", "fr": "La lumière est dorée.", "pt": "A luz é dourada." },
+        { "level": "A2-B1", "fr": "La lumière de Nice est célèbre.", "pt": "A luz de Nice é famosa." },
+        { "level": "B1-B2", "fr": "La lumière, changeante, transforme la mer à chaque heure.", "pt": "A luz, mutável, transforma o mar a cada hora." },
+        { "level": "C1-C2", "fr": "C'est la lumière du Midi qui inspira Matisse et Chagall.", "pt": "É a luz do Meio-dia que inspirou Matisse e Chagall." }
+      ]
+    },
+    {
+      "term": "le palmier",
+      "definitionPt": "a palmeira",
+      "definitionFr": "Arbre des régions chaudes.",
+      "inflections": ["le palmier", "les palmiers"],
+      "ptTargets": ["palmeira"],
+      "examples": [
+        { "level": "A1", "fr": "Le palmier est haut.", "pt": "A palmeira é alta." },
+        { "level": "A2-B1", "fr": "Les palmiers bordent la promenade.", "pt": "As palmeiras margeiam o passeio." },
+        { "level": "B1-B2", "fr": "Les palmiers, balancés par le vent, donnent à Nice son air tropical.", "pt": "As palmeiras, balançadas pelo vento, dão a Nice seu ar tropical." },
+        { "level": "C1-C2", "fr": "C'est sous les palmiers que la Riviera déploie son élégance légendaire.", "pt": "É sob as palmeiras que a Riviera desdobra sua elegância lendária." }
+      ]
+    },
+    {
+      "term": "la flânerie",
+      "definitionPt": "o flanar (passeio sem pressa)",
+      "definitionFr": "Art de se promener sans but.",
+      "inflections": ["la flânerie", "les flâneries"],
+      "ptTargets": ["flanar", "passeio sem pressa"],
+      "examples": [
+        { "level": "A1", "fr": "La flânerie est agréable.", "pt": "O flanar é agradável." },
+        { "level": "A2-B1", "fr": "La flânerie sur la promenade est un plaisir.", "pt": "O flanar no passeio é um prazer." },
+        { "level": "B1-B2", "fr": "La flânerie, sans but ni hâte, est un art de vivre.", "pt": "O flanar, sem destino nem pressa, é uma arte de viver." },
+        { "level": "C1-C2", "fr": "C'est dans la flânerie que se goûte l'essence même de Nice.", "pt": "É no flanar que se saboreia a própria essência de Nice." }
+      ]
+    },
+    {
+      "term": "la chaise",
+      "definitionPt": "a cadeira",
+      "definitionFr": "Siège à dossier.",
+      "inflections": ["la chaise", "les chaises"],
+      "ptTargets": ["cadeira"],
+      "examples": [
+        { "level": "A1", "fr": "La chaise est bleue.", "pt": "A cadeira é azul." },
+        { "level": "A2-B1", "fr": "Les chaises bleues sont sur la promenade.", "pt": "As cadeiras azuis estão no passeio." },
+        { "level": "B1-B2", "fr": "Les chaises bleues, emblématiques, invitent à la contemplation.", "pt": "As cadeiras azuis, emblemáticas, convidam à contemplação." },
+        { "level": "C1-C2", "fr": "C'est sur ces chaises que les rêveurs regardent le monde passer.", "pt": "É nessas cadeiras que os sonhadores veem o mundo passar." }
+      ]
+    },
+    {
+      "term": "le coucher",
+      "definitionPt": "o pôr (do sol)",
+      "definitionFr": "Action de descendre, de se coucher.",
+      "inflections": ["le coucher", "les couchers"],
+      "ptTargets": ["pôr do sol"],
+      "examples": [
+        { "level": "A1", "fr": "Le coucher est magnifique.", "pt": "O pôr do sol é magnífico." },
+        { "level": "A2-B1", "fr": "Le coucher de soleil dore la mer.", "pt": "O pôr do sol dourá o mar." },
+        { "level": "B1-B2", "fr": "Le coucher, lent et doré, offre un spectacle unique.", "pt": "O pôr do sol, lento e dourado, oferece um espetáculo único." },
+        { "level": "C1-C2", "fr": "C'est au coucher du soleil que la baie des Anges révèle sa vraie beauté.", "pt": "É no pôr do sol que a baía dos Anjos revela sua verdadeira beleza." }
+      ]
+    },
+    {
+      "term": "l'hivernant",
+      "definitionPt": "o veranista de inverno",
+      "definitionFr": "Personne qui passe l'hiver dans une région douce.",
+      "inflections": ["l'hivernant", "les hivernants"],
+      "ptTargets": ["veranista de inverno"],
+      "examples": [
+        { "level": "A1", "fr": "L'hivernant se promène.", "pt": "O veranista passeia." },
+        { "level": "A2-B1", "fr": "Les hivernants anglais ont créé la promenade.", "pt": "Os veranistas ingleses criaram o passeio." },
+        { "level": "B1-B2", "fr": "Les hivernants, attirés par le climat, firent la fortune de Nice.", "pt": "Os veranistas, atraídos pelo clima, fizeram a fortuna de Nice." },
+        { "level": "C1-C2", "fr": "C'est l'arrivée des hivernants qui transforma le village en cité mondaine.", "pt": "É a chegada dos veranistas que transformou a vila em cidade mundana." }
+      ]
+    },
+    {
+      "term": "le voyageur",
+      "definitionPt": "o viajante",
+      "definitionFr": "Personne qui voyage.",
+      "inflections": ["le voyageur", "les voyageurs"],
+      "ptTargets": ["viajante"],
+      "examples": [
+        { "level": "A1", "fr": "Le voyageur est content.", "pt": "O viajante está contente." },
+        { "level": "A2-B1", "fr": "Les voyageurs admirent la mer.", "pt": "Os viajantes admiram o mar." },
+        { "level": "B1-B2", "fr": "Les voyageurs, venus de tous les pays, se croisent sur la promenade.", "pt": "Os viajantes, vindos de todos os países, se cruzam no passeio." },
+        { "level": "C1-C2", "fr": "C'est le voyageur qui, au terme de sa route, mesure la richesse des chemins parcourus.", "pt": "É o viajante que, ao término de sua rota, mede a riqueza dos caminhos percorridos." }
+      ]
+    },
+    {
+      "term": "la Méditerranée",
+      "definitionPt": "o Mediterrâneo",
+      "definitionFr": "Mer qui baigne le sud de la France.",
+      "inflections": ["la Méditerranée"],
+      "ptTargets": ["Mediterrâneo"],
+      "examples": [
+        { "level": "A1", "fr": "La Méditerranée est bleue.", "pt": "O Mediterrâneo é azul." },
+        { "level": "A2-B1", "fr": "Nice est au bord de la Méditerranée.", "pt": "Nice fica à beira do Mediterrâneo." },
+        { "level": "B1-B2", "fr": "La Méditerranée, douce et lumineuse, baigne la Riviera.", "pt": "O Mediterrâneo, doce e luminoso, banha a Riviera." },
+        { "level": "C1-C2", "fr": "C'est la Méditerranée qui, depuis l'Antiquité, relie les cultures du monde.", "pt": "É o Mediterrâneo que, desde a Antiguidade, liga as culturas do mundo." }
+      ]
+    },
+    {
+      "term": "l'élégance",
+      "definitionPt": "a elegância",
+      "definitionFr": "Beauté raffinée, distinction.",
+      "inflections": ["l'élégance", "les élégances"],
+      "ptTargets": ["elegância"],
+      "examples": [
+        { "level": "A1", "fr": "L'élégance est jolie.", "pt": "A elegância é bonita." },
+        { "level": "A2-B1", "fr": "Nice a une grande élégance.", "pt": "Nice tem uma grande elegância." },
+        { "level": "B1-B2", "fr": "L'élégance, discrète, se cache dans les détails.", "pt": "A elegância, discreta, se esconde nos detalhes." },
+        { "level": "C1-C2", "fr": "C'est l'élégance naturelle de la lumière qui distingue la Riviera.", "pt": "É a elegância natural da luz que distingue a Riviera." }
+      ]
+    },
+    {
+      "term": "la rumeur",
+      "definitionPt": "o rumor (boato)",
+      "definitionFr": "Information non confirmée qui circule.",
+      "inflections": ["la rumeur", "les rumeurs"],
+      "ptTargets": ["rumor", "boato"],
+      "examples": [
+        { "level": "A1", "fr": "La rumeur est étrange.", "pt": "O rumor é estranho." },
+        { "level": "A2-B1", "fr": "La rumeur circule dans la ville.", "pt": "O rumor circula na cidade." },
+        { "level": "B1-B2", "fr": "La rumeur, non confirmée, intrigue les habitants.", "pt": "O rumor, não confirmado, intriga os habitantes." },
+        { "level": "C1-C2", "fr": "C'est la rumeur qui, sans preuve, façonne parfois l'image des lieux.", "pt": "É o rumor que, sem prova, às vezes molda a imagem dos lugares." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Le conditionnel de rumeur",
+    "explanationPt": "Em registro culto, o conditionnel exprime informação não confirmada: 'la promenade aurait été créée au XIXe siècle' (teria sido criada), 'la baie tiendrait son nom des anges' (teria recebido seu nome). É o modo da prudência e do distanciamento.",
+    "exampleFr": "La promenade aurait été créée au XIXe siècle par les hivernants anglais.",
+    "examplePt": "A promenade teria sido criada no século XIX pelos veranistas ingleses.",
+    "practiceQuestion": "Complete com o conditionnel de rumeur: « La baie ___ son nom des anges. »",
+    "options": ["tiendrait", "tient", "tiendra"],
+    "correctIndex": 0,
+    "points": [
+      {
+        "ruleTitle": "On raconte que : la rumeur modalisée",
+        "explanationPt": "Fórmulas de distanciamento: 'on raconte que', 'dit-on', 'il paraît que'. Elas introduzem a informação como rumor elegante: 'On raconte aussi que la lumière de Nice aurait inspiré les peintres.'",
+        "exampleFr": "On raconte aussi que la lumière de Nice aurait inspiré les plus grands peintres.",
+        "examplePt": "Conta-se também que a luz de Nice teria inspirado os maiores pintores.",
+        "practiceQuestion": "Complete: « ___ raconte que la lumière aurait inspiré les peintres. »",
+        "options": ["On", "Il", "Elle"],
+        "correctIndex": 0
+      },
+      {
+        "ruleTitle": "Se conclurait peut-être : la nuance modale",
+        "explanationPt": "O conditionnel suaviza a hipótese: 'le voyage se conclurait peut-être sous cette lumière d'or' — a incerteza vira poesia, matiz de elegância.",
+        "exampleFr": "Le voyage se conclurait peut-être sous cette lumière d'or.",
+        "examplePt": "A viagem se concluiria talvez sob esta luz de ouro.",
+        "practiceQuestion": "Complete: « Le voyage se ___ peut-être sous cette lumière d'or. »",
+        "options": ["conclurait", "conclut", "conclura"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quizQuestions": [
+    {
+      "question": "Quem teria criado a Promenade des Anglais?",
+      "options": ["os veranistas ingleses", "os legionários romanos", "os marinheiros vikings"],
+      "correctIndex": 0,
+      "explanation": "A promenade teria sido criada no século XIX pelos hivernants anglais."
+    },
+    {
+      "question": "De onde a baie des Anges teria recebido seu nome?",
+      "options": ["dos anjos que velam pelos pescadores", "de uma rainha chamada Anges", "das asas das gaivotas"],
+      "correctIndex": 0,
+      "explanation": "Diz-se que a baía teria recebido o nome dos anjos que velam pelos pescadores."
+    },
+    {
+      "question": "O que simbolizam as chaises bleues da promenade?",
+      "options": ["a cultura do flanar", "os bancos de madeira do norte", "os assentos dos ônibus"],
+      "correctIndex": 0,
+      "explanation": "Nas cadeiras azuis teria nascido a cultura da flânerie."
+    },
+    {
+      "question": "Complete com o conditionnel de rumeur: « La baie ___ son nom des anges. »",
+      "options": ["tiendrait", "tient", "tiendra"],
+      "correctIndex": 0,
+      "explanation": "Conditionnel de rumeur: tiendrait (teria recebido)."
+    },
+    {
+      "question": "Como Irlan encerra a frase sobre sua jornada?",
+      "options": ["chegou livreur a Paris e parte viajante no mar", "nunca mais quer viajar", "prefere o frio do Norte"],
+      "correctIndex": 0,
+      "explanation": "Paris o acolheu livreur; o mar o recebe como viajante."
+    }
+  ]
+}
