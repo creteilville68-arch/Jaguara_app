@@ -696,15 +696,27 @@ const TRAIL_LESSONS: any[] = [
  */
 export const TRAIL_DICTIONARY: Record<string, DictionaryEntry> = {};
 
+/** Extrai a faixa CEFR de um rótulo de aula como "Avançado (C1+)". */
+function levelFromLessonLabel(label?: string): string | undefined {
+  if (!label) return undefined;
+  const match = label.match(/\b(A1|A2|B1|B2|C1|C2)\b/i);
+  return match ? match[1].toUpperCase() : undefined;
+}
+
 for (const lesson of TRAIL_LESSONS) {
   const vocab = lesson?.vocabularyDictionary;
   if (!Array.isArray(vocab)) continue;
+  const lessonLevel = levelFromLessonLabel((lesson as any)?.level);
   for (const entry of vocab) {
     const term = entry?.term;
     if (!term) continue;
     const key = String(term).toLowerCase().trim();
     if (key && !TRAIL_DICTIONARY[key]) {
-      TRAIL_DICTIONARY[key] = { ...entry, isDictionaryTerm: true };
+      TRAIL_DICTIONARY[key] = {
+        ...entry,
+        isDictionaryTerm: true,
+        difficultyLevel: entry?.difficultyLevel || lessonLevel,
+      };
     }
   }
 }

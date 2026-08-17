@@ -22,9 +22,9 @@ reaparece em outras aulas ou cidades.
 | Métrica | Valor |
 | --- | --- |
 | Lições existentes | 464 |
-| Palavras únicas no banco | 17.108 |
-| Já presentes nos textos | 3.994 |
-| **Ainda falta escrever nos textos** | **~13.100** |
+| Palavras únicas no banco | 16.793 |
+| Já presentes nos textos | 3.769 |
+| **Ainda falta escrever nos textos** | **~13.000** |
 
 A meta de 15.400 será atingida quando a coluna "ainda falta" chegar a zero —
 ou seja, quando todas as palavras da lista de cada cidade aparecerem nos
@@ -37,17 +37,21 @@ concentram mais (densidade crescente):
 
 | # | Cidade | Nível | Palavras a escrever |
 | --- | --- | --- | --- |
-| 1 | Paris | A1 | 349 |
-| 2 | Amiens | A1/A2 | 573 |
-| 3 | Lille | A2 | 224 |
-| 4 | Mont Saint-Michel | A2/B1 | 687 |
-| 5 | Tours | B1 | 463 |
-| 6 | Bordeaux | B1+ | 462 |
-| 7 | Toulouse | B2 | 1.038 |
-| 8 | Lyon | B2+ | 1.037 |
-| 9 | Marseille | C1 | 1.592 |
-| 10 | Strasbourg | C1+ | 1.591 |
-| 11 | Nice | C2 | 5.123 |
+| 1 | Paris | A1 | 189 |
+| 2 | Amiens | A1/A2 | 428 |
+| 3 | Lille | A2 | 239 |
+| 4 | Mont Saint-Michel | A2/B1 | 728 |
+| 5 | Tours | B1 | 488 |
+| 6 | Bordeaux | B1+ | 488 |
+| 7 | Toulouse | B2 | 1.063 |
+| 8 | Lyon | B2+ | 1.063 |
+| 9 | Marseille | C1 | 1.596 |
+| 10 | Strasbourg | C1+ | 1.596 |
+| 11 | Nice | C2 | 5.146 |
+
+Os níveis já foram corrigidos: o banco CEFR agora é a fonte de verdade, então
+cada cidade recebe as palavras do seu nível real (antes havia palavras
+avançadas como *bombarder* ou *l'orbite* marcadas como A1).
 
 As listas prontas para riscar estão em `scripts/worklists/<cidade>.md`
 (ex.: `scripts/worklists/nice.md`). Cada item traz a palavra em francês e a

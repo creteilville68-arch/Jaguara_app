@@ -123,13 +123,14 @@ export const TARGET_TOTAL_WORDS = 15400;
 
 const LEVEL_ORDER = ['A1', 'A2', 'B1', 'B2', 'C1', 'C2'];
 
-function extractLevel(value?: string): string {
-  if (!value) return 'A1';
-  const v = value.toUpperCase();
+function extractLevel(value?: string): string | null {
+  if (!value) return null;
+  const v = value.trim().toUpperCase();
+  if (v === '' || v === 'UNDEFINED' || v === 'NULL' || v === 'NONE') return null;
   for (const lvl of LEVEL_ORDER) {
     if (v.includes(lvl)) return lvl;
   }
-  return 'A1';
+  return null;
 }
 
 export interface WordBankEntry {
@@ -144,32 +145,23 @@ function register(term: string, pt: string, level?: string): void {
   const clean = (term || '').trim();
   if (!clean) return;
   const lemma = normalizeToLemma(clean);
-  if (!WORD_BANK.has(lemma)) {
-    WORD_BANK.set(lemma, { term: clean, pt: pt || '', level: extractLevel(level) });
-  }
+  if (WORD_BANK.has(lemma)) return;
+  WORD_BANK.set(lemma, { term: clean, pt: pt || '', level: extractLevel(level) || 'A1' });
 }
 
-// 1. All dictionary entries (25 Paris lessons + master + functional + trail).
-for (const key of Object.keys(LESSON_DICTIONARY)) {
-  const entry = LESSON_DICTIONARY[key];
-  if (!entry) continue;
-  const term = entry.term || entry.wordFr || entry.word || key;
-  register(term, entry.definitionPt || '', entry.difficultyLevel);
-}
-
-// 2. CEFR-level seed bank (A1 → C2).
+// 1. CEFR-level seed bank (A1 → C2) — authoritative level source.
 for (const [word, pt, level] of CEFR_WORD_BANK) {
   register(word, pt, level);
 }
 
-// 3. CEFR seed expansion (A1, A2–B1, B2–C2).
+// 2. CEFR seed expansion (A1, A2–B1, B2–C2).
 for (const bank of [CEFR_WORD_BANK_A1, CEFR_WORD_BANK_A2B1, CEFR_WORD_BANK_B2C2]) {
   for (const [word, pt, level] of bank) {
     register(word, pt, level);
   }
 }
 
-// 4. Large seed expansion (A1 → C2) toward the 15.400-lemma target.
+// 3. Large seed expansion (A1 → C2) toward the 15.400-lemma target.
 for (const bank of [
   CEFR_WORD_BANK_EXPANSION_A1,
   CEFR_WORD_BANK_EXPANSION_A1_B,
@@ -281,6 +273,18 @@ for (const bank of [
   for (const [word, pt, level] of bank) {
     register(word, pt, level);
   }
+}
+
+// 4. Dictionary entries (25 Paris lessons + master + functional + trail) are
+//    registered LAST, as a gap-fill: they only add words not already present
+//    in the CEFR bank. This keeps the curated CEFR level as the source of
+//    truth, instead of letting placeholder `difficultyLevel: "undefined"`
+//    entries lock common words at A1.
+for (const key of Object.keys(LESSON_DICTIONARY)) {
+  const entry = LESSON_DICTIONARY[key];
+  if (!entry) continue;
+  const term = entry.term || entry.wordFr || entry.word || key;
+  register(term, entry.definitionPt || '', entry.difficultyLevel);
 }
 
 /** Total unique words currently available in the bank (deduplicated by lemma). */

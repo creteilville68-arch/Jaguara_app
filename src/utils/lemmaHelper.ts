@@ -117,7 +117,7 @@ const COMMON_LEMMA_MAP: Record<string, string> = {
  */
 function stripFrenchArticles(word: string): string {
   if (!word) return "";
-  let cleaned = word.trim().toLowerCase();
+  let cleaned = word.trim().toLowerCase().replace(/[’ʼ‘]/g, "'");
   
   // Remove trailing punctuation
   cleaned = cleaned.replace(/[.,!?;:]+/g, "").trim();
