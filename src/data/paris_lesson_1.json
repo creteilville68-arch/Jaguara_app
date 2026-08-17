@@ -5,29 +5,34 @@
   "level": "Iniciante (A1)",
   "titleFr": "Bonjour, je suis Irlan : un géographe brésilien à Paris",
   "titlePt": "Olá, eu sou Irlan: um geógrafo brasileiro em Paris",
-  "subtitleFr": "La famille d'Irlan, son métier de géographe et son premier travail de livreur en scooter",
-  "subtitlePt": "A família de Irlan, sua profissão de geógrafo e seu primeiro trabalho de entregador de scooter",
-  "summaryPt": "Nesta Aula 1 (A1), Irlan se apresenta: ele é um geógrafo brasileiro que vive em Paris com sua esposa Andréa e sua filha Íris. Antes de trabalhar como geógrafo, seu primeiro emprego na França foi entregar refeições de scooter pelas ruas da capital. O aluno aprende o verbo 'être' no presente e os possessivos mon / ma / notre.",
+  "subtitleFr": "Sa ville de Jaguaquara, son métier de géographe et son premier travail de livreur en scooter",
+  "subtitlePt": "Sua cidade de Jaguaquara, sua profissão de geógrafo e seu primeiro trabalho de entregador de scooter",
+  "summaryPt": "Nesta Aula 1 (A1), Irlan se apresenta: ele é um geógrafo brasileiro de Jaguaquara, na Bahia, que acabou de chegar à França. Mora em Créteil, perto de Paris, e seu primeiro trabalho é entregar refeições de scooter. Desde a infância ele desenha mapas — um detalhe que vai mudar toda a sua vida. O aluno aprende o verbo 'être' no presente e os possessivos mon / ma / mes.",
   "paragraphs": [
     {
       "id": 1,
-      "fr": "Bonjour ! Je m'appelle Irlan. Je suis brésilien et je suis géographe. J'habite à Paris, en France, avec ma famille.",
-      "pt": "Olá! Eu me chamo Irlan. Eu sou brasileiro e sou geógrafo. Eu moro em Paris, na França, com a minha família."
+      "fr": "Bonjour ! Je m'appelle Irlan. Je suis brésilien et je suis géographe. Je viens de Jaguaquara, une petite ville du Brésil, dans l'État de Bahia.",
+      "pt": "Olá! Eu me chamo Irlan. Eu sou brasileiro e sou geógrafo. Eu venho de Jaguaquara, uma cidade pequena do Brasil, no estado da Bahia."
     },
     {
       "id": 2,
-      "fr": "Ma femme s'appelle Andréa. Elle est française. Notre fille s'appelle Íris. Elle est petite, joyeuse et très curieuse.",
-      "pt": "Minha esposa se chama Andréa. Ela é francesa. Nossa filha se chama Íris. Ela é pequena, alegre e muito curiosa."
+      "fr": "Depuis l'enfance, je dessine des cartes. Ma grand-mère Teresa m'a appris à lire les cartes et les étoiles. Aujourd'hui, j'habite à Paris, en France.",
+      "pt": "Desde a infância, eu desenho mapas. Minha avó Teresa me ensinou a ler mapas e estrelas. Hoje, eu moro em Paris, na França."
     },
     {
       "id": 3,
-      "fr": "Mon premier travail en France est livreur de repas en scooter. Chaque jour, je livre des repas chauds dans les rues de Paris.",
-      "pt": "Meu primeiro trabalho na França é entregador de refeições de scooter. Todos os dias, eu entrego refeições quentes nas ruas de Paris."
+      "fr": "J'habite à Créteil, une ville près de Paris. Mon appartement est petit, mais il est propre et calme. Ma nouvelle vie en France commence ici.",
+      "pt": "Eu moro em Créteil, uma cidade perto de Paris. Meu apartamento é pequeno, mas é limpo e calmo. Minha nova vida na França começa aqui."
     },
     {
       "id": 4,
-      "fr": "Aujourd'hui, je travaille comme géographe. J'aime Paris. Je suis heureux avec Andréa et Íris dans cette belle ville.",
-      "pt": "Hoje, eu trabalho como geógrafo. Eu amo Paris. Eu sou feliz com Andréa e Íris nesta bela cidade."
+      "fr": "Mon premier travail en France, c'est livreur de repas en scooter. Chaque jour, je livre des repas chauds dans les rues de Paris.",
+      "pt": "Meu primeiro trabalho na França é entregador de refeições de scooter. Todos os dias, eu entrego refeições quentes nas ruas de Paris."
+    },
+    {
+      "id": 5,
+      "fr": "Je suis géographe, mais aujourd'hui, je suis livreur. Ce n'est pas un problème. Paris est une grande ville, et ma nouvelle vie est une belle aventure. Je suis heureux, et j'ai hâte de voir la suite !",
+      "pt": "Eu sou geógrafo, mas hoje, eu sou entregador. Isso não é um problema. Paris é uma cidade grande, e minha nova vida é uma bela aventura. Eu sou feliz, e estou ansioso para ver o que vem!"
     }
   ],
   "vocabularyDictionary": [
@@ -45,94 +50,29 @@
       ]
     },
     {
-      "term": "livreur",
-      "definitionPt": "entregador (de comida, encomendas)",
-      "definitionFr": "Personne qui livre des repas ou des colis, souvent en scooter ou à vélo.",
-      "inflections": ["le livreur", "un livreur", "des livreurs", "livreuse"],
-      "ptTargets": ["entregador", "entregar"],
+      "term": "la carte",
+      "definitionPt": "o mapa / a carta",
+      "definitionFr": "Représentation dessinée d'un territoire, d'une ville ou du ciel.",
+      "inflections": ["la carte", "une carte", "des cartes"],
+      "ptTargets": ["mapa", "carta"],
       "examples": [
-        { "level": "A1", "fr": "Le livreur arrive avec le repas chaud.", "pt": "O entregador chega com a refeição quente." },
-        { "level": "A2-B1", "fr": "Le livreur en scooter traverse les rues de Paris sous la pluie.", "pt": "O entregador de scooter atravessa as ruas de Paris sob a chuva." },
-        { "level": "B2", "fr": "Grâce aux applications, le livreur optimise ses trajets dans toute la ville.", "pt": "Graças aos aplicativos, o entregador otimiza seus trajetos em toda a cidade." },
-        { "level": "C1-C2", "fr": "Le métier de livreur, exigeant et souvent invisibilisé, demeure essentiel à la vie urbaine.", "pt": "A profissão de entregador, exigente e muitas vezes invisibilizada, permanece essencial à vida urbana." }
+        { "level": "A1", "fr": "J'aime dessiner des cartes.", "pt": "Eu gosto de desenhar mapas." },
+        { "level": "A2-B1", "fr": "La carte de Paris montre les rues et le métro.", "pt": "O mapa de Paris mostra as ruas e o metrô." },
+        { "level": "B2", "fr": "Lire une carte ancienne demande de la patience et de l'attention.", "pt": "Ler um mapa antigo exige paciência e atenção." },
+        { "level": "C1-C2", "fr": "Une carte n'est jamais neutre : elle raconte toujours le regard de celui qui l'a dessinée.", "pt": "Um mapa nunca é neutro: ele sempre conta o olhar de quem o desenhou." }
       ]
     },
     {
-      "term": "repas",
-      "definitionPt": "refeição",
-      "definitionFr": "Ensemble des plats que l'on mange à un moment de la journée.",
-      "inflections": ["le repas", "un repas", "des repas"],
-      "ptTargets": ["refeição", "comida"],
+      "term": "la ville",
+      "definitionPt": "a cidade",
+      "definitionFr": "Grande espace où vivent de nombreuses personnes, avec des rues et des bâtiments.",
+      "inflections": ["la ville", "une ville", "des villes"],
+      "ptTargets": ["cidade"],
       "examples": [
-        { "level": "A1", "fr": "Le repas est chaud et bon.", "pt": "A refeição está quente e boa." },
-        { "level": "A2-B1", "fr": "Je livre des repas chauds dans tout le quartier.", "pt": "Eu entrego refeições quentes em todo o bairro." },
-        { "level": "B2", "fr": "Partager un repas en famille est un moment précieux.", "pt": "Compartilhar uma refeição em família é um momento precioso." },
-        { "level": "C1-C2", "fr": "Le repas dominical demeure un rituel fondateur de la sociabilité familiale.", "pt": "A refeição dominical permanece um ritual fundador da sociabilidade familiar." }
-      ]
-    },
-    {
-      "term": "scooter",
-      "definitionPt": "scooter, motoneta (veículo de duas rodas)",
-      "definitionFr": "Véhicule motorisé à deux roues, pratique pour circuler en ville.",
-      "inflections": ["le scooter", "un scooter", "mon scooter"],
-      "ptTargets": ["scooter", "motoneta"],
-      "examples": [
-        { "level": "A1", "fr": "Mon scooter est rapide et pratique.", "pt": "Meu scooter é rápido e prático." },
-        { "level": "A2-B1", "fr": "Je livre des repas en scooter dans les rues de Paris.", "pt": "Eu entrego refeições de scooter nas ruas de Paris." },
-        { "level": "B2", "fr": "Chaque matin, il enfourche son scooter pour livrer les commandes.", "pt": "Toda manhã, ele monta no scooter para entregar os pedidos." },
-        { "level": "C1-C2", "fr": "Le scooter permet au livreur de circuler rapidement malgré la densité du trafic.", "pt": "O scooter permite ao entregador circular rapidamente apesar da densidade do tráfego." }
-      ]
-    },
-    {
-      "term": "femme",
-      "definitionPt": "mulher / esposa",
-      "definitionFr": "Personne de sexe féminin, ou épouse.",
-      "inflections": ["la femme", "une femme", "ma femme"],
-      "ptTargets": ["mulher", "esposa"],
-      "examples": [
-        { "level": "A1", "fr": "Ma femme s'appelle Andréa.", "pt": "Minha esposa se chama Andréa." },
-        { "level": "A2-B1", "fr": "Je rentre à la maison avec ma femme et ma fille.", "pt": "Eu volto para casa com minha esposa e minha filha." },
-        { "level": "B2", "fr": "Sa femme l'a soutenu dès son arrivée en France.", "pt": "Sua esposa o apoiou desde a chegada na França." },
-        { "level": "C1-C2", "fr": "Le rôle des femmes dans la société française a connu des évolutions décisives.", "pt": "O papel das mulheres na sociedade francesa passou por evoluções decisivas." }
-      ]
-    },
-    {
-      "term": "fille",
-      "definitionPt": "filha / menina",
-      "definitionFr": "Enfant de sexe féminin par rapport à ses parents.",
-      "inflections": ["la fille", "une fille", "ma fille"],
-      "ptTargets": ["filha", "menina"],
-      "examples": [
-        { "level": "A1", "fr": "Ma fille s'appelle Íris.", "pt": "Minha filha se chama Íris." },
-        { "level": "A2-B1", "fr": "Íris, ma fille, aime jouer dans le jardin.", "pt": "Íris, minha filha, gosta de brincar no jardim." },
-        { "level": "B2", "fr": "Sa fille apprend le français et le portugais à la maison.", "pt": "Sua filha aprende francês e português em casa." },
-        { "level": "C1-C2", "fr": "La transmission d'une langue à sa fille relève d'un héritage affectif précieux.", "pt": "A transmissão de uma língua à filha é uma herança afetiva preciosa." }
-      ]
-    },
-    {
-      "term": "famille",
-      "definitionPt": "família",
-      "definitionFr": "Ensemble des personnes unies par des liens de parenté.",
-      "inflections": ["la famille", "une famille", "ma famille"],
-      "ptTargets": ["família"],
-      "examples": [
-        { "level": "A1", "fr": "J'habite avec ma famille à Paris.", "pt": "Eu moro com minha família em Paris." },
-        { "level": "A2-B1", "fr": "Ma famille est petite : Andréa, Íris et moi.", "pt": "Minha família é pequena: Andréa, Íris e eu." },
-        { "level": "B2", "fr": "La famille d'Irlan a construit une nouvelle vie en France.", "pt": "A família de Irlan construiu uma nova vida na França." },
-        { "level": "C1-C2", "fr": "La cellule familiale demeure un pilier central des sociétés contemporaines.", "pt": "A célula familiar permanece um pilar central das sociedades contemporâneas." }
-      ]
-    },
-    {
-      "term": "travail",
-      "definitionPt": "trabalho / emprego",
-      "definitionFr": "Activité professionnelle exercée pour gagner sa vie.",
-      "inflections": ["le travail", "un travail", "mon travail"],
-      "ptTargets": ["trabalho", "emprego"],
-      "examples": [
-        { "level": "A1", "fr": "Mon premier travail est livreur en scooter.", "pt": "Meu primeiro trabalho é entregador de scooter." },
-        { "level": "A2-B1", "fr": "Le travail de livreur est difficile mais utile.", "pt": "O trabalho de entregador é difícil, mas útil." },
-        { "level": "B2", "fr": "Il a trouvé du travail grâce à sa détermination.", "pt": "Ele encontrou trabalho graças à sua determinação." },
-        { "level": "C1-C2", "fr": "Le travail façonne à la fois l'identité sociale et le quotidien des individus.", "pt": "O trabalho molda ao mesmo tempo a identidade social e o cotidiano dos indivíduos." }
+        { "level": "A1", "fr": "Paris est une grande ville.", "pt": "Paris é uma cidade grande." },
+        { "level": "A2-B1", "fr": "Créteil est une ville près de Paris.", "pt": "Créteil é uma cidade perto de Paris." },
+        { "level": "B2", "fr": "Chaque ville a son rythme, ses couleurs et ses secrets.", "pt": "Cada cidade tem seu ritmo, suas cores e seus segredos." },
+        { "level": "C1-C2", "fr": "La ville moderne se lit comme un palimpseste : chaque époque écrit par-dessus la précédente.", "pt": "A cidade moderna se lê como um palimpsesto: cada época escreve por cima da anterior." }
       ]
     },
     {
@@ -156,36 +96,101 @@
       "ptTargets": ["feliz"],
       "examples": [
         { "level": "A1", "fr": "Je suis heureux à Paris.", "pt": "Eu sou feliz em Paris." },
-        { "level": "A2-B1", "fr": "Nous sommes heureux en famille.", "pt": "Nós somos felizes em família." },
+        { "level": "A2-B1", "fr": "Nous sommes heureux dans notre nouvelle vie.", "pt": "Nós somos felizes na nossa nova vida." },
         { "level": "B2", "fr": "Il est heureux d'avoir reconstruit sa vie en France.", "pt": "Ele está feliz por ter reconstruído sua vida na França." },
         { "level": "C1-C2", "fr": "Être heureux ne dépend pas des circonstances, mais du regard que l'on porte sur elles.", "pt": "Ser feliz não depende das circunstâncias, mas do olhar que lançamos sobre elas." }
+      ]
+    },
+    {
+      "term": "le travail",
+      "definitionPt": "o trabalho / emprego",
+      "definitionFr": "Activité professionnelle exercée pour gagner sa vie.",
+      "inflections": ["le travail", "un travail", "mon travail"],
+      "ptTargets": ["trabalho", "emprego"],
+      "examples": [
+        { "level": "A1", "fr": "Mon premier travail est livreur en scooter.", "pt": "Meu primeiro trabalho é entregador de scooter." },
+        { "level": "A2-B1", "fr": "Le travail de livreur est difficile mais utile.", "pt": "O trabalho de entregador é difícil, mas útil." },
+        { "level": "B2", "fr": "Il a trouvé du travail grâce à sa détermination.", "pt": "Ele encontrou trabalho graças à sua determinação." },
+        { "level": "C1-C2", "fr": "Le travail façonne à la fois l'identité sociale et le quotidien des individus.", "pt": "O trabalho molda ao mesmo tempo a identidade social e o cotidiano dos indivíduos." }
+      ]
+    },
+    {
+      "term": "livreur",
+      "definitionPt": "entregador (de comida, encomendas)",
+      "definitionFr": "Personne qui livre des repas ou des colis, souvent en scooter ou à vélo.",
+      "inflections": ["le livreur", "un livreur", "des livreurs", "livreuse"],
+      "ptTargets": ["entregador", "entregar"],
+      "examples": [
+        { "level": "A1", "fr": "Le livreur arrive avec le repas chaud.", "pt": "O entregador chega com a refeição quente." },
+        { "level": "A2-B1", "fr": "Le livreur en scooter traverse les rues de Paris sous la pluie.", "pt": "O entregador de scooter atravessa as ruas de Paris sob a chuva." },
+        { "level": "B2", "fr": "Grâce aux applications, le livreur optimise ses trajets dans toute la ville.", "pt": "Graças aos aplicativos, o entregador otimiza seus trajetos em toda a cidade." },
+        { "level": "C1-C2", "fr": "Le métier de livreur, exigeant et souvent invisibilisé, demeure essentiel à la vie urbaine.", "pt": "A profissão de entregador, exigente e muitas vezes invisibilizada, permanece essencial à vida urbana." }
+      ]
+    },
+    {
+      "term": "le repas",
+      "definitionPt": "a refeição",
+      "definitionFr": "Ensemble des plats que l'on mange à un moment de la journée.",
+      "inflections": ["le repas", "un repas", "des repas"],
+      "ptTargets": ["refeição", "comida"],
+      "examples": [
+        { "level": "A1", "fr": "Le repas est chaud et bon.", "pt": "A refeição está quente e boa." },
+        { "level": "A2-B1", "fr": "Je livre des repas chauds dans tout le quartier.", "pt": "Eu entrego refeições quentes em todo o bairro." },
+        { "level": "B2", "fr": "Partager un repas en famille est un moment précieux.", "pt": "Compartilhar uma refeição em família é um momento precioso." },
+        { "level": "C1-C2", "fr": "Le repas dominical demeure un rituel fondateur de la sociabilité familiale.", "pt": "A refeição dominical permanece um ritual fundador da sociabilidade familiar." }
+      ]
+    },
+    {
+      "term": "le scooter",
+      "definitionPt": "scooter, motoneta (veículo de duas rodas)",
+      "definitionFr": "Véhicule motorisé à deux roues, pratique pour circuler en ville.",
+      "inflections": ["le scooter", "un scooter", "mon scooter"],
+      "ptTargets": ["scooter", "motoneta"],
+      "examples": [
+        { "level": "A1", "fr": "Mon scooter est rapide et pratique.", "pt": "Meu scooter é rápido e prático." },
+        { "level": "A2-B1", "fr": "Je livre des repas en scooter dans les rues de Paris.", "pt": "Eu entrego refeições de scooter nas ruas de Paris." },
+        { "level": "B2", "fr": "Chaque matin, il enfourche son scooter pour livrer les commandes.", "pt": "Toda manhã, ele monta no scooter para entregar os pedidos." },
+        { "level": "C1-C2", "fr": "Le scooter permet au livreur de circuler rapidement malgré la densité du trafic.", "pt": "O scooter permite ao entregador circular rapidamente apesar da densidade do tráfego." }
+      ]
+    },
+    {
+      "term": "arriver",
+      "definitionPt": "chegar",
+      "definitionFr": "Venir dans un lieu, atteindre un endroit.",
+      "inflections": ["arriver", "j'arrive", "je suis arrivé"],
+      "ptTargets": ["chegar", "chegada"],
+      "examples": [
+        { "level": "A1", "fr": "Je arrive à Paris.", "pt": "Eu chego a Paris." },
+        { "level": "A2-B1", "fr": "Il arrive à Créteil avec une petite valise.", "pt": "Ele chega a Créteil com uma mala pequena." },
+        { "level": "B2", "fr": "Arriver dans un nouveau pays, c'est toujours recommencer.", "pt": "Chegar a um país novo é sempre recomeçar." },
+        { "level": "C1-C2", "fr": "Arriver n'est que la première étape : rester, c'est apprendre à aimer.", "pt": "Chegar é apenas o primeiro passo: ficar é aprender a amar." }
       ]
     }
   ],
   "grammarTip": {
     "ruleTitle": "Le verbe être au présent (Je suis / Elle est / Nous sommes)",
-    "explanationPt": "No texto aparecem 'Je suis brésilien' e 'Elle est française'. O verbo 'être' (ser/estar) é essencial no presente: je suis, tu es, il/elle est, nous sommes, vous êtes, ils/elles sont.",
-    "exampleFr": "Je suis géographe et elle est française.",
-    "examplePt": "Eu sou geógrafo e ela é francesa.",
-    "practiceQuestion": "Complete: 'Ma femme _____ française.'",
+    "explanationPt": "No texto aparecem 'Je suis brésilien' e 'Paris est une grande ville'. O verbo 'être' (ser/estar) é essencial no presente: je suis, tu es, il/elle est, nous sommes, vous êtes, ils/elles sont.",
+    "exampleFr": "Je suis géographe et Paris est une grande ville.",
+    "examplePt": "Eu sou geógrafo e Paris é uma cidade grande.",
+    "practiceQuestion": "Complete: 'Ma grand-mère _____ à Jaguaquara.'",
     "options": ["est", "es", "sont"],
     "correctIndex": 0,
     "points": [
       {
         "ruleTitle": "Le verbe être au présent",
-        "explanationPt": "O verbo 'être' (ser/estar) conjuga-se: je suis, tu es, il/elle est, nous sommes, vous êtes, ils/elles sont. Ex.: 'Je suis géographe.', 'Elle est française.'",
-        "exampleFr": "Je suis géographe et elle est française.",
-        "examplePt": "Eu sou geógrafo e ela é francesa.",
+        "explanationPt": "O verbo 'être' (ser/estar) conjuga-se: je suis, tu es, il/elle est, nous sommes, vous êtes, ils/elles sont. Ex.: 'Je suis géographe.', 'Paris est une grande ville.'",
+        "exampleFr": "Je suis heureux et ma vie est une aventure.",
+        "examplePt": "Eu sou feliz e minha vida é uma aventura.",
         "practiceQuestion": "Complete: 'Nous _____ à Paris.'",
         "options": ["sommes", "sont", "est"],
         "correctIndex": 0
       },
       {
-        "ruleTitle": "Les possessifs mon / ma / notre",
-        "explanationPt": "Os possessivos concordam com o substantivo: 'mon' (masculino), 'ma' (feminino), 'notre' (nosso/nossa). Ex.: 'ma femme', 'ma fille', 'notre fille', 'mon scooter'.",
-        "exampleFr": "Ma femme s'appelle Andréa et notre fille s'appelle Íris.",
-        "examplePt": "Minha esposa se chama Andréa e nossa filha se chama Íris.",
-        "practiceQuestion": "Complete: '_____ fille s'appelle Íris.'",
+        "ruleTitle": "Les possessifs mon / ma / mes",
+        "explanationPt": "Os possessivos concordam com o substantivo: 'mon' (masculino), 'ma' (feminino), 'mes' (plural). Ex.: 'mon appartement', 'ma grand-mère', 'ma nouvelle vie', 'mes cartes'.",
+        "exampleFr": "Mon appartement est petit, mais ma vie est belle.",
+        "examplePt": "Meu apartamento é pequeno, mas minha vida é bela.",
+        "practiceQuestion": "Complete: '_____ grand-mère s'appelle Teresa.'",
         "options": ["Ma", "Mon", "Mes"],
         "correctIndex": 0
       }
@@ -193,50 +198,38 @@
   },
   "quizQuestions": [
     {
-      "question": "Complete a frase do texto com a palavra correta em francês: 'Mon premier travail en France est _____ de repas en scooter.'",
+      "question": "De quelle ville du Brésil vient Irlan ?",
+      "options": ["Jaguaquara, dans l'État de Bahia", "Rio de Janeiro", "São Paulo"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'Je viens de Jaguaquara, une petite ville du Brésil, dans l'État de Bahia.'"
+    },
+    {
+      "question": "Complete a frase do texto com a palavra correta em francês: 'Mon premier travail en France, c'est _____ de repas en scooter.'",
       "options": ["livreur", "géographe", "professeur"],
       "correctIndex": 0,
-      "explanation": "No texto, o primeiro trabalho de Irlan na França é 'livreur de repas en scooter' (entregador de refeições de scooter)."
+      "explanation": "O primeiro trabalho de Irlan na França é 'livreur de repas en scooter' (entregador de refeições de scooter)."
     },
     {
-      "question": "Ordene corretamente as palavras da frase que apareceu na aula: [ géographe / suis / Je / brésilien / et / je / suis ]",
-      "options": [
-        "Je suis brésilien et je suis géographe.",
-        "Je brésilien suis et géographe je suis.",
-        "Suis je brésilien et géographe je suis."
-      ],
+      "question": "Où habite Irlan en France ?",
+      "options": ["À Créteil, près de Paris", "À Marseille", "À Lyon"],
       "correctIndex": 0,
-      "explanation": "A frase exata do texto é 'Je suis brésilien et je suis géographe.'"
+      "explanation": "No texto: 'J'habite à Créteil, une ville près de Paris.'"
     },
     {
-      "question": "Como se traduz corretamente do português para o francês: 'Eu moro em Paris com a minha família'?",
-      "options": [
-        "J'habite à Paris avec ma famille.",
-        "Je habite en Paris avec mon famille.",
-        "J'habite à Paris avec ma femme et mon fille."
-      ],
+      "question": "Qui a appris à Irlan à lire les cartes ?",
+      "options": ["Sa grand-mère Teresa", "Son professeur de géographie", "Son voisin"],
       "correctIndex": 0,
-      "explanation": "Usa-se 'J'habite' (com elisão), a preposição 'à' para cidades ('à Paris') e o possessivo feminino 'ma' ('ma famille')."
+      "explanation": "No texto: 'Ma grand-mère Teresa m'a appris à lire les cartes et les étoiles.'"
     },
     {
       "question": "Identifique qual das frases em francês abaixo apresenta um ERRO de concordância:",
       "options": [
-        "Ma femme sont française.",
-        "Ma femme est française.",
-        "Elle est française."
+        "Ma grand-mère sont à Jaguaquara.",
+        "Ma grand-mère est à Jaguaquara.",
+        "Elle est à Jaguaquara."
       ],
       "correctIndex": 0,
-      "explanation": "O erro é 'Ma femme sont française': o sujeito singular 'Ma femme' exige 'est' (e não 'sont')."
-    },
-    {
-      "question": "Qual foi o primeiro trabalho de Irlan quando chegou na França?",
-      "options": [
-        "Entregador de comida de scooter (livreur de repas en scooter)",
-        "Professor de geografia",
-        "Cozinheiro em um restaurante"
-      ],
-      "correctIndex": 0,
-      "explanation": "Conforme o texto, o primeiro trabalho de Irlan na França foi 'livreur de repas en scooter', antes de se tornar geógrafo."
+      "explanation": "O erro é 'Ma grand-mère sont à Jaguaquara': o sujeito singular 'Ma grand-mère' exige 'est' (e não 'sont')."
     }
   ]
 }
