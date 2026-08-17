@@ -3,37 +3,42 @@
   "cityId": "paris",
   "domain": "Cotidiano",
   "level": "Iniciante (A1)",
-  "titleFr": "Ma journée à Paris : la maison, l'école et le travail",
-  "titlePt": "Meu dia em Paris: a casa, a escola e o trabalho",
-  "subtitleFr": "Le réveil en famille, le petit-déjeuner, l'école et le bureau du géographe",
-  "subtitlePt": "O despertar em família, o café da manhã, a escola e o escritório do geógrafo",
-  "summaryPt": "Nesta Aula 2 (A1), Irlan descreve seu dia em Paris: o despertar, o café da manhã em família, levar Íris à escola de scooter e o trabalho como geógrafo no escritório. O aluno aprende os verbos em -er no presente e o verbo 'aller' com as preposições à / au / à l'.",
+  "titleFr": "Ma journée de livreur à Paris",
+  "titlePt": "Meu dia de entregador em Paris",
+  "subtitleFr": "Le réveil à Créteil, le café, les livraisons en scooter et la ville qui s'éveille",
+  "subtitlePt": "O despertar em Créteil, o café, as entregas de scooter e a cidade que desperta",
+  "summaryPt": "Nesta Aula 2 (A1), Irlan descreve seu dia como entregador em Paris: acorda cedo em Créteil, toma café, pega a scooter, entrega refeições pelas ruas e, à noite, volta para casa e liga para a avó no Brasil. O aluno aprende os verbos em -er no presente e o verbo 'aller' com as preposições à / au.",
   "paragraphs": [
     {
       "id": 1,
-      "fr": "Je me lève tôt le matin. J'habite dans un quartier calme de Paris, près du canal. Ma journée commence avec un bon café.",
-      "pt": "Eu me levanto cedo de manhã. Eu moro em um bairro calmo de Paris, perto do canal. Meu dia começa com um bom café."
+      "fr": "Je me lève tôt le matin. Mon appartement à Créteil est petit, mais il est calme. Ma journée commence avec un bon café.",
+      "pt": "Eu me levanto cedo de manhã. Meu apartamento em Créteil é pequeno, mas é calmo. Meu dia começa com um bom café."
     },
     {
       "id": 2,
-      "fr": "Je prépare le petit-déjeuner pour ma famille. Andréa boit un café et Íris mange une tartine. Puis je conduis Íris à l'école en scooter.",
-      "pt": "Eu preparo o café da manhã para minha família. Andréa bebe um café e Íris come uma torrada. Depois eu levo Íris à escola de scooter."
+      "fr": "Je prépare un petit-déjeuner rapide : un café et une tartine. Ensuite, je prends mon scooter et je vais à Paris.",
+      "pt": "Eu preparo um café da manhã rápido: um café e uma torrada. Depois, eu pego minha scooter e vou a Paris."
     },
     {
       "id": 3,
-      "fr": "Après l'école, je travaille comme géographe au bureau. J'étudie les cartes et les quartiers de la ville. J'aime mon travail.",
-      "pt": "Depois da escola, eu trabalho como geógrafo no escritório. Eu estudo os mapas e os bairros da cidade. Eu gosto do meu trabalho."
+      "fr": "Mon travail, c'est la livraison de repas. Je regarde le téléphone et je conduis dans les rues. Chaque livraison est une petite mission.",
+      "pt": "Meu trabalho é a entrega de refeições. Eu olho o celular e conduzo pelas ruas. Cada entrega é uma pequena missão."
     },
     {
       "id": 4,
-      "fr": "Le soir, je rentre à la maison. Nous dînons ensemble et je raconte ma journée. J'aime ma vie à Paris avec ma famille.",
-      "pt": "À noite, eu volto para casa. Nós jantamos juntos e eu conto o meu dia. Eu gosto da minha vida em Paris com minha família."
+      "fr": "Le soir, je rentre à la maison. Je dîne seul, mais je ne suis pas triste : j'appelle ma grand-mère au Brésil. Je lui raconte ma journée.",
+      "pt": "À noite, eu volto para casa. Eu janto sozinho, mas não estou triste: eu ligo para minha avó no Brasil. Eu conto a ela o meu dia."
+    },
+    {
+      "id": 5,
+      "fr": "Paris est une grande ville, et chaque quartier est différent. Demain, une nouvelle journée commence. Je suis heureux, et j'ai hâte !",
+      "pt": "Paris é uma cidade grande, e cada bairro é diferente. Amanhã, um novo dia começa. Eu sou feliz, e estou ansioso!"
     }
   ],
   "vocabularyDictionary": [
     {
-      "term": "journée",
-      "definitionPt": "dia (período de um dia)",
+      "term": "la journée",
+      "definitionPt": "o dia (período de um dia)",
       "definitionFr": "Le temps qui s'écoule entre le matin et le soir.",
       "inflections": ["la journée", "une journée", "des journées"],
       "ptTargets": ["dia", "jornada"],
@@ -45,8 +50,8 @@
       ]
     },
     {
-      "term": "matin",
-      "definitionPt": "manhã",
+      "term": "le matin",
+      "definitionPt": "a manhã",
       "definitionFr": "Le début de la journée, après la nuit.",
       "inflections": ["le matin", "un matin", "des matins"],
       "ptTargets": ["manhã"],
@@ -58,86 +63,60 @@
       ]
     },
     {
-      "term": "café",
-      "definitionPt": "café",
+      "term": "le café",
+      "definitionPt": "o café",
       "definitionFr": "Boisson chaude préparée avec des grains de café.",
       "inflections": ["le café", "un café", "des cafés"],
       "ptTargets": ["café"],
       "examples": [
-        { "level": "A1", "fr": "Andréa boit un café le matin.", "pt": "Andréa bebe um café de manhã." },
+        { "level": "A1", "fr": "Je bois un café le matin.", "pt": "Eu bebo um café de manhã." },
         { "level": "A2-B1", "fr": "Nous prenons un café sur la terrasse.", "pt": "Nós tomamos um café no terraço." },
         { "level": "B2", "fr": "Un bon café réveille toute la maison.", "pt": "Um bom café desperta toda a casa." },
         { "level": "C1-C2", "fr": "Le café parisien est un lieu de rencontres et de conversations.", "pt": "O café parisiense é um lugar de encontros e conversas." }
       ]
     },
     {
-      "term": "petit-déjeuner",
-      "definitionPt": "café da manhã",
+      "term": "le petit-déjeuner",
+      "definitionPt": "o café da manhã",
       "definitionFr": "Le premier repas de la journée.",
       "inflections": ["le petit-déjeuner", "un petit-déjeuner", "des petits-déjeuners"],
       "ptTargets": ["café da manhã", "desjejum"],
       "examples": [
-        { "level": "A1", "fr": "Je prépare le petit-déjeuner pour ma famille.", "pt": "Eu preparo o café da manhã para minha família." },
+        { "level": "A1", "fr": "Je prépare un petit-déjeuner rapide.", "pt": "Eu preparo um café da manhã rápido." },
         { "level": "A2-B1", "fr": "Le petit-déjeuner français : un café et une tartine.", "pt": "O café da manhã francês: um café e uma torrada." },
         { "level": "B2", "fr": "Un petit-déjeuner équilibré donne de l'énergie pour la journée.", "pt": "Um café da manhã equilibrado dá energia para o dia." },
         { "level": "C1-C2", "fr": "Le petit-déjeuner est un moment de convivialité familiale.", "pt": "O café da manhã é um momento de convivência familiar." }
       ]
     },
     {
-      "term": "école",
-      "definitionPt": "escola",
-      "definitionFr": "Lieu où l'on enseigne et où l'on apprend.",
-      "inflections": ["l'école", "une école", "des écoles"],
-      "ptTargets": ["escola"],
+      "term": "la livraison",
+      "definitionPt": "a entrega",
+      "definitionFr": "Action de livrer des repas ou des colis.",
+      "inflections": ["la livraison", "une livraison", "des livraisons"],
+      "ptTargets": ["entrega", "entrega de comida"],
       "examples": [
-        { "level": "A1", "fr": "Je conduis Íris à l'école.", "pt": "Eu levo Íris à escola." },
-        { "level": "A2-B1", "fr": "L'école est près de la maison.", "pt": "A escola fica perto de casa." },
-        { "level": "B2", "fr": "À l'école, les enfants apprennent à lire et à écrire.", "pt": "Na escola, as crianças aprendem a ler e a escrever." },
-        { "level": "C1-C2", "fr": "L'école publique est un pilier de la République française.", "pt": "A escola pública é um pilar da República francesa." }
+        { "level": "A1", "fr": "La livraison est rapide.", "pt": "A entrega é rápida." },
+        { "level": "A2-B1", "fr": "Chaque livraison est une petite mission.", "pt": "Cada entrega é uma pequena missão." },
+        { "level": "B2", "fr": "La livraison de repas a explosé dans les grandes villes.", "pt": "A entrega de refeições explodiu nas grandes cidades." },
+        { "level": "C1-C2", "fr": "La livraison à domicile a transformé les habitudes de consommation.", "pt": "A entrega em domicílio transformou os hábitos de consumo." }
       ]
     },
     {
       "term": "conduire",
-      "definitionPt": "conduzir, dirigir, levar",
-      "definitionFr": "Piloter un véhicule ou accompagner quelqu'un quelque part.",
+      "definitionPt": "conduzir, dirigir",
+      "definitionFr": "Piloter un véhicule.",
       "inflections": ["conduis", "conduire", "conduit"],
-      "ptTargets": ["conduzir", "dirigir", "levar"],
+      "ptTargets": ["conduzir", "dirigir"],
       "examples": [
-        { "level": "A1", "fr": "Je conduis Íris à l'école en scooter.", "pt": "Eu levo Íris à escola de scooter." },
+        { "level": "A1", "fr": "Je conduis mon scooter.", "pt": "Eu conduzo minha scooter." },
         { "level": "A2-B1", "fr": "Irlan conduit son scooter dans les rues de Paris.", "pt": "Irlan conduz sua scooter pelas ruas de Paris." },
         { "level": "B2", "fr": "Conduire en ville demande de l'attention et de la patience.", "pt": "Conduzir na cidade exige atenção e paciência." },
         { "level": "C1-C2", "fr": "Savoir conduire un scooter a permis à Irlan de découvrir chaque rue de la capitale.", "pt": "Saber conduzir uma scooter permitiu a Irlan descobrir cada rua da capital." }
       ]
     },
     {
-      "term": "bureau",
-      "definitionPt": "escritório, mesa de trabalho",
-      "definitionFr": "Pièce ou meuble où l'on travaille.",
-      "inflections": ["le bureau", "un bureau", "des bureaux"],
-      "ptTargets": ["escritório", "mesa"],
-      "examples": [
-        { "level": "A1", "fr": "Je travaille au bureau.", "pt": "Eu trabalho no escritório." },
-        { "level": "A2-B1", "fr": "Son bureau est au centre de Paris.", "pt": "Seu escritório fica no centro de Paris." },
-        { "level": "B2", "fr": "Le bureau du géographe est plein de cartes.", "pt": "O escritório do geógrafo está cheio de mapas." },
-        { "level": "C1-C2", "fr": "Depuis son bureau, il observe l'évolution des quartiers.", "pt": "De seu escritório, ele observa a evolução dos bairros." }
-      ]
-    },
-    {
-      "term": "carte",
-      "definitionPt": "mapa / cardápio",
-      "definitionFr": "Représentation d'un territoire, ou liste des plats.",
-      "inflections": ["la carte", "une carte", "des cartes"],
-      "ptTargets": ["mapa", "cardápio"],
-      "examples": [
-        { "level": "A1", "fr": "J'étudie les cartes de la ville.", "pt": "Eu estudo os mapas da cidade." },
-        { "level": "A2-B1", "fr": "Le géographe utilise des cartes pour son travail.", "pt": "O geógrafo usa mapas para o seu trabalho." },
-        { "level": "B2", "fr": "Cette carte montre les nouveaux quartiers de Paris.", "pt": "Este mapa mostra os novos bairros de Paris." },
-        { "level": "C1-C2", "fr": "La carte constitue un outil essentiel pour comprendre un territoire.", "pt": "O mapa constitui uma ferramenta essencial para compreender um território." }
-      ]
-    },
-    {
-      "term": "quartier",
-      "definitionPt": "bairro",
+      "term": "le quartier",
+      "definitionPt": "o bairro",
       "definitionFr": "Partie d'une ville avec ses propres rues et commerces.",
       "inflections": ["le quartier", "un quartier", "des quartiers"],
       "ptTargets": ["bairro"],
@@ -149,14 +128,14 @@
       ]
     },
     {
-      "term": "soir",
-      "definitionPt": "noite (período do entardecer)",
+      "term": "le soir",
+      "definitionPt": "a noite (período do entardecer)",
       "definitionFr": "La fin de la journée, avant la nuit.",
       "inflections": ["le soir", "un soir", "des soirs"],
       "ptTargets": ["noite", "entardecer"],
       "examples": [
         { "level": "A1", "fr": "Le soir, je rentre à la maison.", "pt": "À noite, eu volto para casa." },
-        { "level": "A2-B1", "fr": "Le soir, nous dînons ensemble.", "pt": "À noite, nós jantamos juntos." },
+        { "level": "A2-B1", "fr": "Le soir, je dîne et j'appelle ma grand-mère.", "pt": "À noite, eu janto e ligo para minha avó." },
         { "level": "B2", "fr": "Les soirs d'été, les terrasses sont pleines.", "pt": "Nas noites de verão, os terraços estão cheios." },
         { "level": "C1-C2", "fr": "Ce soir-là, la ville brillait de mille feux.", "pt": "Naquela noite, a cidade brilhava com mil luzes." }
       ]
@@ -164,55 +143,81 @@
     {
       "term": "dîner",
       "definitionPt": "jantar",
-      "definitionFr": "Repas du soir.",
+      "definitionFr": "Repas du soir, ou prendre le repas du soir.",
       "inflections": ["le dîner", "dîner", "je dîne"],
       "ptTargets": ["jantar"],
       "examples": [
-        { "level": "A1", "fr": "Nous dînons ensemble le soir.", "pt": "Nós jantamos juntos à noite." },
+        { "level": "A1", "fr": "Je dîne seul le soir.", "pt": "Eu janto sozinho à noite." },
         { "level": "A2-B1", "fr": "Le dîner est prêt à sept heures.", "pt": "O jantar está pronto às sete horas." },
-        { "level": "B2", "fr": "Un dîner en famille est toujours un bon moment.", "pt": "Um jantar em família é sempre um bom momento." },
+        { "level": "B2", "fr": "Un dîner entre amis est toujours un bon moment.", "pt": "Um jantar entre amigos é sempre um bom momento." },
         { "level": "C1-C2", "fr": "Autour du dîner, on partage les nouvelles de la journée.", "pt": "Ao redor do jantar, partilham-se as notícias do dia." }
       ]
     },
     {
-      "term": "maison",
-      "definitionPt": "casa",
+      "term": "la maison",
+      "definitionPt": "a casa",
       "definitionFr": "Lieu où l'on habite.",
       "inflections": ["la maison", "une maison", "des maisons"],
       "ptTargets": ["casa"],
       "examples": [
         { "level": "A1", "fr": "Je rentre à la maison.", "pt": "Eu volto para casa." },
-        { "level": "A2-B1", "fr": "La maison est près du canal.", "pt": "A casa fica perto do canal." },
+        { "level": "A2-B1", "fr": "La maison est près du métro.", "pt": "A casa fica perto do metrô." },
         { "level": "B2", "fr": "Notre maison est petite mais chaleureuse.", "pt": "Nossa casa é pequena, mas acolhedora." },
         { "level": "C1-C2", "fr": "La maison familiale devient le refuge de toute la journée.", "pt": "A casa familiar torna-se o refúgio de todo o dia." }
+      ]
+    },
+    {
+      "term": "le téléphone",
+      "definitionPt": "o celular / telefone",
+      "definitionFr": "Appareil qui permet de parler ou de se connecter.",
+      "inflections": ["le téléphone", "un téléphone", "des téléphones"],
+      "ptTargets": ["celular", "telefone"],
+      "examples": [
+        { "level": "A1", "fr": "Je regarde mon téléphone.", "pt": "Eu olho meu celular." },
+        { "level": "A2-B1", "fr": "Le téléphone montre le plan de la ville.", "pt": "O celular mostra o mapa da cidade." },
+        { "level": "B2", "fr": "Grâce au téléphone, il trouve chaque adresse rapidement.", "pt": "Graças ao celular, ele encontra cada endereço rapidamente." },
+        { "level": "C1-C2", "fr": "Le téléphone est devenu un outil indispensable au travail du livreur.", "pt": "O celular tornou-se uma ferramenta indispensável ao trabalho do entregador." }
+      ]
+    },
+    {
+      "term": "appeler",
+      "definitionPt": "ligar, chamar",
+      "definitionFr": "Contacter quelqu'un par téléphone ou appeler à voix haute.",
+      "inflections": ["appeler", "j'appelle", "il appelle"],
+      "ptTargets": ["ligar", "chamar"],
+      "examples": [
+        { "level": "A1", "fr": "J'appelle ma grand-mère au Brésil.", "pt": "Eu ligo para minha avó no Brasil." },
+        { "level": "A2-B1", "fr": "Le soir, il appelle sa famille.", "pt": "À noite, ele liga para sua família." },
+        { "level": "B2", "fr": "Elle appelle son ami pour partager la bonne nouvelle.", "pt": "Ela liga para o amigo para contar a boa notícia." },
+        { "level": "C1-C2", "fr": "Appeler quelqu'un, c'est aussi lui tendre la main.", "pt": "Ligar para alguém é também estender a mão." }
       ]
     }
   ],
   "grammarTip": {
     "ruleTitle": "Les verbes en -er au présent",
-    "explanationPt": "No texto aparecem 'Je prépare', 'Je travaille', 'Nous dînons'. Os verbos em -er (preparer, travailler, dîner, raconter) conjugam-se no presente: je prépare, tu prépares, il/elle prépare, nous préparons, vous préparez, ils/elles préparent.",
-    "exampleFr": "Je prépare le petit-déjeuner et je travaille au bureau.",
-    "examplePt": "Eu preparo o café da manhã e trabalho no escritório.",
-    "practiceQuestion": "Complete com o verbo correto no presente: 'Nous _____ ensemble le soir.'",
-    "options": ["dînons", "dîne", "dînent"],
+    "explanationPt": "No texto aparecem 'Je prépare', 'Je regarde', 'Je conduis'... Os verbos em -er (préparer, regarder, raconter) conjugam-se no presente: je prépare, tu prépares, il/elle prépare, nous préparons, vous préparez, ils/elles préparent.",
+    "exampleFr": "Je prépare un café et je regarde le téléphone.",
+    "examplePt": "Eu preparo um café e olho o celular.",
+    "practiceQuestion": "Complete com o verbo correto no presente: 'Je _____ ma grand-mère le soir.'",
+    "options": ["appelle", "appelons", "appellent"],
     "correctIndex": 0,
     "points": [
       {
         "ruleTitle": "Les verbes en -er au présent",
-        "explanationPt": "Os verbos em -er terminam em -e, -es, -e, -ons, -ez, -ent no presente. Ex.: préparer → je prépare, nous préparons; travailler → je travaille.",
-        "exampleFr": "Je prépare le petit-déjeuner et je travaille au bureau.",
-        "examplePt": "Eu preparo o café da manhã e trabalho no escritório.",
-        "practiceQuestion": "Complete: 'Je _____ les cartes de la ville.'",
-        "options": ["étudie", "étudier", "étudions"],
+        "explanationPt": "Os verbos em -er terminam em -e, -es, -e, -ons, -ez, -ent no presente. Ex.: préparer → je prépare, nous préparons; regarder → je regarde.",
+        "exampleFr": "Je prépare un café et je regarde le téléphone.",
+        "examplePt": "Eu preparo um café e olho o celular.",
+        "practiceQuestion": "Complete: 'Nous _____ le soir ensemble.'",
+        "options": ["dînons", "dîne", "dînent"],
         "correctIndex": 0
       },
       {
-        "ruleTitle": "Le verbe aller + prépositions à / au / à l'",
-        "explanationPt": "O verbo 'aller' (ir) + preposição de lugar: à l'école (vogal), au bureau (le + à), à la maison. Ex.: 'Je vais à l'école.', 'Il va au bureau.'",
-        "exampleFr": "Je conduis Íris à l'école et je vais au bureau.",
-        "examplePt": "Eu levo Íris à escola e vou ao escritório.",
-        "practiceQuestion": "Complete: 'Le matin, je vais _____ bureau.'",
-        "options": ["au", "à la", "aux"],
+        "ruleTitle": "Le verbe aller + prépositions à / au",
+        "explanationPt": "O verbo 'aller' (ir) + preposição de lugar: à Paris (cidade), au centre (le + à), à la maison. Ex.: 'Je vais à Paris.', 'Je vais au centre.'",
+        "exampleFr": "Je vais à Paris et je vais au centre de la ville.",
+        "examplePt": "Eu vou a Paris e vou ao centro da cidade.",
+        "practiceQuestion": "Complete: 'Le matin, je vais _____ Paris.'",
+        "options": ["à", "au", "aux"],
         "correctIndex": 0
       }
     ]
@@ -225,44 +230,44 @@
       "explanation": "No texto: 'Je me lève tôt le matin.' (Eu me levanto cedo de manhã.)"
     },
     {
-      "question": "Ordene corretamente as palavras da frase: [ l'école / en scooter / conduis / Íris / Je / à ]",
+      "question": "Ordene corretamente as palavras da frase: [ mon / prends / scooter / je / et / vais / Paris / à / je ]",
       "options": [
-        "Je conduis Íris à l'école en scooter.",
-        "Je Íris conduis en scooter à l'école.",
-        "À l'école je conduis scooter Íris en."
+        "Je prends mon scooter et je vais à Paris.",
+        "Je mon scooter prends et je à Paris vais.",
+        "Mon scooter je prends et vais Paris je à."
       ],
       "correctIndex": 0,
-      "explanation": "A frase exata do texto é 'Je conduis Íris à l'école en scooter.'"
+      "explanation": "A frase exata do texto é 'Je prends mon scooter et je vais à Paris.'"
     },
     {
-      "question": "Como se traduz: 'À noite, nós jantamos juntos'?",
+      "question": "O que Irlan faz à noite, segundo o texto?",
       "options": [
-        "Le soir, nous dînons ensemble.",
-        "Le matin, nous dînons ensemble.",
-        "Le soir, nous déjeunons ensemble."
+        "Volta para casa, janta e liga para a avó no Brasil",
+        "Trabalha até muito tarde no escritório",
+        "Vai ao cinema com amigos"
       ],
       "correctIndex": 0,
-      "explanation": "'Le soir' = à noite; 'nous dînons' = nós jantamos; 'ensemble' = juntos."
+      "explanation": "No texto: 'Le soir, je rentre à la maison. Je dîne seul... j'appelle ma grand-mère au Brésil.'"
     },
     {
       "question": "Identifique a frase com ERRO de conjugação no presente:",
       "options": [
-        "Je travaille au bureau.",
-        "Nous travaille ensemble.",
-        "Elle travaille à Paris."
+        "Je regarde le téléphone.",
+        "Nous regardons le téléphone.",
+        "Je regardons le téléphone."
       ],
-      "correctIndex": 1,
-      "explanation": "O erro é 'Nous travaille': com 'nous', o verbo em -er termina em -ons ('nous travaillons')."
+      "correctIndex": 2,
+      "explanation": "O erro é 'Je regardons': com 'je', o verbo em -er termina em -e ('je regarde')."
     },
     {
-      "question": "Como Irlan leva Íris à escola?",
+      "question": "Qual é o trabalho de Irlan nesta aula?",
       "options": [
-        "De scooter (en scooter)",
-        "De carro",
-        "De metrô"
+        "Entregador de refeições de scooter (la livraison de repas)",
+        "Professor de geografia na escola",
+        "Vendedor de café"
       ],
       "correctIndex": 0,
-      "explanation": "No texto: 'Je conduis Íris à l'école en scooter.' (Eu levo Íris à escola de scooter.)"
+      "explanation": "No texto: 'Mon travail, c'est la livraison de repas.' (Meu trabalho é a entrega de refeições.)"
     }
   ]
 }

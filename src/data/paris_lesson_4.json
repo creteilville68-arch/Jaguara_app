@@ -5,48 +5,53 @@
   "level": "Iniciante (A1)",
   "titleFr": "Le métro : le cœur de Paris",
   "titlePt": "O metrô: o coração de Paris",
-  "subtitleFr": "Les tickets, les lignes, les correspondances et la mémoire du livreur",
-  "subtitlePt": "Os bilhetes, as linhas, as correspondências e a memória do entregador",
-  "summaryPt": "Nesta Aula 4 (A1), a família usa o metrô de Paris, inaugurado em 1900. Irlan conhece todas as linhas por causa dos anos de entrega de scooter. O aluno aprende o verbo 'prendre' (je prends, nous prenons) e a expressão 'il y a'.",
+  "subtitleFr": "Les tickets, les lignes, les correspondances et le livreur qui connaît tout",
+  "subtitlePt": "Os bilhetes, as linhas, as correspondências e o entregador que conhece tudo",
+  "summaryPt": "Nesta Aula 4 (A1), Irlan usa o metrô de Paris, inaugurado em 1900. Ele conhece todas as linhas por causa das entregas de scooter — e, na cabeça, já desenha o mapa da sua nova vida. O aluno aprende o verbo 'prendre' (je prends, nous prenons) e a expressão 'il y a'.",
   "paragraphs": [
     {
       "id": 1,
-      "fr": "Nous prenons le métro pour aller au centre de Paris. Le métro est rapide et facile. La première ligne du métro ouvre en 1900.",
-      "pt": "Nós pegamos o metrô para ir ao centro de Paris. O metrô é rápido e fácil. A primeira linha do metrô abre em 1900."
+      "fr": "Je prends le métro pour aller au centre de Paris. Le métro est rapide et facile. La première ligne du métro ouvre en 1900.",
+      "pt": "Eu pego o metrô para ir ao centro de Paris. O metrô é rápido e fácil. A primeira linha do metrô abre em 1900."
     },
     {
       "id": 2,
-      "fr": "J'achète deux tickets à la machine. La ligne 5 passe par la Bastille. Je regarde le plan et je choisis la bonne direction.",
-      "pt": "Eu compro dois bilhetes na máquina. A linha 5 passa pela Bastilha. Eu olho o mapa e escolho a direção certa."
+      "fr": "J'achète un ticket à la machine. La ligne 5 passe par la Bastille. Je regarde le plan et je choisis la bonne direction.",
+      "pt": "Eu compro um bilhete na máquina. A linha 5 passa pela Bastilha. Eu olho o mapa e escolho a direção certa."
     },
     {
       "id": 3,
-      "fr": "Je connais toutes les lignes de Paris ! Avant, je livre des repas en scooter et je vois la ville en entier. Le métro est mon ami.",
-      "pt": "Eu conheço todas as linhas de Paris! Antes, eu entregava refeições de scooter e via a cidade inteira. O metrô é meu amigo."
+      "fr": "Je connais toutes les lignes de Paris ! Je livre des repas en scooter et je vois la ville en entier. Le métro est mon ami.",
+      "pt": "Eu conheço todas as linhas de Paris! Eu entrego refeições de scooter e vejo a cidade inteira. O metrô é meu amigo."
     },
     {
       "id": 4,
-      "fr": "Nous changeons de ligne à la station Châtelet. Les couloirs sont grands et il y a beaucoup de monde. Le métro est la vie de Paris.",
-      "pt": "Nós trocamos de linha na estação Châtelet. Os corredores são grandes e há muita gente. O metrô é a vida de Paris."
+      "fr": "Je change de ligne à la station Châtelet. Les couloirs sont grands et il y a beaucoup de monde. Le métro est la vie de Paris.",
+      "pt": "Eu troco de linha na estação Châtelet. Os corredores são grandes e há muita gente. O metrô é a vida de Paris."
+    },
+    {
+      "id": 5,
+      "fr": "Dans ma tête, je dessine déjà la carte de ma nouvelle vie. Chaque ligne est un trait de mon propre atlas de Paris.",
+      "pt": "Na minha cabeça, eu já desenho o mapa da minha nova vida. Cada linha é um traço do meu próprio atlas de Paris."
     }
   ],
   "vocabularyDictionary": [
     {
-      "term": "métro",
-      "definitionPt": "metrô",
+      "term": "le métro",
+      "definitionPt": "o metrô",
       "definitionFr": "Transport en commun souterrain dans les grandes villes.",
       "inflections": ["le métro", "un métro", "des métros"],
       "ptTargets": ["metrô"],
       "examples": [
-        { "level": "A1", "fr": "Nous prenons le métro.", "pt": "Nós pegamos o metrô." },
+        { "level": "A1", "fr": "Je prends le métro.", "pt": "Eu pego o metrô." },
         { "level": "A2-B1", "fr": "Le métro de Paris est très connu.", "pt": "O metrô de Paris é muito conhecido." },
         { "level": "B2", "fr": "Le métro est le moyen le plus rapide de traverser Paris.", "pt": "O metrô é o meio mais rápido de atravessar Paris." },
         { "level": "C1-C2", "fr": "Le métro parisien, inauguré en 1900, a transformé la mobilité urbaine.", "pt": "O metrô parisiense, inaugurado em 1900, transformou a mobilidade urbana." }
       ]
     },
     {
-      "term": "ticket",
-      "definitionPt": "bilhete, passagem",
+      "term": "le ticket",
+      "definitionPt": "o bilhete, a passagem",
       "definitionFr": "Petit billet qui permet d'utiliser un transport.",
       "inflections": ["le ticket", "un ticket", "des tickets"],
       "ptTargets": ["bilhete", "passagem"],
@@ -58,47 +63,47 @@
       ]
     },
     {
-      "term": "ligne",
-      "definitionPt": "linha (de metrô, de trem)",
+      "term": "la ligne",
+      "definitionPt": "a linha (de metrô, de trem)",
       "definitionFr": "Itinéraire régulier d'un transport en commun.",
       "inflections": ["la ligne", "une ligne", "des lignes"],
       "ptTargets": ["linha"],
       "examples": [
         { "level": "A1", "fr": "La ligne 5 passe par la Bastille.", "pt": "A linha 5 passa pela Bastilha." },
-        { "level": "A2-B1", "fr": "Nous changeons de ligne à la prochaine station.", "pt": "Nós trocamos de linha na próxima estação." },
+        { "level": "A2-B1", "fr": "Je change de ligne à la prochaine station.", "pt": "Eu troco de linha na próxima estação." },
         { "level": "B2", "fr": "Cette ligne relie le nord et le sud de la ville.", "pt": "Esta linha liga o norte e o sul da cidade." },
         { "level": "C1-C2", "fr": "L'automatisation de la ligne 1 a modernisé le réseau.", "pt": "A automatização da linha 1 modernizou a rede." }
       ]
     },
     {
-      "term": "direction",
-      "definitionPt": "direção",
+      "term": "la direction",
+      "definitionPt": "a direção",
       "definitionFr": "Sens ou chemin vers un lieu précis.",
       "inflections": ["la direction", "une direction", "des directions"],
       "ptTargets": ["direção"],
       "examples": [
         { "level": "A1", "fr": "Je choisis la bonne direction.", "pt": "Eu escolho a direção certa." },
-        { "level": "A2-B1", "fr": "Vérifiez la direction avant de monter.", "pt": "Verifique a direção antes de subir." },
+        { "level": "A2-B1", "fr": "Vérifiez la direction avant de monter.", "pt": "Verifique a direção antes de entrar." },
         { "level": "B2", "fr": "La direction du métro est indiquée sur les panneaux.", "pt": "A direção do metrô está indicada nos painéis." },
         { "level": "C1-C2", "fr": "La signalétique guide le voyageur dans la bonne direction.", "pt": "A sinalização guia o viajante na direção certa." }
       ]
     },
     {
-      "term": "station",
-      "definitionPt": "estação",
+      "term": "la station",
+      "definitionPt": "a estação",
       "definitionFr": "Lieu où le métro ou le train s'arrête.",
       "inflections": ["la station", "une station", "des stations"],
       "ptTargets": ["estação"],
       "examples": [
         { "level": "A1", "fr": "La station est près de chez moi.", "pt": "A estação fica perto de minha casa." },
-        { "level": "A2-B1", "fr": "Nous descendons à la station Châtelet.", "pt": "Nós descemos na estação Châtelet." },
+        { "level": "A2-B1", "fr": "Je descends à la station Châtelet.", "pt": "Eu desço na estação Châtelet." },
         { "level": "B2", "fr": "Cette station est très grande et très fréquentée.", "pt": "Esta estação é muito grande e muito movimentada." },
         { "level": "C1-C2", "fr": "Châtelet est l'une des plus grandes stations du métro parisien.", "pt": "Châtelet é uma das maiores estações do metrô parisiense." }
       ]
     },
     {
-      "term": "plan",
-      "definitionPt": "planta, mapa (de linhas)",
+      "term": "le plan",
+      "definitionPt": "o mapa (de linhas), a planta",
       "definitionFr": "Carte schématique d'un réseau de transport.",
       "inflections": ["le plan", "un plan", "des plans"],
       "ptTargets": ["mapa", "planta"],
@@ -110,14 +115,14 @@
       ]
     },
     {
-      "term": "couloir",
-      "definitionPt": "corredor",
+      "term": "le couloir",
+      "definitionPt": "o corredor",
       "definitionFr": "Passage étroit qui mène d'un endroit à un autre.",
       "inflections": ["le couloir", "un couloir", "des couloirs"],
       "ptTargets": ["corredor"],
       "examples": [
         { "level": "A1", "fr": "Les couloirs sont grands.", "pt": "Os corredores são grandes." },
-        { "level": "A2-B1", "fr": "Nous marchons dans le couloir du métro.", "pt": "Nós caminhamos no corredor do metrô." },
+        { "level": "A2-B1", "fr": "Je marche dans le couloir du métro.", "pt": "Eu caminho no corredor do metrô." },
         { "level": "B2", "fr": "Les couloirs de la station relient plusieurs lignes.", "pt": "Os corredores da estação ligam várias linhas." },
         { "level": "C1-C2", "fr": "Les couloirs de Châtelet forment un véritable labyrinthe.", "pt": "Os corredores de Châtelet formam um verdadeiro labirinto." }
       ]
@@ -129,21 +134,21 @@
       "inflections": ["change", "changeons", "changer"],
       "ptTargets": ["trocar", "mudar"],
       "examples": [
-        { "level": "A1", "fr": "Nous changeons de ligne à Châtelet.", "pt": "Nós trocamos de linha em Châtelet." },
+        { "level": "A1", "fr": "Je change de ligne à Châtelet.", "pt": "Eu troco de linha em Châtelet." },
         { "level": "A2-B1", "fr": "Je change de métro à la Bastille.", "pt": "Eu troco de metrô na Bastilha." },
         { "level": "B2", "fr": "Changer de ligne permet d'atteindre tous les quartiers.", "pt": "Trocar de linha permite alcançar todos os bairros." },
         { "level": "C1-C2", "fr": "La ville de Paris a beaucoup changé depuis son arrivée.", "pt": "A cidade de Paris mudou muito desde a chegada dele." }
       ]
     },
     {
-      "term": "monde",
-      "definitionPt": "mundo, gente, pessoas",
+      "term": "le monde",
+      "definitionPt": "o mundo, a gente, as pessoas",
       "definitionFr": "L'ensemble des humains, ou beaucoup de personnes.",
       "inflections": ["le monde", "du monde"],
       "ptTargets": ["mundo", "gente"],
       "examples": [
         { "level": "A1", "fr": "Il y a beaucoup de monde dans le métro.", "pt": "Há muita gente no metrô." },
-        { "level": "A2-B1", "fr": "Le monde est grand et Paris est une grande ville.", "pt": "O mundo é grande e Paris é uma grande cidade." },
+        { "level": "A2-B1", "fr": "Le monde est grand et Paris est une grande ville.", "pt": "O mundo é grande e Paris é uma cidade grande." },
         { "level": "B2", "fr": "Le métro transporte chaque jour des millions de personnes.", "pt": "O metrô transporta todos os dias milhões de pessoas." },
         { "level": "C1-C2", "fr": "Paris attire chaque année des visiteurs du monde entier.", "pt": "Paris atrai todos os anos visitantes do mundo inteiro." }
       ]
@@ -155,7 +160,7 @@
       "inflections": ["monte", "montons", "monter"],
       "ptTargets": ["subir", "entrar"],
       "examples": [
-        { "level": "A1", "fr": "Nous montons dans le métro.", "pt": "Nós entramos no metrô." },
+        { "level": "A1", "fr": "Je monte dans le métro.", "pt": "Eu entro no metrô." },
         { "level": "A2-B1", "fr": "Montez dans la bonne direction !", "pt": "Entre na direção certa!" },
         { "level": "B2", "fr": "Il monte les escaliers rapidement.", "pt": "Ele sobe as escadas rapidamente." },
         { "level": "C1-C2", "fr": "Monter dans un wagon bondé fait partie du quotidien parisien.", "pt": "Entrar em um vagão lotado faz parte do cotidiano parisiense." }
@@ -168,31 +173,31 @@
       "inflections": ["descends", "descend", "descendre"],
       "ptTargets": ["descer", "sair"],
       "examples": [
-        { "level": "A1", "fr": "Nous descendons à la prochaine station.", "pt": "Nós descemos na próxima estação." },
+        { "level": "A1", "fr": "Je descends à la prochaine station.", "pt": "Eu desço na próxima estação." },
         { "level": "A2-B1", "fr": "Descendez à la station Bastille.", "pt": "Desça na estação Bastilha." },
         { "level": "B2", "fr": "Il descend les escaliers du métro.", "pt": "Ele desce as escadas do metrô." },
         { "level": "C1-C2", "fr": "Descendre à la bonne station exige de bien lire le plan.", "pt": "Descer na estação certa exige ler bem o mapa." }
       ]
     },
     {
-      "term": "ville",
-      "definitionPt": "cidade",
-      "definitionFr": "Grande agglomération où vivent de nombreux habitants.",
-      "inflections": ["la ville", "une ville", "des villes"],
-      "ptTargets": ["cidade"],
+      "term": "l'atlas",
+      "definitionPt": "o atlas (livro de mapas)",
+      "definitionFr": "Recueil de cartes géographiques.",
+      "inflections": ["l'atlas", "un atlas", "des atlas"],
+      "ptTargets": ["atlas"],
       "examples": [
-        { "level": "A1", "fr": "Paris est une grande ville.", "pt": "Paris é uma grande cidade." },
-        { "level": "A2-B1", "fr": "Nous aimons notre ville.", "pt": "Nós gostamos da nossa cidade." },
-        { "level": "B2", "fr": "Chaque ville de France a sa propre histoire.", "pt": "Cada cidade da França tem sua própria história." },
-        { "level": "C1-C2", "fr": "La ville de Paris évolue sans cesse entre tradition et modernité.", "pt": "A cidade de Paris evolui sem cessar entre tradição e modernidade." }
+        { "level": "A1", "fr": "Je dessine mon propre atlas.", "pt": "Eu desenho meu próprio atlas." },
+        { "level": "A2-B1", "fr": "Un atlas montre toutes les régions du monde.", "pt": "Um atlas mostra todas as regiões do mundo." },
+        { "level": "B2", "fr": "Un atlas est plus qu'un livre : c'est une fenêtre sur le monde.", "pt": "Um atlas é mais que um livro: é uma janela para o mundo." },
+        { "level": "C1-C2", "fr": "L'atlas, autrefois objet de prestige, raconte l'histoire des découvertes.", "pt": "O atlas, antigamente objeto de prestígio, conta a história das descobertas." }
       ]
     }
   ],
   "grammarTip": {
     "ruleTitle": "Le verbe prendre au présent",
-    "explanationPt": "No texto aparecem 'Nous prenons le métro' e 'J'achète deux tickets'. O verbo 'prendre' (pegar/tomar) é irregular no presente: je prends, tu prends, il/elle prend, nous prenons, vous prenez, ils/elles prennent.",
-    "exampleFr": "Nous prenons le métro pour aller au centre de Paris.",
-    "examplePt": "Nós pegamos o metrô para ir ao centro de Paris.",
+    "explanationPt": "No texto aparecem 'Je prends le métro' e 'J'achète un ticket'. O verbo 'prendre' (pegar/tomar) é irregular no presente: je prends, tu prends, il/elle prend, nous prenons, vous prenez, ils/elles prennent.",
+    "exampleFr": "Je prends le métro pour aller au centre de Paris.",
+    "examplePt": "Eu pego o metrô para ir ao centro de Paris.",
     "practiceQuestion": "Complete: 'Je _____ le métro tous les jours.'",
     "options": ["prends", "prend", "prennent"],
     "correctIndex": 0,
@@ -200,8 +205,8 @@
       {
         "ruleTitle": "Le verbe prendre au présent",
         "explanationPt": "'Prendre' (pegar): je prends, tu prends, il/elle prend, nous prenons, vous prenez, ils/elles prennent. Ex.: 'Je prends le métro.', 'Nous prenons le train.'",
-        "exampleFr": "Je prends le métro et nous prenons le train.",
-        "examplePt": "Eu pego o metrô e nós pegamos o trem.",
+        "exampleFr": "Je prends le métro et je change de ligne à Châtelet.",
+        "examplePt": "Eu pego o metrô e troco de linha em Châtelet.",
         "practiceQuestion": "Complete: 'Vous _____ le ticket à la machine.'",
         "options": ["prenez", "prends", "prennent"],
         "correctIndex": 0
@@ -219,27 +224,27 @@
   },
   "quizQuestions": [
     {
-      "question": "Complete a frase do texto com a palavra correta: 'Nous _____ le métro pour aller au centre.'",
-      "options": ["prenons", "prend", "prendre"],
+      "question": "Complete a frase do texto com a palavra correta: 'Je _____ le métro pour aller au centre.'",
+      "options": ["prends", "prend", "prendre"],
       "correctIndex": 0,
-      "explanation": "No texto: 'Nous prenons le métro pour aller au centre de Paris.'"
+      "explanation": "No texto: 'Je prends le métro pour aller au centre de Paris.'"
     },
     {
-      "question": "Ordene corretamente as palavras da frase: [ ligne / changeons / Châtelet / la / à / station / Nous / de ]",
+      "question": "Ordene corretamente as palavras da frase: [ ligne / change / à / la / station / Je / de / Châtelet ]",
       "options": [
-        "Nous changeons de ligne à la station Châtelet.",
-        "Nous changeons la ligne de à station Châtelet.",
-        "Châtelet station la à ligne changeons de Nous."
+        "Je change de ligne à la station Châtelet.",
+        "Je change la ligne de à station Châtelet.",
+        "Châtelet station la à ligne change de Je."
       ],
       "correctIndex": 0,
-      "explanation": "A frase exata do texto é 'Nous changeons de ligne à la station Châtelet.'"
+      "explanation": "A frase exata do texto é 'Je change de ligne à la station Châtelet.'"
     },
     {
-      "question": "Como se traduz: 'Eu compro dois bilhetes na máquina'?",
+      "question": "Como se traduz: 'Eu compro um bilhete na máquina'?",
       "options": [
-        "J'achète deux tickets à la machine.",
-        "Je achète deux tickets dans la machine.",
-        "J'achète deux tickets pour la machine."
+        "J'achète un ticket à la machine.",
+        "Je achète un ticket dans la machine.",
+        "J'achète un ticket pour la machine."
       ],
       "correctIndex": 0,
       "explanation": "Usa-se 'J'achète' (com elisão) e a preposição 'à' para indicar o local: 'à la machine'."
@@ -255,10 +260,14 @@
       "explanation": "O erro é 'Il prends': com 'il', o verbo prendre faz 'il prend' (sem 's')."
     },
     {
-      "question": "Em que ano abriu a primeira linha do metrô de Paris, segundo o texto?",
-      "options": ["1900", "1950", "1889"],
+      "question": "O que Irlan desenha 'na cabeça' nesta aula?",
+      "options": [
+        "O mapa (atlas) da sua nova vida em Paris",
+        "Um retrato da Torre Eiffel",
+        "Um desenho da sua scooter"
+      ],
       "correctIndex": 0,
-      "explanation": "No texto: 'La première ligne du métro ouvre en 1900.' (A primeira linha do metrô abre em 1900 — fato real.)"
+      "explanation": "No texto: 'Dans ma tête, je dessine déjà la carte de ma nouvelle vie. Chaque ligne est un trait de mon propre atlas de Paris.'"
     }
   ]
 }

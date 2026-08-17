@@ -5,48 +5,53 @@
   "level": "Iniciante (A1)",
   "titleFr": "Une promenade au Canal Saint-Martin",
   "titlePt": "Um passeio pelo Canal Saint-Martin",
-  "subtitleFr": "Les ponts, les bateaux et la mémoire du livreur sur les rives du canal",
-  "subtitlePt": "As pontes, os barcos e a memória do entregador nas margens do canal",
-  "summaryPt": "Nesta Aula 3 (A1), a família passeia pelo Canal Saint-Martin, um canal real de Paris. Irlan conhece bem o bairro por causa dos anos de entrega de scooter. O aluno aprende as preposições de lugar (sur, dans, près de) e o verbo 'connaître' no presente.",
+  "subtitleFr": "Les ponts, les bateaux et le livreur qui connaît chaque rue",
+  "subtitlePt": "As pontes, os barcos e o entregador que conhece cada rua",
+  "summaryPt": "Nesta Aula 3 (A1), Irlan passeia sozinho pelo Canal Saint-Martin, um canal real de Paris. Ele conhece bem o bairro por causa das entregas de scooter, e o canal lhe lembra a rivière de Jaguaquara, no Brasil. O aluno aprende as preposições de lugar (sur, dans, près de, au bord de) e o verbo 'connaître' no presente.",
   "paragraphs": [
     {
       "id": 1,
-      "fr": "Aujourd'hui, nous nous promenons au bord du Canal Saint-Martin. Le canal traverse le quartier et les ponts sont jolis.",
-      "pt": "Hoje, nós passeamos na margem do Canal Saint-Martin. O canal atravessa o bairro e as pontes são bonitas."
+      "fr": "Aujourd'hui, je me promène au bord du Canal Saint-Martin. Le canal traverse le quartier et les ponts sont jolis.",
+      "pt": "Hoje, eu passeio na margem do Canal Saint-Martin. O canal atravessa o bairro e as pontes são bonitas."
     },
     {
       "id": 2,
-      "fr": "Je regarde les bateaux et les arbres. L'eau est verte et calme. Íris adore les canards sur l'eau !",
-      "pt": "Eu olho os barcos e as árvores. A água é verde e calma. Íris adora os patos na água!"
+      "fr": "Je regarde les bateaux et les arbres. L'eau est verte et calme. Les canards nagent sur l'eau.",
+      "pt": "Eu olho os barcos e as árvores. A água é verde e calma. Os patos nadam na água."
     },
     {
       "id": 3,
-      "fr": "Je connais bien ce quartier. Avant, je livre des repas en scooter dans ces rues. Chaque rue est une mémoire pour moi.",
-      "pt": "Eu conheço bem este bairro. Antes, eu entregava refeições de scooter nessas ruas. Cada rua é uma memória para mim."
+      "fr": "Je connais bien ce quartier. Je livre des repas en scooter dans ces rues chaque jour. Chaque rue est une mémoire pour moi.",
+      "pt": "Eu conheço bem este bairro. Eu entrego refeições de scooter nessas ruas todos os dias. Cada rua é uma memória para mim."
     },
     {
       "id": 4,
-      "fr": "Nous prenons un café sur une terrasse. Le canal est tranquille et la lumière est douce. Nous sommes contents.",
-      "pt": "Nós tomamos um café em um terraço. O canal é tranquilo e a luz é suave. Nós estamos contentes."
+      "fr": "Le canal me rappelle la rivière de Jaguaquara, au Brésil. Les rivières sont comme des cartes de la nature.",
+      "pt": "O canal me lembra o rio de Jaguaquara, no Brasil. Os rios são como mapas da natureza."
+    },
+    {
+      "id": 5,
+      "fr": "Je prends un café sur une terrasse. Le canal est tranquille et la lumière est douce. Je suis content : Paris est ma nouvelle maison.",
+      "pt": "Eu tomo um café em um terraço. O canal é tranquilo e a luz é suave. Eu estou contente: Paris é minha nova casa."
     }
   ],
   "vocabularyDictionary": [
     {
-      "term": "promenade",
-      "definitionPt": "passeio, caminhada",
+      "term": "la promenade",
+      "definitionPt": "o passeio, a caminhada",
       "definitionFr": "Marche agréable pour se détendre.",
       "inflections": ["la promenade", "une promenade", "des promenades"],
       "ptTargets": ["passeio", "caminhada"],
       "examples": [
-        { "level": "A1", "fr": "Nous faisons une promenade au bord du canal.", "pt": "Nós fazemos um passeio na margem do canal." },
+        { "level": "A1", "fr": "Je fais une promenade au bord du canal.", "pt": "Eu faço um passeio na margem do canal." },
         { "level": "A2-B1", "fr": "Une promenade au bord de l'eau est agréable.", "pt": "Um passeio à beira da água é agradável." },
         { "level": "B2", "fr": "Cette promenade offre une belle vue sur les ponts.", "pt": "Este passeio oferece uma bela vista das pontes." },
         { "level": "C1-C2", "fr": "La promenade du dimanche est une tradition familiale.", "pt": "O passeio de domingo é uma tradição familiar." }
       ]
     },
     {
-      "term": "canal",
-      "definitionPt": "canal",
+      "term": "le canal",
+      "definitionPt": "o canal",
       "definitionFr": "Voie d'eau creusée par l'homme pour la navigation.",
       "inflections": ["le canal", "un canal", "des canaux"],
       "ptTargets": ["canal"],
@@ -58,21 +63,21 @@
       ]
     },
     {
-      "term": "pont",
-      "definitionPt": "ponte",
+      "term": "le pont",
+      "definitionPt": "a ponte",
       "definitionFr": "Ouvrage qui permet de traverser une rivière ou un canal.",
       "inflections": ["le pont", "un pont", "des ponts"],
       "ptTargets": ["ponte"],
       "examples": [
         { "level": "A1", "fr": "Les ponts sont jolis.", "pt": "As pontes são bonitas." },
-        { "level": "A2-B1", "fr": "Nous traversons le pont ensemble.", "pt": "Nós atravessamos a ponte juntos." },
+        { "level": "A2-B1", "fr": "Je traverse le pont pour aller de l'autre côté.", "pt": "Eu atravesso a ponte para ir para o outro lado." },
         { "level": "B2", "fr": "Ce pont relie les deux rives du canal.", "pt": "Esta ponte liga as duas margens do canal." },
         { "level": "C1-C2", "fr": "Chaque pont de Paris raconte une page d'histoire.", "pt": "Cada ponte de Paris conta uma página da história." }
       ]
     },
     {
-      "term": "bateau",
-      "definitionPt": "barco",
+      "term": "le bateau",
+      "definitionPt": "o barco",
       "definitionFr": "Véhicule qui flotte et navigue sur l'eau.",
       "inflections": ["le bateau", "un bateau", "des bateaux"],
       "ptTargets": ["barco"],
@@ -84,8 +89,8 @@
       ]
     },
     {
-      "term": "arbre",
-      "definitionPt": "árvore",
+      "term": "l'arbre",
+      "definitionPt": "a árvore",
       "definitionFr": "Grande plante avec un tronc et des branches.",
       "inflections": ["l'arbre", "un arbre", "des arbres"],
       "ptTargets": ["árvore"],
@@ -97,8 +102,8 @@
       ]
     },
     {
-      "term": "eau",
-      "definitionPt": "água",
+      "term": "l'eau",
+      "definitionPt": "a água",
       "definitionFr": "Liquide transparent qui couvre les rivières et les mers.",
       "inflections": ["l'eau", "de l'eau"],
       "ptTargets": ["água"],
@@ -110,15 +115,15 @@
       ]
     },
     {
-      "term": "canard",
-      "definitionPt": "pato",
+      "term": "le canard",
+      "definitionPt": "o pato",
       "definitionFr": "Oiseau aquatique au bec plat et large.",
       "inflections": ["le canard", "un canard", "des canards"],
       "ptTargets": ["pato"],
       "examples": [
         { "level": "A1", "fr": "Les canards nagent sur l'eau.", "pt": "Os patos nadam na água." },
-        { "level": "A2-B1", "fr": "Íris donne du pain aux canards.", "pt": "Íris dá pão aos patos." },
-        { "level": "B2", "fr": "Les canards du canal amusent les enfants.", "pt": "Os patos do canal divertem as crianças." },
+        { "level": "A2-B1", "fr": "Les enfants donnent du pain aux canards.", "pt": "As crianças dão pão aos patos." },
+        { "level": "B2", "fr": "Les canards du canal amusent les promeneurs.", "pt": "Os patos do canal divertem os passeantes." },
         { "level": "C1-C2", "fr": "Les canards colverts sont devenus familiers des parcs parisiens.", "pt": "Os patos-reais tornaram-se familiares dos parques parisienses." }
       ]
     },
@@ -136,8 +141,21 @@
       ]
     },
     {
-      "term": "lumière",
-      "definitionPt": "luz",
+      "term": "la rivière",
+      "definitionPt": "o rio",
+      "definitionFr": "Cours d'eau naturel qui se jette dans une autre rivière ou dans la mer.",
+      "inflections": ["la rivière", "une rivière", "des rivières"],
+      "ptTargets": ["rio"],
+      "examples": [
+        { "level": "A1", "fr": "La rivière est près de ma ville.", "pt": "O rio fica perto da minha cidade." },
+        { "level": "A2-B1", "fr": "La rivière de Jaguaquara traverse la région de Bahia.", "pt": "O rio de Jaguaquara atravessa a região da Bahia." },
+        { "level": "B2", "fr": "Les rivières dessinent les paysages et les frontières naturelles.", "pt": "Os rios desenham as paisagens e as fronteiras naturais." },
+        { "level": "C1-C2", "fr": "Suivre le cours d'une rivière, c'est lire une carte vivante du territoire.", "pt": "Seguir o curso de um rio é ler um mapa vivo do território." }
+      ]
+    },
+    {
+      "term": "la lumière",
+      "definitionPt": "a luz",
       "definitionFr": "Ce qui éclaire les objets et permet de voir.",
       "inflections": ["la lumière", "une lumière", "des lumières"],
       "ptTargets": ["luz"],
@@ -168,20 +186,20 @@
       "inflections": ["content", "contente", "contents"],
       "ptTargets": ["contente", "satisfeito"],
       "examples": [
-        { "level": "A1", "fr": "Nous sommes contents.", "pt": "Nós estamos contentes." },
-        { "level": "A2-B1", "fr": "Íris est contente de voir les canards.", "pt": "Íris está contente de ver os patos." },
-        { "level": "B2", "fr": "Irlan est content de retrouver son quartier.", "pt": "Irlan está contente de reencontrar seu bairro." },
+        { "level": "A1", "fr": "Je suis content.", "pt": "Eu estou contente." },
+        { "level": "A2-B1", "fr": "Il est content de retrouver son quartier.", "pt": "Ele está contente de reencontrar seu bairro." },
+        { "level": "B2", "fr": "Nous sommes contents de notre nouvelle vie.", "pt": "Nós estamos contentes com a nossa nova vida." },
         { "level": "C1-C2", "fr": "Rien ne rend plus content que de partager un bon moment.", "pt": "Nada deixa mais contente do que compartilhar um bom momento." }
       ]
     },
     {
-      "term": "terrasse",
-      "definitionPt": "terraço",
+      "term": "la terrasse",
+      "definitionPt": "o terraço",
       "definitionFr": "Espace extérieur d'un café ou d'un restaurant.",
       "inflections": ["la terrasse", "une terrasse", "des terrasses"],
       "ptTargets": ["terraço"],
       "examples": [
-        { "level": "A1", "fr": "Nous prenons un café sur une terrasse.", "pt": "Nós tomamos um café em um terraço." },
+        { "level": "A1", "fr": "Je prends un café sur une terrasse.", "pt": "Eu tomo um café em um terraço." },
         { "level": "A2-B1", "fr": "La terrasse du café est au bord du canal.", "pt": "O terraço do café fica na margem do canal." },
         { "level": "B2", "fr": "Les terrasses parisiennes se remplissent au printemps.", "pt": "Os terraços parisienses se enchem na primavera." },
         { "level": "C1-C2", "fr": "La terrasse est un lieu emblématique de la vie parisienne.", "pt": "O terraço é um lugar emblemático da vida parisiense." }
@@ -191,17 +209,17 @@
   "grammarTip": {
     "ruleTitle": "Les prépositions de lieu (au bord de, sur, dans, près de)",
     "explanationPt": "No texto aparecem 'au bord du canal', 'sur l'eau', 'dans ces rues'. As preposições de lugar indicam posição: sur (sobre), dans (em/dentro), près de (perto de), au bord de (na margem de).",
-    "exampleFr": "Nous marchons au bord du canal et nous prenons un café sur la terrasse.",
-    "examplePt": "Nós caminhamos na margem do canal e tomamos um café no terraço.",
+    "exampleFr": "Je me promène au bord du canal et je prends un café sur la terrasse.",
+    "examplePt": "Eu passeio na margem do canal e tomo um café no terraço.",
     "practiceQuestion": "Complete: 'Les canards nagent _____ l'eau.'",
     "options": ["sur", "dans", "près de"],
     "correctIndex": 0,
     "points": [
       {
         "ruleTitle": "Les prépositions de lieu",
-        "explanationPt": "'Sur' = sobre (sur l'eau, sur la table); 'dans' = dentro (dans la rue); 'près de' = perto de; 'au bord de' = na margem de (au bord du canal).",
-        "exampleFr": "Nous marchons au bord du canal et nous prenons un café sur la terrasse.",
-        "examplePt": "Nós caminhamos na margem do canal e tomamos um café no terraço.",
+        "explanationPt": "'Sur' = sobre (sur l'eau); 'dans' = dentro (dans la rue); 'près de' = perto de; 'au bord de' = na margem de (au bord du canal).",
+        "exampleFr": "Je me promène au bord du canal et je prends un café sur la terrasse.",
+        "examplePt": "Eu passeio na margem do canal e tomo um café no terraço.",
         "practiceQuestion": "Complete: 'Le café est _____ de la maison.'",
         "options": ["près", "sur", "dans"],
         "correctIndex": 0
@@ -225,14 +243,14 @@
       "explanation": "No texto: 'Le canal traverse le quartier.' (O canal atravessa o bairro.)"
     },
     {
-      "question": "Ordene corretamente as palavras da frase: [ les / canards / adore / sur / l'eau / Íris ]",
+      "question": "O que o canal lembra a Irlan?",
       "options": [
-        "Íris adore les canards sur l'eau.",
-        "Les canards adore Íris sur l'eau.",
-        "Sur l'eau Íris les canards adore."
+        "A rivière de Jaguaquara, no Brasil",
+        "O mar de Nice",
+        "O rio Sena em Paris"
       ],
       "correctIndex": 0,
-      "explanation": "A frase exata do texto é 'Íris adore les canards sur l'eau.'"
+      "explanation": "No texto: 'Le canal me rappelle la rivière de Jaguaquara, au Brésil.'"
     },
     {
       "question": "Como se traduz: 'Eu conheço bem este bairro'?",
@@ -257,12 +275,12 @@
     {
       "question": "Por que Irlan conhece bem o bairro do Canal Saint-Martin?",
       "options": [
-        "Porque ele entregava refeições de scooter nessas ruas",
+        "Porque ele entrega refeições de scooter nessas ruas todos os dias",
         "Porque ele nasceu nesse bairro",
         "Porque ele trabalha como professor nesse bairro"
       ],
       "correctIndex": 0,
-      "explanation": "No texto: 'Avant, je livre des repas en scooter dans ces rues.' (Antes, eu entregava refeições de scooter nessas ruas.)"
+      "explanation": "No texto: 'Je livre des repas en scooter dans ces rues chaque jour.'"
     }
   ]
 }
