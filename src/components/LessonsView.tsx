@@ -55,6 +55,7 @@ import parisLesson48Data from '../data/paris_lesson_48.json';
 import parisLesson49Data from '../data/paris_lesson_49.json';
 import parisLesson50Data from '../data/paris_lesson_50.json';
 import parisLesson51Data from '../data/paris_lesson_51.json';
+import parisLesson52Data from '../data/paris_lesson_52.json';
 import amiensLesson1Data from '../data/amiens_lesson_1.json';
 import lilleLesson1Data from '../data/lille_lesson_1.json';
 import montSaintMichelLesson1Data from '../data/mont_saint_michel_lesson_1.json';
@@ -521,6 +522,7 @@ const PARIS_OFFICIAL_LESSONS = [
   parisLesson49Data,
   parisLesson50Data,
   parisLesson51Data,
+  parisLesson52Data,
 ];
 const AMIENS_OFFICIAL_LESSONS = [
   amiensLesson1Data,
