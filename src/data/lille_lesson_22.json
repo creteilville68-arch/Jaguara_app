@@ -1,252 +1,292 @@
 {
   "id": "lille_lesson_22",
   "cityId": "lille",
-  "domain": "Cotidiano",
+  "domain": "História",
   "level": "Básico (A2)",
-  "titleFr": "La routine de la famille à Lille",
-  "titlePt": "A rotina da família em Lille",
-  "subtitleFr": "Se lever, déjeuner, se coucher : les jours du Nord",
-  "subtitlePt": "Levantar, almoçar, dormir: os dias do Norte",
-  "summaryPt": "Nesta Aula 22 (A2), acompanhamos um dia comum da família em Lille: Irlan acorda cedo, leva Íris à escola, Andréa trabalha e à noite jantam juntos. O aluno pratica os verbos pronominais no presente (je me lève, nous nous couchons) e as horas e rotinas do dia a dia.",
+  "titleFr": "Les archives du port : le nom de Rocha de Oliveira",
+  "titlePt": "Os arquivos do porto: o nome de Rocha de Oliveira",
+  "subtitleFr": "Dans le registre de 1904, un nom brésilien attend depuis plus d'un siècle",
+  "subtitlePt": "No registro de 1904, um nome brasileiro espera há mais de um século",
+  "summaryPt": "Nesta Aula 22 (A2), Irlan e Andréa chegam aos arquivos do porto de Lille e encontram o registo dos navios de 1904. Num canto de página, aparece pela primeira vez o nome de Manoel Rocha de Oliveira, geógrafo baiano — com uma flor-de-lis desenhada ao lado. Mas o arquivista fecha as portas mais cedo do que devia. O aluno pratica as datas e os anos (en 1904) e o Passé Composé com avoir.",
   "paragraphs": [
     {
       "id": 1,
-      "fr": "Chaque matin, Irlan se lève à six heures et demie. Il prépare le café, puis il se douche. « Je me lève tôt, comme quand j'étais livreur », dit-il en riant.",
-      "pt": "Todas as manhãs, Irlan se levanta às seis e meia. Ele prepara o café, depois toma banho. « Me levanto cedo, como quando era entregador », diz ele rindo."
+      "fr": "Le bâtiment des archives du port était vieux et gris. À l'intérieur, l'odeur du papier ancien remplissait les couloirs. « C'est ici que tout est gardé », a dit l'archiviste.",
+      "pt": "O prédio dos arquivos do porto era velho e cinza. Lá dentro, o cheiro de papel antigo enchia os corredores. « É aqui que tudo é guardado », disse o arquivista."
     },
     {
       "id": 2,
-      "fr": "À sept heures et quart, il réveille Íris. Elle se lave le visage, s'habille et prend son petit-déjeuner. « Dépêche-toi, ma chérie, l'école commence à huit heures ! »",
-      "pt": "Às sete e quinze, ele acorda Íris. Ela lava o rosto, se veste e toma o café da manhã. « Anda logo, minha querida, a escola começa às oito! »"
+      "fr": "« Nous cherchons le registre des bateaux de 1904 », a demandé Irlan. L'archiviste a relevé la tête. « 1904 ? C'est une année très demandée ces derniers temps. »",
+      "pt": "« Procuramos o registro dos navios de 1904 », pediu Irlan. O arquivista ergueu a cabeça. « 1904? É um ano muito procurado ultimamente. »"
     },
     {
       "id": 3,
-      "fr": "Andréa travaille à la bibliothèque de la ville. « Je me couche souvent tard », dit-elle. « Mais le week-end, nous nous promenons tous ensemble dans la Citadelle. »",
-      "pt": "Andréa trabalha na biblioteca da cidade. « Costumo me deitar tarde », diz ela. « Mas no fim de semana, passeamos todos juntos na Citadelle. »"
+      "fr": "Andréa a serré la main d'Irlan. « Quelqu'un d'autre est venu ? » L'archiviste a hoché la tête, sans répondre, puis il a montré l'escalier.",
+      "pt": "Andréa apertou a mão de Irlan. « Outra pessoa veio? » O arquivista acenou com a cabeça, sem responder, e depois apontou a escada."
     },
     {
       "id": 4,
-      "fr": "Le soir, la famille se retrouve autour de la table. « La routine du Nord est simple, mais elle est pleine de douceur », conclut Irlan. « On s'aime, c'est l'essentiel. »",
-      "pt": "À noite, a família se reúne à mesa. « A rotina do Norte é simples, mas é cheia de doçura », conclui Irlan. « Nós nos amamos, isso é o essencial. »"
+      "fr": "Dans la grande salle, des caisses en bois portaient des numéros. Irlan a ouvert le registre de 1904 avec des mains tremblantes. La poussière a volé dans la lumière.",
+      "pt": "Na grande sala, caixas de madeira traziam números. Irlan abriu o registro de 1904 com as mãos trêmulas. A poeira voou na luz."
+    },
+    {
+      "id": 5,
+      "fr": "Les pages étaient remplies de noms, de dates et de marchandises. « Du café, du cacao, du sucre... », lisait Andréa. « Des bateaux partaient de Lille vers le monde entier. »",
+      "pt": "As páginas estavam cheias de nomes, datas e mercadorias. « Café, cacau, açúcar... », lia Andréa. « Navios partiam de Lille para o mundo inteiro. »"
+    },
+    {
+      "id": 6,
+      "fr": "Soudain, Irlan s'est arrêté. Au bas d'une page, une écriture fine et penchée : « Manoel Rocha de Oliveira — géographe, Bahia, Brésil. »",
+      "pt": "De repente, Irlan parou. No pé de uma página, uma caligrafia fina e inclinada: « Manoel Rocha de Oliveira — geógrafo, Bahia, Brasil. »"
+    },
+    {
+      "id": 7,
+      "fr": "« C'est lui », a murmuré Irlan. « Le géographe brésilien de l'Atlas. Il a travaillé ici, à Lille, en 1904. »",
+      "pt": "« É ele », murmurou Irlan. « O geógrafo brasileiro do Atlas. Ele trabalhou aqui, em Lille, em 1904. »"
+    },
+    {
+      "id": 8,
+      "fr": "Andréa a approché la page de la lampe. À côté du nom, il y avait un petit dessin : une fleur de lys, la même que dans l'Atlas.",
+      "pt": "Andréa aproximou a página da lâmpada. Ao lado do nome, havia um pequeno desenho: uma flor-de-lis, a mesma do Atlas."
+    },
+    {
+      "id": 9,
+      "fr": "Irlan a recopié le nom sur un papier. « Rocha de Oliveira. C'est la première fois que son nom apparaît hors de l'Atlas. »",
+      "pt": "Irlan copiou o nome num papel. « Rocha de Oliveira. É a primeira vez que o nome dele aparece fora do Atlas. »"
+    },
+    {
+      "id": 10,
+      "fr": "L'archiviste est revenu, pressé. « Il faut partir maintenant. On ferme plus tôt aujourd'hui. » Irlan a regardé l'horloge : il n'était que trois heures.",
+      "pt": "O arquivista voltou, apressado. « Precisam sair agora. Hoje fechamos mais cedo. » Irlan olhou o relógio: eram apenas três horas."
+    },
+    {
+      "id": 11,
+      "fr": "« Mais il est trop tôt », a protesté Andréa. L'archiviste a baissé les yeux. « Je suis désolé. Ce sont les ordres. »",
+      "pt": "« Mas é cedo demais », protestou Andréa. O arquivista baixou os olhos. « Sinto muito. São as ordens. »"
+    },
+    {
+      "id": 12,
+      "fr": "Dehors, sous la pluie, une voiture grise attendait, moteur allumé. Dans la vitre, une silhouette a levé la tête, puis a souri lentement.",
+      "pt": "Lá fora, sob a chuva, um carro cinza esperava, com o motor ligado. No vidro, uma silhueta ergueu a cabeça e depois sorriu devagar."
     }
   ],
   "vocabularyDictionary": [
     {
-      "term": "se lever",
-      "definitionPt": "levantar-se",
-      "definitionFr": "Se mettre debout ; sortir du lit.",
-      "inflections": ["je me lève", "nous nous levons", "levé"],
-      "ptTargets": ["levantar-se", "acordar"],
+      "term": "les archives",
+      "definitionPt": "os arquivos",
+      "definitionFr": "Lieu ou ensemble de documents anciens conservés.",
+      "inflections": ["l'archive", "les archives", "archiviste"],
+      "ptTargets": ["arquivos", "arquivo"],
       "examples": [
-        { "level": "A1", "fr": "Je me lève à sept heures.", "pt": "Levanto-me às sete horas." },
-        { "level": "A2-B1", "fr": "Irlan se lève à six heures et demie.", "pt": "Irlan se levanta às seis e meia." },
-        { "level": "B2", "fr": "Elle s'est levée tôt pour préparer le petit-déjeuner.", "pt": "Ela se levantou cedo para preparar o café da manhã." },
-        { "level": "C1-C2", "fr": "Se lever avant le soleil, c'est le secret des gens du Nord.", "pt": "Levantar-se antes do sol é o segredo do povo do Norte." }
+        { "level": "A1", "fr": "Les archives sont vieilles.", "pt": "Os arquivos são antigos." },
+        { "level": "A2-B1", "fr": "Les archives du port gardent des documents de 1904.", "pt": "Os arquivos do porto guardam documentos de 1904." },
+        { "level": "B2", "fr": "L'archiviste a sorti le registre des étagères poussiéreuses.", "pt": "O arquivista tirou o registro das prateleiras empoeiradas." },
+        { "level": "C1-C2", "fr": "Les archives sont la mémoire silencieuse d'une ville.", "pt": "Os arquivos são a memória silenciosa de uma cidade." }
       ]
     },
     {
-      "term": "se doucher",
-      "definitionPt": "tomar banho (de chuveiro)",
-      "definitionFr": "Prendre une douche.",
-      "inflections": ["je me douche", "nous nous douchons", "douché"],
-      "ptTargets": ["tomar banho"],
+      "term": "le port",
+      "definitionPt": "o porto",
+      "definitionFr": "Lieu où accostent les bateaux.",
+      "inflections": ["le port", "un port", "des ports"],
+      "ptTargets": ["porto"],
       "examples": [
-        { "level": "A1", "fr": "Je me douche le matin.", "pt": "Tomo banho de manhã." },
-        { "level": "A2-B1", "fr": "Irlan se douche après le café.", "pt": "Irlan toma banho depois do café." },
-        { "level": "B2", "fr": "Elle s'est douchée avant de sortir.", "pt": "Ela tomou banho antes de sair." },
-        { "level": "C1-C2", "fr": "Se doucher à l'eau froide, dit-on, réveille l'esprit du Nord.", "pt": "Tomar banho de água fria, dizem, desperta o espírito do Norte." }
+        { "level": "A1", "fr": "Le port est près de la mer.", "pt": "O porto fica perto do mar." },
+        { "level": "A2-B1", "fr": "Le port de Lille garde les journaux des bateaux.", "pt": "O porto de Lille guarda os diários dos navios." },
+        { "level": "B2", "fr": "Le port reliait la ville aux marchés du monde entier.", "pt": "O porto ligava a cidade aos mercados do mundo inteiro." },
+        { "level": "C1-C2", "fr": "Un port n'est pas seulement un quai : c'est une porte ouverte sur l'ailleurs.", "pt": "Um porto não é apenas um cais: é uma porta aberta para o além." }
       ]
     },
     {
-      "term": "s'habiller",
-      "definitionPt": "vestir-se",
-      "definitionFr": "Mettre ses vêtements.",
-      "inflections": ["je m'habille", "nous nous habillons", "habillé"],
-      "ptTargets": ["vestir-se"],
+      "term": "le registre",
+      "definitionPt": "o registro",
+      "definitionFr": "Cahier officiel où l'on note des informations.",
+      "inflections": ["le registre", "un registre", "des registres"],
+      "ptTargets": ["registro", "registo"],
       "examples": [
-        { "level": "A1", "fr": "Je m'habille vite.", "pt": "Visto-me rápido." },
-        { "level": "A2-B1", "fr": "Íris s'habille toute seule.", "pt": "Íris se veste sozinha." },
-        { "level": "B2", "fr": "Elle s'est habillée chaudement pour l'hiver.", "pt": "Ela se vestiu bem agasalhada para o inverno." },
-        { "level": "C1-C2", "fr": "S'habiller le matin, c'est choisir le personnage du jour.", "pt": "Vestir-se de manhã é escolher o personagem do dia." }
+        { "level": "A1", "fr": "Le registre est sur la table.", "pt": "O registro está sobre a mesa." },
+        { "level": "A2-B1", "fr": "Irlan a ouvert le registre des bateaux.", "pt": "Irlan abriu o registro dos navios." },
+        { "level": "B2", "fr": "Le registre de 1904 est conservé dans une caisse en bois.", "pt": "O registro de 1904 é conservado numa caixa de madeira." },
+        { "level": "C1-C2", "fr": "Chaque registre est un témoin qui a traversé les siècles sans se plaindre.", "pt": "Cada registro é uma testemunha que atravessou os séculos sem se queixar." }
       ]
     },
     {
-      "term": "se laver",
-      "definitionPt": "lavar-se",
-      "definitionFr": "Nettoyer son corps.",
-      "inflections": ["je me lave", "nous nous lavons", "lavé"],
-      "ptTargets": ["lavar-se"],
+      "term": "la caisse",
+      "definitionPt": "a caixa",
+      "definitionFr": "Boîte, souvent en bois, pour ranger ou transporter.",
+      "inflections": ["la caisse", "une caisse", "des caisses"],
+      "ptTargets": ["caixa", "caixote"],
       "examples": [
-        { "level": "A1", "fr": "Je me lave les mains.", "pt": "Lavo as mãos." },
-        { "level": "A2-B1", "fr": "Íris se lave le visage chaque matin.", "pt": "Íris lava o rosto todas as manhãs." },
-        { "level": "B2", "fr": "Elle s'est lavé les cheveux avant l'école.", "pt": "Ela lavou o cabelo antes da escola." },
-        { "level": "C1-C2", "fr": "Se laver au son de l'eau, c'est le rituel de chaque matin du Nord.", "pt": "Lavar-se ao som da água é o ritual de cada manhã do Norte." }
+        { "level": "A1", "fr": "La caisse est lourde.", "pt": "A caixa é pesada." },
+        { "level": "A2-B1", "fr": "Les caisses en bois portaient des numéros.", "pt": "As caixas de madeira traziam números." },
+        { "level": "B2", "fr": "L'archiviste a transporté la caisse jusqu'à la grande salle.", "pt": "O arquivista transportou a caixa até a grande sala." },
+        { "level": "C1-C2", "fr": "Dans les caisses du port dormaient les histoires de milliers de marins.", "pt": "Nas caixas do porto dormiam as histórias de milhares de marinheiros." }
       ]
     },
     {
-      "term": "se coucher",
-      "definitionPt": "deitar-se, ir dormir",
-      "definitionFr": "Se mettre au lit.",
-      "inflections": ["je me couche", "nous nous couchons", "couché"],
-      "ptTargets": ["deitar-se", "ir dormir"],
+      "term": "la marchandise",
+      "definitionPt": "a mercadoria",
+      "definitionFr": "Produit que l'on vend ou transporte.",
+      "inflections": ["la marchandise", "une marchandise", "des marchandises"],
+      "ptTargets": ["mercadoria"],
       "examples": [
-        { "level": "A1", "fr": "Je me couche à dix heures.", "pt": "Deito-me às dez horas." },
-        { "level": "A2-B1", "fr": "Andréa se couche souvent tard.", "pt": "Andréa costuma se deitar tarde." },
-        { "level": "B2", "fr": "Les enfants se sont couchés après l'histoire.", "pt": "As crianças se deitaram depois da história." },
-        { "level": "C1-C2", "fr": "Se coucher avec un livre, c'est la plus douce des fins de journée.", "pt": "Deitar-se com um livro é o fim de dia mais doce." }
+        { "level": "A1", "fr": "La marchandise est chère.", "pt": "A mercadoria é cara." },
+        { "level": "A2-B1", "fr": "Le registre liste les marchandises des bateaux.", "pt": "O registro lista as mercadorias dos navios." },
+        { "level": "B2", "fr": "Du café, du cacao et du sucre étaient les marchandises du port.", "pt": "Café, cacau e açúcar eram as mercadorias do porto." },
+        { "level": "C1-C2", "fr": "La marchandise voyage, mais ce sont les hommes qui laissent des traces.", "pt": "A mercadoria viaja, mas são os homens que deixam rastros." }
       ]
     },
     {
-      "term": "le petit-déjeuner",
-      "definitionPt": "o café da manhã",
-      "definitionFr": "Premier repas de la journée.",
-      "inflections": ["le petit-déjeuner", "un petit-déjeuner", "des petits-déjeuners"],
-      "ptTargets": ["café da manhã", "pequeno-almoço"],
+      "term": "la date",
+      "definitionPt": "a data",
+      "definitionFr": "Indication du jour, du mois et de l'année.",
+      "inflections": ["la date", "une date", "des dates"],
+      "ptTargets": ["data"],
       "examples": [
-        { "level": "A1", "fr": "Le petit-déjeuner est à huit heures.", "pt": "O café da manhã é às oito horas." },
-        { "level": "A2-B1", "fr": "Íris prend son petit-déjeuner avant l'école.", "pt": "Íris toma o café da manhã antes da escola." },
-        { "level": "B2", "fr": "Le petit-déjeuner français est simple : café, pain et beurre.", "pt": "O café da manhã francês é simples: café, pão e manteiga." },
-        { "level": "C1-C2", "fr": "Le petit-déjeuner en famille est le seul rendez-vous du matin qui ne se rate pas.", "pt": "O café da manhã em família é o único encontro da manhã que não se perde." }
+        { "level": "A1", "fr": "Quelle est la date ?", "pt": "Qual é a data?" },
+        { "level": "A2-B1", "fr": "La date de 1904 revient souvent dans le registre.", "pt": "A data de 1904 volta muitas vezes no registro." },
+        { "level": "B2", "fr": "Chaque date du registre raconte un départ ou une arrivée.", "pt": "Cada data do registro conta uma partida ou uma chegada." },
+        { "level": "C1-C2", "fr": "Une date n'est rien sans la mémoire qu'elle réveille.", "pt": "Uma data não é nada sem a memória que ela desperta." }
       ]
     },
     {
-      "term": "l'école",
-      "definitionPt": "a escola",
-      "definitionFr": "Établissement où l'on enseigne.",
-      "inflections": ["l'école", "une école", "des écoles"],
-      "ptTargets": ["escola"],
+      "term": "le nom",
+      "definitionPt": "o nome",
+      "definitionFr": "Mot qui désigne une personne.",
+      "inflections": ["le nom", "un nom", "des noms"],
+      "ptTargets": ["nome"],
       "examples": [
-        { "level": "A1", "fr": "L'école commence à huit heures.", "pt": "A escola começa às oito." },
-        { "level": "A2-B1", "fr": "Irlan accompagne Íris à l'école.", "pt": "Irlan acompanha Íris à escola." },
-        { "level": "B2", "fr": "L'école de quartier est à dix minutes de la maison.", "pt": "A escola do bairro fica a dez minutos de casa." },
-        { "level": "C1-C2", "fr": "L'école est le premier monde que les enfants explorent seuls.", "pt": "A escola é o primeiro mundo que as crianças exploram sozinhas." }
+        { "level": "A1", "fr": "Mon nom est Andréa.", "pt": "Meu nome é Andréa." },
+        { "level": "A2-B1", "fr": "Irlan a trouvé un nom brésilien dans le registre.", "pt": "Irlan encontrou um nome brasileiro no registro." },
+        { "level": "B2", "fr": "Le nom de Rocha de Oliveira apparaissait pour la première fois.", "pt": "O nome de Rocha de Oliveira aparecia pela primeira vez." },
+        { "level": "C1-C2", "fr": "Un nom oublié peut redevenir vivant quand quelqu'un le prononce.", "pt": "Um nome esquecido pode voltar a viver quando alguém o pronuncia." }
       ]
     },
     {
-      "term": "la bibliothèque",
-      "definitionPt": "a biblioteca",
-      "definitionFr": "Lieu où l'on conserve des livres.",
-      "inflections": ["la bibliothèque", "une bibliothèque", "des bibliothèques"],
-      "ptTargets": ["biblioteca"],
+      "term": "le papier",
+      "definitionPt": "o papel",
+      "definitionFr": "Feuille mince sur laquelle on écrit.",
+      "inflections": ["le papier", "un papier", "des papiers"],
+      "ptTargets": ["papel"],
       "examples": [
-        { "level": "A1", "fr": "La bibliothèque est grande.", "pt": "A biblioteca é grande." },
-        { "level": "A2-B1", "fr": "Andréa travaille à la bibliothèque de la ville.", "pt": "Andréa trabalha na biblioteca da cidade." },
-        { "level": "B2", "fr": "La bibliothèque de Lille est un joyau d'architecture.", "pt": "A biblioteca de Lille é uma joia de arquitetura." },
-        { "level": "C1-C2", "fr": "Dans une bibliothèque, chaque livre est une porte vers un autre monde.", "pt": "Numa biblioteca, cada livro é uma porta para outro mundo." }
+        { "level": "A1", "fr": "Le papier est blanc.", "pt": "O papel é branco." },
+        { "level": "A2-B1", "fr": "Irlan a recopié le nom sur un papier.", "pt": "Irlan copiou o nome num papel." },
+        { "level": "B2", "fr": "Le papier jauni du registre craquait sous les doigts.", "pt": "O papel amarelado do registro estalava sob os dedos." },
+        { "level": "C1-C2", "fr": "Le papier fragile porte des vérités plus solides que la pierre.", "pt": "O papel frágil carrega verdades mais sólidas que a pedra." }
       ]
     },
     {
-      "term": "ensemble",
-      "definitionPt": "juntos",
-      "definitionFr": "Les uns avec les autres.",
-      "inflections": ["ensemble", "tous ensemble", "ensemble, c'est tout"],
-      "ptTargets": ["juntos", "em conjunto"],
+      "term": "la poussière",
+      "definitionPt": "a poeira",
+      "definitionFr": "Fine poudre qui se dépose sur les objets.",
+      "inflections": ["la poussière", "une poussière", "des poussières"],
+      "ptTargets": ["poeira"],
       "examples": [
-        { "level": "A1", "fr": "Nous mangeons ensemble.", "pt": "Comemos juntos." },
-        { "level": "A2-B1", "fr": "Le week-end, nous nous promenons ensemble.", "pt": "No fim de semana, passeamos juntos." },
-        { "level": "B2", "fr": "Ils ont préparé le repas ensemble, en riant.", "pt": "Eles prepararam a refeição juntos, rindo." },
-        { "level": "C1-C2", "fr": "Vivre ensemble, c'est apprendre à se connaître chaque jour un peu plus.", "pt": "Viver juntos é aprender a se conhecer cada dia um pouco mais." }
+        { "level": "A1", "fr": "La poussière est partout.", "pt": "A poeira está por toda parte." },
+        { "level": "A2-B1", "fr": "La poussière a volé quand Irlan a ouvert le registre.", "pt": "A poeira voou quando Irlan abriu o registro." },
+        { "level": "B2", "fr": "La poussière des archives collait aux doigts.", "pt": "A poeira dos arquivos grudava nos dedos." },
+        { "level": "C1-C2", "fr": "La poussière est la preuve que le temps est passé sans effacer l'essentiel.", "pt": "A poeira é a prova de que o tempo passou sem apagar o essencial." }
       ]
     },
     {
-      "term": "la douceur",
-      "definitionPt": "a doçura, a suavidade",
-      "definitionFr": "Caractère doux, agréable.",
-      "inflections": ["la douceur", "une douceur", "des douceurs"],
-      "ptTargets": ["doçura", "suavidade"],
+      "term": "le siècle",
+      "definitionPt": "o século",
+      "definitionFr": "Période de cent ans.",
+      "inflections": ["le siècle", "un siècle", "des siècles"],
+      "ptTargets": ["século"],
       "examples": [
-        { "level": "A1", "fr": "La douceur du miel.", "pt": "A doçura do mel." },
-        { "level": "A2-B1", "fr": "La routine est pleine de douceur.", "pt": "A rotina é cheia de doçura." },
-        { "level": "B2", "fr": "La douceur de vivre au Nord est un secret bien gardé.", "pt": "A doçura de viver no Norte é um segredo bem guardado." },
-        { "level": "C1-C2", "fr": "Dans la grisaille du Nord, les cœurs gardent une douceur inattendue.", "pt": "Na cinzenta paisagem do Norte, os corações guardam uma doçura inesperada." }
+        { "level": "A1", "fr": "Le siècle est long.", "pt": "O século é longo." },
+        { "level": "A2-B1", "fr": "Le registre a plus d'un siècle.", "pt": "O registro tem mais de um século." },
+        { "level": "B2", "fr": "Ce nom attendait depuis plus d'un siècle qu'on le redécouvre.", "pt": "Esse nome esperava há mais de um século para ser redescoberto." },
+        { "level": "C1-C2", "fr": "Un siècle suffit à oublier un homme, et une phrase suffit à le ramener.", "pt": "Um século basta para esquecer um homem, e uma frase basta para trazê-lo de volta." }
       ]
     },
     {
-      "term": "le réveil",
-      "definitionPt": "o despertar, o despertador",
-      "definitionFr": "Action de se réveiller ; appareil qui sonne.",
-      "inflections": ["le réveil", "un réveil", "des réveils"],
-      "ptTargets": ["despertar", "despertador"],
+      "term": "chercher",
+      "definitionPt": "procurar",
+      "definitionFr": "Essayer de trouver.",
+      "inflections": ["je cherche", "nous cherchons", "cherché"],
+      "ptTargets": ["procurar", "buscar"],
       "examples": [
-        { "level": "A1", "fr": "Le réveil sonne à six heures.", "pt": "O despertador toca às seis." },
-        { "level": "A2-B1", "fr": "Le réveil d'Irlan sonne très tôt.", "pt": "O despertador de Irlan toca muito cedo." },
-        { "level": "B2", "fr": "Le réveil du Nord est gris, mais l'accueil est chaud.", "pt": "O despertar do Norte é cinzento, mas o acolhimento é quente." },
-        { "level": "C1-C2", "fr": "Chaque réveil est une promesse de recommencer.", "pt": "Cada despertar é uma promessa de recomeçar." }
+        { "level": "A1", "fr": "Je cherche mes clés.", "pt": "Procuro minhas chaves." },
+        { "level": "A2-B1", "fr": "Ils cherchent le registre de 1904.", "pt": "Eles procuram o registro de 1904." },
+        { "level": "B2", "fr": "Nous avons cherché toute la matinée avant de trouver le nom.", "pt": "Procuramos a manhã inteira antes de achar o nome." },
+        { "level": "C1-C2", "fr": "Chercher, c'est déjà commencer à trouver.", "pt": "Procurar já é começar a encontrar." }
       ]
     },
     {
-      "term": "déjeuner",
-      "definitionPt": "almoçar",
-      "definitionFr": "Prendre le repas de midi.",
-      "inflections": ["je déjeune", "nous déjeunons", "déjeuné"],
-      "ptTargets": ["almoçar"],
+      "term": "la fleur de lys",
+      "definitionPt": "a flor-de-lis",
+      "definitionFr": "Motif héraldique en forme de lys stylisé.",
+      "inflections": ["la fleur de lys", "une fleur de lys", "des fleurs de lys"],
+      "ptTargets": ["flor-de-lis", "flor de lis"],
       "examples": [
-        { "level": "A1", "fr": "Je déjeune à midi.", "pt": "Almoço ao meio-dia." },
-        { "level": "A2-B1", "fr": "Andréa déjeune à la bibliothèque.", "pt": "Andréa almoça na biblioteca." },
-        { "level": "B2", "fr": "Nous avons déjeuné dans un petit estaminet.", "pt": "Almoçamos num pequeno estaminet." },
-        { "level": "C1-C2", "fr": "Déjeuner en famille le dimanche est une tradition française sacrée.", "pt": "Almoçar em família aos domingos é uma tradição francesa sagrada." }
+        { "level": "A1", "fr": "La fleur de lys est un symbole.", "pt": "A flor-de-lis é um símbolo." },
+        { "level": "A2-B1", "fr": "Il y avait une fleur de lys à côté du nom.", "pt": "Havia uma flor-de-lis ao lado do nome." },
+        { "level": "B2", "fr": "La fleur de lys dessinée reliait le registre à l'Atlas.", "pt": "A flor-de-lis desenhada ligava o registro ao Atlas." },
+        { "level": "C1-C2", "fr": "La fleur de lys, emblème des rois, devenait ici la signature d'un géographe oublié.", "pt": "A flor-de-lis, emblema dos reis, tornava-se aqui a assinatura de um geógrafo esquecido." }
       ]
     }
   ],
   "grammarTip": {
-    "ruleTitle": "Les verbes pronominaux au présent (je me lève, nous nous couchons)",
-    "explanationPt": "Os verbos pronominais têm pronome + verbo: 'je me lève' (levanto-me), 'tu te lèves', 'il/elle se lève', 'nous nous levons', 'vous vous levez', 'ils se lèvent'. O pronome muda com a pessoa.",
-    "exampleFr": "Je me lève, tu te lèves, nous nous levons à des heures différentes.",
-    "examplePt": "Eu me levanto, você se levanta, nós nos levantamos em horários diferentes.",
-    "practiceQuestion": "Complete: « Nous nous ___ à six heures. »",
-    "options": ["levons", "lève", "lèvent"],
+    "ruleTitle": "Les dates et les années : en 1904",
+    "explanationPt": "Para dizer anos em francês usa-se 'en' + ano: 'en 1904' (em 1904). Lê-se 'en dix-neuf cent quatre'. Para o século: 'le vingtième siècle' (século XX). Para uma data completa: 'le 12 mars 1904'.",
+    "exampleFr": "Manoel Rocha de Oliveira a travaillé au port de Lille en 1904.",
+    "examplePt": "Manoel Rocha de Oliveira trabalhou no porto de Lille em 1904.",
+    "practiceQuestion": "Complete: « Le géographe a travaillé ici ___ 1904. »",
+    "options": ["en", "à", "dans"],
     "correctIndex": 0,
     "points": [
       {
-        "ruleTitle": "Se laver, s'habiller : la routine du matin",
-        "explanationPt": "A rotina matinal usa pronominais: 'se laver' (lavar-se), 's'habiller' (vestir-se), 'se doucher' (tomar banho), 'se lever' (levantar-se). Ex.: 'je me lave le visage' (lavo o rosto), 'elle s'habille' (ela se veste).",
-        "exampleFr": "Íris se lave le visage, s'habille et se dépêche.",
-        "examplePt": "Íris lava o rosto, se veste e se apressa.",
-        "practiceQuestion": "Complete: « Elle ___ habille. »",
-        "options": ["s'", "se", "me"],
+        "ruleTitle": "Le Passé Composé avec avoir",
+        "explanationPt": "Para contar ações terminadas no passado: 'avoir' + particípio. 'J'ai trouvé' (achei), 'nous avons cherché' (procuramos), 'il a travaillé' (ele trabalhou). O particípio de -er termina em -é.",
+        "exampleFr": "Irlan a trouvé le nom dans le registre et Andréa a cherché la fleur de lys.",
+        "examplePt": "Irlan achou o nome no registro e Andréa procurou a flor-de-lis.",
+        "practiceQuestion": "Complete: « Nous avons ___ le registre. »",
+        "options": ["ouvert", "ouvrir", "ouvre"],
         "correctIndex": 0
       },
       {
-        "ruleTitle": "Les heures : quart, demie, moins le quart",
-        "explanationPt": "Horas: 'six heures et demie' (6h30), 'sept heures et quart' (7h15), 'huit heures moins le quart' (7h45), 'midi' (meio-dia), 'minuit' (meia-noite).",
-        "exampleFr": "Irlan se lève à six heures et demie et Íris se réveille à sept heures et quart.",
-        "examplePt": "Irlan se levanta às seis e meia e Íris acorda às sete e quinze.",
-        "practiceQuestion": "Como se diz 7h15?",
-        "options": ["sept heures et quart", "sept heures et demie", "sept heures moins le quart"],
+        "ruleTitle": "Chercher / trouver : le début et la fin de la recherche",
+        "explanationPt": "'Chercher' (procurar) é a ação; 'trouver' (achar) é o resultado. 'Nous cherchons le nom' (procuramos o nome) → 'nous avons trouvé le nom' (achamos o nome).",
+        "exampleFr": "Nous avons cherché le nom et nous l'avons trouvé au bas de la page.",
+        "examplePt": "Procuramos o nome e o achamos no pé da página.",
+        "practiceQuestion": "Complete: « Ils ont ___ le registre au premier étage. »",
+        "options": ["trouvé", "cherché", "trouver"],
         "correctIndex": 0
       }
     ]
   },
   "quizQuestions": [
     {
-      "question": "A que horas Irlan se levanta?",
-      "options": ["Às 6h30", "Às 8h", "Ao meio-dia"],
+      "question": "Onde Irlan e Andréa encontraram o registro de 1904?",
+      "options": ["Nos arquivos do porto de Lille", "Na catedral", "Numa livraria de Paris"],
       "correctIndex": 0,
-      "explanation": "Irlan se lève à six heures et demie (6h30), como nos tempos de livreur."
+      "explanation": "O registo dos navios de 1904 está nos arquivos do porto de Lille."
     },
     {
-      "question": "Complete: « Nous nous ___ à six heures. »",
-      "options": ["levons", "lève", "lèvent"],
+      "question": "Qual nome aparece pela primeira vez no registro?",
+      "options": ["Manoel Rocha de Oliveira", "Philippe Garnier", "Antoine Valmont"],
       "correctIndex": 0,
-      "explanation": "Com 'nous', usa-se 'nous nous levons'."
+      "explanation": "É a primeira vez que o nome de Manoel Rocha de Oliveira, o geógrafo baiano, aparece fora do Atlas."
     },
     {
-      "question": "Onde trabalha Andréa?",
-      "options": ["Na bibliothèque da cidade", "Num estaminet", "Na escola"],
+      "question": "Complete: « Il a travaillé au port ___ 1904. »",
+      "options": ["en", "à", "dans"],
       "correctIndex": 0,
-      "explanation": "Andréa trabalha na biblioteca da cidade de Lille."
+      "explanation": "Anos usam a preposição 'en': 'en 1904'."
     },
     {
-      "question": "O que Íris faz antes da escola?",
-      "options": ["Lava o rosto, se veste e toma café da manhã", "Vai de metrô sozinha", "Dorme até o meio-dia"],
+      "question": "O que havia desenhado ao lado do nome?",
+      "options": ["Uma flor-de-lis", "Uma onça", "Uma rosa dos ventos"],
       "correctIndex": 0,
-      "explanation": "Íris se lave le visage, s'habille et prend son petit-déjeuner antes das 8h."
+      "explanation": "Ao lado do nome havia uma fleur de lys, a mesma do Atlas."
     },
     {
-      "question": "O que a família faz no fim de semana?",
-      "options": ["Passeia junta na Citadelle", "Vai a Paris", "Fica em casa sem sair"],
+      "question": "Por que o arquivo fechou mais cedo?",
+      "options": ["Por ordens externas, sob pressão", "Porque chovia muito", "Porque era feriado"],
       "correctIndex": 0,
-      "explanation": "No fim de semana, a família se promène ensemble (passeia junta) na Citadelle."
+      "explanation": "O arquivista recebeu ordens para fechar cedo — sinal de pressão externa de Garnier."
     }
   ]
 }
