@@ -154,6 +154,27 @@ bun run lint       # typecheck (tsc --noEmit)
 `coverage` imprime o total encontrado, o que falta e o detalhamento por nível.
 Enquanto escreve, rode `bun run coverage` para ver o número subir.
 
+### Como o contador reconhece as palavras (matching morfológico)
+
+O contador **não exige a forma exata do dicionário** — ele reconhece o
+francês de verdade, palavra por palavra, nos textos:
+
+- **Conjugações:** `recevoir` conta com *reçoit*, *recevait*, *recevrai*, *reçu*...
+- **Verbos irregulares:** `aller` conta com *vais*, *va*, *allons*, *ira*...
+- **Plurais e femininos:** `actif` conta com *active*, *actifs*, *actives*;
+  `le marché` conta com *les marchés*, *au marché*, *du marché*...
+- **Elisões:** `écouter de la musique` conta com *j'écoute de la musique*;
+  `s'appeler` conta com *je m'appelle*, *elle s'appelle*...
+- **Reflexivos:** `se lever` conta com *je me lève*, *il se levait*, *nous nous levons*...
+- **Frases verbais:** `faire les courses` conta com *je fais les courses*,
+  *nous faisons les courses*...
+
+**Regra prática para a autoria:** escreva com naturalidade, como o
+francês realmente é falado. Se a palavra do worklist estiver no texto em
+qualquer forma flexionada, ela conta. Depois de cada remessa, rode
+`bun run coverage` para confirmar; se uma palavra continuar faltando,
+confira se ela aparece mesmo no texto (e não só na tradução pt).
+
 ## 7. Convenção de nomenclatura
 
 - Arquivo: `src/data/<cidade>_lesson_<N>.json` (sequencial por cidade).

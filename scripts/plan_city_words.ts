@@ -10,7 +10,7 @@
 import { readdirSync, readFileSync, writeFileSync } from 'fs';
 import { join } from 'path';
 import { getWordBankEntries } from '../src/data/wordBank';
-import { normalizeToLemma } from '../src/utils/lemmaHelper';
+import { buildNgramSet, fold, termIsCovered, tokenizeText } from '../src/utils/frenchMorphology';
 
 const DATA_DIR = join(process.cwd(), 'src', 'data');
 const OUT = join(process.cwd(), 'scripts', 'city_words_to_write.json');
@@ -29,30 +29,7 @@ const LEVEL_CITIES: Record<Level, string[]> = {
 
 const ALL_CITIES = ['paris', 'amiens', 'lille', 'mont-saint-michel', 'tours', 'bordeaux', 'toulouse', 'lyon', 'marseille', 'strasbourg', 'nice'];
 
-function fold(s: string): string {
-  return s
-    .toLowerCase()
-    .replace(/[’ʼ‘]/g, "'")
-    .normalize('NFD')
-    .replace(/[\u0300-\u036f]/g, '');
-}
-
-function stripArticles(s: string): string {
-  return s.replace(/^(le |la |les |l'|l’|un |une |des |du |de la |de l'|de l’|au |aux )/, '').trim();
-}
-
-function candidates(term: string): string[] {
-  const base = fold(term);
-  const lemma = fold(normalizeToLemma(term));
-  const out = new Set<string>();
-  for (const c of [base, lemma, stripArticles(base), stripArticles(lemma)]) {
-    if (c) out.add(c);
-  }
-  return Array.from(out);
-}
-
 // Concatenate every city's lesson text.
-const cityText: Record<string, string> = {};
 let globalText = '';
 for (const f of readdirSync(DATA_DIR).filter((f) => /_lesson_\d+\.json$/.test(f))) {
   let data: any;
@@ -61,17 +38,14 @@ for (const f of readdirSync(DATA_DIR).filter((f) => /_lesson_\d+\.json$/.test(f)
   } catch {
     continue;
   }
-  const cityId: string = data.cityId || '';
-  const frText = (data.paragraphs || []).map((p: any) => p.fr || '').join('\n');
-  cityText[cityId] = (cityText[cityId] || '') + '\n' + frText;
-  globalText += '\n' + frText;
+  globalText += '\n' + (data.paragraphs || []).map((p: any) => p.fr || '').join('\n');
 }
-const foldedGlobal = fold(globalText);
+const ngrams = buildNgramSet(tokenizeText(globalText));
 
-// Bank entries that do NOT appear anywhere yet.
+// Bank entries that do NOT appear anywhere yet (morphological matching).
 const allEntries = getWordBankEntries();
 const globallyMissing: Array<{ term: string; pt: string; level: string }> = allEntries
-  .filter((e) => !candidates(e.term).some((c) => foldedGlobal.includes(c)))
+  .filter((e) => !termIsCovered(e.term, ngrams))
   .map((e) => ({ term: e.term, pt: e.pt, level: LEVEL_ORDER.includes(e.level as Level) ? e.level : 'A1' }));
 
 // Group by level, stable order.

@@ -1,10 +1,10 @@
 # #11 Nice — C2
 
-**5146 palavras** ainda precisam aparecer nos textos das aulas desta cidade.
+**5161 palavras** ainda precisam aparecer nos textos das aulas desta cidade.
 
 Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aventura do Irlan.
 
-## C2 (5146)
+## C2 (5161)
 
 - [ ] **abâtardir** — abastardar
 - [ ] **abductif** — abdutivo
@@ -20,7 +20,6 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **accréditer** — acreditar / dar crédito
 - [ ] **acculturer** — aculturar
 - [ ] **acquis** — adquirido
-- [ ] **actionner** — acionar
 - [ ] **activiste** — ativista
 - [ ] **actuariel** — atuarial
 - [ ] **additif** — aditivo
@@ -37,7 +36,6 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **affectif** — afetivo
 - [ ] **affectueux** — afetuoso
 - [ ] **affermir sa position** — consolidar sua posição
-- [ ] **affiner** — refinar
 - [ ] **affirmatif** — afirmativo
 - [ ] **affleurer** — aflorar
 - [ ] **affouiller** — erodir (base)
@@ -45,7 +43,6 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **agglomérer** — aglomerar
 - [ ] **agonistique** — agonístico
 - [ ] **agréer** — aceitar; aprovar
-- [ ] **aiguiller** — direcionar; encaminhar
 - [ ] **aiguillonner** — esporar; estimular
 - [ ] **ajourné** — adiado
 - [ ] **alambiquer** — requintar demais
@@ -97,8 +94,6 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **arbitrer un différend** — arbitrar um diferendo
 - [ ] **arc-bouter** — escorar com arco
 - [ ] **archiépiscopal** — arcebispal
-- [ ] **architecturer** — arquitetar
-- [ ] **argenter** — pratear
 - [ ] **argotique** — gírio
 - [ ] **aride** — árido
 - [ ] **aristocratique** — aristocrático
@@ -179,7 +174,6 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **biunivoque** — biunívoco
 - [ ] **blasonner** — brasonar; descrever brasão
 - [ ] **blasphémer** — blasfemar
-- [ ] **bloquer** — bloquear
 - [ ] **boiser** — arborizar; revestir de madeira
 - [ ] **bonifier** — melhorar; bonificar
 - [ ] **bordurer** — orlar; contornar
@@ -192,16 +186,15 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **bouturer** — estaquear (planta)
 - [ ] **boycotter** — boicotar
 - [ ] **braiser** — brascar; cozinhar
+- [ ] **brasser** — misturar
 - [ ] **brasser des idées** — misturar ideias
 - [ ] **brider** — refrear
 - [ ] **brigander** — saltear; pilhar
 - [ ] **briguer** — pleitear; disputar
 - [ ] **brisable** — quebrável
-- [ ] **bronzer** — bronzear
 - [ ] **buccal** — bucal
 - [ ] **budgétaire** — orçamentário
 - [ ] **bureaucratique** — burocrático
-- [ ] **buriner** — cinzelar; gravar
 - [ ] **cabalistique** — cabalístico
 - [ ] **cacophonique** — cacofônico
 - [ ] **cadenasser** — cadiar; trancar
@@ -231,7 +224,6 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **caricaturer** — caricaturar
 - [ ] **carillonner** — repicar sinos
 - [ ] **caritatif** — caritativo
-- [ ] **cartographier** — cartografar
 - [ ] **cassant** — quebradiço
 - [ ] **casser un jugement** — cassar um julgamento
 - [ ] **casuel** — casual
@@ -240,11 +232,11 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **cautériser** — cauterizar
 - [ ] **cautionnaire** — caucionário
 - [ ] **ceindre** — cingir
-- [ ] **ceinturer** — cingir; cercar
 - [ ] **cellulaire** — celular
 - [ ] **centriste** — centrista
 - [ ] **cérébral** — cerebral
 - [ ] **cérémoniel** — cerimonial
+- [ ] **cessible** — cessível
 - [ ] **champlever** — cinzelar (esmalte)
 - [ ] **chancelant** — vacilante
 - [ ] **chantonner** — cantarolar
@@ -264,15 +256,14 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **circoncire** — circuncidar
 - [ ] **circonscrit** — circunscrito
 - [ ] **circonvenir** — contornar / enganar
+- [ ] **ciselé** — cinzelado
 - [ ] **citadin** — citadino
 - [ ] **citer à comparaître** — intimar a comparecer
 - [ ] **civique** — cívico
 - [ ] **clandestin** — clandestino
 - [ ] **classer des idées** — classificar ideias
 - [ ] **claustrer** — enclausurar
-- [ ] **clicher** — estereotipar; clicher
 - [ ] **clinquant** — chamativo / de mau gosto
-- [ ] **clore** — encerrar
 - [ ] **clore le débat** — encerrar o debate
 - [ ] **coaguler** — coagular
 - [ ] **coalescer** — coalescer
@@ -281,13 +272,10 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **coercitif** — coercitivo
 - [ ] **cognitif** — cognitivo
 - [ ] **cohérer** — coerir
-- [ ] **coiffer** — pentear; cobrir
 - [ ] **collatéral** — colateral
 - [ ] **collationner** — cotejar; conferir
 - [ ] **colloquial** — coloquial
 - [ ] **colonialiste** — colonialista
-- [ ] **colorer** — colorir
-- [ ] **colorer de** — colorir de
 - [ ] **combattant** — combatente
 - [ ] **commuer** — comutar
 - [ ] **communal** — municipal
@@ -316,7 +304,6 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **confiner** — confinar; limitar
 - [ ] **confirmer un jugement** — confirmar um julgamento
 - [ ] **confirmer une hypothèse** — confirmar uma hipótese
-- [ ] **confisquer** — confiscar
 - [ ] **confondre** — confundir
 - [ ] **congédier** — demitir / despedir
 - [ ] **congénital** — congênito
@@ -381,11 +368,10 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **criard** — berrante
 - [ ] **criminaliser** — criminalizar
 - [ ] **criminel** — criminal
-- [ ] **cristalliser** — cristalizar
 - [ ] **croquer** — esboçar
+- [ ] **croyable** — crível
 - [ ] **crucifier** — crucificar
 - [ ] **cubique** — cúbico
-- [ ] **cuivrer** — acobrear
 - [ ] **culpabiliser** — culpabilizar
 - [ ] **cumulatif** — cumulativo
 - [ ] **curable** — curável
@@ -411,7 +397,6 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **décélérer** — desacelerar
 - [ ] **décentré** — descentrado
 - [ ] **déchristianisé** — descristianizado
-- [ ] **décider de** — decidir de
 - [ ] **déclaratif** — declarativo
 - [ ] **décommander** — desmarcar; cancelar
 - [ ] **décomposer un problème** — decompor um problema
@@ -462,10 +447,10 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **démagnétiser** — desmagnetizar
 - [ ] **démagogique** — demagógico
 - [ ] **démagogue** — demagogo
-- [ ] **démanteler** — desmantelar
 - [ ] **démaquiller** — desmaquilar
 - [ ] **démarcher** — fazer diligência
 - [ ] **démêler le vrai du faux** — separar o verdadeiro do falso
+- [ ] **dément** — demente
 - [ ] **démentir une hypothèse** — desmentir uma hipótese
 - [ ] **démentir une rumeur** — desmentir um rumor
 - [ ] **déminer** — desminar
@@ -483,7 +468,6 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **dentaire** — dentário
 - [ ] **départemental** — departamental
 - [ ] **dépassionner** — desapaixonar
-- [ ] **dépêcher** — despachar; apressar
 - [ ] **dépénaliser** — descriminalizar
 - [ ] **dépigmenter** — despigmentar
 - [ ] **déplafonner** — retirar teto; deslimitar
@@ -532,7 +516,6 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **détricoter** — desfazer
 - [ ] **dévaluer** — desvalorizar
 - [ ] **déverrouiller** — destravar; desbloquear
-- [ ] **dévier** — desviar
 - [ ] **dévier de** — desviar de
 - [ ] **dévisser** — desparafusar; desmontar
 - [ ] **dévitaliser** — desvitalizar
@@ -544,7 +527,9 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **dialogique** — dialógico
 - [ ] **dictatorial** — ditatorial
 - [ ] **diffamer** — difamar
+- [ ] **différé** — diferido
 - [ ] **diffracter** — difratar
+- [ ] **diffus** — difuso
 - [ ] **digérer** — digerir
 - [ ] **digitaliser** — digitalizar
 - [ ] **dilemmatique** — dilemático
@@ -570,7 +555,6 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **documenter** — documentar; informar
 - [ ] **domestiquer** — domesticar; amansar
 - [ ] **donner lieu à** — dar lugar a
-- [ ] **donner naissance à** — dar origem a
 - [ ] **dorloter** — paparicar
 - [ ] **doser** — dosar; medir
 - [ ] **douloureux** — doloroso
@@ -590,14 +574,11 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **écarter une idée** — descartar uma ideia
 - [ ] **échafauder** — arquitetar
 - [ ] **échafauder un plan** — arquitetar um plano
-- [ ] **écharper** — espostejar; ferir
 - [ ] **échographier** — fazer ultrassom
 - [ ] **échoir** — caber (por sorte)
 - [ ] **échu** — vencido
 - [ ] **éclore** — eclodir; desabrochar
-- [ ] **écluser** — eclusar; comportar
 - [ ] **économétrique** — econométrico
-- [ ] **écorcer** — descascar; tirar casca
 - [ ] **écrémer** — desnatar; selecionar
 - [ ] **écrouer** — encarcerar
 - [ ] **édicter une règle** — promulgar uma regra
@@ -619,7 +600,6 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **émailler** — esmaltar; pontilhar
 - [ ] **émancipateur** — emancipador
 - [ ] **émaner de** — emanar de
-- [ ] **embaumer** — embalsamar; perfumar
 - [ ] **embellir** — embelezar
 - [ ] **embobiner** — enrolar; enganar
 - [ ] **embourber** — atolar; afundar
@@ -637,14 +617,12 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **empailler** — empalhar; encher de palha
 - [ ] **empiéter** — invadir; usurpar
 - [ ] **empreindre** — impregnar; imbuir
-- [ ] **emprisonner** — aprisionar
 - [ ] **émuler** — emular
 - [ ] **émulsifier** — emulsionar
 - [ ] **encadrer une activité** — enquadrar uma atividade
 - [ ] **encaisser** — encaixar; receber
 - [ ] **encarter** — encartar; inserir
 - [ ] **encercler** — cercar
-- [ ] **enchaîner** — encadear
 - [ ] **enchaîner des idées** — encadear ideias
 - [ ] **enchâsser** — encastoar; engastar
 - [ ] **enclavé** — enclavado
@@ -683,12 +661,12 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **entreposer** — armazenar; depor
 - [ ] **entropique** — entrópico
 - [ ] **entrouvrir** — entreabrir
-- [ ] **envelopper** — envolver; embrulhar
 - [ ] **envisager de** — cogitar
 - [ ] **enzymatique** — enzimático
 - [ ] **épaissir** — espessar; engrossar
 - [ ] **épandre** — espalhar; distribuir
 - [ ] **éparpiller** — espalhar
+- [ ] **épars** — espalhado
 - [ ] **épigénétique** — epigenético
 - [ ] **épigraphique** — epigráfico
 - [ ] **épingler** — alfinetar; fixar
@@ -716,7 +694,6 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **escroquer** — estelionar
 - [ ] **essaimer** — enxamear; dispersar
 - [ ] **essorer** — centrifugar; torcer
-- [ ] **essouffler** — ofegar; esgotar
 - [ ] **estamper** — estampar; cunhar
 - [ ] **estampiller** — carimbar; selar
 - [ ] **étalonner** — calibrar
@@ -781,7 +758,6 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **extracontractuel** — extracontratual
 - [ ] **extraire** — extrair; tirar
 - [ ] **extruder** — extrusar
-- [ ] **façonner** — moldar
 - [ ] **fagoter** — enfeixar; amarrar
 - [ ] **faire fi de** — desprezar; ignorar
 - [ ] **falsifiable** — falseável
@@ -790,7 +766,6 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **faner** — murchar; fenar
 - [ ] **fangeux** — lamacento
 - [ ] **fantasmatique** — fantasmático
-- [ ] **fariner** — enfarinhaar
 - [ ] **farouche** — arisco
 - [ ] **fasciste** — fascista
 - [ ] **fastueux** — faustoso
@@ -828,13 +803,11 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **forger** — forjar; cunhar
 - [ ] **formater** — formatar
 - [ ] **fossiliser** — fossilizar
-- [ ] **fouler** — pisar; prensar
 - [ ] **fourbir** — polir; lustrar
 - [ ] **fracassant** — estrondoso
 - [ ] **fractal** — fractal
 - [ ] **fractionner** — fracionar
 - [ ] **fracturer** — fraturar
-- [ ] **fraiser** — fresar; rebarbar
 - [ ] **franchir un obstacle** — transpor um obstáculo
 - [ ] **fraternel** — fraterno
 - [ ] **fraterniser** — fraternizar; confraternizar
@@ -847,7 +820,6 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **friable** — friável
 - [ ] **frigorifier** — refrigerar; congelar
 - [ ] **frissonnant** — trêmulo
-- [ ] **frissonner** — arrepiar-se
 - [ ] **froisser** — amassar; magoar
 - [ ] **frondeur** — contestador
 - [ ] **fructifier** — frutificar; render
@@ -861,7 +833,6 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **galiléen** — galileano
 - [ ] **galvauder** — desgastar / banalizar
 - [ ] **garantir la sécurité** — garantir a segurança
-- [ ] **gaufrer** — gravar; preguear
 - [ ] **gauler** — varejar; derrubar
 - [ ] **gazéifier** — gaseificar
 - [ ] **gélifier** — gelificar
@@ -883,7 +854,6 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **greffer** — enxertar; inserir
 - [ ] **grégair** — gregário
 - [ ] **grésiller** — chiar; crepitar
-- [ ] **griser** — acizentar; embriagar
 - [ ] **grommeler** — resmungar
 - [ ] **grossir le trait** — exagerar
 - [ ] **guérissable** — curável
@@ -897,7 +867,6 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **haranguer** — arengar; discursar
 - [ ] **harassant** — extenuante
 - [ ] **harnacher** — arrear; equipar
-- [ ] **hâter** — apressar
 - [ ] **héberger** — hospedar; abrigar
 - [ ] **hégélien** — hegeliano
 - [ ] **hémorragier** — hemorragiar
@@ -920,10 +889,8 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **hospitaliser** — hospitalizar
 - [ ] **hostile** — hostil
 - [ ] **huer** — vaiar; apupar
-- [ ] **huiler** — olear; untar
 - [ ] **humanitaire** — humanitário
 - [ ] **humidifier** — umedecer
-- [ ] **hurler** — gritar
 - [ ] **hybrider** — hibridizar
 - [ ] **hydrater** — hidratar
 - [ ] **hygiénique** — higiênico
@@ -940,10 +907,8 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **idéaliser** — idealizar
 - [ ] **idiomatique** — idiomático
 - [ ] **idolâtrer** — idolatrar
+- [ ] **igné** — ígneo
 - [ ] **illicite** — ilícito
-- [ ] **illustrer** — ilustrar
-- [ ] **imager** — ilustrar; colorir
-- [ ] **imbiber** — embeber; encharcar
 - [ ] **immatriculer** — matricular; registrar
 - [ ] **immiscer** — imiscuir-se
 - [ ] **immobiliser** — imobilizar
@@ -1045,7 +1010,7 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **insoucieux** — despreocupado
 - [ ] **insoupçonnable** — insuspeitável
 - [ ] **insoupçonné** — insuspeito
-- [ ] **inspirer** — inspirar; sugerir
+- [ ] **instantané** — instantâneo
 - [ ] **instaurer un dialogue** — instaurar um diálogo
 - [ ] **instiguer** — instigar
 - [ ] **instinctif** — instintivo
@@ -1071,7 +1036,6 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **intersubjectif** — intersubjetivo
 - [ ] **intime** — íntimo
 - [ ] **intransmissible** — intransmissível
-- [ ] **intriguer** — intrigar; curiar
 - [ ] **intriquer** — entrelaçar
 - [ ] **introductif** — introdutório
 - [ ] **intuitif** — intuitivo
@@ -1172,9 +1136,11 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **l’agate** — a ágata
 - [ ] **l’agave** — o agave
 - [ ] **l’âge de bronze** — a idade do bronze
+- [ ] **l’âge de fer** — a idade do ferro
 - [ ] **l’agent immobilier** — o corretor de imóveis
 - [ ] **l’agentivité** — a agência / capacidade de agir
 - [ ] **l’aggloméré** — o aglomerado
+- [ ] **l’agios** — os juros bancários
 - [ ] **l’agnosticisme** — o agnosticismo
 - [ ] **l’agrafeuse** — o grampeador
 - [ ] **l’agrément** — o agrado
@@ -1244,6 +1210,8 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **l’analphabétisme** — o analfabetismo
 - [ ] **l’analyste** — o analista
 - [ ] **l’anaphylaxie** — a anafilaxia
+- [ ] **l’anche** — a palheta
+- [ ] **l’andante** — o andante
 - [ ] **l’andésite** — o andesito
 - [ ] **l’andouillette** — a andouillette
 - [ ] **l’anémomètre** — o anemômetro
@@ -1255,7 +1223,6 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **l’anguille électrique** — a enguia elétrica
 - [ ] **l’anhédonie** — a anedonia
 - [ ] **l’anhydrite** — a anidrita
-- [ ] **l’animateur** — o apresentador
 - [ ] **l’anion** — o ânion
 - [ ] **l’annelet** — o anel (peça)
 - [ ] **l’annélide** — o anelídeo
@@ -1317,6 +1284,7 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **l’aquarelliste** — o aquarelista
 - [ ] **l’aquatinte** — a água-tinta
 - [ ] **l’aquifère** — o aquífero
+- [ ] **l’ara** — a arara
 - [ ] **l’arachide** — o amendoim
 - [ ] **l’aragonite** — a aragonita
 - [ ] **l’arboriculteur** — o arboricultor
@@ -1338,6 +1306,7 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **l’argenteur** — o prateador
 - [ ] **l’argentite** — a argentita
 - [ ] **l’argon** — o argônio
+- [ ] **l’aria** — a ária
 - [ ] **l’arithmétique** — a aritmética
 - [ ] **l’armoire à pharmacie** — o armário de remédios
 - [ ] **l’armorial** — o armorial
@@ -1395,6 +1364,7 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **l’aubépine** — o pilriteiro
 - [ ] **l’auberge de jeunesse** — o albergue da juventude
 - [ ] **l’auditoire** — o auditório
+- [ ] **l’augure** — o augúrio
 - [ ] **l’aulne** — o amieiro
 - [ ] **l’auscultation** — a ausculta
 - [ ] **l’auto-entrepreneur** — o microempreendedor
@@ -1409,6 +1379,7 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **l’avalanche** — a avalanche
 - [ ] **l’avaleur de sabre** — o engolidor de espadas
 - [ ] **l’avatar** — o avatar
+- [ ] **l’aven** — o algar
 - [ ] **l’avocatier** — o abacateiro
 - [ ] **l’avoine** — a aveia
 - [ ] **l’axolotl** — o axolote
@@ -1433,6 +1404,7 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **l’échelle de Richter** — a escala Richter
 - [ ] **l’échidné** — o equidna
 - [ ] **l’échinoderme** — o equinodermo
+- [ ] **l’écho** — o eco
 - [ ] **l’échocardiographie** — a ecocardiografia
 - [ ] **l’éclipse lunaire** — o eclipse lunar
 - [ ] **l’éclipse solaire** — o eclipse solar
@@ -1446,6 +1418,7 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **l’écritoire** — o tinteiro
 - [ ] **l’écriture cursive** — a escrita cursiva
 - [ ] **l’écriture gothique** — a escrita gótica
+- [ ] **l’écu** — o escudo
 - [ ] **l’écu bandé** — o escudo bandado
 - [ ] **l’écu chevronné** — o escudo chevronado
 - [ ] **l’écu coupé** — o escudo cortado
@@ -1467,6 +1440,7 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **l’effet rétroactif** — o efeito retroativo
 - [ ] **l’égalité devant le service public** — a igualdade perante o serviço público
 - [ ] **l’églantier** — a roseira brava
+- [ ] **l’ego** — o ego
 - [ ] **l’égout** — o esgoto
 - [ ] **l’einsteinium** — o einstênio
 - [ ] **l’électrocardiogramme** — o eletrocardiograma
@@ -1489,13 +1463,12 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **l’embranchement** — o filo
 - [ ] **l’embrun** — a maresia
 - [ ] **l’émeraude** — a esmeralda
+- [ ] **l’émeu** — o emu
 - [ ] **l’émeute** — o motim
 - [ ] **l’émigré** — o emigrante
 - [ ] **l’empâtement** — o empastamento
 - [ ] **l’empereur** — o imperador
 - [ ] **l’emphysème** — o enfisema
-- [ ] **l’emporter sur** — prevalecer sobre
-- [ ] **l’en-tête** — o cabeçalho
 - [ ] **l’énargite** — a enargita
 - [ ] **l’encablure** — o cabo (medida)
 - [ ] **l’encéphalite** — a encefalite
@@ -1538,6 +1511,7 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **l’épervier** — o gavião
 - [ ] **l’éphémère** — o efêmero
 - [ ] **l’éphéméroptère** — o efemeróptero
+- [ ] **l’épi** — a espiga
 - [ ] **l’épicentre** — o epicentro
 - [ ] **l’épigenèse** — a epigênese
 - [ ] **l’épigramme** — o epigrama
@@ -1557,7 +1531,9 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **l’équerre** — o esquadro
 - [ ] **l’équilibriste** — o equilibrista
 - [ ] **l’équinoxe** — o equinócio
+- [ ] **l’érable** — o bordo
 - [ ] **l’erbium** — o érbio
+- [ ] **l’erg** — o erg (deserto)
 - [ ] **l’ergot** — o esporão
 - [ ] **l’éruption** — a erupção
 - [ ] **l’érythrite** — a eritrita
@@ -1616,6 +1592,7 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **l’évolution de carrière** — a evolução de carreira
 - [ ] **l’évolution des mœurs** — a evolução dos costumes
 - [ ] **l’évolutionnisme** — o evolucionismo
+- [ ] **l’exception** — a exceção
 - [ ] **l’excipit** — o excipit
 - [ ] **l’exécuteur testamentaire** — o testamenteiro
 - [ ] **l’exécution** — a execução
@@ -1818,6 +1795,7 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **l’involution** — a involução
 - [ ] **l’invulnérabilité** — a invulnerabilidade
 - [ ] **l’iode** — o iodo
+- [ ] **l’ion** — o íon
 - [ ] **l’iridium** — o irídio
 - [ ] **l’irresponsabilité pénale** — a irresponsabilidade penal
 - [ ] **l’isolant** — o isolante
@@ -1838,6 +1816,7 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **l’océanographie** — a oceanografia
 - [ ] **l’octogénaire** — o octogenário
 - [ ] **l’octuor** — o octeto
+- [ ] **l’ode** — a ode
 - [ ] **l’odyssée** — a odisseia
 - [ ] **l’œcuménisme** — o ecumenismo
 - [ ] **l’office de tourisme** — o escritório de turismo
@@ -1846,6 +1825,7 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **l’oganesson** — o oganessônio
 - [ ] **l’ogive** — a ogiva
 - [ ] **l’oïdium** — o oídio
+- [ ] **l’oie** — o ganso
 - [ ] **l’oiseau de proie** — a ave de rapina
 - [ ] **l’oiseau migrateur** — a ave migratória
 - [ ] **l’oiseau sédentaire** — a ave sedentária
@@ -1853,7 +1833,9 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **l’oisiveté** — a ociosidade
 - [ ] **l’omnipotence** — a onipotência
 - [ ] **l’omnivore** — o onívoro
+- [ ] **l’once** — a onça
 - [ ] **l’onciale** — a uncial
+- [ ] **l’ondée** — o aguaceiro
 - [ ] **l’onguent** — a pomada
 - [ ] **l’ongulé** — o ungulado
 - [ ] **l’onirisme** — o onirismo
@@ -1871,6 +1853,7 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **l’or natif** — o ouro nativo
 - [ ] **l’oracle** — o oráculo
 - [ ] **l’oraison funèbre** — a oração fúnebre
+- [ ] **l’orateur** — o orador
 - [ ] **l’oratorio** — o oratório
 - [ ] **l’orbite géostationnaire** — a órbita geoestacionária
 - [ ] **l’ordre corinthien** — a ordem coríntia
@@ -1883,6 +1866,8 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **l’orge** — a cevada
 - [ ] **l’orgue** — o órgão
 - [ ] **l’oriflamme** — a oriflama
+- [ ] **l’orle** — a orla
+- [ ] **l’orme** — o ulmeiro
 - [ ] **l’ornement** — o ornamento
 - [ ] **l’ornithologie** — a ornitologia
 - [ ] **l’ornithologue** — o ornitólogo
@@ -1893,11 +1878,13 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **l’orthèse** — a órtese
 - [ ] **l’orthophoniste** — o fonoaudiólogo
 - [ ] **l’orthoptère** — o ortóptero
+- [ ] **l’ortie** — a urtiga
 - [ ] **l’orvet** — o licranço
 - [ ] **l’oscillation** — a oscilação
 - [ ] **l’oseille** — a azeda
 - [ ] **l’osmium** — o ósmio
 - [ ] **l’ostéopathe** — o osteopata
+- [ ] **l’otage** — o refém
 - [ ] **l’otite** — a otite
 - [ ] **l’ottomane** — o otomano
 - [ ] **l’outillage** — o ferramental
@@ -1941,6 +1928,7 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **la barre oblique** — a barra oblíqua
 - [ ] **la barytine** — a barita
 - [ ] **la bassesse** — a baixeza
+- [ ] **la bâtisse** — a construção
 - [ ] **la batteuse** — a debulhadora
 - [ ] **la bauxite** — a bauxita
 - [ ] **la béchamel** — o molho bechamel
@@ -1951,6 +1939,7 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **la bergeronnette** — a alvéola
 - [ ] **la bétonnière** — a betoneira
 - [ ] **la bicyclette** — a bicicleta
+- [ ] **la bille** — a bola (peça)
 - [ ] **la biocénose** — a biocenose
 - [ ] **la biochimie** — a bioquímica
 - [ ] **la biogenèse** — a biogênese
@@ -1971,8 +1960,12 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **la boutade** — a tirada
 - [ ] **la bradycardie** — a bradicardia
 - [ ] **la branche morte** — o galho morto
+- [ ] **la brasse** — a braça
+- [ ] **la brème** — a brema
 - [ ] **la brindille** — o graveto
+- [ ] **la broche** — o broche
 - [ ] **la brodeuse** — a bordadeira
+- [ ] **la bru** — a nora
 - [ ] **la brunoise** — a brunoise (corte)
 - [ ] **la bruyère** — a urze
 - [ ] **la caducité** — a caducidade
@@ -2018,6 +2011,7 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **la cérémonie** — a cerimônia
 - [ ] **la cérusite** — a cerusita
 - [ ] **la cessation** — a cessação
+- [ ] **la cession** — a cessão
 - [ ] **la césure** — a cesura
 - [ ] **la chaîne d’approvisionnement** — a cadeia de suprimentos
 - [ ] **la chaîne de production** — a linha de produção
@@ -2133,6 +2127,7 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **la crèmerie** — a leiteria
 - [ ] **la cristallisation** — a cristalização
 - [ ] **la cristallographie** — a cristalografia
+- [ ] **la croche** — a colcheia
 - [ ] **la crocoïte** — a crocoíta
 - [ ] **la croisée d’ogives** — a cruzaria de ogivas
 - [ ] **la cryosphère** — a criosfera
@@ -2150,6 +2145,7 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **la daube** — a daube
 - [ ] **la décantation** — a decantação
 - [ ] **la décélération** — a desaceleração
+- [ ] **la décharge** — o aterro sanitário
 - [ ] **la déchéance** — a caducidade
 - [ ] **la déchirure** — a ruptura
 - [ ] **la déchristianisation** — a descristianização
@@ -2224,6 +2220,7 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **la ductilité** — a ductilidade
 - [ ] **la dysphorie** — a disforia
 - [ ] **la dystopie** — a distopia
+- [ ] **la fable** — a fábula
 - [ ] **la face cachée** — a face oculta
 - [ ] **la faction** — a facção
 - [ ] **la facturation** — o faturamento
@@ -2243,6 +2240,7 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **la filiale** — a filial
 - [ ] **la filleule** — a afilhada
 - [ ] **la filtration** — a filtração
+- [ ] **la firme** — a firma
 - [ ] **la fission** — a fissão
 - [ ] **la fission nucléaire** — a fissão nuclear
 - [ ] **la fixation** — a fixação
@@ -2278,6 +2276,7 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **la fronde** — a revolta / a fronda
 - [ ] **la fructification** — a frutificação
 - [ ] **la fumerolle** — a fumarola
+- [ ] **la fusion** — a fusão
 - [ ] **la fusion nucléaire** — a fusão nuclear
 - [ ] **la gaine** — o duto
 - [ ] **la galène** — a galena
@@ -2328,6 +2327,7 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **la jacinthe** — o jacinto
 - [ ] **la jacquerie** — a jaqueria
 - [ ] **la jaquette** — a sobrecapa
+- [ ] **la jetée** — o quebra-mar
 - [ ] **la jonquille** — o narciso
 - [ ] **la jugulaire** — a jugular
 - [ ] **la julienne** — a juliana (corte)
@@ -2343,6 +2343,7 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **la langoustine** — a lagostim
 - [ ] **la lanterne** — a lanterna
 - [ ] **la lapalissade** — a obviedade
+- [ ] **la laque** — a laca
 - [ ] **la larve** — a larva
 - [ ] **la laryngite** — a laringite
 - [ ] **la latence** — a latência
@@ -2364,6 +2365,7 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **la liberté de culte** — a liberdade de culto
 - [ ] **la libido** — a libido
 - [ ] **la licéité** — a licitude
+- [ ] **la licorne** — o unicórnio
 - [ ] **la ligne d’horizon** — a linha do horizonte
 - [ ] **la lignine** — a lignina
 - [ ] **la limace** — a lesma
@@ -2382,6 +2384,7 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **la logique floue** — a lógica difusa
 - [ ] **la logique modale** — a lógica modal
 - [ ] **la longueur d’onde** — o comprimento de onda
+- [ ] **la lotte** — o tamboril
 - [ ] **la lucarne** — a claraboia
 - [ ] **la lunette astronomique** — a luneta astronômica
 - [ ] **la luxation** — a luxação
@@ -2400,6 +2403,7 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **la mandoline** — o bandolim
 - [ ] **la mangrove** — o manguezal
 - [ ] **la mangue** — a manga
+- [ ] **la manie** — a mania
 - [ ] **la manière noire** — a maneira negra
 - [ ] **la manique** — a luva de cozinha
 - [ ] **la manœuvre** — a manobra
@@ -2414,11 +2418,13 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **la marne** — a marga
 - [ ] **la marqueterie** — a marchetaria
 - [ ] **la marquise** — a marquesa
+- [ ] **la martre** — a marta
 - [ ] **la masse volumique** — a massa específica
 - [ ] **la masure** — o casebre
 - [ ] **la matière minérale** — a matéria mineral
 - [ ] **la matière noire** — a matéria escura
 - [ ] **la matière organique** — a matéria orgânica
+- [ ] **la matrice** — a matriz
 - [ ] **la maturation** — a maturação
 - [ ] **la mécanique** — a mecânica
 - [ ] **la méconnaissance** — o desconhecimento
@@ -2442,6 +2448,7 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **la métathèse** — a metátese
 - [ ] **la météorite** — o meteorito
 - [ ] **la métope** — a métopa
+- [ ] **la métrique** — a métrica
 - [ ] **la meute** — a matilha
 - [ ] **la mezzanine** — o mezanino
 - [ ] **la mezzo-soprano** — o mezzo-soprano
@@ -2450,6 +2457,7 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **la microscopie** — a microscopia
 - [ ] **la millérite** — a milerita
 - [ ] **la mimésis** — a mimese
+- [ ] **la mine** — a mina
 - [ ] **la minéralogie** — a mineralogia
 - [ ] **la mise à l’épreuve** — a liberdade vigiada
 - [ ] **la mise au net** — a passagem a limpo
@@ -2487,8 +2495,10 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **la mousse des bois** — o musgo do bosque
 - [ ] **la mousseline** — a musseline
 - [ ] **la mousson** — a monção
+- [ ] **la mue** — a muda
 - [ ] **la multiplicité** — a multiplicidade
 - [ ] **la municipalité** — a municipalidade
+- [ ] **la mûre** — a amora
 - [ ] **la murène** — a moreia
 - [ ] **la mutualité** — a mutualidade
 - [ ] **la mycologie** — a micologia
@@ -2539,6 +2549,7 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **la parenthèse** — o parêntese
 - [ ] **la participiale** — a oração participial
 - [ ] **la partition héraldique** — a partição heráldica
+- [ ] **la parure** — o adorno
 - [ ] **la passivité** — a passividade
 - [ ] **la pastourelle** — a pastorela
 - [ ] **la patate douce** — a batata-doce
@@ -2569,7 +2580,6 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **la perturbation** — a perturbação
 - [ ] **la pesanteur** — a gravidade
 - [ ] **la petite annonce** — o classificados
-- [ ] **la petite-fille** — a neta
 - [ ] **la pharyngite** — a faringite
 - [ ] **la philharmonie** — a filarmônica
 - [ ] **la philologie** — a filologia
@@ -2627,7 +2637,6 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **la pression atmosphérique** — a pressão atmosférica
 - [ ] **la prestation sociale** — o benefício social
 - [ ] **la primatologie** — a primatologia
-- [ ] **la principale** — a oração principal
 - [ ] **la probation** — a probação
 - [ ] **la profondeur** — a profundidade
 - [ ] **la prolixité** — a prolixidade
@@ -2640,6 +2649,7 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **la prosodie** — a prosódia
 - [ ] **la prosthèse** — a prótese (linguística)
 - [ ] **la prothèse** — a prótese
+- [ ] **la proue** — a proa
 - [ ] **la proustite** — a proustita
 - [ ] **la provision pour charges** — a provisão para despesas
 - [ ] **la psychanalyse** — a psicanálise
@@ -2658,6 +2668,7 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **la quinzaine** — a quinzena
 - [ ] **la quittance** — a quitação
 - [ ] **la raboteuse** — a plaina
+- [ ] **la race** — a raça
 - [ ] **la radicelle** — a radícula
 - [ ] **la radioactivité** — a radioatividade
 - [ ] **la raie manta** — a arraia-manta
@@ -2665,6 +2676,7 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **la rainette** — a perereca
 - [ ] **la rame de papier** — a resma de papel
 - [ ] **la ramure** — a ramagem
+- [ ] **la rature** — a rasura
 - [ ] **la réaction chimique** — a reação química
 - [ ] **la réadaptation** — a readaptação
 - [ ] **la réapparition** — o reaparecimento
@@ -2693,6 +2705,7 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **la reliance** — a conexão / o vínculo
 - [ ] **la reliure** — a encadernação
 - [ ] **la remorque** — o reboque
+- [ ] **la rente** — a renda
 - [ ] **la repartie** — a réplica
 - [ ] **la répartition** — a repartição
 - [ ] **la repasseuse** — a passadeira
@@ -2711,6 +2724,7 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **la rétroaction** — a retroação
 - [ ] **la rétroactivité** — a retroatividade
 - [ ] **la rétrogradation** — o rebaixamento
+- [ ] **la rêverie** — o devaneio
 - [ ] **la révocation** — a revogação
 - [ ] **la rhétorique** — a retórica
 - [ ] **la rhinite** — a rinite
@@ -2777,6 +2791,7 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **la sociabilité** — a sociabilidade
 - [ ] **la sociologie** — a sociologia
 - [ ] **la sociologie économique** — a sociologia econômica
+- [ ] **la sole** — o linguado
 - [ ] **la solidarité nationale** — a solidariedade nacional
 - [ ] **la solidification** — a solidificação
 - [ ] **la solive** — a viga de piso
@@ -2789,6 +2804,7 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **la soupape** — a válvula
 - [ ] **la source chaude** — a fonte termal
 - [ ] **la sous-section** — a subseção
+- [ ] **la soute** — o porão
 - [ ] **la soutenabilité** — a sustentabilidade
 - [ ] **la sparterie** — a espartaria
 - [ ] **la spatialité** — a espacialidade
@@ -2839,6 +2855,7 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **la table des matières** — o sumário
 - [ ] **la tabulation** — a tabulação
 - [ ] **la tachycardie** — a taquicardia
+- [ ] **la taie** — a fronha
 - [ ] **la taie d’oreiller** — a fronha
 - [ ] **la tanche** — a tenca
 - [ ] **la tangente** — a tangente
@@ -2848,8 +2865,10 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **la targette** — o ferrolho
 - [ ] **la taxonomie** — a taxonomia
 - [ ] **la tectonique** — a tectônica
+- [ ] **la teinte** — a matiz
 - [ ] **la teinture** — a tintura
 - [ ] **la teinturerie** — a tinturaria
+- [ ] **la tempera** — a têmpera
 - [ ] **la tenaille** — o torquês
 - [ ] **la tennantite** — a tennantita
 - [ ] **la tenture** — a tapeçaria
@@ -2870,6 +2889,7 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **la thorite** — a torita
 - [ ] **la thrombose veineuse** — a trombose venosa
 - [ ] **la timbale** — o tímpano
+- [ ] **la tique** — o carrapato
 - [ ] **la tmèse** — a tmese
 - [ ] **la toile d’araignée** — a teia de aranha
 - [ ] **la toiture** — a cobertura
@@ -2890,6 +2910,7 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **la tourelle** — a torrezinha
 - [ ] **la tournure** — a construção
 - [ ] **la tourterelle** — a rola
+- [ ] **la traite** — o tráfico
 - [ ] **la traîtrise** — a traição
 - [ ] **la trajectoire** — a trajetória
 - [ ] **la tramontane** — a tramontana
@@ -2997,6 +3018,7 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **le bâtonnier** — o presidente da ordem
 - [ ] **le battement** — a batida
 - [ ] **le batteur** — a batedeira
+- [ ] **le baume** — o bálsamo
 - [ ] **le bécarre** — o bequadro
 - [ ] **le bêlement** — o balido
 - [ ] **le bémol** — o bemol
@@ -3038,6 +3060,7 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **le boudin** — o chouriço
 - [ ] **le bouffon** — o bobo
 - [ ] **le bougeoir** — o castiçal
+- [ ] **le bouillon** — o caldo
 - [ ] **le bourdonnement** — o zumbido
 - [ ] **le bourgeon** — o broto
 - [ ] **le bourreau** — o carrasco
@@ -3050,6 +3073,7 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **le branchage** — a galhada
 - [ ] **le brasseur** — o cervejeiro
 - [ ] **le bricolage** — o bricolage
+- [ ] **le broc** — o jarro
 - [ ] **le brocanteur** — o brechó
 - [ ] **le brocoli** — o brócolis
 - [ ] **le brouillon** — o rascunho
@@ -3107,11 +3131,13 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **le catabolisme** — o catabolismo
 - [ ] **le catalogue** — o catálogo
 - [ ] **le catalyseur** — o catalisador
+- [ ] **le cation** — o cátion
 - [ ] **le cautionnement** — a fiança
 - [ ] **le cavalier** — o cavaleiro
 - [ ] **le caviar** — o caviar
 - [ ] **le céleri** — o aipo
 - [ ] **le centimètre** — o centímetro
+- [ ] **le cèpe** — o boleto
 - [ ] **le céphalopode** — o cefalópode
 - [ ] **le cercle vertueux** — o círculo virtuoso
 - [ ] **le cercle vicieux** — o círculo vicioso
@@ -3146,6 +3172,7 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **le chéneau** — a calha
 - [ ] **le chevalement** — a torre de extração
 - [ ] **le chevesne** — o cadoz
+- [ ] **le chevet** — a cabeceira
 - [ ] **le chèvrefeuille** — a madressilva
 - [ ] **le chevron** — o caibro
 - [ ] **le chiendent** — a grama
@@ -3210,6 +3237,7 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **le commissionnaire** — o comissionário
 - [ ] **le community manager** — o gerente de comunidade
 - [ ] **le comparatif** — o comparativo
+- [ ] **le compas** — o compasso
 - [ ] **le compas de marine** — a bússola náutica
 - [ ] **le complément** — o complemento
 - [ ] **le complice** — o cúmplice
@@ -3232,6 +3260,7 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **le consentement** — o consentimento
 - [ ] **le considérant** — o considerando
 - [ ] **le constituant** — o constituinte
+- [ ] **le consul** — o cônsul
 - [ ] **le conteur** — o contador
 - [ ] **le contorsionniste** — o contorcionista
 - [ ] **le contradicteur** — o contraditor
@@ -3256,6 +3285,7 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **le corniste** — o trompista
 - [ ] **le correcteur** — o revisor
 - [ ] **le cosmonaute** — o cosmonauta
+- [ ] **le cosmos** — o cosmos
 - [ ] **le costumier** — o figurinista
 - [ ] **le cotexte** — o cotexto
 - [ ] **le coton-tige** — o cotonete
@@ -3289,6 +3319,7 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **le cri de guerre** — o grito de guerra
 - [ ] **le cric** — o macaco
 - [ ] **le criminologue** — o criminólogo
+- [ ] **le cristal** — o cristal
 - [ ] **le croassement** — o coaxar
 - [ ] **le crochet** — o colchete
 - [ ] **le croisement** — o cruzamento
@@ -3376,6 +3407,7 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **le droit pénal** — o direito penal
 - [ ] **le dromadaire** — o dromedário
 - [ ] **le dubnium** — o dúbnio
+- [ ] **le duc** — o duque
 - [ ] **le dugong** — o dugongo
 - [ ] **le duo d’amour** — o dueto de amor
 - [ ] **le dysprosium** — o disprósio
@@ -3389,6 +3421,7 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **le faisceau** — o feixe
 - [ ] **le faitout** — a panela
 - [ ] **le falsetto** — o falsete
+- [ ] **le fan** — o fã
 - [ ] **le faussaire** — o falsário
 - [ ] **le fauteuil roulant** — a cadeira de rodas
 - [ ] **le faux-fuyant** — a evasiva
@@ -3407,12 +3440,10 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **le fil conducteur** — o fio condutor
 - [ ] **le fil de fer** — o arame
 - [ ] **le fil dentaire** — o fio dental
-- [ ] **le fil électrique** — o fio elétrico
 - [ ] **le fil rouge** — o fio vermelho
 - [ ] **le filleul** — o afilhado
 - [ ] **le filon** — o filão
 - [ ] **le fjord** — o fiorde
-- [ ] **le flamant rose** — o flamingo
 - [ ] **le flashback** — o flashback
 - [ ] **le flérovium** — o fleróvio
 - [ ] **le flocon** — o floco
@@ -3451,6 +3482,7 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **le futur antérieur** — o futuro anterior
 - [ ] **le gabbro** — o gabro
 - [ ] **le gadolinium** — o gadolínio
+- [ ] **le gage** — o penhor
 - [ ] **le gallicisme** — o galicismo
 - [ ] **le gallinacé** — o galináceo
 - [ ] **le gallium** — o gálio
@@ -3458,6 +3490,7 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **le gastéropode** — o gastrópode
 - [ ] **le gavial** — o gavial
 - [ ] **le gazouillis** — o chilreio
+- [ ] **le geai** — o gaio
 - [ ] **le gecko** — a lagartixa
 - [ ] **le genêt** — a giesta
 - [ ] **le génotype** — o genótipo
@@ -3472,6 +3505,7 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **le gigot** — a perna de cordeiro
 - [ ] **le gilet de sécurité** — o colete de segurança
 - [ ] **le gisement** — a jazida
+- [ ] **le gîte** — a hospedagem rural
 - [ ] **le givre** — a geada
 - [ ] **le glacis** — o verniz
 - [ ] **le glissando** — o glissando
@@ -3493,6 +3527,7 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **le grand-duc** — o bufo-real
 - [ ] **le granite** — o granito
 - [ ] **le graphème** — o grafema
+- [ ] **le graphique** — o gráfico
 - [ ] **le graphite** — o grafite
 - [ ] **le graveur** — o gravador
 - [ ] **le graveur sur bois** — o xilogravador
@@ -3549,8 +3584,10 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **le krill** — o krill
 - [ ] **le krypton** — o criptônio
 - [ ] **le lactaire** — o lactário
+- [ ] **le lai** — o lai
 - [ ] **le laïcisme** — o laicismo
 - [ ] **le laiton** — o latão
+- [ ] **le lama** — a lhama
 - [ ] **le lamantin** — o peixe-boi
 - [ ] **le lambel** — o lambel
 - [ ] **le lambris** — o lambril
@@ -3565,6 +3602,8 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **le lèchefrite** — a assadeira
 - [ ] **le légataire** — o legatário
 - [ ] **le legato** — o legato
+- [ ] **le legs** — o legado
+- [ ] **le lemme** — o lema
 - [ ] **le léopard** — o leopardo
 - [ ] **le lépidoptère** — o lepidóptero
 - [ ] **le lepton** — o lépton
@@ -3630,6 +3669,7 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **le marsouin** — o toninha
 - [ ] **le marsupial** — o marsupial
 - [ ] **le martinet** — o andorinhão
+- [ ] **le mas** — o mas (propriedade)
 - [ ] **le masculin** — o masculino
 - [ ] **le masque à oxygène** — a máscara de oxigênio
 - [ ] **le massepain** — o maçapão
@@ -3734,6 +3774,7 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **le pachyderme** — o paquiderme
 - [ ] **le pacte social** — o pacto social
 - [ ] **le paillasson** — o capacho
+- [ ] **le pal** — a pala
 - [ ] **le palefrenier** — o cavalariço
 - [ ] **le palimpseste** — o palimpsesto
 - [ ] **le palladium** — o paládio
@@ -3811,6 +3852,7 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **le pied-de-mouton** — o pé-de-carneiro
 - [ ] **le piédestal** — o pedestal
 - [ ] **le piétinement** — o impasse
+- [ ] **le pignon** — o frontão lateral
 - [ ] **le pilon** — o pilão
 - [ ] **le pinacle** — o pináculo
 - [ ] **le pinnipède** — o pinípede
@@ -3821,12 +3863,14 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **le placage** — a folheação
 - [ ] **le placebo** — o placebo
 - [ ] **le plafonnier** — o plafonier
+- [ ] **le plaid** — a manta
 - [ ] **le plan de travail** — a bancada
 - [ ] **le plancton** — o plâncton
 - [ ] **le platine** — a platina
 - [ ] **le plâtrier** — o gesseiro
 - [ ] **le pléistocène** — o pleistoceno
 - [ ] **le pléonasme** — o pleonasmo
+- [ ] **le plomb** — o chumbo
 - [ ] **le plumeau** — o espanador
 - [ ] **le plus-que-parfait** — o mais-que-perfeito
 - [ ] **le plutonium** — o plutônio
@@ -3860,8 +3904,10 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **le pot-au-feu** — o pot-au-feu
 - [ ] **le potassium** — o potássio
 - [ ] **le potiron** — a abóbora
+- [ ] **le pou** — o piolho
 - [ ] **le pouf** — o pufe
 - [ ] **le poulpe** — o polvo
+- [ ] **le pouls** — o pulso
 - [ ] **le pourpre** — o púrpura
 - [ ] **le pouvoir exécutif** — o poder executivo
 - [ ] **le pouvoir judiciaire** — o poder judiciário
@@ -3960,6 +4006,7 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **le redressement judiciaire** — a recuperação judicial
 - [ ] **le référenceur** — o especialista em SEO
 - [ ] **le référent** — o referente
+- [ ] **le reg** — o reg (deserto)
 - [ ] **le régime de Vichy** — o regime de Vichy
 - [ ] **le règlement amiable** — o acordo amigável
 - [ ] **le rejeton** — o rebento
@@ -3974,6 +4021,7 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **le reptile écailleux** — o réptil escamoso
 - [ ] **le requiem** — o réquiem
 - [ ] **le réseau trophique** — a teia alimentar
+- [ ] **le résident** — o residente
 - [ ] **le ressac** — a rebentação
 - [ ] **le ressort dramatique** — a mola dramática
 - [ ] **le retour à la ligne** — a quebra de linha
@@ -3984,6 +4032,7 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **le rhinocéros** — o rinoceronte
 - [ ] **le rhodium** — o ródio
 - [ ] **le ribosome** — o ribossomo
+- [ ] **le ris** — o timo (miúdos)
 - [ ] **le ritardando** — o ritardando
 - [ ] **le rivage** — a orla
 - [ ] **le rival** — o rival
@@ -4004,6 +4053,7 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **le rugissement** — o rugido
 - [ ] **le ruthénium** — o rutênio
 - [ ] **le rutherfordium** — o rutherfórdio
+- [ ] **le saladier** — a saladeira
 - [ ] **le saltimbanque** — o saltimbanco
 - [ ] **le samarium** — o samário
 - [ ] **le saphir** — a safira
@@ -4034,6 +4084,7 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **le sel gemme** — o sal-gema
 - [ ] **le sélénium** — o selênio
 - [ ] **le sémaphore** — o semáforo (marítimo)
+- [ ] **le sème** — o sema
 - [ ] **le semestre** — o semestre
 - [ ] **le semi-conducteur** — o semicondutor
 - [ ] **le sémiologue** — o semiólogo
@@ -4068,6 +4119,7 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **le solstice** — o solstício
 - [ ] **le soluté** — o soluto
 - [ ] **le solvant** — o solvente
+- [ ] **le sonnet** — o soneto
 - [ ] **le soprano** — o soprano
 - [ ] **le sorbet** — o sorvete
 - [ ] **le sorgho** — o sorgo
@@ -4122,6 +4174,7 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **le tantale** — o tântalo
 - [ ] **le taon** — o moscardo
 - [ ] **le tapissier** — o tapeceiro
+- [ ] **le tarif** — a tarifa
 - [ ] **le tarif douanier** — a tarifa alfandegária
 - [ ] **le tatou** — o tatu
 - [ ] **le taux de change** — a taxa de câmbio
@@ -4130,6 +4183,8 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **le télescope** — o telescópio
 - [ ] **le télescope spatial** — o telescópio espacial
 - [ ] **le tellure** — o telúrio
+- [ ] **le tempo** — o andamento
+- [ ] **le tenant** — o tenente
 - [ ] **le tennesse** — o tenesso
 - [ ] **le tennisman** — o tenista
 - [ ] **le ténor** — o tenor
@@ -4190,6 +4245,7 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **le tricheur** — o trapaceiro
 - [ ] **le triglyphe** — o tríglifo
 - [ ] **le trimestre** — o trimestre
+- [ ] **le trio** — o trio
 - [ ] **le triperie** — a miudezas (loja)
 - [ ] **le triplé** — o trigêmeo
 - [ ] **le trisaïeul** — o trisavô
@@ -4208,6 +4264,7 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **le tsunami** — o tsunami
 - [ ] **le tuba** — a tuba
 - [ ] **le tubiste** — o tubista
+- [ ] **le tuf** — o tufo
 - [ ] **le tungstène** — o tungstênio
 - [ ] **le turbot** — o pregado
 - [ ] **le typographe** — o tipógrafo
@@ -4262,7 +4319,6 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **le zoologiste** — o zoólogo
 - [ ] **le zooplancton** — o zooplâncton
 - [ ] **légaliser** — legalizar
-- [ ] **légender** — legendar
 - [ ] **légiférer sur** — legislar sobre
 - [ ] **lénifiant** — leniente
 - [ ] **lénifier** — amenizar; suavizar
@@ -4291,8 +4347,10 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **libertaire** — libertário
 - [ ] **libertarien** — libertário
 - [ ] **liberticide** — libertário
+- [ ] **licite** — lícito
 - [ ] **ligamentaire** — ligamentar
 - [ ] **ligaturer** — ligar; atar
+- [ ] **limé** — limado
 - [ ] **liminaire** — liminar
 - [ ] **liquéfier** — liquefazer
 - [ ] **lithographier** — litografar
@@ -4304,6 +4362,7 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **louvoyer** — bordejar; tergiversar
 - [ ] **lubrifier** — lubrificar
 - [ ] **lunaire** — lunar
+- [ ] **lustré** — lustroso
 - [ ] **luxueux** — luxuoso
 - [ ] **luxuriant** — luxuriante
 - [ ] **lymphatique** — linfático
@@ -4321,12 +4380,9 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **maniaque** — maníaco
 - [ ] **manifester contre** — manifestar contra
 - [ ] **manigancer** — maquinar; tramar
-- [ ] **manœuvrer** — manobrar
 - [ ] **maquiller** — maquiar; disfarçar
 - [ ] **marécageux** — pantanoso
-- [ ] **mariner** — marinar; conservar
 - [ ] **marmonner** — resmungar
-- [ ] **martyriser** — martirizar; atormentar
 - [ ] **marxiste** — marxista
 - [ ] **masser** — massagear; reunir
 - [ ] **mastiquer** — mastigar
@@ -4344,7 +4400,7 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **médier un conflit** — mediar um conflito
 - [ ] **médire** — difamar; falar mal
 - [ ] **méditer sur** — meditar sobre
-- [ ] **mêler** — misturar
+- [ ] **méliorer** — melhorar
 - [ ] **mélodieux** — melodioso
 - [ ] **mélodique** — melódico
 - [ ] **mendélien** — mendeliano
@@ -4352,6 +4408,7 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **mener à bien** — levar a cabo
 - [ ] **mener à terme** — levar a termo
 - [ ] **mensualiser** — mensalizar
+- [ ] **mental** — mental
 - [ ] **méronymique** — meronímico
 - [ ] **mesurer l’impact** — medir o impacto
 - [ ] **métabolique** — metabólico
@@ -4377,7 +4434,6 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **mitoyen** — contíguo; lindeiro
 - [ ] **mnémonique** — mnemônico
 - [ ] **mnémontechnique** — mnemotécnico
-- [ ] **modeler** — modelar
 - [ ] **moduler** — modular
 - [ ] **moiser** — travar (madeira)
 - [ ] **moite** — úmido
@@ -4387,7 +4443,6 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **monastique** — monástico
 - [ ] **monétaire** — monetário
 - [ ] **monitorer** — monitorar
-- [ ] **monnayer** — monetizar; negociar
 - [ ] **monologique** — monológico
 - [ ] **monosémique** — monossêmico
 - [ ] **montagneux** — montanhoso
@@ -4401,14 +4456,13 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **motivant** — motivador
 - [ ] **motiver une décision** — motivar uma decisão
 - [ ] **motoriser** — motorizar
-- [ ] **mouler** — moldar; fundir
 - [ ] **multilatéral** — multilateral
 - [ ] **multiplicatif** — multiplicativo
 - [ ] **municipaliser** — municipalizar
-- [ ] **murer** — emparedar; fechar
 - [ ] **musculaire** — muscular
 - [ ] **mutique** — mudo
 - [ ] **mystérique** — mistérico
+- [ ] **naissant** — nascente
 - [ ] **narcissique** — narcisista
 - [ ] **nasal** — nasal
 - [ ] **nationaliste** — nacionalista
@@ -4430,6 +4484,7 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **nosocomial** — nosocomial
 - [ ] **nouer des liens** — criar vínculos
 - [ ] **nucléaire** — nuclear
+- [ ] **nul** — nulo
 - [ ] **numériser** — digitalizar
 - [ ] **obérer** — onerar; sobrecarregar
 - [ ] **oblitérer** — obliterar; apagar
@@ -4469,7 +4524,6 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **orogénique** — orogênico
 - [ ] **orthographier** — ortografar; grafar
 - [ ] **oscillant** — oscilante
-- [ ] **osciller** — oscilar
 - [ ] **ouaté** — abafado
 - [ ] **ourdir un complot** — urdir um complô
 - [ ] **outrecuidant** — presunçoso
@@ -4502,12 +4556,10 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **pardonner une offense** — perdoar uma ofensa
 - [ ] **parémiologique** — paremiológico
 - [ ] **parer à** — precaver-se contra
-- [ ] **parfumer** — perfumar; aromatizar
 - [ ] **parjurer** — perjurar
 - [ ] **parodier** — parodiar; imitar
 - [ ] **paronymique** — paronímico
 - [ ] **parquer** — estacionar; confinar
-- [ ] **partager en** — dividir em
 - [ ] **partisan** — partidário
 - [ ] **passer au crible** — peneirar; filtrar
 - [ ] **pasteuriser** — pasteurizar
@@ -4515,24 +4567,19 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **paterner** — paternalizar
 - [ ] **pathogène** — patogênico
 - [ ] **pathologique** — patológico
-- [ ] **patienter** — aguardar; esperar
 - [ ] **patiner** — patinar; deslizar
 - [ ] **pâtir** — sofrer; padecer
 - [ ] **patriotique** — patriótico
-- [ ] **peigner** — pentear
-- [ ] **peinturer** — pintar; colorir
 - [ ] **pénal** — penal
 - [ ] **pénalisant** — penalizante
-- [ ] **pénétrer** — penetrar; entrar
 - [ ] **péninsulaire** — peninsular
 - [ ] **pénitentiaire** — penitenciário
+- [ ] **pensable** — pensável
 - [ ] **pénultième** — penúltimo
 - [ ] **perçant** — penetrante
 - [ ] **perceptif** — perceptivo
 - [ ] **percuter** — percutir
-- [ ] **pérenniser** — perpetuar
 - [ ] **pérenniser un acquis** — perenizar uma conquista
-- [ ] **perforer** — perfurar; furação
 - [ ] **perfuser** — fazer infusão
 - [ ] **périmer** — expirar; caducar
 - [ ] **périodique** — periódico
@@ -4575,9 +4622,7 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **pluriel** — plural
 - [ ] **poinçonner** — puncionar; carimbar
 - [ ] **poison** — venenoso
-- [ ] **poisser** — emplastrar; pegar
 - [ ] **polaire** — polar
-- [ ] **polluer** — poluir; contaminar
 - [ ] **polyédrique** — poliédrico
 - [ ] **polymériser** — polimerizar
 - [ ] **polyphonique** — polifônico
@@ -4606,6 +4651,7 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **prémunir** — precaver; resguardar
 - [ ] **prendre parti** — tomar partido
 - [ ] **préparatoire** — preparatório
+- [ ] **prescriptible** — prescritível
 - [ ] **prescriptif** — prescritivo
 - [ ] **prescrit** — prescrito
 - [ ] **préserver la paix** — preservar a paz
@@ -4615,7 +4661,6 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **présomptueux** — presunçoso
 - [ ] **pressuriser** — pressurizar
 - [ ] **prêter serment** — prestar juramento
-- [ ] **prétexter** — pretextar
 - [ ] **prévalent** — prevalente
 - [ ] **prévenir un risque** — prevenir um risco
 - [ ] **prévenir une maladie** — prevenir uma doença
@@ -4667,10 +4712,8 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **radial** — radial
 - [ ] **radical** — radical
 - [ ] **radiographier** — radiografar
-- [ ] **raffoler** — adorar; gostar muito
 - [ ] **rager** — enfurecer; raivar
 - [ ] **raisonner** — raciocinar
-- [ ] **ramasser** — recolher; apanhar
 - [ ] **ramifier** — ramificar; dividir
 - [ ] **rançonner** — extorquir
 - [ ] **rapprocher les points de vue** — aproximar os pontos de vista
@@ -4687,7 +4730,6 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **recaser** — recolocar; realocar
 - [ ] **recentraliser** — recentralizar
 - [ ] **récessionniste** — recessionista
-- [ ] **rechercher** — pesquisar; procurar
 - [ ] **récidiviste** — reincidente
 - [ ] **reclasser** — reclassificar; reorganizar
 - [ ] **reclus** — recluso
@@ -4700,7 +4742,6 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **recopier** — recopiar; transcrever
 - [ ] **recouper des sources** — cruzar fontes
 - [ ] **recourir à** — recorrer a
-- [ ] **recouvrer** — recuperar
 - [ ] **rectiligne** — retilíneo
 - [ ] **récupérable** — recuperável
 - [ ] **récursif** — recursivo
@@ -4711,13 +4752,11 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **rééduquer** — reeducar
 - [ ] **réexpédier** — reexpedir; reenviar
 - [ ] **référentiel** — referencial
-- [ ] **réfléchir à** — refletir sobre
 - [ ] **réformer une décision** — reformar uma decisão
 - [ ] **réfractaire** — refratário
 - [ ] **réfréner** — refrear
 - [ ] **réfrigérer** — refrigerar; resfriar
 - [ ] **refroidir** — esfriar; resfriar
-- [ ] **réfugier** — refugiar; abrigar
 - [ ] **réfuter une accusation** — refutar uma acusação
 - [ ] **réfuter une hypothèse** — refutar uma hipótese
 - [ ] **régalien** — regaliano
@@ -4732,7 +4771,6 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **réintégrer** — reintegrar; readmitir
 - [ ] **rejeter une hypothèse** — rejeitar uma hipótese
 - [ ] **réjouissant** — alegre
-- [ ] **relâcher** — soltar
 - [ ] **relancer le dialogue** — relançar o diálogo
 - [ ] **relativiste** — relativista
 - [ ] **relayer une information** — retransmitir uma informação
@@ -4764,7 +4802,6 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **reprendre les négociations** — retomar as negociações
 - [ ] **répressif** — repressivo
 - [ ] **réprimer une infraction** — reprimir uma infração
-- [ ] **repriser** — cerzir
 - [ ] **reproduire** — reproduzir
 - [ ] **républicain** — republicano
 - [ ] **répudier** — repudiar
@@ -4792,7 +4829,6 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **rétablir les faits** — restabelecer os fatos
 - [ ] **retenir une hypothèse** — reter uma hipótese
 - [ ] **retenir une idée** — reter uma ideia
-- [ ] **retentir** — retumbar
 - [ ] **retentissant** — retumbante
 - [ ] **rétif** — rebelde
 - [ ] **retracer** — retraçar
@@ -4809,21 +4845,20 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **rigoriste** — rigorista
 - [ ] **rimique** — rímico
 - [ ] **rincer** — enxaguar; lavar
+- [ ] **roder** — rodar; amaciar
+- [ ] **rôder** — rondar; vagar
 - [ ] **rognonner** — resmungar
 - [ ] **romancer** — romancear
 - [ ] **rompre les négociations** — romper as negociações
 - [ ] **rompre les relations** — romper as relações
-- [ ] **rouiller** — enferrujar; oxidar
+- [ ] **rude** — rude
 - [ ] **rural** — rural
 - [ ] **rythmique** — rítmico
 - [ ] **s’abreuver** — dessedentar-se
 - [ ] **s’accorder sur** — concordar sobre
 - [ ] **s’affamer** — passar fome
-- [ ] **s’alimenter** — alimentar-se
-- [ ] **s’amender** — emendar-se
 - [ ] **s’écarter** — afastar-se
 - [ ] **s’écarter de** — afastar-se de
-- [ ] **s’élever** — elevar-se
 - [ ] **s’éloigner de** — afastar-se de
 - [ ] **s’engager à** — comprometer-se a
 - [ ] **s’entendre sur** — entender-se sobre
@@ -4838,6 +4873,7 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **sacramentel** — sacramental
 - [ ] **sacrifier** — sacrificar; imolar
 - [ ] **saillir** — sobressair; ressaltar
+- [ ] **saisissable** — penhorável
 - [ ] **saisonnier** — sazonal
 - [ ] **salarier** — assalariar; remunerar
 - [ ] **salpêtrer** — salitrar
@@ -4850,18 +4886,16 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **sanctuariser** — sacralizar; proteger
 - [ ] **sarcler** — capinar; mondar
 - [ ] **saturer** — saturar; encher
+- [ ] **savonner** — ensaboar
 - [ ] **scandé** — escandido
 - [ ] **schismatique** — cismático
 - [ ] **scier** — serrar; cortar
 - [ ] **scinder en deux** — cindir em dois
-- [ ] **sculpter** — esculpir
 - [ ] **se compromettre** — comprometer-se
 - [ ] **se concerter** — concertar-se
 - [ ] **se conformer à** — conformar-se a
-- [ ] **se consulter** — consultar-se
 - [ ] **se convertir à** — converter-se a
 - [ ] **se déjuger** — desdizer-se
-- [ ] **se demander** — perguntar-se
 - [ ] **se désaltérer** — matar a sede
 - [ ] **se déshydrater** — desidratar-se
 - [ ] **se déterminer** — determinar-se
@@ -4875,7 +4909,6 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **se poser la question** — colocar-se a questão
 - [ ] **se prononcer** — pronunciar-se
 - [ ] **se racheter** — redimir-se
-- [ ] **se rapprocher de** — aproximar-se de
 - [ ] **se rassasier** — saciar-se
 - [ ] **se rebeller contre** — rebelar-se contra
 - [ ] **se reconvertir** — reconverter-se
@@ -4884,7 +4917,6 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **se réorienter** — reorientar-se
 - [ ] **se soumettre à** — submeter-se a
 - [ ] **se sustenter** — sustentar-se
-- [ ] **sécréter** — secretar; segregar
 - [ ] **sécularisé** — secularizado
 - [ ] **séculariser** — secularizar
 - [ ] **sédimentaire** — sedimentar
@@ -4909,7 +4941,6 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **sigillographique** — sigilográfico
 - [ ] **signer un traité** — assinar um tratado
 - [ ] **similaire** — similar
-- [ ] **singer** — macacar; imitar
 - [ ] **sinueux** — sinuoso
 - [ ] **sismique** — sísmico
 - [ ] **socialiste** — socialista
@@ -4923,7 +4954,6 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **songer à** — pensar em
 - [ ] **sororal** — sororal
 - [ ] **sotériologique** — soteriológico
-- [ ] **souffler** — soprar
 - [ ] **souffrant** — sofredor
 - [ ] **soulager la misère** — aliviar a miséria
 - [ ] **soulever des interrogations** — levantar questionamentos
@@ -4980,7 +5010,6 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **suffocant** — sufocante
 - [ ] **suffoquer** — sufocar
 - [ ] **suivre l’évolution** — acompanhar a evolução
-- [ ] **superposer** — sobrepor; empilhar
 - [ ] **suppléer** — suprir
 - [ ] **supplémentaire** — suplementar
 - [ ] **supplicier** — supliciar; torturar
@@ -4990,10 +5019,8 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **suraigu** — superagudo
 - [ ] **surcharger** — sobrecarregar
 - [ ] **surélever** — sobreelevar; erguer
-- [ ] **surfacer** — alizar; aplainar
 - [ ] **surmonter une difficulté** — superar uma dificuldade
 - [ ] **surnager** — flutuar; sobrenadar
-- [ ] **surnommer** — apelidar
 - [ ] **surpeupler** — superpovoar
 - [ ] **sursauter** — sobressaltar-se
 - [ ] **sursseoir** — sobrestar
@@ -5017,13 +5044,11 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **synodal** — sinodal
 - [ ] **synonymique** — sinonímico
 - [ ] **syntaxique** — sintático
-- [ ] **tabler** — contar; apostar
 - [ ] **tactile** — tátil
 - [ ] **tangent** — tangente
 - [ ] **tapageur** — chamativo / espalhafatoso
 - [ ] **tarifaire** — tarifário
 - [ ] **tarifer** — tarifar; tabelar
-- [ ] **tasser** — compactar; apertar
 - [ ] **technocratique** — tecnocrático
 - [ ] **teinter** — tingir
 - [ ] **teinter de** — tingir de
@@ -5037,10 +5062,7 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **tenailler** — atormentar; torturar
 - [ ] **tendineux** — tendinoso
 - [ ] **tensoriel** — tensorial
-- [ ] **terminal** — terminal
 - [ ] **terminologique** — terminológico
-- [ ] **terrasser** — derrubar; prostrar
-- [ ] **terrer** — esconder; entocar
 - [ ] **territorialiser** — territorializar
 - [ ] **tester une hypothèse** — testar uma hipótese
 - [ ] **théocratique** — teocrático
@@ -5050,18 +5072,15 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **tisser des liens** — tecer vínculos
 - [ ] **tissulaire** — tecidual
 - [ ] **titanesque** — titanesco
-- [ ] **titrer** — titular; dosar
 - [ ] **toiser** — medir com olhar; desafiar
 - [ ] **tondre** — tosquiar; aparar
 - [ ] **tonifier** — tonificar
 - [ ] **tonitruant** — tonitruante
-- [ ] **tonner** — trovejar
 - [ ] **topologique** — topológico
 - [ ] **toponymique** — toponímico
 - [ ] **torréfier** — torrar; tostar
 - [ ] **torride** — tórrido
 - [ ] **tortueux** — tortuoso
-- [ ] **torturer** — torturar; atormentar
 - [ ] **totaliser** — totalizar; somar
 - [ ] **totalitaire** — totalitário
 - [ ] **tourbeux** — turfoso
@@ -5084,7 +5103,6 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **transplanter** — transplantar
 - [ ] **transversal** — transversal
 - [ ] **traquer** — acuar; perseguir
-- [ ] **trembler** — tremer
 - [ ] **trépasser** — falecer; morrer
 - [ ] **trépigner** — espernear; sapatear
 - [ ] **tressaillir** — sobressaltar-se
@@ -5102,9 +5120,11 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **typographique** — tipográfico
 - [ ] **tyrannique** — tirânico
 - [ ] **urbaniser** — urbanizar
+- [ ] **urinaire** — urinário
 - [ ] **usurper** — usurpar
 - [ ] **vacillant** — vacilante
 - [ ] **vaincre un obstacle** — vencer um obstáculo
+- [ ] **valide** — válido
 - [ ] **valider une hypothèse** — validar uma hipótese
 - [ ] **vandaliser** — vandalizar
 - [ ] **vaniteux** — vaidoso
@@ -5112,7 +5132,6 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **vasculaire** — vascular
 - [ ] **vassaliser** — vassalizar; submeter
 - [ ] **vectoriel** — vetorial
-- [ ] **veiller à** — zelar por
 - [ ] **veiller au respect** — zelar pelo respeito
 - [ ] **veineux** — venoso
 - [ ] **vénéneux** — venenoso
@@ -5127,14 +5146,11 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **vexer** — vexar; magoar
 - [ ] **viager** — vitalício
 - [ ] **vibrant** — vibrante
-- [ ] **vibrer** — vibrar
 - [ ] **vigoureux** — vigoroso
 - [ ] **villageois** — aldeão
 - [ ] **vindicter** — vingar
 - [ ] **violent** — violento
-- [ ] **violer** — violar
 - [ ] **violer la loi** — violar a lei
-- [ ] **virer** — virar; transferir
 - [ ] **virulent** — virulento
 - [ ] **visualiser** — visualizar; ver
 - [ ] **visuel** — visual
@@ -5147,7 +5163,6 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **vociférer** — vociferar
 - [ ] **volatiliser** — volatilizar; evaporar
 - [ ] **volcanique** — vulcânico
-- [ ] **vouloir dire** — querer dizer; significar
 - [ ] **vriller** — furar; torcer
 - [ ] **xénophobe** — xenófobo
 - [ ] **xylographique** — xilográfico
