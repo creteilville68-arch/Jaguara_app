@@ -1,10 +1,10 @@
 # #3 Lille — A2
 
-**217 palavras** ainda precisam aparecer nos textos das aulas desta cidade.
+**216 palavras** ainda precisam aparecer nos textos das aulas desta cidade.
 
 Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aventura do Irlan.
 
-## A2 (217)
+## A2 (216)
 
 - [ ] **à gauche** — à esquerda
 - [ ] **accomplir** — cumprir / realizar
@@ -193,33 +193,32 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **pessimiste** — pessimista
 - [ ] **porter des lunettes de soleil** — usar óculos de sol
 - [ ] **prendre l’ascenseur** — pegar o elevador
-- [ ] **prendre soin de** — cuidar de
-- [ ] **présenter quelqu’un** — apresentar alguém
-- [ ] **prolonger le séjour** — prolongar a estadia
-- [ ] **râler** — resmungar
-- [ ] **recommandée** — recomendada / indicada com elogio
-- [ ] **réfléchis** — penso / reflito (do verbo réfléchir)
-- [ ] **rembourser** — reembolsar
-- [ ] **rendre un livre** — devolver um livro
-- [ ] **repasser le linge** — passar a roupa
-- [ ] **répondre au message** — responder à mensagem
-- [ ] **retrouver des amis** — encontrar amigos
-- [ ] **s’abonner** — assinar (serviço)
-- [ ] **s’installer** — instalar-se / mudar-se
-- [ ] **satisfaire** — satisfazer
-- [ ] **se fâcher** — ficar com raiva
-- [ ] **se plaindre** — reclamar
-- [ ] **se régaler** — deliciar-se
-- [ ] **se taire** — calar-se
-- [ ] **sincère** — sincero
-- [ ] **souhaiter bonne chance** — desejar boa sorte
-- [ ] **sourd** — surdo
-- [ ] **suivre les panneaux** — seguir as placas
-- [ ] **tchatter** — conversar (chat)
-- [ ] **tousser** — tossir
-- [ ] **travailler à temps partiel** — trabalhar em meio período
-- [ ] **un bol de** — uma tigela de
-- [ ] **vendre un appartement** — vender um apartamento
-- [ ] **visiter quelqu’un** — visitar alguém
-- [ ] **vomir** — vomitar
-- [ ] **voyager en bateau** — viajar de barco
+- [ ] **prendre son temps** — ir com calma
+- [ ] **prévenir** — avisar
+- [ ] **raccrocher** — desligar (telefone)
+- [ ] **récemment** — recentemente
+- [ ] **recouvrir** — cobrir
+- [ ] **regarder la télévision** — assistir à televisão
+- [ ] **rendre service** — fazer um favor
+- [ ] **rentrer chez soi** — voltar para casa
+- [ ] **répondre à la porte** — atender a porta
+- [ ] **respirer profondément** — respirar fundo
+- [ ] **retrouver son chemin** — reencontrar o caminho
+- [ ] **s’ennuyer** — entediar-se
+- [ ] **s’occuper de** — cuidar de / ocupar-se de
+- [ ] **se connecter au wifi** — conectar-se ao wifi
+- [ ] **se faire du souci** — preocupar-se
+- [ ] **se protéger du soleil** — proteger-se do sol
+- [ ] **se renseigner** — informar-se
+- [ ] **se tromper de route** — errar o caminho
+- [ ] **sortir les poubelles** — colocar o lixo para fora
+- [ ] **souhaiter un bon anniversaire** — desejar feliz aniversário
+- [ ] **stationner** — estacionar
+- [ ] **surfer sur internet** — navegar na internet
+- [ ] **tomber en panne** — quebrar / enguiçar
+- [ ] **tout à coup** — de repente
+- [ ] **travailler à temps plein** — trabalhar em período integral
+- [ ] **un paquet de** — um pacote de
+- [ ] **verrouiller** — trancar
+- [ ] **visser** — aparafusar
+- [ ] **voyager à pied** — viajar a pé

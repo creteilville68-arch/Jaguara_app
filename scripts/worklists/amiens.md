@@ -1,10 +1,10 @@
 # #2 Amiens — A1/A2
 
-**339 palavras** ainda precisam aparecer nos textos das aulas desta cidade.
+**337 palavras** ainda precisam aparecer nos textos das aulas desta cidade.
 
 Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aventura do Irlan.
 
-## A1 (122)
+## A1 (120)
 
 - [ ] **aimer une publication** — curtir uma publicação
 - [ ] **appeler un ami** — ligar para um amigo
@@ -20,23 +20,21 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **en désordre** — desarrumado
 - [ ] **envoyer un SMS** — enviar um SMS
 - [ ] **escalator** — escada rolante
-- [ ] **éteindre l’ordinateur** — desligar o computador
-- [ ] **faire la cuisine** — cozinhar
+- [ ] **étendre le linge** — estender a roupa
 - [ ] **faire une vidéo** — fazer um vídeo
 - [ ] **flash** — flash / sem flash / com flash
 - [ ] **hui** — hoje (segunda parte de 'aujourd'hui')
 - [ ] **in** — em / dentro (prefixo ou expressão como check-in)
-- [ ] **jusqu** — até / até a (usado em 'jusqu'à')
-- [ ] **l’allumette** — o fósforo
-- [ ] **l’ananas** — o abacaxi
-- [ ] **l’armoire** — o armário
-- [ ] **l’égouttoir** — o escorredor de louça
-- [ ] **l’expresso** — o café expresso
-- [ ] **l’infirmière** — a enfermeira
-- [ ] **l’interphone** — o interfone
-- [ ] **l’œuf à la coque** — o ovo cozido
-- [ ] **la banane** — a banana
-- [ ] **la batterie (téléphone)** — a bateria (celular)
+- [ ] **l’adoucissant** — o amaciante
+- [ ] **l’ampoule** — a lâmpada
+- [ ] **l’araignée** — a aranha
+- [ ] **l’aubergine** — a berinjela
+- [ ] **l’évier** — a pia
+- [ ] **l’imprimante** — a impressora
+- [ ] **l’instituteur** — o professor primário
+- [ ] **l’interrupteur** — o interruptor
+- [ ] **l’oncle** — o tio
+- [ ] **la bande dessinée** — a história em quadrinhos
 - [ ] **la brioche** — o brioche
 - [ ] **la casquette** — o boné
 - [ ] **la chantilly** — o chantilly
@@ -319,32 +317,32 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **porter des lunettes** — usar óculos
 - [ ] **poser du papier peint** — colocar papel de parede
 - [ ] **prendre rendez-vous** — marcar compromisso
-- [ ] **prendre un parapluie** — levar um guarda-chuva
-- [ ] **prévoir** — prever
-- [ ] **radin** — mão de vaca / pão-duro
-- [ ] **recharger** — recarregar
-- [ ] **redevenir** — voltar a ser
-- [ ] **réjouir** — alegrar
-- [ ] **rendre un article** — devolver um produto
-- [ ] **réparer un appareil** — consertar um aparelho
-- [ ] **répondre à tous** — responder a todos
-- [ ] **rester coincé** — ficar preso
-- [ ] **réutiliser** — reutilizar
-- [ ] **s’informer** — informar-se
-- [ ] **s’orienter** — orientar-se
-- [ ] **se distraire** — distrair-se
-- [ ] **se faire rembourser** — ser reembolsado
-- [ ] **se réconcilier** — reconciliar-se
-- [ ] **se rétablir** — recuperar-se
-- [ ] **signaler** — sinalizar / reportar
-- [ ] **souhaiter** — desejar
-- [ ] **soulagé** — aliviado
-- [ ] **stressé** — estressado
-- [ ] **sympathique** — simpático
-- [ ] **tomber malade** — ficar doente
-- [ ] **transférer** — encaminhar
-- [ ] **trier** — separar / classificar
-- [ ] **une canette** — uma latinha
-- [ ] **vider la poubelle** — esvaziar o lixo
-- [ ] **vocale** — vocal / por voz (ex: annonce vocale)
-- [ ] **voyager en avion** — viajar de avião
+- [ ] **présenter quelqu’un** — apresentar alguém
+- [ ] **prolonger le séjour** — prolongar a estadia
+- [ ] **râler** — resmungar
+- [ ] **recommandée** — recomendada / indicada com elogio
+- [ ] **réfléchis** — penso / reflito (do verbo réfléchir)
+- [ ] **rembourser** — reembolsar
+- [ ] **rendre un livre** — devolver um livro
+- [ ] **repasser le linge** — passar a roupa
+- [ ] **répondre au message** — responder à mensagem
+- [ ] **retrouver des amis** — encontrar amigos
+- [ ] **s’abonner** — assinar (serviço)
+- [ ] **s’installer** — instalar-se / mudar-se
+- [ ] **satisfaire** — satisfazer
+- [ ] **se fâcher** — ficar com raiva
+- [ ] **se plaindre** — reclamar
+- [ ] **se régaler** — deliciar-se
+- [ ] **se taire** — calar-se
+- [ ] **sincère** — sincero
+- [ ] **souhaiter bonne chance** — desejar boa sorte
+- [ ] **sourd** — surdo
+- [ ] **suivre les panneaux** — seguir as placas
+- [ ] **tchatter** — conversar (chat)
+- [ ] **tousser** — tossir
+- [ ] **travailler à temps partiel** — trabalhar em meio período
+- [ ] **un bol de** — uma tigela de
+- [ ] **vendre un appartement** — vender um apartamento
+- [ ] **visiter quelqu’un** — visitar alguém
+- [ ] **vomir** — vomitar
+- [ ] **voyager en bateau** — viajar de barco

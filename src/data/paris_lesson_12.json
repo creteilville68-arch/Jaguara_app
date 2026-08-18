@@ -3,266 +3,290 @@
   "cityId": "paris",
   "domain": "Saúde & Cotidiano",
   "level": "Iniciante (A1)",
-  "titleFr": "La pharmacie du quartier",
-  "titlePt": "A farmácia do bairro",
-  "subtitleFr": "Íris est malade, le pharmacien donne des conseils",
-  "subtitlePt": "Íris está doente, o farmacêutico dá conselhos",
-  "summaryPt": "Nesta Aula 12 (A1), Íris está doente com um resfriado. A família vai à farmácia do bairro, onde o farmacêutico examina a menina e dá conselhos. O aluno aprende 'avoir mal à' (ter dor em) e 'il faut + infinitivo' (é preciso fazer algo).",
+  "titleFr": "Le rhume d'Irlan",
+  "titlePt": "O resfriado do Irlan",
+  "subtitleFr": "La pharmacie, le sirop et les soins d'Andréa",
+  "subtitlePt": "A farmácia, o xarope e os cuidados da Andréa",
+  "summaryPt": "Nesta Aula 12 (A1), Irlan fica resfriado em janeiro. Andréa o leva à farmácia do bairro, compra uma bebida quente e cuida dele em casa. O aluno aprende 'avoir mal à' (ter dor em) e 'il faut + infinitivo' (é preciso fazer algo).",
   "paragraphs": [
     {
       "id": 1,
-      "fr": "Mardi, Íris est malade. Elle a mal à la tête et un peu de fièvre. La famille va à la pharmacie du quartier.",
-      "pt": "Terça-feira, Íris está doente. Ela tem dor de cabeça e um pouco de febre. A família vai à farmácia do bairro."
+      "fr": "C'est janvier. Il fait froid à Paris. Irlan a mal à la tête et un peu de fièvre.",
+      "pt": "É janeiro. Faz frio em Paris. Irlan tem dor de cabeça e um pouco de febre."
     },
     {
       "id": 2,
-      "fr": "Le pharmacien regarde Íris et sourit. « Elle a un petit rhume. Ce n'est pas grave », dit-il. Il donne un sirop et des conseils.",
-      "pt": "O farmacêutico olha para Íris e sorri. «Ela está com um resfriado leve. Não é grave», diz ele. Ele dá um xarope e conselhos."
+      "fr": "« Tu dois aller chez le médecin ? » demande Andréa. « Non, c'est un petit rhume », répond Irlan.",
+      "pt": "«Você precisa ir ao médico?» pergunta Andréa. «Não, é um resfriadinho», responde Irlan."
     },
     {
       "id": 3,
-      "fr": "Andréa achète aussi des vitamines pour Irlan. Le pharmacien dit : « Il faut boire de l'eau, se reposer et tout ira bien. »",
-      "pt": "Andréa compra também vitaminas para o Irlan. O farmacêutico diz: «É preciso beber água, descansar e tudo ficará bem.»"
+      "fr": "Ils vont à la pharmacie du quartier. Le pharmacien sourit. « Ce n'est pas grave », dit-il.",
+      "pt": "Eles vão à farmácia do bairro. O farmacêutico sorri. «Não é grave», diz ele."
     },
     {
       "id": 4,
-      "fr": "À la maison, Íris boit son sirop et dort. Le soir, elle va mieux. La famille est contente. Irlan dit : « Merci, madame la pharmacienne ! »",
-      "pt": "Em casa, Íris bebe o seu xarope e dorme. À noite, ela está melhor. A família está contente. Irlan diz: «Obrigado, senhora farmacêutica!»"
+      "fr": "Le pharmacien donne un sirop et des conseils. « Il faut boire de l'eau et se reposer. »",
+      "pt": "O farmacêutico dá um xarope e alguns conselhos. «É preciso beber água e descansar.»"
+    },
+    {
+      "id": 5,
+      "fr": "Andréa achète aussi une boisson chaude pour Irlan. Elle est attentionnée.",
+      "pt": "Andréa compra também uma bebida quente para o Irlan. Ela é atenciosa."
+    },
+    {
+      "id": 6,
+      "fr": "À la maison, Irlan se couche. Andréa fait le lit et reste près de lui.",
+      "pt": "Em casa, Irlan se deita. Andréa arruma a cama e fica perto dele."
+    },
+    {
+      "id": 7,
+      "fr": "« Tu vas mieux demain », dit-elle doucement. Elle prépare une soupe chaude.",
+      "pt": "«Amanhã você vai ficar melhor», diz ela baixinho. Ela prepara uma sopa quente."
+    },
+    {
+      "id": 8,
+      "fr": "Irlan boit le sirop et la boisson chaude. Il regarde Andréa. « Merci d'être là. »",
+      "pt": "Irlan bebe o xarope e a bebida quente. Ele olha para a Andréa. «Obrigado por estar aqui.»"
+    },
+    {
+      "id": 9,
+      "fr": "Le soir, il va un peu mieux. La fièvre tombe.",
+      "pt": "À noite, ele está um pouco melhor. A febre baixa."
+    },
+    {
+      "id": 10,
+      "fr": "Andréa essuie la vaisselle dans la petite cuisine. Irlan la regarde depuis le lit.",
+      "pt": "Andréa seca a louça na cozinha pequena. Irlan a observa da cama."
+    },
+    {
+      "id": 11,
+      "fr": "« Demain, tu ne vas pas au travail », dit-elle. « Repose-toi. »",
+      "pt": "«Amanhã você não vai trabalhar», diz ela. «Descanse.»"
+    },
+    {
+      "id": 12,
+      "fr": "Irlan sourit. Pour la première fois en France, être malade n'est pas triste : quelqu'un prend soin de lui.",
+      "pt": "Irlan sorri. Pela primeira vez na França, ficar doente não é triste: alguém cuida dele."
     }
   ],
   "vocabularyDictionary": [
     {
-      "term": "malade",
-      "definitionPt": "doente",
-      "definitionFr": "Qui n'est pas en bonne santé.",
-      "inflections": ["malade", "malades"],
-      "ptTargets": ["doente"],
-      "examples": [
-        { "level": "A1", "fr": "Íris est malade.", "pt": "Íris está doente." },
-        { "level": "A2-B1", "fr": "Le petit garçon est malade aujourd'hui.", "pt": "O menino está doente hoje." },
-        { "level": "B2", "fr": "Elle est restée à la maison parce qu'elle était malade.", "pt": "Ela ficou em casa porque estava doente." },
-        { "level": "C1-C2", "fr": "Se sentir malade est une raison légitime de consulter un médecin.", "pt": "Sentir-se doente é uma razão legítima para consultar um médico." }
-      ]
-    },
-    {
-      "term": "tête",
-      "definitionPt": "cabeça",
-      "definitionFr": "Partie supérieure du corps humain.",
-      "inflections": ["la tête", "une tête", "des têtes"],
-      "ptTargets": ["cabeça"],
-      "examples": [
-        { "level": "A1", "fr": "Elle a mal à la tête.", "pt": "Ela tem dor de cabeça." },
-        { "level": "A2-B1", "fr": "J'ai mal à la tête ce matin.", "pt": "Eu tenho dor de cabeça esta manhã." },
-        { "level": "B2", "fr": "Le mal de tête est souvent causé par la fatigue.", "pt": "A dor de cabeça é frequentemente causada pela fadiga." },
-        { "level": "C1-C2", "fr": "Un léger mal de tête peut gâcher toute une journée.", "pt": "Uma leve dor de cabeça pode estragar um dia inteiro." }
-      ]
-    },
-    {
-      "term": "fièvre",
-      "definitionPt": "febre",
-      "definitionFr": "Température du corps plus élevée que la normale.",
-      "inflections": ["la fièvre", "une fièvre"],
-      "ptTargets": ["febre"],
-      "examples": [
-        { "level": "A1", "fr": "Elle a un peu de fièvre.", "pt": "Ela tem um pouco de febre." },
-        { "level": "A2-B1", "fr": "Le sirop fait baisser la fièvre.", "pt": "O xarope faz baixar a febre." },
-        { "level": "B2", "fr": "La fièvre est un signe que le corps se défend.", "pt": "A febre é um sinal de que o corpo se defende." },
-        { "level": "C1-C2", "fr": "Une forte fièvre nécessite une consultation médicale rapide.", "pt": "Uma febre forte exige uma consulta médica rápida." }
-      ]
-    },
-    {
-      "term": "pharmacie",
-      "definitionPt": "farmácia",
+      "term": "la pharmacie",
+      "definitionPt": "a farmácia",
       "definitionFr": "Magasin où l'on vend des médicaments.",
       "inflections": ["la pharmacie", "une pharmacie", "des pharmacies"],
       "ptTargets": ["farmácia"],
       "examples": [
-        { "level": "A1", "fr": "La famille va à la pharmacie.", "pt": "A família vai à farmácia." },
-        { "level": "A2-B1", "fr": "La pharmacie est près de la maison.", "pt": "A farmácia fica perto de casa." },
-        { "level": "B2", "fr": "La pharmacie de garde est ouverte la nuit.", "pt": "A farmácia de plantão está aberta à noite." },
-        { "level": "C1-C2", "fr": "La pharmacie française est un maillon essentiel du système de santé.", "pt": "A farmácia francesa é um elo essencial do sistema de saúde." }
+        { "level": "A1", "fr": "Ils vont à la pharmacie du quartier.", "pt": "Eles vão à farmácia do bairro." },
+        { "level": "A2-B1", "fr": "La pharmacie est au coin de la rue.", "pt": "A farmácia fica na esquina." },
+        { "level": "B2", "fr": "Je passe à la pharmacie pour acheter des médicaments.", "pt": "Passo na farmácia para comprar remédios." },
+        { "level": "C1-C2", "fr": "Le pharmacien conseille autant qu'il délivre les ordonnances.", "pt": "O farmacêutico orienta tanto quanto entrega as receitas." }
       ]
     },
     {
-      "term": "pharmacien",
-      "definitionPt": "farmacêutico",
-      "definitionFr": "Personne qui vend des médicaments et donne des conseils de santé.",
-      "inflections": ["le pharmacien", "un pharmacien", "des pharmaciens"],
-      "ptTargets": ["farmacêutico"],
-      "examples": [
-        { "level": "A1", "fr": "Le pharmacien regarde Íris.", "pt": "O farmacêutico olha para Íris." },
-        { "level": "A2-B1", "fr": "Le pharmacien donne un sirop.", "pt": "O farmacêutico dá um xarope." },
-        { "level": "B2", "fr": "Le pharmacien conseille les clients avec attention.", "pt": "O farmacêutico aconselha os clientes com atenção." },
-        { "level": "C1-C2", "fr": "Le pharmacien joue un rôle de premier secours dans le quotidien des Français.", "pt": "O farmacêutico desempenha um papel de primeiros socorros no cotidiano dos franceses." }
-      ]
-    },
-    {
-      "term": "rhume",
-      "definitionPt": "resfriado",
-      "definitionFr": "Maladie bénigne qui touche le nez et la gorge.",
+      "term": "le rhume",
+      "definitionPt": "o resfriado",
+      "definitionFr": "Maladie légère qui fait éternuer et tousser.",
       "inflections": ["le rhume", "un rhume", "des rhumes"],
       "ptTargets": ["resfriado"],
       "examples": [
-        { "level": "A1", "fr": "Elle a un petit rhume.", "pt": "Ela está com um resfriado leve." },
-        { "level": "A2-B1", "fr": "Le rhume passe en quelques jours.", "pt": "O resfriado passa em alguns dias." },
-        { "level": "B2", "fr": "Un bon repos soigne le rhume.", "pt": "Um bom descanso cura o resfriado." },
-        { "level": "C1-C2", "fr": "Le rhume, bien que bénin, reste très contagieux.", "pt": "O resfriado, embora benigno, continua muito contagioso." }
+        { "level": "A1", "fr": "Irlan a un petit rhume.", "pt": "Irlan está com um resfriadinho." },
+        { "level": "A2-B1", "fr": "En hiver, j'attrape souvent un rhume.", "pt": "No inverno, eu pego resfriado com frequência." },
+        { "level": "B2", "fr": "Un rhume se soigne avec du repos et de l'eau.", "pt": "Um resfriado se trata com descanso e água." },
+        { "level": "C1-C2", "fr": "Le rhume, banal mais tenace, rappelle que le corps a ses limites.", "pt": "O resfriado, banal mas persistente, lembra que o corpo tem limites." }
       ]
     },
     {
-      "term": "sirop",
-      "definitionPt": "xarope",
+      "term": "la fièvre",
+      "definitionPt": "a febre",
+      "definitionFr": "Température du corps trop élevée.",
+      "inflections": ["la fièvre", "une fièvre"],
+      "ptTargets": ["febre"],
+      "examples": [
+        { "level": "A1", "fr": "Irlan a un peu de fièvre.", "pt": "Irlan está com um pouco de febre." },
+        { "level": "A2-B1", "fr": "La fièvre monte le soir.", "pt": "A febre sobe à noite." },
+        { "level": "B2", "fr": "La fièvre est tombée pendant la nuit.", "pt": "A febre baixou durante a noite." },
+        { "level": "C1-C2", "fr": "Une fièvre persistante mérite toujours l'avis d'un médecin.", "pt": "Uma febre persistente sempre merece a avaliação de um médico." }
+      ]
+    },
+    {
+      "term": "le sirop",
+      "definitionPt": "o xarope",
       "definitionFr": "Médicament liquide et sucré.",
       "inflections": ["le sirop", "un sirop", "des sirops"],
       "ptTargets": ["xarope"],
       "examples": [
-        { "level": "A1", "fr": "Íris boit son sirop.", "pt": "Íris bebe o seu xarope." },
-        { "level": "A2-B1", "fr": "Le sirop a un goût sucré.", "pt": "O xarope tem um gosto doce." },
-        { "level": "B2", "fr": "Prendre du sirop avant de dormir calme la toux.", "pt": "Tomar xarope antes de dormir acalma a tosse." },
-        { "level": "C1-C2", "fr": "Le sirop pour enfants est dosé selon l'âge et le poids.", "pt": "O xarope para crianças é dosado de acordo com a idade e o peso." }
+        { "level": "A1", "fr": "Le pharmacien donne un sirop.", "pt": "O farmacêutico dá um xarope." },
+        { "level": "A2-B1", "fr": "Irlan boit son sirop avant de dormir.", "pt": "Irlan bebe o xarope antes de dormir." },
+        { "level": "B2", "fr": "Le sirop adoucit la gorge irritée.", "pt": "O xarope suaviza a garganta irritada." },
+        { "level": "C1-C2", "fr": "Un sirop bien dosé soulage sans masquer les symptômes.", "pt": "Um xarope bem dosado alivia sem mascarar os sintomas." }
       ]
     },
     {
-      "term": "conseil",
-      "definitionPt": "conselho",
-      "definitionFr": "Recommandation faite pour aider quelqu'un.",
-      "inflections": ["le conseil", "un conseil", "des conseils"],
-      "ptTargets": ["conselho"],
+      "term": "la boisson chaude",
+      "definitionPt": "a bebida quente",
+      "definitionFr": "Boisson servie chaude, comme le thé ou le café.",
+      "inflections": ["la boisson chaude", "une boisson chaude", "des boissons chaudes"],
+      "ptTargets": ["bebida quente"],
       "examples": [
-        { "level": "A1", "fr": "Le pharmacien donne des conseils.", "pt": "O farmacêutico dá conselhos." },
-        { "level": "A2-B1", "fr": "Merci pour ton conseil !", "pt": "Obrigado pelo seu conselho!" },
-        { "level": "B2", "fr": "Suivre les conseils du pharmacien est important.", "pt": "Seguir os conselhos do farmacêutico é importante." },
-        { "level": "C1-C2", "fr": "Un bon conseil médical peut éviter bien des complications.", "pt": "Um bom conselho médico pode evitar muitas complicações." }
+        { "level": "A1", "fr": "Andréa achète une boisson chaude.", "pt": "Andréa compra uma bebida quente." },
+        { "level": "A2-B1", "fr": "Une boisson chaude réchauffe en hiver.", "pt": "Uma bebida quente aquece no inverno." },
+        { "level": "B2", "fr": "Après la marche sous la pluie, une boisson chaude est la bienvenue.", "pt": "Depois da caminhada na chuva, uma bebida quente é bem-vinda." },
+        { "level": "C1-C2", "fr": "Une boisson chaude partagée adoucit les soirées d'hiver.", "pt": "Uma bebida quente compartilhada suaviza as noites de inverno." }
       ]
     },
     {
-      "term": "vitamine",
-      "definitionPt": "vitamina",
-      "definitionFr": "Substance nécessaire au bon fonctionnement du corps.",
-      "inflections": ["la vitamine", "une vitamine", "des vitamines"],
-      "ptTargets": ["vitamina"],
+      "term": "faire le lit",
+      "definitionPt": "arrumar a cama",
+      "definitionFr": "Ranger les draps et la couverture du lit.",
+      "inflections": ["faire le lit", "je fais le lit", "il fait le lit"],
+      "ptTargets": ["arrumar a cama"],
       "examples": [
-        { "level": "A1", "fr": "Andréa achète des vitamines.", "pt": "Andréa compra vitaminas." },
-        { "level": "A2-B1", "fr": "Les vitamines donnent de l'énergie.", "pt": "As vitaminas dão energia." },
-        { "level": "B2", "fr": "Les fruits sont riches en vitamines.", "pt": "As frutas são ricas em vitaminas." },
-        { "level": "C1-C2", "fr": "Une alimentation variée apporte naturellement les vitamines nécessaires.", "pt": "Uma alimentação variada fornece naturalmente as vitaminas necessárias." }
+        { "level": "A1", "fr": "Andréa fait le lit.", "pt": "Andréa arruma a cama." },
+        { "level": "A2-B1", "fr": "Je fais le lit tous les matins.", "pt": "Eu arrumo a cama todas as manhãs." },
+        { "level": "B2", "fr": "Faire le lit prend une minute et change toute la chambre.", "pt": "Arrumar a cama leva um minuto e muda o quarto inteiro." },
+        { "level": "C1-C2", "fr": "Faire le lit le matin est un premier geste d'ordre dans la journée.", "pt": "Arrumar a cama de manhã é um primeiro gesto de ordem no dia." }
       ]
     },
     {
       "term": "se reposer",
       "definitionPt": "descansar",
-      "definitionFr": "Cesser toute activité pour récupérer.",
-      "inflections": ["je me repose", "se reposer", "il se repose"],
+      "definitionFr": "Se détendre pour reprendre des forces.",
+      "inflections": ["se reposer", "je me repose", "il se repose"],
       "ptTargets": ["descansar"],
       "examples": [
         { "level": "A1", "fr": "Il faut se reposer.", "pt": "É preciso descansar." },
-        { "level": "A2-B1", "fr": "Je me repose ce week-end.", "pt": "Eu descanso neste fim de semana." },
-        { "level": "B2", "fr": "Elle se repose après une longue semaine.", "pt": "Ela descansa depois de uma longa semana." },
-        { "level": "C1-C2", "fr": "Se reposer est essentiel pour retrouver des forces.", "pt": "Descansar é essencial para recuperar as forças." }
+        { "level": "A2-B1", "fr": "Je me repose après le déjeuner.", "pt": "Eu descanso depois do almoço." },
+        { "level": "B2", "fr": "Se reposer est essentiel pour guérir vite.", "pt": "Descansar é essencial para se curar rápido." },
+        { "level": "C1-C2", "fr": "Se reposer n'est pas perdre du temps, c'est le rendre possible.", "pt": "Descansar não é perder tempo, é torná-lo possível." }
       ]
     },
     {
-      "term": "eau",
-      "definitionPt": "água",
-      "definitionFr": "Liquide incolore et indispensable à la vie.",
-      "inflections": ["l'eau"],
-      "ptTargets": ["água"],
+      "term": "essuyer la vaisselle",
+      "definitionPt": "secar a louça",
+      "definitionFr": "Sécher les assiettes et les verres après la vaisselle.",
+      "inflections": ["essuyer la vaisselle", "j'essuie la vaisselle", "il essuie la vaisselle"],
+      "ptTargets": ["secar a louça"],
       "examples": [
-        { "level": "A1", "fr": "Il faut boire de l'eau.", "pt": "É preciso beber água." },
-        { "level": "A2-B1", "fr": "Je bois de l'eau tous les matins.", "pt": "Eu bebo água todas as manhãs." },
-        { "level": "B2", "fr": "L'eau est essentielle pour le corps humain.", "pt": "A água é essencial para o corpo humano." },
-        { "level": "C1-C2", "fr": "Une bonne hydratation repose sur une consommation régulière d'eau.", "pt": "Uma boa hidratação baseia-se no consumo regular de água." }
+        { "level": "A1", "fr": "Andréa essuie la vaisselle.", "pt": "Andréa seca a louça." },
+        { "level": "A2-B1", "fr": "J'essuie la vaisselle pendant que tu ranges.", "pt": "Eu seco a louça enquanto você guarda." },
+        { "level": "B2", "fr": "Elle essuie la vaisselle avec un torchon propre.", "pt": "Ela seca a louça com um pano de prato limpo." },
+        { "level": "C1-C2", "fr": "Essuyer la vaisselle ensemble transforme une corvée en moment partagé.", "pt": "Secar a louça juntos transforma uma tarefa em momento compartilhado." }
       ]
     },
     {
-      "term": "content",
-      "definitionPt": "contente, feliz",
-      "definitionFr": "Qui éprouve de la satisfaction.",
-      "inflections": ["content", "contente", "contents", "contentes"],
-      "ptTargets": ["contente", "feliz"],
+      "term": "aller au travail",
+      "definitionPt": "ir ao trabalho",
+      "definitionFr": "Se rendre à son lieu de travail.",
+      "inflections": ["aller au travail", "je vais au travail", "il va au travail"],
+      "ptTargets": ["ir ao trabalho"],
       "examples": [
-        { "level": "A1", "fr": "La famille est contente.", "pt": "A família está contente." },
-        { "level": "A2-B1", "fr": "Je suis content de te voir.", "pt": "Eu estou contente em te ver." },
-        { "level": "B2", "fr": "Elle est contente de son achat.", "pt": "Ela está contente com a sua compra." },
-        { "level": "C1-C2", "fr": "Être content de son travail contribue au bien-être général.", "pt": "Estar contente com o seu trabalho contribui para o bem-estar geral." }
+        { "level": "A1", "fr": "Irlan ne va pas au travail demain.", "pt": "Irlan não vai trabalhar amanhã." },
+        { "level": "A2-B1", "fr": "Je vais au travail en métro.", "pt": "Vou ao trabalho de metrô." },
+        { "level": "B2", "fr": "Aller au travail à vélo est bon pour la santé.", "pt": "Ir ao trabalho de bicicleta faz bem à saúde." },
+        { "level": "C1-C2", "fr": "Aller au travail à pied change le regard sur la ville.", "pt": "Ir ao trabalho a pé muda o olhar sobre a cidade." }
+      ]
+    },
+    {
+      "term": "le pharmacien",
+      "definitionPt": "o farmacêutico",
+      "definitionFr": "Personne qui vend et prépare les médicaments.",
+      "inflections": ["le pharmacien", "un pharmacien", "des pharmaciens"],
+      "ptTargets": ["farmacêutico"],
+      "examples": [
+        { "level": "A1", "fr": "Le pharmacien sourit.", "pt": "O farmacêutico sorri." },
+        { "level": "A2-B1", "fr": "Le pharmacien donne des conseils.", "pt": "O farmacêutico dá conselhos." },
+        { "level": "B2", "fr": "Le pharmacien explique comment prendre le sirop.", "pt": "O farmacêutico explica como tomar o xarope." },
+        { "level": "C1-C2", "fr": "Le pharmacien, au carrefour de la science et du soin, écoute avant de conseiller.", "pt": "O farmacêutico, no cruzamento entre ciência e cuidado, escuta antes de aconselhar." }
+      ]
+    },
+    {
+      "term": "janvier",
+      "definitionPt": "janeiro",
+      "definitionFr": "Le premier mois de l'année.",
+      "inflections": ["janvier"],
+      "ptTargets": ["janeiro"],
+      "examples": [
+        { "level": "A1", "fr": "C'est janvier.", "pt": "É janeiro." },
+        { "level": "A2-B1", "fr": "En janvier, il fait froid à Paris.", "pt": "Em janeiro, faz frio em Paris." },
+        { "level": "B2", "fr": "Janvier est le mois des bonnes résolutions.", "pt": "Janeiro é o mês das boas resoluções." },
+        { "level": "C1-C2", "fr": "Janvier, dans sa rigueur, prépare la douceur du printemps.", "pt": "Janeiro, no seu rigor, prepara a doçura da primavera." }
+      ]
+    },
+    {
+      "term": "avoir mal à",
+      "definitionPt": "ter dor em",
+      "definitionFr": "Ressentir une douleur dans une partie du corps.",
+      "inflections": ["avoir mal à", "j'ai mal à", "il a mal à"],
+      "ptTargets": ["dor", "ter dor"],
+      "examples": [
+        { "level": "A1", "fr": "Irlan a mal à la tête.", "pt": "Irlan está com dor de cabeça." },
+        { "level": "A2-B1", "fr": "J'ai mal à la gorge depuis ce matin.", "pt": "Estou com dor de garganta desde esta manhã." },
+        { "level": "B2", "fr": "Elle a mal au dos à force de porter des colis.", "pt": "Ela sente dor nas costas de tanto carregar pacotes." },
+        { "level": "C1-C2", "fr": "Avoir mal sans rien dire finit par épuiser le corps.", "pt": "Sentir dor sem dizer nada acaba esgotando o corpo." }
       ]
     }
   ],
   "grammarTip": {
-    "ruleTitle": "Avoir mal à + partie du corps",
-    "explanationPt": "Para dizer que se tem dor em alguma parte do corpo: 'avoir mal à' + artigo. Ex.: 'Elle a mal à la tête' (Ela tem dor de cabeça), 'J'ai mal au ventre' (Eu tenho dor de barriga).",
-    "exampleFr": "Elle a mal à la tête et un peu de fièvre.",
-    "examplePt": "Ela tem dor de cabeça e um pouco de febre.",
-    "practiceQuestion": "Complete com a forma correta: 'J'___ mal au dos.'",
-    "options": ["ai", "a", "as"],
+    "ruleTitle": "Avoir mal à + il faut + infinitif",
+    "explanationPt": "'avoir mal à' = ter dor em (j'ai mal à la tête, à la gorge, au dos). 'Il faut + infinitivo' = é preciso fazer algo (il faut boire de l'eau, il faut se reposer).",
+    "exampleFr": "Irlan a mal à la tête. Il faut se reposer.",
+    "examplePt": "Irlan está com dor de cabeça. É preciso descansar.",
+    "practiceQuestion": "Complete: 'Il _____ mal à la gorge.'",
+    "options": ["a", "as", "ont"],
     "correctIndex": 0,
     "points": [
       {
         "ruleTitle": "Avoir mal à + partie du corps",
-        "explanationPt": "Com 'avoir mal à', usamos: à la (fem.), au (masc.: à + le), à l' (vogal). Ex.: 'Elle a mal à la tête', 'Il a mal au dos', 'J'ai mal à l'oreille'.",
-        "exampleFr": "Elle a mal à la tête, mais elle va mieux le soir.",
-        "examplePt": "Ela tem dor de cabeça, mas melhora à noite.",
-        "practiceQuestion": "Complete: 'Il a mal _____ dos.'",
+        "explanationPt": "Para dizer onde dói: 'avoir mal à + parte do corpo'. 'à la tête' (cabeça), 'à la gorge' (garganta), 'au dos' (costas), 'au ventre' (barriga). Ex.: 'J'ai mal à la tête.'",
+        "exampleFr": "J'ai mal à la tête.",
+        "examplePt": "Estou com dor de cabeça.",
+        "practiceQuestion": "Complete: 'Elle a mal _____ dos.'",
         "options": ["au", "à la", "aux"],
         "correctIndex": 0
       },
       {
         "ruleTitle": "Il faut + infinitif",
-        "explanationPt": "'Il faut' (é preciso / é necessário) é sempre seguido de infinitivo: 'Il faut boire de l'eau' (É preciso beber água), 'Il faut se reposer' (É preciso descansar).",
-        "exampleFr": "Il faut boire de l'eau, se reposer et tout ira bien.",
-        "examplePt": "É preciso beber água, descansar e tudo ficará bem.",
-        "practiceQuestion": "Complete: 'Il faut _____ (boire) de l'eau.'",
-        "options": ["boire", "bois", "boit"],
+        "explanationPt": "'Il faut' + infinitivo expressa necessidade ou conselho: 'Il faut boire de l'eau', 'Il faut se reposer', 'Il faut dormir'. Ex.: 'Il faut se reposer.'",
+        "exampleFr": "Il faut se reposer.",
+        "examplePt": "É preciso descansar.",
+        "practiceQuestion": "Complete: 'Il faut _____ de l'eau.'",
+        "options": ["boire", "bois", "buvons"],
         "correctIndex": 0
       }
     ]
   },
   "quizQuestions": [
     {
-      "question": "Complete a frase do texto: 'Elle a mal à la _____ et un peu de fièvre.'",
-      "options": ["tête", "main", "jambe"],
+      "question": "O que Irlan tem em janeiro?",
+      "options": ["Um resfriado e um pouco de febre", "Uma dor no pé", "Uma alergia"],
       "correctIndex": 0,
-      "explanation": "No texto: 'Elle a mal à la tête et un peu de fièvre.'"
+      "explanation": "No texto: 'Irlan a mal à la tête et un peu de fièvre' e 'c'est un petit rhume'."
     },
     {
-      "question": "Ordene corretamente as palavras da frase: [ boire / il faut / de l'eau / , / ]",
-      "options": [
-        "Il faut boire de l'eau.",
-        "Boire il faut de l'eau.",
-        "De l'eau il faut boire."
-      ],
+      "question": "Onde eles compram o sirop?",
+      "options": ["Na farmácia do bairro", "No mercado", "Na padaria"],
       "correctIndex": 0,
-      "explanation": "A frase exata do texto é 'Il faut boire de l'eau, se reposer et tout ira bien.'"
+      "explanation": "No texto: 'Ils vont à la pharmacie du quartier. Le pharmacien donne un sirop.'"
     },
     {
-      "question": "Como se traduz: 'Ela tem dor de cabeça'?",
-      "options": [
-        "Elle a mal à la tête.",
-        "Elle est mal à la tête.",
-        "Elle a tête à la mal."
-      ],
+      "question": "O que o farmacêutico aconselha?",
+      "options": ["Beber água e descansar", "Correr no parque", "Comer mais açúcar"],
       "correctIndex": 0,
-      "explanation": "'avoir mal à la tête' = ter dor de cabeça; conjugado: 'elle a mal à la tête'."
+      "explanation": "No texto: 'Il faut boire de l'eau et se reposer.'"
     },
     {
-      "question": "Identifique a frase com ERRO:",
-      "options": [
-        "Il faut boire de l'eau.",
-        "Il faut se reposer.",
-        "Il faut dormir vite le sirop."
-      ],
-      "correctIndex": 2,
-      "explanation": "O erro é 'Il faut dormir vite le sirop': o correto é 'Il faut prendre le sirop' (é preciso tomar o xarope)."
+      "question": "O que Andréa faz em casa para cuidar de Irlan?",
+      "options": ["Faz a cama, uma sopa e seca a louça", "Vai trabalhar", "Assiste à TV"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'Andréa fait le lit', 'prépare une soupe chaude' e 'essuie la vaisselle'."
     },
     {
-      "question": "O que o farmacêutico diz sobre o estado de Íris?",
-      "options": [
-        "Ela tem um pequeno resfriado e não é grave",
-        "Ela precisa ir ao hospital",
-        "Ela está muito doente"
-      ],
+      "question": "Como Irlan se sente no fim do dia?",
+      "options": ["Um pouco melhor, porque alguém cuida dele", "Pior", "Igual ao começo"],
       "correctIndex": 0,
-      "explanation": "No texto: 'Elle a un petit rhume. Ce n'est pas grave', dit-il."
+      "explanation": "No texto: 'Le soir, il va un peu mieux' e 'être malade n'est pas triste : quelqu'un prend soin de lui.'"
     }
   ]
 }

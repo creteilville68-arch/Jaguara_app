@@ -1,10 +1,10 @@
 # #1 Paris — A1
 
-**122 palavras** ainda precisam aparecer nos textos das aulas desta cidade.
+**120 palavras** ainda precisam aparecer nos textos das aulas desta cidade.
 
 Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aventura do Irlan.
 
-## A1 (122)
+## A1 (120)
 
 - [ ] **acide** — azedo
 - [ ] **aller au travail** — ir ao trabalho
@@ -20,24 +20,22 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **égoïste** — egoísta
 - [ ] **en dessous** — abaixo
 - [ ] **envoyer une lettre** — enviar uma carta
-- [ ] **essuyer la vaisselle** — secar a louça
-- [ ] **étendre le linge** — estender a roupa
-- [ ] **faire le lit** — arrumar a cama
+- [ ] **éteindre l’ordinateur** — desligar o computador
+- [ ] **faire la cuisine** — cozinhar
 - [ ] **fi** — Fi (parte da palavra Wi-Fi)
 - [ ] **gagner un match** — vencer uma partida
 - [ ] **imprimer** — imprimir
-- [ ] **janvier** — janeiro
-- [ ] **l’adoucissant** — o amaciante
-- [ ] **l’ampoule** — a lâmpada
-- [ ] **l’araignée** — a aranha
-- [ ] **l’aubergine** — a berinjela
-- [ ] **l’évier** — a pia
-- [ ] **l’imprimante** — a impressora
-- [ ] **l’instituteur** — o professor primário
-- [ ] **l’interrupteur** — o interruptor
-- [ ] **l’oncle** — o tio
-- [ ] **la bande dessinée** — a história em quadrinhos
-- [ ] **la boisson chaude** — a bebida quente
+- [ ] **jusqu** — até / até a (usado em 'jusqu'à')
+- [ ] **l’allumette** — o fósforo
+- [ ] **l’ananas** — o abacaxi
+- [ ] **l’armoire** — o armário
+- [ ] **l’égouttoir** — o escorredor de louça
+- [ ] **l’expresso** — o café expresso
+- [ ] **l’infirmière** — a enfermeira
+- [ ] **l’interphone** — o interfone
+- [ ] **l’œuf à la coque** — o ovo cozido
+- [ ] **la banane** — a banana
+- [ ] **la batterie (téléphone)** — a bateria (celular)
 - [ ] **la brosse à dents** — a escova de dentes
 - [ ] **la chaîne de télévision** — o canal de TV
 - [ ] **la clé à molette** — a chave inglesa
