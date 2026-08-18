@@ -1,112 +1,191 @@
 {
   "id": "amiens_lesson_15",
   "cityId": "amiens",
-  "domain": "Tradição & Cultura Popular",
+  "domain": "Cultura & Tradição",
   "level": "Iniciante em Transição (A1/A2)",
   "titleFr": "Les marionnettes picardes",
   "titlePt": "As marionetes picardas",
-  "subtitleFr": "Chés Cabotans et le héros Lafleur",
-  "subtitlePt": "Chés Cabotans e o herói Lafleur",
-  "summaryPt": "Nesta Aula 15 (A1/A2) da Cidade #2, a família assiste a um espetáculo de marionetes picardas, os Chés Cabotans, tradição de Amiens desde o século XIX com o herói Lafleur. O aluno pratica o verbo 'jouer' e o imperativo.",
+  "subtitleFr": "Un théâtre de bois et de fils",
+  "subtitlePt": "Um teatro de madeira e fios",
+  "summaryPt": "Na Aula 15 de Amiens (A1/A2), Irlan e Andréa assistem a um espetáculo de marionetes. O aluno pratica o verbo 'pouvoir' e as expressões de opinião.",
   "paragraphs": [
     {
       "id": 1,
-      "fr": "Le théâtre de marionnettes d'Amiens présente les Chés Cabotans. « Ce sont des marionnettes traditionnelles de la Picardie, dit Andréa. Le héros s'appelle Lafleur. Il porte un grand chapeau. »",
-      "pt": "O teatro de marionetes de Amiens apresenta os Chés Cabotans. « São marionetes tradicionais da Picardia, diz Andréa. O herói se chama Lafleur. Ele usa um grande chapéu. »"
+      "fr": "Le soir, Irlan et Andréa entrent dans un petit théâtre de marionnettes.",
+      "pt": "À noite, Irlan e Andréa entram num pequeno teatro de marionetes."
     },
     {
       "id": 2,
-      "fr": "« Comment joue-t-on avec une marionnette ? » demande Íris. Le marionnettiste répond : « Regardez ! Je mets la main dans la marionnette et je bouge ses bras. Les marionnettes de Picardie sont des marottes à main. »",
-      "pt": "« Como se brinca com uma marionete? » pergunta Íris. O marionetista responde: « Olhem! Eu ponho a mão na marionete e mexo os braços dela. As marionetes da Picardia são marotes de mão. »"
+      "fr": "Les sièges sont en bois et la scène est minuscule, éclairée de rouge.",
+      "pt": "Os assentos são de madeira e o palco é minúsculo, iluminado de vermelho."
     },
     {
       "id": 3,
-      "fr": "Le spectacle commence. Lafleur parle avec une voix drôle et fait rire tout le monde. « Écoutez ! dit Lafleur. Je vais vous raconter une histoire picarde. » La famille applaudit.",
-      "pt": "O espetáculo começa. Lafleur fala com uma voz engraçada e faz todo mundo rir. « Escutem! diz Lafleur. Vou lhes contar uma história picarda. » A família aplaude."
+      "fr": "Quand la lumière baisse, une marionnette sort des rideaux.",
+      "pt": "Quando a luz baixa, uma marionete sai das cortinas."
     },
     {
       "id": 4,
-      "fr": "Après le spectacle, Íris essaie une marionnette. « Je suis une petite marionnettiste ! » dit-elle. Irlan sourit : « La tradition continue avec toi ! »",
-      "pt": "Depois do espetáculo, Íris experimenta uma marionete. « Eu sou uma pequena marionetista! » diz ela. Irlan sorri: « A tradição continua com você! »"
+      "fr": "Elle parle fort, saute et fait rire toute la salle.",
+      "pt": "Ela fala alto, pula e faz toda a sala rir."
+    },
+    {
+      "id": 5,
+      "fr": "« On peut voir les fils ? » demande Andréa, curieuse.",
+      "pt": "« Dá para ver os fios? » pergunta Andréa, curiosa."
+    },
+    {
+      "id": 6,
+      "fr": "« Presque pas », répond Irlan. « C'est ça, la magie du théâtre. »",
+      "pt": "« Quase não », responde Irlan. « É isso, a magia do teatro. »"
+    },
+    {
+      "id": 7,
+      "fr": "Une autre marionnette arrive, coiffée d'un grand chapeau.",
+      "pt": "Outra marionete chega, com um grande chapéu."
+    },
+    {
+      "id": 8,
+      "fr": "Les deux personnages se disputent, puis dansent ensemble.",
+      "pt": "Os dois personagens discutem e depois dançam juntos."
+    },
+    {
+      "id": 9,
+      "fr": "Andréa applaudit. « J'aime ce mélange de rire et de poésie. »",
+      "pt": "Andréa aplaude. « Eu gosto dessa mistura de riso e poesia. »"
+    },
+    {
+      "id": 10,
+      "fr": "À la fin, l'artiste montre ses mains vides, puis salue.",
+      "pt": "No fim, o artista mostra as mãos vazias e depois cumprimenta."
+    },
+    {
+      "id": 11,
+      "fr": "En sortant, Irlan dit : « Chaque ville a ses marionnettes. Chaque ville a une voix. »",
+      "pt": "Ao sair, Irlan diz: « Cada cidade tem suas marionetes. Cada cidade tem uma voz. »"
+    },
+    {
+      "id": 12,
+      "fr": "« Et Amiens nous parle peut-être à travers ses fils », ajoute Andréa, pensive.",
+      "pt": "« E Amiens talvez fale conosco através de seus fios », acrescenta Andréa, pensativa."
     }
   ],
   "vocabularyDictionary": [
     {
       "term": "la marionnette",
       "definitionPt": "a marionete",
-      "definitionFr": "Personnage que l'on fait bouger.",
+      "definitionFr": "Poupée animée par des fils.",
       "inflections": ["la marionnette", "une marionnette", "des marionnettes"],
-      "ptTargets": ["marionete", "fantoche"],
+      "ptTargets": ["marionete"],
       "examples": [
-        { "level": "A1", "fr": "La marionnette est drôle.", "pt": "A marionete é engraçada." },
-        { "level": "A2-B1", "fr": "Les marionnettes picardes sont célèbres.", "pt": "As marionetes picardas são famosas." },
-        { "level": "B2", "fr": "La marionnette, colorée, danse au bout des doigts.", "pt": "A marionete, colorida, dança na ponta dos dedos." },
-        { "level": "C1-C2", "fr": "C'est la marionnette qui, vivante, porte la voix du peuple.", "pt": "É a marionete que, viva, carrega a voz do povo." }
+        { "level": "A1", "fr": "La marionnette est petite.", "pt": "A marionete é pequena." },
+        { "level": "A2-B1", "fr": "Une marionnette sort des rideaux.", "pt": "Uma marionete sai das cortinas." },
+        { "level": "B2", "fr": "La marionnette, agile, semble vivante entre les mains de l'artiste.", "pt": "A marionete, ágil, parece viva nas mãos do artista." },
+        { "level": "C1-C2", "fr": "C'est la marionnette qui, au bout de ses fils, donne une âme à la matière.", "pt": "É a marionete que, na ponta de seus fios, dá alma à matéria." }
       ]
     },
     {
       "term": "le théâtre",
       "definitionPt": "o teatro",
-      "definitionFr": "Lieu de spectacles.",
+      "definitionFr": "Lieu de représentation.",
       "inflections": ["le théâtre", "un théâtre", "des théâtres"],
       "ptTargets": ["teatro"],
       "examples": [
-        { "level": "A1", "fr": "Le théâtre est beau.", "pt": "O teatro é bonito." },
-        { "level": "A2-B1", "fr": "Le théâtre de marionnettes est petit.", "pt": "O teatro de marionetes é pequeno." },
-        { "level": "B2", "fr": "Le théâtre, ancien, accueille les spectacles depuis des décennies.", "pt": "O teatro, antigo, recebe espetáculos há décadas." },
-        { "level": "C1-C2", "fr": "C'est le théâtre qui, magique, fait vivre les histoires.", "pt": "É o teatro que, mágico, dá vida às histórias." }
+        { "level": "A1", "fr": "Le théâtre est petit.", "pt": "O teatro é pequeno." },
+        { "level": "A2-B1", "fr": "Ils entrent dans un petit théâtre.", "pt": "Eles entram num pequeno teatro." },
+        { "level": "B2", "fr": "Le théâtre de marionnettes attire un public de tous les âges.", "pt": "O teatro de marionetes atrai um público de todas as idades." },
+        { "level": "C1-C2", "fr": "C'est le théâtre qui, même minuscule, ouvre un monde sans limites.", "pt": "É o teatro que, mesmo minúsculo, abre um mundo sem limites." }
       ]
     },
     {
-      "term": "traditionnel",
-      "definitionPt": "tradicional",
-      "definitionFr": "Qui suit la tradition.",
-      "inflections": ["traditionnel", "traditionnelle", "traditionnels"],
-      "ptTargets": ["tradicional"],
+      "term": "la scène",
+      "definitionPt": "o palco",
+      "definitionFr": "Espace où jouent les artistes.",
+      "inflections": ["la scène", "une scène", "des scènes"],
+      "ptTargets": ["palco"],
       "examples": [
-        { "level": "A1", "fr": "Le spectacle est traditionnel.", "pt": "O espetáculo é tradicional." },
-        { "level": "A2-B1", "fr": "Ce sont des marionnettes traditionnelles.", "pt": "São marionetes tradicionais." },
-        { "level": "B2", "fr": "La fête traditionnelle anime la ville chaque année.", "pt": "A festa tradicional anima a cidade todos os anos." },
-        { "level": "C1-C2", "fr": "C'est le savoir traditionnel qui, transmis, survit au temps.", "pt": "É o saber tradicional que, transmitido, sobrevive ao tempo." }
+        { "level": "A1", "fr": "La scène est éclairée.", "pt": "O palco está iluminado." },
+        { "level": "A2-B1", "fr": "La scène est minuscule.", "pt": "O palco é minúsculo." },
+        { "level": "B2", "fr": "Sur la scène, les marionnettes prennent vie.", "pt": "No palco, as marionetes ganham vida." },
+        { "level": "C1-C2", "fr": "C'est la scène qui, réduite à quelques planches, contient tous les rêves possibles.", "pt": "É o palco que, reduzido a algumas tábuas, contém todos os sonhos possíveis." }
       ]
     },
     {
-      "term": "le héros",
-      "definitionPt": "o herói",
-      "definitionFr": "Personnage principal et courageux.",
-      "inflections": ["le héros", "un héros", "des héros"],
-      "ptTargets": ["herói"],
+      "term": "le fil",
+      "definitionPt": "o fio",
+      "definitionFr": "Corde très fine.",
+      "inflections": ["le fil", "un fil", "des fils"],
+      "ptTargets": ["fio"],
       "examples": [
-        { "level": "A1", "fr": "Le héros est courageux.", "pt": "O herói é corajoso." },
-        { "level": "A2-B1", "fr": "Le héros s'appelle Lafleur.", "pt": "O herói se chama Lafleur." },
-        { "level": "B2", "fr": "Le héros de la pièce fait rire le public.", "pt": "O herói da peça faz o público rir." },
-        { "level": "C1-C2", "fr": "C'est le héros qui, populaire, représente tout un peuple.", "pt": "É o herói que, popular, representa todo um povo." }
+        { "level": "A1", "fr": "Le fil est long.", "pt": "O fio é comprido." },
+        { "level": "A2-B1", "fr": "On peut voir les fils des marionnettes ?", "pt": "Dá para ver os fios das marionetes?" },
+        { "level": "B2", "fr": "L'artiste tire les fils avec précision.", "pt": "O artista puxa os fios com precisão." },
+        { "level": "C1-C2", "fr": "C'est le fil qui, invisible, relie le geste de l'artiste au mouvement du personnage.", "pt": "É o fio que, invisível, liga o gesto do artista ao movimento do personagem." }
+      ]
+    },
+    {
+      "term": "le rideau",
+      "definitionPt": "a cortina",
+      "definitionFr": "Tissu qui cache la scène.",
+      "inflections": ["le rideau", "un rideau", "des rideaux"],
+      "ptTargets": ["cortina"],
+      "examples": [
+        { "level": "A1", "fr": "Le rideau est rouge.", "pt": "A cortina é vermelha." },
+        { "level": "A2-B1", "fr": "Une marionnette sort des rideaux.", "pt": "Uma marionete sai das cortinas." },
+        { "level": "B2", "fr": "Le rideau se lève lentement au début du spectacle.", "pt": "A cortina se ergue lentamente no começo do espetáculo." },
+        { "level": "C1-C2", "fr": "C'est le rideau qui, en se levant, fait taire la salle d'un seul coup.", "pt": "É a cortina que, ao se erguer, silencia a sala de uma só vez." }
+      ]
+    },
+    {
+      "term": "la salle",
+      "definitionPt": "a sala / o público",
+      "definitionFr": "Pièce où se trouve le public.",
+      "inflections": ["la salle", "une salle", "des salles"],
+      "ptTargets": ["sala", "público"],
+      "examples": [
+        { "level": "A1", "fr": "La salle est pleine.", "pt": "A sala está cheia." },
+        { "level": "A2-B1", "fr": "La marionnette fait rire toute la salle.", "pt": "A marionete faz toda a sala rir." },
+        { "level": "B2", "fr": "La salle applaudit longuement à la fin.", "pt": "A sala aplaude longamente no fim." },
+        { "level": "C1-C2", "fr": "C'est la salle qui, attentive, respire au même rythme que la scène.", "pt": "É a sala que, atenta, respira no mesmo ritmo que o palco." }
+      ]
+    },
+    {
+      "term": "rire",
+      "definitionPt": "rir",
+      "definitionFr": "Exprimer la joie par le rire.",
+      "inflections": ["rire", "je ris", "nous rions"],
+      "ptTargets": ["rir"],
+      "examples": [
+        { "level": "A1", "fr": "Je ris beaucoup.", "pt": "Eu rio muito." },
+        { "level": "A2-B1", "fr": "La marionnette fait rire la salle.", "pt": "A marionete faz a sala rir." },
+        { "level": "B2", "fr": "Rire ensemble rapproche les inconnus.", "pt": "Rir juntos aproxima os desconhecidos." },
+        { "level": "C1-C2", "fr": "C'est le rire qui, partagé, transforme une salle en communauté.", "pt": "É o riso que, compartilhado, transforma uma sala em comunidade." }
       ]
     },
     {
       "term": "le chapeau",
       "definitionPt": "o chapéu",
-      "definitionFr": "Vêtement que l'on porte sur la tête.",
+      "definitionFr": "Objet que l'on porte sur la tête.",
       "inflections": ["le chapeau", "un chapeau", "des chapeaux"],
       "ptTargets": ["chapéu"],
       "examples": [
         { "level": "A1", "fr": "Le chapeau est grand.", "pt": "O chapéu é grande." },
-        { "level": "A2-B1", "fr": "Lafleur porte un grand chapeau.", "pt": "Lafleur usa um grande chapéu." },
-        { "level": "B2", "fr": "Le chapeau, haut, fait la fierté du héros.", "pt": "O chapéu, alto, é o orgulho do herói." },
-        { "level": "C1-C2", "fr": "C'est le chapeau qui, emblématique, rend Lafleur unique.", "pt": "É o chapéu que, emblemático, torna Lafleur único." }
+        { "level": "A2-B1", "fr": "La marionnette porte un grand chapeau.", "pt": "A marionete usa um grande chapéu." },
+        { "level": "B2", "fr": "Le chapeau du personnage lui donne un air comique.", "pt": "O chapéu do personagem lhe dá um ar cômico." },
+        { "level": "C1-C2", "fr": "C'est le chapeau qui, disproportionné, achève de rendre le personnage inoubliable.", "pt": "É o chapéu que, desproporcional, termina de tornar o personagem inesquecível." }
       ]
     },
     {
-      "term": "le marionnettiste",
-      "definitionPt": "o marionetista",
-      "definitionFr": "Artiste qui anime les marionnettes.",
-      "inflections": ["le marionnettiste", "un marionnettiste", "des marionnettistes"],
-      "ptTargets": ["marionetista"],
+      "term": "danser",
+      "definitionPt": "dançar",
+      "definitionFr": "Bouger en rythme.",
+      "inflections": ["danser", "je danse", "nous dansons"],
+      "ptTargets": ["dançar"],
       "examples": [
-        { "level": "A1", "fr": "Le marionnettiste est habile.", "pt": "O marionetista é habilidoso." },
-        { "level": "A2-B1", "fr": "Le marionnettiste bouge les bras.", "pt": "O marionetista mexe os braços." },
-        { "level": "B2", "fr": "Le marionnettiste donne la vie à ses personnages.", "pt": "O marionetista dá vida aos seus personagens." },
-        { "level": "C1-C2", "fr": "C'est le marionnettiste qui, invisible, fait parler les héros.", "pt": "É o marionetista que, invisível, faz falar os heróis." }
+        { "level": "A1", "fr": "Je danse avec joie.", "pt": "Eu danço com alegria." },
+        { "level": "A2-B1", "fr": "Les deux personnages dansent ensemble.", "pt": "Os dois personagens dançam juntos." },
+        { "level": "B2", "fr": "Danser libère et rapproche les gens.", "pt": "Dançar liberta e aproxima as pessoas." },
+        { "level": "C1-C2", "fr": "C'est en dansant que le corps dit ce que la voix ne peut pas exprimer.", "pt": "É dançando que o corpo diz o que a voz não consegue expressar." }
       ]
     },
     {
@@ -117,136 +196,97 @@
       "ptTargets": ["mão"],
       "examples": [
         { "level": "A1", "fr": "La main est petite.", "pt": "A mão é pequena." },
-        { "level": "A2-B1", "fr": "Je mets la main dans la marionnette.", "pt": "Eu ponho a mão na marionete." },
-        { "level": "B2", "fr": "Les mains du marionnettiste sont très rapides.", "pt": "As mãos do marionetista são muito rápidas." },
-        { "level": "C1-C2", "fr": "C'est la main qui, agile, anime toute une histoire.", "pt": "É a mão que, ágil, anima uma história inteira." }
+        { "level": "A2-B1", "fr": "L'artiste montre ses mains vides.", "pt": "O artista mostra as mãos vazias." },
+        { "level": "B2", "fr": "Ses mains bougent avec une précision étonnante.", "pt": "Suas mãos se movem com uma precisão surpreendente." },
+        { "level": "C1-C2", "fr": "C'est la main qui, invisible derrière la scène, donne vie à tout le reste.", "pt": "É a mão que, invisível atrás do palco, dá vida a todo o resto." }
       ]
     },
     {
-      "term": "bouger",
-      "definitionPt": "mexer",
-      "definitionFr": "Changer de position.",
-      "inflections": ["je bouge", "bouger", "nous bougeons"],
-      "ptTargets": ["mexer", "movimentar"],
+      "term": "saluer",
+      "definitionPt": "cumprimentar / saudar",
+      "definitionFr": "Dire bonjour ou merci au public.",
+      "inflections": ["saluer", "je salue", "nous saluons"],
+      "ptTargets": ["cumprimentar", "saudar"],
       "examples": [
-        { "level": "A1", "fr": "Je bouge la main.", "pt": "Eu mexo a mão." },
-        { "level": "A2-B1", "fr": "Je bouge ses bras avec mes doigts.", "pt": "Mexo os braços dele com meus dedos." },
-        { "level": "B2", "fr": "La marionnette bouge comme une personne.", "pt": "A marionete se move como uma pessoa." },
-        { "level": "C1-C2", "fr": "C'est en bougeant que l'on donne vie aux choses.", "pt": "É mexendo que se dá vida às coisas." }
+        { "level": "A1", "fr": "Je salue mes amis.", "pt": "Eu cumprimento meus amigos." },
+        { "level": "A2-B1", "fr": "L'artiste salue le public.", "pt": "O artista cumprimenta o público." },
+        { "level": "B2", "fr": "À la fin, l'artiste salue et remercie la salle.", "pt": "No fim, o artista cumprimenta e agradece a sala." },
+        { "level": "C1-C2", "fr": "C'est en saluant que l'artiste rend au public ce que le public lui a offert.", "pt": "É cumprimentando que o artista devolve ao público o que o público lhe ofereceu." }
       ]
     },
     {
-      "term": "le public",
-      "definitionPt": "o público",
-      "definitionFr": "Ensemble des spectateurs.",
-      "inflections": ["le public", "un public"],
-      "ptTargets": ["público"],
+      "term": "la poésie",
+      "definitionPt": "a poesia",
+      "definitionFr": "Art d'exprimer par les mots.",
+      "inflections": ["la poésie", "une poésie"],
+      "ptTargets": ["poesia"],
       "examples": [
-        { "level": "A1", "fr": "Le public applaudit.", "pt": "O público aplaude." },
-        { "level": "A2-B1", "fr": "Le public rit beaucoup.", "pt": "O público ri muito." },
-        { "level": "B2", "fr": "Le public, ravi, applaudit à la fin du spectacle.", "pt": "O público, encantado, aplaude no fim do espetáculo." },
-        { "level": "C1-C2", "fr": "C'est le public qui, conquis, fait vivre le théâtre.", "pt": "É o público que, conquistado, faz viver o teatro." }
-      ]
-    },
-    {
-      "term": "applaudir",
-      "definitionPt": "aplaudir",
-      "definitionFr": "Frapper dans ses mains pour applaudir.",
-      "inflections": ["j'applaudis", "applaudir", "nous applaudissons"],
-      "ptTargets": ["aplaudir"],
-      "examples": [
-        { "level": "A1", "fr": "J'applaudis le spectacle.", "pt": "Eu aplaudo o espetáculo." },
-        { "level": "A2-B1", "fr": "La famille applaudit.", "pt": "A família aplaude." },
-        { "level": "B2", "fr": "Le public applaudit avec joie.", "pt": "O público aplaude com alegria." },
-        { "level": "C1-C2", "fr": "C'est en applaudissant que l'on remercie les artistes.", "pt": "É aplaudindo que se agradece aos artistas." }
-      ]
-    },
-    {
-      "term": "essayer",
-      "definitionPt": "experimentar / tentar",
-      "definitionFr": "Tester quelque chose.",
-      "inflections": ["j'essaie", "essayer", "nous essayons"],
-      "ptTargets": ["experimentar", "tentar"],
-      "examples": [
-        { "level": "A1", "fr": "J'essaie la marionnette.", "pt": "Eu experimento a marionete." },
-        { "level": "A2-B1", "fr": "Íris essaie une marionnette.", "pt": "Íris experimenta uma marionete." },
-        { "level": "B2", "fr": "Essayer de nouvelles choses, c'est apprendre.", "pt": "Experimentar coisas novas é aprender." },
-        { "level": "C1-C2", "fr": "C'est en essayant que l'on découvre ses talents.", "pt": "É experimentando que se descobrem os talentos." }
-      ]
-    },
-    {
-      "term": "la voix",
-      "definitionPt": "a voz",
-      "definitionFr": "Son produit par la bouche.",
-      "inflections": ["la voix", "une voix", "des voix"],
-      "ptTargets": ["voz"],
-      "examples": [
-        { "level": "A1", "fr": "La voix est drôle.", "pt": "A voz é engraçada." },
-        { "level": "A2-B1", "fr": "Lafleur parle avec une voix drôle.", "pt": "Lafleur fala com uma voz engraçada." },
-        { "level": "B2", "fr": "La voix du marionnettiste change pour chaque personnage.", "pt": "A voz do marionetista muda para cada personagem." },
-        { "level": "C1-C2", "fr": "C'est la voix qui, expressive, donne toute sa saveur au récit.", "pt": "É a voz que, expressiva, dá todo o sabor à narrativa." }
+        { "level": "A1", "fr": "La poésie est belle.", "pt": "A poesia é bela." },
+        { "level": "A2-B1", "fr": "J'aime ce mélange de rire et de poésie.", "pt": "Eu gosto dessa mistura de riso e poesia." },
+        { "level": "B2", "fr": "La poésie donne des images aux sentiments.", "pt": "A poesia dá imagens aos sentimentos." },
+        { "level": "C1-C2", "fr": "C'est la poésie qui, avec peu de mots, touche ce que la raison n'atteint pas.", "pt": "É a poesia que, com poucas palavras, toca o que a razão não alcança." }
       ]
     }
   ],
   "grammarTip": {
-    "ruleTitle": "Le verbe jouer : brincar / tocar / interpretar",
-    "explanationPt": "'Jouer' tem vários usos: 'jouer avec une marionnette' (brincar com uma marionete), 'jouer un rôle' (interpretar um papel), 'jouer du piano' (tocar piano). Conjugação: je joue, tu joues, il joue, nous jouons.",
-    "exampleFr": "On joue avec une marionnette. Le marionnettiste joue un rôle dans l'histoire.",
-    "examplePt": "Brinca-se com uma marionete. O marionetista interpreta um papel na história.",
-    "practiceQuestion": "Complete: 'On _____ avec une marionnette.'",
-    "options": ["joue", "joues", "jouons"],
+    "ruleTitle": "Le verbe pouvoir",
+    "explanationPt": "Poder: je peux, tu peux, il peut, nous pouvons, vous pouvez, ils peuvent. 'On peut voir les fils ?' (Dá para ver os fios?).",
+    "exampleFr": "On peut voir les fils ? Nous pouvons entrer.",
+    "examplePt": "Dá para ver os fios? Nós podemos entrar.",
+    "practiceQuestion": "Complete: 'On _____ voir les fils ?'",
+    "options": ["peut", "peux", "pouvons"],
     "correctIndex": 0,
     "points": [
       {
-        "ruleTitle": "L'impératif : écoutez ! regardez !",
-        "explanationPt": "Imperativo para dar ordens ou convites: 'Écoutez !' (escutem!), 'Regardez !' (olhem!), 'Allons-y !' (vamos!). Com 'vous': -ez; com 'tu': -e.",
-        "exampleFr": "Écoutez ! Je vais vous raconter une histoire. Regardez comme elle bouge !",
-        "examplePt": "Escutem! Vou lhes contar uma história. Olhem como ela se move!",
-        "practiceQuestion": "Complete: '_____ ! Je vais vous raconter une histoire.'",
-        "options": ["Écoutez", "Écouter", "Écoutons"],
+        "ruleTitle": "Exprimer une opinion : j'aime",
+        "explanationPt": "'J'aime' + substantivo: 'J'aime ce mélange' (Eu gosto dessa mistura).",
+        "exampleFr": "J'aime ce mélange de rire et de poésie.",
+        "examplePt": "Eu gosto dessa mistura de riso e poesia.",
+        "practiceQuestion": "Complete: 'J'_____ ce mélange.'",
+        "options": ["aime", "aimes", "aimons"],
         "correctIndex": 0
       },
       {
-        "ruleTitle": "La tradition continue : presente contínuo",
-        "explanationPt": "Para expressar uma ação em curso: 'La tradition continue' (a tradição continua), 'Il fait rire' (ele faz rir). O presente também expressa ações habituais.",
-        "exampleFr": "La tradition continue avec toi !",
-        "examplePt": "A tradição continua com você!",
-        "practiceQuestion": "Complete: 'La tradition _____ avec toi !'",
-        "options": ["continue", "continuer", "continuez"],
+        "ruleTitle": "Presque pas",
+        "explanationPt": "'Presque pas' = quase não. 'On ne voit presque pas les fils' (Quase não se veem os fios).",
+        "exampleFr": "On ne voit presque pas les fils.",
+        "examplePt": "Quase não se veem os fios.",
+        "practiceQuestion": "Complete: 'On ne voit _____ les fils.'",
+        "options": ["presque pas", "presque", "pas du tout"],
         "correctIndex": 0
       }
     ]
   },
   "quizQuestions": [
     {
-      "question": "Como se chama o herói das marionetes picardas?",
-      "options": ["Lafleur", "Lapin", "Lafrance"],
+      "question": "Onde Irlan e Andréa entram à noite?",
+      "options": ["num teatro de marionetes", "num cinema", "num circo"],
       "correctIndex": 0,
-      "explanation": "Le héros s'appelle Lafleur."
+      "explanation": "Ils entrent dans un petit théâtre de marionnettes."
     },
     {
-      "question": "O que Lafleur usa na cabeça?",
-      "options": ["um grande chapéu", "uma coroa", "um boné"],
+      "question": "O que Andréa pergunta?",
+      "options": ["se dá para ver os fios", "se pode tirar fotos", "se há lugares livres"],
       "correctIndex": 0,
-      "explanation": "Il porte un grand chapeau."
+      "explanation": "On peut voir les fils ? demande Andréa."
     },
     {
-      "question": "Como o marionetista move a marionete?",
-      "options": ["colocando a mão dentro dela", "com fios elétricos", "com um controle remoto"],
+      "question": "O que os dois personagens fazem?",
+      "options": ["discutem e depois dançam", "cantam e choram", "dormem e acordam"],
       "correctIndex": 0,
-      "explanation": "Je mets la main dans la marionnette et je bouge ses bras."
+      "explanation": "Les deux personnages se disputent, puis dansent ensemble."
     },
     {
-      "question": "Complete: 'On _____ avec une marionnette.'",
-      "options": ["joue", "joues", "jouons"],
+      "question": "Complete: 'On _____ voir les fils ?'",
+      "options": ["peut", "peux", "pouvons"],
       "correctIndex": 0,
-      "explanation": "Jouer: on joue."
+      "explanation": "on peut (verbo pouvoir)."
     },
     {
-      "question": "Complete: '_____ ! Je vais vous raconter une histoire.'",
-      "options": ["Écoutez", "Écouter", "Écoutons"],
+      "question": "Complete: 'J'_____ ce mélange.'",
+      "options": ["aime", "aimes", "aimons"],
       "correctIndex": 0,
-      "explanation": "Imperativo com vous: écoutez."
+      "explanation": "j'aime."
     }
   ]
 }
