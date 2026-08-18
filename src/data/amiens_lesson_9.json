@@ -1,268 +1,292 @@
 {
   "id": "amiens_lesson_9",
   "cityId": "amiens",
-  "domain": "Compras & Lembranças",
+  "domain": "Cotidiano & Família",
   "level": "Iniciante em Transição (A1/A2)",
   "titleFr": "Les souvenirs et la carte postale",
   "titlePt": "As lembranças e o cartão-postal",
-  "subtitleFr": "Acheter des souvenirs et écrire à mamie",
-  "subtitlePt": "Comprar lembranças e escrever para a vovó",
-  "summaryPt": "Nesta Aula 9 (A1/A2), a família compra lembranças de Amiens: macarons, cartões-postais e uma pequena catedral de madeira. Íris escreve um cartão-postal para sua avó no Brasil. O aluno revisa os possessivos 'mon/ma/mes/notre' e aprende o verbo 'choisir'.",
+  "subtitleFr": "Un mot pour ceux qui sont loin",
+  "subtitlePt": "Uma mensagem para quem está longe",
+  "summaryPt": "Na Aula 9 de Amiens (A1/A2), Irlan e Andréa escolhem um cartão-postal e escrevem para a família, no Brasil e em Créteil. O aluno aprende o vocabulário do correio e o verbo 'envoyer'.",
   "paragraphs": [
     {
       "id": 1,
-      "fr": "Avant de partir, la famille achète des souvenirs. « Je choisis une petite cathédrale en bois », dit Íris. Andréa achète une boîte de macarons.",
-      "pt": "Antes de partir, a família compra lembranças. «Eu escolho uma catedralzinha de madeira», diz Íris. Andréa compra uma caixa de macarons."
+      "fr": "En fin d'après-midi, Irlan et Andréa cherchent un petit souvenir de leur passage à Amiens.",
+      "pt": "No fim da tarde, Irlan e Andréa procuram uma lembrancinha da passagem deles por Amiens."
     },
     {
       "id": 2,
-      "fr": "Dans ma main, je tiens une carte postale de la cathédrale. Notre voyage est presque fini à Amiens. Je veux montrer ma ville à ma famille au Brésil.",
-      "pt": "Na minha mão, eu seguro um cartão-postal da catedral. A nossa viagem em Amiens está quase no fim. Eu quero mostrar a minha cidade à minha família no Brasil."
+      "fr": "Dans une boutique du centre, Andréa choisit une carte postale avec la cathédrale.",
+      "pt": "Numa lojinha do centro, Andréa escolhe um cartão-postal com a catedral."
     },
     {
       "id": 3,
-      "fr": "Íris écrit : « Chère mamie, je visite Amiens avec papa et maman. Ma cathédrale préférée est Notre-Dame. Je t'aime, Íris. »",
-      "pt": "Íris escreve: «Querida vovó, eu visito Amiens com o papai e a mamãe. A minha catedral preferida é a Notre-Dame. Eu te amo, Íris.»"
+      "fr": "« Je vais l'envoyer à ma mère », dit-elle. « Elle garde toutes mes cartes. »",
+      "pt": "«Vou mandar para a minha mãe», diz ela. «Ela guarda todos os meus cartões.»"
     },
     {
       "id": 4,
-      "fr": "Le soir, la famille regarde ses souvenirs. « Chaque objet me rappelle notre belle journée », dit Irlan. « Et demain, nous choisissons la prochaine ville ! »",
-      "pt": "À noite, a família olha as suas lembranças. «Cada objeto me lembra o nosso lindo dia», diz Irlan. «E amanhã, nós escolhemos a próxima cidade!»"
+      "fr": "Irlan choisit une carte avec les hortillonnages. « Pour ma famille au Brésil. »",
+      "pt": "Irlan escolhe um cartão com os hortillonnages. «Para a minha família no Brasil.»"
+    },
+    {
+      "id": 5,
+      "fr": "Ils achètent deux timbres et s'installent à une table pour écrire.",
+      "pt": "Eles compram dois selos e se sentam numa mesa para escrever."
+    },
+    {
+      "id": 6,
+      "fr": "Andréa écrit : « Amiens est belle. La cathédrale garde un secret que nous cherchons. »",
+      "pt": "Andréa escreve: «Amiens é linda. A catedral guarda um segredo que procuramos.»"
+    },
+    {
+      "id": 7,
+      "fr": "Irlan écrit en portugais : « Mãe, estou bem. A aventura continua. »",
+      "pt": "Irlan escreve em português: «Mãe, estou bem. A aventura continua.»"
+    },
+    {
+      "id": 8,
+      "fr": "« Tes parents vont être fiers », dit Andréa. « Leur fils suit une vraie carte au trésor. »",
+      "pt": "«Seus pais vão ficar orgulhosos», diz Andréa. «O filho deles segue um verdadeiro mapa do tesouro.»"
+    },
+    {
+      "id": 9,
+      "fr": "Irlan sourit, un peu ému. « Ils m'ont appris à lire les cartes. C'est un peu grâce à eux. »",
+      "pt": "Irlan sorri, um pouco emocionado. «Eles me ensinaram a ler mapas. É um pouco graças a eles.»"
+    },
+    {
+      "id": 10,
+      "fr": "Ils glissent les cartes dans la boîte aux lettres de la poste.",
+      "pt": "Eles colocam os cartões na caixa de correio dos correios."
+    },
+    {
+      "id": 11,
+      "fr": "« Une carte postale, c'est une preuve qu'on a pensé à quelqu'un », dit Andréa.",
+      "pt": "«Um cartão-postal é uma prova de que a gente pensou em alguém», diz Andréa."
+    },
+    {
+      "id": 12,
+      "fr": "Le soir tombe sur les canaux. Ils rentrent lentement, les mains pleines de souvenirs.",
+      "pt": "A noite cai sobre os canais. Eles voltam devagar, com as mãos cheias de lembranças."
     }
   ],
   "vocabularyDictionary": [
     {
-      "term": "souvenir",
-      "definitionPt": "lembrança, recordação",
-      "definitionFr": "Objet ou mémoire d'un moment passé.",
+      "term": "la carte postale",
+      "definitionPt": "o cartão-postal",
+      "definitionFr": "Petite carte que l'on envoie en voyage.",
+      "inflections": ["la carte postale", "une carte postale", "des cartes postales"],
+      "ptTargets": ["cartão-postal", "cartão postal"],
+      "examples": [
+        { "level": "A1", "fr": "La carte postale est jolie.", "pt": "O cartão-postal é bonito." },
+        { "level": "A2-B1", "fr": "Andréa choisit une carte postale de la cathédrale.", "pt": "Andréa escolhe um cartão-postal da catedral." },
+        { "level": "B2", "fr": "Une carte postale garde la trace d'un voyage.", "pt": "Um cartão-postal guarda a marca de uma viagem." },
+        { "level": "C1-C2", "fr": "C'est la carte postale qui, envoyée de loin, dit : je pense à toi.", "pt": "É o cartão-postal que, enviado de longe, diz: estou pensando em você." }
+      ]
+    },
+    {
+      "term": "le souvenir",
+      "definitionPt": "a lembrança / a recordação",
+      "definitionFr": "Ce que l'on garde en mémoire.",
       "inflections": ["le souvenir", "un souvenir", "des souvenirs"],
       "ptTargets": ["lembrança", "recordação"],
       "examples": [
-        { "level": "A1", "fr": "La famille achète des souvenirs.", "pt": "A família compra lembranças." },
-        { "level": "A2-B1", "fr": "Ce souvenir vient d'Amiens.", "pt": "Esta lembrança vem de Amiens." },
-        { "level": "B2", "fr": "Les souvenirs gardent vivants les beaux moments.", "pt": "As lembranças mantêm vivos os belos momentos." },
-        { "level": "C1-C2", "fr": "Le souvenir le plus précieux n'est pas un objet, mais une émotion.", "pt": "A lembrança mais preciosa não é um objeto, mas uma emoção." }
+        { "level": "A1", "fr": "Le souvenir est précieux.", "pt": "A lembrança é preciosa." },
+        { "level": "A2-B1", "fr": "Ils cherchent un souvenir d'Amiens.", "pt": "Eles procuram uma lembrança de Amiens." },
+        { "level": "B2", "fr": "Les souvenirs de voyage s'accrochent aux objets simples.", "pt": "As lembranças de viagem se ligam aos objetos simples." },
+        { "level": "C1-C2", "fr": "C'est le souvenir qui, des années plus tard, ravive un lieu disparu.", "pt": "É a lembrança que, anos depois, revive um lugar desaparecido." }
+      ]
+    },
+    {
+      "term": "le timbre",
+      "definitionPt": "o selo",
+      "definitionFr": "Petite vignette collée sur le courrier.",
+      "inflections": ["le timbre", "un timbre", "des timbres"],
+      "ptTargets": ["selo"],
+      "examples": [
+        { "level": "A1", "fr": "Le timbre est collé.", "pt": "O selo está colado." },
+        { "level": "A2-B1", "fr": "Ils achètent deux timbres.", "pt": "Eles compram dois selos." },
+        { "level": "B2", "fr": "Un timbre suffit pour une carte postale.", "pt": "Um selo basta para um cartão-postal." },
+        { "level": "C1-C2", "fr": "C'est le timbre qui, minuscule, permet à un mot de traverser la mer.", "pt": "É o selo que, minúsculo, permite a uma palavra atravessar o mar." }
+      ]
+    },
+    {
+      "term": "envoyer",
+      "definitionPt": "enviar / mandar",
+      "definitionFr": "Faire partir quelque chose.",
+      "inflections": ["envoyer", "j'envoie", "nous envoyons"],
+      "ptTargets": ["enviar", "mandar"],
+      "examples": [
+        { "level": "A1", "fr": "J'envoie une carte.", "pt": "Eu envio um cartão." },
+        { "level": "A2-B1", "fr": "Andréa envoie la carte à sa mère.", "pt": "Andréa envia o cartão para a mãe." },
+        { "level": "B2", "fr": "Envoyer une carte postale prend quelques minutes.", "pt": "Enviar um cartão-postal leva alguns minutos." },
+        { "level": "C1-C2", "fr": "C'est en envoyant que l'on garde un lien avec ceux qui sont loin.", "pt": "É enviando que se mantém um laço com quem está longe." }
+      ]
+    },
+    {
+      "term": "écrire",
+      "definitionPt": "escrever",
+      "definitionFr": "Former des mots avec une plume ou un crayon.",
+      "inflections": ["écrire", "j'écris", "nous écrivons"],
+      "ptTargets": ["escrever"],
+      "examples": [
+        { "level": "A1", "fr": "J'écris une carte.", "pt": "Eu escrevo um cartão." },
+        { "level": "A2-B1", "fr": "Ils écrivent à leurs familles.", "pt": "Eles escrevem para as famílias." },
+        { "level": "B2", "fr": "Écrire à la main rend le message plus personnel.", "pt": "Escrever à mão torna a mensagem mais pessoal." },
+        { "level": "C1-C2", "fr": "C'est en écrivant que l'on fixe ce que le souvenir risque d'oublier.", "pt": "É escrevendo que se fixa o que a lembrança pode esquecer." }
+      ]
+    },
+    {
+      "term": "la famille",
+      "definitionPt": "a família",
+      "definitionFr": "Les parents et les proches.",
+      "inflections": ["la famille", "une famille", "des familles"],
+      "ptTargets": ["família"],
+      "examples": [
+        { "level": "A1", "fr": "La famille est loin.", "pt": "A família está longe." },
+        { "level": "A2-B1", "fr": "Irlan écrit à sa famille au Brésil.", "pt": "Irlan escreve para a família no Brasil." },
+        { "level": "B2", "fr": "Une carte postale rapproche une famille éloignée.", "pt": "Um cartão-postal aproxima uma família distante." },
+        { "level": "C1-C2", "fr": "C'est la famille qui, même loin, reste le point fixe de la carte intérieure.", "pt": "É a família que, mesmo longe, continua sendo o ponto fixo do mapa interior." }
+      ]
+    },
+    {
+      "term": "le message",
+      "definitionPt": "a mensagem",
+      "definitionFr": "Ce que l'on écrit ou dit à quelqu'un.",
+      "inflections": ["le message", "un message", "des messages"],
+      "ptTargets": ["mensagem"],
+      "examples": [
+        { "level": "A1", "fr": "Le message est court.", "pt": "A mensagem é curta." },
+        { "level": "A2-B1", "fr": "Ils écrivent un message sur la carte.", "pt": "Eles escrevem uma mensagem no cartão." },
+        { "level": "B2", "fr": "Un message simple peut toucher plus qu'un long discours.", "pt": "Uma mensagem simples pode tocar mais do que um longo discurso." },
+        { "level": "C1-C2", "fr": "C'est le message qui, sincère, voyage mieux qu'aucun cadeau.", "pt": "É a mensagem que, sincera, viaja melhor do que qualquer presente." }
       ]
     },
     {
       "term": "choisir",
       "definitionPt": "escolher",
-      "definitionFr": "Prendre une chose parmi plusieurs.",
-      "inflections": ["je choisis", "choisir", "il choisit"],
+      "definitionFr": "Prendre une chose plutôt qu'une autre.",
+      "inflections": ["choisir", "je choisis", "nous choisissons"],
       "ptTargets": ["escolher"],
       "examples": [
-        { "level": "A1", "fr": "Je choisis une petite cathédrale.", "pt": "Eu escolho uma catedralzinha." },
-        { "level": "A2-B1", "fr": "Nous choisissons des souvenirs ensemble.", "pt": "Nós escolhemos lembranças juntos." },
-        { "level": "B2", "fr": "Elle choisit une boîte de macarons.", "pt": "Ela escolhe uma caixa de macarons." },
-        { "level": "C1-C2", "fr": "Choisir un souvenir, c'est choisir un morceau de voyage.", "pt": "Escolher uma lembrança é escolher um pedaço da viagem." }
+        { "level": "A1", "fr": "Je choisis une carte.", "pt": "Eu escolho um cartão." },
+        { "level": "A2-B1", "fr": "Andréa choisit une carte postale.", "pt": "Andréa escolhe um cartão-postal." },
+        { "level": "B2", "fr": "Choisir le bon souvenir demande du temps.", "pt": "Escolher a lembrança certa exige tempo." },
+        { "level": "C1-C2", "fr": "C'est en choisissant que l'on exprime ce qui compte vraiment.", "pt": "É escolhendo que se expressa o que importa de verdade." }
       ]
     },
     {
-      "term": "carte postale",
-      "definitionPt": "cartão-postal",
-      "definitionFr": "Carte avec une image, que l'on envoie en voyage.",
-      "inflections": ["la carte postale", "une carte postale", "des cartes postales"],
-      "ptTargets": ["cartão-postal"],
+      "term": "la boutique",
+      "definitionPt": "a loja / a lojinha",
+      "definitionFr": "Petit magasin.",
+      "inflections": ["la boutique", "une boutique", "des boutiques"],
+      "ptTargets": ["loja", "lojinha"],
       "examples": [
-        { "level": "A1", "fr": "J'achète une carte postale.", "pt": "Eu compro um cartão-postal." },
-        { "level": "A2-B1", "fr": "La carte postale montre la cathédrale.", "pt": "O cartão-postal mostra a catedral." },
-        { "level": "B2", "fr": "Envoyer une carte postale est une tradition de voyage.", "pt": "Enviar um cartão-postal é uma tradição de viagem." },
-        { "level": "C1-C2", "fr": "La carte postale d'antan est devenue un objet de collection.", "pt": "O cartão-postal de antigamente tornou-se objeto de coleção." }
+        { "level": "A1", "fr": "La boutique est petite.", "pt": "A loja é pequena." },
+        { "level": "A2-B1", "fr": "Ils entrent dans une boutique du centre.", "pt": "Eles entram numa lojinha do centro." },
+        { "level": "B2", "fr": "Les boutiques du centre vendent des souvenirs.", "pt": "As lojinhas do centro vendem lembranças." },
+        { "level": "C1-C2", "fr": "C'est la boutique qui, discrète, garde les trésors du voyageur.", "pt": "É a loja que, discreta, guarda os tesouros do viajante." }
       ]
     },
     {
-      "term": "boîte",
-      "definitionPt": "caixa",
-      "definitionFr": "Récipient pour ranger des choses.",
-      "inflections": ["la boîte", "une boîte", "des boîtes"],
-      "ptTargets": ["caixa"],
+      "term": "la poste",
+      "definitionPt": "os correios",
+      "definitionFr": "Service qui envoie le courrier.",
+      "inflections": ["la poste", "une poste"],
+      "ptTargets": ["correios"],
       "examples": [
-        { "level": "A1", "fr": "La boîte de macarons est jolie.", "pt": "A caixa de macarons é bonita." },
-        { "level": "A2-B1", "fr": "J'ouvre la boîte avec plaisir.", "pt": "Eu abro a caixa com prazer." },
-        { "level": "B2", "fr": "La boîte décorée fait un beau cadeau.", "pt": "A caixa decorada é um belo presente." },
-        { "level": "C1-C2", "fr": "Une boîte de macarons d'Amiens est un présent raffiné.", "pt": "Uma caixa de macarons de Amiens é um presente refinado." }
+        { "level": "A1", "fr": "La poste est ouverte.", "pt": "Os correios estão abertos." },
+        { "level": "A2-B1", "fr": "Ils glissent les cartes à la poste.", "pt": "Eles colocam os cartões nos correios." },
+        { "level": "B2", "fr": "La poste du quartier ferme à six heures.", "pt": "Os correios do bairro fecham às seis horas." },
+        { "level": "C1-C2", "fr": "C'est la poste qui, fidèle, relie les villes par des lettres.", "pt": "É o correio que, fiel, liga as cidades por cartas." }
       ]
     },
     {
-      "term": "bois",
-      "definitionPt": "madeira",
-      "definitionFr": "Matière des arbres.",
-      "inflections": ["le bois"],
-      "ptTargets": ["madeira"],
+      "term": "la boîte aux lettres",
+      "definitionPt": "a caixa de correio",
+      "definitionFr": "Boîte où l'on dépose le courrier.",
+      "inflections": ["la boîte aux lettres", "une boîte aux lettres"],
+      "ptTargets": ["caixa de correio"],
       "examples": [
-        { "level": "A1", "fr": "La petite cathédrale est en bois.", "pt": "A catedralzinha é de madeira." },
-        { "level": "A2-B1", "fr": "Les souvenirs en bois sont typiques.", "pt": "As lembranças de madeira são típicas." },
-        { "level": "B2", "fr": "Le bois sculpté est un art artisanal.", "pt": "A madeira esculpida é uma arte artesanal." },
-        { "level": "C1-C2", "fr": "Le bois, matière vivante, garde la mémoire des mains qui le travaillent.", "pt": "A madeira, matéria viva, guarda a memória das mãos que a trabalham." }
+        { "level": "A1", "fr": "La boîte aux lettres est jaune.", "pt": "A caixa de correio é amarela." },
+        { "level": "A2-B1", "fr": "Ils glissent les cartes dans la boîte aux lettres.", "pt": "Eles colocam os cartões na caixa de correio." },
+        { "level": "B2", "fr": "La boîte aux lettres de la poste est relevée chaque jour.", "pt": "A caixa de correio é esvaziada todos os dias." },
+        { "level": "C1-C2", "fr": "C'est la boîte aux lettres qui, discrète, reçoit les mots que l'on confie au voyage.", "pt": "É a caixa de correio que, discreta, recebe as palavras confiadas à viagem." }
       ]
     },
     {
-      "term": "tenir",
-      "definitionPt": "segurar",
-      "definitionFr": "Avoir quelque chose dans la main.",
-      "inflections": ["je tiens", "tenir", "il tient"],
-      "ptTargets": ["segurar"],
+      "term": "se rappeler",
+      "definitionPt": "lembrar-se",
+      "definitionFr": "Garder en mémoire.",
+      "inflections": ["se rappeler", "je me rappelle", "nous nous rappelons"],
+      "ptTargets": ["lembrar-se"],
       "examples": [
-        { "level": "A1", "fr": "Je tiens une carte postale.", "pt": "Eu seguro um cartão-postal." },
-        { "level": "A2-B1", "fr": "Elle tient la main de sa fille.", "pt": "Ela segura a mão da sua filha." },
-        { "level": "B2", "fr": "Il tient ses souvenirs précieusement.", "pt": "Ele segura as suas lembranças com cuidado." },
-        { "level": "C1-C2", "fr": "Tenir un objet ancien, c'est toucher l'histoire.", "pt": "Segurar um objeto antigo é tocar a história." }
-      ]
-    },
-    {
-      "term": "montrer",
-      "definitionPt": "mostrar",
-      "definitionFr": "Faire voir quelque chose à quelqu'un.",
-      "inflections": ["je montre", "montrer", "il montre"],
-      "ptTargets": ["mostrar"],
-      "examples": [
-        { "level": "A1", "fr": "Je veux montrer ma ville.", "pt": "Eu quero mostrar a minha cidade." },
-        { "level": "A2-B1", "fr": "Nous montrons nos photos à la famille.", "pt": "Nós mostramos as nossas fotos à família." },
-        { "level": "B2", "fr": "Elle montre ses souvenirs avec fierté.", "pt": "Ela mostra as suas lembranças com orgulho." },
-        { "level": "C1-C2", "fr": "Montrer un lieu aimé, c'est offrir un peu de son monde.", "pt": "Mostrar um lugar amado é oferecer um pouco do seu mundo." }
-      ]
-    },
-    {
-      "term": "maman",
-      "definitionPt": "mamãe",
-      "definitionFr": "Mère, dans le langage des enfants.",
-      "inflections": ["maman"],
-      "ptTargets": ["mamãe"],
-      "examples": [
-        { "level": "A1", "fr": "Je visite Amiens avec maman.", "pt": "Eu visito Amiens com a mamãe." },
-        { "level": "A2-B1", "fr": "Maman lit une histoire le soir.", "pt": "A mamãe lê uma história à noite." },
-        { "level": "B2", "fr": "Maman travaille et papa cuisine.", "pt": "A mamãe trabalha e o papai cozinha." },
-        { "level": "C1-C2", "fr": "Même devenu adulte, on appelle encore maman quand la vie devient difficile.", "pt": "Mesmo adulto, a gente ainda chama a mamãe quando a vida fica difícil." }
-      ]
-    },
-    {
-      "term": "rappeler",
-      "definitionPt": "lembrar, fazer lembrar",
-      "definitionFr": "Faire revenir un souvenir à l'esprit.",
-      "inflections": ["je rappelle", "rappeler", "il rappelle"],
-      "ptTargets": ["lembrar", "fazer lembrar"],
-      "examples": [
-        { "level": "A1", "fr": "Cet objet me rappelle notre journée.", "pt": "Este objeto me lembra o nosso dia." },
-        { "level": "A2-B1", "fr": "Cette photo me rappelle Amiens.", "pt": "Esta foto me lembra Amiens." },
-        { "level": "B2", "fr": "Les odeurs rappellent les souvenirs d'enfance.", "pt": "Os cheiros lembram as lembranças de infância." },
-        { "level": "C1-C2", "fr": "Rappeler un voyage, c'est le revivre en pensée.", "pt": "Lembrar uma viagem é revivê-la em pensamento." }
-      ]
-    },
-    {
-      "term": "objet",
-      "definitionPt": "objeto",
-      "definitionFr": "Chose matérielle.",
-      "inflections": ["l'objet", "un objet", "des objets"],
-      "ptTargets": ["objeto"],
-      "examples": [
-        { "level": "A1", "fr": "Chaque objet est un souvenir.", "pt": "Cada objeto é uma lembrança." },
-        { "level": "A2-B1", "fr": "L'objet est petit et joli.", "pt": "O objeto é pequeno e bonito." },
-        { "level": "B2", "fr": "Ces objets racontent le voyage.", "pt": "Estes objetos contam a viagem." },
-        { "level": "C1-C2", "fr": "Chaque objet rapporté d'un voyage porte une histoire.", "pt": "Cada objeto trazido de uma viagem carrega uma história." }
-      ]
-    },
-    {
-      "term": "cadeau",
-      "definitionPt": "presente",
-      "definitionFr": "Chose que l'on offre.",
-      "inflections": ["le cadeau", "un cadeau", "des cadeaux"],
-      "ptTargets": ["presente"],
-      "examples": [
-        { "level": "A1", "fr": "Les macarons sont un beau cadeau.", "pt": "Os macarons são um belo presente." },
-        { "level": "A2-B1", "fr": "J'offre un cadeau à mamie.", "pt": "Eu dou um presente à vovó." },
-        { "level": "B2", "fr": "Un cadeau de voyage est toujours apprécié.", "pt": "Um presente de viagem é sempre apreciado." },
-        { "level": "C1-C2", "fr": "Le plus beau cadeau est celui qui raconte un souvenir partagé.", "pt": "O mais belo presente é aquele que conta uma lembrança compartilhada." }
-      ]
-    },
-    {
-      "term": "presque",
-      "definitionPt": "quase",
-      "definitionFr": "Pas tout à fait.",
-      "inflections": ["presque"],
-      "ptTargets": ["quase"],
-      "examples": [
-        { "level": "A1", "fr": "Notre voyage est presque fini.", "pt": "A nossa viagem está quase no fim." },
-        { "level": "A2-B1", "fr": "Le train est presque arrivé.", "pt": "O trem está quase chegando." },
-        { "level": "B2", "fr": "La cathédrale est presque mille ans vieille.", "pt": "A catedral tem quase mil anos." },
-        { "level": "C1-C2", "fr": "Presque chaque voyage laisse une trace indélébile.", "pt": "Quase toda viagem deixa uma marca indelével." }
+        { "level": "A1", "fr": "Je me rappelle ce voyage.", "pt": "Eu me lembro desta viagem." },
+        { "level": "A2-B1", "fr": "Ils se rappellent leur famille.", "pt": "Eles se lembram da família." },
+        { "level": "B2", "fr": "Se rappeler un lieu, c'est le garder vivant.", "pt": "Lembrar-se de um lugar é mantê-lo vivo." },
+        { "level": "C1-C2", "fr": "C'est en se rappelant que l'on comprend ce qui nous a construits.", "pt": "É lembrando-se que se entende o que nos construiu." }
       ]
     }
   ],
   "grammarTip": {
-    "ruleTitle": "Les adjectifs possessifs : mon / ma / mes / notre",
-    "explanationPt": "Possessivos: mon (meu, antes de masculino ou vogal), ma (minha), mes (meus/minhas), notre (nosso/nossa). Ex.: 'ma cathédrale préférée', 'notre voyage', 'mes souvenirs'.",
-    "exampleFr": "Je veux montrer ma ville à ma famille. Notre voyage est presque fini.",
-    "examplePt": "Eu quero mostrar a minha cidade à minha família. A nossa viagem está quase no fim.",
-    "practiceQuestion": "Complete com o possessivo correto: 'Je tiens _____ carte postale.'",
-    "options": ["ma", "mon", "mes"],
+    "ruleTitle": "Le verbe envoyer au présent",
+    "explanationPt": "'Envoyer' (enviar): j'envoie, tu envoies, il envoie, nous envoyons, vous envoyez, ils envoient. Note o 'y' em 'nous/vous'.",
+    "exampleFr": "Andréa envoie la carte à sa mère.",
+    "examplePt": "Andréa envia o cartão para a mãe.",
+    "practiceQuestion": "Complete: 'Nous _____ une carte.'",
+    "options": ["envoyons", "envoie", "envoient"],
     "correctIndex": 0,
     "points": [
       {
-        "ruleTitle": "Les adjectifs possessifs : mon / ma / mes / notre",
-        "explanationPt": "'mon' + masculino (mon voyage), 'ma' + feminino (ma ville), 'mes' + plural (mes souvenirs), 'notre' + singular (notre famille).",
-        "exampleFr": "Mon voyage, ma ville, mes souvenirs et notre famille.",
-        "examplePt": "A minha viagem, a minha cidade, as minhas lembranças e a nossa família.",
-        "practiceQuestion": "Complete: '_____ souvenirs sont précieux.'",
-        "options": ["Mes", "Ma", "Mon"],
+        "ruleTitle": "Être fier de",
+        "explanationPt": "'Être fier de' = estar orgulhoso de: 'ils vont être fiers' (eles vão ficar orgulhosos).",
+        "exampleFr": "Tes parents vont être fiers.",
+        "examplePt": "Seus pais vão ficar orgulhosos.",
+        "practiceQuestion": "Complete: 'Ils vont être _____ de toi.'",
+        "options": ["fiers", "fier", "fière"],
         "correctIndex": 0
       },
       {
-        "ruleTitle": "Le verbe choisir au présent",
-        "explanationPt": "'choisir' (escolher) é do 2º grupo: je choisis, tu choisis, il choisit, nous choisissons, vous choisissez, ils choisissent.",
-        "exampleFr": "Je choisis une petite cathédrale et nous choisissons la prochaine ville.",
-        "examplePt": "Eu escolho uma catedralzinha e nós escolhemos a próxima cidade.",
-        "practiceQuestion": "Complete: 'Nous _____ des souvenirs ensemble.'",
-        "options": ["choisissons", "choisis", "choisit"],
+        "ruleTitle": "Grâce à",
+        "explanationPt": "'Grâce à' = graças a: 'grâce à eux' (graças a eles), 'grâce à la carte' (graças ao mapa).",
+        "exampleFr": "C'est un peu grâce à eux.",
+        "examplePt": "É um pouco graças a eles.",
+        "practiceQuestion": "Complete: 'C'est _____ à eux.'",
+        "options": ["grâce", "grace", "gracé"],
         "correctIndex": 0
       }
     ]
   },
   "quizQuestions": [
     {
-      "question": "Complete a frase do texto: 'Je choisis une petite cathédrale en _____.'",
-      "options": ["bois", "verre", "papier"],
+      "question": "O que Andréa escolhe?",
+      "options": ["um cartão-postal da catedral", "um livro", "um casaco"],
       "correctIndex": 0,
-      "explanation": "No texto: 'Je choisis une petite cathédrale en bois.'"
+      "explanation": "Elle choisit une carte postale avec la cathédrale."
     },
     {
-      "question": "Ordene corretamente as palavras da frase: [ une carte postale / je tiens / de la cathédrale / ]",
-      "options": [
-        "Je tiens une carte postale de la cathédrale.",
-        "Une carte postale je tiens de la cathédrale.",
-        "Je de la cathédrale tiens une carte postale."
-      ],
+      "question": "Para quem Irlan escreve?",
+      "options": ["para a família no Brasil", "para o prefeito", "para ninguém"],
       "correctIndex": 0,
-      "explanation": "A frase exata do texto é 'Je tiens une carte postale de la cathédrale.'"
+      "explanation": "Il écrit à sa famille au Brésil."
     },
     {
-      "question": "Como se traduz: 'A minha cidade e a nossa família'?",
-      "options": [
-        "Ma ville et notre famille.",
-        "Mon ville et notre famille.",
-        "Ma ville et nos famille."
-      ],
+      "question": "Onde eles colocam os cartões?",
+      "options": ["na caixa de correio", "na gaveta", "no lixo"],
       "correctIndex": 0,
-      "explanation": "'Ma ville' (ville é feminino), 'notre famille' (nosso/nossa)."
+      "explanation": "Ils glissent les cartes dans la boîte aux lettres."
     },
     {
-      "question": "Identifique a frase com ERRO de possessivo:",
-      "options": [
-        "Ma cathédrale préférée.",
-        "Notre voyage est fini.",
-        "Mon souvenirs sont beaux."
-      ],
-      "correctIndex": 2,
-      "explanation": "O erro é 'Mon souvenirs': no plural, o possessivo é 'mes' ('Mes souvenirs sont beaux.')."
+      "question": "Complete: 'Nous _____ une carte.'",
+      "options": ["envoyons", "envoie", "envoient"],
+      "correctIndex": 0,
+      "explanation": "nous envoyons."
     },
     {
-      "question": "Para quem Íris escreve o cartão-postal?",
-      "options": [
-        "Para a avó dela, mamie, no Brasil",
-        "Para a diretora da escola",
-        "Para o carteiro"
-      ],
+      "question": "Complete: 'Ils vont être _____ de toi.'",
+      "options": ["fiers", "fier", "fière"],
       "correctIndex": 0,
-      "explanation": "No texto: 'Chère mamie, je visite Amiens avec papa et maman.'"
+      "explanation": "ils vont être fiers (masculino plural)."
     }
   ]
 }
