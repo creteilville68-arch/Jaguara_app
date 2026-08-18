@@ -3,31 +3,71 @@
   "cityId": "paris",
   "domain": "Gastronomia & Lazer",
   "level": "Iniciante (A1)",
-  "titleFr": "Le restaurant en famille",
-  "titlePt": "O restaurante em família",
+  "titleFr": "Le restaurant à deux",
+  "titlePt": "O restaurante a dois",
   "subtitleFr": "Commander, servir, payer l'addition",
   "subtitlePt": "Pedir, servir, pagar a conta",
-  "summaryPt": "Nesta Aula 33 (A1), a família janta num pequeno restaurant perto de casa. O aluno aprende o vocabulário do restaurante (table, menu, commander, servir, addition, pourboire) e a expressão de polidez 'je voudrais'.",
+  "summaryPt": "Nesta Aula 33 (A1), Irlan e Andréa jantam no pequeno restaurante do bairro onde Andréa já trabalhou como garçonete. O aluno aprende o vocabulário do restaurante (table, menu, commander, servir, addition, pourboire) e a expressão de polidez 'je voudrais'.",
   "paragraphs": [
     {
       "id": 1,
-      "fr": "Ce soir, la famille dîne au restaurant. « Une table pour trois, s'il vous plaît », dit Irlan au serveur. Ils s'assoient près de la fenêtre. Le serveur apporte les menus : « Voici la carte. Je reviens pour la commande. »",
-      "pt": "Esta noite, a família janta no restaurante. « Uma mesa para três, por favor », diz Irlan ao garçom. Eles sentam perto da janela. O garçom traz os menus: « Aqui está o cardápio. Volto para o pedido. »"
+      "fr": "Ce soir, Irlan et Andréa dînent au restaurant. « Une table pour deux, s'il vous plaît », dit Irlan au serveur.",
+      "pt": "Esta noite, Irlan e Andréa jantam no restaurante. «Uma mesa para dois, por favor», diz Irlan ao garçom."
     },
     {
       "id": 2,
-      "fr": "Iris lit le menu : « Je voudrais des pâtes, s'il vous plaît », dit-elle poliment. Andréa choisit une salade et un verre de jus d'orange. Irlan commande un steak-frites. « Et une carafe d'eau, s'il vous plaît », ajoute-t-il.",
-      "pt": "Íris lê o menu: « Eu gostaria de macarrão, por favor », diz ela educadamente. Andréa escolhe uma salada e um copo de suco de laranja. Irlan pede um bife com fritas. « E uma jarra de água, por favor », acrescenta ele."
+      "fr": "Ils s'assoient près de la fenêtre. Le serveur apporte les menus : « Voici la carte. Je reviens pour la commande. »",
+      "pt": "Eles se sentam perto da janela. O garçom traz os cardápios: «Aqui está o cardápio. Volto para o pedido.»"
     },
     {
       "id": 3,
-      "fr": "Le serveur apporte les assiettes : des pâtes, une salade et un steak-frites. « Mmm, c'est délicieux ! » dit Iris. « Goûte mon assiette, maman ! » Ils mangent, parlent et rient ensemble. La soirée est douce.",
-      "pt": "O garçom traz os pratos: macarrão, uma salada e um bife com fritas. « Mmm, está delicioso! » diz Íris. « Prova meu prato, mamãe! » Eles comem, conversam e riem juntos. A noite está tranquila."
+      "fr": "Andréa regarde la salle avec nostalgie. « C'est le restaurant où je travaillais. Rien n'a changé, sauf moi. »",
+      "pt": "Andréa olha o salão com nostalgia. «É o restaurante onde eu trabalhava. Nada mudou, exceto eu.»"
     },
     {
       "id": 4,
-      "fr": "À la fin, Irlan demande l'addition. « C'est pour moi, dit-il. On a bien mangé ! » Il laisse un petit pourboire sur la table. « Merci, bonsoir ! » dit le serveur. Iris prend la main de ses parents : « J'adore les restaurants ! »",
-      "pt": "No fim, Irlan pede a conta. « É por minha conta, diz ele. Comemos bem! » Ele deixa uma pequena gorjeta na mesa. « Obrigado, boa noite! » diz o garçom. Íris pega a mão dos pais: « Adoro restaurantes! »"
+      "fr": "« Et maintenant, tu es cliente, assise près de la fenêtre, avec moi », dit Irlan en souriant.",
+      "pt": "«E agora, você é cliente, sentada perto da janela, comigo», diz Irlan sorrindo."
+    },
+    {
+      "id": 5,
+      "fr": "« Je voudrais une salade et un verre de jus d'orange, s'il vous plaît », dit Andréa poliment. Irlan commande un steak-frites.",
+      "pt": "«Eu gostaria de uma salada e um copo de suco de laranja, por favor», diz Andréa educadamente. Irlan pede um bife com fritas."
+    },
+    {
+      "id": 6,
+      "fr": "« Et une carafe d'eau, s'il vous plaît », ajoute-t-il. Le serveur note la commande et disparaît en cuisine.",
+      "pt": "«E uma jarra de água, por favor», acrescenta ele. O garçom anota o pedido e some na cozinha."
+    },
+    {
+      "id": 7,
+      "fr": "Le serveur revient et sourit à Andréa. « Ah, c'est toi ! Tu nous manquais. Tu dînes avec ton ami ce soir ? »",
+      "pt": "O garçom volta e sorri para Andréa. «Ah, é você! Sentimos sua falta. Você janta com seu amigo esta noite?»"
+    },
+    {
+      "id": 8,
+      "fr": "Andréa rougit un peu. « Oui, c'est Irlan. Autrefois, il venait chercher les commandes ici avec sa scooter. »",
+      "pt": "Andréa cora um pouco. «Sim, é o Irlan. Antigamente, ele vinha buscar os pedidos aqui com a scooter.»"
+    },
+    {
+      "id": 9,
+      "fr": "Le serveur rit. « Le livreur et la serveuse ! Voilà une belle histoire. » Il apporte les assiettes : une salade et un steak-frites.",
+      "pt": "O garçom ri. «O entregador e a garçonete! Eis uma bela história.» Ele traz os pratos: uma salada e um bife com fritas."
+    },
+    {
+      "id": 10,
+      "fr": "« Mmm, c'est délicieux ! » dit Andréa. « Goûte ma salade. » Ils mangent, parlent et rient ensemble. La soirée est douce.",
+      "pt": "«Mmm, está delicioso!», diz Andréa. «Prova a minha salada.» Eles comem, conversam e riem juntos. A noite está tranquila."
+    },
+    {
+      "id": 11,
+      "fr": "À la fin, Irlan demande l'addition. « C'est pour moi. On a bien mangé ! » Il laisse un petit pourboire sur la table.",
+      "pt": "No fim, Irlan pede a conta. «É por minha conta. Comemos bem!» Ele deixa uma pequena gorjeta na mesa."
+    },
+    {
+      "id": 12,
+      "fr": "En sortant, Andréa prend sa main. « Le livreur et la serveuse... J'aime notre histoire. » Ils marchent dans la nuit douce de Paris.",
+      "pt": "Ao sair, Andréa segura a mão dele. «O entregador e a garçonete... Eu amo a nossa história.» Eles caminham pela noite suave de Paris."
     }
   ],
   "vocabularyDictionary": [
@@ -39,7 +79,7 @@
       "ptTargets": ["restaurante"],
       "examples": [
         { "level": "A1", "fr": "Le restaurant est près de la maison.", "pt": "O restaurante fica perto de casa." },
-        { "level": "A2-B1", "fr": "La famille dîne au restaurant ce soir.", "pt": "A família janta no restaurante esta noite." },
+        { "level": "A2-B1", "fr": "Ils dînent au restaurant ce soir.", "pt": "Eles jantam no restaurante esta noite." },
         { "level": "B2", "fr": "Les petits restaurants de quartier sont les plus charmants.", "pt": "Os pequenos restaurantes de bairro são os mais charmosos." },
         { "level": "C1-C2", "fr": "C'est le restaurant qui, tenu avec passion, devient une maison pour ses clients.", "pt": "É o restaurante que, tocado com paixão, vira uma casa para seus clientes." }
       ]
@@ -65,7 +105,7 @@
       "ptTargets": ["cardápio", "menu"],
       "examples": [
         { "level": "A1", "fr": "Le menu est sur la table.", "pt": "O cardápio está na mesa." },
-        { "level": "A2-B1", "fr": "Iris lit le menu avec attention.", "pt": "Íris lê o cardápio com atenção." },
+        { "level": "A2-B1", "fr": "Andréa lit le menu avec attention.", "pt": "Andréa lê o cardápio com atenção." },
         { "level": "B2", "fr": "Le menu du jour propose des plats simples et frais.", "pt": "O menu do dia oferece pratos simples e frescos." },
         { "level": "C1-C2", "fr": "C'est le menu qui, bien écrit, donne envie de goûter.", "pt": "É o cardápio que, bem escrito, dá vontade de provar." }
       ]
@@ -77,7 +117,7 @@
       "inflections": ["commander", "je commande", "nous commandons"],
       "ptTargets": ["pedir", "encomendar"],
       "examples": [
-        { "level": "A1", "fr": "Je commande des pâtes.", "pt": "Eu peço macarrão." },
+        { "level": "A1", "fr": "Je commande une salade.", "pt": "Eu peço uma salada." },
         { "level": "A2-B1", "fr": "Irlan commande un steak-frites.", "pt": "Irlan pede um bife com fritas." },
         { "level": "B2", "fr": "Il commande un plat chaud et une boisson.", "pt": "Ele pede um prato quente e uma bebida." },
         { "level": "C1-C2", "fr": "C'est en commandant que l'on affirme ses goûts.", "pt": "É pedindo que se afirmam os próprios gostos." }
@@ -165,7 +205,7 @@
       "term": "délicieux",
       "definitionPt": "delicioso",
       "definitionFr": "Très bon.",
-      "inflections": ["délicieux", "délicieuse", "délicieux", "délicieuses"],
+      "inflections": ["délicieux", "délicieuse", "délicieuses"],
       "ptTargets": ["delicioso"],
       "examples": [
         { "level": "A1", "fr": "Le gâteau est délicieux.", "pt": "O bolo está delicioso." },
@@ -182,7 +222,7 @@
       "ptTargets": ["comer"],
       "examples": [
         { "level": "A1", "fr": "Je mange une pomme.", "pt": "Eu como uma maçã." },
-        { "level": "A2-B1", "fr": "La famille mange au restaurant.", "pt": "A família come no restaurante." },
+        { "level": "A2-B1", "fr": "Ils mangent au restaurant.", "pt": "Eles comem no restaurante." },
         { "level": "B2", "fr": "Manger ensemble est un moment de partage.", "pt": "Comer juntos é um momento de partilha." },
         { "level": "C1-C2", "fr": "C'est en mangeant que l'on découvre l'âme d'un pays.", "pt": "É comendo que se descobre a alma de um país." }
       ]
@@ -190,20 +230,20 @@
   ],
   "grammarTip": {
     "ruleTitle": "Je voudrais : a polidez",
-    "explanationPt": "Para pedir com educação: 'je voudrais' (eu gostaria) + substantivo ou infinitivo. Ex.: 'Je voudrais des pâtes, s'il vous plaît.' É a forma mais usada em restaurantes.",
-    "exampleFr": "« Je voudrais des pâtes, s'il vous plaît », dit Iris poliment.",
-    "examplePt": "« Eu gostaria de macarrão, por favor », diz Íris educadamente.",
-    "practiceQuestion": "Complete: 'Je _____ des pâtes, s'il vous plaît.'",
+    "explanationPt": "Para pedir com educação: 'je voudrais' (eu gostaria) + substantivo ou infinitivo. Ex.: 'Je voudrais une salade, s'il vous plaît.' É a forma mais usada em restaurantes.",
+    "exampleFr": "« Je voudrais une salade et un verre de jus d'orange, s'il vous plaît », dit Andréa poliment.",
+    "examplePt": "«Eu gostaria de uma salada e um copo de suco de laranja, por favor», diz Andréa educadamente.",
+    "practiceQuestion": "Complete: 'Je _____ une salade, s'il vous plaît.'",
     "options": ["voudrais", "veux", "voudrai"],
     "correctIndex": 0,
     "points": [
       {
-        "ruleTitle": "Une table pour trois : as expressões do restaurante",
-        "explanationPt": "Expressões úteis: 'une table pour trois' (uma mesa para três), 'la carte' (o cardápio), 'la carafe d'eau' (a jarra de água), 'l'addition' (a conta).",
-        "exampleFr": "— Bonsoir, une table pour trois, s'il vous plaît.",
-        "examplePt": "— Boa noite, uma mesa para três, por favor.",
+        "ruleTitle": "Une table pour deux : as expressões do restaurante",
+        "explanationPt": "Expressões úteis: 'une table pour deux' (uma mesa para dois), 'la carte' (o cardápio), 'la carafe d'eau' (a jarra de água), 'l'addition' (a conta).",
+        "exampleFr": "— Bonsoir, une table pour deux, s'il vous plaît.",
+        "examplePt": "— Boa noite, uma mesa para dois, por favor.",
         "practiceQuestion": "Complete: 'Une table pour _____ , s'il vous plaît.'",
-        "options": ["trois", "troie", "troit"],
+        "options": ["deux", "deu", "douze"],
         "correctIndex": 0
       },
       {
@@ -219,10 +259,10 @@
   },
   "quizQuestions": [
     {
-      "question": "O que Íris pede no restaurante?",
-      "options": ["macarrão", "sopa", "peixe cru"],
+      "question": "Onde Andréa trabalhava antes?",
+      "options": ["naquele restaurante, como garçonete", "no correio", "no metrô"],
       "correctIndex": 0,
-      "explanation": "Je voudrais des pâtes, s'il vous plaît."
+      "explanation": "C'est le restaurant où je travaillais."
     },
     {
       "question": "O que Irlan pede?",
@@ -237,7 +277,7 @@
       "explanation": "C'est pour moi, diz Irlan: ele paga a conta."
     },
     {
-      "question": "Complete: 'Je _____ des pâtes, s'il vous plaît.'",
+      "question": "Complete: 'Je _____ une salade, s'il vous plaît.'",
       "options": ["voudrais", "veux", "voudrai"],
       "correctIndex": 0,
       "explanation": "Je voudrais: a forma educada de pedir."
