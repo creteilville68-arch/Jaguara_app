@@ -5,29 +5,34 @@
   "level": "Iniciante (A1)",
   "titleFr": "La tour Eiffel : un symbole de Paris",
   "titlePt": "A Torre Eiffel: um símbolo de Paris",
-  "subtitleFr": "La grande dame de fer, la Seine et la vue magnifique sur la ville",
-  "subtitlePt": "A grande dama de ferro, o Sena e a vista magnífica da cidade",
-  "summaryPt": "Nesta Aula 5 (A1), a família visita a Torre Eiffel, construída por Gustave Eiffel em 1889 para a Exposição Universal. Mede 330 metros. O aluno aprende o verbo 'voir' (je vois) e os adjetivos descritivos (grande, célèbre, magnifique).",
+  "subtitleFr": "Jeudi, une journée libre : le bus, la Seine et la vue magnifique",
+  "subtitlePt": "Quinta-feira, um dia de folga: o ônibus, o Sena e a vista magnífica",
+  "summaryPt": "Nesta Aula 5 (A1), Irlan tem um dia de folga na quinta-feira e vai à Torre Eiffel de ônibus. Ele é geógrafo, então olha Paris como quem lê um mapa: o Sena, os telhados, os monumentos. O aluno aprende o verbo 'voir' (je vois) e os adjetivos descritivos (grand, célèbre, magnifique).",
   "paragraphs": [
     {
       "id": 1,
-      "fr": "Nous visitons la tour Eiffel. Elle est grande et célèbre. Gustave Eiffel construit la tour en 1889 pour l'Exposition universelle.",
-      "pt": "Nós visitamos a Torre Eiffel. Ela é grande e famosa. Gustave Eiffel construiu a torre em 1889 para a Exposição Universal."
+      "fr": "Jeudi, je ne travaille pas. C'est ma journée libre. Je vais attendre le bus à l'arrêt de bus devant ma maison et je vais visiter la tour Eiffel.",
+      "pt": "Quinta-feira, eu não trabalho. É o meu dia de folga. Eu vou esperar o ônibus no ponto em frente à minha casa e vou visitar a Torre Eiffel."
     },
     {
       "id": 2,
-      "fr": "La tour mesure trois cent trente mètres. Nous montons au deuxième étage. La vue est magnifique !",
-      "pt": "A torre mede trezentos e trinta metros. Nós subimos ao segundo andar. A vista é magnífica!"
+      "fr": "La tour est grande et célèbre. Gustave Eiffel a construit la tour en 1889 pour l'Exposition universelle. Elle mesure trois cent trente mètres. Je monte au deuxième étage.",
+      "pt": "A torre é grande e famosa. Gustave Eiffel construiu a torre em 1889 para a Exposição Universal. Ela mede trezentos e trinta metros. Eu subo ao segundo andar."
     },
     {
       "id": 3,
-      "fr": "Je vois la Seine, les toits et les monuments de Paris. Íris compte les bateaux sur le fleuve. Andréa photographie la ville.",
-      "pt": "Eu vejo o Sena, os telhados e os monumentos de Paris. Íris conta os barcos no rio. Andréa fotografa a cidade."
+      "fr": "Je suis géographe, donc je regarde la ville comme une carte. Je vois la Seine, les toits et les monuments de Paris. Je compte les bateaux sur le fleuve. Le fleuve me rappelle la rivière de Jaguaquara.",
+      "pt": "Eu sou geógrafo, então olho a cidade como um mapa. Eu vejo o Sena, os telhados e os monumentos de Paris. Eu conto os barcos no rio. O rio me lembra o rio de Jaguaquara."
     },
     {
       "id": 4,
-      "fr": "Le soir, la tour s'allume et brille dans la nuit. C'est un moment magique pour notre famille.",
-      "pt": "À noite, a torre se acende e brilha na noite. É um momento mágico para a nossa família."
+      "fr": "Paris est une ville active : il y a toujours quelqu'un dans les rues. Je suis un livreur actif, et j'aime ma nouvelle vie. Le soir, la tour s'allume et brille dans la nuit. C'est un moment magique. J'espère que ma famille verra cette vue un jour.",
+      "pt": "Paris é uma cidade ativa: sempre há alguém nas ruas. Eu sou um entregador ativo, e gosto da minha nova vida. À noite, a torre se acende e brilha na noite. É um momento mágico. Eu espero que a minha família veja esta vista um dia."
+    },
+    {
+      "id": 5,
+      "fr": "Je rentre à Créteil avec la ville dans les yeux. Demain, je reprends ma scooter et je livre des repas. Paris est grande, mais elle est devenue ma maison.",
+      "pt": "Eu volto para Créteil com a cidade nos olhos. Amanhã, eu pego minha scooter de novo e entrego refeições. Paris é grande, mas se tornou a minha casa."
     }
   ],
   "vocabularyDictionary": [
@@ -39,7 +44,7 @@
       "ptTargets": ["torre"],
       "examples": [
         { "level": "A1", "fr": "La tour Eiffel est très grande.", "pt": "A Torre Eiffel é muito grande." },
-        { "level": "A2-B1", "fr": "Nous visitons la tour aujourd'hui.", "pt": "Nós visitamos a torre hoje." },
+        { "level": "A2-B1", "fr": "Je visite la tour aujourd'hui.", "pt": "Eu visito a torre hoje." },
         { "level": "B2", "fr": "La tour domine tout le paysage de Paris.", "pt": "A torre domina toda a paisagem de Paris." },
         { "level": "C1-C2", "fr": "La tour de fer a d'abord suscité des controverses avant de devenir un symbole.", "pt": "A torre de ferro primeiro suscitou controvérsias antes de se tornar um símbolo." }
       ]
@@ -78,7 +83,7 @@
       "ptTargets": ["vista"],
       "examples": [
         { "level": "A1", "fr": "La vue est magnifique !", "pt": "A vista é magnífica!" },
-        { "level": "A2-B1", "fr": "Nous avons une belle vue sur la ville.", "pt": "Nós temos uma bela vista da cidade." },
+        { "level": "A2-B1", "fr": "J'ai une belle vue sur la ville.", "pt": "Eu tenho uma bela vista da cidade." },
         { "level": "B2", "fr": "Du sommet, la vue s'étend jusqu'à l'horizon.", "pt": "Do topo, a vista se estende até o horizonte." },
         { "level": "C1-C2", "fr": "La vue panoramique depuis la tour est incomparable.", "pt": "A vista panorâmica da torre é incomparável." }
       ]
@@ -90,7 +95,7 @@
       "inflections": ["l'étage", "un étage", "des étages"],
       "ptTargets": ["andar"],
       "examples": [
-        { "level": "A1", "fr": "Nous montons au deuxième étage.", "pt": "Nós subimos ao segundo andar." },
+        { "level": "A1", "fr": "Je monte au deuxième étage.", "pt": "Eu subo ao segundo andar." },
         { "level": "A2-B1", "fr": "Le restaurant est au premier étage.", "pt": "O restaurante fica no primeiro andar." },
         { "level": "B2", "fr": "Le deuxième étage offre la meilleure vue.", "pt": "O segundo andar oferece a melhor vista." },
         { "level": "C1-C2", "fr": "Chaque étage de la tour raconte une étape de sa construction.", "pt": "Cada andar da torre conta uma etapa de sua construção." }
@@ -145,7 +150,7 @@
         { "level": "A1", "fr": "La tour brille dans la nuit.", "pt": "A torre brilha na noite." },
         { "level": "A2-B1", "fr": "La nuit, Paris est très belle.", "pt": "À noite, Paris é muito bonita." },
         { "level": "B2", "fr": "Les nuits d'été sont douces à Paris.", "pt": "As noites de verão são suaves em Paris." },
-        { "level": "C1-C2", "fr": "Cette nuit étoilée restera gravée dans leur mémoire.", "pt": "Esta noite estrelada ficará gravada na memória deles." }
+        { "level": "C1-C2", "fr": "Cette nuit étoilée restera gravée dans ma mémoire.", "pt": "Esta noite estrelada ficará gravada na minha memória." }
       ]
     },
     {
@@ -168,7 +173,7 @@
       "inflections": ["monte", "montons", "monter"],
       "ptTargets": ["subir"],
       "examples": [
-        { "level": "A1", "fr": "Nous montons dans l'ascenseur.", "pt": "Nós subimos no elevador." },
+        { "level": "A1", "fr": "Je monte dans l'ascenseur.", "pt": "Eu subo no elevador." },
         { "level": "A2-B1", "fr": "Monter à pied demande du courage.", "pt": "Subir a pé exige coragem." },
         { "level": "B2", "fr": "Il monte les escaliers de la tour.", "pt": "Ele sobe as escadas da torre." },
         { "level": "C1-C2", "fr": "Monter au sommet de la tour offre une vue inoubliable.", "pt": "Subir ao topo da torre oferece uma vista inesquecível." }
@@ -181,10 +186,36 @@
       "inflections": ["compte", "comptons", "compter"],
       "ptTargets": ["contar"],
       "examples": [
-        { "level": "A1", "fr": "Íris compte les bateaux.", "pt": "Íris conta os barcos." },
+        { "level": "A1", "fr": "Je compte les bateaux sur le fleuve.", "pt": "Eu conto os barcos no rio." },
         { "level": "A2-B1", "fr": "Je compte les étages de la tour.", "pt": "Eu conto os andares da torre." },
         { "level": "B2", "fr": "Il compte les minutes avant le départ.", "pt": "Ele conta os minutos antes da partida." },
         { "level": "C1-C2", "fr": "Compter les visiteurs du monument révèle sa popularité mondiale.", "pt": "Contar os visitantes do monumento revela sua popularidade mundial." }
+      ]
+    },
+    {
+      "term": "attendre",
+      "definitionPt": "esperar",
+      "definitionFr": "Rester quelque part en attendant quelqu'un ou quelque chose.",
+      "inflections": ["attends", "attend", "attendre"],
+      "ptTargets": ["esperar", "aguardar"],
+      "examples": [
+        { "level": "A1", "fr": "J'attends le bus.", "pt": "Eu espero o ônibus." },
+        { "level": "A2-B1", "fr": "J'attends le bus à l'arrêt.", "pt": "Eu espero o ônibus no ponto." },
+        { "level": "B2", "fr": "Il attend le bus sous la pluie.", "pt": "Ele espera o ônibus debaixo da chuva." },
+        { "level": "C1-C2", "fr": "Attendre, c'est aussi prendre le temps d'observer la ville.", "pt": "Esperar é também dedicar tempo a observar a cidade." }
+      ]
+    },
+    {
+      "term": "espérer",
+      "definitionPt": "esperar, ter esperança",
+      "definitionFr": "Souhaiter que quelque chose arrive.",
+      "inflections": ["espère", "espérons", "espérer"],
+      "ptTargets": ["esperar", "ter esperança"],
+      "examples": [
+        { "level": "A1", "fr": "J'espère voir la tour Eiffel.", "pt": "Eu espero ver a Torre Eiffel." },
+        { "level": "A2-B1", "fr": "J'espère que ma famille viendra en France.", "pt": "Eu espero que a minha família venha à França." },
+        { "level": "B2", "fr": "Il espère trouver un meilleur travail.", "pt": "Ele espera encontrar um trabalho melhor." },
+        { "level": "C1-C2", "fr": "Espérer, c'est déjà commencer à construire l'avenir.", "pt": "Ter esperança já é começar a construir o futuro." }
       ]
     }
   ],
@@ -219,30 +250,30 @@
   },
   "quizQuestions": [
     {
-      "question": "Complete a frase do texto com a palavra correta: 'La tour mesure trois cent trente _____.'",
-      "options": ["mètres", "kilomètres", "étages"],
+      "question": "Qual é o dia de folga de Irlan nesta aula?",
+      "options": ["Jeudi (quinta-feira)", "Dimanche (domingo)", "Lundi (segunda-feira)"],
       "correctIndex": 0,
-      "explanation": "No texto: 'La tour mesure trois cent trente mètres.' (A torre mede 330 metros.)"
+      "explanation": "No texto: 'Jeudi, je ne travaille pas. C'est ma journée libre.' (Quinta-feira, eu não trabalho. É o meu dia de folga.)"
     },
     {
-      "question": "Ordene corretamente as palavras da frase: [ la / Seine / vois / Je / les / toits / et ]",
+      "question": "Ordene corretamente as palavras da frase: [ le / bus / J'attends / l'arrêt / à / de / bus ]",
       "options": [
-        "Je vois la Seine et les toits.",
-        "Je la Seine vois et les toits.",
-        "La Seine je vois et les toits."
+        "J'attends le bus à l'arrêt de bus.",
+        "J'attends l'arrêt de bus le bus à.",
+        "Le bus j'attends à l'arrêt de bus."
       ],
       "correctIndex": 0,
-      "explanation": "A frase exata do texto é 'Je vois la Seine, les toits et les monuments de Paris.'"
+      "explanation": "A frase exata do texto é 'J'attends le bus à l'arrêt de bus devant ma maison.'"
     },
     {
-      "question": "Como se traduz: 'A vista é magnífica'?",
+      "question": "Como se traduz: 'Eu vejo o Sena e os telhados de Paris'?",
       "options": [
-        "La vue est magnifique.",
-        "Le vue est magnifique.",
-        "La vue es magnifique."
+        "Je vois la Seine et les toits de Paris.",
+        "Je vois le Seine et les toits de Paris.",
+        "Je vois la Seine et le toit de Paris."
       ],
       "correctIndex": 0,
-      "explanation": "'vue' é feminino → 'la vue'; 'est' = é; 'magnifique' concorda: 'La vue est magnifique.'"
+      "explanation": "'la Seine' é feminino; 'les toits' = os telhados (plural)."
     },
     {
       "question": "Identifique a frase com ERRO de conjugação:",
@@ -255,14 +286,14 @@
       "explanation": "O erro é 'Elle vois': com 'elle', o verbo voir faz 'elle voit'."
     },
     {
-      "question": "Quem construiu a Torre Eiffel e em que ano, segundo o texto?",
+      "question": "O que o Sena lembra a Irlan?",
       "options": [
-        "Gustave Eiffel, em 1889",
-        "Victor Hugo, em 1800",
-        "Napoleão, em 1900"
+        "A rivière de Jaguaquara",
+        "A praia de Copacabana",
+        "As montanhas dos Alpes"
       ],
       "correctIndex": 0,
-      "explanation": "No texto: 'Gustave Eiffel construit la tour en 1889 pour l'Exposition universelle.' (Fato real.)"
+      "explanation": "No texto: 'Le fleuve me rappelle la rivière de Jaguaquara.' (O rio me lembra o rio de Jaguaquara.)"
     }
   ]
 }

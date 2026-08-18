@@ -5,29 +5,34 @@
   "level": "Iniciante (A1)",
   "titleFr": "Au marché : les couleurs de Paris",
   "titlePt": "No mercado: as cores de Paris",
-  "subtitleFr": "Le pain, le fromage, les fruits et les souvenirs du livreur au marché",
-  "subtitlePt": "O pão, o queijo, as frutas e as lembranças do entregador no mercado",
-  "summaryPt": "Nesta Aula 6 (A1), a família vai ao mercado de rua, uma tradição real de Paris. Irlan lembra dos pedidos que entregava nessas ruas. O aluno aprende os artigos partitivos (du pain, de la confiture, des fruits) e a pergunta de preço 'Combien ça coûte ?'.",
+  "subtitleFr": "Faire les courses le dimanche : le pain, le fromage, les fruits et les souvenirs du livreur",
+  "subtitlePt": "Fazer as compras no domingo: o pão, o queijo, as frutas e as lembranças do entregador",
+  "summaryPt": "Nesta Aula 6 (A1), Irlan faz as compras da semana no mercado de domingo: pão, queijo, frutas, legumes e espinafre. Ele compra também uma laranjada fresca e lembra dos tempos de entregador nessas ruas. O aluno aprende os artigos partitivos (du pain, de la confiture, des fruits) e a pergunta de preço 'Combien ça coûte ?'.",
   "paragraphs": [
     {
       "id": 1,
-      "fr": "Le dimanche, nous allons au marché. Le marché de Paris est plein de couleurs et d'odeurs. Les vendeurs crient et sourient.",
-      "pt": "No domingo, nós vamos ao mercado. O mercado de Paris está cheio de cores e cheiros. Os vendedores gritam e sorriem."
+      "fr": "Le dimanche, je fais les courses au marché. J'aime aller au marché : il y a des couleurs et des odeurs partout. Les vendeurs crient et sourient.",
+      "pt": "No domingo, eu faço as compras no mercado. Eu gosto de ir ao mercado: há cores e cheiros por toda parte. Os vendedores gritam e sorriem."
     },
     {
       "id": 2,
-      "fr": "Je voudrais du pain et du fromage, s'il vous plaît. La vendeuse répond : « Ça fait cinq euros, merci ! »",
-      "pt": "Eu gostaria de pão e queijo, por favor. A vendedora responde: « São cinco euros, obrigada! »"
+      "fr": "« Je voudrais du pain et du fromage, s'il vous plaît. » La vendeuse met le fromage sur la balance : « Ça fait cinq euros, merci ! » Le prix est juste.",
+      "pt": "« Eu gostaria de pão e queijo, por favor. » A vendedora põe o queijo na balança: « São cinco euros, obrigada! » O preço está justo."
     },
     {
       "id": 3,
-      "fr": "Andréa achète des fruits et des légumes. Íris goûte une fraise et dit : « C'est bon, maman ! » Le panier est bientôt plein.",
-      "pt": "Andréa compra frutas e legumes. Íris prova um morango e diz: « Está bom, mamãe! » A cesta logo fica cheia."
+      "fr": "J'achète des fruits, des légumes et des épinards. Je goûte une fraise : c'est très bon ! Je prends aussi une orange pressée et une bouteille d'eau minérale.",
+      "pt": "Eu compro frutas, legumes e espinafre. Eu provo um morango: é muito bom! Eu pego também um suco de laranja espremido e uma garrafa de água mineral."
     },
     {
       "id": 4,
-      "fr": "Nous rentrons à la maison avec nos sacs. Je regarde le marché et je pense à mes années de livreur. Ces rues me connaissent bien.",
-      "pt": "Nós voltamos para casa com nossas sacolas. Eu olho o mercado e penso nos meus anos de entregador. Essas ruas me conhecem bem."
+      "fr": "Quand j'étais livreur, je passais devant la boucherie chaque jour. La boucherie, la boulangerie, le café... Ces rues me connaissent bien. Je ne dépense pas beaucoup, mais je mange bien.",
+      "pt": "Quando eu era entregador, eu passava em frente ao açougue todos os dias. O açougue, a padaria, o café... Essas ruas me conhecem bem. Eu não gasto muito, mas como bem."
+    },
+    {
+      "id": 5,
+      "fr": "Je rentre à la maison avec mon sac plein. Dans ma petite cuisine, je prépare une soupe avec les légumes. C'est une bonne journée.",
+      "pt": "Eu volto para casa com a minha sacola cheia. Na minha cozinha pequena, eu preparo uma sopa com os legumes. É um bom dia."
     }
   ],
   "vocabularyDictionary": [
@@ -38,7 +43,7 @@
       "inflections": ["le marché", "un marché", "des marchés"],
       "ptTargets": ["mercado", "feira"],
       "examples": [
-        { "level": "A1", "fr": "Le dimanche, nous allons au marché.", "pt": "No domingo, nós vamos ao mercado." },
+        { "level": "A1", "fr": "Le dimanche, je vais au marché.", "pt": "No domingo, eu vou ao mercado." },
         { "level": "A2-B1", "fr": "Le marché de Paris est très coloré.", "pt": "O mercado de Paris é muito colorido." },
         { "level": "B2", "fr": "Ce marché existe depuis plus de cent ans.", "pt": "Este mercado existe há mais de cem anos." },
         { "level": "C1-C2", "fr": "Les marchés de quartier sont le cœur vivant de la ville.", "pt": "Os mercados de bairro são o coração vivo da cidade." }
@@ -77,7 +82,7 @@
       "inflections": ["le fruit", "un fruit", "des fruits"],
       "ptTargets": ["fruta"],
       "examples": [
-        { "level": "A1", "fr": "Andréa achète des fruits.", "pt": "Andréa compra frutas." },
+        { "level": "A1", "fr": "J'achète des fruits.", "pt": "Eu compro frutas." },
         { "level": "A2-B1", "fr": "Les fruits du marché sont très frais.", "pt": "As frutas do mercado são muito frescas." },
         { "level": "B2", "fr": "Manger des fruits chaque jour est bon pour la santé.", "pt": "Comer frutas todos os dias faz bem à saúde." },
         { "level": "C1-C2", "fr": "Les fruits de saison révèlent la diversité des terroirs.", "pt": "As frutas da estação revelam a diversidade dos terroirs." }
@@ -90,7 +95,7 @@
       "inflections": ["le légume", "un légume", "des légumes"],
       "ptTargets": ["legume"],
       "examples": [
-        { "level": "A1", "fr": "Nous achetons des légumes.", "pt": "Nós compramos legumes." },
+        { "level": "A1", "fr": "J'achète des légumes.", "pt": "Eu compro legumes." },
         { "level": "A2-B1", "fr": "Les légumes du marché sont frais.", "pt": "Os legumes do mercado são frescos." },
         { "level": "B2", "fr": "Une soupe de légumes réchauffe en hiver.", "pt": "Uma sopa de legumes aquece no inverno." },
         { "level": "C1-C2", "fr": "La consommation de légumes locaux soutient l'agriculture de proximité.", "pt": "O consumo de legumes locais apoia a agricultura de proximidade." }
@@ -103,7 +108,7 @@
       "inflections": ["la fraise", "une fraise", "des fraises"],
       "ptTargets": ["morango"],
       "examples": [
-        { "level": "A1", "fr": "Íris goûte une fraise.", "pt": "Íris prova um morango." },
+        { "level": "A1", "fr": "Je goûte une fraise.", "pt": "Eu provo um morango." },
         { "level": "A2-B1", "fr": "Les fraises du printemps sont très bonnes.", "pt": "Os morangos da primavera são muito bons." },
         { "level": "B2", "fr": "La fraise est le fruit préféré de beaucoup d'enfants.", "pt": "O morango é a fruta preferida de muitas crianças." },
         { "level": "C1-C2", "fr": "La fraise de Plougastel est célèbre en Bretagne.", "pt": "O morango de Plougastel é famoso na Bretanha." }
@@ -143,7 +148,7 @@
       "ptTargets": ["comprar"],
       "examples": [
         { "level": "A1", "fr": "J'achète du pain.", "pt": "Eu compro pão." },
-        { "level": "A2-B1", "fr": "Nous achetons des légumes au marché.", "pt": "Nós compramos legumes no mercado." },
+        { "level": "A2-B1", "fr": "J'achète des légumes au marché.", "pt": "Eu compro legumes no mercado." },
         { "level": "B2", "fr": "Elle achète ses fruits chez le même vendeur.", "pt": "Ela compra suas frutas com o mesmo vendedor." },
         { "level": "C1-C2", "fr": "Acheter local soutient l'économie du quartier.", "pt": "Comprar local apoia a economia do bairro." }
       ]
@@ -168,7 +173,7 @@
       "inflections": ["goûte", "goûtons", "goûter"],
       "ptTargets": ["provar", "experimentar"],
       "examples": [
-        { "level": "A1", "fr": "Íris goûte une fraise.", "pt": "Íris prova um morango." },
+        { "level": "A1", "fr": "Je goûte une fraise.", "pt": "Eu provo um morango." },
         { "level": "A2-B1", "fr": "Je goûte le fromage avant d'acheter.", "pt": "Eu provo o queijo antes de comprar." },
         { "level": "B2", "fr": "Goûter les produits locaux fait partie du voyage.", "pt": "Provar os produtos locais faz parte da viagem." },
         { "level": "C1-C2", "fr": "Goûter un plat, c'est découvrir toute une culture.", "pt": "Provar um prato é descobrir toda uma cultura." }
@@ -181,10 +186,36 @@
       "inflections": ["le sac", "un sac", "des sacs"],
       "ptTargets": ["sacola", "bolsa"],
       "examples": [
-        { "level": "A1", "fr": "Nous rentrons avec nos sacs.", "pt": "Nós voltamos com nossas sacolas." },
+        { "level": "A1", "fr": "Je rentre avec mon sac plein.", "pt": "Eu volto com a minha sacola cheia." },
         { "level": "A2-B1", "fr": "Le sac est plein de fruits.", "pt": "A sacola está cheia de frutas." },
         { "level": "B2", "fr": "Elle porte un sac de légumes frais.", "pt": "Ela carrega uma sacola de legumes frescos." },
         { "level": "C1-C2", "fr": "Le sac réutilisable est devenu un geste écologique courant.", "pt": "A sacola reutilizável tornou-se um gesto ecológico comum." }
+      ]
+    },
+    {
+      "term": "la balance",
+      "definitionPt": "a balança",
+      "definitionFr": "Instrument qui sert à peser.",
+      "inflections": ["la balance", "une balance", "des balances"],
+      "ptTargets": ["balança"],
+      "examples": [
+        { "level": "A1", "fr": "La vendeuse met le fromage sur la balance.", "pt": "A vendedora põe o queijo na balança." },
+        { "level": "A2-B1", "fr": "Le prix est affiché sur la balance.", "pt": "O preço aparece na balança." },
+        { "level": "B2", "fr": "La balance du marché est toujours vérifiée.", "pt": "A balança do mercado é sempre verificada." },
+        { "level": "C1-C2", "fr": "La balance est devenue un outil indispensable du commerce de proximité.", "pt": "A balança tornou-se uma ferramenta indispensável do comércio de proximidade." }
+      ]
+    },
+    {
+      "term": "la boucherie",
+      "definitionPt": "o açougue",
+      "definitionFr": "Magasin où l'on vend de la viande.",
+      "inflections": ["la boucherie", "une boucherie", "des boucheries"],
+      "ptTargets": ["açougue"],
+      "examples": [
+        { "level": "A1", "fr": "Je passe devant la boucherie.", "pt": "Eu passo em frente ao açougue." },
+        { "level": "A2-B1", "fr": "La boucherie du quartier est petite.", "pt": "O açougue do bairro é pequeno." },
+        { "level": "B2", "fr": "Il achète sa viande à la boucherie du marché.", "pt": "Ele compra a carne no açougue do mercado." },
+        { "level": "C1-C2", "fr": "La boucherie artisanale garantit la qualité des produits.", "pt": "O açougue artesanal garante a qualidade dos produtos." }
       ]
     }
   ],
@@ -202,7 +233,7 @@
         "explanationPt": "Quantidade indefinida: du pain (masc.), de la confiture (fem.), des fruits (plural), de l'eau (vogal). Depois de 'je voudrais' usamos o partitivo: 'Je voudrais du fromage.'",
         "exampleFr": "Je voudrais du pain, de la confiture et des fruits.",
         "examplePt": "Eu gostaria de pão, geleia e frutas.",
-        "practiceQuestion": "Complete: 'Nous achetons _____ légumes.'",
+        "practiceQuestion": "Complete: 'J'achète _____ légumes.'",
         "options": ["des", "du", "de la"],
         "correctIndex": 0
       },
@@ -225,14 +256,14 @@
       "explanation": "No texto: 'Je voudrais du pain et du fromage, s'il vous plaît.'"
     },
     {
-      "question": "Ordene corretamente as palavras da frase: [ achète / des / Andréa / légumes / et / des / fruits ]",
+      "question": "Ordene corretamente as palavras da frase: [ des / j'achète / épinards / légumes / et / des ]",
       "options": [
-        "Andréa achète des fruits et des légumes.",
-        "Andréa des fruits achète et légumes des.",
-        "Des fruits achète Andréa et des légumes."
+        "J'achète des légumes et des épinards.",
+        "J'achète des épinards légumes et des.",
+        "Des légumes j'achète et des épinards."
       ],
       "correctIndex": 0,
-      "explanation": "A frase exata do texto é 'Andréa achète des fruits et des légumes.'"
+      "explanation": "A frase exata do texto é 'J'achète des fruits, des légumes et des épinards.'"
     },
     {
       "question": "Como se traduz: 'Quanto custa?'",
@@ -262,7 +293,7 @@
         "Uma viagem de avião"
       ],
       "correctIndex": 0,
-      "explanation": "No texto: 'Je pense à mes années de livreur. Ces rues me connaissent bien.'"
+      "explanation": "No texto: 'Quand j'étais livreur, je passais devant la boucherie chaque jour... Ces rues me connaissent bien.'"
     }
   ]
 }

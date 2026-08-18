@@ -5,29 +5,34 @@
   "level": "Iniciante (A1)",
   "titleFr": "La boulangerie du quartier",
   "titlePt": "A padaria do bairro",
-  "subtitleFr": "La baguette, les croissants et les souvenirs du livreur à scooter",
-  "subtitlePt": "A baguete, os croissants e as lembranças do entregador de scooter",
-  "summaryPt": "Nesta Aula 7 (A1), a família vai à padaria do bairro no sábado de manhã. Irlan compra a baguete, os croissants e o pain au chocolat da Íris, e se lembra das primeiras semanas em Paris, quando entregava pães de scooter. O aluno aprende 'il y a / il n'y a pas' e os artigos definidos e indefinidos.",
+  "subtitleFr": "La baguette, les croissants, la confiture d'abricots et les souvenirs du livreur à scooter",
+  "subtitlePt": "A baguete, os croissants, a geleia de damasco e as lembranças do entregador de scooter",
+  "summaryPt": "Nesta Aula 7 (A1), Irlan vai à padaria do bairro no sábado de manhã. Ele compra baguete, croissants e um pote de geleia de damasco, e lembra das suas primeiras semanas em Paris. Em casa, ele come com música, rega as plantas e tira a mesa. O aluno aprende 'il y a / il n'y a pas' e os artigos definidos e indefinidos.",
   "paragraphs": [
     {
       "id": 1,
-      "fr": "Samedi matin, la famille va à la boulangerie du quartier. Il y a une longue file devant la porte. L'odeur du pain est délicieuse.",
-      "pt": "Sábado de manhã, a família vai à padaria do bairro. Há uma fila longa em frente à porta. O cheiro do pão é delicioso."
+      "fr": "Samedi matin, je vais à la boulangerie du quartier. Il y a une longue file devant la porte. L'odeur du pain est délicieuse.",
+      "pt": "Sábado de manhã, eu vou à padaria do bairro. Há uma fila longa em frente à porta. O cheiro do pão é delicioso."
     },
     {
       "id": 2,
-      "fr": "Irlan achète une baguette, deux croissants et un pain au chocolat pour Íris. Il dit à la boulangère : « Bonjour, je voudrais une baguette, s'il vous plaît. »",
-      "pt": "Irlan compra uma baguete, dois croissants e um pão de chocolate para a Íris. Ele diz à padeira: «Bom dia, eu gostaria de uma baguete, por favor.»"
+      "fr": "« Bonjour, je voudrais une baguette, deux croissants et un pot de confiture d'abricots, s'il vous plaît. » La boulangère sourit et prépare mon sac.",
+      "pt": "« Bom dia, eu gostaria de uma baguete, dois croissants e um pote de geleia de damasco, por favor. » A padeira sorri e prepara a minha sacola."
     },
     {
       "id": 3,
-      "fr": "La boulangère sourit. Elle connaît bien la famille. Irlan se souvient de ses premières semaines à Paris, quand il livrait des croissants en scooter.",
-      "pt": "A padeira sorri. Ela conhece bem a família. Irlan se lembra das suas primeiras semanas em Paris, quando entregava croissants de scooter."
+      "fr": "La boulangère me connaît bien. Je me souviens de mes premières semaines à Paris, quand je livrais des repas en scooter devant cette boulangerie.",
+      "pt": "A padeira me conhece bem. Eu me lembro das minhas primeiras semanas em Paris, quando eu entregava refeições de scooter em frente a esta padaria."
     },
     {
       "id": 4,
-      "fr": "Le soir, la famille mange la baguette avec du fromage et de la soupe. Le repas est simple, mais il est bon. Íris dit : « C'est le meilleur pain de Paris ! »",
-      "pt": "À noite, a família come a baguete com queijo e sopa. A refeição é simples, mas é boa. Íris diz: «É o melhor pão de Paris!»"
+      "fr": "À la maison, je mange une tartine avec de la confiture. J'aime écouter de la musique le matin. Après, je vais arroser les plantes du balcon et je vais débarrasser la table.",
+      "pt": "Em casa, eu como uma torrada com geleia. Eu gosto de ouvir música de manhã. Depois, eu vou regar as plantas da varanda e vou tirar a mesa."
+    },
+    {
+      "id": 5,
+      "fr": "Le soir, je mange la baguette avec du fromage et de la soupe. Le repas est simple, mais il est bon. La baguette de mon quartier est la meilleure de Paris !",
+      "pt": "À noite, eu como a baguete com queijo e sopa. A refeição é simples, mas é boa. A baguete do meu bairro é a melhor de Paris!"
     }
   ],
   "vocabularyDictionary": [
@@ -38,7 +43,7 @@
       "inflections": ["la boulangerie", "une boulangerie", "des boulangeries"],
       "ptTargets": ["padaria"],
       "examples": [
-        { "level": "A1", "fr": "La famille va à la boulangerie du quartier.", "pt": "A família vai à padaria do bairro." },
+        { "level": "A1", "fr": "Je vais à la boulangerie du quartier.", "pt": "Eu vou à padaria do bairro." },
         { "level": "A2-B1", "fr": "La boulangerie ouvre à six heures du matin.", "pt": "A padaria abre às seis horas da manhã." },
         { "level": "B2", "fr": "Il y a une boulangerie à chaque coin de rue à Paris.", "pt": "Há uma padaria em cada esquina em Paris." },
         { "level": "C1-C2", "fr": "La boulangerie artisanale perpétue un savoir-faire français ancestral.", "pt": "A padaria artesanal perpetua um saber-fazer francês ancestral." }
@@ -78,7 +83,7 @@
       "ptTargets": ["pão"],
       "examples": [
         { "level": "A1", "fr": "Le pain est chaud et bon.", "pt": "O pão está quente e bom." },
-        { "level": "A2-B1", "fr": "Nous mangeons du pain avec le fromage.", "pt": "Nós comemos pão com queijo." },
+        { "level": "A2-B1", "fr": "Je mange du pain avec le fromage.", "pt": "Eu como pão com queijo." },
         { "level": "B2", "fr": "Le pain complet est meilleur pour la santé.", "pt": "O pão integral é melhor para a saúde." },
         { "level": "C1-C2", "fr": "Le pain occupe une place centrale dans la gastronomie française.", "pt": "O pão ocupa um lugar central na gastronomia francesa." }
       ]
@@ -103,7 +108,7 @@
       "inflections": ["la soupe", "une soupe", "des soupes"],
       "ptTargets": ["sopa"],
       "examples": [
-        { "level": "A1", "fr": "Le soir, nous mangeons de la soupe.", "pt": "À noite, nós comemos sopa." },
+        { "level": "A1", "fr": "Le soir, je mange de la soupe.", "pt": "À noite, eu como sopa." },
         { "level": "A2-B1", "fr": "La soupe est chaude et réconfortante.", "pt": "A sopa está quente e reconfortante." },
         { "level": "B2", "fr": "Une soupe de légumes est parfaite en hiver.", "pt": "Uma sopa de legumes é perfeita no inverno." },
         { "level": "C1-C2", "fr": "La soupe traditionnelle réunit la famille autour d'une table chaleureuse.", "pt": "A sopa tradicional reúne a família em torno de uma mesa acolhedora." }
@@ -156,7 +161,7 @@
       "ptTargets": ["comprar"],
       "examples": [
         { "level": "A1", "fr": "J'achète une baguette à la boulangerie.", "pt": "Eu compro uma baguete na padaria." },
-        { "level": "A2-B1", "fr": "Nous achetons du pain tous les matins.", "pt": "Nós compramos pão todas as manhãs." },
+        { "level": "A2-B1", "fr": "J'achète du pain tous les matins.", "pt": "Eu compro pão todas as manhãs." },
         { "level": "B2", "fr": "Elle achète ses légumes au marché.", "pt": "Ela compra os legumes no mercado." },
         { "level": "C1-C2", "fr": "Acheter localement soutient les commerçants de quartier.", "pt": "Comprar localmente apoia os comerciantes de bairro." }
       ]
@@ -186,6 +191,32 @@
         { "level": "B2", "fr": "Une soupe délicieuse réchauffe tout le monde.", "pt": "Uma sopa deliciosa aquece todo mundo." },
         { "level": "C1-C2", "fr": "La pâtisserie française est réputée pour ses desserts délicieux.", "pt": "A confeitaria francesa é famosa por suas sobremesas deliciosas." }
       ]
+    },
+    {
+      "term": "la confiture",
+      "definitionPt": "a geleia",
+      "definitionFr": "Préparation sucrée à base de fruits et de sucre.",
+      "inflections": ["la confiture", "une confiture", "des confitures"],
+      "ptTargets": ["geleia"],
+      "examples": [
+        { "level": "A1", "fr": "J'aime la confiture sur la tartine.", "pt": "Eu gosto de geleia na torrada." },
+        { "level": "A2-B1", "fr": "Je voudrais un pot de confiture d'abricots.", "pt": "Eu gostaria de um pote de geleia de damasco." },
+        { "level": "B2", "fr": "La confiture maison est souvent meilleure.", "pt": "A geleia caseira é muitas vezes melhor." },
+        { "level": "C1-C2", "fr": "La confiture d'abricots rappelle les matins d'été.", "pt": "A geleia de damasco lembra as manhãs de verão." }
+      ]
+    },
+    {
+      "term": "arroser",
+      "definitionPt": "regar",
+      "definitionFr": "Verser de l'eau sur des plantes.",
+      "inflections": ["j'arrose", "arroser", "il arrose"],
+      "ptTargets": ["regar"],
+      "examples": [
+        { "level": "A1", "fr": "J'arrose les plantes du balcon.", "pt": "Eu rego as plantas da varanda." },
+        { "level": "A2-B1", "fr": "Il arrose les plantes le matin.", "pt": "Ele rega as plantas de manhã." },
+        { "level": "B2", "fr": "Arroser les plantes demande de la régularité.", "pt": "Regar as plantas exige regularidade." },
+        { "level": "C1-C2", "fr": "Arroser son jardin devient un rituel apaisant après le travail.", "pt": "Regar o jardim torna-se um ritual tranquilizador depois do trabalho." }
+      ]
     }
   ],
   "grammarTip": {
@@ -209,8 +240,8 @@
       {
         "ruleTitle": "Les articles un / une / des et le / la / les",
         "explanationPt": "Os artigos indefinidos: un (masc.), une (fem.), des (plural). Os definidos: le, la, les. 'Une baguette' (uma baguete) vs 'la baguette' (a baguete).",
-        "exampleFr": "J'achète une baguette et le pain au chocolat pour Íris.",
-        "examplePt": "Eu compro uma baguete e o pão de chocolate para a Íris.",
+        "exampleFr": "J'achète une baguette et un pot de confiture d'abricots.",
+        "examplePt": "Eu compro uma baguete e um pote de geleia de damasco.",
         "practiceQuestion": "Complete com o artigo correto: 'Je voudrais _____ croissant, s'il vous plaît.'",
         "options": ["un", "le", "la"],
         "correctIndex": 0
@@ -219,20 +250,20 @@
   },
   "quizQuestions": [
     {
-      "question": "Complete a frase do texto: 'Samedi matin, la famille va à la _____ du quartier.'",
+      "question": "Complete a frase do texto: 'Samedi matin, je vais à la _____ du quartier.'",
       "options": ["boulangerie", "pharmacie", "boutique"],
       "correctIndex": 0,
-      "explanation": "No texto: 'Samedi matin, la famille va à la boulangerie du quartier.'"
+      "explanation": "No texto: 'Samedi matin, je vais à la boulangerie du quartier.'"
     },
     {
-      "question": "Ordene corretamente as palavras da frase: [ une / je / baguette / voudrais / , / s'il vous plaît / ]",
+      "question": "Ordene corretamente as palavras da frase: [ une / je / voudrais / baguette / , / s'il vous plaît / ]",
       "options": [
         "Je voudrais une baguette, s'il vous plaît.",
         "Une baguette je voudrais, s'il vous plaît.",
         "Je une baguette voudrais, s'il vous plaît."
       ],
       "correctIndex": 0,
-      "explanation": "A frase exata do texto é 'Je voudrais une baguette, s'il vous plaît.'"
+      "explanation": "A frase exata do texto é 'Je voudrais une baguette, deux croissants et un pot de confiture d'abricots, s'il vous plaît.'"
     },
     {
       "question": "Como se traduz: 'Há uma fila longa em frente à porta'?",
@@ -255,14 +286,14 @@
       "explanation": "O erro é 'un baguette': 'baguette' é feminino, o artigo correto é 'une'."
     },
     {
-      "question": "Do que Irlan se lembra na padaria?",
+      "question": "O que Irlan faz em casa depois de comer?",
       "options": [
-        "Das suas primeiras semanas em Paris, quando entregava croissants de scooter",
-        "Da sua viagem ao Brasil",
-        "Das férias na praia"
+        "Ouve música, rega as plantas e tira a mesa",
+        "Dorme até tarde",
+        "Vai ao cinema"
       ],
       "correctIndex": 0,
-      "explanation": "No texto: 'Irlan se souvient de ses premières semaines à Paris, quand il livrait des croissants en scooter.'"
+      "explanation": "No texto: 'j'écoute de la musique. Après, j'arrose les plantes du balcon et je débarrasse la table.'"
     }
   ]
 }
