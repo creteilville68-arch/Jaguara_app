@@ -1,151 +1,217 @@
 {
   "id": "paris_lesson_13",
   "cityId": "paris",
-  "domain": "História & Turismo",
+  "domain": "Cultura & Viagem",
   "level": "Iniciante (A1)",
   "titleFr": "Une journée à Versailles",
   "titlePt": "Um dia em Versalhes",
-  "subtitleFr": "Le château, la Galerie des Glaces et les jardins de Le Nôtre",
-  "subtitlePt": "O castelo, a Galeria dos Espelhos e os jardins de Le Nôtre",
-  "summaryPt": "Nesta Aula 13 (A1), a família passa o dia em Versalhes. Eles visitam o castelo, a Galeria dos Espelhos e os jardins desenhados por Le Nôtre. Como geógrafo, Irlan admira a geometria dos jardins. O aluno revisa o futuro próximo (aller + infinitivo) e aprende o verbo 'partir' no presente.",
+  "subtitleFr": "Le château, la Galerie des Glaces et les jardins du roi",
+  "subtitlePt": "O castelo, a Galeria dos Espelhos e os jardins do rei",
+  "summaryPt": "Nesta Aula 13 (A1), Irlan e Andréa passam um domingo em Versalhes. Eles visitam o castelo e a Galeria dos Espelhos, e Irlan, o geógrafo, calcula as medidas e admira a geometria dos jardins. O aluno aprende o futuro próximo (aller + infinitivo) e vocabulário de viagem.",
   "paragraphs": [
     {
       "id": 1,
-      "fr": "Dimanche, nous allons visiter le château de Versailles. Nous partons tôt le matin en train. Le voyage dure quarante minutes.",
-      "pt": "Domingo, nós vamos visitar o castelo de Versalhes. Nós partimos cedo de manhã de trem. A viagem dura quarenta minutos."
+      "fr": "C'est avril. Le soleil brille. Irlan et Andréa partent tôt pour visiter le château de Versailles.",
+      "pt": "É abril. O sol brilha. Irlan e Andréa saem cedo para visitar o castelo de Versalhes."
     },
     {
       "id": 2,
-      "fr": "Le château est immense. Dans la Galerie des Glaces, Íris regarde les miroirs et les lumières. « C'est comme un palais de princesse ! » dit-elle.",
-      "pt": "O castelo é imenso. Na Galeria dos Espelhos, Íris olha os espelhos e as luzes. «É como um palácio de princesa!» diz ela."
+      "fr": "Ils prennent le train. Le voyage dure quarante minutes. Andréa lit une bande dessinée sur l'histoire du château.",
+      "pt": "Eles pegam o trem. A viagem dura quarenta minutos. Andréa lê uma história em quadrinhos sobre a história do castelo."
     },
     {
       "id": 3,
-      "fr": "Après, nous marchons dans les jardins. Les jardins sont très grands et très réguliers. Irlan, le géographe, admire la géométrie des arbres et des fontaines.",
-      "pt": "Depois, nós caminhamos nos jardins. Os jardins são muito grandes e muito regulares. Irlan, o geógrafo, admira a geometria das árvores e das fontes."
+      "fr": "Le château est immense et doré. « C'est un palais », dit Irlan.",
+      "pt": "O castelo é imenso e dourado. «É um palácio», diz Irlan."
     },
     {
       "id": 4,
-      "fr": "Le soir, la famille rentre à Paris. Íris dit : « Je veux revenir à Versailles ! » Andréa répond : « Nous reviendrons, ma chérie. »",
-      "pt": "À noite, a família volta para Paris. Íris diz: «Eu quero voltar a Versalhes!» Andréa responde: «Nós voltaremos, minha querida.»"
+      "fr": "Dans la Galerie des Glaces, Andréa regarde les miroirs et les lumières. « C'est magnifique », dit-elle.",
+      "pt": "Na Galeria dos Espelhos, Andréa olha os espelhos e as luzes. «É magnífico», diz ela."
+    },
+    {
+      "id": 5,
+      "fr": "Irlan calcule la longueur de la galerie dans sa tête. « Soixante-treize mètres », dit-il.",
+      "pt": "Irlan calcula o comprimento da galeria de cabeça. «Setenta e três metros», diz ele."
+    },
+    {
+      "id": 6,
+      "fr": "Andréa rit : « Comment tu sais ça ? » « Je suis géographe », répond Irlan.",
+      "pt": "Andréa ri: «Como você sabe disso?» «Sou geógrafo», responde Irlan."
+    },
+    {
+      "id": 7,
+      "fr": "Après, ils marchent dans les jardins. Les jardins sont en dessous du château, grands et réguliers.",
+      "pt": "Depois, eles caminham pelos jardins. Os jardins ficam abaixo do castelo, grandes e regulares."
+    },
+    {
+      "id": 8,
+      "fr": "Irlan admire la géométrie des arbres et des fontaines. « Chaque jardin est une carte », dit-il.",
+      "pt": "Irlan admira a geometria das árvores e dos chafarizes. «Cada jardim é um mapa», diz ele."
+    },
+    {
+      "id": 9,
+      "fr": "Ils se reposent sur un banc près d'une fontaine. Andréa reprend sa bande dessinée.",
+      "pt": "Eles descansam num banco perto de um chafariz. Andréa retoma a história em quadrinhos dela."
+    },
+    {
+      "id": 10,
+      "fr": "Le soir, ils rentrent à Paris en train. Irlan regarde les photos du château.",
+      "pt": "À noite, eles voltam para Paris de trem. Irlan olha as fotos do castelo."
+    },
+    {
+      "id": 11,
+      "fr": "« Un jour, je dessinerai un jardin comme celui-là », dit Irlan.",
+      "pt": "«Um dia, eu vou desenhar um jardim como aquele», diz Irlan."
+    },
+    {
+      "id": 12,
+      "fr": "Andréa sourit : « Et moi, je viendrai avec toi. »",
+      "pt": "Andréa sorri: «E eu, eu vou com você.»"
     }
   ],
   "vocabularyDictionary": [
     {
-      "term": "château",
-      "definitionPt": "castelo",
-      "definitionFr": "Grande maison de luxe, souvent historique.",
+      "term": "le château",
+      "definitionPt": "o castelo",
+      "definitionFr": "Grande demeure royale ou seigneuriale.",
       "inflections": ["le château", "un château", "des châteaux"],
       "ptTargets": ["castelo"],
       "examples": [
-        { "level": "A1", "fr": "Nous visitons le château de Versailles.", "pt": "Nós visitamos o castelo de Versalhes." },
-        { "level": "A2-B1", "fr": "Le château est immense et très beau.", "pt": "O castelo é imenso e muito bonito." },
-        { "level": "B2", "fr": "Les châteaux de la Loire attirent des millions de visiteurs.", "pt": "Os castelos do Loire atraem milhões de visitantes." },
-        { "level": "C1-C2", "fr": "Le château de Versailles est un chef-d'œuvre de l'architecture classique française.", "pt": "O castelo de Versalhes é uma obra-prima da arquitetura clássica francesa." }
+        { "level": "A1", "fr": "Le château de Versailles est immense.", "pt": "O castelo de Versalhes é imenso." },
+        { "level": "A2-B1", "fr": "Nous visitons le château dimanche.", "pt": "Visitamos o castelo no domingo." },
+        { "level": "B2", "fr": "Le château attire des visiteurs du monde entier.", "pt": "O castelo atrai visitantes do mundo inteiro." },
+        { "level": "C1-C2", "fr": "Le château, témoin de l'histoire, domine encore les jardins.", "pt": "O castelo, testemunha da história, ainda domina os jardins." }
       ]
     },
     {
-      "term": "voyage",
-      "definitionPt": "viagem",
-      "definitionFr": "Déplacement vers un autre lieu.",
-      "inflections": ["le voyage", "un voyage", "des voyages"],
-      "ptTargets": ["viagem"],
-      "examples": [
-        { "level": "A1", "fr": "Le voyage dure quarante minutes.", "pt": "A viagem dura quarenta minutos." },
-        { "level": "A2-B1", "fr": "Le voyage en train est confortable.", "pt": "A viagem de trem é confortável." },
-        { "level": "B2", "fr": "Ce voyage restera dans ma mémoire.", "pt": "Esta viagem ficará na minha memória." },
-        { "level": "C1-C2", "fr": "Le voyage est une source inépuisable d'apprentissage.", "pt": "A viagem é uma fonte inesgotável de aprendizado." }
-      ]
-    },
-    {
-      "term": "partir",
-      "definitionPt": "partir, sair",
-      "definitionFr": "Quitter un lieu pour aller ailleurs.",
-      "inflections": ["je pars", "partir", "il part"],
-      "ptTargets": ["partir", "sair"],
-      "examples": [
-        { "level": "A1", "fr": "Nous partons tôt le matin.", "pt": "Nós partimos cedo de manhã." },
-        { "level": "A2-B1", "fr": "Le train part à huit heures.", "pt": "O trem parte às oito horas." },
-        { "level": "B2", "fr": "Ils partent en voyage samedi.", "pt": "Eles partem em viagem no sábado." },
-        { "level": "C1-C2", "fr": "Partir à l'aventure, c'est découvrir le monde autrement.", "pt": "Partir para a aventura é descobrir o mundo de outra forma." }
-      ]
-    },
-    {
-      "term": "train",
-      "definitionPt": "trem",
-      "definitionFr": "Moyen de transport sur des rails.",
-      "inflections": ["le train", "un train", "des trains"],
-      "ptTargets": ["trem"],
-      "examples": [
-        { "level": "A1", "fr": "Nous partons en train.", "pt": "Nós partimos de trem." },
-        { "level": "A2-B1", "fr": "Le train arrive à la gare.", "pt": "O trem chega à estação." },
-        { "level": "B2", "fr": "Le train est rapide et écologique.", "pt": "O trem é rápido e ecológico." },
-        { "level": "C1-C2", "fr": "Le réseau ferroviaire français est l'un des plus modernes d'Europe.", "pt": "A rede ferroviária francesa é uma das mais modernas da Europa." }
-      ]
-    },
-    {
-      "term": "immense",
-      "definitionPt": "imenso, enorme",
-      "definitionFr": "Très grand.",
-      "inflections": ["immense", "immenses"],
-      "ptTargets": ["imenso", "enorme"],
-      "examples": [
-        { "level": "A1", "fr": "Le château est immense.", "pt": "O castelo é imenso." },
-        { "level": "A2-B1", "fr": "Les jardins sont immenses.", "pt": "Os jardins são imensos." },
-        { "level": "B2", "fr": "La Galerie des Glaces est une salle immense.", "pt": "A Galeria dos Espelhos é uma sala imensa." },
-        { "level": "C1-C2", "fr": "Le domaine immense de Versailles témoigne de la puissance de la monarchie.", "pt": "O domínio imenso de Versalhes testemunha o poder da monarquia." }
-      ]
-    },
-    {
-      "term": "miroir",
-      "definitionPt": "espelho",
-      "definitionFr": "Surface réfléchissante où l'on peut se voir.",
-      "inflections": ["le miroir", "un miroir", "des miroirs"],
-      "ptTargets": ["espelho"],
-      "examples": [
-        { "level": "A1", "fr": "Íris regarde les miroirs.", "pt": "Íris olha os espelhos." },
-        { "level": "A2-B1", "fr": "La Galerie des Glaces a beaucoup de miroirs.", "pt": "A Galeria dos Espelhos tem muitos espelhos." },
-        { "level": "B2", "fr": "Les miroirs reflètent la lumière des fenêtres.", "pt": "Os espelhos refletem a luz das janelas." },
-        { "level": "C1-C2", "fr": "Les miroirs de la galerie multiplient la lumière et l'espace.", "pt": "Os espelhos da galeria multiplicam a luz e o espaço." }
-      ]
-    },
-    {
-      "term": "palais",
-      "definitionPt": "palácio",
-      "definitionFr": "Grande résidence royale ou princière.",
+      "term": "le palais",
+      "definitionPt": "o palácio",
+      "definitionFr": "Grande et riche demeure d'un roi ou d'un prince.",
       "inflections": ["le palais", "un palais", "des palais"],
       "ptTargets": ["palácio"],
       "examples": [
-        { "level": "A1", "fr": "C'est comme un palais de princesse !", "pt": "É como um palácio de princesa!" },
-        { "level": "A2-B1", "fr": "Le palais de Versailles est célèbre dans le monde.", "pt": "O palácio de Versalhes é famoso no mundo." },
-        { "level": "B2", "fr": "Les rois de France habitaient dans ce palais.", "pt": "Os reis da França moravam neste palácio." },
-        { "level": "C1-C2", "fr": "Le palais de Versailles incarne l'apogée de la monarchie française.", "pt": "O palácio de Versalhes encarna o apogeu da monarquia francesa." }
+        { "level": "A1", "fr": "Le château est un palais.", "pt": "O castelo é um palácio." },
+        { "level": "A2-B1", "fr": "Le palais a des centaines de salles.", "pt": "O palácio tem centenas de salas." },
+        { "level": "B2", "fr": "Le palais reflète la puissance des rois.", "pt": "O palácio reflete o poder dos reis." },
+        { "level": "C1-C2", "fr": "Le palais, de ses dorures à ses jardins, raconte une époque.", "pt": "O palácio, dos dourados aos jardins, conta uma época." }
       ]
     },
     {
-      "term": "jardin",
-      "definitionPt": "jardim",
-      "definitionFr": "Espace planté de fleurs et d'arbres.",
+      "term": "la Galerie des Glaces",
+      "definitionPt": "a Galeria dos Espelhos",
+      "definitionFr": "Grande salle du château de Versailles ornée de miroirs.",
+      "inflections": ["la Galerie des Glaces"],
+      "ptTargets": ["Galeria dos Espelhos"],
+      "examples": [
+        { "level": "A1", "fr": "La Galerie des Glaces est célèbre.", "pt": "A Galeria dos Espelhos é famosa." },
+        { "level": "A2-B1", "fr": "Nous visitons la Galerie des Glaces.", "pt": "Visitamos a Galeria dos Espelhos." },
+        { "level": "B2", "fr": "La Galerie des Glaces reflète les lumières et les visiteurs.", "pt": "A Galeria dos Espelhos reflete as luzes e os visitantes." },
+        { "level": "C1-C2", "fr": "La Galerie des Glaces conserve la mémoire des grands événements de France.", "pt": "A Galeria dos Espelhos conserva a memória dos grandes acontecimentos da França." }
+      ]
+    },
+    {
+      "term": "le miroir",
+      "definitionPt": "o espelho",
+      "definitionFr": "Surface qui renvoie la lumière et les images.",
+      "inflections": ["le miroir", "un miroir", "des miroirs"],
+      "ptTargets": ["espelho"],
+      "examples": [
+        { "level": "A1", "fr": "Les miroirs sont grands.", "pt": "Os espelhos são grandes." },
+        { "level": "A2-B1", "fr": "Andréa regarde son reflet dans le miroir.", "pt": "Andréa olha o reflexo dela no espelho." },
+        { "level": "B2", "fr": "Les miroirs de la galerie multiplient la lumière.", "pt": "Os espelhos da galeria multiplicam a luz." },
+        { "level": "C1-C2", "fr": "Le miroir, en réfléchissant le monde, en double la beauté.", "pt": "O espelho, ao refletir o mundo, duplica a sua beleza." }
+      ]
+    },
+    {
+      "term": "la lumière",
+      "definitionPt": "a luz",
+      "definitionFr": "Ce qui éclaire et permet de voir.",
+      "inflections": ["la lumière", "une lumière", "des lumières"],
+      "ptTargets": ["luz"],
+      "examples": [
+        { "level": "A1", "fr": "La lumière est belle dans la galerie.", "pt": "A luz é bonita na galeria." },
+        { "level": "A2-B1", "fr": "Les lumières brillent dans la salle.", "pt": "As luzes brilham na sala." },
+        { "level": "B2", "fr": "La lumière du matin traverse les grandes fenêtres.", "pt": "A luz da manhã atravessa as grandes janelas." },
+        { "level": "C1-C2", "fr": "La lumière, selon l'heure, change le visage des lieux.", "pt": "A luz, conforme a hora, muda o rosto dos lugares." }
+      ]
+    },
+    {
+      "term": "le jardin",
+      "definitionPt": "o jardim",
+      "definitionFr": "Terrain où poussent des plantes et des fleurs.",
       "inflections": ["le jardin", "un jardin", "des jardins"],
       "ptTargets": ["jardim"],
       "examples": [
-        { "level": "A1", "fr": "Nous marchons dans les jardins.", "pt": "Nós caminhamos nos jardins." },
-        { "level": "A2-B1", "fr": "Les jardins de Versailles sont très grands.", "pt": "Os jardins de Versalhes são muito grandes." },
-        { "level": "B2", "fr": "Les jardins à la française sont célèbres dans le monde.", "pt": "Os jardins à la française são famosos no mundo." },
-        { "level": "C1-C2", "fr": "Les jardins de Le Nôtre sont un modèle de symétrie et d'harmonie.", "pt": "Os jardins de Le Nôtre são um modelo de simetria e harmonia." }
+        { "level": "A1", "fr": "Les jardins sont grands.", "pt": "Os jardins são grandes." },
+        { "level": "A2-B1", "fr": "Ils marchent dans les jardins.", "pt": "Eles caminham pelos jardins." },
+        { "level": "B2", "fr": "Les jardins de Versailles sont dessinés avec une géométrie parfaite.", "pt": "Os jardins de Versalhes são desenhados com uma geometria perfeita." },
+        { "level": "C1-C2", "fr": "Un jardin bien composé est une carte vivante du goût de son époque.", "pt": "Um jardim bem composto é um mapa vivo do gosto da sua época." }
       ]
     },
     {
-      "term": "fontaine",
-      "definitionPt": "fonte",
+      "term": "la fontaine",
+      "definitionPt": "o chafariz",
       "definitionFr": "Construction d'où jaillit de l'eau.",
       "inflections": ["la fontaine", "une fontaine", "des fontaines"],
-      "ptTargets": ["fonte"],
+      "ptTargets": ["chafariz"],
       "examples": [
-        { "level": "A1", "fr": "Irlan admire les fontaines.", "pt": "Irlan admira as fontes." },
-        { "level": "A2-B1", "fr": "La fontaine est au milieu du jardin.", "pt": "A fonte está no meio do jardim." },
-        { "level": "B2", "fr": "Les fontaines de Versailles sont décorées de statues.", "pt": "As fontes de Versalhes são decoradas com estátuas." },
-        { "level": "C1-C2", "fr": "Les grandes fontaines de Versailles rythment les jardins royaux.", "pt": "As grandes fontes de Versalhes marcam o ritmo dos jardins reais." }
+        { "level": "A1", "fr": "La fontaine est près du banc.", "pt": "O chafariz fica perto do banco." },
+        { "level": "A2-B1", "fr": "Les enfants jouent près de la fontaine.", "pt": "As crianças brincam perto do chafariz." },
+        { "level": "B2", "fr": "L'eau de la fontaine scintille sous le soleil.", "pt": "A água do chafariz cintila sob o sol." },
+        { "level": "C1-C2", "fr": "Les fontaines rythment les allées du jardin royal.", "pt": "Os chafarizes marcam o ritmo das alamedas do jardim real." }
+      ]
+    },
+    {
+      "term": "calculer",
+      "definitionPt": "calcular",
+      "definitionFr": "Trouver un nombre par un calcul.",
+      "inflections": ["je calcule", "calculer", "il calcule"],
+      "ptTargets": ["calcular"],
+      "examples": [
+        { "level": "A1", "fr": "Irlan calcule la longueur.", "pt": "Irlan calcula o comprimento." },
+        { "level": "A2-B1", "fr": "Je calcule le prix des billets.", "pt": "Calculo o preço dos bilhetes." },
+        { "level": "B2", "fr": "Il calcule la distance entre les deux villes.", "pt": "Ele calcula a distância entre as duas cidades." },
+        { "level": "C1-C2", "fr": "Calculer le coût d'un projet demande de prévoir l'imprévisible.", "pt": "Calcular o custo de um projeto exige prever o imprevisível." }
+      ]
+    },
+    {
+      "term": "en dessous",
+      "definitionPt": "abaixo, embaixo",
+      "definitionFr": "Plus bas, sous quelque chose.",
+      "inflections": ["en dessous"],
+      "ptTargets": ["abaixo"],
+      "examples": [
+        { "level": "A1", "fr": "Les jardins sont en dessous du château.", "pt": "Os jardins ficam abaixo do castelo." },
+        { "level": "A2-B1", "fr": "La cave est en dessous de la maison.", "pt": "O porão fica embaixo da casa." },
+        { "level": "B2", "fr": "En dessous du pont, l'eau coule rapidement.", "pt": "Abaixo da ponte, a água corre rápido." },
+        { "level": "C1-C2", "fr": "En dessous des apparences se cache souvent une autre vérité.", "pt": "Abaixo das aparências esconde-se muitas vezes outra verdade." }
+      ]
+    },
+    {
+      "term": "la bande dessinée",
+      "definitionPt": "a história em quadrinhos",
+      "definitionFr": "Histoire racontée en images et en bulles.",
+      "inflections": ["la bande dessinée", "une bande dessinée", "des bandes dessinées"],
+      "ptTargets": ["quadrinhos"],
+      "examples": [
+        { "level": "A1", "fr": "Andréa lit une bande dessinée.", "pt": "Andréa lê uma história em quadrinhos." },
+        { "level": "A2-B1", "fr": "Cette bande dessinée raconte l'histoire de France.", "pt": "Esta história em quadrinhos conta a história da França." },
+        { "level": "B2", "fr": "La bande dessinée rend l'histoire vivante pour les enfants.", "pt": "A história em quadrinhos torna a história viva para as crianças." },
+        { "level": "C1-C2", "fr": "La bande dessinée, longtemps jugée mineure, est devenue un art à part entière.", "pt": "A história em quadrinhos, por muito tempo considerada menor, tornou-se uma arte por si só." }
+      ]
+    },
+    {
+      "term": "avril",
+      "definitionPt": "abril",
+      "definitionFr": "Le quatrième mois de l'année.",
+      "inflections": ["avril"],
+      "ptTargets": ["abril"],
+      "examples": [
+        { "level": "A1", "fr": "C'est avril.", "pt": "É abril." },
+        { "level": "A2-B1", "fr": "En avril, les jardins sont en fleurs.", "pt": "Em abril, os jardins estão floridos." },
+        { "level": "B2", "fr": "Avril apporte le soleil après l'hiver.", "pt": "Abril traz o sol depois do inverno." },
+        { "level": "C1-C2", "fr": "Avril, entre pluie et soleil, réveille la nature.", "pt": "Abril, entre chuva e sol, desperta a natureza." }
       ]
     },
     {
@@ -156,113 +222,71 @@
       "ptTargets": ["admirar"],
       "examples": [
         { "level": "A1", "fr": "Irlan admire les jardins.", "pt": "Irlan admira os jardins." },
-        { "level": "A2-B1", "fr": "Nous admirons le château.", "pt": "Nós admiramos o castelo." },
-        { "level": "B2", "fr": "Les visiteurs admirent la Galerie des Glaces.", "pt": "Os visitantes admiram a Galeria dos Espelhos." },
-        { "level": "C1-C2", "fr": "Admirer une œuvre d'art, c'est lui accorder toute son attention.", "pt": "Admirar uma obra de arte é dedicar-lhe toda a atenção." }
-      ]
-    },
-    {
-      "term": "géométrie",
-      "definitionPt": "geometria",
-      "definitionFr": "Science des formes et des mesures.",
-      "inflections": ["la géométrie"],
-      "ptTargets": ["geometria"],
-      "examples": [
-        { "level": "A1", "fr": "Irlan admire la géométrie des jardins.", "pt": "Irlan admira a geometria dos jardins." },
-        { "level": "A2-B1", "fr": "La géométrie des jardins est parfaite.", "pt": "A geometria dos jardins é perfeita." },
-        { "level": "B2", "fr": "Le géographe étudie la géométrie du territoire.", "pt": "O geógrafo estuda a geometria do território." },
-        { "level": "C1-C2", "fr": "La géométrie des jardins à la française révèle un ordre savant.", "pt": "A geometria dos jardins à la française revela uma ordem sábia." }
-      ]
-    },
-    {
-      "term": "revenir",
-      "definitionPt": "voltar, regressar",
-      "definitionFr": "Venir de nouveau dans un lieu.",
-      "inflections": ["je reviens", "revenir", "il revient"],
-      "ptTargets": ["voltar", "regressar"],
-      "examples": [
-        { "level": "A1", "fr": "Je veux revenir à Versailles !", "pt": "Eu quero voltar a Versalhes!" },
-        { "level": "A2-B1", "fr": "Nous revenons à la maison le soir.", "pt": "Nós voltamos para casa à noite." },
-        { "level": "B2", "fr": "Elle revient souvent dans ce quartier.", "pt": "Ela volta muitas vezes a este bairro." },
-        { "level": "C1-C2", "fr": "Revenir dans un lieu aimé, c'est retrouver des souvenirs.", "pt": "Voltar a um lugar amado é reencontrar lembranças." }
+        { "level": "A2-B1", "fr": "Nous admirons la vue depuis la galerie.", "pt": "Admiramos a vista da galeria." },
+        { "level": "B2", "fr": "Elle admire le travail des jardiniers.", "pt": "Ela admira o trabalho dos jardineiros." },
+        { "level": "C1-C2", "fr": "Admirer une œuvre, c'est lui offrir une part de son attention.", "pt": "Admirar uma obra é oferecer a ela uma parte da sua atenção." }
       ]
     }
   ],
   "grammarTip": {
-    "ruleTitle": "Le futur proche : aller + infinitif",
-    "explanationPt": "Para falar de algo que vai acontecer em breve: verbo 'aller' no presente + infinitivo. Ex.: 'Nous allons visiter le château.' (Nós vamos visitar o castelo.)",
-    "exampleFr": "Dimanche, nous allons visiter le château de Versailles.",
-    "examplePt": "Domingo, nós vamos visitar o castelo de Versalhes.",
-    "practiceQuestion": "Complete com o futuro próximo: 'Nous _____ visiter les jardins.'",
-    "options": ["allons", "allez", "vont"],
+    "ruleTitle": "Le futur proche (aller + infinitif)",
+    "explanationPt": "O futuro próximo se forma com 'aller' no presente + infinitivo: 'je vais visiter' (vou visitar), 'nous allons partir' (vamos partir), 'ils vont rentrer' (eles vão voltar).",
+    "exampleFr": "Nous allons visiter le château.",
+    "examplePt": "Nós vamos visitar o castelo.",
+    "practiceQuestion": "Complete: 'Ils _____ visiter les jardins.'",
+    "options": ["vont", "vais", "allons"],
     "correctIndex": 0,
     "points": [
       {
-        "ruleTitle": "Le futur proche : aller + infinitif",
-        "explanationPt": "Futuro próximo = aller (je vais, tu vas, il va, nous allons, vous allez, ils vont) + infinitivo. Ex.: 'Je vais visiter', 'Ils vont partir'.",
-        "exampleFr": "Je vais visiter le château et ils vont partir à midi.",
-        "examplePt": "Eu vou visitar o castelo e eles vão partir ao meio-dia.",
-        "practiceQuestion": "Complete: 'Demain, je _____ revenir à Versailles.'",
-        "options": ["vais", "va", "vont"],
+        "ruleTitle": "Aller + infinitif",
+        "explanationPt": "'aller' + infinitivo indica uma ação futura e próxima: 'je vais manger' (vou comer), 'tu vas lire' (você vai ler), 'il va partir' (ele vai partir). Ex.: 'Nous allons visiter le château.'",
+        "exampleFr": "Nous allons visiter le château.",
+        "examplePt": "Nós vamos visitar o castelo.",
+        "practiceQuestion": "Complete: 'Je _____ lire une bande dessinée.'",
+        "options": ["vais", "va", "allons"],
         "correctIndex": 0
       },
       {
-        "ruleTitle": "Le verbe partir au présent",
-        "explanationPt": "'partir' (partir) é irregular: je pars, tu pars, il/elle part, nous partons, vous partez, ils/elles partent. Ex.: 'Nous partons tôt le matin.'",
-        "exampleFr": "Nous partons tôt le matin en train.",
-        "examplePt": "Nós partimos cedo de manhã de trem.",
-        "practiceQuestion": "Complete: 'Ils _____ à huit heures.'",
-        "options": ["partent", "partons", "part"],
+        "ruleTitle": "Le futur proche à la forme négative",
+        "explanationPt": "Na negativa, o 'ne... pas' envolve o verbo 'aller': 'Je ne vais pas partir' (não vou partir), 'Nous n'allons pas rentrer' (não vamos voltar).",
+        "exampleFr": "Nous n'allons pas rentrer tard.",
+        "examplePt": "Nós não vamos voltar tarde.",
+        "practiceQuestion": "Complete: 'Ils _____ pas rentrer maintenant.'",
+        "options": ["ne vont", "ne va", "n'allons"],
         "correctIndex": 0
       }
     ]
   },
   "quizQuestions": [
     {
-      "question": "Complete a frase do texto: 'Nous _____ tôt le matin en train.'",
-      "options": ["partons", "partent", "part"],
+      "question": "Em que mês Irlan e Andréa visitam Versalhes?",
+      "options": ["Em abril", "Em janeiro", "Em agosto"],
       "correctIndex": 0,
-      "explanation": "No texto: 'Nous partons tôt le matin en train.' (Nós partimos cedo de manhã de trem.)"
+      "explanation": "No texto: 'C'est avril. Le soleil brille.'"
     },
     {
-      "question": "Ordene corretamente as palavras da frase: [ visiter / nous allons / le château / Versailles / de / ]",
-      "options": [
-        "Nous allons visiter le château de Versailles.",
-        "Visiter nous allons le château de Versailles.",
-        "Le château nous allons visiter de Versailles."
-      ],
+      "question": "O que Andréa lê no trem?",
+      "options": ["Uma história em quadrinhos sobre o castelo", "Um jornal", "Uma carta"],
       "correctIndex": 0,
-      "explanation": "A frase exata do texto é 'Nous allons visiter le château de Versailles.'"
+      "explanation": "No texto: 'Andréa lit une bande dessinée sur l'histoire du château.'"
     },
     {
-      "question": "Como se traduz: 'Eu vou voltar a Versalhes'?",
-      "options": [
-        "Je vais revenir à Versailles.",
-        "Je revenir à Versailles vais.",
-        "Je va revenir à Versailles."
-      ],
+      "question": "Quantos metros Irlan calcula para a galeria?",
+      "options": ["Setenta e três", "Quarenta", "Cem"],
       "correctIndex": 0,
-      "explanation": "Futuro próximo: 'je vais' + infinitivo 'revenir' → 'Je vais revenir à Versailles.'"
+      "explanation": "No texto: 'Soixante-treize mètres.'"
     },
     {
-      "question": "Identifique a frase com ERRO de conjugação do verbo partir:",
-      "options": [
-        "Nous partons tôt le matin.",
-        "Je pars à huit heures.",
-        "Ils part à Versailles."
-      ],
-      "correctIndex": 2,
-      "explanation": "O erro é 'Ils part': com 'ils', o verbo partir fica 'partent' ('Ils partent à Versailles.')."
+      "question": "Onde ficam os jardins em relação ao castelo?",
+      "options": ["Abaixo do castelo", "Acima do castelo", "Dentro do castelo"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'Les jardins sont en dessous du château.'"
     },
     {
-      "question": "O que Irlan, o geógrafo, admira nos jardins de Versalhes?",
-      "options": [
-        "A geometria das árvores e das fontes",
-        "As lojas de souvenirs",
-        "Os carros estacionados"
-      ],
+      "question": "O que Irlan diz sobre os jardins?",
+      "options": ["Cada jardim é um mapa", "Cada jardim é um rio", "Cada jardim é uma cidade"],
       "correctIndex": 0,
-      "explanation": "No texto: 'Irlan, le géographe, admire la géométrie des arbres et des fontaines.'"
+      "explanation": "No texto: 'Chaque jardin est une carte.'"
     }
   ]
 }

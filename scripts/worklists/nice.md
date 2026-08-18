@@ -1,10 +1,10 @@
 # #11 Nice — C2
 
-**5160 palavras** ainda precisam aparecer nos textos das aulas desta cidade.
+**5158 palavras** ainda precisam aparecer nos textos das aulas desta cidade.
 
 Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aventura do Irlan.
 
-## C2 (5160)
+## C2 (5158)
 
 - [ ] **abâtardir** — abastardar
 - [ ] **abductif** — abdutivo
@@ -154,7 +154,6 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **bâclé** — mal feito
 - [ ] **bafouer** — escarnecer / violar
 - [ ] **balbutiant** — balbuciante / incipiente
-- [ ] **bander** — enfaixar
 - [ ] **baptiser** — batizar
 - [ ] **barricader** — barricar
 - [ ] **bathymétrique** — batimétrico
@@ -1914,7 +1913,6 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **la balayette** — a vassourinha
 - [ ] **la ballade** — a balada
 - [ ] **la balustrade** — a balaustrada
-- [ ] **la bande** — a banda
 - [ ] **la bande passante** — a largura de banda
 - [ ] **la bannière** — o estandarte
 - [ ] **la banque centrale** — o banco central

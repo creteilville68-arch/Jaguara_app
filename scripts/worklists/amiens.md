@@ -1,15 +1,14 @@
 # #2 Amiens — A1/A2
 
-**337 palavras** ainda precisam aparecer nos textos das aulas desta cidade.
+**335 palavras** ainda precisam aparecer nos textos das aulas desta cidade.
 
 Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aventura do Irlan.
 
-## A1 (120)
+## A1 (118)
 
 - [ ] **aimer une publication** — curtir uma publicação
 - [ ] **appeler un ami** — ligar para um amigo
 - [ ] **avant-hier** — anteontem
-- [ ] **c** — isto / isso / o que (pronome demonstrativo impessoal, usado em 'c'est')
 - [ ] **changer de train** — trocar de trem
 - [ ] **check-in** — check-in / registro de entrada
 - [ ] **colorier** — colorir
@@ -18,23 +17,22 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **désagréable** — desagradável
 - [ ] **disponible** — disponível
 - [ ] **en désordre** — desarrumado
-- [ ] **envoyer un SMS** — enviar um SMS
-- [ ] **escalator** — escada rolante
-- [ ] **étendre le linge** — estender a roupa
-- [ ] **faire une vidéo** — fazer um vídeo
-- [ ] **flash** — flash / sem flash / com flash
-- [ ] **hui** — hoje (segunda parte de 'aujourd'hui')
-- [ ] **in** — em / dentro (prefixo ou expressão como check-in)
-- [ ] **l’adoucissant** — o amaciante
-- [ ] **l’ampoule** — a lâmpada
-- [ ] **l’araignée** — a aranha
-- [ ] **l’aubergine** — a berinjela
-- [ ] **l’évier** — a pia
-- [ ] **l’imprimante** — a impressora
-- [ ] **l’instituteur** — o professor primário
-- [ ] **l’interrupteur** — o interruptor
-- [ ] **l’oncle** — o tio
-- [ ] **la bande dessinée** — a história em quadrinhos
+- [ ] **envoyer une lettre** — enviar uma carta
+- [ ] **éteindre l’ordinateur** — desligar o computador
+- [ ] **faire la cuisine** — cozinhar
+- [ ] **fi** — Fi (parte da palavra Wi-Fi)
+- [ ] **gagner un match** — vencer uma partida
+- [ ] **imprimer** — imprimir
+- [ ] **jusqu** — até / até a (usado em 'jusqu'à')
+- [ ] **l’allumette** — o fósforo
+- [ ] **l’ananas** — o abacaxi
+- [ ] **l’armoire** — o armário
+- [ ] **l’égouttoir** — o escorredor de louça
+- [ ] **l’expresso** — o café expresso
+- [ ] **l’infirmière** — a enfermeira
+- [ ] **l’interphone** — o interfone
+- [ ] **l’œuf à la coque** — o ovo cozido
+- [ ] **la banane** — a banana
 - [ ] **la brioche** — o brioche
 - [ ] **la casquette** — o boné
 - [ ] **la chantilly** — o chantilly
