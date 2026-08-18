@@ -1,268 +1,292 @@
 {
   "id": "amiens_lesson_7",
   "cityId": "amiens",
-  "domain": "Lazer & Cotidiano",
+  "domain": "Natureza & Lazer",
   "level": "Iniciante em Transição (A1/A2)",
   "titleFr": "Le pique-nique au bord de la Somme",
-  "titlePt": "O piquenique às margens do Somme",
-  "subtitleFr": "Un déjeuner au soleil et une rencontre avec un étudiant",
-  "subtitlePt": "Um almoço ao sol e um encontro com um estudante",
-  "summaryPt": "Nesta Aula 7 (A1/A2), a família faz um piquenique às margens do rio Somme. Eles encontram Lucas, um estudante de Amiens, e conversam sobre a cidade. A família está contente e curiosa. O aluno aprende os adjetivos em -eux/-euse e o futuro próximo com 'on'.",
+  "titlePt": "O piquenique à beira do Somme",
+  "subtitleFr": "Un moment de repos avant la suite",
+  "subtitlePt": "Um momento de descanso antes da continuação",
+  "summaryPt": "Na Aula 7 de Amiens (A1/A2), Irlan e Andréa fazem um piquenique à beira do rio Somme e discutem os sete números. O aluno aprende o vocabulário do piquenique e o verbo 'partager'.",
   "paragraphs": [
     {
       "id": 1,
-      "fr": "Aujourd'hui, il fait beau. La famille fait un pique-nique au bord de la Somme. Sur la nappe, il y a du pain, du fromage, des fruits et des macarons.",
-      "pt": "Hoje, faz tempo bom. A família faz um piquenique às margens do Somme. Na toalha, há pão, queijo, frutas e macarons."
+      "fr": "Après la cathédrale, Irlan et Andréa s'assoient au bord de la Somme pour un pique-nique.",
+      "pt": "Depois da catedral, Irlan e Andréa se sentam à beira do Somme para um piquenique."
     },
     {
       "id": 2,
-      "fr": "Un jeune homme s'approche. « Bonjour, je m'appelle Lucas. Je suis étudiant à Amiens. Vous êtes heureux de visiter notre ville ? » demande-t-il.",
-      "pt": "Um rapaz se aproxima. «Olá, eu me chamo Lucas. Sou estudante em Amiens. Vocês estão felizes em visitar a nossa cidade?» pergunta ele."
+      "fr": "Andréa étale une nappe sur l'herbe. Elle sort du pain, du fromage et deux pommes.",
+      "pt": "Andréa estende uma toalha na grama. Ela tira pão, queijo e duas maçãs."
     },
     {
       "id": 3,
-      "fr": "« Nous sommes très curieux de découvrir Amiens ! » répond Irlan. Lucas est ravi : « Alors, je suis content de vous conseiller ! »",
-      "pt": "«Nós estamos muito curiosos para descobrir Amiens!» responde Irlan. Lucas fica encantado: «Então, eu fico feliz em dar conselhos a vocês!»"
+      "fr": "« Un pique-nique au bord de l'eau, c'est parfait pour réfléchir », dit Irlan.",
+      "pt": "«Um piquenique à beira da água é perfeito para pensar», diz Irlan."
     },
     {
       "id": 4,
-      "fr": "Lucas propose : « Demain, on va visiter le parc de la Hotoie, et puis on va goûter le gâteau battu, une spécialité picarde ! » Tout le monde est heureux.",
-      "pt": "Lucas propõe: «Amanhã, nós vamos visitar o parque da Hotoie e depois vamos provar o gâteau battu, uma especialidade picarda!» Todos ficam felizes."
+      "fr": "Ils partagent le pain et le fromage. L'eau de la rivière coule doucement.",
+      "pt": "Eles dividem o pão e o queijo. A água do rio corre devagar."
+    },
+    {
+      "id": 5,
+      "fr": "« Sept chiffres », répète Andréa. « Peut-être une date, comme 1904. »",
+      "pt": "«Sete números», repete Andréa. «Talvez uma data, como 1904.»"
+    },
+    {
+      "id": 6,
+      "fr": "« Ou des coordonnées », répond Irlan. « Une latitude et une longitude. »",
+      "pt": "«Ou coordenadas», responde Irlan. «Uma latitude e uma longitude.»"
+    },
+    {
+      "id": 7,
+      "fr": "Il sort l'Atlas et regarde la première pranche. « Manoel aimait les chiffres. »",
+      "pt": "Ele tira o Atlas e olha a primeira prancha. «Manoel gostava de números.»"
+    },
+    {
+      "id": 8,
+      "fr": "« Chaque ville aura sa piste », dit Andréa. « Et nous, on les suivra. »",
+      "pt": "«Cada cidade terá a sua pista», diz Andréa. «E a gente vai segui-las.»"
+    },
+    {
+      "id": 9,
+      "fr": "Un canard s'approche en glissant sur l'eau. Andréa lui jette un petit morceau de pain.",
+      "pt": "Um pato se aproxima deslizando na água. Andréa joga um pedacinho de pão para ele."
+    },
+    {
+      "id": 10,
+      "fr": "Ils rient. Pendant un instant, le mystère paraît loin et simple.",
+      "pt": "Eles riem. Por um instante, o mistério parece distante e simples."
+    },
+    {
+      "id": 11,
+      "fr": "« On a bien fait de partir », dit Irlan. « L'aventure, c'est aussi ces moments-là. »",
+      "pt": "«Fizemos bem em partir», diz Irlan. «A aventura também é feita desses momentos.»"
+    },
+    {
+      "id": 12,
+      "fr": "Andréa plie la nappe. « Demain, on cherchera la signification des chiffres. Pour l'instant, profitons. »",
+      "pt": "Andréa dobra a toalha. «Amanhã, a gente procura o significado dos números. Por enquanto, vamos aproveitar.»"
     }
   ],
   "vocabularyDictionary": [
     {
-      "term": "pique-nique",
-      "definitionPt": "piquenique",
-      "definitionFr": "Repas pris dehors, souvent sur une nappe.",
+      "term": "le pique-nique",
+      "definitionPt": "o piquenique",
+      "definitionFr": "Repas pris dehors.",
       "inflections": ["le pique-nique", "un pique-nique", "des pique-niques"],
       "ptTargets": ["piquenique"],
       "examples": [
-        { "level": "A1", "fr": "La famille fait un pique-nique.", "pt": "A família faz um piquenique." },
-        { "level": "A2-B1", "fr": "Le pique-nique est au bord de l'eau.", "pt": "O piquenique é à beira da água." },
-        { "level": "B2", "fr": "Un pique-nique au soleil est un plaisir simple.", "pt": "Um piquenique ao sol é um prazer simples." },
-        { "level": "C1-C2", "fr": "Le pique-nique familial réunit les générations autour d'une nappe.", "pt": "O piquenique familiar reúne as gerações em volta de uma toalha." }
+        { "level": "A1", "fr": "Le pique-nique est prêt.", "pt": "O piquenique está pronto." },
+        { "level": "A2-B1", "fr": "Ils font un pique-nique au bord de la Somme.", "pt": "Eles fazem um piquenique à beira do Somme." },
+        { "level": "B2", "fr": "Un pique-nique en famille crée des souvenirs simples.", "pt": "Um piquenique em família cria lembranças simples." },
+        { "level": "C1-C2", "fr": "C'est le pique-nique qui, sans cérémonie, réunit les gens autour du pain et du rire.", "pt": "É o piquenique que, sem cerimônia, reúne as pessoas em volta do pão e do riso." }
       ]
     },
     {
-      "term": "nappe",
-      "definitionPt": "toalha (de mesa)",
-      "definitionFr": "Tissu que l'on met sur une table ou par terre.",
+      "term": "la rivière",
+      "definitionPt": "o rio",
+      "definitionFr": "Cours d'eau naturel.",
+      "inflections": ["la rivière", "une rivière", "des rivières"],
+      "ptTargets": ["rio"],
+      "examples": [
+        { "level": "A1", "fr": "La rivière coule.", "pt": "O rio corre." },
+        { "level": "A2-B1", "fr": "La Somme est une rivière du nord.", "pt": "O Somme é um rio do norte." },
+        { "level": "B2", "fr": "La rivière traverse la ville en silence.", "pt": "O rio atravessa a cidade em silêncio." },
+        { "level": "C1-C2", "fr": "C'est la rivière qui, depuis toujours, nourrit la vallée et ses jardins.", "pt": "É o rio que, desde sempre, alimenta o vale e seus jardins." }
+      ]
+    },
+    {
+      "term": "la nappe",
+      "definitionPt": "a toalha (de mesa)",
+      "definitionFr": "Tissu posé sur la table ou l'herbe.",
       "inflections": ["la nappe", "une nappe", "des nappes"],
       "ptTargets": ["toalha"],
       "examples": [
-        { "level": "A1", "fr": "La nappe est sur l'herbe.", "pt": "A toalha está na grama." },
-        { "level": "A2-B1", "fr": "La nappe est pleine de nourriture.", "pt": "A toalha está cheia de comida." },
-        { "level": "B2", "fr": "Une grande nappe accueille tous les plats.", "pt": "Uma toalha grande recebe todos os pratos." },
-        { "level": "C1-C2", "fr": "La nappe blanche met en valeur les couleurs du repas.", "pt": "A toalha branca valoriza as cores da refeição." }
+        { "level": "A1", "fr": "La nappe est propre.", "pt": "A toalha está limpa." },
+        { "level": "A2-B1", "fr": "Andréa étale une nappe sur l'herbe.", "pt": "Andréa estende uma toalha na grama." },
+        { "level": "B2", "fr": "Une nappe à carreaux donne un air de fête au pique-nique.", "pt": "Uma toalha xadrez dá um ar de festa ao piquenique." },
+        { "level": "C1-C2", "fr": "C'est la nappe qui, dépliée sur l'herbe, transforme un coin de nature en table.", "pt": "É a toalha que, estendida na grama, transforma um canto da natureza em mesa." }
       ]
     },
     {
-      "term": "heureux",
-      "definitionPt": "feliz",
-      "definitionFr": "Qui éprouve de la joie.",
-      "inflections": ["heureux", "heureuse", "heureux"],
-      "ptTargets": ["feliz"],
+      "term": "le pain",
+      "definitionPt": "o pão",
+      "definitionFr": "Aliment fait de farine et d'eau.",
+      "inflections": ["le pain", "un pain", "des pains"],
+      "ptTargets": ["pão"],
       "examples": [
-        { "level": "A1", "fr": "La famille est heureuse.", "pt": "A família está feliz." },
-        { "level": "A2-B1", "fr": "Je suis heureux de te voir.", "pt": "Eu estou feliz em te ver." },
-        { "level": "B2", "fr": "Elle est heureuse de découvrir la ville.", "pt": "Ela está feliz em descobrir a cidade." },
-        { "level": "C1-C2", "fr": "Le bonheur simple d'un pique-nique en famille est précieux.", "pt": "A felicidade simples de um piquenique em família é preciosa." }
+        { "level": "A1", "fr": "Le pain est frais.", "pt": "O pão é fresco." },
+        { "level": "A2-B1", "fr": "Ils partagent le pain et le fromage.", "pt": "Eles dividem o pão e o queijo." },
+        { "level": "B2", "fr": "Le pain croustillant accompagne tous les repas.", "pt": "O pão crocante acompanha todas as refeições." },
+        { "level": "C1-C2", "fr": "C'est le pain qui, simple et partagé, réunit les mains et les cœurs.", "pt": "É o pão que, simples e dividido, une as mãos e os corações." }
       ]
     },
     {
-      "term": "curieux",
-      "definitionPt": "curioso",
-      "definitionFr": "Qui veut apprendre et découvrir.",
-      "inflections": ["curieux", "curieuse", "curieux"],
-      "ptTargets": ["curioso"],
+      "term": "le fromage",
+      "definitionPt": "o queijo",
+      "definitionFr": "Aliment fait à partir du lait.",
+      "inflections": ["le fromage", "un fromage", "des fromages"],
+      "ptTargets": ["queijo"],
       "examples": [
-        { "level": "A1", "fr": "Nous sommes curieux de découvrir Amiens.", "pt": "Nós estamos curiosos para descobrir Amiens." },
-        { "level": "A2-B1", "fr": "Íris est très curieuse.", "pt": "Íris é muito curiosa." },
-        { "level": "B2", "fr": "Les voyageurs curieux apprennent toujours plus.", "pt": "Os viajantes curiosos sempre aprendem mais." },
-        { "level": "C1-C2", "fr": "Un esprit curieux est le moteur de la découverte.", "pt": "Um espírito curioso é o motor da descoberta." }
+        { "level": "A1", "fr": "Le fromage est bon.", "pt": "O queijo é bom." },
+        { "level": "A2-B1", "fr": "Ils partagent le pain et le fromage.", "pt": "Eles dividem o pão e o queijo." },
+        { "level": "B2", "fr": "Le fromage picard a un goût affirmé.", "pt": "O queijo picardo tem um sabor marcante." },
+        { "level": "C1-C2", "fr": "C'est le fromage qui, affiné avec patience, raconte le terroir de sa région.", "pt": "É o queijo que, maturado com paciência, conta o terroir da sua região." }
       ]
     },
     {
-      "term": "content",
-      "definitionPt": "contente, feliz",
-      "definitionFr": "Qui éprouve de la satisfaction.",
-      "inflections": ["content", "contente", "contents", "contentes"],
-      "ptTargets": ["contente", "feliz"],
+      "term": "partager",
+      "definitionPt": "compartilhar / dividir",
+      "definitionFr": "Donner une partie de ce que l'on a.",
+      "inflections": ["partager", "je partage", "nous partageons"],
+      "ptTargets": ["compartilhar", "dividir"],
       "examples": [
-        { "level": "A1", "fr": "Je suis content de vous conseiller.", "pt": "Eu fico feliz em dar conselhos a vocês." },
-        { "level": "A2-B1", "fr": "Nous sommes contents du voyage.", "pt": "Nós estamos contentes com a viagem." },
-        { "level": "B2", "fr": "Elle est contente de sa rencontre.", "pt": "Ela está contente com o encontro." },
-        { "level": "C1-C2", "fr": "Être content de partager, c'est déjà voyager ensemble.", "pt": "Estar contente em partilhar já é viajar juntos." }
+        { "level": "A1", "fr": "Ils partagent le repas.", "pt": "Eles dividem a refeição." },
+        { "level": "A2-B1", "fr": "Ils partagent le pain et le fromage.", "pt": "Eles dividem o pão e o queijo." },
+        { "level": "B2", "fr": "Partager un repas rapproche toujours les gens.", "pt": "Dividir uma refeição sempre aproxima as pessoas." },
+        { "level": "C1-C2", "fr": "C'est en partageant que l'on transforme un simple repas en souvenir.", "pt": "É dividindo que se transforma uma simples refeição em lembrança." }
       ]
     },
     {
-      "term": "conseiller",
-      "definitionPt": "aconselhar",
-      "definitionFr": "Donner des conseils.",
-      "inflections": ["je conseille", "conseiller", "il conseille"],
-      "ptTargets": ["aconselhar"],
+      "term": "s'asseoir",
+      "definitionPt": "sentar-se",
+      "definitionFr": "Se mettre sur un siège.",
+      "inflections": ["s'asseoir", "je m'assois", "nous nous asseyons"],
+      "ptTargets": ["sentar-se"],
       "examples": [
-        { "level": "A1", "fr": "Je suis content de vous conseiller.", "pt": "Eu fico feliz em aconselhá-los." },
-        { "level": "A2-B1", "fr": "Le guide conseille les visiteurs.", "pt": "O guia aconselha os visitantes." },
-        { "level": "B2", "fr": "Elle conseille les meilleurs endroits de la ville.", "pt": "Ela aconselha os melhores lugares da cidade." },
-        { "level": "C1-C2", "fr": "Conseiller un voyage, c'est offrir un morceau de sa culture.", "pt": "Aconselhar uma viagem é oferecer um pedaço da sua cultura." }
+        { "level": "A1", "fr": "Je m'assois sur l'herbe.", "pt": "Eu me sento na grama." },
+        { "level": "A2-B1", "fr": "Ils s'assoient au bord de la rivière.", "pt": "Eles se sentam à beira do rio." },
+        { "level": "B2", "fr": "S'asseoir un moment permet de reprendre des forces.", "pt": "Sentar-se um instante permite recuperar as forças." },
+        { "level": "C1-C2", "fr": "C'est en s'asseyant que l'on prend le temps de regarder.", "pt": "É sentando-se que se dedica tempo a olhar." }
       ]
     },
     {
-      "term": "étudiant",
-      "definitionPt": "estudante",
-      "definitionFr": "Personne qui étudie à l'université.",
-      "inflections": ["l'étudiant", "un étudiant", "des étudiants"],
-      "ptTargets": ["estudante"],
+      "term": "la coordonnée",
+      "definitionPt": "a coordenada",
+      "definitionFr": "Nombre qui situe un point sur une carte.",
+      "inflections": ["la coordonnée", "une coordonnée", "des coordonnées"],
+      "ptTargets": ["coordenada"],
       "examples": [
-        { "level": "A1", "fr": "Lucas est étudiant.", "pt": "Lucas é estudante." },
-        { "level": "A2-B1", "fr": "Les étudiants aiment les cafés d'Amiens.", "pt": "Os estudantes gostam dos cafés de Amiens." },
-        { "level": "B2", "fr": "L'étudiant connaît bien sa ville.", "pt": "O estudante conhece bem a sua cidade." },
-        { "level": "C1-C2", "fr": "Les étudiants donnent à Amiens son énergie intellectuelle.", "pt": "Os estudantes dão a Amiens a sua energia intelectual." }
+        { "level": "A1", "fr": "La coordonnée est notée.", "pt": "A coordenada está anotada." },
+        { "level": "A2-B1", "fr": "Irlan pense à des coordonnées.", "pt": "Irlan pensa em coordenadas." },
+        { "level": "B2", "fr": "Les coordonnées indiquent un point précis sur la carte.", "pt": "As coordenadas indicam um ponto preciso no mapa." },
+        { "level": "C1-C2", "fr": "C'est la coordonnée qui, chiffrée, transforme la terre en repère lisible.", "pt": "É a coordenada que, cifrada, transforma a terra em referência legível." }
       ]
     },
     {
-      "term": "ravir",
-      "definitionPt": "encantar, alegrar",
-      "definitionFr": "Faire grand plaisir.",
-      "inflections": ["je ravis", "ravir", "il ravit"],
-      "ptTargets": ["encantar", "alegrar"],
+      "term": "la date",
+      "definitionPt": "a data",
+      "definitionFr": "Jour précis du calendrier.",
+      "inflections": ["la date", "une date", "des dates"],
+      "ptTargets": ["data"],
       "examples": [
-        { "level": "A1", "fr": "Lucas est ravi.", "pt": "Lucas está encantado." },
-        { "level": "A2-B1", "fr": "Cette rencontre ravit la famille.", "pt": "Este encontro encanta a família." },
-        { "level": "B2", "fr": "La beauté de la ville ravit les visiteurs.", "pt": "A beleza da cidade encanta os visitantes." },
-        { "level": "C1-C2", "fr": "L'accueil chaleureux des Picards ravit les voyageurs.", "pt": "A recepção calorosa dos picardos encanta os viajantes." }
+        { "level": "A1", "fr": "La date est importante.", "pt": "A data é importante." },
+        { "level": "A2-B1", "fr": "Peut-être que les chiffres forment une date.", "pt": "Talvez os números formem uma data." },
+        { "level": "B2", "fr": "La date 1904 revient dans l'Atlas.", "pt": "A data de 1904 volta no Atlas." },
+        { "level": "C1-C2", "fr": "C'est la date qui, gravée, fixe un événement dans le temps.", "pt": "É a data que, gravada, fixa um acontecimento no tempo." }
       ]
     },
     {
-      "term": "proposer",
-      "definitionPt": "propor",
-      "definitionFr": "Offrir une idée ou une activité.",
-      "inflections": ["je propose", "proposer", "il propose"],
-      "ptTargets": ["propor"],
+      "term": "le canard",
+      "definitionPt": "o pato",
+      "definitionFr": "Oiseau d'eau.",
+      "inflections": ["le canard", "un canard", "des canards"],
+      "ptTargets": ["pato"],
       "examples": [
-        { "level": "A1", "fr": "Lucas propose une visite.", "pt": "Lucas propõe uma visita." },
-        { "level": "A2-B1", "fr": "Je propose d'aller au parc demain.", "pt": "Eu proponho ir ao parque amanhã." },
-        { "level": "B2", "fr": "Elle propose un itinéraire pour la journée.", "pt": "Ela propõe um roteiro para o dia." },
-        { "level": "C1-C2", "fr": "Proposer une découverte, c'est ouvrir une porte sur sa région.", "pt": "Propor uma descoberta é abrir uma porta para a sua região." }
+        { "level": "A1", "fr": "Le canard nage.", "pt": "O pato nada." },
+        { "level": "A2-B1", "fr": "Un canard s'approche sur l'eau.", "pt": "Um pato se aproxima na água." },
+        { "level": "B2", "fr": "Les canards glissent doucement sur la rivière.", "pt": "Os patos deslizam devagar no rio." },
+        { "level": "C1-C2", "fr": "C'est le canard qui, paisible, anime les bords de la rivière.", "pt": "É o pato que, tranquilo, anima as margens do rio." }
       ]
     },
     {
-      "term": "parc",
-      "definitionPt": "parque",
-      "definitionFr": "Grand jardin public.",
-      "inflections": ["le parc", "un parc", "des parcs"],
-      "ptTargets": ["parque"],
+      "term": "l'herbe",
+      "definitionPt": "a grama / a erva",
+      "definitionFr": "Plante verte qui couvre le sol.",
+      "inflections": ["l'herbe", "une herbe", "des herbes"],
+      "ptTargets": ["grama", "erva"],
       "examples": [
-        { "level": "A1", "fr": "Le parc de la Hotoie est grand.", "pt": "O parque da Hotoie é grande." },
-        { "level": "A2-B1", "fr": "Nous allons au parc cet après-midi.", "pt": "Nós vamos ao parque esta tarde." },
-        { "level": "B2", "fr": "Le parc est un espace vert apprécié des familles.", "pt": "O parque é um espaço verde apreciado pelas famílias." },
-        { "level": "C1-C2", "fr": "Les parcs urbains sont les poumons des villes.", "pt": "Os parques urbanos são os pulmões das cidades." }
+        { "level": "A1", "fr": "L'herbe est verte.", "pt": "A grama é verde." },
+        { "level": "A2-B1", "fr": "Andréa étale la nappe sur l'herbe.", "pt": "Andréa estende a toalha na grama." },
+        { "level": "B2", "fr": "L'herbe fraîche garde l'humidité du matin.", "pt": "A grama fresca guarda a umidade da manhã." },
+        { "level": "C1-C2", "fr": "C'est l'herbe qui, au bord de l'eau, offre un tapis naturel aux promeneurs.", "pt": "É a grama que, à beira da água, oferece um tapete natural aos caminhantes." }
       ]
     },
     {
-      "term": "goûter",
-      "definitionPt": "provar, degustar",
-      "definitionFr": "Essayer la saveur d'un aliment.",
-      "inflections": ["je goûte", "goûter", "il goûte"],
-      "ptTargets": ["provar", "degustar"],
+      "term": "profiter",
+      "definitionPt": "aproveitar",
+      "definitionFr": "Tirer du plaisir de quelque chose.",
+      "inflections": ["profiter", "je profite", "nous profitons"],
+      "ptTargets": ["aproveitar"],
       "examples": [
-        { "level": "A1", "fr": "On va goûter le gâteau battu.", "pt": "Nós vamos provar o gâteau battu." },
-        { "level": "A2-B1", "fr": "Je goûte une spécialité picarde.", "pt": "Eu provo uma especialidade picarda." },
-        { "level": "B2", "fr": "Goûter les spécialités locales est essentiel en voyage.", "pt": "Provar as especialidades locais é essencial numa viagem." },
-        { "level": "C1-C2", "fr": "Goûter le gâteau battu, c'est découvrir le terroir picard.", "pt": "Provar o gâteau battu é descobrir o terroir picardo." }
-      ]
-    },
-    {
-      "term": "spécialité",
-      "definitionPt": "especialidade",
-      "definitionFr": "Plat ou produit typique d'un lieu.",
-      "inflections": ["la spécialité", "une spécialité", "des spécialités"],
-      "ptTargets": ["especialidade"],
-      "examples": [
-        { "level": "A1", "fr": "Le gâteau battu est une spécialité picarde.", "pt": "O gâteau battu é uma especialidade picarda." },
-        { "level": "A2-B1", "fr": "Chaque région a ses spécialités.", "pt": "Cada região tem as suas especialidades." },
-        { "level": "B2", "fr": "La cuisine picarde a des spécialités savoureuses.", "pt": "A cozinha picarda tem especialidades saborosas." },
-        { "level": "C1-C2", "fr": "Les spécialités régionales racontent l'histoire d'un territoire.", "pt": "As especialidades regionais contam a história de um território." }
+        { "level": "A1", "fr": "Je profite du soleil.", "pt": "Eu aproveito o sol." },
+        { "level": "A2-B1", "fr": "Ils profitent du moment ensemble.", "pt": "Eles aproveitam o momento juntos." },
+        { "level": "B2", "fr": "Profiter du calme est un vrai luxe.", "pt": "Aproveitar a calma é um verdadeiro luxo." },
+        { "level": "C1-C2", "fr": "C'est en profitant du présent que l'on échappe un instant à l'inquiétude.", "pt": "É aproveitando o presente que se escapa por um instante da preocupação." }
       ]
     }
   ],
   "grammarTip": {
-    "ruleTitle": "Les adjectifs en -eux / -euse",
-    "explanationPt": "Adjetivos terminados em -eux formam o feminino em -euse: heureux → heureuse, curieux → curieuse. Ex.: 'Il est heureux.' / 'Elle est curieuse.'",
-    "exampleFr": "Vous êtes heureux de visiter notre ville ? — Nous sommes très curieux !",
-    "examplePt": "Vocês estão felizes em visitar a nossa cidade? — Nós estamos muito curiosos!",
-    "practiceQuestion": "Complete com a forma correta: 'Íris est très _____.' (curieux)",
-    "options": ["curieuse", "curieux", "curieuses"],
+    "ruleTitle": "Le verbe partager",
+    "explanationPt": "'Partager' (dividir/compartilhar): je partage, tu partages, il partage, nous partageons, vous partagez, ils partagent.",
+    "exampleFr": "Ils partagent le pain et le fromage.",
+    "examplePt": "Eles dividem o pão e o queijo.",
+    "practiceQuestion": "Complete: 'Nous _____ le repas.'",
+    "options": ["partageons", "partage", "partagent"],
     "correctIndex": 0,
     "points": [
       {
-        "ruleTitle": "Les adjectifs en -eux / -euse",
-        "explanationPt": "Masculino -eux → feminino -euse: heureux/heureuse, curieux/curieuse. Ex.: 'Il est heureux.', 'Elle est heureuse.'",
-        "exampleFr": "Lucas est heureux et sa sœur est heureuse aussi.",
-        "examplePt": "Lucas está feliz e a sua irmã está feliz também.",
-        "practiceQuestion": "Complete: 'La famille est _____.' (heureux)",
-        "options": ["heureuse", "heureux", "heureuses"],
+        "ruleTitle": "Peut-être + phrase",
+        "explanationPt": "'Peut-être' = talvez. Pode vir no início: 'Peut-être une date' (talvez uma data), 'peut-être que...'.",
+        "exampleFr": "Peut-être que les chiffres forment une date.",
+        "examplePt": "Talvez os números formem uma data.",
+        "practiceQuestion": "Complete: '_____ que c'est une date.'",
+        "options": ["Peut-être", "Souvent", "Toujours"],
         "correctIndex": 0
       },
       {
-        "ruleTitle": "Le futur proche avec on",
-        "explanationPt": "Com 'on' (= nós), o futuro próximo: 'on va' + infinitivo. Ex.: 'On va visiter le parc' (Nós vamos visitar o parque), 'On va goûter le gâteau battu'.",
-        "exampleFr": "Demain, on va visiter le parc de la Hotoie, et puis on va goûter le gâteau battu.",
-        "examplePt": "Amanhã, nós vamos visitar o parque da Hotoie e depois vamos provar o gâteau battu.",
-        "practiceQuestion": "Complete com a forma correta: 'On _____ (aller) goûter une spécialité.'",
-        "options": ["va", "vont", "allons"],
+        "ruleTitle": "Au bord de la rivière",
+        "explanationPt": "'Au bord de' + lugar: au bord de la rivière (à beira do rio), au bord de l'eau (à beira da água).",
+        "exampleFr": "Ils s'assoient au bord de la Somme.",
+        "examplePt": "Eles se sentam à beira do Somme.",
+        "practiceQuestion": "Complete: 'Ils s'assoient _____ bord de la rivière.'",
+        "options": ["au", "à", "en"],
         "correctIndex": 0
       }
     ]
   },
   "quizQuestions": [
     {
-      "question": "Complete a frase do texto: 'La famille fait un pique-nique au bord de la _____.'",
-      "options": ["Somme", "Seine", "Loire"],
+      "question": "Onde eles fazem o piquenique?",
+      "options": ["à beira do Somme", "na torre", "no mercado"],
       "correctIndex": 0,
-      "explanation": "No texto: 'La famille fait un pique-nique au bord de la Somme.'"
+      "explanation": "Ils font un pique-nique au bord de la Somme."
     },
     {
-      "question": "Ordene corretamente as palavras da frase: [ au bord / la famille / de la Somme / un pique-nique / fait / ]",
-      "options": [
-        "La famille fait un pique-nique au bord de la Somme.",
-        "Un pique-nique la famille fait au bord de la Somme.",
-        "La famille au bord de la Somme fait un pique-nique."
-      ],
+      "question": "O que eles dividem?",
+      "options": ["pão e queijo", "bolo", "pizza"],
       "correctIndex": 0,
-      "explanation": "A frase exata do texto é 'La famille fait un pique-nique au bord de la Somme.'"
+      "explanation": "Ils partagent le pain et le fromage."
     },
     {
-      "question": "Como se traduz: 'Ela está feliz e curiosa'?",
-      "options": [
-        "Elle est heureuse et curieuse.",
-        "Elle est heureux et curieuse.",
-        "Elle est heureuse et curieux."
-      ],
+      "question": "O que os sete números podem ser?",
+      "options": ["uma data ou coordenadas", "um nome", "um telefone"],
       "correctIndex": 0,
-      "explanation": "Feminino de heureux = heureuse; feminino de curieux = curieuse."
+      "explanation": "Peut-être une date, ou des coordonnées."
     },
     {
-      "question": "Identifique a frase com ERRO de concordância:",
-      "options": [
-        "Il est heureux.",
-        "Elle est curieuse.",
-        "Elle est heureux."
-      ],
-      "correctIndex": 2,
-      "explanation": "O erro é 'Elle est heureux': no feminino, é 'heureuse'."
+      "question": "Complete: 'Nous _____ le repas.'",
+      "options": ["partageons", "partage", "partagent"],
+      "correctIndex": 0,
+      "explanation": "nous partageons."
     },
     {
-      "question": "O que Lucas propõe para o dia seguinte?",
-      "options": [
-        "Visitar o parque da Hotoie e provar o gâteau battu",
-        "Ir ao museu de arte moderna",
-        "Passear de avião"
-      ],
+      "question": "Complete: 'Ils s'assoient _____ bord de la rivière.'",
+      "options": ["au", "à", "en"],
       "correctIndex": 0,
-      "explanation": "No texto: 'Demain, on va visiter le parc de la Hotoie, et puis on va goûter le gâteau battu.'"
+      "explanation": "au bord de la rivière."
     }
   ]
 }
