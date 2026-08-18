@@ -45,7 +45,7 @@
       "examples": [
         { "level": "A1", "fr": "Le dédale est compliqué.", "pt": "O labirinto é complicado." },
         { "level": "A2-B1", "fr": "Le quartier est un dédale de ruelles.", "pt": "O bairro é um labirinto de ruelas." },
-        { "level": "B1-B2", "fr": "Le dédale de ruelles pentues cache des trésors à chaque coin.", "pt": "O labirinto de ruelas íngremes esconde tesouros a cada esquina." },
+        { "level": "B2", "fr": "Le dédale de ruelles pentues cache des trésors à chaque coin.", "pt": "O labirinto de ruelas íngremes esconde tesouros a cada esquina." },
         { "level": "C1-C2", "fr": "C'est dans le dédale que l'on perd la notion du temps.", "pt": "É no labirinto que se perde a noção do tempo." }
       ]
     },
@@ -58,7 +58,7 @@
       "examples": [
         { "level": "A1", "fr": "La rue est pentue.", "pt": "A rua é íngreme." },
         { "level": "A2-B1", "fr": "Les ruelles pentues fatiguent les jambes.", "pt": "As ruelas íngremes cansam as pernas." },
-        { "level": "B1-B2", "fr": "Les ruelles pentues, bordées de fresques, récompensent le marcheur.", "pt": "As ruelas íngremes, bordeadas de murais, recompensam o caminhante." },
+        { "level": "B2", "fr": "Les ruelles pentues, bordées de fresques, récompensent le marcheur.", "pt": "As ruelas íngremes, bordeadas de murais, recompensam o caminhante." },
         { "level": "C1-C2", "fr": "C'est dans la rue pentue que l'on gagne la hauteur et la vue.", "pt": "É na rua íngreme que se ganha a altura e a vista." }
       ]
     },
@@ -71,7 +71,7 @@
       "examples": [
         { "level": "A1", "fr": "La fresque murale est grande.", "pt": "O mural é grande." },
         { "level": "A2-B1", "fr": "Des fresques murales couvrent les murs.", "pt": "Murais cobrem as paredes." },
-        { "level": "B1-B2", "fr": "Les fresques murales, peintes par des artistes du monde entier, font la fierté du quartier.", "pt": "Os murais, pintados por artistas do mundo inteiro, fazem o orgulho do bairro." },
+        { "level": "B2", "fr": "Les fresques murales, peintes par des artistes du monde entier, font la fierté du quartier.", "pt": "Os murais, pintados por artistas do mundo inteiro, fazem o orgulho do bairro." },
         { "level": "C1-C2", "fr": "C'est la fresque murale qui transforme un quartier en musée.", "pt": "É o mural que transforma um bairro em museu." }
       ]
     },
@@ -84,7 +84,7 @@
       "examples": [
         { "level": "A1", "fr": "L'œuvre est belle.", "pt": "A obra é bonita." },
         { "level": "A2-B1", "fr": "Chaque œuvre raconte une histoire.", "pt": "Cada obra conta uma história." },
-        { "level": "B1-B2", "fr": "Les œuvres, dispersées dans le quartier, forment un musée sans murs.", "pt": "As obras, espalhadas pelo bairro, formam um museu sem paredes." },
+        { "level": "B2", "fr": "Les œuvres, dispersées dans le quartier, forment un musée sans murs.", "pt": "As obras, espalhadas pelo bairro, formam um museu sem paredes." },
         { "level": "C1-C2", "fr": "C'est l'œuvre qui donne à la rue sa dimension d'art.", "pt": "É a obra que dá à rua sua dimensão de arte." }
       ]
     },
@@ -97,7 +97,7 @@
       "examples": [
         { "level": "A1", "fr": "Je exprime mes idées.", "pt": "Eu expresso minhas ideias." },
         { "level": "A2-B1", "fr": "Chaque couleur exprimait une émotion.", "pt": "Cada cor expressava uma emoção." },
-        { "level": "B1-B2", "fr": "Exprimer une émotion sans mots, c'est le pouvoir de la peinture.", "pt": "Expressar uma emoção sem palavras é o poder da pintura." },
+        { "level": "B2", "fr": "Exprimer une émotion sans mots, c'est le pouvoir de la peinture.", "pt": "Expressar uma emoção sem palavras é o poder da pintura." },
         { "level": "C1-C2", "fr": "C'est en exprimant que l'artiste libère ce qui l'habite.", "pt": "É expressando que o artista liberta o que o habita." }
       ]
     },
@@ -110,7 +110,7 @@
       "examples": [
         { "level": "A1", "fr": "Le croquis est simple.", "pt": "O esboço é simples." },
         { "level": "A2-B1", "fr": "L'artiste dessinait des croquis.", "pt": "O artista desenhava esboços." },
-        { "level": "B1-B2", "fr": "Les croquis, jetés sur le papier, préparaient les grandes fresques.", "pt": "Os esboços, jogados no papel, preparavam os grandes murais." },
+        { "level": "B2", "fr": "Les croquis, jetés sur le papier, préparaient les grandes fresques.", "pt": "Os esboços, jogados no papel, preparavam os grandes murais." },
         { "level": "C1-C2", "fr": "C'est le croquis qui garde la première idée de l'artiste.", "pt": "É o esboço que guarda a primeira ideia do artista." }
       ]
     },
@@ -123,7 +123,7 @@
       "examples": [
         { "level": "A1", "fr": "L'hommage est touchant.", "pt": "A homenagem é tocante." },
         { "level": "A2-B1", "fr": "La fresque est un hommage aux femmes.", "pt": "O mural é uma homenagem às mulheres." },
-        { "level": "B1-B2", "fr": "L'hommage, peint en plein mur, dit ce que les mots oublient.", "pt": "A homenagem, pintada na parede, diz o que as palavras esquecem." },
+        { "level": "B2", "fr": "L'hommage, peint en plein mur, dit ce que les mots oublient.", "pt": "A homenagem, pintada na parede, diz o que as palavras esquecem." },
         { "level": "C1-C2", "fr": "C'est l'hommage qui rend visibles celles que l'on ignore.", "pt": "É a homenagem que torna visíveis aquelas que se ignora." }
       ]
     },
@@ -136,7 +136,7 @@
       "examples": [
         { "level": "A1", "fr": "La passante regarde.", "pt": "A passante olha." },
         { "level": "A2-B1", "fr": "Une passante lui a donné une information.", "pt": "Uma passante lhe deu uma informação." },
-        { "level": "B1-B2", "fr": "La passante, curieuse, s'arrêtait devant chaque fresque.", "pt": "A passante, curiosa, parava diante de cada mural." },
+        { "level": "B2", "fr": "La passante, curieuse, s'arrêtait devant chaque fresque.", "pt": "A passante, curiosa, parava diante de cada mural." },
         { "level": "C1-C2", "fr": "C'est la passante qui donne vie au musée à ciel ouvert.", "pt": "É a passante que dá vida ao museu a céu aberto." }
       ]
     },
@@ -149,7 +149,7 @@
       "examples": [
         { "level": "A1", "fr": "Le collectif est uni.", "pt": "O coletivo é unido." },
         { "level": "A2-B1", "fr": "Un collectif international a peint la fresque.", "pt": "Um coletivo internacional pintou o mural." },
-        { "level": "B1-B2", "fr": "Le collectif, venu du monde entier, a mis six mois pour finir l'œuvre.", "pt": "O coletivo, vindo do mundo inteiro, levou seis meses para terminar a obra." },
+        { "level": "B2", "fr": "Le collectif, venu du monde entier, a mis six mois pour finir l'œuvre.", "pt": "O coletivo, vindo do mundo inteiro, levou seis meses para terminar a obra." },
         { "level": "C1-C2", "fr": "C'est le collectif qui transforme les talents en chef-d'œuvre commun.", "pt": "É o coletivo que transforma talentos em obra-prima comum." }
       ]
     },
@@ -162,7 +162,7 @@
       "examples": [
         { "level": "A1", "fr": "La bergère garde les moutons.", "pt": "A pastora guarda as ovelhas." },
         { "level": "A2-B1", "fr": "La fresque représente une bergère.", "pt": "O mural representa uma pastora." },
-        { "level": "B1-B2", "fr": "La bergère, figure de l'histoire provençale, orne le mur géant.", "pt": "A pastora, figura da história provençal, ornamenta o mural gigante." },
+        { "level": "B2", "fr": "La bergère, figure de l'histoire provençale, orne le mur géant.", "pt": "A pastora, figura da história provençal, ornamenta o mural gigante." },
         { "level": "C1-C2", "fr": "C'est la bergère qui relie le port à la terre provençale.", "pt": "É a pastora que liga o porto à terra provençal." }
       ]
     },
@@ -175,7 +175,7 @@
       "examples": [
         { "level": "A1", "fr": "L'enfant est émerveillé.", "pt": "A criança está maravilhada." },
         { "level": "A2-B1", "fr": "Irlan était émerveillé par les fresques.", "pt": "Irlan estava maravilhado com os murais." },
-        { "level": "B1-B2", "fr": "Émerveillé par la précision, il a photographié l'œuvre sous tous les angles.", "pt": "Maravilhado com a precisão, ele fotografou a obra de todos os ângulos." },
+        { "level": "B2", "fr": "Émerveillé par la précision, il a photographié l'œuvre sous tous les angles.", "pt": "Maravilhado com a precisão, ele fotografou a obra de todos os ângulos." },
         { "level": "C1-C2", "fr": "C'est émerveillé que l'on comprend la grandeur de l'art.", "pt": "É maravilhado que se compreende a grandeza da arte." }
       ]
     },
@@ -188,7 +188,7 @@
       "examples": [
         { "level": "A1", "fr": "Le point est rouge.", "pt": "O ponto é vermelho." },
         { "level": "A2-B1", "fr": "Chaque fresque est un point sur ma carte.", "pt": "Cada mural é um ponto no meu mapa." },
-        { "level": "B1-B2", "fr": "Les points, notés sur la carte, formaient un itinéraire de beauté.", "pt": "Os pontos, anotados no mapa, formavam um itinerário de beleza." },
+        { "level": "B2", "fr": "Les points, notés sur la carte, formaient un itinéraire de beauté.", "pt": "Os pontos, anotados no mapa, formavam um itinerário de beleza." },
         { "level": "C1-C2", "fr": "C'est le point qui relie l'œuvre au souvenir.", "pt": "É o ponto que liga a obra à lembrança." }
       ]
     }

@@ -45,7 +45,7 @@
       "examples": [
         { "level": "A1", "fr": "Le voisin est gentil.", "pt": "O vizinho é gentil." },
         { "level": "A2-B1", "fr": "Les voisins sont venus à la fête.", "pt": "Os vizinhos vieram à festa." },
-        { "level": "B1", "fr": "Les voisins avec qui l'on partage sont précieux.", "pt": "Os vizinhos com quem se compartilha são preciosos." },
+        { "level": "B2", "fr": "Les voisins avec qui l'on partage sont précieux.", "pt": "Os vizinhos com quem se compartilha são preciosos." },
         { "level": "C1-C2", "fr": "Le voisin, proche inconnu, devient un ami au fil des fêtes.", "pt": "O vizinho, próximo desconhecido, vira amigo ao longo das festas." }
       ]
     },
@@ -58,7 +58,7 @@
       "examples": [
         { "level": "A1", "fr": "L'invitation est jolie.", "pt": "O convite é bonito." },
         { "level": "A2-B1", "fr": "Iris a distribué les invitations.", "pt": "Íris distribuiu os convites." },
-        { "level": "B1", "fr": "Les invitations que l'on envoie rendent heureux.", "pt": "Os convites que se enviam deixam felizes." },
+        { "level": "B2", "fr": "Les invitations que l'on envoie rendent heureux.", "pt": "Os convites que se enviam deixam felizes." },
         { "level": "C1-C2", "fr": "L'invitation, mot de fête, ouvre la porte des rencontres.", "pt": "O convite, palavra de festa, abre a porta dos encontros." }
       ]
     },
@@ -71,7 +71,7 @@
       "examples": [
         { "level": "A1", "fr": "La cour est pleine.", "pt": "O pátio está cheio." },
         { "level": "A2-B1", "fr": "La fête a eu lieu dans la cour.", "pt": "A festa aconteceu no pátio." },
-        { "level": "B1", "fr": "La cour où l'on danse est illuminée.", "pt": "O pátio onde se dança está iluminado." },
+        { "level": "B2", "fr": "La cour où l'on danse est illuminée.", "pt": "O pátio onde se dança está iluminado." },
         { "level": "C1-C2", "fr": "La cour, pièce du ciel, rassemble les voisins autour d'une table.", "pt": "O pátio, cômodo do céu, reúne os vizinhos em torno de uma mesa." }
       ]
     },
@@ -84,7 +84,7 @@
       "examples": [
         { "level": "A1", "fr": "Le partage est gentil.", "pt": "A partilha é gentil." },
         { "level": "A2-B1", "fr": "Le partage rend la fête plus belle.", "pt": "A partilha torna a festa mais bela." },
-        { "level": "B1", "fr": "Les plats que l'on partage ont meilleur goût.", "pt": "Os pratos que se partilham têm melhor gosto." },
+        { "level": "B2", "fr": "Les plats que l'on partage ont meilleur goût.", "pt": "Os pratos que se partilham têm melhor gosto." },
         { "level": "C1-C2", "fr": "Le partage, geste d'abondance, double ce que l'on donne.", "pt": "A partilha, gesto de abundância, dobra o que se dá." }
       ]
     },
@@ -97,7 +97,7 @@
       "examples": [
         { "level": "A1", "fr": "La table est grande.", "pt": "A mesa é grande." },
         { "level": "A2-B1", "fr": "La table est pleine de plats.", "pt": "A mesa está cheia de pratos." },
-        { "level": "B1", "fr": "La table autour de laquelle l'on rit est belle.", "pt": "A mesa em torno da qual se ri é bela." },
+        { "level": "B2", "fr": "La table autour de laquelle l'on rit est belle.", "pt": "A mesa em torno da qual se ri é bela." },
         { "level": "C1-C2", "fr": "La table, cercle des amis, transforme les repas en fêtes.", "pt": "A mesa, círculo dos amigos, transforma as refeições em festas." }
       ]
     },
@@ -110,7 +110,7 @@
       "examples": [
         { "level": "A1", "fr": "Le gâteau est sucré.", "pt": "O bolo é doce." },
         { "level": "A2-B1", "fr": "Le gâteau au chocolat est délicieux.", "pt": "O bolo de chocolate é delicioso." },
-        { "level": "B1", "fr": "Les gâteaux que l'on partage disparaissent vite.", "pt": "Os bolos que se partilham desaparecem rápido." },
+        { "level": "B2", "fr": "Les gâteaux que l'on partage disparaissent vite.", "pt": "Os bolos que se partilham desaparecem rápido." },
         { "level": "C1-C2", "fr": "Le gâteau, poème de sucre, réunit les voisins autour du même plaisir.", "pt": "O bolo, poema de açúcar, reúne os vizinhos em torno do mesmo prazer." }
       ]
     },
@@ -121,9 +121,9 @@
       "inflections": ["la saudade"],
       "ptTargets": ["saudade"],
       "examples": [
-        { "level": "A1", "fr": "La saudade est un mot portugais.", "pt": "A saudade é uma palavra portuguesa." },
-        { "level": "A2-B1", "fr": "Iris a expliqué le mot saudade.", "pt": "Íris explicou a palavra saudade." },
-        { "level": "B1", "fr": "La saudade, que l'on ressent, est douce et triste.", "pt": "A saudade, que se sente, é doce e triste." },
+        { "level": "A1", "fr": "J'ai la saudade de ma famille.", "pt": "Eu tenho saudade da minha família." },
+        { "level": "A2-B1", "fr": "Quand il pense au Brésil, Irlan ressent une profonde saudade.", "pt": "Quando pensa no Brasil, Irlan sente uma saudade profunda." },
+        { "level": "B2", "fr": "La saudade, que l'on ressent, est douce et triste.", "pt": "A saudade, que se sente, é doce e triste." },
         { "level": "C1-C2", "fr": "La saudade, mot sans frontières, habite tous les cœurs d'exilés.", "pt": "A saudade, palavra sem fronteiras, mora em todos os corações de exilados." }
       ]
     },
@@ -136,7 +136,7 @@
       "examples": [
         { "level": "A1", "fr": "L'ami est gentil.", "pt": "O amigo é gentil." },
         { "level": "A2-B1", "fr": "Les voisins sont devenus des amis.", "pt": "Os vizinhos viraram amigos." },
-        { "level": "B1", "fr": "Les amis avec qui l'on partage restent.", "pt": "Os amigos com quem se partilha ficam." },
+        { "level": "B2", "fr": "Les amis avec qui l'on partage restent.", "pt": "Os amigos com quem se partilha ficam." },
         { "level": "C1-C2", "fr": "L'ami, famille choisie, rend les départs moins lourds.", "pt": "O amigo, família escolhida, torna as partidas menos pesadas." }
       ]
     },
@@ -149,7 +149,7 @@
       "examples": [
         { "level": "A1", "fr": "Je promets de revenir.", "pt": "Eu prometo voltar." },
         { "level": "A2-B1", "fr": "Irlan a promis de revenir.", "pt": "Irlan prometeu voltar." },
-        { "level": "B1", "fr": "Les promesses que l'on tient deviennent des souvenirs.", "pt": "As promessas que se cumprem viram lembranças." },
+        { "level": "B2", "fr": "Les promesses que l'on tient deviennent des souvenirs.", "pt": "As promessas que se cumprem viram lembranças." },
         { "level": "C1-C2", "fr": "Promettre, geste d'avenir, engage le cœur avant les faits.", "pt": "Prometer, gesto de futuro, compromete o coração antes dos fatos." }
       ]
     },
@@ -162,7 +162,7 @@
       "examples": [
         { "level": "A1", "fr": "Le train s'éloigne.", "pt": "O trem se afasta." },
         { "level": "A2-B1", "fr": "Les amis s'éloignent, mais restent proches.", "pt": "Os amigos se afastam, mas continuam perto." },
-        { "level": "B1", "fr": "Les villes que l'on quitte s'éloignent dans le rétroviseur.", "pt": "As cidades que se deixam afastam-se no retrovisor." },
+        { "level": "B2", "fr": "Les villes que l'on quitte s'éloignent dans le rétroviseur.", "pt": "As cidades que se deixam afastam-se no retrovisor." },
         { "level": "C1-C2", "fr": "S'éloigner, geste du départ, rapproche parfois les cœurs.", "pt": "Afastar-se, gesto da partida, às vezes aproxima os corações." }
       ]
     },
@@ -175,7 +175,7 @@
       "examples": [
         { "level": "A1", "fr": "La place est libre.", "pt": "O lugar está livre." },
         { "level": "A2-B1", "fr": "Irlan a une place à la table.", "pt": "Irlan tem um lugar à mesa." },
-        { "level": "B1", "fr": "Les places que l'on garde pour les amis sont chères.", "pt": "Os lugares que se guardam para os amigos são preciosos." },
+        { "level": "B2", "fr": "Les places que l'on garde pour les amis sont chères.", "pt": "Os lugares que se guardam para os amigos são preciosos." },
         { "level": "C1-C2", "fr": "La place, petit trésor, dit à l'autre : tu comptes pour nous.", "pt": "O lugar, pequeno tesouro, diz ao outro: você conta para nós." }
       ]
     },
@@ -188,7 +188,7 @@
       "examples": [
         { "level": "A1", "fr": "Le printemps est doux.", "pt": "A primavera é suave." },
         { "level": "A2-B1", "fr": "La fête des voisins a lieu au printemps.", "pt": "A festa dos vizinhos acontece na primavera." },
-        { "level": "B1", "fr": "Les fêtes du printemps, que l'on attend, sont joyeuses.", "pt": "As festas da primavera, que se esperam, são alegres." },
+        { "level": "B2", "fr": "Les fêtes du printemps, que l'on attend, sont joyeuses.", "pt": "As festas da primavera, que se esperam, são alegres." },
         { "level": "C1-C2", "fr": "Le printemps, saison des retrouvailles, réveille les cours et les cœurs.", "pt": "A primavera, estação dos reencontros, desperta os pátios e os corações." }
       ]
     }

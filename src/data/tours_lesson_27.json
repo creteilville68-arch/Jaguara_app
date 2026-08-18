@@ -45,7 +45,7 @@
       "examples": [
         { "level": "A1", "fr": "La tour est haute.", "pt": "A torre é alta." },
         { "level": "A2-B1", "fr": "La tour Charlemagne est célèbre.", "pt": "A torre de Carlos Magno é famosa." },
-        { "level": "B1", "fr": "La tour qui penche un peu a mille ans.", "pt": "A torre que inclina um pouco tem mil anos." },
+        { "level": "B2", "fr": "La tour qui penche un peu a mille ans.", "pt": "A torre que inclina um pouco tem mil anos." },
         { "level": "C1-C2", "fr": "La tour, vieille sentinelle, garde les légendes dans sa pierre.", "pt": "A torre, velha sentinela, guarda as lendas em sua pedra." }
       ]
     },
@@ -58,7 +58,7 @@
       "examples": [
         { "level": "A1", "fr": "La relique est précieuse.", "pt": "A relíquia é preciosa." },
         { "level": "A2-B1", "fr": "Charlemagne a offert des reliques à Tours.", "pt": "Carlos Magno ofereceu relíquias a Tours." },
-        { "level": "B1", "fr": "Les reliques dont parle la légende sont cachées.", "pt": "As relíquias de que a lenda fala estão escondidas." },
+        { "level": "B2", "fr": "Les reliques dont parle la légende sont cachées.", "pt": "As relíquias de que a lenda fala estão escondidas." },
         { "level": "C1-C2", "fr": "La relique, mémoire sacrée, relie les vivants aux siècles passés.", "pt": "A relíquia, memória sagrada, liga os vivos aos séculos passados." }
       ]
     },
@@ -71,7 +71,7 @@
       "examples": [
         { "level": "A1", "fr": "Le trésor est caché.", "pt": "O tesouro está escondido." },
         { "level": "A2-B1", "fr": "On dit qu'un trésor est dans la tour.", "pt": "Dizem que há um tesouro na torre." },
-        { "level": "B1", "fr": "Le trésor dont parle la légende n'a jamais été trouvé.", "pt": "O tesouro de que a lenda fala nunca foi encontrado." },
+        { "level": "B2", "fr": "Le trésor dont parle la légende n'a jamais été trouvé.", "pt": "O tesouro de que a lenda fala nunca foi encontrado." },
         { "level": "C1-C2", "fr": "Le trésor, rêve doré, vaut moins que la quête qui l'entoure.", "pt": "O tesouro, sonho dourado, vale menos que a busca que o cerca." }
       ]
     },
@@ -84,7 +84,7 @@
       "examples": [
         { "level": "A1", "fr": "La ceinture est en cuir.", "pt": "O cinto é de couro." },
         { "level": "A2-B1", "fr": "Le trésor serait une ceinture de Charlemagne.", "pt": "O tesouro seria um cinto de Carlos Magno." },
-        { "level": "B1", "fr": "La ceinture dont parle la légende est en or.", "pt": "O cinto de que a lenda fala é de ouro." },
+        { "level": "B2", "fr": "La ceinture dont parle la légende est en or.", "pt": "O cinto de que a lenda fala é de ouro." },
         { "level": "C1-C2", "fr": "La ceinture, anneau du pouvoir, symbolise le trésor invisible.", "pt": "O cinto, anel do poder, simboliza o tesouro invisível." }
       ]
     },
@@ -97,7 +97,7 @@
       "examples": [
         { "level": "A1", "fr": "La légende est mystérieuse.", "pt": "A lenda é misteriosa." },
         { "level": "A2-B1", "fr": "La légende raconte l'histoire de la tour.", "pt": "A lenda conta a história da torre." },
-        { "level": "B1", "fr": "La légende qui entoure la tour est fascinante.", "pt": "A lenda que cerca a torre é fascinante." },
+        { "level": "B2", "fr": "La légende qui entoure la tour est fascinante.", "pt": "A lenda que cerca a torre é fascinante." },
         { "level": "C1-C2", "fr": "La légende, souffle des pierres, rend les vieilles tours vivantes.", "pt": "A lenda, sopro das pedras, torna vivas as velhas torres." }
       ]
     },
@@ -110,7 +110,7 @@
       "examples": [
         { "level": "A1", "fr": "L'empereur est puissant.", "pt": "O imperador é poderoso." },
         { "level": "A2-B1", "fr": "Charlemagne était un grand empereur.", "pt": "Carlos Magno era um grande imperador." },
-        { "level": "B1", "fr": "L'empereur qui a offert les reliques s'appelait Charlemagne.", "pt": "O imperador que ofereceu as relíquias chamava-se Carlos Magno." },
+        { "level": "B2", "fr": "L'empereur qui a offert les reliques s'appelait Charlemagne.", "pt": "O imperador que ofereceu as relíquias chamava-se Carlos Magno." },
         { "level": "C1-C2", "fr": "L'empereur, homme au-dessus des hommes, reste un homme sous la couronne.", "pt": "O imperador, homem acima dos homens, continua um homem sob a coroa." }
       ]
     },
@@ -123,7 +123,7 @@
       "examples": [
         { "level": "A1", "fr": "On enterre le trésor.", "pt": "Enterra-se o tesouro." },
         { "level": "A2-B1", "fr": "La femme de Charlemagne était enterrée ici.", "pt": "A esposa de Carlos Magno foi enterrada aqui." },
-        { "level": "B1", "fr": "La reine qui est enterrée dans la tour a une légende.", "pt": "A rainha que está enterrada na torre tem uma lenda." },
+        { "level": "B2", "fr": "La reine qui est enterrée dans la tour a une légende.", "pt": "A rainha que está enterrada na torre tem uma lenda." },
         { "level": "C1-C2", "fr": "Enterrer, geste de mémoire, confie les secrets à la terre patiente.", "pt": "Enterrar, gesto de memória, confia os segredos à terra paciente." }
       ]
     },
@@ -136,7 +136,7 @@
       "examples": [
         { "level": "A1", "fr": "La canne est en bois.", "pt": "A bengala é de madeira." },
         { "level": "A2-B1", "fr": "La tour penche comme un monsieur appuyé sur sa canne.", "pt": "A torre inclina como um senhor apoiado na bengala." },
-        { "level": "B1", "fr": "La canne qui soutient le vieil homme est usée.", "pt": "A bengala que sustenta o velho está gasta." },
+        { "level": "B2", "fr": "La canne qui soutient le vieil homme est usée.", "pt": "A bengala que sustenta o velho está gasta." },
         { "level": "C1-C2", "fr": "La canne, troisième jambe du temps, accompagne la vieillesse digne.", "pt": "A bengala, terceira perna do tempo, acompanha a velhice digna." }
       ]
     },
@@ -149,7 +149,7 @@
       "examples": [
         { "level": "A1", "fr": "Le dessin est joli.", "pt": "O desenho é bonito." },
         { "level": "A2-B1", "fr": "Iris a fait un dessin de la tour.", "pt": "Íris fez um desenho da torre." },
-        { "level": "B1", "fr": "Le dessin qu'elle a fait montre un trésor doré.", "pt": "O desenho que ela fez mostra um tesouro dourado." },
+        { "level": "B2", "fr": "Le dessin qu'elle a fait montre un trésor doré.", "pt": "O desenho que ela fez mostra um tesouro dourado." },
         { "level": "C1-C2", "fr": "Le dessin, rêve visible, offre une réalité aux légendes.", "pt": "O desenho, sonho visível, dá realidade às lendas." }
       ]
     },
@@ -162,7 +162,7 @@
       "examples": [
         { "level": "A1", "fr": "Le poète écrit.", "pt": "O poeta escreve." },
         { "level": "A2-B1", "fr": "Iris est devenue poète pour Irlan.", "pt": "Íris virou poeta para Irlan." },
-        { "level": "B1", "fr": "Le poète qui voit les trésors cachés voit plus loin.", "pt": "O poeta que vê os tesouros escondidos vê mais longe." },
+        { "level": "B2", "fr": "Le poète qui voit les trésors cachés voit plus loin.", "pt": "O poeta que vê os tesouros escondidos vê mais longe." },
         { "level": "C1-C2", "fr": "Le poète, voleur de merveilles, trouve l'or dans les mots simples.", "pt": "O poeta, ladrão de maravilhas, encontra ouro nas palavras simples." }
       ]
     },
@@ -175,7 +175,7 @@
       "examples": [
         { "level": "A1", "fr": "Le sommet est haut.", "pt": "O topo é alto." },
         { "level": "A2-B1", "fr": "Le trésor est au sommet de la tour.", "pt": "O tesouro está no topo da torre." },
-        { "level": "B1", "fr": "Le sommet que nous voyons d'ici est couvert de pigeons.", "pt": "O topo que vemos daqui está coberto de pombos." },
+        { "level": "B2", "fr": "Le sommet que nous voyons d'ici est couvert de pigeons.", "pt": "O topo que vemos daqui está coberto de pombos." },
         { "level": "C1-C2", "fr": "Le sommet, point du rêve, attire les regards vers le ciel.", "pt": "O topo, ponto do sonho, atrai os olhares para o céu." }
       ]
     },
@@ -188,7 +188,7 @@
       "examples": [
         { "level": "A1", "fr": "Le coffre est mystérieux.", "pt": "O baú é misterioso." },
         { "level": "A2-B1", "fr": "La tour est mystérieuse.", "pt": "A torre é misteriosa." },
-        { "level": "B1", "fr": "Le trésor mystérieux dont on parle attire les curieux.", "pt": "O tesouro misterioso de que se fala atrai os curiosos." },
+        { "level": "B2", "fr": "Le trésor mystérieux dont on parle attire les curieux.", "pt": "O tesouro misterioso de que se fala atrai os curiosos." },
         { "level": "C1-C2", "fr": "Mystérieuse, la légende se nourrit de ce qu'elle ne dit pas.", "pt": "Misteriosa, a lenda alimenta-se do que não diz." }
       ]
     }

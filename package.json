@@ -11,7 +11,8 @@
     "lint": "tsc --noEmit",
     "plan": "bun run scripts/plan_city_words.ts",
     "worklists": "bun run scripts/generate_worklists.ts",
-    "coverage": "bun run scripts/check_word_coverage.ts"
+    "coverage": "bun run scripts/check_word_coverage.ts",
+    "audit": "bun run scripts/audit_vocab.ts"
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.1.14",

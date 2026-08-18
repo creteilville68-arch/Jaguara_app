@@ -96,7 +96,7 @@
       "examples": [
         { "level": "A1", "fr": "Elle tresse ses cheveux.", "pt": "Ela trança o cabelo." },
         { "level": "A2-B1", "fr": "Il tresse des paniers en osier.", "pt": "Ele trança cestos de vime." },
-        { "level": "B1-B2", "fr": "L'artisan tresse chaque panier à la main, avec une patience admirable.", "pt": "O artesão trança cada cesto à mão, com uma paciência admirável." },
+        { "level": "B2", "fr": "L'artisan tresse chaque panier à la main, avec une patience admirable.", "pt": "O artesão trança cada cesto à mão, com uma paciência admirável." },
         { "level": "C1-C2", "fr": "Tresser l'osier, c'est perpétuer un savoir-faire qui se transmet de génération en génération.", "pt": "Trançar o vime é perpetuar um saber-fazer que se transmite de geração em geração." }
       ]
     },
@@ -109,7 +109,7 @@
       "examples": [
         { "level": "A1", "fr": "L'osier est souple.", "pt": "O vime é flexível." },
         { "level": "A2-B1", "fr": "L'osier est un matériau naturel.", "pt": "O vime é um material natural." },
-        { "level": "B1-B2", "fr": "L'osier, trempé et séché, devient assez flexible pour être tressé.", "pt": "O vime, molhado e seco, torna-se flexível o bastante para ser trançado." },
+        { "level": "B2", "fr": "L'osier, trempé et séché, devient assez flexible pour être tressé.", "pt": "O vime, molhado e seco, torna-se flexível o bastante para ser trançado." },
         { "level": "C1-C2", "fr": "La souplesse de l'osier exige une main précise qui sait doser la force et la délicatesse.", "pt": "A flexibilidade do vime exige uma mão precisa que sabe dosar força e delicadeza." }
       ]
     },
@@ -122,7 +122,7 @@
       "examples": [
         { "level": "A1", "fr": "Ses mains sont calleuses.", "pt": "Suas mãos são calejadas." },
         { "level": "A2-B1", "fr": "Ses mains calleuses témoignent de son travail.", "pt": "Suas mãos calejadas testemunham seu trabalho." },
-        { "level": "B1-B2", "fr": "Les mains calleuses de l'artisan racontaient cinquante ans de gestes précis.", "pt": "As mãos calejadas do artesão contavam cinquenta anos de gestos precisos." },
+        { "level": "B2", "fr": "Les mains calleuses de l'artisan racontaient cinquante ans de gestes précis.", "pt": "As mãos calejadas do artesão contavam cinquenta anos de gestos precisos." },
         { "level": "C1-C2", "fr": "Ces mains calleuses, loin d'être une marque de rudesse, sont le signe d'une vie dédiée au travail bien fait.", "pt": "Essas mãos calejadas, longe de serem marca de rudeza, são o sinal de uma vida dedicada ao trabalho bem feito." }
       ]
     },
@@ -135,7 +135,7 @@
       "examples": [
         { "level": "A1", "fr": "Il a de la dextérité.", "pt": "Ele tem destreza." },
         { "level": "A2-B1", "fr": "Il travaille avec beaucoup de dextérité.", "pt": "Ele trabalha com muita destreza." },
-        { "level": "B1-B2", "fr": "Avec une dextérité impressionnante, il tordait les branches sans jamais les casser.", "pt": "Com uma destreza impressionante, ele torcia os galhos sem nunca quebrá-los." },
+        { "level": "B2", "fr": "Avec une dextérité impressionnante, il tordait les branches sans jamais les casser.", "pt": "Com uma destreza impressionante, ele torcia os galhos sem nunca quebrá-los." },
         { "level": "C1-C2", "fr": "La dextérité de l'artisan révèle des années d'apprentissage silencieux et de gestes perfectionnés.", "pt": "A destreza do artesão revela anos de aprendizado silencioso e de gestos aperfeiçoados." }
       ]
     },
@@ -147,8 +147,8 @@
       "ptTargets": ["ancestral", "ancestrais"],
       "examples": [
         { "level": "A1", "fr": "C'est un métier ancestral.", "pt": "É uma profissão ancestral." },
-        { "level": "A2-B1", "fr": "C'est un métier ancestral.", "pt": "É uma profissão ancestral." },
-        { "level": "B1-B2", "fr": "Ce savoir-faire ancestral résiste encore à la production industrielle.", "pt": "Esse saber-fazer ancestral ainda resiste à produção industrial." },
+        { "level": "A2-B1", "fr": "Ce village conserve un four à pain ancestral.", "pt": "Este vilarejo conserva um forno de pão ancestral." },
+        { "level": "B2", "fr": "Ce savoir-faire ancestral résiste encore à la production industrielle.", "pt": "Esse saber-fazer ancestral ainda resiste à produção industrial." },
         { "level": "C1-C2", "fr": "Préserver un artisanat ancestral, c'est sauvegarder une mémoire collective que la modernité menace.", "pt": "Preservar um artesanato ancestral é salvaguardar uma memória coletiva que a modernidade ameaça." }
       ]
     },
@@ -161,7 +161,7 @@
       "examples": [
         { "level": "A1", "fr": "L'atelier est petit.", "pt": "O ateliê é pequeno." },
         { "level": "A2-B1", "fr": "L'artisan travaille dans son atelier.", "pt": "O artesão trabalha em seu ateliê." },
-        { "level": "B1-B2", "fr": "Dans son atelier du Panier, Marcel accueille les curieux et transmet son savoir.", "pt": "Em seu ateliê no Panier, Marcel recebe os curiosos e transmite seu saber." },
+        { "level": "B2", "fr": "Dans son atelier du Panier, Marcel accueille les curieux et transmet son savoir.", "pt": "Em seu ateliê no Panier, Marcel recebe os curiosos e transmite seu saber." },
         { "level": "C1-C2", "fr": "L'atelier, à la fois lieu de travail et de mémoire, conserve l'âme du quartier.", "pt": "O ateliê, ao mesmo tempo lugar de trabalho e de memória, conserva a alma do bairro." }
       ]
     },
@@ -174,7 +174,7 @@
       "examples": [
         { "level": "A1", "fr": "Il transmet son savoir.", "pt": "Ele transmite seu saber." },
         { "level": "A2-B1", "fr": "Il transmet son savoir à son fils.", "pt": "Ele transmite seu saber ao seu filho." },
-        { "level": "B1-B2", "fr": "Transmettre ce métier, c'est offrir aux générations futures un héritage vivant.", "pt": "Transmitir esse ofício é oferecer às futuras gerações uma herança viva." },
+        { "level": "B2", "fr": "Transmettre ce métier, c'est offrir aux générations futures un héritage vivant.", "pt": "Transmitir esse ofício é oferecer às futuras gerações uma herança viva." },
         { "level": "C1-C2", "fr": "La transmission du savoir-faire artisanal est un acte de résistance culturelle face à l'uniformisation du monde.", "pt": "A transmissão do saber-fazer artesanal é um ato de resistência cultural diante da uniformização do mundo." }
       ]
     },
@@ -187,7 +187,7 @@
       "examples": [
         { "level": "A1", "fr": "Il se lance.", "pt": "Ele se lança." },
         { "level": "A2-B1", "fr": "Il s'est lancé sans hésiter.", "pt": "Ele se lançou sem hesitar." },
-        { "level": "B1-B2", "fr": "Malgré ses mains plus habituées aux cartes, Irlan s'est lancé dans le tressage.", "pt": "Apesar das mãos mais habituadas a mapas, Irlan se lançou no trançado." },
+        { "level": "B2", "fr": "Malgré ses mains plus habituées aux cartes, Irlan s'est lancé dans le tressage.", "pt": "Apesar das mãos mais habituadas a mapas, Irlan se lançou no trançado." },
         { "level": "C1-C2", "fr": "Se lancer dans un savoir inconnu, c'est accepter de paraître maladroit pour apprendre vraiment.", "pt": "Lançar-se em um saber desconhecido é aceitar parecer desajeitado para aprender de verdade." }
       ]
     },
@@ -200,7 +200,7 @@
       "examples": [
         { "level": "A1", "fr": "Le panier est asymétrique.", "pt": "O cesto é assimétrico." },
         { "level": "A2-B1", "fr": "Le panier est un peu asymétrique.", "pt": "O cesto está um pouco assimétrico." },
-        { "level": "B1-B2", "fr": "Son premier panier, tremblant et asymétrique, faisait rire l'artisan.", "pt": "Seu primeiro cesto, tremido e assimétrico, fazia o artesão rir." },
+        { "level": "B2", "fr": "Son premier panier, tremblant et asymétrique, faisait rire l'artisan.", "pt": "Seu primeiro cesto, tremido e assimétrico, fazia o artesão rir." },
         { "level": "C1-C2", "fr": "L'asymétrie du premier essai est le signe charmant de l'apprentissage encore hésitant.", "pt": "A assimetria da primeira tentativa é o sinal encantador do aprendizado ainda hesitante." }
       ]
     },
@@ -213,7 +213,7 @@
       "examples": [
         { "level": "A1", "fr": "Je suis débutant.", "pt": "Eu sou iniciante." },
         { "level": "A2-B1", "fr": "C'est normal, il est débutant.", "pt": "É normal, ele é iniciante." },
-        { "level": "B1-B2", "fr": "'Pas mal pour un débutant', a ri l'artisan devant le panier d'Irlan.", "pt": "'Nada mau para um iniciante', riu o artesão diante do cesto de Irlan." },
+        { "level": "B2", "fr": "'Pas mal pour un débutant', a ri l'artisan devant le panier d'Irlan.", "pt": "'Nada mau para um iniciante', riu o artesão diante do cesto de Irlan." },
         { "level": "C1-C2", "fr": "Chaque débutant porte en lui la promesse d'un futur artisan, à condition que la patience l'accompagne.", "pt": "Cada iniciante carrega em si a promessa de um futuro artesão, desde que a paciência o acompanhe." }
       ]
     },
@@ -226,7 +226,7 @@
       "examples": [
         { "level": "A1", "fr": "Ce verre est jetable.", "pt": "Este copo é descartável." },
         { "level": "A2-B1", "fr": "On utilise trop de plastique jetable.", "pt": "Usamos plástico descartável demais." },
-        { "level": "B1-B2", "fr": "Le plastique jetable remplace peu à peu les objets durables de la tradition artisanale.", "pt": "O plástico descartável substitui aos poucos os objetos duráveis da tradição artesanal." },
+        { "level": "B2", "fr": "Le plastique jetable remplace peu à peu les objets durables de la tradition artisanale.", "pt": "O plástico descartável substitui aos poucos os objetos duráveis da tradição artesanal." },
         { "level": "C1-C2", "fr": "La culture du jetable érode les savoir-faire ancestraux et la relation de l'homme à la matière.", "pt": "A cultura do descartável corrói os saberes ancestrais e a relação do homem com a matéria." }
       ]
     },
@@ -239,7 +239,7 @@
       "examples": [
         { "level": "A1", "fr": "Mon père est menuisier.", "pt": "Meu pai é marceneiro." },
         { "level": "A2-B1", "fr": "Son père est menuisier.", "pt": "Seu pai é marceneiro." },
-        { "level": "B1-B2", "fr": "Le père d'Irlan, menuisier au Brésil, lui avait appris le respect du bois.", "pt": "O pai de Irlan, marceneiro no Brasil, lhe ensinou o respeito pela madeira." },
+        { "level": "B2", "fr": "Le père d'Irlan, menuisier au Brésil, lui avait appris le respect du bois.", "pt": "O pai de Irlan, marceneiro no Brasil, lhe ensinou o respeito pela madeira." },
         { "level": "C1-C2", "fr": "Le menuisier, comme le vannier, incarne ce lien précieux entre l'homme, la main et la matière.", "pt": "O marceneiro, como o cesteiro, encarna esse elo precioso entre o homem, a mão e a matéria." }
       ]
     }

@@ -96,7 +96,7 @@
       "examples": [
         { "level": "A1", "fr": "La calanque est belle.", "pt": "A calanque é bonita." },
         { "level": "A2-B1", "fr": "Les calanques de Marseille sont magnifiques.", "pt": "As calanques de Marselha são magníficas." },
-        { "level": "B1-B2", "fr": "Sormiou, la plus belle des calanques, se mérite par un sentier escarpé.", "pt": "Sormiou, a mais bela das calanques, se conquista por um trilho íngreme." },
+        { "level": "B2", "fr": "Sormiou, la plus belle des calanques, se mérite par un sentier escarpé.", "pt": "Sormiou, a mais bela das calanques, se conquista por um trilho íngreme." },
         { "level": "C1-C2", "fr": "Les calanques, joyaux du parc national, offrent une Méditerranée restée sauvage et préservée.", "pt": "As calanques, joias do parque nacional, oferecem um Mediterrâneo que permaneceu selvagem e preservado." }
       ]
     },
@@ -109,7 +109,7 @@
       "examples": [
         { "level": "A1", "fr": "Le sentier est long.", "pt": "O trilho é longo." },
         { "level": "A2-B1", "fr": "Le sentier longe la mer.", "pt": "O trilho acompanha o mar." },
-        { "level": "B1-B2", "fr": "Le sentier, escarpé et caillouteux, exige de bonnes chaussures.", "pt": "O trilho, íngreme e pedregoso, exige bons calçados." },
+        { "level": "B2", "fr": "Le sentier, escarpé et caillouteux, exige de bonnes chaussures.", "pt": "O trilho, íngreme e pedregoso, exige bons calçados." },
         { "level": "C1-C2", "fr": "Chaque sentier des calanques raconte la rencontre millénaire entre la roche et la Méditerranée.", "pt": "Cada trilho das calanques conta o encontro milenar entre a rocha e o Mediterrâneo." }
       ]
     },
@@ -122,7 +122,7 @@
       "examples": [
         { "level": "A1", "fr": "La route serpente.", "pt": "A estrada serpenteia." },
         { "level": "A2-B1", "fr": "Le sentier serpente entre les arbres.", "pt": "O trilho serpenteia entre as árvores." },
-        { "level": "B1-B2", "fr": "Le sentier serpentait entre les pins et les oliviers, dévoilant peu à peu la mer.", "pt": "O trilho serpenteava entre os pinheiros e as oliveiras, revelando aos poucos o mar." },
+        { "level": "B2", "fr": "Le sentier serpentait entre les pins et les oliviers, dévoilant peu à peu la mer.", "pt": "O trilho serpenteava entre os pinheiros e as oliveiras, revelando aos poucos o mar." },
         { "level": "C1-C2", "fr": "La route serpente le long des falaises, offrant au marcheur des perspectives sans cesse renouvelées.", "pt": "A estrada serpenteia ao longo das falésias, oferecendo ao caminhante perspectivas sempre renovadas." }
       ]
     },
@@ -135,7 +135,7 @@
       "examples": [
         { "level": "A1", "fr": "L'olivier est vieux.", "pt": "A oliveira é velha." },
         { "level": "A2-B1", "fr": "Les oliviers poussent sur les collines.", "pt": "As oliveiras crescem nas colinas." },
-        { "level": "B1-B2", "fr": "Les oliviers, tordus par le mistral, donnent au paysage un caractère unique.", "pt": "As oliveiras, retorcidas pelo mistral, dão à paisagem um caráter único." },
+        { "level": "B2", "fr": "Les oliviers, tordus par le mistral, donnent au paysage un caractère unique.", "pt": "As oliveiras, retorcidas pelo mistral, dão à paisagem um caráter único." },
         { "level": "C1-C2", "fr": "L'olivier, symbole de paix et de longévité, façonne l'âme des paysages provençaux.", "pt": "A oliveira, símbolo de paz e longevidade, molda a alma das paisagens provençais." }
       ]
     },
@@ -148,7 +148,7 @@
       "examples": [
         { "level": "A1", "fr": "L'eau est turquoise.", "pt": "A água é turquesa." },
         { "level": "A2-B1", "fr": "L'eau est d'un bleu turquoise.", "pt": "A água é de um azul turquesa." },
-        { "level": "B1-B2", "fr": "L'eau turquoise de la calanque semblait irréelle sous le soleil de midi.", "pt": "A água turquesa da calanque parecia irreal sob o sol do meio-dia." },
+        { "level": "B2", "fr": "L'eau turquoise de la calanque semblait irréelle sous le soleil de midi.", "pt": "A água turquesa da calanque parecia irreal sob o sol do meio-dia." },
         { "level": "C1-C2", "fr": "La Méditerranée déploie ici une palette turquoise dont aucun peintre ne saurait rendre l'intensité.", "pt": "O Mediterrâneo desdobra aqui uma paleta turquesa cuja intensidade nenhum pintor saberia reproduzir." }
       ]
     },
@@ -161,7 +161,7 @@
       "examples": [
         { "level": "A1", "fr": "Les galets sont lisses.", "pt": "Os seixos são lisos." },
         { "level": "A2-B1", "fr": "La plage est couverte de galets.", "pt": "A praia é coberta de seixos." },
-        { "level": "B1-B2", "fr": "Sur la plage de galets, chaque pas produit un bruit caractéristique.", "pt": "Na praia de seixos, cada passo produz um ruído característico." },
+        { "level": "B2", "fr": "Sur la plage de galets, chaque pas produit un bruit caractéristique.", "pt": "Na praia de seixos, cada passo produz um ruído característico." },
         { "level": "C1-C2", "fr": "Polis par des siècles de vagues, les galets de la calanque sont de petits chefs-d'œuvre de la nature.", "pt": "Polidos por séculos de ondas, os seixos da calanque são pequenas obras-primas da natureza." }
       ]
     },
@@ -173,8 +173,8 @@
       "ptTargets": ["cristalino", "cristalina"],
       "examples": [
         { "level": "A1", "fr": "L'eau est cristalline.", "pt": "A água é cristalina." },
-        { "level": "A2-B1", "fr": "L'eau est cristalline.", "pt": "A água é cristalina." },
-        { "level": "B1-B2", "fr": "L'eau cristalline laissait voir le fond sablonneux de la calanque.", "pt": "A água cristalina deixava ver o fundo arenoso da calanque." },
+        { "level": "A2-B1", "fr": "Nous nageons dans une crique à l'eau cristalline.", "pt": "Nós nadamos numa enseada de água cristalina." },
+        { "level": "B2", "fr": "L'eau cristalline laissait voir le fond sablonneux de la calanque.", "pt": "A água cristalina deixava ver o fundo arenoso da calanque." },
         { "level": "C1-C2", "fr": "Dans cette eau cristalline, chaque rocher, chaque algue se révèle avec une netteté saisissante.", "pt": "Nessa água cristalina, cada rocha, cada alga se revela com uma nitidez impressionante." }
       ]
     },
@@ -187,7 +187,7 @@
       "examples": [
         { "level": "A1", "fr": "Le figuier est grand.", "pt": "O figueiro é grande." },
         { "level": "A2-B1", "fr": "On pique-nique sous les figuiers.", "pt": "Fazemos pique-nique sob os figueiros." },
-        { "level": "B1-B2", "fr": "Les familles pique-niquaient à l'ombre des figuiers, au bord de l'eau.", "pt": "As famílias faziam pique-nique à sombra dos figueiros, à beira d'água." },
+        { "level": "B2", "fr": "Les familles pique-niquaient à l'ombre des figuiers, au bord de l'eau.", "pt": "As famílias faziam pique-nique à sombra dos figueiros, à beira d'água." },
         { "level": "C1-C2", "fr": "Le figuier, dont l'ombre bienfaisante protège du soleil, est un compagnon fidèle des paysages provençaux.", "pt": "O figueiro, cuja sombra benfazeja protege do sol, é um companheiro fiel das paisagens provençais." }
       ]
     },
@@ -200,7 +200,7 @@
       "examples": [
         { "level": "A1", "fr": "Il plonge dans la mer.", "pt": "Ele mergulha no mar." },
         { "level": "A2-B1", "fr": "Irlan a plongé dans la mer froide.", "pt": "Irlan mergulhou no mar frio." },
-        { "level": "B1-B2", "fr": "Plonger dans l'eau turquoise de Sormiou, c'est entrer dans un autre monde.", "pt": "Mergulhar na água turquesa de Sormiou é entrar em outro mundo." },
+        { "level": "B2", "fr": "Plonger dans l'eau turquoise de Sormiou, c'est entrer dans un autre monde.", "pt": "Mergulhar na água turquesa de Sormiou é entrar em outro mundo." },
         { "level": "C1-C2", "fr": "Plonger dans la Méditerranée, c'est faire l'expérience d'une liberté absolue et d'une fraîcheur vivifiante.", "pt": "Mergulhar no Mediterrâneo é vivenciar uma liberdade absoluta e um frescor revigorante." }
       ]
     },
@@ -213,7 +213,7 @@
       "examples": [
         { "level": "A1", "fr": "La cigale chante.", "pt": "A cigarra canta." },
         { "level": "A2-B1", "fr": "Les cigales chantent en Provence.", "pt": "As cigarras cantam na Provença." },
-        { "level": "B1-B2", "fr": "Le chant des cigales accompagnait chaque pas sur le sentier brûlant.", "pt": "O canto das cigarras acompanhava cada passo no trilho escaldante." },
+        { "level": "B2", "fr": "Le chant des cigales accompagnait chaque pas sur le sentier brûlant.", "pt": "O canto das cigarras acompanhava cada passo no trilho escaldante." },
         { "level": "C1-C2", "fr": "Le stridulement des cigales, emblème sonore de l'été provençal, rythme la torpeur des après-midis.", "pt": "O canto estridente das cigarras, emblema sonoro do verão provençal, marca a mornidão das tardes." }
       ]
     },
@@ -226,7 +226,7 @@
       "examples": [
         { "level": "A1", "fr": "La garrigue sent bon.", "pt": "A garriga cheira bem." },
         { "level": "A2-B1", "fr": "La garrigue sent bon en Provence.", "pt": "A garriga cheira bem na Provença." },
-        { "level": "B1-B2", "fr": "Dans la garrigue, le thym et le romarin embaument l'air du soir.", "pt": "Na garriga, o tomilho e o alecrim perfumam o ar da noite." },
+        { "level": "B2", "fr": "Dans la garrigue, le thym et le romarin embaument l'air du soir.", "pt": "Na garriga, o tomilho e o alecrim perfumam o ar da noite." },
         { "level": "C1-C2", "fr": "La garrigue, avec ses senteurs et ses criquets, est le poumon sauvage de la Provence.", "pt": "A garriga, com seus aromas e seus grilos, é o pulmão selvagem da Provença." }
       ]
     },
@@ -239,7 +239,7 @@
       "examples": [
         { "level": "A1", "fr": "On vieillit vite.", "pt": "Envelhecemos rápido." },
         { "level": "A2-B1", "fr": "Il veut vieillir en Provence.", "pt": "Ele quer envelhecer na Provença." },
-        { "level": "B1-B2", "fr": "'C'est ici que je veux vieillir', a murmuré Irlan face aux calanques.", "pt": "'É aqui que eu quero envelhecer', murmurou Irlan diante das calanques." },
+        { "level": "B2", "fr": "'C'est ici que je veux vieillir', a murmuré Irlan face aux calanques.", "pt": "'É aqui que eu quero envelhecer', murmurou Irlan diante das calanques." },
         { "level": "C1-C2", "fr": "Vieillir au bord de cette mer, c'est accepter avec grâce le temps qui passe, entouré de beauté.", "pt": "Envelhecer à beira desse mar é aceitar com graça o tempo que passa, cercado de beleza." }
       ]
     }

@@ -45,7 +45,7 @@
       "examples": [
         { "level": "A1", "fr": "C'est une langue à part.", "pt": "É uma língua à parte." },
         { "level": "A2-B1", "fr": "Les Marseillais parlent une langue à part.", "pt": "Os marselhanos falam uma língua à parte." },
-        { "level": "B1-B2", "fr": "Cette langue à part, pleine de soleil, fait rire et sourire.", "pt": "Essa língua à parte, cheia de sol, faz rir e sorrir." },
+        { "level": "B2", "fr": "Cette langue à part, pleine de soleil, fait rire et sourire.", "pt": "Essa língua à parte, cheia de sol, faz rir e sorrir." },
         { "level": "C1-C2", "fr": "C'est une langue à part qui dit tout un art de vivre.", "pt": "É uma língua à parte que diz toda uma arte de viver." }
       ]
     },
@@ -58,7 +58,7 @@
       "examples": [
         { "level": "A1", "fr": "L'expression est drôle.", "pt": "A expressão é engraçada." },
         { "level": "A2-B1", "fr": "Chaque expression le faisait sourire.", "pt": "Cada expressão o fazia sorrir." },
-        { "level": "B1-B2", "fr": "Les expressions marseillaises, imagées et chaleureuses, racontent la ville.", "pt": "As expressões marselhanas, imagéticas e acolhedoras, contam a cidade." },
+        { "level": "B2", "fr": "Les expressions marseillaises, imagées et chaleureuses, racontent la ville.", "pt": "As expressões marselhanas, imagéticas e acolhedoras, contam a cidade." },
         { "level": "C1-C2", "fr": "C'est l'expression qui garde la mémoire d'un peuple.", "pt": "É a expressão que guarda a memória de um povo." }
       ]
     },
@@ -71,7 +71,7 @@
       "examples": [
         { "level": "A1", "fr": "Le collègue est gentil.", "pt": "O colega é gentil." },
         { "level": "A2-B1", "fr": "Son collègue lui a appris un mot.", "pt": "Seu colega lhe ensinou uma palavra." },
-        { "level": "B1-B2", "fr": "Le collègue livreur, marseillais de naissance, connaissait tous les mots.", "pt": "O colega entregador, marselhano de nascença, conhecia todas as palavras." },
+        { "level": "B2", "fr": "Le collègue livreur, marseillais de naissance, connaissait tous les mots.", "pt": "O colega entregador, marselhano de nascença, conhecia todas as palavras." },
         { "level": "C1-C2", "fr": "C'est le collègue qui vous initie aux secrets de la langue.", "pt": "É o colega que inicia você nos segredos da língua." }
       ]
     },
@@ -83,8 +83,8 @@
       "ptTargets": ["conversar sem fim", "bater papo"],
       "examples": [
         { "level": "A1", "fr": "On tchatche beaucoup.", "pt": "Conversamos muito." },
-        { "level": "A2-B1", "fr": "Andréa adore le mot tchatcher.", "pt": "Andréa adora a palavra tchatcher." },
-        { "level": "B1-B2", "fr": "Tchatcher avec les voisins, c'est le sport préféré de Marseille.", "pt": "Conversar sem fim com os vizinhos é o esporte preferido de Marseille." },
+        { "level": "A2-B1", "fr": "Andréa adore tchatcher avec les clients au marché.", "pt": "Andréa adora bater papo com os clientes no mercado." },
+        { "level": "B2", "fr": "Tchatcher avec les voisins, c'est le sport préféré de Marseille.", "pt": "Conversar sem fim com os vizinhos é o esporte preferido de Marseille." },
         { "level": "C1-C2", "fr": "C'est en tchatchant que l'on apprend vraiment la ville.", "pt": "É conversando sem fim que se aprende de verdade a cidade." }
       ]
     },
@@ -97,7 +97,7 @@
       "examples": [
         { "level": "A1", "fr": "Elle plaisante souvent.", "pt": "Ela brinca com frequência." },
         { "level": "A2-B1", "fr": "Andréa plaisantait avec Irlan.", "pt": "Andréa brincava com Irlan." },
-        { "level": "B1-B2", "fr": "Plaisanter, c'est la politesse marseillaise.", "pt": "Brincar é a polidez marselhana." },
+        { "level": "B2", "fr": "Plaisanter, c'est la politesse marseillaise.", "pt": "Brincar é a polidez marselhana." },
         { "level": "C1-C2", "fr": "C'est en plaisantant que l'on dit les choses sérieuses.", "pt": "É brincando que se dizem as coisas sérias." }
       ]
     },
@@ -109,8 +109,8 @@
       "ptTargets": ["bancar o idiota", "fazer papel de bobo"],
       "examples": [
         { "level": "A1", "fr": "Il fait le mariole.", "pt": "Ele bancou o idiota." },
-        { "level": "A2-B1", "fr": "Faire le mariole veut dire faire l'idiot.", "pt": "Faire le mariole significa bancar o idiota." },
-        { "level": "B1-B2", "fr": "Arrête de faire le mariole, dit Andréa en riant.", "pt": "Pare de bancar o idiota, diz Andréa rindo." },
+        { "level": "A2-B1", "fr": "Le petit frère adore faire le mariole à table.", "pt": "O irmãozinho adora bancar o palhaço à mesa." },
+        { "level": "B2", "fr": "Arrête de faire le mariole, dit Andréa en riant.", "pt": "Pare de bancar o idiota, diz Andréa rindo." },
         { "level": "C1-C2", "fr": "C'est en faisant le mariole que l'on désamorce les tensions.", "pt": "É bancando o idiota que se desarma as tensões." }
       ]
     },
@@ -123,7 +123,7 @@
       "examples": [
         { "level": "A1", "fr": "La langue-monde est riche.", "pt": "A língua-mundo é rica." },
         { "level": "A2-B1", "fr": "Le provençal est une langue-monde.", "pt": "O provençal é uma língua-mundo." },
-        { "level": "B1-B2", "fr": "La langue-monde, nourrie d'italien et d'arabe, voyage dans les mots.", "pt": "A língua-mundo, nutrida de italiano e árabe, viaja nas palavras." },
+        { "level": "B2", "fr": "La langue-monde, nourrie d'italien et d'arabe, voyage dans les mots.", "pt": "A língua-mundo, nutrida de italiano e árabe, viaja nas palavras." },
         { "level": "C1-C2", "fr": "C'est la langue-monde qui prouve que les peuples se parlent.", "pt": "É a língua-mundo que prova que os povos se falam." }
       ]
     },
@@ -136,7 +136,7 @@
       "examples": [
         { "level": "A1", "fr": "Le troubadour chante.", "pt": "O trovador canta." },
         { "level": "A2-B1", "fr": "Les troubadours parlaient le provençal.", "pt": "Os trovadores falavam o provençal." },
-        { "level": "B1-B2", "fr": "Les troubadours, poètes du Moyen Âge, ont inventé l'amour courtois.", "pt": "Os trovadores, poetas da Idade Média, inventaram o amor cortês." },
+        { "level": "B2", "fr": "Les troubadours, poètes du Moyen Âge, ont inventé l'amour courtois.", "pt": "Os trovadores, poetas da Idade Média, inventaram o amor cortês." },
         { "level": "C1-C2", "fr": "C'est le troubadour qui a donné ses lettres de noblesse au provençal.", "pt": "É o trovador que deu suas letras de nobreza ao provençal." }
       ]
     },
@@ -149,7 +149,7 @@
       "examples": [
         { "level": "A1", "fr": "La grammaire est difficile.", "pt": "A gramática é difícil." },
         { "level": "A2-B1", "fr": "Le provençal a sa propre grammaire.", "pt": "O provençal tem sua própria gramática." },
-        { "level": "B1-B2", "fr": "La grammaire, dit le livre, fait du provençal une langue à part entière.", "pt": "A gramática, diz o livro, faz do provençal uma língua de pleno direito." },
+        { "level": "B2", "fr": "La grammaire, dit le livre, fait du provençal une langue à part entière.", "pt": "A gramática, diz o livro, faz do provençal uma língua de pleno direito." },
         { "level": "C1-C2", "fr": "C'est la grammaire qui donne à une langue sa dignité.", "pt": "É a gramática que dá a uma língua sua dignidade." }
       ]
     },
@@ -162,7 +162,7 @@
       "examples": [
         { "level": "A1", "fr": "La poésie est belle.", "pt": "A poesia é bela." },
         { "level": "A2-B1", "fr": "Le provençal a sa poésie.", "pt": "O provençal tem sua poesia." },
-        { "level": "B1-B2", "fr": "La poésie des troubadours, chantée au Moyen Âge, traverse les siècles.", "pt": "A poesia dos trovadores, cantada na Idade Média, atravessa os séculos." },
+        { "level": "B2", "fr": "La poésie des troubadours, chantée au Moyen Âge, traverse les siècles.", "pt": "A poesia dos trovadores, cantada na Idade Média, atravessa os séculos." },
         { "level": "C1-C2", "fr": "C'est la poésie qui garde vivante une langue.", "pt": "É a poesia que mantém viva uma língua." }
       ]
     },
@@ -175,7 +175,7 @@
       "examples": [
         { "level": "A1", "fr": "La carte est grande.", "pt": "O mapa é grande." },
         { "level": "A2-B1", "fr": "Les mots sont devenus sa nouvelle carte.", "pt": "As palavras viraram seu novo mapa." },
-        { "level": "B1-B2", "fr": "La carte, dessinée par le géographe, portait chaque souvenir.", "pt": "O mapa, desenhado pelo geógrafo, carregava cada lembrança." },
+        { "level": "B2", "fr": "La carte, dessinée par le géographe, portait chaque souvenir.", "pt": "O mapa, desenhado pelo geógrafo, carregava cada lembrança." },
         { "level": "C1-C2", "fr": "C'est la carte des mots qui relie les gens d'ici et d'ailleurs.", "pt": "É o mapa das palavras que liga os daqui e os de fora." }
       ]
     },
@@ -188,8 +188,8 @@
       "examples": [
         { "level": "A1", "fr": "Ma pitchounette est adorable.", "pt": "Minha pequenina é adorável." },
         { "level": "A2-B1", "fr": "Irlan appelle sa fille pitchounette.", "pt": "Irlan chama sua filha de pitchounette." },
-        { "level": "B1-B2", "fr": "Le mot pitchounette, tout doux, fait fondre la petite.", "pt": "A palavra pitchounette, toda meiga, derrete a pequena." },
-        { "level": "C1-C2", "fr": "C'est le mot pitchounette qui dit toute la tendresse provençale.", "pt": "É a palavra pitchounette que diz toda a ternura provençal." }
+        { "level": "B2", "fr": "La pitchounette court sur la plage, les joues roses de soleil.", "pt": "A menininha corre na praia, com as bochechas rosadas de sol." },
+        { "level": "C1-C2", "fr": "Une pitchounette endormie dans les bras de sa mère résume toute la douceur provençale.", "pt": "Uma menininha adormecida nos braços da mãe resume toda a doçura provençal." }
       ]
     }
   ],

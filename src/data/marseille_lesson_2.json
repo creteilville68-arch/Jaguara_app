@@ -40,7 +40,7 @@
       "examples": [
         { "level": "A1", "fr": "La basilique est grande.", "pt": "A basílica é grande." },
         { "level": "A2-B1", "fr": "Notre-Dame de la Garde domine Marseille.", "pt": "Notre-Dame de la Garde domina Marseille." },
-        { "level": "B1-B2", "fr": "La basilique, qui brille de mille feux, est visible de toute la ville.", "pt": "A basílica, que brilha intensamente, é visível de toda a cidade." },
+        { "level": "B2", "fr": "La basilique, qui brille de mille feux, est visible de toute la ville.", "pt": "A basílica, que brilha intensamente, é visível de toda a cidade." },
         { "level": "C1-C2", "fr": "C'est par la basilique que Marseille veille sur ses marins depuis le XIXe siècle.", "pt": "É pela basílica que Marseille vigia seus marinheiros desde o século XIX." }
       ]
     },
@@ -53,7 +53,7 @@
       "examples": [
         { "level": "A1", "fr": "La Vierge est aimée.", "pt": "A Virgem é amada." },
         { "level": "A2-B1", "fr": "La basilique est dédiée à la Vierge.", "pt": "A basílica é dedicada à Virgem." },
-        { "level": "B1-B2", "fr": "La Vierge, appelée la Bonne Mère, protège les marins.", "pt": "A Virgem, chamada Boa Mãe, protege os marinheiros." },
+        { "level": "B2", "fr": "La Vierge, appelée la Bonne Mère, protège les marins.", "pt": "A Virgem, chamada Boa Mãe, protege os marinheiros." },
         { "level": "C1-C2", "fr": "C'est à la Vierge que les marins confient leur vie avant de prendre la mer.", "pt": "É à Virgem que os marinheiros confiam sua vida antes de partir ao mar." }
       ]
     },
@@ -66,7 +66,7 @@
       "examples": [
         { "level": "A1", "fr": "L'ex-voto est suspendu.", "pt": "O ex-voto está suspenso." },
         { "level": "A2-B1", "fr": "Les ex-voto sont des bateaux miniatures.", "pt": "Os ex-votos são barcos em miniatura." },
-        { "level": "B1-B2", "fr": "Les ex-voto, offerts par les marins, racontent des sauvetages miraculeux.", "pt": "Os ex-votos, oferecidos pelos marinheiros, contam salvamentos milagrosos." },
+        { "level": "B2", "fr": "Les ex-voto, offerts par les marins, racontent des sauvetages miraculeux.", "pt": "Os ex-votos, oferecidos pelos marinheiros, contam salvamentos milagrosos." },
         { "level": "C1-C2", "fr": "C'est par les ex-voto que se mesure la ferveur des gens de mer à Marseille.", "pt": "É pelos ex-votos que se mede a devoção dos homens do mar em Marseille." }
       ]
     },
@@ -79,7 +79,7 @@
       "examples": [
         { "level": "A1", "fr": "Le plafond est haut.", "pt": "O teto é alto." },
         { "level": "A2-B1", "fr": "Des bateaux sont suspendus au plafond.", "pt": "Barcos estão suspensos no teto." },
-        { "level": "B1-B2", "fr": "Le plafond, couvert d'ex-voto, raconte l'histoire des sauvetages.", "pt": "O teto, coberto de ex-votos, conta a história dos salvamentos." },
+        { "level": "B2", "fr": "Le plafond, couvert d'ex-voto, raconte l'histoire des sauvetages.", "pt": "O teto, coberto de ex-votos, conta a história dos salvamentos." },
         { "level": "C1-C2", "fr": "C'est au plafond que se lit la gratitude silencieuse des marins.", "pt": "É no teto que se lê a gratidão silenciosa dos marinheiros." }
       ]
     },
@@ -92,7 +92,7 @@
       "examples": [
         { "level": "A1", "fr": "Le belvédère est haut.", "pt": "O mirante é alto." },
         { "level": "A2-B1", "fr": "Du belvédère, on voit la mer.", "pt": "Do mirante, vê-se o mar." },
-        { "level": "B1-B2", "fr": "Le belvédère, qui surplombe la ville, offre une vue sur les îles.", "pt": "O mirante, que se debruça sobre a cidade, oferece vista para as ilhas." },
+        { "level": "B2", "fr": "Le belvédère, qui surplombe la ville, offre une vue sur les îles.", "pt": "O mirante, que se debruça sobre a cidade, oferece vista para as ilhas." },
         { "level": "C1-C2", "fr": "C'est du belvédère que l'on embrasse d'un seul regard Marseille et sa baie.", "pt": "É do mirante que se abraça num só olhar Marseille e sua baía." }
       ]
     },
@@ -105,7 +105,7 @@
       "examples": [
         { "level": "A1", "fr": "La tempête est forte.", "pt": "A tempestade é forte." },
         { "level": "A2-B1", "fr": "Les marins ont survécu à la tempête.", "pt": "Os marinheiros sobreviveram à tempestade." },
-        { "level": "B1-B2", "fr": "La tempête, qui menaçait le navire, a été surmontée grâce à la Vierge.", "pt": "A tempestade, que ameaçava o navio, foi superada graças à Virgem." },
+        { "level": "B2", "fr": "La tempête, qui menaçait le navire, a été surmontée grâce à la Vierge.", "pt": "A tempestade, que ameaçava o navio, foi superada graças à Virgem." },
         { "level": "C1-C2", "fr": "C'est après la tempête que les marins offraient leurs ex-voto à la Bonne Mère.", "pt": "É depois da tempestade que os marinheiros ofereciam seus ex-votos à Boa Mãe." }
       ]
     },
@@ -118,7 +118,7 @@
       "examples": [
         { "level": "A1", "fr": "Le vent est fort.", "pt": "O vento é forte." },
         { "level": "A2-B1", "fr": "Le mistral est un vent célèbre de Marseille.", "pt": "O mistral é um vento famoso de Marseille." },
-        { "level": "B1-B2", "fr": "Le vent, qui souffle fort en hiver, balaie les nuages sur la baie.", "pt": "O vento, que sopra forte no inverno, varre as nuvens sobre a baía." },
+        { "level": "B2", "fr": "Le vent, qui souffle fort en hiver, balaie les nuages sur la baie.", "pt": "O vento, que sopra forte no inverno, varre as nuvens sobre a baía." },
         { "level": "C1-C2", "fr": "C'est le vent du large qui donne à Marseille sa lumière si particulière.", "pt": "É o vento do mar que dá a Marseille sua luz tão particular." }
       ]
     },
@@ -131,7 +131,7 @@
       "examples": [
         { "level": "A1", "fr": "La mère protège son enfant.", "pt": "A mãe protege seu filho." },
         { "level": "A2-B1", "fr": "La Bonne Mère protège les marins.", "pt": "A Boa Mãe protege os marinheiros." },
-        { "level": "B1-B2", "fr": "La basilique, qui protège la ville, veille sur tous les habitants.", "pt": "A basílica, que protege a cidade, vigia todos os habitantes." },
+        { "level": "B2", "fr": "La basilique, qui protège la ville, veille sur tous les habitants.", "pt": "A basílica, que protege a cidade, vigia todos os habitantes." },
         { "level": "C1-C2", "fr": "C'est en protégeant les siens que Marseille honore sa Bonne Mère.", "pt": "É protegendo os seus que Marseille honra sua Boa Mãe." }
       ]
     },
@@ -144,7 +144,7 @@
       "examples": [
         { "level": "A1", "fr": "Je distingue la tour.", "pt": "Eu distingo a torre." },
         { "level": "A2-B1", "fr": "On distingue les îles au loin.", "pt": "Distinguem-se as ilhas ao longe." },
-        { "level": "B1-B2", "fr": "Bien que le vent soit fort, on distingue parfaitement les îles.", "pt": "Embora o vento esteja forte, distinguem-se perfeitamente as ilhas." },
+        { "level": "B2", "fr": "Bien que le vent soit fort, on distingue parfaitement les îles.", "pt": "Embora o vento esteja forte, distinguem-se perfeitamente as ilhas." },
         { "level": "C1-C2", "fr": "C'est du haut de la colline que l'on distingue chaque détail de la baie.", "pt": "É do alto da colina que se distingue cada detalhe da baía." }
       ]
     },
@@ -157,7 +157,7 @@
       "examples": [
         { "level": "A1", "fr": "Elle murmure.", "pt": "Ela murmura." },
         { "level": "A2-B1", "fr": "Iris a murmuré une question.", "pt": "Íris murmurou uma pergunta." },
-        { "level": "B1-B2", "fr": "Elle a murmuré qu'il fallait qu'elle comprenne l'histoire des ex-voto.", "pt": "Ela murmurou que precisava entender a história dos ex-votos." },
+        { "level": "B2", "fr": "Elle a murmuré qu'il fallait qu'elle comprenne l'histoire des ex-voto.", "pt": "Ela murmurou que precisava entender a história dos ex-votos." },
         { "level": "C1-C2", "fr": "C'est en murmurant une prière que les marins quittaient le port.", "pt": "É murmurando uma oração que os marinheiros deixavam o porto." }
       ]
     },
@@ -170,7 +170,7 @@
       "examples": [
         { "level": "A1", "fr": "Le pêcheur sauve le chat.", "pt": "O pescador salva o gato." },
         { "level": "A2-B1", "fr": "Les marins ont été sauvés de la tempête.", "pt": "Os marinheiros foram salvos da tempestade." },
-        { "level": "B1-B2", "fr": "Les marins, sauvés par miracle, ont offert un ex-voto à la Vierge.", "pt": "Os marinheiros, salvos por milagre, ofereceram um ex-voto à Virgem." },
+        { "level": "B2", "fr": "Les marins, sauvés par miracle, ont offert un ex-voto à la Vierge.", "pt": "Os marinheiros, salvos por milagre, ofereceram um ex-voto à Virgem." },
         { "level": "C1-C2", "fr": "C'est en sauvant les marins que la Bonne Mère est devenue la protectrice de Marseille.", "pt": "É salvando os marinheiros que a Boa Mãe se tornou a protetora de Marseille." }
       ]
     },
@@ -183,7 +183,7 @@
       "examples": [
         { "level": "A1", "fr": "L'effort est grand.", "pt": "O esforço é grande." },
         { "level": "A2-B1", "fr": "La montée demande un effort.", "pt": "A subida exige um esforço." },
-        { "level": "B1-B2", "fr": "Bien que la montée demande un effort, la vue récompense le visiteur.", "pt": "Embora a subida exija esforço, a vista recompensa o visitante." },
+        { "level": "B2", "fr": "Bien que la montée demande un effort, la vue récompense le visiteur.", "pt": "Embora a subida exija esforço, a vista recompensa o visitante." },
         { "level": "C1-C2", "fr": "C'est dans l'effort que se trouve la plus grande récompense du voyage.", "pt": "É no esforço que está a maior recompensa da viagem." }
       ]
     }
