@@ -1402,188 +1402,188 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **reconfigurer** — reconfigurar
 - [ ] **recoudre** — recosturar
 - [ ] **recueillir** — recolher / registrar
-- [ ] **récuser** — recusar / contestar
-- [ ] **redondant** — redundante
-- [ ] **redynamiser** — redinamizar
-- [ ] **réévaluer** — reavaliar
-- [ ] **refaçonner** — remodelar
-- [ ] **réflexif** — reflexivo
-- [ ] **réformateur** — reformador
-- [ ] **réfutable** — refutável
-- [ ] **régionaliser** — regionalizar
-- [ ] **régressif** — regressivo
-- [ ] **réjoui** — contente / satisfeito
-- [ ] **relativiser** — relativizar
-- [ ] **relaxer** — absolver (por insuficiência)
-- [ ] **reluisant** — reluzente
-- [ ] **remettre à plus tard** — adiar
-- [ ] **remettre en question** — questionar
-- [ ] **remporter** — conquistar / vencer
-- [ ] **renfermé** — fechado / introvertido
-- [ ] **rentabiliser** — rentabilizar
-- [ ] **répandu** — disseminado
-- [ ] **repousser** — adiar / repelir
-- [ ] **réprouver** — reprovar / condenar
-- [ ] **requérir** — requerer / exigir
-- [ ] **requis** — requerido
-- [ ] **résigné** — resignado
-- [ ] **respectable** — respeitável
-- [ ] **responsabiliser** — responsabilizar
-- [ ] **ressouder** — ressoldar / reatar
-- [ ] **ressourcer** — revigorar / renovar
-- [ ] **restituer** — restituir
-- [ ] **retoucher** — retocar
-- [ ] **revaloriser** — revalorizar
-- [ ] **revenir sur** — voltar atrás em
-- [ ] **revigoré** — revigorado
-- [ ] **réviser son jugement** — revisar o julgamento
-- [ ] **revivre** — reviver
-- [ ] **révoltant** — revoltante
-- [ ] **révoquer** — revogar / destituir
-- [ ] **ridiculiser** — ridicularizar
-- [ ] **rocambolesque** — rocambolesco
-- [ ] **rompu** — experiente / versado
-- [ ] **rutilant** — reluzente
-- [ ] **s’accommoder** — acomodar-se
-- [ ] **s’accoutumer** — acostumar-se
-- [ ] **s’acquitter** — quitar / pagar
-- [ ] **s’affectionner** — afeiçoar-se
-- [ ] **s’affronter** — confrontar-se
-- [ ] **s’allier** — aliar-se
-- [ ] **s’associer** — associar-se
-- [ ] **s’avérer** — revelar-se
-- [ ] **s’écœurer** — enojar-se
-- [ ] **s’effondrer** — desmoronar
-- [ ] **s’emballer** — entusiasmar-se / disparar
-- [ ] **s’enflammer** — inflamar-se
-- [ ] **s’ensuivre** — seguir-se
-- [ ] **s’enthousiasmer** — entusiasmar-se
-- [ ] **s’entretenir** — conversar / reunir-se
-- [ ] **s’épanouir** — desabrochar / realizar-se
-- [ ] **s’épuiser** — esgotar-se
-- [ ] **s’estomper** — esmaecer / desaparecer
-- [ ] **s’étioler** — definhar / murchar
-- [ ] **s’imposer** — impor-se
-- [ ] **s’ingérer** — ingerir-se / intrometer-se
-- [ ] **s’insurger** — insurgir-se
-- [ ] **s’interpréter** — interpretar-se
-- [ ] **s’obstiner** — obstinar-se
-- [ ] **s’offusquer** — ofender-se
-- [ ] **saccager** — saquear / devastar
-- [ ] **sagace** — sagaz
-- [ ] **salutations** — as saudações / cumprimentos
-- [ ] **sanguin** — sanguíneo / impetuoso
-- [ ] **sans espoir** — sem esperança
-- [ ] **saper** — minar / solapar
-- [ ] **sataniser** — demonizar
-- [ ] **scandaleux** — escandaloso
-- [ ] **schématiser** — esquematizar
-- [ ] **scolaire** — escolar
-- [ ] **se brouiller** — brigar / romper
-- [ ] **se coaliser** — formar coalizão
-- [ ] **se consacrer** — dedicar-se
-- [ ] **se crêper le chignon** — brigar (mulheres)
-- [ ] **se défier** — desafiar-se
-- [ ] **se délecter** — deleitar-se
-- [ ] **se démocratiser** — democratizar-se
-- [ ] **se détacher** — desapegar-se
-- [ ] **se diffuser** — difundir-se
-- [ ] **se faner** — murchar / desbotar
-- [ ] **se flétrir** — murchar
-- [ ] **se lamenter** — lamentar-se
-- [ ] **se normaliser** — normalizar-se
-- [ ] **se perpétuer** — perpetuar-se
-- [ ] **se quereller** — discutir / brigar
-- [ ] **se rallier** — unir-se / aderir
-- [ ] **se regrouper** — agrupar-se
-- [ ] **se répandre** — espalhar-se
-- [ ] **se résigner** — resignar-se
-- [ ] **se résoudre** — decidir-se / resolver-se
-- [ ] **se retrancher** — entrincheirar-se
-- [ ] **se scandaliser** — escandalizar-se
-- [ ] **se solidariser** — solidarizar-se
-- [ ] **se soumettre** — submeter-se
-- [ ] **se tarir** — secar / esgotar
-- [ ] **se vouer** — dedicar-se
-- [ ] **secourir** — socorrer
-- [ ] **segmenter** — segmentar
-- [ ] **semoncer** — repreender
-- [ ] **séquentiel** — sequencial
-- [ ] **sibyllin** — sibilino / enigmático
-- [ ] **singulière** — singular / única
-- [ ] **sobre** — sóbrio
-- [ ] **somptueux** — suntuoso
-- [ ] **soporifique** — soporífero
-- [ ] **souhaitable** — desejável
-- [ ] **soulager** — aliviar
-- [ ] **souligner** — sublinhar
-- [ ] **soupeser** — sopesar
-- [ ] **sous-entendre** — subentender
-- [ ] **sous-évaluer** — subvalorizar
-- [ ] **spécifier** — especificar
-- [ ] **spirituel** — espiritual
-- [ ] **sponsoriser** — patrocinar
-- [ ] **stocker** — estocar
-- [ ] **stoïque** — estoico
-- [ ] **studieux** — estudioso
-- [ ] **subjuguer** — subjugar / fascinar
-- [ ] **submerger** — submergir
-- [ ] **subrepticement** — sub-repticiamente
-- [ ] **subsister** — subsistir
-- [ ] **succomber** — sucumbir
-- [ ] **suggestif** — sugestivo
-- [ ] **superfétatoire** — supérfluo / redundante
-- [ ] **supposé** — suposto
-- [ ] **suprême** — supremo
-- [ ] **surestimer** — superestimar
-- [ ] **surmédiatiser** — superexpor na mídia
-- [ ] **suspect** — suspeito
-- [ ] **synchroniser** — sincronizar
-- [ ] **tacite** — tácito
-- [ ] **taciturne** — taciturno
-- [ ] **tamiser** — peneirar / filtrar
-- [ ] **tanné** — curtido / bronzeado
-- [ ] **tarir** — secar / esgotar
-- [ ] **tautologique** — tautológico
-- [ ] **téméraire** — temerário
-- [ ] **tempétueux** — tempestuoso
-- [ ] **temporiser** — ganhar tempo
-- [ ] **tenir tête** — enfrentar / resistir
-- [ ] **ternaire** — ternário
-- [ ] **terrestre** — terrestre / terreno
-- [ ] **théoriser** — teorizar
-- [ ] **timoré** — tímido / temeroso
-- [ ] **tirer parti** — tirar proveito
-- [ ] **tourner en dérision** — zombar de
-- [ ] **traditionaliste** — tradicionalista
-- [ ] **traiter** — tratar
-- [ ] **transcender** — transcender
-- [ ] **transformable** — transformável
-- [ ] **translucide** — translúcido
-- [ ] **travestir** — distorcer / disfarçar
-- [ ] **trépidant** — trepidante / agitado
-- [ ] **trivialiser** — trivializar
-- [ ] **tronquer** — truncar
-- [ ] **tumultueux** — tumultuoso
-- [ ] **typifier** — tipificar
-- [ ] **universaliser** — universalizar
-- [ ] **user de** — usar de
-- [ ] **utilisable** — utilizável
-- [ ] **utopiste** — utópico
-- [ ] **vaciller** — vacilar
-- [ ] **vaillant** — valente
-- [ ] **valeureux** — valoroso
-- [ ] **véhément** — veemente
-- [ ] **vénérable** — venerável
-- [ ] **venir en aide** — vir em auxílio
-- [ ] **verbaliser** — verbalizar
-- [ ] **verbieux** — verboso
-- [ ] **véridique** — verídico
-- [ ] **versatile** — versátil / volúvel
-- [ ] **vertueux** — virtuoso
-- [ ] **veule** — covarde / abjeto
-- [ ] **vicieux** — vicioso
-- [ ] **vindicatif** — vingativo
-- [ ] **visionnaire** — visionário
-- [ ] **volatile** — volátil
-- [ ] **vouer aux gémonies** — execrar publicamente
+- [ ] **redéfinir** — redefinir
+- [ ] **réducteur** — redutor / simplista
+- [ ] **réédifier** — reedificar
+- [ ] **réexaminer** — reexaminar
+- [ ] **refaire surface** — reaparecer
+- [ ] **refondre** — refundir / remodelar
+- [ ] **réformiste** — reformista
+- [ ] **régénérer** — regenerar
+- [ ] **réglable** — regulável
+- [ ] **réitérer** — reiterar
+- [ ] **relancer** — relançar
+- [ ] **relativiser un propos** — relativizar uma afirmação
+- [ ] **reléguer** — relegar
+- [ ] **remanier** — reformular / remanejar
+- [ ] **remettre en perspective** — recontextualizar
+- [ ] **remodeler** — remodelar
+- [ ] **rendre hommage** — prestar homenagem
+- [ ] **renouer** — reatar
+- [ ] **renversant** — impressionante / surpreendente
+- [ ] **répétitif** — repetitivo
+- [ ] **répréhensible** — repreensível
+- [ ] **répugnant** — repugnante
+- [ ] **requinquer** — reanimar
+- [ ] **résiduel** — residual
+- [ ] **résilient** — resiliente
+- [ ] **resplendissant** — resplandecente
+- [ ] **ressortir** — sobressair / depreender-se
+- [ ] **ressourcé** — renovado / revigorado
+- [ ] **ressusciter** — ressuscitar
+- [ ] **resurgir** — ressurgir
+- [ ] **rétrograde** — retrógrado
+- [ ] **revêche** — arisco / mal-humorado
+- [ ] **réversible** — reversível
+- [ ] **revigorer** — revigorar
+- [ ] **revitaliser** — revitalizar
+- [ ] **révocable** — revogável
+- [ ] **révolutionnaire** — revolucionário
+- [ ] **révoquer en doute** — pôr em dúvida
+- [ ] **rivaliser** — rivalizar
+- [ ] **romanesque** — romanesco
+- [ ] **ronger** — roer / corroer
+- [ ] **rythme de vie** — o ritmo de vida
+- [ ] **s’accomplir** — realizar-se
+- [ ] **s’acharner** — encarniçar-se / insistir
+- [ ] **s’affaisser** — ceder / afundar
+- [ ] **s’affilier** — filiar-se
+- [ ] **s’ajuster** — ajustar-se
+- [ ] **s’amenuiser** — diminuir / esvair-se
+- [ ] **s’autonomiser** — autonomizar-se
+- [ ] **s’avouer vaincu** — declarar-se vencido
+- [ ] **s’écrouler** — desmoronar / ruir
+- [ ] **s’élever contre** — erguer-se contra
+- [ ] **s’embourber** — atolar
+- [ ] **s’enliser** — atolar
+- [ ] **s’entêter** — teimar
+- [ ] **s’entrechoquer** — chocar-se / conflitar
+- [ ] **s’entretenir avec** — conversar com
+- [ ] **s’éprendre** — apaixonar-se
+- [ ] **s’escrimer** — esforçar-se / empenhar-se
+- [ ] **s’éterniser** — eternizar-se / prolongar-se
+- [ ] **s’évertuer** — esforçar-se
+- [ ] **s’incliner** — curvar-se / ceder
+- [ ] **s’institutionnaliser** — institucionalizar-se
+- [ ] **s’interposer** — interpor-se
+- [ ] **s’interrompre** — interromper-se
+- [ ] **s’officialiser** — oficializar-se
+- [ ] **s’y résoudre** — resolver-se a isso
+- [ ] **sacrilège** — sacrílego
+- [ ] **saillant** — saliente / notável
+- [ ] **sangloter** — soluçar
+- [ ] **sans égal** — sem igual
+- [ ] **sans précédent** — sem precedentes
+- [ ] **sardonique** — sardônico
+- [ ] **saugrenu** — absurdo / esdrúxulo
+- [ ] **schématique** — esquemático
+- [ ] **scinder** — cindir / dividir
+- [ ] **se banaliser** — banalizar-se
+- [ ] **se chamailler** — brigar (por bobagem)
+- [ ] **se conformer** — conformar-se
+- [ ] **se consoler** — consolar-se
+- [ ] **se dédire** — voltar atrás
+- [ ] **se dégoûter** — enojar-se
+- [ ] **se démarquer** — destacar-se
+- [ ] **se désengager** — desengajar-se
+- [ ] **se détourner** — afastar-se / desviar
+- [ ] **se familiariser** — familiarizar-se
+- [ ] **se fédérer** — federar-se / unir-se
+- [ ] **se généraliser** — generalizar-se
+- [ ] **se manifester** — manifestar-se
+- [ ] **se perfectionner** — aperfeiçoar-se
+- [ ] **se prolonger** — prolongar-se
+- [ ] **se rabibocher** — fazer as pazes
+- [ ] **se raviser** — mudar de ideia
+- [ ] **se renouveler** — renovar-se
+- [ ] **se replier** — recuar / retirar-se
+- [ ] **se résorber** — absorver-se / desaparecer
+- [ ] **se rétracter** — retratar-se
+- [ ] **se révéler** — revelar-se
+- [ ] **se singulariser** — singularizar-se
+- [ ] **se soulever** — sublevar-se
+- [ ] **se surpasser** — superar-se
+- [ ] **se traduire par** — traduzir-se por
+- [ ] **se vulgariser** — vulgarizar-se
+- [ ] **séculier** — secular
+- [ ] **sémantiser** — semantizar
+- [ ] **séquencer** — sequenciar
+- [ ] **sermonner** — sermonar
+- [ ] **singulariser** — singularizar / distinguir
+- [ ] **situer** — situar
+- [ ] **solennel** — solene
+- [ ] **sonder** — sondar
+- [ ] **souder** — soldar / unir
+- [ ] **souillé** — maculado
+- [ ] **soulever les foules** — mobilizar as massas
+- [ ] **soupçonneux** — desconfiado / suspeitoso
+- [ ] **sournois** — sorrateiro
+- [ ] **sous-estimer** — subestimar
+- [ ] **souverain** — soberano
+- [ ] **spéculatif** — especulativo
+- [ ] **spolier** — espoliar
+- [ ] **stérile** — estéril
+- [ ] **stockpiler** — estocar
+- [ ] **stopper** — deter
+- [ ] **subalterne** — subalterno / secundário
+- [ ] **sublimer** — sublimar
+- [ ] **subodorer** — farejar / suspeitar
+- [ ] **subsidiaire** — subsidiário / acessório
+- [ ] **subtil** — sutil
+- [ ] **suggestible** — sugestionável
+- [ ] **sujet à caution** — sujeito a dúvida
+- [ ] **supplanter** — suplantar
+- [ ] **supposer** — supor
+- [ ] **surclasser** — superar amplamente
+- [ ] **surévaluer** — supervalorizar
+- [ ] **surseoir** — sobrestar / suspender
+- [ ] **synchronisé** — sincronizado
+- [ ] **systématiser** — sistematizar
+- [ ] **tacitement** — tacitamente
+- [ ] **taire** — calar
+- [ ] **tancer** — repreender
+- [ ] **taquin** — provocador / brincalhão
+- [ ] **tatillon** — meticuloso ao extremo
+- [ ] **techniciser** — tecnicizar
+- [ ] **tempérant** — moderado
+- [ ] **temporel** — temporal
+- [ ] **ténébreux** — tenebroso
+- [ ] **tergiverser** — tergiversar
+- [ ] **terrasse chauffée** — o terraço aquecido no inverno
+- [ ] **terrifiant** — aterrorizante
+- [ ] **thésauriser** — entesourar / acumular
+- [ ] **tirer les conséquences** — tirar as consequências
+- [ ] **tituber** — cambalear
+- [ ] **toxique** — tóxico
+- [ ] **tragique** — trágico
+- [ ] **transcendant** — transcendente
+- [ ] **transfigurer** — transfigurar
+- [ ] **transiger** — transigir / negociar
+- [ ] **transparaître** — transparecer
+- [ ] **trébucher** — tropeçar
+- [ ] **trivial** — trivial
+- [ ] **trompeur** — enganoso
+- [ ] **troquer** — trocar / escambar
+- [ ] **turbide** — túrbido
+- [ ] **unifier** — unificar
+- [ ] **univoque** — unívoco
+- [ ] **usuel** — usual
+- [ ] **utopique** — utópico
+- [ ] **vacant** — vago / vazio
+- [ ] **vagabond** — vagabundo
+- [ ] **vain** — vão / inútil
+- [ ] **varier** — variar
+- [ ] **vénal** — venal / corruptível
+- [ ] **vénérer** — venerar
+- [ ] **ventiler** — distribuir / dividir
+- [ ] **verbeux** — verboso
+- [ ] **véreux** — sórdido / corrupto
+- [ ] **vérifiable** — verificável
+- [ ] **verser des larmes** — derramar lágrimas
+- [ ] **vestigial** — vestigial
+- [ ] **vexant** — vexatório / ofensivo
+- [ ] **vilipender** — vituperar / atacar
+- [ ] **virtuel** — virtual
+- [ ] **vitrine de noël** — vitrine decorada de Natal
+- [ ] **volubile** — falador / verborrágico
+- [ ] **zélé** — zeloso
