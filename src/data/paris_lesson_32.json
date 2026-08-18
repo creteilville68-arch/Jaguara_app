@@ -7,27 +7,67 @@
   "titlePt": "O dia de trabalho de Irlan: entregador em Paris",
   "subtitleFr": "La commande, le restaurant et la route en scooter",
   "subtitlePt": "O pedido, o restaurante e a rota de scooter",
-  "summaryPt": "Nesta Aula 32 (A1), Irlan conta um dia típico de trabalho como livreur à Paris. O aluno aprende o vocabulário do trabalho (livraison, commande, restaurant, client, apporter) e os verbos 'commencer' e 'finir' com as horas do dia.",
+  "summaryPt": "Nesta Aula 32 (A1), Irlan relembra com Andréa um dia típico de trabalho como livreur em Paris — e o caminho que o levou até ela. O aluno aprende o vocabulário do trabalho (livraison, commande, restaurant, client, apporter) e os verbos 'commencer' e 'finir' com as horas do dia.",
   "paragraphs": [
     {
       "id": 1,
-      "fr": "Quand Irlan était livreur à Paris, il commençait son travail à midi. « Je prenais ma scooter et je regardais l'application », dit-il. « Une commande arrive : un restaurant, une adresse, un client. Je vais chercher le repas. »",
-      "pt": "Quando Irlan era entregador em Paris, começava seu trabalho ao meio-dia. « Pegava minha scooter e olhava o aplicativo », diz ele. « Chega um pedido: um restaurante, um endereço, um cliente. Vou buscar a refeição. »"
+      "fr": "Ce soir, Irlan raconte à Andréa sa vie d'avant. « Quand j'étais livreur à Paris, je commençais mon travail à midi. »",
+      "pt": "Esta noite, Irlan conta a Andréa a sua vida de antes. «Quando eu era entregador em Paris, começava o trabalho ao meio-dia.»"
     },
     {
       "id": 2,
-      "fr": "Au restaurant, Irlan prend la commande : un plat chaud, un dessert et une boisson. « C'est pour le client rue de Rivoli », dit la serveuse. Irlan met le sac dans la sacoche de sa scooter et part sur la route.",
-      "pt": "No restaurante, Irlan pega o pedido: um prato quente, uma sobremesa e uma bebida. « É para o cliente da rue de Rivoli », diz a garçonete. Irlan põe a sacola na bolsa da scooter e parte para a estrada."
+      "fr": "« Je prenais ma scooter et je regardais l'application », dit-il. « Une commande arrive : un restaurant, une adresse, un client. »",
+      "pt": "«Pegava minha scooter e olhava o aplicativo», diz ele. «Chega um pedido: um restaurante, um endereço, um cliente.»"
     },
     {
       "id": 3,
-      "fr": "La route est pleine de voitures et de vélos. Irlan fait attention aux feux rouges. Il arrive devant l'immeuble du client et apporte le sac à la porte. « Merci, monsieur ! Bon appétit ! » dit-il. Le client sourit.",
-      "pt": "A estrada está cheia de carros e bicicletas. Irlan presta atenção nos semáforos. Ele chega diante do prédio do cliente e leva a sacola até a porta. « Obrigado, senhor! Bom apetite! » diz ele. O cliente sorri."
+      "fr": "« Je vais chercher le repas au restaurant. Souvent, j'y allais tous les jours, au même endroit. »",
+      "pt": "«Vou buscar a refeição no restaurante. Muitas vezes, eu ia todos os dias, ao mesmo lugar.»"
     },
     {
       "id": 4,
-      "fr": "« Le soir, je finissais mon travail après les commandes du dîner, raconte Irlan. Je rentrais à la maison avec Andréa et Iris. Le travail de livreur est dur, mais il m'a appris Paris : chaque rue, chaque quartier. »",
-      "pt": "« À noite, eu terminava meu trabalho depois dos pedidos do jantar, conta Irlan. Voltava para casa, com Andréa e Íris. O trabalho de entregador é duro, mas me ensinou Paris: cada rua, cada bairro. »"
+      "fr": "Andréa sourit, complice. « Ce restaurant du quartier, je le connais bien. J'y travaillais comme serveuse. »",
+      "pt": "Andréa sorri, cúmplice. «Esse restaurante do bairro, eu conheço bem. Eu trabalhava lá como garçonete.»"
+    },
+    {
+      "id": 5,
+      "fr": "« C'est vrai », dit Irlan. « Je te voyais chaque fois. Tu préparais les commandes et tu me donnais les sacs. »",
+      "pt": "«É verdade», diz Irlan. «Eu te via toda vez. Você preparava os pedidos e me dava as sacolas.»"
+    },
+    {
+      "id": 6,
+      "fr": "« Je faisais attention à ne rien renverser », rit Andréa. « Et toi, tu partais si vite sur ta scooter. »",
+      "pt": "«Eu prestava atenção para não derrubar nada», ri Andréa. «E você saía tão rápido na sua scooter.»"
+    },
+    {
+      "id": 7,
+      "fr": "« La route était pleine de voitures et de vélos », continue Irlan. « Je faisais attention aux feux rouges, à chaque coin de rue. »",
+      "pt": "«A estrada ficava cheia de carros e bicicletas», continua Irlan. «Eu prestava atenção nos semáforos, em cada esquina.»"
+    },
+    {
+      "id": 8,
+      "fr": "« J'arrivais devant l'immeuble du client et j'apportais le sac à la porte. “Merci, monsieur ! Bon appétit !” »",
+      "pt": "«Eu chegava diante do prédio do cliente e levava a sacola até a porta. “Obrigado, senhor! Bom apetite!”»"
+    },
+    {
+      "id": 9,
+      "fr": "« Le soir, je finissais mon travail après les commandes du dîner. Je rentrais fatigué, mais j'avais appris la ville. »",
+      "pt": "«À noite, eu terminava o trabalho depois dos pedidos do jantar. Voltava cansado, mas tinha aprendido a cidade.»"
+    },
+    {
+      "id": 10,
+      "fr": "« Le travail de livreur est dur, mais il m'a appris Paris : chaque rue, chaque quartier, chaque raccourci. »",
+      "pt": "«O trabalho de entregador é duro, mas me ensinou Paris: cada rua, cada bairro, cada atalho.»"
+    },
+    {
+      "id": 11,
+      "fr": "Andréa pose sa main sur la sienne. « Et il t'a mené jusqu'au restaurant où l'on s'est rencontrés. »",
+      "pt": "Andréa põe a mão sobre a dele. «E ele levou você até o restaurante onde a gente se conheceu.»"
+    },
+    {
+      "id": 12,
+      "fr": "« Oui », dit Irlan. « Ce travail m'a offert Paris… et toi. » Ils se sourient, et la ville s'illumine derrière la fenêtre.",
+      "pt": "«Sim», diz Irlan. «Esse trabalho me deu Paris... e você.» Eles sorriem um para o outro, e a cidade se ilumina atrás da janela."
     }
   ],
   "vocabularyDictionary": [
@@ -225,10 +265,10 @@
       "explanation": "Il commençait son travail à midi."
     },
     {
-      "question": "O que Irlan leva ao cliente?",
-      "options": ["um prato quente, uma sobremesa e uma bebida", "um jornal", "um mapa antigo"],
+      "question": "Onde Irlan via Andréa todos os dias?",
+      "options": ["no restaurante onde ela trabalhava como garçonete", "no metrô", "no parque"],
       "correctIndex": 0,
-      "explanation": "Il prend la commande : un plat chaud, un dessert et une boisson."
+      "explanation": "Elle y travaillait comme serveuse, et il la voyait chaque fois."
     },
     {
       "question": "O que Irlan aprendeu sendo entregador?",

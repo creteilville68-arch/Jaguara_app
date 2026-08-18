@@ -1,10 +1,10 @@
 # #7 Toulouse — B2
 
-**1016 palavras** ainda precisam aparecer nos textos das aulas desta cidade.
+**1015 palavras** ainda precisam aparecer nos textos das aulas desta cidade.
 
 Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aventura do Irlan.
 
-## B2 (1016)
+## B2 (1015)
 
 - [ ] **à cet égard** — a esse respeito
 - [ ] **à mesure que** — à medida que
@@ -934,91 +934,90 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **relater** — relatar
 - [ ] **remettre en cause** — questionar
 - [ ] **renouvelable** — renovável
-- [ ] **renverser** — derrubar / derramar
-- [ ] **répandre** — difundir / espalhar
-- [ ] **repenser** — repensar
-- [ ] **répondre à** — atender / responder a
-- [ ] **repoussant** — repulsivo
-- [ ] **réprimander** — repreender
-- [ ] **résolu** — resoluto / decidido
-- [ ] **respirant** — respirável / arejado
-- [ ] **restreint** — restrito
-- [ ] **résulter** — resultar
-- [ ] **rétorquer** — retorquir
-- [ ] **révélateur** — revelador
-- [ ] **rigoureusement** — rigorosamente
-- [ ] **riposter** — reagir / contra-atacar
-- [ ] **s’accroître** — crescer / aumentar
-- [ ] **s’adapter** — adaptar-se
-- [ ] **s’aggraver** — agravar-se
-- [ ] **s’amplifier** — amplificar-se
-- [ ] **s’efforcer** — esforçar-se
-- [ ] **s’empirer** — piorar
-- [ ] **s’immiscer** — intrometer-se
-- [ ] **s’impliquer** — envolver-se
-- [ ] **s’investir** — investir-se / dedicar-se
-- [ ] **saignant** — mal passado (carne)
-- [ ] **sanctionner** — sancionar
-- [ ] **satisfaisant** — satisfatório
-- [ ] **scruter** — esquadrinhar
-- [ ] **se dégrader** — degradar-se
-- [ ] **se justifier** — justificar-se
-- [ ] **se maintenir** — manter-se
-- [ ] **se mobiliser** — mobilizar-se
-- [ ] **se précipiter** — precipitar-se
-- [ ] **se rebeller** — rebelar-se
-- [ ] **se rendre compte** — dar-se conta
-- [ ] **se stabiliser** — estabilizar-se
-- [ ] **séduisant** — sedutor / atraente
-- [ ] **sensibiliser** — sensibilizar
-- [ ] **sévir** — assolar / agir com rigor
-- [ ] **simpliste** — simplista
-- [ ] **simultanément** — simultaneamente
-- [ ] **soi-disant** — supostamente / pretensamente
-- [ ] **solemnel** — solene
-- [ ] **solliciter** — solicitar
-- [ ] **sommaire** — sumário / resumido
-- [ ] **songer** — pensar / cogitar
-- [ ] **sophistiqué** — sofisticado
-- [ ] **soupçonner** — suspeitar
-- [ ] **souscrire** — subscrever / aderir
-- [ ] **spacieux** — espaçoso
-- [ ] **standardiser** — padronizar
-- [ ] **stimuler** — estimular
-- [ ] **structural** — estrutural
-- [ ] **stupéfiant** — estupefaciente / impressionante
-- [ ] **subit** — súbito
-- [ ] **substantiel** — substancial
-- [ ] **successif** — sucessivo
-- [ ] **succinct** — sucinto
-- [ ] **superflu** — supérfluo
-- [ ] **surmené** — sobrecarregado
-- [ ] **surpasser** — superar
-- [ ] **suspecter** — suspeitar
-- [ ] **symptomatique** — sintomático
-- [ ] **systématique** — sistemático
-- [ ] **tangible** — tangível
-- [ ] **témoigner** — testemunhar
-- [ ] **temporairement** — temporariamente
-- [ ] **terne** — apagado / sem brilho
-- [ ] **tirer profit** — tirar proveito
-- [ ] **tolérer** — tolerar
-- [ ] **tourmenté** — atormentado
-- [ ] **transcrire** — transcrever
-- [ ] **transitoire** — transitório
-- [ ] **transposer** — transpor
-- [ ] **troublant** — perturbador
-- [ ] **turbulent** — turbulento
-- [ ] **ultime** — último / derradeiro
-- [ ] **uniforme** — uniforme
-- [ ] **unilatéral** — unilateral
-- [ ] **vacciner** — vacinar
-- [ ] **valoriser** — valorizar
-- [ ] **vaste** — vasto
-- [ ] **viable** — viável / sustentável
-- [ ] **visqueux** — viscoso
-- [ ] **vivable** — habitável / suportável
-- [ ] **vouer** — dedicar / destinar
-- [ ] **vraisemblablement** — provavelmente
-- [ ] **vulgaire** — vulgar
-- [ ] **vulnérable** — vulnerável
+- [ ] **réorganiser** — reorganizar
+- [ ] **réparable** — consertável / reparável
+- [ ] **répertorier** — catalogar
+- [ ] **répondre aux attentes** — atender às expectativas
+- [ ] **représentatif** — representativo
+- [ ] **réprimer** — reprimir
+- [ ] **résoudre** — resolver
+- [ ] **restreindre** — restringir
+- [ ] **restructurer** — reestruturar
+- [ ] **retardé** — atrasado / retardado
+- [ ] **rétrécir** — encolher / estreitar
+- [ ] **révéler** — revelar
+- [ ] **rigoureux** — rigoroso
+- [ ] **s’accentuer** — acentuar-se
+- [ ] **s’acheminer** — encaminhar-se
+- [ ] **s’affaiblir** — enfraquecer-se
+- [ ] **s'amarrer** — atracar, amarrar (verbo pronominal)
+- [ ] **s’atténuer** — atenuar-se
+- [ ] **s’élancer** — lançar-se
+- [ ] **s'enfuir** — fugir
+- [ ] **s’immobiliser** — imobilizar-se
+- [ ] **s’intensifier** — intensificar-se
+- [ ] **s’opposer** — opor-se
+- [ ] **salir** — sujar
+- [ ] **sarcastique** — sarcástico
+- [ ] **scrupuleux** — escrupuloso
+- [ ] **se convertir** — converter-se
+- [ ] **se détériorer** — deteriorar-se
+- [ ] **se lier d’amitié** — fazer amizade
+- [ ] **se métamorphoser** — metamorfosear-se
+- [ ] **se poursuivre** — continuar
+- [ ] **se propager** — propagar-se
+- [ ] **se réduire** — reduzir-se
+- [ ] **se renforcer** — reforçar-se
+- [ ] **sécuriser** — proteger / tornar seguro
+- [ ] **sensé** — sensato
+- [ ] **sensiblement** — sensivelmente / consideravelmente
+- [ ] **significatif** — significativo
+- [ ] **simultané** — simultâneo
+- [ ] **singulier** — singular
+- [ ] **soigneux** — cuidadoso
+- [ ] **solidaire** — solidário
+- [ ] **solutionner** — solucionar
+- [ ] **somme toute** — afinal de contas
+- [ ] **songeur** — sonhador / pensativo
+- [ ] **soucieux** — preocupado
+- [ ] **sous-jacent** — subjacente
+- [ ] **soutenable** — sustentável / defensável
+- [ ] **spécifique** — específico
+- [ ] **stigmatiser** — estigmatizar
+- [ ] **strictement** — estritamente
+- [ ] **studieuse** — estudiosa / concentrada
+- [ ] **subdiviser** — subdividir
+- [ ] **subjectif** — subjetivo
+- [ ] **subventionner** — subsidiar
+- [ ] **successivement** — sucessivamente
+- [ ] **superficiel** — superficial
+- [ ] **supplier** — suplicar
+- [ ] **surmonter** — superar
+- [ ] **susciter** — suscitar
+- [ ] **suspicieux** — desconfiado
+- [ ] **synthétiser** — sintetizar
+- [ ] **talentueux** — talentoso
+- [ ] **tardif** — tardio
+- [ ] **tempérer** — temperar / moderar
+- [ ] **tenace** — tenaz
+- [ ] **théorique** — teórico
+- [ ] **tolérable** — tolerável
+- [ ] **tordu** — torto / retorcido
+- [ ] **tranchant** — afiado / cortante
+- [ ] **transiter** — transitar
+- [ ] **transportable** — transportável
+- [ ] **traverser à pied** — atravessar a pé (expressão)
+- [ ] **troubler** — perturbar / inquietar
+- [ ] **ultérieurement** — posteriormente
+- [ ] **unanime** — unânime
+- [ ] **uniformiser** — uniformizar
+- [ ] **usagé** — usado
+- [ ] **vagabonder** — vaguear
+- [ ] **variable** — variável
+- [ ] **vexé** — ofendido / magoado
+- [ ] **vigilant** — vigilante
+- [ ] **vital** — vital
+- [ ] **volontaire** — voluntário
+- [ ] **vraisemblable** — verossímil
+- [ ] **vu que** — visto que
+- [ ] **vulgariser** — vulgarizar / popularizar

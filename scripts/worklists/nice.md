@@ -1,10 +1,10 @@
 # #11 Nice — C2
 
-**5154 palavras** ainda precisam aparecer nos textos das aulas desta cidade.
+**5153 palavras** ainda precisam aparecer nos textos das aulas desta cidade.
 
 Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aventura do Irlan.
 
-## C2 (5154)
+## C2 (5153)
 
 - [ ] **abâtardir** — abastardar
 - [ ] **abductif** — abdutivo
@@ -3235,7 +3235,6 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **le compas** — o compasso
 - [ ] **le compas de marine** — a bússola náutica
 - [ ] **le complément** — o complemento
-- [ ] **le complice** — o cúmplice
 - [ ] **le composé chimique** — o composto químico
 - [ ] **le compositeur** — o compositor
 - [ ] **le compte courant** — a conta corrente
