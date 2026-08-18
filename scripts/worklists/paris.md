@@ -1,10 +1,10 @@
 # #1 Paris — A1
 
-**118 palavras** ainda precisam aparecer nos textos das aulas desta cidade.
+**117 palavras** ainda precisam aparecer nos textos das aulas desta cidade.
 
 Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aventura do Irlan.
 
-## A1 (118)
+## A1 (117)
 
 - [ ] **acide** — azedo
 - [ ] **aller au travail** — ir ao trabalho
@@ -17,11 +17,10 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **déposer de l’argent** — depositar dinheiro
 - [ ] **détacher** — desamarrar
 - [ ] **égoïste** — egoísta
-- [ ] **envoyer un SMS** — enviar um SMS
-- [ ] **escalator** — escada rolante
-- [ ] **étendre le linge** — estender a roupa
-- [ ] **faire une vidéo** — fazer um vídeo
-- [ ] **flash** — flash / sem flash / com flash
+- [ ] **envoyer une lettre** — enviar uma carta
+- [ ] **éteindre l’ordinateur** — desligar o computador
+- [ ] **faire la cuisine** — cozinhar
+- [ ] **fi** — Fi (parte da palavra Wi-Fi)
 - [ ] **hui** — hoje (segunda parte de 'aujourd'hui')
 - [ ] **in** — em / dentro (prefixo ou expressão como check-in)
 - [ ] **l’adoucissant** — o amaciante
@@ -90,37 +89,37 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **le rouleau à pâtisserie** — o rolo de massa
 - [ ] **le sèche-linge** — a secadora
 - [ ] **le site internet** — o site
-- [ ] **le stylo** — a caneta
-- [ ] **le thé vert** — o chá verde
-- [ ] **le tiroir** — a gaveta
-- [ ] **le transformateur** — o transformador
-- [ ] **le violon** — o violino
-- [ ] **le yoga** — a ioga
-- [ ] **les chaussettes** — as meias
-- [ ] **les œufs brouillés** — os ovos mexidos
-- [ ] **les toilettes** — o banheiro (sanitário)
-- [ ] **mal de tête** — dor de cabeça / enxaqueca
-- [ ] **moche** — feio (coloquial)
-- [ ] **mou** — mole
-- [ ] **opaque** — opaco
-- [ ] **passe Navigo** — passe Navigo / cartão Navigo
-- [ ] **peler** — descascar
-- [ ] **poser une question** — fazer uma pergunta
-- [ ] **prendre une douche** — tomar banho (chuveiro)
-- [ ] **quatre-vingt-dix** — noventa
-- [ ] **ranger la chambre** — arrumar o quarto
-- [ ] **recevoir un colis** — receber uma encomenda
-- [ ] **regarder une vidéo** — assistir a um vídeo
-- [ ] **rester à la maison** — ficar em casa
-- [ ] **se chausser** — calçar-se
-- [ ] **se coucher tôt** — deitar cedo
-- [ ] **se déshabiller** — despir-se
-- [ ] **se maquiller** — maquiar-se
-- [ ] **secondaire** — secundário
-- [ ] **shopping** — compras / shopping / fazer compras
-- [ ] **soulever** — levantar (peso)
-- [ ] **supprimer** — apagar
-- [ ] **télécharger** — baixar
-- [ ] **tourner à gauche** — virar à esquerda
-- [ ] **un milliard** — um bilhão
-- [ ] **wi** — Wi (parte da palavra Wi-Fi)
+- [ ] **le talk-show** — o talk show
+- [ ] **le thon** — o atum
+- [ ] **le tournevis** — a chave de fenda
+- [ ] **le vélo d’enfant** — a bicicleta infantil
+- [ ] **le yaourt** — o iogurte
+- [ ] **les céréales** — os cereais
+- [ ] **les crêpes salées** — os crepes salgados
+- [ ] **les petits pois** — as ervilhas
+- [ ] **maigre** — magro / esguio
+- [ ] **mince** — magro
+- [ ] **mordre** — morder
+- [ ] **musclé** — musculoso
+- [ ] **parterre** — canteiro de flores / jardim ornamental
+- [ ] **passif** — passivo
+- [ ] **perdre un match** — perder uma partida
+- [ ] **prendre un bain** — tomar banho de banheira
+- [ ] **promener (se)** — Passear, caminhar por lazer (verbo pronominal)
+- [ ] **qui est-ce** — quem é
+- [ ] **rarement** — raramente
+- [ ] **redémarrer** — reiniciar
+- [ ] **reposer (se)** — Descansar, repousar (verbo pronominal)
+- [ ] **s’entraîner** — treinar
+- [ ] **se connecter** — conectar-se
+- [ ] **se déconnecter** — desconectar-se
+- [ ] **se détendre** — relaxar
+- [ ] **se raser** — barbear-se
+- [ ] **seize** — dezesseis
+- [ ] **sortir le soir** — sair à noite
+- [ ] **souple** — flexível / macio
+- [ ] **sûrement** — certamente
+- [ ] **toucher l’écran** — tocar na tela
+- [ ] **trilha** — trilha / caminho cultural de exploração
+- [ ] **vingt et un** — vinte e um
+- [ ] **Wi-Fi** — Wi-Fi / rede sem fio

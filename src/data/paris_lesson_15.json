@@ -1,268 +1,292 @@
 {
   "id": "paris_lesson_15",
   "cityId": "paris",
-  "domain": "Cultura & Arte",
+  "domain": "Cultura & Lazer",
   "level": "Iniciante (A1)",
   "titleFr": "Une soirée à l'Opéra Garnier",
   "titlePt": "Uma noite na Ópera Garnier",
-  "subtitleFr": "Le grand escalier, la salle rouge et la musique",
-  "subtitlePt": "A grande escadaria, a sala vermelha e a música",
-  "summaryPt": "Nesta Aula 15 (A1), a família vai a uma noite na Ópera Garnier. Eles sobem o grande escalar, admiram a sala vermelha e escutam a música. Andréa explica a história do palácio da ópera. O aluno aprende o pronome 'on' e o verbo 'aimer' + infinitivo.",
+  "subtitleFr": "Le grand escalier, la musique et une photo sans flash",
+  "subtitlePt": "A grande escadaria, a música e uma foto sem flash",
+  "summaryPt": "Nesta Aula 15 (A1), Irlan e Andréa vão à Ópera Garnier. Ela envia um SMS para a mãe, ele faz um vídeo para a mãe no Brasil, e juntos assistem ao espetáculo. O aluno aprende os adjetivos possessivos (mon, ma, mes, son, sa, ses).",
   "paragraphs": [
     {
       "id": 1,
-      "fr": "Ce soir, nous allons à l'Opéra Garnier. Le bâtiment est magnifique, avec des statues et des lumières dorées. Andréa adore ce palais de la musique.",
-      "pt": "Esta noite, nós vamos à Ópera Garnier. O prédio é magnífico, com estátuas e luzes douradas. Andréa adora este palácio da música."
+      "fr": "Ce soir, Irlan et Andréa vont à l'Opéra Garnier. Le bâtiment est magnifique, avec des statues et des lumières dorées.",
+      "pt": "Hoje à noite, Irlan e Andréa vão à Ópera Garnier. O prédio é magnífico, com estátuas e luzes douradas."
     },
     {
       "id": 2,
-      "fr": "On monte le grand escalier. Les marches sont en marbre blanc. Íris dit : « On dirait un château ! »",
-      "pt": "Nós subimos a grande escadaria. Os degraus são de mármore branco. Íris diz: «Parece um castelo!»"
+      "fr": "Andréa adore ce palais de la musique. Elle a réservé deux billets.",
+      "pt": "Andréa adora este palácio da música. Ela reservou dois ingressos."
     },
     {
       "id": 3,
-      "fr": "Dans la salle, on écoute la musique. Le plafond est peint par Chagall. J'aime écouter la musique classique avec ma famille.",
-      "pt": "Na sala, nós escutamos a música. O teto é pintado por Chagall. Eu gosto de escutar música clássica com a minha família."
+      "fr": "Avant d'entrer, elle envoie un SMS à sa mère : « Je suis à l'opéra avec Irlan. »",
+      "pt": "Antes de entrar, ela envia um SMS para a mãe dela: «Estou na ópera com o Irlan.»"
     },
     {
       "id": 4,
-      "fr": "Après le spectacle, on rentre à la maison en marchant. Irlan dit : « Je n'aime pas beaucoup l'opéra, mais j'aime ce moment ensemble. » Andréa rit.",
-      "pt": "Depois do espetáculo, nós voltamos para casa caminhando. Irlan diz: «Eu não gosto muito de ópera, mas gosto deste momento juntos.» Andréa ri."
+      "fr": "Irlan fait une petite vidéo de la façade. « Pour ma mère, au Brésil », dit-il.",
+      "pt": "Irlan faz um vídeo curto da fachada. «Para a minha mãe, no Brasil», diz ele."
+    },
+    {
+      "id": 5,
+      "fr": "Ils montent le grand escalier. Les marches sont en marbre blanc.",
+      "pt": "Eles sobem a grande escadaria. Os degraus são de mármore branco."
+    },
+    {
+      "id": 6,
+      "fr": "« On dirait un château », dit Irlan. Andréa sourit : « C'est un peu ça. »",
+      "pt": "«Parece um castelo», diz Irlan. Andréa sorri: «É um pouco isso.»"
+    },
+    {
+      "id": 7,
+      "fr": "Dans la salle, ils écoutent la musique. Le plafond est peint par Chagall.",
+      "pt": "Na sala, eles escutam a música. O teto foi pintado por Chagall."
+    },
+    {
+      "id": 8,
+      "fr": "Irlan veut prendre une photo, mais la batterie de son téléphone est presque vide.",
+      "pt": "Irlan quer tirar uma foto, mas a bateria do celular dele está quase vazia."
+    },
+    {
+      "id": 9,
+      "fr": "Andréa prend une photo sans flash. La lumière est douce.",
+      "pt": "Andréa tira uma foto sem flash. A luz é suave."
+    },
+    {
+      "id": 10,
+      "fr": "Après le spectacle, ils marchent dans les rues de Paris. La ville est belle la nuit.",
+      "pt": "Depois do espetáculo, eles caminham pelas ruas de Paris. A cidade é bonita à noite."
+    },
+    {
+      "id": 11,
+      "fr": "« Je n'aime pas beaucoup l'opéra, mais j'aime ce moment avec toi », dit Irlan.",
+      "pt": "«Eu não gosto muito de ópera, mas eu amo este momento com você», diz Irlan."
+    },
+    {
+      "id": 12,
+      "fr": "Andréa rit et prend son bras. « C'est tout ce qui compte. »",
+      "pt": "Andréa ri e segura o braço dele. «É isso que importa.»"
     }
   ],
   "vocabularyDictionary": [
     {
-      "term": "opéra",
-      "definitionPt": "ópera",
-      "definitionFr": "Spectacle de musique et de chant, ou le bâtiment où il a lieu.",
+      "term": "l'opéra",
+      "definitionPt": "a ópera",
+      "definitionFr": "Spectacle où des chanteurs racontent une histoire en musique.",
       "inflections": ["l'opéra", "un opéra", "des opéras"],
       "ptTargets": ["ópera"],
       "examples": [
-        { "level": "A1", "fr": "Nous allons à l'opéra ce soir.", "pt": "Nós vamos à ópera esta noite." },
+        { "level": "A1", "fr": "Ils vont à l'opéra.", "pt": "Eles vão à ópera." },
         { "level": "A2-B1", "fr": "L'opéra commence à vingt heures.", "pt": "A ópera começa às vinte horas." },
-        { "level": "B2", "fr": "L'Opéra Garnier est un monument célèbre.", "pt": "A Ópera Garnier é um monumento famoso." },
-        { "level": "C1-C2", "fr": "L'Opéra Garnier incarne le faste de la vie culturelle parisienne.", "pt": "A Ópera Garnier encarna o fausto da vida cultural parisiense." }
+        { "level": "B2", "fr": "Cet opéra célèbre attire le public du monde entier.", "pt": "Esta ópera famosa atrai público do mundo inteiro." },
+        { "level": "C1-C2", "fr": "L'opéra mêle la musique, la voix et le théâtre en un seul art.", "pt": "A ópera mistura a música, a voz e o teatro numa única arte." }
       ]
     },
     {
-      "term": "bâtiment",
-      "definitionPt": "prédio, edifício",
-      "definitionFr": "Construction avec des murs et un toit.",
-      "inflections": ["le bâtiment", "un bâtiment", "des bâtiments"],
-      "ptTargets": ["prédio", "edifício"],
+      "term": "le spectacle",
+      "definitionPt": "o espetáculo",
+      "definitionFr": "Représentation devant un public.",
+      "inflections": ["le spectacle", "un spectacle", "des spectacles"],
+      "ptTargets": ["espetáculo"],
       "examples": [
-        { "level": "A1", "fr": "Le bâtiment est magnifique.", "pt": "O prédio é magnífico." },
-        { "level": "A2-B1", "fr": "Ce bâtiment est très ancien.", "pt": "Este prédio é muito antigo." },
-        { "level": "B2", "fr": "Les bâtiments historiques sont protégés.", "pt": "Os prédios históricos são protegidos." },
-        { "level": "C1-C2", "fr": "Le bâtiment de l'Opéra est un joyau de l'architecture du XIXe siècle.", "pt": "O prédio da Ópera é uma joia da arquitetura do século XIX." }
+        { "level": "A1", "fr": "Le spectacle est magnifique.", "pt": "O espetáculo é magnífico." },
+        { "level": "A2-B1", "fr": "Le spectacle commence à vingt heures.", "pt": "O espetáculo começa às vinte horas." },
+        { "level": "B2", "fr": "Après le spectacle, ils marchent dans les rues.", "pt": "Depois do espetáculo, eles caminham pelas ruas." },
+        { "level": "C1-C2", "fr": "Un spectacle réussi laisse une émotion qui dure bien après le rideau.", "pt": "Um espetáculo bem-sucedido deixa uma emoção que dura muito depois da cortina." }
       ]
     },
     {
-      "term": "statue",
-      "definitionPt": "estátua",
-      "definitionFr": "Sculpture représentant une personne ou un animal.",
-      "inflections": ["la statue", "une statue", "des statues"],
-      "ptTargets": ["estátua"],
+      "term": "le billet",
+      "definitionPt": "o ingresso, o bilhete",
+      "definitionFr": "Papier ou document qui permet d'entrer.",
+      "inflections": ["le billet", "un billet", "des billets"],
+      "ptTargets": ["ingresso", "bilhete"],
       "examples": [
-        { "level": "A1", "fr": "Le bâtiment a des statues.", "pt": "O prédio tem estátuas." },
-        { "level": "A2-B1", "fr": "La statue est devant le théâtre.", "pt": "A estátua está diante do teatro." },
-        { "level": "B2", "fr": "Les statues dorées décorent la façade.", "pt": "As estátuas douradas decoram a fachada." },
-        { "level": "C1-C2", "fr": "Les statues de l'Opéra célèbrent la musique et la danse.", "pt": "As estátuas da Ópera celebram a música e a dança." }
+        { "level": "A1", "fr": "Andréa a réservé deux billets.", "pt": "Andréa reservou dois ingressos." },
+        { "level": "A2-B1", "fr": "J'achète un billet pour le spectacle.", "pt": "Compro um ingresso para o espetáculo." },
+        { "level": "B2", "fr": "Les billets sont chers, mais la soirée en vaut la peine.", "pt": "Os ingressos são caros, mas a noite vale a pena." },
+        { "level": "C1-C2", "fr": "Un billet bien placé change toute la façon de voir un spectacle.", "pt": "Um ingresso bem localizado muda toda a forma de ver um espetáculo." }
       ]
     },
     {
-      "term": "doré",
-      "definitionPt": "dourado",
-      "definitionFr": "Qui a la couleur de l'or.",
-      "inflections": ["doré", "dorée", "dorés", "dorées"],
-      "ptTargets": ["dourado"],
+      "term": "le grand escalier",
+      "definitionPt": "a grande escadaria",
+      "definitionFr": "Escalier large et imposant.",
+      "inflections": ["le grand escalier", "un grand escalier", "des grands escaliers"],
+      "ptTargets": ["escadaria"],
       "examples": [
-        { "level": "A1", "fr": "Les lumières sont dorées.", "pt": "As luzes são douradas." },
-        { "level": "A2-B1", "fr": "La salle a des décorations dorées.", "pt": "A sala tem decorações douradas." },
-        { "level": "B2", "fr": "Les statues dorées brillent sous la lumière.", "pt": "As estátuas douradas brilham sob a luz." },
-        { "level": "C1-C2", "fr": "Le faste doré de l'Opéra émerveille les visiteurs.", "pt": "O fausto dourado da Ópera encanta os visitantes." }
+        { "level": "A1", "fr": "Ils montent le grand escalier.", "pt": "Eles sobem a grande escadaria." },
+        { "level": "A2-B1", "fr": "Le grand escalier mène à la salle.", "pt": "A grande escadaria leva à sala." },
+        { "level": "B2", "fr": "Le grand escalier de l'opéra impressionne les visiteurs.", "pt": "A grande escadaria da ópera impressiona os visitantes." },
+        { "level": "C1-C2", "fr": "Le grand escalier, œuvre à lui seul, accueille le public comme un décor de théâtre.", "pt": "A grande escadaria, uma obra por si só, recebe o público como um cenário de teatro." }
       ]
     },
     {
-      "term": "escalier",
-      "definitionPt": "escadaria, escada",
-      "definitionFr": "Suite de marches pour monter ou descendre.",
-      "inflections": ["l'escalier", "un escalier", "des escaliers"],
-      "ptTargets": ["escadaria", "escada"],
-      "examples": [
-        { "level": "A1", "fr": "On monte le grand escalier.", "pt": "Nós subimos a grande escadaria." },
-        { "level": "A2-B1", "fr": "L'escalier est très large.", "pt": "A escadaria é muito larga." },
-        { "level": "B2", "fr": "Le grand escalier de l'Opéra est célèbre.", "pt": "A grande escadaria da Ópera é famosa." },
-        { "level": "C1-C2", "fr": "Le grand escalier de marbre accueille les spectateurs avec majesté.", "pt": "A grande escadaria de mármore recebe os espectadores com majestade." }
-      ]
-    },
-    {
-      "term": "marche",
-      "definitionPt": "degrau",
-      "definitionFr": "Chacune des marches d'un escalier.",
-      "inflections": ["la marche", "une marche", "des marches"],
-      "ptTargets": ["degrau"],
-      "examples": [
-        { "level": "A1", "fr": "Les marches sont en marbre blanc.", "pt": "Os degraus são de mármore branco." },
-        { "level": "A2-B1", "fr": "Je monte les marches une par une.", "pt": "Eu subo os degraus um a um." },
-        { "level": "B2", "fr": "Les marches de l'escalier sont usées par le temps.", "pt": "Os degraus da escadaria estão gastos pelo tempo." },
-        { "level": "C1-C2", "fr": "Chaque marche de ce monument raconte un siècle d'histoire.", "pt": "Cada degrau deste monumento conta um século de história." }
-      ]
-    },
-    {
-      "term": "marbre",
-      "definitionPt": "mármore",
-      "definitionFr": "Pierre dure et brillante, souvent blanche.",
-      "inflections": ["le marbre"],
+      "term": "le marbre",
+      "definitionPt": "o mármore",
+      "definitionFr": "Pierre dure et polie, souvent blanche.",
+      "inflections": ["le marbre", "du marbre"],
       "ptTargets": ["mármore"],
       "examples": [
-        { "level": "A1", "fr": "L'escalier est en marbre.", "pt": "A escadaria é de mármore." },
-        { "level": "A2-B1", "fr": "Le marbre blanc brille sous la lumière.", "pt": "O mármore branco brilha sob a luz." },
-        { "level": "B2", "fr": "Les sols en marbre sont très élégants.", "pt": "Os pisos de mármore são muito elegantes." },
-        { "level": "C1-C2", "fr": "Le marbre noble confère au monument une majesté intemporelle.", "pt": "O mármore nobre confere ao monumento uma majestade atemporal." }
+        { "level": "A1", "fr": "Les marches sont en marbre blanc.", "pt": "Os degraus são de mármore branco." },
+        { "level": "A2-B1", "fr": "Le sol de la salle est en marbre.", "pt": "O chão da sala é de mármore." },
+        { "level": "B2", "fr": "Le marbre blanc reflète la lumière des lustres.", "pt": "O mármore branco reflete a luz dos lustres." },
+        { "level": "C1-C2", "fr": "Le marbre, froid et noble, donne au lieu sa solennité.", "pt": "O mármore, frio e nobre, dá ao lugar a sua solenidade." }
       ]
     },
     {
-      "term": "salle",
-      "definitionPt": "sala",
-      "definitionFr": "Pièce d'un bâtiment.",
-      "inflections": ["la salle", "une salle", "des salles"],
-      "ptTargets": ["sala"],
-      "examples": [
-        { "level": "A1", "fr": "La salle est très belle.", "pt": "A sala é muito bonita." },
-        { "level": "A2-B1", "fr": "La salle est pleine de spectateurs.", "pt": "A sala está cheia de espectadores." },
-        { "level": "B2", "fr": "La salle de l'Opéra peut accueillir deux mille personnes.", "pt": "A sala da Ópera pode receber duas mil pessoas." },
-        { "level": "C1-C2", "fr": "La salle rouge et or de l'Opéra est un écrin pour la musique.", "pt": "A sala vermelha e dourada da Ópera é um cenário para a música." }
-      ]
-    },
-    {
-      "term": "plafond",
-      "definitionPt": "teto",
-      "definitionFr": "Surface supérieure d'une pièce.",
+      "term": "le plafond",
+      "definitionPt": "o teto",
+      "definitionFr": "Surface qui ferme le haut d'une pièce.",
       "inflections": ["le plafond", "un plafond", "des plafonds"],
       "ptTargets": ["teto"],
       "examples": [
         { "level": "A1", "fr": "Le plafond est peint.", "pt": "O teto é pintado." },
-        { "level": "A2-B1", "fr": "Le plafond de la salle est décoré.", "pt": "O teto da sala é decorado." },
-        { "level": "B2", "fr": "Le plafond peint par Chagall est magnifique.", "pt": "O teto pintado por Chagall é magnífico." },
-        { "level": "C1-C2", "fr": "Le plafond de Chagall est un chef-d'œuvre de la peinture moderne.", "pt": "O teto de Chagall é uma obra-prima da pintura moderna." }
+        { "level": "A2-B1", "fr": "Le plafond de la salle est magnifique.", "pt": "O teto da sala é magnífico." },
+        { "level": "B2", "fr": "Le plafond peint par Chagall éblouit les spectateurs.", "pt": "O teto pintado por Chagall deslumbra os espectadores." },
+        { "level": "C1-C2", "fr": "Le plafond, souvent oublié, porte ici une œuvre entière.", "pt": "O teto, muitas vezes esquecido, carrega aqui uma obra inteira." }
       ]
     },
     {
-      "term": "écouter",
-      "definitionPt": "escutar, ouvir",
-      "definitionFr": "Prêter attention à un son ou à de la musique.",
-      "inflections": ["j'écoute", "écouter", "il écoute"],
-      "ptTargets": ["escutar", "ouvir"],
+      "term": "la musique",
+      "definitionPt": "a música",
+      "definitionFr": "Suite de sons agréables à écouter.",
+      "inflections": ["la musique", "une musique", "des musiques"],
+      "ptTargets": ["música"],
       "examples": [
-        { "level": "A1", "fr": "On écoute la musique.", "pt": "Nós escutamos a música." },
-        { "level": "A2-B1", "fr": "J'aime écouter de la musique le soir.", "pt": "Eu gosto de escutar música à noite." },
-        { "level": "B2", "fr": "Elle écoute l'opéra avec attention.", "pt": "Ela escuta a ópera com atenção." },
-        { "level": "C1-C2", "fr": "Écouter la musique classique est un art qui s'apprend.", "pt": "Escutar música clássica é uma arte que se aprende." }
+        { "level": "A1", "fr": "J'écoute de la musique.", "pt": "Eu escuto música." },
+        { "level": "A2-B1", "fr": "La musique est très belle ce soir.", "pt": "A música está muito bonita esta noite." },
+        { "level": "B2", "fr": "La musique emplit la salle et suspend le temps.", "pt": "A música enche a sala e suspende o tempo." },
+        { "level": "C1-C2", "fr": "La musique, sans dire un mot, raconte ce que les mots ne peuvent pas.", "pt": "A música, sem dizer uma palavra, conta o que as palavras não conseguem." }
       ]
     },
     {
-      "term": "spectacle",
-      "definitionPt": "espetáculo",
-      "definitionFr": "Représentation publique (musique, théâtre, danse).",
-      "inflections": ["le spectacle", "un spectacle", "des spectacles"],
-      "ptTargets": ["espetáculo"],
+      "term": "la salle",
+      "definitionPt": "a sala",
+      "definitionFr": "Pièce ou lieu où se réunit un public.",
+      "inflections": ["la salle", "une salle", "des salles"],
+      "ptTargets": ["sala"],
       "examples": [
-        { "level": "A1", "fr": "Le spectacle commence à vingt heures.", "pt": "O espetáculo começa às vinte horas." },
-        { "level": "A2-B1", "fr": "Le spectacle est très beau.", "pt": "O espetáculo é muito bonito." },
-        { "level": "B2", "fr": "Le spectacle a duré deux heures.", "pt": "O espetáculo durou duas horas." },
-        { "level": "C1-C2", "fr": "Un spectacle à l'Opéra Garnier reste une expérience inoubliable.", "pt": "Um espetáculo na Ópera Garnier continua sendo uma experiência inesquecível." }
+        { "level": "A1", "fr": "La salle est grande.", "pt": "A sala é grande." },
+        { "level": "A2-B1", "fr": "Ils entrent dans la salle de spectacle.", "pt": "Eles entram na sala de espetáculos." },
+        { "level": "B2", "fr": "La salle s'est remplie en quelques minutes.", "pt": "A sala encheu em poucos minutos." },
+        { "level": "C1-C2", "fr": "La salle, dans le silence, retenait son souffle.", "pt": "A sala, em silêncio, prendia a respiração." }
       ]
     },
     {
-      "term": "aimer",
-      "definitionPt": "gostar, amar",
-      "definitionFr": "Apprécier quelque chose ou quelqu'un.",
-      "inflections": ["j'aime", "aimer", "il aime"],
-      "ptTargets": ["gostar", "amar"],
+      "term": "envoyer un SMS",
+      "definitionPt": "enviar um SMS",
+      "definitionFr": "Écrire et envoyer un message court par téléphone.",
+      "inflections": ["envoyer un SMS", "j'envoie un SMS", "il envoie un SMS"],
+      "ptTargets": ["enviar um SMS"],
       "examples": [
-        { "level": "A1", "fr": "J'aime écouter la musique classique.", "pt": "Eu gosto de escutar música clássica." },
-        { "level": "A2-B1", "fr": "Nous aimons les soirées à Paris.", "pt": "Nós gostamos das noites em Paris." },
-        { "level": "B2", "fr": "Elle aime beaucoup l'opéra.", "pt": "Ela gosta muito de ópera." },
-        { "level": "C1-C2", "fr": "Aimer l'art, c'est s'ouvrir au monde.", "pt": "Amar a arte é se abrir para o mundo." }
+        { "level": "A1", "fr": "Andréa envoie un SMS à sa mère.", "pt": "Andréa envia um SMS para a mãe dela." },
+        { "level": "A2-B1", "fr": "J'envoie un SMS pour confirmer l'heure.", "pt": "Envio um SMS para confirmar o horário." },
+        { "level": "B2", "fr": "Il a envoyé un SMS pour prévenir de son retard.", "pt": "Ele enviou um SMS para avisar do atraso." },
+        { "level": "C1-C2", "fr": "Envoyer un SMS rapide vaut parfois mieux qu'un long silence.", "pt": "Enviar um SMS rápido às vezes vale mais do que um longo silêncio." }
+      ]
+    },
+    {
+      "term": "faire une vidéo",
+      "definitionPt": "fazer um vídeo",
+      "definitionFr": "Filmer une scène avec un téléphone ou une caméra.",
+      "inflections": ["faire une vidéo", "je fais une vidéo", "il fait une vidéo"],
+      "ptTargets": ["fazer um vídeo"],
+      "examples": [
+        { "level": "A1", "fr": "Irlan fait une vidéo de la façade.", "pt": "Irlan faz um vídeo da fachada." },
+        { "level": "A2-B1", "fr": "Je fais une vidéo pour ma famille.", "pt": "Faço um vídeo para a minha família." },
+        { "level": "B2", "fr": "Elle a fait une vidéo du spectacle en entier.", "pt": "Ela fez um vídeo do espetáculo inteiro." },
+        { "level": "C1-C2", "fr": "Faire une vidéo, c'est garder un morceau de l'instant pour plus tard.", "pt": "Fazer um vídeo é guardar um pedaço do instante para mais tarde." }
+      ]
+    },
+    {
+      "term": "la batterie",
+      "definitionPt": "a bateria (do celular)",
+      "definitionFr": "Source d'énergie d'un appareil.",
+      "inflections": ["la batterie", "une batterie", "des batteries"],
+      "ptTargets": ["bateria"],
+      "examples": [
+        { "level": "A1", "fr": "La batterie est presque vide.", "pt": "A bateria está quase vazia." },
+        { "level": "A2-B1", "fr": "Je recharge la batterie de mon téléphone.", "pt": "Recarrego a bateria do meu celular." },
+        { "level": "B2", "fr": "La batterie s'est éteinte pendant le spectacle.", "pt": "A bateria descarregou durante o espetáculo." },
+        { "level": "C1-C2", "fr": "Une batterie qui tient toute la journée est devenue un luxe silencieux.", "pt": "Uma bateria que dura o dia todo tornou-se um luxo silencioso." }
+      ]
+    },
+    {
+      "term": "le flash",
+      "definitionPt": "o flash",
+      "definitionFr": "Lumière brève d'un appareil photo.",
+      "inflections": ["le flash", "un flash", "des flashs"],
+      "ptTargets": ["flash"],
+      "examples": [
+        { "level": "A1", "fr": "Andréa prend une photo sans flash.", "pt": "Andréa tira uma foto sem flash." },
+        { "level": "A2-B1", "fr": "Le flash est trop fort dans la salle.", "pt": "O flash é forte demais na sala." },
+        { "level": "B2", "fr": "Elle désactive le flash pour ne pas déranger.", "pt": "Ela desativa o flash para não incomodar." },
+        { "level": "C1-C2", "fr": "Sans flash, la photo garde la douceur réelle de la lumière.", "pt": "Sem flash, a foto conserva a suavidade real da luz." }
       ]
     }
   ],
   "grammarTip": {
-    "ruleTitle": "Le pronom on",
-    "explanationPt": "O pronome 'on' significa 'nós' na linguagem cotidiana e se conjuga como 'il/elle'. Ex.: 'On monte le grand escalier.' (Nós subimos a grande escadaria.)",
-    "exampleFr": "On monte le grand escalier et on écoute la musique.",
-    "examplePt": "Nós subimos a grande escadaria e escutamos a música.",
-    "practiceQuestion": "Complete com a forma correta: 'On _____ (écouter) la musique.'",
-    "options": ["écoute", "écoutons", "écoutent"],
+    "ruleTitle": "Les adjectifs possessifs",
+    "explanationPt": "Os adjetivos possessivos indicam posse: 'mon/ma/mes' (meu/minha/meus), 'ton/ta/tes' (teu/tua/teus), 'son/sa/ses' (dele/dela). Ex.: 'ma mère' (minha mãe), 'son téléphone' (o telefone dele), 'ses billets' (os ingressos dela).",
+    "exampleFr": "Andréa envoie un SMS à sa mère. Irlan recharge son téléphone.",
+    "examplePt": "Andréa envia um SMS para a mãe dela. Irlan recarrega o telefone dele.",
+    "practiceQuestion": "Complete: 'Andréa envoie un SMS à _____ mère.'",
+    "options": ["sa", "son", "ses"],
     "correctIndex": 0,
     "points": [
       {
-        "ruleTitle": "Le pronom on",
-        "explanationPt": "'on' = nós (informal), verbo na 3ª pessoa do singular: 'On monte', 'On écoute', 'On rentre'. Ex.: 'Après le spectacle, on rentre à la maison.'",
-        "exampleFr": "Après le spectacle, on rentre à la maison en marchant.",
-        "examplePt": "Depois do espetáculo, nós voltamos para casa caminhando.",
-        "practiceQuestion": "Complete: 'Ce soir, on _____ (aller) à l'Opéra.'",
-        "options": ["va", "allons", "vont"],
+        "ruleTitle": "mon / ma / mes",
+        "explanationPt": "'mon' + masculino ('mon père'), 'ma' + feminino ('ma mère'), 'mes' + plural ('mes billets'). Ex.: 'Pour ma mère, au Brésil.'",
+        "exampleFr": "Pour ma mère, au Brésil.",
+        "examplePt": "Para a minha mãe, no Brasil.",
+        "practiceQuestion": "Complete: 'J'aime _____ père et _____ mère.'",
+        "options": ["mon / ma", "ma / mon", "mes / mes"],
         "correctIndex": 0
       },
       {
-        "ruleTitle": "Aimer + infinitif",
-        "explanationPt": "Para gostar de fazer algo: 'aimer' + infinitivo. Ex.: 'J'aime écouter la musique classique.' Negativo: 'Je n'aime pas beaucoup l'opéra.'",
-        "exampleFr": "J'aime écouter la musique classique avec ma famille.",
-        "examplePt": "Eu gosto de escutar música clássica com a minha família.",
-        "practiceQuestion": "Complete: 'Je _____ (aimer) chanter avec ma fille.'",
-        "options": ["aime", "aimes", "aiment"],
+        "ruleTitle": "son / sa / ses",
+        "explanationPt": "'son' + masculino ('son téléphone'), 'sa' + feminino ('sa mère'), 'ses' + plural ('ses billets'). Ex.: 'La batterie de son téléphone est vide.'",
+        "exampleFr": "La batterie de son téléphone est vide.",
+        "examplePt": "A bateria do telefone dele está vazia.",
+        "practiceQuestion": "Complete: 'Andréa a réservé _____ billets.'",
+        "options": ["ses", "son", "sa"],
         "correctIndex": 0
       }
     ]
   },
   "quizQuestions": [
     {
-      "question": "Complete a frase do texto: 'On monte le grand _____.'",
-      "options": ["escalier", "jardin", "métro"],
+      "question": "O que Andréa faz antes de entrar na ópera?",
+      "options": ["Envia um SMS para a mãe", "Compra um vestido", "Liga para o trabalho"],
       "correctIndex": 0,
-      "explanation": "No texto: 'On monte le grand escalier.' (Nós subimos a grande escadaria.)"
+      "explanation": "No texto: 'Elle envoie un SMS à sa mère.'"
     },
     {
-      "question": "Ordene corretamente as palavras da frase: [ écoute / on / dans la salle / la musique / , / ]",
-      "options": [
-        "Dans la salle, on écoute la musique.",
-        "On dans la salle écoute la musique.",
-        "La musique on écoute dans la salle."
-      ],
+      "question": "Para quem Irlan faz o vídeo da fachada?",
+      "options": ["Para a mãe dele, no Brasil", "Para a Andréa", "Para um amigo"],
       "correctIndex": 0,
-      "explanation": "A frase exata do texto é 'Dans la salle, on écoute la musique.'"
+      "explanation": "No texto: 'Pour ma mère, au Brésil.'"
     },
     {
-      "question": "Como se traduz: 'Eu gosto de escutar música'?",
-      "options": [
-        "J'aime écouter la musique.",
-        "J'aime écouter musique.",
-        "Je écoute aimer la musique."
-      ],
+      "question": "De que material são os degraus da grande escadaria?",
+      "options": ["Mármore branco", "Madeira", "Ferro"],
       "correctIndex": 0,
-      "explanation": "'J'aime' + infinitivo 'écouter' + 'la musique' → 'J'aime écouter la musique.'"
+      "explanation": "No texto: 'Les marches sont en marbre blanc.'"
     },
     {
-      "question": "Identifique a frase com ERRO com o pronome 'on':",
-      "options": [
-        "On monte le grand escalier.",
-        "On écoute la musique.",
-        "On allons à l'opéra."
-      ],
-      "correctIndex": 2,
-      "explanation": "O erro é 'On allons': com 'on', o verbo fica na 3ª pessoa ('On va à l'opéra.')."
+      "question": "Por que Irlan não tira a foto?",
+      "options": ["A bateria do celular dele está quase vazia", "O celular caiu", "Ele esqueceu o celular"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'La batterie de son téléphone est presque vide.'"
     },
     {
-      "question": "O que Íris diz quando vê a Ópera Garnier?",
-      "options": [
-        "« On dirait un château ! » (Parece um castelo!)",
-        "« C'est un supermarché ! »",
-        "« On dirait une gare ! »"
-      ],
+      "question": "O que Irlan diz depois do espetáculo?",
+      "options": ["Não gosta muito de ópera, mas ama o momento com Andréa", "Quer voltar amanhã", "Prefere o cinema"],
       "correctIndex": 0,
-      "explanation": "No texto: 'Íris dit : « On dirait un château ! »'"
+      "explanation": "No texto: 'Je n'aime pas beaucoup l'opéra, mais j'aime ce moment avec toi.'"
     }
   ]
 }
