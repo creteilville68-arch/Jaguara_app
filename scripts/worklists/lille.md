@@ -1,10 +1,10 @@
 # #3 Lille — A2
 
-**215 palavras** ainda precisam aparecer nos textos das aulas desta cidade.
+**214 palavras** ainda precisam aparecer nos textos das aulas desta cidade.
 
 Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aventura do Irlan.
 
-## A2 (215)
+## A2 (214)
 
 - [ ] **à gauche** — à esquerda
 - [ ] **accomplir** — cumprir / realizar
@@ -38,177 +38,176 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **faire la bise** — dar beijinhos
 - [ ] **faire la queue** — enfrentar a fila
 - [ ] **faire une pause** — fazer uma pausa
-- [ ] **fermer à clé** — trancar com chave
-- [ ] **fermer un compte** — fechar uma conta
-- [ ] **gagner du temps** — ganhar tempo
-- [ ] **gêner** — incomodar / constranger
-- [ ] **handicapé** — deficiente
-- [ ] **il fait du soleil** — está ensolarado
-- [ ] **il gèle** — está congelando
-- [ ] **immédiatement** — imediatamente
-- [ ] **interactif** — interativo / que permite interação do usuário
-- [ ] **jaloux** — ciumento / invejoso
-- [ ] **l’abonnement** — a assinatura
-- [ ] **l’agenda** — a agenda
-- [ ] **l’analyse** — o exame / a análise
-- [ ] **l’annulation** — o cancelamento
-- [ ] **l’assiette creuse** — o prato fundo
-- [ ] **l’atterrissage** — o pouso
-- [ ] **l’eau plate** — a água sem gás
-- [ ] **l'ensablement** — o assoreamento
-- [ ] **l’escale** — a escala
-- [ ] **l’hôtesse de l’air** — a comissária de bordo
-- [ ] **l’imperméable** — a capa de chuva
-- [ ] **l’orage** — a tempestade
-- [ ] **l’orpheline** — a órfã
-- [ ] **la balance de cuisine** — a balança de cozinha
-- [ ] **la bière pression** — o chope
-- [ ] **la boussole** — a bússola
-- [ ] **la cabine d’essayage** — o provador
-- [ ] **la carte de crédit** — o cartão de crédito
-- [ ] **la carte routière** — o mapa rodoviário
-- [ ] **la chambre d’amis** — o quarto de hóspedes
-- [ ] **la chambre simple** — o quarto individual
-- [ ] **la chemise de nuit** — a camisola
-- [ ] **la cicatrice** — a cicatriz
-- [ ] **la combinaison** — o macacão
-- [ ] **la connexion internet** — a conexão de internet
-- [ ] **la couette** — o edredom
-- [ ] **la couverture réseau** — a cobertura de rede
-- [ ] **la crème hydratante** — o creme hidratante
-- [ ] **la demoiselle d’honneur** — a dama de honra
-- [ ] **la douane** — a alfândega
-- [ ] **la fête de village** — a festa da vila
-- [ ] **la feuille de papier** — a folha de papel
-- [ ] **la grande cuillère** — a colher de sopa
-- [ ] **la honte** — a vergonha
-- [ ] **la lampe de chevet** — o abajur
-- [ ] **la lime à ongles** — a lixa de unha
-- [ ] **la lune de miel** — a lua de mel
-- [ ] **la messagerie** — o correio eletrônico
-- [ ] **la natation** — a natação
-- [ ] **la page web** — a página da web
-- [ ] **la pause déjeuner** — a pausa para o almoço
-- [ ] **la perforatrice** — o furador de papel
-- [ ] **la pharmacie de garde** — a farmácia de plantão
-- [ ] **la pièce jointe** — o anexo
-- [ ] **la piste cyclable** — a ciclovia
-- [ ] **la place côté fenêtre** — o assento na janela
-- [ ] **la pointure** — o número (calçado)
-- [ ] **la poubelle** — a lixeira
-- [ ] **la prévision** — a previsão
-- [ ] **la quantité** — a quantidade
-- [ ] **la réduction** — o desconto
-- [ ] **la réserve naturelle** — a reserva natural
-- [ ] **la salle d’attente** — a sala de espera
-- [ ] **la signalisation** — a sinalização
-- [ ] **la table de nuit** — o criado-mudo
-- [ ] **la tasse à café** — a xícara de café
-- [ ] **la trousse** — o estojo
-- [ ] **la veuve** — a viúva
-- [ ] **la voiture de train** — o vagão
-- [ ] **le bermuda** — a bermuda
-- [ ] **le blouson** — a jaqueta
-- [ ] **le bug** — o bug
-- [ ] **le bureau de poste** — a agência dos correios
-- [ ] **le café allongé** — o café longo
-- [ ] **le caillou** — o seixo / a pedrinha
-- [ ] **le cellier** — a despensa
-- [ ] **le chauffage** — o aquecimento
-- [ ] **le chemisier** — a blusa
-- [ ] **le ciel dégagé** — o céu limpo
-- [ ] **le cochon** — o porco
-- [ ] **le coffre-fort** — o cofre
-- [ ] **le compartiment** — o compartimento
-- [ ] **le contrat** — o contrato
-- [ ] **le coton** — o algodão
-- [ ] **le coussin** — a almofada
-- [ ] **le CV** — o currículo
-- [ ] **le dentiste** — o dentista
-- [ ] **le digestif** — o digestivo
-- [ ] **le douanier** — o agente alfandegário
-- [ ] **le ferry** — a balsa
-- [ ] **le fichier** — o arquivo
-- [ ] **le film d’action** — o filme de ação
-- [ ] **le footing** — a corrida
-- [ ] **le gel** — a geada / o gelo
-- [ ] **le gramme** — a grama
-- [ ] **le guichet automatique** — o caixa eletrônico
-- [ ] **le hibou** — a coruja
-- [ ] **le jardinage** — a jardinagem
-- [ ] **le jumeau** — o gêmeo
-- [ ] **le lézard** — o lagarto
-- [ ] **le litre** — o litro
-- [ ] **le logement** — a moradia / o imóvel
-- [ ] **le loup** — o lobo
-- [ ] **le mal de dos** — a dor nas costas
-- [ ] **le malheur** — a infelicidade
-- [ ] **le mascara** — o rímel
-- [ ] **le metteur en scène** — o diretor (de teatro)
-- [ ] **le mois prochain** — o próximo mês
-- [ ] **le moule à gâteau** — a forma de bolo
-- [ ] **le panier en ligne** — o carrinho virtual
-- [ ] **le papier cuisson** — o papel-manteiga
-- [ ] **le parrain** — o padrinho
-- [ ] **le peignoir** — o roupão
-- [ ] **le physique** — o físico / a aparência
-- [ ] **le planning** — o cronograma
-- [ ] **le porte-manteau** — o cabideiro de parede
-- [ ] **le profil** — o perfil
-- [ ] **le radiateur** — o aquecedor
-- [ ] **le recyclage** — a reciclagem
-- [ ] **le rendez-vous médical** — a consulta médica
-- [ ] **le résultat** — o resultado
-- [ ] **le rouge à lèvres** — o batom
-- [ ] **le scotch** — a fita adesiva
-- [ ] **le sens interdit** — o sentido proibido
-- [ ] **le short** — o short
-- [ ] **le sous-titre** — a legenda
-- [ ] **le stress** — o estresse
-- [ ] **le téléchargement** — o download
-- [ ] **le temps sec** — o tempo seco
-- [ ] **le ticket de caisse** — o recibo
-- [ ] **le trajet** — o trajeto
-- [ ] **le verglas** — o gelo na estrada
-- [ ] **le veuf** — o viúvo
-- [ ] **le visa** — o visto
-- [ ] **les boucles d’oreilles** — os brincos
-- [ ] **les chaussures à talons** — os sapatos de salto
-- [ ] **les cheveux bouclés** — o cabelo cacheado
-- [ ] **les cheveux frisés** — o cabelo crespo
-- [ ] **les cheveux raides** — o cabelo liso
-- [ ] **les mocassins** — os mocassins
-- [ ] **les sandales** — as sandálias
-- [ ] **les yeux bleus** — os olhos azuis
-- [ ] **les yeux verts** — os olhos verdes
-- [ ] **louer un appartement** — alugar um apartamento
-- [ ] **malvoyant** — com deficiência visual
-- [ ] **mettre en copie** — colocar em cópia
-- [ ] **offrir un cadeau** — dar um presente
-- [ ] **ouvrir le parapluie** — abrir o guarda-chuva
-- [ ] **partager l’écran** — compartilhar a tela
-- [ ] **passer la serpillière** — passar o esfregão
-- [ ] **peindre un mur** — pintar uma parede
-- [ ] **plier le linge** — dobrar a roupa
-- [ ] **porter plainte** — registrar queixa
-- [ ] **prendre le menu** — escolher o menu
-- [ ] **prendre un parapluie** — levar um guarda-chuva
-- [ ] **prévoir** — prever
-- [ ] **radin** — mão de vaca / pão-duro
-- [ ] **recharger** — recarregar
-- [ ] **redevenir** — voltar a ser
-- [ ] **réjouir** — alegrar
-- [ ] **rendre un article** — devolver um produto
-- [ ] **réparer un appareil** — consertar um aparelho
-- [ ] **répondre à tous** — responder a todos
-- [ ] **rester coincé** — ficar preso
-- [ ] **réutiliser** — reutilizar
-- [ ] **s’informer** — informar-se
-- [ ] **satisfaire** — satisfazer
-- [ ] **se fâcher** — ficar com raiva
-- [ ] **se plaindre** — reclamar
-- [ ] **se régaler** — deliciar-se
-- [ ] **se taire** — calar-se
+- [ ] **fermer la fenêtre** — fechar a janela
+- [ ] **frapper à la porte** — bater na porta
+- [ ] **gaspiller** — desperdiçar
+- [ ] **grossir** — engordar
+- [ ] **honnête** — honesto
+- [ ] **il fait du vent** — está ventando
+- [ ] **il y a de l’orage** — há tempestade
+- [ ] **indique** — indica / aponta (do verbo indiquer)
+- [ ] **intéressant** — interessante
+- [ ] **jeter à la poubelle** — jogar no lixo
+- [ ] **l’adaptateur** — o adaptador
+- [ ] **l’aigle** — a águia
+- [ ] **l’année dernière** — o ano passado
+- [ ] **l’appel vidéo** — a videochamada
+- [ ] **l’assiette plate** — o prato raso
+- [ ] **l’audioguide** — o audioguia
+- [ ] **l’éclaircie** — a abertura / a clareira (céu)
+- [ ] **l’épargne** — a poupança
+- [ ] **l’exercice** — o exercício
+- [ ] **l’humeur** — o humor
+- [ ] **l’infirmier** — o enfermeiro
+- [ ] **l’ordinateur portable** — o notebook
+- [ ] **la baignoire** — a banheira
+- [ ] **la bibliothèque municipale** — a biblioteca municipal
+- [ ] **la boîte de réception** — a caixa de entrada
+- [ ] **la bruine** — a garoa
+- [ ] **la cantine** — o refeitório
+- [ ] **la carte de transport** — o cartão de transporte
+- [ ] **la ceinture de sécurité** — o cinto de segurança
+- [ ] **la chambre double** — o quarto de casal
+- [ ] **la chemise cartonnée** — a pasta de papelão
+- [ ] **la chouette** — a coruja (sem orelhas)
+- [ ] **la climatisation** — o ar-condicionado
+- [ ] **la commode** — a cômoda
+- [ ] **la corbeille à linge** — o cesto de roupa
+- [ ] **la couverture chauffante** — o cobertor elétrico
+- [ ] **la cravate** — a gravata
+- [ ] **la demi-pension** — a meia-pensão
+- [ ] **la discussion** — a conversa
+- [ ] **la facture** — a fatura
+- [ ] **la feuille de calcul** — a planilha
+- [ ] **la file d’attente** — a fila
+- [ ] **la grippe** — a gripe
+- [ ] **la journée tranquille** — o dia tranquilo
+- [ ] **la lettre recommandée** — a carta registrada
+- [ ] **la locomotive** — a locomotiva
+- [ ] **la méduse** — a água-viva
+- [ ] **la moustache** — o bigode
+- [ ] **la nuitée** — a diária
+- [ ] **la pause café** — a pausa para o café
+- [ ] **la pension complète** — a pensão completa
+- [ ] **la petite cuillère** — a colher de chá
+- [ ] **la photocopie** — a fotocópia
+- [ ] **la piqûre** — a injeção
+- [ ] **la place côté couloir** — o assento no corredor
+- [ ] **la planche à découper** — a tábua de cortar
+- [ ] **la pommade** — a pomada
+- [ ] **la présentation** — a apresentação
+- [ ] **la promotion** — a promoção
+- [ ] **la recharge** — a recarga
+- [ ] **la réservation** — a reserva
+- [ ] **la rue piétonne** — a rua de pedestres
+- [ ] **la serviette de table** — o guardanapo de mesa
+- [ ] **la table basse** — a mesa de centro
+- [ ] **la table réservée** — a mesa reservada
+- [ ] **la toux** — a tosse
+- [ ] **la vague de froid** — a onda de frio
+- [ ] **la visite guidée** — a visita guiada
+- [ ] **le banquier** — o gerente de banco
+- [ ] **le bistrot** — o bistrô
+- [ ] **le bracelet** — a pulseira
+- [ ] **le bureau (meuble)** — a escrivaninha
+- [ ] **le caddie** — o carrinho de compras
+- [ ] **le café-restaurant** — o café-restaurante
+- [ ] **le célibataire** — o solteiro
+- [ ] **le cerf** — o cervo
+- [ ] **le chef cuisinier** — o chefe de cozinha
+- [ ] **le ciel couvert** — o céu nublado
+- [ ] **le climatiseur** — o ar-condicionado
+- [ ] **le code secret** — a senha / o código secreto
+- [ ] **le comédien** — o ator
+- [ ] **le congé** — a folga / as férias
+- [ ] **le corbeau** — o corvo
+- [ ] **le courriel** — o e-mail
+- [ ] **le crocodile** — o crocodilo
+- [ ] **le degré** — o grau
+- [ ] **le détour** — o desvio / a volta
+- [ ] **le distributeur de billets** — o caixa eletrônico
+- [ ] **le faucon** — o falcão
+- [ ] **le fiancé** — o noivo
+- [ ] **le film comique** — o filme de comédia
+- [ ] **le film dramatique** — o filme de drama
+- [ ] **le formulaire** — o formulário
+- [ ] **le grain de beauté** — a pinta / o sinal
+- [ ] **le groupe de musique** — a banda
+- [ ] **le hérisson** — o ouriço
+- [ ] **le hublot** — a janela do avião
+- [ ] **le jeu de société** — o jogo de tabuleiro
+- [ ] **le lavabo** — o lavatório
+- [ ] **le lit simple** — a cama de solteiro
+- [ ] **le locataire** — o inquilino
+- [ ] **le loisir** — o lazer
+- [ ] **le mal de dents** — a dor de dente
+- [ ] **le mal de ventre** — a dor de barriga
+- [ ] **le maquillage** — a maquiagem
+- [ ] **le message privé** — a mensagem privada
+- [ ] **le mois dernier** — o mês passado
+- [ ] **le mouchoir** — o lenço
+- [ ] **le nœud papillon** — a gravata borboleta
+- [ ] **le pansement** — o curativo
+- [ ] **le parc d’attractions** — o parque de diversões
+- [ ] **le passeport** — o passaporte
+- [ ] **le phoque** — a foca
+- [ ] **le pilote d’avion** — o piloto de avião
+- [ ] **le polo** — a camisa polo
+- [ ] **le post-it** — o bloco autoadesivo
+- [ ] **le pyjama** — o pijama
+- [ ] **le réchauffement** — o aquecimento
+- [ ] **le relevé de compte** — o extrato bancário
+- [ ] **le réseau wifi** — a rede wifi
+- [ ] **le rond-point** — a rotatória
+- [ ] **le sanglier** — o javali
+- [ ] **le séjour** — a estadia
+- [ ] **le service en chambre** — o serviço de quarto
+- [ ] **le sommier** — o estrado da cama
+- [ ] **le steward** — o comissário de bordo
+- [ ] **le tatouage** — a tatuagem
+- [ ] **le temps libre** — o tempo livre
+- [ ] **le thé au citron** — o chá com limão
+- [ ] **le tonnerre** — o trovão
+- [ ] **le ventilateur** — o ventilador
+- [ ] **le verre à vin** — a taça de vinho
+- [ ] **le virement** — a transferência bancária
+- [ ] **les bottes de pluie** — as botas de chuva
+- [ ] **les cartes à jouer** — as cartas de baralho
+- [ ] **les cheveux blonds** — o cabelo loiro
+- [ ] **les cheveux courts** — o cabelo curto
+- [ ] **les cheveux longs** — o cabelo comprido
+- [ ] **les collants** — a meia-calça
+- [ ] **les pantoufles** — os chinelos
+- [ ] **les tongs** — as chinelas
+- [ ] **les yeux noirs** — os olhos pretos
+- [ ] **longer la rivière** — seguir pela margem do rio
+- [ ] **malentendant** — com deficiência auditiva
+- [ ] **mettre de la crème solaire** — passar protetor solar
+- [ ] **ne pas être d’accord** — não estar de acordo
+- [ ] **ouvrir la fenêtre** — abrir a janela
+- [ ] **pardonner** — perdoar
+- [ ] **passer du temps** — passar tempo
+- [ ] **payer l’addition** — pagar a conta
+- [ ] **pessimiste** — pessimista
+- [ ] **porter des lunettes de soleil** — usar óculos de sol
+- [ ] **prendre l’ascenseur** — pegar o elevador
+- [ ] **prendre son temps** — ir com calma
+- [ ] **prévenir** — avisar
+- [ ] **raccrocher** — desligar (telefone)
+- [ ] **récemment** — recentemente
+- [ ] **recouvrir** — cobrir
+- [ ] **regarder la télévision** — assistir à televisão
+- [ ] **rendre service** — fazer um favor
+- [ ] **rentrer chez soi** — voltar para casa
+- [ ] **répondre à la porte** — atender a porta
+- [ ] **respirer profondément** — respirar fundo
+- [ ] **retrouver son chemin** — reencontrar o caminho
+- [ ] **s’ennuyer** — entediar-se
+- [ ] **s’orienter** — orientar-se
+- [ ] **se distraire** — distrair-se
+- [ ] **se faire rembourser** — ser reembolsado
+- [ ] **se réconcilier** — reconciliar-se
+- [ ] **se rétablir** — recuperar-se
 - [ ] **sincère** — sincero
 - [ ] **souhaiter bonne chance** — desejar boa sorte
 - [ ] **sourd** — surdo

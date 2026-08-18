@@ -1,10 +1,10 @@
 # #1 Paris — A1
 
-**109 palavras** ainda precisam aparecer nos textos das aulas desta cidade.
+**110 palavras** ainda precisam aparecer nos textos das aulas desta cidade.
 
 Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aventura do Irlan.
 
-## A1 (109)
+## A1 (110)
 
 - [ ] **aimer une publication** — curtir uma publicação
 - [ ] **aujourd** — hoje / no dia de hoje (primeira parte de 'aujourd'hui')
@@ -14,12 +14,13 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **crêperie** — creperia / restaurante de crepes
 - [ ] **déposer de l’argent** — depositar dinheiro
 - [ ] **détacher** — desamarrar
-- [ ] **égoïste** — egoísta
-- [ ] **envoyer une lettre** — enviar uma carta
-- [ ] **éteindre l’ordinateur** — desligar o computador
-- [ ] **faire la cuisine** — cozinhar
-- [ ] **fi** — Fi (parte da palavra Wi-Fi)
-- [ ] **hui** — hoje (segunda parte de 'aujourd'hui')
+- [ ] **économiser** — economizar
+- [ ] **en désordre** — desarrumado
+- [ ] **escalator** — escada rolante
+- [ ] **étendre le linge** — estender a roupa
+- [ ] **faire une vidéo** — fazer um vídeo
+- [ ] **gagner un match** — vencer uma partida
+- [ ] **in** — em / dentro (prefixo ou expressão como check-in)
 - [ ] **jusqu** — até / até a (usado em 'jusqu'à')
 - [ ] **l’allumette** — o fósforo
 - [ ] **l’ananas** — o abacaxi
@@ -64,14 +65,14 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **le digicode** — o interfone
 - [ ] **le footballeur** — o jogador de futebol
 - [ ] **le garage** — a garagem
-- [ ] **le gratin** — o gratinado
-- [ ] **le handball** — o handebol
-- [ ] **le jeu vidéo** — o videogame
-- [ ] **le journal télévisé** — o telejornal
-- [ ] **le lave-vaisselle** — a lava-louças
-- [ ] **le minuteur** — o timer
-- [ ] **le nom d’utilisateur** — o nome de usuário
-- [ ] **le parquet** — o piso de madeira
+- [ ] **le gruyère** — o gruyère
+- [ ] **le jeu télévisé** — o programa de auditório
+- [ ] **le journal intime** — o diário
+- [ ] **le jus de pomme** — o suco de maçã
+- [ ] **le marteau** — o martelo
+- [ ] **le mixeur** — o liquidificador / o mixer
+- [ ] **le papier peint** — o papel de parede
+- [ ] **le peigne** — o pente
 - [ ] **le plancher** — o assoalho
 - [ ] **le poivron** — o pimentão
 - [ ] **le poulet rôti** — o frango assado

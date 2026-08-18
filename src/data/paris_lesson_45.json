@@ -1,33 +1,73 @@
 {
   "id": "paris_lesson_45",
   "cityId": "paris",
-  "domain": "Música & Arte",
+  "domain": "Cultura & Lazer",
   "level": "Iniciante (A1)",
   "titleFr": "La musique",
   "titlePt": "A música",
-  "subtitleFr": "Chanter et écouter ensemble",
-  "subtitlePt": "Cantar e ouvir juntos",
-  "summaryPt": "Nesta Aula 45 (A1), a família descobre a música em Paris. O aluno aprende o vocabulário da música (musique, chanson, chanter, écouter, piano, guitare, concert, voix, rythme) e o verbo écouter com o imperativo.",
+  "subtitleFr": "Un concert, une chanson, une mélodie à deux",
+  "subtitlePt": "Um concerto, uma canção, uma melodia a dois",
+  "summaryPt": "Na Aula 45 (A1), Irlan leva Andréa a um concerto e eles descobrem a 'nossa' canção. O aluno aprende o vocabulário da música e o verbo 'écouter'.",
   "paragraphs": [
     {
       "id": 1,
-      "fr": "Dans la famille, on aime la musique. « La musique, c'est la vie ! » dit Irlan. Le samedi soir, ils écoutent des chansons françaises à la maison. Iris chante avec eux.",
-      "pt": "Na família, gosta-se de música. « Música é a vida! » diz Irlan. No sábado à noite, eles ouvem canções francesas em casa. Íris canta com eles."
+      "fr": "« J'ai deux billets pour un concert ce soir », annonce Irlan. Andréa saute de joie.",
+      "pt": "«Tenho duas entradas para um concerto esta noite», anuncia Irlan. Andréa pula de alegria."
     },
     {
       "id": 2,
-      "fr": "Andréa joue du piano depuis son enfance. « Écoute, Iris ! dit-elle. C'est une chanson de Charles Trenet, 'La Mer'. Elle parle de la mer, du soleil et des vacances. »",
-      "pt": "Andréa toca piano desde a infância. « Escuta, Íris! diz ela. É uma canção de Charles Trenet, 'La Mer'. Ela fala do mar, do sol e das férias. »"
+      "fr": "La salle est pleine. Les lumières baissent et la musique commence doucement.",
+      "pt": "A sala está cheia. As luzes diminuem e a música começa devagar."
     },
     {
       "id": 3,
-      "fr": "Irlan, lui, veut apprendre la guitare. « Chaque jour, je joue dix minutes, dit-il. C'est difficile mais j'aime ça. Un jour, je vais jouer pour la famille ! » Iris rit : « Papa musicien ! »",
-      "pt": "Irlan, por sua vez, quer aprender violão. « Todos os dias, toco dez minutos, diz ele. É difícil mas eu gosto. Um dia, vou tocar para a família! » Íris ri: « Papai músico! »"
+      "fr": "Le chanteur prend le micro. Sa voix remplit la salle et tout le monde se tait.",
+      "pt": "O cantor pega o microfone. A voz dele enche a sala e todo mundo fica em silêncio."
     },
     {
       "id": 4,
-      "fr": "Le dimanche, la famille va à un concert gratuit dans un parc. « Écoutez le rythme ! dit Andréa. On entend la voix des chanteurs et la musique des instruments. C'est merveilleux ! »",
-      "pt": "No domingo, a família vai a um concerto gratuito num parque. « Escutem o ritmo! diz Andréa. Ouve-se a voz dos cantores e a música dos instrumentos. É maravilhoso! »"
+      "fr": "Andréa ferme les yeux et écoute. « J'adore cette chanson », murmure-t-elle.",
+      "pt": "Andréa fecha os olhos e escuta. «Adoro esta canção», murmura ela."
+    },
+    {
+      "id": 5,
+      "fr": "Le guitariste joue un solo. Irlan regarde ses doigts bouger vite sur les cordes.",
+      "pt": "O guitarrista toca um solo. Irlan olha os dedos dele se moverem rápido nas cordas."
+    },
+    {
+      "id": 6,
+      "fr": "« Tu joues d'un instrument ? » demande Andréa. « Non, mais j'aimerais apprendre », dit Irlan.",
+      "pt": "«Você toca algum instrumento?», pergunta Andréa. «Não, mas eu gostaria de aprender», diz Irlan."
+    },
+    {
+      "id": 7,
+      "fr": "Une chanson lente commence. Des couples se lèvent et dansent devant la scène.",
+      "pt": "Uma canção lenta começa. Casais se levantam e dançam diante do palco."
+    },
+    {
+      "id": 8,
+      "fr": "« On danse ? » demande Irlan en tendant la main. Andréa sourit et accepte.",
+      "pt": "«A gente dança?», pergunta Irlan estendendo a mão. Andréa sorri e aceita."
+    },
+    {
+      "id": 9,
+      "fr": "Ils dansent lentement, au rythme de la mélodie. Le temps semble s'arrêter.",
+      "pt": "Eles dançam devagar, no ritmo da melodia. O tempo parece parar."
+    },
+    {
+      "id": 10,
+      "fr": "« C'est notre chanson maintenant », dit Andréa. « Chaque fois que je l'entendrai, je penserai à toi. »",
+      "pt": "«Agora é a nossa canção», diz Andréa. «Cada vez que eu ouvi-la, vou pensar em você.»"
+    },
+    {
+      "id": 11,
+      "fr": "Le concert finit sous les applaudissements. Ils sortent la main dans la main.",
+      "pt": "O concerto termina sob os aplausos. Eles saem de mãos dadas."
+    },
+    {
+      "id": 12,
+      "fr": "Dans la rue, Andréa fredonne la mélodie. Irlan sourit : « Tu chantes bien. » Elle rougit : « Seulement pour toi. »",
+      "pt": "Na rua, Andréa cantarola a melodia. Irlan sorri: «Você canta bem.» Ela cora: «Só para você.»"
     }
   ],
   "vocabularyDictionary": [
@@ -35,218 +75,218 @@
       "term": "la musique",
       "definitionPt": "a música",
       "definitionFr": "Art des sons.",
-      "inflections": ["la musique", "une musique", "des musiques"],
+      "inflections": ["la musique", "une musique"],
       "ptTargets": ["música"],
       "examples": [
-        { "level": "A1", "fr": "J'aime la musique.", "pt": "Eu gosto de música." },
-        { "level": "A2-B1", "fr": "La famille écoute de la musique le samedi.", "pt": "A família ouve música no sábado." },
-        { "level": "B2", "fr": "La musique, douce, accompagne les soirées en famille.", "pt": "A música, suave, acompanha as noites em família." },
-        { "level": "C1-C2", "fr": "C'est la musique qui, universelle, parle toutes les langues.", "pt": "É a música que, universal, fala todas as línguas." }
+        { "level": "A1", "fr": "La musique est belle.", "pt": "A música é bonita." },
+        { "level": "A2-B1", "fr": "La musique commence doucement.", "pt": "A música começa devagar." },
+        { "level": "B2", "fr": "La musique adoucit les cœurs et rassemble les gens.", "pt": "A música adoça os corações e reúne as pessoas." },
+        { "level": "C1-C2", "fr": "C'est la musique qui, sans un mot, dit ce que les mots ne peuvent pas dire.", "pt": "É a música que, sem uma palavra, diz o que as palavras não conseguem dizer." }
       ]
     },
     {
       "term": "la chanson",
       "definitionPt": "a canção",
-      "definitionFr": "Morceau de musique avec des paroles.",
+      "definitionFr": "Texte chanté avec une musique.",
       "inflections": ["la chanson", "une chanson", "des chansons"],
       "ptTargets": ["canção", "música"],
       "examples": [
-        { "level": "A1", "fr": "La chanson est belle.", "pt": "A canção é bonita." },
-        { "level": "A2-B1", "fr": "Ils écoutent des chansons françaises.", "pt": "Eles ouvem canções francesas." },
-        { "level": "B2", "fr": "Cette chanson, célèbre, parle de la mer.", "pt": "Essa canção, famosa, fala do mar." },
-        { "level": "C1-C2", "fr": "C'est la chanson qui, chantée, réunit les générations.", "pt": "É a canção que, cantada, reúne as gerações." }
+        { "level": "A1", "fr": "La chanson est lente.", "pt": "A canção é lenta." },
+        { "level": "A2-B1", "fr": "J'adore cette chanson.", "pt": "Adoro esta canção." },
+        { "level": "B2", "fr": "Cette chanson leur rappelle leur première danse.", "pt": "Esta canção lembra a primeira dança deles." },
+        { "level": "C1-C2", "fr": "C'est la chanson qui, entendue des années plus tard, rouvre un souvenir intact.", "pt": "É a canção que, ouvida anos depois, reabre uma lembrança intacta." }
+      ]
+    },
+    {
+      "term": "le concert",
+      "definitionPt": "o concerto (show)",
+      "definitionFr": "Spectacle musical.",
+      "inflections": ["le concert", "un concert", "des concerts"],
+      "ptTargets": ["concerto", "show"],
+      "examples": [
+        { "level": "A1", "fr": "Le concert est ce soir.", "pt": "O concerto é esta noite." },
+        { "level": "A2-B1", "fr": "Irlan a deux billets pour le concert.", "pt": "Irlan tem duas entradas para o concerto." },
+        { "level": "B2", "fr": "Le concert se termine sous les applaudissements.", "pt": "O concerto termina sob os aplausos." },
+        { "level": "C1-C2", "fr": "C'est le concert qui, le temps d'une soirée, fait battre toute une salle au même rythme.", "pt": "É o concerto que, por uma noite, faz toda uma sala bater no mesmo ritmo." }
+      ]
+    },
+    {
+      "term": "écouter",
+      "definitionPt": "escutar / ouvir",
+      "definitionFr": "Porter attention à un son.",
+      "inflections": ["écouter", "j'écoute", "nous écoutons"],
+      "ptTargets": ["escutar", "ouvir"],
+      "examples": [
+        { "level": "A1", "fr": "J'écoute la musique.", "pt": "Eu escuto a música." },
+        { "level": "A2-B1", "fr": "Andréa écoute la chanson les yeux fermés.", "pt": "Andréa escuta a canção de olhos fechados." },
+        { "level": "B2", "fr": "Écouter attentivement permet de saisir chaque nuance.", "pt": "Escutar com atenção permite captar cada nuance." },
+        { "level": "C1-C2", "fr": "C'est en écoutant que l'on apprend à comprendre sans interrompre.", "pt": "É escutando que se aprende a compreender sem interromper." }
       ]
     },
     {
       "term": "chanter",
       "definitionPt": "cantar",
-      "definitionFr": "Produire des sons avec la voix.",
+      "definitionFr": "Produire une mélodie avec la voix.",
       "inflections": ["chanter", "je chante", "nous chantons"],
       "ptTargets": ["cantar"],
       "examples": [
-        { "level": "A1", "fr": "Je chante une chanson.", "pt": "Eu canto uma canção." },
-        { "level": "A2-B1", "fr": "Iris chante avec ses parents.", "pt": "Íris canta com os pais." },
-        { "level": "B2", "fr": "Chanter ensemble, c'est partager une émotion.", "pt": "Cantar juntos é partilhar uma emoção." },
-        { "level": "C1-C2", "fr": "C'est en chantant que l'on libère les sentiments.", "pt": "É cantando que se libertam os sentimentos." }
-      ]
-    },
-    {
-      "term": "écouter",
-      "definitionPt": "ouvir / escutar",
-      "definitionFr": "Porter attention aux sons.",
-      "inflections": ["écouter", "j'écoute", "nous écoutons"],
-      "ptTargets": ["ouvir", "escutar"],
-      "examples": [
-        { "level": "A1", "fr": "J'écoute la musique.", "pt": "Eu ouço música." },
-        { "level": "A2-B1", "fr": "Ils écoutent des chansons à la maison.", "pt": "Eles ouvem canções em casa." },
-        { "level": "B2", "fr": "Écouter de la musique calme l'esprit.", "pt": "Ouvir música acalma a mente." },
-        { "level": "C1-C2", "fr": "C'est en écoutant que l'on comprend l'autre.", "pt": "É ouvindo que se compreende o outro." }
-      ]
-    },
-    {
-      "term": "le piano",
-      "definitionPt": "o piano",
-      "definitionFr": "Instrument de musique à clavier.",
-      "inflections": ["le piano", "un piano", "des pianos"],
-      "ptTargets": ["piano"],
-      "examples": [
-        { "level": "A1", "fr": "Le piano est noir.", "pt": "O piano é preto." },
-        { "level": "A2-B1", "fr": "Andréa joue du piano.", "pt": "Andréa toca piano." },
-        { "level": "B2", "fr": "Le piano, élégant, remplit la maison de mélodies.", "pt": "O piano, elegante, enche a casa de melodias." },
-        { "level": "C1-C2", "fr": "C'est le piano qui, délicat, traduit les émotions en notes.", "pt": "É o piano que, delicado, traduz as emoções em notas." }
+        { "level": "A1", "fr": "Elle chante bien.", "pt": "Ela canta bem." },
+        { "level": "A2-B1", "fr": "Andréa fredonne et chante doucement.", "pt": "Andréa cantarola e canta baixinho." },
+        { "level": "B2", "fr": "Chanter ensemble renforce la complicité.", "pt": "Cantar juntos reforça a cumplicidade." },
+        { "level": "C1-C2", "fr": "C'est en chantant que l'on libère une émotion trop grande pour le silence.", "pt": "É cantando que se liberta uma emoção grande demais para o silêncio." }
       ]
     },
     {
       "term": "la guitare",
       "definitionPt": "o violão / a guitarra",
-      "definitionFr": "Instrument de musique à cordes.",
+      "definitionFr": "Instrument à cordes.",
       "inflections": ["la guitare", "une guitare", "des guitares"],
       "ptTargets": ["violão", "guitarra"],
       "examples": [
         { "level": "A1", "fr": "La guitare est belle.", "pt": "O violão é bonito." },
-        { "level": "A2-B1", "fr": "Irlan veut apprendre la guitare.", "pt": "Irlan quer aprender violão." },
-        { "level": "B2", "fr": "La guitare, chantante, accompagne les soirées.", "pt": "O violão, cantante, acompanha as noites." },
-        { "level": "C1-C2", "fr": "C'est la guitare qui, voyageuse, suit les musiciens.", "pt": "É o violão que, viajante, segue os músicos." }
-      ]
-    },
-    {
-      "term": "le concert",
-      "definitionPt": "o concerto / show",
-      "definitionFr": "Spectacle de musique.",
-      "inflections": ["le concert", "un concert", "des concerts"],
-      "ptTargets": ["concerto", "show"],
-      "examples": [
-        { "level": "A1", "fr": "Le concert est gratuit.", "pt": "O concerto é gratuito." },
-        { "level": "A2-B1", "fr": "La famille va à un concert dans un parc.", "pt": "A família vai a um concerto num parque." },
-        { "level": "B2", "fr": "Le concert, joyeux, attire beaucoup de monde.", "pt": "O concerto, alegre, atrai muita gente." },
-        { "level": "C1-C2", "fr": "C'est le concert qui, vivant, célèbre la musique ensemble.", "pt": "É o concerto que, vivo, celebra a música juntos." }
+        { "level": "A2-B1", "fr": "Le guitariste joue un solo.", "pt": "O guitarrista toca um solo." },
+        { "level": "B2", "fr": "Apprendre la guitare demande de la patience.", "pt": "Aprender violão exige paciência." },
+        { "level": "C1-C2", "fr": "C'est la guitare qui, entre des mains habiles, raconte une histoire sans paroles.", "pt": "É o violão que, em mãos hábeis, conta uma história sem palavras." }
       ]
     },
     {
       "term": "la voix",
       "definitionPt": "a voz",
-      "definitionFr": "Son produit par la bouche.",
+      "definitionFr": "Son produit par la gorge.",
       "inflections": ["la voix", "une voix", "des voix"],
       "ptTargets": ["voz"],
       "examples": [
         { "level": "A1", "fr": "La voix est douce.", "pt": "A voz é suave." },
-        { "level": "A2-B1", "fr": "On entend la voix des chanteurs.", "pt": "Ouve-se a voz dos cantores." },
-        { "level": "B2", "fr": "La voix, juste, porte la chanson très loin.", "pt": "A voz, afinada, leva a canção bem longe." },
-        { "level": "C1-C2", "fr": "C'est la voix qui, unique, identifie chaque chanteur.", "pt": "É a voz que, única, identifica cada cantor." }
+        { "level": "A2-B1", "fr": "La voix du chanteur remplit la salle.", "pt": "A voz do cantor enche a sala." },
+        { "level": "B2", "fr": "Une voix claire porte loin sans effort.", "pt": "Uma voz clara alcança longe sem esforço." },
+        { "level": "C1-C2", "fr": "C'est la voix qui, plus que les mots, révèle l'émotion.", "pt": "É a voz que, mais do que as palavras, revela a emoção." }
+      ]
+    },
+    {
+      "term": "danser",
+      "definitionPt": "dançar",
+      "definitionFr": "Bouger au rythme de la musique.",
+      "inflections": ["danser", "je danse", "nous dansons"],
+      "ptTargets": ["dançar"],
+      "examples": [
+        { "level": "A1", "fr": "Ils dansent ensemble.", "pt": "Eles dançam juntos." },
+        { "level": "A2-B1", "fr": "Ils dansent lentement au rythme de la mélodie.", "pt": "Eles dançam devagar no ritmo da melodia." },
+        { "level": "B2", "fr": "Danser libère le corps et allège l'esprit.", "pt": "Dançar liberta o corpo e alivia a mente." },
+        { "level": "C1-C2", "fr": "C'est en dansant que deux personnes apprennent à se suivre sans se marcher dessus.", "pt": "É dançando que duas pessoas aprendem a se seguir sem pisar uma na outra." }
+      ]
+    },
+    {
+      "term": "la mélodie",
+      "definitionPt": "a melodia",
+      "definitionFr": "Suite de sons agréables.",
+      "inflections": ["la mélodie", "une mélodie", "des mélodies"],
+      "ptTargets": ["melodia"],
+      "examples": [
+        { "level": "A1", "fr": "La mélodie est douce.", "pt": "A melodia é suave." },
+        { "level": "A2-B1", "fr": "Ils dansent au rythme de la mélodie.", "pt": "Eles dançam no ritmo da melodia." },
+        { "level": "B2", "fr": "La mélodie reste en tête toute la soirée.", "pt": "A melodia fica na cabeça a noite toda." },
+        { "level": "C1-C2", "fr": "C'est la mélodie qui, simple et tenace, traverse les années sans vieillir.", "pt": "É a melodia que, simples e persistente, atravessa os anos sem envelhecer." }
       ]
     },
     {
       "term": "le rythme",
       "definitionPt": "o ritmo",
-      "definitionFr": "Cadence de la musique.",
+      "definitionFr": "Cadence d'une musique.",
       "inflections": ["le rythme", "un rythme", "des rythmes"],
       "ptTargets": ["ritmo"],
       "examples": [
         { "level": "A1", "fr": "Le rythme est rapide.", "pt": "O ritmo é rápido." },
-        { "level": "A2-B1", "fr": "Écoutez le rythme de la chanson !", "pt": "Escutem o ritmo da canção!" },
-        { "level": "B2", "fr": "Le rythme, entraînant, fait bouger tout le monde.", "pt": "O ritmo, contagiante, faz todo mundo se mexer." },
-        { "level": "C1-C2", "fr": "C'est le rythme qui, battant, donne vie à la musique.", "pt": "É o ritmo que, batendo, dá vida à música." }
+        { "level": "A2-B1", "fr": "Ils dansent au rythme de la mélodie.", "pt": "Eles dançam no ritmo da melodia." },
+        { "level": "B2", "fr": "Le rythme de la chanson donne envie de bouger.", "pt": "O ritmo da canção dá vontade de se mexer." },
+        { "level": "C1-C2", "fr": "C'est le rythme qui, comme la vie, exige de savoir accélérer et ralentir.", "pt": "É o ritmo que, como a vida, exige saber acelerar e desacelerar." }
       ]
     },
     {
-      "term": "l'instrument",
-      "definitionPt": "o instrumento",
-      "definitionFr": "Objet pour faire de la musique.",
-      "inflections": ["l'instrument", "un instrument", "des instruments"],
-      "ptTargets": ["instrumento"],
+      "term": "le piano",
+      "definitionPt": "o piano",
+      "definitionFr": "Instrument à clavier.",
+      "inflections": ["le piano", "un piano", "des pianos"],
+      "ptTargets": ["piano"],
       "examples": [
-        { "level": "A1", "fr": "L'instrument est petit.", "pt": "O instrumento é pequeno." },
-        { "level": "A2-B1", "fr": "On entend la musique des instruments.", "pt": "Ouve-se a música dos instrumentos." },
-        { "level": "B2", "fr": "Les instruments, réunis, forment un orchestre.", "pt": "Os instrumentos, reunidos, formam uma orquestra." },
-        { "level": "C1-C2", "fr": "C'est l'instrument qui, choisi, exprime la personnalité du musicien.", "pt": "É o instrumento que, escolhido, exprime a personalidade do músico." }
+        { "level": "A1", "fr": "Le piano est noir.", "pt": "O piano é preto." },
+        { "level": "A2-B1", "fr": "Le pianiste accompagne le chanteur.", "pt": "O pianista acompanha o cantor." },
+        { "level": "B2", "fr": "Le piano apporte une douceur au concert.", "pt": "O piano traz uma doçura ao concerto." },
+        { "level": "C1-C2", "fr": "C'est le piano qui, sous les doigts, transforme le silence en émotion.", "pt": "É o piano que, sob os dedos, transforma o silêncio em emoção." }
       ]
     },
     {
-      "term": "merveilleux",
-      "definitionPt": "maravilhoso",
-      "definitionFr": "Très beau, étonnant.",
-      "inflections": ["merveilleux", "merveilleuse", "merveilleuses"],
-      "ptTargets": ["maravilhoso"],
+      "term": "fredonner",
+      "definitionPt": "cantarolar",
+      "definitionFr": "Chanter à mi-voix, bouche fermée.",
+      "inflections": ["fredonner", "je fredonne", "nous fredonnons"],
+      "ptTargets": ["cantarolar"],
       "examples": [
-        { "level": "A1", "fr": "Le concert est merveilleux.", "pt": "O concerto é maravilhoso." },
-        { "level": "A2-B1", "fr": "Andréa dit : « C'est merveilleux ! »", "pt": "Andréa diz: « É maravilhoso! »" },
-        { "level": "B2", "fr": "La soirée, musicale, est merveilleuse.", "pt": "A noite, musical, é maravilhosa." },
-        { "level": "C1-C2", "fr": "C'est merveilleux de partager la musique en famille.", "pt": "É maravilhoso partilhar a música em família." }
-      ]
-    },
-    {
-      "term": "les vacances",
-      "definitionPt": "as férias",
-      "definitionFr": "Période de repos.",
-      "inflections": ["les vacances", "des vacances"],
-      "ptTargets": ["férias"],
-      "examples": [
-        { "level": "A1", "fr": "Les vacances sont belles.", "pt": "As férias são bonitas." },
-        { "level": "A2-B1", "fr": "La chanson parle des vacances.", "pt": "A canção fala das férias." },
-        { "level": "B2", "fr": "Les vacances, attendues, permettent de se reposer.", "pt": "As férias, esperadas, permitem descansar." },
-        { "level": "C1-C2", "fr": "C'est pendant les vacances que l'on se retrouve en famille.", "pt": "É durante as férias que a família se reencontra." }
+        { "level": "A1", "fr": "Elle fredonne une chanson.", "pt": "Ela cantarola uma canção." },
+        { "level": "A2-B1", "fr": "Andréa fredonne la mélodie dans la rue.", "pt": "Andréa cantarola a melodia na rua." },
+        { "level": "B2", "fr": "Fredonner aide à retenir une mélodie.", "pt": "Cantarolar ajuda a memorizar uma melodia." },
+        { "level": "C1-C2", "fr": "C'est en fredonnant que l'on garde près de soi la musique des jours heureux.", "pt": "É cantarolando que se mantém perto de si a música dos dias felizes." }
       ]
     }
   ],
   "grammarTip": {
-    "ruleTitle": "Jouer de / jouer à : tocar ou jogar",
-    "explanationPt": "'Jouer de' + instrumento = tocar: 'jouer du piano' (tocar piano), 'jouer de la guitare' (tocar violão). 'Jouer à' + esporte = jogar: 'jouer au football' (jogar futebol).",
-    "exampleFr": "Andréa joue du piano depuis son enfance. Irlan veut jouer de la guitare.",
-    "examplePt": "Andréa toca piano desde a infância. Irlan quer tocar violão.",
-    "practiceQuestion": "Complete: 'Andréa joue _____ piano.'",
-    "options": ["du", "au", "de la"],
+    "ruleTitle": "Jouer de + instrument",
+    "explanationPt": "Para instrumentos musicais usa-se 'jouer de' + instrumento: jouer de la guitare (tocar violão), jouer du piano (tocar piano).",
+    "exampleFr": "Tu joues d'un instrument ?",
+    "examplePt": "Você toca algum instrumento?",
+    "practiceQuestion": "Complete: 'Elle joue _____ piano.'",
+    "options": ["du", "de la", "des"],
     "correctIndex": 0,
     "points": [
       {
-        "ruleTitle": "L'impératif d'écouter : ouça!",
-        "explanationPt": "Imperativo de 'écouter': 'Écoute !' (ouça! - tu), 'Écoutons !' (ouçamos!), 'Écoutez !' (ouçam! - vous).",
-        "exampleFr": "Écoute, Iris ! Écoutez le rythme !",
-        "examplePt": "Escuta, Íris! Escutem o ritmo!",
-        "practiceQuestion": "Complete: '_____ le rythme !' (vous)",
-        "options": ["Écoutez", "Écoute", "Écoutons"],
+        "ruleTitle": "J'aimerais + infinitif",
+        "explanationPt": "'J'aimerais' (eu gostaria) é o condicional de 'aimer', usado para desejos polidos: j'aimerais apprendre, j'aimerais danser.",
+        "exampleFr": "J'aimerais apprendre à jouer.",
+        "examplePt": "Eu gostaria de aprender a tocar.",
+        "practiceQuestion": "Complete: 'J'_____ apprendre la guitare.'",
+        "options": ["aimerais", "aime", "aimais"],
         "correctIndex": 0
       },
       {
-        "ruleTitle": "Depuis : desde (tempo)",
-        "explanationPt": "'Depuis' + duração = desde/por (há). Ex.: 'Andréa joue du piano depuis son enfance' (Andréa toca piano desde a infância).",
-        "exampleFr": "Andréa joue du piano depuis son enfance.",
-        "examplePt": "Andréa toca piano desde a infância.",
-        "practiceQuestion": "Complete: 'Andréa joue du piano _____ son enfance.'",
-        "options": ["depuis", "pendant", "après"],
+        "ruleTitle": "Chaque fois que...",
+        "explanationPt": "'Chaque fois que' (cada vez que) introduz uma ação repetida: chaque fois que je l'entends, je pense à toi.",
+        "exampleFr": "Chaque fois que je l'entendrai, je penserai à toi.",
+        "examplePt": "Cada vez que eu a ouvir, vou pensar em você.",
+        "practiceQuestion": "Complete: '_____ fois que je l'écoute, je souris.'",
+        "options": ["Chaque", "Tous", "Beaucoup"],
         "correctIndex": 0
       }
     ]
   },
   "quizQuestions": [
     {
-      "question": "O que a família faz no sábado à noite?",
-      "options": ["ouve canções francesas", "vai ao cinema", "cozinha"],
+      "question": "Para onde Irlan leva Andréa?",
+      "options": ["a um concerto", "a um restaurante", "a um museu"],
       "correctIndex": 0,
-      "explanation": "Le samedi soir, ils écoutent des chansons françaises à la maison."
+      "explanation": "Ils vont à un concert."
     },
     {
-      "question": "Que instrumento Andréa toca desde a infância?",
-      "options": ["piano", "violão", "violino"],
+      "question": "O que eles fazem durante a música lenta?",
+      "options": ["dançam", "dormem", "saem"],
       "correctIndex": 0,
-      "explanation": "Andréa joue du piano depuis son enfance."
+      "explanation": "Ils dansent lentement."
     },
     {
-      "question": "Qual é a canção de Charles Trenet citada?",
-      "options": ["La Mer", "La Vie en Rose", "Les Champs-Élysées"],
+      "question": "Qual instrumento aparece no concerto?",
+      "options": ["a guitarra", "a flauta", "o tambor"],
       "correctIndex": 0,
-      "explanation": "C'est une chanson de Charles Trenet, 'La Mer'."
+      "explanation": "Le guitariste joue un solo."
     },
     {
-      "question": "Complete: 'Andréa joue _____ piano.'",
-      "options": ["du", "au", "de la"],
+      "question": "Complete: 'Elle joue _____ piano.'",
+      "options": ["du", "de la", "des"],
       "correctIndex": 0,
-      "explanation": "Jouer du piano = tocar piano."
+      "explanation": "jouer du piano."
     },
     {
-      "question": "Complete: 'Andréa joue du piano _____ son enfance.'",
-      "options": ["depuis", "pendant", "après"],
+      "question": "Complete: 'J'_____ apprendre la guitare.'",
+      "options": ["aimerais", "aime", "aimais"],
       "correctIndex": 0,
-      "explanation": "Depuis = desde."
+      "explanation": "J'aimerais apprendre."
     }
   ]
 }

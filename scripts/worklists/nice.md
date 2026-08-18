@@ -1,10 +1,10 @@
 # #11 Nice — C2
 
-**5152 palavras** ainda precisam aparecer nos textos das aulas desta cidade.
+**5149 palavras** ainda precisam aparecer nos textos das aulas desta cidade.
 
 Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aventura do Irlan.
 
-## C2 (5152)
+## C2 (5149)
 
 - [ ] **abâtardir** — abastardar
 - [ ] **abductif** — abdutivo
@@ -810,7 +810,6 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **fraternel** — fraterno
 - [ ] **fraterniser** — fraternizar; confraternizar
 - [ ] **frauder** — fraudar
-- [ ] **fredonner** — cantarolar
 - [ ] **frelater** — adulterar; falsificar
 - [ ] **frémir** — estremecer
 - [ ] **fretter** — encamisar; anelar
@@ -3541,7 +3540,6 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **le guêpier** — o abelharuco
 - [ ] **le guéridon** — a mesa redonda
 - [ ] **le gueules** — o goles (vermelho)
-- [ ] **le guitariste** — o guitarrista
 - [ ] **le gymnaste** — o ginasta
 - [ ] **le gypse** — o gesso
 - [ ] **le hachoir** — o picador
@@ -4176,7 +4174,6 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **le télescope spatial** — o telescópio espacial
 - [ ] **le tellure** — o telúrio
 - [ ] **le tempo** — o andamento
-- [ ] **le tenant** — o tenente
 - [ ] **le tennesse** — o tenesso
 - [ ] **le tennisman** — o tenista
 - [ ] **le ténor** — o tenor
