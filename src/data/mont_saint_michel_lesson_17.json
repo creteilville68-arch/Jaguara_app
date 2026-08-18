@@ -7,7 +7,7 @@
   "titlePt": "Tombelaine e as ilhas Chausey",
   "subtitleFr": "Au large, des îles racontent l'histoire de la baie",
   "subtitlePt": "Ao largo, ilhas contam a história da baía",
-  "summaryPt": "Nesta Aula 17 (A2/B1), a família observa do Mont as ilhas da baía: Tombelaine, perto, e o arquipélago de Chausey, ao longe. Irlan explica que Tombelaine já foi um convento e que Chausey é feita de mais de cinquenta ilhas. O aluno pratica o imparfait de descrição e as comparações (plus petit que, aussi ancien que).",
+  "summaryPt": "Nesta Aula 17 (A2/B1), o casal observa do Mont as ilhas da baía: Tombelaine, perto, e o arquipélago de Chausey, ao longe. Irlan explica que Tombelaine já foi um convento e que Chausey é feita de mais de cinquenta ilhas. O aluno pratica o imparfait de descrição e as comparações (plus petit que, aussi ancien que).",
   "paragraphs": [
     {
       "id": 1,
@@ -21,13 +21,53 @@
     },
     {
       "id": 3,
-      "fr": "« Tombelaine est plus petite que le Mont », a observé Íris. « Oui, mais elle est aussi ancienne que lui », a répondu Irlan. « Les deux îles gardent des secrets. »",
-      "pt": "« Tombelaine é menor que o Mont », observou Íris. « Sim, mas é tão antiga quanto ele », respondeu Irlan. « As duas ilhas guardam segredos. »"
+      "fr": "« Tombelaine est plus petite que le Mont », a observé Andréa. « Oui, mais elle est aussi ancienne que lui », a répondu Irlan. « Les deux îles gardent des secrets. »",
+      "pt": "« Tombelaine é menor que o Mont », observou Andréa. « Sim, mas é tão antiga quanto ele », respondeu Irlan. « As duas ilhas guardam segredos. »"
     },
     {
       "id": 4,
       "fr": "Quand la marée montait, les îles semblaient flotter sur l'eau. « Regarde, le Mont et Tombelaine sont devenus des bateaux », a plaisanté Andréa.",
       "pt": "Quando a maré subia, as ilhas pareciam flutuar sobre a água. « Olha, o Mont e Tombelaine viraram barcos », brincou Andréa."
+    },
+    {
+      "id": 5,
+      "fr": "Irlan a montré les rochers. « Le granit de Chausey est célèbre. Il a servi à bâtir des églises et des quais. »",
+      "pt": "Irlan mostrou os rochedos. « O granito de Chausey é famoso. Serviu para construir igrejas e cais. »"
+    },
+    {
+      "id": 6,
+      "fr": "« Et le granit du Mont ? » a demandé Andréa. « Il vient de la mer et de la pierre ensemble », a répondu Irlan. « C'est une île née de la lumière. »",
+      "pt": "« E o granito do Mont? » perguntou Andréa. « Ele vem do mar e da pedra juntos », respondeu Irlan. « É uma ilha nascida da luz. »"
+    },
+    {
+      "id": 7,
+      "fr": "La brume montait doucement et les îles semblaient disparaître au large. « On dirait un mirage », a murmuré Andréa.",
+      "pt": "A bruma subia suavemente e as ilhas pareciam desaparecer ao largo. « Parece uma miragem », murmurou Andréa."
+    },
+    {
+      "id": 8,
+      "fr": "Irlan a sorti l'Atlas. « La planche parle d'une île qui flotte. Regarde : Tombelaine, Chausey, et un point que personne ne nomme. »",
+      "pt": "Irlan tirou o Atlas. « A prancha fala de uma ilha que flutua. Olha: Tombelaine, Chausey e um ponto que ninguém nomeia. »"
+    },
+    {
+      "id": 9,
+      "fr": "« Le secret est peut-être là », a dit Andréa. « Une île qui n'apparaît qu'à marée basse. Un rocher oublié sur les cartes. »",
+      "pt": "« O segredo talvez esteja aí », disse Andréa. « Uma ilha que só aparece na maré baixa. Um rochedo esquecido nos mapas. »"
+    },
+    {
+      "id": 10,
+      "fr": "« Nous l'observerons demain pendant la traversée », a dit Irlan. « Le guide connaît les îles et les sables. »",
+      "pt": "« Vamos observá-la amanhã durante a travessia », disse Irlan. « O guia conhece as ilhas e as areias. »"
+    },
+    {
+      "id": 11,
+      "fr": "Au large, un bateau gris est passé lentement. « Il tourne autour du Mont », a remarqué Andréa. « Comme s'il attendait quelque chose. »",
+      "pt": "Ao largo, um barco cinza passou lentamente. « Ele gira em volta do Mont », notou Andréa. « Como se esperasse alguma coisa. »"
+    },
+    {
+      "id": 12,
+      "fr": "« Il attend la marée, comme nous », a répondu Irlan. « Mais nous serons plus rapides. » Ils sont rentrés avant que la brume ne recouvre tout.",
+      "pt": "« Ele espera a maré, como nós », respondeu Irlan. « Mas seremos mais rápidos. » Eles voltaram antes que a bruma cobrisse tudo."
     }
   ],
   "vocabularyDictionary": [
@@ -169,7 +209,7 @@
       "ptTargets": ["observar"],
       "examples": [
         { "level": "A1", "fr": "J'observe les oiseaux.", "pt": "Observo os pássaros." },
-        { "level": "A2-B1", "fr": "Íris a observé les îles au loin.", "pt": "Íris observou as ilhas ao longe." },
+        { "level": "A2-B1", "fr": "Andréa a observé les îles au loin.", "pt": "Andréa observou as ilhas ao longe." },
         { "level": "B2", "fr": "Le géographe observait les mouvements de la marée.", "pt": "O geógrafo observava os movimentos da maré." },
         { "level": "C1-C2", "fr": "Observer la baie, c'est voir le temps travailler.", "pt": "Observar a baía é ver o tempo trabalhar." }
       ]

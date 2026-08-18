@@ -7,7 +7,7 @@
   "titlePt": "O Passeur: a van rumo ao Mont",
   "subtitleFr": "Depuis 2012, des navettes électriques mènent les visiteurs au rocher",
   "subtitlePt": "Desde 2012, vans elétricas levam os visitantes ao rochedo",
-  "summaryPt": "Nesta Aula 19 (A2/B1), a família descobre o Passeur, o ônibus elétrico que leva os visitantes do estacionamento até o Mont desde 2012, substituindo os carros na digue. O aluno pratica o contraste entre passado e presente (autrefois, les voitures traversaient / aujourd'hui, les navettes circulent) e o futur proche.",
+  "summaryPt": "Nesta Aula 19 (A2/B1), o casal descobre o Passeur, o ônibus elétrico que leva os visitantes do estacionamento até o Mont desde 2012, substituindo os carros na digue. O aluno pratica o contraste entre passado e presente (autrefois, les voitures traversaient / aujourd'hui, les navettes circulent) e o futur proche.",
   "paragraphs": [
     {
       "id": 1,
@@ -21,13 +21,53 @@
     },
     {
       "id": 3,
-      "fr": "La famille est montée dans la navette. « Nous allons arriver au Mont en dix minutes », a annoncé Irlan. « Et nous allons marcher sur la digue au retour. »",
-      "pt": "A família entrou na van. « Vamos chegar ao Mont em dez minutos », anunciou Irlan. « E vamos caminhar pelo dique na volta. »"
+      "fr": "Le couple est monté dans la navette. « Nous allons arriver au Mont en dix minutes », a annoncé Irlan. « Et nous allons marcher sur la digue au retour. »",
+      "pt": "O casal entrou na van. « Vamos chegar ao Mont em dez minutos », anunciou Irlan. « E vamos caminhar pelo dique na volta. »"
     },
     {
       "id": 4,
-      "fr": "De la navette, on voyait la baie changer de couleur. « Regardez, la mer monte déjà », a dit Íris. « Le Passeur est plus rapide que la marée ! »",
-      "pt": "Da van, via-se a baía mudar de cor. « Olhem, o mar já está subindo », disse Íris. « O Passeur é mais rápido que a maré! »"
+      "fr": "De la navette, on voyait la baie changer de couleur. « Regarde, la mer monte déjà », a dit Andréa. « Le Passeur est plus rapide que la marée ! »",
+      "pt": "Da van, via-se a baía mudar de cor. « Olha, o mar já está subindo », disse Andréa. « O Passeur é mais rápido que a maré! »"
+    },
+    {
+      "id": 5,
+      "fr": "« La navette électrique ne fait presque aucun bruit », a dit Irlan. « C'est mieux pour la baie et pour les oiseaux. »",
+      "pt": "« A van elétrica quase não faz barulho », disse Irlan. « É melhor para a baía e para os pássaros. »"
+    },
+    {
+      "id": 6,
+      "fr": "« Protéger le Mont, c'est protéger le silence », a ajouté Andréa. « Moins de voitures, moins de bruit, plus de ciel. »",
+      "pt": "« Proteger o Mont é proteger o silêncio », acrescentou Andréa. « Menos carros, menos barulho, mais céu. »"
+    },
+    {
+      "id": 7,
+      "fr": "Le parking était resté sur le continent. « La digue est redevenue un chemin de promenade », a expliqué Irlan. « On arrive au Mont en marchant, comme les pèlerins. »",
+      "pt": "O estacionamento ficou no continente. « O dique voltou a ser um caminho de passeio », explicou Irlan. « Chega-se ao Mont caminhando, como os peregrinos. »"
+    },
+    {
+      "id": 8,
+      "fr": "« Tout change, même le Mont », a murmuré Andréa. « Mais la marée, elle, ne change pas. Elle revient, toujours. »",
+      "pt": "« Tudo muda, até o Mont », murmurou Andréa. « Mas a maré, essa, não muda. Ela volta, sempre. »"
+    },
+    {
+      "id": 9,
+      "fr": "Irlan a regardé la grève par la fenêtre. « Il y a un homme sur la digue. Il ne monte pas dans la navette. Il marche seul. »",
+      "pt": "Irlan olhou o areal pela janela. « Há um homem no dique. Ele não entra na van. Caminha sozinho. »"
+    },
+    {
+      "id": 10,
+      "fr": "« Le manteau gris ? » a demandé Andréa. « Il préfère arriver à pied. Il ne veut pas être vu. »",
+      "pt": "« O sobretudo cinza? » perguntou Andréa. « Ele prefere chegar a pé. Não quer ser visto. »"
+    },
+    {
+      "id": 11,
+      "fr": "« Il nous laisse la navette et prend la baie », a dit Irlan. « Nous devons rester discrets. »",
+      "pt": "« Ele nos deixa a van e toma a baía », disse Irlan. « Precisamos ser discretos. »"
+    },
+    {
+      "id": 12,
+      "fr": "La navette est arrivée au pied des remparts. « Nous y sommes », a dit Andréa. « Et lui aussi. » Ils sont descendus, l'œil sur la digue.",
+      "pt": "A van chegou ao pé das muralhas. « Chegamos », disse Andréa. « E ele também. » Eles desceram, de olho no dique."
     }
   ],
   "vocabularyDictionary": [
@@ -243,10 +283,10 @@
       "explanation": "Desde 2012, os visitantes usam a navette ou caminham pela digue."
     },
     {
-      "question": "O que Íris observou da navette?",
+      "question": "O que Andréa observou da navette?",
       "options": ["A maré já subindo, mudando a cor da baía", "Um cardume de peixes", "Um navio pirata"],
       "correctIndex": 0,
-      "explanation": "Da van, a família viu a maré subir e a baía mudar de cor."
+      "explanation": "Da van, o casal viu a maré subir e a baía mudar de cor."
     }
   ]
 }
