@@ -108,52 +108,52 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **la vague de froid** — a onda de frio
 - [ ] **la visite guidée** — a visita guiada
 - [ ] **le banquier** — o gerente de banco
-- [ ] **le blouson** — a jaqueta
-- [ ] **le bracelet** — a pulseira
-- [ ] **le bureau (meuble)** — a escrivaninha
-- [ ] **le caddie** — o carrinho de compras
-- [ ] **le café-restaurant** — o café-restaurante
-- [ ] **le célibataire** — o solteiro
-- [ ] **le cerf** — o cervo
-- [ ] **le chef cuisinier** — o chefe de cozinha
-- [ ] **le ciel couvert** — o céu nublado
-- [ ] **le climatiseur** — o ar-condicionado
-- [ ] **le code secret** — a senha / o código secreto
-- [ ] **le comédien** — o ator
-- [ ] **le congé** — a folga / as férias
-- [ ] **le corbeau** — o corvo
-- [ ] **le courriel** — o e-mail
-- [ ] **le crocodile** — o crocodilo
-- [ ] **le degré** — o grau
-- [ ] **le détour** — o desvio / a volta
-- [ ] **le distributeur de billets** — o caixa eletrônico
-- [ ] **le faucon** — o falcão
-- [ ] **le fiancé** — o noivo
-- [ ] **le film comique** — o filme de comédia
-- [ ] **le film dramatique** — o filme de drama
-- [ ] **le formulaire** — o formulário
-- [ ] **le grain de beauté** — a pinta / o sinal
-- [ ] **le groupe de musique** — a banda
-- [ ] **le hérisson** — o ouriço
-- [ ] **le hublot** — a janela do avião
-- [ ] **le jeu de société** — o jogo de tabuleiro
-- [ ] **le lavabo** — o lavatório
-- [ ] **le lit simple** — a cama de solteiro
-- [ ] **le locataire** — o inquilino
-- [ ] **le loisir** — o lazer
-- [ ] **le mal de dents** — a dor de dente
-- [ ] **le mal de ventre** — a dor de barriga
-- [ ] **le maquillage** — a maquiagem
-- [ ] **le message privé** — a mensagem privada
-- [ ] **le mois dernier** — o mês passado
-- [ ] **le mouchoir** — o lenço
-- [ ] **le nœud papillon** — a gravata borboleta
-- [ ] **le pansement** — o curativo
-- [ ] **le parc d’attractions** — o parque de diversões
-- [ ] **le passeport** — o passaporte
-- [ ] **le phoque** — a foca
-- [ ] **le pilote d’avion** — o piloto de avião
-- [ ] **le plat principal** — o prato principal
+- [ ] **le bistrot** — o bistrô
+- [ ] **le bonnet** — o gorro
+- [ ] **le bulletin météo** — o boletim meteorológico
+- [ ] **le câble de chargement** — o cabo de carregamento
+- [ ] **le café serré** — o café forte
+- [ ] **le cauchemar** — o pesadelo
+- [ ] **le centilitre** — o centilitro
+- [ ] **le chauffeur de taxi** — o motorista de táxi
+- [ ] **le chèque** — o cheque
+- [ ] **le cintre** — o cabide
+- [ ] **le cockpit** — a cabine do piloto
+- [ ] **le coin non-fumeur** — a área de não fumantes
+- [ ] **le compte bancaire** — a conta bancária
+- [ ] **le corail** — o coral
+- [ ] **le coupe-ongles** — o cortador de unhas
+- [ ] **le crabe** — o caranguejo
+- [ ] **le débarras** — o quartinho de despejo
+- [ ] **le destinataire** — o destinatário
+- [ ] **le distributeur automatique** — a máquina automática
+- [ ] **le fast-food** — o fast-food
+- [ ] **le feu vert** — o semáforo verde
+- [ ] **le film alimentaire** — o filme plástico
+- [ ] **le film d’animation** — o filme de animação
+- [ ] **le forfait** — o plano (celular)
+- [ ] **le gel douche** — o gel de banho
+- [ ] **le groupe de discussion** — o grupo de discussão
+- [ ] **le guide touristique** — o guia turístico
+- [ ] **le hobby** — o hobby
+- [ ] **le jet d'eau** — o jato d'água
+- [ ] **le kir** — o kir (coquetel)
+- [ ] **le lit double** — a cama de casal
+- [ ] **le livret** — a caderneta
+- [ ] **le logiciel** — o software
+- [ ] **le lustre** — o lustre
+- [ ] **le mal de gorge** — a dor de garganta
+- [ ] **le manège** — o carrossel
+- [ ] **le matelas** — o colchão
+- [ ] **le millilitre** — o mililitro
+- [ ] **le mot de passe wifi** — a senha do wifi
+- [ ] **le navigateur** — o navegador
+- [ ] **le panneau indicateur** — a placa de sinalização
+- [ ] **le papier toilette** — o papel higiênico
+- [ ] **le passe-temps** — o passatempo
+- [ ] **le petit-déjeuner compris** — café da manhã incluído
+- [ ] **le pichet** — a jarra
+- [ ] **le plat du jour** — o prato do dia
 - [ ] **le portefeuille** — a carteira
 - [ ] **le pull-over** — o pulôver
 - [ ] **le réceptionniste** — o recepcionista

@@ -1,268 +1,292 @@
 {
   "id": "paris_lesson_16",
   "cityId": "paris",
-  "domain": "Gastronomia & Vinhos",
+  "domain": "Cotidiano & Alimentação",
   "level": "Iniciante (A1)",
   "titleFr": "Le dîner français",
   "titlePt": "O jantar francês",
-  "subtitleFr": "Le plateau de fromages, la baguette et un verre de vin",
-  "subtitlePt": "A tábua de queijos, a baguete e um copo de vinho",
-  "summaryPt": "Nesta Aula 16 (A1), a família janta em um bistrô parisiense. Eles comem um plateau de fromages com baguete e bebem um copo de vinho. Andréa explica os hábitos franceses à mesa. O aluno aprende o verbo 'boire' no presente e revisa os artigos partitivos.",
+  "subtitleFr": "La soupe, la ratatouille, le fromage et la glace",
+  "subtitlePt": "A sopa, o ratatouille, o queijo e o sorvete",
+  "summaryPt": "Nesta Aula 16 (A1), Irlan e Andréa jantam num restaurante do bairro: sopa de legumes, camarão, ratatouille, prato de queijos e sorvete de chocolate. O aluno aprende os verbos do 1º grupo (-er) no presente.",
   "paragraphs": [
     {
       "id": 1,
-      "fr": "Samedi soir, la famille dîne dans un bistrot parisien. Le serveur apporte du pain, de l'eau et une carafe de vin.",
-      "pt": "Sábado à noite, a família janta num bistrô parisiense. O garçom traz pão, água e uma jarra de vinho."
+      "fr": "Samedi soir, Irlan et Andréa dînent dans un petit restaurant du quartier. Le serveur apporte du pain et de l'eau.",
+      "pt": "Sábado à noite, Irlan e Andréa jantam num restaurante pequeno do bairro. O garçom traz pão e água."
     },
     {
       "id": 2,
-      "fr": "Andréa choisit un plateau de fromages. Il y a du camembert, du chèvre et du comté. Irlan goûte chaque fromage avec de la baguette.",
-      "pt": "Andréa escolhe uma tábua de queijos. Há camembert, queijo de cabra e comté. Irlan prova cada queijo com baguete."
+      "fr": "Ils commandent une soupe de légumes pour commencer. Elle est chaude et bonne.",
+      "pt": "Eles pedem uma sopa de legumes para começar. Ela é quente e boa."
     },
     {
       "id": 3,
-      "fr": "« En France, on boit du vin avec le repas, mais toujours avec modération », explique Andréa. Íris boit de l'eau dans un grand verre.",
-      "pt": "«Na França, bebe-se vinho com a refeição, mas sempre com moderação», explica Andréa. Íris bebe água num copo grande."
+      "fr": "Ensuite, Andréa choisit des crevettes. Irlan goûte. « C'est frais », dit-il.",
+      "pt": "Em seguida, Andréa escolhe camarões. Irlan prova. «É fresco», diz ele."
     },
     {
       "id": 4,
-      "fr": "Le serveur apporte des desserts : des crêpes et des fruits. La famille mange et rit ensemble. « C'est le meilleur dîner de la semaine ! » dit Irlan.",
-      "pt": "O garçom traz sobremesas: crêpes e frutas. A família come e ri junta. «É o melhor jantar da semana!» diz Irlan."
+      "fr": "Pour le plat principal, ils partagent une ratatouille. C'est un plat du sud de la France.",
+      "pt": "Como prato principal, eles dividem um ratatouille. É um prato do sul da França."
+    },
+    {
+      "id": 5,
+      "fr": "« Elle est un peu acide, mais très bonne », dit Irlan. Andréa sourit.",
+      "pt": "«É um pouco ácido, mas muito bom», diz Irlan. Andréa sorri."
+    },
+    {
+      "id": 6,
+      "fr": "Après, le serveur apporte un plateau de fromages. Il y a du camembert et du comté.",
+      "pt": "Depois, o garçom traz uma tábua de queijos. Há camembert e comté."
+    },
+    {
+      "id": 7,
+      "fr": "Irlan goûte chaque fromage avec de la baguette. Andréa explique les noms.",
+      "pt": "Irlan prova cada queijo com baguete. Andréa explica os nomes."
+    },
+    {
+      "id": 8,
+      "fr": "« En France, le fromage vient après le plat principal », dit-elle.",
+      "pt": "«Na França, o queijo vem depois do prato principal», diz ela."
+    },
+    {
+      "id": 9,
+      "fr": "Pour le dessert, ils prennent une glace au chocolat. Elle est froide et douce.",
+      "pt": "De sobremesa, eles pedem um sorvete de chocolate. É frio e doce."
+    },
+    {
+      "id": 10,
+      "fr": "Irlan regarde Andréa à la lumière de la bougie. « C'est le meilleur dîner de la semaine », dit-il.",
+      "pt": "Irlan olha para a Andréa à luz da vela. «É o melhor jantar da semana», diz ele."
+    },
+    {
+      "id": 11,
+      "fr": "Andréa sourit : « Et ce n'est que le début. »",
+      "pt": "Andréa sorri: «E isto é só o começo.»"
+    },
+    {
+      "id": 12,
+      "fr": "Le soir, ils rentrent à pied. La ville est calme et ils marchent lentement.",
+      "pt": "À noite, eles voltam a pé. A cidade está calma e eles caminham devagar."
     }
   ],
   "vocabularyDictionary": [
     {
-      "term": "bistrot",
-      "definitionPt": "bistrô",
-      "definitionFr": "Petit restaurant français, souvent simple et chaleureux.",
-      "inflections": ["le bistrot", "un bistrot", "des bistrots"],
-      "ptTargets": ["bistrô"],
+      "term": "le dîner",
+      "definitionPt": "o jantar",
+      "definitionFr": "Le repas du soir.",
+      "inflections": ["le dîner", "un dîner", "des dîners"],
+      "ptTargets": ["jantar"],
       "examples": [
-        { "level": "A1", "fr": "La famille dîne dans un bistrot.", "pt": "A família janta num bistrô." },
-        { "level": "A2-B1", "fr": "Le bistrot est petit mais chaleureux.", "pt": "O bistrô é pequeno, mas acolhedor." },
-        { "level": "B2", "fr": "Les bistrots parisiens sont des lieux de convivialité.", "pt": "Os bistrôs parisienses são lugares de convivência." },
-        { "level": "C1-C2", "fr": "Le bistrot traditionnel est un symbole de l'art de vivre français.", "pt": "O bistrô tradicional é um símbolo da arte de viver francesa." }
+        { "level": "A1", "fr": "Le dîner est prêt.", "pt": "O jantar está pronto." },
+        { "level": "A2-B1", "fr": "Nous dînons à vingt heures.", "pt": "Nós jantamos às vinte horas." },
+        { "level": "B2", "fr": "Ce dîner au restaurant restera un beau souvenir.", "pt": "Este jantar no restaurante ficará uma bela lembrança." },
+        { "level": "C1-C2", "fr": "Le dîner, partagé sans hâte, est un rituel qui rapproche.", "pt": "O jantar, compartilhado sem pressa, é um ritual que aproxima." }
       ]
     },
     {
-      "term": "serveur",
-      "definitionPt": "garçom",
-      "definitionFr": "Personne qui sert les clients dans un restaurant.",
+      "term": "le restaurant",
+      "definitionPt": "o restaurante",
+      "definitionFr": "Lieu où l'on mange des repas préparés.",
+      "inflections": ["le restaurant", "un restaurant", "des restaurants"],
+      "ptTargets": ["restaurante"],
+      "examples": [
+        { "level": "A1", "fr": "Ils dînent dans un restaurant.", "pt": "Eles jantam num restaurante." },
+        { "level": "A2-B1", "fr": "Ce restaurant du quartier est très bon.", "pt": "Este restaurante do bairro é muito bom." },
+        { "level": "B2", "fr": "Le restaurant affiche complet le samedi soir.", "pt": "O restaurante fica lotado no sábado à noite." },
+        { "level": "C1-C2", "fr": "Un bon restaurant ne se juge pas à son décor, mais à son assiette.", "pt": "Um bom restaurante não se julga pela decoração, mas pelo prato." }
+      ]
+    },
+    {
+      "term": "le serveur",
+      "definitionPt": "o garçom",
+      "definitionFr": "Personne qui sert les clients au restaurant.",
       "inflections": ["le serveur", "un serveur", "des serveurs"],
       "ptTargets": ["garçom"],
       "examples": [
         { "level": "A1", "fr": "Le serveur apporte du pain.", "pt": "O garçom traz pão." },
-        { "level": "A2-B1", "fr": "Le serveur est très gentil.", "pt": "O garçom é muito gentil." },
-        { "level": "B2", "fr": "Le serveur recommande les plats du jour.", "pt": "O garçom recomenda os pratos do dia." },
-        { "level": "C1-C2", "fr": "Un bon serveur anticipe les besoins de ses clients.", "pt": "Um bom garçom antecipa as necessidades dos seus clientes." }
+        { "level": "A2-B1", "fr": "Le serveur prend la commande.", "pt": "O garçom anota o pedido." },
+        { "level": "B2", "fr": "Le serveur nous recommande le plat du jour.", "pt": "O garçom nos recomenda o prato do dia." },
+        { "level": "C1-C2", "fr": "Un serveur attentif devine les besoins avant qu'on ne les exprime.", "pt": "Um garçom atencioso adivinha as necessidades antes de serem ditas." }
       ]
     },
     {
-      "term": "carafe",
-      "definitionPt": "jarra, garrafa de mesa",
-      "definitionFr": "Récipient pour servir l'eau ou le vin.",
-      "inflections": ["la carafe", "une carafe", "des carafes"],
-      "ptTargets": ["jarra"],
+      "term": "la soupe de légumes",
+      "definitionPt": "a sopa de legumes",
+      "definitionFr": "Soupe préparée avec des légumes.",
+      "inflections": ["la soupe de légumes", "une soupe de légumes", "des soupes de légumes"],
+      "ptTargets": ["sopa de legumes"],
       "examples": [
-        { "level": "A1", "fr": "Le serveur apporte une carafe d'eau.", "pt": "O garçom traz uma jarra de água." },
-        { "level": "A2-B1", "fr": "La carafe est pleine de vin.", "pt": "A jarra está cheia de vinho." },
-        { "level": "B2", "fr": "Une carafe d'eau fraîche accompagne le repas.", "pt": "Uma jarra de água fresca acompanha a refeição." },
-        { "level": "C1-C2", "fr": "La carafe en verre est un élément classique de la table française.", "pt": "A jarra de vidro é um elemento clássico da mesa francesa." }
+        { "level": "A1", "fr": "Ils commandent une soupe de légumes.", "pt": "Eles pedem uma sopa de legumes." },
+        { "level": "A2-B1", "fr": "La soupe de légumes est chaude.", "pt": "A sopa de legumes está quente." },
+        { "level": "B2", "fr": "Une soupe de légumes maison réchauffe les soirs d'hiver.", "pt": "Uma sopa de legumes caseira aquece as noites de inverno." },
+        { "level": "C1-C2", "fr": "La soupe de légumes, humble et nourrissante, est la base de la cuisine familiale.", "pt": "A sopa de legumes, humilde e nutritiva, é a base da cozinha familiar." }
       ]
     },
     {
-      "term": "vin",
-      "definitionPt": "vinho",
-      "definitionFr": "Boisson alcoolisée faite à partir du raisin.",
-      "inflections": ["le vin", "un vin", "des vins"],
-      "ptTargets": ["vinho"],
+      "term": "la crevette",
+      "definitionPt": "o camarão",
+      "definitionFr": "Petit animal de mer à la chair délicate.",
+      "inflections": ["la crevette", "une crevette", "des crevettes"],
+      "ptTargets": ["camarão"],
       "examples": [
-        { "level": "A1", "fr": "On boit du vin avec le repas.", "pt": "Bebe-se vinho com a refeição." },
-        { "level": "A2-B1", "fr": "La France produit de très bons vins.", "pt": "A França produz vinhos muito bons." },
-        { "level": "B2", "fr": "Un bon vin accompagne parfaitement le fromage.", "pt": "Um bom vinho acompanha perfeitamente o queijo." },
-        { "level": "C1-C2", "fr": "Le vin est au cœur de la culture gastronomique française.", "pt": "O vinho está no coração da cultura gastronômica francesa." }
+        { "level": "A1", "fr": "Andréa choisit des crevettes.", "pt": "Andréa escolhe camarões." },
+        { "level": "A2-B1", "fr": "Les crevettes sont fraîches.", "pt": "Os camarões estão frescos." },
+        { "level": "B2", "fr": "Elle prépare des crevettes à l'ail et au persil.", "pt": "Ela prepara camarões com alho e salsa." },
+        { "level": "C1-C2", "fr": "La crevette, cuite juste à point, garde une chair ferme et sucrée.", "pt": "O camarão, cozido no ponto certo, conserva uma carne firme e adocicada." }
       ]
     },
     {
-      "term": "plateau",
-      "definitionPt": "tábua, bandeja, prato de servir",
-      "definitionFr": "Grand plat pour servir plusieurs aliments.",
-      "inflections": ["le plateau", "un plateau", "des plateaux"],
-      "ptTargets": ["tábua", "bandeja"],
+      "term": "la ratatouille",
+      "definitionPt": "o ratatouille",
+      "definitionFr": "Plat de légumes mijotés du sud de la France.",
+      "inflections": ["la ratatouille", "une ratatouille"],
+      "ptTargets": ["ratatouille"],
       "examples": [
-        { "level": "A1", "fr": "Andréa choisit un plateau de fromages.", "pt": "Andréa escolhe uma tábua de queijos." },
-        { "level": "A2-B1", "fr": "Le plateau de fromages est très bon.", "pt": "A tábua de queijos é muito boa." },
-        { "level": "B2", "fr": "Le plateau de fromages est un classique du repas français.", "pt": "A tábua de queijos é um clássico da refeição francesa." },
-        { "level": "C1-C2", "fr": "Un plateau de fromages affinés couronne un grand dîner.", "pt": "Uma tábua de queijos maturados coroa um grande jantar." }
+        { "level": "A1", "fr": "Ils partagent une ratatouille.", "pt": "Eles dividem um ratatouille." },
+        { "level": "A2-B1", "fr": "La ratatouille est un plat de légumes.", "pt": "O ratatouille é um prato de legumes." },
+        { "level": "B2", "fr": "La ratatouille se prépare avec des aubergines et des tomates.", "pt": "O ratatouille se prepara com berinjelas e tomates." },
+        { "level": "C1-C2", "fr": "La ratatouille, mijotée lentement, concentre le goût de l'été.", "pt": "O ratatouille, cozido lentamente, concentra o sabor do verão." }
       ]
     },
     {
-      "term": "goûter",
-      "definitionPt": "provar, degustar",
-      "definitionFr": "Essayer la saveur d'un aliment.",
-      "inflections": ["je goûte", "goûter", "il goûte"],
-      "ptTargets": ["provar", "degustar"],
+      "term": "acide",
+      "definitionPt": "azedo, ácido",
+      "definitionFr": "Qui a un goût piquant, comme le citron.",
+      "inflections": ["acide", "acides"],
+      "ptTargets": ["azedo", "ácido"],
       "examples": [
-        { "level": "A1", "fr": "Irlan goûte chaque fromage.", "pt": "Irlan prova cada queijo." },
-        { "level": "A2-B1", "fr": "Tu veux goûter ce vin ?", "pt": "Você quer provar este vinho?" },
-        { "level": "B2", "fr": "Elle goûte les plats avant de les servir.", "pt": "Ela prova os pratos antes de servi-los." },
-        { "level": "C1-C2", "fr": "Goûter les produits locaux est une façon de découvrir une région.", "pt": "Provar os produtos locais é uma forma de descobrir uma região." }
+        { "level": "A1", "fr": "Le citron est acide.", "pt": "O limão é azedo." },
+        { "level": "A2-B1", "fr": "La sauce est un peu acide.", "pt": "O molho é um pouco ácido." },
+        { "level": "B2", "fr": "Le goût acide de la tomate équilibre le plat.", "pt": "O gosto ácido do tomate equilibra o prato." },
+        { "level": "C1-C2", "fr": "Une pointe acide relève les saveurs sans les couvrir.", "pt": "Um toque ácido realça os sabores sem cobri-los." }
       ]
     },
     {
-      "term": "modération",
-      "definitionPt": "moderação",
-      "definitionFr": "Action de ne pas dépasser une certaine limite.",
-      "inflections": ["la modération"],
-      "ptTargets": ["moderação"],
+      "term": "le plateau de fromages",
+      "definitionPt": "a tábua de queijos",
+      "definitionFr": "Assortiment de fromages servi sur un plateau.",
+      "inflections": ["le plateau de fromages", "un plateau de fromages", "des plateaux de fromages"],
+      "ptTargets": ["tábua de queijos"],
       "examples": [
-        { "level": "A1", "fr": "On boit avec modération.", "pt": "Bebe-se com moderação." },
-        { "level": "A2-B1", "fr": "La modération est importante à table.", "pt": "A moderação é importante à mesa." },
-        { "level": "B2", "fr": "Tout est une question de modération.", "pt": "Tudo é uma questão de moderação." },
-        { "level": "C1-C2", "fr": "La modération est une vertu au cœur de l'art de vivre.", "pt": "A moderação é uma virtude no coração da arte de viver." }
+        { "level": "A1", "fr": "Le serveur apporte un plateau de fromages.", "pt": "O garçom traz uma tábua de queijos." },
+        { "level": "A2-B1", "fr": "Le plateau de fromages a plusieurs variétés.", "pt": "A tábua de queijos tem várias variedades." },
+        { "level": "B2", "fr": "Un plateau de fromages se déguste avant le dessert.", "pt": "Uma tábua de queijos se degusta antes da sobremesa." },
+        { "level": "C1-C2", "fr": "Le plateau de fromages, du plus doux au plus fort, raconte les terroirs de France.", "pt": "A tábua de queijos, do mais suave ao mais forte, conta os terroirs da França." }
       ]
     },
     {
-      "term": "dessert",
-      "definitionPt": "sobremesa",
+      "term": "le camembert",
+      "definitionPt": "o camembert (queijo)",
+      "definitionFr": "Fromage rond et crémeux de Normandie.",
+      "inflections": ["le camembert", "un camembert", "des camemberts"],
+      "ptTargets": ["camembert"],
+      "examples": [
+        { "level": "A1", "fr": "Il y a du camembert sur le plateau.", "pt": "Há camembert na tábua." },
+        { "level": "A2-B1", "fr": "Le camembert est crémeux.", "pt": "O camembert é cremoso." },
+        { "level": "B2", "fr": "Le camembert se mange avec du pain frais.", "pt": "O camembert se come com pão fresco." },
+        { "level": "C1-C2", "fr": "Le camembert, emblème de la Normandie, a un goût qui ne se confond pas.", "pt": "O camembert, emblema da Normandia, tem um gosto inconfundível." }
+      ]
+    },
+    {
+      "term": "le dessert",
+      "definitionPt": "a sobremesa",
       "definitionFr": "Plat sucré servi à la fin du repas.",
       "inflections": ["le dessert", "un dessert", "des desserts"],
       "ptTargets": ["sobremesa"],
       "examples": [
-        { "level": "A1", "fr": "Le serveur apporte des desserts.", "pt": "O garçom traz sobremesas." },
-        { "level": "A2-B1", "fr": "J'aime les desserts français.", "pt": "Eu gosto das sobremesas francesas." },
-        { "level": "B2", "fr": "Le dessert est servi après le fromage.", "pt": "A sobremesa é servida depois do queijo." },
-        { "level": "C1-C2", "fr": "La pâtisserie française porte l'art du dessert à son sommet.", "pt": "A confeitaria francesa leva a arte da sobremesa ao seu ápice." }
+        { "level": "A1", "fr": "Le dessert est sucré.", "pt": "A sobremesa é doce." },
+        { "level": "A2-B1", "fr": "Pour le dessert, ils prennent une glace.", "pt": "De sobremesa, eles pedem um sorvete." },
+        { "level": "B2", "fr": "Le dessert clôture le repas en douceur.", "pt": "A sobremesa encerra a refeição com doçura." },
+        { "level": "C1-C2", "fr": "Un dessert réussi se goûte avec les yeux avant la cuillère.", "pt": "Uma sobremesa bem-feita se prova com os olhos antes da colher." }
       ]
     },
     {
-      "term": "fruit",
-      "definitionPt": "fruta",
-      "definitionFr": "Aliment sucré produit par les plantes.",
-      "inflections": ["le fruit", "un fruit", "des fruits"],
-      "ptTargets": ["fruta"],
+      "term": "la glace au chocolat",
+      "definitionPt": "o sorvete de chocolate",
+      "definitionFr": "Glace parfumée au chocolat.",
+      "inflections": ["la glace au chocolat", "une glace au chocolat", "des glaces au chocolat"],
+      "ptTargets": ["sorvete de chocolate"],
       "examples": [
-        { "level": "A1", "fr": "Nous mangeons des fruits.", "pt": "Nós comemos frutas." },
-        { "level": "A2-B1", "fr": "Les fruits sont bons pour la santé.", "pt": "As frutas são boas para a saúde." },
-        { "level": "B2", "fr": "Les fruits de saison ont plus de goût.", "pt": "As frutas da estação têm mais sabor." },
-        { "level": "C1-C2", "fr": "Une salade de fruits frais termine le repas avec légèreté.", "pt": "Uma salada de frutas frescas termina a refeição com leveza." }
+        { "level": "A1", "fr": "Ils prennent une glace au chocolat.", "pt": "Eles pedem um sorvete de chocolate." },
+        { "level": "A2-B1", "fr": "La glace au chocolat est froide et douce.", "pt": "O sorvete de chocolate é frio e doce." },
+        { "level": "B2", "fr": "Une glace au chocolat fond vite en été.", "pt": "Um sorvete de chocolate derrete rápido no verão." },
+        { "level": "C1-C2", "fr": "La glace au chocolat, simple et réconfortante, plaît à tous les âges.", "pt": "O sorvete de chocolate, simples e reconfortante, agrada a todas as idades." }
       ]
     },
     {
-      "term": "boire",
-      "definitionPt": "beber",
-      "definitionFr": "Avaler un liquide.",
-      "inflections": ["je bois", "boire", "il boit"],
-      "ptTargets": ["beber"],
+      "term": "la baguette",
+      "definitionPt": "a baguete",
+      "definitionFr": "Pain long et croustillant.",
+      "inflections": ["la baguette", "une baguette", "des baguettes"],
+      "ptTargets": ["baguete"],
       "examples": [
-        { "level": "A1", "fr": "Íris boit de l'eau.", "pt": "Íris bebe água." },
-        { "level": "A2-B1", "fr": "Nous buvons du café après le repas.", "pt": "Nós bebemos café depois da refeição." },
-        { "level": "B2", "fr": "Elle boit un verre d'eau tous les matins.", "pt": "Ela bebe um copo de água todas as manhãs." },
-        { "level": "C1-C2", "fr": "Boire avec modération est une règle d'or en France.", "pt": "Beber com moderação é uma regra de ouro na França." }
-      ]
-    },
-    {
-      "term": "expliquer",
-      "definitionPt": "explicar",
-      "definitionFr": "Faire comprendre quelque chose.",
-      "inflections": ["j'explique", "expliquer", "il explique"],
-      "ptTargets": ["explicar"],
-      "examples": [
-        { "level": "A1", "fr": "Andréa explique les habitudes françaises.", "pt": "Andréa explica os hábitos franceses." },
-        { "level": "A2-B1", "fr": "Le professeur explique la leçon.", "pt": "O professor explica a lição." },
-        { "level": "B2", "fr": "Elle explique les règles du repas français.", "pt": "Ela explica as regras da refeição francesa." },
-        { "level": "C1-C2", "fr": "Expliquer une culture, c'est traduire des traditions invisibles.", "pt": "Explicar uma cultura é traduzir tradições invisíveis." }
-      ]
-    },
-    {
-      "term": "ensemble",
-      "definitionPt": "juntos, juntamente",
-      "definitionFr": "Les uns avec les autres.",
-      "inflections": ["ensemble"],
-      "ptTargets": ["juntos"],
-      "examples": [
-        { "level": "A1", "fr": "La famille mange et rit ensemble.", "pt": "A família come e ri junta." },
-        { "level": "A2-B1", "fr": "Nous dînons ensemble le dimanche.", "pt": "Nós jantamos juntos no domingo." },
-        { "level": "B2", "fr": "Vivre ensemble demande du respect.", "pt": "Viver juntos exige respeito." },
-        { "level": "C1-C2", "fr": "Partager un repas ensemble est un moment de lien social.", "pt": "Partilhar uma refeição juntos é um momento de vínculo social." }
+        { "level": "A1", "fr": "Irlan goûte le fromage avec de la baguette.", "pt": "Irlan prova o queijo com baguete." },
+        { "level": "A2-B1", "fr": "J'achète une baguette fraîche.", "pt": "Compro uma baguete fresca." },
+        { "level": "B2", "fr": "La baguette croustillante accompagne tous les repas.", "pt": "A baguete crocante acompanha todas as refeições." },
+        { "level": "C1-C2", "fr": "La baguette, symbole du quotidien, fait partie du patrimoine français.", "pt": "A baguete, símbolo do cotidiano, faz parte do patrimônio francês." }
       ]
     }
   ],
   "grammarTip": {
-    "ruleTitle": "Le verbe boire au présent",
-    "explanationPt": "O verbo 'boire' (beber) é irregular: je bois, tu bois, il/elle boit, nous buvons, vous buvez, ils/elles boivent. Ex.: 'Íris boit de l'eau.'",
-    "exampleFr": "Íris boit de l'eau dans un grand verre.",
-    "examplePt": "Íris bebe água num copo grande.",
-    "practiceQuestion": "Complete com a forma correta: 'Nous _____ du café après le repas.'",
-    "options": ["buvons", "bois", "boivent"],
+    "ruleTitle": "Les verbes du 1er groupe (-er) au présent",
+    "explanationPt": "Os verbos em -er no presente: 'je goûte', 'tu goûtes', 'il goûte', 'nous goûtons', 'vous goûtez', 'ils goûtent'. Ex.: 'Irlan goûte le fromage', 'Ils dînent au restaurant.'",
+    "exampleFr": "Irlan goûte le fromage et ils dînent au restaurant.",
+    "examplePt": "Irlan prova o queijo e eles jantam no restaurante.",
+    "practiceQuestion": "Complete: 'Nous _____ un dessert.'",
+    "options": ["partageons", "partagez", "partagent"],
     "correctIndex": 0,
     "points": [
       {
-        "ruleTitle": "Le verbe boire au présent",
-        "explanationPt": "'boire' no presente: je bois, il boit, nous buvons, ils boivent. Ex.: 'On boit du vin avec le repas.'",
-        "exampleFr": "On boit du vin avec le repas, mais toujours avec modération.",
-        "examplePt": "Bebe-se vinho com a refeição, mas sempre com moderação.",
-        "practiceQuestion": "Complete: 'Ils _____ de l'eau après le sport.'",
-        "options": ["boivent", "buvons", "boit"],
+        "ruleTitle": "Les verbes en -er : goûter, partager, dîner",
+        "explanationPt": "'goûter' (provar), 'partager' (dividir) e 'dîner' (jantar) seguem o 1º grupo: je goûte, nous partageons, ils dînent. Ex.: 'Ils partagent une ratatouille.'",
+        "exampleFr": "Ils partagent une ratatouille.",
+        "examplePt": "Eles dividem um ratatouille.",
+        "practiceQuestion": "Complete: 'Elle _____ le plat.'",
+        "options": ["goûte", "goûtes", "goûtons"],
         "correctIndex": 0
       },
       {
-        "ruleTitle": "Les articles partitifs : du, de la, des",
-        "explanationPt": "Para quantidades indefinidas: 'du' (masc.), 'de la' (fem.), 'de l'' (vogal), 'des' (plural). Ex.: 'du vin', 'de l'eau', 'des fruits'.",
-        "exampleFr": "Il y a du camembert, du chèvre et du comté sur le plateau.",
-        "examplePt": "Há camembert, queijo de cabra e comté na tábua.",
-        "practiceQuestion": "Complete com o partitivo correto: 'Nous mangeons _____ pain avec le fromage.'",
-        "options": ["du", "de la", "des"],
+        "ruleTitle": "Les verbes en -er : expliquer, commander",
+        "explanationPt": "'expliquer' (explicar) e 'commander' (pedir) também são do 1º grupo: elle explique, ils commandent. Ex.: 'Andréa explique les noms des fromages.'",
+        "exampleFr": "Andréa explique les noms des fromages.",
+        "examplePt": "Andréa explica os nomes dos queijos.",
+        "practiceQuestion": "Complete: 'Ils _____ une soupe.'",
+        "options": ["commandent", "commande", "commandons"],
         "correctIndex": 0
       }
     ]
   },
   "quizQuestions": [
     {
-      "question": "Complete a frase do texto: 'Íris boit _____ dans un grand verre.'",
-      "options": ["de l'eau", "du vin", "des fruits"],
+      "question": "O que Irlan e Andréa pedem para começar?",
+      "options": ["Uma sopa de legumes", "Uma salada verde", "Um suco"],
       "correctIndex": 0,
-      "explanation": "No texto: 'Íris boit de l'eau dans un grand verre.'"
+      "explanation": "No texto: 'Ils commandent une soupe de légumes pour commencer.'"
     },
     {
-      "question": "Ordene corretamente as palavras da frase: [ du vin / on boit / avec le repas / , / ]",
-      "options": [
-        "On boit du vin avec le repas.",
-        "Du vin on boit avec le repas.",
-        "On boit avec le repas du vin."
-      ],
+      "question": "Que prato do sul da França eles dividem?",
+      "options": ["Ratatouille", "Blanquette", "Fondue"],
       "correctIndex": 0,
-      "explanation": "A frase exata do texto é 'On boit du vin avec le repas.'"
+      "explanation": "No texto: 'Ils partagent une ratatouille.'"
     },
     {
-      "question": "Como se traduz: 'Nós bebemos café depois da refeição'?",
-      "options": [
-        "Nous buvons du café après le repas.",
-        "Nous bois du café après le repas.",
-        "Nous buvons le café après le repas."
-      ],
+      "question": "O que há na tábua de queijos?",
+      "options": ["Camembert e comté", "Mussarela e parmesão", "Gouda e brie"],
       "correctIndex": 0,
-      "explanation": "'Nous buvons' = nós bebemos; 'du café' = café (partitivo)."
+      "explanation": "No texto: 'Il y a du camembert et du comté.'"
     },
     {
-      "question": "Identifique a frase com ERRO de conjugação do verbo boire:",
-      "options": [
-        "Je bois de l'eau.",
-        "Ils boivent du vin.",
-        "Elle bois de l'eau."
-      ],
-      "correctIndex": 2,
-      "explanation": "O erro é 'Elle bois': com 'elle', o verbo boire fica 'boit' ('Elle boit de l'eau.')."
+      "question": "Quando o queijo é servido na França, segundo Andréa?",
+      "options": ["Depois do prato principal", "Antes da sopa", "No café da manhã"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'En France, le fromage vient après le plat principal.'"
     },
     {
-      "question": "O que Andréa explica sobre o vinho na França?",
-      "options": [
-        "Bebe-se vinho com a refeição, mas sempre com moderação",
-        "Crianças bebem vinho no jantar",
-        "Nunca se bebe vinho na França"
-      ],
+      "question": "Qual é a sobremesa?",
+      "options": ["Sorvete de chocolate", "Crêpe", "Bolo"],
       "correctIndex": 0,
-      "explanation": "No texto: 'En France, on boit du vin avec le repas, mais toujours avec modération.'"
+      "explanation": "No texto: 'Pour le dessert, ils prennent une glace au chocolat.'"
     }
   ]
 }
