@@ -7,7 +7,7 @@
   "titlePt": "Os carneiros do prado salgado",
   "subtitleFr": "Dans les prés salés, les moutons paissent l'herbe que la mer a touchée",
   "subtitlePt": "Nos prados salgados, os carneiros pastam a erva que o mar tocou",
-  "summaryPt": "Nesta Aula 16 (A2/B1), a família descobre os moutons de pré-salé, os carneiros que pastam nas pradarias salgadas da baía e cuja carne tem um sabor único. Irlan, geógrafo, explica a formação dos prés-salés. O aluno pratica a descrição no imparfait e o vocabulário da natureza.",
+  "summaryPt": "Nesta Aula 16 (A2/B1), o casal descobre os moutons de pré-salé, os carneiros que pastam nas pradarias salgadas da baía e cuja carne tem um sabor único. Irlan, geógrafo, explica a formação dos prés-salés. O aluno pratica a descrição no imparfait e o vocabulário da natureza.",
   "paragraphs": [
     {
       "id": 1,
@@ -21,13 +21,53 @@
     },
     {
       "id": 3,
-      "fr": "Un mouton a levé la tête et a regardé la famille. Íris a ri : « Il dit bonjour ! » « Les moutons de pré-salé sont célèbres dans toute la France », a ajouté Irlan.",
-      "pt": "Um carneiro levantou a cabeça e olhou a família. Íris riu: « Ele diz olá! » « Os carneiros de prado salgado são famosos em toda a França », acrescentou Irlan."
+      "fr": "Un mouton a levé la tête et a regardé le couple. Andréa a ri : « Il dit bonjour ! » « Les moutons de pré-salé sont célèbres dans toute la France », a ajouté Irlan.",
+      "pt": "Um carneiro levantou a cabeça e olhou o casal. Andréa riu: « Ele diz olá! » « Os carneiros de prado salgado são famosos em toda a França », acrescentou Irlan."
     },
     {
       "id": 4,
-      "fr": "« Ce soir, nous allons goûter l'agneau de pré-salé au restaurant », a annoncé Andréa. « Tu vas voir, il a un goût unique. » Íris a applaudi.",
-      "pt": "« Hoje à noite, vamos provar o cordeiro de prado salgado no restaurante », anunciou Andréa. « Você vai ver, ele tem um sabor único. » Íris bateu palmas."
+      "fr": "« Ce soir, nous allons goûter l'agneau de pré-salé au restaurant », a annoncé Andréa. « Tu vas voir, il a un goût unique. » Irlan a souri.",
+      "pt": "« Hoje à noite, vamos provar o cordeiro de prado salgado no restaurante », anunciou Andréa. « Você vai ver, ele tem um sabor único. » Irlan sorriu."
+    },
+    {
+      "id": 5,
+      "fr": "Le berger est arrivé avec son troupeau. « La mer donne le sel, et les prés donnent l'herbe. C'est un équilibre unique au monde. »",
+      "pt": "O pastor chegou com seu rebanho. « O mar dá o sal, e os prados dão a erva. É um equilíbrio único no mundo. »"
+    },
+    {
+      "id": 6,
+      "fr": "« Le pré-salé est une signature de la baie », a dit Irlan. « Un goût qu'on ne retrouve nulle part ailleurs. »",
+      "pt": "« O prado salgado é uma assinatura da baía », disse Irlan. « Um sabor que não se encontra em nenhum outro lugar. »"
+    },
+    {
+      "id": 7,
+      "fr": "« Et l'agneau ? » a demandé Andréa. « Doux, parfumé, légèrement salé », a répondu le berger. « La viande garde la mémoire du vent et de la mer. »",
+      "pt": "« E o cordeiro? » perguntou Andréa. « Macio, perfumado, levemente salgado », respondeu o pastor. « A carne guarda a memória do vento e do mar. »"
+    },
+    {
+      "id": 8,
+      "fr": "Le berger a montré les dunes. « Un homme au manteau gris est passé ce matin. Il observait le troupeau, comme s'il cherchait quelque chose. »",
+      "pt": "O pastor apontou as dunas. « Um homem de sobretudo cinza passou esta manhã. Observava o rebanho, como se procurasse alguma coisa. »"
+    },
+    {
+      "id": 9,
+      "fr": "« Il a posé des questions sur les prés-salés ? » a demandé Irlan. « Non », a dit le berger. « Il regardait surtout les sentiers de la baie. »",
+      "pt": "« Ele fez perguntas sobre os prados salgados? » perguntou Irlan. « Não », disse o pastor. « Ele olhava sobretudo os trilhos da baía. »"
+    },
+    {
+      "id": 10,
+      "fr": "« Il repère les chemins de la marée basse », a murmuré Andréa. « Il veut traverser avant nous. »",
+      "pt": "« Ele está mapeando os caminhos da maré baixa », murmurou Andréa. « Quer atravessar antes de nós. »"
+    },
+    {
+      "id": 11,
+      "fr": "« Alors nous devons être prêts », a dit Irlan. « Le berger nous montrera le sentier le plus sûr. »",
+      "pt": "« Então precisamos estar prontos », disse Irlan. « O pastor nos mostrará o trilho mais seguro. »"
+    },
+    {
+      "id": 12,
+      "fr": "« La baie nourrit et la baie protège », a ajouté le berger. « Mais elle n'oublie jamais qui la respecte. » Le couple l'a remercié.",
+      "pt": "« A baía alimenta e a baía protege », acrescentou o pastor. « Mas ela nunca esquece quem a respeita. » O casal agradeceu."
     }
   ],
   "vocabularyDictionary": [
@@ -237,7 +277,7 @@
       "explanation": "O sal deixado pela maré na erva dá à carne um sabor único."
     },
     {
-      "question": "O que a família vai provar no restaurante?",
+      "question": "O que o casal vai provar no restaurante?",
       "options": ["L'agneau de pré-salé", "Uma omelete", "Um kouglof"],
       "correctIndex": 0,
       "explanation": "Andréa anunciou que à noite iriam provar o cordeiro de prado salgado."
