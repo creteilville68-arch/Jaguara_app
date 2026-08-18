@@ -3,31 +3,71 @@
   "cityId": "paris",
   "domain": "Escola & Aprendizado",
   "level": "Iniciante (A1)",
-  "titleFr": "L'école d'Iris",
-  "titlePt": "A escola de Íris",
-  "subtitleFr": "La classe, la maîtresse et les leçons",
-  "subtitlePt": "A sala, a professora e as lições",
-  "summaryPt": "Nesta Aula 37 (A1), Íris conta como é a escola em Paris. O aluno aprende o vocabulário escolar (école, classe, maîtresse, cahier, crayon, livre, apprendre, écrire, lire) e os verbos 'lire' e 'écrire'.",
+  "titleFr": "Les cours de français d'Irlan",
+  "titlePt": "As aulas de francês de Irlan",
+  "subtitleFr": "La classe, le professeur et les progrès",
+  "subtitlePt": "A sala, o professor e os progressos",
+  "summaryPt": "Nesta Aula 37 (A1), Irlan conta como são suas aulas de francês à noite. O aluno aprende o vocabulário escolar (école, classe, professeur, cahier, crayon, livre, apprendre, écrire, lire) e os verbos 'lire' e 'écrire'.",
   "paragraphs": [
     {
       "id": 1,
-      "fr": "Iris va à l'école tous les matins. « Mon école est près de la maison », dit-elle. Dans la classe, il y a une maîtresse et vingt-cinq élèves. Iris a un cahier, des crayons et des livres dans son cartable.",
-      "pt": "Íris vai à escola todas as manhãs. « Minha escola fica perto de casa », diz ela. Na sala, há uma professora e vinte e cinco alunos. Íris tem um caderno, lápis e livros na mochila."
+      "fr": "Irlan va à l'école de français tous les soirs, après le travail. « Mon école est près de la maison », dit-il.",
+      "pt": "Irlan vai à escola de francês todas as noites, depois do trabalho. «Minha escola fica perto de casa», diz ele."
     },
     {
       "id": 2,
-      "fr": "Le matin, la maîtresse dit : « Sortez vos cahiers, nous allons écrire. » Iris écrit les lettres de l'alphabet. « Bravo, Iris, tu écris très bien ! » dit la maîtresse. Iris est fière et contente.",
-      "pt": "De manhã, a professora diz: « Tirem seus cadernos, vamos escrever. » Íris escreve as letras do alfabeto. « Muito bem, Íris, você escreve muito bem! » diz a professora. Íris fica orgulhosa e contente."
+      "fr": "Dans la classe, il y a un professeur et douze élèves, venus de plusieurs pays. Irlan a un cahier, des crayons et des livres dans son cartable.",
+      "pt": "Na sala, há um professor e doze alunos, vindos de vários países. Irlan tem um caderno, lápis e livros na mochila."
     },
     {
       "id": 3,
-      "fr": "Après l'écriture, c'est la lecture. La maîtresse lit une petite histoire. « Aimez-vous les histoires ? » demande-t-elle. « Oui ! » crient les enfants. Iris lit aussi des mots simples : « chat », « maison », « soleil ».",
-      "pt": "Depois da escrita, é a leitura. A professora lê uma historinha. « Vocês gostam de histórias? » pergunta ela. « Sim! » gritam as crianças. Íris também lê palavras simples: « gato », « casa », « sol »."
+      "fr": "Le soir, le professeur dit : « Sortez vos cahiers, nous allons écrire. » Irlan écrit des phrases en français, avec application.",
+      "pt": "À noite, o professor diz: «Tirem os cadernos, vamos escrever.» Irlan escreve frases em francês, com capricho."
     },
     {
       "id": 4,
-      "fr": "À la récréation, les enfants jouent dans la cour. Iris joue avec ses amis et apprend des jeux nouveaux. « À l'école, dit-elle à ses parents, on apprend à lire, à écrire et à compter. Mais on apprend aussi à être amis ! »",
-      "pt": "No recreio, as crianças brincam no pátio. Íris brinca com os amigos e aprende brincadeiras novas. « Na escola, diz ela aos pais, aprende-se a ler, a escrever e a contar. Mas também se aprende a ser amigo! »"
+      "fr": "« Bravo, Irlan, tu écris très bien ! » dit le professeur. Irlan est fier et pense à Andréa.",
+      "pt": "«Muito bem, Irlan, você escreve muito bem!», diz o professor. Irlan fica orgulhoso e pensa em Andréa."
+    },
+    {
+      "id": 5,
+      "fr": "Après l'écriture, c'est la lecture. Le professeur lit une petite histoire. « Aimez-vous les histoires ? » demande-t-il. « Oui ! » crient les élèves.",
+      "pt": "Depois da escrita, é a leitura. O professor lê uma historinha. «Vocês gostam de histórias?», pergunta ele. «Sim!», gritam os alunos."
+    },
+    {
+      "id": 6,
+      "fr": "Irlan lit aussi des mots simples : « chat », « maison », « soleil ». Chaque mot est une petite victoire.",
+      "pt": "Irlan também lê palavras simples: «gato», «casa», «sol». Cada palavra é uma pequena vitória."
+    },
+    {
+      "id": 7,
+      "fr": "À la récréation, les élèves discutent dans la cour. Irlan parle avec un étudiant de son pays et apprend des expressions nouvelles.",
+      "pt": "No recreio, os alunos conversam no pátio. Irlan fala com um estudante do seu país e aprende expressões novas."
+    },
+    {
+      "id": 8,
+      "fr": "« À l'école, on apprend à lire, à écrire et à compter », dit Irlan. « Mais on apprend aussi à se faire des amis. »",
+      "pt": "«Na escola, aprende-se a ler, a escrever e a contar», diz Irlan. «Mas também se aprende a fazer amigos.»"
+    },
+    {
+      "id": 9,
+      "fr": "Le soir, Andréa l'attend. « Alors, tu as appris quoi aujourd'hui ? » demande-t-elle avec un sourire.",
+      "pt": "À noite, Andréa o espera. «Então, o que você aprendeu hoje?», pergunta ela com um sorriso."
+    },
+    {
+      "id": 10,
+      "fr": "« Une expression nouvelle », répond Irlan. « Et j'ai écrit une phrase entière sans faute. »",
+      "pt": "«Uma expressão nova», responde Irlan. «E escrevi uma frase inteira sem erro.»"
+    },
+    {
+      "id": 11,
+      "fr": "Andréa l'embrasse. « Tu progresses chaque semaine. Bientôt, tu me raconteras des histoires en français. »",
+      "pt": "Andréa o beija. «Você progride toda semana. Em breve, vai me contar histórias em francês.»"
+    },
+    {
+      "id": 12,
+      "fr": "« J'apprends cette langue pour comprendre ce pays... et pour mieux te comprendre, toi », dit Irlan. Andréa rougit et se blottit contre lui.",
+      "pt": "«Eu aprendo esta língua para entender este país... e para entender melhor você», diz Irlan. Andréa cora e se aconchega nele."
     }
   ],
   "vocabularyDictionary": [
@@ -39,9 +79,9 @@
       "ptTargets": ["escola"],
       "examples": [
         { "level": "A1", "fr": "L'école est près de la maison.", "pt": "A escola fica perto de casa." },
-        { "level": "A2-B1", "fr": "Iris va à l'école tous les matins.", "pt": "Íris vai à escola todas as manhãs." },
-        { "level": "B2", "fr": "Les écoles françaises accueillent les enfants dès trois ans.", "pt": "As escolas francesas recebem as crianças desde os três anos." },
-        { "level": "C1-C2", "fr": "C'est l'école qui, jour après jour, construit les citoyens de demain.", "pt": "É a escola que, dia após dia, constrói os cidadãos de amanhã." }
+        { "level": "A2-B1", "fr": "Irlan va à l'école de français le soir.", "pt": "Irlan vai à escola de francês à noite." },
+        { "level": "B2", "fr": "Les écoles de langue accueillent des élèves du monde entier.", "pt": "As escolas de línguas recebem alunos do mundo inteiro." },
+        { "level": "C1-C2", "fr": "C'est l'école qui, jour après jour, construit les rêves de demain.", "pt": "É a escola que, dia após dia, constrói os sonhos de amanhã." }
       ]
     },
     {
@@ -52,22 +92,22 @@
       "ptTargets": ["sala de aula", "turma"],
       "examples": [
         { "level": "A1", "fr": "La classe est grande.", "pt": "A sala é grande." },
-        { "level": "A2-B1", "fr": "Il y a vingt-cinq élèves dans la classe.", "pt": "Há vinte e cinco alunos na sala." },
-        { "level": "B2", "fr": "La classe, attentive, écoute la maîtresse.", "pt": "A turma, atenta, escuta a professora." },
+        { "level": "A2-B1", "fr": "Il y a douze élèves dans la classe.", "pt": "Há doze alunos na sala." },
+        { "level": "B2", "fr": "La classe, attentive, écoute le professeur.", "pt": "A turma, atenta, escuta o professor." },
         { "level": "C1-C2", "fr": "C'est la classe qui, ensemble, apprend à vivre en société.", "pt": "É a turma que, junta, aprende a viver em sociedade." }
       ]
     },
     {
-      "term": "la maîtresse",
-      "definitionPt": "a professora",
-      "definitionFr": "Enseignante à l'école primaire.",
-      "inflections": ["la maîtresse", "une maîtresse", "des maîtresses"],
-      "ptTargets": ["professora", "tia"],
+      "term": "le professeur",
+      "definitionPt": "o professor",
+      "definitionFr": "Personne qui enseigne.",
+      "inflections": ["le professeur", "un professeur", "des professeurs"],
+      "ptTargets": ["professor"],
       "examples": [
-        { "level": "A1", "fr": "La maîtresse est gentille.", "pt": "A professora é gentil." },
-        { "level": "A2-B1", "fr": "La maîtresse lit une histoire.", "pt": "A professora lê uma história." },
-        { "level": "B2", "fr": "La maîtresse, patiente, explique chaque leçon.", "pt": "A professora, paciente, explica cada lição." },
-        { "level": "C1-C2", "fr": "C'est la maîtresse qui, par ses encouragements, révèle le meilleur de chaque élève.", "pt": "É a professora que, por seus incentivos, revela o melhor de cada aluno." }
+        { "level": "A1", "fr": "Le professeur est patient.", "pt": "O professor é paciente." },
+        { "level": "A2-B1", "fr": "Le professeur lit une histoire.", "pt": "O professor lê uma história." },
+        { "level": "B2", "fr": "Le professeur, passionné, rend chaque leçon vivante.", "pt": "O professor, apaixonado, torna cada lição viva." },
+        { "level": "C1-C2", "fr": "C'est le professeur qui, par ses encouragements, révèle le meilleur de chaque élève.", "pt": "É o professor que, por seus incentivos, revela o melhor de cada aluno." }
       ]
     },
     {
@@ -78,7 +118,7 @@
       "ptTargets": ["caderno"],
       "examples": [
         { "level": "A1", "fr": "Le cahier est neuf.", "pt": "O caderno é novo." },
-        { "level": "A2-B1", "fr": "Iris écrit dans son cahier.", "pt": "Íris escreve no caderno." },
+        { "level": "A2-B1", "fr": "Irlan écrit dans son cahier.", "pt": "Irlan escreve no caderno." },
         { "level": "B2", "fr": "Les cahiers, soignés, montrent le travail de l'élève.", "pt": "Os cadernos, caprichados, mostram o trabalho do aluno." },
         { "level": "C1-C2", "fr": "C'est le cahier qui, rempli, raconte une année d'apprentissage.", "pt": "É o caderno que, preenchido, conta um ano de aprendizado." }
       ]
@@ -91,9 +131,9 @@
       "ptTargets": ["lápis"],
       "examples": [
         { "level": "A1", "fr": "Le crayon est rouge.", "pt": "O lápis é vermelho." },
-        { "level": "A2-B1", "fr": "Iris a des crayons de couleur.", "pt": "Íris tem lápis de cor." },
-        { "level": "B2", "fr": "Les crayons, taillés, attendent le dessin du matin.", "pt": "Os lápis, apontados, esperam o desenho da manhã." },
-        { "level": "C1-C2", "fr": "C'est le crayon qui, léger, porte les premières idées des enfants.", "pt": "É o lápis que, leve, carrega as primeiras ideias das crianças." }
+        { "level": "A2-B1", "fr": "Irlan a des crayons dans son cartable.", "pt": "Irlan tem lápis na mochila." },
+        { "level": "B2", "fr": "Les crayons, taillés, attendent la leçon du soir.", "pt": "Os lápis, apontados, esperam a lição da noite." },
+        { "level": "C1-C2", "fr": "C'est le crayon qui, léger, porte les premières idées de l'élève.", "pt": "É o lápis que, leve, carrega as primeiras ideias do aluno." }
       ]
     },
     {
@@ -104,7 +144,7 @@
       "ptTargets": ["livro"],
       "examples": [
         { "level": "A1", "fr": "Le livre est dans le cartable.", "pt": "O livro está na mochila." },
-        { "level": "A2-B1", "fr": "Iris lit un petit livre.", "pt": "Íris lê um livrinho." },
+        { "level": "A2-B1", "fr": "Irlan lit un petit livre.", "pt": "Irlan lê um livrinho." },
         { "level": "B2", "fr": "Les livres, ouverts, ouvrent des mondes.", "pt": "Os livros, abertos, abrem mundos." },
         { "level": "C1-C2", "fr": "C'est le livre qui, lu, reste à jamais dans la mémoire.", "pt": "É o livro que, lido, fica para sempre na memória." }
       ]
@@ -130,7 +170,7 @@
       "ptTargets": ["escrever"],
       "examples": [
         { "level": "A1", "fr": "J'écris mon nom.", "pt": "Eu escrevo meu nome." },
-        { "level": "A2-B1", "fr": "Iris écrit les lettres de l'alphabet.", "pt": "Íris escreve as letras do alfabeto." },
+        { "level": "A2-B1", "fr": "Irlan écrit des phrases en français.", "pt": "Irlan escreve frases em francês." },
         { "level": "B2", "fr": "Écrire, c'est penser avec ses mains.", "pt": "Escrever é pensar com as mãos." },
         { "level": "C1-C2", "fr": "C'est en écrivant que l'on organise ses idées.", "pt": "É escrevendo que se organizam as ideias." }
       ]
@@ -143,7 +183,7 @@
       "ptTargets": ["ler"],
       "examples": [
         { "level": "A1", "fr": "Je lis un livre.", "pt": "Eu leio um livro." },
-        { "level": "A2-B1", "fr": "Iris lit des mots simples.", "pt": "Íris lê palavras simples." },
+        { "level": "A2-B1", "fr": "Irlan lit des mots simples.", "pt": "Irlan lê palavras simples." },
         { "level": "B2", "fr": "Lire chaque jour ouvre l'esprit.", "pt": "Ler todos os dias abre a mente." },
         { "level": "C1-C2", "fr": "C'est en lisant que l'on voyage sans bouger.", "pt": "É lendo que se viaja sem sair do lugar." }
       ]
@@ -169,9 +209,9 @@
       "ptTargets": ["recreio", "intervalo"],
       "examples": [
         { "level": "A1", "fr": "La récréation est à dix heures.", "pt": "O recreio é às dez horas." },
-        { "level": "A2-B1", "fr": "À la récréation, les enfants jouent dans la cour.", "pt": "No recreio, as crianças brincam no pátio." },
+        { "level": "A2-B1", "fr": "À la récréation, les élèves discutent.", "pt": "No recreio, os alunos conversam." },
         { "level": "B2", "fr": "La récréation, courte, est très attendue.", "pt": "O recreio, curto, é muito esperado." },
-        { "level": "C1-C2", "fr": "C'est à la récréation que se nouent les amitiés d'enfance.", "pt": "É no recreio que se formam as amizades de infância." }
+        { "level": "C1-C2", "fr": "C'est à la récréation que se nouent les amitiés.", "pt": "É no recreio que se formam as amizades." }
       ]
     },
     {
@@ -184,24 +224,24 @@
         { "level": "A1", "fr": "Le cartable est lourd.", "pt": "A mochila é pesada." },
         { "level": "A2-B1", "fr": "Les livres sont dans le cartable.", "pt": "Os livros estão na mochila." },
         { "level": "B2", "fr": "Le cartable, bien rangé, est prêt pour l'école.", "pt": "A mochila, bem arrumada, está pronta para a escola." },
-        { "level": "C1-C2", "fr": "C'est le cartable qui, chaque matin, accompagne les premiers pas de l'enfance.", "pt": "É a mochila que, cada manhã, acompanha os primeiros passos da infância." }
+        { "level": "C1-C2", "fr": "C'est le cartable qui, chaque soir, accompagne les progrès d'Irlan.", "pt": "É a mochila que, cada noite, acompanha os progressos de Irlan." }
       ]
     }
   ],
   "grammarTip": {
     "ruleTitle": "Le verbe écrire au présent",
-    "explanationPt": "O verbo 'écrire' (escrever): j'écris, tu écris, il/elle écrit, nous écrivons, vous écrivez, ils/elles écrivent. Ex.: 'Iris écrit les lettres de l'alphabet.'",
-    "exampleFr": "Iris écrit les lettres de l'alphabet.",
-    "examplePt": "Íris escreve as letras do alfabeto.",
+    "explanationPt": "O verbo 'écrire' (escrever): j'écris, tu écris, il/elle écrit, nous écrivons, vous écrivez, ils/elles écrivent. Ex.: 'Irlan écrit des phrases en français.'",
+    "exampleFr": "Irlan écrit des phrases en français.",
+    "examplePt": "Irlan escreve frases em francês.",
     "practiceQuestion": "Complete: 'Nous _____ une lettre.'",
     "options": ["écrivons", "écris", "écrivent"],
     "correctIndex": 0,
     "points": [
       {
         "ruleTitle": "Le verbe lire au présent",
-        "explanationPt": "O verbo 'lire' (ler): je lis, tu lis, il/elle lit, nous lisons, vous lisez, ils/elles lisent. Ex.: 'La maîtresse lit une histoire.'",
-        "exampleFr": "La maîtresse lit une petite histoire.",
-        "examplePt": "A professora lê uma historinha.",
+        "explanationPt": "O verbo 'lire' (ler): je lis, tu lis, il/elle lit, nous lisons, vous lisez, ils/elles lisent. Ex.: 'Le professeur lit une histoire.'",
+        "exampleFr": "Le professeur lit une petite histoire.",
+        "examplePt": "O professor lê uma historinha.",
         "practiceQuestion": "Complete: 'Ils _____ des livres.'",
         "options": ["lisent", "lis", "lisons"],
         "correctIndex": 0
@@ -219,22 +259,22 @@
   },
   "quizQuestions": [
     {
-      "question": "Quantos alunos há na classe de Íris?",
-      "options": ["vinte e cinco", "cinco", "cem"],
+      "question": "Quando Irlan vai à escola de francês?",
+      "options": ["todas as noites, depois do trabalho", "de manhã cedo", "no fim de semana"],
       "correctIndex": 0,
-      "explanation": "Il y a vingt-cinq élèves dans la classe."
+      "explanation": "Irlan va à l'école de français tous les soirs, après le travail."
     },
     {
-      "question": "O que Íris escreve de manhã?",
-      "options": ["as letras do alfabeto", "números grandes", "desenhos de carros"],
+      "question": "Quantos alunos há na classe de Irlan?",
+      "options": ["doze", "cinco", "cem"],
       "correctIndex": 0,
-      "explanation": "Iris écrit les lettres de l'alphabet."
+      "explanation": "Il y a douze élèves dans la classe."
     },
     {
-      "question": "Onde as crianças brincam no recreio?",
-      "options": ["no pátio", "na sala", "na rua"],
+      "question": "O que Irlan escreve na aula?",
+      "options": ["frases em francês", "números grandes", "desenhos de carros"],
       "correctIndex": 0,
-      "explanation": "À la récréation, les enfants jouent dans la cour."
+      "explanation": "Irlan écrit des phrases en français."
     },
     {
       "question": "Complete: 'Nous _____ une lettre.'",

@@ -1,10 +1,10 @@
 # #11 Nice — C2
 
-**5153 palavras** ainda precisam aparecer nos textos das aulas desta cidade.
+**5154 palavras** ainda precisam aparecer nos textos das aulas desta cidade.
 
 Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aventura do Irlan.
 
-## C2 (5153)
+## C2 (5154)
 
 - [ ] **abâtardir** — abastardar
 - [ ] **abductif** — abdutivo
@@ -1175,6 +1175,7 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **l’aloès** — a babosa
 - [ ] **l’alouette** — a cotovia
 - [ ] **l’alpaga** — a alpaca
+- [ ] **l’alphabet** — o alfabeto
 - [ ] **l’alpiniste** — o alpinista
 - [ ] **l’alter ego** — o alter ego
 - [ ] **l’altération** — a alteração
