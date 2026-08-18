@@ -7,27 +7,67 @@
   "titlePt": "As roupas: a loja de moda",
   "subtitleFr": "Essayer un pantalon, choisir une robe, profiter des soldes",
   "subtitlePt": "Experimentar uma calça, escolher um vestido, aproveitar as liquidações",
-  "summaryPt": "Nesta Aula 29 (A1), a família vai a uma boutique de roupas perto de casa. O aluno aprende o vocabulário das roupas (vêtement, pantalon, chemise, robe, chaussure, taille) e o verbo 'essayer', com as expressões de preço e tamanho.",
+  "summaryPt": "Nesta Aula 29 (A1), Irlan e Andréa vão a uma boutique de roupas durante as liquidações. Andréa experimenta um vestido vermelho e Irlan escolhe uma calça e uma camisa. O aluno aprende o vocabulário das roupas (vêtement, pantalon, chemise, robe, chaussure, taille) e o verbo 'essayer', com as expressões de preço e tamanho.",
   "paragraphs": [
     {
       "id": 1,
-      "fr": "C'est samedi, et il y a les soldes dans les magasins de Paris. La famille entre dans une boutique de vêtements. « J'adore cette robe rouge ! » dit Andréa. Iris regarde les chaussures : « Et ces baskets, maman ? Elles sont jolies ! »",
-      "pt": "É sábado, e há liquidações nas lojas de Paris. A família entra numa loja de roupas. « Adoro esse vestido vermelho! » diz Andréa. Íris olha os sapatos: « E esses tênis, mamãe? Eles são bonitos! »"
+      "fr": "C'est samedi, et il y a les soldes dans les magasins de Paris. Irlan et Andréa entrent dans une boutique de vêtements.",
+      "pt": "É sábado, e há liquidações nas lojas de Paris. Irlan e Andréa entram numa loja de roupas."
     },
     {
       "id": 2,
-      "fr": "Irlan choisit un pantalon et une chemise bleue. « Quelle est votre taille ? » demande la vendeuse. « Du 42, s'il vous plaît », répond Irlan. Il entre dans la cabine pour essayer le pantalon. « Il est parfait ! » dit-il en sortant.",
-      "pt": "Irlan escolhe uma calça e uma camisa azul. « Qual é o seu tamanho? » pergunta a vendedora. « 42, por favor », responde Irlan. Ele entra no provador para experimentar a calça. « Ficou perfeita! » diz ele ao sair."
+      "fr": "« J'adore cette robe rouge ! » dit Andréa. Elle la regarde avec des yeux brillants. Irlan sourit : « Essaie-la. »",
+      "pt": "«Adoro esse vestido vermelho!», diz Andréa. Ela olha para ele com os olhos brilhando. Irlan sorri: «Experimenta.»"
     },
     {
       "id": 3,
-      "fr": "Andréa essaie la robe rouge. « Elle est très belle sur toi, maman ! » dit Iris. Andréa regarde le prix : « Quatre-vingts euros... C'est un peu cher. Mais avec les soldes, c'est moins cher. » Elle sourit : « Je la prends ! »",
-      "pt": "Andréa experimenta o vestido vermelho. « Ficou muito bonito em você, mamãe! » diz Íris. Andréa olha o preço: « Oitenta euros... É um pouco caro. Mas com as liquidações, fica mais barato. » Ela sorri: « Vou levar! »"
+      "fr": "Irlan choisit un pantalon et une chemise bleue. « Quelle est votre taille ? » demande la vendeuse. « Du 42, s'il vous plaît », répond-il.",
+      "pt": "Irlan escolhe uma calça e uma camisa azul. «Qual é o seu tamanho?», pergunta a vendedora. «42, por favor», responde ele."
     },
     {
       "id": 4,
-      "fr": "À la caisse, la vendeuse plie les vêtements dans un sac. « Ça fait cent vingt euros », dit-elle. Irlan paie avec sa carte bancaire. « Merci, bonne journée ! » dit la vendeuse. Iris porte le sac : « C'est lourd, mais c'est beau ! »",
-      "pt": "No caixa, a vendedora dobra as roupas numa sacola. « Dá cento e vinte euros », diz ela. Irlan paga com seu cartão bancário. « Obrigada, bom dia! » diz a vendedora. Íris carrega a sacola: « É pesada, mas é bonita! »"
+      "fr": "Il entre dans la cabine pour essayer le pantalon. « Il est parfait ! » dit-il en sortant.",
+      "pt": "Ele entra no provador para experimentar a calça. «Ficou perfeita!», diz ele ao sair."
+    },
+    {
+      "id": 5,
+      "fr": "Puis Andréa essaie la robe rouge. Elle sort de la cabine et tourne doucement. Irlan la regarde, bouche ouverte.",
+      "pt": "Depois Andréa experimenta o vestido vermelho. Ela sai do provador e gira devagar. Irlan a olha, de boca aberta."
+    },
+    {
+      "id": 6,
+      "fr": "« Elle est très belle sur toi », dit Irlan. Andréa rougit un peu. « Tu dis ça pour me faire plaisir. »",
+      "pt": "«Ficou muito bonito em você», diz Irlan. Andréa cora um pouco. «Você diz isso para me agradar.»"
+    },
+    {
+      "id": 7,
+      "fr": "« Je le dis parce que c'est vrai », répond-il. Andréa regarde le prix : « Quatre-vingts euros... C'est un peu cher. »",
+      "pt": "«Eu digo porque é verdade», responde ele. Andréa olha o preço: «Oitenta euros... É um pouco caro.»"
+    },
+    {
+      "id": 8,
+      "fr": "« Mais avec les soldes, c'est moins cher », ajoute-t-elle. Elle sourit : « Je la prends ! »",
+      "pt": "«Mas com as liquidações, fica mais barato», acrescenta ela. Ela sorri: «Vou levar!»"
+    },
+    {
+      "id": 9,
+      "fr": "À la caisse, la vendeuse plie les vêtements dans un sac. « Ça fait cent vingt euros », dit-elle.",
+      "pt": "No caixa, a vendedora dobra as roupas numa sacola. «Dá cento e vinte euros», diz ela."
+    },
+    {
+      "id": 10,
+      "fr": "Irlan paie avec sa carte bancaire. « Merci, bonne journée ! » dit la vendeuse. Ils sortent ensemble dans la rue animée.",
+      "pt": "Irlan paga com o cartão bancário. «Obrigada, bom dia!», diz a vendedora. Eles saem juntos para a rua movimentada."
+    },
+    {
+      "id": 11,
+      "fr": "« Je porterai cette robe à notre prochain rendez-vous », dit Andréa. Irlan sourit : « Alors j'ai hâte d'être à demain. »",
+      "pt": "«Vou usar este vestido no nosso próximo encontro», diz Andréa. Irlan sorri: «Então estou ansioso para amanhã.»"
+    },
+    {
+      "id": 12,
+      "fr": "Ils marchent dans le quartier, le sac à la main. La robe rouge danse doucement dans le sac en papier.",
+      "pt": "Eles caminham pelo bairro, com a sacola na mão. O vestido vermelho dança suavemente dentro da sacola de papel."
     }
   ],
   "vocabularyDictionary": [
@@ -91,7 +131,7 @@
       "ptTargets": ["sapato", "calçado"],
       "examples": [
         { "level": "A1", "fr": "La chaussure est confortable.", "pt": "O sapato é confortável." },
-        { "level": "A2-B1", "fr": "Iris regarde les chaussures dans la boutique.", "pt": "Íris olha os sapatos na loja." },
+        { "level": "A2-B1", "fr": "Andréa regarde les chaussures dans la boutique.", "pt": "Andréa olha os sapatos na loja." },
         { "level": "B2", "fr": "Les chaussures, bien choisies, accompagnent les longues marches à Paris.", "pt": "Os sapatos, bem escolhidos, acompanham as longas caminhadas em Paris." },
         { "level": "C1-C2", "fr": "C'est la chaussure qui, parfaite, reste invisible tant elle est juste.", "pt": "É o sapato que, perfeito, fica invisível de tão certo." }
       ]
@@ -143,7 +183,7 @@
       "ptTargets": ["loja"],
       "examples": [
         { "level": "A1", "fr": "Le magasin est ouvert.", "pt": "A loja está aberta." },
-        { "level": "A2-B1", "fr": "La famille entre dans un magasin de vêtements.", "pt": "A família entra numa loja de roupas." },
+        { "level": "A2-B1", "fr": "Ils entrent dans un magasin de vêtements.", "pt": "Eles entram numa loja de roupas." },
         { "level": "B2", "fr": "Les magasins parisiens attirent les visiteurs du monde entier.", "pt": "As lojas parisienses atraem visitantes do mundo inteiro." },
         { "level": "C1-C2", "fr": "C'est le magasin qui, bien tenu, fait naître l'envie d'acheter.", "pt": "É a loja que, bem cuidada, faz nascer a vontade de comprar." }
       ]
@@ -231,8 +271,8 @@
       "explanation": "Irlan veste du 42."
     },
     {
-      "question": "Quanto custa o vestido com as liquidações?",
-      "options": ["ficou mais barato", "ficou mais caro", "não mudou"],
+      "question": "Por que o vestido fica mais barato?",
+      "options": ["por causa das liquidações", "porque está usado", "porque é pequeno"],
       "correctIndex": 0,
       "explanation": "Avec les soldes, c'est moins cher."
     },
