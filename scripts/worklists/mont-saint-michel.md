@@ -163,65 +163,65 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **le sac en plastique** — a sacola plástica
 - [ ] **le sèche-cheveux** — o secador de cabelo
 - [ ] **le sens unique** — a mão única
-- [ ] **le short** — o short
-- [ ] **le sous-titre** — a legenda
-- [ ] **le stress** — o estresse
-- [ ] **le téléchargement** — o download
-- [ ] **le temps sec** — o tempo seco
-- [ ] **le ticket de caisse** — o recibo
-- [ ] **le trajet** — o trajeto
-- [ ] **le verglas** — o gelo na estrada
-- [ ] **le veuf** — o viúvo
-- [ ] **le visa** — o visto
-- [ ] **les boucles d’oreilles** — os brincos
-- [ ] **les chaussures à talons** — os sapatos de salto
-- [ ] **les cheveux bouclés** — o cabelo cacheado
-- [ ] **les cheveux frisés** — o cabelo crespo
-- [ ] **les cheveux raides** — o cabelo liso
-- [ ] **les mocassins** — os mocassins
-- [ ] **les sandales** — as sandálias
-- [ ] **les yeux bleus** — os olhos azuis
-- [ ] **les yeux verts** — os olhos verdes
-- [ ] **louer un appartement** — alugar um apartamento
-- [ ] **malvoyant** — com deficiência visual
-- [ ] **mettre en copie** — colocar em cópia
-- [ ] **nerveux** — nervoso
-- [ ] **ouvrir la fenêtre** — abrir a janela
-- [ ] **pardonner** — perdoar
-- [ ] **passer du temps** — passar tempo
-- [ ] **payer l’addition** — pagar a conta
-- [ ] **pessimiste** — pessimista
-- [ ] **porter des lunettes de soleil** — usar óculos de sol
-- [ ] **prendre l’ascenseur** — pegar o elevador
-- [ ] **prendre son temps** — ir com calma
-- [ ] **prévenir** — avisar
-- [ ] **raccrocher** — desligar (telefone)
-- [ ] **récemment** — recentemente
-- [ ] **recouvrir** — cobrir
-- [ ] **regarder la télévision** — assistir à televisão
-- [ ] **rendre service** — fazer um favor
-- [ ] **rentrer chez soi** — voltar para casa
-- [ ] **répondre à la porte** — atender a porta
-- [ ] **respirer profondément** — respirar fundo
-- [ ] **retrouver son chemin** — reencontrar o caminho
-- [ ] **s’ennuyer** — entediar-se
-- [ ] **s’occuper de** — cuidar de / ocupar-se de
-- [ ] **se connecter au wifi** — conectar-se ao wifi
-- [ ] **se faire du souci** — preocupar-se
-- [ ] **se protéger du soleil** — proteger-se do sol
-- [ ] **se renseigner** — informar-se
-- [ ] **se tromper de route** — errar o caminho
-- [ ] **sortir les poubelles** — colocar o lixo para fora
-- [ ] **souhaiter un bon anniversaire** — desejar feliz aniversário
-- [ ] **stationner** — estacionar
-- [ ] **surfer sur internet** — navegar na internet
-- [ ] **tomber en panne** — quebrar / enguiçar
-- [ ] **tout à coup** — de repente
-- [ ] **travailler à temps plein** — trabalhar em período integral
-- [ ] **un paquet de** — um pacote de
-- [ ] **verrouiller** — trancar
-- [ ] **visser** — aparafusar
-- [ ] **voyager à pied** — viajar a pé
+- [ ] **le site touristique** — o ponto turístico
+- [ ] **le spam** — o spam
+- [ ] **le tabouret** — o banquinho
+- [ ] **le temps humide** — o tempo úmido
+- [ ] **le terrain de sport** — o campo de esporte
+- [ ] **le tigre** — o tigre
+- [ ] **le tremblement de terre** — o terremoto
+- [ ] **le vernis à ongles** — o esmalte
+- [ ] **le vin rosé** — o vinho rosé
+- [ ] **les bagages** — as bagagens
+- [ ] **les bretelles** — os suspensórios
+- [ ] **les cheveux blancs** — o cabelo branco
+- [ ] **les cheveux bruns** — o cabelo castanho
+- [ ] **les cheveux gris** — o cabelo grisalho
+- [ ] **les cheveux roux** — o cabelo ruivo
+- [ ] **les noces** — as bodas
+- [ ] **les taches de rousseur** — as sardas
+- [ ] **les yeux marron** — os olhos castanhos
+- [ ] **libérer la chambre** — desocupar o quarto
+- [ ] **maigrir** — emagrecer
+- [ ] **menteur** — mentiroso
+- [ ] **naître à** — nascer em (cidade)
+- [ ] **offrir un cadeau** — dar um presente
+- [ ] **ouvrir le parapluie** — abrir o guarda-chuva
+- [ ] **partager l’écran** — compartilhar a tela
+- [ ] **passer la serpillière** — passar o esfregão
+- [ ] **peindre un mur** — pintar uma parede
+- [ ] **plier le linge** — dobrar a roupa
+- [ ] **porter plainte** — registrar queixa
+- [ ] **prendre le menu** — escolher o menu
+- [ ] **prendre un parapluie** — levar um guarda-chuva
+- [ ] **prévoir** — prever
+- [ ] **radin** — mão de vaca / pão-duro
+- [ ] **recharger** — recarregar
+- [ ] **redevenir** — voltar a ser
+- [ ] **réjouir** — alegrar
+- [ ] **rendre un article** — devolver um produto
+- [ ] **réparer un appareil** — consertar um aparelho
+- [ ] **répondre à tous** — responder a todos
+- [ ] **rester coincé** — ficar preso
+- [ ] **réutiliser** — reutilizar
+- [ ] **s’informer** — informar-se
+- [ ] **s’orienter** — orientar-se
+- [ ] **se distraire** — distrair-se
+- [ ] **se faire rembourser** — ser reembolsado
+- [ ] **se réconcilier** — reconciliar-se
+- [ ] **se rétablir** — recuperar-se
+- [ ] **signaler** — sinalizar / reportar
+- [ ] **souhaiter** — desejar
+- [ ] **soulagé** — aliviado
+- [ ] **stressé** — estressado
+- [ ] **sympathique** — simpático
+- [ ] **tomber malade** — ficar doente
+- [ ] **transférer** — encaminhar
+- [ ] **trier** — separar / classificar
+- [ ] **une canette** — uma latinha
+- [ ] **vider la poubelle** — esvaziar o lixo
+- [ ] **vocale** — vocal / por voz (ex: annonce vocale)
+- [ ] **voyager en avion** — viajar de avião
 
 ## B1 (449)
 

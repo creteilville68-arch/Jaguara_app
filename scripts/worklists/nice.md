@@ -1,10 +1,10 @@
 # #11 Nice — C2
 
-**5158 palavras** ainda precisam aparecer nos textos das aulas desta cidade.
+**5157 palavras** ainda precisam aparecer nos textos das aulas desta cidade.
 
 Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aventura do Irlan.
 
-## C2 (5158)
+## C2 (5157)
 
 - [ ] **abâtardir** — abastardar
 - [ ] **abductif** — abdutivo
@@ -3742,7 +3742,6 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **le napperon** — o jogo americano
 - [ ] **le narrateur omniscient** — o narrador onisciente
 - [ ] **le nectar** — o néctar
-- [ ] **le nénuphar** — o nenúfar
 - [ ] **le néoclassicisme** — o neoclassicismo
 - [ ] **le néodyme** — o neodímio
 - [ ] **le neptunium** — o netúnio

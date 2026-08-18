@@ -7,7 +7,7 @@
   "titlePt": "O museu d'Orsay e o impressionismo",
   "subtitleFr": "L'ancienne gare, la grande horloge et les couleurs des impressionnistes",
   "subtitlePt": "A antiga estação, o grande relógio e as cores dos impressionistas",
-  "summaryPt": "Nesta Aula 20 (A1), a família visita o museu d'Orsay, uma antiga estação de trem. Eles admiram a grande horloge e as pinturas impressionistas: Monet, Renoir e as bailarinas de Degas. O aluno aprende o verbo 'peindre' e as expressões de quantidade 'beaucoup de' e 'un peu de'.",
+  "summaryPt": "Nesta Aula 20 (A1), Irlan e Andréa visitam o museu d'Orsay, uma antiga estação de trem. Eles admiram a grande horloge e as pinturas impressionistas: Monet, Renoir e as bailarinas de Degas. O aluno aprende o verbo 'peindre' e as expressões de quantidade 'beaucoup de' e 'un peu de'.",
   "paragraphs": [
     {
       "id": 1,
@@ -21,19 +21,59 @@
     },
     {
       "id": 3,
-      "fr": "Íris regarde les danseuses de Degas. « Elles sont très jolies ! » dit-elle. Andréa aime beaucoup les tableaux de Monet.",
-      "pt": "Íris olha as bailarinas de Degas. «Elas são muito bonitas!» diz ela. Andréa gosta muito dos quadros de Monet."
+      "fr": "Andréa s'arrête devant les danseuses de Degas. « Elles sont très jolies », dit-elle. Les tableaux de Monet la touchent beaucoup.",
+      "pt": "Andréa para diante das bailarinas de Degas. «Elas são muito bonitas», diz ela. Os quadros de Monet a emocionam muito."
     },
     {
       "id": 4,
-      "fr": "Irlan se souvient : quand il était livreur, il passait devant cette gare tous les jours. « Aujourd'hui, je comprends un peu la peinture », dit-il en riant.",
-      "pt": "Irlan se lembra: quando era entregador, passava diante desta estação todos os dias. «Hoje, eu entendo um pouco de pintura», diz ele rindo."
+      "fr": "Irlan observe les couleurs. Il aime la lumière dorée des tableaux. « C'est comme un paysage vu de loin », dit-il.",
+      "pt": "Irlan observa as cores. Ele gosta da luz dourada dos quadros. «É como uma paisagem vista de longe», diz ele."
+    },
+    {
+      "id": 5,
+      "fr": "Andréa sourit. « Toi, le géographe, tu vois des cartes partout. Moi, je vois des couleurs et des sentiments. »",
+      "pt": "Andréa sorri. «Você, o geógrafo, vê mapas em toda parte. Eu vejo cores e sentimentos.»"
+    },
+    {
+      "id": 6,
+      "fr": "« Alors explique-moi », demande Irlan. Elle montre un tableau lumineux et parle doucement de la lumière.",
+      "pt": "«Então me explique», pede Irlan. Ela mostra um quadro luminoso e fala baixinho da luz."
+    },
+    {
+      "id": 7,
+      "fr": "Irlan se souvient : quand il était livreur, il passait devant cette gare tous les jours, sans jamais entrer.",
+      "pt": "Irlan se lembra: quando era entregador, passava diante desta estação todos os dias, sem nunca entrar."
+    },
+    {
+      "id": 8,
+      "fr": "« Aujourd'hui, je suis à l'intérieur, avec toi », dit-il. Il regarde Andréa avec une tendresse nouvelle.",
+      "pt": "«Hoje, estou aqui dentro, com você», diz ele. Ele olha para Andréa com uma ternura nova."
+    },
+    {
+      "id": 9,
+      "fr": "Derrière la grande horloge, la Seine coule. Les visiteurs prennent des photos et sourient devant les tableaux.",
+      "pt": "Atrás do grande relógio, o Sena corre. Os visitantes tiram fotos e sorriem diante dos quadros."
+    },
+    {
+      "id": 10,
+      "fr": "« Je ne suis pas encore un expert, mais je comprends un peu la peinture maintenant », dit Irlan en riant.",
+      "pt": "«Ainda não sou um especialista, mas agora entendo um pouco de pintura», diz Irlan rindo."
+    },
+    {
+      "id": 11,
+      "fr": "Andréa lui prend la main devant les nénuphars de Monet. Les couleurs colorées dansent sur l'eau du tableau.",
+      "pt": "Andréa segura a mão dele diante dos nenúfares de Monet. As cores coloridas dançam sobre a água do quadro."
+    },
+    {
+      "id": 12,
+      "fr": "« Un jour, on ira voir le jardin de Monet », promet-elle. « Toi, tu liras les cartes ; moi, je regarderai les fleurs. »",
+      "pt": "«Um dia, iremos ver o jardim de Monet», promete ela. «Você vai ler os mapas; eu vou olhar as flores.»"
     }
   ],
   "vocabularyDictionary": [
     {
-      "term": "gare",
-      "definitionPt": "estação (de trem)",
+      "term": "la gare",
+      "definitionPt": "a estação (de trem)",
       "definitionFr": "Bâtiment où les trains s'arrêtent.",
       "inflections": ["la gare", "une gare", "des gares"],
       "ptTargets": ["estação"],
@@ -45,8 +85,8 @@
       ]
     },
     {
-      "term": "horloge",
-      "definitionPt": "relógio (de parede/torre)",
+      "term": "l'horloge",
+      "definitionPt": "o relógio (de parede/torre)",
       "definitionFr": "Appareil qui indique l'heure.",
       "inflections": ["l'horloge", "une horloge", "des horloges"],
       "ptTargets": ["relógio"],
@@ -58,8 +98,8 @@
       ]
     },
     {
-      "term": "visiteur",
-      "definitionPt": "visitante",
+      "term": "le visiteur",
+      "definitionPt": "o visitante",
       "definitionFr": "Personne qui visite un lieu.",
       "inflections": ["le visiteur", "un visiteur", "des visiteurs"],
       "ptTargets": ["visitante"],
@@ -71,8 +111,8 @@
       ]
     },
     {
-      "term": "impressionnisme",
-      "definitionPt": "impressionismo",
+      "term": "l'impressionnisme",
+      "definitionPt": "o impressionismo",
       "definitionFr": "Mouvement artistique du XIXe siècle qui peint la lumière et les impressions.",
       "inflections": ["l'impressionnisme"],
       "ptTargets": ["impressionismo"],
@@ -97,8 +137,8 @@
       ]
     },
     {
-      "term": "nature",
-      "definitionPt": "natureza",
+      "term": "la nature",
+      "definitionPt": "a natureza",
       "definitionFr": "Le monde naturel : les arbres, les fleurs, l'eau.",
       "inflections": ["la nature"],
       "ptTargets": ["natureza"],
@@ -110,21 +150,21 @@
       ]
     },
     {
-      "term": "danseuse",
-      "definitionPt": "bailarina",
+      "term": "la danseuse",
+      "definitionPt": "a bailarina",
       "definitionFr": "Femme qui danse, notamment au ballet.",
       "inflections": ["la danseuse", "une danseuse", "des danseuses"],
       "ptTargets": ["bailarina"],
       "examples": [
-        { "level": "A1", "fr": "Íris regarde les danseuses de Degas.", "pt": "Íris olha as bailarinas de Degas." },
+        { "level": "A1", "fr": "Andréa regarde les danseuses de Degas.", "pt": "Andréa olha as bailarinas de Degas." },
         { "level": "A2-B1", "fr": "La danseuse porte une robe blanche.", "pt": "A bailarina usa um vestido branco." },
         { "level": "B2", "fr": "Degas a peint de nombreuses danseuses.", "pt": "Degas pintou muitas bailarinas." },
         { "level": "C1-C2", "fr": "Les danseuses de Degas capturent le mouvement avec délicatesse.", "pt": "As bailarinas de Degas capturam o movimento com delicadeza." }
       ]
     },
     {
-      "term": "tableau",
-      "definitionPt": "quadro, pintura",
+      "term": "le tableau",
+      "definitionPt": "o quadro (pintura)",
       "definitionFr": "Œuvre d'art peinte sur une toile.",
       "inflections": ["le tableau", "un tableau", "des tableaux"],
       "ptTargets": ["quadro"],
@@ -149,8 +189,8 @@
       ]
     },
     {
-      "term": "lumière",
-      "definitionPt": "luz",
+      "term": "la lumière",
+      "definitionPt": "a luz",
       "definitionFr": "Clarté qui éclaire les choses.",
       "inflections": ["la lumière", "une lumière", "des lumières"],
       "ptTargets": ["luz"],
@@ -225,7 +265,7 @@
       "explanation": "No texto: 'Le musée d'Orsay est une ancienne gare.' (O museu d'Orsay é uma antiga estação.)"
     },
     {
-      "question": "Ordene corretamente as palavras da frase: [ peignent / la lumière / les impressionnistes / , / ]",
+      "question": "Ordene corretamente as palavras da frase: [ peignent / la lumière / les impressionnistes / ]",
       "options": [
         "Les impressionnistes peignent la lumière.",
         "La lumière peignent les impressionnistes.",
@@ -262,7 +302,7 @@
         "Que a estação era muito pequena"
       ],
       "correctIndex": 0,
-      "explanation": "No texto: 'quand il était livreur, il passait devant cette gare tous les jours.'"
+      "explanation": "No texto: 'quand il était livreur, il passait devant cette gare tous les jours, sans jamais entrer.'"
     }
   ]
 }
