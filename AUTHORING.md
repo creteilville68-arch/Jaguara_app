@@ -148,6 +148,7 @@ Use os comandos do `package.json` (ou rode diretamente com `bun run`):
 bun run plan       # recalcula a distribuição por cidade (city_words_to_write.json)
 bun run worklists  # regenera scripts/worklists/*.md a partir do plano
 bun run coverage   # mede quantas palavras do banco já aparecem nos textos
+bun run audit      # valida traduções + os 4 exemplos de todas as aulas
 bun run lint       # typecheck (tsc --noEmit)
 ```
 
