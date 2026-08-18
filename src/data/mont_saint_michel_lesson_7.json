@@ -7,7 +7,7 @@
   "titlePt": "Os pré-salés e o Couesnon: a fronteira entre duas regiões",
   "subtitleFr": "Les moutons, l'agneau de pré-salé et la rivière qui sépare la Normandie et la Bretagne",
   "subtitlePt": "As ovelhas, o cordeiro de pré-salé e o rio que separa a Normandia e a Bretanha",
-  "summaryPt": "Nesta Aula 7 (A2/B1), a família passeia pelos prés-salés, os prados onde pastam as ovelhas que dão o famoso agneau de pré-salé. Irlan, o geógrafo, explica o papel do rio Couesnon, que marca a fronteira entre a Normandia e a Bretanha. O aluno aprende o Imparfait para descrições geográficas (le fleuve coulait, la frontière était) e a expressão 'il y avait'.",
+  "summaryPt": "Nesta Aula 7 (A2/B1), o casal passeia pelos prés-salés, os prados onde pastam as ovelhas que dão o famoso agneau de pré-salé. Irlan, o geógrafo, explica o papel do rio Couesnon, que marca a fronteira entre a Normandia e a Bretanha. O aluno aprende o Imparfait para descrições geográficas (le fleuve coulait, la frontière était) e a expressão 'il y avait'.",
   "paragraphs": [
     {
       "id": 1,
@@ -26,8 +26,48 @@
     },
     {
       "id": 4,
-      "fr": "Il y avait des fermes anciennes au bord des prés. La famille a dégusté de l'agneau de pré-salé dans une petite auberge. Quel délice !",
-      "pt": "Havia fazendas antigas à beira dos prados. A família degustou cordeiro de pré-salé em uma pequena pousada. Que delícia!"
+      "fr": "Il y avait des fermes anciennes au bord des prés. Ils ont dégusté de l'agneau de pré-salé dans une petite auberge. Quel délice !",
+      "pt": "Havia fazendas antigas à beira dos prados. Eles degustaram cordeiro de pré-salé em uma pequena pousada. Que delícia!"
+    },
+    {
+      "id": 5,
+      "fr": "« Le Couesnon », a dit Irlan, « change de lit souvent. C'est un fleuve capricieux, comme la mémoire. »",
+      "pt": "« O Couesnon », disse Irlan, « muda de leito com frequência. É um rio caprichoso, como a memória. »"
+    },
+    {
+      "id": 6,
+      "fr": "Andréa a regardé la carte. « Sur la planche, une ligne sinueuse traverse la baie. C'est peut-être le fleuve. »",
+      "pt": "Andréa olhou o mapa. « Na prancha, uma linha sinuosa atravessa a baía. Talvez seja o rio. »"
+    },
+    {
+      "id": 7,
+      "fr": "« Manoel a dessiné la frontière entre deux terres », a dit Irlan. « Il savait que les frontières bougent. »",
+      "pt": "« Manoel desenhou a fronteira entre duas terras », disse Irlan. « Ele sabia que as fronteiras se movem. »"
+    },
+    {
+      "id": 8,
+      "fr": "Un berger passait avec son chien. « Vous cherchez le vieux gué ? », a-t-il demandé. « Il n'existe plus, sauf à la grande marée basse. »",
+      "pt": "Um pastor passava com seu cão. « Vocês procuram o velho vau? », perguntou ele. « Ele não existe mais, exceto na grande maré baixa. »"
+    },
+    {
+      "id": 9,
+      "fr": "« Le gué ! », a répété Irlan. « Un passage à gué. La planche montre des points... c'est un gué. »",
+      "pt": "« O vau! », repetiu Irlan. « Uma passagem a vau. A prancha mostra pontos... é um vau. »"
+    },
+    {
+      "id": 10,
+      "fr": "Le berger a souri : « Les anciens traversaient la baie par ce gué, entre le Mont et Tombelaine. Mais la mer a effacé la route. »",
+      "pt": "O pastor sorriu: « Os antigos atravessavam a baía por esse vau, entre o Mont e Tombelaine. Mas o mar apagou a estrada. »"
+    },
+    {
+      "id": 11,
+      "fr": "Andréa a noté tout dans un carnet. « Alors le chemin existe encore, caché sous l'eau. Il suffit de savoir quand. »",
+      "pt": "Andréa anotou tudo num caderno. « Então o caminho ainda existe, escondido sob a água. Basta saber quando. »"
+    },
+    {
+      "id": 12,
+      "fr": "Le berger a regardé le ciel. « La grande marée basse arrive dans deux jours, à l'heure bleue. » Puis il est parti, sans se retourner.",
+      "pt": "O pastor olhou o céu. « A grande maré baixa chega em dois dias, na hora azul. » Depois partiu, sem se virar."
     }
   ],
   "vocabularyDictionary": [
@@ -182,7 +222,7 @@
       "ptTargets": ["provar"],
       "examples": [
         { "level": "A1", "fr": "Je goûte le plat.", "pt": "Eu provo o prato." },
-        { "level": "A2-B1", "fr": "La famille a goûté l'agneau de pré-salé.", "pt": "A família provou o cordeiro de pré-salé." },
+        { "level": "A2-B1", "fr": "Ils ont goûté l'agneau de pré-salé.", "pt": "Eles provaram o cordeiro de pré-salé." },
         { "level": "B2", "fr": "Nous avons goûté la spécialité locale à l'auberge.", "pt": "Provamos a especialidade local na pousada." },
         { "level": "C1-C2", "fr": "Goûter les produits du terroir est une façon de comprendre le paysage et son histoire.", "pt": "Provar os produtos do terroir é uma forma de compreender a paisagem e sua história." }
       ]
@@ -243,10 +283,10 @@
       "explanation": "Passado: il y avait."
     },
     {
-      "question": "Onde a família degustou o cordeiro?",
+      "question": "Onde o casal degustou o cordeiro?",
       "options": ["em uma pequena auberge", "na Grande Rue", "em um navio"],
       "correctIndex": 0,
-      "explanation": "A família provou o cordeiro em uma pequena pousada."
+      "explanation": "O casal provou o cordeiro em uma pequena pousada."
     }
   ]
 }

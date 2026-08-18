@@ -7,7 +7,7 @@
   "titlePt": "A travessia da baía: com um guia, em segurança",
   "subtitleFr": "Les sables mouvants, la vase et les règles du guide",
   "subtitlePt": "As areias movediças, a vasa e as regras do guia",
-  "summaryPt": "Nesta Aula 6 (A2/B1), a família faz a travessia da baía a pé com um guia, na maré baixa. O guia mostra os sables mouvants e explica as regras de segurança: nunca caminhar sozinho. O aluno aprende os verbos reflexivos no Imparfait (il s'approchait, nous nous arrêtions) e a conjunção 'mais' para oposição.",
+  "summaryPt": "Nesta Aula 6 (A2/B1), o casal faz a travessia da baía a pé com um guia, na maré baixa. O guia mostra os sables mouvants e explica as regras de segurança: nunca caminhar sozinho. O aluno aprende os verbos reflexivos no Imparfait (il s'approchait, nous nous arrêtions) e a conjunção 'mais' para oposição.",
   "paragraphs": [
     {
       "id": 1,
@@ -21,13 +21,53 @@
     },
     {
       "id": 3,
-      "fr": "Mais Irlan restait prudent. Il regardait ses pieds, écoutait le guide et tenait la main d'Íris. « La prudence, c'est la liberté », disait-il.",
-      "pt": "Mas Irlan continuava prudente. Ele olhava para os pés, escutava o guia e segurava a mão de Íris. « A prudência é a liberdade », dizia ele."
+      "fr": "Mais Irlan restait prudent. Il regardait ses pieds, écoutait le guide et tenait la main d'Andréa. « La prudence, c'est la liberté », disait-il.",
+      "pt": "Mas Irlan continuava prudente. Ele olhava para os pés, escutava o guia e segurava a mão de Andréa. « A prudência é a liberdade », dizia ele."
     },
     {
       "id": 4,
-      "fr": "Après deux heures de marche, nous sommes arrivés de l'autre côté. La traversée était magnifique, mais un peu fatigante. Íris a applaudi le guide.",
-      "pt": "Depois de duas horas de caminhada, chegamos do outro lado. A travessia foi magnífica, mas um pouco cansativa. Íris aplaudiu o guia."
+      "fr": "Après deux heures de marche, nous sommes arrivés de l'autre côté. La traversée était magnifique, mais un peu fatigante. Andréa a applaudi le guide.",
+      "pt": "Depois de duas horas de caminhada, chegamos do outro lado. A travessia foi magnífica, mas um pouco cansativa. Andréa aplaudiu o guia."
+    },
+    {
+      "id": 5,
+      "fr": "Le guide a montré l'îlot de Tombelaine au loin. « Là-bas, la mer découvre un vieux rocher. On y va seulement à marée basse. »",
+      "pt": "O guia mostrou o ilhote de Tombelaine ao longe. « Lá, o mar descobre um velho rochedo. Só se vai até lá na maré baixa. »"
+    },
+    {
+      "id": 6,
+      "fr": "Irlan a échangé un regard avec Andréa. Tombelaine. Le nom de la planche était bien réel.",
+      "pt": "Irlan trocou um olhar com Andréa. Tombelaine. O nome da prancha era bem real."
+    },
+    {
+      "id": 7,
+      "fr": "« Et le bateau gris, là-bas ? », a demandé Andréa. Le guide a plissé les yeux. « Il est arrivé hier. Il ne bouge presque jamais. »",
+      "pt": "« E o barco cinza, lá longe? », perguntou Andréa. O guia franziu os olhos. « Chegou ontem. Quase nunca se move. »"
+    },
+    {
+      "id": 8,
+      "fr": "« Il attend la marée, comme nous », a murmuré Irlan. « Ou il attend que nous bougions. »",
+      "pt": "« Ele espera a maré, como nós », murmurou Irlan. « Ou espera que nos movamos. »"
+    },
+    {
+      "id": 9,
+      "fr": "Le guide s'est arrêté près d'une flaque. « Regardez. À marée basse, on voit les traces d'un ancien chemin sous l'eau. »",
+      "pt": "O guia parou perto de uma poça. « Olhem. Na maré baixa, vemos os traços de um antigo caminho sob a água. »"
+    },
+    {
+      "id": 10,
+      "fr": "Irlan s'est penché. Des pierres alignées formaient une ligne vers Tombelaine. « Le chemin de Manoel. »",
+      "pt": "Irlan se inclinou. Pedras alinhadas formavam uma linha rumo a Tombelaine. « O caminho de Manoel. »"
+    },
+    {
+      "id": 11,
+      "fr": "« Mais demain, la marée basse est très courte », a prévenu le guide. « Il faudra partir et revenir vite. »",
+      "pt": "« Mas amanhã a maré baixa é muito curta », avisou o guia. « Será preciso partir e voltar rápido. »"
+    },
+    {
+      "id": 12,
+      "fr": "Andréa a serré le bras d'Irlan. « Nous avons notre guide. Maintenant, il nous faut une heure exacte. »",
+      "pt": "Andréa apertou o braço de Irlan. « Temos nosso guia. Agora, precisamos de uma hora exata. »"
     }
   ],
   "vocabularyDictionary": [
@@ -199,11 +239,11 @@
     "points": [
       {
         "ruleTitle": "La répétition et la durée",
-        "explanationPt": "O Imparfait expressa repetição e duração: 'il regardait ses pieds', 'il tenait la main d'Íris'.",
+        "explanationPt": "O Imparfait expressa repetição e duração: 'il regardait ses pieds', 'il tenait la main d'Andréa'.",
         "exampleFr": "Irlan regardait ses pieds et écoutait le guide.",
         "examplePt": "Irlan olhava para os pés e escutava o guia.",
         "practiceQuestion": "Qual frase indica duração no passado?",
-        "options": ["Nous marchions sur la vase.", "Nous avons traversé la baie.", "Íris a applaudi le guide."],
+        "options": ["Nous marchions sur la vase.", "Nous avons traversé la baie.", "Andréa a applaudi le guide."],
         "correctIndex": 0
       },
       {
