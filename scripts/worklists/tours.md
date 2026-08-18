@@ -410,47 +410,47 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **publier** — publicar
 - [ ] **quant à** — quanto a
 - [ ] **ravissant** — encantador
-- [ ] **réclamer** — reclamar
-- [ ] **réconforter** — consolar / confortar
-- [ ] **rectangulaire** — retangular
-- [ ] **rejeter** — rejeitar
-- [ ] **rembourser une dette** — quitar uma dívida
-- [ ] **rentable** — rentável
-- [ ] **reporter** — adiar
-- [ ] **reprocher** — censurar / repreender
-- [ ] **respecter le code** — respeitar o código
-- [ ] **ressens** — sinto / experimento (do verbo ressentir)
-- [ ] **retenir** — reter / reservar
-- [ ] **révéler un secret** — revelar um segredo
-- [ ] **robuste** — robusto
-- [ ] **rompre un contrat** — quebrar um contrato
-- [ ] **s’angoisser** — angustiar-se
-- [ ] **s’entendre bien** — dar-se bem
-- [ ] **s’étirer** — alongar-se
-- [ ] **s’indigner** — indignar-se
-- [ ] **saigner** — sangrar
-- [ ] **sauvegarder** — salvaguardar
-- [ ] **se faire vacciner** — vacinar-se
-- [ ] **se réjouir** — alegrar-se
-- [ ] **se sentir bien** — sentir-se bem
-- [ ] **se venger** — vingar-se
-- [ ] **séduire** — seduzir
-- [ ] **semer** — semear
-- [ ] **sévère** — severo
-- [ ] **simplifier** — simplificar
-- [ ] **soudainement** — subitamente
-- [ ] **soumis** — submisso
-- [ ] **spécialement** — especialmente
-- [ ] **stressant** — estressante
-- [ ] **subitement** — de repente
-- [ ] **suivre un traitement** — seguir um tratamento
-- [ ] **survivre** — sobreviver
-- [ ] **temporaire** — temporário
-- [ ] **tertre** — Pequena elevação / Place du Tertre (praça dos pintores em Montmartre)
-- [ ] **tomber amoureux** — apaixonar-se
-- [ ] **tourner un film** — rodar um filme
-- [ ] **triangulaire** — triangular
-- [ ] **trouver la solution** — encontrar a solução
-- [ ] **urgent** — urgente
-- [ ] **venger** — vingar
-- [ ] **vis-à-vis** — em relação a
+- [ ] **récolter** — colher / fazer colheita
+- [ ] **recouper les sources** — cruzar as fontes
+- [ ] **redoubler** — repetir o ano
+- [ ] **relatif** — relativo
+- [ ] **remettre** — entregar / adiar
+- [ ] **réparer une fuite** — consertar um vazamento
+- [ ] **reposant** — repousante
+- [ ] **résoudre un problème** — resolver um problema
+- [ ] **respecter un contrat** — cumprir um contrato
+- [ ] **ressentir** — sentir
+- [ ] **réussir un examen** — passar em um exame
+- [ ] **ridicule** — ridículo
+- [ ] **romantique** — romântico
+- [ ] **ruineux** — ruinoso / caríssimo
+- [ ] **s’attrister** — entristecer-se
+- [ ] **s’entendre mal** — dar-se mal
+- [ ] **s’évanouir** — desmaiar
+- [ ] **s’intégrer** — integrar-se
+- [ ] **satisfait** — satisfeito
+- [ ] **se casser le bras** — quebrar o braço
+- [ ] **se fiancer** — ficar noivo
+- [ ] **se remettre** — recuperar-se
+- [ ] **se sentir mal** — sentir-se mal
+- [ ] **sécurisé** — seguro / protegido
+- [ ] **sélectionner** — selecionar
+- [ ] **sensible** — sensível
+- [ ] **signer un contrat** — assinar um contrato
+- [ ] **sociable** — sociável
+- [ ] **souffrir** — sofrer
+- [ ] **soustraire** — subtrair
+- [ ] **splendide** — esplêndido
+- [ ] **stylistes** — os estilistas / designers de moda
+- [ ] **suffisant** — suficiente
+- [ ] **superviser** — supervisionar
+- [ ] **symétrique** — simétrico
+- [ ] **tenir une promesse** — cumprir uma promessa
+- [ ] **têtu** — teimoso
+- [ ] **totalement** — totalmente
+- [ ] **travailler à distance** — trabalhar remotamente
+- [ ] **tricher** — trapacear
+- [ ] **typique** — típico
+- [ ] **vaincre** — vencer
+- [ ] **vérifier les faits** — verificar os fatos
+- [ ] **volumineux** — volumoso

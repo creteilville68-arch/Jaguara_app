@@ -409,48 +409,48 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **prononcer** — pronunciar
 - [ ] **punir** — punir
 - [ ] **rapidement** — rapidamente
-- [ ] **réaliser** — realizar
-- [ ] **récolter** — colher / fazer colheita
-- [ ] **recouper les sources** — cruzar as fontes
-- [ ] **redoubler** — repetir o ano
-- [ ] **relatif** — relativo
-- [ ] **remettre** — entregar / adiar
-- [ ] **réparer une fuite** — consertar um vazamento
-- [ ] **reposant** — repousante
-- [ ] **résoudre un problème** — resolver um problema
-- [ ] **respecter un contrat** — cumprir um contrato
-- [ ] **ressentir** — sentir
-- [ ] **réussir un examen** — passar em um exame
-- [ ] **ridicule** — ridículo
-- [ ] **romantique** — romântico
-- [ ] **ruineux** — ruinoso / caríssimo
-- [ ] **s’attrister** — entristecer-se
-- [ ] **s’entendre mal** — dar-se mal
-- [ ] **s’évanouir** — desmaiar
-- [ ] **s’intégrer** — integrar-se
-- [ ] **satisfait** — satisfeito
-- [ ] **se casser le bras** — quebrar o braço
-- [ ] **se fiancer** — ficar noivo
-- [ ] **se remettre** — recuperar-se
-- [ ] **se sentir mal** — sentir-se mal
-- [ ] **sécurisé** — seguro / protegido
-- [ ] **sélectionner** — selecionar
-- [ ] **sensible** — sensível
-- [ ] **signer un contrat** — assinar um contrato
-- [ ] **sociable** — sociável
-- [ ] **souffrir** — sofrer
-- [ ] **soustraire** — subtrair
-- [ ] **splendide** — esplêndido
-- [ ] **stylistes** — os estilistas / designers de moda
-- [ ] **suffisant** — suficiente
-- [ ] **superviser** — supervisionar
-- [ ] **symétrique** — simétrico
-- [ ] **tenir une promesse** — cumprir uma promessa
-- [ ] **têtu** — teimoso
-- [ ] **totalement** — totalmente
-- [ ] **travailler à distance** — trabalhar remotamente
-- [ ] **tricher** — trapacear
-- [ ] **typique** — típico
-- [ ] **vaincre** — vencer
-- [ ] **vérifier les faits** — verificar os fatos
-- [ ] **volumineux** — volumoso
+- [ ] **réaliste** — realista
+- [ ] **récompenser** — recompensar
+- [ ] **recruter** — recrutar
+- [ ] **régionaux** — regionais / locais
+- [ ] **remarquable** — notável
+- [ ] **renouveler** — renovar
+- [ ] **répondre correctement** — responder corretamente
+- [ ] **reprendre son souffle** — recuperar o fôlego
+- [ ] **respecter la loi** — respeitar a lei
+- [ ] **responsable** — responsável
+- [ ] **retarder** — atrasar
+- [ ] **réutilisable** — reutilizável
+- [ ] **rigide** — rígido
+- [ ] **rompre** — romper / terminar
+- [ ] **rusé** — astuto
+- [ ] **s’échauffer** — aquecer
+- [ ] **s’établir** — estabelecer-se
+- [ ] **s’exiler** — exilar-se
+- [ ] **sage** — sábio / comportado
+- [ ] **sauf si** — a não ser que
+- [ ] **se dérouler** — decorrer / transcorrer
+- [ ] **se mettre à** — começar a
+- [ ] **se repentir** — arrepender-se
+- [ ] **se spécialiser** — especializar-se
+- [ ] **sédentaire** — sedentário
+- [ ] **semblable** — semelhante
+- [ ] **serein** — sereno
+- [ ] **signer une pétition** — assinar um abaixo-assinado
+- [ ] **solitaire** — solitário
+- [ ] **soumettre** — submeter
+- [ ] **soutenir une cause** — apoiar uma causa
+- [ ] **spontané** — espontâneo
+- [ ] **subir** — sofrer / passar por
+- [ ] **suivre la commande** — acompanhar o pedido
+- [ ] **sur-mesure** — sob medida / personalizado
+- [ ] **télécharger une application** — baixar um aplicativo
+- [ ] **terroir** — o terroir / solo regional
+- [ ] **tolérant** — tolerante
+- [ ] **touchant** — tocante
+- [ ] **travailleur acharné** — muito trabalhador
+- [ ] **triple** — triplo
+- [ ] **uniquement** — unicamente
+- [ ] **varié** — variado
+- [ ] **véritable** — verdadeiro
+- [ ] **voter une loi** — aprovar uma lei
