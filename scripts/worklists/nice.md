@@ -1,10 +1,10 @@
 # #11 Nice — C2
 
-**5157 palavras** ainda precisam aparecer nos textos das aulas desta cidade.
+**5156 palavras** ainda precisam aparecer nos textos das aulas desta cidade.
 
 Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aventura do Irlan.
 
-## C2 (5157)
+## C2 (5156)
 
 - [ ] **abâtardir** — abastardar
 - [ ] **abductif** — abdutivo
@@ -1272,7 +1272,6 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **l’apothéose** — a apoteose
 - [ ] **l’appel de note** — a chamada de nota
 - [ ] **l’appétence** — a apetência
-- [ ] **l’applique** — a arandela
 - [ ] **l’apposition** — a aposição
 - [ ] **l’après-shampoing** — o condicionador
 - [ ] **l’après-shampooing** — o condicionador
