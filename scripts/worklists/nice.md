@@ -1,10 +1,10 @@
 # #11 Nice — C2
 
-**5155 palavras** ainda precisam aparecer nos textos das aulas desta cidade.
+**5154 palavras** ainda precisam aparecer nos textos das aulas desta cidade.
 
 Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aventura do Irlan.
 
-## C2 (5155)
+## C2 (5154)
 
 - [ ] **abâtardir** — abastardar
 - [ ] **abductif** — abdutivo
@@ -4009,7 +4009,6 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **le remplacement** — a substituição
 - [ ] **le renard polaire** — a raposa-do-ártico
 - [ ] **le renouveau** — a renovação
-- [ ] **le renvoi** — a remissão
 - [ ] **le renvoi en correctionnelle** — o envio ao tribunal
 - [ ] **le reptile écailleux** — o réptil escamoso
 - [ ] **le requiem** — o réquiem
