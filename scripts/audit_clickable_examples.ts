@@ -20,6 +20,7 @@
 import fs from 'fs';
 import path from 'path';
 import { parseFrenchSentence, getTermFromEntry } from '../src/utils/textParser';
+import { masterExamplesFor, hasFourCompleteExamples } from '../src/utils/clickableParser';
 import { lookupWordBankEntry } from '../src/data/wordBankLookup';
 
 const DATA_DIR = path.join(process.cwd(), 'src', 'data');
@@ -63,13 +64,6 @@ function statsFor(city: string): CityStats {
   return cityStats.get(city)!;
 }
 
-function hasFourCompleteExamples(examples: any[] | undefined): boolean {
-  if (!Array.isArray(examples) || examples.length !== 4) return false;
-  return examples.every(
-    (e) => (e?.fr || '').toString().trim() && (e?.pt || '').toString().trim()
-  );
-}
-
 function auditLessonFile(filePath: string): void {
   const fileName = path.basename(filePath);
   const city = cityOf(fileName);
@@ -90,7 +84,7 @@ function auditLessonFile(filePath: string): void {
   const paragraphs = Array.isArray(data.paragraphs) ? data.paragraphs : [];
 
   // Dedup por termo (dourada tem prioridade sobre pontilhada).
-  const seen = new Map<string, { kind: 'dourada' | 'pontilhada'; entry: any; text: string }>();
+  const seen = new Map<string, { kind: 'dourada' | 'pontilhada'; entry: any; text: string; matchedTerm?: string }>();
 
   for (const para of paragraphs) {
     const fr = (para?.fr || '').toString().trim();
@@ -104,14 +98,14 @@ function auditLessonFile(filePath: string): void {
       const key = term.trim().toLowerCase();
       const kind = token.isDictionaryTerm ? 'dourada' : 'pontilhada';
       if (!seen.has(key)) {
-        seen.set(key, { kind, entry: token.dictionaryEntry, text: token.text });
+        seen.set(key, { kind, entry: token.dictionaryEntry, text: token.text, matchedTerm: token.matchedTerm });
       } else if (kind === 'dourada' && seen.get(key)!.kind === 'pontilhada') {
-        seen.set(key, { kind, entry: token.dictionaryEntry, text: token.text });
+        seen.set(key, { kind, entry: token.dictionaryEntry, text: token.text, matchedTerm: token.matchedTerm });
       }
     }
   }
 
-  for (const [term, { kind, entry, text }] of seen) {
+  for (const [term, { kind, entry, text, matchedTerm }] of seen) {
     if (kind === 'dourada') {
       st.goldWords += 1;
       if (!hasFourCompleteExamples(entry.examples)) {
@@ -120,7 +114,12 @@ function auditLessonFile(filePath: string): void {
       continue;
     }
 
-    // Pontilhada: aplica a regra do parser de clique.
+    // Pontilhada: aplica a regra do parser de clique (curadoria mestre tem
+    // prioridade absoluta, como no app).
+    const curated = masterExamplesFor(matchedTerm || text);
+    if (curated) {
+      entry.examples = curated;
+    }
     if (hasFourCompleteExamples(entry.examples)) {
       st.clickableDotted += 1;
       continue;
