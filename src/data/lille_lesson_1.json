@@ -4,249 +4,289 @@
   "domain": "Cotidiano",
   "level": "Básico (A2)",
   "titleFr": "Bienvenue à Lille : la Grand-Place et la Vieille Bourse",
-  "titlePt": "Bem-vindo a Lille: a Grand-Place e a Vieille Bourse",
-  "subtitleFr": "La famille arrive du Nord, découvre les façades flamandes et raconte sa première journée",
-  "subtitlePt": "A família chega do Norte, descobre as fachadas flamengas e conta o seu primeiro dia",
-  "summaryPt": "Nesta Aula 1 (Nível A2) da Cidade #3, Irlan, Andréa e Íris chegam de trem de Amiens à estação Lille Flandres. Caminham até a Grand-Place, admiram a Vieille Bourse de arquitetura flamenga e compram gaufres. O aluno aprende o Passé Composé com avoir (j'ai vu, nous avons marché) e o advérbio de tempo 'hier'.",
+  "titlePt": "Bem-vindos a Lille: a Grand-Place e a Vieille Bourse",
+  "subtitleFr": "La fleur de lys les guide vers le nord",
+  "subtitlePt": "A flor-de-lis os guia para o norte",
+  "summaryPt": "Na Aula 1 de Lille (A2), Irlan e Andréa chegam à cidade seguindo a pista da flor-de-lis. Na Grand-Place, a Vieille Bourse (antiga bolsa de comércio) chama a atenção de Irlan. O aluno pratica o verbo 'arriver' e as direções.",
   "paragraphs": [
     {
       "id": 1,
-      "fr": "Hier, nous avons pris le train à Amiens. Ce matin, nous sommes arrivés à la gare Lille Flandres. Irlan dit : « Quelle belle gare ! »",
-      "pt": "Ontem, nós pegamos o trem em Amiens. Esta manhã, chegamos na estação Lille Flandres. Irlan diz: « Que estação bonita! »"
+      "fr": "Le train entre dans Lille sous un ciel pâle.",
+      "pt": "O trem entra em Lille sob um céu pálido."
     },
     {
       "id": 2,
-      "fr": "Nous avons marché jusqu'à la Grand-Place. J'ai vu les façades flamandes colorées et la Vieille Bourse, un très beau bâtiment du XVIIe siècle.",
-      "pt": "Nós caminhamos até a Grand-Place. Eu vi as fachadas flamengas coloridas e a Vieille Bourse, um edifício muito bonito do século XVII."
+      "fr": "Irlan et Andréa descendent avec leurs valises et sortent de la gare.",
+      "pt": "Irlan e Andréa descem com as malas e saem da estação."
     },
     {
       "id": 3,
-      "fr": "Dans le centre, Andréa a acheté des gaufres chaudes. Íris a ri : « Papa, regarde les pigeons ! » Nous avons visité la place en famille.",
-      "pt": "No centro, Andréa comprou waffles quentes. Íris riu: « Papai, olha os pombos! » Nós visitamos a praça em família."
+      "fr": "« Nous voilà dans le Nord », dit Andréa en respirant l'air frais.",
+      "pt": "« Aqui estamos no Norte », diz Andréa respirando o ar fresco."
     },
     {
       "id": 4,
-      "fr": "Avant de partir, Irlan a regardé la carte de la ville. « Demain, nous allons explorer le Vieux-Lille », a-t-il dit. La journée a été parfaite.",
-      "pt": "Antes de partir, Irlan olhou o mapa da cidade. « Amanhã, vamos explorar o Vieux-Lille », disse ele. O dia foi perfeito."
+      "fr": "Irlan regarde la fleur de lys dessinée dans l'Atlas. « Elle nous a menés ici. »",
+      "pt": "Irlan olha a flor-de-lis desenhada no Atlas. « Ela nos trouxe até aqui. »"
+    },
+    {
+      "id": 5,
+      "fr": "Ils marchent jusqu'à la Grand-Place, au cœur de la ville.",
+      "pt": "Eles caminham até a Grand-Place, no coração da cidade."
+    },
+    {
+      "id": 6,
+      "fr": "Autour de la place, les façades anciennes se serrent comme des livres.",
+      "pt": "Ao redor da praça, as fachadas antigas se apertam como livros."
+    },
+    {
+      "id": 7,
+      "fr": "« Regarde la Vieille Bourse », dit Andréa. « Un lieu de commerce très ancien. »",
+      "pt": "« Olha a Vieille Bourse », diz Andréa. « Um lugar de comércio muito antigo. »"
+    },
+    {
+      "id": 8,
+      "fr": "Irlan s'arrête. « Un lieu de commerce... Peut-être qu'il garde des archives. »",
+      "pt": "Irlan para. « Um lugar de comércio... Talvez ele guarde arquivos. »"
+    },
+    {
+      "id": 9,
+      "fr": "Ils entrent dans la cour intérieure, entourée d'arcades.",
+      "pt": "Eles entram no pátio interno, cercado de arcadas."
+    },
+    {
+      "id": 10,
+      "fr": "Des bouquinistes vendent de vieux livres et des cartes postales.",
+      "pt": "Livreiros de sebo vendem livros antigos e cartões-postais."
+    },
+    {
+      "id": 11,
+      "fr": "« Cherchons le mot 'port' ou 'navire' », murmure Andréa.",
+      "pt": "« Procuremos a palavra 'porto' ou 'navio' », murmura Andréa."
+    },
+    {
+      "id": 12,
+      "fr": "Irlan sourit. « Lille est une ville de commerce. Ici, on peut apprendre à faire confiance. »",
+      "pt": "Irlan sorri. « Lille é uma cidade de comércio. Aqui, a gente pode aprender a confiar. »"
     }
   ],
   "vocabularyDictionary": [
     {
-      "term": "la gare",
-      "definitionPt": "a estação (de trem)",
-      "definitionFr": "Lieu où les trains arrivent et partent.",
-      "inflections": ["la gare", "les gares"],
-      "ptTargets": ["estação"],
+      "term": "arriver",
+      "definitionPt": "chegar",
+      "definitionFr": "Atteindre un lieu.",
+      "inflections": ["arriver", "j'arrive", "nous arrivons"],
+      "ptTargets": ["chegar"],
       "examples": [
-        { "level": "A1", "fr": "La gare est grande.", "pt": "A estação é grande." },
-        { "level": "A2-B1", "fr": "Nous sommes arrivés à la gare Lille Flandres.", "pt": "Nós chegamos na estação Lille Flandres." },
-        { "level": "B2", "fr": "La gare Lille Europe accueille aussi les trains à grande vitesse.", "pt": "A estação Lille Europe também recebe os trens de alta velocidade." },
-        { "level": "C1-C2", "fr": "La rénovation de la gare a transformé tout le quartier du centre-ville.", "pt": "A reforma da estação transformou todo o bairro do centro." }
+        { "level": "A1", "fr": "J'arrive à Lille.", "pt": "Eu chego a Lille." },
+        { "level": "A2-B1", "fr": "Ils arrivent à la gare de Lille.", "pt": "Eles chegam à estação de Lille." },
+        { "level": "B2", "fr": "Le train arrive à l'heure malgré le brouillard.", "pt": "O trem chega na hora apesar do nevoeiro." },
+        { "level": "C1-C2", "fr": "C'est en arrivant que l'on sent, dès les premiers pas, le caractère d'une ville.", "pt": "É chegando que se sente, desde os primeiros passos, o caráter de uma cidade." }
       ]
     },
     {
-      "term": "le train",
-      "definitionPt": "o trem",
-      "definitionFr": "Véhicule qui voyage sur des rails.",
-      "inflections": ["le train", "les trains"],
-      "ptTargets": ["trem"],
+      "term": "la gare",
+      "definitionPt": "a estação (de trem)",
+      "definitionFr": "Lieu où s'arrêtent les trains.",
+      "inflections": ["la gare", "une gare", "des gares"],
+      "ptTargets": ["estação"],
       "examples": [
-        { "level": "A1", "fr": "Le train part à huit heures.", "pt": "O trem parte às oito horas." },
-        { "level": "A2-B1", "fr": "Hier, nous avons pris le train à Amiens.", "pt": "Ontem, nós pegamos o trem em Amiens." },
-        { "level": "B2", "fr": "Le train régional relie Lille à la Belgique en moins d'une heure.", "pt": "O trem regional liga Lille à Bélgica em menos de uma hora." },
-        { "level": "C1-C2", "fr": "Le réseau ferroviaire du nord de la France illustre l'intégration européenne des transports.", "pt": "A rede ferroviária do norte da França ilustra a integração europeia dos transportes." }
+        { "level": "A1", "fr": "La gare est grande.", "pt": "A estação é grande." },
+        { "level": "A2-B1", "fr": "Ils sortent de la gare avec leurs valises.", "pt": "Eles saem da estação com as malas." },
+        { "level": "B2", "fr": "La gare de Lille accueille des voyageurs de toute l'Europe.", "pt": "A estação de Lille acolhe viajantes de toda a Europa." },
+        { "level": "C1-C2", "fr": "C'est la gare qui, porte ouverte, fait de chaque arrivée un commencement.", "pt": "É a estação que, porta aberta, faz de cada chegada um começo." }
+      ]
+    },
+    {
+      "term": "la valise",
+      "definitionPt": "a mala",
+      "definitionFr": "Bagage pour les vêtements.",
+      "inflections": ["la valise", "une valise", "des valises"],
+      "ptTargets": ["mala"],
+      "examples": [
+        { "level": "A1", "fr": "La valise est lourde.", "pt": "A mala é pesada." },
+        { "level": "A2-B1", "fr": "Ils descendent avec leurs valises.", "pt": "Eles descem com as malas." },
+        { "level": "B2", "fr": "La valise bien remplie contient tout le nécessaire du voyage.", "pt": "A mala bem cheia contém todo o necessário da viagem." },
+        { "level": "C1-C2", "fr": "C'est la valise qui, fermée sur un départ, renferme aussi un peu d'espoir.", "pt": "É a mala que, fechada numa partida, guarda também um pouco de esperança." }
+      ]
+    },
+    {
+      "term": "la fleur de lys",
+      "definitionPt": "a flor-de-lis",
+      "definitionFr": "Symbole en forme de lys.",
+      "inflections": ["la fleur de lys", "une fleur de lys", "des fleurs de lys"],
+      "ptTargets": ["flor-de-lis"],
+      "examples": [
+        { "level": "A1", "fr": "La fleur de lys est un symbole.", "pt": "A flor-de-lis é um símbolo." },
+        { "level": "A2-B1", "fr": "La fleur de lys les a menés à Lille.", "pt": "A flor-de-lis os trouxe a Lille." },
+        { "level": "B2", "fr": "La fleur de lys orne les blasons du nord.", "pt": "A flor-de-lis orna os brasões do norte." },
+        { "level": "C1-C2", "fr": "C'est la fleur de lys qui, discrète, relie l'indice d'Amiens à la ville de Lille.", "pt": "É a flor-de-lis que, discreta, liga a pista de Amiens à cidade de Lille." }
       ]
     },
     {
       "term": "la place",
       "definitionPt": "a praça",
-      "definitionFr": "Espace public au centre d'une ville.",
-      "inflections": ["la place", "les places"],
+      "definitionFr": "Espace ouvert dans une ville.",
+      "inflections": ["la place", "une place", "des places"],
       "ptTargets": ["praça"],
       "examples": [
-        { "level": "A1", "fr": "La place est très belle.", "pt": "A praça é muito bonita." },
-        { "level": "A2-B1", "fr": "La Grand-Place de Lille est le cœur de la ville.", "pt": "A Grand-Place de Lille é o coração da cidade." },
-        { "level": "B2", "fr": "Les terrasses de la place sont pleines le dimanche matin.", "pt": "Os terraços da praça ficam cheios no domingo de manhã." },
-        { "level": "C1-C2", "fr": "La Grand-Place incarne l'identité flamande et commerçante de la métropole lilloise.", "pt": "A Grand-Place encarna a identidade flamenga e comerciante da metrópole lillesa." }
-      ]
-    },
-    {
-      "term": "la ville",
-      "definitionPt": "a cidade",
-      "definitionFr": "Grande centre habité avec des rues et des bâtiments.",
-      "inflections": ["la ville", "les villes"],
-      "ptTargets": ["cidade"],
-      "examples": [
-        { "level": "A1", "fr": "Lille est une grande ville.", "pt": "Lille é uma grande cidade." },
-        { "level": "A2-B1", "fr": "La ville de Lille est la capitale des Flandres.", "pt": "A cidade de Lille é a capital da Flandres." },
-        { "level": "B2", "fr": "La ville a grandi autour de son centre historique et commercial.", "pt": "A cidade cresceu em torno do seu centro histórico e comercial." },
-        { "level": "C1-C2", "fr": "Le dynamisme culturel de la ville attire chaque année des milliers de visiteurs européens.", "pt": "O dinamismo cultural da cidade atrai todos os anos milhares de visitantes europeus." }
-      ]
-    },
-    {
-      "term": "la famille",
-      "definitionPt": "a família",
-      "definitionFr": "Les personnes qui vivent ensemble ou sont liées.",
-      "inflections": ["la famille", "les familles"],
-      "ptTargets": ["família"],
-      "examples": [
-        { "level": "A1", "fr": "Ma famille est petite.", "pt": "Minha família é pequena." },
-        { "level": "A2-B1", "fr": "La famille d'Irlan visite la France ensemble.", "pt": "A família do Irlan visita a França junta." },
-        { "level": "B2", "fr": "En famille, ils préfèrent voyager en train.", "pt": "Em família, eles preferem viajar de trem." },
-        { "level": "C1-C2", "fr": "Les moments passés en famille deviennent les souvenirs les plus précieux d'un voyage.", "pt": "Os momentos em família tornam-se as lembranças mais preciosas de uma viagem." }
-      ]
-    },
-    {
-      "term": "arriver",
-      "definitionPt": "chegar",
-      "definitionFr": "Venir à un endroit, atteindre une destination.",
-      "inflections": ["j'arrive", "nous arrivons", "arrivé"],
-      "ptTargets": ["chegar"],
-      "examples": [
-        { "level": "A1", "fr": "Je arrive à la gare.", "pt": "Eu chego na estação." },
-        { "level": "A2-B1", "fr": "Nous sommes arrivés à Lille ce matin.", "pt": "Nós chegamos em Lille esta manhã." },
-        { "level": "B2", "fr": "Le train est arrivé avec seulement cinq minutes de retard.", "pt": "O trem chegou com apenas cinco minutos de atraso." },
-        { "level": "C1-C2", "fr": "Arriver dans une nouvelle ville est toujours une promesse de découvertes.", "pt": "Chegar em uma nova cidade é sempre uma promessa de descobertas." }
-      ]
-    },
-    {
-      "term": "prendre",
-      "definitionPt": "pegar (transporte), tomar",
-      "definitionFr": "Utiliser un moyen de transport.",
-      "inflections": ["je prends", "nous prenons", "pris"],
-      "ptTargets": ["pegar"],
-      "examples": [
-        { "level": "A1", "fr": "Je prends le bus.", "pt": "Eu pego o ônibus." },
-        { "level": "A2-B1", "fr": "Hier, nous avons pris le train pour Lille.", "pt": "Ontem, pegamos o trem para Lille." },
-        { "level": "B2", "fr": "Beaucoup de voyageurs prennent le métro automatique pour traverser la ville.", "pt": "Muitos viajantes pegam o metrô automático para atravessar a cidade." },
-        { "level": "C1-C2", "fr": "Prendre les transports en commun permet de découvrir la vie quotidienne d'une métropole.", "pt": "Pegar o transporte público permite descobrir a vida cotidiana de uma metrópole." }
-      ]
-    },
-    {
-      "term": "voir",
-      "definitionPt": "ver",
-      "definitionFr": "Percevoir avec les yeux.",
-      "inflections": ["je vois", "nous voyons", "vu"],
-      "ptTargets": ["ver"],
-      "examples": [
-        { "level": "A1", "fr": "Je vois la place.", "pt": "Eu vejo a praça." },
-        { "level": "A2-B1", "fr": "J'ai vu la Vieille Bourse, c'était magnifique.", "pt": "Eu vi a Vieille Bourse, era magnífica." },
-        { "level": "B2", "fr": "Nous avons vu les façades colorées du centre historique.", "pt": "Nós vimos as fachadas coloridas do centro histórico." },
-        { "level": "C1-C2", "fr": "Voir la Grand-Place au coucher du soleil révèle toute la beauté de l'architecture flamande.", "pt": "Ver a Grand-Place ao pôr do sol revela toda a beleza da arquitetura flamenga." }
-      ]
-    },
-    {
-      "term": "acheter",
-      "definitionPt": "comprar",
-      "definitionFr": "Obtenir quelque chose en payant.",
-      "inflections": ["j'achète", "nous achetons", "acheté"],
-      "ptTargets": ["comprar"],
-      "examples": [
-        { "level": "A1", "fr": "J'achète un pain.", "pt": "Eu compro um pão." },
-        { "level": "A2-B1", "fr": "Andréa a acheté des gaufres chaudes.", "pt": "Andréa comprou waffles quentes." },
-        { "level": "B2", "fr": "Nous avons acheté des souvenirs dans le centre-ville.", "pt": "Nós compramos lembranças no centro." },
-        { "level": "C1-C2", "fr": "Acheter sur les marchés du Nord est une expérience conviviale et authentique.", "pt": "Comprar nos mercados do Norte é uma experiência acolhedora e autêntica." }
+        { "level": "A1", "fr": "La place est grande.", "pt": "A praça é grande." },
+        { "level": "A2-B1", "fr": "Ils marchent jusqu'à la Grand-Place.", "pt": "Eles caminham até a Grand-Place." },
+        { "level": "B2", "fr": "La Grand-Place réunit les façades anciennes du centre.", "pt": "A Grand-Place reúne as fachadas antigas do centro." },
+        { "level": "C1-C2", "fr": "C'est la place qui, vaste et vivante, bat comme le cœur de la ville.", "pt": "É a praça que, vasta e viva, bate como o coração da cidade." }
       ]
     },
     {
       "term": "la façade",
       "definitionPt": "a fachada",
-      "definitionFr": "La face extérieure d'un bâtiment.",
-      "inflections": ["la façade", "les façades"],
+      "definitionFr": "Face extérieure d'un bâtiment.",
+      "inflections": ["la façade", "une façade", "des façades"],
       "ptTargets": ["fachada"],
       "examples": [
-        { "level": "A1", "fr": "La façade est rouge.", "pt": "A fachada é vermelha." },
-        { "level": "A2-B1", "fr": "Les façades de la Grand-Place sont colorées.", "pt": "As fachadas da Grand-Place são coloridas." },
-        { "level": "B2", "fr": "La façade de la Vieille Bourse est ornée de sculptures délicates.", "pt": "A fachada da Vieille Bourse é ornamentada com esculturas delicadas." },
-        { "level": "C1-C2", "fr": "Les façades flamandes témoignent de la richesse marchande de Lille au Grand Siècle.", "pt": "As fachadas flamengas testemunham a riqueza comercial de Lille no Grande Século." }
-      ]
-    },
-    {
-      "term": "le centre",
-      "definitionPt": "o centro",
-      "definitionFr": "La partie principale d'une ville.",
-      "inflections": ["le centre", "les centres"],
-      "ptTargets": ["centro"],
-      "examples": [
-        { "level": "A1", "fr": "Le centre est près d'ici.", "pt": "O centro é perto daqui." },
-        { "level": "A2-B1", "fr": "Le centre de Lille est piéton et très animé.", "pt": "O centro de Lille é de pedestres e muito animado." },
-        { "level": "B2", "fr": "Le centre historique concentre les boutiques et les restaurants traditionnels.", "pt": "O centro histórico concentra as lojas e os restaurantes tradicionais." },
-        { "level": "C1-C2", "fr": "La piétonnisation du centre a profondément transformé les habitudes des Lillois.", "pt": "A pedestrização do centro transformou profundamente os hábitos dos habitantes de Lille." }
+        { "level": "A1", "fr": "La façade est belle.", "pt": "A fachada é bonita." },
+        { "level": "A2-B1", "fr": "Les façades anciennes entourent la place.", "pt": "As fachadas antigas cercam a praça." },
+        { "level": "B2", "fr": "Les façades sculptées témoignent de la richesse du passé.", "pt": "As fachadas esculpidas testemunham a riqueza do passado." },
+        { "level": "C1-C2", "fr": "C'est la façade qui, offerte à tous, raconte une ville avant même qu'on y entre.", "pt": "É a fachada que, oferecida a todos, conta uma cidade antes mesmo de se entrar nela." }
       ]
     },
     {
       "term": "la bourse",
-      "definitionPt": "a bolsa (edifício de comércio)",
-      "definitionFr": "Bâtiment historique où l'on faisait du commerce.",
-      "inflections": ["la bourse", "les bourses"],
+      "definitionPt": "a bolsa (de comércio)",
+      "definitionFr": "Lieu d'échange commercial.",
+      "inflections": ["la bourse", "une bourse", "des bourses"],
       "ptTargets": ["bolsa"],
       "examples": [
-        { "level": "A1", "fr": "La bourse est un vieux bâtiment.", "pt": "A bolsa é um edifício antigo." },
-        { "level": "A2-B1", "fr": "La Vieille Bourse se trouve sur la Grand-Place.", "pt": "A Vieille Bourse fica na Grand-Place." },
-        { "level": "B2", "fr": "Sous les arcades de la Vieille Bourse, des bouquinistes vendent de vieux livres.", "pt": "Sob as arcadas da Vieille Bourse, sebos vendem livros antigos." },
-        { "level": "C1-C2", "fr": "La Vieille Bourse illustre le passé commerçant et prospère de la capitale des Flandres.", "pt": "A Vieille Bourse ilustra o passado comercial e próspero da capital da Flandres." }
+        { "level": "A1", "fr": "La bourse est ancienne.", "pt": "A bolsa é antiga." },
+        { "level": "A2-B1", "fr": "La Vieille Bourse est un lieu de commerce.", "pt": "A Vieille Bourse é um lugar de comércio." },
+        { "level": "B2", "fr": "La Vieille Bourse abrite une cour entourée d'arcades.", "pt": "A Vieille Bourse abriga um pátio cercado de arcadas." },
+        { "level": "C1-C2", "fr": "C'est la bourse qui, autrefois, concentrait les échanges et les nouvelles de la ville.", "pt": "É a bolsa que, antigamente, concentrava as trocas e as notícias da cidade." }
+      ]
+    },
+    {
+      "term": "le commerce",
+      "definitionPt": "o comércio",
+      "definitionFr": "Activité d'achat et de vente.",
+      "inflections": ["le commerce", "un commerce", "des commerces"],
+      "ptTargets": ["comércio"],
+      "examples": [
+        { "level": "A1", "fr": "Le commerce est important.", "pt": "O comércio é importante." },
+        { "level": "A2-B1", "fr": "Lille est une ville de commerce.", "pt": "Lille é uma cidade de comércio." },
+        { "level": "B2", "fr": "Le commerce a fait la richesse de la région.", "pt": "O comércio fez a riqueza da região." },
+        { "level": "C1-C2", "fr": "C'est le commerce qui, en reliant les hommes, a dessiné le visage de Lille.", "pt": "É o comércio que, ao ligar os homens, desenhou o rosto de Lille." }
+      ]
+    },
+    {
+      "term": "les archives",
+      "definitionPt": "os arquivos",
+      "definitionFr": "Documents anciens conservés.",
+      "inflections": ["les archives", "une archive", "des archives"],
+      "ptTargets": ["arquivos"],
+      "examples": [
+        { "level": "A1", "fr": "Les archives sont anciennes.", "pt": "Os arquivos são antigos." },
+        { "level": "A2-B1", "fr": "Ce lieu garde peut-être des archives.", "pt": "Este lugar talvez guarde arquivos." },
+        { "level": "B2", "fr": "Les archives du commerce conservent des registres précieux.", "pt": "Os arquivos do comércio conservam registros preciosos." },
+        { "level": "C1-C2", "fr": "Ce sont les archives qui, poussiéreuses, gardent la trace exacte de ce que l'on croyait oublié.", "pt": "São os arquivos que, empoeirados, guardam o rastro exato do que se julgava esquecido." }
+      ]
+    },
+    {
+      "term": "la confiance",
+      "definitionPt": "a confiança",
+      "definitionFr": "Sentiment de sécurité envers quelqu'un.",
+      "inflections": ["la confiance", "une confiance"],
+      "ptTargets": ["confiança"],
+      "examples": [
+        { "level": "A1", "fr": "La confiance est précieuse.", "pt": "A confiança é preciosa." },
+        { "level": "A2-B1", "fr": "Ici, on peut apprendre à faire confiance.", "pt": "Aqui, a gente pode aprender a confiar." },
+        { "level": "B2", "fr": "La confiance se construit avec le temps.", "pt": "A confiança se constrói com o tempo." },
+        { "level": "C1-C2", "fr": "C'est la confiance qui, fragile, devient pourtant le socle de toutes les aventures.", "pt": "É a confiança que, frágil, se torna ainda assim o alicerce de todas as aventuras." }
+      ]
+    },
+    {
+      "term": "chercher",
+      "definitionPt": "procurar",
+      "definitionFr": "Essayer de trouver.",
+      "inflections": ["chercher", "je cherche", "nous cherchons"],
+      "ptTargets": ["procurar", "buscar"],
+      "examples": [
+        { "level": "A1", "fr": "Je cherche la gare.", "pt": "Eu procuro a estação." },
+        { "level": "A2-B1", "fr": "Ils cherchent le mot 'port'.", "pt": "Eles procuram a palavra 'porto'." },
+        { "level": "B2", "fr": "Chercher un indice demande de l'attention.", "pt": "Procurar uma pista exige atenção." },
+        { "level": "C1-C2", "fr": "C'est en cherchant que l'on apprend à reconnaître ce qui compte.", "pt": "É procurando que se aprende a reconhecer o que importa." }
+      ]
+    },
+    {
+      "term": "le nord",
+      "definitionPt": "o norte",
+      "definitionFr": "Point cardinal opposé au sud.",
+      "inflections": ["le nord", "le Nord"],
+      "ptTargets": ["norte"],
+      "examples": [
+        { "level": "A1", "fr": "Le nord est loin.", "pt": "O norte é longe." },
+        { "level": "A2-B1", "fr": "Nous voilà dans le Nord.", "pt": "Aqui estamos no Norte." },
+        { "level": "B2", "fr": "Le nord de la France est connu pour son accueil chaleureux.", "pt": "O norte da França é conhecido por seu acolhimento caloroso." },
+        { "level": "C1-C2", "fr": "C'est le nord qui, dans la boussole comme dans la vie, donne un cap quand tout le reste bouge.", "pt": "É o norte que, na bússola como na vida, dá um rumo quando todo o resto se move." }
       ]
     }
   ],
   "grammarTip": {
-    "ruleTitle": "Le Passé Composé avec AVOIR (j'ai vu, nous avons marché)",
-    "explanationPt": "Para contar o que aconteceu, usamos o Passé Composé: sujeito + avoir no presente + particípio passado. Ex.: 'J'ai vu' (eu vi), 'nous avons marché' (nós caminhamos).",
-    "exampleFr": "Hier, nous avons pris le train à Amiens.",
-    "examplePt": "Ontem, nós pegamos o trem em Amiens.",
-    "practiceQuestion": "Complete: « Hier, j'___ la Grand-Place. »",
-    "options": ["ai vu", "suis vu", "vois"],
+    "ruleTitle": "Le verbe arriver",
+    "explanationPt": "Chegar: j'arrive, tu arrives, il arrive, nous arrivons. 'Arriver à' + lugar: 'J'arrive à Lille' (Chego a Lille).",
+    "exampleFr": "Ils arrivent à la gare de Lille.",
+    "examplePt": "Eles chegam à estação de Lille.",
+    "practiceQuestion": "Complete: 'Nous _____ à Lille.'",
+    "options": ["arrivons", "arrivent", "arrive"],
     "correctIndex": 0,
     "points": [
       {
-        "ruleTitle": "Le Passé Composé avec AVOIR",
-        "explanationPt": "Formação: avoir no presente (j'ai, tu as, il a, nous avons, vous avez, ils ont) + particípio passado. 'Voir' → 'vu'; 'prendre' → 'pris'; 'acheter' → 'acheté'.",
-        "exampleFr": "J'ai vu la Vieille Bourse.",
-        "examplePt": "Eu vi a Vieille Bourse.",
-        "practiceQuestion": "Qual é o particípio passado de 'voir'?",
-        "options": ["vu", "voit", "vois"],
+        "ruleTitle": "Indiquer une direction : jusqu'à",
+        "explanationPt": "'Jusqu'à' = até. 'Ils marchent jusqu'à la Grand-Place' (Eles caminham até a Grand-Place).",
+        "exampleFr": "Ils marchent jusqu'à la Grand-Place.",
+        "examplePt": "Eles caminham até a Grand-Place.",
+        "practiceQuestion": "Complete: 'Ils marchent _____ la Grand-Place.'",
+        "options": ["jusqu'à", "jusque", "à cause de"],
         "correctIndex": 0
       },
       {
-        "ruleTitle": "L'adverbe de temps 'hier'",
-        "explanationPt": "'Hier' (ontem) anuncia o passado. Com ele, usamos o Passé Composé: 'Hier, nous avons mangé'.",
-        "exampleFr": "Hier, nous avons pris le train.",
-        "examplePt": "Ontem, nós pegamos o trem.",
-        "practiceQuestion": "Qual frase está correta?",
-        "options": ["Hier, j'ai acheté des gaufres.", "Hier, j'achète des gaufres.", "Hier, j'achèterai des gaufres."],
+        "ruleTitle": "Au cœur de",
+        "explanationPt": "'Au cœur de' = no coração de / no centro de. 'Au cœur de la ville' (no coração da cidade).",
+        "exampleFr": "La Grand-Place est au cœur de la ville.",
+        "examplePt": "A Grand-Place fica no coração da cidade.",
+        "practiceQuestion": "Complete: 'La place est _____ de la ville.'",
+        "options": ["au cœur", "au bord", "à côté"],
         "correctIndex": 0
       }
     ]
   },
   "quizQuestions": [
     {
-      "question": "Em que estação a família chegou em Lille?",
-      "options": ["Lille Flandres", "Lille Europe", "Gare du Nord"],
+      "question": "O que guiou Irlan e Andréa até Lille?",
+      "options": ["a flor-de-lis", "a rosácea", "o arco-íris"],
       "correctIndex": 0,
-      "explanation": "A família chegou à gare Lille Flandres, vinda de Amiens."
+      "explanation": "La fleur de lys les a menés ici."
     },
     {
-      "question": "Qual edifício histórico fica na Grand-Place de Lille?",
-      "options": ["La Vieille Bourse", "Le Louvre", "La Tour Eiffel"],
+      "question": "O que é a Vieille Bourse?",
+      "options": ["um antigo lugar de comércio", "uma estação", "um parque"],
       "correctIndex": 0,
-      "explanation": "A Vieille Bourse, do século XVII, fica na Grand-Place."
+      "explanation": "Un lieu de commerce très ancien."
     },
     {
-      "question": "Complete com o Passé Composé: « Nous ___ jusqu'à la place. »",
-      "options": ["avons marché", "sommes marchés", "marchons"],
+      "question": "O que Irlan espera encontrar na Vieille Bourse?",
+      "options": ["arquivos", "comida", "um trem"],
       "correctIndex": 0,
-      "explanation": "'Marcher' usa avoir: nous avons marché."
+      "explanation": "Peut-être qu'il garde des archives."
     },
     {
-      "question": "O que Andréa comprou no centro?",
-      "options": ["des gaufres chaudes", "des macarons", "du fromage"],
+      "question": "Complete: 'Nous _____ à Lille.'",
+      "options": ["arrivons", "arrivent", "arrive"],
       "correctIndex": 0,
-      "explanation": "Andréa comprou gaufres (waffles) quentes."
+      "explanation": "nous arrivons."
     },
     {
-      "question": "O que Irlan disse que vão fazer amanhã?",
-      "options": ["explorer le Vieux-Lille", "retourner à Paris", "prendre l'avion"],
+      "question": "Complete: 'Ils marchent _____ la Grand-Place.'",
+      "options": ["jusqu'à", "jusque", "à cause de"],
       "correctIndex": 0,
-      "explanation": "Irlan anunciou: 'Demain, nous allons explorer le Vieux-Lille'."
+      "explanation": "jusqu'à = até."
     }
   ]
 }

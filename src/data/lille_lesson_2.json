@@ -1,252 +1,292 @@
 {
   "id": "lille_lesson_2",
   "cityId": "lille",
-  "domain": "Gastronomia",
+  "domain": "Gastronomia & Bairro",
   "level": "Básico (A2)",
   "titleFr": "Le Vieux-Lille et l'estaminet : le welsh du Nord",
   "titlePt": "O Vieux-Lille e o estaminet: o welsh do Norte",
-  "subtitleFr": "Des rues pavées, un plat chaud au fromage et la cuisine généreuse du Nord",
-  "subtitlePt": "Ruas de paralelepípedos, um prato quente de queijo e a culinária generosa do Norte",
-  "summaryPt": "Nesta Aula 2 (A2), a família passeia pelas ruas de paralelepípedos do Vieux-Lille, pela rue de la Monnaie, e almoça em um estaminet tradicional: o welsh, queijo derretido servido com frites. O aluno pratica o Passé Composé com avoir (j'ai commandé, nous avons goûté) e pergunta 'est-ce que tu as vu ?'.",
+  "subtitleFr": "Un repas chaleureux et une première confiance",
+  "subtitlePt": "Uma refeição calorosa e uma primeira confiança",
+  "summaryPt": "Na Aula 2 de Lille (A2), Irlan e Andréa se instalam no Vieux-Lille e jantam num estaminet, onde provam o welsh. O aluno pratica o verbo 's'installer' e o vocabulário do restaurante.",
   "paragraphs": [
     {
       "id": 1,
-      "fr": "Ce matin, nous avons exploré le Vieux-Lille. Les rues sont pavées et les maisons sont basses, avec de belles briques rouges.",
-      "pt": "Esta manhã, nós exploramos o Vieux-Lille. As ruas são de paralelepípedos e as casas são baixas, com belos tijolos vermelhos."
+      "fr": "Après la Grand-Place, Irlan et Andréa marchent dans le Vieux-Lille.",
+      "pt": "Depois da Grand-Place, Irlan e Andréa caminham pelo Vieux-Lille."
     },
     {
       "id": 2,
-      "fr": "À midi, nous avons trouvé un petit estaminet dans la rue de la Monnaie. Le serveur a recommandé le welsh, un plat chaud avec du fromage fondu.",
-      "pt": "Ao meio-dia, encontramos um pequeno estaminet na rue de la Monnaie. O garçom recomendou o welsh, um prato quente com queijo derretido."
+      "fr": "Les rues sont étroites, pavées et pleines de petites façades colorées.",
+      "pt": "As ruas são estreitas, de paralelepípedos e cheias de pequenas fachadas coloridas."
     },
     {
       "id": 3,
-      "fr": "J'ai commandé un welsh avec des frites. Andréa a goûté une carbonnade flamande. Íris a mangé une gaufre sucrée pour finir.",
-      "pt": "Eu pedi um welsh com batatas fritas. Andréa provou uma carbonnade flamande. Íris comeu um waffle doce para terminar."
+      "fr": "Ils déposent leurs valises dans un petit hôtel du quartier.",
+      "pt": "Eles deixam as malas num pequeno hotel do bairro."
     },
     {
       "id": 4,
-      "fr": "Le serveur a demandé : « Est-ce que vous avez aimé ? » Nous avons tous dit oui. La cuisine du Nord est vraiment généreuse.",
-      "pt": "O garçom perguntou: « Vocês gostaram? » Todos nós dissemos sim. A culinária do Norte é realmente generosa."
+      "fr": "Le soir, ils entrent dans un estaminet, un restaurant typique du Nord.",
+      "pt": "À noite, eles entram num estaminet, um restaurante típico do Norte."
+    },
+    {
+      "id": 5,
+      "fr": "Une odeur de fromage fondu remplit la salle chaleureuse.",
+      "pt": "Um cheiro de queijo derretido enche a sala calorosa."
+    },
+    {
+      "id": 6,
+      "fr": "« Qu'est-ce que tu veux goûter ? » demande Andréa.",
+      "pt": "« O que você quer provar? » pergunta Andréa."
+    },
+    {
+      "id": 7,
+      "fr": "« Le welsh, bien sûr. C'est le plat du Nord », répond Irlan.",
+      "pt": "« O welsh, claro. É o prato do Norte », responde Irlan."
+    },
+    {
+      "id": 8,
+      "fr": "Le serveur apporte deux welshs, avec du pain et une sauce dorée.",
+      "pt": "O garçom traz dois welshs, com pão e um molho dourado."
+    },
+    {
+      "id": 9,
+      "fr": "Andréa goûte. « C'est réconfortant, comme une couverture chaude. »",
+      "pt": "Andréa prova. « É reconfortante, como um cobertor quente. »"
+    },
+    {
+      "id": 10,
+      "fr": "Irlan sourit. « Dans le Nord, on mange pour se réchauffer. »",
+      "pt": "Irlan sorri. « No Norte, come-se para se aquecer. »"
+    },
+    {
+      "id": 11,
+      "fr": "Andréa regarde Irlan. « Je te fais confiance. Et je fais confiance à cette route. »",
+      "pt": "Andréa olha para Irlan. « Eu confio em você. E confio neste caminho. »"
+    },
+    {
+      "id": 12,
+      "fr": "Irlan pose sa main sur la sienne. « Alors nous allons la suivre ensemble. »",
+      "pt": "Irlan põe a mão sobre a dela. « Então vamos segui-lo juntos. »"
     }
   ],
   "vocabularyDictionary": [
     {
       "term": "le quartier",
       "definitionPt": "o bairro",
-      "definitionFr": "Partie d'une ville, un lieu de vie.",
-      "inflections": ["le quartier", "les quartiers"],
+      "definitionFr": "Partie d'une ville.",
+      "inflections": ["le quartier", "un quartier", "des quartiers"],
       "ptTargets": ["bairro"],
       "examples": [
-        { "level": "A1", "fr": "Le quartier est calme.", "pt": "O bairro é calmo." },
-        { "level": "A2-B1", "fr": "Le Vieux-Lille est un quartier charmant.", "pt": "O Vieux-Lille é um bairro charmoso." },
-        { "level": "B2", "fr": "Le quartier historique regorge de restaurants traditionnels.", "pt": "O bairro histórico está cheio de restaurantes tradicionais." },
-        { "level": "C1-C2", "fr": "La rénovation du quartier a préservé son patrimoine architectural exceptionnel.", "pt": "A revitalização do bairro preservou seu patrimônio arquitetônico excepcional." }
+        { "level": "A1", "fr": "Le quartier est joli.", "pt": "O bairro é bonito." },
+        { "level": "A2-B1", "fr": "Ils marchent dans le Vieux-Lille.", "pt": "Eles caminham pelo Vieux-Lille." },
+        { "level": "B2", "fr": "Le quartier garde un charme ancien malgré la modernité.", "pt": "O bairro conserva um charme antigo apesar da modernidade." },
+        { "level": "C1-C2", "fr": "C'est le quartier qui, avec ses ruelles, garde la mémoire intime d'une ville.", "pt": "É o bairro que, com suas ruelas, guarda a memória íntima de uma cidade." }
       ]
     },
     {
       "term": "la rue",
       "definitionPt": "a rua",
-      "definitionFr": "Voie bordée de maisons ou de magasins.",
-      "inflections": ["la rue", "les rues"],
+      "definitionFr": "Voie dans une ville.",
+      "inflections": ["la rue", "une rue", "des rues"],
       "ptTargets": ["rua"],
       "examples": [
-        { "level": "A1", "fr": "La rue est longue.", "pt": "A rua é comprida." },
-        { "level": "A2-B1", "fr": "La rue de la Monnaie est célèbre à Lille.", "pt": "A rue de la Monnaie é famosa em Lille." },
-        { "level": "B2", "fr": "Les rues pavées du Vieux-Lille rappellent le passé flamand de la ville.", "pt": "As ruas de paralelepípedos do Vieux-Lille lembram o passado flamengo da cidade." },
-        { "level": "C1-C2", "fr": "Se promener dans ces rues anciennes, c'est plonger dans l'histoire commerciale du Nord.", "pt": "Passear por essas ruas antigas é mergulhar na história comercial do Norte." }
+        { "level": "A1", "fr": "La rue est étroite.", "pt": "A rua é estreita." },
+        { "level": "A2-B1", "fr": "Les rues du Vieux-Lille sont pavées.", "pt": "As ruas do Vieux-Lille são de paralelepípedos." },
+        { "level": "B2", "fr": "Les rues pavées racontent des siècles de passages.", "pt": "As ruas de pedra contam séculos de passagens." },
+        { "level": "C1-C2", "fr": "C'est la rue qui, silencieuse, devient le fil qui relie les lieux et les souvenirs.", "pt": "É a rua que, silenciosa, vira o fio que liga os lugares e as lembranças." }
       ]
     },
     {
-      "term": "manger",
-      "definitionPt": "comer",
-      "definitionFr": "Prendre de la nourriture.",
-      "inflections": ["je mange", "nous mangeons", "mangé"],
-      "ptTargets": ["comer"],
+      "term": "l'hôtel",
+      "definitionPt": "o hotel",
+      "definitionFr": "Lieu où l'on dort en voyage.",
+      "inflections": ["l'hôtel", "un hôtel", "des hôtels"],
+      "ptTargets": ["hotel"],
       "examples": [
-        { "level": "A1", "fr": "Je mange une pomme.", "pt": "Eu como uma maçã." },
-        { "level": "A2-B1", "fr": "Nous avons mangé dans un estaminet.", "pt": "Nós comemos em um estaminet." },
-        { "level": "B2", "fr": "Les Lillois mangent souvent des moules-frites à la Braderie.", "pt": "Os habitantes de Lille costumam comer moules-frites na Braderie." },
-        { "level": "C1-C2", "fr": "Manger dans une estaminet, c'est partager un moment chaleureux de la culture du Nord.", "pt": "Comer em um estaminet é compartilhar um momento caloroso da cultura do Norte." }
+        { "level": "A1", "fr": "L'hôtel est confortable.", "pt": "O hotel é confortável." },
+        { "level": "A2-B1", "fr": "Ils déposent leurs valises à l'hôtel.", "pt": "Eles deixam as malas no hotel." },
+        { "level": "B2", "fr": "L'hôtel du quartier est petit mais accueillant.", "pt": "O hotel do bairro é pequeno mas acolhedor." },
+        { "level": "C1-C2", "fr": "C'est l'hôtel qui, anonyme le soir, devient un refuge entre deux étapes.", "pt": "É o hotel que, anônimo à noite, vira um refúgio entre duas etapas." }
       ]
     },
     {
-      "term": "commander",
-      "definitionPt": "pedir (em restaurante)",
-      "definitionFr": "Demander un plat ou un service.",
-      "inflections": ["je commande", "nous commandons", "commandé"],
-      "ptTargets": ["pedir"],
+      "term": "le restaurant",
+      "definitionPt": "o restaurante",
+      "definitionFr": "Lieu où l'on mange.",
+      "inflections": ["le restaurant", "un restaurant", "des restaurants"],
+      "ptTargets": ["restaurante"],
       "examples": [
-        { "level": "A1", "fr": "Je commande un café.", "pt": "Eu peço um café." },
-        { "level": "A2-B1", "fr": "J'ai commandé un welsh avec des frites.", "pt": "Eu pedi um welsh com batatas fritas." },
-        { "level": "B2", "fr": "Nous avons commandé la spécialité de la maison.", "pt": "Nós pedimos a especialidade da casa." },
-        { "level": "C1-C2", "fr": "Commander un plat régional authentique est le meilleur moyen de découvrir une culture.", "pt": "Pedir um prato regional autêntico é a melhor forma de descobrir uma cultura." }
+        { "level": "A1", "fr": "Le restaurant est chaleureux.", "pt": "O restaurante é caloroso." },
+        { "level": "A2-B1", "fr": "Ils entrent dans un restaurant typique du Nord.", "pt": "Eles entram num restaurante típico do Norte." },
+        { "level": "B2", "fr": "Le restaurant du quartier propose des plats de la région.", "pt": "O restaurante do bairro oferece pratos da região." },
+        { "level": "C1-C2", "fr": "C'est le restaurant qui, par ses odeurs, raconte le goût d'un territoire.", "pt": "É o restaurante que, por seus cheiros, conta o gosto de um território." }
       ]
     },
     {
-      "term": "goûter",
-      "definitionPt": "provar (comida), experimentar",
-      "definitionFr": "Tester une nourriture ou une boisson.",
-      "inflections": ["je goûte", "nous goûtons", "goûté"],
-      "ptTargets": ["provar"],
+      "term": "l'odeur",
+      "definitionPt": "o cheiro",
+      "definitionFr": "Sensation perçue par le nez.",
+      "inflections": ["l'odeur", "une odeur", "des odeurs"],
+      "ptTargets": ["cheiro", "odor"],
       "examples": [
-        { "level": "A1", "fr": "Je goûte le gâteau.", "pt": "Eu provo o bolo." },
-        { "level": "A2-B1", "fr": "Andréa a goûté une carbonnade flamande.", "pt": "Andréa provou uma carbonnade flamande." },
-        { "level": "B2", "fr": "Nous avons goûté plusieurs plats du Nord pendant le voyage.", "pt": "Nós provamos vários pratos do Norte durante a viagem." },
-        { "level": "C1-C2", "fr": "Goûter les spécialités locales est un rituel essentiel pour comprendre l'identité d'une région.", "pt": "Provar as especialidades locais é um ritual essencial para compreender a identidade de uma região." }
+        { "level": "A1", "fr": "L'odeur est bonne.", "pt": "O cheiro é bom." },
+        { "level": "A2-B1", "fr": "Une odeur de fromage remplit la salle.", "pt": "Um cheiro de queijo enche a sala." },
+        { "level": "B2", "fr": "L'odeur du plat chaud met tout de suite en appétit.", "pt": "O cheiro do prato quente abre imediatamente o apetite." },
+        { "level": "C1-C2", "fr": "C'est l'odeur qui, dès le seuil, annonce la chaleur d'un repas partagé.", "pt": "É o cheiro que, desde a porta, anuncia o calor de uma refeição partilhada." }
       ]
     },
     {
       "term": "le fromage",
       "definitionPt": "o queijo",
-      "definitionFr": "Aliment fait à partir du lait.",
-      "inflections": ["le fromage", "les fromages"],
+      "definitionFr": "Aliment à base de lait.",
+      "inflections": ["le fromage", "un fromage", "des fromages"],
       "ptTargets": ["queijo"],
       "examples": [
-        { "level": "A1", "fr": "J'aime le fromage.", "pt": "Eu gosto de queijo." },
-        { "level": "A2-B1", "fr": "Le welsh est fait avec du fromage fondu.", "pt": "O welsh é feito com queijo derretido." },
-        { "level": "B2", "fr": "Le maroilles est un fromage fort très connu dans le Nord.", "pt": "O maroilles é um queijo forte muito conhecido no Norte." },
-        { "level": "C1-C2", "fr": "La tradition fromagère du Nord illustre la richesse du terroir rural et agricole français.", "pt": "A tradição queijeira do Norte ilustra a riqueza do terroir rural e agrícola francês." }
-      ]
-    },
-    {
-      "term": "la bière",
-      "definitionPt": "a cerveja",
-      "definitionFr": "Boisson fermentée à base de céréales.",
-      "inflections": ["la bière", "les bières"],
-      "ptTargets": ["cerveja"],
-      "examples": [
-        { "level": "A1", "fr": "La bière est froide.", "pt": "A cerveja está fria." },
-        { "level": "A2-B1", "fr": "Le welsh est préparé avec de la bière.", "pt": "O welsh é preparado com cerveja." },
-        { "level": "B2", "fr": "La région du Nord possède une longue tradition de brasseries locales.", "pt": "A região do Norte possui uma longa tradição de cervejarias locais." },
-        { "level": "C1-C2", "fr": "La culture de la bière artisanale connaît un véritable renouveau dans la métropole lilloise.", "pt": "A cultura da cerveja artesanal conhece um verdadeiro renascimento na metrópole lillesa." }
+        { "level": "A1", "fr": "Le fromage est bon.", "pt": "O queijo é bom." },
+        { "level": "A2-B1", "fr": "Le welsh est recouvert de fromage fondu.", "pt": "O welsh é coberto de queijo derretido." },
+        { "level": "B2", "fr": "Le fromage fondu apporte du réconfort les jours de froid.", "pt": "O queijo derretido traz conforto nos dias de frio." },
+        { "level": "C1-C2", "fr": "C'est le fromage qui, fondant et doré, transforme un plat simple en étreinte.", "pt": "É o queijo que, derretendo e dourado, transforma um prato simples em abraço." }
       ]
     },
     {
       "term": "le plat",
-      "definitionPt": "o prato (comida)",
-      "definitionFr": "Nourriture préparée et servie.",
-      "inflections": ["le plat", "les plats"],
+      "definitionPt": "o prato",
+      "definitionFr": "Mets préparé.",
+      "inflections": ["le plat", "un plat", "des plats"],
       "ptTargets": ["prato"],
       "examples": [
         { "level": "A1", "fr": "Le plat est chaud.", "pt": "O prato está quente." },
-        { "level": "A2-B1", "fr": "Le welsh est le plat préféré d'Irlan à Lille.", "pt": "O welsh é o prato preferido do Irlan em Lille." },
-        { "level": "B2", "fr": "Ce restaurant propose des plats traditionnels du Nord.", "pt": "Este restaurante oferece pratos tradicionais do Norte." },
-        { "level": "C1-C2", "fr": "La générosité des plats du Nord reflète l'hospitalité légendaire de ses habitants.", "pt": "A generosidade dos pratos do Norte reflete a hospitalidade lendária de seus habitantes." }
+        { "level": "A2-B1", "fr": "Le welsh est le plat du Nord.", "pt": "O welsh é o prato do Norte." },
+        { "level": "B2", "fr": "Le plat du Nord réchauffe par les soirées froides.", "pt": "O prato do Norte aquece nas noites frias." },
+        { "level": "C1-C2", "fr": "C'est le plat qui, préparé avec soin, porte l'identité d'une région.", "pt": "É o prato que, preparado com cuidado, carrega a identidade de uma região." }
       ]
     },
     {
       "term": "le serveur",
       "definitionPt": "o garçom",
-      "definitionFr": "Personne qui sert à table.",
-      "inflections": ["le serveur", "la serveuse", "les serveurs"],
+      "definitionFr": "Personne qui sert au restaurant.",
+      "inflections": ["le serveur", "un serveur", "des serveurs"],
       "ptTargets": ["garçom"],
       "examples": [
-        { "level": "A1", "fr": "Le serveur est gentil.", "pt": "O garçom é gentil." },
-        { "level": "A2-B1", "fr": "Le serveur a recommandé le welsh.", "pt": "O garçom recomendou o welsh." },
-        { "level": "B2", "fr": "Le serveur a demandé si nous avions aimé le repas.", "pt": "O garçom perguntou se nós tínhamos gostado da refeição." },
-        { "level": "C1-C2", "fr": "Un serveur attentif sait conseiller les clients selon les spécialités de sa région.", "pt": "Um garçom atencioso sabe aconselhar os clientes conforme as especialidades de sua região." }
+        { "level": "A1", "fr": "Le serveur est aimable.", "pt": "O garçom é simpático." },
+        { "level": "A2-B1", "fr": "Le serveur apporte deux welshs.", "pt": "O garçom traz dois welshs." },
+        { "level": "B2", "fr": "Le serveur connaît tous les plats du menu.", "pt": "O garçom conhece todos os pratos do cardápio." },
+        { "level": "C1-C2", "fr": "C'est le serveur qui, d'un mot aimable, rend l'accueil d'une ville inoubliable.", "pt": "É o garçom que, com uma palavra amável, torna o acolhimento de uma cidade inesquecível." }
       ]
     },
     {
-      "term": "la carte",
-      "definitionPt": "o cardápio",
-      "definitionFr": "Liste des plats dans un restaurant.",
-      "inflections": ["la carte", "les cartes"],
-      "ptTargets": ["cardápio"],
+      "term": "le pain",
+      "definitionPt": "o pão",
+      "definitionFr": "Aliment à base de farine.",
+      "inflections": ["le pain", "un pain", "des pains"],
+      "ptTargets": ["pão"],
       "examples": [
-        { "level": "A1", "fr": "La carte est sur la table.", "pt": "O cardápio está na mesa." },
-        { "level": "A2-B1", "fr": "Nous avons regardé la carte avant de commander.", "pt": "Nós olhamos o cardápio antes de pedir." },
-        { "level": "B2", "fr": "La carte propose des plats de saison et des spécialités régionales.", "pt": "O cardápio oferece pratos da estação e especialidades regionais." },
-        { "level": "C1-C2", "fr": "La lecture attentive de la carte révèle les influences culinaires d'un terroir.", "pt": "A leitura atenta do cardápio revela as influências culinárias de um terroir." }
+        { "level": "A1", "fr": "Le pain est frais.", "pt": "O pão é fresco." },
+        { "level": "A2-B1", "fr": "Le welsh se mange avec du pain.", "pt": "O welsh se come com pão." },
+        { "level": "B2", "fr": "Le pain accompagne tous les plats de la région.", "pt": "O pão acompanha todos os pratos da região." },
+        { "level": "C1-C2", "fr": "C'est le pain qui, simple et chaud, réunit les convives autour de la table.", "pt": "É o pão que, simples e quente, reúne os convidados ao redor da mesa." }
       ]
     },
     {
-      "term": "délicieux",
-      "definitionPt": "delicioso",
-      "definitionFr": "Qui a un goût très agréable.",
-      "inflections": ["délicieux", "délicieuse", "délicieuses"],
-      "ptTargets": ["delicioso"],
+      "term": "goûter",
+      "definitionPt": "provar (comida)",
+      "definitionFr": "Essayer le goût d'un aliment.",
+      "inflections": ["goûter", "je goûte", "nous goûtons"],
+      "ptTargets": ["provar", "degustar"],
       "examples": [
-        { "level": "A1", "fr": "Le gâteau est délicieux.", "pt": "O bolo é delicioso." },
-        { "level": "A2-B1", "fr": "Le welsh était délicieux.", "pt": "O welsh estava delicioso." },
-        { "level": "B2", "fr": "La carbonnade flamande est un plat délicieux et très réconfortant.", "pt": "A carbonnade flamande é um prato delicioso e muito reconfortante." },
-        { "level": "C1-C2", "fr": "Ce plat délicieux, mijoté lentement, illustre le savoir-faire culinaire transmis de génération en génération.", "pt": "Esse prato delicioso, cozido lentamente, ilustra o saber-fazer culinário transmitido de geração em geração." }
+        { "level": "A1", "fr": "Je goûte le plat.", "pt": "Eu provo o prato." },
+        { "level": "A2-B1", "fr": "Andréa goûte le welsh.", "pt": "Andréa prova o welsh." },
+        { "level": "B2", "fr": "Goûter une spécialité fait partie du voyage.", "pt": "Provar uma especialidade faz parte da viagem." },
+        { "level": "C1-C2", "fr": "C'est en goûtant que l'on découvre la mémoire d'un terroir.", "pt": "É provando que se descobre a memória de uma terra." }
       ]
     },
     {
-      "term": "payer",
-      "definitionPt": "pagar",
-      "definitionFr": "Donner de l'argent pour un achat.",
-      "inflections": ["je paie", "nous payons", "payé"],
-      "ptTargets": ["pagar"],
+      "term": "faire confiance",
+      "definitionPt": "confiar",
+      "definitionFr": "Croire en la fiabilité de quelqu'un.",
+      "inflections": ["faire confiance", "je fais confiance"],
+      "ptTargets": ["confiar"],
       "examples": [
-        { "level": "A1", "fr": "Je paie le café.", "pt": "Eu pago o café." },
-        { "level": "A2-B1", "fr": "Nous avons payé et nous sommes partis.", "pt": "Nós pagamos e partimos." },
-        { "level": "B2", "fr": "Il a payé l'addition avec sa carte bancaire.", "pt": "Ele pagou a conta com o cartão bancário." },
-        { "level": "C1-C2", "fr": "Payer l'addition dans un restaurant traditionnel reste un moment de convivialité.", "pt": "Pagar a conta em um restaurante tradicional continua sendo um momento de convivência." }
+        { "level": "A1", "fr": "Je te fais confiance.", "pt": "Eu confio em você." },
+        { "level": "A2-B1", "fr": "Andréa fait confiance à la route.", "pt": "Andréa confia no caminho." },
+        { "level": "B2", "fr": "Faire confiance demande du temps et des preuves.", "pt": "Confiar exige tempo e provas." },
+        { "level": "C1-C2", "fr": "C'est en faisant confiance que l'on transforme une route inconnue en chemin partagé.", "pt": "É confiando que se transforma uma estrada desconhecida em caminho partilhado." }
+      ]
+    },
+    {
+      "term": "se réchauffer",
+      "definitionPt": "aquecer-se",
+      "definitionFr": "Retrouver de la chaleur.",
+      "inflections": ["se réchauffer", "je me réchauffe", "nous nous réchauffons"],
+      "ptTargets": ["aquecer-se"],
+      "examples": [
+        { "level": "A1", "fr": "Je me réchauffe près du feu.", "pt": "Eu me aqueço perto do fogo." },
+        { "level": "A2-B1", "fr": "On mange pour se réchauffer.", "pt": "Come-se para se aquecer." },
+        { "level": "B2", "fr": "Se réchauffer autour d'un plat chaud apaise le froid du soir.", "pt": "Aquecer-se ao redor de um prato quente acalma o frio da noite." },
+        { "level": "C1-C2", "fr": "C'est en se réchauffant ensemble que l'on comprend la chaleur d'un accueil.", "pt": "É aquecendo-se juntos que se entende o calor de um acolhimento." }
       ]
     }
   ],
   "grammarTip": {
-    "ruleTitle": "Le Passé Composé avec AVOIR (verbes en -er et -ir)",
-    "explanationPt": "Verbos do 1º grupo formam o particípio passado em -é (marché, mangé, commandé); verbos do 2º grupo, em -i (choisi, fini). Com avoir: 'j'ai mangé', 'nous avons commandé'.",
-    "exampleFr": "J'ai commandé un welsh avec des frites.",
-    "examplePt": "Eu pedi um welsh com batatas fritas.",
-    "practiceQuestion": "Qual é o particípio passado de 'manger'?",
-    "options": ["mangé", "mange", "mangeant"],
+    "ruleTitle": "Le verbe goûter et le verbe s'installer",
+    "explanationPt": "Provar: je goûte, nous goûtons. Instalar-se: je m'installe, nous nous installons. 'Ils s'installent dans le quartier' (Eles se instalam no bairro).",
+    "exampleFr": "Ils s'installent dans le Vieux-Lille et goûtent le welsh.",
+    "examplePt": "Eles se instalam no Vieux-Lille e provam o welsh.",
+    "practiceQuestion": "Complete: 'Ils _____ dans le quartier.'",
+    "options": ["s'installent", "s'installe", "installent"],
     "correctIndex": 0,
     "points": [
       {
-        "ruleTitle": "Le participe passé en -é pour les verbes en -er",
-        "explanationPt": "A maioria dos verbos em -er forma o particípio em -é: manger → mangé, commander → commandé, goûter → goûté.",
-        "exampleFr": "Nous avons goûté la carbonnade.",
-        "examplePt": "Nós provamos a carbonnade.",
-        "practiceQuestion": "Complete: « Andréa a ___ la carbonnade. »",
-        "options": ["goûté", "goûter", "goûte"],
+        "ruleTitle": "Qu'est-ce que tu veux ?",
+        "explanationPt": "'Qu'est-ce que tu veux goûter ?' = O que você quer provar? (pergunta informal).",
+        "exampleFr": "Qu'est-ce que tu veux goûter ?",
+        "examplePt": "O que você quer provar?",
+        "practiceQuestion": "Complete: '_____ tu veux goûter ?'",
+        "options": ["Qu'est-ce que", "Qui est-ce que", "Comment"],
         "correctIndex": 0
       },
       {
-        "ruleTitle": "La question « Est-ce que tu as vu ? »",
-        "explanationPt": "Para perguntar sobre o passado, usamos 'est-ce que' + Passé Composé: 'Est-ce que vous avez aimé ?'",
-        "exampleFr": "Est-ce que vous avez aimé le repas ?",
-        "examplePt": "Vocês gostaram da refeição?",
-        "practiceQuestion": "Como perguntar 'Você viu a praça?' no passado?",
-        "options": ["Est-ce que tu as vu la place ?", "Est-ce que tu vois la place ?", "Est-ce que tu as voir la place ?"],
+        "ruleTitle": "Comme une couverture",
+        "explanationPt": "'Comme' compara: 'réconfortant comme une couverture' (reconfortante como um cobertor).",
+        "exampleFr": "C'est réconfortant, comme une couverture chaude.",
+        "examplePt": "É reconfortante, como um cobertor quente.",
+        "practiceQuestion": "Complete: 'C'est chaud _____ une couverture.'",
+        "options": ["comme", "que", "de"],
         "correctIndex": 0
       }
     ]
   },
   "quizQuestions": [
     {
-      "question": "Onde a família almoçou no Vieux-Lille?",
-      "options": ["dans un estaminet", "dans une boulangerie", "dans un grand hôtel"],
+      "question": "Onde Irlan e Andréa deixam as malas?",
+      "options": ["num pequeno hotel", "na estação", "na Vieille Bourse"],
       "correctIndex": 0,
-      "explanation": "Eles almoçaram em um estaminet, restaurante tradicional do Norte."
+      "explanation": "Ils déposent leurs valises dans un petit hôtel."
     },
     {
       "question": "O que é o welsh?",
-      "options": ["un plat chaud au fromage et à la bière", "une gaufre sucrée", "une soupe de poisson"],
+      "options": ["o prato do Norte", "uma sobremesa", "uma bebida"],
       "correctIndex": 0,
-      "explanation": "O welsh é um prato quente de queijo derretido preparado com cerveja."
+      "explanation": "Le welsh, c'est le plat du Nord."
     },
     {
-      "question": "Complete com o Passé Composé: « Nous ___ un petit estaminet. »",
-      "options": ["avons trouvé", "sommes trouvés", "trouvons"],
+      "question": "O que Andréa diz sobre a rota?",
+      "options": ["que confia na rota", "que quer voltar", "que tem medo"],
       "correctIndex": 0,
-      "explanation": "'Trouver' usa avoir: nous avons trouvé."
+      "explanation": "Je fais confiance à cette route."
     },
     {
-      "question": "O que Andréa provou no restaurante?",
-      "options": ["une carbonnade flamande", "des sushis", "une pizza"],
+      "question": "Complete: 'Ils _____ dans le quartier.'",
+      "options": ["s'installent", "s'installe", "installent"],
       "correctIndex": 0,
-      "explanation": "Andréa provou a carbonnade flamande, um ensopado de carne tradicional."
+      "explanation": "ils s'installent."
     },
     {
-      "question": "Qual particípio passado está correto para 'commander'?",
-      "options": ["commandé", "commandéer", "commande"],
+      "question": "Complete: 'C'est chaud _____ une couverture.'",
+      "options": ["comme", "que", "de"],
       "correctIndex": 0,
-      "explanation": "Verbos em -er formam o particípio em -é: commandé."
+      "explanation": "comme = como (comparação)."
     }
   ]
 }
