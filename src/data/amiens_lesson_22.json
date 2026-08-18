@@ -1,252 +1,292 @@
 {
   "id": "amiens_lesson_22",
   "cityId": "amiens",
-  "domain": "Cotidiano & Escola",
+  "domain": "Cultura & Investigação",
   "level": "Iniciante em Transição (A1/A2)",
-  "titleFr": "L'école d'Íris à Amiens",
-  "titlePt": "A escola de Íris em Amiens",
-  "subtitleFr": "Une semaine d'école dans une nouvelle ville",
-  "subtitlePt": "Uma semana de escola numa nova cidade",
-  "summaryPt": "Nesta Aula 22 (A1/A2) da Cidade #2, Íris vai à escola em Amiens e faz novas amigas. O aluno aprende o vocabulário da escola (école, classe, élève, maîtresse, récréation, apprendre, dessiner) e os dias da semana.",
+  "titleFr": "La bibliothèque d'Amiens",
+  "titlePt": "A biblioteca de Amiens",
+  "subtitleFr": "Des livres anciens et une piste nouvelle",
+  "subtitlePt": "Livros antigos e uma pista nova",
+  "summaryPt": "Na Aula 22 de Amiens (A1/A2), Irlan e Andréa pesquisam na biblioteca para decifrar o código da rosácea. O aluno pratica o verbo 'lire' e o vocabulário da biblioteca.",
   "paragraphs": [
     {
       "id": 1,
-      "fr": "Lundi matin, Íris va à sa nouvelle école à Amiens. « J'ai un peu peur, dit-elle. Je ne connais pas les élèves. » Andréa la rassure : « Tu vas voir, tu vas te faire des amies très vite. »",
-      "pt": "Na segunda de manhã, Íris vai à sua nova escola em Amiens. « Estou um pouco com medo, diz ela. Não conheço os alunos. » Andréa a tranquiliza: « Você vai ver, vai fazer amigas muito rápido. »"
+      "fr": "Le lendemain, Irlan et Andréa vont à la bibliothèque d'Amiens.",
+      "pt": "No dia seguinte, Irlan e Andréa vão à biblioteca de Amiens."
     },
     {
       "id": 2,
-      "fr": "Dans la classe, la maîtresse présente Íris. « Voici Íris, elle vient de Paris. Accueillons-la bien ! » Les élèves applaudissent. Une fille sourit : « Moi, je m'appelle Camille. Viens t'asseoir à côté de moi ! »",
-      "pt": "Na sala, a professora apresenta Íris. « Aqui está Íris, ela vem de Paris. Vamos recebê-la bem! » Os alunos aplaudem. Uma menina sorri: « Eu me chamo Camille. Vem sentar ao meu lado! »"
+      "fr": "La salle de lecture est claire et silencieuse.",
+      "pt": "A sala de leitura é clara e silenciosa."
     },
     {
       "id": 3,
-      "fr": "Pendant la récréation, Íris et Camille jouent à la corde à sauter. « Tu sautes très bien ! dit Camille. Nous allons bien nous amuser ensemble. » Íris est heureuse : elle a déjà une nouvelle amie.",
-      "pt": "Durante o recreio, Íris e Camille brincam de pular corda. « Você pula muito bem! diz Camille. Vamos nos divertir muito juntas. » Íris está feliz: ela já tem uma nova amiga."
+      "fr": "Ils cherchent des livres sur les cathédrales et les anciennes cartes.",
+      "pt": "Eles procuram livros sobre as catedrais e os mapas antigos."
     },
     {
       "id": 4,
-      "fr": "Le soir, Íris raconte sa journée à Irlan : « Nous avons dessiné et nous avons appris les jours de la semaine. Demain, c'est mardi : je vais revoir Camille ! »",
-      "pt": "À noite, Íris conta seu dia a Irlan: « Nós desenhamos e aprendemos os dias da semana. Amanhã é terça: vou rever a Camille! »"
+      "fr": "Andréa trouve un vieux livre sur la rosace de la cathédrale.",
+      "pt": "Andréa encontra um livro antigo sobre a rosácea da catedral."
+    },
+    {
+      "id": 5,
+      "fr": "« Regarde cette page, dit-elle. Les sept couleurs correspondent aux sept rues. »",
+      "pt": "« Olha esta página, diz ela. As sete cores correspondem às sete ruas. »"
+    },
+    {
+      "id": 6,
+      "fr": "Irlan lit à voix basse : « La lumière du matin, au printemps, traverse la rosace. »",
+      "pt": "Irlan lê em voz baixa: « A luz da manhã, na primavera, atravessa a rosácea. »"
+    },
+    {
+      "id": 7,
+      "fr": "« Le texte parle d'un lieu précis, éclairé seulement au printemps. »",
+      "pt": "« O texto fala de um lugar preciso, iluminado apenas na primavera. »"
+    },
+    {
+      "id": 8,
+      "fr": "Andréa note tout dans le carnet bleu.",
+      "pt": "Andréa anota tudo no caderno azul."
+    },
+    {
+      "id": 9,
+      "fr": "Une bibliothécaire s'approche. « Je peux vous aider ? »",
+      "pt": "Uma bibliotecária se aproxima. « Posso ajudar vocês? »"
+    },
+    {
+      "id": 10,
+      "fr": "« Nous cherchons un lieu éclairé au printemps par la rosace », explique Irlan.",
+      "pt": "« Procuramos um lugar iluminado na primavera pela rosácea », explica Irlan."
+    },
+    {
+      "id": 11,
+      "fr": "La bibliothécaire réfléchit. « Il y a une dalle au sol, près du chœur, marquée d'une fleur. »",
+      "pt": "A bibliotecária reflete. « Há uma laje no chão, perto do coro, marcada com uma flor. »"
+    },
+    {
+      "id": 12,
+      "fr": "Irlan serre la main d'Andréa. « C'est là. La cathédrale garde un message sous nos pieds. »",
+      "pt": "Irlan aperta a mão de Andréa. « É lá. A catedral guarda uma mensagem sob os nossos pés. »"
     }
   ],
   "vocabularyDictionary": [
     {
-      "term": "l'école",
-      "definitionPt": "a escola",
-      "definitionFr": "Lieu où l'on apprend.",
-      "inflections": ["l'école", "une école", "des écoles"],
-      "ptTargets": ["escola"],
+      "term": "la bibliothèque",
+      "definitionPt": "a biblioteca",
+      "definitionFr": "Lieu où l'on garde des livres.",
+      "inflections": ["la bibliothèque", "une bibliothèque", "des bibliothèques"],
+      "ptTargets": ["biblioteca"],
       "examples": [
-        { "level": "A1", "fr": "L'école est grande.", "pt": "A escola é grande." },
-        { "level": "A2-B1", "fr": "Íris va à sa nouvelle école.", "pt": "Íris vai à sua nova escola." },
-        { "level": "B2", "fr": "L'école, accueillante, ouvre ses portes chaque matin.", "pt": "A escola, acolhedora, abre suas portas toda manhã." },
-        { "level": "C1-C2", "fr": "C'est l'école qui, bienveillante, prépare l'avenir des enfants.", "pt": "É a escola que, acolhedora, prepara o futuro das crianças." }
+        { "level": "A1", "fr": "La bibliothèque est calme.", "pt": "A biblioteca é calma." },
+        { "level": "A2-B1", "fr": "Ils vont à la bibliothèque d'Amiens.", "pt": "Eles vão à biblioteca de Amiens." },
+        { "level": "B2", "fr": "La bibliothèque conserve des livres anciens et précieux.", "pt": "A biblioteca conserva livros antigos e preciosos." },
+        { "level": "C1-C2", "fr": "C'est la bibliothèque qui, en réunissant les livres, réunit aussi les savoirs et les rêves.", "pt": "É a biblioteca que, ao reunir os livros, reúne também os saberes e os sonhos." }
       ]
     },
     {
-      "term": "la classe",
-      "definitionPt": "a sala de aula / turma",
-      "definitionFr": "Salle où les élèves apprennent.",
-      "inflections": ["la classe", "une classe", "des classes"],
-      "ptTargets": ["sala de aula", "turma"],
+      "term": "le livre",
+      "definitionPt": "o livro",
+      "definitionFr": "Ensemble de pages reliées.",
+      "inflections": ["le livre", "un livre", "des livres"],
+      "ptTargets": ["livro"],
       "examples": [
-        { "level": "A1", "fr": "La classe est propre.", "pt": "A sala é limpa." },
-        { "level": "A2-B1", "fr": "Dans la classe, la maîtresse présente Íris.", "pt": "Na sala, a professora apresenta Íris." },
-        { "level": "B2", "fr": "La classe, lumineuse, accueille vingt élèves.", "pt": "A sala, luminosa, recebe vinte alunos." },
-        { "level": "C1-C2", "fr": "C'est la classe qui, attentive, écoute les histoires du monde.", "pt": "É a turma que, atenta, ouve as histórias do mundo." }
+        { "level": "A1", "fr": "Le livre est ancien.", "pt": "O livro é antigo." },
+        { "level": "A2-B1", "fr": "Ils cherchent des livres sur les cathédrales.", "pt": "Eles procuram livros sobre as catedrais." },
+        { "level": "B2", "fr": "Le livre décrit la rosace et ses couleurs.", "pt": "O livro descreve a rosácea e suas cores." },
+        { "level": "C1-C2", "fr": "C'est le livre qui, transmis de main en main, garde la connaissance vivante à travers les siècles.", "pt": "É o livro que, passado de mão em mão, mantém o conhecimento vivo através dos séculos." }
       ]
     },
     {
-      "term": "l'élève",
-      "definitionPt": "o aluno",
-      "definitionFr": "Personne qui apprend à l'école.",
-      "inflections": ["l'élève", "un élève", "des élèves"],
-      "ptTargets": ["aluno"],
+      "term": "lire",
+      "definitionPt": "ler",
+      "definitionFr": "Comprendre un texte écrit.",
+      "inflections": ["lire", "je lis", "nous lisons"],
+      "ptTargets": ["ler"],
       "examples": [
-        { "level": "A1", "fr": "L'élève est sage.", "pt": "O aluno é comportado." },
-        { "level": "A2-B1", "fr": "Les élèves applaudissent.", "pt": "Os alunos aplaudem." },
-        { "level": "B2", "fr": "Les élèves, curieux, posent beaucoup de questions.", "pt": "Os alunos, curiosos, fazem muitas perguntas." },
-        { "level": "C1-C2", "fr": "C'est l'élève qui, appliqué, devient un adulte éclairé.", "pt": "É o aluno que, aplicado, torna-se um adulto esclarecido." }
+        { "level": "A1", "fr": "Je lis un livre.", "pt": "Eu leio um livro." },
+        { "level": "A2-B1", "fr": "Irlan lit à voix basse.", "pt": "Irlan lê em voz baixa." },
+        { "level": "B2", "fr": "Lire un texte ancien demande de la patience.", "pt": "Ler um texto antigo exige paciência." },
+        { "level": "C1-C2", "fr": "C'est en lisant que l'on voyage sans bouger.", "pt": "É lendo que se viaja sem se mover." }
       ]
     },
     {
-      "term": "la maîtresse",
-      "definitionPt": "a professora",
-      "definitionFr": "Enseignante des petites classes.",
-      "inflections": ["la maîtresse", "une maîtresse", "des maîtresses"],
-      "ptTargets": ["professora"],
+      "term": "la page",
+      "definitionPt": "a página",
+      "definitionFr": "Face d'une feuille.",
+      "inflections": ["la page", "une page", "des pages"],
+      "ptTargets": ["página"],
       "examples": [
-        { "level": "A1", "fr": "La maîtresse est gentille.", "pt": "A professora é gentil." },
-        { "level": "A2-B1", "fr": "La maîtresse présente Íris.", "pt": "A professora apresenta Íris." },
-        { "level": "B2", "fr": "La maîtresse, patiente, explique les leçons.", "pt": "A professora, paciente, explica as lições." },
-        { "level": "C1-C2", "fr": "C'est la maîtresse qui, dévouée, guide les premiers pas des élèves.", "pt": "É a professora que, dedicada, guia os primeiros passos dos alunos." }
+        { "level": "A1", "fr": "La page est ouverte.", "pt": "A página está aberta." },
+        { "level": "A2-B1", "fr": "Regarde cette page du livre.", "pt": "Olha esta página do livro." },
+        { "level": "B2", "fr": "La page décrit précisément la rosace.", "pt": "A página descreve precisamente a rosácea." },
+        { "level": "C1-C2", "fr": "C'est la page qui, jaunie par le temps, garde une phrase décisive.", "pt": "É a página que, amarelada pelo tempo, guarda uma frase decisiva." }
       ]
     },
     {
-      "term": "la récréation",
-      "definitionPt": "o recreio",
-      "definitionFr": "Pause où les enfants jouent.",
-      "inflections": ["la récréation", "une récréation", "des récréations"],
-      "ptTargets": ["recreio"],
+      "term": "la salle de lecture",
+      "definitionPt": "a sala de leitura",
+      "definitionFr": "Pièce pour lire et étudier.",
+      "inflections": ["la salle de lecture", "une salle de lecture"],
+      "ptTargets": ["sala de leitura"],
       "examples": [
-        { "level": "A1", "fr": "La récréation est courte.", "pt": "O recreio é curto." },
-        { "level": "A2-B1", "fr": "Pendant la récréation, les enfants jouent.", "pt": "Durante o recreio, as crianças brincam." },
-        { "level": "B2", "fr": "La récréation, joyeuse, remplit la cour de rires.", "pt": "O recreio, alegre, enche o pátio de risadas." },
-        { "level": "C1-C2", "fr": "C'est la récréation qui, brève, fait le bonheur des écoliers.", "pt": "É o recreio que, breve, faz a felicidade dos alunos." }
+        { "level": "A1", "fr": "La salle de lecture est claire.", "pt": "A sala de leitura é clara." },
+        { "level": "A2-B1", "fr": "La salle de lecture est silencieuse.", "pt": "A sala de leitura é silenciosa." },
+        { "level": "B2", "fr": "La salle de lecture accueille étudiants et chercheurs.", "pt": "A sala de leitura acolhe estudantes e pesquisadores." },
+        { "level": "C1-C2", "fr": "C'est la salle de lecture qui, par son silence, invite chacun à la concentration.", "pt": "É a sala de leitura que, com seu silêncio, convida cada um à concentração." }
       ]
     },
     {
-      "term": "apprendre",
-      "definitionPt": "aprender",
-      "definitionFr": "Acquérir des connaissances.",
-      "inflections": ["j'apprends", "apprendre", "nous apprenons"],
-      "ptTargets": ["aprender"],
+      "term": "la bibliothécaire",
+      "definitionPt": "a bibliotecária",
+      "definitionFr": "Personne qui travaille dans une bibliothèque.",
+      "inflections": ["la bibliothécaire", "une bibliothécaire", "des bibliothécaires"],
+      "ptTargets": ["bibliotecária"],
       "examples": [
-        { "level": "A1", "fr": "J'apprends le français.", "pt": "Eu aprendo francês." },
-        { "level": "A2-B1", "fr": "Nous avons appris les jours de la semaine.", "pt": "Aprendemos os dias da semana." },
-        { "level": "B2", "fr": "Apprendre une langue, c'est ouvrir une porte.", "pt": "Aprender uma língua é abrir uma porta." },
-        { "level": "C1-C2", "fr": "C'est en apprenant que l'on grandit.", "pt": "É aprendendo que se cresce." }
+        { "level": "A1", "fr": "La bibliothécaire est gentille.", "pt": "A bibliotecária é gentil." },
+        { "level": "A2-B1", "fr": "Une bibliothécaire s'approche.", "pt": "Uma bibliotecária se aproxima." },
+        { "level": "B2", "fr": "La bibliothécaire connaît les ouvrages de la section ancienne.", "pt": "A bibliotecária conhece as obras da seção antiga." },
+        { "level": "C1-C2", "fr": "C'est la bibliothécaire qui, discrète, guide les lecteurs vers ce qu'ils ignorent chercher.", "pt": "É a bibliotecária que, discreta, guia os leitores ao que eles ignoram procurar." }
       ]
     },
     {
-      "term": "dessiner",
-      "definitionPt": "desenhar",
-      "definitionFr": "Faire un dessin.",
-      "inflections": ["je dessine", "dessiner", "nous dessinons"],
-      "ptTargets": ["desenhar"],
+      "term": "le texte",
+      "definitionPt": "o texto",
+      "definitionFr": "Ensemble de mots écrits.",
+      "inflections": ["le texte", "un texte", "des textes"],
+      "ptTargets": ["texto"],
       "examples": [
-        { "level": "A1", "fr": "J'aime dessiner.", "pt": "Eu gosto de desenhar." },
-        { "level": "A2-B1", "fr": "Nous avons dessiné à l'école.", "pt": "Nós desenhamos na escola." },
-        { "level": "B2", "fr": "Dessiner développe l'imagination.", "pt": "Desenhar desenvolve a imaginação." },
-        { "level": "C1-C2", "fr": "C'est en dessinant que l'on exprime ses rêves.", "pt": "É desenhando que se exprimem os sonhos." }
+        { "level": "A1", "fr": "Le texte est court.", "pt": "O texto é curto." },
+        { "level": "A2-B1", "fr": "Le texte parle d'un lieu précis.", "pt": "O texto fala de um lugar preciso." },
+        { "level": "B2", "fr": "Le texte ancien décrit un phénomène de lumière.", "pt": "O texto antigo descreve um fenômeno de luz." },
+        { "level": "C1-C2", "fr": "C'est le texte qui, concis, peut cacher une clé entre deux lignes.", "pt": "É o texto que, conciso, pode esconder uma chave entre duas linhas." }
       ]
     },
     {
-      "term": "se faire des amis",
-      "definitionPt": "fazer amigos",
-      "definitionFr": "Rencontrer des amis.",
-      "inflections": ["je me fais des amis", "se faire des amis"],
-      "ptTargets": ["fazer amigos"],
+      "term": "la dalle",
+      "definitionPt": "a laje",
+      "definitionFr": "Plaque de pierre au sol.",
+      "inflections": ["la dalle", "une dalle", "des dalles"],
+      "ptTargets": ["laje"],
       "examples": [
-        { "level": "A1", "fr": "Je fais des amis à l'école.", "pt": "Eu faço amigos na escola." },
-        { "level": "A2-B1", "fr": "Tu vas te faire des amies très vite.", "pt": "Você vai fazer amigas muito rápido." },
-        { "level": "B2", "fr": "Se faire des amis dans une nouvelle ville, c'est important.", "pt": "Fazer amigos numa nova cidade é importante." },
-        { "level": "C1-C2", "fr": "C'est en se faisant des amis que l'on s'installe dans la vie.", "pt": "É fazendo amigos que nos instalamos na vida." }
+        { "level": "A1", "fr": "La dalle est lisse.", "pt": "A laje é lisa." },
+        { "level": "A2-B1", "fr": "Il y a une dalle au sol, près du chœur.", "pt": "Há uma laje no chão, perto do coro." },
+        { "level": "B2", "fr": "La dalle porte une fleur gravée à peine visible.", "pt": "A laje traz uma flor gravada quase invisível." },
+        { "level": "C1-C2", "fr": "C'est la dalle qui, usée par des siècles de pas, garde en creux un signe discret.", "pt": "É a laje que, gasta por séculos de passos, guarda em relevo um sinal discreto." }
       ]
     },
     {
-      "term": "avoir peur",
-      "definitionPt": "ter medo",
-      "definitionFr": "Ressentir de la peur.",
-      "inflections": ["j'ai peur", "avoir peur", "nous avons peur"],
-      "ptTargets": ["ter medo", "medo"],
+      "term": "le chœur",
+      "definitionPt": "o coro (da igreja)",
+      "definitionFr": "Partie de l'église près de l'autel.",
+      "inflections": ["le chœur", "un chœur", "des chœurs"],
+      "ptTargets": ["coro"],
       "examples": [
-        { "level": "A1", "fr": "J'ai un peu peur.", "pt": "Estou um pouco com medo." },
-        { "level": "A2-B1", "fr": "Íris a un peu peur le premier jour.", "pt": "Íris tem um pouco de medo no primeiro dia." },
-        { "level": "B2", "fr": "Avoir peur de l'inconnu est naturel.", "pt": "Ter medo do desconhecido é natural." },
-        { "level": "C1-C2", "fr": "C'est en affrontant sa peur que l'on grandit.", "pt": "É enfrentando o medo que se cresce." }
+        { "level": "A1", "fr": "Le chœur est large.", "pt": "O coro é largo." },
+        { "level": "A2-B1", "fr": "La dalle se trouve près du chœur.", "pt": "A laje fica perto do coro." },
+        { "level": "B2", "fr": "Le chœur de la cathédrale est richement orné.", "pt": "O coro da catedral é ricamente ornamentado." },
+        { "level": "C1-C2", "fr": "C'est le chœur qui, cœur de l'édifice, attire le regard vers l'autel.", "pt": "É o coro que, coração do edifício, atrai o olhar para o altar." }
       ]
     },
     {
-      "term": "à côté de",
-      "definitionPt": "ao lado de",
-      "definitionFr": "Près de, juste à la droite ou la gauche.",
-      "inflections": ["à côté de"],
-      "ptTargets": ["ao lado de"],
+      "term": "la fleur",
+      "definitionPt": "a flor",
+      "definitionFr": "Partie colorée d'une plante.",
+      "inflections": ["la fleur", "une fleur", "des fleurs"],
+      "ptTargets": ["flor"],
       "examples": [
-        { "level": "A1", "fr": "Camille est à côté de moi.", "pt": "Camille está ao meu lado." },
-        { "level": "A2-B1", "fr": "Viens t'asseoir à côté de moi !", "pt": "Vem sentar ao meu lado!" },
-        { "level": "B2", "fr": "La maîtresse est assise à côté du tableau.", "pt": "A professora está sentada ao lado do quadro." },
-        { "level": "C1-C2", "fr": "C'est à côté de ceux que l'on aime que l'on se sent bien.", "pt": "É ao lado de quem amamos que nos sentimos bem." }
+        { "level": "A1", "fr": "La fleur est jolie.", "pt": "A flor é bonita." },
+        { "level": "A2-B1", "fr": "La dalle est marquée d'une fleur.", "pt": "A laje é marcada com uma flor." },
+        { "level": "B2", "fr": "Une fleur gravée orne le centre de la dalle.", "pt": "Uma flor gravada orna o centro da laje." },
+        { "level": "C1-C2", "fr": "C'est la fleur qui, fragile et précise, signe le passage d'un secret à travers les siècles.", "pt": "É a flor que, frágil e precisa, assina a passagem de um segredo através dos séculos." }
       ]
     },
     {
-      "term": "la semaine",
-      "definitionPt": "a semana",
-      "definitionFr": "Période de sept jours.",
-      "inflections": ["la semaine", "une semaine", "des semaines"],
-      "ptTargets": ["semana"],
+      "term": "le message",
+      "definitionPt": "a mensagem",
+      "definitionFr": "Information transmise.",
+      "inflections": ["le message", "un message", "des messages"],
+      "ptTargets": ["mensagem"],
       "examples": [
-        { "level": "A1", "fr": "La semaine a sept jours.", "pt": "A semana tem sete dias." },
-        { "level": "A2-B1", "fr": "Nous avons appris les jours de la semaine.", "pt": "Aprendemos os dias da semana." },
-        { "level": "B2", "fr": "La semaine de travail commence lundi.", "pt": "A semana de trabalho começa na segunda." },
-        { "level": "C1-C2", "fr": "C'est la semaine qui, rythmée, organise nos vies.", "pt": "É a semana que, ritmada, organiza nossas vidas." }
+        { "level": "A1", "fr": "Le message est clair.", "pt": "A mensagem é clara." },
+        { "level": "A2-B1", "fr": "La cathédrale garde un message.", "pt": "A catedral guarda uma mensagem." },
+        { "level": "B2", "fr": "Le message codé attend d'être déchiffré.", "pt": "A mensagem codificada espera para ser decifrada." },
+        { "level": "C1-C2", "fr": "C'est le message qui, caché dans la pierre, traverse le temps pour qui sait le chercher.", "pt": "É a mensagem que, escondida na pedra, atravessa o tempo para quem sabe procurá-la." }
       ]
     },
     {
-      "term": "s'amuser",
-      "definitionPt": "divertir-se",
-      "definitionFr": "Passer un bon moment.",
-      "inflections": ["je m'amuse", "s'amuser", "nous nous amusons"],
-      "ptTargets": ["divertir-se", "se divertir"],
+      "term": "chercher",
+      "definitionPt": "procurar",
+      "definitionFr": "Essayer de trouver.",
+      "inflections": ["chercher", "je cherche", "nous cherchons"],
+      "ptTargets": ["procurar", "buscar"],
       "examples": [
-        { "level": "A1", "fr": "Je m'amuse à l'école.", "pt": "Eu me divirto na escola." },
-        { "level": "A2-B1", "fr": "Nous allons bien nous amuser ensemble.", "pt": "Vamos nos divertir muito juntas." },
-        { "level": "B2", "fr": "Les enfants s'amusent pendant la récréation.", "pt": "As crianças se divertem durante o recreio." },
-        { "level": "C1-C2", "fr": "C'est en s'amusant que l'on apprend le mieux.", "pt": "É divertindo-se que se aprende melhor." }
+        { "level": "A1", "fr": "Je cherche un livre.", "pt": "Eu procuro um livro." },
+        { "level": "A2-B1", "fr": "Ils cherchent des livres anciens.", "pt": "Eles procuram livros antigos." },
+        { "level": "B2", "fr": "Chercher un indice demande de la méthode.", "pt": "Procurar uma pista exige método." },
+        { "level": "C1-C2", "fr": "C'est en cherchant que l'on apprend à regarder vraiment.", "pt": "É procurando que se aprende a olhar de verdade." }
       ]
     }
   ],
   "grammarTip": {
-    "ruleTitle": "Les jours de la semaine",
-    "explanationPt": "Os dias da semana: lundi (segunda), mardi (terça), mercredi (quarta), jeudi (quinta), vendredi (sexta), samedi (sábado), dimanche (domingo). Usa-se 'le' + dia: 'le lundi' (às segundas), ou sem artigo: 'Demain, c'est mardi'.",
-    "exampleFr": "Lundi, Íris va à l'école. Demain, c'est mardi : je vais revoir Camille !",
-    "examplePt": "Na segunda, Íris vai à escola. Amanhã é terça: vou rever a Camille!",
-    "practiceQuestion": "Complete: 'Demain, c'est _____ : je vais revoir Camille !'",
-    "options": ["mardi", "lundi", "dimanche"],
+    "ruleTitle": "Le verbe lire",
+    "explanationPt": "Ler: je lis, tu lis, il lit, nous lisons, vous lisez, ils lisent.",
+    "exampleFr": "Je lis un livre. Irlan lit à voix basse.",
+    "examplePt": "Eu leio um livro. Irlan lê em voz baixa.",
+    "practiceQuestion": "Complete: 'Nous _____ un livre ancien.'",
+    "options": ["lisons", "lisent", "lit"],
     "correctIndex": 0,
     "points": [
       {
-        "ruleTitle": "Le verbe venir : vir",
-        "explanationPt": "'Viens' é o imperativo de 'venir' (vir): 'Viens t'asseoir à côté de moi !' (vem sentar ao meu lado!). Conjugação: je viens, tu viens, il vient, nous venons.",
-        "exampleFr": "Viens t'asseoir à côté de moi !",
-        "examplePt": "Vem sentar ao meu lado!",
-        "practiceQuestion": "Complete: '_____ t'asseoir à côté de moi !'",
-        "options": ["Viens", "Vient", "Venir"],
+        "ruleTitle": "Je peux vous aider ?",
+        "explanationPt": "'Je peux vous aider ?' = Posso ajudar vocês? (formal). Informal: 'Je peux t'aider ?'",
+        "exampleFr": "Je peux vous aider ?",
+        "examplePt": "Posso ajudar vocês?",
+        "practiceQuestion": "Complete: 'Je peux _____ aider ?'",
+        "options": ["vous", "tu", "il"],
         "correctIndex": 0
       },
       {
-        "ruleTitle": "Le passé composé : nous avons dessiné",
-        "explanationPt": "Passé composé com 'avoir': 'Nous avons dessiné' (desenhamos), 'Nous avons appris' (aprendemos). Particípio de apprendre: appris.",
-        "exampleFr": "Nous avons dessiné et nous avons appris les jours de la semaine.",
-        "examplePt": "Desenhamos e aprendemos os dias da semana.",
-        "practiceQuestion": "Complete: 'Nous avons _____ les jours de la semaine.'",
-        "options": ["appris", "apprendre", "apprenons"],
+        "ruleTitle": "À voix basse",
+        "explanationPt": "'À voix basse' = em voz baixa. 'À voix haute' = em voz alta.",
+        "exampleFr": "Irlan lit à voix basse.",
+        "examplePt": "Irlan lê em voz baixa.",
+        "practiceQuestion": "Complete: 'Il lit _____ voix basse.'",
+        "options": ["à", "en", "de"],
         "correctIndex": 0
       }
     ]
   },
   "quizQuestions": [
     {
-      "question": "O que Íris sente no primeiro dia de escola?",
-      "options": ["um pouco de medo", "muita raiva", "muito sono"],
+      "question": "Onde Irlan e Andréa vão pesquisar?",
+      "options": ["na biblioteca", "na prefeitura", "no museu"],
       "correctIndex": 0,
-      "explanation": "J'ai un peu peur, je ne connais pas les élèves."
+      "explanation": "Ils vont à la bibliothèque d'Amiens."
     },
     {
-      "question": "Como se chama a menina que se torna amiga de Íris?",
-      "options": ["Camille", "Camille est la maîtresse", "Léa"],
+      "question": "O que Andréa encontra?",
+      "options": ["um livro antigo sobre a rosácea", "um mapa do Brasil", "um caderno perdido"],
       "correctIndex": 0,
-      "explanation": "Moi, je m'appelle Camille."
+      "explanation": "Andréa trouve un vieux livre sur la rosace."
     },
     {
-      "question": "O que Íris e Camille fazem na récréation?",
-      "options": ["pulam corda", "lêem livros", "dormem"],
+      "question": "O que a bibliotecária menciona?",
+      "options": ["uma laje com uma flor, perto do coro", "uma porta secreta", "um vitral novo"],
       "correctIndex": 0,
-      "explanation": "Pendant la récréation, Íris et Camille jouent à la corde à sauter."
+      "explanation": "Une dalle au sol, près du chœur, marquée d'une fleur."
     },
     {
-      "question": "Complete: 'Demain, c'est _____ : je vais revoir Camille !'",
-      "options": ["mardi", "lundi", "dimanche"],
+      "question": "Complete: 'Nous _____ un livre ancien.'",
+      "options": ["lisons", "lisent", "lit"],
       "correctIndex": 0,
-      "explanation": "Depois de lundi vem mardi."
+      "explanation": "nous lisons."
     },
     {
-      "question": "Complete: 'Nous avons _____ les jours de la semaine.'",
-      "options": ["appris", "apprendre", "apprenons"],
+      "question": "Complete: 'Il lit _____ voix basse.'",
+      "options": ["à", "en", "de"],
       "correctIndex": 0,
-      "explanation": "Passé composé: nous avons appris."
+      "explanation": "à voix basse."
     }
   ]
 }
