@@ -22,7 +22,7 @@
 | Ano | Fase | O que acontece |
 |---|---|---|
 | **2022** | Chegada | Irlan chega a Paris vindo de Jaguaquara (BA). Aluga um quarto em **Créteil**, compra uma scooter usada e começa como **rider de delivery**. |
-| **2022** | O encontro | Conhece **Andréa** em Créteil: um pacote trocado, um café, um número errado no interfone. Ela é francesa, enfermeira. |
+| **2022** | O encontro | Conhece **Andréa** em Créteil. Ela é **garçonete do restaurante Chez Margot** — o ponto onde Irlan, rider, **recolhe as comandas** todos os dias. Ele a vê diversas vezes, na correria e no silêncio da cozinha, até ter coragem de **pedir o número dela**. |
 | **2022–2027** | O namoro (≈5 anos) | **Quase 5 anos de namoro.** As aulas de Paris cobrem essa fase: primeiros encontros, o primeiro Natal, a família dela, as brigas bobas, o francês de Irlan melhorando, as entregas virando trabalho firme. |
 | **2027** | O casamento | Casam-se em **Créteil** — a maior cena do Ato I. **Na mesma semana, o Atlas entra na vida deles** (a livraria de Montmartre, o Senhor do Sobretudo Cinza). |
 | **2028** | O Ato II | A corrida pela França: Amiens → Lille → Mont-Saint-Michel → Tours → Bordeaux → Toulouse → Lyon → Marseille → Strasbourg. O casal recém-casado como Indiana e Marion: juntos, sem filho, livres para o perigo. |
@@ -45,7 +45,8 @@
 - **Arco:** de entregador invisível → cartógrafo que desenha a própria vida.
 
 ### Andréa — (30 na chegada dele) — a copilota
-- Francesa, de **Créteil** (Val-de-Marne). Enfermeira. Pé no chão, coragem fria.
+- Francesa, de **Créteil** (Val-de-Marne). **Garçonete do restaurante Chez Margot** — rápido raciocínio, coragem fria, um sorriso que salva o pior turno.
+- **O encontro:** Irlan a vê **diversas vezes** recolhendo as comandas no restaurante, até juntar coragem e **pedir o número dela**. Ela ama as **novelas brasileiras** — é por elas que o Brasil já morava no coração dela antes do Irlan chegar.
 - **Namorada por ~5 anos → esposa** (casamento no fim do Ato I). Indiana Jones nunca viaja sem Marion.
 - **Papel no aprendizado:** é a ponte do francês — explica, corrige com carinho e celebra cada acerto. O usuário aprende com ela como guia.
 - Ela não acredita em mapas — acredita nele. **A fé que falta ao próprio Irlan.**
@@ -96,7 +97,7 @@ Caderno de campo de **Manoel Rocha de Oliveira**, geógrafo baiano que em 1904 t
 
 ### ATO I — "O ENTREGADOR" (Paris — A1)
 
-**Aulas 1–8 (2022):** a chegada. Malas em Créteil, a scooter usada, as primeiras entregas, a cidade descobrindo o francês. **Aula ~8: o encontro com Andréa** (o pacote trocado, o café).
+**Aulas 1–8 (2022):** a chegada. Malas em Créteil, a scooter usada, as primeiras entregas, a cidade descobrindo o francês. **Aula 8: o encontro com Andréa** — o restaurante **Chez Margot**, as comandas recolhidas, os olhares repetidos, o número pedido.
 
 **Aulas 9–45 (2022–2027):** o namoro de quase 5 anos. Primeiro Natal, aniversários, a família dela em Créteil, as brigas bobas e os reencontros, o francês de Irlan evoluindo — e a geografia viva nos olhos dele: ele mapeia cada rua por onde entrega.
 

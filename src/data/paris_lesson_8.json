@@ -1,268 +1,325 @@
 {
   "id": "paris_lesson_8",
   "cityId": "paris",
-  "domain": "Cultura & Turismo",
+  "domain": "Cotidiano & Relações",
   "level": "Iniciante (A1)",
-  "titleFr": "Le musée du Louvre",
-  "titlePt": "O museu do Louvre",
-  "subtitleFr": "La pyramide de verre, La Joconde et les souvenirs du livreur",
-  "subtitlePt": "A pirâmide de vidro, a Mona Lisa e as lembranças do entregador",
-  "summaryPt": "Nesta Aula 8 (A1), a família visita o museu do Louvre no domingo. Eles veem a pirâmide de vidro, os corredores cheios de pinturas e a famosa Mona Lisa. Irlan lembra que, quando era entregador, passava todos os dias diante do Louvre. O aluno aprende o verbo 'voir' no presente e a pergunta com 'est-ce que'.",
+  "titleFr": "Le numéro d'Andréa",
+  "titlePt": "O número da Andréa",
+  "subtitleFr": "Le restaurant Chez Margot, les commandes et le premier « oui »",
+  "subtitlePt": "O restaurante Chez Margot, as comandas e o primeiro «sim»",
+  "summaryPt": "Nesta Aula 8 (A1), Irlan conhece Andréa, garçonete do restaurante Chez Margot em Créteil, onde ele recolhe as comandas todos os dias como entregador. Ele a vê diversas vezes, até juntar coragem e pedir o número dela. O aluno aprende 'demander quelque chose à quelqu'un' (pedir algo a alguém) e o verbo 'appeler' no presente.",
   "paragraphs": [
     {
       "id": 1,
-      "fr": "Dimanche, la famille visite le musée du Louvre. La pyramide de verre brille au soleil. Il y a beaucoup de monde devant l'entrée.",
-      "pt": "Domingo, a família visita o museu do Louvre. A pirâmide de vidro brilha ao sol. Há muita gente em frente à entrada."
+      "fr": "C'est le mois d'août à Créteil. Irlan travaille comme livreur à scooter. Chaque jour, il s'arrête au restaurant Chez Margot pour prendre les commandes. C'est un petit restaurant, très dynamique.",
+      "pt": "É o mês de agosto em Créteil. Irlan trabalha como entregador de scooter. Todos os dias, ele para no restaurante Chez Margot para pegar as comandas. É um restaurante pequeno, muito movimentado."
     },
     {
       "id": 2,
-      "fr": "Irlan achète trois billets. Ils entrent dans le musée. Andréa lit le plan, et Íris regarde les grandes peintures.",
-      "pt": "Irlan compra três ingressos. Eles entram no museu. Andréa lê o mapa, e Íris olha as grandes pinturas."
+      "fr": "Le menu est simple et bon : la soupe à l'oignon, la blanquette de veau, le potage du jour, la raclette et la fondue. Pour le dessert : la crème brûlée, la mousse au chocolat, la glace à la vanille et les crêpes sucrées.",
+      "pt": "O cardápio é simples e bom: a sopa de cebola, o guisado de vitela, o caldo do dia, a raclette e a fondue. Para a sobremesa: o creme brulée, o mousse de chocolate, o sorvete de baunilha e os crepes doces."
     },
     {
       "id": 3,
-      "fr": "Ils regardent La Joconde. Íris dit : « Elle est petite ! » Tout le monde rit. La Joconde est le tableau le plus célèbre du monde.",
-      "pt": "Eles olham a Mona Lisa. Íris diz: «Ela é pequena!» Todo mundo ri. A Mona Lisa é o quadro mais famoso do mundo."
+      "fr": "Une serveuse sourit toujours à Irlan. Elle s'appelle Andréa. Elle porte une jupe noire et un sourire doux. Elle aime les feuilletons brésiliens et elle rêve de visiter le Brésil. Irlan apprécie son sourire. Il pense : « Elle est belle. »",
+      "pt": "Uma garçonete sempre sorri para o Irlan. Ela se chama Andréa. Ela usa uma saia preta e um sorriso doce. Ela ama as novelas brasileiras e sonha em visitar o Brasil. Irlan aprecia o sorriso dela. Ele pensa: «Ela é linda.»"
     },
     {
       "id": 4,
-      "fr": "Irlan se souvient : quand il était livreur, il passait souvent devant le Louvre. Aujourd'hui, il visite le musée avec sa famille. « Est-ce que tu vois la Joconde, Íris ? » demande-t-il. « Oui, papa, je la vois ! » répond Íris.",
-      "pt": "Irlan se lembra: quando era entregador, passava muitas vezes diante do Louvre. Hoje, ele visita o museu com a sua família. «Você vê a Mona Lisa, Íris?» pergunta ele. «Sim, papai, eu a vejo!» responde Íris."
+      "fr": "Le français d'Irlan est encore faible. Avec Andréa, il essaie de parler. Il demande un café noir, il paie en espèces, il dit merci. Elle corrige avec douceur : « On dit « merci beaucoup » ! »",
+      "pt": "O francês do Irlan ainda é fraco. Com a Andréa, ele tenta falar. Ele pede um café preto, paga em dinheiro, diz obrigado. Ela corrige com delicadeza: «Diz-se “muito obrigado”!»"
+    },
+    {
+      "id": 5,
+      "fr": "Un jour, un client impoli est en colère. Il crie parce que son plat est en retard. Andréa reste calme et souriante. Irlan voit sa force. Il court vite pour les livraisons, mais il pense à elle toute la journée.",
+      "pt": "Um dia, um cliente mal-educado está com raiva. Ele grita porque o prato dele está atrasado. Andréa permanece calma e sorridente. Irlan vê a força dela. Ele corre rápido para as entregas, mas pensa nela o dia inteiro."
+    },
+    {
+      "id": 6,
+      "fr": "En août, il fait très chaud. Irlan arrive en sueur, son t-shirt est mouillé. Andréa lui donne une boisson fraîche : une limonade avec de l'eau gazeuse. Il avale son café noir, toujours tiède. « Merci beaucoup, Andréa ! »",
+      "pt": "Em agosto, faz muito calor. Irlan chega suado, a camiseta dele está molhada. Andréa lhe dá uma bebida gelada: uma limonada com água com gás. Ele engole o café preto dele, sempre morno. «Muito obrigado, Andréa!»"
+    },
+    {
+      "id": 7,
+      "fr": "Le chef prépare le repas très vite. Sophie, l'autre serveuse, commande un cappuccino. Andréa garde pour Irlan la dernière crème brûlée. « C'est pour toi, dit-elle. Lequel est ton dessert préféré ? »",
+      "pt": "O chef prepara a refeição muito rápido. Sophie, a outra garçonete, pede um cappuccino. Andréa guarda para o Irlan o último creme brulée. «É para você, diz ela. Qual é a sua sobremesa preferida?»"
+    },
+    {
+      "id": 8,
+      "fr": "Un soir, après la dernière livraison, Irlan marche à pied jusqu'au restaurant. Le restaurant est fermé, mais Andréa est là, seule. Son cœur bat très fort. Il demande : « Andréa, je peux avoir ton numéro ? »",
+      "pt": "Uma noite, depois da última entrega, Irlan vai a pé até o restaurante. O restaurante está fechado, mas Andréa está lá, sozinha. O coração dele bate muito forte. Ele pede: «Andréa, eu posso ter o seu número?»"
+    },
+    {
+      "id": 9,
+      "fr": "Andréa sourit. Elle prend une commande et elle écrit son numéro : 06 12 34 56 78. « Voilà. Mais ne le perds pas ! » Irlan ne peut pas parler. Il met le papier dans sa poche et il court chez lui.",
+      "pt": "Andréa sorri. Ela pega uma comanda e escreve o número dela: 06 12 34 56 78. «Pronto. Mas não o perca!» Irlan não consegue falar. Ele coloca o papel no bolso e corre para casa."
+    },
+    {
+      "id": 10,
+      "fr": "À la maison, il tape le numéro et il enregistre le contact : « Andréa ♥ ». Il tape un message : « Salut Andréa, c'est Irlan. Merci pour la crème brûlée. »",
+      "pt": "Em casa, ele digita o número e salva o contato: «Andréa ♥». Ele digita uma mensagem: «Oi Andréa, é o Irlan. Obrigado pelo creme brulée.»"
+    },
+    {
+      "id": 11,
+      "fr": "Cinq minutes après, la réponse : « Bonsoir Irlan ! Tu veux visiter un musée avec moi, samedi ? » Irlan saute sur son lit. Il répond : « Oui, oui, oui ! »",
+      "pt": "Cinco minutos depois, a resposta: «Boa noite, Irlan! Você quer visitar um museu comigo, sábado?» Irlan pula na cama. Ele responde: «Sim, sim, sim!»"
+    },
+    {
+      "id": 12,
+      "fr": "Cette nuit-là, Irlan ne dort pas. Il pense : « Mon français est faible, mais mon cœur est fort. Je suis géographe, je connais les distances. De Chez Margot à son numéro, c'est le plus beau chemin de ma vie. »",
+      "pt": "Naquela noite, Irlan não dorme. Ele pensa: «Meu francês é fraco, mas meu coração é forte. Sou geógrafo, conheço as distâncias. Do Chez Margot ao número dela, é o caminho mais bonito da minha vida.»"
     }
   ],
   "vocabularyDictionary": [
     {
-      "term": "musée",
-      "definitionPt": "museu",
-      "definitionFr": "Lieu où l'on expose des œuvres d'art et des objets historiques.",
-      "inflections": ["le musée", "un musée", "des musées"],
-      "ptTargets": ["museu"],
+      "term": "numéro",
+      "definitionPt": "número",
+      "definitionFr": "Suite de chiffres qui permet de contacter quelqu'un par téléphone.",
+      "inflections": ["le numéro", "un numéro", "des numéros"],
+      "ptTargets": ["número"],
       "examples": [
-        { "level": "A1", "fr": "La famille visite le musée du Louvre.", "pt": "A família visita o museu do Louvre." },
-        { "level": "A2-B1", "fr": "Le musée est ouvert tous les jours sauf le mardi.", "pt": "O museu está aberto todos os dias, exceto terça-feira." },
-        { "level": "B2", "fr": "Ce musée possède des collections exceptionnelles.", "pt": "Este museu possui coleções excepcionais." },
-        { "level": "C1-C2", "fr": "Le Louvre est l'un des musées les plus visités au monde.", "pt": "O Louvre é um dos museus mais visitados do mundo." }
+        { "level": "A1", "fr": "Je demande son numéro à Andréa.", "pt": "Eu peço o número da Andréa." },
+        { "level": "A2-B1", "fr": "Elle écrit son numéro sur un papier.", "pt": "Ela escreve o número dela num papel." },
+        { "level": "B2", "fr": "Il enregistre le numéro dans son téléphone.", "pt": "Ele salva o número no celular dele." },
+        { "level": "C1-C2", "fr": "Un simple numéro peut changer le cours d'une vie.", "pt": "Um simples número pode mudar o rumo de uma vida." }
       ]
     },
     {
-      "term": "pyramide",
-      "definitionPt": "pirâmide",
-      "definitionFr": "Monument en forme de pyramide, comme celle du Louvre.",
-      "inflections": ["la pyramide", "une pyramide", "des pyramides"],
-      "ptTargets": ["pirâmide"],
+      "term": "demander",
+      "definitionPt": "pedir, perguntar",
+      "definitionFr": "Dire à quelqu'un que l'on veut obtenir quelque chose.",
+      "inflections": ["je demande", "demander", "il demande"],
+      "ptTargets": ["pedir", "perguntar"],
       "examples": [
-        { "level": "A1", "fr": "La pyramide de verre brille au soleil.", "pt": "A pirâmide de vidro brilha ao sol." },
-        { "level": "A2-B1", "fr": "La pyramide du Louvre est très célèbre.", "pt": "A pirâmide do Louvre é muito famosa." },
-        { "level": "B2", "fr": "La pyramide a été construite en 1989.", "pt": "A pirâmide foi construída em 1989." },
-        { "level": "C1-C2", "fr": "La pyramide de verre, œuvre de l'architecte Pei, est devenue un symbole de Paris.", "pt": "A pirâmide de vidro, obra do arquiteto Pei, tornou-se um símbolo de Paris." }
+        { "level": "A1", "fr": "Je demande un café noir.", "pt": "Eu peço um café preto." },
+        { "level": "A2-B1", "fr": "Il demande son numéro à Andréa.", "pt": "Ele pede o número à Andréa." },
+        { "level": "B2", "fr": "Elle demande au chef de préparer un plat spécial.", "pt": "Ela pede ao chef para preparar um prato especial." },
+        { "level": "C1-C2", "fr": "Demander, c'est accepter de ne pas tout savoir.", "pt": "Pedir é aceitar que não se sabe tudo." }
       ]
     },
     {
-      "term": "verre",
-      "definitionPt": "vidro",
-      "definitionFr": "Matière transparente et fragile.",
-      "inflections": ["le verre", "un verre", "des verres"],
-      "ptTargets": ["vidro"],
+      "term": "apprécier",
+      "definitionPt": "apreciar, gostar de",
+      "definitionFr": "Trouver quelque chose de bon ou d'agréable.",
+      "inflections": ["j'apprécie", "apprécier", "il apprécie"],
+      "ptTargets": ["apreciar", "gostar de"],
       "examples": [
-        { "level": "A1", "fr": "La pyramide est en verre.", "pt": "A pirâmide é de vidro." },
-        { "level": "A2-B1", "fr": "Ce verre est très propre.", "pt": "Este vidro está muito limpo." },
-        { "level": "B2", "fr": "L'architecture de verre laisse entrer la lumière.", "pt": "A arquitetura de vidro deixa entrar a luz." },
-        { "level": "C1-C2", "fr": "Le verre réfléchit la lumière et transforme l'espace urbain.", "pt": "O vidro reflete a luz e transforma o espaço urbano." }
+        { "level": "A1", "fr": "J'apprécie son sourire.", "pt": "Eu aprecio o sorriso dela." },
+        { "level": "A2-B1", "fr": "Elle apprécie la musique brésilienne.", "pt": "Ela gosta da música brasileira." },
+        { "level": "B2", "fr": "Il apprécie le calme du matin.", "pt": "Ele aprecia a calma da manhã." },
+        { "level": "C1-C2", "fr": "Apprécier les petits moments rend la vie plus douce.", "pt": "Apreciar os pequenos momentos torna a vida mais doce." }
       ]
     },
     {
-      "term": "billet",
-      "definitionPt": "ingresso, bilhete",
-      "definitionFr": "Ticket qui permet d'entrer quelque part.",
-      "inflections": ["le billet", "un billet", "des billets"],
-      "ptTargets": ["ingresso", "bilhete"],
+      "term": "faible",
+      "definitionPt": "fraco",
+      "definitionFr": "Qui n'est pas fort, pas solide.",
+      "inflections": ["faible", "faibles"],
+      "ptTargets": ["fraco"],
       "examples": [
-        { "level": "A1", "fr": "J'achète trois billets pour le musée.", "pt": "Eu compro três ingressos para o museu." },
-        { "level": "A2-B1", "fr": "Le billet coûte quinze euros.", "pt": "O ingresso custa quinze euros." },
-        { "level": "B2", "fr": "Les billets se réservent en ligne.", "pt": "Os ingressos são reservados online." },
-        { "level": "C1-C2", "fr": "La réservation des billets évite une longue attente à l'entrée.", "pt": "A reserva dos ingressos evita uma longa espera na entrada." }
+        { "level": "A1", "fr": "Mon français est encore faible.", "pt": "Meu francês ainda é fraco." },
+        { "level": "A2-B1", "fr": "Le café est faible ce matin.", "pt": "O café está fraco esta manhã." },
+        { "level": "B2", "fr": "Sa voix est faible après la longue journée.", "pt": "A voz dele está fraca depois do longo dia." },
+        { "level": "C1-C2", "fr": "Même une langue faible devient forte avec du courage.", "pt": "Até uma língua fraca fica forte com coragem." }
       ]
     },
     {
-      "term": "entrée",
-      "definitionPt": "entrada",
-      "definitionFr": "Endroit par lequel on entre dans un lieu.",
-      "inflections": ["l'entrée", "une entrée", "des entrées"],
-      "ptTargets": ["entrada"],
+      "term": "impoli",
+      "definitionPt": "mal-educado",
+      "definitionFr": "Qui manque de politesse.",
+      "inflections": ["impoli", "impolie", "impolis"],
+      "ptTargets": ["mal-educado"],
       "examples": [
-        { "level": "A1", "fr": "Il y a beaucoup de monde devant l'entrée.", "pt": "Há muita gente em frente à entrada." },
-        { "level": "A2-B1", "fr": "L'entrée du musée est grande.", "pt": "A entrada do museu é grande." },
-        { "level": "B2", "fr": "L'entrée principale est réservée aux visiteurs.", "pt": "A entrada principal é reservada aos visitantes." },
-        { "level": "C1-C2", "fr": "L'entrée pyramidale accueille des millions de visiteurs chaque année.", "pt": "A entrada piramidal acolhe milhões de visitantes a cada ano." }
+        { "level": "A1", "fr": "Le client est impoli.", "pt": "O cliente é mal-educado." },
+        { "level": "A2-B1", "fr": "Il ne faut pas être impoli au restaurant.", "pt": "Não se deve ser mal-educado no restaurante." },
+        { "level": "B2", "fr": "Un client impoli ne gâche pas la journée d'Andréa.", "pt": "Um cliente mal-educado não estraga o dia da Andréa." },
+        { "level": "C1-C2", "fr": "La politesse ouvre les portes que l'impolitesse ferme.", "pt": "A educação abre as portas que a grosseria fecha." }
       ]
     },
     {
-      "term": "peinture",
-      "definitionPt": "pintura",
-      "definitionFr": "Œuvre d'art réalisée avec de la peinture.",
-      "inflections": ["la peinture", "une peinture", "des peintures"],
-      "ptTargets": ["pintura"],
+      "term": "dynamique",
+      "definitionPt": "dinâmico, movimentado",
+      "definitionFr": "Qui a beaucoup d'énergie et d'activité.",
+      "inflections": ["dynamique", "dynamiques"],
+      "ptTargets": ["dinâmico", "movimentado"],
       "examples": [
-        { "level": "A1", "fr": "Íris regarde les grandes peintures.", "pt": "Íris olha as grandes pinturas." },
-        { "level": "A2-B1", "fr": "Cette peinture est très ancienne.", "pt": "Esta pintura é muito antiga." },
-        { "level": "B2", "fr": "La peinture italienne occupe une grande salle.", "pt": "A pintura italiana ocupa uma grande sala." },
-        { "level": "C1-C2", "fr": "La peinture classique française rayonne dans le monde entier.", "pt": "A pintura clássica francesa brilha no mundo inteiro." }
+        { "level": "A1", "fr": "Le restaurant est très dynamique.", "pt": "O restaurante é muito movimentado." },
+        { "level": "A2-B1", "fr": "Andréa est une serveuse dynamique.", "pt": "Andréa é uma garçonete dinâmica." },
+        { "level": "B2", "fr": "La ville de Créteil est dynamique le soir.", "pt": "A cidade de Créteil é movimentada à noite." },
+        { "level": "C1-C2", "fr": "Une équipe dynamique transforme un petit restaurant en lieu de vie.", "pt": "Uma equipe dinâmica transforma um pequeno restaurante em lugar vivo." }
       ]
     },
     {
-      "term": "tableau",
-      "definitionPt": "quadro, pintura",
-      "definitionFr": "Œuvre d'art peinte sur une toile.",
-      "inflections": ["le tableau", "un tableau", "des tableaux"],
-      "ptTargets": ["quadro"],
+      "term": "la limonade",
+      "definitionPt": "a limonada",
+      "definitionFr": "Boisson fraîche à base de citron et d'eau.",
+      "inflections": ["la limonade", "une limonade", "des limonades"],
+      "ptTargets": ["limonada"],
       "examples": [
-        { "level": "A1", "fr": "La Joconde est un tableau célèbre.", "pt": "A Mona Lisa é um quadro famoso." },
-        { "level": "A2-B1", "fr": "Ce tableau est très petit.", "pt": "Este quadro é muito pequeno." },
-        { "level": "B2", "fr": "Les tableaux du Louvre attirent des milliers de visiteurs.", "pt": "Os quadros do Louvre atraem milhares de visitantes." },
-        { "level": "C1-C2", "fr": "Ce tableau de Léonard de Vinci est protégé derrière une vitre.", "pt": "Este quadro de Leonardo da Vinci é protegido atrás de um vidro." }
+        { "level": "A1", "fr": "Andréa donne une limonade à Irlan.", "pt": "Andréa dá uma limonada ao Irlan." },
+        { "level": "A2-B1", "fr": "La limonade est très fraîche en été.", "pt": "A limonada é muito gelada no verão." },
+        { "level": "B2", "fr": "Il boit sa limonade avec de l'eau gazeuse.", "pt": "Ele bebe a limonada dele com água com gás." },
+        { "level": "C1-C2", "fr": "Une limonade offerte par un sourire vaut mieux qu'un grand banquet.", "pt": "Uma limonada oferecida com um sorriso vale mais que um grande banquete." }
       ]
     },
     {
-      "term": "célèbre",
-      "definitionPt": "famoso, célebre",
-      "definitionFr": "Qui est connu par beaucoup de gens.",
-      "inflections": ["célèbre", "célèbres"],
-      "ptTargets": ["famoso", "célebre"],
+      "term": "le café noir",
+      "definitionPt": "o café preto",
+      "definitionFr": "Café sans lait, servi dans une petite tasse.",
+      "inflections": ["le café noir", "un café noir", "des cafés noirs"],
+      "ptTargets": ["café preto"],
       "examples": [
-        { "level": "A1", "fr": "La Joconde est très célèbre.", "pt": "A Mona Lisa é muito famosa." },
-        { "level": "A2-B1", "fr": "Paris est une ville célèbre dans le monde.", "pt": "Paris é uma cidade famosa no mundo." },
-        { "level": "B2", "fr": "Ce peintre est devenu célèbre après sa mort.", "pt": "Este pintor ficou famoso depois da sua morte." },
-        { "level": "C1-C2", "fr": "Les œuvres célèbres du Louvre attirent des visiteurs du monde entier.", "pt": "As obras famosas do Louvre atraem visitantes do mundo inteiro." }
+        { "level": "A1", "fr": "Irlan demande un café noir.", "pt": "Irlan pede um café preto." },
+        { "level": "A2-B1", "fr": "Le café noir est très fort.", "pt": "O café preto é muito forte." },
+        { "level": "B2", "fr": "Il boit un café noir entre deux livraisons.", "pt": "Ele toma um café preto entre duas entregas." },
+        { "level": "C1-C2", "fr": "Le café noir est le carburant des nuits parisiennes.", "pt": "O café preto é o combustível das noites parisienses." }
       ]
     },
     {
-      "term": "regarder",
-      "definitionPt": "olhar, assistir",
-      "definitionFr": "Diriger les yeux vers quelque chose.",
-      "inflections": ["je regarde", "regarder", "il regarde"],
-      "ptTargets": ["olhar", "assistir"],
+      "term": "la crème brûlée",
+      "definitionPt": "o creme brulée",
+      "definitionFr": "Dessert français à la vanille avec une croûte de caramel.",
+      "inflections": ["la crème brûlée", "une crème brûlée", "des crèmes brûlées"],
+      "ptTargets": ["creme brulée"],
       "examples": [
-        { "level": "A1", "fr": "Je regarde le tableau.", "pt": "Eu olho o quadro." },
-        { "level": "A2-B1", "fr": "Nous regardons les peintures avec attention.", "pt": "Nós olhamos as pinturas com atenção." },
-        { "level": "B2", "fr": "Elle regarde le plan du musée.", "pt": "Ela olha o mapa do museu." },
-        { "level": "C1-C2", "fr": "Regarder une œuvre, c'est entrer en dialogue avec l'artiste.", "pt": "Olhar uma obra é entrar em diálogo com o artista." }
+        { "level": "A1", "fr": "Andréa garde la crème brûlée pour Irlan.", "pt": "Andréa guarda o creme brulée para o Irlan." },
+        { "level": "A2-B1", "fr": "La crème brûlée est le dessert préféré d'Andréa.", "pt": "O creme brulée é a sobremesa preferida da Andréa." },
+        { "level": "B2", "fr": "La crème brûlée se déguste avec une petite cuillère.", "pt": "O creme brulée é degustado com uma colherinha." },
+        { "level": "C1-C2", "fr": "Une crème brûlée partagée peut être le début d'une histoire.", "pt": "Um creme brulée compartilhado pode ser o começo de uma história." }
       ]
     },
     {
-      "term": "visiter",
-      "definitionPt": "visitar",
-      "definitionFr": "Aller voir un lieu pour le découvrir.",
-      "inflections": ["je visite", "visiter", "il visite"],
-      "ptTargets": ["visitar"],
+      "term": "la soupe à l'oignon",
+      "definitionPt": "a sopa de cebola",
+      "definitionFr": "Soupe traditionnelle française faite avec des oignons et du fromage.",
+      "inflections": ["la soupe à l'oignon", "une soupe à l'oignon"],
+      "ptTargets": ["sopa de cebola"],
       "examples": [
-        { "level": "A1", "fr": "La famille visite le musée.", "pt": "A família visita o museu." },
-        { "level": "A2-B1", "fr": "Nous visitons Paris en été.", "pt": "Nós visitamos Paris no verão." },
-        { "level": "B2", "fr": "Ils visitent les monuments historiques.", "pt": "Eles visitam os monumentos históricos." },
-        { "level": "C1-C2", "fr": "Visiter un musée enrichit la compréhension d'une culture.", "pt": "Visitar um museu enriquece a compreensão de uma cultura." }
+        { "level": "A1", "fr": "Le menu propose la soupe à l'oignon.", "pt": "O cardápio oferece a sopa de cebola." },
+        { "level": "A2-B1", "fr": "La soupe à l'oignon est très bonne en hiver.", "pt": "A sopa de cebola é muito boa no inverno." },
+        { "level": "B2", "fr": "La soupe à l'oignon est une spécialité de Paris.", "pt": "A sopa de cebola é uma especialidade de Paris." },
+        { "level": "C1-C2", "fr": "La soupe à l'oignon réchauffe le corps et l'âme des Parisiens.", "pt": "A sopa de cebola aquece o corpo e a alma dos parisienses." }
       ]
     },
     {
-      "term": "monde",
-      "definitionPt": "mundo; gente, pessoas",
-      "definitionFr": "La Terre et tous ses habitants, ou beaucoup de personnes.",
-      "inflections": ["le monde", "un monde"],
-      "ptTargets": ["mundo", "gente"],
+      "term": "le feuilleton",
+      "definitionPt": "a novela, a série",
+      "definitionFr": "Série télévisée racontée en plusieurs épisodes.",
+      "inflections": ["le feuilleton", "un feuilleton", "des feuilletons"],
+      "ptTargets": ["novela", "série"],
       "examples": [
-        { "level": "A1", "fr": "Il y a beaucoup de monde au musée.", "pt": "Há muita gente no museu." },
-        { "level": "A2-B1", "fr": "La Joconde est connue dans le monde entier.", "pt": "A Mona Lisa é conhecida no mundo inteiro." },
-        { "level": "B2", "fr": "Le Louvre reçoit des visiteurs du monde entier.", "pt": "O Louvre recebe visitantes do mundo inteiro." },
-        { "level": "C1-C2", "fr": "La culture française rayonne sur le monde depuis des siècles.", "pt": "A cultura francesa brilha sobre o mundo há séculos." }
+        { "level": "A1", "fr": "Andréa aime les feuilletons brésiliens.", "pt": "Andréa ama as novelas brasileiras." },
+        { "level": "A2-B1", "fr": "Le feuilleton commence à vingt heures.", "pt": "A novela começa às vinte horas." },
+        { "level": "B2", "fr": "Ce feuilleton raconte une histoire d'amour à Rio.", "pt": "Essa novela conta uma história de amor no Rio." },
+        { "level": "C1-C2", "fr": "Les feuilletons brésiliens ont appris à Andréa des mots de portugais.", "pt": "As novelas brasileiras ensinaram palavras de português à Andréa." }
       ]
     },
     {
-      "term": "rire",
-      "definitionPt": "rir",
-      "definitionFr": "Manifester sa joie en faisant des sons.",
-      "inflections": ["je ris", "rire", "il rit"],
-      "ptTargets": ["rir"],
+      "term": "enregistrer",
+      "definitionPt": "salvar, registrar",
+      "definitionFr": "Garder une information dans un téléphone ou un ordinateur.",
+      "inflections": ["j'enregistre", "enregistrer", "il enregistre"],
+      "ptTargets": ["salvar", "registrar"],
       "examples": [
-        { "level": "A1", "fr": "Tout le monde rit.", "pt": "Todo mundo ri." },
-        { "level": "A2-B1", "fr": "Nous rions ensemble à la maison.", "pt": "Nós rimos juntos em casa." },
-        { "level": "B2", "fr": "Elle rit de bon cœur devant le tableau.", "pt": "Ela ri de bom grado diante do quadro." },
-        { "level": "C1-C2", "fr": "Rire ensemble renforce les liens de la famille.", "pt": "Rir juntos fortalece os laços da família." }
+        { "level": "A1", "fr": "J'enregistre son numéro.", "pt": "Eu salvo o número dela." },
+        { "level": "A2-B1", "fr": "Il enregistre le contact dans son téléphone.", "pt": "Ele salva o contato no celular dele." },
+        { "level": "B2", "fr": "Elle enregistre les commandes sur l'ordinateur.", "pt": "Ela registra as comandas no computador." },
+        { "level": "C1-C2", "fr": "Enregistrer un numéro, c'est ouvrir une porte sur l'avenir.", "pt": "Salvar um número é abrir uma porta para o futuro." }
+      ]
+    },
+    {
+      "term": "visiter un musée",
+      "definitionPt": "visitar um museu",
+      "definitionFr": "Découvrir les œuvres d'un musée.",
+      "inflections": ["visiter un musée", "je visite un musée", "visiter des musées"],
+      "ptTargets": ["visitar um museu"],
+      "examples": [
+        { "level": "A1", "fr": "Tu veux visiter un musée avec moi ?", "pt": "Você quer visitar um museu comigo?" },
+        { "level": "A2-B1", "fr": "Nous visitons un musée samedi.", "pt": "Nós visitamos um museu no sábado." },
+        { "level": "B2", "fr": "Visiter un musée avec Andréa, c'est découvrir Paris autrement.", "pt": "Visitar um museu com a Andréa é descobrir Paris de outra forma." },
+        { "level": "C1-C2", "fr": "Un géographe visite un musée comme un marin lit les étoiles.", "pt": "Um geógrafo visita um museu como um marinheiro lê as estrelas." }
       ]
     }
   ],
   "grammarTip": {
-    "ruleTitle": "Le verbe voir au présent",
-    "explanationPt": "O verbo 'voir' (ver) é irregular no presente: je vois, tu vois, il/elle voit, nous voyons, vous voyez, ils/elles voient. Ex.: 'Est-ce que tu vois la Joconde ?' (Você vê a Mona Lisa?)",
-    "exampleFr": "Oui, papa, je la vois !",
-    "examplePt": "Sim, papai, eu a vejo!",
-    "practiceQuestion": "Complete com o verbo correto no presente: 'Nous _____ les peintures du musée.'",
-    "options": ["voyons", "vois", "voient"],
+    "ruleTitle": "Demander quelque chose à quelqu'un",
+    "explanationPt": "Para pedir algo A alguém em francês, usamos 'demander quelque chose À quelqu'un'. Ex.: 'Je demande son numéro à Andréa.' (Eu peço o número da Andréa.) O verbo 'demander' é regular no presente: je demande, tu demandes, il/elle demande, nous demandons, vous demandez, ils/elles demandent.",
+    "exampleFr": "Je demande son numéro à Andréa.",
+    "examplePt": "Eu peço o número da Andréa.",
+    "practiceQuestion": "Complete com a forma correta do verbo demander: 'Nous _____ un café noir.'",
+    "options": ["demandons", "demande", "demandent"],
     "correctIndex": 0,
     "points": [
       {
-        "ruleTitle": "Le verbe voir au présent",
-        "explanationPt": "'voir' é irregular: je vois, tu vois, il voit, nous voyons, vous voyez, ils voient. Ex.: 'Je vois la pyramide.', 'Ils voient le tableau.'",
-        "exampleFr": "Je vois la pyramide de verre.",
-        "examplePt": "Eu vejo a pirâmide de vidro.",
-        "practiceQuestion": "Complete: 'Ils _____ la Joconde au musée.'",
-        "options": ["voient", "voyons", "vois"],
+        "ruleTitle": "Le verbe demander au présent",
+        "explanationPt": "'demander' é regular: je demande, tu demandes, il demande, nous demandons, vous demandez, ils demandent. Ex.: 'Je demande un café noir.', 'Ils demandent le menu.'",
+        "exampleFr": "Il demande son numéro à Andréa.",
+        "examplePt": "Ele pede o número à Andréa.",
+        "practiceQuestion": "Complete: 'Elle _____ une limonade.'",
+        "options": ["demande", "demandons", "demandes"],
         "correctIndex": 0
       },
       {
-        "ruleTitle": "La question avec est-ce que",
-        "explanationPt": "Para fazer uma pergunta, podemos usar 'est-ce que' + frase afirmativa: 'Est-ce que tu vois la Joconde ?' (Você vê a Mona Lisa?)",
-        "exampleFr": "Est-ce que tu vois la Joconde, Íris ?",
-        "examplePt": "Você vê a Mona Lisa, Íris?",
-        "practiceQuestion": "Complete a pergunta: '_____ vous visitez le musée demain ?'",
-        "options": ["Est-ce que", "Il y a", "Je suis"],
+        "ruleTitle": "Le verbe appeler au présent",
+        "explanationPt": "'appeler' (chamar, ligar) dobra o L: j'appelle, tu appelles, il appelle, nous appelons, vous appelez, ils appellent. Ex.: 'J'appelle Andréa ce soir.' (Eu ligo para a Andréa esta noite.)",
+        "exampleFr": "J'appelle Andréa ce soir.",
+        "examplePt": "Eu ligo para a Andréa esta noite.",
+        "practiceQuestion": "Complete: 'Tu _____ Andréa samedi ?'",
+        "options": ["appelles", "appelez", "appelons"],
         "correctIndex": 0
       }
     ]
   },
   "quizQuestions": [
     {
-      "question": "Complete a frase do texto: 'La pyramide de _____ brille au soleil.'",
-      "options": ["verre", "bois", "papier"],
-      "correctIndex": 0,
-      "explanation": "No texto: 'La pyramide de verre brille au soleil.' (A pirâmide de vidro brilha ao sol.)"
-    },
-    {
-      "question": "Ordene corretamente as palavras da frase: [ tu / la Joconde / Est-ce que / vois / ? / ]",
+      "question": "Onde Irlan vê Andréa todos os dias?",
       "options": [
-        "Est-ce que tu vois la Joconde ?",
-        "Tu vois est-ce que la Joconde ?",
-        "La Joconde tu vois est-ce que ?"
+        "No restaurante Chez Margot, quando recolhe as comandas.",
+        "No museu do Louvre.",
+        "Na estação de metrô de Créteil."
       ],
       "correctIndex": 0,
-      "explanation": "A frase exata do texto é 'Est-ce que tu vois la Joconde, Íris ?'"
+      "explanation": "No texto: Irlan, entregador, para todos os dias no restaurante Chez Margot para pegar as comandas — e lá está Andréa."
     },
     {
-      "question": "Como se traduz: 'Eu vejo a pirâmide de vidro'?",
+      "question": "O que Andréa ama e que aproxima ela do Brasil?",
       "options": [
-        "Je vois la pyramide de verre.",
-        "Je regarde la pyramide de verre.",
-        "Je suis la pyramide de verre."
+        "Os feuilletons brésiliens (as novelas brasileiras).",
+        "O futebol francês.",
+        "O frio de dezembro."
       ],
       "correctIndex": 0,
-      "explanation": "'Je vois' = eu vejo (ver); 'la pyramide de verre' = a pirâmide de vidro."
+      "explanation": "No texto: 'Elle aime les feuilletons brésiliens et elle rêve de visiter le Brésil.'"
     },
     {
-      "question": "Identifique a frase com ERRO de conjugação do verbo voir:",
+      "question": "Como se traduz: 'Eu peço o número da Andréa'?",
       "options": [
-        "Je vois la Joconde.",
-        "Nous voyons les peintures.",
-        "Elle vois le tableau."
-      ],
-      "correctIndex": 2,
-      "explanation": "O erro é 'Elle vois': com 'elle', o verbo voir fica 'voit' ('Elle voit le tableau.')."
-    },
-    {
-      "question": "O que Íris diz quando vê a Mona Lisa?",
-      "options": [
-        "« Elle est petite ! » (Ela é pequena!)",
-        "« Elle est très grande ! »",
-        "« Elle est fermée ! »"
+        "Je demande son numéro à Andréa.",
+        "Je donne son numéro à Andréa.",
+        "Je regarde son numéro à Andréa."
       ],
       "correctIndex": 0,
-      "explanation": "No texto: 'Íris dit : « Elle est petite ! » Tout le monde rit.'"
+      "explanation": "'demander quelque chose à quelqu'un' = pedir algo a alguém. 'Je demande son numéro à Andréa.'"
+    },
+    {
+      "question": "Onde Andréa escreve o número dela para Irlan?",
+      "options": [
+        "Numa comanda (une commande) do restaurante.",
+        "Num guardanapo sujo.",
+        "No capacete da scooter."
+      ],
+      "correctIndex": 0,
+      "explanation": "No texto: 'Elle prend une commande et elle écrit son numéro.' — a comanda que ele recolhe todos os dias."
+    },
+    {
+      "question": "O que Irlan e Andréa planejam fazer no sábado?",
+      "options": [
+        "Visiter un musée (visitar um museu).",
+        "Faire les courses (fazer compras).",
+        "Travailler au restaurant (trabalhar no restaurante)."
+      ],
+      "correctIndex": 0,
+      "explanation": "No texto: 'Tu veux visiter un musée avec moi, samedi ?' — o primeiro encontro deles."
     }
   ]
 }
