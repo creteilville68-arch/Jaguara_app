@@ -1,10 +1,10 @@
 # #1 Paris — A1
 
-**109 palavras** ainda precisam aparecer nos textos das aulas desta cidade.
+**110 palavras** ainda precisam aparecer nos textos das aulas desta cidade.
 
 Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aventura do Irlan.
 
-## A1 (109)
+## A1 (110)
 
 - [ ] **aimer une publication** — curtir uma publicação
 - [ ] **aujourd** — hoje / no dia de hoje (primeira parte de 'aujourd'hui')
@@ -14,65 +14,66 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **crêperie** — creperia / restaurante de crepes
 - [ ] **déposer de l’argent** — depositar dinheiro
 - [ ] **détacher** — desamarrar
-- [ ] **en désordre** — desarrumado
-- [ ] **escalator** — escada rolante
-- [ ] **étendre le linge** — estender a roupa
-- [ ] **faire une vidéo** — fazer um vídeo
-- [ ] **gagner un match** — vencer uma partida
-- [ ] **in** — em / dentro (prefixo ou expressão como check-in)
-- [ ] **l’adoucissant** — o amaciante
-- [ ] **l’ampoule** — a lâmpada
-- [ ] **l’araignée** — a aranha
-- [ ] **l’aubergine** — a berinjela
-- [ ] **l’évier** — a pia
-- [ ] **l’imprimante** — a impressora
-- [ ] **l’instituteur** — o professor primário
-- [ ] **l’interrupteur** — o interruptor
-- [ ] **l’oncle** — o tio
-- [ ] **la batterie (téléphone)** — a bateria (celular)
-- [ ] **la chaîne de télévision** — o canal de TV
-- [ ] **la clé à molette** — a chave inglesa
-- [ ] **la clinique** — a clínica
-- [ ] **la coiffeuse** — a cabeleireira
-- [ ] **la courgette** — a abobrinha
-- [ ] **la dinde** — o peru
-- [ ] **la gymnastique** — a ginástica
-- [ ] **la jambe** — a perna
-- [ ] **la médaille** — a medalha
-- [ ] **la peinture murale** — a tinta de parede
-- [ ] **la perceuse** — a furadeira
-- [ ] **la planche à repasser** — a tábua de passar
-- [ ] **la pomme de terre** — a batata
-- [ ] **la rallonge** — a extensão
-- [ ] **la salle à manger** — a sala de jantar
-- [ ] **la salle de sport** — a academia
-- [ ] **la série** — a série
-- [ ] **la sonnette** — a campainha
-- [ ] **la tablette** — o tablet
-- [ ] **la tarte aux pommes** — a torta de maçã
-- [ ] **la tisane** — o chá de ervas
-- [ ] **la vidéo en ligne** — o vídeo online
-- [ ] **laisser un message** — deixar um recado
-- [ ] **le brie** — o brie
-- [ ] **le café au lait** — o café com leite
-- [ ] **le carrelage** — o azulejo / o piso
-- [ ] **le coiffeur** — o cabeleireiro
-- [ ] **le concombre** — o pepino
-- [ ] **le couteau** — a faca
-- [ ] **le croissant au beurre** — o croissant de manteiga
-- [ ] **le dessin animé** — o desenho animado
-- [ ] **le drap** — o lençol
-- [ ] **le fouet** — o batedor
-- [ ] **le genou** — o joelho
-- [ ] **le gruyère** — o gruyère
-- [ ] **le jeu télévisé** — o programa de auditório
-- [ ] **le journal intime** — o diário
-- [ ] **le jus de pomme** — o suco de maçã
-- [ ] **le marteau** — o martelo
-- [ ] **le mixeur** — o liquidificador / o mixer
-- [ ] **le papier peint** — o papel de parede
-- [ ] **le peigne** — o pente
-- [ ] **le poisson rouge** — o peixinho dourado
+- [ ] **égoïste** — egoísta
+- [ ] **envoyer une lettre** — enviar uma carta
+- [ ] **éteindre l’ordinateur** — desligar o computador
+- [ ] **faire la cuisine** — cozinhar
+- [ ] **fi** — Fi (parte da palavra Wi-Fi)
+- [ ] **hui** — hoje (segunda parte de 'aujourd'hui')
+- [ ] **jusqu** — até / até a (usado em 'jusqu'à')
+- [ ] **l’allumette** — o fósforo
+- [ ] **l’ananas** — o abacaxi
+- [ ] **l’armoire** — o armário
+- [ ] **l’égouttoir** — o escorredor de louça
+- [ ] **l’expresso** — o café expresso
+- [ ] **l’infirmière** — a enfermeira
+- [ ] **l’interphone** — o interfone
+- [ ] **l’œuf à la coque** — o ovo cozido
+- [ ] **la banane** — a banana
+- [ ] **la brosse à dents** — a escova de dentes
+- [ ] **la chantilly** — o chantilly
+- [ ] **la clé USB** — o pen drive
+- [ ] **la clôture** — a cerca
+- [ ] **la console** — o console
+- [ ] **la cuisine équipée** — a cozinha equipada
+- [ ] **la fumée** — a fumaça
+- [ ] **la haie** — a cerca viva
+- [ ] **la lessive** — o sabão em pó
+- [ ] **la passoire** — a peneira / o escorredor
+- [ ] **la pelle** — a pá
+- [ ] **la pile** — a pilha
+- [ ] **la poissonnerie** — a peixaria
+- [ ] **la poupée** — a boneca
+- [ ] **la raquette** — a raquete
+- [ ] **la salle de bain** — o banheiro
+- [ ] **la scie** — o serrote
+- [ ] **la serviette de bain** — a toalha de banho
+- [ ] **la souris d’ordinateur** — o mouse
+- [ ] **la tante** — a tia
+- [ ] **la télécommande** — o controle remoto
+- [ ] **la véranda** — a varanda / a varanda fechada
+- [ ] **laid** — feio
+- [ ] **laver la vaisselle** — lavar a louça
+- [ ] **le câble** — o cabo
+- [ ] **le camping** — o camping
+- [ ] **le clavier** — o teclado
+- [ ] **le commissariat** — a delegacia
+- [ ] **le cou** — o pescoço
+- [ ] **le couvercle** — a tampa
+- [ ] **le dentifrice** — o creme dental
+- [ ] **le digicode** — o interfone
+- [ ] **le footballeur** — o jogador de futebol
+- [ ] **le garage** — a garagem
+- [ ] **le gratin** — o gratinado
+- [ ] **le handball** — o handebol
+- [ ] **le jeu vidéo** — o videogame
+- [ ] **le journal télévisé** — o telejornal
+- [ ] **le lave-vaisselle** — a lava-louças
+- [ ] **le minuteur** — o timer
+- [ ] **le nom d’utilisateur** — o nome de usuário
+- [ ] **le parquet** — o piso de madeira
+- [ ] **le plancher** — o assoalho
+- [ ] **le poivron** — o pimentão
 - [ ] **le poulet rôti** — o frango assado
 - [ ] **le pull** — o suéter
 - [ ] **le réfrigérateur** — a geladeira

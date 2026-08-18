@@ -1,10 +1,10 @@
 # #5 Tours — B1
 
-**448 palavras** ainda precisam aparecer nos textos das aulas desta cidade.
+**449 palavras** ainda precisam aparecer nos textos das aulas desta cidade.
 
 Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aventura do Irlan.
 
-## B1 (448)
+## B1 (449)
 
 - [ ] **à la mode** — na moda
 - [ ] **abordable** — acessível / barato
@@ -353,104 +353,105 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **le succès** — o sucesso
 - [ ] **le symptôme** — o sintoma
 - [ ] **le système d’exploitation** — o sistema operacional
-- [ ] **le téléspectateur** — o telespectador
-- [ ] **le tennis de table** — o tênis de mesa
-- [ ] **le titre de transport** — o bilhete de transporte
-- [ ] **le tournage** — a filmagem
-- [ ] **le traitement** — o tratamento
-- [ ] **le travail à plein temps** — o trabalho em tempo integral
-- [ ] **le troc** — a troca / o escambo
-- [ ] **le vaccin** — a vacina
-- [ ] **le velours** — o veludo
-- [ ] **le verrou** — a tranca
-- [ ] **le vice** — o vício / o defeito
-- [ ] **le virus informatique** — o vírus de computador
-- [ ] **le vol direct** — o voo direto
-- [ ] **le voyage organisé** — a viagem organizada
-- [ ] **les applaudissements** — os aplausos
-- [ ] **les dépenses** — as despesas
-- [ ] **les effets secondaires** — os efeitos colaterais
-- [ ] **les fibres** — as fibras
-- [ ] **les horaires flexibles** — os horários flexíveis
-- [ ] **les Jeux olympiques** — os Jogos Olímpicos
-- [ ] **les paramètres** — as configurações
-- [ ] **les produits bio** — os produtos orgânicos
-- [ ] **les ressources naturelles** — os recursos naturais
-- [ ] **les travaux de rénovation** — as obras de reforma
-- [ ] **les vitamines** — as vitaminas
-- [ ] **logique** — lógico
-- [ ] **loyal** — leal
-- [ ] **malhonnête** — desonesto
-- [ ] **manifester** — manifestar-se
-- [ ] **manquer de respect** — faltar com o respeito
-- [ ] **méchant** — mau / maldoso
-- [ ] **méfiant** — desconfiado
-- [ ] **mettre à jour** — atualizar
-- [ ] **migrer** — migrar
-- [ ] **modifier** — modificar
-- [ ] **multiplier** — multiplicar
-- [ ] **notamment** — notadamente / especialmente
-- [ ] **obliger** — obrigar
-- [ ] **occasionnel** — ocasional
-- [ ] **opérer** — operar
-- [ ] **ôter** — tirar / remover
-- [ ] **par ailleurs** — por outro lado
-- [ ] **parallèle** — paralelo
-- [ ] **parvenir à** — conseguir / chegar a
-- [ ] **perdre du poids** — perder peso
-- [ ] **périmé** — vencido / expirado
-- [ ] **perpétue** — perpetua / mantém vivo
-- [ ] **pétrir** — sovar
-- [ ] **ponctuel** — pontual
-- [ ] **prendre du poids** — ganhar peso
-- [ ] **prescrire** — prescrever
-- [ ] **probablement** — provavelmente
-- [ ] **progresser** — progredir
-- [ ] **promettre** — prometer
-- [ ] **publier** — publicar
-- [ ] **quant à** — quanto a
-- [ ] **ravissant** — encantador
-- [ ] **réclamer** — reclamar
-- [ ] **réconforter** — consolar / confortar
-- [ ] **rectangulaire** — retangular
-- [ ] **rejeter** — rejeitar
-- [ ] **rembourser une dette** — quitar uma dívida
-- [ ] **rentable** — rentável
-- [ ] **reporter** — adiar
-- [ ] **reprocher** — censurar / repreender
-- [ ] **respecter le code** — respeitar o código
-- [ ] **ressens** — sinto / experimento (do verbo ressentir)
-- [ ] **retenir** — reter / reservar
-- [ ] **révéler un secret** — revelar um segredo
-- [ ] **robuste** — robusto
-- [ ] **rompre un contrat** — quebrar um contrato
-- [ ] **s’angoisser** — angustiar-se
-- [ ] **s’entendre bien** — dar-se bem
-- [ ] **s’étirer** — alongar-se
-- [ ] **s’indigner** — indignar-se
-- [ ] **saigner** — sangrar
-- [ ] **sauvegarder** — salvaguardar
-- [ ] **se faire vacciner** — vacinar-se
-- [ ] **se réjouir** — alegrar-se
-- [ ] **se sentir bien** — sentir-se bem
-- [ ] **se venger** — vingar-se
-- [ ] **séduire** — seduzir
-- [ ] **semer** — semear
-- [ ] **sévère** — severo
-- [ ] **simplifier** — simplificar
-- [ ] **soudainement** — subitamente
-- [ ] **soumis** — submisso
-- [ ] **spécialement** — especialmente
-- [ ] **stressant** — estressante
-- [ ] **subitement** — de repente
-- [ ] **suivre un traitement** — seguir um tratamento
-- [ ] **survivre** — sobreviver
-- [ ] **temporaire** — temporário
-- [ ] **tertre** — Pequena elevação / Place du Tertre (praça dos pintores em Montmartre)
-- [ ] **tomber amoureux** — apaixonar-se
-- [ ] **tourner un film** — rodar um filme
-- [ ] **triangulaire** — triangular
-- [ ] **trouver la solution** — encontrar a solução
-- [ ] **urgent** — urgente
-- [ ] **venger** — vingar
-- [ ] **vis-à-vis** — em relação a
+- [ ] **le téléphone portable** — o celular
+- [ ] **le temps de cuisson** — o tempo de cozimento
+- [ ] **le titre de séjour** — o visto de residência
+- [ ] **le torrent** — a torrente
+- [ ] **le train complet** — o trem lotado
+- [ ] **le travail à mi-temps** — o trabalho em meio período
+- [ ] **le tribunal** — o tribunal
+- [ ] **le tuyau d’arrosage** — a mangueira de regar
+- [ ] **le vélo électrique** — a bicicleta elétrica
+- [ ] **le vernissage** — a abertura (de exposição)
+- [ ] **le vestiaire** — o vestiário
+- [ ] **le vinaigre balsamique** — o vinagre balsâmico
+- [ ] **le vol avec escale** — o voo com escala
+- [ ] **le volontariat** — o voluntariado
+- [ ] **le water-polo** — o polo aquático
+- [ ] **les congés payés** — as férias remuneradas
+- [ ] **les droits civiques** — os direitos civis
+- [ ] **les fiançailles** — o noivado
+- [ ] **les gants de jardinage** — as luvas de jardinagem
+- [ ] **les intérêts** — os juros
+- [ ] **les panneaux solaires** — os painéis solares
+- [ ] **les premiers secours** — os primeiros socorros
+- [ ] **les réglages** — os ajustes
+- [ ] **les transports en commun** — os transportes públicos
+- [ ] **les vacances scolaires** — as férias escolares
+- [ ] **liker** — curtir
+- [ ] **louer une voiture** — alugar um carro
+- [ ] **malheureux** — infeliz
+- [ ] **manger équilibré** — comer de forma equilibrada
+- [ ] **mannequins** — as modelos / manequins
+- [ ] **mature** — maduro
+- [ ] **méditer** — meditar
+- [ ] **menacer** — ameaçar
+- [ ] **mettre en marche** — ligar / colocar em funcionamento
+- [ ] **millésime** — a safra / ano de colheita
+- [ ] **multiple** — múltiplo
+- [ ] **normalement** — normalmente
+- [ ] **objecter** — objetar
+- [ ] **obtenir** — obter
+- [ ] **officiel** — oficial
+- [ ] **optimiser** — otimizar
+- [ ] **ouvert d’esprit** — de mente aberta
+- [ ] **par rapport à** — em relação a
+- [ ] **partiellement** — parcialmente
+- [ ] **payer des impôts** — pagar impostos
+- [ ] **performant** — de alto desempenho
+- [ ] **perpendiculaire** — perpendicular
+- [ ] **persévérer** — perseverar
+- [ ] **pochette** — a carteira de mão / nécessaire
+- [ ] **poursuivre** — prosseguir
+- [ ] **prendre une amende** — levar uma multa
+- [ ] **probable** — provável
+- [ ] **professionnel** — profissional
+- [ ] **prolonger** — prolongar
+- [ ] **protester** — protestar
+- [ ] **qualifié** — qualificado
+- [ ] **rattraper** — alcançar / recuperar
+- [ ] **réaliste** — realista
+- [ ] **récompenser** — recompensar
+- [ ] **recruter** — recrutar
+- [ ] **régionaux** — regionais / locais
+- [ ] **remarquable** — notável
+- [ ] **renouveler** — renovar
+- [ ] **répondre correctement** — responder corretamente
+- [ ] **reprendre son souffle** — recuperar o fôlego
+- [ ] **respecter la loi** — respeitar a lei
+- [ ] **responsable** — responsável
+- [ ] **retarder** — atrasar
+- [ ] **réutilisable** — reutilizável
+- [ ] **rigide** — rígido
+- [ ] **rompre** — romper / terminar
+- [ ] **rusé** — astuto
+- [ ] **s’échauffer** — aquecer
+- [ ] **s’établir** — estabelecer-se
+- [ ] **s’exiler** — exilar-se
+- [ ] **sage** — sábio / comportado
+- [ ] **sauf si** — a não ser que
+- [ ] **se dérouler** — decorrer / transcorrer
+- [ ] **se mettre à** — começar a
+- [ ] **se repentir** — arrepender-se
+- [ ] **se spécialiser** — especializar-se
+- [ ] **sédentaire** — sedentário
+- [ ] **semblable** — semelhante
+- [ ] **serein** — sereno
+- [ ] **signer une pétition** — assinar um abaixo-assinado
+- [ ] **solitaire** — solitário
+- [ ] **soumettre** — submeter
+- [ ] **soutenir une cause** — apoiar uma causa
+- [ ] **spontané** — espontâneo
+- [ ] **subir** — sofrer / passar por
+- [ ] **suivre la commande** — acompanhar o pedido
+- [ ] **sur-mesure** — sob medida / personalizado
+- [ ] **télécharger une application** — baixar um aplicativo
+- [ ] **terroir** — o terroir / solo regional
+- [ ] **tolérant** — tolerante
+- [ ] **touchant** — tocante
+- [ ] **travailleur acharné** — muito trabalhador
+- [ ] **triple** — triplo
+- [ ] **uniquement** — unicamente
+- [ ] **varié** — variado
+- [ ] **véritable** — verdadeiro
+- [ ] **voter une loi** — aprovar uma lei

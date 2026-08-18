@@ -353,104 +353,104 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **le supérieur** — o superior
 - [ ] **le syndic** — o síndico
 - [ ] **le tarif réduit** — a tarifa reduzida
-- [ ] **le télétravail** — o home office
-- [ ] **le testament** — o testamento
-- [ ] **le tonneau** — o tonel, o barril
-- [ ] **le train annulé** — o trem cancelado
-- [ ] **le transport en commun** — o transporte público
-- [ ] **le tri des déchets** — a separação do lixo
-- [ ] **le troupeau** — o rebanho
-- [ ] **le vainqueur** — o vencedor
-- [ ] **le verger** — o pomar
-- [ ] **le vertige** — a tontura
-- [ ] **le vide-grenier** — o bazar de garagem
-- [ ] **le voisinage** — a vizinhança
-- [ ] **le voleur** — o ladrão
-- [ ] **le wagon-restaurant** — o vagão-restaurante
-- [ ] **les calories** — as calorias
-- [ ] **les données personnelles** — os dados pessoais
-- [ ] **les énergies fossiles** — os combustíveis fósseis
-- [ ] **les frais de livraison** — a taxa de entrega
-- [ ] **les ingrédients** — os ingredientes
-- [ ] **les mathématiques** — a matemática
-- [ ] **les points de fidélité** — os pontos de fidelidade
-- [ ] **les protéines** — as proteínas
-- [ ] **les tirs au but** — a disputa de pênaltis
-- [ ] **les travaux dirigés** — os trabalhos dirigidos
-- [ ] **licencier** — demitir
-- [ ] **lointain** — longínquo
-- [ ] **maladroit** — desajeitado
-- [ ] **malsain** — não saudável
-- [ ] **manipuler** — manipular
-- [ ] **manuel** — manual
-- [ ] **médiocre** — medíocre
-- [ ] **mémoriser** — memorizar
-- [ ] **mettre en ligne** — publicar / colocar online
-- [ ] **militer** — militar
-- [ ] **motiver** — motivar
-- [ ] **nécessaire** — necessário
-- [ ] **obèse** — obeso
-- [ ] **obscur** — obscuro
-- [ ] **occuper un poste** — ocupar um cargo
-- [ ] **opposer** — opor
-- [ ] **ourlet** — a bainha / dobra costurada
-- [ ] **par contre** — em compensação
-- [ ] **particulièrement** — particularmente
-- [ ] **passer le permis** — tirar a carteira
-- [ ] **perdre patience** — perder a paciência
-- [ ] **permettre** — permitir
-- [ ] **persévérant** — perseverante
-- [ ] **plaindre** — lamentar
-- [ ] **positif** — positivo
-- [ ] **prendre sa retraite** — aposentar-se
-- [ ] **principalement** — principalmente
-- [ ] **prochainement** — em breve
-- [ ] **progressivement** — progressivamente
-- [ ] **prononcer** — pronunciar
-- [ ] **punir** — punir
-- [ ] **rapidement** — rapidamente
-- [ ] **réaliser** — realizar
-- [ ] **récolter** — colher / fazer colheita
-- [ ] **recouper les sources** — cruzar as fontes
-- [ ] **redoubler** — repetir o ano
-- [ ] **relatif** — relativo
-- [ ] **remettre** — entregar / adiar
-- [ ] **réparer une fuite** — consertar um vazamento
-- [ ] **reposant** — repousante
-- [ ] **résoudre un problème** — resolver um problema
-- [ ] **respecter un contrat** — cumprir um contrato
-- [ ] **ressentir** — sentir
-- [ ] **réussir un examen** — passar em um exame
-- [ ] **ridicule** — ridículo
-- [ ] **romantique** — romântico
-- [ ] **ruineux** — ruinoso / caríssimo
-- [ ] **s’attrister** — entristecer-se
-- [ ] **s’entendre mal** — dar-se mal
-- [ ] **s’évanouir** — desmaiar
-- [ ] **s’intégrer** — integrar-se
-- [ ] **satisfait** — satisfeito
-- [ ] **se casser le bras** — quebrar o braço
-- [ ] **se fiancer** — ficar noivo
-- [ ] **se remettre** — recuperar-se
-- [ ] **se sentir mal** — sentir-se mal
-- [ ] **sécurisé** — seguro / protegido
-- [ ] **sélectionner** — selecionar
-- [ ] **sensible** — sensível
-- [ ] **signer un contrat** — assinar um contrato
-- [ ] **sociable** — sociável
-- [ ] **souffrir** — sofrer
-- [ ] **soustraire** — subtrair
-- [ ] **splendide** — esplêndido
-- [ ] **stylistes** — os estilistas / designers de moda
-- [ ] **suffisant** — suficiente
-- [ ] **superviser** — supervisionar
-- [ ] **symétrique** — simétrico
-- [ ] **tenir une promesse** — cumprir uma promessa
-- [ ] **têtu** — teimoso
-- [ ] **totalement** — totalmente
-- [ ] **travailler à distance** — trabalhar remotamente
-- [ ] **tricher** — trapacear
-- [ ] **typique** — típico
-- [ ] **vaincre** — vencer
-- [ ] **vérifier les faits** — verificar os fatos
-- [ ] **volumineux** — volumoso
+- [ ] **le téléspectateur** — o telespectador
+- [ ] **le tennis de table** — o tênis de mesa
+- [ ] **le titre de transport** — o bilhete de transporte
+- [ ] **le tournage** — a filmagem
+- [ ] **le traitement** — o tratamento
+- [ ] **le travail à plein temps** — o trabalho em tempo integral
+- [ ] **le troc** — a troca / o escambo
+- [ ] **le vaccin** — a vacina
+- [ ] **le velours** — o veludo
+- [ ] **le verrou** — a tranca
+- [ ] **le vice** — o vício / o defeito
+- [ ] **le virus informatique** — o vírus de computador
+- [ ] **le vol direct** — o voo direto
+- [ ] **le voyage organisé** — a viagem organizada
+- [ ] **les applaudissements** — os aplausos
+- [ ] **les dépenses** — as despesas
+- [ ] **les effets secondaires** — os efeitos colaterais
+- [ ] **les fibres** — as fibras
+- [ ] **les horaires flexibles** — os horários flexíveis
+- [ ] **les Jeux olympiques** — os Jogos Olímpicos
+- [ ] **les paramètres** — as configurações
+- [ ] **les produits bio** — os produtos orgânicos
+- [ ] **les ressources naturelles** — os recursos naturais
+- [ ] **les travaux de rénovation** — as obras de reforma
+- [ ] **les vitamines** — as vitaminas
+- [ ] **logique** — lógico
+- [ ] **loyal** — leal
+- [ ] **malhonnête** — desonesto
+- [ ] **manifester** — manifestar-se
+- [ ] **manquer de respect** — faltar com o respeito
+- [ ] **méchant** — mau / maldoso
+- [ ] **méfiant** — desconfiado
+- [ ] **mettre à jour** — atualizar
+- [ ] **migrer** — migrar
+- [ ] **modifier** — modificar
+- [ ] **multiplier** — multiplicar
+- [ ] **notamment** — notadamente / especialmente
+- [ ] **obliger** — obrigar
+- [ ] **occasionnel** — ocasional
+- [ ] **opérer** — operar
+- [ ] **ôter** — tirar / remover
+- [ ] **par ailleurs** — por outro lado
+- [ ] **parallèle** — paralelo
+- [ ] **parvenir à** — conseguir / chegar a
+- [ ] **perdre du poids** — perder peso
+- [ ] **périmé** — vencido / expirado
+- [ ] **perpétue** — perpetua / mantém vivo
+- [ ] **pétrir** — sovar
+- [ ] **ponctuel** — pontual
+- [ ] **prendre du poids** — ganhar peso
+- [ ] **prescrire** — prescrever
+- [ ] **probablement** — provavelmente
+- [ ] **progresser** — progredir
+- [ ] **promettre** — prometer
+- [ ] **publier** — publicar
+- [ ] **quant à** — quanto a
+- [ ] **ravissant** — encantador
+- [ ] **réclamer** — reclamar
+- [ ] **réconforter** — consolar / confortar
+- [ ] **rectangulaire** — retangular
+- [ ] **rejeter** — rejeitar
+- [ ] **rembourser une dette** — quitar uma dívida
+- [ ] **rentable** — rentável
+- [ ] **reporter** — adiar
+- [ ] **reprocher** — censurar / repreender
+- [ ] **respecter le code** — respeitar o código
+- [ ] **ressens** — sinto / experimento (do verbo ressentir)
+- [ ] **retenir** — reter / reservar
+- [ ] **révéler un secret** — revelar um segredo
+- [ ] **robuste** — robusto
+- [ ] **rompre un contrat** — quebrar um contrato
+- [ ] **s’angoisser** — angustiar-se
+- [ ] **s’entendre bien** — dar-se bem
+- [ ] **s’étirer** — alongar-se
+- [ ] **s’indigner** — indignar-se
+- [ ] **saigner** — sangrar
+- [ ] **sauvegarder** — salvaguardar
+- [ ] **se faire vacciner** — vacinar-se
+- [ ] **se réjouir** — alegrar-se
+- [ ] **se sentir bien** — sentir-se bem
+- [ ] **se venger** — vingar-se
+- [ ] **séduire** — seduzir
+- [ ] **semer** — semear
+- [ ] **sévère** — severo
+- [ ] **simplifier** — simplificar
+- [ ] **soudainement** — subitamente
+- [ ] **soumis** — submisso
+- [ ] **spécialement** — especialmente
+- [ ] **stressant** — estressante
+- [ ] **subitement** — de repente
+- [ ] **suivre un traitement** — seguir um tratamento
+- [ ] **survivre** — sobreviver
+- [ ] **temporaire** — temporário
+- [ ] **tertre** — Pequena elevação / Place du Tertre (praça dos pintores em Montmartre)
+- [ ] **tomber amoureux** — apaixonar-se
+- [ ] **tourner un film** — rodar um filme
+- [ ] **triangulaire** — triangular
+- [ ] **trouver la solution** — encontrar a solução
+- [ ] **urgent** — urgente
+- [ ] **venger** — vingar
+- [ ] **vis-à-vis** — em relação a
