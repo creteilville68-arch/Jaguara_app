@@ -131,4 +131,10 @@ export const PARIS_BACKLOG_EXAMPLES: Record<string, MasterExample[]> = {
     { level: 'B2', fr: 'Une organisation parfaite demande beaucoup de préparation.', pt: 'Uma organização perfeita exige muita preparação.' },
     { level: 'C1-C2', fr: "C'est parfaite, cette harmonie née de l'effort et de l'attention.", pt: 'É perfeita, essa harmonia nascida do esforço e da atenção.' },
   ],
+  crème: [
+    { level: 'A1', fr: 'La crème est fraîche.', pt: 'O creme é fresco.' },
+    { level: 'A2-B1', fr: 'Il y a de la crème sur le gâteau.', pt: 'Há creme sobre o bolo.' },
+    { level: 'B2', fr: 'La crème chantilly accompagne les fraises.', pt: 'O chantilly acompanha os morangos.' },
+    { level: 'C1-C2', fr: 'La crème, onctueuse, adoucit les desserts les plus simples.', pt: 'O creme, cremoso, suaviza as sobremesas mais simples.' },
+  ],
 };

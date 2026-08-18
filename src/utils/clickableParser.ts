@@ -17,11 +17,15 @@ import { parseFrenchSentence, ParsedToken } from './textParser';
 import { MASTER_EXAMPLES } from '../data/masterExamplesDictionary';
 import { PARIS_BACKLOG_EXAMPLES } from '../data/masterExamplesParisBacklog';
 import { AMIENS_BACKLOG_EXAMPLES } from '../data/masterExamplesAmiensBacklog';
+import { LILLE_BACKLOG_EXAMPLES } from '../data/masterExamplesLilleBacklog';
 
+// As curadoria por cidade (backlog) têm prioridade sobre o dicionário comum:
+// elas são espalhadas por último e sobrescrevem entradas parciais.
 const ALL_MASTER_EXAMPLES: Record<string, { level: string; fr: string; pt: string }[]> = {
+  ...MASTER_EXAMPLES,
   ...PARIS_BACKLOG_EXAMPLES,
   ...AMIENS_BACKLOG_EXAMPLES,
-  ...MASTER_EXAMPLES,
+  ...LILLE_BACKLOG_EXAMPLES,
 };
 
 function fold(s: string): string {
