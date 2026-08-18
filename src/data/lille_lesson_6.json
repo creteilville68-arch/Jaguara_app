@@ -1,252 +1,292 @@
 {
   "id": "lille_lesson_6",
   "cityId": "lille",
-  "domain": "Cotidiano",
+  "domain": "Natureza & História",
   "level": "Básico (A2)",
   "titleFr": "La Citadelle de Vauban : un dimanche au parc",
-  "titlePt": "A Citadelle de Vauban: um domingo no parque",
-  "subtitleFr": "L'étoile de Vauban, l'herbe verte et les souvenirs de Paris",
-  "subtitlePt": "A estrela de Vauban, a grama verde e as lembranças de Paris",
-  "summaryPt": "Nesta Aula 6 (A2), a família passa o domingo na Citadelle de Vauban, a fortaleza em forma de estrela construída no século XVII. Enquanto Íris brinca com o pai, Irlan lembra dos domingos em Paris quando era entregador de scooter. O aluno aprende os advérbios de tempo (hier, d'abord, ensuite, enfin) e o contraste entre o Passé Composé e o presente.",
+  "titlePt": "A Citadela de Vauban: um domingo no parque",
+  "subtitleFr": "Une promenade pour préparer l'archive",
+  "subtitlePt": "Um passeio para preparar o arquivo",
+  "summaryPt": "Na Aula 6 de Lille (A2), Irlan e Andréa passeiam no parque da Citadela de Vauban e planejam a visita aos arquivos. O aluno pratica o futuro próximo e o vocabulário do parque.",
   "paragraphs": [
     {
       "id": 1,
-      "fr": "Hier, nous avons visité la Citadelle de Vauban. D'abord, nous avons marché le long des remparts. Ensuite, nous avons trouvé une grande pelouse verte.",
-      "pt": "Ontem, visitamos a Citadelle de Vauban. Primeiro, caminhamos ao longo das muralhas. Depois, encontramos um grande gramado verde."
+      "fr": "Le dimanche, Irlan et Andréa se promènent autour de la Citadelle de Vauban.",
+      "pt": "No domingo, Irlan e Andréa passeiam ao redor da Citadela de Vauban."
     },
     {
       "id": 2,
-      "fr": "La citadelle a la forme d'une étoile. Andréa a expliqué que Vauban a construit cette forteresse pour protéger la ville au XVIIe siècle.",
-      "pt": "A citadela tem a forma de uma estrela. Andréa explicou que Vauban construiu esta fortaleza para proteger a cidade no século XVII."
+      "fr": "Les remparts forment une étoile de pierre au milieu de la verdure.",
+      "pt": "As muralhas formam uma estrela de pedra no meio do verde."
     },
     {
       "id": 3,
-      "fr": "Pendant que Íris courait avec le ballon, Irlan a pensé aux dimanches à Paris. Quand il était livreur en scooter, il travaillait aussi le week-end.",
-      "pt": "Enquanto Íris corria com a bola, Irlan pensou nos domingos em Paris. Quando era entregador de scooter, ele também trabalhava no fim de semana."
+      "fr": "Des familles pique-niquent et des joggers courent le long des fossés.",
+      "pt": "Famílias fazem piquenique e corredores correm ao longo dos fossos."
     },
     {
       "id": 4,
-      "fr": "Enfin, nous avons fait un pique-nique au bord de la Deûle. La rivière était calme et le soleil brillait. Une journée parfaite en famille.",
-      "pt": "Por fim, fizemos um piquenique às margens do rio Deûle. O rio estava calmo e o sol brilhava. Um dia perfeito em família."
+      "fr": "« Vauban construisait des forteresses partout en France », explique Andréa.",
+      "pt": "« Vauban construía fortalezas por toda a França », explica Andréa."
+    },
+    {
+      "id": 5,
+      "fr": "Irlan sourit. « Une étoile pour protéger une ville. Comme un dessin dans l'Atlas. »",
+      "pt": "Irlan sorri. « Uma estrela para proteger uma cidade. Como um desenho no Atlas. »"
+    },
+    {
+      "id": 6,
+      "fr": "Ils s'assoient sur l'herbe, près de l'eau.",
+      "pt": "Eles se sentam na grama, perto da água."
+    },
+    {
+      "id": 7,
+      "fr": "« Demain, nous allons voir les archives du port », dit Irlan.",
+      "pt": "« Amanhã, vamos ver os arquivos do porto », diz Irlan."
+    },
+    {
+      "id": 8,
+      "fr": "« Que allons-nous chercher exactement ? » demande Andréa.",
+      "pt": "« O que vamos procurar exatamente? » pergunta Andréa."
+    },
+    {
+      "id": 9,
+      "fr": "« Un nom, une date, un bateau. Peut-être l'année 1904. »",
+      "pt": "« Um nome, uma data, um barco. Talvez o ano de 1904. »"
+    },
+    {
+      "id": 10,
+      "fr": "Andréa regarde les remparts. « Et si nous trouvons le nom de ta famille ? »",
+      "pt": "Andréa olha as muralhas. « E se encontrarmos o nome da sua família? »"
+    },
+    {
+      "id": 11,
+      "fr": "« Alors la carte aura un sens nouveau », répond Irlan, grave.",
+      "pt": "« Então o mapa terá um sentido novo », responde Irlan, sério."
+    },
+    {
+      "id": 12,
+      "fr": "Le soir tombe doucement. « Repose-toi, demain est un grand jour. »",
+      "pt": "A noite cai devagar. « Descanse, amanhã é um grande dia. »"
     }
   ],
   "vocabularyDictionary": [
     {
-      "term": "le parc",
-      "definitionPt": "o parque",
-      "definitionFr": "Grand espace vert dans une ville.",
-      "inflections": ["le parc", "les parcs"],
-      "ptTargets": ["parque"],
+      "term": "la citadelle",
+      "definitionPt": "a cidadela / a fortaleza",
+      "definitionFr": "Forteresse qui protège une ville.",
+      "inflections": ["la citadelle", "une citadelle", "des citadelles"],
+      "ptTargets": ["cidadela", "fortaleza"],
       "examples": [
-        { "level": "A1", "fr": "Le parc est grand.", "pt": "O parque é grande." },
-        { "level": "A2-B1", "fr": "La Citadelle est entourée d'un grand parc.", "pt": "A Citadelle é cercada por um grande parque." },
-        { "level": "B2", "fr": "Le parc de la Citadelle est très apprécié des familles le dimanche.", "pt": "O parque da Citadelle é muito apreciado pelas famílias no domingo." },
-        { "level": "C1-C2", "fr": "Les parcs urbains jouent un rôle essentiel dans la qualité de vie des métropoles.", "pt": "Os parques urbanos desempenham um papel essencial na qualidade de vida das metrópoles." }
+        { "level": "A1", "fr": "La citadelle est ancienne.", "pt": "A cidadela é antiga." },
+        { "level": "A2-B1", "fr": "Ils se promènent autour de la citadelle.", "pt": "Eles passeiam ao redor da cidadela." },
+        { "level": "B2", "fr": "La citadelle de Vauban dessine une étoile au cœur du parc.", "pt": "A cidadela de Vauban desenha uma estrela no coração do parque." },
+        { "level": "C1-C2", "fr": "C'est la citadelle qui, muette, raconte la défense patiente d'une ville.", "pt": "É a cidadela que, muda, conta a defesa paciente de uma cidade." }
       ]
     },
     {
-      "term": "la promenade",
-      "definitionPt": "o passeio",
-      "definitionFr": "Action de marcher pour le plaisir.",
-      "inflections": ["la promenade", "les promenades"],
-      "ptTargets": ["passeio"],
+      "term": "les remparts",
+      "definitionPt": "as muralhas",
+      "definitionFr": "Murs de protection.",
+      "inflections": ["les remparts", "un rempart", "des remparts"],
+      "ptTargets": ["muralhas"],
       "examples": [
-        { "level": "A1", "fr": "La promenade est agréable.", "pt": "O passeio é agradável." },
-        { "level": "A2-B1", "fr": "Nous avons fait une belle promenade le long des remparts.", "pt": "Fizemos um lindo passeio ao longo das muralhas." },
-        { "level": "B2", "fr": "La promenade du dimanche est une tradition familiale dans le Nord.", "pt": "O passeio de domingo é uma tradição familiar no Norte." },
-        { "level": "C1-C2", "fr": "La promenade rituelle du dimanche participe à la cohésion sociale d'un quartier.", "pt": "O passeio ritual de domingo participa da coesão social de um bairro." }
+        { "level": "A1", "fr": "Les remparts sont hauts.", "pt": "As muralhas são altas." },
+        { "level": "A2-B1", "fr": "Les remparts forment une étoile.", "pt": "As muralhas formam uma estrela." },
+        { "level": "B2", "fr": "Les remparts entourent la citadelle d'un anneau de pierre.", "pt": "As muralhas cercam a cidadela com um anel de pedra." },
+        { "level": "C1-C2", "fr": "Ce sont les remparts qui, épais et calmes, protègent la mémoire d'une époque.", "pt": "São as muralhas que, espessas e calmas, protegem a memória de uma época." }
       ]
     },
     {
-      "term": "se promener",
-      "definitionPt": "passear",
-      "definitionFr": "Marcher sans but précis, pour le plaisir.",
-      "inflections": ["je me promène", "nous nous promenons", "se promener"],
-      "ptTargets": ["passear"],
+      "term": "l'étoile",
+      "definitionPt": "a estrela",
+      "definitionFr": "Forme à plusieurs branches.",
+      "inflections": ["l'étoile", "une étoile", "des étoiles"],
+      "ptTargets": ["estrela"],
       "examples": [
-        { "level": "A1", "fr": "Je me promène dans le parc.", "pt": "Eu passeio no parque." },
-        { "level": "A2-B1", "fr": "Nous nous sommes promenés autour de la citadelle.", "pt": "Nós passeamos ao redor da citadela." },
-        { "level": "B2", "fr": "Se promener le long de la Deûle est très reposant.", "pt": "Passear às margens da Deûle é muito relaxante." },
-        { "level": "C1-C2", "fr": "Se promener dans les espaces verts favorise la détente et la réflexion.", "pt": "Passear nos espaços verdes favorece o relaxamento e a reflexão." }
+        { "level": "A1", "fr": "L'étoile brille.", "pt": "A estrela brilha." },
+        { "level": "A2-B1", "fr": "Les remparts forment une étoile.", "pt": "As muralhas formam uma estrela." },
+        { "level": "B2", "fr": "L'étoile de la citadelle se devine depuis le ciel.", "pt": "A estrela da cidadela se percebe do céu." },
+        { "level": "C1-C2", "fr": "C'est l'étoile qui, dessinée sur le sol, oriente autant qu'elle protège.", "pt": "É a estrela que, desenhada no chão, orienta tanto quanto protege." }
       ]
     },
     {
-      "term": "courir",
-      "definitionPt": "correr",
-      "definitionFr": "Se déplacer très vite avec les jambes.",
-      "inflections": ["je cours", "nous courons", "couru"],
-      "ptTargets": ["correr"],
+      "term": "la verdure",
+      "definitionPt": "o verde / a vegetação",
+      "definitionFr": "Ensemble des plantes vertes.",
+      "inflections": ["la verdure", "une verdure"],
+      "ptTargets": ["verde", "vegetação"],
       "examples": [
-        { "level": "A1", "fr": "Je cours dans le parc.", "pt": "Eu corro no parque." },
-        { "level": "A2-B1", "fr": "Íris a couru après le ballon toute l'après-midi.", "pt": "Íris correu atrás da bola a tarde inteira." },
-        { "level": "B2", "fr": "Beaucoup de joggeurs courent le long des remparts le matin.", "pt": "Muitos corredores correm ao longo das muralhas de manhã." },
-        { "level": "C1-C2", "fr": "Courir dans un cadre historique ajoute une dimension esthétique à l'effort sportif.", "pt": "Correr em um cenário histórico acrescenta uma dimensão estética ao esforço esportivo." }
+        { "level": "A1", "fr": "La verdure est belle.", "pt": "O verde é bonito." },
+        { "level": "A2-B1", "fr": "La citadelle est au milieu de la verdure.", "pt": "A cidadela fica no meio do verde." },
+        { "level": "B2", "fr": "La verdure du parc apaise les visiteurs.", "pt": "O verde do parque acalma os visitantes." },
+        { "level": "C1-C2", "fr": "C'est la verdure qui, généreuse, rend la pierre plus douce et la ville plus respirable.", "pt": "É o verde que, generoso, torna a pedra mais suave e a cidade mais respirável." }
       ]
     },
     {
-      "term": "le vélo",
-      "definitionPt": "a bicicleta",
-      "definitionFr": "Véhicule à deux roues que l'on pédale.",
-      "inflections": ["le vélo", "les vélos"],
-      "ptTargets": ["bicicleta"],
+      "term": "le fossé",
+      "definitionPt": "o fosso",
+      "definitionFr": "Canal creusé pour protéger.",
+      "inflections": ["le fossé", "un fossé", "des fossés"],
+      "ptTargets": ["fosso"],
       "examples": [
-        { "level": "A1", "fr": "Le vélo est rouge.", "pt": "A bicicleta é vermelha." },
-        { "level": "A2-B1", "fr": "On peut faire du vélo dans le parc de la Citadelle.", "pt": "Dá para andar de bicicleta no parque da Citadelle." },
-        { "level": "B2", "fr": "Les pistes cyclables relient le centre-ville au parc de la Citadelle.", "pt": "As ciclovias ligam o centro ao parque da Citadelle." },
-        { "level": "C1-C2", "fr": "Le développement du vélo urbain transforme durablement les mobilités des métropoles.", "pt": "O desenvolvimento da bicicleta urbana transforma de forma duradoura as mobilidades das metrópoles." }
+        { "level": "A1", "fr": "Le fossé est large.", "pt": "O fosso é largo." },
+        { "level": "A2-B1", "fr": "Des joggers courent le long des fossés.", "pt": "Corredores correm ao longo dos fossos." },
+        { "level": "B2", "fr": "Le fossé entourait autrefois la citadelle pour la protéger.", "pt": "O fosso outrora cercava a cidadela para protegê-la." },
+        { "level": "C1-C2", "fr": "C'est le fossé qui, rempli d'eau, séparait la forteresse du reste du monde.", "pt": "É o fosso que, cheio de água, separava a fortaleza do resto do mundo." }
       ]
     },
     {
-      "term": "l'herbe",
-      "definitionPt": "a grama",
-      "definitionFr": "Plante verte qui couvre le sol.",
-      "inflections": ["l'herbe", "les herbes"],
-      "ptTargets": ["grama"],
+      "term": "la forteresse",
+      "definitionPt": "a fortaleza",
+      "definitionFr": "Bâtiment militaire fortifié.",
+      "inflections": ["la forteresse", "une forteresse", "des forteresses"],
+      "ptTargets": ["fortaleza"],
       "examples": [
-        { "level": "A1", "fr": "L'herbe est verte.", "pt": "A grama é verde." },
-        { "level": "A2-B1", "fr": "Nous nous sommes assis sur l'herbe pour pique-niquer.", "pt": "Nós nos sentamos na grama para fazer piquenique." },
-        { "level": "B2", "fr": "La pelouse du parc est parfaitement entretenue.", "pt": "O gramado do parque é perfeitamente cuidado." },
-        { "level": "C1-C2", "fr": "Les grandes pelouses urbaines offrent un espace de respiration précieux au cœur de la ville.", "pt": "Os grandes gramados urbanos oferecem um espaço de respiração precioso no coração da cidade." }
+        { "level": "A1", "fr": "La forteresse est solide.", "pt": "A fortaleza é sólida." },
+        { "level": "A2-B1", "fr": "Vauban construisait des forteresses.", "pt": "Vauban construía fortalezas." },
+        { "level": "B2", "fr": "La forteresse a protégé la ville pendant des siècles.", "pt": "A fortaleza protegeu a cidade durante séculos." },
+        { "level": "C1-C2", "fr": "C'est la forteresse qui, par sa seule présence, dissuadait l'ennemi d'approcher.", "pt": "É a fortaleza que, só por sua presença, dissuadia o inimigo de se aproximar." }
       ]
     },
     {
-      "term": "l'arbre",
-      "definitionPt": "a árvore",
-      "definitionFr": "Plante avec un tronc et des branches.",
-      "inflections": ["l'arbre", "les arbres"],
-      "ptTargets": ["árvore"],
+      "term": "protéger",
+      "definitionPt": "proteger",
+      "definitionFr": "Mettre à l'abri du danger.",
+      "inflections": ["protéger", "je protège", "nous protégeons"],
+      "ptTargets": ["proteger"],
       "examples": [
-        { "level": "A1", "fr": "L'arbre est haut.", "pt": "A árvore é alta." },
-        { "level": "A2-B1", "fr": "Nous avons pique-niqué sous un grand arbre.", "pt": "Nós fizemos piquenique sob uma grande árvore." },
-        { "level": "B2", "fr": "Les arbres centenaires du parc offrent une ombre agréable.", "pt": "As árvores centenárias do parque oferecem uma sombra agradável." },
-        { "level": "C1-C2", "fr": "La canopée des vieux arbres constitue un patrimoine naturel essentiel à la biodiversité urbaine.", "pt": "A copa das árvores antigas constitui um patrimônio natural essencial para a biodiversidade urbana." }
-      ]
-    },
-    {
-      "term": "le dimanche",
-      "definitionPt": "o domingo",
-      "definitionFr": "Septième jour de la semaine, jour de repos.",
-      "inflections": ["le dimanche", "les dimanches"],
-      "ptTargets": ["domingo"],
-      "examples": [
-        { "level": "A1", "fr": "Le dimanche, je me repose.", "pt": "No domingo, eu descanso." },
-        { "level": "A2-B1", "fr": "Le dimanche, le parc est plein de familles.", "pt": "No domingo, o parque fica cheio de famílias." },
-        { "level": "B2", "fr": "Les dimanches au parc sont une habitude très répandue dans le Nord.", "pt": "Os domingos no parque são um hábito muito comum no Norte." },
-        { "level": "C1-C2", "fr": "Le dimanche, les villes européennes se transforment en véritables espaces de convivialité.", "pt": "No domingo, as cidades europeias se transformam em verdadeiros espaços de convivência." }
-      ]
-    },
-    {
-      "term": "profiter",
-      "definitionPt": "aproveitar",
-      "definitionFr": "Tirer du plaisir ou de l'avantage de quelque chose.",
-      "inflections": ["je profite", "nous profitons", "profité"],
-      "ptTargets": ["aproveitar"],
-      "examples": [
-        { "level": "A1", "fr": "Je profite du soleil.", "pt": "Eu aproveito o sol." },
-        { "level": "A2-B1", "fr": "Nous avons profité du beau temps pour pique-niquer.", "pt": "Nós aproveitamos o bom tempo para fazer piquenique." },
-        { "level": "B2", "fr": "Les familles profitent du parc pour se détendre et jouer.", "pt": "As famílias aproveitam o parque para relaxar e brincar." },
-        { "level": "C1-C2", "fr": "Profiter des espaces publics est un droit essentiel à l'équilibre de la vie urbaine.", "pt": "Aproveitar os espaços públicos é um direito essencial ao equilíbrio da vida urbana." }
-      ]
-    },
-    {
-      "term": "le ballon",
-      "definitionPt": "a bola",
-      "definitionFr": "Objet rond utilisé pour jouer.",
-      "inflections": ["le ballon", "les ballons"],
-      "ptTargets": ["bola"],
-      "examples": [
-        { "level": "A1", "fr": "Le ballon est rouge.", "pt": "A bola é vermelha." },
-        { "level": "A2-B1", "fr": "Íris a joué au ballon avec son père.", "pt": "Íris jogou bola com o pai." },
-        { "level": "B2", "fr": "Les enfants jouaient au ballon sur la grande pelouse.", "pt": "As crianças jogavam bola no grande gramado." },
-        { "level": "C1-C2", "fr": "Le jeu de ballon en plein air reste l'un des loisirs les plus universels de l'enfance.", "pt": "O jogo de bola ao ar livre continua sendo um dos lazeres mais universais da infância." }
-      ]
-    },
-    {
-      "term": "la rivière",
-      "definitionPt": "o rio",
-      "definitionFr": "Cours d'eau naturel.",
-      "inflections": ["la rivière", "les rivières"],
-      "ptTargets": ["rio"],
-      "examples": [
-        { "level": "A1", "fr": "La rivière est calme.", "pt": "O rio é calmo." },
-        { "level": "A2-B1", "fr": "La Deûle traverse la ville de Lille.", "pt": "A Deûle atravessa a cidade de Lille." },
-        { "level": "B2", "fr": "Les rives de la rivière sont aménagées pour la promenade.", "pt": "As margens do rio são preparadas para o passeio." },
-        { "level": "C1-C2", "fr": "La requalification des berges de la rivière a redonné vie au centre-ville.", "pt": "A requalificação das margens do rio devolveu vida ao centro." }
+        { "level": "A1", "fr": "Je protège ma famille.", "pt": "Eu protejo minha família." },
+        { "level": "A2-B1", "fr": "La citadelle protégeait la ville.", "pt": "A cidadela protegia a cidade." },
+        { "level": "B2", "fr": "Protéger un secret demande de la prudence.", "pt": "Proteger um segredo exige prudência." },
+        { "level": "C1-C2", "fr": "C'est en protégeant ce qui compte que l'on donne un sens à sa force.", "pt": "É protegendo o que importa que se dá sentido à própria força." }
       ]
     },
     {
       "term": "pique-niquer",
       "definitionPt": "fazer piquenique",
-      "definitionFr": "Manger dehors, souvent sur l'herbe.",
-      "inflections": ["je pique-nique", "nous pique-niquons", "pique-niqué"],
-      "ptTargets": ["piquenique"],
+      "definitionFr": "Manger dehors.",
+      "inflections": ["pique-niquer", "je pique-nique", "nous pique-niquons"],
+      "ptTargets": ["fazer piquenique"],
       "examples": [
-        { "level": "A1", "fr": "Nous pique-niquons au parc.", "pt": "Nós fazemos piquenique no parque." },
-        { "level": "A2-B1", "fr": "Nous avons pique-niqué au bord de la rivière.", "pt": "Nós fizemos piquenique à beira do rio." },
-        { "level": "B2", "fr": "Pique-niquer au parc est une activité idéale par beau temps.", "pt": "Fazer piquenique no parque é uma atividade ideal com bom tempo." },
-        { "level": "C1-C2", "fr": "Pique-niquer en famille est un rituel convivial qui renforce les liens intergénérationnels.", "pt": "Fazer piquenique em família é um ritual acolhedor que fortalece os laços entre gerações." }
+        { "level": "A1", "fr": "Je pique-nique au parc.", "pt": "Eu faço piquenique no parque." },
+        { "level": "A2-B1", "fr": "Des familles pique-niquent au soleil.", "pt": "Famílias fazem piquenique ao sol." },
+        { "level": "B2", "fr": "Pique-niquer au bord de l'eau est un plaisir simple.", "pt": "Fazer piquenique à beira d'água é um prazer simples." },
+        { "level": "C1-C2", "fr": "C'est en pique-niquant que l'on partage, dehors, un repas et un moment suspendu.", "pt": "É fazendo piquenique que se partilha, ao ar livre, uma refeição e um momento suspenso." }
+      ]
+    },
+    {
+      "term": "le dimanche",
+      "definitionPt": "o domingo",
+      "definitionFr": "Jour de la semaine.",
+      "inflections": ["le dimanche", "un dimanche"],
+      "ptTargets": ["domingo"],
+      "examples": [
+        { "level": "A1", "fr": "Le dimanche est calme.", "pt": "O domingo é calmo." },
+        { "level": "A2-B1", "fr": "Le dimanche, ils se promènent au parc.", "pt": "No domingo, eles passeiam no parque." },
+        { "level": "B2", "fr": "Le dimanche, la ville ralentit et respire.", "pt": "No domingo, a cidade desacelera e respira." },
+        { "level": "C1-C2", "fr": "C'est le dimanche qui, entre deux semaines, offre le repos nécessaire aux projets.", "pt": "É o domingo que, entre duas semanas, oferece o descanso necessário aos projetos." }
+      ]
+    },
+    {
+      "term": "le sens",
+      "definitionPt": "o sentido",
+      "definitionFr": "Signification.",
+      "inflections": ["le sens", "un sens", "des sens"],
+      "ptTargets": ["sentido"],
+      "examples": [
+        { "level": "A1", "fr": "Le sens est clair.", "pt": "O sentido é claro." },
+        { "level": "A2-B1", "fr": "La carte aura un sens nouveau.", "pt": "O mapa terá um sentido novo." },
+        { "level": "B2", "fr": "Trouver un sens à son voyage rend chaque étape plus forte.", "pt": "Encontrar um sentido para a viagem torna cada etapa mais forte." },
+        { "level": "C1-C2", "fr": "C'est le sens qui, une fois découvert, transforme le hasard en destin.", "pt": "É o sentido que, uma vez descoberto, transforma o acaso em destino." }
+      ]
+    },
+    {
+      "term": "grave",
+      "definitionPt": "sério / grave",
+      "definitionFr": "Qui exprime le sérieux.",
+      "inflections": ["grave", "graves"],
+      "ptTargets": ["grave", "sério"],
+      "examples": [
+        { "level": "A1", "fr": "Il est grave.", "pt": "Ele está sério." },
+        { "level": "A2-B1", "fr": "Irlan répond, grave.", "pt": "Irlan responde, sério." },
+        { "level": "B2", "fr": "Son ton grave annonce une nouvelle importante.", "pt": "Seu tom sério anuncia uma notícia importante." },
+        { "level": "C1-C2", "fr": "C'est le ton grave qui, soudain, donne du poids aux mots les plus simples.", "pt": "É o tom sério que, de repente, dá peso às palavras mais simples." }
+      ]
+    },
+    {
+      "term": "se reposer",
+      "definitionPt": "descansar",
+      "definitionFr": "Retrouver des forces.",
+      "inflections": ["se reposer", "je me repose", "nous nous reposons"],
+      "ptTargets": ["descansar"],
+      "examples": [
+        { "level": "A1", "fr": "Je me repose un peu.", "pt": "Eu descanso um pouco." },
+        { "level": "A2-B1", "fr": "Repose-toi avant demain.", "pt": "Descanse antes de amanhã." },
+        { "level": "B2", "fr": "Se reposer est nécessaire pour rester attentif.", "pt": "Descansar é necessário para continuar atento." },
+        { "level": "C1-C2", "fr": "C'est en se reposant que l'on prépare, sans le savoir, les forces du lendemain.", "pt": "É descansando que se preparam, sem saber, as forças do dia seguinte." }
       ]
     }
   ],
   "grammarTip": {
-    "ruleTitle": "Les adverbes de temps : hier, d'abord, ensuite, enfin",
-    "explanationPt": "Para narrar no passado, usamos marcadores de tempo: 'hier' (ontem), 'd'abord' (primeiro), 'ensuite' (depois), 'enfin' (por fim). Eles organizam a sequência dos eventos.",
-    "exampleFr": "D'abord, nous avons marché. Ensuite, nous avons pique-niqué. Enfin, nous sommes rentrés.",
-    "examplePt": "Primeiro, caminhamos. Depois, fizemos piquenique. Por fim, voltamos.",
-    "practiceQuestion": "Complete a sequência: « ___, nous avons visité la citadelle. »",
-    "options": ["D'abord", "Ensuite", "Enfin"],
+    "ruleTitle": "Le futur proche : aller + infinitif",
+    "explanationPt": "Futuro próximo: 'aller' + verbo. 'Nous allons voir' (vamos ver), 'je vais chercher' (vou procurar).",
+    "exampleFr": "Demain, nous allons voir les archives du port.",
+    "examplePt": "Amanhã, vamos ver os arquivos do porto.",
+    "practiceQuestion": "Complete: 'Demain, nous _____ voir les archives.'",
+    "options": ["allons", "allons à", "allé"],
     "correctIndex": 0,
     "points": [
       {
-        "ruleTitle": "Narrer une séquence au passé",
-        "explanationPt": "Ordem dos marcadores: d'abord (primeiro) → ensuite (depois) → enfin (por fim). Cada um introduz uma nova ação no Passé Composé.",
-        "exampleFr": "Ensuite, nous avons trouvé une grande pelouse.",
-        "examplePt": "Depois, encontramos um grande gramado.",
-        "practiceQuestion": "Qual marcador indica a última ação de uma sequência?",
-        "options": ["enfin", "d'abord", "hier"],
+        "ruleTitle": "Que allons-nous chercher ?",
+        "explanationPt": "'Que allons-nous chercher ?' = O que vamos procurar? (pergunta no futuro próximo).",
+        "exampleFr": "Que allons-nous chercher exactement ?",
+        "examplePt": "O que vamos procurar exatamente?",
+        "practiceQuestion": "Complete: '_____ allons-nous chercher ?'",
+        "options": ["Que", "Qui", "Où"],
         "correctIndex": 0
       },
       {
-        "ruleTitle": "Contraste passé composé et présent",
-        "explanationPt": "Usamos o Passé Composé para ações pontuais passadas ('nous avons visité') e o presente para fatos atuais ('la citadelle a la forme d'une étoile').",
-        "exampleFr": "Hier, nous avons visité la citadelle. Aujourd'hui, elle est un lieu de promenade.",
-        "examplePt": "Ontem, visitamos a citadela. Hoje, ela é um lugar de passeio.",
-        "practiceQuestion": "Qual frase está no presente?",
-        "options": ["La citadelle a la forme d'une étoile.", "Nous avons visité la citadelle.", "Íris a couru dans le parc."],
+        "ruleTitle": "Se promener (révision)",
+        "explanationPt": "Passear: je me promène, nous nous promenons. 'Ils se promènent autour de la citadelle' (Eles passeiam ao redor da cidadela).",
+        "exampleFr": "Ils se promènent autour de la citadelle.",
+        "examplePt": "Eles passeiam ao redor da cidadela.",
+        "practiceQuestion": "Complete: 'Ils _____ autour de la citadelle.'",
+        "options": ["se promènent", "se promène", "promènent"],
         "correctIndex": 0
       }
     ]
   },
   "quizQuestions": [
     {
-      "question": "Que forma tem a Citadelle de Vauban?",
-      "options": ["uma estrela", "um círculo", "um quadrado"],
+      "question": "O que os remparts formam?",
+      "options": ["uma estrela", "um círculo", "uma cruz"],
       "correctIndex": 0,
-      "explanation": "A Citadelle de Vauban tem a forma de uma estrela."
+      "explanation": "Les remparts forment une étoile de pierre."
     },
     {
-      "question": "Quem construiu a fortaleza no século XVII?",
-      "options": ["Vauban", "Napoléon", "Jules Verne"],
+      "question": "Quem construía forteresses pela França?",
+      "options": ["Vauban", "Jules Verne", "De Gaulle"],
       "correctIndex": 0,
-      "explanation": "Vauban, o famoso engenheiro militar, construiu a fortaleza."
+      "explanation": "Vauban construisait des forteresses."
     },
     {
-      "question": "Complete com o marcador: « ___, nous avons trouvé une pelouse. »",
-      "options": ["Ensuite", "Hier soir", "Demain"],
+      "question": "O que Irlan e Andréa vão ver amanhã?",
+      "options": ["os arquivos do porto", "o zoológico", "o circo"],
       "correctIndex": 0,
-      "explanation": "'Ensuite' (depois) introduz a ação seguinte na sequência."
+      "explanation": "Nous allons voir les archives du port."
     },
     {
-      "question": "O que Irlan lembrou no parque?",
-      "options": ["os domingos em Paris como entregador de scooter", "sua infância no Brasil", "uma viagem à Ásia"],
+      "question": "Complete: 'Demain, nous _____ voir les archives.'",
+      "options": ["allons", "allons à", "allé"],
       "correctIndex": 0,
-      "explanation": "Irlan lembrou dos domingos em Paris, quando era livreur de scooter."
+      "explanation": "aller + infinitif (futuro próximo)."
     },
     {
-      "question": "Onde a família fez o piquenique?",
-      "options": ["au bord de la Deûle", "sur la Grand-Place", "dans le musée"],
+      "question": "Complete: '_____ allons-nous chercher ?'",
+      "options": ["Que", "Qui", "Où"],
       "correctIndex": 0,
-      "explanation": "Eles fizeram piquenique às margens do rio Deûle."
+      "explanation": "Que allons-nous chercher = o que vamos procurar."
     }
   ]
 }

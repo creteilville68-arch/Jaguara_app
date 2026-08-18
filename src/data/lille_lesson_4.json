@@ -1,252 +1,292 @@
 {
   "id": "lille_lesson_4",
   "cityId": "lille",
-  "domain": "Arte e Cultura",
+  "domain": "Arte & Cultura",
   "level": "Básico (A2)",
   "titleFr": "Le Palais des Beaux-Arts : une matinée au musée",
   "titlePt": "O Palais des Beaux-Arts: uma manhã no museu",
-  "subtitleFr": "Peintures flamandes, sculptures et le plus grand musée de France après le Louvre",
-  "subtitlePt": "Pinturas flamengas, esculturas e o maior museu da França depois do Louvre",
-  "summaryPt": "Nesta Aula 4 (A2), a família visita o Palais des Beaux-Arts, o maior museu de arte da França depois do Louvre. Eles admiram as pinturas flamengas e as esculturas, e Íris descobre a sala das cerâmicas. O aluno pratica o Passé Composé negativo (je n'ai pas vu, nous n'avons pas compris) e os pronomes de objeto direto (je l'ai adorée).",
+  "subtitleFr": "Un tableau du port et un détail qui intrigue",
+  "subtitlePt": "Um quadro do porto e um detalhe que intriga",
+  "summaryPt": "Na Aula 4 de Lille (A2), Irlan e Andréa visitam o Palais des Beaux-Arts e encontram um quadro do antigo porto. O aluno pratica o vocabulário do museu e o verbo 'regarder'.",
   "paragraphs": [
     {
       "id": 1,
-      "fr": "Le Palais des Beaux-Arts est le plus grand musée de France après le Louvre. Nous avons acheté les billets et nous sommes entrés dans la grande salle.",
-      "pt": "O Palais des Beaux-Arts é o maior museu da França depois do Louvre. Compramos os ingressos e entramos na grande sala."
+      "fr": "Le lundi matin, Irlan et Andréa entrent au Palais des Beaux-Arts.",
+      "pt": "Na segunda de manhã, Irlan e Andréa entram no Palais des Beaux-Arts."
     },
     {
       "id": 2,
-      "fr": "J'ai adoré les peintures flamandes du XVIIe siècle. Andréa a expliqué les tableaux à Íris, qui a posé beaucoup de questions.",
-      "pt": "Eu adorei as pinturas flamengas do século XVII. Andréa explicou os quadros para Íris, que fez muitas perguntas."
+      "fr": "Le musée est immense et silencieux, rempli de tableaux et de sculptures.",
+      "pt": "O museu é imenso e silencioso, cheio de quadros e esculturas."
     },
     {
       "id": 3,
-      "fr": "Dans la salle des sculptures, je n'ai pas vu la statue de Rubens tout de suite. Le guide a dit : « Elle est juste là ! »",
-      "pt": "Na sala das esculturas, eu não vi a estátua de Rubens de imediato. O guia disse: « Ela está bem ali! »"
+      "fr": "Andréa s'arrête devant une grande toile sombre.",
+      "pt": "Andréa para diante de uma grande tela escura."
     },
     {
       "id": 4,
-      "fr": "Nous n'avons pas visité toutes les salles, mais nous avons découvert les céramiques anciennes. Íris a pris des notes dans son carnet.",
-      "pt": "Não visitamos todas as salas, mas descobrimos as cerâmicas antigas. Íris anotou no seu caderno."
+      "fr": "« Regarde, c'est le vieux port de Lille, avec ses bateaux et ses quais. »",
+      "pt": "« Olha, é o velho porto de Lille, com seus barcos e seus cais. »"
+    },
+    {
+      "id": 5,
+      "fr": "Sur la toile, des hommes déchargent des caisses et des tonneaux.",
+      "pt": "Na tela, homens descarregam caixas e barris."
+    },
+    {
+      "id": 6,
+      "fr": "« Le commerce passait par ici », dit Irlan, fasciné.",
+      "pt": "« O comércio passava por aqui », diz Irlan, fascinado."
+    },
+    {
+      "id": 7,
+      "fr": "Andréa plisse les yeux. « Regarde ce petit drapeau, sur le mât. »",
+      "pt": "Andréa aperta os olhos. « Olha essa pequena bandeira, no mastro. »"
+    },
+    {
+      "id": 8,
+      "fr": "« On dirait une fleur de lys brodée », murmure Irlan.",
+      "pt": "« Parece uma flor-de-lis bordada », murmura Irlan."
+    },
+    {
+      "id": 9,
+      "fr": "« Encore elle. La fleur de lys nous suit », dit Andréa.",
+      "pt": "« De novo ela. A flor-de-lis nos segue », diz Andréa."
+    },
+    {
+      "id": 10,
+      "fr": "Un gardien passe lentement, puis s'arrête près d'eux.",
+      "pt": "Um vigia passa devagar e depois para perto deles."
+    },
+    {
+      "id": 11,
+      "fr": "« Vous intéressez-vous au port ? Les archives municipales ont des plans anciens. »",
+      "pt": "« Vocês se interessam pelo porto? Os arquivos municipais têm plantas antigas. »"
+    },
+    {
+      "id": 12,
+      "fr": "Irlan remercie. « Nous cherchons une trace. Merci de nous montrer le chemin. »",
+      "pt": "Irlan agradece. « Procuramos um rastro. Obrigado por nos mostrar o caminho. »"
     }
   ],
   "vocabularyDictionary": [
     {
       "term": "le musée",
       "definitionPt": "o museu",
-      "definitionFr": "Lieu où l'on expose des œuvres d'art ou des objets.",
-      "inflections": ["le musée", "les musées"],
+      "definitionFr": "Lieu où l'on expose des œuvres.",
+      "inflections": ["le musée", "un musée", "des musées"],
       "ptTargets": ["museu"],
       "examples": [
-        { "level": "A1", "fr": "Le musée est ouvert.", "pt": "O museu está aberto." },
-        { "level": "A2-B1", "fr": "Le Palais des Beaux-Arts est un grand musée.", "pt": "O Palais des Beaux-Arts é um grande museu." },
-        { "level": "B2", "fr": "Ce musée possède l'une des plus belles collections d'Europe.", "pt": "Este museu possui uma das mais belas coleções da Europa." },
-        { "level": "C1-C2", "fr": "La muséographie moderne transforme la visite en une véritable expérience sensorielle.", "pt": "A museografia moderna transforma a visita em uma verdadeira experiência sensorial." }
-      ]
-    },
-    {
-      "term": "la peinture",
-      "definitionPt": "a pintura",
-      "definitionFr": "Œuvre d'art réalisée avec des couleurs.",
-      "inflections": ["la peinture", "les peintures"],
-      "ptTargets": ["pintura"],
-      "examples": [
-        { "level": "A1", "fr": "La peinture est belle.", "pt": "A pintura é bonita." },
-        { "level": "A2-B1", "fr": "J'ai adoré les peintures flamandes.", "pt": "Eu adorei as pinturas flamengas." },
-        { "level": "B2", "fr": "Les peintures du XVIIe siècle montrent la richesse des marchands flamands.", "pt": "As pinturas do século XVII mostram a riqueza dos mercadores flamengos." },
-        { "level": "C1-C2", "fr": "La peinture flamande illustre la puissance économique et culturelle des Provinces-Unies.", "pt": "A pintura flamenga ilustra o poder econômico e cultural das Províncias Unidas." }
-      ]
-    },
-    {
-      "term": "la sculpture",
-      "definitionPt": "a escultura",
-      "definitionFr": "Œuvre d'art en trois dimensions.",
-      "inflections": ["la sculpture", "les sculptures"],
-      "ptTargets": ["escultura"],
-      "examples": [
-        { "level": "A1", "fr": "La sculpture est grande.", "pt": "A escultura é grande." },
-        { "level": "A2-B1", "fr": "Nous avons vu des sculptures anciennes.", "pt": "Nós vimos esculturas antigas." },
-        { "level": "B2", "fr": "La salle des sculptures rassemble des œuvres du Moyen Âge à nos jours.", "pt": "A sala das esculturas reúne obras da Idade Média até hoje." },
-        { "level": "C1-C2", "fr": "La sculpture baroque exprime avec intensité le mouvement et l'émotion.", "pt": "A escultura barroca expressa com intensidade o movimento e a emoção." }
+        { "level": "A1", "fr": "Le musée est grand.", "pt": "O museu é grande." },
+        { "level": "A2-B1", "fr": "Ils entrent au Palais des Beaux-Arts.", "pt": "Eles entram no Palais des Beaux-Arts." },
+        { "level": "B2", "fr": "Le musée conserve des tableaux et des sculptures remarquables.", "pt": "O museu conserva quadros e esculturas notáveis." },
+        { "level": "C1-C2", "fr": "C'est le musée qui, en exposant les œuvres, garde vivante la mémoire d'une ville.", "pt": "É o museu que, ao expor as obras, mantém viva a memória de uma cidade." }
       ]
     },
     {
       "term": "le tableau",
       "definitionPt": "o quadro",
-      "definitionFr": "Peinture exposée, souvent dans un cadre.",
-      "inflections": ["le tableau", "les tableaux"],
-      "ptTargets": ["quadro"],
+      "definitionFr": "Peinture sur une toile.",
+      "inflections": ["le tableau", "un tableau", "des tableaux"],
+      "ptTargets": ["quadro", "pintura"],
       "examples": [
-        { "level": "A1", "fr": "Le tableau est sur le mur.", "pt": "O quadro está na parede." },
-        { "level": "A2-B1", "fr": "Andréa a expliqué les tableaux à Íris.", "pt": "Andréa explicou os quadros para Íris." },
-        { "level": "B2", "fr": "Ce tableau de Rubens est l'une des pièces maîtresses du musée.", "pt": "Este quadro de Rubens é uma das peças principais do museu." },
-        { "level": "C1-C2", "fr": "L'analyse d'un tableau flamand révèle des détails symboliques fascinants.", "pt": "A análise de um quadro flamengo revela detalhes simbólicos fascinantes." }
+        { "level": "A1", "fr": "Le tableau est beau.", "pt": "O quadro é bonito." },
+        { "level": "A2-B1", "fr": "Andréa s'arrête devant un grand tableau.", "pt": "Andréa para diante de um grande quadro." },
+        { "level": "B2", "fr": "Le tableau représente le vieux port de Lille.", "pt": "O quadro representa o velho porto de Lille." },
+        { "level": "C1-C2", "fr": "C'est le tableau qui, figé, garde vivant le geste des hommes du port.", "pt": "É o quadro que, imóvel, mantém vivo o gesto dos homens do porto." }
       ]
     },
     {
-      "term": "l'artiste",
-      "definitionPt": "o artista",
-      "definitionFr": "Personne qui crée des œuvres d'art.",
-      "inflections": ["l'artiste", "les artistes"],
-      "ptTargets": ["artista"],
+      "term": "la toile",
+      "definitionPt": "a tela",
+      "definitionFr": "Support d'une peinture.",
+      "inflections": ["la toile", "une toile", "des toiles"],
+      "ptTargets": ["tela"],
       "examples": [
-        { "level": "A1", "fr": "L'artiste peint.", "pt": "O artista pinta." },
-        { "level": "A2-B1", "fr": "Rubens est un artiste flamand célèbre.", "pt": "Rubens é um artista flamengo famoso." },
-        { "level": "B2", "fr": "Les artistes du Nord ont marqué l'histoire de la peinture européenne.", "pt": "Os artistas do Norte marcaram a história da pintura europeia." },
-        { "level": "C1-C2", "fr": "L'artiste s'inscrit dans un réseau de commanditaires et de marchands qui façonnent sa carrière.", "pt": "O artista se insere em uma rede de encomendantes e mercadores que moldam sua carreira." }
+        { "level": "A1", "fr": "La toile est grande.", "pt": "A tela é grande." },
+        { "level": "A2-B1", "fr": "Andréa regarde une grande toile sombre.", "pt": "Andréa olha uma grande tela escura." },
+        { "level": "B2", "fr": "La toile représente des hommes au travail sur les quais.", "pt": "A tela representa homens trabalhando nos cais." },
+        { "level": "C1-C2", "fr": "C'est la toile qui, traversée par la lumière, rend immortel un instant ordinaire.", "pt": "É a tela que, atravessada pela luz, torna imortal um instante comum." }
       ]
     },
     {
-      "term": "admirer",
-      "definitionPt": "admirar",
-      "definitionFr": "Regarder avec plaisir et respect.",
-      "inflections": ["j'admire", "nous admirons", "admiré"],
-      "ptTargets": ["admirar"],
+      "term": "le quai",
+      "definitionPt": "o cais",
+      "definitionFr": "Bord où accostent les bateaux.",
+      "inflections": ["le quai", "un quai", "des quais"],
+      "ptTargets": ["cais", "plataforma"],
       "examples": [
-        { "level": "A1", "fr": "J'admire le paysage.", "pt": "Eu admiro a paisagem." },
-        { "level": "A2-B1", "fr": "Nous avons admiré les peintures pendant une heure.", "pt": "Nós admiramos as pinturas durante uma hora." },
-        { "level": "B2", "fr": "Les visiteurs admirent la richesse des collections permanentes.", "pt": "Os visitantes admiram a riqueza das coleções permanentes." },
-        { "level": "C1-C2", "fr": "Admirer une œuvre, c'est entrer en dialogue silencieux avec son créateur.", "pt": "Admirar uma obra é entrar em diálogo silencioso com seu criador." }
+        { "level": "A1", "fr": "Le quai est long.", "pt": "O cais é comprido." },
+        { "level": "A2-B1", "fr": "Le tableau montre le port et ses quais.", "pt": "O quadro mostra o porto e seus cais." },
+        { "level": "B2", "fr": "Les quais du port résonnaient autrefois du bruit des marchandises.", "pt": "Os cais do porto outrora ressoavam com o barulho das mercadorias." },
+        { "level": "C1-C2", "fr": "C'est le quai qui, frontière entre la terre et l'eau, a vu tant de départs et d'arrivées.", "pt": "É o cais que, fronteira entre a terra e a água, viu tantas partidas e chegadas." }
       ]
     },
     {
-      "term": "expliquer",
-      "definitionPt": "explicar",
-      "definitionFr": "Rendre clair, faire comprendre.",
-      "inflections": ["j'explique", "nous expliquons", "expliqué"],
-      "ptTargets": ["explicar"],
+      "term": "le drapeau",
+      "definitionPt": "a bandeira",
+      "definitionFr": "Pièce de tissu symbolique.",
+      "inflections": ["le drapeau", "un drapeau", "des drapeaux"],
+      "ptTargets": ["bandeira"],
       "examples": [
-        { "level": "A1", "fr": "J'explique le jeu.", "pt": "Eu explico o jogo." },
-        { "level": "A2-B1", "fr": "Andréa a expliqué le tableau à Íris.", "pt": "Andréa explicou o quadro para Íris." },
-        { "level": "B2", "fr": "Le guide a expliqué l'histoire de chaque sculpture.", "pt": "O guia explicou a história de cada escultura." },
-        { "level": "C1-C2", "fr": "Expliquer une œuvre d'art demande une connaissance fine du contexte historique.", "pt": "Explicar uma obra de arte exige um conhecimento refinado do contexto histórico." }
+        { "level": "A1", "fr": "Le drapeau flotte.", "pt": "A bandeira tremula." },
+        { "level": "A2-B1", "fr": "Un petit drapeau est peint sur le mât.", "pt": "Uma pequena bandeira está pintada no mastro." },
+        { "level": "B2", "fr": "Le drapeau du bateau porte un symbole à peine visible.", "pt": "A bandeira do barco traz um símbolo quase invisível." },
+        { "level": "C1-C2", "fr": "C'est le drapeau qui, hissé sur le mât, identifie le navire et son origine.", "pt": "É a bandeira que, hasteada no mastro, identifica o navio e sua origem." }
       ]
     },
     {
-      "term": "découvrir",
-      "definitionPt": "descobrir",
-      "definitionFr": "Trouver quelque chose de nouveau.",
-      "inflections": ["je découvre", "nous découvrons", "découvert"],
-      "ptTargets": ["descobrir"],
+      "term": "le mât",
+      "definitionPt": "o mastro",
+      "definitionFr": "Grande perche d'un bateau.",
+      "inflections": ["le mât", "un mât", "des mâts"],
+      "ptTargets": ["mastro"],
       "examples": [
-        { "level": "A1", "fr": "Je découvre la ville.", "pt": "Eu descubro a cidade." },
-        { "level": "A2-B1", "fr": "Nous avons découvert les céramiques anciennes.", "pt": "Nós descobrimos as cerâmicas antigas." },
-        { "level": "B2", "fr": "Le musée permet de découvrir des artistes moins connus.", "pt": "O museu permite descobrir artistas menos conhecidos." },
-        { "level": "C1-C2", "fr": "Découvrir un chef-d'œuvre inattendu transforme profondément notre regard sur l'art.", "pt": "Descobrir uma obra-prima inesperada transforma profundamente nosso olhar sobre a arte." }
+        { "level": "A1", "fr": "Le mât est haut.", "pt": "O mastro é alto." },
+        { "level": "A2-B1", "fr": "Un drapeau est hissé sur le mât.", "pt": "Uma bandeira está hasteada no mastro." },
+        { "level": "B2", "fr": "Le mât du navire domine les quais du port.", "pt": "O mastro do navio domina os cais do porto." },
+        { "level": "C1-C2", "fr": "C'est le mât qui, pointé vers le ciel, relie le navire aux vents et aux étoiles.", "pt": "É o mastro que, apontado para o céu, liga o navio aos ventos e às estrelas." }
       ]
     },
     {
-      "term": "le guide",
-      "definitionPt": "o guia",
-      "definitionFr": "Personne qui fait visiter et explique.",
-      "inflections": ["le guide", "la guide", "les guides"],
-      "ptTargets": ["guia"],
+      "term": "la caisse",
+      "definitionPt": "a caixa",
+      "definitionFr": "Conteneur en bois.",
+      "inflections": ["la caisse", "une caisse", "des caisses"],
+      "ptTargets": ["caixa"],
       "examples": [
-        { "level": "A1", "fr": "Le guide parle français.", "pt": "O guia fala francês." },
-        { "level": "A2-B1", "fr": "Le guide a montré la statue de Rubens.", "pt": "O guia mostrou a estátua de Rubens." },
-        { "level": "B2", "fr": "Un bon guide rend la visite vivante et instructive.", "pt": "Um bom guia torna a visita viva e instrutiva." },
-        { "level": "C1-C2", "fr": "Le guide conférencier adapte son discours au public pour éveiller sa curiosité.", "pt": "O guia-conferencista adapta seu discurso ao público para despertar sua curiosidade." }
+        { "level": "A1", "fr": "La caisse est lourde.", "pt": "A caixa é pesada." },
+        { "level": "A2-B1", "fr": "Les hommes déchargent des caisses.", "pt": "Os homens descarregam caixas." },
+        { "level": "B2", "fr": "Les caisses empilées attendent d'être embarquées.", "pt": "As caixas empilhadas esperam para ser embarcadas." },
+        { "level": "C1-C2", "fr": "C'est la caisse qui, fermée, contient parfois plus de rêves que de marchandises.", "pt": "É a caixa que, fechada, às vezes contém mais sonhos do que mercadorias." }
       ]
     },
     {
-      "term": "la salle",
-      "definitionPt": "a sala",
-      "definitionFr": "Grande pièce, espace d'exposition.",
-      "inflections": ["la salle", "les salles"],
-      "ptTargets": ["sala"],
+      "term": "le gardien",
+      "definitionPt": "o vigia",
+      "definitionFr": "Personne qui surveille un lieu.",
+      "inflections": ["le gardien", "un gardien", "des gardiens"],
+      "ptTargets": ["vigia", "guarda"],
       "examples": [
-        { "level": "A1", "fr": "La salle est grande.", "pt": "A sala é grande." },
-        { "level": "A2-B1", "fr": "La salle des sculptures est immense.", "pt": "A sala das esculturas é imensa." },
-        { "level": "B2", "fr": "Chaque salle du musée présente une période différente.", "pt": "Cada sala do museu apresenta um período diferente." },
-        { "level": "C1-C2", "fr": "L'architecture de la salle, avec sa verrière, baigne les œuvres d'une lumière naturelle.", "pt": "A arquitetura da sala, com seu teto de vidro, banha as obras de uma luz natural." }
+        { "level": "A1", "fr": "Le gardien est calme.", "pt": "O vigia é calmo." },
+        { "level": "A2-B1", "fr": "Un gardien passe près d'eux.", "pt": "Um vigia passa perto deles." },
+        { "level": "B2", "fr": "Le gardien connaît chaque salle du musée.", "pt": "O vigia conhece cada sala do museu." },
+        { "level": "C1-C2", "fr": "C'est le gardien qui, discret, observe plus qu'il ne parle.", "pt": "É o vigia que, discreto, observa mais do que fala." }
       ]
     },
     {
-      "term": "ancien",
-      "definitionPt": "antigo",
-      "definitionFr": "Qui existe depuis longtemps, du passé.",
-      "inflections": ["ancien", "ancienne", "anciens"],
-      "ptTargets": ["antigo"],
+      "term": "les archives municipales",
+      "definitionPt": "os arquivos municipais",
+      "definitionFr": "Documents conservés par la ville.",
+      "inflections": ["les archives municipales"],
+      "ptTargets": ["arquivos municipais"],
       "examples": [
-        { "level": "A1", "fr": "C'est un vieux bâtiment ancien.", "pt": "É um edifício antigo." },
-        { "level": "A2-B1", "fr": "Les céramiques anciennes sont très belles.", "pt": "As cerâmicas antigas são muito bonitas." },
-        { "level": "B2", "fr": "Les objets anciens racontent la vie quotidienne d'autrefois.", "pt": "Os objetos antigos contam a vida cotidiana de antigamente." },
-        { "level": "C1-C2", "fr": "La conservation des œuvres anciennes exige des conditions climatiques rigoureuses.", "pt": "A conservação das obras antigas exige condições climáticas rigorosas." }
+        { "level": "A1", "fr": "Les archives municipales sont riches.", "pt": "Os arquivos municipais são ricos." },
+        { "level": "A2-B1", "fr": "Les archives municipales ont des plans anciens.", "pt": "Os arquivos municipais têm plantas antigas." },
+        { "level": "B2", "fr": "Les archives municipales conservent les plans du vieux port.", "pt": "Os arquivos municipais conservam as plantas do velho porto." },
+        { "level": "C1-C2", "fr": "Ce sont les archives municipales qui, pièce après pièce, gardent la mémoire administrative de la ville.", "pt": "São os arquivos municipais que, peça por peça, guardam a memória administrativa da cidade." }
       ]
     },
     {
-      "term": "moderne",
-      "definitionPt": "moderno",
-      "definitionFr": "Qui est récent, actuel.",
-      "inflections": ["moderne", "modernes"],
-      "ptTargets": ["moderno"],
+      "term": "la trace",
+      "definitionPt": "o rastro",
+      "definitionFr": "Marque laissée par le passage.",
+      "inflections": ["la trace", "une trace", "des traces"],
+      "ptTargets": ["rastro", "vestígio"],
       "examples": [
-        { "level": "A1", "fr": "La maison est moderne.", "pt": "A casa é moderna." },
-        { "level": "A2-B1", "fr": "Le musée combine art ancien et art moderne.", "pt": "O museu combina arte antiga e arte moderna." },
-        { "level": "B2", "fr": "La nouvelle aile du musée propose une architecture moderne et lumineuse.", "pt": "A nova ala do museu propõe uma arquitetura moderna e luminosa." },
-        { "level": "C1-C2", "fr": "Le dialogue entre les œuvres anciennes et modernes enrichit l'expérience du visiteur.", "pt": "O diálogo entre as obras antigas e modernas enriquece a experiência do visitante." }
+        { "level": "A1", "fr": "La trace est visible.", "pt": "O rastro é visível." },
+        { "level": "A2-B1", "fr": "Nous cherchons une trace.", "pt": "Procuramos um rastro." },
+        { "level": "B2", "fr": "Une trace discrète peut changer toute l'enquête.", "pt": "Um rastro discreto pode mudar toda a investigação." },
+        { "level": "C1-C2", "fr": "C'est la trace qui, à peine visible, relie le présent à ce qui a disparu.", "pt": "É o rastro que, quase invisível, liga o presente ao que desapareceu." }
+      ]
+    },
+    {
+      "term": "regarder",
+      "definitionPt": "olhar",
+      "definitionFr": "Diriger les yeux vers.",
+      "inflections": ["regarder", "je regarde", "nous regardons"],
+      "ptTargets": ["olhar"],
+      "examples": [
+        { "level": "A1", "fr": "Je regarde le tableau.", "pt": "Eu olho o quadro." },
+        { "level": "A2-B1", "fr": "Andréa regarde une grande toile.", "pt": "Andréa olha uma grande tela." },
+        { "level": "B2", "fr": "Regarder un tableau, c'est entrer dans une autre époque.", "pt": "Olhar um quadro é entrar em outra época." },
+        { "level": "C1-C2", "fr": "C'est en regardant vraiment que l'on remarque le détail qui échappe aux autres.", "pt": "É olhando de verdade que se nota o detalhe que escapa aos outros." }
+      ]
+    },
+    {
+      "term": "fasciné",
+      "definitionPt": "fascinado",
+      "definitionFr": "Très intéressé.",
+      "inflections": ["fasciné", "fascinée", "fascinés"],
+      "ptTargets": ["fascinado"],
+      "examples": [
+        { "level": "A1", "fr": "Il est fasciné.", "pt": "Ele está fascinado." },
+        { "level": "A2-B1", "fr": "Irlan regarde le port, fasciné.", "pt": "Irlan olha o porto, fascinado." },
+        { "level": "B2", "fr": "Fasciné par la toile, il ne voit pas le temps passer.", "pt": "Fascinado pela tela, ele não vê o tempo passar." },
+        { "level": "C1-C2", "fr": "C'est fasciné que l'on reste, immobile, devant ce qui nous dépasse.", "pt": "É fascinado que se fica, imóvel, diante do que nos ultrapassa." }
       ]
     }
   ],
   "grammarTip": {
-    "ruleTitle": "Le Passé Composé négatif (je n'ai pas vu, nous n'avons pas visité)",
-    "explanationPt": "Na forma negativa do Passé Composé, ne... pas envolve o auxiliar: 'je n'ai pas vu', 'nous n'avons pas visité'. Com être: 'elle n'est pas allée'.",
-    "exampleFr": "Nous n'avons pas visité toutes les salles.",
-    "examplePt": "Nós não visitamos todas as salas.",
-    "practiceQuestion": "Complete: « Je ___ pas vu la statue. »",
-    "options": ["n'ai", "ne suis", "n'as"],
+    "ruleTitle": "Le verbe regarder",
+    "explanationPt": "Olhar: je regarde, tu regardes, il regarde, nous regardons. 'Regarde !' (Olha!) no imperativo.",
+    "exampleFr": "Regarde le tableau du port.",
+    "examplePt": "Olha o quadro do porto.",
+    "practiceQuestion": "Complete: '_____ le drapeau sur le mât.'",
+    "options": ["Regarde", "Regardes", "Regardons"],
     "correctIndex": 0,
     "points": [
       {
-        "ruleTitle": "La négation avec le Passé Composé",
-        "explanationPt": "Estrutura: ne + auxiliar + pas + particípio. Ex.: 'Je n'ai pas vu', 'Nous ne sommes pas restés'.",
-        "exampleFr": "Je n'ai pas compris la question du guide.",
-        "examplePt": "Eu não entendi a pergunta do guia.",
-        "practiceQuestion": "Qual frase negativa está correta?",
-        "options": ["Nous n'avons pas compris.", "Nous n'avons ne pas compris.", "Nous ne pas avons compris."],
+        "ruleTitle": "S'intéresser à",
+        "explanationPt": "'S'intéresser à' = interessar-se por. 'Vous vous intéressez au port ?' (Vocês se interessam pelo porto?).",
+        "exampleFr": "Vous vous intéressez au port ?",
+        "examplePt": "Vocês se interessam pelo porto?",
+        "practiceQuestion": "Complete: 'Vous vous _____ au port ?'",
+        "options": ["intéressez", "intéresse", "intéressent"],
         "correctIndex": 0
       },
       {
-        "ruleTitle": "Les pronoms COD : je l'ai adorée",
-        "explanationPt": "Para evitar repetir o objeto, usamos le/la/les antes do auxiliar: 'J'ai adoré la peinture' → 'Je l'ai adorée'.",
-        "exampleFr": "La sculpture ? Je l'ai photographiée.",
-        "examplePt": "A escultura? Eu a fotografei.",
-        "practiceQuestion": "Substitua o objeto: « J'ai vu la statue. »",
-        "options": ["Je l'ai vue.", "Je l'ai vu.", "Je la ai vue."],
+        "ruleTitle": "On dirait une fleur",
+        "explanationPt": "'On dirait' = parece. 'On dirait une fleur de lys' (Parece uma flor-de-lis).",
+        "exampleFr": "On dirait une fleur de lys brodée.",
+        "examplePt": "Parece uma flor-de-lis bordada.",
+        "practiceQuestion": "Complete: '_____ une fleur de lys.'",
+        "options": ["On dirait", "On dit", "Il dirait"],
         "correctIndex": 0
       }
     ]
   },
   "quizQuestions": [
     {
-      "question": "Qual é o posto do Palais des Beaux-Arts entre os museus da França?",
-      "options": ["o segundo maior, depois do Louvre", "o terceiro maior", "o menor da região"],
+      "question": "O que o quadro representa?",
+      "options": ["o velho porto de Lille", "uma catedral", "uma praça"],
       "correctIndex": 0,
-      "explanation": "É o maior museu da França depois do Louvre."
+      "explanation": "C'est le vieux port de Lille."
     },
     {
-      "question": "Que pinturas Irlan adorou no museu?",
-      "options": ["as pinturas flamengas do século XVII", "as pinturas modernas", "as aquarelas"],
+      "question": "O que Andréa percebe no mastro?",
+      "options": ["uma flor-de-lis bordada", "um número", "uma estrela"],
       "correctIndex": 0,
-      "explanation": "Irlan adorou as pinturas flamengas do século XVII."
+      "explanation": "On dirait une fleur de lys brodée."
     },
     {
-      "question": "Complete com a forma negativa: « Nous ___ pas visité toutes les salles. »",
-      "options": ["n'avons", "ne sommes", "n'avoir"],
+      "question": "O que o vigia sugere?",
+      "options": ["os arquivos municipais", "o mercado", "a estação"],
       "correctIndex": 0,
-      "explanation": "Negação: ne + avons + pas → nous n'avons pas visité."
+      "explanation": "Les archives municipales ont des plans anciens."
     },
     {
-      "question": "O que Íris fez durante a visita?",
-      "options": ["tomou notas no caderno", "dormiu", "comprou um quadro"],
+      "question": "Complete: '_____ le drapeau sur le mât.'",
+      "options": ["Regarde", "Regardes", "Regardons"],
       "correctIndex": 0,
-      "explanation": "Íris anotou no seu caderno."
+      "explanation": "Regarde (imperativo)."
     },
     {
-      "question": "Qual artista é citado na aula?",
-      "options": ["Rubens", "Monet", "Picasso"],
+      "question": "Complete: '_____ une fleur de lys.'",
+      "options": ["On dirait", "On dit", "Il dirait"],
       "correctIndex": 0,
-      "explanation": "O guia mostrou a estátua de Rubens."
+      "explanation": "On dirait = parece."
     }
   ]
 }
