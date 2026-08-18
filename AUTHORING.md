@@ -148,7 +148,8 @@ Use os comandos do `package.json` (ou rode diretamente com `bun run`):
 bun run plan       # recalcula a distribuição por cidade (city_words_to_write.json)
 bun run worklists  # regenera scripts/worklists/*.md a partir do plano
 bun run coverage   # mede quantas palavras do banco já aparecem nos textos
-bun run audit      # valida traduções + os 4 exemplos de todas as aulas
+bun run audit      # valida traduções + os 4 exemplos das palavras douradas
+bun run audit:clickable  # valida os 4 exemplos de TODAS as palavras destacadas (douradas + pontilhadas)
 bun run lint       # typecheck (tsc --noEmit)
 ```
 
@@ -175,6 +176,29 @@ francês realmente é falado. Se a palavra do worklist estiver no texto em
 qualquer forma flexionada, ela conta. Depois de cada remessa, rode
 `bun run coverage` para confirmar; se uma palavra continuar faltando,
 confira se ela aparece mesmo no texto (e não só na tradução pt).
+
+### Os 4 exemplos em TODAS as palavras destacadas (douradas + pontilhadas)
+
+Toda palavra clicável deve abrir o modal com **exatamente 4 exemplos
+progressivos bem elaborados** (A1 → A2-B1 → B2 → C1-C2), frases reais do
+dia a dia — nunca meta-linguagem nem frases sem sentido.
+
+- **Douradas** (`vocabularyDictionary` da aula): os 4 exemplos ficam no
+  próprio JSON da aula.
+- **Pontilhadas** (palavras do banco CEFR que aparecem no texto): os 4
+  exemplos ficam no dicionário mestre `src/data/masterExamplesDictionary.ts`,
+  preenchido **cidade por cidade** conforme cada cidade é finalizada.
+
+Ao terminar uma cidade, rode:
+
+```bash
+bun run audit:clickable <cidade>
+```
+
+Ele reproduz exatamente a resolução do app (parse + lookup + exemplos) e
+lista toda palavra destacada daquela cidade que ainda está sem os 4
+exemplos. A cidade só está pronta quando esse comando sair com zero
+palavras em falta.
 
 ## 7. Convenção de nomenclatura
 

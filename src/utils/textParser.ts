@@ -1,6 +1,7 @@
 import { getStaticLessonEntry, normalizeForSearch } from '../data/lessonDictionary';
 import { COMMON_EXPRESSIONS } from '../data/commonExpressionsDictionary';
 import { lookupWordBankEntry, formatBankLevel } from '../data/wordBankLookup';
+import { MASTER_EXAMPLES } from '../data/masterExamplesDictionary';
 
 export interface DictionaryEntry {
   term?: string;
@@ -96,6 +97,30 @@ export function generatePracticalExamplesForWord(word: string, ptDefinition?: st
 }> {
   const clean = word.trim();
   const lower = clean.toLowerCase();
+
+  // 0.5 Master curated examples (offline, preenchido cidade por cidade).
+  // Prioridade máxima: se o autor já curou os 4 exemplos desta palavra no
+  // dicionário mestre, usa-os antes de qualquer fallback gerado.
+  const foldForMaster = (s: string): string =>
+    s
+      .toLowerCase()
+      .normalize('NFD')
+      .replace(/[\u0300-\u036f]/g, '')
+      .replace(/[’ʼ‘]/g, "'")
+      .trim();
+  const masterKeys = [
+    foldForMaster(lower),
+    foldForMaster(lower.replace(/s$/, '')),
+    foldForMaster(lower.replace(/es$/, '')),
+    foldForMaster(lower.replace(/ée?s$/, 'é')),
+    foldForMaster(lower.replace(/euse$/, 'eux')),
+  ];
+  for (const mk of masterKeys) {
+    const masterCurated = MASTER_EXAMPLES[mk];
+    if (masterCurated && masterCurated.length === 4) {
+      return masterCurated;
+    }
+  }
 
   // 0. Curated practical examples for high-frequency vocabulary items
   const SPECIFIC_WORD_EXAMPLES: Record<string, Array<{ level: string; fr: string; pt: string }>> = {
