@@ -1,252 +1,292 @@
 {
   "id": "lille_lesson_17",
   "cityId": "lille",
-  "domain": "Gastronomia",
+  "domain": "Gastronomia & Comércio",
   "level": "Básico (A2)",
-  "titleFr": "Méert : la chocolaterie de la rue Esquermoise",
-  "titlePt": "Méert: a chocolateria da rue Esquermoise",
-  "subtitleFr": "Depuis 1761, des gaufres fourrées à la vanille de Madagascar",
-  "subtitlePt": "Desde 1761, waffles recheados com baunilha de Madagascar",
-  "summaryPt": "Nesta Aula 17 (A2), a família descobre a Méert, a famosa chocolateria da rue Esquermoise fundada em 1761. Irlan, ex-livreur, nunca havia entrado — hoje prova as gaufres fourrées à la vanille de Madagascar. O aluno pratica o imperativo (goutez, prenez, regardez), os partitivos e o vocabulário da confeitaria.",
+  "titleFr": "La chocolaterie du Vieux-Lille",
+  "titlePt": "A chocolateria do Vieux-Lille",
+  "subtitleFr": "Un chocolat chaud et une information précieuse",
+  "subtitlePt": "Um chocolate quente e uma informação preciosa",
+  "summaryPt": "Na Aula 17 de Lille (A2), Irlan e Andréa entram numa chocolateria do bairro e recebem uma informação sobre os arquivos. O aluno pratica o vocabulário do chocolate e o verbo 'goûter'.",
   "paragraphs": [
     {
       "id": 1,
-      "fr": "La boutique Méert est ouverte depuis 1761. « Regardez ces vitrines, c'est incroyable ! » a dit Íris. Les gâteaux brillaient sous les lumières dorées.",
-      "pt": "A loja Méert está aberta desde 1761. « Olhem essas vitrines, é inacreditável! » disse Íris. Os bolos brilhavam sob as luzes douradas."
+      "fr": "Pour se réchauffer, Irlan et Andréa entrent dans une chocolaterie du Vieux-Lille.",
+      "pt": "Para se aquecer, Irlan e Andréa entram numa chocolateria do Vieux-Lille."
     },
     {
       "id": 2,
-      "fr": "Le vendeur a souri : « Goutez une gaufre fourrée à la vanille de Madagascar. Prenez votre temps. » Andréa a fermé les yeux : « C'est un délice. »",
-      "pt": "O vendedor sorriu: « Provem um waffle recheado com baunilha de Madagascar. Levem seu tempo. » Andréa fechou os olhos: « É uma delícia. »"
+      "fr": "L'air sent le chocolat chaud et la vanille.",
+      "pt": "O ar cheira a chocolate quente e baunilha."
     },
     {
       "id": 3,
-      "fr": "Irlan a regardé le comptoir en marbre. « Pendant des mois, je suis passé devant cette porte avec ma scooter. Je n'ai jamais osé entrer. Aujourd'hui, je goûte. »",
-      "pt": "Irlan olhou o balcão de mármore. « Durante meses, passei diante desta porta com minha scooter. Nunca ousei entrar. Hoje, provo. »"
+      "fr": "Ils commandent deux tasses de chocolat chaud.",
+      "pt": "Eles pedem duas xícaras de chocolate quente."
     },
     {
       "id": 4,
-      "fr": "Ils ont acheté une boîte de gaufres pour la famille au Brésil. « Envoyez-la avec un peu de notre amour », a murmuré Andréa en souriant.",
-      "pt": "Eles compraram uma caixa de waffles para a família no Brasil. « Enviem-na com um pouco do nosso amor », murmurou Andréa sorrindo."
+      "fr": "La chocolatière sourit en les servant.",
+      "pt": "A chocolateira sorri ao servi-los."
+    },
+    {
+      "id": 5,
+      "fr": "« Vous êtes les voyageurs qui cherchent les archives du port ? »",
+      "pt": "« Vocês são os viajantes que procuram os arquivos do porto? »"
+    },
+    {
+      "id": 6,
+      "fr": "Irlan hoche la tête. « Vous savez quelque chose ? »",
+      "pt": "Irlan balança a cabeça. « Você sabe de alguma coisa? »"
+    },
+    {
+      "id": 7,
+      "fr": "« Un homme est venu hier, dit-elle. Il a posé les mêmes questions. »",
+      "pt": "« Um homem veio ontem, diz ela. Ele fez as mesmas perguntas. »"
+    },
+    {
+      "id": 8,
+      "fr": "« Un manteau gris ? » demande Andréa.",
+      "pt": "« Um sobretudo cinza? » pergunta Andréa."
+    },
+    {
+      "id": 9,
+      "fr": "« Oui, répond la chocolatière. Il a demandé si quelqu'un avait consulté le registre de 1904. »",
+      "pt": "« Sim, responde a chocolateira. Ele perguntou se alguém tinha consultado o registro de 1904. »"
+    },
+    {
+      "id": 10,
+      "fr": "Irlan et Andréa échangent un regard.",
+      "pt": "Irlan e Andréa trocam um olhar."
+    },
+    {
+      "id": 11,
+      "fr": "« Alors nous ne sommes pas les seuls à chercher cette année », murmure Irlan.",
+      "pt": "« Então não somos os únicos a procurar esse ano », murmura Irlan."
+    },
+    {
+      "id": 12,
+      "fr": "Andréa remercie. « Demain, nous serons les premiers aux archives. »",
+      "pt": "Andréa agradece. « Amanhã, seremos os primeiros nos arquivos. »"
     }
   ],
   "vocabularyDictionary": [
     {
       "term": "la chocolaterie",
       "definitionPt": "a chocolateria",
-      "definitionFr": "Boutique où l'on vend du chocolat.",
+      "definitionFr": "Boutique qui vend du chocolat.",
       "inflections": ["la chocolaterie", "une chocolaterie", "des chocolateries"],
       "ptTargets": ["chocolateria"],
       "examples": [
-        { "level": "A1", "fr": "La chocolaterie sent bon.", "pt": "A chocolateria cheira bem." },
-        { "level": "A2-B1", "fr": "Méert est une chocolaterie de Lille.", "pt": "A Méert é uma chocolateria de Lille." },
-        { "level": "B2", "fr": "La chocolaterie Méert est célèbre depuis 1761.", "pt": "A chocolateria Méert é famosa desde 1761." },
-        { "level": "C1-C2", "fr": "Une chocolaterie de deux siècles et demi est un monument de gourmandise.", "pt": "Uma chocolateria de dois séculos e meio é um monumento da gula." }
+        { "level": "A1", "fr": "La chocolaterie est ouverte.", "pt": "A chocolateria está aberta." },
+        { "level": "A2-B1", "fr": "Ils entrent dans une chocolaterie du quartier.", "pt": "Eles entram numa chocolateria do bairro." },
+        { "level": "B2", "fr": "La chocolaterie embaume toute la rue.", "pt": "A chocolateria perfuma toda a rua." },
+        { "level": "C1-C2", "fr": "C'est la chocolaterie qui, dès le matin, embaume le quartier de sucre et de vanille.", "pt": "É a chocolateria que, desde cedo, perfuma o bairro de açúcar e baunilha." }
       ]
     },
     {
-      "term": "la gaufre",
-      "definitionPt": "o waffle",
-      "definitionFr": "Pâtisserie cuite dans un fer à gaufres.",
-      "inflections": ["la gaufre", "une gaufre", "des gaufres"],
-      "ptTargets": ["waffle"],
+      "term": "le chocolat",
+      "definitionPt": "o chocolate",
+      "definitionFr": "Aliment à base de cacao.",
+      "inflections": ["le chocolat", "un chocolat", "des chocolats"],
+      "ptTargets": ["chocolate"],
       "examples": [
-        { "level": "A1", "fr": "La gaufre est sucrée.", "pt": "O waffle é doce." },
-        { "level": "A2-B1", "fr": "Les gaufres de Méert sont fourrées à la vanille.", "pt": "Os waffles da Méert são recheados com baunilha." },
-        { "level": "B2", "fr": "La gaufre de Méert, chaude et croustillante, est une légende.", "pt": "O waffle da Méert, quente e crocante, é uma lenda." },
-        { "level": "C1-C2", "fr": "Mordre dans une gaufre de Méert, c'est goûter à l'histoire de Lille.", "pt": "Morder um waffle da Méert é provar a história de Lille." }
+        { "level": "A1", "fr": "Le chocolat est bon.", "pt": "O chocolate é bom." },
+        { "level": "A2-B1", "fr": "Ils boivent un chocolat chaud.", "pt": "Eles bebem um chocolate quente." },
+        { "level": "B2", "fr": "Le chocolat chaud réchauffe les après-midi d'hiver.", "pt": "O chocolate quente aquece as tardes de inverno." },
+        { "level": "C1-C2", "fr": "C'est le chocolat qui, fondu et onctueux, réconforte mieux que bien des paroles.", "pt": "É o chocolate que, derretido e cremoso, conforta melhor que muitas palavras." }
       ]
     },
     {
-      "term": "fourré",
-      "definitionPt": "recheado",
-      "definitionFr": "Rempli d'une garniture.",
-      "inflections": ["fourré", "fourrée", "fourrés"],
-      "ptTargets": ["recheado"],
+      "term": "la chocolatière",
+      "definitionPt": "a chocolateira",
+      "definitionFr": "Personne qui fabrique ou vend du chocolat.",
+      "inflections": ["la chocolatière", "une chocolatière", "des chocolatières"],
+      "ptTargets": ["chocolateira"],
       "examples": [
-        { "level": "A1", "fr": "Le chocolat est fourré.", "pt": "O chocolate é recheado." },
-        { "level": "A2-B1", "fr": "La gaufre est fourrée à la vanille.", "pt": "O waffle é recheado com baunilha." },
-        { "level": "B2", "fr": "Les chocolats fourrés de Méert sont réputés dans toute la région.", "pt": "Os chocolates recheados da Méert são famosos em toda a região." },
-        { "level": "C1-C2", "fr": "Une gaufre fourrée à la vanille de Madagascar, c'est une caresse sucrée.", "pt": "Um waffle recheado com baunilha de Madagascar é uma carícia doce." }
+        { "level": "A1", "fr": "La chocolatière sourit.", "pt": "A chocolateira sorri." },
+        { "level": "A2-B1", "fr": "La chocolatière les sert avec soin.", "pt": "A chocolateira os serve com cuidado." },
+        { "level": "B2", "fr": "La chocolatière connaît les habitués du quartier.", "pt": "A chocolateira conhece os frequentadores do bairro." },
+        { "level": "C1-C2", "fr": "C'est la chocolatière qui, par son métier, fait du cacao un art et du quartier un lieu de douceur.", "pt": "É a chocolateira que, por seu ofício, faz do cacau uma arte e do bairro um lugar de doçura." }
       ]
     },
     {
       "term": "la vanille",
       "definitionPt": "a baunilha",
-      "definitionFr": "Épice sucrée utilisée en pâtisserie.",
-      "inflections": ["la vanille", "une vanille", "des vanilles"],
+      "definitionFr": "Arôme doux et parfumé.",
+      "inflections": ["la vanille", "une vanille"],
       "ptTargets": ["baunilha"],
       "examples": [
-        { "level": "A1", "fr": "J'aime la glace à la vanille.", "pt": "Gosto de sorvete de baunilha." },
-        { "level": "A2-B1", "fr": "La vanille vient de Madagascar.", "pt": "A baunilha vem de Madagascar." },
-        { "level": "B2", "fr": "La vanille de Madagascar parfume les gaufres de Méert.", "pt": "A baunilha de Madagascar perfuma os waffles da Méert." },
-        { "level": "C1-C2", "fr": "L'île de Madagascar et la boutique de Lille, unis par une simple gousse de vanille.", "pt": "A ilha de Madagascar e a loja de Lille, unidas por uma simples fava de baunilha." }
+        { "level": "A1", "fr": "La vanille sent bon.", "pt": "A baunilha cheira bem." },
+        { "level": "A2-B1", "fr": "L'air sent le chocolat et la vanille.", "pt": "O ar cheira a chocolate e baunilha." },
+        { "level": "B2", "fr": "Un parfum de vanille flotte dans la boutique.", "pt": "Um perfume de baunilha paira na loja." },
+        { "level": "C1-C2", "fr": "C'est la vanille qui, discrète, adoucit et réchauffe les desserts.", "pt": "É a baunilha que, discreta, adoça e aquece as sobremesas." }
       ]
     },
     {
-      "term": "goûter",
-      "definitionPt": "provar, degustar",
-      "definitionFr": "Manger un peu pour apprécier le goût.",
-      "inflections": ["je goûte", "nous goûtons", "goûté"],
-      "ptTargets": ["provar", "degustar"],
+      "term": "la tasse",
+      "definitionPt": "a xícara / a caneca",
+      "definitionFr": "Récipient pour boire chaud.",
+      "inflections": ["la tasse", "une tasse", "des tasses"],
+      "ptTargets": ["xícara", "caneca"],
       "examples": [
-        { "level": "A1", "fr": "Je goûte le gâteau.", "pt": "Provo o bolo." },
-        { "level": "A2-B1", "fr": "Nous avons goûté les gaufres de Méert.", "pt": "Provamos os waffles da Méert." },
-        { "level": "B2", "fr": "Goûtez ce chocolat, vous verrez la différence.", "pt": "Provem este chocolate, vocês verão a diferença." },
-        { "level": "C1-C2", "fr": "Goûter, c'est voyager sans quitter la boutique.", "pt": "Provar é viajar sem sair da loja." }
+        { "level": "A1", "fr": "La tasse est chaude.", "pt": "A xícara está quente." },
+        { "level": "A2-B1", "fr": "Ils commandent deux tasses de chocolat.", "pt": "Eles pedem duas xícaras de chocolate." },
+        { "level": "B2", "fr": "Elle serre la tasse chaude entre ses mains.", "pt": "Ela aperta a xícara quente entre as mãos." },
+        { "level": "C1-C2", "fr": "C'est la tasse qui, fumante, devient le centre d'une pause bien méritée.", "pt": "É a xícara que, fumegante, vira o centro de uma pausa merecida." }
       ]
     },
     {
-      "term": "le délice",
-      "definitionPt": "a delícia",
-      "definitionFr": "Grand plaisir, saveur exquise.",
-      "inflections": ["le délice", "un délice", "des délices"],
-      "ptTargets": ["delícia"],
+      "term": "servir",
+      "definitionPt": "servir",
+      "definitionFr": "Apporter à boire ou à manger.",
+      "inflections": ["servir", "je sers", "nous servons"],
+      "ptTargets": ["servir"],
       "examples": [
-        { "level": "A1", "fr": "Ce gâteau est un délice !", "pt": "Este bolo é uma delícia!" },
-        { "level": "A2-B1", "fr": "La gaufre est un vrai délice.", "pt": "O waffle é uma verdadeira delícia." },
-        { "level": "B2", "fr": "Chaque bouchée est un délice qui rappelle l'enfance.", "pt": "Cada mordida é uma delícia que lembra a infância." },
-        { "level": "C1-C2", "fr": "Les délices de Méert font partie du patrimoine gourmand du Nord.", "pt": "As delícias da Méert fazem parte do patrimônio gastronômico do Norte." }
+        { "level": "A1", "fr": "Je sers le café.", "pt": "Eu sirvo o café." },
+        { "level": "A2-B1", "fr": "La chocolatière les sert.", "pt": "A chocolateira os serve." },
+        { "level": "B2", "fr": "Servir les clients avec le sourire fait partie du métier.", "pt": "Servir os clientes com sorriso faz parte do ofício." },
+        { "level": "C1-C2", "fr": "C'est en servant que l'on transforme un simple achat en moment d'attention.", "pt": "É servindo que se transforma uma simples compra em momento de atenção." }
       ]
     },
     {
-      "term": "le comptoir",
-      "definitionPt": "o balcão",
-      "definitionFr": "Table longue d'un magasin.",
-      "inflections": ["le comptoir", "un comptoir", "des comptoirs"],
-      "ptTargets": ["balcão"],
+      "term": "la question",
+      "definitionPt": "a pergunta",
+      "definitionFr": "Phrase qui demande une réponse.",
+      "inflections": ["la question", "une question", "des questions"],
+      "ptTargets": ["pergunta"],
       "examples": [
-        { "level": "A1", "fr": "Le comptoir est en marbre.", "pt": "O balcão é de mármore." },
-        { "level": "A2-B1", "fr": "Les gâteaux sont exposés sur le comptoir.", "pt": "Os bolos estão expostos no balcão." },
-        { "level": "B2", "fr": "Le comptoir en marbre a vu passer des générations de gourmands.", "pt": "O balcão de mármore viu passar gerações de gulosos." },
-        { "level": "C1-C2", "fr": "Derrière son comptoir, le pâtissier règne sur un royaume de sucre.", "pt": "Atrás de seu balcão, o confeiteiro reina sobre um reino de açúcar." }
+        { "level": "A1", "fr": "La question est simple.", "pt": "A pergunta é simples." },
+        { "level": "A2-B1", "fr": "Il a posé les mêmes questions.", "pt": "Ele fez as mesmas perguntas." },
+        { "level": "B2", "fr": "Poser la bonne question mène à la bonne réponse.", "pt": "Fazer a pergunta certa leva à resposta certa." },
+        { "level": "C1-C2", "fr": "C'est la question qui, bien posée, ouvre une porte que l'on ne voyait pas.", "pt": "É a pergunta que, bem feita, abre uma porta que não se via." }
       ]
     },
     {
-      "term": "oser",
-      "definitionPt": "ousar",
-      "definitionFr": "Avoir le courage de faire quelque chose.",
-      "inflections": ["j'ose", "nous osons", "osé"],
-      "ptTargets": ["ousar"],
+      "term": "consulter",
+      "definitionPt": "consultar",
+      "definitionFr": "Lire un document.",
+      "inflections": ["consulter", "je consulte", "nous consultons"],
+      "ptTargets": ["consultar"],
       "examples": [
-        { "level": "A1", "fr": "Je n'ose pas parler.", "pt": "Não ouso falar." },
-        { "level": "A2-B1", "fr": "Irlan n'a jamais osé entrer dans la boutique.", "pt": "Irlan nunca ousou entrar na loja." },
-        { "level": "B2", "fr": "Il a osé franchir la porte, enfin.", "pt": "Ele ousou cruzar a porta, finalmente." },
-        { "level": "C1-C2", "fr": "Oser entrer, c'est déjà oser changer de vie.", "pt": "Ousar entrar já é ousar mudar de vida." }
+        { "level": "A1", "fr": "Je consulte le plan.", "pt": "Eu consulto a planta." },
+        { "level": "A2-B1", "fr": "Quelqu'un a consulté le registre.", "pt": "Alguém consultou o registro." },
+        { "level": "B2", "fr": "Consulter un registre ancien demande de la patience.", "pt": "Consultar um registro antigo exige paciência." },
+        { "level": "C1-C2", "fr": "C'est en consultant les archives que l'on rencontre, ligne après ligne, le passé lui-même.", "pt": "É consultando os arquivos que se encontra, linha após linha, o próprio passado." }
       ]
     },
     {
-      "term": "la boîte",
-      "definitionPt": "a caixa",
-      "definitionFr": "Conteneur pour ranger ou offrir.",
-      "inflections": ["la boîte", "une boîte", "des boîtes"],
-      "ptTargets": ["caixa"],
+      "term": "le regard",
+      "definitionPt": "o olhar",
+      "definitionFr": "Manière de regarder.",
+      "inflections": ["le regard", "un regard", "des regards"],
+      "ptTargets": ["olhar"],
       "examples": [
-        { "level": "A1", "fr": "La boîte est jolie.", "pt": "A caixa é bonita." },
-        { "level": "A2-B1", "fr": "Ils ont acheté une boîte de gaufres.", "pt": "Compraram uma caixa de waffles." },
-        { "level": "B2", "fr": "La boîte dorée de Méert est un cadeau prestigieux.", "pt": "A caixa dourada da Méert é um presente prestigioso." },
-        { "level": "C1-C2", "fr": "Dans sa boîte élégante, chaque gaufre attend son destinataire.", "pt": "Em sua caixa elegante, cada waffle espera seu destinatário." }
+        { "level": "A1", "fr": "Le regard est doux.", "pt": "O olhar é doce." },
+        { "level": "A2-B1", "fr": "Ils échangent un regard.", "pt": "Eles trocam um olhar." },
+        { "level": "B2", "fr": "Un regard peut en dire plus qu'un long discours.", "pt": "Um olhar pode dizer mais que um longo discurso." },
+        { "level": "C1-C2", "fr": "C'est le regard qui, échangé en silence, scelle une décision commune.", "pt": "É o olhar que, trocado em silêncio, sela uma decisão comum." }
       ]
     },
     {
-      "term": "l'odeur",
-      "definitionPt": "o cheiro, o aroma",
-      "definitionFr": "Parfum perçu par le nez.",
-      "inflections": ["l'odeur", "une odeur", "des odeurs"],
-      "ptTargets": ["cheiro", "aroma"],
+      "term": "les premiers",
+      "definitionPt": "os primeiros",
+      "definitionFr": "Ceux qui arrivent avant.",
+      "inflections": ["le premier", "la première", "les premiers"],
+      "ptTargets": ["primeiros"],
       "examples": [
-        { "level": "A1", "fr": "L'odeur est bonne.", "pt": "O cheiro é bom." },
-        { "level": "A2-B1", "fr": "L'odeur du chocolat remplit la rue.", "pt": "O cheiro de chocolate enche a rua." },
-        { "level": "B2", "fr": "L'odeur de la gaufre chaude attire les passants.", "pt": "O cheiro do waffle quente atrai os transeuntes." },
-        { "level": "C1-C2", "fr": "L'odeur du chocolat de Méert est une invitation que personne ne refuse.", "pt": "O cheiro do chocolate da Méert é um convite que ninguém recusa." }
+        { "level": "A1", "fr": "Je suis le premier.", "pt": "Eu sou o primeiro." },
+        { "level": "A2-B1", "fr": "Nous serons les premiers aux archives.", "pt": "Seremos os primeiros nos arquivos." },
+        { "level": "B2", "fr": "Les premiers arrivés choisissent les meilleures places.", "pt": "Os primeiros a chegar escolhem os melhores lugares." },
+        { "level": "C1-C2", "fr": "Ce sont les premiers qui, souvent, tracent le chemin que les autres suivront.", "pt": "São os primeiros que, muitas vezes, traçam o caminho que os outros seguirão." }
       ]
     },
     {
-      "term": "le marbre",
-      "definitionPt": "o mármore",
-      "definitionFr": "Pierre dure et polie.",
-      "inflections": ["le marbre", "un marbre", "des marbres"],
-      "ptTargets": ["mármore"],
+      "term": "se réchauffer",
+      "definitionPt": "aquecer-se",
+      "definitionFr": "Retrouver de la chaleur.",
+      "inflections": ["se réchauffer", "je me réchauffe", "nous nous réchauffons"],
+      "ptTargets": ["aquecer-se"],
       "examples": [
-        { "level": "A1", "fr": "La table est en marbre.", "pt": "A mesa é de mármore." },
-        { "level": "A2-B1", "fr": "Le comptoir de Méert est en marbre blanc.", "pt": "O balcão da Méert é de mármore branco." },
-        { "level": "B2", "fr": "Le marbre ancien porte les traces de deux siècles de pâtisserie.", "pt": "O mármore antigo carrega as marcas de dois séculos de confeitaria." },
-        { "level": "C1-C2", "fr": "Sur le marbre poli, les gâteaux semblent des bijoux exposés.", "pt": "Sobre o mármore polido, os bolos parecem joias expostas." }
+        { "level": "A1", "fr": "Je me réchauffe près du feu.", "pt": "Eu me aqueço perto do fogo." },
+        { "level": "A2-B1", "fr": "Ils entrent pour se réchauffer.", "pt": "Eles entram para se aquecer." },
+        { "level": "B2", "fr": "Se réchauffer autour d'un chocolat apaise le froid du soir.", "pt": "Aquecer-se ao redor de um chocolate acalma o frio da noite." },
+        { "level": "C1-C2", "fr": "C'est en se réchauffant ensemble que l'on comprend la chaleur d'un accueil.", "pt": "É aquecendo-se juntos que se entende o calor de um acolhimento." }
       ]
     },
     {
-      "term": "envoyer",
-      "definitionPt": "enviar",
-      "definitionFr": "Faire parvenir à quelqu'un.",
-      "inflections": ["j'envoie", "nous envoyons", "envoyé"],
-      "ptTargets": ["enviar"],
+      "term": "remercier",
+      "definitionPt": "agradecer",
+      "definitionFr": "Dire merci.",
+      "inflections": ["remercier", "je remercie", "nous remercions"],
+      "ptTargets": ["agradecer"],
       "examples": [
-        { "level": "A1", "fr": "J'envoie une lettre.", "pt": "Envio uma carta." },
-        { "level": "A2-B1", "fr": "Nous allons envoyer la boîte au Brésil.", "pt": "Vamos enviar a caixa ao Brasil." },
-        { "level": "B2", "fr": "Elle a envoyé des gaufres à sa famille chaque année.", "pt": "Ela enviou waffles à sua família todos os anos." },
-        { "level": "C1-C2", "fr": "Envoyer un colis de gourmandises, c'est partager son bonheur à distance.", "pt": "Enviar um pacote de guloseimas é partilhar sua felicidade à distância." }
+        { "level": "A1", "fr": "Je remercie la chocolatière.", "pt": "Eu agradeço a chocolateira." },
+        { "level": "A2-B1", "fr": "Andréa remercie chaleureusement.", "pt": "Andréa agradece calorosamente." },
+        { "level": "B2", "fr": "Elle remercie la chocolatière d'un sourire.", "pt": "Ela agradece a chocolateira com um sorriso." },
+        { "level": "C1-C2", "fr": "C'est en remerciant que l'on reconnaît ce que l'autre nous apprend.", "pt": "É agradecendo que se reconhece o que o outro nos ensina." }
       ]
     }
   ],
   "grammarTip": {
-    "ruleTitle": "L'impératif : Goutez, Prenez, Regardez !",
-    "explanationPt": "O imperativo dá ordens ou conselhos: 'Goûtez !' (Provem!), 'Prenez !' (Peguem!), 'Regardez !' (Olhem!). Para 'tu' usa-se a forma sem 's' em verbos do 1º grupo: 'Goûte !' (Prova!). Para 'nous': 'Goûtons !' (Provemos!).",
-    "exampleFr": "« Goutez une gaufre, prenez votre temps et regardez la boutique », a dit le vendeur.",
-    "examplePt": "« Provem um waffle, levem seu tempo e olhem a loja », disse o vendedor.",
-    "practiceQuestion": "Complete o imperativo: « ___ votre temps ! »",
-    "options": ["Prenez", "Prendre", "Prenons"],
+    "ruleTitle": "Le verbe servir",
+    "explanationPt": "Servir: je sers, tu sers, il sert, nous servons. 'Elle les sert' (Ela os serve).",
+    "exampleFr": "La chocolatière les sert avec soin.",
+    "examplePt": "A chocolateira os serve com cuidado.",
+    "practiceQuestion": "Complete: 'Elle nous _____ le chocolat.'",
+    "options": ["sert", "sert pas", "servent"],
     "correctIndex": 0,
     "points": [
       {
-        "ruleTitle": "Les partitifs : du, de la, des, de l'",
-        "explanationPt": "Para quantidades indefinidas, usamos partitivos: 'du chocolat' (chocolate), 'de la vanille' (baunilha), 'des gaufres' (waffles), 'de l'amour' (amor). Na negação, vira 'de': 'je ne mange pas de chocolat'.",
-        "exampleFr": "Nous avons acheté du chocolat, de la vanille et des gaufres.",
-        "examplePt": "Compramos chocolate, baunilha e waffles.",
-        "practiceQuestion": "Complete: « J'achète ___ chocolat. »",
-        "options": ["du", "de la", "des"],
+        "ruleTitle": "Poser une question",
+        "explanationPt": "'Poser une question' = fazer uma pergunta. 'Il a posé les mêmes questions' (Ele fez as mesmas perguntas).",
+        "exampleFr": "Il a posé les mêmes questions.",
+        "examplePt": "Ele fez as mesmas perguntas.",
+        "practiceQuestion": "Complete: 'Il a _____ une question.'",
+        "options": ["posé", "posée", "poser"],
         "correctIndex": 0
       },
       {
-        "ruleTitle": "L'impératif avec les pronoms : Envoyez-la !",
-        "explanationPt": "No imperativo, os pronomes vêm depois do verbo com hífen: 'Envoyez-la !' (Enviem-na!), 'Prenez-en !' (Peguem um pouco!).",
-        "exampleFr": "« Envoyez-la avec amour », a dit Andréa en parlant de la boîte.",
-        "examplePt": "« Enviem-na com amor », disse Andréa falando da caixa.",
-        "practiceQuestion": "Complete: « Envoyez-___ au Brésil ! »",
-        "options": ["la", "le", "les"],
+        "ruleTitle": "Échanger un regard",
+        "explanationPt": "'Échanger un regard' = trocar um olhar.",
+        "exampleFr": "Ils échangent un regard.",
+        "examplePt": "Eles trocam um olhar.",
+        "practiceQuestion": "Complete: 'Ils _____ un regard.'",
+        "options": ["échangent", "échange", "échangeons"],
         "correctIndex": 0
       }
     ]
   },
   "quizQuestions": [
     {
-      "question": "Desde quando existe a Méert?",
-      "options": ["Desde 1761", "Desde 1900", "Desde 1945"],
+      "question": "Onde Irlan e Andréa entram?",
+      "options": ["numa chocolateria", "numa padaria", "numa livraria"],
       "correctIndex": 0,
-      "explanation": "A chocolateria Méert foi fundada em 1761, na rue Esquermoise."
+      "explanation": "Ils entrent dans une chocolaterie du Vieux-Lille."
     },
     {
-      "question": "Qual é o imperativo correto?",
-      "options": ["Prenez votre temps !", "Prendre votre temps !", "Preniez votre temps !"],
+      "question": "O que o homem de sobretudo cinza perguntou?",
+      "options": ["se alguém consultou o registro de 1904", "onde fica o hotel", "quem é o prefeito"],
       "correctIndex": 0,
-      "explanation": "O imperativo de 'prendre' com vous é 'prenez'."
+      "explanation": "Il a demandé si quelqu'un avait consulté le registre de 1904."
     },
     {
-      "question": "Complete: « Nous achetons ___ chocolat. »",
-      "options": ["du", "de la", "des"],
+      "question": "O que Andréa promete?",
+      "options": ["ser os primeiros nos arquivos", "voltar a Paris", "desistir"],
       "correctIndex": 0,
-      "explanation": "'Chocolat' é masculino singular, então o partitivo é 'du'."
+      "explanation": "Demain, nous serons les premiers aux archives."
     },
     {
-      "question": "Com o que são recheadas as gaufres de Méert?",
-      "options": ["Baunilha de Madagascar", "Chocolate belga", "Framboesa"],
+      "question": "Complete: 'Elle nous _____ le chocolat.'",
+      "options": ["sert", "sert pas", "servent"],
       "correctIndex": 0,
-      "explanation": "As gaufres fourrées de Méert são recheadas com vanille de Madagascar."
+      "explanation": "elle sert."
     },
     {
-      "question": "O que Irlan lembrou diante da Méert?",
-      "options": ["Que passava diante da porta de scooter sem ousar entrar", "Que comprou lá no primeiro dia na França", "Que a loja fechou"],
+      "question": "Complete: 'Il a _____ une question.'",
+      "options": ["posé", "posée", "poser"],
       "correctIndex": 0,
-      "explanation": "Irlan, ex-livreur, passava diante da Méert todos os dias sem ousar entrar."
+      "explanation": "passé composé: posé."
     }
   ]
 }

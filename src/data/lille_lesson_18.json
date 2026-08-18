@@ -1,36 +1,89 @@
 {
   "id": "lille_lesson_18",
   "cityId": "lille",
-  "domain": "Cultura",
+  "domain": "Cultura & Cinema",
   "level": "Básico (A2)",
-  "titleFr": "Bienvenue chez les Ch'tis : le film qui a rendu le Nord célèbre",
-  "titlePt": "Bienvenue chez les Ch'tis: o filme que tornou o Norte famoso",
-  "subtitleFr": "« Biloute », « cheu » : le ch'ti est une langue de cœur",
-  "subtitlePt": "« Biloute », « cheu »: o ch'ti é uma língua do coração",
-  "summaryPt": "Nesta Aula 18 (A2), a família assiste a 'Bienvenue chez les Ch'tis', o filme de Dany Boon (2008) que mostrou o Norte ao mundo. Irlan se identifica com a história de um homem que descobre a região. O aluno pratica o Passé Composé com ON e revisa o vocabulário do cinema e das expressões ch'ti.",
+  "titleFr": "Le cinéma et l'accent ch'ti",
+  "titlePt": "O cinema e o sotaque ch'ti",
+  "subtitleFr": "Un film qui a fait aimer le Nord",
+  "subtitlePt": "Um filme que fez amar o Norte",
+  "summaryPt": "Na Aula 18 de Lille (A2), Irlan e Andréa assistem a um filme que tornou o Norte famoso. O aluno pratica o vocabulário do cinema e o verbo 'voir'.",
   "paragraphs": [
     {
       "id": 1,
-      "fr": "Le soir, la famille a regardé « Bienvenue chez les Ch'tis ». « C'est le film le plus vu de l'histoire de France », a dit Andréa. « On a ri pendant toute la soirée. »",
-      "pt": "À noite, a família assistiu a « Bienvenue chez les Ch'tis ». « É o filme mais assistido da história da França », disse Andréa. « Rimos a noite inteira. »"
+      "fr": "Le soir, Irlan et Andréa entrent dans un petit cinéma du centre.",
+      "pt": "À noite, Irlan e Andréa entram num pequeno cinema do centro."
     },
     {
       "id": 2,
-      "fr": "Dans le film, un homme de la Provence doit travailler à Bergues, dans le Nord. « Chez les Ch'tis, on dit biloute et cheu », a expliqué Irlan. « C'est une langue de cœur. »",
-      "pt": "No filme, um homem da Provença precisa trabalhar em Bergues, no Norte. « Entre os ch'tis, diz-se biloute e cheu », explicou Irlan. « É uma língua do coração. »"
+      "fr": "Ils regardent un film qui raconte l'accueil chaleureux du Nord.",
+      "pt": "Eles assistem a um filme que conta o acolhimento caloroso do Norte."
     },
     {
       "id": 3,
-      "fr": "Íris a demandé : « Pourquoi ils parlent comme ça ? » Andréa a répondu : « Le ch'ti est l'ancienne langue du Nord. On l'a parlé pendant des siècles, à côté du français. »",
-      "pt": "Íris perguntou: « Por que eles falam assim? » Andréa respondeu: « O ch'ti é a antiga língua do Norte. Foi falado durante séculos, ao lado do francês. »"
+      "fr": "Dans la salle, les spectateurs rient aux mêmes scènes.",
+      "pt": "Na sala, os espectadores riem nas mesmas cenas."
     },
     {
       "id": 4,
-      "fr": "Irlan a souri à la fin du film : « Quand j'arrivais en France, je ne comprenais rien ici non plus. Maintenant, je suis un peu ch'ti moi-même. »",
-      "pt": "Irlan sorriu no fim do filme: « Quando cheguei à França, eu também não entendia nada aqui. Agora, sou um pouco ch'ti eu mesmo. »"
+      "fr": "« Écoute l'accent ch'ti, dit Andréa. Il chante comme une musique. »",
+      "pt": "« Escuta o sotaque ch'ti, diz Andréa. Ele canta como uma música. »"
+    },
+    {
+      "id": 5,
+      "fr": "Irlan sourit. « Chaque région a sa voix, comme chaque ville a ses rues. »",
+      "pt": "Irlan sorri. « Cada região tem sua voz, como cada cidade tem suas ruas. »"
+    },
+    {
+      "id": 6,
+      "fr": "Le film montre des gens simples, des repas partagés et des amitiés sincères.",
+      "pt": "O filme mostra pessoas simples, refeições partilhadas e amizades sinceras."
+    },
+    {
+      "id": 7,
+      "fr": "« Ce film a rendu le Nord célèbre dans toute la France », explique Andréa.",
+      "pt": "« Este filme tornou o Norte famoso em toda a França », explica Andréa."
+    },
+    {
+      "id": 8,
+      "fr": "À la fin, la salle applaudit doucement.",
+      "pt": "No fim, a sala aplaude suavemente."
+    },
+    {
+      "id": 9,
+      "fr": "En sortant, Irlan respire l'air frais. « Le Nord nous a appris à écouter. »",
+      "pt": "Ao sair, Irlan respira o ar fresco. « O Norte nos ensinou a escutar. »"
+    },
+    {
+      "id": 10,
+      "fr": "« Et demain, nous lirons ce que le port a gardé pour nous », dit Andréa.",
+      "pt": "« E amanhã, leremos o que o porto guardou para nós », diz Andréa."
+    },
+    {
+      "id": 11,
+      "fr": "Ils rentrent lentement, sous les lampadaires.",
+      "pt": "Eles voltam devagar, sob os postes de luz."
+    },
+    {
+      "id": 12,
+      "fr": "« Une bonne nuit, et au travail demain matin », murmure Irlan.",
+      "pt": "« Uma boa noite, e ao trabalho amanhã de manhã », murmura Irlan."
     }
   ],
   "vocabularyDictionary": [
+    {
+      "term": "le cinéma",
+      "definitionPt": "o cinema",
+      "definitionFr": "Lieu où l'on voit des films.",
+      "inflections": ["le cinéma", "un cinéma", "des cinémas"],
+      "ptTargets": ["cinema"],
+      "examples": [
+        { "level": "A1", "fr": "Le cinéma est petit.", "pt": "O cinema é pequeno." },
+        { "level": "A2-B1", "fr": "Ils entrent dans un petit cinéma.", "pt": "Eles entram num pequeno cinema." },
+        { "level": "B2", "fr": "Le cinéma du centre programme des films français.", "pt": "O cinema do centro exibe filmes franceses." },
+        { "level": "C1-C2", "fr": "C'est le cinéma qui, dans le noir, réunit des inconnus autour d'une même émotion.", "pt": "É o cinema que, no escuro, reúne desconhecidos em torno de uma mesma emoção." }
+      ]
+    },
     {
       "term": "le film",
       "definitionPt": "o filme",
@@ -39,214 +92,201 @@
       "ptTargets": ["filme"],
       "examples": [
         { "level": "A1", "fr": "Le film est drôle.", "pt": "O filme é engraçado." },
-        { "level": "A2-B1", "fr": "Nous avons regardé un film hier soir.", "pt": "Assistimos a um filme ontem à noite." },
-        { "level": "B2", "fr": "Ce film a battu tous les records d'entrées en France.", "pt": "Este filme bateu todos os recordes de bilheteria na França." },
-        { "level": "C1-C2", "fr": "Le film a transformé l'image d'une région entière.", "pt": "O filme transformou a imagem de uma região inteira." }
+        { "level": "A2-B1", "fr": "Ils regardent un film sur le Nord.", "pt": "Eles assistem a um filme sobre o Norte." },
+        { "level": "B2", "fr": "Le film raconte l'accueil chaleureux des gens du Nord.", "pt": "O filme conta o acolhimento caloroso das pessoas do Norte." },
+        { "level": "C1-C2", "fr": "C'est le film qui, par ses images, fait aimer une région entière.", "pt": "É o filme que, por suas imagens, faz amar uma região inteira." }
       ]
     },
     {
-      "term": "drôle",
-      "definitionPt": "engraçado",
-      "definitionFr": "Qui fait rire.",
-      "inflections": ["drôle", "drôles", "le drôle"],
-      "ptTargets": ["engraçado"],
+      "term": "l'accent",
+      "definitionPt": "o sotaque",
+      "definitionFr": "Manière de prononcer.",
+      "inflections": ["l'accent", "un accent", "des accents"],
+      "ptTargets": ["sotaque"],
       "examples": [
-        { "level": "A1", "fr": "Le clown est drôle.", "pt": "O palhaço é engraçado." },
-        { "level": "A2-B1", "fr": "Le film est très drôle.", "pt": "O filme é muito engraçado." },
-        { "level": "B2", "fr": "Une histoire drôle peut cacher une grande émotion.", "pt": "Uma história engraçada pode esconder uma grande emoção." },
-        { "level": "C1-C2", "fr": "Le Nord a le rire facile, dit-on, et c'est sa plus belle richesse.", "pt": "O Norte tem riso fácil, dizem, e é a sua mais bela riqueza." }
+        { "level": "A1", "fr": "L'accent est doux.", "pt": "O sotaque é suave." },
+        { "level": "A2-B1", "fr": "Écoute l'accent ch'ti.", "pt": "Escuta o sotaque ch'ti." },
+        { "level": "B2", "fr": "L'accent du Nord chante comme une musique.", "pt": "O sotaque do Norte canta como uma música." },
+        { "level": "C1-C2", "fr": "C'est l'accent qui, par ses intonations, révèle l'origine et la chaleur d'une région.", "pt": "É o sotaque que, por suas entonações, revela a origem e o calor de uma região." }
       ]
     },
     {
-      "term": "la langue",
-      "definitionPt": "a língua",
-      "definitionFr": "Système de communication ; organe de la bouche.",
-      "inflections": ["la langue", "une langue", "des langues"],
-      "ptTargets": ["língua", "idioma"],
+      "term": "le spectateur",
+      "definitionPt": "o espectador",
+      "definitionFr": "Personne qui regarde un spectacle.",
+      "inflections": ["le spectateur", "un spectateur", "des spectateurs"],
+      "ptTargets": ["espectador"],
       "examples": [
-        { "level": "A1", "fr": "J'apprends la langue française.", "pt": "Aprendo a língua francesa." },
-        { "level": "A2-B1", "fr": "Le ch'ti est une langue du Nord.", "pt": "O ch'ti é uma língua do Norte." },
-        { "level": "B2", "fr": "Les langues régionales font partie du patrimoine français.", "pt": "As línguas regionais fazem parte do patrimônio francês." },
-        { "level": "C1-C2", "fr": "Une langue qui meurt emporte un monde de mots et de rires.", "pt": "Uma língua que morre leva consigo um mundo de palavras e risos." }
+        { "level": "A1", "fr": "Le spectateur regarde.", "pt": "O espectador olha." },
+        { "level": "A2-B1", "fr": "Les spectateurs rient aux mêmes scènes.", "pt": "Os espectadores riem nas mesmas cenas." },
+        { "level": "B2", "fr": "Les spectateurs applaudissent à la fin du film.", "pt": "Os espectadores aplaudem no fim do filme." },
+        { "level": "C1-C2", "fr": "C'est le spectateur qui, assis dans le noir, vit cent vies par procuration.", "pt": "É o espectador que, sentado no escuro, vive cem vidas por procuração." }
       ]
     },
     {
-      "term": "la région",
-      "definitionPt": "a região",
-      "definitionFr": "Grande partie d'un pays.",
-      "inflections": ["la région", "une région", "des régions"],
-      "ptTargets": ["região"],
+      "term": "la scène",
+      "definitionPt": "a cena",
+      "definitionFr": "Passage d'un film.",
+      "inflections": ["la scène", "une scène", "des scènes"],
+      "ptTargets": ["cena"],
       "examples": [
-        { "level": "A1", "fr": "La région est belle.", "pt": "A região é bonita." },
-        { "level": "A2-B1", "fr": "Le Nord est une région de France.", "pt": "O Norte é uma região da França." },
-        { "level": "B2", "fr": "La région des Hauts-de-France est pleine de contrastes.", "pt": "A região de Hauts-de-France é cheia de contrastes." },
-        { "level": "C1-C2", "fr": "Une région se découvre avec le cœur, pas seulement avec la carte.", "pt": "Uma região se descobre com o coração, não só com o mapa." }
+        { "level": "A1", "fr": "La scène est drôle.", "pt": "A cena é engraçada." },
+        { "level": "A2-B1", "fr": "Les spectateurs rient aux mêmes scènes.", "pt": "Os espectadores riem nas mesmas cenas." },
+        { "level": "B2", "fr": "La scène du repas montre la convivialité du Nord.", "pt": "A cena da refeição mostra a convivência do Norte." },
+        { "level": "C1-C2", "fr": "C'est la scène qui, brève, condense toute l'émotion d'un film.", "pt": "É a cena que, breve, condensa toda a emoção de um filme." }
       ]
     },
     {
       "term": "rire",
       "definitionPt": "rir",
-      "definitionFr": "Manifester sa joie.",
-      "inflections": ["je ris", "nous rions", "ri"],
+      "definitionFr": "Exprimer la joie par le rire.",
+      "inflections": ["rire", "je ris", "nous rions"],
       "ptTargets": ["rir"],
       "examples": [
-        { "level": "A1", "fr": "J'aime rire.", "pt": "Gosto de rir." },
-        { "level": "A2-B1", "fr": "On a ri pendant toute la soirée.", "pt": "Rimos a noite inteira." },
-        { "level": "B2", "fr": "Ils ont ri aux larmes devant le film.", "pt": "Eles riram até as lágrimas com o filme." },
-        { "level": "C1-C2", "fr": "Rire ensemble, c'est déjà parler la même langue.", "pt": "Rir juntos já é falar a mesma língua." }
+        { "level": "A1", "fr": "Je ris beaucoup.", "pt": "Eu rio muito." },
+        { "level": "A2-B1", "fr": "Les spectateurs rient aux mêmes scènes.", "pt": "Os espectadores riem nas mesmas cenas." },
+        { "level": "B2", "fr": "Rire ensemble rapproche les inconnus.", "pt": "Rir juntos aproxima os desconhecidos." },
+        { "level": "C1-C2", "fr": "C'est le rire qui, partagé, transforme une salle en communauté.", "pt": "É o riso que, compartilhado, transforma uma sala em comunidade." }
       ]
     },
     {
-      "term": "comprendre",
-      "definitionPt": "entender, compreender",
-      "definitionFr": "Saisir le sens de quelque chose.",
-      "inflections": ["je comprends", "nous comprenons", "compris"],
-      "ptTargets": ["entender", "compreender"],
+      "term": "la musique",
+      "definitionPt": "a música",
+      "definitionFr": "Suite de sons.",
+      "inflections": ["la musique", "une musique", "des musiques"],
+      "ptTargets": ["música"],
       "examples": [
-        { "level": "A1", "fr": "Je comprends le français.", "pt": "Entendo francês." },
-        { "level": "A2-B1", "fr": "Au début, Irlan ne comprenait pas le ch'ti.", "pt": "No início, Irlan não entendia o ch'ti." },
-        { "level": "B2", "fr": "Elle n'a pas compris l'accent du Nord au premier abord.", "pt": "Ela não entendeu o sotaque do Norte à primeira vista." },
-        { "level": "C1-C2", "fr": "Comprendre une langue, c'est aussi comprendre ceux qui la parlent.", "pt": "Entender uma língua é também entender aqueles que a falam." }
+        { "level": "A1", "fr": "La musique est douce.", "pt": "A música é suave." },
+        { "level": "A2-B1", "fr": "L'accent chante comme une musique.", "pt": "O sotaque canta como uma música." },
+        { "level": "B2", "fr": "La musique accompagne les plus belles scènes du film.", "pt": "A música acompanha as cenas mais belas do filme." },
+        { "level": "C1-C2", "fr": "C'est la musique qui, sans mots, exprime ce que le dialogue ne peut pas dire.", "pt": "É a música que, sem palavras, expressa o que o diálogo não pode dizer." }
       ]
     },
     {
-      "term": "le cinéma",
-      "definitionPt": "o cinema",
-      "definitionFr": "Art du film ; salle de projection.",
-      "inflections": ["le cinéma", "un cinéma", "des cinémas"],
-      "ptTargets": ["cinema"],
+      "term": "écouter",
+      "definitionPt": "escutar",
+      "definitionFr": "Porter attention aux sons.",
+      "inflections": ["écouter", "j'écoute", "nous écoutons"],
+      "ptTargets": ["escutar"],
       "examples": [
-        { "level": "A1", "fr": "Le cinéma est près de la place.", "pt": "O cinema fica perto da praça." },
-        { "level": "A2-B1", "fr": "Nous sommes allés au cinéma voir le film.", "pt": "Fomos ao cinema ver o filme." },
-        { "level": "B2", "fr": "Le cinéma français aime raconter les régions.", "pt": "O cinema francês gosta de contar as regiões." },
-        { "level": "C1-C2", "fr": "Le cinéma est la mémoire vivante d'un pays.", "pt": "O cinema é a memória viva de um país." }
+        { "level": "A1", "fr": "J'écoute la musique.", "pt": "Eu escuto a música." },
+        { "level": "A2-B1", "fr": "Écoute l'accent ch'ti.", "pt": "Escuta o sotaque ch'ti." },
+        { "level": "B2", "fr": "Écouter vraiment demande de faire silence en soi.", "pt": "Escutar de verdade exige fazer silêncio em si." },
+        { "level": "C1-C2", "fr": "C'est en écoutant que l'on apprend à comprendre l'autre au-delà des mots.", "pt": "É escutando que se aprende a entender o outro além das palavras." }
       ]
     },
     {
-      "term": "l'accent",
-      "definitionPt": "o sotaque, o acento",
-      "definitionFr": "Façon de prononcer propre à une région.",
-      "inflections": ["l'accent", "un accent", "des accents"],
-      "ptTargets": ["sotaque", "acento"],
+      "term": "célèbre",
+      "definitionPt": "famoso / célebre",
+      "definitionFr": "Très connu.",
+      "inflections": ["célèbre", "célèbres"],
+      "ptTargets": ["famoso", "célebre"],
       "examples": [
-        { "level": "A1", "fr": "L'accent est fort.", "pt": "O sotaque é forte." },
-        { "level": "A2-B1", "fr": "L'accent du Nord est très chantant.", "pt": "O sotaque do Norte é muito cantado." },
-        { "level": "B2", "fr": "L'accent ch'ti est devenu célèbre grâce au film.", "pt": "O sotaque ch'ti ficou famoso graças ao filme." },
-        { "level": "C1-C2", "fr": "L'accent est une musique que chaque région joue à sa façon.", "pt": "O sotaque é uma música que cada região toca à sua maneira." }
+        { "level": "A1", "fr": "Il est célèbre.", "pt": "Ele é famoso." },
+        { "level": "A2-B1", "fr": "Le film a rendu le Nord célèbre.", "pt": "O filme tornou o Norte famoso." },
+        { "level": "B2", "fr": "Cette chanson est célèbre dans tout le pays.", "pt": "Esta canção é famosa em todo o país." },
+        { "level": "C1-C2", "fr": "C'est célèbre, ce qui, par sa force, traverse les frontières et les générations.", "pt": "É célebre o que, por sua força, atravessa fronteiras e gerações." }
       ]
     },
     {
-      "term": "la Provence",
-      "definitionPt": "a Provença",
-      "definitionFr": "Région du sud de la France.",
-      "inflections": ["la Provence", "en Provence", "provençal"],
-      "ptTargets": ["Provença"],
+      "term": "applaudir",
+      "definitionPt": "aplaudir",
+      "definitionFr": "Battre des mains pour approuver.",
+      "inflections": ["applaudir", "j'applaudis", "nous applaudissons"],
+      "ptTargets": ["aplaudir"],
       "examples": [
-        { "level": "A1", "fr": "La Provence est au sud.", "pt": "A Provença fica no sul." },
-        { "level": "A2-B1", "fr": "Dans le film, l'homme vient de la Provence.", "pt": "No filme, o homem vem da Provença." },
-        { "level": "B2", "fr": "Entre la Provence et le Nord, il y a mille kilomètres et deux mondes.", "pt": "Entre a Provença e o Norte, há mil quilômetros e dois mundos." },
-        { "level": "C1-C2", "fr": "Le film réconcilie le soleil du sud et la pluie du nord.", "pt": "O filme reconcilia o sol do sul e a chuva do norte." }
+        { "level": "A1", "fr": "J'applaudis.", "pt": "Eu aplaudo." },
+        { "level": "A2-B1", "fr": "La salle applaudit à la fin.", "pt": "A sala aplaude no fim." },
+        { "level": "B2", "fr": "Les spectateurs applaudissent longuement.", "pt": "Os espectadores aplaudem longamente." },
+        { "level": "C1-C2", "fr": "C'est en applaudissant que le public remercie ce qu'il vient de recevoir.", "pt": "É aplaudindo que o público agradece o que acabou de receber." }
       ]
     },
     {
-      "term": "sourire",
-      "definitionPt": "sorrir",
-      "definitionFr": "Rire doucement avec les lèvres.",
-      "inflections": ["je souris", "nous sourions", "souri"],
-      "ptTargets": ["sorrir"],
+      "term": "le lampadaire",
+      "definitionPt": "o poste de luz",
+      "definitionFr": "Lumière haute dans la rue.",
+      "inflections": ["le lampadaire", "un lampadaire", "des lampadaires"],
+      "ptTargets": ["poste de luz"],
       "examples": [
-        { "level": "A1", "fr": "Le bébé sourit.", "pt": "O bebê sorri." },
-        { "level": "A2-B1", "fr": "Irlan a souri à la fin du film.", "pt": "Irlan sorriu no fim do filme." },
-        { "level": "B2", "fr": "Elle a souri en pensant à sa nouvelle vie.", "pt": "Ela sorriu pensando em sua nova vida." },
-        { "level": "C1-C2", "fr": "Sourire, c'est la première phrase qu'on apprend dans un nouveau pays.", "pt": "Sorrir é a primeira frase que se aprende num novo país." }
+        { "level": "A1", "fr": "Le lampadaire éclaire.", "pt": "O poste de luz ilumina." },
+        { "level": "A2-B1", "fr": "Ils rentrent sous les lampadaires.", "pt": "Eles voltam sob os postes de luz." },
+        { "level": "B2", "fr": "Les lampadaires dessinent des halos dans la nuit.", "pt": "Os postes desenham halos na noite." },
+        { "level": "C1-C2", "fr": "C'est le lampadaire qui, fidèle, éclaire le retour des promeneurs tardifs.", "pt": "É o poste que, fiel, ilumina a volta dos caminhantes tardios." }
       ]
     },
     {
-      "term": "l'émotion",
-      "definitionPt": "a emoção",
-      "definitionFr": "Sentiment fort.",
-      "inflections": ["l'émotion", "une émotion", "des émotions"],
-      "ptTargets": ["emoção"],
+      "term": "la nuit",
+      "definitionPt": "a noite",
+      "definitionFr": "Période sombre du jour.",
+      "inflections": ["la nuit", "une nuit", "des nuits"],
+      "ptTargets": ["noite"],
       "examples": [
-        { "level": "A1", "fr": "L'émotion est forte.", "pt": "A emoção é forte." },
-        { "level": "A2-B1", "fr": "Le film mélange le rire et l'émotion.", "pt": "O filme mistura o riso e a emoção." },
-        { "level": "B2", "fr": "L'émotion a envahi la salle à la fin du film.", "pt": "A emoção tomou a sala no fim do filme." },
-        { "level": "C1-C2", "fr": "Derrière les rires du film se cache une émotion vraie.", "pt": "Atrás dos risos do filme esconde-se uma emoção verdadeira." }
-      ]
-    },
-    {
-      "term": "raconter",
-      "definitionPt": "contar, narrar",
-      "definitionFr": "Dire une histoire.",
-      "inflections": ["je raconte", "nous racontons", "raconté"],
-      "ptTargets": ["contar", "narrar"],
-      "examples": [
-        { "level": "A1", "fr": "Je raconte une histoire.", "pt": "Conto uma história." },
-        { "level": "A2-B1", "fr": "Le film raconte l'histoire d'un homme du Sud.", "pt": "O filme conta a história de um homem do Sul." },
-        { "level": "B2", "fr": "Elle a raconté son voyage dans le Nord à ses amis.", "pt": "Ela contou sua viagem ao Norte aos amigos." },
-        { "level": "C1-C2", "fr": "Raconter une région, c'est donner une voix à ses habitants.", "pt": "Contar uma região é dar voz aos seus habitantes." }
+        { "level": "A1", "fr": "La nuit est calme.", "pt": "A noite é calma." },
+        { "level": "A2-B1", "fr": "Une bonne nuit, et au travail demain.", "pt": "Uma boa noite, e ao trabalho amanhã." },
+        { "level": "B2", "fr": "La nuit enveloppe la ville de son silence.", "pt": "A noite envolve a cidade com seu silêncio." },
+        { "level": "C1-C2", "fr": "C'est la nuit qui, en apaisant la ville, prépare l'élan du lendemain.", "pt": "É a noite que, ao acalmar a cidade, prepara o impulso do dia seguinte." }
       ]
     }
   ],
   "grammarTip": {
-    "ruleTitle": "On a ri, on a parlé : le pronom ON",
-    "explanationPt": "'On' é usado como 'nós' na conversa: 'on a ri' (nós rimos), 'on a regardé' (nós assistimos). O verbo fica na 3ª pessoa do singular, mas o sentido é plural.",
-    "exampleFr": "On a regardé le film et on a beaucoup ri.",
-    "examplePt": "Assistimos ao filme e rimos muito.",
-    "practiceQuestion": "Complete: « On ___ regardé le film. »",
-    "options": ["a", "avons", "ont"],
+    "ruleTitle": "Le verbe voir (révision)",
+    "explanationPt": "Ver: je vois, tu vois, il voit, nous voyons, ils voient. 'Ils voient un film' (Eles veem um filme).",
+    "exampleFr": "Ils voient un film au cinéma.",
+    "examplePt": "Eles veem um filme no cinema.",
+    "practiceQuestion": "Complete: 'Ils _____ un film.'",
+    "options": ["voient", "voit", "voyons"],
     "correctIndex": 0,
     "points": [
       {
-        "ruleTitle": "Le Passé Composé avec on",
-        "explanationPt": "Com 'on', o Passé Composé usa 'a' (de avoir): 'on a vu' (nós vimos), 'on a parlé' (nós falamos). O particípio fica no singular masculino: 'on a ri'.",
-        "exampleFr": "On a vu le film, on a ri et on a parlé jusqu'à minuit.",
-        "examplePt": "Vimos o filme, rimos e conversamos até meia-noite.",
-        "practiceQuestion": "Complete: « On ___ ri pendant toute la soirée. »",
-        "options": ["a", "avons", "sont"],
+        "ruleTitle": "Rendre célèbre",
+        "explanationPt": "'Rendre' + adjetivo = tornar. 'Le film a rendu le Nord célèbre' (O filme tornou o Norte famoso).",
+        "exampleFr": "Le film a rendu le Nord célèbre.",
+        "examplePt": "O filme tornou o Norte famoso.",
+        "practiceQuestion": "Complete: 'Le film a _____ le Nord célèbre.'",
+        "options": ["rendu", "rendue", "rendre"],
         "correctIndex": 0
       },
       {
-        "ruleTitle": "Les expressions ch'ti : biloute, cheu",
-        "explanationPt": "No ch'ti: 'biloute' significa 'amigo' (literalmente 'pênis pequeno', mas usado com afeto), 'cheu' significa 'eu', 'min' é 'meu'. 'Incheu' = aqui. O filme popularizou essas palavras.",
-        "exampleFr": "« Cheu m'appelle Irlan, biloute ! » a plaisanté Irlan.",
-        "examplePt": "« Eu me chamo Irlan, biloute! » brincou Irlan.",
-        "practiceQuestion": "O que significa 'biloute' em ch'ti?",
-        "options": ["Amigo (com afeto)", "Casa", "Obrigado"],
+        "ruleTitle": "Une bonne nuit",
+        "explanationPt": "'Bonne nuit' = boa noite (ao dormir). 'Bonsoir' = boa noite (ao chegar/saudar).",
+        "exampleFr": "Une bonne nuit, et au travail demain.",
+        "examplePt": "Uma boa noite, e ao trabalho amanhã.",
+        "practiceQuestion": "Complete: 'Une bonne _____, et au travail demain.'",
+        "options": ["nuit", "soirée", "jour"],
         "correctIndex": 0
       }
     ]
   },
   "quizQuestions": [
     {
-      "question": "Qual filme a família assistiu?",
-      "options": ["Bienvenue chez les Ch'tis", "Le fabuleux destin d'Amélie Poulain", "Intouchables"],
+      "question": "O que o filme conta?",
+      "options": ["o acolhimento caloroso do Norte", "uma guerra", "uma receita"],
       "correctIndex": 0,
-      "explanation": "A família assistiu a 'Bienvenue chez les Ch'tis', de Dany Boon (2008)."
+      "explanation": "Un film qui raconte l'accueil chaleureux du Nord."
     },
     {
-      "question": "Complete: « On ___ ri pendant toute la soirée. »",
-      "options": ["a", "avons", "sont"],
+      "question": "Como Andréa descreve o sotaque ch'ti?",
+      "options": ["que canta como uma música", "que é difícil", "que é triste"],
       "correctIndex": 0,
-      "explanation": "Com 'on', usa-se 'a': 'on a ri' (nós rimos)."
+      "explanation": "Il chante comme une musique."
     },
     {
-      "question": "De onde vem o personagem principal do filme?",
-      "options": ["Da Provence (sul)", "De Lille", "Da Bélgica"],
+      "question": "O que o Norte ensinou a Irlan e Andréa?",
+      "options": ["a escutar", "a correr", "a desistir"],
       "correctIndex": 0,
-      "explanation": "O personagem de Dany Boon é um funcionário dos Correios da Provence enviado a Bergues, no Norte."
+      "explanation": "Le Nord nous a appris à écouter."
     },
     {
-      "question": "O que significa 'biloute' em ch'ti?",
-      "options": ["Amigo, com afeto", "Casa", "Comida"],
+      "question": "Complete: 'Le film a _____ le Nord célèbre.'",
+      "options": ["rendu", "rendue", "rendre"],
       "correctIndex": 0,
-      "explanation": "'Biloute' é uma expressão ch'ti de afeto, popularizada pelo filme."
+      "explanation": "passé composé: rendu."
     },
     {
-      "question": "O que Irlan disse no fim do filme?",
-      "options": ["Que também não entendia nada quando chegou à França, e agora é um pouco ch'ti", "Que odeia o sotaque do Norte", "Que quer voltar ao Brasil"],
+      "question": "Complete: 'Une bonne _____, et au travail demain.'",
+      "options": ["nuit", "soirée", "jour"],
       "correctIndex": 0,
-      "explanation": "Irlan se identificou com o estrangeiro que aprende uma nova língua e uma nova cultura."
+      "explanation": "bonne nuit = boa noite (ao dormir)."
     }
   ]
 }

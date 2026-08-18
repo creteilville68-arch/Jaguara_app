@@ -1,218 +1,258 @@
 {
   "id": "lille_lesson_15",
   "cityId": "lille",
-  "domain": "Cotidiano",
+  "domain": "Natureza & Lazer",
   "level": "Básico (A2)",
   "titleFr": "Le zoo de Lille : les animaux de la Citadelle",
-  "titlePt": "O zoológico de Lille: os animais da Citadelle",
-  "subtitleFr": "Gratuit, au cœur du parc de la Citadelle, le zoo est le paradis des enfants",
-  "subtitlePt": "Gratuito, no coração do parque da Citadelle, o zoológico é o paraíso das crianças",
-  "summaryPt": "Nesta Aula 15 (A2), a família passa o domingo no zoológico de Lille, gratuito, dentro do parque da Citadelle. Íris vê leões, zebras, macacos e pássaros. O aluno pratica os advérbios de tempo para narrar o dia (hier, d'abord, ensuite, enfin) e o Passé Composé com avoir e être.",
+  "titlePt": "O zoológico de Lille: os animais da Citadela",
+  "subtitleFr": "Une pause avant le grand jour",
+  "subtitlePt": "Uma pausa antes do grande dia",
+  "summaryPt": "Na Aula 15 de Lille (A2), Irlan e Andréa visitam o zoológico da Citadela para relaxar antes dos arquivos. O aluno pratica os nomes dos animais e o verbo 'observer'.",
   "paragraphs": [
     {
       "id": 1,
-      "fr": "Dimanche matin, nous sommes allés au zoo de Lille. Il est gratuit et il se trouve dans le parc de la Citadelle. Íris a couru vers les lions.",
-      "pt": "Domingo de manhã, fomos ao zoológico de Lille. É gratuito e fica dentro do parque da Citadelle. Íris correu até os leões."
+      "fr": "La veille des archives, Irlan et Andréa visitent le zoo de Lille.",
+      "pt": "Na véspera dos arquivos, Irlan e Andréa visitam o zoológico de Lille."
     },
     {
       "id": 2,
-      "fr": "D'abord, nous avons vu les zèbres. Ensuite, nous avons regardé les singes. Enfin, Íris a nourri les chèvres avec de l'herbe.",
-      "pt": "Primeiro, vimos as zebras. Depois, olhamos os macacos. Finalmente, Íris alimentou as cabras com capim."
+      "fr": "Le zoo se trouve au pied de la Citadelle, dans un parc ombragé.",
+      "pt": "O zoológico fica ao pé da Citadela, num parque sombreado."
     },
     {
       "id": 3,
-      "fr": "« Hier, j'ai livré des repas dans ce quartier », a dit Irlan. « Je passais devant les grilles du zoo sans jamais entrer. Aujourd'hui, c'est différent. »",
-      "pt": "« Ontem, entreguei refeições neste bairro », disse Irlan. « Eu passava diante das grades do zoológico sem nunca entrar. Hoje, é diferente. »"
+      "fr": "Des enfants rient devant les singes qui se balancent.",
+      "pt": "Crianças riem diante dos macacos que se balançam."
     },
     {
       "id": 4,
-      "fr": "Après le zoo, nous avons pique-niqué dans le parc. Andréa a souri : « Le dimanche est notre jour. Nous avons vu des animaux, nous avons ri, nous avons été heureux. »",
-      "pt": "Depois do zoológico, fizemos piquenique no parque. Andréa sorriu: « O domingo é o nosso dia. Vimos animais, rimos, fomos felizes. »"
+      "fr": "« Regarde ce paon, il ouvre sa queue comme un éventail », dit Andréa.",
+      "pt": "« Olha esse pavão, ele abre a cauda como um leque », diz Andréa."
+    },
+    {
+      "id": 5,
+      "fr": "Irlan sourit. « Les animaux ne se pressent pas. Ils nous rappellent de respirer. »",
+      "pt": "Irlan sorri. « Os animais não têm pressa. Eles nos lembram de respirar. »"
+    },
+    {
+      "id": 6,
+      "fr": "Ils s'assoient sur un banc, près de l'enclos des loutres.",
+      "pt": "Eles se sentam num banco, perto do cercado das lontras."
+    },
+    {
+      "id": 7,
+      "fr": "« Demain, tout peut basculer », murmure Irlan.",
+      "pt": "« Amanhã, tudo pode mudar », murmura Irlan."
+    },
+    {
+      "id": 8,
+      "fr": "« Et c'est pour cela que nous sommes ici, répond Andréa. Pour avancer. »",
+      "pt": "« E é por isso que estamos aqui, responde Andréa. Para avançar. »"
+    },
+    {
+      "id": 9,
+      "fr": "Une loutre glisse dans l'eau, silencieuse et vive.",
+      "pt": "Uma lontra desliza na água, silenciosa e viva."
+    },
+    {
+      "id": 10,
+      "fr": "« La confiance, c'est comme ce geste, dit Irlan. Elle se construit dans le calme. »",
+      "pt": "« A confiança é como esse gesto, diz Irlan. Ela se constrói na calma. »"
+    },
+    {
+      "id": 11,
+      "fr": "Ils restent un moment, sans parler, à regarder les animaux.",
+      "pt": "Eles ficam um momento, sem falar, olhando os animais."
+    },
+    {
+      "id": 12,
+      "fr": "En partant, Andréa prend la main d'Irlan. « Demain, nous trouvons le nom. »",
+      "pt": "Ao partir, Andréa pega a mão de Irlan. « Amanhã, nós encontramos o nome. »"
     }
   ],
   "vocabularyDictionary": [
     {
       "term": "le zoo",
       "definitionPt": "o zoológico",
-      "definitionFr": "Parc où l'on montre des animaux.",
+      "definitionFr": "Parc où l'on garde des animaux.",
       "inflections": ["le zoo", "un zoo", "des zoos"],
-      "ptTargets": ["zoológico"],
+      "ptTargets": ["zoológico", "zoo"],
       "examples": [
-        { "level": "A1", "fr": "Le zoo est ouvert le dimanche.", "pt": "O zoológico abre aos domingos." },
-        { "level": "A2-B1", "fr": "Le zoo de Lille est gratuit.", "pt": "O zoológico de Lille é gratuito." },
-        { "level": "B2", "fr": "Le zoo de la Citadelle accueille plus de 300 animaux.", "pt": "O zoológico da Citadelle abriga mais de 300 animais." },
-        { "level": "C1-C2", "fr": "Le zoo, niché dans les remparts de Vauban, est un trésor vert de la ville.", "pt": "O zoológico, aninhado nas muralhas de Vauban, é um tesouro verde da cidade." }
-      ]
-    },
-    {
-      "term": "le lion",
-      "definitionPt": "o leão",
-      "definitionFr": "Grand mammifère carnivore.",
-      "inflections": ["le lion", "la lionne", "des lions"],
-      "ptTargets": ["leão"],
-      "examples": [
-        { "level": "A1", "fr": "Le lion est fort.", "pt": "O leão é forte." },
-        { "level": "A2-B1", "fr": "Le lion dormait dans son enclos.", "pt": "O leão dormia em seu recinto." },
-        { "level": "B2", "fr": "Le rugissement du lion a impressionné Íris.", "pt": "O rugido do leão impressionou Íris." },
-        { "level": "C1-C2", "fr": "Le lion, roi du zoo, ignore les visiteurs comme les rois ignorent leurs sujets.", "pt": "O leão, rei do zoológico, ignora os visitantes como os reis ignoram seus súditos." }
-      ]
-    },
-    {
-      "term": "le zèbre",
-      "definitionPt": "a zebra",
-      "definitionFr": "Animal d'Afrique aux rayures noires et blanches.",
-      "inflections": ["le zèbre", "une zèbre", "des zèbres"],
-      "ptTargets": ["zebra"],
-      "examples": [
-        { "level": "A1", "fr": "Le zèbre est noir et blanc.", "pt": "A zebra é preta e branca." },
-        { "level": "A2-B1", "fr": "Les zèbres couraient dans l'enclos.", "pt": "As zebras corriam no recinto." },
-        { "level": "B2", "fr": "Chaque zèbre a des rayures uniques.", "pt": "Cada zebra tem listras únicas." },
-        { "level": "C1-C2", "fr": "Les rayures du zèbre fascinent les enfants comme les savants.", "pt": "As listras da zebra fascinam crianças e cientistas." }
+        { "level": "A1", "fr": "Le zoo est grand.", "pt": "O zoológico é grande." },
+        { "level": "A2-B1", "fr": "Ils visitent le zoo de Lille.", "pt": "Eles visitam o zoológico de Lille." },
+        { "level": "B2", "fr": "Le zoo abrite des espèces de plusieurs continents.", "pt": "O zoológico abriga espécies de vários continentes." },
+        { "level": "C1-C2", "fr": "C'est le zoo qui, en accueillant les animaux, rappelle la fragilité du vivant.", "pt": "É o zoológico que, ao acolher os animais, lembra a fragilidade do que é vivo." }
       ]
     },
     {
       "term": "le singe",
       "definitionPt": "o macaco",
-      "definitionFr": "Animal proche de l'homme, souvent grimpeur.",
+      "definitionFr": "Animal agile qui grimpe.",
       "inflections": ["le singe", "un singe", "des singes"],
       "ptTargets": ["macaco"],
       "examples": [
-        { "level": "A1", "fr": "Le singe mange une banane.", "pt": "O macaco come uma banana." },
-        { "level": "A2-B1", "fr": "Les singes ont sauté d'arbre en arbre.", "pt": "Os macacos pularam de árvore em árvore." },
-        { "level": "B2", "fr": "Les singes amusaient les visiteurs du zoo.", "pt": "Os macacos divertiam os visitantes do zoológico." },
-        { "level": "C1-C2", "fr": "Le regard du singe semble comprendre le nôtre.", "pt": "O olhar do macaco parece compreender o nosso." }
+        { "level": "A1", "fr": "Le singe grimpe.", "pt": "O macaco sobe." },
+        { "level": "A2-B1", "fr": "Les singes se balancent dans les arbres.", "pt": "Os macacos se balançam nas árvores." },
+        { "level": "B2", "fr": "Les singes passent d'une branche à l'autre avec agilité.", "pt": "Os macacos passam de um galho a outro com agilidade." },
+        { "level": "C1-C2", "fr": "C'est le singe qui, agile, semble se moquer des limites de l'enclos.", "pt": "É o macaco que, ágil, parece zombar dos limites do cercado." }
       ]
     },
     {
-      "term": "la chèvre",
-      "definitionPt": "a cabra",
-      "definitionFr": "Petit animal domestique qui donne du lait.",
-      "inflections": ["la chèvre", "une chèvre", "des chèvres"],
-      "ptTargets": ["cabra"],
+      "term": "le paon",
+      "definitionPt": "o pavão",
+      "definitionFr": "Oiseau à longue queue colorée.",
+      "inflections": ["le paon", "un paon", "des paons"],
+      "ptTargets": ["pavão"],
       "examples": [
-        { "level": "A1", "fr": "La chèvre mange de l'herbe.", "pt": "A cabra come capim." },
-        { "level": "A2-B1", "fr": "Íris a nourri les chèvres au zoo.", "pt": "Íris alimentou as cabras no zoológico." },
-        { "level": "B2", "fr": "Les chèvres du parc ont des cornes impressionnantes.", "pt": "As cabras do parque têm chifres impressionantes." },
-        { "level": "C1-C2", "fr": "La chèvre, discrète et obstinée, gravit les montagnes comme les obstacles.", "pt": "A cabra, discreta e obstinada, sobe montanhas como obstáculos." }
+        { "level": "A1", "fr": "Le paon est beau.", "pt": "O pavão é bonito." },
+        { "level": "A2-B1", "fr": "Le paon ouvre sa queue.", "pt": "O pavão abre a cauda." },
+        { "level": "B2", "fr": "Le paon déploie sa queue comme un éventail.", "pt": "O pavão abre a cauda como um leque." },
+        { "level": "C1-C2", "fr": "C'est le paon qui, en déployant ses couleurs, transforme une cour en théâtre.", "pt": "É o pavão que, ao abrir suas cores, transforma um pátio em teatro." }
       ]
     },
     {
-      "term": "l'oiseau",
-      "definitionPt": "o pássaro",
-      "definitionFr": "Animal à plumes qui peut voler.",
-      "inflections": ["l'oiseau", "un oiseau", "des oiseaux"],
-      "ptTargets": ["pássaro", "ave"],
+      "term": "la queue",
+      "definitionPt": "a cauda",
+      "definitionFr": "Partie arrière d'un animal.",
+      "inflections": ["la queue", "une queue", "des queues"],
+      "ptTargets": ["cauda"],
       "examples": [
-        { "level": "A1", "fr": "L'oiseau chante.", "pt": "O pássaro canta." },
-        { "level": "A2-B1", "fr": "Les oiseaux du zoo sont très colorés.", "pt": "Os pássaros do zoológico são muito coloridos." },
-        { "level": "B2", "fr": "Des oiseaux rares volaient au-dessus des cages.", "pt": "Pássaros raros voavam sobre as jaulas." },
-        { "level": "C1-C2", "fr": "L'oiseau en cage chante pourtant la liberté.", "pt": "O pássaro na gaiola canta, no entanto, a liberdade." }
+        { "level": "A1", "fr": "La queue est longue.", "pt": "A cauda é comprida." },
+        { "level": "A2-B1", "fr": "Le paon ouvre sa queue.", "pt": "O pavão abre a cauda." },
+        { "level": "B2", "fr": "La queue du paon se déploie en un éventail coloré.", "pt": "A cauda do pavão se abre num leque colorido." },
+        { "level": "C1-C2", "fr": "C'est la queue qui, déployée, fait du paon une fête à lui seul.", "pt": "É a cauda que, aberta, faz do pavão uma festa por si só." }
       ]
     },
     {
-      "term": "nourrir",
-      "definitionPt": "alimentar",
-      "definitionFr": "Donner à manger.",
-      "inflections": ["je nourris", "nous nourrissons", "nourri"],
-      "ptTargets": ["alimentar"],
+      "term": "l'éventail",
+      "definitionPt": "o leque",
+      "definitionFr": "Objet qui se déploie.",
+      "inflections": ["l'éventail", "un éventail", "des éventails"],
+      "ptTargets": ["leque"],
       "examples": [
-        { "level": "A1", "fr": "Je nourris le chat.", "pt": "Alimento o gato." },
-        { "level": "A2-B1", "fr": "Íris a nourri les chèvres avec de l'herbe.", "pt": "Íris alimentou as cabras com capim." },
-        { "level": "B2", "fr": "Il est interdit de nourrir les animaux du zoo.", "pt": "É proibido alimentar os animais do zoológico." },
-        { "level": "C1-C2", "fr": "Nourrir un animal, c'est apprivoiser sa confiance.", "pt": "Alimentar um animal é conquistar sua confiança." }
-      ]
-    },
-    {
-      "term": "le parc",
-      "definitionPt": "o parque",
-      "definitionFr": "Espace vert dans une ville.",
-      "inflections": ["le parc", "un parc", "des parcs"],
-      "ptTargets": ["parque"],
-      "examples": [
-        { "level": "A1", "fr": "Le parc est vert.", "pt": "O parque é verde." },
-        { "level": "A2-B1", "fr": "La Citadelle est au milieu d'un grand parc.", "pt": "A Citadelle fica no meio de um grande parque." },
-        { "level": "B2", "fr": "Le parc de la Citadelle attire les familles le dimanche.", "pt": "O parque da Citadelle atrai as famílias aos domingos." },
-        { "level": "C1-C2", "fr": "Le parc respire au rythme des saisons, des courses d'enfants et des promenades.", "pt": "O parque respira no ritmo das estações, das corridas de crianças e dos passeios." }
-      ]
-    },
-    {
-      "term": "gratuit",
-      "definitionPt": "gratuito",
-      "definitionFr": "Qui ne coûte rien.",
-      "inflections": ["gratuit", "gratuite", "gratuits"],
-      "ptTargets": ["gratuito"],
-      "examples": [
-        { "level": "A1", "fr": "Le musée est gratuit pour les enfants.", "pt": "O museu é gratuito para crianças." },
-        { "level": "A2-B1", "fr": "Le zoo de Lille est gratuit, c'est rare !", "pt": "O zoológico de Lille é gratuito, que raridade!" },
-        { "level": "B2", "fr": "L'entrée du zoo est gratuite le premier dimanche du mois.", "pt": "A entrada do zoológico é gratuita no primeiro domingo do mês." },
-        { "level": "C1-C2", "fr": "Ce qui est gratuit pour les visiteurs est précieux pour la ville.", "pt": "O que é gratuito para os visitantes é precioso para a cidade." }
-      ]
-    },
-    {
-      "term": "pique-niquer",
-      "definitionPt": "fazer piquenique",
-      "definitionFr": "Manger dehors, sur l'herbe.",
-      "inflections": ["je pique-nique", "nous pique-niquons", "pique-niqué"],
-      "ptTargets": ["piquenique"],
-      "examples": [
-        { "level": "A1", "fr": "Nous pique-niquons au parc.", "pt": "Fazemos piquenique no parque." },
-        { "level": "A2-B1", "fr": "Après le zoo, nous avons pique-niqué dans l'herbe.", "pt": "Depois do zoológico, fizemos piquenique na grama." },
-        { "level": "B2", "fr": "Ils ont pique-niqué au bord de la fontaine.", "pt": "Eles fizeram piquenique à beira da fonte." },
-        { "level": "C1-C2", "fr": "Pique-niquer le dimanche est une institution française.", "pt": "Fazer piquenique aos domingos é uma instituição francesa." }
-      ]
-    },
-    {
-      "term": "heureux",
-      "definitionPt": "feliz",
-      "definitionFr": "Qui éprouve du bonheur.",
-      "inflections": ["heureux", "heureuse", "heureux"],
-      "ptTargets": ["feliz"],
-      "examples": [
-        { "level": "A1", "fr": "Je suis heureux.", "pt": "Estou feliz." },
-        { "level": "A2-B1", "fr": "Nous avons été heureux au zoo.", "pt": "Ficamos felizes no zoológico." },
-        { "level": "B2", "fr": "Elle était heureuse de voir Íris sourire.", "pt": "Ela estava feliz de ver Íris sorrir." },
-        { "level": "C1-C2", "fr": "Le bonheur des siens rend un homme heureux partout où il vit.", "pt": "A felicidade dos seus torna um homem feliz em qualquer lugar onde viva." }
+        { "level": "A1", "fr": "L'éventail est coloré.", "pt": "O leque é colorido." },
+        { "level": "A2-B1", "fr": "Le paon ouvre sa queue comme un éventail.", "pt": "O pavão abre a cauda como um leque." },
+        { "level": "B2", "fr": "L'éventail se déplie en un geste gracieux.", "pt": "O leque se abre num gesto gracioso." },
+        { "level": "C1-C2", "fr": "C'est l'éventail qui, d'un mouvement, fait naître de la fraîcheur et de l'élégance.", "pt": "É o leque que, num movimento, faz nascer frescor e elegância." }
       ]
     },
     {
       "term": "l'enclos",
-      "definitionPt": "o recinto, o cercado",
+      "definitionPt": "o cercado",
       "definitionFr": "Espace fermé pour les animaux.",
       "inflections": ["l'enclos", "un enclos", "des enclos"],
-      "ptTargets": ["recinto", "cercado"],
+      "ptTargets": ["cercado", "recinto"],
       "examples": [
-        { "level": "A1", "fr": "L'enclos est grand.", "pt": "O recinto é grande." },
-        { "level": "A2-B1", "fr": "Les zèbres couraient dans leur enclos.", "pt": "As zebras corriam em seu recinto." },
-        { "level": "B2", "fr": "L'enclos des singes a été rénové cette année.", "pt": "O recinto dos macacos foi reformado este ano." },
-        { "level": "C1-C2", "fr": "Même dans un enclos, l'animal garde sa dignité sauvage.", "pt": "Mesmo num recinto, o animal conserva sua dignidade selvagem." }
+        { "level": "A1", "fr": "L'enclos est grand.", "pt": "O cercado é grande." },
+        { "level": "A2-B1", "fr": "Ils s'assoient près de l'enclos des loutres.", "pt": "Eles se sentam perto do cercado das lontras." },
+        { "level": "B2", "fr": "L'enclos reproduit le milieu naturel des animaux.", "pt": "O cercado reproduz o ambiente natural dos animais." },
+        { "level": "C1-C2", "fr": "C'est l'enclos qui, en protégeant l'animal, le sépare pourtant de sa liberté première.", "pt": "É o cercado que, ao proteger o animal, o separa contudo de sua liberdade primeira." }
+      ]
+    },
+    {
+      "term": "la loutre",
+      "definitionPt": "a lontra",
+      "definitionFr": "Animal qui nage.",
+      "inflections": ["la loutre", "une loutre", "des loutres"],
+      "ptTargets": ["lontra"],
+      "examples": [
+        { "level": "A1", "fr": "La loutre nage.", "pt": "A lontra nada." },
+        { "level": "A2-B1", "fr": "Une loutre glisse dans l'eau.", "pt": "Uma lontra desliza na água." },
+        { "level": "B2", "fr": "Les loutres se déplacent avec une grâce étonnante.", "pt": "As lontras se movem com uma graça surpreendente." },
+        { "level": "C1-C2", "fr": "C'est la loutre qui, vive et silencieuse, rappelle la beauté du geste sans effort.", "pt": "É a lontra que, viva e silenciosa, lembra a beleza do gesto sem esforço." }
+      ]
+    },
+    {
+      "term": "observer",
+      "definitionPt": "observar",
+      "definitionFr": "Regarder avec attention.",
+      "inflections": ["observer", "j'observe", "nous observons"],
+      "ptTargets": ["observar"],
+      "examples": [
+        { "level": "A1", "fr": "J'observe l'oiseau.", "pt": "Eu observo o pássaro." },
+        { "level": "A2-B1", "fr": "Ils observent les animaux.", "pt": "Eles observam os animais." },
+        { "level": "B2", "fr": "Observer demande de la patience et du silence.", "pt": "Observar exige paciência e silêncio." },
+        { "level": "C1-C2", "fr": "C'est en observant sans hâte que l'on saisit les détails qui échappent aux autres.", "pt": "É observando sem pressa que se captam os detalhes que escapam aos outros." }
+      ]
+    },
+    {
+      "term": "respirer",
+      "definitionPt": "respirar",
+      "definitionFr": "Prendre de l'air.",
+      "inflections": ["respirer", "je respire", "nous respirons"],
+      "ptTargets": ["respirar"],
+      "examples": [
+        { "level": "A1", "fr": "Je respire profondément.", "pt": "Eu respiro fundo." },
+        { "level": "A2-B1", "fr": "Les animaux nous rappellent de respirer.", "pt": "Os animais nos lembram de respirar." },
+        { "level": "B2", "fr": "Respirer calmement apaise le corps et l'esprit.", "pt": "Respirar com calma acalma o corpo e a mente." },
+        { "level": "C1-C2", "fr": "C'est en respirant que l'on retrouve, un instant, le rythme simple de la vie.", "pt": "É respirando que se reencontra, por um instante, o ritmo simples da vida." }
+      ]
+    },
+    {
+      "term": "basculer",
+      "definitionPt": "mudar / virar",
+      "definitionFr": "Changer brusquement.",
+      "inflections": ["basculer", "je bascule", "nous basculons"],
+      "ptTargets": ["mudar", "virar"],
+      "examples": [
+        { "level": "A1", "fr": "Tout bascule.", "pt": "Tudo muda." },
+        { "level": "A2-B1", "fr": "Demain, tout peut basculer.", "pt": "Amanhã, tudo pode mudar." },
+        { "level": "B2", "fr": "Un simple indice peut faire basculer toute l'enquête.", "pt": "Uma simples pista pode virar toda a investigação." },
+        { "level": "C1-C2", "fr": "C'est en basculant, parfois, qu'une situation révèle sa véritable nature.", "pt": "É virando, às vezes, que uma situação revela sua verdadeira natureza." }
+      ]
+    },
+    {
+      "term": "le calme",
+      "definitionPt": "a calma",
+      "definitionFr": "État de tranquillité.",
+      "inflections": ["le calme", "un calme"],
+      "ptTargets": ["calma"],
+      "examples": [
+        { "level": "A1", "fr": "Le calme est agréable.", "pt": "A calma é agradável." },
+        { "level": "A2-B1", "fr": "La confiance se construit dans le calme.", "pt": "A confiança se constrói na calma." },
+        { "level": "B2", "fr": "Le calme aide à prendre les bonnes décisions.", "pt": "A calma ajuda a tomar as boas decisões." },
+        { "level": "C1-C2", "fr": "C'est le calme qui, silencieux, prépare la clarté de l'action.", "pt": "É a calma que, silenciosa, prepara a clareza da ação." }
+      ]
+    },
+    {
+      "term": "la veille",
+      "definitionPt": "a véspera",
+      "definitionFr": "Jour avant un événement.",
+      "inflections": ["la veille", "une veille"],
+      "ptTargets": ["véspera"],
+      "examples": [
+        { "level": "A1", "fr": "La veille est calme.", "pt": "A véspera é calma." },
+        { "level": "A2-B1", "fr": "La veille des archives, ils se reposent.", "pt": "Na véspera dos arquivos, eles descansam." },
+        { "level": "B2", "fr": "La veille d'un grand jour, le temps semble suspendu.", "pt": "Na véspera de um grande dia, o tempo parece suspenso." },
+        { "level": "C1-C2", "fr": "C'est la veille qui, silencieuse, concentre toute l'attente du lendemain.", "pt": "É a véspera que, silenciosa, concentra toda a espera do dia seguinte." }
       ]
     }
   ],
   "grammarTip": {
-    "ruleTitle": "Narrer la journée : hier, d'abord, ensuite, enfin",
-    "explanationPt": "Para contar um dia no passado, use marcadores de tempo: 'hier' (ontem), 'd'abord' (primeiro), 'ensuite' (depois), 'enfin' (finalmente). Eles organizam a história e acompanham o Passé Composé.",
-    "exampleFr": "Hier, d'abord nous avons vu les zèbres, ensuite les singes, enfin nous avons pique-niqué.",
-    "examplePt": "Ontem, primeiro vimos as zebras, depois os macacos, finalmente fizemos piquenique.",
-    "practiceQuestion": "Complete: « D'abord, nous avons vu les zèbres, ___, les singes. »",
-    "options": ["ensuite", "hier", "enfin"],
+    "ruleTitle": "Le verbe observer et le verbe respirer",
+    "explanationPt": "Observar: j'observe, nous observons. Respirar: je respire, nous respirons.",
+    "exampleFr": "Ils observent les animaux et respirent calmement.",
+    "examplePt": "Eles observam os animais e respiram com calma.",
+    "practiceQuestion": "Complete: 'Ils _____ les animaux.'",
+    "options": ["observent", "observe", "observons"],
     "correctIndex": 0,
     "points": [
       {
-        "ruleTitle": "Avoir ou être au zoo : les deux auxiliaires",
-        "explanationPt": "Com AVOIR: 'nous avons vu' (vimos), 'Íris a nourri' (Íris alimentou). Com ÊTRE: 'nous sommes allés' (fomos), 'ils sont entrés' (eles entraram). Repare que no zoológico usamos os dois.",
-        "exampleFr": "Nous sommes allés au zoo et nous avons vu les lions.",
-        "examplePt": "Fomos ao zoológico e vimos os leões.",
-        "practiceQuestion": "Complete: « Nous ___ allés au zoo. »",
-        "options": ["sommes", "avons", "sont"],
+        "ruleTitle": "Au pied de",
+        "explanationPt": "'Au pied de' = ao pé de / na base de. 'Au pied de la Citadelle' (Ao pé da Citadela).",
+        "exampleFr": "Le zoo se trouve au pied de la Citadelle.",
+        "examplePt": "O zoológico fica ao pé da Citadela.",
+        "practiceQuestion": "Complete: 'Le zoo est _____ de la Citadelle.'",
+        "options": ["au pied", "au sommet", "à côté"],
         "correctIndex": 0
       },
       {
-        "ruleTitle": "Hier vs aujourd'hui : le contraste du livreur",
-        "explanationPt": "'Hier' (ontem) + passé composé descreve o passado: 'hier, j'ai livré des repas' (ontem entreguei refeições). 'Aujourd'hui' (hoje) + presente descreve o agora: 'aujourd'hui, je visite le zoo' (hoje visito o zoológico).",
-        "exampleFr": "Hier, je passais devant le zoo. Aujourd'hui, j'y entre avec ma fille.",
-        "examplePt": "Ontem, eu passava diante do zoológico. Hoje, entro nele com minha filha.",
-        "practiceQuestion": "Qual palavra indica o passado?",
-        "options": ["hier", "aujourd'hui", "demain"],
+        "ruleTitle": "Se balancer",
+        "explanationPt": "'Se balancer' = balançar-se. 'Les singes se balancent' (Os macacos se balançam).",
+        "exampleFr": "Les singes se balancent dans les arbres.",
+        "examplePt": "Os macacos se balançam nas árvores.",
+        "practiceQuestion": "Complete: 'Les singes se _____.'",
+        "options": ["balancent", "balance", "balançons"],
         "correctIndex": 0
       }
     ]
@@ -220,33 +260,33 @@
   "quizQuestions": [
     {
       "question": "Onde fica o zoológico de Lille?",
-      "options": ["Dentro do parque da Citadelle", "Na place Rihour", "Perto da Porte de Paris"],
+      "options": ["ao pé da Citadela", "na Grand-Place", "no porto"],
       "correctIndex": 0,
-      "explanation": "O zoo de Lille fica dentro do parque da Citadelle, perto do centro."
+      "explanation": "Le zoo se trouve au pied de la Citadelle."
     },
     {
-      "question": "Complete a sequência: « D'abord les zèbres, ___ les singes, enfin les chèvres. »",
-      "options": ["ensuite", "hier", "autrefois"],
+      "question": "O que o pavão faz?",
+      "options": ["abre a cauda", "canta", "dorme"],
       "correctIndex": 0,
-      "explanation": "'D'abord' (primeiro), 'ensuite' (depois), 'enfin' (finalmente) — a ordem da narrativa."
+      "explanation": "Il ouvre sa queue comme un éventail."
     },
     {
-      "question": "Qual frase usa o auxiliar correto?",
-      "options": ["Nous sommes allés au zoo.", "Nous avons allés au zoo.", "Nous sommes vu les lions."],
+      "question": "O que Irlan diz sobre a confiança?",
+      "options": ["que se constrói na calma", "que é rápida", "que não existe"],
       "correctIndex": 0,
-      "explanation": "'Aller' usa ÊTRE: 'nous sommes allés'. 'Voir' usa AVOIR: 'nous avons vu'."
+      "explanation": "Elle se construit dans le calme."
     },
     {
-      "question": "O que Irlan lembrou ao passar pelo zoológico?",
-      "options": ["Que entregava refeições naquele bairro sem nunca entrar no zoo", "Que o zoo é caro", "Que não gosta de animais"],
+      "question": "Complete: 'Ils _____ les animaux.'",
+      "options": ["observent", "observe", "observons"],
       "correctIndex": 0,
-      "explanation": "Irlan passava diante das grades do zoológico todos os dias de scooter, sem nunca entrar."
+      "explanation": "ils observent."
     },
     {
-      "question": "O que Íris fez com as chèvres?",
-      "options": ["Alimentou-as com capim", "Correu atrás delas", "Tirou fotos de longe"],
+      "question": "Complete: 'Le zoo est _____ de la Citadelle.'",
+      "options": ["au pied", "au sommet", "à côté"],
       "correctIndex": 0,
-      "explanation": "Íris nourri (alimentou) as cabras com erva — um momento do dia no zoo."
+      "explanation": "au pied de = ao pé de."
     }
   ]
 }

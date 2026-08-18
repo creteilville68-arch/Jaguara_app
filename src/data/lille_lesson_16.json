@@ -1,252 +1,292 @@
 {
   "id": "lille_lesson_16",
   "cityId": "lille",
-  "domain": "Cotidiano",
+  "domain": "Compras & Cidade",
   "level": "Básico (A2)",
   "titleFr": "Les boutiques du Vieux-Lille",
   "titlePt": "As lojas do Vieux-Lille",
-  "subtitleFr": "La rue de la Monnaie et ses trésors cachés",
-  "subtitlePt": "A rue de la Monnaie e seus tesouros escondidos",
-  "summaryPt": "Nesta Aula 16 (A2), a família passeia pelas lojas do Vieux-Lille, a rue de la Monnaie, com suas fachadas antigas e lojas charmosas. Andréa experimenta um casaco e Íris escolhe um caderno. O aluno pratica o verbo essayer, as perguntas de compra (combien ça coûte ?) e o Passé Composé com AVOIR.",
+  "subtitleFr": "Un carnet, un stylo et une attente",
+  "subtitlePt": "Um caderno, uma caneta e uma espera",
+  "summaryPt": "Na Aula 16 de Lille (A2), Irlan e Andréa percorrem as lojas do Vieux-Lille para comprar material de anotações. O aluno pratica o vocabulário das compras e o verbo 'choisir'.",
   "paragraphs": [
     {
       "id": 1,
-      "fr": "La rue de la Monnaie est pleine de boutiques. Andréa a regardé une vitrine : « Ce manteau est magnifique. Je vais l'essayer. »",
-      "pt": "A rue de la Monnaie está cheia de lojas. Andréa olhou uma vitrine: « Este casaco é magnífico. Vou experimentá-lo. »"
+      "fr": "Avant les archives, Irlan et Andréa traversent les boutiques du Vieux-Lille.",
+      "pt": "Antes dos arquivos, Irlan e Andréa atravessam as lojas do Vieux-Lille."
     },
     {
       "id": 2,
-      "fr": "Dans la boutique, la vendeuse a demandé : « Quelle est votre taille ? » Andréa a essayé le manteau. « Il est parfait. Combien ça coûte ? »",
-      "pt": "Na loja, a vendedora perguntou: « Qual é o seu tamanho? » Andréa experimentou o casaco. « Está perfeito. Quanto custa? »"
+      "fr": "Les vitrines regorgent de livres, de papeterie et de douceurs.",
+      "pt": "As vitrines transbordam de livros, papelaria e doces."
     },
     {
       "id": 3,
-      "fr": "Irlan a acheté une écharpe pour sa mère au Brésil. Íris a choisi un cahier avec une tour Eiffel. « Nous avons dépensé un peu trop », a ri Irlan.",
-      "pt": "Irlan comprou um cachecol para a mãe no Brasil. Íris escolheu um caderno com a Torre Eiffel. « Gastamos um pouco demais », riu Irlan."
+      "fr": "« Il nous faut un carnet neuf et un bon stylo », dit Andréa.",
+      "pt": "« Precisamos de um caderno novo e uma boa caneta », diz Andréa."
     },
     {
       "id": 4,
-      "fr": "Dehors, Irlan a vu un livreur garé devant une boulangerie. « Moi aussi, je me garais ici avec ma scooter. La ville n'a pas changé, mais ma vie, si. »",
-      "pt": "Lá fora, Irlan viu um entregador estacionado diante de uma padaria. « Eu também estacionava aqui com minha scooter. A cidade não mudou, mas minha vida, sim. »"
+      "fr": "Ils entrent dans une papeterie du quartier.",
+      "pt": "Eles entram numa papelaria do bairro."
+    },
+    {
+      "id": 5,
+      "fr": "Andréa choisit un carnet à couverture rouge et un stylo à encre noire.",
+      "pt": "Andréa escolhe um caderno de capa vermelha e uma caneta de tinta preta."
+    },
+    {
+      "id": 6,
+      "fr": "« Pour noter chaque indice, sans rien oublier », dit-elle.",
+      "pt": "« Para anotar cada pista, sem esquecer nada », diz ela."
+    },
+    {
+      "id": 7,
+      "fr": "Pendant qu'elle paie, Irlan regarde la rue par la vitrine.",
+      "pt": "Enquanto ela paga, Irlan olha a rua pela vitrine."
+    },
+    {
+      "id": 8,
+      "fr": "Une silhouette au manteau gris s'arrête devant la boutique.",
+      "pt": "Uma silhueta de sobretudo cinza para diante da loja."
+    },
+    {
+      "id": 9,
+      "fr": "« Il attend que nous sortions », murmure Irlan.",
+      "pt": "« Ele espera que saiamos », murmura Irlan."
+    },
+    {
+      "id": 10,
+      "fr": "Andréa glisse le carnet dans sa poche. « Sortons ensemble, sans courir. »",
+      "pt": "Andréa guarda o caderno no bolso. « Saiamos juntos, sem correr. »"
+    },
+    {
+      "id": 11,
+      "fr": "Ils sortent calmement. La silhouette a déjà disparu au coin de la rue.",
+      "pt": "Eles saem com calma. A silhueta já desapareceu na esquina."
+    },
+    {
+      "id": 12,
+      "fr": "« Il teste notre calme, dit Irlan. Demain, ce sera notre force. »",
+      "pt": "« Ele testa a nossa calma, diz Irlan. Amanhã, isso será a nossa força. »"
     }
   ],
   "vocabularyDictionary": [
     {
       "term": "la boutique",
-      "definitionPt": "a loja, a butique",
+      "definitionPt": "a loja",
       "definitionFr": "Petit magasin.",
       "inflections": ["la boutique", "une boutique", "des boutiques"],
-      "ptTargets": ["loja", "butique"],
+      "ptTargets": ["loja"],
       "examples": [
-        { "level": "A1", "fr": "La boutique est ouverte.", "pt": "A loja está aberta." },
-        { "level": "A2-B1", "fr": "La rue de la Monnaie est pleine de boutiques.", "pt": "A rue de la Monnaie está cheia de lojas." },
-        { "level": "B2", "fr": "Cette boutique vend des vêtements faits à la main.", "pt": "Esta loja vende roupas feitas à mão." },
-        { "level": "C1-C2", "fr": "Les boutiques du Vieux-Lille cachent des trésors derrière leurs façades anciennes.", "pt": "As lojas do Vieux-Lille escondem tesouros atrás de suas fachadas antigas." }
+        { "level": "A1", "fr": "La boutique est petite.", "pt": "A loja é pequena." },
+        { "level": "A2-B1", "fr": "Ils traversent les boutiques du Vieux-Lille.", "pt": "Eles atravessam as lojas do Vieux-Lille." },
+        { "level": "B2", "fr": "Les boutiques du quartier attirent les promeneurs.", "pt": "As lojas do bairro atraem os caminhantes." },
+        { "level": "C1-C2", "fr": "C'est la boutique qui, par sa vitrine, expose les désirs d'une ville.", "pt": "É a loja que, por sua vitrine, expõe os desejos de uma cidade." }
       ]
     },
     {
       "term": "la vitrine",
       "definitionPt": "a vitrine",
-      "definitionFr": "Fenêtre d'un magasin où l'on expose la marchandise.",
+      "definitionFr": "Espace vitré d'un magasin.",
       "inflections": ["la vitrine", "une vitrine", "des vitrines"],
       "ptTargets": ["vitrine"],
       "examples": [
-        { "level": "A1", "fr": "La vitrine est jolie.", "pt": "A vitrine é bonita." },
-        { "level": "A2-B1", "fr": "Andréa a regardé le manteau dans la vitrine.", "pt": "Andréa olhou o casaco na vitrine." },
-        { "level": "B2", "fr": "Les vitrines du Vieux-Lille sont décorées avec soin.", "pt": "As vitrines do Vieux-Lille são decoradas com capricho." },
-        { "level": "C1-C2", "fr": "La vitrine est une promesse : on n'achète pas un objet, on achète un rêve.", "pt": "A vitrine é uma promessa: não se compra um objeto, compra-se um sonho." }
+        { "level": "A1", "fr": "La vitrine est belle.", "pt": "A vitrine é bonita." },
+        { "level": "A2-B1", "fr": "Les vitrines regorgent de papeterie.", "pt": "As vitrines transbordam de papelaria." },
+        { "level": "B2", "fr": "La vitrine reflète la rue et ses passants.", "pt": "A vitrine reflete a rua e seus passantes." },
+        { "level": "C1-C2", "fr": "C'est la vitrine qui, entre deux mondes, sépare et relie à la fois la rue et la boutique.", "pt": "É a vitrine que, entre dois mundos, separa e liga ao mesmo tempo a rua e a loja." }
       ]
     },
     {
-      "term": "le manteau",
-      "definitionPt": "o casaco, o sobretudo",
-      "definitionFr": "Vêtement que l'on porte par-dessus les autres.",
-      "inflections": ["le manteau", "un manteau", "des manteaux"],
-      "ptTargets": ["casaco", "sobretudo"],
+      "term": "la papeterie",
+      "definitionPt": "a papelaria",
+      "definitionFr": "Magasin de papier et stylos.",
+      "inflections": ["la papeterie", "une papeterie", "des papeteries"],
+      "ptTargets": ["papelaria"],
       "examples": [
-        { "level": "A1", "fr": "Le manteau est chaud.", "pt": "O casaco é quente." },
-        { "level": "A2-B1", "fr": "Andréa a essayé un manteau bleu.", "pt": "Andréa experimentou um casaco azul." },
-        { "level": "B2", "fr": "Ce manteau en laine vient d'une boutique du Vieux-Lille.", "pt": "Este casaco de lã vem de uma loja do Vieux-Lille." },
-        { "level": "C1-C2", "fr": "Un bon manteau est le premier ami d'un hiver du Nord.", "pt": "Um bom casaco é o primeiro amigo de um inverno do Norte." }
+        { "level": "A1", "fr": "La papeterie est ouverte.", "pt": "A papelaria está aberta." },
+        { "level": "A2-B1", "fr": "Ils entrent dans une papeterie.", "pt": "Eles entram numa papelaria." },
+        { "level": "B2", "fr": "La papeterie vend des carnets et des stylos de qualité.", "pt": "A papelaria vende cadernos e canetas de qualidade." },
+        { "level": "C1-C2", "fr": "C'est la papeterie qui, par ses cahiers, invite à écrire la suite de sa propre histoire.", "pt": "É a papelaria que, com seus cadernos, convida a escrever a continuação da própria história." }
       ]
     },
     {
-      "term": "essayer",
-      "definitionPt": "experimentar, provar",
-      "definitionFr": "Mettre un vêtement pour voir s'il convient.",
-      "inflections": ["j'essaie", "nous essayons", "essayé"],
-      "ptTargets": ["experimentar", "provar"],
-      "examples": [
-        { "level": "A1", "fr": "J'essaie la veste.", "pt": "Experimento a jaqueta." },
-        { "level": "A2-B1", "fr": "Andréa a essayé le manteau dans la cabine.", "pt": "Andréa experimentou o casaco na cabine." },
-        { "level": "B2", "fr": "Avant d'acheter, il faut toujours essayer.", "pt": "Antes de comprar, é preciso sempre experimentar." },
-        { "level": "C1-C2", "fr": "Essayer, c'est hésiter entre deux images de soi-même.", "pt": "Experimentar é hesitar entre duas imagens de si mesmo." }
-      ]
-    },
-    {
-      "term": "la taille",
-      "definitionPt": "o tamanho, o manequim",
-      "definitionFr": "Dimension des vêtements.",
-      "inflections": ["la taille", "une taille", "des tailles"],
-      "ptTargets": ["tamanho"],
-      "examples": [
-        { "level": "A1", "fr": "Quelle est votre taille ?", "pt": "Qual é o seu tamanho?" },
-        { "level": "A2-B1", "fr": "La vendeuse a demandé la taille d'Andréa.", "pt": "A vendedora perguntou o tamanho de Andréa." },
-        { "level": "B2", "fr": "Cette boutique propose toutes les tailles, du S au XL.", "pt": "Esta loja oferece todos os tamanhos, do P ao GG." },
-        { "level": "C1-C2", "fr": "La taille n'est qu'un chiffre ; l'élégance n'a pas de mesure.", "pt": "O tamanho é só um número; a elegância não tem medida." }
-      ]
-    },
-    {
-      "term": "la vendeuse",
-      "definitionPt": "a vendedora",
-      "definitionFr": "Femme qui vend dans un magasin.",
-      "inflections": ["la vendeuse", "le vendeur", "des vendeuses"],
-      "ptTargets": ["vendedora"],
-      "examples": [
-        { "level": "A1", "fr": "La vendeuse est gentille.", "pt": "A vendedora é simpática." },
-        { "level": "A2-B1", "fr": "La vendeuse a montré le manteau à Andréa.", "pt": "A vendedora mostrou o casaco a Andréa." },
-        { "level": "B2", "fr": "La vendeuse connaissait l'histoire de chaque boutique.", "pt": "A vendedora conhecia a história de cada loja." },
-        { "level": "C1-C2", "fr": "Une bonne vendeuse devine les envies avant même qu'on les formule.", "pt": "Uma boa vendedora adivinha os desejos antes mesmo de serem formulados." }
-      ]
-    },
-    {
-      "term": "l'écharpe",
-      "definitionPt": "o cachecol",
-      "definitionFr": "Tissu porté autour du cou.",
-      "inflections": ["l'écharpe", "une écharpe", "des écharpes"],
-      "ptTargets": ["cachecol", "echarpe"],
-      "examples": [
-        { "level": "A1", "fr": "L'écharpe est rouge.", "pt": "O cachecol é vermelho." },
-        { "level": "A2-B1", "fr": "Irlan a acheté une écharpe pour sa mère.", "pt": "Irlan comprou um cachecol para a mãe." },
-        { "level": "B2", "fr": "Cette écharpe en laine vient du marché de Noël.", "pt": "Este cachecol de lã vem do mercado de Natal." },
-        { "level": "C1-C2", "fr": "Une écharpe offerte traverse l'océan avec tout l'amour d'un fils.", "pt": "Um cachecol oferecido atravessa o oceano com todo o amor de um filho." }
-      ]
-    },
-    {
-      "term": "le cahier",
+      "term": "le carnet",
       "definitionPt": "o caderno",
-      "definitionFr": "Carnet de papier pour écrire.",
-      "inflections": ["le cahier", "un cahier", "des cahiers"],
+      "definitionFr": "Petit cahier de notes.",
+      "inflections": ["le carnet", "un carnet", "des carnets"],
       "ptTargets": ["caderno"],
       "examples": [
-        { "level": "A1", "fr": "Le cahier est sur la table.", "pt": "O caderno está sobre a mesa." },
-        { "level": "A2-B1", "fr": "Íris a choisi un cahier avec une tour Eiffel.", "pt": "Íris escolheu um caderno com a Torre Eiffel." },
-        { "level": "B2", "fr": "Elle écrit ses souvenirs dans un cahier chaque soir.", "pt": "Ela escreve suas lembranças num caderno todas as noites." },
-        { "level": "C1-C2", "fr": "Le cahier garde les secrets que la mémoire efface.", "pt": "O caderno guarda os segredos que a memória apaga." }
+        { "level": "A1", "fr": "Le carnet est neuf.", "pt": "O caderno é novo." },
+        { "level": "A2-B1", "fr": "Andréa choisit un carnet rouge.", "pt": "Andréa escolhe um caderno vermelho." },
+        { "level": "B2", "fr": "Le carnet garde les notes et les indices.", "pt": "O caderno guarda as notas e as pistas." },
+        { "level": "C1-C2", "fr": "C'est le carnet qui, rempli au fil des jours, devient le trésor d'une enquête.", "pt": "É o caderno que, preenchido ao longo dos dias, vira o tesouro de uma investigação." }
       ]
     },
     {
-      "term": "dépenser",
-      "definitionPt": "gastar",
-      "definitionFr": "Payer de l'argent pour acheter.",
-      "inflections": ["je dépense", "nous dépensons", "dépensé"],
-      "ptTargets": ["gastar"],
+      "term": "le stylo",
+      "definitionPt": "a caneta",
+      "definitionFr": "Objet pour écrire.",
+      "inflections": ["le stylo", "un stylo", "des stylos"],
+      "ptTargets": ["caneta"],
       "examples": [
-        { "level": "A1", "fr": "Je dépense trop.", "pt": "Gasto demais." },
-        { "level": "A2-B1", "fr": "Nous avons dépensé beaucoup aujourd'hui.", "pt": "Gastamos muito hoje." },
-        { "level": "B2", "fr": "Elle a dépensé son salaire en cadeaux pour sa famille.", "pt": "Ela gastou o salário em presentes para a família." },
-        { "level": "C1-C2", "fr": "Dépenser pour ceux qu'on aime n'est jamais un mauvais calcul.", "pt": "Gastar com quem se ama nunca é um mau cálculo." }
+        { "level": "A1", "fr": "Le stylo est noir.", "pt": "A caneta é preta." },
+        { "level": "A2-B1", "fr": "Elle choisit un stylo à encre noire.", "pt": "Ela escolhe uma caneta de tinta preta." },
+        { "level": "B2", "fr": "Le stylo glisse sur le papier sans accroc.", "pt": "A caneta desliza sobre o papel sem falhas." },
+        { "level": "C1-C2", "fr": "C'est le stylo qui, entre les doigts, fixe ce que la mémoire laisserait fuir.", "pt": "É a caneta que, entre os dedos, fixa o que a memória deixaria escapar." }
       ]
     },
     {
-      "term": "acheter",
-      "definitionPt": "comprar",
-      "definitionFr": "Obtenir quelque chose en payant.",
-      "inflections": ["j'achète", "nous achetons", "acheté"],
-      "ptTargets": ["comprar"],
+      "term": "choisir",
+      "definitionPt": "escolher",
+      "definitionFr": "Prendre une option.",
+      "inflections": ["choisir", "je choisis", "nous choisissons"],
+      "ptTargets": ["escolher"],
       "examples": [
-        { "level": "A1", "fr": "J'achète du pain.", "pt": "Compro pão." },
-        { "level": "A2-B1", "fr": "Irlan a acheté une écharpe.", "pt": "Irlan comprou um cachecol." },
-        { "level": "B2", "fr": "Nous avons acheté des souvenirs dans chaque ville.", "pt": "Compramos lembranças em cada cidade." },
-        { "level": "C1-C2", "fr": "Acheter un objet du Vieux-Lille, c'est emporter un peu de son histoire.", "pt": "Comprar um objeto do Vieux-Lille é levar um pouco de sua história." }
+        { "level": "A1", "fr": "Je choisis le carnet.", "pt": "Eu escolho o caderno." },
+        { "level": "A2-B1", "fr": "Andréa choisit un carnet rouge.", "pt": "Andréa escolhe um caderno vermelho." },
+        { "level": "B2", "fr": "Choisir le bon outil facilite le travail.", "pt": "Escolher a ferramenta certa facilita o trabalho." },
+        { "level": "C1-C2", "fr": "C'est en choisissant que l'on trace, petit à petit, la forme de sa route.", "pt": "É escolhendo que se traça, pouco a pouco, a forma do próprio caminho." }
       ]
     },
     {
-      "term": "la monnaie",
-      "definitionPt": "a moeda, o troco",
-      "definitionFr": "Argent en pièces ; petite monnaie.",
-      "inflections": ["la monnaie", "une monnaie", "des monnaies"],
-      "ptTargets": ["moeda", "troco"],
+      "term": "l'encre",
+      "definitionPt": "a tinta",
+      "definitionFr": "Liquide pour écrire.",
+      "inflections": ["l'encre", "une encre", "des encres"],
+      "ptTargets": ["tinta"],
       "examples": [
-        { "level": "A1", "fr": "La monnaie est dans le portefeuille.", "pt": "O troco está na carteira." },
-        { "level": "A2-B1", "fr": "La rue de la Monnaie rappelle l'ancien hôtel de la monnaie.", "pt": "A rue de la Monnaie lembra o antigo hotel da moeda." },
-        { "level": "B2", "fr": "L'euro est la monnaie de la France.", "pt": "O euro é a moeda da França." },
-        { "level": "C1-C2", "fr": "Les rues gardent le nom des métiers d'autrefois, comme cette Monnaie d'antan.", "pt": "As ruas guardam o nome dos ofícios de outrora, como essa Monnaie de antigamente." }
+        { "level": "A1", "fr": "L'encre est noire.", "pt": "A tinta é preta." },
+        { "level": "A2-B1", "fr": "Le stylo est à encre noire.", "pt": "A caneta é de tinta preta." },
+        { "level": "B2", "fr": "L'encre fraîche sèche rapidement.", "pt": "A tinta fresca seca rapidamente." },
+        { "level": "C1-C2", "fr": "C'est l'encre qui, une fois posée, fixe une pensée pour longtemps.", "pt": "É a tinta que, uma vez posta, fixa um pensamento por muito tempo." }
       ]
     },
     {
-      "term": "la cabine",
-      "definitionPt": "a cabine (de prova)",
-      "definitionFr": "Petit espace pour essayer des vêtements.",
-      "inflections": ["la cabine", "une cabine", "des cabines"],
-      "ptTargets": ["cabine", "provador"],
+      "term": "noter",
+      "definitionPt": "anotar",
+      "definitionFr": "Écrire pour se souvenir.",
+      "inflections": ["noter", "je note", "nous notons"],
+      "ptTargets": ["anotar"],
       "examples": [
-        { "level": "A1", "fr": "La cabine est libre.", "pt": "A cabine está livre." },
-        { "level": "A2-B1", "fr": "Andréa a essayé le manteau dans la cabine.", "pt": "Andréa experimentou o casaco na cabine." },
-        { "level": "B2", "fr": "Il y avait une longue file devant les cabines.", "pt": "Havia uma longa fila diante das cabines." },
-        { "level": "C1-C2", "fr": "Dans la cabine, on se juge sans indulgence devant le miroir.", "pt": "Na cabine, julga-se a si mesmo sem indulgência diante do espelho." }
+        { "level": "A1", "fr": "Je note mon adresse.", "pt": "Eu anoto meu endereço." },
+        { "level": "A2-B1", "fr": "Pour noter chaque indice, sans rien oublier.", "pt": "Para anotar cada pista, sem esquecer nada." },
+        { "level": "B2", "fr": "Noter les détails permet de reconstituer le fil d'une histoire.", "pt": "Anotar os detalhes permite reconstituir o fio de uma história." },
+        { "level": "C1-C2", "fr": "C'est en notant que l'on transforme un indice fugitif en trace durable.", "pt": "É anotando que se transforma uma pista fugaz em rastro duradouro." }
+      ]
+    },
+    {
+      "term": "payer",
+      "definitionPt": "pagar",
+      "definitionFr": "Donner de l'argent.",
+      "inflections": ["payer", "je paie", "nous payons"],
+      "ptTargets": ["pagar"],
+      "examples": [
+        { "level": "A1", "fr": "Je paie le carnet.", "pt": "Eu pago o caderno." },
+        { "level": "A2-B1", "fr": "Andréa paie à la caisse.", "pt": "Andréa paga no caixa." },
+        { "level": "B2", "fr": "Payer en espèces devient rare.", "pt": "Pagar em dinheiro está se tornando raro." },
+        { "level": "C1-C2", "fr": "C'est en payant que l'on donne, à un achat, sa valeur d'échange.", "pt": "É pagando que se dá a uma compra seu valor de troca." }
+      ]
+    },
+    {
+      "term": "la poche",
+      "definitionPt": "o bolso",
+      "definitionFr": "Partie d'un vêtement.",
+      "inflections": ["la poche", "une poche", "des poches"],
+      "ptTargets": ["bolso"],
+      "examples": [
+        { "level": "A1", "fr": "La poche est pleine.", "pt": "O bolso está cheio." },
+        { "level": "A2-B1", "fr": "Andréa glisse le carnet dans sa poche.", "pt": "Andréa guarda o caderno no bolso." },
+        { "level": "B2", "fr": "Il range ses clés dans sa poche.", "pt": "Ele guarda as chaves no bolso." },
+        { "level": "C1-C2", "fr": "C'est la poche qui, discrète, garde près du corps les objets du quotidien.", "pt": "É o bolso que, discreto, guarda perto do corpo os objetos do cotidiano." }
+      ]
+    },
+    {
+      "term": "disparaître",
+      "definitionPt": "desaparecer",
+      "definitionFr": "Cesser d'être visible.",
+      "inflections": ["disparaître", "je disparais", "nous disparaissons"],
+      "ptTargets": ["desaparecer"],
+      "examples": [
+        { "level": "A1", "fr": "Le soleil disparaît.", "pt": "O sol desaparece." },
+        { "level": "A2-B1", "fr": "La silhouette a disparu au coin de la rue.", "pt": "A silhueta desapareceu na esquina." },
+        { "level": "B2", "fr": "La silhouette disparaît sans laisser de trace.", "pt": "A silhueta desaparece sem deixar rastro." },
+        { "level": "C1-C2", "fr": "C'est en disparaissant que l'inconnu devient une obsession.", "pt": "É desaparecendo que o desconhecido vira uma obsessão." }
+      ]
+    },
+    {
+      "term": "tester",
+      "definitionPt": "testar",
+      "definitionFr": "Vérifier par l'épreuve.",
+      "inflections": ["tester", "je teste", "nous testons"],
+      "ptTargets": ["testar"],
+      "examples": [
+        { "level": "A1", "fr": "Je teste le stylo.", "pt": "Eu testo a caneta." },
+        { "level": "A2-B1", "fr": "Il teste notre calme.", "pt": "Ele testa a nossa calma." },
+        { "level": "B2", "fr": "Tester sa patience fait partie de l'épreuve.", "pt": "Testar a paciência faz parte da provação." },
+        { "level": "C1-C2", "fr": "C'est en testant nos limites que l'on découvre notre véritable force.", "pt": "É testando nossos limites que se descobre a verdadeira força." }
       ]
     }
   ],
   "grammarTip": {
-    "ruleTitle": "Essayer, acheter, dépenser : le Passé Composé des achats",
-    "explanationPt": "Para narrar as compras, use o Passé Composé com AVOIR: 'j'ai acheté' (comprei), 'elle a essayé' (ela experimentou), 'nous avons dépensé' (gastamos). Esses verbos não indicam movimento, por isso usam AVOIR.",
-    "exampleFr": "Andréa a essayé le manteau, puis elle a acheté une écharpe.",
-    "examplePt": "Andréa experimentou o casaco, depois comprou um cachecol.",
-    "practiceQuestion": "Complete: « J'ai ___ une écharpe. »",
-    "options": ["acheté", "acheter", "achetais"],
+    "ruleTitle": "Le verbe choisir et le verbe payer",
+    "explanationPt": "Escolher: je choisis, nous choisissons. Pagar: je paie, nous payons.",
+    "exampleFr": "Andréa choisit un carnet et paie à la caisse.",
+    "examplePt": "Andréa escolhe um caderno e paga no caixa.",
+    "practiceQuestion": "Complete: 'Andréa _____ un carnet.'",
+    "options": ["choisit", "choisis", "choisissons"],
     "correctIndex": 0,
     "points": [
       {
-        "ruleTitle": "Combien ça coûte ? Les questions des achats",
-        "explanationPt": "Perguntas úteis na loja: 'Combien ça coûte ?' (Quanto custa?), 'Quelle est votre taille ?' (Qual é o seu tamanho?), 'Je peux l'essayer ?' (Posso experimentar?), 'Vous avez une cabine ?' (Vocês têm cabine?).",
-        "exampleFr": "« Combien coûte ce manteau ? — Il coûte quatre-vingts euros. »",
-        "examplePt": "« Quanto custa este casaco? — Custa oitenta euros. »",
-        "practiceQuestion": "Como se pergunta o preço?",
-        "options": ["Combien ça coûte ?", "Comment ça va ?", "Qui est-ce ?"],
+        "ruleTitle": "Pendant que",
+        "explanationPt": "'Pendant que' = enquanto. 'Pendant qu'elle paie' (Enquanto ela paga).",
+        "exampleFr": "Pendant qu'elle paie, Irlan regarde la rue.",
+        "examplePt": "Enquanto ela paga, Irlan olha a rua.",
+        "practiceQuestion": "Complete: '_____ elle paie, il regarde la rue.'",
+        "options": ["Pendant que", "Pendant", "Après que"],
         "correctIndex": 0
       },
       {
-        "ruleTitle": "J'essaie / nous essayons : les particularités d'essayer",
-        "explanationPt": "O verbo essayer muda 'y' em 'i' antes de 'e' mudo: 'j'essaie, tu essaies, il essaie', mas 'nous essayons, vous essayez'. No passé: 'j'ai essayé'.",
-        "exampleFr": "J'essaie le manteau, tu essaies la veste, nous essayons les écharpes.",
-        "examplePt": "Eu experimento o casaco, você experimenta a jaqueta, nós experimentamos os cachecóis.",
-        "practiceQuestion": "Complete: « Nous ___ les chaussures. »",
-        "options": ["essayons", "essaions", "essayonsons"],
+        "ruleTitle": "Il faut + nom / verbe",
+        "explanationPt": "'Il faut' = é preciso. 'Il nous faut un carnet' (Precisamos de um caderno).",
+        "exampleFr": "Il nous faut un carnet neuf.",
+        "examplePt": "Precisamos de um caderno novo.",
+        "practiceQuestion": "Complete: 'Il nous _____ un carnet.'",
+        "options": ["faut", "fait", "faux"],
         "correctIndex": 0
       }
     ]
   },
   "quizQuestions": [
     {
-      "question": "O que Andréa experimentou na boutique?",
-      "options": ["Um manteau (casaco)", "Uma écharpe", "Um cahier"],
+      "question": "O que Andréa compra?",
+      "options": ["um caderno e uma caneta", "um casaco", "um mapa"],
       "correctIndex": 0,
-      "explanation": "Andréa viu um casaco na vitrine e o experimentou na cabine."
+      "explanation": "Un carnet rouge et un stylo à encre noire."
     },
     {
-      "question": "Qual é o Passé Composé correto de 'acheter'?",
-      "options": ["J'ai acheté une écharpe.", "J'ai acheter une écharpe.", "Je suis acheté une écharpe."],
+      "question": "O que Irlan vê pela vitrine?",
+      "options": ["a silhueta de sobretudo cinza", "um amigo", "o guia"],
       "correctIndex": 0,
-      "explanation": "'Acheter' usa AVOIR: 'j'ai acheté'."
+      "explanation": "Une silhouette au manteau gris s'arrête devant la boutique."
     },
     {
-      "question": "Complete: « Nous ___ les chaussures. »",
-      "options": ["essayons", "essaions", "essayonsons"],
+      "question": "O que Andréa decide fazer?",
+      "options": ["sair com calma, sem correr", "fugir", "chamar a polícia"],
       "correctIndex": 0,
-      "explanation": "Com 'nous', o verbo essayer mantém o y: 'nous essayons'."
+      "explanation": "Sortons ensemble, sans courir."
     },
     {
-      "question": "O que Irlan comprou?",
-      "options": ["Uma écharpe para a mãe no Brasil", "Um manteau para si", "Um cahier para Íris"],
+      "question": "Complete: 'Andréa _____ un carnet.'",
+      "options": ["choisit", "choisis", "choisissons"],
       "correctIndex": 0,
-      "explanation": "Irlan comprou um cachecol para a mãe, que está no Brasil."
+      "explanation": "elle choisit."
     },
     {
-      "question": "O que Irlan viu na rua?",
-      "options": ["Um livreur estacionado, como ele fazia com a scooter", "Um desfile", "Um acidente"],
+      "question": "Complete: 'Il nous _____ un carnet.'",
+      "options": ["faut", "fait", "faux"],
       "correctIndex": 0,
-      "explanation": "Irlan viu um entregador estacionado e lembrou dos tempos de livreur de scooter."
+      "explanation": "il faut = é preciso."
     }
   ]
 }
