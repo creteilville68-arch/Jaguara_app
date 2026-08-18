@@ -1,252 +1,292 @@
 {
   "id": "lille_lesson_10",
   "cityId": "lille",
-  "domain": "História & Cultura",
+  "domain": "História & Memória",
   "level": "Básico (A2)",
   "titleFr": "La maison natale de Charles de Gaulle",
   "titlePt": "A casa natal de Charles de Gaulle",
-  "subtitleFr": "Au numéro 9 de la rue Princesse, un général est né",
-  "subtitlePt": "No número 9 da rue Princesse, nasceu um general",
-  "summaryPt": "Nesta Aula 10 (A2), a família visita a casa onde Charles de Gaulle nasceu em 22 de novembro de 1890, na rue Princesse, em Lille. Irlan, geógrafo, se emociona com a história. O aluno pratica o Passé Composé com o verbo ÊTRE (il est né, elle est allée) e a concordância do particípio passado com o sujeito.",
+  "subtitleFr": "Un homme, une maison, une mémoire",
+  "subtitlePt": "Um homem, uma casa, uma memória",
+  "summaryPt": "Na Aula 10 de Lille (A2), Irlan e Andréa visitam a casa onde Charles de Gaulle nasceu. O aluno pratica o passado e o vocabulário da família.",
   "paragraphs": [
     {
       "id": 1,
-      "fr": "Aujourd'hui, nous sommes allés au 9, rue Princesse. Charles de Gaulle est né dans cette maison, le 22 novembre 1890. « Il est devenu le général le plus célèbre de France », a dit Irlan.",
-      "pt": "Hoje, fomos ao número 9 da rue Princesse. Charles de Gaulle nasceu nesta casa, em 22 de novembro de 1890. « Ele se tornou o general mais famoso da França », disse Irlan."
+      "fr": "Le matin, Irlan et Andréa visitent la maison natale de Charles de Gaulle.",
+      "pt": "De manhã, Irlan e Andréa visitam a casa natal de Charles de Gaulle."
     },
     {
       "id": 2,
-      "fr": "La visite a commencé par le salon. De Gaulle est parti de Lille à onze ans, avec sa famille. Andréa a souri : « Je suis née ici, moi aussi, à quelques rues d'ici. »",
-      "pt": "A visita começou pela sala. De Gaulle saiu de Lille aos onze anos, com a família. Andréa sorriu: « Eu também nasci aqui, a poucas ruas daqui. »"
+      "fr": "C'est une maison bourgeoise, calme, aux rideaux clairs.",
+      "pt": "É uma casa burguesa, calma, de cortinas claras."
     },
     {
       "id": 3,
-      "fr": "Íris a demandé : « Pourquoi est-il célèbre ? » Irlan a répondu : « Il a libéré la France en 1944 et il est devenu président. C'est un homme très important. »",
-      "pt": "Íris perguntou: « Por que ele é famoso? » Irlan respondeu: « Ele libertou a França em 1944 e se tornou presidente. É um homem muito importante. »"
+      "fr": "« Ici, un grand homme a passé son enfance », dit Andréa.",
+      "pt": "« Aqui, um grande homem passou a infância », diz Andréa."
     },
     {
       "id": 4,
-      "fr": "Devant la maison, Irlan a regardé la rue. « Hier, j'ai livré des pizzas ici avec ma scooter. Aujourd'hui, je visite la maison d'un général. Quelle vie ! »",
-      "pt": "Em frente à casa, Irlan olhou a rua. « Ontem, entreguei pizzas aqui com minha scooter. Hoje, visito a casa de um general. Que vida! »"
+      "fr": "Les pièces racontent la vie d'une famille au début du siècle.",
+      "pt": "Os cômodos contam a vida de uma família no começo do século."
+    },
+    {
+      "id": 5,
+      "fr": "« Chaque maison garde l'histoire de ceux qui l'ont habitée », remarque Irlan.",
+      "pt": "« Cada casa guarda a história de quem a habitou », observa Irlan."
+    },
+    {
+      "id": 6,
+      "fr": "Andréa s'arrête devant un portrait. « Il a changé l'histoire de la France. »",
+      "pt": "Andréa para diante de um retrato. « Ele mudou a história da França. »"
+    },
+    {
+      "id": 7,
+      "fr": "« Et toi, tu es venu de Jaguaquara pour écrire la tienne », sourit-elle.",
+      "pt": "« E você veio de Jaguaquara para escrever a sua », sorri ela."
+    },
+    {
+      "id": 8,
+      "fr": "Irlan baisse les yeux. « Mon histoire commence aussi dans une maison. »",
+      "pt": "Irlan abaixa os olhos. « Minha história também começa numa casa. »"
+    },
+    {
+      "id": 9,
+      "fr": "« La maison de ta mère, de ton père et de tes sœurs. »",
+      "pt": "« A casa da sua mãe, do seu pai e das suas irmãs. »"
+    },
+    {
+      "id": 10,
+      "fr": "« Peut-être que le nom que nous cherchons vient de cette maison. »",
+      "pt": "« Talvez o nome que procuramos venha dessa casa. »"
+    },
+    {
+      "id": 11,
+      "fr": "Andréa serre sa main. « Nous allons le retrouver. Je le sens. »",
+      "pt": "Andréa aperta a mão dele. « Nós vamos encontrá-lo. Eu sinto. »"
+    },
+    {
+      "id": 12,
+      "fr": "En sortant, Irlan regarde la façade. « Chaque maison est une page d'un pays. »",
+      "pt": "Ao sair, Irlan olha a fachada. « Cada casa é uma página de um país. »"
     }
   ],
   "vocabularyDictionary": [
     {
-      "term": "naître",
-      "definitionPt": "nascer",
-      "definitionFr": "Venir au monde.",
-      "inflections": ["il naît", "elle est née", "ils sont nés"],
-      "ptTargets": ["nascer"],
+      "term": "la maison",
+      "definitionPt": "a casa",
+      "definitionFr": "Lieu où l'on habite.",
+      "inflections": ["la maison", "une maison", "des maisons"],
+      "ptTargets": ["casa"],
       "examples": [
-        { "level": "A1", "fr": "Je suis né au Brésil.", "pt": "Eu nasci no Brasil." },
-        { "level": "A2-B1", "fr": "De Gaulle est né à Lille en 1890.", "pt": "De Gaulle nasceu em Lille em 1890." },
-        { "level": "B2", "fr": "Elle est née dans cette maison, au cœur du Vieux-Lille.", "pt": "Ela nasceu nesta casa, no coração do Vieux-Lille." },
-        { "level": "C1-C2", "fr": "Né dans une famille patriote, il a consacré sa vie à la France.", "pt": "Nascido numa família patriota, ele dedicou a vida à França." }
+        { "level": "A1", "fr": "La maison est calme.", "pt": "A casa é calma." },
+        { "level": "A2-B1", "fr": "Ils visitent la maison natale de De Gaulle.", "pt": "Eles visitam a casa natal de De Gaulle." },
+        { "level": "B2", "fr": "La maison a conservé l'atmosphère de l'époque.", "pt": "A casa conservou a atmosfera da época." },
+        { "level": "C1-C2", "fr": "C'est la maison qui, de pièce en pièce, garde la présence de ceux qui l'ont habitée.", "pt": "É a casa que, de cômodo em cômodo, guarda a presença de quem a habitou." }
       ]
     },
     {
-      "term": "le général",
-      "definitionPt": "o general",
-      "definitionFr": "Grade militaire la plus élevée.",
-      "inflections": ["le général", "des généraux", "la générale"],
-      "ptTargets": ["general"],
+      "term": "l'enfance",
+      "definitionPt": "a infância",
+      "definitionFr": "Période de la vie d'un enfant.",
+      "inflections": ["l'enfance", "une enfance"],
+      "ptTargets": ["infância"],
       "examples": [
-        { "level": "A1", "fr": "Le général parle à l'armée.", "pt": "O general fala com o exército." },
-        { "level": "A2-B1", "fr": "Charles de Gaulle est devenu général en 1940.", "pt": "Charles de Gaulle tornou-se general em 1940." },
-        { "level": "B2", "fr": "Le général a dirigé la résistance depuis Londres.", "pt": "O general dirigiu a resistência desde Londres." },
-        { "level": "C1-C2", "fr": "L'Appel du 18 Juin a fait du général une figure légendaire.", "pt": "O Apelo de 18 de Junho tornou o general uma figura lendária." }
-      ]
-    },
-    {
-      "term": "libérer",
-      "definitionPt": "libertar",
-      "definitionFr": "Rendre libre un pays, une ville.",
-      "inflections": ["je libère", "nous libérons", "libéré"],
-      "ptTargets": ["libertar"],
-      "examples": [
-        { "level": "A1", "fr": "Nous libérons les oiseaux.", "pt": "Nós libertamos os pássaros." },
-        { "level": "A2-B1", "fr": "Paris a été libérée en août 1944.", "pt": "Paris foi libertada em agosto de 1944." },
-        { "level": "B2", "fr": "Les Alliés ont libéré la France ville après ville.", "pt": "Os Aliados libertaram a França cidade após cidade." },
-        { "level": "C1-C2", "fr": "Libérer un peuple exige des sacrifices immenses.", "pt": "Libertar um povo exige sacrifícios imensos." }
-      ]
-    },
-    {
-      "term": "la rue",
-      "definitionPt": "a rua",
-      "definitionFr": "Voie de circulation dans une ville.",
-      "inflections": ["la rue", "une rue", "des rues"],
-      "ptTargets": ["rua"],
-      "examples": [
-        { "level": "A1", "fr": "La rue est longue.", "pt": "A rua é comprida." },
-        { "level": "A2-B1", "fr": "La maison est au numéro 9 de la rue Princesse.", "pt": "A casa fica no número 9 da rue Princesse." },
-        { "level": "B2", "fr": "Cette rue changeait d'aspect selon les saisons.", "pt": "Esta rua mudava de aspecto segundo as estações." },
-        { "level": "C1-C2", "fr": "Les pavés de cette rue ont entendu des siècles d'histoire.", "pt": "Os paralelepípedos desta rua ouviram séculos de história." }
-      ]
-    },
-    {
-      "term": "président",
-      "definitionPt": "presidente",
-      "definitionFr": "Chef d'un État ou d'une assemblée.",
-      "inflections": ["le président", "la présidente", "les présidents"],
-      "ptTargets": ["presidente"],
-      "examples": [
-        { "level": "A1", "fr": "Le président habite à Paris.", "pt": "O presidente mora em Paris." },
-        { "level": "A2-B1", "fr": "De Gaulle est devenu président de la République en 1958.", "pt": "De Gaulle tornou-se presidente da República em 1958." },
-        { "level": "B2", "fr": "Le président a fondé la Ve République.", "pt": "O presidente fundou a Quinta República." },
-        { "level": "C1-C2", "fr": "Un président se juge à la hauteur des épreuves.", "pt": "Um presidente se julga pela altura das provações." }
-      ]
-    },
-    {
-      "term": "l'appel",
-      "definitionPt": "o apelo, a convocação",
-      "definitionFr": "Action de demander, de convoquer.",
-      "inflections": ["l'appel", "un appel", "des appels"],
-      "ptTargets": ["apelo", "chamada"],
-      "examples": [
-        { "level": "A1", "fr": "J'ai reçu un appel.", "pt": "Recebi uma ligação." },
-        { "level": "A2-B1", "fr": "L'appel du 18 juin a encouragé les Français.", "pt": "O apelo de 18 de junho encorajou os franceses." },
-        { "level": "B2", "fr": "Cet appel à la résistance a marqué l'histoire.", "pt": "Esse apelo à resistência marcou a história." },
-        { "level": "C1-C2", "fr": "Son appel, diffusé sur la BBC, a réveillé l'espoir.", "pt": "Seu apelo, transmitido pela BBC, despertou a esperança." }
-      ]
-    },
-    {
-      "term": "la visite",
-      "definitionPt": "a visita",
-      "definitionFr": "Action de visiter un lieu.",
-      "inflections": ["la visite", "une visite", "des visites"],
-      "ptTargets": ["visita"],
-      "examples": [
-        { "level": "A1", "fr": "La visite est à trois heures.", "pt": "A visita é às três horas." },
-        { "level": "A2-B1", "fr": "La visite de la maison a duré une heure.", "pt": "A visita à casa durou uma hora." },
-        { "level": "B2", "fr": "Nous avons fait une visite guidée de la maison natale.", "pt": "Fizemos uma visita guiada à casa natal." },
-        { "level": "C1-C2", "fr": "Cette visite nous a plongés dans l'intimité du général.", "pt": "Essa visita nos mergulhou na intimidade do general." }
-      ]
-    },
-    {
-      "term": "naître à",
-      "definitionPt": "nascer em (cidade)",
-      "definitionFr": "Venir au monde dans un lieu.",
-      "inflections": ["né à", "née à", "nés à"],
-      "ptTargets": ["nascer em"],
-      "examples": [
-        { "level": "A1", "fr": "Je suis né à São Paulo.", "pt": "Nasci em São Paulo." },
-        { "level": "A2-B1", "fr": "De Gaulle est né à Lille, dans le Nord.", "pt": "De Gaulle nasceu em Lille, no Norte." },
-        { "level": "B2", "fr": "Née à Lille, Andréa connaissait chaque recoin de la ville.", "pt": "Nascida em Lille, Andréa conhecia cada canto da cidade." },
-        { "level": "C1-C2", "fr": "Né à deux pas de la Grand-Place, il portait Lille dans son cœur.", "pt": "Nascido a dois passos da Grand-Place, ele carregava Lille no coração." }
-      ]
-    },
-    {
-      "term": "l'armée",
-      "definitionPt": "o exército",
-      "definitionFr": "Ensemble des forces militaires d'un pays.",
-      "inflections": ["l'armée", "une armée", "des armées"],
-      "ptTargets": ["exército"],
-      "examples": [
-        { "level": "A1", "fr": "L'armée est au camp.", "pt": "O exército está no acampamento." },
-        { "level": "A2-B1", "fr": "De Gaulle a rejoint l'armée en 1909.", "pt": "De Gaulle entrou para o exército em 1909." },
-        { "level": "B2", "fr": "L'armée française s'est réorganisée après la défaite.", "pt": "O exército francês se reorganizou após a derrota." },
-        { "level": "C1-C2", "fr": "Le général a modernisé une armée meurtrie par la guerre.", "pt": "O general modernizou um exército ferido pela guerra." }
-      ]
-    },
-    {
-      "term": "l'Histoire",
-      "definitionPt": "a História",
-      "definitionFr": "Étude du passé des peuples.",
-      "inflections": ["l'Histoire", "une histoire", "des histoires"],
-      "ptTargets": ["história"],
-      "examples": [
-        { "level": "A1", "fr": "J'aime les histoires.", "pt": "Eu gosto de histórias." },
-        { "level": "A2-B1", "fr": "L'Histoire de France est pleine de grands hommes.", "pt": "A História da França está cheia de grandes homens." },
-        { "level": "B2", "fr": "Ce quartier raconte l'Histoire de la Flandre.", "pt": "Esse bairro conta a História da Flandres." },
-        { "level": "C1-C2", "fr": "L'Histoire se construit dans les petites rues comme celle-ci.", "pt": "A História se constrói nas pequenas ruas como esta." }
+        { "level": "A1", "fr": "L'enfance est douce.", "pt": "A infância é doce." },
+        { "level": "A2-B1", "fr": "De Gaulle a passé son enfance ici.", "pt": "De Gaulle passou a infância aqui." },
+        { "level": "B2", "fr": "L'enfance laisse des traces profondes.", "pt": "A infância deixa marcas profundas." },
+        { "level": "C1-C2", "fr": "C'est l'enfance qui, par ses images, continue de nourrir l'adulte.", "pt": "É a infância que, por suas imagens, continua a alimentar o adulto." }
       ]
     },
     {
       "term": "la famille",
       "definitionPt": "a família",
-      "definitionFr": "Personnes unies par le sang ou le mariage.",
+      "definitionFr": "Parents et enfants.",
       "inflections": ["la famille", "une famille", "des familles"],
       "ptTargets": ["família"],
       "examples": [
-        { "level": "A1", "fr": "Ma famille est au Brésil.", "pt": "Minha família está no Brasil." },
-        { "level": "A2-B1", "fr": "La famille de De Gaulle a quitté Lille en 1901.", "pt": "A família de De Gaulle deixou Lille em 1901." },
-        { "level": "B2", "fr": "Toute la famille est venue visiter la maison natale.", "pt": "Toda a família veio visitar a casa natal." },
-        { "level": "C1-C2", "fr": "Une famille fière de ses racines traverse les époques.", "pt": "Uma família orgulhosa de suas raízes atravessa as épocas." }
+        { "level": "A1", "fr": "La famille est importante.", "pt": "A família é importante." },
+        { "level": "A2-B1", "fr": "Les pièces racontent la vie d'une famille.", "pt": "Os cômodos contam a vida de uma família." },
+        { "level": "B2", "fr": "La famille transmet ses valeurs de génération en génération.", "pt": "A família transmite seus valores de geração em geração." },
+        { "level": "C1-C2", "fr": "C'est la famille qui, même de loin, reste le premier repère d'une vie.", "pt": "É a família que, mesmo de longe, continua sendo o primeiro ponto de referência de uma vida." }
       ]
     },
     {
-      "term": "quitter",
-      "definitionPt": "deixar, sair de",
-      "definitionFr": "Partir d'un lieu.",
-      "inflections": ["je quitte", "nous quittons", "quitté"],
-      "ptTargets": ["deixar", "sair de"],
+      "term": "la pièce",
+      "definitionPt": "o cômodo",
+      "definitionFr": "Partie d'une maison.",
+      "inflections": ["la pièce", "une pièce", "des pièces"],
+      "ptTargets": ["cômodo"],
       "examples": [
-        { "level": "A1", "fr": "Je quitte la maison à huit heures.", "pt": "Saio de casa às oito horas." },
-        { "level": "A2-B1", "fr": "De Gaulle a quitté Lille à onze ans.", "pt": "De Gaulle deixou Lille aos onze anos." },
-        { "level": "B2", "fr": "Elle a quitté sa ville natale sans se retourner.", "pt": "Ela deixou sua cidade natal sem olhar para trás." },
-        { "level": "C1-C2", "fr": "Quitter son pays est l'épreuve la plus difficile pour un immigrant.", "pt": "Deixar seu país é a prova mais difícil para um imigrante." }
+        { "level": "A1", "fr": "La pièce est claire.", "pt": "O cômodo é claro." },
+        { "level": "A2-B1", "fr": "Les pièces racontent une époque.", "pt": "Os cômodos contam uma época." },
+        { "level": "B2", "fr": "Chaque pièce conserve ses meubles d'origine.", "pt": "Cada cômodo conserva seus móveis originais." },
+        { "level": "C1-C2", "fr": "C'est la pièce qui, par ses objets, fait revivre les gestes de ses anciens habitants.", "pt": "É o cômodo que, por seus objetos, faz reviver os gestos de seus antigos moradores." }
+      ]
+    },
+    {
+      "term": "le portrait",
+      "definitionPt": "o retrato",
+      "definitionFr": "Image d'une personne.",
+      "inflections": ["le portrait", "un portrait", "des portraits"],
+      "ptTargets": ["retrato"],
+      "examples": [
+        { "level": "A1", "fr": "Le portrait est ancien.", "pt": "O retrato é antigo." },
+        { "level": "A2-B1", "fr": "Andréa s'arrête devant un portrait.", "pt": "Andréa para diante de um retrato." },
+        { "level": "B2", "fr": "Le portrait accroché au mur regarde les visiteurs.", "pt": "O retrato pendurado na parede olha os visitantes." },
+        { "level": "C1-C2", "fr": "C'est le portrait qui, figé, garde vivant le regard de celui qui est parti.", "pt": "É o retrato que, imóvel, mantém vivo o olhar de quem partiu." }
+      ]
+    },
+    {
+      "term": "l'histoire",
+      "definitionPt": "a história",
+      "definitionFr": "Récit du passé.",
+      "inflections": ["l'histoire", "une histoire", "des histoires"],
+      "ptTargets": ["história"],
+      "examples": [
+        { "level": "A1", "fr": "L'histoire est riche.", "pt": "A história é rica." },
+        { "level": "A2-B1", "fr": "Il a changé l'histoire de la France.", "pt": "Ele mudou a história da França." },
+        { "level": "B2", "fr": "Chaque maison raconte une part de l'histoire.", "pt": "Cada casa conta uma parte da história." },
+        { "level": "C1-C2", "fr": "C'est l'histoire qui, écrite dans les murs, donne son épaisseur au présent.", "pt": "É a história que, escrita nas paredes, dá sua densidade ao presente." }
+      ]
+    },
+    {
+      "term": "le siècle",
+      "definitionPt": "o século",
+      "definitionFr": "Période de cent ans.",
+      "inflections": ["le siècle", "un siècle", "des siècles"],
+      "ptTargets": ["século"],
+      "examples": [
+        { "level": "A1", "fr": "Le siècle est long.", "pt": "O século é longo." },
+        { "level": "A2-B1", "fr": "La maison date du début du siècle.", "pt": "A casa data do começo do século." },
+        { "level": "B2", "fr": "Le début du siècle dernier a vu naître de grands changements.", "pt": "O começo do século passado viu nascer grandes mudanças." },
+        { "level": "C1-C2", "fr": "C'est le siècle qui, en passant, laisse sur les maisons la patine du temps.", "pt": "É o século que, ao passar, deixa nas casas a pátina do tempo." }
+      ]
+    },
+    {
+      "term": "le nom",
+      "definitionPt": "o nome",
+      "definitionFr": "Mot qui désigne une personne.",
+      "inflections": ["le nom", "un nom", "des noms"],
+      "ptTargets": ["nome"],
+      "examples": [
+        { "level": "A1", "fr": "Le nom est écrit.", "pt": "O nome está escrito." },
+        { "level": "A2-B1", "fr": "Le nom que nous cherchons vient peut-être de là.", "pt": "O nome que procuramos talvez venha daí." },
+        { "level": "B2", "fr": "Retrouver un nom dans les archives demande de la patience.", "pt": "Encontrar um nome nos arquivos exige paciência." },
+        { "level": "C1-C2", "fr": "C'est le nom qui, prononcé, fait revivre une personne et son histoire.", "pt": "É o nome que, pronunciado, faz reviver uma pessoa e sua história." }
+      ]
+    },
+    {
+      "term": "la mère",
+      "definitionPt": "a mãe",
+      "definitionFr": "Parente qui donne la vie.",
+      "inflections": ["la mère", "une mère", "des mères"],
+      "ptTargets": ["mãe"],
+      "examples": [
+        { "level": "A1", "fr": "La mère appelle.", "pt": "A mãe chama." },
+        { "level": "A2-B1", "fr": "Il pense à sa mère et à son père.", "pt": "Ele pensa na mãe e no pai." },
+        { "level": "B2", "fr": "Sa mère lui a transmis le goût des cartes.", "pt": "Sua mãe lhe transmitiu o gosto pelos mapas." },
+        { "level": "C1-C2", "fr": "C'est la mère qui, souvent, est le premier pays que l'on apprend à aimer.", "pt": "É a mãe que, muitas vezes, é o primeiro país que se aprende a amar." }
+      ]
+    },
+    {
+      "term": "le père",
+      "definitionPt": "o pai",
+      "definitionFr": "Parent masculin.",
+      "inflections": ["le père", "un père", "des pères"],
+      "ptTargets": ["pai"],
+      "examples": [
+        { "level": "A1", "fr": "Le père travaille.", "pt": "O pai trabalha." },
+        { "level": "A2-B1", "fr": "Il parle de son père et de ses sœurs.", "pt": "Ele fala do pai e das irmãs." },
+        { "level": "B2", "fr": "Son père lui racontait les routes de la Bahia.", "pt": "Seu pai lhe contava as estradas da Bahia." },
+        { "level": "C1-C2", "fr": "C'est le père qui, par ses récits, ouvre à l'enfant le goût du monde.", "pt": "É o pai que, com seus relatos, abre na criança o gosto pelo mundo." }
+      ]
+    },
+    {
+      "term": "la sœur",
+      "definitionPt": "a irmã",
+      "definitionFr": "Fille des mêmes parents.",
+      "inflections": ["la sœur", "une sœur", "des sœurs"],
+      "ptTargets": ["irmã"],
+      "examples": [
+        { "level": "A1", "fr": "La sœur sourit.", "pt": "A irmã sorri." },
+        { "level": "A2-B1", "fr": "Il a deux sœurs au Brésil.", "pt": "Ele tem duas irmãs no Brasil." },
+        { "level": "B2", "fr": "Ses sœurs lui écrivent depuis Jaguaquara.", "pt": "Suas irmãs lhe escrevem de Jaguaquara." },
+        { "level": "C1-C2", "fr": "C'est la sœur qui, complice, garde les souvenirs que les années n'effacent pas.", "pt": "É a irmã que, cúmplice, guarda as lembranças que os anos não apagam." }
+      ]
+    },
+    {
+      "term": "sentir",
+      "definitionPt": "sentir",
+      "definitionFr": "Percevoir par l'intuition.",
+      "inflections": ["sentir", "je sens", "nous sentons"],
+      "ptTargets": ["sentir"],
+      "examples": [
+        { "level": "A1", "fr": "Je sens le parfum.", "pt": "Eu sinto o perfume." },
+        { "level": "A2-B1", "fr": "Nous allons le retrouver, je le sens.", "pt": "Nós vamos encontrá-lo, eu sinto." },
+        { "level": "B2", "fr": "Elle sent que la réponse est proche.", "pt": "Ela sente que a resposta está próxima." },
+        { "level": "C1-C2", "fr": "C'est en sentant, parfois, que l'on sait ce que la raison ne prouve pas encore.", "pt": "É sentindo, às vezes, que se sabe o que a razão ainda não prova." }
       ]
     }
   ],
   "grammarTip": {
-    "ruleTitle": "Le Passé Composé avec ÊTRE (il est né, elle est allée)",
-    "explanationPt": "Alguns verbos formam o Passé Composé com ÊTRE, não com AVOIR: nascer, partir, chegar, ir, vir, entrar, sair, cair, subir, descer, morrer, ficar, voltar. O particípio concorda com o sujeito: 'il est né' (ele nasceu), 'elle est née' (ela nasceu), 'ils sont nés' (eles nasceram).",
-    "exampleFr": "Charles de Gaulle est né à Lille en 1890.",
-    "examplePt": "Charles de Gaulle nasceu em Lille em 1890.",
-    "practiceQuestion": "Complete: « Andréa ___ née à Lille. »",
-    "options": ["est", "a", "sont"],
+    "ruleTitle": "Le passé composé : il a passé, il a changé",
+    "explanationPt": "Passado composto: 'il a passé' (ele passou), 'il a changé' (ele mudou), 'ils ont visité' (eles visitaram).",
+    "exampleFr": "De Gaulle a passé son enfance ici.",
+    "examplePt": "De Gaulle passou a infância aqui.",
+    "practiceQuestion": "Complete: 'Il a _____ l'histoire de la France.'",
+    "options": ["changé", "change", "changée"],
     "correctIndex": 0,
     "points": [
       {
-        "ruleTitle": "Être + participe passé : la liste des verbes",
-        "explanationPt": "Memorize com a sigla DR MRS VANDERTRAMP: Devenir, Revenir, Monter, Rester, Sortir, Venir, Aller, Naître, Descendre, Entrer, Rentrer, Tomber, Arriver, Mourir, Partir. Todos usam ÊTRE e o particípio concorda com o sujeito.",
-        "exampleFr": "Elle est sortie, puis il est rentré.",
-        "examplePt": "Ela saiu, depois ele voltou para casa.",
-        "practiceQuestion": "Qual frase está correta?",
-        "options": ["Elle est allée au musée.", "Elle a allée au musée.", "Elle est allé au musée."],
+        "ruleTitle": "Venir de + infinitif",
+        "explanationPt": "'Venir de' + verbo = acabar de. 'Tu es venu de Jaguaquara' (Você veio de Jaguaquara).",
+        "exampleFr": "Tu es venu de Jaguaquara pour écrire ton histoire.",
+        "examplePt": "Você veio de Jaguaquara para escrever sua história.",
+        "practiceQuestion": "Complete: 'Tu es _____ de Jaguaquara.'",
+        "options": ["venu", "venue", "viens"],
         "correctIndex": 0
       },
       {
-        "ruleTitle": "Naître et mourir : la vie en deux verbes",
-        "explanationPt": "'Naître' (nascer) e 'mourir' (morrer) usam ÊTRE: 'il est né' (ele nasceu), 'il est mort' (ele morreu). São opostos perfeitos e muito usados em biografias.",
-        "exampleFr": "Il est né en 1890 et il est mort en 1970.",
-        "examplePt": "Ele nasceu em 1890 e morreu em 1970.",
-        "practiceQuestion": "Complete: « De Gaulle est ___ en 1970. »",
-        "options": ["mort", "mouru", "morté"],
+        "ruleTitle": "La maison de ta mère",
+        "explanationPt": "Possessão: 'la maison de ta mère' (a casa da sua mãe), 'le nom de ta famille' (o nome da sua família).",
+        "exampleFr": "La maison de ta mère et de ton père.",
+        "examplePt": "A casa da sua mãe e do seu pai.",
+        "practiceQuestion": "Complete: 'La maison _____ ta mère.'",
+        "options": ["de", "à", "du"],
         "correctIndex": 0
       }
     ]
   },
   "quizQuestions": [
     {
-      "question": "Onde nasceu Charles de Gaulle?",
-      "options": ["No número 9 da rue Princesse, em Lille", "Em Paris, no Palais de l'Élysée", "Em Versalhes"],
+      "question": "O que Irlan e Andréa visitam?",
+      "options": ["a casa natal de De Gaulle", "a prefeitura", "a cidadela"],
       "correctIndex": 0,
-      "explanation": "Charles de Gaulle nasceu em 22 de novembro de 1890, no número 9 da rue Princesse, em Lille."
+      "explanation": "Ils visitent la maison natale de Charles de Gaulle."
     },
     {
-      "question": "Qual verbo forma o Passé Composé com ÊTRE?",
-      "options": ["naître", "manger", "acheter"],
+      "question": "O que as peças da casa contam?",
+      "options": ["a vida de uma família", "uma guerra", "um comércio"],
       "correctIndex": 0,
-      "explanation": "'Naître' usa ÊTRE: 'il est né'. 'Manger' e 'acheter' usam AVOIR."
+      "explanation": "Les pièces racontent la vie d'une famille."
     },
     {
-      "question": "Qual é a forma correta com concordância?",
-      "options": ["Andréa est née à Lille.", "Andréa est né à Lille.", "Andréa a née à Lille."],
+      "question": "De onde Irlan veio?",
+      "options": ["Jaguaquara", "Paris", "Amiens"],
       "correctIndex": 0,
-      "explanation": "Com ÊTRE, o particípio concorda com o sujeito feminino: 'née'."
+      "explanation": "Tu es venu de Jaguaquara."
     },
     {
-      "question": "Em que ano De Gaulle se tornou presidente da República?",
-      "options": ["1958", "1944", "1890"],
+      "question": "Complete: 'Il a _____ l'histoire de la France.'",
+      "options": ["changé", "change", "changée"],
       "correctIndex": 0,
-      "explanation": "De Gaulle fundou a Ve République e tornou-se presidente em 1958."
+      "explanation": "passé composé: changé."
     },
     {
-      "question": "O que Irlan disse vendo a casa do general?",
-      "options": ["Ontem entreguei pizzas aqui de scooter, hoje visito a casa de um general.", "Nunca estive nesta rua antes.", "Prefiro ficar em Paris."],
+      "question": "Complete: 'La maison _____ ta mère.'",
+      "options": ["de", "à", "du"],
       "correctIndex": 0,
-      "explanation": "Irlan, ex-livreur, se emocionou: a scooter o levou pelas ruas da história."
+      "explanation": "la maison de ta mère."
     }
   ]
 }

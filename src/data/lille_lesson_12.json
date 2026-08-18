@@ -1,252 +1,292 @@
 {
   "id": "lille_lesson_12",
   "cityId": "lille",
-  "domain": "Cotidiano",
+  "domain": "Cultura & Estação",
   "level": "Básico (A2)",
   "titleFr": "Le marché de Noël de Lille",
   "titlePt": "O mercado de Natal de Lille",
-  "subtitleFr": "Sur la place Rihour, les chalets brillent sous la neige",
-  "subtitlePt": "Na place Rihour, os chalés brilham sob a neve",
-  "summaryPt": "Nesta Aula 12 (A2), dezembro chega a Lille e a família visita o mercado de Natal da place Rihour: chalés de madeira, vinho quente, spéculoos e presentes para a família no Brasil. O aluno pratica o Futur Proche (aller + infinitif) para anunciar intenções e o vocabulário do inverno e das compras.",
+  "subtitleFr": "Des lumières et une veille patiente",
+  "subtitlePt": "Luzes e uma vigília paciente",
+  "summaryPt": "Na Aula 12 de Lille (A2), Irlan e Andréa passeiam pelo mercado de Natal e continuam a vigília pelo arquivo. O aluno pratica o vocabulário do Natal e o verbo 'offrir'.",
   "paragraphs": [
     {
       "id": 1,
-      "fr": "Décembre est arrivé et la place Rihour a changé. Des chalets en bois ont poussé partout. « Nous allons visiter le marché de Noël ce soir », a dit Andréa.",
-      "pt": "Dezembro chegou e a place Rihour mudou. Chalés de madeira brotaram por toda parte. « Vamos visitar o mercado de Natal esta noite », disse Andréa."
+      "fr": "En décembre, le marché de Noël illumine la Grand-Place.",
+      "pt": "Em dezembro, o mercado de Natal ilumina a Grand-Place."
     },
     {
       "id": 2,
-      "fr": "Le soir, la place était pleine de lumière. Íris a regardé les guirlandes : « C'est beau ! Nous allons acheter des cadeaux pour mamie au Brésil. »",
-      "pt": "À noite, a praça estava cheia de luz. Íris olhou as guirlandas: « É lindo! Vamos comprar presentes para a vovó no Brasil. »"
+      "fr": "Des chalets en bois vendent du vin chaud et des gaufres.",
+      "pt": "Chalés de madeira vendem vinho quente e waffles."
     },
     {
       "id": 3,
-      "fr": "Ils ont bu un chocolat chaud. Irlan a choisi des spéculoos et Andréa a acheté un sapin en bois. « Nous allons envoyer ces cadeaux par la poste », a-t-il dit.",
-      "pt": "Eles beberam um chocolate quente. Irlan escolheu spéculoos e Andréa comprou um pinheirinho de madeira. « Vamos enviar estes presentes pelo correio », disse ele."
+      "fr": "Andréa achète deux tasses de vin chaud pour se réchauffer.",
+      "pt": "Andréa compra duas canecas de vinho quente para se aquecer."
     },
     {
       "id": 4,
-      "fr": "Irlan a regardé les livreurs de la place. « L'hiver dernier, je livrais des commandes ici avec ma scooter, sous la neige. Cette année, j'achète des cadeaux avec ma famille. »",
-      "pt": "Irlan olhou os entregadores da praça. « No inverno passado, eu entregava pedidos aqui com minha scooter, sob a neve. Este ano, compro presentes com minha família. »"
+      "fr": "« Le Nord sait rendre l'hiver doux », dit-elle en souriant.",
+      "pt": "« O Norte sabe tornar o inverno doce », diz ela sorrindo."
+    },
+    {
+      "id": 5,
+      "fr": "Irlan regarde les lumières qui dansent sur les façades.",
+      "pt": "Irlan olha as luzes que dançam nas fachadas."
+    },
+    {
+      "id": 6,
+      "fr": "« Même la ville semble attendre quelque chose avec nous. »",
+      "pt": "« Até a cidade parece esperar algo conosco. »"
+    },
+    {
+      "id": 7,
+      "fr": "Ils passent devant une petite boutique de décorations.",
+      "pt": "Eles passam diante de uma pequena loja de enfeites."
+    },
+    {
+      "id": 8,
+      "fr": "Andréa choisit une petite étoile en bois. « Pour notre route. »",
+      "pt": "Andréa escolhe uma pequena estrela de madeira. « Para o nosso caminho. »"
+    },
+    {
+      "id": 9,
+      "fr": "Irlan sourit. « Une étoile, comme la citadelle. Elle nous guidera. »",
+      "pt": "Irlan sorri. « Uma estrela, como a cidadela. Ela nos guiará. »"
+    },
+    {
+      "id": 10,
+      "fr": "Au loin, la silhouette au manteau gris traverse le marché.",
+      "pt": "Ao longe, a silhueta de sobretudo cinza atravessa o mercado."
+    },
+    {
+      "id": 11,
+      "fr": "« Il ne s'approche pas. Il veille, comme nous », murmure Irlan.",
+      "pt": "« Ele não se aproxima. Ele vigia, como nós », murmura Irlan."
+    },
+    {
+      "id": 12,
+      "fr": "Andréa serre l'étoile dans sa main. « Nous ne sommes plus seuls à chercher. »",
+      "pt": "Andréa aperta a estrela na mão. « Não estamos mais sozinhos na procura. »"
     }
   ],
   "vocabularyDictionary": [
     {
-      "term": "le marché",
-      "definitionPt": "o mercado",
-      "definitionFr": "Lieu où l'on vend et achète.",
-      "inflections": ["le marché", "un marché", "des marchés"],
-      "ptTargets": ["mercado"],
+      "term": "Noël",
+      "definitionPt": "o Natal",
+      "definitionFr": "Fête de décembre.",
+      "inflections": ["Noël", "un Noël"],
+      "ptTargets": ["Natal"],
       "examples": [
-        { "level": "A1", "fr": "Le marché est ouvert le samedi.", "pt": "O mercado abre aos sábados." },
-        { "level": "A2-B1", "fr": "Le marché de Noël est sur la place Rihour.", "pt": "O mercado de Natal fica na place Rihour." },
-        { "level": "B2", "fr": "Le marché de Noël de Lille attire des visiteurs de toute l'Europe.", "pt": "O mercado de Natal de Lille atrai visitantes de toda a Europa." },
-        { "level": "C1-C2", "fr": "Sous les lumières du marché, la ville oublie le froid de décembre.", "pt": "Sob as luzes do mercado, a cidade esquece o frio de dezembro." }
+        { "level": "A1", "fr": "Noël approche.", "pt": "O Natal se aproxima." },
+        { "level": "A2-B1", "fr": "Le marché de Noël illumine la place.", "pt": "O mercado de Natal ilumina a praça." },
+        { "level": "B2", "fr": "Le marché de Noël attire les familles chaque année.", "pt": "O mercado de Natal atrai as famílias todos os anos." },
+        { "level": "C1-C2", "fr": "C'est Noël qui, par ses lumières, adoucit les soirs les plus froids.", "pt": "É o Natal que, com suas luzes, adoça as noites mais frias." }
       ]
     },
     {
       "term": "le chalet",
-      "definitionPt": "o chalé, a barraquinha",
-      "definitionFr": "Petite maison en bois.",
+      "definitionPt": "o chalé",
+      "definitionFr": "Petite cabane en bois.",
       "inflections": ["le chalet", "un chalet", "des chalets"],
-      "ptTargets": ["chalé", "barraca"],
+      "ptTargets": ["chalé"],
       "examples": [
         { "level": "A1", "fr": "Le chalet est en bois.", "pt": "O chalé é de madeira." },
-        { "level": "A2-B1", "fr": "Les chalets du marché vendent des cadeaux.", "pt": "Os chalés do mercado vendem presentes." },
-        { "level": "B2", "fr": "Chaque chalet propose une spécialité différente.", "pt": "Cada chalé oferece uma especialidade diferente." },
-        { "level": "C1-C2", "fr": "Les chalets illuminés dessinent un village éphémère au cœur de la ville.", "pt": "Os chalés iluminados desenham uma vila efêmera no coração da cidade." }
-      ]
-    },
-    {
-      "term": "le sapin",
-      "definitionPt": "o pinheiro",
-      "definitionFr": "Arbre vert traditionnel de Noël.",
-      "inflections": ["le sapin", "un sapin", "des sapins"],
-      "ptTargets": ["pinheiro"],
-      "examples": [
-        { "level": "A1", "fr": "Le sapin est vert.", "pt": "O pinheiro é verde." },
-        { "level": "A2-B1", "fr": "Nous avons décoré le sapin ensemble.", "pt": "Decoramos o pinheiro juntos." },
-        { "level": "B2", "fr": "Le grand sapin de la place scintille de mille lumières.", "pt": "O grande pinheiro da praça brilha com mil luzes." },
-        { "level": "C1-C2", "fr": "L'odeur du sapin envahit la maison dès la fin novembre.", "pt": "O cheiro do pinheiro invade a casa desde o fim de novembro." }
-      ]
-    },
-    {
-      "term": "le cadeau",
-      "definitionPt": "o presente",
-      "definitionFr": "Objet offert à quelqu'un.",
-      "inflections": ["le cadeau", "un cadeau", "des cadeaux"],
-      "ptTargets": ["presente"],
-      "examples": [
-        { "level": "A1", "fr": "Le cadeau est pour toi.", "pt": "O presente é para você." },
-        { "level": "A2-B1", "fr": "Nous allons acheter des cadeaux pour la famille.", "pt": "Vamos comprar presentes para a família." },
-        { "level": "B2", "fr": "Les cadeaux du marché sont faits à la main.", "pt": "Os presentes do mercado são feitos à mão." },
-        { "level": "C1-C2", "fr": "Offrir un cadeau, c'est offrir un peu de soi-même.", "pt": "Oferecer um presente é oferecer um pouco de si mesmo." }
+        { "level": "A2-B1", "fr": "Des chalets en bois vendent du vin chaud.", "pt": "Chalés de madeira vendem vinho quente." },
+        { "level": "B2", "fr": "Les chalets du marché s'alignent le long de la place.", "pt": "Os chalés do mercado se alinham ao longo da praça." },
+        { "level": "C1-C2", "fr": "C'est le chalet qui, par sa chaleur, accueille les passants venus du froid.", "pt": "É o chalé que, com seu calor, acolhe os passantes vindos do frio." }
       ]
     },
     {
       "term": "le vin chaud",
       "definitionPt": "o vinho quente",
-      "definitionFr": "Boisson chaude de Noël à base de vin et d'épices.",
-      "inflections": ["le vin chaud", "un vin chaud", "des vins chauds"],
+      "definitionFr": "Boisson chaude au vin épicé.",
+      "inflections": ["le vin chaud", "un vin chaud"],
       "ptTargets": ["vinho quente"],
       "examples": [
-        { "level": "A1", "fr": "Le vin chaud est chaud.", "pt": "O vinho quente é quente." },
-        { "level": "A2-B1", "fr": "Nous avons bu un vin chaud au marché.", "pt": "Bebemos um vinho quente no mercado." },
-        { "level": "B2", "fr": "Le parfum du vin chaud embaume toute la place.", "pt": "O perfume do vinho quente perfuma toda a praça." },
-        { "level": "C1-C2", "fr": "Rien ne réchauffe le cœur d'un Nordiste comme un vin chaud bien épicé.", "pt": "Nada aquece o coração de um nortista como um vinho quente bem temperado." }
+        { "level": "A1", "fr": "Le vin chaud est bon.", "pt": "O vinho quente é bom." },
+        { "level": "A2-B1", "fr": "Ils boivent du vin chaud au marché.", "pt": "Eles bebem vinho quente no mercado." },
+        { "level": "B2", "fr": "Le vin chaud parfumé à la cannelle réchauffe les mains.", "pt": "O vinho quente perfumado com canela aquece as mãos." },
+        { "level": "C1-C2", "fr": "C'est le vin chaud qui, épicé et fumant, accompagne les promenades de décembre.", "pt": "É o vinho quente que, temperado e fumegante, acompanha os passeios de dezembro." }
       ]
     },
     {
-      "term": "la guirlande",
-      "definitionPt": "a guirlanda, o pisca-pisca",
-      "definitionFr": "Décoration lumineuse ou végétale.",
-      "inflections": ["la guirlande", "une guirlande", "des guirlandes"],
-      "ptTargets": ["guirlanda", "pisca-pisca"],
+      "term": "la gaufre",
+      "definitionPt": "o waffle",
+      "definitionFr": "Pâtisserie quadrillée.",
+      "inflections": ["la gaufre", "une gaufre", "des gaufres"],
+      "ptTargets": ["waffle"],
       "examples": [
-        { "level": "A1", "fr": "La guirlande est sur le sapin.", "pt": "A guirlanda está no pinheiro." },
-        { "level": "A2-B1", "fr": "Les guirlandes illuminent la place Rihour.", "pt": "As guirlandas iluminam a place Rihour." },
-        { "level": "B2", "fr": "Des guirlandes dorées courent le long des façades.", "pt": "Guirlandas douradas correm ao longo das fachadas." },
-        { "level": "C1-C2", "fr": "La ville se pare de guirlandes comme d'un manteau de fête.", "pt": "A cidade se enfeita de guirlandas como de um manto de festa." }
+        { "level": "A1", "fr": "La gaufre est chaude.", "pt": "O waffle está quente." },
+        { "level": "A2-B1", "fr": "Des chalets vendent des gaufres.", "pt": "Chalés vendem waffles." },
+        { "level": "B2", "fr": "La gaufre, saupoudrée de sucre, sent le caramel.", "pt": "O waffle, polvilhado de açúcar, cheira a caramelo." },
+        { "level": "C1-C2", "fr": "C'est la gaufre qui, dorée et moelleuse, réunit les enfants et les souvenirs.", "pt": "É o waffle que, dourado e macio, reúne as crianças e as lembranças." }
       ]
     },
     {
-      "term": "le spéculoos",
-      "definitionPt": "o biscoito especulaas",
-      "definitionFr": "Biscuit épicé de Noël, spécialité du Nord.",
-      "inflections": ["le spéculoos", "des spéculoos", "un spéculoos"],
-      "ptTargets": ["speculoos", "biscoito de especiarias"],
+      "term": "la tasse",
+      "definitionPt": "a caneca / a xícara",
+      "definitionFr": "Récipient pour boire chaud.",
+      "inflections": ["la tasse", "une tasse", "des tasses"],
+      "ptTargets": ["caneca", "xícara"],
       "examples": [
-        { "level": "A1", "fr": "J'aime les spéculoos.", "pt": "Eu gosto de speculoos." },
-        { "level": "A2-B1", "fr": "Nous avons acheté des spéculoos au marché.", "pt": "Compramos speculoos no mercado." },
-        { "level": "B2", "fr": "Le spéculoos accompagne parfaitement le café.", "pt": "O speculoos acompanha perfeitamente o café." },
-        { "level": "C1-C2", "fr": "Croquant et épicé, le spéculoos est le goût de l'hiver flamand.", "pt": "Crocante e temperado, o speculoos é o sabor do inverno flamengo." }
-      ]
-    },
-    {
-      "term": "envoyer",
-      "definitionPt": "enviar",
-      "definitionFr": "Faire parvenir quelque chose à quelqu'un.",
-      "inflections": ["j'envoie", "nous envoyons", "envoyé"],
-      "ptTargets": ["enviar"],
-      "examples": [
-        { "level": "A1", "fr": "J'envoie une carte à mamie.", "pt": "Envio um cartão para a vovó." },
-        { "level": "A2-B1", "fr": "Nous allons envoyer les cadeaux par la poste.", "pt": "Vamos enviar os presentes pelo correio." },
-        { "level": "B2", "fr": "Elle a envoyé un colis à sa famille au Brésil.", "pt": "Ela enviou um pacote para a família no Brasil." },
-        { "level": "C1-C2", "fr": "Envoyer des cadeaux, c'est envoyer un morceau de son pays.", "pt": "Enviar presentes é enviar um pedaço do seu país." }
-      ]
-    },
-    {
-      "term": "la neige",
-      "definitionPt": "a neve",
-      "definitionFr": "Eau gelée qui tombe en flocons.",
-      "inflections": ["la neige", "une neige", "des neiges"],
-      "ptTargets": ["neve"],
-      "examples": [
-        { "level": "A1", "fr": "La neige est blanche.", "pt": "A neve é branca." },
-        { "level": "A2-B1", "fr": "Il a neigé sur Lille hier soir.", "pt": "Nevou em Lille ontem à noite." },
-        { "level": "B2", "fr": "La neige a recouvert les toits de la Grand-Place.", "pt": "A neve cobriu os telhados da Grand-Place." },
-        { "level": "C1-C2", "fr": "Sous la neige, la ville du Nord devient un décor de conte.", "pt": "Sob a neve, a cidade do Norte vira um cenário de conto." }
+        { "level": "A1", "fr": "La tasse est pleine.", "pt": "A caneca está cheia." },
+        { "level": "A2-B1", "fr": "Andréa achète deux tasses de vin chaud.", "pt": "Andréa compra duas canecas de vinho quente." },
+        { "level": "B2", "fr": "Elle serre la tasse chaude entre ses mains.", "pt": "Ela aperta a caneca quente entre as mãos." },
+        { "level": "C1-C2", "fr": "C'est la tasse qui, fumante, devient le centre d'une pause bien méritée.", "pt": "É a caneca que, fumegante, vira o centro de uma pausa merecida." }
       ]
     },
     {
       "term": "l'hiver",
       "definitionPt": "o inverno",
-      "definitionFr": "La saison la plus froide de l'année.",
-      "inflections": ["l'hiver", "un hiver", "des hivers"],
+      "definitionFr": "Saison froide.",
+      "inflections": ["l'hiver", "un hiver"],
       "ptTargets": ["inverno"],
       "examples": [
         { "level": "A1", "fr": "L'hiver est froid.", "pt": "O inverno é frio." },
-        { "level": "A2-B1", "fr": "L'hiver à Lille est long et gris.", "pt": "O inverno em Lille é longo e cinzento." },
-        { "level": "B2", "fr": "Cet hiver-là, Irlan livrait des repas sous la pluie.", "pt": "Naquele inverno, Irlan entregava refeições sob a chuva." },
-        { "level": "C1-C2", "fr": "Les hivers du Nord forgent des caractères chaleureux.", "pt": "Os invernos do Norte forjam caráteres calorosos." }
+        { "level": "A2-B1", "fr": "Le Nord rend l'hiver doux.", "pt": "O Norte torna o inverno doce." },
+        { "level": "B2", "fr": "L'hiver, les rues s'illuminent dès la fin d'après-midi.", "pt": "No inverno, as ruas se iluminam desde o fim da tarde." },
+        { "level": "C1-C2", "fr": "C'est l'hiver qui, par son froid, rend plus précieuses les lumières et les chaleurs.", "pt": "É o inverno que, com seu frio, torna mais preciosas as luzes e os calores." }
       ]
     },
     {
-      "term": "la lumière",
-      "definitionPt": "a luz",
-      "definitionFr": "Clarté qui éclaire un lieu.",
-      "inflections": ["la lumière", "une lumière", "des lumières"],
-      "ptTargets": ["luz"],
+      "term": "la décoration",
+      "definitionPt": "o enfeite / a decoração",
+      "definitionFr": "Objet qui embellit.",
+      "inflections": ["la décoration", "une décoration", "des décorations"],
+      "ptTargets": ["decoração", "enfeite"],
       "examples": [
-        { "level": "A1", "fr": "La lumière est allumée.", "pt": "A luz está acesa." },
-        { "level": "A2-B1", "fr": "La place brille de mille lumières.", "pt": "A praça brilha com mil luzes." },
-        { "level": "B2", "fr": "Les lumières du marché se reflètent sur la neige.", "pt": "As luzes do mercado se refletem na neve." },
-        { "level": "C1-C2", "fr": "Dans la nuit de décembre, chaque lumière est une promesse de chaleur.", "pt": "Na noite de dezembro, cada luz é uma promessa de calor." }
+        { "level": "A1", "fr": "La décoration est jolie.", "pt": "O enfeite é bonito." },
+        { "level": "A2-B1", "fr": "Ils passent devant une boutique de décorations.", "pt": "Eles passam diante de uma loja de enfeites." },
+        { "level": "B2", "fr": "Les décorations de Noël illuminent les vitrines.", "pt": "Os enfeites de Natal iluminam as vitrines." },
+        { "level": "C1-C2", "fr": "C'est la décoration qui, modeste, transforme un lieu ordinaire en fête.", "pt": "É o enfeite que, modesto, transforma um lugar comum em festa." }
       ]
     },
     {
-      "term": "la poste",
-      "definitionPt": "o correio",
-      "definitionFr": "Service qui transporte les lettres et les colis.",
-      "inflections": ["la poste", "une poste", "des postes"],
-      "ptTargets": ["correio"],
+      "term": "l'étoile",
+      "definitionPt": "a estrela",
+      "definitionFr": "Forme ou astre lumineux.",
+      "inflections": ["l'étoile", "une étoile", "des étoiles"],
+      "ptTargets": ["estrela"],
       "examples": [
-        { "level": "A1", "fr": "La poste est fermée le dimanche.", "pt": "O correio fecha aos domingos." },
-        { "level": "A2-B1", "fr": "Nous allons à la poste pour le colis.", "pt": "Vamos ao correio por causa do pacote." },
-        { "level": "B2", "fr": "Le colis est arrivé à la poste ce matin.", "pt": "O pacote chegou ao correio esta manhã." },
-        { "level": "C1-C2", "fr": "La poste relie les familles séparées par l'océan.", "pt": "O correio liga famílias separadas pelo oceano." }
+        { "level": "A1", "fr": "L'étoile brille.", "pt": "A estrela brilha." },
+        { "level": "A2-B1", "fr": "Andréa choisit une petite étoile en bois.", "pt": "Andréa escolhe uma pequena estrela de madeira." },
+        { "level": "B2", "fr": "L'étoile en bois rappelle celle de la citadelle.", "pt": "A estrela de madeira lembra a da cidadela." },
+        { "level": "C1-C2", "fr": "C'est l'étoile qui, simple, devient le signe d'une route à suivre.", "pt": "É a estrela que, simples, vira o sinal de um caminho a seguir." }
+      ]
+    },
+    {
+      "term": "offrir",
+      "definitionPt": "oferecer / presentear",
+      "definitionFr": "Donner en cadeau.",
+      "inflections": ["offrir", "j'offre", "nous offrons"],
+      "ptTargets": ["oferecer", "presentear"],
+      "examples": [
+        { "level": "A1", "fr": "J'offre un cadeau.", "pt": "Eu ofereço um presente." },
+        { "level": "A2-B1", "fr": "Andréa offre une étoile à Irlan.", "pt": "Andréa oferece uma estrela a Irlan." },
+        { "level": "B2", "fr": "Offrir un petit objet, c'est partager un souvenir.", "pt": "Oferecer um pequeno objeto é partilhar uma lembrança." },
+        { "level": "C1-C2", "fr": "C'est en offrant que l'on donne, avec un objet, un peu de sa propre attention.", "pt": "É oferecendo que se dá, com um objeto, um pouco da própria atenção." }
+      ]
+    },
+    {
+      "term": "la boutique",
+      "definitionPt": "a loja",
+      "definitionFr": "Petit magasin.",
+      "inflections": ["la boutique", "une boutique", "des boutiques"],
+      "ptTargets": ["loja"],
+      "examples": [
+        { "level": "A1", "fr": "La boutique est petite.", "pt": "A loja é pequena." },
+        { "level": "A2-B1", "fr": "Ils passent devant une petite boutique.", "pt": "Eles passam diante de uma pequena loja." },
+        { "level": "B2", "fr": "La boutique du centre propose des objets faits main.", "pt": "A loja do centro oferece objetos feitos à mão." },
+        { "level": "C1-C2", "fr": "C'est la boutique qui, par sa vitrine, raconte le goût d'un quartier.", "pt": "É a loja que, por sua vitrine, conta o gosto de um bairro." }
+      ]
+    },
+    {
+      "term": "veiller",
+      "definitionPt": "vigiar / velar",
+      "definitionFr": "Rester attentif, surveiller.",
+      "inflections": ["veiller", "je veille", "nous veillons"],
+      "ptTargets": ["vigiar", "velar"],
+      "examples": [
+        { "level": "A1", "fr": "Je veille sur toi.", "pt": "Eu velo por você." },
+        { "level": "A2-B1", "fr": "Il veille, comme nous.", "pt": "Ele vigia, como nós." },
+        { "level": "B2", "fr": "Veiller demande de la patience et de l'attention.", "pt": "Vigiar exige paciência e atenção." },
+        { "level": "C1-C2", "fr": "C'est en veillant que l'on protège ce qui, sans bruit, pourrait se perdre.", "pt": "É vigiando que se protege o que, sem ruído, poderia se perder." }
+      ]
+    },
+    {
+      "term": "seul",
+      "definitionPt": "sozinho",
+      "definitionFr": "Sans compagnie.",
+      "inflections": ["seul", "seule", "seuls"],
+      "ptTargets": ["sozinho"],
+      "examples": [
+        { "level": "A1", "fr": "Je suis seul.", "pt": "Eu estou sozinho." },
+        { "level": "A2-B1", "fr": "Nous ne sommes plus seuls à chercher.", "pt": "Não estamos mais sozinhos na procura." },
+        { "level": "B2", "fr": "Être seul face à l'inconnu est une épreuve.", "pt": "Estar sozinho diante do desconhecido é uma provação." },
+        { "level": "C1-C2", "fr": "C'est seul que l'on mesure le prix de la présence des autres.", "pt": "É sozinho que se mede o valor da presença dos outros." }
       ]
     }
   ],
   "grammarTip": {
-    "ruleTitle": "Le Futur Proche : aller + infinitif (nous allons acheter)",
-    "explanationPt": "Para falar de algo que vai acontecer, use aller no presente + infinitivo: 'nous allons acheter' (vamos comprar), 'je vais visiter' (vou visitar). É o futuro mais usado na conversa do dia a dia.",
-    "exampleFr": "Nous allons visiter le marché de Noël ce soir.",
-    "examplePt": "Vamos visitar o mercado de Natal esta noite.",
-    "practiceQuestion": "Complete: « Nous ___ acheter des cadeaux. »",
-    "options": ["allons", "allez", "avons"],
+    "ruleTitle": "Le verbe offrir",
+    "explanationPt": "Oferecer: j'offre, tu offres, il offre, nous offrons. 'Andréa offre une étoile' (Andréa oferece uma estrela).",
+    "exampleFr": "Andréa offre une étoile en bois à Irlan.",
+    "examplePt": "Andréa oferece uma estrela de madeira a Irlan.",
+    "practiceQuestion": "Complete: 'Elle _____ une étoile.'",
+    "options": ["offre", "offres", "offrent"],
     "correctIndex": 0,
     "points": [
       {
-        "ruleTitle": "Aller au présent : je vais, tu vas, il va...",
-        "explanationPt": "O verbo aller no presente: je vais, tu vas, il/elle va, nous allons, vous allez, ils vont. Depois dele, o infinitivo: 'je vais manger', 'ils vont partir'.",
-        "exampleFr": "Je vais envoyer un colis, nous allons acheter un sapin.",
-        "examplePt": "Vou enviar um pacote, vamos comprar um pinheiro.",
-        "practiceQuestion": "Complete: « Elles ___ boire un chocolat chaud. »",
-        "options": ["vont", "vais", "allons"],
+        "ruleTitle": "En décembre",
+        "explanationPt": "Meses com 'en': en décembre, en janvier. 'En décembre, le marché illumine la place' (Em dezembro, o mercado ilumina a praça).",
+        "exampleFr": "En décembre, le marché de Noël illumine la place.",
+        "examplePt": "Em dezembro, o mercado de Natal ilumina a praça.",
+        "practiceQuestion": "Complete: '_____ décembre, il fait froid.'",
+        "options": ["En", "Au", "Dans"],
         "correctIndex": 0
       },
       {
-        "ruleTitle": "Futur proche vs présent",
-        "explanationPt": "O presente descreve o agora: 'j'achète un cadeau' (compro agora). O futur proche anuncia uma intenção: 'je vais acheter un cadeau' (vou comprar).",
-        "exampleFr": "Aujourd'hui je regarde les chalets, demain je vais acheter les cadeaux.",
-        "examplePt": "Hoje eu olho os chalés, amanhã vou comprar os presentes.",
-        "practiceQuestion": "Qual frase fala de uma intenção futura?",
-        "options": ["Nous allons envoyer les cadeaux.", "Nous envoyons les cadeaux.", "Nous avons envoyé les cadeaux."],
+        "ruleTitle": "Se réchauffer",
+        "explanationPt": "'Se réchauffer' = aquecer-se. 'Deux tasses pour se réchauffer' (Duas canecas para se aquecer).",
+        "exampleFr": "Ils boivent du vin chaud pour se réchauffer.",
+        "examplePt": "Eles bebem vinho quente para se aquecer.",
+        "practiceQuestion": "Complete: 'Ils boivent pour se _____.'",
+        "options": ["réchauffer", "réchauffe", "réchauffons"],
         "correctIndex": 0
       }
     ]
   },
   "quizQuestions": [
     {
-      "question": "Onde fica o mercado de Natal de Lille?",
-      "options": ["Na place Rihour", "Na gare Lille Europe", "No zoo de la Citadelle"],
+      "question": "O que os chalés de madeira vendem?",
+      "options": ["vinho quente e waffles", "frutas", "livros"],
       "correctIndex": 0,
-      "explanation": "O mercado de Natal de Lille acontece na place Rihour, no centro da cidade."
+      "explanation": "Des chalets en bois vendent du vin chaud et des gaufres."
     },
     {
-      "question": "Como se forma o Futur Proche?",
-      "options": ["aller no presente + infinitivo", "avoir no presente + particípio", "só o infinitivo"],
+      "question": "O que Andréa compra?",
+      "options": ["uma estrela de madeira", "um anel", "um livro"],
       "correctIndex": 0,
-      "explanation": "O futur proche se forma com aller + infinitif: 'nous allons acheter'."
+      "explanation": "Andréa choisit une petite étoile en bois."
     },
     {
-      "question": "Complete: « Nous ___ envoyer ces cadeaux par la poste. »",
-      "options": ["allons", "allé", "avons"],
+      "question": "Quem atravessa o mercado ao longe?",
+      "options": ["a silhueta de sobretudo cinza", "o guia", "o vigia do museu"],
       "correctIndex": 0,
-      "explanation": "'Nous allons envoyer' = vamos enviar (futur proche)."
+      "explanation": "La silhouette au manteau gris traverse le marché."
     },
     {
-      "question": "O que Irlan lembrou no mercado?",
-      "options": ["No inverno passado ele entregava pedidos ali de scooter, sob a neve.", "Que nunca tinha visto neve.", "Que prefere o verão no Brasil."],
+      "question": "Complete: 'Elle _____ une étoile.'",
+      "options": ["offre", "offres", "offrent"],
       "correctIndex": 0,
-      "explanation": "Irlan lembrou que, no inverno anterior, fazia entregas de scooter naquela praça, sob a neve."
+      "explanation": "elle offre."
     },
     {
-      "question": "Qual especialidade do Norte eles compraram?",
-      "options": ["Spéculoos", "Socca", "Bouillabaisse"],
+      "question": "Complete: '_____ décembre, il fait froid.'",
+      "options": ["En", "Au", "Dans"],
       "correctIndex": 0,
-      "explanation": "Os spéculoos são biscoitos de especiarias típicos do Natal no Norte da França."
+      "explanation": "en décembre."
     }
   ]
 }

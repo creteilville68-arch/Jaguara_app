@@ -1,33 +1,73 @@
 {
   "id": "lille_lesson_11",
   "cityId": "lille",
-  "domain": "História & Cultura",
+  "domain": "História & Patrimônio",
   "level": "Básico (A2)",
   "titleFr": "L'Hospice Comtesse : l'hôpital de Jeanne de Flandre",
-  "titlePt": "O Hospice Comtesse: o hospital de Joana de Flandres",
-  "subtitleFr": "En 1236, une comtesse a fondé un hôpital au cœur de Lille",
-  "subtitlePt": "Em 1236, uma condessa fundou um hospital no coração de Lille",
-  "summaryPt": "Nesta Aula 11 (A2), a família visita o Hospice Comtesse, antigo hospital fundado em 1236 pela condessa Jeanne de Flandre. O museu guarda a cozinha de azulejos, a sala dos doentes e tapeçarias flamengas. O aluno diferencia o Passé Composé com AVOIR e com ÊTRE e pratica a narração de eventos no passado.",
+  "titlePt": "O Hospice Comtesse: o hospital de Jeanne de Flandre",
+  "subtitleFr": "Un vieux registre hospitalier et une piste",
+  "subtitlePt": "Um velho registro hospitalar e uma pista",
+  "summaryPt": "Na Aula 11 de Lille (A2), Irlan e Andréa visitam o Hospice Comtesse, um antigo hospital. Ali, descobrem que os registros antigos podem esconder nomes de viajantes. O aluno pratica o vocabulário do hospital e o verbo 'soigner'.",
   "paragraphs": [
     {
       "id": 1,
-      "fr": "La comtesse Jeanne a fondé cet hôpital en 1236. Pendant huit siècles, les sœurs ont soigné les malades ici. « C'est un lieu plein d'histoires », a murmuré Irlan.",
-      "pt": "A condessa Joana fundou este hospital em 1236. Durante oito séculos, as irmãs cuidaram dos doentes aqui. « É um lugar cheio de histórias », murmurou Irlan."
+      "fr": "L'après-midi, Irlan et Andréa visitent l'Hospice Comtesse.",
+      "pt": "À tarde, Irlan e Andréa visitam o Hospice Comtesse."
     },
     {
       "id": 2,
-      "fr": "Nous sommes entrés dans la grande salle. Les sœurs y ont dormi pendant des centaines d'années. Andréa a regardé les tapisseries : « Regarde ces fleurs, elles sont magnifiques. »",
-      "pt": "Entramos na grande sala. As irmãs dormiram ali durante centenas de anos. Andréa olhou as tapeçarias: « Olha estas flores, são magníficas. »"
+      "fr": "Cet ancien hôpital, fondé par Jeanne de Flandre, garde une cour paisible.",
+      "pt": "Este antigo hospital, fundado por Jeanne de Flandre, guarda um pátio tranquilo."
     },
     {
       "id": 3,
-      "fr": "Dans la cuisine, Íris a vu les grands fourneaux. « Les sœurs ont préparé la soupe pour les malades ici », a expliqué le guide. Íris a fait un grand sourire.",
-      "pt": "Na cozinha, Íris viu os grandes fogões. « As irmãs preparavam a sopa para os doentes aqui », explicou o guia. Íris abriu um grande sorriso."
+      "fr": "Des salles voûtées exposent des meubles et des objets anciens.",
+      "pt": "Salas abobadadas expõem móveis e objetos antigos."
     },
     {
       "id": 4,
-      "fr": "Dehors, Irlan a retrouvé sa scooter. « Je suis passé devant ce musée cent fois avec mes livraisons. Aujourd'hui, je suis enfin entré. »",
-      "pt": "Lá fora, Irlan reencontrou sua scooter. « Passei na frente deste museu cem vezes com minhas entregas. Hoje, finalmente entrei. »"
+      "fr": "« Ici, on soignait les malades et on accueillait les pauvres », explique Andréa.",
+      "pt": "« Aqui, cuidava-se dos doentes e acolhia-se os pobres », explica Andréa."
+    },
+    {
+      "id": 5,
+      "fr": "Dans une vitrine, un grand registre ouvert montre des listes de noms.",
+      "pt": "Numa vitrine, um grande registro aberto mostra listas de nomes."
+    },
+    {
+      "id": 6,
+      "fr": "« Chaque entrée raconte une personne, une date, une arrivée », dit Irlan.",
+      "pt": "« Cada entrada conta uma pessoa, uma data, uma chegada », diz Irlan."
+    },
+    {
+      "id": 7,
+      "fr": "Un guide s'approche. « Les archives conservent encore tous les registres de l'hospice. »",
+      "pt": "Um guia se aproxima. « Os arquivos ainda conservam todos os registros do hospice. »"
+    },
+    {
+      "id": 8,
+      "fr": "« Même ceux des voyageurs ? » demande Andréa.",
+      "pt": "« Até os dos viajantes? » pergunta Andréa."
+    },
+    {
+      "id": 9,
+      "fr": "« Oui, surtout ceux des étrangers de passage. Ils étaient notés avec soin. »",
+      "pt": "« Sim, sobretudo os dos estrangeiros de passagem. Eles eram anotados com cuidado. »"
+    },
+    {
+      "id": 10,
+      "fr": "Irlan échange un regard avec Andréa. « Un étranger de passage, en 1904... »",
+      "pt": "Irlan troca um olhar com Andréa. « Um estrangeiro de passagem, em 1904... »"
+    },
+    {
+      "id": 11,
+      "fr": "« Nous devons consulter les archives du port et celles de l'hospice », dit-elle.",
+      "pt": "« Precisamos consultar os arquivos do porto e os do hospice », diz ela."
+    },
+    {
+      "id": 12,
+      "fr": "Le guide hoche la tête. « Revenez demain matin. Les archives ouvrent à neuf heures. »",
+      "pt": "O guia balança a cabeça. « Voltem amanhã de manhã. Os arquivos abrem às nove. »"
     }
   ],
   "vocabularyDictionary": [
@@ -38,181 +78,181 @@
       "inflections": ["l'hôpital", "un hôpital", "des hôpitaux"],
       "ptTargets": ["hospital"],
       "examples": [
-        { "level": "A1", "fr": "L'hôpital est près de la gare.", "pt": "O hospital fica perto da estação." },
-        { "level": "A2-B1", "fr": "Cet hôpital a soigné les malades pendant huit siècles.", "pt": "Este hospital cuidou dos doentes durante oito séculos." },
-        { "level": "B2", "fr": "Les hôpitaux de la région ont été modernisés.", "pt": "Os hospitais da região foram modernizados." },
-        { "level": "C1-C2", "fr": "L'hôpital, autrefois refuge des pauvres, est devenu un musée.", "pt": "O hospital, antigamente refúgio dos pobres, tornou-se um museu." }
-      ]
-    },
-    {
-      "term": "la comtesse",
-      "definitionPt": "a condessa",
-      "definitionFr": "Titre de noblesse féminin.",
-      "inflections": ["la comtesse", "une comtesse", "le comte"],
-      "ptTargets": ["condessa"],
-      "examples": [
-        { "level": "A1", "fr": "La comtesse habite un château.", "pt": "A condessa mora num castelo." },
-        { "level": "A2-B1", "fr": "Jeanne de Flandre était comtesse de Lille.", "pt": "Joana de Flandres era condessa de Lille." },
-        { "level": "B2", "fr": "La comtesse a fondé l'hospice pour les pauvres de la ville.", "pt": "A condessa fundou o hospital para os pobres da cidade." },
-        { "level": "C1-C2", "fr": "La comtesse, veuve à vingt ans, a gouverné la Flandre avec fermeté.", "pt": "A condessa, viúva aos vinte anos, governou a Flandres com firmeza." }
+        { "level": "A1", "fr": "L'hôpital est grand.", "pt": "O hospital é grande." },
+        { "level": "A2-B1", "fr": "L'Hospice Comtesse était un hôpital.", "pt": "O Hospice Comtesse era um hospital." },
+        { "level": "B2", "fr": "L'ancien hôpital est devenu un musée.", "pt": "O antigo hospital virou um museu." },
+        { "level": "C1-C2", "fr": "C'est l'hôpital qui, en accueillant les malades, a vu passer tant de vies et de destins.", "pt": "É o hospital que, ao acolher os doentes, viu passar tantas vidas e destinos." }
       ]
     },
     {
       "term": "soigner",
-      "definitionPt": "cuidar, tratar",
-      "definitionFr": "Donner des soins à un malade.",
-      "inflections": ["je soigne", "nous soignons", "soigné"],
+      "definitionPt": "cuidar / tratar",
+      "definitionFr": "Donner des soins.",
+      "inflections": ["soigner", "je soigne", "nous soignons"],
       "ptTargets": ["cuidar", "tratar"],
       "examples": [
-        { "level": "A1", "fr": "Le docteur soigne les enfants.", "pt": "O médico trata as crianças." },
-        { "level": "A2-B1", "fr": "Les sœurs ont soigné les malades ici.", "pt": "As irmãs cuidaram dos doentes aqui." },
-        { "level": "B2", "fr": "On soignait les blessés dans cette salle.", "pt": "Cuidavam-se os feridos nesta sala." },
-        { "level": "C1-C2", "fr": "Soigner l'âme autant que le corps, telle était leur mission.", "pt": "Cuidar da alma tanto quanto do corpo, tal era sua missão." }
-      ]
-    },
-    {
-      "term": "la tapisserie",
-      "definitionPt": "a tapeçaria",
-      "definitionFr": "Tissu décoratif tissé ou brodé.",
-      "inflections": ["la tapisserie", "une tapisserie", "des tapisseries"],
-      "ptTargets": ["tapeçaria"],
-      "examples": [
-        { "level": "A1", "fr": "La tapisserie est sur le mur.", "pt": "A tapeçaria está na parede." },
-        { "level": "A2-B1", "fr": "Les tapisseries racontent l'histoire de la ville.", "pt": "As tapeçarias contam a história da cidade." },
-        { "level": "B2", "fr": "Ces tapisseries flamandes datent du XVIIe siècle.", "pt": "Estas tapeçarias flamengas datam do século XVII." },
-        { "level": "C1-C2", "fr": "Sous les fils d'or des tapisseries se cache la mémoire des Flandres.", "pt": "Sob os fios de ouro das tapeçarias esconde-se a memória das Flandres." }
+        { "level": "A1", "fr": "Je soigne mon frère.", "pt": "Eu cuido do meu irmão." },
+        { "level": "A2-B1", "fr": "Ici, on soignait les malades.", "pt": "Aqui, cuidava-se dos doentes." },
+        { "level": "B2", "fr": "Soigner demande de la patience et du dévouement.", "pt": "Cuidar exige paciência e dedicação." },
+        { "level": "C1-C2", "fr": "C'est en soignant que l'on apprend à écouter ce que le corps ne dit pas.", "pt": "É cuidando que se aprende a escutar o que o corpo não diz." }
       ]
     },
     {
       "term": "le malade",
       "definitionPt": "o doente",
-      "definitionFr": "Personne qui est malade.",
-      "inflections": ["le malade", "la malade", "les malades"],
+      "definitionFr": "Personne qui souffre.",
+      "inflections": ["le malade", "un malade", "des malades"],
       "ptTargets": ["doente"],
       "examples": [
-        { "level": "A1", "fr": "Le malade est au lit.", "pt": "O doente está na cama." },
-        { "level": "A2-B1", "fr": "Les malades arrivaient par cette porte.", "pt": "Os doentes chegavam por esta porta." },
-        { "level": "B2", "fr": "Chaque malade recevait une soupe chaude chaque matin.", "pt": "Cada doente recebia uma sopa quente todas as manhãs." },
-        { "level": "C1-C2", "fr": "Le malade n'était jamais seul : la ville veillait sur lui.", "pt": "O doente nunca estava sozinho: a cidade velava por ele." }
+        { "level": "A1", "fr": "Le malade se repose.", "pt": "O doente descansa." },
+        { "level": "A2-B1", "fr": "On soignait les malades ici.", "pt": "Cuidava-se dos doentes aqui." },
+        { "level": "B2", "fr": "Les malades étaient accueillis avec attention.", "pt": "Os doentes eram acolhidos com atenção." },
+        { "level": "C1-C2", "fr": "C'est le malade qui, souvent, enseigne au soignant ce que les livres ne disent pas.", "pt": "É o doente que, muitas vezes, ensina ao cuidador o que os livros não dizem." }
       ]
     },
     {
-      "term": "la salle",
-      "definitionPt": "a sala",
-      "definitionFr": "Pièce d'un bâtiment.",
-      "inflections": ["la salle", "une salle", "des salles"],
-      "ptTargets": ["sala"],
+      "term": "le pauvre",
+      "definitionPt": "o pobre",
+      "definitionFr": "Personne sans ressources.",
+      "inflections": ["le pauvre", "une pauvre", "des pauvres"],
+      "ptTargets": ["pobre"],
       "examples": [
-        { "level": "A1", "fr": "La salle est grande.", "pt": "A sala é grande." },
-        { "level": "A2-B1", "fr": "La grande salle servait de dortoir.", "pt": "A grande sala servia de dormitório." },
-        { "level": "B2", "fr": "Cette salle a accueilli des générations de malades.", "pt": "Esta sala acolheu gerações de doentes." },
-        { "level": "C1-C2", "fr": "La salle, baignée d'une lumière douce, semblait encore habitée.", "pt": "A sala, banhada por uma luz suave, parecia ainda habitada." }
+        { "level": "A1", "fr": "Le pauvre est aidé.", "pt": "O pobre é ajudado." },
+        { "level": "A2-B1", "fr": "L'hospice accueillait les pauvres.", "pt": "O hospice acolhia os pobres." },
+        { "level": "B2", "fr": "Accueillir les pauvres était la mission de l'hospice.", "pt": "Acolher os pobres era a missão do hospice." },
+        { "level": "C1-C2", "fr": "C'est en accueillant les pauvres que la ville prenait soin de sa propre dignité.", "pt": "É acolhendo os pobres que a cidade cuidava de sua própria dignidade." }
       ]
     },
     {
-      "term": "la cuisine",
-      "definitionPt": "a cozinha",
-      "definitionFr": "Pièce où l'on prépare les repas.",
-      "inflections": ["la cuisine", "une cuisine", "des cuisines"],
-      "ptTargets": ["cozinha"],
+      "term": "la cour",
+      "definitionPt": "o pátio",
+      "definitionFr": "Espace ouvert entouré de bâtiments.",
+      "inflections": ["la cour", "une cour", "des cours"],
+      "ptTargets": ["pátio"],
       "examples": [
-        { "level": "A1", "fr": "La cuisine est petite.", "pt": "A cozinha é pequena." },
-        { "level": "A2-B1", "fr": "La cuisine de l'hospice a des fourneaux anciens.", "pt": "A cozinha do hospital tem fogões antigos." },
-        { "level": "B2", "fr": "Dans cette cuisine, on préparait les repas pour cent personnes.", "pt": "Nesta cozinha, preparavam-se refeições para cem pessoas." },
-        { "level": "C1-C2", "fr": "Les odeurs de cette cuisine traversaient tout le quartier.", "pt": "Os cheiros desta cozinha atravessavam todo o bairro." }
+        { "level": "A1", "fr": "La cour est calme.", "pt": "O pátio é calmo." },
+        { "level": "A2-B1", "fr": "L'hospice garde une cour paisible.", "pt": "O hospice guarda um pátio tranquilo." },
+        { "level": "B2", "fr": "La cour intérieure invite au repos.", "pt": "O pátio interno convida ao descanso." },
+        { "level": "C1-C2", "fr": "C'est la cour qui, protégée des murs, offre un silence rare au cœur de la ville.", "pt": "É o pátio que, protegido pelas paredes, oferece um silêncio raro no coração da cidade." }
+      ]
+    },
+    {
+      "term": "la vitrine",
+      "definitionPt": "a vitrine",
+      "definitionFr": "Espace vitré d'exposition.",
+      "inflections": ["la vitrine", "une vitrine", "des vitrines"],
+      "ptTargets": ["vitrine"],
+      "examples": [
+        { "level": "A1", "fr": "La vitrine est propre.", "pt": "A vitrine está limpa." },
+        { "level": "A2-B1", "fr": "Un registre est exposé dans une vitrine.", "pt": "Um registro está exposto numa vitrine." },
+        { "level": "B2", "fr": "La vitrine protège les documents de la lumière.", "pt": "A vitrine protege os documentos da luz." },
+        { "level": "C1-C2", "fr": "C'est la vitrine qui, en protégeant l'objet, le rend précieux aux yeux de tous.", "pt": "É a vitrine que, ao proteger o objeto, o torna precioso aos olhos de todos." }
+      ]
+    },
+    {
+      "term": "la liste",
+      "definitionPt": "a lista",
+      "definitionFr": "Suite de noms ou de choses.",
+      "inflections": ["la liste", "une liste", "des listes"],
+      "ptTargets": ["lista"],
+      "examples": [
+        { "level": "A1", "fr": "La liste est longue.", "pt": "A lista é comprida." },
+        { "level": "A2-B1", "fr": "Le registre montre des listes de noms.", "pt": "O registro mostra listas de nomes." },
+        { "level": "B2", "fr": "La liste des arrivées est tenue avec soin.", "pt": "A lista das chegadas é mantida com cuidado." },
+        { "level": "C1-C2", "fr": "C'est la liste qui, sèche en apparence, contient la trace d'innombrables existences.", "pt": "É a lista que, seca na aparência, contém o rastro de inúmeras existências." }
+      ]
+    },
+    {
+      "term": "l'entrée",
+      "definitionPt": "a entrada",
+      "definitionFr": "Fait d'arriver ; porte d'un lieu.",
+      "inflections": ["l'entrée", "une entrée", "des entrées"],
+      "ptTargets": ["entrada"],
+      "examples": [
+        { "level": "A1", "fr": "L'entrée est ouverte.", "pt": "A entrada está aberta." },
+        { "level": "A2-B1", "fr": "Chaque entrée raconte une personne.", "pt": "Cada entrada conta uma pessoa." },
+        { "level": "B2", "fr": "L'entrée de l'hospice est inscrite dans le registre.", "pt": "A entrada no hospice está inscrita no registro." },
+        { "level": "C1-C2", "fr": "C'est l'entrée qui, notée d'une ligne, fixe un instant dans la mémoire d'un lieu.", "pt": "É a entrada que, anotada numa linha, fixa um instante na memória de um lugar." }
       ]
     },
     {
       "term": "le guide",
       "definitionPt": "o guia",
-      "definitionFr": "Personne qui fait visiter un lieu.",
-      "inflections": ["le guide", "la guide", "les guides"],
+      "definitionFr": "Personne qui fait visiter.",
+      "inflections": ["le guide", "un guide", "des guides"],
       "ptTargets": ["guia"],
       "examples": [
-        { "level": "A1", "fr": "Le guide parle français.", "pt": "O guia fala francês." },
-        { "level": "A2-B1", "fr": "Le guide a expliqué l'histoire de l'hospice.", "pt": "O guia explicou a história do hospital." },
-        { "level": "B2", "fr": "La guide connaissait chaque pierre du bâtiment.", "pt": "A guia conhecia cada pedra do edifício." },
-        { "level": "C1-C2", "fr": "Le guide a su transmettre l'émotion de huit siècles d'histoire.", "pt": "O guia soube transmitir a emoção de oito séculos de história." }
+        { "level": "A1", "fr": "Le guide est aimable.", "pt": "O guia é simpático." },
+        { "level": "A2-B1", "fr": "Un guide s'approche d'eux.", "pt": "Um guia se aproxima deles." },
+        { "level": "B2", "fr": "Le guide connaît l'histoire de chaque salle.", "pt": "O guia conhece a história de cada sala." },
+        { "level": "C1-C2", "fr": "C'est le guide qui, par ses mots, fait parler les pierres et les objets.", "pt": "É o guia que, com suas palavras, faz as pedras e os objetos falarem." }
       ]
     },
     {
-      "term": "fonder",
-      "definitionPt": "fundar",
-      "definitionFr": "Créer, établir quelque chose.",
-      "inflections": ["je fonde", "nous fondons", "fondé"],
-      "ptTargets": ["fundar"],
+      "term": "l'étranger",
+      "definitionPt": "o estrangeiro",
+      "definitionFr": "Personne d'un autre pays.",
+      "inflections": ["l'étranger", "un étranger", "des étrangers"],
+      "ptTargets": ["estrangeiro"],
       "examples": [
-        { "level": "A1", "fr": "Ils fondent une école.", "pt": "Eles fundam uma escola." },
-        { "level": "A2-B1", "fr": "Jeanne de Flandre a fondé l'hospice en 1236.", "pt": "Joana de Flandres fundou o hospital em 1236." },
-        { "level": "B2", "fr": "La ville a été fondée il y a plus de mille ans.", "pt": "A cidade foi fundada há mais de mil anos." },
-        { "level": "C1-C2", "fr": "Fonder un hôpital pour les pauvres était un acte révolutionnaire.", "pt": "Fundar um hospital para os pobres era um ato revolucionário." }
+        { "level": "A1", "fr": "L'étranger est accueilli.", "pt": "O estrangeiro é acolhido." },
+        { "level": "A2-B1", "fr": "Les étrangers de passage étaient notés avec soin.", "pt": "Os estrangeiros de passagem eram anotados com cuidado." },
+        { "level": "B2", "fr": "Un étranger de passage peut laisser une trace durable.", "pt": "Um estrangeiro de passagem pode deixar um rastro duradouro." },
+        { "level": "C1-C2", "fr": "C'est l'étranger qui, venu d'ailleurs, apporte avec lui un autre regard sur le monde.", "pt": "É o estrangeiro que, vindo de outro lugar, traz consigo outro olhar sobre o mundo." }
       ]
     },
     {
-      "term": "les sœurs",
-      "definitionPt": "as irmãs (religiosas)",
-      "definitionFr": "Religieuses qui soignent les malades.",
-      "inflections": ["la sœur", "les sœurs", "une sœur"],
-      "ptTargets": ["irmãs"],
+      "term": "consulter",
+      "definitionPt": "consultar",
+      "definitionFr": "Lire un document.",
+      "inflections": ["consulter", "je consulte", "nous consultons"],
+      "ptTargets": ["consultar"],
       "examples": [
-        { "level": "A1", "fr": "Les sœurs sont dans le jardin.", "pt": "As irmãs estão no jardim." },
-        { "level": "A2-B1", "fr": "Les sœurs ont soigné les malades pendant des siècles.", "pt": "As irmãs cuidaram dos doentes durante séculos." },
-        { "level": "B2", "fr": "Les sœurs de l'hospice vivaient simplement, au service des autres.", "pt": "As irmãs do hospital viviam simplesmente, a serviço dos outros." },
-        { "level": "C1-C2", "fr": "Leur dévouement silencieux a marqué la mémoire de la ville.", "pt": "Sua dedicação silenciosa marcou a memória da cidade." }
+        { "level": "A1", "fr": "Je consulte le plan.", "pt": "Eu consulto a planta." },
+        { "level": "A2-B1", "fr": "Nous devons consulter les archives.", "pt": "Precisamos consultar os arquivos." },
+        { "level": "B2", "fr": "Consulter un registre ancien demande de la patience.", "pt": "Consultar um registro antigo exige paciência." },
+        { "level": "C1-C2", "fr": "C'est en consultant les archives que l'on rencontre, ligne après ligne, le passé lui-même.", "pt": "É consultando os arquivos que se encontra, linha após linha, o próprio passado." }
       ]
     },
     {
-      "term": "le fourneau",
-      "definitionPt": "o fogão (antigo)",
-      "definitionFr": "Appareil de cuisson à l'ancienne.",
-      "inflections": ["le fourneau", "des fourneaux", "un fourneau"],
-      "ptTargets": ["fogão"],
+      "term": "hocher la tête",
+      "definitionPt": "balançar a cabeça",
+      "definitionFr": "Faire un signe de tête.",
+      "inflections": ["hocher la tête", "je hoche la tête"],
+      "ptTargets": ["balançar a cabeça"],
       "examples": [
-        { "level": "A1", "fr": "Le fourneau est en fer.", "pt": "O fogão é de ferro." },
-        { "level": "A2-B1", "fr": "Les fourneaux de la cuisine sont très anciens.", "pt": "Os fogões da cozinha são muito antigos." },
-        { "level": "B2", "fr": "Sur ces fourneaux, la soupe mijotait toute la journée.", "pt": "Nestes fogões, a sopa cozinhava o dia inteiro." },
-        { "level": "C1-C2", "fr": "Les grands fourneaux de cuivre racontent le labeur des cuisinières.", "pt": "Os grandes fogões de cobre contam o labor das cozinheiras." }
-      ]
-    },
-    {
-      "term": "entrer",
-      "definitionPt": "entrar",
-      "definitionFr": "Aller dans un lieu.",
-      "inflections": ["j'entre", "nous entrons", "entré"],
-      "ptTargets": ["entrar"],
-      "examples": [
-        { "level": "A1", "fr": "J'entre dans la maison.", "pt": "Entro na casa." },
-        { "level": "A2-B1", "fr": "Nous sommes entrés dans la grande salle.", "pt": "Entramos na grande sala." },
-        { "level": "B2", "fr": "Il est entré sans faire de bruit.", "pt": "Ele entrou sem fazer barulho." },
-        { "level": "C1-C2", "fr": "En entrant dans ce lieu, on traverse huit siècles d'histoire.", "pt": "Ao entrar neste lugar, atravessa-se oito séculos de história." }
+        { "level": "A1", "fr": "Il hoche la tête.", "pt": "Ele balança a cabeça." },
+        { "level": "A2-B1", "fr": "Le guide hoche la tête.", "pt": "O guia balança a cabeça." },
+        { "level": "B2", "fr": "Elle hoche la tête en signe d'accord.", "pt": "Ela balança a cabeça em sinal de acordo." },
+        { "level": "C1-C2", "fr": "C'est en hochant la tête que l'on répond, parfois, plus sûrement qu'avec des mots.", "pt": "É balançando a cabeça que se responde, às vezes, mais seguramente do que com palavras." }
       ]
     }
   ],
   "grammarTip": {
-    "ruleTitle": "AVOIR ou ÊTRE ? Les deux auxiliaires du passé",
-    "explanationPt": "A maioria dos verbos usa AVOIR: 'j'ai visité' (eu visitei), 'nous avons mangé' (nós comemos). Os verbos de movimento e mudança usam ÊTRE: 'je suis entré' (eu entrei), 'elle est allée' (ela foi). Regra: se o verbo indica movimento (entrar, sair, ir, vir, chegar, partir), use ÊTRE.",
-    "exampleFr": "Nous sommes entrés dans le musée et nous avons regardé les tapisseries.",
-    "examplePt": "Entramos no museu e olhamos as tapeçarias.",
-    "practiceQuestion": "Complete: « Nous ___ entrés dans la salle. »",
-    "options": ["sommes", "avons", "êtes"],
+    "ruleTitle": "L'imparfait : on soignait, on accueillait",
+    "explanationPt": "Imperfeito (hábitos no passado): 'on soignait' (cuidava-se), 'on accueillait' (acolhia-se).",
+    "exampleFr": "Ici, on soignait les malades et on accueillait les pauvres.",
+    "examplePt": "Aqui, cuidava-se dos doentes e acolhia-se os pobres.",
+    "practiceQuestion": "Complete: 'Ici, on _____ les malades.'",
+    "options": ["soignait", "soigne", "soignera"],
     "correctIndex": 0,
     "points": [
       {
-        "ruleTitle": "L'accord du participe avec ÊTRE",
-        "explanationPt": "Com ÊTRE, o particípio passado concorda com o sujeito: 'Irlan est entré' (ele entrou), 'Andréa est entrée' (ela entrou), 'les enfants sont entrés' (eles entraram). Com AVOIR, não há concordância com o sujeito: 'elle a visité'.",
-        "exampleFr": "Andréa est entrée, puis Íris est entrée aussi.",
-        "examplePt": "Andréa entrou, depois Íris também entrou.",
-        "practiceQuestion": "Qual frase está correta?",
-        "options": ["Elle est entrée dans la cuisine.", "Elle est entré dans la cuisine.", "Elle a entrée dans la cuisine."],
+        "ruleTitle": "Revenir demain matin",
+        "explanationPt": "'Revenir' = voltar. 'Revenez demain matin' (Voltem amanhã de manhã) — imperativo formal.",
+        "exampleFr": "Revenez demain matin.",
+        "examplePt": "Voltem amanhã de manhã.",
+        "practiceQuestion": "Complete: '_____ demain matin.'",
+        "options": ["Revenez", "Reviens", "Revenons"],
         "correctIndex": 0
       },
       {
-        "ruleTitle": "Narrer au passé : d'abord, ensuite, enfin",
-        "explanationPt": "Para contar uma história no passado, use marcadores de sequência: 'd'abord' (primeiro), 'ensuite' (depois), 'enfin' (finalmente). Eles organizam os Passés Composés.",
-        "exampleFr": "D'abord, nous avons visité la salle. Ensuite, nous avons vu la cuisine. Enfin, nous sommes sortis.",
-        "examplePt": "Primeiro, visitamos a sala. Depois, vimos a cozinha. Finalmente, saímos.",
-        "practiceQuestion": "Qual palavra significa 'depois'?",
-        "options": ["ensuite", "d'abord", "enfin"],
+        "ruleTitle": "Échanger un regard",
+        "explanationPt": "'Échanger un regard' = trocar um olhar. 'Ils échangent un regard' (Eles trocam um olhar).",
+        "exampleFr": "Ils échangent un regard complice.",
+        "examplePt": "Eles trocam um olhar cúmplice.",
+        "practiceQuestion": "Complete: 'Ils _____ un regard.'",
+        "options": ["échangent", "échange", "échangeons"],
         "correctIndex": 0
       }
     ]
@@ -220,33 +260,33 @@
   "quizQuestions": [
     {
       "question": "Quem fundou o Hospice Comtesse?",
-      "options": ["A condessa Jeanne de Flandre, em 1236", "Charles de Gaulle, em 1890", "O rei Luís XIV, em 1685"],
+      "options": ["Jeanne de Flandre", "De Gaulle", "Vauban"],
       "correctIndex": 0,
-      "explanation": "A condessa Jeanne de Flandre fundou o hospital em 1236, há quase oito séculos."
+      "explanation": "Fondé par Jeanne de Flandre."
     },
     {
-      "question": "Qual frase está no Passé Composé com ÊTRE?",
-      "options": ["Nous sommes entrés dans la salle.", "Nous avons mangé une tarte.", "J'ai acheté un billet."],
+      "question": "O que o registro na vitrine mostra?",
+      "options": ["listas de nomes", "receitas", "mapas"],
       "correctIndex": 0,
-      "explanation": "'Entrer' é verbo de movimento e usa ÊTRE: 'nous sommes entrés'."
+      "explanation": "Un grand registre montre des listes de noms."
     },
     {
-      "question": "Complete com a forma correta: « Andréa est ___ dans la cuisine. »",
-      "options": ["entrée", "entré", "entrés"],
+      "question": "Quem era anotado com cuidado?",
+      "options": ["os estrangeiros de passagem", "os comerciantes", "os guias"],
       "correctIndex": 0,
-      "explanation": "Com ÊTRE e sujeito feminino, o particípio concorda: 'entrée'."
+      "explanation": "Les étrangers de passage étaient notés avec soin."
     },
     {
-      "question": "O que as irmãs faziam no Hospice Comtesse?",
-      "options": ["Cuidavam dos doentes", "Vendiam tapeçarias", "Trabalhavam na gare"],
+      "question": "Complete: 'Ici, on _____ les malades.'",
+      "options": ["soignait", "soigne", "soignera"],
       "correctIndex": 0,
-      "explanation": "As irmãs religiosas soignaient (cuidavam) os malades durante oito séculos."
+      "explanation": "imparfait: soignait."
     },
     {
-      "question": "O que Irlan disse sobre sua scooter?",
-      "options": ["Passou cem vezes na frente do museu com as entregas, mas só hoje entrou.", "Vendeu a scooter em Lille.", "A scooter está na oficina."],
+      "question": "Complete: '_____ demain matin.'",
+      "options": ["Revenez", "Reviens", "Revenons"],
       "correctIndex": 0,
-      "explanation": "Irlan, ex-livreur, passou muitas vezes diante do museu com suas entregas e só agora o visitou."
+      "explanation": "Revenez (imperativo formal)."
     }
   ]
 }
