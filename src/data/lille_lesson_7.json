@@ -1,252 +1,292 @@
 {
   "id": "lille_lesson_7",
   "cityId": "lille",
-  "domain": "História",
+  "domain": "Monumento & Suspense",
   "level": "Básico (A2)",
   "titleFr": "Le beffroi de l'Hôtel de Ville : la vue sur la Flandre",
-  "titlePt": "O beffroi da Prefeitura: a vista sobre a Flandres",
-  "subtitleFr": "Un monument inscrit à l'UNESCO et la frontière belge à l'horizon",
-  "subtitlePt": "Um monumento inscrito na UNESCO e a fronteira belga no horizonte",
-  "summaryPt": "Nesta Aula 7 (A2), a família sobe ao beffroi (campanário) da Prefeitura de Lille, monumento inscrito na UNESCO, e admira a vista sobre a região e a fronteira com a Bélgica. O aluno consolida a distinção entre avoir e être no Passé Composé e aprende os verbos de movimento com être.",
+  "titlePt": "O campanário da Prefeitura: a vista sobre Flandres",
+  "subtitleFr": "Voir loin pour mieux chercher",
+  "subtitlePt": "Ver longe para melhor procurar",
+  "summaryPt": "Na Aula 7 de Lille (A2), Irlan e Andréa sobem no campanário da Prefeitura e veem a região. Do alto, Irlan percebe que alguém os observa. O aluno pratica as direções e o verbo 'voir'.",
   "paragraphs": [
     {
       "id": 1,
-      "fr": "Le beffroi de l'Hôtel de Ville est un monument inscrit à l'UNESCO. Nous sommes montés tout en haut par l'ascenseur, puis par un escalier.",
-      "pt": "O beffroi da Prefeitura é um monumento inscrito na UNESCO. Subimos até o topo de elevador e depois por uma escada."
+      "fr": "Avant les archives, Irlan et Andréa montent au beffroi de l'Hôtel de Ville.",
+      "pt": "Antes dos arquivos, Irlan e Andréa sobem no campanário da Prefeitura."
     },
     {
       "id": 2,
-      "fr": "De là-haut, la vue est magnifique. Nous avons vu toute la ville et, à l'horizon, la frontière avec la Belgique.",
-      "pt": "Lá de cima, a vista é magnífica. Vimos toda a cidade e, no horizonte, a fronteira com a Bélgica."
+      "fr": "L'ascenseur les emmène vers le sommet, au-dessus des toits.",
+      "pt": "O elevador os leva ao topo, acima dos telhados."
     },
     {
       "id": 3,
-      "fr": "Le gardien a expliqué l'histoire des cloches. Irlan a demandé : « Est-ce que les cloches sonnent tous les jours ? » Le gardien a répondu : « Oui, elles sonnent souvent. »",
-      "pt": "O guarda explicou a história dos sinos. Irlan perguntou: « Os sinos tocam todos os dias? » O guarda respondeu: « Sim, eles tocam com frequência. »"
+      "fr": "Là-haut, le vent est vif et la vue s'étend sur la Flandre.",
+      "pt": "Lá em cima, o vento é vivo e a vista se estende sobre Flandres."
     },
     {
       "id": 4,
-      "fr": "Nous sommes redescendus, contents et un peu fatigués. « C'est la plus belle vue du Nord », a dit Andréa en souriant.",
-      "pt": "Descemos, contentes e um pouco cansados. « É a vista mais bonita do Norte », disse Andréa sorrindo."
+      "fr": "« On voit loin, jusqu'aux champs et aux clochers voisins », dit Andréa.",
+      "pt": "« Vê-se longe, até os campos e os campanários vizinhos », diz Andréa."
+    },
+    {
+      "id": 5,
+      "fr": "Irlan déplie la carte de l'Atlas et repère la gare, le port et la vieille ville.",
+      "pt": "Irlan desdobra o mapa do Atlas e localiza a estação, o porto e a cidade velha."
+    },
+    {
+      "id": 6,
+      "fr": "« Le port est au nord-ouest. Les archives ne doivent pas être loin. »",
+      "pt": "« O porto fica a noroeste. Os arquivos não devem ficar longe. »"
+    },
+    {
+      "id": 7,
+      "fr": "Andréa lui tend les jumelles. « Regarde mieux. »",
+      "pt": "Andréa lhe entrega o binóculo. « Olha melhor. »"
+    },
+    {
+      "id": 8,
+      "fr": "Irlan balaie la place, les rues, les toits... puis s'arrête.",
+      "pt": "Irlan percorre a praça, as ruas, os telhados... e então para."
+    },
+    {
+      "id": 9,
+      "fr": "« Quelqu'un est en bas, près du kiosque. Il ne bouge pas. »",
+      "pt": "« Tem alguém lá embaixo, perto do quiosque. Ele não se mexe. »"
+    },
+    {
+      "id": 10,
+      "fr": "« Le manteau gris ? » demande Andréa, la gorge serrée.",
+      "pt": "« O sobretudo cinza? » pergunta Andréa, com a garganta apertada."
+    },
+    {
+      "id": 11,
+      "fr": "« Je ne vois pas son visage. Mais il nous attend, c'est sûr. »",
+      "pt": "« Não vejo o rosto dele. Mas ele nos espera, com certeza. »"
+    },
+    {
+      "id": 12,
+      "fr": "Ils redescendent, le cœur battant. « Restons ensemble. La confiance, c'est notre arme. »",
+      "pt": "Eles descem, com o coração batendo. « Fiquemos juntos. A confiança é a nossa arma. »"
     }
   ],
   "vocabularyDictionary": [
     {
+      "term": "le beffroi",
+      "definitionPt": "o campanário",
+      "definitionFr": "Tour d'une mairie.",
+      "inflections": ["le beffroi", "un beffroi", "des beffrois"],
+      "ptTargets": ["campanário"],
+      "examples": [
+        { "level": "A1", "fr": "Le beffroi est haut.", "pt": "O campanário é alto." },
+        { "level": "A2-B1", "fr": "Ils montent au beffroi de l'Hôtel de Ville.", "pt": "Eles sobem no campanário da Prefeitura." },
+        { "level": "B2", "fr": "Le beffroi domine la ville de sa silhouette élancée.", "pt": "O campanário domina a cidade com sua silhueta esbelta." },
+        { "level": "C1-C2", "fr": "C'est le beffroi qui, dressé au-dessus des toits, veille sur la cité.", "pt": "É o campanário que, erguido acima dos telhados, vigia a cidade." }
+      ]
+    },
+    {
+      "term": "l'Hôtel de Ville",
+      "definitionPt": "a Prefeitura",
+      "definitionFr": "Bâtiment de l'administration municipale.",
+      "inflections": ["l'Hôtel de Ville", "un hôtel de ville"],
+      "ptTargets": ["prefeitura"],
+      "examples": [
+        { "level": "A1", "fr": "L'Hôtel de Ville est au centre.", "pt": "A Prefeitura fica no centro." },
+        { "level": "A2-B1", "fr": "Le beffroi appartient à l'Hôtel de Ville.", "pt": "O campanário pertence à Prefeitura." },
+        { "level": "B2", "fr": "L'Hôtel de Ville abrite les services municipaux.", "pt": "A Prefeitura abriga os serviços municipais." },
+        { "level": "C1-C2", "fr": "C'est l'Hôtel de Ville qui, au cœur de la commune, incarne la vie collective.", "pt": "É a Prefeitura que, no coração da comuna, encarna a vida coletiva." }
+      ]
+    },
+    {
+      "term": "l'ascenseur",
+      "definitionPt": "o elevador",
+      "definitionFr": "Appareil qui monte et descend.",
+      "inflections": ["l'ascenseur", "un ascenseur", "des ascenseurs"],
+      "ptTargets": ["elevador"],
+      "examples": [
+        { "level": "A1", "fr": "L'ascenseur est rapide.", "pt": "O elevador é rápido." },
+        { "level": "A2-B1", "fr": "L'ascenseur les emmène au sommet.", "pt": "O elevador os leva ao topo." },
+        { "level": "B2", "fr": "L'ascenseur monte sans bruit jusqu'au dernier étage.", "pt": "O elevador sobe sem ruído até o último andar." },
+        { "level": "C1-C2", "fr": "C'est l'ascenseur qui, en quelques secondes, fait passer de la rue au ciel.", "pt": "É o elevador que, em poucos segundos, faz passar da rua ao céu." }
+      ]
+    },
+    {
+      "term": "le sommet",
+      "definitionPt": "o topo / o cume",
+      "definitionFr": "Partie la plus haute.",
+      "inflections": ["le sommet", "un sommet", "des sommets"],
+      "ptTargets": ["topo", "cume"],
+      "examples": [
+        { "level": "A1", "fr": "Le sommet est haut.", "pt": "O topo é alto." },
+        { "level": "A2-B1", "fr": "Ils montent vers le sommet du beffroi.", "pt": "Eles sobem em direção ao topo do campanário." },
+        { "level": "B2", "fr": "Du sommet, la vue s'étend sur toute la région.", "pt": "Do topo, a vista se estende por toda a região." },
+        { "level": "C1-C2", "fr": "C'est le sommet qui, une fois atteint, récompense l'effort par l'immensité.", "pt": "É o topo que, uma vez alcançado, recompensa o esforço com a imensidão." }
+      ]
+    },
+    {
       "term": "la vue",
       "definitionPt": "a vista",
-      "definitionFr": "Ce que l'on voit d'un endroit élevé.",
-      "inflections": ["la vue", "les vues"],
+      "definitionFr": "Ce que l'on voit.",
+      "inflections": ["la vue", "une vue", "des vues"],
       "ptTargets": ["vista"],
       "examples": [
         { "level": "A1", "fr": "La vue est belle.", "pt": "A vista é bonita." },
-        { "level": "A2-B1", "fr": "Du haut du beffroi, la vue est magnifique.", "pt": "Do alto do beffroi, a vista é magnífica." },
-        { "level": "B2", "fr": "La vue panoramique embrasse toute la métropole.", "pt": "A vista panorâmica abrange toda a metrópole." },
-        { "level": "C1-C2", "fr": "La vue depuis le sommet révèle l'organisation urbaine et le paysage régional.", "pt": "A vista do topo revela a organização urbana e a paisagem regional." }
+        { "level": "A2-B1", "fr": "La vue s'étend sur la Flandre.", "pt": "A vista se estende sobre Flandres." },
+        { "level": "B2", "fr": "La vue depuis le sommet coupe le souffle.", "pt": "A vista do topo tira o fôlego." },
+        { "level": "C1-C2", "fr": "C'est la vue qui, large et claire, remet chaque chose à sa place.", "pt": "É a vista que, ampla e clara, recoloca cada coisa em seu lugar." }
       ]
     },
     {
-      "term": "monter",
-      "definitionPt": "subir",
-      "definitionFr": "Aller vers le haut.",
-      "inflections": ["je monte", "nous montons", "monté"],
-      "ptTargets": ["subir"],
+      "term": "le toit",
+      "definitionPt": "o telhado",
+      "definitionFr": "Couverture d'un bâtiment.",
+      "inflections": ["le toit", "un toit", "des toits"],
+      "ptTargets": ["telhado"],
       "examples": [
-        { "level": "A1", "fr": "Je monte les escaliers.", "pt": "Eu subo as escadas." },
-        { "level": "A2-B1", "fr": "Nous sommes montés au sommet du beffroi.", "pt": "Nós subimos ao topo do beffroi." },
-        { "level": "B2", "fr": "On peut monter au beffroi par un ascenseur moderne.", "pt": "Dá para subir ao beffroi por um elevador moderno." },
-        { "level": "C1-C2", "fr": "Monter au sommet d'un monument historique offre une perspective unique sur la ville.", "pt": "Subir ao topo de um monumento histórico oferece uma perspectiva única sobre a cidade." }
+        { "level": "A1", "fr": "Le toit est gris.", "pt": "O telhado é cinza." },
+        { "level": "A2-B1", "fr": "Ils sont au-dessus des toits.", "pt": "Eles estão acima dos telhados." },
+        { "level": "B2", "fr": "Les toits de la ville s'étendent à perte de vue.", "pt": "Os telhados da cidade se estendem a perder de vista." },
+        { "level": "C1-C2", "fr": "Ce sont les toits qui, serrés les uns contre les autres, dessinent la ville vue du ciel.", "pt": "São os telhados que, apertados uns contra os outros, desenham a cidade vista do céu." }
       ]
     },
     {
-      "term": "descendre",
-      "definitionPt": "descer",
-      "definitionFr": "Aller vers le bas.",
-      "inflections": ["je descends", "nous descendons", "descendu"],
-      "ptTargets": ["descer"],
+      "term": "les jumelles",
+      "definitionPt": "o binóculo",
+      "definitionFr": "Instrument pour voir loin.",
+      "inflections": ["les jumelles", "une jumelle"],
+      "ptTargets": ["binóculo"],
       "examples": [
-        { "level": "A1", "fr": "Je descends du train.", "pt": "Eu desço do trem." },
-        { "level": "A2-B1", "fr": "Nous sommes redescendus après la visite.", "pt": "Nós descemos depois da visita." },
-        { "level": "B2", "fr": "Il faut descendre prudemment les escaliers en colimaçon.", "pt": "É preciso descer com cuidado a escada em espiral." },
-        { "level": "C1-C2", "fr": "Descendre d'un monument chargé d'histoire, c'est revenir doucement au présent.", "pt": "Descer de um monumento carregado de história é voltar suavemente ao presente." }
+        { "level": "A1", "fr": "Les jumelles sont utiles.", "pt": "O binóculo é útil." },
+        { "level": "A2-B1", "fr": "Andréa tend les jumelles à Irlan.", "pt": "Andréa entrega o binóculo a Irlan." },
+        { "level": "B2", "fr": "Avec les jumelles, on distingue les détails du paysage.", "pt": "Com o binóculo, distinguem-se os detalhes da paisagem." },
+        { "level": "C1-C2", "fr": "Ce sont les jumelles qui, en rapprochant le lointain, révèlent ce qui resterait invisible.", "pt": "É o binóculo que, ao aproximar o distante, revela o que permaneceria invisível." }
       ]
     },
     {
-      "term": "la hauteur",
-      "definitionPt": "a altura",
-      "definitionFr": "Dimension d'un objet de bas en haut.",
-      "inflections": ["la hauteur", "les hauteurs"],
-      "ptTargets": ["altura"],
+      "term": "le kiosque",
+      "definitionPt": "o quiosque",
+      "definitionFr": "Petit stand couvert.",
+      "inflections": ["le kiosque", "un kiosque", "des kiosques"],
+      "ptTargets": ["quiosque", "banca"],
       "examples": [
-        { "level": "A1", "fr": "La hauteur est grande.", "pt": "A altura é grande." },
-        { "level": "A2-B1", "fr": "Le beffroi a une hauteur de plus de cent mètres.", "pt": "O beffroi tem mais de cem metros de altura." },
-        { "level": "B2", "fr": "La hauteur du monument impressionne les visiteurs.", "pt": "A altura do monumento impressiona os visitantes." },
-        { "level": "C1-C2", "fr": "La hauteur des beffrois symbolisait la puissance et la liberté des communes flamandes.", "pt": "A altura dos campanários simbolizava o poder e a liberdade das comunas flamengas." }
+        { "level": "A1", "fr": "Le kiosque est fermé.", "pt": "O quiosque está fechado." },
+        { "level": "A2-B1", "fr": "Quelqu'un attend près du kiosque.", "pt": "Alguém espera perto do quiosque." },
+        { "level": "B2", "fr": "Le kiosque de la place est un point de repère.", "pt": "O quiosque da praça é um ponto de referência." },
+        { "level": "C1-C2", "fr": "C'est le kiosque qui, immobile, devient le décor discret d'une attente.", "pt": "É o quiosque que, imóvel, vira o cenário discreto de uma espera." }
       ]
     },
     {
-      "term": "l'escalier",
-      "definitionPt": "a escada",
-      "definitionFr": "Suite de marches pour monter ou descendre.",
-      "inflections": ["l'escalier", "les escaliers"],
-      "ptTargets": ["escada"],
+      "term": "le manteau",
+      "definitionPt": "o sobretudo",
+      "definitionFr": "Vêtement long pour le froid.",
+      "inflections": ["le manteau", "un manteau", "des manteaux"],
+      "ptTargets": ["sobretudo", "casaco"],
       "examples": [
-        { "level": "A1", "fr": "L'escalier est long.", "pt": "A escada é comprida." },
-        { "level": "A2-B1", "fr": "Nous avons pris l'escalier après l'ascenseur.", "pt": "Pegamos a escada depois do elevador." },
-        { "level": "B2", "fr": "L'escalier en colimaçon mène au sommet du beffroi.", "pt": "A escada em espiral leva ao topo do beffroi." },
-        { "level": "C1-C2", "fr": "Monter les escaliers étroits d'un beffroi fait partie de l'expérience historique.", "pt": "Subir as escadas estreitas de um campanário faz parte da experiência histórica." }
+        { "level": "A1", "fr": "Le manteau est gris.", "pt": "O sobretudo é cinza." },
+        { "level": "A2-B1", "fr": "Le manteau gris les suit.", "pt": "O sobretudo cinza os segue." },
+        { "level": "B2", "fr": "Le manteau gris disparaît au coin de la rue.", "pt": "O sobretudo cinza desaparece na esquina." },
+        { "level": "C1-C2", "fr": "C'est le manteau qui, gris et long, rend la silhouette à la fois banale et inquiétante.", "pt": "É o sobretudo que, cinza e comprido, torna a silhueta ao mesmo tempo banal e inquietante." }
       ]
     },
     {
-      "term": "la cloche",
-      "definitionPt": "o sino",
-      "definitionFr": "Instrument qui sonne, souvent dans un clocher.",
-      "inflections": ["la cloche", "les cloches"],
-      "ptTargets": ["sino"],
+      "term": "le visage",
+      "definitionPt": "o rosto",
+      "definitionFr": "Partie avant de la tête.",
+      "inflections": ["le visage", "un visage", "des visages"],
+      "ptTargets": ["rosto"],
       "examples": [
-        { "level": "A1", "fr": "La cloche sonne.", "pt": "O sino toca." },
-        { "level": "A2-B1", "fr": "Les cloches du beffroi sonnent souvent.", "pt": "Os sinos do beffroi tocam com frequência." },
-        { "level": "B2", "fr": "Le carillon du beffroi joue des mélodies traditionnelles.", "pt": "O carrilhão do beffroi toca melodias tradicionais." },
-        { "level": "C1-C2", "fr": "Les cloches rythmaient la vie des cités médiévales et annonçaient les grands événements.", "pt": "Os sinos marcavam a vida das cidades medievais e anunciavam os grandes eventos." }
+        { "level": "A1", "fr": "Le visage est calme.", "pt": "O rosto está calmo." },
+        { "level": "A2-B1", "fr": "Je ne vois pas son visage.", "pt": "Não vejo o rosto dele." },
+        { "level": "B2", "fr": "Son visage reste dans l'ombre.", "pt": "Seu rosto permanece na sombra." },
+        { "level": "C1-C2", "fr": "C'est le visage qui, plus que les mots, révèle la vérité d'une émotion.", "pt": "É o rosto que, mais que as palavras, revela a verdade de uma emoção." }
       ]
     },
     {
-      "term": "la région",
-      "definitionPt": "a região",
-      "definitionFr": "Grande zone géographique d'un pays.",
-      "inflections": ["la région", "les régions"],
-      "ptTargets": ["região"],
+      "term": "attendre",
+      "definitionPt": "esperar",
+      "definitionFr": "Rester jusqu'à l'arrivée.",
+      "inflections": ["attendre", "j'attends", "nous attendons"],
+      "ptTargets": ["esperar", "aguardar"],
       "examples": [
-        { "level": "A1", "fr": "La région est verte.", "pt": "A região é verde." },
-        { "level": "A2-B1", "fr": "Lille est la capitale de la région des Hauts-de-France.", "pt": "Lille é a capital da região dos Altos da França." },
-        { "level": "B2", "fr": "La région est célèbre pour sa gastronomie généreuse.", "pt": "A região é famosa por sua gastronomia generosa." },
-        { "level": "C1-C2", "fr": "La région transfrontalière illustre parfaitement la coopération européenne quotidienne.", "pt": "A região transfronteiriça ilustra perfeitamente a cooperação europeia cotidiana." }
+        { "level": "A1", "fr": "J'attends ici.", "pt": "Eu espero aqui." },
+        { "level": "A2-B1", "fr": "Il nous attend, c'est sûr.", "pt": "Ele nos espera, com certeza." },
+        { "level": "B2", "fr": "Attendre sans bouger demande du sang-froid.", "pt": "Esperar sem se mexer exige sangue-frio." },
+        { "level": "C1-C2", "fr": "C'est en attendant que l'on apprend à observer ce qui ne se dit pas.", "pt": "É esperando que se aprende a observar o que não se diz." }
       ]
     },
     {
-      "term": "le nord",
-      "definitionPt": "o norte",
-      "definitionFr": "Direction opposée au sud.",
-      "inflections": ["le nord", "les nord"],
-      "ptTargets": ["norte"],
+      "term": "l'arme",
+      "definitionPt": "a arma",
+      "definitionFr": "Moyen de se défendre.",
+      "inflections": ["l'arme", "une arme", "des armes"],
+      "ptTargets": ["arma"],
       "examples": [
-        { "level": "A1", "fr": "Le nord est froid.", "pt": "O norte é frio." },
-        { "level": "A2-B1", "fr": "Lille se trouve dans le nord de la France.", "pt": "Lille fica no norte da França." },
-        { "level": "B2", "fr": "Le nord de la France possède une identité culturelle très forte.", "pt": "O norte da França possui uma identidade cultural muito forte." },
-        { "level": "C1-C2", "fr": "L'identité du nord de la France s'est forgée autour de l'industrie, du charbon et de la solidarité.", "pt": "A identidade do norte da França forjou-se em torno da indústria, do carvão e da solidariedade." }
-      ]
-    },
-    {
-      "term": "la frontière",
-      "definitionPt": "a fronteira",
-      "definitionFr": "Limite entre deux pays.",
-      "inflections": ["la frontière", "les frontières"],
-      "ptTargets": ["fronteira"],
-      "examples": [
-        { "level": "A1", "fr": "La frontière est loin.", "pt": "A fronteira é longe." },
-        { "level": "A2-B1", "fr": "La Belgique est juste derrière la frontière.", "pt": "A Bélgica fica logo atrás da fronteira." },
-        { "level": "B2", "fr": "La frontière franco-belge est proche de Lille.", "pt": "A fronteira franco-belga fica perto de Lille." },
-        { "level": "C1-C2", "fr": "Les frontières européennes sont devenues des espaces de coopération et d'échange.", "pt": "As fronteiras europeias tornaram-se espaços de cooperação e intercâmbio." }
-      ]
-    },
-    {
-      "term": "la Belgique",
-      "definitionPt": "a Bélgica",
-      "definitionFr": "Pays voisin de la France.",
-      "inflections": ["la Belgique"],
-      "ptTargets": ["Bélgica"],
-      "examples": [
-        { "level": "A1", "fr": "La Belgique est un pays.", "pt": "A Bélgica é um país." },
-        { "level": "A2-B1", "fr": "On peut voir la Belgique depuis le beffroi.", "pt": "Dá para ver a Bélgica do beffroi." },
-        { "level": "B2", "fr": "Beaucoup de Belges viennent travailler à Lille chaque jour.", "pt": "Muitos belgas vêm trabalhar em Lille todos os dias." },
-        { "level": "C1-C2", "fr": "La métropole lilloise entretient des liens économiques et culturels étroits avec la Belgique.", "pt": "A metrópole lillesa mantém laços econômicos e culturais estreitos com a Bélgica." }
-      ]
-    },
-    {
-      "term": "la tour",
-      "definitionPt": "a torre",
-      "definitionFr": "Bâtiment haut et étroit.",
-      "inflections": ["la tour", "les tours"],
-      "ptTargets": ["torre"],
-      "examples": [
-        { "level": "A1", "fr": "La tour est haute.", "pt": "A torre é alta." },
-        { "level": "A2-B1", "fr": "La Tour Perret d'Amiens est une tour moderne.", "pt": "A Torre Perret de Amiens é uma torre moderna." },
-        { "level": "B2", "fr": "Les tours de la métropole contrastent avec le centre historique.", "pt": "As torres da metrópole contrastam com o centro histórico." },
-        { "level": "C1-C2", "fr": "L'érection des tours modernes a redessiné le paysage urbain de l'Eurométropole.", "pt": "A construção das torres modernas redesenhou a paisagem urbana da Eurometrópole." }
-      ]
-    },
-    {
-      "term": "la ville",
-      "definitionPt": "a cidade",
-      "definitionFr": "Grand centre habité.",
-      "inflections": ["la ville", "les villes"],
-      "ptTargets": ["cidade"],
-      "examples": [
-        { "level": "A1", "fr": "La ville est animée.", "pt": "A cidade é animada." },
-        { "level": "A2-B1", "fr": "Nous avons vu toute la ville d'en haut.", "pt": "Vimos toda a cidade de cima." },
-        { "level": "B2", "fr": "La ville s'étend jusqu'à la frontière belge.", "pt": "A cidade se estende até a fronteira belga." },
-        { "level": "C1-C2", "fr": "La ville de Lille est au cœur d'un bassin de vie transfrontalier de plus de deux millions d'habitants.", "pt": "A cidade de Lille está no coração de uma bacia de vida transfronteiriça de mais de dois milhões de habitantes." }
+        { "level": "A1", "fr": "L'arme est lourde.", "pt": "A arma é pesada." },
+        { "level": "A2-B1", "fr": "La confiance est notre arme.", "pt": "A confiança é a nossa arma." },
+        { "level": "B2", "fr": "La prudence est une arme plus utile que la force.", "pt": "A prudência é uma arma mais útil que a força." },
+        { "level": "C1-C2", "fr": "C'est l'arme invisible, faite de confiance et de calme, qui protège le mieux.", "pt": "É a arma invisível, feita de confiança e calma, que melhor protege." }
       ]
     }
   ],
   "grammarTip": {
-    "ruleTitle": "Distinguer AVOIR et ÊTRE au Passé Composé",
-    "explanationPt": "A maioria dos verbos usa avoir (j'ai vu, nous avons expliqué). Os verbos de movimento e os pronominais usam être (je suis monté, nous sommes descendus).",
-    "exampleFr": "Nous sommes montés tout en haut, puis nous avons pris l'ascenseur.",
-    "examplePt": "Subimos até o topo e depois pegamos o elevador.",
-    "practiceQuestion": "Qual frase usa o auxiliar être corretamente?",
-    "options": ["Elle est montée au sommet.", "Elle a montée au sommet.", "Elle est monté au sommet."],
+    "ruleTitle": "Le verbe voir",
+    "explanationPt": "Ver: je vois, tu vois, il voit, nous voyons, vous voyez, ils voient. 'On voit loin' (Vê-se longe).",
+    "exampleFr": "On voit loin, jusqu'aux champs.",
+    "examplePt": "Vê-se longe, até os campos.",
+    "practiceQuestion": "Complete: 'On _____ loin.'",
+    "options": ["voit", "vois", "voyons"],
     "correctIndex": 0,
     "points": [
       {
-        "ruleTitle": "Les verbes de mouvement avec être",
-        "explanationPt": "montar/descer/ir/chegar/partir/entrar/sair/ficar/cair/voltar usam être. O particípio concorda: 'elle est montée', 'ils sont descendus'.",
-        "exampleFr": "Nous sommes redescendus après la visite.",
-        "examplePt": "Nós descemos depois da visita.",
-        "practiceQuestion": "Complete: « Andréa est ___ au sommet. »",
-        "options": ["montée", "monté", "montés"],
+        "ruleTitle": "Les points cardinaux",
+        "explanationPt": "Norte: le nord, sul: le sud, leste: l'est, oeste: l'ouest. 'Au nord-ouest' = a noroeste.",
+        "exampleFr": "Le port est au nord-ouest.",
+        "examplePt": "O porto fica a noroeste.",
+        "practiceQuestion": "Complete: 'Le port est _____ nord-ouest.'",
+        "options": ["au", "à le", "du"],
         "correctIndex": 0
       },
       {
-        "ruleTitle": "Les verbes d'action avec avoir",
-        "explanationPt": "Verbos de ação com objeto (voir, expliquer, demander, répondre) usam avoir: 'j'ai vu', 'il a demandé'.",
-        "exampleFr": "Le gardien a expliqué l'histoire des cloches.",
-        "examplePt": "O guarda explicou a história dos sinos.",
-        "practiceQuestion": "Qual verbo usa o auxiliar avoir?",
-        "options": ["expliquer", "monter", "arriver"],
+        "ruleTitle": "La gorge serrée",
+        "explanationPt": "'La gorge serrée' = com a garganta apertada (expressão de emoção/medo).",
+        "exampleFr": "Andréa demande, la gorge serrée.",
+        "examplePt": "Andréa pergunta, com a garganta apertada.",
+        "practiceQuestion": "Complete: 'Elle parle, la _____ serrée.'",
+        "options": ["gorge", "gorge de", "cœur"],
         "correctIndex": 0
       }
     ]
   },
   "quizQuestions": [
     {
-      "question": "O que é o beffroi de l'Hôtel de Ville de Lille?",
-      "options": ["um monumento inscrito na UNESCO", "uma estação de trem", "um mercado"],
+      "question": "Onde Irlan e Andréa sobem?",
+      "options": ["no campanário da Prefeitura", "na catedral", "na citadela"],
       "correctIndex": 0,
-      "explanation": "O beffroi é inscrito na UNESCO como patrimônio mundial."
+      "explanation": "Ils montent au beffroi de l'Hôtel de Ville."
     },
     {
-      "question": "O que se vê do topo do beffroi?",
-      "options": ["a fronteira com a Bélgica", "o mar", "os Alpes"],
+      "question": "O que Irlan localiza no mapa?",
+      "options": ["a estação, o porto e a cidade velha", "o circo e o zoo", "o hotel e o mercado"],
       "correctIndex": 0,
-      "explanation": "Do topo, vê-se a fronteira com a Bélgica no horizonte."
+      "explanation": "Il repère la gare, le port et la vieille ville."
     },
     {
-      "question": "Complete: « Nous ___ montés au sommet. »",
-      "options": ["sommes", "avons", "allons"],
+      "question": "Quem Irlan vê embaixo?",
+      "options": ["alguém de sobretudo cinza", "um amigo", "o vigia do museu"],
       "correctIndex": 0,
-      "explanation": "'Monter' usa être: nous sommes montés."
+      "explanation": "Quelqu'un est en bas, près du kiosque."
     },
     {
-      "question": "Qual é a capital da região onde fica Lille?",
-      "options": ["Lille", "Amiens", "Bruxelas"],
+      "question": "Complete: 'On _____ loin.'",
+      "options": ["voit", "vois", "voyons"],
       "correctIndex": 0,
-      "explanation": "Lille é a capital dos Hauts-de-France."
+      "explanation": "on voit."
     },
     {
-      "question": "Como Andréa descreveu a vista?",
-      "options": ["a vista mais bonita do Norte", "uma vista comum", "muito pequena"],
+      "question": "Complete: 'Elle parle, la _____ serrée.'",
+      "options": ["gorge", "gorge de", "cœur"],
       "correctIndex": 0,
-      "explanation": "Andréa disse: 'C'est la plus belle vue du Nord'."
+      "explanation": "la gorge serrée."
     }
   ]
 }

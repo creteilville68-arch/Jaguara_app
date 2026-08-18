@@ -1,252 +1,292 @@
 {
   "id": "lille_lesson_9",
   "cityId": "lille",
-  "domain": "Cotidiano",
+  "domain": "Gastronomia & Memória",
   "level": "Básico (A2)",
   "titleFr": "Une soirée à l'estaminet : les souvenirs de Paris",
   "titlePt": "Uma noite no estaminet: as lembranças de Paris",
-  "subtitleFr": "Irlan raconte ses années de livreur en scooter et la famille écoute en souriant",
-  "subtitlePt": "Irlan conta seus anos de entregador de scooter e a família escuta sorrindo",
-  "summaryPt": "Nesta Aula 9 (A2), a família janta em um estaminet e Irlan conta suas lembranças dos anos de entregador de scooter em Paris: as ruas, a chuva, os clientes e a correria. O aluno pratica a narração de uma sequência no passado (d'abord, ensuite, enfin) e o Passé Composé para contar histórias.",
+  "subtitleFr": "Parler du chemin parcouru",
+  "subtitlePt": "Falar do caminho percorrido",
+  "summaryPt": "Na Aula 9 de Lille (A2), Irlan e Andréa jantam num estaminet e relembram o caminho desde Paris. O aluno pratica o passé composé e as lembranças.",
   "paragraphs": [
     {
       "id": 1,
-      "fr": "Le soir, nous avons dîné dans un estaminet chaleureux. Après le repas, Íris a demandé : « Papa, raconte-nous tes années de livreur à Paris ! »",
-      "pt": "À noite, jantamos em um estaminet acolhedor. Depois da refeição, Íris pediu: « Papai, conta para a gente seus anos de entregador em Paris! »"
+      "fr": "Le soir, Irlan et Andréa retournent dans un estaminet chaleureux.",
+      "pt": "À noite, Irlan e Andréa voltam a um estaminet caloroso."
     },
     {
       "id": 2,
-      "fr": "Irlan a souri et il a raconté : « D'abord, je prenais ma scooter tous les matins. Ensuite, je parcourais la ville avec les commandes. Le soir, je rentrais fatigué mais heureux. »",
-      "pt": "Irlan sorriu e contou: « Primeiro, eu pegava minha scooter todas as manhãs. Depois, eu percorria a cidade com os pedidos. À noite, voltava cansado, mas feliz. »"
+      "fr": "Des lampes jaunes éclairent les tables en bois sombre.",
+      "pt": "Lâmpadas amarelas iluminam as mesas de madeira escura."
     },
     {
       "id": 3,
-      "fr": "Il a expliqué qu'il connaissait chaque rue de Paris grâce aux livraisons. « Un jour, j'ai livré une commande à Andréa, dans une boulangerie », a-t-il ajouté en riant.",
-      "pt": "Ele explicou que conhecia cada rua de Paris graças às entregas. « Um dia, entreguei um pedido para a Andréa, em uma padaria », acrescentou rindo."
+      "fr": "« Tu te souviens de notre premier dîner à Paris ? » demande Andréa.",
+      "pt": "« Você se lembra do nosso primeiro jantar em Paris? » pergunta Andréa."
     },
     {
       "id": 4,
-      "fr": "Andréa a rougi. « C'est vrai ! » a-t-elle dit. « Et aujourd'hui, nous voyageons tous les trois. » Irlan a conclu : « Enfin, la vie a une belle histoire à raconter. »",
-      "pt": "Andréa corou. « É verdade! » disse ela. « E hoje, viajamos nós três. » Irlan concluiu: « Por fim, a vida tem uma bela história para contar. »"
+      "fr": "« Bien sûr. J'avais peur de commander en français », sourit Irlan.",
+      "pt": "« Claro. Eu tinha medo de pedir em francês », sorri Irlan."
+    },
+    {
+      "id": 5,
+      "fr": "« Et maintenant, tu cherches des archives comme un vrai enquêteur. »",
+      "pt": "« E agora, você procura arquivos como um verdadeiro investigador. »"
+    },
+    {
+      "id": 6,
+      "fr": "Ils commandent une carbonnade et deux boissons chaudes.",
+      "pt": "Eles pedem uma carbonnade e duas bebidas quentes."
+    },
+    {
+      "id": 7,
+      "fr": "« Nous avons traversé tant de villes, dit Irlan. Et la route continue. »",
+      "pt": "« Atravessamos tantas cidades, diz Irlan. E o caminho continua. »"
+    },
+    {
+      "id": 8,
+      "fr": "Andréa pose son verre. « Chaque ville nous a appris quelque chose. »",
+      "pt": "Andréa pousa o copo. « Cada cidade nos ensinou alguma coisa. »"
+    },
+    {
+      "id": 9,
+      "fr": "« Paris m'a appris l'amour. Amiens, la patience. Et Lille ? »",
+      "pt": "« Paris me ensinou o amor. Amiens, a paciência. E Lille? »"
+    },
+    {
+      "id": 10,
+      "fr": "« Lille nous apprend la confiance », répond Irlan doucement.",
+      "pt": "« Lille nos ensina a confiança », responde Irlan suavemente."
+    },
+    {
+      "id": 11,
+      "fr": "Dehors, la pluie fine tombe sur les pavés luisants.",
+      "pt": "Lá fora, uma chuva fina cai sobre as pedras brilhantes."
+    },
+    {
+      "id": 12,
+      "fr": "« Demain, les archives. Nous sommes prêts », dit Andréa, déterminée.",
+      "pt": "« Amanhã, os arquivos. Estamos prontos », diz Andréa, decidida."
     }
   ],
   "vocabularyDictionary": [
     {
-      "term": "raconter",
-      "definitionPt": "contar (história)",
-      "definitionFr": "Dire une histoire, relater.",
-      "inflections": ["je raconte", "nous racontons", "raconté"],
-      "ptTargets": ["contar"],
+      "term": "la soirée",
+      "definitionPt": "a noite / a festa",
+      "definitionFr": "Fin de journée, le soir.",
+      "inflections": ["la soirée", "une soirée", "des soirées"],
+      "ptTargets": ["noite", "festa"],
       "examples": [
-        { "level": "A1", "fr": "Je raconte une histoire.", "pt": "Eu conto uma história." },
-        { "level": "A2-B1", "fr": "Irlan a raconté ses années à Paris.", "pt": "Irlan contou seus anos em Paris." },
-        { "level": "B2", "fr": "Il a raconté comment il avait rencontré Andréa.", "pt": "Ele contou como tinha conhecido Andréa." },
-        { "level": "C1-C2", "fr": "Raconter son parcours de vie, c'est transmettre une expérience unique à la génération suivante.", "pt": "Contar sua trajetória de vida é transmitir uma experiência única à geração seguinte." }
+        { "level": "A1", "fr": "La soirée est agréable.", "pt": "A noite é agradável." },
+        { "level": "A2-B1", "fr": "Ils passent la soirée dans un estaminet.", "pt": "Eles passam a noite num estaminet." },
+        { "level": "B2", "fr": "La soirée se termine dans la chaleur des souvenirs.", "pt": "A noite termina no calor das lembranças." },
+        { "level": "C1-C2", "fr": "C'est la soirée qui, entre deux jours, offre le temps des confidences.", "pt": "É a noite que, entre dois dias, oferece o tempo das confidências." }
       ]
     },
     {
-      "term": "l'histoire",
-      "definitionPt": "a história",
-      "definitionFr": "Récit, événements du passé.",
-      "inflections": ["l'histoire", "les histoires"],
-      "ptTargets": ["história"],
+      "term": "le souvenir",
+      "definitionPt": "a lembrança",
+      "definitionFr": "Mémoire d'un moment passé.",
+      "inflections": ["le souvenir", "un souvenir", "des souvenirs"],
+      "ptTargets": ["lembrança", "recordação"],
       "examples": [
-        { "level": "A1", "fr": "L'histoire est belle.", "pt": "A história é bonita." },
-        { "level": "A2-B1", "fr": "La vie d'Irlan est une belle histoire.", "pt": "A vida do Irlan é uma bela história." },
-        { "level": "B2", "fr": "L'histoire de la ville se lit dans ses rues.", "pt": "A história da cidade se lê em suas ruas." },
-        { "level": "C1-C2", "fr": "L'histoire des migrations raconte la construction des sociétés modernes.", "pt": "A história das migrações conta a construção das sociedades modernas." }
+        { "level": "A1", "fr": "Le souvenir est doux.", "pt": "A lembrança é doce." },
+        { "level": "A2-B1", "fr": "Ils parlent de leurs souvenirs de Paris.", "pt": "Eles falam de suas lembranças de Paris." },
+        { "level": "B2", "fr": "Les souvenirs partagés renforcent les liens.", "pt": "As lembranças partilhadas fortalecem os laços." },
+        { "level": "C1-C2", "fr": "C'est le souvenir qui, fidèle, garde vivants les jours que le temps efface.", "pt": "É a lembrança que, fiel, mantém vivos os dias que o tempo apaga." }
       ]
     },
     {
-      "term": "le passé",
-      "definitionPt": "o passado",
-      "definitionFr": "Le temps qui est déjà écoulé.",
-      "inflections": ["le passé"],
-      "ptTargets": ["passado"],
+      "term": "se souvenir",
+      "definitionPt": "lembrar-se",
+      "definitionFr": "Avoir en mémoire.",
+      "inflections": ["se souvenir", "je me souviens", "nous nous souvenons"],
+      "ptTargets": ["lembrar-se"],
       "examples": [
-        { "level": "A1", "fr": "Le passé est loin.", "pt": "O passado está longe." },
-        { "level": "A2-B1", "fr": "Irlan parle de son passé de livreur.", "pt": "Irlan fala do seu passado de entregador." },
-        { "level": "B2", "fr": "Le passé industriel de la région est encore visible aujourd'hui.", "pt": "O passado industrial da região ainda é visível hoje." },
-        { "level": "C1-C2", "fr": "Se souvenir du passé aide à comprendre le présent et à construire l'avenir.", "pt": "Lembrar do passado ajuda a compreender o presente e a construir o futuro." }
+        { "level": "A1", "fr": "Je me souviens de toi.", "pt": "Eu me lembro de você." },
+        { "level": "A2-B1", "fr": "Tu te souviens de notre dîner ?", "pt": "Você se lembra do nosso jantar?" },
+        { "level": "B2", "fr": "Se souvenir des détails aide à comprendre le présent.", "pt": "Lembrar-se dos detalhes ajuda a entender o presente." },
+        { "level": "C1-C2", "fr": "C'est en se souvenant que l'on mesure le chemin parcouru.", "pt": "É lembrando que se mede o caminho percorrido." }
       ]
     },
     {
-      "term": "les années",
-      "definitionPt": "os anos",
-      "definitionFr": "Périodes de douze mois.",
-      "inflections": ["l'année", "les années"],
-      "ptTargets": ["anos"],
+      "term": "commander",
+      "definitionPt": "pedir (comida)",
+      "definitionFr": "Demander un plat.",
+      "inflections": ["commander", "je commande", "nous commandons"],
+      "ptTargets": ["pedir"],
       "examples": [
-        { "level": "A1", "fr": "Les années passent vite.", "pt": "Os anos passam rápido." },
-        { "level": "A2-B1", "fr": "Il a parlé de ses années à Paris.", "pt": "Ele falou dos seus anos em Paris." },
-        { "level": "B2", "fr": "Les années de livreur lui ont appris la ville par cœur.", "pt": "Os anos de entregador lhe ensinaram a cidade de cor." },
-        { "level": "C1-C2", "fr": "Les années de travail manuel ont forgé sa connaissance intime de l'espace urbain.", "pt": "Os anos de trabalho manual forjaram seu conhecimento íntimo do espaço urbano." }
+        { "level": "A1", "fr": "Je commande un café.", "pt": "Eu peço um café." },
+        { "level": "A2-B1", "fr": "Ils commandent une carbonnade.", "pt": "Eles pedem uma carbonnade." },
+        { "level": "B2", "fr": "Commander en français ne lui fait plus peur.", "pt": "Pedir em francês não o assusta mais." },
+        { "level": "C1-C2", "fr": "C'est en commandant que l'on entre, un peu, dans la vie d'un lieu.", "pt": "É pedindo que se entra, um pouco, na vida de um lugar." }
       ]
     },
     {
-      "term": "le travail",
-      "definitionPt": "o trabalho",
-      "definitionFr": "Activité professionnelle.",
-      "inflections": ["le travail", "les travaux"],
-      "ptTargets": ["trabalho"],
+      "term": "la peur",
+      "definitionPt": "o medo",
+      "definitionFr": "Sentiment face au danger.",
+      "inflections": ["la peur", "une peur", "des peurs"],
+      "ptTargets": ["medo"],
       "examples": [
-        { "level": "A1", "fr": "Le travail est dur.", "pt": "O trabalho é difícil." },
-        { "level": "A2-B1", "fr": "Son premier travail en France était livreur.", "pt": "Seu primeiro trabalho na França foi de entregador." },
-        { "level": "B2", "fr": "Le travail de livreur demande beaucoup d'énergie et de courage.", "pt": "O trabalho de entregador exige muita energia e coragem." },
-        { "level": "C1-C2", "fr": "Le travail des livreurs à vélo et en scooter a profondément transformé les villes.", "pt": "O trabalho dos entregadores de bicicleta e scooter transformou profundamente as cidades." }
+        { "level": "A1", "fr": "La peur est grande.", "pt": "O medo é grande." },
+        { "level": "A2-B1", "fr": "J'avais peur de commander en français.", "pt": "Eu tinha medo de pedir em francês." },
+        { "level": "B2", "fr": "La peur disparaît quand on avance malgré elle.", "pt": "O medo desaparece quando se avança apesar dele." },
+        { "level": "C1-C2", "fr": "C'est la peur qui, apprivoisée, devient souvent le début du courage.", "pt": "É o medo que, dominado, muitas vezes vira o começo da coragem." }
       ]
     },
     {
-      "term": "la scooter",
-      "definitionPt": "a scooter",
-      "definitionFr": "Véhicule à deux roues à moteur.",
-      "inflections": ["la scooter", "les scooters"],
-      "ptTargets": ["scooter"],
+      "term": "l'enquêteur",
+      "definitionPt": "o investigador",
+      "definitionFr": "Personne qui mène une enquête.",
+      "inflections": ["l'enquêteur", "un enquêteur", "des enquêteurs"],
+      "ptTargets": ["investigador"],
       "examples": [
-        { "level": "A1", "fr": "La scooter est rapide.", "pt": "A scooter é rápida." },
-        { "level": "A2-B1", "fr": "Irlan faisait ses livraisons en scooter.", "pt": "Irlan fazia suas entregas de scooter." },
-        { "level": "B2", "fr": "La scooter permet de se déplacer vite dans les embouteillages.", "pt": "A scooter permite se deslocar rápido no trânsito." },
-        { "level": "C1-C2", "fr": "L'usage de la scooter en milieu urbain pose des questions de sécurité et de pollution.", "pt": "O uso da scooter em meio urbano levanta questões de segurança e poluição." }
+        { "level": "A1", "fr": "L'enquêteur cherche.", "pt": "O investigador procura." },
+        { "level": "A2-B1", "fr": "Irlan cherche comme un vrai enquêteur.", "pt": "Irlan procura como um verdadeiro investigador." },
+        { "level": "B2", "fr": "Un bon enquêteur note chaque détail.", "pt": "Um bom investigador anota cada detalhe." },
+        { "level": "C1-C2", "fr": "C'est l'enquêteur qui, patient, relie les indices que les autres ne voient pas.", "pt": "É o investigador que, paciente, liga as pistas que os outros não veem." }
       ]
     },
     {
-      "term": "le client",
-      "definitionPt": "o cliente",
-      "definitionFr": "Personne qui achète un service ou un produit.",
-      "inflections": ["le client", "les clients"],
-      "ptTargets": ["cliente"],
+      "term": "traverser",
+      "definitionPt": "atravessar",
+      "definitionFr": "Passer d'un côté à l'autre.",
+      "inflections": ["traverser", "je traverse", "nous traversons"],
+      "ptTargets": ["atravessar"],
       "examples": [
-        { "level": "A1", "fr": "Le client attend.", "pt": "O cliente espera." },
-        { "level": "A2-B1", "fr": "Les clients attendaient leurs commandes à Paris.", "pt": "Os clientes esperavam seus pedidos em Paris." },
-        { "level": "B2", "fr": "Un livreur doit souvent répondre aux demandes des clients pressés.", "pt": "Um entregador precisa muitas vezes atender aos pedidos de clientes apressados." },
-        { "level": "C1-C2", "fr": "La relation entre livreur et client est devenue un enjeu central des plateformes numériques.", "pt": "A relação entre entregador e cliente tornou-se um desafio central das plataformas digitais." }
+        { "level": "A1", "fr": "Je traverse la rue.", "pt": "Eu atravesso a rua." },
+        { "level": "A2-B1", "fr": "Ils ont traversé tant de villes.", "pt": "Eles atravessaram tantas cidades." },
+        { "level": "B2", "fr": "Traverser un pays, c'est aussi traverser des souvenirs.", "pt": "Atravessar um país é também atravessar lembranças." },
+        { "level": "C1-C2", "fr": "C'est en traversant que l'on change, sans même s'en rendre compte.", "pt": "É atravessando que se muda, sem nem se dar conta." }
       ]
     },
     {
-      "term": "la pluie",
-      "definitionPt": "a chuva",
-      "definitionFr": "Eau qui tombe du ciel.",
-      "inflections": ["la pluie", "les pluies"],
-      "ptTargets": ["chuva"],
+      "term": "la boisson",
+      "definitionPt": "a bebida",
+      "definitionFr": "Liquide à boire.",
+      "inflections": ["la boisson", "une boisson", "des boissons"],
+      "ptTargets": ["bebida"],
       "examples": [
-        { "level": "A1", "fr": "La pluie tombe.", "pt": "A chuva cai." },
-        { "level": "A2-B1", "fr": "Il a travaillé sous la pluie pendant des heures.", "pt": "Ele trabalhou sob a chuva durante horas." },
-        { "level": "B2", "fr": "Sous la pluie, les livraisons deviennent beaucoup plus difficiles.", "pt": "Sob a chuva, as entregas ficam muito mais difíceis." },
-        { "level": "C1-C2", "fr": "La pluie parisienne, grise et fine, fait partie de la mémoire de tous les livreurs.", "pt": "A chuva parisiense, cinzenta e fina, faz parte da memória de todos os entregadores." }
+        { "level": "A1", "fr": "La boisson est chaude.", "pt": "A bebida é quente." },
+        { "level": "A2-B1", "fr": "Ils commandent deux boissons chaudes.", "pt": "Eles pedem duas bebidas quentes." },
+        { "level": "B2", "fr": "Une boisson chaude réchauffe les soirées froides.", "pt": "Uma bebida quente aquece as noites frias." },
+        { "level": "C1-C2", "fr": "C'est la boisson qui, partagée, prolonge les conversations du soir.", "pt": "É a bebida que, partilhada, prolonga as conversas da noite." }
       ]
     },
     {
-      "term": "l'hiver",
-      "definitionPt": "o inverno",
-      "definitionFr": "La saison la plus froide.",
-      "inflections": ["l'hiver", "les hivers"],
-      "ptTargets": ["inverno"],
+      "term": "le verre",
+      "definitionPt": "o copo",
+      "definitionFr": "Récipient pour boire.",
+      "inflections": ["le verre", "un verre", "des verres"],
+      "ptTargets": ["copo"],
       "examples": [
-        { "level": "A1", "fr": "L'hiver est froid.", "pt": "O inverno é frio." },
-        { "level": "A2-B1", "fr": "En hiver, la scooter était difficile à conduire.", "pt": "No inverno, a scooter era difícil de conduzir." },
-        { "level": "B2", "fr": "Les hivers parisiens sont froids et humides.", "pt": "Os invernos parisienses são frios e úmidos." },
-        { "level": "C1-C2", "fr": "Affronter l'hiver en livrant en scooter exige une grande résistance physique.", "pt": "Enfrentar o inverno entregando de scooter exige grande resistência física." }
+        { "level": "A1", "fr": "Le verre est plein.", "pt": "O copo está cheio." },
+        { "level": "A2-B1", "fr": "Andréa pose son verre.", "pt": "Andréa pousa o copo." },
+        { "level": "B2", "fr": "Il lève son verre pour trinquer.", "pt": "Ele ergue o copo para brindar." },
+        { "level": "C1-C2", "fr": "C'est le verre qui, levé entre amis, scelle les promesses et les joies.", "pt": "É o copo que, erguido entre amigos, sela as promessas e as alegrias." }
       ]
     },
     {
-      "term": "la commande",
-      "definitionPt": "o pedido (encomenda)",
-      "definitionFr": "Produit demandé et à livrer.",
-      "inflections": ["la commande", "les commandes"],
-      "ptTargets": ["pedido"],
+      "term": "les pavés",
+      "definitionPt": "as pedras (do calçamento)",
+      "definitionFr": "Pierres du sol des rues.",
+      "inflections": ["les pavés", "un pavé", "des pavés"],
+      "ptTargets": ["paralelepípedos", "pedras"],
       "examples": [
-        { "level": "A1", "fr": "La commande est prête.", "pt": "O pedido está pronto." },
-        { "level": "A2-B1", "fr": "Il a livré la commande à la boulangerie.", "pt": "Ele entregou o pedido na padaria." },
-        { "level": "B2", "fr": "Les commandes s'enchaînaient sans pause pendant le déjeuner.", "pt": "Os pedidos se sucediam sem pausa durante o almoço." },
-        { "level": "C1-C2", "fr": "La gestion des commandes en temps réel a révolutionné la logistique urbaine.", "pt": "A gestão de pedidos em tempo real revolucionou a logística urbana." }
+        { "level": "A1", "fr": "Les pavés sont mouillés.", "pt": "As pedras estão molhadas." },
+        { "level": "A2-B1", "fr": "La pluie tombe sur les pavés.", "pt": "A chuva cai sobre as pedras." },
+        { "level": "B2", "fr": "Les pavés luisants reflètent les lampadaires.", "pt": "As pedras brilhantes refletem os postes." },
+        { "level": "C1-C2", "fr": "Ce sont les pavés qui, usés par les pas, gardent la mémoire des rues.", "pt": "São as pedras que, gastas pelos passos, guardam a memória das ruas." }
       ]
     },
     {
-      "term": "livrer",
-      "definitionPt": "entregar",
-      "definitionFr": "Apporter une commande à quelqu'un.",
-      "inflections": ["je livre", "nous livrons", "livré"],
-      "ptTargets": ["entregar"],
+      "term": "déterminé",
+      "definitionPt": "decidido / determinado",
+      "definitionFr": "Qui a une volonté ferme.",
+      "inflections": ["déterminé", "déterminée", "déterminés"],
+      "ptTargets": ["decidido", "determinado"],
       "examples": [
-        { "level": "A1", "fr": "Je livre le colis.", "pt": "Eu entrego o pacote." },
-        { "level": "A2-B1", "fr": "Il a livré une commande à Andréa.", "pt": "Ele entregou um pedido para Andréa." },
-        { "level": "B2", "fr": "Il livrait des repas à travers tout Paris.", "pt": "Ele entregava refeições por toda Paris." },
-        { "level": "C1-C2", "fr": "Livrer en scooter dans la capitale exige une connaissance parfaite de ses rues.", "pt": "Entregar de scooter na capital exige um conhecimento perfeito de suas ruas." }
+        { "level": "A1", "fr": "Il est déterminé.", "pt": "Ele é decidido." },
+        { "level": "A2-B1", "fr": "Andréa est déterminée.", "pt": "Andréa é decidida." },
+        { "level": "B2", "fr": "Déterminée, elle ne recule devant rien.", "pt": "Decidida, ela não recua diante de nada." },
+        { "level": "C1-C2", "fr": "C'est la détermination qui, plus que la force, fait avancer malgré le doute.", "pt": "É a determinação que, mais que a força, faz avançar apesar da dúvida." }
       ]
     },
     {
-      "term": "la vie",
-      "definitionPt": "a vida",
-      "definitionFr": "Existence, manière de vivre.",
-      "inflections": ["la vie", "les vies"],
-      "ptTargets": ["vida"],
+      "term": "prêt",
+      "definitionPt": "pronto",
+      "definitionFr": "Disposé à agir.",
+      "inflections": ["prêt", "prête", "prêts"],
+      "ptTargets": ["pronto"],
       "examples": [
-        { "level": "A1", "fr": "La vie est belle.", "pt": "A vida é bela." },
-        { "level": "A2-B1", "fr": "La vie d'Irlan a changé en France.", "pt": "A vida do Irlan mudou na França." },
-        { "level": "B2", "fr": "La vie de famille a transformé ses priorités.", "pt": "A vida em família transformou suas prioridades." },
-        { "level": "C1-C2", "fr": "La vie raconte parfois des histoires plus belles que les romans.", "pt": "A vida conta às vezes histórias mais bonitas que os romances." }
+        { "level": "A1", "fr": "Je suis prêt.", "pt": "Eu estou pronto." },
+        { "level": "A2-B1", "fr": "Nous sommes prêts pour les archives.", "pt": "Estamos prontos para os arquivos." },
+        { "level": "B2", "fr": "Être prêt, c'est avoir préparé l'essentiel.", "pt": "Estar pronto é ter preparado o essencial." },
+        { "level": "C1-C2", "fr": "C'est prêt, cet état d'esprit qui transforme l'attente en action.", "pt": "É pronto, esse estado de espírito que transforma a espera em ação." }
       ]
     }
   ],
   "grammarTip": {
-    "ruleTitle": "Narrer une séquence : d'abord, ensuite, enfin",
-    "explanationPt": "Para contar uma história, usamos marcadores de sequência: 'd'abord' (primeiro), 'ensuite' (depois), 'enfin' (por fim). Eles organizam a narração e usam o Passé Composé para as ações.",
-    "exampleFr": "D'abord, je prenais ma scooter. Ensuite, je parcourais la ville. Enfin, je rentrais à la maison.",
-    "examplePt": "Primeiro, eu pegava minha scooter. Depois, percorria a cidade. Por fim, voltava para casa.",
-    "practiceQuestion": "Complete a sequência: « ___, j'ai livré la commande à Andréa. »",
-    "options": ["Un jour", "Enfin", "Toujours"],
+    "ruleTitle": "Le passé composé (révision)",
+    "explanationPt": "Passado composto: 'nous avons traversé' (atravessamos), 'elle a appris' (ela aprendeu).",
+    "exampleFr": "Nous avons traversé tant de villes.",
+    "examplePt": "Atravessamos tantas cidades.",
+    "practiceQuestion": "Complete: 'Nous avons _____ tant de villes.'",
+    "options": ["traversé", "traversés", "traverser"],
     "correctIndex": 0,
     "points": [
       {
-        "ruleTitle": "Les marqueurs de la narration",
-        "explanationPt": "'Un jour' (um dia) introduz um evento marcante; 'd'abord/ensuite/enfin' organizam o desenrolar da história.",
-        "exampleFr": "Un jour, j'ai livré une commande à Andréa.",
-        "examplePt": "Um dia, entreguei um pedido para Andréa.",
-        "practiceQuestion": "Qual marcador introduz um evento surpreendente?",
-        "options": ["Un jour", "Enfin", "Hier soir"],
+        "ruleTitle": "Se souvenir de",
+        "explanationPt": "'Se souvenir de' = lembrar-se de. 'Tu te souviens de notre dîner ?' (Você se lembra do nosso jantar?).",
+        "exampleFr": "Tu te souviens de notre premier dîner ?",
+        "examplePt": "Você se lembra do nosso primeiro jantar?",
+        "practiceQuestion": "Complete: 'Tu te _____ de notre dîner ?'",
+        "options": ["souviens", "souvient", "souvenez"],
         "correctIndex": 0
       },
       {
-        "ruleTitle": "Le Passé Composé pour raconter",
-        "explanationPt": "No relato, o Passé Composé marca ações concluídas: 'il a raconté', 'elle a rougi', 'nous avons dîné'.",
-        "exampleFr": "Irlan a raconté ses années de livreur.",
-        "examplePt": "Irlan contou seus anos de entregador.",
-        "practiceQuestion": "Qual frase está no Passé Composé?",
-        "options": ["Elle a rougi.", "Elle rougit.", "Elle rougira."],
+        "ruleTitle": "Avoir peur de + infinitif",
+        "explanationPt": "'Avoir peur de' + verbo: 'J'avais peur de commander' (Eu tinha medo de pedir).",
+        "exampleFr": "J'avais peur de commander en français.",
+        "examplePt": "Eu tinha medo de pedir em francês.",
+        "practiceQuestion": "Complete: 'J'avais _____ de commander.'",
+        "options": ["peur", "peureux", "crainte"],
         "correctIndex": 0
       }
     ]
   },
   "quizQuestions": [
     {
-      "question": "O que Íris pediu ao pai durante o jantar?",
-      "options": ["que contasse seus anos de entregador em Paris", "que comprasse um brinquedo", "que falasse inglês"],
+      "question": "Do que Irlan tinha medo em Paris?",
+      "options": ["de pedir em francês", "de dirigir", "de cozinhar"],
       "correctIndex": 0,
-      "explanation": "Íris pediu: 'Papa, raconte-nous tes années de livreur à Paris !'"
+      "explanation": "J'avais peur de commander en français."
     },
     {
-      "question": "Como Irlan conhecia cada rua de Paris?",
-      "options": ["graças às entregas de scooter", "porque estudou mapas", "porque era guia"],
+      "question": "O que eles pedem no estaminet?",
+      "options": ["uma carbonnade e duas bebidas", "um welsh", "moules-frites"],
       "correctIndex": 0,
-      "explanation": "As entregas de scooter o fizeram conhecer cada rua da cidade."
+      "explanation": "Ils commandent une carbonnade et deux boissons chaudes."
     },
     {
-      "question": "Onde Irlan conheceu Andréa?",
-      "options": ["ao entregar um pedido em uma boulangerie", "na universidade", "no aeroporto"],
+      "question": "O que Lille ensina a Irlan e Andréa?",
+      "options": ["a confiança", "a paciência", "o amor"],
       "correctIndex": 0,
-      "explanation": "Irlan conheceu Andréa ao entregar uma encomenda na padaria onde ela estava."
+      "explanation": "Lille nous apprend la confiance."
     },
     {
-      "question": "Complete com o marcador de sequência: « ___, je parcourais la ville. »",
-      "options": ["Ensuite", "Demain", "Bientôt"],
+      "question": "Complete: 'Nous avons _____ tant de villes.'",
+      "options": ["traversé", "traversés", "traverser"],
       "correctIndex": 0,
-      "explanation": "'Ensuite' (depois) segue 'd'abord' (primeiro) na narração."
+      "explanation": "passé composé: traversé."
     },
     {
-      "question": "Qual foi a conclusão de Irlan?",
-      "options": ["a vida tem uma bela história para contar", "Paris é a cidade mais cara", "a scooter era muito lenta"],
+      "question": "Complete: 'Tu te _____ de notre dîner ?'",
+      "options": ["souviens", "souvient", "souvenez"],
       "correctIndex": 0,
-      "explanation": "Irlan concluiu: 'Enfin, la vie a une belle histoire à raconter'."
+      "explanation": "tu te souviens."
     }
   ]
 }
