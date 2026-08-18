@@ -16,8 +16,8 @@
     },
     {
       "id": 2,
-      "fr": "Depuis l'enfance, je dessine des cartes. Ma grand-mère Teresa m'a appris à lire les cartes et les étoiles. Aujourd'hui, j'habite à Paris, en France.",
-      "pt": "Desde a infância, eu desenho mapas. Minha avó Teresa me ensinou a ler mapas e estrelas. Hoje, eu moro em Paris, na França."
+      "fr": "Depuis l'enfance, je dessine des cartes. Mon père m'a appris à lire les cartes et les étoiles. Aujourd'hui, j'habite à Paris, en France.",
+      "pt": "Desde a infância, eu desenho mapas. Meu pai me ensinou a ler mapas e estrelas. Hoje, eu moro em Paris, na França."
     },
     {
       "id": 3,
@@ -172,7 +172,7 @@
     "explanationPt": "No texto aparecem 'Je suis brésilien' e 'Paris est une grande ville'. O verbo 'être' (ser/estar) é essencial no presente: je suis, tu es, il/elle est, nous sommes, vous êtes, ils/elles sont.",
     "exampleFr": "Je suis géographe et Paris est une grande ville.",
     "examplePt": "Eu sou geógrafo e Paris é uma cidade grande.",
-    "practiceQuestion": "Complete: 'Ma grand-mère _____ à Jaguaquara.'",
+    "practiceQuestion": "Complete: 'Mon père _____ à Jaguaquara.'",
     "options": ["est", "es", "sont"],
     "correctIndex": 0,
     "points": [
@@ -187,12 +187,12 @@
       },
       {
         "ruleTitle": "Les possessifs mon / ma / mes",
-        "explanationPt": "Os possessivos concordam com o substantivo: 'mon' (masculino), 'ma' (feminino), 'mes' (plural). Ex.: 'mon appartement', 'ma grand-mère', 'ma nouvelle vie', 'mes cartes'.",
+        "explanationPt": "Os possessivos concordam com o substantivo: 'mon' (masculino), 'ma' (feminino), 'mes' (plural). Ex.: 'mon appartement', 'mon père', 'ma nouvelle vie', 'mes cartes'.",
         "exampleFr": "Mon appartement est petit, mais ma vie est belle.",
         "examplePt": "Meu apartamento é pequeno, mas minha vida é bela.",
-        "practiceQuestion": "Complete: '_____ grand-mère s'appelle Teresa.'",
+        "practiceQuestion": "Complete: '_____ père est à Jaguaquara.'",
         "options": ["Ma", "Mon", "Mes"],
-        "correctIndex": 0
+        "correctIndex": 1
       }
     ]
   },
@@ -217,19 +217,19 @@
     },
     {
       "question": "Qui a appris à Irlan à lire les cartes ?",
-      "options": ["Sa grand-mère Teresa", "Son professeur de géographie", "Son voisin"],
+      "options": ["Son père", "Son professeur de géographie", "Son voisin"],
       "correctIndex": 0,
-      "explanation": "No texto: 'Ma grand-mère Teresa m'a appris à lire les cartes et les étoiles.'"
+      "explanation": "No texto: 'Mon père m'a appris à lire les cartes et les étoiles.'"
     },
     {
       "question": "Identifique qual das frases em francês abaixo apresenta um ERRO de concordância:",
       "options": [
-        "Ma grand-mère sont à Jaguaquara.",
-        "Ma grand-mère est à Jaguaquara.",
+        "Mon père sont à Jaguaquara.",
+        "Mon père est à Jaguaquara.",
         "Elle est à Jaguaquara."
       ],
       "correctIndex": 0,
-      "explanation": "O erro é 'Ma grand-mère sont à Jaguaquara': o sujeito singular 'Ma grand-mère' exige 'est' (e não 'sont')."
+      "explanation": "O erro é 'Mon père sont à Jaguaquara': o sujeito singular 'Mon père' exige 'est' (e não 'sont')."
     }
   ]
 }

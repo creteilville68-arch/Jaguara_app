@@ -26,8 +26,8 @@
     },
     {
       "id": 4,
-      "fr": "« On dit que Lyon aurait pu tomber, mais que la Résistance a tenu », continua la guide. Irlan pensa au Brésil, à sa propre histoire : « Si mes grands-parents n'avaient pas immigré, je ne serais pas ici aujourd'hui. »",
-      "pt": "« Diz-se que Lyon poderia ter caído, mas que a Resistência se manteve », continuou a guia. Irlan pensou no Brasil, em sua própria história: « Se meus avós não tivessem imigrado, eu não estaria aqui hoje. »"
+      "fr": "« On dit que Lyon aurait pu tomber, mais que la Résistance a tenu », continua la guide. Irlan pensa au Brésil, à sa propre histoire : « Si mes parents n'étaient pas nés là-bas, je ne serais pas ici aujourd'hui. »",
+      "pt": "« Diz-se que Lyon poderia ter caído, mas que a Resistência se manteve », continuou a guia. Irlan pensou no Brasil, em sua própria história: « Se meus pais não tivessem nascido lá, eu não estaria aqui hoje. »"
     },
     {
       "id": 5,
@@ -161,8 +161,8 @@
       "ptTargets": ["imigrar", "imigrado", "imigraram"],
       "examples": [
         { "level": "A1", "fr": "Elle immigre en France.", "pt": "Ela imigra para a França." },
-        { "level": "A2-B1", "fr": "Ses grands-parents ont immigré au Brésil.", "pt": "Seus avós imigraram para o Brasil." },
-        { "level": "B1-B2", "fr": "Si mes grands-parents n'avaient pas immigré, je ne serais pas ici.", "pt": "Se meus avós não tivessem imigrado, eu não estaria aqui." },
+        { "level": "A2-B1", "fr": "Ses ancêtres ont immigré au Brésil.", "pt": "Seus ancestrais imigraram para o Brasil." },
+        { "level": "B1-B2", "fr": "Si mes parents n'étaient pas nés là-bas, je ne serais pas ici.", "pt": "Se meus pais não tivessem nascido lá, eu não estaria aqui." },
         { "level": "C1-C2", "fr": "C'est en immigrant que des familles ont écrit leur destin.", "pt": "É imigrando que famílias escreveram seu destino." }
       ]
     },
@@ -249,9 +249,9 @@
     },
     {
       "question": "O que Irlan percebeu sobre sua própria história?",
-      "options": ["Que deve sua presença aos avós que imigraram", "Que deveria voltar ao Brasil", "Que a história não importa"],
+      "options": ["Que deve sua presença aos pais que nasceram na Bahia", "Que deveria voltar ao Brasil", "Que a história não importa"],
       "correctIndex": 0,
-      "explanation": "No texto: 'Si mes grands-parents n'avaient pas immigré, je ne serais pas ici aujourd'hui.'"
+      "explanation": "No texto: 'Si mes parents n'étaient pas nés là-bas, je ne serais pas ici aujourd'hui.'"
     }
   ]
 }

@@ -7,7 +7,7 @@
   "titlePt": "Meu dia de entregador em Paris",
   "subtitleFr": "Le réveil à Créteil, le café, les livraisons en scooter et la ville qui s'éveille",
   "subtitlePt": "O despertar em Créteil, o café, as entregas de scooter e a cidade que desperta",
-  "summaryPt": "Nesta Aula 2 (A1), Irlan descreve seu dia como entregador em Paris: acorda cedo em Créteil, toma café, pega a scooter, entrega refeições pelas ruas e, à noite, volta para casa e liga para a avó no Brasil. O aluno aprende os verbos em -er no presente e o verbo 'aller' com as preposições à / au.",
+  "summaryPt": "Nesta Aula 2 (A1), Irlan descreve seu dia como entregador em Paris: acorda cedo em Créteil, toma café, pega a scooter, entrega refeições pelas ruas e, à noite, volta para casa e liga para a mãe no Brasil. O aluno aprende os verbos em -er no presente e o verbo 'aller' com as preposições à / au.",
   "paragraphs": [
     {
       "id": 1,
@@ -26,8 +26,8 @@
     },
     {
       "id": 4,
-      "fr": "Le soir, je rentre à la maison. Je dîne seul, mais je ne suis pas triste : j'appelle ma grand-mère au Brésil. Je lui raconte ma journée.",
-      "pt": "À noite, eu volto para casa. Eu janto sozinho, mas não estou triste: eu ligo para minha avó no Brasil. Eu conto a ela o meu dia."
+      "fr": "Le soir, je rentre à la maison. Je dîne seul, mais je ne suis pas triste : j'appelle ma mère au Brésil. Je lui raconte ma journée.",
+      "pt": "À noite, eu volto para casa. Eu janto sozinho, mas não estou triste: eu ligo para minha mãe no Brasil. Eu conto a ela o meu dia."
     },
     {
       "id": 5,
@@ -135,7 +135,7 @@
       "ptTargets": ["noite", "entardecer"],
       "examples": [
         { "level": "A1", "fr": "Le soir, je rentre à la maison.", "pt": "À noite, eu volto para casa." },
-        { "level": "A2-B1", "fr": "Le soir, je dîne et j'appelle ma grand-mère.", "pt": "À noite, eu janto e ligo para minha avó." },
+        { "level": "A2-B1", "fr": "Le soir, je dîne et j'appelle ma mère.", "pt": "À noite, eu janto e ligo para minha mãe." },
         { "level": "B2", "fr": "Les soirs d'été, les terrasses sont pleines.", "pt": "Nas noites de verão, os terraços estão cheios." },
         { "level": "C1-C2", "fr": "Ce soir-là, la ville brillait de mille feux.", "pt": "Naquela noite, a cidade brilhava com mil luzes." }
       ]
@@ -186,7 +186,7 @@
       "inflections": ["appeler", "j'appelle", "il appelle"],
       "ptTargets": ["ligar", "chamar"],
       "examples": [
-        { "level": "A1", "fr": "J'appelle ma grand-mère au Brésil.", "pt": "Eu ligo para minha avó no Brasil." },
+        { "level": "A1", "fr": "J'appelle ma mère au Brésil.", "pt": "Eu ligo para minha mãe no Brasil." },
         { "level": "A2-B1", "fr": "Le soir, il appelle sa famille.", "pt": "À noite, ele liga para sua família." },
         { "level": "B2", "fr": "Elle appelle son ami pour partager la bonne nouvelle.", "pt": "Ela liga para o amigo para contar a boa notícia." },
         { "level": "C1-C2", "fr": "Appeler quelqu'un, c'est aussi lui tendre la main.", "pt": "Ligar para alguém é também estender a mão." }
@@ -198,7 +198,7 @@
     "explanationPt": "No texto aparecem 'Je prépare', 'Je regarde', 'Je conduis'... Os verbos em -er (préparer, regarder, raconter) conjugam-se no presente: je prépare, tu prépares, il/elle prépare, nous préparons, vous préparez, ils/elles préparent.",
     "exampleFr": "Je prépare un café et je regarde le téléphone.",
     "examplePt": "Eu preparo um café e olho o celular.",
-    "practiceQuestion": "Complete com o verbo correto no presente: 'Je _____ ma grand-mère le soir.'",
+    "practiceQuestion": "Complete com o verbo correto no presente: 'Je _____ ma mère le soir.'",
     "options": ["appelle", "appelons", "appellent"],
     "correctIndex": 0,
     "points": [
@@ -242,12 +242,12 @@
     {
       "question": "O que Irlan faz à noite, segundo o texto?",
       "options": [
-        "Volta para casa, janta e liga para a avó no Brasil",
+        "Volta para casa, janta e liga para a mãe no Brasil",
         "Trabalha até muito tarde no escritório",
         "Vai ao cinema com amigos"
       ],
       "correctIndex": 0,
-      "explanation": "No texto: 'Le soir, je rentre à la maison. Je dîne seul... j'appelle ma grand-mère au Brésil.'"
+      "explanation": "No texto: 'Le soir, je rentre à la maison. Je dîne seul... j'appelle ma mère au Brésil.'"
     },
     {
       "question": "Identifique a frase com ERRO de conjugação no presente:",

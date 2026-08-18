@@ -55,10 +55,11 @@
 - Curiosa, distraída, brilhante. Nos episódios do Ato III e no epílogo: o alívio do coração depois do suspense.
 - **Nunca participa de cenas de perigo.** O suspense termina quando ela nasce.
 
-### Vó Teresa — (em Jaguaquara, por vídeo) — a raiz
-- A avó que ensinou Irlan a ler mapas na mesa da cozinha, com um atlas encardido e um café.
-- **Frase-símbolo:** *"Quem tem mapa não se perde. Quem tem amor não se esquece."*
-- O elo emocional com a origem — aparece por chamadas nos momentos de dúvida.
+### Família em Jaguaquara — as raízes
+- **O pai** — ensinou Irlan a ler mapas e estrelas na mesa da cozinha, com um atlas encardido e um café. **Frase-símbolo:** *"Quem tem mapa não se perde. Quem tem amor não se esquece."*
+- **A mãe** — o elo emocional com a origem: aparece por chamadas de vídeo nos momentos de dúvida. Doce, firme, sempre perguntando se ele está comendo bem.
+- **As 2 irmãs** — vivem no Brasil (Jaguaquara/BA). Uma manda áudios longos; a outra, fotos da cidade — o "Brasil ao vivo" de Irlan.
+- ⚠️ **Sem avós no cânone:** a família de Irlan é **pai, mãe e duas irmãs**. Nenhuma menção a avós em nenhuma aula.
 
 ### Madame Simone Lefèvre — (72) — a guardiã da primeira porta
 - Livreira de Montmartre. Séria, minuciosa, olhar de quem já guardou mais de um segredo.
@@ -149,7 +150,7 @@ Caderno de campo de **Manoel Rocha de Oliveira**, geógrafo baiano que em 1904 t
 
 ## 📌 REGRAS DE OURO PARA TODA A AUTORIA
 
-1. **Cânone fixo:** Irlan é de Jaguaquara/BA; geógrafo; chegou à França; rider de scooter no início; **namorou Andréa ~5 anos**; **casou em Créteil** (fim do Ato I); **Íris nasce em Nice** (Ato III). Sem contradizer.
+1. **Cânone fixo:** Irlan é de Jaguaquara/BA; geógrafo; chegou à França; rider de scooter no início; **família: pai, mãe e 2 irmãs (sem avós)**; **namorou Andréa ~5 anos**; **casou em Créteil** (fim do Ato I); **Íris nasce em Nice** (Ato III). Sem contradizer.
 2. **Cronologia:** até o fim de Paris, **Irlan é solteiro**. Andréa entra ~aula 8. Casamento ~aula 50. **Íris: só a partir de Nice.** Nenhuma menção a filha/esposa antes do momento certo.
 3. **Casa em Créteil.** O "voltar para casa" acontece entre cidades — episódios de rotina em cada cidade dão o respiro.
 4. **Irlan aprende francês junto com o usuário.** A evolução do francês nos textos reflete o nível CEFR.
