@@ -1568,6 +1568,7 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **l’état des lieux** — a vistoria
 - [ ] **l’étau** — o torno de bancada
 - [ ] **l’étendard** — o estandarte
+- [ ] **l’étendoir** — o varal
 - [ ] **l’éternuement** — o espirro
 - [ ] **l’ethnographie** — a etnografia
 - [ ] **l’ethnologie** — a etnologia
@@ -2004,7 +2005,6 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **la cellulose** — a celulose
 - [ ] **la centrale nucléaire** — a usina nuclear
 - [ ] **la centrifugation** — a centrifugação
-- [ ] **la cérémonie** — a cerimônia
 - [ ] **la cérusite** — a cerusita
 - [ ] **la cessation** — a cessação
 - [ ] **la cession** — a cessão

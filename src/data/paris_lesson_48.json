@@ -1,252 +1,292 @@
 {
   "id": "paris_lesson_48",
   "cityId": "paris",
-  "domain": "Viagem & Preparação",
+  "domain": "Família & Festas",
   "level": "Iniciante (A1)",
-  "titleFr": "La préparation du voyage",
-  "titlePt": "A preparação da viagem",
-  "subtitleFr": "Préparer la valise pour Amiens",
-  "subtitlePt": "Preparar a mala para Amiens",
-  "summaryPt": "Nesta Aula 48 (A1), a família se prepara para viajar a Amiens. O aluno aprende o vocabulário da viagem (valise, voyage, train, billet, carte d'identité, préparer, partir, emporter, gare, arrivée) e o futur proche com aller.",
+  "titleFr": "Les préparatifs",
+  "titlePt": "Os preparativos",
+  "subtitleFr": "La salle, les fleurs et les invités",
+  "subtitlePt": "O salão, as flores e os convidados",
+  "summaryPt": "Na Aula 48 (A1), Irlan e Andréa organizam o casamento. O aluno aprende o vocabulário da festa e dos preparativos, e o verbo 'organiser'.",
   "paragraphs": [
     {
       "id": 1,
-      "fr": "La famille va partir pour Amiens. « C'est notre premier voyage ensemble, dit Andréa. Nous allons prendre le train demain matin. Préparons la valise ce soir ! »",
-      "pt": "A família vai partir para Amiens. « É nossa primeira viagem juntos, diz Andréa. Vamos pegar o trem amanhã de manhã. Vamos preparar a mala esta noite! »"
+      "fr": "Le grand jour approche. Irlan et Andréa ont une liste pleine de choses à faire.",
+      "pt": "O grande dia se aproxima. Irlan e Andréa têm uma lista cheia de coisas para fazer."
     },
     {
       "id": 2,
-      "fr": "Iris met ses vêtements et ses jouets dans la valise. « N'oublie pas ton doudou, dit Irlan. Et emportons aussi de l'eau et des biscuits pour le voyage. »",
-      "pt": "Íris coloca suas roupas e brinquedos na mala. « Não esqueça seu ursinho, diz Irlan. E levemos também água e biscoitos para a viagem. »"
+      "fr": "« D'abord, la salle », dit Andréa. Ils visitent une salle claire à Créteil, près de la mairie.",
+      "pt": "«Primeiro, o salão», diz Andréa. Eles visitam um salão claro em Créteil, perto da prefeitura."
     },
     {
       "id": 3,
-      "fr": "Irlan vérifie les billets de train et la carte d'identité d'Iris. « Tout est prêt, dit-il. La gare est proche. Nous allons prendre le train à dix heures. »",
-      "pt": "Irlan confere os bilhetes de trem e o documento de identidade de Íris. « Está tudo pronto, diz ele. A estação é perto. Vamos pegar o trem às dez horas. »"
+      "fr": "« Elle est parfaite pour la fête », sourit Irlan. Ils réservent la date avec le responsable.",
+      "pt": "«É perfeita para a festa», sorri Irlan. Eles reservam a data com o responsável."
     },
     {
       "id": 4,
-      "fr": "Le soir, Iris demande : « Comment est Amiens ? » Andréa sourit : « C'est une belle ville au nord de Paris. Tu vas voir, c'est une belle aventure ! » Iris ferme les yeux et rêve déjà du voyage.",
-      "pt": "À noite, Íris pergunta: « Como é Amiens? » Andréa sorri: « É uma bela cidade ao norte de Paris. Você vai ver, é uma bela aventura! » Íris fecha os olhos e já sonha com a viagem."
+      "fr": "Ensuite, ils choisissent les fleurs : des roses blanches et des pivoines roses.",
+      "pt": "Depois, eles escolhem as flores: rosas brancas e peônias cor-de-rosa."
+    },
+    {
+      "id": 5,
+      "fr": "Andréa écrit la liste des invités. La famille, les amis proches, les collègues du restaurant.",
+      "pt": "Andréa escreve a lista de convidados. A família, os amigos próximos, os colegas do restaurante."
+    },
+    {
+      "id": 6,
+      "fr": "« Et ta famille du Brésil ? » demande Andréa. « Ma mère, mon père et mes sœurs arrivent bientôt », répond Irlan.",
+      "pt": "«E a sua família do Brasil?», pergunta Andréa. «Minha mãe, meu pai e minhas irmãs chegam em breve», responde Irlan."
+    },
+    {
+      "id": 7,
+      "fr": "Ils préparent les cartons d'invitation à la main. Chaque carte porte leurs deux prénoms.",
+      "pt": "Eles preparam os cartões de convite à mão. Cada cartão traz os dois nomes deles."
+    },
+    {
+      "id": 8,
+      "fr": "Pour la musique, ils choisissent la chanson de leur première danse. Andréa la fredonne en collant les enveloppes.",
+      "pt": "Para a música, eles escolhem a canção da primeira dança. Andréa a cantarola enquanto cola os envelopes."
+    },
+    {
+      "id": 9,
+      "fr": "Le gâteau est commandé : trois étages, avec des fraises et de la crème.",
+      "pt": "O bolo é encomendado: três andares, com morangos e creme."
+    },
+    {
+      "id": 10,
+      "fr": "« On organise tout nous-mêmes », dit Irlan. « C'est beaucoup de travail, mais c'est notre fête. »",
+      "pt": "«A gente organiza tudo sozinho», diz Irlan. «É muito trabalho, mas é a nossa festa.»"
+    },
+    {
+      "id": 11,
+      "fr": "Le soir, fatigués, ils regardent la liste cochée. Presque tout est prêt.",
+      "pt": "À noite, cansados, eles olham a lista marcada. Quase tudo está pronto."
+    },
+    {
+      "id": 12,
+      "fr": "« Dans une semaine, on sera mariés », dit Andréa. Irlan la prend dans ses bras : « J'ai hâte. »",
+      "pt": "«Daqui a uma semana, estaremos casados», diz Andréa. Irlan a abraça: «Estou ansioso.»"
     }
   ],
   "vocabularyDictionary": [
     {
-      "term": "la valise",
-      "definitionPt": "a mala",
-      "definitionFr": "Bagage pour voyager.",
-      "inflections": ["la valise", "une valise", "des valises"],
-      "ptTargets": ["mala"],
+      "term": "les préparatifs",
+      "definitionPt": "os preparativos",
+      "definitionFr": "Actions pour préparer un événement.",
+      "inflections": ["les préparatifs", "un préparatif"],
+      "ptTargets": ["preparativos"],
       "examples": [
-        { "level": "A1", "fr": "La valise est grande.", "pt": "A mala é grande." },
-        { "level": "A2-B1", "fr": "Iris met ses vêtements dans la valise.", "pt": "Íris coloca suas roupas na mala." },
-        { "level": "B2", "fr": "La valise, remplie, attend près de la porte.", "pt": "A mala, cheia, espera perto da porta." },
-        { "level": "C1-C2", "fr": "C'est la valise qui, prête, annonce le départ.", "pt": "É a mala que, pronta, anuncia a partida." }
+        { "level": "A1", "fr": "Les préparatifs avancent.", "pt": "Os preparativos avançam." },
+        { "level": "A2-B1", "fr": "Ils s'occupent des préparatifs du mariage.", "pt": "Eles cuidam dos preparativos do casamento." },
+        { "level": "B2", "fr": "Les préparatifs demandent de l'organisation.", "pt": "Os preparativos exigem organização." },
+        { "level": "C1-C2", "fr": "Ce sont les préparatifs qui, dans l'ombre, font la beauté du grand jour.", "pt": "São os preparativos que, nos bastidores, fazem a beleza do grande dia." }
       ]
     },
     {
-      "term": "le voyage",
-      "definitionPt": "a viagem",
-      "definitionFr": "Trajet vers un autre lieu.",
-      "inflections": ["le voyage", "un voyage", "des voyages"],
-      "ptTargets": ["viagem"],
+      "term": "la salle",
+      "definitionPt": "o salão",
+      "definitionFr": "Grande pièce pour une fête.",
+      "inflections": ["la salle", "une salle", "des salles"],
+      "ptTargets": ["salão", "sala"],
       "examples": [
-        { "level": "A1", "fr": "Le voyage est long.", "pt": "A viagem é longa." },
-        { "level": "A2-B1", "fr": "C'est notre premier voyage ensemble.", "pt": "É nossa primeira viagem juntos." },
-        { "level": "B2", "fr": "Le voyage, préparé, promet de belles découvertes.", "pt": "A viagem, preparada, promete belas descobertas." },
-        { "level": "C1-C2", "fr": "C'est le voyage qui, vécu, transforme les voyageurs.", "pt": "É a viagem que, vivida, transforma os viajantes." }
+        { "level": "A1", "fr": "La salle est grande.", "pt": "O salão é grande." },
+        { "level": "A2-B1", "fr": "Ils visitent une salle à Créteil.", "pt": "Eles visitam um salão em Créteil." },
+        { "level": "B2", "fr": "La salle est décorée pour la cérémonie.", "pt": "O salão está decorado para a cerimônia." },
+        { "level": "C1-C2", "fr": "C'est la salle qui, remplie de voix, gardera l'écho de la fête.", "pt": "É o salão que, cheio de vozes, guardará o eco da festa." }
       ]
     },
     {
-      "term": "le train",
-      "definitionPt": "o trem",
-      "definitionFr": "Véhicule sur des rails.",
-      "inflections": ["le train", "un train", "des trains"],
-      "ptTargets": ["trem"],
+      "term": "la fleur",
+      "definitionPt": "a flor",
+      "definitionFr": "Partie colorée d'une plante.",
+      "inflections": ["la fleur", "une fleur", "des fleurs"],
+      "ptTargets": ["flor"],
       "examples": [
-        { "level": "A1", "fr": "Le train est rapide.", "pt": "O trem é rápido." },
-        { "level": "A2-B1", "fr": "Nous allons prendre le train demain matin.", "pt": "Vamos pegar o trem amanhã de manhã." },
-        { "level": "B2", "fr": "Le train, confortable, traverse la campagne française.", "pt": "O trem, confortável, atravessa o campo francês." },
-        { "level": "C1-C2", "fr": "C'est le train qui, fidèle, relie les villes et les vies.", "pt": "É o trem que, fiel, liga as cidades e as vidas." }
+        { "level": "A1", "fr": "La fleur est belle.", "pt": "A flor é bonita." },
+        { "level": "A2-B1", "fr": "Ils choisissent des roses et des pivoines.", "pt": "Eles escolhem rosas e peônias." },
+        { "level": "B2", "fr": "Les fleurs décorent la salle de mariage.", "pt": "As flores decoram o salão de casamento." },
+        { "level": "C1-C2", "fr": "C'est la fleur qui, éphémère, marque pourtant les jours les plus importants.", "pt": "É a flor que, efêmera, marca porém os dias mais importantes." }
       ]
     },
     {
-      "term": "le billet",
-      "definitionPt": "o bilhete",
-      "definitionFr": "Ticket de transport.",
-      "inflections": ["le billet", "un billet", "des billets"],
-      "ptTargets": ["bilhete", "passagem"],
+      "term": "les invités",
+      "definitionPt": "os convidados",
+      "definitionFr": "Personnes conviées à une fête.",
+      "inflections": ["les invités", "un invité", "une invitée"],
+      "ptTargets": ["convidados", "convidado"],
       "examples": [
-        { "level": "A1", "fr": "Le billet est cher.", "pt": "O bilhete é caro." },
-        { "level": "A2-B1", "fr": "Irlan vérifie les billets de train.", "pt": "Irlan confere os bilhetes de trem." },
-        { "level": "B2", "fr": "Les billets, achetés, attendent le départ.", "pt": "Os bilhetes, comprados, esperam a partida." },
-        { "level": "C1-C2", "fr": "C'est le billet qui, précieux, ouvre le voyage.", "pt": "É o bilhete que, precioso, abre a viagem." }
+        { "level": "A1", "fr": "Les invités arrivent.", "pt": "Os convidados chegam." },
+        { "level": "A2-B1", "fr": "Andréa écrit la liste des invités.", "pt": "Andréa escreve a lista de convidados." },
+        { "level": "B2", "fr": "Chaque invité reçoit une invitation personnelle.", "pt": "Cada convidado recebe um convite pessoal." },
+        { "level": "C1-C2", "fr": "Ce sont les invités qui, par leur présence, donnent à la fête son sens.", "pt": "São os convidados que, por sua presença, dão sentido à festa." }
       ]
     },
     {
-      "term": "la carte d'identité",
-      "definitionPt": "o documento de identidade",
-      "definitionFr": "Document officiel de la personne.",
-      "inflections": ["la carte d'identité", "une carte d'identité"],
-      "ptTargets": ["identidade", "documento"],
+      "term": "l'invitation",
+      "definitionPt": "o convite",
+      "definitionFr": "Carte qui invite à une fête.",
+      "inflections": ["l'invitation", "une invitation", "des invitations"],
+      "ptTargets": ["convite"],
       "examples": [
-        { "level": "A1", "fr": "La carte d'identité est importante.", "pt": "O documento de identidade é importante." },
-        { "level": "A2-B1", "fr": "Irlan vérifie la carte d'identité d'Iris.", "pt": "Irlan confere o documento de Íris." },
-        { "level": "B2", "fr": "Pour voyager, il faut une carte d'identité en règle.", "pt": "Para viajar, é preciso ter o documento em dia." },
-        { "level": "C1-C2", "fr": "C'est la carte d'identité qui, officielle, atteste qui l'on est.", "pt": "É o documento que, oficial, atesta quem somos." }
+        { "level": "A1", "fr": "L'invitation est jolie.", "pt": "O convite é bonito." },
+        { "level": "A2-B1", "fr": "Ils préparent les cartons d'invitation à la main.", "pt": "Eles preparam os cartões de convite à mão." },
+        { "level": "B2", "fr": "Chaque invitation porte leurs deux prénoms.", "pt": "Cada convite traz os dois nomes deles." },
+        { "level": "C1-C2", "fr": "C'est l'invitation qui, reçue, annonce déjà la joie du jour à venir.", "pt": "É o convite que, recebido, já anuncia a alegria do dia que virá." }
       ]
     },
     {
-      "term": "préparer",
-      "definitionPt": "preparar",
-      "definitionFr": "Organiser à l'avance.",
-      "inflections": ["préparer", "je prépare", "nous préparons"],
-      "ptTargets": ["preparar"],
+      "term": "la musique",
+      "definitionPt": "a música",
+      "definitionFr": "Art des sons.",
+      "inflections": ["la musique", "une musique"],
+      "ptTargets": ["música"],
       "examples": [
-        { "level": "A1", "fr": "Je prépare la valise.", "pt": "Eu preparo a mala." },
-        { "level": "A2-B1", "fr": "Préparons la valise ce soir !", "pt": "Vamos preparar a mala esta noite!" },
-        { "level": "B2", "fr": "Préparer un voyage demande de l'organisation.", "pt": "Preparar uma viagem exige organização." },
-        { "level": "C1-C2", "fr": "C'est en préparant que l'on profite mieux du voyage.", "pt": "É preparando que se aproveita melhor a viagem." }
+        { "level": "A1", "fr": "La musique est douce.", "pt": "A música é suave." },
+        { "level": "A2-B1", "fr": "Ils choisissent la musique de la fête.", "pt": "Eles escolhem a música da festa." },
+        { "level": "B2", "fr": "La musique accompagne chaque moment du mariage.", "pt": "A música acompanha cada momento do casamento." },
+        { "level": "C1-C2", "fr": "C'est la musique qui, bien choisie, fait danser les cœurs avant les corps.", "pt": "É a música que, bem escolhida, faz dançar os corações antes dos corpos." }
       ]
     },
     {
-      "term": "partir",
-      "definitionPt": "partir / ir embora",
-      "definitionFr": "Aller ailleurs.",
-      "inflections": ["partir", "je pars", "nous partons"],
-      "ptTargets": ["partir", "ir embora"],
+      "term": "le gâteau",
+      "definitionPt": "o bolo",
+      "definitionFr": "Pâtisserie sucrée.",
+      "inflections": ["le gâteau", "un gâteau", "des gâteaux"],
+      "ptTargets": ["bolo"],
       "examples": [
-        { "level": "A1", "fr": "Je pars demain.", "pt": "Eu parto amanhã." },
-        { "level": "A2-B1", "fr": "La famille va partir pour Amiens.", "pt": "A família vai partir para Amiens." },
-        { "level": "B2", "fr": "Partir en voyage, c'est ouvrir de nouveaux horizons.", "pt": "Partir em viagem é abrir novos horizontes." },
-        { "level": "C1-C2", "fr": "C'est en partant que l'on découvre l'inconnu.", "pt": "É partindo que se descobre o desconhecido." }
+        { "level": "A1", "fr": "Le gâteau est sucré.", "pt": "O bolo é doce." },
+        { "level": "A2-B1", "fr": "Le gâteau a trois étages.", "pt": "O bolo tem três andares." },
+        { "level": "B2", "fr": "Le gâteau de mariage est décoré de fraises.", "pt": "O bolo de casamento é decorado com morangos." },
+        { "level": "C1-C2", "fr": "C'est le gâteau qui, partagé, conclut la fête en douceur.", "pt": "É o bolo que, dividido, encerra a festa em doçura." }
       ]
     },
     {
-      "term": "emporter",
-      "definitionPt": "levar (consigo)",
-      "definitionFr": "Prendre avec soi.",
-      "inflections": ["emporter", "j'emporte", "nous emportons"],
-      "ptTargets": ["levar"],
+      "term": "organiser",
+      "definitionPt": "organizar",
+      "definitionFr": "Préparer avec méthode.",
+      "inflections": ["organiser", "j'organise", "nous organisons"],
+      "ptTargets": ["organizar"],
       "examples": [
-        { "level": "A1", "fr": "J'emporte un livre.", "pt": "Eu levo um livro." },
-        { "level": "A2-B1", "fr": "Emportons de l'eau et des biscuits.", "pt": "Levemos água e biscoitos." },
-        { "level": "B2", "fr": "Pour le voyage, emportons des choses utiles.", "pt": "Para a viagem, levemos coisas úteis." },
-        { "level": "C1-C2", "fr": "C'est en emportant peu que l'on voyage léger.", "pt": "É levando pouco que se viaja leve." }
+        { "level": "A1", "fr": "J'organise la fête.", "pt": "Eu organizo a festa." },
+        { "level": "A2-B1", "fr": "Ils organisent le mariage ensemble.", "pt": "Eles organizam o casamento juntos." },
+        { "level": "B2", "fr": "Organiser un grand événement demande du temps.", "pt": "Organizar um grande evento exige tempo." },
+        { "level": "C1-C2", "fr": "C'est en organisant que l'on transforme un rêve en liste de tâches, puis en réalité.", "pt": "É organizando que se transforma um sonho em lista de tarefas e depois em realidade." }
       ]
     },
     {
-      "term": "la gare",
-      "definitionPt": "a estação (de trem)",
-      "definitionFr": "Lieu où s'arrêtent les trains.",
-      "inflections": ["la gare", "une gare", "des gares"],
-      "ptTargets": ["estação"],
+      "term": "choisir",
+      "definitionPt": "escolher",
+      "definitionFr": "Prendre une chose plutôt qu'une autre.",
+      "inflections": ["choisir", "je choisis", "nous choisissons"],
+      "ptTargets": ["escolher"],
       "examples": [
-        { "level": "A1", "fr": "La gare est proche.", "pt": "A estação é perto." },
-        { "level": "A2-B1", "fr": "La gare est proche de la maison.", "pt": "A estação é perto de casa." },
-        { "level": "B2", "fr": "La gare, animée, vit au rythme des départs.", "pt": "A estação, animada, vive ao ritmo das partidas." },
-        { "level": "C1-C2", "fr": "C'est la gare qui, immense, dit au revoir et bonjour.", "pt": "É a estação que, imensa, diz adeus e olá." }
+        { "level": "A1", "fr": "Je choisis les fleurs.", "pt": "Eu escolho as flores." },
+        { "level": "A2-B1", "fr": "Ils choisissent la salle et les fleurs.", "pt": "Eles escolhem o salão e as flores." },
+        { "level": "B2", "fr": "Choisir, c'est renoncer à tout le reste.", "pt": "Escolher é renunciar a todo o resto." },
+        { "level": "C1-C2", "fr": "C'est en choisissant que l'on dessine, un pas après l'autre, sa propre route.", "pt": "É escolhendo que se desenha, um passo após o outro, o próprio caminho." }
       ]
     },
     {
-      "term": "l'arrivée",
-      "definitionPt": "a chegada",
-      "definitionFr": "Moment où l'on arrive.",
-      "inflections": ["l'arrivée", "une arrivée", "des arrivées"],
-      "ptTargets": ["chegada"],
+      "term": "la date",
+      "definitionPt": "a data",
+      "definitionFr": "Jour précis du calendrier.",
+      "inflections": ["la date", "une date", "des dates"],
+      "ptTargets": ["data"],
       "examples": [
-        { "level": "A1", "fr": "L'arrivée est à dix heures.", "pt": "A chegada é às dez horas." },
-        { "level": "A2-B1", "fr": "L'arrivée à Amiens est prévue à midi.", "pt": "A chegada a Amiens está prevista ao meio-dia." },
-        { "level": "B2", "fr": "L'arrivée, attendue, promet une belle découverte.", "pt": "A chegada, esperada, promete uma bela descoberta." },
-        { "level": "C1-C2", "fr": "C'est l'arrivée qui, espérée, récompense le voyage.", "pt": "É a chegada que, esperada, recompensa a viagem." }
+        { "level": "A1", "fr": "La date est fixée.", "pt": "A data está marcada." },
+        { "level": "A2-B1", "fr": "Ils réservent la date avec le responsable.", "pt": "Eles reservam a data com o responsável." },
+        { "level": "B2", "fr": "Choisir la date du mariage est une grande décision.", "pt": "Escolher a data do casamento é uma grande decisão." },
+        { "level": "C1-C2", "fr": "C'est la date qui, notée dans les agendas, rend un rêve enfin concret.", "pt": "É a data que, anotada nas agendas, torna um sonho enfim concreto." }
       ]
     },
     {
-      "term": "le doudou",
-      "definitionPt": "o ursinho (objeto de apego)",
-      "definitionFr": "Objet préféré d'un enfant.",
-      "inflections": ["le doudou", "un doudou", "des doudous"],
-      "ptTargets": ["ursinho", "objeto de apego"],
+      "term": "la mairie",
+      "definitionPt": "a prefeitura",
+      "definitionFr": "Bâtiment de l'administration de la ville.",
+      "inflections": ["la mairie", "une mairie", "des mairies"],
+      "ptTargets": ["prefeitura"],
       "examples": [
-        { "level": "A1", "fr": "Le doudou est doux.", "pt": "O ursinho é macio." },
-        { "level": "A2-B1", "fr": "N'oublie pas ton doudou !", "pt": "Não esqueça seu ursinho!" },
-        { "level": "B2", "fr": "Le doudou, fidèle, accompagne les enfants partout.", "pt": "O ursinho, fiel, acompanha as crianças em todos os lugares." },
-        { "level": "C1-C2", "fr": "C'est le doudou qui, rassurant, garde les secrets de l'enfance.", "pt": "É o ursinho que, tranquilizador, guarda os segredos da infância." }
+        { "level": "A1", "fr": "La mairie est proche.", "pt": "A prefeitura é perto." },
+        { "level": "A2-B1", "fr": "La salle est près de la mairie.", "pt": "O salão é perto da prefeitura." },
+        { "level": "B2", "fr": "Le mariage civil a lieu à la mairie.", "pt": "O casamento civil acontece na prefeitura." },
+        { "level": "C1-C2", "fr": "C'est la mairie qui, discrète, scelle l'union devant la loi.", "pt": "É a prefeitura que, discreta, sela a união perante a lei." }
       ]
     },
     {
-      "term": "l'aventure",
-      "definitionPt": "a aventura",
-      "definitionFr": "Expérience nouvelle et excitante.",
-      "inflections": ["l'aventure", "une aventure", "des aventures"],
-      "ptTargets": ["aventura"],
+      "term": "la liste",
+      "definitionPt": "a lista",
+      "definitionFr": "Suite de choses à ne pas oublier.",
+      "inflections": ["la liste", "une liste", "des listes"],
+      "ptTargets": ["lista"],
       "examples": [
-        { "level": "A1", "fr": "L'aventure est belle.", "pt": "A aventura é bonita." },
-        { "level": "A2-B1", "fr": "C'est une belle aventure !", "pt": "É uma bela aventura!" },
-        { "level": "B2", "fr": "Chaque voyage est une aventure unique.", "pt": "Cada viagem é uma aventura única." },
-        { "level": "C1-C2", "fr": "C'est l'aventure qui, osée, enrichit la vie.", "pt": "É a aventura que, ousada, enriquece a vida." }
+        { "level": "A1", "fr": "La liste est longue.", "pt": "A lista é longa." },
+        { "level": "A2-B1", "fr": "Ils ont une liste de choses à faire.", "pt": "Eles têm uma lista de coisas para fazer." },
+        { "level": "B2", "fr": "Une liste claire aide à ne rien oublier.", "pt": "Uma lista clara ajuda a não esquecer nada." },
+        { "level": "C1-C2", "fr": "C'est la liste qui, méthodique, transforme un projet en étapes réalisables.", "pt": "É a lista que, metódica, transforma um projeto em etapas realizáveis." }
       ]
     }
   ],
   "grammarTip": {
-    "ruleTitle": "Le futur proche : aller + infinitif",
-    "explanationPt": "Para o futuro próximo: 'aller' (presente) + infinitivo. Ex.: 'Nous allons partir demain' (vamos partir amanhã), 'Nous allons prendre le train' (vamos pegar o trem), 'Tu vas voir' (você vai ver).",
-    "exampleFr": "Nous allons prendre le train demain matin. Tu vas voir, c'est une belle aventure !",
-    "examplePt": "Vamos pegar o trem amanhã de manhã. Você vai ver, é uma bela aventura!",
-    "practiceQuestion": "Complete: 'Nous _____ prendre le train demain.'",
-    "options": ["allons", "allez", "vont"],
+    "ruleTitle": "Le verbe choisir : escolher",
+    "explanationPt": "'Choisir' (escolher) termina em -ir: je choisis, tu choisis, il/elle choisit, nous choisissons, vous choisissez, ils/elles choisissent.",
+    "exampleFr": "Ils choisissent les fleurs.",
+    "examplePt": "Eles escolhem as flores.",
+    "practiceQuestion": "Complete: 'Nous _____ la salle.'",
+    "options": ["choisissons", "choisis", "choisissent"],
     "correctIndex": 0,
     "points": [
       {
-        "ruleTitle": "L'impératif de préparation",
-        "explanationPt": "Imperativo para preparar: 'Préparons la valise !' (vamos preparar a mala!), 'N'oublie pas ton doudou !' (não esqueça seu ursinho!), 'Emportons de l'eau !' (vamos levar água!).",
-        "exampleFr": "Préparons la valise ce soir ! N'oublie pas ton doudou !",
-        "examplePt": "Vamos preparar la mala esta noite! Não esqueça seu ursinho!",
-        "practiceQuestion": "Complete: '_____ la valise ce soir !'",
-        "options": ["Préparons", "Préparons pas", "Préparer"],
+        "ruleTitle": "Avoir hâte",
+        "explanationPt": "'Avoir hâte' = estar ansioso/com vontade: j'ai hâte (estou ansioso), elle a hâte (ela está ansiosa).",
+        "exampleFr": "J'ai hâte d'être marié.",
+        "examplePt": "Estou ansioso para estar casado.",
+        "practiceQuestion": "Complete: 'J'_____ hâte.'",
+        "options": ["ai", "a", "as"],
         "correctIndex": 0
       },
       {
-        "ruleTitle": "Tout est prêt : está tudo pronto",
-        "explanationPt": "'Tout est prêt' = está tudo pronto. Ex.: 'Tout est prêt pour le départ' (está tudo pronto para a partida).",
-        "exampleFr": "Tout est prêt. La gare est proche.",
-        "examplePt": "Está tudo pronto. A estação é perto.",
-        "practiceQuestion": "Complete: 'Tout _____ prêt.'",
-        "options": ["est", "sont", "es"],
+        "ruleTitle": "Dans une semaine",
+        "explanationPt": "'Dans' + tempo = daqui a: dans une semaine (daqui a uma semana), dans deux jours (daqui a dois dias).",
+        "exampleFr": "Dans une semaine, on sera mariés.",
+        "examplePt": "Daqui a uma semana, estaremos casados.",
+        "practiceQuestion": "Complete: '_____ une semaine, on se marie.'",
+        "options": ["Dans", "À", "En"],
         "correctIndex": 0
       }
     ]
   },
   "quizQuestions": [
     {
-      "question": "Para onde a família vai viajar?",
-      "options": ["Amiens", "Lyon", "Marselha"],
+      "question": "O que eles visitam primeiro?",
+      "options": ["o salão", "a igreja", "o parque"],
       "correctIndex": 0,
-      "explanation": "La famille va partir pour Amiens."
+      "explanation": "D'abord, ils visitent la salle."
     },
     {
-      "question": "Que meio de transporte eles vão pegar?",
-      "options": ["o trem", "o avião", "o ônibus"],
+      "question": "Que flores eles escolhem?",
+      "options": ["rosas brancas e peônias", "tulipas", "margaridas"],
       "correctIndex": 0,
-      "explanation": "Nous allons prendre le train demain matin."
+      "explanation": "Ils choisissent des roses blanches et des pivoines."
     },
     {
-      "question": "O que Irlan verifica antes da viagem?",
-      "options": ["os bilhetes e o documento", "as chaves", "o telefone"],
+      "question": "Quem chega do Brasil?",
+      "options": ["a família de Irlan", "os amigos de Andréa", "ninguém"],
       "correctIndex": 0,
-      "explanation": "Irlan vérifie les billets de train et la carte d'identité d'Iris."
+      "explanation": "Sa mère, son père et ses sœurs arrivent bientôt."
     },
     {
-      "question": "Complete: 'Nous _____ prendre le train demain.'",
-      "options": ["allons", "allez", "vont"],
+      "question": "Complete: 'Nous _____ la salle.'",
+      "options": ["choisissons", "choisis", "choisissent"],
       "correctIndex": 0,
-      "explanation": "Futur proche: nous allons."
+      "explanation": "nous choisissons."
     },
     {
-      "question": "Complete: 'Tout _____ prêt.'",
-      "options": ["est", "sont", "es"],
+      "question": "Complete: '_____ une semaine, on se marie.'",
+      "options": ["Dans", "À", "En"],
       "correctIndex": 0,
-      "explanation": "Tout est prêt = está tudo pronto."
+      "explanation": "Dans une semaine."
     }
   ]
 }

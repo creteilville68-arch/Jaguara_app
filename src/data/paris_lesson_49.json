@@ -1,252 +1,292 @@
 {
   "id": "paris_lesson_49",
   "cityId": "paris",
-  "domain": "Partida & Nova Etapa",
+  "domain": "Família & Festas",
   "level": "Iniciante (A1)",
-  "titleFr": "Au revoir Paris, départ pour Amiens",
-  "titlePt": "Adeus Paris, partida para Amiens",
-  "subtitleFr": "Le premier voyage de la famille",
-  "subtitlePt": "A primeira viagem da família",
-  "summaryPt": "Nesta Aula 49 (A1), a família se despede de Paris e parte para Amiens. O aluno revisa o vocabulário da viagem e da cidade, aprende as expressões de despedida (au revoir, bonne route, à bientôt) e usa o futur proche.",
+  "titleFr": "La veille du mariage",
+  "titlePt": "A véspera do casamento",
+  "subtitleFr": "Nerveux, mais prêts",
+  "subtitlePt": "Nervosos, mas prontos",
+  "summaryPt": "Na Aula 49 (A1), na véspera do casamento, Irlan e Andréa conferem os últimos detalhes. O aluno aprende o vocabulário da véspera e das emoções, e o verbo 'vérifier'.",
   "paragraphs": [
     {
       "id": 1,
-      "fr": "Le matin du départ, la famille se réveille tôt. Les valises sont prêtes près de la porte. Iris regarde par la fenêtre : « Au revoir, Paris ! » Elle embrasse la ville avec les yeux.",
-      "pt": "Na manhã da partida, a família acorda cedo. As malas estão prontas perto da porta. Íris olha pela janela: « Adeus, Paris! » Ela abraça a cidade com os olhos."
+      "fr": "C'est la veille du mariage. Le matin, Irlan se regarde dans le miroir et répète son vœu.",
+      "pt": "É a véspera do casamento. De manhã, Irlan se olha no espelho e repete o voto."
     },
     {
       "id": 2,
-      "fr": "À la gare, Irlan montre les billets au contrôleur. « Bonne route ! » dit le contrôleur avec un sourire. La famille monte dans le train et cherche ses places près de la fenêtre.",
-      "pt": "Na estação, Irlan mostra os bilhetes ao controlador. « Boa viagem! » diz o controlador com um sorriso. A família entra no trem e procura seus lugares perto da janela."
+      "fr": "« Je suis nerveux », dit-il. Andréa rit : « Moi aussi. C'est normal, c'est un grand jour. »",
+      "pt": "«Estou nervoso», diz ele. Andréa ri: «Eu também. É normal, é um grande dia.»"
     },
     {
       "id": 3,
-      "fr": "Le train part doucement. Paris devient petite derrière la vitre. « Regardez, dit Andréa, nous allons découvrir une nouvelle ville, une nouvelle région, de nouvelles histoires. » Iris applaudit : « Quelle aventure ! »",
-      "pt": "O trem parte suavemente. Paris vai ficando pequena atrás do vidro. « Olhem, diz Andréa, vamos descobrir uma nova cidade, uma nova região, novas histórias. » Íris aplaude: « Que aventura! »"
+      "fr": "Ils vont à la mairie pour vérifier l'heure de la cérémonie. Le maire les attendra demain.",
+      "pt": "Eles vão à prefeitura para conferir o horário da cerimônia. O prefeito os esperará amanhã."
     },
     {
       "id": 4,
-      "fr": "Après une heure de voyage, Amiens apparaît au loin. « Demain, nous allons visiter la cathédrale, dit Irlan. Mais d'abord, mangeons un sandwich et buvons de l'eau. » La famille sourit : un nouveau chapitre commence.",
-      "pt": "Depois de uma hora de viagem, Amiens aparece ao longe. « Amanhã, vamos visitar a catedral, diz Irlan. Mas primeiro, comamos um sanduíche e bebamos água. » A família sorri: um novo capítulo começa."
+      "fr": "Ensuite, ils récupèrent les alliances. Elles brillent dans leur petit écrin.",
+      "pt": "Depois, eles pegam as alianças. Elas brilham no pequeno estojo."
+    },
+    {
+      "id": 5,
+      "fr": "« Les témoins sont prêts ? » demande Irlan. « Oui, ils ont confirmé hier soir », répond Andréa.",
+      "pt": "«Os padrinhos estão prontos?», pergunta Irlan. «Sim, eles confirmaram ontem à noite», responde Andréa."
+    },
+    {
+      "id": 6,
+      "fr": "L'après-midi, ils décorent la salle : des fleurs sur les tables et des lumières douces.",
+      "pt": "À tarde, eles decoram o salão: flores nas mesas e luzes suaves."
+    },
+    {
+      "id": 7,
+      "fr": "La famille d'Irlan arrive du Brésil. Sa mère le serre fort dans ses bras.",
+      "pt": "A família de Irlan chega do Brasil. A mãe dele o abraça forte."
+    },
+    {
+      "id": 8,
+      "fr": "« Mon fils se marie ! » dit-elle, les yeux brillants. Ses deux sœurs rient et prennent des photos.",
+      "pt": "«Meu filho vai se casar!», diz ela, com os olhos brilhando. As duas irmãs riem e tiram fotos."
+    },
+    {
+      "id": 9,
+      "fr": "Le soir, tout est prêt. Andréa et Irlan regardent la salle une dernière fois.",
+      "pt": "À noite, tudo está pronto. Andréa e Irlan olham o salão uma última vez."
+    },
+    {
+      "id": 10,
+      "fr": "« Demain, on se marie », murmure Andréa. « Je n'arrive pas à y croire. »",
+      "pt": "«Amanhã, a gente se casa», murmura Andréa. «Não consigo acreditar.»"
+    },
+    {
+      "id": 11,
+      "fr": "« Demain, tout commence », dit Irlan. Il lui prend la main, calme et sûr.",
+      "pt": "«Amanhã, tudo começa», diz Irlan. Ele segura a mão dela, calmo e seguro."
+    },
+    {
+      "id": 12,
+      "fr": "Cette nuit-là, ils dorment peu, mais ils rêvent éveillés. Le grand jour est presque là.",
+      "pt": "Naquela noite, eles dormem pouco, mas sonham acordados. O grande dia está quase chegando."
     }
   ],
   "vocabularyDictionary": [
     {
-      "term": "au revoir",
-      "definitionPt": "adeus / até logo",
-      "definitionFr": "Formule pour dire adieu.",
-      "inflections": ["au revoir"],
-      "ptTargets": ["adeus", "até logo"],
+      "term": "la veille",
+      "definitionPt": "a véspera",
+      "definitionFr": "Le jour d'avant.",
+      "inflections": ["la veille"],
+      "ptTargets": ["véspera"],
       "examples": [
-        { "level": "A1", "fr": "Au revoir, Paris !", "pt": "Adeus, Paris!" },
-        { "level": "A2-B1", "fr": "Nous disons au revoir à la ville.", "pt": "Nós nos despedimos da cidade." },
-        { "level": "B2", "fr": "Après la fête, ils se sont dit au revoir en se promettant de se revoir bientôt.", "pt": "Depois da festa, eles se despediram prometendo se ver em breve." },
-        { "level": "C1-C2", "fr": "C'est au revoir que l'on se dit avant de partir.", "pt": "É adeus que se diz antes de partir." }
+        { "level": "A1", "fr": "C'est la veille du mariage.", "pt": "É a véspera do casamento." },
+        { "level": "A2-B1", "fr": "La veille, ils ont tout préparé.", "pt": "Na véspera, eles prepararam tudo." },
+        { "level": "B2", "fr": "La veille d'un grand jour, le temps semble ralentir.", "pt": "Na véspera de um grande dia, o tempo parece desacelerar." },
+        { "level": "C1-C2", "fr": "C'est la veille que se mêlent, souvent, l'excitation et la peur.", "pt": "É na véspera que se misturam, muitas vezes, a excitação e o medo." }
       ]
     },
     {
-      "term": "le départ",
-      "definitionPt": "a partida",
-      "definitionFr": "Moment où l'on part.",
-      "inflections": ["le départ", "un départ", "des départs"],
-      "ptTargets": ["partida"],
+      "term": "nerveux",
+      "definitionPt": "nervoso",
+      "definitionFr": "Qui ressent de l'agitation.",
+      "inflections": ["nerveux", "nerveuse"],
+      "ptTargets": ["nervoso"],
       "examples": [
-        { "level": "A1", "fr": "Le départ est à dix heures.", "pt": "A partida é às dez horas." },
-        { "level": "A2-B1", "fr": "Le matin du départ, la famille se réveille tôt.", "pt": "Na manhã da partida, a família acorda cedo." },
-        { "level": "B2", "fr": "Le départ, préparé, ouvre une nouvelle aventure.", "pt": "A partida, preparada, abre uma nova aventura." },
-        { "level": "C1-C2", "fr": "C'est le départ qui, décidé, change les vies.", "pt": "É a partida que, decidida, muda as vidas." }
+        { "level": "A1", "fr": "Je suis nerveux.", "pt": "Eu estou nervoso." },
+        { "level": "A2-B1", "fr": "Irlan est nerveux avant la cérémonie.", "pt": "Irlan está nervoso antes da cerimônia." },
+        { "level": "B2", "fr": "Être nerveux avant un grand jour est parfaitement normal.", "pt": "Ficar nervoso antes de um grande dia é perfeitamente normal." },
+        { "level": "C1-C2", "fr": "C'est nerveux celui qui, malgré la peur, avance quand même.", "pt": "É nervoso aquele que, apesar do medo, avança mesmo assim." }
       ]
     },
     {
-      "term": "le contrôleur",
-      "definitionPt": "o controlador (trem)",
-      "definitionFr": "Personne qui vérifie les billets.",
-      "inflections": ["le contrôleur", "un contrôleur", "des contrôleurs"],
-      "ptTargets": ["controlador"],
+      "term": "vérifier",
+      "definitionPt": "verificar / conferir",
+      "definitionFr": "Contrôler que tout est correct.",
+      "inflections": ["vérifier", "je vérifie", "nous vérifions"],
+      "ptTargets": ["verificar", "conferir"],
       "examples": [
-        { "level": "A1", "fr": "Le contrôleur est gentil.", "pt": "O controlador é gentil." },
-        { "level": "A2-B1", "fr": "Irlan montre les billets au contrôleur.", "pt": "Irlan mostra os bilhetes ao controlador." },
-        { "level": "B2", "fr": "Le contrôleur, souriant, vérifie les billets du train.", "pt": "O controlador, sorridente, confere os bilhetes do trem." },
-        { "level": "C1-C2", "fr": "C'est le contrôleur qui, attentif, veille au bon déroulement du voyage.", "pt": "É o controlador que, atento, zela pelo bom andamento da viagem." }
+        { "level": "A1", "fr": "Je vérifie l'heure.", "pt": "Eu confiro o horário." },
+        { "level": "A2-B1", "fr": "Ils vérifient l'heure de la cérémonie.", "pt": "Eles conferem o horário da cerimônia." },
+        { "level": "B2", "fr": "Vérifier chaque détail évite les mauvaises surprises.", "pt": "Conferir cada detalhe evita surpresas ruins." },
+        { "level": "C1-C2", "fr": "C'est en vérifiant que l'on transforme l'inquiétude en confiance.", "pt": "É conferindo que se transforma a inquietação em confiança." }
       ]
     },
     {
-      "term": "bonne route",
-      "definitionPt": "boa viagem",
-      "definitionFr": "Formule de bon voyage.",
-      "inflections": ["bonne route"],
-      "ptTargets": ["boa viagem"],
+      "term": "la cérémonie",
+      "definitionPt": "a cerimônia",
+      "definitionFr": "Moment solennel d'une fête.",
+      "inflections": ["la cérémonie", "une cérémonie", "des cérémonies"],
+      "ptTargets": ["cerimônia"],
       "examples": [
-        { "level": "A1", "fr": "Bonne route !", "pt": "Boa viagem!" },
-        { "level": "A2-B1", "fr": "Le contrôleur dit : « Bonne route ! »", "pt": "O controlador diz: « Boa viagem! »" },
-        { "level": "B2", "fr": "On souhaite une bonne route avant de partir.", "pt": "Deseja-se boa viagem antes de partir." },
-        { "level": "C1-C2", "fr": "C'est « bonne route » qui, gentil, accompagne les voyageurs.", "pt": "É « boa viagem » que, gentil, acompanha os viajantes." }
+        { "level": "A1", "fr": "La cérémonie est belle.", "pt": "A cerimônia é bonita." },
+        { "level": "A2-B1", "fr": "La cérémonie a lieu à la mairie.", "pt": "A cerimônia acontece na prefeitura." },
+        { "level": "B2", "fr": "La cérémonie de mariage réunit la famille et les amis.", "pt": "A cerimônia de casamento reúne a família e os amigos." },
+        { "level": "C1-C2", "fr": "C'est la cérémonie qui, par sa solennité, donne tout son poids à une promesse.", "pt": "É a cerimônia que, por sua solenidade, dá todo o peso a uma promessa." }
       ]
     },
     {
-      "term": "chercher",
-      "definitionPt": "procurar",
-      "definitionFr": "Essayer de trouver.",
-      "inflections": ["chercher", "je cherche", "nous cherchons"],
-      "ptTargets": ["procurar"],
+      "term": "les alliances",
+      "definitionPt": "as alianças",
+      "definitionFr": "Anneaux échangés au mariage.",
+      "inflections": ["les alliances", "une alliance", "des alliances"],
+      "ptTargets": ["alianças", "aliança"],
       "examples": [
-        { "level": "A1", "fr": "Je cherche ma place.", "pt": "Eu procuro meu lugar." },
-        { "level": "A2-B1", "fr": "La famille cherche ses places près de la fenêtre.", "pt": "A família procura seus lugares perto da janela." },
-        { "level": "B2", "fr": "Les voyageurs cherchent leurs places dans le train.", "pt": "Os viajantes procuram seus lugares no trem." },
-        { "level": "C1-C2", "fr": "C'est en cherchant que l'on trouve sa place.", "pt": "É procurando que se encontra seu lugar." }
+        { "level": "A1", "fr": "Les alliances brillent.", "pt": "As alianças brilham." },
+        { "level": "A2-B1", "fr": "Ils récupèrent les alliances.", "pt": "Eles pegam as alianças." },
+        { "level": "B2", "fr": "Les alliances symbolisent l'engagement mutuel.", "pt": "As alianças simbolizam o compromisso mútuo." },
+        { "level": "C1-C2", "fr": "Ce sont les alliances qui, portées chaque jour, rappellent la promesse faite un soir.", "pt": "São as alianças que, usadas todos os dias, lembram a promessa feita numa noite." }
       ]
     },
     {
-      "term": "la fenêtre",
-      "definitionPt": "a janela",
-      "definitionFr": "Ouverture dans un mur.",
-      "inflections": ["la fenêtre", "une fenêtre", "des fenêtres"],
-      "ptTargets": ["janela"],
+      "term": "le maire",
+      "definitionPt": "o prefeito",
+      "definitionFr": "Personne qui dirige une ville.",
+      "inflections": ["le maire", "un maire", "des maires"],
+      "ptTargets": ["prefeito"],
       "examples": [
-        { "level": "A1", "fr": "La fenêtre est ouverte.", "pt": "A janela está aberta." },
-        { "level": "A2-B1", "fr": "Iris regarde par la fenêtre.", "pt": "Íris olha pela janela." },
-        { "level": "B2", "fr": "La fenêtre, grande, laisse entrer la lumière.", "pt": "A janela, grande, deixa entrar a luz." },
-        { "level": "C1-C2", "fr": "C'est la fenêtre qui, ouverte, offre le monde au regard.", "pt": "É a janela que, aberta, oferece o mundo ao olhar." }
+        { "level": "A1", "fr": "Le maire est là.", "pt": "O prefeito está aqui." },
+        { "level": "A2-B1", "fr": "Le maire célèbre le mariage.", "pt": "O prefeito celebra o casamento." },
+        { "level": "B2", "fr": "Le maire prononce un discours pour les mariés.", "pt": "O prefeito faz um discurso para os noivos." },
+        { "level": "C1-C2", "fr": "C'est le maire qui, au nom de la ville, unit officiellement les époux.", "pt": "É o prefeito que, em nome da cidade, une oficialmente os cônjuges." }
       ]
     },
     {
-      "term": "la vitre",
-      "definitionPt": "o vidro",
-      "definitionFr": "Verre d'une fenêtre.",
-      "inflections": ["la vitre", "une vitre", "des vitres"],
-      "ptTargets": ["vidro"],
+      "term": "les témoins",
+      "definitionPt": "as testemunhas / os padrinhos",
+      "definitionFr": "Personnes qui assistent au mariage.",
+      "inflections": ["les témoins", "un témoin", "une témoin"],
+      "ptTargets": ["testemunhas", "padrinhos"],
       "examples": [
-        { "level": "A1", "fr": "La vitre est propre.", "pt": "O vidro está limpo." },
-        { "level": "A2-B1", "fr": "Paris devient petite derrière la vitre.", "pt": "Paris vai ficando pequena atrás do vidro." },
-        { "level": "B2", "fr": "La vitre, claire, montre le paysage qui défile.", "pt": "O vidro, claro, mostra a paisagem que passa." },
-        { "level": "C1-C2", "fr": "C'est la vitre qui, transparente, cadre les souvenirs du voyage.", "pt": "É o vidro que, transparente, emoldura as lembranças da viagem." }
+        { "level": "A1", "fr": "Les témoins sont prêts.", "pt": "Os padrinhos estão prontos." },
+        { "level": "A2-B1", "fr": "Les témoins ont confirmé leur présence.", "pt": "Os padrinhos confirmaram a presença." },
+        { "level": "B2", "fr": "Les témoins signent le registre après les mariés.", "pt": "Os padrinhos assinam o livro depois dos noivos." },
+        { "level": "C1-C2", "fr": "Ce sont les témoins qui, par leur présence, garantissent la sincérité de l'engagement.", "pt": "São as testemunhas que, por sua presença, garantem a sinceridade do compromisso." }
       ]
     },
     {
-      "term": "découvrir",
-      "definitionPt": "descobrir",
-      "definitionFr": "Trouver quelque chose de nouveau.",
-      "inflections": ["découvrir", "je découvre", "nous découvrons"],
-      "ptTargets": ["descobrir"],
+      "term": "prêt",
+      "definitionPt": "pronto",
+      "definitionFr": "Qui est préparé.",
+      "inflections": ["prêt", "prête"],
+      "ptTargets": ["pronto"],
       "examples": [
-        { "level": "A1", "fr": "Je découvre une ville.", "pt": "Eu descubro uma cidade." },
-        { "level": "A2-B1", "fr": "Nous allons découvrir une nouvelle ville.", "pt": "Vamos descobrir uma nova cidade." },
-        { "level": "B2", "fr": "Découvrir une nouvelle région, c'est enrichissant.", "pt": "Descobrir uma nova região é enriquecedor." },
-        { "level": "C1-C2", "fr": "C'est en découvrant que l'on grandit.", "pt": "É descobrindo que se cresce." }
+        { "level": "A1", "fr": "Je suis prêt.", "pt": "Eu estou pronto." },
+        { "level": "A2-B1", "fr": "Tout est prêt pour la fête.", "pt": "Tudo está pronto para a festa." },
+        { "level": "B2", "fr": "Être prêt, c'est avoir pensé à tout.", "pt": "Estar pronto é ter pensado em tudo." },
+        { "level": "C1-C2", "fr": "C'est prêt celui qui, malgré l'imprévu, garde confiance en sa préparation.", "pt": "É pronto aquele que, apesar do imprevisto, mantém confiança na própria preparação." }
       ]
     },
     {
-      "term": "apparaître",
-      "definitionPt": "aparecer",
-      "definitionFr": "Devenir visible.",
-      "inflections": ["apparaître", "j'apparais", "nous apparaissons"],
-      "ptTargets": ["aparecer"],
+      "term": "demain",
+      "definitionPt": "amanhã",
+      "definitionFr": "Le jour d'après aujourd'hui.",
+      "inflections": ["demain"],
+      "ptTargets": ["amanhã"],
       "examples": [
-        { "level": "A1", "fr": "La ville apparaît.", "pt": "A cidade aparece." },
-        { "level": "A2-B1", "fr": "Amiens apparaît au loin.", "pt": "Amiens aparece ao longe." },
-        { "level": "B2", "fr": "Les lumières de la ville apparaissent dans la nuit.", "pt": "As luzes da cidade aparecem na noite." },
-        { "level": "C1-C2", "fr": "C'est en apparaissant que la ville se révèle au voyageur.", "pt": "É aparecendo que a cidade se revela ao viajante." }
+        { "level": "A1", "fr": "Demain, c'est le mariage.", "pt": "Amanhã é o casamento." },
+        { "level": "A2-B1", "fr": "Demain, on se marie.", "pt": "Amanhã, a gente se casa." },
+        { "level": "B2", "fr": "Demain est un jour qu'ils attendent depuis longtemps.", "pt": "Amanhã é um dia que eles esperam há muito tempo." },
+        { "level": "C1-C2", "fr": "C'est demain que se réalise, enfin, ce qui n'était hier qu'un rêve.", "pt": "É amanhã que se realiza, enfim, o que ontem era apenas um sonho." }
       ]
     },
     {
-      "term": "le chapitre",
-      "definitionPt": "o capítulo",
-      "definitionFr": "Partie d'une histoire.",
-      "inflections": ["le chapitre", "un chapitre", "des chapitres"],
-      "ptTargets": ["capítulo"],
+      "term": "dormir",
+      "definitionPt": "dormir",
+      "definitionFr": "Être dans le sommeil.",
+      "inflections": ["dormir", "je dors", "nous dormons"],
+      "ptTargets": ["dormir"],
       "examples": [
-        { "level": "A1", "fr": "Le chapitre est court.", "pt": "O capítulo é curto." },
-        { "level": "A2-B1", "fr": "Un nouveau chapitre commence.", "pt": "Um novo capítulo começa." },
-        { "level": "B2", "fr": "Chaque ville est un chapitre de la grande histoire.", "pt": "Cada cidade é um capítulo da grande história." },
-        { "level": "C1-C2", "fr": "C'est le chapitre qui, écrit, continue l'histoire de la famille.", "pt": "É o capítulo que, escrito, continua a história da família." }
+        { "level": "A1", "fr": "Je dors peu.", "pt": "Eu durmo pouco." },
+        { "level": "A2-B1", "fr": "Ils dorment peu la veille du mariage.", "pt": "Eles dormem pouco na véspera do casamento." },
+        { "level": "B2", "fr": "Dormir suffisamment aide à être en forme le grand jour.", "pt": "Dormir o suficiente ajuda a estar em forma no grande dia." },
+        { "level": "C1-C2", "fr": "C'est en dormant que l'on recharge le corps et que l'on apaise l'esprit.", "pt": "É dormindo que se recarrega o corpo e se acalma a mente." }
       ]
     },
     {
-      "term": "le sandwich",
-      "definitionPt": "o sanduíche",
-      "definitionFr": "Pain garni.",
-      "inflections": ["le sandwich", "un sandwich", "des sandwichs"],
-      "ptTargets": ["sanduíche"],
+      "term": "rêver",
+      "definitionPt": "sonhar",
+      "definitionFr": "Faire des rêves ou imaginer.",
+      "inflections": ["rêver", "je rêve", "nous rêvons"],
+      "ptTargets": ["sonhar"],
       "examples": [
-        { "level": "A1", "fr": "Le sandwich est bon.", "pt": "O sanduíche é bom." },
-        { "level": "A2-B1", "fr": "Mangeons un sandwich dans le train.", "pt": "Comamos um sanduíche no trem." },
-        { "level": "B2", "fr": "Le sandwich, simple, nourrit les voyageurs pressés.", "pt": "O sanduíche, simples, alimenta os viajantes apressados." },
-        { "level": "C1-C2", "fr": "C'est le sandwich qui, pratique, accompagne les voyages.", "pt": "É o sanduíche que, prático, acompanha as viagens." }
+        { "level": "A1", "fr": "Je rêve la nuit.", "pt": "Eu sonho à noite." },
+        { "level": "A2-B1", "fr": "Ils rêvent éveillés la veille du mariage.", "pt": "Eles sonham acordados na véspera do casamento." },
+        { "level": "B2", "fr": "Rêver donne des ailes aux projets.", "pt": "Sonhar dá asas aos projetos." },
+        { "level": "C1-C2", "fr": "C'est en rêvant que l'on dessine, d'abord en soi, la vie que l'on veut vivre.", "pt": "É sonhando que se desenha, primeiro dentro de si, a vida que se quer viver." }
       ]
     },
     {
-      "term": "l'aventure",
-      "definitionPt": "a aventura",
-      "definitionFr": "Expérience nouvelle.",
-      "inflections": ["l'aventure", "une aventure", "des aventures"],
-      "ptTargets": ["aventura"],
+      "term": "le miroir",
+      "definitionPt": "o espelho",
+      "definitionFr": "Surface qui reflète l'image.",
+      "inflections": ["le miroir", "un miroir", "des miroirs"],
+      "ptTargets": ["espelho"],
       "examples": [
-        { "level": "A1", "fr": "Quelle aventure !", "pt": "Que aventura!" },
-        { "level": "A2-B1", "fr": "Iris applaudit : « Quelle aventure ! »", "pt": "Íris aplaude: « Que aventura! »" },
-        { "level": "B2", "fr": "Le voyage est une aventure partagée.", "pt": "A viagem é uma aventura partilhada." },
-        { "level": "C1-C2", "fr": "C'est l'aventure qui, vécue ensemble, renforce la famille.", "pt": "É a aventura que, vivida juntos, fortalece a família." }
+        { "level": "A1", "fr": "Le miroir est propre.", "pt": "O espelho está limpo." },
+        { "level": "A2-B1", "fr": "Irlan se regarde dans le miroir.", "pt": "Irlan se olha no espelho." },
+        { "level": "B2", "fr": "Le miroir reflète son sourire nerveux.", "pt": "O espelho reflete o sorriso nervoso dele." },
+        { "level": "C1-C2", "fr": "C'est le miroir qui, sans mentir, montre celui que l'on devient.", "pt": "É o espelho que, sem mentir, mostra aquele em que a gente se transforma." }
       ]
     }
   ],
   "grammarTip": {
-    "ruleTitle": "Les salutations de départ",
-    "explanationPt": "Despedidas: 'Au revoir !' (adeus/até logo), 'Bonne route !' (boa viagem!), 'À bientôt !' (até breve), 'À demain !' (até amanhã). Todas acompanham a partida com gentileza.",
-    "exampleFr": "Au revoir, Paris ! Bonne route ! À bientôt, les amis !",
-    "examplePt": "Adeus, Paris! Boa viagem! Até breve, amigos!",
-    "practiceQuestion": "Complete: '_____ , Paris !'",
-    "options": ["Au revoir", "Bonjour", "Bonne nuit"],
+    "ruleTitle": "Le verbe dormir : dormir",
+    "explanationPt": "'Dormir' é irregular: je dors, tu dors, il/elle dort, nous dormons, vous dormez, ils/elles dorment.",
+    "exampleFr": "Ils dorment peu la veille du mariage.",
+    "examplePt": "Eles dormem pouco na véspera do casamento.",
+    "practiceQuestion": "Complete: 'Je _____ peu cette nuit.'",
+    "options": ["dors", "dort", "dormons"],
     "correctIndex": 0,
     "points": [
       {
-        "ruleTitle": "Devenir + adjetivo : tornar-se",
-        "explanationPt": "'Devenir' + adjetivo = tornar-se. Ex.: 'Paris devient petite' (Paris vai ficando pequena), 'Iris devient grande' (Íris vai ficando grande).",
-        "exampleFr": "Paris devient petite derrière la vitre.",
-        "examplePt": "Paris vai ficando pequena atrás do vidro.",
-        "practiceQuestion": "Complete: 'Paris _____ petite derrière la vitre.'",
-        "options": ["devient", "devenir", "deviens"],
+        "ruleTitle": "Être prêt / prête",
+        "explanationPt": "'Prêt' concorda com o sujeito: il est prêt (ele), elle est prête (ela), ils sont prêts, elles sont prêtes.",
+        "exampleFr": "Les témoins sont prêts.",
+        "examplePt": "Os padrinhos estão prontos.",
+        "practiceQuestion": "Complete: 'Elle est _____'.",
+        "options": ["prête", "prêt", "prêts"],
         "correctIndex": 0
       },
       {
-        "ruleTitle": "Révision : le futur proche",
-        "explanationPt": "Revisão do futuro próximo: 'aller' + infinitivo. Ex.: 'Nous allons visiter la cathédrale' (vamos visitar a catedral), 'Nous allons découvrir' (vamos descobrir).",
-        "exampleFr": "Demain, nous allons visiter la cathédrale.",
-        "examplePt": "Amanhã, vamos visitar a catedral.",
-        "practiceQuestion": "Complete: 'Nous _____ visiter la cathédrale.'",
-        "options": ["allons", "allons pas", "vont"],
+        "ruleTitle": "Je n'arrive pas à y croire",
+        "explanationPt": "'Je n'arrive pas à y croire' = não consigo acreditar. 'Arriver à' + infinitivo = conseguir.",
+        "exampleFr": "Je n'arrive pas à y croire.",
+        "examplePt": "Não consigo acreditar.",
+        "practiceQuestion": "Complete: 'Je n'_____ pas à y croire.'",
+        "options": ["arrive", "arrives", "arrivent"],
         "correctIndex": 0
       }
     ]
   },
   "quizQuestions": [
     {
-      "question": "Como Íris se despede de Paris?",
-      "options": ["Au revoir, Paris !", "Bonjour, Paris !", "Bonne nuit, Paris !"],
+      "question": "O que Irlan repete diante do espelho?",
+      "options": ["o voto", "a lista", "a canção"],
       "correctIndex": 0,
-      "explanation": "Iris regarde par la fenêtre : « Au revoir, Paris ! »"
+      "explanation": "Il répète son vœu."
     },
     {
-      "question": "O que o controlador diz à família?",
-      "options": ["Bonne route !", "Au travail !", "À demain !"],
+      "question": "Onde acontece a cerimônia?",
+      "options": ["na prefeitura", "na praia", "no restaurante"],
       "correctIndex": 0,
-      "explanation": "Le contrôleur dit : « Bonne route ! »"
+      "explanation": "La cérémonie a lieu à la mairie."
     },
     {
-      "question": "O que a família vai visitar em Amiens?",
-      "options": ["a catedral", "o castelo", "o museu"],
+      "question": "Quem chega do Brasil?",
+      "options": ["a família de Irlan", "o maire", "ninguém"],
       "correctIndex": 0,
-      "explanation": "Demain, nous allons visiter la cathédrale."
+      "explanation": "La famille d'Irlan arrive du Brésil."
     },
     {
-      "question": "Complete: 'Paris _____ petite derrière la vitre.'",
-      "options": ["devient", "devenir", "deviens"],
+      "question": "Complete: 'Je _____ peu cette nuit.'",
+      "options": ["dors", "dort", "dormons"],
       "correctIndex": 0,
-      "explanation": "Devenir: il devient."
+      "explanation": "je dors."
     },
     {
-      "question": "Complete: 'Nous _____ visiter la cathédrale.'",
-      "options": ["allons", "allons pas", "vont"],
+      "question": "Complete: 'Elle est _____'.",
+      "options": ["prête", "prêt", "prêts"],
       "correctIndex": 0,
-      "explanation": "Futur proche: nous allons visiter."
+      "explanation": "Elle est prête (feminino)."
     }
   ]
 }

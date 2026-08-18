@@ -1,10 +1,10 @@
 # #5 Tours — B1
 
-**447 palavras** ainda precisam aparecer nos textos das aulas desta cidade.
+**446 palavras** ainda precisam aparecer nos textos das aulas desta cidade.
 
 Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aventura do Irlan.
 
-## B1 (447)
+## B1 (446)
 
 - [ ] **à la mode** — na moda
 - [ ] **abordable** — acessível / barato
@@ -384,13 +384,13 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **manquer de respect** — faltar com o respeito
 - [ ] **méchant** — mau / maldoso
 - [ ] **méfiant** — desconfiado
-- [ ] **mettre à jour** — atualizar
-- [ ] **migrer** — migrar
-- [ ] **modifier** — modificar
-- [ ] **multiplier** — multiplicar
-- [ ] **notamment** — notadamente / especialmente
-- [ ] **obliger** — obrigar
-- [ ] **occasionnel** — ocasional
+- [ ] **ménager** — doméstico (relativo à casa)
+- [ ] **mettre en marche** — ligar / colocar em funcionamento
+- [ ] **millésime** — a safra / ano de colheita
+- [ ] **multiple** — múltiplo
+- [ ] **normalement** — normalmente
+- [ ] **objecter** — objetar
+- [ ] **obtenir** — obter
 - [ ] **opérer** — operar
 - [ ] **ôter** — tirar / remover
 - [ ] **par ailleurs** — por outro lado
@@ -417,39 +417,38 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **répondre correctement** — responder corretamente
 - [ ] **reprendre son souffle** — recuperar o fôlego
 - [ ] **respecter la loi** — respeitar a lei
-- [ ] **responsable** — responsável
-- [ ] **retarder** — atrasar
-- [ ] **réutilisable** — reutilizável
-- [ ] **rigide** — rígido
-- [ ] **rompre** — romper / terminar
-- [ ] **rusé** — astuto
-- [ ] **s’échauffer** — aquecer
-- [ ] **s’établir** — estabelecer-se
-- [ ] **s’exiler** — exilar-se
-- [ ] **sage** — sábio / comportado
-- [ ] **sauf si** — a não ser que
-- [ ] **se dérouler** — decorrer / transcorrer
-- [ ] **se réjouir** — alegrar-se
-- [ ] **se sentir bien** — sentir-se bem
-- [ ] **se venger** — vingar-se
-- [ ] **séduire** — seduzir
-- [ ] **semer** — semear
-- [ ] **sévère** — severo
-- [ ] **simplifier** — simplificar
-- [ ] **soudainement** — subitamente
-- [ ] **soumis** — submisso
-- [ ] **spécialement** — especialmente
-- [ ] **stressant** — estressante
-- [ ] **subitement** — de repente
-- [ ] **suivre un traitement** — seguir um tratamento
-- [ ] **survivre** — sobreviver
-- [ ] **temporaire** — temporário
-- [ ] **tertre** — Pequena elevação / Place du Tertre (praça dos pintores em Montmartre)
-- [ ] **tomber amoureux** — apaixonar-se
-- [ ] **tourner un film** — rodar um filme
-- [ ] **triangulaire** — triangular
-- [ ] **trouver la solution** — encontrar a solução
-- [ ] **urgent** — urgente
-- [ ] **varié** — variado
-- [ ] **véritable** — verdadeiro
-- [ ] **voter une loi** — aprovar uma lei
+- [ ] **ressens** — sinto / experimento (do verbo ressentir)
+- [ ] **retenir** — reter / reservar
+- [ ] **révéler un secret** — revelar um segredo
+- [ ] **robuste** — robusto
+- [ ] **rompre un contrat** — quebrar um contrato
+- [ ] **s’angoisser** — angustiar-se
+- [ ] **s’entendre bien** — dar-se bem
+- [ ] **s’étirer** — alongar-se
+- [ ] **s’indigner** — indignar-se
+- [ ] **saigner** — sangrar
+- [ ] **sauvegarder** — salvaguardar
+- [ ] **se faire vacciner** — vacinar-se
+- [ ] **se remettre** — recuperar-se
+- [ ] **se sentir mal** — sentir-se mal
+- [ ] **sécurisé** — seguro / protegido
+- [ ] **sélectionner** — selecionar
+- [ ] **sensible** — sensível
+- [ ] **signer un contrat** — assinar um contrato
+- [ ] **sociable** — sociável
+- [ ] **souffrir** — sofrer
+- [ ] **soustraire** — subtrair
+- [ ] **splendide** — esplêndido
+- [ ] **stylistes** — os estilistas / designers de moda
+- [ ] **suffisant** — suficiente
+- [ ] **superviser** — supervisionar
+- [ ] **symétrique** — simétrico
+- [ ] **tenir une promesse** — cumprir uma promessa
+- [ ] **têtu** — teimoso
+- [ ] **totalement** — totalmente
+- [ ] **travailler à distance** — trabalhar remotamente
+- [ ] **tricher** — trapacear
+- [ ] **typique** — típico
+- [ ] **vaincre** — vencer
+- [ ] **venger** — vingar
+- [ ] **vis-à-vis** — em relação a

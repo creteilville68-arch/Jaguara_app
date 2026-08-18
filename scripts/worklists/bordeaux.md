@@ -384,13 +384,13 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **manuel** — manual
 - [ ] **médiocre** — medíocre
 - [ ] **mémoriser** — memorizar
-- [ ] **mettre en ligne** — publicar / colocar online
-- [ ] **militer** — militar
-- [ ] **motiver** — motivar
-- [ ] **nécessaire** — necessário
-- [ ] **obèse** — obeso
-- [ ] **obscur** — obscuro
-- [ ] **occuper un poste** — ocupar um cargo
+- [ ] **mettre à jour** — atualizar
+- [ ] **migrer** — migrar
+- [ ] **modifier** — modificar
+- [ ] **multiplier** — multiplicar
+- [ ] **notamment** — notadamente / especialmente
+- [ ] **obliger** — obrigar
+- [ ] **occasionnel** — ocasional
 - [ ] **opposer** — opor
 - [ ] **ourlet** — a bainha / dobra costurada
 - [ ] **par contre** — em compensação
@@ -417,38 +417,38 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **reporter** — adiar
 - [ ] **reprocher** — censurar / repreender
 - [ ] **respecter le code** — respeitar o código
-- [ ] **ressens** — sinto / experimento (do verbo ressentir)
-- [ ] **retenir** — reter / reservar
-- [ ] **révéler un secret** — revelar um segredo
-- [ ] **robuste** — robusto
-- [ ] **rompre un contrat** — quebrar um contrato
-- [ ] **s’angoisser** — angustiar-se
-- [ ] **s’entendre bien** — dar-se bem
-- [ ] **s’étirer** — alongar-se
-- [ ] **s’indigner** — indignar-se
-- [ ] **saigner** — sangrar
-- [ ] **sauvegarder** — salvaguardar
-- [ ] **se faire vacciner** — vacinar-se
-- [ ] **se remettre** — recuperar-se
-- [ ] **se sentir mal** — sentir-se mal
-- [ ] **sécurisé** — seguro / protegido
-- [ ] **sélectionner** — selecionar
-- [ ] **sensible** — sensível
-- [ ] **signer un contrat** — assinar um contrato
-- [ ] **sociable** — sociável
-- [ ] **souffrir** — sofrer
-- [ ] **soustraire** — subtrair
-- [ ] **splendide** — esplêndido
-- [ ] **stylistes** — os estilistas / designers de moda
-- [ ] **suffisant** — suficiente
-- [ ] **superviser** — supervisionar
-- [ ] **symétrique** — simétrico
-- [ ] **tenir une promesse** — cumprir uma promessa
-- [ ] **têtu** — teimoso
-- [ ] **totalement** — totalmente
-- [ ] **travailler à distance** — trabalhar remotamente
-- [ ] **tricher** — trapacear
-- [ ] **typique** — típico
-- [ ] **vaincre** — vencer
-- [ ] **venger** — vingar
-- [ ] **vis-à-vis** — em relação a
+- [ ] **ressentir** — sentir
+- [ ] **réussir un examen** — passar em um exame
+- [ ] **ridicule** — ridículo
+- [ ] **romantique** — romântico
+- [ ] **ruineux** — ruinoso / caríssimo
+- [ ] **s’attrister** — entristecer-se
+- [ ] **s’entendre mal** — dar-se mal
+- [ ] **s’évanouir** — desmaiar
+- [ ] **s’intégrer** — integrar-se
+- [ ] **satisfait** — satisfeito
+- [ ] **se casser le bras** — quebrar o braço
+- [ ] **se fiancer** — ficar noivo
+- [ ] **se repentir** — arrepender-se
+- [ ] **se spécialiser** — especializar-se
+- [ ] **sédentaire** — sedentário
+- [ ] **semblable** — semelhante
+- [ ] **serein** — sereno
+- [ ] **signer une pétition** — assinar um abaixo-assinado
+- [ ] **solitaire** — solitário
+- [ ] **soumettre** — submeter
+- [ ] **soutenir une cause** — apoiar uma causa
+- [ ] **spontané** — espontâneo
+- [ ] **subir** — sofrer / passar por
+- [ ] **suivre la commande** — acompanhar o pedido
+- [ ] **sur-mesure** — sob medida / personalizado
+- [ ] **télécharger une application** — baixar um aplicativo
+- [ ] **terroir** — o terroir / solo regional
+- [ ] **tolérant** — tolerante
+- [ ] **touchant** — tocante
+- [ ] **travailleur acharné** — muito trabalhador
+- [ ] **triple** — triplo
+- [ ] **uniquement** — unicamente
+- [ ] **valable** — válido
+- [ ] **vérifier les faits** — verificar os fatos
+- [ ] **volumineux** — volumoso

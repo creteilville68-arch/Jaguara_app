@@ -1,10 +1,10 @@
 # #3 Lille — A2
 
-**214 palavras** ainda precisam aparecer nos textos das aulas desta cidade.
+**215 palavras** ainda precisam aparecer nos textos das aulas desta cidade.
 
 Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aventura do Irlan.
 
-## A2 (214)
+## A2 (215)
 
 - [ ] **à gauche** — à esquerda
 - [ ] **accomplir** — cumprir / realizar
@@ -65,84 +65,85 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **la boîte de réception** — a caixa de entrada
 - [ ] **la bruine** — a garoa
 - [ ] **la cantine** — o refeitório
-- [ ] **la carte de transport** — o cartão de transporte
-- [ ] **la ceinture de sécurité** — o cinto de segurança
-- [ ] **la chambre double** — o quarto de casal
-- [ ] **la chemise cartonnée** — a pasta de papelão
-- [ ] **la chouette** — a coruja (sem orelhas)
-- [ ] **la climatisation** — o ar-condicionado
-- [ ] **la commode** — a cômoda
-- [ ] **la corbeille à linge** — o cesto de roupa
-- [ ] **la couverture chauffante** — o cobertor elétrico
-- [ ] **la cravate** — a gravata
-- [ ] **la demi-pension** — a meia-pensão
-- [ ] **la discussion** — a conversa
-- [ ] **la facture** — a fatura
-- [ ] **la feuille de calcul** — a planilha
-- [ ] **la file d’attente** — a fila
-- [ ] **la grippe** — a gripe
-- [ ] **la journée tranquille** — o dia tranquilo
-- [ ] **la lettre recommandée** — a carta registrada
-- [ ] **la locomotive** — a locomotiva
-- [ ] **la méduse** — a água-viva
-- [ ] **la moustache** — o bigode
-- [ ] **la nuitée** — a diária
-- [ ] **la pause café** — a pausa para o café
-- [ ] **la pension complète** — a pensão completa
-- [ ] **la petite cuillère** — a colher de chá
-- [ ] **la photocopie** — a fotocópia
-- [ ] **la piqûre** — a injeção
-- [ ] **la place côté couloir** — o assento no corredor
-- [ ] **la planche à découper** — a tábua de cortar
-- [ ] **la pommade** — a pomada
-- [ ] **la présentation** — a apresentação
-- [ ] **la promotion** — a promoção
-- [ ] **la recharge** — a recarga
-- [ ] **la réservation** — a reserva
-- [ ] **la rue piétonne** — a rua de pedestres
-- [ ] **la serviette de table** — o guardanapo de mesa
-- [ ] **la table basse** — a mesa de centro
-- [ ] **la table réservée** — a mesa reservada
-- [ ] **la toux** — a tosse
-- [ ] **la vague de froid** — a onda de frio
-- [ ] **la visite guidée** — a visita guiada
-- [ ] **le banquier** — o gerente de banco
-- [ ] **le bistrot** — o bistrô
-- [ ] **le bracelet** — a pulseira
-- [ ] **le bureau (meuble)** — a escrivaninha
-- [ ] **le caddie** — o carrinho de compras
-- [ ] **le café-restaurant** — o café-restaurante
-- [ ] **le célibataire** — o solteiro
-- [ ] **le cerf** — o cervo
-- [ ] **le chef cuisinier** — o chefe de cozinha
-- [ ] **le ciel couvert** — o céu nublado
-- [ ] **le climatiseur** — o ar-condicionado
-- [ ] **le code secret** — a senha / o código secreto
-- [ ] **le comédien** — o ator
-- [ ] **le congé** — a folga / as férias
-- [ ] **le corbeau** — o corvo
-- [ ] **le courriel** — o e-mail
-- [ ] **le crocodile** — o crocodilo
-- [ ] **le degré** — o grau
-- [ ] **le détour** — o desvio / a volta
-- [ ] **le distributeur de billets** — o caixa eletrônico
-- [ ] **le faucon** — o falcão
-- [ ] **le fiancé** — o noivo
-- [ ] **le film comique** — o filme de comédia
-- [ ] **le film dramatique** — o filme de drama
-- [ ] **le formulaire** — o formulário
-- [ ] **le grain de beauté** — a pinta / o sinal
-- [ ] **le groupe de musique** — a banda
-- [ ] **le hérisson** — o ouriço
-- [ ] **le hublot** — a janela do avião
-- [ ] **le jeu de société** — o jogo de tabuleiro
-- [ ] **le lavabo** — o lavatório
-- [ ] **le lit simple** — a cama de solteiro
-- [ ] **le locataire** — o inquilino
-- [ ] **le loisir** — o lazer
-- [ ] **le mal de dents** — a dor de dente
-- [ ] **le mal de ventre** — a dor de barriga
-- [ ] **le maquillage** — a maquiagem
+- [ ] **la carte de débit** — o cartão de débito
+- [ ] **la caution** — o depósito / a caução
+- [ ] **la chambre d’hôtes** — a pousada familiar
+- [ ] **la chauve-souris** — o morcego
+- [ ] **la chocolaterie** — a chocolateria
+- [ ] **la clé magnétique** — a chave magnética
+- [ ] **la commission** — a taxa / a comissão
+- [ ] **la console de jeux** — o videogame
+- [ ] **la coupelle** — o potinho / a tigelinha
+- [ ] **la couverture supplémentaire** — o cobertor extra
+- [ ] **la déception** — a decepção
+- [ ] **la déviation** — o desvio
+- [ ] **la douzaine** — a dúzia
+- [ ] **la fête foraine** — o parque de diversões
+- [ ] **la fiancée** — a noiva
+- [ ] **la grêle** — o granizo
+- [ ] **la journée chargée** — o dia cheio
+- [ ] **la lampe de poche** — a lanterna
+- [ ] **la location** — a locação
+- [ ] **la marraine** — a madrinha
+- [ ] **la mise à jour** — a atualização
+- [ ] **la notification** — a notificação
+- [ ] **la patinoire** — a pista de patinação
+- [ ] **la penderie** — o cabideiro
+- [ ] **la personnalité** — a personalidade
+- [ ] **la photo de profil** — a foto de perfil
+- [ ] **la pince à épiler** — a pinça
+- [ ] **la pizzeria** — a pizzaria
+- [ ] **la plaie** — a ferida
+- [ ] **la politesse** — a educação / a polidez
+- [ ] **la poule** — a galinha
+- [ ] **la promenade en bateau** — o passeio de barco
+- [ ] **la réception** — a recepção
+- [ ] **la remise** — o desconto
+- [ ] **la réunion en ligne** — a reunião online
+- [ ] **la semaine dernière** — a semana passada
+- [ ] **la signature** — a assinatura
+- [ ] **la table libre** — a mesa livre
+- [ ] **la tortue** — a tartaruga
+- [ ] **la vache** — a vaca
+- [ ] **la visioconférence** — a videoconferência
+- [ ] **le bandage** — a bandagem
+- [ ] **le billet de cinéma** — o ingresso de cinema
+- [ ] **le bonnet** — o gorro
+- [ ] **le bulletin météo** — o boletim meteorológico
+- [ ] **le câble de chargement** — o cabo de carregamento
+- [ ] **le café serré** — o café forte
+- [ ] **le cauchemar** — o pesadelo
+- [ ] **le centilitre** — o centilitro
+- [ ] **le chauffeur de taxi** — o motorista de táxi
+- [ ] **le chèque** — o cheque
+- [ ] **le cintre** — o cabide
+- [ ] **le cockpit** — a cabine do piloto
+- [ ] **le coin non-fumeur** — a área de não fumantes
+- [ ] **le compte bancaire** — a conta bancária
+- [ ] **le corail** — o coral
+- [ ] **le coupe-ongles** — o cortador de unhas
+- [ ] **le crabe** — o caranguejo
+- [ ] **le débarras** — o quartinho de despejo
+- [ ] **le destinataire** — o destinatário
+- [ ] **le distributeur automatique** — a máquina automática
+- [ ] **le fast-food** — o fast-food
+- [ ] **le feu vert** — o semáforo verde
+- [ ] **le film alimentaire** — o filme plástico
+- [ ] **le film d’animation** — o filme de animação
+- [ ] **le forfait** — o plano (celular)
+- [ ] **le gel douche** — o gel de banho
+- [ ] **le groupe de discussion** — o grupo de discussão
+- [ ] **le guide touristique** — o guia turístico
+- [ ] **le hobby** — o hobby
+- [ ] **le jet d'eau** — o jato d'água
+- [ ] **le kir** — o kir (coquetel)
+- [ ] **le liquide vaisselle** — o detergente de louça
+- [ ] **le litre** — o litro
+- [ ] **le logement** — a moradia / o imóvel
+- [ ] **le loup** — o lobo
+- [ ] **le mal de dos** — a dor nas costas
+- [ ] **le malheur** — a infelicidade
+- [ ] **le mascara** — o rímel
 - [ ] **le message privé** — a mensagem privada
 - [ ] **le mois dernier** — o mês passado
 - [ ] **le mouchoir** — o lenço
