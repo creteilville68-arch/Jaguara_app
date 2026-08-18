@@ -7,12 +7,12 @@
   "titlePt": "À noite, quando os visitantes partem",
   "subtitleFr": "La Grande Rue se vide, le Mont retrouve son silence",
   "subtitlePt": "A Grande Rue se esvazia, o Mont reencontra seu silêncio",
-  "summaryPt": "Nesta Aula 31 (A2/B1), a família fica no Mont até a noite e vê a transformação: os visitantes partem, as lojas fecham e o Mont reencontra sua calma. Irlan compara com suas noites de livreur. O aluno pratica o contraste de atmosfera (la rue était pleine / la rue était vide) e o imparfait de descrição.",
+  "summaryPt": "Nesta Aula 31 (A2/B1), o casal fica no Mont até a noite e vê a transformação: os visitantes partem, as lojas fecham e o Mont reencontra sua calma. Irlan compara com suas noites de livreur. O aluno pratica o contraste de atmosfera (la rue était pleine / la rue était vide) e o imparfait de descrição.",
   "paragraphs": [
     {
       "id": 1,
-      "fr": "Le soir, les derniers visiteurs ont pris la navette. La Grande Rue s'est vidée peu à peu. « Écoute, c'est silencieux », a chuchoté Íris.",
-      "pt": "À noite, os últimos visitantes pegaram a van. A Grande Rue se esvaziou aos poucos. « Escuta, está silencioso », sussurrou Íris."
+      "fr": "Le soir, les derniers visiteurs ont pris la navette. La Grande Rue s'est vidée peu à peu. « Écoute, c'est silencieux », a chuchoté Andréa.",
+      "pt": "À noite, os últimos visitantes pegaram a van. A Grande Rue se esvaziou aos poucos. « Escuta, está silencioso », sussurrou Andréa."
     },
     {
       "id": 2,
@@ -21,13 +21,53 @@
     },
     {
       "id": 3,
-      "fr": "La famille a marché jusqu'aux remparts. La mer brillait sous la lune. « Quand je livrais à Paris, la nuit était bruyante. Ici, la nuit est douce », a murmuré Irlan.",
-      "pt": "A família caminhou até as muralhas. O mar brilhava sob a lua. « Quando eu entregava em Paris, a noite era barulhenta. Aqui, a noite é doce », murmurou Irlan."
+      "fr": "Le couple a marché jusqu'aux remparts. La mer brillait sous la lune. « Quand je livrais à Paris, la nuit était bruyante. Ici, la nuit est douce », a murmuré Irlan.",
+      "pt": "O casal caminhou até as muralhas. O mar brilhava sob a lua. « Quando eu entregava em Paris, a noite era barulhenta. Aqui, a noite é doce », murmurou Irlan."
     },
     {
       "id": 4,
-      "fr": "« C'est le plus beau moment du Mont », a dit Andréa. « Quand la foule part, le rocher redevient lui-même. » La famille est restée longtemps en silence.",
-      "pt": "« É o momento mais bonito do Mont », disse Andréa. « Quando a multidão parte, o rochedo volta a ser ele mesmo. » A família ficou muito tempo em silêncio."
+      "fr": "« C'est le plus beau moment du Mont », a dit Andréa. « Quand la foule part, le rocher redevient lui-même. » Le couple est resté longtemps en silence.",
+      "pt": "« É o momento mais bonito do Mont », disse Andréa. « Quando a multidão parte, o rochedo volta a ser ele mesmo. » O casal ficou muito tempo em silêncio."
+    },
+    {
+      "id": 5,
+      "fr": "« Le Mont redevient ce qu'il a toujours été : une île dans la nuit », a murmuré Irlan.",
+      "pt": "« O Mont volta a ser o que sempre foi: uma ilha na noite », murmurou Irlan."
+    },
+    {
+      "id": 6,
+      "fr": "« Rester après la foule, c'est voir le vrai visage des lieux », a ajouté Andréa. « Les pierres respirent. »",
+      "pt": "« Ficar depois da multidão é ver o verdadeiro rosto dos lugares », acrescentou Andréa. « As pedras respiram. »"
+    },
+    {
+      "id": 7,
+      "fr": "« La lune éclaire la baie comme un chemin », a dit Irlan. « On dirait une invitation. »",
+      "pt": "« A lua ilumina a baía como um caminho », disse Irlan. « Parece um convite. »"
+    },
+    {
+      "id": 8,
+      "fr": "« À nous de la lire », a répondu Andréa. « Le gué doit apparaître quelque part sous cette lumière. »",
+      "pt": "« Cabe a nós lê-la », respondeu Andréa. « O vau deve aparecer em algum lugar sob essa luz. »"
+    },
+    {
+      "id": 9,
+      "fr": "Irlan a sorti l'Atlas. « La planche dit que la lune et la marée basse se rencontrent une fois par an. Cette nuit est la bonne. »",
+      "pt": "Irlan tirou o Atlas. « A prancha diz que a lua e a maré baixa se encontram uma vez por ano. Esta noite é a certa. »"
+    },
+    {
+      "id": 10,
+      "fr": "« Et l'homme au manteau gris ? » a demandé Andréa. « Il est encore sur la digue. Il attend la même lune. »",
+      "pt": "« E o homem de sobretudo cinza? » perguntou Andréa. « Ele ainda está no dique. Espera a mesma lua. »"
+    },
+    {
+      "id": 11,
+      "fr": "« Alors il traversera à l'aube », a dit Irlan. « Nous partirons après lui, guidés par les pierres. »",
+      "pt": "« Então ele atravessará ao amanhecer », disse Irlan. « Partiremos depois dele, guiados pelas pedras. »"
+    },
+    {
+      "id": 12,
+      "fr": "« La nuit est à nous, et demain, la baie le sera aussi », a souri Andréa. Ils sont restés à chuchoter sous les étoiles.",
+      "pt": "« A noite é nossa, e amanhã, a baía também será », sorriu Andréa. Eles ficaram sussurrando sob as estrelas."
     }
   ],
   "vocabularyDictionary": [
@@ -130,7 +170,7 @@
       "ptTargets": ["sussurrar"],
       "examples": [
         { "level": "A1", "fr": "Je chuchote à l'école.", "pt": "Sussurro na escola." },
-        { "level": "A2-B1", "fr": "Íris a chuchoté dans le silence.", "pt": "Íris sussurrou no silêncio." },
+        { "level": "A2-B1", "fr": "Andréa a chuchoté dans le silence.", "pt": "Andréa sussurrou no silêncio." },
         { "level": "B2", "fr": "On chuchotait pour ne pas réveiller le Mont.", "pt": "Sussurrava-se para não acordar o Mont." },
         { "level": "C1-C2", "fr": "Chuchoter dans ce lieu, c'est respecter mille ans de silence.", "pt": "Sussurrar neste lugar é respeitar mil anos de silêncio." }
       ]
@@ -169,7 +209,7 @@
       "ptTargets": ["ficar", "permanecer"],
       "examples": [
         { "level": "A1", "fr": "Je reste ici.", "pt": "Fico aqui." },
-        { "level": "A2-B1", "fr": "La famille est restée longtemps en silence.", "pt": "A família ficou muito tempo em silêncio." },
+        { "level": "A2-B1", "fr": "Le couple est resté longtemps en silence.", "pt": "O casal ficou muito tempo em silêncio." },
         { "level": "B2", "fr": "Ils sont restés jusqu'à la dernière navette.", "pt": "Eles ficaram até a última van." },
         { "level": "C1-C2", "fr": "Rester après la foule, c'est voir le vrai visage des lieux.", "pt": "Ficar depois da multidão é ver o verdadeiro rosto dos lugares." }
       ]

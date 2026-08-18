@@ -7,7 +7,7 @@
   "titlePt": "O inverno no Mont: o rochedo sob a tempestade",
   "subtitleFr": "Quand le vent hurle, le Mont devient une forteresse sombre",
   "subtitlePt": "Quando o vento uiva, o Mont vira uma fortaleza sombria",
-  "summaryPt": "Nesta Aula 30 (A2/B1), a família vive um dia de tempestade no Mont: o vento uiva, as ondas batem nas muralhas e os visitantes se abrigam. Irlan se lembra das entregas de scooter sob a chuva. O aluno pratica a atmosfera no imparfait (le vent hurlait, les vagues frappaient) e o contraste com o passé composé.",
+  "summaryPt": "Nesta Aula 30 (A2/B1), o casal vive um dia de tempestade no Mont: o vento uiva, as ondas batem nas muralhas e os visitantes se abrigam. Irlan se lembra das entregas de scooter sob a chuva. O aluno pratica a atmosfera no imparfait (le vent hurlait, les vagues frappaient) e o contraste com o passé composé.",
   "paragraphs": [
     {
       "id": 1,
@@ -16,18 +16,58 @@
     },
     {
       "id": 2,
-      "fr": "La famille a attendu dans un café de la Grande Rue. « Quand j'étais livreur, je travaillais même sous la pluie », a dit Irlan. « Ma scooter glissait sur les pavés. »",
-      "pt": "A família esperou num café da Grande Rue. « Quando era entregador, trabalhava até sob a chuva », disse Irlan. « Minha scooter derrapava nos paralelepípedos. »"
+      "fr": "Le couple a attendu dans un café de la Grande Rue. « Quand j'étais livreur, je travaillais même sous la pluie », a dit Irlan. « Ma scooter glissait sur les pavés. »",
+      "pt": "O casal esperou num café da Grande Rue. « Quando era entregador, trabalhava até sob a chuva », disse Irlan. « Minha scooter derrapava nos paralelepípedos. »"
     },
     {
       "id": 3,
-      "fr": "« Soudain, une rafale a ouvert la porte du café », a raconté Íris. « Tout le monde a crié ! Puis le calme est revenu. »",
-      "pt": "« De repente, uma rajada abriu a porta do café », contou Íris. « Todo mundo gritou! Depois a calma voltou. »"
+      "fr": "« Soudain, une rafale a ouvert la porte du café », a raconté Andréa. « Tout le monde a crié ! Puis le calme est revenu. »",
+      "pt": "« De repente, uma rajada abriu a porta do café », contou Andréa. « Todo mundo gritou! Depois a calma voltou. »"
     },
     {
       "id": 4,
       "fr": "L'après-midi, le soleil est revenu. La baie brillait à nouveau. « Après la tempête, le Mont est encore plus beau », a souri Irlan. « Comme après les difficultés, la vie est plus douce. »",
       "pt": "À tarde, o sol voltou. A baía brilhava novamente. « Depois da tempestade, o Mont fica ainda mais bonito », sorriu Irlan. « Como depois das dificuldades, a vida fica mais doce. »"
+    },
+    {
+      "id": 5,
+      "fr": "« Les vagues frappaient les murs depuis mille ans », a dit Andréa. « Et le Mont n'a jamais cédé. »",
+      "pt": "« As ondas batiam nos muros há mil anos », disse Andréa. « E o Mont nunca cedeu. »"
+    },
+    {
+      "id": 6,
+      "fr": "« L'abri, c'est la leçon du rocher », a ajouté Irlan. « Savoir attendre, savoir se protéger. »",
+      "pt": "« O abrigo é a lição do rochedo », acrescentou Irlan. « Saber esperar, saber se proteger. »"
+    },
+    {
+      "id": 7,
+      "fr": "« Même la difficulté a son utilité », a murmuré Andréa. « Elle rend le calme plus doux. »",
+      "pt": "« Até a dificuldade tem sua utilidade », murmurou Andréa. « Ela torna a calma mais doce. »"
+    },
+    {
+      "id": 8,
+      "fr": "« Le pavé mouillé brillait après la pluie », a dit Irlan. « La ville respirait. »",
+      "pt": "« O paralelepípedo molhado brilhava depois da chuva », disse Irlan. « A cidade respirava. »"
+    },
+    {
+      "id": 9,
+      "fr": "Irlan a regardé dehors. « L'homme au manteau gris est resté dehors pendant toute la tempête. Il ne s'est jamais abrité. »",
+      "pt": "Irlan olhou para fora. « O homem de sobretudo cinza ficou do lado de fora durante toda a tempestade. Nunca se abrigou. »"
+    },
+    {
+      "id": 10,
+      "fr": "« Il attend la mer », a dit Andréa. « Il compte les rafales et les marées. »",
+      "pt": "« Ele espera o mar », disse Andréa. « Ele conta as rajadas e as marés. »"
+    },
+    {
+      "id": 11,
+      "fr": "« Il est plus patient que nous », a murmuré Irlan. « Mais la patience ne remplace pas la connaissance. »",
+      "pt": "« Ele é mais paciente que nós », murmurou Irlan. « Mas a paciência não substitui o conhecimento. »"
+    },
+    {
+      "id": 12,
+      "fr": "« Demain, la baie sera calme », a dit Andréa. « Et nous serons prêts. » Le soleil est revenu sur les remparts.",
+      "pt": "« Amanhã, a baía estará calma », disse Andréa. « E estaremos prontos. » O sol voltou às muralhas."
     }
   ],
   "vocabularyDictionary": [
@@ -91,7 +131,7 @@
       "ptTargets": ["abrigado"],
       "examples": [
         { "level": "A1", "fr": "Nous sommes à l'abri.", "pt": "Estamos abrigados." },
-        { "level": "A2-B1", "fr": "La famille est restée à l'abri dans le café.", "pt": "A família ficou abrigada no café." },
+        { "level": "A2-B1", "fr": "Le couple est resté à l'abri dans le café.", "pt": "O casal ficou abrigado no café." },
         { "level": "B2", "fr": "Le Mont servait d'abri aux voyageurs surpris par la tempête.", "pt": "O Mont servia de abrigo aos viajantes surpreendidos pela tempestade." },
         { "level": "C1-C2", "fr": "À l'abri des murs épais, on entendait la mer rugir dehors.", "pt": "Abrigados atrás das paredes espessas, ouvia-se o mar rugir lá fora." }
       ]
@@ -231,10 +271,10 @@
       "explanation": "Atmosfera contínua no passado = imparfait: 'hurlait'."
     },
     {
-      "question": "Onde a família esperou a tempestade passar?",
+      "question": "Onde o casal esperou a tempestade passar?",
       "options": ["Num café da Grande Rue", "No alto da abadia", "Na praia"],
       "correctIndex": 0,
-      "explanation": "A família se abrigou num café da Grande Rue durante a tempestade."
+      "explanation": "O casal se abrigou num café da Grande Rue durante a tempestade."
     },
     {
       "question": "O que Irlan lembrou durante a tempestade?",
