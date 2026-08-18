@@ -1,268 +1,292 @@
 {
   "id": "paris_lesson_9",
   "cityId": "paris",
-  "domain": "Cotidiano & Compras",
+  "domain": "Cotidiano & Relações",
   "level": "Iniciante (A1)",
-  "titleFr": "Une promenade dans le Marais",
-  "titlePt": "Um passeio pelo Marais",
-  "subtitleFr": "La rue des Rosiers, le falafel et la petite boutique de robes",
-  "subtitlePt": "A rue des Rosiers, o falafel e a pequena loja de vestidos",
-  "summaryPt": "Nesta Aula 9 (A1), a família passeia pelo Marais, o bairro histórico de Paris. Eles comem um falafel na rue des Rosiers e Andréa prova um vestido numa pequena boutique. Irlan conta as suas antigas entregas de scooter nas ruas estreitas do bairro. O aluno aprende a concordância dos adjetivos e o verbo 'essayer' no presente.",
+  "titleFr": "Le rendez-vous au Louvre",
+  "titlePt": "O encontro no Louvre",
+  "subtitleFr": "La pyramide, la Joconde et le premier samedi ensemble",
+  "subtitlePt": "A pirâmide, a Mona Lisa e o primeiro sábado juntos",
+  "summaryPt": "Nesta Aula 9 (A1), Irlan e Andréa têm o primeiro encontro: um sábado no Louvre. Ele chega adiantado, ela chega a pé, e juntos olham quadros, estátuas e a Joconde. Irlan, o geógrafo, mostra a Andréa que o museu é como um mapa. O aluno aprende as preposições de lugar (devant, à côté de, au centre de) e vocabulário do dia a dia: encontro, bolsa, foto, chá e refrigerante.",
   "paragraphs": [
     {
       "id": 1,
-      "fr": "L'après-midi, la famille se promène dans le Marais. Les rues sont étroites et les maisons sont anciennes. C'est le quartier préféré d'Andréa.",
-      "pt": "À tarde, a família passeia pelo Marais. As ruas são estreitas e as casas são antigas. É o bairro preferido da Andréa."
+      "fr": "C'est samedi. Irlan se lève tôt. Il a rendez-vous avec Andréa à dix heures devant la pyramide du Louvre.",
+      "pt": "É sábado. Irlan acorda cedo. Ele tem um encontro com Andréa às dez horas em frente à pirâmide do Louvre."
     },
     {
       "id": 2,
-      "fr": "Rue des Rosiers, ils mangent un falafel. C'est une spécialité du quartier. Íris aime beaucoup le falafel.",
-      "pt": "Na rue des Rosiers, eles comem um falafel. É uma especialidade do bairro. Íris gosta muito de falafel."
+      "fr": "Il arrive en avance. Il porte sa chemise préférée et il attend près de la pyramide. Il regarde son téléphone : neuf heures et demie.",
+      "pt": "Ele chega adiantado. Ele veste a camisa preferida e espera perto da pirâmide. Ele olha o celular: nove e meia."
     },
     {
       "id": 3,
-      "fr": "Ensuite, Andréa essaie une robe dans une petite boutique. La vendeuse est gentille. « Elle est très jolie ! » dit Íris.",
-      "pt": "Depois, Andréa prova um vestido numa pequena loja. A vendedora é gentil. «Ele é muito bonito!» diz Íris."
+      "fr": "Andréa arrive à pied. Elle porte une robe bleue et un sac à main. Elle sourit. « Bonjour Irlan ! Tu es déjà là ? »",
+      "pt": "Andréa chega a pé. Ela veste um vestido azul e carrega uma bolsa de mão. Ela sorri. «Bom dia, Irlan! Você já está aqui?»"
     },
     {
       "id": 4,
-      "fr": "Le soir, ils rentrent à pied. Irlan raconte ses livraisons dans le Marais : les rues étroites, les escaliers et les clients pressés. « C'était difficile, mais j'aime ce quartier », dit-il.",
-      "pt": "À noite, eles voltam a pé. Irlan conta as suas entregas no Marais: as ruas estreitas, as escadas e os clientes apressados. «Era difícil, mas eu gosto deste bairro», diz ele."
+      "fr": "Ils entrent dans le musée. C'est immense. Irlan regarde le plan. « Nous sommes ici, devant la pyramide. »",
+      "pt": "Eles entram no museu. É imenso. Irlan olha o mapa. «Nós estamos aqui, em frente à pirâmide.»"
+    },
+    {
+      "id": 5,
+      "fr": "Il y a beaucoup de monde devant la Joconde. Andréa veut la voir. Irlan dit : « La Joconde est célèbre, mais petite. »",
+      "pt": "Há muita gente em frente à Mona Lisa. Andréa quer vê-la. Irlan diz: «A Mona Lisa é famosa, mas pequena.»"
+    },
+    {
+      "id": 6,
+      "fr": "Andréa rit : « Comme toi ! Tu es petit, mais tu connais tous les chemins. » Irlan rougit et sourit.",
+      "pt": "Andréa ri: «Como você! Você é pequeno, mas conhece todos os caminhos.» Irlan fica vermelho e sorri."
+    },
+    {
+      "id": 7,
+      "fr": "Ils regardent les tableaux et les statues. Devant un tableau, Andréa demande : « Qu'est-ce que tu vois, toi, le géographe ? »",
+      "pt": "Eles olham os quadros e as estátuas. Diante de um quadro, Andréa pergunta: «O que você vê, você, o geógrafo?»"
+    },
+    {
+      "id": 8,
+      "fr": "Irlan répond : « Je vois des montagnes, une rivière et une petite maison. C'est un paysage du sud de la France. »",
+      "pt": "Irlan responde: «Eu vejo montanhas, um rio e uma casinha. É uma paisagem do sul da França.»"
+    },
+    {
+      "id": 9,
+      "fr": "Ils montent l'escalier. La statue est à côté de l'escalier. Andréa partage une photo du musée avec sa famille.",
+      "pt": "Eles sobem a escada. A estátua está ao lado da escada. Andréa compartilha uma foto do museu com a família dela."
+    },
+    {
+      "id": 10,
+      "fr": "Après la visite, ils marchent à pied dans la cour. Andréa a soif. « On boit quelque chose ? » Irlan répond : « Oui ! »",
+      "pt": "Depois da visita, eles vão a pé pelo pátio. Andréa tem sede. «A gente bebe alguma coisa?» Irlan responde: «Sim!»"
+    },
+    {
+      "id": 11,
+      "fr": "Au café, Andréa commande un thé noir. Irlan commande un soda. Ils partagent une photo de la pyramide. « Elle est belle, comme toi », dit Irlan doucement.",
+      "pt": "No café, Andréa pede um chá preto. Irlan pede um refrigerante. Eles compartilham uma foto da pirâmide. «Ela é bonita, como você», diz Irlan baixinho."
+    },
+    {
+      "id": 12,
+      "fr": "Le soir, Irlan rentre à pied. Il pense à Andréa. Dans sa tête, il dessine le plan du Louvre — et le sourire d'Andréa au centre.",
+      "pt": "À noite, Irlan volta a pé. Ele pensa na Andréa. Na cabeça dele, ele desenha o mapa do Louvre — e o sorriso da Andréa no centro."
     }
   ],
   "vocabularyDictionary": [
     {
-      "term": "se promener",
-      "definitionPt": "passear",
-      "definitionFr": "Marcher pour le plaisir, sans but précis.",
-      "inflections": ["je me promène", "se promener", "il se promène"],
-      "ptTargets": ["passear"],
+      "term": "le rendez-vous",
+      "definitionPt": "o encontro (marcado)",
+      "definitionFr": "Rencontre prévue entre deux personnes à un moment et un lieu précis.",
+      "inflections": ["le rendez-vous", "un rendez-vous", "des rendez-vous"],
+      "ptTargets": ["encontro"],
       "examples": [
-        { "level": "A1", "fr": "La famille se promène dans le Marais.", "pt": "A família passeia pelo Marais." },
-        { "level": "A2-B1", "fr": "Nous nous promenons près de la Seine.", "pt": "Nós passeamos perto do Sena." },
-        { "level": "B2", "fr": "Elle se promène dans les rues étroites du quartier.", "pt": "Ela passeia pelas ruas estreitas do bairro." },
-        { "level": "C1-C2", "fr": "Se promener dans le Marais, c'est traverser l'histoire de Paris.", "pt": "Passear pelo Marais é atravessar a história de Paris." }
+        { "level": "A1", "fr": "J'ai un rendez-vous avec Andréa samedi.", "pt": "Eu tenho um encontro com a Andréa no sábado." },
+        { "level": "A2-B1", "fr": "Le rendez-vous est à dix heures devant le musée.", "pt": "O encontro é às dez horas em frente ao museu." },
+        { "level": "B2", "fr": "Elle est arrivée en retard au rendez-vous à cause du métro.", "pt": "Ela chegou atrasada ao encontro por causa do metrô." },
+        { "level": "C1-C2", "fr": "Le premier rendez-vous est une page que l'on relit toute sa vie.", "pt": "O primeiro encontro é uma página que se relê a vida inteira." }
       ]
     },
     {
-      "term": "rue",
-      "definitionPt": "rua",
-      "definitionFr": "Voie bordée de maisons dans une ville.",
-      "inflections": ["la rue", "une rue", "des rues"],
-      "ptTargets": ["rua"],
+      "term": "être en avance",
+      "definitionPt": "estar adiantado",
+      "definitionFr": "Arriver avant l'heure prévue.",
+      "inflections": ["être en avance", "je suis en avance", "il est en avance"],
+      "ptTargets": ["adiantado"],
       "examples": [
-        { "level": "A1", "fr": "Les rues sont étroites.", "pt": "As ruas são estreitas." },
-        { "level": "A2-B1", "fr": "La rue des Rosiers est très connue.", "pt": "A rue des Rosiers é muito conhecida." },
-        { "level": "B2", "fr": "Les rues du Marais sont pleines de boutiques.", "pt": "As ruas do Marais estão cheias de lojas." },
-        { "level": "C1-C2", "fr": "Chaque rue du Marais raconte une page de l'histoire parisienne.", "pt": "Cada rua do Marais conta uma página da história parisiense." }
+        { "level": "A1", "fr": "Irlan est en avance au rendez-vous.", "pt": "Irlan está adiantado para o encontro." },
+        { "level": "A2-B1", "fr": "J'aime être en avance quand je ne connais pas le chemin.", "pt": "Eu gosto de estar adiantado quando não conheço o caminho." },
+        { "level": "B2", "fr": "Être en avance laisse le temps d'observer la ville.", "pt": "Estar adiantado deixa tempo para observar a cidade." },
+        { "level": "C1-C2", "fr": "Être en avance, c'est offrir du temps à la rencontre avant qu'elle ne commence.", "pt": "Estar adiantado é oferecer tempo ao encontro antes que ele comece." }
       ]
     },
     {
-      "term": "étroit",
-      "definitionPt": "estreito",
-      "definitionFr": "Qui a peu de largeur.",
-      "inflections": ["étroit", "étroite", "étroits", "étroites"],
-      "ptTargets": ["estreito"],
+      "term": "la pyramide",
+      "definitionPt": "a pirâmide",
+      "definitionFr": "Construction de verre et de métal à l'entrée du musée du Louvre.",
+      "inflections": ["la pyramide", "une pyramide", "des pyramides"],
+      "ptTargets": ["pirâmide"],
       "examples": [
-        { "level": "A1", "fr": "La rue est étroite.", "pt": "A rua é estreita." },
-        { "level": "A2-B1", "fr": "Les escaliers sont étroits dans ce quartier.", "pt": "As escadas são estreitas neste bairro." },
-        { "level": "B2", "fr": "Une rue étroite et ancienne mène à la place.", "pt": "Uma rua estreita e antiga leva à praça." },
-        { "level": "C1-C2", "fr": "Les ruelles étroites du Marais conservent un charme médiéval.", "pt": "As vielas estreitas do Marais conservam um charme medieval." }
+        { "level": "A1", "fr": "La pyramide du Louvre est en verre.", "pt": "A pirâmide do Louvre é de vidro." },
+        { "level": "A2-B1", "fr": "On se retrouve devant la pyramide.", "pt": "A gente se encontra em frente à pirâmide." },
+        { "level": "B2", "fr": "La pyramide de verre reflète le ciel de Paris.", "pt": "A pirâmide de vidro reflete o céu de Paris." },
+        { "level": "C1-C2", "fr": "La pyramide du Louvre marie l'ancien et le moderne.", "pt": "A pirâmide do Louvre une o antigo e o moderno." }
       ]
     },
     {
-      "term": "ancien",
-      "definitionPt": "antigo, velho",
-      "definitionFr": "Qui existe depuis très longtemps.",
-      "inflections": ["ancien", "ancienne", "anciens", "anciennes"],
-      "ptTargets": ["antigo", "velho"],
+      "term": "le tableau",
+      "definitionPt": "o quadro, a pintura",
+      "definitionFr": "Peinture sur toile accrochée au mur d'un musée.",
+      "inflections": ["le tableau", "un tableau", "des tableaux"],
+      "ptTargets": ["quadro", "pintura"],
       "examples": [
-        { "level": "A1", "fr": "Les maisons sont anciennes.", "pt": "As casas são antigas." },
-        { "level": "A2-B1", "fr": "Ce quartier a des bâtiments anciens.", "pt": "Este bairro tem prédios antigos." },
-        { "level": "B2", "fr": "Les anciennes maisons du Marais sont magnifiques.", "pt": "As antigas casas do Marais são magníficas." },
-        { "level": "C1-C2", "fr": "Le patrimoine ancien du Marais est soigneusement préservé.", "pt": "O patrimônio antigo do Marais é cuidadosamente preservado." }
+        { "level": "A1", "fr": "Ce tableau est très grand.", "pt": "Este quadro é muito grande." },
+        { "level": "A2-B1", "fr": "Andréa aime les tableaux du dix-huitième siècle.", "pt": "Andréa gosta dos quadros do século dezoito." },
+        { "level": "B2", "fr": "Le tableau représente un paysage de Provence.", "pt": "O quadro representa uma paisagem da Provença." },
+        { "level": "C1-C2", "fr": "Un tableau raconte parfois plus qu'un long discours.", "pt": "Um quadro às vezes conta mais que um longo discurso." }
       ]
     },
     {
-      "term": "spécialité",
-      "definitionPt": "especialidade",
-      "definitionFr": "Plat ou produit typique d'un lieu.",
-      "inflections": ["la spécialité", "une spécialité", "des spécialités"],
-      "ptTargets": ["especialidade"],
+      "term": "la statue",
+      "definitionPt": "a estátua",
+      "definitionFr": "Sculpture représentant une personne ou un animal.",
+      "inflections": ["la statue", "une statue", "des statues"],
+      "ptTargets": ["estátua"],
       "examples": [
-        { "level": "A1", "fr": "Le falafel est une spécialité du quartier.", "pt": "O falafel é uma especialidade do bairro." },
-        { "level": "A2-B1", "fr": "La crêpe est une spécialité bretonne.", "pt": "A crêpe é uma especialidade bretã." },
-        { "level": "B2", "fr": "Chaque région de France a ses spécialités.", "pt": "Cada região da França tem as suas especialidades." },
-        { "level": "C1-C2", "fr": "Les spécialités culinaires locales reflètent l'identité d'un territoire.", "pt": "As especialidades culinárias locais refletem a identidade de um território." }
+        { "level": "A1", "fr": "Il y a une statue dans la salle.", "pt": "Há uma estátua na sala." },
+        { "level": "A2-B1", "fr": "La statue est à côté de l'escalier.", "pt": "A estátua está ao lado da escada." },
+        { "level": "B2", "fr": "Cette statue en marbre date de l'Antiquité.", "pt": "Esta estátua de mármore data da Antiguidade." },
+        { "level": "C1-C2", "fr": "La statue figée semble respirer sous la lumière du musée.", "pt": "A estátua imóvel parece respirar sob a luz do museu." }
       ]
     },
     {
-      "term": "boutique",
-      "definitionPt": "loja, butique",
-      "definitionFr": "Petit magasin.",
-      "inflections": ["la boutique", "une boutique", "des boutiques"],
-      "ptTargets": ["loja", "butique"],
+      "term": "la Joconde",
+      "definitionPt": "a Mona Lisa",
+      "definitionFr": "Le célèbre portrait peint par Léonard de Vinci.",
+      "inflections": ["la Joconde"],
+      "ptTargets": ["Mona Lisa"],
       "examples": [
-        { "level": "A1", "fr": "Andréa essaie une robe dans une boutique.", "pt": "Andréa prova um vestido numa loja." },
-        { "level": "A2-B1", "fr": "La boutique est petite mais jolie.", "pt": "A loja é pequena, mas bonita." },
-        { "level": "B2", "fr": "Ce quartier est plein de boutiques de mode.", "pt": "Este bairro está cheio de lojas de moda." },
-        { "level": "C1-C2", "fr": "Les boutiques du Marais allient tradition et création contemporaine.", "pt": "As lojas do Marais aliam tradição e criação contemporânea." }
+        { "level": "A1", "fr": "La Joconde est célèbre.", "pt": "A Mona Lisa é famosa." },
+        { "level": "A2-B1", "fr": "Il y a beaucoup de monde devant la Joconde.", "pt": "Há muita gente em frente à Mona Lisa." },
+        { "level": "B2", "fr": "La Joconde sourit à tous les visiteurs depuis des siècles.", "pt": "A Mona Lisa sorri para todos os visitantes há séculos." },
+        { "level": "C1-C2", "fr": "Le regard de la Joconde semble suivre chaque visiteur.", "pt": "O olhar da Mona Lisa parece seguir cada visitante." }
       ]
     },
     {
-      "term": "robe",
-      "definitionPt": "vestido",
-      "definitionFr": "Vêtement féminin qui couvre le corps.",
-      "inflections": ["la robe", "une robe", "des robes"],
-      "ptTargets": ["vestido"],
+      "term": "le sac à main",
+      "definitionPt": "a bolsa de mão",
+      "definitionFr": "Petit sac que l'on porte à la main ou à l'épaule.",
+      "inflections": ["le sac à main", "un sac à main", "des sacs à main"],
+      "ptTargets": ["bolsa"],
       "examples": [
-        { "level": "A1", "fr": "Andréa essaie une robe.", "pt": "Andréa prova um vestido." },
-        { "level": "A2-B1", "fr": "La robe est très jolie.", "pt": "O vestido é muito bonito." },
-        { "level": "B2", "fr": "Elle achète une robe pour l'été.", "pt": "Ela compra um vestido para o verão." },
-        { "level": "C1-C2", "fr": "La robe élégante reflète le goût raffiné de celle qui la porte.", "pt": "O vestido elegante reflete o gosto refinado de quem o veste." }
+        { "level": "A1", "fr": "Andréa ouvre son sac à main.", "pt": "Andréa abre a bolsa dela." },
+        { "level": "A2-B1", "fr": "Elle met son téléphone dans son sac à main.", "pt": "Ela coloca o celular na bolsa." },
+        { "level": "B2", "fr": "Le sac à main d'Andréa est petit mais plein de souvenirs.", "pt": "A bolsa da Andréa é pequena, mas cheia de lembranças." },
+        { "level": "C1-C2", "fr": "Un sac à main trop lourd gâche la promenade.", "pt": "Uma bolsa pesada demais estraga o passeio." }
       ]
     },
     {
-      "term": "vendeuse",
-      "definitionPt": "vendedora",
-      "definitionFr": "Femme qui vend dans un magasin.",
-      "inflections": ["la vendeuse", "une vendeuse", "des vendeuses"],
-      "ptTargets": ["vendedora"],
+      "term": "partager une photo",
+      "definitionPt": "compartilhar uma foto",
+      "definitionFr": "Envoyer une photo à quelqu'un ou la publier.",
+      "inflections": ["partager une photo", "je partage une photo", "il partage une photo"],
+      "ptTargets": ["compartilhar", "foto"],
       "examples": [
-        { "level": "A1", "fr": "La vendeuse est gentille.", "pt": "A vendedora é gentil." },
-        { "level": "A2-B1", "fr": "La vendeuse aide les clients.", "pt": "A vendedora ajuda os clientes." },
-        { "level": "B2", "fr": "La vendeuse recommande les nouvelles robes.", "pt": "A vendedora recomenda os novos vestidos." },
-        { "level": "C1-C2", "fr": "Une vendeuse attentive transforme l'expérience d'achat.", "pt": "Uma vendedora atenciosa transforma a experiência de compra." }
+        { "level": "A1", "fr": "Ils partagent une photo du Louvre.", "pt": "Eles compartilham uma foto do Louvre." },
+        { "level": "A2-B1", "fr": "Andréa partage une photo avec sa famille.", "pt": "Andréa compartilha uma foto com a família dela." },
+        { "level": "B2", "fr": "Il partage une photo de la pyramide sur son téléphone.", "pt": "Ele compartilha uma foto da pirâmide no celular." },
+        { "level": "C1-C2", "fr": "Partager une photo, c'est offrir un souvenir à distance.", "pt": "Compartilhar uma foto é oferecer uma lembrança à distância." }
       ]
     },
     {
-      "term": "joli",
-      "definitionPt": "bonito, lindo",
-      "definitionFr": "Qui est agréable à regarder.",
-      "inflections": ["joli", "jolie", "jolis", "jolies"],
-      "ptTargets": ["bonito", "lindo"],
+      "term": "marcher à pied",
+      "definitionPt": "ir a pé",
+      "definitionFr": "Se déplacer en marchant, sans véhicule.",
+      "inflections": ["marcher à pied", "je marche à pied", "ils marchent à pied"],
+      "ptTargets": ["a pé", "andar"],
       "examples": [
-        { "level": "A1", "fr": "La robe est très jolie.", "pt": "O vestido é muito bonito." },
-        { "level": "A2-B1", "fr": "C'est un joli quartier.", "pt": "É um bairro bonito." },
-        { "level": "B2", "fr": "Les jolies boutiques attirent les passants.", "pt": "As lojas bonitas atraem os transeuntes." },
-        { "level": "C1-C2", "fr": "La ville dévoile ses plus jolis coins au fil de la promenade.", "pt": "A cidade revela os seus cantos mais bonitos ao longo do passeio." }
+        { "level": "A1", "fr": "Ils marchent à pied jusqu'au musée.", "pt": "Eles vão a pé até o museu." },
+        { "level": "A2-B1", "fr": "Nous marchons à pied le long de la Seine.", "pt": "Nós vamos a pé ao longo do Sena." },
+        { "level": "B2", "fr": "Marcher à pied permet de découvrir les petites rues.", "pt": "Ir a pé permite descobrir as ruelas." },
+        { "level": "C1-C2", "fr": "Marcher à pied dans Paris, c'est lire la ville pas à pas.", "pt": "Andar a pé em Paris é ler a cidade passo a passo." }
       ]
     },
     {
-      "term": "essayer",
-      "definitionPt": "provar, experimentar",
-      "definitionFr": "Mettre un vêtement pour voir s'il va bien.",
-      "inflections": ["j'essaie", "essayer", "il essaie"],
-      "ptTargets": ["provar", "experimentar"],
+      "term": "le thé noir",
+      "definitionPt": "o chá preto",
+      "definitionFr": "Boisson chaude préparée avec des feuilles de thé fermentées.",
+      "inflections": ["le thé noir", "un thé noir", "des thés noirs"],
+      "ptTargets": ["chá preto"],
       "examples": [
-        { "level": "A1", "fr": "Andréa essaie une robe.", "pt": "Andréa prova um vestido." },
-        { "level": "A2-B1", "fr": "Je veux essayer ce pantalon.", "pt": "Eu quero provar esta calça." },
-        { "level": "B2", "fr": "Elle essaie plusieurs vêtements avant de choisir.", "pt": "Ela prova várias roupas antes de escolher." },
-        { "level": "C1-C2", "fr": "Essayer un vêtement permet de vérifier sa coupe et son confort.", "pt": "Provar uma roupa permite verificar o corte e o conforto." }
+        { "level": "A1", "fr": "Andréa commande un thé noir.", "pt": "Andréa pede um chá preto." },
+        { "level": "A2-B1", "fr": "Le thé noir est servi avec du sucre.", "pt": "O chá preto é servido com açúcar." },
+        { "level": "B2", "fr": "Il boit son thé noir en regardant la pyramide.", "pt": "Ele bebe o chá preto olhando a pirâmide." },
+        { "level": "C1-C2", "fr": "Un thé noir bien infusé réconforte après une longue marche.", "pt": "Um chá preto bem infuso reconforta depois de uma longa caminhada." }
       ]
     },
     {
-      "term": "raconter",
-      "definitionPt": "contar, narrar",
-      "definitionFr": "Dire une histoire ou des événements.",
-      "inflections": ["je raconte", "raconter", "il raconte"],
-      "ptTargets": ["contar", "narrar"],
+      "term": "le soda",
+      "definitionPt": "o refrigerante",
+      "definitionFr": "Boisson gazeuse et sucrée.",
+      "inflections": ["le soda", "un soda", "des sodas"],
+      "ptTargets": ["refrigerante"],
       "examples": [
-        { "level": "A1", "fr": "Irlan raconte ses livraisons.", "pt": "Irlan conta as suas entregas." },
-        { "level": "A2-B1", "fr": "Elle raconte son voyage à la maison.", "pt": "Ela conta a sua viagem em casa." },
-        { "level": "B2", "fr": "Il raconte une histoire à sa fille.", "pt": "Ele conta uma história à sua filha." },
-        { "level": "C1-C2", "fr": "Raconter ses souvenirs, c'est partager son histoire avec les autres.", "pt": "Contar as suas memórias é partilhar a sua história com os outros." }
+        { "level": "A1", "fr": "Irlan commande un soda.", "pt": "Irlan pede um refrigerante." },
+        { "level": "A2-B1", "fr": "Le soda est trop sucré pour moi.", "pt": "O refrigerante é doce demais para mim." },
+        { "level": "B2", "fr": "Elle préfère l'eau au soda.", "pt": "Ela prefere água ao refrigerante." },
+        { "level": "C1-C2", "fr": "Boire un soda glacé en été est un petit plaisir simple.", "pt": "Beber um refrigerante gelado no verão é um pequeno prazer simples." }
       ]
     },
     {
-      "term": "client",
-      "definitionPt": "cliente",
-      "definitionFr": "Personne qui achète dans un magasin ou un service.",
-      "inflections": ["le client", "un client", "des clients"],
-      "ptTargets": ["cliente"],
+      "term": "l'escalier",
+      "definitionPt": "a escada",
+      "definitionFr": "Suite de marches qui permet de monter ou de descendre.",
+      "inflections": ["l'escalier", "un escalier", "des escaliers"],
+      "ptTargets": ["escada"],
       "examples": [
-        { "level": "A1", "fr": "Les clients sont pressés.", "pt": "Os clientes estão apressados." },
-        { "level": "A2-B1", "fr": "Le client attend son commande.", "pt": "O cliente espera o seu pedido." },
-        { "level": "B2", "fr": "La vendeuse accueille les clients avec le sourire.", "pt": "A vendedora recebe os clientes com um sorriso." },
-        { "level": "C1-C2", "fr": "La satisfaction du client est au cœur du commerce.", "pt": "A satisfação do cliente está no centro do comércio." }
+        { "level": "A1", "fr": "L'escalier est large.", "pt": "A escada é larga." },
+        { "level": "A2-B1", "fr": "Nous montons l'escalier pour voir les tableaux.", "pt": "Nós subimos a escada para ver os quadros." },
+        { "level": "B2", "fr": "L'escalier mène aux salles des antiquités.", "pt": "A escada leva às salas das antiguidades." },
+        { "level": "C1-C2", "fr": "Chaque marche de l'escalier du Louvre a porté des siècles de visiteurs.", "pt": "Cada degrau da escada do Louvre carregou séculos de visitantes." }
       ]
     }
   ],
   "grammarTip": {
-    "ruleTitle": "L'accord des adjectifs",
-    "explanationPt": "Os adjetivos concordam em gênero e número com o substantivo: 'étroit' (masc.) → 'étroite' (fem.), 'ancien' → 'ancienne', 'joli' → 'jolie'. Ex.: 'Les rues sont étroites et les maisons sont anciennes.'",
-    "exampleFr": "Les rues sont étroites et les maisons sont anciennes.",
-    "examplePt": "As ruas são estreitas e as casas são antigas.",
-    "practiceQuestion": "Complete com o adjetivo correto: 'La boutique est petite mais _____.'",
-    "options": ["jolie", "joli", "jolies"],
+    "ruleTitle": "Les prépositions de lieu",
+    "explanationPt": "Para dizer onde algo está em francês, usamos preposições de lugar: 'devant' (em frente de), 'à côté de' (ao lado de), 'près de' (perto de) e 'au centre de' (no centro de). Ex.: 'La statue est à côté de l'escalier.'",
+    "exampleFr": "La statue est à côté de l'escalier.",
+    "examplePt": "A estátua está ao lado da escada.",
+    "practiceQuestion": "Complete: 'La pyramide est _____ de la cour.'",
+    "options": ["au centre", "à côté", "loin"],
     "correctIndex": 0,
     "points": [
       {
-        "ruleTitle": "L'accord des adjectifs",
-        "explanationPt": "Regra geral: acrescenta-se -e no feminino e -s no plural. 'joli' → 'jolie' (fem.), 'étroit' → 'étroite', 'étroites' (fem. pl.).",
-        "exampleFr": "La vendeuse est gentille et la robe est jolie.",
-        "examplePt": "A vendedora é gentil e o vestido é bonito.",
-        "practiceQuestion": "Complete: 'Les rues sont _____ (étroit) dans ce quartier.'",
-        "options": ["étroites", "étroits", "étroit"],
+        "ruleTitle": "devant / à côté de / près de",
+        "explanationPt": "'devant' = em frente de; 'à côté de' = ao lado de; 'près de' = perto de. Ex.: 'Ils attendent devant la pyramide.', 'La statue est à côté de l'escalier.', 'Irlan attend près de la pyramide.'",
+        "exampleFr": "Ils attendent devant la pyramide.",
+        "examplePt": "Eles esperam em frente à pirâmide.",
+        "practiceQuestion": "Complete: 'Andréa marche _____ d'Irlan.'",
+        "options": ["à côté", "au centre", "loin"],
         "correctIndex": 0
       },
       {
-        "ruleTitle": "Le verbe essayer au présent",
-        "explanationPt": "'Essayer' (provar) muda 'y' para 'i' antes do final mudo: j'essaie, tu essaies, il/elle essaie, nous essayons, vous essayez, ils/elles essaient.",
-        "exampleFr": "Andréa essaie une robe dans une petite boutique.",
-        "examplePt": "Andréa prova um vestido numa pequena loja.",
-        "practiceQuestion": "Complete: 'Je _____ une robe dans la boutique.'",
-        "options": ["essaie", "essayeons", "essai"],
+        "ruleTitle": "au centre de / au milieu de",
+        "explanationPt": "'au centre de' e 'au milieu de' = no centro de, no meio de. Ex.: 'La pyramide est au centre de la cour.' (A pirâmide está no centro do pátio.)",
+        "exampleFr": "La pyramide est au centre de la cour.",
+        "examplePt": "A pirâmide está no centro do pátio.",
+        "practiceQuestion": "Complete: 'Le sourire d'Andréa est _____ du plan d'Irlan.'",
+        "options": ["au centre", "devant", "à côté"],
         "correctIndex": 0
       }
     ]
   },
   "quizQuestions": [
     {
-      "question": "Complete a frase do texto: 'Les rues sont _____ et les maisons sont anciennes.'",
-      "options": ["étroites", "grandes", "larges"],
+      "question": "A que horas é o encontro de Irlan e Andréa?",
+      "options": ["Às dez horas", "Às nove horas", "Às onze horas"],
       "correctIndex": 0,
-      "explanation": "No texto: 'Les rues sont étroites et les maisons sont anciennes.'"
+      "explanation": "No texto: 'Il a rendez-vous avec Andréa à dix heures devant la pyramide du Louvre.'"
     },
     {
-      "question": "Ordene corretamente as palavras da frase: [ essaie / une robe / Andréa / dans / boutique / une petite / ]",
-      "options": [
-        "Andréa essaie une robe dans une petite boutique.",
-        "Une robe essaie Andréa dans une petite boutique.",
-        "Andréa une robe essaie dans une petite boutique."
-      ],
+      "question": "Onde eles se encontram?",
+      "options": ["Em frente à pirâmide do Louvre", "No restaurante do bairro", "Na estação de metrô"],
       "correctIndex": 0,
-      "explanation": "A frase exata do texto é 'Andréa essaie une robe dans une petite boutique.'"
+      "explanation": "No texto: 'à dix heures devant la pyramide du Louvre.'"
     },
     {
-      "question": "Como se traduz: 'A vendedora é gentil'?",
-      "options": [
-        "La vendeuse est gentille.",
-        "La vendeuse est gentil.",
-        "Le vendeuse est gentille."
-      ],
+      "question": "O que Andréa carrega quando chega?",
+      "options": ["Um sac à main (uma bolsa de mão)", "Um guarda-chuva", "Um casaco"],
       "correctIndex": 0,
-      "explanation": "'La vendeuse' (feminino) + 'est' + 'gentille' (feminino de gentil)."
+      "explanation": "No texto: 'Elle porte une robe bleue et un sac à main.'"
     },
     {
-      "question": "Identifique a frase com ERRO de concordância:",
-      "options": [
-        "Les maisons sont anciennes.",
-        "Les rues sont étroits.",
-        "La robe est jolie."
-      ],
-      "correctIndex": 1,
-      "explanation": "O erro é 'Les rues sont étroits': 'rues' é feminino plural, o correto é 'étroites'."
+      "question": "O que Irlan pede para beber no café?",
+      "options": ["Un soda (um refrigerante)", "Un thé noir (um chá preto)", "Un café noir (um café preto)"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'Irlan commande un soda.' Andréa é quem pede o thé noir."
     },
     {
-      "question": "O que Irlan conta à noite sobre o Marais?",
-      "options": [
-        "As suas entregas de scooter nas ruas estreitas do bairro",
-        "As suas férias no Brasil",
-        "O seu trabalho no escritório"
-      ],
+      "question": "Como Irlan descreve o quadro do sul da França?",
+      "options": ["Montanhas, um rio e uma casinha", "Um mar e um barco", "Uma cidade e um trem"],
       "correctIndex": 0,
-      "explanation": "No texto: 'Irlan raconte ses livraisons dans le Marais : les rues étroites, les escaliers et les clients pressés.'"
+      "explanation": "No texto: 'Je vois des montagnes, une rivière et une petite maison. C'est un paysage du sud de la France.'"
     }
   ]
 }
