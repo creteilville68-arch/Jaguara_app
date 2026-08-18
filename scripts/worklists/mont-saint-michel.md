@@ -205,23 +205,23 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **rester coincé** — ficar preso
 - [ ] **réutiliser** — reutilizar
 - [ ] **s’informer** — informar-se
-- [ ] **s’orienter** — orientar-se
-- [ ] **se distraire** — distrair-se
-- [ ] **se faire rembourser** — ser reembolsado
-- [ ] **se réconcilier** — reconciliar-se
-- [ ] **se rétablir** — recuperar-se
-- [ ] **signaler** — sinalizar / reportar
-- [ ] **souhaiter** — desejar
-- [ ] **soulagé** — aliviado
-- [ ] **stressé** — estressado
-- [ ] **sympathique** — simpático
-- [ ] **tomber malade** — ficar doente
-- [ ] **transférer** — encaminhar
-- [ ] **trier** — separar / classificar
-- [ ] **une canette** — uma latinha
-- [ ] **vider la poubelle** — esvaziar o lixo
-- [ ] **vocale** — vocal / por voz (ex: annonce vocale)
-- [ ] **voyager en avion** — viajar de avião
+- [ ] **satisfaire** — satisfazer
+- [ ] **se fâcher** — ficar com raiva
+- [ ] **se plaindre** — reclamar
+- [ ] **se régaler** — deliciar-se
+- [ ] **se taire** — calar-se
+- [ ] **sincère** — sincero
+- [ ] **souhaiter bonne chance** — desejar boa sorte
+- [ ] **sourd** — surdo
+- [ ] **suivre les panneaux** — seguir as placas
+- [ ] **tchatter** — conversar (chat)
+- [ ] **tousser** — tossir
+- [ ] **travailler à temps partiel** — trabalhar em meio período
+- [ ] **un bol de** — uma tigela de
+- [ ] **vendre un appartement** — vender um apartamento
+- [ ] **visiter quelqu’un** — visitar alguém
+- [ ] **vomir** — vomitar
+- [ ] **voyager en bateau** — viajar de barco
 
 ## B1 (449)
 

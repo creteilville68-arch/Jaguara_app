@@ -205,20 +205,20 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **respirer profondément** — respirar fundo
 - [ ] **retrouver son chemin** — reencontrar o caminho
 - [ ] **s’ennuyer** — entediar-se
-- [ ] **s’occuper de** — cuidar de / ocupar-se de
-- [ ] **se connecter au wifi** — conectar-se ao wifi
-- [ ] **se faire du souci** — preocupar-se
-- [ ] **se protéger du soleil** — proteger-se do sol
-- [ ] **se renseigner** — informar-se
-- [ ] **se tromper de route** — errar o caminho
-- [ ] **sortir les poubelles** — colocar o lixo para fora
-- [ ] **souhaiter un bon anniversaire** — desejar feliz aniversário
-- [ ] **stationner** — estacionar
-- [ ] **surfer sur internet** — navegar na internet
-- [ ] **tomber en panne** — quebrar / enguiçar
-- [ ] **tout à coup** — de repente
-- [ ] **travailler à temps plein** — trabalhar em período integral
-- [ ] **un paquet de** — um pacote de
-- [ ] **verrouiller** — trancar
-- [ ] **visser** — aparafusar
-- [ ] **voyager à pied** — viajar a pé
+- [ ] **s’orienter** — orientar-se
+- [ ] **se distraire** — distrair-se
+- [ ] **se faire rembourser** — ser reembolsado
+- [ ] **se réconcilier** — reconciliar-se
+- [ ] **se rétablir** — recuperar-se
+- [ ] **signaler** — sinalizar / reportar
+- [ ] **souhaiter** — desejar
+- [ ] **soulagé** — aliviado
+- [ ] **stressé** — estressado
+- [ ] **sympathique** — simpático
+- [ ] **tomber malade** — ficar doente
+- [ ] **transférer** — encaminhar
+- [ ] **trier** — separar / classificar
+- [ ] **une canette** — uma latinha
+- [ ] **vider la poubelle** — esvaziar o lixo
+- [ ] **vocale** — vocal / por voz (ex: annonce vocale)
+- [ ] **voyager en avion** — viajar de avião

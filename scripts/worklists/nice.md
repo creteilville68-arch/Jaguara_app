@@ -1,10 +1,10 @@
 # #11 Nice — C2
 
-**5156 palavras** ainda precisam aparecer nos textos das aulas desta cidade.
+**5155 palavras** ainda precisam aparecer nos textos das aulas desta cidade.
 
 Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aventura do Irlan.
 
-## C2 (5156)
+## C2 (5155)
 
 - [ ] **abâtardir** — abastardar
 - [ ] **abductif** — abdutivo
@@ -3768,7 +3768,6 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **le pachyderme** — o paquiderme
 - [ ] **le pacte social** — o pacto social
 - [ ] **le paillasson** — o capacho
-- [ ] **le pal** — a pala
 - [ ] **le palefrenier** — o cavalariço
 - [ ] **le palimpseste** — o palimpsesto
 - [ ] **le palladium** — o paládio

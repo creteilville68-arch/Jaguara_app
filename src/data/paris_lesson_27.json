@@ -3,31 +3,71 @@
   "cityId": "paris",
   "domain": "Saúde & Cotidiano",
   "level": "Iniciante (A1)",
-  "titleFr": "Chez le docteur : Iris est malade",
-  "titlePt": "No médico: Íris está doente",
+  "titleFr": "Chez le docteur : Andréa est malade",
+  "titlePt": "No médico: Andréa está doente",
   "subtitleFr": "Le rendez-vous, l'ordonnance et la pharmacie",
   "subtitlePt": "A consulta, a receita e a farmácia",
-  "summaryPt": "Nesta Aula 27 (A1), Íris está com febre e a família vai ao médico. O aluno aprende o vocabulário da saúde (docteur, rendez-vous, ordonnance, médicament, fièvre, pharmacie) e a expressão 'avoir mal à' com 'il faut + infinitif'.",
+  "summaryPt": "Nesta Aula 27 (A1), Andréa está com febre e Irlan a leva ao médico. Desta vez, é ele quem cuida dela. O aluno aprende o vocabulário da saúde (docteur, rendez-vous, ordonnance, médicament, fièvre, pharmacie) e a expressão 'avoir mal à' com 'il faut + infinitif'.",
   "paragraphs": [
     {
       "id": 1,
-      "fr": "Ce matin, Iris a de la fièvre. Andréa appelle le docteur et prend un rendez-vous. « Le docteur est libre à dix heures », dit la secrétaire. Irlan met un manteau à Iris : « Nous allons chez le docteur, ma chérie. »",
-      "pt": "Esta manhã, Íris está com febre. Andréa liga para o médico e marca uma consulta. « O médico está livre às dez horas », diz a secretária. Irlan põe um casaco em Íris: « Vamos ao médico, minha querida. »"
+      "fr": "Ce matin, Andréa a de la fièvre. Elle est pâle et elle a mal à la gorge. Irlan s'inquiète aussitôt.",
+      "pt": "Esta manhã, Andréa está com febre. Ela está pálida e com dor de garganta. Irlan logo se preocupa."
     },
     {
       "id": 2,
-      "fr": "Chez le docteur, Iris est un peu triste. « Ouvre la bouche, dit le docteur. Dis ahhh. » Il écoute son cœur. « Ce n'est rien de grave, dit-il. Tu as un petit rhume. Il faut boire beaucoup d'eau et se reposer. »",
-      "pt": "No médico, Íris está um pouco triste. « Abra a boca, diz o médico. Diga ahhh. » Ele escuta seu coração. « Não é nada grave, diz ele. Você está com um resfriadinho. É preciso beber muita água e descansar. »"
+      "fr": "Il appelle le docteur et prend un rendez-vous. « Le docteur est libre à dix heures », dit la secrétaire. Irlan met un manteau sur les épaules d'Andréa.",
+      "pt": "Ele liga para o médico e marca uma consulta. «O médico está livre às dez horas», diz a secretária. Irlan põe um casaco sobre os ombros de Andréa."
     },
     {
       "id": 3,
-      "fr": "Le docteur écrit une ordonnance. « Voici la recette, dit-il. À la pharmacie, vous achetez ce sirop et ces comprimés. Le pharmacien va vous aider. » Andréa remercie le docteur et prend le rendez-vous de contrôle.",
-      "pt": "O médico escreve uma receita. « Aqui está a receita, diz ele. Na farmácia, vocês compram este xarope e estes comprimidos. O farmacêutico vai ajudar vocês. » Andréa agradece o médico e marca a consulta de controle."
+      "fr": "« Nous allons chez le docteur, ma chérie », dit-il doucement. « Je reste avec toi. » Andréa sourit faiblement.",
+      "pt": "«Vamos ao médico, minha querida», diz ele baixinho. «Eu fico com você.» Andréa sorri fraquinho."
     },
     {
       "id": 4,
-      "fr": "À la pharmacie, le pharmacien donne le sirop et un thermomètre. « Prends une cuillère de sirop le matin et le soir », dit-il à Iris. « Et surtout, repose-toi ! » Iris sourit : « D'accord, monsieur le pharmacien. Je vais guérir vite ! »",
-      "pt": "Na farmácia, o farmacêutico dá o xarope e um termômetro. « Tome uma colher de xarope de manhã e à noite », diz ele a Íris. « E principalmente, descanse! » Íris sorri: « Está bem, senhor farmacêutico. Vou ficar boa rápido! »"
+      "fr": "Chez le docteur, Andréa est un peu triste. « Ouvre la bouche, dit le docteur. Dis ahhh. » Il écoute son cœur et prend sa température.",
+      "pt": "No médico, Andréa está um pouco triste. «Abra a boca, diz o médico. Diga ahhh.» Ele escuta o coração dela e mede a temperatura."
+    },
+    {
+      "id": 5,
+      "fr": "« Ce n'est rien de grave, dit-il. Tu as un petit rhume. Il faut boire beaucoup d'eau et se reposer. »",
+      "pt": "«Não é nada grave, diz ele. Você está com um resfriadinho. É preciso beber muita água e descansar.»"
+    },
+    {
+      "id": 6,
+      "fr": "Le docteur écrit une ordonnance. « À la pharmacie, vous achetez ce sirop et ces comprimés. Le pharmacien va vous aider. »",
+      "pt": "O médico escreve uma receita. «Na farmácia, vocês compram este xarope e estes comprimidos. O farmacêutico vai ajudar vocês.»"
+    },
+    {
+      "id": 7,
+      "fr": "Irlan remercie le docteur et note le rendez-vous de contrôle sur son téléphone. « Je m'occupe de tout », dit-il à Andréa.",
+      "pt": "Irlan agradece o médico e anota a consulta de controle no telefone. «Eu cuido de tudo», diz ele a Andréa."
+    },
+    {
+      "id": 8,
+      "fr": "À la pharmacie, le pharmacien donne le sirop et un thermomètre. « Une cuillère de sirop le matin et le soir », explique-t-il.",
+      "pt": "Na farmácia, o farmacêutico entrega o xarope e um termômetro. «Uma colher de xarope de manhã e à noite», explica ele."
+    },
+    {
+      "id": 9,
+      "fr": "En rentrant, Irlan installe Andréa sur le canapé et lui apporte un thé chaud. « Bois lentement », dit-il.",
+      "pt": "Ao voltar, Irlan acomoda Andréa no sofá e lhe traz um chá quente. «Beba devagar», diz ele."
+    },
+    {
+      "id": 10,
+      "fr": "« Tu vois, aujourd'hui c'est moi qui te soigne », dit Irlan. « La dernière fois, c'est toi qui prenais soin de moi. »",
+      "pt": "«Viu? Hoje sou eu que cuido de você», diz Irlan. «Da última vez, era você que cuidava de mim.»"
+    },
+    {
+      "id": 11,
+      "fr": "Andréa pose sa tête sur son épaule. « Merci. Avec toi, même être malade est plus doux. »",
+      "pt": "Andréa encosta a cabeça no ombro dele. «Obrigada. Com você, até ficar doente é mais doce.»"
+    },
+    {
+      "id": 12,
+      "fr": "« Repose-toi, et tu vas guérir vite », dit Irlan. Il reste assis près d'elle jusqu'à ce qu'elle s'endorme.",
+      "pt": "«Descanse, e você vai ficar boa rápido», diz Irlan. Ele fica sentado ao lado dela até ela adormecer."
     }
   ],
   "vocabularyDictionary": [
@@ -39,7 +79,7 @@
       "ptTargets": ["médico", "doutor"],
       "examples": [
         { "level": "A1", "fr": "Le docteur est gentil.", "pt": "O médico é gentil." },
-        { "level": "A2-B1", "fr": "La famille va chez le docteur.", "pt": "A família vai ao médico." },
+        { "level": "A2-B1", "fr": "Irlan va chez le docteur avec Andréa.", "pt": "Irlan vai ao médico com Andréa." },
         { "level": "B2", "fr": "Le docteur écoute le cœur de la patiente.", "pt": "O médico escuta o coração da paciente." },
         { "level": "C1-C2", "fr": "C'est le docteur qui, par ses mots, rassure autant que par ses soins.", "pt": "É o médico que, por suas palavras, tranquiliza tanto quanto por seus cuidados." }
       ]
@@ -51,10 +91,10 @@
       "inflections": ["le patient", "un patient", "des patients"],
       "ptTargets": ["paciente"],
       "examples": [
-        { "level": "A1", "fr": "Le patient est sur le lit.", "pt": "O paciente está na maca." },
-        { "level": "A2-B1", "fr": "Le docteur écoute le patient.", "pt": "O médico escuta o paciente." },
-        { "level": "B2", "fr": "Le patient attend son tour dans la salle d'attente.", "pt": "O paciente espera sua vez na sala de espera." },
-        { "level": "C1-C2", "fr": "C'est le patient qui, écouté, guérit plus vite.", "pt": "É o paciente que, ouvido, cura mais rápido." }
+        { "level": "A1", "fr": "La patiente est sur la chaise.", "pt": "A paciente está na cadeira." },
+        { "level": "A2-B1", "fr": "Le docteur écoute la patiente.", "pt": "O médico escuta a paciente." },
+        { "level": "B2", "fr": "La patiente attend son tour dans la salle d'attente.", "pt": "A paciente espera sua vez na sala de espera." },
+        { "level": "C1-C2", "fr": "C'est la patiente qui, écoutée, guérit plus vite.", "pt": "É a paciente que, ouvida, cura mais rápido." }
       ]
     },
     {
@@ -65,7 +105,7 @@
       "ptTargets": ["consulta", "compromisso"],
       "examples": [
         { "level": "A1", "fr": "Le rendez-vous est à dix heures.", "pt": "A consulta é às dez horas." },
-        { "level": "A2-B1", "fr": "Andréa prend un rendez-vous chez le docteur.", "pt": "Andréa marca uma consulta no médico." },
+        { "level": "A2-B1", "fr": "Irlan prend un rendez-vous chez le docteur.", "pt": "Irlan marca uma consulta no médico." },
         { "level": "B2", "fr": "Le rendez-vous, confirmé, évite l'attente inutile.", "pt": "A consulta, confirmada, evita a espera inútil." },
         { "level": "C1-C2", "fr": "C'est le rendez-vous qui, tenu, montre le respect de l'autre.", "pt": "É o compromisso que, cumprido, mostra respeito pelo outro." }
       ]
@@ -103,20 +143,20 @@
       "inflections": ["la fièvre", "une fièvre", "des fièvres"],
       "ptTargets": ["febre"],
       "examples": [
-        { "level": "A1", "fr": "Iris a de la fièvre.", "pt": "Íris está com febre." },
+        { "level": "A1", "fr": "Andréa a de la fièvre.", "pt": "Andréa está com febre." },
         { "level": "A2-B1", "fr": "La fièvre est un signe de maladie.", "pt": "A febre é um sinal de doença." },
         { "level": "B2", "fr": "La fièvre, modérée, aide le corps à se défendre.", "pt": "A febre, moderada, ajuda o corpo a se defender." },
-        { "level": "C1-C2", "fr": "C'est la fièvre qui, en montant, alerte la famille et le médecin.", "pt": "É a febre que, ao subir, alerta a família e o médico." }
+        { "level": "C1-C2", "fr": "C'est la fièvre qui, en montant, alerte les proches et le médecin.", "pt": "É a febre que, ao subir, alerta as pessoas próximas e o médico." }
       ]
     },
     {
       "term": "être malade",
       "definitionPt": "estar doente",
       "definitionFr": "Avoir une maladie.",
-      "inflections": ["être malade", "je suis malade"],
+      "inflections": ["être malade", "je suis malade", "elle est malade"],
       "ptTargets": ["estar doente"],
       "examples": [
-        { "level": "A1", "fr": "Iris est malade aujourd'hui.", "pt": "Íris está doente hoje." },
+        { "level": "A1", "fr": "Andréa est malade aujourd'hui.", "pt": "Andréa está doente hoje." },
         { "level": "A2-B1", "fr": "Quand on est malade, on reste à la maison.", "pt": "Quando se está doente, fica-se em casa." },
         { "level": "B2", "fr": "Être malade n'est jamais agréable, mais cela passe.", "pt": "Estar doente nunca é agradável, mas passa." },
         { "level": "C1-C2", "fr": "C'est en étant malade que l'on mesure la valeur de la santé.", "pt": "É estando doente que se mede o valor da saúde." }
@@ -130,7 +170,7 @@
       "ptTargets": ["farmácia"],
       "examples": [
         { "level": "A1", "fr": "La pharmacie est ouverte.", "pt": "A farmácia está aberta." },
-        { "level": "A2-B1", "fr": "La famille va à la pharmacie après le docteur.", "pt": "A família vai à farmácia depois do médico." },
+        { "level": "A2-B1", "fr": "Ils vont à la pharmacie après le docteur.", "pt": "Eles vão à farmácia depois do médico." },
         { "level": "B2", "fr": "Les pharmacies, nombreuses, sont ouvertes en soirée à Paris.", "pt": "As farmácias, numerosas, abrem à noite em Paris." },
         { "level": "C1-C2", "fr": "C'est à la pharmacie que se termine la visite chez le docteur.", "pt": "É na farmácia que termina a visita ao médico." }
       ]
@@ -156,9 +196,9 @@
       "ptTargets": ["xarope"],
       "examples": [
         { "level": "A1", "fr": "Le sirop est bon.", "pt": "O xarope é gostoso." },
-        { "level": "A2-B1", "fr": "Iris prend une cuillère de sirop.", "pt": "Íris toma uma colher de xarope." },
+        { "level": "A2-B1", "fr": "Andréa prend une cuillère de sirop.", "pt": "Andréa toma uma colher de xarope." },
         { "level": "B2", "fr": "Le sirop, pris le soir, calme la toux.", "pt": "O xarope, tomado à noite, acalma a tosse." },
-        { "level": "C1-C2", "fr": "C'est le sirop qui, doux, rend le médicament plus supportable aux enfants.", "pt": "É o xarope que, doce, torna o remédio mais suportável para as crianças." }
+        { "level": "C1-C2", "fr": "C'est le sirop qui, doux, rend le médicament plus supportable.", "pt": "É o xarope que, doce, torna o remédio mais suportável." }
       ]
     },
     {
@@ -178,10 +218,10 @@
       "term": "guérir",
       "definitionPt": "curar (ficar bom)",
       "definitionFr": "Retrouver la santé.",
-      "inflections": ["guérir", "je guéris", "nous guérissons"],
+      "inflections": ["guérir", "je guéris", "elle guérit"],
       "ptTargets": ["curar", "ficar bom"],
       "examples": [
-        { "level": "A1", "fr": "Je vais guérir vite.", "pt": "Vou ficar bom rápido." },
+        { "level": "A1", "fr": "Elle va guérir vite.", "pt": "Ela vai ficar boa rápido." },
         { "level": "A2-B1", "fr": "Le médicament aide à guérir.", "pt": "O remédio ajuda a curar." },
         { "level": "B2", "fr": "Elle a guéri en quelques jours.", "pt": "Ela se curou em poucos dias." },
         { "level": "C1-C2", "fr": "C'est le repos qui, autant que les médicaments, fait guérir.", "pt": "É o descanso que, tanto quanto os remédios, faz curar." }
@@ -190,9 +230,9 @@
   ],
   "grammarTip": {
     "ruleTitle": "Avoir mal à : a dor no corpo",
-    "explanationPt": "Para dizer onde dói: 'avoir mal à' + parte do corpo. Ex.: 'J'ai mal à la tête' (tenho dor de cabeça), 'J'ai mal au ventre' (dor de barriga). Iris: 'J'ai mal à la gorge.'",
-    "exampleFr": "Iris a de la fièvre et elle a mal à la gorge.",
-    "examplePt": "Íris está com febre e está com dor de garganta.",
+    "explanationPt": "Para dizer onde dói: 'avoir mal à' + parte do corpo. Ex.: 'J'ai mal à la tête' (tenho dor de cabeça), 'J'ai mal au ventre' (dor de barriga). Andréa: 'J'ai mal à la gorge.'",
+    "exampleFr": "Andréa a de la fièvre et elle a mal à la gorge.",
+    "examplePt": "Andréa está com febre e com dor de garganta.",
     "practiceQuestion": "Complete: 'J'ai mal _____ tête.'",
     "options": ["à la", "au", "aux"],
     "correctIndex": 0,
@@ -209,8 +249,8 @@
       {
         "ruleTitle": "Le verbe prendre au présent",
         "explanationPt": "O verbo 'prendre' (tomar/pegar): je prends, tu prends, il/elle prend, nous prenons, vous prenez, ils/elles prennent. Ex.: 'Je prends le sirop le matin.'",
-        "exampleFr": "Prends une cuillère de sirop le matin et le soir.",
-        "examplePt": "Tome uma colher de xarope de manhã e à noite.",
+        "exampleFr": "Elle prend une cuillère de sirop le matin et le soir.",
+        "examplePt": "Ela toma uma colher de xarope de manhã e à noite.",
         "practiceQuestion": "Complete: 'Nous _____ le sirop le soir.'",
         "options": ["prenons", "prends", "prennent"],
         "correctIndex": 0
@@ -219,10 +259,10 @@
   },
   "quizQuestions": [
     {
-      "question": "O que Íris tem nesta manhã?",
-      "options": ["febre", "fome", "sede"],
+      "question": "O que Andréa tem nesta manhã?",
+      "options": ["febre e dor de garganta", "fome", "sono"],
       "correctIndex": 0,
-      "explanation": "Iris a de la fièvre: está com febre."
+      "explanation": "Andréa a de la fièvre et elle a mal à la gorge."
     },
     {
       "question": "O que o médico diz que é preciso fazer?",
@@ -231,10 +271,10 @@
       "explanation": "Il faut boire beaucoup d'eau et se reposer."
     },
     {
-      "question": "O que a família compra na farmácia?",
-      "options": ["xarope e comprimidos", "pão e queijo", "selos e cartas"],
+      "question": "O que eles compram na farmácia?",
+      "options": ["xarope, comprimidos e um termômetro", "pão e queijo", "selos e cartas"],
       "correctIndex": 0,
-      "explanation": "Compram le sirop et des comprimés."
+      "explanation": "Compram le sirop, des comprimés et un thermomètre."
     },
     {
       "question": "Complete: 'J'ai mal _____ tête.'",

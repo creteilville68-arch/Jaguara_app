@@ -1,6 +1,6 @@
 # #2 Amiens — A1/A2
 
-**325 palavras** ainda precisam aparecer nos textos das aulas desta cidade.
+**324 palavras** ainda precisam aparecer nos textos das aulas desta cidade.
 
 Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aventura do Irlan.
 
@@ -115,7 +115,7 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **un milliard** — um bilhão
 - [ ] **wi** — Wi (parte da palavra Wi-Fi)
 
-## A2 (217)
+## A2 (216)
 
 - [ ] **à deux pas** — a dois passos
 - [ ] **accepter une invitation** — aceitar um convite
@@ -317,20 +317,19 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **retrouver des amis** — encontrar amigos
 - [ ] **s’abonner** — assinar (serviço)
 - [ ] **s’installer** — instalar-se / mudar-se
-- [ ] **satisfaire** — satisfazer
-- [ ] **se fâcher** — ficar com raiva
-- [ ] **se plaindre** — reclamar
-- [ ] **se régaler** — deliciar-se
-- [ ] **se taire** — calar-se
-- [ ] **sincère** — sincero
-- [ ] **souhaiter bonne chance** — desejar boa sorte
-- [ ] **sourd** — surdo
-- [ ] **suivre les panneaux** — seguir as placas
-- [ ] **tchatter** — conversar (chat)
-- [ ] **tousser** — tossir
-- [ ] **travailler à temps partiel** — trabalhar em meio período
-- [ ] **un bol de** — uma tigela de
-- [ ] **vendre un appartement** — vender um apartamento
-- [ ] **visiter quelqu’un** — visitar alguém
-- [ ] **vomir** — vomitar
-- [ ] **voyager en bateau** — viajar de barco
+- [ ] **se connecter au wifi** — conectar-se ao wifi
+- [ ] **se faire du souci** — preocupar-se
+- [ ] **se protéger du soleil** — proteger-se do sol
+- [ ] **se renseigner** — informar-se
+- [ ] **se tromper de route** — errar o caminho
+- [ ] **sortir les poubelles** — colocar o lixo para fora
+- [ ] **souhaiter un bon anniversaire** — desejar feliz aniversário
+- [ ] **stationner** — estacionar
+- [ ] **surfer sur internet** — navegar na internet
+- [ ] **tomber en panne** — quebrar / enguiçar
+- [ ] **tout à coup** — de repente
+- [ ] **travailler à temps plein** — trabalhar em período integral
+- [ ] **un paquet de** — um pacote de
+- [ ] **verrouiller** — trancar
+- [ ] **visser** — aparafusar
+- [ ] **voyager à pied** — viajar a pé
