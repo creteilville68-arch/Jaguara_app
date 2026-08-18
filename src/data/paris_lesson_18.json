@@ -1,268 +1,292 @@
 {
   "id": "paris_lesson_18",
   "cityId": "paris",
-  "domain": "História & Universidade",
+  "domain": "Cultura & Educação",
   "level": "Iniciante (A1)",
   "titleFr": "Le Quartier Latin et la Sorbonne",
   "titlePt": "O Quartier Latin e a Sorbonne",
-  "subtitleFr": "L'université, les librairies et les bouquinistes de la Seine",
-  "subtitlePt": "A universidade, as livrarias e os sebos às margens do Sena",
-  "summaryPt": "Nesta Aula 18 (A1), a família passeia pelo Quartier Latin. Eles veem a Sorbonne, as livrarias antigas e os bouquinistes à beira do Sena. Irlan, que foi geógrafo no Brasil, conta que quer aprender mais na França. O aluno aprende o verbo 'apprendre' e a negação 'ne...pas'.",
+  "subtitleFr": "Les étudiants, les bouquinistes et une carte ancienne",
+  "subtitlePt": "Os estudantes, os bouquinistes e um mapa antigo",
+  "summaryPt": "Nesta Aula 18 (A1), Irlan e Andréa visitam o Quartier Latin e a Sorbonne. Irlan, o geógrafo, encontra uma carta antiga de Paris nos bouquinistes à beira do Sena. O aluno aprende o verbo 'apprendre' no presente.",
   "paragraphs": [
     {
       "id": 1,
-      "fr": "Le Quartier Latin est le quartier des étudiants. La Sorbonne est une université très ancienne. Les étudiants marchent avec des livres sous le bras.",
-      "pt": "O Quartier Latin é o bairro dos estudantes. A Sorbonne é uma universidade muito antiga. Os estudantes caminham com livros debaixo do braço."
+      "fr": "Le Quartier Latin est le quartier des étudiants. La Sorbonne est une université très ancienne.",
+      "pt": "O Quartier Latin é o bairro dos estudantes. A Sorbonne é uma universidade muito antiga."
     },
     {
       "id": 2,
-      "fr": "Nous visitons une librairie ancienne. Il y a des livres partout : sur les tables, sur les murs et même sur les escaliers.",
-      "pt": "Nós visitamos uma livraria antiga. Há livros em todo lugar: sobre as mesas, nas paredes e até nas escadas."
+      "fr": "Irlan et Andréa marchent parmi les étudiants. Ils portent des livres sous le bras.",
+      "pt": "Irlan e Andréa caminham entre os estudantes. Eles carregam livros debaixo do braço."
     },
     {
       "id": 3,
-      "fr": "Au bord de la Seine, les bouquinistes vendent des livres anciens et des cartes. Irlan regarde les cartes avec un grand sourire.",
-      "pt": "Às margens do Sena, os bouquinistes vendem livros antigos e mapas. Irlan olha os mapas com um grande sorriso."
+      "fr": "« J'aurais aimé étudier ici », dit Irlan, le géographe.",
+      "pt": "«Eu teria gostado de estudar aqui», diz Irlan, o geógrafo."
     },
     {
       "id": 4,
-      "fr": "« Je ne parle pas encore parfaitement français », dit Irlan, « mais j'apprends chaque jour. Ici, je veux apprendre la géographie de la France. »",
-      "pt": "«Eu ainda não falo francês perfeitamente», diz Irlan, «mas eu aprendo todos os dias. Aqui, eu quero aprender a geografia da França.»"
+      "fr": "Ils visitent une librairie ancienne. Il y a des livres partout : sur les tables, les murs et même les escaliers.",
+      "pt": "Eles visitam uma livraria antiga. Há livros por toda parte: nas mesas, nas paredes e até nas escadas."
+    },
+    {
+      "id": 5,
+      "fr": "Andréa cherche un livre pour colorier une carte de France. « C'est pour toi », dit-elle.",
+      "pt": "Andréa procura um livro para colorir um mapa da França. «É para você», diz ela."
+    },
+    {
+      "id": 6,
+      "fr": "Irlan sourit. « Je coloriais des cartes quand j'étais petit. J'avais une gomme pour mes erreurs. »",
+      "pt": "Irlan sorri. «Eu coloria mapas quando era pequeno. Eu tinha uma borracha para os meus erros.»"
+    },
+    {
+      "id": 7,
+      "fr": "Un étudiant imprime un plan dans la librairie. Irlan l'observe avec curiosité.",
+      "pt": "Um estudante imprime um mapa na livraria. Irlan observa com curiosidade."
+    },
+    {
+      "id": 8,
+      "fr": "Au bord de la Seine, les bouquinistes vendent des livres anciens et des cartes.",
+      "pt": "À beira do Sena, os bouquinistes vendem livros antigos e mapas."
+    },
+    {
+      "id": 9,
+      "fr": "Irlan regarde les cartes avec un grand sourire. Il trouve une carte ancienne de Paris.",
+      "pt": "Irlan olha os mapas com um grande sorriso. Ele encontra um mapa antigo de Paris."
+    },
+    {
+      "id": 10,
+      "fr": "« Regarde, c'est Paris en 1900 », dit-il, ému. Andréa se penche pour regarder.",
+      "pt": "«Olha, é Paris em 1900», diz ele, emocionado. Andréa se inclina para olhar."
+    },
+    {
+      "id": 11,
+      "fr": "Il achète la carte et la garde précieusement. « C'est le début de ma collection », dit-il.",
+      "pt": "Ele compra o mapa e o guarda com carinho. «É o começo da minha coleção», diz ele."
+    },
+    {
+      "id": 12,
+      "fr": "« Je ne parle pas encore parfaitement français, mais j'apprends chaque jour. Ici, je veux apprendre la géographie de la France. »",
+      "pt": "«Eu ainda não falo francês perfeitamente, mas aprendo todos os dias. Aqui, quero aprender a geografia da França.»"
     }
   ],
   "vocabularyDictionary": [
     {
-      "term": "étudiant",
-      "definitionPt": "estudante",
-      "definitionFr": "Personne qui étudie à l'université.",
-      "inflections": ["l'étudiant", "un étudiant", "des étudiants"],
-      "ptTargets": ["estudante"],
-      "examples": [
-        { "level": "A1", "fr": "Les étudiants marchent avec des livres.", "pt": "Os estudantes caminham com livros." },
-        { "level": "A2-B1", "fr": "L'étudiant travaille à la bibliothèque.", "pt": "O estudante trabalha na biblioteca." },
-        { "level": "B2", "fr": "Les étudiants du Quartier Latin animent le quartier.", "pt": "Os estudantes do Quartier Latin animam o bairro." },
-        { "level": "C1-C2", "fr": "La vie étudiante enrichit le patrimoine intellectuel de Paris.", "pt": "A vida estudantil enriquece o patrimônio intelectual de Paris." }
-      ]
-    },
-    {
-      "term": "université",
-      "definitionPt": "universidade",
-      "definitionFr": "Grande école où l'on étudie après le lycée.",
+      "term": "l'université",
+      "definitionPt": "a universidade",
+      "definitionFr": "Établissement d'enseignement supérieur.",
       "inflections": ["l'université", "une université", "des universités"],
       "ptTargets": ["universidade"],
       "examples": [
         { "level": "A1", "fr": "La Sorbonne est une université ancienne.", "pt": "A Sorbonne é uma universidade antiga." },
-        { "level": "A2-B1", "fr": "Il étudie à l'université de Paris.", "pt": "Ele estuda na universidade de Paris." },
-        { "level": "B2", "fr": "Les universités françaises sont ouvertes au monde.", "pt": "As universidades francesas estão abertas ao mundo." },
-        { "level": "C1-C2", "fr": "La Sorbonne symbolise des siècles de savoir universitaire.", "pt": "A Sorbonne simboliza séculos de saber universitário." }
+        { "level": "A2-B1", "fr": "Les étudiants vont à l'université.", "pt": "Os estudantes vão à universidade." },
+        { "level": "B2", "fr": "Cette université accueille des étudiants du monde entier.", "pt": "Esta universidade recebe estudantes do mundo inteiro." },
+        { "level": "C1-C2", "fr": "L'université est un lieu où le savoir se transmet et se discute.", "pt": "A universidade é um lugar onde o saber se transmite e se discute." }
       ]
     },
     {
-      "term": "librairie",
-      "definitionPt": "livraria",
+      "term": "l'étudiant",
+      "definitionPt": "o estudante",
+      "definitionFr": "Personne qui étudie à l'université.",
+      "inflections": ["l'étudiant", "un étudiant", "des étudiants"],
+      "ptTargets": ["estudante"],
+      "examples": [
+        { "level": "A1", "fr": "Les étudiants marchent dans le quartier.", "pt": "Os estudantes caminham pelo bairro." },
+        { "level": "A2-B1", "fr": "L'étudiant porte des livres.", "pt": "O estudante carrega livros." },
+        { "level": "B2", "fr": "Les étudiants se retrouvent à la bibliothèque.", "pt": "Os estudantes se encontram na biblioteca." },
+        { "level": "C1-C2", "fr": "Un étudiant curieux apprend autant hors des cours que pendant.", "pt": "Um estudante curioso aprende tanto fora quanto dentro das aulas." }
+      ]
+    },
+    {
+      "term": "la librairie",
+      "definitionPt": "a livraria",
       "definitionFr": "Magasin où l'on vend des livres.",
       "inflections": ["la librairie", "une librairie", "des librairies"],
       "ptTargets": ["livraria"],
       "examples": [
-        { "level": "A1", "fr": "Nous visitons une librairie ancienne.", "pt": "Nós visitamos uma livraria antiga." },
-        { "level": "A2-B1", "fr": "La librairie est pleine de livres.", "pt": "A livraria está cheia de livros." },
-        { "level": "B2", "fr": "Les librairies du Quartier Latin sont célèbres.", "pt": "As livrarias do Quartier Latin são famosas." },
-        { "level": "C1-C2", "fr": "La librairie indépendante est un lieu de culture vivante.", "pt": "A livraria independente é um lugar de cultura viva." }
+        { "level": "A1", "fr": "Ils visitent une librairie ancienne.", "pt": "Eles visitam uma livraria antiga." },
+        { "level": "A2-B1", "fr": "J'achète un carnet dans une librairie.", "pt": "Compro um caderno numa livraria." },
+        { "level": "B2", "fr": "La librairie de quartier organise des rencontres avec les auteurs.", "pt": "A livraria do bairro organiza encontros com os autores." },
+        { "level": "C1-C2", "fr": "Une librairie bien tenue est un refuge pour les esprits curieux.", "pt": "Uma livraria bem cuidada é um refúgio para os espíritos curiosos." }
       ]
     },
     {
-      "term": "libre",
-      "definitionPt": "livre, livre (sem custo)",
-      "definitionFr": "Qui n'est pas enfermé, ou qui ne coûte rien.",
-      "inflections": ["libre", "libres"],
-      "ptTargets": ["livre", "grátis"],
-      "examples": [
-        { "level": "A1", "fr": "Les livres sont partout dans la librairie.", "pt": "Os livros estão em todo lugar na livraria." },
-        { "level": "A2-B1", "fr": "L'entrée du musée est libre le dimanche.", "pt": "A entrada do museu é gratuita no domingo." },
-        { "level": "B2", "fr": "L'accès à l'éducation est un droit fondamental et libre.", "pt": "O acesso à educação é um direito fundamental e livre." },
-        { "level": "C1-C2", "fr": "La pensée libre est le fondement de la vie universitaire.", "pt": "O pensamento livre é o fundamento da vida universitária." }
-      ]
-    },
-    {
-      "term": "mur",
-      "definitionPt": "parede, muro",
-      "definitionFr": "Surface verticale d'un bâtiment.",
-      "inflections": ["le mur", "un mur", "des murs"],
-      "ptTargets": ["parede", "muro"],
-      "examples": [
-        { "level": "A1", "fr": "Les livres sont sur les murs.", "pt": "Os livros estão nas paredes." },
-        { "level": "A2-B1", "fr": "Le mur est couvert d'affiches.", "pt": "A parede está coberta de cartazes." },
-        { "level": "B2", "fr": "Les murs anciens racontent l'histoire du quartier.", "pt": "As paredes antigas contam a história do bairro." },
-        { "level": "C1-C2", "fr": "Les murs de la Sorbonne ont vu passer des générations d'étudiants.", "pt": "As paredes da Sorbonne viram passar gerações de estudantes." }
-      ]
-    },
-    {
-      "term": "bord",
-      "definitionPt": "margem, beira",
-      "definitionFr": "L'extrémité d'un lieu, d'un cours d'eau.",
-      "inflections": ["le bord"],
-      "ptTargets": ["margem", "beira"],
-      "examples": [
-        { "level": "A1", "fr": "Les bouquinistes sont au bord de la Seine.", "pt": "Os bouquinistes ficam às margens do Sena." },
-        { "level": "A2-B1", "fr": "La maison est au bord de l'eau.", "pt": "A casa fica à beira da água." },
-        { "level": "B2", "fr": "Nous marchons au bord de la rivière.", "pt": "Nós caminhamos à beira do rio." },
-        { "level": "C1-C2", "fr": "Les quais de la Seine invitent à la promenade au bord de l'eau.", "pt": "Os cais do Sena convidam ao passeio à beira d'água." }
-      ]
-    },
-    {
-      "term": "bouquiniste",
-      "definitionPt": "sebo ambulante (vendedor de livros usados na beira do Sena)",
-      "definitionFr": "Vendeur de livres anciens sur les quais de la Seine.",
+      "term": "le bouquiniste",
+      "definitionPt": "o bouquiniste (vendedor de livros usados)",
+      "definitionFr": "Marchand de livres anciens, souvent sur les quais.",
       "inflections": ["le bouquiniste", "un bouquiniste", "des bouquinistes"],
-      "ptTargets": ["sebo ambulante"],
+      "ptTargets": ["bouquiniste"],
       "examples": [
-        { "level": "A1", "fr": "Les bouquinistes vendent des livres au bord de la Seine.", "pt": "Os bouquinistes vendem livros às margens do Sena." },
-        { "level": "A2-B1", "fr": "Le bouquiniste propose des cartes anciennes.", "pt": "O bouquiniste oferece mapas antigos." },
-        { "level": "B2", "fr": "Les bouquinistes font partie du paysage de Paris.", "pt": "Os bouquinistes fazem parte da paisagem de Paris." },
-        { "level": "C1-C2", "fr": "Les boîtes vertes des bouquinistes sont inscrites au patrimoine de l'UNESCO.", "pt": "As caixas verdes dos bouquinistes estão inscritas no patrimônio da UNESCO." }
+        { "level": "A1", "fr": "Les bouquinistes vendent des livres anciens.", "pt": "Os bouquinistes vendem livros antigos." },
+        { "level": "A2-B1", "fr": "Le bouquiniste est au bord de la Seine.", "pt": "O bouquiniste fica à beira do Sena." },
+        { "level": "B2", "fr": "Les bouquinistes des quais sont une tradition parisienne.", "pt": "Os bouquinistes dos cais são uma tradição parisiense." },
+        { "level": "C1-C2", "fr": "Le bouquiniste, gardien de pages oubliées, fait vivre la mémoire des quais.", "pt": "O bouquiniste, guardião de páginas esquecidas, mantém viva a memória dos cais." }
       ]
     },
     {
-      "term": "vendre",
-      "definitionPt": "vender",
-      "definitionFr": "Donner quelque chose contre de l'argent.",
-      "inflections": ["je vends", "vendre", "il vend"],
-      "ptTargets": ["vender"],
+      "term": "la carte",
+      "definitionPt": "o mapa",
+      "definitionFr": "Représentation d'un lieu.",
+      "inflections": ["la carte", "une carte", "des cartes"],
+      "ptTargets": ["mapa"],
       "examples": [
-        { "level": "A1", "fr": "Les bouquinistes vendent des livres.", "pt": "Os bouquinistes vendem livros." },
-        { "level": "A2-B1", "fr": "La boulangère vend du pain.", "pt": "A padeira vende pão." },
-        { "level": "B2", "fr": "Ils vendent des cartes et des souvenirs.", "pt": "Eles vendem mapas e lembranças." },
-        { "level": "C1-C2", "fr": "Vendre des livres anciens, c'est partager la mémoire du monde.", "pt": "Vender livros antigos é partilhar a memória do mundo." }
+        { "level": "A1", "fr": "Irlan regarde les cartes.", "pt": "Irlan olha os mapas." },
+        { "level": "A2-B1", "fr": "Cette carte montre Paris en 1900.", "pt": "Este mapa mostra Paris em 1900." },
+        { "level": "B2", "fr": "Une carte ancienne raconte l'histoire d'une ville.", "pt": "Um mapa antigo conta a história de uma cidade." },
+        { "level": "C1-C2", "fr": "La carte, plus qu'un dessin, est une façon de voir le monde.", "pt": "O mapa, mais que um desenho, é uma forma de ver o mundo." }
+      ]
+    },
+    {
+      "term": "colorier",
+      "definitionPt": "colorir",
+      "definitionFr": "Mettre des couleurs sur un dessin.",
+      "inflections": ["colorier", "je colorie", "il colorie"],
+      "ptTargets": ["colorir"],
+      "examples": [
+        { "level": "A1", "fr": "Il colorie une carte.", "pt": "Ele colora um mapa." },
+        { "level": "A2-B1", "fr": "Je colorie avec des crayons.", "pt": "Eu coloro com lápis de cor." },
+        { "level": "B2", "fr": "Enfant, il coloriait les cartes avec soin.", "pt": "Quando criança, ele coloria os mapas com capricho." },
+        { "level": "C1-C2", "fr": "Colorier, geste d'enfant, demande aussi de la patience et du goût.", "pt": "Colorir, gesto de criança, também exige paciência e bom gosto." }
+      ]
+    },
+    {
+      "term": "la gomme",
+      "definitionPt": "a borracha",
+      "definitionFr": "Objet qui efface le crayon.",
+      "inflections": ["la gomme", "une gomme", "des gommes"],
+      "ptTargets": ["borracha"],
+      "examples": [
+        { "level": "A1", "fr": "J'efface avec une gomme.", "pt": "Eu apago com uma borracha." },
+        { "level": "A2-B1", "fr": "La gomme est dans la trousse.", "pt": "A borracha está no estojo." },
+        { "level": "B2", "fr": "Il a effacé son erreur avec une gomme.", "pt": "Ele apagou o erro com uma borracha." },
+        { "level": "C1-C2", "fr": "La gomme efface le trait, mais jamais tout à fait la trace.", "pt": "A borracha apaga o traço, mas nunca por completo a marca." }
+      ]
+    },
+    {
+      "term": "imprimer",
+      "definitionPt": "imprimir",
+      "definitionFr": "Reproduire un document sur papier.",
+      "inflections": ["imprimer", "j'imprime", "il imprime"],
+      "ptTargets": ["imprimir"],
+      "examples": [
+        { "level": "A1", "fr": "Un étudiant imprime un plan.", "pt": "Um estudante imprime um mapa." },
+        { "level": "A2-B1", "fr": "J'imprime le billet de train.", "pt": "Imprimo o bilhete de trem." },
+        { "level": "B2", "fr": "Elle a imprimé la carte avant de partir.", "pt": "Ela imprimiu o mapa antes de viajar." },
+        { "level": "C1-C2", "fr": "Imprimer un document reste utile quand le numérique fait défaut.", "pt": "Imprimir um documento continua útil quando o digital falha." }
+      ]
+    },
+    {
+      "term": "la géographie",
+      "definitionPt": "a geografia",
+      "definitionFr": "Science qui étudie les lieux et les territoires.",
+      "inflections": ["la géographie"],
+      "ptTargets": ["geografia"],
+      "examples": [
+        { "level": "A1", "fr": "Irlan veut apprendre la géographie de la France.", "pt": "Irlan quer aprender a geografia da França." },
+        { "level": "A2-B1", "fr": "La géographie est sa passion.", "pt": "A geografia é a paixão dele." },
+        { "level": "B2", "fr": "La géographie d'une ville explique son histoire.", "pt": "A geografia de uma cidade explica a sua história." },
+        { "level": "C1-C2", "fr": "La géographie, loin d'être une liste de noms, est une lecture du monde.", "pt": "A geografia, longe de ser uma lista de nomes, é uma leitura do mundo." }
       ]
     },
     {
       "term": "apprendre",
       "definitionPt": "aprender",
-      "definitionFr": "Acquérir des connaissances.",
+      "definitionFr": "Acquérir une connaissance.",
       "inflections": ["j'apprends", "apprendre", "il apprend"],
       "ptTargets": ["aprender"],
       "examples": [
-        { "level": "A1", "fr": "J'apprends le français chaque jour.", "pt": "Eu aprendo francês todos os dias." },
-        { "level": "A2-B1", "fr": "Nous apprenons la géographie à l'école.", "pt": "Nós aprendemos geografia na escola." },
-        { "level": "B2", "fr": "Elle apprend l'histoire de la France.", "pt": "Ela aprende a história da França." },
-        { "level": "C1-C2", "fr": "Apprendre une langue, c'est s'ouvrir à une nouvelle culture.", "pt": "Aprender uma língua é se abrir para uma nova cultura." }
+        { "level": "A1", "fr": "J'apprends le français.", "pt": "Eu aprendo francês." },
+        { "level": "A2-B1", "fr": "Il apprend la géographie de la France.", "pt": "Ele aprende a geografia da França." },
+        { "level": "B2", "fr": "Apprendre une langue demande de la régularité.", "pt": "Aprender uma língua exige regularidade." },
+        { "level": "C1-C2", "fr": "Apprendre, c'est accepter de ne pas tout savoir.", "pt": "Aprender é aceitar não saber tudo." }
       ]
     },
     {
-      "term": "parler",
-      "definitionPt": "falar",
-      "definitionFr": "Utiliser une langue pour communiquer.",
-      "inflections": ["je parle", "parler", "il parle"],
-      "ptTargets": ["falar"],
+      "term": "ancien",
+      "definitionPt": "antigo",
+      "definitionFr": "Qui existe depuis longtemps.",
+      "inflections": ["ancien", "ancienne", "anciens", "anciennes"],
+      "ptTargets": ["antigo"],
       "examples": [
-        { "level": "A1", "fr": "Je parle un peu français.", "pt": "Eu falo um pouco de francês." },
-        { "level": "A2-B1", "fr": "Nous parlons français à la maison.", "pt": "Nós falamos francês em casa." },
-        { "level": "B2", "fr": "Elle parle français avec ses collègues.", "pt": "Ela fala francês com os seus colegas." },
-        { "level": "C1-C2", "fr": "Parler une langue couramment demande des années de pratique.", "pt": "Falar uma língua fluentemente exige anos de prática." }
+        { "level": "A1", "fr": "C'est une carte ancienne.", "pt": "É um mapa antigo." },
+        { "level": "A2-B1", "fr": "La Sorbonne est une université ancienne.", "pt": "A Sorbonne é uma universidade antiga." },
+        { "level": "B2", "fr": "Les livres anciens racontent une autre époque.", "pt": "Os livros antigos contam outra época." },
+        { "level": "C1-C2", "fr": "L'ancien et le moderne cohabitent parfois avec élégance.", "pt": "O antigo e o moderno convivem às vezes com elegância." }
       ]
     },
     {
-      "term": "sourire",
-      "definitionPt": "sorriso / sorrir",
-      "definitionFr": "Expression du visage qui montre la joie.",
-      "inflections": ["le sourire", "sourire", "il sourit"],
-      "ptTargets": ["sorriso", "sorrir"],
+      "term": "le livre",
+      "definitionPt": "o livro",
+      "definitionFr": "Ensemble de pages reliées.",
+      "inflections": ["le livre", "un livre", "des livres"],
+      "ptTargets": ["livro"],
       "examples": [
-        { "level": "A1", "fr": "Irlan regarde les cartes avec un sourire.", "pt": "Irlan olha os mapas com um sorriso." },
-        { "level": "A2-B1", "fr": "Le bouquiniste sourit aux clients.", "pt": "O bouquiniste sorri para os clientes." },
-        { "level": "B2", "fr": "Elle sourit en découvrant un vieux livre.", "pt": "Ela sorri ao descobrir um livro antigo." },
-        { "level": "C1-C2", "fr": "Le sourire du géographe devant une carte raconte sa passion.", "pt": "O sorriso do geógrafo diante de um mapa conta a sua paixão." }
-      ]
-    },
-    {
-      "term": "chaque",
-      "definitionPt": "cada",
-      "definitionFr": "Chacun, tous les...",
-      "inflections": ["chaque"],
-      "ptTargets": ["cada"],
-      "examples": [
-        { "level": "A1", "fr": "J'apprends chaque jour.", "pt": "Eu aprendo todos os dias." },
-        { "level": "A2-B1", "fr": "Chaque matin, je bois un café.", "pt": "Toda manhã, eu bebo um café." },
-        { "level": "B2", "fr": "Chaque quartier de Paris a son caractère.", "pt": "Cada bairro de Paris tem o seu caráter." },
-        { "level": "C1-C2", "fr": "Chaque livre ancien raconte une histoire unique.", "pt": "Cada livro antigo conta uma história única." }
+        { "level": "A1", "fr": "Les étudiants portent des livres.", "pt": "Os estudantes carregam livros." },
+        { "level": "A2-B1", "fr": "Ce livre est très intéressant.", "pt": "Este livro é muito interessante." },
+        { "level": "B2", "fr": "Un livre bien écrit vous accompagne longtemps.", "pt": "Um livro bem escrito acompanha a gente por muito tempo." },
+        { "level": "C1-C2", "fr": "Un livre peut ouvrir des mondes que l'on ne soupçonnait pas.", "pt": "Um livro pode abrir mundos que a gente nem suspeitava." }
       ]
     }
   ],
   "grammarTip": {
     "ruleTitle": "Le verbe apprendre au présent",
-    "explanationPt": "O verbo 'apprendre' (aprender) é irregular: j'apprends, tu apprends, il/elle apprend, nous apprenons, vous apprenez, ils/elles apprennent. Ex.: 'J'apprends chaque jour.'",
+    "explanationPt": "O verbo 'apprendre' (aprender) no presente: j'apprends, tu apprends, il apprend, nous apprenons, vous apprenez, ils apprennent. Ex.: 'J'apprends le français.'",
     "exampleFr": "J'apprends le français chaque jour.",
     "examplePt": "Eu aprendo francês todos os dias.",
-    "practiceQuestion": "Complete com a forma correta: 'Nous _____ la géographie de la France.'",
+    "practiceQuestion": "Complete: 'Nous _____ la géographie de la France.'",
     "options": ["apprenons", "apprends", "apprennent"],
     "correctIndex": 0,
     "points": [
       {
-        "ruleTitle": "Le verbe apprendre au présent",
-        "explanationPt": "'apprendre' no presente: j'apprends, il apprend, nous apprenons, ils apprennent. Ex.: 'Elle apprend l'histoire de la France.'",
-        "exampleFr": "Elle apprend l'histoire de la France à la Sorbonne.",
-        "examplePt": "Ela aprende a história da França na Sorbonne.",
-        "practiceQuestion": "Complete: 'Ils _____ le français à l'école.'",
-        "options": ["apprennent", "apprend", "apprenons"],
+        "ruleTitle": "apprendre au singulier",
+        "explanationPt": "'j'apprends', 'tu apprends', 'il/elle apprend'. Ex.: 'Il apprend la géographie.'",
+        "exampleFr": "Il apprend la géographie de la France.",
+        "examplePt": "Ele aprende a geografia da França.",
+        "practiceQuestion": "Complete: 'Elle _____ le français.'",
+        "options": ["apprend", "apprends", "apprenons"],
         "correctIndex": 0
       },
       {
-        "ruleTitle": "La négation ne...pas",
-        "explanationPt": "Para negar: 'ne' + verbo + 'pas'. Ex.: 'Je ne parle pas parfaitement français.' (Eu não falo francês perfeitamente.)",
-        "exampleFr": "Je ne parle pas encore parfaitement français.",
-        "examplePt": "Eu ainda não falo francês perfeitamente.",
-        "practiceQuestion": "Complete com a negação: 'Il ne _____ pas ce mot.'",
-        "options": ["comprend", "comprends", "comprendre"],
+        "ruleTitle": "apprendre au pluriel",
+        "explanationPt": "'nous apprenons', 'vous apprenez', 'ils apprennent'. Ex.: 'Ils apprennent le français.'",
+        "exampleFr": "Ils apprennent le français.",
+        "examplePt": "Eles aprendem francês.",
+        "practiceQuestion": "Complete: 'Ils _____ chaque jour.'",
+        "options": ["apprennent", "apprend", "apprenons"],
         "correctIndex": 0
       }
     ]
   },
   "quizQuestions": [
     {
-      "question": "Complete a frase do texto: 'Je ne _____ pas encore parfaitement français.'",
-      "options": ["parle", "parles", "parlent"],
+      "question": "O que é a Sorbonne?",
+      "options": ["Uma universidade antiga", "Uma livraria", "Um museu"],
       "correctIndex": 0,
-      "explanation": "No texto: 'Je ne parle pas encore parfaitement français.'"
+      "explanation": "No texto: 'La Sorbonne est une université très ancienne.'"
     },
     {
-      "question": "Ordene corretamente as palavras da frase: [ j'apprends / le français / chaque jour / , / ]",
-      "options": [
-        "J'apprends le français chaque jour.",
-        "Le français j'apprends chaque jour.",
-        "J'apprends chaque jour le français."
-      ],
+      "question": "O que Andréa procura para Irlan?",
+      "options": ["Um livro para colorir um mapa da França", "Um romance", "Um dicionário"],
       "correctIndex": 0,
-      "explanation": "A frase exata do texto é 'j'apprends chaque jour' — ordem: sujeito + verbo + complemento + advérbio."
+      "explanation": "No texto: 'Andréa cherche un livre pour colorier une carte de France.'"
     },
     {
-      "question": "Como se traduz: 'Nós aprendemos geografia'?",
-      "options": [
-        "Nous apprenons la géographie.",
-        "Nous apprends la géographie.",
-        "Nous apprenons géographie."
-      ],
+      "question": "O que Irlan fazia quando era pequeno?",
+      "options": ["Coloria mapas", "Lia jornais", "Escrevia cartas"],
       "correctIndex": 0,
-      "explanation": "'Nous apprenons' = nós aprendemos; 'la géographie' = a geografia."
+      "explanation": "No texto: 'Je coloriais des cartes quand j'étais petit.'"
     },
     {
-      "question": "Identifique a frase com ERRO de negação:",
-      "options": [
-        "Je ne parle pas français.",
-        "Elle ne comprend pas ce mot.",
-        "Nous ne parlons français pas."
-      ],
-      "correctIndex": 2,
-      "explanation": "O erro é 'Nous ne parlons français pas': a negação é 'ne + verbo + pas', então 'Nous ne parlons pas français.'"
+      "question": "O que os bouquinistes vendem à beira do Sena?",
+      "options": ["Livros antigos e mapas", "Frutas e legumes", "Roupas"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'Les bouquinistes vendent des livres anciens et des cartes.'"
     },
     {
-      "question": "O que Irlan quer aprender na França?",
-      "options": [
-        "A geografia da França",
-        "A culinária italiana",
-        "A história do Brasil"
-      ],
+      "question": "Que mapa Irlan encontra?",
+      "options": ["Um mapa antigo de Paris", "Um mapa do Brasil", "Um mapa da França colorido"],
       "correctIndex": 0,
-      "explanation": "No texto: 'Ici, je veux apprendre la géographie de la France.'"
+      "explanation": "No texto: 'Il trouve une carte ancienne de Paris.'"
     }
   ]
 }
