@@ -7,7 +7,7 @@
   "titlePt": "A maré enchente: quando o mar retoma a baía",
   "subtitleFr": "L'eau qui avance plus vite qu'un cheval et la leçon de géographie d'Irlan",
   "subtitlePt": "A água que avança mais rápido que um cavalo e a lição de geografia do Irlan",
-  "summaryPt": "Nesta Aula 3 (A2/B1), a família assiste à maré subir: a água avança pela baía mais rápido do que um cavalo galopa. Irlan explica o perigo da maré e a família se afasta da grève. O aluno aprende o contraste entre Imparfait (pano de fundo: la marée montait) e Passé Composé (ação pontual: la marée a recouvert le chemin), além do conector 'pendant que'.",
+  "summaryPt": "Nesta Aula 3 (A2/B1), o casal assiste à maré subir: a água avança pela baía mais rápido do que um cavalo galopa. Irlan explica o perigo da maré e o casal se afasta da grève. Na planche do Atlas, a pista só aparece na maré baixa — e um guia da baía reconhece o nome Tombelaine. O aluno aprende o contraste entre Imparfait (pano de fundo: la marée montait) e Passé Composé (ação pontual: la marée a recouvert le chemin), além do conector 'pendant que'.",
   "paragraphs": [
     {
       "id": 1,
@@ -28,6 +28,46 @@
       "id": 4,
       "fr": "Andréa a dit : « Merci, géographe ! » Irlan a souri : « Les marées sont dangereuses, il faut toujours les respecter. »",
       "pt": "Andréa disse: « Obrigada, geógrafo! » Irlan sorriu: « As marés são perigosas, é preciso sempre respeitá-las. »"
+    },
+    {
+      "id": 5,
+      "fr": "En sécurité sur la route, ils ont repris leur souffle. « La planche dit que la piste n'est visible qu'à marée basse », a dit Irlan.",
+      "pt": "Em segurança na estrada, eles retomaram o fôlego. « A prancha diz que a pista só é visível na maré baixa », disse Irlan."
+    },
+    {
+      "id": 6,
+      "fr": "Andréa a déplié l'Atlas. Le dessin montrait la baie, deux îlots, et une ligne de points qui reliait le Mont à Tombelaine.",
+      "pt": "Andréa desdobrou o Atlas. O desenho mostrava a baía, dois ilhotes e uma linha de pontos que ligava o Mont a Tombelaine."
+    },
+    {
+      "id": 7,
+      "fr": "« Une ligne de points... comme un chemin caché sous l'eau », a murmuré Andréa. « Il faut la suivre au bon moment. »",
+      "pt": "« Uma linha de pontos... como um caminho escondido sob a água », murmurou Andréa. « É preciso segui-la no momento certo. »"
+    },
+    {
+      "id": 8,
+      "fr": "« Mais la marée revient vite », a dit Irlan. « Si nous nous trompons, l'eau nous rattrape. »",
+      "pt": "« Mas a maré volta rápido », disse Irlan. « Se errarmos, a água nos alcança. »"
+    },
+    {
+      "id": 9,
+      "fr": "Un guide de la baie passait avec un groupe. « Ne marchez jamais seuls ! », criait-il. « La baie a des sables mouvants. »",
+      "pt": "Um guia da baía passava com um grupo. « Nunca andem sozinhos! », gritava ele. « A baía tem areias movediças. »"
+    },
+    {
+      "id": 10,
+      "fr": "Irlan et Andréa se sont regardés. « Nous devons trouver un guide. Quelqu'un qui connaît la baie et ses secrets. »",
+      "pt": "Irlan e Andréa se entreolharam. « Precisamos achar um guia. Alguém que conheça a baía e seus segredos. »"
+    },
+    {
+      "id": 11,
+      "fr": "Le guide s'est approché d'eux. « Vous cherchez Tombelaine ? Peu de visiteurs connaissent ce nom. »",
+      "pt": "O guia se aproximou deles. « Vocês procuram Tombelaine? Poucos visitantes conhecem esse nome. »"
+    },
+    {
+      "id": 12,
+      "fr": "Irlan a souri. « Nous cherchons un chemin. Et nous ne sommes pas les seuls. » Au loin, le bateau gris dérivait.",
+      "pt": "Irlan sorriu. « Procuramos um caminho. E não somos os únicos. » Ao longe, o barco cinza derivava."
     }
   ],
   "vocabularyDictionary": [
@@ -225,7 +265,7 @@
       "explanation": "Irlan gritou que a maré avança mais rápido que um cavalo a galope."
     },
     {
-      "question": "O que aconteceu com o caminho que a família tinha tomado?",
+      "question": "O que aconteceu com o caminho que eles tinham tomado?",
       "options": ["foi coberto pela maré", "virou asfalto", "sumiu na neblina"],
       "correctIndex": 0,
       "explanation": "Soudain, a maré recobriu o caminho que tinham tomado."
@@ -243,7 +283,7 @@
       "explanation": "Ação pontual: la marée a recouvert."
     },
     {
-      "question": "Qual lição Irlan deu à família?",
+      "question": "Qual lição Irlan deu a Andréa?",
       "options": ["respeitar sempre as marés", "nunca voltar ao Mont", "nadar na baía"],
       "correctIndex": 0,
       "explanation": "Irlan disse que as marés são perigosas e devem ser respeitadas."

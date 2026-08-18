@@ -7,7 +7,7 @@
   "titlePt": "A abadia e a Merveille: a joia do rochedo",
   "subtitleFr": "Des voûtes gothiques, des moines et dix siècles d'histoire",
   "subtitlePt": "Abóbadas góticas, monges e dez séculos de história",
-  "summaryPt": "Nesta Aula 4 (A2/B1), a família visita a abadia beneditina do Mont, coroada pela Merveille, obra-prima da arquitetura gótica. Eles passeiam pelas salas dos monges e admiram as voûtes e a luz. O aluno aprende os conectores 'quand' e 'lorsque' e os verbos reflexivos no passado (nous nous sommes arrêtés, il s'approchait).",
+  "summaryPt": "Nesta Aula 4 (A2/B1), o casal visita a abadia beneditina do Mont, coroada pela Merveille, obra-prima da arquitetura gótica. Eles passeiam pelas salas dos monges e admiram as voûtes e a luz — e Irlan percebe que a Merveille funciona como um relógio de sol. O aluno aprende os conectores 'quand' e 'lorsque' e os verbos reflexivos no passado (nous nous sommes arrêtés, il s'approchait). O aluno aprende os conectores 'quand' e 'lorsque' e os verbos reflexivos no passado (nous nous sommes arrêtés, il s'approchait).",
   "paragraphs": [
     {
       "id": 1,
@@ -26,8 +26,48 @@
     },
     {
       "id": 4,
-      "fr": "Quand la visite s'est terminée, la famille est montée sur la terrasse. La vue sur la baie était à couper le souffle.",
-      "pt": "Quando a visita terminou, a família subiu ao terraço. A vista sobre a baía era de tirar o fôlego."
+      "fr": "Quand la visite s'est terminée, ils sont montés sur la terrasse. La vue sur la baie était à couper le souffle.",
+      "pt": "Quando a visita terminou, eles subiram ao terraço. A vista sobre a baía era de tirar o fôlego."
+    },
+    {
+      "id": 5,
+      "fr": "Irlan a regardé les vitraux. La lumière entrait par les fenêtres hautes et dessinait des figures sur le sol.",
+      "pt": "Irlan olhou os vitrais. A luz entrava pelas janelas altas e desenhava figuras no chão."
+    },
+    {
+      "id": 6,
+      "fr": "« Regarde », a-t-il dit. « Quand le soleil est bas, la lumière forme une croix — et une flèche vers le nord. »",
+      "pt": "« Olha », disse ele. « Quando o sol está baixo, a luz forma uma cruz — e uma flecha para o norte. »"
+    },
+    {
+      "id": 7,
+      "fr": "Andréa a suivi la flèche du regard. « Le nord... c'est la direction de Tombelaine, l'îlot que la marée découvre. »",
+      "pt": "Andréa seguiu a flecha com o olhar. « O norte... é a direção de Tombelaine, o ilhote que a maré descobre. »"
+    },
+    {
+      "id": 8,
+      "fr": "« La Merveille est un cadran solaire », a murmuré Irlan. « Les moines lisaient l'heure dans la lumière. Manoel aussi. »",
+      "pt": "« A Merveille é um relógio de sol », murmurou Irlan. « Os monges liam a hora na luz. Manoel também. »"
+    },
+    {
+      "id": 9,
+      "fr": "Dans le cloître, ils ont trouvé le calme. Le vent passait entre les colonnes, portant l'odeur de la mer.",
+      "pt": "No claustro, eles encontraram a calma. O vento passava entre as colunas, trazendo o cheiro do mar."
+    },
+    {
+      "id": 10,
+      "fr": "« La planche 3 cache une heure exacte », a dit Irlan. « Une heure où la lumière et la marée se rencontrent. »",
+      "pt": "« A prancha 3 esconde uma hora exata », disse Irlan. « Uma hora em que a luz e a maré se encontram. »"
+    },
+    {
+      "id": 11,
+      "fr": "Un moine âgé balayait la pierre. « Vous cherchez l'heure bleue », a-t-il dit sans lever les yeux. « Elle vient entre chien et loup. »",
+      "pt": "Um monge idoso varria a pedra. « Vocês procuram a hora azul », disse ele sem erguer os olhos. « Ela chega entre cão e lobo, ao anoitecer. »"
+    },
+    {
+      "id": 12,
+      "fr": "Irlan et Andréa ont échangé un regard. L'heure bleue. C'était là, entre le jour et la nuit, que la piste se révélerait.",
+      "pt": "Irlan e Andréa trocaram um olhar. A hora azul. Era ali, entre o dia e a noite, que a pista se revelaria."
     }
   ],
   "vocabularyDictionary": [
@@ -191,8 +231,8 @@
   "grammarTip": {
     "ruleTitle": "Les connecteurs : quand et lorsque",
     "explanationPt": "'Quand' e 'lorsque' significam 'quando' e introduzem uma ação que acontece ao mesmo tempo ou logo depois de outra. Ex.: 'Lorsque nous sommes entrés, nous sommes restés sans voix'.",
-    "exampleFr": "Quand la visite s'est terminée, la famille est montée sur la terrasse.",
-    "examplePt": "Quando a visita terminou, a família subiu ao terraço.",
+    "exampleFr": "Quand la visite s'est terminée, ils sont montés sur la terrasse.",
+    "examplePt": "Quando a visita terminou, eles subiram ao terraço.",
     "practiceQuestion": "Complete: « ___ nous sommes entrés, nous avons été émerveillés. »",
     "options": ["Lorsque", "Mais", "Parce que"],
     "correctIndex": 0,
@@ -243,10 +283,10 @@
       "explanation": "Verbo pronominal com être: nous nous sommes arrêtés."
     },
     {
-      "question": "Onde a família subiu no final da visita?",
-      "options": ["na terrasse", "no telhado da Mère Poulard", "no estacionamento"],
+      "question": "Onde o casal subiu no final da visita?",
+      "options": ["na terrasse", "no telhado de uma loja", "no estacionamento"],
       "correctIndex": 0,
-      "explanation": "A família subiu ao terraço, com vista de tirar o fôlego."
+      "explanation": "O casal subiu ao terraço, com vista de tirar o fôlego."
     }
   ]
 }

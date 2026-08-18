@@ -7,7 +7,7 @@
   "titlePt": "O Mont Saint-Michel: a baía no ritmo das marés",
   "subtitleFr": "L'arrivée en Normandie, le rocher au loin et le géographe qui retient son souffle",
   "subtitlePt": "A chegada na Normandia, o rochedo ao longe e o geógrafo que prende a respiração",
-  "summaryPt": "Nesta Aula 1 (A2/B1) da Cidade #4, a família chega de trem a Pontorson e pega a navette até o Mont Saint-Michel. Na maré baixa, o rochedo aparece cercado por uma baía imensa. Irlan, geógrafo, explica as marés à família. O aluno aprende o Imparfait de l'Indicatif (la baie était immense, le ciel était gris) e a descrição de paisagens no passado.",
+  "summaryPt": "Nesta Aula 1 (A2/B1) da Cidade #4, o casal recém-casado chega de trem a Pontorson e pega a navette até o Mont Saint-Michel. Na maré baixa, o rochedo aparece cercado por uma baía imensa. Irlan, geógrafo, explica as marés a Andréa — e na terceira planche do Atlas reconhece exatamente essa ilha. O aluno aprende o Imparfait de l'Indicatif (la baie était immense, le ciel était gris) e a descrição de paisagens no passado.",
   "paragraphs": [
     {
       "id": 1,
@@ -21,13 +21,53 @@
     },
     {
       "id": 3,
-      "fr": "Il a expliqué : « Ici, les marées sont parmi les plus fortes d'Europe. L'eau peut monter de quinze mètres ! » Andréa et Íris écoutaient, émerveillées.",
-      "pt": "Ele explicou: « Aqui, as marés estão entre as mais fortes da Europa. A água pode subir quinze metros! » Andréa e Íris escutavam, encantadas."
+      "fr": "Il a expliqué : « Ici, les marées sont parmi les plus fortes d'Europe. L'eau peut monter de quinze mètres ! » Andréa écoutait, émerveillée.",
+      "pt": "Ele explicou: « Aqui, as marés estão entre as mais fortes da Europa. A água pode subir quinze metros! » Andréa escutava, encantada."
     },
     {
       "id": 4,
-      "fr": "La famille marchait doucement vers la porte du village. Le vent soufflait et les mouettes criaient au-dessus du rocher.",
-      "pt": "A família caminhava devagar em direção à porta do vilarejo. O vento soprava e as gaivotas gritavam sobre o rochedo."
+      "fr": "Ils marchaient doucement vers la porte du village. Le vent soufflait et les mouettes criaient au-dessus du rocher.",
+      "pt": "Eles caminhavam devagar em direção à porta do vilarejo. O vento soprava e as gaivotas gritavam sobre o rochedo."
+    },
+    {
+      "id": 5,
+      "fr": "Dans sa poche, Irlan tenait l'Atlas. La troisième planche montrait exactement cette image : une île, une abbaye, et la mer qui monte deux fois par jour.",
+      "pt": "No bolso, Irlan segurava o Atlas. A terceira prancha mostrava exatamente essa imagem: uma ilha, uma abadia e o mar que sobe duas vezes por dia."
+    },
+    {
+      "id": 6,
+      "fr": "« La planche ne se lit qu'à marée basse », a chuchoté Andréa. « Nous devons trouver le bon moment. »",
+      "pt": "« A prancha só se lê na maré baixa », sussurrou Andréa. « Precisamos achar o momento certo. »"
+    },
+    {
+      "id": 7,
+      "fr": "Irlan a regardé la baie. « La mer peut monter à la vitesse d'un cheval au galop. Il faudra être précis, comme sur une carte. »",
+      "pt": "Irlan olhou a baía. « O mar pode subir à velocidade de um cavalo a galope. Será preciso ser preciso, como num mapa. »"
+    },
+    {
+      "id": 8,
+      "fr": "Sur la passerelle, un homme au manteau gris observait le rocher. Il n'était pas monté dans la même navette.",
+      "pt": "Na passarela, um homem de sobretudo cinza observava o rochedo. Ele não tinha subido na mesma van."
+    },
+    {
+      "id": 9,
+      "fr": "« On nous suit », a murmuré Andréa. Irlan a serré sa main : « Alors on avance plus vite. Le Mont nous protège. »",
+      "pt": "« Estão nos seguindo », murmurou Andréa. Irlan apertou a mão dela: « Então avançamos mais rápido. O Mont nos protege. »"
+    },
+    {
+      "id": 10,
+      "fr": "Ils sont entrés par la porte du village. Derrière eux, la baie brillait comme un miroir.",
+      "pt": "Eles entraram pela porta do vilarejo. Atrás deles, a baía brilhava como um espelho."
+    },
+    {
+      "id": 11,
+      "fr": "« La marée va monter ce soir », a dit Irlan. « Si la planche se lit à marée basse, nous avons jusqu'au coucher du soleil. »",
+      "pt": "« A maré vai subir esta noite », disse Irlan. « Se a prancha se lê na maré baixa, temos até o pôr do sol. »"
+    },
+    {
+      "id": 12,
+      "fr": "Au-dessus du rocher, un goéland a crié. Irlan a levé les yeux : la flèche de l'abbaye semblait indiquer le nord. « La carte nous regarde. »",
+      "pt": "Acima do rochedo, uma gaivota gritou. Irlan ergueu os olhos: a flecha da abadia parecia indicar o norte. « O mapa nos observa. »"
     }
   ],
   "vocabularyDictionary": [
@@ -219,7 +259,7 @@
   },
   "quizQuestions": [
     {
-      "question": "Como a família chegou ao Mont Saint-Michel?",
+      "question": "Como Irlan e Andréa chegaram ao Mont Saint-Michel?",
       "options": ["de trem até Pontorson e depois de navette", "de avião", "a pé desde Lille"],
       "correctIndex": 0,
       "explanation": "Eles pegaram o trem até Pontorson e a navette até o Mont."
@@ -246,7 +286,7 @@
       "question": "O que Irlan fazia na vida e que explica seu fascínio pelo Mont?",
       "options": ["era geógrafo", "era cozinheiro", "era mecânico"],
       "correctIndex": 0,
-      "explanation": "Irlan é geógrafo e adorou explicar as marés para a família."
+      "explanation": "Irlan é geógrafo e adorou explicar as marés para Andréa."
     }
   ]
 }
