@@ -1,71 +1,82 @@
 # #1 Paris — A1
 
-**129 palavras** ainda precisam aparecer nos textos das aulas desta cidade.
+**147 palavras** ainda precisam aparecer nos textos das aulas desta cidade.
 
 Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aventura do Irlan.
 
-## A1 (129)
+## A1 (147)
 
+- [ ] **accueillant** — acolhedor
 - [ ] **aimer une publication** — curtir uma publicação
 - [ ] **allumer l’ordinateur** — ligar o computador
-- [ ] **balayer** — varrer
+- [ ] **aujourd** — hoje / no dia de hoje (primeira parte de 'aujourd'hui')
+- [ ] **balayer le sol** — varrer o chão
 - [ ] **c** — isto / isso / o que (pronome demonstrativo impessoal, usado em 'c'est')
+- [ ] **chaleureusement** — calorosamente / com calor
 - [ ] **check** — check (registro de entrada, check-in)
 - [ ] **chercher sur internet** — pesquisar na internet
 - [ ] **commencent** — começam / iniciam (do verbo commencer)
-- [ ] **crêperie** — creperia / restaurante de crepes
-- [ ] **déposer de l’argent** — depositar dinheiro
-- [ ] **détacher** — desamarrar
-- [ ] **économiser** — economizar
-- [ ] **en désordre** — desarrumado
+- [ ] **courageux** — corajoso
+- [ ] **croix verte** — cruz verde / símbolo de farmácia
+- [ ] **demander son chemin** — perguntar o caminho
+- [ ] **désagréable** — desagradável
+- [ ] **dix-neuf** — dezenove
+- [ ] **égoïste** — egoísta
+- [ ] **énergique** — enérgico
 - [ ] **envoyer une lettre** — enviar uma carta
 - [ ] **éteindre l’ordinateur** — desligar o computador
+- [ ] **excusez-moi** — com licença
 - [ ] **faire la cuisine** — cozinhar
 - [ ] **faire une vidéo** — fazer um vídeo
 - [ ] **gagner un match** — vencer uma partida
 - [ ] **in** — em / dentro (prefixo ou expressão como check-in)
-- [ ] **jusqu** — até / até a (usado em 'jusqu'à')
-- [ ] **l’allumette** — o fósforo
-- [ ] **l’ananas** — o abacaxi
-- [ ] **l’armoire** — o armário
-- [ ] **l’aubergine** — a berinjela
+- [ ] **jouer du piano** — tocar piano
+- [ ] **l’adoucissant** — o amaciante
+- [ ] **l’ampoule** — a lâmpada
+- [ ] **l’araignée** — a aranha
+- [ ] **l’aspirateur** — o aspirador
+- [ ] **l’autoroute** — a rodovia
 - [ ] **l’égouttoir** — o escorredor de louça
 - [ ] **l’évier** — a pia
 - [ ] **l’imprimante** — a impressora
 - [ ] **l’instituteur** — o professor primário
 - [ ] **l’interrupteur** — o interruptor
 - [ ] **l’oncle** — o tio
-- [ ] **la batterie (téléphone)** — a bateria (celular)
-- [ ] **la brosse** — a escova
-- [ ] **la cafetière** — a cafeteira
-- [ ] **la chantilly** — o chantilly
-- [ ] **la clé USB** — o pen drive
-- [ ] **la clôture** — a cerca
-- [ ] **la console** — o console
-- [ ] **la cuisine équipée** — a cozinha equipada
-- [ ] **la fumée** — a fumaça
-- [ ] **la haie** — a cerca viva
-- [ ] **la louche** — a concha
-- [ ] **la moquette** — o carpete
+- [ ] **la banlieue** — o subúrbio / a periferia
+- [ ] **la bouilloire** — a chaleira
+- [ ] **la brosse à dents** — a escova de dentes
+- [ ] **la chaîne de télévision** — o canal de TV
+- [ ] **la clé à molette** — a chave inglesa
+- [ ] **la clinique** — a clínica
+- [ ] **la coiffeuse** — a cabeleireira
+- [ ] **la courgette** — a abobrinha
+- [ ] **la dent** — o dente
+- [ ] **la gymnastique** — a ginástica
+- [ ] **la lessive** — o sabão em pó
+- [ ] **la médaille** — a medalha
+- [ ] **la noix** — a noz
 - [ ] **la peinture murale** — a tinta de parede
 - [ ] **la perceuse** — a furadeira
 - [ ] **la planche à repasser** — a tábua de passar
-- [ ] **la poissonnerie** — a peixaria
-- [ ] **la poupée** — a boneca
-- [ ] **la rallonge** — a extensão
-- [ ] **la salle à manger** — a sala de jantar
-- [ ] **la salle de sport** — a academia
-- [ ] **la série** — a série
-- [ ] **la serviette de bain** — a toalha de banho
-- [ ] **la souris** — o rato
-- [ ] **la tablette** — o tablet
-- [ ] **la tarte aux pommes** — a torta de maçã
-- [ ] **la tisane** — o chá de ervas
-- [ ] **la vidéo en ligne** — o vídeo online
-- [ ] **laisser un message** — deixar um recado
-- [ ] **laver le linge** — lavar a roupa
-- [ ] **le basket** — o basquete
-- [ ] **le câble** — o cabo
+- [ ] **la poire** — a pera
+- [ ] **la pomme de terre** — a batata
+- [ ] **la prune** — a ameixa
+- [ ] **la quiche** — a quiche
+- [ ] **la raquette** — a raquete
+- [ ] **la salade de tomates** — a salada de tomate
+- [ ] **la salle de bain** — o banheiro
+- [ ] **la scie** — o serrote
+- [ ] **la serpillière** — o rodo / o pano de chão
+- [ ] **la sonnette** — a campainha
+- [ ] **la souris d’ordinateur** — o mouse
+- [ ] **la tante** — a tia
+- [ ] **la télécommande** — o controle remoto
+- [ ] **la véranda** — a varanda / a varanda fechada
+- [ ] **laid** — feio
+- [ ] **laver la vaisselle** — lavar a louça
+- [ ] **le balai** — a vassoura
+- [ ] **le brie** — o brie
+- [ ] **le café au lait** — o café com leite
 - [ ] **le camping** — o camping
 - [ ] **le clavier** — o teclado
 - [ ] **le commissariat** — a delegacia
@@ -75,52 +86,58 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **le drap** — o lençol
 - [ ] **le footballeur** — o jogador de futebol
 - [ ] **le garage** — a garagem
-- [ ] **le grille-pain** — a torradeira
-- [ ] **le handball** — o handebol
-- [ ] **le jeu vidéo** — o videogame
-- [ ] **le journal télévisé** — o telejornal
-- [ ] **le lave-linge** — a máquina de lavar
-- [ ] **le mail** — o e-mail
-- [ ] **le micro-ondes** — o micro-ondas
-- [ ] **le mixeur** — o liquidificador / o mixer
-- [ ] **le nom d’utilisateur** — o nome de usuário
-- [ ] **le parquet** — o piso de madeira
+- [ ] **le gratin** — o gratinado
+- [ ] **le gruyère** — o gruyère
+- [ ] **le jeu télévisé** — o programa de auditório
+- [ ] **le journal intime** — o diário
+- [ ] **le jus de pomme** — o suco de maçã
+- [ ] **le lave-vaisselle** — a lava-louças
+- [ ] **le marteau** — o martelo
+- [ ] **le minuteur** — o timer
+- [ ] **le mot de passe** — a senha
+- [ ] **le papier peint** — o papel de parede
+- [ ] **le passage piéton** — a faixa de pedestres
 - [ ] **le piano** — o piano
 - [ ] **le poisson rouge** — o peixinho dourado
 - [ ] **le portable** — o celular
-- [ ] **le produit de nettoyage** — o produto de limpeza
+- [ ] **le poulet rôti** — o frango assado
+- [ ] **le pull** — o suéter
 - [ ] **le rasoir** — o barbeador
 - [ ] **le renard** — a raposa
 - [ ] **le robinet** — a torneira
 - [ ] **le rouleau** — o rolo (de pintura)
-- [ ] **le seau** — o balde
-- [ ] **le shampooing** — o xampu
-- [ ] **le stylo** — a caneta
-- [ ] **le thé vert** — o chá verde
-- [ ] **le tiroir** — a gaveta
-- [ ] **le tournevis** — a chave de fenda
-- [ ] **le vélo d’enfant** — a bicicleta infantil
+- [ ] **le saumon** — o salmão
+- [ ] **le sèche-linge** — a secadora
+- [ ] **le site internet** — o site
+- [ ] **le talk-show** — o talk show
+- [ ] **le thon** — o atum
+- [ ] **le torchon** — o pano de prato
+- [ ] **le transformateur** — o transformador
+- [ ] **le vinaigre** — o vinagre
 - [ ] **le yaourt** — o iogurte
 - [ ] **les céréales** — os cereais
 - [ ] **les crêpes salées** — os crepes salgados
 - [ ] **les œufs brouillés** — os ovos mexidos
 - [ ] **les toilettes** — o banheiro (sanitário)
 - [ ] **mal de tête** — dor de cabeça / enxaqueca
-- [ ] **moche** — feio (coloquial)
-- [ ] **mou** — mole
-- [ ] **nettoyer** — limpar
-- [ ] **opaque** — opaco
+- [ ] **mince** — magro
+- [ ] **mordre** — morder
+- [ ] **musclé** — musculoso
+- [ ] **nourrir le chat** — alimentar o gato
+- [ ] **octobre** — outubro
+- [ ] **pardon** — desculpe / perdão
 - [ ] **passe Navigo** — passe Navigo / cartão Navigo
 - [ ] **passif** — passivo
 - [ ] **perdre un match** — perder uma partida
-- [ ] **prendre un bain** — tomar banho de banheira
-- [ ] **promener (se)** — Passear, caminhar por lazer (verbo pronominal)
-- [ ] **quatre-vingt-dix** — noventa
-- [ ] **ranger la chambre** — arrumar o quarto
-- [ ] **recevoir un colis** — receber uma encomenda
-- [ ] **regarder la télé** — assistir TV
-- [ ] **repasser** — passar (roupa)
-- [ ] **reposer (se)** — Descansar, repousar (verbo pronominal)
+- [ ] **poser une question** — fazer uma pergunta
+- [ ] **prendre une douche** — tomar banho (chuveiro)
+- [ ] **promener le chien** — passear com o cachorro
+- [ ] **qui est-ce** — quem é
+- [ ] **rarement** — raramente
+- [ ] **redémarrer** — reiniciar
+- [ ] **regarder une vidéo** — assistir a um vídeo
+- [ ] **répondre au téléphone** — atender o telefone
+- [ ] **rester à la maison** — ficar em casa
 - [ ] **s’entraîner** — treinar
 - [ ] **se brosser les dents** — escovar os dentes
 - [ ] **se connecter** — conectar-se
@@ -132,6 +149,7 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **souple** — flexível / macio
 - [ ] **sûrement** — certamente
 - [ ] **toucher l’écran** — tocar na tela
-- [ ] **trilha** — trilha / caminho cultural de exploração
-- [ ] **vingt et un** — vinte e um
-- [ ] **Wi-Fi** — Wi-Fi / rede sem fio
+- [ ] **traverser la rue** — atravessar a rua
+- [ ] **trouver son chemin** — achar o caminho
+- [ ] **valider son billet** — validar o bilhete
+- [ ] **wi** — Wi (parte da palavra Wi-Fi)

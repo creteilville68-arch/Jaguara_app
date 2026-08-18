@@ -1473,7 +1473,6 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **l’enchantement** — o encantamento
 - [ ] **l’enclume** — a bigorna
 - [ ] **l’encornet** — a lula
-- [ ] **l’encre** — a tinta
 - [ ] **l’encyclopédie** — a enciclopédia
 - [ ] **l’encyclopédiste** — o enciclopedista
 - [ ] **l’endettement** — o endividamento
@@ -2632,6 +2631,7 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **la pression atmosphérique** — a pressão atmosférica
 - [ ] **la prestation sociale** — o benefício social
 - [ ] **la primatologie** — a primatologia
+- [ ] **la principale** — a oração principal
 - [ ] **la probation** — a probação
 - [ ] **la profondeur** — a profundidade
 - [ ] **la prolixité** — a prolixidade
