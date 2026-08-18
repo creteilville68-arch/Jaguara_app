@@ -1,252 +1,292 @@
 {
   "id": "lille_lesson_25",
   "cityId": "lille",
-  "domain": "Cotidiano",
+  "domain": "Viagem",
   "level": "Básico (A2)",
-  "titleFr": "Au revoir Lille, vers le Mont Saint-Michel",
-  "titlePt": "Adeus Lille, rumo ao Mont Saint-Michel",
-  "subtitleFr": "Le train part de la gare Lille-Flandres vers la Normandie",
-  "subtitlePt": "O trem parte da gare Lille-Flandres rumo à Normandia",
-  "summaryPt": "Nesta Aula 25 (A2), a família deixa Lille de trem, da gare Lille-Flandres, em direção ao Mont Saint-Michel, na Normandia. No caminho, Irlan revisa tudo o que viu na capital das Flandres. O aluno consolida o Passé Composé (avoir e être), o futur proche e o vocabulário da jornada — a partida final de Lille.",
+  "titleFr": "Au revoir Lille, vers le Mont-Saint-Michel",
+  "titlePt": "Adeus Lille, rumo ao Mont-Saint-Michel",
+  "subtitleFr": "Dans le train du matin, une silhouette grise lit le journal",
+  "subtitlePt": "No trem da manhã, uma silhueta cinza lê o jornal",
+  "summaryPt": "Nesta Aula 25 (A2), Irlan e Andréa deixam Lille de trem rumo ao Mont-Saint-Michel. No vagão, reconhecem um homem de sobretudo cinza que os segue desde a gare. Eles descem numa estação e se perdem na multidão, guiados pela carte. A onça desenhada no canto da planche parece sorrir: o Mont os espera. O aluno pratica os verbos de deslocamento (monter dans, descendre à, courir vers) e as preposições de direção.",
   "paragraphs": [
     {
       "id": 1,
-      "fr": "Ce matin, nous sommes partis de la gare Lille-Flandres. Nous avons pris le train vers la Normandie. « Au revoir, Lille ! » a crié Íris par la fenêtre.",
-      "pt": "Esta manhã, partimos da gare Lille-Flandres. Pegamos o trem rumo à Normandia. « Adeus, Lille! » gritou Íris pela janela."
+      "fr": "Le matin, la gare était encore sombre. Ils ont pris leurs valises et ils ont marché vers le quai. « Au revoir, Lille », a dit Andréa.",
+      "pt": "De manhã, a estação ainda estava escura. Eles pegaram as malas e caminharam até a plataforma. « Adeus, Lille », disse Andréa."
     },
     {
       "id": 2,
-      "fr": "Dans le train, Irlan a regardé les photos : la Grand-Place, la Braderie, le beffroi, la Porte de Paris. « Nous avons vu tant de choses ici », a-t-il murmuré.",
-      "pt": "No trem, Irlan olhou as fotos: a Grand-Place, a Braderie, o beffroi, a Porte de Paris. « Vimos tantas coisas aqui », murmurou."
+      "fr": "Le train pour la Normandie est arrivé à sept heures. Ils sont montés et se sont assis près de la fenêtre.",
+      "pt": "O trem para a Normandia chegou às sete. Eles subiram e se sentaram perto da janela."
     },
     {
       "id": 3,
-      "fr": "Andréa a souri : « Nous sommes arrivés à Lille avec deux valises. Nous partons avec des souvenirs et des amis. » Elle a serré la main d'Irlan.",
-      "pt": "Andréa sorriu: « Chegamos a Lille com duas malas. Partimos com lembranças e amigos. » Ela apertou a mão de Irlan."
+      "fr": "« Nous avons trouvé un nom à Lille », a dit Irlan. « Et nous avons réveillé quelqu'un qui ne voulait pas être réveillé. »",
+      "pt": "« Achamos um nome em Lille », disse Irlan. « E acordamos alguém que não queria ser acordado. »"
     },
     {
       "id": 4,
-      "fr": "Irlan a regardé les champs défiler. « Quand je suis arrivé en France, j'étais livreur et je ne connaissais personne. Aujourd'hui, je voyage avec ma femme et ma fille. La vie est belle. »",
-      "pt": "Irlan olhou os campos passarem. « Quando cheguei à França, era entregador e não conhecia ninguém. Hoje, viajo com minha esposa e minha filha. A vida é bela. »"
+      "fr": "Le train a quitté la gare. La ville a glissé derrière la vitre, puis les champs sont apparus, verts et calmes.",
+      "pt": "O trem deixou a estação. A cidade deslizou atrás do vidro, e depois os campos apareceram, verdes e calmos."
+    },
+    {
+      "id": 5,
+      "fr": "Andréa a sorti l'Atlas du sac. Sur la troisième planche, la mer dessinée semblait bouger avec la lumière.",
+      "pt": "Andréa tirou o Atlas da bolsa. Na terceira prancha, o mar desenhado parecia se mover com a luz."
+    },
+    {
+      "id": 6,
+      "fr": "« Le Mont-Saint-Michel est une île à marée haute », a-t-elle lu. « Nous devons arriver avant que la mer ne monte. »",
+      "pt": "« O Mont-Saint-Michel é uma ilha na maré alta », leu ela. « Precisamos chegar antes que o mar suba. »"
+    },
+    {
+      "id": 7,
+      "fr": "Irlan a regardé le couloir du wagon. À l'autre bout, un homme lisait un journal, le visage caché. Il n'avait pas bougé depuis le départ.",
+      "pt": "Irlan olhou o corredor do vagão. Na outra ponta, um homem lia um jornal, com o rosto escondido. Ele não tinha se mexido desde a partida."
+    },
+    {
+      "id": 8,
+      "fr": "« Tu le vois ? » a murmuré Irlan. « Il est monté à Lille, comme nous. » Andréa a serré l'Atlas contre elle.",
+      "pt": "« Você o vê? » murmurou Irlan. « Ele subiu em Lille, como nós. » Andréa apertou o Atlas contra si."
+    },
+    {
+      "id": 9,
+      "fr": "« Nous descendons à la prochaine gare », a chuchoté Andréa. « On change de wagon, on se perd dans la foule. »",
+      "pt": "« Descemos na próxima estação », sussurrou Andréa. « Trocamos de vagão, nos perdemos na multidão. »"
+    },
+    {
+      "id": 10,
+      "fr": "À la gare de Rennes, ils sont descendus vite. L'homme au journal s'est levé aussi, mais une famille nombreuse l'a bloqué dans le couloir.",
+      "pt": "Na estação de Rennes, eles desceram rápido. O homem do jornal também se levantou, mas uma família numerosa o bloqueou no corredor."
+    },
+    {
+      "id": 11,
+      "fr": "Ils ont couru vers un autre quai. « La carte nous protège », a souri Irlan, essoufflé. « Elle nous montre toujours une sortie. »",
+      "pt": "Eles correram para outra plataforma. « O mapa nos protege », sorriu Irlan, ofegante. « Ele sempre nos mostra uma saída. »"
+    },
+    {
+      "id": 12,
+      "fr": "Quand le train est reparti, ils ont vu l'homme gris rester sur le quai. Irlan a ouvert l'Atlas : la onça dessinée au coin de la planche semblait sourire. « Le Mont nous attend. »",
+      "pt": "Quando o trem partiu de novo, eles viram o homem cinza ficar na plataforma. Irlan abriu o Atlas: a onça desenhada no canto da prancha parecia sorrir. « O Mont nos espera. »"
     }
   ],
   "vocabularyDictionary": [
     {
-      "term": "au revoir",
-      "definitionPt": "adeus, até logo",
-      "definitionFr": "Formule de départ.",
-      "inflections": ["au revoir", "au revoir !", "dire au revoir"],
-      "ptTargets": ["adeus", "até logo"],
+      "term": "la gare",
+      "definitionPt": "a estação (de trem)",
+      "definitionFr": "Bâtiment où s'arrêtent les trains.",
+      "inflections": ["la gare", "une gare", "des gares"],
+      "ptTargets": ["estação", "gare"],
       "examples": [
-        { "level": "A1", "fr": "Au revoir, à demain !", "pt": "Até logo, até amanhã!" },
-        { "level": "A2-B1", "fr": "« Au revoir, Lille ! » a crié Íris.", "pt": "« Adeus, Lille! » gritou Íris." },
-        { "level": "B2", "fr": "Dire au revoir à une ville qu'on aime, c'est promettre de revenir.", "pt": "Despedir-se de uma cidade que se ama é prometer voltar." },
-        { "level": "C1-C2", "fr": "Au revoir n'est pas un adieu : c'est un rendez-vous avec le souvenir.", "pt": "Au revoir não é um adeus: é um encontro marcado com a lembrança." }
+        { "level": "A1", "fr": "La gare est grande.", "pt": "A estação é grande." },
+        { "level": "A2-B1", "fr": "Le train part de la gare à sept heures.", "pt": "O trem parte da estação às sete." },
+        { "level": "B2", "fr": "La gare était encore sombre dans le petit matin.", "pt": "A estação ainda estava escura no início da manhã." },
+        { "level": "C1-C2", "fr": "Une gare est un seuil : on y laisse une ville et on y attend une autre.", "pt": "Uma estação é uma soleira: deixa-se uma cidade e espera-se outra." }
       ]
     },
     {
-      "term": "le voyage",
-      "definitionPt": "a viagem",
-      "definitionFr": "Déplacement vers un autre lieu.",
-      "inflections": ["le voyage", "un voyage", "des voyages"],
-      "ptTargets": ["viagem"],
+      "term": "le quai",
+      "definitionPt": "a plataforma (de estação)",
+      "definitionFr": "Plateforme où l'on attend le train.",
+      "inflections": ["le quai", "un quai", "des quais"],
+      "ptTargets": ["plataforma", "cais"],
       "examples": [
-        { "level": "A1", "fr": "Le voyage est long.", "pt": "A viagem é longa." },
-        { "level": "A2-B1", "fr": "Le voyage vers la Normandie dure trois heures.", "pt": "A viagem para a Normandia dura três horas." },
-        { "level": "B2", "fr": "Ce voyage a changé notre regard sur la France.", "pt": "Esta viagem mudou nosso olhar sobre a França." },
-        { "level": "C1-C2", "fr": "Le plus beau voyage est celui que l'on fait avec ceux qu'on aime.", "pt": "A mais bela viagem é a que se faz com quem se ama." }
-      ]
-    },
-    {
-      "term": "le souvenir",
-      "definitionPt": "a lembrança, a recordação",
-      "definitionFr": "Ce que l'on garde en mémoire.",
-      "inflections": ["le souvenir", "un souvenir", "des souvenirs"],
-      "ptTargets": ["lembrança", "recordação"],
-      "examples": [
-        { "level": "A1", "fr": "Le souvenir est doux.", "pt": "A lembrança é doce." },
-        { "level": "A2-B1", "fr": "Nous partons avec des souvenirs de Lille.", "pt": "Partimos com lembranças de Lille." },
-        { "level": "B2", "fr": "Chaque ville visitée laisse un souvenir unique.", "pt": "Cada cidade visitada deixa uma lembrança única." },
-        { "level": "C1-C2", "fr": "Les souvenirs sont les seules valises qui ne pèsent jamais.", "pt": "As lembranças são as únicas malas que nunca pesam." }
-      ]
-    },
-    {
-      "term": "la Normandie",
-      "definitionPt": "a Normandia",
-      "definitionFr": "Région du nord-ouest de la France.",
-      "inflections": ["la Normandie", "en Normandie", "normand"],
-      "ptTargets": ["Normandia"],
-      "examples": [
-        { "level": "A1", "fr": "La Normandie est au nord-ouest.", "pt": "A Normandia fica no noroeste." },
-        { "level": "A2-B1", "fr": "Le train va vers la Normandie.", "pt": "O trem vai para a Normandia." },
-        { "level": "B2", "fr": "La Normandie est célèbre pour ses plages et son histoire.", "pt": "A Normandia é famosa por suas praias e sua história." },
-        { "level": "C1-C2", "fr": "Entre la Flandre et la Normandie, la France raconte deux de ses plus belles pages.", "pt": "Entre a Flandres e a Normandia, a França conta duas de suas mais belas páginas." }
+        { "level": "A1", "fr": "Le train est sur le quai.", "pt": "O trem está na plataforma." },
+        { "level": "A2-B1", "fr": "Ils ont couru vers un autre quai.", "pt": "Eles correram para outra plataforma." },
+        { "level": "B2", "fr": "Les voyageurs attendaient sur le quai froid.", "pt": "Os viajantes esperavam na plataforma fria." },
+        { "level": "C1-C2", "fr": "Sur un quai, chaque adieu pèse le poids d'un billet de train.", "pt": "Numa plataforma, cada despedida pesa o peso de uma passagem de trem." }
       ]
     },
     {
       "term": "la fenêtre",
       "definitionPt": "a janela",
-      "definitionFr": "Ouverture dans un mur, avec du verre.",
+      "definitionFr": "Ouverture vitrée dans un mur ou un train.",
       "inflections": ["la fenêtre", "une fenêtre", "des fenêtres"],
       "ptTargets": ["janela"],
       "examples": [
         { "level": "A1", "fr": "La fenêtre est ouverte.", "pt": "A janela está aberta." },
-        { "level": "A2-B1", "fr": "Íris a regardé la ville par la fenêtre.", "pt": "Íris olhou a cidade pela janela." },
-        { "level": "B2", "fr": "Les paysages défilent derrière la fenêtre du train.", "pt": "As paisagens passam atrás da janela do trem." },
-        { "level": "C1-C2", "fr": "La fenêtre d'un train est le cadre où défile la vie du pays.", "pt": "A janela de um trem é a moldura onde desfila a vida do país." }
+        { "level": "A2-B1", "fr": "Ils se sont assis près de la fenêtre.", "pt": "Eles se sentaram perto da janela." },
+        { "level": "B2", "fr": "La ville glissait derrière la fenêtre du train.", "pt": "A cidade deslizava atrás da janela do trem." },
+        { "level": "C1-C2", "fr": "Par la fenêtre d'un train, le monde devient un film silencieux.", "pt": "Pela janela de um trem, o mundo vira um filme silencioso." }
       ]
     },
     {
-      "term": "défiler",
-      "definitionPt": "passar, desfilar",
-      "definitionFr": "Passer rapidement devant les yeux.",
-      "inflections": ["je défile", "nous défilons", "défilé"],
-      "ptTargets": ["passar", "desfilar"],
+      "term": "le wagon",
+      "definitionPt": "o vagão",
+      "definitionFr": "Voiture d'un train.",
+      "inflections": ["le wagon", "un wagon", "des wagons"],
+      "ptTargets": ["vagão"],
       "examples": [
-        { "level": "A1", "fr": "Les voitures défilent.", "pt": "Os carros passam." },
-        { "level": "A2-B1", "fr": "Les champs défilent derrière la fenêtre.", "pt": "Os campos passam atrás da janela." },
-        { "level": "B2", "fr": "Les paysages de la France ont défilé pendant tout le voyage.", "pt": "As paisagens da França passaram durante toda a viagem." },
-        { "level": "C1-C2", "fr": "Les souvenirs défilent plus vite que les gares.", "pt": "As lembranças passam mais rápido que as estações." }
+        { "level": "A1", "fr": "Le wagon est plein.", "pt": "O vagão está cheio." },
+        { "level": "A2-B1", "fr": "Ils ont changé de wagon.", "pt": "Eles trocaram de vagão." },
+        { "level": "B2", "fr": "Au bout du wagon, un homme lisait un journal.", "pt": "No fim do vagão, um homem lia um jornal." },
+        { "level": "C1-C2", "fr": "Un wagon de train rassemble des vies qui ne se parleront jamais.", "pt": "Um vagão de trem reúne vidas que jamais se falarão." }
       ]
     },
     {
-      "term": "serrer la main",
-      "definitionPt": "apertar a mão",
-      "definitionFr": "Prendre la main de quelqu'un en signe d'amitié.",
-      "inflections": ["je serre la main", "nous serrons la main", "serré la main"],
-      "ptTargets": ["apertar a mão"],
+      "term": "la foule",
+      "definitionPt": "a multidão",
+      "definitionFr": "Grand nombre de personnes réunies.",
+      "inflections": ["la foule", "une foule", "des foules"],
+      "ptTargets": ["multidão"],
       "examples": [
-        { "level": "A1", "fr": "Je serre la main de mon ami.", "pt": "Aperto a mão do meu amigo." },
-        { "level": "A2-B1", "fr": "Andréa a serré la main d'Irlan.", "pt": "Andréa apertou a mão de Irlan." },
-        { "level": "B2", "fr": "On se serre la main pour dire merci et au revoir.", "pt": "Apertam-se as mãos para dizer obrigado e adeus." },
-        { "level": "C1-C2", "fr": "Serrer la main de qui l'on aime, c'est dire sans mots ce que le cœur pense.", "pt": "Apertar a mão de quem se ama é dizer sem palavras o que o coração pensa." }
+        { "level": "A1", "fr": "La foule est grande.", "pt": "A multidão é grande." },
+        { "level": "A2-B1", "fr": "Ils se sont perdus dans la foule.", "pt": "Eles se perderam na multidão." },
+        { "level": "B2", "fr": "La foule de la gare les a protégés un instant.", "pt": "A multidão da estação os protegeu por um instante." },
+        { "level": "C1-C2", "fr": "Se fondre dans une foule, c'est devenir invisible pour mieux rester libre.", "pt": "Misturar-se a uma multidão é tornar-se invisível para continuar livre." }
       ]
     },
     {
-      "term": "l'ami",
-      "definitionPt": "o amigo",
-      "definitionFr": "Personne que l'on aime et qui nous aime.",
-      "inflections": ["l'ami", "l'amie", "des amis"],
-      "ptTargets": ["amigo"],
+      "term": "descendre",
+      "definitionPt": "descer",
+      "definitionFr": "Aller vers le bas ; sortir d'un véhicule.",
+      "inflections": ["je descends", "nous descendons", "descendu"],
+      "ptTargets": ["descer"],
       "examples": [
-        { "level": "A1", "fr": "L'ami est gentil.", "pt": "O amigo é simpático." },
-        { "level": "A2-B1", "fr": "Nous partons avec des amis à Lille.", "pt": "Partimos com amigos em Lille." },
-        { "level": "B2", "fr": "Les vrais amis restent, même quand on change de ville.", "pt": "Os verdadeiros amigos ficam, mesmo quando mudamos de cidade." },
-        { "level": "C1-C2", "fr": "Un ami, c'est quelqu'un qui connaît la chanson de votre cœur et vous la chante quand vous l'oubliez.", "pt": "Um amigo é alguém que conhece a canção do seu coração e a canta quando você a esquece." }
+        { "level": "A1", "fr": "Je descends du train.", "pt": "Desço do trem." },
+        { "level": "A2-B1", "fr": "Ils sont descendus à la gare de Rennes.", "pt": "Eles desceram na estação de Rennes." },
+        { "level": "B2", "fr": "Elle est descendue vite pour ne pas être suivie.", "pt": "Ela desceu rápido para não ser seguida." },
+        { "level": "C1-C2", "fr": "Descendre au bon moment, c'est déjà choisir sa route.", "pt": "Descer na hora certa já é escolher o caminho." }
       ]
     },
     {
-      "term": "le train",
-      "definitionPt": "o trem",
-      "definitionFr": "Véhicule qui roule sur des rails.",
-      "inflections": ["le train", "un train", "des trains"],
-      "ptTargets": ["trem"],
+      "term": "le champ",
+      "definitionPt": "o campo",
+      "definitionFr": "Terre cultivée.",
+      "inflections": ["le champ", "un champ", "des champs"],
+      "ptTargets": ["campo"],
       "examples": [
-        { "level": "A1", "fr": "Le train est en retard.", "pt": "O trem está atrasado." },
-        { "level": "A2-B1", "fr": "Le train part de Lille-Flandres.", "pt": "O trem parte de Lille-Flandres." },
-        { "level": "B2", "fr": "Le train traverse la France d'un bout à l'autre.", "pt": "O trem atravessa a França de ponta a ponta." },
-        { "level": "C1-C2", "fr": "Le train est le théâtre des départs et le refuge des rêveurs.", "pt": "O trem é o teatro das partidas e o refúgio dos sonhadores." }
+        { "level": "A1", "fr": "Le champ est vert.", "pt": "O campo é verde." },
+        { "level": "A2-B1", "fr": "Les champs de Normandie sont apparus après Lille.", "pt": "Os campos da Normandia apareceram depois de Lille." },
+        { "level": "B2", "fr": "Les champs défilaient derrière la vitre du train.", "pt": "Os campos desfilavam atrás da janela do trem." },
+        { "level": "C1-C2", "fr": "Un champ au matin est une promesse tenue par la terre.", "pt": "Um campo de manhã é uma promessa cumprida pela terra." }
       ]
     },
     {
-      "term": "la vie",
-      "definitionPt": "a vida",
-      "definitionFr": "Existence ; façon de vivre.",
-      "inflections": ["la vie", "une vie", "des vies"],
-      "ptTargets": ["vida"],
+      "term": "la lumière",
+      "definitionPt": "a luz",
+      "definitionFr": "Ce qui éclaire et rend visible.",
+      "inflections": ["la lumière", "une lumière", "des lumières"],
+      "ptTargets": ["luz"],
       "examples": [
-        { "level": "A1", "fr": "La vie est belle.", "pt": "A vida é bela." },
-        { "level": "A2-B1", "fr": "La vie en France a changé pour Irlan.", "pt": "A vida na França mudou para Irlan." },
-        { "level": "B2", "fr": "Sa vie de livreur n'est plus qu'un souvenir.", "pt": "Sua vida de entregador não é mais que uma lembrança." },
-        { "level": "C1-C2", "fr": "La vie est ce qui arrive pendant qu'on rêve d'autre chose.", "pt": "A vida é o que acontece enquanto se sonha com outra coisa." }
+        { "level": "A1", "fr": "La lumière est douce.", "pt": "A luz é suave." },
+        { "level": "A2-B1", "fr": "La mer dessinée semblait bouger avec la lumière.", "pt": "O mar desenhado parecia se mover com a luz." },
+        { "level": "B2", "fr": "La lumière du matin entrait par la fenêtre.", "pt": "A luz da manhã entrava pela janela." },
+        { "level": "C1-C2", "fr": "La lumière change les cartes et les visages sans qu'on s'en aperçoive.", "pt": "A luz muda os mapas e os rostos sem que se perceba." }
       ]
     },
     {
-      "term": "rester",
-      "definitionPt": "ficar, permanecer",
-      "definitionFr": "Continuer à être dans un lieu.",
-      "inflections": ["je reste", "nous restons", "resté"],
-      "ptTargets": ["ficar", "permanecer"],
+      "term": "le journal",
+      "definitionPt": "o jornal",
+      "definitionFr": "Publication quotidienne d'informations.",
+      "inflections": ["le journal", "un journal", "des journaux"],
+      "ptTargets": ["jornal"],
       "examples": [
-        { "level": "A1", "fr": "Je reste à la maison.", "pt": "Fico em casa." },
-        { "level": "A2-B1", "fr": "Les souvenirs de Lille resteront toujours avec nous.", "pt": "As lembranças de Lille ficarão sempre conosco." },
-        { "level": "B2", "fr": "Elle est restée deux heures à la gare.", "pt": "Ela ficou duas horas na estação." },
-        { "level": "C1-C2", "fr": "Ce qui reste d'un voyage, ce sont les visages et les rues aimés.", "pt": "O que resta de uma viagem são os rostos e as ruas amadas." }
+        { "level": "A1", "fr": "Je lis le journal.", "pt": "Leio o jornal." },
+        { "level": "A2-B1", "fr": "Un homme lisait un journal dans le wagon.", "pt": "Um homem lia um jornal no vagão." },
+        { "level": "B2", "fr": "Derrière son journal, il cachait son visage.", "pt": "Atrás do jornal, ele escondia o rosto." },
+        { "level": "C1-C2", "fr": "Un journal ouvert peut être un bouclier ou un rideau.", "pt": "Um jornal aberto pode ser um escudo ou uma cortina." }
       ]
     },
     {
-      "term": "voyager",
-      "definitionPt": "viajar",
-      "definitionFr": "Faire un voyage.",
-      "inflections": ["je voyage", "nous voyageons", "voyagé"],
-      "ptTargets": ["viajar"],
+      "term": "le couloir",
+      "definitionPt": "o corredor",
+      "definitionFr": "Passage étroit dans un bâtiment ou un train.",
+      "inflections": ["le couloir", "un couloir", "des couloirs"],
+      "ptTargets": ["corredor"],
       "examples": [
-        { "level": "A1", "fr": "Nous voyageons ensemble.", "pt": "Viajamos juntos." },
-        { "level": "A2-B1", "fr": "Aujourd'hui, je voyage avec ma femme et ma fille.", "pt": "Hoje, viajo com minha esposa e minha filha." },
-        { "level": "B2", "fr": "Ils ont voyagé à travers toute la France.", "pt": "Eles viajaram por toda a França." },
-        { "level": "C1-C2", "fr": "Voyager, c'est se réinventer à chaque gare.", "pt": "Viajar é se reinventar a cada estação." }
+        { "level": "A1", "fr": "Le couloir est long.", "pt": "O corredor é longo." },
+        { "level": "A2-B1", "fr": "L'homme s'est levé dans le couloir du wagon.", "pt": "O homem se levantou no corredor do vagão." },
+        { "level": "B2", "fr": "Une famille nombreuse a bloqué le couloir.", "pt": "Uma família numerosa bloqueou o corredor." },
+        { "level": "C1-C2", "fr": "Dans le couloir d'un train, on croise des destins qui se frôlent sans se connaître.", "pt": "No corredor de um trem, cruzam-se destinos que se tocam sem se conhecer." }
+      ]
+    },
+    {
+      "term": "la prochaine gare",
+      "definitionPt": "a próxima estação",
+      "definitionFr": "L'arrêt suivant du train.",
+      "inflections": ["la prochaine gare", "la gare suivante", "prochain"],
+      "ptTargets": ["próxima estação"],
+      "examples": [
+        { "level": "A1", "fr": "La prochaine gare est Rennes.", "pt": "A próxima estação é Rennes." },
+        { "level": "A2-B1", "fr": "Nous descendons à la prochaine gare.", "pt": "Descemos na próxima estação." },
+        { "level": "B2", "fr": "À la prochaine gare, ils ont changé de quai.", "pt": "Na próxima estação, eles trocaram de plataforma." },
+        { "level": "C1-C2", "fr": "Chaque prochaine gare est une porte qui se rapproche.", "pt": "Cada próxima estação é uma porta que se aproxima." }
+      ]
+    },
+    {
+      "term": "sourire",
+      "definitionPt": "sorrir",
+      "definitionFr": "Exprimer la joie par un mouvement des lèvres.",
+      "inflections": ["je souris", "nous sourions", "souri"],
+      "ptTargets": ["sorrir"],
+      "examples": [
+        { "level": "A1", "fr": "Elle sourit.", "pt": "Ela sorri." },
+        { "level": "A2-B1", "fr": "La onça dessinée semblait sourire.", "pt": "A onça desenhada parecia sorrir." },
+        { "level": "B2", "fr": "Irlan a souri, essoufflé mais soulagé.", "pt": "Irlan sorriu, ofegante mas aliviado." },
+        { "level": "C1-C2", "fr": "Sourire après la peur, c'est respirer deux fois.", "pt": "Sorrir depois do medo é respirar duas vezes." }
       ]
     }
   ],
   "grammarTip": {
-    "ruleTitle": "Récapitulatif A2 : raconter un départ",
-    "explanationPt": "Para contar a partida, use: Passé Composé com ÊTRE para movimento ('nous sommes partis', 'je suis arrivé'), com AVOIR para ações ('nous avons pris le train'), e futur proche para o que vem ('nous allons voir le Mont Saint-Michel').",
-    "exampleFr": "Nous sommes partis de Lille, nous avons pris le train et nous allons voir la mer.",
-    "examplePt": "Partimos de Lille, pegamos o trem e vamos ver o mar.",
-    "practiceQuestion": "Complete: « Nous ___ partis de Lille. »",
-    "options": ["sommes", "avons", "sont"],
+    "ruleTitle": "Les verbes de déplacement : monter dans, descendre à, courir vers",
+    "explanationPt": "Cada verbo de deslocamento tem sua preposição: 'monter dans le train' (subir no trem), 'descendre à la gare' (descer na estação), 'courir vers le quai' (correr para a plataforma), 'partir pour la Normandie' (partir para a Normandia).",
+    "exampleFr": "Ils sont montés dans le train, puis ils sont descendus à Rennes et ont couru vers un autre quai.",
+    "examplePt": "Eles subiram no trem, depois desceram em Rennes e correram para outra plataforma.",
+    "practiceQuestion": "Complete: « Ils sont montés ___ le train. »",
+    "options": ["dans", "à", "sur"],
     "correctIndex": 0,
     "points": [
       {
-        "ruleTitle": "La vie avant / la vie après : le contraste d'Irlan",
-        "explanationPt": "Irlan contrasta: 'quand je suis arrivé en France, j'étais livreur' (quando cheguei, era entregador — imparfait) e 'aujourd'hui, je voyage avec ma famille' (hoje viajo — présent). O imparfait descreve o cenário do passado.",
-        "exampleFr": "Quand je suis arrivé, je ne connaissais personne. Aujourd'hui, j'ai une famille.",
-        "examplePt": "Quando cheguei, não conhecia ninguém. Hoje, tenho uma família.",
-        "practiceQuestion": "Qual tempo descreve o cenário do passado?",
-        "options": ["l'imparfait (j'étais)", "le futur proche", "le présent"],
+        "ruleTitle": "Monter / descendre au Passé Composé avec être",
+        "explanationPt": "'Monter' e 'descendre' usam 'être' no passé composé: 'je suis monté', 'elle est descendue', 'ils sont montés'. O particípio concorda: 'elle est descendue' (com -e).",
+        "exampleFr": "Andréa est montée dans le train et Irlan est descendu à Rennes.",
+        "examplePt": "Andréa subiu no trem e Irlan desceu em Rennes.",
+        "practiceQuestion": "Complete: « Elle est ___ à la gare. »",
+        "options": ["descendue", "descendu", "descendre"],
         "correctIndex": 0
       },
       {
-        "ruleTitle": "Les adieux : formules et émotions",
-        "explanationPt": "Despedidas: 'au revoir' (até logo), 'bon voyage' (boa viagem), 'reviens vite' (volte logo), 'bonne route' (boa estrada). Com o trem: 'bon voyage !' é o mais comum.",
-        "exampleFr": "« Bon voyage ! » ont crié les voisins depuis le quai.",
-        "examplePt": "« Boa viagem! » gritaram os vizinhos da plataforma.",
-        "practiceQuestion": "O que se deseja a alguém que viaja?",
-        "options": ["Bon voyage !", "Bonne nuit !", "Bon appétit !"],
+        "ruleTitle": "À / dans / vers : les directions",
+        "explanationPt": "'À' indica um ponto: 'à la gare' (na estação), 'à Rennes' (em Rennes). 'Dans' indica o interior: 'dans le train' (no trem). 'Vers' indica a direção: 'vers le quai' (para a plataforma), 'vers la Normandie' (rumo à Normandia).",
+        "exampleFr": "Ils ont marché vers le quai et ils sont montés dans le train pour la Normandie.",
+        "examplePt": "Eles caminharam até a plataforma e subiram no trem para a Normandia.",
+        "practiceQuestion": "Complete: « Ils ont couru ___ le quai. »",
+        "options": ["vers", "dans", "à"],
         "correctIndex": 0
       }
     ]
   },
   "quizQuestions": [
     {
-      "question": "De qual estação a família partiu?",
-      "options": ["Gare Lille-Flandres", "Gare Lille Europe", "Gare du Nord"],
+      "question": "Para onde o trem partiu?",
+      "options": ["Para a Normandia (Mont-Saint-Michel)", "Para Paris", "Para a Bélgica"],
       "correctIndex": 0,
-      "explanation": "A família partiu da gare Lille-Flandres, a estação histórica do centro de Lille."
+      "explanation": "O trem parte de Lille rumo à Normandia, para o Mont-Saint-Michel."
     },
     {
-      "question": "Complete: « Nous ___ partis de Lille. »",
-      "options": ["sommes", "avons", "sont"],
+      "question": "Quem estava no vagão lendo um jornal?",
+      "options": ["Um homem de sobretudo cinza", "O arquivista", "Um condutor"],
       "correctIndex": 0,
-      "explanation": "'Partir' é verbo de movimento e usa ÊTRE: 'nous sommes partis'."
+      "explanation": "Um homem de sobretudo cinza, ligado a Garnier, os seguia no trem."
     },
     {
-      "question": "O que Andréa disse sobre a chegada e a partida?",
-      "options": ["Chegaram com duas malas e partem com lembranças e amigos", "Chegaram sem nada e partiram sem amigos", "Chegaram de avião"],
+      "question": "Complete: « Ils sont montés ___ le train. »",
+      "options": ["dans", "à", "sur"],
       "correctIndex": 0,
-      "explanation": "Andréa resumiu: duas malas na chegada, lembranças e amigos na partida."
+      "explanation": "'Monter dans + veículo': 'monter dans le train'."
     },
     {
-      "question": "O que Irlan revisou no trem?",
-      "options": ["As fotos de Lille: Grand-Place, Braderie, beffroi, Porte de Paris", "As receitas da carbonnade", "Os horários do metrô"],
+      "question": "O que bloqueou o homem cinza no corredor?",
+      "options": ["Uma família numerosa", "Uma porta fechada", "A multidão na plataforma"],
       "correctIndex": 0,
-      "explanation": "Irlan revisou as fotos dos lugares que visitou em Lille durante a viagem."
+      "explanation": "Uma família numerosa bloqueou o corredor, dando tempo para a fuga."
     },
     {
-      "question": "Qual é a despedida correta para uma viagem?",
-      "options": ["Bon voyage !", "Bon appétit !", "Bonne nuit !"],
+      "question": "O que parecia sorrir no canto da planche?",
+      "options": ["A onça desenhada", "A flor-de-lis", "O mar"],
       "correctIndex": 0,
-      "explanation": "'Bon voyage' (boa viagem) é o que se deseja a quem parte."
+      "explanation": "A onça desenhada no canto da prancha parecia sorrir — o sinal do Jaguara."
     }
   ]
 }

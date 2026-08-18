@@ -1,252 +1,292 @@
 {
   "id": "lille_lesson_24",
   "cityId": "lille",
-  "domain": "Cotidiano",
+  "domain": "Viagem",
   "level": "Básico (A2)",
   "titleFr": "La préparation du départ",
   "titlePt": "A preparação da partida",
-  "subtitleFr": "Les valises, les billets et les adieux aux voisins",
-  "subtitlePt": "As malas, as passagens e os adeuses aos vizinhos",
-  "summaryPt": "Nesta Aula 24 (A2), a família prepara a partida de Lille para a Normandia: as malas, os bilhetes de trem, os adeuses aos vizinhos e o aluguel da casa. O aluno pratica o Futur Proche (nous allons partir), os imperativos (n'oublie pas, n'oublions pas) e o vocabulário da viagem.",
+  "subtitleFr": "Faire les valises, acheter les billets — et lire la prochaine planche",
+  "subtitlePt": "Fazer as malas, comprar os bilhetes — e ler a próxima prancha",
+  "summaryPt": "Nesta Aula 24 (A2), Irlan e Andréa preparam a partida de Lille. Ao abrir a terceira planche do Atlas, descobrem o desenho de uma ilha com uma abadia cercada pelo mar: o Mont-Saint-Michel, cuja pista só se lê na maré baixa. Eles compram os bilhetes para a Normandia, mas sabem que o homem de sobretudo cinza continua na pista. O aluno pratica o Futur Proche (nous allons partir), il faut + infinitivo e o vocabulário da viagem.",
   "paragraphs": [
     {
       "id": 1,
-      "fr": "Le soir avant le départ, la maison était pleine de valises. « Nous allons partir demain matin à neuf heures », a dit Irlan. « Il ne faut rien oublier ! »",
-      "pt": "Na noite antes da partida, a casa estava cheia de malas. « Vamos partir amanhã de manhã às nove horas », disse Irlan. « Não se pode esquecer nada! »"
+      "fr": "Le soir, dans leur chambre, ils ont fait les valises. « Lille nous a donné un nom », a dit Irlan. « Maintenant, l'Atlas montre la prochaine ville. »",
+      "pt": "À noite, no quarto deles, eles fizeram as malas. « Lille nos deu um nome », disse Irlan. « Agora, o Atlas mostra a próxima cidade. »"
     },
     {
       "id": 2,
-      "fr": "Andréa a fait la liste : « N'oublie pas les billets de train. N'oublions pas les cadeaux pour la famille de Normandie. N'oubliez pas vos manteaux ! »",
-      "pt": "Andréa fez a lista: « Não esqueça as passagens de trem. Não esqueçamos os presentes para a família da Normandia. Não esqueçam seus casacos! »"
+      "fr": "Andréa a plié leurs vêtements. « Nous allons prendre le train demain matin. Mais pour où ? »",
+      "pt": "Andréa dobrou as roupas deles. « Vamos pegar o trem amanhã de manhã. Mas para onde? »"
     },
     {
       "id": 3,
-      "fr": "Les voisins sont venus dire au revoir. « Nous allons vous manquer », a dit madame Dubois. « Revenez vite ! » Íris a promis : « Je vais vous écrire des cartes. »",
-      "pt": "Os vizinhos vieram se despedir. « Vamos sentir saudades de vocês », disse madame Dubois. « Voltem logo! » Íris prometeu: « Vou escrever cartões para vocês. »"
+      "fr": "Irlan a ouvert l'Atlas à la troisième page. Il y avait un dessin : une île, une abbaye, et la mer qui montait autour.",
+      "pt": "Irlan abriu o Atlas na terceira página. Havia um desenho: uma ilha, uma abadia e o mar subindo ao redor."
     },
     {
       "id": 4,
-      "fr": "Le soir, Irlan a regardé Lille par la fenêtre. « Je suis arrivé livreur, je repars géographe de ma propre vie. Merci, Lille. »",
-      "pt": "À noite, Irlan olhou Lille pela janela. « Cheguei entregador, parto geógrafo da minha própria vida. Obrigado, Lille. »"
+      "fr": "« Une île avec une abbaye », a-t-il murmuré. « La mer l'entoure deux fois par jour. C'est le Mont-Saint-Michel. »",
+      "pt": "« Uma ilha com uma abadia », murmurou ele. « O mar a cerca duas vezes por dia. É o Mont-Saint-Michel. »"
+    },
+    {
+      "id": 5,
+      "fr": "« Le Mont-Saint-Michel ? En Normandie ? » a demandé Andréa. « La planche parle des marées. »",
+      "pt": "« O Mont-Saint-Michel? Na Normandia? » perguntou Andréa. « A prancha fala das marés. »"
+    },
+    {
+      "id": 6,
+      "fr": "« La planche ne se lit qu'à marée basse », a lu Irlan. « Nous devons arriver au bon moment. »",
+      "pt": "« A prancha só se lê na maré baixa », leu Irlan. « Precisamos chegar na hora certa. »"
+    },
+    {
+      "id": 7,
+      "fr": "Andréa a acheté les billets en ligne. « Deux billets pour la Normandie. Le train part à sept heures. »",
+      "pt": "Andréa comprou os bilhetes pela internet. « Dois bilhetes para a Normandia. O trem parte às sete. »"
+    },
+    {
+      "id": 8,
+      "fr": "« Nous devons faire attention », a dit Irlan. « L'homme au manteau gris connaît peut-être la même piste. »",
+      "pt": "« Precisamos tomar cuidado », disse Irlan. « O homem de sobretudo cinza talvez conheça a mesma pista. »"
+    },
+    {
+      "id": 9,
+      "fr": "Ils ont rangé l'Atlas dans un sac, avec le papier où était recopié le nom.",
+      "pt": "Eles guardaram o Atlas numa bolsa, junto com o papel onde o nome tinha sido copiado."
+    },
+    {
+      "id": 10,
+      "fr": "« Rocha de Oliveira est passé par Lille », a dit Andréa. « Maintenant, il nous montre la mer. »",
+      "pt": "« Rocha de Oliveira passou por Lille », disse Andréa. « Agora, ele nos mostra o mar. »"
+    },
+    {
+      "id": 11,
+      "fr": "Irlan a regardé la ville par la fenêtre. « Demain, nous quittons Lille. Mais nous ne partons pas seuls. »",
+      "pt": "Irlan olhou a cidade pela janela. « Amanhã, deixamos Lille. Mas não partimos sozinhos. »"
+    },
+    {
+      "id": 12,
+      "fr": "Sur la place, une voiture grise était garée, tous feux éteints. Personne n'en sortait.",
+      "pt": "Na praça, um carro cinza estava estacionado, com todos os faróis apagados. Ninguém saía dele."
     }
   ],
   "vocabularyDictionary": [
     {
       "term": "la valise",
       "definitionPt": "a mala",
-      "definitionFr": "Bagage à main.",
+      "definitionFr": "Bagage que l'on emporte en voyage.",
       "inflections": ["la valise", "une valise", "des valises"],
       "ptTargets": ["mala"],
       "examples": [
-        { "level": "A1", "fr": "La valise est pleine.", "pt": "A mala está cheia." },
-        { "level": "A2-B1", "fr": "Nous avons préparé les valises pour le départ.", "pt": "Preparamos as malas para a partida." },
-        { "level": "B2", "fr": "Les valises attendaient dans le couloir.", "pt": "As malas esperavam no corredor." },
-        { "level": "C1-C2", "fr": "Faire ses valises, c'est choisir ce qu'on emporte de sa vie.", "pt": "Fazer as malas é escolher o que se leva da própria vida." }
+        { "level": "A1", "fr": "La valise est lourde.", "pt": "A mala é pesada." },
+        { "level": "A2-B1", "fr": "Ils ont fait les valises pour la Normandie.", "pt": "Eles fizeram as malas para a Normandia." },
+        { "level": "B2", "fr": "Les valises étaient prêtes près de la porte.", "pt": "As malas estavam prontas perto da porta." },
+        { "level": "C1-C2", "fr": "Une valise fermée contient toujours un peu d'espoir et un peu d'adieu.", "pt": "Uma mala fechada contém sempre um pouco de esperança e um pouco de despedida." }
       ]
     },
     {
       "term": "le billet",
-      "definitionPt": "a passagem, o bilhete",
-      "definitionFr": "Ticket de train, d'avion.",
+      "definitionPt": "o bilhete, a passagem",
+      "definitionFr": "Document qui donne le droit de voyager.",
       "inflections": ["le billet", "un billet", "des billets"],
-      "ptTargets": ["passagem", "bilhete"],
+      "ptTargets": ["bilhete", "passagem"],
       "examples": [
-        { "level": "A1", "fr": "Le billet coûte vingt euros.", "pt": "A passagem custa vinte euros." },
-        { "level": "A2-B1", "fr": "N'oublie pas les billets de train !", "pt": "Não esqueça as passagens de trem!" },
-        { "level": "B2", "fr": "Les billets pour la Normandie sont déjà réservés.", "pt": "As passagens para a Normandia já estão reservadas." },
-        { "level": "C1-C2", "fr": "Un billet de train est une promesse de départ, même sans destination précise.", "pt": "Uma passagem de trem é uma promessa de partida, mesmo sem destino preciso." }
+        { "level": "A1", "fr": "Le billet est sur la table.", "pt": "O bilhete está sobre a mesa." },
+        { "level": "A2-B1", "fr": "Andréa a acheté deux billets de train.", "pt": "Andréa comprou duas passagens de trem." },
+        { "level": "B2", "fr": "Les billets en ligne sont moins chers le matin.", "pt": "As passagens pela internet são mais baratas de manhã." },
+        { "level": "C1-C2", "fr": "Un billet de train est un petit bout de papier qui ouvre une géographie entière.", "pt": "Uma passagem de trem é um pedacinho de papel que abre uma geografia inteira." }
       ]
     },
     {
-      "term": "le voisin",
-      "definitionPt": "o vizinho",
-      "definitionFr": "Personne qui habite à côté.",
-      "inflections": ["le voisin", "la voisine", "des voisins"],
-      "ptTargets": ["vizinho"],
+      "term": "le train",
+      "definitionPt": "o trem",
+      "definitionFr": "Véhicule sur rails.",
+      "inflections": ["le train", "un train", "des trains"],
+      "ptTargets": ["trem", "comboio"],
       "examples": [
-        { "level": "A1", "fr": "Le voisin est gentil.", "pt": "O vizinho é simpático." },
-        { "level": "A2-B1", "fr": "Les voisins sont venus dire au revoir.", "pt": "Os vizinhos vieram se despedir." },
-        { "level": "B2", "fr": "Les voisins du Nord sont chaleureux et généreux.", "pt": "Os vizinhos do Norte são calorosos e generosos." },
-        { "level": "C1-C2", "fr": "On ne choisit pas ses voisins, mais on choisit d'en faire des amis.", "pt": "Não se escolhem os vizinhos, mas escolhe-se fazer deles amigos." }
+        { "level": "A1", "fr": "Le train est à l'heure.", "pt": "O trem está no horário." },
+        { "level": "A2-B1", "fr": "Le train part à sept heures du matin.", "pt": "O trem parte às sete da manhã." },
+        { "level": "B2", "fr": "Ils ont pris le train pour la Normandie.", "pt": "Eles pegaram o trem para a Normandia." },
+        { "level": "C1-C2", "fr": "Le train relie les villes et les époques de la carte.", "pt": "O trem liga as cidades e as épocas do mapa." }
       ]
     },
     {
-      "term": "dire au revoir",
-      "definitionPt": "despedir-se",
-      "definitionFr": "Faire ses adieux.",
-      "inflections": ["je dis au revoir", "nous disons au revoir", "dit au revoir"],
-      "ptTargets": ["despedir-se", "dizer adeus"],
+      "term": "l'île",
+      "definitionPt": "a ilha",
+      "definitionFr": "Terre entourée d'eau.",
+      "inflections": ["l'île", "une île", "des îles"],
+      "ptTargets": ["ilha"],
       "examples": [
-        { "level": "A1", "fr": "Je dis au revoir à mes amis.", "pt": "Digo adeus aos meus amigos." },
-        { "level": "A2-B1", "fr": "Les voisins sont venus dire au revoir.", "pt": "Os vizinhos vieram se despedir." },
-        { "level": "B2", "fr": "Dire au revoir à une ville, c'est fermer une porte sans casser la clé.", "pt": "Despedir-se de uma cidade é fechar uma porta sem quebrar a chave." },
-        { "level": "C1-C2", "fr": "Dire au revoir n'est jamais un adieu quand on laisse son cœur.", "pt": "Despedir-se nunca é um adeus quando se deixa o coração." }
+        { "level": "A1", "fr": "L'île est petite.", "pt": "A ilha é pequena." },
+        { "level": "A2-B1", "fr": "Le Mont-Saint-Michel est une île à marée haute.", "pt": "O Mont-Saint-Michel é uma ilha na maré alta." },
+        { "level": "B2", "fr": "L'île se vide et se remplit au rythme des marées.", "pt": "A ilha se esvazia e se enche no ritmo das marés." },
+        { "level": "C1-C2", "fr": "Une île est un monde qui tient debout au milieu de l'eau.", "pt": "Uma ilha é um mundo que se sustenta no meio da água." }
       ]
     },
     {
-      "term": "manquer",
-      "definitionPt": "fazer falta, sentir falta",
-      "definitionFr": "Être absent ; faire défaut.",
-      "inflections": ["je manque", "nous manquons", "manqué"],
-      "ptTargets": ["fazer falta", "sentir falta"],
+      "term": "l'abbaye",
+      "definitionPt": "a abadia",
+      "definitionFr": "Monastère dirigé par un abbé.",
+      "inflections": ["l'abbaye", "une abbaye", "des abbayes"],
+      "ptTargets": ["abadia", "mosteiro"],
       "examples": [
-        { "level": "A1", "fr": "Tu me manques.", "pt": "Sinto sua falta." },
-        { "level": "A2-B1", "fr": "Nous allons vous manquer.", "pt": "Vamos fazer falta para vocês." },
-        { "level": "B2", "fr": "Lille va me manquer, ses places et ses gens.", "pt": "Vou sentir falta de Lille, de suas praças e seu povo." },
-        { "level": "C1-C2", "fr": "On ne mesure ce qui nous manque qu'au moment de partir.", "pt": "Só medimos o que nos falta no momento de partir." }
+        { "level": "A1", "fr": "L'abbaye est ancienne.", "pt": "A abadia é antiga." },
+        { "level": "A2-B1", "fr": "Une abbaye se dresse au sommet du Mont-Saint-Michel.", "pt": "Uma abadia se ergue no topo do Mont-Saint-Michel." },
+        { "level": "B2", "fr": "L'abbaye veille sur l'île depuis des siècles.", "pt": "A abadia vigia a ilha há séculos." },
+        { "level": "C1-C2", "fr": "L'abbaye du Mont est une flèche de pierre tendue vers le ciel.", "pt": "A abadia do Mont é uma flecha de pedra estendida para o céu." }
       ]
     },
     {
-      "term": "oublier",
-      "definitionPt": "esquecer",
-      "definitionFr": "Ne pas se souvenir de faire quelque chose.",
-      "inflections": ["j'oublie", "nous oublions", "oublié"],
-      "ptTargets": ["esquecer"],
+      "term": "la marée",
+      "definitionPt": "a maré",
+      "definitionFr": "Montée et descente du niveau de la mer.",
+      "inflections": ["la marée", "une marée", "des marées"],
+      "ptTargets": ["maré"],
       "examples": [
-        { "level": "A1", "fr": "J'oublie mon sac.", "pt": "Esqueço minha bolsa." },
-        { "level": "A2-B1", "fr": "N'oublions pas les cadeaux !", "pt": "Não esqueçamos os presentes!" },
-        { "level": "B2", "fr": "Il a oublié son portefeuille à la maison.", "pt": "Ele esqueceu a carteira em casa." },
-        { "level": "C1-C2", "fr": "On oublie les lieux, jamais les au revoir qu'on y a reçus.", "pt": "Esquecemos os lugares, nunca os adeuses que neles recebemos." }
+        { "level": "A1", "fr": "La marée monte.", "pt": "A maré sobe." },
+        { "level": "A2-B1", "fr": "La planche se lit à marée basse.", "pt": "A prancha se lê na maré baixa." },
+        { "level": "B2", "fr": "Les marées du Mont-Saint-Michel montent à la vitesse d'un cheval au galop.", "pt": "As marés do Mont-Saint-Michel sobem à velocidade de um cavalo a galope." },
+        { "level": "C1-C2", "fr": "La marée efface et redessine la carte deux fois par jour.", "pt": "A maré apaga e redesenha o mapa duas vezes por dia." }
       ]
     },
     {
-      "term": "la carte",
-      "definitionPt": "o cartão, o cartão-postal",
-      "definitionFr": "Carte postale ; carte de visite.",
-      "inflections": ["la carte", "une carte", "des cartes"],
-      "ptTargets": ["cartão", "postal"],
+      "term": "monter",
+      "definitionPt": "subir",
+      "definitionFr": "Aller vers le haut.",
+      "inflections": ["je monte", "nous montons", "monté"],
+      "ptTargets": ["subir"],
       "examples": [
-        { "level": "A1", "fr": "La carte est pour toi.", "pt": "O cartão é para você." },
-        { "level": "A2-B1", "fr": "Íris va écrire des cartes aux voisins.", "pt": "Íris vai escrever cartões para os vizinhos." },
-        { "level": "B2", "fr": "Elle envoie une carte postale de chaque ville visitée.", "pt": "Ela envia um cartão-postal de cada cidade visitada." },
-        { "level": "C1-C2", "fr": "Une carte écrite à la main vaut mille messages électroniques.", "pt": "Um cartão escrito à mão vale mil mensagens eletrônicas." }
+        { "level": "A1", "fr": "Je monte l'escalier.", "pt": "Subo a escada." },
+        { "level": "A2-B1", "fr": "La mer monte autour de l'île.", "pt": "O mar sobe ao redor da ilha." },
+        { "level": "B2", "fr": "La marée est montée plus vite que prévu.", "pt": "A maré subiu mais rápido que o previsto." },
+        { "level": "C1-C2", "fr": "Monter vers l'abbaye, c'est monter vers des siècles de silence.", "pt": "Subir até a abadia é subir até séculos de silêncio." }
       ]
     },
     {
-      "term": "la liste",
-      "definitionPt": "a lista",
-      "definitionFr": "Suite de noms ou de choses à faire.",
-      "inflections": ["la liste", "une liste", "des listes"],
-      "ptTargets": ["lista"],
+      "term": "plier",
+      "definitionPt": "dobrar",
+      "definitionFr": "Replier quelque chose.",
+      "inflections": ["je plie", "nous plions", "plié"],
+      "ptTargets": ["dobrar"],
       "examples": [
-        { "level": "A1", "fr": "La liste est longue.", "pt": "A lista é longa." },
-        { "level": "A2-B1", "fr": "Andréa a fait la liste des choses à prendre.", "pt": "Andréa fez a lista das coisas a levar." },
-        { "level": "B2", "fr": "La liste des bagages est prête depuis hier.", "pt": "A lista de bagagens está pronta desde ontem." },
-        { "level": "C1-C2", "fr": "Les listes rassurent ceux qui préparent un départ.", "pt": "As listas tranquilizam quem prepara uma partida." }
+        { "level": "A1", "fr": "Je plie le papier.", "pt": "Dobro o papel." },
+        { "level": "A2-B1", "fr": "Andréa a plié les vêtements.", "pt": "Andréa dobrou as roupas." },
+        { "level": "B2", "fr": "Elle a plié soigneusement chaque chemise avant de les ranger.", "pt": "Ela dobrou cuidadosamente cada camisa antes de guardá-las." },
+        { "level": "C1-C2", "fr": "Plier ses affaires, c'est déjà mettre sa vie en ordre pour le départ.", "pt": "Dobrar as coisas já é pôr a vida em ordem para a partida." }
       ]
     },
     {
-      "term": "la maison",
-      "definitionPt": "a casa",
-      "definitionFr": "Bâtiment où l'on habite.",
-      "inflections": ["la maison", "une maison", "des maisons"],
-      "ptTargets": ["casa"],
+      "term": "ranger",
+      "definitionPt": "guardar, arrumar",
+      "definitionFr": "Mettre à sa place, en ordre.",
+      "inflections": ["je range", "nous rangeons", "rangé"],
+      "ptTargets": ["guardar", "arrumar"],
       "examples": [
-        { "level": "A1", "fr": "La maison est grande.", "pt": "A casa é grande." },
-        { "level": "A2-B1", "fr": "Nous quittons la maison demain matin.", "pt": "Saímos de casa amanhã de manhã." },
-        { "level": "B2", "fr": "La maison de Lille gardera nos souvenirs.", "pt": "A casa de Lille guardará nossas lembranças." },
-        { "level": "C1-C2", "fr": "Une maison n'est qu'un toit ; c'est l'amour qui en fait un foyer.", "pt": "Uma casa é só um teto; é o amor que a torna um lar." }
+        { "level": "A1", "fr": "Je range ma chambre.", "pt": "Arrumo meu quarto." },
+        { "level": "A2-B1", "fr": "Ils ont rangé l'Atlas dans un sac.", "pt": "Eles guardaram o Atlas numa bolsa." },
+        { "level": "B2", "fr": "Elle a rangé les billets dans son porte-monnaie.", "pt": "Ela guardou os bilhetes na carteira." },
+        { "level": "C1-C2", "fr": "Ranger, c'est retrouver plus tard ce que l'on a aimé garder.", "pt": "Guardar é reencontrar mais tarde aquilo que se gostou de conservar." }
       ]
     },
     {
-      "term": "revenir",
-      "definitionPt": "voltar",
-      "definitionFr": "Venir de nouveau.",
-      "inflections": ["je reviens", "nous revenons", "revenu"],
-      "ptTargets": ["voltar", "regressar"],
+      "term": "quitter",
+      "definitionPt": "deixar, partir de",
+      "definitionFr": "S'en aller d'un lieu.",
+      "inflections": ["je quitte", "nous quittons", "quitté"],
+      "ptTargets": ["deixar", "partir"],
       "examples": [
-        { "level": "A1", "fr": "Je reviens demain.", "pt": "Volto amanhã." },
-        { "level": "A2-B1", "fr": "« Revenez vite ! » ont dit les voisins.", "pt": "« Voltem logo! » disseram os vizinhos." },
-        { "level": "B2", "fr": "Elle est revenue à Lille après dix ans.", "pt": "Ela voltou a Lille depois de dez anos." },
-        { "level": "C1-C2", "fr": "Revenir dans une ville, c'est retrouver l'écho de ses propres pas.", "pt": "Voltar a uma cidade é reencontrar o eco dos próprios passos." }
+        { "level": "A1", "fr": "Je quitte la maison à huit heures.", "pt": "Saio de casa às oito." },
+        { "level": "A2-B1", "fr": "Demain, nous quittons Lille.", "pt": "Amanhã, deixamos Lille." },
+        { "level": "B2", "fr": "Ils ont quitté la ville au petit matin.", "pt": "Eles deixaram a cidade de madrugada." },
+        { "level": "C1-C2", "fr": "Quitter un lieu, c'est emporter un morceau de sa carte dans la mémoire.", "pt": "Deixar um lugar é levar um pedaço do seu mapa na memória." }
       ]
     },
     {
-      "term": "demain",
-      "definitionPt": "amanhã",
-      "definitionFr": "Le jour qui suit aujourd'hui.",
-      "inflections": ["demain", "demain matin", "à demain"],
-      "ptTargets": ["amanhã"],
+      "term": "le lendemain",
+      "definitionPt": "o dia seguinte",
+      "definitionFr": "Le jour d'après.",
+      "inflections": ["le lendemain", "le lendemain matin", "le surlendemain"],
+      "ptTargets": ["dia seguinte"],
       "examples": [
         { "level": "A1", "fr": "À demain !", "pt": "Até amanhã!" },
-        { "level": "A2-B1", "fr": "Nous partons demain matin à neuf heures.", "pt": "Partimos amanhã de manhã às nove horas." },
-        { "level": "B2", "fr": "Demain, une nouvelle ville nous attend.", "pt": "Amanhã, uma nova cidade nos espera." },
-        { "level": "C1-C2", "fr": "Demain est la page blanche que la vie nous offre chaque soir.", "pt": "Amanhã é a página em branco que a vida nos oferece todas as noites." }
+        { "level": "A2-B1", "fr": "Le lendemain, ils sont partis tôt.", "pt": "No dia seguinte, eles partiram cedo." },
+        { "level": "B2", "fr": "Le lendemain matin, la gare était déjà pleine.", "pt": "Na manhã seguinte, a estação já estava cheia." },
+        { "level": "C1-C2", "fr": "Le lendemain porte toujours le poids des adieux de la veille.", "pt": "O dia seguinte carrega sempre o peso das despedidas da véspera." }
       ]
     },
     {
-      "term": "le géographe",
-      "definitionPt": "o geógrafo",
-      "definitionFr": "Spécialiste de la géographie.",
-      "inflections": ["le géographe", "la géographe", "des géographes"],
-      "ptTargets": ["geógrafo"],
+      "term": "la Normandie",
+      "definitionPt": "a Normandia",
+      "definitionFr": "Région du nord-ouest de la France.",
+      "inflections": ["la Normandie", "en Normandie", "normand"],
+      "ptTargets": ["Normandia"],
       "examples": [
-        { "level": "A1", "fr": "Le géographe étudie les cartes.", "pt": "O geógrafo estuda os mapas." },
-        { "level": "A2-B1", "fr": "Irlan est géographe, mais il a commencé livreur en France.", "pt": "Irlan é geógrafo, mas começou entregador na França." },
-        { "level": "B2", "fr": "Le géographe lit les paysages comme d'autres lisent les livres.", "pt": "O geógrafo lê as paisagens como outros leem livros." },
-        { "level": "C1-C2", "fr": "Le géographe observe les villes, mais c'est la vie qui lui apprend à les aimer.", "pt": "O geógrafo observa as cidades, mas é a vida que lhe ensina a amá-las." }
+        { "level": "A1", "fr": "La Normandie est verte.", "pt": "A Normandia é verde." },
+        { "level": "A2-B1", "fr": "Le Mont-Saint-Michel se trouve en Normandie.", "pt": "O Mont-Saint-Michel fica na Normandia." },
+        { "level": "B2", "fr": "La Normandie mêle la mer, les vergers et les plages du Débarquement.", "pt": "A Normandia mistura o mar, os pomares e as praias do Desembarque." },
+        { "level": "C1-C2", "fr": "La Normandie est une page d'histoire posée entre la terre et la Manche.", "pt": "A Normandia é uma página de história posta entre a terra e a Mancha." }
       ]
     }
   ],
   "grammarTip": {
-    "ruleTitle": "L'impératif négatif : N'oublie pas, N'oublions pas !",
-    "explanationPt": "O imperativo negativo: ne + verbo + pas. 'N'oublie pas !' (não esqueça — tu), 'N'oublions pas !' (não esqueçamos — nous), 'N'oubliez pas !' (não esqueçam — vous). O pronome 'n'' substitui 'ne' antes de vogal.",
-    "exampleFr": "N'oublie pas les billets, n'oublions pas les cadeaux, n'oubliez pas vos manteaux !",
-    "examplePt": "Não esqueça as passagens, não esqueçamos os presentes, não esqueçam seus casacos!",
-    "practiceQuestion": "Complete: « N'___ pas les billets ! »",
-    "options": ["oublie", "oublies", "oublier"],
+    "ruleTitle": "Le Futur Proche pour les projets : nous allons partir",
+    "explanationPt": "Para falar de planos próximos, usa-se 'aller + infinitivo': 'nous allons partir' (vamos partir), 'nous allons prendre le train' (vamos pegar o trem), 'je vais acheter les billets' (vou comprar os bilhetes).",
+    "exampleFr": "Nous allons prendre le train et nous allons partir pour la Normandie.",
+    "examplePt": "Vamos pegar o trem e vamos partir para a Normandia.",
+    "practiceQuestion": "Complete: « Nous allons ___ les billets. »",
+    "options": ["acheter", "achetons", "acheté"],
     "correctIndex": 0,
     "points": [
       {
-        "ruleTitle": "Nous allons partir : le futur proche pour les projets",
-        "explanationPt": "Para anunciar planos: 'nous allons partir' (vamos partir), 'je vais écrire' (vou escrever), 'nous allons vous manquer' (vamos fazer falta). Estrutura: aller + infinitif.",
-        "exampleFr": "Nous allons partir demain, puis nous allons visiter la Normandie.",
-        "examplePt": "Vamos partir amanhã, depois vamos visitar a Normandia.",
-        "practiceQuestion": "Complete: « Nous ___ partir demain. »",
-        "options": ["allons", "avons", "sommes"],
+        "ruleTitle": "Il faut + infinitif : la nécessité",
+        "explanationPt": "'Il faut' + infinitivo expressa obrigação: 'il faut partir' (é preciso partir), 'il faut arriver au bon moment' (é preciso chegar na hora certa). 'Devoir' também funciona: 'nous devons faire attention' (devemos tomar cuidado).",
+        "exampleFr": "Il faut arriver à marée basse pour lire la planche.",
+        "examplePt": "É preciso chegar na marée baixa para ler a prancha.",
+        "practiceQuestion": "Complete: « Il ___ faire attention. »",
+        "options": ["faut", "fait", "va"],
         "correctIndex": 0
       },
       {
-        "ruleTitle": "Il ne faut rien oublier : il faut + infinitif",
-        "explanationPt": "'Il faut + infinitif' expressa necessidade: 'il faut prendre les billets' (é preciso pegar as passagens). Negativo: 'il ne faut rien oublier' (não se deve esquecer nada).",
-        "exampleFr": "Il faut préparer les valises et il ne faut rien oublier.",
-        "examplePt": "É preciso preparar as malas e não se deve esquecer nada.",
-        "practiceQuestion": "Complete: « Il ___ partir tôt. »",
-        "options": ["faut", "faux", "fais"],
+        "ruleTitle": "Les marées : monter et descendre",
+        "explanationPt": "A maré 'monte' (sobe) e 'descend' (desce). 'À marée haute' = na maré alta; 'à marée basse' = na maré baixa. 'La mer monte autour de l'île' = o mar sobe ao redor da ilha.",
+        "exampleFr": "À marée haute, la mer monte ; à marée basse, elle descend.",
+        "examplePt": "Na maré alta, o mar sobe; na maré baixa, ele desce.",
+        "practiceQuestion": "Complete: « La planche se lit à marée ___. »",
+        "options": ["basse", "bas", "baisse"],
         "correctIndex": 0
       }
     ]
   },
   "quizQuestions": [
     {
-      "question": "A que horas a família vai partir?",
-      "options": ["Às 9h da manhã", "Ao meio-dia", "À meia-noite"],
+      "question": "Para onde Irlan e Andréa vão partir?",
+      "options": ["Mont-Saint-Michel, na Normandia", "Paris", "Bordeaux"],
       "correctIndex": 0,
-      "explanation": "A família vai partir amanhã de manhã às nove horas (neuf heures)."
+      "explanation": "A terceira planche do Atlas mostra o Mont-Saint-Michel, na Normandia."
     },
     {
-      "question": "Qual é o imperativo negativo correto?",
-      "options": ["N'oublie pas les billets !", "Ne oublie pas les billets !", "N'oublies pas les billets !"],
+      "question": "Quando a planche pode ser lida?",
+      "options": ["Na maré baixa", "Na maré alta", "À noite"],
       "correctIndex": 0,
-      "explanation": "O imperativo negativo com tu: 'n'oublie pas' — sem 's' e com 'n'' antes de vogal."
+      "explanation": "A pista só se lê à marée basse (na maré baixa)."
     },
     {
-      "question": "Complete: « Nous ___ partir demain. »",
-      "options": ["allons", "avons", "sommes"],
+      "question": "Complete: « Nous allons ___ le train. »",
+      "options": ["prendre", "prenons", "pris"],
       "correctIndex": 0,
-      "explanation": "'Nous allons partir' = vamos partir (futur proche)."
+      "explanation": "Futur proche: 'aller + infinitivo' → 'nous allons prendre'."
     },
     {
-      "question": "O que Íris prometeu aos vizinhos?",
-      "options": ["Escrever cartões para eles", "Voltar no dia seguinte", "Enviar presentes de Paris"],
+      "question": "Complete: « Il ___ faire attention. »",
+      "options": ["faut", "fait", "va"],
       "correctIndex": 0,
-      "explanation": "Íris prometeu: « Je vais vous écrire des cartes » (vou escrever cartões para vocês)."
+      "explanation": "'Il faut + infinitivo' expressa necessidade: 'il faut faire attention'."
     },
     {
-      "question": "O que Irlan disse olhando Lille pela janela?",
-      "options": ["Cheguei livreur, parto geógrafo da minha própria vida.", "Nunca mais quero voltar ao Norte.", "Prefiro o Brasil."],
+      "question": "O que havia estacionado na praça no fim da aula?",
+      "options": ["Uma voiture grise com os faróis apagados", "Um ônibus turístico", "Um táxi vazio"],
       "correctIndex": 0,
-      "explanation": "Irlan fechou o capítulo de Lille com gratidão: de livreur a geógrafo de sua própria vida."
+      "explanation": "O carro cinza de Garnier estava parado na praça, de faróis apagados."
     }
   ]
 }
