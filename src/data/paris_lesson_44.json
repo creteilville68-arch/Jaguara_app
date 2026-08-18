@@ -1,60 +1,87 @@
 {
   "id": "paris_lesson_44",
   "cityId": "paris",
-  "domain": "Esporte & Saúde",
+  "domain": "Saúde & Esporte",
   "level": "Iniciante (A1)",
   "titleFr": "Le sport et la piscine",
   "titlePt": "O esporte e a piscina",
-  "subtitleFr": "Faire du sport en famille",
-  "subtitlePt": "Praticar esporte em família",
-  "summaryPt": "Nesta Aula 44 (A1), a família pratica esporte e vai à piscina. O aluno aprende o vocabulário do esporte (sport, piscine, nager, ballon, jouer, équipe, gagner, perdre, stade) e a expressão faire du sport.",
+  "subtitleFr": "Nager, courir et respirer ensemble",
+  "subtitlePt": "Nadar, correr e respirar juntos",
+  "summaryPt": "Na Aula 44 (A1), Irlan e Andréa vão à piscina e fazem esporte juntos. O aluno aprende o vocabulário do esporte e do corpo, e o verbo 'nager'.",
   "paragraphs": [
     {
       "id": 1,
-      "fr": "Le week-end, la famille fait du sport. « Le sport, c'est bon pour la santé, dit Irlan. Aujourd'hui, nous allons à la piscine. Iris adore nager ! »",
-      "pt": "No fim de semana, a família pratica esporte. « Esporte faz bem para a saúde, diz Irlan. Hoje, vamos à piscina. Íris adora nadar! »"
+      "fr": "« Il faut bouger un peu ! » dit Andréa un samedi matin. « Viens, on va à la piscine. »",
+      "pt": "«Precisamos nos mexer um pouco!», diz Andréa num sábado de manhã. «Vem, vamos à piscina.»"
     },
     {
       "id": 2,
-      "fr": "À la piscine, Iris met son maillot et sa serviette. Elle saute dans l'eau avec joie. « Regarde, papa ! Je nage comme un poisson ! » Andréa la regarde et applaudit.",
-      "pt": "Na piscina, Íris veste seu maiô e pega sua toalha. Ela pula na água com alegria. « Olha, papai! Eu nado como um peixe! » Andréa a observa e aplaude."
+      "fr": "Irlan n'est pas très sûr. « Je nage comme une pierre », plaisante-t-il.",
+      "pt": "Irlan não está muito seguro. «Eu nado como uma pedra», brinca ele."
     },
     {
       "id": 3,
-      "fr": "Le dimanche, Irlan joue au football avec des amis au parc. Il y a deux équipes et un ballon. « Nous allons gagner ! » crie Irlan. Son équipe gagne trois à un.",
-      "pt": "No domingo, Irlan joga futebol com amigos no parque. Há dois times e uma bola. « Vamos ganhar! » grita Irlan. Seu time ganha de três a um."
+      "fr": "« Alors, on va t'apprendre ! » rit Andréa. Elle prend les serviettes et les maillots.",
+      "pt": "«Então, vamos te ensinar!», ri Andréa. Ela pega as toalhas e os maiôs."
     },
     {
       "id": 4,
-      "fr": "Le soir, toute la famille est fatiguée mais contente. « Le sport, c'est bien, dit Andréa. Demain, nous allons faire une promenade au jardin. C'est aussi une activité. »",
-      "pt": "À noite, toda a família está cansada mas contente. « Esporte é bom, diz Andréa. Amanhã, vamos fazer um passeio no jardim. Também é uma atividade. »"
+      "fr": "À la piscine, l'eau est bleue et claire. Il y a des couloirs pour nager et des enfants qui jouent.",
+      "pt": "Na piscina, a água é azul e clara. Há raias para nadar e crianças brincando."
+    },
+    {
+      "id": 5,
+      "fr": "Andréa entre dans l'eau la première. « Elle est bonne ! » dit-elle en souriant.",
+      "pt": "Andréa entra na água primeiro. «Ela está boa!», diz ela sorrindo."
+    },
+    {
+      "id": 6,
+      "fr": "Irlan la suit doucement. Il s'accroche au bord, puis il essaie de flotter.",
+      "pt": "Irlan a segue devagar. Ele se segura na borda e depois tenta flutuar."
+    },
+    {
+      "id": 7,
+      "fr": "« Respire, détends-toi », dit Andréa. Elle lui montre les mouvements des bras.",
+      "pt": "«Respire, relaxe», diz Andréa. Ela mostra os movimentos dos braços."
+    },
+    {
+      "id": 8,
+      "fr": "Peu à peu, Irlan avance. Il nage quelques mètres sans toucher le fond.",
+      "pt": "Pouco a pouco, Irlan avança. Ele nada alguns metros sem tocar o fundo."
+    },
+    {
+      "id": 9,
+      "fr": "« Bravo ! » applaudit Andréa. « Tu as fait dix mètres ! »",
+      "pt": "«Bravo!», aplaude Andréa. «Você fez dez metros!»"
+    },
+    {
+      "id": 10,
+      "fr": "Après la piscine, ils courent doucement autour du parc. Le sport rend le corps fort.",
+      "pt": "Depois da piscina, eles correm devagar pelo parque. O esporte deixa o corpo forte."
+    },
+    {
+      "id": 11,
+      "fr": "« C'est bon pour la santé », dit Irlan, essoufflé mais content. « Et c'est encore mieux à deux. »",
+      "pt": "«Faz bem para a saúde», diz Irlan, ofegante mas contente. «E é ainda melhor a dois.»"
+    },
+    {
+      "id": 12,
+      "fr": "Le soir, ils rentrent fatigués et heureux. « Dimanche prochain, on recommence ? » demande Andréa. « Promis », répond Irlan.",
+      "pt": "À noite, eles voltam cansados e felizes. «Domingo que vem, a gente repete?», pergunta Andréa. «Prometido», responde Irlan."
     }
   ],
   "vocabularyDictionary": [
     {
-      "term": "le sport",
-      "definitionPt": "o esporte",
-      "definitionFr": "Activité physique.",
-      "inflections": ["le sport", "un sport", "des sports"],
-      "ptTargets": ["esporte"],
-      "examples": [
-        { "level": "A1", "fr": "Le sport est bon.", "pt": "O esporte é bom." },
-        { "level": "A2-B1", "fr": "La famille fait du sport le week-end.", "pt": "A família pratica esporte no fim de semana." },
-        { "level": "B2", "fr": "Le sport, pratiqué ensemble, renforce les liens.", "pt": "O esporte, praticado juntos, fortalece os laços." },
-        { "level": "C1-C2", "fr": "C'est le sport qui, quotidien, entretient le corps et l'esprit.", "pt": "É o esporte que, cotidiano, mantém o corpo e a mente." }
-      ]
-    },
-    {
       "term": "la piscine",
       "definitionPt": "a piscina",
-      "definitionFr": "Lieu pour nager.",
+      "definitionFr": "Bassin où l'on nage.",
       "inflections": ["la piscine", "une piscine", "des piscines"],
       "ptTargets": ["piscina"],
       "examples": [
         { "level": "A1", "fr": "La piscine est grande.", "pt": "A piscina é grande." },
-        { "level": "A2-B1", "fr": "Nous allons à la piscine aujourd'hui.", "pt": "Vamos à piscina hoje." },
-        { "level": "B2", "fr": "La piscine, bleue et calme, attend les nageurs.", "pt": "A piscina, azul e calma, espera os nadadores." },
-        { "level": "C1-C2", "fr": "C'est la piscine qui, fraîche, accueille l'été.", "pt": "É a piscina que, fresca, acolhe o verão." }
+        { "level": "A2-B1", "fr": "Ils vont à la piscine le samedi.", "pt": "Eles vão à piscina no sábado." },
+        { "level": "B2", "fr": "La piscine municipale ouvre tôt le matin.", "pt": "A piscina municipal abre cedo de manhã." },
+        { "level": "C1-C2", "fr": "C'est la piscine qui, par ses longueurs répétées, enseigne la régularité.", "pt": "É a piscina que, por suas voltas repetidas, ensina a regularidade." }
       ]
     },
     {
@@ -64,88 +91,75 @@
       "inflections": ["nager", "je nage", "nous nageons"],
       "ptTargets": ["nadar"],
       "examples": [
-        { "level": "A1", "fr": "J'aime nager.", "pt": "Eu gosto de nadar." },
-        { "level": "A2-B1", "fr": "Iris adore nager.", "pt": "Íris adora nadar." },
-        { "level": "B2", "fr": "Nager régulièrement est excellent pour la santé.", "pt": "Nadar regularmente é excelente para a saúde." },
-        { "level": "C1-C2", "fr": "C'est en nageant que l'on se sent libre dans l'eau.", "pt": "É nadando que se sente livre na água." }
+        { "level": "A1", "fr": "Je nage dans la piscine.", "pt": "Eu nado na piscina." },
+        { "level": "A2-B1", "fr": "Irlan nage quelques mètres sans toucher le fond.", "pt": "Irlan nada alguns metros sem tocar o fundo." },
+        { "level": "B2", "fr": "Nager régulièrement renforce le cœur et les poumons.", "pt": "Nadar com regularidade fortalece o coração e os pulmões." },
+        { "level": "C1-C2", "fr": "C'est en nageant que l'on apprend à avancer sans se battre contre l'eau.", "pt": "É nadando que se aprende a avançar sem lutar contra a água." }
       ]
     },
     {
-      "term": "le ballon",
-      "definitionPt": "a bola",
-      "definitionFr": "Objet rond pour jouer.",
-      "inflections": ["le ballon", "un ballon", "des ballons"],
-      "ptTargets": ["bola"],
+      "term": "le sport",
+      "definitionPt": "o esporte",
+      "definitionFr": "Activité physique.",
+      "inflections": ["le sport", "un sport", "des sports"],
+      "ptTargets": ["esporte"],
       "examples": [
-        { "level": "A1", "fr": "Le ballon est rouge.", "pt": "A bola é vermelha." },
-        { "level": "A2-B1", "fr": "Irlan joue avec le ballon au parc.", "pt": "Irlan joga com a bola no parque." },
-        { "level": "B2", "fr": "Le ballon, lancé, traverse le terrain.", "pt": "A bola, lançada, atravessa o campo." },
-        { "level": "C1-C2", "fr": "C'est le ballon qui, léger, porte les rêves des joueurs.", "pt": "É a bola que, leve, carrega os sonhos dos jogadores." }
+        { "level": "A1", "fr": "Le sport est bon.", "pt": "O esporte é bom." },
+        { "level": "A2-B1", "fr": "Le sport rend le corps fort.", "pt": "O esporte deixa o corpo forte." },
+        { "level": "B2", "fr": "Pratiquer un sport aide à garder la forme.", "pt": "Praticar um esporte ajuda a manter a forma." },
+        { "level": "C1-C2", "fr": "C'est le sport qui, par l'effort, forge la persévérance.", "pt": "É o esporte que, pelo esforço, forja a perseverança." }
       ]
     },
     {
-      "term": "jouer",
-      "definitionPt": "jogar / brincar",
-      "definitionFr": "Faire une activité amusante.",
-      "inflections": ["jouer", "je joue", "nous jouons"],
-      "ptTargets": ["jogar", "brincar"],
+      "term": "l'eau",
+      "definitionPt": "a água",
+      "definitionFr": "Liquide clair, sans goût.",
+      "inflections": ["l'eau", "une eau", "des eaux"],
+      "ptTargets": ["água"],
       "examples": [
-        { "level": "A1", "fr": "Je joue au ballon.", "pt": "Eu jogo bola." },
-        { "level": "A2-B1", "fr": "Irlan joue au football avec des amis.", "pt": "Irlan joga futebol com amigos." },
-        { "level": "B2", "fr": "Les enfants jouent ensemble au parc.", "pt": "As crianças brincam juntas no parque." },
-        { "level": "C1-C2", "fr": "C'est en jouant que l'on apprend à vivre ensemble.", "pt": "É brincando que se aprende a viver junto." }
+        { "level": "A1", "fr": "L'eau est froide.", "pt": "A água está fria." },
+        { "level": "A2-B1", "fr": "L'eau de la piscine est claire.", "pt": "A água da piscina é clara." },
+        { "level": "B2", "fr": "Il faut boire de l'eau avant et après l'effort.", "pt": "É preciso beber água antes e depois do esforço." },
+        { "level": "C1-C2", "fr": "C'est l'eau qui, calme en apparence, porte le nageur qui lui fait confiance.", "pt": "É a água que, calma na aparência, sustenta o nadador que confia nela." }
       ]
     },
     {
-      "term": "l'équipe",
-      "definitionPt": "o time",
-      "definitionFr": "Groupe de joueurs.",
-      "inflections": ["l'équipe", "une équipe", "des équipes"],
-      "ptTargets": ["time", "equipe"],
+      "term": "courir",
+      "definitionPt": "correr",
+      "definitionFr": "Se déplacer rapidement à pied.",
+      "inflections": ["courir", "je cours", "nous courons"],
+      "ptTargets": ["correr"],
       "examples": [
-        { "level": "A1", "fr": "L'équipe est forte.", "pt": "O time é forte." },
-        { "level": "A2-B1", "fr": "Il y a deux équipes et un ballon.", "pt": "Há dois times e uma bola." },
-        { "level": "B2", "fr": "L'équipe, unie, joue avec le cœur.", "pt": "O time, unido, joga com o coração." },
-        { "level": "C1-C2", "fr": "C'est l'équipe qui, solidaire, gagne les matchs.", "pt": "É o time que, solidário, ganha os jogos." }
+        { "level": "A1", "fr": "Je cours au parc.", "pt": "Eu corro no parque." },
+        { "level": "A2-B1", "fr": "Ils courent doucement autour du parc.", "pt": "Eles correm devagar pelo parque." },
+        { "level": "B2", "fr": "Courir tôt le matin donne de l'énergie pour la journée.", "pt": "Correr cedo de manhã dá energia para o dia." },
+        { "level": "C1-C2", "fr": "C'est en courant que l'on sent battre son propre rythme.", "pt": "É correndo que se sente bater o próprio ritmo." }
       ]
     },
     {
-      "term": "gagner",
-      "definitionPt": "ganhar / vencer",
-      "definitionFr": "Remporter une victoire.",
-      "inflections": ["gagner", "je gagne", "nous gagnons"],
-      "ptTargets": ["ganhar", "vencer"],
+      "term": "respirer",
+      "definitionPt": "respirar",
+      "definitionFr": "Faire entrer et sortir l'air.",
+      "inflections": ["respirer", "je respire", "nous respirons"],
+      "ptTargets": ["respirar"],
       "examples": [
-        { "level": "A1", "fr": "Nous gagnons le match.", "pt": "Nós ganhamos o jogo." },
-        { "level": "A2-B1", "fr": "Son équipe gagne trois à un.", "pt": "Seu time ganha de três a um." },
-        { "level": "B2", "fr": "Gagner ensemble, c'est plus doux que gagner seul.", "pt": "Ganhar juntos é mais doce do que ganhar sozinho." },
-        { "level": "C1-C2", "fr": "C'est en s'entraînant que l'on gagne.", "pt": "É treinando que se ganha." }
+        { "level": "A1", "fr": "Je respire lentement.", "pt": "Eu respiro devagar." },
+        { "level": "A2-B1", "fr": "Respire et détends-toi dans l'eau.", "pt": "Respire e relaxe na água." },
+        { "level": "B2", "fr": "Bien respirer est essentiel pour nager longtemps.", "pt": "Respirar bem é essencial para nadar por muito tempo." },
+        { "level": "C1-C2", "fr": "C'est en respirant calmement que l'on garde le contrôle de ses gestes.", "pt": "É respirando com calma que se mantém o controle dos gestos." }
       ]
     },
     {
-      "term": "perdre",
-      "definitionPt": "perder",
-      "definitionFr": "Ne pas gagner.",
-      "inflections": ["perdre", "je perds", "nous perdons"],
-      "ptTargets": ["perder"],
+      "term": "la santé",
+      "definitionPt": "a saúde",
+      "definitionFr": "État du corps et de l'esprit.",
+      "inflections": ["la santé"],
+      "ptTargets": ["saúde"],
       "examples": [
-        { "level": "A1", "fr": "Nous ne perdons pas.", "pt": "Nós não perdemos." },
-        { "level": "A2-B1", "fr": "Quelquefois, une équipe perd le match.", "pt": "Às vezes, um time perde o jogo." },
-        { "level": "B2", "fr": "Perdre un match n'est pas une fin.", "pt": "Perder um jogo não é um fim." },
-        { "level": "C1-C2", "fr": "C'est en perdant que l'on apprend à gagner.", "pt": "É perdendo que se aprende a ganhar." }
-      ]
-    },
-    {
-      "term": "le maillot",
-      "definitionPt": "o maiô / a camisa de esporte",
-      "definitionFr": "Vêtement pour nager ou jouer.",
-      "inflections": ["le maillot", "un maillot", "des maillots"],
-      "ptTargets": ["maiô", "camisa"],
-      "examples": [
-        { "level": "A1", "fr": "Le maillot est bleu.", "pt": "O maiô é azul." },
-        { "level": "A2-B1", "fr": "Iris met son maillot pour la piscine.", "pt": "Íris veste o maiô para a piscina." },
-        { "level": "B2", "fr": "Le maillot de l'équipe, rouge, porte le numéro neuf.", "pt": "A camisa do time, vermelha, leva o número nove." },
-        { "level": "C1-C2", "fr": "C'est le maillot qui, porté, unit les joueurs.", "pt": "É a camisa que, vestida, une os jogadores." }
+        { "level": "A1", "fr": "La santé est importante.", "pt": "A saúde é importante." },
+        { "level": "A2-B1", "fr": "Le sport est bon pour la santé.", "pt": "O esporte é bom para a saúde." },
+        { "level": "B2", "fr": "Prendre soin de sa santé passe par le sommeil et l'exercice.", "pt": "Cuidar da saúde passa pelo sono e pelo exercício." },
+        { "level": "C1-C2", "fr": "C'est la santé qui, souvent silencieuse, conditionne tous nos projets.", "pt": "É a saúde que, muitas vezes silenciosa, condiciona todos os nossos projetos." }
       ]
     },
     {
@@ -155,98 +169,124 @@
       "inflections": ["la serviette", "une serviette", "des serviettes"],
       "ptTargets": ["toalha"],
       "examples": [
-        { "level": "A1", "fr": "La serviette est blanche.", "pt": "A toalha é branca." },
-        { "level": "A2-B1", "fr": "Iris prend sa serviette pour la piscine.", "pt": "Íris pega sua toalha para a piscina." },
-        { "level": "B2", "fr": "La serviette, sèche, attend au bord de l'eau.", "pt": "A toalha, seca, espera à beira da água." },
-        { "level": "C1-C2", "fr": "C'est la serviette qui, enroulée, garde la chaleur du bain.", "pt": "É a toalha que, enrolada, guarda o calor do banho." }
+        { "level": "A1", "fr": "La serviette est douce.", "pt": "A toalha é macia." },
+        { "level": "A2-B1", "fr": "Andréa prend les serviettes et les maillots.", "pt": "Andréa pega as toalhas e os maiôs." },
+        { "level": "B2", "fr": "Après la piscine, on se sèche avec une serviette.", "pt": "Depois da piscina, a gente se seca com uma toalha." },
+        { "level": "C1-C2", "fr": "C'est la serviette qui, après l'effort, enveloppe le nageur d'un peu de chaleur.", "pt": "É a toalha que, depois do esforço, envolve o nadador com um pouco de calor." }
       ]
     },
     {
-      "term": "la santé",
-      "definitionPt": "a saúde",
-      "definitionFr": "État du corps.",
-      "inflections": ["la santé", "une bonne santé"],
-      "ptTargets": ["saúde"],
+      "term": "le maillot",
+      "definitionPt": "o maiô (roupa de banho)",
+      "definitionFr": "Vêtement pour nager.",
+      "inflections": ["le maillot", "un maillot", "des maillots"],
+      "ptTargets": ["maiô", "roupa de banho"],
       "examples": [
-        { "level": "A1", "fr": "Le sport est bon pour la santé.", "pt": "O esporte é bom para a saúde." },
-        { "level": "A2-B1", "fr": "Nager est excellent pour la santé.", "pt": "Nadar é excelente para a saúde." },
-        { "level": "B2", "fr": "La santé, précieuse, demande des soins chaque jour.", "pt": "A saúde, preciosa, pede cuidados todos os dias." },
-        { "level": "C1-C2", "fr": "C'est la santé qui, préservée, permet de profiter de la vie.", "pt": "É a saúde que, preservada, permite aproveitar a vida." }
+        { "level": "A1", "fr": "Le maillot est neuf.", "pt": "O maiô é novo." },
+        { "level": "A2-B1", "fr": "Andréa prend les maillots pour la piscine.", "pt": "Andréa pega os maiôs para a piscina." },
+        { "level": "B2", "fr": "Un maillot bien ajusté facilite la nage.", "pt": "Um maiô bem ajustado facilita a natação." },
+        { "level": "C1-C2", "fr": "C'est le maillot qui, modeste, accompagne chaque plongeon.", "pt": "É o maiô que, modesto, acompanha cada mergulho." }
       ]
     },
     {
-      "term": "faire une promenade",
-      "definitionPt": "fazer um passeio",
-      "definitionFr": "Marcher pour le plaisir.",
-      "inflections": ["faire une promenade", "je fais une promenade"],
-      "ptTargets": ["passeio", "caminhada"],
+      "term": "fort",
+      "definitionPt": "forte",
+      "definitionFr": "Qui a de la force.",
+      "inflections": ["fort", "forte"],
+      "ptTargets": ["forte"],
       "examples": [
-        { "level": "A1", "fr": "Nous faisons une promenade.", "pt": "Fazemos um passeio." },
-        { "level": "A2-B1", "fr": "Demain, nous allons faire une promenade au jardin.", "pt": "Amanhã, vamos fazer um passeio no jardim." },
-        { "level": "B2", "fr": "Une promenade au parc, c'est bon pour le corps et l'esprit.", "pt": "Um passeio no parque faz bem ao corpo e à mente." },
-        { "level": "C1-C2", "fr": "C'est en faisant une promenade que l'on respire la ville.", "pt": "É fazendo um passeio que se respira a cidade." }
+        { "level": "A1", "fr": "Il est fort.", "pt": "Ele é forte." },
+        { "level": "A2-B1", "fr": "Le sport rend le corps fort.", "pt": "O esporte deixa o corpo forte." },
+        { "level": "B2", "fr": "Nager demande des bras forts et un souffle régulier.", "pt": "Nadar exige braços fortes e um fôlego regular." },
+        { "level": "C1-C2", "fr": "C'est fort celui qui, dans l'effort, trouve encore la force d'encourager.", "pt": "É forte aquele que, no esforço, ainda encontra forças para incentivar." }
+      ]
+    },
+    {
+      "term": "se détendre",
+      "definitionPt": "relaxar",
+      "definitionFr": "Relâcher son corps.",
+      "inflections": ["se détendre", "je me détends", "nous nous détendons"],
+      "ptTargets": ["relaxar"],
+      "examples": [
+        { "level": "A1", "fr": "Je me détends après le sport.", "pt": "Eu relaxo depois do esporte." },
+        { "level": "A2-B1", "fr": "Détends-toi dans l'eau.", "pt": "Relaxe na água." },
+        { "level": "B2", "fr": "Se détendre avant de nager évite les crampes.", "pt": "Relaxar antes de nadar evita cãibras." },
+        { "level": "C1-C2", "fr": "C'est en se détendant que l'on trouve l'équilibre dans l'effort.", "pt": "É relaxando que se encontra o equilíbrio no esforço." }
+      ]
+    },
+    {
+      "term": "applaudir",
+      "definitionPt": "aplaudir",
+      "definitionFr": "Battre des mains pour féliciter.",
+      "inflections": ["applaudir", "j'applaudis", "nous applaudissons"],
+      "ptTargets": ["aplaudir"],
+      "examples": [
+        { "level": "A1", "fr": "Ils applaudissent.", "pt": "Eles aplaudem." },
+        { "level": "A2-B1", "fr": "Andréa applaudit Irlan.", "pt": "Andréa aplaude Irlan." },
+        { "level": "B2", "fr": "Le public applaudit les nageurs à la fin de la course.", "pt": "O público aplaude os nadadores no fim da prova." },
+        { "level": "C1-C2", "fr": "C'est en applaudissant que l'on transforme un petit progrès en victoire.", "pt": "É aplaudindo que se transforma um pequeno progresso em vitória." }
       ]
     }
   ],
   "grammarTip": {
-    "ruleTitle": "Faire du sport : praticar esporte",
-    "explanationPt": "Para dizer que se pratica um esporte ou atividade: 'faire du sport' (praticar esporte), 'faire de la natation' (nadar), 'faire du vélo' (andar de bicicleta), 'faire une promenade' (fazer um passeio).",
-    "exampleFr": "La famille fait du sport le week-end. Nous allons faire une promenade au jardin.",
-    "examplePt": "A família pratica esporte no fim de semana. Vamos fazer um passeio no jardim.",
-    "practiceQuestion": "Complete: 'La famille fait _____ sport le week-end.'",
-    "options": ["du", "de la", "des"],
+    "ruleTitle": "Le verbe nager : nadar",
+    "explanationPt": "'Nager' (nadar): je nage, tu nages, il/elle nage, nous nageons, vous nagez, ils/elles nagent. Note o 'e' extra em 'nous nageons' para manter o som.",
+    "exampleFr": "Irlan nage quelques mètres sans toucher le fond.",
+    "examplePt": "Irlan nada alguns metros sem tocar o fundo.",
+    "practiceQuestion": "Complete: 'Nous _____ dans la piscine.'",
+    "options": ["nageons", "nagons", "nage"],
     "correctIndex": 0,
     "points": [
       {
-        "ruleTitle": "Jouer au / à la / aux : jogar",
-        "explanationPt": "Com esportes de bola, usa-se 'jouer au/à la/aux': 'jouer au football' (jogar futebol), 'jouer au ballon' (jogar bola), 'jouer aux cartes' (jogar cartas).",
-        "exampleFr": "Irlan joue au football avec des amis au parc.",
-        "examplePt": "Irlan joga futebol com amigos no parque.",
-        "practiceQuestion": "Complete: 'Irlan joue _____ football.'",
-        "options": ["au", "à la", "du"],
+        "ruleTitle": "L'impératif : détends-toi",
+        "explanationPt": "Imperativo dos verbos pronominais: 'détends-toi' (relaxe), 'détendez-vous' (relaxem, formal). O pronome vem depois, com hífen.",
+        "exampleFr": "Respire, détends-toi.",
+        "examplePt": "Respire, relaxe.",
+        "practiceQuestion": "Complete: 'Détends-_____ !'",
+        "options": ["toi", "te", "tu"],
         "correctIndex": 0
       },
       {
-        "ruleTitle": "C'est bon pour la santé : é bom para a saúde",
-        "explanationPt": "Para dar conselhos simples: 'C'est bon pour la santé' (é bom para a saúde), 'C'est excellent pour la santé' (é excelente para a saúde).",
-        "exampleFr": "Le sport, c'est bon pour la santé.",
-        "examplePt": "O esporte é bom para a saúde.",
-        "practiceQuestion": "Complete: 'Le sport est bon pour la _____ .'",
-        "options": ["santé", "santé pas", "sains"],
+        "ruleTitle": "Il faut + infinitif",
+        "explanationPt": "'Il faut' + infinitivo = necessidade impessoal: 'il faut bouger' (precisamos nos mexer), 'il faut boire de l'eau'.",
+        "exampleFr": "Il faut bouger un peu !",
+        "examplePt": "Precisamos nos mexer um pouco!",
+        "practiceQuestion": "Complete: 'Il _____ boire de l'eau.'",
+        "options": ["faut", "fautent", "faudra"],
         "correctIndex": 0
       }
     ]
   },
   "quizQuestions": [
     {
-      "question": "O que a família vai fazer hoje?",
-      "options": ["ir à piscina", "ir ao cinema", "ir ao museu"],
+      "question": "Aonde Andréa leva Irlan?",
+      "options": ["à piscina", "à montanha", "ao cinema"],
       "correctIndex": 0,
-      "explanation": "Aujourd'hui, nous allons à la piscine."
+      "explanation": "Ils vont à la piscine."
     },
     {
-      "question": "Quem nada como um peixe?",
-      "options": ["Íris", "Irlan", "Andréa"],
+      "question": "Quantos metros Irlan nada?",
+      "options": ["dez metros", "cem metros", "um metro"],
       "correctIndex": 0,
-      "explanation": "Je nage comme un poisson ! dit Iris."
+      "explanation": "Il a fait dix mètres."
     },
     {
-      "question": "Qual foi o placar do jogo de Irlan?",
-      "options": ["três a um", "dois a dois", "um a zero"],
+      "question": "O que eles fazem depois da piscina?",
+      "options": ["correm no parque", "dormem", "comem bolo"],
       "correctIndex": 0,
-      "explanation": "Son équipe gagne trois à un."
+      "explanation": "Ils courent autour du parc."
     },
     {
-      "question": "Complete: 'La famille fait _____ sport le week-end.'",
-      "options": ["du", "de la", "des"],
+      "question": "Complete: 'Nous _____ dans la piscine.'",
+      "options": ["nageons", "nagons", "nage"],
       "correctIndex": 0,
-      "explanation": "Faire du sport = praticar esporte."
+      "explanation": "nous nageons."
     },
     {
-      "question": "Complete: 'Irlan joue _____ football.'",
-      "options": ["au", "à la", "du"],
+      "question": "Complete: 'Détends-_____ !'",
+      "options": ["toi", "te", "tu"],
       "correctIndex": 0,
-      "explanation": "Jouer au football."
+      "explanation": "Détends-toi (imperativo pronominal)."
     }
   ]
 }

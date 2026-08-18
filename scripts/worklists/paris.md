@@ -43,10 +43,11 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **la pile** — a pilha
 - [ ] **la poissonnerie** — a peixaria
 - [ ] **la poupée** — a boneca
-- [ ] **la raquette** — a raquete
-- [ ] **la salle de bain** — o banheiro
-- [ ] **la scie** — o serrote
-- [ ] **la serviette de bain** — a toalha de banho
+- [ ] **la rallonge** — a extensão
+- [ ] **la salle à manger** — a sala de jantar
+- [ ] **la salle de sport** — a academia
+- [ ] **la série** — a série
+- [ ] **la sonnette** — a campainha
 - [ ] **la souris d’ordinateur** — o mouse
 - [ ] **la tante** — a tia
 - [ ] **la télécommande** — o controle remoto
@@ -57,55 +58,54 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **le café au lait** — o café com leite
 - [ ] **le carrelage** — o azulejo / o piso
 - [ ] **le coiffeur** — o cabeleireiro
-- [ ] **le concombre** — o pepino
-- [ ] **le couteau** — a faca
-- [ ] **le croissant au beurre** — o croissant de manteiga
-- [ ] **le dessin animé** — o desenho animado
-- [ ] **le drap** — o lençol
-- [ ] **le fouet** — o batedor
-- [ ] **le genou** — o joelho
-- [ ] **le gruyère** — o gruyère
-- [ ] **le jeu télévisé** — o programa de auditório
-- [ ] **le journal intime** — o diário
-- [ ] **le jus de pomme** — o suco de maçã
-- [ ] **le marteau** — o martelo
-- [ ] **le mixeur** — o liquidificador / o mixer
-- [ ] **le papier peint** — o papel de parede
-- [ ] **le peigne** — o pente
-- [ ] **le poisson rouge** — o peixinho dourado
-- [ ] **le portable** — o celular
-- [ ] **le produit de nettoyage** — o produto de limpeza
-- [ ] **le rasoir** — o barbeador
-- [ ] **le renard** — a raposa
-- [ ] **le robinet** — a torneira
-- [ ] **le rouleau** — o rolo (de pintura)
-- [ ] **le seau** — o balde
-- [ ] **le shampooing** — o xampu
-- [ ] **le stylo** — a caneta
-- [ ] **le thé vert** — o chá verde
-- [ ] **le tiroir** — a gaveta
-- [ ] **le transformateur** — o transformador
-- [ ] **le violon** — o violino
-- [ ] **le yoga** — a ioga
-- [ ] **les chaussettes** — as meias
-- [ ] **les œufs brouillés** — os ovos mexidos
-- [ ] **les toilettes** — o banheiro (sanitário)
-- [ ] **mal de tête** — dor de cabeça / enxaqueca
-- [ ] **moche** — feio (coloquial)
-- [ ] **mou** — mole
-- [ ] **opaque** — opaco
-- [ ] **passe Navigo** — passe Navigo / cartão Navigo
-- [ ] **peler** — descascar
-- [ ] **poser une question** — fazer uma pergunta
-- [ ] **prendre une douche** — tomar banho (chuveiro)
-- [ ] **quatre-vingt-dix** — noventa
-- [ ] **ranger la chambre** — arrumar o quarto
-- [ ] **recevoir un colis** — receber uma encomenda
-- [ ] **regarder une vidéo** — assistir a um vídeo
-- [ ] **rester à la maison** — ficar em casa
-- [ ] **se chausser** — calçar-se
-- [ ] **se coucher tôt** — deitar cedo
-- [ ] **se déshabiller** — despir-se
+- [ ] **le cou** — o pescoço
+- [ ] **le couvercle** — a tampa
+- [ ] **le dentifrice** — o creme dental
+- [ ] **le digicode** — o interfone
+- [ ] **le footballeur** — o jogador de futebol
+- [ ] **le garage** — a garagem
+- [ ] **le gratin** — o gratinado
+- [ ] **le handball** — o handebol
+- [ ] **le jeu vidéo** — o videogame
+- [ ] **le journal télévisé** — o telejornal
+- [ ] **le lave-vaisselle** — a lava-louças
+- [ ] **le minuteur** — o timer
+- [ ] **le nom d’utilisateur** — o nome de usuário
+- [ ] **le parquet** — o piso de madeira
+- [ ] **le plancher** — o assoalho
+- [ ] **le poivron** — o pimentão
+- [ ] **le poulet rôti** — o frango assado
+- [ ] **le pull** — o suéter
+- [ ] **le réfrigérateur** — a geladeira
+- [ ] **le reportage** — a reportagem
+- [ ] **le robinet d’eau** — a torneira de água
+- [ ] **le rouleau à pâtisserie** — o rolo de massa
+- [ ] **le sèche-linge** — a secadora
+- [ ] **le site internet** — o site
+- [ ] **le talk-show** — o talk show
+- [ ] **le thon** — o atum
+- [ ] **le tournevis** — a chave de fenda
+- [ ] **le vélo d’enfant** — a bicicleta infantil
+- [ ] **le yaourt** — o iogurte
+- [ ] **les céréales** — os cereais
+- [ ] **les crêpes salées** — os crepes salgados
+- [ ] **les petits pois** — as ervilhas
+- [ ] **maigre** — magro / esguio
+- [ ] **mince** — magro
+- [ ] **mordre** — morder
+- [ ] **musclé** — musculoso
+- [ ] **parterre** — canteiro de flores / jardim ornamental
+- [ ] **passif** — passivo
+- [ ] **perdre un match** — perder uma partida
+- [ ] **prendre un bain** — tomar banho de banheira
+- [ ] **promener (se)** — Passear, caminhar por lazer (verbo pronominal)
+- [ ] **qui est-ce** — quem é
+- [ ] **rarement** — raramente
+- [ ] **redémarrer** — reiniciar
+- [ ] **reposer (se)** — Descansar, repousar (verbo pronominal)
+- [ ] **s’entraîner** — treinar
+- [ ] **se connecter** — conectar-se
+- [ ] **se déconnecter** — desconectar-se
 - [ ] **se maquiller** — maquiar-se
 - [ ] **secondaire** — secundário
 - [ ] **shopping** — compras / shopping / fazer compras
