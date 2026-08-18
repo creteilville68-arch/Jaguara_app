@@ -7,7 +7,7 @@
   "titlePt": "Os Champs-Élysées e o Arco do Triunfo",
   "subtitleFr": "La plus belle avenue du monde et la flamme du Soldat inconnu",
   "subtitlePt": "A avenida mais bonita do mundo e a chama do Soldado Desconhecido",
-  "summaryPt": "Nesta Aula 22 (A1), a família caminha pelos Champs-Élysées, a avenida mais famosa de Paris. Eles chegam ao Arco do Triunfo e veem a flamme du Soldat inconnu. Irlan dá direções como fazia quando entregava. O aluno aprende o imperativo de direção e a preposição 'au bout de'.",
+  "summaryPt": "Nesta Aula 22 (A1), Irlan e Andréa caminham pelos Champs-Élysées, a avenida mais famosa de Paris. Eles chegam ao Arco do Triunfo e veem a flamme du Soldat inconnu. Irlan dá direções como fazia quando entregava. O aluno aprende o imperativo de direção e a preposição 'au bout de'.",
   "paragraphs": [
     {
       "id": 1,
@@ -16,24 +16,64 @@
     },
     {
       "id": 2,
-      "fr": "Nous marchons jusqu'au bout de l'avenue. Au bout, il y a l'Arc de Triomphe. « Allez tout droit, puis tournez à droite », dit Irlan en plaisantant.",
-      "pt": "Nós caminhamos até o fim da avenida. No fim, há o Arco do Triunfo. «Vão em frente e depois virem à direita», diz Irlan brincando."
+      "fr": "Irlan et Andréa marchent jusqu'au bout de l'avenue. Au bout, il y a l'Arc de Triomphe.",
+      "pt": "Irlan e Andréa caminham até o fim da avenida. No fim, há o Arco do Triunfo."
     },
     {
       "id": 3,
-      "fr": "Sous l'Arc de Triomphe, la flamme du Soldat inconnu brûle toujours. La famille regarde la flamme en silence. C'est un moment très émouvant.",
-      "pt": "Sob o Arco do Triunfo, a chama do Soldado Desconhecido queima sempre. A família olha a chama em silêncio. É um momento muito emocionante."
+      "fr": "« Allez tout droit, puis tournez à droite », dit Irlan en plaisantant, comme s'il guidait un client.",
+      "pt": "«Vão em frente e depois virem à direita», diz Irlan brincando, como se guiasse um cliente."
     },
     {
       "id": 4,
-      "fr": "Le soir, la famille monte en haut de l'Arc. La vue sur Paris est incroyable : la tour Eiffel, La Défense et toutes les lumières de la ville.",
-      "pt": "À noite, a família sobe ao topo do Arco. A vista sobre Paris é incrível: a torre Eiffel, La Défense e todas as luzes da cidade."
+      "fr": "Andréa rit. « Toi, tu connais toutes les rues de Paris. Moi, je connais seulement celles qui mènent au métro. »",
+      "pt": "Andréa ri. «Você conhece todas as ruas de Paris. Eu só conheço as que levam ao metrô.»"
+    },
+    {
+      "id": 5,
+      "fr": "Sous l'Arc de Triomphe, la flamme du Soldat inconnu brûle toujours. Ils regardent la flamme en silence. C'est un moment très émouvant.",
+      "pt": "Sob o Arco do Triunfo, a chama do Soldado Desconhecido queima sempre. Eles olham a chama em silêncio. É um momento muito emocionante."
+    },
+    {
+      "id": 6,
+      "fr": "Irlan pose sa main sur son cœur un instant. Andréa l'observe sans dire un mot, touchée par son respect.",
+      "pt": "Irlan põe a mão no coração por um instante. Andréa o observa sem dizer uma palavra, tocada pelo respeito dele."
+    },
+    {
+      "id": 7,
+      "fr": "Le soir, ils montent en haut de l'Arc. La vue sur Paris est incroyable : la tour Eiffel, La Défense et toutes les lumières de la ville.",
+      "pt": "À noite, eles sobem ao topo do Arco. A vista sobre Paris é incrível: a torre Eiffel, La Défense e todas as luzes da cidade."
+    },
+    {
+      "id": 8,
+      "fr": "« Regarde, toutes ces avenues partent d'ici comme les rayons d'une étoile », dit Irlan, les yeux brillants.",
+      "pt": "«Olha, todas essas avenidas partem daqui como os raios de uma estrela», diz Irlan, de olhos brilhando."
+    },
+    {
+      "id": 9,
+      "fr": "« Quand je livrais en scooter, je roulais dans ces rues. Maintenant, je les vois toutes d'en haut, avec toi. »",
+      "pt": "«Quando eu entregava de scooter, eu andava por essas ruas. Agora, eu as vejo todas lá de cima, com você.»"
+    },
+    {
+      "id": 10,
+      "fr": "Andréa s'approche. « La ville que tu as apprise rue par rue, tu me la montres d'en haut. C'est beau. »",
+      "pt": "Andréa se aproxima. «A cidade que você aprendeu rua por rua, você me mostra lá de cima. É bonito.»"
+    },
+    {
+      "id": 11,
+      "fr": "Le vent souffle doucement. Les lumières de la ville brillent comme des milliers de petites flammes.",
+      "pt": "O vento sopra suavemente. As luzes da cidade brilham como milhares de pequenas chamas."
+    },
+    {
+      "id": 12,
+      "fr": "« Un jour, je t'emmènerai voir la vue depuis la tour Eiffel », promet Irlan. « Ce sera encore plus haut. »",
+      "pt": "«Um dia, vou te levar para ver a vista da torre Eiffel», promete Irlan. «Será ainda mais alto.»"
     }
   ],
   "vocabularyDictionary": [
     {
-      "term": "avenue",
-      "definitionPt": "avenida",
+      "term": "l'avenue",
+      "definitionPt": "a avenida",
       "definitionFr": "Grande rue large et bordée d'arbres.",
       "inflections": ["l'avenue", "une avenue", "des avenues"],
       "ptTargets": ["avenida"],
@@ -58,8 +98,8 @@
       ]
     },
     {
-      "term": "magasin",
-      "definitionPt": "loja, magazine",
+      "term": "le magasin",
+      "definitionPt": "a loja",
       "definitionFr": "Lieu où l'on vend des produits.",
       "inflections": ["le magasin", "un magasin", "des magasins"],
       "ptTargets": ["loja"],
@@ -71,10 +111,10 @@
       ]
     },
     {
-      "term": "bout",
-      "definitionPt": "fim, extremidade",
+      "term": "le bout",
+      "definitionPt": "o fim, a extremidade",
       "definitionFr": "L'extrémité d'une chose.",
-      "inflections": ["le bout"],
+      "inflections": ["le bout", "au bout"],
       "ptTargets": ["fim", "extremidade"],
       "examples": [
         { "level": "A1", "fr": "L'Arc de Triomphe est au bout de l'avenue.", "pt": "O Arco do Triunfo fica no fim da avenida." },
@@ -84,8 +124,8 @@
       ]
     },
     {
-      "term": "flamme",
-      "definitionPt": "chama",
+      "term": "la flamme",
+      "definitionPt": "a chama",
       "definitionFr": "Partie visible du feu.",
       "inflections": ["la flamme", "une flamme", "des flammes"],
       "ptTargets": ["chama"],
@@ -110,13 +150,13 @@
       ]
     },
     {
-      "term": "silence",
-      "definitionPt": "silêncio",
+      "term": "le silence",
+      "definitionPt": "o silêncio",
       "definitionFr": "Absence de bruit.",
-      "inflections": ["le silence"],
+      "inflections": ["le silence", "en silence"],
       "ptTargets": ["silêncio"],
       "examples": [
-        { "level": "A1", "fr": "La famille regarde en silence.", "pt": "A família olha em silêncio." },
+        { "level": "A1", "fr": "Ils regardent la flamme en silence.", "pt": "Eles olham a chama em silêncio." },
         { "level": "A2-B1", "fr": "Le silence est profond dans le jardin.", "pt": "O silêncio é profundo no jardim." },
         { "level": "B2", "fr": "Un moment de silence rend hommage aux soldats.", "pt": "Um momento de silêncio homenageia os soldados." },
         { "level": "C1-C2", "fr": "Le silence du souvenir parle plus fort que les mots.", "pt": "O silêncio da memória fala mais alto que as palavras." }
@@ -152,7 +192,7 @@
       "term": "photographier",
       "definitionPt": "fotografar",
       "definitionFr": "Prendre des photos.",
-      "inflections": ["je photographie", "photographier", "il photographie"],
+      "inflections": ["je photographie", "photographier", "il photographie", "ils photographient"],
       "ptTargets": ["fotografar"],
       "examples": [
         { "level": "A1", "fr": "Les touristes photographient l'Arc de Triomphe.", "pt": "Os turistas fotografam o Arco do Triunfo." },
@@ -178,7 +218,7 @@
       "term": "tourner",
       "definitionPt": "virar, girar",
       "definitionFr": "Changer de direction.",
-      "inflections": ["je tourne", "tourner", "il tourne"],
+      "inflections": ["je tourne", "tourner", "il tourne", "tournez"],
       "ptTargets": ["virar", "girar"],
       "examples": [
         { "level": "A1", "fr": "Tournez à droite à la prochaine rue.", "pt": "Virem à direita na próxima rua." },
@@ -255,7 +295,7 @@
       "explanation": "A frase 'Continuez tout droit et tournez' está incompleta: falta o complemento de direção ('Tournez à droite')."
     },
     {
-      "question": "O que a família vê sob o Arco do Triunfo?",
+      "question": "O que Irlan e Andréa veem sob o Arco do Triunfo?",
       "options": [
         "A chama do Soldado Desconhecido, que queima sempre",
         "Um mercado de flores",
