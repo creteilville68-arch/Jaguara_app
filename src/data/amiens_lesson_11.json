@@ -1,252 +1,292 @@
 {
   "id": "amiens_lesson_11",
   "cityId": "amiens",
-  "domain": "Literatura & História",
+  "domain": "Cultura & Patrimônio",
   "level": "Iniciante em Transição (A1/A2)",
   "titleFr": "La maison de Jules Verne",
   "titlePt": "A casa de Jules Verne",
-  "subtitleFr": "L'écrivain qui rêvait d'ailleurs",
-  "subtitlePt": "O escritor que sonhava com outros lugares",
-  "summaryPt": "Nesta Aula 11 (A1/A2) da Cidade #2, a família visita a casa de Jules Verne em Amiens, onde o escritor viveu de 1882 a 1905 e escreveu muitos de seus romances. O aluno pratica 'c'est vs il/elle est' e as expressões de tempo (aujourd'hui, maintenant, tout à l'heure).",
+  "subtitleFr": "Les manuscrits et les maquettes d'un rêveur",
+  "subtitlePt": "Os manuscritos e as maquetes de um sonhador",
+  "summaryPt": "Na Aula 11 de Amiens (A1/A2), Irlan e Andréa visitam a casa onde Jules Verne viveu. O aluno aprende o vocabulário do museu e o verbo 'découvrir'.",
   "paragraphs": [
     {
       "id": 1,
-      "fr": "Aujourd'hui, la famille visite la maison de Jules Verne, rue Charles Dubois. « C'est ici que l'écrivain a vécu pendant vingt-trois ans, dit Andréa. Il a écrit beaucoup de romans dans cette maison. »",
-      "pt": "Hoje, a família visita a casa de Jules Verne, na rua Charles Dubois. « É aqui que o escritor viveu durante vinte e três anos, diz Andréa. Ele escreveu muitos romances nesta casa. »"
+      "fr": "Le lendemain, Irlan et Andréa visitent la maison où Jules Verne a vécu.",
+      "pt": "No dia seguinte, Irlan e Andréa visitam a casa onde Jules Verne viveu."
     },
     {
       "id": 2,
-      "fr": "Dans le salon, il y a une grande bibliothèque avec des livres du monde entier. Íris regarde les globes et les cartes. « Est-ce que Jules Verne a vraiment voyagé partout ? » demande-t-elle.",
-      "pt": "Na sala, há uma grande biblioteca com livros do mundo inteiro. Íris observa os globos e os mapas. « Jules Verne viajou mesmo para todos os lugares? » pergunta ela."
+      "fr": "La maison est devenue un petit musée, calme et plein de livres.",
+      "pt": "A casa virou um pequeno museu, calmo e cheio de livros."
     },
     {
       "id": 3,
-      "fr": "Irlan explique : « Non, il ne voyageait presque jamais. Il restait à Amiens et il imaginait ses voyages. C'est ça, le pouvoir de l'imagination ! » Andréa ajoute : « Maintenant, regardons sa chambre. »",
-      "pt": "Irlan explica: « Não, ele quase nunca viajava. Ele ficava em Amiens e imaginava suas viagens. É isso, o poder da imaginação! » Andréa acrescenta: « Agora, olhemos o quarto dele. »"
+      "fr": "Dans une vitrine, des manuscrits montrent l'écriture serrée de l'écrivain.",
+      "pt": "Numa vitrine, manuscritos mostram a letra apertada do escritor."
     },
     {
       "id": 4,
-      "fr": "Dans la chambre, il y a un bureau avec une lampe. « Tout à l'heure, nous allons voir sa bibliothèque personnelle, dit Andréa. C'est une belle leçon : on n'a pas besoin de partir pour voyager. »",
-      "pt": "No quarto, há uma escrivaninha com uma lâmpada. « Daqui a pouco, vamos ver a biblioteca pessoal dele, diz Andréa. É uma bela lição: não é preciso partir para viajar. »"
+      "fr": "« Il écrivait ses voyages avant de les imaginer en entier », explique Andréa.",
+      "pt": "«Ele escrevia as viagens antes de imaginá-las por inteiro», explica Andréa."
+    },
+    {
+      "id": 5,
+      "fr": "Irlan s'arrête devant une grande maquette de bateau. « Il aimait les machines. »",
+      "pt": "Irlan para diante de uma grande maquete de barco. «Ele amava as máquinas.»"
+    },
+    {
+      "id": 6,
+      "fr": "Sur les murs, des cartes anciennes montrent des itinéraires dessinés à la main.",
+      "pt": "Nas paredes, mapas antigos mostram itinerários desenhados à mão."
+    },
+    {
+      "id": 7,
+      "fr": "« Regarde, une carte avec des annotations », dit Irlan. « Comme notre Atlas. »",
+      "pt": "«Olha, um mapa com anotações», diz Irlan. «Como o nosso Atlas.»"
+    },
+    {
+      "id": 8,
+      "fr": "Andréa lit une phrase encadrée : « Tout ce qui est possible reste à faire. »",
+      "pt": "Andréa lê uma frase emoldurada: «Tudo o que é possível ainda está por fazer.»"
+    },
+    {
+      "id": 9,
+      "fr": "« Verne et Manoel se ressemblaient », murmure Irlan. « Des géographes de l'imaginaire. »",
+      "pt": "«Verne e Manoel se pareciam», murmura Irlan. «Geógrafos do imaginário.»"
+    },
+    {
+      "id": 10,
+      "fr": "Dans la bibliothèque, des éditions anciennes dorment derrière les vitres.",
+      "pt": "Na biblioteca, edições antigas dormem atrás dos vidros."
+    },
+    {
+      "id": 11,
+      "fr": "« On découvre toujours quelque chose de nouveau ici », dit Andréa. « Surtout sur le courage de rêver. »",
+      "pt": "«A gente sempre descobre algo novo aqui», diz Andréa. «Principalmente sobre a coragem de sonhar.»"
+    },
+    {
+      "id": 12,
+      "fr": "En sortant, Irlan note une idée dans l'Atlas. Peut-être que les chiffres mènent à une autre ville, comme dans les livres de Verne.",
+      "pt": "Ao sair, Irlan anota uma ideia no Atlas. Talvez os números levem a outra cidade, como nos livros de Verne."
     }
   ],
   "vocabularyDictionary": [
     {
       "term": "la maison",
       "definitionPt": "a casa",
-      "definitionFr": "Bâtiment où l'on habite.",
+      "definitionFr": "Lieu où l'on habite.",
       "inflections": ["la maison", "une maison", "des maisons"],
       "ptTargets": ["casa"],
       "examples": [
-        { "level": "A1", "fr": "La maison est grande.", "pt": "A casa é grande." },
-        { "level": "A2-B1", "fr": "La maison de Jules Verne est un musée.", "pt": "A casa de Jules Verne é um museu." },
-        { "level": "B2", "fr": "La maison, ancienne, garde la mémoire de l'écrivain.", "pt": "A casa, antiga, guarda a memória do escritor." },
-        { "level": "C1-C2", "fr": "C'est la maison qui, silencieuse, a vu naître des chefs-d'œuvre.", "pt": "É a casa que, silenciosa, viu nascer obras-primas." }
+        { "level": "A1", "fr": "La maison est ancienne.", "pt": "A casa é antiga." },
+        { "level": "A2-B1", "fr": "Ils visitent la maison de Jules Verne.", "pt": "Eles visitam a casa de Jules Verne." },
+        { "level": "B2", "fr": "La maison de l'écrivain est devenue un musée.", "pt": "A casa do escritor virou um museu." },
+        { "level": "C1-C2", "fr": "C'est la maison qui, pleine d'objets, garde la présence de celui qui l'a habitée.", "pt": "É a casa que, cheia de objetos, guarda a presença de quem a habitou." }
       ]
     },
     {
-      "term": "le roman",
-      "definitionPt": "o romance",
-      "definitionFr": "Livre de fiction.",
-      "inflections": ["le roman", "un roman", "des romans"],
-      "ptTargets": ["romance"],
+      "term": "le musée",
+      "definitionPt": "o museu",
+      "definitionFr": "Lieu où l'on expose des œuvres.",
+      "inflections": ["le musée", "un musée", "des musées"],
+      "ptTargets": ["museu"],
       "examples": [
-        { "level": "A1", "fr": "Le roman est intéressant.", "pt": "O romance é interessante." },
-        { "level": "A2-B1", "fr": "Jules Verne a écrit beaucoup de romans.", "pt": "Jules Verne escreveu muitos romances." },
-        { "level": "B2", "fr": "Ses romans racontent des voyages extraordinaires.", "pt": "Seus romances contam viagens extraordinárias." },
-        { "level": "C1-C2", "fr": "C'est le roman qui, imaginatif, a fait rêver des générations.", "pt": "É o romance que, imaginativo, fez sonhar gerações." }
+        { "level": "A1", "fr": "Le musée est calme.", "pt": "O museu é calmo." },
+        { "level": "A2-B1", "fr": "La maison est devenue un petit musée.", "pt": "A casa virou um pequeno museu." },
+        { "level": "B2", "fr": "Le musée conserve des manuscrits et des maquettes.", "pt": "O museu conserva manuscritos e maquetes." },
+        { "level": "C1-C2", "fr": "C'est le musée qui, silencieux, garde la mémoire des créateurs.", "pt": "É o museu que, silencioso, guarda a memória dos criadores." }
+      ]
+    },
+    {
+      "term": "le manuscrit",
+      "definitionPt": "o manuscrito",
+      "definitionFr": "Texte écrit à la main.",
+      "inflections": ["le manuscrit", "un manuscrit", "des manuscrits"],
+      "ptTargets": ["manuscrito"],
+      "examples": [
+        { "level": "A1", "fr": "Le manuscrit est ancien.", "pt": "O manuscrito é antigo." },
+        { "level": "A2-B1", "fr": "Des manuscrits montrent l'écriture de l'écrivain.", "pt": "Manuscritos mostram a letra do escritor." },
+        { "level": "B2", "fr": "Le manuscrit original est conservé dans une vitrine.", "pt": "O manuscrito original é conservado numa vitrine." },
+        { "level": "C1-C2", "fr": "C'est le manuscrit qui, raturé, raconte le travail invisible de l'écrivain.", "pt": "É o manuscrito que, rasurado, conta o trabalho invisível do escritor." }
+      ]
+    },
+    {
+      "term": "la maquette",
+      "definitionPt": "a maquete",
+      "definitionFr": "Petit modèle réduit.",
+      "inflections": ["la maquette", "une maquette", "des maquettes"],
+      "ptTargets": ["maquete"],
+      "examples": [
+        { "level": "A1", "fr": "La maquette est belle.", "pt": "A maquete é bonita." },
+        { "level": "A2-B1", "fr": "Irlan regarde une grande maquette de bateau.", "pt": "Irlan olha uma grande maquete de barco." },
+        { "level": "B2", "fr": "La maquette reproduit fidèlement le navire.", "pt": "A maquete reproduz fielmente o navio." },
+        { "level": "C1-C2", "fr": "C'est la maquette qui, réduite, garde l'élan d'un grand voyage.", "pt": "É a maquete que, reduzida, guarda o impulso de uma grande viagem." }
       ]
     },
     {
       "term": "la bibliothèque",
-      "definitionPt": "a biblioteca / estante",
-      "definitionFr": "Meuble ou lieu plein de livres.",
+      "definitionPt": "a biblioteca",
+      "definitionFr": "Lieu où l'on garde des livres.",
       "inflections": ["la bibliothèque", "une bibliothèque", "des bibliothèques"],
-      "ptTargets": ["biblioteca", "estante"],
+      "ptTargets": ["biblioteca"],
       "examples": [
-        { "level": "A1", "fr": "La bibliothèque est pleine de livres.", "pt": "A estante está cheia de livros." },
-        { "level": "A2-B1", "fr": "Il y a une grande bibliothèque dans le salon.", "pt": "Há uma grande estante na sala." },
-        { "level": "B2", "fr": "La bibliothèque de l'écrivain contient des trésors.", "pt": "A biblioteca do escritor contém tesouros." },
-        { "level": "C1-C2", "fr": "C'est la bibliothèque qui, généreuse, offre le monde sans bouger.", "pt": "É a biblioteca que, generosa, oferece o mundo sem sair do lugar." }
+        { "level": "A1", "fr": "La bibliothèque est pleine.", "pt": "A biblioteca está cheia." },
+        { "level": "A2-B1", "fr": "Dans la bibliothèque, des éditions anciennes dorment.", "pt": "Na biblioteca, edições antigas dormem." },
+        { "level": "B2", "fr": "La bibliothèque de l'écrivain est conservée derrière des vitres.", "pt": "A biblioteca do escritor é conservada atrás de vidros." },
+        { "level": "C1-C2", "fr": "C'est la bibliothèque qui, rangée, révèle les lectures d'une vie.", "pt": "É a biblioteca que, organizada, revela as leituras de uma vida." }
       ]
     },
     {
-      "term": "le globe",
-      "definitionPt": "o globo (terrestre)",
-      "definitionFr": "Sphère représentant la Terre.",
-      "inflections": ["le globe", "un globe", "des globes"],
-      "ptTargets": ["globo"],
+      "term": "le livre",
+      "definitionPt": "o livro",
+      "definitionFr": "Ensemble de pages reliées.",
+      "inflections": ["le livre", "un livre", "des livres"],
+      "ptTargets": ["livro"],
       "examples": [
-        { "level": "A1", "fr": "Le globe est rond.", "pt": "O globo é redondo." },
-        { "level": "A2-B1", "fr": "Il y a des globes dans le salon.", "pt": "Há globos na sala." },
-        { "level": "B2", "fr": "Le globe, ancien, montre le monde d'autrefois.", "pt": "O globo, antigo, mostra o mundo de antigamente." },
-        { "level": "C1-C2", "fr": "C'est le globe qui, tournant, résume toute la géographie.", "pt": "É o globo que, girando, resume toda a geografia." }
+        { "level": "A1", "fr": "Le livre est ouvert.", "pt": "O livro está aberto." },
+        { "level": "A2-B1", "fr": "La maison est pleine de livres.", "pt": "A casa está cheia de livros." },
+        { "level": "B2", "fr": "Les livres de Verne ont fait rêver des générations.", "pt": "Os livros de Verne fizeram gerações sonharem." },
+        { "level": "C1-C2", "fr": "C'est le livre qui, ouvert, ouvre aussi l'esprit du lecteur.", "pt": "É o livro que, aberto, abre também a mente do leitor." }
       ]
     },
     {
-      "term": "la carte",
-      "definitionPt": "o mapa",
-      "definitionFr": "Représentation d'un territoire.",
-      "inflections": ["la carte", "une carte", "des cartes"],
-      "ptTargets": ["mapa", "carta"],
+      "term": "le voyage",
+      "definitionPt": "a viagem",
+      "definitionFr": "Déplacement vers un autre lieu.",
+      "inflections": ["le voyage", "un voyage", "des voyages"],
+      "ptTargets": ["viagem"],
       "examples": [
-        { "level": "A1", "fr": "La carte est sur le mur.", "pt": "O mapa está na parede." },
-        { "level": "A2-B1", "fr": "Irlan regarde les cartes du monde.", "pt": "Irlan observa os mapas do mundo." },
-        { "level": "B2", "fr": "Les cartes anciennes sont de vraies œuvres d'art.", "pt": "Os mapas antigos são verdadeiras obras de arte." },
-        { "level": "C1-C2", "fr": "C'est la carte qui, fidèle, guide les voyageurs.", "pt": "É o mapa que, fiel, guia os viajantes." }
-      ]
-    },
-    {
-      "term": "expliquer",
-      "definitionPt": "explicar",
-      "definitionFr": "Rendre quelque chose compréhensible.",
-      "inflections": ["j'explique", "expliquer", "nous expliquons"],
-      "ptTargets": ["explicar"],
-      "examples": [
-        { "level": "A1", "fr": "Le professeur explique la leçon.", "pt": "O professor explica a lição." },
-        { "level": "A2-B1", "fr": "Irlan explique l'histoire à Íris.", "pt": "Irlan explica a história a Íris." },
-        { "level": "B2", "fr": "Le guide explique la vie de l'écrivain.", "pt": "O guia explica a vida do escritor." },
-        { "level": "C1-C2", "fr": "C'est en expliquant que l'on comprend mieux.", "pt": "É explicando que se compreende melhor." }
-      ]
-    },
-    {
-      "term": "presque",
-      "definitionPt": "quase",
-      "definitionFr": "Pas tout à fait.",
-      "inflections": ["presque"],
-      "ptTargets": ["quase"],
-      "examples": [
-        { "level": "A1", "fr": "Je suis presque prêt.", "pt": "Estou quase pronto." },
-        { "level": "A2-B1", "fr": "Il ne voyageait presque jamais.", "pt": "Ele quase nunca viajava." },
-        { "level": "B2", "fr": "La maison est presque vide maintenant.", "pt": "A casa está quase vazia agora." },
-        { "level": "C1-C2", "fr": "C'est presque incroyable qu'un homme ait tant imaginé.", "pt": "É quase inacreditável que um homem tenha imaginado tanto." }
+        { "level": "A1", "fr": "Le voyage est long.", "pt": "A viagem é longa." },
+        { "level": "A2-B1", "fr": "Verne écrivait des voyages extraordinaires.", "pt": "Verne escrevia viagens extraordinárias." },
+        { "level": "B2", "fr": "Les voyages de Verne inspirent les explorateurs.", "pt": "As viagens de Verne inspiram os exploradores." },
+        { "level": "C1-C2", "fr": "C'est le voyage qui, rêvé ou réel, agrandit l'horizon.", "pt": "É a viagem que, sonhada ou real, amplia o horizonte." }
       ]
     },
     {
       "term": "l'imagination",
       "definitionPt": "a imaginação",
-      "definitionFr": "Pouvoir de créer dans l'esprit.",
+      "definitionFr": "Capacité d'imaginer.",
       "inflections": ["l'imagination", "une imagination"],
       "ptTargets": ["imaginação"],
       "examples": [
         { "level": "A1", "fr": "L'imagination est grande.", "pt": "A imaginação é grande." },
-        { "level": "A2-B1", "fr": "C'est ça, le pouvoir de l'imagination !", "pt": "É isso, o poder da imaginação!" },
-        { "level": "B2", "fr": "L'imagination transforme une simple chambre en univers.", "pt": "A imaginação transforma um simples quarto em universo." },
-        { "level": "C1-C2", "fr": "C'est l'imagination qui, libre, ouvre toutes les portes.", "pt": "É a imaginação que, livre, abre todas as portas." }
+        { "level": "A2-B1", "fr": "Jules Verne avait beaucoup d'imagination.", "pt": "Jules Verne tinha muita imaginação." },
+        { "level": "B2", "fr": "L'imagination précède souvent la découverte.", "pt": "A imaginação muitas vezes precede a descoberta." },
+        { "level": "C1-C2", "fr": "C'est l'imagination qui, la première, dessine ce que la science réalisera.", "pt": "É a imaginação que, primeiro, desenha o que a ciência realizará." }
       ]
     },
     {
-      "term": "la chambre",
-      "definitionPt": "o quarto",
-      "definitionFr": "Pièce où l'on dort.",
-      "inflections": ["la chambre", "une chambre", "des chambres"],
-      "ptTargets": ["quarto"],
+      "term": "écrire",
+      "definitionPt": "escrever",
+      "definitionFr": "Former des mots sur le papier.",
+      "inflections": ["écrire", "j'écris", "nous écrivons"],
+      "ptTargets": ["escrever"],
       "examples": [
-        { "level": "A1", "fr": "La chambre est calme.", "pt": "O quarto é calmo." },
-        { "level": "A2-B1", "fr": "Regardons sa chambre maintenant.", "pt": "Olhemos o quarto dele agora." },
-        { "level": "B2", "fr": "La chambre de l'écrivain est simple et lumineuse.", "pt": "O quarto do escritor é simples e luminoso." },
-        { "level": "C1-C2", "fr": "C'est la chambre qui, discrète, garde les secrets de l'auteur.", "pt": "É o quarto que, discreto, guarda os segredos do autor." }
+        { "level": "A1", "fr": "J'écris une histoire.", "pt": "Eu escrevo uma história." },
+        { "level": "A2-B1", "fr": "Verne écrivait des romans d'aventure.", "pt": "Verne escrevia romances de aventura." },
+        { "level": "B2", "fr": "Écrire demande de la patience et de la rigueur.", "pt": "Escrever exige paciência e rigor." },
+        { "level": "C1-C2", "fr": "C'est en écrivant que l'on donne une forme à ses rêves.", "pt": "É escrevendo que se dá forma aos sonhos." }
       ]
     },
     {
-      "term": "le bureau",
-      "definitionPt": "a escrivaninha / escritório",
-      "definitionFr": "Table pour écrire, ou pièce de travail.",
-      "inflections": ["le bureau", "un bureau", "des bureaux"],
-      "ptTargets": ["escrivaninha", "escritório"],
+      "term": "découvrir",
+      "definitionPt": "descobrir",
+      "definitionFr": "Trouver ce qui était inconnu.",
+      "inflections": ["découvrir", "je découvre", "nous découvrons"],
+      "ptTargets": ["descobrir"],
       "examples": [
-        { "level": "A1", "fr": "Le bureau est petit.", "pt": "A escrivaninha é pequena." },
-        { "level": "A2-B1", "fr": "Il y a un bureau avec une lampe.", "pt": "Há uma escrivaninha com uma lâmpada." },
-        { "level": "B2", "fr": "L'écrivain écrivait à son bureau chaque matin.", "pt": "O escritor escrevia em sua escrivaninha toda manhã." },
-        { "level": "C1-C2", "fr": "C'est le bureau qui, fidèle, a accueilli des milliers de pages.", "pt": "É a escrivaninha que, fiel, acolheu milhares de páginas." }
+        { "level": "A1", "fr": "Je découvre un musée.", "pt": "Eu descubro um museu." },
+        { "level": "A2-B1", "fr": "On découvre toujours quelque chose de nouveau.", "pt": "A gente sempre descobre algo novo." },
+        { "level": "B2", "fr": "Découvrir un lieu, c'est le rencontrer vraiment.", "pt": "Descobrir um lugar é encontrá-lo de verdade." },
+        { "level": "C1-C2", "fr": "C'est en découvrant que l'on apprend à s'étonner encore.", "pt": "É descobrindo que se aprende a ainda se espantar." }
       ]
     },
     {
-      "term": "la lampe",
-      "definitionPt": "a lâmpada",
-      "definitionFr": "Objet qui éclaire.",
-      "inflections": ["la lampe", "une lampe", "des lampes"],
-      "ptTargets": ["lâmpada", "abajur"],
+      "term": "la carte",
+      "definitionPt": "o mapa",
+      "definitionFr": "Dessin d'un territoire.",
+      "inflections": ["la carte", "une carte", "des cartes"],
+      "ptTargets": ["mapa"],
       "examples": [
-        { "level": "A1", "fr": "La lampe est allumée.", "pt": "A lâmpada está acesa." },
-        { "level": "A2-B1", "fr": "La lampe éclaire le bureau.", "pt": "A lâmpada ilumina a escrivaninha." },
-        { "level": "B2", "fr": "La lampe, douce, éclairait les soirées d'écriture.", "pt": "A lâmpada, suave, iluminava as noites de escrita." },
-        { "level": "C1-C2", "fr": "C'est la lampe qui, patiente, a veillé sur les nuits de création.", "pt": "É a lâmpada que, paciente, velou pelas noites de criação." }
+        { "level": "A1", "fr": "La carte est ancienne.", "pt": "O mapa é antigo." },
+        { "level": "A2-B1", "fr": "Des cartes anciennes montrent des itinéraires.", "pt": "Mapas antigos mostram itinerários." },
+        { "level": "B2", "fr": "Une carte annotée peut cacher un message.", "pt": "Um mapa anotado pode esconder uma mensagem." },
+        { "level": "C1-C2", "fr": "C'est la carte qui, annotée à la main, devient un journal de voyage.", "pt": "É o mapa que, anotado à mão, vira um diário de viagem." }
       ]
     },
     {
-      "term": "la leçon",
-      "definitionPt": "a lição",
-      "definitionFr": "Ce que l'on apprend.",
-      "inflections": ["la leçon", "une leçon", "des leçons"],
-      "ptTargets": ["lição"],
+      "term": "le rêveur",
+      "definitionPt": "o sonhador",
+      "definitionFr": "Personne qui imagine.",
+      "inflections": ["le rêveur", "une rêveuse", "des rêveurs"],
+      "ptTargets": ["sonhador"],
       "examples": [
-        { "level": "A1", "fr": "La leçon est facile.", "pt": "A lição é fácil." },
-        { "level": "A2-B1", "fr": "C'est une belle leçon.", "pt": "É uma bela lição." },
-        { "level": "B2", "fr": "La leçon de Jules Verne : on n'a pas besoin de partir pour voyager.", "pt": "A lição de Jules Verne: não é preciso partir para viajar." },
-        { "level": "C1-C2", "fr": "C'est la leçon qui, simple, reste avec nous toute la vie.", "pt": "É a lição que, simples, fica conosco a vida toda." }
+        { "level": "A1", "fr": "Il est rêveur.", "pt": "Ele é sonhador." },
+        { "level": "A2-B1", "fr": "Jules Verne était un grand rêveur.", "pt": "Jules Verne era um grande sonhador." },
+        { "level": "B2", "fr": "Les rêveurs voient des routes où d'autres ne voient rien.", "pt": "Os sonhadores veem estradas onde outros não veem nada." },
+        { "level": "C1-C2", "fr": "C'est le rêveur qui, par ses idées, prépare le monde de demain.", "pt": "É o sonhador que, por suas ideias, prepara o mundo de amanhã." }
       ]
     }
   ],
   "grammarTip": {
-    "ruleTitle": "C'est vs il/elle est",
-    "explanationPt": "Usa-se 'c'est' + artigo + substantivo para identificar algo: 'C'est une maison' (é uma casa). Usa-se 'il/elle est' + adjetivo ou profissão sem artigo: 'Il est écrivain' (ele é escritor), 'Elle est grande' (ela é grande).",
-    "exampleFr": "C'est la maison de Jules Verne. C'est un musée. Il est très ancien.",
-    "examplePt": "É a casa de Jules Verne. É um museu. Ele é muito antigo.",
-    "practiceQuestion": "Complete: '_____ une maison ancienne.'",
-    "options": ["C'est", "Il est", "Elle est"],
+    "ruleTitle": "Le passé composé : a vécu",
+    "explanationPt": "Passado composto com 'avoir': il a vécu (ele viveu), il a écrit (ele escreveu), ils ont visité (eles visitaram).",
+    "exampleFr": "Jules Verne a vécu dans cette maison.",
+    "examplePt": "Jules Verne viveu nesta casa.",
+    "practiceQuestion": "Complete: 'Il a _____ dans cette maison.'",
+    "options": ["vécu", "vivé", "vive"],
     "correctIndex": 0,
     "points": [
       {
-        "ruleTitle": "Les expressions de temps",
-        "explanationPt": "Expressões de tempo imediato: 'aujourd'hui' (hoje), 'maintenant' (agora), 'tout à l'heure' (daqui a pouco / há pouco), 'demain' (amanhã). Ex.: 'Aujourd'hui, nous visitons la maison. Maintenant, regardons la chambre. Tout à l'heure, nous verrons la bibliothèque.'",
-        "exampleFr": "Aujourd'hui, nous visitons la maison. Tout à l'heure, nous allons voir la bibliothèque.",
-        "examplePt": "Hoje, visitamos a casa. Daqui a pouco, vamos ver a biblioteca.",
-        "practiceQuestion": "Complete: '_____, nous visitons la maison.'",
-        "options": ["Aujourd'hui", "Demain", "Hier"],
+        "ruleTitle": "Devenir + adjectif",
+        "explanationPt": "'Devenir' = tornar-se: 'la maison est devenue un musée' (a casa se tornou um museu).",
+        "exampleFr": "La maison est devenue un petit musée.",
+        "examplePt": "A casa virou um pequeno museu.",
+        "practiceQuestion": "Complete: 'La maison est _____ un musée.'",
+        "options": ["devenue", "devenu", "devenus"],
         "correctIndex": 0
       },
       {
-        "ruleTitle": "On n'a pas besoin de + infinitif",
-        "explanationPt": "'Avoir besoin de' = precisar de. Negativo: 'on n'a pas besoin de partir' (não precisamos partir). Ex.: 'On n'a pas besoin de voyageur pour voyager.'",
-        "exampleFr": "On n'a pas besoin de partir pour voyager.",
-        "examplePt": "Não precisamos partir para viajar.",
-        "practiceQuestion": "Complete: 'On n'a pas besoin de _____ pour voyager.'",
-        "options": ["partir", "parte", "partons"],
+        "ruleTitle": "Comme notre Atlas",
+        "explanationPt": "'Comme' compara: 'comme notre Atlas' (como o nosso Atlas), 'comme dans les livres' (como nos livros).",
+        "exampleFr": "Une carte avec des annotations, comme notre Atlas.",
+        "examplePt": "Um mapa com anotações, como o nosso Atlas.",
+        "practiceQuestion": "Complete: 'C'est _____ notre Atlas.'",
+        "options": ["comme", "que", "de"],
         "correctIndex": 0
       }
     ]
   },
   "quizQuestions": [
     {
-      "question": "Onde Jules Verne viveu durante vinte e três anos?",
-      "options": ["na rue Charles Dubois, em Amiens", "em Paris, perto da Torre Eiffel", "em Nice, perto do mar"],
+      "question": "O que a casa de Jules Verne se tornou?",
+      "options": ["um museu", "uma loja", "um café"],
       "correctIndex": 0,
-      "explanation": "C'est ici que l'écrivain a vécu pendant vingt-trois ans, rue Charles Dubois."
+      "explanation": "La maison est devenue un petit musée."
     },
     {
-      "question": "O que há no salão da casa?",
-      "options": ["uma grande biblioteca, globos e mapas", "uma piscina e um jardim", "um cinema privado"],
+      "question": "O que há nas vitrines?",
+      "options": ["manuscritos", "roupas", "fotos de família"],
       "correctIndex": 0,
-      "explanation": "Dans le salon, il y a une grande bibliothèque avec des livres du monde entier."
+      "explanation": "Des manuscrits montrent l'écriture de l'écrivain."
     },
     {
-      "question": "Jules Verne viajava muito de verdade?",
-      "options": ["não, ele quase nunca viajava", "sim, viajava todos os anos", "sim, viajava de balão"],
+      "question": "O que Irlan vê na parede?",
+      "options": ["mapas antigos anotados", "quadros de flores", "relógios"],
       "correctIndex": 0,
-      "explanation": "Non, il ne voyageait presque jamais."
+      "explanation": "Des cartes anciennes avec des annotations."
     },
     {
-      "question": "Complete: '_____ une maison ancienne.'",
-      "options": ["C'est", "Il est", "Elle est"],
+      "question": "Complete: 'Il a _____ dans cette maison.'",
+      "options": ["vécu", "vivé", "vive"],
       "correctIndex": 0,
-      "explanation": "C'est + artigo + substantivo."
+      "explanation": "il a vécu (passé composé)."
     },
     {
-      "question": "Complete: 'On n'a pas besoin de _____ pour voyager.'",
-      "options": ["partir", "parte", "partons"],
+      "question": "Complete: 'La maison est _____ un musée.'",
+      "options": ["devenue", "devenu", "devenus"],
       "correctIndex": 0,
-      "explanation": "Avoir besoin de + infinitivo."
+      "explanation": "la maison est devenue (feminino)."
     }
   ]
 }
