@@ -5,29 +5,69 @@
   "level": "Iniciante (A1)",
   "titleFr": "Les animaux : la visite au zoo",
   "titlePt": "Os animais: a visita ao zoológico",
-  "subtitleFr": "Les animaux du parc zoologique et les animaux de la maison",
-  "subtitlePt": "Os animais do zoológico e os animais de casa",
-  "summaryPt": "Nesta Aula 38 (A1), a família visita o parc zoologique de Paris e fala dos animais. O aluno aprende o vocabulário dos animais (chat, chien, oiseau, poisson, lapin, cheval, singe, éléphant) e o verbo 'aimer' com 'les animaux'.",
+  "subtitleFr": "Les animaux du parc zoologique et un nouveau compagnon",
+  "subtitlePt": "Os animais do zoológico e um novo companheiro",
+  "summaryPt": "Nesta Aula 38 (A1), Irlan e Andréa visitam o parc zoologique de Paris e acabam adotando um gato. O aluno aprende o vocabulário dos animais (chat, chien, oiseau, poisson, lapin, cheval, singe, éléphant) e o verbo 'aimer' com 'les animaux'.",
   "paragraphs": [
     {
       "id": 1,
-      "fr": "Le dimanche, la famille visite le parc zoologique de Paris. Iris adore les animaux. « Regarde le singe, papa ! Il saute dans l'arbre ! » Devant la cage des éléphants, elle ouvre de grands yeux : « Il est immense ! »",
-      "pt": "No domingo, a família visita o zoológico de Paris. Íris adora os animais. « Olha o macaco, papai! Ele pula na árvore! » Diante do recinto dos elefantes, ela arregala os olhos: « Ele é imenso! »"
+      "fr": "Le dimanche, Irlan et Andréa visitent le parc zoologique de Paris. Andréa adore les animaux.",
+      "pt": "No domingo, Irlan e Andréa visitam o zoológico de Paris. Andréa adora os animais."
     },
     {
       "id": 2,
-      "fr": "Andréa préfère les oiseaux. « Regarde le paon, dit-elle. Il ouvre ses plumes bleues et vertes. » Iris demande : « On peut avoir un oiseau à la maison ? » Andréa rit : « Peut-être un poisson, d'abord. C'est plus facile ! »",
-      "pt": "Andréa prefere os pássaros. « Olha o pavão, diz ela. Ele abre suas penas azuis e verdes. » Íris pergunta: « A gente pode ter um pássaro em casa? » Andréa ri: « Talvez um peixe, primeiro. É mais fácil! »"
+      "fr": "« Regarde le singe ! Il saute dans l'arbre ! » dit-elle. Devant l'enclos des éléphants, elle ouvre de grands yeux : « Il est immense ! »",
+      "pt": "«Olha o macaco! Ele pula na árvore!», diz ela. Diante do recinto dos elefantes, ela arregala os olhos: «Ele é imenso!»"
     },
     {
       "id": 3,
-      "fr": "Près des chevaux, Iris demande : « Et un lapin, c'est facile ? » Irlan sourit : « Un lapin est un bon animal de maison. Il mange des carottes et des salades. Mais il faut le nourrir et le soigner chaque jour. »",
-      "pt": "Perto dos cavalos, Íris pergunta: « E um coelho, é fácil? » Irlan sorri: « O coelho é um bom animal de casa. Ele come cenouras e alfaces. Mas é preciso alimentá-lo e cuidar dele todos os dias. »"
+      "fr": "Andréa préfère les oiseaux. « Regarde le paon. Il ouvre ses plumes bleues et vertes. »",
+      "pt": "Andréa prefere os pássaros. «Olha o pavão. Ele abre as penas azuis e verdes.»"
     },
     {
       "id": 4,
-      "fr": "À la maison, il y a un chat qui dort près de la fenêtre. « Lui, il n'est pas au zoo ! » rit Iris. Elle caresse le chat : « J'aime les animaux, tous les animaux. Mais toi, mon chat, tu es mon préféré. »",
-      "pt": "Em casa, há um gato que dorme perto da janela. « Ele, não está no zoológico! » ri Íris. Ela faz carinho no gato: « Gosto dos animais, de todos os animais. Mas você, meu gato, é o meu preferido. »"
+      "fr": "« On pourrait avoir un oiseau à la maison ? » demande-t-elle en rêvant. Irlan rit : « Peut-être un poisson, d'abord. C'est plus facile ! »",
+      "pt": "«A gente poderia ter um pássaro em casa?», pergunta ela sonhando. Irlan ri: «Talvez um peixe, primeiro. É mais fácil!»"
+    },
+    {
+      "id": 5,
+      "fr": "Près des chevaux, Andréa demande : « Et un lapin, c'est facile ? » Irlan sourit : « C'est un bon animal de maison. »",
+      "pt": "Perto dos cavalos, Andréa pergunta: «E um coelho, é fácil?» Irlan sorri: «É um bom animal de casa.»"
+    },
+    {
+      "id": 6,
+      "fr": "« Il mange des carottes et des salades. Mais il faut le nourrir et le soigner chaque jour », ajoute Irlan.",
+      "pt": "«Ele come cenouras e alfaces. Mas é preciso alimentá-lo e cuidar dele todos os dias», acrescenta Irlan."
+    },
+    {
+      "id": 7,
+      "fr": "En rentrant, ils croisent un petit chat qui dort près d'une fenêtre. Il est gris, doux et tranquille.",
+      "pt": "Ao voltar, eles cruzam com um gatinho que dorme perto de uma janela. Ele é cinza, macio e tranquilo."
+    },
+    {
+      "id": 8,
+      "fr": "« Regarde comme il est calme », dit Andréa. « Et si on adoptait un chat, toi et moi ? »",
+      "pt": "«Olha como ele é calmo», diz Andréa. «E se a gente adotasse um gato, você e eu?»"
+    },
+    {
+      "id": 9,
+      "fr": "Irlan la regarde, touché. « C'est une grande décision. Mais oui... un chat, ce serait notre premier compagnon. »",
+      "pt": "Irlan a olha, tocado. «É uma grande decisão. Mas sim... um gato seria o nosso primeiro companheiro.»"
+    },
+    {
+      "id": 10,
+      "fr": "Ils entrent dans un refuge du quartier. Un chaton roux s'approche et se frotte contre leurs jambes.",
+      "pt": "Eles entram num abrigo do bairro. Um gatinho ruivo se aproxima e se esfrega nas pernas deles."
+    },
+    {
+      "id": 11,
+      "fr": "« C'est lui », dit Andréa. Ils l'adoptent et le ramènent à la maison. Le chat explore chaque pièce, curieux.",
+      "pt": "«É ele», diz Andréa. Eles o adotam e o levam para casa. O gato explora cada cômodo, curioso."
+    },
+    {
+      "id": 12,
+      "fr": "Le soir, le chat dort sur le canapé, entre eux. « J'aime les animaux, tous les animaux », dit Andréa. « Mais lui, c'est déjà le nôtre. »",
+      "pt": "À noite, o gato dorme no sofá, entre eles. «Eu gosto dos animais, de todos os animais», diz Andréa. «Mas ele já é nosso.»"
     }
   ],
   "vocabularyDictionary": [
@@ -39,7 +79,7 @@
       "ptTargets": ["animal"],
       "examples": [
         { "level": "A1", "fr": "L'animal est joli.", "pt": "O animal é bonito." },
-        { "level": "A2-B1", "fr": "Iris aime les animaux.", "pt": "Íris gosta dos animais." },
+        { "level": "A2-B1", "fr": "Andréa aime les animaux.", "pt": "Andréa gosta dos animais." },
         { "level": "B2", "fr": "Les animaux du zoo viennent du monde entier.", "pt": "Os animais do zoológico vêm do mundo inteiro." },
         { "level": "C1-C2", "fr": "C'est l'animal qui, fidèle, partage la vie des hommes.", "pt": "É o animal que, fiel, partilha a vida dos homens." }
       ]
@@ -106,7 +146,7 @@
         { "level": "A1", "fr": "Le lapin mange une carotte.", "pt": "O coelho come uma cenoura." },
         { "level": "A2-B1", "fr": "Le lapin est un bon animal de maison.", "pt": "O coelho é um bom animal de casa." },
         { "level": "B2", "fr": "Les lapins, rapides, adorent les jardins.", "pt": "Os coelhos, rápidos, adoram os jardins." },
-        { "level": "C1-C2", "fr": "C'est le lapin qui, doux, réchauffe les cœurs des enfants.", "pt": "É o coelho que, doce, aquece os corações das crianças." }
+        { "level": "C1-C2", "fr": "C'est le lapin qui, doux, réchauffe les cœurs.", "pt": "É o coelho que, doce, aquece os corações." }
       ]
     },
     {
@@ -169,9 +209,9 @@
       "ptTargets": ["zoológico", "jardim zoológico"],
       "examples": [
         { "level": "A1", "fr": "Le zoo est grand.", "pt": "O zoológico é grande." },
-        { "level": "A2-B1", "fr": "La famille visite le zoo le dimanche.", "pt": "A família visita o zoológico no domingo." },
+        { "level": "A2-B1", "fr": "Ils visitent le zoo le dimanche.", "pt": "Eles visitam o zoológico no domingo." },
         { "level": "B2", "fr": "Les zoos modernes protègent les espèces menacées.", "pt": "Os zoológicos modernos protegem as espécies ameaçadas." },
-        { "level": "C1-C2", "fr": "C'est le zoo qui, éducatif, rapproche les enfants des animaux du monde.", "pt": "É o zoológico que, educativo, aproxima as crianças dos animais do mundo." }
+        { "level": "C1-C2", "fr": "C'est le zoo qui, éducatif, rapproche les visiteurs des animaux du monde.", "pt": "É o zoológico que, educativo, aproxima os visitantes dos animais do mundo." }
       ]
     },
     {
@@ -182,7 +222,7 @@
       "ptTargets": ["fazer carinho", "acariciar"],
       "examples": [
         { "level": "A1", "fr": "Je caresse le chat.", "pt": "Eu faço carinho no gato." },
-        { "level": "A2-B1", "fr": "Iris caresse le chat doucement.", "pt": "Íris faz carinho no gato suavemente." },
+        { "level": "A2-B1", "fr": "Andréa caresse le chat doucement.", "pt": "Andréa faz carinho no gato suavemente." },
         { "level": "B2", "fr": "Caresser un animal calme et rassure.", "pt": "Fazer carinho num animal acalma e tranquiliza." },
         { "level": "C1-C2", "fr": "C'est en caressant que l'on apprend la tendresse.", "pt": "É fazendo carinho que se aprende a ternura." }
       ]
@@ -191,8 +231,8 @@
   "grammarTip": {
     "ruleTitle": "Le verbe aimer : gostar de",
     "explanationPt": "O verbo 'aimer' (gostar/amar): j'aime, tu aimes, il/elle aime, nous aimons, vous aimez, ils/elles aiment. Ex.: 'J'aime les animaux.' Atenção: 'aimer + le/la/les' = gostar de algo em geral.",
-    "exampleFr": "J'aime les animaux, tous les animaux. Mais toi, mon chat, tu es mon préféré.",
-    "examplePt": "Gosto dos animais, de todos os animais. Mas você, meu gato, é o meu preferido.",
+    "exampleFr": "J'aime les animaux, tous les animaux. Mais lui, c'est déjà le nôtre.",
+    "examplePt": "Eu gosto dos animais, de todos os animais. Mas ele já é nosso.",
     "practiceQuestion": "Complete: 'J'aime _____ animaux.'",
     "options": ["les", "des", "de"],
     "correctIndex": 0,
@@ -219,10 +259,10 @@
   },
   "quizQuestions": [
     {
-      "question": "O que Íris adora?",
+      "question": "O que Andréa adora?",
       "options": ["os animais", "a chuva", "os deveres"],
       "correctIndex": 0,
-      "explanation": "Iris adore les animaux."
+      "explanation": "Andréa adore les animaux."
     },
     {
       "question": "O que Andréa prefere no zoológico?",
@@ -231,10 +271,10 @@
       "explanation": "Andréa préfère les oiseaux."
     },
     {
-      "question": "Qual animal a família tem em casa?",
-      "options": ["um gato", "um cavalo", "um elefante"],
+      "question": "Qual animal eles adotam?",
+      "options": ["um gato ruivo", "um cavalo", "um elefante"],
       "correctIndex": 0,
-      "explanation": "À la maison, il y a un chat qui dort près de la fenêtre."
+      "explanation": "Ils adoptent un chaton roux dans un refuge."
     },
     {
       "question": "Complete: 'J'aime _____ animaux.'",

@@ -1,10 +1,10 @@
 # #11 Nice — C2
 
-**5154 palavras** ainda precisam aparecer nos textos das aulas desta cidade.
+**5153 palavras** ainda precisam aparecer nos textos das aulas desta cidade.
 
 Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aventura do Irlan.
 
-## C2 (5154)
+## C2 (5153)
 
 - [ ] **abâtardir** — abastardar
 - [ ] **abductif** — abdutivo
@@ -4041,7 +4041,6 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **le rouge-gorge** — o pisco-de-peito-ruivo
 - [ ] **le rouleau compresseur** — o rolo compressor
 - [ ] **le routeur** — o roteador
-- [ ] **le roux** — o roux (espessante)
 - [ ] **le rubis** — o rubi
 - [ ] **le rugissement** — o rugido
 - [ ] **le ruthénium** — o rutênio
