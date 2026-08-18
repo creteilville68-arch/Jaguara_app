@@ -11,7 +11,7 @@
   "paragraphs": [
     {
       "id": 1,
-      "fr": "« Le Couesnon est la petite rivière qui passe près du Mont », a expliqué Irlan. « Pendant des siècles, elle a apporté du sable et du lodo dans la baie. »",
+      "fr": "« Le Couesnon est la petite rivière qui passe près du Mont », a expliqué Irlan. « Pendant des siècles, elle a apporté du sable et du limon dans la baie. »",
       "pt": "« O Couesnon é o pequeno rio que passa perto do Mont », explicou Irlan. « Durante séculos, ele trouxe areia e lodo para a baía. »"
     },
     {
@@ -21,13 +21,53 @@
     },
     {
       "id": 3,
-      "fr": "« Grâce au barrage construit en 2009, la mer pousse le lodo vers le large », a continué Irlan. « Les marées sont redevenues puissantes. »",
+      "fr": "« Grâce au barrage construit en 2009, la mer pousse le limon vers le large », a continué Irlan. « Les marées sont redevenues puissantes. »",
       "pt": "« Graças à barragem construída em 2009, o mar empurra o lodo para o largo », continuou Irlan. « As marés voltaram a ser poderosas. »"
     },
     {
       "id": 4,
       "fr": "« Je suis géographe », a souri Irlan. « Quand j'étais petit, je rêvais de sauver des îles. Maintenant, je regarde le barrage qui sauve le Mont. C'est presque magique. »",
       "pt": "« Sou geógrafo », sorriu Irlan. « Quando era pequeno, sonhava em salvar ilhas. Agora, olho a barragem que salva o Mont. É quase mágico. »"
+    },
+    {
+      "id": 5,
+      "fr": "« L'ensablement était le vrai danger », a expliqué Irlan. « Le limon s'accumulait, la vase recouvrait la grève, et la mer reculait. »",
+      "pt": "« O assoreamento era o verdadeiro perigo », explicou Irlan. « O lodo se acumulava, a lama cobria o areal, e o mar recuava. »"
+    },
+    {
+      "id": 6,
+      "fr": "« Le barrage moderne a changé la donne », a dit Andréa. « Il ouvre ses portes à marée haute et pousse la vase vers le large. »",
+      "pt": "« A barragem moderna mudou o jogo », disse Andréa. « Ela abre suas comportas na maré alta e empurra a lama para o largo. »"
+    },
+    {
+      "id": 7,
+      "fr": "« C'est une machine puissante et discrète », a continué Irlan. « Elle ne construit pas, elle nettoie. Elle rend au Mont sa nature d'île. »",
+      "pt": "« É uma máquina poderosa e discreta », continuou Irlan. « Ela não constrói, ela limpa. Devolve ao Mont sua natureza de ilha. »"
+    },
+    {
+      "id": 8,
+      "fr": "« Le fleuve et la mer travaillent ensemble maintenant », a dit Andréa. « Le Couesnon apporte, la marée reprend. Un équilibre ancien est revenu. »",
+      "pt": "« O rio e o mar trabalham juntos agora », disse Andréa. « O Couesnon traz, a maré retoma. Um equilíbrio antigo voltou. »"
+    },
+    {
+      "id": 9,
+      "fr": "Irlan a regardé la grève. « L'homme au manteau gris marche sur le limon, là où la mer vient de se retirer. »",
+      "pt": "Irlan olhou o areal. « O homem de sobretudo cinza caminha sobre o lodo, ali onde o mar acabou de recuar. »"
+    },
+    {
+      "id": 10,
+      "fr": "« Il connaît les courants », a murmuré Andréa. « Il utilise le barrage pour lire les marées. »",
+      "pt": "« Ele conhece as correntes », murmurou Andréa. « Ele usa a barragem para ler as marés. »"
+    },
+    {
+      "id": 11,
+      "fr": "« Alors il sait exactement quand le gué sera praticable », a dit Irlan. « Nous devons être plus malins. »",
+      "pt": "« Então ele sabe exatamente quando o vau estará transitável », disse Irlan. « Precisamos ser mais espertos. »"
+    },
+    {
+      "id": 12,
+      "fr": "« La marée nettoie et protège », a ajouté Andréa. « Elle nous donnera le chemin, si nous savons l'écouter. » Ils sont redescendus vers la digue.",
+      "pt": "« A maré limpa e protege », acrescentou Andréa. « Ela nos dará o caminho, se soubermos escutá-la. » Eles desceram de volta ao dique."
     }
   ],
   "vocabularyDictionary": [
@@ -71,16 +111,16 @@
       ]
     },
     {
-      "term": "le lodo",
+      "term": "le limon",
       "definitionPt": "o lodo, a lama",
-      "definitionFr": "Boue très fine.",
-      "inflections": ["le lodo", "un lodo", "des lodos"],
+      "definitionFr": "Sédiment fin déposé par l'eau.",
+      "inflections": ["le limon", "un limon", "des limons"],
       "ptTargets": ["lodo", "lama"],
       "examples": [
-        { "level": "A1", "fr": "Le lodo est gris.", "pt": "O lodo é cinza." },
-        { "level": "A2-B1", "fr": "Le lodo s'accumulait dans la baie.", "pt": "O lodo se acumulava na baía." },
-        { "level": "B2", "fr": "La mer pousse le lodo vers le large grâce au barrage.", "pt": "O mar empurra o lodo para o largo graças à barragem." },
-        { "level": "C1-C2", "fr": "Le lodo, invisible à marée haute, est le grand ennemi du Mont.", "pt": "O lodo, invisível na maré alta, é o grande inimigo do Mont." }
+        { "level": "A1", "fr": "Le limon est gris.", "pt": "O lodo é cinza." },
+        { "level": "A2-B1", "fr": "Le limon s'accumulait dans la baie.", "pt": "O lodo se acumulava na baía." },
+        { "level": "B2", "fr": "La mer pousse le limon vers le large grâce au barrage.", "pt": "O mar empurra o lodo para o largo graças à barragem." },
+        { "level": "C1-C2", "fr": "Le limon, invisible à marée haute, est le grand ennemi du Mont.", "pt": "O lodo, invisível na maré alta, é o grande inimigo do Mont." }
       ]
     },
     {
@@ -105,7 +145,7 @@
       "examples": [
         { "level": "A1", "fr": "Je gagne le match.", "pt": "Ganho o jogo." },
         { "level": "A2-B1", "fr": "La terre gagnait sur la mer.", "pt": "A terra ganhava do mar." },
-        { "level": "B2", "fr": "Les marées ont gagné du terrain sur le lodo.", "pt": "As marés ganharam terreno sobre o lodo." },
+        { "level": "B2", "fr": "Les marées ont gagné du terrain sur le limon.", "pt": "As marés ganharam terreno sobre o lodo." },
         { "level": "C1-C2", "fr": "La mer gagne, la terre gagne : la baie vit de ces batailles.", "pt": "O mar ganha, a terra ganha: a baía vive dessas batalhas." }
       ]
     },    {
@@ -133,7 +173,7 @@
       "ptTargets": ["empurrar"],
       "examples": [
         { "level": "A1", "fr": "Je pousse la porte.", "pt": "Empurro a porta." },
-        { "level": "A2-B1", "fr": "La mer pousse le lodo vers le large.", "pt": "O mar empurra o lodo para o largo." },
+        { "level": "A2-B1", "fr": "La mer pousse le limon vers le large.", "pt": "O mar empurra o lodo para o largo." },
         { "level": "B2", "fr": "Le barrage pousse l'eau au bon moment.", "pt": "A barragem empurra a água no momento certo." },
         { "level": "C1-C2", "fr": "Pousser la terre hors de la baie, telle est la mission du barrage.", "pt": "Empurrar a terra para fora da baía, tal é a missão da barragem." }
       ]
@@ -173,7 +213,7 @@
       "examples": [
         { "level": "A1", "fr": "Je nettoie la table.", "pt": "Limpo a mesa." },
         { "level": "A2-B1", "fr": "La mer nettoie la baie à chaque marée.", "pt": "O mar limpa a baía a cada maré." },
-        { "level": "B2", "fr": "Le barrage aide la mer à nettoyer le lodo.", "pt": "A barragem ajuda o mar a limpar o lodo." },
+        { "level": "B2", "fr": "Le barrage aide la mer à nettoyer le limon.", "pt": "A barragem ajuda o mar a limpar o lodo." },
         { "level": "C1-C2", "fr": "Nettoyer la baie, c'est rendre à la mer son travail naturel.", "pt": "Limpar a baía é devolver ao mar seu trabalho natural." }
       ]
     },
@@ -225,7 +265,7 @@
       "question": "O que o rio Couesnon trazia para a baía?",
       "options": ["Areia e lodo", "Peixes raros", "Água doce em excesso"],
       "correctIndex": 0,
-      "explanation": "Durante séculos, o Couesnon trouxe sable et lodo para a baía, causando o assoreamento."
+      "explanation": "Durante séculos, o Couesnon trouxe sable et limon para a baía, causando o assoreamento."
     },
     {
       "question": "Complete: « Petit à petit, la terre ___ sur la mer. »",
