@@ -7,7 +7,7 @@
   "titlePt": "Paris moderna em La Défense",
   "subtitleFr": "La Grande Arche, les tours et la vie des bureaux",
   "subtitlePt": "A Grande Arche, as torres e a vida dos escritórios",
-  "summaryPt": "Nesta Aula 24 (A1), a família visita La Défense, o bairro moderno de Paris. Eles veem a Grande Arche, as torres altas e a esplanada. Irlan conta que entregava refeições para os trabalhadores dos escritórios. O aluno aprende os grandes números e as horas.",
+  "summaryPt": "Nesta Aula 24 (A1), Irlan e Andréa visitam La Défense, o bairro moderno de Paris. Eles veem a Grande Arche, as torres altas e a esplanada. Irlan conta que entregava refeições para os trabalhadores dos escritórios, e agora trabalha como geógrafo. O aluno aprende os grandes números e as horas.",
   "paragraphs": [
     {
       "id": 1,
@@ -20,20 +20,60 @@
       "pt": "As torres são muito altas. A Grande Arche mede mais de cento e dez metros. Mil pessoas trabalham em algumas torres."
     },
     {
-      "fr": "Au bureau, on travaille de neuf heures à dix-huit heures. À midi, beaucoup de gens mangent sur l'esplanade au soleil.",
       "id": 3,
+      "fr": "Au bureau, on travaille de neuf heures à dix-huit heures. À midi, beaucoup de gens mangent sur l'esplanade au soleil.",
       "pt": "No escritório, trabalha-se das nove às dezoito horas. Ao meio-dia, muitas pessoas comem na esplanada ao sol."
     },
     {
       "id": 4,
-      "fr": "« Quand j'étais livreur, je livrais des déjeuners dans ces tours », dit Irlan. « Aujourd'hui, je suis géographe et je travaille aussi dans un bureau. »",
-      "pt": "«Quando eu era entregador, eu entregava almoços nestas torres», diz Irlan. «Hoje, eu sou geógrafo e também trabalho num escritório.»"
+      "fr": "« Quand j'étais livreur, je livrais des déjeuners dans ces tours », dit Irlan. « Je montais avec mon sac et je courais dans les couloirs. »",
+      "pt": "«Quando eu era entregador, eu entregava almoços nestas torres», diz Irlan. «Eu subia com a minha mochila e corria pelos corredores.»"
+    },
+    {
+      "id": 5,
+      "fr": "Andréa écoute, impressionnée. « Et maintenant, tu travailles ici aussi ? » demande-t-elle.",
+      "pt": "Andréa escuta, impressionada. «E agora, você também trabalha aqui?», pergunta ela."
+    },
+    {
+      "id": 6,
+      "fr": "« Oui, maintenant je suis géographe et je travaille dans un bureau », répond Irlan. « Je dessine des cartes pour une entreprise. »",
+      "pt": "«Sim, agora sou geógrafo e trabalho num escritório», responde Irlan. «Desenho mapas para uma empresa.»"
+    },
+    {
+      "id": 7,
+      "fr": "Andréa lui prend la main. « Tu as traversé tout ça : la scooter, les escaliers, les couloirs... et tu as continué à rêver de cartes. »",
+      "pt": "Andréa segura a mão dele. «Você atravessou tudo isso: a scooter, as escadas, os corredores... e continuou sonhando com mapas.»"
+    },
+    {
+      "id": 8,
+      "fr": "Irlan sourit, un peu ému. « Je n'ai jamais arrêté. Même en livrant, je regardais les rues comme un géographe. »",
+      "pt": "Irlan sorri, um pouco emocionado. «Eu nunca parei. Mesmo entregando, eu olhava as ruas como geógrafo.»"
+    },
+    {
+      "id": 9,
+      "fr": "Ils marchent sur l'esplanade. Les tours modernes se reflètent dans les vitres, et le ciel paraît immense.",
+      "pt": "Eles caminham pela esplanada. As torres modernas se refletem nos vidros, e o céu parece imenso."
+    },
+    {
+      "id": 10,
+      "fr": "« C'est un autre Paris », dit Andréa. « Ici, tout est droit, haut et moderne. »",
+      "pt": "«É um outro Paris», diz Andréa. «Aqui, tudo é reto, alto e moderno.»"
+    },
+    {
+      "id": 11,
+      "fr": "« Et pourtant, on voit la Grande Arche alignée avec l'Arc de Triomphe, très loin », dit Irlan. « Le vieux et le nouveau se regardent. »",
+      "pt": "«E mesmo assim, vemos a Grande Arche alinhada com o Arco do Triunfo, bem longe», diz Irlan. «O antigo e o novo se olham.»"
+    },
+    {
+      "id": 12,
+      "fr": "« Un jour, je t'emmènerai voir mon bureau et mes cartes », promet-il. Andréa répond : « J'aimerais beaucoup. Et moi, je te préparerai un bon dîner après. »",
+      "pt": "«Um dia, vou te levar para ver o meu escritório e os meus mapas», promete ele. Andréa responde: «Eu adoraria. E eu te preparo um bom jantar depois.»"
     }
   ],
   "vocabularyDictionary": [
     {
-      "term": "tour",
-      "definitionPt": "torre",
+      "term": "la tour",
+      "definitionPt": "a torre",
       "definitionFr": "Très haut bâtiment.",
       "inflections": ["la tour", "une tour", "des tours"],
       "ptTargets": ["torre"],
@@ -45,11 +85,11 @@
       ]
     },
     {
-      "term": "bureau",
-      "definitionPt": "escritório, mesa de trabalho",
+      "term": "le bureau",
+      "definitionPt": "o escritório",
       "definitionFr": "Pièce ou meuble où l'on travaille.",
       "inflections": ["le bureau", "un bureau", "des bureaux"],
-      "ptTargets": ["escritório", "mesa"],
+      "ptTargets": ["escritório"],
       "examples": [
         { "level": "A1", "fr": "Je travaille dans un bureau.", "pt": "Eu trabalho num escritório." },
         { "level": "A2-B1", "fr": "Le bureau est au vingtième étage.", "pt": "O escritório fica no vigésimo andar." },
@@ -58,8 +98,8 @@
       ]
     },
     {
-      "term": "esplanade",
-      "definitionPt": "esplanada",
+      "term": "l'esplanade",
+      "definitionPt": "a esplanada",
       "definitionFr": "Grand espace ouvert, souvent piéton.",
       "inflections": ["l'esplanade", "une esplanade", "des esplanades"],
       "ptTargets": ["esplanada"],
@@ -97,8 +137,8 @@
       ]
     },
     {
-      "term": "mètre",
-      "definitionPt": "metro (unidade)",
+      "term": "le mètre",
+      "definitionPt": "o metro (unidade)",
       "definitionFr": "Unité de mesure de longueur.",
       "inflections": ["le mètre", "un mètre", "des mètres"],
       "ptTargets": ["metro"],
@@ -113,7 +153,7 @@
       "term": "travailler",
       "definitionPt": "trabalhar",
       "definitionFr": "Faire un métier ou une activité.",
-      "inflections": ["je travaille", "travailler", "il travaille"],
+      "inflections": ["je travaille", "travailler", "il travaille", "ils travaillent"],
       "ptTargets": ["trabalhar"],
       "examples": [
         { "level": "A1", "fr": "Mille personnes travaillent dans cette tour.", "pt": "Mil pessoas trabalham nesta torre." },
@@ -123,11 +163,11 @@
       ]
     },
     {
-      "term": "déjeuner",
-      "definitionPt": "almoço / almoçar",
+      "term": "le déjeuner",
+      "definitionPt": "o almoço",
       "definitionFr": "Repas du milieu de la journée.",
-      "inflections": ["le déjeuner", "déjeuner", "je déjeune"],
-      "ptTargets": ["almoço", "almoçar"],
+      "inflections": ["le déjeuner", "un déjeuner", "des déjeuners"],
+      "ptTargets": ["almoço"],
       "examples": [
         { "level": "A1", "fr": "À midi, les gens mangent leur déjeuner.", "pt": "Ao meio-dia, as pessoas comem o seu almoço." },
         { "level": "A2-B1", "fr": "Le déjeuner est à douze heures trente.", "pt": "O almoço é às doze e trinta." },
@@ -139,7 +179,7 @@
       "term": "midi",
       "definitionPt": "meio-dia",
       "definitionFr": "Le milieu de la journée, douze heures.",
-      "inflections": ["midi"],
+      "inflections": ["midi", "à midi"],
       "ptTargets": ["meio-dia"],
       "examples": [
         { "level": "A1", "fr": "À midi, nous mangeons.", "pt": "Ao meio-dia, nós comemos." },
@@ -149,11 +189,11 @@
       ]
     },
     {
-      "term": "peuple",
-      "definitionPt": "povo, gente",
-      "definitionFr": "Ensemble des personnes.",
-      "inflections": ["le peuple"],
-      "ptTargets": ["povo", "gente"],
+      "term": "les gens",
+      "definitionPt": "as pessoas",
+      "definitionFr": "L'ensemble des personnes.",
+      "inflections": ["les gens"],
+      "ptTargets": ["gente", "pessoas"],
       "examples": [
         { "level": "A1", "fr": "Beaucoup de gens mangent sur l'esplanade.", "pt": "Muitas pessoas comem na esplanada." },
         { "level": "A2-B1", "fr": "Les gens travaillent dans les tours.", "pt": "As pessoas trabalham nas torres." },
@@ -162,8 +202,8 @@
       ]
     },
     {
-      "term": "géographe",
-      "definitionPt": "geógrafo",
+      "term": "le géographe",
+      "definitionPt": "o geógrafo",
       "definitionFr": "Personne qui étudie la géographie.",
       "inflections": ["le géographe", "un géographe", "des géographes"],
       "ptTargets": ["geógrafo"],
