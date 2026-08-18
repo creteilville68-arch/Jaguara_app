@@ -1,10 +1,10 @@
 # #11 Nice — C2
 
-**5153 palavras** ainda precisam aparecer nos textos das aulas desta cidade.
+**5152 palavras** ainda precisam aparecer nos textos das aulas desta cidade.
 
 Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aventura do Irlan.
 
-## C2 (5153)
+## C2 (5152)
 
 - [ ] **abâtardir** — abastardar
 - [ ] **abductif** — abdutivo
@@ -4851,7 +4851,6 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **s’affamer** — passar fome
 - [ ] **s’écarter** — afastar-se
 - [ ] **s’écarter de** — afastar-se de
-- [ ] **s’éloigner de** — afastar-se de
 - [ ] **s’engager à** — comprometer-se a
 - [ ] **s’entendre sur** — entender-se sobre
 - [ ] **s’hydrater** — hidratar-se

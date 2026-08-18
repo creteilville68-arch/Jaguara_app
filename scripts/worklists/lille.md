@@ -185,39 +185,39 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **malentendant** — com deficiência auditiva
 - [ ] **mettre de la crème solaire** — passar protetor solar
 - [ ] **ne pas être d’accord** — não estar de acordo
-- [ ] **optimiste** — otimista
-- [ ] **ouvrir un compte** — abrir uma conta
-- [ ] **partir au travail** — sair para o trabalho
-- [ ] **passionnée** — apaixonada / entusiasta
-- [ ] **perdre du temps** — perder tempo
-- [ ] **porter des lunettes** — usar óculos
-- [ ] **poser du papier peint** — colocar papel de parede
-- [ ] **prendre rendez-vous** — marcar compromisso
-- [ ] **présenter quelqu’un** — apresentar alguém
-- [ ] **prolonger le séjour** — prolongar a estadia
-- [ ] **râler** — resmungar
-- [ ] **recommandée** — recomendada / indicada com elogio
-- [ ] **réfléchis** — penso / reflito (do verbo réfléchir)
-- [ ] **rembourser** — reembolsar
-- [ ] **rendre un livre** — devolver um livro
-- [ ] **repasser le linge** — passar a roupa
-- [ ] **répondre au message** — responder à mensagem
-- [ ] **retrouver des amis** — encontrar amigos
-- [ ] **s’abonner** — assinar (serviço)
-- [ ] **s’installer** — instalar-se / mudar-se
-- [ ] **se connecter au wifi** — conectar-se ao wifi
-- [ ] **se faire du souci** — preocupar-se
-- [ ] **se protéger du soleil** — proteger-se do sol
-- [ ] **se renseigner** — informar-se
-- [ ] **se tromper de route** — errar o caminho
-- [ ] **sortir les poubelles** — colocar o lixo para fora
-- [ ] **souhaiter un bon anniversaire** — desejar feliz aniversário
-- [ ] **stationner** — estacionar
-- [ ] **surfer sur internet** — navegar na internet
-- [ ] **tomber en panne** — quebrar / enguiçar
-- [ ] **tout à coup** — de repente
-- [ ] **travailler à temps plein** — trabalhar em período integral
-- [ ] **un paquet de** — um pacote de
-- [ ] **verrouiller** — trancar
-- [ ] **visser** — aparafusar
-- [ ] **voyager à pied** — viajar a pé
+- [ ] **ouvrir la fenêtre** — abrir a janela
+- [ ] **pardonner** — perdoar
+- [ ] **passer du temps** — passar tempo
+- [ ] **payer l’addition** — pagar a conta
+- [ ] **pessimiste** — pessimista
+- [ ] **porter des lunettes de soleil** — usar óculos de sol
+- [ ] **prendre l’ascenseur** — pegar o elevador
+- [ ] **prendre son temps** — ir com calma
+- [ ] **prévenir** — avisar
+- [ ] **raccrocher** — desligar (telefone)
+- [ ] **récemment** — recentemente
+- [ ] **recouvrir** — cobrir
+- [ ] **regarder la télévision** — assistir à televisão
+- [ ] **rendre service** — fazer um favor
+- [ ] **rentrer chez soi** — voltar para casa
+- [ ] **répondre à la porte** — atender a porta
+- [ ] **respirer profondément** — respirar fundo
+- [ ] **retrouver son chemin** — reencontrar o caminho
+- [ ] **s’ennuyer** — entediar-se
+- [ ] **s’orienter** — orientar-se
+- [ ] **se distraire** — distrair-se
+- [ ] **se faire rembourser** — ser reembolsado
+- [ ] **se réconcilier** — reconciliar-se
+- [ ] **se rétablir** — recuperar-se
+- [ ] **signaler** — sinalizar / reportar
+- [ ] **souhaiter** — desejar
+- [ ] **soulagé** — aliviado
+- [ ] **stressé** — estressado
+- [ ] **sympathique** — simpático
+- [ ] **tomber malade** — ficar doente
+- [ ] **transférer** — encaminhar
+- [ ] **trier** — separar / classificar
+- [ ] **une canette** — uma latinha
+- [ ] **vider la poubelle** — esvaziar o lixo
+- [ ] **vocale** — vocal / por voz (ex: annonce vocale)
+- [ ] **voyager en avion** — viajar de avião

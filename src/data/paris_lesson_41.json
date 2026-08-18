@@ -1,252 +1,292 @@
 {
   "id": "paris_lesson_41",
   "cityId": "paris",
-  "domain": "Transporte & Cidade",
+  "domain": "Transporte & Cotidiano",
   "level": "Iniciante (A1)",
   "titleFr": "Le bus et le métro",
   "titlePt": "O ônibus e o metrô",
-  "subtitleFr": "Les transports en commun à Paris",
-  "subtitlePt": "Os transportes públicos em Paris",
-  "summaryPt": "Nesta Aula 41 (A1), a família aprende a usar o ônibus e o métro em Paris. O aluno aprende o vocabulário do transporte (bus, métro, arrêt, station, billet, ticket, ligne) e como pedir informações e comprar bilhetes.",
+  "subtitleFr": "Traverser Paris, à deux, tous les jours",
+  "subtitlePt": "Atravessar Paris, a dois, todos os dias",
+  "summaryPt": "Na Aula 41 (A1), Irlan e Andréa fazem o trajeto diário juntos de ônibus e metrô. O aluno aprende o vocabulário do transporte público e os verbos 'monter' e 'descendre'.",
   "paragraphs": [
     {
       "id": 1,
-      "fr": "Chaque matin, Irlan prend le métro pour aller travailler. Il achète son ticket au guichet et descend à la station République. « Quelquefois, je préfère le bus, dit-il. On voit la ville depuis le bus. »",
-      "pt": "Toda manhã, Irlan pega o metrô para ir trabalhar. Ele compra seu bilhete na bilheteria e desce na estação République. « Às vezes, eu prefiro o ônibus, diz ele. Vê-se a cidade desde o ônibus. »"
+      "fr": "Chaque matin, Irlan et Andréa quittent la maison ensemble. Elle travaille tôt, lui part en livraison.",
+      "pt": "Toda manhã, Irlan e Andréa saem de casa juntos. Ela trabalha cedo, ele sai para as entregas."
     },
     {
       "id": 2,
-      "fr": "Andréa montre à Iris comment lire le plan du métro. « Nous sommes ici, dit-elle. La ligne 1 est rouge. Pour aller au zoo, nous prenons la ligne 1 et nous changeons à Nation. »",
-      "pt": "Andréa mostra a Íris como ler o mapa do metrô. « Estamos aqui, diz ela. A linha 1 é vermelha. Para ir ao zoológico, pegamos a linha 1 e trocamos na Nation. »"
+      "fr": "« On prend le bus ou le métro ? » demande Andréa. « Le métro, c'est plus rapide », répond Irlan.",
+      "pt": "«A gente pega o ônibus ou o metrô?», pergunta Andréa. «O metrô, é mais rápido», responde Irlan."
     },
     {
       "id": 3,
-      "fr": "Au guichet, Irlan demande : « Un carnet de tickets, s'il vous plaît. » La vendeuse répond : « Cela fait dix euros. Attention, les tickets sont valables pour le bus et pour le métro. »",
-      "pt": "Na bilheteria, Irlan pede: « Um bloco de bilhetes, por favor. » A vendedora responde: « São dez euros. Atenção, os bilhetes valem para o ônibus e para o metrô. »"
+      "fr": "À la station, Andréa achète deux billets. « Tiens, un pour toi, un pour moi. »",
+      "pt": "Na estação, Andréa compra duas passagens. «Toma, uma para você, uma para mim.»"
     },
     {
       "id": 4,
-      "fr": "Le soir, Iris raconte à Irlan : « Aujourd'hui, j'ai pris le bus avec maman. Nous sommes montées à l'arrêt devant l'école et nous sommes sorties au jardin. C'était amusant ! »",
-      "pt": "À noite, Íris conta a Irlan: « Hoje, eu peguei o ônibus com a mamãe. Subimos no ponto em frente à escola e saímos no jardim. Foi divertido! »"
+      "fr": "Ils descendent sur le quai. Le métro arrive avec un grand bruit et les portes s'ouvrent.",
+      "pt": "Eles descem até a plataforma. O metrô chega com um grande barulho e as portas se abrem."
+    },
+    {
+      "id": 5,
+      "fr": "Dans la rame, il y a beaucoup de monde. Irlan tient la barre et Andréa se tient à lui.",
+      "pt": "No vagão, há muita gente. Irlan segura a barra e Andréa se apoia nele."
+    },
+    {
+      "id": 6,
+      "fr": "« Tu descends à quelle station ? » demande Irlan. « À la prochaine », répond-elle.",
+      "pt": "«Você desce em qual estação?», pergunta Irlan. «Na próxima», responde ela."
+    },
+    {
+      "id": 7,
+      "fr": "Le métro s'arrête. Andréa descend et fait un signe de la main. « À ce soir ! »",
+      "pt": "O metrô para. Andréa desce e acena. «Até esta noite!»"
+    },
+    {
+      "id": 8,
+      "fr": "Le soir, ils se retrouvent à l'arrêt de bus. Il pleut un peu, mais ils attendent ensemble.",
+      "pt": "À noite, eles se encontram no ponto de ônibus. Chove um pouco, mas eles esperam juntos."
+    },
+    {
+      "id": 9,
+      "fr": "Dans le bus, Irlan montre le plan de la ligne. « Regarde, on passe par la grande place. »",
+      "pt": "No ônibus, Irlan mostra o mapa da linha. «Olha, a gente passa pela praça grande.»"
+    },
+    {
+      "id": 10,
+      "fr": "« Tu connais toutes les lignes de la ville », dit Andréa. « C'est mon métier de lire les cartes », sourit-il.",
+      "pt": "«Você conhece todas as linhas da cidade», diz Andréa. «É meu trabalho ler mapas», sorri ele."
+    },
+    {
+      "id": 11,
+      "fr": "Ils descendent à l'arrêt près de la maison. La pluie a cessé, et la rue brille sous les lampadaires.",
+      "pt": "Eles descem no ponto perto de casa. A chuva parou, e a rua brilha sob os postes."
+    },
+    {
+      "id": 12,
+      "fr": "« C'est bon de rentrer ensemble », dit Andréa. Irlan prend sa main : « C'est ça, notre ligne préférée. »",
+      "pt": "«É bom voltar juntos», diz Andréa. Irlan segura a mão dela: «É essa, a nossa linha preferida.»"
     }
   ],
   "vocabularyDictionary": [
     {
       "term": "le bus",
       "definitionPt": "o ônibus",
-      "definitionFr": "Véhicule de transport en commun.",
+      "definitionFr": "Grand véhicule de transport en ville.",
       "inflections": ["le bus", "un bus", "des bus"],
       "ptTargets": ["ônibus"],
       "examples": [
-        { "level": "A1", "fr": "Le bus est jaune.", "pt": "O ônibus é amarelo." },
-        { "level": "A2-B1", "fr": "Nous prenons le bus pour aller à l'école.", "pt": "Pegamos o ônibus para ir à escola." },
-        { "level": "B2", "fr": "Le bus, bondé le matin, traverse toute la ville.", "pt": "O ônibus, lotado de manhã, atravessa toda a cidade." },
-        { "level": "C1-C2", "fr": "C'est le bus qui, ponctuel, relie les quartiers de Paris.", "pt": "É o ônibus que, pontual, liga os bairros de Paris." }
+        { "level": "A1", "fr": "Le bus arrive.", "pt": "O ônibus chega." },
+        { "level": "A2-B1", "fr": "Ils attendent le bus à l'arrêt.", "pt": "Eles esperam o ônibus no ponto." },
+        { "level": "B2", "fr": "Le bus traverse la ville en s'arrêtant à chaque station.", "pt": "O ônibus atravessa a cidade parando em cada estação." },
+        { "level": "C1-C2", "fr": "C'est le bus qui, lent mais fidèle, relie les quartiers entre eux.", "pt": "É o ônibus que, lento mas fiel, liga os bairros entre si." }
       ]
     },
     {
       "term": "le métro",
       "definitionPt": "o metrô",
-      "definitionFr": "Train urbain souterrain.",
-      "inflections": ["le métro", "un métro", "des métros"],
+      "definitionFr": "Train qui circule sous la ville.",
+      "inflections": ["le métro", "un métro"],
       "ptTargets": ["metrô"],
       "examples": [
         { "level": "A1", "fr": "Le métro est rapide.", "pt": "O metrô é rápido." },
-        { "level": "A2-B1", "fr": "Irlan prend le métro chaque matin.", "pt": "Irlan pega o metrô toda manhã." },
-        { "level": "B2", "fr": "Le métro parisien, ancien et rapide, dessert toute la ville.", "pt": "O metrô parisiense, antigo e rápido, atende toda a cidade." },
-        { "level": "C1-C2", "fr": "C'est le métro qui, souterrain, relie les destins des Parisiens.", "pt": "É o metrô que, subterrâneo, liga os destinos dos parisienses." }
-      ]
-    },
-    {
-      "term": "l'arrêt",
-      "definitionPt": "o ponto (de ônibus)",
-      "definitionFr": "Endroit où le bus s'arrête.",
-      "inflections": ["l'arrêt", "un arrêt", "des arrêts"],
-      "ptTargets": ["ponto", "parada"],
-      "examples": [
-        { "level": "A1", "fr": "L'arrêt est devant l'école.", "pt": "O ponto é em frente à escola." },
-        { "level": "A2-B1", "fr": "Nous descendons au prochain arrêt.", "pt": "Descemos no próximo ponto." },
-        { "level": "B2", "fr": "L'arrêt de bus, abrité, attend les voyageurs.", "pt": "O ponto de ônibus, coberto, espera os passageiros." },
-        { "level": "C1-C2", "fr": "C'est l'arrêt qui, quotidien, marque le rythme de la ville.", "pt": "É o ponto que, cotidiano, marca o ritmo da cidade." }
+        { "level": "A2-B1", "fr": "Ils prennent le métro le matin.", "pt": "Eles pegam o metrô de manhã." },
+        { "level": "B2", "fr": "Le métro parisien transporte des millions de voyageurs.", "pt": "O metrô parisiense transporta milhões de passageiros." },
+        { "level": "C1-C2", "fr": "C'est le métro qui, sous terre, fait battre le cœur de la capitale.", "pt": "É o metrô que, embaixo da terra, faz bater o coração da capital." }
       ]
     },
     {
       "term": "la station",
-      "definitionPt": "a estação (de metrô)",
-      "definitionFr": "Endroit où s'arrête le métro.",
+      "definitionPt": "a estação",
+      "definitionFr": "Lieu où l'on attend le train ou le métro.",
       "inflections": ["la station", "une station", "des stations"],
       "ptTargets": ["estação"],
       "examples": [
         { "level": "A1", "fr": "La station est proche.", "pt": "A estação é perto." },
-        { "level": "A2-B1", "fr": "Je descends à la station République.", "pt": "Eu desço na estação République." },
-        { "level": "B2", "fr": "La station République est une grande station de correspondance.", "pt": "A estação République é uma grande estação de baldeação." },
-        { "level": "C1-C2", "fr": "C'est la station qui, carrefour souterrain, organise les correspondances.", "pt": "É a estação que, encruzilhada subterrânea, organiza as baldeações." }
+        { "level": "A2-B1", "fr": "Andréa descend à la prochaine station.", "pt": "Andréa desce na próxima estação." },
+        { "level": "B2", "fr": "Chaque station de métro a son propre caractère.", "pt": "Cada estação de metrô tem seu próprio caráter." },
+        { "level": "C1-C2", "fr": "C'est à la station que se croisent, chaque jour, des milliers de destins.", "pt": "É na estação que se cruzam, todos os dias, milhares de destinos." }
       ]
     },
     {
-      "term": "le ticket",
-      "definitionPt": "o bilhete",
-      "definitionFr": "Billet pour les transports.",
-      "inflections": ["le ticket", "un ticket", "des tickets"],
-      "ptTargets": ["bilhete", "ticket"],
+      "term": "le billet",
+      "definitionPt": "a passagem (bilhete)",
+      "definitionFr": "Ticket pour voyager.",
+      "inflections": ["le billet", "un billet", "des billets"],
+      "ptTargets": ["passagem", "bilhete"],
       "examples": [
-        { "level": "A1", "fr": "Le ticket est petit.", "pt": "O bilhete é pequeno." },
-        { "level": "A2-B1", "fr": "Je prends un ticket pour le métro.", "pt": "Eu pego um bilhete para o metrô." },
-        { "level": "B2", "fr": "Les tickets sont valables pour le bus et le métro.", "pt": "Os bilhetes valem para o ônibus e o metrô." },
-        { "level": "C1-C2", "fr": "C'est le ticket qui, composté, permet le voyage.", "pt": "É o bilhete que, validado, permite a viagem." }
+        { "level": "A1", "fr": "Le billet est petit.", "pt": "A passagem é pequena." },
+        { "level": "A2-B1", "fr": "Andréa achète deux billets de métro.", "pt": "Andréa compra duas passagens de metrô." },
+        { "level": "B2", "fr": "Un billet de métro permet de voyager dans toute la ville.", "pt": "Uma passagem de metrô permite viajar por toda a cidade." },
+        { "level": "C1-C2", "fr": "C'est le billet qui, minuscule, ouvre la porte de toute une ville.", "pt": "É a passagem que, minúscula, abre a porta de uma cidade inteira." }
       ]
     },
     {
-      "term": "le plan",
-      "definitionPt": "o mapa",
-      "definitionFr": "Carte des lignes de transport.",
-      "inflections": ["le plan", "un plan", "des plans"],
-      "ptTargets": ["mapa", "planta"],
+      "term": "attendre",
+      "definitionPt": "esperar",
+      "definitionFr": "Rester jusqu'à l'arrivée de quelqu'un ou de quelque chose.",
+      "inflections": ["attendre", "j'attends", "nous attendons"],
+      "ptTargets": ["esperar"],
       "examples": [
-        { "level": "A1", "fr": "Le plan est sur le mur.", "pt": "O mapa está na parede." },
-        { "level": "A2-B1", "fr": "Nous regardons le plan du métro.", "pt": "Olhamos o mapa do metrô." },
-        { "level": "B2", "fr": "Le plan du métro, coloré, aide les voyageurs.", "pt": "O mapa do metrô, colorido, ajuda os viajantes." },
-        { "level": "C1-C2", "fr": "C'est le plan qui, lisible, transforme la ville en parcours.", "pt": "É o mapa que, legível, transforma a cidade em percurso." }
+        { "level": "A1", "fr": "J'attends le bus.", "pt": "Eu espero o ônibus." },
+        { "level": "A2-B1", "fr": "Ils attendent ensemble à l'arrêt.", "pt": "Eles esperam juntos no ponto." },
+        { "level": "B2", "fr": "Attendre sous la pluie devient agréable quand on est à deux.", "pt": "Esperar na chuva fica agradável quando se está a dois." },
+        { "level": "C1-C2", "fr": "C'est en attendant que l'on apprend la patience et le goût des retrouvailles.", "pt": "É esperando que se aprende a paciência e o gosto do reencontro." }
       ]
     },
     {
       "term": "la ligne",
       "definitionPt": "a linha",
-      "definitionFr": "Trajet d'un transport.",
+      "definitionFr": "Trajet d'un bus ou d'un métro.",
       "inflections": ["la ligne", "une ligne", "des lignes"],
       "ptTargets": ["linha"],
       "examples": [
-        { "level": "A1", "fr": "La ligne 1 est rouge.", "pt": "A linha 1 é vermelha." },
-        { "level": "A2-B1", "fr": "Nous prenons la ligne 1 et nous changeons.", "pt": "Pegamos a linha 1 e trocamos." },
-        { "level": "B2", "fr": "La ligne 1, automatique, traverse Paris d'est en ouest.", "pt": "A linha 1, automática, atravessa Paris de leste a oeste." },
-        { "level": "C1-C2", "fr": "C'est la ligne qui, matinale, porte les Parisiens au travail.", "pt": "É a linha que, matinal, leva os parisienses ao trabalho." }
-      ]
-    },
-    {
-      "term": "changer",
-      "definitionPt": "trocar (de linha)",
-      "definitionFr": "Prendre une autre ligne.",
-      "inflections": ["changer", "je change", "nous changeons"],
-      "ptTargets": ["trocar", "baldear"],
-      "examples": [
-        { "level": "A1", "fr": "Nous changeons à Nation.", "pt": "Trocamos na Nation." },
-        { "level": "A2-B1", "fr": "Pour aller au zoo, nous changeons de ligne.", "pt": "Para ir ao zoológico, trocamos de linha." },
-        { "level": "B2", "fr": "Les correspondances permettent de changer facilement.", "pt": "As baldeações permitem trocar facilmente." },
-        { "level": "C1-C2", "fr": "C'est en changeant de ligne que l'on explore la ville.", "pt": "É trocando de linha que se explora a cidade." }
+        { "level": "A1", "fr": "La ligne est longue.", "pt": "A linha é longa." },
+        { "level": "A2-B1", "fr": "Irlan connaît toutes les lignes de la ville.", "pt": "Irlan conhece todas as linhas da cidade." },
+        { "level": "B2", "fr": "La ligne de bus passe par les grands monuments.", "pt": "A linha de ônibus passa pelos grandes monumentos." },
+        { "level": "C1-C2", "fr": "C'est la ligne qui, comme un fil, relie les quartiers au cœur de la ville.", "pt": "É a linha que, como um fio, liga os bairros ao coração da cidade." }
       ]
     },
     {
       "term": "monter",
-      "definitionPt": "subir (embarcar)",
-      "definitionFr": "Entrer dans un véhicule.",
+      "definitionPt": "subir",
+      "definitionFr": "Aller vers le haut ou entrer dans un véhicule.",
       "inflections": ["monter", "je monte", "nous montons"],
       "ptTargets": ["subir", "embarcar"],
       "examples": [
         { "level": "A1", "fr": "Je monte dans le bus.", "pt": "Eu subo no ônibus." },
-        { "level": "A2-B1", "fr": "Nous sommes montées à l'arrêt devant l'école.", "pt": "Subimos no ponto em frente à escola." },
-        { "level": "B2", "fr": "Les passagers montent et descendent rapidement.", "pt": "Os passageiros sobem e descem rapidamente." },
-        { "level": "C1-C2", "fr": "C'est en montant dans le bus que l'on commence le voyage.", "pt": "É subindo no ônibus que se começa a viagem." }
+        { "level": "A2-B1", "fr": "Ils montent dans le métro ensemble.", "pt": "Eles sobem no metrô juntos." },
+        { "level": "B2", "fr": "Monter dans un bus bondé demande de la patience.", "pt": "Subir num ônibus lotado exige paciência." },
+        { "level": "C1-C2", "fr": "C'est en montant dans le même wagon qu'ils commencent chaque journée côte à côte.", "pt": "É subindo no mesmo vagão que eles começam cada dia lado a lado." }
       ]
     },
     {
       "term": "descendre",
-      "definitionPt": "descer (desembarcar)",
-      "definitionFr": "Sortir d'un véhicule.",
+      "definitionPt": "descer",
+      "definitionFr": "Aller vers le bas ou sortir d'un véhicule.",
       "inflections": ["descendre", "je descends", "nous descendons"],
-      "ptTargets": ["descer", "desembarcar"],
+      "ptTargets": ["descer"],
       "examples": [
         { "level": "A1", "fr": "Je descends à la station.", "pt": "Eu desço na estação." },
-        { "level": "A2-B1", "fr": "Nous descendons au prochain arrêt.", "pt": "Descemos no próximo ponto." },
-        { "level": "B2", "fr": "Il descend du bus avec un sac jaune.", "pt": "Ele desce do ônibus com uma sacola amarela." },
-        { "level": "C1-C2", "fr": "C'est en descendant que l'on arrive à destination.", "pt": "É descendo que se chega ao destino." }
+        { "level": "A2-B1", "fr": "Andréa descend à la prochaine station.", "pt": "Andréa desce na próxima estação." },
+        { "level": "B2", "fr": "Il faut descendre vite quand le métro s'arrête.", "pt": "É preciso descer rápido quando o metrô para." },
+        { "level": "C1-C2", "fr": "C'est en descendant à l'arrêt qu'ils retrouvent le calme de leur rue.", "pt": "É descendo no ponto que eles reencontram a calma da rua deles." }
       ]
     },
     {
-      "term": "le guichet",
-      "definitionPt": "a bilheteria",
-      "definitionFr": "Endroit où l'on achète les billets.",
-      "inflections": ["le guichet", "un guichet", "des guichets"],
-      "ptTargets": ["bilheteria", "guichê"],
+      "term": "l'arrêt",
+      "definitionPt": "a parada (ponto)",
+      "definitionFr": "Lieu où le bus s'arrête.",
+      "inflections": ["l'arrêt", "un arrêt", "des arrêts"],
+      "ptTargets": ["parada", "ponto"],
       "examples": [
-        { "level": "A1", "fr": "Le guichet est ouvert.", "pt": "A bilheteria está aberta." },
-        { "level": "A2-B1", "fr": "Irlan achète son ticket au guichet.", "pt": "Irlan compra seu bilhete na bilheteria." },
-        { "level": "B2", "fr": "Le guichet, rapide, sert les voyageurs pressés.", "pt": "A bilheteria, rápida, atende os viajantes apressados." },
-        { "level": "C1-C2", "fr": "C'est au guichet que commence chaque voyage.", "pt": "É na bilheteria que começa cada viagem." }
+        { "level": "A1", "fr": "L'arrêt est là.", "pt": "O ponto é ali." },
+        { "level": "A2-B1", "fr": "Ils attendent à l'arrêt de bus.", "pt": "Eles esperam no ponto de ônibus." },
+        { "level": "B2", "fr": "L'arrêt près de la maison est leur point de rendez-vous.", "pt": "O ponto perto de casa é o lugar de encontro deles." },
+        { "level": "C1-C2", "fr": "C'est à l'arrêt que la ville ralentit et laisse place aux conversations.", "pt": "É no ponto que a cidade desacelera e dá lugar às conversas." }
       ]
     },
     {
-      "term": "voyager",
-      "definitionPt": "viajar",
-      "definitionFr": "Faire un trajet.",
-      "inflections": ["voyager", "je voyage", "nous voyageons"],
-      "ptTargets": ["viajar"],
+      "term": "le plan",
+      "definitionPt": "o mapa (planta)",
+      "definitionFr": "Dessin qui montre les rues et les lignes.",
+      "inflections": ["le plan", "un plan", "des plans"],
+      "ptTargets": ["mapa", "planta"],
       "examples": [
-        { "level": "A1", "fr": "J'aime voyager.", "pt": "Eu gosto de viajar." },
-        { "level": "A2-B1", "fr": "Nous voyageons en bus et en métro.", "pt": "Viajamos de ônibus e de metrô." },
-        { "level": "B2", "fr": "Voyager en transports en commun, c'est voir la ville autrement.", "pt": "Viajar de transporte público é ver a cidade de outro jeito." },
-        { "level": "C1-C2", "fr": "C'est en voyageant que l'on apprend à connaître un pays.", "pt": "É viajando que se aprende a conhecer um país." }
+        { "level": "A1", "fr": "Le plan est clair.", "pt": "O mapa é claro." },
+        { "level": "A2-B1", "fr": "Irlan montre le plan de la ligne.", "pt": "Irlan mostra o mapa da linha." },
+        { "level": "B2", "fr": "Un bon plan du métro aide à ne pas se perdre.", "pt": "Um bom mapa do metrô ajuda a não se perder." },
+        { "level": "C1-C2", "fr": "C'est le plan qui, dans la poche, transforme la ville en un chemin lisible.", "pt": "É o mapa que, no bolso, transforma a cidade num caminho legível." }
+      ]
+    },
+    {
+      "term": "le quai",
+      "definitionPt": "a plataforma",
+      "definitionFr": "Plateforme où l'on attend le train.",
+      "inflections": ["le quai", "un quai", "des quais"],
+      "ptTargets": ["plataforma"],
+      "examples": [
+        { "level": "A1", "fr": "Le quai est plein.", "pt": "A plataforma está cheia." },
+        { "level": "A2-B1", "fr": "Ils descendent sur le quai.", "pt": "Eles descem até a plataforma." },
+        { "level": "B2", "fr": "Le métro arrive sur le quai avec un grand bruit.", "pt": "O metrô chega à plataforma com um grande barulho." },
+        { "level": "C1-C2", "fr": "C'est sur le quai que, chaque matin, la ville commence à bouger.", "pt": "É na plataforma que, toda manhã, a cidade começa a se mexer." }
+      ]
+    },
+    {
+      "term": "la rame",
+      "definitionPt": "o vagão (composição do metrô)",
+      "definitionFr": "Ensemble de wagons d'un métro.",
+      "inflections": ["la rame", "une rame", "des rames"],
+      "ptTargets": ["vagão", "composição"],
+      "examples": [
+        { "level": "A1", "fr": "La rame est longue.", "pt": "O vagão é longo." },
+        { "level": "A2-B1", "fr": "Dans la rame, il y a beaucoup de monde.", "pt": "No vagão, há muita gente." },
+        { "level": "B2", "fr": "Les rames se succèdent toutes les deux minutes.", "pt": "Os vagões se sucedem a cada dois minutos." },
+        { "level": "C1-C2", "fr": "C'est dans la rame que se croisent, sans se parler, les visages de la ville.", "pt": "É no vagão que se cruzam, sem se falar, os rostos da cidade." }
       ]
     }
   ],
   "grammarTip": {
-    "ruleTitle": "Prendre (pegar) + os transportes",
-    "explanationPt": "Para dizer que se pega um transporte, usa-se o verbo 'prendre': 'prendre le métro' (pegar o metrô), 'prendre le bus' (pegar o ônibus), 'prendre le train' (pegar o trem). Conjugação: je prends, tu prends, il prend, nous prenons, vous prenez, ils prennent.",
-    "exampleFr": "Je prends le métro chaque matin. Nous prenons le bus pour aller à l'école.",
-    "examplePt": "Eu pego o metrô toda manhã. Pegamos o ônibus para ir à escola.",
-    "practiceQuestion": "Complete: 'Je _____ le métro chaque matin.'",
-    "options": ["prends", "prend", "prenons"],
+    "ruleTitle": "Monter / descendre + dans ou à",
+    "explanationPt": "'Monter dans' = entrar num veículo (monter dans le bus). 'Descendre à' = descer numa estação/ponto (descendre à la station).",
+    "exampleFr": "Andréa descend à la prochaine station.",
+    "examplePt": "Andréa desce na próxima estação.",
+    "practiceQuestion": "Complete: 'Je monte _____ le bus.'",
+    "options": ["dans", "à", "sur"],
     "correctIndex": 0,
     "points": [
       {
-        "ruleTitle": "Monter / descendre : embarque e desembarque",
-        "explanationPt": "'Monter dans' = embarcar; 'descendre de' = desembarcar. Ex.: 'Nous montons dans le bus' (embarcamos no ônibus), 'Nous descendons à l'arrêt' (descemos no ponto).",
-        "exampleFr": "Nous montons dans le bus et nous descendons au jardin.",
-        "examplePt": "Embarcamos no ônibus e descemos no jardim.",
-        "practiceQuestion": "Complete: 'Nous _____ dans le bus.'",
-        "options": ["montons", "montons pas", "descendons"],
+        "ruleTitle": "Le matin / le soir",
+        "explanationPt": "'Le matin' (de manhã), 'le soir' (à noite), 'l'après-midi' (à tarde). Sem preposição: 'Je travaille le matin.'",
+        "exampleFr": "Ils prennent le métro le matin.",
+        "examplePt": "Eles pegam o metrô de manhã.",
+        "practiceQuestion": "Complete: 'Ils se retrouvent _____ soir.'",
+        "options": ["le", "à", "en"],
         "correctIndex": 0
       },
       {
-        "ruleTitle": "Combien ça coûte ? : perguntar o preço",
-        "explanationPt": "Para perguntar o preço: 'Combien ça coûte ?' (quanto custa?), 'Cela fait dix euros' (são dez euros).",
-        "exampleFr": "— Un carnet de tickets, s'il vous plaît. — Cela fait dix euros.",
-        "examplePt": "— Um bloco de bilhetes, por favor. — São dez euros.",
-        "practiceQuestion": "Complete: 'Cela _____ dix euros.'",
-        "options": ["fait", "fais", "font"],
+        "ruleTitle": "À la prochaine !",
+        "explanationPt": "Expressão de despedida: 'à la prochaine' (até a próxima), 'à ce soir' (até esta noite), 'à demain' (até amanhã).",
+        "exampleFr": "À ce soir !",
+        "examplePt": "Até esta noite!",
+        "practiceQuestion": "Complete: 'À _____ !' (até amanhã)",
+        "options": ["demain", "demains", "demaine"],
         "correctIndex": 0
       }
     ]
   },
   "quizQuestions": [
     {
-      "question": "O que Irlan pega toda manhã para ir trabalhar?",
+      "question": "Qual transporte eles usam de manhã?",
       "options": ["o metrô", "o avião", "o barco"],
       "correctIndex": 0,
-      "explanation": "Chaque matin, Irlan prend le métro pour aller travailler."
+      "explanation": "Ils prennent le métro le matin."
     },
     {
-      "question": "Para ir ao zoo, que linha a família pega?",
-      "options": ["a linha 1", "a linha 5", "a linha 9"],
+      "question": "O que Andréa compra na estação?",
+      "options": ["duas passagens", "um café", "um livro"],
       "correctIndex": 0,
-      "explanation": "Pour aller au zoo, nous prenons la ligne 1."
+      "explanation": "Andréa achète deux billets."
     },
     {
-      "question": "Onde eles trocam de linha?",
-      "options": ["na Nation", "na Bastille", "na Gare du Nord"],
+      "question": "Onde eles se encontram à noite?",
+      "options": ["no ponto de ônibus", "na praia", "no cinema"],
       "correctIndex": 0,
-      "explanation": "Nous prenons la ligne 1 et nous changeons à Nation."
+      "explanation": "Ils se retrouvent à l'arrêt de bus."
     },
     {
-      "question": "Complete: 'Je _____ le métro chaque matin.'",
-      "options": ["prends", "prend", "prenons"],
+      "question": "Complete: 'Je monte _____ le bus.'",
+      "options": ["dans", "à", "sur"],
       "correctIndex": 0,
-      "explanation": "Prendre: je prends."
+      "explanation": "On monte dans le bus."
     },
     {
-      "question": "Complete: 'Cela _____ dix euros.'",
-      "options": ["fait", "fais", "font"],
+      "question": "O que Irlan mostra no ônibus?",
+      "options": ["o mapa da linha", "o relógio", "a foto"],
       "correctIndex": 0,
-      "explanation": "Cela fait dix euros = são dez euros."
+      "explanation": "Irlan montre le plan de la ligne."
     }
   ]
 }
