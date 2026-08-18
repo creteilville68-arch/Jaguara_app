@@ -1,48 +1,48 @@
 {
   "paris": [
     {
-      "term": "acheter du pain",
-      "pt": "comprar pão",
+      "term": "acide",
+      "pt": "azedo",
       "level": "A1"
     },
     {
-      "term": "aimer une publication",
-      "pt": "curtir uma publicação",
+      "term": "aller au travail",
+      "pt": "ir ao trabalho",
       "level": "A1"
     },
     {
-      "term": "appeler un ami",
-      "pt": "ligar para um amigo",
+      "term": "aujourd",
+      "pt": "hoje / no dia de hoje (primeira parte de 'aujourd'hui')",
       "level": "A1"
     },
     {
-      "term": "avant-hier",
-      "pt": "anteontem",
+      "term": "avril",
+      "pt": "abril",
       "level": "A1"
     },
     {
-      "term": "c",
-      "pt": "isto / isso / o que (pronome demonstrativo impessoal, usado em 'c'est')",
+      "term": "calculer",
+      "pt": "calcular",
       "level": "A1"
     },
     {
-      "term": "changer de train",
-      "pt": "trocar de trem",
+      "term": "check",
+      "pt": "check (registro de entrada, check-in)",
       "level": "A1"
     },
     {
-      "term": "check-in",
-      "pt": "check-in / registro de entrada",
+      "term": "chercher sur internet",
+      "pt": "pesquisar na internet",
       "level": "A1"
     },
     {
-      "term": "colorier",
-      "pt": "colorir",
+      "term": "commencent",
+      "pt": "começam / iniciam (do verbo commencer)",
       "level": "A1"
     },
     {
-      "term": "conduire une voiture",
-      "pt": "dirigir um carro",
+      "term": "crêperie",
+      "pt": "creperia / restaurante de crepes",
       "level": "A1"
     },
     {
@@ -253,6 +253,613 @@
     {
       "term": "la ratatouille",
       "pt": "o ratatouille",
+      "level": "A1"
+    },
+    {
+      "term": "la salle de bain",
+      "pt": "o banheiro",
+      "level": "A1"
+    },
+    {
+      "term": "la scie",
+      "pt": "o serrote",
+      "level": "A1"
+    },
+    {
+      "term": "la serviette de bain",
+      "pt": "a toalha de banho",
+      "level": "A1"
+    },
+    {
+      "term": "la soupe de légumes",
+      "pt": "a sopa de legumes",
+      "level": "A1"
+    },
+    {
+      "term": "la tablette",
+      "pt": "o tablet",
+      "level": "A1"
+    },
+    {
+      "term": "la tarte aux pommes",
+      "pt": "a torta de maçã",
+      "level": "A1"
+    },
+    {
+      "term": "la tisane",
+      "pt": "o chá de ervas",
+      "level": "A1"
+    },
+    {
+      "term": "la vidéo en ligne",
+      "pt": "o vídeo online",
+      "level": "A1"
+    },
+    {
+      "term": "laisser un message",
+      "pt": "deixar um recado",
+      "level": "A1"
+    },
+    {
+      "term": "le brie",
+      "pt": "o brie",
+      "level": "A1"
+    },
+    {
+      "term": "le café au lait",
+      "pt": "o café com leite",
+      "level": "A1"
+    },
+    {
+      "term": "le carrelage",
+      "pt": "o azulejo / o piso",
+      "level": "A1"
+    },
+    {
+      "term": "le coiffeur",
+      "pt": "o cabeleireiro",
+      "level": "A1"
+    },
+    {
+      "term": "le concombre",
+      "pt": "o pepino",
+      "level": "A1"
+    },
+    {
+      "term": "le couteau",
+      "pt": "a faca",
+      "level": "A1"
+    },
+    {
+      "term": "le croissant au beurre",
+      "pt": "o croissant de manteiga",
+      "level": "A1"
+    },
+    {
+      "term": "le dessin animé",
+      "pt": "o desenho animado",
+      "level": "A1"
+    },
+    {
+      "term": "le drap",
+      "pt": "o lençol",
+      "level": "A1"
+    },
+    {
+      "term": "le fouet",
+      "pt": "o batedor",
+      "level": "A1"
+    },
+    {
+      "term": "le genou",
+      "pt": "o joelho",
+      "level": "A1"
+    },
+    {
+      "term": "le gruyère",
+      "pt": "o gruyère",
+      "level": "A1"
+    },
+    {
+      "term": "le jeu télévisé",
+      "pt": "o programa de auditório",
+      "level": "A1"
+    },
+    {
+      "term": "le journal intime",
+      "pt": "o diário",
+      "level": "A1"
+    },
+    {
+      "term": "le jus de pomme",
+      "pt": "o suco de maçã",
+      "level": "A1"
+    },
+    {
+      "term": "le marteau",
+      "pt": "o martelo",
+      "level": "A1"
+    },
+    {
+      "term": "le mixeur",
+      "pt": "o liquidificador / o mixer",
+      "level": "A1"
+    },
+    {
+      "term": "le papier peint",
+      "pt": "o papel de parede",
+      "level": "A1"
+    },
+    {
+      "term": "le peigne",
+      "pt": "o pente",
+      "level": "A1"
+    },
+    {
+      "term": "le poisson rouge",
+      "pt": "o peixinho dourado",
+      "level": "A1"
+    },
+    {
+      "term": "le poulet rôti",
+      "pt": "o frango assado",
+      "level": "A1"
+    },
+    {
+      "term": "le pull",
+      "pt": "o suéter",
+      "level": "A1"
+    },
+    {
+      "term": "le réfrigérateur",
+      "pt": "a geladeira",
+      "level": "A1"
+    },
+    {
+      "term": "le reportage",
+      "pt": "a reportagem",
+      "level": "A1"
+    },
+    {
+      "term": "le robinet d’eau",
+      "pt": "a torneira de água",
+      "level": "A1"
+    },
+    {
+      "term": "le rouleau à pâtisserie",
+      "pt": "o rolo de massa",
+      "level": "A1"
+    },
+    {
+      "term": "le sèche-linge",
+      "pt": "a secadora",
+      "level": "A1"
+    },
+    {
+      "term": "le site internet",
+      "pt": "o site",
+      "level": "A1"
+    },
+    {
+      "term": "le stylo",
+      "pt": "a caneta",
+      "level": "A1"
+    },
+    {
+      "term": "le thé vert",
+      "pt": "o chá verde",
+      "level": "A1"
+    },
+    {
+      "term": "le tiroir",
+      "pt": "a gaveta",
+      "level": "A1"
+    },
+    {
+      "term": "le transformateur",
+      "pt": "o transformador",
+      "level": "A1"
+    },
+    {
+      "term": "le violon",
+      "pt": "o violino",
+      "level": "A1"
+    },
+    {
+      "term": "le yoga",
+      "pt": "a ioga",
+      "level": "A1"
+    },
+    {
+      "term": "les chaussettes",
+      "pt": "as meias",
+      "level": "A1"
+    },
+    {
+      "term": "les œufs brouillés",
+      "pt": "os ovos mexidos",
+      "level": "A1"
+    },
+    {
+      "term": "les toilettes",
+      "pt": "o banheiro (sanitário)",
+      "level": "A1"
+    },
+    {
+      "term": "mal de tête",
+      "pt": "dor de cabeça / enxaqueca",
+      "level": "A1"
+    },
+    {
+      "term": "moche",
+      "pt": "feio (coloquial)",
+      "level": "A1"
+    },
+    {
+      "term": "mou",
+      "pt": "mole",
+      "level": "A1"
+    },
+    {
+      "term": "opaque",
+      "pt": "opaco",
+      "level": "A1"
+    },
+    {
+      "term": "passe Navigo",
+      "pt": "passe Navigo / cartão Navigo",
+      "level": "A1"
+    },
+    {
+      "term": "peler",
+      "pt": "descascar",
+      "level": "A1"
+    },
+    {
+      "term": "poser une question",
+      "pt": "fazer uma pergunta",
+      "level": "A1"
+    },
+    {
+      "term": "prendre une douche",
+      "pt": "tomar banho (chuveiro)",
+      "level": "A1"
+    },
+    {
+      "term": "quatre-vingt-dix",
+      "pt": "noventa",
+      "level": "A1"
+    },
+    {
+      "term": "ranger la chambre",
+      "pt": "arrumar o quarto",
+      "level": "A1"
+    },
+    {
+      "term": "recevoir un colis",
+      "pt": "receber uma encomenda",
+      "level": "A1"
+    },
+    {
+      "term": "regarder une vidéo",
+      "pt": "assistir a um vídeo",
+      "level": "A1"
+    },
+    {
+      "term": "rester à la maison",
+      "pt": "ficar em casa",
+      "level": "A1"
+    },
+    {
+      "term": "se chausser",
+      "pt": "calçar-se",
+      "level": "A1"
+    },
+    {
+      "term": "se coucher tôt",
+      "pt": "deitar cedo",
+      "level": "A1"
+    },
+    {
+      "term": "se déshabiller",
+      "pt": "despir-se",
+      "level": "A1"
+    },
+    {
+      "term": "se maquiller",
+      "pt": "maquiar-se",
+      "level": "A1"
+    },
+    {
+      "term": "secondaire",
+      "pt": "secundário",
+      "level": "A1"
+    },
+    {
+      "term": "shopping",
+      "pt": "compras / shopping / fazer compras",
+      "level": "A1"
+    },
+    {
+      "term": "soulever",
+      "pt": "levantar (peso)",
+      "level": "A1"
+    },
+    {
+      "term": "supprimer",
+      "pt": "apagar",
+      "level": "A1"
+    },
+    {
+      "term": "télécharger",
+      "pt": "baixar",
+      "level": "A1"
+    },
+    {
+      "term": "tourner à gauche",
+      "pt": "virar à esquerda",
+      "level": "A1"
+    },
+    {
+      "term": "un milliard",
+      "pt": "um bilhão",
+      "level": "A1"
+    },
+    {
+      "term": "wi",
+      "pt": "Wi (parte da palavra Wi-Fi)",
+      "level": "A1"
+    }
+  ],
+  "amiens": [
+    {
+      "term": "aimer une publication",
+      "pt": "curtir uma publicação",
+      "level": "A1"
+    },
+    {
+      "term": "appeler un ami",
+      "pt": "ligar para um amigo",
+      "level": "A1"
+    },
+    {
+      "term": "avant-hier",
+      "pt": "anteontem",
+      "level": "A1"
+    },
+    {
+      "term": "c",
+      "pt": "isto / isso / o que (pronome demonstrativo impessoal, usado em 'c'est')",
+      "level": "A1"
+    },
+    {
+      "term": "changer de train",
+      "pt": "trocar de trem",
+      "level": "A1"
+    },
+    {
+      "term": "check-in",
+      "pt": "check-in / registro de entrada",
+      "level": "A1"
+    },
+    {
+      "term": "colorier",
+      "pt": "colorir",
+      "level": "A1"
+    },
+    {
+      "term": "conduire une voiture",
+      "pt": "dirigir um carro",
+      "level": "A1"
+    },
+    {
+      "term": "débrancher",
+      "pt": "desconectar",
+      "level": "A1"
+    },
+    {
+      "term": "désagréable",
+      "pt": "desagradável",
+      "level": "A1"
+    },
+    {
+      "term": "disponible",
+      "pt": "disponível",
+      "level": "A1"
+    },
+    {
+      "term": "en désordre",
+      "pt": "desarrumado",
+      "level": "A1"
+    },
+    {
+      "term": "envoyer un SMS",
+      "pt": "enviar um SMS",
+      "level": "A1"
+    },
+    {
+      "term": "escalator",
+      "pt": "escada rolante",
+      "level": "A1"
+    },
+    {
+      "term": "éteindre l’ordinateur",
+      "pt": "desligar o computador",
+      "level": "A1"
+    },
+    {
+      "term": "faire la cuisine",
+      "pt": "cozinhar",
+      "level": "A1"
+    },
+    {
+      "term": "faire une vidéo",
+      "pt": "fazer um vídeo",
+      "level": "A1"
+    },
+    {
+      "term": "flash",
+      "pt": "flash / sem flash / com flash",
+      "level": "A1"
+    },
+    {
+      "term": "hui",
+      "pt": "hoje (segunda parte de 'aujourd'hui')",
+      "level": "A1"
+    },
+    {
+      "term": "in",
+      "pt": "em / dentro (prefixo ou expressão como check-in)",
+      "level": "A1"
+    },
+    {
+      "term": "jusqu",
+      "pt": "até / até a (usado em 'jusqu'à')",
+      "level": "A1"
+    },
+    {
+      "term": "l’allumette",
+      "pt": "o fósforo",
+      "level": "A1"
+    },
+    {
+      "term": "l’ananas",
+      "pt": "o abacaxi",
+      "level": "A1"
+    },
+    {
+      "term": "l’armoire",
+      "pt": "o armário",
+      "level": "A1"
+    },
+    {
+      "term": "l’égouttoir",
+      "pt": "o escorredor de louça",
+      "level": "A1"
+    },
+    {
+      "term": "l’expresso",
+      "pt": "o café expresso",
+      "level": "A1"
+    },
+    {
+      "term": "l’infirmière",
+      "pt": "a enfermeira",
+      "level": "A1"
+    },
+    {
+      "term": "l’interphone",
+      "pt": "o interfone",
+      "level": "A1"
+    },
+    {
+      "term": "l’œuf à la coque",
+      "pt": "o ovo cozido",
+      "level": "A1"
+    },
+    {
+      "term": "la banane",
+      "pt": "a banana",
+      "level": "A1"
+    },
+    {
+      "term": "la batterie (téléphone)",
+      "pt": "a bateria (celular)",
+      "level": "A1"
+    },
+    {
+      "term": "la brioche",
+      "pt": "o brioche",
+      "level": "A1"
+    },
+    {
+      "term": "la casquette",
+      "pt": "o boné",
+      "level": "A1"
+    },
+    {
+      "term": "la chantilly",
+      "pt": "o chantilly",
+      "level": "A1"
+    },
+    {
+      "term": "la clé USB",
+      "pt": "o pen drive",
+      "level": "A1"
+    },
+    {
+      "term": "la clôture",
+      "pt": "a cerca",
+      "level": "A1"
+    },
+    {
+      "term": "la confiture de fraises",
+      "pt": "a geleia de morango",
+      "level": "A1"
+    },
+    {
+      "term": "la courgette",
+      "pt": "a abobrinha",
+      "level": "A1"
+    },
+    {
+      "term": "la cuisine équipée",
+      "pt": "a cozinha equipada",
+      "level": "A1"
+    },
+    {
+      "term": "la fumée",
+      "pt": "a fumaça",
+      "level": "A1"
+    },
+    {
+      "term": "la gomme",
+      "pt": "a borracha",
+      "level": "A1"
+    },
+    {
+      "term": "la haie",
+      "pt": "a cerca viva",
+      "level": "A1"
+    },
+    {
+      "term": "la lessive",
+      "pt": "o sabão em pó",
+      "level": "A1"
+    },
+    {
+      "term": "la passoire",
+      "pt": "a peneira / o escorredor",
+      "level": "A1"
+    },
+    {
+      "term": "la pelle",
+      "pt": "a pá",
+      "level": "A1"
+    },
+    {
+      "term": "la photo numérique",
+      "pt": "a foto digital",
+      "level": "A1"
+    },
+    {
+      "term": "la planche à repasser",
+      "pt": "a tábua de passar",
+      "level": "A1"
+    },
+    {
+      "term": "la pomme de terre",
+      "pt": "a batata",
+      "level": "A1"
+    },
+    {
+      "term": "la publicité",
+      "pt": "o comercial / a propaganda",
+      "level": "A1"
+    },
+    {
+      "term": "la raquette",
+      "pt": "a raquete",
       "level": "A1"
     },
     {
@@ -613,618 +1220,6 @@
     {
       "term": "Wi-Fi",
       "pt": "Wi-Fi / rede sem fio",
-      "level": "A1"
-    }
-  ],
-  "amiens": [
-    {
-      "term": "acide",
-      "pt": "azedo",
-      "level": "A1"
-    },
-    {
-      "term": "aller au travail",
-      "pt": "ir ao trabalho",
-      "level": "A1"
-    },
-    {
-      "term": "aujourd",
-      "pt": "hoje / no dia de hoje (primeira parte de 'aujourd'hui')",
-      "level": "A1"
-    },
-    {
-      "term": "avril",
-      "pt": "abril",
-      "level": "A1"
-    },
-    {
-      "term": "calculer",
-      "pt": "calcular",
-      "level": "A1"
-    },
-    {
-      "term": "check",
-      "pt": "check (registro de entrada, check-in)",
-      "level": "A1"
-    },
-    {
-      "term": "chercher sur internet",
-      "pt": "pesquisar na internet",
-      "level": "A1"
-    },
-    {
-      "term": "commencent",
-      "pt": "começam / iniciam (do verbo commencer)",
-      "level": "A1"
-    },
-    {
-      "term": "débrancher",
-      "pt": "desconectar",
-      "level": "A1"
-    },
-    {
-      "term": "désagréable",
-      "pt": "desagradável",
-      "level": "A1"
-    },
-    {
-      "term": "disponible",
-      "pt": "disponível",
-      "level": "A1"
-    },
-    {
-      "term": "en désordre",
-      "pt": "desarrumado",
-      "level": "A1"
-    },
-    {
-      "term": "envoyer un SMS",
-      "pt": "enviar um SMS",
-      "level": "A1"
-    },
-    {
-      "term": "escalator",
-      "pt": "escada rolante",
-      "level": "A1"
-    },
-    {
-      "term": "éteindre l’ordinateur",
-      "pt": "desligar o computador",
-      "level": "A1"
-    },
-    {
-      "term": "faire la cuisine",
-      "pt": "cozinhar",
-      "level": "A1"
-    },
-    {
-      "term": "faire une vidéo",
-      "pt": "fazer um vídeo",
-      "level": "A1"
-    },
-    {
-      "term": "flash",
-      "pt": "flash / sem flash / com flash",
-      "level": "A1"
-    },
-    {
-      "term": "hui",
-      "pt": "hoje (segunda parte de 'aujourd'hui')",
-      "level": "A1"
-    },
-    {
-      "term": "in",
-      "pt": "em / dentro (prefixo ou expressão como check-in)",
-      "level": "A1"
-    },
-    {
-      "term": "jusqu",
-      "pt": "até / até a (usado em 'jusqu'à')",
-      "level": "A1"
-    },
-    {
-      "term": "l’allumette",
-      "pt": "o fósforo",
-      "level": "A1"
-    },
-    {
-      "term": "l’ananas",
-      "pt": "o abacaxi",
-      "level": "A1"
-    },
-    {
-      "term": "l’armoire",
-      "pt": "o armário",
-      "level": "A1"
-    },
-    {
-      "term": "l’égouttoir",
-      "pt": "o escorredor de louça",
-      "level": "A1"
-    },
-    {
-      "term": "l’expresso",
-      "pt": "o café expresso",
-      "level": "A1"
-    },
-    {
-      "term": "l’infirmière",
-      "pt": "a enfermeira",
-      "level": "A1"
-    },
-    {
-      "term": "l’interphone",
-      "pt": "o interfone",
-      "level": "A1"
-    },
-    {
-      "term": "l’œuf à la coque",
-      "pt": "o ovo cozido",
-      "level": "A1"
-    },
-    {
-      "term": "la banane",
-      "pt": "a banana",
-      "level": "A1"
-    },
-    {
-      "term": "la batterie (téléphone)",
-      "pt": "a bateria (celular)",
-      "level": "A1"
-    },
-    {
-      "term": "la brioche",
-      "pt": "o brioche",
-      "level": "A1"
-    },
-    {
-      "term": "la casquette",
-      "pt": "o boné",
-      "level": "A1"
-    },
-    {
-      "term": "la chantilly",
-      "pt": "o chantilly",
-      "level": "A1"
-    },
-    {
-      "term": "la clé USB",
-      "pt": "o pen drive",
-      "level": "A1"
-    },
-    {
-      "term": "la clôture",
-      "pt": "a cerca",
-      "level": "A1"
-    },
-    {
-      "term": "la confiture de fraises",
-      "pt": "a geleia de morango",
-      "level": "A1"
-    },
-    {
-      "term": "la courgette",
-      "pt": "a abobrinha",
-      "level": "A1"
-    },
-    {
-      "term": "la cuisine équipée",
-      "pt": "a cozinha equipada",
-      "level": "A1"
-    },
-    {
-      "term": "la fumée",
-      "pt": "a fumaça",
-      "level": "A1"
-    },
-    {
-      "term": "la gomme",
-      "pt": "a borracha",
-      "level": "A1"
-    },
-    {
-      "term": "la haie",
-      "pt": "a cerca viva",
-      "level": "A1"
-    },
-    {
-      "term": "la lessive",
-      "pt": "o sabão em pó",
-      "level": "A1"
-    },
-    {
-      "term": "la passoire",
-      "pt": "a peneira / o escorredor",
-      "level": "A1"
-    },
-    {
-      "term": "la pelle",
-      "pt": "a pá",
-      "level": "A1"
-    },
-    {
-      "term": "la photo numérique",
-      "pt": "a foto digital",
-      "level": "A1"
-    },
-    {
-      "term": "la planche à repasser",
-      "pt": "a tábua de passar",
-      "level": "A1"
-    },
-    {
-      "term": "la pomme de terre",
-      "pt": "a batata",
-      "level": "A1"
-    },
-    {
-      "term": "la publicité",
-      "pt": "o comercial / a propaganda",
-      "level": "A1"
-    },
-    {
-      "term": "la raquette",
-      "pt": "a raquete",
-      "level": "A1"
-    },
-    {
-      "term": "la salade verte",
-      "pt": "a salada verde",
-      "level": "A1"
-    },
-    {
-      "term": "la salle de bain",
-      "pt": "o banheiro",
-      "level": "A1"
-    },
-    {
-      "term": "la scie",
-      "pt": "o serrote",
-      "level": "A1"
-    },
-    {
-      "term": "la serviette de bain",
-      "pt": "a toalha de banho",
-      "level": "A1"
-    },
-    {
-      "term": "la soupe de légumes",
-      "pt": "a sopa de legumes",
-      "level": "A1"
-    },
-    {
-      "term": "la tablette",
-      "pt": "o tablet",
-      "level": "A1"
-    },
-    {
-      "term": "la tarte aux pommes",
-      "pt": "a torta de maçã",
-      "level": "A1"
-    },
-    {
-      "term": "la tisane",
-      "pt": "o chá de ervas",
-      "level": "A1"
-    },
-    {
-      "term": "la vidéo en ligne",
-      "pt": "o vídeo online",
-      "level": "A1"
-    },
-    {
-      "term": "laisser un message",
-      "pt": "deixar um recado",
-      "level": "A1"
-    },
-    {
-      "term": "le brie",
-      "pt": "o brie",
-      "level": "A1"
-    },
-    {
-      "term": "le café au lait",
-      "pt": "o café com leite",
-      "level": "A1"
-    },
-    {
-      "term": "le carrelage",
-      "pt": "o azulejo / o piso",
-      "level": "A1"
-    },
-    {
-      "term": "le coiffeur",
-      "pt": "o cabeleireiro",
-      "level": "A1"
-    },
-    {
-      "term": "le concombre",
-      "pt": "o pepino",
-      "level": "A1"
-    },
-    {
-      "term": "le couteau",
-      "pt": "a faca",
-      "level": "A1"
-    },
-    {
-      "term": "le croissant au beurre",
-      "pt": "o croissant de manteiga",
-      "level": "A1"
-    },
-    {
-      "term": "le dessin animé",
-      "pt": "o desenho animado",
-      "level": "A1"
-    },
-    {
-      "term": "le drap",
-      "pt": "o lençol",
-      "level": "A1"
-    },
-    {
-      "term": "le fouet",
-      "pt": "o batedor",
-      "level": "A1"
-    },
-    {
-      "term": "le genou",
-      "pt": "o joelho",
-      "level": "A1"
-    },
-    {
-      "term": "le gruyère",
-      "pt": "o gruyère",
-      "level": "A1"
-    },
-    {
-      "term": "le jeu télévisé",
-      "pt": "o programa de auditório",
-      "level": "A1"
-    },
-    {
-      "term": "le journal intime",
-      "pt": "o diário",
-      "level": "A1"
-    },
-    {
-      "term": "le jus de pomme",
-      "pt": "o suco de maçã",
-      "level": "A1"
-    },
-    {
-      "term": "le marteau",
-      "pt": "o martelo",
-      "level": "A1"
-    },
-    {
-      "term": "le mixeur",
-      "pt": "o liquidificador / o mixer",
-      "level": "A1"
-    },
-    {
-      "term": "le papier peint",
-      "pt": "o papel de parede",
-      "level": "A1"
-    },
-    {
-      "term": "le peigne",
-      "pt": "o pente",
-      "level": "A1"
-    },
-    {
-      "term": "le poisson rouge",
-      "pt": "o peixinho dourado",
-      "level": "A1"
-    },
-    {
-      "term": "le poulet rôti",
-      "pt": "o frango assado",
-      "level": "A1"
-    },
-    {
-      "term": "le pull",
-      "pt": "o suéter",
-      "level": "A1"
-    },
-    {
-      "term": "le réfrigérateur",
-      "pt": "a geladeira",
-      "level": "A1"
-    },
-    {
-      "term": "le reportage",
-      "pt": "a reportagem",
-      "level": "A1"
-    },
-    {
-      "term": "le robinet d’eau",
-      "pt": "a torneira de água",
-      "level": "A1"
-    },
-    {
-      "term": "le rouleau à pâtisserie",
-      "pt": "o rolo de massa",
-      "level": "A1"
-    },
-    {
-      "term": "le sèche-linge",
-      "pt": "a secadora",
-      "level": "A1"
-    },
-    {
-      "term": "le site internet",
-      "pt": "o site",
-      "level": "A1"
-    },
-    {
-      "term": "le stylo",
-      "pt": "a caneta",
-      "level": "A1"
-    },
-    {
-      "term": "le thé vert",
-      "pt": "o chá verde",
-      "level": "A1"
-    },
-    {
-      "term": "le tiroir",
-      "pt": "a gaveta",
-      "level": "A1"
-    },
-    {
-      "term": "le transformateur",
-      "pt": "o transformador",
-      "level": "A1"
-    },
-    {
-      "term": "le violon",
-      "pt": "o violino",
-      "level": "A1"
-    },
-    {
-      "term": "le yoga",
-      "pt": "a ioga",
-      "level": "A1"
-    },
-    {
-      "term": "les chaussettes",
-      "pt": "as meias",
-      "level": "A1"
-    },
-    {
-      "term": "les œufs brouillés",
-      "pt": "os ovos mexidos",
-      "level": "A1"
-    },
-    {
-      "term": "les toilettes",
-      "pt": "o banheiro (sanitário)",
-      "level": "A1"
-    },
-    {
-      "term": "mal de tête",
-      "pt": "dor de cabeça / enxaqueca",
-      "level": "A1"
-    },
-    {
-      "term": "moche",
-      "pt": "feio (coloquial)",
-      "level": "A1"
-    },
-    {
-      "term": "mou",
-      "pt": "mole",
-      "level": "A1"
-    },
-    {
-      "term": "opaque",
-      "pt": "opaco",
-      "level": "A1"
-    },
-    {
-      "term": "passe Navigo",
-      "pt": "passe Navigo / cartão Navigo",
-      "level": "A1"
-    },
-    {
-      "term": "peler",
-      "pt": "descascar",
-      "level": "A1"
-    },
-    {
-      "term": "poser une question",
-      "pt": "fazer uma pergunta",
-      "level": "A1"
-    },
-    {
-      "term": "prendre une douche",
-      "pt": "tomar banho (chuveiro)",
-      "level": "A1"
-    },
-    {
-      "term": "quatre-vingt-dix",
-      "pt": "noventa",
-      "level": "A1"
-    },
-    {
-      "term": "ranger la chambre",
-      "pt": "arrumar o quarto",
-      "level": "A1"
-    },
-    {
-      "term": "recevoir un colis",
-      "pt": "receber uma encomenda",
-      "level": "A1"
-    },
-    {
-      "term": "regarder une vidéo",
-      "pt": "assistir a um vídeo",
-      "level": "A1"
-    },
-    {
-      "term": "rester à la maison",
-      "pt": "ficar em casa",
-      "level": "A1"
-    },
-    {
-      "term": "se chausser",
-      "pt": "calçar-se",
-      "level": "A1"
-    },
-    {
-      "term": "se coucher tôt",
-      "pt": "deitar cedo",
-      "level": "A1"
-    },
-    {
-      "term": "se déshabiller",
-      "pt": "despir-se",
-      "level": "A1"
-    },
-    {
-      "term": "se maquiller",
-      "pt": "maquiar-se",
-      "level": "A1"
-    },
-    {
-      "term": "secondaire",
-      "pt": "secundário",
-      "level": "A1"
-    },
-    {
-      "term": "shopping",
-      "pt": "compras / shopping / fazer compras",
-      "level": "A1"
-    },
-    {
-      "term": "soulever",
-      "pt": "levantar (peso)",
-      "level": "A1"
-    },
-    {
-      "term": "supprimer",
-      "pt": "apagar",
-      "level": "A1"
-    },
-    {
-      "term": "télécharger",
-      "pt": "baixar",
-      "level": "A1"
-    },
-    {
-      "term": "tourner à gauche",
-      "pt": "virar à esquerda",
-      "level": "A1"
-    },
-    {
-      "term": "un milliard",
-      "pt": "um bilhão",
-      "level": "A1"
-    },
-    {
-      "term": "wi",
-      "pt": "Wi (parte da palavra Wi-Fi)",
       "level": "A1"
     },
     {
@@ -6692,38 +6687,43 @@
       "level": "B1"
     },
     {
-      "term": "tomber amoureux",
-      "pt": "apaixonar-se",
+      "term": "tolérant",
+      "pt": "tolerante",
       "level": "B1"
     },
     {
-      "term": "tourner un film",
-      "pt": "rodar um filme",
+      "term": "touchant",
+      "pt": "tocante",
       "level": "B1"
     },
     {
-      "term": "triangulaire",
-      "pt": "triangular",
+      "term": "travailleur acharné",
+      "pt": "muito trabalhador",
       "level": "B1"
     },
     {
-      "term": "trouver la solution",
-      "pt": "encontrar a solução",
+      "term": "triple",
+      "pt": "triplo",
       "level": "B1"
     },
     {
-      "term": "urgent",
-      "pt": "urgente",
+      "term": "uniquement",
+      "pt": "unicamente",
       "level": "B1"
     },
     {
-      "term": "venger",
-      "pt": "vingar",
+      "term": "varié",
+      "pt": "variado",
       "level": "B1"
     },
     {
-      "term": "vis-à-vis",
-      "pt": "em relação a",
+      "term": "véritable",
+      "pt": "verdadeiro",
+      "level": "B1"
+    },
+    {
+      "term": "voter une loi",
+      "pt": "aprovar uma lei",
       "level": "B1"
     }
   ],
@@ -8934,43 +8934,43 @@
       "level": "B1"
     },
     {
-      "term": "têtu",
-      "pt": "teimoso",
+      "term": "tertre",
+      "pt": "Pequena elevação / Place du Tertre (praça dos pintores em Montmartre)",
       "level": "B1"
     },
     {
-      "term": "totalement",
-      "pt": "totalmente",
+      "term": "tomber amoureux",
+      "pt": "apaixonar-se",
       "level": "B1"
     },
     {
-      "term": "travailler à distance",
-      "pt": "trabalhar remotamente",
+      "term": "tourner un film",
+      "pt": "rodar um filme",
       "level": "B1"
     },
     {
-      "term": "tricher",
-      "pt": "trapacear",
+      "term": "triangulaire",
+      "pt": "triangular",
       "level": "B1"
     },
     {
-      "term": "typique",
-      "pt": "típico",
+      "term": "trouver la solution",
+      "pt": "encontrar a solução",
       "level": "B1"
     },
     {
-      "term": "vaincre",
-      "pt": "vencer",
+      "term": "urgent",
+      "pt": "urgente",
       "level": "B1"
     },
     {
-      "term": "vérifier les faits",
-      "pt": "verificar os fatos",
+      "term": "venger",
+      "pt": "vingar",
       "level": "B1"
     },
     {
-      "term": "volumineux",
-      "pt": "volumoso",
+      "term": "vis-à-vis",
+      "pt": "em relação a",
       "level": "B1"
     }
   ],
@@ -11181,43 +11181,43 @@
       "level": "B1"
     },
     {
-      "term": "tolérant",
-      "pt": "tolerante",
+      "term": "têtu",
+      "pt": "teimoso",
       "level": "B1"
     },
     {
-      "term": "touchant",
-      "pt": "tocante",
+      "term": "totalement",
+      "pt": "totalmente",
       "level": "B1"
     },
     {
-      "term": "travailleur acharné",
-      "pt": "muito trabalhador",
+      "term": "travailler à distance",
+      "pt": "trabalhar remotamente",
       "level": "B1"
     },
     {
-      "term": "triple",
-      "pt": "triplo",
+      "term": "tricher",
+      "pt": "trapacear",
       "level": "B1"
     },
     {
-      "term": "uniquement",
-      "pt": "unicamente",
+      "term": "typique",
+      "pt": "típico",
       "level": "B1"
     },
     {
-      "term": "varié",
-      "pt": "variado",
+      "term": "vaincre",
+      "pt": "vencer",
       "level": "B1"
     },
     {
-      "term": "véritable",
-      "pt": "verdadeiro",
+      "term": "vérifier les faits",
+      "pt": "verificar os fatos",
       "level": "B1"
     },
     {
-      "term": "voter une loi",
-      "pt": "aprovar uma lei",
+      "term": "volumineux",
+      "pt": "volumoso",
       "level": "B1"
     }
   ],

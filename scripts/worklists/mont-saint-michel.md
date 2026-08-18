@@ -1,6 +1,6 @@
 # #4 Mont Saint-Michel — A2/B1
 
-**665 palavras** ainda precisam aparecer nos textos das aulas desta cidade.
+**666 palavras** ainda precisam aparecer nos textos das aulas desta cidade.
 
 Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aventura do Irlan.
 
@@ -223,7 +223,7 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **visser** — aparafusar
 - [ ] **voyager à pied** — viajar a pé
 
-## B1 (449)
+## B1 (450)
 
 - [ ] **à l’égard de** — em relação a
 - [ ] **à propos de** — a propósito de
@@ -667,10 +667,11 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **sur-mesure** — sob medida / personalizado
 - [ ] **télécharger une application** — baixar um aplicativo
 - [ ] **terroir** — o terroir / solo regional
-- [ ] **tomber amoureux** — apaixonar-se
-- [ ] **tourner un film** — rodar um filme
-- [ ] **triangulaire** — triangular
-- [ ] **trouver la solution** — encontrar a solução
-- [ ] **urgent** — urgente
-- [ ] **venger** — vingar
-- [ ] **vis-à-vis** — em relação a
+- [ ] **tolérant** — tolerante
+- [ ] **touchant** — tocante
+- [ ] **travailleur acharné** — muito trabalhador
+- [ ] **triple** — triplo
+- [ ] **uniquement** — unicamente
+- [ ] **varié** — variado
+- [ ] **véritable** — verdadeiro
+- [ ] **voter une loi** — aprovar uma lei

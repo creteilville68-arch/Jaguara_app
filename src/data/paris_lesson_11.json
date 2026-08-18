@@ -1,268 +1,292 @@
 {
   "id": "paris_lesson_11",
   "cityId": "paris",
-  "domain": "Cultura & Lazer",
+  "domain": "Cotidiano & Alimentação",
   "level": "Iniciante (A1)",
-  "titleFr": "Une soirée à Montmartre",
-  "titlePt": "Uma noite em Montmartre",
-  "subtitleFr": "Le Sacré-Cœur, la place du Tertre et une crêpe au chocolat",
-  "subtitlePt": "O Sacré-Cœur, a place du Tertre e uma crêpe de chocolate",
-  "summaryPt": "Nesta Aula 11 (A1), a família sobe a Montmartre no sábado à noite. Eles veem o Sacré-Cœur branco acima da cidade, os artistas da place du Tertre e comem crêpes numa crêperie. Íris pede um retrato a um artista. O aluno aprende os verbos 'monter' e 'choisir' no presente.",
+  "titleFr": "Le pique-nique au bord de la Seine",
+  "titlePt": "O piquenique à beira do Sena",
+  "subtitleFr": "Du pain, du fromage, de l'eau gazeuse et une journée au soleil",
+  "subtitlePt": "Pão, queijo, água com gás e um dia de sol",
+  "summaryPt": "Nesta Aula 11 (A1), Irlan e Andréa fazem um piquenique à beira do Sena. Eles compram pão, queijo e salada, e comem sobre uma coberta perto do rio. Irlan compara o Sena à rivière de Jaguaquara. O aluno aprende os artigos partitivos (du, de la, de l', des) e vocabulário de comida.",
   "paragraphs": [
     {
       "id": 1,
-      "fr": "Samedi soir, la famille monte à Montmartre. Le Sacré-Cœur est blanc au-dessus de la ville. La vue sur Paris est magnifique.",
-      "pt": "Sábado à noite, a família sobe a Montmartre. O Sacré-Cœur é branco acima da cidade. A vista sobre Paris é magnífica."
+      "fr": "C'est samedi. Irlan et Andréa préparent un pique-nique. Ils achètent du pain à la boulangerie.",
+      "pt": "É sábado. Irlan e Andréa preparam um piquenique. Eles compram pão na padaria."
     },
     {
       "id": 2,
-      "fr": "Sur la place du Tertre, des artistes peignent des portraits. Íris veut un dessin d'elle. L'artiste dessine très vite.",
-      "pt": "Na place du Tertre, artistas pintam retratos. Íris quer um desenho dela. O artista desenha muito rápido."
+      "fr": "Au marché, ils choisissent des fruits, du fromage et une salade verte.",
+      "pt": "Na feira, eles escolhem frutas, queijo e uma salada verde."
     },
     {
       "id": 3,
-      "fr": "Après, ils mangent des crêpes dans une petite crêperie. Íris choisit une crêpe au chocolat. « C'est mon dessert préféré ! » dit-elle.",
-      "pt": "Depois, eles comem crêpes numa pequena crêperie. Íris escolhe uma crêpe de chocolate. «É a minha sobremesa preferida!» diz ela."
+      "fr": "Irlan met tout dans son sac. Andréa prend une bouteille d'eau gazeuse et une limonade.",
+      "pt": "Irlan coloca tudo na bolsa. Andréa pega uma garrafa de água com gás e uma limonada."
     },
     {
       "id": 4,
-      "fr": "Irlan regarde les lumières de Paris. Il pense à son arrivée en France, à Andréa et à sa fille. « La vie est belle ici », dit-il doucement.",
-      "pt": "Irlan olha as luzes de Paris. Ele pensa na sua chegada à França, na Andréa e na sua filha. «A vida é bela aqui», diz ele com suavidade."
+      "fr": "Ils marchent au bord de la Seine. Le soleil brille et la ville est belle.",
+      "pt": "Eles caminham à beira do Sena. O sol brilha e a cidade está bonita."
+    },
+    {
+      "id": 5,
+      "fr": "Ils trouvent une place sur l'herbe, près du pont. Andréa étend une couverture.",
+      "pt": "Eles encontram um lugar na grama, perto da ponte. Andréa estende uma coberta."
+    },
+    {
+      "id": 6,
+      "fr": "Ils mangent le pain, le fromage et la salade. C'est simple et bon.",
+      "pt": "Eles comem o pão, o queijo e a salada. É simples e bom."
+    },
+    {
+      "id": 7,
+      "fr": "« Tu avales trop vite ! » dit Andréa en riant. Irlan rit aussi.",
+      "pt": "«Você engole rápido demais!» diz Andréa rindo. Irlan ri também."
+    },
+    {
+      "id": 8,
+      "fr": "Après le repas, ils mangent des fruits et une glace à la vanille.",
+      "pt": "Depois da refeição, eles comem frutas e um sorvete de baunilha."
+    },
+    {
+      "id": 9,
+      "fr": "Ils regardent les bateaux sur le fleuve. Irlan dessine la Seine sur une serviette.",
+      "pt": "Eles olham os barcos no rio. Irlan desenha o Sena num guardanapo."
+    },
+    {
+      "id": 10,
+      "fr": "« La Seine traverse Paris comme la rivière traverse Jaguaquara », dit Irlan.",
+      "pt": "«O Sena atravessa Paris como o rio atravessa Jaguaquara», diz Irlan."
+    },
+    {
+      "id": 11,
+      "fr": "Andréa pose sa tête sur son épaule. Ils restent là, au calme.",
+      "pt": "Andréa apoia a cabeça no ombro dele. Eles ficam ali, em silêncio."
+    },
+    {
+      "id": 12,
+      "fr": "Le soir, ils rentrent. « C'était une belle journée », dit Andréa. Irlan sourit : « La plus belle. »",
+      "pt": "À noite, eles voltam. «Foi um dia bonito», diz Andréa. Irlan sorri: «O mais bonito.»"
     }
   ],
   "vocabularyDictionary": [
     {
-      "term": "monter",
-      "definitionPt": "subir",
-      "definitionFr": "Aller vers le haut.",
-      "inflections": ["je monte", "monter", "il monte"],
-      "ptTargets": ["subir"],
+      "term": "le pique-nique",
+      "definitionPt": "o piquenique",
+      "definitionFr": "Repas pris en plein air.",
+      "inflections": ["le pique-nique", "un pique-nique", "des pique-niques"],
+      "ptTargets": ["piquenique"],
       "examples": [
-        { "level": "A1", "fr": "La famille monte à Montmartre.", "pt": "A família sobe a Montmartre." },
-        { "level": "A2-B1", "fr": "Nous montons les escaliers ensemble.", "pt": "Nós subimos as escadas juntos." },
-        { "level": "B2", "fr": "Elle monte au sommet de la colline.", "pt": "Ela sobe ao topo da colina." },
-        { "level": "C1-C2", "fr": "Monter à Montmartre offre une vue imprenable sur Paris.", "pt": "Subir a Montmartre oferece uma vista incomparável de Paris." }
+        { "level": "A1", "fr": "Ils préparent un pique-nique.", "pt": "Eles preparam um piquenique." },
+        { "level": "A2-B1", "fr": "Nous faisons un pique-nique au parc.", "pt": "Fazemos um piquenique no parque." },
+        { "level": "B2", "fr": "Un pique-nique au bord du fleuve est un plaisir simple.", "pt": "Um piquenique à beira do rio é um prazer simples." },
+        { "level": "C1-C2", "fr": "Le pique-nique transforme un repas ordinaire en souvenir.", "pt": "O piquenique transforma uma refeição comum em lembrança." }
       ]
     },
     {
-      "term": "vue",
-      "definitionPt": "vista",
-      "definitionFr": "Ce que l'on voit d'un endroit élevé.",
-      "inflections": ["la vue", "une vue", "des vues"],
-      "ptTargets": ["vista"],
+      "term": "la Seine",
+      "definitionPt": "o Sena (rio)",
+      "definitionFr": "Le fleuve qui traverse Paris.",
+      "inflections": ["la Seine"],
+      "ptTargets": ["Sena"],
       "examples": [
-        { "level": "A1", "fr": "La vue sur Paris est magnifique.", "pt": "A vista sobre Paris é magnífica." },
-        { "level": "A2-B1", "fr": "La vue est belle de la colline.", "pt": "A vista é bonita da colina." },
-        { "level": "B2", "fr": "La vue panoramique attire les visiteurs.", "pt": "A vista panorâmica atrai os visitantes." },
-        { "level": "C1-C2", "fr": "Du haut du Sacré-Cœur, la vue embrasse tout Paris.", "pt": "Do alto do Sacré-Cœur, a vista abrange toda Paris." }
+        { "level": "A1", "fr": "La Seine traverse Paris.", "pt": "O Sena atravessa Paris." },
+        { "level": "A2-B1", "fr": "Nous marchons au bord de la Seine.", "pt": "Caminhamos à beira do Sena." },
+        { "level": "B2", "fr": "Les bateaux glissent lentement sur la Seine.", "pt": "Os barcos deslizam devagar pelo Sena." },
+        { "level": "C1-C2", "fr": "La Seine, comme un fil d'argent, relie les monuments de la capitale.", "pt": "O Sena, como um fio de prata, liga os monumentos da capital." }
       ]
     },
     {
-      "term": "magnifique",
-      "definitionPt": "magnífico, maravilhoso",
-      "definitionFr": "Très beau, impressionnant.",
-      "inflections": ["magnifique", "magnifiques"],
-      "ptTargets": ["magnífico", "maravilhoso"],
+      "term": "la boulangerie",
+      "definitionPt": "a padaria",
+      "definitionFr": "Magasin où l'on vend du pain.",
+      "inflections": ["la boulangerie", "une boulangerie", "des boulangeries"],
+      "ptTargets": ["padaria"],
       "examples": [
-        { "level": "A1", "fr": "La vue est magnifique.", "pt": "A vista é magnífica." },
-        { "level": "A2-B1", "fr": "Le Sacré-Cœur est magnifique le soir.", "pt": "O Sacré-Cœur é magnífico à noite." },
-        { "level": "B2", "fr": "Un coucher de soleil magnifique illumine la ville.", "pt": "Um pôr do sol magnífico ilumina a cidade." },
-        { "level": "C1-C2", "fr": "Le panorama magnifique de Paris justifie à lui seul la montée.", "pt": "O panorama magnífico de Paris justifica sozinho a subida." }
+        { "level": "A1", "fr": "Ils achètent du pain à la boulangerie.", "pt": "Eles compram pão na padaria." },
+        { "level": "A2-B1", "fr": "La boulangerie ouvre tôt le matin.", "pt": "A padaria abre cedo de manhã." },
+        { "level": "B2", "fr": "La boulangerie du coin vend du pain chaud.", "pt": "A padaria da esquina vende pão quente." },
+        { "level": "C1-C2", "fr": "La boulangerie de quartier reste un repère dans la vie des habitants.", "pt": "A padaria do bairro continua sendo um ponto de referência na vida dos moradores." }
       ]
     },
     {
-      "term": "artiste",
-      "definitionPt": "artista",
-      "definitionFr": "Personne qui crée des œuvres d'art.",
-      "inflections": ["l'artiste", "un artiste", "des artistes"],
-      "ptTargets": ["artista"],
+      "term": "le fromage",
+      "definitionPt": "o queijo",
+      "definitionFr": "Aliment fait à partir du lait.",
+      "inflections": ["le fromage", "un fromage", "des fromages"],
+      "ptTargets": ["queijo"],
       "examples": [
-        { "level": "A1", "fr": "Des artistes peignent des portraits.", "pt": "Artistas pintam retratos." },
-        { "level": "A2-B1", "fr": "L'artiste dessine très vite.", "pt": "O artista desenha muito rápido." },
-        { "level": "B2", "fr": "Les artistes de la place du Tertre sont célèbres.", "pt": "Os artistas da place du Tertre são famosos." },
-        { "level": "C1-C2", "fr": "Montmartre reste le quartier des artistes et de la création.", "pt": "Montmartre continua sendo o bairro dos artistas e da criação." }
+        { "level": "A1", "fr": "J'aime le fromage.", "pt": "Eu gosto de queijo." },
+        { "level": "A2-B1", "fr": "Ils mangent du fromage avec du pain.", "pt": "Eles comem queijo com pão." },
+        { "level": "B2", "fr": "La France produit des centaines de fromages différents.", "pt": "A França produz centenas de queijos diferentes." },
+        { "level": "C1-C2", "fr": "Le fromage, à la fin du repas, accompagne la conversation.", "pt": "O queijo, no fim da refeição, acompanha a conversa." }
       ]
     },
     {
-      "term": "portrait",
-      "definitionPt": "retrato",
-      "definitionFr": "Représentation d'une personne en peinture ou en dessin.",
-      "inflections": ["le portrait", "un portrait", "des portraits"],
-      "ptTargets": ["retrato"],
+      "term": "la salade verte",
+      "definitionPt": "a salada verde",
+      "definitionFr": "Salade composée de feuilles vertes.",
+      "inflections": ["la salade verte", "une salade verte", "des salades vertes"],
+      "ptTargets": ["salada verde"],
       "examples": [
-        { "level": "A1", "fr": "L'artiste peint un portrait.", "pt": "O artista pinta um retrato." },
-        { "level": "A2-B1", "fr": "Le portrait est très ressemblant.", "pt": "O retrato é muito parecido." },
-        { "level": "B2", "fr": "Les portraits de la place du Tertre sont un souvenir typique.", "pt": "Os retratos da place du Tertre são uma lembrança típica." },
-        { "level": "C1-C2", "fr": "Le portrait capte l'expression unique d'un visage.", "pt": "O retrato capta a expressão única de um rosto." }
+        { "level": "A1", "fr": "Ils mangent une salade verte.", "pt": "Eles comem uma salada verde." },
+        { "level": "A2-B1", "fr": "Une salade verte est légère et fraîche.", "pt": "Uma salada verde é leve e fresca." },
+        { "level": "B2", "fr": "Elle assaisonne la salade verte avec de l'huile d'olive.", "pt": "Ela tempera a salada verde com azeite." },
+        { "level": "C1-C2", "fr": "Une salade verte bien assaisonnée ouvre le repas avec légèreté.", "pt": "Uma salada verde bem temperada abre a refeição com leveza." }
       ]
     },
     {
-      "term": "dessin",
-      "definitionPt": "desenho",
-      "definitionFr": "Image réalisée avec un crayon ou un stylo.",
-      "inflections": ["le dessin", "un dessin", "des dessins"],
-      "ptTargets": ["desenho"],
+      "term": "l'eau gazeuse",
+      "definitionPt": "a água com gás",
+      "definitionFr": "Eau qui contient des bulles.",
+      "inflections": ["l'eau gazeuse", "de l'eau gazeuse", "une eau gazeuse"],
+      "ptTargets": ["água com gás"],
       "examples": [
-        { "level": "A1", "fr": "Íris veut un dessin d'elle.", "pt": "Íris quer um desenho dela." },
-        { "level": "A2-B1", "fr": "Le dessin est très joli.", "pt": "O desenho é muito bonito." },
-        { "level": "B2", "fr": "Elle garde le dessin dans sa chambre.", "pt": "Ela guarda o desenho no seu quarto." },
-        { "level": "C1-C2", "fr": "Chaque dessin raconte une histoire personnelle.", "pt": "Cada desenho conta uma história pessoal." }
+        { "level": "A1", "fr": "Andréa prend une bouteille d'eau gazeuse.", "pt": "Andréa pega uma garrafa de água com gás." },
+        { "level": "A2-B1", "fr": "Je préfère l'eau gazeuse à l'eau plate.", "pt": "Prefiro água com gás a água sem gás." },
+        { "level": "B2", "fr": "L'eau gazeuse est très fraîche en été.", "pt": "A água com gás é muito refrescante no verão." },
+        { "level": "C1-C2", "fr": "Une eau gazeuse bien fraîche accompagne à merveille un pique-nique.", "pt": "Uma água com gás bem gelada acompanha perfeitamente um piquenique." }
       ]
     },
     {
-      "term": "dessiner",
-      "definitionPt": "desenhar",
-      "definitionFr": "Créer une image avec un crayon.",
-      "inflections": ["je dessine", "dessiner", "il dessine"],
-      "ptTargets": ["desenhar"],
+      "term": "la limonade",
+      "definitionPt": "a limonada",
+      "definitionFr": "Boisson sucrée au citron.",
+      "inflections": ["la limonade", "une limonade", "des limonades"],
+      "ptTargets": ["limonada"],
       "examples": [
-        { "level": "A1", "fr": "L'artiste dessine très vite.", "pt": "O artista desenha muito rápido." },
-        { "level": "A2-B1", "fr": "Íris aime dessiner des fleurs.", "pt": "Íris gosta de desenhar flores." },
-        { "level": "B2", "fr": "Elle dessine des portraits depuis dix ans.", "pt": "Ela desenha retratos há dez anos." },
-        { "level": "C1-C2", "fr": "Dessiner d'après nature est un exercice fondamental pour l'artiste.", "pt": "Desenhar do natural é um exercício fundamental para o artista." }
+        { "level": "A1", "fr": "Andréa prend une limonade.", "pt": "Andréa toma uma limonada." },
+        { "level": "A2-B1", "fr": "La limonade est douce et citronnée.", "pt": "A limonada é doce e cítrica." },
+        { "level": "B2", "fr": "Une limonade maison rafraîchit mieux que les sodas.", "pt": "Uma limonada caseira refresca melhor que os refrigerantes." },
+        { "level": "C1-C2", "fr": "La limonade, simple et acidulée, évoque les après-midi d'été.", "pt": "A limonada, simples e levemente ácida, evoca as tardes de verão." }
       ]
     },
     {
-      "term": "vite",
-      "definitionPt": "rápido, depressa",
-      "definitionFr": "À grande vitesse.",
-      "inflections": ["vite"],
-      "ptTargets": ["rápido", "depressa"],
+      "term": "avaler",
+      "definitionPt": "engolir",
+      "definitionFr": "Faire descendre la nourriture ou la boisson dans la gorge.",
+      "inflections": ["j'avale", "avaler", "il avale"],
+      "ptTargets": ["engolir"],
       "examples": [
-        { "level": "A1", "fr": "L'artiste dessine très vite.", "pt": "O artista desenha muito rápido." },
-        { "level": "A2-B1", "fr": "Le métro va vite.", "pt": "O metrô vai rápido." },
-        { "level": "B2", "fr": "Il faut répondre vite aux clients.", "pt": "É preciso responder rápido aos clientes." },
-        { "level": "C1-C2", "fr": "Paris va vite : il faut s'adapter à son rythme.", "pt": "Paris é rápida: é preciso se adaptar ao seu ritmo." }
+        { "level": "A1", "fr": "Il avale son café vite.", "pt": "Ele engole o café rápido." },
+        { "level": "A2-B1", "fr": "Bois de l'eau et avale lentement.", "pt": "Beba água e engula devagar." },
+        { "level": "B2", "fr": "Elle a avalé sa bouchée avant de répondre.", "pt": "Ela engoliu o bocado antes de responder." },
+        { "level": "C1-C2", "fr": "Avaler une nouvelle difficile demande parfois plus de courage que de l'annoncer.", "pt": "Engolir uma notícia difícil às vezes exige mais coragem do que anunciá-la." }
       ]
     },
     {
-      "term": "crêpe",
-      "definitionPt": "crêpe (panqueca fina)",
-      "definitionFr": "Fine galette de pâte, souvent sucrée.",
-      "inflections": ["la crêpe", "une crêpe", "des crêpes"],
-      "ptTargets": ["crêpe", "panqueca"],
+      "term": "la glace à la vanille",
+      "definitionPt": "o sorvete de baunilha",
+      "definitionFr": "Glace parfumée à la vanille.",
+      "inflections": ["la glace à la vanille", "une glace à la vanille", "des glaces à la vanille"],
+      "ptTargets": ["sorvete de baunilha"],
       "examples": [
-        { "level": "A1", "fr": "Ils mangent des crêpes à la crêperie.", "pt": "Eles comem crêpes na crêperie." },
-        { "level": "A2-B1", "fr": "Íris choisit une crêpe au chocolat.", "pt": "Íris escolhe uma crêpe de chocolate." },
-        { "level": "B2", "fr": "Une crêpe au sucre est un grand classique français.", "pt": "Uma crêpe com açúcar é um grande clássico francês." },
-        { "level": "C1-C2", "fr": "La crêpe, née en Bretagne, est devenue un symbole de la gourmandise française.", "pt": "A crêpe, nascida na Bretanha, tornou-se um símbolo da gulodice francesa." }
+        { "level": "A1", "fr": "Ils mangent une glace à la vanille.", "pt": "Eles comem um sorvete de baunilha." },
+        { "level": "A2-B1", "fr": "La glace à la vanille fond au soleil.", "pt": "O sorvete de baunilha derrete no sol." },
+        { "level": "B2", "fr": "Une glace à la vanille termine agréablement le repas.", "pt": "Um sorvete de baunilha encerra a refeição agradavelmente." },
+        { "level": "C1-C2", "fr": "La glace à la vanille évoque les après-midi d'enfance.", "pt": "O sorvete de baunilha evoca as tardes da infância." }
       ]
     },
     {
-      "term": "choisir",
-      "definitionPt": "escolher",
-      "definitionFr": "Prendre une chose parmi plusieurs.",
-      "inflections": ["je choisis", "choisir", "il choisit"],
-      "ptTargets": ["escolher"],
+      "term": "la couverture",
+      "definitionPt": "a coberta, a manta",
+      "definitionFr": "Grand morceau de tissu que l'on étend par terre ou sur un lit.",
+      "inflections": ["la couverture", "une couverture", "des couvertures"],
+      "ptTargets": ["coberta", "manta"],
       "examples": [
-        { "level": "A1", "fr": "Íris choisit une crêpe au chocolat.", "pt": "Íris escolhe uma crêpe de chocolate." },
-        { "level": "A2-B1", "fr": "Je choisis un dessert pour toi.", "pt": "Eu escolho uma sobremesa para você." },
-        { "level": "B2", "fr": "Elle choisit toujours la même chose.", "pt": "Ela sempre escolhe a mesma coisa." },
-        { "level": "C1-C2", "fr": "Choisir, c'est renoncer aux autres possibilités.", "pt": "Escolher é renunciar às outras possibilidades." }
+        { "level": "A1", "fr": "Andréa étend une couverture sur l'herbe.", "pt": "Andréa estende uma coberta na grama." },
+        { "level": "A2-B1", "fr": "La couverture est douce et chaude.", "pt": "A coberta é macia e quente." },
+        { "level": "B2", "fr": "Ils s'assoient sur la couverture pour pique-niquer.", "pt": "Eles se sentam na coberta para piquenicar." },
+        { "level": "C1-C2", "fr": "Une couverture posée sur l'herbe devient une île au milieu du parc.", "pt": "Uma coberta estendida na grama vira uma ilha no meio do parque." }
       ]
     },
     {
-      "term": "lumière",
-      "definitionPt": "luz",
-      "definitionFr": "Clarté qui éclaire les choses.",
-      "inflections": ["la lumière", "une lumière", "des lumières"],
-      "ptTargets": ["luz"],
+      "term": "le fleuve",
+      "definitionPt": "o rio (grande)",
+      "definitionFr": "Grand cours d'eau qui se jette dans la mer.",
+      "inflections": ["le fleuve", "un fleuve", "des fleuves"],
+      "ptTargets": ["rio"],
       "examples": [
-        { "level": "A1", "fr": "Irlan regarde les lumières de Paris.", "pt": "Irlan olha as luzes de Paris." },
-        { "level": "A2-B1", "fr": "Les lumières de la ville brillent la nuit.", "pt": "As luzes da cidade brilham à noite." },
-        { "level": "B2", "fr": "La lumière du soir est douce sur les toits.", "pt": "A luz da noite é suave sobre os telhados." },
-        { "level": "C1-C2", "fr": "Paris, la ville lumière, s'illumine à la tombée du jour.", "pt": "Paris, a cidade-luz, ilumina-se ao cair da noite." }
+        { "level": "A1", "fr": "Le fleuve est large.", "pt": "O rio é largo." },
+        { "level": "A2-B1", "fr": "La Seine est le fleuve qui traverse Paris.", "pt": "O Sena é o rio que atravessa Paris." },
+        { "level": "B2", "fr": "Le fleuve reflète les lumières de la ville.", "pt": "O rio reflete as luzes da cidade." },
+        { "level": "C1-C2", "fr": "Un fleuve raconte l'histoire des villes qu'il traverse.", "pt": "Um rio conta a história das cidades que atravessa." }
       ]
     },
     {
-      "term": "arriver",
-      "definitionPt": "chegar",
-      "definitionFr": "Venir dans un lieu.",
-      "inflections": ["j'arrive", "arriver", "il arrive"],
-      "ptTargets": ["chegar"],
+      "term": "acheter du pain",
+      "definitionPt": "comprar pão",
+      "definitionFr": "Acheter du pain chez le boulanger.",
+      "inflections": ["acheter du pain", "j'achète du pain", "il achète du pain"],
+      "ptTargets": ["comprar pão"],
       "examples": [
-        { "level": "A1", "fr": "Il pense à son arrivée en France.", "pt": "Ele pensa na sua chegada à França." },
-        { "level": "A2-B1", "fr": "Nous arrivons à Paris demain.", "pt": "Nós chegamos a Paris amanhã." },
-        { "level": "B2", "fr": "Elle arrive toujours à l'heure.", "pt": "Ela sempre chega na hora." },
-        { "level": "C1-C2", "fr": "L'arrivée dans une nouvelle ville est toujours un moment fort.", "pt": "A chegada a uma nova cidade é sempre um momento marcante." }
+        { "level": "A1", "fr": "Ils achètent du pain à la boulangerie.", "pt": "Eles compram pão na padaria." },
+        { "level": "A2-B1", "fr": "Je passe acheter du pain avant le déjeuner.", "pt": "Passo para comprar pão antes do almoço." },
+        { "level": "B2", "fr": "Elle achète du pain frais tous les matins.", "pt": "Ela compra pão fresco toda manhã." },
+        { "level": "C1-C2", "fr": "Acheter du pain chaud au petit matin est un rituel du quartier.", "pt": "Comprar pão quente de madrugada é um ritual do bairro." }
       ]
     }
   ],
   "grammarTip": {
-    "ruleTitle": "Le verbe monter au présent",
-    "explanationPt": "O verbo 'monter' (subir) é regular do 1º grupo: je monte, tu montes, il/elle monte, nous montons, vous montez, ils/elles montent. Ex.: 'La famille monte à Montmartre.'",
-    "exampleFr": "La famille monte à Montmartre samedi soir.",
-    "examplePt": "A família sobe a Montmartre no sábado à noite.",
-    "practiceQuestion": "Complete com o verbo correto no presente: 'Nous _____ les escaliers de Montmartre.'",
-    "options": ["montons", "monte", "montent"],
+    "ruleTitle": "Les articles partitifs (du, de la, de l', des)",
+    "explanationPt": "Os artigos partitivos indicam uma parte de algo: 'du' (masculino), 'de la' (feminino), 'de l'' (antes de vogal) e 'des' (plural). Ex.: 'du pain' (pão), 'de la salade' (salada), 'de l'eau gazeuse' (água com gás), 'des fruits' (frutas).",
+    "exampleFr": "Ils mangent du pain, de la salade et des fruits.",
+    "examplePt": "Eles comem pão, salada e frutas.",
+    "practiceQuestion": "Complete: 'Ils achètent _____ fromage au marché.'",
+    "options": ["du", "de la", "des"],
     "correctIndex": 0,
     "points": [
       {
-        "ruleTitle": "Le verbe monter au présent",
-        "explanationPt": "'monter' é um verbo regular em -er: je monte, nous montons, ils montent. Ex.: 'Elle monte au sommet.', 'Ils montent ensemble.'",
-        "exampleFr": "Elle monte au sommet et ils montent ensemble.",
-        "examplePt": "Ela sobe ao topo e eles sobem juntos.",
-        "practiceQuestion": "Complete: 'L'artiste _____ à la place du Tertre.'",
-        "options": ["monte", "montes", "montent"],
+        "ruleTitle": "du / de la / de l'",
+        "explanationPt": "'du' + masculino ('du fromage'), 'de la' + feminino ('de la salade'), 'de l'' + vogal ('de l'eau'). Ex.: 'Je mange du pain et de la salade.'",
+        "exampleFr": "Je mange du pain et de la salade.",
+        "examplePt": "Eu como pão e salada.",
+        "practiceQuestion": "Complete: 'Andréa boit _____ eau gazeuse.'",
+        "options": ["de l'", "du", "de la"],
         "correctIndex": 0
       },
       {
-        "ruleTitle": "Le verbe choisir au présent",
-        "explanationPt": "'choisir' (escolher) é um verbo do 2º grupo (em -ir): je choisis, tu choisis, il choisit, nous choisissons, vous choisissez, ils choisissent.",
-        "exampleFr": "Íris choisit une crêpe au chocolat.",
-        "examplePt": "Íris escolhe uma crêpe de chocolate.",
-        "practiceQuestion": "Complete: 'Nous _____ des crêpes à la crêperie.'",
-        "options": ["choisissons", "choisis", "choisit"],
+        "ruleTitle": "des (plural)",
+        "explanationPt": "'des' indica uma quantidade indefinida no plural: 'des fruits', 'des légumes'. Ex.: 'Ils achètent des fruits au marché.'",
+        "exampleFr": "Ils achètent des fruits au marché.",
+        "examplePt": "Eles compram frutas na feira.",
+        "practiceQuestion": "Complete: 'Nous mangeons _____ fruits.'",
+        "options": ["des", "du", "de la"],
         "correctIndex": 0
       }
     ]
   },
   "quizQuestions": [
     {
-      "question": "Complete a frase do texto: 'La vue sur Paris est _____.'",
-      "options": ["magnifique", "difficile", "fermée"],
+      "question": "O que Irlan e Andréa compram na padaria?",
+      "options": ["Pão", "Queijo", "Sorvete"],
       "correctIndex": 0,
-      "explanation": "No texto: 'La vue sur Paris est magnifique.' (A vista sobre Paris é magnífica.)"
+      "explanation": "No texto: 'Ils achètent du pain à la boulangerie.'"
     },
     {
-      "question": "Ordene corretamente as palavras da frase: [ choisit / Íris / au chocolat / une crêpe / ]",
-      "options": [
-        "Íris choisit une crêpe au chocolat.",
-        "Une crêpe choisit Íris au chocolat.",
-        "Íris au chocolat choisit une crêpe."
-      ],
+      "question": "O que Andréa pega para beber?",
+      "options": ["Água com gás e limonada", "Café e chá", "Vinho e suco"],
       "correctIndex": 0,
-      "explanation": "A frase exata do texto é 'Íris choisit une crêpe au chocolat.'"
+      "explanation": "No texto: 'Andréa prend une bouteille d'eau gazeuse et une limonade.'"
     },
     {
-      "question": "Como se traduz: 'Nós subimos as escadas juntos'?",
-      "options": [
-        "Nous montons les escaliers ensemble.",
-        "Nous monte les escaliers ensemble.",
-        "Nous montons les escaliers vite."
-      ],
+      "question": "Onde eles fazem o piquenique?",
+      "options": ["À beira do Sena", "No topo da Torre Eiffel", "Dentro do Louvre"],
       "correctIndex": 0,
-      "explanation": "'Nous montons' = nós subimos; 'les escaliers' = as escadas; 'ensemble' = juntos."
+      "explanation": "No texto: 'Ils marchent au bord de la Seine.'"
     },
     {
-      "question": "Identifique a frase com ERRO de conjugação do verbo choisir:",
-      "options": [
-        "Je choisis une crêpe.",
-        "Nous choisissons un dessert.",
-        "Elle choisis un dessin."
-      ],
-      "correctIndex": 2,
-      "explanation": "O erro é 'Elle choisis': com 'elle', o verbo choisir fica 'choisit' ('Elle choisit un dessin.')."
+      "question": "Como Irlan compara o Sena?",
+      "options": ["Ao rio que atravessa Jaguaquara", "Ao mar do Brasil", "A uma montanha"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'La Seine traverse Paris comme la rivière traverse Jaguaquara.'"
     },
     {
-      "question": "O que Íris quer na place du Tertre?",
-      "options": [
-        "Um desenho dela feito por um artista",
-        "Um bilhete de metrô",
-        "Uma baguete"
-      ],
+      "question": "O que eles comem depois da refeição?",
+      "options": ["Frutas e sorvete de baunilha", "Bolo e chocolate", "Queijo e pão"],
       "correctIndex": 0,
-      "explanation": "No texto: 'Íris veut un dessin d'elle. L'artiste dessine très vite.'"
+      "explanation": "No texto: 'Après le repas, ils mangent des fruits et une glace à la vanille.'"
     }
   ]
 }

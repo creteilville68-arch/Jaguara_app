@@ -1,20 +1,20 @@
 # #1 Paris — A1
 
-**123 palavras** ainda precisam aparecer nos textos das aulas desta cidade.
+**122 palavras** ainda precisam aparecer nos textos das aulas desta cidade.
 
 Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aventura do Irlan.
 
-## A1 (123)
+## A1 (122)
 
-- [ ] **acheter du pain** — comprar pão
-- [ ] **aimer une publication** — curtir uma publicação
-- [ ] **appeler un ami** — ligar para um amigo
-- [ ] **avant-hier** — anteontem
-- [ ] **c** — isto / isso / o que (pronome demonstrativo impessoal, usado em 'c'est')
-- [ ] **changer de train** — trocar de trem
-- [ ] **check-in** — check-in / registro de entrada
-- [ ] **colorier** — colorir
-- [ ] **conduire une voiture** — dirigir um carro
+- [ ] **acide** — azedo
+- [ ] **aller au travail** — ir ao trabalho
+- [ ] **aujourd** — hoje / no dia de hoje (primeira parte de 'aujourd'hui')
+- [ ] **avril** — abril
+- [ ] **calculer** — calcular
+- [ ] **check** — check (registro de entrada, check-in)
+- [ ] **chercher sur internet** — pesquisar na internet
+- [ ] **commencent** — começam / iniciam (do verbo commencer)
+- [ ] **crêperie** — creperia / restaurante de crepes
 - [ ] **déposer de l’argent** — depositar dinheiro
 - [ ] **détacher** — desamarrar
 - [ ] **égoïste** — egoísta
@@ -57,75 +57,74 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **la poupée** — a boneca
 - [ ] **la rallonge** — a extensão
 - [ ] **la ratatouille** — o ratatouille
-- [ ] **la salle à manger** — a sala de jantar
-- [ ] **la salle de sport** — a academia
-- [ ] **la série** — a série
-- [ ] **la sonnette** — a campainha
-- [ ] **la souris d’ordinateur** — o mouse
-- [ ] **la tante** — a tia
-- [ ] **la télécommande** — o controle remoto
-- [ ] **la véranda** — a varanda / a varanda fechada
-- [ ] **laid** — feio
-- [ ] **laver la vaisselle** — lavar a louça
-- [ ] **le câble** — o cabo
-- [ ] **le camping** — o camping
-- [ ] **le clavier** — o teclado
-- [ ] **le commissariat** — a delegacia
-- [ ] **le cou** — o pescoço
-- [ ] **le couvercle** — a tampa
-- [ ] **le dentifrice** — o creme dental
-- [ ] **le digicode** — o interfone
-- [ ] **le footballeur** — o jogador de futebol
-- [ ] **le garage** — a garagem
-- [ ] **le gratin** — o gratinado
-- [ ] **le handball** — o handebol
-- [ ] **le jeu vidéo** — o videogame
-- [ ] **le journal télévisé** — o telejornal
-- [ ] **le lave-vaisselle** — a lava-louças
-- [ ] **le minuteur** — o timer
-- [ ] **le nom d’utilisateur** — o nome de usuário
-- [ ] **le parquet** — o piso de madeira
-- [ ] **le plancher** — o assoalho
-- [ ] **le poivron** — o pimentão
-- [ ] **le produit de nettoyage** — o produto de limpeza
-- [ ] **le rasoir** — o barbeador
-- [ ] **le renard** — a raposa
-- [ ] **le robinet** — a torneira
-- [ ] **le rouleau** — o rolo (de pintura)
-- [ ] **le seau** — o balde
-- [ ] **le shampooing** — o xampu
-- [ ] **le SMS** — o SMS / a mensagem de texto
-- [ ] **le talk-show** — o talk show
-- [ ] **le thon** — o atum
-- [ ] **le tournevis** — a chave de fenda
-- [ ] **le vélo d’enfant** — a bicicleta infantil
-- [ ] **le yaourt** — o iogurte
-- [ ] **les céréales** — os cereais
-- [ ] **les crêpes salées** — os crepes salgados
-- [ ] **les petits pois** — as ervilhas
-- [ ] **maigre** — magro / esguio
-- [ ] **mince** — magro
-- [ ] **mordre** — morder
-- [ ] **musclé** — musculoso
-- [ ] **parterre** — canteiro de flores / jardim ornamental
-- [ ] **passif** — passivo
-- [ ] **perdre un match** — perder uma partida
-- [ ] **prendre un bain** — tomar banho de banheira
-- [ ] **promener (se)** — Passear, caminhar por lazer (verbo pronominal)
-- [ ] **qui est-ce** — quem é
-- [ ] **rarement** — raramente
-- [ ] **redémarrer** — reiniciar
-- [ ] **reposer (se)** — Descansar, repousar (verbo pronominal)
-- [ ] **s’entraîner** — treinar
-- [ ] **se connecter** — conectar-se
-- [ ] **se déconnecter** — desconectar-se
-- [ ] **se détendre** — relaxar
-- [ ] **se raser** — barbear-se
-- [ ] **seize** — dezesseis
-- [ ] **sortir le soir** — sair à noite
-- [ ] **souple** — flexível / macio
-- [ ] **sûrement** — certamente
-- [ ] **toucher l’écran** — tocar na tela
-- [ ] **trilha** — trilha / caminho cultural de exploração
-- [ ] **vingt et un** — vinte e um
-- [ ] **Wi-Fi** — Wi-Fi / rede sem fio
+- [ ] **la salle de bain** — o banheiro
+- [ ] **la scie** — o serrote
+- [ ] **la serviette de bain** — a toalha de banho
+- [ ] **la soupe de légumes** — a sopa de legumes
+- [ ] **la tablette** — o tablet
+- [ ] **la tarte aux pommes** — a torta de maçã
+- [ ] **la tisane** — o chá de ervas
+- [ ] **la vidéo en ligne** — o vídeo online
+- [ ] **laisser un message** — deixar um recado
+- [ ] **le brie** — o brie
+- [ ] **le café au lait** — o café com leite
+- [ ] **le carrelage** — o azulejo / o piso
+- [ ] **le coiffeur** — o cabeleireiro
+- [ ] **le concombre** — o pepino
+- [ ] **le couteau** — a faca
+- [ ] **le croissant au beurre** — o croissant de manteiga
+- [ ] **le dessin animé** — o desenho animado
+- [ ] **le drap** — o lençol
+- [ ] **le fouet** — o batedor
+- [ ] **le genou** — o joelho
+- [ ] **le gruyère** — o gruyère
+- [ ] **le jeu télévisé** — o programa de auditório
+- [ ] **le journal intime** — o diário
+- [ ] **le jus de pomme** — o suco de maçã
+- [ ] **le marteau** — o martelo
+- [ ] **le mixeur** — o liquidificador / o mixer
+- [ ] **le papier peint** — o papel de parede
+- [ ] **le peigne** — o pente
+- [ ] **le poisson rouge** — o peixinho dourado
+- [ ] **le poulet rôti** — o frango assado
+- [ ] **le pull** — o suéter
+- [ ] **le réfrigérateur** — a geladeira
+- [ ] **le reportage** — a reportagem
+- [ ] **le robinet d’eau** — a torneira de água
+- [ ] **le rouleau à pâtisserie** — o rolo de massa
+- [ ] **le sèche-linge** — a secadora
+- [ ] **le site internet** — o site
+- [ ] **le stylo** — a caneta
+- [ ] **le thé vert** — o chá verde
+- [ ] **le tiroir** — a gaveta
+- [ ] **le transformateur** — o transformador
+- [ ] **le violon** — o violino
+- [ ] **le yoga** — a ioga
+- [ ] **les chaussettes** — as meias
+- [ ] **les œufs brouillés** — os ovos mexidos
+- [ ] **les toilettes** — o banheiro (sanitário)
+- [ ] **mal de tête** — dor de cabeça / enxaqueca
+- [ ] **moche** — feio (coloquial)
+- [ ] **mou** — mole
+- [ ] **opaque** — opaco
+- [ ] **passe Navigo** — passe Navigo / cartão Navigo
+- [ ] **peler** — descascar
+- [ ] **poser une question** — fazer uma pergunta
+- [ ] **prendre une douche** — tomar banho (chuveiro)
+- [ ] **quatre-vingt-dix** — noventa
+- [ ] **ranger la chambre** — arrumar o quarto
+- [ ] **recevoir un colis** — receber uma encomenda
+- [ ] **regarder une vidéo** — assistir a um vídeo
+- [ ] **rester à la maison** — ficar em casa
+- [ ] **se chausser** — calçar-se
+- [ ] **se coucher tôt** — deitar cedo
+- [ ] **se déshabiller** — despir-se
+- [ ] **se maquiller** — maquiar-se
+- [ ] **secondaire** — secundário
+- [ ] **shopping** — compras / shopping / fazer compras
+- [ ] **soulever** — levantar (peso)
+- [ ] **supprimer** — apagar
+- [ ] **télécharger** — baixar
+- [ ] **tourner à gauche** — virar à esquerda
+- [ ] **un milliard** — um bilhão
+- [ ] **wi** — Wi (parte da palavra Wi-Fi)
