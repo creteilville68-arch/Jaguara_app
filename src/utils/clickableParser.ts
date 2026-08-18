@@ -16,9 +16,11 @@
 import { parseFrenchSentence, ParsedToken } from './textParser';
 import { MASTER_EXAMPLES } from '../data/masterExamplesDictionary';
 import { PARIS_BACKLOG_EXAMPLES } from '../data/masterExamplesParisBacklog';
+import { AMIENS_BACKLOG_EXAMPLES } from '../data/masterExamplesAmiensBacklog';
 
 const ALL_MASTER_EXAMPLES: Record<string, { level: string; fr: string; pt: string }[]> = {
   ...PARIS_BACKLOG_EXAMPLES,
+  ...AMIENS_BACKLOG_EXAMPLES,
   ...MASTER_EXAMPLES,
 };
 
