@@ -1,13 +1,12 @@
 # #2 Amiens — A1/A2
 
-**331 palavras** ainda precisam aparecer nos textos das aulas desta cidade.
+**327 palavras** ainda precisam aparecer nos textos das aulas desta cidade.
 
 Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aventura do Irlan.
 
-## A1 (114)
+## A1 (110)
 
 - [ ] **aller au travail** — ir ao trabalho
-- [ ] **aujourd** — hoje / no dia de hoje (primeira parte de 'aujourd'hui')
 - [ ] **c** — isto / isso / o que (pronome demonstrativo impessoal, usado em 'c'est')
 - [ ] **check** — check (registro de entrada, check-in)
 - [ ] **chercher sur internet** — pesquisar na internet
@@ -15,28 +14,26 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **crêperie** — creperia / restaurante de crepes
 - [ ] **déposer de l’argent** — depositar dinheiro
 - [ ] **détacher** — desamarrar
-- [ ] **égoïste** — egoísta
-- [ ] **envoyer une lettre** — enviar uma carta
-- [ ] **éteindre l’ordinateur** — desligar o computador
-- [ ] **faire la cuisine** — cozinhar
-- [ ] **fi** — Fi (parte da palavra Wi-Fi)
-- [ ] **hui** — hoje (segunda parte de 'aujourd'hui')
-- [ ] **in** — em / dentro (prefixo ou expressão como check-in)
-- [ ] **l’adoucissant** — o amaciante
-- [ ] **l’ampoule** — a lâmpada
-- [ ] **l’araignée** — a aranha
-- [ ] **l’aubergine** — a berinjela
-- [ ] **l’évier** — a pia
-- [ ] **l’imprimante** — a impressora
-- [ ] **l’instituteur** — o professor primário
-- [ ] **l’interrupteur** — o interruptor
-- [ ] **l’oncle** — o tio
-- [ ] **la batterie (téléphone)** — a bateria (celular)
+- [ ] **en désordre** — desarrumado
+- [ ] **escalator** — escada rolante
+- [ ] **étendre le linge** — estender a roupa
+- [ ] **faire une vidéo** — fazer um vídeo
+- [ ] **gagner un match** — vencer uma partida
+- [ ] **imprimer** — imprimir
+- [ ] **jusqu** — até / até a (usado em 'jusqu'à')
+- [ ] **l’allumette** — o fósforo
+- [ ] **l’ananas** — o abacaxi
+- [ ] **l’armoire** — o armário
+- [ ] **l’égouttoir** — o escorredor de louça
+- [ ] **l’expresso** — o café expresso
+- [ ] **l’infirmière** — a enfermeira
+- [ ] **l’interphone** — o interfone
+- [ ] **l’œuf à la coque** — o ovo cozido
+- [ ] **la banane** — a banana
 - [ ] **la brosse à dents** — a escova de dentes
-- [ ] **la chaîne de télévision** — o canal de TV
-- [ ] **la clé à molette** — a chave inglesa
-- [ ] **la clinique** — a clínica
-- [ ] **la coiffeuse** — a cabeleireira
+- [ ] **la chantilly** — o chantilly
+- [ ] **la clé USB** — o pen drive
+- [ ] **la clôture** — a cerca
 - [ ] **la console** — o console
 - [ ] **la cuisine équipée** — a cozinha equipada
 - [ ] **la fumée** — a fumaça
@@ -45,9 +42,8 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **la médaille** — a medalha
 - [ ] **la peinture murale** — a tinta de parede
 - [ ] **la perceuse** — a furadeira
-- [ ] **la pile** — a pilha
-- [ ] **la poissonnerie** — a peixaria
-- [ ] **la poupée** — a boneca
+- [ ] **la planche à repasser** — a tábua de passar
+- [ ] **la pomme de terre** — a batata
 - [ ] **la rallonge** — a extensão
 - [ ] **la salle à manger** — a sala de jantar
 - [ ] **la salle de sport** — a academia

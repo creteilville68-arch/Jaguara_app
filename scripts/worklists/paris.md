@@ -1,43 +1,40 @@
 # #1 Paris — A1
 
-**114 palavras** ainda precisam aparecer nos textos das aulas desta cidade.
+**110 palavras** ainda precisam aparecer nos textos das aulas desta cidade.
 
 Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aventura do Irlan.
 
-## A1 (114)
+## A1 (110)
 
 - [ ] **aimer une publication** — curtir uma publicação
-- [ ] **appeler un ami** — ligar para um amigo
-- [ ] **avant-hier** — anteontem
+- [ ] **aujourd** — hoje / no dia de hoje (primeira parte de 'aujourd'hui')
 - [ ] **changer de train** — trocar de trem
 - [ ] **check-in** — check-in / registro de entrada
 - [ ] **colorier** — colorir
 - [ ] **conduire une voiture** — dirigir um carro
 - [ ] **débrancher** — desconectar
 - [ ] **désagréable** — desagradável
-- [ ] **disponible** — disponível
-- [ ] **en désordre** — desarrumado
-- [ ] **escalator** — escada rolante
-- [ ] **étendre le linge** — estender a roupa
-- [ ] **faire une vidéo** — fazer um vídeo
-- [ ] **gagner un match** — vencer uma partida
-- [ ] **imprimer** — imprimir
-- [ ] **jusqu** — até / até a (usado em 'jusqu'à')
-- [ ] **l’allumette** — o fósforo
-- [ ] **l’ananas** — o abacaxi
-- [ ] **l’armoire** — o armário
-- [ ] **l’égouttoir** — o escorredor de louça
-- [ ] **l’expresso** — o café expresso
-- [ ] **l’infirmière** — a enfermeira
-- [ ] **l’interphone** — o interfone
-- [ ] **l’œuf à la coque** — o ovo cozido
-- [ ] **la banane** — a banana
-- [ ] **la brioche** — o brioche
-- [ ] **la casquette** — o boné
-- [ ] **la chantilly** — o chantilly
-- [ ] **la clé USB** — o pen drive
-- [ ] **la clôture** — a cerca
-- [ ] **la confiture de fraises** — a geleia de morango
+- [ ] **égoïste** — egoísta
+- [ ] **envoyer une lettre** — enviar uma carta
+- [ ] **éteindre l’ordinateur** — desligar o computador
+- [ ] **faire la cuisine** — cozinhar
+- [ ] **fi** — Fi (parte da palavra Wi-Fi)
+- [ ] **hui** — hoje (segunda parte de 'aujourd'hui')
+- [ ] **in** — em / dentro (prefixo ou expressão como check-in)
+- [ ] **l’adoucissant** — o amaciante
+- [ ] **l’ampoule** — a lâmpada
+- [ ] **l’araignée** — a aranha
+- [ ] **l’aubergine** — a berinjela
+- [ ] **l’évier** — a pia
+- [ ] **l’imprimante** — a impressora
+- [ ] **l’instituteur** — o professor primário
+- [ ] **l’interrupteur** — o interruptor
+- [ ] **l’oncle** — o tio
+- [ ] **la batterie (téléphone)** — a bateria (celular)
+- [ ] **la chaîne de télévision** — o canal de TV
+- [ ] **la clé à molette** — a chave inglesa
+- [ ] **la clinique** — a clínica
+- [ ] **la coiffeuse** — a cabeleireira
 - [ ] **la courgette** — a abobrinha
 - [ ] **la dinde** — o peru
 - [ ] **la gomme** — a borracha
@@ -45,10 +42,9 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **la lessive** — o sabão em pó
 - [ ] **la passoire** — a peneira / o escorredor
 - [ ] **la pelle** — a pá
-- [ ] **la photo numérique** — a foto digital
-- [ ] **la planche à repasser** — a tábua de passar
-- [ ] **la pomme de terre** — a batata
-- [ ] **la publicité** — o comercial / a propaganda
+- [ ] **la pile** — a pilha
+- [ ] **la poissonnerie** — a peixaria
+- [ ] **la poupée** — a boneca
 - [ ] **la raquette** — a raquete
 - [ ] **la salle de bain** — o banheiro
 - [ ] **la scie** — o serrote

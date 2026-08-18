@@ -1,268 +1,292 @@
 {
   "id": "paris_lesson_17",
   "cityId": "paris",
-  "domain": "Moda & Alta-Costura",
+  "domain": "Cotidiano & Compras",
   "level": "Iniciante (A1)",
   "titleFr": "L'élégance de l'avenue Montaigne",
   "titlePt": "A elegância da avenue Montaigne",
-  "subtitleFr": "Les grandes maisons de couture et les vitrines élégantes",
-  "subtitlePt": "As grandes casas de moda e as vitrines elegantes",
-  "summaryPt": "Nesta Aula 17 (A1), a família passeia pela avenue Montaigne, o bairro da alta-costura. Andréa admira as vitrines das grandes maisons de couture e Íris sonha com vestidos. Irlan lembra das entregas que fazia para as boutiques. O aluno aprende o verbo 'porter' e as cores com concordância.",
+  "subtitleFr": "Les vitrines, la casquette d'Irlan et une brioche",
+  "subtitlePt": "As vitrines, o boné do Irlan e um brioche",
+  "summaryPt": "Nesta Aula 17 (A1), Irlan e Andréa passeiam pela avenue Montaigne. Ela admira as vitrines e experimenta um manto; ele lembra das entregas que fazia ali. O aluno aprende os adjetivos demonstrativos (ce, cette, ces).",
   "paragraphs": [
     {
       "id": 1,
-      "fr": "L'avenue Montaigne est le quartier de la haute couture. Les boutiques sont élégantes et les vitrines sont magnifiques. Andréa adore regarder les vêtements.",
-      "pt": "A avenue Montaigne é o bairro da alta-costura. As lojas são elegantes e as vitrines são magníficas. Andréa adora olhar as roupas."
+      "fr": "Avant-hier, ils étaient à l'opéra. Aujourd'hui, Irlan et Andréa se promènent sur l'avenue Montaigne.",
+      "pt": "Anteontem, eles estavam na ópera. Hoje, Irlan e Andréa passeiam pela avenue Montaigne."
     },
     {
       "id": 2,
-      "fr": "Dans une vitrine, il y a une robe rouge et des chaussures noires. Íris dit : « Quand je serai grande, je porterai une robe rouge ! »",
-      "pt": "Numa vitrine, há um vestido vermelho e sapatos pretos. Íris diz: «Quando eu for grande, usarei um vestido vermelho!»"
+      "fr": "L'avenue Montaigne est le quartier de la haute couture. Les boutiques sont élégantes.",
+      "pt": "A avenue Montaigne é o bairro da alta costura. As lojas são elegantes."
     },
     {
       "id": 3,
-      "fr": "Irlan se souvient : quand il était livreur, il livrait des colis aux boutiques de la rue. « Les sacs étaient très beaux », dit-il en riant.",
-      "pt": "Irlan se lembra: quando era entregador, entregava pacotes nas lojas da rua. «As sacolas eram muito bonitas», diz ele rindo."
+      "fr": "Andréa adore regarder les vitrines. C'est comme une publicité pour les vêtements.",
+      "pt": "Andréa adora olhar as vitrines. É como uma propaganda para as roupas."
     },
     {
       "id": 4,
-      "fr": "Andréa essaie un manteau bleu dans une boutique. La vendeuse dit : « Il vous va très bien ! » Andréa sourit, mais elle n'achète pas aujourd'hui.",
-      "pt": "Andréa prova um casaco azul numa loja. A vendedora diz: «Fica muito bem em você!» Andréa sorri, mas não compra hoje."
+      "fr": "Dans une vitrine, il y a une robe rouge. Andréa la prend en photo numérique.",
+      "pt": "Numa vitrine, há um vestido vermelho. Andréa tira uma foto digital dele."
+    },
+    {
+      "id": 5,
+      "fr": "Elle aime la publication d'une boutique sur son téléphone. « Regarde cette robe ! »",
+      "pt": "Ela curte a publicação de uma loja no celular. «Olha este vestido!»"
+    },
+    {
+      "id": 6,
+      "fr": "Irlan porte sa casquette et sourit. Il se souvient de ses livraisons.",
+      "pt": "Irlan usa o boné dele e sorri. Ele lembra das entregas que fazia."
+    },
+    {
+      "id": 7,
+      "fr": "« Quand j'étais livreur, je livrais des colis à ces boutiques », dit-il.",
+      "pt": "«Quando eu era entregador, eu entregava encomendas nestas lojas», diz ele."
+    },
+    {
+      "id": 8,
+      "fr": "Andréa essaie un manteau bleu. La vendeuse dit : « Il vous va très bien ! »",
+      "pt": "Andréa experimenta um manto azul. A vendedora diz: «Fica muito bem em você!»"
+    },
+    {
+      "id": 9,
+      "fr": "« Est-ce que cette taille est disponible ? » demande Andréa.",
+      "pt": "«Este tamanho está disponível?» pergunta Andréa."
+    },
+    {
+      "id": 10,
+      "fr": "Elle n'achète pas aujourd'hui, mais elle est contente.",
+      "pt": "Ela não compra hoje, mas fica contente."
+    },
+    {
+      "id": 11,
+      "fr": "Après, ils mangent une brioche avec de la confiture de fraises dans un petit café.",
+      "pt": "Depois, eles comem um brioche com geleia de morango num café pequeno."
+    },
+    {
+      "id": 12,
+      "fr": "Irlan appelle un ami de Créteil pour raconter la journée. « Paris est belle avec elle », dit-il.",
+      "pt": "Irlan liga para um amigo de Créteil para contar o dia. «Paris é bonita com ela», diz ele."
     }
   ],
   "vocabularyDictionary": [
     {
-      "term": "couture",
-      "definitionPt": "costura, moda",
-      "definitionFr": "Art de fabriquer des vêtements.",
-      "inflections": ["la couture"],
-      "ptTargets": ["costura", "moda"],
+      "term": "l'avenue",
+      "definitionPt": "a avenida",
+      "definitionFr": "Grande rue large, souvent bordée d'arbres.",
+      "inflections": ["l'avenue", "une avenue", "des avenues"],
+      "ptTargets": ["avenida"],
       "examples": [
-        { "level": "A1", "fr": "Paris est la capitale de la haute couture.", "pt": "Paris é a capital da alta-costura." },
-        { "level": "A2-B1", "fr": "Les grandes maisons de couture sont célèbres.", "pt": "As grandes casas de moda são famosas." },
-        { "level": "B2", "fr": "La couture française influence la mode mondiale.", "pt": "A costura francesa influencia a moda mundial." },
-        { "level": "C1-C2", "fr": "La haute couture parisienne allie tradition artisanale et création.", "pt": "A alta-costura parisiense alia tradição artesanal e criação." }
+        { "level": "A1", "fr": "L'avenue est large.", "pt": "A avenida é larga." },
+        { "level": "A2-B1", "fr": "Ils se promènent sur l'avenue.", "pt": "Eles passeiam pela avenida." },
+        { "level": "B2", "fr": "L'avenue est bordée de boutiques élégantes.", "pt": "A avenida é ladeada de lojas elegantes." },
+        { "level": "C1-C2", "fr": "L'avenue, par son ampleur, donne son rythme au quartier.", "pt": "A avenida, pela sua amplitude, dá o ritmo ao bairro." }
       ]
     },
     {
-      "term": "vitrine",
-      "definitionPt": "vitrine",
-      "definitionFr": "Fenêtre d'un magasin où l'on montre les produits.",
+      "term": "la vitrine",
+      "definitionPt": "a vitrine",
+      "definitionFr": "Grande fenêtre d'une boutique où l'on expose les produits.",
       "inflections": ["la vitrine", "une vitrine", "des vitrines"],
       "ptTargets": ["vitrine"],
       "examples": [
-        { "level": "A1", "fr": "Les vitrines sont magnifiques.", "pt": "As vitrines são magníficas." },
-        { "level": "A2-B1", "fr": "La robe est dans la vitrine.", "pt": "O vestido está na vitrine." },
-        { "level": "B2", "fr": "Les vitrines de l'avenue Montaigne attirent les regards.", "pt": "As vitrines da avenue Montaigne atraem os olhares." },
-        { "level": "C1-C2", "fr": "Les vitrines parisiennes transforment le shopping en art.", "pt": "As vitrines parisienses transformam as compras em arte." }
+        { "level": "A1", "fr": "Andréa regarde les vitrines.", "pt": "Andréa olha as vitrines." },
+        { "level": "A2-B1", "fr": "La vitrine est magnifique.", "pt": "A vitrine é magnífica." },
+        { "level": "B2", "fr": "Les vitrines illuminent la rue le soir.", "pt": "As vitrines iluminam a rua à noite." },
+        { "level": "C1-C2", "fr": "Une vitrine bien composée raconte déjà une histoire.", "pt": "Uma vitrine bem composta já conta uma história." }
       ]
     },
     {
-      "term": "vêtement",
-      "definitionPt": "roupa, vestuário",
-      "definitionFr": "Chose que l'on porte pour se couvrir.",
-      "inflections": ["le vêtement", "un vêtement", "des vêtements"],
-      "ptTargets": ["roupa", "vestuário"],
-      "examples": [
-        { "level": "A1", "fr": "Andréa adore les vêtements.", "pt": "Andréa adora roupas." },
-        { "level": "A2-B1", "fr": "Ces vêtements sont très élégants.", "pt": "Estas roupas são muito elegantes." },
-        { "level": "B2", "fr": "Les vêtements de cette boutique sont chers.", "pt": "As roupas desta loja são caras." },
-        { "level": "C1-C2", "fr": "Le vêtement exprime une part de l'identité de chacun.", "pt": "A roupa expressa uma parte da identidade de cada um." }
-      ]
-    },
-    {
-      "term": "robe",
-      "definitionPt": "vestido",
-      "definitionFr": "Vêtement féminin qui couvre le corps.",
-      "inflections": ["la robe", "une robe", "des robes"],
-      "ptTargets": ["vestido"],
-      "examples": [
-        { "level": "A1", "fr": "Il y a une robe rouge dans la vitrine.", "pt": "Há um vestido vermelho na vitrine." },
-        { "level": "A2-B1", "fr": "La robe rouge est très jolie.", "pt": "O vestido vermelho é muito bonito." },
-        { "level": "B2", "fr": "Elle rêve d'une robe de haute couture.", "pt": "Ela sonha com um vestido de alta-costura." },
-        { "level": "C1-C2", "fr": "La robe de couture est un objet d'art à part entière.", "pt": "O vestido de alta-costura é um objeto de arte por direito próprio." }
-      ]
-    },
-    {
-      "term": "chaussure",
-      "definitionPt": "sapato",
-      "definitionFr": "Vêtement que l'on porte aux pieds.",
-      "inflections": ["la chaussure", "une chaussure", "des chaussures"],
-      "ptTargets": ["sapato"],
-      "examples": [
-        { "level": "A1", "fr": "Les chaussures sont noires.", "pt": "Os sapatos são pretos." },
-        { "level": "A2-B1", "fr": "J'aime ces chaussures rouges.", "pt": "Eu gosto destes sapatos vermelhos." },
-        { "level": "B2", "fr": "Elle choisit ses chaussures avec soin.", "pt": "Ela escolhe os sapatos com cuidado." },
-        { "level": "C1-C2", "fr": "Une paire de chaussures élégante complète une tenue.", "pt": "Um par de sapatos elegante completa uma produção." }
-      ]
-    },
-    {
-      "term": "porter",
-      "definitionPt": "usar, vestir, carregar",
-      "definitionFr": "Avoir un vêtement sur soi, ou tenir quelque chose.",
-      "inflections": ["je porte", "porter", "il porte"],
-      "ptTargets": ["usar", "vestir", "carregar"],
-      "examples": [
-        { "level": "A1", "fr": "Je porterai une robe rouge !", "pt": "Eu usarei um vestido vermelho!" },
-        { "level": "A2-B1", "fr": "Elle porte une jolie robe bleue.", "pt": "Ela usa um vestido azul bonito." },
-        { "level": "B2", "fr": "Il porte ses colis en scooter.", "pt": "Ele carrega os seus pacotes de scooter." },
-        { "level": "C1-C2", "fr": "Porter une tenue élégante change la perception de soi.", "pt": "Usar uma produção elegante muda a percepção de si mesmo." }
-      ]
-    },
-    {
-      "term": "manteau",
-      "definitionPt": "casaco",
-      "definitionFr": "Vêtement chaud que l'on porte par-dessus les autres.",
-      "inflections": ["le manteau", "un manteau", "des manteaux"],
-      "ptTargets": ["casaco"],
-      "examples": [
-        { "level": "A1", "fr": "Andréa essaie un manteau bleu.", "pt": "Andréa prova um casaco azul." },
-        { "level": "A2-B1", "fr": "Le manteau est chaud et élégant.", "pt": "O casaco é quente e elegante." },
-        { "level": "B2", "fr": "Un bon manteau est essentiel en hiver.", "pt": "Um bom casaco é essencial no inverno." },
-        { "level": "C1-C2", "fr": "Le manteau de couture allie fonction et raffinement.", "pt": "O casaco de alta-costura alia função e refinamento." }
-      ]
-    },
-    {
-      "term": "colis",
-      "definitionPt": "pacote, encomenda",
-      "definitionFr": "Paquet que l'on envoie ou que l'on livre.",
-      "inflections": ["le colis", "un colis", "des colis"],
-      "ptTargets": ["pacote", "encomenda"],
-      "examples": [
-        { "level": "A1", "fr": "Il livrait des colis aux boutiques.", "pt": "Ele entregava pacotes nas lojas." },
-        { "level": "A2-B1", "fr": "Le colis est arrivé ce matin.", "pt": "O pacote chegou esta manhã." },
-        { "level": "B2", "fr": "Les livreurs transportent des colis toute la journée.", "pt": "Os entregadores transportam pacotes o dia inteiro." },
-        { "level": "C1-C2", "fr": "La livraison de colis est devenue un pilier du commerce moderne.", "pt": "A entrega de pacotes tornou-se um pilar do comércio moderno." }
-      ]
-    },
-    {
-      "term": "sac",
-      "definitionPt": "bolsa, sacola",
-      "definitionFr": "Objet pour porter des choses.",
-      "inflections": ["le sac", "un sac", "des sacs"],
-      "ptTargets": ["bolsa", "sacola"],
-      "examples": [
-        { "level": "A1", "fr": "Les sacs étaient très beaux.", "pt": "As sacolas eram muito bonitas." },
-        { "level": "A2-B1", "fr": "Elle porte un sac rouge.", "pt": "Ela carrega uma bolsa vermelha." },
-        { "level": "B2", "fr": "Le sac de la boutique est en papier élégant.", "pt": "A sacola da loja é de papel elegante." },
-        { "level": "C1-C2", "fr": "Le sac à main est devenu un objet de désir dans la mode.", "pt": "A bolsa tornou-se um objeto de desejo na moda." }
-      ]
-    },
-    {
-      "term": "élégant",
-      "definitionPt": "elegante",
-      "definitionFr": "Qui a de la grâce et du style.",
-      "inflections": ["élégant", "élégante", "élégants", "élégantes"],
-      "ptTargets": ["elegante"],
+      "term": "la boutique",
+      "definitionPt": "a loja",
+      "definitionFr": "Magasin de vente.",
+      "inflections": ["la boutique", "une boutique", "des boutiques"],
+      "ptTargets": ["loja"],
       "examples": [
         { "level": "A1", "fr": "Les boutiques sont élégantes.", "pt": "As lojas são elegantes." },
-        { "level": "A2-B1", "fr": "C'est une rue très élégante.", "pt": "É uma rua muito elegante." },
-        { "level": "B2", "fr": "Les vêtements élégants donnent confiance.", "pt": "Roupas elegantes dão confiança." },
-        { "level": "C1-C2", "fr": "L'élégance française est un art de vivre reconnu dans le monde.", "pt": "A elegância francesa é uma arte de viver reconhecida no mundo." }
+        { "level": "A2-B1", "fr": "Cette boutique vend des vêtements.", "pt": "Esta loja vende roupas." },
+        { "level": "B2", "fr": "Une petite boutique peut cacher des trésors.", "pt": "Uma lojinha pode esconder tesouros." },
+        { "level": "C1-C2", "fr": "Les boutiques indépendantes donnent son âme à un quartier.", "pt": "As lojas independentes dão alma a um bairro." }
       ]
     },
     {
-      "term": "rêver",
-      "definitionPt": "sonhar",
-      "definitionFr": "Imaginer des choses agréables.",
-      "inflections": ["je rêve", "rêver", "il rêve"],
-      "ptTargets": ["sonhar"],
+      "term": "la casquette",
+      "definitionPt": "o boné",
+      "definitionFr": "Chapeau à visière.",
+      "inflections": ["la casquette", "une casquette", "des casquettes"],
+      "ptTargets": ["boné"],
       "examples": [
-        { "level": "A1", "fr": "Íris rêve de robes magnifiques.", "pt": "Íris sonha com vestidos magníficos." },
-        { "level": "A2-B1", "fr": "Je rêve de visiter Paris.", "pt": "Eu sonho em visitar Paris." },
-        { "level": "B2", "fr": "Elle rêve de devenir créatrice de mode.", "pt": "Ela sonha em se tornar estilista." },
-        { "level": "C1-C2", "fr": "Rêver, c'est déjà voyager.", "pt": "Sonhar já é viajar." }
+        { "level": "A1", "fr": "Irlan porte sa casquette.", "pt": "Irlan usa o boné dele." },
+        { "level": "A2-B1", "fr": "Sa casquette est bleue.", "pt": "O boné dele é azul." },
+        { "level": "B2", "fr": "Il met sa casquette avant de sortir.", "pt": "Ele coloca o boné antes de sair." },
+        { "level": "C1-C2", "fr": "La casquette, accessoire simple, protège du soleil et du regard.", "pt": "O boné, acessório simples, protege do sol e do olhar." }
       ]
     },
     {
-      "term": "essayer",
-      "definitionPt": "provar, experimentar",
-      "definitionFr": "Mettre un vêtement pour voir s'il va bien.",
-      "inflections": ["j'essaie", "essayer", "il essaie"],
-      "ptTargets": ["provar", "experimentar"],
+      "term": "la publicité",
+      "definitionPt": "a propaganda, o anúncio",
+      "definitionFr": "Message qui fait connaître un produit.",
+      "inflections": ["la publicité", "une publicité", "des publicités"],
+      "ptTargets": ["propaganda", "anúncio"],
       "examples": [
-        { "level": "A1", "fr": "Andréa essaie un manteau bleu.", "pt": "Andréa prova um casaco azul." },
-        { "level": "A2-B1", "fr": "Je veux essayer cette robe.", "pt": "Eu quero provar este vestido." },
-        { "level": "B2", "fr": "Elle essaie plusieurs manteaux dans la boutique.", "pt": "Ela prova vários casacos na loja." },
-        { "level": "C1-C2", "fr": "Essayer un vêtement de couture est une expérience unique.", "pt": "Provar uma roupa de alta-costura é uma experiência única." }
+        { "level": "A1", "fr": "La vitrine est comme une publicité.", "pt": "A vitrine é como uma propaganda." },
+        { "level": "A2-B1", "fr": "Il y a une publicité pour ce manteau.", "pt": "Há uma propaganda deste manto." },
+        { "level": "B2", "fr": "La publicité influence les envies des passants.", "pt": "A propaganda influencia os desejos dos passantes." },
+        { "level": "C1-C2", "fr": "La publicité, partout présente, façonne nos habitudes sans bruit.", "pt": "A propaganda, presente em toda parte, molda nossos hábitos sem ruído." }
+      ]
+    },
+    {
+      "term": "la photo numérique",
+      "definitionPt": "a foto digital",
+      "definitionFr": "Image enregistrée sur un appareil électronique.",
+      "inflections": ["la photo numérique", "une photo numérique", "des photos numériques"],
+      "ptTargets": ["foto digital"],
+      "examples": [
+        { "level": "A1", "fr": "Andréa prend une photo numérique.", "pt": "Andréa tira uma foto digital." },
+        { "level": "A2-B1", "fr": "La photo numérique est sur son téléphone.", "pt": "A foto digital está no celular dela." },
+        { "level": "B2", "fr": "Elle envoie la photo numérique à sa mère.", "pt": "Ela envia a foto digital para a mãe." },
+        { "level": "C1-C2", "fr": "La photo numérique, instantanée et reproductible, a changé notre rapport au souvenir.", "pt": "A foto digital, instantânea e reproduzível, mudou a nossa relação com a lembrança." }
+      ]
+    },
+    {
+      "term": "aimer une publication",
+      "definitionPt": "curtir uma publicação",
+      "definitionFr": "Marquer qu'on aime un contenu sur les réseaux sociaux.",
+      "inflections": ["aimer une publication", "j'aime une publication", "elle aime une publication"],
+      "ptTargets": ["curtir uma publicação"],
+      "examples": [
+        { "level": "A1", "fr": "Elle aime la publication de la boutique.", "pt": "Ela curte a publicação da loja." },
+        { "level": "A2-B1", "fr": "J'aime une publication sur le voyage.", "pt": "Curto uma publicação sobre a viagem." },
+        { "level": "B2", "fr": "Il aime les publications de ses amis.", "pt": "Ele curte as publicações dos amigos." },
+        { "level": "C1-C2", "fr": "Aimer une publication est devenu un geste quotidien et presque réflexe.", "pt": "Curtir uma publicação tornou-se um gesto cotidiano e quase reflexo." }
+      ]
+    },
+    {
+      "term": "disponible",
+      "definitionPt": "disponível",
+      "definitionFr": "Qui est libre ou en stock.",
+      "inflections": ["disponible", "disponibles"],
+      "ptTargets": ["disponível"],
+      "examples": [
+        { "level": "A1", "fr": "Cette taille est disponible.", "pt": "Este tamanho está disponível." },
+        { "level": "A2-B1", "fr": "Le vendeur est disponible pour aider.", "pt": "O vendedor está disponível para ajudar." },
+        { "level": "B2", "fr": "Ce modèle n'est plus disponible en bleu.", "pt": "Este modelo não está mais disponível em azul." },
+        { "level": "C1-C2", "fr": "Être disponible, c'est offrir à l'autre un temps sans réserve.", "pt": "Estar disponível é oferecer ao outro um tempo sem reservas." }
+      ]
+    },
+    {
+      "term": "la brioche",
+      "definitionPt": "o brioche",
+      "definitionFr": "Petit pain sucré et moelleux.",
+      "inflections": ["la brioche", "une brioche", "des brioches"],
+      "ptTargets": ["brioche"],
+      "examples": [
+        { "level": "A1", "fr": "Ils mangent une brioche.", "pt": "Eles comem um brioche." },
+        { "level": "A2-B1", "fr": "La brioche est moelleuse et sucrée.", "pt": "O brioche é macio e doce." },
+        { "level": "B2", "fr": "Une brioche dorée accompagne le café du matin.", "pt": "Um brioche dourado acompanha o café da manhã." },
+        { "level": "C1-C2", "fr": "La brioche, par sa douceur, évoque les matins de fête.", "pt": "O brioche, pela sua doçura, evoca as manhãs de festa." }
+      ]
+    },
+    {
+      "term": "la confiture de fraises",
+      "definitionPt": "a geleia de morango",
+      "definitionFr": "Préparation sucrée à base de fraises.",
+      "inflections": ["la confiture de fraises", "de la confiture de fraises"],
+      "ptTargets": ["geleia de morango"],
+      "examples": [
+        { "level": "A1", "fr": "Ils mangent la brioche avec de la confiture de fraises.", "pt": "Eles comem o brioche com geleia de morango." },
+        { "level": "A2-B1", "fr": "La confiture de fraises est sucrée.", "pt": "A geleia de morango é doce." },
+        { "level": "B2", "fr": "Elle prépare une confiture de fraises maison.", "pt": "Ela prepara uma geleia de morango caseira." },
+        { "level": "C1-C2", "fr": "La confiture de fraises garde le goût de l'été dans un pot.", "pt": "A geleia de morango guarda o gosto do verão num pote." }
+      ]
+    },
+    {
+      "term": "appeler un ami",
+      "definitionPt": "ligar para um amigo",
+      "definitionFr": "Téléphoner à un ami.",
+      "inflections": ["appeler un ami", "j'appelle un ami", "il appelle un ami"],
+      "ptTargets": ["ligar para um amigo"],
+      "examples": [
+        { "level": "A1", "fr": "Irlan appelle un ami.", "pt": "Irlan liga para um amigo." },
+        { "level": "A2-B1", "fr": "J'appelle un ami pour prendre des nouvelles.", "pt": "Ligo para um amigo para saber notícias." },
+        { "level": "B2", "fr": "Il a appelé un ami pour raconter sa journée.", "pt": "Ele ligou para um amigo para contar o dia." },
+        { "level": "C1-C2", "fr": "Appeler un ami sans raison précise est un signe d'amitié vraie.", "pt": "Ligar para um amigo sem motivo preciso é sinal de amizade verdadeira." }
+      ]
+    },
+    {
+      "term": "avant-hier",
+      "definitionPt": "anteontem",
+      "definitionFr": "Le jour avant hier.",
+      "inflections": ["avant-hier"],
+      "ptTargets": ["anteontem"],
+      "examples": [
+        { "level": "A1", "fr": "Avant-hier, ils étaient à l'opéra.", "pt": "Anteontem, eles estavam na ópera." },
+        { "level": "A2-B1", "fr": "Avant-hier, il a plu toute la journée.", "pt": "Anteontem choveu o dia inteiro." },
+        { "level": "B2", "fr": "Avant-hier encore, tout semblait différent.", "pt": "Ainda anteontem, tudo parecia diferente." },
+        { "level": "C1-C2", "fr": "Avant-hier n'est jamais si loin qu'on le croit.", "pt": "Anteontem nunca está tão longe quanto a gente pensa." }
       ]
     }
   ],
   "grammarTip": {
-    "ruleTitle": "Le verbe porter au présent",
-    "explanationPt": "O verbo 'porter' (usar, vestir, carregar) é regular do 1º grupo: je porte, tu portes, il/elle porte, nous portons, vous portez, ils/elles portent. Ex.: 'Elle porte une robe rouge.'",
-    "exampleFr": "Elle porte une jolie robe bleue.",
-    "examplePt": "Ela usa um vestido azul bonito.",
-    "practiceQuestion": "Complete com a forma correta: 'Nous _____ des vêtements élégants.'",
-    "options": ["portons", "porte", "portent"],
+    "ruleTitle": "Les adjectifs démonstratifs (ce, cet, cette, ces)",
+    "explanationPt": "Os demonstrativos apontam algo: 'ce' (masculino), 'cet' (masculino antes de vogal), 'cette' (feminino), 'ces' (plural). Ex.: 'ce manteau', 'cette robe', 'ces boutiques'.",
+    "exampleFr": "Regarde cette robe et ce manteau.",
+    "examplePt": "Olha este vestido e este manto.",
+    "practiceQuestion": "Complete: 'Regarde _____ robe rouge.'",
+    "options": ["cette", "ce", "ces"],
     "correctIndex": 0,
     "points": [
       {
-        "ruleTitle": "Le verbe porter au présent",
-        "explanationPt": "'porter' é regular: je porte, nous portons, ils portent. Ex.: 'Il porte ses colis en scooter.'",
-        "exampleFr": "Il porte ses colis en scooter.",
-        "examplePt": "Ele carrega os seus pacotes de scooter.",
-        "practiceQuestion": "Complete: 'Ils _____ de beaux vêtements à la fête.'",
-        "options": ["portent", "portons", "porte"],
+        "ruleTitle": "ce / cette",
+        "explanationPt": "'ce' + masculino ('ce manteau'), 'cette' + feminino ('cette robe'). Ex.: 'Cette taille est disponible.'",
+        "exampleFr": "Cette taille est disponible.",
+        "examplePt": "Este tamanho está disponível.",
+        "practiceQuestion": "Complete: '_____ manteau est bleu.'",
+        "options": ["Ce", "Cette", "Ces"],
         "correctIndex": 0
       },
       {
-        "ruleTitle": "Les couleurs et l'accord des adjectifs",
-        "explanationPt": "As cores concordam em gênero e número: rouge (invariável no fem. para 'rouge'? não — rouge é invariável: une robe rouge), noir → noire, bleu → bleue, blanc → blanche. Ex.: 'une robe rouge', 'des chaussures noires'.",
-        "exampleFr": "Il y a une robe rouge et des chaussures noires dans la vitrine.",
-        "examplePt": "Há um vestido vermelho e sapatos pretos na vitrine.",
-        "practiceQuestion": "Complete com o adjetivo correto: 'Andréa essaie un manteau _____.'",
-        "options": ["bleu", "bleue", "bleus"],
+        "ruleTitle": "ces (pluriel)",
+        "explanationPt": "'ces' vale para masculino e feminino no plural: 'ces boutiques', 'ces vêtements'. Ex.: 'Je livrais des colis à ces boutiques.'",
+        "exampleFr": "Je livrais des colis à ces boutiques.",
+        "examplePt": "Eu entregava encomendas nestas lojas.",
+        "practiceQuestion": "Complete: '_____ vitrines sont belles.'",
+        "options": ["Ces", "Ce", "Cette"],
         "correctIndex": 0
       }
     ]
   },
   "quizQuestions": [
     {
-      "question": "Complete a frase do texto: 'Il y a une robe _____ et des chaussures noires dans la vitrine.'",
-      "options": ["rouge", "bleue", "verte"],
+      "question": "Onde Irlan e Andréa estavam anteontem?",
+      "options": ["Na ópera", "No mercado", "Em Versalhes"],
       "correctIndex": 0,
-      "explanation": "No texto: 'Dans une vitrine, il y a une robe rouge et des chaussures noires.'"
+      "explanation": "No texto: 'Avant-hier, ils étaient à l'opéra.'"
     },
     {
-      "question": "Ordene corretamente as palavras da frase: [ essaie / Andréa / un manteau / bleu / ]",
-      "options": [
-        "Andréa essaie un manteau bleu.",
-        "Un manteau essaie Andréa bleu.",
-        "Andréa un manteau essaie bleu."
-      ],
+      "question": "O que há na vitrine?",
+      "options": ["Um vestido vermelho", "Um manto azul", "Um boné"],
       "correctIndex": 0,
-      "explanation": "A frase exata do texto é 'Andréa essaie un manteau bleu dans une boutique.'"
+      "explanation": "No texto: 'Dans une vitrine, il y a une robe rouge.'"
     },
     {
-      "question": "Como se traduz: 'Ela usa um vestido azul bonito'?",
-      "options": [
-        "Elle porte une jolie robe bleue.",
-        "Elle porte une jolie robe bleu.",
-        "Elle porte un jolie robe bleue."
-      ],
+      "question": "O que Andréa experimenta?",
+      "options": ["Um manto azul", "Um vestido vermelho", "Uma saia"],
       "correctIndex": 0,
-      "explanation": "'porte' = usa; 'une jolie robe bleue' = um vestido azul bonito (concordância feminina)."
+      "explanation": "No texto: 'Andréa essaie un manteau bleu.'"
     },
     {
-      "question": "Identifique a frase com ERRO de concordância da cor:",
-      "options": [
-        "Une robe rouge.",
-        "Des chaussures noires.",
-        "Un manteau bleue."
-      ],
-      "correctIndex": 2,
-      "explanation": "O erro é 'Un manteau bleue': 'manteau' é masculino, o correto é 'bleu'."
+      "question": "O que Irlan fazia nessas lojas quando era entregador?",
+      "options": ["Entregava encomendas", "Comprava roupas", "Tirava fotos"],
+      "correctIndex": 0,
+      "explanation": "No texto: 'Je livrais des colis à ces boutiques.'"
     },
     {
-      "question": "Do que Irlan se lembra na avenue Montaigne?",
-      "options": [
-        "Das entregas de pacotes que fazia de scooter para as boutiques",
-        "Das suas aulas de geografia no Brasil",
-        "Da primeira vez que visitou a Torre Eiffel"
-      ],
+      "question": "O que eles comem no café?",
+      "options": ["Brioche com geleia de morango", "Croissant com chocolate", "Baguete com queijo"],
       "correctIndex": 0,
-      "explanation": "No texto: 'quand il était livreur, il livrait des colis aux boutiques de la rue.'"
+      "explanation": "No texto: 'Ils mangent une brioche avec de la confiture de fraises.'"
     }
   ]
 }

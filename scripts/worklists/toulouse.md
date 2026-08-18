@@ -750,277 +750,277 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **le mythe** — o mito
 - [ ] **le niveau de vie** — o padrão de vida
 - [ ] **le notaire** — o tabelião / o notário
-- [ ] **le parc naturel** — o parque natural
-- [ ] **le parti politique** — o partido político
-- [ ] **le patois** — o patoá
-- [ ] **le patrimoine historique** — o patrimônio histórico
-- [ ] **le perfectionnisme** — o perfeccionismo
-- [ ] **le petit pois** — a ervilha
-- [ ] **le phénomène** — o fenômeno
-- [ ] **le piratage** — o hackeamento
-- [ ] **le plébiscite** — o plebiscito
-- [ ] **le plurilinguisme** — o plurilinguismo
-- [ ] **le point faible** — o ponto fraco
-- [ ] **le poste à pourvoir** — a vaga a preencher
-- [ ] **le pourcentage** — a porcentagem
-- [ ] **le pouvoir d’achat** — o poder de compra
-- [ ] **le préambule** — o preâmbulo
-- [ ] **le pressing** — a lavanderia (a seco)
-- [ ] **le procédé** — o processo / o procedimento
-- [ ] **le procureur** — o promotor
-- [ ] **le programme scolaire** — o programa escolar
-- [ ] **le progrès technique** — o progresso técnico
-- [ ] **le protagoniste** — o protagonista
-- [ ] **le protocole** — o protocolo
-- [ ] **le psychiatre** — o psiquiatra
-- [ ] **le quartier des affaires** — bairro de negócios
-- [ ] **le raisonnement** — o raciocínio
-- [ ] **le réalisme** — o realismo
-- [ ] **le rebondissement** — a reviravolta
-- [ ] **le réconfort** — o consolo / o reconforto
-- [ ] **le redoublement** — a repetência
-- [ ] **le réflexe** — o reflexo
-- [ ] **le registre courant** — o registro corrente
-- [ ] **le registre soutenu** — o registro culto
-- [ ] **le rendement** — o rendimento
-- [ ] **le reproche** — a reprovação / a censura
-- [ ] **le réseau routier** — a malha viária
-- [ ] **le résumé** — o resumo
-- [ ] **le retentissement** — a repercussão / o impacto
-- [ ] **le robot** — o robô
-- [ ] **le romantisme** — o romantismo
-- [ ] **le salaire minimum** — o salário mínimo
-- [ ] **le sans-abri** — o morador de rua
-- [ ] **le scandale** — o escândalo
-- [ ] **le schéma** — o esquema
-- [ ] **le secours** — o socorro
-- [ ] **le secteur primaire** — o setor primário
-- [ ] **le séjour hospitalier** — a internação
-- [ ] **le sentiment d’appartenance** — o sentimento de pertencimento
-- [ ] **le seuil** — o limiar / o limite
-- [ ] **le sexisme** — o sexismo
-- [ ] **le smog** — a névoa de poluição
-- [ ] **le sotaque** — sotaque (substantivo masculino)
-- [ ] **le soupçon** — a suspeita
-- [ ] **le soutien** — o apoio
-- [ ] **le suffrage** — o sufrágio
-- [ ] **le sujet** — o assunto
-- [ ] **le surréalisme** — o surrealismo
-- [ ] **le syndrome** — a síndrome
-- [ ] **le système de retraite** — o sistema de aposentadoria
-- [ ] **le système immunitaire** — o sistema imunológico
-- [ ] **le taux de chômage** — a taxa de desemprego
-- [ ] **le témoignage** — o testemunho
-- [ ] **le temps plein** — o período integral
-- [ ] **le thème** — o tema
-- [ ] **le tissu associatif** — a rede associativa
-- [ ] **le totalitarisme** — o totalitarismo
-- [ ] **le tracas** — o aborrecimento / a preocupação
-- [ ] **le train de banlieue** — o trem suburbano
-- [ ] **le traitement des données** — o processamento de dados
-- [ ] **le transport intelligent** — o transporte inteligente
-- [ ] **le trophée** — o troféu
-- [ ] **le trouble du sommeil** — o distúrbio do sono
-- [ ] **le typhon** — o tufão
-- [ ] **le ver à soie** — bicho-da-seda
-- [ ] **le vieillissement** — o envelhecimento
-- [ ] **le vocabulaire** — o vocabulário
-- [ ] **légal** — legal
-- [ ] **légitime** — legítimo
-- [ ] **léguer** — legar
-- [ ] **les compétences clés** — as competências-chave
-- [ ] **les déchets plastiques** — os resíduos plásticos
-- [ ] **les droits fondamentaux** — os direitos fundamentais
-- [ ] **les engrais chimiques** — os fertilizantes químicos
-- [ ] **les forces de l’ordre** — as forças de segurança
-- [ ] **les OGM** — os transgênicos
-- [ ] **les réseaux sociaux** — as redes sociais
-- [ ] **les soins intensifs** — a terapia intensiva
-- [ ] **limpide** — límpido
-- [ ] **majeur** — maior / principal
-- [ ] **malin** — esperto / astuto
-- [ ] **manifestement** — manifestamente
-- [ ] **marginaliser** — marginalizar
-- [ ] **maximal** — máximo
-- [ ] **mélancolique** — melancólico
-- [ ] **mentionner** — mencionar
-- [ ] **mesurable** — mensurável
-- [ ] **méthodique** — metódico
-- [ ] **mettre en œuvre** — pôr em prática / implementar
-- [ ] **mettre en place** — implementar
-- [ ] **microscopique** — microscópico
-- [ ] **mineur** — menor / secundário
-- [ ] **minime** — mínimo
-- [ ] **minutieux** — minucioso
-- [ ] **modérer** — moderar
-- [ ] **momentané** — momentâneo
-- [ ] **motivé** — motivado
-- [ ] **mutuel** — mútuo
-- [ ] **narrer** — narrar
-- [ ] **négatif** — negativo
-- [ ] **négligeable** — desprezível
-- [ ] **négliger** — negligenciar
-- [ ] **neutraliser** — neutralizar
-- [ ] **nier** — negar
-- [ ] **nonchalant** — indolente / displicente
-- [ ] **normaliser** — normalizar
-- [ ] **notifier** — notificar
-- [ ] **nouer** — amarrar / dar nó
-- [ ] **novice** — novato / iniciante
-- [ ] **oblique** — oblíquo
-- [ ] **obstiné** — obstinado
-- [ ] **occasionner** — ocasionar
-- [ ] **officieux** — oficioso
-- [ ] **omettre** — omitir
-- [ ] **opiniâtre** — obstinado
-- [ ] **opter** — optar
-- [ ] **orienter** — orientar
-- [ ] **pâle** — pálido
-- [ ] **palper** — apalpar
-- [ ] **parachever** — dar o toque final
-- [ ] **parallèlement** — paralelamente
-- [ ] **partial** — parcial
-- [ ] **parvenir** — conseguir / chegar a
-- [ ] **passionnément** — apaixonadamente / com fervor
-- [ ] **pénaliser** — penalizar
-- [ ] **pénible** — penoso / difícil
-- [ ] **percevoir** — perceber
-- [ ] **perpétuellement** — perpetuamente
-- [ ] **perplexe** — perplexo
-- [ ] **persuader** — persuadir
-- [ ] **perturber** — perturbar
-- [ ] **photocopier** — fotocopiar
-- [ ] **pitoyable** — lastimável / patético
-- [ ] **plébisciter** — plebiscitar
-- [ ] **pondérer** — ponderar
-- [ ] **postérieur** — posterior
-- [ ] **pour autant** — por isso mesmo
-- [ ] **pragmatique** — pragmático
-- [ ] **précédemment** — precedentemente
-- [ ] **préconiser** — preconizar / recomendar
-- [ ] **préjudiciable** — prejudicial
-- [ ] **prématuré** — prematuro
-- [ ] **préoccupant** — preocupante
-- [ ] **présenter ses excuses** — pedir desculpas
-- [ ] **prétendument** — pretensamente
-- [ ] **prévaloir** — prevalecer
-- [ ] **primordial** — primordial
-- [ ] **privilégier** — privilegiar
-- [ ] **proclamer** — proclamar
-- [ ] **progressif** — progressivo
-- [ ] **prohiber** — proibir
-- [ ] **prolongé** — prolongado
-- [ ] **promouvoir** — promover
-- [ ] **propice** — propício
-- [ ] **proroger** — prorrogar
-- [ ] **prospère** — próspero
-- [ ] **provisoire** — provisório
-- [ ] **provoquer** — provocar
-- [ ] **radicaliser** — radicalizar
-- [ ] **ratifier** — ratificar
-- [ ] **rationnel** — racional
-- [ ] **réaffirmer** — reafirmar
-- [ ] **réajuster** — reajustar
-- [ ] **réapprendre** — reaprender (verbo)
-- [ ] **rebrousser chemin** — voltar atrás
-- [ ] **recenser** — recensear / listar
-- [ ] **réconcilier** — reconciliar
-- [ ] **reconsidérer** — reconsiderar
-- [ ] **rectifier** — retificar
-- [ ] **récurrent** — recorrente
-- [ ] **redouter** — temer
-- [ ] **rééquilibrer** — reequilibrar
-- [ ] **réfuter** — refutar
-- [ ] **régresser** — regredir
-- [ ] **réguler** — regular
-- [ ] **réhabiliter** — reabilitar
-- [ ] **relayer** — retransmitir / revezar
-- [ ] **renforcer** — reforçar
-- [ ] **renseigner** — informar / dar informações
-- [ ] **réorganiser** — reorganizar
-- [ ] **réparable** — consertável / reparável
-- [ ] **répertorier** — catalogar
-- [ ] **répondre aux attentes** — atender às expectativas
-- [ ] **représentatif** — representativo
-- [ ] **réprimer** — reprimir
-- [ ] **résoudre** — resolver
-- [ ] **restreindre** — restringir
-- [ ] **restructurer** — reestruturar
-- [ ] **retardé** — atrasado / retardado
-- [ ] **rétrécir** — encolher / estreitar
-- [ ] **révéler** — revelar
-- [ ] **rigoureux** — rigoroso
-- [ ] **s’accentuer** — acentuar-se
-- [ ] **s’acheminer** — encaminhar-se
-- [ ] **s’affaiblir** — enfraquecer-se
-- [ ] **s'amarrer** — atracar, amarrar (verbo pronominal)
-- [ ] **s’atténuer** — atenuar-se
-- [ ] **s’élancer** — lançar-se
-- [ ] **s'enfuir** — fugir
-- [ ] **s’immobiliser** — imobilizar-se
-- [ ] **s’intensifier** — intensificar-se
-- [ ] **s’opposer** — opor-se
-- [ ] **salir** — sujar
-- [ ] **sarcastique** — sarcástico
-- [ ] **scrupuleux** — escrupuloso
-- [ ] **se convertir** — converter-se
-- [ ] **se détériorer** — deteriorar-se
-- [ ] **se lier d’amitié** — fazer amizade
-- [ ] **se métamorphoser** — metamorfosear-se
-- [ ] **se poursuivre** — continuar
-- [ ] **se propager** — propagar-se
-- [ ] **se réduire** — reduzir-se
-- [ ] **se renforcer** — reforçar-se
-- [ ] **sécuriser** — proteger / tornar seguro
-- [ ] **sensé** — sensato
-- [ ] **sensiblement** — sensivelmente / consideravelmente
-- [ ] **significatif** — significativo
-- [ ] **simultané** — simultâneo
-- [ ] **singulier** — singular
-- [ ] **soigneux** — cuidadoso
-- [ ] **solidaire** — solidário
-- [ ] **solutionner** — solucionar
-- [ ] **somme toute** — afinal de contas
-- [ ] **songeur** — sonhador / pensativo
-- [ ] **soucieux** — preocupado
-- [ ] **sous-jacent** — subjacente
-- [ ] **soutenable** — sustentável / defensável
-- [ ] **spécifique** — específico
-- [ ] **stigmatiser** — estigmatizar
-- [ ] **strictement** — estritamente
-- [ ] **studieuse** — estudiosa / concentrada
-- [ ] **subdiviser** — subdividir
-- [ ] **subjectif** — subjetivo
-- [ ] **subventionner** — subsidiar
-- [ ] **successivement** — sucessivamente
-- [ ] **superficiel** — superficial
-- [ ] **supplier** — suplicar
-- [ ] **surmonter** — superar
-- [ ] **susciter** — suscitar
-- [ ] **suspicieux** — desconfiado
-- [ ] **synthétiser** — sintetizar
-- [ ] **talentueux** — talentoso
-- [ ] **tardif** — tardio
-- [ ] **tempérer** — temperar / moderar
-- [ ] **tenace** — tenaz
-- [ ] **théorique** — teórico
-- [ ] **tolérable** — tolerável
-- [ ] **tordu** — torto / retorcido
-- [ ] **tranchant** — afiado / cortante
-- [ ] **transiter** — transitar
-- [ ] **transportable** — transportável
-- [ ] **traverser à pied** — atravessar a pé (expressão)
-- [ ] **troubler** — perturbar / inquietar
-- [ ] **ultérieurement** — posteriormente
-- [ ] **unanime** — unânime
-- [ ] **uniformiser** — uniformizar
-- [ ] **usagé** — usado
-- [ ] **vagabonder** — vaguear
-- [ ] **variable** — variável
-- [ ] **vexé** — ofendido / magoado
-- [ ] **vigilant** — vigilante
-- [ ] **vital** — vital
-- [ ] **volontaire** — voluntário
-- [ ] **vraisemblable** — verossímil
-- [ ] **vu que** — visto que
-- [ ] **vulgariser** — vulgarizar / popularizar
+- [ ] **le partenaire** — o parceiro
+- [ ] **le parti pris** — o partido tomado / a parcialidade
+- [ ] **le patrimoine culturel** — o patrimônio cultural
+- [ ] **le perfectionnement** — o aperfeiçoamento
+- [ ] **le personnel soignant** — o pessoal de saúde
+- [ ] **le pétrole** — o petróleo
+- [ ] **le piège** — a armadilha
+- [ ] **le plaignant** — o queixoso / o autor
+- [ ] **le pluralisme** — o pluralismo
+- [ ] **le point commun** — o ponto em comum
+- [ ] **le point fort** — o ponto forte
+- [ ] **le potentiel** — o potencial
+- [ ] **le pourvoi** — o recurso
+- [ ] **le préalable** — o pré-requisito
+- [ ] **le pressentiment** — o pressentimento
+- [ ] **le prestige** — o prestígio
+- [ ] **le procès équitable** — o julgamento justo
+- [ ] **le produit intérieur brut** — o produto interno bruto
+- [ ] **le progrès** — o progresso
+- [ ] **le pronostic** — o prognóstico
+- [ ] **le protectionnisme** — o protecionismo
+- [ ] **le prototype** — o protótipo
+- [ ] **le psychologue** — o psicólogo
+- [ ] **le racisme** — o racismo
+- [ ] **le rassemblement** — a reunião / o ajuntamento
+- [ ] **le reboisement** — o reflorestamento
+- [ ] **le réchauffement global** — o aquecimento global
+- [ ] **le recruteur** — o recrutador
+- [ ] **le référendum** — o referendo
+- [ ] **le registre** — o registro
+- [ ] **le registre familier** — o registro familiar
+- [ ] **le relief** — o relevo
+- [ ] **le renseignement** — a informação / o esclarecimento
+- [ ] **le réseau ferroviaire** — a malha ferroviária
+- [ ] **le ressentiment** — o ressentimento
+- [ ] **le rétablissement** — o restabelecimento / a recuperação
+- [ ] **le rite** — o rito
+- [ ] **le rôle** — o papel / a função
+- [ ] **le sacrifice** — o sacrifício
+- [ ] **le salon de coiffure** — o salão de cabeleireiro
+- [ ] **le savoir-être** — o saber-ser
+- [ ] **le scepticisme** — o ceticismo
+- [ ] **le secourisme** — o socorrismo
+- [ ] **le secteur** — o setor
+- [ ] **le secteur tertiaire** — o setor terciário
+- [ ] **le sénat** — o senado
+- [ ] **le service** — o serviço / o setor
+- [ ] **le sevrage** — a abstinência / o desmame
+- [ ] **le site archéologique** — o sítio arqueológico
+- [ ] **le sociologue** — o sociólogo
+- [ ] **le souci** — a preocupação
+- [ ] **le sous-entendu** — o subentendido
+- [ ] **le stéréotype** — o estereótipo
+- [ ] **le suivi médical** — o acompanhamento médico
+- [ ] **le surmenage** — o excesso de trabalho
+- [ ] **le suspense** — o suspense
+- [ ] **le synonyme** — o sinônimo
+- [ ] **le système de santé** — o sistema de saúde
+- [ ] **le taux d’intérêt** — a taxa de juros
+- [ ] **le technicien** — o técnico
+- [ ] **le temps partiel** — o meio período
+- [ ] **le test** — o teste
+- [ ] **le tirage** — a tiragem
+- [ ] **le tort** — o dano / a culpa
+- [ ] **le tournant** — a virada / o ponto de inflexão
+- [ ] **le traducteur** — o tradutor
+- [ ] **le traité** — o tratado
+- [ ] **le traitement médiatique** — o tratamento midiático
+- [ ] **le tri sélectif** — a coleta seletiva
+- [ ] **le trouble** — o transtorno
+- [ ] **le tutorat** — a tutoria
+- [ ] **le vélo en libre-service** — a bicicleta compartilhada
+- [ ] **le vétérinaire** — o veterinário
+- [ ] **le vivre-ensemble** — a convivência
+- [ ] **le zéro déchet** — o lixo zero
+- [ ] **légiférer** — legislar
+- [ ] **légitimer** — legitimar
+- [ ] **les anticorps** — os anticorpos
+- [ ] **les conditions de travail** — as condições de trabalho
+- [ ] **les droits civils** — os direitos civis
+- [ ] **les émissions de CO2** — as emissões de CO2
+- [ ] **les espèces menacées** — as espécies ameaçadas
+- [ ] **les heures supplémentaires** — as horas extras
+- [ ] **les particules fines** — as partículas finas
+- [ ] **les services en ligne** — os serviços online
+- [ ] **les transports publics** — os transportes públicos
+- [ ] **maintenir** — manter
+- [ ] **majuscule** — maiúsculo / enorme
+- [ ] **manifeste** — manifesto
+- [ ] **marginal** — marginal
+- [ ] **matériel** — material
+- [ ] **mécontent** — descontente
+- [ ] **mélioratif** — positivo / elogioso
+- [ ] **mépriser** — desprezar
+- [ ] **métamorphoser** — metamorfosear
+- [ ] **méticuleux** — meticuloso
+- [ ] **mettre en péril** — pôr em perigo
+- [ ] **mettre l’accent** — enfatizar
+- [ ] **milier** — militar
+- [ ] **minimal** — mínimo
+- [ ] **minimiser** — minimizar
+- [ ] **mitiger** — mitigar
+- [ ] **moissonner** — ceifar / colher
+- [ ] **morose** — sombrio / taciturno
+- [ ] **mouvementé** — movimentado / agitado
+- [ ] **nain** — anão
+- [ ] **navrant** — lamentável / comovente
+- [ ] **négligé** — descuidado
+- [ ] **négligent** — negligente
+- [ ] **nettement** — nitidamente / claramente
+- [ ] **neutre** — neutro
+- [ ] **nocif** — prejudicial
+- [ ] **nonobstant** — não obstante
+- [ ] **notable** — notável
+- [ ] **notoire** — notório
+- [ ] **nourrissant** — nutritivo
+- [ ] **nuisible** — nocivo
+- [ ] **obsolète** — obsoleto
+- [ ] **occasionnellement** — ocasionalmente
+- [ ] **octroyer** — outorgar / conceder
+- [ ] **oisif** — ocioso
+- [ ] **onéreux** — oneroso
+- [ ] **opposé** — oposto
+- [ ] **optimal** — ótimo
+- [ ] **ouïr** — ouvir (literário)
+- [ ] **pallier** — contornar / suprir
+- [ ] **panthéon** — o Panteão de Paris
+- [ ] **paradoxal** — paradoxal
+- [ ] **partager un avis** — compartilhar uma opinião
+- [ ] **participer** — participar
+- [ ] **passer un examen** — fazer uma prova
+- [ ] **pathétique** — patético
+- [ ] **pendant ce temps** — nesse ínterim
+- [ ] **perceptible** — perceptível
+- [ ] **perdurer** — perdurar
+- [ ] **perpétuer** — perpetuar
+- [ ] **persister** — persistir
+- [ ] **pertinent** — pertinente
+- [ ] **peu nombreux** — pouco numeroso
+- [ ] **piquant** — picante
+- [ ] **plaider** — defender / pleitear
+- [ ] **pliable** — dobrável
+- [ ] **porter atteinte** — prejudicar / atentar contra
+- [ ] **potable** — potável
+- [ ] **pourri** — podre / estragado
+- [ ] **précaire** — precário
+- [ ] **précoce** — precoce
+- [ ] **prédominer** — predominar
+- [ ] **préliminaire** — preliminar
+- [ ] **prendre position** — posicionar-se
+- [ ] **préoccupé** — preocupado
+- [ ] **pressant** — premente / urgente
+- [ ] **prétentieux** — pretensioso
+- [ ] **prévisible** — previsível
+- [ ] **privatif** — privativo
+- [ ] **procéder** — proceder
+- [ ] **productif** — produtivo
+- [ ] **progressiste** — progressista
+- [ ] **proliférer** — proliferar
+- [ ] **prometteur** — promissor
+- [ ] **propager** — propagar
+- [ ] **proportionnel** — proporcional
+- [ ] **proscrire** — proscrever / banir
+- [ ] **prospérer** — prosperar
+- [ ] **provisoirement** — provisoriamente
+- [ ] **quantifier** — quantificar
+- [ ] **rassurant** — tranquilizador
+- [ ] **rationaliser** — racionalizar
+- [ ] **rattacher** — vincular / ligar
+- [ ] **réagir** — reagir
+- [ ] **réalisable** — realizável
+- [ ] **rebelle** — rebelde
+- [ ] **récapituler** — recapitular
+- [ ] **réciproque** — recíproco
+- [ ] **réconfortant** — reconfortante
+- [ ] **recourir** — recorrer
+- [ ] **reculer** — recuar
+- [ ] **rédiger** — redigir
+- [ ] **réduire** — reduzir
+- [ ] **réformer** — reformar
+- [ ] **régir** — reger
+- [ ] **regrouper** — agrupar
+- [ ] **régulièrement** — regularmente
+- [ ] **relater** — relatar
+- [ ] **remettre en cause** — questionar
+- [ ] **renouvelable** — renovável
+- [ ] **renverser** — derrubar / derramar
+- [ ] **répandre** — difundir / espalhar
+- [ ] **repenser** — repensar
+- [ ] **répondre à** — atender / responder a
+- [ ] **repoussant** — repulsivo
+- [ ] **réprimander** — repreender
+- [ ] **résolu** — resoluto / decidido
+- [ ] **respirant** — respirável / arejado
+- [ ] **restreint** — restrito
+- [ ] **résulter** — resultar
+- [ ] **rétorquer** — retorquir
+- [ ] **révélateur** — revelador
+- [ ] **rigoureusement** — rigorosamente
+- [ ] **riposter** — reagir / contra-atacar
+- [ ] **s’accroître** — crescer / aumentar
+- [ ] **s’adapter** — adaptar-se
+- [ ] **s’aggraver** — agravar-se
+- [ ] **s’amplifier** — amplificar-se
+- [ ] **s’efforcer** — esforçar-se
+- [ ] **s’empirer** — piorar
+- [ ] **s’immiscer** — intrometer-se
+- [ ] **s’impliquer** — envolver-se
+- [ ] **s’investir** — investir-se / dedicar-se
+- [ ] **saignant** — mal passado (carne)
+- [ ] **sanctionner** — sancionar
+- [ ] **satisfaisant** — satisfatório
+- [ ] **scruter** — esquadrinhar
+- [ ] **se dégrader** — degradar-se
+- [ ] **se justifier** — justificar-se
+- [ ] **se maintenir** — manter-se
+- [ ] **se mobiliser** — mobilizar-se
+- [ ] **se précipiter** — precipitar-se
+- [ ] **se rebeller** — rebelar-se
+- [ ] **se rendre compte** — dar-se conta
+- [ ] **se stabiliser** — estabilizar-se
+- [ ] **séduisant** — sedutor / atraente
+- [ ] **sensibiliser** — sensibilizar
+- [ ] **sévir** — assolar / agir com rigor
+- [ ] **simpliste** — simplista
+- [ ] **simultanément** — simultaneamente
+- [ ] **soi-disant** — supostamente / pretensamente
+- [ ] **solemnel** — solene
+- [ ] **solliciter** — solicitar
+- [ ] **sommaire** — sumário / resumido
+- [ ] **songer** — pensar / cogitar
+- [ ] **sophistiqué** — sofisticado
+- [ ] **soupçonner** — suspeitar
+- [ ] **souscrire** — subscrever / aderir
+- [ ] **spacieux** — espaçoso
+- [ ] **standardiser** — padronizar
+- [ ] **stimuler** — estimular
+- [ ] **structural** — estrutural
+- [ ] **stupéfiant** — estupefaciente / impressionante
+- [ ] **subit** — súbito
+- [ ] **substantiel** — substancial
+- [ ] **successif** — sucessivo
+- [ ] **succinct** — sucinto
+- [ ] **superflu** — supérfluo
+- [ ] **surmené** — sobrecarregado
+- [ ] **surpasser** — superar
+- [ ] **suspecter** — suspeitar
+- [ ] **symptomatique** — sintomático
+- [ ] **systématique** — sistemático
+- [ ] **tangible** — tangível
+- [ ] **témoigner** — testemunhar
+- [ ] **temporairement** — temporariamente
+- [ ] **terne** — apagado / sem brilho
+- [ ] **tirer profit** — tirar proveito
+- [ ] **tolérer** — tolerar
+- [ ] **tourmenté** — atormentado
+- [ ] **transcrire** — transcrever
+- [ ] **transitoire** — transitório
+- [ ] **transposer** — transpor
+- [ ] **troublant** — perturbador
+- [ ] **turbulent** — turbulento
+- [ ] **ultime** — último / derradeiro
+- [ ] **uniforme** — uniforme
+- [ ] **unilatéral** — unilateral
+- [ ] **vacciner** — vacinar
+- [ ] **valoriser** — valorizar
+- [ ] **vaste** — vasto
+- [ ] **viable** — viável / sustentável
+- [ ] **visqueux** — viscoso
+- [ ] **vivable** — habitável / suportável
+- [ ] **vouer** — dedicar / destinar
+- [ ] **vraisemblablement** — provavelmente
+- [ ] **vulgaire** — vulgar
+- [ ] **vulnérable** — vulnerável
