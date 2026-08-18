@@ -1,10 +1,10 @@
 # #5 Tours — B1
 
-**450 palavras** ainda precisam aparecer nos textos das aulas desta cidade.
+**449 palavras** ainda precisam aparecer nos textos das aulas desta cidade.
 
 Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aventura do Irlan.
 
-## B1 (450)
+## B1 (449)
 
 - [ ] **à la mode** — na moda
 - [ ] **abordable** — acessível / barato
@@ -80,137 +80,136 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **fournir** — fornecer
 - [ ] **fréquemment** — frequentemente
 - [ ] **garder un secret** — guardar um segredo
-- [ ] **généralement** — geralmente
-- [ ] **gérer son budget** — administrar o orçamento
-- [ ] **graduellement** — gradualmente
-- [ ] **habituellement** — habitualmente
-- [ ] **hériter** — herdar
-- [ ] **hypocrite** — hipócrita
-- [ ] **illogique** — ilógico
-- [ ] **imposer** — impor
-- [ ] **impulsif** — impulsivo
-- [ ] **inconfortable** — desconfortável
-- [ ] **indulgent** — indulgente
-- [ ] **infirmer** — invalidar
-- [ ] **insensible** — insensível
-- [ ] **interdire** — proibir
-- [ ] **introverti** — introvertido
-- [ ] **irrégulier** — irregular
-- [ ] **jouer d’un instrument** — tocar um instrumento
-- [ ] **l’abribus** — o ponto de ônibus coberto
-- [ ] **l’acte de naissance** — a certidão de nascimento
-- [ ] **l’addiction aux écrans** — o vício em telas
-- [ ] **l’agence immobilière** — a imobiliária
-- [ ] **l’agression** — a agressão
-- [ ] **l’aide sociale** — a assistência social
-- [ ] **l’allergie** — a alergia
-- [ ] **l’altruisme** — o altruísmo
-- [ ] **l’anesthésie** — a anestesia
-- [ ] **l’antivirus** — o antivírus
-- [ ] **l’application mobile** — o aplicativo móvel
-- [ ] **l’arbitre** — o árbitro
-- [ ] **l’arnaque en ligne** — o golpe online
-- [ ] **l’articulation** — a articulação
-- [ ] **l’association** — a associação
-- [ ] **l’assurance habitation** — o seguro residencial
-- [ ] **l’athlétisme** — o atletismo
-- [ ] **l’attraction** — a atração
-- [ ] **l’auditeur** — o ouvinte
-- [ ] **l’auteur** — o autor
-- [ ] **l’aviron** — o remo
-- [ ] **l’échauffement** — o aquecimento
-- [ ] **l’échographie** — a ultrassonografia
-- [ ] **l’économie d’énergie** — a economia de energia
-- [ ] **l’éditorial** — o editorial
-- [ ] **l’égalité** — a igualdade
-- [ ] **l’emballage** — a embalagem
-- [ ] **l’emploi du temps** — o horário / a grade
-- [ ] **l’énergie éolienne** — a energia eólica
-- [ ] **l’engrais** — o adubo
-- [ ] **l’enseignant** — o docente
-- [ ] **l’entraide** — a ajuda mútua
-- [ ] **l’entretien d’embauche** — a entrevista de emprego
-- [ ] **l’épaisseur** — a espessura
-- [ ] **l’équitation** — a equitação
-- [ ] **l’escalade** — a escalada
-- [ ] **l’espace personnel** — a área pessoal
-- [ ] **l’essence** — a gasolina
-- [ ] **l’estragon** — o estragão
-- [ ] **l’état civil** — o registro civil
-- [ ] **l’évanouissement** — o desmaio
-- [ ] **l’examen médical** — o exame médico
-- [ ] **l’expérience professionnelle** — a experiência profissional
-- [ ] **l’extinction** — a extinção
-- [ ] **l’hésitation** — a hesitação
-- [ ] **l’hybride** — o híbrido
-- [ ] **l’ignorance** — a ignorância
-- [ ] **l’impossibilité** — a impossibilidade
-- [ ] **l’indifférence** — a indiferença
-- [ ] **l’infidélité** — a infidelidade
-- [ ] **l’infraction** — a infração
-- [ ] **l’inquiétude** — a preocupação
-- [ ] **l’insomnie** — a insônia
-- [ ] **l’intention** — a intenção
-- [ ] **l’inutilité** — a inutilidade
-- [ ] **l’isolation** — o isolamento
-- [ ] **l’obésité** — a obesidade
-- [ ] **l’obstacle** — o obstáculo
-- [ ] **l’ONG** — a ONG
-- [ ] **l’opinion publique** — a opinião pública
-- [ ] **l’ordinateur de bureau** — o desktop
-- [ ] **l’organisation** — a organização
-- [ ] **l’urgence** — a emergência
-- [ ] **la banalité** — a banalidade
-- [ ] **la barre de recherche** — a barra de pesquisa
-- [ ] **la bibliothèque universitaire** — a biblioteca universitária
-- [ ] **la boîte de vitesses** — a caixa de marchas
-- [ ] **la borne automatique** — o totem automático
-- [ ] **la boutique en ligne** — a loja online
-- [ ] **la brouette** — o carrinho de mão
-- [ ] **la campagne électorale** — a campanha eleitoral
-- [ ] **la carte d’électeur** — o título de eleitor
-- [ ] **la carte de réduction** — o cartão de desconto
-- [ ] **la catastrophe naturelle** — a catástrofe natural
-- [ ] **la cérémonie d’ouverture** — a cerimônia de abertura
-- [ ] **la chaîne alimentaire** — a cadeia alimentar
-- [ ] **la charnière** — a dobradiça
-- [ ] **la ciboulette** — a cebolinha
-- [ ] **la clairière** — a clareira
-- [ ] **la colère** — a raiva
-- [ ] **la compagnie aérienne** — a companhia aérea
-- [ ] **la complicité** — a cumplicidade
-- [ ] **la confiance en soi** — a autoconfiança
-- [ ] **la connexion sécurisée** — a conexão segura
-- [ ] **la continuité** — a continuidade
-- [ ] **la convocation** — a convocação
-- [ ] **la cotisation** — a contribuição / a mensalidade
-- [ ] **la course à pied** — a corrida
-- [ ] **la crevaison** — o pneu furado
-- [ ] **la date de péremption** — a data de validade
-- [ ] **la déconnexion** — a desconexão
-- [ ] **la démarche administrative** — o procedimento administrativo
-- [ ] **la dépanneuse** — o guincho
-- [ ] **la destination** — o destino
-- [ ] **la deuxième classe** — a segunda classe
-- [ ] **la disponibilité** — a disponibilidade
-- [ ] **la facture d’électricité** — a conta de luz
-- [ ] **la faute** — a falta / o erro
-- [ ] **la file de droite** — a faixa da direita
-- [ ] **la forêt dense** — a floresta densa
-- [ ] **la formation professionnelle** — a formação profissional
-- [ ] **la fourrure** — a pele / o pelo
-- [ ] **la fraude** — a fraude
-- [ ] **la fureur** — a fúria
-- [ ] **la générosité** — a generosidade
-- [ ] **la gravité** — a gravidade
-- [ ] **la hiérarchie** — a hierarquia
-- [ ] **la jungle** — a selva
-- [ ] **la lampe torche** — a lanterna
-- [ ] **la lettre de motivation** — a carta de motivação
-- [ ] **la licence** — a graduação
-- [ ] **la livraison gratuite** — a entrega gratuita
-- [ ] **la loyauté** — a lealdade
-- [ ] **la marche à pied** — a caminhada
+- [ ] **géométrique** — geométrico
+- [ ] **gigantesque** — gigantesco
+- [ ] **gronder** — ralhar / repreender
+- [ ] **hacher** — picar / moer
+- [ ] **hiberner** — hibernar
+- [ ] **idéaliste** — idealista
+- [ ] **imiter** — imitar
+- [ ] **improbable** — improvável
+- [ ] **incertain** — incerto
+- [ ] **incontestée** — incontestável / absoluta
+- [ ] **inférieur** — inferior
+- [ ] **informer** — informar
+- [ ] **instable** — instável
+- [ ] **intervenir** — intervir
+- [ ] **inutile** — inútil
+- [ ] **irresponsable** — irresponsável
+- [ ] **klaxonner** — buzinar
+- [ ] **l’accessoire** — o acessório
+- [ ] **l’activité physique** — a atividade física
+- [ ] **l’affection** — a afeição
+- [ ] **l’agent de police** — o agente de polícia
+- [ ] **l’agriculteur** — o agricultor
+- [ ] **l’alibi** — o álibi
+- [ ] **l’allocation** — o benefício / o subsídio
+- [ ] **l’aluminium** — o alumínio
+- [ ] **l’angoisse** — a angústia
+- [ ] **l’anxiété** — a ansiedade
+- [ ] **l’appréhension** — a apreensão
+- [ ] **l’arbuste** — o arbusto
+- [ ] **l’arrestation** — a prisão
+- [ ] **l’ascenseur en panne** — o elevador quebrado
+- [ ] **l’assurance** — o seguro
+- [ ] **l’assurance maladie** — o seguro-saúde
+- [ ] **l’attestation** — o atestado / a declaração
+- [ ] **l’aube** — a aurora / o amanhecer
+- [ ] **l’augmentation** — o aumento
+- [ ] **l’auto-école** — a autoescola
+- [ ] **l’avis client** — a avaliação do cliente
+- [ ] **l’échéance** — o prazo final
+- [ ] **l’école primaire** — a escola primária
+- [ ] **l’écran tactile** — a tela sensível ao toque
+- [ ] **l’effet** — o efeito
+- [ ] **l’égoïsme** — o egoísmo
+- [ ] **l’embrayage** — a embreagem
+- [ ] **l’employeur** — o empregador
+- [ ] **l’énergie renouvelable** — a energia renovável
+- [ ] **l’enquête** — a investigação
+- [ ] **l’enthousiasme** — o entusiasmo
+- [ ] **l’entraînement** — o treino
+- [ ] **l’environnement** — o meio ambiente
+- [ ] **l’équilibre naturel** — o equilíbrio natural
+- [ ] **l’erreur** — o erro
+- [ ] **l’escrime** — a esgrima
+- [ ] **l’espèce menacée** — a espécie ameaçada
+- [ ] **l’estime de soi** — a autoestima
+- [ ] **l’étable** — o estábulo
+- [ ] **l’état d’âme** — o estado de espírito
+- [ ] **l’examen** — o exame
+- [ ] **l’excursion** — a excursão
+- [ ] **l’expulsion** — a expulsão
+- [ ] **l’habitat naturel** — o habitat natural
+- [ ] **l’honneur** — a honra
+- [ ] **l’hygiène** — a higiene
+- [ ] **l’illettrisme** — o analfabetismo funcional
+- [ ] **l’imprudence** — a imprudência
+- [ ] **l’indisponibilité** — a indisponibilidade
+- [ ] **l’inflammation** — a inflamação
+- [ ] **l’injustice** — a injustiça
+- [ ] **l’inscription** — a matrícula
+- [ ] **l’inspecteur** — o inspetor
+- [ ] **l’interdiction** — a proibição
+- [ ] **l’IRM** — a ressonância magnética
+- [ ] **l’isolement** — o isolamento
+- [ ] **l’objectif** — o objetivo
+- [ ] **l’office du tourisme** — o posto de turismo
+- [ ] **l’onglet** — a aba
+- [ ] **l’optimisme** — o otimismo
+- [ ] **l’ordre du jour** — a pauta
+- [ ] **l’origan** — o orégano
+- [ ] **l’urne** — a urna
+- [ ] **la bande d’arrêt d’urgence** — o acostamento
+- [ ] **la bassine** — a bacia
+- [ ] **la biodiversité** — a biodiversidade
+- [ ] **la bonne affaire** — a pechincha
+- [ ] **la bourse d’études** — a bolsa de estudos
+- [ ] **la brève** — a nota curta
+- [ ] **la bureaucratie** — a burocracia
+- [ ] **la candidature** — a candidatura
+- [ ] **la carte d’embarquement** — o cartão de embarque
+- [ ] **la carte mémoire** — o cartão de memória
+- [ ] **la célébrité** — a fama / a celebridade
+- [ ] **la cérémonie de clôture** — a cerimônia de encerramento
+- [ ] **la chaîne de radio** — a estação de rádio
+- [ ] **la chute d’eau** — a cachoeira
+- [ ] **la circulation sanguine** — a circulação sanguínea
+- [ ] **la clarté** — a clareza
+- [ ] **la colonne vertébrale** — a coluna vertebral
+- [ ] **la compétition** — a competição
+- [ ] **la concierge** — a zeladora / a porteira
+- [ ] **la confidentialité** — a confidencialidade
+- [ ] **la consultation** — a consulta
+- [ ] **la convalescence** — a convalescença
+- [ ] **la copropriété** — o condomínio
+- [ ] **la couronne** — a coroa
+- [ ] **la crainte** — o receio
+- [ ] **la cyberintimidation** — o cyberbullying
+- [ ] **la déclaration** — a declaração
+- [ ] **la démarche** — o procedimento / a iniciativa
+- [ ] **la démission** — a demissão (pedida)
+- [ ] **la désinformation** — a desinformação
+- [ ] **la dette** — a dívida
+- [ ] **la dimension** — a dimensão
+- [ ] **la douleur** — a dor
+- [ ] **la fausse nouvelle** — a notícia falsa
+- [ ] **la fidélité** — a fidelidade
+- [ ] **la filière** — a área / o curso
+- [ ] **la formation** — a formação
+- [ ] **la foulure** — a torção
+- [ ] **la fraternité** — a fraternidade
+- [ ] **la fuite d’eau** — o vazamento de água
+- [ ] **la garniture** — o recheio
+- [ ] **la grange** — o celeiro
+- [ ] **la haine** — o ódio
+- [ ] **la jardinière** — a jardineira / o vaso
+- [ ] **la laine** — a lã
+- [ ] **la largeur** — a largura
+- [ ] **la liberté de la presse** — a liberdade de imprensa
+- [ ] **la livraison à domicile** — a entrega em domicílio
+- [ ] **la longueur** — o comprimento
+- [ ] **la manifestation** — a manifestação
 - [ ] **la maternelle** — a educação infantil
 - [ ] **la mayonnaise** — a maionese
 - [ ] **la médaille de bronze** — a medalha de bronze
@@ -427,32 +426,32 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **robuste** — robusto
 - [ ] **rompre un contrat** — quebrar um contrato
 - [ ] **s’angoisser** — angustiar-se
-- [ ] **s’enregistrer** — fazer check-in
-- [ ] **s’établir** — estabelecer-se
-- [ ] **s’exiler** — exilar-se
-- [ ] **sage** — sábio / comportado
-- [ ] **sauf si** — a não ser que
-- [ ] **se dérouler** — decorrer / transcorrer
-- [ ] **se mettre à** — começar a
-- [ ] **se repentir** — arrepender-se
-- [ ] **se spécialiser** — especializar-se
-- [ ] **sédentaire** — sedentário
-- [ ] **semblable** — semelhante
-- [ ] **serein** — sereno
-- [ ] **signer une pétition** — assinar um abaixo-assinado
-- [ ] **solitaire** — solitário
-- [ ] **soumettre** — submeter
-- [ ] **soutenir une cause** — apoiar uma causa
-- [ ] **spontané** — espontâneo
-- [ ] **subir** — sofrer / passar por
-- [ ] **suivre la commande** — acompanhar o pedido
-- [ ] **sur-mesure** — sob medida / personalizado
-- [ ] **télécharger une application** — baixar um aplicativo
-- [ ] **terroir** — o terroir / solo regional
-- [ ] **tomber amoureux** — apaixonar-se
-- [ ] **tourner un film** — rodar um filme
-- [ ] **triangulaire** — triangular
-- [ ] **trouver la solution** — encontrar a solução
-- [ ] **urgent** — urgente
-- [ ] **venger** — vingar
-- [ ] **vis-à-vis** — em relação a
+- [ ] **s’entendre bien** — dar-se bem
+- [ ] **s’étirer** — alongar-se
+- [ ] **s’indigner** — indignar-se
+- [ ] **saigner** — sangrar
+- [ ] **sauvegarder** — salvaguardar
+- [ ] **se faire vacciner** — vacinar-se
+- [ ] **se réjouir** — alegrar-se
+- [ ] **se sentir bien** — sentir-se bem
+- [ ] **se venger** — vingar-se
+- [ ] **séduire** — seduzir
+- [ ] **semer** — semear
+- [ ] **sévère** — severo
+- [ ] **simplifier** — simplificar
+- [ ] **soudainement** — subitamente
+- [ ] **soumis** — submisso
+- [ ] **spécialement** — especialmente
+- [ ] **stressant** — estressante
+- [ ] **subitement** — de repente
+- [ ] **suivre un traitement** — seguir um tratamento
+- [ ] **survivre** — sobreviver
+- [ ] **temporaire** — temporário
+- [ ] **têtu** — teimoso
+- [ ] **totalement** — totalmente
+- [ ] **travailler à distance** — trabalhar remotamente
+- [ ] **tricher** — trapacear
+- [ ] **typique** — típico
+- [ ] **vaincre** — vencer
+- [ ] **vérifier les faits** — verificar os fatos
+- [ ] **volumineux** — volumoso

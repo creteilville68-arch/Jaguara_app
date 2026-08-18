@@ -1,10 +1,10 @@
 # #7 Toulouse — B2
 
-**1019 palavras** ainda precisam aparecer nos textos das aulas desta cidade.
+**1018 palavras** ainda precisam aparecer nos textos das aulas desta cidade.
 
 Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aventura do Irlan.
 
-## B2 (1019)
+## B2 (1018)
 
 - [ ] **à cet égard** — a esse respeito
 - [ ] **à mesure que** — à medida que
@@ -615,214 +615,213 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **la rémunération** — a remuneração
 - [ ] **la rénovation urbaine** — a renovação urbana
 - [ ] **la répercussion** — a repercussão
-- [ ] **la résistance aux antibiotiques** — a resistência aos antibióticos
-- [ ] **la résolution de problèmes** — a resolução de problemas
-- [ ] **la ressource** — o recurso
-- [ ] **la restriction** — a restrição
-- [ ] **la revendication** — a reivindicação
-- [ ] **la richesse nationale** — a riqueza nacional
-- [ ] **la rivalité** — a rivalidade
-- [ ] **la robustesse** — a robustez
-- [ ] **la santé mentale** — a saúde mental
-- [ ] **la scolarité** — a escolaridade
-- [ ] **la sécurité publique** — a segurança pública
-- [ ] **la sentence** — a sentença
-- [ ] **la séparation des pouvoirs** — a separação dos poderes
-- [ ] **la situation** — a situação
-- [ ] **la société de consommation** — a sociedade de consumo
-- [ ] **la solidité** — a solidez
-- [ ] **la sortie de l’hôpital** — a alta hospitalar
-- [ ] **la soumission** — a submissão
-- [ ] **la souveraineté** — a soberania
-- [ ] **la stagnation** — a estagnação
-- [ ] **la strophe** — a estrofe
-- [ ] **la substance** — a substância
-- [ ] **la suggestion** — a sugestão
-- [ ] **la supposition** — a suposição
-- [ ] **la surconsommation** — o consumo excessivo
-- [ ] **la sûreté** — a segurança
-- [ ] **la surveillance de masse** — a vigilância em massa
-- [ ] **la suspicion** — a suspeita
-- [ ] **la synagogue** — a sinagoga
-- [ ] **la synthèse** — a síntese
-- [ ] **la témérité** — a temeridade
-- [ ] **la tension** — a tensão
-- [ ] **la texture** — a textura
-- [ ] **la théorie de l’évolution** — a teoria da evolução
-- [ ] **la timidité** — a timidez
-- [ ] **la tonalité** — a tonalidade
-- [ ] **la tour métallique** — torre metálica
-- [ ] **la transcription** — a transcrição
-- [ ] **la transfusion** — a transfusão
-- [ ] **la transition énergétique** — a transição energética
-- [ ] **la TVA** — o IVA (imposto sobre valor agregado)
-- [ ] **la valorisation des déchets** — a valorização dos resíduos
-- [ ] **la vanne** — comporta, válvula (substantivo feminino)
-- [ ] **la vengeance** — a vingança
-- [ ] **la vie associative** — a vida associativa
-- [ ] **la vigilance** — a vigilância
-- [ ] **la ville intelligente** — a cidade inteligente
-- [ ] **la vitalité** — a vitalidade
-- [ ] **la voiture autonome** — o carro autônomo
-- [ ] **la xénophobie** — a xenofobia
-- [ ] **la zone industrielle** — a zona industrial
-- [ ] **la zone rurale** — a zona rural
-- [ ] **lâcher** — soltar
-- [ ] **largement** — amplamente
-- [ ] **le balanço** — balanço (substantivo masculino)
-- [ ] **le beau-frère** — o cunhado
-- [ ] **le best-seller** — o best-seller
-- [ ] **le bien-être psychologique** — o bem-estar psicológico
-- [ ] **le bilan** — o balanço / o saldo
-- [ ] **le bio** — o orgânico / o bio
-- [ ] **le bon sens** — o bom senso
-- [ ] **le briquetier** — tijoleiro (substantivo masculino)
-- [ ] **le cabinet médical** — o consultório médico
-- [ ] **le casque de vélo** — o capacete de bicicleta
-- [ ] **le CDD** — o contrato por tempo determinado
-- [ ] **le chamboulement** — a reviravolta
-- [ ] **le charbon** — o carvão
-- [ ] **le choix** — a escolha
-- [ ] **le chômage** — o desemprego
-- [ ] **le circuit court** — o circuito curto
-- [ ] **le clonage** — a clonagem
-- [ ] **le code pénal** — o código penal
-- [ ] **le commencement** — o começo
-- [ ] **le comportement** — o comportamento
-- [ ] **le compostage** — a compostagem
-- [ ] **le concept** — o conceito
-- [ ] **le conflit** — o conflito
-- [ ] **le conformisme** — o conformismo
-- [ ] **le congé parental** — a licença parental
-- [ ] **le consensus** — o consenso
-- [ ] **le contexte** — o contexto
-- [ ] **le contrat à durée indéterminée** — o contrato por tempo indeterminado
-- [ ] **le courant artistique** — a corrente artística
-- [ ] **le coût de la vie** — o custo de vida
-- [ ] **le critère** — o critério
-- [ ] **le cursus** — o percurso / o currículo
-- [ ] **le débit** — a fluência / a velocidade
-- [ ] **le déclencheur** — o gatilho / o estopim
-- [ ] **le décrochage scolaire** — a evasão escolar
-- [ ] **le délit d’initié** — o uso de informação privilegiada
-- [ ] **le département** — o departamento
-- [ ] **le dérèglement climatique** — a perturbação climática
-- [ ] **le désarroi** — a desolação / a perplexidade
-- [ ] **le désintéressement** — o desinteresse / o altruísmo
-- [ ] **le désordre** — a desordem
-- [ ] **le développement** — o desenvolvimento
-- [ ] **le devoir de mémoire** — o dever de memória
-- [ ] **le diabète** — o diabetes
-- [ ] **le différend** — a divergência
-- [ ] **le discours** — o discurso
-- [ ] **le divertissement** — o entretenimento
-- [ ] **le document historique** — o documento histórico
-- [ ] **le don d’organe** — a doação de órgãos
-- [ ] **le fait historique** — o fato histórico
-- [ ] **le feedback** — o retorno / o feedback
-- [ ] **le folklore** — o folclore
-- [ ] **le foyer** — o lar
-- [ ] **le gain** — o ganho
-- [ ] **le gaspillage alimentaire** — o desperdício de alimentos
-- [ ] **le gaz naturel** — o gás natural
-- [ ] **le gène** — o gene
-- [ ] **le genre littéraire** — o gênero literário
-- [ ] **le gestionnaire** — o gestor
-- [ ] **le gône** — gône (lionense, em dialeto local)
-- [ ] **le handicap** — a deficiência
-- [ ] **le harcèlement en ligne** — o assédio online
-- [ ] **le haut débit** — a banda larga
-- [ ] **le journalisme d’investigation** — o jornalismo investigativo
-- [ ] **le langage corporel** — a linguagem corporal
-- [ ] **le lectorat** — o público leitor
-- [ ] **le libre-échange** — o livre-comércio
-- [ ] **le litige** — o litígio
-- [ ] **le localisme** — o localismo
-- [ ] **le loisir créatif** — o lazer criativo
-- [ ] **le mal-logement** — a moradia precária
-- [ ] **le malentendu** — o mal-entendido
-- [ ] **le marché du travail** — o mercado de trabalho
-- [ ] **le matériel informatique** — o hardware
-- [ ] **le mentorat** — a mentoria
-- [ ] **le meurtre** — o assassinato
-- [ ] **le milieu urbain** — o meio urbano
-- [ ] **le mobilier urbain** — o mobiliário urbano
-- [ ] **le multiculturalisme** — o multiculturalismo
-- [ ] **le neveu** — o sobrinho
-- [ ] **le nombre** — o número
-- [ ] **le numérique** — o digital
-- [ ] **le partenaire** — o parceiro
-- [ ] **le parti pris** — o partido tomado / a parcialidade
-- [ ] **le patrimoine culturel** — o patrimônio cultural
-- [ ] **le perfectionnement** — o aperfeiçoamento
-- [ ] **le personnel soignant** — o pessoal de saúde
-- [ ] **le pétrole** — o petróleo
-- [ ] **le piège** — a armadilha
-- [ ] **le plaignant** — o queixoso / o autor
-- [ ] **le pluralisme** — o pluralismo
-- [ ] **le point commun** — o ponto em comum
-- [ ] **le point fort** — o ponto forte
-- [ ] **le potentiel** — o potencial
-- [ ] **le pourvoi** — o recurso
-- [ ] **le préalable** — o pré-requisito
-- [ ] **le pressentiment** — o pressentimento
-- [ ] **le prestige** — o prestígio
-- [ ] **le procès équitable** — o julgamento justo
-- [ ] **le produit intérieur brut** — o produto interno bruto
-- [ ] **le progrès** — o progresso
-- [ ] **le pronostic** — o prognóstico
-- [ ] **le protectionnisme** — o protecionismo
-- [ ] **le prototype** — o protótipo
-- [ ] **le psychologue** — o psicólogo
-- [ ] **le racisme** — o racismo
-- [ ] **le rassemblement** — a reunião / o ajuntamento
-- [ ] **le reboisement** — o reflorestamento
-- [ ] **le réchauffement global** — o aquecimento global
-- [ ] **le recruteur** — o recrutador
-- [ ] **le référendum** — o referendo
-- [ ] **le registre** — o registro
-- [ ] **le registre familier** — o registro familiar
-- [ ] **le relief** — o relevo
-- [ ] **le renseignement** — a informação / o esclarecimento
-- [ ] **le réseau ferroviaire** — a malha ferroviária
-- [ ] **le ressentiment** — o ressentimento
-- [ ] **le rétablissement** — o restabelecimento / a recuperação
-- [ ] **le rite** — o rito
-- [ ] **le rôle** — o papel / a função
-- [ ] **le sacrifice** — o sacrifício
-- [ ] **le salon de coiffure** — o salão de cabeleireiro
-- [ ] **le savoir-être** — o saber-ser
-- [ ] **le scepticisme** — o ceticismo
-- [ ] **le secourisme** — o socorrismo
-- [ ] **le secteur** — o setor
-- [ ] **le secteur tertiaire** — o setor terciário
-- [ ] **le sénat** — o senado
-- [ ] **le service** — o serviço / o setor
-- [ ] **le sevrage** — a abstinência / o desmame
-- [ ] **le site archéologique** — o sítio arqueológico
-- [ ] **le sociologue** — o sociólogo
-- [ ] **le souci** — a preocupação
-- [ ] **le sous-entendu** — o subentendido
-- [ ] **le stéréotype** — o estereótipo
-- [ ] **le suivi médical** — o acompanhamento médico
-- [ ] **le surmenage** — o excesso de trabalho
-- [ ] **le suspense** — o suspense
-- [ ] **le synonyme** — o sinônimo
-- [ ] **le système de santé** — o sistema de saúde
-- [ ] **le taux d’intérêt** — a taxa de juros
-- [ ] **le technicien** — o técnico
-- [ ] **le temps partiel** — o meio período
-- [ ] **le test** — o teste
-- [ ] **le tirage** — a tiragem
-- [ ] **le tort** — o dano / a culpa
-- [ ] **le tournant** — a virada / o ponto de inflexão
-- [ ] **le traducteur** — o tradutor
-- [ ] **le traité** — o tratado
-- [ ] **le traitement médiatique** — o tratamento midiático
-- [ ] **le tri sélectif** — a coleta seletiva
-- [ ] **le trouble** — o transtorno
-- [ ] **le tutorat** — a tutoria
-- [ ] **le veau** — a vitela
+- [ ] **la résolution** — a resolução
+- [ ] **la responsabilité** — a responsabilidade
+- [ ] **la ressource naturelle** — o recurso natural
+- [ ] **la réussite scolaire** — o sucesso escolar
+- [ ] **la révision** — a revisão
+- [ ] **la rime** — a rima
+- [ ] **la robotique** — a robótica
+- [ ] **la saleté** — a sujeira
+- [ ] **la santé publique** — a saúde pública
+- [ ] **la sécurité au travail** — a segurança no trabalho
+- [ ] **la sensibilisation** — a conscientização
+- [ ] **la séparation de corps** — a separação de corpos
+- [ ] **la sévérité** — a severidade
+- [ ] **la sobriété énergétique** — a sobriedade energética
+- [ ] **la solidarité** — a solidariedade
+- [ ] **la solution** — a solução
+- [ ] **la souffrance** — o sofrimento
+- [ ] **la source historique** — a fonte histórica
+- [ ] **la spécialisation** — a especialização
+- [ ] **la start-up** — a startup
+- [ ] **la stupéfaction** — a estupefação
+- [ ] **la subvention** — o subsídio
+- [ ] **la superstition** — a superstição
+- [ ] **la surcharge de travail** — a sobrecarga de trabalho
+- [ ] **la surdité** — a surdez
+- [ ] **la surexploitation** — a superexploração
+- [ ] **la susceptibilité** — a suscetibilidade
+- [ ] **la symbolique** — a simbólica
+- [ ] **la syntaxe** — a sintaxe
+- [ ] **la tactique** — a tática
+- [ ] **la ténacité** — a tenacidade
+- [ ] **la tentative** — a tentativa
+- [ ] **la théorie** — a teoria
+- [ ] **la thérapie** — a terapia
+- [ ] **la tolérance** — a tolerância
+- [ ] **la tornade** — o tornado
+- [ ] **la traduction** — a tradução
+- [ ] **la transformation numérique** — a transformação digital
+- [ ] **la transition** — a transição
+- [ ] **la truite** — a truta
+- [ ] **la vaccination** — a vacinação
+- [ ] **la vanité** — a vaidade
+- [ ] **la vapeur** — o vapor
+- [ ] **la vérification** — a verificação
+- [ ] **la vieillesse** — a velhice
+- [ ] **la vigueur** — o vigor
+- [ ] **la visée** — o propósito / a intenção
+- [ ] **la voirie** — a via pública
+- [ ] **la volonté** — a vontade
+- [ ] **la zone commerciale** — a zona comercial
+- [ ] **la zone résidentielle** — a zona residencial
+- [ ] **la zone urbaine** — a zona urbana
+- [ ] **lamentable** — lamentável
+- [ ] **lavable** — lavável
+- [ ] **le baroque** — o barroco
+- [ ] **le beau-père** — o sogro / o padrasto
+- [ ] **le bien commun** — o bem comum
+- [ ] **le big data** — o big data
+- [ ] **le bilinguisme** — o bilinguismo
+- [ ] **le bocal** — o vidro / o pote
+- [ ] **le bouleversement** — a reviravolta / o transtorno
+- [ ] **le burn-out** — a síndrome de burnout
+- [ ] **le cadet** — o caçula / o mais novo
+- [ ] **le castelet** — castelet (palco de marionetes)
+- [ ] **le CDI** — o contrato por tempo indeterminado
+- [ ] **le chaos** — o caos
+- [ ] **le chiffre d’affaires** — o faturamento
+- [ ] **le cholestérol** — o colesterol
+- [ ] **le chômeur de longue durée** — o desempregado de longa duração
+- [ ] **le classicisme** — o classicismo
+- [ ] **le code civil** — o código civil
+- [ ] **le collectivisme** — o coletivismo
+- [ ] **le commerce électronique** — o comércio eletrônico
+- [ ] **le compost** — o composto
+- [ ] **le comptable** — o contador
+- [ ] **le conditionnement** — o condicionamento
+- [ ] **le conflit social** — o conflito social
+- [ ] **le congé maladie** — a licença médica
+- [ ] **le conjoint** — o cônjuge
+- [ ] **le contentement** — o contentamento
+- [ ] **le contrat à durée déterminée** — o contrato por tempo determinado
+- [ ] **le contre-argument** — o contra-argumento
+- [ ] **le cours en ligne** — o curso online
+- [ ] **le créancier** — o credor
+- [ ] **le cryptage** — a criptografia
+- [ ] **le cyclone** — o ciclone
+- [ ] **le débiteur** — o devedor
+- [ ] **le déclin** — o declínio
+- [ ] **le déficit** — o déficit
+- [ ] **le dénouement** — o desfecho
+- [ ] **le dépôt** — o depósito
+- [ ] **le désaccord** — o desacordo
+- [ ] **le déshonneur** — a desonra
+- [ ] **le désintérêt** — o desinteresse
+- [ ] **le dessein** — o desígnio / o intento
+- [ ] **le développeur** — o desenvolvedor
+- [ ] **le dévouement** — a dedicação
+- [ ] **le dialogue** — o diálogo
+- [ ] **le diplômé** — o formado / o diplomado
+- [ ] **le dispositif** — o dispositivo / o mecanismo
+- [ ] **le dividende** — o dividendo
+- [ ] **le dogme** — o dogma
+- [ ] **le dynamisme** — o dinamismo
+- [ ] **le fédéralisme** — o federalismo
+- [ ] **le financement** — o financiamento
+- [ ] **le formateur** — o formador / o instrutor
+- [ ] **le fruit de mer** — o fruto do mar
+- [ ] **le gant de toilette** — a luva de banho
+- [ ] **le gaz à effet de serre** — o gás de efeito estufa
+- [ ] **le gendre** — o genro
+- [ ] **le génome** — o genoma
+- [ ] **le geste éco-citoyen** — o gesto ecocidadão
+- [ ] **le gibier** — a caça (carne)
+- [ ] **le gouvernement** — o governo
+- [ ] **le harcèlement** — o assédio
+- [ ] **le harcèlement moral** — o assédio moral
+- [ ] **le jargon** — o jargão
+- [ ] **le jugement** — o julgamento
+- [ ] **le laps de temps** — o intervalo de tempo
+- [ ] **le leitmotiv** — o leitmotiv / o tema recorrente
+- [ ] **le lien social** — o vínculo social
+- [ ] **le lobby** — o lobby
+- [ ] **le logement social** — a habitação social
+- [ ] **le mal-être** — o mal-estar
+- [ ] **le malaise** — o mal-estar
+- [ ] **le mandat** — o mandato
+- [ ] **le marché financier** — o mercado financeiro
+- [ ] **le média** — a mídia / o meio
+- [ ] **le métavers** — o metaverso
+- [ ] **le milieu rural** — o meio rural
+- [ ] **le militant écologiste** — o militante ecológico
+- [ ] **le monopole** — o monopólio
+- [ ] **le mythe** — o mito
+- [ ] **le niveau de vie** — o padrão de vida
+- [ ] **le notaire** — o tabelião / o notário
+- [ ] **le parc naturel** — o parque natural
+- [ ] **le parti politique** — o partido político
+- [ ] **le patois** — o patoá
+- [ ] **le patrimoine historique** — o patrimônio histórico
+- [ ] **le perfectionnisme** — o perfeccionismo
+- [ ] **le petit pois** — a ervilha
+- [ ] **le phénomène** — o fenômeno
+- [ ] **le piratage** — o hackeamento
+- [ ] **le plébiscite** — o plebiscito
+- [ ] **le plurilinguisme** — o plurilinguismo
+- [ ] **le point faible** — o ponto fraco
+- [ ] **le poste à pourvoir** — a vaga a preencher
+- [ ] **le pourcentage** — a porcentagem
+- [ ] **le pouvoir d’achat** — o poder de compra
+- [ ] **le préambule** — o preâmbulo
+- [ ] **le pressing** — a lavanderia (a seco)
+- [ ] **le procédé** — o processo / o procedimento
+- [ ] **le procureur** — o promotor
+- [ ] **le programme scolaire** — o programa escolar
+- [ ] **le progrès technique** — o progresso técnico
+- [ ] **le protagoniste** — o protagonista
+- [ ] **le protocole** — o protocolo
+- [ ] **le psychiatre** — o psiquiatra
+- [ ] **le quartier des affaires** — bairro de negócios
+- [ ] **le raisonnement** — o raciocínio
+- [ ] **le réalisme** — o realismo
+- [ ] **le rebondissement** — a reviravolta
+- [ ] **le réconfort** — o consolo / o reconforto
+- [ ] **le redoublement** — a repetência
+- [ ] **le réflexe** — o reflexo
+- [ ] **le registre courant** — o registro corrente
+- [ ] **le registre soutenu** — o registro culto
+- [ ] **le rendement** — o rendimento
+- [ ] **le reproche** — a reprovação / a censura
+- [ ] **le réseau routier** — a malha viária
+- [ ] **le résumé** — o resumo
+- [ ] **le retentissement** — a repercussão / o impacto
+- [ ] **le robot** — o robô
+- [ ] **le romantisme** — o romantismo
+- [ ] **le salaire minimum** — o salário mínimo
+- [ ] **le sans-abri** — o morador de rua
+- [ ] **le scandale** — o escândalo
+- [ ] **le schéma** — o esquema
+- [ ] **le secours** — o socorro
+- [ ] **le secteur primaire** — o setor primário
+- [ ] **le séjour hospitalier** — a internação
+- [ ] **le sentiment d’appartenance** — o sentimento de pertencimento
+- [ ] **le seuil** — o limiar / o limite
+- [ ] **le sexisme** — o sexismo
+- [ ] **le smog** — a névoa de poluição
+- [ ] **le sotaque** — sotaque (substantivo masculino)
+- [ ] **le soupçon** — a suspeita
+- [ ] **le soutien** — o apoio
+- [ ] **le suffrage** — o sufrágio
+- [ ] **le sujet** — o assunto
+- [ ] **le surréalisme** — o surrealismo
+- [ ] **le syndrome** — a síndrome
+- [ ] **le système de retraite** — o sistema de aposentadoria
+- [ ] **le système immunitaire** — o sistema imunológico
+- [ ] **le taux de chômage** — a taxa de desemprego
+- [ ] **le témoignage** — o testemunho
+- [ ] **le temps plein** — o período integral
+- [ ] **le thème** — o tema
+- [ ] **le tissu associatif** — a rede associativa
+- [ ] **le totalitarisme** — o totalitarismo
+- [ ] **le tracas** — o aborrecimento / a preocupação
+- [ ] **le train de banlieue** — o trem suburbano
+- [ ] **le traitement des données** — o processamento de dados
+- [ ] **le transport intelligent** — o transporte inteligente
+- [ ] **le trophée** — o troféu
+- [ ] **le trouble du sommeil** — o distúrbio do sono
+- [ ] **le typhon** — o tufão
 - [ ] **le ver à soie** — bicho-da-seda
 - [ ] **le vieillissement** — o envelhecimento
 - [ ] **le vocabulaire** — o vocabulário

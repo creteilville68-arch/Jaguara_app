@@ -1,10 +1,10 @@
 # #11 Nice — C2
 
-**5161 palavras** ainda precisam aparecer nos textos das aulas desta cidade.
+**5160 palavras** ainda precisam aparecer nos textos das aulas desta cidade.
 
 Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aventura do Irlan.
 
-## C2 (5161)
+## C2 (5160)
 
 - [ ] **abâtardir** — abastardar
 - [ ] **abductif** — abdutivo
@@ -778,7 +778,6 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **ferrer** — ferrar; calçar
 - [ ] **fervent** — fervoroso
 - [ ] **festoyer** — banquetear; festejar
-- [ ] **feuilleter** — folhear
 - [ ] **feutré** — abafado
 - [ ] **fiancer** — noivar
 - [ ] **ficeler** — amarrar; atar
@@ -2490,7 +2489,6 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **la morphogenèse** — a morfogênese
 - [ ] **la mouffette** — a gambá
 - [ ] **la moulure** — a moldura
-- [ ] **la mousse** — o musgo
 - [ ] **la mousse à raser** — a espuma de barbear
 - [ ] **la mousse des bois** — o musgo do bosque
 - [ ] **la mousseline** — a musseline
@@ -4043,6 +4041,7 @@ Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aven
 - [ ] **le roman courtois** — o romance cortês
 - [ ] **le romancier** — o romancista
 - [ ] **le rondeau** — o rondó
+- [ ] **le rosier** — a roseira
 - [ ] **le rôtisseur** — o assador
 - [ ] **le roucoulement** — o arrulho
 - [ ] **le rouge-gorge** — o pisco-de-peito-ruivo
