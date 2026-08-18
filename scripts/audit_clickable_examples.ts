@@ -3,13 +3,15 @@
  *
  * Regra do produto: toda palavra clicável — dourada (vocabularyDictionary) ou
  * pontilhada (palavra do banco CEFR presente no texto) — deve abrir o modal com
- * exatamente 4 exemplos progressivos bem elaborados (A1 → A2-B1 → B2 → C1-C2).
+ * exatamente 4 exemplos progressivos (A1 → A2-B1 → B2 → C1-C2).
  *
- * Este script reproduz EXATAMENTE a resolução usada em runtime
- * (parseFrenchSentence → getOrGenerateWordEntry → generatePracticalExamplesForWord
- *  + MASTER_EXAMPLES), percorre as aulas por cidade e aponta:
- *   - palavras destacadas sem 4 exemplos (o gargalo dos flashcards);
- *   - exemplos com fr/pt vazios.
+ * A partir do parser de clique (parseClickableSentence), uma palavra pontilhada
+ * só é destacada quando os 4 exemplos já existem. Este script mede, por cidade:
+ *   - douradas: total e quantas têm os 4 exemplos;
+ *   - pontilhadas clicáveis: total (todas já têm os 4 exemplos por construção);
+ *   - BACKLOG: palavras do banco CEFR que aparecem no texto mas ainda NÃO têm
+ *     os 4 exemplos (e por isso ficam como texto normal até serem curadas no
+ *     masterExamplesDictionary).
  *
  * Uso:
  *   bun run scripts/audit_clickable_examples.ts          # todas as cidades
@@ -18,15 +20,15 @@
 import fs from 'fs';
 import path from 'path';
 import { parseFrenchSentence, getTermFromEntry } from '../src/utils/textParser';
+import { lookupWordBankEntry } from '../src/data/wordBankLookup';
 
 const DATA_DIR = path.join(process.cwd(), 'src', 'data');
 const CITY_ARG = (process.argv[2] || '').trim().toLowerCase();
 
-interface MissingEntry {
+interface BacklogEntry {
   city: string;
   lesson: string;
   term: string;
-  kind: 'dourada' | 'pontilhada';
   examplesCount: number;
   level?: string;
 }
@@ -34,15 +36,14 @@ interface MissingEntry {
 interface CityStats {
   lessons: number;
   goldWords: number;
-  dottedWords: number;
-  goldOk: number;
-  dottedOk: number;
   goldMissing: number;
-  dottedMissing: number;
+  clickableDotted: number;
+  backlog: number;
+  noise: number;
 }
 
 const cityStats = new Map<string, CityStats>();
-const missing: MissingEntry[] = [];
+const backlog: BacklogEntry[] = [];
 
 function cityOf(fileName: string): string {
   return fileName.replace(/_lesson_\d+\.json$/, '');
@@ -53,23 +54,20 @@ function statsFor(city: string): CityStats {
     cityStats.set(city, {
       lessons: 0,
       goldWords: 0,
-      dottedWords: 0,
-      goldOk: 0,
-      dottedOk: 0,
       goldMissing: 0,
-      dottedMissing: 0,
+      clickableDotted: 0,
+      backlog: 0,
+      noise: 0,
     });
   }
   return cityStats.get(city)!;
 }
 
-function validExamples(examples: any[] | undefined): { count: number; ok: boolean } {
-  if (!Array.isArray(examples)) return { count: 0, ok: false };
-  const count = examples.length;
-  const ok =
-    count === 4 &&
-    examples.every((e) => (e?.fr || '').toString().trim() && (e?.pt || '').toString().trim());
-  return { count, ok };
+function hasFourCompleteExamples(examples: any[] | undefined): boolean {
+  if (!Array.isArray(examples) || examples.length !== 4) return false;
+  return examples.every(
+    (e) => (e?.fr || '').toString().trim() && (e?.pt || '').toString().trim()
+  );
 }
 
 function auditLessonFile(filePath: string): void {
@@ -80,8 +78,7 @@ function auditLessonFile(filePath: string): void {
   let data: any;
   try {
     data = JSON.parse(fs.readFileSync(filePath, 'utf8').replace(/^\uFEFF/, ''));
-  } catch (e) {
-    console.error(`[ERRO] JSON inválido: ${fileName} → ${String(e).slice(0, 120)}`);
+  } catch {
     return;
   }
 
@@ -92,8 +89,8 @@ function auditLessonFile(filePath: string): void {
   const vocabDict = Array.isArray(data.vocabularyDictionary) ? data.vocabularyDictionary : [];
   const paragraphs = Array.isArray(data.paragraphs) ? data.paragraphs : [];
 
-  // Mapa de termos → melhor entrada (para pegar o nível quando disponível).
-  const seen = new Map<string, { kind: 'dourada' | 'pontilhada'; entry: any }>();
+  // Dedup por termo (dourada tem prioridade sobre pontilhada).
+  const seen = new Map<string, { kind: 'dourada' | 'pontilhada'; entry: any; text: string }>();
 
   for (const para of paragraphs) {
     const fr = (para?.fr || '').toString().trim();
@@ -106,45 +103,41 @@ function auditLessonFile(filePath: string): void {
       if (!term || !term.trim()) continue;
       const key = term.trim().toLowerCase();
       const kind = token.isDictionaryTerm ? 'dourada' : 'pontilhada';
-      // Dedup por termo: mantém a primeira ocorrência (dourada tem prioridade).
       if (!seen.has(key)) {
-        seen.set(key, { kind, entry: token.dictionaryEntry });
+        seen.set(key, { kind, entry: token.dictionaryEntry, text: token.text });
       } else if (kind === 'dourada' && seen.get(key)!.kind === 'pontilhada') {
-        seen.set(key, { kind, entry: token.dictionaryEntry });
+        seen.set(key, { kind, entry: token.dictionaryEntry, text: token.text });
       }
     }
   }
 
-  for (const [term, { kind, entry }] of seen) {
-    const { count, ok } = validExamples(entry.examples);
+  for (const [term, { kind, entry, text }] of seen) {
     if (kind === 'dourada') {
       st.goldWords += 1;
-      if (ok) st.goldOk += 1;
-      else {
+      if (!hasFourCompleteExamples(entry.examples)) {
         st.goldMissing += 1;
-        missing.push({
-          city,
-          lesson: lessonId,
-          term,
-          kind,
-          examplesCount: count,
-          level: entry.difficultyLevel,
-        });
       }
+      continue;
+    }
+
+    // Pontilhada: aplica a regra do parser de clique.
+    if (hasFourCompleteExamples(entry.examples)) {
+      st.clickableDotted += 1;
+      continue;
+    }
+
+    // Sem os 4 exemplos: é vocabulário do banco (backlog) ou ruído?
+    if (lookupWordBankEntry(text)) {
+      st.backlog += 1;
+      backlog.push({
+        city,
+        lesson: lessonId,
+        term,
+        examplesCount: Array.isArray(entry.examples) ? entry.examples.length : 0,
+        level: entry.difficultyLevel,
+      });
     } else {
-      st.dottedWords += 1;
-      if (ok) st.dottedOk += 1;
-      else {
-        st.dottedMissing += 1;
-        missing.push({
-          city,
-          lesson: lessonId,
-          term,
-          kind,
-          examplesCount: count,
-          level: entry.difficultyLevel,
-        });
-      }
+      st.noise += 1;
     }
   }
 }
@@ -162,39 +155,39 @@ console.log(CITY_ARG ? `CIDADE: ${CITY_ARG}` : 'TODAS AS CIDADES');
 console.log('==================================================');
 console.log('');
 
-let totalGoldMissing = 0;
-let totalDottedMissing = 0;
 let totalGold = 0;
-let totalDotted = 0;
+let totalGoldMissing = 0;
+let totalClickable = 0;
+let totalBacklog = 0;
 
 for (const city of cities) {
   const s = cityStats.get(city)!;
   totalGold += s.goldWords;
-  totalDotted += s.dottedWords;
   totalGoldMissing += s.goldMissing;
-  totalDottedMissing += s.dottedMissing;
-  const flag = s.goldMissing + s.dottedMissing > 0 ? '⚠️' : '✅';
+  totalClickable += s.clickableDotted;
+  totalBacklog += s.backlog;
+  const flag = s.goldMissing + s.backlog > 0 ? '⚠️' : '✅';
   console.log(
-    `${flag} ${city.padEnd(20)} aulas=${String(s.lessons).padStart(3)} | douradas=${String(s.goldWords).padStart(4)} (faltam ${String(s.goldMissing).padStart(3)}) | pontilhadas=${String(s.dottedWords).padStart(4)} (faltam ${String(s.dottedMissing).padStart(3)})`
+    `${flag} ${city.padEnd(20)} aulas=${String(s.lessons).padStart(3)} | douradas=${String(s.goldWords).padStart(4)} (faltam ${String(s.goldMissing).padStart(2)}) | pontilhadas clicáveis=${String(s.clickableDotted).padStart(4)} | backlog de exemplos=${String(s.backlog).padStart(4)} | ruído ignorado=${String(s.noise).padStart(4)}`
   );
 }
 
 console.log('');
 console.log('--- TOTAIS ---');
-console.log(`Douradas destacadas: ${totalGold} (sem 4 exemplos: ${totalGoldMissing})`);
-console.log(`Pontilhadas destacadas: ${totalDotted} (sem 4 exemplos: ${totalDottedMissing})`);
-console.log(`Palavras destacadas com problema: ${missing.length}`);
+console.log(`Douradas: ${totalGold} (sem 4 exemplos: ${totalGoldMissing})`);
+console.log(`Pontilhadas clicáveis (já com 4 exemplos): ${totalClickable}`);
+console.log(`Backlog (palavras do banco no texto sem 4 exemplos): ${totalBacklog}`);
 console.log('');
 
-if (missing.length > 0) {
-  console.log('--- PALAVRAS SEM 4 EXEMPLOS (até 200) ---');
-  for (const m of missing.slice(0, 200)) {
+if (backlog.length > 0) {
+  console.log('--- BACKLOG (até 200): palavras do banco que precisam dos 4 exemplos ---');
+  for (const b of backlog.slice(0, 200)) {
     console.log(
-      `[${m.city}] ${m.lesson} · ${m.kind} · "${m.term}" · ${m.examplesCount} exemplo(s)${m.level ? ' · ' + m.level : ''}`
+      `[${b.city}] ${b.lesson} · "${b.term}" · ${b.examplesCount} exemplo(s)${b.level ? ' · ' + b.level : ''}`
     );
   }
-  if (missing.length > 200) {
-    console.log(`... e mais ${missing.length - 200} (ver relatório JSON)`);
+  if (backlog.length > 200) {
+    console.log(`... e mais ${backlog.length - 200} (ver relatório JSON)`);
   }
 }
 
@@ -203,15 +196,12 @@ const report = {
   city: CITY_ARG || 'all',
   totals: {
     goldWords: totalGold,
-    dottedWords: totalDotted,
     goldMissing: totalGoldMissing,
-    dottedMissing: totalDottedMissing,
-    missingHighlightedWords: missing.length,
+    clickableDotted: totalClickable,
+    backlog: totalBacklog,
   },
-  byCity: Object.fromEntries(
-    cities.map((c) => [c, cityStats.get(c)!])
-  ),
-  missing,
+  byCity: Object.fromEntries(cities.map((c) => [c, cityStats.get(c)!])),
+  backlog,
 };
 fs.writeFileSync(
   path.join(process.cwd(), 'scripts', 'clickable_examples_report.json'),

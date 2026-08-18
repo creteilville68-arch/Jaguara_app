@@ -22,7 +22,8 @@ import {
   ArrowRight
 } from 'lucide-react';
 import parisLessonData from '../data/paris_lesson_1.json';
-import { parseFrenchSentence, DictionaryEntry, getTermFromEntry } from '../utils/textParser';
+import { DictionaryEntry, getTermFromEntry } from '../utils/textParser';
+import { parseClickableSentence } from '../utils/clickableParser';
 import { StorageService } from '../services/storageService';
 
 export interface LessonReaderProps {
@@ -387,7 +388,7 @@ export const LessonReader: React.FC<LessonReaderProps> = ({
                   const sentenceKey = `para_${paragraph.id}_s_${sIdx}`;
                   const isAdded = addedFlashcards[sentenceKey];
                   const sentencePt = sentencesPt[sIdx] || '';
-                  const tokens = parseFrenchSentence(
+                  const tokens = parseClickableSentence(
                     sentenceFr,
                     lessonData.vocabularyDictionary
                   );
