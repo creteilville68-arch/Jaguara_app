@@ -7,7 +7,7 @@
   "titlePt": "A Bastilha dos mares: o Mont prisão",
   "subtitleFr": "De 1793 à 1863, l'abbaye est devenue une prison",
   "subtitlePt": "De 1793 a 1863, a abadia virou uma prisão",
-  "summaryPt": "Nesta Aula 27 (A2/B1), a família descobre um capítulo sombrio do Mont: durante a Revolução e depois, de 1793 a 1863, a abadia serviu de prisão, apelidada de 'Bastille des mers'. O aluno pratica o contraste entre o passado da prisão (les prisonniers travaillaient) e o presente de visita (aujourd'hui, les visiteurs se promènent).",
+  "summaryPt": "Nesta Aula 27 (A2/B1), o casal descobre um capítulo sombrio do Mont: durante a Revolução e depois, de 1793 a 1863, a abadia serviu de prisão, apelidada de 'Bastille des mers'. O aluno pratica o contraste entre o passado da prisão (les prisonniers travaillaient) e o presente de visita (aujourd'hui, les visiteurs se promènent).",
   "paragraphs": [
     {
       "id": 1,
@@ -26,8 +26,48 @@
     },
     {
       "id": 4,
-      "fr": "« Aujourd'hui, la prison est fermée depuis 1863 », a conclu Andréa. « Les visiteurs se promènent dans les salles où vivaient les prisonniers. » Íris a frissonné.",
-      "pt": "« Hoje, a prisão está fechada desde 1863 », concluiu Andréa. « Os visitantes passeiam nas salas onde viviam os prisioneiros. » Íris estremeceu."
+      "fr": "« Aujourd'hui, la prison est fermée depuis 1863 », a conclu Andréa. « Les visiteurs se promènent dans les salles où vivaient les prisonniers. » Irlan a frissonné.",
+      "pt": "« Hoje, a prisão está fechada desde 1863 », concluiu Andréa. « Os visitantes passeiam nas salas onde viviam os prisioneiros. » Irlan estremeceu."
+    },
+    {
+      "id": 5,
+      "fr": "« Fermer une abbaye pour en faire une prison, c'était briser mille ans de silence », a murmuré Irlan. « La paille remplaçait les chants. »",
+      "pt": "« Fechar uma abadia para transformá-la em prisão era quebrar mil anos de silêncio », murmurou Irlan. « A palha substituía os cantos. »"
+    },
+    {
+      "id": 6,
+      "fr": "« L'histoire du Mont a des pages sombres », a dit Andréa. « Mais il faut les raconter aussi. »",
+      "pt": "« A história do Mont tem páginas sombrias », disse Andréa. « Mas é preciso contá-las também. »"
+    },
+    {
+      "id": 7,
+      "fr": "« Chaque pierre a connu la prière et la peine », a ajouté Irlan. « C'est pour cela qu'elles frissonnent encore. »",
+      "pt": "« Cada pedra conheceu a oração e o sofrimento », acrescentou Irlan. « É por isso que elas ainda estremecem. »"
+    },
+    {
+      "id": 8,
+      "fr": "« On frissonne devant l'histoire », a dit Andréa. « C'est ainsi qu'elle reste vivante. »",
+      "pt": "« Estremece-se diante da história », disse Andréa. « É assim que ela permanece viva. »"
+    },
+    {
+      "id": 9,
+      "fr": "Irlan a regardé une cellule étroite. « La planche dit que l'homme au manteau gris cherche une cellule précise. »",
+      "pt": "Irlan olhou uma cela estreita. « A prancha diz que o homem de sobretudo cinza procura uma cela precisa. »"
+    },
+    {
+      "id": 10,
+      "fr": "« Celle d'Armand Barbès ? » a demandé Andréa. « Non. Une cellule oubliée, avec une marque sur le mur. »",
+      "pt": "« A de Armand Barbès? » perguntou Andréa. « Não. Uma cela esquecida, com uma marca na parede. »"
+    },
+    {
+      "id": 11,
+      "fr": "« Une marque comme la nôtre », a murmuré Irlan. « Le gué est dessiné quelque part dans ces murs. »",
+      "pt": "« Uma marca como a nossa », murmurou Irlan. « O vau está desenhado em algum lugar dessas paredes. »"
+    },
+    {
+      "id": 12,
+      "fr": "« Alors l'histoire nous montre la sortie », a dit Andréa. « Même dans la prison, il y a une lumière. » Ils sont ressortis, silencieux.",
+      "pt": "« Então a história nos mostra a saída », disse Andréa. « Mesmo na prisão, há uma luz. » Eles saíram, silenciosos."
     }
   ],
   "vocabularyDictionary": [
@@ -169,7 +209,7 @@
       "ptTargets": ["estremecer", "tremer"],
       "examples": [
         { "level": "A1", "fr": "Je frissonne de froid.", "pt": "Estremeço de frio." },
-        { "level": "A2-B1", "fr": "Íris a frissonné dans la salle des prisons.", "pt": "Íris estremeceu na sala das prisões." },
+        { "level": "A2-B1", "fr": "Irlan a frissonné dans la salle des prisons.", "pt": "Irlan estremeceu na sala das prisões." },
         { "level": "B2", "fr": "On frissonne en pensant à la vie des prisonniers.", "pt": "Estremece-se pensando na vida dos prisioneiros." },
         { "level": "C1-C2", "fr": "Frissonner devant l'histoire, c'est la comprendre avec son corps.", "pt": "Estremecer diante da história é compreendê-la com o corpo." }
       ]

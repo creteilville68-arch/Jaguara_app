@@ -7,7 +7,7 @@
   "titlePt": "Victor Hugo e o Mont",
   "subtitleFr": "En 1836, l'écrivain a visité la prison et la Merveille",
   "subtitlePt": "Em 1836, o escritor visitou a prisão e a Merveille",
-  "summaryPt": "Nesta Aula 28 (A2/B1), a família descobre que Victor Hugo visitou o Mont em 1836, quando ainda era prisão, e escreveu sobre sua beleza. O aluno pratica o vocabulário da literatura (l'écrivain, le roman, le poème) e o relato no passado (Hugo est venu, il a écrit).",
+  "summaryPt": "Nesta Aula 28 (A2/B1), o casal descobre que Victor Hugo visitou o Mont em 1836, quando ainda era prisão, e escreveu sobre sua beleza. O aluno pratica o vocabulário da literatura (l'écrivain, le roman, le poème) e o relato no passado (Hugo est venu, il a écrit).",
   "paragraphs": [
     {
       "id": 1,
@@ -21,13 +21,53 @@
     },
     {
       "id": 3,
-      "fr": "Íris a demandé : « Il a écrit des histoires pour les enfants ? » « Il a écrit des romans et des poèmes », a souri Irlan. « Peut-être qu'un jour, tu liras ses livres. »",
-      "pt": "Íris perguntou: « Ele escreveu histórias para crianças? » « Ele escreveu romances e poemas », sorriu Irlan. « Talvez um dia você leia os livros dele. »"
+      "fr": "Andréa a demandé : « Il a écrit des histoires pour les enfants ? » « Il a écrit des romans et des poèmes », a souri Irlan. « Peut-être qu'un jour, nous lirons ses livres ensemble. »",
+      "pt": "Andréa perguntou: « Ele escreveu histórias para crianças? » « Ele escreveu romances e poemas », sorriu Irlan. « Talvez um dia leiamos seus livros juntos. »"
     },
     {
       "id": 4,
-      "fr": "La famille a regardé la baie depuis la terrasse. « Quand Hugo regardait cette vue, il ne savait pas que ses mots sauveraient le Mont », a murmuré Irlan. « Les mots ont du pouvoir. »",
-      "pt": "A família olhou a baía do terraço. « Quando Hugo olhava esta vista, não sabia que suas palavras salvariam o Mont », murmurou Irlan. « As palavras têm poder. »"
+      "fr": "Le couple a regardé la baie depuis la terrasse. « Quand Hugo regardait cette vue, il ne savait pas que ses mots sauveraient le Mont », a murmuré Irlan. « Les mots ont du pouvoir. »",
+      "pt": "O casal olhou a baía do terraço. « Quando Hugo olhava esta vista, não sabia que suas palavras salvariam o Mont », murmurou Irlan. « As palavras têm poder. »"
+    },
+    {
+      "id": 5,
+      "fr": "« Un écrivain célèbre peut sauver des pierres », a dit Andréa. « Son regard a changé le regard de tout un pays. »",
+      "pt": "« Um escritor famoso pode salvar pedras », disse Andréa. « Seu olhar mudou o olhar de todo um país. »"
+    },
+    {
+      "id": 6,
+      "fr": "« Lire, c'est voyager sans bouger », a ajouté Irlan. « Hugo a fait voyager des millions de lecteurs jusqu'ici. »",
+      "pt": "« Ler é viajar sem sair do lugar », acrescentou Irlan. « Hugo fez milhões de leitores viajarem até aqui. »"
+    },
+    {
+      "id": 7,
+      "fr": "« Protéger le Mont, c'est protéger un poème de pierre », a murmuré Andréa. « Chaque arcade est un vers. »",
+      "pt": "« Proteger o Mont é proteger um poema de pedra », murmurou Andréa. « Cada arcada é um verso. »"
+    },
+    {
+      "id": 8,
+      "fr": "« Le miracle, c'est que tout tient debout », a dit Irlan. « Sur un rocher, face au vent, depuis mille ans. »",
+      "pt": "« O milagre é que tudo permanece de pé », disse Irlan. « Sobre um rochedo, diante do vento, há mil anos. »"
+    },
+    {
+      "id": 9,
+      "fr": "Irlan a posé l'Atlas sur la terrasse. « La planche cite un vers : la mer et la nuit gardent le chemin. »",
+      "pt": "Irlan pousou o Atlas no terraço. « A prancha cita um verso: o mar e a noite guardam o caminho. »"
+    },
+    {
+      "id": 10,
+      "fr": "« C'est une phrase de Hugo ? » a demandé Andréa. « Peut-être. Ou une phrase du géographe qui a dessiné l'Atlas. »",
+      "pt": "« É uma frase de Hugo? » perguntou Andréa. « Talvez. Ou uma frase do geógrafo que desenhou o Atlas. »"
+    },
+    {
+      "id": 11,
+      "fr": "« Le pouvoir des mots cache le pouvoir des cartes », a dit Irlan. « Et la carte cache le gué. »",
+      "pt": "« O poder das palavras esconde o poder dos mapas », disse Irlan. « E o mapa esconde o vau. »"
+    },
+    {
+      "id": 12,
+      "fr": "« Alors nous lirons la baie comme un livre », a souri Andréa. « Et demain, nous tournerons la page. » Ils ont quitté la terrasse.",
+      "pt": "« Então leremos a baía como um livro », sorriu Andréa. « E amanhã, viraremos a página. » Eles deixaram o terraço."
     }
   ],
   "vocabularyDictionary": [
@@ -130,7 +170,7 @@
       "ptTargets": ["terraço"],
       "examples": [
         { "level": "A1", "fr": "La terrasse est grande.", "pt": "O terraço é grande." },
-        { "level": "A2-B1", "fr": "La famille a regardé la baie depuis la terrasse.", "pt": "A família olhou a baía do terraço." },
+        { "level": "A2-B1", "fr": "Le couple a regardé la baie depuis la terrasse.", "pt": "O casal olhou a baía do terraço." },
         { "level": "B2", "fr": "De la terrasse, on voyait toute la baie.", "pt": "Do terraço, via-se toda a baía." },
         { "level": "C1-C2", "fr": "Sur la terrasse, le vent raconte mille ans d'histoires.", "pt": "No terraço, o vento conta mil anos de histórias." }
       ]
