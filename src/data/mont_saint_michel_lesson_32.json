@@ -7,7 +7,7 @@
   "titlePt": "Os artesãos da Grande Rue",
   "subtitleFr": "Potiers, sculpteurs et fabricants de souvenirs : les mains du Mont",
   "subtitlePt": "Ceramistas, escultores e fabricantes de lembranças: as mãos do Mont",
-  "summaryPt": "Nesta Aula 32 (A2/B1), a família observa os artesãos que trabalham na Grande Rue: um ceramista molda argila, um escultor talha a madeira, um fabricante de doces prepara os famosos biscoitos. O aluno pratica a descrição de profissões e de gestos no imparfait (il travaillait, il façonnait) e o vocabulário do trabalho manual.",
+  "summaryPt": "Nesta Aula 32 (A2/B1), o casal observa os artesãos que trabalham na Grande Rue: um ceramista molda argila, um escultor talha a madeira, um fabricante de doces prepara os famosos biscoitos. O aluno pratica a descrição de profissões e de gestos no imparfait (il travaillait, il façonnait) e o vocabulário do trabalho manual.",
   "paragraphs": [
     {
       "id": 1,
@@ -21,13 +21,53 @@
     },
     {
       "id": 3,
-      "fr": "Le fabricant de gâteaux préparait les biscuits aux amandes. L'odeur remplissait la rue. Íris a demandé : « On peut goûter ? » Tout le monde a ri.",
-      "pt": "O fabricante de bolos preparava os biscoitos de amêndoa. O cheiro enchia a rua. Íris perguntou: « Podemos provar? » Todos riram."
+      "fr": "Le fabricant de gâteaux préparait les biscuits aux amandes. L'odeur remplissait la rue. Andréa a demandé : « On peut goûter ? » Tout le monde a ri.",
+      "pt": "O fabricante de bolos preparava os biscoitos de amêndoa. O cheiro enchia a rua. Andréa perguntou: « Podemos provar? » Todos riram."
     },
     {
       "id": 4,
       "fr": "« Quand je livrais des colis, je voyais les artisans travailler par les fenêtres », a dit Irlan. « Aujourd'hui, je prends le temps de les regarder. »",
       "pt": "« Quando entregava pacotes, via os artesãos trabalhando pelas janelas », disse Irlan. « Hoje, tiro tempo para observá-los. »"
+    },
+    {
+      "id": 5,
+      "fr": "« Chaque artisan transmet un savoir ancien », a dit Andréa. « Le geste du potier est le même depuis des siècles. »",
+      "pt": "« Cada artesão transmite um saber antigo », disse Andréa. « O gesto do ceramista é o mesmo há séculos. »"
+    },
+    {
+      "id": 6,
+      "fr": "« Façonner l'argile, tailler le granit, pétrir les biscuits », a ajouté Irlan. « C'est la mémoire des mains. »",
+      "pt": "« Moldar a argila, talhar o granito, sovar os biscoitos », acrescentou Irlan. « É a memória das mãos. »"
+    },
+    {
+      "id": 7,
+      "fr": "« L'odeur du biscuit chaud appelle les visiteurs », a souri Andréa. « Personne ne résiste. »",
+      "pt": "« O cheiro do biscoito quente chama os visitantes », sorriu Andréa. « Ninguém resiste. »"
+    },
+    {
+      "id": 8,
+      "fr": "« Goûter le travail d'un artisan, c'est respecter ses mains », a dit Irlan. « Chaque bouchée raconte une journée. »",
+      "pt": "« Provar o trabalho de um artesão é respeitar suas mãos », disse Irlan. « Cada mordida conta um dia. »"
+    },
+    {
+      "id": 9,
+      "fr": "Le potier a levé les yeux. « Vous cherchez le gué ? L'homme au manteau gris est passé. Il a acheté un petit pot. »",
+      "pt": "O ceramista ergueu os olhos. « Procuram o vau? O homem de sobretudo cinza passou. Comprou um potinho. »"
+    },
+    {
+      "id": 10,
+      "fr": "« Un pot ? » a demandé Irlan. « Oui, un pot avec une carte gravée dessus », a répondu le potier. « Il ne l'a pas laissé voir. »",
+      "pt": "« Um pote? » perguntou Irlan. « Sim, um pote com um mapa gravado », respondeu o ceramista. « Ele não deixou ninguém ver. »"
+    },
+    {
+      "id": 11,
+      "fr": "« Il cherche la même carte que nous », a murmuré Andréa. « L'Atlas n'est pas le seul. »",
+      "pt": "« Ele procura o mesmo mapa que nós », murmurou Andréa. « O Atlas não é o único. »"
+    },
+    {
+      "id": 12,
+      "fr": "« Alors nous devons le devancer », a dit Irlan. « Demain, avant l'aube. » Ils ont remercié l'artisan.",
+      "pt": "« Então devemos chegar antes dele », disse Irlan. « Amanhã, antes do amanhecer. » Eles agradeceram ao artesão."
     }
   ],
   "vocabularyDictionary": [
@@ -143,7 +183,7 @@
       "ptTargets": ["provar"],
       "examples": [
         { "level": "A1", "fr": "Je goûte le gâteau.", "pt": "Provo o bolo." },
-        { "level": "A2-B1", "fr": "Íris a demandé si on pouvait goûter.", "pt": "Íris perguntou se podiam provar." },
+        { "level": "A2-B1", "fr": "Andréa a demandé si on pouvait goûter.", "pt": "Andréa perguntou se podiam provar." },
         { "level": "B2", "fr": "Goûtez ces biscuits, ils sont faits à la main.", "pt": "Provem estes biscoitos, são feitos à mão." },
         { "level": "C1-C2", "fr": "Goûter le travail d'un artisan, c'est respecter ses mains.", "pt": "Provar o trabalho de um artesão é respeitar suas mãos." }
       ]
@@ -208,10 +248,10 @@
       },
       {
         "ruleTitle": "Demander à + infinitif : demander la permission",
-        "explanationPt": "'Demander à + infinitif' = pedir para: 'Íris a demandé à goûter' (Íris pediu para provar). Também: 'demander si' (perguntar se): 'elle a demandé si on pouvait goûter'.",
-        "exampleFr": "Íris a demandé si on pouvait goûter les biscuits.",
-        "examplePt": "Íris perguntou se podiam provar os biscoitos.",
-        "practiceQuestion": "Complete: « Íris a demandé ___ on pouvait goûter. »",
+        "explanationPt": "'Demander à + infinitif' = pedir para: 'Andréa a demandé à goûter' (Andréa pediu para provar). Também: 'demander si' (perguntar se): 'elle a demandé si on pouvait goûter'.",
+        "exampleFr": "Andréa a demandé si on pouvait goûter les biscuits.",
+        "examplePt": "Andréa perguntou se podiam provar os biscoitos.",
+        "practiceQuestion": "Complete: « Andréa a demandé ___ on pouvait goûter. »",
         "options": ["si", "que", "qui"],
         "correctIndex": 0
       }
@@ -237,13 +277,13 @@
       "explanation": "O escultor taillait o granito para fazer estátuas do Mont."
     },
     {
-      "question": "O que Íris pediu ao fabricante de gâteaux?",
+      "question": "O que Andréa pediu ao fabricante de gâteaux?",
       "options": ["Para provar os biscoitos", "Para levar um pote", "Para ver o forno"],
       "correctIndex": 0,
-      "explanation": "Íris perguntou se podiam goûter (provar) os biscoitos de amêndoa."
+      "explanation": "Andréa perguntou se podiam goûter (provar) os biscoitos de amêndoa."
     },
     {
-      "question": "Complete: « Íris a demandé ___ on pouvait goûter. »",
+      "question": "Complete: « Andréa a demandé ___ on pouvait goûter. »",
       "options": ["si", "que", "qui"],
       "correctIndex": 0,
       "explanation": "'Demander si' — perguntar se."

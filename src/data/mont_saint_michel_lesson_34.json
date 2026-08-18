@@ -7,27 +7,67 @@
   "titlePt": "A noite estrelada: o Mont sob as estrelas",
   "subtitleFr": "Quand la nuit tombe, le ciel de la baie se couvre d'étoiles",
   "subtitlePt": "Quando a noite cai, o céu da baía se cobre de estrelas",
-  "summaryPt": "Nesta Aula 34 (A2/B1), a família sobe aos remparts à noite e contempla as estrelas. Sem as luzes da cidade, o céu da baía é imenso. Irlan conta que aprendeu as constelações com seu pai no Brasil. O aluno pratica a descrição noturna no imparfait (les étoiles brillaient, le silence régnait).",
+  "summaryPt": "Nesta Aula 34 (A2/B1), o casal sobe aos remparts à noite e contempla as estrelas. Sem as luzes da cidade, o céu da baía é imenso. Irlan conta que aprendeu as constelações com seu pai no Brasil. O aluno pratica a descrição noturna no imparfait (les étoiles brillaient, le silence régnait).",
   "paragraphs": [
     {
       "id": 1,
-      "fr": "La nuit, la famille est montée sur les remparts. Le ciel était immense et plein d'étoiles. « À Paris, on ne voit presque pas d'étoiles », a dit Irlan. « Ici, c'est un autre monde. »",
-      "pt": "À noite, a família subiu às muralhas. O céu estava imenso e cheio de estrelas. « Em Paris, quase não se veem estrelas », disse Irlan. « Aqui, é outro mundo. »"
+      "fr": "La nuit, le couple est monté sur les remparts. Le ciel était immense et plein d'étoiles. « À Paris, on ne voit presque pas d'étoiles », a dit Irlan. « Ici, c'est un autre monde. »",
+      "pt": "À noite, o casal subiu às muralhas. O céu estava imenso e cheio de estrelas. « Em Paris, quase não se veem estrelas », disse Irlan. « Aqui, é outro mundo. »"
     },
     {
       "id": 2,
-      "fr": "« Quand j'étais petit, au Brésil, mon père me montrait les constellations », a raconté Irlan. « Il connaissait toutes les étoiles. » Il a montré la Grande Ourse à Íris.",
-      "pt": "« Quando eu era pequeno, no Brasil, meu pai me mostrava as constelações », contou Irlan. « Ele conhecia todas as estrelas. » Ele mostrou a Ursa Maior a Íris."
+      "fr": "« Quand j'étais petit, au Brésil, mon père me montrait les constellations », a raconté Irlan. « Il connaissait toutes les étoiles. » Il a montré la Grande Ourse à Andréa.",
+      "pt": "« Quando eu era pequeno, no Brasil, meu pai me mostrava as constelações », contou Irlan. « Ele conhecia todas as estrelas. » Ele mostrou a Ursa Maior a Andréa."
     },
     {
       "id": 3,
-      "fr": "Les étoiles brillaient au-dessus de la mer. Le phare de Chausey clignotait au loin. « On dirait une autre étoile », a chuchoté Íris.",
-      "pt": "As estrelas brilhavam sobre o mar. O farol de Chausey piscava ao longe. « Parece outra estrela », sussurrou Íris."
+      "fr": "Les étoiles brillaient au-dessus de la mer. Le phare de Chausey clignotait au loin. « On dirait une autre étoile », a chuchoté Andréa.",
+      "pt": "As estrelas brilhavam sobre o mar. O farol de Chausey piscava ao longe. « Parece outra estrela », sussurrou Andréa."
     },
     {
       "id": 4,
-      "fr": "« Le géographe regarde les étoiles et il sait où il est », a souri Irlan. « Moi, je regarde les étoiles et je sais où je veux être : ici, avec vous. »",
-      "pt": "« O geógrafo olha as estrelas e sabe onde está », sorriu Irlan. « Eu olho as estrelas e sei onde quero estar: aqui, com vocês. »"
+      "fr": "« Le géographe regarde les étoiles et il sait où il est », a souri Irlan. « Moi, je regarde les étoiles et je sais où je veux être : ici, avec toi. »",
+      "pt": "« O geógrafo olha as estrelas e sabe onde está », sorriu Irlan. « Eu olho as estrelas e sei onde quero estar: aqui, com você. »"
+    },
+    {
+      "id": 5,
+      "fr": "« Les étoiles guidaient les marins et les pèlerins », a dit Andréa. « Elles ne se perdent jamais. »",
+      "pt": "« As estrelas guiavam os marinheiros e os peregrinos », disse Andréa. « Elas nunca se perdem. »"
+    },
+    {
+      "id": 6,
+      "fr": "« La Grande Ourse montre le nord », a ajouté Irlan. « Et le nord montre le chemin du gué. »",
+      "pt": "« A Ursa Maior mostra o norte », acrescentou Irlan. « E o norte mostra o caminho do vau. »"
+    },
+    {
+      "id": 7,
+      "fr": "« Le souvenir de mon père et des étoiles du Brésil me suit partout », a murmuré Irlan. « Ici, le ciel est le même, mais plus proche. »",
+      "pt": "« A lembrança do meu pai e das estrelas do Brasil me acompanha por toda parte », murmurou Irlan. « Aqui, o céu é o mesmo, mas mais próximo. »"
+    },
+    {
+      "id": 8,
+      "fr": "« Le phare clignote comme une étoile qui répond », a dit Andréa. « La terre et le ciel se parlent. »",
+      "pt": "« O farol pisca como uma estrela que responde », disse Andréa. « A terra e o céu se falam. »"
+    },
+    {
+      "id": 9,
+      "fr": "Irlan a sorti l'Atlas. « La planche aligne trois étoiles avec le phare et la porte du gué. Regarde. »",
+      "pt": "Irlan tirou o Atlas. « A prancha alinha três estrelas com o farol e a porta do vau. Olha. »"
+    },
+    {
+      "id": 10,
+      "fr": "« Une constellation inventée par le géographe », a murmuré Andréa. « Trois points, une ligne, un passage. »",
+      "pt": "« Uma constelação inventada pelo geógrafo », murmurou Andréa. « Três pontos, uma linha, uma passagem. »"
+    },
+    {
+      "id": 11,
+      "fr": "« L'homme au manteau gris connaît peut-être ces trois points », a dit Irlan. « Mais il ne connaît pas la ligne. »",
+      "pt": "« O homem de sobretudo cinza talvez conheça esses três pontos », disse Irlan. « Mas ele não conhece a linha. »"
+    },
+    {
+      "id": 12,
+      "fr": "« Demain, les étoiles nous auront guidés », a chuchoté Andréa. « Et la mer fera le reste. » Ils sont restés sous le ciel immense.",
+      "pt": "« Amanhã, as estrelas terão nos guiado », sussurrou Andréa. « E o mar fará o resto. » Eles ficaram sob o céu imenso."
     }
   ],
   "vocabularyDictionary": [
@@ -117,7 +157,7 @@
       "ptTargets": ["Ursa Maior"],
       "examples": [
         { "level": "A1", "fr": "La Grande Ourse est dans le ciel.", "pt": "A Ursa Maior está no céu." },
-        { "level": "A2-B1", "fr": "Irlan a montré la Grande Ourse à Íris.", "pt": "Irlan mostrou a Ursa Maior a Íris." },
+        { "level": "A2-B1", "fr": "Irlan a montré la Grande Ourse à Andréa.", "pt": "Irlan mostrou a Ursa Maior a Andréa." },
         { "level": "B2", "fr": "La Grande Ourse aide à trouver l'étoile polaire.", "pt": "A Ursa Maior ajuda a encontrar a estrela polar." },
         { "level": "C1-C2", "fr": "La Grande Ourse, immuable, veille sur les nuits de la Terre.", "pt": "A Ursa Maior, imutável, vigia as noites da Terra." }
       ]
@@ -169,7 +209,7 @@
       "ptTargets": ["sussurrar"],
       "examples": [
         { "level": "A1", "fr": "Je chuchote un secret.", "pt": "Sussurro um segredo." },
-        { "level": "A2-B1", "fr": "Íris a chuchoté dans la nuit.", "pt": "Íris sussurrou na noite." },
+        { "level": "A2-B1", "fr": "Andréa a chuchoté dans la nuit.", "pt": "Andréa sussurrou na noite." },
         { "level": "B2", "fr": "On chuchotait pour ne pas troubler le silence.", "pt": "Sussurrava-se para não perturbar o silêncio." },
         { "level": "C1-C2", "fr": "Chuchoter sous les étoiles, c'est parler à l'infini.", "pt": "Sussurrar sob as estrelas é falar com o infinito." }
       ]

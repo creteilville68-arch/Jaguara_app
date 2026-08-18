@@ -7,7 +7,7 @@
   "titlePt": "A cozinha normanda: cidra, camembert e trou normand",
   "subtitleFr": "Les pommes, la crème et le calvados : les trésors de la Normandie",
   "subtitlePt": "As maçãs, o creme e o calvados: os tesouros da Normandia",
-  "summaryPt": "Nesta Aula 33 (A2/B1), a família descobre a cozinha da Normandia: o cidre feito de maçãs, o camembert cremoso e o trou normand, um gole de calvados entre os pratos. O aluno pratica o vocabulário da comida e os hábitos no imparfait (on buvait le cidre, on mangeait le camembert).",
+  "summaryPt": "Nesta Aula 33 (A2/B1), o casal descobre a cozinha da Normandia: o cidre feito de maçãs, o camembert cremoso e o trou normand, um gole de calvados entre os pratos. O aluno pratica o vocabulário da comida e os hábitos no imparfait (on buvait le cidre, on mangeait le camembert).",
   "paragraphs": [
     {
       "id": 1,
@@ -16,8 +16,8 @@
     },
     {
       "id": 2,
-      "fr": "« Le camembert est né ici, en Normandie », a expliqué Irlan. « Il est crémeux et on le mange avec du pain. » Íris a fait une petite grimace, puis elle a souri.",
-      "pt": "« O camembert nasceu aqui, na Normandia », explicou Irlan. « Ele é cremoso e se come com pão. » Íris fez uma careta, depois sorriu."
+      "fr": "« Le camembert est né ici, en Normandie », a expliqué Irlan. « Il est crémeux et on le mange avec du pain. » Andréa a fait une petite grimace, puis elle a souri.",
+      "pt": "« O camembert nasceu aqui, na Normandia », explicou Irlan. « Ele é cremoso e se come com pão. » Andréa fez uma careta, depois sorriu."
     },
     {
       "id": 3,
@@ -26,8 +26,48 @@
     },
     {
       "id": 4,
-      "fr": "Irlan a goûté le camembert : « C'est fort, mais c'est bon ! » Andréa a ri : « Quand j'étais petite, ma grand-mère disait : un repas sans camembert est un repas triste. »",
-      "pt": "Irlan provou o camembert: « É forte, mas é bom! » Andréa riu: « Quando eu era pequena, minha avó dizia: uma refeição sem camembert é uma refeição triste. »"
+      "fr": "Irlan a goûté le camembert : « C'est fort, mais c'est bon ! » Andréa a ri : « Quand j'étais petite, ma mère disait : un repas sans camembert est un repas triste. »",
+      "pt": "Irlan provou o camembert: « É forte, mas é bom! » Andréa riu: « Quando eu era pequena, minha mãe dizia: uma refeição sem camembert é uma refeição triste. »"
+    },
+    {
+      "id": 5,
+      "fr": "« Le verger normand donne la pomme, la pomme donne le cidre », a dit Irlan. « Et le cidre raconte la terre. »",
+      "pt": "« O pomar normando dá a maçã, a maçã dá a cidra », disse Irlan. « E a cidra conta a terra. »"
+    },
+    {
+      "id": 6,
+      "fr": "« Le calvados est plus fort, on le boit en petit verre », a ajouté Andréa. « Une goutte de feu des pommes. »",
+      "pt": "« O calvados é mais forte, bebe-se em copo pequeno », acrescentou Andréa. « Uma gota de fogo das maçãs. »"
+    },
+    {
+      "id": 7,
+      "fr": "« Le trou normand, c'est une tradition entre deux plats », a dit Irlan. « Une petite pause pour mieux continuer le repas. »",
+      "pt": "« O trou normand é uma tradição entre dois pratos », disse Irlan. « Uma pequena pausa para continuar melhor a refeição. »"
+    },
+    {
+      "id": 8,
+      "fr": "« La crème de Normandie est aussi célèbre que le fromage », a murmuré Andréa. « On la met sur tout, et tout devient doux. »",
+      "pt": "« O creme da Normandia é tão famoso quanto o queijo », murmurou Andréa. « Coloca-se em tudo, e tudo fica doce. »"
+    },
+    {
+      "id": 9,
+      "fr": "Le serveur s'est penché. « L'homme au manteau gris a dîné ici hier soir. Il a commandé le même fromage et il a demandé la route de la baie. »",
+      "pt": "O garçom se inclinou. « O homem de sobretudo cinza jantou aqui ontem à noite. Pediu o mesmo queijo e perguntou o caminho da baía. »"
+    },
+    {
+      "id": 10,
+      "fr": "« Il prépare sa traversée avec le ventre plein », a dit Irlan. « Il sait que demain sera long. »",
+      "pt": "« Ele prepara sua travessia de barriga cheia », disse Irlan. « Sabe que amanhã será longo. »"
+    },
+    {
+      "id": 11,
+      "fr": "« Nous aussi, nous mangerons bien ce soir », a répondu Andréa. « Mais nous, nous avons la carte. »",
+      "pt": "« Nós também comeremos bem esta noite », respondeu Andréa. « Mas nós temos o mapa. »"
+    },
+    {
+      "id": 12,
+      "fr": "« La carte et la confiance », a souri Irlan. « Demain, la baie sera notre dessert. » Ils ont fini le repas, sereins.",
+      "pt": "« O mapa e a confiança », sorriu Irlan. « Amanhã, a baía será nossa sobremesa. » Eles terminaram a refeição, serenos."
     }
   ],
   "vocabularyDictionary": [
@@ -132,7 +172,7 @@
         { "level": "A1", "fr": "J'aime le fromage.", "pt": "Gosto de queijo." },
         { "level": "A2-B1", "fr": "La France est le pays des fromages.", "pt": "A França é o país dos queijos." },
         { "level": "B2", "fr": "Le camembert est un fromage normand célèbre.", "pt": "O camembert é um queijo normando famoso." },
-        { "level": "C1-C2", "fr": "Un repas sans fromage, disait la grand-mère, est un repas triste.", "pt": "Uma refeição sem queijo, dizia a avó, é uma refeição triste." }
+        { "level": "C1-C2", "fr": "Un repas sans fromage, disait ma mère, est un repas triste.", "pt": "Uma refeição sem queijo, dizia minha mãe, é uma refeição triste." }
       ]
     },
     {
@@ -169,7 +209,7 @@
       "ptTargets": ["careta"],
       "examples": [
         { "level": "A1", "fr": "La grimace est drôle.", "pt": "A careta é engraçada." },
-        { "level": "A2-B1", "fr": "Íris a fait une petite grimace, puis elle a souri.", "pt": "Íris fez uma careta, depois sorriu." },
+        { "level": "A2-B1", "fr": "Andréa a fait une petite grimace, puis elle a souri.", "pt": "Andréa fez uma careta, depois sorriu." },
         { "level": "B2", "fr": "Il a fait une grimace en goûtant le fromage.", "pt": "Ele fez uma careta ao provar o queijo." },
         { "level": "C1-C2", "fr": "La grimace de l'enfant devant le fromage est la plus honnête des critiques.", "pt": "A careta da criança diante do queijo é a mais honesta das críticas." }
       ]
@@ -208,10 +248,10 @@
       },
       {
         "ruleTitle": "Quand j'étais petite : le souvenir de famille",
-        "explanationPt": "'Quand j'étais (IMP) petite, ma grand-mère disait (IMP) : ...' — lembrança de infância com imparfait. As palavras da avó: 'un repas sans camembert est un repas triste'.",
-        "exampleFr": "Quand j'étais petite, ma grand-mère disait qu'un repas sans camembert est triste.",
-        "examplePt": "Quando eu era pequena, minha avó dizia que uma refeição sem camembert é triste.",
-        "practiceQuestion": "Complete: « Quand j'étais petite, ma grand-mère ___ : un repas sans camembert... »",
+        "explanationPt": "'Quand j'étais (IMP) petite, ma mère disait (IMP) : ...' — lembrança de infância com imparfait. As palavras da mãe: 'un repas sans camembert est un repas triste'.",
+        "exampleFr": "Quand j'étais petite, ma mère disait qu'un repas sans camembert est triste.",
+        "examplePt": "Quando eu era pequena, minha mãe dizia que uma refeição sem camembert é triste.",
+        "practiceQuestion": "Complete: « Quand j'étais petite, ma mère ___ : un repas sans camembert... »",
         "options": ["disait", "a dit", "dira"],
         "correctIndex": 0
       }
@@ -243,10 +283,10 @@
       "explanation": "O trou normand é um pequeno copo de calvados tomado entre os pratos para reabrir o apetite."
     },
     {
-      "question": "O que dizia a avó de Andréa sobre o camembert?",
+      "question": "O que dizia a mãe de Andréa sobre o camembert?",
       "options": ["Uma refeição sem camembert é uma refeição triste", "Camembert é só no inverno", "Camembert estraga a sopa"],
       "correctIndex": 0,
-      "explanation": "A avó dizia: 'un repas sans camembert est un repas triste'."
+      "explanation": "A mãe dizia: 'un repas sans camembert est un repas triste'."
     }
   ]
 }
