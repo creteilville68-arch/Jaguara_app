@@ -15,6 +15,12 @@
  */
 import { parseFrenchSentence, ParsedToken } from './textParser';
 import { MASTER_EXAMPLES } from '../data/masterExamplesDictionary';
+import { PARIS_BACKLOG_EXAMPLES } from '../data/masterExamplesParisBacklog';
+
+const ALL_MASTER_EXAMPLES: Record<string, { level: string; fr: string; pt: string }[]> = {
+  ...PARIS_BACKLOG_EXAMPLES,
+  ...MASTER_EXAMPLES,
+};
 
 function fold(s: string): string {
   return s
@@ -37,8 +43,15 @@ export function masterExamplesFor(raw: string): { level: string; fr: string; pt:
     w.replace(/euse$/, 'eux'),
   ];
 
+  // Elision/contração: "l'accompagne" → "accompagne", "d'où" → "où",
+  // "jusqu'aux" → "aux", "l'appartement" → "appartement".
+  const elided = w.replace(/^(?:[jldcmtsn]|qu|jusqu|lorsqu|puisqu)['’ʼ]/i, '');
+  if (elided && elided !== w) {
+    candidates.push(elided);
+  }
+
   for (const key of candidates) {
-    const curated = MASTER_EXAMPLES[key];
+    const curated = ALL_MASTER_EXAMPLES[key];
     if (curated && curated.length === 4) return curated;
   }
   return undefined;
