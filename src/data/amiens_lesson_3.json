@@ -1,268 +1,292 @@
 {
   "id": "amiens_lesson_3",
   "cityId": "amiens",
-  "domain": "Cultura & História",
+  "domain": "Cultura & Patrimônio",
   "level": "Iniciante em Transição (A1/A2)",
   "titleFr": "Le quartier Saint-Leu et Jules Verne",
   "titlePt": "O bairro Saint-Leu e Jules Verne",
-  "subtitleFr": "Les canaux, la maison de l'écrivain et les hortillonnages",
-  "subtitlePt": "Os canais, a casa do escritor e os hortillonnages",
-  "summaryPt": "Nesta Aula 3 (A1/A2), a família passeia pelo quartier Saint-Leu, com seus pequenos canais. Eles visitam a maison de Jules Verne, onde o escritor imaginou suas viagens extraordinárias, e planejam navegar pelos hortillonnages. O aluno aprende o futuro próximo e as perguntas com 'où' e 'comment'.",
+  "subtitleFr": "Des canaux, des livres et des voyages",
+  "subtitlePt": "Canais, livros e viagens",
+  "summaryPt": "Na Aula 3 de Amiens (A1/A2), Irlan e Andréa exploram o bairro Saint-Leu e lembram de Jules Verne, o escritor que sonhou com mapas e aventuras. O aluno aprende o vocabulário do bairro e o verbo 'se promener'.",
   "paragraphs": [
     {
       "id": 1,
-      "fr": "Le quartier Saint-Leu est traversé par de petits canaux. Les maisons anciennes se reflètent dans l'eau. « Où sont les hortillonnages ? » demande Íris.",
-      "pt": "O bairro Saint-Leu é atravessado por pequenos canais. As casas antigas se refletem na água. «Onde ficam os hortillonnages?» pergunta Íris."
+      "fr": "Après la cathédrale, Irlan et Andréa se promènent dans le quartier Saint-Leu.",
+      "pt": "Depois da catedral, Irlan e Andréa passeiam pelo bairro Saint-Leu."
     },
     {
       "id": 2,
-      "fr": "« Les hortillonnages sont des jardins flottants près de la Somme. Comment allons-nous les visiter ? Nous allons prendre une barque ! » répond Irlan.",
-      "pt": "«Os hortillonnages são jardins flutuantes perto do Somme. Como vamos visitá-los? Nós vamos pegar um barco!» responde Irlan."
+      "fr": "Les petites maisons colorées se penchent au bord des canaux de la Somme.",
+      "pt": "As casinhas coloridas se inclinam à beira dos canais do Somme."
     },
     {
       "id": 3,
-      "fr": "La famille visite la maison de Jules Verne. Jules Verne a vécu à Amiens et il a écrit des voyages extraordinaires. « Où a-t-il écrit Vingt mille lieues sous les mers ? » demande Íris.",
-      "pt": "A família visita a casa de Jules Verne. Jules Verne viveu em Amiens e escreveu viagens extraordinárias. «Onde ele escreveu Vinte Mil Léguas Submarinas?» pergunta Íris."
+      "fr": "« C'est comme une Venise du nord », dit Andréa. Irlan sourit et regarde l'eau.",
+      "pt": "«É como uma Veneza do norte», diz Andréa. Irlan sorri e olha a água."
     },
     {
       "id": 4,
-      "fr": "Dans la grande maison en briques rouges, la famille imagine les voyages de l'écrivain. « Demain, nous allons naviguer sur les canaux, comme dans un roman ! » dit Andréa en souriant.",
-      "pt": "Na grande casa de tijolos vermelhos, a família imagina as viagens do escritor. «Amanhã, nós vamos navegar pelos canais, como num romance!» diz Andréa sorrindo."
+      "fr": "Ils croisent un vieux pont de pierre. Sous le pont, une barque passe lentement.",
+      "pt": "Eles cruzam uma velha ponte de pedra. Sob a ponte, um barco passa devagar."
+    },
+    {
+      "id": 5,
+      "fr": "« Tu sais qui a vécu ici ? » demande Andréa. « Jules Verne ! » répond Irlan.",
+      "pt": "«Você sabe quem viveu aqui?», pergunta Andréa. «Jules Verne!», responde Irlan."
+    },
+    {
+      "id": 6,
+      "fr": "« L'écrivain qui racontait les voyages extraordinaires », ajoute Irlan, les yeux brillants.",
+      "pt": "«O escritor que contava as viagens extraordinárias», acrescenta Irlan, com os olhos brilhando."
+    },
+    {
+      "id": 7,
+      "fr": "« Il écrivait des histoires avec des cartes et des machines incroyables. Comme notre Atlas. »",
+      "pt": "«Ele escrevia histórias com mapas e máquinas incríveis. Como o nosso Atlas.»"
+    },
+    {
+      "id": 8,
+      "fr": "Andréa réfléchit : « Peut-être que Jules Verne connaissait ce genre de secrets. »",
+      "pt": "Andréa reflete: «Talvez Jules Verne conhecesse esse tipo de segredo.»"
+    },
+    {
+      "id": 9,
+      "fr": "Ils s'assoient au bord du canal. Irlan tourne les pages de l'Atlas avec précaution.",
+      "pt": "Eles se sentam à beira do canal. Irlan vira as páginas do Atlas com cuidado."
+    },
+    {
+      "id": 10,
+      "fr": "« Verne disait que la carte n'est jamais finie », dit-il. « Il faut toujours la compléter. »",
+      "pt": "«Verne dizia que o mapa nunca está terminado», diz ele. «É preciso sempre completá-lo.»"
+    },
+    {
+      "id": 11,
+      "fr": "Une cloche sonne au loin. L'eau reflète les façades et le ciel gris du nord.",
+      "pt": "Um sino toca ao longe. A água reflete as fachadas e o céu cinzento do norte."
+    },
+    {
+      "id": 12,
+      "fr": "« Cette ville inspire les rêveurs », dit Andréa. Irlan sourit : « Alors nous sommes au bon endroit. »",
+      "pt": "«Esta cidade inspira os sonhadores», diz Andréa. Irlan sorri: «Então estamos no lugar certo.»"
     }
   ],
   "vocabularyDictionary": [
     {
-      "term": "canal",
-      "definitionPt": "canal",
-      "definitionFr": "Cours d'eau fait par l'homme.",
+      "term": "le quartier",
+      "definitionPt": "o bairro",
+      "definitionFr": "Partie d'une ville.",
+      "inflections": ["le quartier", "un quartier", "des quartiers"],
+      "ptTargets": ["bairro"],
+      "examples": [
+        { "level": "A1", "fr": "Le quartier est calme.", "pt": "O bairro é tranquilo." },
+        { "level": "A2-B1", "fr": "Ils se promènent dans le quartier Saint-Leu.", "pt": "Eles passeiam pelo bairro Saint-Leu." },
+        { "level": "B2", "fr": "Le quartier Saint-Leu est traversé par des canaux.", "pt": "O bairro Saint-Leu é cortado por canais." },
+        { "level": "C1-C2", "fr": "C'est le quartier qui, par ses ruelles et ses canaux, garde l'âme d'une ville.", "pt": "É o bairro que, por suas ruelas e canais, guarda a alma de uma cidade." }
+      ]
+    },
+    {
+      "term": "le canal",
+      "definitionPt": "o canal",
+      "definitionFr": "Cours d'eau construit par l'homme.",
       "inflections": ["le canal", "un canal", "des canaux"],
       "ptTargets": ["canal"],
       "examples": [
-        { "level": "A1", "fr": "Le quartier est traversé par des canaux.", "pt": "O bairro é atravessado por canais." },
-        { "level": "A2-B1", "fr": "Les canaux d'Amiens sont très jolis.", "pt": "Os canais de Amiens são muito bonitos." },
-        { "level": "B2", "fr": "Les canaux relient les jardins flottants.", "pt": "Os canais ligam os jardins flutuantes." },
-        { "level": "C1-C2", "fr": "Le réseau de canaux d'Amiens est unique en Europe.", "pt": "A rede de canais de Amiens é única na Europa." }
+        { "level": "A1", "fr": "Le canal est calme.", "pt": "O canal é calmo." },
+        { "level": "A2-B1", "fr": "Les maisons se penchent au bord des canaux.", "pt": "As casas se inclinam à beira dos canais." },
+        { "level": "B2", "fr": "Les canaux de la Somme traversent le vieux quartier.", "pt": "Os canais do Somme atravessam o bairro antigo." },
+        { "level": "C1-C2", "fr": "C'est le canal qui, silencieux, dessine les rues d'eau de la ville.", "pt": "É o canal que, silencioso, desenha as ruas de água da cidade." }
       ]
     },
     {
-      "term": "refléter",
-      "definitionPt": "refletir",
-      "definitionFr": "Renvoyer une image, comme un miroir.",
-      "inflections": ["je reflète", "refléter", "il reflète"],
-      "ptTargets": ["refletir"],
-      "examples": [
-        { "level": "A1", "fr": "Les maisons se reflètent dans l'eau.", "pt": "As casas se refletem na água." },
-        { "level": "A2-B1", "fr": "La lumière se reflète sur le canal.", "pt": "A luz se reflete no canal." },
-        { "level": "B2", "fr": "Les couleurs du soir se reflètent dans l'eau calme.", "pt": "As cores da noite se refletem na água calma." },
-        { "level": "C1-C2", "fr": "L'image des façades se reflète avec une précision parfaite.", "pt": "A imagem das fachadas se reflete com uma precisão perfeita." }
-      ]
-    },
-    {
-      "term": "jardin",
-      "definitionPt": "jardim",
-      "definitionFr": "Espace planté de fleurs et d'arbres.",
-      "inflections": ["le jardin", "un jardin", "des jardins"],
-      "ptTargets": ["jardim"],
-      "examples": [
-        { "level": "A1", "fr": "Les hortillonnages sont des jardins flottants.", "pt": "Os hortillonnages são jardins flutuantes." },
-        { "level": "A2-B1", "fr": "Le jardin est près du canal.", "pt": "O jardim fica perto do canal." },
-        { "level": "B2", "fr": "Les jardins flottants sont cultivés depuis des siècles.", "pt": "Os jardins flutuantes são cultivados há séculos." },
-        { "level": "C1-C2", "fr": "Les jardins flottants d'Amiens sont un patrimoine remarquable.", "pt": "Os jardins flutuantes de Amiens são um patrimônio notável." }
-      ]
-    },
-    {
-      "term": "flottant",
-      "definitionPt": "flutuante",
-      "definitionFr": "Qui flotte sur l'eau.",
-      "inflections": ["flottant", "flottante", "flottants", "flottantes"],
-      "ptTargets": ["flutuante"],
-      "examples": [
-        { "level": "A1", "fr": "Les jardins flottants sont sur l'eau.", "pt": "Os jardins flutuantes ficam sobre a água." },
-        { "level": "A2-B1", "fr": "Une barque flottante avance sur le canal.", "pt": "Um barco flutuante avança pelo canal." },
-        { "level": "B2", "fr": "Les cultures flottantes demandent un savoir-faire particulier.", "pt": "As culturas flutuantes exigem um saber-fazer particular." },
-        { "level": "C1-C2", "fr": "Les jardins flottants d'Amiens sont un écosystème fragile et précieux.", "pt": "Os jardins flutuantes de Amiens são um ecossistema frágil e precioso." }
-      ]
-    },
-    {
-      "term": "barque",
-      "definitionPt": "barco pequeno",
+      "term": "la barque",
+      "definitionPt": "o barco (pequeno)",
       "definitionFr": "Petit bateau.",
       "inflections": ["la barque", "une barque", "des barques"],
       "ptTargets": ["barco"],
       "examples": [
-        { "level": "A1", "fr": "Nous allons prendre une barque.", "pt": "Nós vamos pegar um barco." },
-        { "level": "A2-B1", "fr": "La barque avance lentement sur l'eau.", "pt": "O barco avança devagar sobre a água." },
-        { "level": "B2", "fr": "Les barques à cornet sont typiques d'Amiens.", "pt": "Os barcos de fundo chato são típicos de Amiens." },
-        { "level": "C1-C2", "fr": "La barque plate glisse silencieusement entre les jardins.", "pt": "O barco chato desliza silenciosamente entre os jardins." }
+        { "level": "A1", "fr": "La barque est petite.", "pt": "O barco é pequeno." },
+        { "level": "A2-B1", "fr": "Une barque passe sous le pont.", "pt": "Um barco passa sob a ponte." },
+        { "level": "B2", "fr": "Les barques glissent lentement sur le canal.", "pt": "Os barquinhos deslizam devagar pelo canal." },
+        { "level": "C1-C2", "fr": "C'est la barque qui, légère, épouse le courant du canal.", "pt": "É o barco que, leve, acompanha a corrente do canal." }
       ]
     },
     {
-      "term": "écrivain",
-      "definitionPt": "escritor",
+      "term": "le pont",
+      "definitionPt": "a ponte",
+      "definitionFr": "Construction qui relie deux rives.",
+      "inflections": ["le pont", "un pont", "des ponts"],
+      "ptTargets": ["ponte"],
+      "examples": [
+        { "level": "A1", "fr": "Le pont est en pierre.", "pt": "A ponte é de pedra." },
+        { "level": "A2-B1", "fr": "Ils croisent un vieux pont.", "pt": "Eles cruzam uma velha ponte." },
+        { "level": "B2", "fr": "Un pont de pierre enjambe le canal.", "pt": "Uma ponte de pedra atravessa o canal." },
+        { "level": "C1-C2", "fr": "C'est le pont qui, reliant les rives, relie aussi les histoires.", "pt": "É a ponte que, ligando as margens, liga também as histórias." }
+      ]
+    },
+    {
+      "term": "l'écrivain",
+      "definitionPt": "o escritor",
       "definitionFr": "Personne qui écrit des livres.",
       "inflections": ["l'écrivain", "un écrivain", "des écrivains"],
       "ptTargets": ["escritor"],
       "examples": [
-        { "level": "A1", "fr": "Jules Verne est un écrivain célèbre.", "pt": "Jules Verne é um escritor famoso." },
-        { "level": "A2-B1", "fr": "L'écrivain a vécu à Amiens.", "pt": "O escritor viveu em Amiens." },
-        { "level": "B2", "fr": "Jules Verne est un écrivain de voyages extraordinaires.", "pt": "Jules Verne é um escritor de viagens extraordinárias." },
-        { "level": "C1-C2", "fr": "L'écrivain visionnaire a anticipé de nombreuses inventions.", "pt": "O escritor visionário antecipou muitas invenções." }
+        { "level": "A1", "fr": "L'écrivain est célèbre.", "pt": "O escritor é famoso." },
+        { "level": "A2-B1", "fr": "Jules Verne est un écrivain français.", "pt": "Jules Verne é um escritor francês." },
+        { "level": "B2", "fr": "L'écrivain imaginait des voyages extraordinaires.", "pt": "O escritor imaginava viagens extraordinárias." },
+        { "level": "C1-C2", "fr": "C'est l'écrivain qui, par ses mots, ouvre des mondes que l'on n'a jamais visités.", "pt": "É o escritor que, por suas palavras, abre mundos que nunca visitamos." }
       ]
     },
     {
-      "term": "extraordinaire",
-      "definitionPt": "extraordinário",
-      "definitionFr": "Très étonnant, hors du commun.",
-      "inflections": ["extraordinaire", "extraordinaires"],
-      "ptTargets": ["extraordinário"],
+      "term": "le voyage",
+      "definitionPt": "a viagem",
+      "definitionFr": "Déplacement vers un autre lieu.",
+      "inflections": ["le voyage", "un voyage", "des voyages"],
+      "ptTargets": ["viagem"],
       "examples": [
-        { "level": "A1", "fr": "Ce sont des voyages extraordinaires.", "pt": "São viagens extraordinárias." },
-        { "level": "A2-B1", "fr": "L'histoire est extraordinaire.", "pt": "A história é extraordinária." },
-        { "level": "B2", "fr": "Les romans de Jules Verne sont extraordinaires.", "pt": "Os romances de Jules Verne são extraordinários." },
-        { "level": "C1-C2", "fr": "L'imagination extraordinaire de l'écrivain a marqué des générations.", "pt": "A imaginação extraordinária do escritor marcou gerações." }
+        { "level": "A1", "fr": "Le voyage est long.", "pt": "A viagem é longa." },
+        { "level": "A2-B1", "fr": "Jules Verne racontait des voyages extraordinaires.", "pt": "Jules Verne contava viagens extraordinárias." },
+        { "level": "B2", "fr": "Le voyage à travers la France suit les pages de l'Atlas.", "pt": "A viagem pela França segue as páginas do Atlas." },
+        { "level": "C1-C2", "fr": "C'est le voyage qui, plus que la destination, transforme celui qui le fait.", "pt": "É a viagem que, mais do que o destino, transforma quem a faz." }
       ]
     },
     {
-      "term": "brique",
-      "definitionPt": "tijolo",
-      "definitionFr": "Bloc de terre cuite pour construire.",
-      "inflections": ["la brique", "une brique", "des briques"],
-      "ptTargets": ["tijolo"],
+      "term": "la carte",
+      "definitionPt": "o mapa",
+      "definitionFr": "Dessin d'un territoire.",
+      "inflections": ["la carte", "une carte", "des cartes"],
+      "ptTargets": ["mapa"],
       "examples": [
-        { "level": "A1", "fr": "La maison est en briques rouges.", "pt": "A casa é de tijolos vermelhos." },
-        { "level": "A2-B1", "fr": "Les maisons en briques sont typiques du nord.", "pt": "As casas de tijolos são típicas do norte." },
-        { "level": "B2", "fr": "La brique rouge donne un charme chaleureux aux façades.", "pt": "O tijolo vermelho dá um charme acolhedor às fachadas." },
-        { "level": "C1-C2", "fr": "L'architecture de briques du nord raconte l'histoire industrielle de la région.", "pt": "A arquitetura de tijolos do norte conta a história industrial da região." }
+        { "level": "A1", "fr": "La carte est précise.", "pt": "O mapa é preciso." },
+        { "level": "A2-B1", "fr": "Verne écrivait des histoires avec des cartes.", "pt": "Verne escrevia histórias com mapas." },
+        { "level": "B2", "fr": "La carte n'est jamais finie, il faut la compléter.", "pt": "O mapa nunca está terminado, é preciso completá-lo." },
+        { "level": "C1-C2", "fr": "C'est la carte qui, inachevée, garde une place pour ceux qui viennent après.", "pt": "É o mapa que, inacabado, guarda um lugar para quem vem depois." }
       ]
     },
     {
-      "term": "naviguer",
-      "definitionPt": "navegar",
-      "definitionFr": "Se déplacer sur l'eau avec un bateau.",
-      "inflections": ["je navigue", "naviguer", "il navigue"],
-      "ptTargets": ["navegar"],
+      "term": "l'histoire",
+      "definitionPt": "a história",
+      "definitionFr": "Récit, ou le passé.",
+      "inflections": ["l'histoire", "une histoire", "des histoires"],
+      "ptTargets": ["história"],
       "examples": [
-        { "level": "A1", "fr": "Demain, nous allons naviguer sur les canaux.", "pt": "Amanhã, nós vamos navegar pelos canais." },
-        { "level": "A2-B1", "fr": "La famille navigue entre les jardins flottants.", "pt": "A família navega entre os jardins flutuantes." },
-        { "level": "B2", "fr": "Naviguer sur la Somme est une expérience paisible.", "pt": "Navegar pelo Somme é uma experiência pacífica." },
-        { "level": "C1-C2", "fr": "Naviguer dans les hortillonnages, c'est remonter le temps.", "pt": "Navegar pelos hortillonnages é voltar no tempo." }
+        { "level": "A1", "fr": "L'histoire est belle.", "pt": "A história é bonita." },
+        { "level": "A2-B1", "fr": "Jules Verne écrivait des histoires d'aventure.", "pt": "Jules Verne escrevia histórias de aventura." },
+        { "level": "B2", "fr": "Chaque ville du voyage raconte une histoire.", "pt": "Cada cidade da viagem conta uma história." },
+        { "level": "C1-C2", "fr": "C'est l'histoire qui, transmise, garde vivants les rêves d'autrefois.", "pt": "É a história que, transmitida, mantém vivos os sonhos de outrora." }
       ]
     },
     {
-      "term": "roman",
-      "definitionPt": "romance (livro)",
-      "definitionFr": "Livre qui raconte une histoire imaginaire.",
-      "inflections": ["le roman", "un roman", "des romans"],
-      "ptTargets": ["romance"],
+      "term": "le rêveur",
+      "definitionPt": "o sonhador",
+      "definitionFr": "Personne qui rêve ou imagine.",
+      "inflections": ["le rêveur", "une rêveuse", "des rêveurs"],
+      "ptTargets": ["sonhador"],
       "examples": [
-        { "level": "A1", "fr": "C'est comme dans un roman !", "pt": "É como num romance!" },
-        { "level": "A2-B1", "fr": "J'aime les romans d'aventure.", "pt": "Eu gosto de romances de aventura." },
-        { "level": "B2", "fr": "Vingt mille lieues sous les mers est un roman célèbre.", "pt": "Vinte Mil Léguas Submarinas é um romance famoso." },
-        { "level": "C1-C2", "fr": "Le roman de Jules Verne allie science et imagination.", "pt": "O romance de Jules Verne alia ciência e imaginação." }
+        { "level": "A1", "fr": "Il est rêveur.", "pt": "Ele é sonhador." },
+        { "level": "A2-B1", "fr": "Cette ville inspire les rêveurs.", "pt": "Esta cidade inspira os sonhadores." },
+        { "level": "B2", "fr": "Les rêveurs voient des mondes là où d'autres ne voient qu'une rue.", "pt": "Os sonhadores veem mundos onde outros só veem uma rua." },
+        { "level": "C1-C2", "fr": "C'est le rêveur qui, le premier, imagine ce que le voyageur découvrira.", "pt": "É o sonhador que, primeiro, imagina o que o viajante descobrirá." }
       ]
     },
     {
-      "term": "demander",
-      "definitionPt": "perguntar, pedir",
-      "definitionFr": "Poser une question, ou solliciter quelque chose.",
-      "inflections": ["je demande", "demander", "il demande"],
-      "ptTargets": ["perguntar", "pedir"],
+      "term": "réfléchir",
+      "definitionPt": "refletir / pensar",
+      "definitionFr": "Penser attentivement.",
+      "inflections": ["réfléchir", "je réfléchis", "nous réfléchissons"],
+      "ptTargets": ["refletir", "pensar"],
       "examples": [
-        { "level": "A1", "fr": "Íris demande : « Où sont les hortillonnages ? »", "pt": "Íris pergunta: «Onde ficam os hortillonnages?»" },
-        { "level": "A2-B1", "fr": "Nous demandons le chemin à un passant.", "pt": "Nós perguntamos o caminho a um transeunte." },
-        { "level": "B2", "fr": "Elle demande où se trouve la maison de Jules Verne.", "pt": "Ela pergunta onde fica a casa de Jules Verne." },
-        { "level": "C1-C2", "fr": "Demander le chemin, c'est aussi entrer en contact avec les habitants.", "pt": "Perguntar o caminho também é entrar em contato com os habitantes." }
+        { "level": "A1", "fr": "Je réfléchis.", "pt": "Eu reflito." },
+        { "level": "A2-B1", "fr": "Andréa réfléchit en silence.", "pt": "Andréa reflete em silêncio." },
+        { "level": "B2", "fr": "Réfléchir avant d'agir évite bien des erreurs.", "pt": "Refletir antes de agir evita muitos erros." },
+        { "level": "C1-C2", "fr": "C'est en réfléchissant que l'on transforme une intuition en certitude.", "pt": "É refletindo que se transforma uma intuição em certeza." }
       ]
     },
     {
-      "term": "imaginer",
-      "definitionPt": "imaginar",
-      "definitionFr": "Créer des images dans son esprit.",
-      "inflections": ["j'imagine", "imaginer", "il imagine"],
-      "ptTargets": ["imaginar"],
+      "term": "la cloche",
+      "definitionPt": "o sino",
+      "definitionFr": "Objet qui sonne.",
+      "inflections": ["la cloche", "une cloche", "des cloches"],
+      "ptTargets": ["sino"],
       "examples": [
-        { "level": "A1", "fr": "La famille imagine les voyages de l'écrivain.", "pt": "A família imagina as viagens do escritor." },
-        { "level": "A2-B1", "fr": "J'imagine notre prochaine ville.", "pt": "Eu imagino a nossa próxima cidade." },
-        { "level": "B2", "fr": "L'écrivain imagine des mondes incroyables.", "pt": "O escritor imagina mundos incríveis." },
-        { "level": "C1-C2", "fr": "Imaginer, c'est le premier pas vers la découverte.", "pt": "Imaginar é o primeiro passo para a descoberta." }
+        { "level": "A1", "fr": "La cloche sonne.", "pt": "O sino toca." },
+        { "level": "A2-B1", "fr": "Une cloche sonne au loin.", "pt": "Um sino toca ao longe." },
+        { "level": "B2", "fr": "Les cloches de la cathédrale rythment la journée.", "pt": "Os sinos da catedral ritmam o dia." },
+        { "level": "C1-C2", "fr": "C'est la cloche qui, de sa voix grave, appelle la ville au silence.", "pt": "É o sino que, com sua voz grave, chama a cidade ao silêncio." }
+      ]
+    },
+    {
+      "term": "se promener",
+      "definitionPt": "passear",
+      "definitionFr": "Marcher pour le plaisir.",
+      "inflections": ["se promener", "je me promène", "nous nous promenons"],
+      "ptTargets": ["passear"],
+      "examples": [
+        { "level": "A1", "fr": "Je me promène au bord de l'eau.", "pt": "Eu passeio à beira da água." },
+        { "level": "A2-B1", "fr": "Ils se promènent dans le quartier Saint-Leu.", "pt": "Eles passeiam pelo bairro Saint-Leu." },
+        { "level": "B2", "fr": "Se promener sans but est la meilleure façon de connaître un quartier.", "pt": "Passear sem destino é a melhor forma de conhecer um bairro." },
+        { "level": "C1-C2", "fr": "C'est en se promenant que l'on s'approprie vraiment les rues.", "pt": "É passeando que a gente se apropria de verdade das ruas." }
       ]
     }
   ],
   "grammarTip": {
-    "ruleTitle": "Le futur proche : aller + infinitif",
-    "explanationPt": "Futuro próximo: verbo 'aller' no presente + infinitivo. Ex.: 'Nous allons prendre une barque.' (Nós vamos pegar um barco.)",
-    "exampleFr": "Nous allons prendre une barque pour visiter les jardins flottants.",
-    "examplePt": "Nós vamos pegar um barco para visitar os jardins flutuantes.",
-    "practiceQuestion": "Complete com o futuro próximo: 'Demain, nous _____ naviguer sur les canaux.'",
-    "options": ["allons", "allez", "vont"],
+    "ruleTitle": "L'imparfait : Verne écrivait",
+    "explanationPt": "O imperfeito descreve hábitos e situações do passado: 'il écrivait' (ele escrevia), 'il racontait' (ele contava).",
+    "exampleFr": "Jules Verne écrivait des histoires extraordinaires.",
+    "examplePt": "Jules Verne escrevia histórias extraordinárias.",
+    "practiceQuestion": "Complete: 'Il _____ des histoires de voyage.'",
+    "options": ["écrivait", "écrit", "écrira"],
     "correctIndex": 0,
     "points": [
       {
-        "ruleTitle": "Le futur proche : aller + infinitif",
-        "explanationPt": "'aller' no presente + infinitivo: je vais, tu vas, il va, nous allons, vous allez, ils vont. Ex.: 'Je vais visiter la maison de Jules Verne.'",
-        "exampleFr": "Je vais visiter la maison de Jules Verne demain.",
-        "examplePt": "Eu vou visitar a casa de Jules Verne amanhã.",
-        "practiceQuestion": "Complete: 'Demain, nous _____ (prendre) une barque.'",
-        "options": ["allons prendre", "allons prenons", "vont prendre"],
+        "ruleTitle": "Se promener au présent",
+        "explanationPt": "'Se promener' é pronominal: je me promène, il se promène, nous nous promenons, ils se promènent.",
+        "exampleFr": "Ils se promènent dans le quartier.",
+        "examplePt": "Eles passeiam pelo bairro.",
+        "practiceQuestion": "Complete: 'Nous nous _____ au bord du canal.'",
+        "options": ["promenons", "promène", "promènent"],
         "correctIndex": 0
       },
       {
-        "ruleTitle": "Les questions avec où et comment",
-        "explanationPt": "Perguntas com 'où' (onde) e 'comment' (como): 'Où sont les hortillonnages ?' (Onde ficam os hortillonnages?), 'Comment allons-nous les visiter ?' (Como vamos visitá-los?)",
-        "exampleFr": "Où sont les hortillonnages ? Comment allons-nous les visiter ?",
-        "examplePt": "Onde ficam os hortillonnages? Como vamos visitá-los?",
-        "practiceQuestion": "Complete com o pronome interrogativo: '_____ se trouve la maison de Jules Verne ?'",
-        "options": ["Où", "Comment", "Pourquoi"],
+        "ruleTitle": "Au bord de",
+        "explanationPt": "'Au bord de' = à beira de: au bord du canal (à beira do canal), au bord de l'eau (à beira da água).",
+        "exampleFr": "Les maisons se penchent au bord des canaux.",
+        "examplePt": "As casas se inclinam à beira dos canais.",
+        "practiceQuestion": "Complete: 'Ils s'assoient _____ bord du canal.'",
+        "options": ["au", "à", "en"],
         "correctIndex": 0
       }
     ]
   },
   "quizQuestions": [
     {
-      "question": "Complete a frase do texto: 'Le quartier Saint-Leu est traversé par de petits _____.'",
-      "options": ["canaux", "ponts", "jardins"],
+      "question": "Qual escritor viveu em Amiens?",
+      "options": ["Jules Verne", "Victor Hugo", "Molière"],
       "correctIndex": 0,
-      "explanation": "No texto: 'Le quartier Saint-Leu est traversé par de petits canaux.'"
+      "explanation": "Jules Verne a vécu à Amiens."
     },
     {
-      "question": "Ordene corretamente as palavras da frase: [ prendre / nous allons / une barque / , / ]",
-      "options": [
-        "Nous allons prendre une barque.",
-        "Prendre nous allons une barque.",
-        "Nous allons une barque prendre."
-      ],
+      "question": "Com o que o bairro Saint-Leu se parece?",
+      "options": ["uma Veneza do norte", "uma praia", "uma montanha"],
       "correctIndex": 0,
-      "explanation": "A frase exata do texto é 'Nous allons prendre une barque !'"
+      "explanation": "Andréa dit que c'est comme une Venise du nord."
     },
     {
-      "question": "Como se traduz: 'Onde ficam os hortillonnages?'?",
-      "options": [
-        "Où sont les hortillonnages ?",
-        "Comment sont les hortillonnages ?",
-        "Pourquoi sont les hortillonnages ?"
-      ],
+      "question": "O que passa sob a ponte?",
+      "options": ["uma barque", "um trem", "um carro"],
       "correctIndex": 0,
-      "explanation": "'Où' = onde; 'sont' = ficam/estão."
+      "explanation": "Une barque passe sous le pont."
     },
     {
-      "question": "Identifique a frase com ERRO de futuro próximo:",
-      "options": [
-        "Nous allons prendre une barque.",
-        "Je vais visiter la maison.",
-        "Nous vont naviguer sur les canaux."
-      ],
-      "correctIndex": 2,
-      "explanation": "O erro é 'Nous vont naviguer': com 'nous', o verbo aller fica 'allons' ('Nous allons naviguer sur les canaux.')."
+      "question": "Complete: 'Il _____ des histoires de voyage.'",
+      "options": ["écrivait", "écrit", "écrira"],
+      "correctIndex": 0,
+      "explanation": "Il écrivait (imparfait)."
     },
     {
-      "question": "O que Jules Verne escreveu?",
-      "options": [
-        "Viagens extraordinárias, como Vinte Mil Léguas Submarinas",
-        "Receitas de macarons",
-        "Guias de metrô"
-      ],
+      "question": "Complete: 'Nous nous _____ au bord du canal.'",
+      "options": ["promenons", "promène", "promènent"],
       "correctIndex": 0,
-      "explanation": "No texto: 'Jules Verne a vécu à Amiens et il a écrit des voyages extraordinaires.'"
+      "explanation": "nous nous promenons."
     }
   ]
 }
