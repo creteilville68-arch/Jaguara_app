@@ -125,4 +125,16 @@ export const MARSEILLE_BACKLOG_EXAMPLES: Record<string, MasterExample[]> = {
     { level: 'B2', fr: 'La philosophie du rugby, fondée sur le respect, a séduit Irlan.', pt: 'A filosofia do rugby, fundada no respeito, conquistou Irlan.' },
     { level: 'C1-C2', fr: 'Une philosophie de vie ne s’écrit pas : elle se prouve dans les gestes de chaque jour.', pt: 'Uma filosofia de vida não se escreve: ela se prova nos gestos de cada dia.' },
   ],
+  harmonie: [
+    { level: 'A1', fr: 'Tout est en harmonie.', pt: 'Tudo está em harmonia.' },
+    { level: 'A2-B1', fr: 'Les couleurs du quartier sont en harmonie.', pt: 'As cores do bairro estão em harmonia.' },
+    { level: 'B2', fr: 'Malgré la diversité des cultures, le marché vit dans une harmonie surprenante.', pt: 'Apesar da diversidade de culturas, o mercado vive numa harmonia surpreendente.' },
+    { level: 'C1-C2', fr: 'L’harmonie d’une ville ne se décrète pas : elle se construit dans le respect de chacun.', pt: 'A harmonia de uma cidade não se decreta: ela se constrói no respeito a cada um.' },
+  ],
+  éternellement: [
+    { level: 'A1', fr: 'Je t’aimerai éternellement.', pt: 'Eu te amarei eternamente.' },
+    { level: 'A2-B1', fr: 'Les étoiles semblent briller éternellement.', pt: 'As estrelas parecem brilhar eternamente.' },
+    { level: 'B2', fr: 'Rien n’est éternellement clos : même une forteresse finit par s’ouvrir.', pt: 'Nada é eternamente fechado: até uma fortaleza acaba se abrindo.' },
+    { level: 'C1-C2', fr: 'Ce qui dure éternellement, ce n’est pas la pierre, mais le souvenir qu’elle porte.', pt: 'O que dura eternamente não é a pedra, mas a lembrança que ela carrega.' },
+  ],
 };
