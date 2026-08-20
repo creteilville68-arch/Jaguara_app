@@ -29,4 +29,10 @@ export const STRASBOURG_BACKLOG_EXAMPLES: Record<string, MasterExample[]> = {
     { level: 'B2', fr: 'Le maïs, cultivé en Alsace comme ailleurs, nourrit les hommes et les animaux.', pt: 'O milho, cultivado na Alsácia como em outros lugares, alimenta homens e animais.' },
     { level: 'C1-C2', fr: 'C’est derrière les champs de maïs que le train laissa la plaine d’Alsace pour entrer dans la lumière du Midi.', pt: 'É atrás dos campos de milho que o trem deixou a planície da Alsácia para entrar na luz do Sul.' },
   ],
+  finesse: [
+    { level: 'A1', fr: 'La finesse du tissu est remarquable.', pt: 'A finura do tecido é notável.' },
+    { level: 'A2-B1', fr: 'J’admire la finesse de cette sculpture.', pt: 'Admiro a finura desta escultura.' },
+    { level: 'B2', fr: 'La façade de la maison Kammerzell, ciselée avec une finesse rare, traverse les siècles sans vieillir.', pt: 'A fachada da casa Kammerzell, cinzelada com finura rara, atravessa os séculos sem envelhecer.' },
+    { level: 'C1-C2', fr: 'La finesse d’un détail, imperceptible au premier regard, révèle souvent le génie d’un artisan.', pt: 'A finura de um detalhe, imperceptível ao primeiro olhar, revela muitas vezes o gênio de um artesão.' },
+  ],
 };
