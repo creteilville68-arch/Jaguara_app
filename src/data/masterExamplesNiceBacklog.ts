@@ -65,4 +65,16 @@ export const NICE_BACKLOG_EXAMPLES: Record<string, MasterExample[]> = {
     { level: 'B2', fr: 'Sur le plan du métro, les correspondances relient les lignes entre elles.', pt: 'No mapa do metrô, as baldeações conectam as linhas entre si.' },
     { level: 'C1-C2', fr: 'Ce sont les correspondances du plan qui, invisibles au premier regard, dessinent le vrai visage de la ville.', pt: 'São as baldeações do mapa que, invisíveis ao primeiro olhar, desenham o verdadeiro rosto da cidade.' },
   ],
+  trottoir: [
+    { level: 'A1', fr: 'Le trottoir est propre.', pt: 'A calçada está limpa.' },
+    { level: 'A2-B1', fr: 'Nous marchons sur le trottoir après le dîner.', pt: 'Nós andamos na calçada depois do jantar.' },
+    { level: 'B2', fr: 'Le verglas rendait les trottoirs dangereux.', pt: 'O gelo tornava as calçadas perigosas.' },
+    { level: 'C1-C2', fr: 'C’est sur les trottoirs que se lisent les habitudes discrètes d’une ville.', pt: 'É nas calçadas que se leem os hábitos discretos de uma cidade.' },
+  ],
+  reliure: [
+    { level: 'A1', fr: 'La reliure est bleue.', pt: 'A encadernação é azul.' },
+    { level: 'A2-B1', fr: 'Le livre a une belle reliure.', pt: 'O livro tem uma bela encadernação.' },
+    { level: 'B2', fr: 'La conservatrice consolida la reliure du vieil Atlas.', pt: 'A conservadora consolidou a encadernação do velho Atlas.' },
+    { level: 'C1-C2', fr: 'C’est dans la reliure que le livre garde la mémoire des mains qui l’ont tenu.', pt: 'É na encadernação que o livro guarda a memória das mãos que o seguraram.' },
+  ],
 };
