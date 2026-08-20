@@ -16,8 +16,8 @@
     },
     {
       "id": 2,
-      "fr": "« Pourquoi les maisons d'ici sont-elles plus basses qu'au centre ? » demanda Íris. « Parce que la crue de 1875 a tout détruit, répondit Irlan. Puisque le quartier a été reconstruit après, il a un air plus moderne, avec des rues plus larges. »",
-      "pt": "« Por que as casas daqui são mais baixas que no centro? » perguntou Íris. « Porque a enchente de 1875 destruiu tudo, respondeu Irlan. Já que o bairro foi reconstruído depois, ele tem um ar mais moderno, com ruas mais largas. »"
+      "fr": "« Pourquoi les maisons d'ici sont-elles plus basses qu'au centre ? » demanda Andréa. « Parce que la crue de 1875 a tout détruit, répondit Irlan. Puisque le quartier a été reconstruit après, il a un air plus moderne, avec des rues plus larges. »",
+      "pt": "« Por que as casas daqui são mais baixas que no centro? » perguntou Andréa. « Porque a enchente de 1875 destruiu tudo, respondeu Irlan. Já que o bairro foi reconstruído depois, ele tem um ar mais moderno, com ruas mais largas. »"
     },
     {
       "id": 3,
@@ -33,6 +33,16 @@
       "id": 5,
       "fr": "Le soir, Irlan nota : « Saint-Cyprien a souffert, et pourtant il vit. Puisque l'histoire est écrite dans les pierres, il suffit de savoir la lire. Moi, j'apprends à lire la France pierre après pierre. »",
       "pt": "À noite, Irlan anotou: « Saint-Cyprien sofreu e, mesmo assim, vive. Já que a história está escrita nas pedras, basta saber lê-la. Eu estou aprendendo a ler a França pedra por pedra. »"
+    },
+    {
+      "id": 6,
+      "fr": "À Saint-Cyprien, la mixité sociale donnait au quartier une cohésion remarquable. Irlan a déambulé parmi les rues en observant les revendications écrites sur les murs.",
+      "pt": "Em Saint-Cyprien, a diversidade social dava ao bairro uma coesão notável. Irlan passeou pelas ruas observando as reivindicações escritas nas paredes."
+    },
+    {
+      "id": 7,
+      "fr": "De prime abord, l'ambiance semblait insouciante, mais un témoignage révélait un conflit ancien. Andréa a écouté avec courtoisie avant de proposer un dialogue constructif.",
+      "pt": "À primeira vista, o ambiente parecia despreocupado, mas um testemunho revelava um conflito antigo. Andréa escutou com cortesia antes de propor um diálogo construtivo."
     }
   ],
   "vocabularyDictionary": [
@@ -136,7 +146,7 @@
       "examples": [
         { "level": "A1", "fr": "Elle m'interpelle.", "pt": "Ela me chama." },
         { "level": "A2-B1", "fr": "La marchande interpella Andréa.", "pt": "A vendedora chamou Andréa." },
-        { "level": "B2", "fr": "Une marchande interpella la famille depuis son étal de tomates.", "pt": "Uma vendedora chamou a família desde sua banca de tomates." },
+        { "level": "B2", "fr": "Une marchande interpella le couple depuis son étal de tomates.", "pt": "Uma vendedora chamou o casal desde sua banca de tomates." },
         { "level": "C1-C2", "fr": "Interpeller un passant au marché relève d'une politesse populaire spontanée.", "pt": "Chamar um passante no mercado faz parte de uma cortesia popular espontânea." }
       ]
     },

@@ -7,22 +7,22 @@
   "titlePt": "O parc bordelais: o domingo das famílias",
   "subtitleFr": "En se promenant autour du lac, le temps s'arrête",
   "subtitlePt": "Passeando ao redor do lago, o tempo para",
-  "summaryPt": "Nesta Aula 35 (B1+), a família passa um domingo no parc bordelais, criado no século XIX, com seu lago, suas árvores centenárias e seus carrosséis. O aluno pratica o vocabulário do parque (l'arbre, le lac, le sentier) e o conditionnel para sugestões e hipóteses.",
+  "summaryPt": "Nesta Aula 35 (B1+), o casal passa um domingo no parc bordelais, criado no século XIX, com seu lago, suas árvores centenárias e seus carrosséis. O aluno pratica o vocabulário do parque (l'arbre, le lac, le sentier) e o conditionnel para sugestões e hipóteses.",
   "paragraphs": [
     {
       "id": 1,
-      "fr": "« Le parc bordelais a été créé en 1858 », a dit Irlan. « C'est le jardin préféré des familles du quartier. » Iris a couru vers le vieux carrousel : « On pourrait faire un tour avant la promenade ! »",
-      "pt": "« O parc bordelais foi criado em 1858 », disse Irlan. « É o jardim preferido das famílias do bairro. » Íris correu para o carrossel antigo: « Poderíamos dar uma volta antes do passeio! »"
+      "fr": "« Le parc bordelais a été créé en 1858 », a dit Irlan. « C'est le jardin préféré des familles du quartier. » Andréa a couru vers le vieux carrousel : « On pourrait faire un tour avant la promenade ! »",
+      "pt": "« O parc bordelais foi criado em 1858 », disse Irlan. « É o jardim preferido das famílias do bairro. » Andréa correu para o carrossel antigo: « Poderíamos dar uma volta antes do passeio! »"
     },
     {
       "id": 2,
-      "fr": "Autour du lac, des grands-parents marchaient doucement, des enfants lançaient du pain aux canards. « En regardant tout ce monde, on se dit que le temps est bien fait », a murmuré Andréa. « Chaque âge a sa place ici. »",
-      "pt": "Ao redor do lago, avós caminhavam devagar, crianças jogavam pão aos patos. « Olhando toda essa gente, a gente pensa que o tempo é bem feito », murmurou Andréa. « Cada idade tem seu lugar aqui. »"
+      "fr": "Autour du lac, des couples marchaient doucement, des enfants lançaient du pain aux canards. « En regardant tout ce monde, on se dit que le temps est bien fait », a murmuré Andréa. « Chaque âge a sa place ici. »",
+      "pt": "Ao redor do lago, casais caminhavam devagar, crianças jogavam pão aos patos. « Olhando toda essa gente, a gente pensa que o tempo é bem feito », murmurou Andréa. « Cada idade tem seu lugar aqui. »"
     },
     {
       "id": 3,
-      "fr": "Irlan a montré un grand chêne. « Il a plus de deux cents ans », a-t-il dit. « Il aurait vu passer des générations de Bordelais. » Iris a posé sa main sur l'écorce : « S'il parlait, il raconterait toute la ville ! »",
-      "pt": "Irlan mostrou um grande carvalho. « Ele tem mais de duzentos anos », disse. « Ele teria visto passar gerações de bordeleses. » Íris pousou a mão na casca: « Se ele falasse, contaria a cidade inteira! »"
+      "fr": "Irlan a montré un grand chêne. « Il a plus de deux cents ans », a-t-il dit. « Il aurait vu passer des générations de Bordelais. » Andréa a posé sa main sur l'écorce : « S'il parlait, il raconterait toute la ville ! »",
+      "pt": "Irlan mostrou um grande carvalho. « Ele tem mais de duzentos anos », disse. « Ele teria visto passar gerações de bordeleses. » Andréa pousou a mão na casca: « Se ele falasse, contaria a cidade inteira! »"
     },
     {
       "id": 4,
@@ -31,8 +31,23 @@
     },
     {
       "id": 5,
-      "fr": "Le soir, Iris s'est endormie dans la voiture, un dessin à la main : le parc avec un soleil, un lac et une petite scooter garée près du carrousel. « Elle a mis la scooter dans le dessin », a souri Irlan. « Elle est bien de la famille. »",
-      "pt": "À noite, Íris adormeceu no carro, com um desenho na mão: o parque com um sol, um lago e uma scootezinha estacionada perto do carrossel. « Ela pôs a scooter no desenho », sorriu Irlan. « Ela é mesmo da família. »"
+      "fr": "Le soir, Andréa s'est endormie dans le tramway, un dessin à la main : le parc avec un soleil, un lac et une petite scooter garée près du carrousel. « Elle a mis la scooter dans le dessin », a souri Irlan. « Elle est bien de la famille. »",
+      "pt": "À noite, Andréa adormeceu no bonde, com um desenho na mão: o parque com um sol, um lago e uma scootezinha estacionada perto do carrossel. « Ela pôs a scooter no desenho », sorriu Irlan. « Ela é mesmo da família. »"
+    }
+    ,{
+      "id": 6,
+      "fr": "Dans le parc bordelais, les familles profitent d'une journée sereine. Les enfants jouent dans la zone piétonne.",
+      "pt": "No parque de Bordeaux, as famílias aproveitam um dia sereno. As crianças brincam na zona de pedestres."
+    },
+    {
+      "id": 7,
+      "fr": "Un bénévole distribue une brochure sur l'entraide. Andréa veut soutenir l'association et faire un don.",
+      "pt": "Um voluntário distribui um folheto sobre ajuda mútua. Andréa quer apoiar a associação e fazer uma doação."
+    },
+    {
+      "id": 8,
+      "fr": "Irlan observe un buisson et une clairière. « La protection de la nature commence par un geste simple », affirme-t-il.",
+      "pt": "Irlan observa um arbusto e uma clareira. A proteção da natureza começa por um gesto simples, afirma ele."
     }
   ],
   "vocabularyDictionary": [
@@ -109,7 +124,7 @@
       "ptTargets": ["casca"],
       "examples": [
         { "level": "A1", "fr": "L'écorce est dure.", "pt": "A casca é dura." },
-        { "level": "A2-B1", "fr": "Iris a touché l'écorce du chêne.", "pt": "Íris tocou a casca do carvalho." },
+        { "level": "A2-B1", "fr": "Andréa a touché l'écorce du chêne.", "pt": "Andréa tocou a casca do carvalho." },
         { "level": "B2", "fr": "L'écorce que l'on touche est rugueuse.", "pt": "A casca que se toca é áspera." },
         { "level": "C1-C2", "fr": "L'écorce, peau ridée de l'arbre, écrit les années en sillons.", "pt": "A casca, pele enrugada da árvore, escreve os anos em sulcos." }
       ]
@@ -229,7 +244,7 @@
       "correctIndex": 0
     },
     {
-      "question": "O que Iris desenhou perto do carrossel ?",
+      "question": "O que Andréa desenhou perto do carrossel ?",
       "options": ["Uma scooter", "Um avião", "Um gato", "Uma árvore"],
       "correctIndex": 0
     }

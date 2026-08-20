@@ -7,7 +7,7 @@
   "titlePt": "O mercado de Natal: a capital do Natal",
   "subtitleFr": "Le Christkindelsmärik, le plus ancien marché de Noël de France",
   "subtitlePt": "O Christkindelsmärik, o mais antigo mercado de Natal da França",
-  "summaryPt": "Nesta Aula 6 (C1+), a família descobre o mercado de Natal de Strasbourg, criado em 1570, o mais antigo da França. O aluno combina o Futur Antérieur com conectores argumentativos: 'dès que nous aurons goûté le vin chaud', 'en outre', 'de surcroît'.",
+  "summaryPt": "Nesta Aula 6 (C1+), o casal descobre o mercado de Natal de Strasbourg, criado em 1570, o mais antigo da França. O aluno combina o Futur Antérieur com conectores argumentativos: 'dès que nous aurons goûté le vin chaud', 'en outre', 'de surcroît'.",
   "paragraphs": [
     {
       "id": 1,
@@ -16,8 +16,8 @@
     },
     {
       "id": 2,
-      "fr": "Iris a regardé les étoiles en bois : « Ce sont de vrais artisans qui les fabriquent ? » Andréa a souri : « Oui. La fabrication des décorations, transmise de génération en génération, est un art local. En outre, la confection des bredeles demande un savoir-faire unique. De surcroît, chaque famille garde sa recette secrète. »",
-      "pt": "Íris olhou as estrelas de madeira: « São artesãos de verdade que as fabricam? » Andréa sorriu: « Sim. A fabricação das decorações, transmitida de geração em geração, é uma arte local. Além disso, a confecção dos bredeles exige um saber-fazer único. Ademais, cada família guarda sua receita secreta. »"
+      "fr": "Andréa a regardé les étoiles en bois : « Ce sont de vrais artisans qui les fabriquent ? » Irlan a souri : « Oui. La fabrication des décorations, transmise de génération en génération, est un art local. En outre, la confection des bredeles demande un savoir-faire unique. De surcroît, chaque famille garde sa recette secrète. »",
+      "pt": "Andréa olhou as estrelas de madeira: « São artesãos de verdade que as fabricam? » Irlan sorriu: « Sim. A fabricação das decorações, transmitida de geração em geração, é uma arte local. Além disso, a confecção dos bredeles exige um saber-fazer único. Ademais, cada família guarda sua receita secreta. »"
     },
     {
       "id": 3,
@@ -26,8 +26,8 @@
     },
     {
       "id": 4,
-      "fr": "Le soir, la famille a acheté des décorations. « Dès que nous aurons rentré tous ces souvenirs, nous décorerons notre sapin, a promis Andréa. Et quand nous serons rentrés au Brésil, nous aurons rapporté un peu de la magie de Strasbourg. Par conséquent, Noël sera doublement fêté ! »",
-      "pt": "À noite, a família comprou decorações. « Assim que tivermos guardado todas essas lembranças, decoraremos nossa árvore, prometeu Andréa. E quando tivermos voltado ao Brasil, teremos trazido um pouco da magia de Strasbourg. Por conseguinte, o Natal será festejado em dobro! »"
+      "fr": "Le soir, le couple a acheté des décorations. « Dès que nous aurons rentré tous ces souvenirs, nous décorerons notre sapin, a promis Andréa. Et quand nous serons rentrés au Brésil, nous aurons rapporté un peu de la magie de Strasbourg. Par conséquent, Noël sera doublement fêté ! »",
+      "pt": "À noite, o casal comprou decorações. « Assim que tivermos guardado todas essas lembranças, decoraremos nossa árvore, prometeu Andréa. E quando tivermos voltado ao Brasil, teremos trazido um pouco da magia de Strasbourg. Por conseguinte, o Natal será festejado em dobro! »"
     }
   ],
   "vocabularyDictionary": [
@@ -130,7 +130,7 @@
       "ptTargets": ["árvore de Natal", "pinheiro"],
       "examples": [
         { "level": "A1", "fr": "Le sapin est vert.", "pt": "A árvore de Natal é verde." },
-        { "level": "A2-B1", "fr": "La famille décorera son sapin.", "pt": "A família decorará sua árvore de Natal." },
+        { "level": "A2-B1", "fr": "Le couple décorera son sapin.", "pt": "O casal decorará sua árvore de Natal." },
         { "level": "B2", "fr": "Le sapin, décoré de boules et de guirlandes, trône au centre du salon.", "pt": "A árvore de Natal, decorada com bolas e guirlandas, reina no centro da sala." },
         { "level": "C1-C2", "fr": "C'est autour du sapin que se réunit la famille au moment de Noël.", "pt": "É em torno da árvore de Natal que a família se reúne no momento do Natal." }
       ]
@@ -169,7 +169,7 @@
       "ptTargets": ["lembrança", "souvenir"],
       "examples": [
         { "level": "A1", "fr": "Le souvenir est joli.", "pt": "A lembrança é bonita." },
-        { "level": "A2-B1", "fr": "La famille a acheté des souvenirs.", "pt": "A família comprou lembranças." },
+        { "level": "A2-B1", "fr": "Le couple a acheté des souvenirs.", "pt": "O casal comprou lembranças." },
         { "level": "B2", "fr": "Les souvenirs, rapportés de Strasbourg, décoreront le sapin.", "pt": "As lembranças, trazidas de Strasbourg, decorarão a árvore." },
         { "level": "C1-C2", "fr": "C'est par les souvenirs que le voyage continue de vivre à la maison.", "pt": "É pelas lembranças que a viagem continua viva em casa." }
       ]
@@ -243,10 +243,10 @@
       "explanation": "Futur antérieur: nous aurons goûté."
     },
     {
-      "question": "O que a família fará com os souvenirs?",
+      "question": "O que o casal fará com os souvenirs?",
       "options": ["decorará a árvore de Natal", "venderá", "jogará fora"],
       "correctIndex": 0,
-      "explanation": "A família decorará seu sapin com as lembranças de Strasbourg."
+      "explanation": "O casal decorará seu sapin com as lembranças de Strasbourg."
     }
   ]
 }

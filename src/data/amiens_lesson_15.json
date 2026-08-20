@@ -68,6 +68,21 @@
       "id": 12,
       "fr": "« Et Amiens nous parle peut-être à travers ses fils », ajoute Andréa, pensive.",
       "pt": "« E Amiens talvez fale conosco através de seus fios », acrescenta Andréa, pensativa."
+    },
+    {
+      "id": 13,
+      "fr": "Le marionnettiste ajuste les fils. La poupée virevolte sur la scène miniature.",
+      "pt": "O marionetista ajusta os fios. A boneca girando no palco em miniatura."
+    },
+    {
+      "id": 14,
+      "fr": "Andréa regarde la série des aventures du pirate. Le guignol est drôle et les enfants rient.",
+      "pt": "Andréa assiste a série das aventuras do pirata. O bonecão é engraçado e as crianças riem."
+    },
+    {
+      "id": 15,
+      "fr": "Irlan joue un air de violon pour accompagner le spectacle. Le handball peut attendre ce soir.",
+      "pt": "Irlan toca uma música de violino para acompanhar o espetáculo. O handebol pode esperar esta noite."
     }
   ],
   "vocabularyDictionary": [
@@ -75,156 +90,421 @@
       "term": "la marionnette",
       "definitionPt": "a marionete",
       "definitionFr": "Poupée animée par des fils.",
-      "inflections": ["la marionnette", "une marionnette", "des marionnettes"],
-      "ptTargets": ["marionete"],
+      "inflections": [
+        "la marionnette",
+        "une marionnette",
+        "des marionnettes"
+      ],
+      "ptTargets": [
+        "marionete"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La marionnette est petite.", "pt": "A marionete é pequena." },
-        { "level": "A2-B1", "fr": "Une marionnette sort des rideaux.", "pt": "Uma marionete sai das cortinas." },
-        { "level": "B2", "fr": "La marionnette, agile, semble vivante entre les mains de l'artiste.", "pt": "A marionete, ágil, parece viva nas mãos do artista." },
-        { "level": "C1-C2", "fr": "C'est la marionnette qui, au bout de ses fils, donne une âme à la matière.", "pt": "É a marionete que, na ponta de seus fios, dá alma à matéria." }
+        {
+          "level": "A1",
+          "fr": "La marionnette est petite.",
+          "pt": "A marionete é pequena."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Une marionnette sort des rideaux.",
+          "pt": "Uma marionete sai das cortinas."
+        },
+        {
+          "level": "B2",
+          "fr": "La marionnette, agile, semble vivante entre les mains de l'artiste.",
+          "pt": "A marionete, ágil, parece viva nas mãos do artista."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est la marionnette qui, au bout de ses fils, donne une âme à la matière.",
+          "pt": "É a marionete que, na ponta de seus fios, dá alma à matéria."
+        }
       ]
     },
     {
       "term": "le théâtre",
       "definitionPt": "o teatro",
       "definitionFr": "Lieu de représentation.",
-      "inflections": ["le théâtre", "un théâtre", "des théâtres"],
-      "ptTargets": ["teatro"],
+      "inflections": [
+        "le théâtre",
+        "un théâtre",
+        "des théâtres"
+      ],
+      "ptTargets": [
+        "teatro"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le théâtre est petit.", "pt": "O teatro é pequeno." },
-        { "level": "A2-B1", "fr": "Ils entrent dans un petit théâtre.", "pt": "Eles entram num pequeno teatro." },
-        { "level": "B2", "fr": "Le théâtre de marionnettes attire un public de tous les âges.", "pt": "O teatro de marionetes atrai um público de todas as idades." },
-        { "level": "C1-C2", "fr": "C'est le théâtre qui, même minuscule, ouvre un monde sans limites.", "pt": "É o teatro que, mesmo minúsculo, abre um mundo sem limites." }
+        {
+          "level": "A1",
+          "fr": "Le théâtre est petit.",
+          "pt": "O teatro é pequeno."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Ils entrent dans un petit théâtre.",
+          "pt": "Eles entram num pequeno teatro."
+        },
+        {
+          "level": "B2",
+          "fr": "Le théâtre de marionnettes attire un public de tous les âges.",
+          "pt": "O teatro de marionetes atrai um público de todas as idades."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est le théâtre qui, même minuscule, ouvre un monde sans limites.",
+          "pt": "É o teatro que, mesmo minúsculo, abre um mundo sem limites."
+        }
       ]
     },
     {
       "term": "la scène",
       "definitionPt": "o palco",
       "definitionFr": "Espace où jouent les artistes.",
-      "inflections": ["la scène", "une scène", "des scènes"],
-      "ptTargets": ["palco"],
+      "inflections": [
+        "la scène",
+        "une scène",
+        "des scènes"
+      ],
+      "ptTargets": [
+        "palco"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La scène est éclairée.", "pt": "O palco está iluminado." },
-        { "level": "A2-B1", "fr": "La scène est minuscule.", "pt": "O palco é minúsculo." },
-        { "level": "B2", "fr": "Sur la scène, les marionnettes prennent vie.", "pt": "No palco, as marionetes ganham vida." },
-        { "level": "C1-C2", "fr": "C'est la scène qui, réduite à quelques planches, contient tous les rêves possibles.", "pt": "É o palco que, reduzido a algumas tábuas, contém todos os sonhos possíveis." }
+        {
+          "level": "A1",
+          "fr": "La scène est éclairée.",
+          "pt": "O palco está iluminado."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "La scène est minuscule.",
+          "pt": "O palco é minúsculo."
+        },
+        {
+          "level": "B2",
+          "fr": "Sur la scène, les marionnettes prennent vie.",
+          "pt": "No palco, as marionetes ganham vida."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est la scène qui, réduite à quelques planches, contient tous les rêves possibles.",
+          "pt": "É o palco que, reduzido a algumas tábuas, contém todos os sonhos possíveis."
+        }
       ]
     },
     {
       "term": "le fil",
       "definitionPt": "o fio",
       "definitionFr": "Corde très fine.",
-      "inflections": ["le fil", "un fil", "des fils"],
-      "ptTargets": ["fio"],
+      "inflections": [
+        "le fil",
+        "un fil",
+        "des fils"
+      ],
+      "ptTargets": [
+        "fio"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le fil est long.", "pt": "O fio é comprido." },
-        { "level": "A2-B1", "fr": "On peut voir les fils des marionnettes ?", "pt": "Dá para ver os fios das marionetes?" },
-        { "level": "B2", "fr": "L'artiste tire les fils avec précision.", "pt": "O artista puxa os fios com precisão." },
-        { "level": "C1-C2", "fr": "C'est le fil qui, invisible, relie le geste de l'artiste au mouvement du personnage.", "pt": "É o fio que, invisível, liga o gesto do artista ao movimento do personagem." }
+        {
+          "level": "A1",
+          "fr": "Le fil est long.",
+          "pt": "O fio é comprido."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "On peut voir les fils des marionnettes ?",
+          "pt": "Dá para ver os fios das marionetes?"
+        },
+        {
+          "level": "B2",
+          "fr": "L'artiste tire les fils avec précision.",
+          "pt": "O artista puxa os fios com precisão."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est le fil qui, invisible, relie le geste de l'artiste au mouvement du personnage.",
+          "pt": "É o fio que, invisível, liga o gesto do artista ao movimento do personagem."
+        }
       ]
     },
     {
       "term": "le rideau",
       "definitionPt": "a cortina",
       "definitionFr": "Tissu qui cache la scène.",
-      "inflections": ["le rideau", "un rideau", "des rideaux"],
-      "ptTargets": ["cortina"],
+      "inflections": [
+        "le rideau",
+        "un rideau",
+        "des rideaux"
+      ],
+      "ptTargets": [
+        "cortina"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le rideau est rouge.", "pt": "A cortina é vermelha." },
-        { "level": "A2-B1", "fr": "Une marionnette sort des rideaux.", "pt": "Uma marionete sai das cortinas." },
-        { "level": "B2", "fr": "Le rideau se lève lentement au début du spectacle.", "pt": "A cortina se ergue lentamente no começo do espetáculo." },
-        { "level": "C1-C2", "fr": "C'est le rideau qui, en se levant, fait taire la salle d'un seul coup.", "pt": "É a cortina que, ao se erguer, silencia a sala de uma só vez." }
+        {
+          "level": "A1",
+          "fr": "Le rideau est rouge.",
+          "pt": "A cortina é vermelha."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Une marionnette sort des rideaux.",
+          "pt": "Uma marionete sai das cortinas."
+        },
+        {
+          "level": "B2",
+          "fr": "Le rideau se lève lentement au début du spectacle.",
+          "pt": "A cortina se ergue lentamente no começo do espetáculo."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est le rideau qui, en se levant, fait taire la salle d'un seul coup.",
+          "pt": "É a cortina que, ao se erguer, silencia a sala de uma só vez."
+        }
       ]
     },
     {
       "term": "la salle",
       "definitionPt": "a sala / o público",
       "definitionFr": "Pièce où se trouve le public.",
-      "inflections": ["la salle", "une salle", "des salles"],
-      "ptTargets": ["sala", "público"],
+      "inflections": [
+        "la salle",
+        "une salle",
+        "des salles"
+      ],
+      "ptTargets": [
+        "sala",
+        "público"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La salle est pleine.", "pt": "A sala está cheia." },
-        { "level": "A2-B1", "fr": "La marionnette fait rire toute la salle.", "pt": "A marionete faz toda a sala rir." },
-        { "level": "B2", "fr": "La salle applaudit longuement à la fin.", "pt": "A sala aplaude longamente no fim." },
-        { "level": "C1-C2", "fr": "C'est la salle qui, attentive, respire au même rythme que la scène.", "pt": "É a sala que, atenta, respira no mesmo ritmo que o palco." }
+        {
+          "level": "A1",
+          "fr": "La salle est pleine.",
+          "pt": "A sala está cheia."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "La marionnette fait rire toute la salle.",
+          "pt": "A marionete faz toda a sala rir."
+        },
+        {
+          "level": "B2",
+          "fr": "La salle applaudit longuement à la fin.",
+          "pt": "A sala aplaude longamente no fim."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est la salle qui, attentive, respire au même rythme que la scène.",
+          "pt": "É a sala que, atenta, respira no mesmo ritmo que o palco."
+        }
       ]
     },
     {
       "term": "rire",
       "definitionPt": "rir",
       "definitionFr": "Exprimer la joie par le rire.",
-      "inflections": ["rire", "je ris", "nous rions"],
-      "ptTargets": ["rir"],
+      "inflections": [
+        "rire",
+        "je ris",
+        "nous rions"
+      ],
+      "ptTargets": [
+        "rir"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Je ris beaucoup.", "pt": "Eu rio muito." },
-        { "level": "A2-B1", "fr": "La marionnette fait rire la salle.", "pt": "A marionete faz a sala rir." },
-        { "level": "B2", "fr": "Rire ensemble rapproche les inconnus.", "pt": "Rir juntos aproxima os desconhecidos." },
-        { "level": "C1-C2", "fr": "C'est le rire qui, partagé, transforme une salle en communauté.", "pt": "É o riso que, compartilhado, transforma uma sala em comunidade." }
+        {
+          "level": "A1",
+          "fr": "Je ris beaucoup.",
+          "pt": "Eu rio muito."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "La marionnette fait rire la salle.",
+          "pt": "A marionete faz a sala rir."
+        },
+        {
+          "level": "B2",
+          "fr": "Rire ensemble rapproche les inconnus.",
+          "pt": "Rir juntos aproxima os desconhecidos."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est le rire qui, partagé, transforme une salle en communauté.",
+          "pt": "É o riso que, compartilhado, transforma uma sala em comunidade."
+        }
       ]
     },
     {
       "term": "le chapeau",
       "definitionPt": "o chapéu",
       "definitionFr": "Objet que l'on porte sur la tête.",
-      "inflections": ["le chapeau", "un chapeau", "des chapeaux"],
-      "ptTargets": ["chapéu"],
+      "inflections": [
+        "le chapeau",
+        "un chapeau",
+        "des chapeaux"
+      ],
+      "ptTargets": [
+        "chapéu"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le chapeau est grand.", "pt": "O chapéu é grande." },
-        { "level": "A2-B1", "fr": "La marionnette porte un grand chapeau.", "pt": "A marionete usa um grande chapéu." },
-        { "level": "B2", "fr": "Le chapeau du personnage lui donne un air comique.", "pt": "O chapéu do personagem lhe dá um ar cômico." },
-        { "level": "C1-C2", "fr": "C'est le chapeau qui, disproportionné, achève de rendre le personnage inoubliable.", "pt": "É o chapéu que, desproporcional, termina de tornar o personagem inesquecível." }
+        {
+          "level": "A1",
+          "fr": "Le chapeau est grand.",
+          "pt": "O chapéu é grande."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "La marionnette porte un grand chapeau.",
+          "pt": "A marionete usa um grande chapéu."
+        },
+        {
+          "level": "B2",
+          "fr": "Le chapeau du personnage lui donne un air comique.",
+          "pt": "O chapéu do personagem lhe dá um ar cômico."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est le chapeau qui, disproportionné, achève de rendre le personnage inoubliable.",
+          "pt": "É o chapéu que, desproporcional, termina de tornar o personagem inesquecível."
+        }
       ]
     },
     {
       "term": "danser",
       "definitionPt": "dançar",
       "definitionFr": "Bouger en rythme.",
-      "inflections": ["danser", "je danse", "nous dansons"],
-      "ptTargets": ["dançar"],
+      "inflections": [
+        "danser",
+        "je danse",
+        "nous dansons"
+      ],
+      "ptTargets": [
+        "dançar"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Je danse avec joie.", "pt": "Eu danço com alegria." },
-        { "level": "A2-B1", "fr": "Les deux personnages dansent ensemble.", "pt": "Os dois personagens dançam juntos." },
-        { "level": "B2", "fr": "Danser libère et rapproche les gens.", "pt": "Dançar liberta e aproxima as pessoas." },
-        { "level": "C1-C2", "fr": "C'est en dansant que le corps dit ce que la voix ne peut pas exprimer.", "pt": "É dançando que o corpo diz o que a voz não consegue expressar." }
+        {
+          "level": "A1",
+          "fr": "Je danse avec joie.",
+          "pt": "Eu danço com alegria."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Les deux personnages dansent ensemble.",
+          "pt": "Os dois personagens dançam juntos."
+        },
+        {
+          "level": "B2",
+          "fr": "Danser libère et rapproche les gens.",
+          "pt": "Dançar liberta e aproxima as pessoas."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est en dansant que le corps dit ce que la voix ne peut pas exprimer.",
+          "pt": "É dançando que o corpo diz o que a voz não consegue expressar."
+        }
       ]
     },
     {
       "term": "la main",
       "definitionPt": "a mão",
       "definitionFr": "Partie du corps au bout du bras.",
-      "inflections": ["la main", "une main", "des mains"],
-      "ptTargets": ["mão"],
+      "inflections": [
+        "la main",
+        "une main",
+        "des mains"
+      ],
+      "ptTargets": [
+        "mão"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La main est petite.", "pt": "A mão é pequena." },
-        { "level": "A2-B1", "fr": "L'artiste montre ses mains vides.", "pt": "O artista mostra as mãos vazias." },
-        { "level": "B2", "fr": "Ses mains bougent avec une précision étonnante.", "pt": "Suas mãos se movem com uma precisão surpreendente." },
-        { "level": "C1-C2", "fr": "C'est la main qui, invisible derrière la scène, donne vie à tout le reste.", "pt": "É a mão que, invisível atrás do palco, dá vida a todo o resto." }
+        {
+          "level": "A1",
+          "fr": "La main est petite.",
+          "pt": "A mão é pequena."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "L'artiste montre ses mains vides.",
+          "pt": "O artista mostra as mãos vazias."
+        },
+        {
+          "level": "B2",
+          "fr": "Ses mains bougent avec une précision étonnante.",
+          "pt": "Suas mãos se movem com uma precisão surpreendente."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est la main qui, invisible derrière la scène, donne vie à tout le reste.",
+          "pt": "É a mão que, invisível atrás do palco, dá vida a todo o resto."
+        }
       ]
     },
     {
       "term": "saluer",
       "definitionPt": "cumprimentar / saudar",
       "definitionFr": "Dire bonjour ou merci au public.",
-      "inflections": ["saluer", "je salue", "nous saluons"],
-      "ptTargets": ["cumprimentar", "saudar"],
+      "inflections": [
+        "saluer",
+        "je salue",
+        "nous saluons"
+      ],
+      "ptTargets": [
+        "cumprimentar",
+        "saudar"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Je salue mes amis.", "pt": "Eu cumprimento meus amigos." },
-        { "level": "A2-B1", "fr": "L'artiste salue le public.", "pt": "O artista cumprimenta o público." },
-        { "level": "B2", "fr": "À la fin, l'artiste salue et remercie la salle.", "pt": "No fim, o artista cumprimenta e agradece a sala." },
-        { "level": "C1-C2", "fr": "C'est en saluant que l'artiste rend au public ce que le public lui a offert.", "pt": "É cumprimentando que o artista devolve ao público o que o público lhe ofereceu." }
+        {
+          "level": "A1",
+          "fr": "Je salue mes amis.",
+          "pt": "Eu cumprimento meus amigos."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "L'artiste salue le public.",
+          "pt": "O artista cumprimenta o público."
+        },
+        {
+          "level": "B2",
+          "fr": "À la fin, l'artiste salue et remercie la salle.",
+          "pt": "No fim, o artista cumprimenta e agradece a sala."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est en saluant que l'artiste rend au public ce que le public lui a offert.",
+          "pt": "É cumprimentando que o artista devolve ao público o que o público lhe ofereceu."
+        }
       ]
     },
     {
       "term": "la poésie",
       "definitionPt": "a poesia",
       "definitionFr": "Art d'exprimer par les mots.",
-      "inflections": ["la poésie", "une poésie"],
-      "ptTargets": ["poesia"],
+      "inflections": [
+        "la poésie",
+        "une poésie"
+      ],
+      "ptTargets": [
+        "poesia"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La poésie est belle.", "pt": "A poesia é bela." },
-        { "level": "A2-B1", "fr": "J'aime ce mélange de rire et de poésie.", "pt": "Eu gosto dessa mistura de riso e poesia." },
-        { "level": "B2", "fr": "La poésie donne des images aux sentiments.", "pt": "A poesia dá imagens aos sentimentos." },
-        { "level": "C1-C2", "fr": "C'est la poésie qui, avec peu de mots, touche ce que la raison n'atteint pas.", "pt": "É a poesia que, com poucas palavras, toca o que a razão não alcança." }
+        {
+          "level": "A1",
+          "fr": "La poésie est belle.",
+          "pt": "A poesia é bela."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "J'aime ce mélange de rire et de poésie.",
+          "pt": "Eu gosto dessa mistura de riso e poesia."
+        },
+        {
+          "level": "B2",
+          "fr": "La poésie donne des images aux sentiments.",
+          "pt": "A poesia dá imagens aos sentimentos."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est la poésie qui, avec peu de mots, touche ce que la raison n'atteint pas.",
+          "pt": "É a poesia que, com poucas palavras, toca o que a razão não alcança."
+        }
       ]
     }
   ],
@@ -234,7 +514,11 @@
     "exampleFr": "On peut voir les fils ? Nous pouvons entrer.",
     "examplePt": "Dá para ver os fios? Nós podemos entrar.",
     "practiceQuestion": "Complete: 'On _____ voir les fils ?'",
-    "options": ["peut", "peux", "pouvons"],
+    "options": [
+      "peut",
+      "peux",
+      "pouvons"
+    ],
     "correctIndex": 0,
     "points": [
       {
@@ -243,7 +527,11 @@
         "exampleFr": "J'aime ce mélange de rire et de poésie.",
         "examplePt": "Eu gosto dessa mistura de riso e poesia.",
         "practiceQuestion": "Complete: 'J'_____ ce mélange.'",
-        "options": ["aime", "aimes", "aimons"],
+        "options": [
+          "aime",
+          "aimes",
+          "aimons"
+        ],
         "correctIndex": 0
       },
       {
@@ -252,7 +540,11 @@
         "exampleFr": "On ne voit presque pas les fils.",
         "examplePt": "Quase não se veem os fios.",
         "practiceQuestion": "Complete: 'On ne voit _____ les fils.'",
-        "options": ["presque pas", "presque", "pas du tout"],
+        "options": [
+          "presque pas",
+          "presque",
+          "pas du tout"
+        ],
         "correctIndex": 0
       }
     ]
@@ -260,31 +552,51 @@
   "quizQuestions": [
     {
       "question": "Onde Irlan e Andréa entram à noite?",
-      "options": ["num teatro de marionetes", "num cinema", "num circo"],
+      "options": [
+        "num teatro de marionetes",
+        "num cinema",
+        "num circo"
+      ],
       "correctIndex": 0,
       "explanation": "Ils entrent dans un petit théâtre de marionnettes."
     },
     {
       "question": "O que Andréa pergunta?",
-      "options": ["se dá para ver os fios", "se pode tirar fotos", "se há lugares livres"],
+      "options": [
+        "se dá para ver os fios",
+        "se pode tirar fotos",
+        "se há lugares livres"
+      ],
       "correctIndex": 0,
       "explanation": "On peut voir les fils ? demande Andréa."
     },
     {
       "question": "O que os dois personagens fazem?",
-      "options": ["discutem e depois dançam", "cantam e choram", "dormem e acordam"],
+      "options": [
+        "discutem e depois dançam",
+        "cantam e choram",
+        "dormem e acordam"
+      ],
       "correctIndex": 0,
       "explanation": "Les deux personnages se disputent, puis dansent ensemble."
     },
     {
       "question": "Complete: 'On _____ voir les fils ?'",
-      "options": ["peut", "peux", "pouvons"],
+      "options": [
+        "peut",
+        "peux",
+        "pouvons"
+      ],
       "correctIndex": 0,
       "explanation": "on peut (verbo pouvoir)."
     },
     {
       "question": "Complete: 'J'_____ ce mélange.'",
-      "options": ["aime", "aimes", "aimons"],
+      "options": [
+        "aime",
+        "aimes",
+        "aimons"
+      ],
       "correctIndex": 0,
       "explanation": "j'aime."
     }

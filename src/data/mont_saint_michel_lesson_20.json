@@ -69,6 +69,21 @@
       "fr": "« La marée nettoie et protège », a ajouté Andréa. « Elle nous donnera le chemin, si nous savons l'écouter. » Ils sont redescendus vers la digue.",
       "pt": "« A maré limpa e protege », acrescentou Andréa. « Ela nos dará o caminho, se soubermos escutá-la. » Eles desceram de volta ao dique."
     }
+    ,{
+      "id": 13,
+      "fr": "Au barrage du Couesnon, Irlan observe l'inondation passée. Le guide explique comment sauver le Mont de la terre.",
+      "pt": "Na barragem do Couesnon, Irlan observa a enchente passada. O guia explica como salvar o Mont da terra."
+    },
+    {
+      "id": 14,
+      "fr": "Andréa lit la signalisation derrière le bâtiment. La déviation oblige les visiteurs à marcher plus longtemps.",
+      "pt": "Andréa lê a sinalização atrás do prédio. O desvio obriga os visitantes a caminhar mais."
+    },
+    {
+      "id": 15,
+      "fr": "Le ciel est dégagé et l'eau descend progressivement. « Le résultat est apaisant », dit Irlan.",
+      "pt": "O céu está limpo e a água baixa progressivamente. O resultado é tranquilizador, diz Irlan."
+    }
   ],
   "vocabularyDictionary": [
     {
@@ -117,7 +132,7 @@
       "inflections": ["le limon", "un limon", "des limons"],
       "ptTargets": ["lodo", "lama"],
       "examples": [
-        { "level": "A1", "fr": "Le limon est gris.", "pt": "O lodo é cinza." },
+        { "level": "A1", "fr": "Le limon colle aux bottes.", "pt": "O lodo gruda nas botas." },
         { "level": "A2-B1", "fr": "Le limon s'accumulait dans la baie.", "pt": "O lodo se acumulava na baía." },
         { "level": "B2", "fr": "La mer pousse le limon vers le large grâce au barrage.", "pt": "O mar empurra o lodo para o largo graças à barragem." },
         { "level": "C1-C2", "fr": "Le limon, invisible à marée haute, est le grand ennemi du Mont.", "pt": "O lodo, invisível na maré alta, é o grande inimigo do Mont." }

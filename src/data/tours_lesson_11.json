@@ -7,12 +7,12 @@
   "titlePt": "A praça Plumereau: o coração da Tours antiga",
   "subtitleFr": "Maisons à colombages, bistrots et douceur de vivre",
   "subtitlePt": "Casas em enxaimel, bistrôs e doçura de viver",
-  "summaryPt": "Nesta Aula 11 (B1), a família descobre a place Plumereau, a praça mais charmosa de Tours, cercada de casas medievais em enxaimel. O aluno pratica o futur simple (nous prendrons un verre), os pronomes relativos (la maison dont les poutres...) e o vocabulário da cidade antiga.",
+  "summaryPt": "Nesta Aula 11 (B1), o casal descobre a place Plumereau, a praça mais charmosa de Tours, cercada de casas medievais em enxaimel — e Irlan nota um homem na terrasse em frente que parece observá-los. O aluno pratica o futur simple (nous prendrons un verre), os pronomes relativos (la maison dont les poutres...) e o vocabulário da cidade antiga.",
   "paragraphs": [
     {
       "id": 1,
-      "fr": "« Voici la place Plumereau », a dit Andréa. « Les maisons qui l'entourent ont cinq cents ans. » Iris a ouvert de grands yeux : « Elles penchent un peu, maman ! »",
-      "pt": "« Aqui é a praça Plumereau », disse Andréa. « As casas que a cercam têm quinhentos anos. » Íris arregalou os olhos: « Elas estão meio tortas, mamãe! »"
+      "fr": "« Voici la place Plumereau », a dit Andréa. « Les maisons qui l'entourent ont cinq cents ans. » Irlan a souri : « Elles penchent un peu, non ? Comme des lettres fatiguées d'avoir tant servi. »",
+      "pt": "« Aqui é a praça Plumereau », disse Andréa. « As casas que a cercam têm quinhentos anos. » Irlan sorriu: « Elas estão meio tortas, não? Como letras cansadas de tanto servirem. »"
     },
     {
       "id": 2,
@@ -31,8 +31,23 @@
     },
     {
       "id": 5,
-      "fr": "« Demain, nous visiterons la basilique Saint-Martin », a dit Andréa. « Mais d'abord, goûtons cette tarte Tatin dont tout le monde parle ! » La famille a ri : la douceur tourangelle commençait.",
-      "pt": "« Amanhã, visitaremos a basílica de Saint-Martin », disse Andréa. « Mas primeiro, provemos essa torta Tatin de que todo mundo fala! » A família riu: a doçura da Touraine começava."
+      "fr": "« Demain, nous visiterons la basilique Saint-Martin », a dit Andréa. « Mais d'abord, goûtons cette tarte Tatin dont tout le monde parle ! » Sur la terrasse d'en face, l'homme au journal les regardait encore. Andréa a froncé les sourcils : « Il était déjà là ce matin. » Irlan a reposé sa tasse : « Alors c'est lui qui nous suit, pas la route. »",
+      "pt": "« Amanhã, visitaremos a basílica de Saint-Martin », disse Andréa. « Mas primeiro, provemos essa torta Tatin de que todo mundo fala! » No terraço em frente, o homem do jornal os olhava de novo. Andréa franziu a testa: « Ele já estava aqui esta manhã. » Irlan pousou a xícara: « Então é ele que nos segue, não a estrada. »"
+    },
+    {
+      "id": 6,
+      "fr": "La place Plumereau offre un confort agréable. Les maisons sont typiques de la Touraine.",
+      "pt": "A praça Plumereau oferece um conforto agradável. As casas são típicas da Touraine."
+    },
+    {
+      "id": 7,
+      "fr": "Irlan observe le quartier commerçant. Les magasins proposent des produits de seconde main à prix abordables.",
+      "pt": "Irlan observa o bairro comercial. As lojas oferecem produtos de segunda mão a preços acessíveis."
+    },
+    {
+      "id": 8,
+      "fr": "Un vendeur propose un coupon de réduction sur un objet ancien. « C'est une bonne affaire », plaide-t-il.",
+      "pt": "Um vendedor oferece um cupom de desconto num objeto antigo. É uma boa pechincha, implora ele."
     }
   ],
   "vocabularyDictionary": [
@@ -40,156 +55,421 @@
       "term": "la place",
       "definitionPt": "a praça",
       "definitionFr": "Espace public dans une ville.",
-      "inflections": ["la place", "une place", "des places"],
-      "ptTargets": ["praça"],
+      "inflections": [
+        "la place",
+        "une place",
+        "des places"
+      ],
+      "ptTargets": [
+        "praça"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La place est grande.", "pt": "A praça é grande." },
-        { "level": "A2-B1", "fr": "La place Plumereau est pleine de cafés.", "pt": "A praça Plumereau está cheia de cafés." },
-        { "level": "B2", "fr": "La place où nous avons bu un verre est célèbre.", "pt": "A praça onde tomamos um drinque é famosa." },
-        { "level": "C1-C2", "fr": "La place, salle de séjour de la ville, vit au rythme des saisons.", "pt": "A praça, sala de estar da cidade, vive no ritmo das estações." }
+        {
+          "level": "A1",
+          "fr": "La place est grande.",
+          "pt": "A praça é grande."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "La place Plumereau est pleine de cafés.",
+          "pt": "A praça Plumereau está cheia de cafés."
+        },
+        {
+          "level": "B2",
+          "fr": "La place où nous avons bu un verre est célèbre.",
+          "pt": "A praça onde tomamos um drinque é famosa."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "La place, salle de séjour de la ville, vit au rythme des saisons.",
+          "pt": "A praça, sala de estar da cidade, vive no ritmo das estações."
+        }
       ]
     },
     {
       "term": "la maison à colombages",
       "definitionPt": "a casa em enxaimel",
       "definitionFr": "Maison ancienne avec des poutres en bois visibles.",
-      "inflections": ["la maison à colombages", "des maisons à colombages"],
-      "ptTargets": ["casa em enxaimel", "enxaimel"],
+      "inflections": [
+        "la maison à colombages",
+        "des maisons à colombages"
+      ],
+      "ptTargets": [
+        "casa em enxaimel",
+        "enxaimel"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La maison est vieille.", "pt": "A casa é velha." },
-        { "level": "A2-B1", "fr": "Les maisons à colombages entourent la place.", "pt": "As casas em enxaimel cercam a praça." },
-        { "level": "B2", "fr": "La maison à colombages dont on voit les poutres date de 1500.", "pt": "A casa em enxaimel cujas vigas se veem data de 1500." },
-        { "level": "C1-C2", "fr": "La maison à colombages, squelette de bois habillé de pierre, défie le temps.", "pt": "A casa em enxaimel, esqueleto de madeira vestido de pedra, desafia o tempo." }
+        {
+          "level": "A1",
+          "fr": "La maison est vieille.",
+          "pt": "A casa é velha."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Les maisons à colombages entourent la place.",
+          "pt": "As casas em enxaimel cercam a praça."
+        },
+        {
+          "level": "B2",
+          "fr": "La maison à colombages dont on voit les poutres date de 1500.",
+          "pt": "A casa em enxaimel cujas vigas se veem data de 1500."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "La maison à colombages, squelette de bois habillé de pierre, défie le temps.",
+          "pt": "A casa em enxaimel, esqueleto de madeira vestido de pedra, desafia o tempo."
+        }
       ]
     },
     {
       "term": "la poutre",
       "definitionPt": "a viga",
       "definitionFr": "Pièce de bois qui soutient une construction.",
-      "inflections": ["la poutre", "une poutre", "des poutres"],
-      "ptTargets": ["viga"],
+      "inflections": [
+        "la poutre",
+        "une poutre",
+        "des poutres"
+      ],
+      "ptTargets": [
+        "viga"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La poutre est en bois.", "pt": "A viga é de madeira." },
-        { "level": "A2-B1", "fr": "Les poutres des maisons sont visibles.", "pt": "As vigas das casas são visíveis." },
-        { "level": "B2", "fr": "La maison dont les poutres penchent a du charme.", "pt": "A casa cujas vigas pendem tem charme." },
-        { "level": "C1-C2", "fr": "La poutre, os de la maison, soutient des siècles de rêves.", "pt": "A viga, osso da casa, sustenta séculos de sonhos." }
+        {
+          "level": "A1",
+          "fr": "La poutre est en bois.",
+          "pt": "A viga é de madeira."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Les poutres des maisons sont visibles.",
+          "pt": "As vigas das casas são visíveis."
+        },
+        {
+          "level": "B2",
+          "fr": "La maison dont les poutres penchent a du charme.",
+          "pt": "A casa cujas vigas pendem tem charme."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "La poutre, os de la maison, soutient des siècles de rêves.",
+          "pt": "A viga, osso da casa, sustenta séculos de sonhos."
+        }
       ]
     },
     {
       "term": "le bistrot",
       "definitionPt": "o bistrô",
       "definitionFr": "Petit café-restaurant.",
-      "inflections": ["le bistrot", "un bistrot", "des bistrots"],
-      "ptTargets": ["bistrô"],
+      "inflections": [
+        "le bistrot",
+        "un bistrot",
+        "des bistrots"
+      ],
+      "ptTargets": [
+        "bistrô"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le bistrot est petit.", "pt": "O bistrô é pequeno." },
-        { "level": "A2-B1", "fr": "On a pris un verre au bistrot.", "pt": "Tomamos um drinque no bistrô." },
-        { "level": "B2", "fr": "Le bistrot où nous étions assis était charmant.", "pt": "O bistrô onde estávamos sentados era charmoso." },
-        { "level": "C1-C2", "fr": "Le bistrot, salon du peuple, réunit les solitudes autour d'un verre.", "pt": "O bistrô, salão do povo, reúne as solidões em torno de um drinque." }
+        {
+          "level": "A1",
+          "fr": "Le bistrot est petit.",
+          "pt": "O bistrô é pequeno."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "On a pris un verre au bistrot.",
+          "pt": "Tomamos um drinque no bistrô."
+        },
+        {
+          "level": "B2",
+          "fr": "Le bistrot où nous étions assis était charmant.",
+          "pt": "O bistrô onde estávamos sentados era charmoso."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Le bistrot, salon du peuple, réunit les solitudes autour d'un verre.",
+          "pt": "O bistrô, salão do povo, reúne as solidões em torno de um drinque."
+        }
       ]
     },
     {
       "term": "la terrasse",
       "definitionPt": "o terraço",
       "definitionFr": "Espace extérieur d'un café ou d'une maison.",
-      "inflections": ["la terrasse", "une terrasse", "des terrasses"],
-      "ptTargets": ["terraço"],
+      "inflections": [
+        "la terrasse",
+        "une terrasse",
+        "des terrasses"
+      ],
+      "ptTargets": [
+        "terraço"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La terrasse est ensoleillée.", "pt": "O terraço é ensolarado." },
-        { "level": "A2-B1", "fr": "On s'est assis à la terrasse.", "pt": "Sentamos no terraço." },
-        { "level": "B2", "fr": "La terrasse dont on voit le toit est célèbre.", "pt": "O terraço cujo telhado se vê é famoso." },
-        { "level": "C1-C2", "fr": "La terrasse, scène ouverte, regarde passer la vie de la ville.", "pt": "O terraço, palco aberto, vê passar a vida da cidade." }
+        {
+          "level": "A1",
+          "fr": "La terrasse est ensoleillée.",
+          "pt": "O terraço é ensolarado."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "On s'est assis à la terrasse.",
+          "pt": "Sentamos no terraço."
+        },
+        {
+          "level": "B2",
+          "fr": "La terrasse dont on voit le toit est célèbre.",
+          "pt": "O terraço cujo telhado se vê é famoso."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "La terrasse, scène ouverte, regarde passer la vie de la ville.",
+          "pt": "O terraço, palco aberto, vê passar a vida da cidade."
+        }
       ]
     },
     {
       "term": "l'étudiant",
       "definitionPt": "o estudante",
       "definitionFr": "Personne qui étudie à l'université.",
-      "inflections": ["l'étudiant", "un étudiant", "des étudiants"],
-      "ptTargets": ["estudante"],
+      "inflections": [
+        "l'étudiant",
+        "un étudiant",
+        "des étudiants"
+      ],
+      "ptTargets": [
+        "estudante"
+      ],
       "examples": [
-        { "level": "A1", "fr": "L'étudiant est jeune.", "pt": "O estudante é jovem." },
-        { "level": "A2-B1", "fr": "Des étudiants discutaient sur la place.", "pt": "Estudantes conversavam na praça." },
-        { "level": "B2", "fr": "Les étudiants qui remplissent la place viennent de l'université.", "pt": "Os estudantes que enchem a praça vêm da universidade." },
-        { "level": "C1-C2", "fr": "L'étudiant, citoyen du futur, apprend la ville en marchant.", "pt": "O estudante, cidadão do futuro, aprende a cidade caminhando." }
+        {
+          "level": "A1",
+          "fr": "L'étudiant est jeune.",
+          "pt": "O estudante é jovem."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Des étudiants discutaient sur la place.",
+          "pt": "Estudantes conversavam na praça."
+        },
+        {
+          "level": "B2",
+          "fr": "Les étudiants qui remplissent la place viennent de l'université.",
+          "pt": "Os estudantes que enchem a praça vêm da universidade."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "L'étudiant, citoyen du futur, apprend la ville en marchant.",
+          "pt": "O estudante, cidadão do futuro, aprende a cidade caminhando."
+        }
       ]
     },
     {
       "term": "le musicien",
       "definitionPt": "o músico",
       "definitionFr": "Personne qui joue de la musique.",
-      "inflections": ["le musicien", "un musicien", "des musiciens"],
-      "ptTargets": ["músico"],
+      "inflections": [
+        "le musicien",
+        "un musicien",
+        "des musiciens"
+      ],
+      "ptTargets": [
+        "músico"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le musicien joue.", "pt": "O músico toca." },
-        { "level": "A2-B1", "fr": "Un musicien jouait de la guitare sur la place.", "pt": "Um músico tocava violão na praça." },
-        { "level": "B2", "fr": "Le musicien dont on entendait la guitare était très bon.", "pt": "O músico cujo violão se ouvia era muito bom." },
-        { "level": "C1-C2", "fr": "Le musicien des places, artiste du quotidien, offre sa musique au vent.", "pt": "O músico das praças, artista do cotidiano, oferece sua música ao vento." }
+        {
+          "level": "A1",
+          "fr": "Le musicien joue.",
+          "pt": "O músico toca."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Un musicien jouait de la guitare sur la place.",
+          "pt": "Um músico tocava violão na praça."
+        },
+        {
+          "level": "B2",
+          "fr": "Le musicien dont on entendait la guitare était très bon.",
+          "pt": "O músico cujo violão se ouvia era muito bom."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Le musicien des places, artiste du quotidien, offre sa musique au vent.",
+          "pt": "O músico das praças, artista do cotidiano, oferece sua música ao vento."
+        }
       ]
     },
     {
       "term": "le charme",
       "definitionPt": "o charme",
       "definitionFr": "Beauté agréable et particulière.",
-      "inflections": ["le charme", "un charme", "des charmes"],
-      "ptTargets": ["charme"],
+      "inflections": [
+        "le charme",
+        "un charme",
+        "des charmes"
+      ],
+      "ptTargets": [
+        "charme"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La ville a du charme.", "pt": "A cidade tem charme." },
-        { "level": "A2-B1", "fr": "Le Vieux Tours est plein de charme.", "pt": "A Tours antiga é cheia de charme." },
-        { "level": "B2", "fr": "Le charme qui se dégage de cette place est unique.", "pt": "O charme que emana desta praça é único." },
-        { "level": "C1-C2", "fr": "Le charme des vieilles pierres résiste à tous les modernismes.", "pt": "O charme das pedras antigas resiste a todos os modernismos." }
+        {
+          "level": "A1",
+          "fr": "La ville a du charme.",
+          "pt": "A cidade tem charme."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Le Vieux Tours est plein de charme.",
+          "pt": "A Tours antiga é cheia de charme."
+        },
+        {
+          "level": "B2",
+          "fr": "Le charme qui se dégage de cette place est unique.",
+          "pt": "O charme que emana desta praça é único."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Le charme des vieilles pierres résiste à tous les modernismes.",
+          "pt": "O charme das pedras antigas resiste a todos os modernismos."
+        }
       ]
     },
     {
       "term": "l'histoire",
       "definitionPt": "a história",
       "definitionFr": "Le passé ; récit des événements.",
-      "inflections": ["l'histoire", "une histoire", "des histoires"],
-      "ptTargets": ["história"],
+      "inflections": [
+        "l'histoire",
+        "une histoire",
+        "des histoires"
+      ],
+      "ptTargets": [
+        "história"
+      ],
       "examples": [
-        { "level": "A1", "fr": "L'histoire est intéressante.", "pt": "A história é interessante." },
-        { "level": "A2-B1", "fr": "Les murs racontent l'histoire de la ville.", "pt": "As paredes contam a história da cidade." },
-        { "level": "B2", "fr": "L'histoire que raconte cette maison est vieille de cinq siècles.", "pt": "A história que esta casa conta tem cinco séculos." },
-        { "level": "C1-C2", "fr": "L'histoire, mémoire des pierres, se lit dans les façades.", "pt": "A história, memória das pedras, lê-se nas fachadas." }
+        {
+          "level": "A1",
+          "fr": "L'histoire est intéressante.",
+          "pt": "A história é interessante."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Les murs racontent l'histoire de la ville.",
+          "pt": "As paredes contam a história da cidade."
+        },
+        {
+          "level": "B2",
+          "fr": "L'histoire que raconte cette maison est vieille de cinq siècles.",
+          "pt": "A história que esta casa conta tem cinco séculos."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "L'histoire, mémoire des pierres, se lit dans les façades.",
+          "pt": "A história, memória das pedras, lê-se nas fachadas."
+        }
       ]
     },
     {
       "term": "goûter",
       "definitionPt": "provar",
       "definitionFr": "Manger un peu pour connaître le goût.",
-      "inflections": ["je goûte", "tu goûtes", "il goûte", "nous goûtons"],
-      "ptTargets": ["provar"],
+      "inflections": [
+        "je goûte",
+        "tu goûtes",
+        "il goûte",
+        "nous goûtons"
+      ],
+      "ptTargets": [
+        "provar"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Je goûte le gâteau.", "pt": "Eu provo o bolo." },
-        { "level": "A2-B1", "fr": "Goûtons cette tarte !", "pt": "Vamos provar essa torta!" },
-        { "level": "B2", "fr": "Nous goûterons la tarte Tatin demain.", "pt": "Provaremos a torta Tatin amanhã." },
-        { "level": "C1-C2", "fr": "Goûter, c'est entrer en conversation avec un pays.", "pt": "Provar é entrar em conversa com um país." }
+        {
+          "level": "A1",
+          "fr": "Je goûte le gâteau.",
+          "pt": "Eu provo o bolo."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Goûtons cette tarte !",
+          "pt": "Vamos provar essa torta!"
+        },
+        {
+          "level": "B2",
+          "fr": "Nous goûterons la tarte Tatin demain.",
+          "pt": "Provaremos a torta Tatin amanhã."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Goûter, c'est entrer en conversation avec un pays.",
+          "pt": "Provar é entrar em conversa com um país."
+        }
       ]
     },
     {
       "term": "la tarte Tatin",
       "definitionPt": "a torta Tatin",
       "definitionFr": "Tarte aux pommes caramélisées, spécialité de la région.",
-      "inflections": ["la tarte Tatin", "une tarte Tatin", "des tartes Tatin"],
-      "ptTargets": ["torta Tatin"],
+      "inflections": [
+        "la tarte Tatin",
+        "une tarte Tatin",
+        "des tartes Tatin"
+      ],
+      "ptTargets": [
+        "torta Tatin"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La tarte Tatin est sucrée.", "pt": "A torta Tatin é doce." },
-        { "level": "A2-B1", "fr": "La tarte Tatin vient de la région des châteaux.", "pt": "A torta Tatin vem da região dos castelos." },
-        { "level": "B2", "fr": "La tarte Tatin dont tout le monde parle est délicieuse.", "pt": "A torta Tatin de que todo mundo fala é deliciosa." },
-        { "level": "C1-C2", "fr": "La tarte Tatin, née d'une erreur, est devenue une gloire nationale.", "pt": "A torta Tatin, nascida de um erro, virou glória nacional." }
+        {
+          "level": "A1",
+          "fr": "La tarte Tatin est sucrée.",
+          "pt": "A torta Tatin é doce."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "La tarte Tatin vient de la région des châteaux.",
+          "pt": "A torta Tatin vem da região dos castelos."
+        },
+        {
+          "level": "B2",
+          "fr": "La tarte Tatin dont tout le monde parle est délicieuse.",
+          "pt": "A torta Tatin de que todo mundo fala é deliciosa."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "La tarte Tatin, née d'une erreur, est devenue une gloire nationale.",
+          "pt": "A torta Tatin, nascida de um erro, virou glória nacional."
+        }
       ]
     },
     {
       "term": "la ville",
       "definitionPt": "a cidade",
       "definitionFr": "Grand lieu où vivent beaucoup de personnes.",
-      "inflections": ["la ville", "une ville", "des villes"],
-      "ptTargets": ["cidade"],
+      "inflections": [
+        "la ville",
+        "une ville",
+        "des villes"
+      ],
+      "ptTargets": [
+        "cidade"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La ville est belle.", "pt": "A cidade é bonita." },
-        { "level": "A2-B1", "fr": "Tours est une ville de la vallée de la Loire.", "pt": "Tours é uma cidade do vale do Loire." },
-        { "level": "B2", "fr": "La ville où nous vivons est paisible.", "pt": "A cidade onde vivemos é pacífica." },
-        { "level": "C1-C2", "fr": "La ville, palimpseste de siècles, garde sous ses rues les époques passées.", "pt": "A cidade, palimpsesto de séculos, guarda sob suas ruas as épocas passadas." }
+        {
+          "level": "A1",
+          "fr": "La ville est belle.",
+          "pt": "A cidade é bonita."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Tours est une ville de la vallée de la Loire.",
+          "pt": "Tours é uma cidade do vale do Loire."
+        },
+        {
+          "level": "B2",
+          "fr": "La ville où nous vivons est paisible.",
+          "pt": "A cidade onde vivemos é pacífica."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "La ville, palimpseste de siècles, garde sous ses rues les époques passées.",
+          "pt": "A cidade, palimpsesto de séculos, guarda sob suas ruas as épocas passadas."
+        }
       ]
     }
   ],
@@ -210,27 +490,52 @@
   "quizQuestions": [
     {
       "question": "Quel âge ont les maisons de la place Plumereau ?",
-      "options": ["Cinq cents ans", "Dix ans", "Cinquante ans", "Deux mille ans"],
+      "options": [
+        "Cinq cents ans",
+        "Dix ans",
+        "Cinquante ans",
+        "Deux mille ans"
+      ],
       "correctIndex": 0
     },
     {
       "question": "Qu'est-ce qui fait le charme du Vieux Tours ?",
-      "options": ["Les maisons à colombages", "Les gratte-ciel", "Le port de commerce", "Les plages de sable"],
+      "options": [
+        "Les maisons à colombages",
+        "Les gratte-ciel",
+        "Le port de commerce",
+        "Les plages de sable"
+      ],
       "correctIndex": 0
     },
     {
       "question": "Que propose Irlan de prendre au café ?",
-      "options": ["Un verre", "Un parapluie", "Un billet", "Un vélo"],
+      "options": [
+        "Un verre",
+        "Un parapluie",
+        "Un billet",
+        "Un vélo"
+      ],
       "correctIndex": 0
     },
     {
       "question": "Que voit-on sur les maisons anciennes ?",
-      "options": ["Des poutres en bois", "Des panneaux solaires", "Des antennes", "Des balcons en verre"],
+      "options": [
+        "Des poutres en bois",
+        "Des panneaux solaires",
+        "Des antennes",
+        "Des balcons en verre"
+      ],
       "correctIndex": 0
     },
     {
-      "question": "Qu'est-ce que la famille veut goûter ?",
-      "options": ["La tarte Tatin", "La choucroute", "Le couscous", "Le gâteau battu"],
+      "question": "Qu'est-ce que le couple veut goûter ?",
+      "options": [
+        "La tarte Tatin",
+        "La choucroute",
+        "Le couscous",
+        "Le gâteau battu"
+      ],
       "correctIndex": 0
     }
   ]

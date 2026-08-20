@@ -7,12 +7,12 @@
   "titlePt": "A place des Terreaux: a fonte de Bartholdi",
   "subtitleFr": "Rapporter les paroles : la place et ses histoires",
   "subtitlePt": "Relatar as falas: a praça e suas histórias",
-  "summaryPt": "No coração de Lyon, a place des Terreaux reúne a prefeitura, o museu de belas-artes e a famosa fonte de Bartholdi, com seus quatro cavalos. Nesta aula B2+, a família descobre a praça e pratica o discurso indireto para relatar as histórias que ouviu.",
+  "summaryPt": "No coração de Lyon, a place des Terreaux reúne a prefeitura, o museu de belas-artes e a famosa fonte de Bartholdi, com seus quatro cavalos. Nesta aula B2+, o casal descobre a praça e pratica o discurso indireto para relatar as histórias que ouviu.",
   "paragraphs": [
     {
       "id": 1,
-      "fr": "La fontaine de Bartholdi, avec ses quatre chevaux, domine la place. « Qui a fait cette fontaine ? » demanda Íris. Andréa répondit que c'était Bartholdi, le même sculpteur que la statue de la Liberté.",
-      "pt": "A fonte de Bartholdi, com seus quatro cavalos, domina a praça. « Quem fez esta fonte? » perguntou Íris. Andréa respondeu que foi Bartholdi, o mesmo escultor da Estátua da Liberdade."
+      "fr": "La fontaine de Bartholdi, avec ses quatre chevaux, domine la place. « Qui a fait cette fontaine ? » demanda Andréa. Irlan répondit que c'était Bartholdi, le même sculpteur que la statue de la Liberté.",
+      "pt": "A fonte de Bartholdi, com seus quatro cavalos, domina a praça. « Quem fez esta fonte? » perguntou Andréa. Irlan respondeu que foi Bartholdi, o mesmo escultor da Estátua da Liberdade."
     },
     {
       "id": 2,
@@ -33,6 +33,16 @@
       "id": 5,
       "fr": "Le soir, Irlan écrivit : « Un passant m'a demandé d'où venait la fontaine. J'ai répondu qu'elle venait de Bartholdi et que Lyon l'avait adoptée. Il a souri et m'a dit que j'étais un vrai Lyonnais. Moi. Un vrai Lyonnais. »",
       "pt": "À noite, Irlan escreveu: « Um transeunte me perguntou de onde vinha a fonte. Respondi que ela era de Bartholdi e que Lyon a tinha adotado. Ele sorriu e me disse que eu era um verdadeiro lyonnais. Eu. Um verdadeiro lyonnais. »"
+    },
+    {
+      "id": 6,
+      "fr": "La fontaine de Bartholdi déployait ses chevaux avec une énergie spectaculaire. La composition semblait éblouissante, mais Irlan a observé un équilibre presque mathématique.",
+      "pt": "A fonte de Bartholdi desdobrava seus cavalos com uma energia espetacular. A composição parecia deslumbrante, mas Irlan observou um equilíbrio quase matemático."
+    },
+    {
+      "id": 7,
+      "fr": "Andréa a comparé les détails baroques à une sculpture plus sobre. À l'inverse d'un décor uniforme, la place articulait plusieurs styles sans perdre sa cohérence.",
+      "pt": "Andréa comparou os detalhes barrocos com uma escultura mais sóbria. Ao contrário de um cenário uniforme, a praça articulava vários estilos sem perder sua coerência."
     }
   ],
   "vocabularyDictionary": [
@@ -195,10 +205,10 @@
   ],
   "grammarTip": {
     "ruleTitle": "Le discours indirect : les histoires de la place",
-    "explanationPt": "Relatar falas e perguntas: 'Íris demanda : « Qui a fait cette fontaine ? »' → 'Íris demanda qui avait fait cette fontaine'. 'Un passant demanda à Irlan : « Sais-tu pourquoi la fontaine est arrivée à Lyon ? »' → 'il demanda à Irlan s'il savait pourquoi la fontaine était arrivée à Lyon'. 'Irlan répondit : « Lyon l'a achetée en 1892 »' → 'Irlan répondit que Lyon l'avait achetée en 1892'.",
-    "exampleFr": "Íris demanda qui avait fait cette fontaine ; un passant demanda à Irlan s'il savait pourquoi elle était arrivée à Lyon.",
-    "examplePt": "Íris perguntou quem tinha feito aquela fonte; um transeunte perguntou a Irlan se ele sabia por que ela tinha vindo para Lyon.",
-    "practiceQuestion": "Complete: « Íris demanda qui ___ fait cette fontaine. »",
+    "explanationPt": "Relatar falas e perguntas: 'Andréa demanda : « Qui a fait cette fontaine ? »' → 'Andréa demanda qui avait fait cette fontaine'. 'Un passant demanda à Irlan : « Sais-tu pourquoi la fontaine est arrivée à Lyon ? »' → 'il demanda à Irlan s'il savait pourquoi la fontaine était arrivée à Lyon'. 'Irlan répondit : « Lyon l'a achetée en 1892 »' → 'Irlan répondit que Lyon l'avait achetée en 1892'.",
+    "exampleFr": "Andréa demanda qui avait fait cette fontaine ; un passant demanda à Irlan s'il savait pourquoi elle était arrivée à Lyon.",
+    "examplePt": "Andréa perguntou quem tinha feito aquela fonte; um transeunte perguntou a Irlan se ele sabia por que ela tinha vindo para Lyon.",
+    "practiceQuestion": "Complete: « Andréa demanda qui ___ fait cette fontaine. »",
     "options": ["avait", "a", "aura"],
     "correctIndex": 0,
     "points": [
@@ -224,7 +234,7 @@
   },
   "quizQuestions": [
     {
-      "question": "Complete: « Íris demanda qui ___ fait cette fontaine. »",
+      "question": "Complete: « Andréa demanda qui ___ fait cette fontaine. »",
       "options": ["avait", "a", "aura"],
       "correctIndex": 0,
       "explanation": "Passé composé vira mais-que-perfeito no discurso indireto."

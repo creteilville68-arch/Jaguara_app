@@ -7,7 +7,7 @@
   "titlePt": "As pulgas do canal: garimpar entre Lyon e Villeurbanne",
   "subtitleFr": "Réviser : clivées, conditionnels et discours indirect",
   "subtitlePt": "Revisar: clivadas, condicionais e discurso indireto",
-  "summaryPt": "No domingo, o mercado de pulgas das puces du canal estende seus 400 metros de bancas às margens do canal de Jonage, entre Lyon e Villeurbanne. Nesta aula B2+, a família garimpa tesouros e revisa os grandes temas B2+ de Lyon.",
+  "summaryPt": "No domingo, o mercado de pulgas das puces du canal estende seus 400 metros de bancas às margens do canal de Jonage, entre Lyon e Villeurbanne. Nesta aula B2+, o casal garimpa tesouros e revisa os grandes temas B2+ de Lyon.",
   "paragraphs": [
     {
       "id": 1,
@@ -21,8 +21,8 @@
     },
     {
       "id": 3,
-      "fr": "Íris négocia un vieux jouet en bois. « Si tu me fais un prix, je l'achète ! » dit-elle au marchand, qui éclata de rire. Andréa avoua plus tard qu'elle n'avait jamais vu sa fille négocier ainsi.",
-      "pt": "Íris negociou um brinquedo de madeira antigo. « Se você me fizer um preço, eu compro! » disse ela ao comerciante, que caiu na risada. Andréa confessou depois que nunca tinha visto a filha negociar assim."
+      "fr": "Andréa négocia un vieux jouet en bois. « Si tu me fais un prix, je l'achète ! » dit-elle au marchand, qui éclata de rire. Irlan avoua plus tard qu'il n'avait jamais vu Andréa négocier ainsi.",
+      "pt": "Andréa negociou um brinquedo de madeira antigo. « Se você me fizer um preço, eu compro! » disse ela ao comerciante, que caiu na risada. Irlan confessou depois que nunca tinha visto Andréa negociar assim."
     },
     {
       "id": 4,
@@ -33,6 +33,16 @@
       "id": 5,
       "fr": "Le soir, Irlan écrivit : « C'est entre deux villes que nous avons chassé les trésors. Si les objets pouvaient parler, ils raconteraient mille vies. Et si nous étions venus plus tôt, nous aurions peut-être trouvé la lampe de nos rêves. Dimanche prochain, promis. »",
       "pt": "À noite, Irlan escreveu: « Foi entre duas cidades que caçamos tesouros. Se os objetos pudessem falar, contariam mil vidas. E se tivéssemos vindo mais cedo, talvez tivéssemos encontrado a luminária dos nossos sonhos. Domingo que vem, prometido. »"
+    },
+    {
+      "id": 6,
+      "fr": "Entre les étals du marché aux objets anciens, Irlan a inspecté un cadre détérioré. La vendeuse a proposé un prix avantageux, mais il a préféré examiner le document avant de s'engager.",
+      "pt": "Entre as bancas do mercado de objetos antigos, Irlan inspecionou uma moldura deteriorada. A vendedora propôs um preço vantajoso, mas ele preferiu examinar o documento antes de se comprometer."
+    },
+    {
+      "id": 7,
+      "fr": "Andréa a cherché une manière de classifier les objets sans leur attribuer une valeur excessive. Leur provenance restait incertaine, et une erreur pouvait compromettre l'enquête.",
+      "pt": "Andréa procurou uma maneira de classificar os objetos sem atribuir-lhes um valor excessivo. A procedência continuava incerta, e um erro podia comprometer a investigação."
     }
   ],
   "vocabularyDictionary": [
@@ -96,7 +106,7 @@
       "ptTargets": ["negociar", "negociou"],
       "examples": [
         { "level": "A1", "fr": "Je négocie le prix.", "pt": "Eu negocio o preço." },
-        { "level": "A2-B1", "fr": "Íris négocie le jouet.", "pt": "Íris negocia o brinquedo." },
+        { "level": "A2-B1", "fr": "Andréa négocie le jouet.", "pt": "Andréa negocia o brinquedo." },
         { "level": "B2", "fr": "Négocier, au marché, fait partie du jeu.", "pt": "Negociar, na feira, faz parte do jogo." },
         { "level": "C1-C2", "fr": "C'est en négociant que l'on respecte la valeur des choses.", "pt": "É negociando que se respeita o valor das coisas." }
       ]
@@ -174,7 +184,7 @@
       "ptTargets": ["brinquedo", "brinquedos"],
       "examples": [
         { "level": "A1", "fr": "Le jouet est en bois.", "pt": "O brinquedo é de madeira." },
-        { "level": "A2-B1", "fr": "Íris regarde un vieux jouet.", "pt": "Íris olha um brinquedo antigo." },
+        { "level": "A2-B1", "fr": "Andréa regarde un vieux jouet.", "pt": "Andréa olha um brinquedo antigo." },
         { "level": "B2", "fr": "Les jouets anciens, fabriqués à la main, valent des fortunes.", "pt": "Os brinquedos antigos, feitos à mão, valem fortunas." },
         { "level": "C1-C2", "fr": "C'est le jouet qui garde l'âme des enfants d'autrefois.", "pt": "É o brinquedo que guarda a alma das crianças de antigamente." }
       ]

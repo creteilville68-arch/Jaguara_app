@@ -7,12 +7,12 @@
   "titlePt": "Rio Loco: as músicas do mundo nas margens do Garona",
   "subtitleFr": "Raconter un festival avec le conditionnel passé et EN",
   "subtitlePt": "Contar um festival com o condicional passado e EN",
-  "summaryPt": "A família passa uma noite no festival Rio Loco, que celebra as músicas do mundo nas margens do Garona. Irlan pensa nas edições que teria adorado ver e na energia do público: 'il y en a pour tous les goûts'. Nesta aula B2, o conditionnel passé e EN narram a festa.",
+  "summaryPt": "O casal passa uma noite no festival Rio Loco, que celebra as músicas do mundo nas margens do Garona. Irlan pensa nas edições que teria adorado ver e na energia do público: 'il y en a pour tous les goûts'. Nesta aula B2, o conditionnel passé e EN narram a festa.",
   "paragraphs": [
     {
       "id": 1,
-      "fr": "Chaque année, au printemps, le festival Rio Loco transforme les bords de la Garonne en village du monde. « Des concerts, il y en a des dizaines, dit Irlan à Íris. Des tambours du Brésil, des chants du Maghreb, des guitares d'Espagne. »",
-      "pt": "Todos os anos, na primavera, o festival Rio Loco transforma as margens do Garona em vila do mundo. « Concertos, há dezenas deles, disse Irlan a Íris. Tambores do Brasil, cantos do Magrebe, guitarras da Espanha. »"
+      "fr": "Chaque année, au printemps, le festival Rio Loco transforme les bords de la Garonne en village du monde. « Des concerts, il y en a des dizaines, dit Irlan à Andréa. Des tambours du Brésil, des chants du Maghreb, des guitares d'Espagne. »",
+      "pt": "Todos os anos, na primavera, o festival Rio Loco transforma as margens do Garona em vila do mundo. « Concertos, há dezenas deles, disse Irlan a Andréa. Tambores do Brasil, cantos do Magrebe, guitarras da Espanha. »"
     },
     {
       "id": 2,
@@ -26,13 +26,23 @@
     },
     {
       "id": 4,
-      "fr": "Íris dansait au premier rang, les bras en l'air. « Regarde-la, dit Andréa. Elle n'a pas besoin de comprendre les paroles pour comprendre la musique. — C'est ça, la musique, répondit Irlan : une langue qu'on parle sans l'avoir apprise. »",
-      "pt": "Íris dançava na primeira fila, braços para o alto. « Olha ela, disse Andréa. Ela não precisa entender a letra para entender a música. — É isso, a música, respondeu Irlan: uma língua que se fala sem tê-la aprendido. »"
+      "fr": "Irlan dansait au premier rang, les bras en l'air. Andréa le rejoignit : « On n'a pas besoin de comprendre les paroles pour comprendre la musique. — C'est ça, la musique, répondit Irlan : une langue qu'on parle sans l'avoir apprise. »",
+      "pt": "Irlan dançava na primeira fila, braços para o alto. Andréa se juntou a ele: « Não precisamos entender a letra para entender a música. — É isso, a música, respondeu Irlan: uma língua que se fala sem tê-la aprendido. »"
     },
     {
       "id": 5,
       "fr": "Le soir, Irlan nota : « À Rio Loco, j'ai entendu le monde entier en une seule nuit. Des percussions de mon enfance aux chants du Sud de la France. Si j'avais su que Toulouse était une porte sur le monde, j'y serais venu plus tôt. »",
       "pt": "À noite, Irlan anotou: « No Rio Loco, ouvi o mundo inteiro em uma única noite. Das percussões da minha infância aos cantos do sul da França. Se eu tivesse sabido que Toulouse era uma porta para o mundo, teria vindo mais cedo. »"
+    },
+    {
+      "id": 6,
+      "fr": "Les musiciens de Rio Loco représentaient une diversité culturelle remarquable. Leur expression artistique faisait coexister des rythmes hétérogènes dans une atmosphère vibrante.",
+      "pt": "Os músicos representavam uma diversidade cultural notável. A expressão artística fazia coexistir ritmos heterogêneos em uma atmosfera vibrante."
+    },
+    {
+      "id": 7,
+      "fr": "Irlan a déambulé entre les scènes et a perçu une entente immédiate entre les artistes. Cette coopération solidaire donnait à la fête une portée communautaire.",
+      "pt": "Irlan passeou entre os palcos e percebeu um entendimento imediato entre os artistas. Essa cooperação solidária dava à festa um alcance comunitário."
     }
   ],
   "vocabularyDictionary": [
@@ -161,8 +171,8 @@
       "ptTargets": ["dançar", "dançava"],
       "examples": [
         { "level": "A1", "fr": "Je danse avec ma fille.", "pt": "Eu danço com minha filha." },
-        { "level": "A2-B1", "fr": "Íris danse devant la scène.", "pt": "Íris dança diante do palco." },
-        { "level": "B2", "fr": "Íris dansait au premier rang, les bras en l'air.", "pt": "Íris dançava na primeira fila, braços para o alto." },
+        { "level": "A2-B1", "fr": "Andréa danse devant la scène.", "pt": "Andréa dança diante do palco." },
+        { "level": "B2", "fr": "Andréa dansait au premier rang, les bras en l'air.", "pt": "Andréa dançava na primeira fila, braços para o alto." },
         { "level": "C1-C2", "fr": "Danser, c'est parler avec le corps une langue universelle.", "pt": "Dançar é falar com o corpo uma língua universal." }
       ]
     },

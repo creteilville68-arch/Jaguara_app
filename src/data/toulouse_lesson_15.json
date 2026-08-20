@@ -7,12 +7,12 @@
   "titlePt": "O Canal do Midi: o sonho de Pierre-Paul Riquet",
   "subtitleFr": "Narrer l'histoire du canal avec le plus-que-parfait historique",
   "subtitlePt": "Narrar a história do canal com o mais-que-perfeito histórico",
-  "summaryPt": "De bicicleta pelas margens do Canal du Midi, Irlan conta à família a história de Pierre-Paul Riquet, o coletor de impostos que tinha imaginado ligar o Atlântico ao Mediterrâneo. O canal, inaugurado em 1681, tinha sido um dos maiores projetos da Europa. Nesta aula B2, o mais-que-perfeito organiza o relato histórico.",
+  "summaryPt": "De bicicleta pelas margens do Canal du Midi, Irlan conta a Andréa a história de Pierre-Paul Riquet, o coletor de impostos que tinha imaginado ligar o Atlântico ao Mediterrâneo. O canal, inaugurado em 1681, tinha sido um dos maiores projetos da Europa. Nesta aula B2, o mais-que-perfeito organiza o relato histórico.",
   "paragraphs": [
     {
       "id": 1,
-      "fr": "Le long du Canal du Midi, les platanes forment un tunnel vert. Irlan pédalait en tête, Íris dans le siège derrière lui, Andréa juste après. « Raconte-nous l'histoire du canal ! » demanda la fillette.",
-      "pt": "Ao longo do Canal do Midi, os plátanos formam um túnel verde. Irlan pedalava na frente, Íris no assento atrás dele, Andréa logo depois. « Conta pra gente a história do canal! » pediu a menina."
+      "fr": "Le long du Canal du Midi, les platanes forment un tunnel vert. Irlan pédalait en tête, Andréa juste derrière lui. « Raconte-moi l'histoire du canal ! » demanda-t-elle.",
+      "pt": "Ao longo do Canal do Midi, os plátanos formam um túnel verde. Irlan pedalava na frente, Andréa logo atrás dele. « Conta pra mim a história do canal! » pediu ela."
     },
     {
       "id": 2,
@@ -31,8 +31,18 @@
     },
     {
       "id": 5,
-      "fr": "Le soir, Irlan nota : « Riquet avait osé rêver, et deux siècles plus tard, ce canal est classé au patrimoine mondial. Moi aussi, j'aimerais laisser une trace aussi durable. Peut-être que ma trace, ce sera Íris. »",
-      "pt": "À noite, Irlan anotou: « Riquet tinha ousado sonhar, e dois séculos depois, este canal é Patrimônio Mundial. Eu também gostaria de deixar um rastro tão durável. Talvez meu rastro seja a Íris. »"
+      "fr": "Le soir, Irlan nota : « Riquet avait osé rêver, et deux siècles plus tard, ce canal est classé au patrimoine mondial. Moi aussi, j'aimerais laisser une trace aussi durable. Peut-être que ma trace, ce sera une carte. Une carte de nos voyages. »",
+      "pt": "À noite, Irlan anotou: « Riquet tinha ousado sonhar, e dois séculos depois, este canal é Patrimônio Mundial. Eu também gostaria de deixar um rastro tão durável. Talvez meu rastro seja uma carta. Uma carta das nossas viagens. »"
+    },
+    {
+      "id": 6,
+      "fr": "Le projet du canal avait été échelonné sur plusieurs années. Pour délimiter chaque chantier, les ingénieurs avaient dû évaluer un terrain dont la pente restait variable.",
+      "pt": "O projeto do canal havia sido escalonado ao longo de vários anos. Para delimitar cada obra, os engenheiros tiveram de avaliar um terreno cuja inclinação continuava variável."
+    },
+    {
+      "id": 7,
+      "fr": "Au fur et à mesure des travaux, une solution progressive s'était imposée. Irlan a compris qu'aboutir exige parfois de modifier le plan initial sans abandonner la finalité.",
+      "pt": "À medida que as obras avançavam, uma solução progressiva havia se imposto. Irlan entendeu que chegar a um resultado às vezes exige modificar o plano inicial sem abandonar a finalidade."
     }
   ],
   "vocabularyDictionary": [
@@ -162,7 +172,7 @@
       "examples": [
         { "level": "A1", "fr": "Je pédale vite.", "pt": "Eu pedalo rápido." },
         { "level": "A2-B1", "fr": "Irlan pédalait sur la piste cyclable.", "pt": "Irlan pedalava na ciclovia." },
-        { "level": "B2", "fr": "La famille pédale doucement le long des platanes.", "pt": "A família pedala devagar ao longo dos plátanos." },
+        { "level": "B2", "fr": "Le couple pédale doucement le long des platanes.", "pt": "O casal pedala devagar ao longo dos plátanos." },
         { "level": "C1-C2", "fr": "Pédaler sur les berges du canal offre un point de vue privilégié sur l'ouvrage de Riquet.", "pt": "Pedalar nas margens do canal oferece um ponto de vista privilegiado sobre a obra de Riquet." }
       ]
     },
@@ -249,9 +259,9 @@
     },
     {
       "question": "O que Irlan escreveu sobre o próprio rastro?",
-      "options": ["Talvez seu rastro seja a Íris", "Que quer construir um canal", "Que quer voltar ao Brasil"],
+      "options": ["Talvez seu rastro seja uma carta de nossas viagens", "Que quer construir um canal", "Que quer voltar ao Brasil"],
       "correctIndex": 0,
-      "explanation": "No texto: 'Peut-être que ma trace, ce sera Íris.'"
+      "explanation": "No texto: 'Peut-être que ma trace, ce sera une carte. Une carte de nos voyages.'"
     }
   ]
 }

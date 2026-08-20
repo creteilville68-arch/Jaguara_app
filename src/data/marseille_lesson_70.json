@@ -11,13 +11,13 @@
   "paragraphs": [
     {
       "id": 1,
-      "fr": "Avant de partir pour Strasbourg, Irlan avait fait le tour de Marseille une dernière fois en scooter. Il avait revu la Canebière au petit matin, le Vieux-Port avec ses pêcheurs, les calanques scintillantes, le Panier coloré. Chaque rue, chaque place lui racontait un souvenir. « Cette ville m'a donné un travail, des amis et une nouvelle vie », avait-il pensé.",
-      "pt": "Antes de partir para Strasbourg, Irlan fez um passeio por Marseille uma última vez de scooter. Revira a Canebière de manhã cedo, o Vieux-Port com seus pescadores, as calanques cintilantes, o Panier colorido. Cada rua, cada praça lhe contava uma lembrança. « Essa cidade me deu um trabalho, amigos e uma nova vida », pensou."
+      "fr": "Avant de partir pour Strasbourg, Irlan avait fait le tour de Marseille une dernière fois en scooter. Il avait revu la Canebière au petit matin, le Vieux-Port avec ses pêcheurs, les calanques scintillantes, le Panier coloré. Chaque rue, chaque place lui racontait un souvenir. « Cette ville m'a donné des amis et une nouvelle vie », avait-il pensé. Sur la Canebière, il avait cru voir, une seconde, un homme en manteau gris. Quand il s'était retourné, il n'y avait plus personne.",
+      "pt": "Antes de partir para Strasbourg, Irlan fez um passeio por Marseille uma última vez de scooter. Revira a Canebière de manhã cedo, o Vieux-Port com seus pescadores, as calanques cintilantes, o Panier colorido. Cada rua, cada praça lhe contava uma lembrança. « Essa cidade me deu amigos e uma nova vida », pensou. Na Canebière, ele achou ter visto, por um segundo, um homem de sobretudo cinza. Quando se virou, não havia mais ninguém."
     },
     {
       "id": 2,
-      "fr": "Il s'était arrêté devant Notre-Dame de la Garde, la bonne mère des Marseillais. Il avait allumé un cierge pour sa famille, comme il l'avait fait en arrivant deux ans plus tôt. Deux ans, pensait-il, et tant de choses avaient changé. Il était arrivé avec une valise et un rêve, il partait avec un métier, une femme, une fille et une ville dans le cœur.",
-      "pt": "Parou diante de Notre-Dame de la Garde, a boa mãe dos marselhanos. Acendeu uma vela pela sua família, como fizera ao chegar dois anos antes. Dois anos, pensava, e tanta coisa havia mudado. Chegara com uma mala e um sonho, partia com uma profissão, uma esposa, uma filha e uma cidade no coração."
+      "fr": "Il s'était arrêté devant Notre-Dame de la Garde, la bonne mère des Marseillais. Il avait allumé un cierge pour sa famille au Brésil, comme il l'avait fait en arrivant deux ans plus tôt. Deux ans, pensait-il, et tant de choses avaient changé. Il était arrivé avec une valise et un rêve, il partait avec une femme, une histoire et une ville dans le cœur.",
+      "pt": "Parou diante de Notre-Dame de la Garde, a boa mãe dos marselhanos. Acendeu uma vela pela família no Brasil, como fizera ao chegar dois anos antes. Dois anos, pensava, e tanta coisa havia mudado. Chegara com uma mala e um sonho, partia com uma esposa, uma história e uma cidade no coração."
     },
     {
       "id": 3,
@@ -26,8 +26,8 @@
     },
     {
       "id": 4,
-      "fr": "Le soir, dans leur appartement, Irlan et Andréa avaient fait leurs valises en silence. Íris avait collé sur sa valise des autocollants de toutes les villes visitées. « Strasbourg va manquer à cette valise », avait-elle dit. Irlan avait souri. Il savait que la vraie richesse n'était pas dans la valise, mais dans les souvenirs, les rencontres et les mots appris dans chaque ville. Demain, un nouveau chapitre commençait.",
-      "pt": "À noite, no apartamento, Irlan e Andréa fizeram as malas em silêncio. Íris colou na mala adesivos de todas as cidades visitadas. « Strasbourg vai fazer falta nessa mala », disse ela. Irlan sorriu. Sabia que a verdadeira riqueza não estava na mala, mas nas lembranças, nos encontros e nas palavras aprendidas em cada cidade. Amanhã, um novo capítulo começava."
+      "fr": "Le soir, dans leur appartement, Irlan et Andréa avaient fait leurs valises en silence, couvertes d'autocollants des villes visitées. « Strasbourg va manquer à cette valise », avait dit Andréa. Irlan avait souri. Il savait que la vraie richesse n'était pas dans la valise, mais dans les souvenirs, les rencontres et les mots appris dans chaque ville. Demain, un nouveau chapitre commençait.",
+      "pt": "À noite, no apartamento, Irlan e Andréa fizeram as malas em silêncio, cobertas de adesivos das cidades visitadas. « Strasbourg vai fazer falta nessa mala », disse Andréa. Irlan sorriu. Sabia que a verdadeira riqueza não estava na mala, mas nas lembranças, nos encontros e nas palavras aprendidas em cada cidade. Amanhã, um novo capítulo começava."
     },
     {
       "id": 5,
@@ -83,7 +83,7 @@
       "ptTargets": ["adesivo", "adesivos"],
       "examples": [
         { "level": "A1", "fr": "L'autocollant est joli.", "pt": "O adesivo é bonito." },
-        { "level": "A2-B1", "fr": "Íris a collé des autocollants sur sa valise.", "pt": "Íris colou adesivos na mala." },
+        { "level": "A2-B1", "fr": "Andréa a collé des autocollants sur sa valise.", "pt": "Andréa colou adesivos na mala." },
         { "level": "B2", "fr": "Les autocollants, un par ville, formaient la carte des voyages.", "pt": "Os adesivos, um por cidade, formavam o mapa das viagens." },
         { "level": "C1-C2", "fr": "C'est l'autocollant qui transforme une valise en carnet de route.", "pt": "É o adesivo que transforma uma mala em diário de viagem." }
       ]
@@ -230,10 +230,10 @@
       "explanation": "Marseille deu a Irlan um trabalho, amigos e uma nova vida."
     },
     {
-      "question": "Para onde a família parte?",
+      "question": "Para onde o casal parte?",
       "options": ["Strasbourg", "Nice", "Brasil"],
       "correctIndex": 0,
-      "explanation": "A família parte para Strasbourg, onde Irlan tem uma missão de seis meses."
+      "explanation": "O casal parte para Strasbourg, a décima cidade da aventura."
     },
     {
       "question": "Complete: « Irlan a peur que sa fille ___ les mots appris à Marseille. »",
@@ -242,10 +242,10 @@
       "explanation": "Avoir peur que + subjonctif: 'oublie'."
     },
     {
-      "question": "O que Íris colou na mala?",
+      "question": "O que o casal colou nas malas?",
       "options": ["Adesivos de todas as cidades visitadas", "Fotos da família", "Desenhos de cavalos"],
       "correctIndex": 0,
-      "explanation": "Íris colou na mala adesivos de todas as cidades visitadas."
+      "explanation": "As malas estavam cobertas de adesivos das cidades visitadas."
     },
     {
       "question": "O que disse o pescador sobre Marseille?",

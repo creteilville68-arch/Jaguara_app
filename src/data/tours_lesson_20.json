@@ -7,7 +7,7 @@
   "titlePt": "Azay-le-Rideau: o castelo espelho",
   "subtitleFr": "Sur l'Indre, une dentelle de pierre bâtie par des femmes",
   "subtitlePt": "No Indre, uma renda de pedra construída por mulheres",
-  "summaryPt": "Nesta Aula 20 (B1), a família visita o château d'Azay-le-Rideau, joia renascentista construída sobre o rio Indre: sua escada famosa e a história de Gilles Berthelot e suas mulheres. O aluno pratica o vocabulário do castelo (la tour, l'escalier, le toit) e o futuro simple.",
+  "summaryPt": "Nesta Aula 20 (B1), o casal visita o château d'Azay-le-Rideau, joia renascentista construída sobre o rio Indre: sua escada famosa e a história de Gilles Berthelot e suas mulheres. O aluno pratica o vocabulário do castelo (la tour, l'escalier, le toit) e o futuro simple.",
   "paragraphs": [
     {
       "id": 1,
@@ -31,8 +31,23 @@
     },
     {
       "id": 5,
-      "fr": "Dans le parc, Iris a regardé les cygnes glisser sur l'Indre. « Demain, nous irons à Chinon », a dit Irlan. « Là où Jeanne d'Arc a rencontré le roi. » Iris a applaudi : « Encore une histoire ! »",
-      "pt": "No parque, Íris viu os cisnes deslizarem no Indre. « Amanhã, iremos a Chinon », disse Irlan. « Onde Joana d'Arc encontrou o rei. » Íris bateu palmas: « Mais uma história! »"
+      "fr": "Dans le parc, Andréa a regardé les cygnes glisser sur l'Indre. « Demain, nous irons à Chinon », a dit Irlan. « Là où Jeanne d'Arc a rencontré le roi. » Andréa a souri : « On ne s'ennuie jamais avec toi. »",
+      "pt": "No parque, Andréa viu os cisnes deslizarem no Indre. « Amanhã, iremos a Chinon », disse Irlan. « Onde Joana d'Arc encontrou o rei. » Andréa sorriu: « A gente nunca se entedia com você. »"
+    },
+    {
+      "id": 6,
+      "fr": "Azay-le-Rideau est un château-miroir. Le reflet de l'eau doubles la façade avec symétrie parfaite.",
+      "pt": "Azay-le-Rideau é um château-espelho. O reflexo da água dobra a fachada com simetria perfeita."
+    },
+    {
+      "id": 7,
+      "fr": "Irlan prend une photo du reflet du soleil sur le canal. « C'est un spectacle ravissant », murmure-t-il.",
+      "pt": "Irlan tira uma foto do reflexo do sol no canal. É um espetáculo encantador, murmura ele."
+    },
+    {
+      "id": 8,
+      "fr": "Andréa remarque que le château est symétrique. « Les jardins sont aussi bien organisés que la façade », observe-t-elle.",
+      "pt": "Andréa observa que o château é simétrico. Os jardins são tão bem organizados quanto a fachada, observa ela."
     }
   ],
   "vocabularyDictionary": [
@@ -40,156 +55,422 @@
       "term": "le château",
       "definitionPt": "o castelo",
       "definitionFr": "Grande maison noble.",
-      "inflections": ["le château", "un château", "des châteaux"],
-      "ptTargets": ["castelo"],
+      "inflections": [
+        "le château",
+        "un château",
+        "des châteaux"
+      ],
+      "ptTargets": [
+        "castelo"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le château est grand.", "pt": "O castelo é grande." },
-        { "level": "A2-B1", "fr": "Le Val de Loire est plein de châteaux.", "pt": "O vale do Loire está cheio de castelos." },
-        { "level": "B2", "fr": "Le château que nous avons visité se reflète dans l'eau.", "pt": "O castelo que visitamos se reflete na água." },
-        { "level": "C1-C2", "fr": "Le château, poème de pierre, chante la gloire de son époque.", "pt": "O castelo, poema de pedra, canta a glória de sua época." }
+        {
+          "level": "A1",
+          "fr": "Le château est grand.",
+          "pt": "O castelo é grande."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Le Val de Loire est plein de châteaux.",
+          "pt": "O vale do Loire está cheio de castelos."
+        },
+        {
+          "level": "B2",
+          "fr": "Le château que nous avons visité se reflète dans l'eau.",
+          "pt": "O castelo que visitamos se reflete na água."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Le château, poème de pierre, chante la gloire de son époque.",
+          "pt": "O castelo, poema de pedra, canta a glória de sua época."
+        }
       ]
     },
     {
       "term": "le miroir",
       "definitionPt": "o espelho",
       "definitionFr": "Surface qui reflète l'image.",
-      "inflections": ["le miroir", "un miroir", "des miroirs"],
-      "ptTargets": ["espelho"],
+      "inflections": [
+        "le miroir",
+        "un miroir",
+        "des miroirs"
+      ],
+      "ptTargets": [
+        "espelho"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le miroir est clair.", "pt": "O espelho é claro." },
-        { "level": "A2-B1", "fr": "L'eau est un miroir pour le château.", "pt": "A água é um espelho para o castelo." },
-        { "level": "B2", "fr": "Le château que l'on voit dans le miroir de l'eau est double.", "pt": "O castelo que se vê no espelho da água é duplo." },
-        { "level": "C1-C2", "fr": "Le miroir de l'Indre offre au château une seconde vie, inversée et rêveuse.", "pt": "O espelho do Indre oferece ao castelo uma segunda vida, invertida e sonhadora." }
+        {
+          "level": "A1",
+          "fr": "Le miroir est clair.",
+          "pt": "O espelho é claro."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "L'eau est un miroir pour le château.",
+          "pt": "A água é um espelho para o castelo."
+        },
+        {
+          "level": "B2",
+          "fr": "Le château que l'on voit dans le miroir de l'eau est double.",
+          "pt": "O castelo que se vê no espelho da água é duplo."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Le miroir de l'Indre offre au château une seconde vie, inversée et rêveuse.",
+          "pt": "O espelho do Indre oferece ao castelo uma segunda vida, invertida e sonhadora."
+        }
       ]
     },
     {
       "term": "la tour",
       "definitionPt": "a torre",
       "definitionFr": "Bâtiment haut et rond.",
-      "inflections": ["la tour", "une tour", "des tours"],
-      "ptTargets": ["torre"],
+      "inflections": [
+        "la tour",
+        "une tour",
+        "des tours"
+      ],
+      "ptTargets": [
+        "torre"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La tour est haute.", "pt": "A torre é alta." },
-        { "level": "A2-B1", "fr": "Les tours du château sont anciennes.", "pt": "As torres do castelo são antigas." },
-        { "level": "B2", "fr": "La tour qui domine l'entrée date du Moyen Âge.", "pt": "A torre que domina a entrada data da Idade Média." },
-        { "level": "C1-C2", "fr": "La tour, doyenne de pierre, a vu naître la Renaissance.", "pt": "A torre, decana de pedra, viu nascer o Renascimento." }
+        {
+          "level": "A1",
+          "fr": "La tour est haute.",
+          "pt": "A torre é alta."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Les tours du château sont anciennes.",
+          "pt": "As torres do castelo são antigas."
+        },
+        {
+          "level": "B2",
+          "fr": "La tour qui domine l'entrée date du Moyen Âge.",
+          "pt": "A torre que domina a entrada data da Idade Média."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "La tour, doyenne de pierre, a vu naître la Renaissance.",
+          "pt": "A torre, decana de pedra, viu nascer o Renascimento."
+        }
       ]
     },
     {
       "term": "l'escalier",
       "definitionPt": "a escadaria, a escada",
       "definitionFr": "Suite de marches pour monter.",
-      "inflections": ["l'escalier", "un escalier", "des escaliers"],
-      "ptTargets": ["escadaria", "escada"],
+      "inflections": [
+        "l'escalier",
+        "un escalier",
+        "des escaliers"
+      ],
+      "ptTargets": [
+        "escadaria",
+        "escada"
+      ],
       "examples": [
-        { "level": "A1", "fr": "L'escalier est large.", "pt": "A escadaria é larga." },
-        { "level": "A2-B1", "fr": "Le grand escalier d'Azay est célèbre.", "pt": "A grande escadaria de Azay é famosa." },
-        { "level": "B2", "fr": "L'escalier que nous avons monté est couvert de sculptures.", "pt": "A escadaria que subimos é coberta de esculturas." },
-        { "level": "C1-C2", "fr": "L'escalier, colonne de pierre, monte vers la lumière de l'histoire.", "pt": "A escadaria, coluna de pedra, sobe rumo à luz da história." }
+        {
+          "level": "A1",
+          "fr": "L'escalier est large.",
+          "pt": "A escadaria é larga."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Le grand escalier d'Azay est célèbre.",
+          "pt": "A grande escadaria de Azay é famosa."
+        },
+        {
+          "level": "B2",
+          "fr": "L'escalier que nous avons monté est couvert de sculptures.",
+          "pt": "A escadaria que subimos é coberta de esculturas."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "L'escalier, colonne de pierre, monte vers la lumière de l'histoire.",
+          "pt": "A escadaria, coluna de pedra, sobe rumo à luz da história."
+        }
       ]
     },
     {
       "term": "la sculpture",
       "definitionPt": "a escultura",
       "definitionFr": "Art de tailler la pierre ou le bois.",
-      "inflections": ["la sculpture", "une sculpture", "des sculptures"],
-      "ptTargets": ["escultura"],
+      "inflections": [
+        "la sculpture",
+        "une sculpture",
+        "des sculptures"
+      ],
+      "ptTargets": [
+        "escultura"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La sculpture est belle.", "pt": "A escultura é bonita." },
-        { "level": "A2-B1", "fr": "Des sculptures ornent l'escalier.", "pt": "Esculturas ornam a escadaria." },
-        { "level": "B2", "fr": "Les sculptures que l'on voit ici viennent d'Italie.", "pt": "As esculturas que se veem aqui vêm da Itália." },
-        { "level": "C1-C2", "fr": "La sculpture, musique figée, donne une voix aux murs.", "pt": "A escultura, música congelada, dá voz às paredes." }
+        {
+          "level": "A1",
+          "fr": "La sculpture est belle.",
+          "pt": "A escultura é bonita."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Des sculptures ornent l'escalier.",
+          "pt": "Esculturas ornam a escadaria."
+        },
+        {
+          "level": "B2",
+          "fr": "Les sculptures que l'on voit ici viennent d'Italie.",
+          "pt": "As esculturas que se veem aqui vêm da Itália."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "La sculpture, musique figée, donne une voix aux murs.",
+          "pt": "A escultura, música congelada, dá voz às paredes."
+        }
       ]
     },
     {
       "term": "la dentelle",
       "definitionPt": "a renda",
       "definitionFr": "Tissu léger et fin avec des trous décoratifs.",
-      "inflections": ["la dentelle", "une dentelle", "des dentelles"],
-      "ptTargets": ["renda"],
+      "inflections": [
+        "la dentelle",
+        "une dentelle",
+        "des dentelles"
+      ],
+      "ptTargets": [
+        "renda"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La dentelle est fine.", "pt": "A renda é fina." },
-        { "level": "A2-B1", "fr": "Le château est comme une dentelle de pierre.", "pt": "O castelo é como uma renda de pedra." },
-        { "level": "B2", "fr": "La dentelle que les sculpteurs ont créée est délicate.", "pt": "A renda que os escultores criaram é delicada." },
-        { "level": "C1-C2", "fr": "La dentelle de pierre d'Azay défie le temps par sa finesse.", "pt": "A renda de pedra de Azay desafia o tempo por sua finura." }
+        {
+          "level": "A1",
+          "fr": "La dentelle est fine.",
+          "pt": "A renda é fina."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Le château est comme une dentelle de pierre.",
+          "pt": "O castelo é como uma renda de pedra."
+        },
+        {
+          "level": "B2",
+          "fr": "La dentelle que les sculpteurs ont créée est délicate.",
+          "pt": "A renda que os escultores criaram é delicada."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "La dentelle de pierre d'Azay défie le temps par sa finesse.",
+          "pt": "A renda de pedra de Azay desafia o tempo por sua finura."
+        }
       ]
     },
     {
       "term": "la Renaissance",
       "definitionPt": "o Renascimento",
       "definitionFr": "Époque de renouveau artistique (XVe-XVIe siècles).",
-      "inflections": ["la Renaissance", "la Renaissance française"],
-      "ptTargets": ["Renascimento"],
+      "inflections": [
+        "la Renaissance",
+        "la Renaissance française"
+      ],
+      "ptTargets": [
+        "Renascimento"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La Renaissance est ancienne.", "pt": "O Renascimento é antigo." },
-        { "level": "A2-B1", "fr": "Azay est un château de la Renaissance.", "pt": "Azay é um castelo do Renascimento." },
-        { "level": "B2", "fr": "La Renaissance qui a inspiré ce château vient d'Italie.", "pt": "O Renascimento que inspirou este castelo vem da Itália." },
-        { "level": "C1-C2", "fr": "La Renaissance, printemps des arts, a fleuri le long de la Loire.", "pt": "O Renascimento, primavera das artes, floresceu ao longo do Loire." }
+        {
+          "level": "A1",
+          "fr": "La Renaissance est ancienne.",
+          "pt": "O Renascimento é antigo."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Azay est un château de la Renaissance.",
+          "pt": "Azay é um castelo do Renascimento."
+        },
+        {
+          "level": "B2",
+          "fr": "La Renaissance qui a inspiré ce château vient d'Italie.",
+          "pt": "O Renascimento que inspirou este castelo vem da Itália."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "La Renaissance, printemps des arts, a fleuri le long de la Loire.",
+          "pt": "O Renascimento, primavera das artes, floresceu ao longo do Loire."
+        }
       ]
     },
     {
       "term": "le cygne",
       "definitionPt": "o cisne",
       "definitionFr": "Grand oiseau blanc au long cou.",
-      "inflections": ["le cygne", "un cygne", "des cygnes"],
-      "ptTargets": ["cisne"],
+      "inflections": [
+        "le cygne",
+        "un cygne",
+        "des cygnes"
+      ],
+      "ptTargets": [
+        "cisne"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le cygne est blanc.", "pt": "O cisne é branco." },
-        { "level": "A2-B1", "fr": "Des cygnes glissent sur l'Indre.", "pt": "Cisnes deslizam no Indre." },
-        { "level": "B2", "fr": "Les cygnes qui nagent devant le château sont élégants.", "pt": "Os cisnes que nadam diante do castelo são elegantes." },
-        { "level": "C1-C2", "fr": "Le cygne, miroir de grâce, double le château sur l'eau.", "pt": "O cisne, espelho de graça, duplica o castelo na água." }
+        {
+          "level": "A1",
+          "fr": "Le cygne est blanc.",
+          "pt": "O cisne é branco."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Des cygnes glissent sur l'Indre.",
+          "pt": "Cisnes deslizam no Indre."
+        },
+        {
+          "level": "B2",
+          "fr": "Les cygnes qui nagent devant le château sont élégants.",
+          "pt": "Os cisnes que nadam diante do castelo são elegantes."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Le cygne, miroir de grâce, double le château sur l'eau.",
+          "pt": "O cisne, espelho de graça, duplica o castelo na água."
+        }
       ]
     },
     {
       "term": "le parc",
       "definitionPt": "o parque",
       "definitionFr": "Grand jardin autour d'un château.",
-      "inflections": ["le parc", "un parc", "des parcs"],
-      "ptTargets": ["parque"],
+      "inflections": [
+        "le parc",
+        "un parc",
+        "des parcs"
+      ],
+      "ptTargets": [
+        "parque"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le parc est vert.", "pt": "O parque é verde." },
-        { "level": "A2-B1", "fr": "Le parc d'Azay entoure le château.", "pt": "O parque de Azay cerca o castelo." },
-        { "level": "B2", "fr": "Le parc où nous avons marché est immense.", "pt": "O parque onde caminhamos é imenso." },
-        { "level": "C1-C2", "fr": "Le parc, écrin de verdure, met en valeur le bijou de pierre.", "pt": "O parque, estojo de verdor, valoriza a joia de pedra." }
+        {
+          "level": "A1",
+          "fr": "Le parc est vert.",
+          "pt": "O parque é verde."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Le parc d'Azay entoure le château.",
+          "pt": "O parque de Azay cerca o castelo."
+        },
+        {
+          "level": "B2",
+          "fr": "Le parc où nous avons marché est immense.",
+          "pt": "O parque onde caminhamos é imenso."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Le parc, écrin de verdure, met en valeur le bijou de pierre.",
+          "pt": "O parque, estojo de verdor, valoriza a joia de pedra."
+        }
       ]
     },
     {
       "term": "harmonieux",
       "definitionPt": "harmonioso",
       "definitionFr": "Où tout est équilibré et beau.",
-      "inflections": ["harmonieux", "harmonieuse", "harmonieux", "harmonieuses"],
-      "ptTargets": ["harmonioso"],
+      "inflections": [
+        "harmonieux",
+        "harmonieuse",
+        "harmonieux",
+        "harmonieuses"
+      ],
+      "ptTargets": [
+        "harmonioso"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le dessin est harmonieux.", "pt": "O desenho é harmonioso." },
-        { "level": "A2-B1", "fr": "Azay est un château très harmonieux.", "pt": "Azay é um castelo muito harmonioso." },
-        { "level": "B2", "fr": "Le style qui rend ce château harmonieux est unique.", "pt": "O estilo que torna este castelo harmonioso é único." },
-        { "level": "C1-C2", "fr": "Harmonieux, le château obéit à la musique secrète des proportions.", "pt": "Harmonioso, o castelo obedece à música secreta das proporções." }
+        {
+          "level": "A1",
+          "fr": "Le dessin est harmonieux.",
+          "pt": "O desenho é harmonioso."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Azay est un château très harmonieux.",
+          "pt": "Azay é um castelo muito harmonioso."
+        },
+        {
+          "level": "B2",
+          "fr": "Le style qui rend ce château harmonieux est unique.",
+          "pt": "O estilo que torna este castelo harmonioso é único."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Harmonieux, le château obéit à la musique secrète des proportions.",
+          "pt": "Harmonioso, o castelo obedece à música secreta das proporções."
+        }
       ]
     },
     {
       "term": "le plan",
       "definitionPt": "a planta, o plano",
       "definitionFr": "Dessin technique d'un bâtiment.",
-      "inflections": ["le plan", "un plan", "des plans"],
-      "ptTargets": ["planta", "plano"],
+      "inflections": [
+        "le plan",
+        "un plan",
+        "des plans"
+      ],
+      "ptTargets": [
+        "planta",
+        "plano"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le plan est clair.", "pt": "A planta é clara." },
-        { "level": "A2-B1", "fr": "Les dames ont choisi les plans du château.", "pt": "As damas escolheram as plantas do castelo." },
-        { "level": "B2", "fr": "Le plan que l'on voit au musée montre l'ancien château.", "pt": "A planta que se vê no museu mostra o antigo castelo." },
-        { "level": "C1-C2", "fr": "Le plan, rêve géométrique, précède la pierre comme la pensée précède l'acte.", "pt": "A planta, sonho geométrico, precede a pedra como o pensamento precede o ato." }
+        {
+          "level": "A1",
+          "fr": "Le plan est clair.",
+          "pt": "A planta é clara."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Les dames ont choisi les plans du château.",
+          "pt": "As damas escolheram as plantas do castelo."
+        },
+        {
+          "level": "B2",
+          "fr": "Le plan que l'on voit au musée montre l'ancien château.",
+          "pt": "A planta que se vê no museu mostra o antigo castelo."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Le plan, rêve géométrique, précède la pierre comme la pensée précède l'acte.",
+          "pt": "A planta, sonho geométrico, precede a pedra como o pensamento precede o ato."
+        }
       ]
     },
     {
       "term": "la cour",
       "definitionPt": "o pátio",
       "definitionFr": "Espace découvert à l'intérieur d'un château.",
-      "inflections": ["la cour", "une cour", "des cours"],
-      "ptTargets": ["pátio"],
+      "inflections": [
+        "la cour",
+        "une cour",
+        "des cours"
+      ],
+      "ptTargets": [
+        "pátio"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La cour est grande.", "pt": "O pátio é grande." },
-        { "level": "A2-B1", "fr": "La cour d'honneur accueille les visiteurs.", "pt": "O pátio de honra recebe os visitantes." },
-        { "level": "B2", "fr": "La cour où nous sommes entrés est pavée.", "pt": "O pátio onde entramos é pavimentado." },
-        { "level": "C1-C2", "fr": "La cour, vestibule du pouvoir, annonce la splendeur intérieure.", "pt": "O pátio, vestíbulo do poder, anuncia a esplendor interior." }
+        {
+          "level": "A1",
+          "fr": "La cour est grande.",
+          "pt": "O pátio é grande."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "La cour d'honneur accueille les visiteurs.",
+          "pt": "O pátio de honra recebe os visitantes."
+        },
+        {
+          "level": "B2",
+          "fr": "La cour où nous sommes entrés est pavée.",
+          "pt": "O pátio onde entramos é pavimentado."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "La cour, vestibule du pouvoir, annonce la splendeur intérieure.",
+          "pt": "O pátio, vestíbulo do poder, anuncia a esplendor interior."
+        }
       ]
     }
   ],
@@ -210,27 +491,52 @@
   "quizQuestions": [
     {
       "question": "Sur quel fleuve Azay-le-Rideau est-il construit ?",
-      "options": ["L'Indre", "La Seine", "Le Rhône", "La Garonne"],
+      "options": [
+        "L'Indre",
+        "La Seine",
+        "Le Rhône",
+        "La Garonne"
+      ],
       "correctIndex": 0
     },
     {
       "question": "Quel est le joyau du château ?",
-      "options": ["Le grand escalier", "La cuisine", "Le pont-levis", "La cave"],
+      "options": [
+        "Le grand escalier",
+        "La cuisine",
+        "Le pont-levis",
+        "La cave"
+      ],
       "correctIndex": 0
     },
     {
       "question": "Qui a dirigé la construction du château ?",
-      "options": ["Des femmes", "Des soldats", "Des moines", "Des pêcheurs"],
+      "options": [
+        "Des femmes",
+        "Des soldats",
+        "Des moines",
+        "Des pêcheurs"
+      ],
       "correctIndex": 0
     },
     {
       "question": "De quel siècle date le château ?",
-      "options": ["XVIe siècle", "XIXe siècle", "XXe siècle", "VIIIe siècle"],
+      "options": [
+        "XVIe siècle",
+        "XIXe siècle",
+        "XXe siècle",
+        "VIIIe siècle"
+      ],
       "correctIndex": 0
     },
     {
-      "question": "Où la famille ira-t-elle demain ?",
-      "options": ["À Chinon", "À Vouvray", "À Cormery", "À Chambord"],
+      "question": "Où le couple ira-t-il demain ?",
+      "options": [
+        "À Chinon",
+        "À Vouvray",
+        "À Cormery",
+        "À Chambord"
+      ],
       "correctIndex": 0
     }
   ]

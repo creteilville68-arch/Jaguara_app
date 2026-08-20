@@ -7,7 +7,7 @@
   "titlePt": "Saint-Émilion: a cidade medieval e sua igreja subterrânea",
   "subtitleFr": "Un village classé et ses caves creusées dans le roc",
   "subtitlePt": "Uma vila tombada e suas caves escavadas na rocha",
-  "summaryPt": "Nesta Aula 9 (B1+), a família faz uma excursão a Saint-Émilion, cidade medieval classificada pela UNESCO. Visitam a igreja monólita escavada na rocha e degustam um vinho da região. O aluno consolida os pronomes duplos e o Conditionnel: 'on pourrait', 'je vous le recommande'.",
+  "summaryPt": "Nesta Aula 9 (B1+), o casal faz uma excursão a Saint-Émilion, cidade medieval classificada pela UNESCO. Visitam a igreja monólita escavada na rocha e degustam um vinho da região. O aluno consolida os pronomes duplos e o Conditionnel: 'on pourrait', 'je vous le recommande'.",
   "paragraphs": [
     {
       "id": 1,
@@ -16,8 +16,8 @@
     },
     {
       "id": 2,
-      "fr": "Dans la grotte, Iris a chuchoté : « C'est immense ! » Le guide a souri : « Les moines l'ont creusée à la main. Les pèlerins y venaient en prière. »",
-      "pt": "Na gruta, Íris sussurrou: « É imenso! » O guia sorriu: « Os monges a escavaram à mão. Os peregrinos vinham rezar aqui. »"
+      "fr": "Dans la grotte, Andréa a chuchoté : « C'est immense ! » Le guide a souri : « Les moines l'ont creusée à la main. Les pèlerins y venaient en prière. »",
+      "pt": "Na gruta, Andréa sussurrou: « É imenso! » O guia sorriu: « Os monges a escavaram à mão. Os peregrinos vinham rezar aqui. »"
     },
     {
       "id": 3,
@@ -26,8 +26,23 @@
     },
     {
       "id": 4,
-      "fr": "En remontant la rue pavée, la famille a admiré les toits de la ville. « Demain, nous partirons pour Toulouse. Mais Saint-Émilion restera dans nos cœurs », a conclu Irlan.",
-      "pt": "Subindo a rua de paralelepípedos, a família admirou os telhados da cidade. « Amanhã, partiremos para Toulouse. Mas Saint-Émilion ficará em nossos corações », concluiu Irlan."
+      "fr": "En remontant la rue pavée, le couple a admiré les toits de la ville. « Demain, nous irons voir le bassin d'Arcachon », a dit Andréa. « Mais Saint-Émilion restera dans nos cœurs », a conclu Irlan.",
+      "pt": "Subindo a rua de paralelepípedos, o casal admirou os telhados da cidade. « Amanhã, iremos ver a bacia de Arcachon », disse Andréa. « Mas Saint-Émilion ficará em nossos corações », concluiu Irlan."
+    }
+    ,{
+      "id": 5,
+      "fr": "À Saint-Émilion, Irlan descend dans l'église souterraine. La dimension de la nef est considérable.",
+      "pt": "Em Saint-Émilion, Irlan desce na igreja subterrânea. A dimensão da nave é considerável."
+    },
+    {
+      "id": 6,
+      "fr": "Andréa, d'abord distraite, détecte une gravure sur la pierre. Elle est inclinée et ressemble à une flèche.",
+      "pt": "Andréa, inicialmente distraída, detecta uma gravura na pedra. Ela é inclinada e parece uma flecha."
+    },
+    {
+      "id": 7,
+      "fr": "Irlan cherche une solution pour lire le signe. « Étant donné que la lumière diminue, il faut agir rapidement », dit-il.",
+      "pt": "Irlan procura uma solução para ler o sinal. Dado que a luz diminui, é preciso agir rapidamente, diz ele."
     }
   ],
   "vocabularyDictionary": [
@@ -243,10 +258,10 @@
       "explanation": "Pronome duplo: vous + le."
     },
     {
-      "question": "O que a família fará no dia seguinte?",
-      "options": ["partir para Toulouse", "voltar a Paris", "ficar mais uma semana"],
+      "question": "O que o casal fará no dia seguinte?",
+      "options": ["ir ver o bassin d'Arcachon", "voltar a Paris", "ficar mais uma semana"],
       "correctIndex": 0,
-      "explanation": "Demain, nous partirons pour Toulouse."
+      "explanation": "Demain, nous irons voir le bassin d'Arcachon."
     }
   ]
 }

@@ -7,7 +7,7 @@
   "titlePt": "O Grand Théâtre e a torre Pey-Berland",
   "subtitleFr": "L'opéra de Victor Louis et la flèche gothique de la cathédrale",
   "subtitlePt": "A ópera de Victor Louis e a flecha gótica da catedral",
-  "summaryPt": "Nesta Aula 7 (B1+), a família visita o Grand Théâtre de Bordeaux, obra-prima de Victor Louis, e sobe na torre Pey-Berland para ver a cidade. O aluno aprende os conectores de causa e finalidade: 'grâce à', 'afin de', 'pour que', e revê o Conditionnel para desejos.",
+  "summaryPt": "Nesta Aula 7 (B1+), o casal visita o Grand Théâtre de Bordeaux, obra-prima de Victor Louis, e sobe na torre Pey-Berland para ver a cidade — e o porto visto de cima acende uma ideia em Irlan. O aluno aprende os conectores de causa e finalidade: 'grâce à', 'afin de', 'pour que', e revê o Conditionnel para desejos.",
   "paragraphs": [
     {
       "id": 1,
@@ -21,13 +21,28 @@
     },
     {
       "id": 3,
-      "fr": "Le soir, la famille a monté les 229 marches de la tour Pey-Berland. « Afin d'admirer le coucher du soleil, il faut arriver avant huit heures », a soufflé Irlan, en reprenant son souffle.",
-      "pt": "À noite, a família subiu os 229 degraus da torre Pey-Berland. « Para admirar o pôr do sol, é preciso chegar antes das oito », disse Irlan, recuperando o fôlego."
+      "fr": "Le soir, le couple a monté les 229 marches de la tour Pey-Berland. « Afin d'admirer le coucher du soleil, il faut arriver avant huit heures », a soufflé Irlan, en reprenant son souffle.",
+      "pt": "À noite, o casal subiu os 229 degraus da torre Pey-Berland. « Para admirar o pôr do sol, é preciso chegar antes das oito », disse Irlan, recuperando o fôlego."
     },
     {
       "id": 4,
-      "fr": "En haut, la vue embrassait tout Bordeaux. Iris a montré le fleuve : « Regarde, la lune se lève sur la Garonne ! » Andréa a souri : « Nous aurions pu rester encore une heure. »",
-      "pt": "Lá em cima, a vista abrangia toda Bordeaux. Íris mostrou o rio: « Olha, a lua está nascendo sobre o Garonne! » Andréa sorriu: « Poderíamos ter ficado mais uma hora. »"
+      "fr": "En haut, la vue embrassait tout Bordeaux. Andréa a montré le fleuve : « Regarde, la lune se lève sur la Garonne ! » Irlan est resté silencieux. « De là-haut, l'eau ressemble à une carte », a-t-il dit enfin. « Une carte qui attend qu'on la lise. »",
+      "pt": "Lá em cima, a vista abrangia toda Bordeaux. Andréa mostrou o rio: « Olha, a lua está nascendo sobre o Garonne! » Irlan ficou em silêncio. « Daqui de cima, a água parece um mapa », disse ele por fim. « Um mapa que espera que o leiam. »"
+    }
+    ,{
+      "id": 5,
+      "fr": "Le Grand Théâtre attire une foule élégante. Un auditeur reconnaît la chanson française diffusée dans le hall.",
+      "pt": "O Grand Théâtre atrai uma multidão elegante. Um ouvinte reconhece a canção francesa transmitida no saguão."
+    },
+    {
+      "id": 6,
+      "fr": "Irlan admire la couronne sculptée au-dessus de la porte. La caractéristique la plus remarquable est sa clarté.",
+      "pt": "Irlan admira a coroa esculpida acima da porta. A característica mais notável é sua clareza."
+    },
+    {
+      "id": 7,
+      "fr": "Andréa lit un éditorial au sujet de la liberté de la presse. « La censure est une injustice », affirme-t-elle.",
+      "pt": "Andréa lê um editorial a respeito da liberdade de imprensa. A censura é uma injustiça, afirma ela."
     }
   ],
   "vocabularyDictionary": [
@@ -243,10 +258,10 @@
       "explanation": "Causa positiva: grâce à."
     },
     {
-      "question": "O que Íris mostrou do alto da torre?",
+      "question": "O que Andréa mostrou do alto da torre?",
       "options": ["a lua nascendo sobre o Garonne", "um incêndio", "um desfile"],
       "correctIndex": 0,
-      "explanation": "Íris mostrou la lune se levant sur la Garonne."
+      "explanation": "Andréa mostrou la lune se levant sur la Garonne."
     }
   ]
 }

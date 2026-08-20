@@ -16,23 +16,33 @@
     },
     {
       "id": 2,
-      "fr": "De l'escalier de la gare, la famille découvrit la Canebière, la grande avenue du port. « Si nous montions à Notre-Dame-de-la-Garde, nous verrions toute la ville », proposa Irlan. Andréa répondit qu'ils iraient demain.",
-      "pt": "Da escadaria da estação, a família descobriu a Canebière, a grande avenida do porto. « Se subíssemos a Notre-Dame-de-la-Garde, veríamos a cidade inteira », propôs Irlan. Andréa respondeu que iriam amanhã."
+      "fr": "De l'escalier de la gare, le couple découvrit la Canebière, la grande avenue du port. « Si nous montions à Notre-Dame-de-la-Garde, nous verrions toute la ville », proposa Irlan. Andréa répondit qu'ils iraient demain.",
+      "pt": "Da escadaria da estação, o casal descobriu a Canebière, a grande avenida do porto. « Se subíssemos a Notre-Dame-de-la-Garde, veríamos a cidade inteira », propôs Irlan. Andréa respondeu que iriam amanhã."
     },
     {
       "id": 3,
-      "fr": "Íris respira profondément. « Ça sent la mer et les frites ! » cria-t-elle. Irlan éclata de rire. « Tu as raison. Et demain, nous mangerons une bouillabaisse. C'est le plat de Marseille. »",
-      "pt": "Íris respirou fundo. « Cheira a mar e a batatas fritas! » gritou ela. Irlan caiu na risada. « Você tem razão. E amanhã comeremos uma bouillabaisse. É o prato de Marseille. »"
+      "fr": "Andréa respira profondément. « Ça sent la mer et les frites ! » cria-t-elle. Irlan éclata de rire. « Tu as raison. Et demain, nous mangerons une bouillabaisse. C'est le plat de Marseille. »",
+      "pt": "Andréa respirou fundo. « Cheira a mar e a batatas fritas! » gritou ela. Irlan caiu na risada. « Você tem razão. E amanhã comeremos uma bouillabaisse. É o prato de Marseille. »"
     },
     {
       "id": 4,
-      "fr": "Dans le taxi, le chauffeur demanda d'où venait la famille. Irlan répondit qu'ils venaient de Lyon, et qu'avant, ils avaient vécu à Paris. « Alors vous êtes déjà presque Marseillais ! » dit le chauffeur en riant.",
-      "pt": "No táxi, o motorista perguntou de onde vinha a família. Irlan respondeu que vinham de Lyon e que, antes, tinham vivido em Paris. « Então vocês já são quase marseillais! » disse o motorista rindo."
+      "fr": "Dans le taxi, le chauffeur demanda d'où venait le couple. Irlan répondit qu'ils venaient de Lyon, et qu'avant, ils avaient vécu à Paris. « Alors vous êtes déjà presque Marseillais ! » dit le chauffeur en riant.",
+      "pt": "No táxi, o motorista perguntou de onde vinha o casal. Irlan respondeu que vinham de Lyon e que, antes, tinham vivido em Paris. « Então vocês já são quase marseillais! » disse o motorista rindo."
     },
     {
       "id": 5,
       "fr": "Le soir, sur le balcon de leur nouvel appartement, Irlan écrivit : « Lyon m'a appris à aimer la terre. Marseille m'apprendra à aimer la mer. Si je devais résumer ma vie en France, je dirais : chaque ville a été un chapitre, et chaque chapitre m'a rapproché de chez moi. »",
       "pt": "À noite, na sacada do novo apartamento, Irlan escreveu: « Lyon me ensinou a amar a terra. Marseille me ensinará a amar o mar. Se eu tivesse de resumir minha vida na França, diria: cada cidade foi um capítulo, e cada capítulo me aproximou de um lar. »"
+    },
+    {
+      "id": 6,
+      "fr": "En débarquant à Marseille, Irlan a senti le vent et a vu émerger une silhouette sur le quai. À première vue, l'accueil semblait banal, mais un message restait inquiétant.",
+      "pt": "Ao desembarcar em Marseille, Irlan sentiu o vento e viu surgir uma silhueta no cais. À primeira vista, a recepção parecia banal, mas uma mensagem continuava inquietante."
+    },
+    {
+      "id": 7,
+      "fr": "Andréa a soupçonné que cette énigme prolongeait celle de Lyon. Ils ont avancé sans se précipiter, conscients que la prochaine étape pouvait bouleverser leur enquête.",
+      "pt": "Andréa suspeitou que esse enigma prolongava o de Lyon. Eles avançaram sem se precipitar, conscientes de que a próxima etapa podia abalar a investigação."
     }
   ],
   "vocabularyDictionary": [
@@ -236,7 +246,7 @@
       "explanation": "No texto: 'la famille découvrit la Canebière, la grande avenue du port'."
     },
     {
-      "question": "O que Íris sentiu ao chegar?",
+      "question": "O que Andréa sentiu ao chegar?",
       "options": ["Cheiro de mar e de batatas fritas", "Cheiro de flores", "Cheiro de chuva"],
       "correctIndex": 0,
       "explanation": "No texto: 'Ça sent la mer et les frites !'"

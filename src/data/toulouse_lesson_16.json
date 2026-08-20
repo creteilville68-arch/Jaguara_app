@@ -7,12 +7,12 @@
   "titlePt": "As eclusas e a ponte-canal: o gênio da água",
   "subtitleFr": "Expliquer un système technique avec EN et Y",
   "subtitlePt": "Explicar um sistema técnico com EN e Y",
-  "summaryPt": "A família para numa eclusa para ver a manobra de uma péniche. Irlan explica a Íris como a água sobe e desce, e como o canal atravessa os rios graças a pontes-canal. Nesta aula B2, os pronomes EN e Y servem para falar com precisão: 'il y en a des dizaines', 'on y passe en bateau'.",
+  "summaryPt": "O casal para numa eclusa para ver a manobra de uma péniche. Irlan explica a Andréa como a água sobe e desce, e como o canal atravessa os rios graças a pontes-canal. Nesta aula B2, os pronomes EN e Y servem para falar com precisão: 'il y en a des dizaines', 'on y passe en bateau'.",
   "paragraphs": [
     {
       "id": 1,
-      "fr": "La péniche s'engagea dans l'écluse, un étroit couloir de pierre. L'éclusier referma la porte derrière elle, puis l'eau commença à monter. Íris, fascinée, ne clignait pas des yeux.",
-      "pt": "A barcaça entrou na eclusa, um corredor estreito de pedra. O eclusiero fechou a porta atrás dela, e a água começou a subir. Íris, fascinada, não piscava os olhos."
+      "fr": "La péniche s'engagea dans l'écluse, un étroit couloir de pierre. L'éclusier referma la porte derrière elle, puis l'eau commença à monter. Andréa, fascinée, ne clignait pas des yeux.",
+      "pt": "A barcaça entrou na eclusa, um corredor estreito de pedra. O eclusiero fechou a porta atrás dela, e a água começou a subir. Andréa, fascinada, não piscava os olhos."
     },
     {
       "id": 2,
@@ -33,6 +33,16 @@
       "id": 5,
       "fr": "Le soir, Irlan nota : « Riquet n'avait pas seulement construit un chemin d'eau. Il avait inventé une machine de 240 kilomètres. Et nous, on y a passé une journée entière sans voir le temps passer. »",
       "pt": "À noite, Irlan anotou: « Riquet não tinha apenas construído um caminho de água. Tinha inventado uma máquina de 240 quilômetros. E nós passamos um dia inteiro nela sem ver o tempo passar. »"
+    },
+    {
+      "id": 6,
+      "fr": "Une vanne réglait le débit avec une précision remarquable. Quand deux bateaux voulaient s'amarrer simultanément, l'éclusier devait maintenir un mouvement fluide.",
+      "pt": "Uma comporta regulava o fluxo com uma precisão notável. Quando dois barcos queriam atracar simultaneamente, o operador precisava manter um movimento fluido."
+    },
+    {
+      "id": 7,
+      "fr": "Le mécanisme semblait élémentaire, mais son fonctionnement était complexe. Irlan a décelé un détail distinctif qui correspondait au symbole gravé dans l'atlas.",
+      "pt": "O mecanismo parecia elementar, mas seu funcionamento era complexo. Irlan detectou um detalhe distintivo que correspondia ao símbolo gravado no atlas."
     }
   ],
   "vocabularyDictionary": [
@@ -187,8 +197,8 @@
       "ptTargets": ["piscar os olhos", "piscar"],
       "examples": [
         { "level": "A1", "fr": "Je cligne des yeux.", "pt": "Eu pisco os olhos." },
-        { "level": "A2-B1", "fr": "Íris ne clignait pas des yeux.", "pt": "Íris não piscava os olhos." },
-        { "level": "B2", "fr": "Fascinée par la montée des eaux, Íris ne clignait pas des yeux.", "pt": "Fascinada pela subida das águas, Íris não piscava os olhos." },
+        { "level": "A2-B1", "fr": "Andréa ne clignait pas des yeux.", "pt": "Andréa não piscava os olhos." },
+        { "level": "B2", "fr": "Fascinée par la montée des eaux, Andréa ne clignait pas des yeux.", "pt": "Fascinada pela subida das águas, Andréa não piscava os olhos." },
         { "level": "C1-C2", "fr": "Ne pas cligner des yeux traduit une attention si intense qu'elle suspend le corps.", "pt": "Não piscar os olhos traduz uma atenção tão intensa que suspende o corpo." }
       ]
     }

@@ -557,7 +557,16 @@ function inflectNounPhrase(stripped: string, out: Set<string>): void {
   const base = tokens.join(' ');
   wrapArticles(base, out);
 
-  const pluralTokens = tokens.map((t) => (FUNCTION_WORDS.has(t) ? t : pluralizeWord(t)));
+  // Composto com palavra funcional interna ("pomme de terre", "salle à
+  // manger", "croissant au beurre"): só o núcleo (primeira palavra de
+  // conteúdo) pluraliza — "pommes de terre", nunca "pommes de terres".
+  const hasInternalFunctionWord = tokens.slice(1).some((t) => FUNCTION_WORDS.has(t));
+  let pluralTokens: string[];
+  if (hasInternalFunctionWord) {
+    pluralTokens = tokens.map((t, i) => (i === 0 && !FUNCTION_WORDS.has(t) ? pluralizeWord(t) : t));
+  } else {
+    pluralTokens = tokens.map((t) => (FUNCTION_WORDS.has(t) ? t : pluralizeWord(t)));
+  }
   const plural = pluralTokens.join(' ');
   if (plural !== base) wrapArticles(plural, out);
 

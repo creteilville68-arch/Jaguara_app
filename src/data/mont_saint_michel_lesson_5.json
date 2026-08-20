@@ -69,6 +69,21 @@
       "fr": "Irlan a fermé le rideau. « Alors nous serons plus patients que lui. La baie n'aime pas les pressés. »",
       "pt": "Irlan fechou a cortina. « Então seremos mais pacientes que ele. A baía não gosta de quem tem pressa. »"
     }
+    ,{
+      "id": 13,
+      "fr": "La légende raconte que l'évêque Aubert a fait un rêve. Irlan trouve le récit émouvant, mais Andréa reste discrète.",
+      "pt": "A lenda conta que o bispo Aubert teve um sonho. Irlan acha o relato comovente, mas Andréa permanece discreta."
+    },
+    {
+      "id": 14,
+      "fr": "Ils font connaissance avec une guide aveugle qui connaît chaque pierre. Sa personnalité est passionnée et optimiste.",
+      "pt": "Eles conhecem uma guia cega que conhece cada pedra. Sua personalidade é apaixonada e otimista."
+    },
+    {
+      "id": 15,
+      "fr": "« Je ne veux pas me tromper de route », avoue Irlan. La guide répond : « Il faut s'informer et faire confiance à ses pas. »",
+      "pt": "Não quero errar o caminho, confessa Irlan. A guia responde: É preciso informar-se e confiar nos próprios passos."
+    }
   ],
   "vocabularyDictionary": [
     {
@@ -117,7 +132,7 @@
       "inflections": ["le rêve", "les rêves"],
       "ptTargets": ["sonho"],
       "examples": [
-        { "level": "A1", "fr": "Le rêve est étrange.", "pt": "O sonho é estranho." },
+        { "level": "A1", "fr": "J'ai fait un rêve étrange.", "pt": "Tive um sonho estranho." },
         { "level": "A2-B1", "fr": "Dans son rêve, Michel lui est apparu.", "pt": "Em seu sonho, Miguel apareceu para ele." },
         { "level": "B2", "fr": "Les trois rêves d'Aubert ont changé l'histoire du rocher.", "pt": "Os três sonhos de Aubert mudaram a história do rochedo." },
         { "level": "C1-C2", "fr": "Le rêve fondateur d'Aubert appartient désormais au patrimoine immatériel du site.", "pt": "O sonho fundador de Aubert pertence agora ao patrimônio imaterial do sítio." }

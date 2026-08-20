@@ -7,7 +7,7 @@
   "titlePt": "A preparação: Lyon nas malas",
   "subtitleFr": "Exprimer la volonté : le subjonctif passé et le départ",
   "subtitlePt": "Exprimir a vontade: o subjonctif passé e a partida",
-  "summaryPt": "Depois de meses em Lyon, chegou a hora de partir para Marseille. Irlan dobra a scooter, faz as malas e pensa em tudo o que a cidade ensinou. Nesta aula B2+, a família se prepara para a viagem e revisa o subjonctif passé com as emoções da despedida.",
+  "summaryPt": "Depois de meses em Lyon, chegou a hora de partir para Marseille. Irlan dobra a scooter, faz as malas e pensa em tudo o que a cidade ensinou. Nesta aula B2+, o casal se prepara para a viagem e revisa o subjonctif passé com as emoções da despedida.",
   "paragraphs": [
     {
       "id": 1,
@@ -21,8 +21,8 @@
     },
     {
       "id": 3,
-      "fr": "Íris rangea ses trésors : une carte du métro, un lumignon, une marionnette de Guignol. « Je suis triste que nous ayons quitté l'école », dit-elle. « Mais maman dit que Marseille a la mer. »",
-      "pt": "Íris guardou seus tesouros: um mapa do metrô, um lumignon, uma marionete de Guignol. « Estou triste que tenhamos saído da escola », disse ela. « Mas mamãe diz que Marseille tem o mar. »"
+      "fr": "Andréa rangea ses trésors : une carte du métro, un lumignon, une marionnette de Guignol. « Je suis triste que nous ayons quitté notre appartement », dit-elle. « Mais Irlan dit que Marseille a la mer. »",
+      "pt": "Andréa guardou seus tesouros: um mapa do metrô, um lumignon, uma marionete de Guignol. « Estou triste que tenhamos deixado nosso apartamento », disse ela. « Mas Irlan diz que Marseille tem o mar. »"
     },
     {
       "id": 4,
@@ -31,8 +31,18 @@
     },
     {
       "id": 5,
-      "fr": "Le soir, Irlan écrivit : « Je suis fier que notre famille ait fait de Lyon un souvenir. Les valises sont prêtes, la scooter est pliée. Dans mes poches, je garde un lumignon éteint : la lumière de Lyon, prête à se rallumer à Marseille. »",
-      "pt": "À noite, Irlan escreveu: « Tenho orgulho de que nossa família tenha feito de Lyon uma lembrança. As malas estão prontas, a scooter está dobrada. Nos meus bolsos, guardo um lumignon apagado: a luz de Lyon, pronta para se acender de novo em Marseille. »"
+      "fr": "Le soir, Irlan écrivit : « Je suis fier que nous ayons fait de Lyon un souvenir. Les valises sont prêtes, la scooter est pliée. Dans mes poches, je garde un lumignon éteint : la lumière de Lyon, prête à se rallumer à Marseille. »",
+      "pt": "À noite, Irlan escreveu: « Tenho orgulho de que tenhamos feito de Lyon uma lembrança. As malas estão prontas, a scooter está dobrada. Nos meus bolsos, guardo um lumignon apagado: a luz de Lyon, pronta para se acender de novo em Marseille. »"
+    },
+    {
+      "id": 6,
+      "fr": "Andréa a recensé les documents et a répertorié les objets transportables. Chaque poche devait être vérifiée avant de fermer les valises.",
+      "pt": "Andréa recenseou os documentos e catalogou os objetos transportáveis. Cada bolso precisava ser verificado antes de fechar as malas."
+    },
+    {
+      "id": 7,
+      "fr": "Irlan a plié les cartes avec une méthode rigoureuse. Cette préparation minutieuse était provisoire, mais elle réduisait le risque d'une omission décisive.",
+      "pt": "Irlan dobrou os mapas com um método rigoroso. Essa preparação minuciosa era provisória, mas reduzia o risco de uma omissão decisiva."
     }
   ],
   "vocabularyDictionary": [
@@ -174,7 +184,7 @@
       "ptTargets": ["guardar", "arrumar", "guardou"],
       "examples": [
         { "level": "A1", "fr": "Je range mes affaires.", "pt": "Eu guardo minhas coisas." },
-        { "level": "A2-B1", "fr": "Íris range ses trésors.", "pt": "Íris guarda seus tesouros." },
+        { "level": "A2-B1", "fr": "Andréa range ses trésors.", "pt": "Andréa guarda seus tesouros." },
         { "level": "B2", "fr": "Ranger, c'est faire de la place pour demain.", "pt": "Guardar é abrir espaço para o amanhã." },
         { "level": "C1-C2", "fr": "C'est en rangeant que l'on trie ses souvenirs.", "pt": "É guardando que se selecionam as lembranças." }
       ]
@@ -236,7 +246,7 @@
       "explanation": "No texto: 'Irlan pliait sa scooter avec soin'."
     },
     {
-      "question": "Quais tesouros Íris guardou?",
+      "question": "Quais tesouros Andréa guardou?",
       "options": ["Um mapa do metrô, um lumignon e um Guignol", "Brinquedos novos", "Fotos do Brasil"],
       "correctIndex": 0,
       "explanation": "No texto: 'une carte du métro, un lumignon, une marionnette de Guignol'."

@@ -11,8 +11,8 @@
   "paragraphs": [
     {
       "id": 1,
-      "fr": "Le lendemain, Irlan et Andréa vont chez les parents d'Andréa. Ils ont une grande nouvelle.",
-      "pt": "No dia seguinte, Irlan e Andréa vão à casa dos pais de Andréa. Eles têm uma grande notícia."
+      "fr": "Le lendemain, Irlan et Andréa vont chez la famille d'Andréa. Ils ont une grande nouvelle.",
+      "pt": "No dia seguinte, Irlan e Andréa vão à casa da família de Andréa. Eles têm uma grande notícia."
     },
     {
       "id": 2,
@@ -105,8 +105,8 @@
       "ptTargets": ["pais"],
       "examples": [
         { "level": "A1", "fr": "Les parents sont là.", "pt": "Os pais estão aqui." },
-        { "level": "A2-B1", "fr": "Ils vont chez les parents d'Andréa.", "pt": "Eles vão à casa dos pais de Andréa." },
-        { "level": "B2", "fr": "Les parents d'Andréa accueillent Irlan avec émotion.", "pt": "Os pais de Andréa acolhem Irlan com emoção." },
+        { "level": "A2-B1", "fr": "Ils vont chez la famille d'Andréa.", "pt": "Eles vão à casa da família de Andréa." },
+        { "level": "B2", "fr": "La famille d'Andréa accueille Irlan avec émotion.", "pt": "A família de Andréa acolhe Irlan com emoção." },
         { "level": "C1-C2", "fr": "Ce sont les parents qui, les premiers, transmettent le sens de la famille.", "pt": "São os pais que, primeiro, transmitem o sentido de família." }
       ]
     },
@@ -131,7 +131,7 @@
       "ptTargets": ["emoção"],
       "examples": [
         { "level": "A1", "fr": "L'émotion est grande.", "pt": "A emoção é grande." },
-        { "level": "A2-B1", "fr": "Le père d'Andréa est ému.", "pt": "O pai de Andréa está emocionado." },
+        { "level": "A2-B1", "fr": "La grand-mère d'Andréa est émue.", "pt": "A avó de Andréa está emocionada." },
         { "level": "B2", "fr": "L'émotion se lit sur tous les visages.", "pt": "A emoção se lê em todos os rostos." },
         { "level": "C1-C2", "fr": "C'est l'émotion qui, muette, dit la profondeur d'un moment.", "pt": "É a emoção que, muda, diz a profundidade de um momento." }
       ]

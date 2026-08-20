@@ -7,7 +7,7 @@
   "titlePt": "A Lyon Antiga e suas traboules: as passagens secretas",
   "subtitleFr": "La Renaissance lyonnaise et les couloirs qui traversent les immeubles",
   "subtitlePt": "A Renascença lionense e os corredores que atravessam os prédios",
-  "summaryPt": "Nesta Aula 2 (B2+), a família percorre o Vieux Lyon, bairro renascentista classificado pela UNESCO, e descobre as traboules, passagens secretas que atravessam os prédios. O aluno domina o discurso indireto: 'Le guide a dit que les traboules servaient...'.",
+  "summaryPt": "Nesta Aula 2 (B2+), o casal percorre o Vieux Lyon, bairro renascentista classificado pela UNESCO, e descobre as traboules, passagens secretas que atravessam os prédios. O aluno domina o discurso indireto: 'Le guide a dit que les traboules servaient...'.",
   "paragraphs": [
     {
       "id": 1,
@@ -16,8 +16,8 @@
     },
     {
       "id": 2,
-      "fr": "Iris a poussé une porte et s'est retrouvée dans une cour secrète. « Le guide a dit que ces passages servaient aussi pendant la Résistance, a murmuré Irlan. Les résistants y cachaient leurs messages et leurs armes. »",
-      "pt": "Íris empurrou uma porta e se viu num pátio secreto. « O guia disse que essas passagens também serviam durante a Resistência, murmurou Irlan. Os resistentes escondiam ali suas mensagens e suas armas. »"
+      "fr": "Andréa a poussé une porte et s'est retrouvée dans une cour secrète. « Le guide a dit que ces passages servaient aussi pendant la Résistance, a murmuré Irlan. Les résistants y cachaient leurs messages et leurs armes. »",
+      "pt": "Andréa empurrou uma porta e se viu num pátio secreto. « O guia disse que essas passagens também serviam durante a Resistência, murmurou Irlan. Os resistentes escondiam ali suas mensagens e suas armas. »"
     },
     {
       "id": 3,
@@ -26,8 +26,18 @@
     },
     {
       "id": 4,
-      "fr": "En sortant d'une traboule, Iris a conclu : « J'ai compris : Lyon, c'est une ville avec des secrets. » Irlan a souri : « Et c'est ce que j'aime ici : chaque porte cache une histoire. Un jour, je te raconterai celle de ma scooter et de mes livraisons secrètes dans Paris. »",
-      "pt": "Ao sair de uma traboule, Íris concluiu: « Entendi: Lyon é uma cidade com segredos. » Irlan sorriu: « E é isso que eu amo aqui: cada porta esconde uma história. Um dia, eu te conto a da minha scooter e das minhas entregas secretas em Paris. »"
+      "fr": "En sortant d'une traboule, Andréa a conclu : « J'ai compris : Lyon, c'est une ville avec des secrets. » Irlan a souri : « Et c'est ce que j'aime ici : chaque porte cache une histoire. Un jour, je te raconterai celle de ma scooter et de mes livraisons dans Paris. »",
+      "pt": "Ao sair de uma traboule, Andréa concluiu: « Entendi: Lyon é uma cidade com segredos. » Irlan sorriu: « E é isso que eu amo aqui: cada porta esconde uma história. Um dia, eu te conto a da minha scooter e das minhas entregas em Paris. »"
+    },
+    {
+      "id": 5,
+      "fr": "Dans une traboule détachable de la rue principale, Irlan a trouvé un symbole presque imperceptible. Le passage, astucieux mais étroit, semblait avoir été conçu pour dissimuler un déplacement.",
+      "pt": "Em uma traboule que se separava da rua principal, Irlan encontrou um símbolo quase imperceptível. A passagem, engenhosa mas estreita, parecia ter sido concebida para ocultar um deslocamento."
+    },
+    {
+      "id": 6,
+      "fr": "Andréa a décrypté la première inscription, puis a vérifié chaque détail. Un informateur digne de confiance leur avait laissé un indice, de peur qu'un inconnu ne les dupe.",
+      "pt": "Andréa decifrou a primeira inscrição e depois verificou cada detalhe. Um informante digno de confiança havia deixado uma pista, com medo de que um desconhecido os enganasse."
     }
   ],
   "vocabularyDictionary": [
@@ -52,7 +62,7 @@
       "ptTargets": ["passagem"],
       "examples": [
         { "level": "A1", "fr": "Le passage est étroit.", "pt": "A passagem é estreita." },
-        { "level": "A2-B1", "fr": "Les passages secrets fascinent Iris.", "pt": "As passagens secretas fascinam Íris." },
+        { "level": "A2-B1", "fr": "Les passages secrets fascinent Andréa.", "pt": "As passagens secretas fascinam Andréa." },
         { "level": "B2", "fr": "Les passages, autrefois utilitaires, sont aujourd'hui des trésors touristiques.", "pt": "As passagens, antigamente utilitárias, hoje são tesouros turísticos." },
         { "level": "C1-C2", "fr": "C'est par ces passages que la soie voyageait à l'abri des regards.", "pt": "É por essas passagens que a seda viajava a salvo dos olhares." }
       ]
@@ -91,7 +101,7 @@
       "ptTargets": ["pátio"],
       "examples": [
         { "level": "A1", "fr": "La cour est calme.", "pt": "O pátio é calmo." },
-        { "level": "A2-B1", "fr": "Iris a découvert une cour secrète.", "pt": "Íris descobriu um pátio secreto." },
+        { "level": "A2-B1", "fr": "Andréa a découvert une cour secrète.", "pt": "Andréa descobriu um pátio secreto." },
         { "level": "B2", "fr": "Les cours, cachées derrière les façades, surprennent les visiteurs.", "pt": "Os pátios, escondidos atrás das fachadas, surpreendem os visitantes." },
         { "level": "C1-C2", "fr": "C'est dans ces cours que l'on découvre l'élégance des escaliers Renaissance.", "pt": "É nesses pátios que se descobre a elegância das escadarias renascentistas." }
       ]
@@ -182,7 +192,7 @@
       "ptTargets": ["porta"],
       "examples": [
         { "level": "A1", "fr": "La porte est verte.", "pt": "A porta é verde." },
-        { "level": "A2-B1", "fr": "Iris a poussé une porte secrète.", "pt": "Íris empurrou uma porta secreta." },
+        { "level": "A2-B1", "fr": "Andréa a poussé une porte secrète.", "pt": "Andréa empurrou uma porta secreta." },
         { "level": "B2", "fr": "Les portes, qui semblent banales, cachent des cours magnifiques.", "pt": "As portas, que parecem banais, escondem pátios magníficos." },
         { "level": "C1-C2", "fr": "C'est derrière les portes les plus simples que se cachent les plus beaux secrets.", "pt": "É atrás das portas mais simples que se escondem os mais belos segredos." }
       ]

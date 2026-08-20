@@ -7,7 +7,7 @@
   "titlePt": "O Cher, o Indre e o Vienne: os rios irmãos",
   "subtitleFr": "Trois rivières viennent rejoindre la Loire à Tours",
   "subtitlePt": "Três rios vêm se juntar ao Loire em Tours",
-  "summaryPt": "Nesta Aula 28 (B1), Irlan, geógrafo, explica à família os rios que cercam Tours: o Cher, o Indre e o Vienne, afluentes da Loire. O aluno pratica o vocabulário da geografia (l'affluent, la confluence, la source, se jeter dans) e a expressão de causa (parce que, grâce à).",
+  "summaryPt": "Nesta Aula 28 (B1), Irlan, geógrafo, explica ao casal os rios que cercam Tours: o Cher, o Indre e o Vienne, afluentes da Loire. O aluno pratica o vocabulário da geografia (l'affluent, la confluence, la source, se jeter dans) e a expressão de causa (parce que, grâce à).",
   "paragraphs": [
     {
       "id": 1,
@@ -26,13 +26,28 @@
     },
     {
       "id": 4,
-      "fr": "Iris a regardé la carte : « Pourquoi les rivières se rencontrent ici ? » « Parce que Tours est au centre de la région », a répondu Irlan. « Depuis toujours, les hommes construisent leurs villes près des rivières. »",
-      "pt": "Íris olhou o mapa: « Por que os rios se encontram aqui? » « Porque Tours fica no centro da região », respondeu Irlan. « Desde sempre, os homens constroem suas cidades perto dos rios. »"
+      "fr": "Andréa a regardé la carte : « Pourquoi les rivières se rencontrent ici ? » « Parce que Tours est au centre de la région », a répondu Irlan. « Depuis toujours, les hommes construisent leurs villes près des rivières. »",
+      "pt": "Andréa olhou o mapa: « Por que os rios se encontram aqui? » « Porque Tours fica no centro da região », respondeu Irlan. « Desde sempre, os homens constroem suas cidades perto dos rios. »"
     },
     {
       "id": 5,
       "fr": "« Quand j'étais livreur, je ne voyais les rivières que sur mon téléphone », a dit Irlan. « Maintenant, je vois comment l'eau dessine les paysages. C'est pour cela que j'ai choisi la géographie. »",
       "pt": "« Quando eu era entregador, eu via os rios só no celular », disse Irlan. « Agora, vejo como a água desenha as paisagens. É por isso que escolhi a geografia. »"
+    },
+    {
+      "id": 6,
+      "fr": "Les rivières de la Touraine sont majestueuses. Le Cher, l'Indre et la Vienne se rejoignent dans la Loire.",
+      "pt": "Os rios da Touraine são majestosos. O Cher, o Indre e o Vienne se encontram no Loire."
+    },
+    {
+      "id": 7,
+      "fr": "Irlan observe la faune au bord de l'eau. Les hérons sont constants et ne bougent pas.",
+      "pt": "Irlan observa a fauna à beira da água. Os garças são constantes e não se movem."
+    },
+    {
+      "id": 8,
+      "fr": "Andréa dit que la biodiversité est menacée. « Il faut protéger ces rivières pour les générations futures », affirme-t-elle.",
+      "pt": "Andréa diz que a biodiversidade está ameaçada. É preciso proteger esses rios para as gerações futuras, afirma ela."
     }
   ],
   "vocabularyDictionary": [
@@ -40,156 +55,420 @@
       "term": "la rivière",
       "definitionPt": "o rio",
       "definitionFr": "Cours d'eau moyen.",
-      "inflections": ["la rivière", "une rivière", "des rivières"],
-      "ptTargets": ["rio"],
+      "inflections": [
+        "la rivière",
+        "une rivière",
+        "des rivières"
+      ],
+      "ptTargets": [
+        "rio"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La rivière est claire.", "pt": "O rio é claro." },
-        { "level": "A2-B1", "fr": "L'Indre est une jolie rivière.", "pt": "O Indre é um rio bonito." },
-        { "level": "B2", "fr": "La rivière qui passe sous le château est calme.", "pt": "O rio que passa sob o castelo é calmo." },
-        { "level": "C1-C2", "fr": "La rivière, artère de la campagne, nourrit la terre et les châteaux.", "pt": "O rio, artéria do campo, alimenta a terra e os castelos." }
+        {
+          "level": "A1",
+          "fr": "La rivière est claire.",
+          "pt": "O rio é claro."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "L'Indre est une jolie rivière.",
+          "pt": "O Indre é um rio bonito."
+        },
+        {
+          "level": "B2",
+          "fr": "La rivière qui passe sous le château est calme.",
+          "pt": "O rio que passa sob o castelo é calmo."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "La rivière, artère de la campagne, nourrit la terre et les châteaux.",
+          "pt": "O rio, artéria do campo, alimenta a terra e os castelos."
+        }
       ]
     },
     {
       "term": "l'affluent",
       "definitionPt": "o afluente",
       "definitionFr": "Cours d'eau qui se jette dans un autre.",
-      "inflections": ["l'affluent", "un affluent", "des affluents"],
-      "ptTargets": ["afluente"],
+      "inflections": [
+        "l'affluent",
+        "un affluent",
+        "des affluents"
+      ],
+      "ptTargets": [
+        "afluente"
+      ],
       "examples": [
-        { "level": "A1", "fr": "L'affluent est petit.", "pt": "O afluente é pequeno." },
-        { "level": "A2-B1", "fr": "Le Cher est un affluent de la Loire.", "pt": "O Cher é um afluente do Loire." },
-        { "level": "B2", "fr": "Les affluents qui rejoignent la Loire sont nombreux.", "pt": "Os afluentes que se juntam ao Loire são numerosos." },
-        { "level": "C1-C2", "fr": "L'affluent, enfant du fleuve, vient grossir la rivière mère.", "pt": "O afluente, filho do rio, vem engrossar o rio-mãe." }
+        {
+          "level": "A1",
+          "fr": "L'affluent est petit.",
+          "pt": "O afluente é pequeno."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Le Cher est un affluent de la Loire.",
+          "pt": "O Cher é um afluente do Loire."
+        },
+        {
+          "level": "B2",
+          "fr": "Les affluents qui rejoignent la Loire sont nombreux.",
+          "pt": "Os afluentes que se juntam ao Loire são numerosos."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "L'affluent, enfant du fleuve, vient grossir la rivière mère.",
+          "pt": "O afluente, filho do rio, vem engrossar o rio-mãe."
+        }
       ]
     },
     {
       "term": "la confluence",
       "definitionPt": "a confluência",
       "definitionFr": "Lieu où deux cours d'eau se rencontrent.",
-      "inflections": ["la confluence", "une confluence", "des confluences"],
-      "ptTargets": ["confluência"],
+      "inflections": [
+        "la confluence",
+        "une confluence",
+        "des confluences"
+      ],
+      "ptTargets": [
+        "confluência"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La confluence est calme.", "pt": "A confluência é calma." },
-        { "level": "A2-B1", "fr": "La confluence du Cher et de la Loire est près de Tours.", "pt": "A confluência do Cher e do Loire é perto de Tours." },
-        { "level": "B2", "fr": "La confluence que l'on voit d'ici est impressionnante.", "pt": "A confluência que se vê daqui é impressionante." },
-        { "level": "C1-C2", "fr": "La confluence, mariage des eaux, mêle deux histoires en un seul courant.", "pt": "A confluência, casamento das águas, mistura duas histórias numa única corrente." }
+        {
+          "level": "A1",
+          "fr": "La confluence est calme.",
+          "pt": "A confluência é calma."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "La confluence du Cher et de la Loire est près de Tours.",
+          "pt": "A confluência do Cher e do Loire é perto de Tours."
+        },
+        {
+          "level": "B2",
+          "fr": "La confluence que l'on voit d'ici est impressionnante.",
+          "pt": "A confluência que se vê daqui é impressionante."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "La confluence, mariage des eaux, mêle deux histoires en un seul courant.",
+          "pt": "A confluência, casamento das águas, mistura duas histórias numa única corrente."
+        }
       ]
     },
     {
       "term": "la source",
       "definitionPt": "a nascente, a fonte",
       "definitionFr": "Endroit où naît un cours d'eau.",
-      "inflections": ["la source", "une source", "des sources"],
-      "ptTargets": ["nascente", "fonte"],
+      "inflections": [
+        "la source",
+        "une source",
+        "des sources"
+      ],
+      "ptTargets": [
+        "nascente",
+        "fonte"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La source est claire.", "pt": "A nascente é clara." },
-        { "level": "A2-B1", "fr": "La Loire prend sa source dans le Massif central.", "pt": "O Loire nasce no Maciço Central." },
-        { "level": "B2", "fr": "La source dont parle Irlan est en montagne.", "pt": "A nascente de que Irlan fala fica na montanha." },
-        { "level": "C1-C2", "fr": "La source, premier souffle de l'eau, promet le voyage au ruisseau.", "pt": "A nascente, primeiro sopro da água, promete a viagem ao riacho." }
+        {
+          "level": "A1",
+          "fr": "La source est claire.",
+          "pt": "A nascente é clara."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "La Loire prend sa source dans le Massif central.",
+          "pt": "O Loire nasce no Maciço Central."
+        },
+        {
+          "level": "B2",
+          "fr": "La source dont parle Irlan est en montagne.",
+          "pt": "A nascente de que Irlan fala fica na montanha."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "La source, premier souffle de l'eau, promet le voyage au ruisseau.",
+          "pt": "A nascente, primeiro sopro da água, promete a viagem ao riacho."
+        }
       ]
     },
     {
       "term": "se jeter dans",
       "definitionPt": "desaguar em",
       "definitionFr": "Se terminer dans un autre cours d'eau.",
-      "inflections": ["je me jette", "tu te jettes", "il se jette", "nous nous jetons"],
-      "ptTargets": ["desaguar em"],
+      "inflections": [
+        "je me jette",
+        "tu te jettes",
+        "il se jette",
+        "nous nous jetons"
+      ],
+      "ptTargets": [
+        "desaguar em"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La rivière se jette dans le fleuve.", "pt": "O rio desagua no rio principal." },
-        { "level": "A2-B1", "fr": "La Vienne se jette dans la Loire.", "pt": "O Vienne desagua no Loire." },
-        { "level": "B2", "fr": "Le Cher, qui se jette dans la Loire, passe à Chenonceau.", "pt": "O Cher, que desagua no Loire, passa em Chenonceau." },
-        { "level": "C1-C2", "fr": "Se jeter dans, c'est offrir ses eaux et disparaître dans le plus grand.", "pt": "Desaguar é oferecer as águas e desaparecer no maior." }
+        {
+          "level": "A1",
+          "fr": "La rivière se jette dans le fleuve.",
+          "pt": "O rio desagua no rio principal."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "La Vienne se jette dans la Loire.",
+          "pt": "O Vienne desagua no Loire."
+        },
+        {
+          "level": "B2",
+          "fr": "Le Cher, qui se jette dans la Loire, passe à Chenonceau.",
+          "pt": "O Cher, que desagua no Loire, passa em Chenonceau."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Se jeter dans, c'est offrir ses eaux et disparaître dans le plus grand.",
+          "pt": "Desaguar é oferecer as águas e desaparecer no maior."
+        }
       ]
     },
     {
       "term": "le tronc",
       "definitionPt": "o tronco",
       "definitionFr": "Partie principale d'un arbre.",
-      "inflections": ["le tronc", "un tronc", "des troncs"],
-      "ptTargets": ["tronco"],
+      "inflections": [
+        "le tronc",
+        "un tronc",
+        "des troncs"
+      ],
+      "ptTargets": [
+        "tronco"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le tronc est épais.", "pt": "O tronco é grosso." },
-        { "level": "A2-B1", "fr": "La Loire est comme le tronc d'un arbre.", "pt": "O Loire é como o tronco de uma árvore." },
-        { "level": "B2", "fr": "Le tronc que l'on voit est couvert de mousse.", "pt": "O tronco que se vê está coberto de musgo." },
-        { "level": "C1-C2", "fr": "Le tronc, colonne de vie, relie les racines aux feuilles.", "pt": "O tronco, coluna de vida, liga as raízes às folhas." }
+        {
+          "level": "A1",
+          "fr": "Le tronc est épais.",
+          "pt": "O tronco é grosso."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "La Loire est comme le tronc d'un arbre.",
+          "pt": "O Loire é como o tronco de uma árvore."
+        },
+        {
+          "level": "B2",
+          "fr": "Le tronc que l'on voit est couvert de mousse.",
+          "pt": "O tronco que se vê está coberto de musgo."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Le tronc, colonne de vie, relie les racines aux feuilles.",
+          "pt": "O tronco, coluna de vida, liga as raízes às folhas."
+        }
       ]
     },
     {
       "term": "la branche",
       "definitionPt": "o galho",
       "definitionFr": "Partie d'un arbre qui pousse du tronc.",
-      "inflections": ["la branche", "une branche", "des branches"],
-      "ptTargets": ["galho"],
+      "inflections": [
+        "la branche",
+        "une branche",
+        "des branches"
+      ],
+      "ptTargets": [
+        "galho"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La branche est longue.", "pt": "O galho é comprido." },
-        { "level": "A2-B1", "fr": "Les affluents sont les branches de la Loire.", "pt": "Os afluentes são os galhos do Loire." },
-        { "level": "B2", "fr": "Les branches qui se penchent sur l'eau sont belles.", "pt": "Os galhos que se debruçam sobre a água são bonitos." },
-        { "level": "C1-C2", "fr": "La branche, bras de l'arbre, tend ses feuilles vers le ciel.", "pt": "O galho, braço da árvore, estende as folhas para o céu." }
+        {
+          "level": "A1",
+          "fr": "La branche est longue.",
+          "pt": "O galho é comprido."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Les affluents sont les branches de la Loire.",
+          "pt": "Os afluentes são os galhos do Loire."
+        },
+        {
+          "level": "B2",
+          "fr": "Les branches qui se penchent sur l'eau sont belles.",
+          "pt": "Os galhos que se debruçam sobre a água são bonitos."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "La branche, bras de l'arbre, tend ses feuilles vers le ciel.",
+          "pt": "O galho, braço da árvore, estende as folhas para o céu."
+        }
       ]
     },
     {
       "term": "le paysage",
       "definitionPt": "a paisagem",
       "definitionFr": "Ce que l'on voit d'un lieu.",
-      "inflections": ["le paysage", "un paysage", "des paysages"],
-      "ptTargets": ["paisagem"],
+      "inflections": [
+        "le paysage",
+        "un paysage",
+        "des paysages"
+      ],
+      "ptTargets": [
+        "paisagem"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le paysage est beau.", "pt": "A paisagem é bonita." },
-        { "level": "A2-B1", "fr": "L'eau dessine les paysages.", "pt": "A água desenha as paisagens." },
-        { "level": "B2", "fr": "Le paysage que l'on voit du pont est magnifique.", "pt": "A paisagem que se vê da ponte é magnífica." },
-        { "level": "C1-C2", "fr": "Le paysage, livre ouvert, se lit par les rivières et les collines.", "pt": "A paisagem, livro aberto, lê-se pelos rios e colinas." }
+        {
+          "level": "A1",
+          "fr": "Le paysage est beau.",
+          "pt": "A paisagem é bonita."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "L'eau dessine les paysages.",
+          "pt": "A água desenha as paisagens."
+        },
+        {
+          "level": "B2",
+          "fr": "Le paysage que l'on voit du pont est magnifique.",
+          "pt": "A paisagem que se vê da ponte é magnífica."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Le paysage, livre ouvert, se lit par les rivières et les collines.",
+          "pt": "A paisagem, livro aberto, lê-se pelos rios e colinas."
+        }
       ]
     },
     {
       "term": "la géographie",
       "definitionPt": "a geografia",
       "definitionFr": "Science qui étudie la Terre et les paysages.",
-      "inflections": ["la géographie", "la géographie physique"],
-      "ptTargets": ["geografia"],
+      "inflections": [
+        "la géographie",
+        "la géographie physique"
+      ],
+      "ptTargets": [
+        "geografia"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La géographie est intéressante.", "pt": "A geografia é interessante." },
-        { "level": "A2-B1", "fr": "Irlan adore la géographie.", "pt": "Irlan adora geografia." },
-        { "level": "B2", "fr": "La géographie qu'Irlan a étudiée parle des rivières.", "pt": "A geografia que Irlan estudou fala dos rios." },
-        { "level": "C1-C2", "fr": "La géographie, science des lieux, raconte pourquoi les villes sont où elles sont.", "pt": "A geografia, ciência dos lugares, conta por que as cidades estão onde estão." }
+        {
+          "level": "A1",
+          "fr": "La géographie est intéressante.",
+          "pt": "A geografia é interessante."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Irlan adore la géographie.",
+          "pt": "Irlan adora geografia."
+        },
+        {
+          "level": "B2",
+          "fr": "La géographie qu'Irlan a étudiée parle des rivières.",
+          "pt": "A geografia que Irlan estudou fala dos rios."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "La géographie, science des lieux, raconte pourquoi les villes sont où elles sont.",
+          "pt": "A geografia, ciência dos lugares, conta por que as cidades estão onde estão."
+        }
       ]
     },
     {
       "term": "la carte",
       "definitionPt": "o mapa",
       "definitionFr": "Dessin qui montre les lieux.",
-      "inflections": ["la carte", "une carte", "des cartes"],
-      "ptTargets": ["mapa"],
+      "inflections": [
+        "la carte",
+        "une carte",
+        "des cartes"
+      ],
+      "ptTargets": [
+        "mapa"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La carte est grande.", "pt": "O mapa é grande." },
-        { "level": "A2-B1", "fr": "Iris a regardé la carte des rivières.", "pt": "Íris olhou o mapa dos rios." },
-        { "level": "B2", "fr": "La carte que nous avons ouverte montre toute la Touraine.", "pt": "O mapa que abrimos mostra toda a Touraine." },
-        { "level": "C1-C2", "fr": "La carte, mensonge savant, simplifie le monde pour le rendre lisible.", "pt": "O mapa, mentira sábia, simplifica o mundo para torná-lo legível." }
+        {
+          "level": "A1",
+          "fr": "La carte est grande.",
+          "pt": "O mapa é grande."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Nous avons regardé la carte des rivières.",
+          "pt": "Olhamos o mapa dos rios."
+        },
+        {
+          "level": "B2",
+          "fr": "La carte que nous avons ouverte montre toute la Touraine.",
+          "pt": "O mapa que abrimos mostra toda a Touraine."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "La carte, mensonge savant, simplifie le monde pour le rendre lisible.",
+          "pt": "O mapa, mentira sábia, simplifica o mundo para torná-lo legível."
+        }
       ]
     },
     {
       "term": "le cours d'eau",
       "definitionPt": "o curso d'água",
       "definitionFr": "Eau qui coule : rivière, fleuve, ruisseau.",
-      "inflections": ["le cours d'eau", "des cours d'eau"],
-      "ptTargets": ["curso d'água"],
+      "inflections": [
+        "le cours d'eau",
+        "des cours d'eau"
+      ],
+      "ptTargets": [
+        "curso d'água"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le cours d'eau coule.", "pt": "O curso d'água corre." },
-        { "level": "A2-B1", "fr": "Le Cher est un beau cours d'eau.", "pt": "O Cher é um belo curso d'água." },
-        { "level": "B2", "fr": "Les cours d'eau qui entourent Tours sont doux.", "pt": "Os cursos d'água que cercam Tours são suaves." },
-        { "level": "C1-C2", "fr": "Le cours d'eau, voyageur constant, ne se repose jamais.", "pt": "O curso d'água, viajante constante, nunca descansa." }
+        {
+          "level": "A1",
+          "fr": "Le cours d'eau coule.",
+          "pt": "O curso d'água corre."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Le Cher est un beau cours d'eau.",
+          "pt": "O Cher é um belo curso d'água."
+        },
+        {
+          "level": "B2",
+          "fr": "Les cours d'eau qui entourent Tours sont doux.",
+          "pt": "Os cursos d'água que cercam Tours são suaves."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Le cours d'eau, voyageur constant, ne se repose jamais.",
+          "pt": "O curso d'água, viajante constante, nunca descansa."
+        }
       ]
     },
     {
       "term": "le ruisseau",
       "definitionPt": "o riacho",
       "definitionFr": "Très petit cours d'eau.",
-      "inflections": ["le ruisseau", "un ruisseau", "des ruisseaux"],
-      "ptTargets": ["riacho"],
+      "inflections": [
+        "le ruisseau",
+        "un ruisseau",
+        "des ruisseaux"
+      ],
+      "ptTargets": [
+        "riacho"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le ruisseau est petit.", "pt": "O riacho é pequeno." },
-        { "level": "A2-B1", "fr": "Un ruisseau traverse le jardin.", "pt": "Um riacho atravessa o jardim." },
-        { "level": "B2", "fr": "Le ruisseau qui chante dans le parc est joli.", "pt": "O riacho que canta no parque é bonito." },
-        { "level": "C1-C2", "fr": "Le ruisseau, premier cri de l'eau, deviendra fleuve un jour.", "pt": "O riacho, primeiro grito da água, virará rio um dia." }
+        {
+          "level": "A1",
+          "fr": "Le ruisseau est petit.",
+          "pt": "O riacho é pequeno."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Un ruisseau traverse le jardin.",
+          "pt": "Um riacho atravessa o jardim."
+        },
+        {
+          "level": "B2",
+          "fr": "Le ruisseau qui chante dans le parc est joli.",
+          "pt": "O riacho que canta no parque é bonito."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Le ruisseau, premier cri de l'eau, deviendra fleuve un jour.",
+          "pt": "O riacho, primeiro grito da água, virará rio um dia."
+        }
       ]
     }
   ],
@@ -210,27 +489,52 @@
   "quizQuestions": [
     {
       "question": "Quels sont les affluents de la Loire près de Tours ?",
-      "options": ["Le Cher, l'Indre, la Vienne", "La Seine, l'Oise, la Marne", "Le Rhône, la Saône, l'Isère", "La Garonne, le Lot, la Dordogne"],
+      "options": [
+        "Le Cher, l'Indre, la Vienne",
+        "La Seine, l'Oise, la Marne",
+        "Le Rhône, la Saône, l'Isère",
+        "La Garonne, le Lot, la Dordogne"
+      ],
       "correctIndex": 0
     },
     {
       "question": "Quelle rivière passe sous Chenonceau ?",
-      "options": ["Le Cher", "L'Indre", "La Vienne", "La Seine"],
+      "options": [
+        "Le Cher",
+        "L'Indre",
+        "La Vienne",
+        "La Seine"
+      ],
       "correctIndex": 0
     },
     {
       "question": "Quelle rivière coule au pied de Chinon ?",
-      "options": ["La Vienne", "L'Indre", "Le Cher", "Le Rhône"],
+      "options": [
+        "La Vienne",
+        "L'Indre",
+        "Le Cher",
+        "Le Rhône"
+      ],
       "correctIndex": 0
     },
     {
       "question": "Pourquoi les hommes construisent-ils leurs villes près des rivières ?",
-      "options": ["Depuis toujours", "Par hasard", "Pour la neige", "Pour la montagne"],
+      "options": [
+        "Depuis toujours",
+        "Par hasard",
+        "Pour la neige",
+        "Pour la montagne"
+      ],
       "correctIndex": 0
     },
     {
       "question": "Quel métier Irlan a-t-il choisi ?",
-      "options": ["La géographie", "La cuisine", "La peinture", "La pêche"],
+      "options": [
+        "La géographie",
+        "La cuisine",
+        "La peinture",
+        "La pêche"
+      ],
       "correctIndex": 0
     }
   ]

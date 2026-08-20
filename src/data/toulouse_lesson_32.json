@@ -7,7 +7,7 @@
   "titlePt": "A estação Matabiau: a porta de Toulouse",
   "subtitleFr": "Parler des voyages et des arrivées avec Y et le plus-que-parfait",
   "subtitlePt": "Falar de viagens e chegadas com Y e o mais-que-perfeito",
-  "summaryPt": "Na gare Matabiau, inaugurada em 1856, Irlan reflete sobre todas as chegadas que a estação já viu: imigrantes, estudantes, famílias. Ele próprio tinha chegado por ali com a família. Nesta aula B2, o pronome Y e o plus-que-parfait narram as partidas e chegadas.",
+  "summaryPt": "Na gare Matabiau, inaugurada em 1856, Irlan reflete sobre todas as chegadas que a estação já viu: imigrantes, estudantes, famílias. Ele próprio tinha chegado por ali com Andréa. Nesta aula B2, o pronome Y e o plus-que-parfait narram as partidas e chegadas.",
   "paragraphs": [
     {
       "id": 1,
@@ -26,13 +26,23 @@
     },
     {
       "id": 4,
-      "fr": "Íris, perchée sur une valise, regardait les trains partir. « Moi, dit-elle, je n'y suis jamais allée, en train. — Alors, on y remédiera, dit Irlan en riant. C'est promis : notre prochain voyage, on le fera en train. »",
-      "pt": "Íris, empoleirada numa mala, olhava os trens partirem. « Eu, disse ela, nunca fui de trem. — Então, a gente resolve isso, disse Irlan rindo. Prometo: nossa próxima viagem, faremos de trem. »"
+      "fr": "Andréa, perchée sur une valise, regardait les trains partir. « C'est beau, une gare, dit-elle. Tant de vies qui se croisent. — Et nous, on n'a pas fini d'en voir, répondit Irlan en riant. C'est promis : notre prochain voyage, on le fera en train. »",
+      "pt": "Andréa, empoleirada numa mala, olhava os trens partirem. « Que linda, uma estação, disse ela. Tantas vidas que se cruzam. — E nós, não acabamos de ver isso, respondeu Irlan rindo. Prometo: nossa próxima viagem, faremos de trem. »"
     },
     {
       "id": 5,
       "fr": "Le soir, Irlan nota : « J'étais arrivé à Toulouse sans rien connaître de la ville. Aujourd'hui, elle est ma maison. La gare qui m'avait vu arriver me verra peut-être partir, un jour. Mais je reviendrai toujours y prendre un café. »",
       "pt": "À noite, Irlan anotou: « Eu tinha chegado a Toulouse sem conhecer nada da cidade. Hoje, ela é minha casa. A estação que me tinha visto chegar talvez me veja partir, um dia. Mas sempre voltarei para tomar um café nela. »"
+    },
+    {
+      "id": 6,
+      "fr": "À Matabiau, le réseau ferroviaire semblait absorber la ville entière. Les voyageurs pouvaient transiter rapidement, même quand un train retardé compliquait l'embarquement.",
+      "pt": "Em Matabiau, a malha ferroviária parecia absorver a cidade inteira. Os viajantes podiam transitar rapidamente, mesmo quando um trem atrasado complicava o embarque."
+    },
+    {
+      "id": 7,
+      "fr": "Irlan a demandé un renseignement et a déplié son plan. Un itinéraire provisoire lui a permis de parvenir aux quais sans perdre le fil de l'enquête.",
+      "pt": "Irlan pediu uma informação e desdobrou seu mapa. Um itinerário provisório permitiu que chegasse às plataformas sem perder o fio da investigação."
     }
   ],
   "vocabularyDictionary": [
@@ -148,8 +158,8 @@
       "ptTargets": ["empoleirar-se", "empoleirada"],
       "examples": [
         { "level": "A1", "fr": "Je me perche sur le banc.", "pt": "Eu me empoleiro no banco." },
-        { "level": "A2-B1", "fr": "Íris se perche sur la valise.", "pt": "Íris se empoleira na mala." },
-        { "level": "B2", "fr": "Perchée sur une valise, Íris regardait les trains partir.", "pt": "Empoleirada numa mala, Íris olhava os trens partirem." },
+        { "level": "A2-B1", "fr": "Andréa se perche sur la valise.", "pt": "Andréa se empoleira na mala." },
+        { "level": "B2", "fr": "Perchée sur une valise, Andréa regardait les trains partir.", "pt": "Empoleirada numa mala, Andréa olhava os trens partirem." },
         { "level": "C1-C2", "fr": "Se percher sur une valise, c'est transformer l'attente en jeu d'enfant.", "pt": "Empoleirar-se numa mala é transformar a espera em brincadeira de criança." }
       ]
     },
@@ -242,7 +252,7 @@
       "explanation": "No texto: 'Avant le train, les gens voyageaient en diligence.'"
     },
     {
-      "question": "O que Irlan prometeu a Íris?",
+      "question": "O que Irlan prometeu a Andréa?",
       "options": ["Que a próxima viagem será de trem", "Que comprará um carro", "Que aprenderá a dirigir"],
       "correctIndex": 0,
       "explanation": "No texto: 'notre prochain voyage, on le fera en train.'"

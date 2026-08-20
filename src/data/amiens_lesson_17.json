@@ -68,6 +68,21 @@
       "id": 12,
       "fr": "Andréa sourit, rassurée. « Alors notre route continue. Le nord nous attend. »",
       "pt": "Andréa sorri, tranquilizada. « Então nosso caminho continua. O norte nos espera. »"
+    },
+    {
+      "id": 13,
+      "fr": "Dans le parc Saint-Pierre, les enfants jouent avec un vélo d'enfant et un ballon.",
+      "pt": "No parque Saint-Pierre, as crianças brincam com uma bicicleta infantil e uma bola."
+    },
+    {
+      "id": 14,
+      "fr": "Irlan s'assoit sur un banc et regarde les joueurs de handball. La poupée d'un enfant est posée sur l'herbe.",
+      "pt": "Irlan senta num banco e observa os jogadores de handebol. A boneca de uma criança está na grama."
+    },
+    {
+      "id": 15,
+      "fr": "Andréa promène le chien de la propriétaire. Le stade de basket est visible au loin.",
+      "pt": "Andréa passeia com o cão da proprietária. O estádio de basquete é visível ao longe."
     }
   ],
   "vocabularyDictionary": [
@@ -75,156 +90,419 @@
       "term": "le parc",
       "definitionPt": "o parque",
       "definitionFr": "Grand jardin public.",
-      "inflections": ["le parc", "un parc", "des parcs"],
-      "ptTargets": ["parque"],
+      "inflections": [
+        "le parc",
+        "un parc",
+        "des parcs"
+      ],
+      "ptTargets": [
+        "parque"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le parc est vert.", "pt": "O parque é verde." },
-        { "level": "A2-B1", "fr": "Ils marchent vers le parc Saint-Pierre.", "pt": "Eles caminham em direção ao parque Saint-Pierre." },
-        { "level": "B2", "fr": "Le parc offre un moment de calme au cœur de la ville.", "pt": "O parque oferece um momento de calma no coração da cidade." },
-        { "level": "C1-C2", "fr": "C'est le parc qui, en offrant sa verdure, apaise les esprits fatigués.", "pt": "É o parque que, ao oferecer seu verde, acalma os espíritos cansados." }
+        {
+          "level": "A1",
+          "fr": "Le parc est vert.",
+          "pt": "O parque é verde."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Ils marchent vers le parc Saint-Pierre.",
+          "pt": "Eles caminham em direção ao parque Saint-Pierre."
+        },
+        {
+          "level": "B2",
+          "fr": "Le parc offre un moment de calme au cœur de la ville.",
+          "pt": "O parque oferece um momento de calma no coração da cidade."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est le parc qui, en offrant sa verdure, apaise les esprits fatigués.",
+          "pt": "É o parque que, ao oferecer seu verde, acalma os espíritos cansados."
+        }
       ]
     },
     {
       "term": "le canal",
       "definitionPt": "o canal",
       "definitionFr": "Voie d'eau artificielle.",
-      "inflections": ["le canal", "un canal", "des canaux"],
-      "ptTargets": ["canal"],
+      "inflections": [
+        "le canal",
+        "un canal",
+        "des canaux"
+      ],
+      "ptTargets": [
+        "canal"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le canal est calme.", "pt": "O canal é calmo." },
-        { "level": "A2-B1", "fr": "L'eau des canaux brille au soleil.", "pt": "A água dos canais brilha ao sol." },
-        { "level": "B2", "fr": "Les canaux traversent la ville comme des chemins d'eau.", "pt": "Os canais atravessam a cidade como caminhos de água." },
-        { "level": "C1-C2", "fr": "C'est le canal qui, immobile, reflète le ciel et double le paysage.", "pt": "É o canal que, imóvel, reflete o céu e duplica a paisagem." }
+        {
+          "level": "A1",
+          "fr": "Le canal est calme.",
+          "pt": "O canal é calmo."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "L'eau des canaux brille au soleil.",
+          "pt": "A água dos canais brilha ao sol."
+        },
+        {
+          "level": "B2",
+          "fr": "Les canaux traversent la ville comme des chemins d'eau.",
+          "pt": "Os canais atravessam a cidade como caminhos de água."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est le canal qui, immobile, reflète le ciel et double le paysage.",
+          "pt": "É o canal que, imóvel, reflete o céu e duplica a paisagem."
+        }
       ]
     },
     {
       "term": "l'arbre",
       "definitionPt": "a árvore",
       "definitionFr": "Grande plante à tronc.",
-      "inflections": ["l'arbre", "un arbre", "des arbres"],
-      "ptTargets": ["árvore"],
+      "inflections": [
+        "l'arbre",
+        "un arbre",
+        "des arbres"
+      ],
+      "ptTargets": [
+        "árvore"
+      ],
       "examples": [
-        { "level": "A1", "fr": "L'arbre est grand.", "pt": "A árvore é grande." },
-        { "level": "A2-B1", "fr": "Ils se promènent sous les arbres.", "pt": "Eles passeiam sob as árvores." },
-        { "level": "B2", "fr": "Les arbres donnent de l'ombre aux allées du parc.", "pt": "As árvores dão sombra às alamedas do parque." },
-        { "level": "C1-C2", "fr": "C'est l'arbre qui, enraciné, relie la terre au ciel et le passé au présent.", "pt": "É a árvore que, enraizada, liga a terra ao céu e o passado ao presente." }
+        {
+          "level": "A1",
+          "fr": "L'arbre est grand.",
+          "pt": "A árvore é grande."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Ils se promènent sous les arbres.",
+          "pt": "Eles passeiam sob as árvores."
+        },
+        {
+          "level": "B2",
+          "fr": "Les arbres donnent de l'ombre aux allées du parc.",
+          "pt": "As árvores dão sombra às alamedas do parque."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est l'arbre qui, enraciné, relie la terre au ciel et le passé au présent.",
+          "pt": "É a árvore que, enraizada, liga a terra ao céu e o passado ao presente."
+        }
       ]
     },
     {
       "term": "le canard",
       "definitionPt": "o pato",
       "definitionFr": "Oiseau d'eau.",
-      "inflections": ["le canard", "un canard", "des canards"],
-      "ptTargets": ["pato"],
+      "inflections": [
+        "le canard",
+        "un canard",
+        "des canards"
+      ],
+      "ptTargets": [
+        "pato"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le canard nage.", "pt": "O pato nada." },
-        { "level": "A2-B1", "fr": "Des canards nagent au bord de l'eau.", "pt": "Patos nadam à beira d'água." },
-        { "level": "B2", "fr": "Les canards glissent sur l'eau sans un bruit.", "pt": "Os patos deslizam sobre a água sem um ruído." },
-        { "level": "C1-C2", "fr": "C'est le canard qui, paisible, trace des cercles sur l'eau immobile.", "pt": "É o pato que, tranquilo, traça círculos na água imóvel." }
+        {
+          "level": "A1",
+          "fr": "Le canard nage.",
+          "pt": "O pato nada."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Des canards nagent au bord de l'eau.",
+          "pt": "Patos nadam à beira d'água."
+        },
+        {
+          "level": "B2",
+          "fr": "Les canards glissent sur l'eau sans un bruit.",
+          "pt": "Os patos deslizam sobre a água sem um ruído."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est le canard qui, paisible, trace des cercles sur l'eau immobile.",
+          "pt": "É o pato que, tranquilo, traça círculos na água imóvel."
+        }
       ]
     },
     {
       "term": "l'herbe",
       "definitionPt": "a grama",
       "definitionFr": "Plante verte du sol.",
-      "inflections": ["l'herbe", "une herbe"],
-      "ptTargets": ["grama", "relva"],
+      "inflections": [
+        "l'herbe",
+        "une herbe"
+      ],
+      "ptTargets": [
+        "grama",
+        "relva"
+      ],
       "examples": [
-        { "level": "A1", "fr": "L'herbe est verte.", "pt": "A grama é verde." },
-        { "level": "A2-B1", "fr": "Ils s'assoient sur l'herbe.", "pt": "Eles se sentam na grama." },
-        { "level": "B2", "fr": "L'herbe fraîche sent bon après la pluie.", "pt": "A grama fresca cheira bem depois da chuva." },
-        { "level": "C1-C2", "fr": "C'est l'herbe qui, simple et vivante, invite au repos et à la rêverie.", "pt": "É a grama que, simples e viva, convida ao descanso e ao devaneio." }
+        {
+          "level": "A1",
+          "fr": "L'herbe est verte.",
+          "pt": "A grama é verde."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Ils s'assoient sur l'herbe.",
+          "pt": "Eles se sentam na grama."
+        },
+        {
+          "level": "B2",
+          "fr": "L'herbe fraîche sent bon après la pluie.",
+          "pt": "A grama fresca cheira bem depois da chuva."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est l'herbe qui, simple et vivante, invite au repos et à la rêverie.",
+          "pt": "É a grama que, simples e viva, convida ao descanso e ao devaneio."
+        }
       ]
     },
     {
       "term": "se promener",
       "definitionPt": "passear",
       "definitionFr": "Marcher pour le plaisir.",
-      "inflections": ["se promener", "je me promène", "nous nous promenons"],
-      "ptTargets": ["passear"],
+      "inflections": [
+        "se promener",
+        "je me promène",
+        "nous nous promenons"
+      ],
+      "ptTargets": [
+        "passear"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Je me promène au parc.", "pt": "Eu passeio no parque." },
-        { "level": "A2-B1", "fr": "Ils se promènent sous les arbres.", "pt": "Eles passeiam sob as árvores." },
-        { "level": "B2", "fr": "Se promener aide à remettre les idées en ordre.", "pt": "Passear ajuda a colocar as ideias em ordem." },
-        { "level": "C1-C2", "fr": "C'est en se promenant sans but que l'on rencontre les plus belles surprises.", "pt": "É passeando sem rumo que se encontram as mais belas surpresas." }
+        {
+          "level": "A1",
+          "fr": "Je me promène au parc.",
+          "pt": "Eu passeio no parque."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Ils se promènent sous les arbres.",
+          "pt": "Eles passeiam sob as árvores."
+        },
+        {
+          "level": "B2",
+          "fr": "Se promener aide à remettre les idées en ordre.",
+          "pt": "Passear ajuda a colocar as ideias em ordem."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est en se promenant sans but que l'on rencontre les plus belles surprises.",
+          "pt": "É passeando sem rumo que se encontram as mais belas surpresas."
+        }
       ]
     },
     {
       "term": "réfléchir",
       "definitionPt": "refletir / pensar",
       "definitionFr": "Penser avec attention.",
-      "inflections": ["réfléchir", "je réfléchis", "nous réfléchissons"],
-      "ptTargets": ["refletir", "pensar"],
+      "inflections": [
+        "réfléchir",
+        "je réfléchis",
+        "nous réfléchissons"
+      ],
+      "ptTargets": [
+        "refletir",
+        "pensar"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Je réfléchis.", "pt": "Eu reflito." },
-        { "level": "A2-B1", "fr": "Je réfléchis mieux près de l'eau.", "pt": "Eu reflito melhor perto da água." },
-        { "level": "B2", "fr": "Réfléchir calmement évite les erreurs.", "pt": "Refletir com calma evita os erros." },
-        { "level": "C1-C2", "fr": "C'est en réfléchissant que l'on transforme une intuition en décision.", "pt": "É refletindo que se transforma uma intuição em decisão." }
+        {
+          "level": "A1",
+          "fr": "Je réfléchis.",
+          "pt": "Eu reflito."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Je réfléchis mieux près de l'eau.",
+          "pt": "Eu reflito melhor perto da água."
+        },
+        {
+          "level": "B2",
+          "fr": "Réfléchir calmement évite les erreurs.",
+          "pt": "Refletir com calma evita os erros."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est en réfléchissant que l'on transforme une intuition en décision.",
+          "pt": "É refletindo que se transforma uma intuição em decisão."
+        }
       ]
     },
     {
       "term": "la direction",
       "definitionPt": "a direção",
       "definitionFr": "Côté vers lequel on va.",
-      "inflections": ["la direction", "une direction", "des directions"],
-      "ptTargets": ["direção"],
+      "inflections": [
+        "la direction",
+        "une direction",
+        "des directions"
+      ],
+      "ptTargets": [
+        "direção"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La direction est bonne.", "pt": "A direção é boa." },
-        { "level": "A2-B1", "fr": "Chaque chiffre indique une direction.", "pt": "Cada número indica uma direção." },
-        { "level": "B2", "fr": "La direction du nord mène à Lille.", "pt": "A direção norte leva a Lille." },
-        { "level": "C1-C2", "fr": "C'est la direction qui, une fois choisie, donne un sens à chaque pas.", "pt": "É a direção que, uma vez escolhida, dá sentido a cada passo." }
+        {
+          "level": "A1",
+          "fr": "La direction est bonne.",
+          "pt": "A direção é boa."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Chaque chiffre indique une direction.",
+          "pt": "Cada número indica uma direção."
+        },
+        {
+          "level": "B2",
+          "fr": "La direction du nord mène à Lille.",
+          "pt": "A direção norte leva a Lille."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est la direction qui, une fois choisie, donne un sens à chaque pas.",
+          "pt": "É a direção que, uma vez escolhida, dá sentido a cada passo."
+        }
       ]
     },
     {
       "term": "le nord",
       "definitionPt": "o norte",
       "definitionFr": "Point cardinal opposé au sud.",
-      "inflections": ["le nord", "le Nord"],
-      "ptTargets": ["norte"],
+      "inflections": [
+        "le nord",
+        "le Nord"
+      ],
+      "ptTargets": [
+        "norte"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le nord est là.", "pt": "O norte é ali." },
-        { "level": "A2-B1", "fr": "La direction nord mène à Lille.", "pt": "A direção norte leva a Lille." },
-        { "level": "B2", "fr": "Le nord de la France est connu pour sa convivialité.", "pt": "O norte da França é conhecido por sua hospitalidade." },
-        { "level": "C1-C2", "fr": "C'est le nord qui, sur la boussole, donne le premier repère de l'explorateur.", "pt": "É o norte que, na bússola, dá o primeiro ponto de referência do explorador." }
+        {
+          "level": "A1",
+          "fr": "Le nord est là.",
+          "pt": "O norte é ali."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "La direction nord mène à Lille.",
+          "pt": "A direção norte leva a Lille."
+        },
+        {
+          "level": "B2",
+          "fr": "Le nord de la France est connu pour sa convivialité.",
+          "pt": "O norte da França é conhecido por sua hospitalidade."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est le nord qui, sur la boussole, donne le premier repère de l'explorateur.",
+          "pt": "É o norte que, na bússola, dá o primeiro ponto de referência do explorador."
+        }
       ]
     },
     {
       "term": "la rose des vents",
       "definitionPt": "a rosa dos ventos",
       "definitionFr": "Figure qui indique les directions.",
-      "inflections": ["la rose des vents"],
-      "ptTargets": ["rosa dos ventos"],
+      "inflections": [
+        "la rose des vents"
+      ],
+      "ptTargets": [
+        "rosa dos ventos"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La rose des vents indique le nord.", "pt": "A rosa dos ventos indica o norte." },
-        { "level": "A2-B1", "fr": "Les sept rues forment une rose des vents.", "pt": "As sete ruas formam uma rosa dos ventos." },
-        { "level": "B2", "fr": "La rose des vents oriente les cartes et les voyageurs.", "pt": "A rosa dos ventos orienta os mapas e os viajantes." },
-        { "level": "C1-C2", "fr": "C'est la rose des vents qui, dessinée sur les cartes, relie le voyage au ciel.", "pt": "É a rosa dos ventos que, desenhada nos mapas, liga a viagem ao céu." }
+        {
+          "level": "A1",
+          "fr": "La rose des vents indique le nord.",
+          "pt": "A rosa dos ventos indica o norte."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Les sept rues forment une rose des vents.",
+          "pt": "As sete ruas formam uma rosa dos ventos."
+        },
+        {
+          "level": "B2",
+          "fr": "La rose des vents oriente les cartes et les voyageurs.",
+          "pt": "A rosa dos ventos orienta os mapas e os viajantes."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est la rose des vents qui, dessinée sur les cartes, relie le voyage au ciel.",
+          "pt": "É a rosa dos ventos que, desenhada nos mapas, liga a viagem ao céu."
+        }
       ]
     },
     {
       "term": "le genou",
       "definitionPt": "o joelho",
       "definitionFr": "Articulation de la jambe.",
-      "inflections": ["le genou", "un genou", "des genoux"],
-      "ptTargets": ["joelho"],
+      "inflections": [
+        "le genou",
+        "un genou",
+        "des genoux"
+      ],
+      "ptTargets": [
+        "joelho"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le genou plie.", "pt": "O joelho dobra." },
-        { "level": "A2-B1", "fr": "Irlan ouvre l'Atlas sur ses genoux.", "pt": "Irlan abre o Atlas sobre os joelhos." },
-        { "level": "B2", "fr": "Il pose le livre sur ses genoux pour écrire.", "pt": "Ele põe o livro sobre os joelhos para escrever." },
-        { "level": "C1-C2", "fr": "C'est le genou qui, plié sous le poids du livre, devient la table de l'instant.", "pt": "É o joelho que, dobrado sob o peso do livro, vira a mesa do instante." }
+        {
+          "level": "A1",
+          "fr": "Le genou plie.",
+          "pt": "O joelho dobra."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Irlan ouvre l'Atlas sur ses genoux.",
+          "pt": "Irlan abre o Atlas sobre os joelhos."
+        },
+        {
+          "level": "B2",
+          "fr": "Il pose le livre sur ses genoux pour écrire.",
+          "pt": "Ele põe o livro sobre os joelhos para escrever."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est le genou qui, plié sous le poids du livre, devient la table de l'instant.",
+          "pt": "É o joelho que, dobrado sob o peso do livro, vira a mesa do instante."
+        }
       ]
     },
     {
       "term": "rassurer",
       "definitionPt": "tranquilizar",
       "definitionFr": "Rendre confiance.",
-      "inflections": ["rassurer", "je rassure", "nous rassurons"],
-      "ptTargets": ["tranquilizar", "acalmar"],
+      "inflections": [
+        "rassurer",
+        "je rassure",
+        "nous rassurons"
+      ],
+      "ptTargets": [
+        "tranquilizar",
+        "acalmar"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Je te rassure.", "pt": "Eu te tranquilizo." },
-        { "level": "A2-B1", "fr": "Andréa sourit, rassurée.", "pt": "Andréa sorri, tranquilizada." },
-        { "level": "B2", "fr": "Sa voix douce rassure tout le monde.", "pt": "Sua voz suave tranquiliza todo mundo." },
-        { "level": "C1-C2", "fr": "C'est en rassurant l'autre que l'on apaisle aussi ses propres doutes.", "pt": "É tranquilizando o outro que se acalmam também as próprias dúvidas." }
+        {
+          "level": "A1",
+          "fr": "Je te rassure.",
+          "pt": "Eu te tranquilizo."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Andréa sourit, rassurée.",
+          "pt": "Andréa sorri, tranquilizada."
+        },
+        {
+          "level": "B2",
+          "fr": "Sa voix douce rassure tout le monde.",
+          "pt": "Sua voz suave tranquiliza todo mundo."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est en rassurant l'autre que l'on apaisle aussi ses propres doutes.",
+          "pt": "É tranquilizando o outro que se acalmam também as próprias dúvidas."
+        }
       ]
     }
   ],
@@ -234,7 +512,11 @@
     "exampleFr": "Ils marchent vers le parc, sous les arbres, sur l'herbe.",
     "examplePt": "Eles caminham em direção ao parque, sob as árvores, na grama.",
     "practiceQuestion": "Complete: 'Ils marchent _____ le parc.'",
-    "options": ["vers", "dans le", "loin"],
+    "options": [
+      "vers",
+      "dans le",
+      "loin"
+    ],
     "correctIndex": 0,
     "points": [
       {
@@ -243,7 +525,11 @@
         "exampleFr": "Je me promène au parc. Ils se promènent sous les arbres.",
         "examplePt": "Eu passeio no parque. Eles passeiam sob as árvores.",
         "practiceQuestion": "Complete: 'Ils _____ sous les arbres.'",
-        "options": ["se promènent", "se promène", "te promènes"],
+        "options": [
+          "se promènent",
+          "se promène",
+          "te promènes"
+        ],
         "correctIndex": 0
       },
       {
@@ -252,7 +538,11 @@
         "exampleFr": "Pourquoi Lille ? Parce que l'Atlas a dessiné une ligne.",
         "examplePt": "Por que Lille? Porque o Atlas desenhou uma linha.",
         "practiceQuestion": "Complete: '_____ l'Atlas a dessiné une ligne.'",
-        "options": ["Parce que", "Pourquoi", "Est-ce que"],
+        "options": [
+          "Parce que",
+          "Pourquoi",
+          "Est-ce que"
+        ],
         "correctIndex": 0
       }
     ]
@@ -260,31 +550,51 @@
   "quizQuestions": [
     {
       "question": "Onde Irlan e Andréa caminham?",
-      "options": ["no parque Saint-Pierre", "na praça", "no zoológico"],
+      "options": [
+        "no parque Saint-Pierre",
+        "na praça",
+        "no zoológico"
+      ],
       "correctIndex": 0,
       "explanation": "Ils marchent vers le parc Saint-Pierre."
     },
     {
       "question": "O que os 7 números indicam, segundo Andréa?",
-      "options": ["uma direção", "uma data", "um preço"],
+      "options": [
+        "uma direção",
+        "uma data",
+        "um preço"
+      ],
       "correctIndex": 0,
       "explanation": "Chaque chiffre indique une direction."
     },
     {
       "question": "Para onde a direção norte leva?",
-      "options": ["Lille", "Paris", "Marseille"],
+      "options": [
+        "Lille",
+        "Paris",
+        "Marseille"
+      ],
       "correctIndex": 0,
       "explanation": "La direction nord mène à Lille."
     },
     {
       "question": "Complete: 'Ils _____ sous les arbres.'",
-      "options": ["se promènent", "se promène", "te promènes"],
+      "options": [
+        "se promènent",
+        "se promène",
+        "te promènes"
+      ],
       "correctIndex": 0,
       "explanation": "ils se promènent."
     },
     {
       "question": "Complete: '_____ l'Atlas a dessiné une ligne.'",
-      "options": ["Parce que", "Pourquoi", "Est-ce que"],
+      "options": [
+        "Parce que",
+        "Pourquoi",
+        "Est-ce que"
+      ],
       "correctIndex": 0,
       "explanation": "Parce que = porque."
     }

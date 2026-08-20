@@ -7,17 +7,17 @@
   "titlePt": "Bem-vindo a Lyon: entre Ródano e Saône",
   "subtitleFr": "L'arrivée à la Part-Dieu et la place Bellecour, l'une des plus grandes d'Europe",
   "subtitlePt": "A chegada à Part-Dieu e a place Bellecour, uma das maiores da Europa",
-  "summaryPt": "Nesta Aula 1 (B2+), a família chega a Lyon de TGV e descobre a cidade entre dois rios: o Ródano e o Saône. O aluno domina as frases clivadas e a topicalização: 'C'est à Lyon que...', 'Ce dont je me souviens, c'est...'.",
+  "summaryPt": "Nesta Aula 1 (B2+), o casal chega a Lyon de TGV e descobre a cidade entre dois rios: o Ródano e o Saône. O aluno domina as frases clivadas e a topicalização: 'C'est à Lyon que...', 'Ce dont je me souviens, c'est...'.",
   "paragraphs": [
     {
       "id": 1,
-      "fr": "À la gare de la Part-Dieu, Iris a regardé la carte : « Il y a deux rivières, papa ! » Irlan a souri : « Oui, c'est le Rhône et la Saône. C'est entre ces deux fleuves que Lyon a grandi. Les géographes appellent cette langue de terre la presqu'île. »",
-      "pt": "Na estação da Part-Dieu, Íris olhou o mapa: « Tem dois rios, papai! » Irlan sorriu: « Sim, são o Ródano e o Saône. É entre esses dois rios que Lyon cresceu. Os geógrafos chamam essa língua de terra de península. »"
+      "fr": "À la gare de la Part-Dieu, Andréa a regardé la carte : « Il y a deux rivières ! » Irlan a souri : « Oui, c'est le Rhône et la Saône. C'est entre ces deux fleuves que Lyon a grandi. Les géographes appellent cette langue de terre la presqu'île. »",
+      "pt": "Na estação da Part-Dieu, Andréa olhou o mapa: « Tem dois rios! » Irlan sorriu: « Sim, são o Ródano e o Saône. É entre esses dois rios que Lyon cresceu. Os geógrafos chamam essa língua de terra de península. »"
     },
     {
       "id": 2,
-      "fr": "Sur la place Bellecour, la plus grande place piétonne d'Europe, Iris a couru vers la statue de Louis XIV. « Ce dont je me souviens, c'est que Lyon est la capitale de la gastronomie », a dit Andréa. « Ce soir, nous mangerons dans un bouchon ! »",
-      "pt": "Na place Bellecour, a maior praça de pedestres da Europa, Íris correu até a estátua de Luís XIV. « O que eu me lembro, é que Lyon é a capital da gastronomia », disse Andréa. « Hoje à noite, comeremos num bouchon! »"
+      "fr": "Sur la place Bellecour, la plus grande place piétonne d'Europe, Andréa a couru vers la statue de Louis XIV. « Ce dont je me souviens, c'est que Lyon est la capitale de la gastronomie », a-t-elle dit. « Ce soir, nous mangerons dans un bouchon ! »",
+      "pt": "Na place Bellecour, a maior praça de pedestres da Europa, Andréa correu até a estátua de Luís XIV. « O que eu me lembro é que Lyon é a capital da gastronomia », disse ela. « Hoje à noite, comeremos num bouchon! »"
     },
     {
       "id": 3,
@@ -26,8 +26,18 @@
     },
     {
       "id": 4,
-      "fr": "Le soir, de la colline de Fourvière, la ville scintillait. « Ce que je préfère, c'est cette vue », a murmuré Iris. Andréa a répondu : « Alors c'est demain que nous monterons à la basilique. Ce dont je rêve, moi, c'est d'une quenelle à la sauce Nantua ! »",
-      "pt": "À noite, da colina de Fourvière, a cidade cintilava. « O que eu mais gosto é dessa vista », murmurou Íris. Andréa respondeu: « Então é amanhã que subiremos à basílica. O que eu sonho, eu, é com uma quenelle ao molho Nantua! »"
+      "fr": "Le soir, de la colline de Fourvière, la ville scintillait. « Ce que je préfère, c'est cette vue », a murmuré Irlan. Andréa a répondu : « Alors c'est demain que nous monterons à la basilique. Ce dont je rêve, moi, c'est d'une quenelle à la sauce Nantua ! »",
+      "pt": "À noite, da colina de Fourvière, a cidade cintilava. « O que eu mais gosto é dessa vista », murmurou Irlan. Andréa respondeu: « Então é amanhã que subiremos à basílica. O que eu sonho, eu, é com uma quenelle ao molho Nantua! »"
+    },
+    {
+      "id": 5,
+      "fr": "À première vue, la presqu'île semblait simple à parcourir. À l'inverse, Irlan a découvert un réseau complexe, où chaque quai coïncidait avec une ancienne limite de la ville.",
+      "pt": "À primeira vista, a península parecia fácil de percorrer. Inversamente, Irlan descobriu uma rede complexa, onde cada cais coincidia com um antigo limite da cidade."
+    },
+    {
+      "id": 6,
+      "fr": "Andréa ambitionnait de comprendre le plan avant la nuit. Ils ont déambulé entre les deux fleuves, et Irlan a cerné une hypothèse : l'atlas les orientait vers les passages secrets.",
+      "pt": "Andréa ambicionava compreender o mapa antes da noite. Eles passearam entre os dois rios, e Irlan delimitou uma hipótese: o atlas os orientava para as passagens secretas."
     }
   ],
   "vocabularyDictionary": [
@@ -65,7 +75,7 @@
       "ptTargets": ["bouchon", "restaurante típico"],
       "examples": [
         { "level": "A1", "fr": "Le bouchon est petit.", "pt": "O bouchon é pequeno." },
-        { "level": "A2-B1", "fr": "La famille va manger dans un bouchon.", "pt": "A família vai comer num bouchon." },
+        { "level": "A2-B1", "fr": "Le couple va manger dans un bouchon.", "pt": "O casal vai comer num bouchon." },
         { "level": "B2", "fr": "Les bouchons, tenus par des 'mères' lyonnaises, servent la cuisine traditionnelle.", "pt": "Os bouchons, comandados pelas 'mães' lionenses, servem a cozinha tradicional." },
         { "level": "C1-C2", "fr": "C'est dans les bouchons que se perpétue l'âme gourmande de la ville de Lyon.", "pt": "É nos bouchons que se perpetua a alma gulosa da cidade de Lyon." }
       ]
@@ -130,7 +140,7 @@
       "ptTargets": ["murmurar", "murmurou"],
       "examples": [
         { "level": "A1", "fr": "Elle murmure une phrase.", "pt": "Ela murmura uma frase." },
-        { "level": "A2-B1", "fr": "Iris a murmuré : « Ce que je préfère, c'est cette vue. »", "pt": "Íris murmurou: « O que eu mais gosto é dessa vista. »" },
+        { "level": "A2-B1", "fr": "Andréa a murmuré : « Ce que je préfère, c'est cette vue. »", "pt": "Andréa murmurou: « O que eu mais gosto é dessa vista. »" },
         { "level": "B2", "fr": "Elle murmurait, comme si elle parlait aux lumières de la ville.", "pt": "Ela murmurava, como se falasse às luzes da cidade." },
         { "level": "C1-C2", "fr": "C'est en murmurant qu'il confia son émotion devant le panorama.", "pt": "Foi murmurando que ele confiou sua emoção diante do panorama." }
       ]
@@ -156,7 +166,7 @@
       "ptTargets": ["cais"],
       "examples": [
         { "level": "A1", "fr": "Le quai est long.", "pt": "O cais é comprido." },
-        { "level": "A2-B1", "fr": "La famille a marché sur les quais de la Saône.", "pt": "A família caminhou pelos cais do Saône." },
+        { "level": "A2-B1", "fr": "Le couple a marché sur les quais de la Saône.", "pt": "O casal caminhou pelos cais do Saône." },
         { "level": "B2", "fr": "Les quais, aménagés en promenade, sont le rendez-vous des joggers et des familles.", "pt": "Os cais, transformados em passeio, são o ponto de encontro de corredores e famílias." },
         { "level": "C1-C2", "fr": "C'est le long des quais que l'on comprend le mieux l'histoire fluviale de Lyon.", "pt": "É ao longo dos cais que melhor se compreende a história fluvial de Lyon." }
       ]
@@ -208,10 +218,10 @@
       },
       {
         "ruleTitle": "C'est... qui pour le sujet",
-        "explanationPt": "Quando o elemento destacado é o sujeito, usa-se 'qui': 'C'est Iris qui a couru vers la statue' (foi a Íris quem correu até a estátua).",
-        "exampleFr": "C'est Iris qui a couru vers la statue de Louis XIV.",
-        "examplePt": "Foi a Íris quem correu até a estátua de Luís XIV.",
-        "practiceQuestion": "Complete: « C'est Iris ___ a couru vers la statue. »",
+        "explanationPt": "Quando o elemento destacado é o sujeito, usa-se 'qui': 'C'est Andréa qui a couru vers la statue' (foi a Andréa quem correu até a estátua).",
+        "exampleFr": "C'est Andréa qui a couru vers la statue de Louis XIV.",
+        "examplePt": "Foi a Andréa quem correu até a estátua de Luís XIV.",
+        "practiceQuestion": "Complete: « C'est Andréa ___ a couru vers la statue. »",
         "options": ["qui", "que", "où"],
         "correctIndex": 0
       }

@@ -68,6 +68,21 @@
       "id": 12,
       "fr": "« La Somme nous porte comme l'Atlas nous guide », murmure Irlan.",
       "pt": "« O Somme nos carrega como o Atlas nos guia », murmura Irlan."
+    },
+    {
+      "id": 13,
+      "fr": "Sur la barque, Irlan pêche un poisson avec la ligne. L'eau de la Somme est claire et calme.",
+      "pt": "Na barca, Irlan pesca um peixe com a linha. A água do Somme é clara e calma."
+    },
+    {
+      "id": 14,
+      "fr": "Andréa allume une lumière sur la table de pique-nique. La lampe éclaire les canaux au coucher du soleil.",
+      "pt": "Andréa acende uma luz na mesa de piquenique. A lanterna ilumina os canais ao pôr do sol."
+    },
+    {
+      "id": 15,
+      "fr": "Irlan jette un œil à la carte postale qu'il vient d'acheter. Le crabe et les crevettes sont illustrés sur le bord.",
+      "pt": "Irlan dá uma olhada na carta postal que acabou de comprar. O caranguejo e os camarões estão ilustrados na borda."
     }
   ],
   "vocabularyDictionary": [
@@ -75,156 +90,423 @@
       "term": "la barque",
       "definitionPt": "o barco (pequeno)",
       "definitionFr": "Petit bateau.",
-      "inflections": ["la barque", "une barque", "des barques"],
-      "ptTargets": ["barco", "bote"],
+      "inflections": [
+        "la barque",
+        "une barque",
+        "des barques"
+      ],
+      "ptTargets": [
+        "barco",
+        "bote"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La barque est petite.", "pt": "O barco é pequeno." },
-        { "level": "A2-B1", "fr": "Ils louent une barque sur la Somme.", "pt": "Eles alugam um barco no Somme." },
-        { "level": "B2", "fr": "La barque glisse sans bruit sur l'eau calme.", "pt": "O barco desliza sem ruído sobre a água calma." },
-        { "level": "C1-C2", "fr": "C'est la barque qui, fragile, relie les deux rives d'un même rêve.", "pt": "É o barco que, frágil, liga as duas margens de um mesmo sonho." }
+        {
+          "level": "A1",
+          "fr": "La barque est petite.",
+          "pt": "O barco é pequeno."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Ils louent une barque sur la Somme.",
+          "pt": "Eles alugam um barco no Somme."
+        },
+        {
+          "level": "B2",
+          "fr": "La barque glisse sans bruit sur l'eau calme.",
+          "pt": "O barco desliza sem ruído sobre a água calma."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est la barque qui, fragile, relie les deux rives d'un même rêve.",
+          "pt": "É o barco que, frágil, liga as duas margens de um mesmo sonho."
+        }
       ]
     },
     {
       "term": "le fleuve",
       "definitionPt": "o rio (grande)",
       "definitionFr": "Grand cours d'eau.",
-      "inflections": ["le fleuve", "un fleuve", "des fleuves"],
-      "ptTargets": ["rio"],
+      "inflections": [
+        "le fleuve",
+        "un fleuve",
+        "des fleuves"
+      ],
+      "ptTargets": [
+        "rio"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le fleuve est large.", "pt": "O rio é largo." },
-        { "level": "A2-B1", "fr": "La Somme est un fleuve calme.", "pt": "O Somme é um rio calmo." },
-        { "level": "B2", "fr": "Le fleuve traverse la ville et rejoint la mer.", "pt": "O rio atravessa a cidade e chega ao mar." },
-        { "level": "C1-C2", "fr": "C'est le fleuve qui, inlassable, sculpte le paysage et raconte le temps.", "pt": "É o rio que, incansável, esculpe a paisagem e conta o tempo." }
+        {
+          "level": "A1",
+          "fr": "Le fleuve est large.",
+          "pt": "O rio é largo."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "La Somme est un fleuve calme.",
+          "pt": "O Somme é um rio calmo."
+        },
+        {
+          "level": "B2",
+          "fr": "Le fleuve traverse la ville et rejoint la mer.",
+          "pt": "O rio atravessa a cidade e chega ao mar."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est le fleuve qui, inlassable, sculpte le paysage et raconte le temps.",
+          "pt": "É o rio que, incansável, esculpe a paisagem e conta o tempo."
+        }
       ]
     },
     {
       "term": "ramer",
       "definitionPt": "remar",
       "definitionFr": "Avancer avec des avirons.",
-      "inflections": ["ramer", "je rame", "nous ramons"],
-      "ptTargets": ["remar"],
+      "inflections": [
+        "ramer",
+        "je rame",
+        "nous ramons"
+      ],
+      "ptTargets": [
+        "remar"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Je rame doucement.", "pt": "Eu remo devagar." },
-        { "level": "A2-B1", "fr": "Irlan rame sur la Somme.", "pt": "Irlan rema no Somme." },
-        { "level": "B2", "fr": "Ramer demande un rythme régulier.", "pt": "Remar exige um ritmo regular." },
-        { "level": "C1-C2", "fr": "C'est en ramant que l'on apprend à lire les courants et à suivre la rivière.", "pt": "É remando que se aprende a ler as correntes e a seguir o rio." }
+        {
+          "level": "A1",
+          "fr": "Je rame doucement.",
+          "pt": "Eu remo devagar."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Irlan rame sur la Somme.",
+          "pt": "Irlan rema no Somme."
+        },
+        {
+          "level": "B2",
+          "fr": "Ramer demande un rythme régulier.",
+          "pt": "Remar exige um ritmo regular."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est en ramant que l'on apprend à lire les courants et à suivre la rivière.",
+          "pt": "É remando que se aprende a ler as correntes e a seguir o rio."
+        }
       ]
     },
     {
       "term": "l'aviron",
       "definitionPt": "o remo",
       "definitionFr": "Longue pièce pour ramer.",
-      "inflections": ["l'aviron", "un aviron", "des avirons"],
-      "ptTargets": ["remo"],
+      "inflections": [
+        "l'aviron",
+        "un aviron",
+        "des avirons"
+      ],
+      "ptTargets": [
+        "remo"
+      ],
       "examples": [
-        { "level": "A1", "fr": "L'aviron est long.", "pt": "O remo é comprido." },
-        { "level": "A2-B1", "fr": "Les avirons dessinent des cercles.", "pt": "Os remos desenham círculos." },
-        { "level": "B2", "fr": "Les avirons plongent dans l'eau en cadence.", "pt": "Os remos mergulham na água em cadência." },
-        { "level": "C1-C2", "fr": "C'est l'aviron qui, bien tenu, transforme la force en mouvement léger.", "pt": "É o remo que, bem seguro, transforma a força em movimento leve." }
+        {
+          "level": "A1",
+          "fr": "L'aviron est long.",
+          "pt": "O remo é comprido."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Les avirons dessinent des cercles.",
+          "pt": "Os remos desenham círculos."
+        },
+        {
+          "level": "B2",
+          "fr": "Les avirons plongent dans l'eau en cadence.",
+          "pt": "Os remos mergulham na água em cadência."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est l'aviron qui, bien tenu, transforme la force en mouvement léger.",
+          "pt": "É o remo que, bem seguro, transforma a força em movimento leve."
+        }
       ]
     },
     {
       "term": "la berge",
       "definitionPt": "a margem (do rio)",
       "definitionFr": "Bord d'un cours d'eau.",
-      "inflections": ["la berge", "une berge", "des berges"],
-      "ptTargets": ["margem", "beira"],
+      "inflections": [
+        "la berge",
+        "une berge",
+        "des berges"
+      ],
+      "ptTargets": [
+        "margem",
+        "beira"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La berge est verte.", "pt": "A margem é verde." },
-        { "level": "A2-B1", "fr": "Le long des berges, des saules touchent l'eau.", "pt": "Ao longo das margens, salgueiros tocam a água." },
-        { "level": "B2", "fr": "Les berges aménagées invitent à la promenade.", "pt": "As margens urbanizadas convidam ao passeio." },
-        { "level": "C1-C2", "fr": "C'est la berge qui, entre terre et eau, abrite une vie discrète et foisonnante.", "pt": "É a margem que, entre terra e água, abriga uma vida discreta e abundante." }
+        {
+          "level": "A1",
+          "fr": "La berge est verte.",
+          "pt": "A margem é verde."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Le long des berges, des saules touchent l'eau.",
+          "pt": "Ao longo das margens, salgueiros tocam a água."
+        },
+        {
+          "level": "B2",
+          "fr": "Les berges aménagées invitent à la promenade.",
+          "pt": "As margens urbanizadas convidam ao passeio."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est la berge qui, entre terre et eau, abrite une vie discrète et foisonnante.",
+          "pt": "É a margem que, entre terra e água, abriga uma vida discreta e abundante."
+        }
       ]
     },
     {
       "term": "le saule",
       "definitionPt": "o salgueiro",
       "definitionFr": "Arbre aux branches tombantes.",
-      "inflections": ["le saule", "un saule", "des saules"],
-      "ptTargets": ["salgueiro"],
+      "inflections": [
+        "le saule",
+        "un saule",
+        "des saules"
+      ],
+      "ptTargets": [
+        "salgueiro"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le saule est grand.", "pt": "O salgueiro é grande." },
-        { "level": "A2-B1", "fr": "Les saules pleureurs touchent l'eau.", "pt": "Os salgueiros-chorões tocam a água." },
-        { "level": "B2", "fr": "Le saule, au bord de l'eau, balance ses longues branches.", "pt": "O salgueiro, à beira d'água, balança seus longos galhos." },
-        { "level": "C1-C2", "fr": "C'est le saule qui, penché sur l'eau, semble se souvenir d'un chagrin ancien.", "pt": "É o salgueiro que, inclinado sobre a água, parece lembrar de uma tristeza antiga." }
+        {
+          "level": "A1",
+          "fr": "Le saule est grand.",
+          "pt": "O salgueiro é grande."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Les saules pleureurs touchent l'eau.",
+          "pt": "Os salgueiros-chorões tocam a água."
+        },
+        {
+          "level": "B2",
+          "fr": "Le saule, au bord de l'eau, balance ses longues branches.",
+          "pt": "O salgueiro, à beira d'água, balança seus longos galhos."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est le saule qui, penché sur l'eau, semble se souvenir d'un chagrin ancien.",
+          "pt": "É o salgueiro que, inclinado sobre a água, parece lembrar de uma tristeza antiga."
+        }
       ]
     },
     {
       "term": "la cloche",
       "definitionPt": "o sino",
       "definitionFr": "Objet qui sonne dans une église.",
-      "inflections": ["la cloche", "une cloche", "des cloches"],
-      "ptTargets": ["sino"],
+      "inflections": [
+        "la cloche",
+        "une cloche",
+        "des cloches"
+      ],
+      "ptTargets": [
+        "sino"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La cloche sonne.", "pt": "O sino toca." },
-        { "level": "A2-B1", "fr": "Les cloches de la cathédrale sonnent.", "pt": "Os sinos da catedral tocam." },
-        { "level": "B2", "fr": "Les cloches rythment la journée des habitants.", "pt": "Os sinos marcam o ritmo do dia dos moradores." },
-        { "level": "C1-C2", "fr": "C'est la cloche qui, de sa voix lente, rappelle que le temps avance.", "pt": "É o sino que, com sua voz lenta, lembra que o tempo avança." }
+        {
+          "level": "A1",
+          "fr": "La cloche sonne.",
+          "pt": "O sino toca."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Les cloches de la cathédrale sonnent.",
+          "pt": "Os sinos da catedral tocam."
+        },
+        {
+          "level": "B2",
+          "fr": "Les cloches rythment la journée des habitants.",
+          "pt": "Os sinos marcam o ritmo do dia dos moradores."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est la cloche qui, de sa voix lente, rappelle que le temps avance.",
+          "pt": "É o sino que, com sua voz lenta, lembra que o tempo avança."
+        }
       ]
     },
     {
       "term": "le bruit",
       "definitionPt": "o barulho",
       "definitionFr": "Son entendu.",
-      "inflections": ["le bruit", "un bruit", "des bruits"],
-      "ptTargets": ["barulho", "ruído"],
+      "inflections": [
+        "le bruit",
+        "un bruit",
+        "des bruits"
+      ],
+      "ptTargets": [
+        "barulho",
+        "ruído"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le bruit est doux.", "pt": "O barulho é suave." },
-        { "level": "A2-B1", "fr": "Le bruit de l'eau ressemble à celui de chez moi.", "pt": "O barulho da água parece o da minha terra." },
-        { "level": "B2", "fr": "Le bruit de l'eau apaise les pensées.", "pt": "O barulho da água acalma os pensamentos." },
-        { "level": "C1-C2", "fr": "C'est le bruit qui, familier, rattache un lieu nouveau à la mémoire d'un autre.", "pt": "É o barulho que, familiar, liga um lugar novo à memória de outro." }
+        {
+          "level": "A1",
+          "fr": "Le bruit est doux.",
+          "pt": "O barulho é suave."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Le bruit de l'eau ressemble à celui de chez moi.",
+          "pt": "O barulho da água parece o da minha terra."
+        },
+        {
+          "level": "B2",
+          "fr": "Le bruit de l'eau apaise les pensées.",
+          "pt": "O barulho da água acalma os pensamentos."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est le bruit qui, familier, rattache un lieu nouveau à la mémoire d'un autre.",
+          "pt": "É o barulho que, familiar, liga um lugar novo à memória de outro."
+        }
       ]
     },
     {
       "term": "le pont",
       "definitionPt": "a ponte",
       "definitionFr": "Construction pour traverser.",
-      "inflections": ["le pont", "un pont", "des ponts"],
-      "ptTargets": ["ponte"],
+      "inflections": [
+        "le pont",
+        "un pont",
+        "des ponts"
+      ],
+      "ptTargets": [
+        "ponte"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le pont est vieux.", "pt": "A ponte é velha." },
-        { "level": "A2-B1", "fr": "La barque passe sous un vieux pont de pierre.", "pt": "O barco passa sob uma velha ponte de pedra." },
-        { "level": "B2", "fr": "Le pont de pierre enjambe le fleuve depuis des siècles.", "pt": "A ponte de pedra atravessa o rio há séculos." },
-        { "level": "C1-C2", "fr": "C'est le pont qui, en reliant les rives, abolit la distance et rapproche les hommes.", "pt": "É a ponte que, ao ligar as margens, abole a distância e aproxima as pessoas." }
+        {
+          "level": "A1",
+          "fr": "Le pont est vieux.",
+          "pt": "A ponte é velha."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "La barque passe sous un vieux pont de pierre.",
+          "pt": "O barco passa sob uma velha ponte de pedra."
+        },
+        {
+          "level": "B2",
+          "fr": "Le pont de pierre enjambe le fleuve depuis des siècles.",
+          "pt": "A ponte de pedra atravessa o rio há séculos."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est le pont qui, en reliant les rives, abolit la distance et rapproche les hommes.",
+          "pt": "É a ponte que, ao ligar as margens, abole a distância e aproxima as pessoas."
+        }
       ]
     },
     {
       "term": "la pierre",
       "definitionPt": "a pedra",
       "definitionFr": "Matière dure du sol.",
-      "inflections": ["la pierre", "une pierre", "des pierres"],
-      "ptTargets": ["pedra"],
+      "inflections": [
+        "la pierre",
+        "une pierre",
+        "des pierres"
+      ],
+      "ptTargets": [
+        "pedra"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La pierre est lourde.", "pt": "A pedra é pesada." },
-        { "level": "A2-B1", "fr": "Un vieux pont de pierre traverse le fleuve.", "pt": "Uma velha ponte de pedra atravessa o rio." },
-        { "level": "B2", "fr": "Les maisons de pierre gardent la fraîcheur en été.", "pt": "As casas de pedra mantêm o frescor no verão." },
-        { "level": "C1-C2", "fr": "C'est la pierre qui, façonnée par le temps, porte la mémoire des bâtisseurs.", "pt": "É a pedra que, moldada pelo tempo, carrega a memória dos construtores." }
+        {
+          "level": "A1",
+          "fr": "La pierre est lourde.",
+          "pt": "A pedra é pesada."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Un vieux pont de pierre traverse le fleuve.",
+          "pt": "Uma velha ponte de pedra atravessa o rio."
+        },
+        {
+          "level": "B2",
+          "fr": "Les maisons de pierre gardent la fraîcheur en été.",
+          "pt": "As casas de pedra mantêm o frescor no verão."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est la pierre qui, façonnée par le temps, porte la mémoire des bâtisseurs.",
+          "pt": "É a pedra que, moldada pelo tempo, carrega a memória dos construtores."
+        }
       ]
     },
     {
       "term": "glisser",
       "definitionPt": "deslizar",
       "definitionFr": "Se déplacer sans bruit.",
-      "inflections": ["glisser", "je glisse", "nous glissons"],
-      "ptTargets": ["deslizar"],
+      "inflections": [
+        "glisser",
+        "je glisse",
+        "nous glissons"
+      ],
+      "ptTargets": [
+        "deslizar"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La barque glisse.", "pt": "O barco desliza." },
-        { "level": "A2-B1", "fr": "La barque glisse sur l'eau.", "pt": "O barco desliza sobre a água." },
-        { "level": "B2", "fr": "Les nuages glissent lentement dans le ciel.", "pt": "As nuvens deslizam lentamente no céu." },
-        { "level": "C1-C2", "fr": "C'est en glissant que l'on avance sans effort, porté par l'eau elle-même.", "pt": "É deslizando que se avança sem esforço, carregado pela própria água." }
+        {
+          "level": "A1",
+          "fr": "La barque glisse.",
+          "pt": "O barco desliza."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "La barque glisse sur l'eau.",
+          "pt": "O barco desliza sobre a água."
+        },
+        {
+          "level": "B2",
+          "fr": "Les nuages glissent lentement dans le ciel.",
+          "pt": "As nuvens deslizam lentamente no céu."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est en glissant que l'on avance sans effort, porté par l'eau elle-même.",
+          "pt": "É deslizando que se avança sem esforço, carregado pela própria água."
+        }
       ]
     },
     {
       "term": "le miroir",
       "definitionPt": "o espelho",
       "definitionFr": "Surface qui reflète.",
-      "inflections": ["le miroir", "un miroir", "des miroirs"],
-      "ptTargets": ["espelho"],
+      "inflections": [
+        "le miroir",
+        "un miroir",
+        "des miroirs"
+      ],
+      "ptTargets": [
+        "espelho"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le miroir est clair.", "pt": "O espelho é claro." },
-        { "level": "A2-B1", "fr": "L'eau est calme comme un miroir.", "pt": "A água está calma como um espelho." },
-        { "level": "B2", "fr": "Le miroir de l'eau reflète les arbres et le ciel.", "pt": "O espelho d'água reflete as árvores e o céu." },
-        { "level": "C1-C2", "fr": "C'est le miroir qui, en reflétant le monde, en offre une image plus paisible.", "pt": "É o espelho que, ao refletir o mundo, oferece dele uma imagem mais serena." }
+        {
+          "level": "A1",
+          "fr": "Le miroir est clair.",
+          "pt": "O espelho é claro."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "L'eau est calme comme un miroir.",
+          "pt": "A água está calma como um espelho."
+        },
+        {
+          "level": "B2",
+          "fr": "Le miroir de l'eau reflète les arbres et le ciel.",
+          "pt": "O espelho d'água reflete as árvores e o céu."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est le miroir qui, en reflétant le monde, en offre une image plus paisible.",
+          "pt": "É o espelho que, ao refletir o mundo, oferece dele uma imagem mais serena."
+        }
       ]
     }
   ],
@@ -234,7 +516,11 @@
     "exampleFr": "La barque glisse. Irlan rame doucement.",
     "examplePt": "O barco desliza. Irlan rema devagar.",
     "practiceQuestion": "Complete: 'La barque _____ sur l'eau.'",
-    "options": ["glisse", "glissent", "glissons"],
+    "options": [
+      "glisse",
+      "glissent",
+      "glissons"
+    ],
     "correctIndex": 0,
     "points": [
       {
@@ -243,7 +529,11 @@
         "exampleFr": "On dirait que les arbres veulent boire.",
         "examplePt": "Parece que as árvores querem beber.",
         "practiceQuestion": "Complete: '_____ les arbres veulent boire.'",
-        "options": ["On dirait que", "On dirait", "Il dirait que"],
+        "options": [
+          "On dirait que",
+          "On dirait",
+          "Il dirait que"
+        ],
         "correctIndex": 0
       },
       {
@@ -252,7 +542,11 @@
         "exampleFr": "Le long des berges, les saules touchent l'eau.",
         "examplePt": "Ao longo das margens, os salgueiros tocam a água.",
         "practiceQuestion": "Complete: '_____ des berges, il y a des saules.'",
-        "options": ["Le long", "Loin", "Près"],
+        "options": [
+          "Le long",
+          "Loin",
+          "Près"
+        ],
         "correctIndex": 0
       }
     ]
@@ -260,31 +554,51 @@
   "quizQuestions": [
     {
       "question": "O que Irlan e Andréa alugam?",
-      "options": ["um barco", "um carro", "uma bicicleta"],
+      "options": [
+        "um barco",
+        "um carro",
+        "uma bicicleta"
+      ],
       "correctIndex": 0,
       "explanation": "Ils louent une barque sur la Somme."
     },
     {
       "question": "Onde Irlan aprendeu a remar?",
-      "options": ["no rio de Jaguaquara", "em Paris", "em Amiens"],
+      "options": [
+        "no rio de Jaguaquara",
+        "em Paris",
+        "em Amiens"
+      ],
       "correctIndex": 0,
       "explanation": "J'ai appris dans la rivière de Jaguaquara."
     },
     {
       "question": "O que toca a água ao longo das margens?",
-      "options": ["os salgueiros", "os barcos", "as flores"],
+      "options": [
+        "os salgueiros",
+        "os barcos",
+        "as flores"
+      ],
       "correctIndex": 0,
       "explanation": "Les saules pleureurs touchent l'eau."
     },
     {
       "question": "Complete: 'La barque _____ sur l'eau.'",
-      "options": ["glisse", "glissent", "glissons"],
+      "options": [
+        "glisse",
+        "glissent",
+        "glissons"
+      ],
       "correctIndex": 0,
       "explanation": "la barque glisse."
     },
     {
       "question": "Complete: '_____ les arbres veulent boire.'",
-      "options": ["On dirait que", "On dirait", "Il dirait que"],
+      "options": [
+        "On dirait que",
+        "On dirait",
+        "Il dirait que"
+      ],
       "correctIndex": 0,
       "explanation": "On dirait que = parece que."
     }

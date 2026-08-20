@@ -7,7 +7,7 @@
   "titlePt": "O Parc de la Tête d'Or: o pulmão verde de Lyon",
   "subtitleFr": "Rapporter les paroles : le discours indirect",
   "subtitlePt": "Relatar as falas: o discurso indireto",
-  "summaryPt": "Com 117 hectares, o Parc de la Tête d'Or é um dos maiores parques urbanos da França: tem lago, rosaário, jardim botânico e até um zoológico gratuito. Nesta aula B2+, a família passeia e aprende a relatar falas no discurso indireto, com a concordância dos tempos.",
+  "summaryPt": "Com 117 hectares, o Parc de la Tête d'Or é um dos maiores parques urbanos da França: tem lago, rosaário, jardim botânico e até um zoológico gratuito. Nesta aula B2+, o casal passeia e aprende a relatar falas no discurso indireto, com a concordância dos tempos.",
   "paragraphs": [
     {
       "id": 1,
@@ -16,13 +16,13 @@
     },
     {
       "id": 2,
-      "fr": "Le nom vient d'une légende : un trésor à tête de Christ en or serait caché dans le parc. « On dit que le trésor est encore là », murmura Íris. Andréa répondit qu'elle croyait que la légende était vraie.",
-      "pt": "O nome vem de uma lenda: um tesouro com uma cabeça de Cristo em ouro estaria escondido no parque. « Dizem que o tesouro ainda está lá », murmurou Íris. Andréa respondeu que acreditava que a lenda era verdadeira."
+      "fr": "Le nom vient d'une légende : un trésor à tête de Christ en or serait caché dans le parc. « On dit que le trésor est encore là », murmura Andréa. Irlan répondit qu'il croyait que la légende était vraie.",
+      "pt": "O nome vem de uma lenda: um tesouro com uma cabeça de Cristo em ouro estaria escondido no parque. « Dizem que o tesouro ainda está lá », murmurou Andréa. Irlan respondeu que acreditava que a lenda era verdadeira."
     },
     {
       "id": 3,
-      "fr": "Sur le lac, des barques glissent. « Regarde les canards ! » cria Íris. Plus tard, elle expliqua à sa grand-mère au téléphone qu'elle avait vu des canards et une barque rouge.",
-      "pt": "No lago, barcos deslizam. « Olha os patos! » gritou Íris. Mais tarde, ela explicou à avó ao telefone que tinha visto patos e um barco vermelho."
+      "fr": "Sur le lac, des barques glissent. « Regarde les canards ! » cria Andréa. Plus tard, elle expliqua à sa mère au téléphone qu'elle avait vu des canards et une barque rouge.",
+      "pt": "No lago, barcos deslizam. « Olha os patos! » gritou Andréa. Mais tarde, ela explicou à mãe ao telefone que tinha visto patos e um barco vermelho."
     },
     {
       "id": 4,
@@ -31,8 +31,18 @@
     },
     {
       "id": 5,
-      "fr": "Le soir, Irlan écrivit : « Andréa m'a dit qu'elle venait ici quand elle était petite. Íris a promis qu'elle reviendrait pour nourrir les canards. Et moi, j'ai compris que la Tête d'Or, c'était notre nouveau jardin de famille. »",
-      "pt": "À noite, Irlan escreveu: « Andréa me disse que vinha aqui quando era pequena. Íris prometeu que voltaria para alimentar os patos. E eu entendi que a Tête d'Or era o nosso novo jardim de família. »"
+      "fr": "Le soir, Irlan écrivit : « Andréa m'a dit qu'elle venait ici quand elle était petite. Elle a promis qu'elle reviendrait pour nourrir les canards. Et moi, j'ai compris que la Tête d'Or, c'était notre nouveau jardin, à nous deux. »",
+      "pt": "À noite, Irlan escreveu: « Andréa me disse que vinha aqui quando era pequena. Ela prometeu que voltaria para alimentar os patos. E eu entendi que a Tête d'Or era o nosso novo jardim, só nosso. »"
+    },
+    {
+      "id": 6,
+      "fr": "Le parc formait une petite biosphère où chaque organisme avait sa place. Andréa a observé les jardiniers, qui entretenaient les allées avec une méthode consciencieuse.",
+      "pt": "O parque formava uma pequena biosfera onde cada organismo tinha seu lugar. Andréa observou os jardineiros, que cuidavam das alamedas com um método consciencioso."
+    },
+    {
+      "id": 7,
+      "fr": "Irlan a relié cette éco-responsabilité à la protection des ressources. L'espace restait respirant et vivable, à condition que les visiteurs respectent une règle simple.",
+      "pt": "Irlan relacionou essa responsabilidade ecológica à proteção dos recursos. O espaço continuava arejado e habitável, desde que os visitantes respeitassem uma regra simples."
     }
   ],
   "vocabularyDictionary": [
@@ -148,7 +158,7 @@
       "ptTargets": ["alimentar", "dar de comer"],
       "examples": [
         { "level": "A1", "fr": "Je nourris le chat.", "pt": "Eu alimento o gato." },
-        { "level": "A2-B1", "fr": "Íris veut nourrir les canards.", "pt": "Íris quer alimentar os patos." },
+        { "level": "A2-B1", "fr": "Andréa veut nourrir les canards.", "pt": "Andréa quer alimentar os patos." },
         { "level": "B2", "fr": "Nourrir les canards, interdit parfois, reste un plaisir d'enfant.", "pt": "Alimentar os patos, às vezes proibido, continua um prazer de criança." },
         { "level": "C1-C2", "fr": "C'est en nourrissant les autres que l'on nourrit aussi son propre cœur.", "pt": "É alimentando os outros que se alimenta também o próprio coração." }
       ]
@@ -161,7 +171,7 @@
       "ptTargets": ["prometer", "prometeu"],
       "examples": [
         { "level": "A1", "fr": "Je promets.", "pt": "Eu prometo." },
-        { "level": "A2-B1", "fr": "Íris a promis qu'elle reviendrait.", "pt": "Íris prometeu que voltaria." },
+        { "level": "A2-B1", "fr": "Andréa a promis qu'elle reviendrait.", "pt": "Andréa prometeu que voltaria." },
         { "level": "B2", "fr": "Elle a promis qu'elle reviendrait nourrir les canards le dimanche.", "pt": "Ela prometeu que voltaria para alimentar os patos no domingo." },
         { "level": "C1-C2", "fr": "C'est en promettant que l'on donne aux enfants une raison de revenir.", "pt": "É prometendo que se dá às crianças uma razão para voltar." }
       ]
@@ -196,8 +206,8 @@
   "grammarTip": {
     "ruleTitle": "Le discours indirect : rapporter les paroles",
     "explanationPt": "Para relatar falas: 'Andréa a dit : « C'est le plus grand parc »' → 'Andréa a dit que c'était le plus grand parc'. O presente vira imperfeito, o futuro vira condicional ('elle reviendrait'), o passé composé vira mais-que-perfeito ('qu'elle avait vu des canards').",
-    "exampleFr": "Andréa a dit que c'était le plus grand parc de la ville ; Íris a promis qu'elle reviendrait nourrir les canards.",
-    "examplePt": "Andréa disse que era o maior parque da cidade; Íris prometeu que voltaria para alimentar os patos.",
+    "exampleFr": "Andréa a dit que c'était le plus grand parc de la ville ; elle a promis qu'elle reviendrait nourrir les canards.",
+    "examplePt": "Andréa disse que era o maior parque da cidade; ela prometeu que voltaria para alimentar os patos.",
     "practiceQuestion": "Complete: « Andréa a dit que c'___ le plus grand parc. »",
     "options": ["était", "est", "sera"],
     "correctIndex": 0,
@@ -214,9 +224,9 @@
       {
         "ruleTitle": "Futur → conditionnel",
         "explanationPt": "'Elle reviendra' → 'elle a promis qu'elle reviendrait' : o futuro vira condicional.",
-        "exampleFr": "Íris a promis : « Je reviendrai » → Íris a promis qu'elle reviendrait.",
-        "examplePt": "Íris prometeu: « Voltarei » → Íris prometeu que voltaria.",
-        "practiceQuestion": "Complete: « Íris a promis qu'elle ___ nourrir les canards. »",
+        "exampleFr": "Andréa a promis : « Je reviendrai » → Andréa a promis qu'elle reviendrait.",
+        "examplePt": "Andréa prometeu: « Voltarei » → Andréa prometeu que voltaria.",
+        "practiceQuestion": "Complete: « Andréa a promis qu'elle ___ nourrir les canards. »",
         "options": ["reviendrait", "reviendra", "revient"],
         "correctIndex": 0
       }
@@ -236,7 +246,7 @@
       "explanation": "No texto: 'un trésor à tête de Christ en or serait caché dans le parc'."
     },
     {
-      "question": "O que Íris contou à avó ao telefone?",
+      "question": "O que Andréa contou à mãe ao telefone?",
       "options": ["Que tinha visto patos e um barco vermelho", "Que tinha comido muito", "Que queria voltar para casa"],
       "correctIndex": 0,
       "explanation": "No texto: 'elle expliqua qu'elle avait vu des canards et une barque rouge'."
@@ -248,7 +258,7 @@
       "explanation": "No texto: 'plus de trois cents variétés'."
     },
     {
-      "question": "Complete: « Íris a promis qu'elle ___ nourrir les canards. »",
+      "question": "Complete: « Andréa a promis qu'elle ___ nourrir les canards. »",
       "options": ["reviendrait", "reviendra", "revient"],
       "correctIndex": 0,
       "explanation": "Futuro vira condicional no discurso indireto."

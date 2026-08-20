@@ -3,21 +3,21 @@
   "cityId": "mont-saint-michel",
   "domain": "Cotidiano",
   "level": "Básico (A2/B1)",
-  "titleFr": "Íris et la légende : les enfants du Mont",
-  "titlePt": "Íris e a lenda: as crianças do Mont",
-  "subtitleFr": "Pour Íris, le Mont est un château magique entre les nuages",
-  "subtitlePt": "Para Íris, o Mont é um castelo mágico entre as nuvens",
-  "summaryPt": "Nesta Aula 35 (A2/B1), Íris imagina le Mont comme un château magique et invente sa propre légende. A família brinca de contar histórias no pátio da abadia. O aluno pratica a imaginação e o condicional presente (je voudrais, ce serait) e o relato no passado.",
+  "titleFr": "Andréa et la légende : le dragon de la baie",
+  "titlePt": "Andréa e a lenda: o dragão da baía",
+  "subtitleFr": "Pour Andréa, le Mont est un château magique entre les nuages",
+  "subtitlePt": "Para Andréa, o Mont é um castelo mágico entre as nuvens",
+  "summaryPt": "Nesta Aula 35 (A2/B1), Andréa imagina o Mont como um castelo mágico e inventa sua própria lenda. O casal brinca de contar histórias no pátio da abadia. O aluno pratica a imaginação e o condicional presente (je voudrais, ce serait) e o relato no passado.",
   "paragraphs": [
     {
       "id": 1,
-      "fr": "« Pour moi, le Mont est un château magique », a dit Íris. « Le dragon de la mer vit dans la baie, et l'archange le surveille du haut de la flèche. »",
-      "pt": "« Para mim, o Mont é um castelo mágico », disse Íris. « O dragão do mar vive na baía, e o arcanjo o vigia do alto da flecha. »"
+      "fr": "« Pour moi, le Mont est un château magique », a dit Andréa. « Le dragon de la mer vit dans la baie, et l'archange le surveille du haut de la flèche. »",
+      "pt": "« Para mim, o Mont é um castelo mágico », disse Andréa. « O dragão do mar vive na baía, e o arcanjo o vigia do alto da flecha. »"
     },
     {
       "id": 2,
-      "fr": "« Ce serait amusant de voir un dragon », a souri Andréa. « Je voudrais le voir voler au-dessus de la mer ! » Íris a éclaté de rire.",
-      "pt": "« Seria divertido ver um dragão », sorriu Andréa. « Eu gostaria de vê-lo voar sobre o mar! » Íris caiu na risada."
+      "fr": "« Ce serait amusant de voir un dragon », a souri Irlan. « Je voudrais le voir voler au-dessus de la mer ! » Andréa a éclaté de rire.",
+      "pt": "« Seria divertido ver um dragão », sorriu Irlan. « Eu gostaria de vê-lo voar sobre o mar! » Andréa caiu na risada."
     },
     {
       "id": 3,
@@ -26,8 +26,63 @@
     },
     {
       "id": 4,
-      "fr": "La famille a regardé le Mont une dernière fois avant la nuit. « Une légende de famille est née aujourd'hui », a dit Andréa. « Le dragon de la baie et l'archange veillent sur nous. »",
-      "pt": "A família olhou o Mont uma última vez antes da noite. « Uma lenda de família nasceu hoje », disse Andréa. « O dragão da baía e o arcanjo velam por nós. »"
+      "fr": "Le couple a regardé le Mont une dernière fois avant la nuit. « Une légende est née aujourd'hui », a dit Andréa. « Le dragon de la baie et l'archange veillent sur nous. »",
+      "pt": "O casal olhou o Mont uma última vez antes da noite. « Uma lenda nasceu hoje », disse Andréa. « O dragão da baía e o arcanjo velam por nós. »"
+    },
+    {
+      "id": 5,
+      "fr": "« Les légendes d'enfance restent les plus belles », a dit Irlan. « Elles ne meurent jamais. »",
+      "pt": "« As lendas de infância são as mais belas », disse Irlan. « Elas nunca morrem. »"
+    },
+    {
+      "id": 6,
+      "fr": "« Chaque pierre du parvis pourrait raconter une légende », a ajouté Andréa. « Il suffit d'imaginer. »",
+      "pt": "« Cada pedra do pátio poderia contar uma lenda », acrescentou Andréa. « Basta imaginar. »"
+    },
+    {
+      "id": 7,
+      "fr": "« Le regard des enfants rend magiques les lieux les plus simples », a murmuré Irlan. « C'est pour cela qu'il faut garder ce regard. »",
+      "pt": "« O olhar das crianças torna mágicos os lugares mais simples », murmurou Irlan. « É por isso que é preciso guardar esse olhar. »"
+    },
+    {
+      "id": 8,
+      "fr": "« Surveiller la baie comme l'archange, c'est veiller sur ce qu'on aime », a dit Andréa. « Nous, nous veillons l'un sur l'autre. »",
+      "pt": "« Vigiar a baía como o arcanjo é velar por aquilo que amamos », disse Andréa. « Nós velamos um pelo outro. »"
+    },
+    {
+      "id": 9,
+      "fr": "Irlan a sorti l'Atlas. « Et si la légende cachait une vérité ? Le dragon de la mer pourrait être le gué qui apparaît à marée basse. »",
+      "pt": "Irlan tirou o Atlas. « E se a lenda escondesse uma verdade? O dragão do mar poderia ser o vau que aparece na maré baixa. »"
+    },
+    {
+      "id": 10,
+      "fr": "« Un dragon de sable qui se réveille deux fois par jour », a souri Andréa. « C'est exactement la baie. »",
+      "pt": "« Um dragão de areia que acorda duas vezes por dia », sorriu Andréa. « É exatamente a baía. »"
+    },
+    {
+      "id": 11,
+      "fr": "« Alors demain, nous marcherons sur le dos du dragon », a dit Irlan. « Entre deux marées, avant qu'il ne se rendorme. »",
+      "pt": "« Então amanhã caminharemos sobre o dorso do dragão », disse Irlan. « Entre duas marés, antes que ele volte a dormir. »"
+    },
+    {
+      "id": 12,
+      "fr": "« Naître et renaître, comme la légende et la mer », a murmuré Andréa. « Le Mont garde le secret. » Ils ont souri dans la nuit.",
+      "pt": "« Nascer e renascer, como a lenda e o mar », murmurou Andréa. « O Mont guarda o segredo. » Eles sorriram na noite."
+    }
+    ,{
+      "id": 13,
+      "fr": "Andréa raconte la légende du dragon. Sa voix émeut Irlan, qui prend des notes dans le fichier de l'Atlas.",
+      "pt": "Andréa conta a lenda do dragão. Sua voz comove Irlan, que tira notas no arquivo do Atlas."
+    },
+    {
+      "id": 14,
+      "fr": "Un guide aveugle explique que le monstre était une métaphore. Il reste optimiste et fait connaissance avec les voyageurs.",
+      "pt": "Um guia cego explica que o monstro era uma metáfora. Ele permanece otimista e conhece os viajantes."
+    },
+    {
+      "id": 15,
+      "fr": "« Il faut être poli avec les légendes », dit Andréa. Irlan approuve et demande pardon d'avoir ri.",
+      "pt": "É preciso ser educado com as lendas, diz Andréa. Irlan aprova e pede perdão por ter rido."
     }
   ],
   "vocabularyDictionary": [
@@ -39,8 +94,8 @@
       "ptTargets": ["lenda"],
       "examples": [
         { "level": "A1", "fr": "La légende est drôle.", "pt": "A lenda é engraçada." },
-        { "level": "A2-B1", "fr": "Íris a inventé sa propre légende.", "pt": "Íris inventou sua própria lenda." },
-        { "level": "B2", "fr": "Chaque famille a ses légendes.", "pt": "Cada família tem suas lendas." },
+        { "level": "A2-B1", "fr": "Andréa a inventé sa propre légende.", "pt": "Andréa inventou sua própria lenda." },
+        { "level": "B2", "fr": "Chaque maison a ses légendes.", "pt": "Cada casa tem suas lendas." },
         { "level": "C1-C2", "fr": "Les légendes d'enfance restent les plus belles.", "pt": "As lendas de infância são as mais belas." }
       ]
     },
@@ -52,7 +107,7 @@
       "ptTargets": ["castelo"],
       "examples": [
         { "level": "A1", "fr": "Le château est grand.", "pt": "O castelo é grande." },
-        { "level": "A2-B1", "fr": "Pour Íris, le Mont est un château magique.", "pt": "Para Íris, o Mont é um castelo mágico." },
+        { "level": "A2-B1", "fr": "Pour Andréa, le Mont est un château magique.", "pt": "Para Andréa, o Mont é um castelo mágico." },
         { "level": "B2", "fr": "Le château de pierre se dresse entre ciel et mer.", "pt": "O castelo de pedra se ergue entre céu e mar." },
         { "level": "C1-C2", "fr": "Les châteaux imaginaires des enfants sont plus vrais que tous les autres.", "pt": "Os castelos imaginários das crianças são mais verdadeiros que todos os outros." }
       ]
@@ -65,7 +120,7 @@
       "ptTargets": ["mágico"],
       "examples": [
         { "level": "A1", "fr": "Le lieu est magique.", "pt": "O lugar é mágico." },
-        { "level": "A2-B1", "fr": "Le Mont est un château magique pour Íris.", "pt": "O Mont é um castelo mágico para Íris." },
+        { "level": "A2-B1", "fr": "Le Mont est un château magique pour Andréa.", "pt": "O Mont é um castelo mágico para Andréa." },
         { "level": "B2", "fr": "Cette lumière rend le paysage magique.", "pt": "Esta luz torna a paisagem mágica." },
         { "level": "C1-C2", "fr": "Le regard des enfants rend magiques les lieux les plus simples.", "pt": "O olhar das crianças torna mágicos os lugares mais simples." }
       ]
@@ -77,9 +132,9 @@
       "inflections": ["le dragon", "un dragon", "des dragons"],
       "ptTargets": ["dragão"],
       "examples": [
-        { "level": "A1", "fr": "Le dragon est vert.", "pt": "O dragão é verde." },
+        { "level": "A1", "fr": "Les enfants aiment les dragons.", "pt": "As crianças gostam de dragões." },
         { "level": "A2-B1", "fr": "Le dragon de la mer vit dans la baie.", "pt": "O dragão do mar vive na baía." },
-        { "level": "B2", "fr": "Dans la légende d'Íris, le dragon protège la baie.", "pt": "Na lenda de Íris, o dragão protege a baía." },
+        { "level": "B2", "fr": "Dans la légende d'Andréa, le dragon protège la baie.", "pt": "Na lenda de Andréa, o dragão protege a baía." },
         { "level": "C1-C2", "fr": "Les dragons des contes gardent souvent les trésors qu'ils finissent par aimer.", "pt": "Os dragões dos contos guardam muitas vezes os tesouros que acabam amando." }
       ]
     },
@@ -90,7 +145,7 @@
       "inflections": ["la flèche", "une flèche", "des flèches"],
       "ptTargets": ["flecha", "pináculo"],
       "examples": [
-        { "level": "A1", "fr": "La flèche est haute.", "pt": "O pináculo é alto." },
+        { "level": "A1", "fr": "La flèche de la tour est très haute.", "pt": "O pináculo da torre é muito alto." },
         { "level": "A2-B1", "fr": "L'archange est au sommet de la flèche.", "pt": "O arcanjo está no topo do pináculo." },
         { "level": "B2", "fr": "La flèche de l'abbaye s'élève à cent cinquante mètres.", "pt": "O pináculo da abadia se eleva a cento e cinquenta metros." },
         { "level": "C1-C2", "fr": "La flèche d'or de l'archange veille sur les marées.", "pt": "A flecha dourada do arcanjo vigia as marés." }
@@ -129,7 +184,7 @@
       "inflections": ["le géant", "la géante", "des géants"],
       "ptTargets": ["gigante"],
       "examples": [
-        { "level": "A1", "fr": "Le géant est grand.", "pt": "O gigante é grande." },
+        { "level": "A1", "fr": "Les enfants ont peur du géant.", "pt": "As crianças têm medo do gigante." },
         { "level": "A2-B1", "fr": "Les montagnes étaient des géants endormis.", "pt": "As montanhas eram gigantes adormecidos." },
         { "level": "B2", "fr": "Les géants de la légende dorment sous les collines.", "pt": "Os gigantes da lenda dormem sob as colinas." },
         { "level": "C1-C2", "fr": "Chacun porte en soi un géant que l'enfance a dessiné.", "pt": "Cada um carrega dentro de si um gigante que a infância desenhou." }
@@ -143,9 +198,9 @@
       "ptTargets": ["nascer"],
       "examples": [
         { "level": "A1", "fr": "Le bébé est né.", "pt": "O bebê nasceu." },
-        { "level": "A2-B1", "fr": "Une légende de famille est née aujourd'hui.", "pt": "Uma lenda de família nasceu hoje." },
+        { "level": "A2-B1", "fr": "Une légende est née aujourd'hui.", "pt": "Uma lenda nasceu hoje." },
         { "level": "B2", "fr": "Les plus belles histoires naissent d'un moment simple.", "pt": "As mais belas histórias nascem de um momento simples." },
-        { "level": "C1-C2", "fr": "Ce qui naît dans le rire d'une famille vit très longtemps.", "pt": "O que nasce no riso de uma família vive muito tempo." }
+        { "level": "C1-C2", "fr": "Ce qui naît dans le rire partagé vit très longtemps.", "pt": "O que nasce no riso compartilhado vive muito tempo." }
       ]
     },
     {
@@ -156,8 +211,8 @@
       "ptTargets": ["cair na risada"],
       "examples": [
         { "level": "A1", "fr": "J'éclate de rire.", "pt": "Caio na risada." },
-        { "level": "A2-B1", "fr": "Íris a éclaté de rire.", "pt": "Íris caiu na risada." },
-        { "level": "B2", "fr": "Toute la famille a éclaté de rire.", "pt": "Toda a família caiu na risada." },
+        { "level": "A2-B1", "fr": "Andréa a éclaté de rire.", "pt": "Andréa caiu na risada." },
+        { "level": "B2", "fr": "Le couple a éclaté de rire.", "pt": "O casal caiu na risada." },
         { "level": "C1-C2", "fr": "Éclater de rire ensemble, c'est la plus belle musique du monde.", "pt": "Cair na risada juntos é a mais bela música do mundo." }
       ]
     },
@@ -175,16 +230,16 @@
       ]
     },
     {
-      "term": "le pâté",
-      "definitionPt": "o pátio",
-      "definitionFr": "Cour intérieure.",
-      "inflections": ["le pâté", "un pâté", "des pâtés"],
+      "term": "le parvis",
+      "definitionPt": "o pátio, o adro",
+      "definitionFr": "Place devant l'église.",
+      "inflections": ["le parvis", "un parvis", "des parvis"],
       "ptTargets": ["pátio"],
       "examples": [
-        { "level": "A1", "fr": "Le pâté est grand.", "pt": "O pátio é grande." },
-        { "level": "A2-B1", "fr": "La famille a joué dans le pâté de l'abbaye.", "pt": "A família brincou no pátio da abadia." },
-        { "level": "B2", "fr": "Le pâté de la Merveille résonne des rires des enfants.", "pt": "O pátio da Merveille ecoa os risos das crianças." },
-        { "level": "C1-C2", "fr": "Dans ce pâté de pierre, mille ans de voix se sont succédé.", "pt": "Neste pátio de pedra, mil anos de vozes se sucederam." }
+        { "level": "A1", "fr": "On se retrouve sur le parvis.", "pt": "A gente se encontra no pátio." },
+        { "level": "A2-B1", "fr": "Le couple a joué sur le parvis de l'abbaye.", "pt": "O casal brincou no pátio da abadia." },
+        { "level": "B2", "fr": "Le parvis de la Merveille résonne des rires des visiteurs.", "pt": "O pátio da Merveille ecoa os risos dos visitantes." },
+        { "level": "C1-C2", "fr": "Sur ce parvis de pierre, mille ans de voix se sont succédé.", "pt": "Neste pátio de pedra, mil anos de vozes se sucederam." }
       ]
     }
   ],
@@ -208,9 +263,9 @@
       },
       {
         "ruleTitle": "Une légende est née : le passé composé de l'histoire",
-        "explanationPt": "Evento recente: 'une légende de famille est née aujourd'hui' (uma lenda de família nasceu hoje). 'Naître' usa ÊTRE: 'est née'.",
-        "exampleFr": "Une légende de famille est née aujourd'hui, au pied de la Merveille.",
-        "examplePt": "Uma lenda de família nasceu hoje, ao pé da Merveille.",
+        "explanationPt": "Evento recente: 'une légende est née aujourd'hui' (uma lenda nasceu hoje). 'Naître' usa ÊTRE: 'est née'.",
+        "exampleFr": "Une légende est née aujourd'hui, au pied de la Merveille.",
+        "examplePt": "Uma lenda nasceu hoje, ao pé da Merveille.",
         "practiceQuestion": "Complete: « Une légende est ___ aujourd'hui. »",
         "options": ["née", "né", "nés"],
         "correctIndex": 0
@@ -219,10 +274,10 @@
   },
   "quizQuestions": [
     {
-      "question": "O que Íris imaginou sobre o Mont?",
+      "question": "O que Andréa imaginou sobre o Mont?",
       "options": ["Que é um castelo mágico com um dragão na baía", "Que é um navio pirata", "Que é uma montanha de gelo"],
       "correctIndex": 0,
-      "explanation": "Para Íris, o Mont é um château magique, com um dragão do mar e o arcanjo vigiando."
+      "explanation": "Para Andréa, o Mont é um château magique, com um dragão do mar e o arcanjo vigiando."
     },
     {
       "question": "Complete: « Je ___ voir un dragon. »",

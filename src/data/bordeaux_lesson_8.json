@@ -7,7 +7,7 @@
   "titlePt": "A Pont de Pierre e os Bassins des Lumières",
   "subtitleFr": "Les dix-sept arches de Napoléon et l'art numérique dans une base sous-marine",
   "subtitlePt": "Os dezessete arcos de Napoleão e a arte digital numa base submarina",
-  "summaryPt": "Nesta Aula 8 (B1+), a família atravessa a Pont de Pierre, com seus dezessete arcos encomendados por Napoleão, e descobre os Bassins des Lumières, um centro de arte digital instalado numa antiga base submarina. O aluno revisa o Conditionnel e o Gérondif em situações reais.",
+  "summaryPt": "Nesta Aula 8 (B1+), o casal atravessa a Pont de Pierre, com seus dezessete arcos encomendados por Napoleão, e descobre os Bassins des Lumières, um centro de arte digital instalado numa antiga base submarina. O aluno revisa o Conditionnel e o Gérondif em situações reais.",
   "paragraphs": [
     {
       "id": 1,
@@ -16,18 +16,33 @@
     },
     {
       "id": 2,
-      "fr": "En marchant sur le pont, Iris a compté les arches. « Un, deux, trois... Dix-sept ! » Andréa a ajouté : « En la construisant, les ingénieurs ont utilisé des caissons à air comprimé, une première mondiale. »",
-      "pt": "Caminhando sobre a ponte, Íris contou os arcos. « Um, dois, três... Dezessete! » Andréa acrescentou: « Ao construí-la, os engenheiros usaram caixões de ar comprimido, uma estreia mundial. »"
+      "fr": "En marchant sur le pont, Andréa a compté les arches. « Un, deux, trois... Dix-sept ! » Irlan a ajouté : « En la construisant, les ingénieurs ont utilisé des caissons à air comprimé, une première mondiale. »",
+      "pt": "Caminhando sobre a ponte, Andréa contou os arcos. « Um, dois, três... Dezessete! » Irlan acrescentou: « Ao construí-la, os engenheiros usaram caixões de ar comprimido, uma estreia mundial. »"
     },
     {
       "id": 3,
-      "fr": "Le lendemain, aux Bassins des Lumières, la famille a découvert des œuvres géantes projetées sur les murs de l'ancienne base sous-marine. « Nous pourrions revenir pour la nouvelle exposition », a proposé Irlan.",
-      "pt": "No dia seguinte, nos Bassins des Lumières, a família descobriu obras gigantes projetadas nas paredes da antiga base submarina. « Poderíamos voltar para a nova exposição », propôs Irlan."
+      "fr": "Le lendemain, aux Bassins des Lumières, le couple a découvert des œuvres géantes projetées sur les murs de l'ancienne base sous-marine. « Nous pourrions revenir pour la nouvelle exposition », a proposé Irlan.",
+      "pt": "No dia seguinte, nos Bassins des Lumières, o casal descobriu obras gigantes projetadas nas paredes da antiga base submarina. « Poderíamos voltar para a nova exposição », propôs Irlan."
     },
     {
       "id": 4,
-      "fr": "En sortant, Iris a dansé dans la lumière des projecteurs. « C'est comme si nous étions dans un tableau ! » Tout le monde a souri, en pensant à la soirée parfaite.",
-      "pt": "Ao sair, Íris dançou na luz dos projetores. « É como se estivéssemos dentro de um quadro! » Todos sorriram, pensando na noite perfeita."
+      "fr": "En sortant, Andréa a dansé dans la lumière des projecteurs. « C'est comme si nous étions dans un tableau ! » Irlan a souri, en pensant à la soirée parfaite.",
+      "pt": "Ao sair, Andréa dançou na luz dos projetores. « É como se estivéssemos dentro de um quadro! » Irlan sorriu, pensando na noite perfeita."
+    }
+    ,{
+      "id": 5,
+      "fr": "En traversant le pont de Pierre, Irlan aperçoit une chute d'eau près du barrage. Le courant semble robuste.",
+      "pt": "Atravessando a Pont de Pierre, Irlan avista uma cachoeira perto da barragem. A corrente parece forte."
+    },
+    {
+      "id": 6,
+      "fr": "Aux Bassins des Lumières, une projection horizontale transforme les murs. Andréa reste sereine devant cette attraction.",
+      "pt": "Nos Bassins des Lumières, uma projeção horizontal transforma as paredes. Andréa permanece serena diante dessa atração."
+    },
+    {
+      "id": 7,
+      "fr": "Un inspecteur leur demande de respecter la zone. Irlan s'excuse immédiatement et désigne la sortie.",
+      "pt": "Um inspetor lhes pede para respeitar a área. Irlan se desculpa imediatamente e indica a saída."
     }
   ],
   "vocabularyDictionary": [
@@ -143,7 +158,7 @@
       "ptTargets": ["dançar", "dança"],
       "examples": [
         { "level": "A1", "fr": "Je danse.", "pt": "Eu danço." },
-        { "level": "A2-B1", "fr": "Iris a dansé dans la lumière.", "pt": "Íris dançou na luz." },
+        { "level": "A2-B1", "fr": "Andréa a dansé dans la lumière.", "pt": "Andréa dançou na luz." },
         { "level": "B2", "fr": "En dansant, elle suivait les couleurs projetées sur le sol.", "pt": "Dançando, ela seguia as cores projetadas no chão." },
         { "level": "C1-C2", "fr": "La lumière et l'image donnent envie de danser, même aux plus réservés.", "pt": "A luz e a imagem dão vontade de dançar, até aos mais reservados." }
       ]
@@ -169,7 +184,7 @@
       "ptTargets": ["luz"],
       "examples": [
         { "level": "A1", "fr": "La lumière est belle.", "pt": "A luz é bonita." },
-        { "level": "A2-B1", "fr": "Iris a dansé dans la lumière des projecteurs.", "pt": "Íris dançou na luz dos projetores." },
+        { "level": "A2-B1", "fr": "Andréa a dansé dans la lumière des projecteurs.", "pt": "Andréa dançou na luz dos projetores." },
         { "level": "B2", "fr": "La lumière, qui change sans cesse, sculpte l'espace.", "pt": "A luz, que muda sem parar, esculpe o espaço." },
         { "level": "C1-C2", "fr": "Bordeaux, la ville des Lumières, se réinvente chaque soir sur les murs de la base.", "pt": "Bordeaux, a cidade das Luzes, se reinventa toda noite nas paredes da base." }
       ]
@@ -182,7 +197,7 @@
       "ptTargets": ["contar", "conta"],
       "examples": [
         { "level": "A1", "fr": "Je compte les marches.", "pt": "Eu conto os degraus." },
-        { "level": "A2-B1", "fr": "Iris a compté les arches du pont.", "pt": "Íris contou os arcos da ponte." },
+        { "level": "A2-B1", "fr": "Andréa a compté les arches du pont.", "pt": "Andréa contou os arcos da ponte." },
         { "level": "B2", "fr": "En comptant les arches, elle a trouvé dix-sept.", "pt": "Contando os arcos, ela encontrou dezessete." },
         { "level": "C1-C2", "fr": "Compter les arches du pont, c'est compter les lettres du nom de Napoléon.", "pt": "Contar os arcos da ponte é contar as letras do nome de Napoleão." }
       ]
@@ -191,9 +206,9 @@
   "grammarTip": {
     "ruleTitle": "Révision : le gérondif et le conditionnel",
     "explanationPt": "Revisão do capítulo: gérondif para simultaneidade ('en marchant sur le pont', 'en la construisant') e conditionnel para sugestões e hipóteses ('nous pourrions revenir', 'c'est comme si nous étions').",
-    "exampleFr": "En marchant sur le pont, Iris a compté les arches.",
-    "examplePt": "Caminhando sobre a ponte, Íris contou os arcos.",
-    "practiceQuestion": "Complete: « ___ marchant sur le pont, Iris a compté les arches. »",
+    "exampleFr": "En marchant sur le pont, Andréa a compté les arches.",
+    "examplePt": "Caminhando sobre a ponte, Andréa contou os arcos.",
+    "practiceQuestion": "Complete: « ___ marchant sur le pont, Andréa a compté les arches. »",
     "options": ["En", "Pour", "Par"],
     "correctIndex": 0,
     "points": [

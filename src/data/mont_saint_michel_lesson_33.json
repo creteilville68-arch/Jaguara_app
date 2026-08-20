@@ -69,6 +69,21 @@
       "fr": "« La carte et la confiance », a souri Irlan. « Demain, la baie sera notre dessert. » Ils ont fini le repas, sereins.",
       "pt": "« O mapa e a confiança », sorriu Irlan. « Amanhã, a baía será nossa sobremesa. » Eles terminaram a refeição, serenos."
     }
+    ,{
+      "id": 13,
+      "fr": "Dans la cuisine normande, Irlan fouette la crème et épluche les pommes. Andréa ajoute du vinaigre balsamique.",
+      "pt": "Na cozinha normanda, Irlan bate o creme e descasca as maçãs. Andréa adiciona vinagre balsâmico."
+    },
+    {
+      "id": 14,
+      "fr": "Le chef utilise un clou de girofle et du ketchup pour la sauce. Le temps de cuisson est indiqué sur le menu.",
+      "pt": "O chef usa um cravo-da-índia e ketchup para o molho. O tempo de cozimento está indicado no menu."
+    },
+    {
+      "id": 15,
+      "fr": "Ils prennent un café gourmand. « Nous allons nous régaler », promet Andréa avec enthousiasme.",
+      "pt": "Eles tomam um café com doces. Vamos nos deliciar, promete Andréa com entusiasmo."
+    }
   ],
   "vocabularyDictionary": [
     {
@@ -182,7 +197,7 @@
       "inflections": ["le verger", "un verger", "des vergers"],
       "ptTargets": ["pomar"],
       "examples": [
-        { "level": "A1", "fr": "Le verger est vert.", "pt": "O pomar é verde." },
+        { "level": "A1", "fr": "Il y a des pommes dans le verger.", "pt": "Há maçãs no pomar." },
         { "level": "A2-B1", "fr": "Les vergers normands sont pleins de pommiers.", "pt": "Os pomares normandos são cheios de macieiras." },
         { "level": "B2", "fr": "Au printemps, les vergers fleurissent en blanc.", "pt": "Na primavera, os pomares florescem em branco." },
         { "level": "C1-C2", "fr": "Les vergers de la Normandie racontent la patience des saisons.", "pt": "Os pomares da Normandia contam a paciência das estações." }

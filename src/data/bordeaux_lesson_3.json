@@ -7,7 +7,7 @@
   "titlePt": "A Cité du Vin: uma viagem sensorial",
   "subtitleFr": "Le musée du vin de Bordeaux, entre fleuve et architecture moderne",
   "subtitlePt": "O museu do vinho de Bordeaux, entre rio e arquitetura moderna",
-  "summaryPt": "Nesta Aula 3 (B1+), a família visita a Cité du Vin, o museu do vinho às margens da Garonne. Irlan propõe uma degustação com cortesia: 'nous pourrions déguster un grand cru'. O aluno aprende o Conditionnel Présent de sugestão e o vocabulário da degustação: la robe, le bouquet, le terroir.",
+  "summaryPt": "Nesta Aula 3 (B1+), o casal visita a Cité du Vin, o museu do vinho às margens da Garonne. Irlan propõe uma degustação com cortesia: 'nous pourrions déguster un grand cru'. O aluno aprende o Conditionnel Présent de sugestão e o vocabulário da degustação: la robe, le bouquet, le terroir.",
   "paragraphs": [
     {
       "id": 1,
@@ -16,8 +16,8 @@
     },
     {
       "id": 2,
-      "fr": "Au huitième étage, le belvédère offre une vue magnifique sur Bordeaux. « Regarde, papa, on voit toute la ville ! » a crié Iris en courant vers la fenêtre.",
-      "pt": "No oitavo andar, o mirante oferece uma vista magnífica de Bordeaux. « Olha, papai, dá para ver a cidade inteira! » gritou Íris correndo para a janela."
+      "fr": "Au huitième étage, le belvédère offre une vue magnifique sur Bordeaux. « On voit toute la ville, et le fleuve qui la coupe en deux », a dit Andréa. Irlan a murmuré : « C'est une carte vivante. »",
+      "pt": "No oitavo andar, o mirante oferece uma vista magnífica de Bordeaux. « Dá para ver a cidade inteira e o rio que a corta ao meio », disse Andréa. Irlan murmurou: « É um mapa vivo. »"
     },
     {
       "id": 3,
@@ -26,8 +26,23 @@
     },
     {
       "id": 4,
-      "fr": "Iris a fait semblant de déguster comme une grande. Andréa a ri : « Ma petite somnellière ! Demain, nous pourrions visiter un vrai château dans le Médoc. » Irlan a approuvé : « Excellente idée. »",
-      "pt": "Íris fingiu degustar como gente grande. Andréa riu: « Minha pequena sommelière! Amanhã, poderíamos visitar um verdadeiro castelo no Médoc. » Irlan aprovou: « Excelente ideia. »"
+      "fr": "Andréa a dégusté avec attention. Irlan a ri : « Ma petite sommelière ! Demain, nous pourrions visiter un vrai château dans le Médoc. » Andréa a approuvé : « Excellente idée. »",
+      "pt": "Andréa degustou com atenção. Irlan riu: « Minha pequena sommelière! Amanhã, poderíamos visitar um verdadeiro castelo no Médoc. » Andréa aprovou: « Excelente ideia. »"
+    }
+    ,{
+      "id": 5,
+      "fr": "Le sommelier explique que chaque cépage donne une personnalité différente au vin. Irlan écoute avec attention.",
+      "pt": "O sommelier explica que cada variedade de uva dá uma personalidade diferente ao vinho. Irlan escuta com atenção."
+    },
+    {
+      "id": 6,
+      "fr": "Andréa goûte un second verre. « Le terroir est considérable, mais le vocabulaire reste approximatif pour une débutante », admet-elle.",
+      "pt": "Andréa prova uma segunda taça. O terroir é considerável, mas o vocabulário continua aproximado para uma iniciante, admite ela."
+    },
+    {
+      "id": 7,
+      "fr": "Dans l'onglet de son application, Irlan note l'appellation et le millésime. Il veut identifier la bouteille plus tard.",
+      "pt": "Na aba de seu aplicativo, Irlan anota a denominação e a safra. Ele quer identificar a garrafa mais tarde."
     }
   ],
   "vocabularyDictionary": [
@@ -208,10 +223,10 @@
       },
       {
         "ruleTitle": "Le conditionnel de 'faire semblant'",
-        "explanationPt": "'Faire semblant de' = fingir: 'Iris a fait semblant de déguster comme une grande' (Íris fingiu degustar como gente grande).",
-        "exampleFr": "Iris a fait semblant de déguster comme une grande.",
-        "examplePt": "Íris fingiu degustar como gente grande.",
-        "practiceQuestion": "Complete: « Iris a fait ___ de déguster. »",
+        "explanationPt": "'Faire semblant de' = fingir: 'Irlan a fait semblant de connaître le langage du vin' (Irlan fingiu conhecer a linguagem do vinho).",
+        "exampleFr": "Irlan a fait semblant de connaître le langage du vin.",
+        "examplePt": "Irlan fingiu conhecer a linguagem do vinho.",
+        "practiceQuestion": "Complete: « Irlan a fait ___ de connaître le langage du vin. »",
         "options": ["semblant", "semblance", "sembler"],
         "correctIndex": 0
       }
@@ -243,7 +258,7 @@
       "explanation": "Sugestão cortês: nous pourrions déguster."
     },
     {
-      "question": "O que a família planeja fazer amanhã?",
+      "question": "O que o casal planeja fazer amanhã?",
       "options": ["visitar um castelo no Médoc", "ir à praia", "voltar a Paris"],
       "correctIndex": 0,
       "explanation": "Andréa propõe visitar um vrai château dans le Médoc."

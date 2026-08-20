@@ -21,8 +21,8 @@
     },
     {
       "id": 3,
-      "fr": "La salle des martyrs abrite une grande œuvre de Picasso, offerte par l'artiste en personne. « Tu aurais adoré cette histoire, dit Andréa. Un peintre qui offre son tableau pour la paix. » Íris resta bouche bée devant la toile immense.",
-      "pt": "A sala dos mártires abriga uma grande obra de Picasso, oferecida pelo próprio artista. « Você teria adorado essa história, disse Andréa. Um pintor que oferece seu quadro pela paz. » Íris ficou de boca aberta diante da tela imensa."
+      "fr": "La salle des martyrs abrite une grande œuvre de Picasso, offerte par l'artiste en personne. « Tu aurais adoré cette histoire, dit Andréa. Un peintre qui offre son tableau pour la paix. » Andréa resta bouche bée devant la toile immense.",
+      "pt": "A sala dos mártires abriga uma grande obra de Picasso, oferecida pelo próprio artista. « Você teria adorado essa história, disse Andréa. Um pintor que oferece seu quadro pela paz. » Andréa ficou de boca aberta diante da tela imensa."
     },
     {
       "id": 4,
@@ -33,6 +33,16 @@
       "id": 5,
       "fr": "Dehors, face au pont Saint-Pierre, Irlan conclut : « À Toulouse, on n'oublie rien : on transforme. Un abattoir devient un musée, un livreur devient un géographe. Tout est une question de regard. »",
       "pt": "Lá fora, diante da ponte Saint-Pierre, Irlan concluiu: « Em Toulouse, não se esquece nada: transforma-se. Um matadouro vira museu, um entregador vira geógrafo. Tudo é uma questão de olhar. »"
+    },
+    {
+      "id": 6,
+      "fr": "Aux Abattoirs, une œuvre avant-gardiste provoquait une réaction immédiate. Andréa a rappelé que le jugement artistique restait subjectif, même lorsqu'une critique semblait éloquente.",
+      "pt": "No centro de arte, uma obra vanguardista provocava uma reação imediata. Andréa lembrou que o julgamento artístico continuava subjetivo, mesmo quando uma crítica parecia eloquente."
+    },
+    {
+      "id": 7,
+      "fr": "Le guide a refusé de censurer une interprétation dérangeante. Il a préféré présenter le contexte et laisser chaque visiteur discerner le sens de l'œuvre.",
+      "pt": "O guia se recusou a censurar uma interpretação incômoda. Preferiu apresentar o contexto e deixar cada visitante discernir o sentido da obra."
     }
   ],
   "vocabularyDictionary": [
@@ -97,7 +107,7 @@
       "examples": [
         { "level": "A1", "fr": "La toile est grande.", "pt": "A tela é grande." },
         { "level": "A2-B1", "fr": "La toile de Picasso est célèbre.", "pt": "A tela de Picasso é famosa." },
-        { "level": "B2", "fr": "Íris resta bouche bée devant la toile immense.", "pt": "Íris ficou de boca aberta diante da tela imensa." },
+        { "level": "B2", "fr": "Andréa resta bouche bée devant la toile immense.", "pt": "Andréa ficou de boca aberta diante da tela imensa." },
         { "level": "C1-C2", "fr": "La toile dialogue avec l'architecture brute de l'ancien abattoir.", "pt": "A tela dialoga com a arquitetura bruta do antigo matadouro." }
       ]
     },

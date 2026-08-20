@@ -7,7 +7,7 @@
   "titlePt": "O castelo de Chenonceau: o castelo das Damas",
   "subtitleFr": "Un château qui enjambe le Cher et des jardins plus beaux les uns que les autres",
   "subtitlePt": "Um castelo que atravessa o Cher e jardins mais belos uns que os outros",
-  "summaryPt": "Nesta Aula 3 (B1), a família visita o castelo de Chenonceau, construído sobre o rio Cher e conhecido como o castelo das Damas, por causa das mulheres que o marcaram, como Diane de Poitiers e Catarina de Médici. O aluno aprende os comparativos (plus grand que, moins connu que, aussi beau que) e o pronome relativo 'où'.",
+  "summaryPt": "Nesta Aula 3 (B1), o casal visita o castelo de Chenonceau, construído sobre o rio Cher e conhecido como o castelo das Damas, por causa das mulheres que o marcaram, como Diane de Poitiers e Catarina de Médici. Irlan descobre que, nas guerras, livros foram escondidos na galeria do castelo — e alguém na saída pergunta pelo geógrafo brasileiro. O aluno aprende os comparativos (plus grand que, moins connu que, aussi beau que) e o pronome relativo 'où'.",
   "paragraphs": [
     {
       "id": 1,
@@ -21,13 +21,28 @@
     },
     {
       "id": 3,
-      "fr": "Andréa a dit : « La salle où les reines recevaient leurs invités est magnifique. » Íris a couru dans la galerie en regardant l'eau sous ses pieds.",
-      "pt": "Andréa disse: « A sala onde as rainhas recebiam seus convidados é magnífica. » Íris correu pela galeria olhando a água sob seus pés."
+      "fr": "Andréa a dit : « La salle où les reines recevaient leurs invités est magnifique. » Irlan a regardé l'eau sous ses pieds : « Pendant les guerres, on a caché des livres dans cette galerie », a-t-il raconté. « La bibliothèque de Catherine de Médicis est passée par ici. »",
+      "pt": "Andréa disse: « A sala onde as rainhas recebiam seus convidados é magnífica. » Irlan olhou a água sob seus pés: « Durante as guerras, esconderam livros nesta galeria », contou. « A biblioteca de Catarina de Médici passou por aqui. »"
     },
     {
       "id": 4,
-      "fr": "Le parc, moins connu que le château, est pourtant adorable. « Nous ferons une promenade en barque demain », a promis Irlan.",
-      "pt": "O parque, menos conhecido que o castelo, é no entanto adorável. « Faremos um passeio de barco amanhã », prometeu Irlan."
+      "fr": "Le parc, moins connu que le château, est pourtant adorable. « Nous ferons une promenade en barque demain », a promis Irlan. À la sortie, un homme a demandé à l'entrée : « Le géographe brésilien est-il déjà venu ? » La personne au guichet n'a pas compris la question.",
+      "pt": "O parque, menos conhecido que o castelo, é no entanto adorável. « Faremos um passeio de barco amanhã », prometeu Irlan. Na saída, um homem perguntou na entrada: « O geógrafo brasileiro já veio? » A pessoa na bilheteria não entendeu a pergunta."
+    },
+    {
+      "id": 5,
+      "fr": "Chenonceau est un château culinaire et délicat. Irlan décrit les jardins dans son atlas avec précision.",
+      "pt": "Chenonceau é um château culinário e delicado. Irlan descreve os jardins em seu atlas com precisão."
+    },
+    {
+      "id": 6,
+      "fr": "Andréa détaille les fleurs du jardin de Diane. « Il faut collectionner les châteaux, c'est notre objectif », dit-elle.",
+      "pt": "Andréa detalha as flores do jardim de Diane. É preciso colecionar os châteaux, é nosso objetivo, diz ela."
+    },
+    {
+      "id": 7,
+      "fr": "Irlan note une idée dans l'Atlas. Il promet de publier un article un jour, dans un magazine de voyage.",
+      "pt": "Irlan anota uma ideia no Atlas. Ele promete publicar um artigo um dia, numa revista de viagem."
     }
   ],
   "vocabularyDictionary": [
@@ -35,156 +50,409 @@
       "term": "le château",
       "definitionPt": "o castelo",
       "definitionFr": "Grande résidence, souvent historique.",
-      "inflections": ["le château", "les châteaux"],
-      "ptTargets": ["castelo"],
+      "inflections": [
+        "le château",
+        "les châteaux"
+      ],
+      "ptTargets": [
+        "castelo"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le château est grand.", "pt": "O castelo é grande." },
-        { "level": "A2-B1", "fr": "Le château de Chenonceau est très célèbre.", "pt": "O castelo de Chenonceau é muito famoso." },
-        { "level": "B2", "fr": "Les châteaux de la Loire sont plus nombreux qu'ailleurs en France.", "pt": "Os castelos do Loire são mais numerosos do que em qualquer outro lugar da França." },
-        { "level": "C1-C2", "fr": "Les châteaux de la Loire incarnent le raffinement de la Renaissance française.", "pt": "Os castelos do Loire encarnam o refinamento da Renascença francesa." }
+        {
+          "level": "A1",
+          "fr": "Le château est grand.",
+          "pt": "O castelo é grande."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Le château de Chenonceau est très célèbre.",
+          "pt": "O castelo de Chenonceau é muito famoso."
+        },
+        {
+          "level": "B2",
+          "fr": "Les châteaux de la Loire sont plus nombreux qu'ailleurs en France.",
+          "pt": "Os castelos do Loire são mais numerosos do que em qualquer outro lugar da França."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Les châteaux de la Loire incarnent le raffinement de la Renaissance française.",
+          "pt": "Os castelos do Loire encarnam o refinamento da Renascença francesa."
+        }
       ]
     },
     {
       "term": "la rivière",
       "definitionPt": "o rio",
       "definitionFr": "Cours d'eau.",
-      "inflections": ["la rivière", "les rivières"],
-      "ptTargets": ["rio"],
+      "inflections": [
+        "la rivière",
+        "les rivières"
+      ],
+      "ptTargets": [
+        "rio"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La rivière est calme.", "pt": "O rio é calmo." },
-        { "level": "A2-B1", "fr": "Le Cher est la rivière de Chenonceau.", "pt": "O Cher é o rio de Chenonceau." },
-        { "level": "B2", "fr": "La galerie du château enjambe la rivière.", "pt": "A galeria do castelo atravessa o rio." },
-        { "level": "C1-C2", "fr": "La rivière, qui passe sous le château, crée un reflet saisissant.", "pt": "O rio, que passa sob o castelo, cria um reflexo impressionante." }
+        {
+          "level": "A1",
+          "fr": "La rivière est calme.",
+          "pt": "O rio é calmo."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Le Cher est la rivière de Chenonceau.",
+          "pt": "O Cher é o rio de Chenonceau."
+        },
+        {
+          "level": "B2",
+          "fr": "La galerie du château enjambe la rivière.",
+          "pt": "A galeria do castelo atravessa o rio."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "La rivière, qui passe sous le château, crée un reflet saisissant.",
+          "pt": "O rio, que passa sob o castelo, cria um reflexo impressionante."
+        }
       ]
     },
     {
       "term": "le Cher",
       "definitionPt": "o Cher (rio)",
       "definitionFr": "Rivière qui traverse la Touraine.",
-      "inflections": ["le Cher"],
-      "ptTargets": ["Cher"],
+      "inflections": [
+        "le Cher"
+      ],
+      "ptTargets": [
+        "Cher"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le Cher est une rivière.", "pt": "O Cher é um rio." },
-        { "level": "A2-B1", "fr": "Chenonceau est construit sur le Cher.", "pt": "Chenonceau é construído sobre o Cher." },
-        { "level": "B2", "fr": "Le Cher, qui se jette dans la Loire, arrose les jardins du château.", "pt": "O Cher, que deságua no Loire, banha os jardins do castelo." },
-        { "level": "C1-C2", "fr": "La vallée du Cher est un paysage emblématique de la Touraine historique.", "pt": "O vale do Cher é uma paisagem emblemática da Touraine histórica." }
+        {
+          "level": "A1",
+          "fr": "Le Cher est une rivière.",
+          "pt": "O Cher é um rio."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Chenonceau est construit sur le Cher.",
+          "pt": "Chenonceau é construído sobre o Cher."
+        },
+        {
+          "level": "B2",
+          "fr": "Le Cher, qui se jette dans la Loire, arrose les jardins du château.",
+          "pt": "O Cher, que deságua no Loire, banha os jardins do castelo."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "La vallée du Cher est un paysage emblématique de la Touraine historique.",
+          "pt": "O vale do Cher é uma paisagem emblemática da Touraine histórica."
+        }
       ]
     },
     {
       "term": "la galerie",
       "definitionPt": "a galeria",
       "definitionFr": "Longue pièce ou passage.",
-      "inflections": ["la galerie", "les galeries"],
-      "ptTargets": ["galeria"],
+      "inflections": [
+        "la galerie",
+        "les galeries"
+      ],
+      "ptTargets": [
+        "galeria"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La galerie est longue.", "pt": "A galeria é comprida." },
-        { "level": "A2-B1", "fr": "La galerie de Chenonceau est célèbre dans le monde.", "pt": "A galeria de Chenonceau é famosa no mundo." },
-        { "level": "B2", "fr": "La galerie, qui enjambe le Cher, offre une vue unique.", "pt": "A galeria, que atravessa o Cher, oferece uma vista única." },
-        { "level": "C1-C2", "fr": "La galerie sur pilotis de Chenonceau est une prouesse architecturale de la Renaissance.", "pt": "A galeria sobre pilotis de Chenonceau é uma proeza arquitetônica da Renascença." }
+        {
+          "level": "A1",
+          "fr": "La galerie est longue.",
+          "pt": "A galeria é comprida."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "La galerie de Chenonceau est célèbre dans le monde.",
+          "pt": "A galeria de Chenonceau é famosa no mundo."
+        },
+        {
+          "level": "B2",
+          "fr": "La galerie, qui enjambe le Cher, offre une vue unique.",
+          "pt": "A galeria, que atravessa o Cher, oferece uma vista única."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "La galerie sur pilotis de Chenonceau est une prouesse architecturale de la Renaissance.",
+          "pt": "A galeria sobre pilotis de Chenonceau é uma proeza arquitetônica da Renascença."
+        }
       ]
     },
     {
       "term": "la chapelle",
       "definitionPt": "a capela",
       "definitionFr": "Petite église.",
-      "inflections": ["la chapelle", "les chapelles"],
-      "ptTargets": ["capela"],
+      "inflections": [
+        "la chapelle",
+        "les chapelles"
+      ],
+      "ptTargets": [
+        "capela"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La chapelle est petite.", "pt": "A capela é pequena." },
-        { "level": "A2-B1", "fr": "La chapelle du château est décorée de fresques.", "pt": "A capela do castelo é decorada com afrescos." },
-        { "level": "B2", "fr": "La chapelle, que Catherine de Médicis aimait, est très belle.", "pt": "A capela, que Catarina de Médici amava, é muito bela." },
-        { "level": "C1-C2", "fr": "Les chapelles privées des châteaux témoignent de la piété de la noblesse.", "pt": "As capelas privadas dos castelos testemunham a piedade da nobreza." }
+        {
+          "level": "A1",
+          "fr": "La chapelle est petite.",
+          "pt": "A capela é pequena."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "La chapelle du château est décorée de fresques.",
+          "pt": "A capela do castelo é decorada com afrescos."
+        },
+        {
+          "level": "B2",
+          "fr": "La chapelle, que Catherine de Médicis aimait, est très belle.",
+          "pt": "A capela, que Catarina de Médici amava, é muito bela."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Les chapelles privées des châteaux témoignent de la piété de la noblesse.",
+          "pt": "As capelas privadas dos castelos testemunham a piedade da nobreza."
+        }
       ]
     },
     {
       "term": "la forêt",
       "definitionPt": "a floresta",
       "definitionFr": "Grande étendue d'arbres.",
-      "inflections": ["la forêt", "les forêts"],
-      "ptTargets": ["floresta"],
+      "inflections": [
+        "la forêt",
+        "les forêts"
+      ],
+      "ptTargets": [
+        "floresta"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La forêt est grande.", "pt": "A floresta é grande." },
-        { "level": "A2-B1", "fr": "La forêt entoure le château.", "pt": "A floresta cerca o castelo." },
-        { "level": "B2", "fr": "La forêt, qui servait à la chasse, s'étend à perte de vue.", "pt": "A floresta, que servia à caça, estende-se até onde a vista alcança." },
-        { "level": "C1-C2", "fr": "Les forêts royales étaient des territoires réservés, chargés de symboles.", "pt": "As florestas reais eram territórios reservados, carregados de símbolos." }
+        {
+          "level": "A1",
+          "fr": "La forêt est grande.",
+          "pt": "A floresta é grande."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "La forêt entoure le château.",
+          "pt": "A floresta cerca o castelo."
+        },
+        {
+          "level": "B2",
+          "fr": "La forêt, qui servait à la chasse, s'étend à perte de vue.",
+          "pt": "A floresta, que servia à caça, estende-se até onde a vista alcança."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Les forêts royales étaient des territoires réservés, chargés de symboles.",
+          "pt": "As florestas reais eram territórios reservados, carregados de símbolos."
+        }
       ]
     },
     {
       "term": "le parc",
       "definitionPt": "o parque",
       "definitionFr": "Espace vert aménagé.",
-      "inflections": ["le parc", "les parcs"],
-      "ptTargets": ["parque"],
+      "inflections": [
+        "le parc",
+        "les parcs"
+      ],
+      "ptTargets": [
+        "parque"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le parc est vert.", "pt": "O parque é verde." },
-        { "level": "A2-B1", "fr": "Le parc du château est immense.", "pt": "O parque do castelo é imenso." },
-        { "level": "B2", "fr": "Le parc, moins connu que le château, est pourtant magnifique.", "pt": "O parque, menos conhecido que o castelo, é no entanto magnífico." },
-        { "level": "C1-C2", "fr": "Les parcs des châteaux combinent art paysager et agriculture élégante.", "pt": "Os parques dos castelos combinam arte paisagística e agricultura elegante." }
+        {
+          "level": "A1",
+          "fr": "Le parc est vert.",
+          "pt": "O parque é verde."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Le parc du château est immense.",
+          "pt": "O parque do castelo é imenso."
+        },
+        {
+          "level": "B2",
+          "fr": "Le parc, moins connu que le château, est pourtant magnifique.",
+          "pt": "O parque, menos conhecido que o castelo, é no entanto magnífico."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Les parcs des châteaux combinent art paysager et agriculture élégante.",
+          "pt": "Os parques dos castelos combinam arte paisagística e agricultura elegante."
+        }
       ]
     },
     {
       "term": "la Dame",
       "definitionPt": "a dama",
       "definitionFr": "Femme de la noblesse, dame.",
-      "inflections": ["la dame", "les dames"],
-      "ptTargets": ["dama"],
+      "inflections": [
+        "la dame",
+        "les dames"
+      ],
+      "ptTargets": [
+        "dama"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La dame est élégante.", "pt": "A dama é elegante." },
-        { "level": "A2-B1", "fr": "Chenonceau est appelé le château des Dames.", "pt": "Chenonceau é chamado de castelo das Damas." },
-        { "level": "B2", "fr": "Les Dames qui ont marqué Chenonceau étaient puissantes.", "pt": "As Damas que marcaram Chenonceau eram poderosas." },
-        { "level": "C1-C2", "fr": "L'histoire du château des Dames illustre le rôle politique des femmes à la Renaissance.", "pt": "A história do castelo das Damas ilustra o papel político das mulheres na Renascença." }
+        {
+          "level": "A1",
+          "fr": "La dame est élégante.",
+          "pt": "A dama é elegante."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Chenonceau est appelé le château des Dames.",
+          "pt": "Chenonceau é chamado de castelo das Damas."
+        },
+        {
+          "level": "B2",
+          "fr": "Les Dames qui ont marqué Chenonceau étaient puissantes.",
+          "pt": "As Damas que marcaram Chenonceau eram poderosas."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "L'histoire du château des Dames illustre le rôle politique des femmes à la Renaissance.",
+          "pt": "A história do castelo das Damas ilustra o papel político das mulheres na Renascença."
+        }
       ]
     },
     {
       "term": "la reine",
       "definitionPt": "a rainha",
       "definitionFr": "Souveraine d'un royaume.",
-      "inflections": ["la reine", "les reines"],
-      "ptTargets": ["rainha"],
+      "inflections": [
+        "la reine",
+        "les reines"
+      ],
+      "ptTargets": [
+        "rainha"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La reine est riche.", "pt": "A rainha é rica." },
-        { "level": "A2-B1", "fr": "Catherine de Médicis était reine de France.", "pt": "Catarina de Médici era rainha da França." },
-        { "level": "B2", "fr": "La reine, qui recevait ses invités dans la galerie, adorait Chenonceau.", "pt": "A rainha, que recebia seus convidados na galeria, adorava Chenonceau." },
-        { "level": "C1-C2", "fr": "Le mécénat des reines a façonné l'art et l'architecture de la Renaissance.", "pt": "O mecenato das rainhas moldou a arte e a arquitetura da Renascença." }
+        {
+          "level": "A1",
+          "fr": "La reine est riche.",
+          "pt": "A rainha é rica."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Catherine de Médicis était reine de France.",
+          "pt": "Catarina de Médici era rainha da França."
+        },
+        {
+          "level": "B2",
+          "fr": "La reine, qui recevait ses invités dans la galerie, adorait Chenonceau.",
+          "pt": "A rainha, que recebia seus convidados na galeria, adorava Chenonceau."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Le mécénat des reines a façonné l'art et l'architecture de la Renaissance.",
+          "pt": "O mecenato das rainhas moldou a arte e a arquitetura da Renascença."
+        }
       ]
     },
     {
       "term": "élégant",
       "definitionPt": "elegante",
       "definitionFr": "Qui a du raffinement, de la grâce.",
-      "inflections": ["élégant", "élégante", "élégants"],
-      "ptTargets": ["elegante"],
+      "inflections": [
+        "élégant",
+        "élégante",
+        "élégants"
+      ],
+      "ptTargets": [
+        "elegante"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La robe est élégante.", "pt": "O vestido é elegante." },
-        { "level": "A2-B1", "fr": "Chenonceau est plus élégant que les autres châteaux.", "pt": "Chenonceau é mais elegante que os outros castelos." },
-        { "level": "B2", "fr": "La galerie élégante surplombe l'eau avec grâce.", "pt": "A galeria elegante domina a água com graça." },
-        { "level": "C1-C2", "fr": "L'élégance de Chenonceau réside dans l'harmonie entre l'architecture et l'eau.", "pt": "A elegância de Chenonceau reside na harmonia entre a arquitetura e a água." }
+        {
+          "level": "A1",
+          "fr": "La robe est élégante.",
+          "pt": "O vestido é elegante."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Chenonceau est plus élégant que les autres châteaux.",
+          "pt": "Chenonceau é mais elegante que os outros castelos."
+        },
+        {
+          "level": "B2",
+          "fr": "La galerie élégante surplombe l'eau avec grâce.",
+          "pt": "A galeria elegante domina a água com graça."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "L'élégance de Chenonceau réside dans l'harmonie entre l'architecture et l'eau.",
+          "pt": "A elegância de Chenonceau reside na harmonia entre a arquitetura e a água."
+        }
       ]
     },
     {
       "term": "romantique",
       "definitionPt": "romântico",
       "definitionFr": "Qui évoque l'amour et la beauté.",
-      "inflections": ["romantique", "romantiques"],
-      "ptTargets": ["romântico"],
+      "inflections": [
+        "romantique",
+        "romantiques"
+      ],
+      "ptTargets": [
+        "romântico"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le film est romantique.", "pt": "O filme é romântico." },
-        { "level": "A2-B1", "fr": "Chenonceau est un château très romantique.", "pt": "Chenonceau é um castelo muito romântico." },
-        { "level": "B2", "fr": "Le reflet du château dans l'eau crée une atmosphère romantique.", "pt": "O reflexo do castelo na água cria uma atmosfera romântica." },
-        { "level": "C1-C2", "fr": "Le romantisme de Chenonceau a inspiré poètes et peintres du XIXe siècle.", "pt": "O romantismo de Chenonceau inspirou poetas e pintores do século XIX." }
+        {
+          "level": "A1",
+          "fr": "Le film est romantique.",
+          "pt": "O filme é romântico."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Chenonceau est un château très romantique.",
+          "pt": "Chenonceau é um castelo muito romântico."
+        },
+        {
+          "level": "B2",
+          "fr": "Le reflet du château dans l'eau crée une atmosphère romantique.",
+          "pt": "O reflexo do castelo na água cria uma atmosfera romântica."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Le romantisme de Chenonceau a inspiré poètes et peintres du XIXe siècle.",
+          "pt": "O romantismo de Chenonceau inspirou poetas e pintores do século XIX."
+        }
       ]
     },
     {
       "term": "traverser",
       "definitionPt": "atravessar",
       "definitionFr": "Passer d'un côté à l'autre.",
-      "inflections": ["je traverse", "nous traversons", "traversé"],
-      "ptTargets": ["atravessar"],
+      "inflections": [
+        "je traverse",
+        "nous traversons",
+        "traversé"
+      ],
+      "ptTargets": [
+        "atravessar"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Je traverse la rue.", "pt": "Eu atravesso a rua." },
-        { "level": "A2-B1", "fr": "La galerie traverse le Cher.", "pt": "A galeria atravessa o Cher." },
-        { "level": "B2", "fr": "Nous avons traversé la rivière à bord d'une barque.", "pt": "Atravessamos o rio a bordo de um barco." },
-        { "level": "C1-C2", "fr": "Traverser la France par la vallée de la Loire, c'est suivre l'histoire.", "pt": "Atravessar a França pelo vale do Loire é seguir a história." }
+        {
+          "level": "A1",
+          "fr": "Je traverse la rue.",
+          "pt": "Eu atravesso a rua."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "La galerie traverse le Cher.",
+          "pt": "A galeria atravessa o Cher."
+        },
+        {
+          "level": "B2",
+          "fr": "Nous avons traversé la rivière à bord d'une barque.",
+          "pt": "Atravessamos o rio a bordo de um barco."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Traverser la France par la vallée de la Loire, c'est suivre l'histoire.",
+          "pt": "Atravessar a França pelo vale do Loire é seguir a história."
+        }
       ]
     }
   ],
@@ -194,7 +462,11 @@
     "exampleFr": "Chenonceau est plus élégant que les autres châteaux.",
     "examplePt": "Chenonceau é mais elegante que os outros castelos.",
     "practiceQuestion": "Complete: « Le parc est moins ___ que le château. »",
-    "options": ["connu", "connaître", "connais"],
+    "options": [
+      "connu",
+      "connaître",
+      "connais"
+    ],
     "correctIndex": 0,
     "points": [
       {
@@ -203,7 +475,11 @@
         "exampleFr": "Ce jardin est aussi beau que l'autre.",
         "examplePt": "Este jardim é tão bonito quanto o outro.",
         "practiceQuestion": "Qual frase é um comparativo de igualdade?",
-        "options": ["aussi beau que", "plus beau que", "moins beau que"],
+        "options": [
+          "aussi beau que",
+          "plus beau que",
+          "moins beau que"
+        ],
         "correctIndex": 0
       },
       {
@@ -212,7 +488,11 @@
         "exampleFr": "La salle où les reines recevaient leurs invités est magnifique.",
         "examplePt": "A sala onde as rainhas recebiam seus convidados é magnífica.",
         "practiceQuestion": "Complete: « Le château ___ nous sommes allés est célèbre. »",
-        "options": ["où", "qui", "que"],
+        "options": [
+          "où",
+          "qui",
+          "que"
+        ],
         "correctIndex": 0
       }
     ]
@@ -220,31 +500,51 @@
   "quizQuestions": [
     {
       "question": "Por que Chenonceau é chamado de castelo das Damas?",
-      "options": ["por causa de mulheres como Diane de Poitiers e Catarina de Médici", "porque tem muitas estátuas", "por causa das rainhas de hoje"],
+      "options": [
+        "por causa de mulheres como Diane de Poitiers e Catarina de Médici",
+        "porque tem muitas estátuas",
+        "por causa das rainhas de hoje"
+      ],
       "correctIndex": 0,
       "explanation": "Diane de Poitiers e Catherine de Médicis marcaram a história do castelo."
     },
     {
       "question": "Sobre qual rio o castelo de Chenonceau foi construído?",
-      "options": ["o Cher", "o Loire", "o Sena"],
+      "options": [
+        "o Cher",
+        "o Loire",
+        "o Sena"
+      ],
       "correctIndex": 0,
       "explanation": "A galeria de Chenonceau atravessa o rio Cher."
     },
     {
       "question": "Complete: « Chenonceau est plus ___ que les autres châteaux. »",
-      "options": ["élégant", "élégance", "élégamment"],
+      "options": [
+        "élégant",
+        "élégance",
+        "élégamment"
+      ],
       "correctIndex": 0,
       "explanation": "Comparativo: plus + adjectif + que."
     },
     {
       "question": "Complete: « La salle ___ les reines recevaient est magnifique. »",
-      "options": ["où", "qui", "que"],
+      "options": [
+        "où",
+        "qui",
+        "que"
+      ],
       "correctIndex": 0,
       "explanation": "'Où' indica o lugar: a sala onde as rainhas recebiam."
     },
     {
       "question": "O que Irlan prometeu para o dia seguinte?",
-      "options": ["uma promenade em barque", "uma visita ao Louvre", "um jogo de futebol"],
+      "options": [
+        "uma promenade em barque",
+        "uma visita ao Louvre",
+        "um jogo de futebol"
+      ],
       "correctIndex": 0,
       "explanation": "Irlan prometeu: 'Nous ferons une promenade en barque demain'."
     }

@@ -68,6 +68,21 @@
       "id": 12,
       "fr": "« Je ne sais pas encore », répond Irlan. « Mais quelqu'un a construit cette cathédrale pour qu'on les voie. »",
       "pt": "«Ainda não sei», responde Irlan. «Mas alguém construiu esta catedral para que a gente os visse.»"
+    },
+    {
+      "id": 13,
+      "fr": "Sur le sol de la nef, une brosse à dents géante est posée comme un arte contemporain. Andréa rit : « C'est pour nettoyer les péchés ».",
+      "pt": "No chão da nave, uma escova de dentes gigante está colocada como arte contemporânea. Andréa ri: É para limpar os pecados."
+    },
+    {
+      "id": 14,
+      "fr": "Irlan remarque un robinet d'eau au coin du transept. Le carrelage ancien brille sous la lumière du vitrail.",
+      "pt": "Irlan observa uma torneira de água no canto do transepto. O azulejo antigo brilha sob a luz do vitral."
+    },
+    {
+      "id": 15,
+      "fr": "« Le dentifrice de la cathédrale, c'est la lumière », dit Irlan en riant. Andréa hoche la tête : « Et la brosse, c'est le temps ».",
+      "pt": "O creme dental da catedral é a luz, diz Irlan rindo. Andréa assente: E a escova é o tempo."
     }
   ],
   "vocabularyDictionary": [
@@ -75,156 +90,416 @@
       "term": "l'intérieur",
       "definitionPt": "o interior",
       "definitionFr": "Partie de dedans.",
-      "inflections": ["l'intérieur", "un intérieur"],
-      "ptTargets": ["interior"],
+      "inflections": [
+        "l'intérieur",
+        "un intérieur"
+      ],
+      "ptTargets": [
+        "interior"
+      ],
       "examples": [
-        { "level": "A1", "fr": "L'intérieur est grand.", "pt": "O interior é grande." },
-        { "level": "A2-B1", "fr": "L'intérieur de la cathédrale est silencieux.", "pt": "O interior da catedral é silencioso." },
-        { "level": "B2", "fr": "L'intérieur de l'église est baigné de lumière colorée.", "pt": "O interior da igreja é banhado de luz colorida." },
-        { "level": "C1-C2", "fr": "C'est l'intérieur qui, par sa hauteur, invite au recueillement.", "pt": "É o interior que, por sua altura, convida ao recolhimento." }
+        {
+          "level": "A1",
+          "fr": "L'intérieur est grand.",
+          "pt": "O interior é grande."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "L'intérieur de la cathédrale est silencieux.",
+          "pt": "O interior da catedral é silencioso."
+        },
+        {
+          "level": "B2",
+          "fr": "L'intérieur de l'église est baigné de lumière colorée.",
+          "pt": "O interior da igreja é banhado de luz colorida."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est l'intérieur qui, par sa hauteur, invite au recueillement.",
+          "pt": "É o interior que, por sua altura, convida ao recolhimento."
+        }
       ]
     },
     {
       "term": "la nef",
       "definitionPt": "a nave (da igreja)",
       "definitionFr": "Partie centrale d'une église.",
-      "inflections": ["la nef", "une nef", "des nefs"],
-      "ptTargets": ["nave"],
+      "inflections": [
+        "la nef",
+        "une nef",
+        "des nefs"
+      ],
+      "ptTargets": [
+        "nave"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La nef est haute.", "pt": "A nave é alta." },
-        { "level": "A2-B1", "fr": "La nef s'élève très haut.", "pt": "A nave se eleva bem alto." },
-        { "level": "B2", "fr": "La nef gothique impressionne par sa hauteur.", "pt": "A nave gótica impressiona pela altura." },
-        { "level": "C1-C2", "fr": "C'est la nef qui, d'un seul regard, élève l'âme du visiteur.", "pt": "É a nave que, num só olhar, eleva a alma do visitante." }
+        {
+          "level": "A1",
+          "fr": "La nef est haute.",
+          "pt": "A nave é alta."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "La nef s'élève très haut.",
+          "pt": "A nave se eleva bem alto."
+        },
+        {
+          "level": "B2",
+          "fr": "La nef gothique impressionne par sa hauteur.",
+          "pt": "A nave gótica impressiona pela altura."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est la nef qui, d'un seul regard, élève l'âme du visiteur.",
+          "pt": "É a nave que, num só olhar, eleva a alma do visitante."
+        }
       ]
     },
     {
       "term": "le pilier",
       "definitionPt": "o pilar",
       "definitionFr": "Colonne qui soutient un bâtiment.",
-      "inflections": ["le pilier", "un pilier", "des piliers"],
-      "ptTargets": ["pilar"],
+      "inflections": [
+        "le pilier",
+        "un pilier",
+        "des piliers"
+      ],
+      "ptTargets": [
+        "pilar"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le pilier est solide.", "pt": "O pilar é sólido." },
-        { "level": "A2-B1", "fr": "Les piliers montent vers la voûte.", "pt": "Os pilares sobem até a abóbada." },
-        { "level": "B2", "fr": "Les piliers de pierre soutiennent la voûte gothique.", "pt": "Os pilares de pedra sustentam a abóbada gótica." },
-        { "level": "C1-C2", "fr": "C'est le pilier qui, discret, porte le poids de toute une cathédrale.", "pt": "É o pilar que, discreto, carrega o peso de toda uma catedral." }
+        {
+          "level": "A1",
+          "fr": "Le pilier est solide.",
+          "pt": "O pilar é sólido."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Les piliers montent vers la voûte.",
+          "pt": "Os pilares sobem até a abóbada."
+        },
+        {
+          "level": "B2",
+          "fr": "Les piliers de pierre soutiennent la voûte gothique.",
+          "pt": "Os pilares de pedra sustentam a abóbada gótica."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est le pilier qui, discret, porte le poids de toute une cathédrale.",
+          "pt": "É o pilar que, discreto, carrega o peso de toda uma catedral."
+        }
       ]
     },
     {
       "term": "la voûte",
       "definitionPt": "a abóbada",
       "definitionFr": "Plafond courbe d'une église.",
-      "inflections": ["la voûte", "une voûte", "des voûtes"],
-      "ptTargets": ["abóbada"],
+      "inflections": [
+        "la voûte",
+        "une voûte",
+        "des voûtes"
+      ],
+      "ptTargets": [
+        "abóbada"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La voûte est haute.", "pt": "A abóbada é alta." },
-        { "level": "A2-B1", "fr": "Les piliers montent vers la voûte.", "pt": "Os pilares sobem até a abóbada." },
-        { "level": "B2", "fr": "La voûte gothique semble flotter au-dessus de la nef.", "pt": "A abóbada gótica parece flutuar acima da nave." },
-        { "level": "C1-C2", "fr": "C'est la voûte qui, légère en apparence, défie le poids de la pierre.", "pt": "É a abóbada que, leve na aparência, desafia o peso da pedra." }
+        {
+          "level": "A1",
+          "fr": "La voûte est haute.",
+          "pt": "A abóbada é alta."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Les piliers montent vers la voûte.",
+          "pt": "Os pilares sobem até a abóbada."
+        },
+        {
+          "level": "B2",
+          "fr": "La voûte gothique semble flotter au-dessus de la nef.",
+          "pt": "A abóbada gótica parece flutuar acima da nave."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est la voûte qui, légère en apparence, défie le poids de la pierre.",
+          "pt": "É a abóbada que, leve na aparência, desafia o peso da pedra."
+        }
       ]
     },
     {
       "term": "le vitrail",
       "definitionPt": "o vitral",
       "definitionFr": "Fenêtre de verre coloré.",
-      "inflections": ["le vitrail", "un vitrail", "des vitraux"],
-      "ptTargets": ["vitral"],
+      "inflections": [
+        "le vitrail",
+        "un vitrail",
+        "des vitraux"
+      ],
+      "ptTargets": [
+        "vitral"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le vitrail est coloré.", "pt": "O vitral é colorido." },
-        { "level": "A2-B1", "fr": "Le soleil entre par les vitraux.", "pt": "O sol entra pelos vitrais." },
-        { "level": "B2", "fr": "Les vitraux filtrent la lumière en couleurs.", "pt": "Os vitrais filtram a luz em cores." },
-        { "level": "C1-C2", "fr": "C'est le vitrail qui, traversé par le jour, peint le sol de la cathédrale.", "pt": "É o vitral que, atravessado pelo dia, pinta o chão da catedral." }
+        {
+          "level": "A1",
+          "fr": "Le vitrail est coloré.",
+          "pt": "O vitral é colorido."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Le soleil entre par les vitraux.",
+          "pt": "O sol entra pelos vitrais."
+        },
+        {
+          "level": "B2",
+          "fr": "Les vitraux filtrent la lumière en couleurs.",
+          "pt": "Os vitrais filtram a luz em cores."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est le vitrail qui, traversé par le jour, peint le sol de la cathédrale.",
+          "pt": "É o vitral que, atravessado pelo dia, pinta o chão da catedral."
+        }
       ]
     },
     {
       "term": "la lumière",
       "definitionPt": "a luz",
       "definitionFr": "Ce qui éclaire.",
-      "inflections": ["la lumière", "une lumière", "des lumières"],
-      "ptTargets": ["luz"],
+      "inflections": [
+        "la lumière",
+        "une lumière",
+        "des lumières"
+      ],
+      "ptTargets": [
+        "luz"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La lumière entre.", "pt": "A luz entra." },
-        { "level": "A2-B1", "fr": "La lumière dessine des couleurs sur le sol.", "pt": "A luz desenha cores no chão." },
-        { "level": "B2", "fr": "La lumière du matin traverse la rosace.", "pt": "A luz da manhã atravessa a rosácea." },
-        { "level": "C1-C2", "fr": "C'est la lumière qui, à la bonne heure, révèle ce que la pierre cache.", "pt": "É a luz que, na hora certa, revela o que a pedra esconde." }
+        {
+          "level": "A1",
+          "fr": "La lumière entre.",
+          "pt": "A luz entra."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "La lumière dessine des couleurs sur le sol.",
+          "pt": "A luz desenha cores no chão."
+        },
+        {
+          "level": "B2",
+          "fr": "La lumière du matin traverse la rosace.",
+          "pt": "A luz da manhã atravessa a rosácea."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est la lumière qui, à la bonne heure, révèle ce que la pierre cache.",
+          "pt": "É a luz que, na hora certa, revela o que a pedra esconde."
+        }
       ]
     },
     {
       "term": "le sol",
       "definitionPt": "o chão",
       "definitionFr": "Surface sur laquelle on marche.",
-      "inflections": ["le sol", "un sol"],
-      "ptTargets": ["chão"],
+      "inflections": [
+        "le sol",
+        "un sol"
+      ],
+      "ptTargets": [
+        "chão"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le sol est froid.", "pt": "O chão está frio." },
-        { "level": "A2-B1", "fr": "Des taches de couleur dansent sur le sol.", "pt": "Manchas de cor dançam no chão." },
-        { "level": "B2", "fr": "Le sol de pierre reflète la lumière des vitraux.", "pt": "O chão de pedra reflete a luz dos vitrais." },
-        { "level": "C1-C2", "fr": "C'est le sol qui, foulé par tant de pas, garde le silence des siècles.", "pt": "É o chão que, pisado por tantos passos, guarda o silêncio dos séculos." }
+        {
+          "level": "A1",
+          "fr": "Le sol est froid.",
+          "pt": "O chão está frio."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Des taches de couleur dansent sur le sol.",
+          "pt": "Manchas de cor dançam no chão."
+        },
+        {
+          "level": "B2",
+          "fr": "Le sol de pierre reflète la lumière des vitraux.",
+          "pt": "O chão de pedra reflete a luz dos vitrais."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est le sol qui, foulé par tant de pas, garde le silence des siècles.",
+          "pt": "É o chão que, pisado por tantos passos, guarda o silêncio dos séculos."
+        }
       ]
     },
     {
       "term": "silencieux",
       "definitionPt": "silencioso",
       "definitionFr": "Qui ne fait pas de bruit.",
-      "inflections": ["silencieux", "silencieuse"],
-      "ptTargets": ["silencioso"],
+      "inflections": [
+        "silencieux",
+        "silencieuse"
+      ],
+      "ptTargets": [
+        "silencioso"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le lieu est silencieux.", "pt": "O lugar é silencioso." },
-        { "level": "A2-B1", "fr": "L'intérieur de la cathédrale est silencieux.", "pt": "O interior da catedral é silencioso." },
-        { "level": "B2", "fr": "Ils marchent en silence pour ne déranger personne.", "pt": "Eles caminham em silêncio para não incomodar ninguém." },
-        { "level": "C1-C2", "fr": "C'est le silence qui, dans la nef, laisse parler la lumière.", "pt": "É o silêncio que, na nave, deixa a luz falar." }
+        {
+          "level": "A1",
+          "fr": "Le lieu est silencieux.",
+          "pt": "O lugar é silencioso."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "L'intérieur de la cathédrale est silencieux.",
+          "pt": "O interior da catedral é silencioso."
+        },
+        {
+          "level": "B2",
+          "fr": "Ils marchent en silence pour ne déranger personne.",
+          "pt": "Eles caminham em silêncio para não incomodar ninguém."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est le silence qui, dans la nef, laisse parler la lumière.",
+          "pt": "É o silêncio que, na nave, deixa a luz falar."
+        }
       ]
     },
     {
       "term": "observer",
       "definitionPt": "observar",
       "definitionFr": "Regarder avec attention.",
-      "inflections": ["observer", "j'observe", "nous observons"],
-      "ptTargets": ["observar"],
+      "inflections": [
+        "observer",
+        "j'observe",
+        "nous observons"
+      ],
+      "ptTargets": [
+        "observar"
+      ],
       "examples": [
-        { "level": "A1", "fr": "J'observe le vitrail.", "pt": "Eu observo o vitral." },
-        { "level": "A2-B1", "fr": "Irlan observe la lumière sur le sol.", "pt": "Irlan observa a luz no chão." },
-        { "level": "B2", "fr": "Observer un détail peut révéler tout un secret.", "pt": "Observar um detalhe pode revelar todo um segredo." },
-        { "level": "C1-C2", "fr": "C'est en observant que l'on apprend à voir ce que les autres ne remarquent pas.", "pt": "É observando que se aprende a ver o que os outros não notam." }
+        {
+          "level": "A1",
+          "fr": "J'observe le vitrail.",
+          "pt": "Eu observo o vitral."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Irlan observe la lumière sur le sol.",
+          "pt": "Irlan observa a luz no chão."
+        },
+        {
+          "level": "B2",
+          "fr": "Observer un détail peut révéler tout un secret.",
+          "pt": "Observar um detalhe pode revelar todo um segredo."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est en observant que l'on apprend à voir ce que les autres ne remarquent pas.",
+          "pt": "É observando que se aprende a ver o que os outros não notam."
+        }
       ]
     },
     {
       "term": "le chiffre",
       "definitionPt": "o número",
       "definitionFr": "Symbole qui représente un nombre.",
-      "inflections": ["le chiffre", "un chiffre", "des chiffres"],
-      "ptTargets": ["número"],
+      "inflections": [
+        "le chiffre",
+        "un chiffre",
+        "des chiffres"
+      ],
+      "ptTargets": [
+        "número"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le chiffre est clair.", "pt": "O número é claro." },
-        { "level": "A2-B1", "fr": "Sept chiffres apparaissent dans la lumière.", "pt": "Sete números aparecem na luz." },
-        { "level": "B2", "fr": "Irlan note les chiffres dans l'Atlas.", "pt": "Irlan anota os números no Atlas." },
-        { "level": "C1-C2", "fr": "C'est le chiffre qui, noté au bon moment, devient la clé d'un code.", "pt": "É o número que, anotado na hora certa, vira a chave de um código." }
+        {
+          "level": "A1",
+          "fr": "Le chiffre est clair.",
+          "pt": "O número é claro."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Sept chiffres apparaissent dans la lumière.",
+          "pt": "Sete números aparecem na luz."
+        },
+        {
+          "level": "B2",
+          "fr": "Irlan note les chiffres dans l'Atlas.",
+          "pt": "Irlan anota os números no Atlas."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est le chiffre qui, noté au bon moment, devient la clé d'un code.",
+          "pt": "É o número que, anotado na hora certa, vira a chave de um código."
+        }
       ]
     },
     {
       "term": "le secret",
       "definitionPt": "o segredo",
       "definitionFr": "Ce que l'on ne dit pas.",
-      "inflections": ["le secret", "un secret", "des secrets"],
-      "ptTargets": ["segredo"],
+      "inflections": [
+        "le secret",
+        "un secret",
+        "des secrets"
+      ],
+      "ptTargets": [
+        "segredo"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le secret est bien gardé.", "pt": "O segredo é bem guardado." },
-        { "level": "A2-B1", "fr": "La cathédrale cache un secret.", "pt": "A catedral esconde um segredo." },
-        { "level": "B2", "fr": "Un secret peut dormir des années dans la pierre.", "pt": "Um segredo pode dormir anos na pedra." },
-        { "level": "C1-C2", "fr": "C'est le secret qui, partagé, unit ceux qui le protègent.", "pt": "É o segredo que, compartilhado, une quem o protege." }
+        {
+          "level": "A1",
+          "fr": "Le secret est bien gardé.",
+          "pt": "O segredo é bem guardado."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "La cathédrale cache un secret.",
+          "pt": "A catedral esconde um segredo."
+        },
+        {
+          "level": "B2",
+          "fr": "Un secret peut dormir des années dans la pierre.",
+          "pt": "Um segredo pode dormir anos na pedra."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est le secret qui, partagé, unit ceux qui le protègent.",
+          "pt": "É o segredo que, compartilhado, une quem o protege."
+        }
       ]
     },
     {
       "term": "la hauteur",
       "definitionPt": "a altura",
       "definitionFr": "Dimension verticale.",
-      "inflections": ["la hauteur", "une hauteur"],
-      "ptTargets": ["altura"],
+      "inflections": [
+        "la hauteur",
+        "une hauteur"
+      ],
+      "ptTargets": [
+        "altura"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La hauteur est grande.", "pt": "A altura é grande." },
-        { "level": "A2-B1", "fr": "Il fallait être à la bonne hauteur.", "pt": "Era preciso estar na altura certa." },
-        { "level": "B2", "fr": "La hauteur de la nef impressionne les visiteurs.", "pt": "A altura da nave impressiona os visitantes." },
-        { "level": "C1-C2", "fr": "C'est la hauteur qui, changeant le regard, révèle ce qui était caché.", "pt": "É a altura que, mudando o olhar, revela o que estava escondido." }
+        {
+          "level": "A1",
+          "fr": "La hauteur est grande.",
+          "pt": "A altura é grande."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Il fallait être à la bonne hauteur.",
+          "pt": "Era preciso estar na altura certa."
+        },
+        {
+          "level": "B2",
+          "fr": "La hauteur de la nef impressionne les visiteurs.",
+          "pt": "A altura da nave impressiona os visitantes."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est la hauteur qui, changeant le regard, révèle ce qui était caché.",
+          "pt": "É a altura que, mudando o olhar, revela o que estava escondido."
+        }
       ]
     }
   ],
@@ -234,7 +509,11 @@
     "exampleFr": "Sept chiffres apparaissent dans la lumière.",
     "examplePt": "Sete números aparecem na luz.",
     "practiceQuestion": "Complete: 'Les chiffres _____ dans la lumière.'",
-    "options": ["apparaissent", "apparaît", "apparais"],
+    "options": [
+      "apparaissent",
+      "apparaît",
+      "apparais"
+    ],
     "correctIndex": 0,
     "points": [
       {
@@ -243,7 +522,11 @@
         "exampleFr": "Les chiffres apparaissent un par un.",
         "examplePt": "Os números aparecem um a um.",
         "practiceQuestion": "Complete: 'Ils arrivent _____ par un.'",
-        "options": ["un", "une", "de"],
+        "options": [
+          "un",
+          "une",
+          "de"
+        ],
         "correctIndex": 0
       },
       {
@@ -252,7 +535,11 @@
         "exampleFr": "Andréa lit les chiffres à voix basse.",
         "examplePt": "Andréa lê os números em voz baixa.",
         "practiceQuestion": "Complete: 'Elle parle _____ voix basse.'",
-        "options": ["à", "en", "de"],
+        "options": [
+          "à",
+          "en",
+          "de"
+        ],
         "correctIndex": 0
       }
     ]
@@ -260,31 +547,51 @@
   "quizQuestions": [
     {
       "question": "O que a luz revela no chão?",
-      "options": ["sete números", "um nome", "uma foto"],
+      "options": [
+        "sete números",
+        "um nome",
+        "uma foto"
+      ],
       "correctIndex": 0,
       "explanation": "Sept chiffres apparaissent dans la lumière."
     },
     {
       "question": "Onde Irlan anota os números?",
-      "options": ["no Atlas", "num papel", "no telefone"],
+      "options": [
+        "no Atlas",
+        "num papel",
+        "no telefone"
+      ],
       "correctIndex": 0,
       "explanation": "Il note les chiffres dans l'Atlas."
     },
     {
       "question": "O que sustenta a abóbada?",
-      "options": ["os pilares", "as flores", "as janelas"],
+      "options": [
+        "os pilares",
+        "as flores",
+        "as janelas"
+      ],
       "correctIndex": 0,
       "explanation": "Les piliers soutiennent la voûte."
     },
     {
       "question": "Complete: 'Les chiffres _____ dans la lumière.'",
-      "options": ["apparaissent", "apparaît", "apparais"],
+      "options": [
+        "apparaissent",
+        "apparaît",
+        "apparais"
+      ],
       "correctIndex": 0,
       "explanation": "ils apparaissent."
     },
     {
       "question": "Complete: 'Ils arrivent _____ par un.'",
-      "options": ["un", "une", "de"],
+      "options": [
+        "un",
+        "une",
+        "de"
+      ],
       "correctIndex": 0,
       "explanation": "un par un."
     }

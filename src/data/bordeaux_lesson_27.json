@@ -7,17 +7,17 @@
   "titlePt": "O mercado de Natal: a place de la Bourse em festa",
   "subtitleFr": "En décembre, la plus belle place de Bordeaux s'illumine",
   "subtitlePt": "Em dezembro, a mais bela praça de Bordeaux se ilumina",
-  "summaryPt": "Nesta Aula 27 (B1+), a família visita o marché de Noël na place de la Bourse, com seus chalés, vinho quente e luzes sobre o Miroir d'eau. O aluno pratica o vocabulário do Natal (le marché de Noël, le chalet, le vin chaud) e o conditionnel de desejo com os pronomes.",
+  "summaryPt": "Nesta Aula 27 (B1+), o casal visita o marché de Noël na place de la Bourse, com seus chalés, vinho quente e luzes sobre o Miroir d'eau. O aluno pratica o vocabulário do Natal (le marché de Noël, le chalet, le vin chaud) e o conditionnel de desejo com os pronomes.",
   "paragraphs": [
     {
       "id": 1,
-      "fr": "« En décembre, la place de la Bourse devient un village de Noël », a dit Andréa. Des chalets en bois s'alignaient sous les lumières. « Je voudrais tout voir ! » a crié Iris. « On pourrait commencer par le vin chaud », a proposé Irlan.",
-      "pt": "« Em dezembro, a place de la Bourse vira uma vila de Natal », disse Andréa. Chalés de madeira se alinhavam sob as luzes. « Eu gostaria de ver tudo! » gritou Íris. « Poderíamos começar pelo vinho quente », propôs Irlan."
+      "fr": "« En décembre, la place de la Bourse devient un village de Noël », a dit Andréa. Des chalets en bois s'alignaient sous les lumières. « Je voudrais tout voir ! » a crié Andréa. « On pourrait commencer par le vin chaud », a proposé Irlan.",
+      "pt": "« Em dezembro, a place de la Bourse vira uma vila de Natal », disse Andréa. Chalés de madeira se alinhavam sob as luzes. « Eu gostaria de ver tudo! » gritou Andréa. « Poderíamos começar pelo vinho quente », propôs Irlan."
     },
     {
       "id": 2,
-      "fr": "Le marché sentait la cannelle et le chocolat. Iris a choisi un petit cadeau pour Salomé : « Je le lui donnerais tout de suite si elle était là ! » « Elle le recevra à la rentrée », a souri sa mère. « Ça lui ferait tellement plaisir. »",
-      "pt": "O mercado cheirava a canela e chocolate. Íris escolheu um presentinho para Salomé: « Eu o daria a ela agora mesmo se ela estivesse aqui! » « Ela o receberá na volta às aulas », sorriu a mãe. « Isso lhe daria tanto prazer. »"
+      "fr": "Le marché sentait la cannelle et le chocolat. Andréa a choisi un petit cadeau pour sa mère : « Je le lui donnerais tout de suite si elle était là ! » « Elle le recevra bientôt », a souri Irlan. « Ça lui ferait tellement plaisir. »",
+      "pt": "O mercado cheirava a canela e chocolate. Andréa escolheu um presentinho para a mãe: « Eu o daria a ela agora mesmo se ela estivesse aqui! » « Ela o receberá em breve », sorriu Irlan. « Isso lhe daria tanto prazer. »"
     },
     {
       "id": 3,
@@ -26,13 +26,28 @@
     },
     {
       "id": 4,
-      "fr": "Le soir, la place s'est illuminée. Le Miroir d'eau reflétait les lumières du marché. « Regardez ! On dirait deux marchés de Noël, un en haut et un en bas ! » a dit Iris. « En voyant cela, j'ai envie de rester ici pour toujours », a murmuré Andréa.",
-      "pt": "À noite, a praça se iluminou. O Miroir d'eau refletia as luzes do mercado. « Olhem! Parecem dois mercados de Natal, um em cima e um embaixo! » disse Íris. « Vendo isso, tenho vontade de ficar aqui para sempre », murmurou Andréa."
+      "fr": "Le soir, la place s'est illuminée. Le Miroir d'eau reflétait les lumières du marché. « Regarde ! On dirait deux marchés de Noël, un en haut et un en bas ! » a dit Andréa. « En voyant cela, j'ai envie de rester ici pour toujours », a murmuré Irlan.",
+      "pt": "À noite, a praça se iluminou. O Miroir d'eau refletia as luzes do mercado. « Olha! Parecem dois mercados de Natal, um em cima e um embaixo! » disse Andréa. « Vendo isso, tenho vontade de ficar aqui para sempre », murmurou Irlan."
     },
     {
       "id": 5,
       "fr": "En rentrant, les mains pleines de paquets, Irlan a dit : « Quand j'étais livreur, je livrais des cadeaux de Noël sans savoir pour qui ils étaient. Aujourd'hui, je choisis moi-même les cadeaux que j'offre. C'est ça, être chez soi quelque part. »",
       "pt": "Voltando, com as mãos cheias de pacotes, Irlan disse: « Quando eu era entregador, entregava presentes de Natal sem saber para quem eram. Hoje, eu mesmo escolho os presentes que ofereço. É isso, sentir-se em casa em algum lugar. »"
+    }
+    ,{
+      "id": 6,
+      "fr": "Le marché de Noël est entièrement illuminé. Une boutique de souvenirs vend des objets à peu près abordables.",
+      "pt": "O mercado de Natal é inteiramente iluminado. Uma loja de lembranças vende objetos mais ou menos acessíveis."
+    },
+    {
+      "id": 7,
+      "fr": "Andréa veut commander en ligne un cadeau anonyme. Irlan lui conseille d'adapter l'emballage à la personne.",
+      "pt": "Andréa quer encomendar online um presente anônimo. Irlan a aconselha a adaptar a embalagem à pessoa."
+    },
+    {
+      "id": 8,
+      "fr": "Un enfant demande une couronne en carton. Le vendeur, bienveillant, la lui offre : c'est pourquoi l'enfant a le moral.",
+      "pt": "Uma criança pede uma coroa de papelão. O vendedor, benevolente, a oferece a ela: é por isso que a criança fica animada."
     }
   ],
   "vocabularyDictionary": [
@@ -96,7 +111,7 @@
       "ptTargets": ["presente"],
       "examples": [
         { "level": "A1", "fr": "Le cadeau est joli.", "pt": "O presente é bonito." },
-        { "level": "A2-B1", "fr": "Iris a choisi un cadeau pour Salomé.", "pt": "Íris escolheu um presente para Salomé." },
+        { "level": "A2-B1", "fr": "Andréa a choisi un cadeau pour sa mère.", "pt": "Andréa escolheu um presente para a mãe." },
         { "level": "B2", "fr": "Les cadeaux que l'on offre viennent du cœur.", "pt": "Os presentes que se dão vêm do coração." },
         { "level": "C1-C2", "fr": "Le cadeau, messager muet, dit ce que les mots n'osent pas.", "pt": "O presente, mensageiro mudo, diz o que as palavras não ousam." }
       ]
@@ -214,13 +229,13 @@
       "correctIndex": 0
     },
     {
-      "question": "O que a família bebeu no mercado ?",
+      "question": "O que o casal bebeu no mercado ?",
       "options": ["Vinho quente", "Café", "Suco", "Chá gelado"],
       "correctIndex": 0
     },
     {
-      "question": "Para quem Iris comprou um presente ?",
-      "options": ["Salomé", "Camille", "A avó", "A professora"],
+      "question": "Para quem Andréa comprou um presente ?",
+      "options": ["A mãe", "Uma amiga", "A vizinha", "A professora"],
       "correctIndex": 0
     },
     {
@@ -229,7 +244,7 @@
       "correctIndex": 0
     },
     {
-      "question": "O que Iris achou que o Miroir d'eau refletia ?",
+      "question": "O que Andréa achou que o Miroir d'eau refletia ?",
       "options": ["Dois mercados de Natal", "Dois castelos", "Duas cidades", "Dois sóis"],
       "correctIndex": 0
     }

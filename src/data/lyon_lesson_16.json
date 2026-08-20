@@ -21,8 +21,8 @@
     },
     {
       "id": 3,
-      "fr": "« C'est le fleuve qui nous rappelle que Lyon est une ville d'eau », dit Irlan, en montrant les quais. Íris sauta sur les grandes dalles de bois : « C'est ici que je veux faire du roller ! »",
-      "pt": "« É o rio que nos lembra que Lyon é uma cidade de água », disse Irlan, mostrando os cais. Íris pulou nas grandes tábuas de madeira: « É aqui que quero andar de patins! »"
+      "fr": "« C'est le fleuve qui nous rappelle que Lyon est une ville d'eau », dit Irlan, en montrant les quais. Andréa sauta sur les grandes dalles de bois : « C'est ici que je veux faire du roller ! »",
+      "pt": "« É o rio que nos lembra que Lyon é uma cidade de água », disse Irlan, mostrando os cais. Andréa pulou nas grandes tábuas de madeira: « É aqui que quero andar de patins! »"
     },
     {
       "id": 4,
@@ -33,6 +33,16 @@
       "id": 5,
       "fr": "Le soir, Irlan écrivit : « En livrant, je traversais le Rhône par les ponts, vite, sans regarder. Aujourd'hui, je longe le fleuve, lentement. C'est en ralentissant que l'on découvre ce que la vitesse cache. »",
       "pt": "À noite, Irlan escreveu: « Entregando, eu atravessava o Rhône pelas pontes, rápido, sem olhar. Hoje, sigo o rio, devagar. É desacelerando que se descobre o que a velocidade esconde. »"
+    },
+    {
+      "id": 6,
+      "fr": "Les berges formaient un espace respirant au cœur de la métropole. Un aménagement urbain adéquat favorisait la mobilité durable sans alourdir la circulation.",
+      "pt": "As margens formavam um espaço arejado no coração da metrópole. Um planejamento urbano adequado favorecia a mobilidade sustentável sem sobrecarregar o trânsito."
+    },
+    {
+      "id": 7,
+      "fr": "Irlan a observé l'écume et les traces laissées par le courant. Andréa a insisté sur la voirie et sur la nécessité de préserver les accès publics.",
+      "pt": "Irlan observou a espuma e as marcas deixadas pela correnteza. Andréa insistiu na via pública e na necessidade de preservar os acessos públicos."
     }
   ],
   "vocabularyDictionary": [
@@ -83,7 +93,7 @@
       "ptTargets": ["patins", "roller"],
       "examples": [
         { "level": "A1", "fr": "Le roller est rapide.", "pt": "O patins é rápido." },
-        { "level": "A2-B1", "fr": "Íris veut faire du roller.", "pt": "Íris quer andar de patins." },
+        { "level": "A2-B1", "fr": "Andréa veut faire du roller.", "pt": "Andréa quer andar de patins." },
         { "level": "B2", "fr": "Les berges, parfaites pour le roller, attirent les sportifs du dimanche.", "pt": "As margens, perfeitas para patins, atraem os esportistas de domingo." },
         { "level": "C1-C2", "fr": "C'est en roller que l'on parcourt le plus vite les berges du Rhône.", "pt": "É de patins que se percorre mais rápido as margens do Rhône." }
       ]
@@ -242,7 +252,7 @@
       "explanation": "No texto: 'Ce que j'aime, c'est qu'il y a de la place pour tout le monde.'"
     },
     {
-      "question": "O que Íris quer fazer nas margens?",
+      "question": "O que Andréa quer fazer nas margens?",
       "options": ["Andar de patins", "Nadar no rio", "Montar a cavalo"],
       "correctIndex": 0,
       "explanation": "No texto: 'C'est ici que je veux faire du roller !'"

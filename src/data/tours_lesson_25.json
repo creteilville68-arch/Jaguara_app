@@ -7,7 +7,7 @@
   "titlePt": "Balzac: o escritor nascido em Tours",
   "subtitleFr": "Né en 1799, il a écrit La Comédie humaine",
   "subtitlePt": "Nascido em 1799, escreveu A Comédia Humana",
-  "summaryPt": "Nesta Aula 25 (B1), a família descobre Honoré de Balzac, o grande romancista nascido em Tours em 1799, que escreveu dezenas de romances sobre a França. O aluno pratica o vocabulário da literatura (le roman, l'écrivain, le personnage), os pronomes relatvos e o futuro simple.",
+  "summaryPt": "Nesta Aula 25 (B1), o casal descobre Honoré de Balzac, o grande romancista nascido em Tours em 1799, que escreveu dezenas de romances sobre a França. À noite, Irlan encontra no romance palavras com grafia antiga — como as da frase gravada na cave de Vouvray. O aluno pratica o vocabulário da literatura (le roman, l'écrivain, le personnage), os pronomes relativos e o futuro simple.",
   "paragraphs": [
     {
       "id": 1,
@@ -26,13 +26,28 @@
     },
     {
       "id": 4,
-      "fr": "Iris a demandé : « Est-ce qu'il écrivait sur la Touraine ? » « Oui », a dit Irlan. « Tours apparaît dans plusieurs de ses romans. Et il disait : 'La Touraine est le jardin de la France.' »",
-      "pt": "Íris perguntou: « Ele escrevia sobre a Touraine? » « Sim », disse Irlan. « Tours aparece em vários de seus romances. E ele dizia: 'A Touraine é o jardim da França.' »"
+      "fr": "Andréa a demandé : « Est-ce qu'il écrivait sur la Touraine ? » « Oui », a dit Irlan. « Tours apparaît dans plusieurs de ses romans. Et il disait : 'La Touraine est le jardin de la France.' »",
+      "pt": "Andréa perguntou: « Ele escrevia sobre a Touraine? » « Sim », disse Irlan. « Tours aparece em vários de seus romances. E ele dizia: 'A Touraine é o jardim da França.' »"
     },
     {
       "id": 5,
-      "fr": "À la librairie, Irlan a acheté un roman de Balzac. « Quand j'étais livreur, je n'avais pas le temps de lire », a-t-il dit. « Maintenant, je lirai un chapitre chaque soir. La France se raconte aussi dans les livres. »",
-      "pt": "Na livraria, Irlan comprou um romance de Balzac. « Quando eu era entregador, eu não tinha tempo de ler », disse. « Agora, lerei um capítulo toda noite. A França também se conta nos livros. »"
+      "fr": "À la librairie, Irlan a acheté un roman de Balzac. « Quand j'étais livreur, je n'avais pas le temps de lire », a-t-il dit. « Maintenant, je lirai un chapitre chaque soir. La France se raconte aussi dans les livres. » Le soir, il a retrouvé dans le roman des mots à l'orthographe ancienne — comme ceux de la phrase gravée dans la cave. « La langue change, mais les lettres restent », a-t-il murmuré.",
+      "pt": "Na livraria, Irlan comprou um romance de Balzac. « Quando eu era entregador, eu não tinha tempo de ler », disse. « Agora, lerei um capítulo toda noite. A França também se conta nos livros. » À noite, encontrou no romance palavras com grafia antiga — como as da frase gravada na cave. « A língua muda, mas as letras ficam », murmurou."
+    },
+    {
+      "id": 6,
+      "fr": "Balzac est un écrivain célèbre né à Tours. Irlan visite sa maison et lit un passage de La Comédie humaine.",
+      "pt": "Balzac é um escritor famoso nascido em Tours. Irlan visita sua casa e lê um trecho da Comédia Humana."
+    },
+    {
+      "id": 7,
+      "fr": "Andréa dit que Balzac publiait ses romans à une vitesse incroyable. « Il était vraiment un professionnel de l'écriture », observe-t-elle.",
+      "pt": "Andréa diz que Balzac publicava seus romans com uma velocidade incrível. Ele era realmente um profissional da escritura, observa ela."
+    },
+    {
+      "id": 8,
+      "fr": "Irlan note que Balzac dessinait la société de son temps. « Il faut retenir cette leçon », murmure-t-il dans l'Atlas.",
+      "pt": "Irlan anota que Balzac desenhava a sociedade de seu tempo. É preciso reter essa lição, murmura ele no Atlas."
     }
   ],
   "vocabularyDictionary": [
@@ -40,156 +55,419 @@
       "term": "l'écrivain",
       "definitionPt": "o escritor",
       "definitionFr": "Personne qui écrit des livres.",
-      "inflections": ["l'écrivain", "un écrivain", "des écrivains"],
-      "ptTargets": ["escritor"],
+      "inflections": [
+        "l'écrivain",
+        "un écrivain",
+        "des écrivains"
+      ],
+      "ptTargets": [
+        "escritor"
+      ],
       "examples": [
-        { "level": "A1", "fr": "L'écrivain écrit.", "pt": "O escritor escreve." },
-        { "level": "A2-B1", "fr": "Balzac est un écrivain célèbre.", "pt": "Balzac é um escritor famoso." },
-        { "level": "B2", "fr": "L'écrivain qui est né à Tours a écrit cent romans.", "pt": "O escritor que nasceu em Tours escreveu cem romances." },
-        { "level": "C1-C2", "fr": "L'écrivain, mineur de l'âme, extrait des personnages du charbon humain.", "pt": "O escritor, mineiro da alma, extrai personagens do carvão humano." }
+        {
+          "level": "A1",
+          "fr": "L'écrivain écrit.",
+          "pt": "O escritor escreve."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Balzac est un écrivain célèbre.",
+          "pt": "Balzac é um escritor famoso."
+        },
+        {
+          "level": "B2",
+          "fr": "L'écrivain qui est né à Tours a écrit cent romans.",
+          "pt": "O escritor que nasceu em Tours escreveu cem romances."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "L'écrivain, mineur de l'âme, extrait des personnages du charbon humain.",
+          "pt": "O escritor, mineiro da alma, extrai personagens do carvão humano."
+        }
       ]
     },
     {
       "term": "le roman",
       "definitionPt": "o romance",
       "definitionFr": "Long récit d'imagination.",
-      "inflections": ["le roman", "un roman", "des romans"],
-      "ptTargets": ["romance"],
+      "inflections": [
+        "le roman",
+        "un roman",
+        "des romans"
+      ],
+      "ptTargets": [
+        "romance"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le roman est long.", "pt": "O romance é longo." },
-        { "level": "A2-B1", "fr": "La Comédie humaine est une collection de romans.", "pt": "A Comédia Humana é uma coleção de romances." },
-        { "level": "B2", "fr": "Le roman que nous avons lu parle de la Touraine.", "pt": "O romance que lemos fala da Touraine." },
-        { "level": "C1-C2", "fr": "Le roman, miroir de son siècle, traverse le temps sans se faner.", "pt": "O romance, espelho de seu século, atravessa o tempo sem murchar." }
+        {
+          "level": "A1",
+          "fr": "Le roman est long.",
+          "pt": "O romance é longo."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "La Comédie humaine est une collection de romans.",
+          "pt": "A Comédia Humana é uma coleção de romances."
+        },
+        {
+          "level": "B2",
+          "fr": "Le roman que nous avons lu parle de la Touraine.",
+          "pt": "O romance que lemos fala da Touraine."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Le roman, miroir de son siècle, traverse le temps sans se faner.",
+          "pt": "O romance, espelho de seu século, atravessa o tempo sem murchar."
+        }
       ]
     },
     {
       "term": "le personnage",
       "definitionPt": "o personagem",
       "definitionFr": "Personne d'une histoire.",
-      "inflections": ["le personnage", "un personnage", "des personnages"],
-      "ptTargets": ["personagem"],
+      "inflections": [
+        "le personnage",
+        "un personnage",
+        "des personnages"
+      ],
+      "ptTargets": [
+        "personagem"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le personnage est drôle.", "pt": "O personagem é engraçado." },
-        { "level": "A2-B1", "fr": "Balzac a créé des centaines de personnages.", "pt": "Balzac criou centenas de personagens." },
-        { "level": "B2", "fr": "Les personnages dont parle Irlan sont très vivants.", "pt": "Os personagens de quem Irlan fala são muito vivos." },
-        { "level": "C1-C2", "fr": "Le personnage, reflet de nous-mêmes, traverse les romans comme la vie.", "pt": "O personagem, reflexo de nós mesmos, atravessa os romances como a vida." }
+        {
+          "level": "A1",
+          "fr": "Le personnage est drôle.",
+          "pt": "O personagem é engraçado."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Balzac a créé des centaines de personnages.",
+          "pt": "Balzac criou centenas de personagens."
+        },
+        {
+          "level": "B2",
+          "fr": "Les personnages dont parle Irlan sont très vivants.",
+          "pt": "Os personagens de quem Irlan fala são muito vivos."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Le personnage, reflet de nous-mêmes, traverse les romans comme la vie.",
+          "pt": "O personagem, reflexo de nós mesmos, atravessa os romances como a vida."
+        }
       ]
     },
     {
       "term": "le chapitre",
       "definitionPt": "o capítulo",
       "definitionFr": "Partie d'un livre.",
-      "inflections": ["le chapitre", "un chapitre", "des chapitres"],
-      "ptTargets": ["capítulo"],
+      "inflections": [
+        "le chapitre",
+        "un chapitre",
+        "des chapitres"
+      ],
+      "ptTargets": [
+        "capítulo"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le chapitre est court.", "pt": "O capítulo é curto." },
-        { "level": "A2-B1", "fr": "Irlan lira un chapitre chaque soir.", "pt": "Irlan lerá um capítulo toda noite." },
-        { "level": "B2", "fr": "Le chapitre que nous avons lu est passionnant.", "pt": "O capítulo que lemos é apaixonante." },
-        { "level": "C1-C2", "fr": "Le chapitre, unité du récit, avance la vie d'un pas de plus.", "pt": "O capítulo, unidade do relato, avança a vida mais um passo." }
+        {
+          "level": "A1",
+          "fr": "Le chapitre est court.",
+          "pt": "O capítulo é curto."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Irlan lira un chapitre chaque soir.",
+          "pt": "Irlan lerá um capítulo toda noite."
+        },
+        {
+          "level": "B2",
+          "fr": "Le chapitre que nous avons lu est passionnant.",
+          "pt": "O capítulo que lemos é apaixonante."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Le chapitre, unité du récit, avance la vie d'un pas de plus.",
+          "pt": "O capítulo, unidade do relato, avança a vida mais um passo."
+        }
       ]
     },
     {
       "term": "le café",
       "definitionPt": "o café",
       "definitionFr": "Boisson chaude ; endroit où l'on boit.",
-      "inflections": ["le café", "un café", "des cafés"],
-      "ptTargets": ["café"],
+      "inflections": [
+        "le café",
+        "un café",
+        "des cafés"
+      ],
+      "ptTargets": [
+        "café"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le café est chaud.", "pt": "O café é quente." },
-        { "level": "A2-B1", "fr": "Balzac buvait beaucoup de café.", "pt": "Balzac bebia muito café." },
-        { "level": "B2", "fr": "Le café que Balzac aimait l'aidait à écrire.", "pt": "O café que Balzac amava o ajudava a escrever." },
-        { "level": "C1-C2", "fr": "Le café, combustible des nuits, a dicté des milliers de pages.", "pt": "O café, combustível das noites, ditou milhares de páginas." }
+        {
+          "level": "A1",
+          "fr": "Le café est chaud.",
+          "pt": "O café é quente."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Balzac buvait beaucoup de café.",
+          "pt": "Balzac bebia muito café."
+        },
+        {
+          "level": "B2",
+          "fr": "Le café que Balzac aimait l'aidait à écrire.",
+          "pt": "O café que Balzac amava o ajudava a escrever."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Le café, combustible des nuits, a dicté des milliers de pages.",
+          "pt": "O café, combustível das noites, ditou milhares de páginas."
+        }
       ]
     },
     {
       "term": "la nuit",
       "definitionPt": "a noite",
       "definitionFr": "Le moment où il fait sombre.",
-      "inflections": ["la nuit", "une nuit", "des nuits"],
-      "ptTargets": ["noite"],
+      "inflections": [
+        "la nuit",
+        "une nuit",
+        "des nuits"
+      ],
+      "ptTargets": [
+        "noite"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La nuit est calme.", "pt": "A noite é calma." },
-        { "level": "A2-B1", "fr": "Balzac travaillait la nuit.", "pt": "Balzac trabalhava à noite." },
-        { "level": "B2", "fr": "Les nuits où il écrivait étaient longues.", "pt": "As noites em que ele escrevia eram longas." },
-        { "level": "C1-C2", "fr": "La nuit, complice des écrivains, offre son silence aux mots.", "pt": "A noite, cúmplice dos escritores, oferece seu silêncio às palavras." }
+        {
+          "level": "A1",
+          "fr": "La nuit est calme.",
+          "pt": "A noite é calma."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Balzac travaillait la nuit.",
+          "pt": "Balzac trabalhava à noite."
+        },
+        {
+          "level": "B2",
+          "fr": "Les nuits où il écrivait étaient longues.",
+          "pt": "As noites em que ele escrevia eram longas."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "La nuit, complice des écrivains, offre son silence aux mots.",
+          "pt": "A noite, cúmplice dos escritores, oferece seu silêncio às palavras."
+        }
       ]
     },
     {
       "term": "la librairie",
       "definitionPt": "a livraria",
       "definitionFr": "Boutique qui vend des livres.",
-      "inflections": ["la librairie", "une librairie", "des librairies"],
-      "ptTargets": ["livraria"],
+      "inflections": [
+        "la librairie",
+        "une librairie",
+        "des librairies"
+      ],
+      "ptTargets": [
+        "livraria"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La librairie est grande.", "pt": "A livraria é grande." },
-        { "level": "A2-B1", "fr": "Irlan a acheté un roman à la librairie.", "pt": "Irlan comprou um romance na livraria." },
-        { "level": "B2", "fr": "La librairie où nous sommes allés est ancienne.", "pt": "A livraria onde fomos é antiga." },
-        { "level": "C1-C2", "fr": "La librairie, temple des mots, offre mille vies en une seule visite.", "pt": "A livraria, templo das palavras, oferece mil vidas em uma única visita." }
+        {
+          "level": "A1",
+          "fr": "La librairie est grande.",
+          "pt": "A livraria é grande."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Irlan a acheté un roman à la librairie.",
+          "pt": "Irlan comprou um romance na livraria."
+        },
+        {
+          "level": "B2",
+          "fr": "La librairie où nous sommes allés est ancienne.",
+          "pt": "A livraria onde fomos é antiga."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "La librairie, temple des mots, offre mille vies en une seule visite.",
+          "pt": "A livraria, templo das palavras, oferece mil vidas em uma única visita."
+        }
       ]
     },
     {
       "term": "lire",
       "definitionPt": "ler",
       "definitionFr": "Déchiffrer des textes écrits.",
-      "inflections": ["je lis", "tu lis", "il lit", "nous lisons"],
-      "ptTargets": ["ler"],
+      "inflections": [
+        "je lis",
+        "tu lis",
+        "il lit",
+        "nous lisons"
+      ],
+      "ptTargets": [
+        "ler"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Je lis un livre.", "pt": "Eu leio um livro." },
-        { "level": "A2-B1", "fr": "Irlan lira un chapitre chaque soir.", "pt": "Irlan lerá um capítulo toda noite." },
-        { "level": "B2", "fr": "Le roman que nous lisons parle de Tours.", "pt": "O romance que lemos fala de Tours." },
-        { "level": "C1-C2", "fr": "Lire, c'est habiter une autre vie sans quitter la sienne.", "pt": "Ler é habitar outra vida sem sair da própria." }
+        {
+          "level": "A1",
+          "fr": "Je lis un livre.",
+          "pt": "Eu leio um livro."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Irlan lira un chapitre chaque soir.",
+          "pt": "Irlan lerá um capítulo toda noite."
+        },
+        {
+          "level": "B2",
+          "fr": "Le roman que nous lisons parle de Tours.",
+          "pt": "O romance que lemos fala de Tours."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Lire, c'est habiter une autre vie sans quitter la sienne.",
+          "pt": "Ler é habitar outra vida sem sair da própria."
+        }
       ]
     },
     {
       "term": "le combustible",
       "definitionPt": "o combustível",
       "definitionFr": "Ce qui alimente le feu ou l'énergie.",
-      "inflections": ["le combustible", "un combustible", "des combustibles"],
-      "ptTargets": ["combustível"],
+      "inflections": [
+        "le combustible",
+        "un combustible",
+        "des combustibles"
+      ],
+      "ptTargets": [
+        "combustível"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le combustible est nécessaire.", "pt": "O combustível é necessário." },
-        { "level": "A2-B1", "fr": "Balzac appelait le café son combustible.", "pt": "Balzac chamava o café de seu combustível." },
-        { "level": "B2", "fr": "Le combustible qui alimentait ses nuits était le café.", "pt": "O combustível que alimentava suas noites era o café." },
-        { "level": "C1-C2", "fr": "Le combustible, force cachée, transforme la matière en mouvement.", "pt": "O combustível, força oculta, transforma a matéria em movimento." }
+        {
+          "level": "A1",
+          "fr": "Le combustible est nécessaire.",
+          "pt": "O combustível é necessário."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Balzac appelait le café son combustible.",
+          "pt": "Balzac chamava o café de seu combustível."
+        },
+        {
+          "level": "B2",
+          "fr": "Le combustible qui alimentait ses nuits était le café.",
+          "pt": "O combustível que alimentava suas noites era o café."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Le combustible, force cachée, transforme la matière en mouvement.",
+          "pt": "O combustível, força oculta, transforma a matéria em movimento."
+        }
       ]
     },
     {
       "term": "la collection",
       "definitionPt": "a coleção",
       "definitionFr": "Ensemble d'objets du même type.",
-      "inflections": ["la collection", "une collection", "des collections"],
-      "ptTargets": ["coleção"],
+      "inflections": [
+        "la collection",
+        "une collection",
+        "des collections"
+      ],
+      "ptTargets": [
+        "coleção"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La collection est grande.", "pt": "A coleção é grande." },
-        { "level": "A2-B1", "fr": "La Comédie humaine est une immense collection.", "pt": "A Comédia Humana é uma imensa coleção." },
-        { "level": "B2", "fr": "La collection de romans que Balzac a écrite est unique.", "pt": "A coleção de romances que Balzac escreveu é única." },
-        { "level": "C1-C2", "fr": "La collection, architecture du désir, rassemble ce qui se ressemble.", "pt": "A coleção, arquitetura do desejo, reúne o que se assemelha." }
+        {
+          "level": "A1",
+          "fr": "La collection est grande.",
+          "pt": "A coleção é grande."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "La Comédie humaine est une immense collection.",
+          "pt": "A Comédia Humana é uma imensa coleção."
+        },
+        {
+          "level": "B2",
+          "fr": "La collection de romans que Balzac a écrite est unique.",
+          "pt": "A coleção de romances que Balzac escreveu é única."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "La collection, architecture du désir, rassemble ce qui se ressemble.",
+          "pt": "A coleção, arquitetura do desejo, reúne o que se assemelha."
+        }
       ]
     },
     {
       "term": "l'avocat",
       "definitionPt": "o advogado",
       "definitionFr": "Personne qui défend en justice.",
-      "inflections": ["l'avocat", "un avocat", "des avocats"],
-      "ptTargets": ["advogado"],
+      "inflections": [
+        "l'avocat",
+        "un avocat",
+        "des avocats"
+      ],
+      "ptTargets": [
+        "advogado"
+      ],
       "examples": [
-        { "level": "A1", "fr": "L'avocat parle au tribunal.", "pt": "O advogado fala no tribunal." },
-        { "level": "A2-B1", "fr": "Balzac a décrit des avocats dans ses romans.", "pt": "Balzac descreveu advogados em seus romances." },
-        { "level": "B2", "fr": "L'avocat dont parle le roman est honnête.", "pt": "O advogado de quem o romance fala é honesto." },
-        { "level": "C1-C2", "fr": "L'avocat, voix de la justice, balance entre la loi et les hommes.", "pt": "O advogado, voz da justiça, equilibra-se entre a lei e os homens." }
+        {
+          "level": "A1",
+          "fr": "L'avocat parle au tribunal.",
+          "pt": "O advogado fala no tribunal."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Balzac a décrit des avocats dans ses romans.",
+          "pt": "Balzac descreveu advogados em seus romances."
+        },
+        {
+          "level": "B2",
+          "fr": "L'avocat dont parle le roman est honnête.",
+          "pt": "O advogado de quem o romance fala é honesto."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "L'avocat, voix de la justice, balance entre la loi et les hommes.",
+          "pt": "O advogado, voz da justiça, equilibra-se entre a lei e os homens."
+        }
       ]
     },
     {
       "term": "le jardin de la France",
       "definitionPt": "o jardim da França",
       "definitionFr": "Surnom de la Touraine.",
-      "inflections": ["le jardin de la France"],
-      "ptTargets": ["jardim da França"],
+      "inflections": [
+        "le jardin de la France"
+      ],
+      "ptTargets": [
+        "jardim da França"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La Touraine est belle.", "pt": "A Touraine é bonita." },
-        { "level": "A2-B1", "fr": "On appelle la Touraine le jardin de la France.", "pt": "Chama-se a Touraine de jardim da França." },
-        { "level": "B2", "fr": "Le jardin de la France dont parlait Balzac est fertile.", "pt": "O jardim da França de que Balzac falava é fértil." },
-        { "level": "C1-C2", "fr": "Le jardin de la France, surnom mérité, fleurit entre deux fleuves.", "pt": "O jardim da França, apelido merecido, floresce entre dois rios." }
+        {
+          "level": "A1",
+          "fr": "La Touraine est belle.",
+          "pt": "A Touraine é bonita."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "On appelle la Touraine le jardin de la France.",
+          "pt": "Chama-se a Touraine de jardim da França."
+        },
+        {
+          "level": "B2",
+          "fr": "Le jardin de la France dont parlait Balzac est fertile.",
+          "pt": "O jardim da França de que Balzac falava é fértil."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Le jardin de la France, surnom mérité, fleurit entre deux fleuves.",
+          "pt": "O jardim da França, apelido merecido, floresce entre dois rios."
+        }
       ]
     }
   ],
@@ -210,27 +488,52 @@
   "quizQuestions": [
     {
       "question": "Où Balzac est-il né ?",
-      "options": ["À Tours", "À Paris", "À Lyon", "À Marseille"],
+      "options": [
+        "À Tours",
+        "À Paris",
+        "À Lyon",
+        "À Marseille"
+      ],
       "correctIndex": 0
     },
     {
       "question": "En quelle année Balzac est-il né ?",
-      "options": ["1799", "1899", "1500", "2000"],
+      "options": [
+        "1799",
+        "1899",
+        "1500",
+        "2000"
+      ],
       "correctIndex": 0
     },
     {
       "question": "Comment s'appelle l'immense collection de romans de Balzac ?",
-      "options": ["La Comédie humaine", "Les Misérables", "Le Comte de Monte-Cristo", "Le Père Goriot"],
+      "options": [
+        "La Comédie humaine",
+        "Les Misérables",
+        "Le Comte de Monte-Cristo",
+        "Le Père Goriot"
+      ],
       "correctIndex": 0
     },
     {
       "question": "Qu'est-ce que Balzac appelait son combustible ?",
-      "options": ["Le café", "Le vin", "Le thé", "L'eau"],
+      "options": [
+        "Le café",
+        "Le vin",
+        "Le thé",
+        "L'eau"
+      ],
       "correctIndex": 0
     },
     {
       "question": "Comment appelle-t-on la Touraine ?",
-      "options": ["Le jardin de la France", "La porte du Sud", "Le toit de l'Europe", "La perle de l'Ouest"],
+      "options": [
+        "Le jardin de la France",
+        "La porte du Sud",
+        "Le toit de l'Europe",
+        "La perle de l'Ouest"
+      ],
       "correctIndex": 0
     }
   ]

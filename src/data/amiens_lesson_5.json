@@ -68,6 +68,21 @@
       "id": 12,
       "fr": "En rentrant, ils croisent une barque qui glisse, pleine de fleurs. La ville respire au rythme de l'eau.",
       "pt": "Ao voltar, eles cruzam com um barco que desliza, cheio de flores. A cidade respira no ritmo da água."
+    },
+    {
+      "id": 13,
+      "fr": "Irlan achète un petit poulet rôti et des petits pois frais chez un producteur. « Tu manges mieux ici qu'à la crêperie », dit Andréa.",
+      "pt": "Irlan compra um frango assado e ervilhas frescas num produtor. Você come melhor aqui do que na creperia, diz Andréa."
+    },
+    {
+      "id": 14,
+      "fr": "À l'étal voisin, une vendeuse prépare un œuf à la coque pour un client. La tisane à la menthe fume dans un grand thermos.",
+      "pt": "Na banca vizinha, uma vendedora prepara um ovo cozido para um cliente. O chá de horta-melã fuma num grande termo."
+    },
+    {
+      "id": 15,
+      "fr": "Irlan regarde sa tablette pour vérifier le chemin. Le Wi-Fi du marché est bon. « On peut commander la tarte aux pommes en ligne, suggère-t-il.",
+      "pt": "Irlan olha seu tablet para verificar o caminho. O Wi-Fi do mercado é bom. Podemos pedir a torta de maçã online, sugere ele."
     }
   ],
   "vocabularyDictionary": [
@@ -75,156 +90,417 @@
       "term": "le marché",
       "definitionPt": "o mercado",
       "definitionFr": "Lieu où l'on vend des produits.",
-      "inflections": ["le marché", "un marché", "des marchés"],
-      "ptTargets": ["mercado"],
+      "inflections": [
+        "le marché",
+        "un marché",
+        "des marchés"
+      ],
+      "ptTargets": [
+        "mercado"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le marché est animé.", "pt": "O mercado está animado." },
-        { "level": "A2-B1", "fr": "Le marché s'installe au bord de l'eau.", "pt": "O mercado se instala à beira da água." },
-        { "level": "B2", "fr": "Le marché sur l'eau est une tradition des hortillonnages.", "pt": "O mercado sobre a água é uma tradição dos hortillonnages." },
-        { "level": "C1-C2", "fr": "C'est le marché qui, chaque semaine, fait battre le cœur d'un quartier.", "pt": "É o mercado que, toda semana, faz bater o coração de um bairro." }
+        {
+          "level": "A1",
+          "fr": "Le marché est animé.",
+          "pt": "O mercado está animado."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Le marché s'installe au bord de l'eau.",
+          "pt": "O mercado se instala à beira da água."
+        },
+        {
+          "level": "B2",
+          "fr": "Le marché sur l'eau est une tradition des hortillonnages.",
+          "pt": "O mercado sobre a água é uma tradição dos hortillonnages."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est le marché qui, chaque semaine, fait battre le cœur d'un quartier.",
+          "pt": "É o mercado que, toda semana, faz bater o coração de um bairro."
+        }
       ]
     },
     {
       "term": "le producteur",
       "definitionPt": "o produtor",
       "definitionFr": "Personne qui cultive et vend.",
-      "inflections": ["le producteur", "un producteur", "des producteurs"],
-      "ptTargets": ["produtor"],
+      "inflections": [
+        "le producteur",
+        "un producteur",
+        "des producteurs"
+      ],
+      "ptTargets": [
+        "produtor"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le producteur arrive en barque.", "pt": "O produtor chega de barco." },
-        { "level": "A2-B1", "fr": "Les producteurs vendent leurs légumes frais.", "pt": "Os produtores vendem seus legumes frescos." },
-        { "level": "B2", "fr": "Les producteurs locaux viennent directement des hortillonnages.", "pt": "Os produtores locais vêm diretamente dos hortillonnages." },
-        { "level": "C1-C2", "fr": "C'est le producteur qui, fidèle à sa terre, garantit la qualité de ce qu'il vend.", "pt": "É o produtor que, fiel à sua terra, garante a qualidade do que vende." }
+        {
+          "level": "A1",
+          "fr": "Le producteur arrive en barque.",
+          "pt": "O produtor chega de barco."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Les producteurs vendent leurs légumes frais.",
+          "pt": "Os produtores vendem seus legumes frescos."
+        },
+        {
+          "level": "B2",
+          "fr": "Les producteurs locaux viennent directement des hortillonnages.",
+          "pt": "Os produtores locais vêm diretamente dos hortillonnages."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est le producteur qui, fidèle à sa terre, garantit la qualité de ce qu'il vend.",
+          "pt": "É o produtor que, fiel à sua terra, garante a qualidade do que vende."
+        }
       ]
     },
     {
       "term": "vendre",
       "definitionPt": "vender",
       "definitionFr": "Donner contre de l'argent.",
-      "inflections": ["vendre", "je vends", "nous vendons"],
-      "ptTargets": ["vender"],
+      "inflections": [
+        "vendre",
+        "je vends",
+        "nous vendons"
+      ],
+      "ptTargets": [
+        "vender"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Il vend des légumes.", "pt": "Ele vende legumes." },
-        { "level": "A2-B1", "fr": "Les producteurs vendent leurs légumes au marché.", "pt": "Os produtores vendem os legumes no mercado." },
-        { "level": "B2", "fr": "Vendre des produits frais demande de la régularité.", "pt": "Vender produtos frescos exige regularidade." },
-        { "level": "C1-C2", "fr": "C'est en vendant ce que l'on cultive que l'on partage le fruit de son travail.", "pt": "É vendendo o que se cultiva que se compartilha o fruto do trabalho." }
+        {
+          "level": "A1",
+          "fr": "Il vend des légumes.",
+          "pt": "Ele vende legumes."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Les producteurs vendent leurs légumes au marché.",
+          "pt": "Os produtores vendem os legumes no mercado."
+        },
+        {
+          "level": "B2",
+          "fr": "Vendre des produits frais demande de la régularité.",
+          "pt": "Vender produtos frescos exige regularidade."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est en vendant ce que l'on cultive que l'on partage le fruit de son travail.",
+          "pt": "É vendendo o que se cultiva que se compartilha o fruto do trabalho."
+        }
       ]
     },
     {
       "term": "acheter",
       "definitionPt": "comprar",
       "definitionFr": "Obtenir contre de l'argent.",
-      "inflections": ["acheter", "j'achète", "nous achetons"],
-      "ptTargets": ["comprar"],
+      "inflections": [
+        "acheter",
+        "j'achète",
+        "nous achetons"
+      ],
+      "ptTargets": [
+        "comprar"
+      ],
       "examples": [
-        { "level": "A1", "fr": "J'achète des légumes.", "pt": "Eu compro legumes." },
-        { "level": "A2-B1", "fr": "Irlan achète un panier de légumes.", "pt": "Irlan compra uma cesta de legumes." },
-        { "level": "B2", "fr": "Acheter local soutient les producteurs de la région.", "pt": "Comprar localmente apoia os produtores da região." },
-        { "level": "C1-C2", "fr": "C'est en achetant avec soin que l'on choisit ce qui nourrit vraiment.", "pt": "É comprando com cuidado que se escolhe o que alimenta de verdade." }
+        {
+          "level": "A1",
+          "fr": "J'achète des légumes.",
+          "pt": "Eu compro legumes."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Irlan achète un panier de légumes.",
+          "pt": "Irlan compra uma cesta de legumes."
+        },
+        {
+          "level": "B2",
+          "fr": "Acheter local soutient les producteurs de la région.",
+          "pt": "Comprar localmente apoia os produtores da região."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est en achetant avec soin que l'on choisit ce qui nourrit vraiment.",
+          "pt": "É comprando com cuidado que se escolhe o que alimenta de verdade."
+        }
       ]
     },
     {
       "term": "le panier",
       "definitionPt": "a cesta",
       "definitionFr": "Objet pour porter des produits.",
-      "inflections": ["le panier", "un panier", "des paniers"],
-      "ptTargets": ["cesta"],
+      "inflections": [
+        "le panier",
+        "un panier",
+        "des paniers"
+      ],
+      "ptTargets": [
+        "cesta"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le panier est plein.", "pt": "A cesta está cheia." },
-        { "level": "A2-B1", "fr": "Irlan achète un panier de légumes.", "pt": "Irlan compra uma cesta de legumes." },
-        { "level": "B2", "fr": "Un panier en osier est léger et solide.", "pt": "Uma cesta de vime é leve e resistente." },
-        { "level": "C1-C2", "fr": "C'est le panier qui, rempli au marché, rapporte le goût de la matinée.", "pt": "É a cesta que, cheia no mercado, traz o gosto da manhã." }
+        {
+          "level": "A1",
+          "fr": "Le panier est plein.",
+          "pt": "A cesta está cheia."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Irlan achète un panier de légumes.",
+          "pt": "Irlan compra uma cesta de legumes."
+        },
+        {
+          "level": "B2",
+          "fr": "Un panier en osier est léger et solide.",
+          "pt": "Uma cesta de vime é leve e resistente."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est le panier qui, rempli au marché, rapporte le goût de la matinée.",
+          "pt": "É a cesta que, cheia no mercado, traz o gosto da manhã."
+        }
       ]
     },
     {
       "term": "le légume",
       "definitionPt": "o legume",
       "definitionFr": "Plante que l'on mange.",
-      "inflections": ["le légume", "un légume", "des légumes"],
-      "ptTargets": ["legume"],
+      "inflections": [
+        "le légume",
+        "un légume",
+        "des légumes"
+      ],
+      "ptTargets": [
+        "legume"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le légume est frais.", "pt": "O legume é fresco." },
-        { "level": "A2-B1", "fr": "Le panier est plein de légumes.", "pt": "A cesta está cheia de legumes." },
-        { "level": "B2", "fr": "Les légumes du marché viennent des hortillonnages.", "pt": "Os legumes do mercado vêm dos hortillonnages." },
-        { "level": "C1-C2", "fr": "C'est le légume qui, simple, garde la fraîcheur de la terre.", "pt": "É o legume que, simples, guarda o frescor da terra." }
+        {
+          "level": "A1",
+          "fr": "Le légume est frais.",
+          "pt": "O legume é fresco."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Le panier est plein de légumes.",
+          "pt": "A cesta está cheia de legumes."
+        },
+        {
+          "level": "B2",
+          "fr": "Les légumes du marché viennent des hortillonnages.",
+          "pt": "Os legumes do mercado vêm dos hortillonnages."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est le légume qui, simple, garde la fraîcheur de la terre.",
+          "pt": "É o legume que, simples, guarda o frescor da terra."
+        }
       ]
     },
     {
       "term": "le fruit",
       "definitionPt": "a fruta",
       "definitionFr": "Produit sucré d'une plante.",
-      "inflections": ["le fruit", "un fruit", "des fruits"],
-      "ptTargets": ["fruta"],
+      "inflections": [
+        "le fruit",
+        "un fruit",
+        "des fruits"
+      ],
+      "ptTargets": [
+        "fruta"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le fruit est sucré.", "pt": "A fruta é doce." },
-        { "level": "A2-B1", "fr": "Andréa goûte une fraise.", "pt": "Andréa prova um morango." },
-        { "level": "B2", "fr": "Les fruits frais apportent des vitamines.", "pt": "As frutas frescas trazem vitaminas." },
-        { "level": "C1-C2", "fr": "C'est le fruit qui, mûri au soleil, concentre toute la douceur de la saison.", "pt": "É a fruta que, amadurecida ao sol, concentra toda a doçura da estação." }
+        {
+          "level": "A1",
+          "fr": "Le fruit est sucré.",
+          "pt": "A fruta é doce."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Andréa goûte une fraise.",
+          "pt": "Andréa prova um morango."
+        },
+        {
+          "level": "B2",
+          "fr": "Les fruits frais apportent des vitamines.",
+          "pt": "As frutas frescas trazem vitaminas."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est le fruit qui, mûri au soleil, concentre toute la douceur de la saison.",
+          "pt": "É a fruta que, amadurecida ao sol, concentra toda a doçura da estação."
+        }
       ]
     },
     {
       "term": "frais",
       "definitionPt": "fresco",
       "definitionFr": "Qui vient d'être récolté.",
-      "inflections": ["frais", "fraîche"],
-      "ptTargets": ["fresco"],
+      "inflections": [
+        "frais",
+        "fraîche"
+      ],
+      "ptTargets": [
+        "fresco"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le légume est frais.", "pt": "O legume é fresco." },
-        { "level": "A2-B1", "fr": "Tout est frais au marché.", "pt": "Tudo é fresco no mercado." },
-        { "level": "B2", "fr": "Les produits frais se conservent moins longtemps.", "pt": "Os produtos frescos se conservam por menos tempo." },
-        { "level": "C1-C2", "fr": "C'est frais ce qui, cueilli le matin, garde encore le parfum du jardin.", "pt": "É fresco aquilo que, colhido de manhã, ainda guarda o perfume do jardim." }
+        {
+          "level": "A1",
+          "fr": "Le légume est frais.",
+          "pt": "O legume é fresco."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Tout est frais au marché.",
+          "pt": "Tudo é fresco no mercado."
+        },
+        {
+          "level": "B2",
+          "fr": "Les produits frais se conservent moins longtemps.",
+          "pt": "Os produtos frescos se conservam por menos tempo."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est frais ce qui, cueilli le matin, garde encore le parfum du jardin.",
+          "pt": "É fresco aquilo que, colhido de manhã, ainda guarda o perfume do jardim."
+        }
       ]
     },
     {
       "term": "le prix",
       "definitionPt": "o preço",
       "definitionFr": "Valeur en argent.",
-      "inflections": ["le prix", "un prix", "des prix"],
-      "ptTargets": ["preço"],
+      "inflections": [
+        "le prix",
+        "un prix",
+        "des prix"
+      ],
+      "ptTargets": [
+        "preço"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le prix est bas.", "pt": "O preço é baixo." },
-        { "level": "A2-B1", "fr": "Combien coûte ce panier ?", "pt": "Quanto custa esta cesta?" },
-        { "level": "B2", "fr": "Le prix des produits frais varie selon la saison.", "pt": "O preço dos produtos frescos varia conforme a estação." },
-        { "level": "C1-C2", "fr": "C'est le prix qui, juste, reconnaît le travail de celui qui produit.", "pt": "É o preço que, justo, reconhece o trabalho de quem produz." }
+        {
+          "level": "A1",
+          "fr": "Le prix est bas.",
+          "pt": "O preço é baixo."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Combien coûte ce panier ?",
+          "pt": "Quanto custa esta cesta?"
+        },
+        {
+          "level": "B2",
+          "fr": "Le prix des produits frais varie selon la saison.",
+          "pt": "O preço dos produtos frescos varia conforme a estação."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est le prix qui, juste, reconnaît le travail de celui qui produit.",
+          "pt": "É o preço que, justo, reconhece o trabalho de quem produz."
+        }
       ]
     },
     {
       "term": "la qualité",
       "definitionPt": "a qualidade",
       "definitionFr": "Ce qui rend une chose bonne.",
-      "inflections": ["la qualité", "une qualité", "des qualités"],
-      "ptTargets": ["qualidade"],
+      "inflections": [
+        "la qualité",
+        "une qualité",
+        "des qualités"
+      ],
+      "ptTargets": [
+        "qualidade"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La qualité est bonne.", "pt": "A qualidade é boa." },
-        { "level": "A2-B1", "fr": "La qualité compte plus que le prix.", "pt": "A qualidade vale mais que o preço." },
-        { "level": "B2", "fr": "La qualité d'un produit se goûte dès la première bouchée.", "pt": "A qualidade de um produto se sente desde a primeira mordida." },
-        { "level": "C1-C2", "fr": "C'est la qualité qui, patiemment construite, dure plus longtemps que la mode.", "pt": "É a qualidade que, construída com paciência, dura mais que a moda." }
+        {
+          "level": "A1",
+          "fr": "La qualité est bonne.",
+          "pt": "A qualidade é boa."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "La qualité compte plus que le prix.",
+          "pt": "A qualidade vale mais que o preço."
+        },
+        {
+          "level": "B2",
+          "fr": "La qualité d'un produit se goûte dès la première bouchée.",
+          "pt": "A qualidade de um produto se sente desde a primeira mordida."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est la qualité qui, patiemment construite, dure plus longtemps que la mode.",
+          "pt": "É a qualidade que, construída com paciência, dura mais que a moda."
+        }
       ]
     },
     {
       "term": "le miel",
       "definitionPt": "o mel",
       "definitionFr": "Aliment sucré fait par les abeilles.",
-      "inflections": ["le miel"],
-      "ptTargets": ["mel"],
+      "inflections": [
+        "le miel"
+      ],
+      "ptTargets": [
+        "mel"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le miel est doux.", "pt": "O mel é doce." },
-        { "level": "A2-B1", "fr": "Andréa achète un pot de miel local.", "pt": "Andréa compra um pote de mel local." },
-        { "level": "B2", "fr": "Le miel local parfume les spécialités picardes.", "pt": "O mel local perfuma as especialidades picardas." },
-        { "level": "C1-C2", "fr": "C'est le miel qui, doré et sucré, garde la trace des fleurs.", "pt": "É o mel que, dourado e doce, guarda a marca das flores." }
+        {
+          "level": "A1",
+          "fr": "Le miel est doux.",
+          "pt": "O mel é doce."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Andréa achète un pot de miel local.",
+          "pt": "Andréa compra um pote de mel local."
+        },
+        {
+          "level": "B2",
+          "fr": "Le miel local parfume les spécialités picardes.",
+          "pt": "O mel local perfuma as especialidades picardas."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est le miel qui, doré et sucré, garde la trace des fleurs.",
+          "pt": "É o mel que, dourado e doce, guarda a marca das flores."
+        }
       ]
     },
     {
       "term": "la barque",
       "definitionPt": "o barco",
       "definitionFr": "Petit bateau.",
-      "inflections": ["la barque", "une barque", "des barques"],
-      "ptTargets": ["barco"],
+      "inflections": [
+        "la barque",
+        "une barque",
+        "des barques"
+      ],
+      "ptTargets": [
+        "barco"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La barque glisse.", "pt": "O barco desliza." },
-        { "level": "A2-B1", "fr": "Les producteurs arrivent en barque.", "pt": "Os produtores chegam de barco." },
-        { "level": "B2", "fr": "Une barque pleine de fleurs traverse le canal.", "pt": "Um barco cheio de flores atravessa o canal." },
-        { "level": "C1-C2", "fr": "C'est la barque qui, chargée de récoltes, relie le jardin au marché.", "pt": "É o barco que, carregado de colheitas, liga o jardim ao mercado." }
+        {
+          "level": "A1",
+          "fr": "La barque glisse.",
+          "pt": "O barco desliza."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Les producteurs arrivent en barque.",
+          "pt": "Os produtores chegam de barco."
+        },
+        {
+          "level": "B2",
+          "fr": "Une barque pleine de fleurs traverse le canal.",
+          "pt": "Um barco cheio de flores atravessa o canal."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est la barque qui, chargée de récoltes, relie le jardin au marché.",
+          "pt": "É o barco que, carregado de colheitas, liga o jardim ao mercado."
+        }
       ]
     }
   ],
@@ -234,7 +510,11 @@
     "exampleFr": "Combien coûte ce panier ?",
     "examplePt": "Quanto custa esta cesta?",
     "practiceQuestion": "Complete: '_____ coûte ce panier ?'",
-    "options": ["Combien", "Comment", "Quand"],
+    "options": [
+      "Combien",
+      "Comment",
+      "Quand"
+    ],
     "correctIndex": 0,
     "points": [
       {
@@ -243,7 +523,11 @@
         "exampleFr": "Irlan achète un panier de légumes.",
         "examplePt": "Irlan compra uma cesta de legumes.",
         "practiceQuestion": "Complete: 'J'_____ un panier.'",
-        "options": ["achète", "achete", "achètes"],
+        "options": [
+          "achète",
+          "achete",
+          "achètes"
+        ],
         "correctIndex": 0
       },
       {
@@ -252,7 +536,11 @@
         "exampleFr": "Les producteurs vendent leurs légumes.",
         "examplePt": "Os produtores vendem os legumes.",
         "practiceQuestion": "Complete: 'Ils _____ leurs légumes.'",
-        "options": ["vendent", "vends", "vendons"],
+        "options": [
+          "vendent",
+          "vends",
+          "vendons"
+        ],
         "correctIndex": 0
       }
     ]
@@ -260,31 +548,51 @@
   "quizQuestions": [
     {
       "question": "Como os produtores chegam ao mercado?",
-      "options": ["de barco", "de carro", "de trem"],
+      "options": [
+        "de barco",
+        "de carro",
+        "de trem"
+      ],
       "correctIndex": 0,
       "explanation": "Les producteurs arrivent en barque."
     },
     {
       "question": "O que Irlan compra?",
-      "options": ["uma cesta de legumes", "um bolo", "uma roupa"],
+      "options": [
+        "uma cesta de legumes",
+        "um bolo",
+        "uma roupa"
+      ],
       "correctIndex": 0,
       "explanation": "Irlan achète un panier de légumes."
     },
     {
       "question": "O que Andréa compra?",
-      "options": ["um pote de mel", "um peixe", "um livro"],
+      "options": [
+        "um pote de mel",
+        "um peixe",
+        "um livro"
+      ],
       "correctIndex": 0,
       "explanation": "Andréa achète un pot de miel local."
     },
     {
       "question": "Complete: 'J'_____ un panier.'",
-      "options": ["achète", "achete", "achètes"],
+      "options": [
+        "achète",
+        "achete",
+        "achètes"
+      ],
       "correctIndex": 0,
       "explanation": "j'achète (com acento grave)."
     },
     {
       "question": "Complete: 'Ils _____ leurs légumes.'",
-      "options": ["vendent", "vends", "vendons"],
+      "options": [
+        "vendent",
+        "vends",
+        "vendons"
+      ],
       "correctIndex": 0,
       "explanation": "ils vendent."
     }

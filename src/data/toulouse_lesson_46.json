@@ -11,8 +11,8 @@
   "paragraphs": [
     {
       "id": 1,
-      "fr": "« Le métro de Toulouse est automatique, expliqua Irlan. La technologie VAL est née à Lille, en 1983. Ici, la première ligne a été inaugurée en 1993. » Íris regarda la rame sans conducteur arriver toute seule.",
-      "pt": "« O metrô de Toulouse é automático, explicou Irlan. A tecnologia VAL nasceu em Lille, em 1983. Aqui, a primeira linha foi inaugurada em 1993. » Íris viu o trem sem maquinista chegar sozinho."
+      "fr": "« Le métro de Toulouse est automatique, expliqua Irlan. La technologie VAL est née à Lille, en 1983. Ici, la première ligne a été inaugurée en 1993. » Andréa regarda la rame sans conducteur arriver toute seule.",
+      "pt": "« O metrô de Toulouse é automático, explicou Irlan. A tecnologia VAL nasceu em Lille, em 1983. Aqui, a primeira linha foi inaugurada em 1993. » Andréa viu o trem sem maquinista chegar sozinho."
     },
     {
       "id": 2,
@@ -33,6 +33,16 @@
       "id": 5,
       "fr": "En sortant, Irlan conclut : « J'avais peur de m'enfermer sous terre. Mais le métro, c'est une autre carte de la ville : celle des gens pressés qui se croisent sans se voir. Un géographe doit lire les deux. »",
       "pt": "Ao sair, Irlan concluiu: « Eu tinha medo de me enfiar debaixo da terra. Mas o metrô é outro mapa da cidade: o dos apressados que se cruzam sem se ver. Um geógrafo deve ler os dois. »"
+    },
+    {
+      "id": 6,
+      "fr": "Le métro s'est immobilisé et la station est devenue indisponible. Un technicien est venu dépanner la rame, tandis qu'Andréa cherchait une solution provisoire.",
+      "pt": "O metrô parou e a estação ficou indisponível. Um técnico veio consertar o trem, enquanto Andréa procurava uma solução provisória."
+    },
+    {
+      "id": 7,
+      "fr": "Irlan a sécurisé le carnet dans son sac et a réduit le risque de le perdre. Le retard était pénible, mais il leur donnait le temps de résoudre un problème du plan.",
+      "pt": "Irlan protegeu o caderno na bolsa e reduziu o risco de perdê-lo. O atraso era penoso, mas dava-lhes tempo para resolver um problema do mapa."
     }
   ],
   "vocabularyDictionary": [
@@ -71,7 +81,7 @@
       "examples": [
         { "level": "A1", "fr": "La rame arrive.", "pt": "O trem chega." },
         { "level": "A2-B1", "fr": "La rame est pleine.", "pt": "O trem está cheio." },
-        { "level": "B2", "fr": "Íris regarda la rame sans conducteur arriver toute seule.", "pt": "Íris viu o trem sem maquinista chegar sozinho." },
+        { "level": "B2", "fr": "Andréa regarda la rame sans conducteur arriver toute seule.", "pt": "Andréa viu o trem sem maquinista chegar sozinho." },
         { "level": "C1-C2", "fr": "Chaque rame du VAL glisse dans le tunnel comme un poisson dans son fleuve.", "pt": "Cada composição do VAL desliza no túnel como um peixe em seu rio." }
       ]
     },

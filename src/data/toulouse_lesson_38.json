@@ -21,8 +21,8 @@
     },
     {
       "id": 3,
-      "fr": "« Il y a même une école flottante ? demanda Íris, incrédule. — Presque, rit la voisine. Les enfants prennent le bus sur la rive. Mais le soir, ils s'endorment en écoutant l'eau. » Irlan imagina : lui aussi aurait aimé ça, enfant.",
-      "pt": "« Tem até uma escola flutuante? » perguntou Íris, incrédula. « Quase, riu a vizinha. As crianças pegam o ônibus na margem. Mas à noite, adormecem ouvindo a água. » Irlan imaginou: ele também teria gostado disso, quando criança."
+      "fr": "« Il y a même une école flottante ? demanda Andréa, incrédule. — Presque, rit la voisine. Les enfants prennent le bus sur la rive. Mais le soir, ils s'endorment en écoutant l'eau. » Irlan imagina : lui aussi aurait aimé ça, enfant.",
+      "pt": "« Tem até uma escola flutuante? » perguntou Andréa, incrédula. « Quase, riu a vizinha. As crianças pegam o ônibus na margem. Mas à noite, adormecem ouvindo a água. » Irlan imaginou: ele também teria gostado disso, quando criança."
     },
     {
       "id": 4,
@@ -33,6 +33,16 @@
       "id": 5,
       "fr": "Le soir, Irlan nota : « Les péniches m'ont appris une chose : on peut changer de vie sans changer de pays. Il suffit de changer d'eau. Et moi, j'ai changé d'océan, de rivière, et de rêve. »",
       "pt": "À noite, Irlan anotou: « As barcaças me ensinaram uma coisa: pode-se mudar de vida sem mudar de país. Basta mudar de água. E eu mudei de oceano, de rio e de sonho. »"
+    },
+    {
+      "id": 6,
+      "fr": "Une péniche venait s'amarrer près du canal de Brienne. Irlan a observé le débit et la manière dont les bateaux pouvaient transiter sans perturber les promeneurs.",
+      "pt": "Uma barcaça vinha atracar perto do canal de Brienne. Irlan observou o fluxo e a maneira como os barcos podiam transitar sem perturbar os passeantes."
+    },
+    {
+      "id": 7,
+      "fr": "À mesure que le soir avançait, les reflets se dissipaient. Andréa a déplié la carte et a délimité un itinéraire pour poursuivre l'enquête ultérieurement.",
+      "pt": "À medida que a noite avançava, os reflexos se dissipavam. Andréa desdobrou o mapa e delimitou um itinerário para continuar a investigação posteriormente."
     }
   ],
   "vocabularyDictionary": [
@@ -135,7 +145,7 @@
       "ptTargets": ["flutuante", "flutuantes"],
       "examples": [
         { "level": "A1", "fr": "La maison est flottante.", "pt": "A casa é flutuante." },
-        { "level": "A2-B1", "fr": "Une école flottante ? demanda Íris.", "pt": "Uma escola flutuante? perguntou Íris." },
+        { "level": "A2-B1", "fr": "Une école flottante ? demanda Andréa.", "pt": "Uma escola flutuante? perguntou Andréa." },
         { "level": "B2", "fr": "Les jardins flottants des péniches étonnent les passants.", "pt": "Os jardins flutuantes das barcaças surpreendem os passantes." },
         { "level": "C1-C2", "fr": "L'architecture flottante connaît un renouveau face à la montée des eaux.", "pt": "A arquitetura flutuante conhece um renascimento diante da subida das águas." }
       ]

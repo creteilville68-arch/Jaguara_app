@@ -12,6 +12,7 @@
     "plan": "bun run scripts/plan_city_words.ts",
     "worklists": "bun run scripts/generate_worklists.ts",
     "coverage": "bun run scripts/check_word_coverage.ts",
+    "gap": "bun run scripts/gap_report.ts",
     "audit": "bun run scripts/audit_vocab.ts",
     "audit:clickable": "bun run scripts/audit_clickable_examples.ts"
   },

@@ -16,8 +16,8 @@
     },
     {
       "id": 2,
-      "fr": "« Ce soir, tu viens chez mes parents pour Noël », dit Andréa. Irlan est un peu nerveux, mais il sourit.",
-      "pt": "«Esta noite, você vem na casa dos meus pais para o Natal», diz Andréa. Irlan está um pouco nervoso, mas sorri."
+      "fr": "« Ce soir, tu viens chez ma famille pour Noël », dit Andréa. Irlan est un peu nerveux, mais il sourit.",
+      "pt": "«Esta noite, você vem na casa da minha família para o Natal», diz Andréa. Irlan está um pouco nervoso, mas sorri."
     },
     {
       "id": 3,
@@ -26,13 +26,13 @@
     },
     {
       "id": 4,
-      "fr": "Le père d'Andréa ouvre la porte. « Bienvenue, Irlan ! Entre, il fait froid dehors. »",
-      "pt": "O pai de Andréa abre a porta. «Bem-vindo, Irlan! Entre, está frio lá fora.»"
+      "fr": "La grand-mère d'Andréa ouvre la porte. « Bienvenue, Irlan ! Entre, il fait froid dehors. »",
+      "pt": "A avó de Andréa abre a porta. «Bem-vindo, Irlan! Entre, está frio lá fora.»"
     },
     {
       "id": 5,
-      "fr": "La table est grande. Il y a une dinde, des légumes, du fromage et un gâteau au chocolat.",
-      "pt": "A mesa é grande. Há um peru, legumes, queijo e um bolo de chocolate."
+      "fr": "La table est grande. Il y a une dinde, des légumes, du fromage et un gâteau au chocolat. Les adultes parlent, les enfants jouent près du sapin.",
+      "pt": "A mesa é grande. Há um peru, legumes, queijo e um bolo de chocolate. Os adultos conversam, as crianças brincam perto do pinheiro."
     },
     {
       "id": 6,
@@ -238,11 +238,11 @@
     "correctIndex": 0,
     "points": [
       {
-        "ruleTitle": "Chez mes parents",
-        "explanationPt": "'Chez + pessoa' indica a casa de alguém: chez mes parents (na casa dos meus pais), chez Andréa (na casa de Andréa), chez moi (na minha casa).",
-        "exampleFr": "Tu viens chez mes parents pour Noël.",
-        "examplePt": "Você vem na casa dos meus pais para o Natal.",
-        "practiceQuestion": "Complete: 'Je vais _____ mes parents.'",
+        "ruleTitle": "Chez ma famille",
+        "explanationPt": "'Chez + pessoa' indica a casa de alguém: chez ma famille (na casa da minha família), chez Andréa (na casa de Andréa), chez moi (na minha casa).",
+        "exampleFr": "Tu viens chez ma famille pour Noël.",
+        "examplePt": "Você vem na casa da minha família para o Natal.",
+        "practiceQuestion": "Complete: 'Je vais _____ ma famille.'",
         "options": ["chez", "à", "en"],
         "correctIndex": 0
       },
@@ -260,9 +260,9 @@
   "quizQuestions": [
     {
       "question": "Onde Irlan passa o Natal?",
-      "options": ["na casa dos pais de Andréa", "no Brasil", "sozinho"],
+      "options": ["na casa da família de Andréa", "no Brasil", "sozinho"],
       "correctIndex": 0,
-      "explanation": "Il passe Noël chez les parents d'Andréa, à Créteil."
+      "explanation": "Il passe Noël chez la famille d'Andréa, à Créteil."
     },
     {
       "question": "O que Irlan leva de presente?",
@@ -277,10 +277,10 @@
       "explanation": "Andréa lui offre une écharpe bleue."
     },
     {
-      "question": "Complete: 'Tu viens _____ mes parents.'",
+      "question": "Complete: 'Tu viens _____ ma famille.'",
       "options": ["chez", "à", "en"],
       "correctIndex": 0,
-      "explanation": "On dit 'chez mes parents'."
+      "explanation": "On dit 'chez ma famille'."
     },
     {
       "question": "Quem Irlan chama depois do jantar?",

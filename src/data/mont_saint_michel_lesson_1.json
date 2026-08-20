@@ -69,6 +69,21 @@
       "fr": "Au-dessus du rocher, un goéland a crié. Irlan a levé les yeux : la flèche de l'abbaye semblait indiquer le nord. « La carte nous regarde. »",
       "pt": "Acima do rochedo, uma gaivota gritou. Irlan ergueu os olhos: a flecha da abadia parecia indicar o norte. « O mapa nos observa. »"
     }
+    ,{
+      "id": 13,
+      "fr": "À proximité de la baie, Irlan observe le brouillard. « Il fait mauvais aujourd'hui, mais nous avons l'habitude de marcher ici », dit Andréa.",
+      "pt": "Nas proximidades da baía, Irlan observa a neblina. O tempo está ruim hoje, mas temos o hábito de caminhar aqui, diz Andréa."
+    },
+    {
+      "id": 14,
+      "fr": "Ils ferment le parapluie quand l'averse s'arrête. Au coin de la rue, une pancarte indique la promenade en bateau.",
+      "pt": "Eles fecham o guarda-chuva quando o aguaceiro para. Na esquina, uma placa indica o passeio de barco."
+    },
+    {
+      "id": 15,
+      "fr": "« Il faut être à l'heure pour la marée », rappelle Irlan. Le couple se réjouit de commencer cette nouvelle étape.",
+      "pt": "É preciso estar no horário para a maré, lembra Irlan. O casal se alegra de começar esta nova etapa."
+    }
   ],
   "vocabularyDictionary": [
     {
@@ -130,7 +145,7 @@
       "inflections": ["la grève", "les grèves"],
       "ptTargets": ["areal"],
       "examples": [
-        { "level": "A1", "fr": "La grève est longue.", "pt": "O areal é comprido." },
+        { "level": "A1", "fr": "Nous marchons sur la grève.", "pt": "Nós caminhamos sobre a faixa de areia." },
         { "level": "A2-B1", "fr": "Nous avons marché sur la grève à marée basse.", "pt": "Caminhamos no areal na maré baixa." },
         { "level": "B2", "fr": "La grève découvre des kilomètres de sable à marée basse.", "pt": "O areal revela quilômetros de areia na maré baixa." },
         { "level": "C1-C2", "fr": "La topographie changeante de la grève rend la traversée de la baie délicate.", "pt": "A topografia mutante do areal torna a travessia da baía delicada." }

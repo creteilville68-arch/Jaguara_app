@@ -7,7 +7,7 @@
   "titlePt": "A Guillotière: o mercado de tesouros do mundo",
   "subtitleFr": "Rapporter les paroles : le bavardage du marché",
   "subtitlePt": "Relatar as falas: a conversa do mercado",
-  "summaryPt": "A Guillotière, na margem esquerda do Ródano, é um dos bairros mais antigos e mais multiculturais de Lyon: seu mercado na place Gabriel Péri mistura produtos de todo o mundo. Nesta aula B2+, a família passeia pelo mercado e pratica o discurso indireto.",
+  "summaryPt": "A Guillotière, na margem esquerda do Ródano, é um dos bairros mais antigos e mais multiculturais de Lyon: seu mercado na place Gabriel Péri mistura produtos de todo o mundo. Nesta aula B2+, o casal passeia pelo mercado e pratica o discurso indireto.",
   "paragraphs": [
     {
       "id": 1,
@@ -26,13 +26,23 @@
     },
     {
       "id": 4,
-      "fr": "Íris goûta un fruit inconnu. « C'est délicieux ! » cria-t-elle. Le marchand demanda s'il devait lui préparer un sachet. Andréa répondit qu'ils en prendraient deux, un pour le chemin.",
-      "pt": "Íris provou uma fruta desconhecida. « É delicioso! » gritou ela. O comerciante perguntou se devia preparar um saquinho. Andréa respondeu que levariam dois, um para o caminho."
+      "fr": "Andréa goûta un fruit inconnu. « C'est délicieux ! » cria-t-elle. Le marchand demanda s'il devait lui préparer un sachet. Irlan répondit qu'ils en prendraient deux, un pour le chemin.",
+      "pt": "Andréa provou uma fruta desconhecida. « É delicioso! » gritou ela. O comerciante perguntou se devia preparar um saquinho. Irlan respondeu que levariam dois, um para o caminho."
     },
     {
       "id": 5,
       "fr": "Le soir, Irlan écrivit : « Un marchand m'a dit que la Guillotière avait toujours été une porte ouverte sur le monde. J'ai compris que Lyon n'était pas une seule ville, mais mille villages qui se touchent. Et moi, je viens du village brésilien qui a rejoint la fête. »",
       "pt": "À noite, Irlan escreveu: « Um comerciante me disse que a Guillotière sempre tinha sido uma porta aberta para o mundo. Entendi que Lyon não é uma cidade só, mas mil vilarejos que se tocam. E eu venho do vilarejo brasileiro que entrou na festa. »"
+    },
+    {
+      "id": 6,
+      "fr": "À la Guillotière, l'interculturalité rendait le quartier particulièrement vivant. Les langues pouvaient coexister et le pluralisme donnait à chaque échange une portée globale.",
+      "pt": "Na Guillotière, a interculturalidade tornava o bairro especialmente vivo. As línguas podiam coexistir e o pluralismo dava a cada troca um alcance global."
+    },
+    {
+      "id": 7,
+      "fr": "Andréa a classifié les saveurs sans les enfermer dans un stéréotype. Irlan a compris que la diversité culturelle ne se résumait pas à une image anecdotique.",
+      "pt": "Andréa classificou os sabores sem prendê-los a um estereótipo. Irlan entendeu que a diversidade cultural não se resumia a uma imagem anedótica."
     }
   ],
   "vocabularyDictionary": [
@@ -148,7 +158,7 @@
       "ptTargets": ["fruta", "frutas"],
       "examples": [
         { "level": "A1", "fr": "Le fruit est bon.", "pt": "A fruta é boa." },
-        { "level": "A2-B1", "fr": "Íris goûte un fruit inconnu.", "pt": "Íris prova uma fruta desconhecida." },
+        { "level": "A2-B1", "fr": "Andréa goûte un fruit inconnu.", "pt": "Andréa prova uma fruta desconhecida." },
         { "level": "B2", "fr": "Les fruits, exposés en pyramides, embaument le marché.", "pt": "As frutas, expostas em pirâmides, perfumam o mercado." },
         { "level": "C1-C2", "fr": "C'est le fruit qui offre au marché ses plus belles couleurs.", "pt": "É a fruta que oferece ao mercado suas mais belas cores." }
       ]

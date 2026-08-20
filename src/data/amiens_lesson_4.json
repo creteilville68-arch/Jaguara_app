@@ -68,6 +68,21 @@
       "id": 12,
       "fr": "« Demain, on retournera à la cathédrale », décide Irlan. « La réponse est dans la lumière. »",
       "pt": "«Amanhã, voltaremos à catedral», decide Irlan. «A resposta está na luz.»"
+    },
+    {
+      "id": 13,
+      "fr": "En revenant à la rive, Irlan passe devant une petite poissonnerie. L'odeur du poisson frais remplit l'air. « C'est comme à la poissonnerie de ma ville natale », murmure-t-il.",
+      "pt": "Voltando à margem, Irlan passa diante de uma pequena peixaria. O cheiro de peixe fresco toma o ar. É como na peixaria da minha cidade natal, murmura ele."
+    },
+    {
+      "id": 14,
+      "fr": "Une femme peau noire pèle des bananes devant un étal. À côté, un panier d'ananas et de poivrons brille au soleil.",
+      "pt": "Uma mulher de pele escura descasca bananas diante de uma banca. Ao lado, um cesto de abacaxis e pimentões brilha ao sol."
+    },
+    {
+      "id": 15,
+      "fr": "Andréa goûte une tarte aux pommes servie avec de la chantilly. « La purée est délicieuse aussi », dit-elle en souriant.",
+      "pt": "Andréa prova uma torta de maçã servida com chantilly. O purê também está delicioso, diz ela sorrindo."
     }
   ],
   "vocabularyDictionary": [
@@ -75,156 +90,418 @@
       "term": "la barque",
       "definitionPt": "o barco (pequeno)",
       "definitionFr": "Petit bateau.",
-      "inflections": ["la barque", "une barque", "des barques"],
-      "ptTargets": ["barco"],
+      "inflections": [
+        "la barque",
+        "une barque",
+        "des barques"
+      ],
+      "ptTargets": [
+        "barco"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La barque est petite.", "pt": "O barco é pequeno." },
-        { "level": "A2-B1", "fr": "Ils louent une barque pour visiter les jardins.", "pt": "Eles alugam um barco para visitar os jardins." },
-        { "level": "B2", "fr": "La barque glisse sans bruit sur l'eau calme.", "pt": "O barco desliza sem barulho na água calma." },
-        { "level": "C1-C2", "fr": "C'est la barque qui, légère, permet d'entrer au cœur des jardins flottants.", "pt": "É o barco que, leve, permite entrar no coração dos jardins flutuantes." }
+        {
+          "level": "A1",
+          "fr": "La barque est petite.",
+          "pt": "O barco é pequeno."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Ils louent une barque pour visiter les jardins.",
+          "pt": "Eles alugam um barco para visitar os jardins."
+        },
+        {
+          "level": "B2",
+          "fr": "La barque glisse sans bruit sur l'eau calme.",
+          "pt": "O barco desliza sem barulho na água calma."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est la barque qui, légère, permet d'entrer au cœur des jardins flottants.",
+          "pt": "É o barco que, leve, permite entrar no coração dos jardins flutuantes."
+        }
       ]
     },
     {
       "term": "le jardin",
       "definitionPt": "o jardim",
       "definitionFr": "Lieu où l'on cultive des plantes.",
-      "inflections": ["le jardin", "un jardin", "des jardins"],
-      "ptTargets": ["jardim"],
+      "inflections": [
+        "le jardin",
+        "un jardin",
+        "des jardins"
+      ],
+      "ptTargets": [
+        "jardim"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le jardin est vert.", "pt": "O jardim é verde." },
-        { "level": "A2-B1", "fr": "Les hortillonnages sont des jardins flottants.", "pt": "Os hortillonnages são jardins flutuantes." },
-        { "level": "B2", "fr": "Les jardins flottants d'Amiens sont cultivés depuis des siècles.", "pt": "Os jardins flutuantes de Amiens são cultivados há séculos." },
-        { "level": "C1-C2", "fr": "C'est le jardin qui, au fil de l'eau, transforme la ville en paysage.", "pt": "É o jardim que, ao fio da água, transforma a cidade em paisagem." }
+        {
+          "level": "A1",
+          "fr": "Le jardin est vert.",
+          "pt": "O jardim é verde."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Les hortillonnages sont des jardins flottants.",
+          "pt": "Os hortillonnages são jardins flutuantes."
+        },
+        {
+          "level": "B2",
+          "fr": "Les jardins flottants d'Amiens sont cultivés depuis des siècles.",
+          "pt": "Os jardins flutuantes de Amiens são cultivados há séculos."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est le jardin qui, au fil de l'eau, transforme la ville en paysage.",
+          "pt": "É o jardim que, ao fio da água, transforma a cidade em paisagem."
+        }
       ]
     },
     {
       "term": "l'eau",
       "definitionPt": "a água",
       "definitionFr": "Liquide clair et transparent.",
-      "inflections": ["l'eau", "une eau", "des eaux"],
-      "ptTargets": ["água"],
+      "inflections": [
+        "l'eau",
+        "une eau",
+        "des eaux"
+      ],
+      "ptTargets": [
+        "água"
+      ],
       "examples": [
-        { "level": "A1", "fr": "L'eau est calme.", "pt": "A água está calma." },
-        { "level": "A2-B1", "fr": "L'eau reflète les feuilles vertes.", "pt": "A água reflete as folhas verdes." },
-        { "level": "B2", "fr": "L'eau des canaux nourrit les jardins flottants.", "pt": "A água dos canais alimenta os jardins flutuantes." },
-        { "level": "C1-C2", "fr": "C'est l'eau qui, silencieuse, relie les parcelles du marais.", "pt": "É a água que, silenciosa, liga as parcelas do pântano." }
+        {
+          "level": "A1",
+          "fr": "L'eau est calme.",
+          "pt": "A água está calma."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "L'eau reflète les feuilles vertes.",
+          "pt": "A água reflete as folhas verdes."
+        },
+        {
+          "level": "B2",
+          "fr": "L'eau des canaux nourrit les jardins flottants.",
+          "pt": "A água dos canais alimenta os jardins flutuantes."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est l'eau qui, silencieuse, relie les parcelles du marais.",
+          "pt": "É a água que, silenciosa, liga as parcelas do pântano."
+        }
       ]
     },
     {
       "term": "naviguer",
       "definitionPt": "navegar",
       "definitionFr": "Se déplacer sur l'eau.",
-      "inflections": ["naviguer", "je navigue", "nous naviguons"],
-      "ptTargets": ["navegar"],
+      "inflections": [
+        "naviguer",
+        "je navigue",
+        "nous naviguons"
+      ],
+      "ptTargets": [
+        "navegar"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Ils naviguent en barque.", "pt": "Eles navegam de barco." },
-        { "level": "A2-B1", "fr": "Ils naviguent entre les jardins flottants.", "pt": "Eles navegam entre os jardins flutuantes." },
-        { "level": "B2", "fr": "Naviguer sur les canaux demande de la prudence.", "pt": "Navegar nos canais exige prudência." },
-        { "level": "C1-C2", "fr": "C'est en naviguant que l'on lit le paysage comme une carte vivante.", "pt": "É navegando que se lê a paisagem como um mapa vivo." }
+        {
+          "level": "A1",
+          "fr": "Ils naviguent en barque.",
+          "pt": "Eles navegam de barco."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Ils naviguent entre les jardins flottants.",
+          "pt": "Eles navegam entre os jardins flutuantes."
+        },
+        {
+          "level": "B2",
+          "fr": "Naviguer sur les canaux demande de la prudence.",
+          "pt": "Navegar nos canais exige prudência."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est en naviguant que l'on lit le paysage comme une carte vivante.",
+          "pt": "É navegando que se lê a paisagem como um mapa vivo."
+        }
       ]
     },
     {
       "term": "ramer",
       "definitionPt": "remar",
       "definitionFr": "Faire avancer une barque avec des rames.",
-      "inflections": ["ramer", "je rame", "nous ramons"],
-      "ptTargets": ["remar"],
+      "inflections": [
+        "ramer",
+        "je rame",
+        "nous ramons"
+      ],
+      "ptTargets": [
+        "remar"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Irlan rame doucement.", "pt": "Irlan rema devagar." },
-        { "level": "A2-B1", "fr": "Il rame pour avancer sur le canal.", "pt": "Ele rema para avançar no canal." },
-        { "level": "B2", "fr": "Ramer en rythme demande un bon équilibre.", "pt": "Remar em ritmo exige bom equilíbrio." },
-        { "level": "C1-C2", "fr": "C'est en ramant que l'on apprend la patience du courant.", "pt": "É remando que se aprende a paciência da correnteza." }
+        {
+          "level": "A1",
+          "fr": "Irlan rame doucement.",
+          "pt": "Irlan rema devagar."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Il rame pour avancer sur le canal.",
+          "pt": "Ele rema para avançar no canal."
+        },
+        {
+          "level": "B2",
+          "fr": "Ramer en rythme demande un bon équilibre.",
+          "pt": "Remar em ritmo exige bom equilíbrio."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est en ramant que l'on apprend la patience du courant.",
+          "pt": "É remando que se aprende a paciência da correnteza."
+        }
       ]
     },
     {
       "term": "le maraîcher",
       "definitionPt": "o horticultor",
       "definitionFr": "Personne qui cultive des légumes.",
-      "inflections": ["le maraîcher", "un maraîcher", "des maraîchers"],
-      "ptTargets": ["horticultor"],
+      "inflections": [
+        "le maraîcher",
+        "un maraîcher",
+        "des maraîchers"
+      ],
+      "ptTargets": [
+        "horticultor"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le maraîcher travaille.", "pt": "O horticultor trabalha." },
-        { "level": "A2-B1", "fr": "Les maraîchers cultivent des légumes.", "pt": "Os horticultores cultivam legumes." },
-        { "level": "B2", "fr": "Les maraîchers des hortillonnages vendent leur récolte au marché.", "pt": "Os horticultores dos hortillonnages vendem a colheita no mercado." },
-        { "level": "C1-C2", "fr": "C'est le maraîcher qui, les mains dans la terre, nourrit toute une ville.", "pt": "É o horticultor que, com as mãos na terra, alimenta uma cidade inteira." }
+        {
+          "level": "A1",
+          "fr": "Le maraîcher travaille.",
+          "pt": "O horticultor trabalha."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Les maraîchers cultivent des légumes.",
+          "pt": "Os horticultores cultivam legumes."
+        },
+        {
+          "level": "B2",
+          "fr": "Les maraîchers des hortillonnages vendent leur récolte au marché.",
+          "pt": "Os horticultores dos hortillonnages vendem a colheita no mercado."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est le maraîcher qui, les mains dans la terre, nourrit toute une ville.",
+          "pt": "É o horticultor que, com as mãos na terra, alimenta uma cidade inteira."
+        }
       ]
     },
     {
       "term": "le légume",
       "definitionPt": "o legume",
       "definitionFr": "Plante que l'on mange.",
-      "inflections": ["le légume", "un légume", "des légumes"],
-      "ptTargets": ["legume"],
+      "inflections": [
+        "le légume",
+        "un légume",
+        "des légumes"
+      ],
+      "ptTargets": [
+        "legume"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le légume est frais.", "pt": "O legume é fresco." },
-        { "level": "A2-B1", "fr": "Ils cultivent des légumes sur les rives.", "pt": "Eles cultivam legumes nas margens." },
-        { "level": "B2", "fr": "Les légumes du marché sont cueillis le matin même.", "pt": "Os legumes do mercado são colhidos na própria manhã." },
-        { "level": "C1-C2", "fr": "C'est le légume qui, simple et nourrissant, garde le goût de la terre.", "pt": "É o legume que, simples e nutritivo, guarda o gosto da terra." }
+        {
+          "level": "A1",
+          "fr": "Le légume est frais.",
+          "pt": "O legume é fresco."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Ils cultivent des légumes sur les rives.",
+          "pt": "Eles cultivam legumes nas margens."
+        },
+        {
+          "level": "B2",
+          "fr": "Les légumes du marché sont cueillis le matin même.",
+          "pt": "Os legumes do mercado são colhidos na própria manhã."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est le légume qui, simple et nourrissant, garde le goût de la terre.",
+          "pt": "É o legume que, simples e nutritivo, guarda o gosto da terra."
+        }
       ]
     },
     {
       "term": "la rive",
       "definitionPt": "a margem",
       "definitionFr": "Bord d'un cours d'eau.",
-      "inflections": ["la rive", "une rive", "des rives"],
-      "ptTargets": ["margem"],
+      "inflections": [
+        "la rive",
+        "une rive",
+        "des rives"
+      ],
+      "ptTargets": [
+        "margem"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La rive est verte.", "pt": "A margem é verde." },
-        { "level": "A2-B1", "fr": "Les maraîchers travaillent sur les rives.", "pt": "Os horticultores trabalham nas margens." },
-        { "level": "B2", "fr": "Les rives du canal sont bordées de saules.", "pt": "As margens do canal são cercadas de salgueiros." },
-        { "level": "C1-C2", "fr": "C'est la rive qui, au bord de l'eau, accueille le calme des jardins.", "pt": "É a margem que, à beira da água, acolhe a calma dos jardins." }
+        {
+          "level": "A1",
+          "fr": "La rive est verte.",
+          "pt": "A margem é verde."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Les maraîchers travaillent sur les rives.",
+          "pt": "Os horticultores trabalham nas margens."
+        },
+        {
+          "level": "B2",
+          "fr": "Les rives du canal sont bordées de saules.",
+          "pt": "As margens do canal são cercadas de salgueiros."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est la rive qui, au bord de l'eau, accueille le calme des jardins.",
+          "pt": "É a margem que, à beira da água, acolhe a calma dos jardins."
+        }
       ]
     },
     {
       "term": "le calme",
       "definitionPt": "a calma",
       "definitionFr": "Absence de bruit et d'agitation.",
-      "inflections": ["le calme"],
-      "ptTargets": ["calma"],
+      "inflections": [
+        "le calme"
+      ],
+      "ptTargets": [
+        "calma"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le calme est agréable.", "pt": "A calma é agradável." },
-        { "level": "A2-B1", "fr": "Le calme aide à réfléchir.", "pt": "A calma ajuda a pensar." },
-        { "level": "B2", "fr": "Le calme des jardins contraste avec le bruit de la ville.", "pt": "A calma dos jardins contrasta com o barulho da cidade." },
-        { "level": "C1-C2", "fr": "C'est le calme qui, au bord de l'eau, remet les idées en ordre.", "pt": "É a calma que, à beira da água, põe as ideias em ordem." }
+        {
+          "level": "A1",
+          "fr": "Le calme est agréable.",
+          "pt": "A calma é agradável."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Le calme aide à réfléchir.",
+          "pt": "A calma ajuda a pensar."
+        },
+        {
+          "level": "B2",
+          "fr": "Le calme des jardins contraste avec le bruit de la ville.",
+          "pt": "A calma dos jardins contrasta com o barulho da cidade."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est le calme qui, au bord de l'eau, remet les idées en ordre.",
+          "pt": "É a calma que, à beira da água, põe as ideias em ordem."
+        }
       ]
     },
     {
       "term": "glisser",
       "definitionPt": "deslizar",
       "definitionFr": "Avancer sans bruit.",
-      "inflections": ["glisser", "je glisse", "nous glissons"],
-      "ptTargets": ["deslizar"],
+      "inflections": [
+        "glisser",
+        "je glisse",
+        "nous glissons"
+      ],
+      "ptTargets": [
+        "deslizar"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La barque glisse.", "pt": "O barco desliza." },
-        { "level": "A2-B1", "fr": "L'eau glisse sous la barque.", "pt": "A água desliza sob o barco." },
-        { "level": "B2", "fr": "La barque glisse sans bruit sur le canal.", "pt": "O barco desliza sem barulho no canal." },
-        { "level": "C1-C2", "fr": "C'est en glissant sur l'eau que l'on goûte le silence.", "pt": "É deslizando sobre a água que se saboreia o silêncio." }
+        {
+          "level": "A1",
+          "fr": "La barque glisse.",
+          "pt": "O barco desliza."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "L'eau glisse sous la barque.",
+          "pt": "A água desliza sob o barco."
+        },
+        {
+          "level": "B2",
+          "fr": "La barque glisse sans bruit sur le canal.",
+          "pt": "O barco desliza sem barulho no canal."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est en glissant sur l'eau que l'on goûte le silence.",
+          "pt": "É deslizando sobre a água que se saboreia o silêncio."
+        }
       ]
     },
     {
       "term": "la feuille",
       "definitionPt": "a folha",
       "definitionFr": "Partie verte d'une plante.",
-      "inflections": ["la feuille", "une feuille", "des feuilles"],
-      "ptTargets": ["folha"],
+      "inflections": [
+        "la feuille",
+        "une feuille",
+        "des feuilles"
+      ],
+      "ptTargets": [
+        "folha"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La feuille est verte.", "pt": "A folha é verde." },
-        { "level": "A2-B1", "fr": "L'eau reflète les feuilles vertes.", "pt": "A água reflete as folhas verdes." },
-        { "level": "B2", "fr": "Les feuilles des saules frémissent au vent.", "pt": "As folhas dos salgueiros tremulam ao vento." },
-        { "level": "C1-C2", "fr": "C'est la feuille qui, légère, annonce le passage des saisons.", "pt": "É a folha que, leve, anuncia a passagem das estações." }
+        {
+          "level": "A1",
+          "fr": "La feuille est verte.",
+          "pt": "A folha é verde."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "L'eau reflète les feuilles vertes.",
+          "pt": "A água reflete as folhas verdes."
+        },
+        {
+          "level": "B2",
+          "fr": "Les feuilles des saules frémissent au vent.",
+          "pt": "As folhas dos salgueiros tremulam ao vento."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est la feuille qui, légère, annonce le passage des saisons.",
+          "pt": "É a folha que, leve, anuncia a passagem das estações."
+        }
       ]
     },
     {
       "term": "la libellule",
       "definitionPt": "a libélula",
       "definitionFr": "Insecte aux ailes fines.",
-      "inflections": ["la libellule", "une libellule", "des libellules"],
-      "ptTargets": ["libélula"],
+      "inflections": [
+        "la libellule",
+        "une libellule",
+        "des libellules"
+      ],
+      "ptTargets": [
+        "libélula"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La libellule vole.", "pt": "A libélula voa." },
-        { "level": "A2-B1", "fr": "Une libellule se pose sur la barque.", "pt": "Uma libélula pousa no barco." },
-        { "level": "B2", "fr": "Les libellules volent au-dessus de l'eau calme.", "pt": "As libélulas voam acima da água calma." },
-        { "level": "C1-C2", "fr": "C'est la libellule qui, fragile, habite les eaux tranquilles.", "pt": "É a libélula que, frágil, habita as águas tranquilas." }
+        {
+          "level": "A1",
+          "fr": "La libellule vole.",
+          "pt": "A libélula voa."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Une libellule se pose sur la barque.",
+          "pt": "Uma libélula pousa no barco."
+        },
+        {
+          "level": "B2",
+          "fr": "Les libellules volent au-dessus de l'eau calme.",
+          "pt": "As libélulas voam acima da água calma."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est la libellule qui, fragile, habite les eaux tranquilles.",
+          "pt": "É a libélula que, frágil, habita as águas tranquilas."
+        }
       ]
     }
   ],
@@ -234,7 +511,11 @@
     "exampleFr": "Ils naviguent entre les jardins flottants.",
     "examplePt": "Eles navegam entre os jardins flutuantes.",
     "practiceQuestion": "Complete: 'Nous _____ sur le canal.'",
-    "options": ["naviguons", "navigue", "naviguent"],
+    "options": [
+      "naviguons",
+      "navigue",
+      "naviguent"
+    ],
     "correctIndex": 0,
     "points": [
       {
@@ -243,7 +524,11 @@
         "exampleFr": "On dirait un autre monde.",
         "examplePt": "Parece outro mundo.",
         "practiceQuestion": "Complete: 'On _____ un labyrinthe d'eau.'",
-        "options": ["dirait", "dit", "dira"],
+        "options": [
+          "dirait",
+          "dit",
+          "dira"
+        ],
         "correctIndex": 0
       },
       {
@@ -252,7 +537,11 @@
         "exampleFr": "C'est un autre monde au milieu de la ville.",
         "examplePt": "É outro mundo no meio da cidade.",
         "practiceQuestion": "Complete: 'C'est calme _____ milieu de la ville.'",
-        "options": ["au", "à", "en"],
+        "options": [
+          "au",
+          "à",
+          "en"
+        ],
         "correctIndex": 0
       }
     ]
@@ -260,31 +549,51 @@
   "quizQuestions": [
     {
       "question": "O que são os hortillonnages?",
-      "options": ["jardins flutuantes", "pontes", "praças"],
+      "options": [
+        "jardins flutuantes",
+        "pontes",
+        "praças"
+      ],
       "correctIndex": 0,
       "explanation": "Les hortillonnages sont des jardins flottants."
     },
     {
       "question": "O que os horticultores cultivam?",
-      "options": ["legumes", "pedras", "peixes"],
+      "options": [
+        "legumes",
+        "pedras",
+        "peixes"
+      ],
       "correctIndex": 0,
       "explanation": "Les maraîchers cultivent des légumes."
     },
     {
       "question": "O que Irlan precisa entender?",
-      "options": ["a pista da rosácea", "a receita do macaron", "o mapa do metrô"],
+      "options": [
+        "a pista da rosácea",
+        "a receita do macaron",
+        "o mapa do metrô"
+      ],
       "correctIndex": 0,
       "explanation": "Il doit comprendre l'indice de la rosace."
     },
     {
       "question": "Complete: 'Nous _____ sur le canal.'",
-      "options": ["naviguons", "navigue", "naviguent"],
+      "options": [
+        "naviguons",
+        "navigue",
+        "naviguent"
+      ],
       "correctIndex": 0,
       "explanation": "nous naviguons."
     },
     {
       "question": "Complete: 'On _____ un labyrinthe d'eau.'",
-      "options": ["dirait", "dit", "dira"],
+      "options": [
+        "dirait",
+        "dit",
+        "dira"
+      ],
       "correctIndex": 0,
       "explanation": "On dirait un labyrinthe."
     }

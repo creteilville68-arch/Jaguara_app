@@ -69,6 +69,21 @@
       "fr": "« Et nous partirons à l'heure exacte », a ajouté Andréa. « La marée n'attend personne, pas même les curieux. » Ils ont rejoint les remparts.",
       "pt": "« E partiremos na hora exata », acrescentou Andréa. « A maré não espera ninguém, nem mesmo os curiosos. » Eles voltaram às muralhas."
     }
+    ,{
+      "id": 13,
+      "fr": "Dans les sables mouvants, Irlan reste discret et suit le guide. « Il ne faut pas se tromper de route », prévient celui-ci.",
+      "pt": "Nas areias movediças, Irlan permanece discreto e segue o guia. Não se deve errar o caminho, avisa este."
+    },
+    {
+      "id": 14,
+      "fr": "Andréa voit une lampe de poche derrière le bâtiment. Elle est gênée, mais le guide garde son calme.",
+      "pt": "Andréa vê uma lanterna atrás do prédio. Ela fica sem jeito, mas o guia mantém a calma."
+    },
+    {
+      "id": 15,
+      "fr": "Tout à coup, la brume se lève. Le groupe est guéri de sa peur et rejoint la terre ferme à l'heure.",
+      "pt": "De repente, a névoa se levanta. O grupo se cura do medo e chega à terra firme no horário."
+    }
   ],
   "vocabularyDictionary": [
     {
@@ -104,7 +119,7 @@
       "inflections": ["le danger", "un danger", "des dangers"],
       "ptTargets": ["perigo"],
       "examples": [
-        { "level": "A1", "fr": "Le danger est grand.", "pt": "O perigo é grande." },
+        { "level": "A1", "fr": "Le danger est passé.", "pt": "O perigo passou." },
         { "level": "A2-B1", "fr": "La baie cache des dangers.", "pt": "A baía esconde perigos." },
         { "level": "B2", "fr": "Les guides connaissent tous les dangers de la baie.", "pt": "Os guias conhecem todos os perigos da baía." },
         { "level": "C1-C2", "fr": "Le danger n'est pas dans la mer, mais dans l'ignorance de la mer.", "pt": "O perigo não está no mar, mas na ignorância do mar." }
@@ -156,7 +171,7 @@
       "inflections": ["la vitesse", "une vitesse", "des vitesses"],
       "ptTargets": ["velocidade"],
       "examples": [
-        { "level": "A1", "fr": "La vitesse est grande.", "pt": "A velocidade é grande." },
+        { "level": "A1", "fr": "Attention à la vitesse !", "pt": "Cuidado com a velocidade!" },
         { "level": "A2-B1", "fr": "La marée arrive à grande vitesse.", "pt": "A maré chega em alta velocidade." },
         { "level": "B2", "fr": "À cette vitesse, impossible d'échapper à la marée.", "pt": "Nessa velocidade, é impossível escapar da maré." },
         { "level": "C1-C2", "fr": "La vitesse de la marée surprend même les habitués.", "pt": "A velocidade da maré surpreende até os habituados." }

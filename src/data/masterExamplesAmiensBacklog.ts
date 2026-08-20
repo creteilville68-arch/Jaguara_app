@@ -77,4 +77,16 @@ export const AMIENS_BACKLOG_EXAMPLES: Record<string, MasterExample[]> = {
     { level: 'B2', fr: 'Cette ville est marquée par son histoire.', pt: 'Esta cidade é marcada por sua história.' },
     { level: 'C1-C2', fr: "C'est une rencontre marquée par la grâce qui restera dans les mémoires.", pt: 'É um encontro marcado pela graça que ficará na memória.' },
   ],
+  poissonnerie: [
+    { level: 'A1', fr: 'La poissonnerie est ouverte.', pt: 'A peixaria está aberta.' },
+    { level: 'A2-B1', fr: 'Ils achètent du poisson à la poissonnerie.', pt: 'Eles compram peixe na peixaria.' },
+    { level: 'B2', fr: 'La poissonnerie du marché vend du poisson frais pêché ce matin.', pt: 'A peixaria do mercado vende peixe fresco pescado nesta manhã.' },
+    { level: 'C1-C2', fr: "C'est la poissonnerie qui, chaque matin, relie les pêcheurs à la ville.", pt: 'É a peixaria que, toda manhã, liga os pescadores à cidade.' },
+  ],
+  pâtisserie: [
+    { level: 'A1', fr: 'La pâtisserie est délicieuse.', pt: 'A pastelaria é deliciosa.' },
+    { level: 'A2-B1', fr: 'Ils achètent un gâteau à la pâtisserie du coin.', pt: 'Eles compram um bolo na pastelaria da esquina.' },
+    { level: 'B2', fr: "La pâtisserie d'Amiens est réputée pour son gâteau battu.", pt: 'A pastelaria de Amiens é reconhecida por seu gâteau battu.' },
+    { level: 'C1-C2', fr: "C'est la pâtisserie qui, par ses recettes, garde vivante la mémoire sucrée d'une ville.", pt: 'É a pastelaria que, por suas receitas, guarda viva a memória doce de uma cidade.' },
+  ],
 };

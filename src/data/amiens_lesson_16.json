@@ -68,6 +68,21 @@
       "id": 12,
       "fr": "« On nous suit », dit Andréa à voix basse. « Continuons, comme si de rien n'était. »",
       "pt": "« Estão nos seguindo », diz Andréa em voz baixa. « Continuemos, como se nada tivesse acontecido. »"
+    },
+    {
+      "id": 13,
+      "fr": "Sur la place Gambetta, les magasins ouvrent leurs portes. Irlan regarde la vitrine du coiffeur.",
+      "pt": "Na praça Gambetta, as lojas abrem suas portas. Irlan olha a vitrine do cabeleireiro."
+    },
+    {
+      "id": 14,
+      "fr": "Ils cherchent un déjeuner. Le quart d'heure de marche les mène à une boulangerie.",
+      "pt": "Eles procuram um almoço. O quarto de hora de caminhada os leva a uma padaria."
+    },
+    {
+      "id": 15,
+      "fr": "Irlan achète un sandwich et une banane. Il note dans son cahier : « Les chiffres mènent peut-être au centre-ville ».",
+      "pt": "Irlan compra um sanduíche e uma banana. Ele anota no caderno: Os números talvez levem ao centro da cidade."
     }
   ],
   "vocabularyDictionary": [
@@ -75,156 +90,422 @@
       "term": "la place",
       "definitionPt": "a praça",
       "definitionFr": "Espace ouvert dans une ville.",
-      "inflections": ["la place", "une place", "des places"],
-      "ptTargets": ["praça"],
+      "inflections": [
+        "la place",
+        "une place",
+        "des places"
+      ],
+      "ptTargets": [
+        "praça"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La place est grande.", "pt": "A praça é grande." },
-        { "level": "A2-B1", "fr": "La place Gambetta est animée.", "pt": "A praça Gambetta é animada." },
-        { "level": "B2", "fr": "La place, au centre de la ville, attire les promeneurs.", "pt": "A praça, no centro da cidade, atrai os caminhantes." },
-        { "level": "C1-C2", "fr": "C'est la place qui, carrefour de vies, raconte le rythme de la ville.", "pt": "É a praça que, encruzilhada de vidas, conta o ritmo da cidade." }
+        {
+          "level": "A1",
+          "fr": "La place est grande.",
+          "pt": "A praça é grande."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "La place Gambetta est animée.",
+          "pt": "A praça Gambetta é animada."
+        },
+        {
+          "level": "B2",
+          "fr": "La place, au centre de la ville, attire les promeneurs.",
+          "pt": "A praça, no centro da cidade, atrai os caminhantes."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est la place qui, carrefour de vies, raconte le rythme de la ville.",
+          "pt": "É a praça que, encruzilhada de vidas, conta o ritmo da cidade."
+        }
       ]
     },
     {
       "term": "le magasin",
       "definitionPt": "a loja",
       "definitionFr": "Lieu où l'on vend des choses.",
-      "inflections": ["le magasin", "un magasin", "des magasins"],
-      "ptTargets": ["loja"],
+      "inflections": [
+        "le magasin",
+        "un magasin",
+        "des magasins"
+      ],
+      "ptTargets": [
+        "loja"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le magasin est ouvert.", "pt": "A loja está aberta." },
-        { "level": "A2-B1", "fr": "Ils font des achats dans les magasins.", "pt": "Eles fazem compras nas lojas." },
-        { "level": "B2", "fr": "Les magasins du centre restent ouverts jusqu'au soir.", "pt": "As lojas do centro ficam abertas até a noite." },
-        { "level": "C1-C2", "fr": "C'est le magasin qui, par ses vitrines, expose les désirs de toute une ville.", "pt": "É a loja que, pelas suas vitrines, expõe os desejos de toda uma cidade." }
+        {
+          "level": "A1",
+          "fr": "Le magasin est ouvert.",
+          "pt": "A loja está aberta."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Ils font des achats dans les magasins.",
+          "pt": "Eles fazem compras nas lojas."
+        },
+        {
+          "level": "B2",
+          "fr": "Les magasins du centre restent ouverts jusqu'au soir.",
+          "pt": "As lojas do centro ficam abertas até a noite."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est le magasin qui, par ses vitrines, expose les désirs de toute une ville.",
+          "pt": "É a loja que, pelas suas vitrines, expõe os desejos de toda uma cidade."
+        }
       ]
     },
     {
       "term": "le carnet",
       "definitionPt": "o caderno",
       "definitionFr": "Petit cahier de notes.",
-      "inflections": ["le carnet", "un carnet", "des carnets"],
-      "ptTargets": ["caderno", "bloco"],
+      "inflections": [
+        "le carnet",
+        "un carnet",
+        "des carnets"
+      ],
+      "ptTargets": [
+        "caderno",
+        "bloco"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le carnet est bleu.", "pt": "O caderno é azul." },
-        { "level": "A2-B1", "fr": "Andréa achète un carnet pour les notes.", "pt": "Andréa compra um caderno para as notas." },
-        { "level": "B2", "fr": "Un carnet de voyage garde les souvenirs de chaque étape.", "pt": "Um caderno de viagem guarda as lembranças de cada etapa." },
-        { "level": "C1-C2", "fr": "C'est le carnet qui, rempli au fil des jours, devient un trésor personnel.", "pt": "É o caderno que, preenchido ao longo dos dias, vira um tesouro pessoal." }
+        {
+          "level": "A1",
+          "fr": "Le carnet est bleu.",
+          "pt": "O caderno é azul."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Andréa achète un carnet pour les notes.",
+          "pt": "Andréa compra um caderno para as notas."
+        },
+        {
+          "level": "B2",
+          "fr": "Un carnet de voyage garde les souvenirs de chaque étape.",
+          "pt": "Um caderno de viagem guarda as lembranças de cada etapa."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est le carnet qui, rempli au fil des jours, devient un trésor personnel.",
+          "pt": "É o caderno que, preenchido ao longo dos dias, vira um tesouro pessoal."
+        }
       ]
     },
     {
       "term": "le crayon",
       "definitionPt": "o lápis",
       "definitionFr": "Objet pour écrire.",
-      "inflections": ["le crayon", "un crayon", "des crayons"],
-      "ptTargets": ["lápis"],
+      "inflections": [
+        "le crayon",
+        "un crayon",
+        "des crayons"
+      ],
+      "ptTargets": [
+        "lápis"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le crayon est noir.", "pt": "O lápis é preto." },
-        { "level": "A2-B1", "fr": "Elle choisit un crayon noir.", "pt": "Ela escolhe um lápis preto." },
-        { "level": "B2", "fr": "Le crayon, taillé, glisse sur le papier.", "pt": "O lápis, apontado, desliza sobre o papel." },
-        { "level": "C1-C2", "fr": "C'est le crayon qui, effaçable, autorise les corrections et les recommencements.", "pt": "É o lápis que, apagável, permite as correções e os recomeços." }
+        {
+          "level": "A1",
+          "fr": "Le crayon est noir.",
+          "pt": "O lápis é preto."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Elle choisit un crayon noir.",
+          "pt": "Ela escolhe um lápis preto."
+        },
+        {
+          "level": "B2",
+          "fr": "Le crayon, taillé, glisse sur le papier.",
+          "pt": "O lápis, apontado, desliza sobre o papel."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est le crayon qui, effaçable, autorise les corrections et les recommencements.",
+          "pt": "É o lápis que, apagável, permite as correções e os recomeços."
+        }
       ]
     },
     {
       "term": "la vendeuse",
       "definitionPt": "a vendedora",
       "definitionFr": "Femme qui vend.",
-      "inflections": ["la vendeuse", "une vendeuse", "des vendeuses"],
-      "ptTargets": ["vendedora"],
+      "inflections": [
+        "la vendeuse",
+        "une vendeuse",
+        "des vendeuses"
+      ],
+      "ptTargets": [
+        "vendedora"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La vendeuse est aimable.", "pt": "A vendedora é simpática." },
-        { "level": "A2-B1", "fr": "Andréa parle à la vendeuse.", "pt": "Andréa fala com a vendedora." },
-        { "level": "B2", "fr": "La vendeuse conseille les clients avec patience.", "pt": "A vendedora aconselha os clientes com paciência." },
-        { "level": "C1-C2", "fr": "C'est la vendeuse qui, d'un mot aimable, transforme un achat en plaisir.", "pt": "É a vendedora que, com uma palavra amável, transforma uma compra em prazer." }
+        {
+          "level": "A1",
+          "fr": "La vendeuse est aimable.",
+          "pt": "A vendedora é simpática."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Andréa parle à la vendeuse.",
+          "pt": "Andréa fala com a vendedora."
+        },
+        {
+          "level": "B2",
+          "fr": "La vendeuse conseille les clients avec patience.",
+          "pt": "A vendedora aconselha os clientes com paciência."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est la vendeuse qui, d'un mot aimable, transforme un achat en plaisir.",
+          "pt": "É a vendedora que, com uma palavra amável, transforma uma compra em prazer."
+        }
       ]
     },
     {
       "term": "acheter",
       "definitionPt": "comprar",
       "definitionFr": "Obtenir en payant.",
-      "inflections": ["acheter", "j'achète", "nous achetons"],
-      "ptTargets": ["comprar"],
+      "inflections": [
+        "acheter",
+        "j'achète",
+        "nous achetons"
+      ],
+      "ptTargets": [
+        "comprar"
+      ],
       "examples": [
-        { "level": "A1", "fr": "J'achète un carnet.", "pt": "Eu compro um caderno." },
-        { "level": "A2-B1", "fr": "Irlan achète deux bouteilles d'eau.", "pt": "Irlan compra duas garrafas de água." },
-        { "level": "B2", "fr": "Acheter local aide les petits commerces.", "pt": "Comprar local ajuda os pequenos comércios." },
-        { "level": "C1-C2", "fr": "C'est en achetant que l'on fait vivre, sans le savoir, toute une économie de proximité.", "pt": "É comprando que se faz viver, sem saber, toda uma economia de proximidade." }
+        {
+          "level": "A1",
+          "fr": "J'achète un carnet.",
+          "pt": "Eu compro um caderno."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Irlan achète deux bouteilles d'eau.",
+          "pt": "Irlan compra duas garrafas de água."
+        },
+        {
+          "level": "B2",
+          "fr": "Acheter local aide les petits commerces.",
+          "pt": "Comprar local ajuda os pequenos comércios."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est en achetant que l'on fait vivre, sans le savoir, toute une économie de proximité.",
+          "pt": "É comprando que se faz viver, sem saber, toda uma economia de proximidade."
+        }
       ]
     },
     {
       "term": "coûter",
       "definitionPt": "custar",
       "definitionFr": "Avoir un prix.",
-      "inflections": ["coûter", "ça coûte", "ils coûtent"],
-      "ptTargets": ["custar"],
+      "inflections": [
+        "coûter",
+        "ça coûte",
+        "ils coûtent"
+      ],
+      "ptTargets": [
+        "custar"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le carnet coûte six euros.", "pt": "O caderno custa seis euros." },
-        { "level": "A2-B1", "fr": "Combien ça coûte ?", "pt": "Quanto custa?" },
-        { "level": "B2", "fr": "Ces chaussures coûtent plus cher que les autres.", "pt": "Esses sapatos custam mais caro que os outros." },
-        { "level": "C1-C2", "fr": "C'est en comparant ce que les choses coûtent que l'on apprend à mieux choisir.", "pt": "É comparando o que as coisas custam que se aprende a escolher melhor." }
+        {
+          "level": "A1",
+          "fr": "Le carnet coûte six euros.",
+          "pt": "O caderno custa seis euros."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Combien ça coûte ?",
+          "pt": "Quanto custa?"
+        },
+        {
+          "level": "B2",
+          "fr": "Ces chaussures coûtent plus cher que les autres.",
+          "pt": "Esses sapatos custam mais caro que os outros."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est en comparant ce que les choses coûtent que l'on apprend à mieux choisir.",
+          "pt": "É comparando o que as coisas custam que se aprende a escolher melhor."
+        }
       ]
     },
     {
       "term": "la bouteille",
       "definitionPt": "a garrafa",
       "definitionFr": "Récipient pour l'eau.",
-      "inflections": ["la bouteille", "une bouteille", "des bouteilles"],
-      "ptTargets": ["garrafa"],
+      "inflections": [
+        "la bouteille",
+        "une bouteille",
+        "des bouteilles"
+      ],
+      "ptTargets": [
+        "garrafa"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La bouteille est pleine.", "pt": "A garrafa está cheia." },
-        { "level": "A2-B1", "fr": "Irlan achète deux bouteilles d'eau.", "pt": "Irlan compra duas garrafas de água." },
-        { "level": "B2", "fr": "Une bouteille d'eau fraîche fait du bien après la marche.", "pt": "Uma garrafa de água fresca faz bem depois da caminhada." },
-        { "level": "C1-C2", "fr": "C'est la bouteille qui, réutilisable, rappelle l'importance de préserver l'eau.", "pt": "É a garrafa que, reutilizável, lembra a importância de preservar a água." }
+        {
+          "level": "A1",
+          "fr": "La bouteille est pleine.",
+          "pt": "A garrafa está cheia."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Irlan achète deux bouteilles d'eau.",
+          "pt": "Irlan compra duas garrafas de água."
+        },
+        {
+          "level": "B2",
+          "fr": "Une bouteille d'eau fraîche fait du bien après la marche.",
+          "pt": "Uma garrafa de água fresca faz bem depois da caminhada."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est la bouteille qui, réutilisable, rappelle l'importance de préserver l'eau.",
+          "pt": "É a garrafa que, reutilizável, lembra a importância de preservar a água."
+        }
       ]
     },
     {
       "term": "l'épicerie",
       "definitionPt": "a mercearia",
       "definitionFr": "Petit magasin d'alimentation.",
-      "inflections": ["l'épicerie", "une épicerie", "des épiceries"],
-      "ptTargets": ["mercearia", "empório"],
+      "inflections": [
+        "l'épicerie",
+        "une épicerie",
+        "des épiceries"
+      ],
+      "ptTargets": [
+        "mercearia",
+        "empório"
+      ],
       "examples": [
-        { "level": "A1", "fr": "L'épicerie est proche.", "pt": "A mercearia é perto." },
-        { "level": "A2-B1", "fr": "Irlan achète de l'eau dans une épicerie du coin.", "pt": "Irlan compra água numa mercearia da esquina." },
-        { "level": "B2", "fr": "L'épicerie du quartier vend des produits de la région.", "pt": "A mercearia do bairro vende produtos da região." },
-        { "level": "C1-C2", "fr": "C'est l'épicerie qui, discrète au coin de la rue, garde le lien social du quartier.", "pt": "É a mercearia que, discreta na esquina da rua, mantém o vínculo social do bairro." }
+        {
+          "level": "A1",
+          "fr": "L'épicerie est proche.",
+          "pt": "A mercearia é perto."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Irlan achète de l'eau dans une épicerie du coin.",
+          "pt": "Irlan compra água numa mercearia da esquina."
+        },
+        {
+          "level": "B2",
+          "fr": "L'épicerie du quartier vend des produits de la région.",
+          "pt": "A mercearia do bairro vende produtos da região."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est l'épicerie qui, discrète au coin de la rue, garde le lien social du quartier.",
+          "pt": "É a mercearia que, discreta na esquina da rua, mantém o vínculo social do bairro."
+        }
       ]
     },
     {
       "term": "le kiosque",
       "definitionPt": "o quiosque",
       "definitionFr": "Petit stand couvert.",
-      "inflections": ["le kiosque", "un kiosque", "des kiosques"],
-      "ptTargets": ["quiosque", "banca"],
+      "inflections": [
+        "le kiosque",
+        "un kiosque",
+        "des kiosques"
+      ],
+      "ptTargets": [
+        "quiosque",
+        "banca"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le kiosque est fermé.", "pt": "O quiosque está fechado." },
-        { "level": "A2-B1", "fr": "La silhouette est près d'un kiosque.", "pt": "A silhueta está perto de um quiosque." },
-        { "level": "B2", "fr": "Le kiosque vend des journaux et des souvenirs.", "pt": "O quiosque vende jornais e lembranças." },
-        { "level": "C1-C2", "fr": "C'est le kiosque qui, immobile sur la place, devient un point de repère familier.", "pt": "É o quiosque que, imóvel na praça, vira um ponto de referência familiar." }
+        {
+          "level": "A1",
+          "fr": "Le kiosque est fermé.",
+          "pt": "O quiosque está fechado."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "La silhouette est près d'un kiosque.",
+          "pt": "A silhueta está perto de um quiosque."
+        },
+        {
+          "level": "B2",
+          "fr": "Le kiosque vend des journaux et des souvenirs.",
+          "pt": "O quiosque vende jornais e lembranças."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est le kiosque qui, immobile sur la place, devient un point de repère familier.",
+          "pt": "É o quiosque que, imóvel na praça, vira um ponto de referência familiar."
+        }
       ]
     },
     {
       "term": "la foule",
       "definitionPt": "a multidão",
       "definitionFr": "Grand nombre de personnes.",
-      "inflections": ["la foule", "une foule"],
-      "ptTargets": ["multidão"],
+      "inflections": [
+        "la foule",
+        "une foule"
+      ],
+      "ptTargets": [
+        "multidão"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La foule est grande.", "pt": "A multidão é grande." },
-        { "level": "A2-B1", "fr": "La silhouette s'éloigne dans la foule.", "pt": "A silhueta se afasta na multidão." },
-        { "level": "B2", "fr": "La foule se disperse peu à peu sur la place.", "pt": "A multidão se dispersa pouco a pouco na praça." },
-        { "level": "C1-C2", "fr": "C'est la foule qui, anonyme, protège autant qu'elle inquiète.", "pt": "É a multidão que, anônima, protege tanto quanto inquieta." }
+        {
+          "level": "A1",
+          "fr": "La foule est grande.",
+          "pt": "A multidão é grande."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "La silhouette s'éloigne dans la foule.",
+          "pt": "A silhueta se afasta na multidão."
+        },
+        {
+          "level": "B2",
+          "fr": "La foule se disperse peu à peu sur la place.",
+          "pt": "A multidão se dispersa pouco a pouco na praça."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est la foule qui, anonyme, protège autant qu'elle inquiète.",
+          "pt": "É a multidão que, anônima, protege tanto quanto inquieta."
+        }
       ]
     },
     {
       "term": "suivre",
       "definitionPt": "seguir",
       "definitionFr": "Aller derrière quelqu'un.",
-      "inflections": ["suivre", "je suis", "nous suivons"],
-      "ptTargets": ["seguir"],
+      "inflections": [
+        "suivre",
+        "je suis",
+        "nous suivons"
+      ],
+      "ptTargets": [
+        "seguir"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Je suis le chemin.", "pt": "Eu sigo o caminho." },
-        { "level": "A2-B1", "fr": "On nous suit peut-être.", "pt": "Talvez estejam nos seguindo." },
-        { "level": "B2", "fr": "Suivre les indices demande de la prudence.", "pt": "Seguir as pistas exige prudência." },
-        { "level": "C1-C2", "fr": "C'est en suivant sans se presser que l'on remarque les détails d'une piste.", "pt": "É seguindo sem se apressar que se notam os detalhes de uma pista." }
+        {
+          "level": "A1",
+          "fr": "Je suis le chemin.",
+          "pt": "Eu sigo o caminho."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "On nous suit peut-être.",
+          "pt": "Talvez estejam nos seguindo."
+        },
+        {
+          "level": "B2",
+          "fr": "Suivre les indices demande de la prudence.",
+          "pt": "Seguir as pistas exige prudência."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est en suivant sans se presser que l'on remarque les détails d'une piste.",
+          "pt": "É seguindo sem se apressar que se notam os detalhes de uma pista."
+        }
       ]
     }
   ],
@@ -234,7 +515,11 @@
     "exampleFr": "J'achète un carnet. Nous achetons de l'eau.",
     "examplePt": "Eu compro um caderno. Nós compramos água.",
     "practiceQuestion": "Complete: 'Nous _____ de l'eau.'",
-    "options": ["achetons", "achète", "achètes"],
+    "options": [
+      "achetons",
+      "achète",
+      "achètes"
+    ],
     "correctIndex": 0,
     "points": [
       {
@@ -243,7 +528,11 @@
         "exampleFr": "Combien ça coûte ? Six euros.",
         "examplePt": "Quanto custa? Seis euros.",
         "practiceQuestion": "Complete: '_____ ça coûte ?'",
-        "options": ["Combien", "Comment", "Pourquoi"],
+        "options": [
+          "Combien",
+          "Comment",
+          "Pourquoi"
+        ],
         "correctIndex": 0
       },
       {
@@ -252,7 +541,11 @@
         "exampleFr": "Six euros, s'il vous plaît.",
         "examplePt": "Seis euros, por favor.",
         "practiceQuestion": "Complete: 'Deux bouteilles, _____ vous plaît.'",
-        "options": ["s'il", "si", "il"],
+        "options": [
+          "s'il",
+          "si",
+          "il"
+        ],
         "correctIndex": 0
       }
     ]
@@ -260,31 +553,51 @@
   "quizQuestions": [
     {
       "question": "O que Andréa compra na papelaria?",
-      "options": ["um caderno e um lápis", "uma garrafa", "um casaco"],
+      "options": [
+        "um caderno e um lápis",
+        "uma garrafa",
+        "um casaco"
+      ],
       "correctIndex": 0,
       "explanation": "Elle choisit un carnet et un crayon noir."
     },
     {
       "question": "Quanto custa o caderno?",
-      "options": ["seis euros", "três euros", "dez euros"],
+      "options": [
+        "seis euros",
+        "três euros",
+        "dez euros"
+      ],
       "correctIndex": 0,
       "explanation": "Six euros, s'il vous plaît."
     },
     {
       "question": "O que Irlan revê na praça?",
-      "options": ["a silhueta de sobretudo cinza", "um amigo", "o vigia do museu"],
+      "options": [
+        "a silhueta de sobretudo cinza",
+        "um amigo",
+        "o vigia do museu"
+      ],
       "correctIndex": 0,
       "explanation": "Il revoit la silhouette au manteau gris."
     },
     {
       "question": "Complete: 'Nous _____ de l'eau.'",
-      "options": ["achetons", "achète", "achètes"],
+      "options": [
+        "achetons",
+        "achète",
+        "achètes"
+      ],
       "correctIndex": 0,
       "explanation": "nous achetons."
     },
     {
       "question": "Complete: '_____ ça coûte ?'",
-      "options": ["Combien", "Comment", "Pourquoi"],
+      "options": [
+        "Combien",
+        "Comment",
+        "Pourquoi"
+      ],
       "correctIndex": 0,
       "explanation": "Combien ça coûte ? = quanto custa?"
     }

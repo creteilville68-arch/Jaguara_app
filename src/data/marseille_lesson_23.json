@@ -26,8 +26,8 @@
     },
     {
       "id": 4,
-      "fr": "Íris compta les marches en sautant. « Quand tu auras fini de compter, la ville t'attendra », dit Andréa en riant. Sur le parvis, les bus, le métro et les vélos se croisaient : la gare est un cœur qui ne dort jamais.",
-      "pt": "Íris contou os degraus pulando. « Quando você terminar de contar, a cidade vai te esperar », disse Andréa rindo. No largo, os ônibus, o metrô e as bicicletas se cruzavam: a estação é um coração que nunca dorme."
+      "fr": "Andréa compta les marches en sautant. « Quand tu auras fini de compter, la ville t'attendra », dit Irlan en riant. Sur le parvis, les bus, le métro et les vélos se croisaient : la gare est un cœur qui ne dort jamais.",
+      "pt": "Andréa contou os degraus pulando. « Quando você terminar de contar, a cidade vai te esperar », disse Irlan rindo. No largo, os ônibus, o metrô e as bicicletas se cruzavam: a estação é um coração que nunca dorme."
     },
     {
       "id": 5,
@@ -70,7 +70,7 @@
       "ptTargets": ["degrau", "degraus", "caminhada"],
       "examples": [
         { "level": "A1", "fr": "La marche est haute.", "pt": "O degrau é alto." },
-        { "level": "A2-B1", "fr": "Íris compte les marches en sautant.", "pt": "Íris conta os degraus pulando." },
+        { "level": "A2-B1", "fr": "Andréa compte les marches en sautant.", "pt": "Andréa conta os degraus pulando." },
         { "level": "B2", "fr": "Les marches, usées par des millions de pas, brillent doucement.", "pt": "Os degraus, gastos por milhões de passos, brilham suavemente." },
         { "level": "C1-C2", "fr": "C'est en montant ces marches qu'on comprend l'ampleur de la ville.", "pt": "É subindo estes degraus que se compreende a dimensão da cidade." }
       ]
@@ -148,7 +148,7 @@
       "ptTargets": ["contar", "enumerar", "conto"],
       "examples": [
         { "level": "A1", "fr": "Je compte les marches.", "pt": "Eu conto os degraus." },
-        { "level": "A2-B1", "fr": "Íris compte en sautant.", "pt": "Íris conta pulando." },
+        { "level": "A2-B1", "fr": "Andréa compte en sautant.", "pt": "Andréa conta pulando." },
         { "level": "B2", "fr": "Compter les marches, c'est apprivoiser la montée.", "pt": "Contar os degraus é domar a subida." },
         { "level": "C1-C2", "fr": "C'est en comptant les pas que l'on mesure le chemin parcouru.", "pt": "É contando os passos que se mede o caminho percorrido." }
       ]

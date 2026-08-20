@@ -11,8 +11,8 @@
   "paragraphs": [
     {
       "id": 1,
-      "fr": "Irlan loua une voiture et la famille roula vers le nord. « Si les pierres sont dorées, c'est parce que le soleil les caresse », dit Andréa. Les maisons des villages brillaient d'une lumière chaude.",
-      "pt": "Irlan alugou um carro e a família seguiu para o norte. « Se as pedras são douradas, é porque o sol as acaricia », disse Andréa. As casas dos vilarejos brilhavam com uma luz quente."
+      "fr": "Irlan loua une voiture et le couple roula vers le nord. « Si les pierres sont dorées, c'est parce que le soleil les caresse », dit Andréa. Les maisons des villages brillaient d'une lumière chaude.",
+      "pt": "Irlan alugou um carro e o casal seguiu para o norte. « Se as pedras são douradas, é porque o sol as acaricia », disse Andréa. As casas dos vilarejos brilhavam com uma luz quente."
     },
     {
       "id": 2,
@@ -26,13 +26,23 @@
     },
     {
       "id": 4,
-      "fr": "Íris, avec un jus de raisin, trinqua avec les adultes. « Si j'étais grande, je trinquerais avec du vrai vin », dit-elle en riant. Andréa promit qu'elle pourrait goûter quand elle serait adulte.",
-      "pt": "Íris, com um suco de uva, brindou com os adultos. « Se eu fosse grande, brindaria com vinho de verdade », disse ela rindo. Andréa prometeu que ela poderia provar quando fosse adulta."
+      "fr": "Andréa, avec un jus de raisin, trinqua avec les vignerons. « Si j'étais vigneronne, je ferais pousser mes propres pieds de vigne », dit-elle en riant. Irlan promit qu'ils reviendraient au printemps pour voir les vignes fleurir.",
+      "pt": "Andréa, com um suco de uva, brindou com os viticultores. « Se eu fosse viticultora, cultivaria minhas próprias videiras », disse ela rindo. Irlan prometeu que voltariam na primavera para ver as vinhas florirem."
     },
     {
       "id": 5,
       "fr": "Le soir, Irlan écrivit : « Si je devais choisir un paysage français, je choisirais les pierres dorées du Beaujolais. Si nous étions venus en novembre, nous aurions vu la fête du vin. Nous reviendrons. C'est promis. »",
       "pt": "À noite, Irlan escreveu: « Se eu tivesse de escolher uma paisagem francesa, escolheria as pedras douradas do Beaujolais. Se tivéssemos vindo em novembro, teríamos visto a festa do vinho. Voltaremos. Prometido. »"
+    },
+    {
+      "id": 6,
+      "fr": "Dans le Beaujolais, les pierres dorées prenaient une teinte chaleureuse. Le paysage avait prospéré grâce à un travail régulier, même lorsque la récolte pouvait fluctuer.",
+      "pt": "No Beaujolais, as pedras douradas adquiriam uma tonalidade acolhedora. A paisagem havia prosperado graças a um trabalho regular, mesmo quando a colheita podia flutuar."
+    },
+    {
+      "id": 7,
+      "fr": "Irlan a évalué le terroir et a décrit son équilibre. Le résultat semblait fructueux, mais il refusait de le présenter comme une réussite absolue : chaque saison restait imprévisible.",
+      "pt": "Irlan avaliou o terroir e descreveu seu equilíbrio. O resultado parecia frutífero, mas ele se recusava a apresentá-lo como um sucesso absoluto: cada estação continuava imprevisível."
     }
   ],
   "vocabularyDictionary": [
@@ -135,7 +145,7 @@
       "ptTargets": ["uva", "uvas"],
       "examples": [
         { "level": "A1", "fr": "Le raisin est sucré.", "pt": "A uva é doce." },
-        { "level": "A2-B1", "fr": "Íris boit du jus de raisin.", "pt": "Íris bebe suco de uva." },
+        { "level": "A2-B1", "fr": "Andréa boit du jus de raisin.", "pt": "Andréa bebe suco de uva." },
         { "level": "B2", "fr": "Le raisin, mûri au soleil, donne au vin sa couleur.", "pt": "A uva, amadurecida ao sol, dá ao vinho sua cor." },
         { "level": "C1-C2", "fr": "C'est le raisin qui transforme une colline en richesse.", "pt": "É a uva que transforma uma colina em riqueza." }
       ]

@@ -16,8 +16,8 @@
     },
     {
       "id": 2,
-      "fr": "J'achète un ticket à la machine. La ligne 5 passe par la Bastille. Je regarde le plan et je choisis la bonne direction.",
-      "pt": "Eu compro um bilhete na máquina. A linha 5 passa pela Bastilha. Eu olho o mapa e escolho a direção certa."
+      "fr": "J'achète un billet à la machine. La ligne 5 passe par la Bastille. Je regarde le plan et je choisis la bonne direction. Je descends du train à la Bastille, je monte l'escalator, je traverse la rue au passage piéton et je tourne à gauche.",
+      "pt": "Eu compro um bilhete na máquina. A linha 5 passa pela Bastilha. Eu olho o mapa e escolho a direção certa. Eu desço do trem na Bastilha, subo a escada rolante, atravesso a rua na faixa de pedestres e viro à esquerda."
     },
     {
       "id": 3,
@@ -26,13 +26,23 @@
     },
     {
       "id": 4,
-      "fr": "Je change de ligne à la station Châtelet. Les couloirs sont grands et il y a beaucoup de monde. Le métro est la vie de Paris.",
-      "pt": "Eu troco de linha na estação Châtelet. Os corredores são grandes e há muita gente. O metrô é a vida de Paris."
+      "fr": "Je change de train à la station Châtelet. Les couloirs sont grands et il y a beaucoup de monde. Parfois, un touriste me demande son chemin, et je l'aide avec plaisir. Le métro est la vie de Paris.",
+      "pt": "Eu troco de trem na estação Châtelet. Os corredores são grandes e há muita gente. Às vezes, um turista me pede o caminho, e eu o ajudo com prazer. O metrô é a vida de Paris."
     },
     {
       "id": 5,
       "fr": "Dans ma tête, je dessine déjà la carte de ma nouvelle vie. Chaque ligne est un trait de mon propre atlas de Paris.",
       "pt": "Na minha cabeça, eu já desenho o mapa da minha nova vida. Cada linha é um traço do meu próprio atlas de Paris."
+    },
+    {
+      "id": 6,
+      "fr": "Ma carte Navigo me permet de voyager partout. Le passe Navigo est pratique : je valide mon billet à chaque station et je monte dans le train. L'autoroute est loin, mais le métro est partout à Paris.",
+      "pt": "Minha carte Navigo me permite viajar por todo lado. O passe Navigo é prático: eu valido meu bilhete em cada estação e entro no trem. A rodovia é longe, mas o metrô está em todo lugar em Paris."
+    },
+    {
+      "id": 7,
+      "fr": "À la sortie de la station, je traverse la rue au passage piéton. Je regarde à gauche, à droite, et je continue ma livraison. Paris est une ville qu'on découvre en marchant, en courant, en scooter. Chaque rue est une leçon.",
+      "pt": "Na saída da estação, eu atravesso a rua na faixa de pedestres. Eu olho para a esquerda, para a direita, e continuo minha entrega. Paris é uma cidade que se descobre caminhando, correndo, de scooter. Cada rua é uma lição."
     }
   ],
   "vocabularyDictionary": [

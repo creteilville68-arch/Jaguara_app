@@ -1,195 +1,475 @@
 {
   "id": "tours_lesson_43",
   "cityId": "tours",
-  "domain": "Cidade e arquitetura",
+  "domain": "Cultura e livros",
   "level": "Intermediário (B1)",
-  "titleFr": "La place Plumereau : le cœur du Vieux Tours",
-  "titlePt": "A place Plumereau: o coração do Vieux Tours",
-  "subtitleFr": "Les maisons à colombages qui penchent depuis cinq siècles",
-  "subtitlePt": "As casas de enxaimel que se inclinam há cinco séculos",
-  "summaryPt": "Nesta Aula 43 (B1), a família descobre a place Plumereau, a praça medieval mais famosa de Tours, com suas casas de enxaimel do século XV e seus cafés. O aluno pratica o vocabulário da cidade (la place, la maison à colombages, la terrasse) e os pronomes relativos qui/que/où.",
+  "titleFr": "La bibliothèque municipale : la langue des livres",
+  "titlePt": "A biblioteca municipal: a língua dos livros",
+  "subtitleFr": "Un vieux manuscrit, une phrase de 1904, et un bibliothécaire inquiet",
+  "subtitlePt": "Um velho manuscrito, uma frase de 1904 e um bibliotecário inquieto",
+  "summaryPt": "Nesta Aula 43 (B1), o casal visita a bibliothèque municipale de Tours para estudar a frase gravada na cave de Vouvray — e o bibliotecário hesita: na véspera, um homem de sobretudo cinza fez a mesma pergunta. O aluno pratica o vocabulário da biblioteca (la bibliothèque, le manuscrit, consulter) e os pronomes relativos qui/que/où.",
   "paragraphs": [
     {
       "id": 1,
-      "fr": "« Ici, c'est la place Plumereau », a dit Andréa. « Les Toursiens l'appellent la place Plum. Regarde ces maisons qui penchent : elles ont cinq cents ans. »",
-      "pt": "« Aqui é a place Plumereau », disse Andréa. « Os turoneses a chamam de place Plum. Olhe essas casas que se inclinam: elas têm quinhentos anos. »"
+      "fr": "« C'est ici, la bibliothèque municipale », a dit Andréa. « On dit qu'elle garde des livres du XVIe siècle. » Dans la salle de lecture, le silence était si grand qu'on entendait les pages tourner.",
+      "pt": "« É aqui, a biblioteca municipal », disse Andréa. « Dizem que ela guarda livros do século XVI. » Na sala de leitura, o silêncio era tão grande que se ouvia as páginas virarem."
     },
     {
       "id": 2,
-      "fr": "Les maisons à colombages sont en bois et en pierre. « Chaque étage avance un peu », a expliqué Irlan, le géographe. « C'est une astuce qui donne plus de place en haut. » Iris a compté les étages qui penchent : « Il y en a quatre ! »",
-      "pt": "As casas de enxaimel são de madeira e pedra. « Cada andar avança um pouco », explicou Irlan, o geógrafo. « É um truque que dá mais espaço em cima. » Íris contou os andares que se inclinam: « São quatro! »"
+      "fr": "Irlan a posé son téléphone sur le bureau : « J'ai photographié une phrase dans une cave de Vouvray. La date, 1904, et une écriture très ancienne. » Le bibliothécaire a regardé la photo. Son sourire a disparu.",
+      "pt": "Irlan pôs o celular sobre a mesa: « Fotografei uma frase numa cave de Vouvray. A data, 1904, e uma escrita muito antiga. » O bibliotecário olhou a foto. O sorriso dele desapareceu."
     },
     {
       "id": 3,
-      "fr": "La famille s'est assise à la terrasse d'un café. « Ici, on se retrouve entre amis », a dit Andréa. « C'est la place où toute la ville se donne rendez-vous. » Un serveur a apporté des citronnades et des gâteaux.",
-      "pt": "A família sentou-se no terraço de um café. « Aqui, as pessoas se encontram entre amigos », disse Andréa. « É a praça onde a cidade inteira marca encontro. » Um garçom trouxe limonadas e bolos."
+      "fr": "« Cette orthographe... », a murmuré le bibliothécaire. « C'est une écriture qu'on n'utilise plus depuis longtemps. » Il a regardé autour de lui, puis a baissé la voix : « Où avez-vous trouvé cela ? »",
+      "pt": "« Essa ortografia... », murmurou o bibliotecário. « É uma escrita que não se usa mais há muito tempo. » Ele olhou em volta e baixou a voz: « Onde vocês encontraram isso? »"
     },
     {
       "id": 4,
-      "fr": "« Regarde les sculptures sur les maisons », a dit Irlan. « Les visages que tu vois racontent des histoires de marchands et de vignerons. » Iris a cherché une grenouille cachée dans la pierre : « La voilà ! Celle que papa cherchait ! »",
-      "pt": "« Olhe as esculturas nas casas », disse Irlan. « Os rostos que você vê contam histórias de comerciantes e vinicultores. » Íris procurou um sapo escondido na pedra: « Está ali! Aquele que o papai procurava! »"
+      "fr": "Andréa a répondu : « Dans une cave, à Vouvray. » Le bibliothécaire a hésité. « Hier, un homme est venu poser la même question. Un homme au manteau gris. Il cherchait cette phrase, lui aussi. » Le silence est retombé comme une vague.",
+      "pt": "Andréa respondeu: « Numa cave, em Vouvray. » O bibliotecário hesitou. « Ontem, um homem veio fazer a mesma pergunta. Um homem de sobretudo cinza. Ele procurava essa frase também. » O silêncio caiu de novo como uma onda."
     },
     {
       "id": 5,
-      "fr": "Le soir, des musiciens ont joué de la guitare. « Quand j'étais livreur, je passais ici avec ma scooter », a souri Irlan. « Je n'avais jamais le temps de m'arrêter. Aujourd'hui, je comprends pourquoi tout le monde reste. »",
-      "pt": "À noite, músicos tocaram violão. « Quando eu era entregador, eu passava aqui de scooter », sorriu Irlan. « Nunca tinha tempo de parar. Hoje, entendo por que todo mundo fica. »"
+      "fr": "Dehors, sur les marches, Irlan a regardé Andréa : « Il est passé avant nous. » Elle a serré sa main : « Alors il faut aller plus vite. » Le soleil couchant allongeait leurs ombres sur la place, comme deux aiguilles d'une montre qui tourne.",
+      "pt": "Lá fora, nos degraus, Irlan olhou para Andréa: « Ele passou antes de nós. » Ela apertou a mão dele: « Então temos de ir mais rápido. » O sol poente alongava as sombras deles na praça, como dois ponteiros de um relógio que gira."
+    },
+    {
+      "id": 6,
+      "fr": "La bibliothèque municipale conserve des ouvrages rares. Irlan consulte un dictionnaire ancien.",
+      "pt": "A biblioteca municipal conserva obras raras. Irlan consulta um dicionário antigo."
+    },
+    {
+      "id": 7,
+      "fr": "Andréa lit un magazine de voyage. « Les magazines fournissent des informations utiles pour les voyageurs », dit-elle.",
+      "pt": "Andréa lê uma revista de viagem. As revistas fornecem informações úteis para viajantes, diz ela."
+    },
+    {
+      "id": 8,
+      "fr": "Irlan emprunte un livre sur la géographie de la Touraine. « Il faut rechercher les informations avec soin », murmure-t-il.",
+      "pt": "Irlan empresta um livro sobre a geografia da Touraine. É preciso pesquisar as informações com cuidado, murmura ele."
     }
   ],
   "vocabularyDictionary": [
     {
-      "term": "la place",
-      "definitionPt": "a praça",
-      "definitionFr": "Espace public dans une ville.",
-      "inflections": ["la place", "une place", "des places"],
-      "ptTargets": ["praça"],
+      "term": "la bibliothèque",
+      "definitionPt": "a biblioteca",
+      "definitionFr": "Lieu où l'on garde et lit des livres.",
+      "inflections": [
+        "la bibliothèque",
+        "une bibliothèque",
+        "des bibliothèques"
+      ],
+      "ptTargets": [
+        "biblioteca"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La place est grande.", "pt": "A praça é grande." },
-        { "level": "A2-B1", "fr": "La place Plumereau est célèbre à Tours.", "pt": "A place Plumereau é famosa em Tours." },
-        { "level": "B2", "fr": "La place où l'on se retrouve est pleine de cafés.", "pt": "A praça onde as pessoas se encontram está cheia de cafés." },
-        { "level": "C1-C2", "fr": "La place, salle de séjour de la ville, garde la mémoire des siècles.", "pt": "A praça, sala de estar da cidade, guarda a memória dos séculos." }
+        {
+          "level": "A1",
+          "fr": "Je vais à la bibliothèque.",
+          "pt": "Eu vou à biblioteca."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "La bibliothèque prête des livres gratuitement.",
+          "pt": "A biblioteca empresta livros gratuitamente."
+        },
+        {
+          "level": "B2",
+          "fr": "La bibliothèque où j'étudie ferme à dix-huit heures.",
+          "pt": "A biblioteca onde eu estudo fecha às dezoito horas."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "La bibliothèque, mémoire vivante de la ville, rassemble les voix de tous les siècles.",
+          "pt": "A biblioteca, memória viva da cidade, reúne as vozes de todos os séculos."
+        }
       ]
     },
     {
-      "term": "la maison à colombages",
-      "definitionPt": "a casa de enxaimel",
-      "definitionFr": "Maison ancienne en bois et en pierre.",
-      "inflections": ["la maison à colombages", "une maison à colombages", "des maisons à colombages"],
-      "ptTargets": ["casa de enxaimel", "enxaimel"],
+      "term": "le bibliothécaire",
+      "definitionPt": "o bibliotecário",
+      "definitionFr": "Personne qui s'occupe d'une bibliothèque.",
+      "inflections": [
+        "le bibliothécaire",
+        "un bibliothécaire",
+        "des bibliothécaires"
+      ],
+      "ptTargets": [
+        "bibliotecário"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La maison à colombages est vieille.", "pt": "A casa de enxaimel é velha." },
-        { "level": "A2-B1", "fr": "Les maisons à colombages penchent un peu.", "pt": "As casas de enxaimel se inclinam um pouco." },
-        { "level": "B2", "fr": "Les maisons à colombages que l'on voit ici datent du XVe siècle.", "pt": "As casas de enxaimel que se veem aqui datam do século XV." },
-        { "level": "C1-C2", "fr": "La maison à colombages, squelette de bois et chair de pierre, danse avec le temps.", "pt": "A casa de enxaimel, esqueleto de madeira e carne de pedra, dança com o tempo." }
+        {
+          "level": "A1",
+          "fr": "Le bibliothécaire m'aide à trouver un livre.",
+          "pt": "O bibliotecário me ajuda a encontrar um livro."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Demande au bibliothécaire, il connaît tous les livres.",
+          "pt": "Pergunte ao bibliotecário, ele conhece todos os livros."
+        },
+        {
+          "level": "B2",
+          "fr": "Le bibliothécaire, qui travaille ici depuis vingt ans, sait tout sur les vieux documents.",
+          "pt": "O bibliotecário, que trabalha aqui há vinte anos, sabe tudo sobre documentos antigos."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Le bibliothécaire, gardien des mots, connaît la valeur de chaque silence.",
+          "pt": "O bibliotecário, guardião das palavras, conhece o valor de cada silêncio."
+        }
       ]
     },
     {
-      "term": "la terrasse",
-      "definitionPt": "o terraço",
-      "definitionFr": "Espace de café en plein air.",
-      "inflections": ["la terrasse", "une terrasse", "des terrasses"],
-      "ptTargets": ["terraço"],
+      "term": "le manuscrit",
+      "definitionPt": "o manuscrito",
+      "definitionFr": "Document écrit à la main.",
+      "inflections": [
+        "le manuscrit",
+        "un manuscrit",
+        "des manuscrits"
+      ],
+      "ptTargets": [
+        "manuscrito"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La terrasse est pleine.", "pt": "O terraço está cheio." },
-        { "level": "A2-B1", "fr": "On s'assoit à la terrasse du café.", "pt": "Sentamo-nos no terraço do café." },
-        { "level": "B2", "fr": "La terrasse où nous sommes assis donne sur la place.", "pt": "O terraço onde estamos sentados dá para a praça." },
-        { "level": "C1-C2", "fr": "La terrasse, scène ouverte, offre le spectacle de la ville à qui sait regarder.", "pt": "O terraço, palco aberto, oferece o espetáculo da cidade a quem sabe olhar." }
+        {
+          "level": "A1",
+          "fr": "Le manuscrit est très vieux.",
+          "pt": "O manuscrito é muito antigo."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "On peut lire le manuscrit dans la salle de lecture.",
+          "pt": "Pode-se ler o manuscrito na sala de leitura."
+        },
+        {
+          "level": "B2",
+          "fr": "Le manuscrit que nous avons consulté date de 1904.",
+          "pt": "O manuscrito que consultamos data de 1904."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Le manuscrit, lettre d'un autre temps, traverse les siècles sans vieillir.",
+          "pt": "O manuscrito, carta de outro tempo, atravessa os séculos sem envelhecer."
+        }
       ]
     },
     {
-      "term": "se retrouver",
-      "definitionPt": "encontrar-se",
-      "definitionFr": "Se rencontrer au même endroit.",
-      "inflections": ["je me retrouve", "tu te retrouves", "il se retrouve", "nous nous retrouvons"],
-      "ptTargets": ["encontrar-se", "se encontrar"],
+      "term": "le rayon",
+      "definitionPt": "a estante, a prateleira",
+      "definitionFr": "Étagère où l'on range les livres.",
+      "inflections": [
+        "le rayon",
+        "un rayon",
+        "des rayons"
+      ],
+      "ptTargets": [
+        "estante",
+        "prateleira"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Nous nous retrouvons ici.", "pt": "Nós nos encontramos aqui." },
-        { "level": "A2-B1", "fr": "Les amis se retrouvent sur la place.", "pt": "Os amigos se encontram na praça." },
-        { "level": "B2", "fr": "C'est l'endroit où l'on se retrouve le samedi.", "pt": "É o lugar onde as pessoas se encontram aos sábados." },
-        { "level": "C1-C2", "fr": "Se retrouver, c'est réinventer ensemble un lieu que chacun porte en soi.", "pt": "Encontrar-se é reinventar juntos um lugar que cada um carrega em si." }
+        {
+          "level": "A1",
+          "fr": "Le livre est sur le rayon.",
+          "pt": "O livro está na estante."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Les dictionnaires sont sur le grand rayon.",
+          "pt": "Os dicionários estão na estante grande."
+        },
+        {
+          "level": "B2",
+          "fr": "Le rayon où l'on range les livres anciens est fermé.",
+          "pt": "A estante onde se guardam os livros antigos está fechada."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Le rayon, étagère des possibles, aligne des mondes entiers sur quelques planches.",
+          "pt": "A estante, prateleira dos possíveis, alinha mundos inteiros em algumas tábuas."
+        }
       ]
     },
     {
-      "term": "le quartier",
-      "definitionPt": "o bairro",
-      "definitionFr": "Partie d'une ville.",
-      "inflections": ["le quartier", "un quartier", "des quartiers"],
-      "ptTargets": ["bairro"],
+      "term": "le lecteur",
+      "definitionPt": "o leitor",
+      "definitionFr": "Personne qui lit.",
+      "inflections": [
+        "le lecteur",
+        "un lecteur",
+        "des lecteurs"
+      ],
+      "ptTargets": [
+        "leitor"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le quartier est calme.", "pt": "O bairro é calmo." },
-        { "level": "A2-B1", "fr": "Le Vieux Tours est un quartier célèbre.", "pt": "O Vieux Tours é um bairro famoso." },
-        { "level": "B2", "fr": "Le quartier où nous habitons est près de la place.", "pt": "O bairro onde moramos fica perto da praça." },
-        { "level": "C1-C2", "fr": "Le quartier, petit monde, a son accent, ses habitudes et ses légendes.", "pt": "O bairro, pequeno mundo, tem seu sotaque, seus costumes e suas lendas." }
+        {
+          "level": "A1",
+          "fr": "Le lecteur lit le journal.",
+          "pt": "O leitor lê o jornal."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Les lecteurs doivent rendre les livres à temps.",
+          "pt": "Os leitores devem devolver os livros em dia."
+        },
+        {
+          "level": "B2",
+          "fr": "Le lecteur, qui cherchait un vieux livre, est resté deux heures.",
+          "pt": "O leitor, que procurava um livro antigo, ficou duas horas."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Le lecteur, voyageur immobile, parcourt le monde sans quitter sa chaise.",
+          "pt": "O leitor, viajante imóvel, percorre o mundo sem sair da cadeira."
+        }
       ]
     },
     {
-      "term": "la pierre",
-      "definitionPt": "a pedra",
-      "definitionFr": "Matière dure utilisée pour construire.",
-      "inflections": ["la pierre", "une pierre", "des pierres"],
-      "ptTargets": ["pedra"],
+      "term": "les archives",
+      "definitionPt": "os arquivos",
+      "definitionFr": "Ensemble de vieux documents conservés.",
+      "inflections": [
+        "les archives",
+        "des archives"
+      ],
+      "ptTargets": [
+        "arquivos"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La pierre est dure.", "pt": "A pedra é dura." },
-        { "level": "A2-B1", "fr": "Les maisons sont en pierre et en bois.", "pt": "As casas são de pedra e madeira." },
-        { "level": "B2", "fr": "Les pierres que l'on voit ont été taillées il y a cinq siècles.", "pt": "As pedras que se veem foram talhadas há cinco séculos." },
-        { "level": "C1-C2", "fr": "La pierre, mémoire muette, raconte les mains qui l'ont façonnée.", "pt": "A pedra, memória muda, conta as mãos que a modelaram." }
+        {
+          "level": "A1",
+          "fr": "Les archives sont dans le sous-sol.",
+          "pt": "Os arquivos ficam no subsolo."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "On garde les vieux documents dans les archives.",
+          "pt": "Guardam-se os documentos antigos nos arquivos."
+        },
+        {
+          "level": "B2",
+          "fr": "Les archives, que la ville protège avec soin, racontent son histoire.",
+          "pt": "Os arquivos, que a cidade protege com cuidado, contam sua história."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Les archives, grenier de la mémoire, gardent les secrets que le temps n'efface pas.",
+          "pt": "Os arquivos, celeiro da memória, guardam os segredos que o tempo não apaga."
+        }
       ]
     },
     {
-      "term": "le bois",
-      "definitionPt": "a madeira",
-      "definitionFr": "Matière des arbres.",
-      "inflections": ["le bois", "un bois", "des bois"],
-      "ptTargets": ["madeira"],
+      "term": "la phrase",
+      "definitionPt": "a frase",
+      "definitionFr": "Suite de mots qui a un sens complet.",
+      "inflections": [
+        "la phrase",
+        "une phrase",
+        "des phrases"
+      ],
+      "ptTargets": [
+        "frase"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le bois est brun.", "pt": "A madeira é marrom." },
-        { "level": "A2-B1", "fr": "Les colombages sont en bois.", "pt": "Os enxaiméis são de madeira." },
-        { "level": "B2", "fr": "Le bois qui soutient ces maisons vient de la forêt de Touraine.", "pt": "A madeira que sustenta essas casas vem da floresta da Touraine." },
-        { "level": "C1-C2", "fr": "Le bois, matière vivante, respire encore sous les toits anciens.", "pt": "A madeira, matéria viva, ainda respira sob os telhados antigos." }
+        {
+          "level": "A1",
+          "fr": "Écris une phrase.",
+          "pt": "Escreva uma frase."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Je ne comprends pas cette phrase.",
+          "pt": "Eu não entendo essa frase."
+        },
+        {
+          "level": "B2",
+          "fr": "La phrase que tu as trouvée a une orthographe ancienne.",
+          "pt": "A frase que você encontrou tem uma ortografia antiga."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "La phrase, unité de la pensée, peut cacher un monde entier entre deux points.",
+          "pt": "A frase, unidade do pensamento, pode esconder um mundo inteiro entre dois pontos."
+        }
       ]
     },
     {
-      "term": "l'étage",
-      "definitionPt": "o andar",
-      "definitionFr": "Niveau d'une maison.",
-      "inflections": ["l'étage", "un étage", "des étages"],
-      "ptTargets": ["andar"],
+      "term": "l'orthographe",
+      "definitionPt": "a ortografia",
+      "definitionFr": "Manière correcte d'écrire les mots.",
+      "inflections": [
+        "l'orthographe",
+        "une orthographe",
+        "des orthographes"
+      ],
+      "ptTargets": [
+        "ortografia"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La maison a quatre étages.", "pt": "A casa tem quatro andares." },
-        { "level": "A2-B1", "fr": "Chaque étage avance un peu sur la place.", "pt": "Cada andar avança um pouco sobre a praça." },
-        { "level": "B2", "fr": "L'étage où nous montons est en bois.", "pt": "O andar aonde subimos é de madeira." },
-        { "level": "C1-C2", "fr": "L'étage, promesse de hauteur, défie la gravité depuis cinq cents ans.", "pt": "O andar, promessa de altura, desafia a gravidade há quinhentos anos." }
+        {
+          "level": "A1",
+          "fr": "L'orthographe est difficile.",
+          "pt": "A ortografia é difícil."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "L'orthographe du français change avec les siècles.",
+          "pt": "A ortografia do francês muda com os séculos."
+        },
+        {
+          "level": "B2",
+          "fr": "L'orthographe, que l'on étudie à l'école, garde la trace de l'histoire.",
+          "pt": "A ortografia, que se estuda na escola, guarda o traço da história."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "L'orthographe, miroir du temps, montre comment la langue a voyagé.",
+          "pt": "A ortografia, espelho do tempo, mostra como a língua viajou."
+        }
       ]
     },
     {
-      "term": "le restaurant",
-      "definitionPt": "o restaurante",
-      "definitionFr": "Lieu où l'on mange.",
-      "inflections": ["le restaurant", "un restaurant", "des restaurants"],
-      "ptTargets": ["restaurante"],
+      "term": "le parchemin",
+      "definitionPt": "o pergaminho",
+      "definitionFr": "Peau préparée pour écrire.",
+      "inflections": [
+        "le parchemin",
+        "un parchemin",
+        "des parchemins"
+      ],
+      "ptTargets": [
+        "pergaminho"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le restaurant est ouvert.", "pt": "O restaurante está aberto." },
-        { "level": "A2-B1", "fr": "Les restaurants de la place sont célèbres.", "pt": "Os restaurantes da praça são famosos." },
-        { "level": "B2", "fr": "Le restaurant où nous avons dîné fait des rillettes.", "pt": "O restaurante onde jantamos faz rillettes." },
-        { "level": "C1-C2", "fr": "Le restaurant, scène du goût, transforme la cuisine en fête.", "pt": "O restaurante, cena do gosto, transforma a cozinha em festa." }
+        {
+          "level": "A1",
+          "fr": "Le parchemin est ancien.",
+          "pt": "O pergaminho é antigo."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "On écrivait sur du parchemin au Moyen Âge.",
+          "pt": "Escrevia-se em pergaminho na Idade Média."
+        },
+        {
+          "level": "B2",
+          "fr": "Le parchemin, qui vient du cuir, a traversé mille ans.",
+          "pt": "O pergaminho, que vem do couro, atravessou mil anos."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Le parchemin, peau devenue page, porte encore la chaleur des mains qui l'ont écrit.",
+          "pt": "O pergaminho, pele tornada página, carrega ainda o calor das mãos que o escreveram."
+        }
       ]
     },
     {
-      "term": "l'ambiance",
-      "definitionPt": "o ambiente, o clima",
-      "definitionFr": "Atmosphère d'un lieu.",
-      "inflections": ["l'ambiance", "une ambiance", "des ambiances"],
-      "ptTargets": ["ambiente", "clima"],
+      "term": "consulter",
+      "definitionPt": "consultar",
+      "definitionFr": "Regarder un document pour s'informer.",
+      "inflections": [
+        "je consulte",
+        "tu consultes",
+        "il consulte",
+        "nous consultons"
+      ],
+      "ptTargets": [
+        "consultar"
+      ],
       "examples": [
-        { "level": "A1", "fr": "L'ambiance est bonne.", "pt": "O ambiente é bom." },
-        { "level": "A2-B1", "fr": "L'ambiance de la place est chaleureuse.", "pt": "O ambiente da praça é acolhedor." },
-        { "level": "B2", "fr": "L'ambiance que l'on ressent ici est unique.", "pt": "O ambiente que se sente aqui é único." },
-        { "level": "C1-C2", "fr": "L'ambiance, musique invisible, se compose de rires, de voix et de lumière.", "pt": "O ambiente, música invisível, compõe-se de risos, vozes e luz." }
+        {
+          "level": "A1",
+          "fr": "Je consulte le dictionnaire.",
+          "pt": "Eu consulto o dicionário."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "On peut consulter les manuscrits sur demande.",
+          "pt": "Pode-se consultar os manuscritos mediante solicitação."
+        },
+        {
+          "level": "B2",
+          "fr": "Les documents que nous avons consultés sont très rares.",
+          "pt": "Os documentos que consultamos são muito raros."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Consulter, geste de chercheur, ouvre les portes que le temps avait fermées.",
+          "pt": "Consultar, gesto de pesquisador, abre as portas que o tempo havia fechado."
+        }
       ]
     },
     {
-      "term": "se promener",
-      "definitionPt": "passear",
-      "definitionFr": "Marcher pour le plaisir.",
-      "inflections": ["je me promène", "tu te promènes", "il se promène", "nous nous promenons"],
-      "ptTargets": ["passear"],
+      "term": "la salle de lecture",
+      "definitionPt": "a sala de leitura",
+      "definitionFr": "Grande salle où l'on étudie en silence.",
+      "inflections": [
+        "la salle de lecture",
+        "une salle de lecture",
+        "des salles de lecture"
+      ],
+      "ptTargets": [
+        "sala de leitura"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Je me promène dans la rue.", "pt": "Eu passeio na rua." },
-        { "level": "A2-B1", "fr": "On se promène sur la place le soir.", "pt": "As pessoas passeiam na praça à noite." },
-        { "level": "B2", "fr": "La place où l'on se promène est pleine de vie.", "pt": "A praça onde se passeia está cheia de vida." },
-        { "level": "C1-C2", "fr": "Se promener, c'est lire la ville sans se presser.", "pt": "Passear é ler a cidade sem pressa." }
+        {
+          "level": "A1",
+          "fr": "La salle de lecture est grande.",
+          "pt": "A sala de leitura é grande."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "On travaille en silence dans la salle de lecture.",
+          "pt": "Trabalha-se em silêncio na sala de leitura."
+        },
+        {
+          "level": "B2",
+          "fr": "La salle de lecture, où l'on étudie, est ouverte jusqu'au soir.",
+          "pt": "A sala de leitura, onde se estuda, fica aberta até a noite."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "La salle de lecture, cathédrale du silence, abrite toutes les voix du monde.",
+          "pt": "A sala de leitura, catedral do silêncio, abriga todas as vozes do mundo."
+        }
       ]
     },
     {
-      "term": "la sculpture",
-      "definitionPt": "a escultura",
-      "definitionFr": "Œuvre taillée dans la pierre ou le bois.",
-      "inflections": ["la sculpture", "une sculpture", "des sculptures"],
-      "ptTargets": ["escultura"],
+      "term": "le catalogue",
+      "definitionPt": "o catálogo",
+      "definitionFr": "Liste des livres d'une bibliothèque.",
+      "inflections": [
+        "le catalogue",
+        "un catalogue",
+        "des catalogues"
+      ],
+      "ptTargets": [
+        "catálogo"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La sculpture est petite.", "pt": "A escultura é pequena." },
-        { "level": "A2-B1", "fr": "Les sculptures racontent des histoires.", "pt": "As esculturas contam histórias." },
-        { "level": "B2", "fr": "Les visages que l'on voit sur les maisons sont des sculptures.", "pt": "Os rostos que se veem nas casas são esculturas." },
-        { "level": "C1-C2", "fr": "La sculpture, parole de pierre, fige un geste pour l'éternité.", "pt": "A escultura, palavra de pedra, congela um gesto para a eternidade." }
+        {
+          "level": "A1",
+          "fr": "Le catalogue est sur la table.",
+          "pt": "O catálogo está na mesa."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Cherche le livre dans le catalogue.",
+          "pt": "Procure o livro no catálogo."
+        },
+        {
+          "level": "B2",
+          "fr": "Le catalogue, que l'on consulte en ligne, contient tous les livres.",
+          "pt": "O catálogo, que se consulta online, contém todos os livros."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Le catalogue, carte de la bibliothèque, mène chaque lecteur à son trésor.",
+          "pt": "O catálogo, mapa da biblioteca, conduz cada leitor ao seu tesouro."
+        }
       ]
     }
   ],
@@ -198,39 +478,64 @@
     "titlePt": "Os pronomes relativos qui, que e où",
     "points": [
       {
-        "fr": "« Qui » remplace le sujet : « les maisons qui penchent » (que pencham). « Que » remplace l'objet : « les visages que tu vois » (que você vê).",
-        "pt": "« Qui » substitui o sujeito: « les maisons qui penchent » (as casas que se inclinam). « Que » substitui o objeto: « les visages que tu vois » (os rostos que você vê)."
+        "fr": "« Qui » remplace le sujet : « le bibliothécaire qui m'aide » (que me ajuda). « Que » remplace l'objet : « le manuscrit que nous consultons » (que consultamos).",
+        "pt": "« Qui » substitui o sujeito: « le bibliothécaire qui m'aide » (o bibliotecário que me ajuda). « Que » substitui o objeto: « le manuscrit que nous consultons » (o manuscrito que consultamos)."
       },
       {
-        "fr": "« Où » indique le lieu ou le moment : « la place où l'on se retrouve », « le jour où nous sommes arrivés ».",
-        "pt": "« Où » indica o lugar ou o momento: « la place où l'on se retrouve » (a praça onde as pessoas se encontram), « le jour où nous sommes arrivés » (o dia em que chegamos)."
+        "fr": "« Où » indique le lieu ou le moment : « la salle où l'on travaille » (a sala onde se trabalha), « le jour où nous sommes venus » (o dia em que viemos).",
+        "pt": "« Où » indica o lugar ou o momento: « la salle où l'on travaille » (a sala onde se trabalha), « le jour où nous sommes venus » (o dia em que viemos)."
       }
     ]
   },
   "quizQuestions": [
     {
-      "question": "Como os turoneses chamam a place Plumereau ?",
-      "options": ["La place Plum", "La Grand-Place", "La place Rouge", "Le marché central"],
+      "question": "Onde o casal passa a tarde na Aula 43 ?",
+      "options": [
+        "Na biblioteca municipal de Tours",
+        "No zoológico",
+        "No mercado coberto",
+        "Na estação de trem"
+      ],
       "correctIndex": 0
     },
     {
-      "question": "Quantos anos têm as casas da place Plumereau ?",
-      "options": ["Cinquenta anos", "Cem anos", "Quinhentos anos", "Mil anos"],
-      "correctIndex": 2
-    },
-    {
-      "question": "De que materiais são feitas as casas à colombages ?",
-      "options": ["De madeira e pedra", "De vidro e metal", "De papel e cartão", "De tijolos azuis"],
+      "question": "O que Irlan mostra ao bibliotecário ?",
+      "options": [
+        "A foto da frase gravada na cave de Vouvray",
+        "O passaporte",
+        "A scooter",
+        "Um mapa de Paris"
+      ],
       "correctIndex": 0
     },
     {
-      "question": "Por que cada andar avança um pouco ?",
-      "options": ["Para dar mais espaço em cima", "Para dar mais sol", "Para escapar da chuva", "Para os pássaros"],
+      "question": "O que deixou o bibliotecário pálido ?",
+      "options": [
+        "A grafia antiga da frase",
+        "O frio da sala",
+        "O barulho da rua",
+        "O preço dos livros"
+      ],
       "correctIndex": 0
     },
     {
-      "question": "O que Irlan fazia quando passava pela place Plum ?",
-      "options": ["Entregava comida de scooter", "Tocava violão", "Vendia flores", "Consertava bicicletas"],
+      "question": "Quem visitou a biblioteca na véspera ?",
+      "options": [
+        "Um homem de sobretudo cinza",
+        "A mãe de Andréa",
+        "O prefeito",
+        "Um turista brasileiro"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "O que o casal conclui ao sair ?",
+      "options": [
+        "Alguém está um passo à frente na busca",
+        "A busca acabou",
+        "O livro era um presente",
+        "A biblioteca está fechada"
+      ],
       "correctIndex": 0
     }
   ]

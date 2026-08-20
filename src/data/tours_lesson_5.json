@@ -7,7 +7,7 @@
   "titlePt": "Amboise e o Clos Lucé: os últimos dias de Leonardo da Vinci",
   "subtitleFr": "Le château royal où est enterré Léonard et la maison où il a vécu",
   "subtitlePt": "O castelo real onde Leonardo está enterrado e a casa onde ele viveu",
-  "summaryPt": "Nesta Aula 5 (B1), a família visita Amboise: o castelo real, onde Léonard de Vinci está enterrado na capela Saint-Hubert, e o Clos Lucé, a casa onde o mestre passou seus últimos anos. O aluno revisa os quatro pronomes relativos (qui, que, où, dont) em uma mesma narrativa.",
+  "summaryPt": "Nesta Aula 5 (B1), o casal visita Amboise: o castelo real, onde Léonard de Vinci está enterrado na capela Saint-Hubert, e o Clos Lucé, a casa onde o mestre passou seus últimos anos. Irlan descobre a escrita invertida de Leonardo — lida no espelho — e se pergunta se a frase do Atlas também pode ser lida ao contrário. O aluno revisa os quatro pronomes relativos (qui, que, où, dont) em uma mesma narrativa.",
   "paragraphs": [
     {
       "id": 1,
@@ -21,13 +21,28 @@
     },
     {
       "id": 3,
-      "fr": "Dans la maison, on admire les machines que le génie a inventées. « Ce qu'il a créé est incroyable », a dit Irlan, émerveillé.",
-      "pt": "Na casa, admiram-se as máquinas que o gênio inventou. « O que ele criou é incrível », disse Irlan, maravilhado."
+      "fr": "Dans la maison, on admire les machines que le génie a inventées. « Ce qu'il a créé est incroyable », a dit Irlan. Mais ce qui l'a fasciné, c'est l'écriture de Léonard : des lettres inversées, qu'il fallait lire dans un miroir. « Et si la phrase de l'Atlas se lisait aussi à l'envers ? »",
+      "pt": "Na casa, admiram-se as máquinas que o gênio inventou. « O que ele criou é incrível », disse Irlan. Mas o que o fascinou foi a escrita de Leonardo: letras invertidas, que precisavam ser lidas num espelho. « E se a frase do Atlas também se lesse ao contrário? »"
     },
     {
       "id": 4,
       "fr": "François I, qui admirait Léonard, l'avait invité en France. « Demain, nous découvrirons les jardins du Clos Lucé », a promis Andréa.",
       "pt": "Francisco I, que admirava Leonardo, o tinha convidado à França. « Amanhã, descobriremos os jardins do Clos Lucé », prometeu Andréa."
+    },
+    {
+      "id": 5,
+      "fr": "Au Clos Lucé, Irlan expérimente les maquettes de Vinci. Il collectionne les idées avec audace.",
+      "pt": "No Clos Lucé, Irlan experimenta as maquetes de Vinci. Ele coleciona ideias com audácia."
+    },
+    {
+      "id": 6,
+      "fr": "Andréa dit que Vinci était un idéaliste passionné. « Il voulait tout inventer, c'est admirable », observe-t-elle.",
+      "pt": "Andréa diz que Vinci era um idealista apaixonado. Ele queria inventar tudo, é admirável, observa ela."
+    },
+    {
+      "id": 7,
+      "fr": "Irlan admire le génie de Vinci. « Il a contribué à faciliter la vie des gens », murmure-t-il devant la maquette du pont.",
+      "pt": "Irlan admira o gênio de Vinci. Ele contribuiu para facilitar a vida das pessoas, murmura ele diante da maquete da ponte."
     }
   ],
   "vocabularyDictionary": [
@@ -35,156 +50,408 @@
       "term": "le tombeau",
       "definitionPt": "o túmulo",
       "definitionFr": "Lieu où repose un défunt.",
-      "inflections": ["le tombeau", "les tombeaux"],
-      "ptTargets": ["túmulo"],
+      "inflections": [
+        "le tombeau",
+        "les tombeaux"
+      ],
+      "ptTargets": [
+        "túmulo"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le tombeau est ancien.", "pt": "O túmulo é antigo." },
-        { "level": "A2-B1", "fr": "Le tombeau de Léonard se trouve à Amboise.", "pt": "O túmulo de Leonardo fica em Amboise." },
-        { "level": "B2", "fr": "Le tombeau, que les visiteurs viennent voir, est dans la chapelle.", "pt": "O túmulo, que os visitantes vêm ver, fica na capela." },
-        { "level": "C1-C2", "fr": "Le tombeau de Léonard de Vinci attire chaque année des milliers d'admirateurs.", "pt": "O túmulo de Leonardo da Vinci atrai todos os anos milhares de admiradores." }
+        {
+          "level": "A1",
+          "fr": "Le tombeau est ancien.",
+          "pt": "O túmulo é antigo."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Le tombeau de Léonard se trouve à Amboise.",
+          "pt": "O túmulo de Leonardo fica em Amboise."
+        },
+        {
+          "level": "B2",
+          "fr": "Le tombeau, que les visiteurs viennent voir, est dans la chapelle.",
+          "pt": "O túmulo, que os visitantes vêm ver, fica na capela."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Le tombeau de Léonard de Vinci attire chaque année des milliers d'admirateurs.",
+          "pt": "O túmulo de Leonardo da Vinci atrai todos os anos milhares de admiradores."
+        }
       ]
     },
     {
       "term": "le peintre",
       "definitionPt": "o pintor",
       "definitionFr": "Artiste qui peint.",
-      "inflections": ["le peintre", "les peintres"],
-      "ptTargets": ["pintor"],
+      "inflections": [
+        "le peintre",
+        "les peintres"
+      ],
+      "ptTargets": [
+        "pintor"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le peintre dessine.", "pt": "O pintor desenha." },
-        { "level": "A2-B1", "fr": "Léonard de Vinci était un grand peintre.", "pt": "Leonardo da Vinci era um grande pintor." },
-        { "level": "B2", "fr": "Le peintre, dont les œuvres sont mondialement connues, a marqué l'histoire.", "pt": "O pintor, cujas obras são mundialmente conhecidas, marcou a história." },
-        { "level": "C1-C2", "fr": "Les peintres de la Renaissance ont révolutionné la représentation du monde.", "pt": "Os pintores da Renascença revolucionaram a representação do mundo." }
+        {
+          "level": "A1",
+          "fr": "Le peintre dessine.",
+          "pt": "O pintor desenha."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Léonard de Vinci était un grand peintre.",
+          "pt": "Leonardo da Vinci era um grande pintor."
+        },
+        {
+          "level": "B2",
+          "fr": "Le peintre, dont les œuvres sont mondialement connues, a marqué l'histoire.",
+          "pt": "O pintor, cujas obras são mundialmente conhecidas, marcou a história."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Les peintres de la Renaissance ont révolutionné la représentation du monde.",
+          "pt": "Os pintores da Renascença revolucionaram a representação do mundo."
+        }
       ]
     },
     {
       "term": "la toile",
       "definitionPt": "a tela (pintura)",
       "definitionFr": "Tableau, œuvre peinte.",
-      "inflections": ["la toile", "les toiles"],
-      "ptTargets": ["tela"],
+      "inflections": [
+        "la toile",
+        "les toiles"
+      ],
+      "ptTargets": [
+        "tela"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La toile est grande.", "pt": "A tela é grande." },
-        { "level": "A2-B1", "fr": "Les toiles de Léonard sont célèbres.", "pt": "As telas de Leonardo são famosas." },
-        { "level": "B2", "fr": "La toile, qui représente la Joconde, est au Louvre.", "pt": "A tela, que representa a Mona Lisa, está no Louvre." },
-        { "level": "C1-C2", "fr": "Les toiles de la Renaissance témoignent d'une maîtrise exceptionnelle de la lumière.", "pt": "As telas da Renascença testemunham um domínio excepcional da luz." }
+        {
+          "level": "A1",
+          "fr": "La toile est grande.",
+          "pt": "A tela é grande."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Les toiles de Léonard sont célèbres.",
+          "pt": "As telas de Leonardo são famosas."
+        },
+        {
+          "level": "B2",
+          "fr": "La toile, qui représente la Joconde, est au Louvre.",
+          "pt": "A tela, que representa a Mona Lisa, está no Louvre."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Les toiles de la Renaissance témoignent d'une maîtrise exceptionnelle de la lumière.",
+          "pt": "As telas da Renascença testemunham um domínio excepcional da luz."
+        }
       ]
     },
     {
       "term": "le maître",
       "definitionPt": "o mestre",
       "definitionFr": "Personne qui excelle dans son art.",
-      "inflections": ["le maître", "les maîtres"],
-      "ptTargets": ["mestre"],
+      "inflections": [
+        "le maître",
+        "les maîtres"
+      ],
+      "ptTargets": [
+        "mestre"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le maître enseigne.", "pt": "O mestre ensina." },
-        { "level": "A2-B1", "fr": "Léonard est le maître de la Renaissance.", "pt": "Leonardo é o mestre da Renascença." },
-        { "level": "B2", "fr": "Le maître, que le roi admirait, était invité à la cour.", "pt": "O mestre, que o rei admirava, era convidado à corte." },
-        { "level": "C1-C2", "fr": "Les maîtres italiens ont formé des générations d'artistes européens.", "pt": "Os mestres italianos formaram gerações de artistas europeus." }
+        {
+          "level": "A1",
+          "fr": "Le maître enseigne.",
+          "pt": "O mestre ensina."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Léonard est le maître de la Renaissance.",
+          "pt": "Leonardo é o mestre da Renascença."
+        },
+        {
+          "level": "B2",
+          "fr": "Le maître, que le roi admirait, était invité à la cour.",
+          "pt": "O mestre, que o rei admirava, era convidado à corte."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Les maîtres italiens ont formé des générations d'artistes européens.",
+          "pt": "Os mestres italianos formaram gerações de artistas europeus."
+        }
       ]
     },
     {
       "term": "la création",
       "definitionPt": "a criação",
       "definitionFr": "Œuvre, invention.",
-      "inflections": ["la création", "les créations"],
-      "ptTargets": ["criação"],
+      "inflections": [
+        "la création",
+        "les créations"
+      ],
+      "ptTargets": [
+        "criação"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La création est belle.", "pt": "A criação é bela." },
-        { "level": "A2-B1", "fr": "Les créations de Léonard sont variées.", "pt": "As criações de Leonardo são variadas." },
-        { "level": "B2", "fr": "La création, qui mêle art et science, fascine les chercheurs.", "pt": "A criação, que mistura arte e ciência, fascina os pesquisadores." },
-        { "level": "C1-C2", "fr": "La démarche de création de Léonard annonce l'esprit scientifique moderne.", "pt": "A abordagem criativa de Leonardo anuncia o espírito científico moderno." }
+        {
+          "level": "A1",
+          "fr": "La création est belle.",
+          "pt": "A criação é bela."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Les créations de Léonard sont variées.",
+          "pt": "As criações de Leonardo são variadas."
+        },
+        {
+          "level": "B2",
+          "fr": "La création, qui mêle art et science, fascine les chercheurs.",
+          "pt": "A criação, que mistura arte e ciência, fascina os pesquisadores."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "La démarche de création de Léonard annonce l'esprit scientifique moderne.",
+          "pt": "A abordagem criativa de Leonardo anuncia o espírito científico moderno."
+        }
       ]
     },
     {
       "term": "l'inventeur",
       "definitionPt": "o inventor",
       "definitionFr": "Personne qui invente.",
-      "inflections": ["l'inventeur", "les inventeurs"],
-      "ptTargets": ["inventor"],
+      "inflections": [
+        "l'inventeur",
+        "les inventeurs"
+      ],
+      "ptTargets": [
+        "inventor"
+      ],
       "examples": [
-        { "level": "A1", "fr": "L'inventeur imagine.", "pt": "O inventor imagina." },
-        { "level": "A2-B1", "fr": "Léonard était un grand inventeur.", "pt": "Leonardo era um grande inventor." },
-        { "level": "B2", "fr": "L'inventeur, dont les croquis sont célèbres, a imaginé des machines volantes.", "pt": "O inventor, cujos esboços são famosos, imaginou máquinas voadoras." },
-        { "level": "C1-C2", "fr": "Les inventeurs de la Renaissance ont jeté les bases de la technologie moderne.", "pt": "Os inventores da Renascença lançaram as bases da tecnologia moderna." }
+        {
+          "level": "A1",
+          "fr": "L'inventeur imagine.",
+          "pt": "O inventor imagina."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Léonard était un grand inventeur.",
+          "pt": "Leonardo era um grande inventor."
+        },
+        {
+          "level": "B2",
+          "fr": "L'inventeur, dont les croquis sont célèbres, a imaginé des machines volantes.",
+          "pt": "O inventor, cujos esboços são famosos, imaginou máquinas voadoras."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Les inventeurs de la Renaissance ont jeté les bases de la technologie moderne.",
+          "pt": "Os inventores da Renascença lançaram as bases da tecnologia moderna."
+        }
       ]
     },
     {
       "term": "l'ingénieur",
       "definitionPt": "o engenheiro",
       "definitionFr": "Spécialiste des techniques.",
-      "inflections": ["l'ingénieur", "les ingénieurs"],
-      "ptTargets": ["engenheiro"],
+      "inflections": [
+        "l'ingénieur",
+        "les ingénieurs"
+      ],
+      "ptTargets": [
+        "engenheiro"
+      ],
       "examples": [
-        { "level": "A1", "fr": "L'ingénieur travaille.", "pt": "O engenheiro trabalha." },
-        { "level": "A2-B1", "fr": "Léonard était aussi ingénieur.", "pt": "Leonardo também era engenheiro." },
-        { "level": "B2", "fr": "L'ingénieur, qui a conçu des ponts, était en avance sur son temps.", "pt": "O engenheiro, que projetou pontes, estava à frente de seu tempo." },
-        { "level": "C1-C2", "fr": "Le rôle de l'ingénieur humaniste incarne la fusion de la théorie et de la pratique.", "pt": "O papel do engenheiro humanista encarna a fusão da teoria e da prática." }
+        {
+          "level": "A1",
+          "fr": "L'ingénieur travaille.",
+          "pt": "O engenheiro trabalha."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Léonard était aussi ingénieur.",
+          "pt": "Leonardo também era engenheiro."
+        },
+        {
+          "level": "B2",
+          "fr": "L'ingénieur, qui a conçu des ponts, était en avance sur son temps.",
+          "pt": "O engenheiro, que projetou pontes, estava à frente de seu tempo."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Le rôle de l'ingénieur humaniste incarne la fusion de la théorie et de la pratique.",
+          "pt": "O papel do engenheiro humanista encarna a fusão da teoria e da prática."
+        }
       ]
     },
     {
       "term": "la machine",
       "definitionPt": "a máquina",
       "definitionFr": "Appareil qui transforme l'énergie.",
-      "inflections": ["la machine", "les machines"],
-      "ptTargets": ["máquina"],
+      "inflections": [
+        "la machine",
+        "les machines"
+      ],
+      "ptTargets": [
+        "máquina"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La machine est grande.", "pt": "A máquina é grande." },
-        { "level": "A2-B1", "fr": "Les machines de Léonard sont exposées au Clos Lucé.", "pt": "As máquinas de Leonardo estão expostas no Clos Lucé." },
-        { "level": "B2", "fr": "Les machines, que le maître a dessinées, fonctionnent sur des modèles.", "pt": "As máquinas, que o mestre desenhou, funcionam em modelos." },
-        { "level": "C1-C2", "fr": "Les machines de Léonard, dont certaines sont reconstituées, étonnent par leur modernité.", "pt": "As máquinas de Leonardo, algumas reconstituídas, surpreendem pela sua modernidade." }
+        {
+          "level": "A1",
+          "fr": "La machine est grande.",
+          "pt": "A máquina é grande."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Les machines de Léonard sont exposées au Clos Lucé.",
+          "pt": "As máquinas de Leonardo estão expostas no Clos Lucé."
+        },
+        {
+          "level": "B2",
+          "fr": "Les machines, que le maître a dessinées, fonctionnent sur des modèles.",
+          "pt": "As máquinas, que o mestre desenhou, funcionam em modelos."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Les machines de Léonard, dont certaines sont reconstituées, étonnent par leur modernité.",
+          "pt": "As máquinas de Leonardo, algumas reconstituídas, surpreendem pela sua modernidade."
+        }
       ]
     },
     {
       "term": "le tunnel",
       "definitionPt": "o túnel",
       "definitionFr": "Passage souterrain.",
-      "inflections": ["le tunnel", "les tunnels"],
-      "ptTargets": ["túnel"],
+      "inflections": [
+        "le tunnel",
+        "les tunnels"
+      ],
+      "ptTargets": [
+        "túnel"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le tunnel est sombre.", "pt": "O túnel é escuro." },
-        { "level": "A2-B1", "fr": "Un tunnel reliait les deux maisons.", "pt": "Um túnel ligava as duas casas." },
-        { "level": "B2", "fr": "Le tunnel, que les historiens étudient, fascine les visiteurs.", "pt": "O túnel, que os historiadores estudam, fascina os visitantes." },
-        { "level": "C1-C2", "fr": "Le tunnel secret entre le château et le Clos Lucé nourrit toutes les légendes.", "pt": "O túnel secreto entre o castelo e o Clos Lucé alimenta todas as lendas." }
+        {
+          "level": "A1",
+          "fr": "Le tunnel est sombre.",
+          "pt": "O túnel é escuro."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Un tunnel reliait les deux maisons.",
+          "pt": "Um túnel ligava as duas casas."
+        },
+        {
+          "level": "B2",
+          "fr": "Le tunnel, que les historiens étudient, fascine les visiteurs.",
+          "pt": "O túnel, que os historiadores estudam, fascina os visitantes."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Le tunnel secret entre le château et le Clos Lucé nourrit toutes les légendes.",
+          "pt": "O túnel secreto entre o castelo e o Clos Lucé alimenta todas as lendas."
+        }
       ]
     },
     {
       "term": "le musée",
       "definitionPt": "o museu",
       "definitionFr": "Lieu d'exposition.",
-      "inflections": ["le musée", "les musées"],
-      "ptTargets": ["museu"],
+      "inflections": [
+        "le musée",
+        "les musées"
+      ],
+      "ptTargets": [
+        "museu"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le musée est grand.", "pt": "O museu é grande." },
-        { "level": "A2-B1", "fr": "Le Clos Lucé est devenu un musée.", "pt": "O Clos Lucé tornou-se um museu." },
-        { "level": "B2", "fr": "Le musée, qui présente les inventions de Léonard, attire les familles.", "pt": "O museu, que apresenta as invenções de Leonardo, atrai as famílias." },
-        { "level": "C1-C2", "fr": "Les musées de la vallée de la Loire racontent cinq siècles d'histoire de France.", "pt": "Os museus do vale do Loire contam cinco séculos de história da França." }
+        {
+          "level": "A1",
+          "fr": "Le musée est grand.",
+          "pt": "O museu é grande."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Le Clos Lucé est devenu un musée.",
+          "pt": "O Clos Lucé tornou-se um museu."
+        },
+        {
+          "level": "B2",
+          "fr": "Le musée, qui présente les inventions de Léonard, attire les familles.",
+          "pt": "O museu, que apresenta as invenções de Leonardo, atrai as famílias."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Les musées de la vallée de la Loire racontent cinq siècles d'histoire de France.",
+          "pt": "Os museus do vale do Loire contam cinco séculos de história da França."
+        }
       ]
     },
     {
       "term": "la chapelle",
       "definitionPt": "a capela",
       "definitionFr": "Petite église.",
-      "inflections": ["la chapelle", "les chapelles"],
-      "ptTargets": ["capela"],
+      "inflections": [
+        "la chapelle",
+        "les chapelles"
+      ],
+      "ptTargets": [
+        "capela"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La chapelle est petite.", "pt": "A capela é pequena." },
-        { "level": "A2-B1", "fr": "La chapelle Saint-Hubert abrite le tombeau.", "pt": "A capela Saint-Hubert abriga o túmulo." },
-        { "level": "B2", "fr": "La chapelle, dont la décoration est gothique, est superbe.", "pt": "A capela, cuja decoração é gótica, é soberba." },
-        { "level": "C1-C2", "fr": "La chapelle Saint-Hubert d'Amboise est un joyau du gothique flamboyant.", "pt": "A capela Saint-Hubert de Amboise é uma joia do gótico flamejante." }
+        {
+          "level": "A1",
+          "fr": "La chapelle est petite.",
+          "pt": "A capela é pequena."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "La chapelle Saint-Hubert abrite le tombeau.",
+          "pt": "A capela Saint-Hubert abriga o túmulo."
+        },
+        {
+          "level": "B2",
+          "fr": "La chapelle, dont la décoration est gothique, est superbe.",
+          "pt": "A capela, cuja decoração é gótica, é soberba."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "La chapelle Saint-Hubert d'Amboise est un joyau du gothique flamboyant.",
+          "pt": "A capela Saint-Hubert de Amboise é uma joia do gótico flamejante."
+        }
       ]
     },
     {
       "term": "le château",
       "definitionPt": "o castelo",
       "definitionFr": "Grande résidence historique.",
-      "inflections": ["le château", "les châteaux"],
-      "ptTargets": ["castelo"],
+      "inflections": [
+        "le château",
+        "les châteaux"
+      ],
+      "ptTargets": [
+        "castelo"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le château est grand.", "pt": "O castelo é grande." },
-        { "level": "A2-B1", "fr": "Le château d'Amboise domine la ville.", "pt": "O castelo de Amboise domina a cidade." },
-        { "level": "B2", "fr": "Le château, que les rois ont agrandi, est devenu royal.", "pt": "O castelo, que os reis ampliaram, tornou-se real." },
-        { "level": "C1-C2", "fr": "Les châteaux royaux de la Loire symbolisent le pouvoir et le raffinement de la Renaissance.", "pt": "Os castelos reais do Loire simbolizam o poder e o refinamento da Renascença." }
+        {
+          "level": "A1",
+          "fr": "Le château est grand.",
+          "pt": "O castelo é grande."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Le château d'Amboise domine la ville.",
+          "pt": "O castelo de Amboise domina a cidade."
+        },
+        {
+          "level": "B2",
+          "fr": "Le château, que les rois ont agrandi, est devenu royal.",
+          "pt": "O castelo, que os reis ampliaram, tornou-se real."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Les châteaux royaux de la Loire symbolisent le pouvoir et le raffinement de la Renaissance.",
+          "pt": "Os castelos reais do Loire simbolizam o poder e o refinamento da Renascença."
+        }
       ]
     }
   ],
@@ -194,7 +461,11 @@
     "exampleFr": "Le Clos Lucé, où Léonard a vécu, est la maison que le roi lui a offerte.",
     "examplePt": "O Clos Lucé, onde Leonardo viveu, é a casa que o rei lhe ofereceu.",
     "practiceQuestion": "Complete: « Le château ___ domine la Loire est royal. »",
-    "options": ["qui", "que", "où"],
+    "options": [
+      "qui",
+      "que",
+      "où"
+    ],
     "correctIndex": 0,
     "points": [
       {
@@ -203,7 +474,11 @@
         "exampleFr": "La maison où il a vécu est devenue un musée.",
         "examplePt": "A casa onde ele viveu tornou-se um museu.",
         "practiceQuestion": "Complete: « C'est la ville ___ Léonard est enterré. »",
-        "options": ["où", "qui", "dont"],
+        "options": [
+          "où",
+          "qui",
+          "dont"
+        ],
         "correctIndex": 0
       },
       {
@@ -212,7 +487,11 @@
         "exampleFr": "Les machines, dont certaines sont reconstituées, étonnent.",
         "examplePt": "As máquinas, algumas das quais reconstituídas, surpreendem.",
         "practiceQuestion": "Complete: « La chapelle, ___ la décoration est superbe, abrite le tombeau. »",
-        "options": ["dont", "où", "que"],
+        "options": [
+          "dont",
+          "où",
+          "que"
+        ],
         "correctIndex": 0
       }
     ]
@@ -220,31 +499,51 @@
   "quizQuestions": [
     {
       "question": "Onde Léonard de Vinci está enterrado?",
-      "options": ["na capela Saint-Hubert em Amboise", "em Paris", "no Louvre"],
+      "options": [
+        "na capela Saint-Hubert em Amboise",
+        "em Paris",
+        "no Louvre"
+      ],
       "correctIndex": 0,
       "explanation": "O túmulo de Leonardo está na capela Saint-Hubert, em Amboise."
     },
     {
       "question": "Onde o mestre passou seus últimos anos?",
-      "options": ["no Clos Lucé", "em Roma", "em Londres"],
+      "options": [
+        "no Clos Lucé",
+        "em Roma",
+        "em Londres"
+      ],
       "correctIndex": 0,
       "explanation": "Leonardo passou seus últimos anos no Clos Lucé, perto de Amboise."
     },
     {
       "question": "Complete: « Le Clos Lucé, ___ Léonard a vécu, est un musée. »",
-      "options": ["où", "qui", "que"],
+      "options": [
+        "où",
+        "qui",
+        "que"
+      ],
       "correctIndex": 0,
       "explanation": "'Où' indica o lugar."
     },
     {
       "question": "O que ligava as duas casas?",
-      "options": ["um túnel", "um rio", "uma ponte de vidro"],
+      "options": [
+        "um túnel",
+        "um rio",
+        "uma ponte de vidro"
+      ],
       "correctIndex": 0,
       "explanation": "Um túnel ligava o castelo ao Clos Lucé."
     },
     {
       "question": "Complete: « La chapelle, ___ la décoration est superbe, est belle. »",
-      "options": ["dont", "où", "qui"],
+      "options": [
+        "dont",
+        "où",
+        "qui"
+      ],
       "correctIndex": 0,
       "explanation": "'Dont' substitui 'de + nome'."
     }

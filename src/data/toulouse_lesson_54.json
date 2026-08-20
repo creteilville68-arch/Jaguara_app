@@ -16,8 +16,8 @@
     },
     {
       "id": 2,
-      "fr": "Dans la salle d'exposition, Íris testait une machine qui crée des ombres. « Papa, regarde ! Mon ombre reste quand je pars ! » Irlan sourit : « Si j'étais physicien, je pourrais t'expliquer. Mais je suis géographe : je te dirai que tout lieu garde une trace. »",
-      "pt": "Na sala de exposição, Íris testava uma máquina que cria sombras. « Papai, olha! Minha sombra fica quando eu saio! » Irlan sorriu: « Se eu fosse físico, eu poderia te explicar. Mas sou geógrafo: vou te dizer que todo lugar guarda um traço. »"
+      "fr": "Dans la salle d'exposition, Andréa testait une machine qui crée des ombres. « Regarde ! Mon ombre reste quand je pars ! » Irlan sourit : « Si j'étais physicien, je pourrais t'expliquer. Mais je suis géographe : je te dirai que tout lieu garde une trace. »",
+      "pt": "Na sala de exposição, Andréa testava uma máquina que cria sombras. « Olha! Minha sombra fica quando eu saio! » Irlan sorriu: « Se eu fosse físico, eu poderia te explicar. Mas sou geógrafo: vou te dizer que todo lugar guarda um traço. »"
     },
     {
       "id": 3,
@@ -26,13 +26,23 @@
     },
     {
       "id": 4,
-      "fr": "Dans l'atelier de cartographie, Irlan retrouva son métier d'origine. « Tu vois, dit-il à Íris, une carte, c'est une histoire racontée avec des lignes. Mon pays, la France, ta vie : tout peut être cartographié. »",
-      "pt": "No ateliê de cartografia, Irlan reencontrou seu ofício de origem. « Você vê, disse ele a Íris, um mapa é uma história contada com linhas. Meu país, a França, sua vida: tudo pode ser cartografado. »"
+      "fr": "Dans l'atelier de cartographie, Irlan retrouva ses années d'études. « Tu vois, dit-il à Andréa, une carte, c'est une histoire racontée avec des lignes. Le Brésil, la France, nos voyages : tout peut être cartographié. »",
+      "pt": "No ateliê de cartografia, Irlan reencontrou seus anos de estudos. « Você vê, disse ele a Andréa, um mapa é uma história contada com linhas. O Brasil, a França, nossas viagens: tudo pode ser cartografado. »"
     },
     {
       "id": 5,
       "fr": "Le soir, Irlan écrivit : « Je n'ai pas fait de grandes études en France. Mais le savoir, ici, appartient à tous. Et j'ai compris : la plus belle géographie est celle qu'on apprend avec ses enfants. »",
       "pt": "À noite, Irlan escreveu: « Não fiz grandes estudos na França. Mas o saber, aqui, pertence a todos. E entendi: a mais bela geografia é a que se aprende com os filhos. »"
+    },
+    {
+      "id": 6,
+      "fr": "Au Quai des Savoirs, une chercheuse a vulgarisé l'intelligence artificielle avec une expérience scientifique. Elle a insisté sur la nécessité d'évaluer chaque résultat.",
+      "pt": "No centro de ciência, uma pesquisadora popularizou a inteligência artificial com um experimento científico. Ela insistiu na necessidade de avaliar cada resultado."
+    },
+    {
+      "id": 7,
+      "fr": "Irlan a formulé une hypothèse et l'a confrontée à une analyse des données. Cette méthode rigoureuse rendait l'inconcevable plus compréhensible sans le présenter comme une vérité définitive.",
+      "pt": "Irlan formulou uma hipótese e a confrontou com uma análise de dados. Esse método rigoroso tornava o inconcebível mais compreensível sem apresentá-lo como uma verdade definitiva."
     }
   ],
   "vocabularyDictionary": [
@@ -188,7 +198,7 @@
       "examples": [
         { "level": "A1", "fr": "La curiosité est une qualité.", "pt": "A curiosidade é uma qualidade." },
         { "level": "A2-B1", "fr": "L'enfant a beaucoup de curiosité.", "pt": "A criança tem muita curiosidade." },
-        { "level": "B2", "fr": "La curiosité d'Íris grandit à chaque exposition.", "pt": "A curiosidade de Íris cresce a cada exposição." },
+        { "level": "B2", "fr": "La curiosité d'Andréa grandit à chaque exposition.", "pt": "A curiosidade de Andréa cresce a cada exposição." },
         { "level": "C1-C2", "fr": "La curiosité est le moteur de toute science.", "pt": "A curiosidade é o motor de toda ciência." }
       ]
     }

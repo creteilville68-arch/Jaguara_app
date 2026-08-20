@@ -11,8 +11,8 @@
   "paragraphs": [
     {
       "id": 1,
-      "fr": "« Un téléphérique urbain ? demanda Íris, incrédule. — Oui, le Téléo ! répondit Irlan. Il a été inauguré en 2022 et il enjambe le Garona. » La cabine s'éleva doucement au-dessus de la Ville rose.",
-      "pt": "« Um teleférico urbano? perguntou Íris, incrédula. — Sim, o Téléo! respondeu Irlan. Ele foi inaugurado em 2022 e atravessa o Garona. » A cabine subiu suavemente acima da Cidade Rosa."
+      "fr": "« Un téléphérique urbain ? demanda Andréa, incrédule. — Oui, le Téléo ! répondit Irlan. Il a été inauguré en 2022 et il enjambe le Garona. » La cabine s'éleva doucement au-dessus de la Ville rose.",
+      "pt": "« Um teleférico urbano? perguntou Andréa, incrédula. — Sim, o Téléo! respondeu Irlan. Ele foi inaugurado em 2022 e atravessa o Garona. » A cabine subiu suavemente acima da Cidade Rosa."
     },
     {
       "id": 2,
@@ -26,13 +26,23 @@
     },
     {
       "id": 4,
-      "fr": "Íris colla son nez à la vitre : « On voit le fleuve, les ponts, et là-bas, la basilique ! » Irlan sourit. « Tu sais, quand je livrais, je n'en voyais jamais autant. Chaque course était une petite carte du quartier. »",
-      "pt": "Íris colou o nariz no vidro: « Dá para ver o rio, as pontes e, lá longe, a basílica! » Irlan sorriu. « Sabe, quando eu entregava, nunca via tudo isso. Cada corrida era um pequeno mapa do bairro. »"
+      "fr": "Andréa colla son nez à la vitre : « On voit le fleuve, les ponts, et là-bas, la basilique ! » Irlan sourit. « Tu sais, quand je livrais, je n'en voyais jamais autant. Chaque course était une petite carte du quartier. »",
+      "pt": "Andréa colou o nariz no vidro: « Dá para ver o rio, as pontes e, lá longe, a basílica! » Irlan sorriu. « Sabe, quando eu entregava, nunca via tudo isso. Cada corrida era um pequeno mapa do bairro. »"
     },
     {
       "id": 5,
       "fr": "À l'arrivée, Irlan nota : « Prendre de la hauteur change la géographie. En bas, on traverse les rues. En haut, on comprend la ville. J'aurais dû regarder le ciel plus tôt. »",
       "pt": "Na chegada, Irlan anotou: « Ganhar altura muda a geografia. Lá embaixo, atravessamos as ruas. Lá em cima, entendemos a cidade. Eu deveria ter olhado o céu mais cedo. »"
+    },
+    {
+      "id": 6,
+      "fr": "À bord du Téléo, Irlan s'est acheminé vers les hauteurs et a évalué l'effort nécessaire. Le trajet prolongé semblait pourtant réalisable grâce à un équipement bien adapté.",
+      "pt": "A bordo do Téléo, Irlan se encaminhou para as alturas e avaliou o esforço necessário. O trajeto prolongado, no entanto, parecia realizável graças a um equipamento bem adaptado."
+    },
+    {
+      "id": 7,
+      "fr": "L'optimisation du parcours permettait de surmonter une pente difficile. Andréa a noté que la mobilité ne devait pas devenir un privilège exclusif, mais rester compatible avec l'intérêt général.",
+      "pt": "A otimização do percurso permitia superar uma inclinação difícil. Andréa anotou que a mobilidade não deveria se tornar um privilégio exclusivo, mas continuar compatível com o interesse geral."
     }
   ],
   "vocabularyDictionary": [
@@ -175,7 +185,7 @@
       "examples": [
         { "level": "A1", "fr": "Je colle l'affiche.", "pt": "Colo o cartaz." },
         { "level": "A2-B1", "fr": "Elle colle son nez à la vitre.", "pt": "Ela cola o nariz no vidro." },
-        { "level": "B2", "fr": "Íris colla son nez à la vitre pour mieux voir la ville.", "pt": "Íris colou o nariz no vidro para ver melhor a cidade." },
+        { "level": "B2", "fr": "Andréa colla son nez à la vitre pour mieux voir la ville.", "pt": "Andréa colou o nariz no vidro para ver melhor a cidade." },
         { "level": "C1-C2", "fr": "Coller son regard à une vitre, c'est déjà partir en voyage.", "pt": "Colar o olhar num vidro já é partir em viagem." }
       ]
     },

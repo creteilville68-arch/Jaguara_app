@@ -18,6 +18,14 @@ import { MASTER_EXAMPLES } from '../data/masterExamplesDictionary';
 import { PARIS_BACKLOG_EXAMPLES } from '../data/masterExamplesParisBacklog';
 import { AMIENS_BACKLOG_EXAMPLES } from '../data/masterExamplesAmiensBacklog';
 import { LILLE_BACKLOG_EXAMPLES } from '../data/masterExamplesLilleBacklog';
+import { MONT_SAINT_MICHEL_BACKLOG_EXAMPLES } from '../data/masterExamplesMontSaintMichelBacklog';
+import { TOURS_BACKLOG_EXAMPLES } from '../data/masterExamplesToursBacklog';
+import { BORDEAUX_BACKLOG_EXAMPLES } from '../data/masterExamplesBordeauxBacklog';
+import { TOULOUSE_BACKLOG_EXAMPLES } from '../data/masterExamplesToulouseBacklog';
+import { LYON_BACKLOG_EXAMPLES } from '../data/masterExamplesLyonBacklog';
+import { MARSEILLE_BACKLOG_EXAMPLES } from '../data/masterExamplesMarseilleBacklog';
+import { STRASBOURG_BACKLOG_EXAMPLES } from '../data/masterExamplesStrasbourgBacklog';
+import { NICE_BACKLOG_EXAMPLES } from '../data/masterExamplesNiceBacklog';
 
 // As curadoria por cidade (backlog) têm prioridade sobre o dicionário comum:
 // elas são espalhadas por último e sobrescrevem entradas parciais.
@@ -26,6 +34,14 @@ const ALL_MASTER_EXAMPLES: Record<string, { level: string; fr: string; pt: strin
   ...PARIS_BACKLOG_EXAMPLES,
   ...AMIENS_BACKLOG_EXAMPLES,
   ...LILLE_BACKLOG_EXAMPLES,
+  ...MONT_SAINT_MICHEL_BACKLOG_EXAMPLES,
+  ...TOURS_BACKLOG_EXAMPLES,
+  ...BORDEAUX_BACKLOG_EXAMPLES,
+  ...TOULOUSE_BACKLOG_EXAMPLES,
+  ...LYON_BACKLOG_EXAMPLES,
+  ...MARSEILLE_BACKLOG_EXAMPLES,
+  ...STRASBOURG_BACKLOG_EXAMPLES,
+  ...NICE_BACKLOG_EXAMPLES,
 };
 
 function fold(s: string): string {

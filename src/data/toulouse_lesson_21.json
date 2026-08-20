@@ -7,7 +7,7 @@
   "titlePt": "O mercado dos Carmes: os produtos do Sudoeste",
   "subtitleFr": "Faire ses courses et parler quantité avec EN",
   "subtitlePt": "Fazer compras e falar de quantidade com EN",
-  "summaryPt": "No mercado coberto dos Carmes, a família faz compras para o jantar. Irlan descobre os produtos do Sudoeste: foie gras, magret de canard, roquefort e azeitonas. Nesta aula B2, o pronome EN exprime quantidades: 'j'en prends deux cents grammes', 'il y en a de toutes sortes'.",
+  "summaryPt": "No mercado coberto dos Carmes, o casal faz compras para o jantar. Irlan descobre os produtos do Sudoeste: foie gras, magret de canard, roquefort e azeitonas. Nesta aula B2, o pronome EN exprime quantidades: 'j'en prends deux cents grammes', 'il y en a de toutes sortes'.",
   "paragraphs": [
     {
       "id": 1,
@@ -21,18 +21,28 @@
     },
     {
       "id": 3,
-      "fr": "Plus loin, un fromager alignait des roqueforts. « Des roqueforts, il y en a de plusieurs fermes, expliqua-t-il. Ceux-ci, je les ai choisis moi-même dans les caves de l'Aveyron. » Íris, intriguée par les veines bleues, n'en avait jamais vu.",
-      "pt": "Mais adiante, um queijeiro alinhava roqueforts. « Roqueforts, há deles de várias fazendas, explicou ele. Estes, eu mesmo os escolhi nas cavernas de Aveyron. » Íris, intrigada com as veias azuis, nunca tinha visto um."
+      "fr": "Plus loin, un fromager alignait des roqueforts. « Des roqueforts, il y en a de plusieurs fermes, expliqua-t-il. Ceux-ci, je les ai choisis moi-même dans les caves de l'Aveyron. » Andréa, intriguée par les veines bleues, n'en avait jamais vu.",
+      "pt": "Mais adiante, um queijeiro alinhava roqueforts. « Roqueforts, há deles de várias fazendas, explicou ele. Estes, eu mesmo os escolhi nas cavernas de Aveyron. » Andréa, intrigada com as veias azuis, nunca tinha visto um."
     },
     {
       "id": 4,
       "fr": "Au comptoir des olives, une file patiente attendait. « Il y en a de toutes les sortes, dit la patronne : vertes, noires, aux herbes, au piment. — Nous en prenons un mélange », dit Andréa en souriant à Irlan.",
-      "pt": "No balcão das azeitonas, uma fila paciente esperava. « Há delas de todos os tipos, disse a dona: verdes, pretas, com ervas, com pimenta. — Levamos uma mistura », disse Andréa sorrindo para Íris."
+      "pt": "No balcão das azeitonas, uma fila paciente esperava. « Há delas de todos os tipos, disse a dona: verdes, pretas, com ervas, com pimenta. — Levamos uma mistura », disse Andréa sorrindo para Irlan."
     },
     {
       "id": 5,
-      "fr": "De retour à la maison, Irlan étala ses trésors sur la table. « La France, c'est ça, dit-il : des marchés où chaque région raconte son histoire. Et nous, on en a plein les paniers. » Íris applaudit : « Vive le marché ! »",
-      "pt": "De volta em casa, Irlan espalhou seus tesouros na mesa. « A França é isso, disse ele: mercados onde cada região conta sua história. E nós, temos os cestos cheios delas. » Íris aplaudiu: « Viva o mercado! »"
+      "fr": "De retour à la maison, Irlan étala ses trésors sur la table. « La France, c'est ça, dit-il : des marchés où chaque région raconte son histoire. Et nous, on en a plein les paniers. » Andréa applaudit : « Vive le marché ! »",
+      "pt": "De volta em casa, Irlan espalhou seus tesouros na mesa. « A França é isso, disse ele: mercados onde cada região conta sua história. E nós, temos os cestos cheios delas. » Andréa aplaudiu: « Viva o mercado! »"
+    },
+    {
+      "id": 6,
+      "fr": "Irlan a humé les herbes aromatiques et a distingué un arôme de framboise. L'abondance des produits rendait chaque étal différent, mais tout semblait comestible et soigneusement préparé.",
+      "pt": "Irlan cheirou as ervas aromáticas e distinguiu um aroma de framboesa. A abundância dos produtos tornava cada banca diferente, mas tudo parecia comestível e cuidadosamente preparado."
+    },
+    {
+      "id": 7,
+      "fr": "Une productrice a expliqué que le circuit court pouvait renforcer l'économie locale. Andréa a retenu cette idée, car elle associait la qualité à une consommation plus responsable.",
+      "pt": "Uma produtora explicou que o circuito curto podia fortalecer a economia local. Andréa guardou essa ideia, pois ela associava qualidade a um consumo mais responsável."
     }
   ],
   "vocabularyDictionary": [
@@ -187,8 +197,8 @@
       "ptTargets": ["aplaudir", "aplaudiu"],
       "examples": [
         { "level": "A1", "fr": "J'applaudis.", "pt": "Eu aplaudo." },
-        { "level": "A2-B1", "fr": "Íris applaudit de joie.", "pt": "Íris aplaudiu de alegria." },
-        { "level": "B2", "fr": "« Vive le marché ! » s'écria Íris en applaudissant.", "pt": "« Viva o mercado! » exclamou Íris aplaudindo." },
+        { "level": "A2-B1", "fr": "Andréa applaudit de joie.", "pt": "Andréa aplaudiu de alegria." },
+        { "level": "B2", "fr": "« Vive le marché ! » s'écria Andréa en applaudissant.", "pt": "« Viva o mercado! » exclamou Andréa aplaudindo." },
         { "level": "C1-C2", "fr": "Applaudir un marché, c'est célébrer la vie simple qui s'y déploie.", "pt": "Aplaudir um mercado é celebrar a vida simples que ali se desdobra." }
       ]
     }

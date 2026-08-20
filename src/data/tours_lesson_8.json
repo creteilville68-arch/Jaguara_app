@@ -7,7 +7,7 @@
   "titlePt": "Rabelais e o espírito da Touraine",
   "subtitleFr": "Le rire, la sagesse et l'écrivain né à Chinon",
   "subtitlePt": "O riso, a sabedoria e o escritor nascido em Chinon",
-  "summaryPt": "Nesta Aula 8 (B1), a família descobre Rabelais, o grande escritor nascido em Chinon, na Touraine, autor da famosa frase 'le rire est le propre de l'homme'. Irlan lê um trecho em voz alta e a família discute o humor e a sabedoria do autor. O aluno aprende a usar o Futur Simple para projetos e previsões.",
+  "summaryPt": "Nesta Aula 8 (B1), o casal descobre Rabelais, o grande escritor nascido em Chinon, na Touraine, autor da famosa frase 'le rire est le propre de l'homme'. Irlan lê um trecho em voz alta e percebe que certas construções do francês antigo de Rabelais são idênticas às da frase da quarta página do Atlas. O aluno aprende a usar o Futur Simple para projetos e previsões.",
   "paragraphs": [
     {
       "id": 1,
@@ -16,8 +16,8 @@
     },
     {
       "id": 2,
-      "fr": "Dans la librairie, Irlan a acheté un livre de Rabelais. « Ce que j'aime chez lui, c'est l'esprit libre et joyeux », a-t-il expliqué.",
-      "pt": "Na livraria, Irlan comprou um livro de Rabelais. « O que eu gosto nele é o espírito livre e alegre », explicou ele."
+      "fr": "Dans la librairie, Irlan a acheté un livre de Rabelais. En le feuilletant, il a sursauté : certaines tournures ressemblaient, lettre pour lettre, à la phrase de la quatrième page de l'Atlas. « Ce que j'aime chez lui, c'est l'esprit libre et joyeux », a-t-il expliqué. « Mais c'est aussi sa langue que je cherche. »",
+      "pt": "Na livraria, Irlan comprou um livro de Rabelais. Ao folheá-lo, sobressaltou-se: certas construções se pareciam, letra por letra, com a frase da quarta página do Atlas. « O que eu gosto nele é o espírito livre e alegre », explicou. « Mas é também a língua dele que eu procuro. »"
     },
     {
       "id": 3,
@@ -28,6 +28,21 @@
       "id": 4,
       "fr": "Le soir, Irlan a lu un passage à voix haute. Tout le monde a ri. « La Touraine nous apprend que le rire est une forme de sagesse », a conclu Irlan.",
       "pt": "À noite, Irlan leu uma passagem em voz alta. Todos riram. « A Touraine nos ensina que o riso é uma forma de sabedoria », concluiu Irlan."
+    },
+    {
+      "id": 5,
+      "fr": "Rabelais a édité ses romans avec audace et humour. Irlan lit un passage à voix haute.",
+      "pt": "Rabelais editou seus romans com audácia e humor. Irlan lê um trecho em voz alta."
+    },
+    {
+      "id": 6,
+      "fr": "Andréa dit que la littérature tourangelle est riche et variée. Elle lit un magazine sur Rabelais au café.",
+      "pt": "Andréa diz que a literatura tourangelle é rica e variada. Ela lê uma revista sobre Rabelais no café."
+    },
+    {
+      "id": 7,
+      "fr": "Irlan écoute un podcast sur Rabelais en marchant. Il sauvegarde l'enregistrement sur son téléphone.",
+      "pt": "Irlan escuta um podcast sobre Rabelais caminhando. Ele salva a gravação no celular."
     }
   ],
   "vocabularyDictionary": [
@@ -35,156 +50,407 @@
       "term": "l'écrivain",
       "definitionPt": "o escritor",
       "definitionFr": "Personne qui écrit des livres.",
-      "inflections": ["l'écrivain", "les écrivains"],
-      "ptTargets": ["escritor"],
+      "inflections": [
+        "l'écrivain",
+        "les écrivains"
+      ],
+      "ptTargets": [
+        "escritor"
+      ],
       "examples": [
-        { "level": "A1", "fr": "L'écrivain écrit.", "pt": "O escritor escreve." },
-        { "level": "A2-B1", "fr": "Rabelais est un écrivain célèbre.", "pt": "Rabelais é um escritor famoso." },
-        { "level": "B2", "fr": "L'écrivain, dont les livres sont drôles, est né à Chinon.", "pt": "O escritor, cujos livros são engraçados, nasceu em Chinon." },
-        { "level": "C1-C2", "fr": "Les écrivains de la Renaissance ont renouvelé la langue française en profondeur.", "pt": "Os escritores da Renascença renovaram profundamente a língua francesa." }
+        {
+          "level": "A1",
+          "fr": "L'écrivain écrit.",
+          "pt": "O escritor escreve."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Rabelais est un écrivain célèbre.",
+          "pt": "Rabelais é um escritor famoso."
+        },
+        {
+          "level": "B2",
+          "fr": "L'écrivain, dont les livres sont drôles, est né à Chinon.",
+          "pt": "O escritor, cujos livros são engraçados, nasceu em Chinon."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Les écrivains de la Renaissance ont renouvelé la langue française en profondeur.",
+          "pt": "Os escritores da Renascença renovaram profundamente a língua francesa."
+        }
       ]
     },
     {
       "term": "le rire",
       "definitionPt": "o riso",
       "definitionFr": "Action de rire.",
-      "inflections": ["le rire", "les rires"],
-      "ptTargets": ["riso"],
+      "inflections": [
+        "le rire",
+        "les rires"
+      ],
+      "ptTargets": [
+        "riso"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le rire est contagieux.", "pt": "O riso é contagioso." },
-        { "level": "A2-B1", "fr": "Le rire de la famille remplissait la table.", "pt": "O riso da família enchia a mesa." },
-        { "level": "B2", "fr": "Le rire, qui rassemble les gens, est précieux.", "pt": "O riso, que reúne as pessoas, é precioso." },
-        { "level": "C1-C2", "fr": "Rabelais a élevé le rire au rang de philosophie de vie.", "pt": "Rabelais elevou o riso à categoria de filosofia de vida." }
+        {
+          "level": "A1",
+          "fr": "Le rire est contagieux.",
+          "pt": "O riso é contagioso."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Le rire de la famille remplissait la table.",
+          "pt": "O riso da família enchia a mesa."
+        },
+        {
+          "level": "B2",
+          "fr": "Le rire, qui rassemble les gens, est précieux.",
+          "pt": "O riso, que reúne as pessoas, é precioso."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Rabelais a élevé le rire au rang de philosophie de vie.",
+          "pt": "Rabelais elevou o riso à categoria de filosofia de vida."
+        }
       ]
     },
     {
       "term": "l'humour",
       "definitionPt": "o humor",
       "definitionFr": "Capacité à faire rire.",
-      "inflections": ["l'humour"],
-      "ptTargets": ["humor"],
+      "inflections": [
+        "l'humour"
+      ],
+      "ptTargets": [
+        "humor"
+      ],
       "examples": [
-        { "level": "A1", "fr": "L'humour est drôle.", "pt": "O humor é engraçado." },
-        { "level": "A2-B1", "fr": "L'humour de Rabelais est célèbre.", "pt": "O humor de Rabelais é famoso." },
-        { "level": "B2", "fr": "L'humour, qui critique avec le sourire, est une arme puissante.", "pt": "O humor, que critica com sorriso, é uma arma poderosa." },
-        { "level": "C1-C2", "fr": "L'humour rabelaisien mêle la satire sociale et la joie de vivre.", "pt": "O humor rabelaisiano mistura a sátira social e a alegria de viver." }
+        {
+          "level": "A1",
+          "fr": "L'humour est drôle.",
+          "pt": "O humor é engraçado."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "L'humour de Rabelais est célèbre.",
+          "pt": "O humor de Rabelais é famoso."
+        },
+        {
+          "level": "B2",
+          "fr": "L'humour, qui critique avec le sourire, est une arme puissante.",
+          "pt": "O humor, que critica com sorriso, é uma arma poderosa."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "L'humour rabelaisien mêle la satire sociale et la joie de vivre.",
+          "pt": "O humor rabelaisiano mistura a sátira social e a alegria de viver."
+        }
       ]
     },
     {
       "term": "la sagesse",
       "definitionPt": "a sabedoria",
       "definitionFr": "Connaissance profonde de la vie.",
-      "inflections": ["la sagesse"],
-      "ptTargets": ["sabedoria"],
+      "inflections": [
+        "la sagesse"
+      ],
+      "ptTargets": [
+        "sabedoria"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La sagesse est rare.", "pt": "A sabedoria é rara." },
-        { "level": "A2-B1", "fr": "Les livres de Rabelais contiennent une grande sagesse.", "pt": "Os livros de Rabelais contêm uma grande sabedoria." },
-        { "level": "B2", "fr": "La sagesse, qui vient avec l'expérience, mérite d'être partagée.", "pt": "A sabedoria, que vem com a experiência, merece ser compartilhada." },
-        { "level": "C1-C2", "fr": "La sagesse humaniste de la Renaissance célèbre l'équilibre entre l'esprit et le corps.", "pt": "A sabedoria humanista da Renascença celebra o equilíbrio entre o espírito e o corpo." }
+        {
+          "level": "A1",
+          "fr": "La sagesse est rare.",
+          "pt": "A sabedoria é rara."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Les livres de Rabelais contiennent une grande sagesse.",
+          "pt": "Os livros de Rabelais contêm uma grande sabedoria."
+        },
+        {
+          "level": "B2",
+          "fr": "La sagesse, qui vient avec l'expérience, mérite d'être partagée.",
+          "pt": "A sabedoria, que vem com a experiência, merece ser compartilhada."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "La sagesse humaniste de la Renaissance célèbre l'équilibre entre l'esprit et le corps.",
+          "pt": "A sabedoria humanista da Renascença celebra o equilíbrio entre o espírito e o corpo."
+        }
       ]
     },
     {
       "term": "la pensée",
       "definitionPt": "o pensamento",
       "definitionFr": "Idée, réflexion.",
-      "inflections": ["la pensée", "les pensées"],
-      "ptTargets": ["pensamento"],
+      "inflections": [
+        "la pensée",
+        "les pensées"
+      ],
+      "ptTargets": [
+        "pensamento"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La pensée est profonde.", "pt": "O pensamento é profundo." },
-        { "level": "A2-B1", "fr": "La pensée de Rabelais est joyeuse.", "pt": "O pensamento de Rabelais é alegre." },
-        { "level": "B2", "fr": "Les pensées, qui se transmettent par les livres, traversent les siècles.", "pt": "Os pensamentos, que se transmitem pelos livros, atravessam os séculos." },
-        { "level": "C1-C2", "fr": "La pensée humaniste de la Renaissance a bouleversé la vision du monde.", "pt": "O pensamento humanista da Renascença revolucionou a visão do mundo." }
+        {
+          "level": "A1",
+          "fr": "La pensée est profonde.",
+          "pt": "O pensamento é profundo."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "La pensée de Rabelais est joyeuse.",
+          "pt": "O pensamento de Rabelais é alegre."
+        },
+        {
+          "level": "B2",
+          "fr": "Les pensées, qui se transmettent par les livres, traversent les siècles.",
+          "pt": "Os pensamentos, que se transmitem pelos livros, atravessam os séculos."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "La pensée humaniste de la Renaissance a bouleversé la vision du monde.",
+          "pt": "O pensamento humanista da Renascença revolucionou a visão do mundo."
+        }
       ]
     },
     {
       "term": "la phrase",
       "definitionPt": "a frase",
       "definitionFr": "Suite de mots formant un sens.",
-      "inflections": ["la phrase", "les phrases"],
-      "ptTargets": ["frase"],
+      "inflections": [
+        "la phrase",
+        "les phrases"
+      ],
+      "ptTargets": [
+        "frase"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La phrase est courte.", "pt": "A frase é curta." },
-        { "level": "A2-B1", "fr": "Sa phrase la plus connue est célèbre.", "pt": "Sua frase mais conhecida é famosa." },
-        { "level": "B2", "fr": "Les phrases de Rabelais, qui jouent avec les mots, sont savoureuses.", "pt": "As frases de Rabelais, que brincam com as palavras, são saborosas." },
-        { "level": "C1-C2", "fr": "La phrase de Rabelais sur le rire est devenue un proverbe universel.", "pt": "A frase de Rabelais sobre o riso tornou-se um provérbio universal." }
+        {
+          "level": "A1",
+          "fr": "La phrase est courte.",
+          "pt": "A frase é curta."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Sa phrase la plus connue est célèbre.",
+          "pt": "Sua frase mais conhecida é famosa."
+        },
+        {
+          "level": "B2",
+          "fr": "Les phrases de Rabelais, qui jouent avec les mots, sont savoureuses.",
+          "pt": "As frases de Rabelais, que brincam com as palavras, são saborosas."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "La phrase de Rabelais sur le rire est devenue un proverbe universel.",
+          "pt": "A frase de Rabelais sobre o riso tornou-se um provérbio universal."
+        }
       ]
     },
     {
       "term": "la fable",
       "definitionPt": "a fábula",
       "definitionFr": "Petit récit qui enseigne une leçon.",
-      "inflections": ["la fable", "les fables"],
-      "ptTargets": ["fábula"],
+      "inflections": [
+        "la fable",
+        "les fables"
+      ],
+      "ptTargets": [
+        "fábula"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La fable est courte.", "pt": "A fábula é curta." },
-        { "level": "A2-B1", "fr": "Les fables racontent des histoires d'animaux.", "pt": "As fábulas contam histórias de animais." },
-        { "level": "B2", "fr": "La fable, qui cache une leçon, plaît aux enfants.", "pt": "A fábula, que esconde uma lição, agrada às crianças." },
-        { "level": "C1-C2", "fr": "Les fables de la Renaissance mêlent le rire et la critique sociale.", "pt": "As fábulas da Renascença misturam o riso e a crítica social." }
+        {
+          "level": "A1",
+          "fr": "La fable est courte.",
+          "pt": "A fábula é curta."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Les fables racontent des histoires d'animaux.",
+          "pt": "As fábulas contam histórias de animais."
+        },
+        {
+          "level": "B2",
+          "fr": "La fable, qui cache une leçon, plaît aux enfants.",
+          "pt": "A fábula, que esconde uma lição, agrada às crianças."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Les fables de la Renaissance mêlent le rire et la critique sociale.",
+          "pt": "As fábulas da Renascença misturam o riso e a crítica social."
+        }
       ]
     },
     {
       "term": "la satire",
       "definitionPt": "a sátira",
       "definitionFr": "Critique par le rire.",
-      "inflections": ["la satire", "les satires"],
-      "ptTargets": ["sátira"],
+      "inflections": [
+        "la satire",
+        "les satires"
+      ],
+      "ptTargets": [
+        "sátira"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La satire est amusante.", "pt": "A sátira é divertida." },
-        { "level": "A2-B1", "fr": "La satire de Rabelais vise les gens sérieux.", "pt": "A sátira de Rabelais visa as pessoas sérias." },
-        { "level": "B2", "fr": "La satire, qui dénonce avec humour, reste efficace.", "pt": "A sátira, que denuncia com humor, continua eficaz." },
-        { "level": "C1-C2", "fr": "La satire rabelaisienne est une arme intellectuelle contre le dogmatisme.", "pt": "A sátira rabelaisiana é uma arma intelectual contra o dogmatismo." }
+        {
+          "level": "A1",
+          "fr": "La satire est amusante.",
+          "pt": "A sátira é divertida."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "La satire de Rabelais vise les gens sérieux.",
+          "pt": "A sátira de Rabelais visa as pessoas sérias."
+        },
+        {
+          "level": "B2",
+          "fr": "La satire, qui dénonce avec humour, reste efficace.",
+          "pt": "A sátira, que denuncia com humor, continua eficaz."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "La satire rabelaisienne est une arme intellectuelle contre le dogmatisme.",
+          "pt": "A sátira rabelaisiana é uma arma intelectual contra o dogmatismo."
+        }
       ]
     },
     {
       "term": "raconter",
       "definitionPt": "contar",
       "definitionFr": "Dire une histoire.",
-      "inflections": ["je raconte", "nous racontons", "raconté"],
-      "ptTargets": ["contar"],
+      "inflections": [
+        "je raconte",
+        "nous racontons",
+        "raconté"
+      ],
+      "ptTargets": [
+        "contar"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Je raconte une histoire.", "pt": "Eu conto uma história." },
-        { "level": "A2-B1", "fr": "Rabelais raconte des histoires drôles.", "pt": "Rabelais conta histórias engraçadas." },
-        { "level": "B2", "fr": "Les histoires, qu'il racontait, faisaient rire toute la cour.", "pt": "As histórias, que ele contava, faziam rir toda a corte." },
-        { "level": "C1-C2", "fr": "Raconter en mêlant le rire et la vérité est un art consommé.", "pt": "Contar misturando o riso e a verdade é uma arte consumada." }
+        {
+          "level": "A1",
+          "fr": "Je raconte une histoire.",
+          "pt": "Eu conto uma história."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Rabelais raconte des histoires drôles.",
+          "pt": "Rabelais conta histórias engraçadas."
+        },
+        {
+          "level": "B2",
+          "fr": "Les histoires, qu'il racontait, faisaient rire toute la cour.",
+          "pt": "As histórias, que ele contava, faziam rir toda a corte."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Raconter en mêlant le rire et la vérité est un art consommé.",
+          "pt": "Contar misturando o riso e a verdade é uma arte consumada."
+        }
       ]
     },
     {
       "term": "l'homme",
       "definitionPt": "o homem",
       "definitionFr": "Être humain, personne.",
-      "inflections": ["l'homme", "les hommes"],
-      "ptTargets": ["homem"],
+      "inflections": [
+        "l'homme",
+        "les hommes"
+      ],
+      "ptTargets": [
+        "homem"
+      ],
       "examples": [
-        { "level": "A1", "fr": "L'homme marche.", "pt": "O homem caminha." },
-        { "level": "A2-B1", "fr": "« Le rire est le propre de l'homme », a dit Rabelais.", "pt": "« O riso é próprio do homem », disse Rabelais." },
-        { "level": "B2", "fr": "L'homme, qui cherche le bonheur, a besoin du rire.", "pt": "O homem, que busca a felicidade, precisa do riso." },
-        { "level": "C1-C2", "fr": "La question de l'homme, sa nature et sa liberté, anime toute la pensée de la Renaissance.", "pt": "A questão do homem, sua natureza e sua liberdade, anima todo o pensamento da Renascença." }
+        {
+          "level": "A1",
+          "fr": "L'homme marche.",
+          "pt": "O homem caminha."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "« Le rire est le propre de l'homme », a dit Rabelais.",
+          "pt": "« O riso é próprio do homem », disse Rabelais."
+        },
+        {
+          "level": "B2",
+          "fr": "L'homme, qui cherche le bonheur, a besoin du rire.",
+          "pt": "O homem, que busca a felicidade, precisa do riso."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "La question de l'homme, sa nature et sa liberté, anime toute la pensée de la Renaissance.",
+          "pt": "A questão do homem, sua natureza e sua liberdade, anima todo o pensamento da Renascença."
+        }
       ]
     },
     {
       "term": "le livre",
       "definitionPt": "o livro",
       "definitionFr": "Ouvrage imprimé.",
-      "inflections": ["le livre", "les livres"],
-      "ptTargets": ["livro"],
+      "inflections": [
+        "le livre",
+        "les livres"
+      ],
+      "ptTargets": [
+        "livro"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le livre est ouvert.", "pt": "O livro está aberto." },
-        { "level": "A2-B1", "fr": "Irlan a acheté un livre de Rabelais.", "pt": "Irlan comprou um livro de Rabelais." },
-        { "level": "B2", "fr": "Le livre, qui traverse les siècles, reste notre meilleur ami.", "pt": "O livro, que atravessa os séculos, continua sendo nosso melhor amigo." },
-        { "level": "C1-C2", "fr": "Les livres de la Renaissance ont forgé la langue française moderne.", "pt": "Os livros da Renascença forjaram a língua francesa moderna." }
+        {
+          "level": "A1",
+          "fr": "Le livre est ouvert.",
+          "pt": "O livro está aberto."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Irlan a acheté un livre de Rabelais.",
+          "pt": "Irlan comprou um livro de Rabelais."
+        },
+        {
+          "level": "B2",
+          "fr": "Le livre, qui traverse les siècles, reste notre meilleur ami.",
+          "pt": "O livro, que atravessa os séculos, continua sendo nosso melhor amigo."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Les livres de la Renaissance ont forgé la langue française moderne.",
+          "pt": "Os livros da Renascença forjaram a língua francesa moderna."
+        }
       ]
     },
     {
       "term": "l'esprit",
       "definitionPt": "o espírito",
       "definitionFr": "Intelligence, état d'âme.",
-      "inflections": ["l'esprit", "les esprits"],
-      "ptTargets": ["espírito"],
+      "inflections": [
+        "l'esprit",
+        "les esprits"
+      ],
+      "ptTargets": [
+        "espírito"
+      ],
       "examples": [
-        { "level": "A1", "fr": "L'esprit est vif.", "pt": "O espírito é vivo." },
-        { "level": "A2-B1", "fr": "Rabelais avait un esprit libre.", "pt": "Rabelais tinha um espírito livre." },
-        { "level": "B2", "fr": "L'esprit, qui se nourrit de lectures, s'enrichit sans cesse.", "pt": "O espírito, que se alimenta de leituras, enriquece sem parar." },
-        { "level": "C1-C2", "fr": "L'esprit de la Touraine allie la douceur de vivre et l'intelligence joyeuse.", "pt": "O espírito da Touraine alia a doçura de viver e a inteligência alegre." }
+        {
+          "level": "A1",
+          "fr": "L'esprit est vif.",
+          "pt": "O espírito é vivo."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Rabelais avait un esprit libre.",
+          "pt": "Rabelais tinha um espírito livre."
+        },
+        {
+          "level": "B2",
+          "fr": "L'esprit, qui se nourrit de lectures, s'enrichit sans cesse.",
+          "pt": "O espírito, que se alimenta de leituras, enriquece sem parar."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "L'esprit de la Touraine allie la douceur de vivre et l'intelligence joyeuse.",
+          "pt": "O espírito da Touraine alia a doçura de viver e a inteligência alegre."
+        }
       ]
     }
   ],
@@ -194,7 +460,11 @@
     "exampleFr": "Demain, nous visiterons Chinon, la ville où il est né.",
     "examplePt": "Amanhã, visitaremos Chinon, a cidade onde ele nasceu.",
     "practiceQuestion": "Complete: « Demain, nous ___ Chinon. »",
-    "options": ["visiterons", "visitions", "avons visité"],
+    "options": [
+      "visiterons",
+      "visitions",
+      "avons visité"
+    ],
     "correctIndex": 0,
     "points": [
       {
@@ -203,7 +473,11 @@
         "exampleFr": "Nous verrons sa maison et le château.",
         "examplePt": "Veremos sua casa e o castelo.",
         "practiceQuestion": "Qual é o Futur Simple de 'voir'?",
-        "options": ["nous verrons", "nous voyons", "nous avons vu"],
+        "options": [
+          "nous verrons",
+          "nous voyons",
+          "nous avons vu"
+        ],
         "correctIndex": 0
       },
       {
@@ -212,7 +486,11 @@
         "exampleFr": "Rabelais est l'écrivain le plus célèbre de la Touraine.",
         "examplePt": "Rabelais é o escritor mais famoso da Touraine.",
         "practiceQuestion": "Complete: « C'est l'écrivain le plus ___ de la région. »",
-        "options": ["célèbre", "célébrer", "célébrément"],
+        "options": [
+          "célèbre",
+          "célébrer",
+          "célébrément"
+        ],
         "correctIndex": 0
       }
     ]
@@ -220,31 +498,51 @@
   "quizQuestions": [
     {
       "question": "Onde nasceu Rabelais?",
-      "options": ["em Chinon, na Touraine", "em Paris", "em Marselha"],
+      "options": [
+        "em Chinon, na Touraine",
+        "em Paris",
+        "em Marselha"
+      ],
       "correctIndex": 0,
       "explanation": "Rabelais nasceu em Chinon, na Touraine."
     },
     {
       "question": "Qual é a frase mais famosa de Rabelais?",
-      "options": ["Le rire est le propre de l'homme", "Je pense donc je suis", "Tout est bien"],
+      "options": [
+        "Le rire est le propre de l'homme",
+        "Je pense donc je suis",
+        "Tout est bien"
+      ],
       "correctIndex": 0,
       "explanation": "A frase mais conhecida é: 'Le rire est le propre de l'homme'."
     },
     {
       "question": "O que Irlan comprou na livraria?",
-      "options": ["um livro de Rabelais", "um mapa antigo", "um pôster"],
+      "options": [
+        "um livro de Rabelais",
+        "um mapa antigo",
+        "um pôster"
+      ],
       "correctIndex": 0,
       "explanation": "Irlan comprou um livro de Rabelais."
     },
     {
       "question": "Complete: « Demain, nous ___ Chinon. »",
-      "options": ["visiterons", "visitions", "avons visité"],
+      "options": [
+        "visiterons",
+        "visitions",
+        "avons visité"
+      ],
       "correctIndex": 0,
       "explanation": "Futuro simple: nous visiterons."
     },
     {
       "question": "Qual lição Irlan tirou da Touraine?",
-      "options": ["o riso é uma forma de sabedoria", "é preciso economizar", "o vinho é tudo"],
+      "options": [
+        "o riso é uma forma de sabedoria",
+        "é preciso economizar",
+        "o vinho é tudo"
+      ],
       "correctIndex": 0,
       "explanation": "Irlan concluiu que o riso é uma forma de sabedoria."
     }

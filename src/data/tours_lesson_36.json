@@ -7,7 +7,7 @@
   "titlePt": "O castelo de Tours e o museu de Belas Artes",
   "subtitleFr": "Un ancien palais royal devenu musée, face à la Loire",
   "subtitlePt": "Um antigo palácio real transformado em museu, diante do Loire",
-  "summaryPt": "Nesta Aula 36 (B1), a família visita o château de Tours, antigo palácio dos reis de França, e o museu des Beaux-Arts com seu jardim e suas pinturas. O aluno pratica o vocabulário do museu (le tableau, le palais, la visite guidée) e os pronomes relativos.",
+  "summaryPt": "Nesta Aula 36 (B1), o casal visita o château de Tours, antigo palácio dos reis de França, e o museu des Beaux-Arts com seu jardim e suas pinturas. Andréa define o museu como uma máquina de viajar no tempo — e o quadro mais antigo mostra Tours como era há quatro séculos. O aluno pratica o vocabulário do museu (le tableau, le palais, la visite guidée) e os pronomes relativos.",
   "paragraphs": [
     {
       "id": 1,
@@ -26,13 +26,28 @@
     },
     {
       "id": 4,
-      "fr": "« Un musée, c'est une machine à voyager dans le temps », a dit Iris, très fière de sa phrase. Irlan a ri : « Tu parles comme un poète, ma fille. Ou comme une guide. »",
-      "pt": "« Um museu é uma máquina de viajar no tempo », disse Íris, muito orgulhosa da frase. Irlan riu: « Você fala como uma poeta, minha filha. Ou como uma guia. »"
+      "fr": "« Un musée, c'est une machine à voyager dans le temps », a dit Andréa, très fière de sa phrase. Irlan a ri : « Tu parles comme un poète. Ou comme une guide. »",
+      "pt": "« Um museu é uma máquina de viajar no tempo », disse Andréa, muito orgulhosa da frase. Irlan riu: « Você fala como uma poeta. Ou como uma guia. »"
     },
     {
       "id": 5,
-      "fr": "Avant de partir, la famille a acheté des cartes postales du tableau le plus ancien. « Quand j'étais livreur, je passais devant ce château sans jamais entrer », a dit Irlan. « Aujourd'hui, j'ai vu Tours à travers les siècles. »",
-      "pt": "Antes de partir, a família comprou cartões-postais do quadro mais antigo. « Quando eu era entregador, eu passava diante deste castelo sem nunca entrar », disse Irlan. « Hoje, vi Tours através dos séculos. »"
+      "fr": "Avant de partir, le couple a acheté des cartes postales du tableau le plus ancien. « Quand j'étais livreur, je passais devant ce château sans jamais entrer », a dit Irlan. « Aujourd'hui, j'ai vu Tours à travers les siècles. »",
+      "pt": "Antes de partir, o casal comprou cartões-postais do quadro mais antigo. « Quando eu era entregador, eu passava diante deste castelo sem nunca entrar », disse Irlan. « Hoje, vi Tours através dos séculos. »"
+    },
+    {
+      "id": 6,
+      "fr": "Le château de Tours abrite le musée des Beaux-Arts. Les collections sont considérables et variées.",
+      "pt": "O château de Tours abriga o museu de Belas Artes. As coleções são consideráveis e variadas."
+    },
+    {
+      "id": 7,
+      "fr": "Irlan admire une gravure ancienne. « C'est une œuvre de qualité, il faut la retenir », dit-il à Andréa.",
+      "pt": "Irlan admira uma gravura antiga. É uma obra de qualidade, é preciso retê-la, diz ele a Andréa."
+    },
+    {
+      "id": 8,
+      "fr": "Andréa remarque une petite sculpture. « Elle est bienveillante et émouvante, comme une confidence de pierre ».",
+      "pt": "Andréa observa uma pequena escultura. Ela é benevolente e comovente, como um segredo de pedra."
     }
   ],
   "vocabularyDictionary": [
@@ -40,156 +55,421 @@
       "term": "le palais",
       "definitionPt": "o palácio",
       "definitionFr": "Grande maison d'un roi ou d'un prince.",
-      "inflections": ["le palais", "un palais", "des palais"],
-      "ptTargets": ["palácio"],
+      "inflections": [
+        "le palais",
+        "un palais",
+        "des palais"
+      ],
+      "ptTargets": [
+        "palácio"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le palais est grand.", "pt": "O palácio é grande." },
-        { "level": "A2-B1", "fr": "Le château de Tours était un palais royal.", "pt": "O castelo de Tours era um palácio real." },
-        { "level": "B2", "fr": "Le palais qui se trouve près de la Loire est ancien.", "pt": "O palácio que fica perto do Loire é antigo." },
-        { "level": "C1-C2", "fr": "Le palais, demeure du pouvoir, a vu passer les rois et les révolutions.", "pt": "O palácio, morada do poder, viu passar reis e revoluções." }
+        {
+          "level": "A1",
+          "fr": "Le palais est grand.",
+          "pt": "O palácio é grande."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Le château de Tours était un palais royal.",
+          "pt": "O castelo de Tours era um palácio real."
+        },
+        {
+          "level": "B2",
+          "fr": "Le palais qui se trouve près de la Loire est ancien.",
+          "pt": "O palácio que fica perto do Loire é antigo."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Le palais, demeure du pouvoir, a vu passer les rois et les révolutions.",
+          "pt": "O palácio, morada do poder, viu passar reis e revoluções."
+        }
       ]
     },
     {
       "term": "le musée",
       "definitionPt": "o museu",
       "definitionFr": "Lieu où l'on expose des œuvres.",
-      "inflections": ["le musée", "un musée", "des musées"],
-      "ptTargets": ["museu"],
+      "inflections": [
+        "le musée",
+        "un musée",
+        "des musées"
+      ],
+      "ptTargets": [
+        "museu"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le musée est grand.", "pt": "O museu é grande." },
-        { "level": "A2-B1", "fr": "Le musée des Beaux-Arts est à Tours.", "pt": "O museu de Belas Artes fica em Tours." },
-        { "level": "B2", "fr": "Le musée que nous avons visité est dans un château.", "pt": "O museu que visitamos fica num castelo." },
-        { "level": "C1-C2", "fr": "Le musée, mémoire des regards, garde les œuvres que le temps ne peut effacer.", "pt": "O museu, memória dos olhares, guarda as obras que o tempo não pode apagar." }
+        {
+          "level": "A1",
+          "fr": "Le musée est grand.",
+          "pt": "O museu é grande."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Le musée des Beaux-Arts est à Tours.",
+          "pt": "O museu de Belas Artes fica em Tours."
+        },
+        {
+          "level": "B2",
+          "fr": "Le musée que nous avons visité est dans un château.",
+          "pt": "O museu que visitamos fica num castelo."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Le musée, mémoire des regards, garde les œuvres que le temps ne peut effacer.",
+          "pt": "O museu, memória dos olhares, guarda as obras que o tempo não pode apagar."
+        }
       ]
     },
     {
       "term": "le tableau",
       "definitionPt": "o quadro",
       "definitionFr": "Peinture exposée.",
-      "inflections": ["le tableau", "un tableau", "des tableaux"],
-      "ptTargets": ["quadro"],
+      "inflections": [
+        "le tableau",
+        "un tableau",
+        "des tableaux"
+      ],
+      "ptTargets": [
+        "quadro"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le tableau est coloré.", "pt": "O quadro é colorido." },
-        { "level": "A2-B1", "fr": "Le tableau montre Tours il y a quatre cents ans.", "pt": "O quadro mostra Tours há quatrocentos anos." },
-        { "level": "B2", "fr": "Le tableau que l'on admire le plus est ancien.", "pt": "O quadro que mais se admira é antigo." },
-        { "level": "C1-C2", "fr": "Le tableau, fenêtre fermée, ouvre pourtant sur des siècles entiers.", "pt": "O quadro, janela fechada, abre no entanto para séculos inteiros." }
+        {
+          "level": "A1",
+          "fr": "Le tableau est coloré.",
+          "pt": "O quadro é colorido."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Le tableau montre Tours il y a quatre cents ans.",
+          "pt": "O quadro mostra Tours há quatrocentos anos."
+        },
+        {
+          "level": "B2",
+          "fr": "Le tableau que l'on admire le plus est ancien.",
+          "pt": "O quadro que mais se admira é antigo."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Le tableau, fenêtre fermée, ouvre pourtant sur des siècles entiers.",
+          "pt": "O quadro, janela fechada, abre no entanto para séculos inteiros."
+        }
       ]
     },
     {
       "term": "la peinture",
       "definitionPt": "a pintura",
       "definitionFr": "Art de peindre ; œuvre peinte.",
-      "inflections": ["la peinture", "une peinture", "des peintures"],
-      "ptTargets": ["pintura"],
+      "inflections": [
+        "la peinture",
+        "une peinture",
+        "des peintures"
+      ],
+      "ptTargets": [
+        "pintura"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La peinture est belle.", "pt": "A pintura é bonita." },
-        { "level": "A2-B1", "fr": "Le musée montre des peintures anciennes.", "pt": "O museu mostra pinturas antigas." },
-        { "level": "B2", "fr": "Les peintures que l'on voit ici viennent de plusieurs siècles.", "pt": "As pinturas que se veem aqui vêm de vários séculos." },
-        { "level": "C1-C2", "fr": "La peinture, piège à beauté, arrête le temps sur une toile.", "pt": "A pintura, armadilha de beleza, detém o tempo numa tela." }
+        {
+          "level": "A1",
+          "fr": "La peinture est belle.",
+          "pt": "A pintura é bonita."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Le musée montre des peintures anciennes.",
+          "pt": "O museu mostra pinturas antigas."
+        },
+        {
+          "level": "B2",
+          "fr": "Les peintures que l'on voit ici viennent de plusieurs siècles.",
+          "pt": "As pinturas que se veem aqui vêm de vários séculos."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "La peinture, piège à beauté, arrête le temps sur une toile.",
+          "pt": "A pintura, armadilha de beleza, detém o tempo numa tela."
+        }
       ]
     },
     {
       "term": "la visite guidée",
       "definitionPt": "a visita guiada",
       "definitionFr": "Visite avec un guide qui explique.",
-      "inflections": ["la visite guidée", "une visite guidée", "des visites guidées"],
-      "ptTargets": ["visita guiada"],
+      "inflections": [
+        "la visite guidée",
+        "une visite guidée",
+        "des visites guidées"
+      ],
+      "ptTargets": [
+        "visita guiada"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La visite guidée est longue.", "pt": "A visita guiada é longa." },
-        { "level": "A2-B1", "fr": "La famille a fait une visite guidée du musée.", "pt": "A família fez uma visita guiada ao museu." },
-        { "level": "B2", "fr": "La visite guidée que nous avons faite était passionnante.", "pt": "A visita guiada que fizemos foi apaixonante." },
-        { "level": "C1-C2", "fr": "La visite guidée, lecture à voix haute, donne vie aux œuvres muettes.", "pt": "A visita guiada, leitura em voz alta, dá vida às obras mudas." }
+        {
+          "level": "A1",
+          "fr": "La visite guidée est longue.",
+          "pt": "A visita guiada é longa."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Le couple a fait une visite guidée du musée.",
+          "pt": "O casal fez uma visita guiada ao museu."
+        },
+        {
+          "level": "B2",
+          "fr": "La visite guidée que nous avons faite était passionnante.",
+          "pt": "A visita guiada que fizemos foi apaixonante."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "La visite guidée, lecture à voix haute, donne vie aux œuvres muettes.",
+          "pt": "A visita guiada, leitura em voz alta, dá vida às obras mudas."
+        }
       ]
     },
     {
       "term": "le guide",
       "definitionPt": "o guia",
       "definitionFr": "Personne qui explique et montre.",
-      "inflections": ["le guide", "un guide", "des guides"],
-      "ptTargets": ["guia"],
+      "inflections": [
+        "le guide",
+        "un guide",
+        "des guides"
+      ],
+      "ptTargets": [
+        "guia"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le guide parle.", "pt": "O guia fala." },
-        { "level": "A2-B1", "fr": "Le guide connaît chaque tableau.", "pt": "O guia conhece cada quadro." },
-        { "level": "B2", "fr": "Le guide qui nous a expliqué l'histoire était passionné.", "pt": "O guia que nos explicou a história era apaixonado." },
-        { "level": "C1-C2", "fr": "Le guide, passeur de regards, montre ce que l'œil pressé ne voit pas.", "pt": "O guia, passador de olhares, mostra o que o olho apressado não vê." }
+        {
+          "level": "A1",
+          "fr": "Le guide parle.",
+          "pt": "O guia fala."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Le guide connaît chaque tableau.",
+          "pt": "O guia conhece cada quadro."
+        },
+        {
+          "level": "B2",
+          "fr": "Le guide qui nous a expliqué l'histoire était passionné.",
+          "pt": "O guia que nos explicou a história era apaixonado."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Le guide, passeur de regards, montre ce que l'œil pressé ne voit pas.",
+          "pt": "O guia, passador de olhares, mostra o que o olho apressado não vê."
+        }
       ]
     },
     {
       "term": "le monument",
       "definitionPt": "o monumento",
       "definitionFr": "Bâtiment historique important.",
-      "inflections": ["le monument", "un monument", "des monuments"],
-      "ptTargets": ["monumento"],
+      "inflections": [
+        "le monument",
+        "un monument",
+        "des monuments"
+      ],
+      "ptTargets": [
+        "monumento"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le monument est vieux.", "pt": "O monumento é velho." },
-        { "level": "A2-B1", "fr": "Le cèdre est classé monument historique.", "pt": "O cedro é tombado como monumento histórico." },
-        { "level": "B2", "fr": "Les monuments que l'on voit à Tours sont nombreux.", "pt": "Os monumentos que se veem em Tours são numerosos." },
-        { "level": "C1-C2", "fr": "Le monument, témoin de pierre, refuse de laisser mourir le passé.", "pt": "O monumento, testemunha de pedra, recusa-se a deixar morrer o passado." }
+        {
+          "level": "A1",
+          "fr": "Le monument est vieux.",
+          "pt": "O monumento é velho."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Le cèdre est classé monument historique.",
+          "pt": "O cedro é tombado como monumento histórico."
+        },
+        {
+          "level": "B2",
+          "fr": "Les monuments que l'on voit à Tours sont nombreux.",
+          "pt": "Os monumentos que se veem em Tours são numerosos."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Le monument, témoin de pierre, refuse de laisser mourir le passé.",
+          "pt": "O monumento, testemunha de pedra, recusa-se a deixar morrer o passado."
+        }
       ]
     },
     {
       "term": "le jardin",
       "definitionPt": "o jardim",
       "definitionFr": "Terrain planté de fleurs et d'arbres.",
-      "inflections": ["le jardin", "un jardin", "des jardins"],
-      "ptTargets": ["jardim"],
+      "inflections": [
+        "le jardin",
+        "un jardin",
+        "des jardins"
+      ],
+      "ptTargets": [
+        "jardim"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le jardin est vert.", "pt": "O jardim é verde." },
-        { "level": "A2-B1", "fr": "Le jardin du musée est reposant.", "pt": "O jardim do museu é repousante." },
-        { "level": "B2", "fr": "Le jardin où l'on se promène avant la visite est agréable.", "pt": "O jardim onde se passeia antes da visita é agradável." },
-        { "level": "C1-C2", "fr": "Le jardin, écrin du musée, prépare les yeux à la beauté.", "pt": "O jardim, estojo do museu, prepara os olhos para a beleza." }
+        {
+          "level": "A1",
+          "fr": "Le jardin est vert.",
+          "pt": "O jardim é verde."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Le jardin du musée est reposant.",
+          "pt": "O jardim do museu é repousante."
+        },
+        {
+          "level": "B2",
+          "fr": "Le jardin où l'on se promène avant la visite est agréable.",
+          "pt": "O jardim onde se passeia antes da visita é agradável."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Le jardin, écrin du musée, prépare les yeux à la beauté.",
+          "pt": "O jardim, estojo do museu, prepara os olhos para a beleza."
+        }
       ]
     },
     {
       "term": "la machine",
       "definitionPt": "a máquina",
       "definitionFr": "Objet technique qui transforme ou déplace.",
-      "inflections": ["la machine", "une machine", "des machines"],
-      "ptTargets": ["máquina"],
+      "inflections": [
+        "la machine",
+        "une machine",
+        "des machines"
+      ],
+      "ptTargets": [
+        "máquina"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La machine est bruyante.", "pt": "A máquina é barulhenta." },
-        { "level": "A2-B1", "fr": "Le musée est une machine à voyager dans le temps.", "pt": "O museu é uma máquina de viajar no tempo." },
-        { "level": "B2", "fr": "La machine dont parle Iris est imaginaire.", "pt": "A máquina de que Íris fala é imaginária." },
-        { "level": "C1-C2", "fr": "La machine, rêve d'acier, devient poésie quand elle transporte l'âme.", "pt": "A máquina, sonho de aço, vira poesia quando transporta a alma." }
+        {
+          "level": "A1",
+          "fr": "La machine est bruyante.",
+          "pt": "A máquina é barulhenta."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Le musée est une machine à voyager dans le temps.",
+          "pt": "O museu é uma máquina de viajar no tempo."
+        },
+        {
+          "level": "B2",
+          "fr": "La machine dont parle Andréa est imaginaire.",
+          "pt": "A máquina de que Andréa fala é imaginária."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "La machine, rêve d'acier, devient poésie quand elle transporte l'âme.",
+          "pt": "A máquina, sonho de aço, vira poesia quando transporta a alma."
+        }
       ]
     },
     {
       "term": "le siècle",
       "definitionPt": "o século",
       "definitionFr": "Période de cent ans.",
-      "inflections": ["le siècle", "un siècle", "des siècles"],
-      "ptTargets": ["século"],
+      "inflections": [
+        "le siècle",
+        "un siècle",
+        "des siècles"
+      ],
+      "ptTargets": [
+        "século"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le siècle est long.", "pt": "O século é longo." },
-        { "level": "A2-B1", "fr": "Le cèdre a été planté au XIXe siècle.", "pt": "O cedro foi plantado no século XIX." },
-        { "level": "B2", "fr": "Les siècles que le musée traverse vont du XVe au XXe.", "pt": "Os séculos que o museu atravessa vão do XV ao XX." },
-        { "level": "C1-C2", "fr": "Le siècle, chapitre du temps, passe ses pages sans se presser.", "pt": "O século, capítulo do tempo, vira suas páginas sem pressa." }
+        {
+          "level": "A1",
+          "fr": "Le siècle est long.",
+          "pt": "O século é longo."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Le cèdre a été planté au XIXe siècle.",
+          "pt": "O cedro foi plantado no século XIX."
+        },
+        {
+          "level": "B2",
+          "fr": "Les siècles que le musée traverse vont du XVe au XXe.",
+          "pt": "Os séculos que o museu atravessa vão do XV ao XX."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Le siècle, chapitre du temps, passe ses pages sans se presser.",
+          "pt": "O século, capítulo do tempo, vira suas páginas sem pressa."
+        }
       ]
     },
     {
       "term": "la carte postale",
       "definitionPt": "o cartão-postal",
       "definitionFr": "Carte avec une image qu'on envoie par la poste.",
-      "inflections": ["la carte postale", "une carte postale", "des cartes postales"],
-      "ptTargets": ["cartão-postal"],
+      "inflections": [
+        "la carte postale",
+        "une carte postale",
+        "des cartes postales"
+      ],
+      "ptTargets": [
+        "cartão-postal"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La carte postale est belle.", "pt": "O cartão-postal é bonito." },
-        { "level": "A2-B1", "fr": "La famille a acheté des cartes postales.", "pt": "A família comprou cartões-postais." },
-        { "level": "B2", "fr": "Les cartes postales que nous avons envoyées montrent le château.", "pt": "Os cartões-postais que enviamos mostram o castelo." },
-        { "level": "C1-C2", "fr": "La carte postale, message double, dit bonjour et montre la beauté.", "pt": "O cartão-postal, mensagem dupla, diz olá e mostra a beleza." }
+        {
+          "level": "A1",
+          "fr": "La carte postale est belle.",
+          "pt": "O cartão-postal é bonito."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Le couple a acheté des cartes postales.",
+          "pt": "O casal comprou cartões-postais."
+        },
+        {
+          "level": "B2",
+          "fr": "Les cartes postales que nous avons envoyées montrent le château.",
+          "pt": "Os cartões-postais que enviamos mostram o castelo."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "La carte postale, message double, dit bonjour et montre la beauté.",
+          "pt": "O cartão-postal, mensagem dupla, diz olá e mostra a beleza."
+        }
       ]
     },
     {
       "term": "fier",
       "definitionPt": "orgulhoso",
       "definitionFr": "Content de soi, plein de fierté.",
-      "inflections": ["fier", "fière", "fiers", "fières"],
-      "ptTargets": ["orgulhoso"],
+      "inflections": [
+        "fier",
+        "fière",
+        "fiers",
+        "fières"
+      ],
+      "ptTargets": [
+        "orgulhoso"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Je suis fier de toi.", "pt": "Estou orgulhoso de você." },
-        { "level": "A2-B1", "fr": "Iris était fière de sa phrase.", "pt": "Íris estava orgulhosa de sua frase." },
-        { "level": "B2", "fr": "La guide, fière de sa ville, racontait avec joie.", "pt": "A guia, orgulhosa de sua cidade, contava com alegria." },
-        { "level": "C1-C2", "fr": "Être fier, c'est offrir son travail au regard des autres sans trembler.", "pt": "Ser orgulhoso é oferecer o trabalho ao olhar dos outros sem tremer." }
+        {
+          "level": "A1",
+          "fr": "Je suis fier de toi.",
+          "pt": "Estou orgulhoso de você."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Andréa était fière de sa phrase.",
+          "pt": "Andréa estava orgulhosa de sua frase."
+        },
+        {
+          "level": "B2",
+          "fr": "La guide, fière de sa ville, racontait avec joie.",
+          "pt": "A guia, orgulhosa de sua cidade, contava com alegria."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Être fier, c'est offrir son travail au regard des autres sans trembler.",
+          "pt": "Ser orgulhoso é oferecer o trabalho ao olhar dos outros sem tremer."
+        }
       ]
     }
   ],
@@ -210,27 +490,52 @@
   "quizQuestions": [
     {
       "question": "O que era o château de Tours antigamente ?",
-      "options": ["Um palácio dos reis", "Uma prisão", "Uma estação", "Uma fábrica"],
+      "options": [
+        "Um palácio dos reis",
+        "Uma prisão",
+        "Uma estação",
+        "Uma fábrica"
+      ],
       "correctIndex": 0
     },
     {
       "question": "O que o castelo abriga hoje ?",
-      "options": ["O museu des Beaux-Arts", "Uma escola", "Um hospital", "Um mercado"],
+      "options": [
+        "O museu des Beaux-Arts",
+        "Uma escola",
+        "Um hospital",
+        "Um mercado"
+      ],
       "correctIndex": 0
     },
     {
       "question": "Quando foi plantado o grande cèdre ?",
-      "options": ["No século XIX", "No ano passado", "Em 2020", "No século VIII"],
+      "options": [
+        "No século XIX",
+        "No ano passado",
+        "Em 2020",
+        "No século VIII"
+      ],
       "correctIndex": 0
     },
     {
       "question": "O que o quadro mais antigo mostra ?",
-      "options": ["Tours há quatrocentos anos", "Uma batalha", "O mar", "Um castelo de areia"],
+      "options": [
+        "Tours há quatrocentos anos",
+        "Uma batalha",
+        "O mar",
+        "Um castelo de areia"
+      ],
       "correctIndex": 0
     },
     {
-      "question": "Como Iris define um museu ?",
-      "options": ["Uma máquina de viajar no tempo", "Um lugar chato", "Uma loja", "Uma cozinha"],
+      "question": "Como Andréa define um museu ?",
+      "options": [
+        "Uma máquina de viajar no tempo",
+        "Um lugar chato",
+        "Uma loja",
+        "Uma cozinha"
+      ],
       "correctIndex": 0
     }
   ]

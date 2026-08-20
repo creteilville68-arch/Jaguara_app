@@ -68,6 +68,21 @@
       "id": 12,
       "fr": "En sortant, Andréa murmure : « Cet homme en savait plus qu'il ne l'a dit. »",
       "pt": "Ao sair, Andréa murmura: « Aquele homem sabia mais do que disse. »"
+    },
+    {
+      "id": 13,
+      "fr": "Dans la salle d'attente du musée, un infirmier vérifie les formulaires des visiteurs. L'infirmière leur tend un guide.",
+      "pt": "Na sala de espera do museu, um enfermeiro verifica os formulários dos visitantes. A enfermeira lhes entrega um guia."
+    },
+    {
+      "id": 14,
+      "fr": "Irlan décroche un dessin et lit la description. Le coiffeur du portrait seemait être un personnage important.",
+      "pt": "Irlan tira um desenho e lê a descrição. O cabeleireiro do retrato parecia ser uma pessoa importante."
+    },
+    {
+      "id": 15,
+      "fr": "Andréa envoie un e-mail depuis l'interphone du musée. « J'ai laissé un message à Sophie », dit-elle.",
+      "pt": "Andréa envia um e-mail pelo interfone do museu. Deixe um recado para Sophie, diz ela."
     }
   ],
   "vocabularyDictionary": [
@@ -75,156 +90,425 @@
       "term": "le musée",
       "definitionPt": "o museu",
       "definitionFr": "Lieu où l'on expose des œuvres.",
-      "inflections": ["le musée", "un musée", "des musées"],
-      "ptTargets": ["museu"],
+      "inflections": [
+        "le musée",
+        "un musée",
+        "des musées"
+      ],
+      "ptTargets": [
+        "museu"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le musée est calme.", "pt": "O museu é calmo." },
-        { "level": "A2-B1", "fr": "Ils visitent le musée de Picardie.", "pt": "Eles visitam o museu da Picardia." },
-        { "level": "B2", "fr": "Le musée conserve des tableaux et des objets anciens.", "pt": "O museu conserva quadros e objetos antigos." },
-        { "level": "C1-C2", "fr": "C'est le musée qui, en protégeant les œuvres, protège aussi la mémoire collective.", "pt": "É o museu que, ao proteger as obras, protege também a memória coletiva." }
+        {
+          "level": "A1",
+          "fr": "Le musée est calme.",
+          "pt": "O museu é calmo."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Ils visitent le musée de Picardie.",
+          "pt": "Eles visitam o museu da Picardia."
+        },
+        {
+          "level": "B2",
+          "fr": "Le musée conserve des tableaux et des objets anciens.",
+          "pt": "O museu conserva quadros e objetos antigos."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est le musée qui, en protégeant les œuvres, protège aussi la mémoire collective.",
+          "pt": "É o museu que, ao proteger as obras, protege também a memória coletiva."
+        }
       ]
     },
     {
       "term": "le tableau",
       "definitionPt": "o quadro",
       "definitionFr": "Peinture sur une toile.",
-      "inflections": ["le tableau", "un tableau", "des tableaux"],
-      "ptTargets": ["quadro", "pintura"],
+      "inflections": [
+        "le tableau",
+        "un tableau",
+        "des tableaux"
+      ],
+      "ptTargets": [
+        "quadro",
+        "pintura"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le tableau est beau.", "pt": "O quadro é bonito." },
-        { "level": "A2-B1", "fr": "Des tableaux racontent l'histoire de la région.", "pt": "Quadros contam a história da região." },
-        { "level": "B2", "fr": "Le tableau, éclairé, attire tous les regards.", "pt": "O quadro, iluminado, atrai todos os olhares." },
-        { "level": "C1-C2", "fr": "C'est le tableau qui, par ses couleurs, dit ce que les mots ne savent pas dire.", "pt": "É o quadro que, pelas suas cores, diz o que as palavras não sabem dizer." }
+        {
+          "level": "A1",
+          "fr": "Le tableau est beau.",
+          "pt": "O quadro é bonito."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Des tableaux racontent l'histoire de la région.",
+          "pt": "Quadros contam a história da região."
+        },
+        {
+          "level": "B2",
+          "fr": "Le tableau, éclairé, attire tous les regards.",
+          "pt": "O quadro, iluminado, atrai todos os olhares."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est le tableau qui, par ses couleurs, dit ce que les mots ne savent pas dire.",
+          "pt": "É o quadro que, pelas suas cores, diz o que as palavras não sabem dizer."
+        }
       ]
     },
     {
       "term": "le paysage",
       "definitionPt": "a paisagem",
       "definitionFr": "Vue d'un lieu.",
-      "inflections": ["le paysage", "un paysage", "des paysages"],
-      "ptTargets": ["paisagem"],
+      "inflections": [
+        "le paysage",
+        "un paysage",
+        "des paysages"
+      ],
+      "ptTargets": [
+        "paisagem"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le paysage est vert.", "pt": "A paisagem é verde." },
-        { "level": "A2-B1", "fr": "Andréa regarde un beau paysage.", "pt": "Andréa olha uma bela paisagem." },
-        { "level": "B2", "fr": "Le paysage peint rappelle les campagnes de Picardie.", "pt": "A paisagem pintada lembra os campos da Picardia." },
-        { "level": "C1-C2", "fr": "C'est le paysage qui, immobile, garde la trace d'un instant disparu.", "pt": "É a paisagem que, imóvel, guarda o rastro de um instante desaparecido." }
+        {
+          "level": "A1",
+          "fr": "Le paysage est vert.",
+          "pt": "A paisagem é verde."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Andréa regarde un beau paysage.",
+          "pt": "Andréa olha uma bela paisagem."
+        },
+        {
+          "level": "B2",
+          "fr": "Le paysage peint rappelle les campagnes de Picardie.",
+          "pt": "A paisagem pintada lembra os campos da Picardia."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est le paysage qui, immobile, garde la trace d'un instant disparu.",
+          "pt": "É a paisagem que, imóvel, guarda o rastro de um instante desaparecido."
+        }
       ]
     },
     {
       "term": "la couleur",
       "definitionPt": "a cor",
       "definitionFr": "Teinte d'un objet.",
-      "inflections": ["la couleur", "une couleur", "des couleurs"],
-      "ptTargets": ["cor"],
+      "inflections": [
+        "la couleur",
+        "une couleur",
+        "des couleurs"
+      ],
+      "ptTargets": [
+        "cor"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La couleur est douce.", "pt": "A cor é suave." },
-        { "level": "A2-B1", "fr": "Le tableau a des couleurs douces.", "pt": "O quadro tem cores suaves." },
-        { "level": "B2", "fr": "Les couleurs du tableau se fanent avec le temps.", "pt": "As cores do quadro desbotam com o tempo." },
-        { "level": "C1-C2", "fr": "C'est la couleur qui, choisie avec soin, révèle l'émotion du peintre.", "pt": "É a cor que, escolhida com cuidado, revela a emoção do pintor." }
+        {
+          "level": "A1",
+          "fr": "La couleur est douce.",
+          "pt": "A cor é suave."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Le tableau a des couleurs douces.",
+          "pt": "O quadro tem cores suaves."
+        },
+        {
+          "level": "B2",
+          "fr": "Les couleurs du tableau se fanent avec le temps.",
+          "pt": "As cores do quadro desbotam com o tempo."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est la couleur qui, choisie avec soin, révèle l'émotion du peintre.",
+          "pt": "É a cor que, escolhida com cuidado, revela a emoção do pintor."
+        }
       ]
     },
     {
       "term": "la carte",
       "definitionPt": "o mapa",
       "definitionFr": "Dessin d'un territoire.",
-      "inflections": ["la carte", "une carte", "des cartes"],
-      "ptTargets": ["mapa"],
+      "inflections": [
+        "la carte",
+        "une carte",
+        "des cartes"
+      ],
+      "ptTargets": [
+        "mapa"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La carte est ancienne.", "pt": "O mapa é antigo." },
-        { "level": "A2-B1", "fr": "Une vieille carte est protégée sous une vitre.", "pt": "Um mapa antigo é protegido sob um vidro." },
-        { "level": "B2", "fr": "La carte de la région révèle des routes oubliées.", "pt": "O mapa da região revela estradas esquecidas." },
-        { "level": "C1-C2", "fr": "C'est la carte qui, en cachant ses secrets, invite à la chercher plus loin.", "pt": "É o mapa que, ao esconder seus segredos, convida a procurar mais longe." }
+        {
+          "level": "A1",
+          "fr": "La carte est ancienne.",
+          "pt": "O mapa é antigo."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Une vieille carte est protégée sous une vitre.",
+          "pt": "Um mapa antigo é protegido sob um vidro."
+        },
+        {
+          "level": "B2",
+          "fr": "La carte de la région révèle des routes oubliées.",
+          "pt": "O mapa da região revela estradas esquecidas."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est la carte qui, en cachant ses secrets, invite à la chercher plus loin.",
+          "pt": "É o mapa que, ao esconder seus segredos, convida a procurar mais longe."
+        }
       ]
     },
     {
       "term": "la clé",
       "definitionPt": "a chave",
       "definitionFr": "Objet qui ouvre une serrure.",
-      "inflections": ["la clé", "une clé", "des clés"],
-      "ptTargets": ["chave"],
+      "inflections": [
+        "la clé",
+        "une clé",
+        "des clés"
+      ],
+      "ptTargets": [
+        "chave"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La clé est petite.", "pt": "A chave é pequena." },
-        { "level": "A2-B1", "fr": "La carte est la clé du mystère.", "pt": "O mapa é a chave do mistério." },
-        { "level": "B2", "fr": "Il manque encore la clé pour comprendre le message.", "pt": "Falta ainda a chave para entender a mensagem." },
-        { "level": "C1-C2", "fr": "C'est la clé qui, souvent invisible, transforme un simple indice en réponse.", "pt": "É a chave que, muitas vezes invisível, transforma uma simples pista em resposta." }
+        {
+          "level": "A1",
+          "fr": "La clé est petite.",
+          "pt": "A chave é pequena."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "La carte est la clé du mystère.",
+          "pt": "O mapa é a chave do mistério."
+        },
+        {
+          "level": "B2",
+          "fr": "Il manque encore la clé pour comprendre le message.",
+          "pt": "Falta ainda a chave para entender a mensagem."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est la clé qui, souvent invisible, transforme un simple indice en réponse.",
+          "pt": "É a chave que, muitas vezes invisível, transforma uma simples pista em resposta."
+        }
       ]
     },
     {
       "term": "le dessin",
       "definitionPt": "o desenho",
       "definitionFr": "Image tracée à la main.",
-      "inflections": ["le dessin", "un dessin", "des dessins"],
-      "ptTargets": ["desenho"],
+      "inflections": [
+        "le dessin",
+        "un dessin",
+        "des dessins"
+      ],
+      "ptTargets": [
+        "desenho"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le dessin est joli.", "pt": "O desenho é bonito." },
-        { "level": "A2-B1", "fr": "Les routes forment un dessin.", "pt": "As estradas formam um desenho." },
-        { "level": "B2", "fr": "Le dessin des routes rappelle celui des chiffres.", "pt": "O desenho das estradas lembra o dos números." },
-        { "level": "C1-C2", "fr": "C'est le dessin qui, simple en apparence, porte un message codé.", "pt": "É o desenho que, simples na aparência, carrega uma mensagem codificada." }
+        {
+          "level": "A1",
+          "fr": "Le dessin est joli.",
+          "pt": "O desenho é bonito."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Les routes forment un dessin.",
+          "pt": "As estradas formam um desenho."
+        },
+        {
+          "level": "B2",
+          "fr": "Le dessin des routes rappelle celui des chiffres.",
+          "pt": "O desenho das estradas lembra o dos números."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est le dessin qui, simple en apparence, porte un message codé.",
+          "pt": "É o desenho que, simples na aparência, carrega uma mensagem codificada."
+        }
       ]
     },
     {
       "term": "la vitre",
       "definitionPt": "o vidro",
       "definitionFr": "Plaque de verre qui protège.",
-      "inflections": ["la vitre", "une vitre", "des vitres"],
-      "ptTargets": ["vidro", "vitrine"],
+      "inflections": [
+        "la vitre",
+        "une vitre",
+        "des vitres"
+      ],
+      "ptTargets": [
+        "vidro",
+        "vitrine"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La vitre est propre.", "pt": "O vidro está limpo." },
-        { "level": "A2-B1", "fr": "La carte est sous une vitre.", "pt": "O mapa está sob um vidro." },
-        { "level": "B2", "fr": "La vitre protège le document de la lumière.", "pt": "O vidro protege o documento da luz." },
-        { "level": "C1-C2", "fr": "C'est la vitre qui, invisible, garde les trésors du passé à portée de regard.", "pt": "É o vidro que, invisível, mantém os tesouros do passado ao alcance do olhar." }
+        {
+          "level": "A1",
+          "fr": "La vitre est propre.",
+          "pt": "O vidro está limpo."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "La carte est sous une vitre.",
+          "pt": "O mapa está sob um vidro."
+        },
+        {
+          "level": "B2",
+          "fr": "La vitre protège le document de la lumière.",
+          "pt": "O vidro protege o documento da luz."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est la vitre qui, invisible, garde les trésors du passé à portée de regard.",
+          "pt": "É o vidro que, invisível, mantém os tesouros do passado ao alcance do olhar."
+        }
       ]
     },
     {
       "term": "le gardien",
       "definitionPt": "o vigia",
       "definitionFr": "Personne qui surveille un lieu.",
-      "inflections": ["le gardien", "un gardien", "des gardiens"],
-      "ptTargets": ["vigia", "guarda"],
+      "inflections": [
+        "le gardien",
+        "un gardien",
+        "des gardiens"
+      ],
+      "ptTargets": [
+        "vigia",
+        "guarda"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le gardien est gentil.", "pt": "O vigia é gentil." },
-        { "level": "A2-B1", "fr": "Un gardien s'approche doucement.", "pt": "Um vigia se aproxima devagar." },
-        { "level": "B2", "fr": "Le gardien connaît chaque salle du musée.", "pt": "O vigia conhece cada sala do museu." },
-        { "level": "C1-C2", "fr": "C'est le gardien qui, silencieux, observe plus qu'il ne parle.", "pt": "É o vigia que, silencioso, observa mais do que fala." }
+        {
+          "level": "A1",
+          "fr": "Le gardien est gentil.",
+          "pt": "O vigia é gentil."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Un gardien s'approche doucement.",
+          "pt": "Um vigia se aproxima devagar."
+        },
+        {
+          "level": "B2",
+          "fr": "Le gardien connaît chaque salle du musée.",
+          "pt": "O vigia conhece cada sala do museu."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est le gardien qui, silencieux, observe plus qu'il ne parle.",
+          "pt": "É o vigia que, silencioso, observa mais do que fala."
+        }
       ]
     },
     {
       "term": "chercher",
       "definitionPt": "procurar",
       "definitionFr": "Essayer de trouver.",
-      "inflections": ["chercher", "je cherche", "nous cherchons"],
-      "ptTargets": ["procurar", "buscar"],
+      "inflections": [
+        "chercher",
+        "je cherche",
+        "nous cherchons"
+      ],
+      "ptTargets": [
+        "procurar",
+        "buscar"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Je cherche mes clés.", "pt": "Eu procuro minhas chaves." },
-        { "level": "A2-B1", "fr": "Vous cherchez quelque chose ?", "pt": "Vocês procuram alguma coisa?" },
-        { "level": "B2", "fr": "Ils cherchent un indice dans le musée.", "pt": "Eles procuram uma pista no museu." },
-        { "level": "C1-C2", "fr": "C'est en cherchant que l'on découvre parfois autre chose que ce que l'on attendait.", "pt": "É procurando que às vezes se descobre outra coisa além do esperado." }
+        {
+          "level": "A1",
+          "fr": "Je cherche mes clés.",
+          "pt": "Eu procuro minhas chaves."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Vous cherchez quelque chose ?",
+          "pt": "Vocês procuram alguma coisa?"
+        },
+        {
+          "level": "B2",
+          "fr": "Ils cherchent un indice dans le musée.",
+          "pt": "Eles procuram uma pista no museu."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est en cherchant que l'on découvre parfois autre chose que ce que l'on attendait.",
+          "pt": "É procurando que às vezes se descobre outra coisa além do esperado."
+        }
       ]
     },
     {
       "term": "le téléphone",
       "definitionPt": "o telefone",
       "definitionFr": "Appareil pour communiquer.",
-      "inflections": ["le téléphone", "un téléphone", "des téléphones"],
-      "ptTargets": ["telefone", "celular"],
+      "inflections": [
+        "le téléphone",
+        "un téléphone",
+        "des téléphones"
+      ],
+      "ptTargets": [
+        "telefone",
+        "celular"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le téléphone sonne.", "pt": "O telefone toca." },
-        { "level": "A2-B1", "fr": "Irlan photographie la carte avec son téléphone.", "pt": "Irlan fotografa o mapa com seu telefone." },
-        { "level": "B2", "fr": "Le téléphone permet de garder une copie des documents.", "pt": "O telefone permite guardar uma cópia dos documentos." },
-        { "level": "C1-C2", "fr": "C'est le téléphone qui, devenu carnet, garde en image ce que la mémoire pourrait oublier.", "pt": "É o telefone que, virado caderno, guarda em imagem o que a memória poderia esquecer." }
+        {
+          "level": "A1",
+          "fr": "Le téléphone sonne.",
+          "pt": "O telefone toca."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Irlan photographie la carte avec son téléphone.",
+          "pt": "Irlan fotografa o mapa com seu telefone."
+        },
+        {
+          "level": "B2",
+          "fr": "Le téléphone permet de garder une copie des documents.",
+          "pt": "O telefone permite guardar uma cópia dos documentos."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est le téléphone qui, devenu carnet, garde en image ce que la mémoire pourrait oublier.",
+          "pt": "É o telefone que, virado caderno, guarda em imagem o que a memória poderia esquecer."
+        }
       ]
     },
     {
       "term": "la région",
       "definitionPt": "a região",
       "definitionFr": "Grand territoire.",
-      "inflections": ["la région", "une région", "des régions"],
-      "ptTargets": ["região"],
+      "inflections": [
+        "la région",
+        "une région",
+        "des régions"
+      ],
+      "ptTargets": [
+        "região"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La région est belle.", "pt": "A região é bonita." },
-        { "level": "A2-B1", "fr": "Les tableaux racontent l'histoire de la région.", "pt": "Os quadros contam a história da região." },
-        { "level": "B2", "fr": "Chaque région a ses spécialités et ses traditions.", "pt": "Cada região tem suas especialidades e suas tradições." },
-        { "level": "C1-C2", "fr": "C'est la région qui, par ses paysages, façonne le caractère de ses habitants.", "pt": "É a região que, pelas suas paisagens, molda o caráter dos seus habitantes." }
+        {
+          "level": "A1",
+          "fr": "La région est belle.",
+          "pt": "A região é bonita."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Les tableaux racontent l'histoire de la région.",
+          "pt": "Os quadros contam a história da região."
+        },
+        {
+          "level": "B2",
+          "fr": "Chaque région a ses spécialités et ses traditions.",
+          "pt": "Cada região tem suas especialidades e suas tradições."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est la région qui, par ses paysages, façonne le caractère de ses habitants.",
+          "pt": "É a região que, pelas suas paisagens, molda o caráter dos seus habitantes."
+        }
       ]
     }
   ],
@@ -234,7 +518,11 @@
     "exampleFr": "Notre Atlas et nos sept chiffres.",
     "examplePt": "Nosso Atlas e nossos sete números.",
     "practiceQuestion": "Complete: '_____ sept chiffres' (nossos)",
-    "options": ["nos", "notre", "notres"],
+    "options": [
+      "nos",
+      "notre",
+      "notres"
+    ],
     "correctIndex": 0,
     "points": [
       {
@@ -243,7 +531,11 @@
         "exampleFr": "Regarde ces couleurs douces.",
         "examplePt": "Olha essas cores suaves.",
         "practiceQuestion": "Complete: 'des couleurs _____' (suaves)",
-        "options": ["douces", "doux", "douce"],
+        "options": [
+          "douces",
+          "doux",
+          "douce"
+        ],
         "correctIndex": 0
       },
       {
@@ -252,7 +544,11 @@
         "exampleFr": "Cet homme en savait plus qu'il ne l'a dit.",
         "examplePt": "Aquele homem sabia mais do que disse.",
         "practiceQuestion": "Complete: '_____ homme en savait plus.'",
-        "options": ["Cet", "Cette", "Ceux"],
+        "options": [
+          "Cet",
+          "Cette",
+          "Ceux"
+        ],
         "correctIndex": 0
       }
     ]
@@ -260,31 +556,51 @@
   "quizQuestions": [
     {
       "question": "O que atrai Irlan no museu?",
-      "options": ["um mapa antigo da Picardia", "um quadro de flores", "uma escultura"],
+      "options": [
+        "um mapa antigo da Picardia",
+        "um quadro de flores",
+        "uma escultura"
+      ],
       "correctIndex": 0,
       "explanation": "Irlan est attiré par une vieille carte de la Picardie."
     },
     {
       "question": "O que as estradas do mapa formam?",
-      "options": ["o mesmo desenho dos 7 números", "um círculo perfeito", "uma estrela"],
+      "options": [
+        "o mesmo desenho dos 7 números",
+        "um círculo perfeito",
+        "uma estrela"
+      ],
       "correctIndex": 0,
       "explanation": "Les routes forment le même dessin que nos sept chiffres."
     },
     {
       "question": "Quem se aproxima deles no museu?",
-      "options": ["um vigia", "um pintor", "um vendedor"],
+      "options": [
+        "um vigia",
+        "um pintor",
+        "um vendedor"
+      ],
       "correctIndex": 0,
       "explanation": "Un gardien s'approche doucement."
     },
     {
       "question": "Complete: '_____ sept chiffres' (nossos)",
-      "options": ["nos", "notre", "notres"],
+      "options": [
+        "nos",
+        "notre",
+        "notres"
+      ],
       "correctIndex": 0,
       "explanation": "nos + substantivo plural."
     },
     {
       "question": "Complete: '_____ homme en savait plus.'",
-      "options": ["Cet", "Cette", "Ceux"],
+      "options": [
+        "Cet",
+        "Cette",
+        "Ceux"
+      ],
       "correctIndex": 0,
       "explanation": "Cet + masculino que começa com vogal."
     }

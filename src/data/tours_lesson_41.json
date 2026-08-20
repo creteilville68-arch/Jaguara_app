@@ -7,7 +7,7 @@
   "titlePt": "A degustação em Vouvray: as bolhas do chenin",
   "subtitleFr": "Un verre, une lumière, et la Touraine dans la bouche",
   "subtitlePt": "Um copo, uma luz, e a Touraine na boca",
-  "summaryPt": "Nesta Aula 41 (B1), a família participa de uma degustação comentada em Vouvray: o vinho branco, o espumante, o doce. O aluno pratica o vocabulário da degustação (le verre, le nez, la robe, savourer) e a expressão de opinião (à mon avis, selon moi).",
+  "summaryPt": "Nesta Aula 41 (B1), o casal participa de uma degustação comentada em Vouvray: o vinho branco, o espumante, o doce. O aluno pratica o vocabulário da degustação (le verre, le nez, la robe, savourer) e a expressão de opinião (à mon avis, selon moi).",
   "paragraphs": [
     {
       "id": 1,
@@ -21,8 +21,8 @@
     },
     {
       "id": 3,
-      "fr": "« À mon avis, le vin sec sent la pomme », a dit Andréa. « Et le pétillant a des petites bulles qui dansent », a ajouté Iris, qui goûtait du jus de raisin pétillant. Tout le monde a ri.",
-      "pt": "« Na minha opinião, o vinho seco cheira a maçã », disse Andréa. « E o espumante tem bolhinhas que dançam », acrescentou Íris, que provava suco de uva com gás. Todos riram."
+      "fr": "« À mon avis, le vin sec sent la pomme », a dit Andréa. « Et le pétillant a des petites bulles qui dansent », a ajouté Irlan, qui goûtait du jus de raisin pétillant. Le vigneron a ri.",
+      "pt": "« Na minha opinião, o vinho seco cheira a maçã », disse Andréa. « E o espumante tem bolhinhas que dançam », acrescentou Irlan, que provava suco de uva com gás. O vinicultor riu."
     },
     {
       "id": 4,
@@ -31,8 +31,23 @@
     },
     {
       "id": 5,
-      "fr": "Avant de partir, la famille a acheté deux bouteilles : une pour ce soir, une pour le Brésil. « La grand-mère goûtera la Touraine », a dit Irlan. « Et elle dira : c'est doux comme un baiser français. »",
-      "pt": "Antes de partir, a família comprou duas garrafas: uma para hoje, uma para o Brasil. « A avó provará a Touraine », disse Irlan. « E dirá: é doce como um beijo francês. »"
+      "fr": "Avant de partir, le couple a acheté deux bouteilles : une pour ce soir, une pour le Brésil. « Ma mère goûtera la Touraine », a dit Irlan. « Et elle dira : c'est doux comme un baiser français. »",
+      "pt": "Antes de partir, o casal comprou duas garrafas: uma para hoje, uma para o Brasil. « Minha mãe provará a Touraine », disse Irlan. « E dirá: é doce como um beijo francês. »"
+    },
+    {
+      "id": 6,
+      "fr": "La dégustation à Vouvray est un moment privilégié. Irlan goûte différentes bouteilles de chenin.",
+      "pt": "A degustação em Vouvray é um momento privilegiado. Irlan prova diferentes garrafas de chenin."
+    },
+    {
+      "id": 7,
+      "fr": "Andréa remarque que les vins sont robustes et élégants. « C'est une spécialité locale incontestée », dit-elle.",
+      "pt": "Andréa observa que os vinos são robustos e elegantes. É uma especialidade local incontestável, diz ela."
+    },
+    {
+      "id": 8,
+      "fr": "Irlan note dans l'Atlas : « Le vin est un art qui nécessite patience et savoir-faire. » Il est ravi.",
+      "pt": "Irlan anota no Atlas: O vinho é uma arte que necessita paciência e saber-fazer. Ele está encantado."
     }
   ],
   "vocabularyDictionary": [
@@ -40,156 +55,426 @@
       "term": "la dégustation",
       "definitionPt": "a degustação",
       "definitionFr": "Action de goûter pour apprécier.",
-      "inflections": ["la dégustation", "une dégustation", "des dégustations"],
-      "ptTargets": ["degustação"],
+      "inflections": [
+        "la dégustation",
+        "une dégustation",
+        "des dégustations"
+      ],
+      "ptTargets": [
+        "degustação"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La dégustation est amusante.", "pt": "A degustação é divertida." },
-        { "level": "A2-B1", "fr": "La dégustation commentée a duré une heure.", "pt": "A degustação comentada durou uma hora." },
-        { "level": "B2", "fr": "La dégustation à laquelle nous avons participé était instructive.", "pt": "A degustação de que participamos foi instrutiva." },
-        { "level": "C1-C2", "fr": "La dégustation, lecture sensorielle, déchiffre la terre dans un verre.", "pt": "A degustação, leitura sensorial, decifra a terra num copo." }
+        {
+          "level": "A1",
+          "fr": "La dégustation est amusante.",
+          "pt": "A degustação é divertida."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "La dégustation commentée a duré une heure.",
+          "pt": "A degustação comentada durou uma hora."
+        },
+        {
+          "level": "B2",
+          "fr": "La dégustation à laquelle nous avons participé était instructive.",
+          "pt": "A degustação de que participamos foi instrutiva."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "La dégustation, lecture sensorielle, déchiffre la terre dans un verre.",
+          "pt": "A degustação, leitura sensorial, decifra a terra num copo."
+        }
       ]
     },
     {
       "term": "le verre",
       "definitionPt": "o copo",
       "definitionFr": "Récipient pour boire.",
-      "inflections": ["le verre", "un verre", "des verres"],
-      "ptTargets": ["copo"],
+      "inflections": [
+        "le verre",
+        "un verre",
+        "des verres"
+      ],
+      "ptTargets": [
+        "copo"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le verre est plein.", "pt": "O copo está cheio." },
-        { "level": "A2-B1", "fr": "On regarde le vin dans le verre.", "pt": "Olha-se o vinho no copo." },
-        { "level": "B2", "fr": "Le verre que le vigneron a montré est transparent.", "pt": "O copo que o vinicultor mostrou é transparente." },
-        { "level": "C1-C2", "fr": "Le verre, scène minuscule, offre au vin son premier théâtre.", "pt": "O copo, palco minúsculo, oferece ao vinho seu primeiro teatro." }
+        {
+          "level": "A1",
+          "fr": "Le verre est plein.",
+          "pt": "O copo está cheio."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "On regarde le vin dans le verre.",
+          "pt": "Olha-se o vinho no copo."
+        },
+        {
+          "level": "B2",
+          "fr": "Le verre que le vigneron a montré est transparent.",
+          "pt": "O copo que o vinicultor mostrou é transparente."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Le verre, scène minuscule, offre au vin son premier théâtre.",
+          "pt": "O copo, palco minúsculo, oferece ao vinho seu primeiro teatro."
+        }
       ]
     },
     {
       "term": "la robe",
       "definitionPt": "a cor (do vinho)",
       "definitionFr": "Couleur du vin.",
-      "inflections": ["la robe", "une robe", "des robes"],
-      "ptTargets": ["cor"],
+      "inflections": [
+        "la robe",
+        "une robe",
+        "des robes"
+      ],
+      "ptTargets": [
+        "cor"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La robe est dorée.", "pt": "A cor é dourada." },
-        { "level": "A2-B1", "fr": "On regarde d'abord la robe du vin.", "pt": "Olha-se primeiro a cor do vinho." },
-        { "level": "B2", "fr": "La robe que l'on admire annonce le goût.", "pt": "A cor que se admira anuncia o gosto." },
-        { "level": "C1-C2", "fr": "La robe, habit du vin, promet avant que la langue ne juge.", "pt": "A cor, vestido do vinho, promete antes que a língua julgue." }
+        {
+          "level": "A1",
+          "fr": "La robe est dorée.",
+          "pt": "A cor é dourada."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "On regarde d'abord la robe du vin.",
+          "pt": "Olha-se primeiro a cor do vinho."
+        },
+        {
+          "level": "B2",
+          "fr": "La robe que l'on admire annonce le goût.",
+          "pt": "A cor que se admira anuncia o gosto."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "La robe, habit du vin, promet avant que la langue ne juge.",
+          "pt": "A cor, vestido do vinho, promete antes que a língua julgue."
+        }
       ]
     },
     {
       "term": "le nez",
       "definitionPt": "o nariz (perfume do vinho)",
       "definitionFr": "Parfums d'un vin.",
-      "inflections": ["le nez", "un nez", "des nez"],
-      "ptTargets": ["nariz"],
+      "inflections": [
+        "le nez",
+        "un nez",
+        "des nez"
+      ],
+      "ptTargets": [
+        "nariz"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le nez du vin est doux.", "pt": "O perfume do vinho é suave." },
-        { "level": "A2-B1", "fr": "On sent le nez avant de goûter.", "pt": "Sente-se o perfume antes de provar." },
-        { "level": "B2", "fr": "Le nez que l'on perçoit sent la pomme.", "pt": "O perfume que se percebe cheira a maçã." },
-        { "level": "C1-C2", "fr": "Le nez, première rencontre, annonce le caractère du vin.", "pt": "O perfume, primeiro encontro, anuncia o caráter do vinho." }
+        {
+          "level": "A1",
+          "fr": "Le nez du vin est doux.",
+          "pt": "O perfume do vinho é suave."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "On sent le nez avant de goûter.",
+          "pt": "Sente-se o perfume antes de provar."
+        },
+        {
+          "level": "B2",
+          "fr": "Le nez que l'on perçoit sent la pomme.",
+          "pt": "O perfume que se percebe cheira a maçã."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Le nez, première rencontre, annonce le caractère du vin.",
+          "pt": "O perfume, primeiro encontro, anuncia o caráter do vinho."
+        }
       ]
     },
     {
       "term": "la bulle",
       "definitionPt": "a bolha",
       "definitionFr": "Petite sphère de gaz dans un liquide.",
-      "inflections": ["la bulle", "une bulle", "des bulles"],
-      "ptTargets": ["bolha"],
+      "inflections": [
+        "la bulle",
+        "une bulle",
+        "des bulles"
+      ],
+      "ptTargets": [
+        "bolha"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La bulle monte.", "pt": "A bolha sobe." },
-        { "level": "A2-B1", "fr": "Les bulles dansent dans le verre.", "pt": "As bolhas dançam no copo." },
-        { "level": "B2", "fr": "Les bulles qui remontent sans fin font le vin pétillant.", "pt": "As bolhas que sobem sem fim fazem o vinho espumante." },
-        { "level": "C1-C2", "fr": "La bulle, perle éphémère, éclate comme un rire au bord du verre.", "pt": "A bolha, pérola efêmera, estoura como uma risada na borda do copo." }
+        {
+          "level": "A1",
+          "fr": "La bulle monte.",
+          "pt": "A bolha sobe."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Les bulles dansent dans le verre.",
+          "pt": "As bolhas dançam no copo."
+        },
+        {
+          "level": "B2",
+          "fr": "Les bulles qui remontent sans fin font le vin pétillant.",
+          "pt": "As bolhas que sobem sem fim fazem o vinho espumante."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "La bulle, perle éphémère, éclate comme un rire au bord du verre.",
+          "pt": "A bolha, pérola efêmera, estoura como uma risada na borda do copo."
+        }
       ]
     },
     {
       "term": "pétillant",
       "definitionPt": "espumante, com gás",
       "definitionFr": "Avec des bulles.",
-      "inflections": ["pétillant", "pétillante", "pétillants", "pétillantes"],
-      "ptTargets": ["espumante", "com gás"],
+      "inflections": [
+        "pétillant",
+        "pétillante",
+        "pétillants",
+        "pétillantes"
+      ],
+      "ptTargets": [
+        "espumante",
+        "com gás"
+      ],
       "examples": [
-        { "level": "A1", "fr": "L'eau est pétillante.", "pt": "A água é com gás." },
-        { "level": "A2-B1", "fr": "Le vin pétillant de Vouvray est célèbre.", "pt": "O vinho espumante de Vouvray é famoso." },
-        { "level": "B2", "fr": "Les vins pétillants que l'on goûte ici sont fins.", "pt": "Os vinhos espumantes que se provam aqui são finos." },
-        { "level": "C1-C2", "fr": "Pétillant, le chenin offre au palais une fête en apesanteur.", "pt": "Espumante, o chenin oferece ao paladar uma festa em gravidade zero." }
+        {
+          "level": "A1",
+          "fr": "L'eau est pétillante.",
+          "pt": "A água é com gás."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Le vin pétillant de Vouvray est célèbre.",
+          "pt": "O vinho espumante de Vouvray é famoso."
+        },
+        {
+          "level": "B2",
+          "fr": "Les vins pétillants que l'on goûte ici sont fins.",
+          "pt": "Os vinhos espumantes que se provam aqui são finos."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Pétillant, le chenin offre au palais une fête en apesanteur.",
+          "pt": "Espumante, o chenin oferece ao paladar uma festa em gravidade zero."
+        }
       ]
     },
     {
       "term": "savourer",
       "definitionPt": "saborear",
       "definitionFr": "Goûter avec plaisir et lenteur.",
-      "inflections": ["je savoure", "tu savoures", "il savoure", "nous savourons"],
-      "ptTargets": ["saborear"],
+      "inflections": [
+        "je savoure",
+        "tu savoures",
+        "il savoure",
+        "nous savourons"
+      ],
+      "ptTargets": [
+        "saborear"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Je savoure mon gâteau.", "pt": "Eu saboreio meu bolo." },
-        { "level": "A2-B1", "fr": "On savoure le vin lentement.", "pt": "Saboreia-se o vinho devagar." },
-        { "level": "B2", "fr": "Le vin que l'on savoure ici vient du chenin.", "pt": "O vinho que se saboreia aqui vem do chenin." },
-        { "level": "C1-C2", "fr": "Savourer, c'est donner au temps le droit de s'arrêter.", "pt": "Saborear é dar ao tempo o direito de parar." }
+        {
+          "level": "A1",
+          "fr": "Je savoure mon gâteau.",
+          "pt": "Eu saboreio meu bolo."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "On savoure le vin lentement.",
+          "pt": "Saboreia-se o vinho devagar."
+        },
+        {
+          "level": "B2",
+          "fr": "Le vin que l'on savoure ici vient du chenin.",
+          "pt": "O vinho que se saboreia aqui vem do chenin."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Savourer, c'est donner au temps le droit de s'arrêter.",
+          "pt": "Saborear é dar ao tempo o direito de parar."
+        }
       ]
     },
     {
       "term": "sec",
       "definitionPt": "seco",
       "definitionFr": "Qui n'est pas sucré (pour un vin).",
-      "inflections": ["sec", "sèche", "secs", "sèches"],
-      "ptTargets": ["seco"],
+      "inflections": [
+        "sec",
+        "sèche",
+        "secs",
+        "sèches"
+      ],
+      "ptTargets": [
+        "seco"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le vin est sec.", "pt": "O vinho é seco." },
-        { "level": "A2-B1", "fr": "Le chenin donne des vins secs.", "pt": "O chenin dá vinhos secos." },
-        { "level": "B2", "fr": "Le vin sec que nous avons goûté sent la pomme.", "pt": "O vinho seco que provamos cheira a maçã." },
-        { "level": "C1-C2", "fr": "Sec, le vin dit la minéralité de la roche sans concession.", "pt": "Seco, o vinho diz a mineralidade da rocha sem concessões." }
+        {
+          "level": "A1",
+          "fr": "Le vin est sec.",
+          "pt": "O vinho é seco."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Le chenin donne des vins secs.",
+          "pt": "O chenin dá vinhos secos."
+        },
+        {
+          "level": "B2",
+          "fr": "Le vin sec que nous avons goûté sent la pomme.",
+          "pt": "O vinho seco que provamos cheira a maçã."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Sec, le vin dit la minéralité de la roche sans concession.",
+          "pt": "Seco, o vinho diz a mineralidade da rocha sem concessões."
+        }
       ]
     },
     {
       "term": "doux",
       "definitionPt": "doce, suave",
       "definitionFr": "Sucré ; agréable.",
-      "inflections": ["doux", "douce", "doux", "douces"],
-      "ptTargets": ["doce", "suave"],
+      "inflections": [
+        "doux",
+        "douce",
+        "doux",
+        "douces"
+      ],
+      "ptTargets": [
+        "doce",
+        "suave"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le gâteau est doux.", "pt": "O bolo é doce." },
-        { "level": "A2-B1", "fr": "Le vin doux se boit à la fin du repas.", "pt": "O vinho doce bebe-se no fim da refeição." },
-        { "level": "B2", "fr": "Les vins doux que l'on fait ici sont rares.", "pt": "Os vinhos doces que se fazem aqui são raros." },
-        { "level": "C1-C2", "fr": "Doux, le vin caresse la langue comme un souvenir d'été.", "pt": "Doce, o vinho acaricia a língua como uma lembrança de verão." }
+        {
+          "level": "A1",
+          "fr": "Le gâteau est doux.",
+          "pt": "O bolo é doce."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Le vin doux se boit à la fin du repas.",
+          "pt": "O vinho doce bebe-se no fim da refeição."
+        },
+        {
+          "level": "B2",
+          "fr": "Les vins doux que l'on fait ici sont rares.",
+          "pt": "Os vinhos doces que se fazem aqui são raros."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Doux, le vin caresse la langue comme un souvenir d'été.",
+          "pt": "Doce, o vinho acaricia a língua como uma lembrança de verão."
+        }
       ]
     },
     {
       "term": "l'opinion",
       "definitionPt": "a opinião",
       "definitionFr": "Ce que l'on pense.",
-      "inflections": ["l'opinion", "une opinion", "des opinions"],
-      "ptTargets": ["opinião"],
+      "inflections": [
+        "l'opinion",
+        "une opinion",
+        "des opinions"
+      ],
+      "ptTargets": [
+        "opinião"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Mon opinion est simple.", "pt": "Minha opinião é simples." },
-        { "level": "A2-B1", "fr": "À mon avis, le vin sent la pomme.", "pt": "Na minha opinião, o vinho cheira a maçã." },
-        { "level": "B2", "fr": "L'opinion que nous avons chacun est différente.", "pt": "A opinião que cada um tem é diferente." },
-        { "level": "C1-C2", "fr": "L'opinion, liberté première, fait de chaque dégustation une conversation.", "pt": "A opinião, primeira liberdade, faz de cada degustação uma conversa." }
+        {
+          "level": "A1",
+          "fr": "Mon opinion est simple.",
+          "pt": "Minha opinião é simples."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "À mon avis, le vin sent la pomme.",
+          "pt": "Na minha opinião, o vinho cheira a maçã."
+        },
+        {
+          "level": "B2",
+          "fr": "L'opinion que nous avons chacun est différente.",
+          "pt": "A opinião que cada um tem é diferente."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "L'opinion, liberté première, fait de chaque dégustation une conversation.",
+          "pt": "A opinião, primeira liberdade, faz de cada degustação uma conversa."
+        }
       ]
     },
     {
       "term": "le parfum",
       "definitionPt": "o perfume",
       "definitionFr": "Odeur agréable.",
-      "inflections": ["le parfum", "un parfum", "des parfums"],
-      "ptTargets": ["perfume"],
+      "inflections": [
+        "le parfum",
+        "un parfum",
+        "des parfums"
+      ],
+      "ptTargets": [
+        "perfume"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le parfum est doux.", "pt": "O perfume é suave." },
-        { "level": "A2-B1", "fr": "Le nez du vin révèle ses parfums.", "pt": "O perfume do vinho revela seus aromas." },
-        { "level": "B2", "fr": "Les parfums que l'on sent dans le verre sont fruités.", "pt": "Os aromas que se sentem no copo são frutados." },
-        { "level": "C1-C2", "fr": "Le parfum, mémoire olfactive, ramène un été entier dans un verre.", "pt": "O perfume, memória olfativa, traz um verão inteiro de volta num copo." }
+        {
+          "level": "A1",
+          "fr": "Le parfum est doux.",
+          "pt": "O perfume é suave."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Le nez du vin révèle ses parfums.",
+          "pt": "O perfume do vinho revela seus aromas."
+        },
+        {
+          "level": "B2",
+          "fr": "Les parfums que l'on sent dans le verre sont fruités.",
+          "pt": "Os aromas que se sentem no copo são frutados."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Le parfum, mémoire olfactive, ramène un été entier dans un verre.",
+          "pt": "O perfume, memória olfativa, traz um verão inteiro de volta num copo."
+        }
       ]
     },
     {
       "term": "la pomme",
       "definitionPt": "a maçã",
       "definitionFr": "Fruit rond et croquant.",
-      "inflections": ["la pomme", "une pomme", "des pommes"],
-      "ptTargets": ["maçã"],
+      "inflections": [
+        "la pomme",
+        "une pomme",
+        "des pommes"
+      ],
+      "ptTargets": [
+        "maçã"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La pomme est rouge.", "pt": "A maçã é vermelha." },
-        { "level": "A2-B1", "fr": "Le vin sec sent la pomme.", "pt": "O vinho seco cheira a maçã." },
-        { "level": "B2", "fr": "Les pommes que la Touraine produit sont fameuses.", "pt": "As maçãs que a Touraine produz são famosas." },
-        { "level": "C1-C2", "fr": "La pomme, fruit du savoir, parfume aussi les vins du chenin.", "pt": "A maçã, fruto do saber, perfuma também os vinhos do chenin." }
+        {
+          "level": "A1",
+          "fr": "La pomme est rouge.",
+          "pt": "A maçã é vermelha."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Le vin sec sent la pomme.",
+          "pt": "O vinho seco cheira a maçã."
+        },
+        {
+          "level": "B2",
+          "fr": "Les pommes que la Touraine produit sont fameuses.",
+          "pt": "As maçãs que a Touraine produz são famosas."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "La pomme, fruit du savoir, parfume aussi les vins du chenin.",
+          "pt": "A maçã, fruto do saber, perfuma também os vinhos do chenin."
+        }
       ]
     }
   ],
@@ -210,27 +495,52 @@
   "quizQuestions": [
     {
       "question": "Quais vinhos o chenin pode dar ?",
-      "options": ["Secs, pétillants, doux", "Rouges, verts, bleus", "Salés, amers, épicés", "Seulement doux"],
+      "options": [
+        "Secs, pétillants, doux",
+        "Rouges, verts, bleus",
+        "Salés, amers, épicés",
+        "Seulement doux"
+      ],
       "correctIndex": 0
     },
     {
       "question": "O que se olha primeiro no vinho ?",
-      "options": ["La robe", "La bouteille", "L'étiquette", "Le prix"],
+      "options": [
+        "La robe",
+        "La bouteille",
+        "L'étiquette",
+        "Le prix"
+      ],
       "correctIndex": 0
     },
     {
       "question": "O que Andréa sente no vinho seco ?",
-      "options": ["La pomme", "Le café", "La vanille", "La menthe"],
+      "options": [
+        "La pomme",
+        "Le café",
+        "La vanille",
+        "La menthe"
+      ],
       "correctIndex": 0
     },
     {
-      "question": "O que Iris provou ?",
-      "options": ["Du jus de raisin pétillant", "Du vin rouge", "De l'eau", "Du thé"],
+      "question": "O que Irlan provou ?",
+      "options": [
+        "Du jus de raisin pétillant",
+        "Du vin rouge",
+        "De l'eau",
+        "Du thé"
+      ],
       "correctIndex": 0
     },
     {
-      "question": "Quantas garrafas a família comprou ?",
-      "options": ["Deux", "Cinq", "Une", "Dix"],
+      "question": "Quantas garrafas o casal comprou ?",
+      "options": [
+        "Deux",
+        "Cinq",
+        "Une",
+        "Dix"
+      ],
       "correctIndex": 0
     }
   ]

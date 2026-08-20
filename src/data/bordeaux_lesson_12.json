@@ -7,7 +7,7 @@
   "titlePt": "Os cannelés: a doçura de Bordeaux",
   "subtitleFr": "Je voudrais bien connaître le secret de ce petit gâteau",
   "subtitlePt": "Eu gostaria muito de conhecer o segredo desse bolinho",
-  "summaryPt": "Nesta Aula 12 (B1+), a família descobre a história dos cannelés, o doce símbolo de Bordeaux, e tenta fazer um em casa. O aluno pratica o vocabulário da confeitaria (la pâtisserie, la recette, le moule) e o conditionnel présent de polidez (je voudrais, on pourrait).",
+  "summaryPt": "Nesta Aula 12 (B1+), o casal descobre a história dos cannelés, o doce símbolo de Bordeaux, e tenta fazer um em casa. O aluno pratica o vocabulário da confeitaria (la pâtisserie, la recette, le moule) e o conditionnel présent de polidez (je voudrais, on pourrait).",
   "paragraphs": [
     {
       "id": 1,
@@ -16,8 +16,8 @@
     },
     {
       "id": 2,
-      "fr": "La famille est allée chez une pâtissière célèbre. « Le secret, c'est le moule en cuivre », a-t-elle expliqué. « Et la cire d'abeille, qui donne cette croûte dorée. » Iris a regardé les cannelés : « Ils ressemblent à de petites tours ! »",
-      "pt": "A família foi a uma confeiteira famosa. « O segredo é a forma de cobre », explicou. « E a cera de abelha, que dá essa casquinha dourada. » Íris olhou os cannelés: « Parecem torres pequeninas! »"
+      "fr": "Le couple est allé chez une pâtissière renommée. « Le secret, c'est le moule en cuivre », a-t-elle expliqué. « Et la cire d'abeille, qui donne cette croûte dorée. » Andréa a regardé les cannelés : « Ils ressemblent à de petites tours ! »",
+      "pt": "O casal foi a uma confeiteira renomada. « O segredo é a forma de cobre », explicou. « E a cera de abelha, que dá essa casquinha dourada. » Andréa olhou os cannelés: « Parecem torres pequeninas! »"
     },
     {
       "id": 3,
@@ -26,13 +26,28 @@
     },
     {
       "id": 4,
-      "fr": "Le soir, toute la famille a cuisiné. « En remuant la pâte, on sent la vanille », a dit Iris. Les cannelés sont sortis du four, tout dorés. « Ils seraient parfaits avec un peu de crème », a murmuré Andréa. « Et avec une tasse de café », a ajouté Irlan en riant.",
-      "pt": "À noite, a família inteira cozinhou. « Mexendo a massa, sente-se a baunilha », disse Íris. Os cannelés saíram do forno, bem dourados. « Ficariam perfeitos com um pouco de creme », murmurou Andréa. « E com uma xícara de café », acrescentou Irlan rindo."
+      "fr": "Le soir, le couple a cuisiné. « En remuant la pâte, on sent la vanille », a dit Irlan. Les cannelés sont sortis du four, tout dorés. « Ils seraient parfaits avec un peu de crème », a murmuré Andréa. « Et avec une tasse de café », a ajouté Irlan en riant.",
+      "pt": "À noite, o casal cozinhou. « Mexendo a massa, sente-se a baunilha », disse Irlan. Os cannelés saíram do forno, bem dourados. « Ficariam perfeitos com um pouco de creme », murmurou Andréa. « E com uma xícara de café », acrescentou Irlan rindo."
     },
     {
       "id": 5,
       "fr": "« Quand j'étais livreur, je livrais des gâteaux sans jamais les goûter », a dit Irlan. « Maintenant, je fais mes propres cannelés. La France ne m'a pas seulement donné des mots. Elle m'a donné des recettes. »",
       "pt": "« Quando eu era entregador, entregava bolos sem nunca prová-los », disse Irlan. « Agora, faço meus próprios cannelés. A França não me deu apenas palavras. Deu-me receitas. »"
+    }
+    ,{
+      "id": 6,
+      "fr": "Dans une cuisine ouverte, Irlan observe comment on prépare la pâte feuilletée. Le chef émince les légumes avec une lame habile.",
+      "pt": "Numa cozinha aberta, Irlan observa como se prepara a massa folhada. O chef fatia finamente os legumes com uma lâmina habilidosa."
+    },
+    {
+      "id": 7,
+      "fr": "Andréa goûte la garniture et propose d'ajouter de l'estragon. « C'est une manière de clarifier la saveur », explique-t-elle.",
+      "pt": "Andréa prova o recheio e propõe adicionar estragão. É uma maneira de esclarecer o sabor, explica ela."
+    },
+    {
+      "id": 8,
+      "fr": "Le vendeur emballe les cannelés. La boîte est encombrante, mais Irlan assume le poids avec bonne humeur.",
+      "pt": "O vendedor embala os canelés. A caixa ocupa muito espaço, mas Irlan assume o peso com bom humor."
     }
   ],
   "vocabularyDictionary": [
@@ -71,7 +86,7 @@
       "examples": [
         { "level": "A1", "fr": "Le moule est en cuivre.", "pt": "A forma é de cobre." },
         { "level": "A2-B1", "fr": "Le moule donne la forme du cannelé.", "pt": "A forma dá o formato do cannelé." },
-        { "level": "B2", "fr": "Le moule que la pâtissière utilise vient de son grand-père.", "pt": "A forma que a confeiteira usa veio do avô dela." },
+        { "level": "B2", "fr": "Le moule que la pâtissière utilise vient de son village.", "pt": "A forma que a confeiteira usa veio do vilarejo dela." },
         { "level": "C1-C2", "fr": "Le moule, matrice patiente, transforme la pâte liquide en bijou doré.", "pt": "A forma, matriz paciente, transforma a massa líquida em joia dourada." }
       ]
     },
@@ -188,7 +203,7 @@
       "examples": [
         { "level": "A1", "fr": "La tasse est pleine.", "pt": "A xícara está cheia." },
         { "level": "A2-B1", "fr": "On boit le café dans une tasse.", "pt": "Bebe-se o café numa xícara." },
-        { "level": "B2", "fr": "La tasse dans laquelle je bois vient de la grand-mère.", "pt": "A xícara na qual bebo veio da avó." },
+        { "level": "B2", "fr": "La tasse dans laquelle je bois vient du marché.", "pt": "A xícara na qual bebo veio do mercado." },
         { "level": "C1-C2", "fr": "La tasse, confidente du matin, réchauffe les mains et les pensées.", "pt": "A xícara, confidente da manhã, aquece as mãos e os pensamentos." }
       ]
     }

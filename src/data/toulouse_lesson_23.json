@@ -7,7 +7,7 @@
   "titlePt": "O cassoulet de Toulouse: a lenda do prato de domingo",
   "subtitleFr": "Parler de la cuisine et des hypothèses avec si + conditionnel",
   "subtitlePt": "Falar de cozinha e hipóteses com si + condicional",
-  "summaryPt": "Num estaminet do centro, a família prova o cassoulet, o prato mais famoso do Sudoeste. Irlan conta a lenda: segundo a tradição, o cassoulet teria nascido durante o cerco de Castelnaudary. Nesta aula B2, as frases com 'si + mais-que-perfeito → conditionnel passé' e as hipóteses históricas são o foco.",
+  "summaryPt": "Num estaminet do centro, o casal prova o cassoulet, o prato mais famoso do Sudoeste. Irlan conta a lenda: segundo a tradição, o cassoulet teria nascido durante o cerco de Castelnaudary. Nesta aula B2, as frases com 'si + mais-que-perfeito → conditionnel passé' e as hipóteses históricas são o foco.",
   "paragraphs": [
     {
       "id": 1,
@@ -21,8 +21,8 @@
     },
     {
       "id": 3,
-      "fr": "Andréa rit doucement : « Si les habitants avaient su que leur soupe de guerre deviendrait un plat gastronomique, ils n'en seraient pas revenus ! » Íris, le nez dans son assiette, approuva en silence.",
-      "pt": "Andréa riu baixinho: « Se os habitantes soubessem que sua sopa de guerra viraria um prato gastronômico, não teriam acreditado! » Íris, com o nariz no prato, aprovou em silêncio."
+      "fr": "Andréa rit doucement : « Si les habitants avaient su que leur soupe de guerre deviendrait un plat gastronomique, ils n'en seraient pas revenus ! » Irlan, le nez dans son assiette, approuva en silence.",
+      "pt": "Andréa riu baixinho: « Se os habitantes soubessem que sua sopa de guerra viraria um prato gastronômico, não teriam acreditado! » Irlan, com o nariz no prato, aprovou em silêncio."
     },
     {
       "id": 4,
@@ -33,6 +33,16 @@
       "id": 5,
       "fr": "Le soir, Irlan nota : « Si quelqu'un m'avait dit, il y a deux ans, que je mangerais du cassoulet en écoutant une légende française, je ne l'aurais pas cru. Et pourtant, la France est devenue ma recette préférée. »",
       "pt": "À noite, Irlan anotou: « Se alguém tivesse me dito, há dois anos, que eu comeria cassoulet ouvindo uma lenda francesa, eu não teria acreditado. E, no entanto, a França virou minha receita preferida. »"
+    },
+    {
+      "id": 6,
+      "fr": "Le cassoulet devait être bien cuit pour devenir exquis. Sa texture épaisse et son arôme nourrissant expliquaient pourquoi ce plat réunissait les familles.",
+      "pt": "O cassoulet precisava estar bem cozido para ficar requintado. Sua textura espessa e seu aroma nutritivo explicavam por que esse prato reunia as famílias."
+    },
+    {
+      "id": 7,
+      "fr": "Le cuisinier a tempéré le feu et a surveillé chaque étape avec soin. Irlan a compris qu'un résultat durable dépend souvent d'un geste simple, répété régulièrement.",
+      "pt": "O cozinheiro moderou o fogo e acompanhou cada etapa com cuidado. Irlan entendeu que um resultado duradouro muitas vezes depende de um gesto simples, repetido regularmente."
     }
   ],
   "vocabularyDictionary": [
@@ -187,8 +197,8 @@
       "ptTargets": ["aprovar", "aprovou"],
       "examples": [
         { "level": "A1", "fr": "J'approuve ton idée.", "pt": "Eu aprovo sua ideia." },
-        { "level": "A2-B1", "fr": "Íris approuva en silence.", "pt": "Íris aprovou em silêncio." },
-        { "level": "B2", "fr": "Le nez dans son assiette, Íris approuva la légende du cassoulet.", "pt": "Com o nariz no prato, Íris aprovou a lenda do cassoulet." },
+        { "level": "A2-B1", "fr": "Andréa approuva en silence.", "pt": "Andréa aprovou em silêncio." },
+        { "level": "B2", "fr": "Le nez dans son assiette, Andréa approuva la légende du cassoulet.", "pt": "Com o nariz no prato, Andréa aprovou a lenda do cassoulet." },
         { "level": "C1-C2", "fr": "Approuver d'un simple geste vaut parfois mieux qu'un long discours.", "pt": "Aprovar com um simples gesto vale às vezes mais do que um longo discurso." }
       ]
     }

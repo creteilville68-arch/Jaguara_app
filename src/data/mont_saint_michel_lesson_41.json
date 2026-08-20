@@ -7,12 +7,12 @@
   "titlePt": "As gaivotas: os reis do céu",
   "subtitleFr": "Leurs cris racontent la vie de la baie",
   "subtitlePt": "Seus gritos contam a vida da baía",
-  "summaryPt": "Nesta Aula 41 (A2/B1), a família observa as gaivotas e os goélands que vivem no Mont: seus ninhos nas janelas, seus voos sobre a baía e seus gritos que anunciam a maré. O aluno pratica o vocabulário dos pássaros (l'aile, le nid, voler, le cri) e o presente de descrição com on.",
+  "summaryPt": "Nesta Aula 41 (A2/B1), o casal observa as gaivotas e os goélands que vivem no Mont: seus ninhos nas janelas, seus voos sobre a baía e seus gritos que anunciam a maré. Irlan descobre que os pássaros são o relógio natural do gué: quando eles voam para longe, a maré está mudando. O aluno pratica o vocabulário dos pássaros (l'aile, le nid, voler, le cri) e o presente de descrição com on.",
   "paragraphs": [
     {
       "id": 1,
-      "fr": "« Écoutez ! » a dit Iris. « Il y a un bébé oiseau ! » Irlan a ri : « Non, c'est une mouette. Elle crie pour sa nourriture. »",
-      "pt": "« Escutem! » disse Íris. « Tem um passarinho bebê! » Irlan riu: « Não, é uma gaivota. Ela grita pela comida. »"
+      "fr": "« Écoute ! » a dit Andréa. « On dirait un bébé oiseau ! » Irlan a ri : « Non, c'est une mouette. Elle crie pour sa nourriture. »",
+      "pt": "« Escuta! » disse Andréa. « Parece um passarinho bebê! » Irlan riu: « Não, é uma gaivota. Ela grita pela comida. »"
     },
     {
       "id": 2,
@@ -31,8 +31,58 @@
     },
     {
       "id": 5,
+      "fr": "Andréa a regardé le ciel : « Alors, si les mouettes volent vers la terre, la mer va monter. Et si elles restent sur le sable, la mer est basse. »",
+      "pt": "Andréa olhou o céu: « Então, se as gaivotas voam para a terra, o mar vai subir. E se ficam na areia, o mar está baixo. »"
+    },
+    {
+      "id": 6,
+      "fr": "« Exactement », a souri Irlan. « Dans l'Atlas, le géographe a dessiné une mouette près de la porte du gué. Ce n'est pas un décor : c'est un avertissement. »",
+      "pt": "« Exatamente », sorriu Irlan. « No Atlas, o geógrafo desenhou uma gaivota perto da porta do vau. Não é decoração: é um aviso. »"
+    },
+    {
+      "id": 7,
+      "fr": "« Un avertissement de quoi ? » « De l'heure. Quand la mouette quitte le sable, le gué ferme. Il faut passer avant. »",
+      "pt": "« Um aviso de quê? » « Da hora. Quando a gaivota deixa a areia, o vau fecha. É preciso passar antes. »"
+    },
+    {
+      "id": 8,
+      "fr": "À ce moment, toutes les mouettes du toit se sont envolées d'un coup. Andréa a regardé sa montre : « Cinq heures moins dix. La marée change. »",
+      "pt": "Naquele momento, todas as gaivotas do telhado levantaram voo de uma vez. Andréa olhou o relógio: « Cinco para as cinco. A maré está mudando. »"
+    },
+    {
+      "id": 9,
+      "fr": "« Et demain, la basse mer est à cinq heures du matin », a dit Irlan. « Les mouettes seront encore endormies. Elles ne nous trahiront pas. »",
+      "pt": "« E amanhã, a maré baixa é às cinco da manhã », disse Irlan. « As gaivotas ainda estarão dormindo. Elas não nos trairão. »"
+    },
+    {
+      "id": 10,
       "fr": "« Quand j'étais livreur, je voyais des pigeons à Paris », a dit Irlan. « Mais les pigeons ne crient pas comme les mouettes. Ils ne racontent pas la mer. »",
       "pt": "« Quando eu era entregador, eu via pombos em Paris », disse Irlan. « Mas os pombos não gritam como as gaivotas. Eles não contam o mar. »"
+    },
+    {
+      "id": 11,
+      "fr": "Le soir, une mouette est restée sur la fenêtre de leur chambre. « C'est la sentinelle », a chuchoté Andréa. « Elle garde le secret, elle aussi. »",
+      "pt": "À noite, uma gaivota ficou na janela do quarto deles. « É a sentinela », sussurrou Andréa. « Ela também guarda o segredo. »"
+    },
+    {
+      "id": 12,
+      "fr": "À trois heures du matin, Irlan s'est réveillé. La mouette était partie. Il a regardé la baie : les premières lignes de sable apparaissaient déjà. « C'est l'heure », a-t-il dit.",
+      "pt": "Às três da manhã, Irlan acordou. A gaivota tinha partido. Ele olhou a baía: as primeiras linhas de areia já apareciam. « É a hora », disse ele."
+    }
+    ,{
+      "id": 13,
+      "fr": "Les mouettes et les goélands tournent au-dessus de la baie. Un canard sauvage nage près d'un arbuste.",
+      "pt": "As gaivotas e os gaivotões giram sobre a baía. Um pato selvagem nada perto de um arbusto."
+    },
+    {
+      "id": 14,
+      "fr": "Irlan explique la chaîne alimentaire à un enfant. « Chaque espèce a une utilité dans l'équilibre naturel », dit-il.",
+      "pt": "Irlan explica a cadeia alimentar a uma criança. Cada espécie tem uma utilidade no equilíbrio natural, diz ele."
+    },
+    {
+      "id": 15,
+      "fr": "Andréa prend une photo de profil avec le ciel dégagé derrière elle. Le moment la réjouit.",
+      "pt": "Andréa tira uma foto de perfil com o céu limpo atrás dela. O momento a alegra."
     }
   ],
   "vocabularyDictionary": [
@@ -56,7 +106,7 @@
       "inflections": ["le goéland", "un goéland", "des goélands"],
       "ptTargets": ["gaivota"],
       "examples": [
-        { "level": "A1", "fr": "Le goéland est grand.", "pt": "A gaivota-grande é grande." },
+        { "level": "A1", "fr": "Regarde le goéland sur le toit !", "pt": "Olha a gaivota no telhado!" },
         { "level": "A2-B1", "fr": "Les goélands surveillaient la foule sur les toits.", "pt": "Os gaivotões vigiavam a multidão nos telhados." },
         { "level": "B2", "fr": "Le goéland est plus grand que la mouette.", "pt": "O gaivotão é maior que a gaivota." },
         { "level": "C1-C2", "fr": "Le goéland, tyran des toits, règne sur les hauteurs du Mont.", "pt": "O gaivotão, tirano dos telhados, reina nas alturas do Mont." }
@@ -149,7 +199,7 @@
       "examples": [
         { "level": "A1", "fr": "La fenêtre est ouverte.", "pt": "A janela está aberta." },
         { "level": "A2-B1", "fr": "Les mouettes font leur nid dans les fenêtres.", "pt": "As gaivotas fazem ninho nas janelas." },
-        { "level": "B2", "fr": "De la fenêtre de l'hôtel, on voyait le Mont.", "pt": "Da janela do hotel, via-se o Mont." },
+        { "level": "B2", "fr": "De la fenêtre de la chambre, on voyait le Mont.", "pt": "Da janela do quarto, via-se o Mont." },
         { "level": "C1-C2", "fr": "Chaque fenêtre du Mont est un tableau vivant sur la baie.", "pt": "Cada janela do Mont é um quadro vivo sobre a baía." }
       ]
     },
@@ -194,16 +244,31 @@
     }
   ],
   "grammarTip": {
-    "titleFr": "Les comparatifs avec les adjectifs",
-    "titlePt": "Os comparativos com adjetivos",
+    "ruleTitle": "Les comparatifs avec les adjectifs",
+    "explanationPt": "Com um adjetivo: 'plus grand que' (maior que), 'moins grand que' (menor que), 'aussi grand que' (tão grande quanto). Exemplo: 'Le goéland est plus grand que la mouette'.",
+    "exampleFr": "Le goéland est plus grand que la mouette.",
+    "examplePt": "O gaivotão é maior que a gaivota.",
+    "practiceQuestion": "Complete: « Le goéland est plus grand ___ la mouette. »",
+    "options": ["que", "de", "à"],
+    "correctIndex": 0,
     "points": [
       {
-        "fr": "Avec un adjectif : « plus grand que », « moins grand que », « aussi grand que ». Exemple : « Le goéland est plus grand que la mouette. »",
-        "pt": "Com um adjetivo: « plus grand que » (maior que), « moins grand que » (menor que), « aussi grand que » (tão grande quanto). Exemplo: « O gaivotão é maior que a gaivota. »"
+        "ruleTitle": "On pour décrire une habitude au présent",
+        "explanationPt": "Para descrever um hábito no presente, usa-se 'on': 'on voit des mouettes partout' (vê-se gaivotas em toda parte).",
+        "exampleFr": "Au Mont, on voit des mouettes partout.",
+        "examplePt": "No Mont, vê-se gaivotas em toda parte.",
+        "practiceQuestion": "Complete: « Au Mont, on ___ des mouettes partout. »",
+        "options": ["voit", "voyons", "vois"],
+        "correctIndex": 0
       },
       {
-        "fr": "Pour décrire une habitude au présent, on peut utiliser « on » : « On voit des mouettes partout. » (Vê-se gaivotas em toda parte.)",
-        "pt": "Para descrever um hábito no presente, pode-se usar « on »: « On voit des mouettes partout. » (Vê-se gaivotas em toda parte.)"
+        "ruleTitle": "Quand la marée monte : imparfait + signal",
+        "explanationPt": "'Quand la marée montait (IMP), les oiseaux prenaient leur envol (IMP)' — hábito no passado. O imperfeito descreve ações repetidas.",
+        "exampleFr": "Quand la marée montait, les oiseaux prenaient leur envol.",
+        "examplePt": "Quando a maré subia, os pássaros levantavam voo.",
+        "practiceQuestion": "Complete: « Quand la marée montait, les oiseaux ___ leur envol. »",
+        "options": ["prenaient", "ont pris", "prendront"],
+        "correctIndex": 0
       }
     ]
   },
@@ -211,27 +276,32 @@
     {
       "question": "Que fait la mouette selon Irlan ?",
       "options": ["Elle crie pour sa nourriture", "Elle dort toute la journée", "Elle nage sous l'eau", "Elle chante des chansons"],
-      "correctIndex": 0
+      "correctIndex": 0,
+      "explanation": "Irlan explica que a gaivota grita para pedir comida."
     },
     {
       "question": "Où les mouettes font-elles leur nid ?",
       "options": ["Dans les fenêtres", "Sous la mer", "Dans les églises fermées", "Sur les tables du restaurant"],
-      "correctIndex": 0
+      "correctIndex": 0,
+      "explanation": "As gaivotas fazem seus ninhos nas janelas, na primavera."
     },
     {
       "question": "À quoi Andréa compare-t-elle les goélands ?",
       "options": ["À des chats", "À des chiens", "À des vélos", "À des nuages"],
-      "correctIndex": 0
+      "correctIndex": 0,
+      "explanation": "Andréa observa que os gaivotões são grandes como gatos."
     },
     {
       "question": "Qu'est-ce que les oiseaux annoncent quand ils s'envolent ensemble ?",
       "options": ["La marée qui monte", "La pluie", "Le départ du bus", "La fermeture du magasin"],
-      "correctIndex": 0
+      "correctIndex": 0,
+      "explanation": "Quando os pássaros levantam voo juntos, é o sinal de que a maré está mudando."
     },
     {
       "question": "Quel oiseau Irlan voyait-il à Paris ?",
       "options": ["Les pigeons", "Les mouettes", "Les aigles", "Les perroquets"],
-      "correctIndex": 0
+      "correctIndex": 0,
+      "explanation": "Em Paris, Irlan via pombos — mas eles não contam o mar como as gaivotas."
     }
   ]
 }

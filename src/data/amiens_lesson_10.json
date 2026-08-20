@@ -68,6 +68,21 @@
       "id": 12,
       "fr": "En sortant, Irlan note dans l'Atlas : « Les chiffres de la rosace mènent peut-être vers un lieu où l'on regarde de haut. »",
       "pt": "Ao sair, Irlan anota no Atlas: « Os números da rosácea talvez levem a um lugar de onde se olha do alto. »"
+    },
+    {
+      "id": 13,
+      "fr": "Le cirque de paille sent la terre mouillée. Des enfants jouent avec une poupée et un vélo d'enfant dans le sable.",
+      "pt": "O circo de palha cheira a terra molhada. Crianças brincam com uma boneca e uma bicicleta infantil na areia."
+    },
+    {
+      "id": 14,
+      "fr": "Un jongleur fait tourner des massues. Irlan joue un air de violon sur son téléphone. La console du guichet affiche la série du soir.",
+      "pt": "Um malabarista faz girar maças. Irlan toca uma música de violino no celular. A tela do guichê mostra a série da noite."
+    },
+    {
+      "id": 15,
+      "fr": "Le handball est affiché sur le panneau du gymnase voisin. « Le basket aussi », observe Andréa. « Le sport anime la ville ici ».",
+      "pt": "O handebol está afixado no quadro do ginásio vizinho. O basquete também, observa Andréa. O esporte anima a cidade aqui."
     }
   ],
   "vocabularyDictionary": [
@@ -75,156 +90,420 @@
       "term": "le cirque",
       "definitionPt": "o circo",
       "definitionFr": "Lieu de spectacles avec des artistes.",
-      "inflections": ["le cirque", "un cirque", "des cirques"],
-      "ptTargets": ["circo"],
+      "inflections": [
+        "le cirque",
+        "un cirque",
+        "des cirques"
+      ],
+      "ptTargets": [
+        "circo"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le cirque est grand.", "pt": "O circo é grande." },
-        { "level": "A2-B1", "fr": "Le cirque Jules Verne est en bois.", "pt": "O Circo Jules Verne é de madeira." },
-        { "level": "B2", "fr": "Le cirque, traditionnel, attire toute la famille.", "pt": "O circo, tradicional, atrai toda a família." },
-        { "level": "C1-C2", "fr": "Le cirque en bois d'Amiens est un joyau du patrimoine.", "pt": "O circo de madeira de Amiens é uma joia do patrimônio." }
+        {
+          "level": "A1",
+          "fr": "Le cirque est grand.",
+          "pt": "O circo é grande."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Le cirque Jules Verne est en bois.",
+          "pt": "O Circo Jules Verne é de madeira."
+        },
+        {
+          "level": "B2",
+          "fr": "Le cirque, traditionnel, attire toute la famille.",
+          "pt": "O circo, tradicional, atrai toda a família."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Le cirque en bois d'Amiens est un joyau du patrimoine.",
+          "pt": "O circo de madeira de Amiens é uma joia do patrimônio."
+        }
       ]
     },
     {
       "term": "le spectacle",
       "definitionPt": "o espetáculo",
       "definitionFr": "Représentation devant un public.",
-      "inflections": ["le spectacle", "un spectacle", "des spectacles"],
-      "ptTargets": ["espetáculo", "show"],
+      "inflections": [
+        "le spectacle",
+        "un spectacle",
+        "des spectacles"
+      ],
+      "ptTargets": [
+        "espetáculo",
+        "show"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le spectacle est beau.", "pt": "O espetáculo é bonito." },
-        { "level": "A2-B1", "fr": "Nous allons voir un spectacle ce soir.", "pt": "Vamos ver um espetáculo esta noite." },
-        { "level": "B2", "fr": "Le spectacle du cirque émerveille les spectateurs.", "pt": "O espetáculo do circo encanta os espectadores." },
-        { "level": "C1-C2", "fr": "C'est le spectacle qui, vivant, transforme la salle en rêve.", "pt": "É o espetáculo que, vivo, transforma a sala em sonho." }
+        {
+          "level": "A1",
+          "fr": "Le spectacle est beau.",
+          "pt": "O espetáculo é bonito."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Nous allons voir un spectacle ce soir.",
+          "pt": "Vamos ver um espetáculo esta noite."
+        },
+        {
+          "level": "B2",
+          "fr": "Le spectacle du cirque émerveille les spectateurs.",
+          "pt": "O espetáculo do circo encanta os espectadores."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est le spectacle qui, vivant, transforme la salle en rêve.",
+          "pt": "É o espetáculo que, vivo, transforma a sala em sonho."
+        }
       ]
     },
     {
       "term": "en bois",
       "definitionPt": "de madeira",
       "definitionFr": "Fait avec du bois.",
-      "inflections": ["en bois"],
-      "ptTargets": ["de madeira"],
+      "inflections": [
+        "en bois"
+      ],
+      "ptTargets": [
+        "de madeira"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La maison est en bois.", "pt": "A casa é de madeira." },
-        { "level": "A2-B1", "fr": "Le cirque est en bois.", "pt": "O circo é de madeira." },
-        { "level": "B2", "fr": "Ce bâtiment ancien est construit en bois.", "pt": "Este prédio antigo é construído em madeira." },
-        { "level": "C1-C2", "fr": "La charpente en bois du cirque a survécu à plus d'un siècle.", "pt": "A estrutura de madeira do circo sobreviveu a mais de um século." }
+        {
+          "level": "A1",
+          "fr": "La maison est en bois.",
+          "pt": "A casa é de madeira."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Le cirque est en bois.",
+          "pt": "O circo é de madeira."
+        },
+        {
+          "level": "B2",
+          "fr": "Ce bâtiment ancien est construit en bois.",
+          "pt": "Este prédio antigo é construído em madeira."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "La charpente en bois du cirque a survécu à plus d'un siècle.",
+          "pt": "A estrutura de madeira do circo sobreviveu a mais de um século."
+        }
       ]
     },
     {
       "term": "l'acrobate",
       "definitionPt": "o acrobata",
       "definitionFr": "Artiste qui fait des exercices physiques.",
-      "inflections": ["l'acrobate", "un acrobate", "des acrobates"],
-      "ptTargets": ["acrobata"],
+      "inflections": [
+        "l'acrobate",
+        "un acrobate",
+        "des acrobates"
+      ],
+      "ptTargets": [
+        "acrobata"
+      ],
       "examples": [
-        { "level": "A1", "fr": "L'acrobate est fort.", "pt": "O acrobata é forte." },
-        { "level": "A2-B1", "fr": "Les acrobates sont sur l'affiche.", "pt": "Os acrobatas estão no cartaz." },
-        { "level": "B2", "fr": "L'acrobate, agile, saute sans filet.", "pt": "O acrobata, ágil, salta sem rede." },
-        { "level": "C1-C2", "fr": "C'est l'acrobate qui, courageux, défie la gravité.", "pt": "É o acrobata que, corajoso, desafia a gravidade." }
+        {
+          "level": "A1",
+          "fr": "L'acrobate est fort.",
+          "pt": "O acrobata é forte."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Les acrobates sont sur l'affiche.",
+          "pt": "Os acrobatas estão no cartaz."
+        },
+        {
+          "level": "B2",
+          "fr": "L'acrobate, agile, saute sans filet.",
+          "pt": "O acrobata, ágil, salta sem rede."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est l'acrobate qui, courageux, défie la gravité.",
+          "pt": "É o acrobata que, corajoso, desafia a gravidade."
+        }
       ]
     },
     {
       "term": "le clown",
       "definitionPt": "o palhaço",
       "definitionFr": "Artiste comique du cirque.",
-      "inflections": ["le clown", "un clown", "des clowns"],
-      "ptTargets": ["palhaço"],
+      "inflections": [
+        "le clown",
+        "un clown",
+        "des clowns"
+      ],
+      "ptTargets": [
+        "palhaço"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le clown est drôle.", "pt": "O palhaço é engraçado." },
-        { "level": "A2-B1", "fr": "Les clowns font rire les enfants.", "pt": "Os palhaços fazem as crianças rirem." },
-        { "level": "B2", "fr": "Le clown, coloré, porte un grand nez rouge.", "pt": "O palhaço, colorido, usa um grande nariz vermelho." },
-        { "level": "C1-C2", "fr": "C'est le clown qui, malicieux, fait sourire même les tristes.", "pt": "É o palhaço que, travesso, faz sorrir até os tristes." }
+        {
+          "level": "A1",
+          "fr": "Le clown est drôle.",
+          "pt": "O palhaço é engraçado."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Les clowns font rire les enfants.",
+          "pt": "Os palhaços fazem as crianças rirem."
+        },
+        {
+          "level": "B2",
+          "fr": "Le clown, coloré, porte un grand nez rouge.",
+          "pt": "O palhaço, colorido, usa um grande nariz vermelho."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est le clown qui, malicieux, fait sourire même les tristes.",
+          "pt": "É o palhaço que, travesso, faz sorrir até os tristes."
+        }
       ]
     },
     {
       "term": "l'affiche",
       "definitionPt": "o cartaz",
       "definitionFr": "Image ou texte publicitaire.",
-      "inflections": ["l'affiche", "une affiche", "des affiches"],
-      "ptTargets": ["cartaz"],
+      "inflections": [
+        "l'affiche",
+        "une affiche",
+        "des affiches"
+      ],
+      "ptTargets": [
+        "cartaz"
+      ],
       "examples": [
-        { "level": "A1", "fr": "L'affiche est colorée.", "pt": "O cartaz é colorido." },
-        { "level": "A2-B1", "fr": "Il y a des affiches devant le cirque.", "pt": "Há cartazes diante do circo." },
-        { "level": "B2", "fr": "Les affiches annoncent les spectacles de la saison.", "pt": "Os cartazes anunciam os espetáculos da temporada." },
-        { "level": "C1-C2", "fr": "C'est l'affiche qui, artistique, promet la magie du spectacle.", "pt": "É o cartaz que, artístico, promete a magia do espetáculo." }
+        {
+          "level": "A1",
+          "fr": "L'affiche est colorée.",
+          "pt": "O cartaz é colorido."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Il y a des affiches devant le cirque.",
+          "pt": "Há cartazes diante do circo."
+        },
+        {
+          "level": "B2",
+          "fr": "Les affiches annoncent les spectacles de la saison.",
+          "pt": "Os cartazes anunciam os espetáculos da temporada."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est l'affiche qui, artistique, promet la magie du spectacle.",
+          "pt": "É o cartaz que, artístico, promete a magia do espetáculo."
+        }
       ]
     },
     {
       "term": "pourquoi",
       "definitionPt": "por que",
       "definitionFr": "Mot interrogatif pour la cause.",
-      "inflections": ["pourquoi"],
-      "ptTargets": ["por que", "por quê"],
+      "inflections": [
+        "pourquoi"
+      ],
+      "ptTargets": [
+        "por que",
+        "por quê"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Pourquoi ce cirque s'appelle Jules Verne ?", "pt": "Por que este circo se chama Jules Verne?" },
-        { "level": "A2-B1", "fr": "Pourquoi es-tu fatigué ?", "pt": "Por que você está cansado?" },
-        { "level": "B2", "fr": "Pourquoi la ville a-t-elle choisi ce nom ?", "pt": "Por que a cidade escolheu esse nome?" },
-        { "level": "C1-C2", "fr": "C'est pourquoi il faut préserver ce patrimoine.", "pt": "É por isso que é preciso preservar esse patrimônio." }
+        {
+          "level": "A1",
+          "fr": "Pourquoi ce cirque s'appelle Jules Verne ?",
+          "pt": "Por que este circo se chama Jules Verne?"
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Pourquoi es-tu fatigué ?",
+          "pt": "Por que você está cansado?"
+        },
+        {
+          "level": "B2",
+          "fr": "Pourquoi la ville a-t-elle choisi ce nom ?",
+          "pt": "Por que a cidade escolheu esse nome?"
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est pourquoi il faut préserver ce patrimoine.",
+          "pt": "É por isso que é preciso preservar esse patrimônio."
+        }
       ]
     },
     {
       "term": "le billet",
       "definitionPt": "o ingresso",
       "definitionFr": "Ticket pour entrer dans un spectacle.",
-      "inflections": ["le billet", "un billet", "des billets"],
-      "ptTargets": ["ingresso", "bilhete"],
+      "inflections": [
+        "le billet",
+        "un billet",
+        "des billets"
+      ],
+      "ptTargets": [
+        "ingresso",
+        "bilhete"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le billet est dans ma poche.", "pt": "O ingresso está no meu bolso." },
-        { "level": "A2-B1", "fr": "Ils achètent deux billets pour le spectacle.", "pt": "Eles compram dois ingressos para o espetáculo." },
-        { "level": "B2", "fr": "Les billets les moins chers sont déjà vendus.", "pt": "Os ingressos mais baratos já estão vendidos." },
-        { "level": "C1-C2", "fr": "C'est le billet qui, bien placé, change toute l'expérience du spectacle.", "pt": "É o ingresso que, bem localizado, muda toda a experiência do espetáculo." }
+        {
+          "level": "A1",
+          "fr": "Le billet est dans ma poche.",
+          "pt": "O ingresso está no meu bolso."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Ils achètent deux billets pour le spectacle.",
+          "pt": "Eles compram dois ingressos para o espetáculo."
+        },
+        {
+          "level": "B2",
+          "fr": "Les billets les moins chers sont déjà vendus.",
+          "pt": "Os ingressos mais baratos já estão vendidos."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est le billet qui, bien placé, change toute l'expérience du spectacle.",
+          "pt": "É o ingresso que, bem localizado, muda toda a experiência do espetáculo."
+        }
       ]
     },
     {
       "term": "la piste",
       "definitionPt": "a pista",
       "definitionFr": "Espace central du cirque.",
-      "inflections": ["la piste", "une piste", "des pistes"],
-      "ptTargets": ["pista"],
+      "inflections": [
+        "la piste",
+        "une piste",
+        "des pistes"
+      ],
+      "ptTargets": [
+        "pista"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La piste est ronde.", "pt": "A pista é redonda." },
-        { "level": "A2-B1", "fr": "Andréa choisit des places près de la piste.", "pt": "Andréa escolhe lugares perto da pista." },
-        { "level": "B2", "fr": "Les artistes entrent sur la piste sous les applaudissements.", "pt": "Os artistas entram na pista sob os aplausos." },
-        { "level": "C1-C2", "fr": "C'est sur la piste que, chaque soir, la magie recommence.", "pt": "É na pista que, toda noite, a magia recomeça." }
+        {
+          "level": "A1",
+          "fr": "La piste est ronde.",
+          "pt": "A pista é redonda."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Andréa choisit des places près de la piste.",
+          "pt": "Andréa escolhe lugares perto da pista."
+        },
+        {
+          "level": "B2",
+          "fr": "Les artistes entrent sur la piste sous les applaudissements.",
+          "pt": "Os artistas entram na pista sob os aplausos."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est sur la piste que, chaque soir, la magie recommence.",
+          "pt": "É na pista que, toda noite, a magia recomeça."
+        }
       ]
     },
     {
       "term": "la lumière",
       "definitionPt": "a luz",
       "definitionFr": "Ce qui éclaire.",
-      "inflections": ["la lumière", "une lumière", "des lumières"],
-      "ptTargets": ["luz"],
+      "inflections": [
+        "la lumière",
+        "une lumière",
+        "des lumières"
+      ],
+      "ptTargets": [
+        "luz"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La lumière est belle.", "pt": "A luz é bonita." },
-        { "level": "A2-B1", "fr": "Le soir, les lumières s'allument.", "pt": "À noite, as luzes se acendem." },
-        { "level": "B2", "fr": "La lumière du spectacle met en valeur les costumes.", "pt": "A luz do espetáculo valoriza os figurinos." },
-        { "level": "C1-C2", "fr": "C'est la lumière qui, subtile, donne leur relief aux visages et aux gestes.", "pt": "É a luz que, sutil, dá relevo aos rostos e aos gestos." }
+        {
+          "level": "A1",
+          "fr": "La lumière est belle.",
+          "pt": "A luz é bonita."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Le soir, les lumières s'allument.",
+          "pt": "À noite, as luzes se acendem."
+        },
+        {
+          "level": "B2",
+          "fr": "La lumière du spectacle met en valeur les costumes.",
+          "pt": "A luz do espetáculo valoriza os figurinos."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est la lumière qui, subtile, donne leur relief aux visages et aux gestes.",
+          "pt": "É a luz que, sutil, dá relevo aos rostos e aos gestos."
+        }
       ]
     },
     {
       "term": "applaudir",
       "definitionPt": "aplaudir",
       "definitionFr": "Battre des mains pour approuver.",
-      "inflections": ["applaudir", "j'applaudis", "nous applaudissons"],
-      "ptTargets": ["aplaudir"],
+      "inflections": [
+        "applaudir",
+        "j'applaudis",
+        "nous applaudissons"
+      ],
+      "ptTargets": [
+        "aplaudir"
+      ],
       "examples": [
-        { "level": "A1", "fr": "J'applaudis les artistes.", "pt": "Eu aplaudo os artistas." },
-        { "level": "A2-B1", "fr": "La salle applaudit à la fin du numéro.", "pt": "A sala aplaude no fim do número." },
-        { "level": "B2", "fr": "Le public applaudit longuement les acrobates.", "pt": "O público aplaude longamente os acrobatas." },
-        { "level": "C1-C2", "fr": "C'est en applaudissant que l'on remercie le mieux ceux qui nous émeuvent.", "pt": "É aplaudindo que melhor agradecemos a quem nos emociona." }
+        {
+          "level": "A1",
+          "fr": "J'applaudis les artistes.",
+          "pt": "Eu aplaudo os artistas."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "La salle applaudit à la fin du numéro.",
+          "pt": "A sala aplaude no fim do número."
+        },
+        {
+          "level": "B2",
+          "fr": "Le public applaudit longuement les acrobates.",
+          "pt": "O público aplaude longamente os acrobatas."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est en applaudissant que l'on remercie le mieux ceux qui nous émeuvent.",
+          "pt": "É aplaudindo que melhor agradecemos a quem nos emociona."
+        }
       ]
     },
     {
       "term": "la charpente",
       "definitionPt": "a estrutura (de madeira)",
       "definitionFr": "Structure en bois d'un bâtiment.",
-      "inflections": ["la charpente", "une charpente", "des charpentes"],
-      "ptTargets": ["estrutura", "armação"],
+      "inflections": [
+        "la charpente",
+        "une charpente",
+        "des charpentes"
+      ],
+      "ptTargets": [
+        "estrutura",
+        "armação"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La charpente est en bois.", "pt": "A estrutura é de madeira." },
-        { "level": "A2-B1", "fr": "La charpente du cirque est ancienne.", "pt": "A estrutura do circo é antiga." },
-        { "level": "B2", "fr": "La charpente, solide, soutient tout le bâtiment.", "pt": "A estrutura, sólida, sustenta todo o prédio." },
-        { "level": "C1-C2", "fr": "C'est la charpente qui, ingénieuse, défie le temps.", "pt": "É a estrutura que, engenhosa, desafia o tempo." }
+        {
+          "level": "A1",
+          "fr": "La charpente est en bois.",
+          "pt": "A estrutura é de madeira."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "La charpente du cirque est ancienne.",
+          "pt": "A estrutura do circo é antiga."
+        },
+        {
+          "level": "B2",
+          "fr": "La charpente, solide, soutient tout le bâtiment.",
+          "pt": "A estrutura, sólida, sustenta todo o prédio."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est la charpente qui, ingénieuse, défie le temps.",
+          "pt": "É a estrutura que, engenhosa, desafia o tempo."
+        }
       ]
     }
   ],
@@ -234,7 +513,11 @@
     "exampleFr": "Est-ce que nous allons voir un spectacle ? Pourquoi ce cirque s'appelle Jules Verne ?",
     "examplePt": "Vamos ver um espetáculo? Por que este circo se chama Jules Verne?",
     "practiceQuestion": "Complete: '_____ nous allons voir un spectacle ?'",
-    "options": ["Est-ce que", "Est-ce que pas", "Pourquoi ce"],
+    "options": [
+      "Est-ce que",
+      "Est-ce que pas",
+      "Pourquoi ce"
+    ],
     "correctIndex": 0,
     "points": [
       {
@@ -243,7 +526,11 @@
         "exampleFr": "Regarde ce grand bâtiment rond !",
         "examplePt": "Olha este grande prédio redondo!",
         "practiceQuestion": "Escolha a ordem correta: 'un _____ bâtiment'",
-        "options": ["grand", "rond", "ancien"],
+        "options": [
+          "grand",
+          "rond",
+          "ancien"
+        ],
         "correctIndex": 0
       },
       {
@@ -252,7 +539,11 @@
         "exampleFr": "C'est un cirque en bois. Il est très ancien.",
         "examplePt": "É um circo de madeira. Ele é muito antigo.",
         "practiceQuestion": "Complete: 'C'est _____ cirque en bois.'",
-        "options": ["un", "le pas", "de"],
+        "options": [
+          "un",
+          "le pas",
+          "de"
+        ],
         "correctIndex": 0
       }
     ]
@@ -260,31 +551,51 @@
   "quizQuestions": [
     {
       "question": "Em que ano foi construído o Circo Jules Verne?",
-      "options": ["1889", "1952", "1500"],
+      "options": [
+        "1889",
+        "1952",
+        "1500"
+      ],
       "correctIndex": 0,
       "explanation": "C'est un cirque construit en 1889."
     },
     {
       "question": "O que torna o circo único na França?",
-      "options": ["é o único circo de madeira em atividade", "é o maior circo do país", "é um circo submarino"],
+      "options": [
+        "é o único circo de madeira em atividade",
+        "é o maior circo do país",
+        "é um circo submarino"
+      ],
       "correctIndex": 0,
       "explanation": "C'est le seul cirque en bois encore en activité en France."
     },
     {
       "question": "O que Irlan e Andréa compram para a noite?",
-      "options": ["dois ingressos", "dois cartazes", "duas máquinas"],
+      "options": [
+        "dois ingressos",
+        "dois cartazes",
+        "duas máquinas"
+      ],
       "correctIndex": 0,
       "explanation": "Ils achètent deux billets pour le spectacle du soir."
     },
     {
       "question": "Complete: '_____ nous allons voir un spectacle ?'",
-      "options": ["Est-ce que", "Est-ce que pas", "Pourquoi ce"],
+      "options": [
+        "Est-ce que",
+        "Est-ce que pas",
+        "Pourquoi ce"
+      ],
       "correctIndex": 0,
       "explanation": "Pergunta com est-ce que."
     },
     {
       "question": "Complete: 'C'est _____ cirque en bois.'",
-      "options": ["un", "le pas", "de"],
+      "options": [
+        "un",
+        "le pas",
+        "de"
+      ],
       "correctIndex": 0,
       "explanation": "C'est + un + substantivo."
     }

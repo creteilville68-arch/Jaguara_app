@@ -7,7 +7,7 @@
   "titlePt": "A estação de Tours: a porta da cidade",
   "subtitleFr": "Depuis 1898, les trains y arrivent de toute la France",
   "subtitlePt": "Desde 1898, os trens chegam de toda a França",
-  "summaryPt": "Nesta Aula 38 (B1), a família visita a gare de Tours, construída em 1898, e descobre seu grande hall, o TGV que liga a cidade a Paris em pouco mais de uma hora. O aluno pratica o vocabulário da estação (le train, le quai, le billet, l'horaire) e o futuro simple.",
+  "summaryPt": "Nesta Aula 38 (B1), o casal visita a gare de Tours, construída em 1898, e descobre seu grande hall, o TGV que liga a cidade a Paris em pouco mais de uma hora. Andréa sonha com o trem até o oceano quando a corrida do Atlas terminar. O aluno pratica o vocabulário da estação (le train, le quai, le billet, l'horaire) e o futuro simple.",
   "paragraphs": [
     {
       "id": 1,
@@ -21,8 +21,8 @@
     },
     {
       "id": 3,
-      "fr": "Iris a regardé le grand tableau des départs. « Paris, Bordeaux, Lyon, Marseille... Tous ces trains vont partout ! » « Et le nôtre ira bientôt à Bordeaux », a souri Irlan.",
-      "pt": "Íris olhou o grande painel de partidas. « Paris, Bordeaux, Lyon, Marseille... Todos esses trens vão para todo lugar! » « E o nosso irá logo a Bordeaux », sorriu Irlan."
+      "fr": "Andréa a regardé le grand tableau des départs. « Paris, Bordeaux, Lyon, Marseille... Tous ces trains vont partout ! » « Et le nôtre ira là où l'Atlas nous dira », a souri Irlan.",
+      "pt": "Andréa olhou o grande painel de partidas. « Paris, Bordeaux, Lyon, Marseille... Todos esses trens vão para todo lugar! » « E o nosso irá para onde o Atlas nos disser », sorriu Irlan."
     },
     {
       "id": 4,
@@ -31,8 +31,23 @@
     },
     {
       "id": 5,
-      "fr": "Au retour, Iris a dit : « Un jour, je prendrai le train toute seule pour aller voir la mer. » Irlan a souri : « Quand tu seras grande, tu pourras. Mais promets-moi d'envoyer une carte postale. »",
-      "pt": "Na volta, Íris disse: « Um dia, pegarei o trem sozinha para ir ver o mar. » Irlan sorriu: « Quando crescer, poderá. Mas prometa me mandar um cartão-postal. »"
+      "fr": "Au retour, Andréa a dit : « Quand la course de l'Atlas sera finie, nous prendrons le train jusqu'à l'océan. » Irlan a souri : « Promis. Et j'enverrai une carte postale à ma mère, au Brésil. »",
+      "pt": "Na volta, Andréa disse: « Quando a corrida do Atlas terminar, pegaremos o trem até o oceano. » Irlan sorriu: « Prometido. E mandarei um cartão-postal para minha mãe, no Brasil. »"
+    },
+    {
+      "id": 6,
+      "fr": "La gare de Tours est la porte de la ville. Les trains arrivent fréquemment de Paris et d'autres villes.",
+      "pt": "A estação de Tours é a porta da cidade. Os trens chegam frequentemente de Paris e outras cidades."
+    },
+    {
+      "id": 7,
+      "fr": "Irlan regarde les pancartes des voies. Le vol direct pour Bordeaux part à 14 heures.",
+      "pt": "Irlan olha as placas das vias. O voo direto para Bordeaux sai às 14 horas."
+    },
+    {
+      "id": 8,
+      "fr": "Andréa vérifie les horaires sur son téléphone. « Le mode avion est actif, je dois le déconnecter », dit-elle.",
+      "pt": "Andréa verifica os horários no celular. O modo avião está ativo, preciso desligá-lo, diz ela."
     }
   ],
   "vocabularyDictionary": [
@@ -40,156 +55,424 @@
       "term": "la gare",
       "definitionPt": "a estação",
       "definitionFr": "Lieu où s'arrêtent les trains.",
-      "inflections": ["la gare", "une gare", "des gares"],
-      "ptTargets": ["estação"],
+      "inflections": [
+        "la gare",
+        "une gare",
+        "des gares"
+      ],
+      "ptTargets": [
+        "estação"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La gare est grande.", "pt": "A estação é grande." },
-        { "level": "A2-B1", "fr": "La gare de Tours date de 1898.", "pt": "A estação de Tours data de 1898." },
-        { "level": "B2", "fr": "La gare où nous sommes arrivés est belle.", "pt": "A estação onde chegamos é bonita." },
-        { "level": "C1-C2", "fr": "La gare, porte du voyage, voit les adieux et les retrouvailles.", "pt": "A estação, porta da viagem, vê despedidas e reencontros." }
+        {
+          "level": "A1",
+          "fr": "La gare est grande.",
+          "pt": "A estação é grande."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "La gare de Tours date de 1898.",
+          "pt": "A estação de Tours data de 1898."
+        },
+        {
+          "level": "B2",
+          "fr": "La gare où nous sommes arrivés est belle.",
+          "pt": "A estação onde chegamos é bonita."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "La gare, porte du voyage, voit les adieux et les retrouvailles.",
+          "pt": "A estação, porta da viagem, vê despedidas e reencontros."
+        }
       ]
     },
     {
       "term": "le hall",
       "definitionPt": "o saguão",
       "definitionFr": "Grande salle d'entrée.",
-      "inflections": ["le hall", "un hall", "des halls"],
-      "ptTargets": ["saguão"],
+      "inflections": [
+        "le hall",
+        "un hall",
+        "des halls"
+      ],
+      "ptTargets": [
+        "saguão"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le hall est immense.", "pt": "O saguão é imenso." },
-        { "level": "A2-B1", "fr": "Le hall de la gare est plein de monde.", "pt": "O saguão da estação está cheio de gente." },
-        { "level": "B2", "fr": "Le hall dans lequel nous attendons est bruyant.", "pt": "O saguão em que esperamos é barulhento." },
-        { "level": "C1-C2", "fr": "Le hall, antichambre du voyage, mêle les impatiences et les espoirs.", "pt": "O saguão, antecâmara da viagem, mistura impaciências e esperanças." }
+        {
+          "level": "A1",
+          "fr": "Le hall est immense.",
+          "pt": "O saguão é imenso."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Le hall de la gare est plein de monde.",
+          "pt": "O saguão da estação está cheio de gente."
+        },
+        {
+          "level": "B2",
+          "fr": "Le hall dans lequel nous attendons est bruyant.",
+          "pt": "O saguão em que esperamos é barulhento."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Le hall, antichambre du voyage, mêle les impatiences et les espoirs.",
+          "pt": "O saguão, antecâmara da viagem, mistura impaciências e esperanças."
+        }
       ]
     },
     {
       "term": "le voyageur",
       "definitionPt": "o viajante",
       "definitionFr": "Personne qui voyage.",
-      "inflections": ["le voyageur", "un voyageur", "des voyageurs"],
-      "ptTargets": ["viajante"],
+      "inflections": [
+        "le voyageur",
+        "un voyageur",
+        "des voyageurs"
+      ],
+      "ptTargets": [
+        "viajante"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le voyageur attend.", "pt": "O viajante espera." },
-        { "level": "A2-B1", "fr": "Les voyageurs courent vers leurs quais.", "pt": "Os viajantes correm para suas plataformas." },
-        { "level": "B2", "fr": "Les voyageurs qui partent d'ici vont partout.", "pt": "Os viajantes que partem daqui vão para todo lugar." },
-        { "level": "C1-C2", "fr": "Le voyageur, nomade du rail, regarde défiler les vies des autres.", "pt": "O viajante, nômade do trilho, vê desfilar as vidas dos outros." }
+        {
+          "level": "A1",
+          "fr": "Le voyageur attend.",
+          "pt": "O viajante espera."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Les voyageurs courent vers leurs quais.",
+          "pt": "Os viajantes correm para suas plataformas."
+        },
+        {
+          "level": "B2",
+          "fr": "Les voyageurs qui partent d'ici vont partout.",
+          "pt": "Os viajantes que partem daqui vão para todo lugar."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Le voyageur, nomade du rail, regarde défiler les vies des autres.",
+          "pt": "O viajante, nômade do trilho, vê desfilar as vidas dos outros."
+        }
       ]
     },
     {
       "term": "le quai",
       "definitionPt": "a plataforma",
       "definitionFr": "Plateforme où s'arrête le train.",
-      "inflections": ["le quai", "un quai", "des quais"],
-      "ptTargets": ["plataforma"],
+      "inflections": [
+        "le quai",
+        "un quai",
+        "des quais"
+      ],
+      "ptTargets": [
+        "plataforma"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le quai est long.", "pt": "A plataforma é comprida." },
-        { "level": "A2-B1", "fr": "Le train part du quai numéro trois.", "pt": "O trem parte da plataforma três." },
-        { "level": "B2", "fr": "Le quai où nous attendons est indiqué sur le tableau.", "pt": "A plataforma onde esperamos está indicada no painel." },
-        { "level": "C1-C2", "fr": "Le quai, ligne d'horizon, sépare ceux qui partent de ceux qui restent.", "pt": "A plataforma, linha do horizonte, separa os que partem dos que ficam." }
+        {
+          "level": "A1",
+          "fr": "Le quai est long.",
+          "pt": "A plataforma é comprida."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Le train part du quai numéro trois.",
+          "pt": "O trem parte da plataforma três."
+        },
+        {
+          "level": "B2",
+          "fr": "Le quai où nous attendons est indiqué sur le tableau.",
+          "pt": "A plataforma onde esperamos está indicada no painel."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Le quai, ligne d'horizon, sépare ceux qui partent de ceux qui restent.",
+          "pt": "A plataforma, linha do horizonte, separa os que partem dos que ficam."
+        }
       ]
     },
     {
       "term": "l'horaire",
       "definitionPt": "o horário",
       "definitionFr": "Heure prévue pour un train.",
-      "inflections": ["l'horaire", "un horaire", "des horaires"],
-      "ptTargets": ["horário"],
+      "inflections": [
+        "l'horaire",
+        "un horaire",
+        "des horaires"
+      ],
+      "ptTargets": [
+        "horário"
+      ],
       "examples": [
-        { "level": "A1", "fr": "L'horaire est affiché.", "pt": "O horário está afixado." },
-        { "level": "A2-B1", "fr": "Il faut vérifier les horaires des trains.", "pt": "É preciso conferir os horários dos trens." },
-        { "level": "B2", "fr": "Les horaires que nous avons consultés ont changé.", "pt": "Os horários que consultamos mudaram." },
-        { "level": "C1-C2", "fr": "L'horaire, contrat de fer, promet le départ même au voyageur pressé.", "pt": "O horário, contrato de ferro, promete a partida mesmo ao viajante apressado." }
+        {
+          "level": "A1",
+          "fr": "L'horaire est affiché.",
+          "pt": "O horário está afixado."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Il faut vérifier les horaires des trains.",
+          "pt": "É preciso conferir os horários dos trens."
+        },
+        {
+          "level": "B2",
+          "fr": "Les horaires que nous avons consultés ont changé.",
+          "pt": "Os horários que consultamos mudaram."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "L'horaire, contrat de fer, promet le départ même au voyageur pressé.",
+          "pt": "O horário, contrato de ferro, promete a partida mesmo ao viajante apressado."
+        }
       ]
     },
     {
       "term": "le tableau",
       "definitionPt": "o painel",
       "definitionFr": "Grand écran d'affichage.",
-      "inflections": ["le tableau", "un tableau", "des tableaux"],
-      "ptTargets": ["painel"],
+      "inflections": [
+        "le tableau",
+        "un tableau",
+        "des tableaux"
+      ],
+      "ptTargets": [
+        "painel"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le tableau est lumineux.", "pt": "O painel é luminoso." },
-        { "level": "A2-B1", "fr": "Le tableau des départs est au centre.", "pt": "O painel de partidas fica no centro." },
-        { "level": "B2", "fr": "Le tableau où l'on voit les départs est clair.", "pt": "O painel onde se veem as partidas é claro." },
-        { "level": "C1-C2", "fr": "Le tableau, alphabet de lumières, annonce les destins des voyageurs.", "pt": "O painel, alfabeto de luzes, anuncia os destinos dos viajantes." }
+        {
+          "level": "A1",
+          "fr": "Le tableau est lumineux.",
+          "pt": "O painel é luminoso."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Le tableau des départs est au centre.",
+          "pt": "O painel de partidas fica no centro."
+        },
+        {
+          "level": "B2",
+          "fr": "Le tableau où l'on voit les départs est clair.",
+          "pt": "O painel onde se veem as partidas é claro."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Le tableau, alphabet de lumières, annonce les destins des voyageurs.",
+          "pt": "O painel, alfabeto de luzes, anuncia os destinos dos viajantes."
+        }
       ]
     },
     {
       "term": "le départ",
       "definitionPt": "a partida",
       "definitionFr": "Action de partir.",
-      "inflections": ["le départ", "un départ", "des départs"],
-      "ptTargets": ["partida"],
+      "inflections": [
+        "le départ",
+        "un départ",
+        "des départs"
+      ],
+      "ptTargets": [
+        "partida"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le départ est bientôt.", "pt": "A partida é logo." },
-        { "level": "A2-B1", "fr": "Le train pour Paris est au départ.", "pt": "O trem para Paris está partindo." },
-        { "level": "B2", "fr": "Le départ que nous attendons est à dix heures.", "pt": "A partida que esperamos é às dez horas." },
-        { "level": "C1-C2", "fr": "Le départ, point final provisoire, ouvre toujours une nouvelle phrase.", "pt": "A partida, ponto final provisório, abre sempre uma nova frase." }
+        {
+          "level": "A1",
+          "fr": "Le départ est bientôt.",
+          "pt": "A partida é logo."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Le train pour Paris est au départ.",
+          "pt": "O trem para Paris está partindo."
+        },
+        {
+          "level": "B2",
+          "fr": "Le départ que nous attendons est à dix heures.",
+          "pt": "A partida que esperamos é às dez horas."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Le départ, point final provisoire, ouvre toujours une nouvelle phrase.",
+          "pt": "A partida, ponto final provisório, abre sempre uma nova frase."
+        }
       ]
     },
     {
       "term": "le TGV",
       "definitionPt": "o TGV (trem de alta velocidade)",
       "definitionFr": "Train très rapide français.",
-      "inflections": ["le TGV", "un TGV", "des TGV"],
-      "ptTargets": ["TGV"],
+      "inflections": [
+        "le TGV",
+        "un TGV",
+        "des TGV"
+      ],
+      "ptTargets": [
+        "TGV"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le TGV est rapide.", "pt": "O TGV é rápido." },
-        { "level": "A2-B1", "fr": "Le TGV relie Tours à Paris.", "pt": "O TGV liga Tours a Paris." },
-        { "level": "B2", "fr": "Le TGV que nous prendrons est confortable.", "pt": "O TGV que pegaremos é confortável." },
-        { "level": "C1-C2", "fr": "Le TGV, flèche de métal, coud les villes de la France en un trait.", "pt": "O TGV, flecha de metal, cose as cidades da França num traço." }
+        {
+          "level": "A1",
+          "fr": "Le TGV est rapide.",
+          "pt": "O TGV é rápido."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Le TGV relie Tours à Paris.",
+          "pt": "O TGV liga Tours a Paris."
+        },
+        {
+          "level": "B2",
+          "fr": "Le TGV que nous prendrons est confortable.",
+          "pt": "O TGV que pegaremos é confortável."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Le TGV, flèche de métal, coud les villes de la France en un trait.",
+          "pt": "O TGV, flecha de metal, cose as cidades da França num traço."
+        }
       ]
     },
     {
       "term": "vérifier",
       "definitionPt": "verificar, conferir",
       "definitionFr": "Contrôler, regarder avec attention.",
-      "inflections": ["je vérifie", "tu vérifies", "il vérifie", "nous vérifions"],
-      "ptTargets": ["verificar", "conferir"],
+      "inflections": [
+        "je vérifie",
+        "tu vérifies",
+        "il vérifie",
+        "nous vérifions"
+      ],
+      "ptTargets": [
+        "verificar",
+        "conferir"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Je vérifie l'heure.", "pt": "Eu confiro a hora." },
-        { "level": "A2-B1", "fr": "Il faut vérifier les horaires.", "pt": "É preciso conferir os horários." },
-        { "level": "B2", "fr": "Le billet que nous avons vérifié est correct.", "pt": "O bilhete que conferimos está correto." },
-        { "level": "C1-C2", "fr": "Vérifier, c'est interroger le monde avant de lui faire confiance.", "pt": "Verificar é interrogar o mundo antes de confiar nele." }
+        {
+          "level": "A1",
+          "fr": "Je vérifie l'heure.",
+          "pt": "Eu confiro a hora."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Il faut vérifier les horaires.",
+          "pt": "É preciso conferir os horários."
+        },
+        {
+          "level": "B2",
+          "fr": "Le billet que nous avons vérifié est correct.",
+          "pt": "O bilhete que conferimos está correto."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Vérifier, c'est interroger le monde avant de lui faire confiance.",
+          "pt": "Verificar é interrogar o mundo antes de confiar nele."
+        }
       ]
     },
     {
       "term": "descendre",
       "definitionPt": "descer",
       "definitionFr": "Sortir d'un transport.",
-      "inflections": ["je descends", "tu descends", "il descend", "nous descendons"],
-      "ptTargets": ["descer"],
+      "inflections": [
+        "je descends",
+        "tu descends",
+        "il descend",
+        "nous descendons"
+      ],
+      "ptTargets": [
+        "descer"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Je descends du train.", "pt": "Eu desço do trem." },
-        { "level": "A2-B1", "fr": "Irlan est descendu du train à Tours.", "pt": "Irlan desceu do trem em Tours." },
-        { "level": "B2", "fr": "La gare où nous descendons est proche.", "pt": "A estação onde descemos é perto." },
-        { "level": "C1-C2", "fr": "Descendre du train, c'est poser le pied dans une autre histoire.", "pt": "Descer do trem é pisar em outra história." }
+        {
+          "level": "A1",
+          "fr": "Je descends du train.",
+          "pt": "Eu desço do trem."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Irlan est descendu du train à Tours.",
+          "pt": "Irlan desceu do trem em Tours."
+        },
+        {
+          "level": "B2",
+          "fr": "La gare où nous descendons est proche.",
+          "pt": "A estação onde descemos é perto."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Descendre du train, c'est poser le pied dans une autre histoire.",
+          "pt": "Descer do trem é pisar em outra história."
+        }
       ]
     },
     {
       "term": "l'arche",
       "definitionPt": "o arco",
       "definitionFr": "Ouverture en demi-cercle.",
-      "inflections": ["l'arche", "une arche", "des arches"],
-      "ptTargets": ["arco"],
+      "inflections": [
+        "l'arche",
+        "une arche",
+        "des arches"
+      ],
+      "ptTargets": [
+        "arco"
+      ],
       "examples": [
-        { "level": "A1", "fr": "L'arche est grande.", "pt": "O arco é grande." },
-        { "level": "A2-B1", "fr": "La gare a une grande arche de verre.", "pt": "A estação tem um grande arco de vidro." },
-        { "level": "B2", "fr": "L'arche qui couvre le hall est en métal.", "pt": "O arco que cobre o saguão é de metal." },
-        { "level": "C1-C2", "fr": "L'arche, pont entre deux temps, accueille le train comme un visiteur.", "pt": "O arco, ponte entre dois tempos, recebe o trem como um visitante." }
+        {
+          "level": "A1",
+          "fr": "L'arche est grande.",
+          "pt": "O arco é grande."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "La gare a une grande arche de verre.",
+          "pt": "A estação tem um grande arco de vidro."
+        },
+        {
+          "level": "B2",
+          "fr": "L'arche qui couvre le hall est en métal.",
+          "pt": "O arco que cobre o saguão é de metal."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "L'arche, pont entre deux temps, accueille le train comme un visiteur.",
+          "pt": "O arco, ponte entre dois tempos, recebe o trem como um visitante."
+        }
       ]
     },
     {
       "term": "promettre",
       "definitionPt": "prometer",
       "definitionFr": "Dire que l'on fera quelque chose.",
-      "inflections": ["je promets", "tu promets", "il promet", "nous promettons"],
-      "ptTargets": ["prometer"],
+      "inflections": [
+        "je promets",
+        "tu promets",
+        "il promet",
+        "nous promettons"
+      ],
+      "ptTargets": [
+        "prometer"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Je promets d'écrire.", "pt": "Eu prometo escrever." },
-        { "level": "A2-B1", "fr": "Iris a promis d'envoyer une carte postale.", "pt": "Íris prometeu mandar um cartão-postal." },
-        { "level": "B2", "fr": "Les promesses que l'on fait sur un quai sont précieuses.", "pt": "As promessas que se fazem numa plataforma são preciosas." },
-        { "level": "C1-C2", "fr": "Promettre, c'est tendre un fil invisible entre le départ et le retour.", "pt": "Prometer é estender um fio invisível entre a partida e o retorno." }
+        {
+          "level": "A1",
+          "fr": "Je promets d'écrire.",
+          "pt": "Eu prometo escrever."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Elle a promis d'envoyer une carte postale.",
+          "pt": "Ela prometeu mandar um cartão-postal."
+        },
+        {
+          "level": "B2",
+          "fr": "Les promesses que l'on fait sur un quai sont précieuses.",
+          "pt": "As promessas que se fazem numa plataforma são preciosas."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Promettre, c'est tendre un fil invisible entre le départ et le retour.",
+          "pt": "Prometer é estender um fio invisível entre a partida e o retorno."
+        }
       ]
     }
   ],
@@ -198,8 +481,8 @@
     "titlePt": "O futur simple das promessas de viagem",
     "points": [
       {
-        "fr": "Le futur simple : « je prendrai, tu pourras, elle enverra, nous irons ». Exemple : « Un jour, je prendrai le train toute seule. »",
-        "pt": "O futur simple: « je prendrai » (pegarei), « tu pourras » (poderás), « elle enverra » (ela enviará), « nous irons » (iremos). Exemplo: « Um dia, pegarei o trem sozinha. »"
+        "fr": "Le futur simple : « je prendrai, tu pourras, elle enverra, nous irons ». Exemple : « Quand la course sera finie, nous prendrons le train jusqu'à l'océan. »",
+        "pt": "O futur simple: « je prendrai » (pegarei), « tu pourras » (poderás), « elle enverra » (ela enviará), « nous irons » (iremos). Exemplo: « Quando a corrida terminar, pegaremos o trem até o oceano. »"
       },
       {
         "fr": "Le vocabulaire de la gare : « la gare, le quai, le hall, le billet, l'horaire, le départ, le tableau ». Exemple : « Le train part du quai numéro trois. »",
@@ -210,27 +493,52 @@
   "quizQuestions": [
     {
       "question": "Desde quando existe a gare de Tours ?",
-      "options": ["1898", "2000", "1500", "2020"],
+      "options": [
+        "1898",
+        "2000",
+        "1500",
+        "2020"
+      ],
       "correctIndex": 0
     },
     {
       "question": "Quanto tempo leva o TGV de Paris a Tours ?",
-      "options": ["Um pouco mais de uma hora", "Cinco horas", "Dez minutos", "Um dia"],
+      "options": [
+        "Um pouco mais de uma hora",
+        "Cinco horas",
+        "Dez minutos",
+        "Um dia"
+      ],
       "correctIndex": 0
     },
     {
-      "question": "O que Iris olhou na estação ?",
-      "options": ["O tableau des départs", "A loja de doces", "O restaurante", "O chão"],
+      "question": "O que Andréa olhou na estação ?",
+      "options": [
+        "O tableau des départs",
+        "A loja de doces",
+        "O restaurante",
+        "O chão"
+      ],
       "correctIndex": 0
     },
     {
       "question": "O que Irlan disse que é uma gare ?",
-      "options": ["Um lugar de despedidas e chegadas", "Um lugar barulhento", "Um lugar triste", "Um lugar vazio"],
+      "options": [
+        "Um lugar de despedidas e chegadas",
+        "Um lugar barulhento",
+        "Um lugar triste",
+        "Um lugar vazio"
+      ],
       "correctIndex": 0
     },
     {
-      "question": "O que Iris prometeu enviar ?",
-      "options": ["Uma carte postale", "Um pacote", "Uma foto", "Um presente"],
+      "question": "O que Irlan prometeu enviar ?",
+      "options": [
+        "Uma carte postale",
+        "Um pacote",
+        "Uma foto",
+        "Um presente"
+      ],
       "correctIndex": 0
     }
   ]

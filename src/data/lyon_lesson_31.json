@@ -21,8 +21,8 @@
     },
     {
       "id": 3,
-      "fr": "Devant le musée des Confluences, Íris s'écria : « C'est le vaisseau de verre qui brille ! » L'édifice, en verre et en acier, semble flotter au-dessus de l'eau. « C'est lui qui symbolise le nouveau Lyon », répondit Irlan.",
-      "pt": "Diante do museu das Confluences, Íris exclamou: « É a nave de vidro que brilha! » O edifício, de vidro e aço, parece flutuar sobre a água. « É ele que simboliza o novo Lyon », respondeu Irlan."
+      "fr": "Devant le musée des Confluences, Andréa s'écria : « C'est le vaisseau de verre qui brille ! » L'édifice, en verre et en acier, semble flotter au-dessus de l'eau. « C'est lui qui symbolise le nouveau Lyon », répondit Irlan.",
+      "pt": "Diante do museu das Confluences, Andréa exclamou: « É a nave de vidro que brilha! » O edifício, de vidro e aço, parece flutuar sobre a água. « É ele que simboliza o novo Lyon », respondeu Irlan."
     },
     {
       "id": 4,
@@ -33,6 +33,16 @@
       "id": 5,
       "fr": "Le soir, Irlan écrivit : « C'est au confluent que deux rivières deviennent une seule force. C'est aussi là que l'ancien et le nouveau Lyon se rencontrent. Et c'est moi, aujourd'hui, qui ai la chance d'apprendre leur langue. »",
       "pt": "À noite, Irlan escreveu: « É na confluência que dois rios se tornam uma única força. É também ali que o velho e o novo Lyon se encontram. E sou eu, hoje, que tenho a sorte de aprender sua língua. »"
+    },
+    {
+      "id": 6,
+      "fr": "La Confluence représentait une transformation numérique et urbaine. Un projet d'innovation technologique pouvait réhabiliter les anciens dépôts sans effacer leur histoire.",
+      "pt": "A Confluence representava uma transformação digital e urbana. Um projeto de inovação tecnológica podia reabilitar os antigos depósitos sem apagar sua história."
+    },
+    {
+      "id": 7,
+      "fr": "Andréa a parlé d'éco-responsabilité et de conception durable. Irlan a noté qu'un quartier moderne devait rester vivable, équitable et connecté au fleuve.",
+      "pt": "Andréa falou de responsabilidade ecológica e de concepção sustentável. Irlan anotou que um bairro moderno precisava continuar habitável, equitativo e conectado ao rio."
     }
   ],
   "vocabularyDictionary": [
@@ -236,7 +246,7 @@
       "explanation": "No texto: 'une usine de sucre devenue lieu d'art'."
     },
     {
-      "question": "Como Íris descreveu o museu das Confluences?",
+      "question": "Como Andréa descreveu o museu das Confluences?",
       "options": ["Um vaisseau de verre que brilha", "Uma ponte antiga", "Uma torre de tijolos"],
       "correctIndex": 0,
       "explanation": "No texto: 'C'est le vaisseau de verre qui brille !'"

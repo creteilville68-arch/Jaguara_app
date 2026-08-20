@@ -7,22 +7,22 @@
   "titlePt": "A bacia de Arcachon: as ostras e as cabanas tchanquées",
   "subtitleFr": "En dégustant les huîtres, on apprend le métier des ostréiculteurs",
   "subtitlePt": "Degustando as ostras, aprende-se o ofício dos ostricultores",
-  "summaryPt": "Nesta Aula 21 (B1+), a família visita o bassin d'Arcachon, famoso pelas ostras e pelas cabanas tchanquées sobre palafitas. O aluno pratica o vocabulário do mar e dos ofícios (l'ostréiculteur, la cabane, la marée) e o gérondif com en + participe présent.",
+  "summaryPt": "Nesta Aula 21 (B1+), o casal visita o bassin d'Arcachon, famoso pelas ostras e pelas cabanas tchanquées sobre palafitas. O aluno pratica o vocabulário do mar e dos ofícios (l'ostréiculteur, la cabane, la marée) e o gérondif com en + participe présent.",
   "paragraphs": [
     {
       "id": 1,
-      "fr": "« Le bassin d'Arcachon produit les deux tiers des huîtres de France », a expliqué Irlan. La famille s'est approchée des parcs à huîtres. « En regardant la mer, on comprend le travail des ostréiculteurs. »",
-      "pt": "« A bacia de Arcachon produz dois terços das ostras da França », explicou Irlan. A família se aproximou dos parques de ostras. « Olhando o mar, entende-se o trabalho dos ostricultores. »"
+      "fr": "« Le bassin d'Arcachon produit les deux tiers des huîtres de France », a expliqué Irlan. Le couple s'est approché des parcs à huîtres. « En regardant la mer, on comprend le travail des ostréiculteurs. »",
+      "pt": "« A bacia de Arcachon produz dois terços das ostras da França », explicou Irlan. O casal se aproximou dos parques de ostras. « Olhando o mar, entende-se o trabalho dos ostricultores. »"
     },
     {
       "id": 2,
-      "fr": "Les cabanes tchanquées se dressaient sur l'eau, posées sur leurs pilotis. « Elles sont célèbres dans le monde entier », a dit Andréa. « On les voit sur toutes les photos du bassin. » « Elles seraient parfaites pour un livre de coloriage », a souri Iris.",
-      "pt": "As cabanas tchanquées se erguiam sobre a água, apoiadas em suas estacas. « Elas são famosas no mundo inteiro », disse Andréa. « Aparecem em todas as fotos da bacia. » « Elas seriam perfeitas para um livro de colorir », sorriu Íris."
+      "fr": "Les cabanes tchanquées se dressaient sur l'eau, posées sur leurs pilotis. « Elles sont célèbres dans le monde entier », a dit Andréa. « On les voit sur toutes les photos du bassin. » « Elles seraient parfaites pour un livre de coloriage », a souri Andréa.",
+      "pt": "As cabanas tchanquées se erguiam sobre a água, apoiadas em suas estacas. « Elas são famosas no mundo inteiro », disse Andréa. « Aparecem em todas as fotos da bacia. » « Elas seriam perfeitas para um livro de colorir », sorriu Andréa."
     },
     {
       "id": 3,
-      "fr": "Un ostréiculteur a ouvert des huîtres pour la famille. « En les goûtant, vous sentirez la mer », a-t-il dit. Iris a fait une petite grimace. « Elles sont salées, mais c'est bon ! » « C'est le goût de l'océan », a ri Andréa.",
-      "pt": "Um ostricultor abriu ostras para a família. « Provando-as, vocês sentirão o mar », disse. Íris fez uma caretinha. « São salgadas, mas são boas! » « É o gosto do oceano », riu Andréa."
+      "fr": "Un ostréiculteur a ouvert des huîtres pour le couple. « En les goûtant, vous sentirez la mer », a-t-il dit. Andréa a fait une petite grimace. « Elles sont salées, mais c'est bon ! » « C'est le goût de l'océan », a ri Irlan.",
+      "pt": "Um ostricultor abriu ostras para o casal. « Provando-as, vocês sentirão o mar », disse. Andréa fez uma caretinha. « São salgadas, mas são boas! » « É o gosto do oceano », riu Irlan."
     },
     {
       "id": 4,
@@ -33,6 +33,21 @@
       "id": 5,
       "fr": "Le soir, le soleil a couché sur le bassin. Les cabanes tchanquées se sont découpées en ombres chinoises. « En voyant cela, je comprends pourquoi les gens aiment tant ce pays », a murmuré Irlan. « C'est simple, c'est beau, c'est vrai. Comme les mots que j'apprends. »",
       "pt": "À noite, o sol se pôs sobre a bacia. As cabanas tchanquées se recortaram em sombras chinesas. « Vendo isso, entendo por que as pessoas amam tanto este país », murmurou Irlan. « É simples, é belo, é verdadeiro. Como as palavras que aprendo. »"
+    }
+    ,{
+      "id": 6,
+      "fr": "Dans le bassin d'Arcachon, une ostréicultrice explique la récolte. Les cabanes tchanquées sont isolées sur l'eau.",
+      "pt": "Na baía de Arcachon, uma ostreicultora explica a colheita. As cabanas tchanquées são isoladas sobre a água."
+    },
+    {
+      "id": 7,
+      "fr": "Irlan goûte une huître fraîchement ouverte. Il doit endurer son hésitation et admettre qu'elle est délicate.",
+      "pt": "Irlan prova uma ostra recém-aberta. Ele precisa suportar sua hesitação e admitir que ela é delicada."
+    },
+    {
+      "id": 8,
+      "fr": "Andréa photographie la flore du bassin. « La protection de l'habitat naturel est une obligation », affirme-t-elle.",
+      "pt": "Andréa fotografa a flora da baía. A proteção do habitat natural é uma obrigação, afirma ela."
     }
   ],
   "vocabularyDictionary": [
@@ -229,7 +244,7 @@
       "correctIndex": 0
     },
     {
-      "question": "O que Iris achou das ostras ?",
+      "question": "O que Andréa achou das ostras ?",
       "options": ["Salgadas, mas boas", "Doces demais", "Sem gosto", "Amargas"],
       "correctIndex": 0
     }

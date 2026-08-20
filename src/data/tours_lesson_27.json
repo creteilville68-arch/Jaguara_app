@@ -7,7 +7,7 @@
   "titlePt": "A torre de Carlos Magno: a lenda do tesouro",
   "subtitleFr": "On dit que Charlemagne a offert ses reliques à Tours",
   "subtitlePt": "Dizem que Carlos Magno ofereceu suas relíquias a Tours",
-  "summaryPt": "Nesta Aula 27 (B1), a família descobre a tour Charlemagne, que fazia parte da antiga basílica Saint-Martin, e a lenda das relíquias doadas pelo imperador. O aluno pratica a expressão da lenda (on dit que, selon la légende), o subjuntivo com il faut que e o vocabulário da igreja.",
+  "summaryPt": "Nesta Aula 27 (B1), o casal descobre a tour Charlemagne, que fazia parte da antiga basílica Saint-Martin, e a lenda das relíquias doadas pelo imperador. Andréa conclui que o verdadeiro tesouro é a própria torre — como o Atlas, mais precioso pela busca que o cerca. O aluno pratica a expressão da lenda (on dit que, selon la légende), o subjuntivo com il faut que e o vocabulário da igreja.",
   "paragraphs": [
     {
       "id": 1,
@@ -21,8 +21,8 @@
     },
     {
       "id": 3,
-      "fr": "Iris a demandé : « Est-ce qu'on peut chercher le trésor ? » « Il faut que tu attendes », a ri Andréa. « Le trésor des légendes aime les rêveurs patients. »",
-      "pt": "Íris perguntou: « Dá pra procurar o tesouro? » « É preciso que você espere », riu Andréa. « O tesouro das lendas gosta de sonhadores pacientes. »"
+      "fr": "Andréa a demandé : « Est-ce qu'on peut chercher le trésor ? » « Il faut que tu attendes », a ri Irlan. « Le trésor des légendes aime les rêveurs patients. »",
+      "pt": "Andréa perguntou: « Dá pra procurar o tesouro? » « É preciso que você espere », riu Irlan. « O tesouro das lendas gosta de sonhadores pacientes. »"
     },
     {
       "id": 4,
@@ -31,8 +31,23 @@
     },
     {
       "id": 5,
-      "fr": "Le soir, Iris a dessiné la tour avec un grand trésor doré au sommet. « Moi, je sais où est le vrai trésor », a-t-elle dit. « C'est la tour elle-même. » Irlan a souri : « Ma fille est devenue poète. »",
-      "pt": "À noite, Íris desenhou a torre com um grande tesouro dourado no topo. « Eu sei onde está o verdadeiro tesouro », disse. « É a própria torre. » Irlan sorriu: « Minha filha virou poeta. »"
+      "fr": "Le soir, Andréa a dessiné la tour avec un grand trésor doré au sommet. « Moi, je sais où est le vrai trésor », a-t-elle dit. « C'est la tour elle-même. » Irlan a souri : « Ma femme est devenue poète. »",
+      "pt": "À noite, Andréa desenhou a torre com um grande tesouro dourado no topo. « Eu sei onde está o verdadeiro tesouro », disse. « É a própria torre. » Irlan sorriu: « Minha esposa virou poeta. »"
+    },
+    {
+      "id": 6,
+      "fr": "La tour Charlemagne abrite une légende de trésor. Irlan cherche des indices dans la pierre ancienne.",
+      "pt": "A torre Charlemagne abriga uma lenda de tesouro. Irlan procura pistas na pedra antiga."
+    },
+    {
+      "id": 7,
+      "fr": "Andréa lit un livre sur la légende. « On dit que le trésor est caché sous la tour », raconte-t-elle.",
+      "pt": "Andréa lê um livro sobre a lenda. Dizem que o tesouro está escondido sob a torre, conta ela."
+    },
+    {
+      "id": 8,
+      "fr": "Irlan dessine la tour dans l'Atlas. « La littérature et l'histoire se mêlent ici d'une façon constante », murmure-t-il.",
+      "pt": "Irlan desenha a torre no Atlas. A literatura e a história se misturam aqui de forma constante, murmura ele."
     }
   ],
   "vocabularyDictionary": [
@@ -40,156 +55,422 @@
       "term": "la tour",
       "definitionPt": "a torre",
       "definitionFr": "Bâtiment haut et étroit.",
-      "inflections": ["la tour", "une tour", "des tours"],
-      "ptTargets": ["torre"],
+      "inflections": [
+        "la tour",
+        "une tour",
+        "des tours"
+      ],
+      "ptTargets": [
+        "torre"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La tour est haute.", "pt": "A torre é alta." },
-        { "level": "A2-B1", "fr": "La tour Charlemagne est célèbre.", "pt": "A torre de Carlos Magno é famosa." },
-        { "level": "B2", "fr": "La tour qui penche un peu a mille ans.", "pt": "A torre que inclina um pouco tem mil anos." },
-        { "level": "C1-C2", "fr": "La tour, vieille sentinelle, garde les légendes dans sa pierre.", "pt": "A torre, velha sentinela, guarda as lendas em sua pedra." }
+        {
+          "level": "A1",
+          "fr": "La tour est haute.",
+          "pt": "A torre é alta."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "La tour Charlemagne est célèbre.",
+          "pt": "A torre de Carlos Magno é famosa."
+        },
+        {
+          "level": "B2",
+          "fr": "La tour qui penche un peu a mille ans.",
+          "pt": "A torre que inclina um pouco tem mil anos."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "La tour, vieille sentinelle, garde les légendes dans sa pierre.",
+          "pt": "A torre, velha sentinela, guarda as lendas em sua pedra."
+        }
       ]
     },
     {
       "term": "la relique",
       "definitionPt": "a relíquia",
       "definitionFr": "Objet sacré du passé.",
-      "inflections": ["la relique", "une relique", "des reliques"],
-      "ptTargets": ["relíquia"],
+      "inflections": [
+        "la relique",
+        "une relique",
+        "des reliques"
+      ],
+      "ptTargets": [
+        "relíquia"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La relique est précieuse.", "pt": "A relíquia é preciosa." },
-        { "level": "A2-B1", "fr": "Charlemagne a offert des reliques à Tours.", "pt": "Carlos Magno ofereceu relíquias a Tours." },
-        { "level": "B2", "fr": "Les reliques dont parle la légende sont cachées.", "pt": "As relíquias de que a lenda fala estão escondidas." },
-        { "level": "C1-C2", "fr": "La relique, mémoire sacrée, relie les vivants aux siècles passés.", "pt": "A relíquia, memória sagrada, liga os vivos aos séculos passados." }
+        {
+          "level": "A1",
+          "fr": "La relique est précieuse.",
+          "pt": "A relíquia é preciosa."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Charlemagne a offert des reliques à Tours.",
+          "pt": "Carlos Magno ofereceu relíquias a Tours."
+        },
+        {
+          "level": "B2",
+          "fr": "Les reliques dont parle la légende sont cachées.",
+          "pt": "As relíquias de que a lenda fala estão escondidas."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "La relique, mémoire sacrée, relie les vivants aux siècles passés.",
+          "pt": "A relíquia, memória sagrada, liga os vivos aos séculos passados."
+        }
       ]
     },
     {
       "term": "le trésor",
       "definitionPt": "o tesouro",
       "definitionFr": "Ensemble d'objets précieux cachés.",
-      "inflections": ["le trésor", "un trésor", "des trésors"],
-      "ptTargets": ["tesouro"],
+      "inflections": [
+        "le trésor",
+        "un trésor",
+        "des trésors"
+      ],
+      "ptTargets": [
+        "tesouro"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le trésor est caché.", "pt": "O tesouro está escondido." },
-        { "level": "A2-B1", "fr": "On dit qu'un trésor est dans la tour.", "pt": "Dizem que há um tesouro na torre." },
-        { "level": "B2", "fr": "Le trésor dont parle la légende n'a jamais été trouvé.", "pt": "O tesouro de que a lenda fala nunca foi encontrado." },
-        { "level": "C1-C2", "fr": "Le trésor, rêve doré, vaut moins que la quête qui l'entoure.", "pt": "O tesouro, sonho dourado, vale menos que a busca que o cerca." }
+        {
+          "level": "A1",
+          "fr": "Le trésor est caché.",
+          "pt": "O tesouro está escondido."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "On dit qu'un trésor est dans la tour.",
+          "pt": "Dizem que há um tesouro na torre."
+        },
+        {
+          "level": "B2",
+          "fr": "Le trésor dont parle la légende n'a jamais été trouvé.",
+          "pt": "O tesouro de que a lenda fala nunca foi encontrado."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Le trésor, rêve doré, vaut moins que la quête qui l'entoure.",
+          "pt": "O tesouro, sonho dourado, vale menos que a busca que o cerca."
+        }
       ]
     },
     {
       "term": "la ceinture",
       "definitionPt": "o cinto",
       "definitionFr": "Bande que l'on porte autour de la taille.",
-      "inflections": ["la ceinture", "une ceinture", "des ceintures"],
-      "ptTargets": ["cinto"],
+      "inflections": [
+        "la ceinture",
+        "une ceinture",
+        "des ceintures"
+      ],
+      "ptTargets": [
+        "cinto"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La ceinture est en cuir.", "pt": "O cinto é de couro." },
-        { "level": "A2-B1", "fr": "Le trésor serait une ceinture de Charlemagne.", "pt": "O tesouro seria um cinto de Carlos Magno." },
-        { "level": "B2", "fr": "La ceinture dont parle la légende est en or.", "pt": "O cinto de que a lenda fala é de ouro." },
-        { "level": "C1-C2", "fr": "La ceinture, anneau du pouvoir, symbolise le trésor invisible.", "pt": "O cinto, anel do poder, simboliza o tesouro invisível." }
+        {
+          "level": "A1",
+          "fr": "La ceinture est en cuir.",
+          "pt": "O cinto é de couro."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Le trésor serait une ceinture de Charlemagne.",
+          "pt": "O tesouro seria um cinto de Carlos Magno."
+        },
+        {
+          "level": "B2",
+          "fr": "La ceinture dont parle la légende est en or.",
+          "pt": "O cinto de que a lenda fala é de ouro."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "La ceinture, anneau du pouvoir, symbolise le trésor invisible.",
+          "pt": "O cinto, anel do poder, simboliza o tesouro invisível."
+        }
       ]
     },
     {
       "term": "la légende",
       "definitionPt": "a lenda",
       "definitionFr": "Histoire ancienne et merveilleuse.",
-      "inflections": ["la légende", "une légende", "des légendes"],
-      "ptTargets": ["lenda"],
+      "inflections": [
+        "la légende",
+        "une légende",
+        "des légendes"
+      ],
+      "ptTargets": [
+        "lenda"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La légende est mystérieuse.", "pt": "A lenda é misteriosa." },
-        { "level": "A2-B1", "fr": "La légende raconte l'histoire de la tour.", "pt": "A lenda conta a história da torre." },
-        { "level": "B2", "fr": "La légende qui entoure la tour est fascinante.", "pt": "A lenda que cerca a torre é fascinante." },
-        { "level": "C1-C2", "fr": "La légende, souffle des pierres, rend les vieilles tours vivantes.", "pt": "A lenda, sopro das pedras, torna vivas as velhas torres." }
+        {
+          "level": "A1",
+          "fr": "La légende est mystérieuse.",
+          "pt": "A lenda é misteriosa."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "La légende raconte l'histoire de la tour.",
+          "pt": "A lenda conta a história da torre."
+        },
+        {
+          "level": "B2",
+          "fr": "La légende qui entoure la tour est fascinante.",
+          "pt": "A lenda que cerca a torre é fascinante."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "La légende, souffle des pierres, rend les vieilles tours vivantes.",
+          "pt": "A lenda, sopro das pedras, torna vivas as velhas torres."
+        }
       ]
     },
     {
       "term": "l'empereur",
       "definitionPt": "o imperador",
       "definitionFr": "Chef d'un empire.",
-      "inflections": ["l'empereur", "un empereur", "des empereurs"],
-      "ptTargets": ["imperador"],
+      "inflections": [
+        "l'empereur",
+        "un empereur",
+        "des empereurs"
+      ],
+      "ptTargets": [
+        "imperador"
+      ],
       "examples": [
-        { "level": "A1", "fr": "L'empereur est puissant.", "pt": "O imperador é poderoso." },
-        { "level": "A2-B1", "fr": "Charlemagne était un grand empereur.", "pt": "Carlos Magno era um grande imperador." },
-        { "level": "B2", "fr": "L'empereur qui a offert les reliques s'appelait Charlemagne.", "pt": "O imperador que ofereceu as relíquias chamava-se Carlos Magno." },
-        { "level": "C1-C2", "fr": "L'empereur, homme au-dessus des hommes, reste un homme sous la couronne.", "pt": "O imperador, homem acima dos homens, continua um homem sob a coroa." }
+        {
+          "level": "A1",
+          "fr": "L'empereur est puissant.",
+          "pt": "O imperador é poderoso."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Charlemagne était un grand empereur.",
+          "pt": "Carlos Magno era um grande imperador."
+        },
+        {
+          "level": "B2",
+          "fr": "L'empereur qui a offert les reliques s'appelait Charlemagne.",
+          "pt": "O imperador que ofereceu as relíquias chamava-se Carlos Magno."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "L'empereur, homme au-dessus des hommes, reste un homme sous la couronne.",
+          "pt": "O imperador, homem acima dos homens, continua um homem sob a coroa."
+        }
       ]
     },
     {
       "term": "enterrer",
       "definitionPt": "enterrar",
       "definitionFr": "Mettre dans la terre, dans une tombe.",
-      "inflections": ["j'enterre", "tu enterres", "il enterre", "nous enterrons"],
-      "ptTargets": ["enterrar"],
+      "inflections": [
+        "j'enterre",
+        "tu enterres",
+        "il enterre",
+        "nous enterrons"
+      ],
+      "ptTargets": [
+        "enterrar"
+      ],
       "examples": [
-        { "level": "A1", "fr": "On enterre le trésor.", "pt": "Enterra-se o tesouro." },
-        { "level": "A2-B1", "fr": "La femme de Charlemagne était enterrée ici.", "pt": "A esposa de Carlos Magno foi enterrada aqui." },
-        { "level": "B2", "fr": "La reine qui est enterrée dans la tour a une légende.", "pt": "A rainha que está enterrada na torre tem uma lenda." },
-        { "level": "C1-C2", "fr": "Enterrer, geste de mémoire, confie les secrets à la terre patiente.", "pt": "Enterrar, gesto de memória, confia os segredos à terra paciente." }
+        {
+          "level": "A1",
+          "fr": "On enterre le trésor.",
+          "pt": "Enterra-se o tesouro."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "La femme de Charlemagne était enterrée ici.",
+          "pt": "A esposa de Carlos Magno foi enterrada aqui."
+        },
+        {
+          "level": "B2",
+          "fr": "La reine qui est enterrée dans la tour a une légende.",
+          "pt": "A rainha que está enterrada na torre tem uma lenda."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Enterrer, geste de mémoire, confie les secrets à la terre patiente.",
+          "pt": "Enterrar, gesto de memória, confia os segredos à terra paciente."
+        }
       ]
     },
     {
       "term": "la canne",
       "definitionPt": "a bengala",
       "definitionFr": "Bâton pour s'appuyer en marchant.",
-      "inflections": ["la canne", "une canne", "des cannes"],
-      "ptTargets": ["bengala"],
+      "inflections": [
+        "la canne",
+        "une canne",
+        "des cannes"
+      ],
+      "ptTargets": [
+        "bengala"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La canne est en bois.", "pt": "A bengala é de madeira." },
-        { "level": "A2-B1", "fr": "La tour penche comme un monsieur appuyé sur sa canne.", "pt": "A torre inclina como um senhor apoiado na bengala." },
-        { "level": "B2", "fr": "La canne qui soutient le vieil homme est usée.", "pt": "A bengala que sustenta o velho está gasta." },
-        { "level": "C1-C2", "fr": "La canne, troisième jambe du temps, accompagne la vieillesse digne.", "pt": "A bengala, terceira perna do tempo, acompanha a velhice digna." }
+        {
+          "level": "A1",
+          "fr": "La canne est en bois.",
+          "pt": "A bengala é de madeira."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "La tour penche comme un monsieur appuyé sur sa canne.",
+          "pt": "A torre inclina como um senhor apoiado na bengala."
+        },
+        {
+          "level": "B2",
+          "fr": "La canne qui soutient le vieil homme est usée.",
+          "pt": "A bengala que sustenta o velho está gasta."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "La canne, troisième jambe du temps, accompagne la vieillesse digne.",
+          "pt": "A bengala, terceira perna do tempo, acompanha a velhice digna."
+        }
       ]
     },
     {
       "term": "le dessin",
       "definitionPt": "o desenho",
       "definitionFr": "Image faite avec un crayon.",
-      "inflections": ["le dessin", "un dessin", "des dessins"],
-      "ptTargets": ["desenho"],
+      "inflections": [
+        "le dessin",
+        "un dessin",
+        "des dessins"
+      ],
+      "ptTargets": [
+        "desenho"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le dessin est joli.", "pt": "O desenho é bonito." },
-        { "level": "A2-B1", "fr": "Iris a fait un dessin de la tour.", "pt": "Íris fez um desenho da torre." },
-        { "level": "B2", "fr": "Le dessin qu'elle a fait montre un trésor doré.", "pt": "O desenho que ela fez mostra um tesouro dourado." },
-        { "level": "C1-C2", "fr": "Le dessin, rêve visible, offre une réalité aux légendes.", "pt": "O desenho, sonho visível, dá realidade às lendas." }
+        {
+          "level": "A1",
+          "fr": "Le dessin est joli.",
+          "pt": "O desenho é bonito."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Andréa a fait un dessin de la tour.",
+          "pt": "Andréa fez um desenho da torre."
+        },
+        {
+          "level": "B2",
+          "fr": "Le dessin qu'elle a fait montre un trésor doré.",
+          "pt": "O desenho que ela fez mostra um tesouro dourado."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Le dessin, rêve visible, offre une réalité aux légendes.",
+          "pt": "O desenho, sonho visível, dá realidade às lendas."
+        }
       ]
     },
     {
       "term": "poète",
       "definitionPt": "poeta",
       "definitionFr": "Personne qui écrit des poèmes.",
-      "inflections": ["poète", "poète", "poètes"],
-      "ptTargets": ["poeta"],
+      "inflections": [
+        "poète",
+        "poète",
+        "poètes"
+      ],
+      "ptTargets": [
+        "poeta"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le poète écrit.", "pt": "O poeta escreve." },
-        { "level": "A2-B1", "fr": "Iris est devenue poète pour Irlan.", "pt": "Íris virou poeta para Irlan." },
-        { "level": "B2", "fr": "Le poète qui voit les trésors cachés voit plus loin.", "pt": "O poeta que vê os tesouros escondidos vê mais longe." },
-        { "level": "C1-C2", "fr": "Le poète, voleur de merveilles, trouve l'or dans les mots simples.", "pt": "O poeta, ladrão de maravilhas, encontra ouro nas palavras simples." }
+        {
+          "level": "A1",
+          "fr": "Le poète écrit.",
+          "pt": "O poeta escreve."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Elle est devenue poète pour lui.",
+          "pt": "Ela virou poeta para ele."
+        },
+        {
+          "level": "B2",
+          "fr": "Le poète qui voit les trésors cachés voit plus loin.",
+          "pt": "O poeta que vê os tesouros escondidos vê mais longe."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Le poète, voleur de merveilles, trouve l'or dans les mots simples.",
+          "pt": "O poeta, ladrão de maravilhas, encontra ouro nas palavras simples."
+        }
       ]
     },
     {
       "term": "le sommet",
       "definitionPt": "o topo",
       "definitionFr": "Partie la plus haute.",
-      "inflections": ["le sommet", "un sommet", "des sommets"],
-      "ptTargets": ["topo"],
+      "inflections": [
+        "le sommet",
+        "un sommet",
+        "des sommets"
+      ],
+      "ptTargets": [
+        "topo"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le sommet est haut.", "pt": "O topo é alto." },
-        { "level": "A2-B1", "fr": "Le trésor est au sommet de la tour.", "pt": "O tesouro está no topo da torre." },
-        { "level": "B2", "fr": "Le sommet que nous voyons d'ici est couvert de pigeons.", "pt": "O topo que vemos daqui está coberto de pombos." },
-        { "level": "C1-C2", "fr": "Le sommet, point du rêve, attire les regards vers le ciel.", "pt": "O topo, ponto do sonho, atrai os olhares para o céu." }
+        {
+          "level": "A1",
+          "fr": "Le sommet est haut.",
+          "pt": "O topo é alto."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Le trésor est au sommet de la tour.",
+          "pt": "O tesouro está no topo da torre."
+        },
+        {
+          "level": "B2",
+          "fr": "Le sommet que nous voyons d'ici est couvert de pigeons.",
+          "pt": "O topo que vemos daqui está coberto de pombos."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Le sommet, point du rêve, attire les regards vers le ciel.",
+          "pt": "O topo, ponto do sonho, atrai os olhares para o céu."
+        }
       ]
     },
     {
       "term": "mystérieux",
       "definitionPt": "misterioso",
       "definitionFr": "Qui cache un secret.",
-      "inflections": ["mystérieux", "mystérieuse", "mystérieux", "mystérieuses"],
-      "ptTargets": ["misterioso"],
+      "inflections": [
+        "mystérieux",
+        "mystérieuse",
+        "mystérieux",
+        "mystérieuses"
+      ],
+      "ptTargets": [
+        "misterioso"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le coffre est mystérieux.", "pt": "O baú é misterioso." },
-        { "level": "A2-B1", "fr": "La tour est mystérieuse.", "pt": "A torre é misteriosa." },
-        { "level": "B2", "fr": "Le trésor mystérieux dont on parle attire les curieux.", "pt": "O tesouro misterioso de que se fala atrai os curiosos." },
-        { "level": "C1-C2", "fr": "Mystérieuse, la légende se nourrit de ce qu'elle ne dit pas.", "pt": "Misteriosa, a lenda alimenta-se do que não diz." }
+        {
+          "level": "A1",
+          "fr": "Le coffre est mystérieux.",
+          "pt": "O baú é misterioso."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "La tour est mystérieuse.",
+          "pt": "A torre é misteriosa."
+        },
+        {
+          "level": "B2",
+          "fr": "Le trésor mystérieux dont on parle attire les curieux.",
+          "pt": "O tesouro misterioso de que se fala atrai os curiosos."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Mystérieuse, la légende se nourrit de ce qu'elle ne dit pas.",
+          "pt": "Misteriosa, a lenda alimenta-se do que não diz."
+        }
       ]
     }
   ],
@@ -209,28 +490,53 @@
   },
   "quizQuestions": [
     {
-      "question": "Quelle tour la famille visite-t-elle ?",
-      "options": ["La tour Charlemagne", "La tour Eiffel", "La tour de Pise", "La tour Jean sans Peur"],
+      "question": "Quelle tour le couple visite-t-il ?",
+      "options": [
+        "La tour Charlemagne",
+        "La tour Eiffel",
+        "La tour de Pise",
+        "La tour Jean sans Peur"
+      ],
       "correctIndex": 0
     },
     {
       "question": "Qu'est-ce qu'on dit qui est caché dans la tour ?",
-      "options": ["Un trésor", "Un roi", "Un jardin", "Une rivière"],
+      "options": [
+        "Un trésor",
+        "Un roi",
+        "Un jardin",
+        "Une rivière"
+      ],
       "correctIndex": 0
     },
     {
       "question": "Quel serait le trésor ?",
-      "options": ["Une ceinture de Charlemagne", "Une couronne", "Un tableau", "Un livre"],
+      "options": [
+        "Une ceinture de Charlemagne",
+        "Une couronne",
+        "Un tableau",
+        "Un livre"
+      ],
       "correctIndex": 0
     },
     {
       "question": "Combien d'années la tour a-t-elle ?",
-      "options": ["Mille ans", "Dix ans", "Cent ans", "Cinquante ans"],
+      "options": [
+        "Mille ans",
+        "Dix ans",
+        "Cent ans",
+        "Cinquante ans"
+      ],
       "correctIndex": 0
     },
     {
-      "question": "Où Iris a-t-elle mis le trésor dans son dessin ?",
-      "options": ["Au sommet de la tour", "Dans la Loire", "Sous la terre", "Dans sa poche"],
+      "question": "Où Andréa a-t-elle mis le trésor dans son dessin ?",
+      "options": [
+        "Au sommet de la tour",
+        "Dans la Loire",
+        "Sous la terre",
+        "Dans sa poche"
+      ],
       "correctIndex": 0
     }
   ]

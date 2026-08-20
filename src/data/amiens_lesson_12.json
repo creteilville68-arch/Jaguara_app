@@ -68,6 +68,21 @@
       "id": 12,
       "fr": "Ils redescendent. « Nous devons suivre les rues, pas la peur », dit Irlan, la voix calme.",
       "pt": "Eles descem. « Nós devemos seguir as ruas, não o medo », diz Irlan, com a voz calma."
+    },
+    {
+      "id": 13,
+      "fr": "Ils prennent l'escalator pour redescendre. La rue principale est animée. Un coiffeur ouvre sa porte au coin de la rue.",
+      "pt": "Eles pegam a escada rolante para descer. A rua principal está animada. Um cabeleireiro abre sua porta na esquina da rua."
+    },
+    {
+      "id": 14,
+      "fr": "Le quart d'heure se transforme en une heure de marche. Les rues piétonnes serpentent entre les maisons anciennes.",
+      "pt": "O quarto de hora se transforma em uma hora de caminhada. As ruas de pedestres serpenteiam entre as casas antigas."
+    },
+    {
+      "id": 15,
+      "fr": "« On est nulle part si on ne suit pas le bon chemin », dit Irlan. Il indique le chemin sur le plan. « C'est par ici ».",
+      "pt": "Estamos em lugar nenhum se não seguimos o caminho certo, diz Irlan. Ele indica o caminho no mapa. É por aqui."
     }
   ],
   "vocabularyDictionary": [
@@ -75,156 +90,421 @@
       "term": "la tour",
       "definitionPt": "a torre",
       "definitionFr": "Bâtiment haut.",
-      "inflections": ["la tour", "une tour", "des tours"],
-      "ptTargets": ["torre"],
+      "inflections": [
+        "la tour",
+        "une tour",
+        "des tours"
+      ],
+      "ptTargets": [
+        "torre"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La tour est haute.", "pt": "A torre é alta." },
-        { "level": "A2-B1", "fr": "Ils montent dans la grande tour de la ville.", "pt": "Eles sobem na grande torre da cidade." },
-        { "level": "B2", "fr": "Du haut de la tour, on voit toute la ville.", "pt": "Do alto da torre, vê-se a cidade inteira." },
-        { "level": "C1-C2", "fr": "C'est la tour qui, dressée au-dessus des toits, veille sur la ville.", "pt": "É a torre que, erguida acima dos telhados, vigia a cidade." }
+        {
+          "level": "A1",
+          "fr": "La tour est haute.",
+          "pt": "A torre é alta."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Ils montent dans la grande tour de la ville.",
+          "pt": "Eles sobem na grande torre da cidade."
+        },
+        {
+          "level": "B2",
+          "fr": "Du haut de la tour, on voit toute la ville.",
+          "pt": "Do alto da torre, vê-se a cidade inteira."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est la tour qui, dressée au-dessus des toits, veille sur la ville.",
+          "pt": "É a torre que, erguida acima dos telhados, vigia a cidade."
+        }
       ]
     },
     {
       "term": "l'escalier",
       "definitionPt": "a escada",
       "definitionFr": "Suite de marches.",
-      "inflections": ["l'escalier", "un escalier", "des escaliers"],
-      "ptTargets": ["escada"],
+      "inflections": [
+        "l'escalier",
+        "un escalier",
+        "des escaliers"
+      ],
+      "ptTargets": [
+        "escada"
+      ],
       "examples": [
-        { "level": "A1", "fr": "L'escalier est étroit.", "pt": "A escada é estreita." },
-        { "level": "A2-B1", "fr": "Ils montent l'escalier doucement.", "pt": "Eles sobem a escada devagar." },
-        { "level": "B2", "fr": "L'escalier en colimaçon monte jusqu'au sommet.", "pt": "A escada em caracol sobe até o topo." },
-        { "level": "C1-C2", "fr": "C'est l'escalier qui, usé par les pas, raconte des siècles de visites.", "pt": "É a escada que, gasta pelos passos, conta séculos de visitas." }
+        {
+          "level": "A1",
+          "fr": "L'escalier est étroit.",
+          "pt": "A escada é estreita."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Ils montent l'escalier doucement.",
+          "pt": "Eles sobem a escada devagar."
+        },
+        {
+          "level": "B2",
+          "fr": "L'escalier en colimaçon monte jusqu'au sommet.",
+          "pt": "A escada em caracol sobe até o topo."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est l'escalier qui, usé par les pas, raconte des siècles de visites.",
+          "pt": "É a escada que, gasta pelos passos, conta séculos de visitas."
+        }
       ]
     },
     {
       "term": "en haut",
       "definitionPt": "em cima / no alto",
       "definitionFr": "Dans la partie supérieure.",
-      "inflections": ["en haut"],
-      "ptTargets": ["em cima", "no alto"],
+      "inflections": [
+        "en haut"
+      ],
+      "ptTargets": [
+        "em cima",
+        "no alto"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Je suis en haut.", "pt": "Eu estou no alto." },
-        { "level": "A2-B1", "fr": "En haut, le vent souffle fort.", "pt": "Lá em cima, o vento sopra forte." },
-        { "level": "B2", "fr": "En haut, la vue s'étend jusqu'à l'horizon.", "pt": "No alto, a vista se estende até o horizonte." },
-        { "level": "C1-C2", "fr": "C'est en haut que la ville, minuscule, livre enfin son dessin.", "pt": "É no alto que a cidade, minúscula, entrega enfim o seu desenho." }
+        {
+          "level": "A1",
+          "fr": "Je suis en haut.",
+          "pt": "Eu estou no alto."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "En haut, le vent souffle fort.",
+          "pt": "Lá em cima, o vento sopra forte."
+        },
+        {
+          "level": "B2",
+          "fr": "En haut, la vue s'étend jusqu'à l'horizon.",
+          "pt": "No alto, a vista se estende até o horizonte."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est en haut que la ville, minuscule, livre enfin son dessin.",
+          "pt": "É no alto que a cidade, minúscula, entrega enfim o seu desenho."
+        }
       ]
     },
     {
       "term": "le vent",
       "definitionPt": "o vento",
       "definitionFr": "Air qui se déplace.",
-      "inflections": ["le vent", "un vent", "des vents"],
-      "ptTargets": ["vento"],
+      "inflections": [
+        "le vent",
+        "un vent",
+        "des vents"
+      ],
+      "ptTargets": [
+        "vento"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le vent est fort.", "pt": "O vento é forte." },
-        { "level": "A2-B1", "fr": "En haut, le vent souffle fort.", "pt": "Lá em cima, o vento sopra forte." },
-        { "level": "B2", "fr": "Le vent du nord apporte la pluie.", "pt": "O vento do norte traz a chuva." },
-        { "level": "C1-C2", "fr": "C'est le vent qui, venu de loin, porte les odeurs et les pressentiments.", "pt": "É o vento que, vindo de longe, carrega os cheiros e os pressentimentos." }
+        {
+          "level": "A1",
+          "fr": "Le vent est fort.",
+          "pt": "O vento é forte."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "En haut, le vent souffle fort.",
+          "pt": "Lá em cima, o vento sopra forte."
+        },
+        {
+          "level": "B2",
+          "fr": "Le vent du nord apporte la pluie.",
+          "pt": "O vento do norte traz a chuva."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est le vent qui, venu de loin, porte les odeurs et les pressentiments.",
+          "pt": "É o vento que, vindo de longe, carrega os cheiros e os pressentimentos."
+        }
       ]
     },
     {
       "term": "la rue",
       "definitionPt": "a rua",
       "definitionFr": "Voie dans une ville.",
-      "inflections": ["la rue", "une rue", "des rues"],
-      "ptTargets": ["rua"],
+      "inflections": [
+        "la rue",
+        "une rue",
+        "des rues"
+      ],
+      "ptTargets": [
+        "rua"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La rue est calme.", "pt": "A rua é calma." },
-        { "level": "A2-B1", "fr": "Sept grandes rues partent du centre.", "pt": "Sete grandes ruas partem do centro." },
-        { "level": "B2", "fr": "Les rues étroites du centre gardent leur charme ancien.", "pt": "As ruas estreitas do centro guardam seu charme antigo." },
-        { "level": "C1-C2", "fr": "C'est la rue qui, dessinée par l'histoire, guide les pas des promeneurs.", "pt": "É a rua que, desenhada pela história, guia os passos dos caminhantes." }
+        {
+          "level": "A1",
+          "fr": "La rue est calme.",
+          "pt": "A rua é calma."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Sept grandes rues partent du centre.",
+          "pt": "Sete grandes ruas partem do centro."
+        },
+        {
+          "level": "B2",
+          "fr": "Les rues étroites du centre gardent leur charme ancien.",
+          "pt": "As ruas estreitas do centro guardam seu charme antigo."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est la rue qui, dessinée par l'histoire, guide les pas des promeneurs.",
+          "pt": "É a rua que, desenhada pela história, guia os passos dos caminhantes."
+        }
       ]
     },
     {
       "term": "le chiffre",
       "definitionPt": "o número (algarismo)",
       "definitionFr": "Signe qui représente un nombre.",
-      "inflections": ["le chiffre", "un chiffre", "des chiffres"],
-      "ptTargets": ["número", "algarismo"],
+      "inflections": [
+        "le chiffre",
+        "un chiffre",
+        "des chiffres"
+      ],
+      "ptTargets": [
+        "número",
+        "algarismo"
+      ],
       "examples": [
-        { "level": "A1", "fr": "J'écris un chiffre.", "pt": "Eu escrevo um número." },
-        { "level": "A2-B1", "fr": "Les sept chiffres viennent de la rosace.", "pt": "Os sete números vêm da rosácea." },
-        { "level": "B2", "fr": "Ces chiffres, disposés en cercle, forment peut-être un code.", "pt": "Esses números, dispostos em círculo, talvez formem um código." },
-        { "level": "C1-C2", "fr": "C'est le chiffre qui, discret, peut ouvrir une porte ou cacher un secret.", "pt": "É o número que, discreto, pode abrir uma porta ou esconder um segredo." }
+        {
+          "level": "A1",
+          "fr": "J'écris un chiffre.",
+          "pt": "Eu escrevo um número."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Les sept chiffres viennent de la rosace.",
+          "pt": "Os sete números vêm da rosácea."
+        },
+        {
+          "level": "B2",
+          "fr": "Ces chiffres, disposés en cercle, forment peut-être un code.",
+          "pt": "Esses números, dispostos em círculo, talvez formem um código."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est le chiffre qui, discret, peut ouvrir une porte ou cacher un secret.",
+          "pt": "É o número que, discreto, pode abrir uma porta ou esconder um segredo."
+        }
       ]
     },
     {
       "term": "le centre",
       "definitionPt": "o centro",
       "definitionFr": "Milieu d'un espace.",
-      "inflections": ["le centre", "un centre", "des centres"],
-      "ptTargets": ["centro"],
+      "inflections": [
+        "le centre",
+        "un centre",
+        "des centres"
+      ],
+      "ptTargets": [
+        "centro"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le centre est animé.", "pt": "O centro é animado." },
-        { "level": "A2-B1", "fr": "Les rues partent du centre de la ville.", "pt": "As ruas partem do centro da cidade." },
-        { "level": "B2", "fr": "Le centre historique se visite à pied.", "pt": "O centro histórico se visita a pé." },
-        { "level": "C1-C2", "fr": "C'est le centre qui, géométrique, organise la ville et sa mémoire.", "pt": "É o centro que, geométrico, organiza a cidade e sua memória." }
+        {
+          "level": "A1",
+          "fr": "Le centre est animé.",
+          "pt": "O centro é animado."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Les rues partent du centre de la ville.",
+          "pt": "As ruas partem do centro da cidade."
+        },
+        {
+          "level": "B2",
+          "fr": "Le centre historique se visite à pied.",
+          "pt": "O centro histórico se visita a pé."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est le centre qui, géométrique, organise la ville et sa mémoire.",
+          "pt": "É o centro que, geométrico, organiza a cidade e sua memória."
+        }
       ]
     },
     {
       "term": "la carte",
       "definitionPt": "o mapa",
       "definitionFr": "Dessin d'un territoire.",
-      "inflections": ["la carte", "une carte", "des cartes"],
-      "ptTargets": ["mapa"],
+      "inflections": [
+        "la carte",
+        "une carte",
+        "des cartes"
+      ],
+      "ptTargets": [
+        "mapa"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La carte est sur la table.", "pt": "O mapa está sobre a mesa." },
-        { "level": "A2-B1", "fr": "Les chiffres forment peut-être une carte.", "pt": "Os números talvez formem um mapa." },
-        { "level": "B2", "fr": "Une carte ancienne peut révéler un itinéraire oublié.", "pt": "Um mapa antigo pode revelar um itinerário esquecido." },
-        { "level": "C1-C2", "fr": "C'est la carte qui, annotée, devient le miroir d'un voyage.", "pt": "É o mapa que, anotado, vira o espelho de uma viagem." }
+        {
+          "level": "A1",
+          "fr": "La carte est sur la table.",
+          "pt": "O mapa está sobre a mesa."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Les chiffres forment peut-être une carte.",
+          "pt": "Os números talvez formem um mapa."
+        },
+        {
+          "level": "B2",
+          "fr": "Une carte ancienne peut révéler un itinéraire oublié.",
+          "pt": "Um mapa antigo pode revelar um itinerário esquecido."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est la carte qui, annotée, devient le miroir d'un voyage.",
+          "pt": "É o mapa que, anotado, vira o espelho de uma viagem."
+        }
       ]
     },
     {
       "term": "une silhouette",
       "definitionPt": "uma silhueta",
       "definitionFr": "Forme sombre d'une personne.",
-      "inflections": ["la silhouette", "une silhouette", "des silhouettes"],
-      "ptTargets": ["silhueta"],
+      "inflections": [
+        "la silhouette",
+        "une silhouette",
+        "des silhouettes"
+      ],
+      "ptTargets": [
+        "silhueta"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La silhouette est loin.", "pt": "A silhueta está longe." },
-        { "level": "A2-B1", "fr": "Une silhouette en manteau gris traverse la place.", "pt": "Uma silhueta de sobretudo cinza atravessa a praça." },
-        { "level": "B2", "fr": "La silhouette disparaît au coin de la rue.", "pt": "A silhueta desaparece na esquina da rua." },
-        { "level": "C1-C2", "fr": "C'est la silhouette qui, indistincte, transforme la ville en scène de mystère.", "pt": "É a silhueta que, indistinta, transforma a cidade em cena de mistério." }
+        {
+          "level": "A1",
+          "fr": "La silhouette est loin.",
+          "pt": "A silhueta está longe."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Une silhouette en manteau gris traverse la place.",
+          "pt": "Uma silhueta de sobretudo cinza atravessa a praça."
+        },
+        {
+          "level": "B2",
+          "fr": "La silhouette disparaît au coin de la rue.",
+          "pt": "A silhueta desaparece na esquina da rua."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est la silhouette qui, indistincte, transforme la ville en scène de mystère.",
+          "pt": "É a silhueta que, indistinta, transforma a cidade em cena de mistério."
+        }
       ]
     },
     {
       "term": "le manteau",
       "definitionPt": "o sobretudo",
       "definitionFr": "Vêtement long pour le froid.",
-      "inflections": ["le manteau", "un manteau", "des manteaux"],
-      "ptTargets": ["sobretudo", "casaco"],
+      "inflections": [
+        "le manteau",
+        "un manteau",
+        "des manteaux"
+      ],
+      "ptTargets": [
+        "sobretudo",
+        "casaco"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le manteau est gris.", "pt": "O sobretudo é cinza." },
-        { "level": "A2-B1", "fr": "Une silhouette porte un manteau gris.", "pt": "Uma silhueta usa um sobretudo cinza." },
-        { "level": "B2", "fr": "Avec ce froid, un manteau épais est nécessaire.", "pt": "Com esse frio, um sobretudo grosso é necessário." },
-        { "level": "C1-C2", "fr": "C'est le manteau qui, gris et long, rend la silhouette à la fois banale et inquiétante.", "pt": "É o sobretudo que, cinza e longo, torna a silhueta ao mesmo tempo banal e inquietante." }
+        {
+          "level": "A1",
+          "fr": "Le manteau est gris.",
+          "pt": "O sobretudo é cinza."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Une silhouette porte un manteau gris.",
+          "pt": "Uma silhueta usa um sobretudo cinza."
+        },
+        {
+          "level": "B2",
+          "fr": "Avec ce froid, un manteau épais est nécessaire.",
+          "pt": "Com esse frio, um sobretudo grosso é necessário."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est le manteau qui, gris et long, rend la silhouette à la fois banale et inquiétante.",
+          "pt": "É o sobretudo que, cinza e longo, torna a silhueta ao mesmo tempo banal e inquietante."
+        }
       ]
     },
     {
       "term": "observer",
       "definitionPt": "observar",
       "definitionFr": "Regarder avec attention.",
-      "inflections": ["observer", "j'observe", "nous observons"],
-      "ptTargets": ["observar"],
+      "inflections": [
+        "observer",
+        "j'observe",
+        "nous observons"
+      ],
+      "ptTargets": [
+        "observar"
+      ],
       "examples": [
-        { "level": "A1", "fr": "J'observe la ville.", "pt": "Eu observo a cidade." },
-        { "level": "A2-B1", "fr": "Quelqu'un nous observe peut-être.", "pt": "Alguém talvez esteja nos observando." },
-        { "level": "B2", "fr": "Observer les rues aide à comprendre la ville.", "pt": "Observar as ruas ajuda a entender a cidade." },
-        { "level": "C1-C2", "fr": "C'est en observant sans hâte que l'on saisit les détails qui échappent aux autres.", "pt": "É observando sem pressa que se captam os detalhes que escapam aos outros." }
+        {
+          "level": "A1",
+          "fr": "J'observe la ville.",
+          "pt": "Eu observo a cidade."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Quelqu'un nous observe peut-être.",
+          "pt": "Alguém talvez esteja nos observando."
+        },
+        {
+          "level": "B2",
+          "fr": "Observer les rues aide à comprendre la ville.",
+          "pt": "Observar as ruas ajuda a entender a cidade."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est en observant sans hâte que l'on saisit les détails qui échappent aux autres.",
+          "pt": "É observando sem pressa que se captam os detalhes que escapam aos outros."
+        }
       ]
     },
     {
       "term": "disparaître",
       "definitionPt": "desaparecer",
       "definitionFr": "Cesser d'être visible.",
-      "inflections": ["disparaître", "je disparais", "nous disparaissons"],
-      "ptTargets": ["desaparecer"],
+      "inflections": [
+        "disparaître",
+        "je disparais",
+        "nous disparaissons"
+      ],
+      "ptTargets": [
+        "desaparecer"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le soleil disparaît.", "pt": "O sol desaparece." },
-        { "level": "A2-B1", "fr": "La silhouette disparaît dans une ruelle.", "pt": "A silhueta desaparece numa ruela." },
-        { "level": "B2", "fr": "La silhouette disparaît sans laisser de trace.", "pt": "A silhueta desaparece sem deixar rastro." },
-        { "level": "C1-C2", "fr": "C'est en disparaissant que l'inconnu devient une obsession.", "pt": "É desaparecendo que o desconhecido vira uma obsessão." }
+        {
+          "level": "A1",
+          "fr": "Le soleil disparaît.",
+          "pt": "O sol desaparece."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "La silhouette disparaît dans une ruelle.",
+          "pt": "A silhueta desaparece numa ruela."
+        },
+        {
+          "level": "B2",
+          "fr": "La silhouette disparaît sans laisser de trace.",
+          "pt": "A silhueta desaparece sem deixar rastro."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est en disparaissant que l'inconnu devient une obsession.",
+          "pt": "É desaparecendo que o desconhecido vira uma obsessão."
+        }
       ]
     }
   ],
@@ -234,7 +514,11 @@
     "exampleFr": "Un, trois, neuf, zéro, quatre, deux, huit.",
     "examplePt": "Um, três, nove, zero, quatro, dois, oito.",
     "practiceQuestion": "Complete a sequência: 'un, deux, _____, quatre'",
-    "options": ["trois", "cinq", "huit"],
+    "options": [
+      "trois",
+      "cinq",
+      "huit"
+    ],
     "correctIndex": 0,
     "points": [
       {
@@ -243,7 +527,11 @@
         "exampleFr": "Le beffroi est plus haut que la cathédrale.",
         "examplePt": "O campanário é mais alto que a catedral.",
         "practiceQuestion": "Complete: 'La tour est _____ haute que la maison.'",
-        "options": ["plus", "moins", "très"],
+        "options": [
+          "plus",
+          "moins",
+          "très"
+        ],
         "correctIndex": 0
       },
       {
@@ -252,7 +540,11 @@
         "exampleFr": "D'ici, on voit toute la ville.",
         "examplePt": "Daqui, a gente vê a cidade inteira.",
         "practiceQuestion": "Complete: '_____ on voit la cathédrale.'",
-        "options": ["D'ici", "D'hier", "D'abord"],
+        "options": [
+          "D'ici",
+          "D'hier",
+          "D'abord"
+        ],
         "correctIndex": 0
       }
     ]
@@ -260,31 +552,51 @@
   "quizQuestions": [
     {
       "question": "Para onde Irlan e Andréa sobem?",
-      "options": ["o campanário", "a catedral", "o circo"],
+      "options": [
+        "o campanário",
+        "a catedral",
+        "o circo"
+      ],
       "correctIndex": 0,
       "explanation": "Ils montent au beffroi, la grande tour de la ville."
     },
     {
       "question": "O que Irlan percebe do alto?",
-      "options": ["as ruas formam um desenho", "a chuva começa", "o trem parte"],
+      "options": [
+        "as ruas formam um desenho",
+        "a chuva começa",
+        "o trem parte"
+      ],
       "correctIndex": 0,
       "explanation": "Sept grandes rues partent du centre, comme les sept chiffres."
     },
     {
       "question": "O que Irlan e Andréa veem atravessar a praça?",
-      "options": ["uma silhueta de sobretudo cinza", "um cavalo", "um ônibus"],
+      "options": [
+        "uma silhueta de sobretudo cinza",
+        "um cavalo",
+        "um ônibus"
+      ],
       "correctIndex": 0,
       "explanation": "Une silhouette en manteau gris traverse la place."
     },
     {
       "question": "Complete: 'La tour est _____ haute que la maison.'",
-      "options": ["plus", "moins", "très"],
+      "options": [
+        "plus",
+        "moins",
+        "très"
+      ],
       "correctIndex": 0,
       "explanation": "Comparativo com 'plus ... que'."
     },
     {
       "question": "Complete: '_____ on voit la cathédrale.'",
-      "options": ["D'ici", "D'hier", "D'abord"],
+      "options": [
+        "D'ici",
+        "D'hier",
+        "D'abord"
+      ],
       "correctIndex": 0,
       "explanation": "D'ici = daqui."
     }

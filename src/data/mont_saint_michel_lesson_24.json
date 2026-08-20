@@ -69,6 +69,21 @@
       "fr": "« La mer donne le spectacle et la leçon », a dit Andréa. « Elle montre le chemin à ceux qui la respectent. » Le Mont est redevenu une île.",
       "pt": "« O mar dá o espetáculo e a lição », disse Andréa. « Ele mostra o caminho a quem o respeita. » O Mont voltou a ser uma ilha."
     }
+    ,{
+      "id": 13,
+      "fr": "La grande marée monte rapidement. Irlan consulte le planning et prévoit de libérer la chambre avant midi.",
+      "pt": "A grande maré sobe rapidamente. Irlan consulta o cronograma e prevê desocupar o quarto antes do meio-dia."
+    },
+    {
+      "id": 14,
+      "fr": "Andréa vérifie la couverture supplémentaire et la clé magnétique. La réception confirme que tout est en règle.",
+      "pt": "Andréa verifica o cobertor extra e a chave magnética. A recepção confirma que tudo está em ordem."
+    },
+    {
+      "id": 15,
+      "fr": "« Il faut être à l'heure », répète Irlan. Une averse commence, mais le couple garde son calme.",
+      "pt": "É preciso estar no horário, repete Irlan. Um aguaceiro começa, mas o casal mantém a calma."
+    }
   ],
   "vocabularyDictionary": [
     {
@@ -156,7 +171,7 @@
       "inflections": ["la vitesse", "une vitesse", "des vitesses"],
       "ptTargets": ["velocidade"],
       "examples": [
-        { "level": "A1", "fr": "La vitesse est grande.", "pt": "A velocidade é grande." },
+        { "level": "A1", "fr": "Attention à la vitesse !", "pt": "Cuidado com a velocidade!" },
         { "level": "A2-B1", "fr": "On ne croyait pas à la vitesse de la mer.", "pt": "Não se acreditava na velocidade do mar." },
         { "level": "B2", "fr": "La vitesse de l'eau surprend les promeneurs.", "pt": "A velocidade da água surpreende os caminhantes." },
         { "level": "C1-C2", "fr": "À cette vitesse, la mer avance de dix mètres par minute.", "pt": "Nessa velocidade, o mar avança dez metros por minuto." }

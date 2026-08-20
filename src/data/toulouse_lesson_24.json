@@ -5,9 +5,9 @@
   "level": "Intermediário (B2)",
   "titleFr": "La saucisse de Toulouse et la grillade du dimanche",
   "titlePt": "A salsicha de Toulouse e a churrasqueada de domingo",
-  "subtitleFr": "Raconter un repas de famille avec EN et les causes",
-  "subtitlePt": "Contar uma refeição em família com EN e as causas",
-  "summaryPt": "A família é convidada para uma grillade num jardim toulousain. Irlan descobre a verdadeira saucisse de Toulouse, feita de carne de porco e apenas sal e pimenta. Nesta aula B2, o pronome EN e as estruturas causais se combinam para contar um domingo perfeito.",
+  "subtitleFr": "Raconter un repas entre voisins avec EN et les causes",
+  "subtitlePt": "Contar uma refeição entre vizinhos com EN e as causas",
+  "summaryPt": "O casal é convidado para uma grillade num jardim toulousain. Irlan descobre a verdadeira saucisse de Toulouse, feita de carne de porco e apenas sal e pimenta. Nesta aula B2, o pronome EN e as estruturas causais se combinam para contar um domingo perfeito.",
   "paragraphs": [
     {
       "id": 1,
@@ -21,8 +21,8 @@
     },
     {
       "id": 3,
-      "fr": "À la table, les assiettes se remplissaient de haricots, de tomates et de saucisses. « C'est parce que le Sud-Ouest est une terre de viande, expliqua Andréa, qu'on y mange si bien. » Íris, les joues rouges de plaisir, en redemanda.",
-      "pt": "Na mesa, os pratos se enchiam de feijão, tomates e salsichas. « É porque o Sudoeste é uma terra de carne, explicou Andréa, que se come tão bem aqui. » Íris, com as bochechas vermelhas de prazer, pediu mais."
+      "fr": "À la table, les assiettes se remplissaient de haricots, de tomates et de saucisses. « C'est parce que le Sud-Ouest est une terre de viande, expliqua Andréa, qu'on y mange si bien. » Irlan, les joues rouges de plaisir, en redemanda.",
+      "pt": "Na mesa, os pratos se enchiam de feijão, tomates e salsichas. « É porque o Sudoeste é uma terra de carne, explicou Andréa, que se come tão bem aqui. » Irlan, com as bochechas vermelhas de prazer, pediu mais."
     },
     {
       "id": 4,
@@ -33,6 +33,16 @@
       "id": 5,
       "fr": "Le soir, Irlan nota : « En France, on ne mange pas seulement pour se nourrir. On mange pour raconter qui on est. Et moi, j'en apprends chaque jour un peu plus sur le pays qui est devenu le mien. »",
       "pt": "À noite, Irlan anotou: « Na França, não se come apenas para se alimentar. Come-se para contar quem se é. E eu, aprendo um pouco mais a cada dia sobre o país que virou o meu. »"
+    },
+    {
+      "id": 6,
+      "fr": "La grillade permettait de concilier un repas convivial et une préparation simple. Andréa a calculé la proportion de chaque ingrédient, tandis qu'Irlan observait la cuisson avec un calme rassurant.",
+      "pt": "A grelha permitia conciliar uma refeição convivial e uma preparação simples. Andréa calculou a proporção de cada ingrediente, enquanto Irlan observava o cozimento com uma calma tranquilizadora."
+    },
+    {
+      "id": 7,
+      "fr": "Le récit de la recette était cohérent, mais une phrase restait ambiguë. Pour autant, Irlan a décidé de la noter : elle pouvait constituer un indice ultérieur sur le parcours de l'atlas.",
+      "pt": "O relato da receita era coerente, mas uma frase continuava ambígua. Ainda assim, Irlan decidiu anotá-la: ela podia constituir uma pista posterior sobre o percurso do atlas."
     }
   ],
   "vocabularyDictionary": [
@@ -96,7 +106,7 @@
       "ptTargets": ["vizinho", "vizinhos"],
       "examples": [
         { "level": "A1", "fr": "Le voisin est gentil.", "pt": "O vizinho é gentil." },
-        { "level": "A2-B1", "fr": "Les voisins invitent la famille.", "pt": "Os vizinhos convidam a família." },
+        { "level": "A2-B1", "fr": "Les voisins invitent le couple.", "pt": "Os vizinhos convidam o casal." },
         { "level": "B2", "fr": "Les voisins du quartier organisent une grillade chaque dimanche d'été.", "pt": "Os vizinhos do bairro organizam uma churrasqueada todo domingo de verão." },
         { "level": "C1-C2", "fr": "La convivialité de voisinage, si vivante dans le Midi, s'organise autour de la table.", "pt": "A convivialidade de vizinhança, tão viva no Midi, se organiza em torno da mesa." }
       ]
@@ -148,8 +158,8 @@
       "ptTargets": ["prazer", "prazeres"],
       "examples": [
         { "level": "A1", "fr": "Le repas est un plaisir.", "pt": "A refeição é um prazer." },
-        { "level": "A2-B1", "fr": "Íris mange avec plaisir.", "pt": "Íris come com prazer." },
-        { "level": "B2", "fr": "Íris, les joues rouges de plaisir, en redemanda.", "pt": "Íris, com as bochechas vermelhas de prazer, pediu mais." },
+        { "level": "A2-B1", "fr": "Andréa mange avec plaisir.", "pt": "Andréa come com prazer." },
+        { "level": "B2", "fr": "Andréa, les joues rouges de plaisir, en redemanda.", "pt": "Andréa, com as bochechas vermelhas de prazer, pediu mais." },
         { "level": "C1-C2", "fr": "Le plaisir de la table est une philosophie française à part entière.", "pt": "O prazer da mesa é uma filosofia francesa por si só." }
       ]
     },
@@ -187,8 +197,8 @@
       "ptTargets": ["bochecha", "bochechas"],
       "examples": [
         { "level": "A1", "fr": "La joue est rouge.", "pt": "A bochecha é vermelha." },
-        { "level": "A2-B1", "fr": "Íris a les joues rouges.", "pt": "Íris tem as bochechas vermelhas." },
-        { "level": "B2", "fr": "Les joues rouges de plaisir, Íris redemanda une saucisse.", "pt": "Com as bochechas vermelhas de prazer, Íris pediu mais uma salsicha." },
+        { "level": "A2-B1", "fr": "Andréa a les joues rouges.", "pt": "Andréa tem as bochechas vermelhas." },
+        { "level": "B2", "fr": "Les joues rouges de plaisir, Andréa redemanda une saucisse.", "pt": "Com as bochechas vermelhas de prazer, Andréa pediu mais uma salsicha." },
         { "level": "C1-C2", "fr": "Les joues rouges d'un enfant qui mange sont la plus sincère des critiques gastronomiques.", "pt": "As bochechas vermelhas de uma criança que come são a mais sincera das críticas gastronômicas." }
       ]
     }

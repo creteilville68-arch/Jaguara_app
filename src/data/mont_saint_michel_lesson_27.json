@@ -69,6 +69,21 @@
       "fr": "« Alors l'histoire nous montre la sortie », a dit Andréa. « Même dans la prison, il y a une lumière. » Ils sont ressortis, silencieux.",
       "pt": "« Então a história nos mostra a saída », disse Andréa. « Mesmo na prisão, há uma luz. » Eles saíram, silenciosos."
     }
+    ,{
+      "id": 13,
+      "fr": "La Bastille des mers semble isolée. Irlan observe un coffre-fort derrière une porte verrouillée.",
+      "pt": "A Bastilha dos mares parece isolada. Irlan observa um cofre atrás de uma porta trancada."
+    },
+    {
+      "id": 14,
+      "fr": "Un guide raconte que le Mont a été une prison. Andréa se sent gênée devant les conditions des anciens détenus.",
+      "pt": "Um guia conta que o Mont foi uma prisão. Andréa fica sem jeito diante das condições dos antigos detentos."
+    },
+    {
+      "id": 15,
+      "fr": "Irlan reste discret. « Il ne faut pas décliner une invitation quand elle permet de comprendre l'histoire », dit-il.",
+      "pt": "Irlan permanece discreto. Não se deve recusar um convite quando ele permite compreender a história, diz ele."
+    }
   ],
   "vocabularyDictionary": [
     {
@@ -130,7 +145,7 @@
       "inflections": ["la Révolution", "la Révolution française", "révolutionnaire"],
       "ptTargets": ["Revolução"],
       "examples": [
-        { "level": "A1", "fr": "La Révolution est ancienne.", "pt": "A Revolução é antiga." },
+        { "level": "A1", "fr": "La Révolution a commencé en 1789.", "pt": "A Revolução começou em 1789." },
         { "level": "A2-B1", "fr": "Pendant la Révolution, les moines ont quitté le Mont.", "pt": "Durante a Revolução, os monges deixaram o Mont." },
         { "level": "B2", "fr": "La Révolution française a commencé en 1789.", "pt": "A Revolução Francesa começou em 1789." },
         { "level": "C1-C2", "fr": "La Révolution a transformé les églises en prisons et les monastères en casernes.", "pt": "A Revolução transformou igrejas em prisões e mosteiros em quartéis." }

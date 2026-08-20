@@ -1,237 +1,261 @@
 {
   "id": "bordeaux_lesson_19",
   "cityId": "bordeaux",
-  "domain": "Escola e rotina",
+  "domain": "Cotidiano e rotina",
   "level": "Intermediário (B1+)",
-  "titleFr": "L'école d'Iris : une nouvelle rentrée à Bordeaux",
-  "titlePt": "A escola de Íris: um novo ano letivo em Bordeaux",
-  "subtitleFr": "Une nouvelle maîtresse, de nouveaux amis, un nouveau quartier",
-  "subtitlePt": "Uma nova professora, novos amigos, um novo bairro",
-  "summaryPt": "Nesta Aula 19 (B1+), Íris começa o ano numa nova escola em Bordeaux, com uma nova maîtresse e novos amigos. O aluno pratica o vocabulário da escola (l'école, la maîtresse, la récréation) e os pronomes duplos (je le lui donne, je la lui montre).",
+  "titleFr": "Le carnet d'Irlan : dessiner Bordeaux",
+  "titlePt": "O caderno de Irlan: desenhando Bordeaux",
+  "subtitleFr": "Un géographe retrouve son crayon sur les quais de la Garonne",
+  "subtitlePt": "Um geógrafo reencontra seu lápis nos cais do Garonne",
+  "summaryPt": "Nesta Aula 19 (B1+), Irlan desenha Bordeaux num caderno, como fazia em Jaguaquara: a curva do rio, as pontes, o Miroir d'eau. Andréa o observa desenhar e percebe que ele é um geógrafo de verdade — mesmo que ainda trabalhe de scooter. O aluno pratica o vocabulário do desenho e da cartografia (le carnet, la carte, le trait, la légende) e o imparfait para hábitos do passado.",
   "paragraphs": [
     {
       "id": 1,
-      "fr": "« C'est le grand jour ! » a dit Irlan. Iris portait son nouveau cartable. « Je le lui ai préparé hier soir », a confié Andréa. « Il y a des crayons, des cahiers et un petit mot pour la maîtresse. »",
-      "pt": "« É o grande dia! » disse Irlan. Íris carregava sua mochila nova. « Eu a preparei ontem à noite », confidenciou Andréa. « Tem lápis, cadernos e um bilhetinho para a professora. »"
+      "fr": "Le matin, Irlan a posé un carnet sur le parapet des quais. « Je vais dessiner Bordeaux comme je dessinais Jaguaquara », a-t-il dit. Andréa s'est assise à côté de lui : « Tu dessinais ta ville au Brésil ? » « Tous les jours, avant de venir en France. »",
+      "pt": "De manhã, Irlan pôs um caderno no parapeito dos cais. « Vou desenhar Bordeaux como eu desenhava Jaguaquara », disse ele. Andréa sentou-se ao lado dele: « Você desenhava sua cidade no Brasil? » « Todos os dias, antes de vir para a França. »"
     },
     {
       "id": 2,
-      "fr": "La maîtresse, Madame Rivière, a accueilli les élèves dans la cour. « Bienvenue, Iris ! Tu viens de Tours, n'est-ce pas ? » Iris a hoché la tête. « Je leur raconterai tout sur la Touraine », a-t-elle promis à ses nouveaux camarades.",
-      "pt": "A professora, senhora Rivière, recebeu os alunos no pátio. « Bem-vinda, Íris! Você vem de Tours, não é? » Íris assentiu. « Vou contar tudo sobre a Touraine para eles », prometeu aos novos colegas."
+      "fr": "Irlan a commencé par la courbe de la Garonne, puis les ponts, un à un. « Le géographe dessine d'abord l'eau, ensuite la terre », a-t-il expliqué. « L'eau a toujours raison. » Andréa a souri : « C'est une belle façon de voir le monde. »",
+      "pt": "Irlan começou pela curva do Garonne, depois as pontes, uma a uma. « O geógrafo desenha primeiro a água, depois a terra », explicou. « A água tem sempre razão. » Andréa sorriu: « É um belo jeito de ver o mundo. »"
     },
     {
       "id": 3,
-      "fr": "En classe, Iris a dessiné un plan de la France. « Regardez, ici c'est Paris, ici Tours, et ici Bordeaux ! » La maîtresse a souri : « Tu es une petite géographe, comme ton papa. » « Je le lui montrerai ce soir », a dit Iris, fière.",
-      "pt": "Na aula, Íris desenhou um mapa da França. « Olhem, aqui é Paris, aqui Tours, e aqui Bordeaux! » A professora sorriu: « Você é uma pequena geógrafa, como seu pai. » « Vou mostrá-lo a ele esta noite », disse Íris, orgulhosa."
+      "fr": "Sur le dessin, la place de la Bourse se reflétait dans le Miroir d'eau. « Je mets une légende, comme sur les vraies cartes », a dit Irlan. « Ici, un point pour le Miroir. Ici, une croix pour la flèche Saint-Michel. » Il a hésité : « Il manque quelque chose. Une information que la carte ne montre pas. »",
+      "pt": "No desenho, a Praça da Bolsa se refletia no Miroir d'eau. « Coloco uma legenda, como nos mapas de verdade », disse Irlan. « Aqui, um ponto para o Miroir. Aqui, uma cruz para a flecha Saint-Michel. » Ele hesitou: « Falta alguma coisa. Uma informação que o mapa não mostra. »"
     },
     {
       "id": 4,
-      "fr": "À la récréation, les enfants ont joué à la marelle. « Tu joues bien ! » a dit une fille, Salomé. « Merci ! Je la jouais tous les jours à Tours », a répondu Iris. « Demain, je vous l'apprendrai, si vous voulez. »",
-      "pt": "No recreio, as crianças jogaram amarelinha. « Você joga bem! » disse uma menina, Salomé. « Obrigada! Eu jogava todos os dias em Tours », respondeu Íris. « Amanhã, eu a ensino para vocês, se quiserem. »"
+      "fr": "« Qu'est-ce qu'une carte ne montre pas ? » a demandé Andréa. Irlan a regardé l'eau : « Les histoires. Quand j'étais livreur, je traversais Paris sans la voir. Maintenant, je sais que chaque rue a une mémoire. Une carte, c'est de la mémoire dessinée. »",
+      "pt": "« O que um mapa não mostra? » perguntou Andréa. Irlan olhou a água: « As histórias. Quando eu era entregador, atravessava Paris sem vê-la. Agora, sei que cada rua tem uma memória. Um mapa é memória desenhada. »"
     },
     {
       "id": 5,
-      "fr": "Le soir, Iris a raconté sa journée. « J'ai une nouvelle amie, Salomé. Et la maîtresse m'a dit que je parlais bien français. » Irlan a pris sa fille dans ses bras : « Tu vois ? Quand on arrive quelque part, on ne sait pas ce qui nous attend. Mais on apprend, chaque jour, un peu plus. »",
-      "pt": "À noite, Íris contou seu dia. « Tenho uma nova amiga, Salomé. E a professora me disse que eu falava bem francês. » Irlan abraçou a filha: « Viu? Quando se chega num lugar, não se sabe o que nos espera. Mas se aprende, cada dia, um pouco mais. »"
+      "fr": "Dans le coin de la page, Irlan a dessiné une onça, comme il le faisait enfant. « Pourquoi une onça ? » « À Jaguaquara, on disait que la ville s'appelait comme ça à cause d'elle. » Andréa a regardé le dessin : « Alors, elle est un peu chez elle ici aussi. » Irlan a fermé le carnet : « Oui. Et demain, nous irons chercher ce que la carte ne montre pas. »",
+      "pt": "No canto da página, Irlan desenhou uma onça, como fazia quando criança. « Por que uma onça? » « Em Jaguaquara, diziam que a cidade se chamava assim por causa dela. » Andréa olhou o desenho: « Então, ela está um pouco em casa aqui também. » Irlan fechou o caderno: « Sim. E amanhã, iremos procurar o que o mapa não mostra. »"
+    }
+    ,{
+      "id": 6,
+      "fr": "Dans son carnet, Irlan dessine une carte approximative. Il veut clarifier la dimension du quartier et désigner les rues principales.",
+      "pt": "No caderno, Irlan desenha um mapa aproximado. Ele quer esclarecer a dimensão do bairro e indicar as ruas principais."
+    },
+    {
+      "id": 7,
+      "fr": "Andréa constate une ressemblance entre les rues de Bordeaux et celles de Jaguaquara. La similitude lui donne le moral.",
+      "pt": "Andréa constata uma semelhança entre as ruas de Bordeaux e as de Jaguaquara. A similitude melhora seu ânimo."
+    },
+    {
+      "id": 8,
+      "fr": "Irlan reste concentré, malgré une hésitation. « Il faut chercher une solution, même quand l'information est partielle », dit-il.",
+      "pt": "Irlan permanece concentrado, apesar de uma hesitação. É preciso procurar uma solução, mesmo quando a informação é parcial, diz ele."
     }
   ],
   "vocabularyDictionary": [
     {
-      "term": "l'école",
-      "definitionPt": "a escola",
-      "definitionFr": "Lieu où l'on apprend.",
-      "inflections": ["l'école", "une école", "des écoles"],
-      "ptTargets": ["escola"],
+      "term": "le carnet",
+      "definitionPt": "o caderno, a caderneta",
+      "definitionFr": "Petit cahier pour prendre des notes ou dessiner.",
+      "inflections": ["le carnet", "les carnets"],
+      "ptTargets": ["caderno", "caderneta"],
       "examples": [
-        { "level": "A1", "fr": "L'école est grande.", "pt": "A escola é grande." },
-        { "level": "A2-B1", "fr": "Iris va à une nouvelle école.", "pt": "Íris vai a uma nova escola." },
-        { "level": "B2", "fr": "L'école où Iris étudie se trouve près du parc.", "pt": "A escola onde Íris estuda fica perto do parque." },
-        { "level": "C1-C2", "fr": "L'école, premier monde, apprend à l'enfant à vivre avec les autres.", "pt": "A escola, primeiro mundo, ensina a criança a viver com os outros." }
-      ]
-    },
-    {
-      "term": "la maîtresse",
-      "definitionPt": "a professora",
-      "definitionFr": "Enseignante des petits.",
-      "inflections": ["la maîtresse", "une maîtresse", "des maîtresses"],
-      "ptTargets": ["professora", "mestra"],
-      "examples": [
-        { "level": "A1", "fr": "La maîtresse est gentille.", "pt": "A professora é gentil." },
-        { "level": "A2-B1", "fr": "La maîtresse a accueilli les élèves.", "pt": "A professora recebeu os alunos." },
-        { "level": "B2", "fr": "La maîtresse corrige les cahiers avec beaucoup de patience.", "pt": "A professora corrige os cadernos com muita paciência." },
-        { "level": "C1-C2", "fr": "La maîtresse, semeuse d'idées, plante dans les têtes des jardins entiers.", "pt": "A professora, semeadeira de ideias, planta nas cabeças jardins inteiros." }
-      ]
-    },
-    {
-      "term": "la récréation",
-      "definitionPt": "o recreio",
-      "definitionFr": "Pause entre les cours.",
-      "inflections": ["la récréation", "une récréation", "des récréations"],
-      "ptTargets": ["recreio"],
-      "examples": [
-        { "level": "A1", "fr": "La récréation est courte.", "pt": "O recreio é curto." },
-        { "level": "A2-B1", "fr": "Les enfants jouent à la récréation.", "pt": "As crianças brincam no recreio." },
-        { "level": "B2", "fr": "La récréation pendant laquelle on joue dure vingt minutes.", "pt": "O recreio durante o qual se brinca dura vinte minutos." },
-        { "level": "C1-C2", "fr": "La récréation, royaume des enfants, suspend les règles du monde adulte.", "pt": "O recreio, reino das crianças, suspende as regras do mundo adulto." }
-      ]
-    },
-    {
-      "term": "le cartable",
-      "definitionPt": "a mochila escolar",
-      "definitionFr": "Sac d'écolier.",
-      "inflections": ["le cartable", "un cartable", "des cartables"],
-      "ptTargets": ["mochila escolar", "mochila"],
-      "examples": [
-        { "level": "A1", "fr": "Le cartable est rouge.", "pt": "A mochila é vermelha." },
-        { "level": "A2-B1", "fr": "Iris porte son nouveau cartable.", "pt": "Íris carrega sua mochila nova." },
-        { "level": "B2", "fr": "Le cartable que l'on a préparé est prêt.", "pt": "A mochila que se preparou está pronta." },
-        { "level": "C1-C2", "fr": "Le cartable, monde portatif, transporte l'école sur le dos des enfants.", "pt": "A mochila, mundo portátil, transporta a escola nas costas das crianças." }
-      ]
-    },
-    {
-      "term": "le camarade",
-      "definitionPt": "o colega",
-      "definitionFr": "Compagnon d'école.",
-      "inflections": ["le camarade", "un camarade", "des camarades"],
-      "ptTargets": ["colega"],
-      "examples": [
-        { "level": "A1", "fr": "Le camarade est sympa.", "pt": "O colega é legal." },
-        { "level": "A2-B1", "fr": "Iris a fait de nouveaux camarades.", "pt": "Íris fez novos colegas." },
-        { "level": "B2", "fr": "Les camarades avec qui l'on joue deviennent des amis.", "pt": "Os colegas com quem se brinca viram amigos." },
-        { "level": "C1-C2", "fr": "Le camarade, compagnon de route, partage les bancs et les souvenirs.", "pt": "O colega, companheiro de estrada, partilha os bancos e as lembranças." }
-      ]
-    },
-    {
-      "term": "la marelle",
-      "definitionPt": "a amarelinha",
-      "definitionFr": "Jeu d'enfants tracé au sol.",
-      "inflections": ["la marelle", "une marelle", "des marelles"],
-      "ptTargets": ["amarelinha"],
-      "examples": [
-        { "level": "A1", "fr": "La marelle est sur le sol.", "pt": "A amarelinha está no chão." },
-        { "level": "A2-B1", "fr": "Les enfants jouent à la marelle.", "pt": "As crianças jogam amarelinha." },
-        { "level": "B2", "fr": "La marelle sur laquelle on joue est tracée à la craie.", "pt": "A amarelinha na qual se joga é desenhada com giz." },
-        { "level": "C1-C2", "fr": "La marelle, échelle de craie, fait monter les enfants vers le ciel.", "pt": "A amarelinha, escada de giz, faz as crianças subirem ao céu." }
+        { "level": "A1", "fr": "Le carnet est sur la table.", "pt": "O caderno está na mesa." },
+        { "level": "A2-B1", "fr": "Irlan dessine dans son carnet.", "pt": "Irlan desenha no caderno dele." },
+        { "level": "B2", "fr": "Le carnet, qui ne le quitte jamais, garde toutes ses cartes.", "pt": "O caderno, que nunca o deixa, guarda todos os mapas dele." },
+        { "level": "C1-C2", "fr": "Le carnet de voyage est une mémoire de papier que l'on remplit avec les yeux.", "pt": "O caderno de viagem é uma memória de papel que se preenche com os olhos." }
       ]
     },
     {
       "term": "dessiner",
       "definitionPt": "desenhar",
-      "definitionFr": "Tracer des formes.",
-      "inflections": ["je dessine", "tu dessines", "il dessine", "nous dessinons"],
-      "ptTargets": ["desenhar"],
+      "definitionFr": "Tracer des formes avec un crayon.",
+      "inflections": ["je dessine", "nous dessinons"],
+      "ptTargets": ["desenhar", "desenha"],
       "examples": [
-        { "level": "A1", "fr": "Je dessine une fleur.", "pt": "Eu desenho uma flor." },
-        { "level": "A2-B1", "fr": "Iris a dessiné un plan de la France.", "pt": "Íris desenhou um mapa da França." },
-        { "level": "B2", "fr": "Le plan qu'elle a dessiné est très précis.", "pt": "O mapa que ela desenhou é muito preciso." },
-        { "level": "C1-C2", "fr": "Dessiner, geste d'enfance, redonne au monde sa forme la plus simple.", "pt": "Desenhar, gesto de infância, devolve ao mundo sua forma mais simples." }
+        { "level": "A1", "fr": "J'aime dessiner des animaux.", "pt": "Eu gosto de desenhar animais." },
+        { "level": "A2-B1", "fr": "Irlan dessine la courbe du fleuve.", "pt": "Irlan desenha a curva do rio." },
+        { "level": "B2", "fr": "Dessiner une carte demande de l'observation et de la patience.", "pt": "Desenhar um mapa exige observação e paciência." },
+        { "level": "C1-C2", "fr": "Dessiner, c'est apprendre à regarder le monde deux fois.", "pt": "Desenhar é aprender a olhar o mundo duas vezes." }
       ]
     },
     {
-      "term": "fier",
-      "definitionPt": "orgulhoso",
-      "definitionFr": "Content et heureux de soi.",
-      "inflections": ["fier", "fière", "fiers", "fières"],
-      "ptTargets": ["orgulhoso"],
+      "term": "la carte",
+      "definitionPt": "o mapa; o cartão",
+      "definitionFr": "Dessin représentant un territoire.",
+      "inflections": ["la carte", "les cartes"],
+      "ptTargets": ["mapa", "carta", "cartão"],
       "examples": [
-        { "level": "A1", "fr": "Je suis fier de toi.", "pt": "Eu estou orgulhoso de você." },
-        { "level": "A2-B1", "fr": "Iris était fière de son dessin.", "pt": "Íris estava orgulhosa de seu desenho." },
-        { "level": "B2", "fr": "Les parents, fiers de leur fille, la regardaient sourire.", "pt": "Os pais, orgulhosos da filha, a olhavam sorrir." },
-        { "level": "C1-C2", "fr": "Fier, sentiment de lumière, éclaire le visage de ceux qui ont osé.", "pt": "Orgulhoso, sentimento de luz, ilumina o rosto dos que ousaram." }
+        { "level": "A1", "fr": "La carte est sur le mur.", "pt": "O mapa está na parede." },
+        { "level": "A2-B1", "fr": "Cette carte montre les quais de Bordeaux.", "pt": "Este mapa mostra os cais de Bordeaux." },
+        { "level": "B2", "fr": "La carte que dessine Irlan raconte l'histoire de la ville.", "pt": "O mapa que Irlan desenha conta a história da cidade." },
+        { "level": "C1-C2", "fr": "Une carte est une conversation entre le lieu et celui qui la lit.", "pt": "Um mapa é uma conversa entre o lugar e quem o lê." }
       ]
     },
     {
-      "term": "raconter",
-      "definitionPt": "contar",
-      "definitionFr": "Dire une histoire.",
-      "inflections": ["je raconte", "tu racontes", "il raconte", "nous racontons"],
-      "ptTargets": ["contar"],
+      "term": "le trait",
+      "definitionPt": "o traço, a linha",
+      "definitionFr": "Ligne tracée sur un dessin.",
+      "inflections": ["le trait", "les traits"],
+      "ptTargets": ["traço", "linha"],
       "examples": [
-        { "level": "A1", "fr": "Je raconte mon jour.", "pt": "Eu conto meu dia." },
-        { "level": "A2-B1", "fr": "Iris a raconté sa journée.", "pt": "Íris contou seu dia." },
-        { "level": "B2", "fr": "Les histoires que l'on raconte deviennent vraies.", "pt": "As histórias que se contam viram verdade." },
-        { "level": "C1-C2", "fr": "Raconter, art du partage, transforme la vie en histoire pour les autres.", "pt": "Contar, arte da partilha, transforma a vida em história para os outros." }
+        { "level": "A1", "fr": "Le trait est droit.", "pt": "O traço é reto." },
+        { "level": "A2-B1", "fr": "Un trait fin représente la rivière.", "pt": "Um traço fino representa o rio." },
+        { "level": "B2", "fr": "Le trait, qui suit la rive, donne sa forme à la carte.", "pt": "O traço, que segue a margem, dá forma ao mapa." },
+        { "level": "C1-C2", "fr": "Chaque trait d'un cartographe est une décision sur ce qu'il faut garder du réel.", "pt": "Cada traço de um cartógrafo é uma decisão sobre o que guardar do real." }
       ]
     },
     {
-      "term": "le crayon",
-      "definitionPt": "o lápis",
-      "definitionFr": "Instrument pour écrire.",
-      "inflections": ["le crayon", "un crayon", "des crayons"],
-      "ptTargets": ["lápis"],
+      "term": "la légende",
+      "definitionPt": "a legenda",
+      "definitionFr": "Explication des symboles d'une carte.",
+      "inflections": ["la légende", "les légendes"],
+      "ptTargets": ["legenda"],
       "examples": [
-        { "level": "A1", "fr": "Le crayon est jaune.", "pt": "O lápis é amarelo." },
-        { "level": "A2-B1", "fr": "Le cartable est plein de crayons.", "pt": "A mochila está cheia de lápis." },
-        { "level": "B2", "fr": "Les crayons que l'on a achetés sont de toutes les couleurs.", "pt": "Os lápis que se compraram são de todas as cores." },
-        { "level": "C1-C2", "fr": "Le crayon, baguette de bois, écrit les rêves avant de les vivre.", "pt": "O lápis, varinha de madeira, escreve os sonhos antes de vivê-los." }
+        { "level": "A1", "fr": "La légende est en bas de la carte.", "pt": "A legenda fica embaixo do mapa." },
+        { "level": "A2-B1", "fr": "Sans légende, on ne comprend pas la carte.", "pt": "Sem legenda, não se entende o mapa." },
+        { "level": "B2", "fr": "La légende, qui explique chaque symbole, est l'âme de la carte.", "pt": "A legenda, que explica cada símbolo, é a alma do mapa." },
+        { "level": "C1-C2", "fr": "Toute carte sans légende est un mystère ; toute vie sans repères est un labyrinthe.", "pt": "Todo mapa sem legenda é um mistério; toda vida sem referências é um labirinto." }
       ]
     },
     {
-      "term": "la craie",
-      "definitionPt": "o giz",
-      "definitionFr": "Bâton blanc pour écrire au tableau.",
-      "inflections": ["la craie", "une craie", "des craies"],
-      "ptTargets": ["giz"],
+      "term": "l'échelle",
+      "definitionPt": "a escala",
+      "definitionFr": "Rapport entre les distances réelles et celles de la carte.",
+      "inflections": ["l'échelle", "les échelles"],
+      "ptTargets": ["escala"],
       "examples": [
-        { "level": "A1", "fr": "La craie est blanche.", "pt": "O giz é branco." },
-        { "level": "A2-B1", "fr": "On trace la marelle à la craie.", "pt": "Desenha-se a amarelinha com giz." },
-        { "level": "B2", "fr": "Les lignes que l'on fait à la craie s'effacent avec la pluie.", "pt": "As linhas que se fazem com giz apagam-se com a chuva." },
-        { "level": "C1-C2", "fr": "La craie, poussière qui écrit, dessine le savoir avant de s'envoler.", "pt": "O giz, poeira que escreve, desenha o saber antes de voar." }
+        { "level": "A1", "fr": "L'échelle est écrite en bas.", "pt": "A escala está escrita embaixo." },
+        { "level": "A2-B1", "fr": "À cette échelle, un centimètre vaut un kilomètre.", "pt": "Nesta escala, um centímetro vale um quilômetro." },
+        { "level": "B2", "fr": "L'échelle, qui réduit le monde, demande au lecteur de lui faire confiance.", "pt": "A escala, que reduz o mundo, pede que o leitor confie nela." },
+        { "level": "C1-C2", "fr": "Choisir une échelle, c'est choisir ce que l'on veut raconter du territoire.", "pt": "Escolher uma escala é escolher o que se quer contar do território." }
       ]
     },
     {
-      "term": "l'accueil",
-      "definitionPt": "a recepção, o acolhimento",
-      "definitionFr": "Action de recevoir quelqu'un.",
-      "inflections": ["l'accueil", "un accueil"],
-      "ptTargets": ["recepção", "acolhimento"],
+      "term": "le quartier",
+      "definitionPt": "o bairro",
+      "definitionFr": "Partie d'une ville.",
+      "inflections": ["le quartier", "les quartiers"],
+      "ptTargets": ["bairro"],
       "examples": [
-        { "level": "A1", "fr": "L'accueil est chaleureux.", "pt": "A recepção é calorosa." },
-        { "level": "A2-B1", "fr": "L'accueil de la maîtresse était gentil.", "pt": "A recepção da professora foi gentil." },
-        { "level": "B2", "fr": "L'accueil que l'on reçoit ici est parfait.", "pt": "A recepção que se recebe aqui é perfeita." },
-        { "level": "C1-C2", "fr": "L'accueil, première parole, décide de la couleur de tout un séjour.", "pt": "A recepção, primeira palavra, decide a cor de toda uma estadia." }
+        { "level": "A1", "fr": "J'habite dans ce quartier.", "pt": "Eu moro neste bairro." },
+        { "level": "A2-B1", "fr": "Le quartier des Chartrons est près du fleuve.", "pt": "O bairro dos Chartrons fica perto do rio." },
+        { "level": "B2", "fr": "Chaque quartier, avec sa lumière et ses bruits, a une personnalité.", "pt": "Cada bairro, com sua luz e seus ruídos, tem uma personalidade." },
+        { "level": "C1-C2", "fr": "Dessiner un quartier, c'est en révéler la respiration invisible.", "pt": "Desenhar um bairro é revelar a respiração invisível dele." }
+      ]
+    },
+    {
+      "term": "la rive",
+      "definitionPt": "a margem",
+      "definitionFr": "Bord d'un cours d'eau.",
+      "inflections": ["la rive", "les rives"],
+      "ptTargets": ["margem"],
+      "examples": [
+        { "level": "A1", "fr": "La rive est verte.", "pt": "A margem é verde." },
+        { "level": "A2-B1", "fr": "Le couple marche le long de la rive.", "pt": "O casal caminha ao longo da margem." },
+        { "level": "B2", "fr": "La rive droite et la rive gauche racontent deux histoires de la ville.", "pt": "A margem direita e a margem esquerda contam duas histórias da cidade." },
+        { "level": "C1-C2", "fr": "Toute ville de fleuve se lit d'abord par ses rives.", "pt": "Toda cidade de rio se lê primeiro pelas margens." }
+      ]
+    },
+    {
+      "term": "mesurer",
+      "definitionPt": "medir",
+      "definitionFr": "Évaluer une grandeur.",
+      "inflections": ["je mesure", "nous mesurons"],
+      "ptTargets": ["medir", "mede"],
+      "examples": [
+        { "level": "A1", "fr": "Je mesure la table.", "pt": "Eu meço a mesa." },
+        { "level": "A2-B1", "fr": "Le géographe mesure la distance entre les ponts.", "pt": "O geógrafo mede a distância entre as pontes." },
+        { "level": "B2", "fr": "Mesurer, c'est commencer à comprendre.", "pt": "Medir é começar a compreender." },
+        { "level": "C1-C2", "fr": "On ne mesure pas un territoire : on mesure le regard qu'on pose sur lui.", "pt": "Não se mede um território: mede-se o olhar que se põe sobre ele." }
+      ]
+    },
+    {
+      "term": "repérer",
+      "definitionPt": "localizar, situar",
+      "definitionFr": "Trouver la position de quelque chose.",
+      "inflections": ["je repère", "nous repérons"],
+      "ptTargets": ["localizar", "situar", "localiza"],
+      "examples": [
+        { "level": "A1", "fr": "Je repère la gare sur le plan.", "pt": "Eu localizo a estação no mapa." },
+        { "level": "A2-B1", "fr": "On repère facilement le Miroir d'eau sur la carte.", "pt": "Localiza-se facilmente o Miroir d'eau no mapa." },
+        { "level": "B2", "fr": "Repérer les points de repère, c'est le premier geste du voyageur.", "pt": "Localizar os pontos de referência é o primeiro gesto do viajante." },
+        { "level": "C1-C2", "fr": "Savoir repérer, c'est savoir se situer dans l'espace comme dans le temps.", "pt": "Saber localizar é saber situar-se no espaço como no tempo." }
+      ]
+    },
+    {
+      "term": "le croquis",
+      "definitionPt": "o esboço, o croqui",
+      "definitionFr": "Dessin rapide, souvent préparatoire.",
+      "inflections": ["le croquis", "les croquis"],
+      "ptTargets": ["esboço", "croqui"],
+      "examples": [
+        { "level": "A1", "fr": "Le croquis est rapide.", "pt": "O esboço é rápido." },
+        { "level": "A2-B1", "fr": "Irlan fait un croquis de la place.", "pt": "Irlan faz um esboço da praça." },
+        { "level": "B2", "fr": "Le croquis, fait sur le vif, garde l'essentiel du paysage.", "pt": "O esboço, feito ao vivo, guarda o essencial da paisagem." },
+        { "level": "C1-C2", "fr": "Le croquis du géographe est une pensée qui se dessine avant de devenir carte.", "pt": "O esboço do geógrafo é um pensamento que se desenha antes de virar mapa." }
+      ]
+    },
+    {
+      "term": "la mémoire",
+      "definitionPt": "a memória",
+      "definitionFr": "Capacité de se souvenir ; souvenir.",
+      "inflections": ["la mémoire", "les mémoires"],
+      "ptTargets": ["memória"],
+      "examples": [
+        { "level": "A1", "fr": "J'ai une bonne mémoire.", "pt": "Eu tenho boa memória." },
+        { "level": "A2-B1", "fr": "Chaque rue de la ville garde une mémoire.", "pt": "Cada rua da cidade guarda uma memória." },
+        { "level": "B2", "fr": "La mémoire, qui transforme le passé en guide, éclaire nos choix.", "pt": "A memória, que transforma o passado em guia, ilumina nossas escolhas." },
+        { "level": "C1-C2", "fr": "Une ville sans mémoire est une carte sans légende.", "pt": "Uma cidade sem memória é um mapa sem legenda." }
       ]
     }
   ],
   "grammarTip": {
-    "titleFr": "Les pronoms doubles : je le lui donne",
-    "titlePt": "Os pronomes duplos: je le lui donne",
+    "titleFr": "L'imparfait pour les habitudes passées",
+    "titlePt": "O imparfait para hábitos do passado",
     "points": [
       {
-        "fr": "Deux pronoms peuvent se suivre : « Je le lui ai préparé » (eu o preparei para ela), « Je le lui montrerai » (eu o mostrarei a ele/ela). Ordre : COD puis COI.",
-        "pt": "Dois pronomes podem vir juntos: « Je le lui ai préparé » (eu o preparei para ela), « Je le lui montrerai » (eu o mostrarei a ele/ela). Ordem: COD depois COI."
+        "fr": "L'imparfait décrit des habitudes ou des situations passées : « Je dessinais ma ville tous les jours » (eu desenhava minha cidade todos os dias), « Quand j'étais livreur, je traversais Paris sans la voir » (quando eu era entregador, atravessava Paris sem vê-la).",
+        "pt": "O imparfait descreve hábitos ou situações passadas: « Je dessinais ma ville tous les jours » (eu desenhava minha cidade todos os dias), « Quand j'étais livreur, je traversais Paris sans la voir » (quando eu era entregador, atravessava Paris sem vê-la)."
       },
       {
-        "fr": "Exemples : « Je te le donne » (eu te dou isto), « Je la lui montre » (eu a mostro a ele/ela), « Je vous les apprendrai » (eu os ensinarei a vocês).",
-        "pt": "Exemplos: « Je te le donne » (eu te dou isto), « Je la lui montre » (eu a mostro a ele/ela), « Je vous les apprendrai » (eu os ensinarei a vocês)."
+        "fr": "Formation : radical de la 1ʳᵉ personne du pluriel + -ais, -ais, -ait, -ions, -iez, -aient. « Nous dessinions », « il dessinait », « ils regardaient ».",
+        "pt": "Formação: radical da 1ª pessoa do plural + -ais, -ais, -ait, -ions, -iez, -aient. « Nous dessinions », « il dessinait », « ils regardaient »."
+      },
+      {
+        "fr": "L'imparfait s'oppose au passé composé : l'imparfait dure (« il dessinait »), le passé composé marque l'événement (« il a fermé le carnet »).",
+        "pt": "O imparfait se opõe ao passé composé: o imparfait dura (« il dessinait »), o passé composé marca o acontecimento (« il a fermé le carnet »)."
       }
     ]
   },
   "quizQuestions": [
     {
-      "question": "Quem é a nova professora de Íris ?",
-      "options": ["Madame Rivière", "Madame Lefèvre", "Madame Dupont", "Madame Martin"],
-      "correctIndex": 0
+      "question": "O que Irlan desenha no cais?",
+      "options": ["Bordeaux, como fazia com Jaguaquara", "Um retrato de Andréa", "Um navio", "Um monumento"],
+      "correctIndex": 0,
+      "explanation": "Irlan dessine Bordeaux comme il dessinait Jaguaquara."
     },
     {
-      "question": "O que Íris desenhou na aula ?",
-      "options": ["Um mapa da França", "Uma casa", "Uma scooter", "Um gato"],
-      "correctIndex": 0
+      "question": "O que o geógrafo desenha primeiro, segundo Irlan?",
+      "options": ["A água", "As casas", "As estradas", "As pessoas"],
+      "correctIndex": 0,
+      "explanation": "« Le géographe dessine d'abord l'eau, ensuite la terre. »"
     },
     {
-      "question": "Como se chama a nova amiga de Íris ?",
-      "options": ["Salomé", "Camille", "Juliette", "Manon"],
-      "correctIndex": 0
+      "question": "O que Irlan colocou no desenho, como nos mapas de verdade?",
+      "options": ["Uma legenda", "Um selo", "Uma assinatura", "Um código de barras"],
+      "correctIndex": 0,
+      "explanation": "Irlan met une légende, comme sur les vraies cartes."
     },
     {
-      "question": "O que as crianças jogaram no recreio ?",
-      "options": ["Marelle (amarelinha)", "Futebol", "Esconde-esconde", "Pega-pega"],
-      "correctIndex": 0
+      "question": "O que Andréa diz que é uma carta, na conversa do cais?",
+      "options": ["Memória desenhada", "Uma decoração", "Um documento oficial", "Um presente"],
+      "correctIndex": 0,
+      "explanation": "« Une carte, c'est de la mémoire dessinée. »"
     },
     {
-      "question": "O que Andréa preparou no cartable ?",
-      "options": ["Lápis, cadernos e um bilhete", "Um lanche", "Um brinquedo", "Uma foto"],
-      "correctIndex": 0
+      "question": "O que Irlan desenhou no canto da página?",
+      "options": ["Uma onça", "Uma estrela", "Um barco", "Uma flor"],
+      "correctIndex": 0,
+      "explanation": "Dans le coin de la page, Irlan a dessiné une onça, comme il le faisait enfant."
     }
   ]
 }

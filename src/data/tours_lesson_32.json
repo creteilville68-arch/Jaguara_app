@@ -5,14 +5,14 @@
   "level": "Intermediário (B1)",
   "titleFr": "La scooter d'Irlan : une promenade sur les quais",
   "titlePt": "A scooter de Irlan: um passeio pelos cais",
-  "subtitleFr": "Le véhicule qui a traversé la France avec la famille",
-  "subtitlePt": "O veículo que atravessou a França com a família",
-  "summaryPt": "Nesta Aula 32 (B1), Irlan leva Iris para um passeio de scooter pelos quais da Loire e conta a história do veículo que o acompanha desde Paris. O aluno pratica o vocabulário da scooter (le casque, le guidon, rouler, démarrer) e as expressões de memória (se rappeler, se souvenir).",
+  "subtitleFr": "Le véhicule qui a traversé la France avec le couple",
+  "subtitlePt": "O veículo que atravessou a França com o casal",
+  "summaryPt": "Nesta Aula 32 (B1), Irlan leva Andréa para um passeio de scooter pelos quais da Loire e conta a história do veículo que o acompanha desde Paris. O aluno pratica o vocabulário da scooter (le casque, le guidon, rouler, démarrer) e as expressões de memória (se rappeler, se souvenir).",
   "paragraphs": [
     {
       "id": 1,
-      "fr": "« Viens, Iris : aujourd'hui, tu vas découvrir Tours en scooter avec moi », a dit Irlan. « Mais d'abord, le casque ! » Iris a mis le casque, un peu trop grand, et a éclaté de rire.",
-      "pt": "« Vem, Íris: hoje, você vai descobrir Tours de scooter comigo », disse Irlan. « Mas primeiro, o capacete! » Íris colocou o capacete, um pouco grande demais, e caiu na risada."
+      "fr": "« Viens, Andréa : aujourd'hui, tu vas découvrir Tours en scooter avec moi », a dit Irlan. « Mais d'abord, le casque ! » Andréa a mis le casque, un peu trop grand, et a éclaté de rire.",
+      "pt": "« Vem, Andréa: hoje, você vai descobrir Tours de scooter comigo », disse Irlan. « Mas primeiro, o capacete! » Andréa colocou o capacete, um pouco grande demais, e caiu na risada."
     },
     {
       "id": 2,
@@ -31,8 +31,23 @@
     },
     {
       "id": 5,
-      "fr": "Le soir, Iris a dit : « Papa, quand je serai grande, je veux une scooter comme la tienne. » Irlan a souri : « La tienne sera plus moderne, j'en suis sûr. Mais elle n'aura jamais plus d'histoires que la mienne. »",
-      "pt": "À noite, Íris disse: « Papai, quando eu crescer, quero uma scooter como a sua. » Irlan sorriu: « A sua será mais moderna, tenho certeza. Mas nunca terá mais histórias que a minha. »"
+      "fr": "Le soir, Andréa a dit : « Cette scooter a traversé toute ta vie française. » Irlan a souri : « Oui. Et maintenant, elle traverse la nôtre. »",
+      "pt": "À noite, Andréa disse: « Esta scooter atravessou toda a sua vida francesa. » Irlan sorriu: « Sim. E agora, ela atravessa a nossa. »"
+    },
+    {
+      "id": 6,
+      "fr": "Irlan promène sa scooter sur les quais de la Loire. Le vent est favorable et la balade est agréable.",
+      "pt": "Irlan passeia de scooter pelas margens do Loire. O vento é favorável e o passeio é agradável."
+    },
+    {
+      "id": 7,
+      "fr": "Andréa prend des photos avec son téléphone. « Il faut retenir ces moments », dit-elle en souriant.",
+      "pt": "Andréa tira fotos com o celular. É preciso reter esses momentos, diz ela sorrindo."
+    },
+    {
+      "id": 8,
+      "fr": "Irlan remarque que le scooter est performant et fiable. « C'est un véhicule nécessaire pour le voyage », observe-t-il.",
+      "pt": "Irlan observa que o scooter é de alto desempenho e confiável. É um veículo necessário para a viagem, observa ele."
     }
   ],
   "vocabularyDictionary": [
@@ -40,156 +55,426 @@
       "term": "la scooter",
       "definitionPt": "a scooter, a motoneta",
       "definitionFr": "Petite moto urbaine.",
-      "inflections": ["la scooter", "une scooter", "des scooters"],
-      "ptTargets": ["scooter", "motoneta"],
+      "inflections": [
+        "la scooter",
+        "une scooter",
+        "des scooters"
+      ],
+      "ptTargets": [
+        "scooter",
+        "motoneta"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La scooter est rouge.", "pt": "A scooter é vermelha." },
-        { "level": "A2-B1", "fr": "La scooter d'Irlan a traversé la France.", "pt": "A scooter de Irlan atravessou a França." },
-        { "level": "B2", "fr": "La scooter avec laquelle Irlan travaillait est fidèle.", "pt": "A scooter com que Irlan trabalhava é fiel." },
-        { "level": "C1-C2", "fr": "La scooter, cheval de fer, porte son cavalier dans les rues du monde.", "pt": "A scooter, cavalo de ferro, carrega seu cavaleiro pelas ruas do mundo." }
+        {
+          "level": "A1",
+          "fr": "La scooter est rouge.",
+          "pt": "A scooter é vermelha."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "La scooter d'Irlan a traversé la France.",
+          "pt": "A scooter de Irlan atravessou a França."
+        },
+        {
+          "level": "B2",
+          "fr": "La scooter avec laquelle Irlan travaillait est fidèle.",
+          "pt": "A scooter com que Irlan trabalhava é fiel."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "La scooter, cheval de fer, porte son cavalier dans les rues du monde.",
+          "pt": "A scooter, cavalo de ferro, carrega seu cavaleiro pelas ruas do mundo."
+        }
       ]
     },
     {
       "term": "le casque",
       "definitionPt": "o capacete",
       "definitionFr": "Protection pour la tête.",
-      "inflections": ["le casque", "un casque", "des casques"],
-      "ptTargets": ["capacete"],
+      "inflections": [
+        "le casque",
+        "un casque",
+        "des casques"
+      ],
+      "ptTargets": [
+        "capacete"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le casque est blanc.", "pt": "O capacete é branco." },
-        { "level": "A2-B1", "fr": "Iris a mis le casque avant de partir.", "pt": "Íris colocou o capacete antes de partir." },
-        { "level": "B2", "fr": "Le casque que tu portes protège ta tête.", "pt": "O capacete que você usa protege sua cabeça." },
-        { "level": "C1-C2", "fr": "Le casque, armure du citadin, rend la liberté plus sûre.", "pt": "O capacete, armadura do citadino, torna a liberdade mais segura." }
+        {
+          "level": "A1",
+          "fr": "Le casque est blanc.",
+          "pt": "O capacete é branco."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Nous avons mis le casque avant de partir.",
+          "pt": "Colocamos o capacete antes de partir."
+        },
+        {
+          "level": "B2",
+          "fr": "Le casque que tu portes protège ta tête.",
+          "pt": "O capacete que você usa protege sua cabeça."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Le casque, armure du citadin, rend la liberté plus sûre.",
+          "pt": "O capacete, armadura do citadino, torna a liberdade mais segura."
+        }
       ]
     },
     {
       "term": "le guidon",
       "definitionPt": "o guidão",
       "definitionFr": "Partie de la scooter que l'on tient.",
-      "inflections": ["le guidon", "un guidon", "des guidons"],
-      "ptTargets": ["guidão"],
+      "inflections": [
+        "le guidon",
+        "un guidon",
+        "des guidons"
+      ],
+      "ptTargets": [
+        "guidão"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le guidon est noir.", "pt": "O guidão é preto." },
-        { "level": "A2-B1", "fr": "Irlan tient le guidon fermement.", "pt": "Irlan segura o guidão firmemente." },
-        { "level": "B2", "fr": "Le guidon que l'on tient guide la route.", "pt": "O guidão que se segura guia a estrada." },
-        { "level": "C1-C2", "fr": "Le guidon, prolongement des mains, écoute les virages avant les yeux.", "pt": "O guidão, prolongamento das mãos, ouve as curvas antes dos olhos." }
+        {
+          "level": "A1",
+          "fr": "Le guidon est noir.",
+          "pt": "O guidão é preto."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Irlan tient le guidon fermement.",
+          "pt": "Irlan segura o guidão firmemente."
+        },
+        {
+          "level": "B2",
+          "fr": "Le guidon que l'on tient guide la route.",
+          "pt": "O guidão que se segura guia a estrada."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Le guidon, prolongement des mains, écoute les virages avant les yeux.",
+          "pt": "O guidão, prolongamento das mãos, ouve as curvas antes dos olhos."
+        }
       ]
     },
     {
       "term": "démarrer",
       "definitionPt": "dar partida, ligar",
       "definitionFr": "Mettre en marche un moteur.",
-      "inflections": ["je démarre", "tu démarres", "il démarre", "nous démarrons"],
-      "ptTargets": ["dar partida", "ligar"],
+      "inflections": [
+        "je démarre",
+        "tu démarres",
+        "il démarre",
+        "nous démarrons"
+      ],
+      "ptTargets": [
+        "dar partida",
+        "ligar"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Je démarre la voiture.", "pt": "Eu ligo o carro." },
-        { "level": "A2-B1", "fr": "Irlan a démarré la scooter.", "pt": "Irlan deu partida na scooter." },
-        { "level": "B2", "fr": "La scooter qui démarre au premier coup est fiable.", "pt": "A scooter que liga de primeira é confiável." },
-        { "level": "C1-C2", "fr": "Démarrer, c'est offrir au moteur une nouvelle histoire.", "pt": "Dar partida é oferecer ao motor uma nova história." }
+        {
+          "level": "A1",
+          "fr": "Je démarre la voiture.",
+          "pt": "Eu ligo o carro."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Irlan a démarré la scooter.",
+          "pt": "Irlan deu partida na scooter."
+        },
+        {
+          "level": "B2",
+          "fr": "La scooter qui démarre au premier coup est fiable.",
+          "pt": "A scooter que liga de primeira é confiável."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Démarrer, c'est offrir au moteur une nouvelle histoire.",
+          "pt": "Dar partida é oferecer ao motor uma nova história."
+        }
       ]
     },
     {
       "term": "rouler",
       "definitionPt": "rolar, andar (de veículo)",
       "definitionFr": "Se déplacer sur des roues.",
-      "inflections": ["je roule", "tu roules", "il roule", "nous roulons"],
-      "ptTargets": ["rolar", "andar"],
+      "inflections": [
+        "je roule",
+        "tu roules",
+        "il roule",
+        "nous roulons"
+      ],
+      "ptTargets": [
+        "rolar",
+        "andar"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La voiture roule.", "pt": "O carro anda." },
-        { "level": "A2-B1", "fr": "La scooter roule sur les quais.", "pt": "A scooter anda nos cais." },
-        { "level": "B2", "fr": "La route où nous roulons longe la Loire.", "pt": "A estrada onde andamos margeia o Loire." },
-        { "level": "C1-C2", "fr": "Rouler au bord du fleuve, c'est glisser sur une carte vivante.", "pt": "Andar à beira do rio é deslizar sobre um mapa vivo." }
+        {
+          "level": "A1",
+          "fr": "La voiture roule.",
+          "pt": "O carro anda."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "La scooter roule sur les quais.",
+          "pt": "A scooter anda nos cais."
+        },
+        {
+          "level": "B2",
+          "fr": "La route où nous roulons longe la Loire.",
+          "pt": "A estrada onde andamos margeia o Loire."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Rouler au bord du fleuve, c'est glisser sur une carte vivante.",
+          "pt": "Andar à beira do rio é deslizar sobre um mapa vivo."
+        }
       ]
     },
     {
       "term": "se souvenir",
       "definitionPt": "lembrar-se",
       "definitionFr": "Garder en mémoire.",
-      "inflections": ["je me souviens", "tu te souviens", "il se souvient", "nous nous souvenons"],
-      "ptTargets": ["lembrar-se"],
+      "inflections": [
+        "je me souviens",
+        "tu te souviens",
+        "il se souvient",
+        "nous nous souvenons"
+      ],
+      "ptTargets": [
+        "lembrar-se"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Je me souviens de toi.", "pt": "Eu me lembro de você." },
-        { "level": "A2-B1", "fr": "Irlan se souvient de son premier jour.", "pt": "Irlan se lembra do primeiro dia." },
-        { "level": "B2", "fr": "Le jour dont je me souviens le mieux est celui de Paris.", "pt": "O dia de que mais me lembro é o de Paris." },
-        { "level": "C1-C2", "fr": "Se souvenir, c'est voyager dans le temps sans quitter sa chaise.", "pt": "Lembrar-se é viajar no tempo sem sair da cadeira." }
+        {
+          "level": "A1",
+          "fr": "Je me souviens de toi.",
+          "pt": "Eu me lembro de você."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Irlan se souvient de son premier jour.",
+          "pt": "Irlan se lembra do primeiro dia."
+        },
+        {
+          "level": "B2",
+          "fr": "Le jour dont je me souviens le mieux est celui de Paris.",
+          "pt": "O dia de que mais me lembro é o de Paris."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Se souvenir, c'est voyager dans le temps sans quitter sa chaise.",
+          "pt": "Lembrar-se é viajar no tempo sem sair da cadeira."
+        }
       ]
     },
     {
       "term": "livreur",
       "definitionPt": "entregador",
       "definitionFr": "Personne qui livre des commandes.",
-      "inflections": ["livreur", "livreuse", "livreurs", "livreuses"],
-      "ptTargets": ["entregador"],
+      "inflections": [
+        "livreur",
+        "livreuse",
+        "livreurs",
+        "livreuses"
+      ],
+      "ptTargets": [
+        "entregador"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le livreur arrive.", "pt": "O entregador chega." },
-        { "level": "A2-B1", "fr": "Irlan a travaillé comme livreur à Paris.", "pt": "Irlan trabalhou como entregador em Paris." },
-        { "level": "B2", "fr": "Le livreur qui roulait la nuit connaissait chaque rue.", "pt": "O entregador que andava à noite conhecia cada rua." },
-        { "level": "C1-C2", "fr": "Le livreur, coureur de la ville, porte les repas et les rêves des autres.", "pt": "O entregador, corredor da cidade, carrega refeições e sonhos alheios." }
+        {
+          "level": "A1",
+          "fr": "Le livreur arrive.",
+          "pt": "O entregador chega."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Irlan a travaillé comme livreur à Paris.",
+          "pt": "Irlan trabalhou como entregador em Paris."
+        },
+        {
+          "level": "B2",
+          "fr": "Le livreur qui roulait la nuit connaissait chaque rue.",
+          "pt": "O entregador que andava à noite conhecia cada rua."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Le livreur, coureur de la ville, porte les repas et les rêves des autres.",
+          "pt": "O entregador, corredor da cidade, carrega refeições e sonhos alheios."
+        }
       ]
     },
     {
       "term": "la commande",
       "definitionPt": "o pedido",
       "definitionFr": "Ce que l'on demande de livrer.",
-      "inflections": ["la commande", "une commande", "des commandes"],
-      "ptTargets": ["pedido"],
+      "inflections": [
+        "la commande",
+        "une commande",
+        "des commandes"
+      ],
+      "ptTargets": [
+        "pedido"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La commande est prête.", "pt": "O pedido está pronto." },
-        { "level": "A2-B1", "fr": "Irlan a livré des centaines de commandes.", "pt": "Irlan entregou centenas de pedidos." },
-        { "level": "B2", "fr": "Les commandes qu'il livrait étaient chaudes.", "pt": "Os pedidos que ele entregava eram quentes." },
-        { "level": "C1-C2", "fr": "La commande, petit contrat de confiance, relie le cuisinier au client.", "pt": "O pedido, pequeno contrato de confiança, liga o cozinheiro ao cliente." }
+        {
+          "level": "A1",
+          "fr": "La commande est prête.",
+          "pt": "O pedido está pronto."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Irlan a livré des centaines de commandes.",
+          "pt": "Irlan entregou centenas de pedidos."
+        },
+        {
+          "level": "B2",
+          "fr": "Les commandes qu'il livrait étaient chaudes.",
+          "pt": "Os pedidos que ele entregava eram quentes."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "La commande, petit contrat de confiance, relie le cuisinier au client.",
+          "pt": "O pedido, pequeno contrato de confiança, liga o cozinheiro ao cliente."
+        }
       ]
     },
     {
       "term": "l'extension",
       "definitionPt": "a extensão",
       "definitionFr": "Prolongement de quelque chose.",
-      "inflections": ["l'extension", "une extension", "des extensions"],
-      "ptTargets": ["extensão"],
+      "inflections": [
+        "l'extension",
+        "une extension",
+        "des extensions"
+      ],
+      "ptTargets": [
+        "extensão"
+      ],
       "examples": [
-        { "level": "A1", "fr": "L'extension est utile.", "pt": "A extensão é útil." },
-        { "level": "A2-B1", "fr": "La scooter est une extension d'Irlan.", "pt": "A scooter é uma extensão de Irlan." },
-        { "level": "B2", "fr": "L'extension dont parle Irlan est le guidon.", "pt": "A extensão de que Irlan fala é o guidão." },
-        { "level": "C1-C2", "fr": "L'extension, prolongement de soi, rend le corps plus grand que la vie.", "pt": "A extensão, prolongamento de si, torna o corpo maior que a vida." }
+        {
+          "level": "A1",
+          "fr": "L'extension est utile.",
+          "pt": "A extensão é útil."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "La scooter est une extension d'Irlan.",
+          "pt": "A scooter é uma extensão de Irlan."
+        },
+        {
+          "level": "B2",
+          "fr": "L'extension dont parle Irlan est le guidon.",
+          "pt": "A extensão de que Irlan fala é o guidão."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "L'extension, prolongement de soi, rend le corps plus grand que la vie.",
+          "pt": "A extensão, prolongamento de si, torna o corpo maior que a vida."
+        }
       ]
     },
     {
       "term": "fidèle",
       "definitionPt": "fiel",
       "definitionFr": "Qui ne trahit jamais.",
-      "inflections": ["fidèle", "fidèles"],
-      "ptTargets": ["fiel"],
+      "inflections": [
+        "fidèle",
+        "fidèles"
+      ],
+      "ptTargets": [
+        "fiel"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le chien est fidèle.", "pt": "O cão é fiel." },
-        { "level": "A2-B1", "fr": "La scooter est fidèle à Irlan.", "pt": "A scooter é fiel a Irlan." },
-        { "level": "B2", "fr": "L'amie la plus fidèle d'Irlan est sa scooter.", "pt": "A amiga mais fiel de Irlan é sua scooter." },
-        { "level": "C1-C2", "fr": "Fidèle, la machine devient presque humaine par sa constance.", "pt": "Fiel, a máquina torna-se quase humana por sua constância." }
+        {
+          "level": "A1",
+          "fr": "Le chien est fidèle.",
+          "pt": "O cão é fiel."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "La scooter est fidèle à Irlan.",
+          "pt": "A scooter é fiel a Irlan."
+        },
+        {
+          "level": "B2",
+          "fr": "L'amie la plus fidèle d'Irlan est sa scooter.",
+          "pt": "A amiga mais fiel de Irlan é sua scooter."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Fidèle, la machine devient presque humaine par sa constance.",
+          "pt": "Fiel, a máquina torna-se quase humana por sua constância."
+        }
       ]
     },
     {
       "term": "l'histoire",
       "definitionPt": "a história",
       "definitionFr": "Récit du passé.",
-      "inflections": ["l'histoire", "une histoire", "des histoires"],
-      "ptTargets": ["história"],
+      "inflections": [
+        "l'histoire",
+        "une histoire",
+        "des histoires"
+      ],
+      "ptTargets": [
+        "história"
+      ],
       "examples": [
-        { "level": "A1", "fr": "L'histoire est belle.", "pt": "A história é bonita." },
-        { "level": "A2-B1", "fr": "Chaque scooter a son histoire.", "pt": "Cada scooter tem sua história." },
-        { "level": "B2", "fr": "L'histoire que raconte Irlan est pleine d'aventures.", "pt": "A história que Irlan conta é cheia de aventuras." },
-        { "level": "C1-C2", "fr": "L'histoire, mémoire des choses, rend précieux ce que l'on possède.", "pt": "A história, memória das coisas, torna precioso o que se possui." }
+        {
+          "level": "A1",
+          "fr": "L'histoire est belle.",
+          "pt": "A história é bonita."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Chaque scooter a son histoire.",
+          "pt": "Cada scooter tem sua história."
+        },
+        {
+          "level": "B2",
+          "fr": "L'histoire que raconte Irlan est pleine d'aventures.",
+          "pt": "A história que Irlan conta é cheia de aventuras."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "L'histoire, mémoire des choses, rend précieux ce que l'on possède.",
+          "pt": "A história, memória das coisas, torna precioso o que se possui."
+        }
       ]
     },
     {
       "term": "la pluie",
       "definitionPt": "a chuva",
       "definitionFr": "Eau qui tombe du ciel.",
-      "inflections": ["la pluie", "une pluie", "des pluies"],
-      "ptTargets": ["chuva"],
+      "inflections": [
+        "la pluie",
+        "une pluie",
+        "des pluies"
+      ],
+      "ptTargets": [
+        "chuva"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La pluie tombe.", "pt": "A chuva cai." },
-        { "level": "A2-B1", "fr": "Irlan a roulé sous la pluie.", "pt": "Irlan andou sob a chuva." },
-        { "level": "B2", "fr": "Les jours de pluie que nous avons connus étaient longs.", "pt": "Os dias de chuva que conhecemos eram longos." },
-        { "level": "C1-C2", "fr": "La pluie, brodeuse de routes, coud des fils d'argent sur le bitume.", "pt": "A chuva, bordadeira de estradas, cose fios de prata no asfalto." }
+        {
+          "level": "A1",
+          "fr": "La pluie tombe.",
+          "pt": "A chuva cai."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Irlan a roulé sous la pluie.",
+          "pt": "Irlan andou sob a chuva."
+        },
+        {
+          "level": "B2",
+          "fr": "Les jours de pluie que nous avons connus étaient longs.",
+          "pt": "Os dias de chuva que conhecemos eram longos."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "La pluie, brodeuse de routes, coud des fils d'argent sur le bitume.",
+          "pt": "A chuva, bordadeira de estradas, cose fios de prata no asfalto."
+        }
       ]
     }
   ],
@@ -209,28 +494,53 @@
   },
   "quizQuestions": [
     {
-      "question": "Que doit mettre Iris avant de partir ?",
-      "options": ["Le casque", "Un manteau", "Des gants", "Des lunettes de soleil"],
+      "question": "Que doit mettre Andréa avant de partir ?",
+      "options": [
+        "Le casque",
+        "Un manteau",
+        "Des gants",
+        "Des lunettes de soleil"
+      ],
       "correctIndex": 0
     },
     {
       "question": "Où Irlan a-t-il acheté la scooter ?",
-      "options": ["À Paris", "À Tours", "Au Brésil", "À Bordeaux"],
+      "options": [
+        "À Paris",
+        "À Tours",
+        "Au Brésil",
+        "À Bordeaux"
+      ],
       "correctIndex": 0
     },
     {
       "question": "Que faisait Irlan avec la scooter ?",
-      "options": ["Il livrait des commandes", "Il courait des courses", "Il allait à la plage", "Il faisait du tourisme"],
+      "options": [
+        "Il livrait des commandes",
+        "Il courait des courses",
+        "Il allait à la plage",
+        "Il faisait du tourisme"
+      ],
       "correctIndex": 0
     },
     {
       "question": "De quoi Irlan se souvient-il ?",
-      "options": ["De son premier jour en scooter", "De son école au Brésil", "De son premier gâteau", "De la neige en Afrique"],
+      "options": [
+        "De son premier jour en scooter",
+        "De son école au Brésil",
+        "De son premier gâteau",
+        "De la neige en Afrique"
+      ],
       "correctIndex": 0
     },
     {
-      "question": "Que veut Iris quand elle sera grande ?",
-      "options": ["Une scooter", "Une voiture", "Un vélo", "Un bateau"],
+      "question": "Que dit Andréa à propos de la scooter ?",
+      "options": [
+        "Elle a traversé la vie française d'Irlan",
+        "Elle est trop vieille",
+        "Elle est trop rapide",
+        "Elle est trop rouge"
+      ],
       "correctIndex": 0
     }
   ]

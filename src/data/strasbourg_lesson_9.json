@@ -7,7 +7,7 @@
   "titlePt": "O parque da Orangerie e a rota dos vinhos",
   "subtitleFr": "Les cigognes, les muscats et un pique-nique alsacien",
   "subtitlePt": "As cegonhas, os muscat e um piquenique alsaciano",
-  "summaryPt": "Nesta Aula 9 (C1+), a família passa a manhã no parc de l'Orangerie, onde vivem as cegonhas, símbolo da Alsácia, e planeja a route des vins. O aluno revisa o futur antérieur e os conectores argumentativos, com vocabulário da natureza e da viticultura.",
+  "summaryPt": "Nesta Aula 9 (C1+), o casal passa a manhã no parc de l'Orangerie, onde vivem as cegonhas, símbolo da Alsácia, e planeja a route des vins. O aluno revisa o futur antérieur e os conectores argumentativos, com vocabulário da natureza e da viticultura.",
   "paragraphs": [
     {
       "id": 1,
@@ -16,8 +16,8 @@
     },
     {
       "id": 2,
-      "fr": "Iris nourrissait les canards au bord du lac. « Après la promenade, dit Irlan, nous aurons mérité notre déjeuner. La dégustation des vins, elle, nous attendra plus tard. La route des vins traverse des villages magnifiques : Mittelbergheim, Ribeauvillé, Riquewihr. »",
-      "pt": "Íris alimentava os patos à beira do lago. « Depois do passeio, disse Irlan, teremos merecido nosso almoço. A degustação dos vinhos, ela, nos esperará mais tarde. A rota dos vinhos atravessa vilarejos magníficos: Mittelbergheim, Ribeauvillé, Riquewihr. »"
+      "fr": "Andréa nourrissait les canards au bord du lac. « Après la promenade, dit Irlan, nous aurons mérité notre déjeuner. La dégustation des vins, elle, nous attendra plus tard. La route des vins traverse des villages magnifiques : Mittelbergheim, Ribeauvillé, Riquewihr. »",
+      "pt": "Andréa alimentava os patos à beira do lago. « Depois do passeio, disse Irlan, teremos merecido nosso almoço. A degustação dos vinhos, ela, nos esperará mais tarde. A rota dos vinhos atravessa vilarejos magníficos: Mittelbergheim, Ribeauvillé, Riquewihr. »"
     },
     {
       "id": 3,
@@ -67,7 +67,7 @@
         { "level": "A1", "fr": "Le lac est calme.", "pt": "O lago é calmo." },
         { "level": "A2-B1", "fr": "Les canards nagent dans le lac.", "pt": "Os patos nadam no lago." },
         { "level": "B2", "fr": "Le lac, entouré d'arbres, invite à la promenade.", "pt": "O lago, cercado de árvores, convida ao passeio." },
-        { "level": "C1-C2", "fr": "C'est au bord de ce lac que la famille goûta la douceur alsacienne.", "pt": "É à beira deste lago que a família provou a doçura alsaciana." }
+        { "level": "C1-C2", "fr": "C'est au bord de ce lac que le couple goûta la douceur alsacienne.", "pt": "É à beira deste lago que o casal provou a doçura alsaciana." }
       ]
     },
     {
@@ -78,7 +78,7 @@
       "ptTargets": ["pato"],
       "examples": [
         { "level": "A1", "fr": "Le canard nage.", "pt": "O pato nada." },
-        { "level": "A2-B1", "fr": "Iris nourrit les canards.", "pt": "Íris alimenta os patos." },
+        { "level": "A2-B1", "fr": "Andréa nourrit les canards.", "pt": "Andréa alimenta os patos." },
         { "level": "B2", "fr": "Les canards, habitués aux visiteurs, s'approchent sans peur.", "pt": "Os patos, acostumados aos visitantes, se aproximam sem medo." },
         { "level": "C1-C2", "fr": "C'est le vol matinal des canards qui anime les rives du lac.", "pt": "É o voo matinal dos patos que anima as margens do lago." }
       ]
@@ -104,9 +104,9 @@
       "ptTargets": ["piquenique"],
       "examples": [
         { "level": "A1", "fr": "Le pique-nique est bon.", "pt": "O piquenique é bom." },
-        { "level": "A2-B1", "fr": "La famille fait un pique-nique au parc.", "pt": "A família faz um piquenique no parque." },
+        { "level": "A2-B1", "fr": "Le couple fait un pique-nique au parc.", "pt": "O casal faz um piquenique no parque." },
         { "level": "B2", "fr": "Le pique-nique, préparé le matin, fut partagé sous les arbres.", "pt": "O piquenique, preparado de manhã, foi partilhado sob as árvores." },
-        { "level": "C1-C2", "fr": "C'est autour d'un pique-nique alsacien que la famille se sentit chez elle.", "pt": "É em torno de um piquenique alsaciano que a família se sentiu em casa." }
+        { "level": "C1-C2", "fr": "C'est autour d'un pique-nique alsacien que le couple se sentit chez lui.", "pt": "É em torno de um piquenique alsaciano que o casal se sentiu em casa." }
       ]
     },
     {
@@ -225,7 +225,7 @@
       "explanation": "A cegonha, que nidifica nos telhados, é o símbolo da Alsácia."
     },
     {
-      "question": "Onde a família fez o piquenique?",
+      "question": "Onde o casal fez o piquenique?",
       "options": ["no parc de l'Orangerie", "na catedral", "no aeroporto"],
       "correctIndex": 0,
       "explanation": "O piquenique foi no parc de l'Orangerie, sob um castanheiro."

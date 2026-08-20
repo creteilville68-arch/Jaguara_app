@@ -7,7 +7,7 @@
   "titlePt": "Num castelo do Médoc: os segredos do grande vinho",
   "subtitleFr": "La visite d'un vignoble, entre chais et vendanges",
   "subtitlePt": "A visita a um vinhedo, entre adegas e vindimas",
-  "summaryPt": "Nesta Aula 4 (B1+), a família visita um château viticole do Médoc. O vigneron explica o trabalho da vinha e da adega, e Irlan experimenta usar os pronomes complemento: 'je le goûte', 'nous la visitons'. O aluno domina os pronomes COD (le, la, les) e sua posição na frase.",
+  "summaryPt": "Nesta Aula 4 (B1+), o casal visita um château viticole do Médoc. O vigneron explica o trabalho da vinha e da adega, e Irlan experimenta usar os pronomes complemento: 'je le trouve', 'nous les retournons', 'je le goûte', 'nous la visitons'. O aluno domina os pronomes COD (le, la, les) e sua posição na frase.",
   "paragraphs": [
     {
       "id": 1,
@@ -26,8 +26,23 @@
     },
     {
       "id": 4,
-      "fr": "Avant de partir, la famille a acheté une bouteille. Andréa l'a mise dans le sac avec soin. « Nous la garderons pour notre anniversaire », a-t-elle promis. Iris a ajouté : « Et moi, je la garderai dans ma mémoire ! »",
-      "pt": "Antes de partir, a família comprou uma garrafa. Andréa a colocou na bolsa com cuidado. « Vamos guardá-la para nosso aniversário », prometeu ela. Íris acrescentou: « E eu, vou guardá-la na minha memória! »"
+      "fr": "Avant de partir, le couple a acheté une bouteille. Andréa l'a mise dans le sac avec soin. « Nous la garderons pour notre anniversaire », a-t-elle promis. Irlan a souri : « Et nous la boirons en pensant à ce voyage. »",
+      "pt": "Antes de partir, o casal comprou uma garrafa. Andréa a colocou na bolsa com cuidado. « Vamos guardá-la para nosso aniversário », prometeu ela. Irlan sorriu: « E vamos bebê-la pensando nesta viagem. »"
+    }
+    ,{
+      "id": 5,
+      "fr": "Dans le château du Médoc, le guide décrit un tonneau bombé et un vieux pressoir. Le domaine est considérable.",
+      "pt": "No castelo do Médoc, o guia descreve um tonel abaulado e um velho lagar. A propriedade é considerável."
+    },
+    {
+      "id": 6,
+      "fr": "Irlan apprend à éplucher les légumes et à émincer les herbes pour le déjeuner. Andréa goûte la garniture.",
+      "pt": "Irlan aprende a descascar os legumes e fatiar finas as ervas para o almoço. Andréa prova o recheio."
+    },
+    {
+      "id": 7,
+      "fr": "Un employé anonyme leur demande de ne pas toucher aux bouteilles. « C'est absolument interdit », précise-t-il.",
+      "pt": "Um funcionário anônimo lhes pede para não tocar nas garrafas. É absolutamente proibido, esclarece ele."
     }
   ],
   "vocabularyDictionary": [
@@ -243,7 +258,7 @@
       "explanation": "COD feminino singular: la gardera."
     },
     {
-      "question": "Para que a família guarda a garrafa?",
+      "question": "Para que o casal guarda a garrafa?",
       "options": ["para o aniversário deles", "para vender", "para dar de presente"],
       "correctIndex": 0,
       "explanation": "Andréa guarda a garrafa pour leur anniversaire."

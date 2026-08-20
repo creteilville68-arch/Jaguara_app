@@ -7,17 +7,17 @@
   "titlePt": "Bem-vindo a Toulouse: a Cidade Rosa e o Capitólio",
   "subtitleFr": "L'arrivée à la gare Matabiau et les briques roses qui ont donné son surnom à la ville",
   "subtitlePt": "A chegada à estação Matabiau e os tijolos rosados que deram o apelido à cidade",
-  "summaryPt": "Nesta Aula 1 (B2), a família chega a Toulouse de TGV, na gare Matabiau. Irlan, geógrafo, já tinha estudado a Ville Rose na faculdade — e usa o Plus-que-parfait para contar o que já sabia antes de chegar. O aluno aprende a anterioridade no passado: 'j'avais déjà lu', 'nous avions vu'.",
+  "summaryPt": "Nesta Aula 1 (B2), o casal chega a Toulouse de TGV, na gare Matabiau. Irlan, geógrafo, já tinha estudado a Ville Rose na faculdade — e usa o Plus-que-parfait para contar o que já sabia antes de chegar. O aluno aprende a anterioridade no passado: 'j'avais déjà lu', 'nous avions vu'.",
   "paragraphs": [
     {
       "id": 1,
-      "fr": "À la gare Matabiau, Iris a levé les yeux vers les toits : « Regarde, papa, tout est rose ! » Irlan a souri : « Oui, c'est la Ville Rose. Avant de venir, j'avais déjà lu que les maisons sont construites en briques roses. »",
-      "pt": "Na estação Matabiau, Íris ergueu os olhos para os telhados: « Olha, papai, está tudo rosa! » Irlan sorriu: « Sim, é a Cidade Rosa. Antes de vir, eu já tinha lido que as casas são construídas com tijolos rosados. »"
+      "fr": "À la gare Matabiau, Andréa a levé les yeux vers les toits : « Regarde, tout est rose ! » Irlan a souri : « Oui, c'est la Ville Rose. Avant de venir, j'avais déjà lu que les maisons sont construites en briques roses. »",
+      "pt": "Na estação Matabiau, Andréa ergueu os olhos para os telhados: « Olha, está tudo rosa! » Irlan sorriu: « Sim, é a Cidade Rosa. Antes de vir, eu já tinha lido que as casas são construídas com tijolos rosados. »"
     },
     {
       "id": 2,
-      "fr": "Andréa a consulté un plan : « Le canal du Midi passe juste derrière la gare. Avant le voyage, j'avais réservé une promenade en péniche pour demain. » Iris a sauté de joie : « J'y vais aussi ! »",
-      "pt": "Andréa consultou um mapa: « O Canal do Midi passa logo atrás da estação. Antes da viagem, eu tinha reservado um passeio de barco para amanhã. » Íris pulou de alegria: « Eu também vou! »"
+      "fr": "Irlan a consulté un plan : « Le canal du Midi passe juste derrière la gare. Avant le voyage, Andréa avait réservé une promenade en péniche pour demain. » Andréa a souri : « J'y vais aussi, promis ! »",
+      "pt": "Irlan consultou um mapa: « O Canal do Midi passa logo atrás da estação. Antes da viagem, Andréa tinha reservado um passeio de barco para amanhã. » Andréa sorriu: « Eu também vou, prometo! »"
     },
     {
       "id": 3,
@@ -26,8 +26,18 @@
     },
     {
       "id": 4,
-      "fr": "Le soir, devant les façades illuminées, Iris a demandé : « Pourquoi s'appelle-t-on le Capitole ? » Andréa a répondu : « Parce que les capitouls, les magistrats de la ville, gouvernaient ici depuis le Moyen Âge. » Irlan a ajouté : « Et moi, j'avais promis de te montrer les Salles des Illustres demain. »",
-      "pt": "À noite, diante das fachadas iluminadas, Íris perguntou: « Por que se chama Capitólio? » Andréa respondeu: « Porque os capitouls, os magistrados da cidade, governavam aqui desde a Idade Média. » Irlan acrescentou: « E eu tinha prometido te mostrar as Salas dos Ilustres amanhã. »"
+      "fr": "Le soir, devant les façades illuminées, Irlan a demandé : « Pourquoi s'appelle-t-on le Capitole ? » Andréa a répondu : « Parce que les capitouls, les magistrats de la ville, gouvernaient ici depuis le Moyen Âge. » Irlan a ajouté : « Et moi, j'avais promis de te montrer les Salles des Illustres demain. »",
+      "pt": "À noite, diante das fachadas iluminadas, Irlan perguntou: « Por que se chama Capitólio? » Andréa respondeu: « Porque os capitouls, os magistrados da cidade, governavam aqui desde a Idade Média. » Irlan acrescentou: « E eu tinha prometido te mostrar as Salas dos Ilustres amanhã. »"
+    },
+    {
+      "id": 5,
+      "fr": "À mesure que la nuit avançait, Irlan et Andréa ont déambulé autour du Capitole. L'aurore promettait une lumière douce, et Irlan espérait déceler dans les briques un indice du patrimoine historique.",
+      "pt": "À medida que a noite avançava, Irlan e Andréa passearam ao redor do Capitólio. A aurora prometia uma luz suave, e Irlan esperava detectar nas pedras uma pista do patrimônio histórico."
+    },
+    {
+      "id": 6,
+      "fr": "De prime abord, la place semblait paisible, mais le plan ancien révélait un parcours complexe. Irlan a formulé une hypothèse cohérente : le signe du jaguar devait les acheminer vers le canal.",
+      "pt": "À primeira vista, a praça parecia tranquila, mas o mapa antigo revelava um percurso complexo. Irlan formulou uma hipótese coerente: o sinal da onça deveria encaminhá-los ao canal."
     }
   ],
   "vocabularyDictionary": [
@@ -78,7 +88,7 @@
       "ptTargets": ["barcaça", "barco"],
       "examples": [
         { "level": "A1", "fr": "La péniche est sur l'eau.", "pt": "A barcaça está na água." },
-        { "level": "A2-B1", "fr": "La famille a réservé une promenade en péniche.", "pt": "A família reservou um passeio de barcaça." },
+        { "level": "A2-B1", "fr": "Le couple a réservé une promenade en péniche.", "pt": "O casal reservou um passeio de barcaça." },
         { "level": "B2", "fr": "Les péniches, qui descendent les écluses une à une, avancent lentement.", "pt": "As barcaças, que descem as eclusas uma a uma, avançam devagar." },
         { "level": "C1-C2", "fr": "Autrefois chargées de marchandises, les péniches du canal servent aujourd'hui au tourisme fluvial.", "pt": "Antigamente carregadas de mercadorias, as barcaças do canal hoje servem ao turismo fluvial." }
       ]
@@ -211,7 +221,7 @@
         "explanationPt": "Verbos como aller, venir, arriver, partir usam être: j'étais arrivé, elle était partie. O particípio concorda com o sujeito.",
         "exampleFr": "Elle était arrivée à la gare avant nous.",
         "examplePt": "Ela tinha chegado à estação antes de nós.",
-        "practiceQuestion": "Complete: « Iris ___ arrivée à la gare la première. »",
+        "practiceQuestion": "Complete: « Andréa ___ arrivée à la gare la première. »",
         "options": ["était", "avait", "a"],
         "correctIndex": 0
       }
@@ -225,10 +235,10 @@
       "explanation": "As casas construídas em briques roses deram o apelido de Cidade Rosa a Toulouse."
     },
     {
-      "question": "Onde a família chega de TGV?",
+      "question": "Onde o casal chega de TGV?",
       "options": ["na gare Matabiau", "na gare du Nord", "em Lyon"],
       "correctIndex": 0,
-      "explanation": "A família chega a Toulouse pela gare Matabiau, com o Canal do Midi logo atrás."
+      "explanation": "O casal chega a Toulouse pela gare Matabiau, com o Canal do Midi logo atrás."
     },
     {
       "question": "Quanto mede a place du Capitole?",

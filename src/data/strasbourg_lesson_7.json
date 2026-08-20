@@ -5,9 +5,9 @@
   "level": "Avançado (C1+)",
   "titleFr": "La cuisine alsacienne : choucroute et flammekueche",
   "titlePt": "A cozinha alsaciana: choucroute e flammekueche",
-  "subtitleFr": "Le repas de famille dans une winstub et les saveurs du Rhin",
-  "subtitlePt": "A refeição em família numa winstub e os sabores do Reno",
-  "summaryPt": "Nesta Aula 7 (C1+), a família janta numa winstub, o restaurante típico alsaciano, e prova choucroute, flammekueche e kouglof. O aluno domina os conectores argumentativos avançados: 'néanmoins', 'toutefois', 'en outre', 'de surcroît', 'par conséquent'.",
+  "subtitleFr": "Le dîner à deux dans une winstub et les saveurs du Rhin",
+  "subtitlePt": "O jantar a dois numa winstub e os sabores do Reno",
+  "summaryPt": "Nesta Aula 7 (C1+), o casal janta numa winstub, o restaurante típico alsaciano, e prova choucroute, flammekueche e kouglof. O aluno domina os conectores argumentativos avançados: 'néanmoins', 'toutefois', 'en outre', 'de surcroît', 'par conséquent'.",
   "paragraphs": [
     {
       "id": 1,
@@ -16,8 +16,8 @@
     },
     {
       "id": 2,
-      "fr": "Iris a goûté la flammekueche : « C'est comme une pizza, mais en plus fin ! » Andréa a ri : « La cuisson de la flammekueche, faite à très haute température, la rend croustillante. Toutefois, la vraie recette demande de la crème, des oignons et des lardons. En outre, elle se mange bien chaude. »",
-      "pt": "Íris provou a flammekueche: « É como uma pizza, mas mais fina! » Andréa riu: « O cozimento da flammekueche, feito a temperatura muito alta, a deixa crocante. Contudo, a verdadeira receita exige creme, cebolas e bacon. Além disso, ela se come bem quente. »"
+      "fr": "Andréa a goûté la flammekueche : « C'est comme une pizza, mais en plus fin ! » Irlan a ri : « La cuisson de la flammekueche, faite à très haute température, la rend croustillante. Toutefois, la vraie recette demande de la crème, des oignons et des lardons. En outre, elle se mange bien chaude. »",
+      "pt": "Andréa provou a flammekueche: « É como uma pizza, mas mais fina! » Irlan riu: « O cozimento da flammekueche, feito a temperatura muito alta, a deixa crocante. Contudo, a verdadeira receita exige creme, cebolas e bacon. Além disso, ela se come bem quente. »"
     },
     {
       "id": 3,
@@ -26,8 +26,8 @@
     },
     {
       "id": 4,
-      "fr": "En sortant, Andréa a conclu : « La cuisine alsacienne est une cuisine de partage. La réputation de la région, bâtie sur ces plats, attire les gourmets du monde entier. Néanmoins, le meilleur souvenir reste le goût du repas partagé en famille. Par conséquent, nous reviendrons ! »",
-      "pt": "Ao sair, Andréa concluiu: « A cozinha alsaciana é uma cozinha de partilha. A reputação da região, construída sobre esses pratos, atrai gourmets do mundo inteiro. No entanto, a melhor lembrança continua sendo o gosto da refeição partilhada em família. Por conseguinte, voltaremos! »"
+      "fr": "En sortant, Andréa a conclu : « La cuisine alsacienne est une cuisine de partage. La réputation de la région, bâtie sur ces plats, attire les gourmets du monde entier. Néanmoins, le meilleur souvenir reste le goût du repas partagé à deux. Par conséquent, nous reviendrons ! »",
+      "pt": "Ao sair, Andréa concluiu: « A cozinha alsaciana é uma cozinha de partilha. A reputação da região, construída sobre esses pratos, atrai gourmets do mundo inteiro. No entanto, a melhor lembrança continua sendo o gosto da refeição partilhada a dois. Por conseguinte, voltaremos! »"
     }
   ],
   "vocabularyDictionary": [
@@ -156,7 +156,7 @@
       "ptTargets": ["winstub", "restaurante alsaciano"],
       "examples": [
         { "level": "A1", "fr": "La winstub est chaleureuse.", "pt": "A winstub é acolhedora." },
-        { "level": "A2-B1", "fr": "La famille a dîné dans une winstub.", "pt": "A família jantou numa winstub." },
+        { "level": "A2-B1", "fr": "Le couple a dîné dans une winstub.", "pt": "O casal jantou numa winstub." },
         { "level": "B2", "fr": "Les winstubs, qui servent la cuisine locale, sont typiques de Strasbourg.", "pt": "As winstubs, que servem a cozinha local, são típicas de Strasbourg." },
         { "level": "C1-C2", "fr": "C'est dans les winstubs que se perpétue l'âme gourmande de l'Alsace.", "pt": "É nas winstubs que se perpetua a alma gulosa da Alsácia." }
       ]

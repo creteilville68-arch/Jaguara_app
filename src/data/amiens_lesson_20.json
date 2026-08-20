@@ -68,6 +68,21 @@
       "id": 12,
       "fr": "« Chaque ville a son ciel », dit Irlan. « Et le nôtre reste ouvert. »",
       "pt": "« Cada cidade tem o seu céu », diz Irlan. « E o nosso continua aberto. »"
+    },
+    {
+      "id": 13,
+      "fr": "Le temps du Nord est changeant. Il pleut le matin et le soleil revient l'après-midi. Il fait du vent.",
+      "pt": "O tempo do Norte é mudável. Chove de manhã e o sol volta à tarde. Faz vento."
+    },
+    {
+      "id": 14,
+      "fr": "Irlan met son imperméable. Il a chaud malgré la pluie. « On dit qu'il gèle parfois en hiver ici », observe Andréa.",
+      "pt": "Irlan coloca sua capa de chuva. Ele está com calor apesar da chuva. Dizem que às vezes congela no inverno aqui, observa Andréa."
+    },
+    {
+      "id": 15,
+      "fr": "Le bulletin météo annonce un temps humide pour la semaine prochaine. Irlan ferme la fenêtre.",
+      "pt": "O boletim meteorológico anuncia tempo úmido para a próxima semana. Irlan fecha a janela."
     }
   ],
   "vocabularyDictionary": [
@@ -75,156 +90,418 @@
       "term": "la pluie",
       "definitionPt": "a chuva",
       "definitionFr": "Eau qui tombe du ciel.",
-      "inflections": ["la pluie", "une pluie"],
-      "ptTargets": ["chuva"],
+      "inflections": [
+        "la pluie",
+        "une pluie"
+      ],
+      "ptTargets": [
+        "chuva"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La pluie tombe.", "pt": "A chuva cai." },
-        { "level": "A2-B1", "fr": "La pluie commence à tomber.", "pt": "A chuva começa a cair." },
-        { "level": "B2", "fr": "La pluie fine du Nord peut durer des heures.", "pt": "A chuva fina do Norte pode durar horas." },
-        { "level": "C1-C2", "fr": "C'est la pluie qui, régulière, nourrit la terre et façonne le caractère des habitants.", "pt": "É a chuva que, regular, alimenta a terra e molda o caráter dos habitantes." }
+        {
+          "level": "A1",
+          "fr": "La pluie tombe.",
+          "pt": "A chuva cai."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "La pluie commence à tomber.",
+          "pt": "A chuva começa a cair."
+        },
+        {
+          "level": "B2",
+          "fr": "La pluie fine du Nord peut durer des heures.",
+          "pt": "A chuva fina do Norte pode durar horas."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est la pluie qui, régulière, nourrit la terre et façonne le caractère des habitants.",
+          "pt": "É a chuva que, regular, alimenta a terra e molda o caráter dos habitantes."
+        }
       ]
     },
     {
       "term": "le parapluie",
       "definitionPt": "o guarda-chuva",
       "definitionFr": "Objet pour se protéger de la pluie.",
-      "inflections": ["le parapluie", "un parapluie", "des parapluies"],
-      "ptTargets": ["guarda-chuva"],
+      "inflections": [
+        "le parapluie",
+        "un parapluie",
+        "des parapluies"
+      ],
+      "ptTargets": [
+        "guarda-chuva"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le parapluie est ouvert.", "pt": "O guarda-chuva está aberto." },
-        { "level": "A2-B1", "fr": "Andréa ouvre son parapluie.", "pt": "Andréa abre o guarda-chuva." },
-        { "level": "B2", "fr": "Ils partagent le même parapluie sous l'averse.", "pt": "Eles dividem o mesmo guarda-chuva sob a chuva." },
-        { "level": "C1-C2", "fr": "C'est le parapluie qui, partagé, rapproche deux personnes plus sûrement qu'un ciel bleu.", "pt": "É o guarda-chuva que, dividido, aproxima duas pessoas mais seguramente que um céu azul." }
+        {
+          "level": "A1",
+          "fr": "Le parapluie est ouvert.",
+          "pt": "O guarda-chuva está aberto."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Andréa ouvre son parapluie.",
+          "pt": "Andréa abre o guarda-chuva."
+        },
+        {
+          "level": "B2",
+          "fr": "Ils partagent le même parapluie sous l'averse.",
+          "pt": "Eles dividem o mesmo guarda-chuva sob a chuva."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est le parapluie qui, partagé, rapproche deux personnes plus sûrement qu'un ciel bleu.",
+          "pt": "É o guarda-chuva que, dividido, aproxima duas pessoas mais seguramente que um céu azul."
+        }
       ]
     },
     {
       "term": "le vent",
       "definitionPt": "o vento",
       "definitionFr": "Air qui se déplace.",
-      "inflections": ["le vent", "un vent", "des vents"],
-      "ptTargets": ["vento"],
+      "inflections": [
+        "le vent",
+        "un vent",
+        "des vents"
+      ],
+      "ptTargets": [
+        "vento"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le vent souffle.", "pt": "O vento sopra." },
-        { "level": "A2-B1", "fr": "C'est le vent du nord.", "pt": "É o vento do norte." },
-        { "level": "B2", "fr": "Le vent du nord annonce l'automne.", "pt": "O vento do norte anuncia o outono." },
-        { "level": "C1-C2", "fr": "C'est le vent qui, froid et vif, réveille la ville et chasse les nuages.", "pt": "É o vento que, frio e vivo, desperta a cidade e afasta as nuvens." }
+        {
+          "level": "A1",
+          "fr": "Le vent souffle.",
+          "pt": "O vento sopra."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "C'est le vent du nord.",
+          "pt": "É o vento do norte."
+        },
+        {
+          "level": "B2",
+          "fr": "Le vent du nord annonce l'automne.",
+          "pt": "O vento do norte anuncia o outono."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est le vent qui, froid et vif, réveille la ville et chasse les nuages.",
+          "pt": "É o vento que, frio e vivo, desperta a cidade e afasta as nuvens."
+        }
       ]
     },
     {
       "term": "le nuage",
       "definitionPt": "a nuvem",
       "definitionFr": "Masse blanche ou grise dans le ciel.",
-      "inflections": ["le nuage", "un nuage", "des nuages"],
-      "ptTargets": ["nuvem"],
+      "inflections": [
+        "le nuage",
+        "un nuage",
+        "des nuages"
+      ],
+      "ptTargets": [
+        "nuvem"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le nuage est gris.", "pt": "A nuvem é cinza." },
-        { "level": "A2-B1", "fr": "Un rayon perce les nuages.", "pt": "Um raio atravessa as nuvens." },
-        { "level": "B2", "fr": "Les nuages bas annoncent la pluie.", "pt": "As nuvens baixas anunciam a chuva." },
-        { "level": "C1-C2", "fr": "C'est le nuage qui, passager, fait varier la lumière et l'humeur du ciel.", "pt": "É a nuvem que, passageira, faz variar a luz e o humor do céu." }
+        {
+          "level": "A1",
+          "fr": "Le nuage est gris.",
+          "pt": "A nuvem é cinza."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Un rayon perce les nuages.",
+          "pt": "Um raio atravessa as nuvens."
+        },
+        {
+          "level": "B2",
+          "fr": "Les nuages bas annoncent la pluie.",
+          "pt": "As nuvens baixas anunciam a chuva."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est le nuage qui, passager, fait varier la lumière et l'humeur du ciel.",
+          "pt": "É a nuvem que, passageira, faz variar a luz e o humor do céu."
+        }
       ]
     },
     {
       "term": "la goutte",
       "definitionPt": "a gota",
       "definitionFr": "Petite quantité d'eau.",
-      "inflections": ["la goutte", "une goutte", "des gouttes"],
-      "ptTargets": ["gota"],
+      "inflections": [
+        "la goutte",
+        "une goutte",
+        "des gouttes"
+      ],
+      "ptTargets": [
+        "gota"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La goutte tombe.", "pt": "A gota cai." },
-        { "level": "A2-B1", "fr": "Les gouttes frappent les toits.", "pt": "As gotas batem nos telhados." },
-        { "level": "B2", "fr": "Les gouttes glissent le long des vitres.", "pt": "As gotas escorrem pelos vidros." },
-        { "level": "C1-C2", "fr": "C'est la goutte qui, multipliée par des milliers, finit par creuser la pierre.", "pt": "É a gota que, multiplicada por milhares, acaba cavando a pedra." }
+        {
+          "level": "A1",
+          "fr": "La goutte tombe.",
+          "pt": "A gota cai."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Les gouttes frappent les toits.",
+          "pt": "As gotas batem nos telhados."
+        },
+        {
+          "level": "B2",
+          "fr": "Les gouttes glissent le long des vitres.",
+          "pt": "As gotas escorrem pelos vidros."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est la goutte qui, multipliée par des milliers, finit par creuser la pierre.",
+          "pt": "É a gota que, multiplicada por milhares, acaba cavando a pedra."
+        }
       ]
     },
     {
       "term": "le toit",
       "definitionPt": "o telhado",
       "definitionFr": "Couverture d'un bâtiment.",
-      "inflections": ["le toit", "un toit", "des toits"],
-      "ptTargets": ["telhado"],
+      "inflections": [
+        "le toit",
+        "un toit",
+        "des toits"
+      ],
+      "ptTargets": [
+        "telhado"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le toit est gris.", "pt": "O telhado é cinza." },
-        { "level": "A2-B1", "fr": "Les gouttes frappent les toits.", "pt": "As gotas batem nos telhados." },
-        { "level": "B2", "fr": "Les toits d'ardoise brillent sous la pluie.", "pt": "Os telhados de ardósia brilham sob a chuva." },
-        { "level": "C1-C2", "fr": "C'est le toit qui, abritant les vies, porte le bruit des saisons.", "pt": "É o telhado que, abrigando as vidas, carrega o barulho das estações." }
+        {
+          "level": "A1",
+          "fr": "Le toit est gris.",
+          "pt": "O telhado é cinza."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Les gouttes frappent les toits.",
+          "pt": "As gotas batem nos telhados."
+        },
+        {
+          "level": "B2",
+          "fr": "Les toits d'ardoise brillent sous la pluie.",
+          "pt": "Os telhados de ardósia brilham sob a chuva."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est le toit qui, abritant les vies, porte le bruit des saisons.",
+          "pt": "É o telhado que, abrigando as vidas, carrega o barulho das estações."
+        }
       ]
     },
     {
       "term": "l'écharpe",
       "definitionPt": "o cachecol",
       "definitionFr": "Longue pièce pour le cou.",
-      "inflections": ["l'écharpe", "une écharpe", "des écharpes"],
-      "ptTargets": ["cachecol"],
+      "inflections": [
+        "l'écharpe",
+        "une écharpe",
+        "des écharpes"
+      ],
+      "ptTargets": [
+        "cachecol"
+      ],
       "examples": [
-        { "level": "A1", "fr": "L'écharpe est chaude.", "pt": "O cachecol é quente." },
-        { "level": "A2-B1", "fr": "Prends mon écharpe.", "pt": "Pega meu cachecol." },
-        { "level": "B2", "fr": "Une écharpe en laine protège du froid.", "pt": "Um cachecol de lã protege do frio." },
-        { "level": "C1-C2", "fr": "C'est l'écharpe qui, enveloppante, garde la chaleur des corps et des gestes tendres.", "pt": "É o cachecol que, envolvente, guarda o calor dos corpos e dos gestos ternos." }
+        {
+          "level": "A1",
+          "fr": "L'écharpe est chaude.",
+          "pt": "O cachecol é quente."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Prends mon écharpe.",
+          "pt": "Pega meu cachecol."
+        },
+        {
+          "level": "B2",
+          "fr": "Une écharpe en laine protège du froid.",
+          "pt": "Um cachecol de lã protege do frio."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est l'écharpe qui, enveloppante, garde la chaleur des corps et des gestes tendres.",
+          "pt": "É o cachecol que, envolvente, guarda o calor dos corpos e dos gestos ternos."
+        }
       ]
     },
     {
       "term": "frissonner",
       "definitionPt": "estremecer (de frio)",
       "definitionFr": "Trembler légèrement.",
-      "inflections": ["frissonner", "je frissonne", "nous frissonnons"],
-      "ptTargets": ["estremecer", "tremer"],
+      "inflections": [
+        "frissonner",
+        "je frissonne",
+        "nous frissonnons"
+      ],
+      "ptTargets": [
+        "estremecer",
+        "tremer"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Je frissonne de froid.", "pt": "Eu estremeço de frio." },
-        { "level": "A2-B1", "fr": "Andréa frissonne un peu.", "pt": "Andréa estremece um pouco." },
-        { "level": "B2", "fr": "Le vent froid fait frissonner les passants.", "pt": "O vento frio faz os passantes estremecerem." },
-        { "level": "C1-C2", "fr": "C'est en frissonnant que l'on sent, mieux qu'avec la raison, l'arrivée du froid.", "pt": "É estremecendo que se sente, melhor que com a razão, a chegada do frio." }
+        {
+          "level": "A1",
+          "fr": "Je frissonne de froid.",
+          "pt": "Eu estremeço de frio."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Andréa frissonne un peu.",
+          "pt": "Andréa estremece um pouco."
+        },
+        {
+          "level": "B2",
+          "fr": "Le vent froid fait frissonner les passants.",
+          "pt": "O vento frio faz os passantes estremecerem."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est en frissonnant que l'on sent, mieux qu'avec la raison, l'arrivée du froid.",
+          "pt": "É estremecendo que se sente, melhor que com a razão, a chegada do frio."
+        }
       ]
     },
     {
       "term": "le soleil",
       "definitionPt": "o sol",
       "definitionFr": "Astre qui éclaire la terre.",
-      "inflections": ["le soleil", "un soleil"],
-      "ptTargets": ["sol"],
+      "inflections": [
+        "le soleil",
+        "un soleil"
+      ],
+      "ptTargets": [
+        "sol"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le soleil brille.", "pt": "O sol brilha." },
-        { "level": "A2-B1", "fr": "Le soleil revient après la pluie.", "pt": "O sol volta depois da chuva." },
-        { "level": "B2", "fr": "Le soleil perce les nuages en fin de journée.", "pt": "O sol atravessa as nuvens no fim do dia." },
-        { "level": "C1-C2", "fr": "C'est le soleil qui, revenu après l'averse, rend la ville plus lumineuse qu'avant.", "pt": "É o sol que, voltando depois da chuva, torna a cidade mais luminosa do que antes." }
+        {
+          "level": "A1",
+          "fr": "Le soleil brille.",
+          "pt": "O sol brilha."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Le soleil revient après la pluie.",
+          "pt": "O sol volta depois da chuva."
+        },
+        {
+          "level": "B2",
+          "fr": "Le soleil perce les nuages en fin de journée.",
+          "pt": "O sol atravessa as nuvens no fim do dia."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est le soleil qui, revenu après l'averse, rend la ville plus lumineuse qu'avant.",
+          "pt": "É o sol que, voltando depois da chuva, torna a cidade mais luminosa do que antes."
+        }
       ]
     },
     {
       "term": "s'abriter",
       "definitionPt": "abrigar-se",
       "definitionFr": "Se mettre à l'abri.",
-      "inflections": ["s'abriter", "je m'abrite", "nous nous abritons"],
-      "ptTargets": ["abrigar-se"],
+      "inflections": [
+        "s'abriter",
+        "je m'abrite",
+        "nous nous abritons"
+      ],
+      "ptTargets": [
+        "abrigar-se"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Je m'abrite sous le toit.", "pt": "Eu me abrigo sob o telhado." },
-        { "level": "A2-B1", "fr": "Ils s'abritent sous un porche.", "pt": "Eles se abrigam sob um pórtico." },
-        { "level": "B2", "fr": "S'abriter de la pluie sous un porche est un réflexe commun.", "pt": "Abrigar-se da chuva sob um pórtico é um reflexo comum." },
-        { "level": "C1-C2", "fr": "C'est en s'abritant que l'on partage, un instant, l'espace et l'attente des inconnus.", "pt": "É abrigando-se que se partilha, por um instante, o espaço e a espera dos desconhecidos." }
+        {
+          "level": "A1",
+          "fr": "Je m'abrite sous le toit.",
+          "pt": "Eu me abrigo sob o telhado."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Ils s'abritent sous un porche.",
+          "pt": "Eles se abrigam sob um pórtico."
+        },
+        {
+          "level": "B2",
+          "fr": "S'abriter de la pluie sous un porche est un réflexe commun.",
+          "pt": "Abrigar-se da chuva sob um pórtico é um reflexo comum."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est en s'abritant que l'on partage, un instant, l'espace et l'attente des inconnus.",
+          "pt": "É abrigando-se que se partilha, por um instante, o espaço e a espera dos desconhecidos."
+        }
       ]
     },
     {
       "term": "le ciel",
       "definitionPt": "o céu",
       "definitionFr": "Espace au-dessus de la terre.",
-      "inflections": ["le ciel", "un ciel", "des cieux"],
-      "ptTargets": ["céu"],
+      "inflections": [
+        "le ciel",
+        "un ciel",
+        "des cieux"
+      ],
+      "ptTargets": [
+        "céu"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le ciel est gris.", "pt": "O céu está cinza." },
-        { "level": "A2-B1", "fr": "Chaque ville a son ciel.", "pt": "Cada cidade tem o seu céu." },
-        { "level": "B2", "fr": "Le ciel se dégage peu à peu après l'averse.", "pt": "O céu se abre pouco a pouco depois da chuva." },
-        { "level": "C1-C2", "fr": "C'est le ciel qui, changeant, donne à chaque lieu une lumière qui lui est propre.", "pt": "É o céu que, mutável, dá a cada lugar uma luz que lhe é própria." }
+        {
+          "level": "A1",
+          "fr": "Le ciel est gris.",
+          "pt": "O céu está cinza."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Chaque ville a son ciel.",
+          "pt": "Cada cidade tem o seu céu."
+        },
+        {
+          "level": "B2",
+          "fr": "Le ciel se dégage peu à peu après l'averse.",
+          "pt": "O céu se abre pouco a pouco depois da chuva."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est le ciel qui, changeant, donne à chaque lieu une lumière qui lui est propre.",
+          "pt": "É o céu que, mutável, dá a cada lugar uma luz que lhe é própria."
+        }
       ]
     },
     {
       "term": "l'automne",
       "definitionPt": "o outono",
       "definitionFr": "Saison après l'été.",
-      "inflections": ["l'automne", "un automne"],
-      "ptTargets": ["outono"],
+      "inflections": [
+        "l'automne",
+        "un automne"
+      ],
+      "ptTargets": [
+        "outono"
+      ],
       "examples": [
-        { "level": "A1", "fr": "L'automne est doux.", "pt": "O outono é suave." },
-        { "level": "A2-B1", "fr": "Le vent annonce l'automne.", "pt": "O vento anuncia o outono." },
-        { "level": "B2", "fr": "En automne, les feuilles tombent et colorent les rues.", "pt": "No outono, as folhas caem e colorem as ruas." },
-        { "level": "C1-C2", "fr": "C'est l'automne qui, en effeuillant les arbres, rappelle la beauté des choses qui passent.", "pt": "É o outono que, ao despir as árvores, lembra a beleza das coisas que passam." }
+        {
+          "level": "A1",
+          "fr": "L'automne est doux.",
+          "pt": "O outono é suave."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Le vent annonce l'automne.",
+          "pt": "O vento anuncia o outono."
+        },
+        {
+          "level": "B2",
+          "fr": "En automne, les feuilles tombent et colorent les rues.",
+          "pt": "No outono, as folhas caem e colorem as ruas."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est l'automne qui, en effeuillant les arbres, rappelle la beauté des choses qui passent.",
+          "pt": "É o outono que, ao despir as árvores, lembra a beleza das coisas que passam."
+        }
       ]
     }
   ],
@@ -234,7 +511,11 @@
     "exampleFr": "Il pleut et il fait froid aujourd'hui.",
     "examplePt": "Chove e está frio hoje.",
     "practiceQuestion": "Complete: '_____ pleut souvent.'",
-    "options": ["Il", "Elle", "On"],
+    "options": [
+      "Il",
+      "Elle",
+      "On"
+    ],
     "correctIndex": 0,
     "points": [
       {
@@ -243,7 +524,11 @@
         "exampleFr": "Il pleut souvent dans le Nord.",
         "examplePt": "Chove com frequência no Norte.",
         "practiceQuestion": "Complete: 'Dans le Nord, il _____ souvent.'",
-        "options": ["pleut", "pleut pas", "pleuvent"],
+        "options": [
+          "pleut",
+          "pleut pas",
+          "pleuvent"
+        ],
         "correctIndex": 0
       },
       {
@@ -252,7 +537,11 @@
         "exampleFr": "Tiens, prends mon écharpe.",
         "examplePt": "Toma, pega meu cachecol.",
         "practiceQuestion": "Complete: 'Tiens, _____ mon écharpe.'",
-        "options": ["prends", "prend", "prenez"],
+        "options": [
+          "prends",
+          "prend",
+          "prenez"
+        ],
         "correctIndex": 0
       }
     ]
@@ -260,31 +549,51 @@
   "quizQuestions": [
     {
       "question": "O que começa a cair no começo da aula?",
-      "options": ["a chuva", "a neve", "as folhas"],
+      "options": [
+        "a chuva",
+        "a neve",
+        "as folhas"
+      ],
       "correctIndex": 0,
       "explanation": "La pluie commence à tomber."
     },
     {
       "question": "O que o vento do norte anuncia?",
-      "options": ["o outono", "o verão", "a primavera"],
+      "options": [
+        "o outono",
+        "o verão",
+        "a primavera"
+      ],
       "correctIndex": 0,
       "explanation": "Il annonce l'automne."
     },
     {
       "question": "O que Irlan entrega a Andréa?",
-      "options": ["seu cachecol", "seu guarda-chuva", "seu casaco"],
+      "options": [
+        "seu cachecol",
+        "seu guarda-chuva",
+        "seu casaco"
+      ],
       "correctIndex": 0,
       "explanation": "Prends mon écharpe."
     },
     {
       "question": "Complete: 'Dans le Nord, il _____ souvent.'",
-      "options": ["pleut", "pleut pas", "pleuvent"],
+      "options": [
+        "pleut",
+        "pleut pas",
+        "pleuvent"
+      ],
       "correctIndex": 0,
       "explanation": "il pleut (impessoal)."
     },
     {
       "question": "Complete: 'Tiens, _____ mon écharpe.'",
-      "options": ["prends", "prend", "prenez"],
+      "options": [
+        "prends",
+        "prend",
+        "prenez"
+      ],
       "correctIndex": 0,
       "explanation": "prends (imperativo, tu)."
     }

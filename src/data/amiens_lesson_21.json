@@ -68,6 +68,21 @@
       "id": 12,
       "fr": "La foule applaudit, mais Irlan serre l'Atlas contre lui. « Nous partirons bientôt. »",
       "pt": "A multidão aplaude, mas Irlan aperta o Atlas contra si. « Partiremos em breve. »"
+    },
+    {
+      "id": 13,
+      "fr": "Les lumières projetées sur la cathédrale dessinent des formes éphémères. La natureza brille dans la pierre.",
+      "pt": "As luzes projetadas na catedral desenham formas efêmeras. A natureza brilha na pedra."
+    },
+    {
+      "id": 14,
+      "fr": "Irlan regarde son téléphone. La bande-annonce du spectacle a été vue par des milliers de personnes en ligne.",
+      "pt": "Irlan olha o celular. O trailer do espetáculo foi visto por milhares de pessoas online."
+    },
+    {
+      "id": 15,
+      "fr": "Andréa dit que le crabe et le corail sont comme la lumière : ils vivent dans l'ombre et brillent quand on les cherche.",
+      "pt": "Andréa diz que o caranguejo e o coral são como a luz: vivem na sombra e brilham quando se os procura."
     }
   ],
   "vocabularyDictionary": [
@@ -75,156 +90,419 @@
       "term": "la lumière",
       "definitionPt": "a luz",
       "definitionFr": "Ce qui éclaire.",
-      "inflections": ["la lumière", "une lumière", "des lumières"],
-      "ptTargets": ["luz"],
+      "inflections": [
+        "la lumière",
+        "une lumière",
+        "des lumières"
+      ],
+      "ptTargets": [
+        "luz"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La lumière est belle.", "pt": "A luz é bonita." },
-        { "level": "A2-B1", "fr": "Les lumières s'allument sur la façade.", "pt": "As luzes se acendem na fachada." },
-        { "level": "B2", "fr": "La lumière transforme la cathédrale en tableau vivant.", "pt": "A luz transforma a catedral num quadro vivo." },
-        { "level": "C1-C2", "fr": "C'est la lumière qui, en colorant la pierre, lui rend une jeunesse éphémère.", "pt": "É a luz que, ao colorir a pedra, devolve a ela uma juventude efêmera." }
+        {
+          "level": "A1",
+          "fr": "La lumière est belle.",
+          "pt": "A luz é bonita."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Les lumières s'allument sur la façade.",
+          "pt": "As luzes se acendem na fachada."
+        },
+        {
+          "level": "B2",
+          "fr": "La lumière transforme la cathédrale en tableau vivant.",
+          "pt": "A luz transforma a catedral num quadro vivo."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est la lumière qui, en colorant la pierre, lui rend une jeunesse éphémère.",
+          "pt": "É a luz que, ao colorir a pedra, devolve a ela uma juventude efêmera."
+        }
       ]
     },
     {
       "term": "la façade",
       "definitionPt": "a fachada",
       "definitionFr": "Face extérieure d'un bâtiment.",
-      "inflections": ["la façade", "une façade", "des façades"],
-      "ptTargets": ["fachada"],
+      "inflections": [
+        "la façade",
+        "une façade",
+        "des façades"
+      ],
+      "ptTargets": [
+        "fachada"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La façade est grande.", "pt": "A fachada é grande." },
-        { "level": "A2-B1", "fr": "Les lumières illuminent la façade.", "pt": "As luzes iluminam a fachada." },
-        { "level": "B2", "fr": "La façade de la cathédrale est sculptée avec finesse.", "pt": "A fachada da catedral é esculpida com delicadeza." },
-        { "level": "C1-C2", "fr": "C'est la façade qui, offerte à tous, raconte l'histoire de la ville au premier regard.", "pt": "É a fachada que, oferecida a todos, conta a história da cidade ao primeiro olhar." }
+        {
+          "level": "A1",
+          "fr": "La façade est grande.",
+          "pt": "A fachada é grande."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Les lumières illuminent la façade.",
+          "pt": "As luzes iluminam a fachada."
+        },
+        {
+          "level": "B2",
+          "fr": "La façade de la cathédrale est sculptée avec finesse.",
+          "pt": "A fachada da catedral é esculpida com delicadeza."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est la façade qui, offerte à tous, raconte l'histoire de la ville au premier regard.",
+          "pt": "É a fachada que, oferecida a todos, conta a história da cidade ao primeiro olhar."
+        }
       ]
     },
     {
       "term": "la couleur",
       "definitionPt": "a cor",
       "definitionFr": "Teinte d'un objet.",
-      "inflections": ["la couleur", "une couleur", "des couleurs"],
-      "ptTargets": ["cor"],
+      "inflections": [
+        "la couleur",
+        "une couleur",
+        "des couleurs"
+      ],
+      "ptTargets": [
+        "cor"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La couleur est vive.", "pt": "A cor é viva." },
-        { "level": "A2-B1", "fr": "Les pierres changent de couleur.", "pt": "As pedras mudam de cor." },
-        { "level": "B2", "fr": "Les couleurs se succèdent dans un ordre précis.", "pt": "As cores se sucedem numa ordem precisa." },
-        { "level": "C1-C2", "fr": "C'est la couleur qui, mieux que les mots, parle directement à l'émotion.", "pt": "É a cor que, melhor que as palavras, fala diretamente à emoção." }
+        {
+          "level": "A1",
+          "fr": "La couleur est vive.",
+          "pt": "A cor é viva."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Les pierres changent de couleur.",
+          "pt": "As pedras mudam de cor."
+        },
+        {
+          "level": "B2",
+          "fr": "Les couleurs se succèdent dans un ordre précis.",
+          "pt": "As cores se sucedem numa ordem precisa."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est la couleur qui, mieux que les mots, parle directement à l'émotion.",
+          "pt": "É a cor que, melhor que as palavras, fala diretamente à emoção."
+        }
       ]
     },
     {
       "term": "briller",
       "definitionPt": "brilhar",
       "definitionFr": "Émettre de la lumière.",
-      "inflections": ["briller", "je brille", "nous brillons"],
-      "ptTargets": ["brilhar"],
+      "inflections": [
+        "briller",
+        "je brille",
+        "nous brillons"
+      ],
+      "ptTargets": [
+        "brilhar"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La lumière brille.", "pt": "A luz brilha." },
-        { "level": "A2-B1", "fr": "Les couleurs brillent sur la façade.", "pt": "As cores brilham na fachada." },
-        { "level": "B2", "fr": "Les pierres brillent sous le jeu des projecteurs.", "pt": "As pedras brilham sob o jogo dos projetores." },
-        { "level": "C1-C2", "fr": "C'est en brillant que la ville, la nuit, devient un spectacle à ciel ouvert.", "pt": "É brilhando que a cidade, à noite, vira um espetáculo a céu aberto." }
+        {
+          "level": "A1",
+          "fr": "La lumière brille.",
+          "pt": "A luz brilha."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Les couleurs brillent sur la façade.",
+          "pt": "As cores brilham na fachada."
+        },
+        {
+          "level": "B2",
+          "fr": "Les pierres brillent sous le jeu des projecteurs.",
+          "pt": "As pedras brilham sob o jogo dos projetores."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est en brillant que la ville, la nuit, devient un spectacle à ciel ouvert.",
+          "pt": "É brilhando que a cidade, à noite, vira um espetáculo a céu aberto."
+        }
       ]
     },
     {
       "term": "la rosace",
       "definitionPt": "a rosácea",
       "definitionFr": "Grande vitre ronde d'une église.",
-      "inflections": ["la rosace", "une rosace", "des rosaces"],
-      "ptTargets": ["rosácea"],
+      "inflections": [
+        "la rosace",
+        "une rosace",
+        "des rosaces"
+      ],
+      "ptTargets": [
+        "rosácea"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La rosace est ronde.", "pt": "A rosácea é redonda." },
-        { "level": "A2-B1", "fr": "Irlan regarde la rosace de la cathédrale.", "pt": "Irlan olha a rosácea da catedral." },
-        { "level": "B2", "fr": "La rosace, éclairée, semble rayonner dans la nuit.", "pt": "A rosácea, iluminada, parece irradiar na noite." },
-        { "level": "C1-C2", "fr": "C'est la rosace qui, de ses couleurs, transforme la lumière du jour en vitrail vivant.", "pt": "É a rosácea que, com suas cores, transforma a luz do dia em vitral vivo." }
+        {
+          "level": "A1",
+          "fr": "La rosace est ronde.",
+          "pt": "A rosácea é redonda."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Irlan regarde la rosace de la cathédrale.",
+          "pt": "Irlan olha a rosácea da catedral."
+        },
+        {
+          "level": "B2",
+          "fr": "La rosace, éclairée, semble rayonner dans la nuit.",
+          "pt": "A rosácea, iluminada, parece irradiar na noite."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est la rosace qui, de ses couleurs, transforme la lumière du jour en vitrail vivant.",
+          "pt": "É a rosácea que, com suas cores, transforma a luz do dia em vitral vivo."
+        }
       ]
     },
     {
       "term": "l'arc-en-ciel",
       "definitionPt": "o arco-íris",
       "definitionFr": "Arc coloré dans le ciel.",
-      "inflections": ["l'arc-en-ciel", "un arc-en-ciel", "des arcs-en-ciel"],
-      "ptTargets": ["arco-íris"],
+      "inflections": [
+        "l'arc-en-ciel",
+        "un arc-en-ciel",
+        "des arcs-en-ciel"
+      ],
+      "ptTargets": [
+        "arco-íris"
+      ],
       "examples": [
-        { "level": "A1", "fr": "L'arc-en-ciel est beau.", "pt": "O arco-íris é bonito." },
-        { "level": "A2-B1", "fr": "Les couleurs forment un arc-en-ciel.", "pt": "As cores formam um arco-íris." },
-        { "level": "B2", "fr": "L'arc-en-ciel apparaît après la pluie.", "pt": "O arco-íris aparece depois da chuva." },
-        { "level": "C1-C2", "fr": "C'est l'arc-en-ciel qui, éphémère, relie la terre au ciel d'un pont de couleurs.", "pt": "É o arco-íris que, efêmero, liga a terra ao céu com uma ponte de cores." }
+        {
+          "level": "A1",
+          "fr": "L'arc-en-ciel est beau.",
+          "pt": "O arco-íris é bonito."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Les couleurs forment un arc-en-ciel.",
+          "pt": "As cores formam um arco-íris."
+        },
+        {
+          "level": "B2",
+          "fr": "L'arc-en-ciel apparaît après la pluie.",
+          "pt": "O arco-íris aparece depois da chuva."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est l'arc-en-ciel qui, éphémère, relie la terre au ciel d'un pont de couleurs.",
+          "pt": "É o arco-íris que, efêmero, liga a terra ao céu com uma ponte de cores."
+        }
       ]
     },
     {
       "term": "la flèche",
       "definitionPt": "a flecha",
       "definitionFr": "Trait qui indique une direction.",
-      "inflections": ["la flèche", "une flèche", "des flèches"],
-      "ptTargets": ["flecha", "seta"],
+      "inflections": [
+        "la flèche",
+        "une flèche",
+        "des flèches"
+      ],
+      "ptTargets": [
+        "flecha",
+        "seta"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La flèche indique le nord.", "pt": "A flecha indica o norte." },
-        { "level": "A2-B1", "fr": "La lumière trace une flèche vers le nord.", "pt": "A luz traça uma flecha em direção ao norte." },
-        { "level": "B2", "fr": "Une flèche dessinée sur la carte montre le chemin.", "pt": "Uma flecha desenhada no mapa mostra o caminho." },
-        { "level": "C1-C2", "fr": "C'est la flèche qui, simple et claire, oriente quand tout semble brouillé.", "pt": "É a flecha que, simples e clara, orienta quando tudo parece confuso." }
+        {
+          "level": "A1",
+          "fr": "La flèche indique le nord.",
+          "pt": "A flecha indica o norte."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "La lumière trace une flèche vers le nord.",
+          "pt": "A luz traça uma flecha em direção ao norte."
+        },
+        {
+          "level": "B2",
+          "fr": "Une flèche dessinée sur la carte montre le chemin.",
+          "pt": "Uma flecha desenhada no mapa mostra o caminho."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est la flèche qui, simple et claire, oriente quand tout semble brouillé.",
+          "pt": "É a flecha que, simples e clara, orienta quando tudo parece confuso."
+        }
       ]
     },
     {
       "term": "le cœur",
       "definitionPt": "o coração",
       "definitionFr": "Organe qui bat.",
-      "inflections": ["le cœur", "un cœur", "des cœurs"],
-      "ptTargets": ["coração"],
+      "inflections": [
+        "le cœur",
+        "un cœur",
+        "des cœurs"
+      ],
+      "ptTargets": [
+        "coração"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le cœur bat.", "pt": "O coração bate." },
-        { "level": "A2-B1", "fr": "Irlan a le cœur battant.", "pt": "Irlan está com o coração batendo." },
-        { "level": "B2", "fr": "Son cœur bat plus vite devant la découverte.", "pt": "Seu coração bate mais rápido diante da descoberta." },
-        { "level": "C1-C2", "fr": "C'est le cœur qui, avant la raison, pressent l'importance d'un instant.", "pt": "É o coração que, antes da razão, pressente a importância de um instante." }
+        {
+          "level": "A1",
+          "fr": "Le cœur bat.",
+          "pt": "O coração bate."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Irlan a le cœur battant.",
+          "pt": "Irlan está com o coração batendo."
+        },
+        {
+          "level": "B2",
+          "fr": "Son cœur bat plus vite devant la découverte.",
+          "pt": "Seu coração bate mais rápido diante da descoberta."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est le cœur qui, avant la raison, pressent l'importance d'un instant.",
+          "pt": "É o coração que, antes da razão, pressente a importância de um instante."
+        }
       ]
     },
     {
       "term": "la foule",
       "definitionPt": "a multidão",
       "definitionFr": "Grand nombre de personnes.",
-      "inflections": ["la foule", "une foule"],
-      "ptTargets": ["multidão"],
+      "inflections": [
+        "la foule",
+        "une foule"
+      ],
+      "ptTargets": [
+        "multidão"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La foule attend.", "pt": "A multidão espera." },
-        { "level": "A2-B1", "fr": "Une foule attend devant la cathédrale.", "pt": "Uma multidão espera diante da catedral." },
-        { "level": "B2", "fr": "La foule retient son souffle quand les lumières s'allument.", "pt": "A multidão prende a respiração quando as luzes se acendem." },
-        { "level": "C1-C2", "fr": "C'est la foule qui, réunie dans l'obscurité, partage la même émotion sans un mot.", "pt": "É a multidão que, reunida na escuridão, partilha a mesma emoção sem uma palavra." }
+        {
+          "level": "A1",
+          "fr": "La foule attend.",
+          "pt": "A multidão espera."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Une foule attend devant la cathédrale.",
+          "pt": "Uma multidão espera diante da catedral."
+        },
+        {
+          "level": "B2",
+          "fr": "La foule retient son souffle quand les lumières s'allument.",
+          "pt": "A multidão prende a respiração quando as luzes se acendem."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est la foule qui, réunie dans l'obscurité, partage la même émotion sans un mot.",
+          "pt": "É a multidão que, reunida na escuridão, partilha a mesma emoção sem uma palavra."
+        }
       ]
     },
     {
       "term": "s'allumer",
       "definitionPt": "acender-se",
       "definitionFr": "Commencer à briller.",
-      "inflections": ["s'allumer", "je m'allume", "ils s'allument"],
-      "ptTargets": ["acender-se"],
+      "inflections": [
+        "s'allumer",
+        "je m'allume",
+        "ils s'allument"
+      ],
+      "ptTargets": [
+        "acender-se"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La lumière s'allume.", "pt": "A luz se acende." },
-        { "level": "A2-B1", "fr": "Les lumières s'allument sur la façade.", "pt": "As luzes se acendem na fachada." },
-        { "level": "B2", "fr": "Quand la nuit tombe, les lampadaires s'allument.", "pt": "Quando a noite cai, os postes se acendem." },
-        { "level": "C1-C2", "fr": "C'est en s'allumant une à une que les lumières dessinent la ville dans la nuit.", "pt": "É acendendo-se uma a uma que as luzes desenham a cidade na noite." }
+        {
+          "level": "A1",
+          "fr": "La lumière s'allume.",
+          "pt": "A luz se acende."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Les lumières s'allument sur la façade.",
+          "pt": "As luzes se acendem na fachada."
+        },
+        {
+          "level": "B2",
+          "fr": "Quand la nuit tombe, les lampadaires s'allument.",
+          "pt": "Quando a noite cai, os postes se acendem."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est en s'allumant une à une que les lumières dessinent la ville dans la nuit.",
+          "pt": "É acendendo-se uma a uma que as luzes desenham a cidade na noite."
+        }
       ]
     },
     {
       "term": "l'ordre",
       "definitionPt": "a ordem",
       "definitionFr": "Suite organisée.",
-      "inflections": ["l'ordre", "un ordre"],
-      "ptTargets": ["ordem"],
+      "inflections": [
+        "l'ordre",
+        "un ordre"
+      ],
+      "ptTargets": [
+        "ordem"
+      ],
       "examples": [
-        { "level": "A1", "fr": "L'ordre est correct.", "pt": "A ordem está correta." },
-        { "level": "A2-B1", "fr": "Les couleurs apparaissent dans un ordre précis.", "pt": "As cores aparecem numa ordem precisa." },
-        { "level": "B2", "fr": "L'ordre des indices compte autant que les indices eux-mêmes.", "pt": "A ordem das pistas importa tanto quanto as próprias pistas." },
-        { "level": "C1-C2", "fr": "C'est l'ordre qui, en organisant les éléments, transforme une liste en message.", "pt": "É a ordem que, ao organizar os elementos, transforma uma lista em mensagem." }
+        {
+          "level": "A1",
+          "fr": "L'ordre est correct.",
+          "pt": "A ordem está correta."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Les couleurs apparaissent dans un ordre précis.",
+          "pt": "As cores aparecem numa ordem precisa."
+        },
+        {
+          "level": "B2",
+          "fr": "L'ordre des indices compte autant que les indices eux-mêmes.",
+          "pt": "A ordem das pistas importa tanto quanto as próprias pistas."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est l'ordre qui, en organisant les éléments, transforme une liste en message.",
+          "pt": "É a ordem que, ao organizar os elementos, transforma uma lista em mensagem."
+        }
       ]
     },
     {
       "term": "applaudir",
       "definitionPt": "aplaudir",
       "definitionFr": "Battre des mains pour approuver.",
-      "inflections": ["applaudir", "j'applaudis", "nous applaudissons"],
-      "ptTargets": ["aplaudir"],
+      "inflections": [
+        "applaudir",
+        "j'applaudis",
+        "nous applaudissons"
+      ],
+      "ptTargets": [
+        "aplaudir"
+      ],
       "examples": [
-        { "level": "A1", "fr": "J'applaudis.", "pt": "Eu aplaudo." },
-        { "level": "A2-B1", "fr": "La foule applaudit à la fin.", "pt": "A multidão aplaude no fim." },
-        { "level": "B2", "fr": "Les spectateurs applaudissent longuement.", "pt": "Os espectadores aplaudem longamente." },
-        { "level": "C1-C2", "fr": "C'est en applaudissant que le public remercie ce qu'il vient de recevoir.", "pt": "É aplaudindo que o público agradece o que acabou de receber." }
+        {
+          "level": "A1",
+          "fr": "J'applaudis.",
+          "pt": "Eu aplaudo."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "La foule applaudit à la fin.",
+          "pt": "A multidão aplaude no fim."
+        },
+        {
+          "level": "B2",
+          "fr": "Les spectateurs applaudissent longuement.",
+          "pt": "Os espectadores aplaudem longamente."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est en applaudissant que le public remercie ce qu'il vient de recevoir.",
+          "pt": "É aplaudindo que o público agradece o que acabou de receber."
+        }
       ]
     }
   ],
@@ -234,7 +512,11 @@
     "exampleFr": "Rouge, orange, jaune, vert, bleu, indigo, violet.",
     "examplePt": "Vermelho, laranja, amarelo, verde, azul, anil, violeta.",
     "practiceQuestion": "Complete: 'rouge, orange, jaune, _____ , bleu'",
-    "options": ["vert", "violet", "indigo"],
+    "options": [
+      "vert",
+      "violet",
+      "indigo"
+    ],
     "correctIndex": 0,
     "points": [
       {
@@ -243,7 +525,11 @@
         "exampleFr": "Les lumières brillent sur la façade.",
         "examplePt": "As luzes brilham na fachada.",
         "practiceQuestion": "Complete: 'Les lumières _____ sur la façade.'",
-        "options": ["brillent", "brille", "brillons"],
+        "options": [
+          "brillent",
+          "brille",
+          "brillons"
+        ],
         "correctIndex": 0
       },
       {
@@ -252,7 +538,11 @@
         "exampleFr": "Il regarde la rosace, le cœur battant.",
         "examplePt": "Ele olha a rosácea, com o coração batendo.",
         "practiceQuestion": "Complete: 'Il regarde, le _____ battant.'",
-        "options": ["cœur", "corps", "cou"],
+        "options": [
+          "cœur",
+          "corps",
+          "cou"
+        ],
         "correctIndex": 0
       }
     ]
@@ -260,31 +550,51 @@
   "quizQuestions": [
     {
       "question": "Onde Irlan e Andréa se posicionam à noite?",
-      "options": ["diante da catedral", "no circo", "no parque"],
+      "options": [
+        "diante da catedral",
+        "no circo",
+        "no parque"
+      ],
       "correctIndex": 0,
       "explanation": "Ils se placent devant la cathédrale."
     },
     {
       "question": "O que as luzes revelam na fachada?",
-      "options": ["sete cores em ordem", "um mapa", "um rosto"],
+      "options": [
+        "sete cores em ordem",
+        "um mapa",
+        "um rosto"
+      ],
       "correctIndex": 0,
       "explanation": "Les couleurs apparaissent dans un ordre précis."
     },
     {
       "question": "Para onde a última luz aponta?",
-      "options": ["para o norte", "para o sul", "para o leste"],
+      "options": [
+        "para o norte",
+        "para o sul",
+        "para o leste"
+      ],
       "correctIndex": 0,
       "explanation": "La dernière lumière trace une flèche vers le nord."
     },
     {
       "question": "Complete: 'Les lumières _____ sur la façade.'",
-      "options": ["brillent", "brille", "brillons"],
+      "options": [
+        "brillent",
+        "brille",
+        "brillons"
+      ],
       "correctIndex": 0,
       "explanation": "les lumières brillent."
     },
     {
       "question": "Complete: 'Il regarde, le _____ battant.'",
-      "options": ["cœur", "corps", "cou"],
+      "options": [
+        "cœur",
+        "corps",
+        "cou"
+      ],
       "correctIndex": 0,
       "explanation": "le cœur battant."
     }

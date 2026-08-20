@@ -69,6 +69,21 @@
       "fr": "« Demain, à l'aube, nous serons sur la grève », a dit Andréa. « Avant lui. » Ils ont goûté les moules, délicieuses, le cœur en alerte.",
       "pt": "« Amanhã, ao amanhecer, estaremos no areal », disse Andréa. « Antes dele. » Eles provaram os mexilhões, deliciosos, de coração alerta."
     }
+    ,{
+      "id": 13,
+      "fr": "À marée basse, les pêcheurs ramassent les moules. Irlan trouve une algue et un petit caillou dans le sable.",
+      "pt": "Na maré baixa, os pescadores recolhem mexilhões. Irlan encontra uma alga e uma pedrinha na areia."
+    },
+    {
+      "id": 14,
+      "fr": "Andréa porte une trousse et une lampe de poche. « Il faut être prudent, même quand la mer semble calme », dit-elle.",
+      "pt": "Andréa carrega um estojo e uma lanterna. É preciso ser prudente, mesmo quando o mar parece calmo, diz ela."
+    },
+    {
+      "id": 15,
+      "fr": "Un pêcheur leur explique comment économiser l'eau sur le bateau. Le couple s'informe et remercie l'équipage.",
+      "pt": "Um pescador lhes explica como economizar água no barco. O casal se informa e agradece à tripulação."
+    }
   ],
   "vocabularyDictionary": [
     {
@@ -143,7 +158,7 @@
       "inflections": ["la coque", "une coque", "des coques"],
       "ptTargets": ["berbigão"],
       "examples": [
-        { "level": "A1", "fr": "La coque est petite.", "pt": "O berbigão é pequeno." },
+        { "level": "A1", "fr": "J'ai trouvé une coque dans le sable.", "pt": "Encontrei um berbigão na areia." },
         { "level": "A2-B1", "fr": "Les pêcheurs ramassaient des coques dans le sable.", "pt": "Os pescadores recolhiam berbigões na areia." },
         { "level": "B2", "fr": "Les coques se cachent à quelques centimètres sous le sable.", "pt": "Os berbigões se escondem a poucos centímetros sob a areia." },
         { "level": "C1-C2", "fr": "La coque, modeste et savoureuse, est le trésor des pêcheurs à pied.", "pt": "O berbigão, modesto e saboroso, é o tesouro dos pescadores a pé." }
@@ -284,7 +299,7 @@
     },
     {
       "question": "O que o casal comeu à noite?",
-      "options": ["Moules marinières", "Carbonnade", "Omelete da Mère Poulard"],
+      "options": ["Moules marinières", "Carbonnade", "Omelete do Mont"],
       "correctIndex": 0,
       "explanation": "À noite, o casal comeu mexilhões ao vinho branco no restaurante."
     }

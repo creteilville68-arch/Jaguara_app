@@ -7,12 +7,12 @@
   "titlePt": "Os bouchons: as mères lyonnaises e suas mesas",
   "subtitleFr": "Exprimer l'hypothèse : les trois conditionnels à table",
   "subtitlePt": "Exprimir a hipótese: os três condicionais à mesa",
-  "summaryPt": "Os bouchons são restaurantes típicos de Lyon, criados pelas mères lyonnaises, cozinheiras lendárias do século XIX. Nesta aula B2+, a família janta num bouchon histórico e pratica os três condicionais para falar de escolhas, desejos e hipóteses à mesa.",
+  "summaryPt": "Os bouchons são restaurantes típicos de Lyon, criados pelas mères lyonnaises, cozinheiras lendárias do século XIX. Nesta aula B2+, o casal janta num bouchon histórico e pratica os três condicionais para falar de escolhas, desejos e hipóteses à mesa.",
   "paragraphs": [
     {
       "id": 1,
-      "fr": "Dans un bouchon de la rue Mercière, la patronne accueillit la famille. « Si vous aimez la vraie cuisine, vous êtes au bon endroit », dit-elle. Des nappes à carreaux couvraient les tables.",
-      "pt": "Num bouchon da rue Mercière, a dona recebeu a família. « Se vocês gostam de comida de verdade, estão no lugar certo », disse ela. Toalhas xadrez cobriam as mesas."
+      "fr": "Dans un bouchon de la rue Mercière, la patronne accueillit le couple. « Si vous aimez la vraie cuisine, vous êtes au bon endroit », dit-elle. Des nappes à carreaux couvraient les tables.",
+      "pt": "Num bouchon da rue Mercière, a dona recebeu o casal. « Se vocês gostam de comida de verdade, estão no lugar certo », disse ela. Toalhas xadrez cobriam as mesas."
     },
     {
       "id": 2,
@@ -21,8 +21,8 @@
     },
     {
       "id": 3,
-      "fr": "Íris regarda l'assiette de sa mère avec méfiance. « Si j'avais su ce que c'était, je n'aurais pas goûté », avoua-t-elle après. Tout le monde rit, et elle finit par aimer la salade.",
-      "pt": "Íris olhou o prato da mãe com desconfiança. « Se eu tivesse sabido o que era, não teria provado », confessou ela depois. Todos riram, e ela acabou gostando da salada."
+      "fr": "Andréa regarda l'assiette d'Irlan avec méfiance. « Si j'avais su ce que c'était, je n'aurais pas goûté », avoua-t-elle après. Ils éclatèrent de rire, et elle finit par aimer la salade.",
+      "pt": "Andréa olhou o prato de Irlan com desconfiança. « Se eu tivesse sabido o que era, não teria provado », confessou ela depois. Eles caíram na risada, e ela acabou gostando da salada."
     },
     {
       "id": 4,
@@ -33,6 +33,16 @@
       "id": 5,
       "fr": "Le soir, Irlan écrivit : « Si les mères lyonnaises étaient encore là, elles seraient fières de voir leur cuisine vivante. Et si nous n'étions pas venus, nous aurions raté la vraie âme de Lyon. Heureusement, nous sommes venus. »",
       "pt": "À noite, Irlan escreveu: « Se as mères lyonnaises ainda estivessem aqui, teriam orgulho de ver sua cozinha viva. E se não tivéssemos vindo, teríamos perdido a verdadeira alma de Lyon. Felizmente, viemos. »"
+    },
+    {
+      "id": 6,
+      "fr": "Les mères lyonnaises défendaient une alimentation durable et une cuisine équitable. Elles savaient modérer les portions sans rendre le repas fade ou insuffisant.",
+      "pt": "As cozinheiras de Lyon defendiam uma alimentação sustentável e uma cozinha justa. Sabiam moderar as porções sem tornar a refeição insossa ou insuficiente."
+    },
+    {
+      "id": 7,
+      "fr": "Andréa a trouvé le résultat satisfaisant et nourrissant. Irlan a noté qu'une recette pouvait constituer un héritage culturel, à condition de rester ouverte à l'évolution.",
+      "pt": "Andréa considerou o resultado satisfatório e nutritivo. Irlan anotou que uma receita podia constituir um patrimônio cultural, desde que permanecesse aberta à evolução."
     }
   ],
   "vocabularyDictionary": [
@@ -135,7 +145,7 @@
       "ptTargets": ["desconfiança"],
       "examples": [
         { "level": "A1", "fr": "La méfiance passe.", "pt": "A desconfiança passa." },
-        { "level": "A2-B1", "fr": "Íris regarde l'assiette avec méfiance.", "pt": "Íris olha o prato com desconfiança." },
+        { "level": "A2-B1", "fr": "Andréa regarde l'assiette avec méfiance.", "pt": "Andréa olha o prato com desconfiança." },
         { "level": "B2", "fr": "La méfiance, vite vaincue par le goût, laisse place à l'envie.", "pt": "A desconfiança, vencida rápido pelo sabor, dá lugar à vontade." },
         { "level": "C1-C2", "fr": "C'est la méfiance qui rend la découverte plus savoureuse.", "pt": "É a desconfiança que torna a descoberta mais saborosa." }
       ]
@@ -148,7 +158,7 @@
       "ptTargets": ["provar", "experimentar", "provado"],
       "examples": [
         { "level": "A1", "fr": "Je goûte le plat.", "pt": "Eu provo o prato." },
-        { "level": "A2-B1", "fr": "Íris n'aurait pas goûté si elle avait su.", "pt": "Íris não teria provado se tivesse sabido." },
+        { "level": "A2-B1", "fr": "Andréa n'aurait pas goûté si elle avait su.", "pt": "Andréa não teria provado se tivesse sabido." },
         { "level": "B2", "fr": "Goûter la cuisine lyonnaise, c'est comprendre Lyon.", "pt": "Provar a cozinha lyonnaise é compreender Lyon." },
         { "level": "C1-C2", "fr": "C'est en goûtant que l'on ose s'ouvrir à l'autre.", "pt": "É provando que se ousa abrir-se ao outro." }
       ]
@@ -236,7 +246,7 @@
       "explanation": "No texto: 'Les mères lyonnaises... ont donné au bouchon son âme'."
     },
     {
-      "question": "O que Íris confessou sobre a salada?",
+      "question": "O que Andréa confessou sobre a salada?",
       "options": ["Que não teria provado se soubesse o que era", "Que adorava cervelle de canut", "Que queria mais"],
       "correctIndex": 0,
       "explanation": "No texto: 'Si j'avais su ce que c'était, je n'aurais pas goûté'."

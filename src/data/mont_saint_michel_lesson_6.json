@@ -69,6 +69,21 @@
       "fr": "Andréa a serré le bras d'Irlan. « Nous avons notre guide. Maintenant, il nous faut une heure exacte. »",
       "pt": "Andréa apertou o braço de Irlan. « Temos nosso guia. Agora, precisamos de uma hora exata. »"
     }
+    ,{
+      "id": 13,
+      "fr": "Avant de traverser la baie, le guide vérifie l'équipage et la météo. Le ciel est dégagé, mais le vent reste changeant.",
+      "pt": "Antes de atravessar a baía, o guia verifica a tripulação e o tempo. O céu está limpo, mas o vento continua mutável."
+    },
+    {
+      "id": 14,
+      "fr": "Andréa ferme son parapluie et serre son blouson. « Nous sommes en bonne santé, nous pouvons continuer », dit-elle.",
+      "pt": "Andréa fecha o guarda-chuva e aperta sua jaqueta. Estamos com boa saúde, podemos continuar, diz ela."
+    },
+    {
+      "id": 15,
+      "fr": "Irlan reste à proximité du guide. Il demande pardon quand il marche trop vite et promet de suivre les consignes.",
+      "pt": "Irlan permanece perto do guia. Ele pede perdão quando anda rápido demais e promete seguir as instruções."
+    }
   ],
   "vocabularyDictionary": [
     {
@@ -143,7 +158,7 @@
       "inflections": ["le danger", "les dangers"],
       "ptTargets": ["perigo"],
       "examples": [
-        { "level": "A1", "fr": "Le danger est grand.", "pt": "O perigo é grande." },
+        { "level": "A1", "fr": "Le danger est passé.", "pt": "O perigo passou." },
         { "level": "A2-B1", "fr": "Le guide a montré les dangers de la baie.", "pt": "O guia mostrou os perigos da baía." },
         { "level": "B2", "fr": "Les dangers de la baie sont réels, même en été.", "pt": "Os perigos da baía são reais, mesmo no verão." },
         { "level": "C1-C2", "fr": "La méconnaissance des dangers naturels cause encore des accidents chaque année.", "pt": "O desconhecimento dos perigos naturais ainda causa acidentes todos os anos." }

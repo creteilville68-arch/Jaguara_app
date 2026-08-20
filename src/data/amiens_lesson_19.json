@@ -68,6 +68,21 @@
       "id": 12,
       "fr": "Andréa prend le pain et remercie. « Rentrons, il faut réfléchir », murmure-t-elle.",
       "pt": "Andréa pega o pão e agradece. « Vamos para casa, precisamos pensar », murmura ela."
+    },
+    {
+      "id": 13,
+      "fr": "À la boulangerie, Irlan regarde la table de préparation. Le croissant au beurre est encore chaud.",
+      "pt": "Na padaria, Irlan olha a mesa de preparação. O croissant de manteiga ainda está quente."
+    },
+    {
+      "id": 14,
+      "fr": "Andréa achète une tarte aux pommes et une tisane. Le vendeur emballe le tout dans un sac en plastique.",
+      "pt": "Andréa compra uma torta de maçã e um chá de ervas. O vendedor embrulha tudo numa sacola plástica."
+    },
+    {
+      "id": 15,
+      "fr": "Irlan note sur son téléphone que la batterie est faible. Il cherche une rallonge pour la charger.",
+      "pt": "Irlan anota no celular que a bateria está fraca. Ele procura uma extensão para carregá-lo."
     }
   ],
   "vocabularyDictionary": [
@@ -75,156 +90,422 @@
       "term": "la boulangerie",
       "definitionPt": "a padaria",
       "definitionFr": "Magasin où l'on vend du pain.",
-      "inflections": ["la boulangerie", "une boulangerie", "des boulangeries"],
-      "ptTargets": ["padaria"],
+      "inflections": [
+        "la boulangerie",
+        "une boulangerie",
+        "des boulangeries"
+      ],
+      "ptTargets": [
+        "padaria"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La boulangerie est ouverte.", "pt": "A padaria está aberta." },
-        { "level": "A2-B1", "fr": "Ils entrent dans la boulangerie du quartier.", "pt": "Eles entram na padaria do bairro." },
-        { "level": "B2", "fr": "La boulangerie du quartier sent bon dès le matin.", "pt": "A padaria do bairro cheira bem desde cedo." },
-        { "level": "C1-C2", "fr": "C'est la boulangerie qui, par son fournil, réveille le quartier de ses parfums.", "pt": "É a padaria que, com seu forno, desperta o bairro com seus aromas." }
+        {
+          "level": "A1",
+          "fr": "La boulangerie est ouverte.",
+          "pt": "A padaria está aberta."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Ils entrent dans la boulangerie du quartier.",
+          "pt": "Eles entram na padaria do bairro."
+        },
+        {
+          "level": "B2",
+          "fr": "La boulangerie du quartier sent bon dès le matin.",
+          "pt": "A padaria do bairro cheira bem desde cedo."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est la boulangerie qui, par son fournil, réveille le quartier de ses parfums.",
+          "pt": "É a padaria que, com seu forno, desperta o bairro com seus aromas."
+        }
       ]
     },
     {
       "term": "le pain",
       "definitionPt": "o pão",
       "definitionFr": "Aliment à base de farine.",
-      "inflections": ["le pain", "un pain", "des pains"],
-      "ptTargets": ["pão"],
+      "inflections": [
+        "le pain",
+        "un pain",
+        "des pains"
+      ],
+      "ptTargets": [
+        "pão"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le pain est chaud.", "pt": "O pão está quente." },
-        { "level": "A2-B1", "fr": "Une bonne odeur de pain guide les passants.", "pt": "Um bom cheiro de pão guia os passantes." },
-        { "level": "B2", "fr": "Le pain frais accompagne tous les repas en France.", "pt": "O pão fresco acompanha todas as refeições na França." },
-        { "level": "C1-C2", "fr": "C'est le pain qui, simple et quotidien, nourrit le corps et le lien entre les gens.", "pt": "É o pão que, simples e cotidiano, alimenta o corpo e o vínculo entre as pessoas." }
+        {
+          "level": "A1",
+          "fr": "Le pain est chaud.",
+          "pt": "O pão está quente."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Une bonne odeur de pain guide les passants.",
+          "pt": "Um bom cheiro de pão guia os passantes."
+        },
+        {
+          "level": "B2",
+          "fr": "Le pain frais accompagne tous les repas en France.",
+          "pt": "O pão fresco acompanha todas as refeições na França."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est le pain qui, simple et quotidien, nourrit le corps et le lien entre les gens.",
+          "pt": "É o pão que, simples e cotidiano, alimenta o corpo e o vínculo entre as pessoas."
+        }
       ]
     },
     {
       "term": "la baguette",
       "definitionPt": "a baguete",
       "definitionFr": "Pain long et mince.",
-      "inflections": ["la baguette", "une baguette", "des baguettes"],
-      "ptTargets": ["baguete"],
+      "inflections": [
+        "la baguette",
+        "une baguette",
+        "des baguettes"
+      ],
+      "ptTargets": [
+        "baguete"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La baguette est longue.", "pt": "A baguete é comprida." },
-        { "level": "A2-B1", "fr": "Andréa achète une baguette.", "pt": "Andréa compra uma baguete." },
-        { "level": "B2", "fr": "La baguette, croustillante dehors, reste moelleuse dedans.", "pt": "A baguete, crocante por fora, fica macia por dentro." },
-        { "level": "C1-C2", "fr": "C'est la baguette qui, symbole du quotidien, rythme les repas et les courses.", "pt": "É a baguete que, símbolo do cotidiano, marca o ritmo das refeições e das compras." }
+        {
+          "level": "A1",
+          "fr": "La baguette est longue.",
+          "pt": "A baguete é comprida."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Andréa achète une baguette.",
+          "pt": "Andréa compra uma baguete."
+        },
+        {
+          "level": "B2",
+          "fr": "La baguette, croustillante dehors, reste moelleuse dedans.",
+          "pt": "A baguete, crocante por fora, fica macia por dentro."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est la baguette qui, symbole du quotidien, rythme les repas et les courses.",
+          "pt": "É a baguete que, símbolo do cotidiano, marca o ritmo das refeições e das compras."
+        }
       ]
     },
     {
       "term": "le croissant",
       "definitionPt": "o croissant",
       "definitionFr": "Pâtisserie en forme de lune.",
-      "inflections": ["le croissant", "un croissant", "des croissants"],
-      "ptTargets": ["croissant"],
+      "inflections": [
+        "le croissant",
+        "un croissant",
+        "des croissants"
+      ],
+      "ptTargets": [
+        "croissant"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le croissant est bon.", "pt": "O croissant é bom." },
-        { "level": "A2-B1", "fr": "Ils prennent deux croissants.", "pt": "Eles levam dois croissants." },
-        { "level": "B2", "fr": "Le croissant, doré, se mange souvent au petit-déjeuner.", "pt": "O croissant, dourado, costuma ser comido no café da manhã." },
-        { "level": "C1-C2", "fr": "C'est le croissant qui, feuilleté et léger, évoque les matins de fête.", "pt": "É o croissant que, folhado e leve, evoca as manhãs de festa." }
+        {
+          "level": "A1",
+          "fr": "Le croissant est bon.",
+          "pt": "O croissant é bom."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Ils prennent deux croissants.",
+          "pt": "Eles levam dois croissants."
+        },
+        {
+          "level": "B2",
+          "fr": "Le croissant, doré, se mange souvent au petit-déjeuner.",
+          "pt": "O croissant, dourado, costuma ser comido no café da manhã."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est le croissant qui, feuilleté et léger, évoque les matins de fête.",
+          "pt": "É o croissant que, folhado e leve, evoca as manhãs de festa."
+        }
       ]
     },
     {
       "term": "le boulanger",
       "definitionPt": "o padeiro",
       "definitionFr": "Personne qui fait le pain.",
-      "inflections": ["le boulanger", "un boulanger", "des boulangers"],
-      "ptTargets": ["padeiro"],
+      "inflections": [
+        "le boulanger",
+        "un boulanger",
+        "des boulangers"
+      ],
+      "ptTargets": [
+        "padeiro"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le boulanger travaille tôt.", "pt": "O padeiro trabalha cedo." },
-        { "level": "A2-B1", "fr": "Le boulanger sourit derrière le comptoir.", "pt": "O padeiro sorri atrás do balcão." },
-        { "level": "B2", "fr": "Le boulanger pétrit la pâte avant l'aube.", "pt": "O padeiro sovou a massa antes do amanhecer." },
-        { "level": "C1-C2", "fr": "C'est le boulanger qui, avant le jour, transforme la farine en promesse de chaleur.", "pt": "É o padeiro que, antes do dia, transforma a farinha em promessa de calor." }
+        {
+          "level": "A1",
+          "fr": "Le boulanger travaille tôt.",
+          "pt": "O padeiro trabalha cedo."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Le boulanger sourit derrière le comptoir.",
+          "pt": "O padeiro sorri atrás do balcão."
+        },
+        {
+          "level": "B2",
+          "fr": "Le boulanger pétrit la pâte avant l'aube.",
+          "pt": "O padeiro sovou a massa antes do amanhecer."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est le boulanger qui, avant le jour, transforme la farine en promesse de chaleur.",
+          "pt": "É o padeiro que, antes do dia, transforma a farinha em promessa de calor."
+        }
       ]
     },
     {
       "term": "le comptoir",
       "definitionPt": "o balcão",
       "definitionFr": "Table haute d'un magasin.",
-      "inflections": ["le comptoir", "un comptoir", "des comptoirs"],
-      "ptTargets": ["balcão"],
+      "inflections": [
+        "le comptoir",
+        "un comptoir",
+        "des comptoirs"
+      ],
+      "ptTargets": [
+        "balcão"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le comptoir est propre.", "pt": "O balcão está limpo." },
-        { "level": "A2-B1", "fr": "Le boulanger se tient derrière le comptoir.", "pt": "O padeiro fica atrás do balcão." },
-        { "level": "B2", "fr": "Sur le comptoir, les viennoiseries sont alignées.", "pt": "Sobre o balcão, os pãezinhos estão alinhados." },
-        { "level": "C1-C2", "fr": "C'est le comptoir qui, séparant le client de l'artisan, devient le lieu de l'échange quotidien.", "pt": "É o balcão que, separando o cliente do artesão, vira o lugar da troca cotidiana." }
+        {
+          "level": "A1",
+          "fr": "Le comptoir est propre.",
+          "pt": "O balcão está limpo."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Le boulanger se tient derrière le comptoir.",
+          "pt": "O padeiro fica atrás do balcão."
+        },
+        {
+          "level": "B2",
+          "fr": "Sur le comptoir, les viennoiseries sont alignées.",
+          "pt": "Sobre o balcão, os pãezinhos estão alinhados."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est le comptoir qui, séparant le client de l'artisan, devient le lieu de l'échange quotidien.",
+          "pt": "É o balcão que, separando o cliente do artesão, vira o lugar da troca cotidiana."
+        }
       ]
     },
     {
       "term": "l'odeur",
       "definitionPt": "o cheiro",
       "definitionFr": "Sensation perçue par le nez.",
-      "inflections": ["l'odeur", "une odeur", "des odeurs"],
-      "ptTargets": ["cheiro", "odor"],
+      "inflections": [
+        "l'odeur",
+        "une odeur",
+        "des odeurs"
+      ],
+      "ptTargets": [
+        "cheiro",
+        "odor"
+      ],
       "examples": [
-        { "level": "A1", "fr": "L'odeur est bonne.", "pt": "O cheiro é bom." },
-        { "level": "A2-B1", "fr": "Une odeur de pain chaud guide les passants.", "pt": "Um cheiro de pão quente guia os passantes." },
-        { "level": "B2", "fr": "L'odeur du pain frais réveille des souvenirs d'enfance.", "pt": "O cheiro do pão fresco desperta lembranças da infância." },
-        { "level": "C1-C2", "fr": "C'est l'odeur qui, plus vite que les mots, ramène un lieu ou un visage à la mémoire.", "pt": "É o cheiro que, mais rápido que as palavras, traz de volta à memória um lugar ou um rosto." }
+        {
+          "level": "A1",
+          "fr": "L'odeur est bonne.",
+          "pt": "O cheiro é bom."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Une odeur de pain chaud guide les passants.",
+          "pt": "Um cheiro de pão quente guia os passantes."
+        },
+        {
+          "level": "B2",
+          "fr": "L'odeur du pain frais réveille des souvenirs d'enfance.",
+          "pt": "O cheiro do pão fresco desperta lembranças da infância."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est l'odeur qui, plus vite que les mots, ramène un lieu ou un visage à la mémoire.",
+          "pt": "É o cheiro que, mais rápido que as palavras, traz de volta à memória um lugar ou um rosto."
+        }
       ]
     },
     {
       "term": "le four",
       "definitionPt": "o forno",
       "definitionFr": "Appareil pour cuire.",
-      "inflections": ["le four", "un four", "des fours"],
-      "ptTargets": ["forno"],
+      "inflections": [
+        "le four",
+        "un four",
+        "des fours"
+      ],
+      "ptTargets": [
+        "forno"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le four est chaud.", "pt": "O forno está quente." },
-        { "level": "A2-B1", "fr": "La baguette sort du four.", "pt": "A baguete sai do forno." },
-        { "level": "B2", "fr": "Le four du boulanger chauffe dès l'aube.", "pt": "O forno do padeiro aquece desde a madrugada." },
-        { "level": "C1-C2", "fr": "C'est le four qui, par sa chaleur, transforme la pâte en pain doré.", "pt": "É o forno que, com seu calor, transforma a massa em pão dourado." }
+        {
+          "level": "A1",
+          "fr": "Le four est chaud.",
+          "pt": "O forno está quente."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "La baguette sort du four.",
+          "pt": "A baguete sai do forno."
+        },
+        {
+          "level": "B2",
+          "fr": "Le four du boulanger chauffe dès l'aube.",
+          "pt": "O forno do padeiro aquece desde a madrugada."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est le four qui, par sa chaleur, transforme la pâte en pain doré.",
+          "pt": "É o forno que, com seu calor, transforma a massa em pão dourado."
+        }
       ]
     },
     {
       "term": "la mairie",
       "definitionPt": "a prefeitura",
       "definitionFr": "Bâtiment de l'administration communale.",
-      "inflections": ["la mairie", "une mairie", "des mairies"],
-      "ptTargets": ["prefeitura"],
+      "inflections": [
+        "la mairie",
+        "une mairie",
+        "des mairies"
+      ],
+      "ptTargets": [
+        "prefeitura"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La mairie est au centre.", "pt": "A prefeitura fica no centro." },
-        { "level": "A2-B1", "fr": "Quelqu'un a montré la carte à la mairie.", "pt": "Alguém mostrou o mapa na prefeitura." },
-        { "level": "B2", "fr": "La mairie conserve les plans anciens de la ville.", "pt": "A prefeitura conserva as plantas antigas da cidade." },
-        { "level": "C1-C2", "fr": "C'est la mairie qui, au cœur de la commune, garde les traces de la vie collective.", "pt": "É a prefeitura que, no coração da comuna, guarda os rastros da vida coletiva." }
+        {
+          "level": "A1",
+          "fr": "La mairie est au centre.",
+          "pt": "A prefeitura fica no centro."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Quelqu'un a montré la carte à la mairie.",
+          "pt": "Alguém mostrou o mapa na prefeitura."
+        },
+        {
+          "level": "B2",
+          "fr": "La mairie conserve les plans anciens de la ville.",
+          "pt": "A prefeitura conserva as plantas antigas da cidade."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est la mairie qui, au cœur de la commune, garde les traces de la vie collective.",
+          "pt": "É a prefeitura que, no coração da comuna, guarda os rastros da vida coletiva."
+        }
       ]
     },
     {
       "term": "l'homme",
       "definitionPt": "o homem",
       "definitionFr": "Être humain de sexe masculin.",
-      "inflections": ["l'homme", "un homme", "des hommes"],
-      "ptTargets": ["homem"],
+      "inflections": [
+        "l'homme",
+        "un homme",
+        "des hommes"
+      ],
+      "ptTargets": [
+        "homem"
+      ],
       "examples": [
-        { "level": "A1", "fr": "L'homme est grand.", "pt": "O homem é alto." },
-        { "level": "A2-B1", "fr": "Un homme en manteau gris est passé.", "pt": "Um homem de sobretudo cinza passou." },
-        { "level": "B2", "fr": "L'homme au manteau gris observait sans rien dire.", "pt": "O homem de sobretudo cinza observava sem dizer nada." },
-        { "level": "C1-C2", "fr": "C'est l'homme qui, silencieux, laisse derrière lui plus de questions que de réponses.", "pt": "É o homem que, silencioso, deixa atrás de si mais perguntas do que respostas." }
+        {
+          "level": "A1",
+          "fr": "L'homme est grand.",
+          "pt": "O homem é alto."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Un homme en manteau gris est passé.",
+          "pt": "Um homem de sobretudo cinza passou."
+        },
+        {
+          "level": "B2",
+          "fr": "L'homme au manteau gris observait sans rien dire.",
+          "pt": "O homem de sobretudo cinza observava sem dizer nada."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est l'homme qui, silencieux, laisse derrière lui plus de questions que de réponses.",
+          "pt": "É o homem que, silencioso, deixa atrás de si mais perguntas do que respostas."
+        }
       ]
     },
     {
       "term": "remercier",
       "definitionPt": "agradecer",
       "definitionFr": "Dire merci.",
-      "inflections": ["remercier", "je remercie", "nous remercions"],
-      "ptTargets": ["agradecer"],
+      "inflections": [
+        "remercier",
+        "je remercie",
+        "nous remercions"
+      ],
+      "ptTargets": [
+        "agradecer"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Je remercie le boulanger.", "pt": "Eu agradeço o padeiro." },
-        { "level": "A2-B1", "fr": "Andréa prend le pain et remercie.", "pt": "Andréa pega o pão e agradece." },
-        { "level": "B2", "fr": "Elle remercie le boulanger d'un sourire.", "pt": "Ela agradece o padeiro com um sorriso." },
-        { "level": "C1-C2", "fr": "C'est en remerciant que l'on reconnaît ce que l'autre nous donne, même sans le savoir.", "pt": "É agradecendo que se reconhece o que o outro nos dá, mesmo sem saber." }
+        {
+          "level": "A1",
+          "fr": "Je remercie le boulanger.",
+          "pt": "Eu agradeço o padeiro."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Andréa prend le pain et remercie.",
+          "pt": "Andréa pega o pão e agradece."
+        },
+        {
+          "level": "B2",
+          "fr": "Elle remercie le boulanger d'un sourire.",
+          "pt": "Ela agradece o padeiro com um sorriso."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est en remerciant que l'on reconnaît ce que l'autre nous donne, même sans le savoir.",
+          "pt": "É agradecendo que se reconhece o que o outro nos dá, mesmo sem saber."
+        }
       ]
     },
     {
       "term": "réfléchir",
       "definitionPt": "refletir / pensar",
       "definitionFr": "Penser avec attention.",
-      "inflections": ["réfléchir", "je réfléchis", "nous réfléchissons"],
-      "ptTargets": ["refletir", "pensar"],
+      "inflections": [
+        "réfléchir",
+        "je réfléchis",
+        "nous réfléchissons"
+      ],
+      "ptTargets": [
+        "refletir",
+        "pensar"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Je réfléchis.", "pt": "Eu reflito." },
-        { "level": "A2-B1", "fr": "Il faut réfléchir avant d'agir.", "pt": "É preciso pensar antes de agir." },
-        { "level": "B2", "fr": "Réfléchir calmement aide à ne pas céder à la peur.", "pt": "Refletir com calma ajuda a não ceder ao medo." },
-        { "level": "C1-C2", "fr": "C'est en réfléchissant que l'on dénoue les fils d'une énigme.", "pt": "É refletindo que se desatam os fios de um enigma." }
+        {
+          "level": "A1",
+          "fr": "Je réfléchis.",
+          "pt": "Eu reflito."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Il faut réfléchir avant d'agir.",
+          "pt": "É preciso pensar antes de agir."
+        },
+        {
+          "level": "B2",
+          "fr": "Réfléchir calmement aide à ne pas céder à la peur.",
+          "pt": "Refletir com calma ajuda a não ceder ao medo."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est en réfléchissant que l'on dénoue les fils d'une énigme.",
+          "pt": "É refletindo que se desatam os fios de um enigma."
+        }
       ]
     }
   ],
@@ -234,7 +515,11 @@
     "exampleFr": "J'achète du pain, de la confiture et des croissants.",
     "examplePt": "Eu compro pão, geleia e croissants.",
     "practiceQuestion": "Complete: 'J'achète _____ pain.'",
-    "options": ["du", "de la", "des"],
+    "options": [
+      "du",
+      "de la",
+      "des"
+    ],
     "correctIndex": 0,
     "points": [
       {
@@ -243,7 +528,11 @@
         "exampleFr": "Que désirez-vous ? Une baguette, s'il vous plaît.",
         "examplePt": "O que desejam? Uma baguete, por favor.",
         "practiceQuestion": "Complete: 'Que _____ -vous ?'",
-        "options": ["désirez", "désire", "désires"],
+        "options": [
+          "désirez",
+          "désire",
+          "désires"
+        ],
         "correctIndex": 0
       },
       {
@@ -252,7 +541,11 @@
         "exampleFr": "Chez moi, on achète du pain frais.",
         "examplePt": "Na minha terra, compra-se pão fresco.",
         "practiceQuestion": "Complete: '_____ moi, il fait chaud.'",
-        "options": ["Chez", "Dans", "À"],
+        "options": [
+          "Chez",
+          "Dans",
+          "À"
+        ],
         "correctIndex": 0
       }
     ]
@@ -260,31 +553,51 @@
   "quizQuestions": [
     {
       "question": "Onde Irlan e Andréa entram de manhã?",
-      "options": ["na padaria do bairro", "na prefeitura", "na mercearia"],
+      "options": [
+        "na padaria do bairro",
+        "na prefeitura",
+        "na mercearia"
+      ],
       "correctIndex": 0,
       "explanation": "Ils entrent dans la boulangerie du quartier."
     },
     {
       "question": "O que Andréa compra?",
-      "options": ["uma baguete e dois croissants", "um bolo e café", "queijo e vinho"],
+      "options": [
+        "uma baguete e dois croissants",
+        "um bolo e café",
+        "queijo e vinho"
+      ],
       "correctIndex": 0,
       "explanation": "Une baguette et deux croissants, s'il vous plaît."
     },
     {
       "question": "O que o padeiro conta sobre o homem de sobretudo cinza?",
-      "options": ["que ele passou ontem", "que ele mora ao lado", "que ele é o prefeito"],
+      "options": [
+        "que ele passou ontem",
+        "que ele mora ao lado",
+        "que ele é o prefeito"
+      ],
       "correctIndex": 0,
       "explanation": "Un homme en manteau gris est passé hier."
     },
     {
       "question": "Complete: 'J'achète _____ pain.'",
-      "options": ["du", "de la", "des"],
+      "options": [
+        "du",
+        "de la",
+        "des"
+      ],
       "correctIndex": 0,
       "explanation": "du pain (partitivo masculino)."
     },
     {
       "question": "Complete: '_____ moi, on achète du pain frais.'",
-      "options": ["Chez", "Dans", "À"],
+      "options": [
+        "Chez",
+        "Dans",
+        "À"
+      ],
       "correctIndex": 0,
       "explanation": "Chez moi = na minha terra."
     }

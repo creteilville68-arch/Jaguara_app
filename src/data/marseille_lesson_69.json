@@ -7,7 +7,7 @@
   "titlePt": "Irlan encontra um novo trabalho em Marseille",
   "subtitleFr": "Le subjonctif avec jusqu'à ce que",
   "subtitlePt": "O subjonctif com jusqu'à ce que",
-  "summaryPt": "Depois de dois anos entregando refeições de scooter, Irlan é contratado como analista de estudos em uma agência de urbanismo. Nesta aula C1, ele pratica 'jusqu'à ce que' + subjonctif e recebe uma missão de seis meses em Strasbourg.",
+  "summaryPt": "Depois de dois anos entregando refeições de scooter, Irlan é chamado para uma entrevista em uma agência de urbanismo — mas percebe que uma mesa de escritório não pode esperar mais que a história do Atlas. Nesta aula C1, ele pratica 'jusqu'à ce que' + subjonctif e escolhe seguir a carta de Manoel.",
   "paragraphs": [
     {
       "id": 1,
@@ -21,18 +21,18 @@
     },
     {
       "id": 3,
-      "fr": "À la maison, Andréa et Íris étaient fières de lui. « Papa, tu vas dessiner les villes maintenant ? », avait demandé Íris. « Mieux que ça, je vais les améliorer », avait répondu Irlan. Andréa avait préparé un couscous pour célébrer, le plat préféré d'Irlan. Ce soir-là, la famille avait fait un grand projet : visiter toutes les villes de France où Irlan travaillerait.",
-      "pt": "Em casa, Andréa e Íris estavam orgulhosas dele. « Papai, você vai desenhar as cidades agora? », perguntou Íris. « Melhor que isso, vou melhorá-las », respondeu Irlan. Andréa preparou um cuscuz para celebrar, o prato favorito de Irlan. Naquela noite, a família fez um grande projeto: visitar todas as cidades da França onde Irlan trabalhasse."
+      "fr": "À la maison, Andréa avait préparé un couscous pour célébrer, le plat préféré d'Irlan. Mais ce soir-là, Irlan n'était pas aussi joyeux qu'elle l'espérait. « Je ne suis pas sûr de vouloir ce poste, dit-il. Un bureau, des réunions... Et l'Atlas ? Et la carte marine du musée ? Nous ne sommes pas encore au bout du chemin. »",
+      "pt": "Em casa, Andréa preparou um cuscuz para celebrar, o prato favorito de Irlan. Mas naquela noite, Irlan não estava tão alegre quanto ela esperava. « Não tenho certeza de querer este cargo, disse ele. Uma mesa, reuniões... E o Atlas? E o mapa náutico do museu? Ainda não chegamos ao fim do caminho. »"
     },
     {
       "id": 4,
-      "fr": "Quelques semaines plus tard, Irlan recevait une proposition : une mission de six mois à Strasbourg, pour un grand projet de réaménagement du quartier de la gare. La famille avait hésité, puis accepté. « On a visité Paris, Amiens, Lille, le Mont, Tours, Bordeaux, Toulouse et Lyon », avait dit Andréa. « Strasbourg sera notre neuvième chapitre ». Irlan avait regardé sa scooter, fidèle compagne : elle allait encore voyager.",
-      "pt": "Algumas semanas depois, Irlan recebia uma proposta: uma missão de seis meses em Strasbourg, para um grande projeto de requalificação do bairro da estação. A família hesitou, depois aceitou. « Visitamos Paris, Amiens, Lille, o Mont, Tours, Bordeaux, Toulouse e Lyon », disse Andréa. « Strasbourg será nosso nono capítulo ». Irlan olhou para sua scooter, fiel companheira: ela ainda ia viajar."
+      "fr": "Le lendemain, à l'entretien final, la directrice lui proposa une mission de six mois à Strasbourg, pour réaménager le quartier de la gare. Irlan regarda par la fenêtre : la ville, le port, la mer. Puis il se souvint des registres où l'on effaçait les noms, et de la carte de Rocha de Oliveira. « Je vous remercie, dit-il, mais je ne peux pas accepter. Il reste une histoire à terminer. » Il ressortit dans le soleil ; sa scooter fidèle l'attendait.",
+      "pt": "No dia seguinte, na entrevista final, a diretora lhe propôs uma missão de seis meses em Strasbourg, para requalificar o bairro da estação. Irlan olhou pela janela: a cidade, o porto, o mar. Depois se lembrou dos registros onde se apagavam nomes, e do mapa de Rocha de Oliveira. « Agradeço, disse ele, mas não posso aceitar. Falta terminar uma história. » Ele saiu de novo para o sol; sua fiel scooter o esperava."
     },
     {
       "id": 5,
-      "fr": "Le soir, Irlan écrivit : « J'ai livré des repas jusqu'à ce que l'occasion se présente. J'ai appris la ville jusqu'à ce qu'elle devienne mienne. Jusqu'à ce que le projet soit terminé, je donnerai tout. Et ensuite ? Ensuite, on verra. »",
-      "pt": "À noite, Irlan escreveu: « Entreguei refeições até que a oportunidade aparecesse. Aprendi a cidade até que ela se tornasse minha. Até que o projeto esteja terminado, darei tudo. E depois? Depois, veremos. »"
+      "fr": "Le soir, Irlan écrivit : « J'ai livré des repas jusqu'à ce que l'occasion se présente. J'ai appris la ville jusqu'à ce qu'elle devienne mienne. Jusqu'à ce que le nom de Manoel soit rendu au monde, je suivrai la carte. Un bureau peut attendre. Pas lui. »",
+      "pt": "À noite, Irlan escreveu: « Entreguei refeições até que a oportunidade aparecesse. Aprendi a cidade até que ela se tornasse minha. Até que o nome de Manoel seja devolvido ao mundo, seguirei o mapa. Uma mesa pode esperar. Ele, não. »"
     }
   ],
   "vocabularyDictionary": [
@@ -222,36 +222,45 @@
       }
     ]
   },
-  "quizQuestions": [
-    {
-      "question": "Qual cargo Irlan obteve em Marseille?",
-      "options": ["Analista de estudos em urbanismo", "Cozinheiro", "Professor"],
-      "correctIndex": 0,
-      "explanation": "Irlan foi contratado como chargé d'études em uma agência de urbanismo."
-    },
+  "quizQuestions": [ {
+  "question": "O que Irlan decidiu após a entrevista final?",
+  "options": [
+   "Não aceitar o posto e continuar a seguir a carta",
+   "Aceitar a missão em Strasbourg",
+   "Vender a scooter"
+  ],
+  "correctIndex": 0,
+  "explanation": "Irlan recusou o posto: 'il reste une histoire à terminer'."
+ },
     {
       "question": "Qual missão Irlan recebe?",
       "options": ["Seis meses em Strasbourg", "Um ano em Nice", "Seis meses em Lyon"],
       "correctIndex": 0,
       "explanation": "Irlan recebe uma missão de seis meses em Strasbourg para requalificar o bairro da estação."
-    },
-    {
-      "question": "Complete: « La famille restera à Marseille jusqu'à ce que la mission ___ prête. »",
-      "options": ["soit", "est", "sera"],
-      "correctIndex": 0,
-      "explanation": "Jusqu'à ce que + subjonctif: 'soit'."
-    },
+    }, {
+  "question": "Complete: « Je suivrai la carte jusqu'à ce que le nom de Manoel ___ rendu au monde. »",
+  "options": [
+   "soit",
+   "est",
+   "sera"
+  ],
+  "correctIndex": 0,
+  "explanation": "Jusqu'à ce que + subjonctif: 'soit rendu'."
+ },
     {
       "question": "O que foi decisivo na entrevista de Irlan?",
       "options": ["Seu conhecimento da cidade como entregador", "Seus diplomas", "Sua família"],
       "correctIndex": 0,
       "explanation": "A diretora disse: 'Vous connaissez la ville mieux que nous'."
-    },
-    {
-      "question": "Qual foi o primeiro projeto de Irlan?",
-      "options": ["Requalificar as margens do Vieux-Port", "Construir um estádio", "Projetar um metrô"],
-      "correctIndex": 0,
-      "explanation": "O primeiro projeto de Irlan foi réaménager os abords do Vieux-Port para os pedestres."
-    }
+    }, {
+  "question": "O que Irlan fez depois da entrevista?",
+  "options": [
+   "Saiu no sol e voltou para a scooter",
+   "Comprou um carro",
+   "Mudou-se para Paris"
+  ],
+  "correctIndex": 0,
+  "explanation": "Irlan ressortit dans le soleil ; sa scooter fidèle l'attendait."
+ }
   ]
 }

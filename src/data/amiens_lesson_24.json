@@ -68,6 +68,21 @@
       "id": 12,
       "fr": "« Direction la cathédrale, puis Lille », dit Irlan, la voix ferme.",
       "pt": "« Direção à catedral, depois Lille », diz Irlan, com a voz firme."
+    },
+    {
+      "id": 13,
+      "fr": "Irlan range ses affaires dans l'armoire. Il met les chaussettes propres et les serviettes de bain dans la valise.",
+      "pt": "Irlan arruma suas coisas no armário. Coloca as meias limpas e as toalhas de banho na mala."
+    },
+    {
+      "id": 14,
+      "fr": "Andréa passe la serpillière dans la chambre. Le plancher est propre. « On va ranger la chambre avant de partir », dit-elle.",
+      "pt": "Andréa passa a serpillière no quarto. O assoalho está limpo. Vamos arrumar o quarto antes de partir, diz ela."
+    },
+    {
+      "id": 15,
+      "fr": "Irlan vérifie la carte d'identité et le passeport. Il met le portefeuille dans la poche intérieure du pull-over.",
+      "pt": "Irlan verifica o documento de identidade e o passaporte. Ele coloca a carteira no bolso interior do pulôver."
     }
   ],
   "vocabularyDictionary": [
@@ -75,156 +90,421 @@
       "term": "la valise",
       "definitionPt": "a mala",
       "definitionFr": "Bagage pour les vêtements.",
-      "inflections": ["la valise", "une valise", "des valises"],
-      "ptTargets": ["mala"],
+      "inflections": [
+        "la valise",
+        "une valise",
+        "des valises"
+      ],
+      "ptTargets": [
+        "mala"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La valise est lourde.", "pt": "A mala é pesada." },
-        { "level": "A2-B1", "fr": "Ils préparent leurs valises.", "pt": "Eles preparam as malas." },
-        { "level": "B2", "fr": "La valise, bien fermée, contient tout le nécessaire du voyage.", "pt": "A mala, bem fechada, contém todo o necessário da viagem." },
-        { "level": "C1-C2", "fr": "C'est la valise qui, remplie puis fermée, matérialise le seuil entre rester et partir.", "pt": "É a mala que, cheia e depois fechada, materializa o limiar entre ficar e partir." }
+        {
+          "level": "A1",
+          "fr": "La valise est lourde.",
+          "pt": "A mala é pesada."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Ils préparent leurs valises.",
+          "pt": "Eles preparam as malas."
+        },
+        {
+          "level": "B2",
+          "fr": "La valise, bien fermée, contient tout le nécessaire du voyage.",
+          "pt": "A mala, bem fechada, contém todo o necessário da viagem."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est la valise qui, remplie puis fermée, matérialise le seuil entre rester et partir.",
+          "pt": "É a mala que, cheia e depois fechada, materializa o limiar entre ficar e partir."
+        }
       ]
     },
     {
       "term": "préparer",
       "definitionPt": "preparar",
       "definitionFr": "Rendre prêt.",
-      "inflections": ["préparer", "je prépare", "nous préparons"],
-      "ptTargets": ["preparar"],
+      "inflections": [
+        "préparer",
+        "je prépare",
+        "nous préparons"
+      ],
+      "ptTargets": [
+        "preparar"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Je prépare ma valise.", "pt": "Eu preparo minha mala." },
-        { "level": "A2-B1", "fr": "Ils préparent leur départ.", "pt": "Eles preparam a partida." },
-        { "level": "B2", "fr": "Préparer un voyage demande de l'organisation.", "pt": "Preparar uma viagem exige organização." },
-        { "level": "C1-C2", "fr": "C'est en préparant que l'on se projette dans le voyage à venir.", "pt": "É preparando que a gente se projeta na viagem que vem." }
+        {
+          "level": "A1",
+          "fr": "Je prépare ma valise.",
+          "pt": "Eu preparo minha mala."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Ils préparent leur départ.",
+          "pt": "Eles preparam a partida."
+        },
+        {
+          "level": "B2",
+          "fr": "Préparer un voyage demande de l'organisation.",
+          "pt": "Preparar uma viagem exige organização."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est en préparant que l'on se projette dans le voyage à venir.",
+          "pt": "É preparando que a gente se projeta na viagem que vem."
+        }
       ]
     },
     {
       "term": "le vêtement",
       "definitionPt": "a roupa",
       "definitionFr": "Ce que l'on porte.",
-      "inflections": ["le vêtement", "un vêtement", "des vêtements"],
-      "ptTargets": ["roupa"],
+      "inflections": [
+        "le vêtement",
+        "un vêtement",
+        "des vêtements"
+      ],
+      "ptTargets": [
+        "roupa"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le vêtement est propre.", "pt": "A roupa está limpa." },
-        { "level": "A2-B1", "fr": "Andréa plie ses vêtements sur le lit.", "pt": "Andréa dobra as roupas sobre a cama." },
-        { "level": "B2", "fr": "Des vêtements chauds sont indispensables pour le nord.", "pt": "Roupas quentes são indispensáveis para o norte." },
-        { "level": "C1-C2", "fr": "C'est le vêtement qui, choisi avec soin, prépare le corps aux routes à venir.", "pt": "É a roupa que, escolhida com cuidado, prepara o corpo para as estradas que vêm." }
+        {
+          "level": "A1",
+          "fr": "Le vêtement est propre.",
+          "pt": "A roupa está limpa."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Andréa plie ses vêtements sur le lit.",
+          "pt": "Andréa dobra as roupas sobre a cama."
+        },
+        {
+          "level": "B2",
+          "fr": "Des vêtements chauds sont indispensables pour le nord.",
+          "pt": "Roupas quentes são indispensáveis para o norte."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est le vêtement qui, choisi avec soin, prépare le corps aux routes à venir.",
+          "pt": "É a roupa que, escolhida com cuidado, prepara o corpo para as estradas que vêm."
+        }
       ]
     },
     {
       "term": "plier",
       "definitionPt": "dobrar",
       "definitionFr": "Replier proprement.",
-      "inflections": ["plier", "je plie", "nous plions"],
-      "ptTargets": ["dobrar"],
+      "inflections": [
+        "plier",
+        "je plie",
+        "nous plions"
+      ],
+      "ptTargets": [
+        "dobrar"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Je plie la chemise.", "pt": "Eu dobro a camisa." },
-        { "level": "A2-B1", "fr": "Andréa plie soigneusement ses vêtements.", "pt": "Andréa dobra com cuidado suas roupas." },
-        { "level": "B2", "fr": "Plier les vêtements permet de gagner de la place.", "pt": "Dobrar as roupas permite ganhar espaço." },
-        { "level": "C1-C2", "fr": "C'est en pliant que l'on range, et en rangeant que l'on se prépare à partir.", "pt": "É dobrando que se arruma, e arrumando que se prepara para partir." }
+        {
+          "level": "A1",
+          "fr": "Je plie la chemise.",
+          "pt": "Eu dobro a camisa."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Andréa plie soigneusement ses vêtements.",
+          "pt": "Andréa dobra com cuidado suas roupas."
+        },
+        {
+          "level": "B2",
+          "fr": "Plier les vêtements permet de gagner de la place.",
+          "pt": "Dobrar as roupas permite ganhar espaço."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est en pliant que l'on range, et en rangeant que l'on se prépare à partir.",
+          "pt": "É dobrando que se arruma, e arrumando que se prepara para partir."
+        }
       ]
     },
     {
       "term": "le lit",
       "definitionPt": "a cama",
       "definitionFr": "Meuble pour dormir.",
-      "inflections": ["le lit", "un lit", "des lits"],
-      "ptTargets": ["cama"],
+      "inflections": [
+        "le lit",
+        "un lit",
+        "des lits"
+      ],
+      "ptTargets": [
+        "cama"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le lit est grand.", "pt": "A cama é grande." },
-        { "level": "A2-B1", "fr": "Les vêtements sont sur le lit.", "pt": "As roupas estão sobre a cama." },
-        { "level": "B2", "fr": "Le lit, soigneusement fait, donne de l'ordre à la chambre.", "pt": "A cama, bem arrumada, dá ordem ao quarto." },
-        { "level": "C1-C2", "fr": "C'est le lit qui, chaque soir, accueille le repos et les rêves du voyageur.", "pt": "É a cama que, toda noite, acolhe o descanso e os sonhos do viajante." }
+        {
+          "level": "A1",
+          "fr": "Le lit est grand.",
+          "pt": "A cama é grande."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Les vêtements sont sur le lit.",
+          "pt": "As roupas estão sobre a cama."
+        },
+        {
+          "level": "B2",
+          "fr": "Le lit, soigneusement fait, donne de l'ordre à la chambre.",
+          "pt": "A cama, bem arrumada, dá ordem ao quarto."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est le lit qui, chaque soir, accueille le repos et les rêves du voyageur.",
+          "pt": "É a cama que, toda noite, acolhe o descanso e os sonhos do viajante."
+        }
       ]
     },
     {
       "term": "oublier",
       "definitionPt": "esquecer",
       "definitionFr": "Ne pas se souvenir.",
-      "inflections": ["oublier", "j'oublie", "nous oublions"],
-      "ptTargets": ["esquecer"],
+      "inflections": [
+        "oublier",
+        "j'oublie",
+        "nous oublions"
+      ],
+      "ptTargets": [
+        "esquecer"
+      ],
       "examples": [
-        { "level": "A1", "fr": "J'oublie mon écharpe.", "pt": "Eu esqueço meu cachecol." },
-        { "level": "A2-B1", "fr": "N'oublie pas ton écharpe.", "pt": "Não esqueça seu cachecol." },
-        { "level": "B2", "fr": "Oublier un détail peut gâcher le voyage.", "pt": "Esquecer um detalhe pode estragar a viagem." },
-        { "level": "C1-C2", "fr": "C'est en craignant d'oublier que l'on fait l'inventaire de ce qui compte vraiment.", "pt": "É temendo esquecer que se faz o inventário do que realmente importa." }
+        {
+          "level": "A1",
+          "fr": "J'oublie mon écharpe.",
+          "pt": "Eu esqueço meu cachecol."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "N'oublie pas ton écharpe.",
+          "pt": "Não esqueça seu cachecol."
+        },
+        {
+          "level": "B2",
+          "fr": "Oublier un détail peut gâcher le voyage.",
+          "pt": "Esquecer um detalhe pode estragar a viagem."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est en craignant d'oublier que l'on fait l'inventaire de ce qui compte vraiment.",
+          "pt": "É temendo esquecer que se faz o inventário do que realmente importa."
+        }
       ]
     },
     {
       "term": "ranger",
       "definitionPt": "guardar / arrumar",
       "definitionFr": "Mettre en ordre.",
-      "inflections": ["ranger", "je range", "nous rangeons"],
-      "ptTargets": ["guardar", "arrumar"],
+      "inflections": [
+        "ranger",
+        "je range",
+        "nous rangeons"
+      ],
+      "ptTargets": [
+        "guardar",
+        "arrumar"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Je range ma chambre.", "pt": "Eu arrumo meu quarto." },
-        { "level": "A2-B1", "fr": "Irlan range l'Atlas et le carnet.", "pt": "Irlan guarda o Atlas e o caderno." },
-        { "level": "B2", "fr": "Ranger ses affaires avant de partir évite les oublis.", "pt": "Guardar as coisas antes de partir evita os esquecimentos." },
-        { "level": "C1-C2", "fr": "C'est en rangeant que l'on fait le tri entre l'utile et l'accessoire.", "pt": "É arrumando que se separa o útil do acessório." }
+        {
+          "level": "A1",
+          "fr": "Je range ma chambre.",
+          "pt": "Eu arrumo meu quarto."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Irlan range l'Atlas et le carnet.",
+          "pt": "Irlan guarda o Atlas e o caderno."
+        },
+        {
+          "level": "B2",
+          "fr": "Ranger ses affaires avant de partir évite les oublis.",
+          "pt": "Guardar as coisas antes de partir evita os esquecimentos."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est en rangeant que l'on fait le tri entre l'utile et l'accessoire.",
+          "pt": "É arrumando que se separa o útil do acessório."
+        }
       ]
     },
     {
       "term": "l'automne",
       "definitionPt": "o outono",
       "definitionFr": "Saison après l'été.",
-      "inflections": ["l'automne", "un automne"],
-      "ptTargets": ["outono"],
+      "inflections": [
+        "l'automne",
+        "un automne"
+      ],
+      "ptTargets": [
+        "outono"
+      ],
       "examples": [
-        { "level": "A1", "fr": "L'automne est frais.", "pt": "O outono é fresco." },
-        { "level": "A2-B1", "fr": "Nous sommes en automne.", "pt": "Estamos no outono." },
-        { "level": "B2", "fr": "En automne, les jours raccourcissent.", "pt": "No outono, os dias encurtam." },
-        { "level": "C1-C2", "fr": "C'est l'automne qui, en transformant le paysage, annonce le recueillement de l'hiver.", "pt": "É o outono que, ao transformar a paisagem, anuncia o recolhimento do inverno." }
+        {
+          "level": "A1",
+          "fr": "L'automne est frais.",
+          "pt": "O outono é fresco."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Nous sommes en automne.",
+          "pt": "Estamos no outono."
+        },
+        {
+          "level": "B2",
+          "fr": "En automne, les jours raccourcissent.",
+          "pt": "No outono, os dias encurtam."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est l'automne qui, en transformant le paysage, annonce le recueillement de l'hiver.",
+          "pt": "É o outono que, ao transformar a paisagem, anuncia o recolhimento do inverno."
+        }
       ]
     },
     {
       "term": "le printemps",
       "definitionPt": "a primavera",
       "definitionFr": "Saison après l'hiver.",
-      "inflections": ["le printemps", "un printemps"],
-      "ptTargets": ["primavera"],
+      "inflections": [
+        "le printemps",
+        "un printemps"
+      ],
+      "ptTargets": [
+        "primavera"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le printemps est doux.", "pt": "A primavera é suave." },
-        { "level": "A2-B1", "fr": "La lumière traverse la rosace au printemps.", "pt": "A luz atravessa a rosácea na primavera." },
-        { "level": "B2", "fr": "Au printemps, les jours s'allongent et la ville reverdit.", "pt": "Na primavera, os dias alongam e a cidade reverdece." },
-        { "level": "C1-C2", "fr": "C'est le printemps qui, en réveillant la nature, réveille aussi l'espoir.", "pt": "É a primavera que, ao despertar a natureza, desperta também a esperança." }
+        {
+          "level": "A1",
+          "fr": "Le printemps est doux.",
+          "pt": "A primavera é suave."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "La lumière traverse la rosace au printemps.",
+          "pt": "A luz atravessa a rosácea na primavera."
+        },
+        {
+          "level": "B2",
+          "fr": "Au printemps, les jours s'allongent et la ville reverdit.",
+          "pt": "Na primavera, os dias alongam e a cidade reverdece."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est le printemps qui, en réveillant la nature, réveille aussi l'espoir.",
+          "pt": "É a primavera que, ao despertar a natureza, desperta também a esperança."
+        }
       ]
     },
     {
       "term": "la saison",
       "definitionPt": "a estação (do ano)",
       "definitionFr": "Période de l'année.",
-      "inflections": ["la saison", "une saison", "des saisons"],
-      "ptTargets": ["estação", "temporada"],
+      "inflections": [
+        "la saison",
+        "une saison",
+        "des saisons"
+      ],
+      "ptTargets": [
+        "estação",
+        "temporada"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La saison est belle.", "pt": "A estação é bonita." },
-        { "level": "A2-B1", "fr": "Le message change selon la saison.", "pt": "A mensagem muda conforme a estação." },
-        { "level": "B2", "fr": "Chaque saison transforme la lumière de la ville.", "pt": "Cada estação transforma a luz da cidade." },
-        { "level": "C1-C2", "fr": "C'est la saison qui, en rythmant l'année, donne aux lieux une humeur nouvelle.", "pt": "É a estação que, ao marcar o ritmo do ano, dá aos lugares um humor novo." }
+        {
+          "level": "A1",
+          "fr": "La saison est belle.",
+          "pt": "A estação é bonita."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Le message change selon la saison.",
+          "pt": "A mensagem muda conforme a estação."
+        },
+        {
+          "level": "B2",
+          "fr": "Chaque saison transforme la lumière de la ville.",
+          "pt": "Cada estação transforma a luz da cidade."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est la saison qui, en rythmant l'année, donne aux lieux une humeur nouvelle.",
+          "pt": "É a estação que, ao marcar o ritmo do ano, dá aos lugares um humor novo."
+        }
       ]
     },
     {
       "term": "comprendre",
       "definitionPt": "entender / compreender",
       "definitionFr": "Saisir le sens.",
-      "inflections": ["comprendre", "je comprends", "nous comprenons"],
-      "ptTargets": ["entender", "compreender"],
+      "inflections": [
+        "comprendre",
+        "je comprends",
+        "nous comprenons"
+      ],
+      "ptTargets": [
+        "entender",
+        "compreender"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Je comprends.", "pt": "Eu entendo." },
-        { "level": "A2-B1", "fr": "Andréa comprend le message.", "pt": "Andréa entende a mensagem." },
-        { "level": "B2", "fr": "Comprendre un indice demande de relier plusieurs détails.", "pt": "Entender uma pista exige ligar vários detalhes." },
-        { "level": "C1-C2", "fr": "C'est en comprenant que l'on transforme un mystère en direction.", "pt": "É entendendo que se transforma um mistério em direção." }
+        {
+          "level": "A1",
+          "fr": "Je comprends.",
+          "pt": "Eu entendo."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Andréa comprend le message.",
+          "pt": "Andréa entende a mensagem."
+        },
+        {
+          "level": "B2",
+          "fr": "Comprendre un indice demande de relier plusieurs détails.",
+          "pt": "Entender uma pista exige ligar vários detalhes."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est en comprenant que l'on transforme un mystère en direction.",
+          "pt": "É entendendo que se transforma um mistério em direção."
+        }
       ]
     },
     {
       "term": "le départ",
       "definitionPt": "a partida",
       "definitionFr": "Action de partir.",
-      "inflections": ["le départ", "un départ", "des départs"],
-      "ptTargets": ["partida"],
+      "inflections": [
+        "le départ",
+        "un départ",
+        "des départs"
+      ],
+      "ptTargets": [
+        "partida"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le départ est proche.", "pt": "A partida está próxima." },
-        { "level": "A2-B1", "fr": "Ils préparent leur départ pour Lille.", "pt": "Eles preparam a partida para Lille." },
-        { "level": "B2", "fr": "Le départ est toujours un mélange d'excitation et de nostalgie.", "pt": "A partida é sempre uma mistura de animação e nostalgia." },
-        { "level": "C1-C2", "fr": "C'est le départ qui, en fermant un chapitre, ouvre la route vers l'inconnu.", "pt": "É a partida que, ao fechar um capítulo, abre a estrada para o desconhecido." }
+        {
+          "level": "A1",
+          "fr": "Le départ est proche.",
+          "pt": "A partida está próxima."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Ils préparent leur départ pour Lille.",
+          "pt": "Eles preparam a partida para Lille."
+        },
+        {
+          "level": "B2",
+          "fr": "Le départ est toujours un mélange d'excitation et de nostalgie.",
+          "pt": "A partida é sempre uma mistura de animação e nostalgia."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est le départ qui, en fermant un chapitre, ouvre la route vers l'inconnu.",
+          "pt": "É a partida que, ao fechar um capítulo, abre a estrada para o desconhecido."
+        }
       ]
     }
   ],
@@ -234,7 +514,11 @@
     "exampleFr": "N'oublie pas ton écharpe.",
     "examplePt": "Não esqueça seu cachecol.",
     "practiceQuestion": "Complete: 'N'_____ pas ton écharpe.'",
-    "options": ["oublie", "oublies", "oubliez"],
+    "options": [
+      "oublie",
+      "oublies",
+      "oubliez"
+    ],
     "correctIndex": 0,
     "points": [
       {
@@ -243,7 +527,11 @@
         "exampleFr": "Nous sommes en automne. Au printemps, la lumière change.",
         "examplePt": "Estamos no outono. Na primavera, a luz muda.",
         "practiceQuestion": "Complete: 'Nous sommes _____ automne.'",
-        "options": ["en", "au", "dans"],
+        "options": [
+          "en",
+          "au",
+          "dans"
+        ],
         "correctIndex": 0
       },
       {
@@ -252,7 +540,11 @@
         "exampleFr": "Avant de partir, nous devons voir la dalle.",
         "examplePt": "Antes de partir, precisamos ver a laje.",
         "practiceQuestion": "Complete: 'Avant de _____, nous vérifions.'",
-        "options": ["partir", "partons", "parti"],
+        "options": [
+          "partir",
+          "partons",
+          "parti"
+        ],
         "correctIndex": 0
       }
     ]
@@ -260,31 +552,51 @@
   "quizQuestions": [
     {
       "question": "O que Irlan e Andréa preparam?",
-      "options": ["as malas", "o jantar", "o espetáculo"],
+      "options": [
+        "as malas",
+        "o jantar",
+        "o espetáculo"
+      ],
       "correctIndex": 0,
       "explanation": "Ils préparent leurs valises."
     },
     {
       "question": "O que Andréa lembra a Irlan de levar?",
-      "options": ["o cachecol", "o guarda-chuva", "o chapéu"],
+      "options": [
+        "o cachecol",
+        "o guarda-chuva",
+        "o chapéu"
+      ],
       "correctIndex": 0,
       "explanation": "N'oublie pas ton écharpe."
     },
     {
       "question": "O que muda conforme a estação?",
-      "options": ["a mensagem da laje", "o horário do trem", "a cor do céu"],
+      "options": [
+        "a mensagem da laje",
+        "o horário do trem",
+        "a cor do céu"
+      ],
       "correctIndex": 0,
       "explanation": "Le message change selon la saison."
     },
     {
       "question": "Complete: 'Nous sommes _____ automne.'",
-      "options": ["en", "au", "dans"],
+      "options": [
+        "en",
+        "au",
+        "dans"
+      ],
       "correctIndex": 0,
       "explanation": "en automne."
     },
     {
       "question": "Complete: 'Avant de _____, nous vérifions.'",
-      "options": ["partir", "partons", "parti"],
+      "options": [
+        "partir",
+        "partons",
+        "parti"
+      ],
       "correctIndex": 0,
       "explanation": "avant de + infinitif."
     }

@@ -7,7 +7,7 @@
   "titlePt": "O museu dos Agostinianos: as esculturas do claustro",
   "subtitleFr": "Décrire une œuvre d'art avec EN et les relatives",
   "subtitlePt": "Descrever uma obra de arte com EN e as relativas",
-  "summaryPt": "No antigo convento dos Agostinianos, transformado em museu em 1795, a família passeia pelo claustro gótico cheio de esculturas do Românico. Irlan descobre que o museu guarda as obras que a Revolução tinha confiscado dos conventos: 'il y en a des centaines'. Nesta aula B2, EN e as orações relativas descrevem as obras.",
+  "summaryPt": "No antigo convento dos Agostinianos, transformado em museu em 1795, o casal passeia pelo claustro gótico cheio de esculturas do Românico. Irlan descobre que o museu guarda as obras que a Revolução tinha confiscado dos conventos: 'il y en a des centaines'. Nesta aula B2, EN e as orações relativas descrevem as obras.",
   "paragraphs": [
     {
       "id": 1,
@@ -16,8 +16,8 @@
     },
     {
       "id": 2,
-      "fr": "« Ce musée, c'est un peu un miracle, expliqua la guide. Pendant la Révolution, les œuvres des couvents ont été confisquées. Au lieu de les détruire, on en a fait un musée en 1795. — Il y en a des centaines ! s'étonna Íris devant les sculptures. »",
-      "pt": "« Este museu é um pouco um milagre, explicou a guia. Durante a Revolução, as obras dos conventos foram confiscadas. Em vez de destruí-las, fizeram delas um museu em 1795. — Há centenas delas! » espantou-se Íris diante das esculturas."
+      "fr": "« Ce musée, c'est un peu un miracle, expliqua la guide. Pendant la Révolution, les œuvres des couvents ont été confisquées. Au lieu de les détruire, on en a fait un musée en 1795. — Il y en a des centaines ! s'étonna Andréa devant les sculptures. »",
+      "pt": "« Este museu é um pouco um milagre, explicou a guia. Durante a Revolução, as obras dos conventos foram confiscadas. Em vez de destruí-las, fizeram delas um museu em 1795. — Há centenas delas! » espantou-se Andréa diante das esculturas."
     },
     {
       "id": 3,
@@ -33,6 +33,16 @@
       "id": 5,
       "fr": "Le soir, Irlan nota : « Les musées, ce ne sont pas des cimetières de pierres. Ce sont des maisons où les choses oubliées retrouvent des visiteurs. Et moi, j'en suis un, de visiteur, chaque jour un peu plus. »",
       "pt": "À noite, Irlan anotou: « Os museus não são cemitérios de pedras. São casas onde as coisas esquecidas reencontram visitantes. E eu sou um deles, de visitante, a cada dia um pouco mais. »"
+    },
+    {
+      "id": 6,
+      "fr": "Dans le cloître, Irlan a déambulé entre les sculptures et une lithographie. Le guide a relié chaque œuvre à un courant artistique, de l'impressionnisme à l'avant-garde.",
+      "pt": "No claustro, Irlan passeou entre as esculturas e uma litografia. O guia relacionou cada obra a uma corrente artística, do impressionismo à vanguarda."
+    },
+    {
+      "id": 7,
+      "fr": "Une note détaillée précisait le contexte de la restauration. Andréa a jugé l'interprétation discutable, mais elle a apprécié l'esprit critique de l'exposition.",
+      "pt": "Uma nota detalhada esclarecia o contexto da restauração. Andréa considerou a interpretação discutível, mas apreciou o espírito crítico da exposição."
     }
   ],
   "vocabularyDictionary": [
@@ -187,8 +197,8 @@
       "ptTargets": ["espantar-se", "espantou-se"],
       "examples": [
         { "level": "A1", "fr": "Je m'étonne du prix.", "pt": "Eu me espanto com o preço." },
-        { "level": "A2-B1", "fr": "Íris s'étonne devant les sculptures.", "pt": "Íris se espanta diante das esculturas." },
-        { "level": "B2", "fr": "« Il y en a des centaines ! » s'étonna Íris.", "pt": "« Há centenas delas! » espantou-se Íris." },
+        { "level": "A2-B1", "fr": "Andréa s'étonne devant les sculptures.", "pt": "Andréa se espanta diante das esculturas." },
+        { "level": "B2", "fr": "« Il y en a des centaines ! » s'étonna Andréa.", "pt": "« Há centenas delas! » espantou-se Andréa." },
         { "level": "C1-C2", "fr": "S'étonner devant l'art, c'est accepter d'être déplacé par la beauté.", "pt": "Espantar-se diante da arte é aceitar ser deslocado pela beleza." }
       ]
     }
@@ -227,7 +237,7 @@
       "question": "Complete: 'Des sculptures ? Il _____ a des centaines !'",
       "options": ["y en", "en y", "en"],
       "correctIndex": 0,
-      "explanation": "No texto: 'Il y en a des centaines ! s'étonna Íris.'"
+      "explanation": "No texto: 'Il y en a des centaines ! s'étonna Andréa.'"
     },
     {
       "question": "O que o museu dos Agostinianos ocupava?",

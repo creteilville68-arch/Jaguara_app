@@ -7,7 +7,7 @@
   "titlePt": "A violeta de Toulouse: a flor que fez a cidade",
   "subtitleFr": "Exprimer des regrets et des souhaits avec le conditionnel passé",
   "subtitlePt": "Exprimir arrependimentos e desejos com o condicional passado",
-  "summaryPt": "Na Maison de la Violette, a família descobre a flor símbolo de Toulouse, cultivada desde o século XIX. Irlan prova violetas cristalizadas e pensa nos jardineiros do passado: 'ils auraient été fiers de voir leurs fleurs dans les vitrines'. Nesta aula B2, o conditionnel passé exprime desejos e hipóteses.",
+  "summaryPt": "Na Maison de la Violette, o casal descobre a flor símbolo de Toulouse, cultivada desde o século XIX. Irlan prova violetas cristalizadas e pensa nos jardineiros do passado: 'ils auraient été fiers de voir leurs fleurs dans les vitrines'. Nesta aula B2, o conditionnel passé exprime desejos e hipóteses.",
   "paragraphs": [
     {
       "id": 1,
@@ -21,8 +21,8 @@
     },
     {
       "id": 3,
-      "fr": "Íris goûta une violette cristallisée et ferma les yeux. « C'est comme manger une fleur de printemps ! » Irlan, amusé, en acheta un sachet : « Si j'avais su que c'était si bon, j'en aurais acheté deux. »",
-      "pt": "Íris provou uma violeta cristalizada e fechou os olhos. « É como comer uma flor de primavera! » Irlan, divertido, comprou um saquinho: « Se eu soubesse que era tão bom, teria comprado dois. »"
+      "fr": "Andréa goûta une violette cristallisée et ferma les yeux. « C'est comme manger une fleur de printemps ! » Irlan, amusé, en acheta un sachet : « Si j'avais su que c'était si bon, j'en aurais acheté deux. »",
+      "pt": "Andréa provou uma violeta cristalizada e fechou os olhos. « É como comer uma flor de primavera! » Irlan, divertido, comprou um saquinho: « Se eu soubesse que era tão bom, teria comprado dois. »"
     },
     {
       "id": 4,
@@ -33,6 +33,16 @@
       "id": 5,
       "fr": "Le soir, Irlan nota : « Une fleur a fait la réputation d'une ville. Et si ma trace à moi, c'était quelque chose d'aussi simple ? Peut-être que je n'aurais jamais imaginé, au Brésil, que je deviendrais un homme qui goûte des fleurs à Toulouse. »",
       "pt": "À noite, Irlan anotou: « Uma flor fez a reputação de uma cidade. E se meu rastro fosse algo tão simples? Talvez eu nunca tivesse imaginado, no Brasil, que me tornaria um homem que prova flores em Toulouse. »"
+    },
+    {
+      "id": 6,
+      "fr": "La culture de la violette était devenue florissante grâce à un entrepreneur passionné. Irlan a observé comment cette petite fleur pouvait épanouir un quartier entier.",
+      "pt": "O cultivo da violeta havia florescido graças a um empreendedor apaixonado. Irlan observou como aquela pequena flor podia fazer um bairro inteiro florescer."
+    },
+    {
+      "id": 7,
+      "fr": "L'essor de cette activité avait généré une mémoire collective. Andréa a parlé de valorisation du patrimoine, tandis qu'Irlan cherchait à comprendre la mutation économique de la ville.",
+      "pt": "O crescimento dessa atividade havia gerado uma memória coletiva. Andréa falou da valorização do patrimônio, enquanto Irlan tentava compreender a transformação econômica da cidade."
     }
   ],
   "vocabularyDictionary": [
@@ -83,7 +93,7 @@
       "ptTargets": ["cristalizado", "cristalizada"],
       "examples": [
         { "level": "A1", "fr": "Le bonbon est sucré.", "pt": "O doce é açucarado." },
-        { "level": "A2-B1", "fr": "Íris goûte une violette cristallisée.", "pt": "Íris prova uma violeta cristalizada." },
+        { "level": "A2-B1", "fr": "Andréa goûte une violette cristallisée.", "pt": "Andréa prova uma violeta cristalizada." },
         { "level": "B2", "fr": "Les violettes cristallisées sont une spécialité toulousaine depuis le XIXe siècle.", "pt": "As violetas cristalizadas são uma especialidade de Toulouse desde o século XIX." },
         { "level": "C1-C2", "fr": "La confiserie des fleurs cristallisées requiert un savoir-faire délicat de confiseur.", "pt": "A confeitaria de flores cristalizadas requer um saber-fazer delicado de confeiteiro." }
       ]
@@ -122,7 +132,7 @@
       "ptTargets": ["provar", "degustar", "provou"],
       "examples": [
         { "level": "A1", "fr": "Je goûte le gâteau.", "pt": "Eu provo o bolo." },
-        { "level": "A2-B1", "fr": "Íris goûte une violette cristallisée.", "pt": "Íris prova uma violeta cristalizada." },
+        { "level": "A2-B1", "fr": "Andréa goûte une violette cristallisée.", "pt": "Andréa prova uma violeta cristalizada." },
         { "level": "B2", "fr": "Irlan goûta le sirop de violette et ferma les yeux.", "pt": "Irlan provou o xarope de violeta e fechou os olhos." },
         { "level": "C1-C2", "fr": "Goûter un produit du terroir, c'est goûter l'histoire d'une région.", "pt": "Provar um produto do terroir é provar a história de uma região." }
       ]
@@ -236,7 +246,7 @@
       "explanation": "No texto: 'les fleuristes de Paris et de Londres'."
     },
     {
-      "question": "O que Íris disse ao provar a violeta cristalizada?",
+      "question": "O que Andréa disse ao provar a violeta cristalizada?",
       "options": ["É como comer uma flor de primavera", "É doce demais", "Não gostei"],
       "correctIndex": 0,
       "explanation": "No texto: 'C'est comme manger une fleur de printemps !'"

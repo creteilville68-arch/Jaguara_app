@@ -3,26 +3,26 @@
   "cityId": "tours",
   "domain": "Vida Cotidiana",
   "level": "Intermediário (B1)",
-  "titleFr": "Iris à l'école de Tours : les nouveaux amis",
-  "titlePt": "Íris na escola de Tours: os novos amigos",
-  "subtitleFr": "Une nouvelle école, une nouvelle maîtresse, de nouveaux copains",
-  "subtitlePt": "Uma nova escola, uma nova professora, novos amigos",
-  "summaryPt": "Nesta Aula 31 (B1), Íris começa em uma nova escola em Tours e faz amigos: Camille, Hugo e Léa. Ela conta à família seu dia, usando o passé composé e o imparfait. O aluno pratica o vocabulário da escola e o relato do dia (d'abord, ensuite, enfin).",
+  "titleFr": "Le cours de français d'Irlan : de nouveaux mots",
+  "titlePt": "O curso de francês de Irlan: novas palavras",
+  "subtitleFr": "À Tours, Irlan reprend les bancs de l'école pour maîtriser la langue",
+  "subtitlePt": "Em Tours, Irlan volta aos bancos da escola para dominar a língua",
+  "summaryPt": "Nesta Aula 31 (B1), Irlan começa um curso de francês para adultos em Tours e faz novos amigos: Camille, Hugo e Léa. Ele conta a Andréa seu primeiro dia, usando o passé composé e o imparfait. O aluno pratica o vocabulário da escola e o relato do dia (d'abord, ensuite, enfin).",
   "paragraphs": [
     {
       "id": 1,
-      "fr": "« Alors, Iris, raconte-nous ta première journée ! » a dit Irlan au goûter. Iris a souri : « D'abord, la maîtresse m'a présentée. Ensuite, Camille m'a donné sa place à côté d'elle. »",
-      "pt": "« Então, Íris, conta pra gente seu primeiro dia! » disse Irlan no lanche. Íris sorriu: « Primeiro, a professora me apresentou. Depois, Camille me deu o lugar ao lado dela. »"
+      "fr": "« Alors, Irlan, raconte-moi ta première soirée de cours ! » a dit Andréa au goûter. Irlan a souri : « D'abord, le professeur m'a présenté. Ensuite, Camille m'a donné sa place à côté d'elle. »",
+      "pt": "« Então, Irlan, conta para mim sua primeira noite de aula! » disse Andréa no lanche. Irlan sorriu: « Primeiro, o professor me apresentou. Depois, Camille me deu o lugar ao lado dela. »"
     },
     {
       "id": 2,
-      "fr": "« À la récréation, j'ai joué au ballon avec Hugo et Léa », a continué Iris. « On a fait une équipe. On a gagné trois fois ! » Irlan a applaudi : « Ma fille est une championne. »",
-      "pt": "« No recreio, joguei bola com Hugo e Léa », continuou Íris. « Formamos um time. Ganhamos três vezes! » Irlan aplaudiu: « Minha filha é uma campeã. »"
+      "fr": "« À la pause, j'ai joué au ballon avec Hugo et Léa », a continué Irlan. « On a fait une équipe. On a gagné trois fois ! » Andréa a applaudi : « Tu es un champion ! »",
+      "pt": "« Na pausa, joguei bola com Hugo e Léa », continuou Irlan. « Formamos um time. Ganhamos três vezes! » Andréa aplaudiu: « Você é um campeão! »"
     },
     {
       "id": 3,
-      "fr": "« Et en classe, qu'avez-vous appris ? » a demandé Andréa. « On a appris une poésie sur la Loire », a dit Iris. « 'La Loire est un ruban d'argent qui traverse la France.' Je la réciterai demain. »",
-      "pt": "« E na sala, o que vocês aprenderam? » perguntou Andréa. « Aprendemos uma poesia sobre o Loire », disse Íris. « 'O Loire é uma fita de prata que atravessa a França.' Vou recitá-la amanhã. »"
+      "fr": "« Et en classe, qu'avez-vous appris ? » a demandé Andréa. « On a appris une poésie sur la Loire », a dit Irlan. « 'La Loire est un ruban d'argent qui traverse la France.' Je la réciterai demain. »",
+      "pt": "« E na sala, o que vocês aprenderam? » perguntou Andréa. « Aprendemos uma poesia sobre o Loire », disse Irlan. « 'O Loire é uma fita de prata que atravessa a França.' Vou recitá-la amanhã. »"
     },
     {
       "id": 4,
@@ -31,8 +31,23 @@
     },
     {
       "id": 5,
-      "fr": "Le soir, Iris a écrit dans son cahier : « Je m'appelle Iris. Je suis brésilienne et française. Je vis à Tours, au bord de la Loire. » Irlan a lu la phrase et a eu les yeux brillants. « C'est la plus belle leçon de géographie du monde. »",
-      "pt": "À noite, Íris escreveu no caderno: « Chamo-me Íris. Sou brasileira e francesa. Vivo em Tours, à beira do Loire. » Irlan leu a frase e ficou com os olhos brilhantes. « É a lição de geografia mais bonita do mundo. »"
+      "fr": "Le soir, Irlan a écrit dans son cahier : « Je m'appelle Irlan. Je viens du Brésil. J'apprends le français à Tours, au bord de la Loire. » Andréa a lu la phrase et a eu les yeux brillants. « C'est la plus belle leçon de géographie du monde. »",
+      "pt": "À noite, Irlan escreveu no caderno: « Chamo-me Irlan. Venho do Brasil. Aprendo francês em Tours, à beira do Loire. » Andréa leu a frase e ficou com os olhos brilhantes. « É a lição de geografia mais bonita do mundo. »"
+    },
+    {
+      "id": 6,
+      "fr": "Irlan suit un cours de français à Tours. Le professeur explique les règles de grammaire avec patience.",
+      "pt": "Irlan segue um curso de francês em Tours. O professor explica as regras de gramática com paciência."
+    },
+    {
+      "id": 7,
+      "fr": "Andréa l'encourage : « Tu apprends fréquemment, c'est essentiel pour progresser. Le vocabulaire s'enrichit chaque jour. »",
+      "pt": "Andréa o encoraja: Você aprende frequentemente, é essencial para progredir. O vocabulário se enriquece a cada dia."
+    },
+    {
+      "id": 8,
+      "fr": "Irlan note les nouveaux mots dans son cahier. « Les mathématiques de la langue sont complexes, mais fascinated », murmure-t-il.",
+      "pt": "Irlan anota as novas palavras no caderno. As matemáticas da língua são complexas, mas fascinantes, murmura ele."
     }
   ],
   "vocabularyDictionary": [
@@ -40,156 +55,428 @@
       "term": "l'école",
       "definitionPt": "a escola",
       "definitionFr": "Lieu où l'on apprend.",
-      "inflections": ["l'école", "une école", "des écoles"],
-      "ptTargets": ["escola"],
+      "inflections": [
+        "l'école",
+        "une école",
+        "des écoles"
+      ],
+      "ptTargets": [
+        "escola"
+      ],
       "examples": [
-        { "level": "A1", "fr": "L'école est grande.", "pt": "A escola é grande." },
-        { "level": "A2-B1", "fr": "Iris a commencé dans une nouvelle école.", "pt": "Íris começou numa nova escola." },
-        { "level": "B2", "fr": "L'école où Iris est allée est près de la Loire.", "pt": "A escola onde Íris foi fica perto do Loire." },
-        { "level": "C1-C2", "fr": "L'école, atelier du futur, façonne les citoyens de demain.", "pt": "A escola, ateliê do futuro, molda os cidadãos de amanhã." }
+        {
+          "level": "A1",
+          "fr": "L'école est grande.",
+          "pt": "A escola é grande."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Irlan a commencé un cours du soir.",
+          "pt": "Irlan começou um curso noturno."
+        },
+        {
+          "level": "B2",
+          "fr": "L'école où Irlan va est près de la Loire.",
+          "pt": "A escola onde Irlan vai fica perto do Loire."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "L'école, atelier du futur, façonne les citoyens de demain.",
+          "pt": "A escola, ateliê do futuro, molda os cidadãos de amanhã."
+        }
       ]
     },
     {
-      "term": "la maîtresse",
-      "definitionPt": "a professora",
-      "definitionFr": "Femme qui enseigne à l'école primaire.",
-      "inflections": ["la maîtresse", "une maîtresse", "des maîtresses"],
-      "ptTargets": ["professora"],
+      "term": "le professeur",
+      "definitionPt": "o professor, a professora",
+      "definitionFr": "Personne qui enseigne.",
+      "inflections": [
+        "le professeur",
+        "un professeur",
+        "des professeurs"
+      ],
+      "ptTargets": [
+        "professor",
+        "professora"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La maîtresse est gentille.", "pt": "A professora é gentil." },
-        { "level": "A2-B1", "fr": "La maîtresse a présenté Iris.", "pt": "A professora apresentou Íris." },
-        { "level": "B2", "fr": "La maîtresse qui a accueilli Iris est patiente.", "pt": "A professora que recebeu Íris é paciente." },
-        { "level": "C1-C2", "fr": "La maîtresse, semeuse d'idées, plante des mots qui deviendront des pensées.", "pt": "A professora, semeadeira de ideias, planta palavras que virarão pensamentos." }
+        {
+          "level": "A1",
+          "fr": "Le professeur est patient.",
+          "pt": "O professor é paciente."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Le professeur a présenté Irlan.",
+          "pt": "O professor apresentou Irlan."
+        },
+        {
+          "level": "B2",
+          "fr": "Le professeur qui a accueilli Irlan est patient.",
+          "pt": "O professor que recebeu Irlan é paciente."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Le professeur, semeur d'idées, plante des mots qui deviendront des pensées.",
+          "pt": "O professor, semeador de ideias, planta palavras que virarão pensamentos."
+        }
       ]
     },
     {
-      "term": "la récréation",
-      "definitionPt": "o recreio",
-      "definitionFr": "Pause à l'école où l'on joue.",
-      "inflections": ["la récréation", "une récréation", "des récréations"],
-      "ptTargets": ["recreio"],
+      "term": "la pause",
+      "definitionPt": "a pausa, o intervalo",
+      "definitionFr": "Moment de détente entre deux cours.",
+      "inflections": [
+        "la pause",
+        "une pause",
+        "des pauses"
+      ],
+      "ptTargets": [
+        "pausa",
+        "intervalo"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La récréation est amusante.", "pt": "O recreio é divertido." },
-        { "level": "A2-B1", "fr": "Iris a joué au ballon à la récréation.", "pt": "Íris jogou bola no recreio." },
-        { "level": "B2", "fr": "La récréation où Iris a joué était joyeuse.", "pt": "O recreio onde Íris jogou foi alegre." },
-        { "level": "C1-C2", "fr": "La récréation, parenthèse sonore, apprend la vie par le jeu.", "pt": "O recreio, parêntese sonoro, ensina a vida pelo jogo." }
+        {
+          "level": "A1",
+          "fr": "La pause est courte.",
+          "pt": "A pausa é curta."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Irlan a joué au ballon à la pause.",
+          "pt": "Irlan jogou bola na pausa."
+        },
+        {
+          "level": "B2",
+          "fr": "La pause où Irlan a joué était joyeuse.",
+          "pt": "A pausa onde Irlan jogou foi alegre."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "La pause, parenthèse sonore, apprend la vie par le jeu.",
+          "pt": "A pausa, parêntese sonoro, ensina a vida pelo jogo."
+        }
       ]
     },
     {
       "term": "l'équipe",
       "definitionPt": "o time",
       "definitionFr": "Groupe de personnes qui jouent ensemble.",
-      "inflections": ["l'équipe", "une équipe", "des équipes"],
-      "ptTargets": ["time", "equipe"],
+      "inflections": [
+        "l'équipe",
+        "une équipe",
+        "des équipes"
+      ],
+      "ptTargets": [
+        "time",
+        "equipe"
+      ],
       "examples": [
-        { "level": "A1", "fr": "L'équipe est forte.", "pt": "O time é forte." },
-        { "level": "A2-B1", "fr": "On a formé une équipe.", "pt": "Formamos um time." },
-        { "level": "B2", "fr": "L'équipe avec laquelle Iris a joué a gagné.", "pt": "O time com que Íris jogou venceu." },
-        { "level": "C1-C2", "fr": "L'équipe, petit pays d'amitié, gagne et perd ensemble.", "pt": "O time, pequeno país de amizade, ganha e perde junto." }
+        {
+          "level": "A1",
+          "fr": "L'équipe est forte.",
+          "pt": "O time é forte."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "On a formé une équipe.",
+          "pt": "Formamos um time."
+        },
+        {
+          "level": "B2",
+          "fr": "L'équipe avec laquelle Irlan a joué a gagné.",
+          "pt": "O time com que Irlan jogou venceu."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "L'équipe, petit pays d'amitié, gagne et perd ensemble.",
+          "pt": "O time, pequeno país de amizade, ganha e perde junto."
+        }
       ]
     },
     {
       "term": "gagner",
       "definitionPt": "ganhar, vencer",
       "definitionFr": "Remporter une victoire.",
-      "inflections": ["je gagne", "tu gagnes", "il gagne", "nous gagnons"],
-      "ptTargets": ["ganhar", "vencer"],
+      "inflections": [
+        "je gagne",
+        "tu gagnes",
+        "il gagne",
+        "nous gagnons"
+      ],
+      "ptTargets": [
+        "ganhar",
+        "vencer"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Nous gagnons le match.", "pt": "Nós ganhamos a partida." },
-        { "level": "A2-B1", "fr": "On a gagné trois fois !", "pt": "Ganhamos três vezes!" },
-        { "level": "B2", "fr": "L'équipe qui a gagné est contente.", "pt": "O time que ganhou está contente." },
-        { "level": "C1-C2", "fr": "Gagner, c'est parfois simplement oser jouer.", "pt": "Ganhar é às vezes simplesmente ousar jogar." }
+        {
+          "level": "A1",
+          "fr": "Nous gagnons le match.",
+          "pt": "Nós ganhamos a partida."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "On a gagné trois fois !",
+          "pt": "Ganhamos três vezes!"
+        },
+        {
+          "level": "B2",
+          "fr": "L'équipe qui a gagné est contente.",
+          "pt": "O time que ganhou está contente."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Gagner, c'est parfois simplement oser jouer.",
+          "pt": "Ganhar é às vezes simplesmente ousar jogar."
+        }
       ]
     },
     {
       "term": "la poésie",
       "definitionPt": "a poesia",
       "definitionFr": "Texte poétique, poème.",
-      "inflections": ["la poésie", "une poésie", "des poésies"],
-      "ptTargets": ["poesia"],
+      "inflections": [
+        "la poésie",
+        "une poésie",
+        "des poésies"
+      ],
+      "ptTargets": [
+        "poesia"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La poésie est jolie.", "pt": "A poesia é bonita." },
-        { "level": "A2-B1", "fr": "On a appris une poésie sur la Loire.", "pt": "Aprendemos uma poesia sobre o Loire." },
-        { "level": "B2", "fr": "La poésie que nous avons apprise parle du fleuve.", "pt": "A poesia que aprendemos fala do rio." },
-        { "level": "C1-C2", "fr": "La poésie, condensé du monde, dit beaucoup en peu de mots.", "pt": "A poesia, condensado do mundo, diz muito em poucas palavras." }
+        {
+          "level": "A1",
+          "fr": "La poésie est jolie.",
+          "pt": "A poesia é bonita."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "On a appris une poésie sur la Loire.",
+          "pt": "Aprendemos uma poesia sobre o Loire."
+        },
+        {
+          "level": "B2",
+          "fr": "La poésie que nous avons apprise parle du fleuve.",
+          "pt": "A poesia que aprendemos fala do rio."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "La poésie, condensé du monde, dit beaucoup en peu de mots.",
+          "pt": "A poesia, condensado do mundo, diz muito em poucas palavras."
+        }
       ]
     },
     {
       "term": "le ruban",
       "definitionPt": "a fita",
       "definitionFr": "Bande fine de tissu.",
-      "inflections": ["le ruban", "un ruban", "des rubans"],
-      "ptTargets": ["fita"],
+      "inflections": [
+        "le ruban",
+        "un ruban",
+        "des rubans"
+      ],
+      "ptTargets": [
+        "fita"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le ruban est bleu.", "pt": "A fita é azul." },
-        { "level": "A2-B1", "fr": "La Loire est un ruban d'argent.", "pt": "O Loire é uma fita de prata." },
-        { "level": "B2", "fr": "Le ruban qui traverse la France, c'est la Loire.", "pt": "A fita que atravessa a França é o Loire." },
-        { "level": "C1-C2", "fr": "Le ruban d'argent du fleuve coud les paysages de la France.", "pt": "A fita de prata do rio costura as paisagens da França." }
+        {
+          "level": "A1",
+          "fr": "Le ruban est bleu.",
+          "pt": "A fita é azul."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "La Loire est un ruban d'argent.",
+          "pt": "O Loire é uma fita de prata."
+        },
+        {
+          "level": "B2",
+          "fr": "Le ruban qui traverse la France, c'est la Loire.",
+          "pt": "A fita que atravessa a França é o Loire."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Le ruban d'argent du fleuve coud les paysages de la France.",
+          "pt": "A fita de prata do rio costura as paisagens da França."
+        }
       ]
     },
     {
       "term": "réciter",
       "definitionPt": "recitar",
       "definitionFr": "Dire un texte appris par cœur.",
-      "inflections": ["je récite", "tu récites", "il récite", "nous récitons"],
-      "ptTargets": ["recitar"],
+      "inflections": [
+        "je récite",
+        "tu récites",
+        "il récite",
+        "nous récitons"
+      ],
+      "ptTargets": [
+        "recitar"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Je récite la poésie.", "pt": "Eu recito a poesia." },
-        { "level": "A2-B1", "fr": "Iris récitera la poésie demain.", "pt": "Íris recitará a poesia amanhã." },
-        { "level": "B2", "fr": "La poésie qu'elle récitera est apprise.", "pt": "A poesia que ela recitará está aprendida." },
-        { "level": "C1-C2", "fr": "Réciter, c'est donner une voix aux mots des autres.", "pt": "Recitar é dar voz às palavras dos outros." }
+        {
+          "level": "A1",
+          "fr": "Je récite la poésie.",
+          "pt": "Eu recito a poesia."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Irlan récitera la poésie demain.",
+          "pt": "Irlan recitará a poesia amanhã."
+        },
+        {
+          "level": "B2",
+          "fr": "La poésie qu'il récitera est apprise.",
+          "pt": "A poesia que ele recitará está aprendida."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Réciter, c'est donner une voix aux mots des autres.",
+          "pt": "Recitar é dar voz às palavras dos outros."
+        }
       ]
     },
     {
       "term": "le cahier",
       "definitionPt": "o caderno",
       "definitionFr": "Petit livre pour écrire.",
-      "inflections": ["le cahier", "un cahier", "des cahiers"],
-      "ptTargets": ["caderno"],
+      "inflections": [
+        "le cahier",
+        "un cahier",
+        "des cahiers"
+      ],
+      "ptTargets": [
+        "caderno"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le cahier est sur la table.", "pt": "O caderno está na mesa." },
-        { "level": "A2-B1", "fr": "Iris a écrit dans son cahier.", "pt": "Íris escreveu no caderno." },
-        { "level": "B2", "fr": "Le cahier où Iris écrit est neuf.", "pt": "O caderno onde Íris escreve é novo." },
-        { "level": "C1-C2", "fr": "Le cahier, confident de papier, reçoit les premières phrases de la vie.", "pt": "O caderno, confidente de papel, recebe as primeiras frases da vida." }
+        {
+          "level": "A1",
+          "fr": "Le cahier est sur la table.",
+          "pt": "O caderno está na mesa."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Irlan a écrit dans son cahier.",
+          "pt": "Irlan escreveu no caderno."
+        },
+        {
+          "level": "B2",
+          "fr": "Le cahier où Irlan écrit est neuf.",
+          "pt": "O caderno onde Irlan escreve é novo."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Le cahier, confident de papier, reçoit les premières phrases de la vie.",
+          "pt": "O caderno, confidente de papel, recebe as primeiras frases da vida."
+        }
       ]
     },
     {
       "term": "le copain",
       "definitionPt": "o amigo",
       "definitionFr": "Ami, camarade.",
-      "inflections": ["le copain", "un copain", "des copains"],
-      "ptTargets": ["amigo"],
+      "inflections": [
+        "le copain",
+        "un copain",
+        "des copains"
+      ],
+      "ptTargets": [
+        "amigo"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le copain est sympa.", "pt": "O amigo é legal." },
-        { "level": "A2-B1", "fr": "Iris s'est fait de nouveaux copains.", "pt": "Íris fez novos amigos." },
-        { "level": "B2", "fr": "Les copains avec qui Iris joue sont gentils.", "pt": "Os amigos com quem Íris brinca são gentis." },
-        { "level": "C1-C2", "fr": "Le copain, complice des récréations, partage les victoires et les gommes.", "pt": "O amigo, cúmplice dos recreios, divide vitórias e borrachas." }
+        {
+          "level": "A1",
+          "fr": "Le copain est sympa.",
+          "pt": "O amigo é legal."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Irlan s'est fait de nouveaux copains.",
+          "pt": "Irlan fez novos amigos."
+        },
+        {
+          "level": "B2",
+          "fr": "Les copains avec qui Irlan joue sont gentils.",
+          "pt": "Os amigos com quem Irlan joga são gentis."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Le copain, complice des pauses, partage les victoires et les gommes.",
+          "pt": "O amigo, cúmplice das pausas, divide vitórias e borrachas."
+        }
       ]
     },
     {
       "term": "présenter",
       "definitionPt": "apresentar",
       "definitionFr": "Faire connaître quelqu'un.",
-      "inflections": ["je présente", "tu présentes", "il présente", "nous présentons"],
-      "ptTargets": ["apresentar"],
+      "inflections": [
+        "je présente",
+        "tu présentes",
+        "il présente",
+        "nous présentons"
+      ],
+      "ptTargets": [
+        "apresentar"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Je présente mon ami.", "pt": "Eu apresento meu amigo." },
-        { "level": "A2-B1", "fr": "La maîtresse a présenté Iris.", "pt": "A professora apresentou Íris." },
-        { "level": "B2", "fr": "L'élève que l'on a présentée est nouvelle.", "pt": "A aluna que se apresentou é nova." },
-        { "level": "C1-C2", "fr": "Présenter, c'est offrir quelqu'un au regard des autres.", "pt": "Apresentar é oferecer alguém ao olhar dos outros." }
+        {
+          "level": "A1",
+          "fr": "Je présente mon ami.",
+          "pt": "Eu apresento meu amigo."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Le professeur a présenté Irlan.",
+          "pt": "O professor apresentou Irlan."
+        },
+        {
+          "level": "B2",
+          "fr": "L'élève que l'on a présenté est nouveau.",
+          "pt": "O aluno que se apresentou é novo."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Présenter, c'est offrir quelqu'un au regard des autres.",
+          "pt": "Apresentar é oferecer alguém ao olhar dos outros."
+        }
       ]
     },
     {
       "term": "brillant",
       "definitionPt": "brilhante",
       "definitionFr": "Qui brille, lumineux.",
-      "inflections": ["brillant", "brillante", "brillants", "brillantes"],
-      "ptTargets": ["brilhante"],
+      "inflections": [
+        "brillant",
+        "brillante",
+        "brillants",
+        "brillantes"
+      ],
+      "ptTargets": [
+        "brilhante"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le ciel est brillant.", "pt": "O céu é brilhante." },
-        { "level": "A2-B1", "fr": "Irlan avait les yeux brillants.", "pt": "Irlan tinha os olhos brilhantes." },
-        { "level": "B2", "fr": "Les yeux brillants de joie montrent l'émotion.", "pt": "Os olhos brilhantes de alegria mostram a emoção." },
-        { "level": "C1-C2", "fr": "Brillants d'émotion, les yeux racontent ce que la voix tait.", "pt": "Brilhantes de emoção, os olhos contam o que a voz cala." }
+        {
+          "level": "A1",
+          "fr": "Le ciel est brillant.",
+          "pt": "O céu é brilhante."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Irlan avait les yeux brillants.",
+          "pt": "Irlan tinha os olhos brilhantes."
+        },
+        {
+          "level": "B2",
+          "fr": "Les yeux brillants de joie montrent l'émotion.",
+          "pt": "Os olhos brilhantes de alegria mostram a emoção."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Brillants d'émotion, les yeux racontent ce que la voix tait.",
+          "pt": "Brilhantes de emoção, os olhos contam o que a voz cala."
+        }
       ]
     }
   ],
@@ -198,39 +485,64 @@
     "titlePt": "Contar o dia: d'abord, ensuite, enfin",
     "points": [
       {
-        "fr": "Pour raconter une journée : « d'abord » (primeiro), « ensuite » (depois), « enfin » (por fim), « à la récréation », « en classe ». Exemple : « D'abord, la maîtresse m'a présentée. Ensuite, j'ai joué au ballon. »",
-        "pt": "Para contar um dia: « d'abord » (primeiro), « ensuite » (depois), « enfin » (por fim), « à la récréation » (no recreio), « en classe » (na sala). Exemplo: « Primeiro, a professora me apresentou. Depois, joguei bola. »"
+        "fr": "Pour raconter une journée : « d'abord » (primeiro), « ensuite » (depois), « enfin » (por fim), « à la pause », « en classe ». Exemple : « D'abord, le professeur m'a présenté. Ensuite, j'ai joué au ballon. »",
+        "pt": "Para contar um dia: « d'abord » (primeiro), « ensuite » (depois), « enfin » (por fim), « à la pause » (na pausa), « en classe » (na sala). Exemplo: « Primeiro, o professor me apresentou. Depois, joguei bola. »"
       },
       {
-        "fr": "Le passé composé avec avoir : « j'ai joué, j'ai appris, on a gagné ». Avec être : « je suis allée, elle s'est présentée ».",
-        "pt": "O passé composé com avoir: « j'ai joué » (joguei), « j'ai appris » (aprendi), « on a gagné » (ganhamos). Com être: « je suis allée » (fui), « elle s'est présentée » (ela se apresentou)."
+        "fr": "Le passé composé avec avoir : « j'ai joué, j'ai appris, on a gagné ». Avec être : « je suis allé, il s'est présenté ».",
+        "pt": "O passé composé com avoir: « j'ai joué » (joguei), « j'ai appris » (aprendi), « on a gagné » (ganhamos). Com être: « je suis allé » (fui), « il s'est présenté » (ele se apresentou)."
       }
     ]
   },
   "quizQuestions": [
     {
-      "question": "Qui a donné sa place à Iris ?",
-      "options": ["Camille", "Hugo", "La maîtresse", "Léa"],
+      "question": "Qui a donné sa place à Irlan ?",
+      "options": [
+        "Camille",
+        "Hugo",
+        "Le professeur",
+        "Léa"
+      ],
       "correctIndex": 0
     },
     {
       "question": "Qu'ont appris les élèves ?",
-      "options": ["Une poésie sur la Loire", "Une chanson de rock", "La cuisine", "La danse"],
+      "options": [
+        "Une poésie sur la Loire",
+        "Une chanson de rock",
+        "La cuisine",
+        "La danse"
+      ],
       "correctIndex": 0
     },
     {
-      "question": "Combien de fois l'équipe d'Iris a-t-elle gagné ?",
-      "options": ["Trois fois", "Une fois", "Dix fois", "Zéro fois"],
+      "question": "Combien de fois l'équipe d'Irlan a-t-elle gagné ?",
+      "options": [
+        "Trois fois",
+        "Une fois",
+        "Dix fois",
+        "Zéro fois"
+      ],
       "correctIndex": 0
     },
     {
       "question": "Qu'est-ce qu'Irlan n'aimait pas quand il était petit ?",
-      "options": ["La géographie", "La musique", "Le sport", "Les maths"],
+      "options": [
+        "La géographie",
+        "La musique",
+        "Le sport",
+        "Les maths"
+      ],
       "correctIndex": 0
     },
     {
-      "question": "Comment Iris se présente-t-elle dans son cahier ?",
-      "options": ["Brésilienne et française", "Seulement brésilienne", "Seulement française", "Anglaise"],
+      "question": "Comment Irlan se présente-t-il dans son cahier ?",
+      "options": [
+        "Il vient du Brésil et apprend le français",
+        "Il est seulement brésilien",
+        "Il est seulement français",
+        "Il est anglais"
+      ],
       "correctIndex": 0
     }
   ]

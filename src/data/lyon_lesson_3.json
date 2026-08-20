@@ -7,7 +7,7 @@
   "titlePt": "Uma noite num bouchon: a cozinha das mães lionenses",
   "subtitleFr": "Le tablier de sapeur, la cervelle de canut et l'art de la table à la lyonnaise",
   "subtitlePt": "O tablier de sapeur, a cervelle de canut e a arte da mesa à moda de Lyon",
-  "summaryPt": "Nesta Aula 3 (B2+), a família janta num bouchon e descobre as especialidades das 'mères lyonnaises'. O aluno domina as frases condicionais completas: 'Si j'avais plus de temps, je goûterais tout' (hipótese presente) e 'Si j'avais su, j'aurais réservé' (hipótese passada).",
+  "summaryPt": "Nesta Aula 3 (B2+), o casal janta num bouchon e descobre as especialidades das 'mères lyonnaises'. O aluno domina as frases condicionais completas: 'Si j'avais plus de temps, je goûterais tout' (hipótese presente) e 'Si j'avais su, j'aurais réservé' (hipótese passada).",
   "paragraphs": [
     {
       "id": 1,
@@ -16,8 +16,8 @@
     },
     {
       "id": 2,
-      "fr": "Iris a goûté la cervelle de canut : « C'est du fromage blanc avec des herbes ! » Andréa a ri : « Si tu goûtais le saucisson, tu comprendrais pourquoi Lyon est la capitale de la gastronomie. » Irlan a ajouté : « Si je n'étais pas devenu livreur à Paris, je n'aurais jamais découvert tous ces trésors. »",
-      "pt": "Íris provou a cervelle de canut: « É queijo branco com ervas! » Andréa riu: « Se você provasse o salame, entenderia por que Lyon é a capital da gastronomia. » Irlan acrescentou: « Se eu não tivesse me tornado entregador em Paris, nunca teria descoberto todos esses tesouros. »"
+      "fr": "Andréa a goûté la cervelle de canut : « C'est du fromage blanc avec des herbes ! » Irlan a ri : « Si tu goûtais le saucisson, tu comprendrais pourquoi Lyon est la capitale de la gastronomie. » Andréa a souri : « Et moi, si je n'étais pas venue en France, je n'aurais jamais goûté tout ça. »",
+      "pt": "Andréa provou a cervelle de canut: « É queijo branco com ervas! » Irlan riu: « Se você provasse o salame, entenderia por que Lyon é a capital da gastronomia. » Andréa sorriu: « E eu, se não tivesse vindo para a França, nunca teria provado tudo isso. »"
     },
     {
       "id": 3,
@@ -28,6 +28,16 @@
       "id": 4,
       "fr": "Au dessert, des bugnes dorées. « Si nous avions un peu plus de place, nous commanderions encore, a soupiré Irlan. Mais gardons l'appétit pour demain : les Halles Paul Bocuse nous attendent. Si vous saviez ce qu'on y trouve, vous en rêveriez ce soir ! »",
       "pt": "Na sobremesa, bugnes douradas. « Se tivéssemos um pouco mais de espaço, pediríamos mais, suspirou Irlan. Mas guardemos o apetite para amanhã: o Mercado Paul Bocuse nos espera. Se vocês soubessem o que se encontra lá, sonhariam com isso esta noite! »"
+    },
+    {
+      "id": 5,
+      "fr": "Le plat mijotait dans une marmite bouillante, puis la viande a été servie à point. Andréa a jugé le résultat exquis, tandis qu'Irlan cherchait à alléger sa description pour la prendre en note.",
+      "pt": "O prato cozinhava em uma panela fervente e depois a carne foi servida no ponto. Andréa considerou o resultado requintado, enquanto Irlan tentava tornar sua descrição mais leve para anotá-la."
+    },
+    {
+      "id": 6,
+      "fr": "La cuisinière a expliqué que chaque ingrédient devait être choisi de façon équitable. Cette règle simple permettait de caractériser une cuisine généreuse sans la rendre excessive.",
+      "pt": "A cozinheira explicou que cada ingrediente precisava ser escolhido de forma justa. Essa regra simples permitia caracterizar uma cozinha generosa sem torná-la excessiva."
     }
   ],
   "vocabularyDictionary": [
@@ -52,7 +62,7 @@
       "ptTargets": ["cervelle de canut", "queijo com ervas"],
       "examples": [
         { "level": "A1", "fr": "La cervelle de canut est fraîche.", "pt": "A cervelle de canut é fresca." },
-        { "level": "A2-B1", "fr": "Iris a goûté la cervelle de canut.", "pt": "Íris provou a cervelle de canut." },
+        { "level": "A2-B1", "fr": "Andréa a goûté la cervelle de canut.", "pt": "Andréa provou a cervelle de canut." },
         { "level": "B2", "fr": "La cervelle de canut, qui se prépare avec des herbes et de l'échalote, accompagne les pommes de terre.", "pt": "A cervelle de canut, que se prepara com ervas e chalota, acompanha batatas." },
         { "level": "C1-C2", "fr": "C'est le nom amusant de la cervelle de canut qui cache une recette simple et savoureuse.", "pt": "É o nome engraçado da cervelle de canut que esconde uma receita simples e saborosa." }
       ]
@@ -91,7 +101,7 @@
       "ptTargets": ["provar", "degustar"],
       "examples": [
         { "level": "A1", "fr": "Je goûte le plat.", "pt": "Eu provo o prato." },
-        { "level": "A2-B1", "fr": "Iris a goûté la cervelle de canut.", "pt": "Íris provou a cervelle de canut." },
+        { "level": "A2-B1", "fr": "Andréa a goûté la cervelle de canut.", "pt": "Andréa provou a cervelle de canut." },
         { "level": "B2", "fr": "Si tu goûtais le saucisson, tu comprendrais pourquoi Lyon est célèbre.", "pt": "Se você provasse o salame, entenderia por que Lyon é famosa." },
         { "level": "C1-C2", "fr": "Goûter un plat, c'est entrer en dialogue avec une tradition et un terroir.", "pt": "Provar um prato é entrar em diálogo com uma tradição e um terroir." }
       ]
@@ -182,7 +192,7 @@
       "ptTargets": ["reservar", "reservado"],
       "examples": [
         { "level": "A1", "fr": "Je réserve une table.", "pt": "Eu reservo uma mesa." },
-        { "level": "A2-B1", "fr": "La famille a réservé une table au bouchon.", "pt": "A família reservou uma mesa no bouchon." },
+        { "level": "A2-B1", "fr": "Le couple a réservé une table au bouchon.", "pt": "O casal reservou uma mesa no bouchon." },
         { "level": "B2", "fr": "Si j'avais su, j'aurais réservé une table plus grande.", "pt": "Se eu tivesse sabido, teria reservado uma mesa maior." },
         { "level": "C1-C2", "fr": "C'est en réservant à l'avance que l'on découvre les meilleures tables de Lyon.", "pt": "É reservando com antecedência que se descobrem as melhores mesas de Lyon." }
       ]

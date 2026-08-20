@@ -7,12 +7,12 @@
   "titlePt": "Adeus Tours, olá Bordeaux",
   "subtitleFr": "Le TGV traverse la Touraine et descend vers le Sud-Ouest",
   "subtitlePt": "O TGV atravessa a Touraine e desce rumo ao Sudoeste",
-  "summaryPt": "Nesta Aula 47 (B1), a família deixa Tours de TGV rumo a Bordeaux: a despedida da Touraine, as paisagens que mudam pela janela e o balanço do ano. O aluno revê o futuro simples, os pronomes relativos e o relato no passado, com um resumo do capítulo.",
+  "summaryPt": "Nesta Aula 47 (B1), o casal deixa Tours de TGV rumo a Bordeaux: a despedida da Touraine, as paisagens que mudam pela janela e o balanço do ano. O aluno revê o futuro simples, os pronomes relativos e o relato no passado, com um resumo do capítulo.",
   "paragraphs": [
     {
       "id": 1,
-      "fr": "Le TGV a quitté la gare de Tours à neuf heures. Iris a collé son nez à la fenêtre. « Au revoir, la Touraine ! » a-t-elle crié. La cathédrale Saint-Gatien est devenue toute petite.",
-      "pt": "O TGV deixou a estação de Tours às nove horas. Íris colou o nariz na janela. « Adeus, Touraine! » gritou. A catedral Saint-Gatien ficou pequenininha."
+      "fr": "Le TGV a quitté la gare de Tours à neuf heures. Andréa a collé son nez à la fenêtre. « Au revoir, la Touraine ! » a-t-elle crié en riant. La cathédrale Saint-Gatien est devenue toute petite.",
+      "pt": "O TGV deixou a estação de Tours às nove horas. Andréa colou o nariz na janela. « Adeus, Touraine! » gritou rindo. A catedral Saint-Gatien ficou pequenininha."
     },
     {
       "id": 2,
@@ -26,13 +26,28 @@
     },
     {
       "id": 4,
-      "fr": "Iris a ouvert son carnet. « Je vais écrire une liste : les choses que j'ai apprises en Touraine. Le mot gabare. Le mot vendange. Le mot panda. » « Et le mot ami », a ajouté Andréa. Iris a écrit : « Ami : Camille et tous les autres. »",
-      "pt": "Íris abriu seu caderno. « Vou escrever uma lista: as coisas que aprendi na Touraine. A palavra gabare. A palavra vendange. A palavra panda. » « E a palavra amigo », acrescentou Andréa. Íris escreveu: « Amigo: Camille e todos os outros. »"
+      "fr": "Irlan a ouvert son carnet. « Je vais écrire une liste : les choses que j'ai apprises en Touraine. Le mot gabare. Le mot vendange. Le mot panda. » « Et le mot ami », a ajouté Andréa. Irlan a écrit : « Ami : Camille, Hugo et Léa. »",
+      "pt": "Irlan abriu seu caderno. « Vou escrever uma lista: as coisas que aprendi na Touraine. A palavra gabare. A palavra vendange. A palavra panda. » « E a palavra amigo », acrescentou Andréa. Irlan escreveu: « Amigo: Camille, Hugo e Léa. »"
     },
     {
       "id": 5,
       "fr": "Irlan a regardé sa scooter, pliée sous le siège. « Elle a vu Paris, Amiens, Lille, le Mont, Tours », a-t-il dit. « Elle ne parle pas, mais elle connaît la France par cœur. » Andréa a posé sa main sur la sienne : « Toi aussi, tu la connais maintenant, la France. »",
       "pt": "Irlan olhou para sua scooter, dobrada sob o assento. « Ela viu Paris, Amiens, Lille, o Mont, Tours », disse. « Ela não fala, mas conhece a França de cor. » Andréa pousou a mão na dele: « Você também a conhece agora, a França. »"
+    },
+    {
+      "id": 6,
+      "fr": "Au revoir Tours. Le train démarre et la ville s'éloigne. Irlan regarde par la fenêtre avec nostalgie.",
+      "pt": "Adeus, Tours. O trem parte e a cidade se afasta. Irlan olha pela janela com nostalgia."
+    },
+    {
+      "id": 7,
+      "fr": "Andréa dit : « Il ne faut pas être malheureux de partir. Chaque ville nous enrichit et nous rend plus ouverts d'esprit. »",
+      "pt": "Andréa diz: Não se deve ser infeliz ao partir. Cada cidade nos enriquece e nos torna mais de mente aberta."
+    },
+    {
+      "id": 8,
+      "fr": "Irlan sourit et note dans l'Atlas : « Tours m'a donné la douceur. Bordeaux m'attend. » Le voyage continue.",
+      "pt": "Irlan sorri e anota no Atlas: Tours me deu a suavidade. Bordeaux me espera. A viagem continua."
     }
   ],
   "vocabularyDictionary": [
@@ -40,156 +55,423 @@
       "term": "le TGV",
       "definitionPt": "o TGV (trem de alta velocidade)",
       "definitionFr": "Train à grande vitesse.",
-      "inflections": ["le TGV", "un TGV", "des TGV"],
-      "ptTargets": ["TGV", "trem de alta velocidade"],
+      "inflections": [
+        "le TGV",
+        "un TGV",
+        "des TGV"
+      ],
+      "ptTargets": [
+        "TGV",
+        "trem de alta velocidade"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le TGV est rapide.", "pt": "O TGV é rápido." },
-        { "level": "A2-B1", "fr": "Le TGV va de Tours à Bordeaux en deux heures.", "pt": "O TGV vai de Tours a Bordeaux em duas horas." },
-        { "level": "B2", "fr": "Le TGV que nous avons pris était plein.", "pt": "O TGV que pegamos estava cheio." },
-        { "level": "C1-C2", "fr": "Le TGV, flèche d'acier, rapproche les villes sans rapprocher les cœurs.", "pt": "O TGV, flecha de aço, aproxima as cidades sem aproximar os corações." }
+        {
+          "level": "A1",
+          "fr": "Le TGV est rapide.",
+          "pt": "O TGV é rápido."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Le TGV va de Tours à Bordeaux en deux heures.",
+          "pt": "O TGV vai de Tours a Bordeaux em duas horas."
+        },
+        {
+          "level": "B2",
+          "fr": "Le TGV que nous avons pris était plein.",
+          "pt": "O TGV que pegamos estava cheio."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Le TGV, flèche d'acier, rapproche les villes sans rapprocher les cœurs.",
+          "pt": "O TGV, flecha de aço, aproxima as cidades sem aproximar os corações."
+        }
       ]
     },
     {
       "term": "le quai",
       "definitionPt": "a plataforma",
       "definitionFr": "Plateforme d'une gare.",
-      "inflections": ["le quai", "un quai", "des quais"],
-      "ptTargets": ["plataforma"],
+      "inflections": [
+        "le quai",
+        "un quai",
+        "des quais"
+      ],
+      "ptTargets": [
+        "plataforma"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le quai est long.", "pt": "A plataforma é comprida." },
-        { "level": "A2-B1", "fr": "Le train part du quai numéro deux.", "pt": "O trem parte da plataforma dois." },
-        { "level": "B2", "fr": "Le quai où nous attendions était plein de voyageurs.", "pt": "A plataforma onde esperávamos estava cheia de viajantes." },
-        { "level": "C1-C2", "fr": "Le quai, seuil des départs, voit les adieux et les retours se croiser.", "pt": "A plataforma, soleira das partidas, vê adeuses e retornos se cruzarem." }
+        {
+          "level": "A1",
+          "fr": "Le quai est long.",
+          "pt": "A plataforma é comprida."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Le train part du quai numéro deux.",
+          "pt": "O trem parte da plataforma dois."
+        },
+        {
+          "level": "B2",
+          "fr": "Le quai où nous attendions était plein de voyageurs.",
+          "pt": "A plataforma onde esperávamos estava cheia de viajantes."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Le quai, seuil des départs, voit les adieux et les retours se croiser.",
+          "pt": "A plataforma, soleira das partidas, vê adeuses e retornos se cruzarem."
+        }
       ]
     },
     {
       "term": "la fenêtre",
       "definitionPt": "a janela",
       "definitionFr": "Ouverture qui donne de la lumière.",
-      "inflections": ["la fenêtre", "une fenêtre", "des fenêtres"],
-      "ptTargets": ["janela"],
+      "inflections": [
+        "la fenêtre",
+        "une fenêtre",
+        "des fenêtres"
+      ],
+      "ptTargets": [
+        "janela"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La fenêtre est ouverte.", "pt": "A janela está aberta." },
-        { "level": "A2-B1", "fr": "Iris regarde par la fenêtre.", "pt": "Íris olha pela janela." },
-        { "level": "B2", "fr": "La fenêtre par laquelle on regarde donne sur la Loire.", "pt": "A janela pela qual se olha dá para o Loire." },
-        { "level": "C1-C2", "fr": "La fenêtre, cadre mouvant, transforme le voyage en tableau vivant.", "pt": "A janela, moldura em movimento, transforma a viagem em quadro vivo." }
+        {
+          "level": "A1",
+          "fr": "La fenêtre est ouverte.",
+          "pt": "A janela está aberta."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Andréa regarde par la fenêtre.",
+          "pt": "Andréa olha pela janela."
+        },
+        {
+          "level": "B2",
+          "fr": "La fenêtre par laquelle on regarde donne sur la Loire.",
+          "pt": "A janela pela qual se olha dá para o Loire."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "La fenêtre, cadre mouvant, transforme le voyage en tableau vivant.",
+          "pt": "A janela, moldura em movimento, transforma a viagem em quadro vivo."
+        }
       ]
     },
     {
       "term": "le paysage",
       "definitionPt": "a paisagem",
       "definitionFr": "Ce que l'on voit autour de soi.",
-      "inflections": ["le paysage", "un paysage", "des paysages"],
-      "ptTargets": ["paisagem"],
+      "inflections": [
+        "le paysage",
+        "un paysage",
+        "des paysages"
+      ],
+      "ptTargets": [
+        "paisagem"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le paysage est beau.", "pt": "A paisagem é bonita." },
-        { "level": "A2-B1", "fr": "Le paysage change tout le temps.", "pt": "A paisagem muda o tempo todo." },
-        { "level": "B2", "fr": "Les paysages que l'on voit par la fenêtre sont magnifiques.", "pt": "As paisagens que se veem pela janela são magníficas." },
-        { "level": "C1-C2", "fr": "Le paysage, poème vivant, s'écrit à chaque kilomètre.", "pt": "A paisagem, poema vivo, escreve-se a cada quilômetro." }
+        {
+          "level": "A1",
+          "fr": "Le paysage est beau.",
+          "pt": "A paisagem é bonita."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Le paysage change tout le temps.",
+          "pt": "A paisagem muda o tempo todo."
+        },
+        {
+          "level": "B2",
+          "fr": "Les paysages que l'on voit par la fenêtre sont magnifiques.",
+          "pt": "As paisagens que se veem pela janela são magníficas."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Le paysage, poème vivant, s'écrit à chaque kilomètre.",
+          "pt": "A paisagem, poema vivo, escreve-se a cada quilômetro."
+        }
       ]
     },
     {
       "term": "la vigne",
       "definitionPt": "a vinha, a videira",
       "definitionFr": "Plante qui donne le raisin.",
-      "inflections": ["la vigne", "une vigne", "des vignes"],
-      "ptTargets": ["vinha", "videira"],
+      "inflections": [
+        "la vigne",
+        "une vigne",
+        "des vignes"
+      ],
+      "ptTargets": [
+        "vinha",
+        "videira"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La vigne est verte.", "pt": "A videira é verde." },
-        { "level": "A2-B1", "fr": "Les vignes couvrent les collines.", "pt": "As vinhas cobrem as colinas." },
-        { "level": "B2", "fr": "Les vignes que l'on voit annoncent le Sud-Ouest.", "pt": "As vinhas que se veem anunciam o Sudoeste." },
-        { "level": "C1-C2", "fr": "La vigne, fille du soleil, donne à la terre un goût de fête.", "pt": "A videira, filha do sol, dá à terra um gosto de festa." }
+        {
+          "level": "A1",
+          "fr": "La vigne est verte.",
+          "pt": "A videira é verde."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Les vignes couvrent les collines.",
+          "pt": "As vinhas cobrem as colinas."
+        },
+        {
+          "level": "B2",
+          "fr": "Les vignes que l'on voit annoncent le Sud-Ouest.",
+          "pt": "As vinhas que se veem anunciam o Sudoeste."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "La vigne, fille du soleil, donne à la terre un goût de fête.",
+          "pt": "A videira, filha do sol, dá à terra um gosto de festa."
+        }
       ]
     },
     {
       "term": "la forêt de pins",
       "definitionPt": "a floresta de pinheiros",
       "definitionFr": "Forêt d'arbres verts toute l'année.",
-      "inflections": ["la forêt de pins", "une forêt de pins", "des forêts de pins"],
-      "ptTargets": ["floresta de pinheiros", "pinhal"],
+      "inflections": [
+        "la forêt de pins",
+        "une forêt de pins",
+        "des forêts de pins"
+      ],
+      "ptTargets": [
+        "floresta de pinheiros",
+        "pinhal"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La forêt de pins est verte.", "pt": "A floresta de pinheiros é verde." },
-        { "level": "A2-B1", "fr": "Les forêts de pins sentent bon.", "pt": "As florestas de pinheiros cheiram bem." },
-        { "level": "B2", "fr": "Les forêts de pins que l'on traverse annoncent le Sud.", "pt": "As florestas de pinheiros que se atravessam anunciam o Sul." },
-        { "level": "C1-C2", "fr": "La forêt de pins, cathédrale de résine, garde le silence du Midi.", "pt": "A floresta de pinheiros, catedral de resina, guarda o silêncio do Sul." }
+        {
+          "level": "A1",
+          "fr": "La forêt de pins est verte.",
+          "pt": "A floresta de pinheiros é verde."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Les forêts de pins sentent bon.",
+          "pt": "As florestas de pinheiros cheiram bem."
+        },
+        {
+          "level": "B2",
+          "fr": "Les forêts de pins que l'on traverse annoncent le Sud.",
+          "pt": "As florestas de pinheiros que se atravessam anunciam o Sul."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "La forêt de pins, cathédrale de résine, garde le silence du Midi.",
+          "pt": "A floresta de pinheiros, catedral de resina, guarda o silêncio do Sul."
+        }
       ]
     },
     {
       "term": "le carnet",
       "definitionPt": "o caderno",
       "definitionFr": "Petit cahier.",
-      "inflections": ["le carnet", "un carnet", "des carnets"],
-      "ptTargets": ["caderno"],
+      "inflections": [
+        "le carnet",
+        "un carnet",
+        "des carnets"
+      ],
+      "ptTargets": [
+        "caderno"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le carnet est sur la table.", "pt": "O caderno está na mesa." },
-        { "level": "A2-B1", "fr": "Iris écrit dans son carnet.", "pt": "Íris escreve em seu caderno." },
-        { "level": "B2", "fr": "Le carnet dans lequel Iris écrit est plein de dessins.", "pt": "O caderno no qual Íris escreve está cheio de desenhos." },
-        { "level": "C1-C2", "fr": "Le carnet, mémoire de poche, garde les mots que le temps efface.", "pt": "O caderno, memória de bolso, guarda as palavras que o tempo apaga." }
+        {
+          "level": "A1",
+          "fr": "Le carnet est sur la table.",
+          "pt": "O caderno está na mesa."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Irlan écrit dans son carnet.",
+          "pt": "Irlan escreve em seu caderno."
+        },
+        {
+          "level": "B2",
+          "fr": "Le carnet dans lequel Irlan écrit est plein de listes.",
+          "pt": "O caderno no qual Irlan escreve está cheio de listas."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Le carnet, mémoire de poche, garde les mots que le temps efface.",
+          "pt": "O caderno, memória de bolso, guarda as palavras que o tempo apaga."
+        }
       ]
     },
     {
       "term": "la liste",
       "definitionPt": "a lista",
       "definitionFr": "Suite de mots ou de choses.",
-      "inflections": ["la liste", "une liste", "des listes"],
-      "ptTargets": ["lista"],
+      "inflections": [
+        "la liste",
+        "une liste",
+        "des listes"
+      ],
+      "ptTargets": [
+        "lista"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La liste est courte.", "pt": "A lista é curta." },
-        { "level": "A2-B1", "fr": "Iris fait une liste de mots.", "pt": "Íris faz uma lista de palavras." },
-        { "level": "B2", "fr": "Les mots que l'on met sur la liste restent.", "pt": "As palavras que se colocam na lista ficam." },
-        { "level": "C1-C2", "fr": "La liste, carte du cœur, dit ce que l'on veut garder du monde.", "pt": "A lista, mapa do coração, diz o que se quer guardar do mundo." }
+        {
+          "level": "A1",
+          "fr": "La liste est courte.",
+          "pt": "A lista é curta."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Irlan fait une liste de mots.",
+          "pt": "Irlan faz uma lista de palavras."
+        },
+        {
+          "level": "B2",
+          "fr": "Les mots que l'on met sur la liste restent.",
+          "pt": "As palavras que se colocam na lista ficam."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "La liste, carte du cœur, dit ce que l'on veut garder du monde.",
+          "pt": "A lista, mapa do coração, diz o que se quer guardar do mundo."
+        }
       ]
     },
     {
       "term": "par cœur",
       "definitionPt": "de cor",
       "definitionFr": "De mémoire, sans réfléchir.",
-      "inflections": ["par cœur"],
-      "ptTargets": ["de cor", "de memória"],
+      "inflections": [
+        "par cœur"
+      ],
+      "ptTargets": [
+        "de cor",
+        "de memória"
+      ],
       "examples": [
-        { "level": "A1", "fr": "J'apprends par cœur.", "pt": "Eu aprendo de cor." },
-        { "level": "A2-B1", "fr": "Iris connaît la chanson par cœur.", "pt": "Íris conhece a canção de cor." },
-        { "level": "B2", "fr": "Les mots que l'on sait par cœur restent toujours.", "pt": "As palavras que se sabem de cor ficam sempre." },
-        { "level": "C1-C2", "fr": "Savoir par cœur, c'est loger le monde dans sa propre mémoire.", "pt": "Saber de cor é abrigar o mundo na própria memória." }
+        {
+          "level": "A1",
+          "fr": "J'apprends par cœur.",
+          "pt": "Eu aprendo de cor."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Irlan connaît la chanson par cœur.",
+          "pt": "Irlan conhece a canção de cor."
+        },
+        {
+          "level": "B2",
+          "fr": "Les mots que l'on sait par cœur restent toujours.",
+          "pt": "As palavras que se sabem de cor ficam sempre."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Savoir par cœur, c'est loger le monde dans sa propre mémoire.",
+          "pt": "Saber de cor é abrigar o mundo na própria memória."
+        }
       ]
     },
     {
       "term": "traverser",
       "definitionPt": "atravessar",
       "definitionFr": "Passer d'un côté à l'autre.",
-      "inflections": ["je traverse", "tu traverses", "il traverse", "nous traversons"],
-      "ptTargets": ["atravessar"],
+      "inflections": [
+        "je traverse",
+        "tu traverses",
+        "il traverse",
+        "nous traversons"
+      ],
+      "ptTargets": [
+        "atravessar"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Je traverse la rue.", "pt": "Eu atravesso a rua." },
-        { "level": "A2-B1", "fr": "Le train traverse la Touraine.", "pt": "O trem atravessa a Touraine." },
-        { "level": "B2", "fr": "Les régions que l'on traverse sont magnifiques.", "pt": "As regiões que se atravessam são magníficas." },
-        { "level": "C1-C2", "fr": "Traverser, geste du voyageur, change le regard sans changer la route.", "pt": "Atravessar, gesto do viajante, muda o olhar sem mudar a estrada." }
+        {
+          "level": "A1",
+          "fr": "Je traverse la rue.",
+          "pt": "Eu atravesso a rua."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Le train traverse la Touraine.",
+          "pt": "O trem atravessa a Touraine."
+        },
+        {
+          "level": "B2",
+          "fr": "Les régions que l'on traverse sont magnifiques.",
+          "pt": "As regiões que se atravessam são magníficas."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Traverser, geste du voyageur, change le regard sans changer la route.",
+          "pt": "Atravessar, gesto do viajante, muda o olhar sem mudar a estrada."
+        }
       ]
     },
     {
       "term": "le voyage",
       "definitionPt": "a viagem",
       "definitionFr": "Déplacement vers un autre lieu.",
-      "inflections": ["le voyage", "un voyage", "des voyages"],
-      "ptTargets": ["viagem"],
+      "inflections": [
+        "le voyage",
+        "un voyage",
+        "des voyages"
+      ],
+      "ptTargets": [
+        "viagem"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le voyage est long.", "pt": "A viagem é longa." },
-        { "level": "A2-B1", "fr": "Nous aimons les voyages en train.", "pt": "Nós gostamos de viagens de trem." },
-        { "level": "B2", "fr": "Le voyage dont nous rêvions commence aujourd'hui.", "pt": "A viagem com que sonhávamos começa hoje." },
-        { "level": "C1-C2", "fr": "Le voyage, école sans murs, enseigne que chaque adieu cache un bonjour.", "pt": "A viagem, escola sem paredes, ensina que cada adeus esconde um olá." }
+        {
+          "level": "A1",
+          "fr": "Le voyage est long.",
+          "pt": "A viagem é longa."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Nous aimons les voyages en train.",
+          "pt": "Nós gostamos de viagens de trem."
+        },
+        {
+          "level": "B2",
+          "fr": "Le voyage dont nous rêvions commence aujourd'hui.",
+          "pt": "A viagem com que sonhávamos começa hoje."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Le voyage, école sans murs, enseigne que chaque adieu cache un bonjour.",
+          "pt": "A viagem, escola sem paredes, ensina que cada adeus esconde um olá."
+        }
       ]
     },
     {
       "term": "l'avenir",
       "definitionPt": "o futuro",
       "definitionFr": "Le temps qui viendra.",
-      "inflections": ["l'avenir", "un avenir"],
-      "ptTargets": ["futuro", "porvir"],
+      "inflections": [
+        "l'avenir",
+        "un avenir"
+      ],
+      "ptTargets": [
+        "futuro",
+        "porvir"
+      ],
       "examples": [
-        { "level": "A1", "fr": "L'avenir est loin.", "pt": "O futuro é longe." },
-        { "level": "A2-B1", "fr": "Nous parlons de l'avenir.", "pt": "Falamos do futuro." },
-        { "level": "B2", "fr": "L'avenir que l'on prépare commence maintenant.", "pt": "O futuro que se prepara começa agora." },
-        { "level": "C1-C2", "fr": "L'avenir, page blanche, attend que la main écrive.", "pt": "O futuro, página branca, espera que a mão escreva." }
+        {
+          "level": "A1",
+          "fr": "L'avenir est loin.",
+          "pt": "O futuro é longe."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Nous parlons de l'avenir.",
+          "pt": "Falamos do futuro."
+        },
+        {
+          "level": "B2",
+          "fr": "L'avenir que l'on prépare commence maintenant.",
+          "pt": "O futuro que se prepara começa agora."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "L'avenir, page blanche, attend que la main écrive.",
+          "pt": "O futuro, página branca, espera que a mão escreva."
+        }
       ]
     }
   ],
@@ -198,8 +480,8 @@
     "titlePt": "Revisão do capítulo: o futuro simples e os relativos",
     "points": [
       {
-        "fr": "Le futur simple : « nous serons à Bordeaux, Iris parlera français, je reviendrai ». Terminaisons : -ai, -as, -a, -ons, -ez, -ont.",
-        "pt": "O futuro simples: « nous serons » (estaremos), « Iris parlera » (Íris falará), « je reviendrai » (voltarei). Terminações: -ai, -as, -a, -ons, -ez, -ont."
+        "fr": "Le futur simple : « nous serons à Bordeaux, nous parlerons français, je reviendrai ». Terminaisons : -ai, -as, -a, -ons, -ez, -ont.",
+        "pt": "O futuro simples: « nous serons » (estaremos), « nous parlerons » (falaremos), « je reviendrai » (voltarei). Terminações: -ai, -as, -a, -ons, -ez, -ont."
       },
       {
         "fr": "Les pronoms relatifs : « le train que nous avons pris » (que), « les paysages qui défilent » (qui), « la ville où nous allons » (où), « le mot dont je parle » (dont).",
@@ -210,27 +492,52 @@
   "quizQuestions": [
     {
       "question": "A que horas o TGV deixou Tours ?",
-      "options": ["Às nove horas", "Às seis horas", "Ao meio-dia", "Às três horas"],
+      "options": [
+        "Às nove horas",
+        "Às seis horas",
+        "Ao meio-dia",
+        "Às três horas"
+      ],
       "correctIndex": 0
     },
     {
       "question": "O que o trem acompanhou no início da viagem ?",
-      "options": ["O rio Loire", "O mar", "A montanha", "A fronteira"],
+      "options": [
+        "O rio Loire",
+        "O mar",
+        "A montanha",
+        "A fronteira"
+      ],
       "correctIndex": 0
     },
     {
       "question": "O que anunciou a chegada ao Sudoeste ?",
-      "options": ["Vinhas e florestas de pinheiros", "Praias e palmeiras", "Neve e montanhas", "Deserto e areia"],
+      "options": [
+        "Vinhas e florestas de pinheiros",
+        "Praias e palmeiras",
+        "Neve e montanhas",
+        "Deserto e areia"
+      ],
       "correctIndex": 0
     },
     {
-      "question": "Quais palavras Íris escreveu no carnet ?",
-      "options": ["Gabare, vendange, panda e amigo", "Château, vin, fromage", "Scooter, rue, pont", "École, livre, stylo"],
+      "question": "Quais palavras Irlan escreveu no caderno ?",
+      "options": [
+        "Gabare, vendange, panda e amigo",
+        "Château, vin, fromage",
+        "Scooter, rue, pont",
+        "École, livre, stylo"
+      ],
       "correctIndex": 0
     },
     {
       "question": "O que Irlan disse que a scooter conhece ?",
-      "options": ["A França por inteiro", "Só Paris", "As estradas do Brasil", "Os atalhos das cidades"],
+      "options": [
+        "A França por inteiro",
+        "Só Paris",
+        "As estradas do Brasil",
+        "Os atalhos das cidades"
+      ],
       "correctIndex": 0
     }
   ]

@@ -7,22 +7,22 @@
   "titlePt": "Ussé: o castelo da Bela Adormecida",
   "subtitleFr": "Perrault s'est inspiré d'Ussé pour écrire son conte",
   "subtitlePt": "Perrault inspirou-se em Ussé para escrever seu conto",
-  "summaryPt": "Nesta Aula 22 (B1), a família visita o château d'Ussé, que inspirou Charles Perrault para A Bela Adormecida: torres com torresinhas, uma capela e um parque de conto de fadas. O aluno pratica o vocabulário do conto (le conte, la fée, le prince) e o imperativo com pronomes (Raconte-moi !).",
+  "summaryPt": "Nesta Aula 22 (B1), o casal visita o château d'Ussé, que inspirou Charles Perrault para A Bela Adormecida: torres com torresinhas, uma capela e um parque de conto de fadas. Irlan brinca que sua própria vida virou um conto — chegou com uma scooter e encontrou uma princesa. O aluno pratica o vocabulário do conto (le conte, la fée, le prince) e o imperativo com pronomes (Raconte-moi !).",
   "paragraphs": [
     {
       "id": 1,
-      "fr": "« Ce château a inspiré la Belle au bois dormant », a dit Irlan. « Charles Perrault l'a vu et il a imaginé son conte ici. » Iris a ouvert des yeux immenses : « Le vrai château de la princesse ? »",
-      "pt": "« Este castelo inspirou a Bela Adormecida », disse Irlan. « Charles Perrault o viu e imaginou seu conto aqui. » Íris arregalou os olhos: « O castelo de verdade da princesa? »"
+      "fr": "« Ce château a inspiré la Belle au bois dormant », a dit Irlan. « Charles Perrault l'a vu et il a imaginé son conte ici. » Andréa a souri : « Le vrai château de la princesse ! »",
+      "pt": "« Este castelo inspirou a Bela Adormecida », disse Irlan. « Charles Perrault o viu e imaginou seu conto aqui. » Andréa sorriu: « O castelo de verdade da princesa! »"
     },
     {
       "id": 2,
-      "fr": "Le château d'Ussé, avec ses tours pointues et sa chapelle, ressemble à un château de livre. « Regarde les toits, Iris : on dirait des crayons qui piquent le ciel. »",
-      "pt": "O castelo de Ussé, com suas torres pontiagudas e sua capela, parece um castelo de livro. « Olha os telhados, Íris: parecem lápis furando o céu. »"
+      "fr": "Le château d'Ussé, avec ses tours pointues et sa chapelle, ressemble à un château de livre. « Regarde les toits, Andréa : on dirait des crayons qui piquent le ciel. »",
+      "pt": "O castelo de Ussé, com suas torres pontiagudas e sua capela, parece um castelo de livro. « Olha os telhados, Andréa: parecem lápis furando o céu. »"
     },
     {
       "id": 3,
-      "fr": "Dans le parc, des personnages de cire racontent le conte : la princesse, la fée, le prince. Iris a couru vers la princesse : « Raconte-moi l'histoire, papa ! »",
-      "pt": "No parque, personagens de cera contam o conto: a princesa, a fada, o príncipe. Íris correu para a princesa: « Conta a história pra mim, papai! »"
+      "fr": "Dans le parc, des personnages de cire racontent le conte : la princesse, la fée, le prince. Andréa s'est arrêtée devant la princesse : « Raconte-moi son histoire, mon géographe ! »",
+      "pt": "No parque, personagens de cera contam o conto: a princesa, a fada, o príncipe. Andréa parou diante da princesa: « Conta a história dela pra mim, meu geógrafo! »"
     },
     {
       "id": 4,
@@ -33,6 +33,21 @@
       "id": 5,
       "fr": "« Quand j'étais livreur, je ne croyais plus aux contes », a avoué Irlan. « Mais en France, j'ai compris : ma vie à moi est un conte. Je suis arrivé avec une scooter, et j'ai trouvé une princesse. » Andréa a souri.",
       "pt": "« Quando eu era entregador, eu não acreditava mais em contos », confessou Irlan. « Mas na França, entendi: a minha vida é um conto. Cheguei com uma scooter e encontrei uma princesa. » Andréa sorriu."
+    },
+    {
+      "id": 6,
+      "fr": "Le château d'Ussé est le château de la Belle au bois dormant. Les tourelles sont splendides au coucher du soleil.",
+      "pt": "O château d'Ussé é o château da Bela Adormecida. As torres são esplêndidas ao pôr do sol."
+    },
+    {
+      "id": 7,
+      "fr": "Irlan imagine un conte de fées. « C'est un lieu improbable, mais magique », dit-il à Andréa.",
+      "pt": "Irlan imagina um conto de fadas. É um lugar improvável, mas mágico, diz ele a Andréa."
+    },
+    {
+      "id": 8,
+      "fr": "Andréa ajoute : « Les contes sont nécessaires pour garder l'enfant en nous. » Irlan sourit et dessine une fleur dans l'Atlas.",
+      "pt": "Andréa acrescenta: Os contos são necessários para guardar a criança em nós. Irlan sorri e desenha uma flor no Atlas."
     }
   ],
   "vocabularyDictionary": [
@@ -40,156 +55,424 @@
       "term": "le conte",
       "definitionPt": "o conto",
       "definitionFr": "Histoire merveilleuse pour enfants.",
-      "inflections": ["le conte", "un conte", "des contes"],
-      "ptTargets": ["conto"],
+      "inflections": [
+        "le conte",
+        "un conte",
+        "des contes"
+      ],
+      "ptTargets": [
+        "conto"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le conte est magique.", "pt": "O conto é mágico." },
-        { "level": "A2-B1", "fr": "Perrault a écrit des contes célèbres.", "pt": "Perrault escreveu contos famosos." },
-        { "level": "B2", "fr": "Le conte qui est né à Ussé est connu du monde entier.", "pt": "O conto que nasceu em Ussé é conhecido no mundo inteiro." },
-        { "level": "C1-C2", "fr": "Le conte, vérité déguisée, parle aux enfants et aux rois.", "pt": "O conto, verdade disfarçada, fala às crianças e aos reis." }
+        {
+          "level": "A1",
+          "fr": "Le conte est magique.",
+          "pt": "O conto é mágico."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Perrault a écrit des contes célèbres.",
+          "pt": "Perrault escreveu contos famosos."
+        },
+        {
+          "level": "B2",
+          "fr": "Le conte qui est né à Ussé est connu du monde entier.",
+          "pt": "O conto que nasceu em Ussé é conhecido no mundo inteiro."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Le conte, vérité déguisée, parle aux enfants et aux rois.",
+          "pt": "O conto, verdade disfarçada, fala às crianças e aos reis."
+        }
       ]
     },
     {
       "term": "la princesse",
       "definitionPt": "a princesa",
       "definitionFr": "Fille d'un roi, femme d'un prince.",
-      "inflections": ["la princesse", "une princesse", "des princesses"],
-      "ptTargets": ["princesa"],
+      "inflections": [
+        "la princesse",
+        "une princesse",
+        "des princesses"
+      ],
+      "ptTargets": [
+        "princesa"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La princesse est belle.", "pt": "A princesa é bonita." },
-        { "level": "A2-B1", "fr": "La princesse a dormi cent ans.", "pt": "A princesa dormiu cem anos." },
-        { "level": "B2", "fr": "La princesse dont parle le conte a été réveillée par un prince.", "pt": "A princesa de quem o conto fala foi despertada por um príncipe." },
-        { "level": "C1-C2", "fr": "La princesse, sommeil de cent ans, symbolise l'attente et l'espoir.", "pt": "A princesa, sono de cem anos, simboliza a espera e a esperança." }
+        {
+          "level": "A1",
+          "fr": "La princesse est belle.",
+          "pt": "A princesa é bonita."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "La princesse a dormi cent ans.",
+          "pt": "A princesa dormiu cem anos."
+        },
+        {
+          "level": "B2",
+          "fr": "La princesse dont parle le conte a été réveillée par un prince.",
+          "pt": "A princesa de quem o conto fala foi despertada por um príncipe."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "La princesse, sommeil de cent ans, symbolise l'attente et l'espoir.",
+          "pt": "A princesa, sono de cem anos, simboliza a espera e a esperança."
+        }
       ]
     },
     {
       "term": "la fée",
       "definitionPt": "a fada",
       "definitionFr": "Femme magique des contes.",
-      "inflections": ["la fée", "une fée", "des fées"],
-      "ptTargets": ["fada"],
+      "inflections": [
+        "la fée",
+        "une fée",
+        "des fées"
+      ],
+      "ptTargets": [
+        "fada"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La fée est gentille.", "pt": "A fada é gentil." },
-        { "level": "A2-B1", "fr": "Les fées ont offert des dons à la princesse.", "pt": "As fadas deram dons à princesa." },
-        { "level": "B2", "fr": "La fée qui protège la princesse est bienveillante.", "pt": "A fada que protege a princesa é benevolente." },
-        { "level": "C1-C2", "fr": "La fée, mémoire du merveilleux, survit dans les pierres d'Ussé.", "pt": "A fada, memória do maravilhoso, sobrevive nas pedras de Ussé." }
+        {
+          "level": "A1",
+          "fr": "La fée est gentille.",
+          "pt": "A fada é gentil."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Les fées ont offert des dons à la princesse.",
+          "pt": "As fadas deram dons à princesa."
+        },
+        {
+          "level": "B2",
+          "fr": "La fée qui protège la princesse est bienveillante.",
+          "pt": "A fada que protege a princesa é benevolente."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "La fée, mémoire du merveilleux, survit dans les pierres d'Ussé.",
+          "pt": "A fada, memória do maravilhoso, sobrevive nas pedras de Ussé."
+        }
       ]
     },
     {
       "term": "le prince",
       "definitionPt": "o príncipe",
       "definitionFr": "Fils d'un roi, futur roi.",
-      "inflections": ["le prince", "un prince", "des princes"],
-      "ptTargets": ["príncipe"],
+      "inflections": [
+        "le prince",
+        "un prince",
+        "des princes"
+      ],
+      "ptTargets": [
+        "príncipe"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le prince est courageux.", "pt": "O príncipe é corajoso." },
-        { "level": "A2-B1", "fr": "Le prince a réveillé la princesse.", "pt": "O príncipe despertou a princesa." },
-        { "level": "B2", "fr": "Le prince dont parle le conte a traversé la forêt.", "pt": "O príncipe de quem o conto fala atravessou a floresta." },
-        { "level": "C1-C2", "fr": "Le prince, héros patient, traverse les ronces pour rejoindre l'amour.", "pt": "O príncipe, herói paciente, atravessa os espinhos para alcançar o amor." }
+        {
+          "level": "A1",
+          "fr": "Le prince est courageux.",
+          "pt": "O príncipe é corajoso."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Le prince a réveillé la princesse.",
+          "pt": "O príncipe despertou a princesa."
+        },
+        {
+          "level": "B2",
+          "fr": "Le prince dont parle le conte a traversé la forêt.",
+          "pt": "O príncipe de quem o conto fala atravessou a floresta."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Le prince, héros patient, traverse les ronces pour rejoindre l'amour.",
+          "pt": "O príncipe, herói paciente, atravessa os espinhos para alcançar o amor."
+        }
       ]
     },
     {
       "term": "le fuseau",
       "definitionPt": "o fuso",
       "definitionFr": "Outil qui sert à filer la laine.",
-      "inflections": ["le fuseau", "un fuseau", "des fuseaux"],
-      "ptTargets": ["fuso"],
+      "inflections": [
+        "le fuseau",
+        "un fuseau",
+        "des fuseaux"
+      ],
+      "ptTargets": [
+        "fuso"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le fuseau est en bois.", "pt": "O fuso é de madeira." },
-        { "level": "A2-B1", "fr": "La princesse s'est piquée avec un fuseau.", "pt": "A princesa se furou com um fuso." },
-        { "level": "B2", "fr": "Le fuseau qui a endormi la princesse est interdit au palais.", "pt": "O fuso que adormeceu a princesa é proibido no palácio." },
-        { "level": "C1-C2", "fr": "Le fuseau, instrument du destin, a transformé une simple piqûre en légende.", "pt": "O fuso, instrumento do destino, transformou uma simples picada em lenda." }
+        {
+          "level": "A1",
+          "fr": "Le fuseau est en bois.",
+          "pt": "O fuso é de madeira."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "La princesse s'est piquée avec un fuseau.",
+          "pt": "A princesa se furou com um fuso."
+        },
+        {
+          "level": "B2",
+          "fr": "Le fuseau qui a endormi la princesse est interdit au palais.",
+          "pt": "O fuso que adormeceu a princesa é proibido no palácio."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Le fuseau, instrument du destin, a transformé une simple piqûre en légende.",
+          "pt": "O fuso, instrumento do destino, transformou uma simples picada em lenda."
+        }
       ]
     },
     {
       "term": "la chapelle",
       "definitionPt": "a capela",
       "definitionFr": "Petite église.",
-      "inflections": ["la chapelle", "une chapelle", "des chapelles"],
-      "ptTargets": ["capela"],
+      "inflections": [
+        "la chapelle",
+        "une chapelle",
+        "des chapelles"
+      ],
+      "ptTargets": [
+        "capela"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La chapelle est petite.", "pt": "A capela é pequena." },
-        { "level": "A2-B1", "fr": "La chapelle d'Ussé est ravissante.", "pt": "A capela de Ussé é encantadora." },
-        { "level": "B2", "fr": "La chapelle qui s'élève près du château est ancienne.", "pt": "A capela que se ergue perto do castelo é antiga." },
-        { "level": "C1-C2", "fr": "La chapelle, oratoire de pierre, ajoute une note de prière au conte.", "pt": "A capela, oratório de pedra, acrescenta uma nota de oração ao conto." }
+        {
+          "level": "A1",
+          "fr": "La chapelle est petite.",
+          "pt": "A capela é pequena."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "La chapelle d'Ussé est ravissante.",
+          "pt": "A capela de Ussé é encantadora."
+        },
+        {
+          "level": "B2",
+          "fr": "La chapelle qui s'élève près du château est ancienne.",
+          "pt": "A capela que se ergue perto do castelo é antiga."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "La chapelle, oratoire de pierre, ajoute une note de prière au conte.",
+          "pt": "A capela, oratório de pedra, acrescenta uma nota de oração ao conto."
+        }
       ]
     },
     {
       "term": "la cire",
       "definitionPt": "a cera",
       "definitionFr": "Matière des statues réalistes.",
-      "inflections": ["la cire", "une cire", "des cires"],
-      "ptTargets": ["cera"],
+      "inflections": [
+        "la cire",
+        "une cire",
+        "des cires"
+      ],
+      "ptTargets": [
+        "cera"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La cire est jaune.", "pt": "A cera é amarela." },
-        { "level": "A2-B1", "fr": "Des personnages de cire racontent le conte.", "pt": "Personagens de cera contam o conto." },
-        { "level": "B2", "fr": "Les personnages de cire qui sont dans le parc semblent vivants.", "pt": "Os personagens de cera que estão no parque parecem vivos." },
-        { "level": "C1-C2", "fr": "La cire, matière de l'illusion, donne un visage aux rêves.", "pt": "A cera, matéria da ilusão, dá rosto aos sonhos." }
+        {
+          "level": "A1",
+          "fr": "La cire est jaune.",
+          "pt": "A cera é amarela."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Des personnages de cire racontent le conte.",
+          "pt": "Personagens de cera contam o conto."
+        },
+        {
+          "level": "B2",
+          "fr": "Les personnages de cire qui sont dans le parc semblent vivants.",
+          "pt": "Os personagens de cera que estão no parque parecem vivos."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "La cire, matière de l'illusion, donne un visage aux rêves.",
+          "pt": "A cera, matéria da ilusão, dá rosto aos sonhos."
+        }
       ]
     },
     {
       "term": "se piquer",
       "definitionPt": "furar-se, picar-se",
       "definitionFr": "Se blesser avec un objet pointu.",
-      "inflections": ["je me pique", "tu te piques", "il se pique", "nous nous piquons"],
-      "ptTargets": ["furar-se", "picar-se"],
+      "inflections": [
+        "je me pique",
+        "tu te piques",
+        "il se pique",
+        "nous nous piquons"
+      ],
+      "ptTargets": [
+        "furar-se",
+        "picar-se"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Je me pique avec l'épingle.", "pt": "Eu me furo com o alfinete." },
-        { "level": "A2-B1", "fr": "La princesse s'est piquée le doigt.", "pt": "A princesa furou o dedo." },
-        { "level": "B2", "fr": "La princesse qui s'est piquée a dormi cent ans.", "pt": "A princesa que se furou dormiu cem anos." },
-        { "level": "C1-C2", "fr": "Se piquer, geste minuscule, peut endormir un royaume entier.", "pt": "Furar-se, gesto minúsculo, pode adormecer um reino inteiro." }
+        {
+          "level": "A1",
+          "fr": "Je me pique avec l'épingle.",
+          "pt": "Eu me furo com o alfinete."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "La princesse s'est piquée le doigt.",
+          "pt": "A princesa furou o dedo."
+        },
+        {
+          "level": "B2",
+          "fr": "La princesse qui s'est piquée a dormi cent ans.",
+          "pt": "A princesa que se furou dormiu cem anos."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Se piquer, geste minuscule, peut endormir un royaume entier.",
+          "pt": "Furar-se, gesto minúsculo, pode adormecer um reino inteiro."
+        }
       ]
     },
     {
       "term": "réveiller",
       "definitionPt": "acordar, despertar",
       "definitionFr": "Faire sortir du sommeil.",
-      "inflections": ["je réveille", "tu réveilles", "il réveille", "nous réveillons"],
-      "ptTargets": ["acordar", "despertar"],
+      "inflections": [
+        "je réveille",
+        "tu réveilles",
+        "il réveille",
+        "nous réveillons"
+      ],
+      "ptTargets": [
+        "acordar",
+        "despertar"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Je réveille mon frère.", "pt": "Eu acordo meu irmão." },
-        { "level": "A2-B1", "fr": "Le prince a réveillé la princesse.", "pt": "O príncipe despertou a princesa." },
-        { "level": "B2", "fr": "Le baiser qui a réveillé la princesse est célèbre.", "pt": "O beijo que despertou a princesa é famoso." },
-        { "level": "C1-C2", "fr": "Réveiller, c'est offrir un matin nouveau à qui dormait cent ans.", "pt": "Despertar é oferecer uma manhã nova a quem dormia cem anos." }
+        {
+          "level": "A1",
+          "fr": "Je réveille mon frère.",
+          "pt": "Eu acordo meu irmão."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Le prince a réveillé la princesse.",
+          "pt": "O príncipe despertou a princesa."
+        },
+        {
+          "level": "B2",
+          "fr": "Le baiser qui a réveillé la princesse est célèbre.",
+          "pt": "O beijo que despertou a princesa é famoso."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Réveiller, c'est offrir un matin nouveau à qui dormait cent ans.",
+          "pt": "Despertar é oferecer uma manhã nova a quem dormia cem anos."
+        }
       ]
     },
     {
       "term": "la tour pointue",
       "definitionPt": "a torre pontiaguda",
       "definitionFr": "Tour avec un toit en pointe.",
-      "inflections": ["la tour pointue", "des tours pointues"],
-      "ptTargets": ["torre pontiaguda"],
+      "inflections": [
+        "la tour pointue",
+        "des tours pointues"
+      ],
+      "ptTargets": [
+        "torre pontiaguda"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La tour est pointue.", "pt": "A torre é pontiaguda." },
-        { "level": "A2-B1", "fr": "Les tours pointues d'Ussé sont célèbres.", "pt": "As torres pontiagudas de Ussé são famosas." },
-        { "level": "B2", "fr": "Les tours pointues qui percent le ciel font rêver les enfants.", "pt": "As torres pontiagudas que furam o céu fazem sonhar as crianças." },
-        { "level": "C1-C2", "fr": "La tour pointue, crayon de pierre, écrit le château dans le ciel.", "pt": "A torre pontiaguda, lápis de pedra, escreve o castelo no céu." }
+        {
+          "level": "A1",
+          "fr": "La tour est pointue.",
+          "pt": "A torre é pontiaguda."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Les tours pointues d'Ussé sont célèbres.",
+          "pt": "As torres pontiagudas de Ussé são famosas."
+        },
+        {
+          "level": "B2",
+          "fr": "Les tours pointues qui percent le ciel font rêver les enfants.",
+          "pt": "As torres pontiagudas que furam o céu fazem sonhar as crianças."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "La tour pointue, crayon de pierre, écrit le château dans le ciel.",
+          "pt": "A torre pontiaguda, lápis de pedra, escreve o castelo no céu."
+        }
       ]
     },
     {
       "term": "la forêt",
       "definitionPt": "a floresta",
       "definitionFr": "Grande étendue d'arbres.",
-      "inflections": ["la forêt", "une forêt", "des forêts"],
-      "ptTargets": ["floresta"],
+      "inflections": [
+        "la forêt",
+        "une forêt",
+        "des forêts"
+      ],
+      "ptTargets": [
+        "floresta"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La forêt est verte.", "pt": "A floresta é verde." },
-        { "level": "A2-B1", "fr": "Le prince a traversé la forêt.", "pt": "O príncipe atravessou a floresta." },
-        { "level": "B2", "fr": "La forêt qui entoure Ussé est pleine de mystères.", "pt": "A floresta que cerca Ussé está cheia de mistérios." },
-        { "level": "C1-C2", "fr": "La forêt, royaume des ronces, protège les châteaux endormis.", "pt": "A floresta, reino dos espinhos, protege os castelos adormecidos." }
+        {
+          "level": "A1",
+          "fr": "La forêt est verte.",
+          "pt": "A floresta é verde."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Le prince a traversé la forêt.",
+          "pt": "O príncipe atravessou a floresta."
+        },
+        {
+          "level": "B2",
+          "fr": "La forêt qui entoure Ussé est pleine de mystères.",
+          "pt": "A floresta que cerca Ussé está cheia de mistérios."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "La forêt, royaume des ronces, protège les châteaux endormis.",
+          "pt": "A floresta, reino dos espinhos, protege os castelos adormecidos."
+        }
       ]
     },
     {
       "term": "heureux",
       "definitionPt": "feliz",
       "definitionFr": "Qui éprouve du bonheur.",
-      "inflections": ["heureux", "heureuse", "heureux", "heureuses"],
-      "ptTargets": ["feliz"],
+      "inflections": [
+        "heureux",
+        "heureuse",
+        "heureux",
+        "heureuses"
+      ],
+      "ptTargets": [
+        "feliz"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Je suis heureux.", "pt": "Eu sou feliz." },
-        { "level": "A2-B1", "fr": "Ils ont vécu heureux.", "pt": "Eles viveram felizes." },
-        { "level": "B2", "fr": "La fin heureuse du conte plaît à Iris.", "pt": "O final feliz do conto agrada Íris." },
-        { "level": "C1-C2", "fr": "Heureux, le conte s'arrête ; les vrais bonheurs continuent sans épilogue.", "pt": "Felizes, o conto termina; as felicidades verdadeiras continuam sem epílogo." }
+        {
+          "level": "A1",
+          "fr": "Je suis heureux.",
+          "pt": "Eu sou feliz."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Ils ont vécu heureux.",
+          "pt": "Eles viveram felizes."
+        },
+        {
+          "level": "B2",
+          "fr": "La fin heureuse du conte plaît à tout le monde.",
+          "pt": "O final feliz do conto agrada a todos."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Heureux, le conte s'arrête ; les vrais bonheurs continuent sans épilogue.",
+          "pt": "Felizes, o conto termina; as felicidades verdadeiras continuam sem epílogo."
+        }
       ]
     }
   ],
@@ -210,27 +493,52 @@
   "quizQuestions": [
     {
       "question": "Quel écrivain s'est inspiré d'Ussé ?",
-      "options": ["Charles Perrault", "Victor Hugo", "Jules Verne", "Rabelais"],
+      "options": [
+        "Charles Perrault",
+        "Victor Hugo",
+        "Jules Verne",
+        "Rabelais"
+      ],
       "correctIndex": 0
     },
     {
       "question": "Combien de temps la princesse a-t-elle dormi ?",
-      "options": ["Cent ans", "Un jour", "Mille ans", "Une nuit"],
+      "options": [
+        "Cent ans",
+        "Un jour",
+        "Mille ans",
+        "Une nuit"
+      ],
       "correctIndex": 0
     },
     {
       "question": "Comment la princesse s'est-elle piquée ?",
-      "options": ["Avec un fuseau", "Avec une épée", "Avec une rose", "Avec une fourchette"],
+      "options": [
+        "Avec un fuseau",
+        "Avec une épée",
+        "Avec une rose",
+        "Avec une fourchette"
+      ],
       "correctIndex": 0
     },
     {
       "question": "Qui a réveillé la princesse ?",
-      "options": ["Un prince", "Une fée", "Sa mère", "Un cheval"],
+      "options": [
+        "Un prince",
+        "Une fée",
+        "Sa mère",
+        "Un cheval"
+      ],
       "correctIndex": 0
     },
     {
       "question": "Qu'est-ce qu'Irlan dit de sa propre vie ?",
-      "options": ["C'est un conte", "C'est un film d'horreur", "C'est une recette", "C'est un atlas"],
+      "options": [
+        "C'est un conte",
+        "C'est un film d'horreur",
+        "C'est une recette",
+        "C'est un atlas"
+      ],
       "correctIndex": 0
     }
   ]

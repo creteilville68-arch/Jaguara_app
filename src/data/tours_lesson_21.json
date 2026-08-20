@@ -7,7 +7,7 @@
   "titlePt": "Chinon e Joana d'Arc: o encontro com o rei",
   "subtitleFr": "En 1429, une jeune bergère est venue sauver la France",
   "subtitlePt": "Em 1429, uma jovem pastora veio salvar a França",
-  "summaryPt": "Nesta Aula 21 (B1), a família visita a forteresse de Chinon, onde em 1429 Joana d'Arc reconheceu o rei Carlos VII disfarçado entre os cortesãos. O aluno pratica a narração no passado, os pronomes relativos e o vocabulário do castelo fortificado.",
+  "summaryPt": "Nesta Aula 21 (B1), o casal visita a forteresse de Chinon, onde em 1429 Joana d'Arc reconheceu o rei Carlos VII disfarçado entre os cortesãos. Andréa encontra um eco da própria busca: Joana reconheceu o rei sem vê-lo, como eles reconhecem a escrita de Manoel. O aluno pratica a narração no passado, os pronomes relativos e o vocabulário do castelo fortificado.",
   "paragraphs": [
     {
       "id": 1,
@@ -26,13 +26,28 @@
     },
     {
       "id": 4,
-      "fr": "« Et après ? » a demandé Iris. « Après, Jeanne a conduit l'armée et a libéré Orléans », a dit Irlan. « Le roi est devenu confiant. C'est ici que tout a commencé. »",
-      "pt": "« E depois? » perguntou Íris. « Depois, Joana conduziu o exército e libertou Orléans », disse Irlan. « O rei ganhou confiança. Foi aqui que tudo começou. »"
+      "fr": "« Et après ? » a demandé Andréa. « Après, Jeanne a conduit l'armée et a libéré Orléans », a dit Irlan. « Le roi est devenu confiant. C'est ici que tout a commencé. »",
+      "pt": "« E depois? » perguntou Andréa. « Depois, Joana conduziu o exército e libertou Orléans », disse Irlan. « O rei ganhou confiança. Foi aqui que tudo começou. »"
     },
     {
       "id": 5,
-      "fr": "Du haut des remparts, la famille a regardé la Vienne qui brillait. « Quand j'étais livreur, je ne connaissais pas l'histoire de la France », a dit Irlan. « Maintenant, chaque ville me raconte un chapitre. »",
-      "pt": "Do alto das muralhas, a família olhou o Vienne que brilhava. « Quando eu era entregador, eu não conhecia a história da França », disse Irlan. « Agora, cada cidade me conta um capítulo. »"
+      "fr": "Du haut des remparts, le couple a regardé la Vienne qui brillait. « Quand j'étais livreur, je ne connaissais pas l'histoire de la France », a dit Irlan. « Maintenant, chaque ville me raconte un chapitre. » Andréa a souri : « Jeanne a reconnu le roi sans le voir. Nous, nous avons reconnu l'écriture de Manoel dans la cave. »",
+      "pt": "Do alto das muralhas, o casal olhou o Vienne que brilhava. « Quando eu era entregador, eu não conhecia a história da França », disse Irlan. « Agora, cada cidade me conta um capítulo. » Andréa sorriu: « Joana reconheceu o rei sem vê-lo. Nós reconhecemos a escrita de Manoel na cave. »"
+    },
+    {
+      "id": 6,
+      "fr": "À Chinon, Irlan visite le lieu où Jeanne d'Arc rencontra le roi. C'est un moment dramatique de l'histoire.",
+      "pt": "Em Chinon, Irlan visita o local onde Joana d'Arc encontrou o rei. É um momento dramático da história."
+    },
+    {
+      "id": 7,
+      "fr": "Andréa lit un récit sur la bravery de Jeanne d'Arc. « Elle a vaincu la peur et le doute », dit-elle.",
+      "pt": "Andréa lê um relato sobre a bravura de Joana d'Arc. Ela venceu o medo e a dúvida, diz ela."
+    },
+    {
+      "id": 8,
+      "fr": "Irlan promet de garder un secret sur l'itinéraire caché du roi. « Il faut persévérer dans la recherche », murmure-t-il.",
+      "pt": "Irlan promete guardar um segredo sobre o itinerário escondido do rei. É preciso perseverar na pesquisa, murmura ele."
     }
   ],
   "vocabularyDictionary": [
@@ -40,156 +55,423 @@
       "term": "la forteresse",
       "definitionPt": "a fortaleza",
       "definitionFr": "Château fortifié pour la guerre.",
-      "inflections": ["la forteresse", "une forteresse", "des forteresses"],
-      "ptTargets": ["fortaleza"],
+      "inflections": [
+        "la forteresse",
+        "une forteresse",
+        "des forteresses"
+      ],
+      "ptTargets": [
+        "fortaleza"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La forteresse est grande.", "pt": "A fortaleza é grande." },
-        { "level": "A2-B1", "fr": "La forteresse de Chinon domine la Vienne.", "pt": "A fortaleza de Chinon domina o Vienne." },
-        { "level": "B2", "fr": "La forteresse que nous avons visitée est immense.", "pt": "A fortaleza que visitamos é imensa." },
-        { "level": "C1-C2", "fr": "La forteresse, gardienne de pierre, a protégé un roi sans couronne.", "pt": "A fortaleza, guardiã de pedra, protegeu um rei sem coroa." }
+        {
+          "level": "A1",
+          "fr": "La forteresse est grande.",
+          "pt": "A fortaleza é grande."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "La forteresse de Chinon domine la Vienne.",
+          "pt": "A fortaleza de Chinon domina o Vienne."
+        },
+        {
+          "level": "B2",
+          "fr": "La forteresse que nous avons visitée est immense.",
+          "pt": "A fortaleza que visitamos é imensa."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "La forteresse, gardienne de pierre, a protégé un roi sans couronne.",
+          "pt": "A fortaleza, guardiã de pedra, protegeu um rei sem coroa."
+        }
       ]
     },
     {
       "term": "la bergère",
       "definitionPt": "a pastora",
       "definitionFr": "Femme qui garde les moutons.",
-      "inflections": ["la bergère", "une bergère", "des bergères"],
-      "ptTargets": ["pastora"],
+      "inflections": [
+        "la bergère",
+        "une bergère",
+        "des bergères"
+      ],
+      "ptTargets": [
+        "pastora"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La bergère garde les moutons.", "pt": "A pastora guarda as ovelhas." },
-        { "level": "A2-B1", "fr": "Jeanne était une jeune bergère.", "pt": "Joana era uma jovem pastora." },
-        { "level": "B2", "fr": "La bergère qui est venue à Chinon a changé l'histoire.", "pt": "A pastora que veio a Chinon mudou a história." },
-        { "level": "C1-C2", "fr": "La bergère, héroïne improbable, a défié rois et généraux.", "pt": "A pastora, heroína improvável, desafiou reis e generais." }
+        {
+          "level": "A1",
+          "fr": "La bergère garde les moutons.",
+          "pt": "A pastora guarda as ovelhas."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Jeanne était une jeune bergère.",
+          "pt": "Joana era uma jovem pastora."
+        },
+        {
+          "level": "B2",
+          "fr": "La bergère qui est venue à Chinon a changé l'histoire.",
+          "pt": "A pastora que veio a Chinon mudou a história."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "La bergère, héroïne improbable, a défié rois et généraux.",
+          "pt": "A pastora, heroína improvável, desafiou reis e generais."
+        }
       ]
     },
     {
       "term": "le roi",
       "definitionPt": "o rei",
       "definitionFr": "Chef d'un royaume.",
-      "inflections": ["le roi", "un roi", "des rois"],
-      "ptTargets": ["rei"],
+      "inflections": [
+        "le roi",
+        "un roi",
+        "des rois"
+      ],
+      "ptTargets": [
+        "rei"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le roi est puissant.", "pt": "O rei é poderoso." },
-        { "level": "A2-B1", "fr": "Charles VII était le roi de France.", "pt": "Carlos VII era o rei da França." },
-        { "level": "B2", "fr": "Le roi que Jeanne a rencontré était triste.", "pt": "O rei que Joana encontrou estava triste." },
-        { "level": "C1-C2", "fr": "Le roi, homme sous la couronne, cherchait le courage qu'une bergère portait.", "pt": "O rei, homem sob a coroa, procurava a coragem que uma pastora carregava." }
+        {
+          "level": "A1",
+          "fr": "Le roi est puissant.",
+          "pt": "O rei é poderoso."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Charles VII était le roi de France.",
+          "pt": "Carlos VII era o rei da França."
+        },
+        {
+          "level": "B2",
+          "fr": "Le roi que Jeanne a rencontré était triste.",
+          "pt": "O rei que Joana encontrou estava triste."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Le roi, homme sous la couronne, cherchait le courage qu'une bergère portait.",
+          "pt": "O rei, homem sob a coroa, procurava a coragem que uma pastora carregava."
+        }
       ]
     },
     {
       "term": "le courtisan",
       "definitionPt": "o cortesão",
       "definitionFr": "Personne de la cour du roi.",
-      "inflections": ["le courtisan", "un courtisan", "des courtisans"],
-      "ptTargets": ["cortesão"],
+      "inflections": [
+        "le courtisan",
+        "un courtisan",
+        "des courtisans"
+      ],
+      "ptTargets": [
+        "cortesão"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le courtisan salue le roi.", "pt": "O cortesão saúda o rei." },
-        { "level": "A2-B1", "fr": "Les courtisans ont caché le roi.", "pt": "Os cortesãos esconderam o rei." },
-        { "level": "B2", "fr": "Les courtisans qui entouraient le roi étaient nombreux.", "pt": "Os cortesãos que cercavam o rei eram numerosos." },
-        { "level": "C1-C2", "fr": "Le courtisan, miroir du pouvoir, se confond dans la foule dorée.", "pt": "O cortesão, espelho do poder, confunde-se na multidão dourada." }
+        {
+          "level": "A1",
+          "fr": "Le courtisan salue le roi.",
+          "pt": "O cortesão saúda o rei."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Les courtisans ont caché le roi.",
+          "pt": "Os cortesãos esconderam o rei."
+        },
+        {
+          "level": "B2",
+          "fr": "Les courtisans qui entouraient le roi étaient nombreux.",
+          "pt": "Os cortesãos que cercavam o rei eram numerosos."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Le courtisan, miroir du pouvoir, se confond dans la foule dorée.",
+          "pt": "O cortesão, espelho do poder, confunde-se na multidão dourada."
+        }
       ]
     },
     {
       "term": "reconnaître",
       "definitionPt": "reconhecer",
       "definitionFr": "Identifier quelqu'un ou quelque chose.",
-      "inflections": ["je reconnais", "tu reconnais", "il reconnaît", "nous reconnaissons"],
-      "ptTargets": ["reconhecer"],
+      "inflections": [
+        "je reconnais",
+        "tu reconnais",
+        "il reconnaît",
+        "nous reconnaissons"
+      ],
+      "ptTargets": [
+        "reconhecer"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Je reconnais mon ami.", "pt": "Eu reconheço meu amigo." },
-        { "level": "A2-B1", "fr": "Jeanne a reconnu le roi.", "pt": "Joana reconheceu o rei." },
-        { "level": "B2", "fr": "Le roi que personne ne reconnaissait était bien là.", "pt": "O rei que ninguém reconhecia estava bem ali." },
-        { "level": "C1-C2", "fr": "Reconnaître, c'est voir l'invisible au-delà des apparences.", "pt": "Reconhecer é ver o invisível além das aparências." }
+        {
+          "level": "A1",
+          "fr": "Je reconnais mon ami.",
+          "pt": "Eu reconheço meu amigo."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Jeanne a reconnu le roi.",
+          "pt": "Joana reconheceu o rei."
+        },
+        {
+          "level": "B2",
+          "fr": "Le roi que personne ne reconnaissait était bien là.",
+          "pt": "O rei que ninguém reconhecia estava bem ali."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Reconnaître, c'est voir l'invisible au-delà des apparences.",
+          "pt": "Reconhecer é ver o invisível além das aparências."
+        }
       ]
     },
     {
       "term": "s'agenouiller",
       "definitionPt": "ajoelhar-se",
       "definitionFr": "Se mettre à genoux.",
-      "inflections": ["je m'agenouille", "tu t'agenouilles", "il s'agenouille", "nous nous agenouillons"],
-      "ptTargets": ["ajoelhar-se"],
+      "inflections": [
+        "je m'agenouille",
+        "tu t'agenouilles",
+        "il s'agenouille",
+        "nous nous agenouillons"
+      ],
+      "ptTargets": [
+        "ajoelhar-se"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Je m'agenouille pour prier.", "pt": "Eu me ajoelho para rezar." },
-        { "level": "A2-B1", "fr": "Jeanne s'est agenouillée devant le roi.", "pt": "Joana se ajoelhou diante do rei." },
-        { "level": "B2", "fr": "La bergère qui s'est agenouillée a surpris tout le monde.", "pt": "A pastora que se ajoelhou surpreendeu a todos." },
-        { "level": "C1-C2", "fr": "S'agenouiller, geste d'humilité, peut être un acte de courage.", "pt": "Ajoelhar-se, gesto de humildade, pode ser um ato de coragem." }
+        {
+          "level": "A1",
+          "fr": "Je m'agenouille pour prier.",
+          "pt": "Eu me ajoelho para rezar."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Jeanne s'est agenouillée devant le roi.",
+          "pt": "Joana se ajoelhou diante do rei."
+        },
+        {
+          "level": "B2",
+          "fr": "La bergère qui s'est agenouillée a surpris tout le monde.",
+          "pt": "A pastora que se ajoelhou surpreendeu a todos."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "S'agenouiller, geste d'humilité, peut être un acte de courage.",
+          "pt": "Ajoelhar-se, gesto de humildade, pode ser um ato de coragem."
+        }
       ]
     },
     {
       "term": "l'armée",
       "definitionPt": "o exército",
       "definitionFr": "Grande groupe de soldats.",
-      "inflections": ["l'armée", "une armée", "des armées"],
-      "ptTargets": ["exército"],
+      "inflections": [
+        "l'armée",
+        "une armée",
+        "des armées"
+      ],
+      "ptTargets": [
+        "exército"
+      ],
       "examples": [
-        { "level": "A1", "fr": "L'armée est grande.", "pt": "O exército é grande." },
-        { "level": "A2-B1", "fr": "Jeanne a conduit l'armée.", "pt": "Joana conduziu o exército." },
-        { "level": "B2", "fr": "L'armée que Jeanne a menée a libéré Orléans.", "pt": "O exército que Joana liderou libertou Orléans." },
-        { "level": "C1-C2", "fr": "L'armée, fleuve de fer, suivit la foi d'une jeune fille.", "pt": "O exército, rio de ferro, seguiu a fé de uma jovem." }
+        {
+          "level": "A1",
+          "fr": "L'armée est grande.",
+          "pt": "O exército é grande."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Jeanne a conduit l'armée.",
+          "pt": "Joana conduziu o exército."
+        },
+        {
+          "level": "B2",
+          "fr": "L'armée que Jeanne a menée a libéré Orléans.",
+          "pt": "O exército que Joana liderou libertou Orléans."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "L'armée, fleuve de fer, suivit la foi d'une jeune fille.",
+          "pt": "O exército, rio de ferro, seguiu a fé de uma jovem."
+        }
       ]
     },
     {
       "term": "libérer",
       "definitionPt": "libertar",
       "definitionFr": "Rendre libre.",
-      "inflections": ["je libère", "tu libères", "il libère", "nous libérons"],
-      "ptTargets": ["libertar"],
+      "inflections": [
+        "je libère",
+        "tu libères",
+        "il libère",
+        "nous libérons"
+      ],
+      "ptTargets": [
+        "libertar"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Je libère l'oiseau.", "pt": "Eu liberto o pássaro." },
-        { "level": "A2-B1", "fr": "Jeanne a libéré Orléans.", "pt": "Joana libertou Orléans." },
-        { "level": "B2", "fr": "La ville que Jeanne a libérée est devenue célèbre.", "pt": "A cidade que Joana libertou ficou famosa." },
-        { "level": "C1-C2", "fr": "Libérer, c'est rendre aux hommes leur propre courage.", "pt": "Libertar é devolver aos homens sua própria coragem." }
+        {
+          "level": "A1",
+          "fr": "Je libère l'oiseau.",
+          "pt": "Eu liberto o pássaro."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Jeanne a libéré Orléans.",
+          "pt": "Joana libertou Orléans."
+        },
+        {
+          "level": "B2",
+          "fr": "La ville que Jeanne a libérée est devenue célèbre.",
+          "pt": "A cidade que Joana libertou ficou famosa."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Libérer, c'est rendre aux hommes leur propre courage.",
+          "pt": "Libertar é devolver aos homens sua própria coragem."
+        }
       ]
     },
     {
       "term": "le rempart",
       "definitionPt": "a muralha",
       "definitionFr": "Mur de protection d'une forteresse.",
-      "inflections": ["le rempart", "un rempart", "des remparts"],
-      "ptTargets": ["muralha"],
+      "inflections": [
+        "le rempart",
+        "un rempart",
+        "des remparts"
+      ],
+      "ptTargets": [
+        "muralha"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le rempart est haut.", "pt": "A muralha é alta." },
-        { "level": "A2-B1", "fr": "On a marché sur les remparts.", "pt": "Caminhamos nas muralhas." },
-        { "level": "B2", "fr": "Les remparts qui protègent Chinon sont épais.", "pt": "As muralhas que protegem Chinon são espessas." },
-        { "level": "C1-C2", "fr": "Le rempart, ceinture de pierre, a vu passer Jeanne et les rois.", "pt": "A muralha, cinturão de pedra, viu passar Joana e os reis." }
+        {
+          "level": "A1",
+          "fr": "Le rempart est haut.",
+          "pt": "A muralha é alta."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "On a marché sur les remparts.",
+          "pt": "Caminhamos nas muralhas."
+        },
+        {
+          "level": "B2",
+          "fr": "Les remparts qui protègent Chinon sont épais.",
+          "pt": "As muralhas que protegem Chinon são espessas."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Le rempart, ceinture de pierre, a vu passer Jeanne et les rois.",
+          "pt": "A muralha, cinturão de pedra, viu passar Joana e os reis."
+        }
       ]
     },
     {
       "term": "la guerre",
       "definitionPt": "a guerra",
       "definitionFr": "Conflit entre pays.",
-      "inflections": ["la guerre", "une guerre", "des guerres"],
-      "ptTargets": ["guerra"],
+      "inflections": [
+        "la guerre",
+        "une guerre",
+        "des guerres"
+      ],
+      "ptTargets": [
+        "guerra"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La guerre est triste.", "pt": "A guerra é triste." },
-        { "level": "A2-B1", "fr": "En 1429, la France était en guerre.", "pt": "Em 1429, a França estava em guerra." },
-        { "level": "B2", "fr": "La guerre dont parle Irlan a duré cent ans.", "pt": "A guerra de que Irlan fala durou cem anos." },
-        { "level": "C1-C2", "fr": "La guerre, folie des rois, fut arrêtée par la foi d'une bergère.", "pt": "A guerra, loucura dos reis, foi detida pela fé de uma pastora." }
+        {
+          "level": "A1",
+          "fr": "La guerre est triste.",
+          "pt": "A guerra é triste."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "En 1429, la France était en guerre.",
+          "pt": "Em 1429, a França estava em guerra."
+        },
+        {
+          "level": "B2",
+          "fr": "La guerre dont parle Irlan a duré cent ans.",
+          "pt": "A guerra de que Irlan fala durou cem anos."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "La guerre, folie des rois, fut arrêtée par la foi d'une bergère.",
+          "pt": "A guerra, loucura dos reis, foi detida pela fé de uma pastora."
+        }
       ]
     },
     {
       "term": "le chapitre",
       "definitionPt": "o capítulo",
       "definitionFr": "Partie d'un livre.",
-      "inflections": ["le chapitre", "un chapitre", "des chapitres"],
-      "ptTargets": ["capítulo"],
+      "inflections": [
+        "le chapitre",
+        "un chapitre",
+        "des chapitres"
+      ],
+      "ptTargets": [
+        "capítulo"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le chapitre est court.", "pt": "O capítulo é curto." },
-        { "level": "A2-B1", "fr": "Chaque ville raconte un chapitre.", "pt": "Cada cidade conta um capítulo." },
-        { "level": "B2", "fr": "Le chapitre que nous avons lu parle de Jeanne.", "pt": "O capítulo que lemos fala de Joana." },
-        { "level": "C1-C2", "fr": "La France, livre ouvert, offre son histoire à qui sait voyager.", "pt": "A França, livro aberto, oferece sua história a quem sabe viajar." }
+        {
+          "level": "A1",
+          "fr": "Le chapitre est court.",
+          "pt": "O capítulo é curto."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Chaque ville raconte un chapitre.",
+          "pt": "Cada cidade conta um capítulo."
+        },
+        {
+          "level": "B2",
+          "fr": "Le chapitre que nous avons lu parle de Jeanne.",
+          "pt": "O capítulo que lemos fala de Joana."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "La France, livre ouvert, offre son histoire à qui sait voyager.",
+          "pt": "A França, livro aberto, oferece sua história a quem sabe viajar."
+        }
       ]
     },
     {
       "term": "l'hésitation",
       "definitionPt": "a hesitação",
       "definitionFr": "Moment d'incertitude avant d'agir.",
-      "inflections": ["l'hésitation", "une hésitation", "des hésitations"],
-      "ptTargets": ["hesitação"],
+      "inflections": [
+        "l'hésitation",
+        "une hésitation",
+        "des hésitations"
+      ],
+      "ptTargets": [
+        "hesitação"
+      ],
       "examples": [
-        { "level": "A1", "fr": "L'hésitation est courte.", "pt": "A hesitação é curta." },
-        { "level": "A2-B1", "fr": "Jeanne est entrée sans hésitation.", "pt": "Joana entrou sem hesitação." },
-        { "level": "B2", "fr": "L'hésitation qui a précédé son geste fut invisible.", "pt": "A hesitação que precedeu seu gesto foi invisível." },
-        { "level": "C1-C2", "fr": "L'hésitation, moment suspendu, sépare le doute de la certitude.", "pt": "A hesitação, momento suspenso, separa a dúvida da certeza." }
+        {
+          "level": "A1",
+          "fr": "L'hésitation est courte.",
+          "pt": "A hesitação é curta."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Jeanne est entrée sans hésitation.",
+          "pt": "Joana entrou sem hesitação."
+        },
+        {
+          "level": "B2",
+          "fr": "L'hésitation qui a précédé son geste fut invisible.",
+          "pt": "A hesitação que precedeu seu gesto foi invisível."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "L'hésitation, moment suspendu, sépare le doute de la certitude.",
+          "pt": "A hesitação, momento suspenso, separa a dúvida da certeza."
+        }
       ]
     }
   ],
@@ -210,27 +492,52 @@
   "quizQuestions": [
     {
       "question": "Qui était Jeanne ?",
-      "options": ["Une bergère", "Une reine", "Une marchande", "Une soldate professionnelle"],
+      "options": [
+        "Une bergère",
+        "Une reine",
+        "Une marchande",
+        "Une soldate professionnelle"
+      ],
       "correctIndex": 0
     },
     {
-      "question": "Où la famille a-t-elle visité la forteresse ?",
-      "options": ["À Chinon", "À Tours", "À Vouvray", "À Paris"],
+      "question": "Où le couple a-t-il visité la forteresse ?",
+      "options": [
+        "À Chinon",
+        "À Tours",
+        "À Vouvray",
+        "À Paris"
+      ],
       "correctIndex": 0
     },
     {
       "question": "Comment Jeanne a-t-elle trouvé le roi ?",
-      "options": ["Elle l'a reconnu sans hésiter", "On le lui a montré", "Il portait une couronne", "Elle a cherché toute la nuit"],
+      "options": [
+        "Elle l'a reconnu sans hésiter",
+        "On le lui a montré",
+        "Il portait une couronne",
+        "Elle a cherché toute la nuit"
+      ],
       "correctIndex": 0
     },
     {
       "question": "Quelle ville Jeanne a-t-elle libérée ?",
-      "options": ["Orléans", "Tours", "Paris", "Lyon"],
+      "options": [
+        "Orléans",
+        "Tours",
+        "Paris",
+        "Lyon"
+      ],
       "correctIndex": 0
     },
     {
       "question": "En quelle année Jeanne est-elle venue à Chinon ?",
-      "options": ["1429", "1789", "2013", "1066"],
+      "options": [
+        "1429",
+        "1789",
+        "2013",
+        "1066"
+      ],
       "correctIndex": 0
     }
   ]

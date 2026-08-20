@@ -68,6 +68,21 @@
       "id": 12,
       "fr": "Irlan serre la main d'Andréa. « C'est là. La cathédrale garde un message sous nos pieds. »",
       "pt": "Irlan aperta a mão de Andréa. « É lá. A catedral guarda uma mensagem sob os nossos pés. »"
+    },
+    {
+      "id": 13,
+      "fr": "Dans la bibliothèque, Irlan cherche un livre sur la géographie. Il emprunte un atlas ancien à la bibliothécaire.",
+      "pt": "Na biblioteca, Irlan procura um livro sobre geografia. Ele empresta um atlas antigo com a bibliotecária."
+    },
+    {
+      "id": 14,
+      "fr": "Le livre recommandé par la bibliothèque raconte l'histoire du courrier recommandé de 1904.",
+      "pt": "O livro recomendado pela biblioteca conta a história do correio registrado de 1904."
+    },
+    {
+      "id": 15,
+      "fr": "Irlan rend un livre et en emprunte un autre. La feuille de calcul des archives montre des noms oubliés.",
+      "pt": "Irlan devolve um livro e empresta outro. A planilha dos arquivos mostra nomes esquecidos."
     }
   ],
   "vocabularyDictionary": [
@@ -75,156 +90,420 @@
       "term": "la bibliothèque",
       "definitionPt": "a biblioteca",
       "definitionFr": "Lieu où l'on garde des livres.",
-      "inflections": ["la bibliothèque", "une bibliothèque", "des bibliothèques"],
-      "ptTargets": ["biblioteca"],
+      "inflections": [
+        "la bibliothèque",
+        "une bibliothèque",
+        "des bibliothèques"
+      ],
+      "ptTargets": [
+        "biblioteca"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La bibliothèque est calme.", "pt": "A biblioteca é calma." },
-        { "level": "A2-B1", "fr": "Ils vont à la bibliothèque d'Amiens.", "pt": "Eles vão à biblioteca de Amiens." },
-        { "level": "B2", "fr": "La bibliothèque conserve des livres anciens et précieux.", "pt": "A biblioteca conserva livros antigos e preciosos." },
-        { "level": "C1-C2", "fr": "C'est la bibliothèque qui, en réunissant les livres, réunit aussi les savoirs et les rêves.", "pt": "É a biblioteca que, ao reunir os livros, reúne também os saberes e os sonhos." }
+        {
+          "level": "A1",
+          "fr": "La bibliothèque est calme.",
+          "pt": "A biblioteca é calma."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Ils vont à la bibliothèque d'Amiens.",
+          "pt": "Eles vão à biblioteca de Amiens."
+        },
+        {
+          "level": "B2",
+          "fr": "La bibliothèque conserve des livres anciens et précieux.",
+          "pt": "A biblioteca conserva livros antigos e preciosos."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est la bibliothèque qui, en réunissant les livres, réunit aussi les savoirs et les rêves.",
+          "pt": "É a biblioteca que, ao reunir os livros, reúne também os saberes e os sonhos."
+        }
       ]
     },
     {
       "term": "le livre",
       "definitionPt": "o livro",
       "definitionFr": "Ensemble de pages reliées.",
-      "inflections": ["le livre", "un livre", "des livres"],
-      "ptTargets": ["livro"],
+      "inflections": [
+        "le livre",
+        "un livre",
+        "des livres"
+      ],
+      "ptTargets": [
+        "livro"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le livre est ancien.", "pt": "O livro é antigo." },
-        { "level": "A2-B1", "fr": "Ils cherchent des livres sur les cathédrales.", "pt": "Eles procuram livros sobre as catedrais." },
-        { "level": "B2", "fr": "Le livre décrit la rosace et ses couleurs.", "pt": "O livro descreve a rosácea e suas cores." },
-        { "level": "C1-C2", "fr": "C'est le livre qui, transmis de main en main, garde la connaissance vivante à travers les siècles.", "pt": "É o livro que, passado de mão em mão, mantém o conhecimento vivo através dos séculos." }
+        {
+          "level": "A1",
+          "fr": "Le livre est ancien.",
+          "pt": "O livro é antigo."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Ils cherchent des livres sur les cathédrales.",
+          "pt": "Eles procuram livros sobre as catedrais."
+        },
+        {
+          "level": "B2",
+          "fr": "Le livre décrit la rosace et ses couleurs.",
+          "pt": "O livro descreve a rosácea e suas cores."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est le livre qui, transmis de main en main, garde la connaissance vivante à travers les siècles.",
+          "pt": "É o livro que, passado de mão em mão, mantém o conhecimento vivo através dos séculos."
+        }
       ]
     },
     {
       "term": "lire",
       "definitionPt": "ler",
       "definitionFr": "Comprendre un texte écrit.",
-      "inflections": ["lire", "je lis", "nous lisons"],
-      "ptTargets": ["ler"],
+      "inflections": [
+        "lire",
+        "je lis",
+        "nous lisons"
+      ],
+      "ptTargets": [
+        "ler"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Je lis un livre.", "pt": "Eu leio um livro." },
-        { "level": "A2-B1", "fr": "Irlan lit à voix basse.", "pt": "Irlan lê em voz baixa." },
-        { "level": "B2", "fr": "Lire un texte ancien demande de la patience.", "pt": "Ler um texto antigo exige paciência." },
-        { "level": "C1-C2", "fr": "C'est en lisant que l'on voyage sans bouger.", "pt": "É lendo que se viaja sem se mover." }
+        {
+          "level": "A1",
+          "fr": "Je lis un livre.",
+          "pt": "Eu leio um livro."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Irlan lit à voix basse.",
+          "pt": "Irlan lê em voz baixa."
+        },
+        {
+          "level": "B2",
+          "fr": "Lire un texte ancien demande de la patience.",
+          "pt": "Ler um texto antigo exige paciência."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est en lisant que l'on voyage sans bouger.",
+          "pt": "É lendo que se viaja sem se mover."
+        }
       ]
     },
     {
       "term": "la page",
       "definitionPt": "a página",
       "definitionFr": "Face d'une feuille.",
-      "inflections": ["la page", "une page", "des pages"],
-      "ptTargets": ["página"],
+      "inflections": [
+        "la page",
+        "une page",
+        "des pages"
+      ],
+      "ptTargets": [
+        "página"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La page est ouverte.", "pt": "A página está aberta." },
-        { "level": "A2-B1", "fr": "Regarde cette page du livre.", "pt": "Olha esta página do livro." },
-        { "level": "B2", "fr": "La page décrit précisément la rosace.", "pt": "A página descreve precisamente a rosácea." },
-        { "level": "C1-C2", "fr": "C'est la page qui, jaunie par le temps, garde une phrase décisive.", "pt": "É a página que, amarelada pelo tempo, guarda uma frase decisiva." }
+        {
+          "level": "A1",
+          "fr": "La page est ouverte.",
+          "pt": "A página está aberta."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Regarde cette page du livre.",
+          "pt": "Olha esta página do livro."
+        },
+        {
+          "level": "B2",
+          "fr": "La page décrit précisément la rosace.",
+          "pt": "A página descreve precisamente a rosácea."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est la page qui, jaunie par le temps, garde une phrase décisive.",
+          "pt": "É a página que, amarelada pelo tempo, guarda uma frase decisiva."
+        }
       ]
     },
     {
       "term": "la salle de lecture",
       "definitionPt": "a sala de leitura",
       "definitionFr": "Pièce pour lire et étudier.",
-      "inflections": ["la salle de lecture", "une salle de lecture"],
-      "ptTargets": ["sala de leitura"],
+      "inflections": [
+        "la salle de lecture",
+        "une salle de lecture"
+      ],
+      "ptTargets": [
+        "sala de leitura"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La salle de lecture est claire.", "pt": "A sala de leitura é clara." },
-        { "level": "A2-B1", "fr": "La salle de lecture est silencieuse.", "pt": "A sala de leitura é silenciosa." },
-        { "level": "B2", "fr": "La salle de lecture accueille étudiants et chercheurs.", "pt": "A sala de leitura acolhe estudantes e pesquisadores." },
-        { "level": "C1-C2", "fr": "C'est la salle de lecture qui, par son silence, invite chacun à la concentration.", "pt": "É a sala de leitura que, com seu silêncio, convida cada um à concentração." }
+        {
+          "level": "A1",
+          "fr": "La salle de lecture est claire.",
+          "pt": "A sala de leitura é clara."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "La salle de lecture est silencieuse.",
+          "pt": "A sala de leitura é silenciosa."
+        },
+        {
+          "level": "B2",
+          "fr": "La salle de lecture accueille étudiants et chercheurs.",
+          "pt": "A sala de leitura acolhe estudantes e pesquisadores."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est la salle de lecture qui, par son silence, invite chacun à la concentration.",
+          "pt": "É a sala de leitura que, com seu silêncio, convida cada um à concentração."
+        }
       ]
     },
     {
       "term": "la bibliothécaire",
       "definitionPt": "a bibliotecária",
       "definitionFr": "Personne qui travaille dans une bibliothèque.",
-      "inflections": ["la bibliothécaire", "une bibliothécaire", "des bibliothécaires"],
-      "ptTargets": ["bibliotecária"],
+      "inflections": [
+        "la bibliothécaire",
+        "une bibliothécaire",
+        "des bibliothécaires"
+      ],
+      "ptTargets": [
+        "bibliotecária"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La bibliothécaire est gentille.", "pt": "A bibliotecária é gentil." },
-        { "level": "A2-B1", "fr": "Une bibliothécaire s'approche.", "pt": "Uma bibliotecária se aproxima." },
-        { "level": "B2", "fr": "La bibliothécaire connaît les ouvrages de la section ancienne.", "pt": "A bibliotecária conhece as obras da seção antiga." },
-        { "level": "C1-C2", "fr": "C'est la bibliothécaire qui, discrète, guide les lecteurs vers ce qu'ils ignorent chercher.", "pt": "É a bibliotecária que, discreta, guia os leitores ao que eles ignoram procurar." }
+        {
+          "level": "A1",
+          "fr": "La bibliothécaire est gentille.",
+          "pt": "A bibliotecária é gentil."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Une bibliothécaire s'approche.",
+          "pt": "Uma bibliotecária se aproxima."
+        },
+        {
+          "level": "B2",
+          "fr": "La bibliothécaire connaît les ouvrages de la section ancienne.",
+          "pt": "A bibliotecária conhece as obras da seção antiga."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est la bibliothécaire qui, discrète, guide les lecteurs vers ce qu'ils ignorent chercher.",
+          "pt": "É a bibliotecária que, discreta, guia os leitores ao que eles ignoram procurar."
+        }
       ]
     },
     {
       "term": "le texte",
       "definitionPt": "o texto",
       "definitionFr": "Ensemble de mots écrits.",
-      "inflections": ["le texte", "un texte", "des textes"],
-      "ptTargets": ["texto"],
+      "inflections": [
+        "le texte",
+        "un texte",
+        "des textes"
+      ],
+      "ptTargets": [
+        "texto"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le texte est court.", "pt": "O texto é curto." },
-        { "level": "A2-B1", "fr": "Le texte parle d'un lieu précis.", "pt": "O texto fala de um lugar preciso." },
-        { "level": "B2", "fr": "Le texte ancien décrit un phénomène de lumière.", "pt": "O texto antigo descreve um fenômeno de luz." },
-        { "level": "C1-C2", "fr": "C'est le texte qui, concis, peut cacher une clé entre deux lignes.", "pt": "É o texto que, conciso, pode esconder uma chave entre duas linhas." }
+        {
+          "level": "A1",
+          "fr": "Le texte est court.",
+          "pt": "O texto é curto."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Le texte parle d'un lieu précis.",
+          "pt": "O texto fala de um lugar preciso."
+        },
+        {
+          "level": "B2",
+          "fr": "Le texte ancien décrit un phénomène de lumière.",
+          "pt": "O texto antigo descreve um fenômeno de luz."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est le texte qui, concis, peut cacher une clé entre deux lignes.",
+          "pt": "É o texto que, conciso, pode esconder uma chave entre duas linhas."
+        }
       ]
     },
     {
       "term": "la dalle",
       "definitionPt": "a laje",
       "definitionFr": "Plaque de pierre au sol.",
-      "inflections": ["la dalle", "une dalle", "des dalles"],
-      "ptTargets": ["laje"],
+      "inflections": [
+        "la dalle",
+        "une dalle",
+        "des dalles"
+      ],
+      "ptTargets": [
+        "laje"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La dalle est lisse.", "pt": "A laje é lisa." },
-        { "level": "A2-B1", "fr": "Il y a une dalle au sol, près du chœur.", "pt": "Há uma laje no chão, perto do coro." },
-        { "level": "B2", "fr": "La dalle porte une fleur gravée à peine visible.", "pt": "A laje traz uma flor gravada quase invisível." },
-        { "level": "C1-C2", "fr": "C'est la dalle qui, usée par des siècles de pas, garde en creux un signe discret.", "pt": "É a laje que, gasta por séculos de passos, guarda em relevo um sinal discreto." }
+        {
+          "level": "A1",
+          "fr": "La dalle est lisse.",
+          "pt": "A laje é lisa."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Il y a une dalle au sol, près du chœur.",
+          "pt": "Há uma laje no chão, perto do coro."
+        },
+        {
+          "level": "B2",
+          "fr": "La dalle porte une fleur gravée à peine visible.",
+          "pt": "A laje traz uma flor gravada quase invisível."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est la dalle qui, usée par des siècles de pas, garde en creux un signe discret.",
+          "pt": "É a laje que, gasta por séculos de passos, guarda em relevo um sinal discreto."
+        }
       ]
     },
     {
       "term": "le chœur",
       "definitionPt": "o coro (da igreja)",
       "definitionFr": "Partie de l'église près de l'autel.",
-      "inflections": ["le chœur", "un chœur", "des chœurs"],
-      "ptTargets": ["coro"],
+      "inflections": [
+        "le chœur",
+        "un chœur",
+        "des chœurs"
+      ],
+      "ptTargets": [
+        "coro"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le chœur est large.", "pt": "O coro é largo." },
-        { "level": "A2-B1", "fr": "La dalle se trouve près du chœur.", "pt": "A laje fica perto do coro." },
-        { "level": "B2", "fr": "Le chœur de la cathédrale est richement orné.", "pt": "O coro da catedral é ricamente ornamentado." },
-        { "level": "C1-C2", "fr": "C'est le chœur qui, cœur de l'édifice, attire le regard vers l'autel.", "pt": "É o coro que, coração do edifício, atrai o olhar para o altar." }
+        {
+          "level": "A1",
+          "fr": "Le chœur est large.",
+          "pt": "O coro é largo."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "La dalle se trouve près du chœur.",
+          "pt": "A laje fica perto do coro."
+        },
+        {
+          "level": "B2",
+          "fr": "Le chœur de la cathédrale est richement orné.",
+          "pt": "O coro da catedral é ricamente ornamentado."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est le chœur qui, cœur de l'édifice, attire le regard vers l'autel.",
+          "pt": "É o coro que, coração do edifício, atrai o olhar para o altar."
+        }
       ]
     },
     {
       "term": "la fleur",
       "definitionPt": "a flor",
       "definitionFr": "Partie colorée d'une plante.",
-      "inflections": ["la fleur", "une fleur", "des fleurs"],
-      "ptTargets": ["flor"],
+      "inflections": [
+        "la fleur",
+        "une fleur",
+        "des fleurs"
+      ],
+      "ptTargets": [
+        "flor"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La fleur est jolie.", "pt": "A flor é bonita." },
-        { "level": "A2-B1", "fr": "La dalle est marquée d'une fleur.", "pt": "A laje é marcada com uma flor." },
-        { "level": "B2", "fr": "Une fleur gravée orne le centre de la dalle.", "pt": "Uma flor gravada orna o centro da laje." },
-        { "level": "C1-C2", "fr": "C'est la fleur qui, fragile et précise, signe le passage d'un secret à travers les siècles.", "pt": "É a flor que, frágil e precisa, assina a passagem de um segredo através dos séculos." }
+        {
+          "level": "A1",
+          "fr": "La fleur est jolie.",
+          "pt": "A flor é bonita."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "La dalle est marquée d'une fleur.",
+          "pt": "A laje é marcada com uma flor."
+        },
+        {
+          "level": "B2",
+          "fr": "Une fleur gravée orne le centre de la dalle.",
+          "pt": "Uma flor gravada orna o centro da laje."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est la fleur qui, fragile et précise, signe le passage d'un secret à travers les siècles.",
+          "pt": "É a flor que, frágil e precisa, assina a passagem de um segredo através dos séculos."
+        }
       ]
     },
     {
       "term": "le message",
       "definitionPt": "a mensagem",
       "definitionFr": "Information transmise.",
-      "inflections": ["le message", "un message", "des messages"],
-      "ptTargets": ["mensagem"],
+      "inflections": [
+        "le message",
+        "un message",
+        "des messages"
+      ],
+      "ptTargets": [
+        "mensagem"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le message est clair.", "pt": "A mensagem é clara." },
-        { "level": "A2-B1", "fr": "La cathédrale garde un message.", "pt": "A catedral guarda uma mensagem." },
-        { "level": "B2", "fr": "Le message codé attend d'être déchiffré.", "pt": "A mensagem codificada espera para ser decifrada." },
-        { "level": "C1-C2", "fr": "C'est le message qui, caché dans la pierre, traverse le temps pour qui sait le chercher.", "pt": "É a mensagem que, escondida na pedra, atravessa o tempo para quem sabe procurá-la." }
+        {
+          "level": "A1",
+          "fr": "Le message est clair.",
+          "pt": "A mensagem é clara."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "La cathédrale garde un message.",
+          "pt": "A catedral guarda uma mensagem."
+        },
+        {
+          "level": "B2",
+          "fr": "Le message codé attend d'être déchiffré.",
+          "pt": "A mensagem codificada espera para ser decifrada."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est le message qui, caché dans la pierre, traverse le temps pour qui sait le chercher.",
+          "pt": "É a mensagem que, escondida na pedra, atravessa o tempo para quem sabe procurá-la."
+        }
       ]
     },
     {
       "term": "chercher",
       "definitionPt": "procurar",
       "definitionFr": "Essayer de trouver.",
-      "inflections": ["chercher", "je cherche", "nous cherchons"],
-      "ptTargets": ["procurar", "buscar"],
+      "inflections": [
+        "chercher",
+        "je cherche",
+        "nous cherchons"
+      ],
+      "ptTargets": [
+        "procurar",
+        "buscar"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Je cherche un livre.", "pt": "Eu procuro um livro." },
-        { "level": "A2-B1", "fr": "Ils cherchent des livres anciens.", "pt": "Eles procuram livros antigos." },
-        { "level": "B2", "fr": "Chercher un indice demande de la méthode.", "pt": "Procurar uma pista exige método." },
-        { "level": "C1-C2", "fr": "C'est en cherchant que l'on apprend à regarder vraiment.", "pt": "É procurando que se aprende a olhar de verdade." }
+        {
+          "level": "A1",
+          "fr": "Je cherche un livre.",
+          "pt": "Eu procuro um livro."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Ils cherchent des livres anciens.",
+          "pt": "Eles procuram livros antigos."
+        },
+        {
+          "level": "B2",
+          "fr": "Chercher un indice demande de la méthode.",
+          "pt": "Procurar uma pista exige método."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est en cherchant que l'on apprend à regarder vraiment.",
+          "pt": "É procurando que se aprende a olhar de verdade."
+        }
       ]
     }
   ],
@@ -234,7 +513,11 @@
     "exampleFr": "Je lis un livre. Irlan lit à voix basse.",
     "examplePt": "Eu leio um livro. Irlan lê em voz baixa.",
     "practiceQuestion": "Complete: 'Nous _____ un livre ancien.'",
-    "options": ["lisons", "lisent", "lit"],
+    "options": [
+      "lisons",
+      "lisent",
+      "lit"
+    ],
     "correctIndex": 0,
     "points": [
       {
@@ -243,7 +526,11 @@
         "exampleFr": "Je peux vous aider ?",
         "examplePt": "Posso ajudar vocês?",
         "practiceQuestion": "Complete: 'Je peux _____ aider ?'",
-        "options": ["vous", "tu", "il"],
+        "options": [
+          "vous",
+          "tu",
+          "il"
+        ],
         "correctIndex": 0
       },
       {
@@ -252,7 +539,11 @@
         "exampleFr": "Irlan lit à voix basse.",
         "examplePt": "Irlan lê em voz baixa.",
         "practiceQuestion": "Complete: 'Il lit _____ voix basse.'",
-        "options": ["à", "en", "de"],
+        "options": [
+          "à",
+          "en",
+          "de"
+        ],
         "correctIndex": 0
       }
     ]
@@ -260,31 +551,51 @@
   "quizQuestions": [
     {
       "question": "Onde Irlan e Andréa vão pesquisar?",
-      "options": ["na biblioteca", "na prefeitura", "no museu"],
+      "options": [
+        "na biblioteca",
+        "na prefeitura",
+        "no museu"
+      ],
       "correctIndex": 0,
       "explanation": "Ils vont à la bibliothèque d'Amiens."
     },
     {
       "question": "O que Andréa encontra?",
-      "options": ["um livro antigo sobre a rosácea", "um mapa do Brasil", "um caderno perdido"],
+      "options": [
+        "um livro antigo sobre a rosácea",
+        "um mapa do Brasil",
+        "um caderno perdido"
+      ],
       "correctIndex": 0,
       "explanation": "Andréa trouve un vieux livre sur la rosace."
     },
     {
       "question": "O que a bibliotecária menciona?",
-      "options": ["uma laje com uma flor, perto do coro", "uma porta secreta", "um vitral novo"],
+      "options": [
+        "uma laje com uma flor, perto do coro",
+        "uma porta secreta",
+        "um vitral novo"
+      ],
       "correctIndex": 0,
       "explanation": "Une dalle au sol, près du chœur, marquée d'une fleur."
     },
     {
       "question": "Complete: 'Nous _____ un livre ancien.'",
-      "options": ["lisons", "lisent", "lit"],
+      "options": [
+        "lisons",
+        "lisent",
+        "lit"
+      ],
       "correctIndex": 0,
       "explanation": "nous lisons."
     },
     {
       "question": "Complete: 'Il lit _____ voix basse.'",
-      "options": ["à", "en", "de"],
+      "options": [
+        "à",
+        "en",
+        "de"
+      ],
       "correctIndex": 0,
       "explanation": "à voix basse."
     }

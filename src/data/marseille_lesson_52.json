@@ -11,15 +11,15 @@
   "paragraphs": [
     {
       "id": 1,
-      "fr": "Les plages du Prado sont artificielles, construites avec les déblais du métro dans les années 1970. Irlan ne pouvait pas y croire : des plages de sable fin au cœur d'une grande ville. Il a posé sa serviette et s'est étendu sous le soleil, pendant qu'Andréa lisait un roman et qu'Íris construisait un château de sable.",
-      "pt": "As praias do Prado são artificiais, construídas com os entulhos do metrô nos anos 1970. Irlan não podia acreditar: praias de areia fina no coração de uma grande cidade. Estendeu sua toalha e se deitou ao sol, enquanto Andréa lia um romance e Íris construía um castelo de areia.",
+      "fr": "Les plages du Prado sont artificielles, construites avec les déblais du métro dans les années 1970. Irlan ne pouvait pas y croire : des plages de sable fin au cœur d'une grande ville. Il a posé sa serviette et s'est étendu sous le soleil, pendant qu'Andréa lisait un roman au bord de l'eau.",
+      "pt": "As praias do Prado são artificiais, construídas com os entulhos do metrô nos anos 1970. Irlan não podia acreditar: praias de areia fina no coração de uma grande cidade. Estendeu sua toalha e se deitou ao sol, enquanto Andréa lia um romance à beira da água.",
       "vocabularies": [
         { "id": 1, "fr": "artificiel", "pt": "artificial", "exampleFr": "Les plages du Prado sont artificielles.", "examplePt": "As praias do Prado são artificiais." },
         { "id": 2, "fr": "le déblai", "pt": "o entulho / material escavado", "exampleFr": "Les déblais du métro ont créé des plages.", "examplePt": "O entulho do metrô criou praias." },
         { "id": 3, "fr": "le sable", "pt": "a areia", "exampleFr": "Le sable est fin et blanc.", "examplePt": "A areia é fina e branca." },
         { "id": 4, "fr": "s'étendre", "pt": "se estender / deitar-se", "exampleFr": "Ils se sont étendus sur la plage.", "examplePt": "Eles se deitaram na praia." },
         { "id": 5, "fr": "le front de mer", "pt": "a orla marítima", "exampleFr": "Le front de mer de Marseille est magnifique.", "examplePt": "A orla marítima de Marselha é magnífica." },
-        { "id": 6, "fr": "le château de sable", "pt": "o castelo de areia", "exampleFr": "Íris a construit un château de sable.", "examplePt": "Íris construiu um castelo de areia." },
+        { "id": 6, "fr": "le château de sable", "pt": "o castelo de areia", "exampleFr": "Andréa a construit un château de sable.", "examplePt": "Andréa construiu um castelo de areia." },
         { "id": 7, "fr": "poser", "pt": "colocar", "exampleFr": "Elle a posé sa serviette sur le sable.", "examplePt": "Ela colocou sua toalha na areia." },
         { "id": 8, "fr": "une serviette", "pt": "uma toalha", "exampleFr": "Il a posé sa serviette bleue.", "examplePt": "Ele colocou sua toalha azul." },
         { "id": 9, "fr": "au cœur de", "pt": "no coração de", "exampleFr": "Paris est au cœur de la France.", "examplePt": "Paris fica no coração da França." },
@@ -49,8 +49,8 @@
     },
     {
       "id": 3,
-      "fr": "Le coucher de soleil sur le Prado était magique. Le ciel virait au rose, puis à l'orange, tandis que la silhouette de l'île du Frioul se découpait sur l'horizon. Irlan a pris une photo panoramique. 'Regarde, Andréa, c'est comme si la mer était en feu', a-t-il murmuré. Íris, les yeux brillants, a ajouté : 'C'est la plus belle étoile que j'ai vue !' en montrant la première étoile du soir.",
-      "pt": "O pôr do sol no Prado era mágico. O céu virava para o rosa, depois para o laranja, enquanto a silhueta da île du Frioul se desenhava no horizonte. Irlan tirou uma foto panorâmica. 'Olha, Andréa, é como se o mar estivesse em chamas', murmurou. Íris, com os olhos brilhantes, acrescentou: 'É a estrela mais bonita que eu já vi!' apontando para a primeira estrela da noite.",
+      "fr": "Le coucher de soleil sur le Prado était magique. Le ciel virait au rose, puis à l'orange, tandis que la silhouette de l'île du Frioul se découpait sur l'horizon. Irlan a pris une photo panoramique. 'Regarde, Andréa, c'est comme si la mer était en feu', a-t-il murmuré. Andréa, les yeux brillants, a ajouté : 'C'est la plus belle étoile que j'ai vue !' en montrant la première étoile du soir.",
+      "pt": "O pôr do sol no Prado era mágico. O céu virava para o rosa, depois para o laranja, enquanto a silhueta da île du Frioul se desenhava no horizonte. Irlan tirou uma foto panorâmica. 'Olha, Andréa, é como se o mar estivesse em chamas', murmurou. Andréa, com os olhos brilhantes, acrescentou: 'É a estrela mais bonita que eu já vi!' apontando para a primeira estrela da noite.",
       "vocabularies": [
         { "id": 1, "fr": "le coucher de soleil", "pt": "o pôr do sol", "exampleFr": "Le coucher de soleil est spectaculaire.", "examplePt": "O pôr do sol é espetacular." },
         { "id": 2, "fr": "virer au", "pt": "virar para / tornar-se", "exampleFr": "Le ciel vire au rouge au coucher du soleil.", "examplePt": "O céu vira ao vermelho no pôr do sol." },
@@ -256,8 +256,8 @@
       {
         "ruleTitle": "Le subjonctif après 'vouloir que' et 'il faut que'",
         "explanationPt": "Após 'vouloir que' e 'il faut que', o subjonctif expressa desejo ou necessidade: 'il faut qu'elle vienne', 'je veux que tu essaies'.",
-        "exampleFr": "Il faut qu'Íris essaie de construire un château de sable.",
-        "examplePt": "É preciso que Íris tente construir um castelo de areia.",
+        "exampleFr": "Il faut qu'Andréa essaie de construire un château de sable.",
+        "examplePt": "É preciso que Andréa tente construir um castelo de areia.",
         "practiceQuestion": "Complete: « Je veux que tu ___ avec moi. »",
         "options": ["viennes", "viens", "viendras"],
         "correctIndex": 0

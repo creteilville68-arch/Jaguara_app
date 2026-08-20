@@ -7,7 +7,7 @@
   "titlePt": "O mercado dos Capuchinhos: o ventre de Bordeaux",
   "subtitleFr": "Huîtres, canelés et fromages au marché couvert",
   "subtitlePt": "Ostras, canelés e queijos no mercado coberto",
-  "summaryPt": "Nesta Aula 5 (B1+), a família visita o mercado das Capucins, apelidado de 'ventre de Bordeaux'. Andréa compra ostras do Bassin d'Arcachon e o comerciante oferece conselhos. O aluno aprende os pronomes COI (lui, leur) e a ordem dos pronomes duplos: 'je le lui donne'.",
+  "summaryPt": "Nesta Aula 5 (B1+), o casal visita o mercado das Capucins, apelidado de 'ventre de Bordeaux'. Andréa compra ostras do Bassin d'Arcachon e o comerciante oferece conselhos de degustação. O aluno aprende os pronomes COI (lui, leur) e a ordem dos pronomes duplos: 'je le lui donne'.",
   "paragraphs": [
     {
       "id": 1,
@@ -21,13 +21,28 @@
     },
     {
       "id": 3,
-      "fr": "Irlan a acheté des canelés chez le pâtissier. Iris a goûté le premier : « Maman, goûte-le ! C'est délicieux. » Elle le lui a tendu en riant.",
-      "pt": "Irlan comprou canelés na confeitaria. Íris provou o primeiro: « Mamãe, prova! É delicioso. » Ela o entregou a ela rindo."
+      "fr": "Irlan a acheté des canelés chez le pâtissier. Il en a offert un à Andréa : « Goûte-le ! C'est délicieux. » Elle le lui a rendu en riant.",
+      "pt": "Irlan comprou canelés na confeitaria. Ofereceu um a Andréa: « Prova! É delicioso. » Ela o devolveu a ele rindo."
     },
     {
       "id": 4,
-      "fr": "Au comptoir, la famille a dégusté des huîtres avec un verre de blanc. « Elles nous rappellent l'océan », a murmuré Andréa. « Demain, nous pourrions aller à la Cité du Vin ou visiter le quartier des Chartrons », a proposé Irlan.",
-      "pt": "No balcão, a família degustou ostras com uma taça de branco. « Elas nos lembram o oceano », murmurou Andréa. « Amanhã, poderíamos ir à Cité du Vin ou visitar o bairro dos Chartrons », propôs Irlan."
+      "fr": "Au comptoir, le couple a dégusté des huîtres avec un verre de blanc. « Elles nous rappellent l'océan », a murmuré Andréa. « Demain, nous pourrions aller à la Cité du Vin ou visiter le quartier des Chartrons », a proposé Irlan.",
+      "pt": "No balcão, o casal degustou ostras com uma taça de branco. « Elas nos lembram o oceano », murmurou Andréa. « Amanhã, poderíamos ir à Cité du Vin ou visitar o bairro dos Chartrons », propôs Irlan."
+    }
+    ,{
+      "id": 5,
+      "fr": "Au marché, une vendeuse conviviale propose une offre spéciale. Irlan compare le prix avec celui du commerce en ligne.",
+      "pt": "No mercado, uma vendedora sociável oferece uma oferta especial. Irlan compara o preço com o do comércio eletrônico."
+    },
+    {
+      "id": 6,
+      "fr": "Andréa épluche une aubergine et émince la ciboulette. Elle sait assaisonner la garniture avec une méthode admirable.",
+      "pt": "Andréa descasca uma berinjela e fatia finamente a cebolinha. Ela sabe temperar o recheio com um método admirável."
+    },
+    {
+      "id": 7,
+      "fr": "Un vendeur malhonnête accuse Irlan d'avoir pris une bouteille. Il doit clarifier immédiatement la situation.",
+      "pt": "Um vendedor desonesto acusa Irlan de ter pegado uma garrafa. Ele precisa esclarecer imediatamente a situação."
     }
   ],
   "vocabularyDictionary": [
@@ -182,7 +197,7 @@
       "ptTargets": ["provar", "experimentar"],
       "examples": [
         { "level": "A1", "fr": "Goûte-le !", "pt": "Prova!" },
-        { "level": "A2-B1", "fr": "Iris a goûté le premier canelé.", "pt": "Íris provou o primeiro canelé." },
+        { "level": "A2-B1", "fr": "Andréa a goûté le premier canelé.", "pt": "Andréa provou o primeiro canelé." },
         { "level": "B2", "fr": "Il faudrait goûter chaque fromage avant de choisir.", "pt": "Seria preciso provar cada queijo antes de escolher." },
         { "level": "C1-C2", "fr": "Goûter, c'est ouvrir un dialogue silencieux avec le produit et son producteur.", "pt": "Provar é abrir um diálogo silencioso com o produto e seu produtor." }
       ]

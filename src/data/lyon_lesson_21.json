@@ -21,8 +21,8 @@
     },
     {
       "id": 3,
-      "fr": "Deux statues de lions veillent à l'entrée. « Il est amusant que des lions gardent une place si pacifique », rit Andréa. Íris grimpa sur un socle : « Il faut que tu me photographies, papa ! »",
-      "pt": "Duas estátuas de leões vigiam a entrada. « É engraçado que leões guardem uma praça tão pacífica », riu Andréa. Íris subiu num pedestal: « Você precisa me fotografar, papai! »"
+      "fr": "Deux statues de lions veillent à l'entrée. « Il est amusant que des lions gardent une place si pacifique », rit Andréa. Irlan grimpa sur un socle : « Il faut que tu me photographies ! »",
+      "pt": "Duas estátuas de leões vigiam a entrada. « É engraçado que leões guardem uma praça tão pacífica », riu Andréa. Irlan subiu num pedestal: « Você precisa me fotografar! »"
     },
     {
       "id": 4,
@@ -33,6 +33,16 @@
       "id": 5,
       "fr": "Le soir, Irlan écrivit : « Il est important que je me souvienne de ceci : une place, ce n'est pas un espace vide. C'est un livre ouvert où chacun écrit sa ligne. Bellecour, c'est le chapitre que Lyon offre à tous ses habitants. »",
       "pt": "À noite, Irlan escreveu: « É importante que eu me lembre disto: uma praça não é um espaço vazio. É um livro aberto onde cada um escreve sua linha. Bellecour é o capítulo que Lyon oferece a todos os seus habitantes. »"
+    },
+    {
+      "id": 6,
+      "fr": "La place Bellecour était vaste, mais son aménagement restait fonctionnel. Une surface équivalente pouvait accueillir une foule sans devenir incommode.",
+      "pt": "A place Bellecour era vasta, mas seu planejamento continuava funcional. Uma superfície equivalente podia acolher uma multidão sem se tornar incômoda."
+    },
+    {
+      "id": 7,
+      "fr": "Andréa a convoqué Irlan près de la statue pour comparer leurs cartes. Leur point de vue divergent s'est avéré avantageux : chacun avait remarqué un indice distinct.",
+      "pt": "Andréa chamou Irlan para perto da estátua a fim de comparar os mapas. O ponto de vista divergente deles se revelou vantajoso: cada um havia notado um indício distinto."
     }
   ],
   "vocabularyDictionary": [
@@ -109,7 +119,7 @@
       "ptTargets": ["pedestal", "pedestais"],
       "examples": [
         { "level": "A1", "fr": "Le socle est haut.", "pt": "O pedestal é alto." },
-        { "level": "A2-B1", "fr": "Íris grimpa sur le socle.", "pt": "Íris subiu no pedestal." },
+        { "level": "A2-B1", "fr": "Irlan grimpa sur le socle.", "pt": "Irlan subiu no pedestal." },
         { "level": "B2", "fr": "Le socle, en marbre, porte la statue depuis trois siècles.", "pt": "O pedestal, de mármore, carrega a estátua há três séculos." },
         { "level": "C1-C2", "fr": "C'est le socle qui relie la statue au sol de la place.", "pt": "É o pedestal que liga a estátua ao chão da praça." }
       ]

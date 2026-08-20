@@ -7,7 +7,7 @@
   "titlePt": "As Salas dos Ilustres: o palácio dos capitouls",
   "subtitleFr": "La visite du Capitole et la Galerie des Illustres, entre marbre et peintures",
   "subtitlePt": "A visita ao Capitólio e à Galeria dos Ilustres, entre mármore e pinturas",
-  "summaryPt": "Nesta Aula 6 (B2), a família percorre o interior do Capitole: a escadaria de mármore, a Salle des Illustres e a Salle des Mariages. O aluno consolida o Plus-que-parfait e a correlação temporal entre passados: 'il avait promis qu'il montrerait'.",
+  "summaryPt": "Nesta Aula 6 (B2), o casal percorre o interior do Capitole: a escadaria de mármore, a Salle des Illustres e a Salle des Mariages. O aluno consolida o Plus-que-parfait e a correlação temporal entre passados: 'il avait promis qu'il montrerait'.",
   "paragraphs": [
     {
       "id": 1,
@@ -16,18 +16,28 @@
     },
     {
       "id": 2,
-      "fr": "Dans la Galerie des Illustres, Iris a découvert les peintures : « Pourquoi tous ces portraits ? » Irlan a répondu : « Parce qu'ils représentent les hommes et les femmes qui ont fait la gloire de Toulouse : poètes, savants, explorateurs. Avant la visite, j'avais préparé une petite liste pour toi. »",
-      "pt": "Na Galeria dos Ilustres, Íris descobriu as pinturas: « Por que todos esses retratos? » Irlan respondeu: « Porque representam os homens e as mulheres que fizeram a glória de Toulouse: poetas, sábios, exploradores. Antes da visita, eu tinha preparado uma pequena lista para você. »"
+      "fr": "Dans la Galerie des Illustres, Andréa a découvert les peintures : « Pourquoi tous ces portraits ? » Irlan a répondu : « Parce qu'ils représentent les hommes et les femmes qui ont fait la gloire de Toulouse : poètes, savants, explorateurs. Avant la visite, j'avais préparé une petite liste pour toi. »",
+      "pt": "Na Galeria dos Ilustres, Andréa descobriu as pinturas: « Por que todos esses retratos? » Irlan respondeu: « Porque representam os homens e as mulheres que fizeram a glória de Toulouse: poetas, sábios, exploradores. Antes da visita, eu tinha preparado uma pequena lista para você. »"
     },
     {
       "id": 3,
-      "fr": "La famille s'est arrêtée devant un tableau de Toulouse-Lautrec. « Il avait peint cette scène à la fin du XIXe siècle, a murmuré Andréa. Ses couleurs, on les y retrouve encore aujourd'hui. » Iris a demandé : « Il était toulousain, lui aussi ? »",
-      "pt": "A família parou diante de um quadro de Toulouse-Lautrec. « Ele tinha pintado esta cena no fim do século XIX, murmurou Andréa. As cores dele, a gente as encontra ainda hoje. » Íris perguntou: « Ele também era de Toulouse? »"
+      "fr": "Le couple s'est arrêté devant un tableau de Toulouse-Lautrec. « Il avait peint cette scène à la fin du XIXe siècle, a murmuré Andréa. Ses couleurs, on les y retrouve encore aujourd'hui. » Irlan a demandé : « Il était toulousain, lui aussi ? »",
+      "pt": "O casal parou diante de um quadro de Toulouse-Lautrec. « Ele tinha pintado esta cena no fim do século XIX, murmurou Andréa. As cores dele, a gente as encontra ainda hoje. » Irlan perguntou: « Ele também era de Toulouse? »"
     },
     {
       "id": 4,
       "fr": "« Oui, répondit Irlan. Il était né dans la région, au château du Bosc. Comme lui, j'avais quitté mon pays pour découvrir la France. Lui, il peignait la vie de Paris ; moi, je la livrais en scooter. » Andréa a ri : « Chacun sa façon de connaître une ville ! »",
       "pt": "« Sim, respondeu Irlan. Ele tinha nascido na região, no castelo do Bosc. Como ele, eu tinha deixado meu país para descobrir a França. Ele pintava a vida de Paris; eu, eu a entregava de scooter. » Andréa riu: « Cada um conhece uma cidade do seu jeito! »"
+    },
+    {
+      "id": 5,
+      "fr": "Dans la galerie, une guide a présenté une argumentation éloquente sur la mémoire municipale. Son impartialité a convaincu Irlan de confronter les récits plutôt que de privilégier une seule version.",
+      "pt": "Na galeria, uma guia apresentou uma argumentação eloquente sobre a memória municipal. Sua imparcialidade convenceu Irlan a confrontar os relatos em vez de privilegiar uma única versão."
+    },
+    {
+      "id": 6,
+      "fr": "Le discours officiel était cohérent, mais certains détails restaient discutables. Andréa a suggéré une analyse plus approfondie avant de formuler une conclusion définitive.",
+      "pt": "O discurso oficial era coerente, mas alguns detalhes continuavam discutíveis. Andréa sugeriu uma análise mais aprofundada antes de formular uma conclusão definitiva."
     }
   ],
   "vocabularyDictionary": [
@@ -182,7 +192,7 @@
       "ptTargets": ["lista"],
       "examples": [
         { "level": "A1", "fr": "La liste est longue.", "pt": "A lista é longa." },
-        { "level": "A2-B1", "fr": "Irlan avait préparé une liste pour Iris.", "pt": "Irlan tinha preparado uma lista para Íris." },
+        { "level": "A2-B1", "fr": "Irlan avait préparé une liste pour Andréa.", "pt": "Irlan tinha preparado uma lista para Andréa." },
         { "level": "B2", "fr": "La liste, qu'il avait écrite la veille, contenait dix noms illustres.", "pt": "A lista, que ele tinha escrito na véspera, continha dez nomes ilustres." },
         { "level": "C1-C2", "fr": "Établir une liste, c'est déjà commencer à comprendre et à mémoriser.", "pt": "Fazer uma lista já é começar a compreender e memorizar." }
       ]
@@ -191,8 +201,8 @@
   "grammarTip": {
     "ruleTitle": "La concordance des temps dans le passé",
     "explanationPt": "No relato, o Plus-que-parfait indica a ação anterior e o Passé Composé a ação principal: 'Irlan avait promis qu'il montrerait' (tinha prometido que mostraria). A promessa é anterior à visita. Assim se constrói a hierarquia temporal em francês.",
-    "exampleFr": "Irlan avait promis qu'il montrerait les Salles des Illustres à Iris.",
-    "examplePt": "Irlan tinha prometido que mostraria as Salas dos Ilustres a Íris.",
+    "exampleFr": "Irlan avait promis qu'il montrerait les Salles des Illustres à Andréa.",
+    "examplePt": "Irlan tinha prometido que mostraria as Salas dos Ilustres a Andréa.",
     "practiceQuestion": "Complete: « Il avait promis qu'il ___ les salles. »",
     "options": ["montrerait", "montre", "a montré"],
     "correctIndex": 0,
@@ -225,16 +235,16 @@
       "explanation": "Os salões do Capitólio ainda recebem casamentos civis há mais de cem anos."
     },
     {
-      "question": "Quem a família viu representado na galeria?",
+      "question": "Quem o casal viu representado na galeria?",
       "options": ["poetas, sábios e exploradores", "reis da França", "jogadores de rugby"],
       "correctIndex": 0,
       "explanation": "A Galeria dos Ilustres homenageia os que fizeram a glória de Toulouse."
     },
     {
-      "question": "Diante de qual quadro a família parou?",
+      "question": "Diante de qual quadro o casal parou?",
       "options": ["um Toulouse-Lautrec", "uma Mona Lisa", "um Monet"],
       "correctIndex": 0,
-      "explanation": "A família parou diante de um quadro de Toulouse-Lautrec."
+      "explanation": "O casal parou diante de um quadro de Toulouse-Lautrec."
     },
     {
       "question": "Complete: « Il avait promis qu'il ___ les salles. »",
@@ -246,7 +256,7 @@
       "question": "O que Irlan tinha feito antes da visita?",
       "options": ["preparado uma lista", "comprado um quadro", "alugado um carro"],
       "correctIndex": 0,
-      "explanation": "Irlan tinha preparado uma pequena lista de nomes ilustres para Íris."
+      "explanation": "Irlan tinha preparado uma pequena lista de nomes ilustres para Andréa."
     }
   ]
 }

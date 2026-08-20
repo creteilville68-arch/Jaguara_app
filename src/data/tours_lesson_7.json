@@ -7,7 +7,7 @@
   "titlePt": "Vouvray, rillettes e a doçura de Tours",
   "subtitleFr": "Le vin de Vouvray, les rillettes de Tours et le surnom de la région",
   "subtitlePt": "O vinho de Vouvray, as rillettes de Tours e o apelido da região",
-  "summaryPt": "Nesta Aula 7 (B1), a família descobre a gastronomia da Touraine: o vinho branco de Vouvray, as famosas rillettes de Tours e os produtos do jardim de la France. Eles visitam uma cave e degustam as especialidades. O aluno aprende a expressão 'le jardin de la France' e revisa os relativos e comparativos.",
+  "summaryPt": "Nesta Aula 7 (B1), o casal descobre a gastronomia da Touraine: o vinho branco de Vouvray, as famosas rillettes de Tours e os produtos do jardim de la France. Eles visitam uma cave, degustam as especialidades e, no caminho, Irlan compara as garrafas antigas da adega aos livros que guardam segredos. O aluno aprende a expressão 'le jardin de la France' e revisa os relativos e comparativos.",
   "paragraphs": [
     {
       "id": 1,
@@ -21,13 +21,28 @@
     },
     {
       "id": 3,
-      "fr": "Au marché, nous avons acheté des rillettes de Tours, une spécialité que la famille a adorée. « C'est plus savoureux que ce que j'imaginais », a dit Irlan.",
-      "pt": "No mercado, compramos rillettes de Tours, uma especialidade que a família adorou. « É mais saboroso do que eu imaginava », disse Irlan."
+      "fr": "Au marché, le couple a acheté des rillettes de Tours, une spécialité qu'il a adorée. « C'est plus savoureux que ce que j'imaginais », a dit Irlan. En sortant de la cave, il a murmuré : « Une cave garde le vin comme une bibliothèque garde les livres. »",
+      "pt": "No mercado, o casal comprou rillettes de Tours, uma especialidade que adorou. « É mais saboroso do que eu imaginava », disse Irlan. Ao sair da adega, murmurou: « Uma adega guarda o vinho como uma biblioteca guarda os livros. »"
     },
     {
       "id": 4,
       "fr": "Le soir, le dîner était le plus simple et le plus délicieux du voyage : du pain, des rillettes, du fromage et un verre de Vouvray.",
       "pt": "À noite, o jantar foi o mais simples e o mais delicioso da viagem: pão, rillettes, queijo e um copo de Vouvray."
+    },
+    {
+      "id": 5,
+      "fr": "À Vouvray, on assaisonne les rillettes avec de l'estragon et de la ciboulette. Irlan hache les ingrédients avec soin.",
+      "pt": "Em Vouvray, tempera-se as rillettes com estragão e cebolinha. Irlan pica os ingredientes com cuidado."
+    },
+    {
+      "id": 6,
+      "fr": "La muscade et la moutarde sont indispensables dans la cuisine tourangelle. Andréa goûte la mayonnaise maison.",
+      "pt": "A noz-moscada e a mostarda são indispensáveis na cozinha tourangelle. Andréa prova a maionese caseira."
+    },
+    {
+      "id": 7,
+      "fr": "« La pâte brisée est la base de toute la tarte », explique le cuisinier. Irlan prend des notes dans son cahier.",
+      "pt": "A massa quebrada é a base de toda a torta, explica o cozinheiro. Irlan tira notas no caderno."
     }
   ],
   "vocabularyDictionary": [
@@ -35,156 +50,408 @@
       "term": "le vin",
       "definitionPt": "o vinho",
       "definitionFr": "Boisson faite à partir du raisin.",
-      "inflections": ["le vin", "les vins"],
-      "ptTargets": ["vinho"],
+      "inflections": [
+        "le vin",
+        "les vins"
+      ],
+      "ptTargets": [
+        "vinho"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le vin est rouge.", "pt": "O vinho é tinto." },
-        { "level": "A2-B1", "fr": "Le vin de Vouvray est blanc.", "pt": "O vinho de Vouvray é branco." },
-        { "level": "B2", "fr": "Les vins, qui se dégustent avec les rillettes, sont réputés.", "pt": "Os vinhos, que se degustam com as rillettes, são famosos." },
-        { "level": "C1-C2", "fr": "Les vins de la Loire expriment la fraîcheur et la finesse de leur terroir.", "pt": "Os vinhos do Loire expressam o frescor e a fineza de seu terroir." }
+        {
+          "level": "A1",
+          "fr": "Le vin est rouge.",
+          "pt": "O vinho é tinto."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Le vin de Vouvray est blanc.",
+          "pt": "O vinho de Vouvray é branco."
+        },
+        {
+          "level": "B2",
+          "fr": "Les vins, qui se dégustent avec les rillettes, sont réputés.",
+          "pt": "Os vinhos, que se degustam com as rillettes, são famosos."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Les vins de la Loire expriment la fraîcheur et la finesse de leur terroir.",
+          "pt": "Os vinhos do Loire expressam o frescor e a fineza de seu terroir."
+        }
       ]
     },
     {
       "term": "la cave",
       "definitionPt": "a adega",
       "definitionFr": "Lieu où l'on conserve le vin.",
-      "inflections": ["la cave", "les caves"],
-      "ptTargets": ["adega"],
+      "inflections": [
+        "la cave",
+        "les caves"
+      ],
+      "ptTargets": [
+        "adega"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La cave est fraîche.", "pt": "A adega é fresca." },
-        { "level": "A2-B1", "fr": "La cave de Vouvray est creusée dans la roche.", "pt": "A adega de Vouvray é escavada na rocha." },
-        { "level": "B2", "fr": "La cave, que le vigneron nous a fait visiter, est immense.", "pt": "A adega, que o viticultor nos fez visitar, é imensa." },
-        { "level": "C1-C2", "fr": "Les caves troglodytes de Vouvray constituent un patrimoine souterrain unique.", "pt": "As adegas trogloditas de Vouvray constituem um patrimônio subterrâneo único." }
+        {
+          "level": "A1",
+          "fr": "La cave est fraîche.",
+          "pt": "A adega é fresca."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "La cave de Vouvray est creusée dans la roche.",
+          "pt": "A adega de Vouvray é escavada na rocha."
+        },
+        {
+          "level": "B2",
+          "fr": "La cave, que le vigneron nous a fait visiter, est immense.",
+          "pt": "A adega, que o viticultor nos fez visitar, é imensa."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Les caves troglodytes de Vouvray constituent un patrimoine souterrain unique.",
+          "pt": "As adegas trogloditas de Vouvray constituem um patrimônio subterrâneo único."
+        }
       ]
     },
     {
       "term": "la dégustation",
       "definitionPt": "a degustação",
       "definitionFr": "Action de goûter des vins ou des plats.",
-      "inflections": ["la dégustation", "les dégustations"],
-      "ptTargets": ["degustação"],
+      "inflections": [
+        "la dégustation",
+        "les dégustations"
+      ],
+      "ptTargets": [
+        "degustação"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La dégustation est amusante.", "pt": "A degustação é divertida." },
-        { "level": "A2-B1", "fr": "La dégustation de vins est une tradition ici.", "pt": "A degustação de vinhos é uma tradição aqui." },
-        { "level": "B2", "fr": "La dégustation, qui se fait par petites gorgées, demande du calme.", "pt": "A degustação, que se faz em pequenos goles, exige calma." },
-        { "level": "C1-C2", "fr": "La dégustation comparée des vins révèle la richesse des terroirs de la Loire.", "pt": "A degustação comparada dos vinhos revela a riqueza dos terroirs do Loire." }
+        {
+          "level": "A1",
+          "fr": "La dégustation est amusante.",
+          "pt": "A degustação é divertida."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "La dégustation de vins est une tradition ici.",
+          "pt": "A degustação de vinhos é uma tradição aqui."
+        },
+        {
+          "level": "B2",
+          "fr": "La dégustation, qui se fait par petites gorgées, demande du calme.",
+          "pt": "A degustação, que se faz em pequenos goles, exige calma."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "La dégustation comparée des vins révèle la richesse des terroirs de la Loire.",
+          "pt": "A degustação comparada dos vinhos revela a riqueza dos terroirs do Loire."
+        }
       ]
     },
     {
       "term": "la vigne",
       "definitionPt": "a videira",
       "definitionFr": "Plante qui produit le raisin.",
-      "inflections": ["la vigne", "les vignes"],
-      "ptTargets": ["videira"],
+      "inflections": [
+        "la vigne",
+        "les vignes"
+      ],
+      "ptTargets": [
+        "videira"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La vigne est verte.", "pt": "A videira é verde." },
-        { "level": "A2-B1", "fr": "Les vignes couvrent les coteaux.", "pt": "As videiras cobrem as encostas." },
-        { "level": "B2", "fr": "Les vignes, qui poussent près du fleuve, donnent des raisins parfumés.", "pt": "As videiras, que crescem perto do rio, dão uvas perfumadas." },
-        { "level": "C1-C2", "fr": "La culture de la vigne structure le paysage et l'économie de la Touraine.", "pt": "O cultivo da videira estrutura a paisagem e a economia da Touraine." }
+        {
+          "level": "A1",
+          "fr": "La vigne est verte.",
+          "pt": "A videira é verde."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Les vignes couvrent les coteaux.",
+          "pt": "As videiras cobrem as encostas."
+        },
+        {
+          "level": "B2",
+          "fr": "Les vignes, qui poussent près du fleuve, donnent des raisins parfumés.",
+          "pt": "As videiras, que crescem perto do rio, dão uvas perfumadas."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "La culture de la vigne structure le paysage et l'économie de la Touraine.",
+          "pt": "O cultivo da videira estrutura a paisagem e a economia da Touraine."
+        }
       ]
     },
     {
       "term": "le raisin",
       "definitionPt": "a uva",
       "definitionFr": "Fruit de la vigne.",
-      "inflections": ["le raisin", "les raisins"],
-      "ptTargets": ["uva"],
+      "inflections": [
+        "le raisin",
+        "les raisins"
+      ],
+      "ptTargets": [
+        "uva"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le raisin est sucré.", "pt": "A uva é doce." },
-        { "level": "A2-B1", "fr": "Le raisin de Vouvray est doré.", "pt": "A uva de Vouvray é dourada." },
-        { "level": "B2", "fr": "Le raisin, qui mûrit lentement, développe des arômes fins.", "pt": "A uva, que amadurece lentamente, desenvolve aromas finos." },
-        { "level": "C1-C2", "fr": "La qualité du raisin détermine l'élégance du vin final.", "pt": "A qualidade da uva determina a elegância do vinho final." }
+        {
+          "level": "A1",
+          "fr": "Le raisin est sucré.",
+          "pt": "A uva é doce."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Le raisin de Vouvray est doré.",
+          "pt": "A uva de Vouvray é dourada."
+        },
+        {
+          "level": "B2",
+          "fr": "Le raisin, qui mûrit lentement, développe des arômes fins.",
+          "pt": "A uva, que amadurece lentamente, desenvolve aromas finos."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "La qualité du raisin détermine l'élégance du vin final.",
+          "pt": "A qualidade da uva determina a elegância do vinho final."
+        }
       ]
     },
     {
       "term": "la bouteille",
       "definitionPt": "a garrafa",
       "definitionFr": "Récipient en verre.",
-      "inflections": ["la bouteille", "les bouteilles"],
-      "ptTargets": ["garrafa"],
+      "inflections": [
+        "la bouteille",
+        "les bouteilles"
+      ],
+      "ptTargets": [
+        "garrafa"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La bouteille est verte.", "pt": "A garrafa é verde." },
-        { "level": "A2-B1", "fr": "Nous avons acheté deux bouteilles de Vouvray.", "pt": "Compramos duas garrafas de Vouvray." },
-        { "level": "B2", "fr": "Les bouteilles, qui sont rangées dans la cave, attendent leur dégustation.", "pt": "As garrafas, que ficam na adega, esperam sua degustação." },
-        { "level": "C1-C2", "fr": "Le choix des bouteilles révèle la philosophie du vigneron.", "pt": "A escolha das garrafas revela a filosofia do viticultor." }
+        {
+          "level": "A1",
+          "fr": "La bouteille est verte.",
+          "pt": "A garrafa é verde."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Nous avons acheté deux bouteilles de Vouvray.",
+          "pt": "Compramos duas garrafas de Vouvray."
+        },
+        {
+          "level": "B2",
+          "fr": "Les bouteilles, qui sont rangées dans la cave, attendent leur dégustation.",
+          "pt": "As garrafas, que ficam na adega, esperam sua degustação."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Le choix des bouteilles révèle la philosophie du vigneron.",
+          "pt": "A escolha das garrafas revela a filosofia do viticultor."
+        }
       ]
     },
     {
       "term": "le vigneron",
       "definitionPt": "o viticultor",
       "definitionFr": "Personne qui cultive la vigne.",
-      "inflections": ["le vigneron", "les vignerons"],
-      "ptTargets": ["viticultor"],
+      "inflections": [
+        "le vigneron",
+        "les vignerons"
+      ],
+      "ptTargets": [
+        "viticultor"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le vigneron travaille.", "pt": "O viticultor trabalha." },
-        { "level": "A2-B1", "fr": "Le vigneron nous a fait goûter ses vins.", "pt": "O viticultor nos fez provar seus vinhos." },
-        { "level": "B2", "fr": "Le vigneron, dont la famille produit depuis trois générations, connaît sa terre.", "pt": "O viticultor, cuja família produz há três gerações, conhece sua terra." },
-        { "level": "C1-C2", "fr": "Le savoir-faire des vignerons de Vouvray est reconnu dans le monde entier.", "pt": "O saber-fazer dos viticultores de Vouvray é reconhecido no mundo inteiro." }
+        {
+          "level": "A1",
+          "fr": "Le vigneron travaille.",
+          "pt": "O viticultor trabalha."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Le vigneron nous a fait goûter ses vins.",
+          "pt": "O viticultor nos fez provar seus vinhos."
+        },
+        {
+          "level": "B2",
+          "fr": "Le vigneron, dont la famille produit depuis trois générations, connaît sa terre.",
+          "pt": "O viticultor, cuja família produz há três gerações, conhece sua terra."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Le savoir-faire des vignerons de Vouvray est reconnu dans le monde entier.",
+          "pt": "O saber-fazer dos viticultores de Vouvray é reconhecido no mundo inteiro."
+        }
       ]
     },
     {
       "term": "la rillette",
       "definitionPt": "a rillette (patê de carne)",
       "definitionFr": "Spécialité de viande cuite et pilée.",
-      "inflections": ["la rillette", "les rillettes"],
-      "ptTargets": ["rillette"],
+      "inflections": [
+        "la rillette",
+        "les rillettes"
+      ],
+      "ptTargets": [
+        "rillette"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La rillette est bonne.", "pt": "A rillette é boa." },
-        { "level": "A2-B1", "fr": "Les rillettes de Tours sont célèbres.", "pt": "As rillettes de Tours são famosas." },
-        { "level": "B2", "fr": "Les rillettes, que l'on tartine sur du pain, sont délicieuses.", "pt": "As rillettes, que se passam no pão, são deliciosas." },
-        { "level": "C1-C2", "fr": "Les rillettes de Tours bénéficient d'une tradition culinaire séculaire.", "pt": "As rillettes de Tours gozam de uma tradição culinária secular." }
+        {
+          "level": "A1",
+          "fr": "La rillette est bonne.",
+          "pt": "A rillette é boa."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Les rillettes de Tours sont célèbres.",
+          "pt": "As rillettes de Tours são famosas."
+        },
+        {
+          "level": "B2",
+          "fr": "Les rillettes, que l'on tartine sur du pain, sont délicieuses.",
+          "pt": "As rillettes, que se passam no pão, são deliciosas."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Les rillettes de Tours bénéficient d'une tradition culinaire séculaire.",
+          "pt": "As rillettes de Tours gozam de uma tradição culinária secular."
+        }
       ]
     },
     {
       "term": "le porc",
       "definitionPt": "o porco",
       "definitionFr": "Animal dont on mange la viande.",
-      "inflections": ["le porc", "les porcs"],
-      "ptTargets": ["porco"],
+      "inflections": [
+        "le porc",
+        "les porcs"
+      ],
+      "ptTargets": [
+        "porco"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le porc est un animal.", "pt": "O porco é um animal." },
-        { "level": "A2-B1", "fr": "Les rillettes sont faites avec du porc.", "pt": "As rillettes são feitas com porco." },
-        { "level": "B2", "fr": "La viande de porc, qui cuit lentement, devient fondante.", "pt": "A carne de porco, que cozinha lentamente, fica macia." },
-        { "level": "C1-C2", "fr": "La charcuterie française valorise toutes les parties du porc avec talent.", "pt": "A charcutaria francesa valoriza todas as partes do porco com talento." }
+        {
+          "level": "A1",
+          "fr": "Le porc est un animal.",
+          "pt": "O porco é um animal."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Les rillettes sont faites avec du porc.",
+          "pt": "As rillettes são feitas com porco."
+        },
+        {
+          "level": "B2",
+          "fr": "La viande de porc, qui cuit lentement, devient fondante.",
+          "pt": "A carne de porco, que cozinha lentamente, fica macia."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "La charcuterie française valorise toutes les parties du porc avec talent.",
+          "pt": "A charcutaria francesa valoriza todas as partes do porco com talento."
+        }
       ]
     },
     {
       "term": "la charcuterie",
       "definitionPt": "a charcutaria (embutidos)",
       "definitionFr": "Produits à base de viande préparée.",
-      "inflections": ["la charcuterie", "les charcuteries"],
-      "ptTargets": ["charcutaria"],
+      "inflections": [
+        "la charcuterie",
+        "les charcuteries"
+      ],
+      "ptTargets": [
+        "charcutaria"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La charcuterie est savoureuse.", "pt": "A charcutaria é saborosa." },
-        { "level": "A2-B1", "fr": "La charcuterie de la région est réputée.", "pt": "A charcutaria da região é famosa." },
-        { "level": "B2", "fr": "La charcuterie, qui accompagne le pain, est un plaisir simple.", "pt": "A charcutaria, que acompanha o pão, é um prazer simples." },
-        { "level": "C1-C2", "fr": "L'art de la charcuterie témoigne du génie culinaire des régions françaises.", "pt": "A arte da charcutaria testemunha o gênio culinário das regiões francesas." }
+        {
+          "level": "A1",
+          "fr": "La charcuterie est savoureuse.",
+          "pt": "A charcutaria é saborosa."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "La charcuterie de la région est réputée.",
+          "pt": "A charcutaria da região é famosa."
+        },
+        {
+          "level": "B2",
+          "fr": "La charcuterie, qui accompagne le pain, est un plaisir simple.",
+          "pt": "A charcutaria, que acompanha o pão, é um prazer simples."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "L'art de la charcuterie témoigne du génie culinaire des régions françaises.",
+          "pt": "A arte da charcutaria testemunha o gênio culinário das regiões francesas."
+        }
       ]
     },
     {
       "term": "le repas",
       "definitionPt": "a refeição",
       "definitionFr": "Moment où l'on mange.",
-      "inflections": ["le repas", "les repas"],
-      "ptTargets": ["refeição"],
+      "inflections": [
+        "le repas",
+        "les repas"
+      ],
+      "ptTargets": [
+        "refeição"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le repas est prêt.", "pt": "A refeição está pronta." },
-        { "level": "A2-B1", "fr": "Le repas du soir était simple.", "pt": "A refeição da noite era simples." },
-        { "level": "B2", "fr": "Le repas, qui réunit toute la famille, est un moment sacré.", "pt": "A refeição, que reúne toda a família, é um momento sagrado." },
-        { "level": "C1-C2", "fr": "Le repas français est inscrit au patrimoine culturel immatériel de l'humanité.", "pt": "A refeição francesa está inscrita no patrimônio cultural imaterial da humanidade." }
+        {
+          "level": "A1",
+          "fr": "Le repas est prêt.",
+          "pt": "A refeição está pronta."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Le repas du soir était simple.",
+          "pt": "A refeição da noite era simples."
+        },
+        {
+          "level": "B2",
+          "fr": "Le repas, qui réunit toute la famille, est un moment sacré.",
+          "pt": "A refeição, que reúne toda a família, é um momento sagrado."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Le repas français est inscrit au patrimoine culturel immatériel de l'humanité.",
+          "pt": "A refeição francesa está inscrita no patrimônio cultural imaterial da humanidade."
+        }
       ]
     },
     {
       "term": "le fromage",
       "definitionPt": "o queijo",
       "definitionFr": "Aliment fait à partir du lait.",
-      "inflections": ["le fromage", "les fromages"],
-      "ptTargets": ["queijo"],
+      "inflections": [
+        "le fromage",
+        "les fromages"
+      ],
+      "ptTargets": [
+        "queijo"
+      ],
       "examples": [
-        { "level": "A1", "fr": "J'aime le fromage.", "pt": "Eu gosto de queijo." },
-        { "level": "A2-B1", "fr": "Le fromage accompagne le vin.", "pt": "O queijo acompanha o vinho." },
-        { "level": "B2", "fr": "Les fromages, qui varient selon la région, sont une fierté française.", "pt": "Os queijos, que variam conforme a região, são um orgulho francês." },
-        { "level": "C1-C2", "fr": "La diversité des fromages français reflète la richesse des terroirs.", "pt": "A diversidade dos queijos franceses reflete a riqueza dos terroirs." }
+        {
+          "level": "A1",
+          "fr": "J'aime le fromage.",
+          "pt": "Eu gosto de queijo."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Le fromage accompagne le vin.",
+          "pt": "O queijo acompanha o vinho."
+        },
+        {
+          "level": "B2",
+          "fr": "Les fromages, qui varient selon la région, sont une fierté française.",
+          "pt": "Os queijos, que variam conforme a região, são um orgulho francês."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "La diversité des fromages français reflète la richesse des terroirs.",
+          "pt": "A diversidade dos queijos franceses reflete a riqueza dos terroirs."
+        }
       ]
     }
   ],
@@ -194,7 +461,11 @@
     "exampleFr": "Le dîner était le plus simple et le plus délicieux du voyage.",
     "examplePt": "O jantar foi o mais simples e o mais delicioso da viagem.",
     "practiceQuestion": "Complete: « Irlan était plus enthousiaste ___ jamais. »",
-    "options": ["que", "qui", "dont"],
+    "options": [
+      "que",
+      "qui",
+      "dont"
+    ],
     "correctIndex": 0,
     "points": [
       {
@@ -203,7 +474,11 @@
         "exampleFr": "Irlan était plus enthousiaste que jamais.",
         "examplePt": "Irlan estava mais entusiasmado do que nunca.",
         "practiceQuestion": "O que significa 'plus que jamais'?",
-        "options": ["mais do que nunca", "menos do que nunca", "igual a sempre"],
+        "options": [
+          "mais do que nunca",
+          "menos do que nunca",
+          "igual a sempre"
+        ],
         "correctIndex": 0
       },
       {
@@ -212,7 +487,11 @@
         "exampleFr": "C'est le repas le plus simple et le plus délicieux du voyage.",
         "examplePt": "É a refeição mais simples e mais deliciosa da viagem.",
         "practiceQuestion": "Complete: « C'est le dîner le plus simple et le plus ___ du voyage. »",
-        "options": ["délicieux", "délicieusement", "délicat"],
+        "options": [
+          "délicieux",
+          "délicieusement",
+          "délicat"
+        ],
         "correctIndex": 0
       }
     ]
@@ -220,31 +499,51 @@
   "quizQuestions": [
     {
       "question": "Qual é o apelido da Touraine?",
-      "options": ["o jardim da França", "o deserto da França", "a fábrica da França"],
+      "options": [
+        "o jardim da França",
+        "o deserto da França",
+        "a fábrica da França"
+      ],
       "correctIndex": 0,
       "explanation": "A Touraine é chamada de 'le jardin de la France'."
     },
     {
       "question": "Qual vinho é produzido perto de Tours?",
-      "options": ["Vouvray", "Champagne", "Bordeaux"],
+      "options": [
+        "Vouvray",
+        "Champagne",
+        "Bordeaux"
+      ],
       "correctIndex": 0,
       "explanation": "O vinho de Vouvray é produzido nas encostas do Loire."
     },
     {
-      "question": "Qual especialidade a família comprou no mercado?",
-      "options": ["rillettes de Tours", "marrons glacés", "saucisses de Toulouse"],
+      "question": "Qual especialidade o casal comprou no mercado?",
+      "options": [
+        "rillettes de Tours",
+        "marrons glacés",
+        "saucisses de Toulouse"
+      ],
       "correctIndex": 0,
       "explanation": "Compraram as famosas rillettes de Tours."
     },
     {
       "question": "Complete: « C'est plus savoureux ___ ce que j'imaginais. »",
-      "options": ["que", "qui", "où"],
+      "options": [
+        "que",
+        "qui",
+        "où"
+      ],
       "correctIndex": 0,
       "explanation": "Comparativo: plus + adjectif + que."
     },
     {
       "question": "O que Irlan achou do jantar?",
-      "options": ["o mais simples e delicioso da viagem", "caro demais", "sem graça"],
+      "options": [
+        "o mais simples e delicioso da viagem",
+        "caro demais",
+        "sem graça"
+      ],
       "correctIndex": 0,
       "explanation": "O jantar com pão, rillettes, queijo e Vouvray foi o favorito."
     }

@@ -68,6 +68,21 @@
       "id": 12,
       "fr": "Andréa plie la nappe. « Demain, on cherchera la signification des chiffres. Pour l'instant, profitons. »",
       "pt": "Andréa dobra a toalha. «Amanhã, a gente procura o significado dos números. Por enquanto, vamos aproveitar.»"
+    },
+    {
+      "id": 13,
+      "fr": "Irlan sort une cafetière portable de son sac. Il fait couler l'eau du robinet et prépare un café. « Le grille-pain peut attendre, rit-il.",
+      "pt": "Irlan tira uma cafeteira portátil de sua bolsa. Deixa a água correr da torneira e prepara um café. A torradeira pode esperar, ri ele."
+    },
+    {
+      "id": 14,
+      "fr": "Le parquet du pavillon de lecture craque sous leurs pieds. Le plancher ancien garde l'odeur du bois.",
+      "pt": "O piso de madeira do pavilhão de leitura range sob seus pés. O assoalho antigo guarda o cheiro da madeira."
+    },
+    {
+      "id": 15,
+      "fr": "« On mange une purée de pommes de terre et du poulet cette soir », décide Andréa. « Et on regarde la tarte aux pommes pour demain ».",
+      "pt": "Vamos comer purê de batata e frango esta noite, decide Andréa. E guardamos a torta de maçã para amanhã."
     }
   ],
   "vocabularyDictionary": [
@@ -75,156 +90,422 @@
       "term": "le pique-nique",
       "definitionPt": "o piquenique",
       "definitionFr": "Repas pris dehors.",
-      "inflections": ["le pique-nique", "un pique-nique", "des pique-niques"],
-      "ptTargets": ["piquenique"],
+      "inflections": [
+        "le pique-nique",
+        "un pique-nique",
+        "des pique-niques"
+      ],
+      "ptTargets": [
+        "piquenique"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le pique-nique est prêt.", "pt": "O piquenique está pronto." },
-        { "level": "A2-B1", "fr": "Ils font un pique-nique au bord de la Somme.", "pt": "Eles fazem um piquenique à beira do Somme." },
-        { "level": "B2", "fr": "Un pique-nique en famille crée des souvenirs simples.", "pt": "Um piquenique em família cria lembranças simples." },
-        { "level": "C1-C2", "fr": "C'est le pique-nique qui, sans cérémonie, réunit les gens autour du pain et du rire.", "pt": "É o piquenique que, sem cerimônia, reúne as pessoas em volta do pão e do riso." }
+        {
+          "level": "A1",
+          "fr": "Le pique-nique est prêt.",
+          "pt": "O piquenique está pronto."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Ils font un pique-nique au bord de la Somme.",
+          "pt": "Eles fazem um piquenique à beira do Somme."
+        },
+        {
+          "level": "B2",
+          "fr": "Un pique-nique en famille crée des souvenirs simples.",
+          "pt": "Um piquenique em família cria lembranças simples."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est le pique-nique qui, sans cérémonie, réunit les gens autour du pain et du rire.",
+          "pt": "É o piquenique que, sem cerimônia, reúne as pessoas em volta do pão e do riso."
+        }
       ]
     },
     {
       "term": "la rivière",
       "definitionPt": "o rio",
       "definitionFr": "Cours d'eau naturel.",
-      "inflections": ["la rivière", "une rivière", "des rivières"],
-      "ptTargets": ["rio"],
+      "inflections": [
+        "la rivière",
+        "une rivière",
+        "des rivières"
+      ],
+      "ptTargets": [
+        "rio"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La rivière coule.", "pt": "O rio corre." },
-        { "level": "A2-B1", "fr": "La Somme est une rivière du nord.", "pt": "O Somme é um rio do norte." },
-        { "level": "B2", "fr": "La rivière traverse la ville en silence.", "pt": "O rio atravessa a cidade em silêncio." },
-        { "level": "C1-C2", "fr": "C'est la rivière qui, depuis toujours, nourrit la vallée et ses jardins.", "pt": "É o rio que, desde sempre, alimenta o vale e seus jardins." }
+        {
+          "level": "A1",
+          "fr": "La rivière coule.",
+          "pt": "O rio corre."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "La Somme est une rivière du nord.",
+          "pt": "O Somme é um rio do norte."
+        },
+        {
+          "level": "B2",
+          "fr": "La rivière traverse la ville en silence.",
+          "pt": "O rio atravessa a cidade em silêncio."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est la rivière qui, depuis toujours, nourrit la vallée et ses jardins.",
+          "pt": "É o rio que, desde sempre, alimenta o vale e seus jardins."
+        }
       ]
     },
     {
       "term": "la nappe",
       "definitionPt": "a toalha (de mesa)",
       "definitionFr": "Tissu posé sur la table ou l'herbe.",
-      "inflections": ["la nappe", "une nappe", "des nappes"],
-      "ptTargets": ["toalha"],
+      "inflections": [
+        "la nappe",
+        "une nappe",
+        "des nappes"
+      ],
+      "ptTargets": [
+        "toalha"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La nappe est propre.", "pt": "A toalha está limpa." },
-        { "level": "A2-B1", "fr": "Andréa étale une nappe sur l'herbe.", "pt": "Andréa estende uma toalha na grama." },
-        { "level": "B2", "fr": "Une nappe à carreaux donne un air de fête au pique-nique.", "pt": "Uma toalha xadrez dá um ar de festa ao piquenique." },
-        { "level": "C1-C2", "fr": "C'est la nappe qui, dépliée sur l'herbe, transforme un coin de nature en table.", "pt": "É a toalha que, estendida na grama, transforma um canto da natureza em mesa." }
+        {
+          "level": "A1",
+          "fr": "La nappe est propre.",
+          "pt": "A toalha está limpa."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Andréa étale une nappe sur l'herbe.",
+          "pt": "Andréa estende uma toalha na grama."
+        },
+        {
+          "level": "B2",
+          "fr": "Une nappe à carreaux donne un air de fête au pique-nique.",
+          "pt": "Uma toalha xadrez dá um ar de festa ao piquenique."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est la nappe qui, dépliée sur l'herbe, transforme un coin de nature en table.",
+          "pt": "É a toalha que, estendida na grama, transforma um canto da natureza em mesa."
+        }
       ]
     },
     {
       "term": "le pain",
       "definitionPt": "o pão",
       "definitionFr": "Aliment fait de farine et d'eau.",
-      "inflections": ["le pain", "un pain", "des pains"],
-      "ptTargets": ["pão"],
+      "inflections": [
+        "le pain",
+        "un pain",
+        "des pains"
+      ],
+      "ptTargets": [
+        "pão"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le pain est frais.", "pt": "O pão é fresco." },
-        { "level": "A2-B1", "fr": "Ils partagent le pain et le fromage.", "pt": "Eles dividem o pão e o queijo." },
-        { "level": "B2", "fr": "Le pain croustillant accompagne tous les repas.", "pt": "O pão crocante acompanha todas as refeições." },
-        { "level": "C1-C2", "fr": "C'est le pain qui, simple et partagé, réunit les mains et les cœurs.", "pt": "É o pão que, simples e dividido, une as mãos e os corações." }
+        {
+          "level": "A1",
+          "fr": "Le pain est frais.",
+          "pt": "O pão é fresco."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Ils partagent le pain et le fromage.",
+          "pt": "Eles dividem o pão e o queijo."
+        },
+        {
+          "level": "B2",
+          "fr": "Le pain croustillant accompagne tous les repas.",
+          "pt": "O pão crocante acompanha todas as refeições."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est le pain qui, simple et partagé, réunit les mains et les cœurs.",
+          "pt": "É o pão que, simples e dividido, une as mãos e os corações."
+        }
       ]
     },
     {
       "term": "le fromage",
       "definitionPt": "o queijo",
       "definitionFr": "Aliment fait à partir du lait.",
-      "inflections": ["le fromage", "un fromage", "des fromages"],
-      "ptTargets": ["queijo"],
+      "inflections": [
+        "le fromage",
+        "un fromage",
+        "des fromages"
+      ],
+      "ptTargets": [
+        "queijo"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le fromage est bon.", "pt": "O queijo é bom." },
-        { "level": "A2-B1", "fr": "Ils partagent le pain et le fromage.", "pt": "Eles dividem o pão e o queijo." },
-        { "level": "B2", "fr": "Le fromage picard a un goût affirmé.", "pt": "O queijo picardo tem um sabor marcante." },
-        { "level": "C1-C2", "fr": "C'est le fromage qui, affiné avec patience, raconte le terroir de sa région.", "pt": "É o queijo que, maturado com paciência, conta o terroir da sua região." }
+        {
+          "level": "A1",
+          "fr": "Le fromage est bon.",
+          "pt": "O queijo é bom."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Ils partagent le pain et le fromage.",
+          "pt": "Eles dividem o pão e o queijo."
+        },
+        {
+          "level": "B2",
+          "fr": "Le fromage picard a un goût affirmé.",
+          "pt": "O queijo picardo tem um sabor marcante."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est le fromage qui, affiné avec patience, raconte le terroir de sa région.",
+          "pt": "É o queijo que, maturado com paciência, conta o terroir da sua região."
+        }
       ]
     },
     {
       "term": "partager",
       "definitionPt": "compartilhar / dividir",
       "definitionFr": "Donner une partie de ce que l'on a.",
-      "inflections": ["partager", "je partage", "nous partageons"],
-      "ptTargets": ["compartilhar", "dividir"],
+      "inflections": [
+        "partager",
+        "je partage",
+        "nous partageons"
+      ],
+      "ptTargets": [
+        "compartilhar",
+        "dividir"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Ils partagent le repas.", "pt": "Eles dividem a refeição." },
-        { "level": "A2-B1", "fr": "Ils partagent le pain et le fromage.", "pt": "Eles dividem o pão e o queijo." },
-        { "level": "B2", "fr": "Partager un repas rapproche toujours les gens.", "pt": "Dividir uma refeição sempre aproxima as pessoas." },
-        { "level": "C1-C2", "fr": "C'est en partageant que l'on transforme un simple repas en souvenir.", "pt": "É dividindo que se transforma uma simples refeição em lembrança." }
+        {
+          "level": "A1",
+          "fr": "Ils partagent le repas.",
+          "pt": "Eles dividem a refeição."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Ils partagent le pain et le fromage.",
+          "pt": "Eles dividem o pão e o queijo."
+        },
+        {
+          "level": "B2",
+          "fr": "Partager un repas rapproche toujours les gens.",
+          "pt": "Dividir uma refeição sempre aproxima as pessoas."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est en partageant que l'on transforme un simple repas en souvenir.",
+          "pt": "É dividindo que se transforma uma simples refeição em lembrança."
+        }
       ]
     },
     {
       "term": "s'asseoir",
       "definitionPt": "sentar-se",
       "definitionFr": "Se mettre sur un siège.",
-      "inflections": ["s'asseoir", "je m'assois", "nous nous asseyons"],
-      "ptTargets": ["sentar-se"],
+      "inflections": [
+        "s'asseoir",
+        "je m'assois",
+        "nous nous asseyons"
+      ],
+      "ptTargets": [
+        "sentar-se"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Je m'assois sur l'herbe.", "pt": "Eu me sento na grama." },
-        { "level": "A2-B1", "fr": "Ils s'assoient au bord de la rivière.", "pt": "Eles se sentam à beira do rio." },
-        { "level": "B2", "fr": "S'asseoir un moment permet de reprendre des forces.", "pt": "Sentar-se um instante permite recuperar as forças." },
-        { "level": "C1-C2", "fr": "C'est en s'asseyant que l'on prend le temps de regarder.", "pt": "É sentando-se que se dedica tempo a olhar." }
+        {
+          "level": "A1",
+          "fr": "Je m'assois sur l'herbe.",
+          "pt": "Eu me sento na grama."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Ils s'assoient au bord de la rivière.",
+          "pt": "Eles se sentam à beira do rio."
+        },
+        {
+          "level": "B2",
+          "fr": "S'asseoir un moment permet de reprendre des forces.",
+          "pt": "Sentar-se um instante permite recuperar as forças."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est en s'asseyant que l'on prend le temps de regarder.",
+          "pt": "É sentando-se que se dedica tempo a olhar."
+        }
       ]
     },
     {
       "term": "la coordonnée",
       "definitionPt": "a coordenada",
       "definitionFr": "Nombre qui situe un point sur une carte.",
-      "inflections": ["la coordonnée", "une coordonnée", "des coordonnées"],
-      "ptTargets": ["coordenada"],
+      "inflections": [
+        "la coordonnée",
+        "une coordonnée",
+        "des coordonnées"
+      ],
+      "ptTargets": [
+        "coordenada"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La coordonnée est notée.", "pt": "A coordenada está anotada." },
-        { "level": "A2-B1", "fr": "Irlan pense à des coordonnées.", "pt": "Irlan pensa em coordenadas." },
-        { "level": "B2", "fr": "Les coordonnées indiquent un point précis sur la carte.", "pt": "As coordenadas indicam um ponto preciso no mapa." },
-        { "level": "C1-C2", "fr": "C'est la coordonnée qui, chiffrée, transforme la terre en repère lisible.", "pt": "É a coordenada que, cifrada, transforma a terra em referência legível." }
+        {
+          "level": "A1",
+          "fr": "La coordonnée est notée.",
+          "pt": "A coordenada está anotada."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Irlan pense à des coordonnées.",
+          "pt": "Irlan pensa em coordenadas."
+        },
+        {
+          "level": "B2",
+          "fr": "Les coordonnées indiquent un point précis sur la carte.",
+          "pt": "As coordenadas indicam um ponto preciso no mapa."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est la coordonnée qui, chiffrée, transforme la terre en repère lisible.",
+          "pt": "É a coordenada que, cifrada, transforma a terra em referência legível."
+        }
       ]
     },
     {
       "term": "la date",
       "definitionPt": "a data",
       "definitionFr": "Jour précis du calendrier.",
-      "inflections": ["la date", "une date", "des dates"],
-      "ptTargets": ["data"],
+      "inflections": [
+        "la date",
+        "une date",
+        "des dates"
+      ],
+      "ptTargets": [
+        "data"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La date est importante.", "pt": "A data é importante." },
-        { "level": "A2-B1", "fr": "Peut-être que les chiffres forment une date.", "pt": "Talvez os números formem uma data." },
-        { "level": "B2", "fr": "La date 1904 revient dans l'Atlas.", "pt": "A data de 1904 volta no Atlas." },
-        { "level": "C1-C2", "fr": "C'est la date qui, gravée, fixe un événement dans le temps.", "pt": "É a data que, gravada, fixa um acontecimento no tempo." }
+        {
+          "level": "A1",
+          "fr": "La date est importante.",
+          "pt": "A data é importante."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Peut-être que les chiffres forment une date.",
+          "pt": "Talvez os números formem uma data."
+        },
+        {
+          "level": "B2",
+          "fr": "La date 1904 revient dans l'Atlas.",
+          "pt": "A data de 1904 volta no Atlas."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est la date qui, gravée, fixe un événement dans le temps.",
+          "pt": "É a data que, gravada, fixa um acontecimento no tempo."
+        }
       ]
     },
     {
       "term": "le canard",
       "definitionPt": "o pato",
       "definitionFr": "Oiseau d'eau.",
-      "inflections": ["le canard", "un canard", "des canards"],
-      "ptTargets": ["pato"],
+      "inflections": [
+        "le canard",
+        "un canard",
+        "des canards"
+      ],
+      "ptTargets": [
+        "pato"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le canard nage.", "pt": "O pato nada." },
-        { "level": "A2-B1", "fr": "Un canard s'approche sur l'eau.", "pt": "Um pato se aproxima na água." },
-        { "level": "B2", "fr": "Les canards glissent doucement sur la rivière.", "pt": "Os patos deslizam devagar no rio." },
-        { "level": "C1-C2", "fr": "C'est le canard qui, paisible, anime les bords de la rivière.", "pt": "É o pato que, tranquilo, anima as margens do rio." }
+        {
+          "level": "A1",
+          "fr": "Le canard nage.",
+          "pt": "O pato nada."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Un canard s'approche sur l'eau.",
+          "pt": "Um pato se aproxima na água."
+        },
+        {
+          "level": "B2",
+          "fr": "Les canards glissent doucement sur la rivière.",
+          "pt": "Os patos deslizam devagar no rio."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est le canard qui, paisible, anime les bords de la rivière.",
+          "pt": "É o pato que, tranquilo, anima as margens do rio."
+        }
       ]
     },
     {
       "term": "l'herbe",
       "definitionPt": "a grama / a erva",
       "definitionFr": "Plante verte qui couvre le sol.",
-      "inflections": ["l'herbe", "une herbe", "des herbes"],
-      "ptTargets": ["grama", "erva"],
+      "inflections": [
+        "l'herbe",
+        "une herbe",
+        "des herbes"
+      ],
+      "ptTargets": [
+        "grama",
+        "erva"
+      ],
       "examples": [
-        { "level": "A1", "fr": "L'herbe est verte.", "pt": "A grama é verde." },
-        { "level": "A2-B1", "fr": "Andréa étale la nappe sur l'herbe.", "pt": "Andréa estende a toalha na grama." },
-        { "level": "B2", "fr": "L'herbe fraîche garde l'humidité du matin.", "pt": "A grama fresca guarda a umidade da manhã." },
-        { "level": "C1-C2", "fr": "C'est l'herbe qui, au bord de l'eau, offre un tapis naturel aux promeneurs.", "pt": "É a grama que, à beira da água, oferece um tapete natural aos caminhantes." }
+        {
+          "level": "A1",
+          "fr": "L'herbe est verte.",
+          "pt": "A grama é verde."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Andréa étale la nappe sur l'herbe.",
+          "pt": "Andréa estende a toalha na grama."
+        },
+        {
+          "level": "B2",
+          "fr": "L'herbe fraîche garde l'humidité du matin.",
+          "pt": "A grama fresca guarda a umidade da manhã."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est l'herbe qui, au bord de l'eau, offre un tapis naturel aux promeneurs.",
+          "pt": "É a grama que, à beira da água, oferece um tapete natural aos caminhantes."
+        }
       ]
     },
     {
       "term": "profiter",
       "definitionPt": "aproveitar",
       "definitionFr": "Tirer du plaisir de quelque chose.",
-      "inflections": ["profiter", "je profite", "nous profitons"],
-      "ptTargets": ["aproveitar"],
+      "inflections": [
+        "profiter",
+        "je profite",
+        "nous profitons"
+      ],
+      "ptTargets": [
+        "aproveitar"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Je profite du soleil.", "pt": "Eu aproveito o sol." },
-        { "level": "A2-B1", "fr": "Ils profitent du moment ensemble.", "pt": "Eles aproveitam o momento juntos." },
-        { "level": "B2", "fr": "Profiter du calme est un vrai luxe.", "pt": "Aproveitar a calma é um verdadeiro luxo." },
-        { "level": "C1-C2", "fr": "C'est en profitant du présent que l'on échappe un instant à l'inquiétude.", "pt": "É aproveitando o presente que se escapa por um instante da preocupação." }
+        {
+          "level": "A1",
+          "fr": "Je profite du soleil.",
+          "pt": "Eu aproveito o sol."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Ils profitent du moment ensemble.",
+          "pt": "Eles aproveitam o momento juntos."
+        },
+        {
+          "level": "B2",
+          "fr": "Profiter du calme est un vrai luxe.",
+          "pt": "Aproveitar a calma é um verdadeiro luxo."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est en profitant du présent que l'on échappe un instant à l'inquiétude.",
+          "pt": "É aproveitando o presente que se escapa por um instante da preocupação."
+        }
       ]
     }
   ],
@@ -234,7 +515,11 @@
     "exampleFr": "Ils partagent le pain et le fromage.",
     "examplePt": "Eles dividem o pão e o queijo.",
     "practiceQuestion": "Complete: 'Nous _____ le repas.'",
-    "options": ["partageons", "partage", "partagent"],
+    "options": [
+      "partageons",
+      "partage",
+      "partagent"
+    ],
     "correctIndex": 0,
     "points": [
       {
@@ -243,7 +528,11 @@
         "exampleFr": "Peut-être que les chiffres forment une date.",
         "examplePt": "Talvez os números formem uma data.",
         "practiceQuestion": "Complete: '_____ que c'est une date.'",
-        "options": ["Peut-être", "Souvent", "Toujours"],
+        "options": [
+          "Peut-être",
+          "Souvent",
+          "Toujours"
+        ],
         "correctIndex": 0
       },
       {
@@ -252,7 +541,11 @@
         "exampleFr": "Ils s'assoient au bord de la Somme.",
         "examplePt": "Eles se sentam à beira do Somme.",
         "practiceQuestion": "Complete: 'Ils s'assoient _____ bord de la rivière.'",
-        "options": ["au", "à", "en"],
+        "options": [
+          "au",
+          "à",
+          "en"
+        ],
         "correctIndex": 0
       }
     ]
@@ -260,31 +553,51 @@
   "quizQuestions": [
     {
       "question": "Onde eles fazem o piquenique?",
-      "options": ["à beira do Somme", "na torre", "no mercado"],
+      "options": [
+        "à beira do Somme",
+        "na torre",
+        "no mercado"
+      ],
       "correctIndex": 0,
       "explanation": "Ils font un pique-nique au bord de la Somme."
     },
     {
       "question": "O que eles dividem?",
-      "options": ["pão e queijo", "bolo", "pizza"],
+      "options": [
+        "pão e queijo",
+        "bolo",
+        "pizza"
+      ],
       "correctIndex": 0,
       "explanation": "Ils partagent le pain et le fromage."
     },
     {
       "question": "O que os sete números podem ser?",
-      "options": ["uma data ou coordenadas", "um nome", "um telefone"],
+      "options": [
+        "uma data ou coordenadas",
+        "um nome",
+        "um telefone"
+      ],
       "correctIndex": 0,
       "explanation": "Peut-être une date, ou des coordonnées."
     },
     {
       "question": "Complete: 'Nous _____ le repas.'",
-      "options": ["partageons", "partage", "partagent"],
+      "options": [
+        "partageons",
+        "partage",
+        "partagent"
+      ],
       "correctIndex": 0,
       "explanation": "nous partageons."
     },
     {
       "question": "Complete: 'Ils s'assoient _____ bord de la rivière.'",
-      "options": ["au", "à", "en"],
+      "options": [
+        "au",
+        "à",
+        "en"
+      ],
       "correctIndex": 0,
       "explanation": "au bord de la rivière."
     }

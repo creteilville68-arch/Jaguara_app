@@ -69,6 +69,21 @@
       "fr": "« Alors nous lirons la baie comme un livre », a souri Andréa. « Et demain, nous tournerons la page. » Ils ont quitté la terrasse.",
       "pt": "« Então leremos a baía como um livro », sorriu Andréa. « E amanhã, viraremos a página. » Eles deixaram o terraço."
     }
+    ,{
+      "id": 13,
+      "fr": "Dans la bibliothèque municipale, Irlan trouve un texte de Victor Hugo. L'auteur décrit le rocher avec une émotion admirable.",
+      "pt": "Na biblioteca municipal, Irlan encontra um texto de Victor Hugo. O autor descreve a rocha com uma emoção admirável."
+    },
+    {
+      "id": 14,
+      "fr": "Andréa ouvre un fichier et joint une photo du livre. La boîte de réception affiche une notification immédiate.",
+      "pt": "Andréa abre um arquivo e anexa uma foto do livro. A caixa de entrada mostra uma notificação imediata."
+    },
+    {
+      "id": 15,
+      "fr": "« Ce texte est à la fois romantique et réaliste », constate Irlan. Ils se réjouissent de cette lecture.",
+      "pt": "Este texto é ao mesmo tempo romântico e realista, constata Irlan. Eles se alegram com essa leitura."
+    }
   ],
   "vocabularyDictionary": [
     {
@@ -156,7 +171,7 @@
       "inflections": ["le pouvoir", "un pouvoir", "des pouvoirs"],
       "ptTargets": ["poder"],
       "examples": [
-        { "level": "A1", "fr": "Le pouvoir est grand.", "pt": "O poder é grande." },
+        { "level": "A1", "fr": "Qui a le pouvoir ici ?", "pt": "Quem manda aqui?" },
         { "level": "A2-B1", "fr": "Les mots ont du pouvoir.", "pt": "As palavras têm poder." },
         { "level": "B2", "fr": "Le pouvoir des mots peut changer l'histoire.", "pt": "O poder das palavras pode mudar a história." },
         { "level": "C1-C2", "fr": "Le vrai pouvoir n'est pas dans les rois, mais dans les mots.", "pt": "O verdadeiro poder não está nos reis, mas nas palavras." }

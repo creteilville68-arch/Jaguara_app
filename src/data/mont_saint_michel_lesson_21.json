@@ -69,6 +69,21 @@
       "fr": "« Alors nous ne nous arrêterons pas ici », a dit Irlan. « La marée nous attend, et la rue ne protège pas les curieux. » Ils ont continué vers l'abbaye.",
       "pt": "« Então não vamos parar aqui », disse Irlan. « A maré nos espera, e a rua não protege os curiosos. » Eles seguiram rumo à abadia."
     }
+    ,{
+      "id": 13,
+      "fr": "Les maisons des marchands ont des murs épais. Irlan remarque une armoire et une penderie derrière une fenêtre.",
+      "pt": "As casas dos comerciantes têm paredes espessas. Irlan observa um armário e um cabideiro atrás de uma janela."
+    },
+    {
+      "id": 14,
+      "fr": "Andréa touche une poignée et trouve un loquet. « Il faut verrouiller la porte avant de partir », rappelle-t-elle.",
+      "pt": "Andréa toca uma maçaneta e encontra um trinco. É preciso trancar a porta antes de sair, lembra ela."
+    },
+    {
+      "id": 15,
+      "fr": "Un locataire leur raconte qu'il a dû réparer une fuite d'eau. Le contrat de location était clair.",
+      "pt": "Um inquilino lhes conta que precisou consertar um vazamento de água. O contrato de locação era claro."
+    }
   ],
   "vocabularyDictionary": [
     {
@@ -221,7 +236,7 @@
       "inflections": ["la richesse", "une richesse", "des richesses"],
       "ptTargets": ["riqueza"],
       "examples": [
-        { "level": "A1", "fr": "La richesse est grande.", "pt": "A riqueza é grande." },
+        { "level": "A1", "fr": "La richesse ne fait pas le bonheur.", "pt": "A riqueza não traz a felicidade." },
         { "level": "A2-B1", "fr": "Les bateaux apportaient des richesses du monde.", "pt": "Os barcos traziam riquezas do mundo." },
         { "level": "B2", "fr": "La vraie richesse du Mont, c'est son histoire.", "pt": "A verdadeira riqueza do Mont é sua história." },
         { "level": "C1-C2", "fr": "Les richesses de la mer et de la foi se sont croisées ici.", "pt": "As riquezas do mar e da fé se cruzaram aqui." }

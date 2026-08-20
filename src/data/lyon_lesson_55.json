@@ -7,12 +7,12 @@
   "titlePt": "O TGV para Marseille: duas horas rumo ao sul",
   "subtitleFr": "Exprimer le futur et l'hypothèse : la route du sud",
   "subtitlePt": "Exprimir o futuro e a hipótese: a estrada do sul",
-  "summaryPt": "De Lyon, o TGV atravessa o vale do Ródano até o Mediterrâneo em menos de duas horas. Nesta aula B2+, a família viaja para Marseille e revisa o futuro, as hipóteses e as clivadas enquanto a paisagem muda diante da janela.",
+  "summaryPt": "De Lyon, o TGV atravessa o vale do Ródano até o Mediterrâneo em menos de duas horas. Nesta aula B2+, o casal viaja para Marseille e revisa o futuro, as hipóteses e as clivadas enquanto a paisagem muda diante da janela.",
   "paragraphs": [
     {
       "id": 1,
-      "fr": "Le TGV glissa hors de la gare de la Part-Dieu. « C'est ce train qui va nous emmener à la mer », dit Íris, le nez collé à la vitre. Andréa répondit qu'ils arriveraient avant le déjeuner.",
-      "pt": "O TGV deslizou para fora da estação da Part-Dieu. « É este trem que vai nos levar ao mar », disse Íris, com o nariz colado na janela. Andréa respondeu que eles chegariam antes do almoço."
+      "fr": "Le TGV glissa hors de la gare de la Part-Dieu. « C'est ce train qui va nous emmener à la mer », dit Andréa, le nez collé à la vitre. Irlan répondit qu'ils arriveraient avant le déjeuner.",
+      "pt": "O TGV deslizou para fora da estação da Part-Dieu. « É este trem que vai nos levar ao mar », disse Andréa, com o nariz colado na janela. Irlan respondeu que eles chegariam antes do almoço."
     },
     {
       "id": 2,
@@ -31,8 +31,18 @@
     },
     {
       "id": 5,
-      "fr": "Soudain, la mer apparut. « La Méditerranée ! » cria Íris. Irlan écrivit : « Si quelqu'un m'avait dit, au Brésil, que je verrais la Méditerranée en deux heures, je n'aurais pas cru. Mais le TGV existe. Et demain, Marseille nous attend. »",
-      "pt": "De repente, o mar apareceu. « O Mediterrâneo! » gritou Íris. Irlan escreveu: « Se alguém me tivesse dito, no Brasil, que eu veria o Mediterrâneo em duas horas, eu não teria acreditado. Mas o TGV existe. E amanhã, Marseille nos espera. »"
+      "fr": "Soudain, la mer apparut. « La Méditerranée ! » cria Andréa. Irlan écrivit : « Si quelqu'un m'avait dit, au Brésil, que je verrais la Méditerranée en deux heures, je n'aurais pas cru. Mais le TGV existe. Et demain, Marseille nous attend. »",
+      "pt": "De repente, o mar apareceu. « O Mediterrâneo! » gritou Andréa. Irlan escreveu: « Se alguém me tivesse dito, no Brasil, que eu veria o Mediterrâneo em duas horas, eu não teria acreditado. Mas o TGV existe. E amanhã, Marseille nos espera. »"
+    },
+    {
+      "id": 6,
+      "fr": "Après avoir embarqué dans le TGV, Irlan a consulté la carte du trajet. Le train devait transiter par plusieurs villes avant de déboucher définitivement vers le sud.",
+      "pt": "Depois de embarcar no TGV, Irlan consultou o mapa do trajeto. O trem deveria transitar por várias cidades antes de finalmente desembocar no sul."
+    },
+    {
+      "id": 7,
+      "fr": "À moins de rencontrer un obstacle imprévisible, ils poursuivraient l'enquête sans ajourner leur départ. Andréa a gardé le carnet dans un compartiment sécurisé.",
+      "pt": "A menos que encontrassem um obstáculo imprevisível, continuariam a investigação sem adiar a partida. Andréa guardou o caderno em um compartimento seguro."
     }
   ],
   "vocabularyDictionary": [
@@ -44,7 +54,7 @@
       "ptTargets": ["janela", "janelas"],
       "examples": [
         { "level": "A1", "fr": "La vitre est propre.", "pt": "A janela está limpa." },
-        { "level": "A2-B1", "fr": "Íris regarde par la vitre.", "pt": "Íris olha pela janela." },
+        { "level": "A2-B1", "fr": "Andréa regarde par la vitre.", "pt": "Andréa olha pela janela." },
         { "level": "B2", "fr": "La vitre, large, laisse entrer toute la lumière du sud.", "pt": "A janela, larga, deixa entrar toda a luz do sul." },
         { "level": "C1-C2", "fr": "C'est la vitre qui transforme le voyage en cinéma.", "pt": "É a janela que transforma a viagem em cinema." }
       ]
@@ -149,7 +159,7 @@
       "examples": [
         { "level": "A1", "fr": "La Méditerranée est bleue.", "pt": "O Mediterrâneo é azul." },
         { "level": "A2-B1", "fr": "Marseille est au bord de la Méditerranée.", "pt": "Marseille fica à beira do Mediterrâneo." },
-        { "level": "B2", "fr": "La Méditerranée, aperçue du train, a fait crier Íris de joie.", "pt": "O Mediterrâneo, avistado do trem, fez Íris gritar de alegria." },
+        { "level": "B2", "fr": "La Méditerranée, aperçue du train, a fait crier Andréa de joie.", "pt": "O Mediterrâneo, avistado do trem, fez Andréa gritar de alegria." },
         { "level": "C1-C2", "fr": "C'est la Méditerranée qui a vu naître les civilisations.", "pt": "É o Mediterrâneo que viu nascer as civilizações." }
       ]
     },

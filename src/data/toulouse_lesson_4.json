@@ -7,17 +7,17 @@
   "titlePt": "A Cité de l'espace: Toulouse, capital da aerospacial",
   "subtitleFr": "La réplique d'Ariane 5, la station Mir et le planétarium",
   "subtitlePt": "A réplica do Ariane 5, a estação Mir e o planetário",
-  "summaryPt": "Nesta Aula 4 (B2), a família visita a Cité de l'espace, onde se ergue a réplica de 53 metros do foguete Ariane 5. O aluno revisa o Plus-que-parfait e os pronomes EN/Y em contexto científico: 'j'y étais déjà monté', 'on en a vu'.",
+  "summaryPt": "Nesta Aula 4 (B2), o casal visita a Cité de l'espace, onde se ergue a réplica de 53 metros do foguete Ariane 5. O aluno revisa o Plus-que-parfait e os pronomes EN/Y em contexto científico: 'j'y étais déjà monté', 'on en a vu'.",
   "paragraphs": [
     {
       "id": 1,
-      "fr": "La fusée Ariane se dresse au milieu du parc, haute de cinquante-trois mètres. « Avant de venir, j'avais déjà vu des photos, a dit Irlan, mais je n'y étais jamais monté si près. » Iris a couru : « On peut entrer dans la réplique de la station Mir, j'y vais ! »",
-      "pt": "O foguete Ariane se ergue no meio do parque, com cinquenta e três metros de altura. « Antes de vir, eu já tinha visto fotos, disse Irlan, mas nunca tinha chegado tão perto dele. » Íris correu: « Dá para entrar na réplica da estação Mir, eu vou lá! »"
+      "fr": "La fusée Ariane se dresse au milieu du parc, haute de cinquante-trois mètres. « Avant de venir, j'avais déjà vu des photos, a dit Irlan, mais je n'y étais jamais monté si près. » Andréa a couru : « On peut entrer dans la réplique de la station Mir, j'y vais ! »",
+      "pt": "O foguete Ariane se ergue no meio do parque, com cinquenta e três metros de altura. « Antes de vir, eu já tinha visto fotos, disse Irlan, mas nunca tinha chegado tão perto dele. » Andréa correu: « Dá para entrar na réplica da estação Mir, eu vou lá! »"
     },
     {
       "id": 2,
-      "fr": "Dans la station Mir, Andréa a expliqué : « Les astronautes y vivaient pendant des mois. Ils en sortaient pour marcher dans l'espace. Tu imagines dormir ici ? » Iris a répondu : « J'y dormirais bien, mais sans flotter partout ! »",
-      "pt": "Na estação Mir, Andréa explicou: « Os astronautas viviam lá durante meses. Eles saíam dela para caminhar no espaço. Imagina dormir aqui? » Íris respondeu: « Eu dormiria bem lá, mas sem flutuar por toda parte! »"
+      "fr": "Dans la station Mir, Andréa a expliqué : « Les astronautes y vivaient pendant des mois. Ils en sortaient pour marcher dans l'espace. Tu imagines dormir ici ? » Irlan a répondu : « J'y dormirais bien, mais sans flotter partout ! »",
+      "pt": "Na estação Mir, Andréa explicou: « Os astronautas viviam lá durante meses. Eles saíam dela para caminhar no espaço. Imagina dormir aqui? » Irlan respondeu: « Eu dormiria bem lá, mas sem flutuar por toda parte! »"
     },
     {
       "id": 3,
@@ -26,8 +26,18 @@
     },
     {
       "id": 4,
-      "fr": "En sortant, Irlan a conclu : « Toulouse est l'une des capitales mondiales de l'aérospatiale. Les ingénieurs d'Airbus et du CNES y travaillent chaque jour. Sans eux, aucun satellite n'aurait été lancé. » Iris a ajouté : « Et moi, j'en aurai peut-être un, de métier, un jour ! »",
-      "pt": "Ao sair, Irlan concluiu: « Toulouse é uma das capitais mundiais da aerospacial. Os engenheiros da Airbus e do CNES trabalham aqui todos os dias. Sem eles, nenhum satélite teria sido lançado. » Íris acrescentou: « E eu, quem sabe um dia eu terei uma dessas profissões! »"
+      "fr": "En sortant, Irlan a conclu : « Toulouse est l'une des capitales mondiales de l'aérospatiale. Les ingénieurs d'Airbus et du CNES y travaillent chaque jour. Sans eux, aucun satellite n'aurait été lancé. » Andréa a glissé : « Il paraît que l'Observatoire de Jolimont organise des soirées d'observation du ciel. On pourrait y aller, un de ces soirs. »",
+      "pt": "Ao sair, Irlan concluiu: « Toulouse é uma das capitais mundiais da aerospacial. Os engenheiros da Airbus e do CNES trabalham aqui todos os dias. Sem eles, nenhum satélite teria sido lançado. » Andréa insinuou: « Dizem que o Observatório de Jolimont organiza noites de observação do céu. Poderíamos ir lá, um desses dias. »"
+    },
+    {
+      "id": 5,
+      "fr": "Dans la salle consacrée à l'apprentissage automatique, Andréa a observé une expérience scientifique. Le guide a vulgarisé une hypothèse complexe de façon à la rendre compréhensible.",
+      "pt": "Na sala dedicada ao aprendizado de máquina, Andréa observou um experimento científico. O guia popularizou uma hipótese complexa de modo a torná-la compreensível."
+    },
+    {
+      "id": 6,
+      "fr": "Irlan a évalué chaque explication avec un esprit critique. Selon lui, une technologie innovante doit rester compatible avec une éthique fondamentale, à moins qu'on accepte de perdre le contrôle.",
+      "pt": "Irlan avaliou cada explicação com espírito crítico. Para ele, uma tecnologia inovadora deve continuar compatível com uma ética fundamental, a menos que se aceite perder o controle."
     }
   ],
   "vocabularyDictionary": [
@@ -182,7 +192,7 @@
       "ptTargets": ["decolagem"],
       "examples": [
         { "level": "A1", "fr": "Le décollage est rapide.", "pt": "A decolagem é rápida." },
-        { "level": "A2-B1", "fr": "Iris aurait adoré voir un décollage.", "pt": "Íris teria adorado ver uma decolagem." },
+        { "level": "A2-B1", "fr": "Andréa aurait adoré voir un décollage.", "pt": "Andréa teria adorado ver uma decolagem." },
         { "level": "B2", "fr": "Le décollage d'Ariane, qui dure deux minutes, produit un bruit assourdissant.", "pt": "A decolagem do Ariane, que dura dois minutos, produz um barulho ensurdecedor." },
         { "level": "C1-C2", "fr": "Assister à un décollage, c'est vivre un moment où la science devient spectacle.", "pt": "Assistir a uma decolagem é viver um momento em que a ciência vira espetáculo." }
       ]

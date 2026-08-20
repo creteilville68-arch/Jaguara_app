@@ -7,12 +7,12 @@
   "titlePt": "A rue Sainte-Catherine: a rua comercial mais longa da Europa",
   "subtitleFr": "1,2 kilomètre de boutiques, de cafés et de rencontres",
   "subtitlePt": "1,2 quilômetro de lojas, cafés e encontros",
-  "summaryPt": "Nesta Aula 14 (B1+), a família percorre a rue Sainte-Catherine, a mais longa rua de lojas da Europa, com seus 1,2 km. O aluno pratica o vocabulário das compras (le magasin, la boutique, la vitrine) e os pronomes COD/COI com o conditionnel de cortesia.",
+  "summaryPt": "Nesta Aula 14 (B1+), o casal percorre a rue Sainte-Catherine, a mais longa rua de lojas da Europa, com seus 1,2 km. O aluno pratica o vocabulário das compras (le magasin, la boutique, la vitrine) e os pronomes COD/COI com o conditionnel de cortesia.",
   "paragraphs": [
     {
       "id": 1,
-      "fr": "« La rue Sainte-Catherine fait 1,2 kilomètre », a annoncé Irlan. « C'est la plus longue rue commerçante d'Europe. » Iris a regardé la foule : « On ne verra jamais le bout ! »",
-      "pt": "« A rue Sainte-Catherine tem 1,2 quilômetro », anunciou Irlan. « É a rua comercial mais longa da Europa. » Íris olhou a multidão: « Nunca vamos ver o fim! »"
+      "fr": "« La rue Sainte-Catherine fait 1,2 kilomètre », a annoncé Irlan. « C'est la plus longue rue commerçante d'Europe. » Andréa a regardé la foule : « On ne verra jamais le bout ! »",
+      "pt": "« A rue Sainte-Catherine tem 1,2 quilômetro », anunciou Irlan. « É a rua comercial mais longa da Europa. » Andréa olhou a multidão: « Nunca vamos ver o fim! »"
     },
     {
       "id": 2,
@@ -21,18 +21,33 @@
     },
     {
       "id": 3,
-      "fr": "Iris et Irlan ont regardé les vitrines. « Regarde, papa, des lunettes de soleil ! » « Tu les essaies ? » « Oui ! Et toi, tu me les achèterais ? » Irlan a ri : « On verra, on verra… »",
-      "pt": "Íris e Irlan olharam as vitrines. « Olha, papai, óculos de sol! » « Você quer experimentá-los? » « Sim! E você, os compraria para mim? » Irlan riu: « A gente vê, a gente vê… »"
+      "fr": "Andréa et Irlan ont regardé les vitrines. « Regarde, des lunettes de soleil ! » « Tu les essaies ? » « Oui ! Et toi, tu me les achèterais ? » Irlan a ri : « On verra, on verra… »",
+      "pt": "Andréa e Irlan olharam as vitrines. « Olha, óculos de sol! » « Você quer experimentá-los? » « Sim! E você, os compraria para mim? » Irlan riu: « A gente vê, a gente vê… »"
     },
     {
       "id": 4,
-      "fr": "Andréa est sortie de la boutique, heureuse. « Je l'ai achetée, la robe. » « Tu lui as dit oui ? » a demandé Iris. « Non, je lui ai demandé le prix d'abord ! » La famille a éclaté de rire.",
-      "pt": "Andréa saiu da loja, feliz. « Comprei o vestido. » « Você disse sim para ele? » perguntou Íris. « Não, primeiro perguntei o preço! » A família caiu na risada."
+      "fr": "Andréa est sortie de la boutique, heureuse. « Je l'ai achetée, la robe. » « Tu lui as dit oui ? » a demandé Irlan. « Non, je lui ai demandé le prix d'abord ! » Le couple a éclaté de rire.",
+      "pt": "Andréa saiu da loja, feliz. « Comprei o vestido. » « Você disse sim para ele? » perguntou Irlan. « Não, primeiro perguntei o preço! » O casal caiu na risada."
     },
     {
       "id": 5,
       "fr": "Au bout de la rue, ils ont trouvé un petit square. « En marchant dans cette rue, j'ai compris le mot \"commerce\" », a dit Irlan. « Le commerce, ce n'est pas seulement acheter. C'est se rencontrer. »",
       "pt": "No fim da rua, encontraram uma pracinha. « Caminhando nesta rua, entendi a palavra comércio », disse Irlan. « Comércio não é só comprar. É encontrar-se. »"
+    }
+    ,{
+      "id": 6,
+      "fr": "La rue Sainte-Catherine est entièrement piétonne. Les vitrines attirent d'innombrables passants.",
+      "pt": "A rua Sainte-Catherine é inteiramente para pedestres. As vitrines atraem inúmeros transeuntes."
+    },
+    {
+      "id": 7,
+      "fr": "Andréa commande en ligne un produit en solde. Irlan lui rappelle de vérifier la validité de la carte de fidélité.",
+      "pt": "Andréa encomenda online um produto em liquidação. Irlan lembra a ela de verificar a validade do cartão fidelidade."
+    },
+    {
+      "id": 8,
+      "fr": "Une association organise une collecte dans le quartier. Le bénévole explique que l'entraide rend la rue plus conviviale.",
+      "pt": "Uma associação organiza uma arrecadação no bairro. O voluntário explica que a ajuda mútua torna a rua mais sociável."
     }
   ],
   "vocabularyDictionary": [
@@ -70,7 +85,7 @@
       "ptTargets": ["vitrine"],
       "examples": [
         { "level": "A1", "fr": "La vitrine est belle.", "pt": "A vitrine é bonita." },
-        { "level": "A2-B1", "fr": "Iris regarde les vitrines.", "pt": "Íris olha as vitrines." },
+        { "level": "A2-B1", "fr": "Andréa regarde les vitrines.", "pt": "Andréa olha as vitrines." },
         { "level": "B2", "fr": "Les vitrines que l'on regarde le soir sont illuminées.", "pt": "As vitrines que se olham à noite estão iluminadas." },
         { "level": "C1-C2", "fr": "La vitrine, théâtre de verre, met en scène les objets du désir.", "pt": "A vitrine, teatro de vidro, encena os objetos do desejo." }
       ]
@@ -224,7 +239,7 @@
       "correctIndex": 0
     },
     {
-      "question": "O que Íris queria experimentar na vitrine ?",
+      "question": "O que Andréa queria experimentar na vitrine ?",
       "options": ["Óculos de sol", "Um relógio", "Um casaco", "Um boné"],
       "correctIndex": 0
     },

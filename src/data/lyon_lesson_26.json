@@ -21,8 +21,8 @@
     },
     {
       "id": 3,
-      "fr": "Dans la salle des sculptures, Íris fit le tour des marbres blancs. « Il est drôle qu'ils soient si froids, mais si vivants », dit-elle. Irlan sourit : « C'est l'art qui réchauffe la pierre. »",
-      "pt": "Na sala das esculturas, Íris deu a volta nos mármores brancos. « É engraçado que eles sejam tão frios, mas tão vivos », disse ela. Irlan sorriu: « É a arte que aquece a pedra. »"
+      "fr": "Dans la salle des sculptures, Andréa fit le tour des marbres blancs. « Il est drôle qu'ils soient si froids, mais si vivants », dit-elle. Irlan sourit : « C'est l'art qui réchauffe la pierre. »",
+      "pt": "Na sala das esculturas, Andréa deu a volta nos mármores brancos. « É engraçado que eles sejam tão frios, mas tão vivos », disse ela. Irlan sorriu: « É a arte que aquece a pedra. »"
     },
     {
       "id": 4,
@@ -33,6 +33,16 @@
       "id": 5,
       "fr": "Le soir, Irlan écrivit : « J'ai découvert que la peinture est une géographie de l'âme : chaque toile est un paysage intérieur. Il est temps que j'apprenne à lire ces cartes-là aussi. »",
       "pt": "À noite, Irlan escreveu: « Descobri que a pintura é uma geografia da alma: cada tela é uma paisagem interior. Está na hora de eu aprender a ler também esses mapas. »"
+    },
+    {
+      "id": 6,
+      "fr": "Le musée réunissait le baroque, le classicisme et le surréalisme. Irlan a dépeint dans son carnet une œuvre dont l'apparence contredisait l'éloge officiel.",
+      "pt": "O museu reunia o barroco, o classicismo e o surrealismo. Irlan retratou no caderno uma obra cuja aparência contradizia o elogio oficial."
+    },
+    {
+      "id": 7,
+      "fr": "Andréa a interprété une scène comme un avertissement, mais le guide a proposé une lecture différente. Leur dialogue a montré que l'art pouvait rester pertinent sans imposer une conclusion absolue.",
+      "pt": "Andréa interpretou uma cena como uma advertência, mas o guia propôs uma leitura diferente. O diálogo mostrou que a arte podia continuar pertinente sem impor uma conclusão absoluta."
     }
   ],
   "vocabularyDictionary": [
@@ -242,7 +252,7 @@
       "explanation": "No texto: 'des toiles de Monet, de Rodin, de Picasso'."
     },
     {
-      "question": "O que Íris achou das esculturas?",
+      "question": "O que Andréa achou das esculturas?",
       "options": ["Que são frias mas vivas", "Que são muito grandes", "Que são coloridas"],
       "correctIndex": 0,
       "explanation": "No texto: 'Il est drôle qu'ils soient si froids, mais si vivants.'"

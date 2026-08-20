@@ -69,6 +69,21 @@
       "fr": "Irlan et Andréa ont échangé un regard. L'heure bleue. C'était là, entre le jour et la nuit, que la piste se révélerait.",
       "pt": "Irlan e Andréa trocaram um olhar. A hora azul. Era ali, entre o dia e a noite, que a pista se revelaria."
     }
+    ,{
+      "id": 13,
+      "fr": "À l'entrée de l'abbaye, Irlan composte son billet. La clé magnétique ouvre une porte derrière le bâtiment.",
+      "pt": "Na entrada da abadia, Irlan valida seu bilhete. A chave magnética abre uma porta atrás do prédio."
+    },
+    {
+      "id": 14,
+      "fr": "Andréa regarde la lampe de poche du guide. La lumière révèle une chauve-souris dans une niche discrète.",
+      "pt": "Andréa olha a lanterna do guia. A luz revela um morcego numa nicho discreto."
+    },
+    {
+      "id": 15,
+      "fr": "Le spectacle de la Merveille les émeut. « Il faut économiser l'eau et respecter ce monument », dit Irlan.",
+      "pt": "O espetáculo da Merveille os comove. É preciso economizar água e respeitar este monumento, diz Irlan."
+    }
   ],
   "vocabularyDictionary": [
     {
@@ -182,7 +197,7 @@
       "inflections": ["la merveille", "les merveilles"],
       "ptTargets": ["maravilha"],
       "examples": [
-        { "level": "A1", "fr": "La merveille est belle.", "pt": "A maravilha é bela." },
+        { "level": "A1", "fr": "Cette cathédrale est une merveille.", "pt": "Esta catedral é uma maravilha." },
         { "level": "A2-B1", "fr": "La Merveille est le joyau de l'abbaye.", "pt": "A Merveille é a joia da abadia." },
         { "level": "B2", "fr": "La Merveille est un chef-d'œuvre de l'art gothique.", "pt": "A Merveille é uma obra-prima da arte gótica." },
         { "level": "C1-C2", "fr": "La Merveille incarne l'audace spirituelle et technique des bâtisseurs du XIIIe siècle.", "pt": "A Merveille encarna a audácia espiritual e técnica dos construtores do século XIII." }

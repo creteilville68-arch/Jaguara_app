@@ -7,12 +7,12 @@
   "titlePt": "L'Estaque: a colina que inspirou os pintores",
   "subtitleFr": "Le discours indirect et la voix passive : le paysage raconté",
   "subtitlePt": "O discurso indireto e a voz passiva: a paisagem contada",
-  "summaryPt": "L'Estaque, antiga vila de pescadores a noroeste de Marseille, foi pintada por Cézanne, Braque e Dufy. Nesta aula C1, Irlan leva a família ao mirante e entende que uma paisagem pode ser vista, pintada e reinventada mil vezes.",
+  "summaryPt": "L'Estaque, antiga vila de pescadores a noroeste de Marseille, foi pintada por Cézanne, Braque e Dufy. Nesta aula C1, Irlan leva Andréa ao mirante e entende que uma paisagem pode ser vista, pintada e reinventada mil vezes.",
   "paragraphs": [
     {
       "id": 1,
-      "fr": "Irlan avait promis qu'il montrerait à la famille le paysage des peintres. « On dit que Cézanne venait ici peindre la baie », expliqua-t-il. Les toits roses de L'Estaque descendaient vers l'eau.",
-      "pt": "Irlan tinha prometido que mostraria à família a paisagem dos pintores. « Dizem que Cézanne vinha aqui pintar a baía », explicou ele. Os telhados rosas de L'Estaque desciam em direção à água."
+      "fr": "Irlan avait promis qu'il montrerait à Andréa le paysage des peintres. « On dit que Cézanne venait ici peindre la baie », expliqua-t-il. Les toits roses de L'Estaque descendaient vers l'eau.",
+      "pt": "Irlan tinha prometido que mostraria a Andréa a paisagem dos pintores. « Dizem que Cézanne vinha aqui pintar a baía », explicou ele. Os telhados rosas de L'Estaque desciam em direção à água."
     },
     {
       "id": 2,
@@ -26,8 +26,8 @@
     },
     {
       "id": 4,
-      "fr": "Plus tard, Braque et Dufy ont aussi posé leur chevalet ici. « On raconte que c'est en regardant ces toits que le cubisme a trouvé ses premières formes », murmura Andréa. Íris essayait de dessiner la baie avec son crayon.",
-      "pt": "Mais tarde, Braque e Dufy também colocaram seus cavaletes aqui. « Contam que foi olhando estes telhados que o cubismo encontrou suas primeiras formas », murmurou Andréa. Íris tentava desenhar a baía com seu lápis."
+      "fr": "Plus tard, Braque et Dufy ont aussi posé leur chevalet ici. « On raconte que c'est en regardant ces toits que le cubisme a trouvé ses premières formes », murmura Andréa. Andréa essayait de dessiner la baie avec son crayon.",
+      "pt": "Mais tarde, Braque e Dufy também colocaram seus cavaletes aqui. « Contam que foi olhando estes telhados que o cubismo encontrou suas primeiras formas », murmurou Andréa. Andréa tentava desenhar a baía com seu lápis."
     },
     {
       "id": 5,
@@ -135,7 +135,7 @@
       "ptTargets": ["lápis", "lápis"],
       "examples": [
         { "level": "A1", "fr": "Le crayon est noir.", "pt": "O lápis é preto." },
-        { "level": "A2-B1", "fr": "Íris dessine avec son crayon.", "pt": "Íris desenha com seu lápis." },
+        { "level": "A2-B1", "fr": "Andréa dessine avec son crayon.", "pt": "Andréa desenha com seu lápis." },
         { "level": "B2", "fr": "Le crayon, taillé avec soin, suit la main de l'enfant.", "pt": "O lápis, apontado com cuidado, segue a mão da criança." },
         { "level": "C1-C2", "fr": "C'est le crayon qui donne au premier regard sa forme définitive.", "pt": "É o lápis que dá ao primeiro olhar sua forma definitiva." }
       ]
@@ -206,7 +206,7 @@
         "ruleTitle": "Promettre que + conditionnel",
         "explanationPt": "'Irlan avait promis qu'il montrerait' : promessa no passado → futur no conditionnel.",
         "exampleFr": "Irlan avait promis qu'il montrerait à la famille le paysage des peintres.",
-        "examplePt": "Irlan tinha prometido que mostraria à família a paisagem dos pintores.",
+        "examplePt": "Irlan tinha prometido que mostraria a Andréa a paisagem dos pintores.",
         "practiceQuestion": "Complete: « Irlan avait promis qu'il ___ à la famille le paysage. »",
         "options": ["montrerait", "montre", "montrera"],
         "correctIndex": 0

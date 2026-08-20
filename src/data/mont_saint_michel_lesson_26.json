@@ -69,6 +69,21 @@
       "fr": "« Enfin, tout se tient », a souri Andréa. « La légende d'Aubert est aussi une carte. » Ils ont regardé la chapelle, émus.",
       "pt": "« Enfim, tudo se encaixa », sorriu Andréa. « A lenda de Aubert também é um mapa. » Eles olharam a capela, emocionados."
     }
+    ,{
+      "id": 13,
+      "fr": "L'archange apparaît dans le récit de l'évêque. Irlan trouve les trois rêves émouvants et mystérieux.",
+      "pt": "O arcanjo aparece no relato do bispo. Irlan acha os três sonhos comoventes e misteriosos."
+    },
+    {
+      "id": 14,
+      "fr": "Andréa bavarde avec une marraine qui connaît la légende. Elle affirme que le guide est discret mais passionné.",
+      "pt": "Andréa conversa com uma madrinha que conhece a lenda. Ela afirma que o guia é discreto mas apaixonado."
+    },
+    {
+      "id": 15,
+      "fr": "« Il faut s'informer avant de croire une histoire », dit Irlan. Puis il demande pardon d'avoir douté.",
+      "pt": "É preciso informar-se antes de acreditar numa história, diz Irlan. Depois ele pede perdão por ter duvidado."
+    }
   ],
   "vocabularyDictionary": [
     {
@@ -104,7 +119,7 @@
       "inflections": ["le rêve", "un rêve", "des rêves"],
       "ptTargets": ["sonho"],
       "examples": [
-        { "level": "A1", "fr": "Le rêve est étrange.", "pt": "O sonho é estranho." },
+        { "level": "A1", "fr": "J'ai fait un rêve étrange.", "pt": "Tive um sonho estranho." },
         { "level": "A2-B1", "fr": "L'archange est apparu dans les rêves d'Aubert.", "pt": "O arcanjo apareceu nos sonhos de Aubert." },
         { "level": "B2", "fr": "Les rêves d'Aubert ont changé l'histoire du Mont.", "pt": "Os sonhos de Aubert mudaram a história do Mont." },
         { "level": "C1-C2", "fr": "Trois rêves ont suffi à bâtir une merveille.", "pt": "Três sonhos bastaram para construir uma maravilha." }
@@ -156,7 +171,7 @@
       "inflections": ["le doigt", "un doigt", "des doigts"],
       "ptTargets": ["dedo"],
       "examples": [
-        { "level": "A1", "fr": "Le doigt est petit.", "pt": "O dedo é pequeno." },
+        { "level": "A1", "fr": "Il montre la tour du doigt.", "pt": "Ele aponta a torre com o dedo." },
         { "level": "A2-B1", "fr": "L'archange a touché la tête d'Aubert avec son doigt.", "pt": "O arcanjo tocou a cabeça de Aubert com o dedo." },
         { "level": "B2", "fr": "La légende dit qu'un trou est resté dans le crâne d'Aubert.", "pt": "A lenda diz que um buraco ficou no crânio de Aubert." },
         { "level": "C1-C2", "fr": "Un simple doigt a suffi à marquer un homme et un mont pour l'éternité.", "pt": "Um simples dedo bastou para marcar um homem e um monte para a eternidade." }
@@ -169,7 +184,7 @@
       "inflections": ["la légende", "une légende", "des légendes"],
       "ptTargets": ["lenda"],
       "examples": [
-        { "level": "A1", "fr": "La légende est belle.", "pt": "A lenda é bonita." },
+        { "level": "A1", "fr": "J'aime cette légende.", "pt": "Eu gosto desta lenda." },
         { "level": "A2-B1", "fr": "La légende raconte l'apparition de l'archange.", "pt": "A lenda conta a aparição do arcanjo." },
         { "level": "B2", "fr": "Les légendes donnent au Mont son âme.", "pt": "As lendas dão ao Mont sua alma." },
         { "level": "C1-C2", "fr": "Derrière chaque légende, il y a une vérité que le temps a embellie.", "pt": "Atrás de cada lenda há uma verdade que o tempo embelezou." }

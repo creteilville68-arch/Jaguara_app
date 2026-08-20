@@ -7,7 +7,7 @@
   "titlePt": "As caves trogloditas de Vouvray: sob a terra",
   "subtitleFr": "Des kilomètres de galeries creusées dans la roche tendre",
   "subtitlePt": "Quilômetros de galerias escavadas na rocha macia",
-  "summaryPt": "Nesta Aula 17 (B1), a família visita as caves troglodytes de Vouvray, galerias escavadas na rocha de tuffeau onde envelhecem os vinhos brancos. O aluno pratica o vocabulário da cave (la galerie, la roche, le tonneau), as expressões de comparação (plus frais que) e o futur simple.",
+  "summaryPt": "Nesta Aula 17 (B1), o casal visita as caves troglodytes de Vouvray, galerias escavadas na rocha de tuffeau onde envelhecem os vinhos brancos. No fundo da última galeria, Irlan descobre uma data gravada na rocha — 1904 — e uma frase em grafia antiga cuja caligrafia lembra a do Atlas. O aluno pratica o vocabulário da cave (la galerie, la roche, le tonneau), as expressões de comparação (plus frais que) e o futur simple.",
   "paragraphs": [
     {
       "id": 1,
@@ -21,18 +21,33 @@
     },
     {
       "id": 3,
-      "fr": "Iris a demandé : « Pourquoi les bouteilles sont couchées ? » « Pour que le bouchon reste humide », a répondu le vigneron. « Si le bouchon sèche, le vin se gâte. »",
-      "pt": "Íris perguntou: « Por que as garrafas estão deitadas? » « Para que a rolha fique úmida », respondeu o vinicultor. « Se a rolha seca, o vinho estraga. »"
+      "fr": "Andréa a demandé : « Pourquoi les bouteilles sont couchées ? » « Pour que le bouchon reste humide », a répondu le vigneron. « Si le bouchon sèche, le vin se gâte. »",
+      "pt": "Andréa perguntou: « Por que as garrafas estão deitadas? » « Para que a rolha fique úmida », respondeu o vinicultor. « Se a rolha seca, o vinho estraga. »"
     },
     {
       "id": 4,
-      "fr": "À la dégustation, Andréa a goûté le vin blanc. « Il sent le miel et la pomme », a-t-elle dit. « Le chenin donne des vins uniques. » Irlan, lui, préférait le jus de raisin.",
-      "pt": "Na degustação, Andréa provou o vinho branco. « Cheira a mel e maçã », disse. « O chenin dá vinhos únicos. » Irlan, ele, preferia o suco de uva."
+      "fr": "À la dégustation, Andréa a goûté le vin blanc. « Il sent le miel et la pomme », a-t-elle dit. « Le chenin donne des vins uniques. » Irlan, lui, préférait le jus de raisin : « Quand j'étais livreur, je livrais des bouteilles sans jamais savoir d'où elles venaient. Aujourd'hui, chaque bouteille a une histoire. »",
+      "pt": "Na degustação, Andréa provou o vinho branco. « Cheira a mel e maçã », disse. « O chenin dá vinhos únicos. » Irlan, ele, preferia o suco de uva: « Quando eu era entregador, eu entregava garrafas sem nunca saber de onde vinham. Hoje, cada garrafa tem uma história. »"
     },
     {
       "id": 5,
-      "fr": "« Quand j'étais livreur, je livrais des bouteilles sans jamais savoir d'où elles venaient », a dit Irlan. « Aujourd'hui, j'ai vu la cave, la roche, la vigne. Chaque bouteille a maintenant une histoire. »",
-      "pt": "« Quando eu era entregador, eu entregava garrafas sem nunca saber de onde vinham », disse Irlan. « Hoje, vi a cave, a rocha, a vinha. Cada garrafa agora tem uma história. »"
+      "fr": "Au fond de la dernière galerie, la lampe d'Irlan a éclairé des marques dans le tuffeau : une date — 1904 — et, dessous, une phrase courte, à moitié effacée. « Je ne sais pas qui a gravé ça », a dit le vigneron. « Autrefois, on se cachait ici pendant les guerres. » Andréa a photographié les lettres. Le soir, Irlan les a comparées à la quatrième page de l'Atlas : c'était la même main.",
+      "pt": "No fundo da última galeria, a lanterna de Irlan iluminou marcas no tuffeau: uma data — 1904 — e, abaixo, uma frase curta, meio apagada. « Não sei quem gravou isso », disse o vinicultor. « Antigamente, escondiam-se aqui durante as guerras. » Andréa fotografou as letras. À noite, Irlan as comparou com a quarta página do Atlas: era a mesma mão."
+    },
+    {
+      "id": 6,
+      "fr": "Les caves troglodytes offrent une isolation naturelle. L'humidité est constante dans la roche.",
+      "pt": "As cavernas troglodytes oferecem um isolamento natural. A umidade é constante na rocha."
+    },
+    {
+      "id": 7,
+      "fr": "Andréa se sent un peu anxieuse dans le noir. « On devrait appeler les secours », plaisante-t-elle.",
+      "pt": "Andréa se sente um pouco ansiosa no escuro. Deveríamos chamar os socorristas, brinca ela."
+    },
+    {
+      "id": 8,
+      "fr": "Irlan lui donne un coup de main. « Respire profondément, c'est un momento d'audace, pas de peur ».",
+      "pt": "Irlan lhe dá uma ajuda. Respire fundo, é um momento de audácia, não de medo."
     }
   ],
   "vocabularyDictionary": [
@@ -40,156 +55,418 @@
       "term": "la cave",
       "definitionPt": "a adega, o porão",
       "definitionFr": "Salle souterraine où l'on garde le vin.",
-      "inflections": ["la cave", "une cave", "des caves"],
-      "ptTargets": ["adega", "porão"],
+      "inflections": [
+        "la cave",
+        "une cave",
+        "des caves"
+      ],
+      "ptTargets": [
+        "adega",
+        "porão"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La cave est fraîche.", "pt": "A adega é fresca." },
-        { "level": "A2-B1", "fr": "La cave de Vouvray est immense.", "pt": "A adega de Vouvray é imensa." },
-        { "level": "B2", "fr": "La cave où dorment les bouteilles est creusée dans la roche.", "pt": "A adega onde dormem as garrafas é escavada na rocha." },
-        { "level": "C1-C2", "fr": "La cave, ventre de la terre, garde le vin comme un secret de famille.", "pt": "A adega, ventre da terra, guarda o vinho como um segredo de família." }
+        {
+          "level": "A1",
+          "fr": "La cave est fraîche.",
+          "pt": "A adega é fresca."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "La cave de Vouvray est immense.",
+          "pt": "A adega de Vouvray é imensa."
+        },
+        {
+          "level": "B2",
+          "fr": "La cave où dorment les bouteilles est creusée dans la roche.",
+          "pt": "A adega onde dormem as garrafas é escavada na rocha."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "La cave, ventre de la terre, garde le vin comme un secret de famille.",
+          "pt": "A adega, ventre da terra, guarda o vinho como um segredo de família."
+        }
       ]
     },
     {
       "term": "troglodyte",
       "definitionPt": "troglodita",
       "definitionFr": "Creusé dans la roche.",
-      "inflections": ["troglodyte", "troglodytes"],
-      "ptTargets": ["troglodita"],
+      "inflections": [
+        "troglodyte",
+        "troglodytes"
+      ],
+      "ptTargets": [
+        "troglodita"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La maison est troglodyte.", "pt": "A casa é troglodita." },
-        { "level": "A2-B1", "fr": "Les caves troglodytes sont nombreuses en Touraine.", "pt": "As caves trogloditas são numerosas na Touraine." },
-        { "level": "B2", "fr": "Les maisons troglodytes que nous avons vues sont habitées.", "pt": "As casas trogloditas que vimos são habitadas." },
-        { "level": "C1-C2", "fr": "Troglodyte, l'habitat épouse la roche au lieu de la combattre.", "pt": "Troglodita, a habitação casa-se com a rocha em vez de combatê-la." }
+        {
+          "level": "A1",
+          "fr": "La maison est troglodyte.",
+          "pt": "A casa é troglodita."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Les caves troglodytes sont nombreuses en Touraine.",
+          "pt": "As caves trogloditas são numerosas na Touraine."
+        },
+        {
+          "level": "B2",
+          "fr": "Les maisons troglodytes que nous avons vues sont habitées.",
+          "pt": "As casas trogloditas que vimos são habitadas."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Troglodyte, l'habitat épouse la roche au lieu de la combattre.",
+          "pt": "Troglodita, a habitação casa-se com a rocha em vez de combatê-la."
+        }
       ]
     },
     {
       "term": "la galerie",
       "definitionPt": "a galeria",
       "definitionFr": "Long couloir souterrain.",
-      "inflections": ["la galerie", "une galerie", "des galeries"],
-      "ptTargets": ["galeria"],
+      "inflections": [
+        "la galerie",
+        "une galerie",
+        "des galeries"
+      ],
+      "ptTargets": [
+        "galeria"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La galerie est longue.", "pt": "A galeria é longa." },
-        { "level": "A2-B1", "fr": "Les galeries s'étendent sous les vignes.", "pt": "As galerias se estendem sob as vinhas." },
-        { "level": "B2", "fr": "La galerie où nous sommes entrés fait un kilomètre.", "pt": "A galeria onde entramos tem um quilômetro." },
-        { "level": "C1-C2", "fr": "La galerie, cathédrale souterraine, murmure la fraîcheur éternelle.", "pt": "A galeria, catedral subterrânea, murmura o frescor eterno." }
+        {
+          "level": "A1",
+          "fr": "La galerie est longue.",
+          "pt": "A galeria é longa."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Les galeries s'étendent sous les vignes.",
+          "pt": "As galerias se estendem sob as vinhas."
+        },
+        {
+          "level": "B2",
+          "fr": "La galerie où nous sommes entrés fait un kilomètre.",
+          "pt": "A galeria onde entramos tem um quilômetro."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "La galerie, cathédrale souterraine, murmure la fraîcheur éternelle.",
+          "pt": "A galeria, catedral subterrânea, murmura o frescor eterno."
+        }
       ]
     },
     {
       "term": "la roche",
       "definitionPt": "a rocha",
       "definitionFr": "Pierre dure qui forme la terre.",
-      "inflections": ["la roche", "une roche", "des roches"],
-      "ptTargets": ["rocha"],
+      "inflections": [
+        "la roche",
+        "une roche",
+        "des roches"
+      ],
+      "ptTargets": [
+        "rocha"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La roche est grise.", "pt": "A rocha é cinza." },
-        { "level": "A2-B1", "fr": "On a creusé la roche pour faire les caves.", "pt": "Escavou-se a rocha para fazer as caves." },
-        { "level": "B2", "fr": "La roche que l'on voit ici est du tuffeau.", "pt": "A rocha que se vê aqui é tuffeau." },
-        { "level": "C1-C2", "fr": "La roche, matière patiente, garde la forme de chaque coup de pioche.", "pt": "A rocha, matéria paciente, guarda a forma de cada golpe de picareta." }
+        {
+          "level": "A1",
+          "fr": "La roche est grise.",
+          "pt": "A rocha é cinza."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "On a creusé la roche pour faire les caves.",
+          "pt": "Escavou-se a rocha para fazer as caves."
+        },
+        {
+          "level": "B2",
+          "fr": "La roche que l'on voit ici est du tuffeau.",
+          "pt": "A rocha que se vê aqui é tuffeau."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "La roche, matière patiente, garde la forme de chaque coup de pioche.",
+          "pt": "A rocha, matéria paciente, guarda a forma de cada golpe de picareta."
+        }
       ]
     },
     {
       "term": "le tuffeau",
       "definitionPt": "o tuffeau (pedra calcária da região)",
       "definitionFr": "Pierre calcaire tendre et blanche de la région.",
-      "inflections": ["le tuffeau", "du tuffeau"],
-      "ptTargets": ["tuffeau"],
+      "inflections": [
+        "le tuffeau",
+        "du tuffeau"
+      ],
+      "ptTargets": [
+        "tuffeau"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le tuffeau est blanc.", "pt": "O tuffeau é branco." },
-        { "level": "A2-B1", "fr": "Les châteaux de la Loire sont bâtis en tuffeau.", "pt": "Os castelos do Loire são construídos em tuffeau." },
-        { "level": "B2", "fr": "Le tuffeau, que l'on coupe facilement, est idéal pour les caves.", "pt": "O tuffeau, que se corta facilmente, é ideal para as caves." },
-        { "level": "C1-C2", "fr": "Le tuffeau, pierre solaire, brille dans les châteaux et dort dans les caves.", "pt": "O tuffeau, pedra solar, brilha nos castelos e dorme nas caves." }
+        {
+          "level": "A1",
+          "fr": "Le tuffeau est blanc.",
+          "pt": "O tuffeau é branco."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Les châteaux de la Loire sont bâtis en tuffeau.",
+          "pt": "Os castelos do Loire são construídos em tuffeau."
+        },
+        {
+          "level": "B2",
+          "fr": "Le tuffeau, que l'on coupe facilement, est idéal pour les caves.",
+          "pt": "O tuffeau, que se corta facilmente, é ideal para as caves."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Le tuffeau, pierre solaire, brille dans les châteaux et dort dans les caves.",
+          "pt": "O tuffeau, pedra solar, brilha nos castelos e dorme nas caves."
+        }
       ]
     },
     {
       "term": "la bouteille",
       "definitionPt": "a garrafa",
       "definitionFr": "Récipient en verre pour le vin.",
-      "inflections": ["la bouteille", "une bouteille", "des bouteilles"],
-      "ptTargets": ["garrafa"],
+      "inflections": [
+        "la bouteille",
+        "une bouteille",
+        "des bouteilles"
+      ],
+      "ptTargets": [
+        "garrafa"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La bouteille est pleine.", "pt": "A garrafa está cheia." },
-        { "level": "A2-B1", "fr": "Des milliers de bouteilles dorment dans la cave.", "pt": "Milhares de garrafas dormem na adega." },
-        { "level": "B2", "fr": "La bouteille que le vigneron nous a montrée a dix ans.", "pt": "A garrafa que o vinicultor nos mostrou tem dez anos." },
-        { "level": "C1-C2", "fr": "La bouteille, prison de verre, garde le temps prisonnier.", "pt": "A garrafa, prisão de vidro, mantém o tempo prisioneiro." }
+        {
+          "level": "A1",
+          "fr": "La bouteille est pleine.",
+          "pt": "A garrafa está cheia."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Des milliers de bouteilles dorment dans la cave.",
+          "pt": "Milhares de garrafas dormem na adega."
+        },
+        {
+          "level": "B2",
+          "fr": "La bouteille que le vigneron nous a montrée a dix ans.",
+          "pt": "A garrafa que o vinicultor nos mostrou tem dez anos."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "La bouteille, prison de verre, garde le temps prisonnier.",
+          "pt": "A garrafa, prisão de vidro, mantém o tempo prisioneiro."
+        }
       ]
     },
     {
       "term": "le bouchon",
       "definitionPt": "a rolha",
       "definitionFr": "Morceau de liège qui ferme la bouteille.",
-      "inflections": ["le bouchon", "un bouchon", "des bouchons"],
-      "ptTargets": ["rolha"],
+      "inflections": [
+        "le bouchon",
+        "un bouchon",
+        "des bouchons"
+      ],
+      "ptTargets": [
+        "rolha"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le bouchon est en liège.", "pt": "A rolha é de cortiça." },
-        { "level": "A2-B1", "fr": "Le bouchon reste humide dans la cave.", "pt": "A rolha fica úmida na adega." },
-        { "level": "B2", "fr": "Si le bouchon sèche, le vin se gâte.", "pt": "Se a rolha seca, o vinho estraga." },
-        { "level": "C1-C2", "fr": "Le bouchon, gardien discret, décide du destin des grands vins.", "pt": "A rolha, guardiã discreta, decide o destino dos grandes vinhos." }
+        {
+          "level": "A1",
+          "fr": "Le bouchon est en liège.",
+          "pt": "A rolha é de cortiça."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Le bouchon reste humide dans la cave.",
+          "pt": "A rolha fica úmida na adega."
+        },
+        {
+          "level": "B2",
+          "fr": "Si le bouchon sèche, le vin se gâte.",
+          "pt": "Se a rolha seca, o vinho estraga."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Le bouchon, gardien discret, décide du destin des grands vins.",
+          "pt": "A rolha, guardiã discreta, decide o destino dos grandes vinhos."
+        }
       ]
     },
     {
       "term": "la dégustation",
       "definitionPt": "a degustação",
       "definitionFr": "Action de goûter pour apprécier.",
-      "inflections": ["la dégustation", "une dégustation", "des dégustations"],
-      "ptTargets": ["degustação"],
+      "inflections": [
+        "la dégustation",
+        "une dégustation",
+        "des dégustations"
+      ],
+      "ptTargets": [
+        "degustação"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La dégustation est amusante.", "pt": "A degustação é divertida." },
-        { "level": "A2-B1", "fr": "La dégustation a lieu dans la cave.", "pt": "A degustação acontece na adega." },
-        { "level": "B2", "fr": "La dégustation que nous avons faite était inoubliable.", "pt": "A degustação que fizemos foi inesquecível." },
-        { "level": "C1-C2", "fr": "La dégustation, lecture des sens, déchiffre la terre dans le verre.", "pt": "A degustação, leitura dos sentidos, decifra a terra no copo." }
+        {
+          "level": "A1",
+          "fr": "La dégustation est amusante.",
+          "pt": "A degustação é divertida."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "La dégustation a lieu dans la cave.",
+          "pt": "A degustação acontece na adega."
+        },
+        {
+          "level": "B2",
+          "fr": "La dégustation que nous avons faite était inoubliable.",
+          "pt": "A degustação que fizemos foi inesquecível."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "La dégustation, lecture des sens, déchiffre la terre dans le verre.",
+          "pt": "A degustação, leitura dos sentidos, decifra a terra no copo."
+        }
       ]
     },
     {
       "term": "le chenin",
       "definitionPt": "o chenin (uva branca da região)",
       "definitionFr": "Cépage blanc célèbre de la Touraine.",
-      "inflections": ["le chenin", "un chenin"],
-      "ptTargets": ["chenin"],
+      "inflections": [
+        "le chenin",
+        "un chenin"
+      ],
+      "ptTargets": [
+        "chenin"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le chenin est une vigne.", "pt": "O chenin é uma videira." },
-        { "level": "A2-B1", "fr": "Le chenin donne les vins de Vouvray.", "pt": "O chenin dá os vinhos de Vouvray." },
-        { "level": "B2", "fr": "Le chenin que cultive le vigneron est ancien.", "pt": "O chenin que o vinicultor cultiva é antigo." },
-        { "level": "C1-C2", "fr": "Le chenin, caméléon de la Loire, change de visage selon les années.", "pt": "O chenin, camaleão do Loire, muda de rosto conforme os anos." }
+        {
+          "level": "A1",
+          "fr": "Le chenin est une vigne.",
+          "pt": "O chenin é uma videira."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Le chenin donne les vins de Vouvray.",
+          "pt": "O chenin dá os vinhos de Vouvray."
+        },
+        {
+          "level": "B2",
+          "fr": "Le chenin que cultive le vigneron est ancien.",
+          "pt": "O chenin que o vinicultor cultiva é antigo."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Le chenin, caméléon de la Loire, change de visage selon les années.",
+          "pt": "O chenin, camaleão do Loire, muda de rosto conforme os anos."
+        }
       ]
     },
     {
       "term": "le miel",
       "definitionPt": "o mel",
       "definitionFr": "Aliment sucré fait par les abeilles.",
-      "inflections": ["le miel", "du miel"],
-      "ptTargets": ["mel"],
+      "inflections": [
+        "le miel",
+        "du miel"
+      ],
+      "ptTargets": [
+        "mel"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le miel est doux.", "pt": "O mel é doce." },
-        { "level": "A2-B1", "fr": "Le vin sent le miel.", "pt": "O vinho cheira a mel." },
-        { "level": "B2", "fr": "Le miel que produit la région est réputé.", "pt": "O mel que a região produz é famoso." },
-        { "level": "C1-C2", "fr": "Le miel, or des abeilles, garde le soleil prisonnier.", "pt": "O mel, ouro das abelhas, mantém o sol prisioneiro." }
+        {
+          "level": "A1",
+          "fr": "Le miel est doux.",
+          "pt": "O mel é doce."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Le vin sent le miel.",
+          "pt": "O vinho cheira a mel."
+        },
+        {
+          "level": "B2",
+          "fr": "Le miel que produit la région est réputé.",
+          "pt": "O mel que a região produz é famoso."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Le miel, or des abeilles, garde le soleil prisonnier.",
+          "pt": "O mel, ouro das abelhas, mantém o sol prisioneiro."
+        }
       ]
     },
     {
       "term": "le vigneron",
       "definitionPt": "o vinicultor",
       "definitionFr": "Personne qui cultive la vigne et fait le vin.",
-      "inflections": ["le vigneron", "un vigneron", "des vignerons"],
-      "ptTargets": ["vinicultor"],
+      "inflections": [
+        "le vigneron",
+        "un vigneron",
+        "des vignerons"
+      ],
+      "ptTargets": [
+        "vinicultor"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le vigneron travaille.", "pt": "O vinicultor trabalha." },
-        { "level": "A2-B1", "fr": "Le vigneron a expliqué les caves.", "pt": "O vinicultor explicou as caves." },
-        { "level": "B2", "fr": "Le vigneron dont on visite la cave est passionné.", "pt": "O vinicultor cuja adega se visita é apaixonado." },
-        { "level": "C1-C2", "fr": "Le vigneron, poète de la terre, lit les saisons dans les feuilles.", "pt": "O vinicultor, poeta da terra, lê as estações nas folhas." }
+        {
+          "level": "A1",
+          "fr": "Le vigneron travaille.",
+          "pt": "O vinicultor trabalha."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Le vigneron a expliqué les caves.",
+          "pt": "O vinicultor explicou as caves."
+        },
+        {
+          "level": "B2",
+          "fr": "Le vigneron dont on visite la cave est passionné.",
+          "pt": "O vinicultor cuja adega se visita é apaixonado."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Le vigneron, poète de la terre, lit les saisons dans les feuilles.",
+          "pt": "O vinicultor, poeta da terra, lê as estações nas folhas."
+        }
       ]
     },
     {
       "term": "se gâter",
       "definitionPt": "estragar-se",
       "definitionFr": "Devenir mauvais.",
-      "inflections": ["je me gâte", "tu te gâtes", "il se gâte", "nous nous gâtons"],
-      "ptTargets": ["estragar-se"],
+      "inflections": [
+        "je me gâte",
+        "tu te gâtes",
+        "il se gâte",
+        "nous nous gâtons"
+      ],
+      "ptTargets": [
+        "estragar-se"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le fruit se gâte.", "pt": "A fruta estraga." },
-        { "level": "A2-B1", "fr": "Le vin se gâte si le bouchon sèche.", "pt": "O vinho estraga se a rolha seca." },
-        { "level": "B2", "fr": "Le vin que l'on garde mal se gâte vite.", "pt": "O vinho mal guardado estraga rápido." },
-        { "level": "C1-C2", "fr": "Se gâter, pour le vin, est une trahison du temps.", "pt": "Estragar-se, para o vinho, é uma traição do tempo." }
+        {
+          "level": "A1",
+          "fr": "Le fruit se gâte.",
+          "pt": "A fruta estraga."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Le vin se gâte si le bouchon sèche.",
+          "pt": "O vinho estraga se a rolha seca."
+        },
+        {
+          "level": "B2",
+          "fr": "Le vin que l'on garde mal se gâte vite.",
+          "pt": "O vinho mal guardado estraga rápido."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Se gâter, pour le vin, est une trahison du temps.",
+          "pt": "Estragar-se, para o vinho, é uma traição do tempo."
+        }
       ]
     }
   ],
@@ -210,27 +487,52 @@
   "quizQuestions": [
     {
       "question": "Dans quelle roche les caves sont-elles creusées ?",
-      "options": ["Le tuffeau", "Le granit", "Le marbre", "Le basalte"],
+      "options": [
+        "Le tuffeau",
+        "Le granit",
+        "Le marbre",
+        "Le basalte"
+      ],
       "correctIndex": 0
     },
     {
       "question": "Pourquoi les bouteilles sont-elles couchées ?",
-      "options": ["Pour que le bouchon reste humide", "Pour gagner de la place", "Pour que le vin soit froid", "Pour les cacher"],
+      "options": [
+        "Pour que le bouchon reste humide",
+        "Pour gagner de la place",
+        "Pour que le vin soit froid",
+        "Pour les cacher"
+      ],
       "correctIndex": 0
     },
     {
       "question": "Quel goût Andréa sent-elle dans le vin ?",
-      "options": ["Le miel et la pomme", "Le café", "Le chocolat", "La menthe"],
+      "options": [
+        "Le miel et la pomme",
+        "Le café",
+        "Le chocolat",
+        "La menthe"
+      ],
       "correctIndex": 0
     },
     {
       "question": "Quel cépage donne les vins de Vouvray ?",
-      "options": ["Le chenin", "Le cabernet", "La syrah", "Le merlot"],
+      "options": [
+        "Le chenin",
+        "Le cabernet",
+        "La syrah",
+        "Le merlot"
+      ],
       "correctIndex": 0
     },
     {
       "question": "Que livrait Irlan sans savoir d'où ça venait ?",
-      "options": ["Des bouteilles de vin", "Des fleurs", "Des meubles", "Des lettres"],
+      "options": [
+        "Des bouteilles de vin",
+        "Des fleurs",
+        "Des meubles",
+        "Des lettres"
+      ],
       "correctIndex": 0
     }
   ]

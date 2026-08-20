@@ -7,12 +7,12 @@
   "titlePt": "Os estúdios de cinema de Tours: a sétima arte",
   "subtitleFr": "Tours a accueilli l'un des plus anciens studios du monde",
   "subtitlePt": "Tours abrigou um dos estúdios mais antigos do mundo",
-  "summaryPt": "Nesta Aula 37 (B1), a família descobre que Tours tem um dos estúdios de cinema mais antigos do mundo, onde se filmaram os primeiros filmes da história. O aluno pratica o vocabulário do cinema (le film, l'écran, tourner, l'acteur) e a narração no passado.",
+  "summaryPt": "Nesta Aula 37 (B1), o casal descobre que Tours tem um dos estúdios de cinema mais antigos do mundo, onde se filmaram os primeiros filmes da história. O aluno pratica o vocabulário do cinema (le film, l'écran, tourner, l'acteur) e a narração no passado.",
   "paragraphs": [
     {
       "id": 1,
-      "fr": "« Sais-tu que Tours a un très vieux studio de cinéma ? » a dit Irlan à Iris. « On y a tourné des films il y a plus de cent ans. Certains disent que c'est l'un des premiers studios du monde. »",
-      "pt": "« Sabia que Tours tem um estúdio de cinema muito antigo? » disse Irlan a Íris. « Filmaram-se filmes lá há mais de cem anos. Alguns dizem que é um dos primeiros estúdios do mundo. »"
+      "fr": "« Sais-tu que Tours a un très vieux studio de cinéma ? » a dit Irlan à Andréa. « On y a tourné des films il y a plus de cent ans. Certains disent que c'est l'un des premiers studios du monde. »",
+      "pt": "« Sabia que Tours tem um estúdio de cinema muito antigo? » disse Irlan a Andréa. « Filmaram-se filmes lá há mais de cem anos. Alguns dizem que é um dos primeiros estúdios do mundo. »"
     },
     {
       "id": 2,
@@ -26,13 +26,28 @@
     },
     {
       "id": 4,
-      "fr": "Le soir, la famille a regardé un vieux film muet à la maison. Iris a ri : « Ils font des gestes énormes ! » « C'était comme ça avant », a dit Andréa. « Le cinéma a changé, mais la magie est la même. »",
-      "pt": "À noite, a família assistiu a um filme mudo antigo em casa. Íris riu: « Eles fazem gestos enormes! » « Era assim antes », disse Andréa. « O cinema mudou, mas a magia é a mesma. »"
+      "fr": "Le soir, le couple a regardé un vieux film muet à la maison. Andréa a ri : « Ils font des gestes énormes ! » « C'était comme ça avant », a dit Irlan. « Le cinéma a changé, mais la magie est la même. »",
+      "pt": "À noite, o casal assistiu a um filme mudo antigo em casa. Andréa riu: « Eles fazem gestos enormes! » « Era assim antes », disse Irlan. « O cinema mudou, mas a magia é a mesma. »"
     },
     {
       "id": 5,
       "fr": "« Quand j'étais livreur, je n'allais jamais au cinéma », a dit Irlan. « Je livrais les cinémas, mais je ne voyais pas les films. Maintenant, je découvre que chaque ville de France a ses histoires à filmer. »",
       "pt": "« Quando eu era entregador, eu nunca ia ao cinema », disse Irlan. « Eu entregava nos cinemas, mas não via os filmes. Agora, descubro que cada cidade da França tem suas histórias para filmar. »"
+    },
+    {
+      "id": 6,
+      "fr": "Les studios de cinéma de Tours sont un lieu de création. Irlan observe les décors avec curiosité.",
+      "pt": "Os estúdios de cinema de Tours são um local de criação. Irlan observa os cenários com curiosidade."
+    },
+    {
+      "id": 7,
+      "fr": "Andréa dit que le tournage est un processus long et minutieux. « Il faut superviser chaque détail », observe-t-elle.",
+      "pt": "Andréa diz que a filmagem é um processo longo e minucioso. É preciso supervisionar cada detalhe, observa ela."
+    },
+    {
+      "id": 8,
+      "fr": "Irlan rêve de travailler un jour dans le cinéma. « C'est un milieu professionnel exigeant mais passionnant », murmure-t-il.",
+      "pt": "Irlan sonha em trabalhar um dia no cinema. É um meio profissional exigente mas apaixonante, murmura ele."
     }
   ],
   "vocabularyDictionary": [
@@ -40,156 +55,424 @@
       "term": "le cinéma",
       "definitionPt": "o cinema",
       "definitionFr": "Art du film ; salle où l'on voit des films.",
-      "inflections": ["le cinéma", "un cinéma", "des cinémas"],
-      "ptTargets": ["cinema"],
+      "inflections": [
+        "le cinéma",
+        "un cinéma",
+        "des cinémas"
+      ],
+      "ptTargets": [
+        "cinema"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le cinéma est amusant.", "pt": "O cinema é divertido." },
-        { "level": "A2-B1", "fr": "Tours a un vieux studio de cinéma.", "pt": "Tours tem um antigo estúdio de cinema." },
-        { "level": "B2", "fr": "Le cinéma que l'on aime nous fait voyager.", "pt": "O cinema que amamos nos faz viajar." },
-        { "level": "C1-C2", "fr": "Le cinéma, machine à rêves, projette nos vies en grand.", "pt": "O cinema, máquina de sonhos, projeta nossas vidas em grande." }
+        {
+          "level": "A1",
+          "fr": "Le cinéma est amusant.",
+          "pt": "O cinema é divertido."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Tours a un vieux studio de cinéma.",
+          "pt": "Tours tem um antigo estúdio de cinema."
+        },
+        {
+          "level": "B2",
+          "fr": "Le cinéma que l'on aime nous fait voyager.",
+          "pt": "O cinema que amamos nos faz viajar."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Le cinéma, machine à rêves, projette nos vies en grand.",
+          "pt": "O cinema, máquina de sonhos, projeta nossas vidas em grande."
+        }
       ]
     },
     {
       "term": "le film",
       "definitionPt": "o filme",
       "definitionFr": "Histoire racontée en images.",
-      "inflections": ["le film", "un film", "des films"],
-      "ptTargets": ["filme"],
+      "inflections": [
+        "le film",
+        "un film",
+        "des films"
+      ],
+      "ptTargets": [
+        "filme"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le film est drôle.", "pt": "O filme é engraçado." },
-        { "level": "A2-B1", "fr": "On a regardé un film muet.", "pt": "Assistimos a um filme mudo." },
-        { "level": "B2", "fr": "Le film que nous avons vu était ancien.", "pt": "O filme que vimos era antigo." },
-        { "level": "C1-C2", "fr": "Le film, mémoire de lumière, sauve les instants de l'oubli.", "pt": "O filme, memória de luz, salva os instantes do esquecimento." }
+        {
+          "level": "A1",
+          "fr": "Le film est drôle.",
+          "pt": "O filme é engraçado."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "On a regardé un film muet.",
+          "pt": "Assistimos a um filme mudo."
+        },
+        {
+          "level": "B2",
+          "fr": "Le film que nous avons vu était ancien.",
+          "pt": "O filme que vimos era antigo."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Le film, mémoire de lumière, sauve les instants de l'oubli.",
+          "pt": "O filme, memória de luz, salva os instantes do esquecimento."
+        }
       ]
     },
     {
       "term": "l'écran",
       "definitionPt": "a tela",
       "definitionFr": "Surface où l'on projette des images.",
-      "inflections": ["l'écran", "un écran", "des écrans"],
-      "ptTargets": ["tela"],
+      "inflections": [
+        "l'écran",
+        "un écran",
+        "des écrans"
+      ],
+      "ptTargets": [
+        "tela"
+      ],
       "examples": [
-        { "level": "A1", "fr": "L'écran est blanc.", "pt": "A tela é branca." },
-        { "level": "A2-B1", "fr": "Les phrases s'affichaient sur l'écran.", "pt": "As frases apareciam na tela." },
-        { "level": "B2", "fr": "L'écran où l'on projetait le film est ancien.", "pt": "A tela onde se projetava o filme é antiga." },
-        { "level": "C1-C2", "fr": "L'écran, fenêtre d'encre, ouvre les yeux du monde entier.", "pt": "A tela, janela de tinta, abre os olhos do mundo inteiro." }
+        {
+          "level": "A1",
+          "fr": "L'écran est blanc.",
+          "pt": "A tela é branca."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Les phrases s'affichaient sur l'écran.",
+          "pt": "As frases apareciam na tela."
+        },
+        {
+          "level": "B2",
+          "fr": "L'écran où l'on projetait le film est ancien.",
+          "pt": "A tela onde se projetava o filme é antiga."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "L'écran, fenêtre d'encre, ouvre les yeux du monde entier.",
+          "pt": "A tela, janela de tinta, abre os olhos do mundo inteiro."
+        }
       ]
     },
     {
       "term": "tourner",
       "definitionPt": "filmar, rodar",
       "definitionFr": "Filmer un film.",
-      "inflections": ["je tourne", "tu tournes", "il tourne", "nous tournons"],
-      "ptTargets": ["filmar", "rodar"],
+      "inflections": [
+        "je tourne",
+        "tu tournes",
+        "il tourne",
+        "nous tournons"
+      ],
+      "ptTargets": [
+        "filmar",
+        "rodar"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Ils tournent un film.", "pt": "Eles filmam um filme." },
-        { "level": "A2-B1", "fr": "On a tourné des films à Tours.", "pt": "Filmaram-se filmes em Tours." },
-        { "level": "B2", "fr": "Le film que l'on tourne ici sera célèbre.", "pt": "O filme que se roda aqui será famoso." },
-        { "level": "C1-C2", "fr": "Tourner, c'est écrire avec la lumière et le mouvement.", "pt": "Filmar é escrever com luz e movimento." }
+        {
+          "level": "A1",
+          "fr": "Ils tournent un film.",
+          "pt": "Eles filmam um filme."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "On a tourné des films à Tours.",
+          "pt": "Filmaram-se filmes em Tours."
+        },
+        {
+          "level": "B2",
+          "fr": "Le film que l'on tourne ici sera célèbre.",
+          "pt": "O filme que se roda aqui será famoso."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Tourner, c'est écrire avec la lumière et le mouvement.",
+          "pt": "Filmar é escrever com luz e movimento."
+        }
       ]
     },
     {
       "term": "l'acteur",
       "definitionPt": "o ator",
       "definitionFr": "Personne qui joue dans un film.",
-      "inflections": ["l'acteur", "un acteur", "des acteurs"],
-      "ptTargets": ["ator"],
+      "inflections": [
+        "l'acteur",
+        "un acteur",
+        "des acteurs"
+      ],
+      "ptTargets": [
+        "ator"
+      ],
       "examples": [
-        { "level": "A1", "fr": "L'acteur joue.", "pt": "O ator atua." },
-        { "level": "A2-B1", "fr": "Les acteurs faisaient de grands gestes.", "pt": "Os atores faziam grandes gestos." },
-        { "level": "B2", "fr": "L'acteur qui a marché ici était célèbre.", "pt": "O ator que andou aqui era famoso." },
-        { "level": "C1-C2", "fr": "L'acteur, prête-nom des âmes, vit mille vies en une seule carrière.", "pt": "O ator, prestanome das almas, vive mil vidas numa única carreira." }
+        {
+          "level": "A1",
+          "fr": "L'acteur joue.",
+          "pt": "O ator atua."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Les acteurs faisaient de grands gestes.",
+          "pt": "Os atores faziam grandes gestos."
+        },
+        {
+          "level": "B2",
+          "fr": "L'acteur qui a marché ici était célèbre.",
+          "pt": "O ator que andou aqui era famoso."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "L'acteur, prête-nom des âmes, vit mille vies en une seule carrière.",
+          "pt": "O ator, prestanome das almas, vive mil vidas numa única carreira."
+        }
       ]
     },
     {
       "term": "le spectateur",
       "definitionPt": "o espectador",
       "definitionFr": "Personne qui regarde un film.",
-      "inflections": ["le spectateur", "un spectateur", "des spectateurs"],
-      "ptTargets": ["espectador"],
+      "inflections": [
+        "le spectateur",
+        "un spectateur",
+        "des spectateurs"
+      ],
+      "ptTargets": [
+        "espectador"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le spectateur regarde.", "pt": "O espectador assiste." },
-        { "level": "A2-B1", "fr": "Les spectateurs lisaient les phrases.", "pt": "Os espectadores liam as frases." },
-        { "level": "B2", "fr": "Les spectateurs qui remplissaient la salle étaient nombreux.", "pt": "Os espectadores que enchiam a sala eram numerosos." },
-        { "level": "C1-C2", "fr": "Le spectateur, rêveur assis, traverse les siècles sans bouger.", "pt": "O espectador, sonhador sentado, atravessa os séculos sem se mover." }
+        {
+          "level": "A1",
+          "fr": "Le spectateur regarde.",
+          "pt": "O espectador assiste."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Les spectateurs lisaient les phrases.",
+          "pt": "Os espectadores liam as frases."
+        },
+        {
+          "level": "B2",
+          "fr": "Les spectateurs qui remplissaient la salle étaient nombreux.",
+          "pt": "Os espectadores que enchiam a sala eram numerosos."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Le spectateur, rêveur assis, traverse les siècles sans bouger.",
+          "pt": "O espectador, sonhador sentado, atravessa os séculos sem se mover."
+        }
       ]
     },
     {
       "term": "muet",
       "definitionPt": "mudo",
       "definitionFr": "Sans son, sans paroles.",
-      "inflections": ["muet", "muette", "muets", "muettes"],
-      "ptTargets": ["mudo"],
+      "inflections": [
+        "muet",
+        "muette",
+        "muets",
+        "muettes"
+      ],
+      "ptTargets": [
+        "mudo"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le film est muet.", "pt": "O filme é mudo." },
-        { "level": "A2-B1", "fr": "Autrefois, le cinéma était muet.", "pt": "Antigamente, o cinema era mudo." },
-        { "level": "B2", "fr": "Le cinéma muet que l'on regarde aujourd'hui fait rire.", "pt": "O cinema mudo que se assiste hoje faz rir." },
-        { "level": "C1-C2", "fr": "Muet, le film parle par les gestes, cette langue universelle.", "pt": "Mudo, o filme fala pelos gestos, essa língua universal." }
+        {
+          "level": "A1",
+          "fr": "Le film est muet.",
+          "pt": "O filme é mudo."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Autrefois, le cinéma était muet.",
+          "pt": "Antigamente, o cinema era mudo."
+        },
+        {
+          "level": "B2",
+          "fr": "Le cinéma muet que l'on regarde aujourd'hui fait rire.",
+          "pt": "O cinema mudo que se assiste hoje faz rir."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Muet, le film parle par les gestes, cette langue universelle.",
+          "pt": "Mudo, o filme fala pelos gestos, essa língua universal."
+        }
       ]
     },
     {
       "term": "la caméra",
       "definitionPt": "a câmera",
       "definitionFr": "Appareil qui filme.",
-      "inflections": ["la caméra", "une caméra", "des caméras"],
-      "ptTargets": ["câmera"],
+      "inflections": [
+        "la caméra",
+        "une caméra",
+        "des caméras"
+      ],
+      "ptTargets": [
+        "câmera"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La caméra est lourde.", "pt": "A câmera é pesada." },
-        { "level": "A2-B1", "fr": "Les caméras d'autrefois étaient énormes.", "pt": "As câmeras de antigamente eram enormes." },
-        { "level": "B2", "fr": "La caméra que l'on utilisait avait une grande roue.", "pt": "A câmera que se usava tinha uma grande roda." },
-        { "level": "C1-C2", "fr": "La caméra, œil mécanique, garde ce que l'œil humain oublie.", "pt": "A câmera, olho mecânico, guarda o que o olho humano esquece." }
+        {
+          "level": "A1",
+          "fr": "La caméra est lourde.",
+          "pt": "A câmera é pesada."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Les caméras d'autrefois étaient énormes.",
+          "pt": "As câmeras de antigamente eram enormes."
+        },
+        {
+          "level": "B2",
+          "fr": "La caméra que l'on utilisait avait une grande roue.",
+          "pt": "A câmera que se usava tinha uma grande roda."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "La caméra, œil mécanique, garde ce que l'œil humain oublie.",
+          "pt": "A câmera, olho mecânico, guarda o que o olho humano esquece."
+        }
       ]
     },
     {
       "term": "la magie",
       "definitionPt": "a magia",
       "definitionFr": "Merveille qui semble inexplicable.",
-      "inflections": ["la magie", "une magie", "des magies"],
-      "ptTargets": ["magia"],
+      "inflections": [
+        "la magie",
+        "une magie",
+        "des magies"
+      ],
+      "ptTargets": [
+        "magia"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La magie est belle.", "pt": "A magia é bonita." },
-        { "level": "A2-B1", "fr": "Le cinéma est une magie.", "pt": "O cinema é uma magia." },
-        { "level": "B2", "fr": "La magie qui opère dans une salle de cinéma est réelle.", "pt": "A magia que acontece numa sala de cinema é real." },
-        { "level": "C1-C2", "fr": "La magie du cinéma, illusion parfaite, fait pleurer des millions d'inconnus.", "pt": "A magia do cinema, ilusão perfeita, faz chorar milhões de desconhecidos." }
+        {
+          "level": "A1",
+          "fr": "La magie est belle.",
+          "pt": "A magia é bonita."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Le cinéma est une magie.",
+          "pt": "O cinema é uma magia."
+        },
+        {
+          "level": "B2",
+          "fr": "La magie qui opère dans une salle de cinéma est réelle.",
+          "pt": "A magia que acontece numa sala de cinema é real."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "La magie du cinéma, illusion parfaite, fait pleurer des millions d'inconnus.",
+          "pt": "A magia do cinema, ilusão perfeita, faz chorar milhões de desconhecidos."
+        }
       ]
     },
     {
       "term": "la salle",
       "definitionPt": "a sala",
       "definitionFr": "Pièce d'un bâtiment.",
-      "inflections": ["la salle", "une salle", "des salles"],
-      "ptTargets": ["sala"],
+      "inflections": [
+        "la salle",
+        "une salle",
+        "des salles"
+      ],
+      "ptTargets": [
+        "sala"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La salle est grande.", "pt": "A sala é grande." },
-        { "level": "A2-B1", "fr": "La salle de cinéma était pleine.", "pt": "A sala de cinema estava cheia." },
-        { "level": "B2", "fr": "La salle où l'on projetait les films est devenue un musée.", "pt": "A sala onde se projetavam os filmes virou um museu." },
-        { "level": "C1-C2", "fr": "La salle obscure, caverne de rêves, attend ses spectateurs.", "pt": "A sala escura, caverna de sonhos, espera seus espectadores." }
+        {
+          "level": "A1",
+          "fr": "La salle est grande.",
+          "pt": "A sala é grande."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "La salle de cinéma était pleine.",
+          "pt": "A sala de cinema estava cheia."
+        },
+        {
+          "level": "B2",
+          "fr": "La salle où l'on projetait les films est devenue un musée.",
+          "pt": "A sala onde se projetavam os filmes virou um museu."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "La salle obscure, caverne de rêves, attend ses spectateurs.",
+          "pt": "A sala escura, caverna de sonhos, espera seus espectadores."
+        }
       ]
     },
     {
       "term": "projeter",
       "definitionPt": "projetar",
       "definitionFr": "Montrer des images sur un écran.",
-      "inflections": ["je projette", "tu projettes", "il projette", "nous projetons"],
-      "ptTargets": ["projetar"],
+      "inflections": [
+        "je projette",
+        "tu projettes",
+        "il projette",
+        "nous projetons"
+      ],
+      "ptTargets": [
+        "projetar"
+      ],
       "examples": [
-        { "level": "A1", "fr": "On projette le film.", "pt": "Projeta-se o filme." },
-        { "level": "A2-B1", "fr": "On projetait le film sur un grand écran.", "pt": "Projetava-se o filme numa grande tela." },
-        { "level": "B2", "fr": "Les images que l'on projette sont anciennes.", "pt": "As imagens que se projetam são antigas." },
-        { "level": "C1-C2", "fr": "Projeter, c'est jeter un rêve sur le mur pour tous.", "pt": "Projetar é lançar um sonho na parede para todos." }
+        {
+          "level": "A1",
+          "fr": "On projette le film.",
+          "pt": "Projeta-se o filme."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "On projetait le film sur un grand écran.",
+          "pt": "Projetava-se o filme numa grande tela."
+        },
+        {
+          "level": "B2",
+          "fr": "Les images que l'on projette sont anciennes.",
+          "pt": "As imagens que se projetam são antigas."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Projeter, c'est jeter un rêve sur le mur pour tous.",
+          "pt": "Projetar é lançar um sonho na parede para todos."
+        }
       ]
     },
     {
       "term": "l'histoire",
       "definitionPt": "a história",
       "definitionFr": "Récit ; passé.",
-      "inflections": ["l'histoire", "une histoire", "des histoires"],
-      "ptTargets": ["história"],
+      "inflections": [
+        "l'histoire",
+        "une histoire",
+        "des histoires"
+      ],
+      "ptTargets": [
+        "história"
+      ],
       "examples": [
-        { "level": "A1", "fr": "L'histoire est intéressante.", "pt": "A história é interessante." },
-        { "level": "A2-B1", "fr": "Chaque ville a des histoires à filmer.", "pt": "Cada cidade tem histórias para filmar." },
-        { "level": "B2", "fr": "Les histoires que raconte le cinéma sont universelles.", "pt": "As histórias que o cinema conta são universais." },
-        { "level": "C1-C2", "fr": "L'histoire, matière du cinéma, se rejoue à chaque séance.", "pt": "A história, matéria do cinema, reencena-se a cada sessão." }
+        {
+          "level": "A1",
+          "fr": "L'histoire est intéressante.",
+          "pt": "A história é interessante."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Chaque ville a des histoires à filmer.",
+          "pt": "Cada cidade tem histórias para filmar."
+        },
+        {
+          "level": "B2",
+          "fr": "Les histoires que raconte le cinéma sont universelles.",
+          "pt": "As histórias que o cinema conta são universais."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "L'histoire, matière du cinéma, se rejoue à chaque séance.",
+          "pt": "A história, matéria do cinema, reencena-se a cada sessão."
+        }
       ]
     }
   ],
@@ -210,27 +493,52 @@
   "quizQuestions": [
     {
       "question": "O que Tours tem de especial para o cinema ?",
-      "options": ["Um dos estúdios mais antigos do mundo", "A maior tela do mundo", "Muitos atores famosos", "Um festival enorme"],
+      "options": [
+        "Um dos estúdios mais antigos do mundo",
+        "A maior tela do mundo",
+        "Muitos atores famosos",
+        "Um festival enorme"
+      ],
       "correctIndex": 0
     },
     {
       "question": "Como era o cinema antigamente ?",
-      "options": ["Mudo", "Colorido", "Em 3D", "Sem atores"],
+      "options": [
+        "Mudo",
+        "Colorido",
+        "Em 3D",
+        "Sem atores"
+      ],
       "correctIndex": 0
     },
     {
       "question": "O que os espectadores liam na tela ?",
-      "options": ["As frases", "Os preços", "As receitas", "Os horários"],
+      "options": [
+        "As frases",
+        "Os preços",
+        "As receitas",
+        "Os horários"
+      ],
       "correctIndex": 0
     },
     {
-      "question": "O que a família assistiu à noite ?",
-      "options": ["Um film muet", "Um filme novo", "Uma série", "Um desenho animado"],
+      "question": "O que o casal assistiu à noite ?",
+      "options": [
+        "Um film muet",
+        "Um filme novo",
+        "Uma série",
+        "Um desenho animado"
+      ],
       "correctIndex": 0
     },
     {
       "question": "O que Irlan fazia quando era entregador ?",
-      "options": ["Ele entregava nos cinemas mas não via os filmes", "Ele era ator", "Ele filmava tudo", "Ele dormia na sala"],
+      "options": [
+        "Ele entregava nos cinemas mas não via os filmes",
+        "Ele era ator",
+        "Ele filmava tudo",
+        "Ele dormia na sala"
+      ],
       "correctIndex": 0
     }
   ]

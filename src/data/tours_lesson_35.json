@@ -7,12 +7,12 @@
   "titlePt": "Ronsard e os poetas: a Touraine das rimas",
   "subtitleFr": "Au XVIe siècle, la poésie française est née au bord de la Loire",
   "subtitlePt": "No século XVI, a poesia francesa nasceu à beira do Loire",
-  "summaryPt": "Nesta Aula 35 (B1), a família descobre Ronsard, o poeta nascido perto de Tours, e os poetas da Pléiade que renovaram a língua francesa no século XVI. O aluno pratica o vocabulário da poesia (le poème, la rime, le vers, la muse) e a expressão de admiração.",
+  "summaryPt": "Nesta Aula 35 (B1), o casal descobre Ronsard, o poeta nascido perto de Tours, e os poetas da Pléiade que renovaram a língua francesa no século XVI. Andréa pergunta a Irlan o que é um poeta para ele — e a resposta revela o geógrafo que aprendeu a ouvir as palavras. O aluno pratica o vocabulário da poesia (le poème, la rime, le vers, la muse) e a expressão de admiração.",
   "paragraphs": [
     {
       "id": 1,
-      "fr": "« Pierre de Ronsard est né près de Tours, au château de la Possonnière », a dit Irlan. « Il est devenu le plus grand poète français de son époque. » Iris a demandé : « C'est quoi, un poète, papa ? »",
-      "pt": "« Pierre de Ronsard nasceu perto de Tours, no castelo de la Possonnière », disse Irlan. « Tornou-se o maior poeta francês de sua época. » Íris perguntou: « O que é um poeta, papai? »"
+      "fr": "« Pierre de Ronsard est né près de Tours, au château de la Possonnière », a dit Irlan. « Il est devenu le plus grand poète français de son époque. » Andréa a demandé : « Et pour toi, c'est quoi, un poète ? »",
+      "pt": "« Pierre de Ronsard nasceu perto de Tours, no castelo de la Possonnière », disse Irlan. « Tornou-se o maior poeta francês de sua época. » Andréa perguntou: « E para você, o que é um poeta? »"
     },
     {
       "id": 2,
@@ -26,13 +26,28 @@
     },
     {
       "id": 4,
-      "fr": "Le soir, Irlan a lu un poème de Ronsard à voix haute. « Mignonne, allons voir si la rose... » Iris a répété : « Mignonne, allons voir si la rose... » « C'est beau, papa. Les mots dansent. »",
-      "pt": "À noite, Irlan leu um poema de Ronsard em voz alta. « Mignonne, allons voir si la rose... » Íris repetiu: « Mignonne, allons voir si la rose... » « É bonito, papai. As palavras dançam. »"
+      "fr": "Le soir, Irlan a lu un poème de Ronsard à voix haute. « Mignonne, allons voir si la rose... » Andréa a répété : « Mignonne, allons voir si la rose... » « C'est beau. Les mots dansent. »",
+      "pt": "À noite, Irlan leu um poema de Ronsard em voz alta. « Mignonne, allons voir si la rose... » Andréa repetiu: « Mignonne, allons voir si la rose... » « É bonito. As palavras dançam. »"
     },
     {
       "id": 5,
       "fr": "« Quand j'étais livreur, les seuls mots que je voyais étaient les adresses », a dit Irlan. « Maintenant, je découvre que la France est un pays de poètes. Et moi, j'apprends à parler comme eux. »",
       "pt": "« Quando eu era entregador, as únicas palavras que eu via eram os endereços », disse Irlan. « Agora, descubro que a França é um país de poetas. E eu, aprendo a falar como eles. »"
+    },
+    {
+      "id": 6,
+      "fr": "Ronsard est un poète de la Touraine. Ses sonnets sont connus dans le monde entier.",
+      "pt": "Ronsard é um poeta da Touraine. Seus sonetos são conhecidos no mundo inteiro."
+    },
+    {
+      "id": 7,
+      "fr": "Irlan lit un sonnet à voix haute. « Les mots sont essentiels pour exprimer les sentiments », dit-il.",
+      "pt": "Irlan lê um soneto em voz alta. As palavras são essenciais para expressar os sentimentos, diz ele."
+    },
+    {
+      "id": 8,
+      "fr": "Andréa écoute avec attention. « La poésie est une forme d'art qui ne vieillit jamais », murmure-t-elle.",
+      "pt": "Andréa escuta com atenção. A poesia é uma forma de arte que nunca envelhece, murmura ela."
     }
   ],
   "vocabularyDictionary": [
@@ -40,156 +55,421 @@
       "term": "le poète",
       "definitionPt": "o poeta",
       "definitionFr": "Personne qui écrit des poèmes.",
-      "inflections": ["le poète", "un poète", "des poètes"],
-      "ptTargets": ["poeta"],
+      "inflections": [
+        "le poète",
+        "un poète",
+        "des poètes"
+      ],
+      "ptTargets": [
+        "poeta"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le poète écrit.", "pt": "O poeta escreve." },
-        { "level": "A2-B1", "fr": "Ronsard est un grand poète.", "pt": "Ronsard é um grande poeta." },
-        { "level": "B2", "fr": "Le poète qui a écrit ces vers est né en Touraine.", "pt": "O poeta que escreveu estes versos nasceu na Touraine." },
-        { "level": "C1-C2", "fr": "Le poète, orfèvre du langage, polit les mots jusqu'à la transparence.", "pt": "O poeta, ourives da linguagem, poli as palavras até a transparência." }
+        {
+          "level": "A1",
+          "fr": "Le poète écrit.",
+          "pt": "O poeta escreve."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Ronsard est un grand poète.",
+          "pt": "Ronsard é um grande poeta."
+        },
+        {
+          "level": "B2",
+          "fr": "Le poète qui a écrit ces vers est né en Touraine.",
+          "pt": "O poeta que escreveu estes versos nasceu na Touraine."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Le poète, orfèvre du langage, polit les mots jusqu'à la transparence.",
+          "pt": "O poeta, ourives da linguagem, poli as palavras até a transparência."
+        }
       ]
     },
     {
       "term": "le poème",
       "definitionPt": "o poema",
       "definitionFr": "Texte écrit en vers.",
-      "inflections": ["le poème", "un poème", "des poèmes"],
-      "ptTargets": ["poema"],
+      "inflections": [
+        "le poème",
+        "un poème",
+        "des poèmes"
+      ],
+      "ptTargets": [
+        "poema"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le poème est court.", "pt": "O poema é curto." },
-        { "level": "A2-B1", "fr": "Irlan a lu un poème de Ronsard.", "pt": "Irlan leu um poema de Ronsard." },
-        { "level": "B2", "fr": "Le poème que nous avons lu parle d'une rose.", "pt": "O poema que lemos fala de uma rosa." },
-        { "level": "C1-C2", "fr": "Le poème, cristal de mots, concentre une vie en quelques lignes.", "pt": "O poema, cristal de palavras, concentra uma vida em poucas linhas." }
+        {
+          "level": "A1",
+          "fr": "Le poème est court.",
+          "pt": "O poema é curto."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Irlan a lu un poème de Ronsard.",
+          "pt": "Irlan leu um poema de Ronsard."
+        },
+        {
+          "level": "B2",
+          "fr": "Le poème que nous avons lu parle d'une rose.",
+          "pt": "O poema que lemos fala de uma rosa."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Le poème, cristal de mots, concentre une vie en quelques lignes.",
+          "pt": "O poema, cristal de palavras, concentra uma vida em poucas linhas."
+        }
       ]
     },
     {
       "term": "la rime",
       "definitionPt": "a rima",
       "definitionFr": "Répétition de sons à la fin des vers.",
-      "inflections": ["la rime", "une rime", "des rimes"],
-      "ptTargets": ["rima"],
+      "inflections": [
+        "la rime",
+        "une rime",
+        "des rimes"
+      ],
+      "ptTargets": [
+        "rima"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La rime est jolie.", "pt": "A rima é bonita." },
-        { "level": "A2-B1", "fr": "Les rimes font danser les mots.", "pt": "As rimas fazem dançar as palavras." },
-        { "level": "B2", "fr": "Les rimes que Ronsard choisissait étaient musicales.", "pt": "As rimas que Ronsard escolhia eram musicais." },
-        { "level": "C1-C2", "fr": "La rime, écho du vers, relie les mots comme des sœurs.", "pt": "A rima, eco do verso, liga as palavras como irmãs." }
+        {
+          "level": "A1",
+          "fr": "La rime est jolie.",
+          "pt": "A rima é bonita."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Les rimes font danser les mots.",
+          "pt": "As rimas fazem dançar as palavras."
+        },
+        {
+          "level": "B2",
+          "fr": "Les rimes que Ronsard choisissait étaient musicales.",
+          "pt": "As rimas que Ronsard escolhia eram musicais."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "La rime, écho du vers, relie les mots comme des sœurs.",
+          "pt": "A rima, eco do verso, liga as palavras como irmãs."
+        }
       ]
     },
     {
       "term": "le vers",
       "definitionPt": "o verso",
       "definitionFr": "Ligne d'un poème.",
-      "inflections": ["le vers", "un vers", "des vers"],
-      "ptTargets": ["verso"],
+      "inflections": [
+        "le vers",
+        "un vers",
+        "des vers"
+      ],
+      "ptTargets": [
+        "verso"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le vers est court.", "pt": "O verso é curto." },
-        { "level": "A2-B1", "fr": "On lit les vers à voix haute.", "pt": "Lêem-se os versos em voz alta." },
-        { "level": "B2", "fr": "Les vers que l'on répète restent dans la mémoire.", "pt": "Os versos que se repetem ficam na memória." },
-        { "level": "C1-C2", "fr": "Le vers, pas du poème, avance en musique vers la fin.", "pt": "O verso, passo do poema, avança em música rumo ao fim." }
+        {
+          "level": "A1",
+          "fr": "Le vers est court.",
+          "pt": "O verso é curto."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "On lit les vers à voix haute.",
+          "pt": "Lêem-se os versos em voz alta."
+        },
+        {
+          "level": "B2",
+          "fr": "Les vers que l'on répète restent dans la mémoire.",
+          "pt": "Os versos que se repetem ficam na memória."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Le vers, pas du poème, avance en musique vers la fin.",
+          "pt": "O verso, passo do poema, avança em música rumo ao fim."
+        }
       ]
     },
     {
       "term": "la rose",
       "definitionPt": "a rosa",
       "definitionFr": "Fleur très belle et parfumée.",
-      "inflections": ["la rose", "une rose", "des roses"],
-      "ptTargets": ["rosa"],
+      "inflections": [
+        "la rose",
+        "une rose",
+        "des roses"
+      ],
+      "ptTargets": [
+        "rosa"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La rose est rouge.", "pt": "A rosa é vermelha." },
-        { "level": "A2-B1", "fr": "Ronsard a écrit un poème sur la rose.", "pt": "Ronsard escreveu um poema sobre a rosa." },
-        { "level": "B2", "fr": "La rose dont parle le poème fane vite.", "pt": "A rosa de que o poema fala murcha rápido." },
-        { "level": "C1-C2", "fr": "La rose, reine éphémère du jardin, enseigne la beauté qui passe.", "pt": "A rosa, rainha efêmera do jardim, ensina a beleza que passa." }
+        {
+          "level": "A1",
+          "fr": "La rose est rouge.",
+          "pt": "A rosa é vermelha."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Ronsard a écrit un poème sur la rose.",
+          "pt": "Ronsard escreveu um poema sobre a rosa."
+        },
+        {
+          "level": "B2",
+          "fr": "La rose dont parle le poème fane vite.",
+          "pt": "A rosa de que o poema fala murcha rápido."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "La rose, reine éphémère du jardin, enseigne la beauté qui passe.",
+          "pt": "A rosa, rainha efêmera do jardim, ensina a beleza que passa."
+        }
       ]
     },
     {
       "term": "la Pléiade",
       "definitionPt": "a Pléiade",
       "definitionFr": "Groupe de poètes français du XVIe siècle.",
-      "inflections": ["la Pléiade", "le groupe de la Pléiade"],
-      "ptTargets": ["Pléiade"],
+      "inflections": [
+        "la Pléiade",
+        "le groupe de la Pléiade"
+      ],
+      "ptTargets": [
+        "Pléiade"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La Pléiade est un groupe de poètes.", "pt": "A Pléiade é um grupo de poetas." },
-        { "level": "A2-B1", "fr": "Ronsard faisait partie de la Pléiade.", "pt": "Ronsard fazia parte da Pléiade." },
-        { "level": "B2", "fr": "La Pléiade, que l'on étudie à l'école, a renouvelé la poésie.", "pt": "A Pléiade, que se estuda na escola, renovou a poesia." },
-        { "level": "C1-C2", "fr": "La Pléiade, constellation de mots, a fixé le français au firmament.", "pt": "A Pléiade, constelação de palavras, fixou o francês no firmamento." }
+        {
+          "level": "A1",
+          "fr": "La Pléiade est un groupe de poètes.",
+          "pt": "A Pléiade é um grupo de poetas."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Ronsard faisait partie de la Pléiade.",
+          "pt": "Ronsard fazia parte da Pléiade."
+        },
+        {
+          "level": "B2",
+          "fr": "La Pléiade, que l'on étudie à l'école, a renouvelé la poésie.",
+          "pt": "A Pléiade, que se estuda na escola, renovou a poesia."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "La Pléiade, constellation de mots, a fixé le français au firmament.",
+          "pt": "A Pléiade, constelação de palavras, fixou o francês no firmamento."
+        }
       ]
     },
     {
       "term": "la muse",
       "definitionPt": "a musa",
       "definitionFr": "Femme qui inspire un artiste.",
-      "inflections": ["la muse", "une muse", "des muses"],
-      "ptTargets": ["musa"],
+      "inflections": [
+        "la muse",
+        "une muse",
+        "des muses"
+      ],
+      "ptTargets": [
+        "musa"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La muse inspire le poète.", "pt": "A musa inspira o poeta." },
-        { "level": "A2-B1", "fr": "Ronsard écrivait pour ses muses.", "pt": "Ronsard escrevia para suas musas." },
-        { "level": "B2", "fr": "La muse qui inspire ces vers est la Loire.", "pt": "A musa que inspira estes versos é o Loire." },
-        { "level": "C1-C2", "fr": "La muse, étincelle invisible, transforme l'émotion en poème.", "pt": "A musa, faísca invisível, transforma a emoção em poema." }
+        {
+          "level": "A1",
+          "fr": "La muse inspire le poète.",
+          "pt": "A musa inspira o poeta."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Ronsard écrivait pour ses muses.",
+          "pt": "Ronsard escrevia para suas musas."
+        },
+        {
+          "level": "B2",
+          "fr": "La muse qui inspire ces vers est la Loire.",
+          "pt": "A musa que inspira estes versos é o Loire."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "La muse, étincelle invisible, transforme l'émotion en poème.",
+          "pt": "A musa, faísca invisível, transforma a emoção em poema."
+        }
       ]
     },
     {
       "term": "latin",
       "definitionPt": "latim",
       "definitionFr": "Langue ancienne de Rome.",
-      "inflections": ["latin", "latine", "latin", "latins"],
-      "ptTargets": ["latim"],
+      "inflections": [
+        "latin",
+        "latine",
+        "latin",
+        "latins"
+      ],
+      "ptTargets": [
+        "latim"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le latin est ancien.", "pt": "O latim é antigo." },
-        { "level": "A2-B1", "fr": "Avant, on écrivait surtout en latin.", "pt": "Antes, escrevia-se sobretudo em latim." },
-        { "level": "B2", "fr": "La langue que la Pléiade a choisie est le français, pas le latin.", "pt": "A língua que a Pléiade escolheu é o francês, não o latim." },
-        { "level": "C1-C2", "fr": "Le latin, langue-mère, a cédé la plume à ses enfants modernes.", "pt": "O latim, língua-mãe, cedeu a pena aos filhos modernos." }
+        {
+          "level": "A1",
+          "fr": "Le latin est ancien.",
+          "pt": "O latim é antigo."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Avant, on écrivait surtout en latin.",
+          "pt": "Antes, escrevia-se sobretudo em latim."
+        },
+        {
+          "level": "B2",
+          "fr": "La langue que la Pléiade a choisie est le français, pas le latin.",
+          "pt": "A língua que a Pléiade escolheu é o francês, não o latim."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Le latin, langue-mère, a cédé la plume à ses enfants modernes.",
+          "pt": "O latim, língua-mãe, cedeu a pena aos filhos modernos."
+        }
       ]
     },
     {
       "term": "la beauté",
       "definitionPt": "a beleza",
       "definitionFr": "Qualité de ce qui est beau.",
-      "inflections": ["la beauté", "une beauté", "des beautés"],
-      "ptTargets": ["beleza"],
+      "inflections": [
+        "la beauté",
+        "une beauté",
+        "des beautés"
+      ],
+      "ptTargets": [
+        "beleza"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La beauté est partout.", "pt": "A beleza está em toda parte." },
-        { "level": "A2-B1", "fr": "Le poète dit la beauté.", "pt": "O poeta diz a beleza." },
-        { "level": "B2", "fr": "La beauté que l'on voit ici est dans les mots.", "pt": "A beleza que se vê aqui está nas palavras." },
-        { "level": "C1-C2", "fr": "La beauté, fugitive éternelle, se laisse attraper par les poètes.", "pt": "A beleza, fugitiva eterna, deixa-se capturar pelos poetas." }
+        {
+          "level": "A1",
+          "fr": "La beauté est partout.",
+          "pt": "A beleza está em toda parte."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Le poète dit la beauté.",
+          "pt": "O poeta diz a beleza."
+        },
+        {
+          "level": "B2",
+          "fr": "La beauté que l'on voit ici est dans les mots.",
+          "pt": "A beleza que se vê aqui está nas palavras."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "La beauté, fugitive éternelle, se laisse attraper par les poètes.",
+          "pt": "A beleza, fugitiva eterna, deixa-se capturar pelos poetas."
+        }
       ]
     },
     {
       "term": "chanter",
       "definitionPt": "cantar",
       "definitionFr": "Faire de la musique avec la voix.",
-      "inflections": ["je chante", "tu chantes", "il chante", "nous chantons"],
-      "ptTargets": ["cantar"],
+      "inflections": [
+        "je chante",
+        "tu chantes",
+        "il chante",
+        "nous chantons"
+      ],
+      "ptTargets": [
+        "cantar"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Je chante une chanson.", "pt": "Eu canto uma canção." },
-        { "level": "A2-B1", "fr": "Les mots dansent et chantent dans le poème.", "pt": "As palavras dançam e cantam no poema." },
-        { "level": "B2", "fr": "Le poème que Ronsard a écrit chante la rose.", "pt": "O poema que Ronsard escreveu canta a rosa." },
-        { "level": "C1-C2", "fr": "Chanter, c'est offrir aux mots une musique que la page ne peut pas contenir.", "pt": "Cantar é oferecer às palavras uma música que a página não pode conter." }
+        {
+          "level": "A1",
+          "fr": "Je chante une chanson.",
+          "pt": "Eu canto uma canção."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Les mots dansent et chantent dans le poème.",
+          "pt": "As palavras dançam e cantam no poema."
+        },
+        {
+          "level": "B2",
+          "fr": "Le poème que Ronsard a écrit chante la rose.",
+          "pt": "O poema que Ronsard escreveu canta a rosa."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Chanter, c'est offrir aux mots une musique que la page ne peut pas contenir.",
+          "pt": "Cantar é oferecer às palavras uma música que a página não pode conter."
+        }
       ]
     },
     {
       "term": "l'adresse",
       "definitionPt": "o endereço",
       "definitionFr": "Indication du lieu d'une maison.",
-      "inflections": ["l'adresse", "une adresse", "des adresses"],
-      "ptTargets": ["endereço"],
+      "inflections": [
+        "l'adresse",
+        "une adresse",
+        "des adresses"
+      ],
+      "ptTargets": [
+        "endereço"
+      ],
       "examples": [
-        { "level": "A1", "fr": "L'adresse est courte.", "pt": "O endereço é curto." },
-        { "level": "A2-B1", "fr": "Le livreur lit les adresses.", "pt": "O entregador lê os endereços." },
-        { "level": "B2", "fr": "Les adresses que le livreur connaissait étaient nombreuses.", "pt": "Os endereços que o entregador conhecia eram numerosos." },
-        { "level": "C1-C2", "fr": "L'adresse, mot de passe du quotidien, ouvrait les portes au livreur.", "pt": "O endereço, senha do cotidiano, abria as portas ao entregador." }
+        {
+          "level": "A1",
+          "fr": "L'adresse est courte.",
+          "pt": "O endereço é curto."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Le livreur lit les adresses.",
+          "pt": "O entregador lê os endereços."
+        },
+        {
+          "level": "B2",
+          "fr": "Les adresses que le livreur connaissait étaient nombreuses.",
+          "pt": "Os endereços que o entregador conhecia eram numerosos."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "L'adresse, mot de passe du quotidien, ouvrait les portes au livreur.",
+          "pt": "O endereço, senha do cotidiano, abria as portas ao entregador."
+        }
       ]
     },
     {
       "term": "la langue",
       "definitionPt": "a língua",
       "definitionFr": "Moyen de communication parlé.",
-      "inflections": ["la langue", "une langue", "des langues"],
-      "ptTargets": ["língua"],
+      "inflections": [
+        "la langue",
+        "une langue",
+        "des langues"
+      ],
+      "ptTargets": [
+        "língua"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La langue est belle.", "pt": "A língua é bonita." },
-        { "level": "A2-B1", "fr": "Iris apprend la langue française.", "pt": "Íris aprende a língua francesa." },
-        { "level": "B2", "fr": "La langue que les poètes ont enrichie est vivante.", "pt": "A língua que os poetas enriqueceram é viva." },
-        { "level": "C1-C2", "fr": "La langue, maison des pensées, se construit poète après poète.", "pt": "A língua, casa dos pensamentos, constrói-se poeta após poeta." }
+        {
+          "level": "A1",
+          "fr": "La langue est belle.",
+          "pt": "A língua é bonita."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Irlan apprend la langue française.",
+          "pt": "Irlan aprende a língua francesa."
+        },
+        {
+          "level": "B2",
+          "fr": "La langue que les poètes ont enrichie est vivante.",
+          "pt": "A língua que os poetas enriqueceram é viva."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "La langue, maison des pensées, se construit poète après poète.",
+          "pt": "A língua, casa dos pensamentos, constrói-se poeta após poeta."
+        }
       ]
     }
   ],
@@ -198,8 +478,8 @@
     "titlePt": "O adjetivo qualificativo e a expressão de admiração",
     "points": [
       {
-        "fr": "L'admiration : « C'est beau ! », « Que c'est beau ! », « Quelle beauté ! ». Exemple : « C'est beau, papa. Les mots dansent. »",
-        "pt": "A admiração: « C'est beau ! » (É bonito!), « Que c'est beau ! » (Como é bonito!), « Quelle beauté ! » (Que beleza!). Exemplo: « É bonito, papai. As palavras dançam. »"
+        "fr": "L'admiration : « C'est beau ! », « Que c'est beau ! », « Quelle beauté ! ». Exemple : « C'est beau. Les mots dansent. »",
+        "pt": "A admiração: « C'est beau ! » (É bonito!), « Que c'est beau ! » (Como é bonito!), « Quelle beauté ! » (Que beleza!). Exemplo: « É bonito. As palavras dançam. »"
       },
       {
         "fr": "Le passé simple des verbes de la poésie (langue soutenue) : « il écrivit, ils décidèrent, elle naquit ». Exemple : « Ronsard naquit près de Tours. »",
@@ -210,27 +490,52 @@
   "quizQuestions": [
     {
       "question": "Où Ronsard est-il né ?",
-      "options": ["Près de Tours", "À Paris", "À Lyon", "En Italie"],
+      "options": [
+        "Près de Tours",
+        "À Paris",
+        "À Lyon",
+        "En Italie"
+      ],
       "correctIndex": 0
     },
     {
       "question": "Comment s'appelle le groupe de poètes de Ronsard ?",
-      "options": ["La Pléiade", "Les Romantiques", "Le Cénacle", "Les Symbolistes"],
+      "options": [
+        "La Pléiade",
+        "Les Romantiques",
+        "Le Cénacle",
+        "Les Symbolistes"
+      ],
       "correctIndex": 0
     },
     {
       "question": "Dans quelle langue les poètes ont-ils décidé d'écrire ?",
-      "options": ["Le français", "Le latin", "Le grec", "L'anglais"],
+      "options": [
+        "Le français",
+        "Le latin",
+        "Le grec",
+        "L'anglais"
+      ],
       "correctIndex": 0
     },
     {
       "question": "Quel poème Irlan a-t-il lu ?",
-      "options": ["« Mignonne, allons voir si la rose »", "« Demain dès l'aube »", "« Le lac »", "« Les chats »"],
+      "options": [
+        "« Mignonne, allons voir si la rose »",
+        "« Demain dès l'aube »",
+        "« Le lac »",
+        "« Les chats »"
+      ],
       "correctIndex": 0
     },
     {
       "question": "Quels mots Irlan voyait-il quand il était livreur ?",
-      "options": ["Des adresses", "Des poèmes", "Des romans", "Des lettres d'amour"],
+      "options": [
+        "Des adresses",
+        "Des poèmes",
+        "Des romans",
+        "Des lettres d'amour"
+      ],
       "correctIndex": 0
     }
   ]

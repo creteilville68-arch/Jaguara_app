@@ -11,28 +11,38 @@
   "paragraphs": [
     {
       "id": 1,
-      "fr": "« C'est le dernier matin que nous voyons la basilique », dit Irlan. La famille refit le chemin de Fourvière une dernière fois. « Il est incroyable que six mois soient passés si vite », ajouta Andréa.",
-      "pt": "« É a última manhã em que vemos a basílica », disse Irlan. A família refez o caminho de Fourvière uma última vez. « É incrível que seis meses tenham passado tão rápido », acrescentou Andréa."
+      "fr": "« C'est le dernier matin que nous voyons la basilique », dit Irlan. Le couple refit le chemin de Fourvière une dernière fois. « Il est incroyable que six mois soient passés si vite », ajouta Andréa.",
+      "pt": "« É a última manhã em que vemos a basílica », disse Irlan. O casal refez o caminho de Fourvière uma última vez. « É incrível que seis meses tenham passado tão rápido », acrescentou Andréa."
     },
     {
       "id": 2,
-      "fr": "Dans un bouchon, la patronne demanda si la famille reviendrait un jour. Irlan répondit qu'ils reviendraient, et que Lyon serait toujours leur deuxième maison. « Si nous n'étions pas venus, nous n'aurions jamais connu tout ça », murmura-t-il.",
-      "pt": "Num bouchon, a dona perguntou se a família voltaria um dia. Irlan respondeu que eles voltariam, e que Lyon seria sempre a segunda casa deles. « Se não tivéssemos vindo, nunca teríamos conhecido tudo isso », murmurou ele."
+      "fr": "Dans un bouchon, la patronne demanda si le couple reviendrait un jour. Irlan répondit qu'ils reviendraient, et que Lyon serait toujours leur deuxième maison. « Si nous n'étions pas venus, nous n'aurions jamais connu tout ça », murmura-t-il.",
+      "pt": "Num bouchon, a dona perguntou se o casal voltaria um dia. Irlan respondeu que eles voltariam, e que Lyon seria sempre a segunda casa deles. « Se não tivéssemos vindo, nunca teríamos conhecido tudo isso », murmurou ele."
     },
     {
       "id": 3,
-      "fr": "Sur les berges, Íris fit un dernier tour de vélo. « C'est la plus belle ville du monde après São Paulo ! » cria-t-elle. Andréa répondit qu'elle était d'accord, même si São Paulo n'avait pas de Saône.",
-      "pt": "Nas margens, Íris deu uma última volta de bicicleta. « É a cidade mais bonita do mundo depois de São Paulo! » gritou ela. Andréa respondeu que concordava, mesmo que São Paulo não tivesse um Saône."
+      "fr": "Sur les berges, Andréa fit un dernier tour de vélo. « C'est la plus belle ville du monde après São Paulo ! » cria-t-elle. Irlan répondit qu'il était d'accord, même si São Paulo n'avait pas de Saône.",
+      "pt": "Nas margens, Andréa deu uma última volta de bicicleta. « É a cidade mais bonita do mundo depois de São Paulo! » gritou ela. Irlan respondeu que concordava, mesmo que São Paulo não tivesse um Saône."
     },
     {
       "id": 4,
-      "fr": "Le soir, la famille monta sur la colline pour voir la ville s'illuminer. « Il est émouvant que nous ayons été accueillis ici », dit Irlan. Andréa prit sa main : « C'est ici que nous avons construit notre vie. »",
-      "pt": "À noite, a família subiu à colina para ver a cidade se iluminar. « É emocionante que tenhamos sido acolhidos aqui », disse Irlan. Andréa pegou a mão dele: « Foi aqui que construímos nossa vida. »"
+      "fr": "Le soir, le couple monta sur la colline pour voir la ville s'illuminer. « Il est émouvant que nous ayons été accueillis ici », dit Irlan. Andréa prit sa main : « C'est ici que nous avons construit notre vie. »",
+      "pt": "À noite, o casal subiu à colina para ver a cidade se iluminar. « É emocionante que tenhamos sido acolhidos aqui », disse Irlan. Andréa pegou a mão dele: « Foi aqui que construímos nossa vida. »"
     },
     {
       "id": 5,
       "fr": "Irlan écrivit : « Demain, le TGV nous emportera vers la mer. Mais je laisse ici une partie de moi : sur la colline, dans les traboules, dans le rire de Guignol. Lyon ne se quitte pas. Elle se garde. Et c'est elle qui me garde aussi. »",
       "pt": "Irlan escreveu: « Amanhã, o TGV nos levará para o mar. Mas deixo aqui uma parte de mim: na colina, nas traboules, no riso de Guignol. Lyon não se deixa. Ela se guarda. E é ela que também me guarda. »"
+    },
+    {
+      "id": 6,
+      "fr": "Pour clôturer leur séjour, Irlan a récapitulé les indices dans une synthèse concise. Andréa a tenté de dénouer la dernière contradiction avant de quitter la ville.",
+      "pt": "Para encerrar a estadia, Irlan recapitulou as pistas em uma síntese concisa. Andréa tentou desfazer a última contradição antes de deixar a cidade."
+    },
+    {
+      "id": 7,
+      "fr": "Ils ont fait part de leur gratitude à une personne qui les avait renseignés. L'ultime message a renforcé leur détermination : à Marseille, une nouvelle piste les attendait.",
+      "pt": "Eles comunicaram sua gratidão a uma pessoa que lhes havia dado informações. A última mensagem reforçou a determinação deles: em Marseille, uma nova pista os esperava."
     }
   ],
   "vocabularyDictionary": [
@@ -110,7 +120,7 @@
       "examples": [
         { "level": "A1", "fr": "La mer est bleue.", "pt": "O mar é azul." },
         { "level": "A2-B1", "fr": "Marseille est au bord de la mer.", "pt": "Marseille fica à beira-mar." },
-        { "level": "B2", "fr": "La mer, attendue par Íris, promet de nouveaux rêves.", "pt": "O mar, esperado por Íris, promete novos sonhos." },
+        { "level": "B2", "fr": "La mer, attendue par Andréa, promet de nouveaux rêves.", "pt": "O mar, esperado por Andréa, promete novos sonhos." },
         { "level": "C1-C2", "fr": "C'est la mer qui ouvre l'horizon des villes.", "pt": "É o mar que abre o horizonte das cidades." }
       ]
     },
@@ -230,7 +240,7 @@
       "explanation": "Futuro vira condicional no discurso indireto."
     },
     {
-      "question": "O que Íris disse sobre Lyon?",
+      "question": "O que Andréa disse sobre Lyon?",
       "options": ["Que é a cidade mais bonita do mundo depois de São Paulo", "Que é pequena", "Que prefere Paris"],
       "correctIndex": 0,
       "explanation": "No texto: 'C'est la plus belle ville du monde après São Paulo !'"

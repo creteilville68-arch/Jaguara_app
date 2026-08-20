@@ -7,7 +7,7 @@
   "titlePt": "O aeroporto Marseille-Provence: a porta do céu",
   "subtitleFr": "Le discours indirect et le subjonctif : les départs racontés",
   "subtitlePt": "O discurso indireto e o subjuntivo: as partidas contadas",
-  "summaryPt": "Em Marignane, a noroeste de Marseille, o aeroporto Marseille-Provence liga a cidade ao mundo. Nesta aula C1, Irlan leva a família para receber um amigo brasileiro e reflete sobre todas as chegadas que mudaram a história de Marseille.",
+  "summaryPt": "Em Marignane, a noroeste de Marseille, o aeroporto Marseille-Provence liga a cidade ao mundo. Nesta aula C1, o casal vai receber Ricardo, um amigo geógrafo vindo do Brasil, e reflete sobre todas as chegadas que mudaram a história de Marseille.",
   "paragraphs": [
     {
       "id": 1,
@@ -16,8 +16,8 @@
     },
     {
       "id": 2,
-      "fr": "La famille attendait Ricardo, un ami géographe venu du Brésil. « Il paraît qu'il a pris deux avions et traversé l'Atlantique », dit Andréa. Íris tenait une pancarte : « Bienvenue, Ricardo ! »",
-      "pt": "A família esperava Ricardo, um amigo geógrafo vindo do Brasil. « Dizem que ele pegou dois aviões e atravessou o Atlântico », disse Andréa. Íris segurava uma faixa: « Bem-vindo, Ricardo! »"
+      "fr": "Le couple attendait Ricardo, un ami géographe venu du Brésil. « Il paraît qu'il a pris deux avions et traversé l'Atlantique », dit Andréa. Andréa tenait une pancarte : « Bienvenue, Ricardo ! »",
+      "pt": "O casal esperava Ricardo, um amigo geógrafo vindo do Brasil. « Dizem que ele pegou dois aviões e atravessou o Atlântico », disse Andréa. Andréa segurava uma faixa: « Bem-vindo, Ricardo! »"
     },
     {
       "id": 3,
@@ -109,7 +109,7 @@
       "ptTargets": ["faixa", "cartaz", "faixas"],
       "examples": [
         { "level": "A1", "fr": "La pancarte est grande.", "pt": "A faixa é grande." },
-        { "level": "A2-B1", "fr": "Íris tient une pancarte.", "pt": "Íris segura uma faixa." },
+        { "level": "A2-B1", "fr": "Andréa tient une pancarte.", "pt": "Andréa segura uma faixa." },
         { "level": "B2", "fr": "Les pancartes, levées au-dessus des têtes, guident les voyageurs.", "pt": "As faixas, erguidas acima das cabeças, guiam os viajantes." },
         { "level": "C1-C2", "fr": "C'est la pancarte qui rend les retrouvailles visibles.", "pt": "É a faixa que torna os reencontros visíveis." }
       ]
@@ -236,8 +236,8 @@
       "explanation": "No texto: 'l'aéroport a été ouvert en 1922'."
     },
     {
-      "question": "Quem a família foi receber no aeroporto?",
-      "options": ["Ricardo, um amigo geógrafo do Brasil", "A avó de Andréa", "Um colega de Irlan"],
+      "question": "Quem o casal foi receber no aeroporto?",
+      "options": ["Ricardo, um amigo geógrafo do Brasil", "Uma colega de Andréa", "Um colega de Irlan"],
       "correctIndex": 0,
       "explanation": "No texto: 'un ami géographe venu du Brésil'."
     },

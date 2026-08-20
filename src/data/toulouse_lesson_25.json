@@ -11,8 +11,8 @@
   "paragraphs": [
     {
       "id": 1,
-      "fr": "« À Toulouse, pas besoin de conducteur dans le métro », annonça Irlan à Íris. « Le VAL, c'est le premier métro automatique de France. On y entre, et la rame part toute seule. » Íris, sceptique, monta avec prudence.",
-      "pt": "« Em Toulouse, não precisa de condutor no metrô », anunciou Irlan a Íris. « O VAL é o primeiro metrô automático da França. Entra-se nele, e o trem parte sozinho. » Íris, cética, subiu com prudência."
+      "fr": "« À Toulouse, pas besoin de conducteur dans le métro », annonça Irlan à Andréa. « Le VAL, c'est le premier métro automatique de France. On y entre, et la rame part toute seule. » Andréa, sceptique, monta avec prudence.",
+      "pt": "« Em Toulouse, não precisa de condutor no metrô », anunciou Irlan a Andréa. « O VAL é o primeiro metrô automático da França. Entra-se nele, e o trem parte sozinho. » Andréa, cética, subiu com prudência."
     },
     {
       "id": 2,
@@ -21,18 +21,28 @@
     },
     {
       "id": 3,
-      "fr": "Le lendemain, pour traverser la Garonne, la famille prit Téléo, le téléphérique urbain. « En trois minutes, on passe d'une rive à l'autre, dit Andréa. On y voit toute la ville d'en haut. »",
-      "pt": "No dia seguinte, para atravessar o Garona, a família pegou o Téléo, o teleférico urbano. « Em três minutos, passamos de uma margem a outra, disse Andréa. Vê-se dele toda a cidade lá de cima. »"
+      "fr": "Le lendemain, pour traverser la Garonne, le couple prit Téléo, le téléphérique urbain. « En trois minutes, on passe d'une rive à l'autre, dit Andréa. On y voit toute la ville d'en haut. »",
+      "pt": "No dia seguinte, para atravessar o Garona, o casal pegou o Téléo, o teleférico urbano. « Em três minutos, passamos de uma margem a outra, disse Andréa. Vê-se dele toda a cidade lá de cima. »"
     },
     {
       "id": 4,
-      "fr": "Dans la cabine transparente, Íris colla son nez à la vitre. « Les gens qui ont construit ça, ils ont dû s'amuser ! » Irlan sourit : « Ils y ont surtout travaillé, ma puce. Trois ans de chantier et des centaines d'ingénieurs. »",
-      "pt": "Na cabine transparente, Íris colou o nariz no vidro. « Quem construiu isso deve ter se divertido! » Irlan sorriu: « Eles trabalharam bastante nisso, filhinha. Três anos de obra e centenas de engenheiros. »"
+      "fr": "Dans la cabine transparente, Andréa colla son nez à la vitre. « Les gens qui ont construit ça, ils ont dû s'amuser ! » Irlan sourit : « Ils y ont surtout travaillé. Trois ans de chantier et des centaines d'ingénieurs. »",
+      "pt": "Na cabine transparente, Andréa colou o nariz no vidro. « Quem construiu isso deve ter se divertido! » Irlan sorriu: « Eles trabalharam bastante nisso. Três anos de obra e centenas de engenheiros. »"
     },
     {
       "id": 5,
       "fr": "Le soir, Irlan nota : « Le VAL et Téléo : une ville qui invente ses déplacements. À Toulouse, j'ai appris que la modernité peut être douce — pourvu qu'on y monte avec confiance. »",
       "pt": "À noite, Irlan anotou: « O VAL e o Téléo: uma cidade que inventa seus deslocamentos. Em Toulouse, aprendi que a modernidade pode ser suave — desde que a gente suba nela com confiança. »"
+    },
+    {
+      "id": 6,
+      "fr": "Depuis la cabine, Andréa observait la ville évoluer sous leurs pieds. Le téléphérique offrait un accès direct à un quartier éloigné, tandis que l'infrastructure restait accessible et sécurisée.",
+      "pt": "Da cabine, Andréa observava a cidade evoluir sob seus pés. O teleférico oferecia acesso direto a um bairro distante, enquanto a infraestrutura continuava acessível e segura."
+    },
+    {
+      "id": 7,
+      "fr": "Irlan a noté la trajectoire et l'altitude approximative. Cette mobilité nouvelle pouvait contribuer à désenclaver le territoire, à condition de maintenir un service régulier.",
+      "pt": "Irlan anotou a trajetória e a altitude aproximada. Essa nova mobilidade podia contribuir para integrar o território, desde que se mantivesse um serviço regular."
     }
   ],
   "vocabularyDictionary": [
@@ -135,8 +145,8 @@
       "ptTargets": ["vidro", "vidros"],
       "examples": [
         { "level": "A1", "fr": "La vitre est propre.", "pt": "O vidro está limpo." },
-        { "level": "A2-B1", "fr": "Íris colle son nez à la vitre.", "pt": "Íris cola o nariz no vidro." },
-        { "level": "B2", "fr": "Íris colla son nez à la vitre de la cabine.", "pt": "Íris colou o nariz no vidro da cabine." },
+        { "level": "A2-B1", "fr": "Andréa colle son nez à la vitre.", "pt": "Andréa cola o nariz no vidro." },
+        { "level": "B2", "fr": "Andréa colla son nez à la vitre de la cabine.", "pt": "Andréa colou o nariz no vidro da cabine." },
         { "level": "C1-C2", "fr": "Derrière la vitre, la ville se déroule comme un film muet.", "pt": "Atrás do vidro, a cidade se desenrola como um filme mudo." }
       ]
     },
@@ -161,8 +171,8 @@
       "ptTargets": ["tobogã"],
       "examples": [
         { "level": "A1", "fr": "Le toboggan est amusant.", "pt": "O tobogã é divertido." },
-        { "level": "A2-B1", "fr": "Íris joue sur le toboggan.", "pt": "Íris brinca no tobogã." },
-        { "level": "B2", "fr": "« C'est comme un grand toboggan, mais sous la terre ! » s'exclama Íris.", "pt": "« É como um grande tobogã, mas debaixo da terra! » exclamou Íris." },
+        { "level": "A2-B1", "fr": "Andréa joue sur le toboggan.", "pt": "Andréa brinca no tobogã." },
+        { "level": "B2", "fr": "« C'est comme un grand toboggan, mais sous la terre ! » s'exclama Andréa.", "pt": "« É como um grande tobogã, mas debaixo da terra! » exclamou Andréa." },
         { "level": "C1-C2", "fr": "La métaphore du toboggan dit l'émerveillement enfantin devant la vitesse moderne.", "pt": "A metáfora do tobogã diz o encantamento infantil diante da velocidade moderna." }
       ]
     },
@@ -248,7 +258,7 @@
       "explanation": "Y substitui 'dans la cabine' (lugar): 'On y monte'."
     },
     {
-      "question": "O que Íris disse sobre o metrô?",
+      "question": "O que Andréa disse sobre o metrô?",
       "options": ["É como um grande tobogã debaixo da terra", "É muito barulhento", "É parecido com o ônibus"],
       "correctIndex": 0,
       "explanation": "No texto: 'C'est comme un grand toboggan, mais sous la terre !'"

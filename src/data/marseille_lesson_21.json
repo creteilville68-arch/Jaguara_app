@@ -7,7 +7,7 @@
   "titlePt": "O cours Julien: o bairro dos artistas",
   "subtitleFr": "L'opposition et le subjonctif : la rue qui crée",
   "subtitlePt": "A oposição e o subjuntivo: a rua que cria",
-  "summaryPt": "O cours Julien é o bairro criativo de Marseille: murais, ateliês, discotecas e cafés. Nesta aula C1, a família passeia pela rua mais colorida da cidade e combina concessão (bien que, malgré) e subjonctif (il faut que, pour que) no universo da arte urbana.",
+  "summaryPt": "O cours Julien é o bairro criativo de Marseille: murais, ateliês, discotecas e cafés. Nesta aula C1, o casal passeia pela rua mais colorida da cidade e combina concessão (bien que, malgré) e subjonctif (il faut que, pour que) no universo da arte urbana.",
   "paragraphs": [
     {
       "id": 1,
@@ -26,8 +26,8 @@
     },
     {
       "id": 4,
-      "fr": "Dans une cour, des enfants peignaient. « Il est important que les enfants aient accès à l'art », dit l'animatrice. Íris, un pinceau à la main, ajouta sa petite touche au grand mur collectif.",
-      "pt": "Num pátio, crianças pintavam. « É importante que as crianças tenham acesso à arte », disse a animadora. Íris, com um pincel na mão, acrescentou seu toquinho ao grande muro coletivo."
+      "fr": "Dans une cour, des enfants peignaient. « Il est important que les enfants aient accès à l'art », dit l'animatrice. Andréa, un pinceau à la main, ajouta sa petite touche au grand mur collectif.",
+      "pt": "Num pátio, crianças pintavam. « É importante que as crianças tenham acesso à arte », disse a animadora. Andréa, com um pincel na mão, acrescentou seu toquinho ao grande muro coletivo."
     },
     {
       "id": 5,
@@ -109,7 +109,7 @@
       "ptTargets": ["pincel", "pincéis"],
       "examples": [
         { "level": "A1", "fr": "Le pinceau est fin.", "pt": "O pincel é fino." },
-        { "level": "A2-B1", "fr": "Íris tient un pinceau à la main.", "pt": "Íris segura um pincel na mão." },
+        { "level": "A2-B1", "fr": "Andréa tient un pinceau à la main.", "pt": "Andréa segura um pincel na mão." },
         { "level": "B2", "fr": "Les pinceaux, alignés, attendent la main de l'artiste.", "pt": "Os pincéis, alinhados, esperam a mão do artista." },
         { "level": "C1-C2", "fr": "C'est le pinceau qui donne aux couleurs leur mouvement.", "pt": "É o pincel que dá às cores seu movimento." }
       ]
@@ -248,10 +248,10 @@
       "explanation": "Il est important que + subjonctif: 'aient'."
     },
     {
-      "question": "O que Íris fez no pátio?",
+      "question": "O que Andréa fez no pátio?",
       "options": ["Acrescentou seu toque no muro coletivo", "Comprou uma tela", "Limpou o pincel"],
       "correctIndex": 0,
-      "explanation": "No texto: 'Íris ajouta sa petite touche au grand mur collectif'."
+      "explanation": "No texto: 'Andréa ajouta sa petite touche au grand mur collectif'."
     }
   ]
 }

@@ -7,7 +7,7 @@
   "titlePt": "Os Chartrons: o bairro dos negociantes",
   "subtitleFr": "La mémoire du commerce du vin, entre entrepôts et hôtels particuliers",
   "subtitlePt": "A memória do comércio do vinho, entre armazéns e palacetes",
-  "summaryPt": "Nesta Aula 6 (B1+), a família descobre o quartier des Chartrons, onde os negociantes de vinho construíram sua riqueza. Enquanto caminha, Irlan conta a história do comércio com a Inglaterra. O aluno aprofunda o Gérondif e o Participe Présent em descrições: 'en racontant', 'en descendant vers le fleuve'.",
+  "summaryPt": "Nesta Aula 6 (B1+), o casal descobre o quartier des Chartrons, onde os negociantes de vinho construíram sua riqueza. Enquanto caminha, Irlan conta a história do comércio com a Inglaterra — e lembra que, dali, os barcos partiam para o mundo. O aluno aprofunda o Gérondif e o Participe Présent em descrições: 'en racontant', 'en descendant vers le fleuve'.",
   "paragraphs": [
     {
       "id": 1,
@@ -26,8 +26,23 @@
     },
     {
       "id": 4,
-      "fr": "En rentrant à l'hôtel, Iris a dessiné des barriques. « Moi, je serai négociante de canelés ! » a-t-elle annoncé. Tout le monde a ri, en imaginant la boutique.",
-      "pt": "Voltando ao hotel, Íris desenhou barris. « Eu, serei negociante de canelés! » anunciou ela. Todos riram, imaginando a loja."
+      "fr": "En rentrant, Andréa a dessiné des barriques dans son carnet. « Moi, je serai négociante de canelés ! » a-t-elle plaisanté. Irlan a ri, en imaginant l'étiquette.",
+      "pt": "Voltando, Andréa desenhou barris no caderno dela. « Eu, serei negociante de canelés! » brincou ela. Irlan riu, imaginando o rótulo."
+    }
+    ,{
+      "id": 5,
+      "fr": "Dans les Chartrons, Irlan enquête sur les anciens négociants. Il consulte une brochure au bureau d'accueil.",
+      "pt": "Nos Chartrons, Irlan investiga os antigos negociantes. Ele consulta um folheto na recepção."
+    },
+    {
+      "id": 6,
+      "fr": "Andréa observe une garde-robe volumineuse dans une boutique. La concierge leur explique que l'immeuble est une copropriété.",
+      "pt": "Andréa observa um guarda-roupa volumoso em uma loja. A zeladora lhes explica que o prédio é um condomínio."
+    },
+    {
+      "id": 7,
+      "fr": "Une rumeur accuse les négociants d'être avares. Irlan refuse de juger : il veut vérifier les faits avant de conclure.",
+      "pt": "Um boato acusa os negociantes de serem avarentos. Irlan se recusa a julgar: quer verificar os fatos antes de concluir."
     }
   ],
   "vocabularyDictionary": [
@@ -243,10 +258,10 @@
       "explanation": "Gérondif: en remontant."
     },
     {
-      "question": "O que Íris quer ser quando crescer?",
+      "question": "O que Andréa diz que quer ser, de brincadeira?",
       "options": ["negociante de canelés", "piloto", "professora"],
       "correctIndex": 0,
-      "explanation": "Íris anuncia: « Je serai négociante de canelés ! »"
+      "explanation": "Andréa anuncia, em tom de brincadeira: « Je serai négociante de canelés ! »"
     }
   ]
 }

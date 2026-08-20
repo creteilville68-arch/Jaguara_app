@@ -7,12 +7,12 @@
   "titlePt": "Adeus, Mont Saint-Michel: partida para Tours",
   "subtitleFr": "Le train s'éloigne, la baie reste dans les cœurs",
   "subtitlePt": "O trem se afasta, a baía fica nos corações",
-  "summaryPt": "Nesta Aula 47 (A2/B1), a família deixa o Mont Saint-Michel de manhã, pega o trem em Pontorson e segue para Tours. É a aula de despedida e revisão: passé composé, imparfait, futur proche e o vocabulário de toda a estadia. A scooter de Irlan viaja no trem, pronta para a próxima aventura.",
+  "summaryPt": "Nesta Aula 47 (A2/B1), o casal deixa o Mont Saint-Michel de manhã, pega o trem em Pontorson e segue para Tours — a cidade revelada pelo coffret do gué. É a aula de despedida e revisão: passé composé, imparfait, futur proche e o vocabulário de toda a estadia. A scooter de Irlan viaja no trem, pronta para a próxima aventura.",
   "paragraphs": [
     {
       "id": 1,
-      "fr": "Le matin, la baie était calme et rose. « C'est le dernier matin », a dit Iris, un peu triste. La famille a fait ses adieux au Mont : une dernière photo, un dernier regard, un dernier silence.",
-      "pt": "De manhã, a baía estava calma e rosa. « É a última manhã », disse Íris, um pouco triste. A família se despediu do Mont: uma última foto, um último olhar, um último silêncio."
+      "fr": "Le matin, la baie était calme et rose. « C'est le dernier matin », a dit Andréa, un peu triste. Le couple a fait ses adieux au Mont : une dernière photo, un dernier regard, un dernier silence.",
+      "pt": "De manhã, a baía estava calma e rosa. « É a última manhã », disse Andréa, um pouco triste. O casal se despediu do Mont: uma última foto, um último olhar, um último silêncio."
     },
     {
       "id": 2,
@@ -21,18 +21,33 @@
     },
     {
       "id": 3,
-      "fr": "Dans le train, Iris a collé son nez à la fenêtre. Le Mont rapetissait derrière eux, petit à petit, jusqu'à devenir une image dans la brume. « Il nous regarde », a-t-elle murmuré.",
-      "pt": "No trem, Íris colou o nariz na janela. O Mont diminuía atrás deles, pouco a pouco, até se tornar uma imagem na bruma. « Ele está nos olhando », murmurou."
+      "fr": "Dans le train, Andréa a collé son nez à la fenêtre. Le Mont rapetissait derrière eux, petit à petit, jusqu'à devenir une image dans la brume. « Il nous regarde », a-t-elle murmuré.",
+      "pt": "No trem, Andréa colou o nariz na janela. O Mont diminuía atrás deles, pouco a pouco, até se tornar uma imagem na bruma. « Ele está nos olhando », murmurou."
     },
     {
       "id": 4,
-      "fr": "« On a vu des bouchots, des mouettes, des pèlerins, des marées », a compté Iris. « Et j'ai marché sur la mer ! » « Tu as marché sur le sable », a corrigé Andréa en riant. « Sur le sable de la mer », a insisté Iris.",
-      "pt": "« A gente viu bouchots, gaivotas, peregrinos, marés », contou Íris. « E eu andei sobre o mar! » « Você andou na areia », corrigiu Andréa rindo. « Na areia do mar », insistiu Íris."
+      "fr": "« On a vu des bouchots, des mouettes, des pèlerins, des marées », a compté Andréa. « Et nous avons traversé le gué ! » « Nous avons marché sur le chemin de Manoel », a corrigé Irlan en souriant. « Le chemin des pèlerins. »",
+      "pt": "« A gente viu bouchots, gaivotas, peregrinos, marés », contou Andréa. « E atravessamos o vau! » « Caminhamos no caminho de Manoel », corrigiu Irlan sorrindo. « O caminho dos peregrinos. »"
     },
     {
       "id": 5,
-      "fr": "Irlan a regardé sa famille et a pensé à ses premiers jours en France. « Je suis arrivé avec une scooter et zéro mot de français. Maintenant, j'ai mille mots et une famille. Le Mont m'a appris la patience. » Le train roulait vers Tours, vers une nouvelle aventure.",
-      "pt": "Irlan olhou para a família e pensou nos primeiros dias na França. « Cheguei com uma scooter e zero palavra de francês. Agora, tenho mil palavras e uma família. O Mont me ensinou a paciência. » O trem corria rumo a Tours, rumo a uma nova aventura."
+      "fr": "Irlan a regardé Andréa et a pensé à ses premiers jours en France. « Je suis arrivé avec une scooter et zéro mot de français. Maintenant, j'ai mille mots et une femme qui croit en moi. Le Mont m'a appris la patience. » Le train roulait vers Tours, vers une nouvelle aventure.",
+      "pt": "Irlan olhou para Andréa e pensou nos primeiros dias na França. « Cheguei com uma scooter e zero palavra de francês. Agora, tenho mil palavras e uma mulher que acredita em mim. O Mont me ensinou a paciência. » O trem corria rumo a Tours, rumo a uma nova aventura."
+    }
+    ,{
+      "id": 6,
+      "fr": "Au revoir, Mont Saint-Michel. Irlan libère la chambre et vérifie le billet de la voiture de train pour Tours.",
+      "pt": "Adeus, Mont Saint-Michel. Irlan desocupa o quarto e verifica o bilhete do vagão para Tours."
+    },
+    {
+      "id": 7,
+      "fr": "Andréa garde son calme malgré une averse. « Nous avons appris à économiser l'eau, à respecter la baie et à marcher ensemble », dit-elle.",
+      "pt": "Andréa mantém a calma apesar de um aguaceiro. Aprendemos a economizar água, respeitar a baía e caminhar juntos, diz ela."
+    },
+    {
+      "id": 8,
+      "fr": "Irlan écrit dans l'Atlas : « Le Mont m'a donné la patience. Tours sera la prochaine étape. » Le train part à l'heure.",
+      "pt": "Irlan escreve no Atlas: O Mont me deu paciência. Tours será a próxima etapa. O trem parte no horário."
     }
   ],
   "vocabularyDictionary": [
@@ -44,7 +59,7 @@
       "ptTargets": ["despedidas"],
       "examples": [
         { "level": "A1", "fr": "Les adieux sont tristes.", "pt": "As despedidas são tristes." },
-        { "level": "A2-B1", "fr": "La famille a fait ses adieux au Mont.", "pt": "A família se despediu do Mont." },
+        { "level": "A2-B1", "fr": "Le couple a fait ses adieux au Mont.", "pt": "O casal se despediu do Mont." },
         { "level": "B2", "fr": "Les adieux sur le quai ont duré longtemps.", "pt": "As despedidas na plataforma duraram muito." },
         { "level": "C1-C2", "fr": "Les adieux, moments d'or pur, valent tous les voyages.", "pt": "As despedidas, momentos de ouro puro, valem todas as viagens." }
       ]
@@ -69,7 +84,7 @@
       "inflections": ["la brume", "une brume", "des brumes"],
       "ptTargets": ["bruma", "nevoeiro"],
       "examples": [
-        { "level": "A1", "fr": "La brume est grise.", "pt": "A bruma é cinza." },
+        { "level": "A1", "fr": "La brume est épaisse ce matin.", "pt": "A neblina está densa esta manhã." },
         { "level": "A2-B1", "fr": "Le Mont a disparu dans la brume.", "pt": "O Mont desapareceu na bruma." },
         { "level": "B2", "fr": "La brume du matin couvrait la baie.", "pt": "A bruma da manhã cobria a baía." },
         { "level": "C1-C2", "fr": "La brume, voile de la baie, garde le Mont pour elle seule.", "pt": "A bruma, véu da baía, guarda o Mont só para si." }
@@ -83,7 +98,7 @@
       "ptTargets": ["plataforma", "cais"],
       "examples": [
         { "level": "A1", "fr": "Le train est au quai.", "pt": "O trem está na plataforma." },
-        { "level": "A2-B1", "fr": "La famille a attendu sur le quai.", "pt": "A família esperou na plataforma." },
+        { "level": "A2-B1", "fr": "Le couple a attendu sur le quai.", "pt": "O casal esperou na plataforma." },
         { "level": "B2", "fr": "Le quai était plein de voyageurs.", "pt": "A plataforma estava cheia de viajantes." },
         { "level": "C1-C2", "fr": "Le quai, scène des départs, voit les regards se chercher une dernière fois.", "pt": "A plataforma, palco das partidas, vê os olhares se procurarem uma última vez." }
       ]
@@ -96,7 +111,7 @@
       "ptTargets": ["janela"],
       "examples": [
         { "level": "A1", "fr": "La fenêtre du train est grande.", "pt": "A janela do trem é grande." },
-        { "level": "A2-B1", "fr": "Iris a collé son nez à la fenêtre.", "pt": "Íris colou o nariz na janela." },
+        { "level": "A2-B1", "fr": "Andréa a collé son nez à la fenêtre.", "pt": "Andréa colou o nariz na janela." },
         { "level": "B2", "fr": "Les paysages défilaient derrière la fenêtre.", "pt": "As paisagens desfilavam atrás da janela." },
         { "level": "C1-C2", "fr": "La fenêtre du train, cadre mouvant, découpe le paysage en tableaux.", "pt": "A janela do trem, moldura em movimento, recorta a paisagem em quadros." }
       ]
@@ -122,7 +137,7 @@
       "ptTargets": ["contar"],
       "examples": [
         { "level": "A1", "fr": "Je compte jusqu'à dix.", "pt": "Eu conto até dez." },
-        { "level": "A2-B1", "fr": "Iris a compté ce qu'elle a vu au Mont.", "pt": "Íris contou o que viu no Mont." },
+        { "level": "A2-B1", "fr": "Andréa a compté ce qu'elle a vu au Mont.", "pt": "Andréa contou o que viu no Mont." },
         { "level": "B2", "fr": "On compte les jours avant le départ.", "pt": "Contamos os dias antes da partida." },
         { "level": "C1-C2", "fr": "Compter les souvenirs ne sert à rien : ils sont infinis.", "pt": "Contar as lembranças não adianta: elas são infinitas." }
       ]
@@ -135,8 +150,8 @@
       "ptTargets": ["olhar"],
       "examples": [
         { "level": "A1", "fr": "Le regard est doux.", "pt": "O olhar é doce." },
-        { "level": "A2-B1", "fr": "La famille a jeté un dernier regard au Mont.", "pt": "A família lançou um último olhar ao Mont." },
-        { "level": "B2", "fr": "Le regard d'Iris brillait de souvenirs.", "pt": "O olhar de Íris brilhava de lembranças." },
+        { "level": "A2-B1", "fr": "Le couple a jeté un dernier regard au Mont.", "pt": "O casal lançou um último olhar ao Mont." },
+        { "level": "B2", "fr": "Le regard d'Andréa brillait de souvenirs.", "pt": "O olhar de Andréa brilhava de lembranças." },
         { "level": "C1-C2", "fr": "Le regard, fenêtre de l'âme, dit ce que les mots ne disent pas.", "pt": "O olhar, janela da alma, diz o que as palavras não dizem." }
       ]
     },
@@ -161,8 +176,8 @@
       "ptTargets": ["família"],
       "examples": [
         { "level": "A1", "fr": "Ma famille est grande.", "pt": "Minha família é grande." },
-        { "level": "A2-B1", "fr": "La famille voyage ensemble.", "pt": "A família viaja junta." },
-        { "level": "B2", "fr": "La famille d'Irlan est née en France.", "pt": "A família de Irlan nasceu na França." },
+        { "level": "A2-B1", "fr": "Le couple voyage comme une famille.", "pt": "O casal viaja como uma família." },
+        { "level": "B2", "fr": "Irlan et Andréa ont fondé leur famille en France.", "pt": "Irlan e Andréa formaram sua família na França." },
         { "level": "C1-C2", "fr": "La famille, port d'attache du cœur, voyage à travers le temps.", "pt": "A família, porto de chegada do coração, viaja através do tempo." }
       ]
     },
@@ -175,7 +190,7 @@
       "examples": [
         { "level": "A1", "fr": "L'aventure est amusante.", "pt": "A aventura é divertida." },
         { "level": "A2-B1", "fr": "Tours est une nouvelle aventure.", "pt": "Tours é uma nova aventura." },
-        { "level": "B2", "fr": "Chaque ville est une aventure pour la famille.", "pt": "Cada cidade é uma aventura para a família." },
+        { "level": "B2", "fr": "Chaque ville est une aventure pour le couple.", "pt": "Cada cidade é uma aventura para o casal." },
         { "level": "C1-C2", "fr": "L'aventure, maîtresse exigeante, récompense les cœurs courageux.", "pt": "A aventura, mestra exigente, recompensa os corações corajosos." }
       ]
     },
@@ -194,44 +209,64 @@
     }
   ],
   "grammarTip": {
-    "titleFr": "La révision finale : raconter un voyage",
-    "titlePt": "A revisão final: contar uma viagem",
+    "ruleTitle": "La révision finale : raconter un voyage",
+    "explanationPt": "Para resumir uma viagem: passé composé (as ações: 'on a vu' (vimos), 'j'ai marché' (andei)), imperfeito (o cenário: 'la baie était calme' (a baía estava calma)), futuro próximo (a continuação: 'on va prendre le train' (vamos pegar o trem)).",
+    "exampleFr": "La baie était calme, nous avons traversé le gué et nous allons prendre le train pour Tours.",
+    "examplePt": "A baía estava calma, atravessamos o vau e vamos pegar o trem para Tours.",
+    "practiceQuestion": "Complete: « La baie ___ calme et rose. »",
+    "options": ["était", "a été", "sera"],
+    "correctIndex": 0,
     "points": [
       {
-        "fr": "Pour résumer un voyage : passé composé (les actions : « on a vu, j'ai marché »), imparfait (le décor : « la baie était calme »), futur proche (la suite : « on va prendre le train »).",
-        "pt": "Para resumir uma viagem: passé composé (as ações: « on a vu » (vimos), « j'ai marché » (andei)), imperfeito (o cenário: « la baie était calme » (a baía estava calma)), futuro próximo (a continuação: « on va prendre le train » (vamos pegar o trem))."
+        "ruleTitle": "Le vocabulaire du départ",
+        "explanationPt": "Vocabulário da partida: 'faire ses adieux' (despedir-se), 'le quai' (a plataforma), 'la valise' (a mala), 's'éloigner' (afastar-se), 'la brume' (a bruma), 'le regard' (o olhar).",
+        "exampleFr": "Le train s'éloignait, le Mont disparaissait dans la brume.",
+        "examplePt": "O trem se afastava, o Mont desaparecia na bruma.",
+        "practiceQuestion": "Complete: « Le train ___ de la baie. »",
+        "options": ["s'éloignait", "s'éloigne", "s'éloignera"],
+        "correctIndex": 0
       },
       {
-        "fr": "Le vocabulaire du départ : « faire ses adieux, le quai, la valise, s'éloigner, la brume, le regard ». Exemple : « Le train s'éloignait, le Mont disparaissait dans la brume. »",
-        "pt": "O vocabulário da partida: « faire ses adieux » (despedir-se), « le quai » (a plataforma), « la valise » (a mala), « s'éloigner » (afastar-se), « la brume » (a bruma), « le regard » (o olhar). Exemplo: « O trem se afastava, o Mont desaparecia na bruma. »"
+        "ruleTitle": "Zéro mot de français : l'expression du point de départ",
+        "explanationPt": "'Zéro + nome' para insistir no vazio: 'zéro mot de français' (zero palavra de francês), 'zéro problème' (zero problema).",
+        "exampleFr": "Il est arrivé avec zéro mot de français.",
+        "examplePt": "Ele chegou com zero palavra de francês.",
+        "practiceQuestion": "Complete: « Il est arrivé avec ___ mot de français. »",
+        "options": ["zéro", "un", "des"],
+        "correctIndex": 0
       }
     ]
   },
   "quizQuestions": [
     {
-      "question": "Que fait la famille au matin du départ ?",
+      "question": "Que fait le couple au matin du départ ?",
       "options": ["Ses adieux au Mont", "Une fête", "Une course", "Un pique-nique"],
-      "correctIndex": 0
+      "correctIndex": 0,
+      "explanation": "O casal se despediu do Mont: uma última foto, um último olhar, um último silêncio."
     },
     {
-      "question": "Où le train attendait-il la famille ?",
+      "question": "Où le train attendait-il le couple ?",
       "options": ["À la gare de Pontorson", "À la gare de Paris", "Sur la plage", "Au pied de l'abbaye"],
-      "correctIndex": 0
+      "correctIndex": 0,
+      "explanation": "O trem esperava na estação de Pontorson, perto do Mont."
     },
     {
-      "question": "Que voyait Iris par la fenêtre ?",
+      "question": "Que voyait Andréa par la fenêtre ?",
       "options": ["Le Mont qui rapetissait", "Des éléphants", "La tour Eiffel", "Des skieurs"],
-      "correctIndex": 0
+      "correctIndex": 0,
+      "explanation": "Andréa via o Mont diminuindo, até virar uma imagem na bruma."
     },
     {
       "question": "Qu'est-ce que le Mont a appris à Irlan ?",
       "options": ["La patience", "La cuisine", "Le ski", "La danse"],
-      "correctIndex": 0
+      "correctIndex": 0,
+      "explanation": "O Mont ensinou a paciência a Irlan — a virtude das marés."
     },
     {
       "question": "Avec combien de mots de français Irlan est-il arrivé ?",
       "options": ["Zéro", "Mille", "Dix", "Cinq cents"],
-      "correctIndex": 0
+      "correctIndex": 0,
+      "explanation": "Irlan chegou com zero palavra de francês; agora tem mil."
     }
   ]
 }

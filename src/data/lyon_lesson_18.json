@@ -11,8 +11,8 @@
   "paragraphs": [
     {
       "id": 1,
-      "fr": "« C'est bien que la ville ait osé un bâtiment si audacieux », dit Irlan en regardant le musée. Le vaisseau de verre, posé sur la pointe du confluent, semblait prêt à partir. Íris courait déjà vers l'entrée.",
-      "pt": "« É bom que a cidade tenha ousado um prédio tão audacioso », disse Irlan olhando o museu. O navio de vidro, pousado na ponta da confluência, parecia pronto para partir. Íris já corria para a entrada."
+      "fr": "« C'est bien que la ville ait osé un bâtiment si audacieux », dit Irlan en regardant le musée. Le vaisseau de verre, posé sur la pointe du confluent, semblait prêt à partir. Andréa courait déjà vers l'entrée.",
+      "pt": "« É bom que a cidade tenha ousado um prédio tão audacioso », disse Irlan olhando o museu. O navio de vidro, pousado na ponta da confluência, parecia pronto para partir. Andréa já corria para a entrada."
     },
     {
       "id": 2,
@@ -21,8 +21,8 @@
     },
     {
       "id": 3,
-      "fr": "Dans la galerie des espèces, Íris découvrit des squelettes géants. « C'est dommage que les dinosaures aient disparu », soupira-t-elle. Irlan sourit : « Il est heureux qu'ils aient laissé leur place aux humains. »",
-      "pt": "Na galeria das espécies, Íris descobriu esqueletos gigantes. « É uma pena que os dinossauros tenham desaparecido », suspirou ela. Irlan sorriu: « É uma sorte que eles tenham deixado seu lugar aos humanos. »"
+      "fr": "Dans la galerie des espèces, Andréa découvrit des squelettes géants. « C'est dommage que les dinosaures aient disparu », soupira-t-elle. Irlan sourit : « Il est heureux qu'ils aient laissé leur place aux humains. »",
+      "pt": "Na galeria das espécies, Andréa descobriu esqueletos gigantes. « É uma pena que os dinossauros tenham desaparecido », suspirou ela. Irlan sorriu: « É uma sorte que eles tenham deixado seu lugar aos humanos. »"
     },
     {
       "id": 4,
@@ -33,6 +33,16 @@
       "id": 5,
       "fr": "Le soir, Irlan écrivit : « Au confluent des fleuves, j'ai visité le confluent des savoirs. Il est important que je me souvienne de cette leçon : tout est lié, la Terre, la vie, les hommes. Et moi, je suis un petit fil de cette immense trame. »",
       "pt": "À noite, Irlan escreveu: « Na confluência dos rios, visitei a confluência dos saberes. É importante que eu me lembre desta lição: tudo está ligado, a Terra, a vida, os homens. E eu sou um pequeno fio dessa imensa trama. »"
+    },
+    {
+      "id": 6,
+      "fr": "Le musée articulait l'histoire de l'humanité autour d'objets distincts. Andréa a été frappée par le caractère intangible de certains souvenirs, impossibles à classifier avec précision.",
+      "pt": "O museu articulava a história da humanidade ao redor de objetos distintos. Andréa ficou impressionada com o caráter intangível de algumas lembranças, impossíveis de classificar com precisão."
+    },
+    {
+      "id": 7,
+      "fr": "Une médiatrice a parlé d'interculturalité et d'évolution. Irlan a noté que les récits se disséminaient d'un continent à l'autre, sans perdre leur force symbolique.",
+      "pt": "Uma mediadora falou de interculturalidade e evolução. Irlan anotou que os relatos se disseminavam de um continente a outro sem perder sua força simbólica."
     }
   ],
   "vocabularyDictionary": [
@@ -136,7 +146,7 @@
       "examples": [
         { "level": "A1", "fr": "Le soleil disparaît.", "pt": "O sol desaparece." },
         { "level": "A2-B1", "fr": "Les dinosaures ont disparu.", "pt": "Os dinossauros desapareceram." },
-        { "level": "B2", "fr": "C'est dommage que les dinosaures aient disparu, soupira Íris.", "pt": "É uma pena que os dinossauros tenham desaparecido, suspirou Íris." },
+        { "level": "B2", "fr": "C'est dommage que les dinosaures aient disparu, soupira Andréa.", "pt": "É uma pena que os dinossauros tenham desaparecido, suspirou Andréa." },
         { "level": "C1-C2", "fr": "C'est en disparaissant que les espèces laissent leur place à d'autres.", "pt": "É desaparecendo que as espécies deixam seu lugar a outras." }
       ]
     },
@@ -242,7 +252,7 @@
       "explanation": "No texto: 'posé sur la pointe du confluent'."
     },
     {
-      "question": "O que Íris achou dos dinossauros?",
+      "question": "O que Andréa achou dos dinossauros?",
       "options": ["Que é uma pena que tenham desaparecido", "Que são feios", "Que deveriam voltar"],
       "correctIndex": 0,
       "explanation": "No texto: 'C'est dommage que les dinosaures aient disparu.'"
