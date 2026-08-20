@@ -470,6 +470,18 @@ import niceLesson13Data from '../data/nice_lesson_13.json';
 import niceLesson14Data from '../data/nice_lesson_14.json';
 import niceLesson15Data from '../data/nice_lesson_15.json';
 import niceLesson16Data from '../data/nice_lesson_16.json';
+import niceLesson17Data from '../data/nice_lesson_17.json';
+import niceLesson18Data from '../data/nice_lesson_18.json';
+import niceLesson19Data from '../data/nice_lesson_19.json';
+import niceLesson20Data from '../data/nice_lesson_20.json';
+import niceLesson21Data from '../data/nice_lesson_21.json';
+import niceLesson22Data from '../data/nice_lesson_22.json';
+import niceLesson23Data from '../data/nice_lesson_23.json';
+import niceLesson24Data from '../data/nice_lesson_24.json';
+import niceLesson25Data from '../data/nice_lesson_25.json';
+import niceLesson26Data from '../data/nice_lesson_26.json';
+import niceLesson27Data from '../data/nice_lesson_27.json';
+import niceLesson28Data from '../data/nice_lesson_28.json';
 
 const PARIS_OFFICIAL_LESSONS = [
   parisLesson1Data,
@@ -958,6 +970,18 @@ const NICE_OFFICIAL_LESSONS = [
   niceLesson14Data,
   niceLesson15Data,
   niceLesson16Data,
+  niceLesson17Data,
+  niceLesson18Data,
+  niceLesson19Data,
+  niceLesson20Data,
+  niceLesson21Data,
+  niceLesson22Data,
+  niceLesson23Data,
+  niceLesson24Data,
+  niceLesson25Data,
+  niceLesson26Data,
+  niceLesson27Data,
+  niceLesson28Data,
 ];
 
 const ALL_OFFICIAL_LESSONS = [

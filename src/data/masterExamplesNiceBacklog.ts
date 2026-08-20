@@ -53,4 +53,16 @@ export const NICE_BACKLOG_EXAMPLES: Record<string, MasterExample[]> = {
     { level: 'B2', fr: 'Après avoir traversé onze villes, il savait que la maison pouvait être partout.', pt: 'Depois de ter atravessado onze cidades, ele sabia que a casa podia estar em qualquer lugar.' },
     { level: 'C1-C2', fr: 'Ce sont onze étapes qui, mises bout à bout, ont dessiné la carte d’une vie.', pt: 'São onze etapas que, postas lado a lado, desenharam o mapa de uma vida.' },
   ],
+  logique: [
+    { level: 'A1', fr: 'C’est logique, j’ai compris.', pt: 'É lógico, eu entendi.' },
+    { level: 'A2-B1', fr: 'Suivre les étapes dans l’ordre, c’est plus logique.', pt: 'Seguir as etapas na ordem é mais lógico.' },
+    { level: 'B2', fr: 'Pour Irlan, la rencontre n’était pas un hasard, mais une suite logique de la route.', pt: 'Para Irlan, o encontro não era acaso, mas uma sequência lógica da rota.' },
+    { level: 'C1-C2', fr: 'C’est dans la logique des générations que la page blanche trouve enfin sa réponse.', pt: 'É na lógica das gerações que a página em branco encontra enfim sua resposta.' },
+  ],
+  correspondances: [
+    { level: 'A1', fr: 'La correspondance est rapide.', pt: 'A baldeação é rápida.' },
+    { level: 'A2-B1', fr: 'Nous prenons la correspondance à la station suivante.', pt: 'Pegamos a baldeação na próxima estação.' },
+    { level: 'B2', fr: 'Sur le plan du métro, les correspondances relient les lignes entre elles.', pt: 'No mapa do metrô, as baldeações conectam as linhas entre si.' },
+    { level: 'C1-C2', fr: 'Ce sont les correspondances du plan qui, invisibles au premier regard, dessinent le vrai visage de la ville.', pt: 'São as baldeações do mapa que, invisíveis ao primeiro olhar, desenham o verdadeiro rosto da cidade.' },
+  ],
 };
