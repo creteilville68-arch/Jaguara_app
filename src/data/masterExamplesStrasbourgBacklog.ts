@@ -35,4 +35,16 @@ export const STRASBOURG_BACKLOG_EXAMPLES: Record<string, MasterExample[]> = {
     { level: 'B2', fr: 'La façade de la maison Kammerzell, ciselée avec une finesse rare, traverse les siècles sans vieillir.', pt: 'A fachada da casa Kammerzell, cinzelada com finura rara, atravessa os séculos sem envelhecer.' },
     { level: 'C1-C2', fr: 'La finesse d’un détail, imperceptible au premier regard, révèle souvent le génie d’un artisan.', pt: 'A finura de um detalhe, imperceptível ao primeiro olhar, revela muitas vezes o gênio de um artesão.' },
   ],
+  symphonie: [
+    { level: 'A1', fr: 'J’écoute une symphonie.', pt: 'Eu ouço uma sinfonia.' },
+    { level: 'A2-B1', fr: 'La cathédrale, dit-on, est une symphonie de pierre.', pt: 'A catedral, dizem, é uma sinfonia de pedra.' },
+    { level: 'B2', fr: 'Cette façade, avec ses milliers de statues, compose une symphonie visuelle que les siècles n’ont pas altérée.', pt: 'Essa fachada, com suas milhares de estátuas, compõe uma sinfonia visual que os séculos não alteraram.' },
+    { level: 'C1-C2', fr: 'Comme une symphonie, la cathédrale se laisse lire par mouvements : la rose, les prophètes, le jugement.', pt: 'Como uma sinfonia, a catedral se deixa ler por movimentos: a rosácea, os profetas, o julgamento.' },
+  ],
+  singulière: [
+    { level: 'A1', fr: 'Sa maison est singulière.', pt: 'A casa dela é singular.' },
+    { level: 'A2-B1', fr: 'Cette rue, toute en couleurs, est singulière.', pt: 'Esta rua, toda colorida, é singular.' },
+    { level: 'B2', fr: 'Une ville qui parle deux langues et siège de l’Europe : la situation de Strasbourg est singulière en Europe.', pt: 'Uma cidade que fala duas línguas e sedia a Europa: a situação de Strasbourg é singular na Europa.' },
+    { level: 'C1-C2', fr: 'Sa beauté est singulière : elle naît des contrastes, de la frontière, de la double appartenance.', pt: 'Sua beleza é singular: ela nasce dos contrastes, da fronteira, da dupla pertença.' },
+  ],
 };
