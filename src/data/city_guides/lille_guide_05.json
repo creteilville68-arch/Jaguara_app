@@ -1,0 +1,153 @@
+{
+  "id": "lille_guide_05",
+  "cityId": "lille",
+  "domain": "Cotidiano",
+  "level": "Misto (A2–C2)",
+  "titleFr": "Le sport à Lille : football, vélo et grand stade",
+  "titlePt": "O esporte em Lille: futebol, bicicleta e grande estádio",
+  "subtitleFr": "La passion du LOSC et la culture du vélo",
+  "subtitlePt": "A paixão pelo LOSC e a cultura da bicicleta",
+  "summaryPt": "Enciclopédia de Lille, seção 5: o esporte na cidade — o futebol do LOSC, o estádio Pierre-Mauroy e a cultura da bicicleta. Vocabulário de esporte, exercício e lazer.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "À Lille, le football est une religion douce. Les supporters du LOSC, le club de la ville, remplissent le stade Pierre-Mauroy les soirs de match et chantent pendant quatre-vingt-dix minutes. Gagner, perdre, espérer : tout se vit ensemble.",
+      "pt": "Em Lille, o futebol é uma religião suave. Os torcedores do LOSC, o clube da cidade, lotam o estádio Pierre-Mauroy nas noites de jogo e cantam durante noventa minutos. Ganhar, perder, esperar: tudo se vive junto."
+    },
+    {
+      "id": 2,
+      "fr": "Le stade Pierre-Mauroy est un bâtiment moderne et modulable : sa toiture et ses tribunes se déplacent pour accueillir des matchs, des concerts et même des tournois de tennis. Les spectateurs s'y rendent en métro ou à vélo, car les parkings sont souvent pleins.",
+      "pt": "O estádio Pierre-Mauroy é um edifício moderno e adaptável: seu teto e suas arquibancadas se deslocam para receber jogos, shows e até torneios de tênis. Os espectadores vão de metrô ou de bicicleta, pois os estacionamentos costumam estar cheios."
+    },
+    {
+      "id": 3,
+      "fr": "La ville encourage le vélo avec passion : des pistes cyclables traversent la métropole, des stations de vélos en libre-service attendent à chaque coin de rue, et le dimanche, les familles pédalent tranquillement le long du canal de la Deûle.",
+      "pt": "A cidade incentiva a bicicleta com paixão: ciclovias atravessam a metrópole, estações de bicicletas compartilhadas esperam em cada esquina, e no domingo as famílias pedalam tranquilamente ao longo do canal do Deûle."
+    },
+    {
+      "id": 4,
+      "fr": "Le sport fait partie de la vie quotidienne des Lillois. Certains font du footing dans la citadelle, d'autres nagent dans les piscines municipales ou s'inscrivent au club de basket du quartier. L'exercice régulier, disent-ils, aide à rester en bonne santé et à mieux dormir.",
+      "pt": "O esporte faz parte da vida cotidiana dos lillenses. Alguns correm na cidadela, outros nadam nas piscinas municipais ou se inscrevem no clube de basquete do bairro. O exercício regular, dizem eles, ajuda a manter a boa saúde e a dormir melhor."
+    },
+    {
+      "id": 5,
+      "fr": "Chaque année, la région accueille des courses cyclistes célèbres, comme Paris-Roubaix, surnommée l'enfer du Nord à cause de ses secteurs pavés. Les coureurs freinent, sautent sur les pavés et se relèvent après chaque chute, applaudis par des foules massées au bord des routes.",
+      "pt": "Todo ano, a região recebe corridas de ciclismo famosas, como Paris-Roubaix, apelidada de inferno do Norte por causa de seus trechos de paralelepípedos. Os ciclistas freiam, saltam sobre os paralelepípedos e se reerguem após cada queda, aplaudidos por multidões amontoadas à beira das estradas."
+    },
+    {
+      "id": 6,
+      "fr": "Le sport rapproche aussi les générations. Les grands matchs se regardent en famille, les enfants jouent dans les cours de récréation et les anciens racontent les exploits d'autrefois autour d'une bière. À Lille, le sport est une fête que l'on partage.",
+      "pt": "O esporte também aproxima as gerações. Os grandes jogos se assistem em família, as crianças jogam nos pátios das escolas e os mais velhos contam os feitos de antigamente em volta de uma cerveja. Em Lille, o esporte é uma festa que se compartilha."
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "les supporters",
+      "definitionPt": "os torcedores",
+      "definitionFr": "Personnes qui soutiennent une équipe ou un sportif.",
+      "inflections": ["les supporters", "le supporter", "supporter"],
+      "ptTargets": ["torcedores"],
+      "examples": [
+        { "level": "A1", "fr": "Les supporters chantent.", "pt": "Os torcedores cantam." },
+        { "level": "A2-B1", "fr": "Les supporters du LOSC remplissent le stade.", "pt": "Os torcedores do LOSC lotam o estádio." },
+        { "level": "B2", "fr": "Les supporters fidèles suivent leur équipe même à l'extérieur.", "pt": "Os torcedores fiéis seguem seu time mesmo fora de casa." },
+        { "level": "C1-C2", "fr": "Les supporters transforment un match en une histoire collective.", "pt": "Os torcedores transformam um jogo numa história coletiva." }
+      ]
+    },
+    {
+      "term": "se rendre en métro",
+      "definitionPt": "ir de metrô",
+      "definitionFr": "Se déplacer en utilisant le métro.",
+      "inflections": ["se rendre en métro", "se rend en métro", "rendu en métro"],
+      "ptTargets": ["ir de metrô"],
+      "examples": [
+        { "level": "A1", "fr": "Je me rends au stade en métro.", "pt": "Eu vou ao estádio de metrô." },
+        { "level": "A2-B1", "fr": "Les spectateurs se rendent en métro au stade.", "pt": "Os espectadores vão de metrô ao estádio." },
+        { "level": "B2", "fr": "Se rendre en métro évite les embouteillages les soirs de match.", "pt": "Ir de metrô evita os engarrafamentos nas noites de jogo." },
+        { "level": "C1-C2", "fr": "Se rendre en métro, c'est partager un instant de la ville avant même d'arriver.", "pt": "Ir de metrô é compartilhar um instante da cidade antes mesmo de chegar." }
+      ]
+    },
+    {
+      "term": "s'inscrire à",
+      "definitionPt": "inscrever-se em",
+      "definitionFr": "Devenir membre d'un club, d'un cours.",
+      "inflections": ["s'inscrire à", "s'inscrit à", "inscrit à"],
+      "ptTargets": ["inscrever-se em", "matricular-se em"],
+      "examples": [
+        { "level": "A1", "fr": "Je m'inscris au club.", "pt": "Eu me inscrevo no clube." },
+        { "level": "A2-B1", "fr": "Elle s'inscrit au club de basket du quartier.", "pt": "Ela se inscreve no clube de basquete do bairro." },
+        { "level": "B2", "fr": "S'inscrire à un cours de natation demande de la régularité.", "pt": "Inscrever-se num curso de natação exige regularidade." },
+        { "level": "C1-C2", "fr": "S'inscrire à un club, c'est choisir la famille que l'on se donne.", "pt": "Inscrever-se num clube é escolher a família que a gente se dá." }
+      ]
+    },
+    {
+      "term": "freiner",
+      "definitionPt": "frear",
+      "definitionFr": "Ralentir ou arrêter un véhicule avec le frein.",
+      "inflections": ["freiner", "freine", "freiné"],
+      "ptTargets": ["frear", "frenar"],
+      "examples": [
+        { "level": "A1", "fr": "Il freine devant l'école.", "pt": "Ele freia diante da escola." },
+        { "level": "A2-B1", "fr": "Les coureurs freinent avant les pavés.", "pt": "Os ciclistas frei am antes dos paralelepípedos." },
+        { "level": "B2", "fr": "Freiner trop brusquement sur route mouillée est dangereux.", "pt": "Frear bruscamente na pista molhada é perigoso." },
+        { "level": "C1-C2", "fr": "Savoir freiner, c'est savoir mesurer l'élan que l'on ne peut pas contrôler.", "pt": "Saber frear é saber medir o impulso que não se pode controlar." }
+      ]
+    },
+    {
+      "term": "se relever après",
+      "definitionPt": "levantar-se depois de",
+      "definitionFr": "Se redresser après une chute ou un échec.",
+      "inflections": ["se relever après", "se relève après", "relevé après"],
+      "ptTargets": ["levantar-se depois de", "reerguer-se após"],
+      "examples": [
+        { "level": "A1", "fr": "Il se relève après la chute.", "pt": "Ele se levanta depois da queda." },
+        { "level": "A2-B1", "fr": "Les coureurs se relèvent après chaque chute.", "pt": "Os ciclistas se levantam após cada queda." },
+        { "level": "B2", "fr": "Se relever après un échec est le premier pas vers la victoire.", "pt": "Levantar-se após um fracasso é o primeiro passo para a vitória." },
+        { "level": "C1-C2", "fr": "C'est en se relevant après l'épreuve que l'on mesure sa vraie force.", "pt": "É levantando-se após a provação que se mede a verdadeira força." }
+      ]
+    },
+    {
+      "term": "rapprocher",
+      "definitionPt": "aproximar",
+      "definitionFr": "Créer des liens plus proches entre des personnes.",
+      "inflections": ["rapprocher", "rapproche", "rapproché"],
+      "ptTargets": ["aproximar"],
+      "examples": [
+        { "level": "A1", "fr": "Le sport rapproche les gens.", "pt": "O esporte aproxima as pessoas." },
+        { "level": "A2-B1", "fr": "Les matchs rapprochent les générations.", "pt": "Os jogos aproximam as gerações." },
+        { "level": "B2", "fr": "Partager une passion rapproche plus vite que les années.", "pt": "Compartilhar uma paixão aproxima mais rápido que os anos." },
+        { "level": "C1-C2", "fr": "Ce qui rapproche durablement, c'est l'effort vécu ensemble.", "pt": "O que aproxima de verdade é o esforço vivido juntos." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "O presente do subjuntivo após 'pour que'",
+    "explanationPt": "Após 'pour que' (para que), usa-se o subjuntivo: pour que l'on partage (para que se compartilhe). Verbos regulares: que je partage, que nous partagions.",
+    "exampleFr": "Le sport crée des liens pour que chacun se sente chez lui.",
+    "examplePt": "O esporte cria laços para que cada um se sinta em casa.",
+    "practiceQuestion": "Complete: « Le stade s'ouvre pour que tous les supporters ___ chanter. »",
+    "options": ["puissent", "peuvent", "pouvaient", "pourront"],
+    "correctIndex": 0,
+    "explanationPt": "Após 'pour que', subjuntivo: 'puissent'."
+  },
+  "quizQuestions": [
+    {
+      "question": "Comment s'appelle le club de football de Lille ?",
+      "options": ["Le LOSC", "L'OM", "L'OL", "Le PSG"],
+      "correctIndex": 0,
+      "explanation": "Le LOSC est le club de football de Lille."
+    },
+    {
+      "question": "Pourquoi Paris-Roubaix est-elle appelée l'enfer du Nord ?",
+      "options": ["À cause de ses secteurs pavés", "À cause du froid", "À cause de ses montagnes", "À cause du sable"],
+      "correctIndex": 0,
+      "explanation": "La course est célèbre pour ses redoutables secteurs pavés."
+    },
+    {
+      "question": "Comment les spectateurs se rendent-ils souvent au stade Pierre-Mauroy ?",
+      "options": ["En métro ou à vélo", "En bateau", "En hélicoptère", "À cheval"],
+      "correctIndex": 0,
+      "explanation": "Beaucoup s'y rendent en métro ou à vélo, car les parkings sont pleins."
+    }
+  ]
+}

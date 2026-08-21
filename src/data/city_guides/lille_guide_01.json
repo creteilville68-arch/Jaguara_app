@@ -1,0 +1,153 @@
+{
+  "id": "lille_guide_01",
+  "cityId": "lille",
+  "domain": "Cultura",
+  "level": "Misto (A2–C2)",
+  "titleFr": "Histoire de Lille : la capitale des Flandres",
+  "titlePt": "História de Lille: a capital da Flandres",
+  "subtitleFr": "Du comptoir médiéval à la métropole européenne",
+  "subtitlePt": "Do balcão medieval à metrópole europeia",
+  "summaryPt": "Enciclopédia de Lille, seção 1: a história da cidade, do comércio medieval na Flandres à metrópole europeia de hoje. Vocabulário de comércio, trabalho e cidade, com níveis mistos.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Lille est née au bord de la Deûle, une rivière qui reliait la Flandre à la mer du Nord. Au Moyen Âge, les marchands y faisaient étape : ils vendaient des draps, du lin et de la laine, et repartaient chargés de marchandises venues de toute l'Europe.",
+      "pt": "Lille nasceu à beira do Deûle, um rio que ligava a Flandres ao mar do Norte. Na Idade Média, os comerciantes faziam escala ali: vendiam tecidos, linho e lã, e partiam carregados de mercadorias vindas de toda a Europa."
+    },
+    {
+      "id": 2,
+      "fr": "Le nom de la ville vient du mot l'île : Lille est née sur une petite île de la Deûle, entre deux bras d'eau. Les artisans s'installèrent sur l'île, puis la ville grandit, entourée de murailles et de canaux.",
+      "pt": "O nome da cidade vem da palavra ilha: Lille nasceu numa pequena ilha do Deûle, entre dois braços de água. Os artesãos se instalaram na ilha, e depois a cidade cresceu, cercada de muralhas e canais."
+    },
+    {
+      "id": 3,
+      "fr": "Au XVIIe siècle, Vauban, le grand ingénieur, construisit la citadelle de Lille, une forteresse en étoile que l'on appelle encore la reine des citadelles. Aujourd'hui, les habitants s'y promènent le dimanche et font du footing dans les fossés verdoyants.",
+      "pt": "No século XVII, Vauban, o grande engenheiro, construiu a cidadela de Lille, uma fortaleza em forma de estrela que ainda chamam de rainha das cidadelas. Hoje, os moradores passeiam lá aos domingos e fazem corrida nos fossos verdejantes."
+    },
+    {
+      "id": 4,
+      "fr": "Au XIXe siècle, Lille devint une capitale industrielle du textile et du charbon. Des milliers d'ouvriers travaillaient dans les usines, souvent à temps plein, du matin au soir. La ville se couvrit de briques rouges, de fumées et de cheminées.",
+      "pt": "No século XIX, Lille virou uma capital industrial do têxtil e do carvão. Milhares de operários trabalhavam nas fábricas, muitas vezes em período integral, de manhã à noite. A cidade se cobriu de tijolos vermelhos, fumaças e chaminés."
+    },
+    {
+      "id": 5,
+      "fr": "Les deux guerres mondiales blessèrent gravement la ville, mais Lille se releva chaque fois. Après les destructions, les habitants reconstruisirent les quartiers, gardant l'âme flamande des pignons et des briques, tout en bâtissant une ville moderne.",
+      "pt": "As duas guerras mundiais feriram gravemente a cidade, mas Lille se reergueu todas as vezes. Após as destruições, os moradores reconstruíram os bairros, guardando a alma flamenga dos frontões e dos tijolos, ao mesmo tempo em que construíam uma cidade moderna."
+    },
+    {
+      "id": 6,
+      "fr": "Aujourd'hui, Lille est au carrefour de l'Europe : le train Eurostar relie la ville à Londres, Bruxelles et Paris en quelques heures. Les jeunes viennent y étudier, les entreprises s'y installent, et l'ancienne capitale du textile est devenue une métropole de services et d'innovation.",
+      "pt": "Hoje, Lille está na encruzilhada da Europa: o trem Eurostar liga a cidade a Londres, Bruxelas e Paris em poucas horas. Os jovens vêm estudar ali, as empresas se instalam, e a antiga capital do têxtil virou uma metrópole de serviços e inovação."
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "faire étape",
+      "definitionPt": "fazer escala; parar durante uma viagem",
+      "definitionFr": "S'arrêter dans un lieu au cours d'un voyage.",
+      "inflections": ["faire étape", "faisait étape", "fait étape"],
+      "ptTargets": ["fazer escala", "parar"],
+      "examples": [
+        { "level": "A1", "fr": "Nous faisons étape à Lille.", "pt": "Nós fazemos escala em Lille." },
+        { "level": "A2-B1", "fr": "Les marchands faisaient étape au bord de la rivière.", "pt": "Os comerciantes faziam escala à beira do rio." },
+        { "level": "B2", "fr": "Faire étape dans une ville, c'est la découvrir sans se presser.", "pt": "Fazer escala numa cidade é conhecê-la sem pressa." },
+        { "level": "C1-C2", "fr": "Faire étape, c'est accepter que le chemin vaille autant que la destination.", "pt": "Fazer escala é aceitar que o caminho valha tanto quanto o destino." }
+      ]
+    },
+    {
+      "term": "se couvrir de",
+      "definitionPt": "cobrir-se de",
+      "definitionFr": "Se remplir progressivement de quelque chose.",
+      "inflections": ["se couvrir de", "se couvre de", "couvert de"],
+      "ptTargets": ["cobrir-se de"],
+      "examples": [
+        { "level": "A1", "fr": "Le ciel se couvre de nuages.", "pt": "O céu se cobre de nuvens." },
+        { "level": "A2-B1", "fr": "La ville se couvrit de cheminées au XIXe siècle.", "pt": "A cidade se cobriu de chaminés no século XIX." },
+        { "level": "B2", "fr": "La place se couvre de fleurs au printemps.", "pt": "A praça se cobre de flores na primavera." },
+        { "level": "C1-C2", "fr": "Une ville se couvre de mémoire comme d'une seconde peau.", "pt": "Uma cidade se cobre de memória como de uma segunda pele." }
+      ]
+    },
+    {
+      "term": "se relever",
+      "definitionPt": "reerguer-se; recuperar-se",
+      "definitionFr": "Se redresser après une chute ou une épreuve.",
+      "inflections": ["se relever", "se relève", "relevé"],
+      "ptTargets": ["reerguer-se", "recuperar-se"],
+      "examples": [
+        { "level": "A1", "fr": "Il se relève après sa chute.", "pt": "Ele se reergue depois da queda." },
+        { "level": "A2-B1", "fr": "La ville se releva après la guerre.", "pt": "A cidade se reergueu depois da guerra." },
+        { "level": "B2", "fr": "Se relever d'une épreuve demande du temps et du courage.", "pt": "Reerguer-se de uma provação exige tempo e coragem." },
+        { "level": "C1-C2", "fr": "C'est en se relevant ensemble qu'une ville retrouve son visage.", "pt": "É reerguendo-se juntos que uma cidade reencontra seu rosto." }
+      ]
+    },
+    {
+      "term": "au carrefour de",
+      "definitionPt": "na encruzilhada de",
+      "definitionFr": "À la croisée de plusieurs routes, lieux ou influences.",
+      "inflections": ["au carrefour de", "au carrefour", "carrefour"],
+      "ptTargets": ["na encruzilhada de"],
+      "examples": [
+        { "level": "A1", "fr": "La boutique est au carrefour.", "pt": "A loja fica na esquina." },
+        { "level": "A2-B1", "fr": "Lille est au carrefour de l'Europe.", "pt": "Lille está na encruzilhada da Europa." },
+        { "level": "B2", "fr": "Cette région est au carrefour de plusieurs cultures.", "pt": "Esta região está na encruzilhada de várias culturas." },
+        { "level": "C1-C2", "fr": "Être au carrefour, c'est recevoir le monde sans perdre sa propre voix.", "pt": "Estar na encruzilhada é receber o mundo sem perder a própria voz." }
+      ]
+    },
+    {
+      "term": "s'installer",
+      "definitionPt": "instalar-se; estabelecer-se",
+      "definitionFr": "S'établir dans un lieu pour y vivre ou y travailler.",
+      "inflections": ["s'installer", "s'installe", "installé"],
+      "ptTargets": ["instalar-se", "estabelecer-se"],
+      "examples": [
+        { "level": "A1", "fr": "Ils s'installent à Lille.", "pt": "Eles se instalam em Lille." },
+        { "level": "A2-B1", "fr": "Des entreprises s'installent dans la métropole.", "pt": "Empresas se instalam na metrópole." },
+        { "level": "B2", "fr": "S'installer dans une grande ville demande une bonne organisation.", "pt": "Instalar-se numa grande cidade exige boa organização." },
+        { "level": "C1-C2", "fr": "S'installer, c'est choisir l'endroit d'où l'on veut voir le monde.", "pt": "Instalar-se é escolher o lugar de onde se quer ver o mundo." }
+      ]
+    },
+    {
+      "term": "faire du footing",
+      "definitionPt": "fazer corrida; correr",
+      "definitionFr": "Courir pour s'entretenir physiquement.",
+      "inflections": ["faire du footing", "fait du footing", "faisait du footing"],
+      "ptTargets": ["fazer corrida", "correr"],
+      "examples": [
+        { "level": "A1", "fr": "Je fais du footing le matin.", "pt": "Eu corro de manhã." },
+        { "level": "A2-B1", "fr": "Ils font du footing dans la citadelle.", "pt": "Eles correm na cidadela." },
+        { "level": "B2", "fr": "Faire du footing régulièrement améliore le sommeil.", "pt": "Correr regularmente melhora o sono." },
+        { "level": "C1-C2", "fr": "Faire du footing, c'est mesurer la ville au rythme de sa respiration.", "pt": "Correr é medir a cidade no ritmo da própria respiração." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Passé composé e imparfait na narrativa histórica",
+    "explanationPt": "Na narrativa de história, o imparfait descreve o cenário (les marchands y vendaient, la ville se couvrit) e o passé simple marca os acontecimentos (construisit, devint, se releva).",
+    "exampleFr": "La ville devint industrielle et les usines couvrirent le paysage de fumées.",
+    "examplePt": "A cidade virou industrial e as fábricas cobriram a paisagem de fumaças.",
+    "practiceQuestion": "Complete: « Au XIXe siècle, Lille ___ une capitale industrielle. »",
+    "options": ["devint", "devient", "deviendra", "est devenue"],
+    "correctIndex": 0,
+    "explanationPt": "Narrativa histórica em passé simple: 'Lille devint'."
+  },
+  "quizQuestions": [
+    {
+      "question": "D'où vient le nom de Lille ?",
+      "options": ["Du mot l'île", "Du mot lin", "Du nom d'un roi", "Du fleuve Deûle"],
+      "correctIndex": 0,
+      "explanation": "Lille vient de l'île : la ville est née sur une île de la Deûle."
+    },
+    {
+      "question": "Qui a construit la citadelle de Lille ?",
+      "options": ["Vauban", "Napoléon", "Richelieu", "Eiffel"],
+      "correctIndex": 0,
+      "explanation": "Vauban, le grand ingénieur, a construit la citadelle au XVIIe siècle."
+    },
+    {
+      "question": "Que relie le train Eurostar depuis Lille ?",
+      "options": ["Londres, Bruxelles et Paris", "Berlin, Vienne et Rome", "Madrid et Lisbonne", "Oslo et Stockholm"],
+      "correctIndex": 0,
+      "explanation": "L'Eurostar relie Lille à Londres, Bruxelles et Paris."
+    }
+  ]
+}

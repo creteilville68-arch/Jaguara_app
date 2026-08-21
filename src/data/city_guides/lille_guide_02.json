@@ -1,0 +1,153 @@
+{
+  "id": "lille_guide_02",
+  "cityId": "lille",
+  "domain": "Cultura",
+  "level": "Misto (A2–C2)",
+  "titleFr": "La Grand-Place et le Vieux-Lille",
+  "titlePt": "A Grand-Place e o Lille Antigo",
+  "subtitleFr": "Briques, pignons et façades baroques",
+  "subtitlePt": "Tijolos, frontões e fachadas barrocas",
+  "summaryPt": "Enciclopédia de Lille, seção 2: a Grand-Place, a Vieille Bourse e o Vieux-Lille, com a arquitetura flamenga de tijolos e frontões. Vocabulário de arquitetura, cidade e passeio.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Au cœur de Lille s'étend la Grand-Place, une vaste esplanade bordée de maisons flamandes aux façades de briques rouges et aux pignons découpés. Le dimanche matin, les habitants s'y retrouvent pour prendre un café et discuter sous le regard du général de Gaulle, né dans cette ville.",
+      "pt": "No coração de Lille se estende a Grand-Place, uma vasta esplanada cercada de casas flamengas com fachadas de tijolos vermelhos e frontões recortados. No domingo de manhã, os moradores se encontram ali para tomar um café e conversar sob o olhar do general de Gaulle, nascido nessa cidade."
+    },
+    {
+      "id": 2,
+      "fr": "Sur un côté de la place se dresse la Vieille Bourse, un ensemble de vingt-quatre maisons construites en 1652 autour d'une cour intérieure. Aujourd'hui, des bouquinistes y installent leurs étals, et l'on y flâne entre les livres, les fleurs et les joueurs d'échecs.",
+      "pt": "Num lado da praça se ergue a Vieille Bourse, um conjunto de vinte e quatro casas construídas em 1652 em torno de um pátio interno. Hoje, sebos de livros montam suas bancas ali, e passeia-se entre livros, flores e jogadores de xadrez."
+    },
+    {
+      "id": 3,
+      "fr": "Derrière la place commence le Vieux-Lille, un labyrinthe de rues étroites pavées de pierres bleues. Les maisons y sont hautes et serrées, avec des fenêtres en bois, des enseignes forgées et des cours cachées. On s'y perd volontiers, le nez en l'air.",
+      "pt": "Atrás da praça começa o Lille Antigo, um labirinto de ruas estreitas calçadas com pedras azuis. As casas são altas e apertadas, com janelas de madeira, letreiros de ferro forjado e pátios escondidos. A gente se perde ali de propósito, de nariz para o ar."
+    },
+    {
+      "id": 4,
+      "fr": "L'architecte de la Vieille Bourse, Julien Destrée, était un homme modeste qui dessina des marchands, des anges et des singes sur les façades. Les détails se découvrent lentement : il suffit de lever les yeux pour voir un monde de pierre qui raconte le commerce du XVIIe siècle.",
+      "pt": "O arquiteto da Vieille Bourse, Julien Destrée, era um homem modesto que desenhou mercadores, anjos e macacos nas fachadas. Os detalhes se descobrem aos poucos: basta levantar os olhos para ver um mundo de pedra que conta o comércio do século XVII."
+    },
+    {
+      "id": 5,
+      "fr": "Le Vieux-Lille change de visage au fil des saisons. En été, les terrasses débordent sur les pavés ; en hiver, les vitrines s'illuminent et les rues se couvrent de guirlandes. Les promeneurs comparent les boutiques, s'arrêtent devant les vitrines et entrent se réchauffer.",
+      "pt": "O Lille Antigo muda de rosto ao longo das estações. No verão, os terraços transbordam sobre os paralelepípedos; no inverno, as vitrines se iluminam e as ruas se cobrem de guirlandas. Os passeantes comparam as lojas, param diante das vitrines e entram para se aquecer."
+    },
+    {
+      "id": 6,
+      "fr": "À quelques minutes du centre, le quartier de Wazemmes accueille un grand marché coloré. On y trouve des fruits, des tissus, des épices et des plats du monde entier. Les habitués s'y rendent chaque dimanche, comme un rite de la semaine lilloise.",
+      "pt": "A poucos minutos do centro, o bairro de Wazemmes abriga um grande mercado colorido. Encontram-se frutas, tecidos, especiarias e pratos do mundo inteiro. Os frequentadores vão até lá todo domingo, como um ritual da semana lillense."
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "se dresser",
+      "definitionPt": "erguer-se",
+      "definitionFr": "S'élever verticalement, se tenir debout.",
+      "inflections": ["se dresser", "se dresse", "dressé"],
+      "ptTargets": ["erguer-se"],
+      "examples": [
+        { "level": "A1", "fr": "Le château se dresse sur la colline.", "pt": "O castelo se ergue na colina." },
+        { "level": "A2-B1", "fr": "La Vieille Bourse se dresse sur la place.", "pt": "A Vieille Bourse se ergue na praça." },
+        { "level": "B2", "fr": "La tour se dresse au-dessus des toits de la ville.", "pt": "A torre se ergue acima dos telhados da cidade." },
+        { "level": "C1-C2", "fr": "Une ville se dresse comme une promesse de pierre contre le ciel.", "pt": "Uma cidade se ergue como uma promessa de pedra contra o céu." }
+      ]
+    },
+    {
+      "term": "flâner",
+      "definitionPt": "passear sem pressa",
+      "definitionFr": "Se promener sans but précis, en prenant son temps.",
+      "inflections": ["flâner", "flâne", "flâné"],
+      "ptTargets": ["passear", "vagar"],
+      "examples": [
+        { "level": "A1", "fr": "J'aime flâner dans les rues.", "pt": "Eu gosto de passear pelas ruas." },
+        { "level": "A2-B1", "fr": "On flâne entre les étals du marché.", "pt": "Passeamos entre as bancas do mercado." },
+        { "level": "B2", "fr": "Flâner dans le Vieux-Lille révèle des détails invisibles au premier regard.", "pt": "Passear no Lille Antigo revela detalhes invisíveis ao primeiro olhar." },
+        { "level": "C1-C2", "fr": "Flâner, c'est laisser la ville écrire l'itinéraire.", "pt": "Passear é deixar a cidade escrever o itinerário." }
+      ]
+    },
+    {
+      "term": "se perdre",
+      "definitionPt": "perder-se",
+      "definitionFr": "Ne plus savoir où l'on est ; s'égarer.",
+      "inflections": ["se perdre", "se perd", "perdu"],
+      "ptTargets": ["perder-se"],
+      "examples": [
+        { "level": "A1", "fr": "Je me perds dans la ville.", "pt": "Eu me perco na cidade." },
+        { "level": "A2-B1", "fr": "On se perd volontiers dans le Vieux-Lille.", "pt": "A gente se perde de propósito no Lille Antigo." },
+        { "level": "B2", "fr": "Se perdre dans un quartier inconnu peut être la meilleure façon de le découvrir.", "pt": "Perder-se num bairro desconhecido pode ser a melhor forma de descobri-lo." },
+        { "level": "C1-C2", "fr": "C'est en se perdant que l'on apprend à lire une ville.", "pt": "É se perdendo que se aprende a ler uma cidade." }
+      ]
+    },
+    {
+      "term": "se réchauffer",
+      "definitionPt": "aquecer-se",
+      "definitionFr": "Retrouver de la chaleur après avoir eu froid.",
+      "inflections": ["se réchauffer", "se réchauffe", "réchauffé"],
+      "ptTargets": ["aquecer-se"],
+      "examples": [
+        { "level": "A1", "fr": "Je me réchauffe près du feu.", "pt": "Eu me aqueço perto do fogo." },
+        { "level": "A2-B1", "fr": "Ils entrent dans le café pour se réchauffer.", "pt": "Eles entram no café para se aquecer." },
+        { "level": "B2", "fr": "Un chocolat chaud aide à se réchauffer après une longue marche.", "pt": "Um chocolate quente ajuda a se aquecer depois de uma longa caminhada." },
+        { "level": "C1-C2", "fr": "Se réchauffer, c'est aussi retrouver les siens autour d'une table.", "pt": "Aquecer-se é também reencontrar os seus em volta de uma mesa." }
+      ]
+    },
+    {
+      "term": "se rendre à",
+      "definitionPt": "dirigir-se a",
+      "definitionFr": "Aller quelque part.",
+      "inflections": ["se rendre à", "se rend à", "rendu à"],
+      "ptTargets": ["dirigir-se a", "ir a"],
+      "examples": [
+        { "level": "A1", "fr": "Je me rends au marché.", "pt": "Eu vou ao mercado." },
+        { "level": "A2-B1", "fr": "Les habitués se rendent au marché chaque dimanche.", "pt": "Os frequentadores vão ao mercado todo domingo." },
+        { "level": "B2", "fr": "Des milliers de visiteurs se rendent à la braderie de Lille.", "pt": "Milhares de visitantes vão à braderie de Lille." },
+        { "level": "C1-C2", "fr": "Se rendre à un lieu, c'est déjà entrer dans son histoire.", "pt": "Ir a um lugar já é entrar em sua história." }
+      ]
+    },
+    {
+      "term": "comparer",
+      "definitionPt": "comparar",
+      "definitionFr": "Examiner deux choses pour en trouver les ressemblances et les différences.",
+      "inflections": ["comparer", "compare", "comparé"],
+      "ptTargets": ["comparar"],
+      "examples": [
+        { "level": "A1", "fr": "Je compare les deux prix.", "pt": "Eu comparo os dois preços." },
+        { "level": "A2-B1", "fr": "Les promeneurs comparent les vitrines du Vieux-Lille.", "pt": "Os passeantes comparam as vitrines do Lille Antigo." },
+        { "level": "B2", "fr": "Comparer les offres avant d'acheter est une bonne habitude.", "pt": "Comparar as ofertas antes de comprar é um bom hábito." },
+        { "level": "C1-C2", "fr": "Comparer, c'est apprendre à distinguer l'essentiel du superflu.", "pt": "Comparar é aprender a distinguir o essencial do supérfluo." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Os pronomes 'y' e 'en' com lugares",
+    "explanationPt": "'y' substitui um lugar já mencionado (s'y retrouvent = se encontram lá; on y flâne = passeia-se lá). 'en' substitui 'de + lugar' (on en vient = vem-se de lá).",
+    "exampleFr": "La Grand-Place est belle : on s'y promène et l'on en garde un souvenir heureux.",
+    "examplePt": "A Grand-Place é linda: passeamos lá e guardamos dela uma lembrança feliz.",
+    "practiceQuestion": "Complete: « Le Vieux-Lille est charmant, j'adore m'y ___. »",
+    "options": ["promener", "promène", "promenant", "promenera"],
+    "correctIndex": 0,
+    "explanationPt": "'m'y promener' = me passear lá."
+  },
+  "quizQuestions": [
+    {
+      "question": "Quel personnage célèbre est né à Lille ?",
+      "options": ["Charles de Gaulle", "Napoléon Bonaparte", "Louis Pasteur", "Victor Hugo"],
+      "correctIndex": 0,
+      "explanation": "Le général de Gaulle est né à Lille."
+    },
+    {
+      "question": "Que trouve-t-on aujourd'hui dans la cour de la Vieille Bourse ?",
+      "options": ["Des bouquinistes et des joueurs d'échecs", "Une piscine", "Une gare", "Un marché aux poissons"],
+      "correctIndex": 0,
+      "explanation": "Des bouquinistes y installent leurs étals et l'on y joue aux échecs."
+    },
+    {
+      "question": "Où se tient le grand marché coloré de Lille ?",
+      "options": ["À Wazemmes", "À la Citadelle", "À Roubaix", "Au bord de la Deûle"],
+      "correctIndex": 0,
+      "explanation": "Le marché de Wazemmes se tient chaque dimanche."
+    }
+  ]
+}

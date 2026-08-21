@@ -1,0 +1,153 @@
+{
+  "id": "lille_guide_04",
+  "cityId": "lille",
+  "domain": "Cultura",
+  "level": "Misto (A2–C2)",
+  "titleFr": "La gastronomie du Nord",
+  "titlePt": "A gastronomia do Norte",
+  "subtitleFr": "Estaminets, welsh, carbonnade et moules-frites",
+  "subtitlePt": "Estaminets, welsh, carbonnade e moules-frites",
+  "summaryPt": "Enciclopédia de Lille, seção 4: a cozinha do norte da França, dos estaminets à bière, do welsh à carbonnade. Vocabulário de restaurante, comida e celebração.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Au nord de la France, on mange généreux et réconfortant. Les estaminets, ces anciens cafés de la région, servent des plats simples et chaleureux : soupes épaisses, tartes, plats mijotés et bières locales. On y vient pour manger, mais surtout pour discuter longtemps.",
+      "pt": "No norte da França, come-se com fartura e conforto. Os estaminets, aqueles antigos cafés da região, servem pratos simples e acolhedores: sopas grossas, tortas, cozidos e cervejas locais. Vai-se para comer, mas sobretudo para conversar por muito tempo."
+    },
+    {
+      "id": 2,
+      "fr": "Le welsh est la spécialité la plus célèbre de Lille : une tranche de pain, du jambon, une sauce au fromage fondant et un œuf au centre. On le mange brûlant, avec des frites et une bière pression. Les habitants en raffolent, surtout l'hiver.",
+      "pt": "O welsh é a especialidade mais famosa de Lille: uma fatia de pão, presunto, um molho de queijo derretido e um ovo no centro. Come-se bem quente, com batatas fritas e uma chope. Os moradores adoram, sobretudo no inverno."
+    },
+    {
+      "id": 3,
+      "fr": "La carbonnade flamande mijote longuement : le bœuf cuit doucement dans la bière brune, avec des oignons et du pain d'épices. Chaque famille garde sa recette, transmise de génération en génération, et la sert avec des frites maison.",
+      "pt": "A carbonnade flamenga cozinha lentamente: o boi cozinha devagar na cerveja escura, com cebolas e pão de especiarias. Cada família guarda sua receita, transmitida de geração em geração, e a serve com batatas fritas caseiras."
+    },
+    {
+      "id": 4,
+      "fr": "De septembre à février, les moules-frites envahissent les restaurants : une grande marmite de moules cuites au vin blanc, à la crème ou à la tomate, accompagnée d'un cornet de frites. On les mange avec les doigts, sans se soucier des manières.",
+      "pt": "De setembro a fevereiro, os moules-frites invadem os restaurantes: uma grande panela de mexilhões cozidos no vinho branco, no creme ou no tomate, acompanhada de um cone de batatas fritas. Come-se com as mãos, sem se preocupar com as etiquetas."
+    },
+    {
+      "id": 5,
+      "fr": "Côté sucré, la région adore la gaufre : la gaufre fine, croquante, saupoudrée de sucre, se vend dans les rues pendant les fêtes. Avec un café serré ou une bière légère, elle clôt le repas comme une douce évidence.",
+      "pt": "No lado doce, a região adora a gaufre: a gaufre fina, crocante, polvilhada de açúcar, vende-se nas ruas durante as festas. Com um café forte ou uma cerveja leve, ela encerra a refeição como uma doce evidência."
+    },
+    {
+      "id": 6,
+      "fr": "Au restaurant, on choisit le plat du jour, on demande la carte, on réserve une table ou l'on prend le menu. À la fin, chacun paie l'addition, parfois chacun sa part, et l'on se régale en se promettant de revenir goûter la spécialité du voisin.",
+      "pt": "No restaurante, escolhe-se o prato do dia, pede-se o cardápio, reserva-se uma mesa ou escolhe-se o menu. No final, cada um paga a conta, às vezes cada um a sua parte, e a gente se delicia prometendo voltar para provar a especialidade do vizinho."
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "réconfortant",
+      "definitionPt": "confortante; que reconforta",
+      "definitionFr": "Qui redonne du courage, de la chaleur, du bien-être.",
+      "inflections": ["réconfortant", "réconfortante", "réconfortants"],
+      "ptTargets": ["confortante", "reconfortante"],
+      "examples": [
+        { "level": "A1", "fr": "La soupe est réconfortante.", "pt": "A sopa é reconfortante." },
+        { "level": "A2-B1", "fr": "Un plat chaud est réconfortant en hiver.", "pt": "Um prato quente é reconfortante no inverno." },
+        { "level": "B2", "fr": "La cuisine du Nord est généreuse et réconfortante.", "pt": "A cozinha do Norte é generosa e reconfortante." },
+        { "level": "C1-C2", "fr": "Il y a des plats réconfortants qui soignent l'âme autant que le corps.", "pt": "Há pratos reconfortantes que curam a alma tanto quanto o corpo." }
+      ]
+    },
+    {
+      "term": "mijoter",
+      "definitionPt": "cozinhar em fogo lento",
+      "definitionFr": "Cuire lentement à feu doux.",
+      "inflections": ["mijoter", "mijote", "mijoté"],
+      "ptTargets": ["cozinhar em fogo lento"],
+      "examples": [
+        { "level": "A1", "fr": "La soupe mijote sur le feu.", "pt": "A sopa cozinha em fogo lento." },
+        { "level": "A2-B1", "fr": "La carbonnade mijote pendant des heures.", "pt": "A carbonnade cozinha em fogo lento por horas." },
+        { "level": "B2", "fr": "Un plat qui mijote lentement développe des saveurs profondes.", "pt": "Um prato que cozinha devagar desenvolve sabores profundos." },
+        { "level": "C1-C2", "fr": "Mijoter, c'est donner au temps le pouvoir de transformer les ingrédients.", "pt": "Cozinhar em fogo lento é dar ao tempo o poder de transformar os ingredientes." }
+      ]
+    },
+    {
+      "term": "raffoler de",
+      "definitionPt": "adorar; ser louco por",
+      "definitionFr": "Aimer énormément quelque chose.",
+      "inflections": ["raffoler de", "raffole de", "raffolait de"],
+      "ptTargets": ["adorar", "ser louco por"],
+      "examples": [
+        { "level": "A1", "fr": "Il raffole du chocolat.", "pt": "Ele adora chocolate." },
+        { "level": "A2-B1", "fr": "Les Lillois raffolent du welsh.", "pt": "Os lillenses adoram welsh." },
+        { "level": "B2", "fr": "Elle raffole des moules-frites en automne.", "pt": "Ela adora moules-frites no outono." },
+        { "level": "C1-C2", "fr": "Raffoler d'un plat, c'est lui offrir une place dans sa mémoire.", "pt": "Adorar um prato é dar a ele um lugar na memória." }
+      ]
+    },
+    {
+      "term": "transmettre",
+      "definitionPt": "transmitir",
+      "definitionFr": "Faire passer quelque chose à quelqu'un d'autre.",
+      "inflections": ["transmettre", "transmet", "transmis"],
+      "ptTargets": ["transmitir", "passar adiante"],
+      "examples": [
+        { "level": "A1", "fr": "Elle transmet le message.", "pt": "Ela transmite o recado." },
+        { "level": "A2-B1", "fr": "On transmet les recettes de génération en génération.", "pt": "Transmitem-se as receitas de geração em geração." },
+        { "level": "B2", "fr": "Transmettre un savoir, c'est lui donner une seconde vie.", "pt": "Transmitir um saber é dar a ele uma segunda vida." },
+        { "level": "C1-C2", "fr": "Ce que l'on transmet ne s'use jamais : il s'enrichit de chaque main qui le reçoit.", "pt": "O que se transmite nunca se desgasta: enriquece-se com cada mão que o recebe." }
+      ]
+    },
+    {
+      "term": "le plat du jour",
+      "definitionPt": "o prato do dia",
+      "definitionFr": "Plat proposé par le restaurant pour la journée.",
+      "inflections": ["le plat du jour", "les plats du jour"],
+      "ptTargets": ["prato do dia"],
+      "examples": [
+        { "level": "A1", "fr": "Le plat du jour est bon.", "pt": "O prato do dia é bom." },
+        { "level": "A2-B1", "fr": "Je prends le plat du jour.", "pt": "Eu escolho o prato do dia." },
+        { "level": "B2", "fr": "Le plat du jour est souvent le meilleur rapport qualité-prix.", "pt": "O prato do dia costuma ser o melhor custo-benefício." },
+        { "level": "C1-C2", "fr": "Le plat du jour raconte le marché du matin et l'humeur du chef.", "pt": "O prato do dia conta o mercado da manhã e o humor do chef." }
+      ]
+    },
+    {
+      "term": "payer l'addition",
+      "definitionPt": "pagar a conta",
+      "definitionFr": "Régler le montant d'un repas au restaurant.",
+      "inflections": ["payer l'addition", "paie l'addition", "payé l'addition"],
+      "ptTargets": ["pagar a conta"],
+      "examples": [
+        { "level": "A1", "fr": "On paie l'addition.", "pt": "Pagamos a conta." },
+        { "level": "A2-B1", "fr": "Il demande l'addition à la fin du repas.", "pt": "Ele pede a conta no fim da refeição." },
+        { "level": "B2", "fr": "Chacun paie l'addition à parts égales.", "pt": "Cada um paga a conta em partes iguais." },
+        { "level": "C1-C2", "fr": "Payer l'addition, c'est clore le repas et ouvrir la promesse du prochain.", "pt": "Pagar a conta é encerrar a refeição e abrir a promessa da próxima." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "O partitivo: du, de la, des, de l'",
+    "explanationPt": "Para quantidades indefinidas: du fromage (queijo), de la crème (creme), des frites (fritas), de l'eau (água). Depois de negação, vira 'de': je ne mange pas de fromage.",
+    "exampleFr": "On mange du welsh avec des frites et de la bière brune.",
+    "examplePt": "Come-se welsh com fritas e cerveja escura.",
+    "practiceQuestion": "Complete: « La carbonnade se prépare avec ___ bœuf et ___ oignons. »",
+    "options": ["du ... des", "le ... les", "de ... de", "un ... une"],
+    "correctIndex": 0,
+    "explanationPt": "Quantidades indefinidas: du bœuf, des oignons."
+  },
+  "quizQuestions": [
+    {
+      "question": "Qu'est-ce que le welsh ?",
+      "options": ["Un plat de pain, jambon et fromage fondu", "Un poisson de la mer du Nord", "Une pâtisserie sucrée", "Une soupe de poissons"],
+      "correctIndex": 0,
+      "explanation": "Le welsh est un plat de pain, de jambon, de fromage fondu et d'œuf."
+    },
+    {
+      "question": "Dans quoi mijote la carbonnade flamande ?",
+      "options": ["Dans la bière brune", "Dans le vin rouge", "Dans l'eau salée", "Dans le lait"],
+      "correctIndex": 0,
+      "explanation": "La carbonnade flamande mijote dans la bière brune avec des oignons."
+    },
+    {
+      "question": "Que sont les estaminets ?",
+      "options": ["D'anciens cafés de la région", "Des pâtisseries", "Des marchés couverts", "Des bibliothèques"],
+      "correctIndex": 0,
+      "explanation": "Les estaminets sont d'anciens cafés où l'on sert des plats simples."
+    }
+  ]
+}

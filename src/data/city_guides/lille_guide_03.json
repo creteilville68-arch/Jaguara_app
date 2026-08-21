@@ -1,0 +1,153 @@
+{
+  "id": "lille_guide_03",
+  "cityId": "lille",
+  "domain": "Cotidiano",
+  "level": "Misto (A2–C2)",
+  "titleFr": "Le commerce et la braderie de Lille",
+  "titlePt": "O comércio e a braderie de Lille",
+  "subtitleFr": "Du textile flamand au plus grand marché aux puces d'Europe",
+  "subtitlePt": "Do têxtil flamengo à maior feira de usados da Europa",
+  "summaryPt": "Enciclopédia de Lille, seção 3: a tradição comercial da cidade, o têxtil e a braderie — a maior feira de pulgas da Europa. Vocabulário de compras, comércio e consumo.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Lille est une ville de commerçants depuis toujours. Dans les rues du centre, les magasins se serrent les uns contre les autres : boutiques de vêtements, librairies, épiceries fines et grandes surfaces. Le week-end, les trottoirs se remplissent de clients qui comparent les prix et cherchent la bonne affaire.",
+      "pt": "Lille é uma cidade de comerciantes desde sempre. Nas ruas do centro, as lojas se apertam umas contra as outras: roupas, livrarias, empórios finos e grandes superfícies. No fim de semana, as calçadas se enchem de clientes que comparam os preços e procuram a boa oportunidade."
+    },
+    {
+      "id": 2,
+      "fr": "La tradition du textile marque encore la région. Autour de Lille, les villes de Roubaix et Tourcoing furent les capitales mondiales du tissu : on y tissait le lin, la laine et le coton, et l'on y fabriquait des vêtements pour le monde entier.",
+      "pt": "A tradição do têxtil ainda marca a região. Ao redor de Lille, as cidades de Roubaix e Tourcoing foram as capitais mundiais do tecido: tecia-se linho, lã e algodão, e fabricavam-se roupas para o mundo inteiro."
+    },
+    {
+      "id": 3,
+      "fr": "Chaque premier week-end de septembre, Lille organise la braderie : plus de dix mille exposants installent leurs étals dans toutes les rues. Pendant deux jours, la ville entière devient un immense marché où l'on cherche des trésors, des vieux livres, des meubles et des vêtements.",
+      "pt": "Todo primeiro fim de semana de setembro, Lille organiza a braderie: mais de dez mil expositores montam suas bancas em todas as ruas. Durante dois dias, a cidade inteira vira um imenso mercado onde se procuram tesouros, livros velhos, móveis e roupas."
+    },
+    {
+      "id": 4,
+      "fr": "Pendant la braderie, les clients se pressent dans les files d'attente, négocient les prix et repartent chargés de sacs. Certains arrivent tôt le matin pour trouver la bonne occasion ; d'autres préfèrent flâner et acheter en ligne les années suivantes, la main sur le panier virtuel.",
+      "pt": "Durante a braderie, os clientes se acotovelam nas filas, negociam os preços e partem carregados de sacolas. Alguns chegam cedo de manhã para achar a boa oportunidade; outros preferem passear e comprar online nos anos seguintes, com a mão no carrinho virtual."
+    },
+    {
+      "id": 5,
+      "fr": "Avant d'acheter, un bon client vérifie tout : la pointure des chaussures, la taille du vêtement, l'état du meuble. Dans les cabines d'essayage, on essaie, on hésite, on se regarde dans le miroir. Si l'article ne va pas, on peut le rembourser ou l'échanger, à condition de garder le ticket.",
+      "pt": "Antes de comprar, um bom cliente verifica tudo: o número dos sapatos, o tamanho da roupa, o estado do móvel. Nos provadores, experimenta-se, hesita-se, olha-se no espelho. Se o artigo não servir, pode-se pedir reembolso ou troca, desde que se guarde o recibo."
+    },
+    {
+      "id": 6,
+      "fr": "Le commerce lillois sait aussi se renouveler. Les jeunes créateurs ouvrent des ateliers dans les anciennes usines, les marchés bio se multiplient et la ville recycle ses friches en lieux de vie. L'esprit marchand de Lille reste le même : accueillir, échanger, trouver la perle rare.",
+      "pt": "O comércio de Lille também sabe se renovar. Jovens criadores abrem ateliês nas antigas fábricas, os mercados orgânicos se multiplicam e a cidade recicla seus terrenos abandonados em lugares de convivência. O espírito mercador de Lille continua o mesmo: acolher, trocar, achar a pérola rara."
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "chercher",
+      "definitionPt": "procurar",
+      "definitionFr": "Essayer de trouver quelque chose ou quelqu'un.",
+      "inflections": ["chercher", "cherche", "cherché"],
+      "ptTargets": ["procurar", "buscar"],
+      "examples": [
+        { "level": "A1", "fr": "Je cherche un cadeau.", "pt": "Eu procuro um presente." },
+        { "level": "A2-B1", "fr": "Ils cherchent la bonne affaire à la braderie.", "pt": "Eles procuram a boa oportunidade na braderie." },
+        { "level": "B2", "fr": "Chercher un trésor dans les brocantes demande de la patience.", "pt": "Procurar um tesouro nos sebos exige paciência." },
+        { "level": "C1-C2", "fr": "Chercher, c'est déjà trouver le chemin.", "pt": "Procurar já é encontrar o caminho." }
+      ]
+    },
+    {
+      "term": "négocier",
+      "definitionPt": "negociar",
+      "definitionFr": "Discuter les conditions d'un accord, d'un prix.",
+      "inflections": ["négocier", "négocie", "négocié"],
+      "ptTargets": ["negociar"],
+      "examples": [
+        { "level": "A1", "fr": "Il négocie le prix.", "pt": "Ele negocia o preço." },
+        { "level": "A2-B1", "fr": "On négocie le prix des vieux meubles à la braderie.", "pt": "Negocia-se o preço dos móveis velhos na braderie." },
+        { "level": "B2", "fr": "Négocier demande de connaître la valeur de ce que l'on achète.", "pt": "Negociar exige conhecer o valor do que se compra." },
+        { "level": "C1-C2", "fr": "Négocier, c'est écouter l'autre pour trouver un accord juste.", "pt": "Negociar é ouvir o outro para encontrar um acordo justo." }
+      ]
+    },
+    {
+      "term": "rembourser",
+      "definitionPt": "reembolsar",
+      "definitionFr": "Rendre l'argent payé pour un bien ou un service.",
+      "inflections": ["rembourser", "rembourse", "remboursé"],
+      "ptTargets": ["reembolsar"],
+      "examples": [
+        { "level": "A1", "fr": "Ils remboursent le client.", "pt": "Eles reembolsam o cliente." },
+        { "level": "A2-B1", "fr": "Le magasin rembourse les articles défectueux.", "pt": "A loja reembolsa os artigos com defeito." },
+        { "level": "B2", "fr": "Conservez le ticket pour vous faire rembourser.", "pt": "Guarde o recibo para ser reembolsado." },
+        { "level": "C1-C2", "fr": "Rembourser, c'est rétablir la confiance brisée par une promesse non tenue.", "pt": "Reembolsar é restabelecer a confiança quebrada por uma promessa não cumprida." }
+      ]
+    },
+    {
+      "term": "la cabine d'essayage",
+      "definitionPt": "o provador",
+      "definitionFr": "Petit espace où l'on essaie des vêtements.",
+      "inflections": ["la cabine d'essayage", "les cabines d'essayage"],
+      "ptTargets": ["provador"],
+      "examples": [
+        { "level": "A1", "fr": "La cabine d'essayage est libre.", "pt": "O provador está livre." },
+        { "level": "A2-B1", "fr": "Elle essaie la robe dans la cabine d'essayage.", "pt": "Ela experimenta o vestido no provador." },
+        { "level": "B2", "fr": "Il y a une file devant les cabines d'essayage.", "pt": "Há fila diante dos provadores." },
+        { "level": "C1-C2", "fr": "La cabine d'essayage est le lieu où l'on décide enfin qui l'on veut être.", "pt": "O provador é o lugar onde finalmente decidimos quem queremos ser." }
+      ]
+    },
+    {
+      "term": "acheter en ligne",
+      "definitionPt": "comprar online",
+      "definitionFr": "Faire un achat sur internet.",
+      "inflections": ["acheter en ligne", "achète en ligne", "acheté en ligne"],
+      "ptTargets": ["comprar online", "comprar pela internet"],
+      "examples": [
+        { "level": "A1", "fr": "J'achète en ligne.", "pt": "Eu compro online." },
+        { "level": "A2-B1", "fr": "Elle achète en ligne les billets de train.", "pt": "Ela compra online as passagens de trem." },
+        { "level": "B2", "fr": "Acheter en ligne permet de comparer les prix sans se déplacer.", "pt": "Comprar online permite comparar os preços sem se deslocar." },
+        { "level": "C1-C2", "fr": "Acheter en ligne, c'est choisir la commodité, mais renoncer au plaisir du hasard.", "pt": "Comprar online é escolher a comodidade, mas abrir mão do prazer do acaso." }
+      ]
+    },
+    {
+      "term": "se renouveler",
+      "definitionPt": "renovar-se",
+      "definitionFr": "Se transformer, se moderniser, recommencer.",
+      "inflections": ["se renouveler", "se renouvelle", "renouvelé"],
+      "ptTargets": ["renovar-se"],
+      "examples": [
+        { "level": "A1", "fr": "La ville se renouvelle.", "pt": "A cidade se renova." },
+        { "level": "A2-B1", "fr": "Le quartier se renouvelle avec de nouveaux ateliers.", "pt": "O bairro se renova com novos ateliês." },
+        { "level": "B2", "fr": "Se renouveler, c'est garder l'essentiel et changer le reste.", "pt": "Renovar-se é guardar o essencial e mudar o resto." },
+        { "level": "C1-C2", "fr": "Une ville se renouvelle sans jamais oublier la mémoire de ses murs.", "pt": "Uma cidade se renova sem nunca esquecer a memória de suas paredes." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "O pronome indefinido 'on'",
+    "explanationPt": "'On' é usado no lugar de 'nós' na fala cotidiana: on cherche (procuramos), on essaie (experimentamos), on peut (podemos). O verbo fica na terceira pessoa do singular.",
+    "exampleFr": "On cherche des trésors, on essaie, on hésite, et l'on finit par trouver.",
+    "examplePt": "Procuramos tesouros, experimentamos, hesitamos e acabamos encontrando.",
+    "practiceQuestion": "Complete: « À la braderie, on ___ les prix. »",
+    "options": ["négocie", "négocient", "négocions", "négocier"],
+    "correctIndex": 0,
+    "explanationPt": "Com 'on', o verbo fica na 3ª pessoa do singular: 'on négocie'."
+  },
+  "quizQuestions": [
+    {
+      "question": "Quand a lieu la braderie de Lille ?",
+      "options": ["Le premier week-end de septembre", "À Noël", "Au printemps", "En juillet"],
+      "correctIndex": 0,
+      "explanation": "La braderie de Lille a lieu chaque premier week-end de septembre."
+    },
+    {
+      "question": "Quelles villes voisines furent des capitales du textile ?",
+      "options": ["Roubaix et Tourcoing", "Calais et Boulogne", "Arras et Douai", "Valenciennes et Cambrai"],
+      "correctIndex": 0,
+      "explanation": "Roubaix et Tourcoing furent les capitales mondiales du tissu."
+    },
+    {
+      "question": "Que faut-il garder pour se faire rembourser ?",
+      "options": ["Le ticket de caisse", "La cabine d'essayage", "L'étiquette du vêtement", "La clé du magasin"],
+      "correctIndex": 0,
+      "explanation": "Il faut garder le ticket de caisse pour obtenir un remboursement."
+    }
+  ]
+}

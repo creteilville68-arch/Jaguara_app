@@ -1,0 +1,153 @@
+{
+  "id": "lille_guide_06",
+  "cityId": "lille",
+  "domain": "Cotidiano",
+  "level": "Misto (A2–C2)",
+  "titleFr": "La vie quotidienne : métro, tram et rythmes de la ville",
+  "titlePt": "A vida cotidiana: metrô, bonde e ritmos da cidade",
+  "subtitleFr": "Le VAL, le tramway et les habitudes des Lillois",
+  "subtitlePt": "O VAL, o bonde e os hábitos dos lillenses",
+  "summaryPt": "Enciclopédia de Lille, seção 6: o cotidiano da cidade — o metrô automático VAL, o bonde, o trem e os hábitos diários. Vocabulário de transporte, horários e rotina.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Lille fut la première ville au monde à ouvrir un métro entièrement automatique, le VAL. Les rames circulent sans conducteur, toutes les minutes aux heures de pointe. Les voyageurs descendent, montent, valident leur carte de transport et filent vers leur destination.",
+      "pt": "Lille foi a primeira cidade do mundo a abrir um metrô totalmente automático, o VAL. Os trens circulam sem condutor, a cada minuto nas horas de pico. Os viajantes descem, sobem, validam seu cartão de transporte e seguem rumo ao destino."
+    },
+    {
+      "id": 2,
+      "fr": "Un tramway traverse aussi la métropole, reliant les quartiers aux villes voisines. Les habitués connaissent les horaires par cœur et savent exactement quand freiner doucement ou se dépêcher pour attraper la rame. La ponctualité est une fierté locale.",
+      "pt": "Um bonde também atravessa a metrópole, ligando os bairros às cidades vizinhas. Os habituados conhecem os horários de cor e sabem exatamente quando frear devagar ou se apressar para pegar a composição. A pontualidade é um orgulho local."
+    },
+    {
+      "id": 3,
+      "fr": "Pour prendre le métro, on achète un ticket au distributeur automatique ou l'on recharge son abonnement mensuel. Avant d'entrer sur le quai, il faut composter son billet. Les contrôleurs vérifient parfois les titres de transport, et l'amende est salée pour les oublieux.",
+      "pt": "Para pegar o metrô, compra-se um bilhete na máquina automática ou recarrega-se a assinatura mensal. Antes de entrar na plataforma, é preciso validar o bilhete. Os fiscais verificam às vezes os títulos de transporte, e a multa é salgada para os esquecidos."
+    },
+    {
+      "id": 4,
+      "fr": "La gare Lille-Flandres est le cœur battant des déplacements : les trains régionaux partent toutes les dix minutes vers les villes du Nord, et le TGV relie Paris en une heure. Les voyageurs se dépêchent, consultent les panneaux, cherchent leur quai, montent à bord au dernier moment.",
+      "pt": "A estação Lille-Flandres é o coração pulsante dos deslocamentos: os trens regionais partem a cada dez minutos para as cidades do Norte, e o TGV liga Paris em uma hora. Os viajantes se apressam, consultam os painéis, procuram sua plataforma, entram no trem no último momento."
+    },
+    {
+      "id": 5,
+      "fr": "Dans la journée, les Lillois suivent un rythme bien réglé. Le matin, on dépose les enfants à l'école, on prend un café serré au comptoir, on fait les courses avec son caddie. À midi, les restaurants se remplissent ; le soir, les rues du centre s'animent.",
+      "pt": "Durante o dia, os lillenses seguem um ritmo bem regulado. De manhã, leva-se as crianças à escola, toma-se um café forte no balcão, faz-se as compras com o carrinho. Ao meio-dia, os restaurantes se enchem; à noite, as ruas do centro se animam."
+    },
+    {
+      "id": 6,
+      "fr": "Le week-end, on ralentit. On dort un peu plus tard, on se promène au marché, on retrouve des amis au parc. Les Lillois savent passer de la vitesse du métro à la lenteur du dimanche — les deux font partie de l'art de vivre ici.",
+      "pt": "No fim de semana, a gente desacelera. Dorme-se um pouco mais tarde, passeia-se no mercado, encontra-se amigos no parque. Os lillenses sabem passar da velocidade do metrô à lentidão do domingo — as duas fazem parte da arte de viver aqui."
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "la carte de transport",
+      "definitionPt": "o cartão de transporte",
+      "definitionFr": "Carte qui permet d'utiliser les transports en commun.",
+      "inflections": ["la carte de transport", "les cartes de transport"],
+      "ptTargets": ["cartão de transporte"],
+      "examples": [
+        { "level": "A1", "fr": "J'ai ma carte de transport.", "pt": "Eu tenho meu cartão de transporte." },
+        { "level": "A2-B1", "fr": "Il recharge sa carte de transport chaque mois.", "pt": "Ele recarrega seu cartão de transporte todo mês." },
+        { "level": "B2", "fr": "La carte de transport permet de prendre le métro et le tram.", "pt": "O cartão de transporte permite pegar o metrô e o bonde." },
+        { "level": "C1-C2", "fr": "La carte de transport est une clé qui ouvre la ville entière.", "pt": "O cartão de transporte é uma chave que abre a cidade inteira." }
+      ]
+    },
+    {
+      "term": "composter",
+      "definitionPt": "validar (bilhete)",
+      "definitionFr": "Valider un billet en le faisant oblitérer par une machine.",
+      "inflections": ["composter", "composte", "composté"],
+      "ptTargets": ["validar", "carimbar"],
+      "examples": [
+        { "level": "A1", "fr": "Je composte mon billet.", "pt": "Eu valido meu bilhete." },
+        { "level": "A2-B1", "fr": "Il faut composter avant d'entrer sur le quai.", "pt": "É preciso validar antes de entrar na plataforma." },
+        { "level": "B2", "fr": "Oublier de composter son billet peut coûter cher.", "pt": "Esquecer de validar o bilhete pode sair caro." },
+        { "level": "C1-C2", "fr": "Composter son billet, c'est signer le contrat du voyage.", "pt": "Validar o bilhete é assinar o contrato da viagem." }
+      ]
+    },
+    {
+      "term": "le distributeur automatique",
+      "definitionPt": "a máquina automática",
+      "definitionFr": "Machine qui distribue des billets ou des produits.",
+      "inflections": ["le distributeur automatique", "les distributeurs automatiques"],
+      "ptTargets": ["máquina automática", "caixa automático"],
+      "examples": [
+        { "level": "A1", "fr": "Le distributeur est en panne.", "pt": "A máquina está quebrada." },
+        { "level": "A2-B1", "fr": "J'achète mon billet au distributeur automatique.", "pt": "Eu compro meu bilhete na máquina automática." },
+        { "level": "B2", "fr": "Le distributeur automatique accepte les cartes bancaires.", "pt": "A máquina automática aceita cartões bancários." },
+        { "level": "C1-C2", "fr": "Le distributeur automatique ne connaît ni l'heure ni l'urgence : il faut s'y prendre à l'avance.", "pt": "A máquina automática não conhece nem a hora nem a pressa: é preciso se adiantar." }
+      ]
+    },
+    {
+      "term": "se dépêcher",
+      "definitionPt": "apressar-se",
+      "definitionFr": "Se presser, aller vite pour ne pas être en retard.",
+      "inflections": ["se dépêcher", "se dépêche", "dépêché"],
+      "ptTargets": ["apressar-se", "se apressar"],
+      "examples": [
+        { "level": "A1", "fr": "Je me dépêche pour le métro.", "pt": "Eu me apresso para o metrô." },
+        { "level": "A2-B1", "fr": "Il se dépêche pour attraper la rame.", "pt": "Ele se apressa para pegar a composição." },
+        { "level": "B2", "fr": "Se dépêcher le matin, c'est courir après le temps perdu la veille.", "pt": "Apressar-se de manhã é correr atrás do tempo perdido na véspera." },
+        { "level": "C1-C2", "fr": "Se dépêcher, c'est parfois oublier que la ville a son propre tempo.", "pt": "Apressar-se é às vezes esquecer que a cidade tem seu próprio tempo." }
+      ]
+    },
+    {
+      "term": "attraper",
+      "definitionPt": "pegar; alcançar",
+      "definitionFr": "Réussir à prendre un moyen de transport à temps.",
+      "inflections": ["attraper", "attrape", "attrapé"],
+      "ptTargets": ["pegar", "alcançar"],
+      "examples": [
+        { "level": "A1", "fr": "J'attrape le bus.", "pt": "Eu pego o ônibus." },
+        { "level": "A2-B1", "fr": "Elle attrape le tram juste à temps.", "pt": "Ela pega o bonde bem a tempo." },
+        { "level": "B2", "fr": "Attraper le dernier train demande une bonne dose de chance.", "pt": "Pegar o último trem exige uma boa dose de sorte." },
+        { "level": "C1-C2", "fr": "Attraper un train, c'est croire encore à la ponctualité du monde.", "pt": "Pegar um trem é ainda acreditar na pontualidade do mundo." }
+      ]
+    },
+    {
+      "term": "s'animer",
+      "definitionPt": "animar-se; ganhar vida",
+      "definitionFr": "Devenir vivant, plein de mouvement et de bruit.",
+      "inflections": ["s'animer", "s'anime", "animé"],
+      "ptTargets": ["animar-se", "ganhar vida"],
+      "examples": [
+        { "level": "A1", "fr": "La rue s'anime le soir.", "pt": "A rua se anima à noite." },
+        { "level": "A2-B1", "fr": "Le centre-ville s'anime le week-end.", "pt": "O centro se anima no fim de semana." },
+        { "level": "B2", "fr": "La place s'anime dès que les terrasses s'ouvrent.", "pt": "A praça ganha vida assim que os terraços abrem." },
+        { "level": "C1-C2", "fr": "Une ville s'anime quand ses habitants décident de s'y rencontrer.", "pt": "Uma cidade ganha vida quando seus moradores decidem se encontrar nela." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Expressões de obrigação: il faut + infinitivo",
+    "explanationPt": "'Il faut' + infinitivo expressa obrigação impessoal: il faut composter (é preciso validar), il faut s'y prendre à l'avance (é preciso se adiantar).",
+    "exampleFr": "Il faut composter son billet et se dépêcher pour attraper la rame.",
+    "examplePt": "É preciso validar o bilhete e se apressar para pegar a composição.",
+    "practiceQuestion": "Complete: « Pour prendre le métro, il faut ___ un ticket. »",
+    "options": ["acheter", "achète", "achèter", "achetant"],
+    "correctIndex": 0,
+    "explanationPt": "'Il faut' + infinitivo: il faut acheter."
+  },
+  "quizQuestions": [
+    {
+      "question": "En quoi le métro de Lille est-il particulier ?",
+      "options": ["Il est entièrement automatique", "Il est souterrain depuis 1900", "Il circule sur l'eau", "Il est à vapeur"],
+      "correctIndex": 0,
+      "explanation": "Le VAL de Lille fut le premier métro entièrement automatique au monde."
+    },
+    {
+      "question": "Que faut-il faire avant d'entrer sur le quai ?",
+      "options": ["Composter son billet", "Rendre sa carte", "Acheter un journal", "Réserver une place"],
+      "correctIndex": 0,
+      "explanation": "Il faut composter son billet avant d'entrer sur le quai."
+    },
+    {
+      "question": "Quelle ville relie le TGV depuis Lille-Flandres ?",
+      "options": ["Paris en une heure", "Rome en une heure", "Berlin en une heure", "Londres en cinq heures"],
+      "correctIndex": 0,
+      "explanation": "Le TGV relie Lille à Paris en une heure environ."
+    }
+  ]
+}

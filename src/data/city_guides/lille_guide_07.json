@@ -1,0 +1,153 @@
+{
+  "id": "lille_guide_07",
+  "cityId": "lille",
+  "domain": "Cotidiano",
+  "level": "Misto (A2–C2)",
+  "titleFr": "La santé et les émotions",
+  "titlePt": "A saúde e as emoções",
+  "subtitleFr": "Se soigner, se rétablir et se sentir bien",
+  "subtitlePt": "Tratar-se, recuperar-se e sentir-se bem",
+  "summaryPt": "Enciclopédia de Lille, seção 7: saúde e emoções no cotidiano — consultas, pequenos cuidados, sentimentos e bem-estar. Vocabulário de saúde, corpo e emoções.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Quand on tombe malade à Lille, on consulte d'abord son médecin généraliste. Il écoute, pose des questions, examine et prescrit des médicaments. La plupart des soins sont remboursés par la sécurité sociale, une fierté du système français.",
+      "pt": "Quando se adoece em Lille, consulta-se primeiro o clínico geral. Ele escuta, faz perguntas, examina e receita medicamentos. A maioria dos cuidados é reembolsada pela seguridade social, um orgulho do sistema francês."
+    },
+    {
+      "id": 2,
+      "fr": "Pour une petite blessure, on nettoie la plaie, on pose un pansement et l'on applique une pommade si nécessaire. Dans les cas plus sérieux, le médecin prescrit un bandage ou une piqûre. Avec du repos et des soins, on se rétablit vite.",
+      "pt": "Para um ferimento pequeno, limpa-se a ferida, coloca-se um curativo e aplica-se uma pomada se necessário. Nos casos mais sérios, o médico receita uma bandagem ou uma injeção. Com repouso e cuidados, recupera-se rápido."
+    },
+    {
+      "id": 3,
+      "fr": "L'hiver, les virus circulent dans le métro et les bureaux. On éternue, on tousse, on a mal à la tête, parfois on reste au lit avec la grippe. Le conseil des anciens lillois reste le plus sage : se couvrir, bien manger et dormir tôt.",
+      "pt": "No inverno, os vírus circulam no metrô e nos escritórios. Espirra-se, tosse-se, dói a cabeça, às vezes fica-se na cama com a gripe. O conselho das avós lillenses continua o mais sábio: agasalhar-se, comer bem e dormir cedo."
+    },
+    {
+      "id": 4,
+      "fr": "La santé, ce n'est pas seulement le corps. Les Lillois prennent soin de leur moral : on se promène dans les parcs, on sort avec des amis, on pratique un sport pour évacuer le stress. Quand la tristesse dure, on n'hésite pas à en parler.",
+      "pt": "Saúde não é só o corpo. Os lillenses cuidam do moral: passeia-se nos parques, sai-se com os amigos, pratica-se um esporte para descarregar o estresse. Quando a tristeza dura, não se hesita em falar sobre ela."
+    },
+    {
+      "id": 5,
+      "fr": "Les émotions traversent la vie quotidienne : on se fâche pour un malentendu, on s'inquiète avant un examen, on pleure parfois de joie ou de déception. Mais on apprend aussi à se calmer, à demander pardon et à féliciter ceux qui réussissent.",
+      "pt": "As emoções atravessam a vida cotidiana: fica-se bravo por um mal-entendido, preocupa-se antes de uma prova, chora-se às vezes de alegria ou decepção. Mas aprende-se também a se acalmar, a pedir perdão e a parabenizar quem consegue."
+    },
+    {
+      "id": 6,
+      "fr": "À Lille, on dit que la santé commence à table et dans les rues : manger équilibré, marcher chaque jour, prendre le temps de rire. Les habitants ont raison : se sentir bien, c'est déjà la moitié du chemin vers une belle vie.",
+      "pt": "Em Lille, dizem que a saúde começa à mesa e nas ruas: comer equilibrado, caminhar todos os dias, ter tempo de rir. Os moradores têm razão: sentir-se bem já é metade do caminho para uma bela vida."
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "tomber malade",
+      "definitionPt": "ficar doente",
+      "definitionFr": "Devenir malade, attraper une maladie.",
+      "inflections": ["tomber malade", "tombe malade", "tombé malade"],
+      "ptTargets": ["ficar doente", "adoecer"],
+      "examples": [
+        { "level": "A1", "fr": "Il tombe malade en hiver.", "pt": "Ele fica doente no inverno." },
+        { "level": "A2-B1", "fr": "Elle est tombée malade après le voyage.", "pt": "Ela ficou doente depois da viagem." },
+        { "level": "B2", "fr": "Tomber malade au mauvais moment, c'est la loi des examens.", "pt": "Ficar doente na hora errada é a lei das provas." },
+        { "level": "C1-C2", "fr": "Tomber malade, c'est parfois l'occasion de réapprendre à ralentir.", "pt": "Ficar doente é às vezes a ocasião de reaprender a desacelerar." }
+      ]
+    },
+    {
+      "term": "se rétablir",
+      "definitionPt": "recuperar-se",
+      "definitionFr": "Retrouver la santé après une maladie.",
+      "inflections": ["se rétablir", "se rétablit", "rétabli"],
+      "ptTargets": ["recuperar-se"],
+      "examples": [
+        { "level": "A1", "fr": "Il se rétablit vite.", "pt": "Ele se recupera rápido." },
+        { "level": "A2-B1", "fr": "Avec du repos, on se rétablit en quelques jours.", "pt": "Com repouso, recupera-se em poucos dias." },
+        { "level": "B2", "fr": "Se rétablir demande de la patience plus que de la volonté.", "pt": "Recuperar-se exige mais paciência do que vontade." },
+        { "level": "C1-C2", "fr": "Se rétablir, c'est retrouver le monde avec des yeux plus doux.", "pt": "Recuperar-se é reencontrar o mundo com olhos mais doces." }
+      ]
+    },
+    {
+      "term": "éternuer",
+      "definitionPt": "espirrar",
+      "definitionFr": "Rejeter brusquement de l'air par le nez et la bouche.",
+      "inflections": ["éternuer", "éternue", "éternué"],
+      "ptTargets": ["espirrar"],
+      "examples": [
+        { "level": "A1", "fr": "Elle éternue souvent.", "pt": "Ela espirra muito." },
+        { "level": "A2-B1", "fr": "Il éternue à cause du pollen.", "pt": "Ele espirra por causa do pólen." },
+        { "level": "B2", "fr": "Quand on éternue, on se couvre le nez avec le coude.", "pt": "Quando se espirra, cobre-se o nariz com o cotovelo." },
+        { "level": "C1-C2", "fr": "Éternuer en hiver, c'est le premier signe que l'hiver a gagné.", "pt": "Espirrar no inverno é o primeiro sinal de que o inverno venceu." }
+      ]
+    },
+    {
+      "term": "se fâcher",
+      "definitionPt": "ficar bravo; zangar-se",
+      "definitionFr": "Se mettre en colère.",
+      "inflections": ["se fâcher", "se fâche", "fâché"],
+      "ptTargets": ["ficar bravo", "zangar-se"],
+      "examples": [
+        { "level": "A1", "fr": "Il se fâche pour rien.", "pt": "Ele fica bravo por nada." },
+        { "level": "A2-B1", "fr": "Ils se fâchent pour un malentendu, puis se réconcilient.", "pt": "Eles se zangam por um mal-entendido e depois se reconciliam." },
+        { "level": "B2", "fr": "Se fâcher ne résout rien : mieux vaut en parler.", "pt": "Zangar-se não resolve nada: é melhor conversar." },
+        { "level": "C1-C2", "fr": "Se fâcher, c'est parfois crier que l'on tient à l'autre.", "pt": "Zangar-se é às vezes gritar que se importa com o outro." }
+      ]
+    },
+    {
+      "term": "s'inquiéter",
+      "definitionPt": "preocupar-se",
+      "definitionFr": "Se faire du souci pour quelque chose ou quelqu'un.",
+      "inflections": ["s'inquiéter", "s'inquiète", "inquiété"],
+      "ptTargets": ["preocupar-se"],
+      "examples": [
+        { "level": "A1", "fr": "Ne t'inquiète pas !", "pt": "Não se preocupe!" },
+        { "level": "A2-B1", "fr": "Elle s'inquiète avant l'examen.", "pt": "Ela se preocupa antes da prova." },
+        { "level": "B2", "fr": "S'inquiéter pour un proche, c'est une preuve d'amour.", "pt": "Preocupar-se com um próximo é uma prova de amor." },
+        { "level": "C1-C2", "fr": "S'inquiéter, c'est habiter l'avenir avant qu'il n'arrive.", "pt": "Preocupar-se é habitar o futuro antes que ele chegue." }
+      ]
+    },
+    {
+      "term": "féliciter",
+      "definitionPt": "parabenizar",
+      "definitionFr": "Exprimer sa satisfaction à quelqu'un pour sa réussite.",
+      "inflections": ["féliciter", "félicite", "félicité"],
+      "ptTargets": ["parabenizar", "felicitar"],
+      "examples": [
+        { "level": "A1", "fr": "Je te félicite !", "pt": "Parabéns!" },
+        { "level": "A2-B1", "fr": "On félicite les élèves qui réussissent.", "pt": "Parabeniza-se os alunos que conseguem." },
+        { "level": "B2", "fr": "Féliciter quelqu'un sincèrement renforce les liens.", "pt": "Parabenizar alguém sinceramente fortalece os laços." },
+        { "level": "C1-C2", "fr": "Féliciter, c'est reconnaître le chemin avant de célébrer l'arrivée.", "pt": "Parabenizar é reconhecer o caminho antes de celebrar a chegada." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "O imperativo com pronomes",
+    "explanationPt": "No imperativo afirmativo, os pronomes vêm depois do verbo com hífen: ne t'inquiète pas (não se preocupe), couvre-toi (agasalhe-se), repose-toi (descanse).",
+    "exampleFr": "Couvre-toi, repose-toi et ne t'inquiète pas : tout ira bien.",
+    "examplePt": "Agasalhe-se, descanse e não se preocupe: tudo vai dar certo.",
+    "practiceQuestion": "Complete: « ___, tu vas attraper froid ! »",
+    "options": ["Couvre-toi", "Couvre toi", "Te couvres", "Couvrir toi"],
+    "correctIndex": 0,
+    "explanationPt": "Imperativo com pronome posposto: 'couvre-toi'."
+  },
+  "quizQuestions": [
+    {
+      "question": "Que fait-on pour une petite blessure ?",
+      "options": ["On nettoie et on pose un pansement", "On court à l'hôpital", "On appelle les pompiers", "On ignore la plaie"],
+      "correctIndex": 0,
+      "explanation": "On nettoie la plaie et l'on pose un pansement."
+    },
+    {
+      "question": "Que rembourse la sécurité sociale en France ?",
+      "options": ["La plupart des soins", "Tous les voyages", "Les restaurants", "Les vêtements"],
+      "correctIndex": 0,
+      "explanation": "La sécurité sociale rembourse la plupart des soins médicaux."
+    },
+    {
+      "question": "Quel est le conseil des anciens contre la grippe ?",
+      "options": ["Se couvrir, bien manger et dormir tôt", "Sortir sans manteau", "Boire du café glacé", "Travailler plus"],
+      "correctIndex": 0,
+      "explanation": "Le conseil classique : se couvrir, bien manger et dormir tôt."
+    }
+  ]
+}

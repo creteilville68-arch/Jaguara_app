@@ -71,4 +71,22 @@ export const LILLE_BACKLOG_EXAMPLES: Record<string, MasterExample[]> = {
     { level: 'B2', fr: "Il a réglé l'addition et a laissé un pourboire.", pt: 'Ele pagou a conta e deixou uma gorjeta.' },
     { level: 'C1-C2', fr: "L'addition d'un repas se règle, mais celle d'un secret ne se règle jamais.", pt: 'A conta de uma refeição se paga, mas a de um segredo nunca se paga.' },
   ],
+  reine: [
+    { level: 'A1', fr: 'La reine est au château.', pt: 'A rainha está no castelo.' },
+    { level: 'A2-B1', fr: 'On appelle la citadelle la reine des citadelles.', pt: 'Chamam a cidadela de rainha das cidadelas.' },
+    { level: 'B2', fr: 'Cette forteresse est considérée comme la reine des citadelles.', pt: 'Esta fortaleza é considerada a rainha das cidadelas.' },
+    { level: 'C1-C2', fr: 'Chaque ville a sa reine cachée : un lieu qui règne sans couronne.', pt: 'Cada cidade tem sua rainha escondida: um lugar que reina sem coroa.' },
+  ],
+  diplôme: [
+    { level: 'A1', fr: 'Le diplôme est important.', pt: 'O diploma é importante.' },
+    { level: 'A2-B1', fr: 'Elle reçoit son diplôme à la fin de l\'année.', pt: 'Ela recebe seu diploma no fim do ano.' },
+    { level: 'B2', fr: 'Obtenir un diplôme ouvre des portes sur le marché du travail.', pt: 'Obter um diploma abre portas no mercado de trabalho.' },
+    { level: 'C1-C2', fr: 'Le diplôme atteste d\'un savoir, mais c\'est la vie qui juge le savoir-faire.', pt: 'O diploma atesta um saber, mas é a vida que julga o saber-fazer.' },
+  ],
+  diplômé: [
+    { level: 'A1', fr: 'Il est diplômé.', pt: 'Ele é formado.' },
+    { level: 'A2-B1', fr: 'Elle est diplômée de l\'université de Lille.', pt: 'Ela é formada pela universidade de Lille.' },
+    { level: 'B2', fr: 'Les jeunes diplômés cherchent leur premier emploi.', pt: 'Os jovens formados procuram seu primeiro emprego.' },
+    { level: 'C1-C2', fr: 'Être diplômé n\'est qu\'une étape : le parcours continue bien après le diplôme.', pt: 'Ser formado é só uma etapa: o percurso continua bem depois do diploma.' },
+  ],
 };
