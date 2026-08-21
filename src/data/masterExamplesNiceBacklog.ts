@@ -83,4 +83,10 @@ export const NICE_BACKLOG_EXAMPLES: Record<string, MasterExample[]> = {
     { level: 'B2', fr: 'Les tendances artistiques, nées à Nice, ont rayonné sur toute la Côte d’Azur.', pt: 'As tendências artísticas, nascidas em Nice, irradiaram por toda a Côte d’Azur.' },
     { level: 'C1-C2', fr: 'Une ville qui suit les tendances sans les subir garde sa singularité.', pt: 'Uma cidade que segue as tendências sem sucumbir a elas guarda sua singularidade.' },
   ],
+  présent: [
+    { level: 'A1', fr: 'Je vis dans le présent.', pt: 'Eu vivo no presente.' },
+    { level: 'A2-B1', fr: 'Le passé est riche, mais le présent est plein de promesses.', pt: 'O passado é rico, mas o presente é cheio de promessas.' },
+    { level: 'B2', fr: 'Entre un passé prestigieux et un présent complexe, la ville cherche son équilibre.', pt: 'Entre um passado prestigioso e um presente complexo, a cidade busca seu equilíbrio.' },
+    { level: 'C1-C2', fr: 'Le passé le plus profond et le présent le plus brillant cohabitent ici sur quelques kilomètres.', pt: 'O passado mais profundo e o presente mais brilhante convivem aqui em poucos quilômetros.' },
+  ],
 };
