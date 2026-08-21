@@ -21,10 +21,10 @@ reaparece em outras aulas ou cidades.
 
 | Métrica | Valor |
 | --- | --- |
-| Lições existentes (aventura + guias) | 578 |
+| Lições existentes (aventura + guias) | 590 |
 | Palavras únicas no banco | 16.796 |
-| Já presentes nos textos | 7.480 |
-| **Ainda falta escrever nos textos** | **~9.300** |
+| Já presentes nos textos | 7.614 |
+| **Ainda falta escrever nos textos** | **~9.200** |
 
 A meta é atingida quando a coluna "ainda falta" chegar a zero — ou seja,
 quando todas as palavras da lista de cada cidade aparecerem nos parágrafos
@@ -32,9 +32,15 @@ em francês. As duas frentes de escrita são:
 
 1. **Aventura (Fase 1):** as aulas da trilha de Irlan (`src/data/<cidade>_lesson_<N>.json`).
 2. **Enciclopédia (Fase 2):** os dossiês temáticos pós-trilha
-   (`src/data/city_guides/<cidade>_guide_<N>.json`) — 11 cidades, 88 seções,
+   (`src/data/city_guides/<cidade>_guide_<N>.json`) — 11 cidades, 96 seções,
    desbloqueados quando o aluno termina a aventura. São o lar natural do
    vocabulário avançado (C1/C2), que não cabe no enredo sem enrolá-lo.
+
+   Os guias marcam o **nível de cada seção** no campo `level` (ex.:
+   `Nível (C1)`): as seções iniciais são `Misto (A1–C2)` e as seções
+   avançadas, feitas para absorver vocabulário C1/C2, declaram o nível
+   específico. O app exibe esse rótulo no cabeçalho do leitor e como
+   badge na lista de seções.
 
 ## 2. Distribuição por cidade (ponderada pelo CEFR)
 
@@ -246,5 +252,5 @@ mesmo schema das aulas (`paragraphs` bilíngues + `vocabularyDictionary`).
 - Misture níveis A1–C2 no corpo do texto: é assim que os dossiês absorvem as
   milhares de palavras avançadas que não cabem no enredo.
 
-Status atual: **11/11 cidades completas** (88 seções, 529 parágrafos,
-+776 palavras cobertas desde o início da Fase 2).
+Status atual: **11/11 cidades completas** (96 seções, 601 parágrafos,
++910 palavras cobertas desde o início da Fase 2).
