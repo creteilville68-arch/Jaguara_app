@@ -1,0 +1,153 @@
+{
+  "id": "tours_guide_08",
+  "cityId": "tours",
+  "domain": "Saúde",
+  "level": "Misto (A1–C2)",
+  "titleFr": "La santé en Touraine : prévenir et se sentir bien",
+  "titlePt": "A saúde na Touraine: prevenir e sentir-se bem",
+  "subtitleFr": "Médecine, prévention et douceur de vivre",
+  "subtitlePt": "Medicina, prevenção e doçura de viver",
+  "summaryPt": "Enciclopédia de Tours, seção 8: os serviços de saúde da região, a prevenção e os hábitos de bem-estar. Vocabulário de saúde e emoções, com níveis mistos.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "La région de Tours dispose d'excellents services de santé. Le centre hospitalier universitaire est l'un des plus importants de France, avec des spécialistes réputés dans tous les domaines. Les habitants consultent d'abord leur généraliste, qui les oriente vers un spécialiste si nécessaire. Se soigner tôt évite bien des complications.",
+      "pt": "A região de Tours tem excelentes serviços de saúde. O hospital universitário é um dos mais importantes da França, com especialistas renomados em todas as áreas. Os moradores consultam primeiro seu clínico geral, que os encaminha a um especialista se necessário. Tratar-se cedo evita muitas complicações."
+    },
+    {
+      "id": 2,
+      "fr": "La prévention est au cœur de la médecine moderne. Les campagnes de dépistage permettent de détecter les maladies avant qu'elles ne deviennent graves. Les médecins rappellent aussi l'importance des vaccins : se faire vacciner, c'est protéger sa santé et celle des autres.",
+      "pt": "A prevenção está no coração da medicina moderna. As campanhas de rastreamento permitem detectar as doenças antes que fiquem graves. Os médicos lembram também a importância das vacinas: vacinar-se é proteger a própria saúde e a dos outros."
+    },
+    {
+      "id": 3,
+      "fr": "Le stress est le mal du siècle, mais la région offre des remèdes naturels : les marches au bord de la Loire, les jardins paisibles et le rythme lent des villages. La relaxation et la méditation gagnent du terrain. Beaucoup d'habitants commencent la journée par quelques minutes de calme, avant d'affronter le bruit du monde.",
+      "pt": "O estresse é o mal do século, mas a região oferece remédios naturais: as caminhadas à beira do Loire, os jardins tranquilos e o ritmo lento das vilas. O relaxamento e a meditação ganham terreno. Muitos moradores começam o dia com alguns minutos de calma, antes de enfrentar o barulho do mundo."
+    },
+    {
+      "id": 4,
+      "fr": "Après une maladie ou une opération, la convalescence demande du repos et de la patience. Les médecins recommandent de reprendre les activités progressivement, sans se dépêcher. Les proches jouent un rôle essentiel : ils réconfortent, rassurent et encouragent le malade à garder le moral.",
+      "pt": "Depois de uma doença ou operação, a convalescença exige repouso e paciência. Os médicos recomendam retomar as atividades progressivamente, sem pressa. Os próximos têm um papel essencial: consolam, tranquilizam e incentivam o doente a manter o ânimo."
+    },
+    {
+      "id": 5,
+      "fr": "Pour rester en forme, les habitants misent sur la régularité : marcher chaque jour, dormir suffisamment et manger équilibré. Les marchés de la région proposent des fruits et des légumes frais, pleins de vitamines. Quand on se sent bien dans son corps, on se sent bien dans sa tête.",
+      "pt": "Para continuar em forma, os moradores apostam na regularidade: caminhar todos os dias, dormir o suficiente e comer de forma equilibrada. Os mercados da região oferecem frutas e legumes frescos, cheios de vitaminas. Quando nos sentimos bem no corpo, sentimo-nos bem na cabeça."
+    },
+    {
+      "id": 6,
+      "fr": "Enfin, les médecins insistent sur un point : il ne faut pas rester seul face à la douleur, qu'elle soit physique ou morale. Parler à son médecin, à sa famille ou à ses amis est déjà un premier soin. La douceur de vivre tourangelle, elle, fait le reste : un bon repas, une promenade, un sourire, et le moral remonte.",
+      "pt": "Por fim, os médicos insistem num ponto: não se deve ficar sozinho diante da dor, seja física ou moral. Falar com o médico, a família ou os amigos já é um primeiro cuidado. A doçura de viver tourangelle faz o resto: uma boa refeição, um passeio, um sorriso, e o ânimo volta."
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "le généraliste",
+      "definitionPt": "o clínico geral",
+      "definitionFr": "Médecin qui soigne les maladies courantes et oriente vers les spécialistes.",
+      "inflections": ["le généraliste", "les généralistes", "consulter un généraliste"],
+      "ptTargets": ["clínico geral", "médico de família"],
+      "examples": [
+        { "level": "A1", "fr": "Je vais chez le généraliste.", "pt": "Eu vou ao clínico geral." },
+        { "level": "A2-B1", "fr": "Les habitants consultent d'abord leur généraliste.", "pt": "Os moradores consultam primeiro seu clínico geral." },
+        { "level": "B2", "fr": "Le généraliste est la première porte de la santé.", "pt": "O clínico geral é a primeira porta da saúde." },
+        { "level": "C1-C2", "fr": "Un bon généraliste connaît son patient avant de connaître sa maladie.", "pt": "Um bom clínico geral conhece seu paciente antes de conhecer sua doença." }
+      ]
+    },
+    {
+      "term": "le dépistage",
+      "definitionPt": "o exame preventivo; o rastreamento",
+      "definitionFr": "Examen pour détecter une maladie avant ses symptômes.",
+      "inflections": ["le dépistage", "les dépistages", "faire un dépistage"],
+      "ptTargets": ["exame preventivo", "rastreamento", "triagem"],
+      "examples": [
+        { "level": "A1", "fr": "Le dépistage est rapide.", "pt": "O exame preventivo é rápido." },
+        { "level": "A2-B1", "fr": "Les campagnes de dépistage détectent les maladies tôt.", "pt": "As campanhas de rastreamento detectam as doenças cedo." },
+        { "level": "B2", "fr": "Le dépistage est un rendez-vous avec la prudence.", "pt": "O rastreamento é um encontro com a prudência." },
+        { "level": "C1-C2", "fr": "Le dépistage transforme l'angoisse de l'inconnu en certitude utile.", "pt": "O rastreamento transforma a angústia do desconhecido em certeza útil." }
+      ]
+    },
+    {
+      "term": "se faire vacciner",
+      "definitionPt": "vacinar-se",
+      "definitionFr": "Recevoir un vaccin pour se protéger d'une maladie.",
+      "inflections": ["se faire vacciner", "se fait vacciner", "fait vacciner"],
+      "ptTargets": ["vacinar-se", "tomar vacina"],
+      "examples": [
+        { "level": "A1", "fr": "Je me fais vacciner.", "pt": "Eu me vacino." },
+        { "level": "A2-B1", "fr": "Se faire vacciner protège sa santé et celle des autres.", "pt": "Vacinar-se protege a própria saúde e a dos outros." },
+        { "level": "B2", "fr": "Se faire vacciner, c'est un acte de responsabilité collective.", "pt": "Vacinar-se é um ato de responsabilidade coletiva." },
+        { "level": "C1-C2", "fr": "Se faire vacciner, c'est choisir la raison contre la peur.", "pt": "Vacinar-se é escolher a razão contra o medo." }
+      ]
+    },
+    {
+      "term": "la convalescence",
+      "definitionPt": "a convalescença",
+      "definitionFr": "Période de repos qui suit une maladie ou une opération.",
+      "inflections": ["la convalescence", "être en convalescence"],
+      "ptTargets": ["convalescença", "recuperação"],
+      "examples": [
+        { "level": "A1", "fr": "La convalescence est longue.", "pt": "A convalescença é longa." },
+        { "level": "A2-B1", "fr": "La convalescence demande du repos et de la patience.", "pt": "A convalescença exige repouso e paciência." },
+        { "level": "B2", "fr": "La convalescence est une école de lenteur.", "pt": "A convalescença é uma escola de lentidão." },
+        { "level": "C1-C2", "fr": "La convalescence apprend au corps à réécouter son propre rythme.", "pt": "A convalescença ensina o corpo a reescutar o próprio ritmo." }
+      ]
+    },
+    {
+      "term": "se sentir bien",
+      "definitionPt": "sentir-se bem",
+      "definitionFr": "Être en bonne forme, physiquement et moralement.",
+      "inflections": ["se sentir bien", "se sent bien", "senti bien"],
+      "ptTargets": ["sentir-se bem", "estar bem"],
+      "examples": [
+        { "level": "A1", "fr": "Je me sens bien aujourd'hui.", "pt": "Eu me sinto bem hoje." },
+        { "level": "A2-B1", "fr": "Quand on se sent bien, tout semble possible.", "pt": "Quando nos sentimos bem, tudo parece possível." },
+        { "level": "B2", "fr": "Se sentir bien dans son corps aide à se sentir bien dans sa tête.", "pt": "Sentir-se bem no corpo ajuda a se sentir bem na cabeça." },
+        { "level": "C1-C2", "fr": "Se sentir bien, c'est avoir trouvé l'accord entre ce que l'on fait et ce que l'on est.", "pt": "Sentir-se bem é ter encontrado o acorde entre o que se faz e o que se é." }
+      ]
+    },
+    {
+      "term": "avoir le moral",
+      "definitionPt": "estar animado; ter ânimo",
+      "definitionFr": "Être de bonne humeur, se sentir plein d'énergie.",
+      "inflections": ["avoir le moral", "a le moral", "eu le moral"],
+      "ptTargets": ["estar animado", "ter ânimo", "estar de bom astral"],
+      "examples": [
+        { "level": "A1", "fr": "J'ai le moral aujourd'hui.", "pt": "Eu estou animado hoje." },
+        { "level": "A2-B1", "fr": "Un bon repas et le moral remonte.", "pt": "Uma boa refeição e o ânimo volta." },
+        { "level": "B2", "fr": "Avoir le moral, c'est souvent une question de rythme de vie.", "pt": "Estar animado costuma ser questão de ritmo de vida." },
+        { "level": "C1-C2", "fr": "Le moral se cultive comme un jardin : un peu chaque jour.", "pt": "O ânimo se cultiva como um jardim: um pouco a cada dia." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Os pronomes possessivos e a saúde",
+    "explanationPt": "Com as partes do corpo e a saúde, o francês usa o possessivo de forma natural: ma santé, son moral, les proches. Expressões fixas: avoir le moral, se sentir bien, être en forme (sem possessivo).",
+    "exampleFr": "Il prend soin de sa santé, garde le moral, et se sent bien dans sa peau.",
+    "examplePt": "Ele cuida da saúde, mantém o ânimo e se sente bem na própria pele.",
+    "practiceQuestion": "Complete: « Après la marche, je me ___ bien. »",
+    "options": ["sens", "sent", "sente", "sentir"],
+    "correctIndex": 0,
+    "explanationPt": "Je me sens bien — 'sens' com 'je'."
+  },
+  "quizQuestions": [
+    {
+      "question": "Que fait le généraliste avant d'orienter vers un spécialiste ?",
+      "options": ["Il examine et oriente le patient", "Il opère directement", "Il donne des médicaments sans examen", "Il refuse de recevoir"],
+      "correctIndex": 0,
+      "explanation": "Le généraliste soigne les maladies courantes et oriente vers un spécialiste."
+    },
+    {
+      "question": "Pourquoi le dépistage est-il important ?",
+      "options": ["Il détecte les maladies avant qu'elles ne deviennent graves", "Il remplace le vaccin", "Il soigne sans médecin", "Il évite de dormir"],
+      "correctIndex": 0,
+      "explanation": "Le dépistage permet de détecter les maladies tôt."
+    },
+    {
+      "question": "Que recommandent les médecins pendant la convalescence ?",
+      "options": ["Du repos et de la patience", "Du sport intense", "Des nuits blanches", "Un régime strict"],
+      "correctIndex": 0,
+      "explanation": "La convalescence demande du repos et de la patience."
+    }
+  ]
+}

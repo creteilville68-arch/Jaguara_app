@@ -1,0 +1,153 @@
+{
+  "id": "tours_guide_01",
+  "cityId": "tours",
+  "domain": "História",
+  "level": "Misto (A1–C2)",
+  "titleFr": "Tours : la porte du Val de Loire",
+  "titlePt": "Tours: a porta do Vale do Loire",
+  "subtitleFr": "De la cité gallo-romaine à la ville des rois",
+  "subtitlePt": "Da cidade galo-romana à cidade dos reis",
+  "summaryPt": "Enciclopédia de Tours, seção 1: a história da cidade — da época romana aos reis da França — e sua posição de porta de entrada do Vale do Loire. Vocabulário de história e cidade, com níveis mistos.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Tours est née sur les bords de la Loire, le plus long fleuve de France. À l'époque gallo-romaine, la ville s'appelait Caesarodunum et se trouvait au croisement de plusieurs routes importantes. Les marchands, les soldats et les voyageurs s'y arrêtaient pour échanger des nouvelles et des marchandises.",
+      "pt": "Tours nasceu às margens do Loire, o rio mais longo da França. Na época galo-romana, a cidade se chamava Caesarodunum e ficava no cruzamento de várias estradas importantes. Mercadores, soldados e viajantes paravam ali para trocar notícias e mercadorias."
+    },
+    {
+      "id": 2,
+      "fr": "Au Moyen Âge, Tours devint une ville religieuse et commerçante. Les artisans fabriquaient des draps, des cuirs et des bijoux, et les marchés attiraient les gens des villages voisins. La ville grandit autour de la cathédrale Saint-Gatien, dont la construction dura plus de trois cents ans.",
+      "pt": "Na Idade Média, Tours virou uma cidade religiosa e comercial. Os artesãos fabricavam tecidos, couros e joias, e os mercados atraíam as pessoas das vilas vizinhas. A cidade cresceu ao redor da catedral Saint-Gatien, cuja construção durou mais de trezentos anos."
+    },
+    {
+      "id": 3,
+      "fr": "À la Renaissance, les rois de France s'installèrent dans la région. Ils construisirent des châteaux dans toute la vallée et firent de Tours leur résidence préférée. Les artistes, les écrivains et les savants vinrent de toute l'Europe : la Touraine devint le cœur intellectuel du royaume.",
+      "pt": "Na Renascença, os reis da França se instalaram na região. Construíram castelos em todo o vale e fizeram de Tours sua residência preferida. Artistas, escritores e sábios vieram de toda a Europa: a Touraine virou o coração intelectual do reino."
+    },
+    {
+      "id": 4,
+      "fr": "Au XIXe siècle, la ville se modernisa : le chemin de fer arriva, puis l'électricité et les grands boulevards. Les habitants entretenaient leurs maisons avec soin, et les jardins fleurissaient au bord du fleuve. La région devint une destination prisée des familles parisiennes.",
+      "pt": "No século XIX, a cidade se modernizou: a ferrovia chegou, depois a eletricidade e as grandes avenidas. Os moradores mantinham suas casas com cuidado, e os jardins floresciam à beira do rio. A região virou um destino querido das famílias parisienses."
+    },
+    {
+      "id": 5,
+      "fr": "Pendant la Seconde Guerre mondiale, Tours fut bombardée, et de nombreux quartiers anciens furent détruits. Après la guerre, la ville se releva et reconstruisit son centre avec courage. Les habitants n'oublièrent pas leur passé : ils rénovèrent les vieilles maisons à colombages du quartier de la cathédrale.",
+      "pt": "Durante a Segunda Guerra Mundial, Tours foi bombardeada, e muitos bairros antigos foram destruídos. Depois da guerra, a cidade se reergueu e reconstruiu seu centro com coragem. Os moradores não esqueceram seu passado: reformaram as casas antigas de enxaimel do bairro da catedral."
+    },
+    {
+      "id": 6,
+      "fr": "Aujourd'hui, Tours est une ville vivante et jeune, célèbre pour sa douceur de vivre. Ses habitants répètent avec fierté qu'on y parle le français le plus pur de France. Entre la Loire, les châteaux et les jardins, la ville garde un équilibre rare entre patrimoine et modernité.",
+      "pt": "Hoje, Tours é uma cidade viva e jovem, famosa por sua doçura de viver. Seus moradores repetem com orgulho que se fala ali o francês mais puro da França. Entre o Loire, os castelos e os jardins, a cidade guarda um equilíbrio raro entre patrimônio e modernidade."
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "échanger",
+      "definitionPt": "trocar; intercambiar",
+      "definitionFr": "Donner et recevoir en même temps.",
+      "inflections": ["échanger", "échange", "échangé"],
+      "ptTargets": ["trocar", "intercambiar", "conversar"],
+      "examples": [
+        { "level": "A1", "fr": "J'échange des timbres.", "pt": "Eu troco selos." },
+        { "level": "A2-B1", "fr": "Les voyageurs s'arrêtaient pour échanger des nouvelles.", "pt": "Os viajantes paravam para trocar notícias." },
+        { "level": "B2", "fr": "Échanger avec des inconnus, c'est s'enrichir sans rien dépenser.", "pt": "Trocar ideias com desconhecidos é se enriquecer sem gastar nada." },
+        { "level": "C1-C2", "fr": "Échanger, c'est ouvrir une fenêtre sur un autre monde.", "pt": "Trocar é abrir uma janela para outro mundo." }
+      ]
+    },
+    {
+      "term": "fabriquer",
+      "definitionPt": "fabricar",
+      "definitionFr": "Produire quelque chose par un travail manuel ou industriel.",
+      "inflections": ["fabriquer", "fabrique", "fabriqué"],
+      "ptTargets": ["fabricar", "produzir"],
+      "examples": [
+        { "level": "A1", "fr": "Ils fabriquent du pain.", "pt": "Eles fabricam pão." },
+        { "level": "A2-B1", "fr": "Les artisans fabriquaient des draps et des bijoux.", "pt": "Os artesãos fabricavam tecidos e joias." },
+        { "level": "B2", "fr": "Fabriquer de ses mains procure une fierté unique.", "pt": "Fabricar com as próprias mãos dá um orgulho único." },
+        { "level": "C1-C2", "fr": "Fabriquer, c'est laisser une trace concrète de son passage.", "pt": "Fabricar é deixar uma marca concreta de sua passagem." }
+      ]
+    },
+    {
+      "term": "se moderniser",
+      "definitionPt": "modernizar-se",
+      "definitionFr": "Se mettre au goût du jour, adopter les techniques récentes.",
+      "inflections": ["se moderniser", "se modernise", "modernisé"],
+      "ptTargets": ["modernizar-se", "modernizar"],
+      "examples": [
+        { "level": "A1", "fr": "La ville se modernise.", "pt": "A cidade se moderniza." },
+        { "level": "A2-B1", "fr": "Tours se modernisa avec l'arrivée du chemin de fer.", "pt": "Tours se modernizou com a chegada da ferrovia." },
+        { "level": "B2", "fr": "Se moderniser sans perdre son âme, c'est le défi des vieilles villes.", "pt": "Modernizar-se sem perder a alma é o desafio das cidades antigas." },
+        { "level": "C1-C2", "fr": "Se moderniser, c'est changer de vêtements sans changer de cœur.", "pt": "Modernizar-se é trocar de roupas sem mudar de coração." }
+      ]
+    },
+    {
+      "term": "entretenir",
+      "definitionPt": "manter; conservar",
+      "definitionFr": "Prendre soin de quelque chose pour le garder en bon état.",
+      "inflections": ["entretenir", "entretient", "entretenu"],
+      "ptTargets": ["manter", "conservar", "cuidar de"],
+      "examples": [
+        { "level": "A1", "fr": "Il entretient son vélo.", "pt": "Ele cuida da bicicleta." },
+        { "level": "A2-B1", "fr": "Les habitants entretenaient leurs maisons avec soin.", "pt": "Os moradores mantinham suas casas com cuidado." },
+        { "level": "B2", "fr": "Entretenir une amitié demande du temps et de l'attention.", "pt": "Manter uma amizade exige tempo e atenção." },
+        { "level": "C1-C2", "fr": "Entretenir, c'est honorer ce que l'on a reçu.", "pt": "Manter é honrar o que se recebeu." }
+      ]
+    },
+    {
+      "term": "se relever",
+      "definitionPt": "reerguer-se; recuperar-se",
+      "definitionFr": "Se redresser après une chute ou une épreuve.",
+      "inflections": ["se relever", "se relève", "relevé"],
+      "ptTargets": ["reerguer-se", "recuperar-se"],
+      "examples": [
+        { "level": "A1", "fr": "Il se relève après sa chute.", "pt": "Ele se reergue depois da queda." },
+        { "level": "A2-B1", "fr": "Après la guerre, la ville se releva.", "pt": "Depois da guerra, a cidade se reergueu." },
+        { "level": "B2", "fr": "Se relever d'une épreuve demande du temps et du courage.", "pt": "Reerguer-se de uma provação exige tempo e coragem." },
+        { "level": "C1-C2", "fr": "C'est en se relevant ensemble qu'une ville retrouve son visage.", "pt": "É reerguendo-se juntos que uma cidade reencontra seu rosto." }
+      ]
+    },
+    {
+      "term": "rénover",
+      "definitionPt": "reformar; renovar",
+      "definitionFr": "Remettre à neuf, restaurer.",
+      "inflections": ["rénover", "rénove", "rénové"],
+      "ptTargets": ["reformar", "renovar", "restaurar"],
+      "examples": [
+        { "level": "A1", "fr": "Ils rénovent la maison.", "pt": "Eles reformam a casa." },
+        { "level": "A2-B1", "fr": "Ils rénovèrent les vieilles maisons à colombages.", "pt": "Eles reformaram as casas antigas de enxaimel." },
+        { "level": "B2", "fr": "Rénover un quartier, c'est lui donner une seconde vie.", "pt": "Reformar um bairro é dar-lhe uma segunda vida." },
+        { "level": "C1-C2", "fr": "Rénover, c'est respecter le passé en préparant l'avenir.", "pt": "Reformar é respeitar o passado preparando o futuro." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Passé simple na narrativa histórica",
+    "explanationPt": "Nos textos históricos, o passé simple marca os acontecimentos (devint, construisirent, se modernisa, se releva). O imparfait descreve o cenário (les marchands s'arrêtaient, les artisans fabriquaient).",
+    "exampleFr": "La ville se modernisa, et les jardins fleurirent au bord du fleuve.",
+    "examplePt": "A cidade se modernizou, e os jardins floresceram à beira do rio.",
+    "practiceQuestion": "Complete: « À la Renaissance, les rois ___ des châteaux dans toute la vallée. »",
+    "options": ["construisirent", "construisent", "construiront", "ont construit"],
+    "correctIndex": 0,
+    "explanationPt": "Narrativa histórica em passé simple: 'construisirent'."
+  },
+  "quizQuestions": [
+    {
+      "question": "Comment s'appelait Tours à l'époque gallo-romaine ?",
+      "options": ["Caesarodunum", "Lutetia", "Augustoritum", "Lugdunum"],
+      "correctIndex": 0,
+      "explanation": "À l'époque gallo-romaine, Tours s'appelait Caesarodunum."
+    },
+    {
+      "question": "Quel fleuve traverse Tours ?",
+      "options": ["La Loire", "La Seine", "Le Rhône", "La Garonne"],
+      "correctIndex": 0,
+      "explanation": "La Loire, le plus long fleuve de France, traverse Tours."
+    },
+    {
+      "question": "De quoi les habitants de Tours sont-ils particulièrement fiers ?",
+      "options": ["De parler le français le plus pur de France", "De construire des gratte-ciels", "D'avoir la plus grande gare d'Europe", "De produire du pétrole"],
+      "correctIndex": 0,
+      "explanation": "On dit que le français de Tours est le plus pur de France."
+    }
+  ]
+}

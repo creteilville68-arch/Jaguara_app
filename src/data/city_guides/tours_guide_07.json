@@ -1,0 +1,153 @@
+{
+  "id": "tours_guide_07",
+  "cityId": "tours",
+  "domain": "Viagem",
+  "level": "Misto (A1–C2)",
+  "titleFr": "Explorer la région : la route des châteaux",
+  "titlePt": "Explorar a região: a estrada dos castelos",
+  "subtitleFr": "En voiture, à vélo ou en excursion organisée",
+  "subtitlePt": "De carro, de bicicleta ou em excursão organizada",
+  "summaryPt": "Enciclopédia de Tours, seção 7: como explorar o Vale do Loire — aluguel de carro, estradas, estacionamento e excursões. Vocabulário de viagem e trânsito, com níveis mistos.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "La meilleure façon de visiter les châteaux est de louer une voiture. Il faut avoir au moins vingt et un ans et un permis de conduire valide. Les agences proposent des tarifs raisonnables, surtout si l'on réserve à l'avance. N'oubliez pas de vérifier l'assurance avant de prendre la route.",
+      "pt": "A melhor forma de visitar os castelos é alugar um carro. É preciso ter pelo menos vinte e um anos e uma carteira de motorista válida. As agências oferecem tarifas razoáveis, principalmente se você reservar com antecedência. Não esqueça de verificar o seguro antes de pegar a estrada."
+    },
+    {
+      "id": 2,
+      "fr": "Sur les petites routes de la région, la conduite est agréable : peu de circulation, des paysages superbes et des villages charmants. Il faut respecter le code de la route, surtout dans les zones où les vélos circulent. Dépasser sur une ligne continue est interdit, même quand on est pressé.",
+      "pt": "Nas estradinhas da região, dirigir é agradável: pouca circulação, paisagens lindas e vilas charmosas. É preciso respeitar o código de trânsito, principalmente nas zonas onde as bicicletas circulam. Ultrapassar numa linha contínua é proibido, mesmo com pressa."
+    },
+    {
+      "id": 3,
+      "fr": "Avant de partir, faites le plein d'essence : les stations-service sont rares entre les villages. En France, on trouve de l'essence sans plomb et du diesel. Gardez quelques pièces de monnaie pour les péages, ou utilisez la carte bancaire aux barrières automatiques.",
+      "pt": "Antes de partir, abasteça: os postos de gasolina são raros entre as vilas. Na França, encontra-se gasolina sem chumbo e diesel. Guarde algumas moedas para os pedágios, ou use o cartão bancário nas cancelas automáticas."
+    },
+    {
+      "id": 4,
+      "fr": "Le stationnement peut être compliqué dans les centres anciens. Les parkings payants proposent souvent la première heure gratuite, et les parkings relais permettent de laisser sa voiture en périphérie pour prendre le bus. Pensez à lire les panneaux : dans certaines zones, se garer est réservé aux habitants.",
+      "pt": "O estacionamento pode ser complicado nos centros históricos. Os estacionamentos pagos costumam oferecer a primeira hora grátis, e os estacionamentos de integração permitem deixar o carro na periferia para pegar o ônibus. Lembre-se de ler as placas: em algumas zonas, estacionar é reservado aos moradores."
+    },
+    {
+      "id": 5,
+      "fr": "Pour ceux qui préfèrent ne pas conduire, les excursions organisées sont une bonne option. Des bus partent chaque matin de Tours vers les châteaux, avec un guide qui raconte l'histoire des lieux. Les dépliants dans les offices de tourisme présentent les destinations, les horaires et les tarifs.",
+      "pt": "Para quem prefere não dirigir, as excursões organizadas são uma boa opção. Ônibus partem todas as manhãs de Tours para os castelos, com um guia que conta a história dos lugares. Os panfletos nos postos de turismo apresentam os destinos, os horários e os preços."
+    },
+    {
+      "id": 6,
+      "fr": "Enfin, la Loire se découvre aussi à vélo. La véloroute longe le fleuve sur des centaines de kilomètres, et des loueurs proposent des vélos à la journée. Entre deux châteaux, on s'arrête dans les villages, on pique-nique au bord de l'eau et l'on profite de la douceur de vivre. Une autre manière de voyager, plus lente et plus vraie.",
+      "pt": "Por fim, o Loire também se descobre de bicicleta. A ciclovia acompanha o rio por centenas de quilômetros, e locadoras oferecem bicicletas por dia. Entre dois castelos, para-se nas vilas, faz-se piquenique à beira d'água e aproveita-se a doçura de viver. Outra maneira de viajar, mais lenta e mais verdadeira."
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "louer une voiture",
+      "definitionPt": "alugar um carro",
+      "definitionFr": "Prendre une voiture en location.",
+      "inflections": ["louer une voiture", "loue une voiture", "loué une voiture"],
+      "ptTargets": ["alugar um carro", "aluguel de carro"],
+      "examples": [
+        { "level": "A1", "fr": "Je loue une voiture.", "pt": "Eu alugo um carro." },
+        { "level": "A2-B1", "fr": "La meilleure façon est de louer une voiture.", "pt": "A melhor forma é alugar um carro." },
+        { "level": "B2", "fr": "Louer une voiture, c'est gagner en liberté de mouvement.", "pt": "Alugar um carro é ganhar liberdade de movimento." },
+        { "level": "C1-C2", "fr": "Louer une voiture, c'est choisir son propre chemin sur la carte.", "pt": "Alugar um carro é escolher o próprio caminho no mapa." }
+      ]
+    },
+    {
+      "term": "faire le plein",
+      "definitionPt": "abastecer; encher o tanque",
+      "definitionFr": "Remplir le réservoir de carburant.",
+      "inflections": ["faire le plein", "fait le plein", "fait le plein"],
+      "ptTargets": ["abastecer", "encher o tanque"],
+      "examples": [
+        { "level": "A1", "fr": "Je fais le plein.", "pt": "Eu abasteço." },
+        { "level": "A2-B1", "fr": "Avant de partir, faites le plein d'essence.", "pt": "Antes de partir, abasteça." },
+        { "level": "B2", "fr": "Faire le plein avant le voyage évite les mauvaises surprises.", "pt": "Abastecer antes da viagem evita surpresas desagradáveis." },
+        { "level": "C1-C2", "fr": "Faire le plein, c'est se préparer à l'inconnu de la route.", "pt": "Abastecer é se preparar para o desconhecido da estrada." }
+      ]
+    },
+    {
+      "term": "le péage",
+      "definitionPt": "o pedágio",
+      "definitionFr": "Somme à payer pour emprunter une route ou une autoroute.",
+      "inflections": ["le péage", "les péages", "payer un péage"],
+      "ptTargets": ["pedágio"],
+      "examples": [
+        { "level": "A1", "fr": "Le péage est cher.", "pt": "O pedágio é caro." },
+        { "level": "A2-B1", "fr": "Gardez des pièces pour les péages.", "pt": "Guarde moedas para os pedágios." },
+        { "level": "B2", "fr": "Le péage est le prix de la rapidité.", "pt": "O pedágio é o preço da rapidez." },
+        { "level": "C1-C2", "fr": "On paie un péage pour aller plus vite, mais l'on rate parfois les plus beaux chemins.", "pt": "Paga-se um pedágio para ir mais rápido, mas às vezes perde-se os caminhos mais bonitos." }
+      ]
+    },
+    {
+      "term": "le stationnement",
+      "definitionPt": "o estacionamento",
+      "definitionFr": "Action de garer un véhicule ; lieu où l'on se gare.",
+      "inflections": ["le stationnement", "les stationnements"],
+      "ptTargets": ["estacionamento", "estacionar"],
+      "examples": [
+        { "level": "A1", "fr": "Le stationnement est payant.", "pt": "O estacionamento é pago." },
+        { "level": "A2-B1", "fr": "Le stationnement peut être compliqué en centre-ville.", "pt": "O estacionamento pode ser complicado no centro." },
+        { "level": "B2", "fr": "Un bon stationnement est un luxe dans les vieilles villes.", "pt": "Um bom estacionamento é um luxo nas cidades antigas." },
+        { "level": "C1-C2", "fr": "Le stationnement nous apprend la patience avant la destination.", "pt": "O estacionamento nos ensina a paciência antes do destino." }
+      ]
+    },
+    {
+      "term": "l'excursion",
+      "definitionPt": "a excursão",
+      "definitionFr": "Voyage court et organisé vers un lieu de découverte.",
+      "inflections": ["l'excursion", "les excursions", "une excursion organisée"],
+      "ptTargets": ["excursão", "passeio"],
+      "examples": [
+        { "level": "A1", "fr": "L'excursion commence à neuf heures.", "pt": "A excursão começa às nove horas." },
+        { "level": "A2-B1", "fr": "Les excursions organisées partent chaque matin.", "pt": "As excursões organizadas partem todas as manhãs." },
+        { "level": "B2", "fr": "Une excursion bien préparée vaut une semaine improvisée.", "pt": "Uma excursão bem preparada vale uma semana improvisada." },
+        { "level": "C1-C2", "fr": "L'excursion est une parenthèse que l'on s'offre.", "pt": "A excursão é uma pausa que a gente se dá." }
+      ]
+    },
+    {
+      "term": "le dépliant",
+      "definitionPt": "o panfleto; o folheto",
+      "definitionFr": "Document imprimé qui présente une information ou une offre.",
+      "inflections": ["le dépliant", "les dépliants"],
+      "ptTargets": ["panfleto", "folheto", "flyer"],
+      "examples": [
+        { "level": "A1", "fr": "Le dépliant est gratuit.", "pt": "O panfleto é gratuito." },
+        { "level": "A2-B1", "fr": "Les dépliants présentent les destinations.", "pt": "Os panfletos apresentam os destinos." },
+        { "level": "B2", "fr": "Un dépliant bien fait donne envie de partir.", "pt": "Um panfleto bem feito dá vontade de partir." },
+        { "level": "C1-C2", "fr": "Le dépliant promet, mais c'est le voyage qui tient parole.", "pt": "O panfleto promete, mas é a viagem que cumpre." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "O imperativo de conselho com 'il faut'",
+    "explanationPt": "Para dar conselhos de viagem: il faut + infinitivo (il faut avoir un permis, il faut faire le plein). Também o imperativo direto: faites le plein, gardez des pièces, vérifiez l'assurance.",
+    "exampleFr": "Faites le plein avant de partir, et vérifiez l'assurance de votre voiture.",
+    "examplePt": "Abasteça antes de partir e verifique o seguro do seu carro.",
+    "practiceQuestion": "Complete: « Pour conduire, il ___ avoir un permis valide. »",
+    "options": ["faut", "fais", "faudra", "fallait"],
+    "correctIndex": 0,
+    "explanationPt": "'Il faut' + infinitivo para obrigação ou conselho."
+  },
+  "quizQuestions": [
+    {
+      "question": "Quel âge faut-il avoir pour louer une voiture ?",
+      "options": ["Au moins vingt et un ans", "Quinze ans", "Soixante ans", "Pas de limite"],
+      "correctIndex": 0,
+      "explanation": "Il faut avoir au moins vingt et un ans pour louer une voiture."
+    },
+    {
+      "question": "Qu'est-il interdit de faire sur une ligne continue ?",
+      "options": ["Dépasser", "Freiner", "Allumer les phares", "Mettre de la musique"],
+      "correctIndex": 0,
+      "explanation": "Dépasser sur une ligne continue est interdit."
+    },
+    {
+      "question": "Comment découvre-t-on aussi la Loire ?",
+      "options": ["À vélo", "En hélicoptère", "En sous-marin", "À ski"],
+      "correctIndex": 0,
+      "explanation": "La véloroute longe le fleuve sur des centaines de kilomètres."
+    }
+  ]
+}

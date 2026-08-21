@@ -1,0 +1,153 @@
+{
+  "id": "tours_guide_06",
+  "cityId": "tours",
+  "domain": "Acadêmico",
+  "level": "Misto (A1–C2)",
+  "titleFr": "Étudier à Tours : la ville universitaire",
+  "titlePt": "Estudar em Tours: a cidade universitária",
+  "subtitleFr": "Campus, filières et vie étudiante",
+  "subtitlePt": "Campus, cursos e vida estudantil",
+  "summaryPt": "Enciclopédia de Tours, seção 6: a vida universitária — os campus, as faculdades, os estágios e a entrada no mundo do trabalho. Vocabulário de estudos e carreira, com níveis mistos.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Tours est une grande ville étudiante : près de quarante mille jeunes suivent des cours dans ses universités et ses écoles. Le campus de Grandmont, au sud de la ville, accueille les facultés de sciences, de médecine et de droit. Les étudiants y passent leurs journées entre la salle de cours et la bibliothèque universitaire.",
+      "pt": "Tours é uma grande cidade universitária: cerca de quarenta mil jovens frequentam cursos em suas universidades e escolas. O campus de Grandmont, ao sul da cidade, abriga as faculdades de ciências, medicina e direito. Os estudantes passam seus dias entre a sala de aula e a biblioteca universitária."
+    },
+    {
+      "id": 2,
+      "fr": "Choisir sa filière est une décision importante. Certains étudiants se spécialisent en langues, d'autres en histoire, en informatique ou en tourisme. Les enseignants conseillent les jeunes, qui réfléchissent longuement avant de s'engager. Une licence prend trois ans, mais beaucoup poursuivent jusqu'au master.",
+      "pt": "Escolher seu curso é uma decisão importante. Alguns estudantes se especializam em línguas, outros em história, informática ou turismo. Os docentes aconselham os jovens, que refletem longamente antes de se comprometer. A graduação leva três anos, mas muitos continuam até o mestrado."
+    },
+    {
+      "id": 3,
+      "fr": "Pendant leurs études, beaucoup d'étudiants effectuent un stage en entreprise. Ils préparent leur candidature avec soin : un bon CV, une lettre de motivation et parfois un entretien. Les services de l'université organisent des ateliers de recrutement et mettent en relation les étudiants avec les employeurs de la région.",
+      "pt": "Durante os estudos, muitos estudantes fazem um estágio em empresa. Preparam sua candidatura com cuidado: um bom currículo, uma carta de motivação e às vezes uma entrevista. Os serviços da universidade organizam oficinas de recrutamento e colocam os estudantes em contato com os empregadores da região."
+    },
+    {
+      "id": 4,
+      "fr": "Le travail à mi-temps est courant chez les étudiants : ils donnent des cours particuliers, servent dans les cafés ou travaillent dans les magasins le week-end. Les horaires flexibles leur permettent de concilier études et travail. Certains découvrent ainsi leur futur métier par hasard.",
+      "pt": "O trabalho em meio período é comum entre os estudantes: dão aulas particulares, servem nos cafés ou trabalham nas lojas no fim de semana. Os horários flexíveis permitem conciliar estudos e trabalho. Alguns descobrem assim sua futura profissão por acaso."
+    },
+    {
+      "id": 5,
+      "fr": "Après le diplôme, la recherche d'emploi commence. Les jeunes diplômés envoient leurs dossiers, répondent aux offres et passent des entretiens d'embauche. Certains trouvent rapidement, d'autres doivent persévérer. Les entreprises de Tours recrutent surtout dans les secteurs de la santé, du numérique et du tourisme.",
+      "pt": "Depois do diploma, começa a busca de emprego. Os jovens formados enviam seus dossiês, respondem às ofertas e passam por entrevistas de emprego. Alguns encontram rápido, outros precisam perseverar. As empresas de Tours contratam principalmente nos setores da saúde, do digital e do turismo."
+    },
+    {
+      "id": 6,
+      "fr": "La vie étudiante ne se limite pas aux cours : il y a des associations, des fêtes, des rencontres sportives et culturelles. Les étudiants organisent des sorties, des concerts et des débats. Pour beaucoup, ces années à Tours restent les plus belles de leur jeunesse, entre amitiés solides et souvenirs inoubliables.",
+      "pt": "A vida estudantil não se limita às aulas: há associações, festas, encontros esportivos e culturais. Os estudantes organizam saídas, shows e debates. Para muitos, esses anos em Tours ficam como os mais bonitos da juventude, entre amizades sólidas e lembranças inesquecíveis."
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "la filière",
+      "definitionPt": "a área; o curso",
+      "definitionFr": "Ensemble d'études menant à un diplôme ou à un métier.",
+      "inflections": ["la filière", "les filières", "choisir une filière"],
+      "ptTargets": ["área", "curso", "formação"],
+      "examples": [
+        { "level": "A1", "fr": "Il choisit sa filière.", "pt": "Ele escolhe seu curso." },
+        { "level": "A2-B1", "fr": "Choisir sa filière est une décision importante.", "pt": "Escolher seu curso é uma decisão importante." },
+        { "level": "B2", "fr": "Une bonne filière ouvre des portes, mais c'est l'étudiant qui les franchit.", "pt": "Um bom curso abre portas, mas é o estudante que as atravessa." },
+        { "level": "C1-C2", "fr": "La filière choisie est parfois un chemin, parfois un détour.", "pt": "O curso escolhido às vezes é um caminho, às vezes um desvio." }
+      ]
+    },
+    {
+      "term": "se spécialiser",
+      "definitionPt": "especializar-se",
+      "definitionFr": "Se consacrer à un domaine particulier.",
+      "inflections": ["se spécialiser", "se spécialise", "spécialisé"],
+      "ptTargets": ["especializar-se", "se especializar"],
+      "examples": [
+        { "level": "A1", "fr": "Elle se spécialise en langues.", "pt": "Ela se especializa em línguas." },
+        { "level": "A2-B1", "fr": "Certains étudiants se spécialisent en tourisme.", "pt": "Alguns estudantes se especializam em turismo." },
+        { "level": "B2", "fr": "Se spécialiser, c'est choisir une profondeur plutôt qu'une largeur.", "pt": "Especializar-se é escolher uma profundidade em vez de uma largura." },
+        { "level": "C1-C2", "fr": "Se spécialiser, c'est accepter de ne pas tout savoir pour mieux savoir une chose.", "pt": "Especializar-se é aceitar não saber tudo para saber melhor uma coisa." }
+      ]
+    },
+    {
+      "term": "la candidature",
+      "definitionPt": "a candidatura",
+      "definitionFr": "Ensemble des démarches pour postuler à un poste ou une formation.",
+      "inflections": ["la candidature", "les candidatures", "préparer sa candidature"],
+      "ptTargets": ["candidatura", "inscrição"],
+      "examples": [
+        { "level": "A1", "fr": "Ma candidature est prête.", "pt": "Minha candidatura está pronta." },
+        { "level": "A2-B1", "fr": "Ils préparent leur candidature avec soin.", "pt": "Eles preparam sua candidatura com cuidado." },
+        { "level": "B2", "fr": "Une candidature honnête vaut mieux qu'un CV gonflé.", "pt": "Uma candidatura honesta vale mais que um currículo inflado." },
+        { "level": "C1-C2", "fr": "Chaque candidature est une porte, mais il faut frapper soi-même.", "pt": "Cada candidatura é uma porta, mas é preciso bater você mesmo." }
+      ]
+    },
+    {
+      "term": "l'entretien d'embauche",
+      "definitionPt": "a entrevista de emprego",
+      "definitionFr": "Rencontre entre un candidat et un employeur pour un poste.",
+      "inflections": ["l'entretien d'embauche", "les entretiens d'embauche", "passer un entretien"],
+      "ptTargets": ["entrevista de emprego", "entrevista"],
+      "examples": [
+        { "level": "A1", "fr": "J'ai un entretien d'embauche.", "pt": "Eu tenho uma entrevista de emprego." },
+        { "level": "A2-B1", "fr": "Ils passent des entretiens d'embauche.", "pt": "Eles passam por entrevistas de emprego." },
+        { "level": "B2", "fr": "Un entretien d'embauche est une conversation, pas un interrogatoire.", "pt": "Uma entrevista de emprego é uma conversa, não um interrogatório." },
+        { "level": "C1-C2", "fr": "L'entretien d'embauche révèle moins les compétences que la posture.", "pt": "A entrevista de emprego revela menos as competências do que a postura." }
+      ]
+    },
+    {
+      "term": "persévérer",
+      "definitionPt": "perseverar",
+      "definitionFr": "Continuer malgré les difficultés.",
+      "inflections": ["persévérer", "persévère", "persévéré"],
+      "ptTargets": ["perseverar", "insistir"],
+      "examples": [
+        { "level": "A1", "fr": "Je persévère dans mes études.", "pt": "Eu persevero nos estudos." },
+        { "level": "A2-B1", "fr": "Certains doivent persévérer pour trouver un emploi.", "pt": "Alguns precisam perseverar para encontrar emprego." },
+        { "level": "B2", "fr": "Persévérer, c'est refuser que l'échec ait le dernier mot.", "pt": "Perseverar é recusar que o fracasso tenha a última palavra." },
+        { "level": "C1-C2", "fr": "La persévérance transforme les obstacles en escaliers.", "pt": "A perseverança transforma obstáculos em escadas." }
+      ]
+    },
+    {
+      "term": "recruter",
+      "definitionPt": "recrutar; contratar",
+      "definitionFr": "Engager une personne pour un poste.",
+      "inflections": ["recruter", "recrute", "recruté"],
+      "ptTargets": ["recrutar", "contratar"],
+      "examples": [
+        { "level": "A1", "fr": "L'entreprise recrute.", "pt": "A empresa está contratando." },
+        { "level": "A2-B1", "fr": "Les entreprises recrutent dans le tourisme.", "pt": "As empresas contratam no turismo." },
+        { "level": "B2", "fr": "Recruter, c'est choisir un futur collègue, pas un CV.", "pt": "Recrutar é escolher um futuro colega, não um currículo." },
+        { "level": "C1-C2", "fr": "On recrute pour des compétences, mais on garde pour des valeurs.", "pt": "Contrata-se por competências, mas fica-se por valores." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Os artigos definidos com disciplinas e setores",
+    "explanationPt": "Para falar de áreas de estudo e setores: se spécialiser en langues, en histoire, en informatique (sem artigo após 'en'). Com 'dans le secteur de + artigo': dans le secteur de la santé, du numérique.",
+    "exampleFr": "Elle se spécialise en langues, puis travaille dans le secteur du tourisme.",
+    "examplePt": "Ela se especializa em línguas e depois trabalha no setor do turismo.",
+    "practiceQuestion": "Complete: « Ils étudient ___ histoire à l'université. »",
+    "options": ["l'", "de la", "en", "au"],
+    "correctIndex": 2,
+    "explanationPt": "Depois de 'étudier' com disciplina: 'étudier en histoire' ou 'étudier l'histoire'."
+  },
+  "quizQuestions": [
+    {
+      "question": "Combien d'étudiants compte la ville de Tours ?",
+      "options": ["Près de quarante mille", "Deux cents", "Cinq millions", "Mille"],
+      "correctIndex": 0,
+      "explanation": "Près de quarante mille étudiants suivent des cours à Tours."
+    },
+    {
+      "question": "Que faut-il préparer pour une candidature ?",
+      "options": ["Un CV et une lettre de motivation", "Une carte de visite", "Un billet de train", "Un formulaire de santé"],
+      "correctIndex": 0,
+      "explanation": "Une candidature comprend un CV et une lettre de motivation."
+    },
+    {
+      "question": "Dans quels secteurs les entreprises de Tours recrutent-elles ?",
+      "options": ["Santé, numérique et tourisme", "Mines et pétrole", "Aérospatiale et défense", "Pêche en haute mer"],
+      "correctIndex": 0,
+      "explanation": "Les entreprises recrutent dans la santé, le numérique et le tourisme."
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "id": "tours_guide_05",
+  "cityId": "tours",
+  "domain": "Natureza",
+  "level": "Misto (A1–C2)",
+  "titleFr": "Les jardins de Touraine : l'art du vivant",
+  "titlePt": "Os jardins da Touraine: a arte do vivo",
+  "subtitleFr": "Potagers, parcs et jardinage au quotidien",
+  "subtitlePt": "Hortas, parques e jardinagem no cotidiano",
+  "summaryPt": "Enciclopédia de Tours, seção 5: os jardins da região — o jardim de Villandry, os parques urbanos e a jardinagem no dia a dia. Vocabulário de jardinagem e natureza, com níveis mistos.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "La Touraine est une région de jardins. Le plus célèbre est celui de Villandry, avec ses parterres de fleurs et son potager décoratif. Les jardiniers y travaillent toute l'année : ils sèment au printemps, plantent en été et récoltent à l'automne, dans le respect d'un calendrier ancien.",
+      "pt": "A Touraine é uma região de jardins. O mais famoso é o de Villandry, com seus canteiros de flores e sua horta decorativa. Os jardineiros trabalham lá o ano inteiro: semeiam na primavera, plantam no verão e colhem no outono, respeitando um calendário antigo."
+    },
+    {
+      "id": 2,
+      "fr": "Dans les jardins publics de Tours, les habitants viennent se promener, lire ou faire du sport. Les jardiniers municipaux entretiennent les pelouses, taillent les arbres et renouvellent les fleurs à chaque saison. Le travail est exigeant, mais les résultats enchantent petits et grands.",
+      "pt": "Nos jardins públicos de Tours, os moradores vêm passear, ler ou fazer esporte. Os jardineiros municipais mantêm os gramados, podam as árvores e renovam as flores a cada estação. O trabalho é exigente, mas os resultados encantam pequenos e grandes."
+    },
+    {
+      "id": 3,
+      "fr": "Beaucoup de Tourangeaux cultivent leur potager, même sur un petit balcon. Ils utilisent des outils simples : une brouette pour transporter la terre, un râteau pour égaliser le sol, des gants de jardinage pour protéger les mains. Le dimanche matin, on voit des familles entières s'affairer dans leurs jardins.",
+      "pt": "Muitos tourangeaux cultivam sua horta, mesmo numa pequena varanda. Usam ferramentas simples: um carrinho de mão para transportar a terra, um ancinho para nivelar o solo, luvas de jardinagem para proteger as mãos. No domingo de manhã, vê-se famílias inteiras se ocupando em seus jardins."
+    },
+    {
+      "id": 4,
+      "fr": "En été, le tuyau d'arrosage devient l'outil le plus important. Les jardiniers arrosent tôt le matin, avant que le soleil ne soit trop fort. Certains récupèrent l'eau de pluie dans de grands réservoirs, une habitude simple qui économise des centaines de litres chaque année.",
+      "pt": "No verão, a mangueira de regar vira a ferramenta mais importante. Os jardineiros regam cedo de manhã, antes que o sol fique forte demais. Alguns recolhem a água da chuva em grandes reservatórios, um hábito simples que economiza centenas de litros por ano."
+    },
+    {
+      "id": 5,
+      "fr": "Les enfants apprennent tôt à jardiner : ils plantent des graines, observent les pousses et découvrent la patience nécessaire pour voir grandir une plante. Les écoles organisent des ateliers de jardinage, et les enfants rapportent fièrement à la maison les premières salades qu'ils ont semées eux-mêmes.",
+      "pt": "As crianças aprendem cedo a jardinar: plantam sementes, observam os brotos e descobrem a paciência necessária para ver uma planta crescer. As escolas organizam oficinas de jardinagem, e as crianças levam orgulhosas para casa as primeiras saladas que semearam elas mesmas."
+    },
+    {
+      "id": 6,
+      "fr": "Les jardins de la région sont aussi des lieux de mémoire : certains parcs existent depuis des siècles, avec des arbres plantés par des rois. Les promeneurs s'y arrêtent, s'asseyent sur les bancs et contemplent la lumière qui traverse les feuilles. Un jardin, disent les anciens, est une promesse faite à l'avenir.",
+      "pt": "Os jardins da região são também lugares de memória: alguns parques existem há séculos, com árvores plantadas por reis. Os passeantes param, sentam-se nos bancos e contemplam a luz que atravessa as folhas. Um jardim, dizem os antigos, é uma promessa feita ao futuro."
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "semer",
+      "definitionPt": "semear",
+      "definitionFr": "Mettre des graines en terre pour les faire pousser.",
+      "inflections": ["semer", "sème", "semé"],
+      "ptTargets": ["semear", "plantar sementes"],
+      "examples": [
+        { "level": "A1", "fr": "Je sème des graines.", "pt": "Eu semeio sementes." },
+        { "level": "A2-B1", "fr": "Les jardiniers sèment au printemps.", "pt": "Os jardineiros semeiam na primavera." },
+        { "level": "B2", "fr": "Semer demande de croire en ce que l'on ne voit pas encore.", "pt": "Semear exige acreditar no que ainda não se vê." },
+        { "level": "C1-C2", "fr": "On sème des idées comme l'on sème des graines, sans savoir ce qui lèvera.", "pt": "Semeiam-se ideias como se semeiam sementes, sem saber o que brotará." }
+      ]
+    },
+    {
+      "term": "la brouette",
+      "definitionPt": "o carrinho de mão",
+      "definitionFr": "Petit véhicule à une roue pour transporter des charges.",
+      "inflections": ["la brouette", "les brouettes"],
+      "ptTargets": ["carrinho de mão", "carrinho"],
+      "examples": [
+        { "level": "A1", "fr": "La brouette est pleine.", "pt": "O carrinho de mão está cheio." },
+        { "level": "A2-B1", "fr": "Ils utilisent une brouette pour transporter la terre.", "pt": "Eles usam um carrinho de mão para transportar a terra." },
+        { "level": "B2", "fr": "La brouette est l'alliée fidèle des jardiniers patients.", "pt": "O carrinho de mão é o aliado fiel dos jardineiros pacientes." },
+        { "level": "C1-C2", "fr": "On transporte dans sa brouette plus que de la terre : des projets.", "pt": "Carrega-se no carrinho de mão mais que terra: projetos." }
+      ]
+    },
+    {
+      "term": "le râteau",
+      "definitionPt": "o ancinho",
+      "definitionFr": "Outil à dents pour égaliser la terre ou ramasser les feuilles.",
+      "inflections": ["le râteau", "les râteaux"],
+      "ptTargets": ["ancinho", "rastelo"],
+      "examples": [
+        { "level": "A1", "fr": "Le râteau est dans le garage.", "pt": "O ancinho está na garagem." },
+        { "level": "A2-B1", "fr": "On utilise un râteau pour égaliser le sol.", "pt": "Usa-se um ancinho para nivelar o solo." },
+        { "level": "B2", "fr": "Le râteau rassemble ce que le vent avait dispersé.", "pt": "O ancinho junta o que o vento tinha espalhado." },
+        { "level": "C1-C2", "fr": "Avec un râteau, on apprend que l'ordre se construit feuille par feuille.", "pt": "Com um ancinho, aprende-se que a ordem se constrói folha por folha." }
+      ]
+    },
+    {
+      "term": "arroser",
+      "definitionPt": "regar",
+      "definitionFr": "Mouiller les plantes pour les faire pousser.",
+      "inflections": ["arroser", "arrose", "arrosé"],
+      "ptTargets": ["regar", "molhar"],
+      "examples": [
+        { "level": "A1", "fr": "J'arrose les fleurs.", "pt": "Eu rego as flores." },
+        { "level": "A2-B1", "fr": "Il faut arroser tôt le matin.", "pt": "É preciso regar cedo de manhã." },
+        { "level": "B2", "fr": "Arroser sans excès, c'est écouter la terre.", "pt": "Regar sem exagero é escutar a terra." },
+        { "level": "C1-C2", "fr": "On arrose les racines, pas les feuilles : la sagesse du jardinier.", "pt": "Regam-se as raízes, não as folhas: a sabedoria do jardineiro." }
+      ]
+    },
+    {
+      "term": "les gants de jardinage",
+      "definitionPt": "as luvas de jardinagem",
+      "definitionFr": "Gants protecteurs utilisés pour jardiner.",
+      "inflections": ["les gants de jardinage", "des gants de jardinage"],
+      "ptTargets": ["luvas de jardinagem", "luvas"],
+      "examples": [
+        { "level": "A1", "fr": "Je mets mes gants de jardinage.", "pt": "Eu coloco minhas luvas de jardinagem." },
+        { "level": "A2-B1", "fr": "Les gants de jardinage protègent les mains.", "pt": "As luvas de jardinagem protegem as mãos." },
+        { "level": "B2", "fr": "Les gants de jardinage gardent les mains propres, pas le cœur.", "pt": "As luvas de jardinagem mantêm as mãos limpas, não o coração." },
+        { "level": "C1-C2", "fr": "Les gants de jardinage sont la première cicatrice évitée.", "pt": "As luvas de jardinagem são a primeira cicatriz evitada." }
+      ]
+    },
+    {
+      "term": "contempler",
+      "definitionPt": "contemplar",
+      "definitionFr": "Regarder longuement avec attention et admiration.",
+      "inflections": ["contempler", "contemple", "contemplé"],
+      "ptTargets": ["contemplar", "admirar"],
+      "examples": [
+        { "level": "A1", "fr": "Je contemple le paysage.", "pt": "Eu contemplo a paisagem." },
+        { "level": "A2-B1", "fr": "Les promeneurs contemplent la lumière dans les arbres.", "pt": "Os passeantes contemplam a luz nas árvores." },
+        { "level": "B2", "fr": "Contempler, c'est donner du temps à ce qui n'en demande pas.", "pt": "Contemplar é dar tempo ao que não pede." },
+        { "level": "C1-C2", "fr": "Contempler un jardin, c'est lire la lenteur du monde.", "pt": "Contemplar um jardim é ler a lentidão do mundo." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "O pronome 'on' nas instruções e hábitos",
+    "explanationPt": "Para falar de hábitos e instruções de forma impessoal: on sème (semeia-se), on arrose (rega-se), on utilise (usa-se). O 'on' + 3ª pessoa do singular é a forma mais natural do francês falado.",
+    "exampleFr": "On sème au printemps, on arrose tôt le matin, et l'on récolte à l'automne.",
+    "examplePt": "Semeia-se na primavera, rega-se cedo de manhã, e colhe-se no outono.",
+    "practiceQuestion": "Complete: « En été, on ___ les plantes tôt le matin. »",
+    "options": ["arrose", "arrosent", "arroser", "arrosé"],
+    "correctIndex": 0,
+    "explanationPt": "Com 'on', verbo na 3ª pessoa do singular: 'on arrose'."
+  },
+  "quizQuestions": [
+    {
+      "question": "Quel est le jardin le plus célèbre de la région ?",
+      "options": ["Villandry", "Le Jardin du Luxembourg", "Les Tuileries", "Le parc Monceau"],
+      "correctIndex": 0,
+      "explanation": "Le jardin de Villandry est célèbre pour ses parterres et son potager décoratif."
+    },
+    {
+      "question": "Quand les jardiniers arrosent-ils en été ?",
+      "options": ["Tôt le matin", "À midi", "Tard le soir", "La nuit"],
+      "correctIndex": 0,
+      "explanation": "On arrose tôt le matin, avant que le soleil ne soit trop fort."
+    },
+    {
+      "question": "Quels outils simples utilisent les jardiniers ?",
+      "options": ["Brouette, râteau et gants", "Marteau et clous", "Ordinateur et imprimante", "Téléphone et casque"],
+      "correctIndex": 0,
+      "explanation": "La brouette, le râteau et les gants de jardinage sont les outils de base."
+    }
+  ]
+}

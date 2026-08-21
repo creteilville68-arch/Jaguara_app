@@ -1,0 +1,153 @@
+{
+  "id": "tours_guide_04",
+  "cityId": "tours",
+  "domain": "Língua",
+  "level": "Misto (A1–C2)",
+  "titleFr": "Le français de Tours : la langue dans son berceau",
+  "titlePt": "O francês de Tours: a língua em seu berço",
+  "subtitleFr": "Pourquoi l'on dit que l'on parle ici le plus pur français",
+  "subtitlePt": "Por que se diz que se fala aqui o francês mais puro",
+  "summaryPt": "Enciclopédia de Tours, seção 4: a relação da cidade com a língua francesa — o francês de Tours, o estudo de idiomas, as universidades e a literatura. Vocabulário de língua e estudos, com níveis mistos.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Depuis des siècles, on répète que le français le plus pur se parle à Tours. Au Moyen Âge, les rois de France choisirent la langue de la région pour leur cour, et les écrivains de la Renaissance la diffusèrent dans toute l'Europe. Aujourd'hui encore, des étrangers viennent dans la région pour étudier la langue.",
+      "pt": "Há séculos, repete-se que o francês mais puro se fala em Tours. Na Idade Média, os reis da França escolheram a língua da região para sua corte, e os escritores da Renascença a difundiram por toda a Europa. Ainda hoje, estrangeiros vêm à região para estudar a língua."
+    },
+    {
+      "id": 2,
+      "fr": "Apprendre une langue étrangère demande de la patience et de la régularité. Les professeurs de français recommandent de lire chaque jour, de mémoriser les mots nouveaux et d'échanger avec les locuteurs. À Tours, les étudiants ont une chance rare : ils peuvent pratiquer dans la rue ce qu'ils apprennent en classe.",
+      "pt": "Aprender uma língua estrangeira exige paciência e regularidade. Os professores de francês recomendam ler todos os dias, memorizar as palavras novas e conversar com os falantes. Em Tours, os estudantes têm uma chance rara: podem praticar na rua o que aprendem em sala."
+    },
+    {
+      "id": 3,
+      "fr": "L'université de Tours accueille des étudiants du monde entier. Certains suivent des cours particuliers pour s'améliorer rapidement, d'autres préfèrent les classes collectives. Tous rêvent d'obtenir un diplôme de français qui leur ouvrira les portes des universités françaises.",
+      "pt": "A universidade de Tours recebe estudantes do mundo inteiro. Alguns fazem aulas particulares para melhorar rápido, outros preferem as turmas coletivas. Todos sonham em obter um diploma de francês que lhes abrirá as portas das universidades francesas."
+    },
+    {
+      "id": 4,
+      "fr": "Traduire est un exercice exigeant : il faut comprendre le sens caché, pas seulement les mots. Les étudiants comparent les versions, débattent des choix et apprennent à argumenter. Les professeurs corrigent avec précision et encouragent les élèves à s'exprimer sans peur de se tromper.",
+      "pt": "Traduzir é um exercício exigente: é preciso entender o sentido oculto, não apenas as palavras. Os estudantes comparam as versões, debatem as escolhas e aprendem a argumentar. Os professores corrigem com precisão e incentivam os alunos a se expressar sem medo de errar."
+    },
+    {
+      "id": 5,
+      "fr": "Les librairies de Tours organisent régulièrement des rencontres avec des écrivains. Le public écoute, pose des questions, demande des dédicaces. Certains visiteurs viennent de très loin pour ces moments rares, où la littérature devient une conversation vivante entre l'auteur et ses lecteurs.",
+      "pt": "As livrarias de Tours organizam regularmente encontros com escritores. O público escuta, faz perguntas, pede dedicatórias. Alguns visitantes vêm de muito longe para esses momentos raros, em que a literatura vira uma conversa viva entre o autor e seus leitores."
+    },
+    {
+      "id": 6,
+      "fr": "Pour les étudiants étrangers, Tours est un véritable laboratoire de langue. Ils apprennent par cœur des poèmes, s'entraînent à la prononciation et écrivent des lettres à leurs correspondants. En quelques mois, leur français s'améliore considérablement, et beaucoup décident de rester plus longtemps que prévu.",
+      "pt": "Para os estudantes estrangeiros, Tours é um verdadeiro laboratório de língua. Eles decoram poemas, treinam a pronúncia e escrevem cartas aos correspondentes. Em poucos meses, seu francês melhora consideravelmente, e muitos decidem ficar mais tempo do que o previsto."
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "la langue étrangère",
+      "definitionPt": "a língua estrangeira",
+      "definitionFr": "Langue qui n'est pas la langue maternelle.",
+      "inflections": ["la langue étrangère", "les langues étrangères"],
+      "ptTargets": ["língua estrangeira", "idioma estrangeiro"],
+      "examples": [
+        { "level": "A1", "fr": "J'apprends une langue étrangère.", "pt": "Eu aprendo uma língua estrangeira." },
+        { "level": "A2-B1", "fr": "Apprendre une langue étrangère demande de la patience.", "pt": "Aprender uma língua estrangeira exige paciência." },
+        { "level": "B2", "fr": "Maîtriser une langue étrangère, c'est s'ouvrir un autre horizon.", "pt": "Dominar uma língua estrangeira é abrir outro horizonte." },
+        { "level": "C1-C2", "fr": "Une langue étrangère est une seconde paire d'yeux sur le monde.", "pt": "Uma língua estrangeira é um segundo par de olhos sobre o mundo." }
+      ]
+    },
+    {
+      "term": "mémoriser",
+      "definitionPt": "memorizar",
+      "definitionFr": "Mettre en mémoire, retenir par cœur.",
+      "inflections": ["mémoriser", "mémorise", "mémorisé"],
+      "ptTargets": ["memorizar", "decorar"],
+      "examples": [
+        { "level": "A1", "fr": "Je mémorise les mots.", "pt": "Eu memorizo as palavras." },
+        { "level": "A2-B1", "fr": "Il faut mémoriser les mots nouveaux chaque jour.", "pt": "É preciso memorizar as palavras novas todos os dias." },
+        { "level": "B2", "fr": "Mémoriser sans comprendre, c'est apprendre pour oublier.", "pt": "Memorizar sem entender é aprender para esquecer." },
+        { "level": "C1-C2", "fr": "On mémorise ce qui nous touche, plus que ce qui nous est imposé.", "pt": "Memorizamos o que nos toca, mais do que o que nos é imposto." }
+      ]
+    },
+    {
+      "term": "s'améliorer",
+      "definitionPt": "melhorar",
+      "definitionFr": "Devenir meilleur, progresser.",
+      "inflections": ["s'améliorer", "s'améliore", "amélioré"],
+      "ptTargets": ["melhorar", "aperfeiçoar-se"],
+      "examples": [
+        { "level": "A1", "fr": "Mon français s'améliore.", "pt": "Meu francês melhora." },
+        { "level": "A2-B1", "fr": "Les cours particuliers aident à s'améliorer rapidement.", "pt": "As aulas particulares ajudam a melhorar rápido." },
+        { "level": "B2", "fr": "S'améliorer, c'est accepter de se tromper pour avancer.", "pt": "Melhorar é aceitar errar para avançar." },
+        { "level": "C1-C2", "fr": "On ne s'améliore jamais autant que lorsqu'on enseigne.", "pt": "Nunca melhoramos tanto quanto quando ensinamos." }
+      ]
+    },
+    {
+      "term": "traduire",
+      "definitionPt": "traduzir",
+      "definitionFr": "Faire passer un texte d'une langue dans une autre.",
+      "inflections": ["traduire", "traduit", "traduit"],
+      "ptTargets": ["traduzir"],
+      "examples": [
+        { "level": "A1", "fr": "Je traduis la phrase.", "pt": "Eu traduzo a frase." },
+        { "level": "A2-B1", "fr": "Traduire est un exercice exigeant.", "pt": "Traduzir é um exercício exigente." },
+        { "level": "B2", "fr": "Traduire, ce n'est pas changer des mots, c'est changer des mondes.", "pt": "Traduzir não é trocar palavras, é trocar mundos." },
+        { "level": "C1-C2", "fr": "Le traducteur est un pont entre deux rives qui s'ignorent.", "pt": "O tradutor é uma ponte entre duas margens que se ignoram." }
+      ]
+    },
+    {
+      "term": "argumenter",
+      "definitionPt": "argumentar",
+      "definitionFr": "Défendre une idée avec des arguments.",
+      "inflections": ["argumenter", "argumente", "argumenté"],
+      "ptTargets": ["argumentar", "defender ideia"],
+      "examples": [
+        { "level": "A1", "fr": "Il argumente sa réponse.", "pt": "Ele argumenta sua resposta." },
+        { "level": "A2-B1", "fr": "Les étudiants apprennent à argumenter.", "pt": "Os estudantes aprendem a argumentar." },
+        { "level": "B2", "fr": "Argumenter, c'est convaincre sans forcer.", "pt": "Argumentar é convencer sem forçar." },
+        { "level": "C1-C2", "fr": "Bien argumenter, c'est écouter autant que parler.", "pt": "Argumentar bem é escutar tanto quanto falar." }
+      ]
+    },
+    {
+      "term": "apprendre par cœur",
+      "definitionPt": "decorar",
+      "definitionFr": "Apprendre de mémoire, sans réfléchir au sens à chaque fois.",
+      "inflections": ["apprendre par cœur", "apprend par cœur", "appris par cœur"],
+      "ptTargets": ["decorar", "aprender de cor"],
+      "examples": [
+        { "level": "A1", "fr": "J'apprends le poème par cœur.", "pt": "Eu decoro o poema." },
+        { "level": "A2-B1", "fr": "Ils apprennent par cœur des poèmes français.", "pt": "Eles decoram poemas franceses." },
+        { "level": "B2", "fr": "Apprendre par cœur aide, mais comprendre rend libre.", "pt": "Decorar ajuda, mas compreender liberta." },
+        { "level": "C1-C2", "fr": "Apprendre par cœur, c'est faire entrer une langue dans sa chair.", "pt": "Decorar é fazer uma língua entrar na própria carne." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "O infinitivo depois de verbos de aprendizagem",
+    "explanationPt": "Depois de verbos como apprendre, recommander, aider, o infinitivo segue direto: apprendre à traduire, recommander de lire, aider à s'améliorer. Cuidado com a preposição: apprendre à + infinitivo, recommander de + infinitivo, aider à + infinitivo.",
+    "exampleFr": "Les professeurs recommandent de lire chaque jour et aident les élèves à s'améliorer.",
+    "examplePt": "Os professores recomendam ler todos os dias e ajudam os alunos a melhorar.",
+    "practiceQuestion": "Complete: « Ils apprennent ___ traduire des textes difficiles. »",
+    "options": ["à", "de", "pour", "sans"],
+    "correctIndex": 0,
+    "explanationPt": "'Apprendre à' + infinitivo."
+  },
+  "quizQuestions": [
+    {
+      "question": "Pourquoi Tours est-elle célèbre pour sa langue ?",
+      "options": ["On y parle le français le plus pur", "On y invente des mots nouveaux", "On y parle trois langues", "On n'y parle pas français"],
+      "correctIndex": 0,
+      "explanation": "Depuis des siècles, on dit que le français le plus pur se parle à Tours."
+    },
+    {
+      "question": "Que recommandent les professeurs pour apprendre le français ?",
+      "options": ["Lire, mémoriser et échanger chaque jour", "Dormir beaucoup", "Regarder la télévision sans écouter", "Voyager sans parler"],
+      "correctIndex": 0,
+      "explanation": "Lire chaque jour, mémoriser les mots et échanger avec les locuteurs."
+    },
+    {
+      "question": "Qu'est-ce qui rend la traduction difficile ?",
+      "options": ["Comprendre le sens caché, pas seulement les mots", "Compter les lettres", "Écrire vite", "Parler fort"],
+      "correctIndex": 0,
+      "explanation": "Traduire exige de comprendre le sens caché, pas seulement les mots."
+    }
+  ]
+}

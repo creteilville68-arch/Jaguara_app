@@ -1,0 +1,153 @@
+{
+  "id": "tours_guide_03",
+  "cityId": "tours",
+  "domain": "Gastronomia",
+  "level": "Misto (A1–C2)",
+  "titleFr": "Vins et cuisine : les saveurs de la Touraine",
+  "titlePt": "Vinhos e cozinha: os sabores da Touraine",
+  "subtitleFr": "Vignobles, rillettes et marchés gourmands",
+  "subtitlePt": "Vinhedos, rillettes e mercados gastronômicos",
+  "summaryPt": "Enciclopédia de Tours, seção 3: a gastronomia da região — vinhos do Loire, rillettes, queijos de cabra e os mercados. Vocabulário de cozinha e degustação, com níveis mistos.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "La Touraine est une terre de vignerons. Les coteaux de la Loire produisent des vins blancs secs et légers, parfaits pour accompagner les poissons de rivière. Les viticulteurs récoltent le raisin à la fin de l'été, souvent à la main, puis laissent le vin vieillir dans les caves creusées dans le tuffeau.",
+      "pt": "A Touraine é uma terra de vinicultores. As encostas do Loire produzem vinhos brancos secos e leves, perfeitos para acompanhar os peixes de rio. Os viticultores colhem a uva no fim do verão, muitas vezes à mão, e depois deixam o vinho envelhecer nas caves escavadas no tufo calcário."
+    },
+    {
+      "id": 2,
+      "fr": "Les rillettes de Tours sont une spécialité célèbre : du porc cuit lentement, longtemps, jusqu'à ce que la viande se déchire en fils fins. Les cuisiniers mijotent la préparation à feu doux pendant des heures, en remuant de temps en temps, puis la salent et la poivrent juste assez.",
+      "pt": "As rillettes de Tours são uma especialidade famosa: porco cozido lentamente, por muito tempo, até a carne se desfiar em fios finos. Os cozinheiros cozinham a preparação em fogo brando por horas, mexendo de vez em quando, e depois salgam e apimentam na medida certa."
+    },
+    {
+      "id": 3,
+      "fr": "Les fromages de chèvre de la région sont réputés dans toute la France : le Sainte-Maure, avec sa paille au centre, est le plus connu. On le déguste avec du pain frais et des fruits. Les marchés du samedi matin proposent aussi des légumes du jardin, des œufs frais et des gâteaux faits maison.",
+      "pt": "Os queijos de cabra da região são famosos em toda a França: o Sainte-Maure, com sua palha no centro, é o mais conhecido. Degusta-se com pão fresco e frutas. Os mercados de sábado de manhã oferecem também legumes da horta, ovos frescos e bolos caseiros."
+    },
+    {
+      "id": 4,
+      "fr": "Les pâtissiers de Tours excellent dans les douceurs : les macarons, les nougats et les tartes aux fruits. Pour réussir une tarte, il faut mesurer les ingrédients avec soin, faire bouillir le lait, fouetter les œufs et sucrer avec justesse. La pâtisserie est une science exacte, disent les artisans.",
+      "pt": "Os confeiteiros de Tours se destacam nas doçuras: macarons, torrones e tortas de frutas. Para fazer uma torta, é preciso medir os ingredientes com cuidado, ferver o leite, bater os ovos e adoçar com justeza. A confeitaria é uma ciência exata, dizem os artesãos."
+    },
+    {
+      "id": 5,
+      "fr": "Dans les restaurants, le repas commence souvent par un hors-d'œuvre, puis vient le plat principal et enfin le dessert. Les serveurs conseillent les clients sur le choix des vins, en tenant compte de chaque assaisonnement. Les convives prennent leur temps, car bien manger est un art de vivre.",
+      "pt": "Nos restaurantes, a refeição começa muitas vezes por uma entrada, depois vem o prato principal e por fim a sobremesa. Os garçons aconselham os clientes na escolha dos vinhos, levando em conta cada tempero. Os comensais tomam seu tempo, pois comer bem é uma arte de viver."
+    },
+    {
+      "id": 6,
+      "fr": "Chaque année, des festivals gastronomiques célèbrent les produits de la région. Les visiteurs peuvent goûter, comparer et acheter directement chez les producteurs. Les enfants découvrent le goût des légumes frais et apprennent à aimer une cuisine simple et honnête, faite avec des produits de saison.",
+      "pt": "Todos os anos, festivais gastronômicos celebram os produtos da região. Os visitantes podem provar, comparar e comprar diretamente dos produtores. As crianças descobrem o gosto dos legumes frescos e aprendem a amar uma cozinha simples e honesta, feita com produtos da estação."
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "récolter",
+      "definitionPt": "colher; fazer colheita",
+      "definitionFr": "Recueillir les produits de la terre.",
+      "inflections": ["récolter", "récolte", "récolté"],
+      "ptTargets": ["colher", "fazer colheita"],
+      "examples": [
+        { "level": "A1", "fr": "Nous récoltons les tomates.", "pt": "Nós colhemos os tomates." },
+        { "level": "A2-B1", "fr": "Les viticulteurs récoltent le raisin à la fin de l'été.", "pt": "Os viticultores colhem a uva no fim do verão." },
+        { "level": "B2", "fr": "Récolter, c'est récompenser des mois de patience.", "pt": "Colher é recompensar meses de paciência." },
+        { "level": "C1-C2", "fr": "On ne récolte jamais ce que l'on n'a pas semé.", "pt": "Nunca se colhe o que não se semeou." }
+      ]
+    },
+    {
+      "term": "mijoter",
+      "definitionPt": "cozinhar em fogo brando",
+      "definitionFr": "Cuire lentement à petit feu.",
+      "inflections": ["mijoter", "mijote", "mijoté"],
+      "ptTargets": ["cozinhar em fogo brando", "cozinhar lentamente"],
+      "examples": [
+        { "level": "A1", "fr": "La soupe mijote.", "pt": "A sopa cozinha em fogo brando." },
+        { "level": "A2-B1", "fr": "Les cuisiniers mijotent la préparation pendant des heures.", "pt": "Os cozinheiros cozinham a preparação em fogo brando por horas." },
+        { "level": "B2", "fr": "Mijoter, c'est laisser le temps faire son travail.", "pt": "Cozinhar em fogo brando é deixar o tempo fazer seu trabalho." },
+        { "level": "C1-C2", "fr": "Les meilleures idées, comme les meilleurs plats, mijotent longtemps.", "pt": "As melhores ideias, como os melhores pratos, cozinham lentamente." }
+      ]
+    },
+    {
+      "term": "remuer",
+      "definitionPt": "mexer",
+      "definitionFr": "Agiter, mélanger une préparation.",
+      "inflections": ["remuer", "remue", "remué"],
+      "ptTargets": ["mexer", "misturar"],
+      "examples": [
+        { "level": "A1", "fr": "Remue la soupe.", "pt": "Mexa a sopa." },
+        { "level": "A2-B1", "fr": "Il faut remuer de temps en temps.", "pt": "É preciso mexer de vez em quando." },
+        { "level": "B2", "fr": "Remuer sans cesse empêche la préparation d'attacher.", "pt": "Mexer sem parar evita que a preparação grude." },
+        { "level": "C1-C2", "fr": "Remuer le passé ne fait pas toujours avancer.", "pt": "Mexer no passado nem sempre faz avançar." }
+      ]
+    },
+    {
+      "term": "déguster",
+      "definitionPt": "degustar; provar",
+      "definitionFr": "Goûter avec attention pour apprécier les saveurs.",
+      "inflections": ["déguster", "déguste", "dégusté"],
+      "ptTargets": ["degustar", "provar", "saborear"],
+      "examples": [
+        { "level": "A1", "fr": "Je déguste le gâteau.", "pt": "Eu saboreio o bolo." },
+        { "level": "A2-B1", "fr": "On déguste le fromage avec du pain frais.", "pt": "Degusta-se o queijo com pão fresco." },
+        { "level": "B2", "fr": "Déguster, c'est prendre le temps de goûter.", "pt": "Degustar é ter tempo de provar." },
+        { "level": "C1-C2", "fr": "On ne déguste pas un vin, on déguste une histoire.", "pt": "Não se degusta um vinho, degusta-se uma história." }
+      ]
+    },
+    {
+      "term": "l'assaisonnement",
+      "definitionPt": "o tempero",
+      "definitionFr": "Mélange d'ingrédients pour relever le goût d'un plat.",
+      "inflections": ["l'assaisonnement", "les assaisonnements"],
+      "ptTargets": ["tempero", "condimento"],
+      "examples": [
+        { "level": "A1", "fr": "L'assaisonnement est bon.", "pt": "O tempero está bom." },
+        { "level": "A2-B1", "fr": "On tient compte de chaque assaisonnement.", "pt": "Leva-se em conta cada tempero." },
+        { "level": "B2", "fr": "Un bon assaisonnement révèle les saveurs sans les cacher.", "pt": "Um bom tempero revela os sabores sem escondê-los." },
+        { "level": "C1-C2", "fr": "L'assaisonnement est la signature discrète du cuisinier.", "pt": "O tempero é a assinatura discreta do cozinheiro." }
+      ]
+    },
+    {
+      "term": "fouetter",
+      "definitionPt": "bater (creme, ovos)",
+      "definitionFr": "Battre rapidement une préparation pour l'aérer.",
+      "inflections": ["fouetter", "fouette", "fouetté"],
+      "ptTargets": ["bater", "bater ovos", "bater creme"],
+      "examples": [
+        { "level": "A1", "fr": "Je fouette les œufs.", "pt": "Eu bato os ovos." },
+        { "level": "A2-B1", "fr": "Il faut fouetter les œufs avec soin.", "pt": "É preciso bater os ovos com cuidado." },
+        { "level": "B2", "fr": "Fouetter jusqu'à ce que la crème soit ferme demande du bras.", "pt": "Bater até o creme ficar firme exige braço." },
+        { "level": "C1-C2", "fr": "Fouetter, c'est donner de l'air à ce qui était lourd.", "pt": "Bater é dar ar ao que estava pesado." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "O imperativo na cozinha (receitas)",
+    "explanationPt": "Nas receitas e instruções, o imperativo é direto: remuez (mexa), salez (salgue), fouettez (bata), laissez mijoter (deixe cozinhar em fogo brando). Também se usa o infinitivo: remuer, saler, poivrer.",
+    "exampleFr": "Faites bouillir le lait, fouettez les œufs, puis sucrez avec justesse.",
+    "examplePt": "Ferva o leite, bata os ovos, depois adoce com justeza.",
+    "practiceQuestion": "Complete: « ___ la préparation à feu doux pendant deux heures. »",
+    "options": ["Laissez mijoter", "Laissez bouillir", "Laissez frire", "Laissez rôtir"],
+    "correctIndex": 0,
+    "explanationPt": "Para cozimento lento: 'laissez mijoter'."
+  },
+  "quizQuestions": [
+    {
+      "question": "Que sont les rillettes de Tours ?",
+      "options": ["Du porc cuit lentement en fils fins", "Des gâteaux au miel", "Des fromages de chèvre", "Des poissons fumés"],
+      "correctIndex": 0,
+      "explanation": "Les rillettes sont du porc cuit lentement jusqu'à ce qu'il se déchire en fils."
+    },
+    {
+      "question": "Quel fromage de chèvre est le plus connu de la région ?",
+      "options": ["Le Sainte-Maure", "Le camembert", "Le roquefort", "Le comté"],
+      "correctIndex": 0,
+      "explanation": "Le Sainte-Maure, avec sa paille au centre, est le plus célèbre."
+    },
+    {
+      "question": "Quand récolte-t-on le raisin dans la région ?",
+      "options": ["À la fin de l'été", "Au printemps", "En décembre", "Au début de l'année"],
+      "correctIndex": 0,
+      "explanation": "Les viticulteurs récoltent le raisin à la fin de l'été."
+    }
+  ]
+}

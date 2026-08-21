@@ -1,0 +1,153 @@
+{
+  "id": "tours_guide_02",
+  "cityId": "tours",
+  "domain": "Patrimônio",
+  "level": "Misto (A1–C2)",
+  "titleFr": "Les châteaux de la Loire : la vallée des rois",
+  "titlePt": "Os castelos do Loire: o vale dos reis",
+  "subtitleFr": "Du château royal au jardin à la française",
+  "subtitlePt": "Do castelo real ao jardim francês",
+  "summaryPt": "Enciclopédia de Tours, seção 2: os castelos do Vale do Loire — arquitetura, jardins e a vida da corte — acessíveis a partir de Tours. Vocabulário de patrimônio e arte, com níveis mistos.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Autour de Tours s'étend la plus belle collection de châteaux du monde. Chambord, Chenonceau, Azay-le-Rideau, Amboise, Villandry : chaque château raconte une époque et un rêve. Les visiteurs viennent du monde entier pour les admirer, et beaucoup organisent leur voyage autour de ces merveilles.",
+      "pt": "Ao redor de Tours se estende a mais bela coleção de castelos do mundo. Chambord, Chenonceau, Azay-le-Rideau, Amboise, Villandry: cada castelo conta uma época e um sonho. Os visitantes vêm do mundo inteiro para admirá-los, e muitos organizam sua viagem em torno dessas maravilhas."
+    },
+    {
+      "id": 2,
+      "fr": "Chenonceau est le plus célèbre : il s'étend sur le Cher, soutenu par des arches élégantes. Ses salons, ses cheminées et ses jardins racontent l'histoire des femmes puissantes qui l'ont fait bâtir. Les visiteurs s'y promènent longtemps, émerveillés par la lumière qui danse sur l'eau.",
+      "pt": "Chenonceau é o mais famoso: estende-se sobre o Cher, sustentado por arcos elegantes. Seus salões, lareiras e jardins contam a história das mulheres poderosas que o fizeram construir. Os visitantes passeiam por lá por muito tempo, encantados com a luz que dança sobre a água."
+    },
+    {
+      "id": 3,
+      "fr": "Chambord impressionne par ses dimensions immenses et son double escalier en spirale, imaginé par Léonard de Vinci. Au sommet, la vue sur les toits et les cheminées sculptées est inoubliable. Certains visiteurs montent les deux cents marches sans se fatiguer, tellement ils sont captivés.",
+      "pt": "Chambord impressiona por suas dimensões imensas e sua escadaria dupla em espiral, imaginada por Leonardo da Vinci. No topo, a vista sobre os telhados e as chaminés esculpidas é inesquecível. Alguns visitantes sobem os duzentos degraus sem se cansar, tão fascinados ficam."
+    },
+    {
+      "id": 4,
+      "fr": "Azay-le-Rideau semble flotter sur l'Indre, comme un bijou posé sur l'eau. Sa construction, au XVIe siècle, fut rapide pour l'époque : en sept ans, le château fut achevé. Aujourd'hui, des équipes d'artisans travaillent sans cesse à son entretien, car le patrimoine demande des soins constants.",
+      "pt": "Azay-le-Rideau parece flutuar sobre o Indre, como uma joia posta sobre a água. Sua construção, no século XVI, foi rápida para a época: em sete anos, o castelo foi concluído. Hoje, equipes de artesãos trabalham sem parar em sua manutenção, pois o patrimônio exige cuidados constantes."
+    },
+    {
+      "id": 5,
+      "fr": "À Villandry, ce ne sont pas les murs qui étonnent, mais les jardins. Les jardiniers taillent les buis et les arbres fruitiers avec une précision incroyable. Les potagers, les fleurs et les fontaines composent un tableau vivant qui change à chaque saison. Semer, planter, tailler : tout y suit un rythme ancien.",
+      "pt": "Em Villandry, não são as paredes que surpreendem, mas os jardins. Os jardineiros podam os buxos e as árvores frutíferas com uma precisão incrível. As hortas, as flores e as fontes compõem um quadro vivo que muda a cada estação. Semear, plantar, podar: tudo segue um ritmo antigo."
+    },
+    {
+      "id": 6,
+      "fr": "Visiter les châteaux demande un peu d'organisation : certains sont ouverts toute l'année, d'autres seulement en été. En général, il vaut mieux partir tôt le matin pour éviter les foules. Les familles choisissent souvent un ou deux châteaux par jour, pour prendre le temps de tout voir sans se presser.",
+      "pt": "Visitar os castelos exige um pouco de organização: alguns ficam abertos o ano inteiro, outros só no verão. Em geral, é melhor partir cedo de manhã para evitar as multidões. As famílias costumam escolher um ou dois castelos por dia, para ter tempo de ver tudo sem pressa."
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "s'étendre",
+      "definitionPt": "estender-se",
+      "definitionFr": "Occuper un espace, se déployer sur une surface.",
+      "inflections": ["s'étendre", "s'étend", "étendu"],
+      "ptTargets": ["estender-se", "espalhar-se"],
+      "examples": [
+        { "level": "A1", "fr": "La ville s'étend sur la colline.", "pt": "A cidade se estende pela colina." },
+        { "level": "A2-B1", "fr": "Le château s'étend sur le Cher.", "pt": "O castelo se estende sobre o Cher." },
+        { "level": "B2", "fr": "S'étendre à perte de vue, c'est le privilège des grands espaces.", "pt": "Estender-se até onde a vista alcança é privilégio dos grandes espaços." },
+        { "level": "C1-C2", "fr": "Le temps semble s'étendre quand on contemple un paysage aimé.", "pt": "O tempo parece se estender quando contemplamos uma paisagem amada." }
+      ]
+    },
+    {
+      "term": "s'émerveiller",
+      "definitionPt": "maravilhar-se",
+      "definitionFr": "Être rempli d'admiration, de plaisir.",
+      "inflections": ["s'émerveiller", "s'émerveille", "émerveillé"],
+      "ptTargets": ["maravilhar-se", "encantar-se"],
+      "examples": [
+        { "level": "A1", "fr": "Je m'émerveille devant les fleurs.", "pt": "Eu me maravilho diante das flores." },
+        { "level": "A2-B1", "fr": "Les visiteurs s'émerveillent devant la lumière sur l'eau.", "pt": "Os visitantes se maravilham com a luz sobre a água." },
+        { "level": "B2", "fr": "S'émerveiller, c'est garder un regard d'enfant sur le monde.", "pt": "Maravilhar-se é manter um olhar de criança sobre o mundo." },
+        { "level": "C1-C2", "fr": "Celui qui s'émerveille encore n'a pas fini de grandir.", "pt": "Quem ainda se maravilha não terminou de crescer." }
+      ]
+    },
+    {
+      "term": "impressionner",
+      "definitionPt": "impressionar",
+      "definitionFr": "Provoquer une forte impression.",
+      "inflections": ["impressionner", "impressionne", "impressionné"],
+      "ptTargets": ["impressionar"],
+      "examples": [
+        { "level": "A1", "fr": "Le château m'impressionne.", "pt": "O castelo me impressiona." },
+        { "level": "A2-B1", "fr": "Chambord impressionne par ses dimensions immenses.", "pt": "Chambord impressiona por suas dimensões imensas." },
+        { "level": "B2", "fr": "Ce qui impressionne vraiment, c'est le travail invisible des artisans.", "pt": "O que realmente impressiona é o trabalho invisível dos artesãos." },
+        { "level": "C1-C2", "fr": "On est moins impressionné par la taille que par la justesse.", "pt": "Ficamos menos impressionados pelo tamanho do que pela justeza." }
+      ]
+    },
+    {
+      "term": "captivé",
+      "definitionPt": "fascinado; cativado",
+      "definitionFr": "Fortement intéressé, absorbé par quelque chose.",
+      "inflections": ["captivé", "captivée", "captivés"],
+      "ptTargets": ["fascinado", "cativado", "encantado"],
+      "examples": [
+        { "level": "A1", "fr": "Je suis captivé par le film.", "pt": "Eu estou fascinado pelo filme." },
+        { "level": "A2-B1", "fr": "Les visiteurs montent sans se fatiguer, tellement ils sont captivés.", "pt": "Os visitantes sobem sem se cansar, tão fascinados ficam." },
+        { "level": "B2", "fr": "Un bon récit captive plus sûrement qu'un long discours.", "pt": "Uma boa narrativa cativa com mais segurança que um longo discurso." },
+        { "level": "C1-C2", "fr": "Être captivé, c'est oublier l'heure pour ne plus voir que le chemin.", "pt": "Estar fascinado é esquecer a hora para não ver mais que o caminho." }
+      ]
+    },
+    {
+      "term": "le patrimoine",
+      "definitionPt": "o patrimônio",
+      "definitionFr": "Ensemble des biens culturels et historiques hérités du passé.",
+      "inflections": ["le patrimoine", "les patrimoines", "le patrimoine mondial"],
+      "ptTargets": ["patrimônio", "patrimônio cultural"],
+      "examples": [
+        { "level": "A1", "fr": "Le patrimoine est important.", "pt": "O patrimônio é importante." },
+        { "level": "A2-B1", "fr": "Le patrimoine demande des soins constants.", "pt": "O patrimônio exige cuidados constantes." },
+        { "level": "B2", "fr": "Protéger le patrimoine, c'est transmettre une mémoire collective.", "pt": "Proteger o patrimônio é transmitir uma memória coletiva." },
+        { "level": "C1-C2", "fr": "Le patrimoine est la conversation silencieuse entre les générations.", "pt": "O patrimônio é a conversa silenciosa entre as gerações." }
+      ]
+    },
+    {
+      "term": "éviter",
+      "definitionPt": "evitar",
+      "definitionFr": "Se tenir loin de quelque chose de dangereux ou de gênant.",
+      "inflections": ["éviter", "évite", "évité"],
+      "ptTargets": ["evitar", "fugir de"],
+      "examples": [
+        { "level": "A1", "fr": "J'évite le bruit.", "pt": "Eu evito o barulho." },
+        { "level": "A2-B1", "fr": "Il vaut mieux partir tôt pour éviter les foules.", "pt": "É melhor partir cedo para evitar as multidões." },
+        { "level": "B2", "fr": "Éviter une difficulté n'est pas la résoudre.", "pt": "Evitar uma dificuldade não é resolvê-la." },
+        { "level": "C1-C2", "fr": "On n'évite pas le destin, on l'apprivoise.", "pt": "Não se evita o destino, amansa-se." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "A comparação de superioridade",
+    "explanationPt": "Para comparar: plus + adjetivo + que (le plus célèbre, plus vite que). O superlativo: le/la plus + adjetivo (la plus belle collection, le plus long fleuve).",
+    "exampleFr": "Chenonceau est le plus célèbre, mais Chambord est le plus grand.",
+    "examplePt": "Chenonceau é o mais famoso, mas Chambord é o maior.",
+    "practiceQuestion": "Complete: « La Loire est ___ long fleuve de France. »",
+    "options": ["le plus", "plus", "très", "aussi"],
+    "correctIndex": 0,
+    "explanationPt": "Superlativo: 'le plus long fleuve'."
+  },
+  "quizQuestions": [
+    {
+      "question": "Quel château s'étend sur le Cher ?",
+      "options": ["Chenonceau", "Chambord", "Villandry", "Azay-le-Rideau"],
+      "correctIndex": 0,
+      "explanation": "Chenonceau s'étend sur le Cher, soutenu par des arches."
+    },
+    {
+      "question": "Qui a imaginé le double escalier de Chambord ?",
+      "options": ["Léonard de Vinci", "Victor Hugo", "Vauban", "Gustave Eiffel"],
+      "correctIndex": 0,
+      "explanation": "Le double escalier en spirale est attribué à Léonard de Vinci."
+    },
+    {
+      "question": "Pourquoi Villandry est-il célèbre ?",
+      "options": ["Pour ses jardins", "Pour ses remparts", "Pour sa tour Eiffel", "Pour son port"],
+      "correctIndex": 0,
+      "explanation": "Villandry est célèbre pour ses jardins à la française."
+    }
+  ]
+}

@@ -35,6 +35,14 @@ import msmGuide05 from '../data/city_guides/mont_saint_michel_guide_05.json';
 import msmGuide06 from '../data/city_guides/mont_saint_michel_guide_06.json';
 import msmGuide07 from '../data/city_guides/mont_saint_michel_guide_07.json';
 import msmGuide08 from '../data/city_guides/mont_saint_michel_guide_08.json';
+import toursGuide01 from '../data/city_guides/tours_guide_01.json';
+import toursGuide02 from '../data/city_guides/tours_guide_02.json';
+import toursGuide03 from '../data/city_guides/tours_guide_03.json';
+import toursGuide04 from '../data/city_guides/tours_guide_04.json';
+import toursGuide05 from '../data/city_guides/tours_guide_05.json';
+import toursGuide06 from '../data/city_guides/tours_guide_06.json';
+import toursGuide07 from '../data/city_guides/tours_guide_07.json';
+import toursGuide08 from '../data/city_guides/tours_guide_08.json';
 
 interface EncyclopediaViewProps {
   progress: UserMapProgress;
@@ -82,6 +90,16 @@ const CITY_GUIDES: Record<string, Array<Record<string, unknown>>> = {
     msmGuide06 as unknown as Record<string, unknown>,
     msmGuide07 as unknown as Record<string, unknown>,
     msmGuide08 as unknown as Record<string, unknown>,
+  ],
+  tours: [
+    toursGuide01 as unknown as Record<string, unknown>,
+    toursGuide02 as unknown as Record<string, unknown>,
+    toursGuide03 as unknown as Record<string, unknown>,
+    toursGuide04 as unknown as Record<string, unknown>,
+    toursGuide05 as unknown as Record<string, unknown>,
+    toursGuide06 as unknown as Record<string, unknown>,
+    toursGuide07 as unknown as Record<string, unknown>,
+    toursGuide08 as unknown as Record<string, unknown>,
   ],
 };
 
