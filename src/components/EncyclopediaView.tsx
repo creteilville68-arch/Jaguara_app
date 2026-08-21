@@ -75,6 +75,8 @@ import marseilleGuide05 from '../data/city_guides/marseille_guide_05.json';
 import marseilleGuide06 from '../data/city_guides/marseille_guide_06.json';
 import marseilleGuide07 from '../data/city_guides/marseille_guide_07.json';
 import marseilleGuide08 from '../data/city_guides/marseille_guide_08.json';
+import marseilleGuide09 from '../data/city_guides/marseille_guide_09.json';
+import marseilleGuide10 from '../data/city_guides/marseille_guide_10.json';
 import strasbourgGuide01 from '../data/city_guides/strasbourg_guide_01.json';
 import strasbourgGuide02 from '../data/city_guides/strasbourg_guide_02.json';
 import strasbourgGuide03 from '../data/city_guides/strasbourg_guide_03.json';
@@ -83,6 +85,8 @@ import strasbourgGuide05 from '../data/city_guides/strasbourg_guide_05.json';
 import strasbourgGuide06 from '../data/city_guides/strasbourg_guide_06.json';
 import strasbourgGuide07 from '../data/city_guides/strasbourg_guide_07.json';
 import strasbourgGuide08 from '../data/city_guides/strasbourg_guide_08.json';
+import strasbourgGuide09 from '../data/city_guides/strasbourg_guide_09.json';
+import strasbourgGuide10 from '../data/city_guides/strasbourg_guide_10.json';
 import niceGuide01 from '../data/city_guides/nice_guide_01.json';
 import niceGuide02 from '../data/city_guides/nice_guide_02.json';
 import niceGuide03 from '../data/city_guides/nice_guide_03.json';
@@ -196,6 +200,8 @@ const CITY_GUIDES: Record<string, Array<Record<string, unknown>>> = {
     marseilleGuide06 as unknown as Record<string, unknown>,
     marseilleGuide07 as unknown as Record<string, unknown>,
     marseilleGuide08 as unknown as Record<string, unknown>,
+    marseilleGuide09 as unknown as Record<string, unknown>,
+    marseilleGuide10 as unknown as Record<string, unknown>,
   ],
   strasbourg: [
     strasbourgGuide01 as unknown as Record<string, unknown>,
@@ -206,6 +212,8 @@ const CITY_GUIDES: Record<string, Array<Record<string, unknown>>> = {
     strasbourgGuide06 as unknown as Record<string, unknown>,
     strasbourgGuide07 as unknown as Record<string, unknown>,
     strasbourgGuide08 as unknown as Record<string, unknown>,
+    strasbourgGuide09 as unknown as Record<string, unknown>,
+    strasbourgGuide10 as unknown as Record<string, unknown>,
   ],
   nice: [
     niceGuide01 as unknown as Record<string, unknown>,
@@ -292,6 +300,7 @@ export const EncyclopediaView: React.FC<EncyclopediaViewProps> = ({ progress, on
               const titlePt = (section.titlePt as string) || '';
               const paragraphs = (section.paragraphs as Array<{ fr: string; pt: string }>) || [];
               const vocab = (section.vocabularyDictionary as Array<unknown>) || [];
+              const level = (section.level as string) || '';
               return (
                 <button
                   key={(section.id as string) || idx}
@@ -307,9 +316,16 @@ export const EncyclopediaView: React.FC<EncyclopediaViewProps> = ({ progress, on
                         {idx + 1}. {titleFr}
                       </p>
                       {titlePt && <p className="text-xs text-slate-400 mt-0.5">{titlePt}</p>}
-                      <p className="text-[11px] text-slate-500 mt-1">
-                        {paragraphs.length} parágrafos · {vocab.length} expressões-chave
-                      </p>
+                      <div className="flex items-center gap-2 mt-1.5">
+                        {level && (
+                          <span className="inline-flex items-center px-2 py-0.5 rounded-full bg-amber-950/60 border border-amber-800/40 text-[10px] font-bold text-amber-300 uppercase tracking-wide">
+                            {level}
+                          </span>
+                        )}
+                        <span className="text-[11px] text-slate-500">
+                          {paragraphs.length} parágrafos · {vocab.length} expressões-chave
+                        </span>
+                      </div>
                     </div>
                   </div>
                   <ArrowRight className="w-4 h-4 text-slate-600 group-hover:text-emerald-400 transition-colors shrink-0" />

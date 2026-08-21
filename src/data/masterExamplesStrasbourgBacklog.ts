@@ -47,4 +47,16 @@ export const STRASBOURG_BACKLOG_EXAMPLES: Record<string, MasterExample[]> = {
     { level: 'B2', fr: 'Une ville qui parle deux langues et siège de l’Europe : la situation de Strasbourg est singulière en Europe.', pt: 'Uma cidade que fala duas línguas e sedia a Europa: a situação de Strasbourg é singular na Europa.' },
     { level: 'C1-C2', fr: 'Sa beauté est singulière : elle naît des contrastes, de la frontière, de la double appartenance.', pt: 'Sua beleza é singular: ela nasce dos contrastes, da fronteira, da dupla pertença.' },
   ],
+  critiqués: [
+    { level: 'A1', fr: 'Les livres critiqués restent sur l’étagère.', pt: 'Os livros criticados ficam na estante.' },
+    { level: 'A2-B1', fr: 'Les compromis, souvent critiqués, sont le cœur de la négociation.', pt: 'Os compromissos, muitas vezes criticados, são o coração da negociação.' },
+    { level: 'B2', fr: 'Ces accords, critiqués sur tous les bancs, ont pourtant tenu dix ans.', pt: 'Esses acordos, criticados em todas as bancadas, resistiram no entanto dez anos.' },
+    { level: 'C1-C2', fr: 'Les institutions, critiquées sans relâche, n’en demeurent pas moins le rempart de la paix.', pt: 'As instituições, criticadas sem trégua, não deixam de ser o baluarte da paz.' },
+  ],
+  rechargés: [
+    { level: 'A1', fr: 'Les téléphones sont rechargés.', pt: 'Os celulares estão carregados.' },
+    { level: 'A2-B1', fr: 'Les conteneurs sont rechargés sur les trains.', pt: 'Os contêineres são recarregados nos trens.' },
+    { level: 'B2', fr: 'Les camions, rechargés en quelques heures, reprennent la route au matin.', pt: 'Os caminhões, recarregados em poucas horas, retomam a estrada de manhã.' },
+    { level: 'C1-C2', fr: 'Des flux rechargés sans cesse, le port tire sa vitalité : rien n’y attend jamais longtemps.', pt: 'De fluxos recarregados sem cessar, o porto tira sua vitalidade: nada espera ali por muito tempo.' },
+  ],
 };

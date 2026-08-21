@@ -149,4 +149,10 @@ export const MARSEILLE_BACKLOG_EXAMPLES: Record<string, MasterExample[]> = {
     { level: 'B2', fr: "Il ne craint pas la mer ; d'ailleurs, il a grandi sur un port.", pt: 'Ele não tem medo do mar; aliás, ele cresceu num porto.' },
     { level: 'C1-C2', fr: "Le mistral, d'ailleurs, est un maître exigeant : il n'épargne ni les voiles ni les caractères.", pt: 'O mistral, aliás, é um mestre exigente: não poupa nem velas nem caracteres.' },
   ],
+  lignée: [
+    { level: 'A1', fr: 'Cette lignée est ancienne.', pt: 'Essa linhagem é antiga.' },
+    { level: 'A2-B1', fr: 'Une lignée d’artisans travaille ici depuis des générations.', pt: 'Uma linhagem de artesãos trabalha aqui há gerações.' },
+    { level: 'B2', fr: 'De Pagnol à aujourd’hui, une longue lignée d’artistes a façonné l’image de Marseille.', pt: 'De Pagnol até hoje, uma longa linhagem de artistas moldou a imagem de Marseille.' },
+    { level: 'C1-C2', fr: 'La ville s’écrit à travers les lignées qui la traversent, chacune apportant sa pierre à la mémoire commune.', pt: 'A cidade se escreve através das linhagens que a atravessam, cada uma trazendo sua pedra à memória comum.' },
+  ],
 };
