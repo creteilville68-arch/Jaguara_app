@@ -113,4 +113,28 @@ export const MONT_SAINT_MICHEL_BACKLOG_EXAMPLES: Record<string, MasterExample[]>
     { level: 'B2', fr: 'La recharge rapide permet de continuer le trajet sans perdre de temps.', pt: 'A recarga rápida permite continuar o trajeto sem perder tempo.' },
     { level: 'C1-C2', fr: 'Même un voyageur passionné doit parfois interrompre sa route pour recharger ses forces.', pt: 'Mesmo um viajante apaixonado às vezes precisa interromper o caminho para recarregar as forças.' },
   ],
+  'se rendre compte': [
+    { level: 'A1', fr: "Je me rends compte de mon erreur.", pt: 'Eu me dou conta do meu erro.' },
+    { level: 'A2-B1', fr: "Les enfants creusent le sable sans se rendre compte du danger.", pt: 'As crianças cavam a areia sem perceber o perigo.' },
+    { level: 'B2', fr: "On se rend compte parfois trop tard de ce qui compte vraiment.", pt: 'Às vezes nos damos conta tarde demais do que realmente importa.' },
+    { level: 'C1-C2', fr: "Se rendre compte, c'est accepter que la vérité change notre regard.", pt: 'Dar-se conta é aceitar que a verdade muda nosso olhar.' },
+  ],
+  ambiance: [
+    { level: 'A1', fr: "L'ambiance est calme ici.", pt: 'O ambiente é calmo aqui.' },
+    { level: 'A2-B1', fr: "On y dort dans une ambiance familiale.", pt: 'Dorme-se num ambiente familiar.' },
+    { level: 'B2', fr: "L'ambiance d'un lieu dépend souvent des personnes qui s'y trouvent.", pt: 'O ambiente de um lugar depende muitas vezes das pessoas que estão nele.' },
+    { level: 'C1-C2', fr: "Une ambiance naît du dialogue entre les murs, la lumière et les silences.", pt: 'Um ambiente nasce do diálogo entre as paredes, a luz e os silêncios.' },
+  ],
+  recommandée: [
+    { level: 'A1', fr: "Cette promenade est recommandée.", pt: 'Este passeio é recomendado.' },
+    { level: 'A2-B1', fr: "La marche sur le sable est souvent recommandée.", pt: 'A caminhada na areia é muitas vezes recomendada.' },
+    { level: 'B2', fr: "Une activité recommandée par un médecin mérite d'être essayée.", pt: 'Uma atividade recomendada por um médico merece ser experimentada.' },
+    { level: 'C1-C2', fr: "La prudence recommandée n'est pas une limite, c'est une boussole.", pt: 'A prudência recomendada não é um limite, é uma bússola.' },
+  ],
+  ordonnance: [
+    { level: 'A1', fr: "Le médecin écrit une ordonnance.", pt: 'O médico escreve uma receita.' },
+    { level: 'A2-B1', fr: "Le Mont est comme une ordonnance de nature.", pt: 'O Mont é como uma receita de natureza.' },
+    { level: 'B2', fr: "Suivre une ordonnance, c'est respecter un rythme.", pt: 'Seguir uma receita é respeitar um ritmo.' },
+    { level: 'C1-C2', fr: "L'ordonnance la plus précieuse est parfois celle que la nature nous prescrit.", pt: 'A receita mais preciosa às vezes é a que a natureza nos prescreve.' },
+  ],
 };

@@ -1,0 +1,153 @@
+{
+  "id": "mont_saint_michel_guide_06",
+  "cityId": "mont-saint-michel",
+  "domain": "Cotidiano",
+  "level": "Misto (A1–C2)",
+  "titleFr": "Vivre au Mont : la vie quotidienne dans le village",
+  "titlePt": "Viver no Monte: a vida cotidiana na vila",
+  "subtitleFr": "Un village de deux cents habitants au milieu des flots",
+  "subtitlePt": "Uma vila de duzentos habitantes no meio das águas",
+  "summaryPt": "Enciclopédia de Mont-Saint-Michel, seção 6: como é viver na vila do monte — as rotinas, os serviços, o trabalho e as relações entre vizinhos. Vocabulário de vida diária, moradia e comunidade, com níveis mistos.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Environ deux cents personnes habitent le village du Mont-Saint-Michel, un des plus anciens de France. Vivre ici n'est pas toujours facile : pas de grande école, pas d'hôpital, et les livraisons arrivent par bateau ou par la route à marée basse. Mais les habitants ne se plaignent pas : ils se disent privilégiés de vivre dans un lieu si beau.",
+      "pt": "Cerca de duzentas pessoas moram na vila de Mont-Saint-Michel, uma das mais antigas da França. Viver aqui nem sempre é fácil: não há escola grande, nem hospital, e as entregas chegam de barco ou pela estrada na maré baixa. Mas os moradores não reclamam: dizem-se privilegiados por viver num lugar tão bonito."
+    },
+    {
+      "id": 2,
+      "fr": "Le matin, les habitants se réveillent tôt, avant l'arrivée des premiers touristes. Les commerçants ouvrent leurs boutiques, les boulangers préparent le pain, les employés nettoient les rues. Tout le monde s'occupe de sa tâche avec sérieux, car le village doit être prêt quand la foule arrive.",
+      "pt": "De manhã, os moradores acordam cedo, antes da chegada dos primeiros turistas. Os comerciantes abrem suas lojas, os padeiros preparam o pão, os funcionários limpam as ruas. Cada um cuida de sua tarefa com seriedade, pois a vila precisa estar pronta quando a multidão chega."
+    },
+    {
+      "id": 3,
+      "fr": "Les habitants s'entendent généralement bien entre eux. Dans un village si petit, tout le monde se connaît : on se salue dans la rue, on se rend service, on fête ensemble les grandes occasions. Quand un problème survient, la communauté se réunit et cherche une solution commune.",
+      "pt": "Os moradores geralmente se dão bem entre si. Numa vila tão pequena, todo mundo se conhece: cumprimenta-se na rua, fazem-se favores, festeja-se junto as grandes ocasiões. Quando surge um problema, a comunidade se reúne e busca uma solução comum."
+    },
+    {
+      "id": 4,
+      "fr": "Les enfants du village vont à l'école dans les communes voisines, car la vieille école du mont a fermé. Chaque matin, une navette les attend à la porte du village. Les parents s'habituent à ce rythme : il faut prévoir les horaires, les vacances et les activités périscolaires comme partout ailleurs.",
+      "pt": "As crianças da vila vão à escola nas comunas vizinhas, pois a antiga escola do monte fechou. Toda manhã, uma van as espera no portão da vila. Os pais se acostumam a esse ritmo: é preciso prever os horários, as férias e as atividades extracurriculares como em qualquer outro lugar."
+    },
+    {
+      "id": 5,
+      "fr": "En hiver, quand les touristes repartent, le village retrouve son calme. Les habitants avouent aimer cette période : les rues sont désertes, la brume enveloppe les remparts et la mer chante toute la nuit. C'est le moment où l'on redécouvre la vraie vie du mont, loin des boutiques et des files d'attente.",
+      "pt": "No inverno, quando os turistas vão embora, a vila reencontra sua calma. Os moradores confessam amar esse período: as ruas ficam desertas, a névoa envolve as muralhas e o mar canta a noite inteira. É o momento em que se redescobre a vida verdadeira do monte, longe das lojas e das filas."
+    },
+    {
+      "id": 6,
+      "fr": "Malgré les difficultés, personne ne veut partir. Certains habitants vivent ici depuis des générations, d'autres sont arrivés par hasard et sont restés. Tous racontent la même chose : ce n'est pas un lieu comme les autres, et l'on n'y vient pas par hasard. On y reste parce qu'on s'y sent chez soi.",
+      "pt": "Apesar das dificuldades, ninguém quer partir. Alguns moradores vivem aqui há gerações, outros chegaram por acaso e ficaram. Todos contam a mesma coisa: não é um lugar como os outros, e não se vem aqui por acaso. Fica-se porque se sente em casa."
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "se réveiller",
+      "definitionPt": "acordar",
+      "definitionFr": "Sortir du sommeil.",
+      "inflections": ["se réveiller", "se réveille", "réveillé"],
+      "ptTargets": ["acordar", "despertar"],
+      "examples": [
+        { "level": "A1", "fr": "Je me réveille à sept heures.", "pt": "Eu acordo às sete horas." },
+        { "level": "A2-B1", "fr": "Les habitants se réveillent avant l'arrivée des touristes.", "pt": "Os moradores acordam antes da chegada dos turistas." },
+        { "level": "B2", "fr": "Se réveiller tôt, c'est gagner une heure de silence.", "pt": "Acordar cedo é ganhar uma hora de silêncio." },
+        { "level": "C1-C2", "fr": "Se réveiller, c'est aussi ouvrir les yeux sur le monde.", "pt": "Acordar é também abrir os olhos para o mundo." }
+      ]
+    },
+    {
+      "term": "s'occuper de",
+      "definitionPt": "cuidar de; ocupar-se de",
+      "definitionFr": "Prendre soin de quelque chose ou de quelqu'un.",
+      "inflections": ["s'occuper de", "s'occupe de", "occupé de"],
+      "ptTargets": ["cuidar de", "ocupar-se de"],
+      "examples": [
+        { "level": "A1", "fr": "Je m'occupe du chat.", "pt": "Eu cuido do gato." },
+        { "level": "A2-B1", "fr": "Chacun s'occupe de sa tâche avec sérieux.", "pt": "Cada um cuida de sua tarefa com seriedade." },
+        { "level": "B2", "fr": "S'occuper des autres, c'est aussi s'occuper de soi.", "pt": "Cuidar dos outros é também cuidar de si." },
+        { "level": "C1-C2", "fr": "On s'occupe bien de ce que l'on a choisi d'aimer.", "pt": "Cuidamos bem daquilo que escolhemos amar." }
+      ]
+    },
+    {
+      "term": "s'entendre bien",
+      "definitionPt": "dar-se bem",
+      "definitionFr": "Avoir de bonnes relations avec quelqu'un.",
+      "inflections": ["s'entendre bien", "s'entend bien", "entendu bien"],
+      "ptTargets": ["dar-se bem", "conviver bem"],
+      "examples": [
+        { "level": "A1", "fr": "Je m'entends bien avec lui.", "pt": "Eu me dou bem com ele." },
+        { "level": "A2-B1", "fr": "Les habitants s'entendent généralement bien entre eux.", "pt": "Os moradores geralmente se dão bem entre si." },
+        { "level": "B2", "fr": "S'entendre bien, c'est accepter les différences.", "pt": "Dar-se bem é aceitar as diferenças." },
+        { "level": "C1-C2", "fr": "On ne s'entend bien que lorsque l'on s'écoute.", "pt": "Só nos damos bem quando nos escutamos." }
+      ]
+    },
+    {
+      "term": "avouer",
+      "definitionPt": "confessar; admitir",
+      "definitionFr": "Reconnaître quelque chose, souvent avec difficulté.",
+      "inflections": ["avouer", "avoue", "avoué"],
+      "ptTargets": ["confessar", "admitir"],
+      "examples": [
+        { "level": "A1", "fr": "J'avoue mon erreur.", "pt": "Eu confesso meu erro." },
+        { "level": "A2-B1", "fr": "Les habitants avouent aimer la période calme.", "pt": "Os moradores confessam amar o período calmo." },
+        { "level": "B2", "fr": "Avouer ses limites, c'est déjà les dépasser.", "pt": "Admitir os próprios limites já é superá-los." },
+        { "level": "C1-C2", "fr": "Avouer, c'est donner une chance à la vérité.", "pt": "Confessar é dar uma chance à verdade." }
+      ]
+    },
+    {
+      "term": "la file d'attente",
+      "definitionPt": "a fila de espera",
+      "definitionFr": "Suite de personnes qui attendent leur tour.",
+      "inflections": ["la file d'attente", "les files d'attente", "faire la queue"],
+      "ptTargets": ["fila de espera", "fila"],
+      "examples": [
+        { "level": "A1", "fr": "Il y a une file d'attente.", "pt": "Há uma fila." },
+        { "level": "A2-B1", "fr": "Les files d'attente sont longues en été.", "pt": "As filas são longas no verão." },
+        { "level": "B2", "fr": "La file d'attente est parfois l'occasion de belles rencontres.", "pt": "A fila às vezes é a ocasião de belos encontros." },
+        { "level": "C1-C2", "fr": "Toute file d'attente est une leçon de patience.", "pt": "Toda fila é uma lição de paciência." }
+      ]
+    },
+    {
+      "term": "se sentir chez soi",
+      "definitionPt": "sentir-se em casa",
+      "definitionFr": "Se sentir à l'aise, comme dans son propre lieu.",
+      "inflections": ["se sentir chez soi", "se sent chez soi", "senti chez soi"],
+      "ptTargets": ["sentir-se em casa", "sentir-se à vontade"],
+      "examples": [
+        { "level": "A1", "fr": "Je me sens chez moi ici.", "pt": "Eu me sinto em casa aqui." },
+        { "level": "A2-B1", "fr": "On reste parce qu'on se sent chez soi.", "pt": "Fica-se porque se sente em casa." },
+        { "level": "B2", "fr": "Se sentir chez soi, ce n'est pas une question de maison.", "pt": "Sentir-se em casa não é questão de casa." },
+        { "level": "C1-C2", "fr": "Se sentir chez soi, c'est avoir trouvé sa place dans le monde.", "pt": "Sentir-se em casa é ter encontrado seu lugar no mundo." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Verbos pronominais de rotina",
+    "explanationPt": "A rotina usa muitos verbos pronominais: se réveiller, s'habiller, se dépêcher, s'occuper, s'habituer. Com 'on', ficam na 3ª pessoa do singular: on se réveille, on s'occupe.",
+    "exampleFr": "On se réveille tôt, on s'occupe de sa tâche, et le village se prépare.",
+    "examplePt": "Acorda-se cedo, cuida-se da tarefa, e a vila se prepara.",
+    "practiceQuestion": "Complete: « Le matin, on ___ à sept heures. »",
+    "options": ["se réveille", "se réveillent", "réveille", "se réveiller"],
+    "correctIndex": 0,
+    "explanationPt": "Com 'on', pronominal na 3ª pessoa do singular: 'on se réveille'."
+  },
+  "quizQuestions": [
+    {
+      "question": "Combien de personnes habitent le village du Mont ?",
+      "options": ["Environ deux cents", "Dix mille", "Cinq mille", "Cinquante"],
+      "correctIndex": 0,
+      "explanation": "Environ deux cents personnes habitent le village."
+    },
+    {
+      "question": "Où vont les enfants du village pour l'école ?",
+      "options": ["Dans les communes voisines", "Dans l'abbaye", "À Paris", "Ils étudient à la maison"],
+      "correctIndex": 0,
+      "explanation": "Une navette emmène les enfants dans les communes voisines."
+    },
+    {
+      "question": "Quand le village retrouve-t-il son calme ?",
+      "options": ["En hiver", "Au mois d'août", "Pendant les vacances scolaires", "Le dimanche de Pâques"],
+      "correctIndex": 0,
+      "explanation": "En hiver, après le départ des touristes, le village retrouve son calme."
+    }
+  ]
+}

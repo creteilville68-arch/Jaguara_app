@@ -1,0 +1,153 @@
+{
+  "id": "mont_saint_michel_guide_02",
+  "cityId": "mont-saint-michel",
+  "domain": "Natureza",
+  "level": "Misto (A1–C2)",
+  "titleFr": "La baie et les marées : le mouvement du monde",
+  "titlePt": "A baía e as marés: o movimento do mundo",
+  "subtitleFr": "Les plus grandes marées d'Europe et les sables de la baie",
+  "subtitlePt": "As maiores marés da Europa e as areias da baía",
+  "summaryPt": "Enciclopédia de Mont-Saint-Michel, seção 2: as marés da baía, as areias movediças e o ritmo da natureza. Vocabulário de natureza, tempo e hábitos, com níveis mistos.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "La baie du Mont-Saint-Michel est célèbre dans le monde entier pour ses marées. Deux fois par jour, la mer monte et descend, avec une amplitude qui peut dépasser quatorze mètres. En général, les gens qui habitent la région connaissent ce rythme par cœur : ils consultent l'horaire des marées avant de s'aventurer sur le sable.",
+      "pt": "A baía de Mont-Saint-Michel é famosa no mundo inteiro por suas marés. Duas vezes por dia, o mar sobe e desce, com uma amplitude que pode ultrapassar catorze metros. Em geral, as pessoas que moram na região conhecem esse ritmo de cor: consultam o horário das marés antes de se aventurar na areia."
+    },
+    {
+      "id": 2,
+      "fr": "Quand la mer se retire, la baie se transforme en un immense désert de sable. On peut alors marcher jusqu'au mont, mais il faut un guide expérimenté. Certains visiteurs, trop confiants, s'égarent et doivent se dépêcher avant que l'eau ne revienne. Le danger est réel : la mer peut monter à la vitesse d'un cheval au galop.",
+      "pt": "Quando o mar se retira, a baía se transforma num imenso deserto de areia. Então se pode caminhar até o monte, mas é preciso um guia experiente. Alguns visitantes, confiantes demais, se perdem e precisam se apressar antes que a água volte. O perigo é real: o mar pode subir na velocidade de um cavalo a galope."
+    },
+    {
+      "id": 3,
+      "fr": "Les sables mouvants effraient les visiteurs, mais les guides savent les reconnaître. Normalement, il suffit de suivre les sentiers balisés et de ne pas s'éloigner du groupe. Les enfants s'amusent pourtant à creuser le sable humide, sans se rendre compte du danger caché sous leurs pieds.",
+      "pt": "As areias movediças assustam os visitantes, mas os guias sabem reconhecê-las. Normalmente, basta seguir as trilhas sinalizadas e não se afastar do grupo. As crianças, no entanto, se divertem cavando a areia úmida, sem perceber o perigo escondido sob seus pés."
+    },
+    {
+      "id": 4,
+      "fr": "Les habitants de la baie se sont habitués à ce paysage changeant. D'habitude, ils consultent la météo avant de sortir, car la brume peut arriver rapidement et réduire la visibilité à quelques mètres. Certainement, ce spectacle vaut le détour : voir la mer engloutir la route puis se retirer, c'est un moment inoubliable.",
+      "pt": "Os moradores da baía se acostumaram a essa paisagem mutável. De costume, consultam a previsão do tempo antes de sair, pois a névoa pode chegar rápido e reduzir a visibilidade a poucos metros. Certamente, esse espetáculo vale o desvio: ver o mar engolir a estrada e depois se retirar é um momento inesquecível."
+    },
+    {
+      "id": 5,
+      "fr": "Pour traverser la baie avec un guide, il faut s'équiper correctement : des bottes, de l'eau potable et un téléphone portable. Les guides utilisent des bâtons pour sonder le sable et vérifier sa solidité. Ils remarquent les moindres changements du paysage, car la baie se transforme graduellement, saison après saison.",
+      "pt": "Para atravessar a baía com um guia, é preciso se equipar corretamente: botas, água potável e um celular. Os guias usam bastões para sondar a areia e verificar sua solidez. Eles notam as menores mudanças da paisagem, pois a baía se transforma gradualmente, estação após estação."
+    },
+    {
+      "id": 6,
+      "fr": "Au coucher du soleil, la baie offre un spectacle reposant : l'eau devient rose, les oiseaux traversent le ciel et le mont se reflète dans les flaques. Les visiteurs restent silencieux, impressionnés. Même ceux qui pensaient tout connaître de la France reconnaissent que ce lieu est unique au monde.",
+      "pt": "Ao pôr do sol, a baía oferece um espetáculo repousante: a água fica rosa, os pássaros atravessam o céu e o monte se reflete nas poças. Os visitantes ficam em silêncio, impressionados. Até quem achava que conhecia tudo da França reconhece que esse lugar é único no mundo."
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "se dépêcher",
+      "definitionPt": "apressar-se",
+      "definitionFr": "Faire vite, se hâter.",
+      "inflections": ["se dépêcher", "se dépêche", "dépêché"],
+      "ptTargets": ["apressar-se", "pressa"],
+      "examples": [
+        { "level": "A1", "fr": "Dépêche-toi, nous sommes en retard !", "pt": "Apresse-se, estamos atrasados!" },
+        { "level": "A2-B1", "fr": "Ils doivent se dépêcher avant que la mer ne revienne.", "pt": "Eles precisam se apressar antes que o mar volte." },
+        { "level": "B2", "fr": "Se dépêcher ne sert à rien si l'on se trompe de chemin.", "pt": "Apressar-se não adianta nada se você erra o caminho." },
+        { "level": "C1-C2", "fr": "Se dépêcher, c'est parfois courir après un temps qui nous échappe.", "pt": "Apressar-se é às vezes correr atrás de um tempo que nos escapa." }
+      ]
+    },
+    {
+      "term": "s'habituer",
+      "definitionPt": "acostumar-se",
+      "definitionFr": "S'accoutumer à quelque chose, finir par le trouver normal.",
+      "inflections": ["s'habituer", "s'habitue", "habitué"],
+      "ptTargets": ["acostumar-se", "habituar-se"],
+      "examples": [
+        { "level": "A1", "fr": "Je m'habitue à la ville.", "pt": "Eu me acostumo com a cidade." },
+        { "level": "A2-B1", "fr": "Les habitants se sont habitués au rythme des marées.", "pt": "Os moradores se acostumaram ao ritmo das marés." },
+        { "level": "B2", "fr": "On finit par s'habituer à tout, même au bruit.", "pt": "Acaba-se se acostumando com tudo, até com o barulho." },
+        { "level": "C1-C2", "fr": "S'habituer, c'est accepter que le paysage devienne une seconde peau.", "pt": "Acostumar-se é aceitar que a paisagem vire uma segunda pele." }
+      ]
+    },
+    {
+      "term": "d'habitude",
+      "definitionPt": "de costume; habitualmente",
+      "definitionFr": "De manière habituelle, ordinairement.",
+      "inflections": ["d'habitude", "habituellement"],
+      "ptTargets": ["de costume", "habitualmente", "geralmente"],
+      "examples": [
+        { "level": "A1", "fr": "D'habitude, je me lève tôt.", "pt": "De costume, eu me levanto cedo." },
+        { "level": "A2-B1", "fr": "D'habitude, ils consultent la météo avant de sortir.", "pt": "De costume, eles consultam a previsão antes de sair." },
+        { "level": "B2", "fr": "D'habitude, la baie est calme à cette heure.", "pt": "De costume, a baía fica calma a essa hora." },
+        { "level": "C1-C2", "fr": "D'habitude, les paysages les plus ordinaires cachent les plus grandes leçons.", "pt": "De costume, as paisagens mais comuns escondem as maiores lições." }
+      ]
+    },
+    {
+      "term": "reconnaître",
+      "definitionPt": "reconhecer",
+      "definitionFr": "Identifier quelque chose ou quelqu'un ; admettre une vérité.",
+      "inflections": ["reconnaître", "reconnaît", "reconnu"],
+      "ptTargets": ["reconhecer", "admitir"],
+      "examples": [
+        { "level": "A1", "fr": "Je reconnais ce monument.", "pt": "Eu reconheço esse monumento." },
+        { "level": "A2-B1", "fr": "Les guides savent reconnaître les sables dangereux.", "pt": "Os guias sabem reconhecer as areias perigosas." },
+        { "level": "B2", "fr": "Il faut reconnaître ses erreurs pour avancer.", "pt": "É preciso reconhecer os próprios erros para avançar." },
+        { "level": "C1-C2", "fr": "Reconnaître, c'est donner un nom à ce que l'on voit vraiment.", "pt": "Reconhecer é dar um nome ao que se vê de verdade." }
+      ]
+    },
+    {
+      "term": "reposant",
+      "definitionPt": "repousante; descansante",
+      "definitionFr": "Qui procure du repos, de la détente.",
+      "inflections": ["reposant", "reposante", "reposants"],
+      "ptTargets": ["repousante", "descansante", "tranquilo"],
+      "examples": [
+        { "level": "A1", "fr": "Le parc est reposant.", "pt": "O parque é tranquilo." },
+        { "level": "A2-B1", "fr": "Le coucher du soleil offre un spectacle reposant.", "pt": "O pôr do sol oferece um espetáculo repousante." },
+        { "level": "B2", "fr": "Rien de plus reposant qu'une marche au bord de la mer.", "pt": "Nada mais repousante que uma caminhada à beira-mar." },
+        { "level": "C1-C2", "fr": "Le repos n'est pas l'absence de mouvement, mais la paix du regard.", "pt": "O descanso não é a ausência de movimento, mas a paz do olhar." }
+      ]
+    },
+    {
+      "term": "remarquer",
+      "definitionPt": "notar; reparar",
+      "definitionFr": "Percevoir, s'apercevoir de quelque chose.",
+      "inflections": ["remarquer", "remarque", "remarqué"],
+      "ptTargets": ["notar", "reparar", "perceber"],
+      "examples": [
+        { "level": "A1", "fr": "J'ai remarqué ta nouvelle voiture.", "pt": "Eu notei seu carro novo." },
+        { "level": "A2-B1", "fr": "Les guides remarquent les moindres changements.", "pt": "Os guias notam as menores mudanças." },
+        { "level": "B2", "fr": "On remarque souvent plus ce qui manque que ce qui est là.", "pt": "Nota-se com frequência mais o que falta do que o que está lá." },
+        { "level": "C1-C2", "fr": "Remarquer, c'est apprendre à lire le monde dans ses détails.", "pt": "Notar é aprender a ler o mundo nos detalhes." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Os advérbios de frequência e hábito",
+    "explanationPt": "Para falar de hábitos e frequência: en général, d'habitude, normalement, généralement, habituellement. Eles costumam vir no início ou antes do verbo: En général, les gens consultent l'horaire. Normalement, il suffit de suivre le chemin.",
+    "exampleFr": "D'habitude, les guides consultent la météo avant de traverser la baie.",
+    "examplePt": "De costume, os guias consultam a previsão antes de atravessar a baía.",
+    "practiceQuestion": "Complete: « ___ , la mer monte deux fois par jour. »",
+    "options": ["En général", "Jamais", "Rarement", "Soudain"],
+    "correctIndex": 0,
+    "explanationPt": "'En général' introduz um hábito ou uma regra geral."
+  },
+  "quizQuestions": [
+    {
+      "question": "Quelle peut être l'amplitude des marées dans la baie ?",
+      "options": ["Plus de quatorze mètres", "Deux mètres", "Cinquante centimètres", "Vingt mètres"],
+      "correctIndex": 0,
+      "explanation": "L'amplitude des marées peut dépasser quatorze mètres."
+    },
+    {
+      "question": "Pourquoi faut-il un guide pour traverser la baie ?",
+      "options": ["À cause des sables mouvants et de la vitesse de la mer", "Parce que le chemin est trop long", "Parce que les billets sont obligatoires", "À cause des animaux sauvages"],
+      "correctIndex": 0,
+      "explanation": "La baie est dangereuse : sables mouvants et marée rapide."
+    },
+    {
+      "question": "Quand la mer se retire, que devient la baie ?",
+      "options": ["Un immense désert de sable", "Un lac profond", "Une forêt", "Une route goudronnée"],
+      "correctIndex": 0,
+      "explanation": "À marée basse, la baie se transforme en un immense espace de sable."
+    }
+  ]
+}

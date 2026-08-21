@@ -1,0 +1,153 @@
+{
+  "id": "mont_saint_michel_guide_07",
+  "cityId": "mont-saint-michel",
+  "domain": "Viagem",
+  "level": "Misto (A1–C2)",
+  "titleFr": "Se loger et se déplacer : le voyage pratique",
+  "titlePt": "Hospedar-se e se deslocar: a viagem prática",
+  "subtitleFr": "Hôtels, navettes et organisation du séjour",
+  "subtitlePt": "Hotéis, vans e organização da estadia",
+  "summaryPt": "Enciclopédia de Mont-Saint-Michel, seção 7: como organizar a viagem — hospedagem, transporte, dicas práticas e o que levar. Vocabulário de viagem, moradia e serviços, com níveis mistos.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Pour visiter le Mont-Saint-Michel, il vaut mieux préparer son séjour à l'avance. En été, les hôtels du village affichent complet des mois à l'avance. Beaucoup de visiteurs choisissent de loger dans les communes voisines, où les chambres sont moins chères et le parking souvent gratuit.",
+      "pt": "Para visitar Mont-Saint-Michel, é melhor preparar a estadia com antecedência. No verão, os hotéis da vila lotam meses antes. Muitos visitantes escolhem se hospedar nas comunas vizinhas, onde os quartos são mais baratos e o estacionamento muitas vezes é gratuito."
+    },
+    {
+      "id": 2,
+      "fr": "Depuis 2015, les voitures ne peuvent plus monter jusqu'au village : il faut laisser son véhicule dans les parkings situés à trois kilomètres, puis prendre la navette gratuite. Les visiteurs qui préfèrent marcher peuvent suivre le pont-passerelle, une promenade agréable d'une demi-heure face au mont.",
+      "pt": "Desde 2015, os carros não podem mais subir até a vila: é preciso deixar o veículo nos estacionamentos situados a três quilômetros e depois pegar a van gratuita. Os visitantes que preferem caminhar podem seguir a ponte-passaarela, um passeio agradável de meia hora de frente para o monte."
+    },
+    {
+      "id": 3,
+      "fr": "Si vous louez une maison dans la région, vérifiez l'état des lieux avant de signer le bail. Certaines vieilles bâtisses ont besoin de travaux de rénovation : fenêtres à remplacer, escaliers à réparer, chauffage à équiper. Une agence immobilière locale peut vous aider à trouver le logement idéal, en ville ou à la périphérie.",
+      "pt": "Se você alugar uma casa na região, verifique o estado do imóvel antes de assinar o contrato de aluguel. Algumas construções antigas precisam de obras de reforma: janelas a trocar, escadas a consertar, aquecimento a instalar. Uma imobiliária local pode ajudá-lo a encontrar a moradia ideal, na cidade ou na periferia."
+    },
+    {
+      "id": 4,
+      "fr": "En cas de panne d'électricité dans une maison ancienne, il faut appeler un électricien. La région est exposée aux tempêtes, et les coupures de courant peuvent durer quelques heures. Les propriétaires sérieux installent un double vitrage et entretiennent leur toiture pour éviter les mauvaises surprises.",
+      "pt": "Em caso de falta de energia numa casa antiga, é preciso chamar um eletricista. A região é exposta a tempestades, e os cortes de luz podem durar algumas horas. Os proprietários sérios instalam janela dupla e mantêm o telhado para evitar surpresas desagradáveis."
+    },
+    {
+      "id": 5,
+      "fr": "Pour un séjour court, l'idéal est de réserver une chambre d'hôtes : on y dort dans une ambiance familiale et l'on partage le petit-déjeuner avec les hôtes. Certains établissements proposent une vue directe sur la baie, un luxe rare. Les voyageurs avisés comparent les prix sur internet avant de choisir.",
+      "pt": "Para uma estadia curta, o ideal é reservar uma pousada: dorme-se num ambiente familiar e compartilha-se o café da manhã com os anfitriões. Alguns estabelecimentos oferecem vista direta para a baía, um luxo raro. Os viajantes espertos comparam os preços na internet antes de escolher."
+    },
+    {
+      "id": 6,
+      "fr": "Enfin, n'oubliez pas l'essentiel : de bonnes chaussures de marche, une veste imperméable et un chapeau. La météo change vite dans la baie. Avec un peu d'organisation, votre séjour sera certainement inoubliable — et vous comprendrez pourquoi des millions de voyageurs font ce voyage chaque année.",
+      "pt": "Por fim, não se esqueça do essencial: bons tênis de caminhada, uma jaqueta impermeável e um chapéu. O tempo muda rápido na baía. Com um pouco de organização, sua estadia certamente será inesquecível — e você entenderá por que milhões de viajantes fazem essa viagem todos os anos."
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "loger",
+      "definitionPt": "hospedar-se; morar",
+      "definitionFr": "Habiter provisoirement ou durablement quelque part.",
+      "inflections": ["loger", "loge", "logé"],
+      "ptTargets": ["hospedar-se", "morar", "alojar"],
+      "examples": [
+        { "level": "A1", "fr": "Nous logeons à l'hôtel.", "pt": "Nós nos hospedamos no hotel." },
+        { "level": "A2-B1", "fr": "Beaucoup de visiteurs logent dans les communes voisines.", "pt": "Muitos visitantes se hospedam nas comunas vizinhas." },
+        { "level": "B2", "fr": "Loger près du mont, c'est profiter du lever du soleil.", "pt": "Hospedar-se perto do monte é aproveitar o nascer do sol." },
+        { "level": "C1-C2", "fr": "On ne loge pas seulement un corps, on loge aussi une mémoire.", "pt": "Não se abriga apenas um corpo, abriga-se também uma memória." }
+      ]
+    },
+    {
+      "term": "le bail",
+      "definitionPt": "o contrato de aluguel",
+      "definitionFr": "Contrat de location d'un logement.",
+      "inflections": ["le bail", "les baux", "signer un bail"],
+      "ptTargets": ["contrato de aluguel", "aluguel", "locação"],
+      "examples": [
+        { "level": "A1", "fr": "Il signe le bail.", "pt": "Ele assina o contrato de aluguel." },
+        { "level": "A2-B1", "fr": "Vérifiez l'état des lieux avant de signer le bail.", "pt": "Verifique o estado do imóvel antes de assinar o contrato." },
+        { "level": "B2", "fr": "Un bail clair évite bien des conflits.", "pt": "Um contrato claro evita muitos conflitos." },
+        { "level": "C1-C2", "fr": "Le bail est un pont fragile entre deux libertés.", "pt": "O contrato de aluguel é uma ponte frágil entre duas liberdades." }
+      ]
+    },
+    {
+      "term": "les travaux de rénovation",
+      "definitionPt": "as obras de reforma",
+      "definitionFr": "Ensemble des travaux pour remettre un bâtiment en état.",
+      "inflections": ["les travaux de rénovation", "des travaux de rénovation", "rénover"],
+      "ptTargets": ["obras de reforma", "reforma", "renovação"],
+      "examples": [
+        { "level": "A1", "fr": "Il y a des travaux de rénovation.", "pt": "Há obras de reforma." },
+        { "level": "A2-B1", "fr": "Les vieilles bâtisses ont besoin de travaux de rénovation.", "pt": "As construções antigas precisam de obras de reforma." },
+        { "level": "B2", "fr": "Les travaux de rénovation transforment une maison en foyer.", "pt": "As obras de reforma transformam uma casa em lar." },
+        { "level": "C1-C2", "fr": "Rénover, c'est respecter le passé en préparant l'avenir.", "pt": "Reformar é respeitar o passado preparando o futuro." }
+      ]
+    },
+    {
+      "term": "la panne d'électricité",
+      "definitionPt": "a falta de energia",
+      "definitionFr": "Interruption de la fourniture d'électricité.",
+      "inflections": ["la panne d'électricité", "les pannes d'électricité", "une coupure de courant"],
+      "ptTargets": ["falta de energia", "corte de luz", "apagão"],
+      "examples": [
+        { "level": "A1", "fr": "Il y a une panne d'électricité.", "pt": "Há falta de energia." },
+        { "level": "A2-B1", "fr": "Les tempêtes peuvent provoquer des pannes d'électricité.", "pt": "As tempestades podem causar faltas de energia." },
+        { "level": "B2", "fr": "Une panne d'électricité nous rappelle notre dépendance au courant.", "pt": "Uma falta de energia nos lembra nossa dependência da eletricidade." },
+        { "level": "C1-C2", "fr": "Dans le noir, on redécouvre ce que la lumière cache.", "pt": "No escuro, redescobrimos o que a luz esconde." }
+      ]
+    },
+    {
+      "term": "la chambre d'hôtes",
+      "definitionPt": "a pousada (quarto de hóspedes)",
+      "definitionFr": "Logement chez l'habitant proposant des chambres et le petit-déjeuner.",
+      "inflections": ["la chambre d'hôtes", "les chambres d'hôtes"],
+      "ptTargets": ["pousada", "quarto de hóspedes", "cama e café"],
+      "examples": [
+        { "level": "A1", "fr": "La chambre d'hôtes est confortable.", "pt": "A pousada é confortável." },
+        { "level": "A2-B1", "fr": "L'idéal est de réserver une chambre d'hôtes.", "pt": "O ideal é reservar uma pousada." },
+        { "level": "B2", "fr": "Une chambre d'hôtes offre ce que l'hôtel ne peut pas : une rencontre.", "pt": "Uma pousada oferece o que o hotel não pode: um encontro." },
+        { "level": "C1-C2", "fr": "La chambre d'hôtes est une porte ouverte sur un autre quotidien.", "pt": "A pousada é uma porta aberta para outro cotidiano." }
+      ]
+    },
+    {
+      "term": "certainement",
+      "definitionPt": "certamente",
+      "definitionFr": "Sans aucun doute, avec certitude.",
+      "inflections": ["certainement", "très certainement"],
+      "ptTargets": ["certamente", "com certeza"],
+      "examples": [
+        { "level": "A1", "fr": "Il viendra certainement.", "pt": "Ele certamente virá." },
+        { "level": "A2-B1", "fr": "Votre séjour sera certainement inoubliable.", "pt": "Sua estadia certamente será inesquecível." },
+        { "level": "B2", "fr": "Certainement, ce voyage changera votre regard.", "pt": "Certamente, essa viagem mudará seu olhar." },
+        { "level": "C1-C2", "fr": "Certainement, les plus beaux voyages sont ceux que l'on ne prévoit pas.", "pt": "Certamente, as viagens mais belas são as que não planejamos." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "O condicional para conselhos e hipóteses",
+    "explanationPt": "Para dar conselhos educados e hipóteses: il vaudrait mieux (seria melhor), vous pourriez (você poderia), on pourrait. O condicional suaviza a recomendação.",
+    "exampleFr": "Il vaudrait mieux réserver à l'avance, et vous pourriez loger en périphérie.",
+    "examplePt": "Seria melhor reservar com antecedência, e você poderia se hospedar na periferia.",
+    "practiceQuestion": "Complete: « Il ___ mieux préparer son séjour à l'avance. »",
+    "options": ["vaudrait", "vaut", "vaudra", "valait"],
+    "correctIndex": 0,
+    "explanationPt": "Conselho no condicional: 'il vaudrait mieux'."
+  },
+  "quizQuestions": [
+    {
+      "question": "Depuis 2015, où les visiteurs laissent-ils leur voiture ?",
+      "options": ["Dans les parkings à trois kilomètres", "Devant l'abbaye", "Sur la plage", "Dans le village"],
+      "correctIndex": 0,
+      "explanation": "Les voitures restent dans les parkings situés à trois kilomètres."
+    },
+    {
+      "question": "Quel moyen de transport relie les parkings au mont ?",
+      "options": ["Une navette gratuite", "Un train", "Un téléphérique", "Un bateau à vapeur"],
+      "correctIndex": 0,
+      "explanation": "Une navette gratuite relie les parkings au village."
+    },
+    {
+      "question": "Que faut-il vérifier avant de signer un bail ?",
+      "options": ["L'état des lieux", "La couleur des murs", "La vue depuis la fenêtre", "Le nom du propriétaire"],
+      "correctIndex": 0,
+      "explanation": "Il faut vérifier l'état des lieux avant de signer le bail."
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "id": "mont_saint_michel_guide_04",
+  "cityId": "mont-saint-michel",
+  "domain": "Turismo",
+  "level": "Misto (A1–C2)",
+  "titleFr": "Pèlerins et visiteurs : le chemin vers la Merveille",
+  "titlePt": "Peregrinos e visitantes: o caminho até a Maravilha",
+  "subtitleFr": "De la marche de foi à la visite touristique",
+  "subtitlePt": "Da caminhada de fé à visita turística",
+  "summaryPt": "Enciclopédia de Mont-Saint-Michel, seção 4: a tradição da peregrinação e o turismo de hoje — os guias, as caminhadas na baía e a organização das visitas. Vocabulário de viagem, fé e experiência, com níveis mistos.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Depuis plus de mille ans, les pèlerins marchent jusqu'au Mont-Saint-Michel. Certains parcourent des centaines de kilomètres à pied, en groupe ou seuls. Ils portent parfois un bâton et un sac léger, et s'arrêtent dans les villages pour dormir. Cette tradition attire encore aujourd'hui des milliers de marcheurs.",
+      "pt": "Há mais de mil anos, os peregrinos caminham até Mont-Saint-Michel. Alguns percorrem centenas de quilômetros a pé, em grupo ou sozinhos. Carregam às vezes um bastão e uma mochila leve, e param nas vilas para dormir. Essa tradição ainda atrai hoje milhares de caminhantes."
+    },
+    {
+      "id": 2,
+      "fr": "Traverser la baie avec un guide est une expérience unique. Le guide explique les dangers, les courants et l'histoire des lieux. Il faut tenter l'expérience au moins une fois : sentir le sable sous ses bottes, entendre le silence immense et voir le mont grandir à chaque pas.",
+      "pt": "Atravessar a baía com um guia é uma experiência única. O guia explica os perigos, as correntes e a história do lugar. É preciso tentar a experiência pelo menos uma vez: sentir a areia sob as botas, ouvir o silêncio imenso e ver o monte crescer a cada passo."
+    },
+    {
+      "id": 3,
+      "fr": "La marche fatigue, mais elle apaise. Beaucoup de visiteurs arrivent stressés par la vie quotidienne et repartent transformés. Ils racontent que le silence de la baie les a aidés à se remettre de périodes difficiles. La nature, ici, joue le rôle d'un grand médecin silencieux.",
+      "pt": "A caminhada cansa, mas acalma. Muitos visitantes chegam estressados pela vida cotidiana e partem transformados. Contam que o silêncio da baía os ajudou a se recuperar de períodos difíceis. A natureza, aqui, faz o papel de um grande médico silencioso."
+    },
+    {
+      "id": 4,
+      "fr": "Pendant les vacances scolaires, le site est très fréquenté : des milliers de personnes montent chaque jour la grande rue du village. Les guides recommandent de venir tôt le matin ou en fin de journée pour profiter du calme. Les familles avec enfants préfèrent généralement la basse saison.",
+      "pt": "Durante as férias escolares, o local é muito frequentado: milhares de pessoas sobem todos os dias a rua principal da vila. Os guias recomendam vir cedo de manhã ou no fim do dia para aproveitar a calma. As famílias com crianças geralmente preferem a baixa temporada."
+    },
+    {
+      "id": 5,
+      "fr": "Pour ceux qui souhaitent rester, le village offre des hôtels, des restaurants et des maisons d'hôtes. Il faut réserver longtemps à l'avance, surtout en été. Les visiteurs peuvent aussi dormir dans les villes voisines et rejoindre le mont en navette gratuite, ce qui est souvent plus pratique.",
+      "pt": "Para quem deseja ficar, a vila oferece hotéis, restaurantes e pousadas. É preciso reservar com bastante antecedência, principalmente no verão. Os visitantes também podem dormir nas cidades vizinhas e chegar ao monte de ônibus gratuito, o que costuma ser mais prático."
+    },
+    {
+      "id": 6,
+      "fr": "Le tourisme fait vivre la région, mais il faut le gérer avec sagesse. Les autorités limitent le nombre de visiteurs dans certains espaces et encouragent les transports doux. Protéger ce patrimoine fragile, c'est permettre aux générations futures de vivre la même émotion.",
+      "pt": "O turismo sustenta a região, mas é preciso geri-lo com sabedoria. As autoridades limitam o número de visitantes em alguns espaços e incentivam os transportes leves. Proteger esse patrimônio frágil é permitir que as gerações futuras vivam a mesma emoção."
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "parcourir",
+      "definitionPt": "percorrer",
+      "definitionFr": "Traverser un espace, faire un trajet.",
+      "inflections": ["parcourir", "parcourt", "parcouru"],
+      "ptTargets": ["percorrer", "atravessar"],
+      "examples": [
+        { "level": "A1", "fr": "Nous parcourons la rue.", "pt": "Nós percorremos a rua." },
+        { "level": "A2-B1", "fr": "Certains pèlerins parcourent des centaines de kilomètres.", "pt": "Alguns peregrinos percorrem centenas de quilômetros." },
+        { "level": "B2", "fr": "Parcourir le monde, c'est apprendre à se connaître.", "pt": "Percorrer o mundo é aprender a se conhecer." },
+        { "level": "C1-C2", "fr": "Parcourir un chemin, c'est déjà le transformer.", "pt": "Percorrer um caminho já é transformá-lo." }
+      ]
+    },
+    {
+      "term": "tenter",
+      "definitionPt": "tentar",
+      "definitionFr": "Essayer, faire une tentative.",
+      "inflections": ["tenter", "tente", "tenté"],
+      "ptTargets": ["tentar", "arriscar"],
+      "examples": [
+        { "level": "A1", "fr": "Je tente de comprendre.", "pt": "Eu tento entender." },
+        { "level": "A2-B1", "fr": "Il faut tenter l'expérience au moins une fois.", "pt": "É preciso tentar a experiência pelo menos uma vez." },
+        { "level": "B2", "fr": "Tenter sa chance, c'est déjà avancer.", "pt": "Tentar a sorte já é avançar." },
+        { "level": "C1-C2", "fr": "On ne regrette que ce que l'on n'a pas tenté.", "pt": "Só se arrepende do que não se tentou." }
+      ]
+    },
+    {
+      "term": "se remettre",
+      "definitionPt": "recuperar-se",
+      "definitionFr": "Retrouver sa force, sa santé ou son calme après une épreuve.",
+      "inflections": ["se remettre", "se remet", "remis"],
+      "ptTargets": ["recuperar-se", "restabelecer-se"],
+      "examples": [
+        { "level": "A1", "fr": "Il se remet de sa maladie.", "pt": "Ele se recupera da doença." },
+        { "level": "A2-B1", "fr": "Le silence de la baie aide à se remettre des épreuves.", "pt": "O silêncio da baía ajuda a se recuperar das provações." },
+        { "level": "B2", "fr": "Se remettre d'une déception demande du temps.", "pt": "Recuperar-se de uma decepção exige tempo." },
+        { "level": "C1-C2", "fr": "Se remettre, c'est accepter de recommencer.", "pt": "Recuperar-se é aceitar recomeçar." }
+      ]
+    },
+    {
+      "term": "réserver",
+      "definitionPt": "reservar",
+      "definitionFr": "Retenir une place, une chambre ou un service à l'avance.",
+      "inflections": ["réserver", "réserve", "réservé"],
+      "ptTargets": ["reservar", "agendar"],
+      "examples": [
+        { "level": "A1", "fr": "Je réserve une chambre.", "pt": "Eu reservo um quarto." },
+        { "level": "A2-B1", "fr": "Il faut réserver longtemps à l'avance en été.", "pt": "É preciso reservar com muita antecedência no verão." },
+        { "level": "B2", "fr": "Réserver à l'avance évite bien des soucis.", "pt": "Reservar com antecedência evita muitos problemas." },
+        { "level": "C1-C2", "fr": "Réserver, c'est déjà s'engager dans un voyage.", "pt": "Reservar já é se comprometer com uma viagem." }
+      ]
+    },
+    {
+      "term": "la basse saison",
+      "definitionPt": "a baixa temporada",
+      "definitionFr": "Période de l'année où il y a moins de touristes.",
+      "inflections": ["la basse saison", "en basse saison"],
+      "ptTargets": ["baixa temporada", "baixa estação"],
+      "examples": [
+        { "level": "A1", "fr": "En basse saison, il y a moins de monde.", "pt": "Na baixa temporada, há menos gente." },
+        { "level": "A2-B1", "fr": "Les familles préfèrent généralement la basse saison.", "pt": "As famílias geralmente preferem a baixa temporada." },
+        { "level": "B2", "fr": "Voyager en basse saison, c'est découvrir les lieux autrement.", "pt": "Viajar na baixa temporada é descobrir os lugares de outro jeito." },
+        { "level": "C1-C2", "fr": "La basse saison révèle l'âme des lieux que la foule masque.", "pt": "A baixa temporada revela a alma dos lugares que a multidão esconde." }
+      ]
+    },
+    {
+      "term": "préserver",
+      "definitionPt": "preservar",
+      "definitionFr": "Protéger quelque chose pour le garder en bon état.",
+      "inflections": ["préserver", "préserve", "préservé"],
+      "ptTargets": ["preservar", "proteger"],
+      "examples": [
+        { "level": "A1", "fr": "Nous préservons la nature.", "pt": "Nós preservamos a natureza." },
+        { "level": "A2-B1", "fr": "Il faut préserver ce patrimoine fragile.", "pt": "É preciso preservar esse patrimônio frágil." },
+        { "level": "B2", "fr": "Préserver l'environnement, c'est protéger l'avenir.", "pt": "Preservar o meio ambiente é proteger o futuro." },
+        { "level": "C1-C2", "fr": "On ne préserve que ce que l'on a appris à aimer.", "pt": "Só se preserva o que se aprendeu a amar." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "O imperativo com 'il faut' e os conselhos",
+    "explanationPt": "Para dar conselhos: 'il faut' + infinitivo (il faut réserver, il faut tenter). 'On' + presente também funciona: on vient tôt le matin. Em guias de viagem, esse tom é o mais comum.",
+    "exampleFr": "Il faut venir tôt le matin et réserver à l'avance.",
+    "examplePt": "É preciso vir cedo de manhã e reservar com antecedência.",
+    "practiceQuestion": "Complete: « Pour profiter du calme, il ___ venir tôt. »",
+    "options": ["faut", "fais", "faut que", "fallait"],
+    "correctIndex": 0,
+    "explanationPt": "'Il faut' + infinitivo para conselho."
+  },
+  "quizQuestions": [
+    {
+      "question": "Depuis combien de temps les pèlerins marchent-ils jusqu'au Mont ?",
+      "options": ["Plus de mille ans", "Cinquante ans", "Deux cents ans", "Dix ans"],
+      "correctIndex": 0,
+      "explanation": "La tradition du pèlerinage dure depuis plus de mille ans."
+    },
+    {
+      "question": "Quand recommande-t-on de visiter pour profiter du calme ?",
+      "options": ["Tôt le matin ou en fin de journée", "À midi en été", "Pendant les vacances scolaires", "Le week-end de Pâques"],
+      "correctIndex": 0,
+      "explanation": "Les guides recommandent tôt le matin ou en fin de journée."
+    },
+    {
+      "question": "Comment rejoindre le mont depuis les villes voisines ?",
+      "options": ["En navette gratuite", "En avion", "En bateau à voile", "À cheval"],
+      "correctIndex": 0,
+      "explanation": "Une navette gratuite relie les parkings et les villes voisines au mont."
+    }
+  ]
+}

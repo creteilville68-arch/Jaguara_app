@@ -1,0 +1,153 @@
+{
+  "id": "mont_saint_michel_guide_05",
+  "cityId": "mont-saint-michel",
+  "domain": "Natureza",
+  "level": "Misto (A1–C2)",
+  "titleFr": "La nature de la baie : un trésor fragile",
+  "titlePt": "A natureza da baía: um tesouro frágil",
+  "subtitleFr": "Oiseaux, prés-salés et développement durable",
+  "subtitlePt": "Pássaros, prados salgados e desenvolvimento sustentável",
+  "summaryPt": "Enciclopédia de Mont-Saint-Michel, seção 5: a biodiversidade da baía — as aves, os carneiros dos prados salgados e a proteção do meio ambiente. Vocabulário de ecologia e natureza, com níveis mistos.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "La baie du Mont-Saint-Michel est une réserve naturelle immense, où vivent des milliers d'oiseaux. Des bernaches, des huîtriers et des aigrettes s'y reposent pendant leurs migrations. Les ornithologues viennent de loin pour les observer avec leurs jumelles, souvent tôt le matin, quand les oiseaux sont les plus actifs.",
+      "pt": "A baía de Mont-Saint-Michel é uma reserva natural imensa, onde vivem milhares de pássaros. Gansos-bravos, ostraceiros e garças descansam ali durante suas migrações. Os ornitólogos vêm de longe para observá-los com binóculos, geralmente cedo de manhã, quando as aves estão mais ativas."
+    },
+    {
+      "id": 2,
+      "fr": "Autour du mont s'étendent les prés-salés, des prairies que la mer recouvre parfois. Ces terres grasses nourrissent des moutons dont la viande est réputée dans toute la France. Les éleveurs respectent un rythme ancien : ils laissent les troupeaux paître librement, comme autrefois.",
+      "pt": "Ao redor do monte se estendem os prados salgados, pastagens que o mar cobre às vezes. Essas terras férteis alimentam ovelhas cuja carne é famosa em toda a França. Os criadores respeitam um ritmo antigo: deixam os rebanhos pastar livremente, como antigamente."
+    },
+    {
+      "id": 3,
+      "fr": "La baie est fragile. Le changement climatique fait monter le niveau de la mer, et les tempêtes deviennent plus violentes. Les scientifiques surveillent le rivage de près : ils constatent que certaines zones s'érodent plus vite qu'avant. Protéger cette nature, c'est un travail de chaque jour.",
+      "pt": "A baía é frágil. A mudança climática faz subir o nível do mar, e as tempestades ficam mais violentas. Os cientistas monitoram a costa de perto: constatam que algumas áreas erodem mais rápido do que antes. Proteger essa natureza é um trabalho de todos os dias."
+    },
+    {
+      "id": 4,
+      "fr": "Les habitants s'engagent pour l'environnement : tri des déchets, énergies renouvelables, transports doux. Certaines communes installent des panneaux solaires sur les toits des bâtiments publics. Les visiteurs sont invités à respecter les sentiers et à ne rien laisser derrière eux.",
+      "pt": "Os moradores se engajam pelo meio ambiente: separação do lixo, energias renováveis, transportes leves. Algumas comunas instalam painéis solares nos telhados dos prédios públicos. Os visitantes são convidados a respeitar as trilhas e a não deixar nada para trás."
+    },
+    {
+      "id": 5,
+      "fr": "L'eau potable est précieuse dans cette région : les nappes souterraines se remplissent lentement. Les autorités encouragent les produits bio et les circuits courts dans les marchés. Consommer local, c'est soutenir les agriculteurs et réduire les transports inutiles.",
+      "pt": "A água potável é preciosa nessa região: os lençóis subterrâneos se enchem lentamente. As autoridades incentivam os produtos orgânicos e os circuitos curtos nos mercados. Consumir local é apoiar os agricultores e reduzir os transportes desnecessários."
+    },
+    {
+      "id": 6,
+      "fr": "Le développement durable n'est pas une mode ici : c'est une nécessité. Chaque année, des bénévoles nettoient les plages et replantent des herbes sur les dunes. Ils savent que la baie est un bien commun, confié à toutes les générations. La nature, en retour, récompense ceux qui la respectent.",
+      "pt": "O desenvolvimento sustentável não é moda aqui: é uma necessidade. Todos os anos, voluntários limpam as praias e replantam gramíneas nas dunas. Sabem que a baía é um bem comum, confiado a todas as gerações. A natureza, em troca, recompensa quem a respeita."
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "observer",
+      "definitionPt": "observar",
+      "definitionFr": "Regarder attentivement pour comprendre.",
+      "inflections": ["observer", "observe", "observé"],
+      "ptTargets": ["observar", "examinar"],
+      "examples": [
+        { "level": "A1", "fr": "J'observe les oiseaux.", "pt": "Eu observo os pássaros." },
+        { "level": "A2-B1", "fr": "Les ornithologues observent les migrations.", "pt": "Os ornitólogos observam as migrações." },
+        { "level": "B2", "fr": "Observer avant d'agir, c'est la sagesse des scientifiques.", "pt": "Observar antes de agir é a sabedoria dos cientistas." },
+        { "level": "C1-C2", "fr": "Observer, c'est écouter le monde avec les yeux.", "pt": "Observar é escutar o mundo com os olhos." }
+      ]
+    },
+    {
+      "term": "constater",
+      "definitionPt": "constatar; verificar",
+      "definitionFr": "Se rendre compte de quelque chose par l'observation.",
+      "inflections": ["constater", "constate", "constaté"],
+      "ptTargets": ["constatar", "verificar", "notar"],
+      "examples": [
+        { "level": "A1", "fr": "Je constate un changement.", "pt": "Eu constato uma mudança." },
+        { "level": "A2-B1", "fr": "Les scientifiques constatent l'érosion du rivage.", "pt": "Os cientistas constatam a erosão da costa." },
+        { "level": "B2", "fr": "On constate souvent les problèmes trop tard.", "pt": "Constatamos com frequência os problemas tarde demais." },
+        { "level": "C1-C2", "fr": "Constater, c'est le premier pas vers la compréhension.", "pt": "Constatar é o primeiro passo para a compreensão." }
+      ]
+    },
+    {
+      "term": "s'engager",
+      "definitionPt": "engajar-se; comprometer-se",
+      "definitionFr": "Prendre un engagement, s'investir dans une cause.",
+      "inflections": ["s'engager", "s'engage", "engagé"],
+      "ptTargets": ["engajar-se", "comprometer-se"],
+      "examples": [
+        { "level": "A1", "fr": "Elle s'engage dans la course.", "pt": "Ela se inscreve na corrida." },
+        { "level": "A2-B1", "fr": "Les habitants s'engagent pour l'environnement.", "pt": "Os moradores se engajam pelo meio ambiente." },
+        { "level": "B2", "fr": "S'engager, c'est donner du sens à son temps.", "pt": "Engajar-se é dar sentido ao próprio tempo." },
+        { "level": "C1-C2", "fr": "S'engager, c'est refuser de rester spectateur.", "pt": "Engajar-se é recusar continuar espectador." }
+      ]
+    },
+    {
+      "term": "le tri des déchets",
+      "definitionPt": "a separação do lixo",
+      "definitionFr": "Action de séparer les déchets pour les recycler.",
+      "inflections": ["le tri des déchets", "trier les déchets", "trie les déchets"],
+      "ptTargets": ["separação do lixo", "reciclagem", "separar o lixo"],
+      "examples": [
+        { "level": "A1", "fr": "Nous faisons le tri des déchets.", "pt": "Nós separamos o lixo." },
+        { "level": "A2-B1", "fr": "Le tri des déchets est obligatoire dans la commune.", "pt": "A separação do lixo é obrigatória na comuna." },
+        { "level": "B2", "fr": "Le tri des déchets commence à la maison, pas à l'usine.", "pt": "A separação do lixo começa em casa, não na usina." },
+        { "level": "C1-C2", "fr": "Le tri des déchets est un geste minuscule au poids immense.", "pt": "A separação do lixo é um gesto minúsculo de peso imenso." }
+      ]
+    },
+    {
+      "term": "consommer",
+      "definitionPt": "consumir",
+      "definitionFr": "Utiliser des biens ou des services pour satisfaire un besoin.",
+      "inflections": ["consommer", "consomme", "consommé"],
+      "ptTargets": ["consumir"],
+      "examples": [
+        { "level": "A1", "fr": "Nous consommons de l'eau.", "pt": "Nós consumimos água." },
+        { "level": "A2-B1", "fr": "Consommer local soutient les agriculteurs.", "pt": "Consumir local apoia os agricultores." },
+        { "level": "B2", "fr": "Consommer moins mais mieux, c'est le défi de notre époque.", "pt": "Consumir menos, mas melhor, é o desafio da nossa época." },
+        { "level": "C1-C2", "fr": "Consommer, c'est voter avec son portefeuille.", "pt": "Consumir é votar com a carteira." }
+      ]
+    },
+    {
+      "term": "récompenser",
+      "definitionPt": "recompensar",
+      "definitionFr": "Donner une récompense en reconnaissance d'un mérite.",
+      "inflections": ["récompenser", "récompense", "récompensé"],
+      "ptTargets": ["recompensar", "premiar"],
+      "examples": [
+        { "level": "A1", "fr": "Le professeur récompense les élèves.", "pt": "O professor recompensa os alunos." },
+        { "level": "A2-B1", "fr": "La nature récompense ceux qui la respectent.", "pt": "A natureza recompensa quem a respeita." },
+        { "level": "B2", "fr": "Récompenser l'effort, c'est encourager le progrès.", "pt": "Recompensar o esforço é incentivar o progresso." },
+        { "level": "C1-C2", "fr": "La plus belle récompense est souvent invisible.", "pt": "A mais bela recompensa muitas vezes é invisível." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "O particípio presente e o gerúndio",
+    "explanationPt": "O particípio presente (-ant) descreve uma ação simultânea: la mer recouvre parfois les prés (que cobre). O gerúndio 'en' + -ant exprime meio: en respectant les sentiers, on protège la nature.",
+    "exampleFr": "En respectant les sentiers, on protège la baie fragile.",
+    "examplePt": "Respeitando as trilhas, protegemos a baía frágil.",
+    "practiceQuestion": "Complete: « ___ les déchets, on protège l'environnement. »",
+    "options": ["En triant", "Trier", "Triant", "Trié"],
+    "correctIndex": 0,
+    "explanationPt": "Gerúndio: 'en triant' (separando)."
+  },
+  "quizQuestions": [
+    {
+      "question": "Quels animaux vivent dans les prés-salés ?",
+      "options": ["Des moutons", "Des lions", "Des éléphants", "Des pingouins"],
+      "correctIndex": 0,
+      "explanation": "Les prés-salés nourrissent des moutons à la viande réputée."
+    },
+    {
+      "question": "Pourquoi la baie est-elle fragile ?",
+      "options": ["À cause du changement climatique et des tempêtes", "À cause du bruit des voitures", "À cause de la pollution des usines", "À cause des travaux publics"],
+      "correctIndex": 0,
+      "explanation": "La montée des eaux et les tempêtes érodent le rivage."
+    },
+    {
+      "question": "Que font les bénévoles chaque année ?",
+      "options": ["Ils nettoient les plages et replantent des herbes", "Ils construisent des hôtels", "Ils organisent des concerts", "Ils installent des panneaux publicitaires"],
+      "correctIndex": 0,
+      "explanation": "Des bénévoles nettoient les plages et replantent des herbes sur les dunes."
+    }
+  ]
+}

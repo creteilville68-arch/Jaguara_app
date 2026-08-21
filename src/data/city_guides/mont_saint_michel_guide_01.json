@@ -1,0 +1,153 @@
+{
+  "id": "mont_saint_michel_guide_01",
+  "cityId": "mont-saint-michel",
+  "domain": "História",
+  "level": "Misto (A1–C2)",
+  "titleFr": "Le Mont-Saint-Michel : la roche et la légende",
+  "titlePt": "Mont-Saint-Michel: a rocha e a lenda",
+  "subtitleFr": "De la vision de l'archange à la merveille de l'Occident",
+  "subtitlePt": "Da visão do arcanjo à maravilha do Ocidente",
+  "summaryPt": "Enciclopédia de Mont-Saint-Michel, seção 1: a história da rocha, a lenda do arcanjo Miguel e o nascimento da abadia. Vocabulário de história, religião e narrativa, com níveis mistos.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Au VIIIe siècle, une petite île de granit se dressait au milieu d'une immense baie, entre la Normandie et la Bretagne. Les habitants l'appelaient le mont Tombe, un lieu sauvage où personne ne s'installait. La légende raconte que l'archange Michel apparut trois fois à l'évêque Aubert et lui demanda de bâtir une église sur la roche.",
+      "pt": "No século VIII, uma pequena ilha de granito se erguia no meio de uma imensa baía, entre a Normandia e a Bretanha. Os moradores a chamavam de monte Tombe, um lugar selvagem onde ninguém se instalava. A lenda conta que o arcanjo Miguel apareceu três vezes ao bispo Aubert e lhe pediu que construísse uma igreja sobre a rocha."
+    },
+    {
+      "id": 2,
+      "fr": "Aubert obéit, et le mont devint un lieu de prière. Au fil des siècles, les moines s'établirent sur la roche, puis les pèlerins commencèrent à venir de toute l'Europe. La mer, qui montait deux fois par jour, isolait l'île du continent : le mont semblait protégé par la nature elle-même.",
+      "pt": "Aubert obedeceu, e o monte virou um lugar de oração. Ao longo dos séculos, os monges se estabeleceram na rocha, e depois os peregrinos começaram a vir de toda a Europa. O mar, que subia duas vezes por dia, isolava a ilha do continente: o monte parecia protegido pela própria natureza."
+    },
+    {
+      "id": 3,
+      "fr": "Les pèlerins marchaient des jours entiers pour atteindre le mont. Ils traversaient la baie à pied, souvent sans guide, et certains s'égaraient dans les sables mouvants. Malgré le danger, ils continuaient : ils voulaient voir l'église construite sur la roche, au milieu des flots.",
+      "pt": "Os peregrinos caminhavam dias inteiros para alcançar o monte. Atravessavam a baía a pé, muitas vezes sem guia, e alguns se perdiam nas areias movediças. Apesar do perigo, continuavam: queriam ver a igreja construída sobre a rocha, no meio das águas."
+    },
+    {
+      "id": 4,
+      "fr": "Pendant la guerre de Cent Ans, le mont résista aux attaques anglaises. Les habitants se réfugièrent derrière les remparts, et l'île ne fut jamais prise. Cette résistance renforça sa réputation : le mont était devenu un symbole de courage et de foi.",
+      "pt": "Durante a Guerra dos Cem Anos, o monte resistiu aos ataques ingleses. Os moradores se refugiaram atrás das muralhas, e a ilha nunca foi tomada. Essa resistência reforçou sua reputação: o monte havia se tornado um símbolo de coragem e fé."
+    },
+    {
+      "id": 5,
+      "fr": "À la Révolution, les moines quittèrent les lieux et l'abbaye devint une prison. Pendant des décennies, des prisonniers furent enfermés dans les salles gothiques. Il fallut attendre le XIXe siècle pour que des écrivains et des architectes protestent et obtiennent la restauration du monument.",
+      "pt": "Na Revolução, os monges deixaram o lugar e a abadia virou prisão. Durante décadas, prisioneiros ficaram trancados nas salas góticas. Foi preciso esperar o século XIX para que escritores e arquitetos protestassem e conseguissem a restauração do monumento."
+    },
+    {
+      "id": 6,
+      "fr": "Aujourd'hui, le Mont-Saint-Michel est un des lieux les plus visités de France, classé au patrimoine mondial. Des millions de visiteurs s'y rendent chaque année. Mais la légende reste vivante : quand la mer remonte et entoure la roche, on comprend pourquoi on l'appelle toujours la Merveille de l'Occident.",
+      "pt": "Hoje, Mont-Saint-Michel é um dos lugares mais visitados da França, classificado como patrimônio mundial. Milhões de visitantes vão lá todos os anos. Mas a lenda continua viva: quando o mar sobe e cerca a rocha, entende-se por que o chamam ainda de Maravilha do Ocidente."
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "se dresser",
+      "definitionPt": "erguer-se; elevar-se",
+      "definitionFr": "Se tenir verticalement, se élever dans le paysage.",
+      "inflections": ["se dresser", "se dresse", "dressé"],
+      "ptTargets": ["erguer-se", "elevar-se"],
+      "examples": [
+        { "level": "A1", "fr": "La tour se dresse au centre de la ville.", "pt": "A torre se ergue no centro da cidade." },
+        { "level": "A2-B1", "fr": "Une petite île se dressait au milieu de la baie.", "pt": "Uma pequena ilha se erguia no meio da baía." },
+        { "level": "B2", "fr": "Le monument se dresse fièrement au-dessus des flots.", "pt": "O monumento se ergue orgulhosamente acima das águas." },
+        { "level": "C1-C2", "fr": "Se dresser, c'est affirmer sa présence face au monde.", "pt": "Erguer-se é afirmar sua presença diante do mundo." }
+      ]
+    },
+    {
+      "term": "s'établir",
+      "definitionPt": "estabelecer-se; fixar-se",
+      "definitionFr": "S'installer durablement dans un lieu.",
+      "inflections": ["s'établir", "s'établit", "établi"],
+      "ptTargets": ["estabelecer-se", "fixar-se"],
+      "examples": [
+        { "level": "A1", "fr": "Ils s'établissent ici.", "pt": "Eles se estabelecem aqui." },
+        { "level": "A2-B1", "fr": "Les moines s'établirent sur la roche.", "pt": "Os monges se estabeleceram na rocha." },
+        { "level": "B2", "fr": "S'établir dans un lieu, c'est choisir d'y rester.", "pt": "Estabelecer-se num lugar é escolher ficar." },
+        { "level": "C1-C2", "fr": "S'établir, c'est jeter l'ancre dans un paysage.", "pt": "Estabelecer-se é lançar âncora numa paisagem." }
+      ]
+    },
+    {
+      "term": "s'égarer",
+      "definitionPt": "perder-se; extraviar-se",
+      "definitionFr": "Perdre son chemin, se perdre.",
+      "inflections": ["s'égarer", "s'égare", "égaré"],
+      "ptTargets": ["perder-se", "extraviar-se"],
+      "examples": [
+        { "level": "A1", "fr": "Je me suis égaré dans la rue.", "pt": "Eu me perdi na rua." },
+        { "level": "A2-B1", "fr": "Certains pèlerins s'égaraient dans la baie.", "pt": "Alguns peregrinos se perdiam na baía." },
+        { "level": "B2", "fr": "S'égarer dans la brume, c'est une expérience inquiétante.", "pt": "Perder-se na neblina é uma experiência inquietante." },
+        { "level": "C1-C2", "fr": "On s'égare parfois pour mieux se retrouver.", "pt": "Às vezes nos perdemos para melhor nos encontrarmos." }
+      ]
+    },
+    {
+      "term": "résister",
+      "definitionPt": "resistir",
+      "definitionFr": "Tenir face à une attaque, une pression ou une difficulté.",
+      "inflections": ["résister", "résiste", "résisté"],
+      "ptTargets": ["resistir", "aguentar"],
+      "examples": [
+        { "level": "A1", "fr": "Il résiste au froid.", "pt": "Ele resiste ao frio." },
+        { "level": "A2-B1", "fr": "Le mont résista aux attaques.", "pt": "O monte resistiu aos ataques." },
+        { "level": "B2", "fr": "Résister à la pression demande une grande force intérieure.", "pt": "Resistir à pressão exige grande força interior." },
+        { "level": "C1-C2", "fr": "Résister, c'est refuser de disparaître.", "pt": "Resistir é recusar desaparecer." }
+      ]
+    },
+    {
+      "term": "atteindre",
+      "definitionPt": "alcançar; atingir",
+      "definitionFr": "Parvenir à un lieu, à un objectif ou à un niveau.",
+      "inflections": ["atteindre", "atteint", "atteint"],
+      "ptTargets": ["alcançar", "atingir"],
+      "examples": [
+        { "level": "A1", "fr": "Nous atteignons le sommet.", "pt": "Nós alcançamos o topo." },
+        { "level": "A2-B1", "fr": "Les pèlerins atteignaient le mont après des jours de marche.", "pt": "Os peregrinos alcançavam o monte depois de dias de caminhada." },
+        { "level": "B2", "fr": "Atteindre un objectif exige de la patience.", "pt": "Atingir um objetivo exige paciência." },
+        { "level": "C1-C2", "fr": "Atteindre un lieu sacré, c'est atteindre une partie de soi-même.", "pt": "Alcançar um lugar sagrado é alcançar uma parte de si mesmo." }
+      ]
+    },
+    {
+      "term": "se réfugier",
+      "definitionPt": "refugiar-se",
+      "definitionFr": "Se mettre à l'abri d'un danger.",
+      "inflections": ["se réfugier", "se réfugie", "réfugié"],
+      "ptTargets": ["refugiar-se", "abrigar-se"],
+      "examples": [
+        { "level": "A1", "fr": "Ils se réfugient sous la pluie.", "pt": "Eles se abrigam da chuva." },
+        { "level": "A2-B1", "fr": "Les habitants se réfugièrent derrière les remparts.", "pt": "Os moradores se refugiaram atrás das muralhas." },
+        { "level": "B2", "fr": "Se réfugier dans un livre, c'est voyager sans bouger.", "pt": "Refugiar-se num livro é viajar sem sair do lugar." },
+        { "level": "C1-C2", "fr": "Se réfugier, c'est choisir un abri pour l'âme.", "pt": "Refugiar-se é escolher um abrigo para a alma." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Passé simple na narrativa histórica",
+    "explanationPt": "Nos textos de história, o passé simple marca os acontecimentos (Aubert obéit, les moines s'établirent, le mont résista). O imparfait descreve o cenário (une île se dressait, les pèlerins marchaient).",
+    "exampleFr": "L'évêque obéit à l'archange, et la construction commença sur la roche.",
+    "examplePt": "O bispo obedeceu ao arcanjo, e a construção começou sobre a rocha.",
+    "practiceQuestion": "Complete: « Au VIIIe siècle, une petite île ___ au milieu de la baie. »",
+    "options": ["se dressait", "se dresse", "se dressera", "s'est dressée"],
+    "correctIndex": 0,
+    "explanationPt": "Cenário histórico em imparfait: 'se dressait'."
+  },
+  "quizQuestions": [
+    {
+      "question": "Qui demanda à Aubert de bâtir une église sur le mont ?",
+      "options": ["L'archange Michel", "Le roi de France", "Un pèlerin", "Un moine de Bretagne"],
+      "correctIndex": 0,
+      "explanation": "La légende raconte que l'archange Michel apparut à Aubert et lui demanda de bâtir une église."
+    },
+    {
+      "question": "Pourquoi l'île était-elle difficile à atteindre ?",
+      "options": ["La mer montait deux fois par jour", "Il y avait trop de routes", "Les habitants interdisaient l'accès", "Le mont était très haut"],
+      "correctIndex": 0,
+      "explanation": "La mer montait deux fois par jour et isolait l'île du continent."
+    },
+    {
+      "question": "Que devint l'abbaye à la Révolution ?",
+      "options": ["Une prison", "Une école", "Un hôpital", "Un marché"],
+      "correctIndex": 0,
+      "explanation": "Pendant des décennies, l'abbaye servit de prison."
+    }
+  ]
+}
