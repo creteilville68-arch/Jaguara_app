@@ -21,14 +21,20 @@ reaparece em outras aulas ou cidades.
 
 | Métrica | Valor |
 | --- | --- |
-| Lições existentes | 464 |
-| Palavras únicas no banco | 16.793 |
-| Já presentes nos textos | 3.769 |
-| **Ainda falta escrever nos textos** | **~13.000** |
+| Lições existentes (aventura + guias) | 578 |
+| Palavras únicas no banco | 16.796 |
+| Já presentes nos textos | 7.480 |
+| **Ainda falta escrever nos textos** | **~9.300** |
 
-A meta de 15.400 será atingida quando a coluna "ainda falta" chegar a zero —
-ou seja, quando todas as palavras da lista de cada cidade aparecerem nos
-parágrafos em francês.
+A meta é atingida quando a coluna "ainda falta" chegar a zero — ou seja,
+quando todas as palavras da lista de cada cidade aparecerem nos parágrafos
+em francês. As duas frentes de escrita são:
+
+1. **Aventura (Fase 1):** as aulas da trilha de Irlan (`src/data/<cidade>_lesson_<N>.json`).
+2. **Enciclopédia (Fase 2):** os dossiês temáticos pós-trilha
+   (`src/data/city_guides/<cidade>_guide_<N>.json`) — 11 cidades, 88 seções,
+   desbloqueados quando o aluno termina a aventura. São o lar natural do
+   vocabulário avançado (C1/C2), que não cabe no enredo sem enrolá-lo.
 
 ## 2. Distribuição por cidade (ponderada pelo CEFR)
 
@@ -206,3 +212,39 @@ palavras em falta.
 - Id: `<cidade>_lesson_<N>`.
 - Cidade: `paris`, `amiens`, `lille`, `mont-saint-michel`, `tours`, `bordeaux`,
   `toulouse`, `lyon`, `marseille`, `strasbourg`, `nice`.
+
+## 8. Enciclopédia da França (Fase 2) — dossiês por cidade
+
+Depois que a aventura de Irlan termina (A1 → C2), o aluno desbloqueia a aba
+**Enciclopédia** (`EncyclopediaView.tsx`), com um dossiê temático por cidade.
+Cada dossiê é um arquivo `src/data/city_guides/<cidade>_guide_<N>.json` com o
+mesmo schema das aulas (`paragraphs` bilíngues + `vocabularyDictionary`).
+
+### Como escrever um dossiê
+
+1. Puxe as palavras que faltam para a cidade:
+   ```bash
+   bun run scripts/list_missing_words.ts C1   # ou A1/A2/B1/B2/C2
+   ```
+2. Escolha **8 seções temáticas** que combinem com a cidade (história,
+   patrimônio, gastronomia, esporte, natureza, instituições...).
+3. Escreva ~6 parágrafos por seção, entrelaçando **de propósito** as palavras
+   que faltam — misturando todos os níveis (A1–C2), com densidade maior nos
+   níveis avançados da cidade.
+4. Salve como `src/data/city_guides/<cidade>_guide_01.json` … `_08.json`.
+5. **Registre** no app: imports + entrada no `CITY_GUIDES` em
+   `src/components/EncyclopediaView.tsx`.
+6. Valide (seção 6): `coverage`, `audit`, `audit:clickable <cidade>`,
+   `tsc` — e cure o backlog no `masterExamples<Cidade>Backlog.ts` até zerar.
+
+### Regras dos guias
+
+- **Sem nomes de estabelecimentos** (regra de ouro nº 12): só referências
+  culturais reais (Matisse, Lumière, Vauban...).
+- **Sem avós, sem violência** — mesmas regras do cânone da aventura.
+- Textos **factuais e enciclopédicos**, nunca narrativa do Irlan.
+- Misture níveis A1–C2 no corpo do texto: é assim que os dossiês absorvem as
+  milhares de palavras avançadas que não cabem no enredo.
+
+Status atual: **11/11 cidades completas** (88 seções, 529 parágrafos,
++776 palavras cobertas desde o início da Fase 2).
