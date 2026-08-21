@@ -1,0 +1,153 @@
+{
+  "id": "toulouse_guide_03",
+  "cityId": "toulouse",
+  "domain": "Ciência",
+  "level": "Misto (A1–C2)",
+  "titleFr": "La science à Toulouse : observer les étoiles",
+  "titlePt": "A ciência em Toulouse: observar as estrelas",
+  "subtitleFr": "Satellites, météorologie et méthode scientifique",
+  "subtitlePt": "Satélites, meteorologia e método científico",
+  "summaryPt": "Enciclopédia de Toulouse, seção 3: a pesquisa científica — os satélites, a meteorologia, o observatório e o método científico. Vocabulário de ciência e tecnologia, com níveis mistos.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Toulouse est un pôle scientifique majeur. Des milliers de chercheurs y travaillent dans des laboratoires de pointe : astrophysique, biologie, informatique, météorologie. La ville accueille des instituts de recherche parmi les plus prestigieux d'Europe, et chaque année des découvertes importantes y sont annoncées.",
+      "pt": "Toulouse é um polo científico importante. Milhares de pesquisadores trabalham ali em laboratórios de ponta: astrofísica, biologia, informática, meteorologia. A cidade abriga institutos de pesquisa entre os mais prestigiosos da Europa, e todos os anos descobertas importantes são anunciadas lá."
+    },
+    {
+      "id": 2,
+      "fr": "Les satellites fabriqués à Toulouse surveillent la Terre depuis l'espace. Ils mesurent la température des océans, suivent les tempêtes et observent la fonte des glaciers. Les données qu'ils envoient aident les scientifiques à comprendre le climat et à prévoir les catastrophes naturelles.",
+      "pt": "Os satélites fabricados em Toulouse vigiam a Terra desde o espaço. Medem a temperatura dos oceanos, acompanham as tempestades e observam o derretimento das geleiras. Os dados que enviam ajudam os cientistas a compreender o clima e a prever catástrofes naturais."
+    },
+    {
+      "id": 3,
+      "fr": "La météorologie est une science exigeante. Les prévisionnistes analysent des millions de données, construisent des modèles et affinent leurs prévisions. Malgré les progrès, le temps garde une part d'imprévu : les scientifiques le rappellent honnêtement, ce qui renforce leur crédibilité.",
+      "pt": "A meteorologia é uma ciência exigente. Os meteorologistas analisam milhões de dados, constroem modelos e refinam suas previsões. Apesar dos progressos, o tempo guarda uma parte de imprevisto: os cientistas lembram isso com honestidade, o que reforça sua credibilidade."
+    },
+    {
+      "id": 4,
+      "fr": "L'observatoire de Toulouse, fondé en 1733, est l'un des plus anciens de France. Ses astronomes ont participé à la mesure du mètre, à la cartographie du ciel et à l'étude des planètes. Aujourd'hui, les télescopes modernes prennent le relais, mais la tradition d'observation continue.",
+      "pt": "O observatório de Toulouse, fundado em 1733, é um dos mais antigos da França. Seus astrônomos participaram da medição do metro, da cartografia do céu e do estudo dos planetas. Hoje, os telescópios modernos assumem o lugar, mas a tradição de observação continua."
+    },
+    {
+      "id": 5,
+      "fr": "La méthode scientifique repose sur des principes simples : observer, formuler une hypothèse, expérimenter, puis vérifier. Les chercheurs toulousains appliquent cette méthode avec rigueur, conscients que chaque découverte soulève de nouvelles questions. La science avance par étapes, jamais par bonds aveugles.",
+      "pt": "O método científico se apoia em princípios simples: observar, formular uma hipótese, experimentar e depois verificar. Os pesquisadores toulousains aplicam esse método com rigor, conscientes de que cada descoberta levanta novas perguntas. A ciência avança por etapas, nunca por saltos cegos."
+    },
+    {
+      "id": 6,
+      "fr": "Les étudiants du monde entier viennent se former à Toulouse. Les écoles d'ingénieurs et les universités proposent des cursus réputés en aéronautique, en informatique et en sciences de la Terre. Beaucoup restent ensuite dans la région, attirés par les laboratoires et les entreprises de haute technologie.",
+      "pt": "Estudantes do mundo inteiro vêm se formar em Toulouse. As escolas de engenharia e as universidades oferecem cursos renomados em aeronáutica, informática e ciências da Terra. Muitos ficam depois na região, atraídos pelos laboratórios e pelas empresas de alta tecnologia."
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "le chercheur",
+      "definitionPt": "o pesquisador",
+      "definitionFr": "Personne qui fait de la recherche scientifique.",
+      "inflections": ["le chercheur", "les chercheurs", "la chercheuse"],
+      "ptTargets": ["pesquisador", "cientista"],
+      "examples": [
+        { "level": "A1", "fr": "Le chercheur travaille au laboratoire.", "pt": "O pesquisador trabalha no laboratório." },
+        { "level": "A2-B1", "fr": "Des milliers de chercheurs travaillent à Toulouse.", "pt": "Milhares de pesquisadores trabalham em Toulouse." },
+        { "level": "B2", "fr": "Le chercheur transforme le doute en question.", "pt": "O pesquisador transforma a dúvida em pergunta." },
+        { "level": "C1-C2", "fr": "Le chercheur est un explorateur qui voyage sans quitter son bureau.", "pt": "O pesquisador é um explorador que viaja sem sair do escritório." }
+      ]
+    },
+    {
+      "term": "le satellite",
+      "definitionPt": "o satélite",
+      "definitionFr": "Objet fabriqué par l'homme qui tourne autour de la Terre.",
+      "inflections": ["le satellite", "les satellites"],
+      "ptTargets": ["satélite"],
+      "examples": [
+        { "level": "A1", "fr": "Le satellite tourne autour de la Terre.", "pt": "O satélite gira ao redor da Terra." },
+        { "level": "A2-B1", "fr": "Les satellites surveillent la Terre depuis l'espace.", "pt": "Os satélites vigiam a Terra desde o espaço." },
+        { "level": "B2", "fr": "Le satellite est l'œil que l'humanité pose sur son propre monde.", "pt": "O satélite é o olho que a humanidade põe sobre o próprio mundo." },
+        { "level": "C1-C2", "fr": "Chaque satellite est une petite promesse de compréhension du monde.", "pt": "Cada satélite é uma pequena promessa de compreensão do mundo." }
+      ]
+    },
+    {
+      "term": "prévoir",
+      "definitionPt": "prever",
+      "definitionFr": "Imaginer ou calculer ce qui va arriver.",
+      "inflections": ["prévoir", "prévoit", "prévu"],
+      "ptTargets": ["prever", "antecipar"],
+      "examples": [
+        { "level": "A1", "fr": "Je prévois une réunion.", "pt": "Eu prevejo uma reunião." },
+        { "level": "A2-B1", "fr": "Les données aident à prévoir les catastrophes.", "pt": "Os dados ajudam a prever catástrofes." },
+        { "level": "B2", "fr": "Prévoir n'est pas deviner, c'est préparer.", "pt": "Prever não é adivinhar, é preparar." },
+        { "level": "C1-C2", "fr": "Prévoir, c'est regarder le présent assez longtemps pour imaginer demain.", "pt": "Prever é olhar o presente por tempo suficiente para imaginar o amanhã." }
+      ]
+    },
+    {
+      "term": "la méthode scientifique",
+      "definitionPt": "o método científico",
+      "definitionFr": "Démarche rigoureuse pour construire des connaissances.",
+      "inflections": ["la méthode scientifique", "les méthodes scientifiques"],
+      "ptTargets": ["método científico"],
+      "examples": [
+        { "level": "A1", "fr": "La méthode scientifique est importante.", "pt": "O método científico é importante." },
+        { "level": "A2-B1", "fr": "La méthode scientifique repose sur l'observation.", "pt": "O método científico se apoia na observação." },
+        { "level": "B2", "fr": "La méthode scientifique est une école d'humilité.", "pt": "O método científico é uma escola de humildade." },
+        { "level": "C1-C2", "fr": "La méthode scientifique apprend à douter avec méthode.", "pt": "O método científico ensina a duvidar com método." }
+      ]
+    },
+    {
+      "term": "la percée",
+      "definitionPt": "a descoberta decisiva; o avanço",
+      "definitionFr": "Avancée majeure, découverte importante.",
+      "inflections": ["la percée", "les percées", "une percée scientifique"],
+      "ptTargets": ["descoberta decisiva", "avanço", "grande salto"],
+      "examples": [
+        { "level": "A1", "fr": "La percée est importante.", "pt": "O avanço é importante." },
+        { "level": "A2-B1", "fr": "Des percées scientifiques sont annoncées chaque année.", "pt": "Descobertas decisivas são anunciadas todos os anos." },
+        { "level": "B2", "fr": "Une percée demande souvent des années de travail invisible.", "pt": "Uma descoberta decisiva exige muitas vezes anos de trabalho invisível." },
+        { "level": "C1-C2", "fr": "La percée est le fruit que l'arbre de la patience finit par donner.", "pt": "A descoberta é o fruto que a árvore da paciência acaba dando." }
+      ]
+    },
+    {
+      "term": "affiner",
+      "definitionPt": "refinar; aprimorar",
+      "definitionFr": "Rendre plus précis, plus fin.",
+      "inflections": ["affiner", "affine", "affiné"],
+      "ptTargets": ["refinar", "aprimorar", "precisar"],
+      "examples": [
+        { "level": "A1", "fr": "Ils affinent le projet.", "pt": "Eles refinam o projeto." },
+        { "level": "A2-B1", "fr": "Les prévisionnistes affinent leurs modèles.", "pt": "Os meteorologistas refinam seus modelos." },
+        { "level": "B2", "fr": "Affiner une méthode, c'est la rendre plus juste.", "pt": "Refinar um método é torná-lo mais justo." },
+        { "level": "C1-C2", "fr": "On affine ses idées comme on affine un instrument : avec patience.", "pt": "Refinam-se as ideias como se afina um instrumento: com paciência." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "A voz passiva na linguagem científica",
+    "explanationPt": "A ciência usa muito a voz passiva para centrar a frase no objeto: les données sont analysées, des découvertes sont annoncées. Isso tira o foco do pesquisador e o coloca no resultado.",
+    "exampleFr": "Les données sont analysées, les modèles sont affinés, et les prévisions sont publiées.",
+    "examplePt": "Os dados são analisados, os modelos são refinados e as previsões são publicadas.",
+    "practiceQuestion": "Complete: « Les tempêtes ___ par les satellites. »",
+    "options": ["sont observées", "observent", "observées", "sont observer"],
+    "correctIndex": 0,
+    "explanationPt": "Voz passiva no presente: 'sont observées'."
+  },
+  "quizQuestions": [
+    {
+      "question": "En quelle année l'observatoire de Toulouse fut-il fondé ?",
+      "options": ["1733", "1900", "1969", "1500"],
+      "correctIndex": 0,
+      "explanation": "L'observatoire de Toulouse fut fondé en 1733."
+    },
+    {
+      "question": "Que mesurent les satellites fabriqués à Toulouse ?",
+      "options": ["La température des océans et les tempêtes", "Le trafic routier uniquement", "Le prix des aliments", "La hauteur des montagnes"],
+      "correctIndex": 0,
+      "explanation": "Les satellites mesurent la température des océans et observent les tempêtes."
+    },
+    {
+      "question": "Sur quoi repose la méthode scientifique ?",
+      "options": ["Observer, formuler, expérimenter, vérifier", "Croire sans vérifier", "Copier les anciens", "Deviner au hasard"],
+      "correctIndex": 0,
+      "explanation": "La méthode scientifique repose sur l'observation, l'hypothèse, l'expérience et la vérification."
+    }
+  ]
+}

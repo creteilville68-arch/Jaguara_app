@@ -1,0 +1,153 @@
+{
+  "id": "toulouse_guide_01",
+  "cityId": "toulouse",
+  "domain": "História",
+  "level": "Misto (A1–C2)",
+  "titleFr": "Toulouse : la ville rose",
+  "titlePt": "Toulouse: a cidade rosa",
+  "subtitleFr": "De la cité des violettes à la capitale de l'aéronautique",
+  "subtitlePt": "Da cidade das violetas à capital da aeronáutica",
+  "summaryPt": "Enciclopédia de Toulouse, seção 1: a história da cidade — da época romana à cidade rosa, passando pela violeta e pela vocação aeroespacial. Vocabulário de história e cidade, com níveis mistos.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Toulouse est l'une des plus anciennes villes de France. Fondée par les Romains, elle fut longtemps une étape sur le chemin de Saint-Jacques-de-Compostelle. Les marchands, les pèlerins et les étudiants s'y croisaient déjà au Moyen Âge. Aujourd'hui, les archéologues analysent les vestiges pour reconstituer son histoire.",
+      "pt": "Toulouse é uma das cidades mais antigas da França. Fundada pelos romanos, foi por muito tempo uma etapa no caminho de Santiago de Compostela. Mercadores, peregrinos e estudantes já se cruzavam ali na Idade Média. Hoje, os arqueólogos analisam os vestígios para reconstituir sua história."
+    },
+    {
+      "id": 2,
+      "fr": "Au Moyen Âge, Toulouse devint une capitale régionale prospère. Ses habitants, surnommés les Capitouls, gouvernaient la ville avec indépendance. Les marchands développèrent le commerce du pastel, une plante qui servait à teindre les tissus en bleu. Cette richesse finança la construction des plus beaux monuments.",
+      "pt": "Na Idade Média, Toulouse virou uma capital regional próspera. Seus habitantes, apelidados de Capitouls, governavam a cidade com independência. Os mercadores desenvolveram o comércio do pastel, uma planta que servia para tingir tecidos de azul. Essa riqueza financiou a construção dos monumentos mais bonitos."
+    },
+    {
+      "id": 3,
+      "fr": "La ville tire son surnom de ses maisons en brique rose. Cette terre cuite, produite localement, donne aux façades une couleur chaude qui change avec la lumière. Au coucher du soleil, la ville entière semble briller. Les visiteurs ne s'habituent jamais tout à fait à cette beauté.",
+      "pt": "A cidade deve seu apelido às suas casas de tijolo rosa. Essa terra cozida, produzida localmente, dá às fachadas uma cor quente que muda com a luz. Ao pôr do sol, a cidade inteira parece brilhar. Os visitantes nunca se acostumam totalmente a essa beleza."
+    },
+    {
+      "id": 4,
+      "fr": "Au XIXe siècle, Toulouse accueillit les premières industries : la chimie, le textile, puis l'aéronautique. Cette transformation bouleversa la ville et attira des milliers de travailleurs. Les usines s'installèrent le long de la Garonne, et Toulouse commença à regarder vers le ciel.",
+      "pt": "No século XIX, Toulouse recebeu as primeiras indústrias: a química, o têxtil, depois a aeronáutica. Essa transformação abalou a cidade e atraiu milhares de trabalhadores. As fábricas se instalaram ao longo da Garonne, e Toulouse começou a olhar para o céu."
+    },
+    {
+      "id": 5,
+      "fr": "La violette est l'autre symbole de la ville. Depuis le XIXe siècle, les producteurs cultivent ces fleurs parfumées dans les jardins de la région. On en fait des bonbons, des sirops et des parfums. Chaque année, une fête célèbre cette fleur délicate, fierté des Toulousains.",
+      "pt": "A violeta é o outro símbolo da cidade. Desde o século XIX, os produtores cultivam essas flores perfumadas nos jardins da região. Fazem-se doces, xaropes e perfumes. Todos os anos, uma festa celebra essa flor delicada, orgulho dos toulousains."
+    },
+    {
+      "id": 6,
+      "fr": "Aujourd'hui, Toulouse est la capitale européenne de l'aéronautique et du spatial. Des dizaines de milliers d'ingénieurs y travaillent, attirés par les entreprises et les laboratoires de renom. Cette vocation transforme la ville depuis un siècle : la ville rose regarde les étoiles.",
+      "pt": "Hoje, Toulouse é a capital europeia da aeronáutica e do espaço. Dezenas de milhares de engenheiros trabalham ali, atraídos pelas empresas e laboratórios de renome. Essa vocação transforma a cidade há um século: a cidade rosa olha para as estrelas."
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "analyser",
+      "definitionPt": "analisar",
+      "definitionFr": "Examiner en détail pour comprendre.",
+      "inflections": ["analyser", "analyse", "analysé"],
+      "ptTargets": ["analisar", "examinar"],
+      "examples": [
+        { "level": "A1", "fr": "J'analyse le problème.", "pt": "Eu analiso o problema." },
+        { "level": "A2-B1", "fr": "Les archéologues analysent les vestiges.", "pt": "Os arqueólogos analisam os vestígios." },
+        { "level": "B2", "fr": "Analyser avant d'agir évite bien des erreurs.", "pt": "Analisar antes de agir evita muitos erros." },
+        { "level": "C1-C2", "fr": "Analyser, c'est décomposer pour mieux comprendre.", "pt": "Analisar é decompor para compreender melhor." }
+      ]
+    },
+    {
+      "term": "prospérer",
+      "definitionPt": "prosperar",
+      "definitionFr": "Se développer avec succès, s'enrichir.",
+      "inflections": ["prospérer", "prospère", "prospéré"],
+      "ptTargets": ["prosperar", "florescer"],
+      "examples": [
+        { "level": "A1", "fr": "La ville prospère.", "pt": "A cidade prospera." },
+        { "level": "A2-B1", "fr": "Toulouse devint une capitale régionale prospère.", "pt": "Toulouse virou uma capital regional próspera." },
+        { "level": "B2", "fr": "Prospérer sans oublier ses racines est un art.", "pt": "Prosperar sem esquecer as raízes é uma arte." },
+        { "level": "C1-C2", "fr": "Une ville prospère est une promesse tenue à ses habitants.", "pt": "Uma cidade próspera é uma promessa cumprida aos seus habitantes." }
+      ]
+    },
+    {
+      "term": "développer",
+      "definitionPt": "desenvolver",
+      "definitionFr": "Faire grandir, faire évoluer.",
+      "inflections": ["développer", "développe", "développé"],
+      "ptTargets": ["desenvolver", "expandir"],
+      "examples": [
+        { "level": "A1", "fr": "Ils développent leur entreprise.", "pt": "Eles desenvolvem sua empresa." },
+        { "level": "A2-B1", "fr": "Les marchands développèrent le commerce du pastel.", "pt": "Os mercadores desenvolveram o comércio do pastel." },
+        { "level": "B2", "fr": "Développer ses compétences demande du temps et de la curiosité.", "pt": "Desenvolver competências exige tempo e curiosidade." },
+        { "level": "C1-C2", "fr": "Développer, c'est transformer une idée en réalité durable.", "pt": "Desenvolver é transformar uma ideia em realidade duradoura." }
+      ]
+    },
+    {
+      "term": "se croiser",
+      "definitionPt": "cruzar-se; encontrar-se",
+      "definitionFr": "Se rencontrer en allant dans des directions différentes.",
+      "inflections": ["se croiser", "se croise", "croisé"],
+      "ptTargets": ["cruzar-se", "encontrar-se"],
+      "examples": [
+        { "level": "A1", "fr": "Nos chemins se croisent.", "pt": "Nossos caminhos se cruzam." },
+        { "level": "A2-B1", "fr": "Les marchands et les pèlerins s'y croisaient.", "pt": "Mercadores e peregrinos se cruzavam ali." },
+        { "level": "B2", "fr": "Les destins se croisent sans toujours se comprendre.", "pt": "Os destinos se cruzam sem sempre se compreender." },
+        { "level": "C1-C2", "fr": "Une ville se construit de mille vies qui se croisent.", "pt": "Uma cidade se constrói de mil vidas que se cruzam." }
+      ]
+    },
+    {
+      "term": "la terre cuite",
+      "definitionPt": "a terra cozida; o tijolo de barro",
+      "definitionFr": "Argile cuite utilisée pour fabriquer briques et tuiles.",
+      "inflections": ["la terre cuite", "les terres cuites"],
+      "ptTargets": ["terra cozida", "barro cozido", "tijolo de barro"],
+      "examples": [
+        { "level": "A1", "fr": "La maison est en terre cuite.", "pt": "A casa é de tijolo de barro." },
+        { "level": "A2-B1", "fr": "Les façades en terre cuite donnent leur couleur à la ville.", "pt": "As fachadas de tijolo de barro dão cor à cidade." },
+        { "level": "B2", "fr": "La terre cuite traverse les siècles sans perdre sa chaleur.", "pt": "A terra cozida atravessa os séculos sem perder seu calor." },
+        { "level": "C1-C2", "fr": "La terre cuite est la mémoire silencieuse des bâtisseurs.", "pt": "A terra cozida é a memória silenciosa dos construtores." }
+      ]
+    },
+    {
+      "term": "la vocation",
+      "definitionPt": "a vocação",
+      "definitionFr": "Appel, destination naturelle d'une personne ou d'un lieu.",
+      "inflections": ["la vocation", "les vocations"],
+      "ptTargets": ["vocação", "destino"],
+      "examples": [
+        { "level": "A1", "fr": "Il a une vocation de médecin.", "pt": "Ele tem vocação de médico." },
+        { "level": "A2-B1", "fr": "La vocation de Toulouse est l'aéronautique.", "pt": "A vocação de Toulouse é a aeronáutica." },
+        { "level": "B2", "fr": "La vocation se révèle parfois par hasard.", "pt": "A vocação às vezes se revela por acaso." },
+        { "level": "C1-C2", "fr": "Suivre sa vocation, c'est écouter la voix la plus discrète de soi-même.", "pt": "Seguir a vocação é escutar a voz mais discreta de si mesmo." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Passé simple na narrativa histórica",
+    "explanationPt": "Na história da cidade, o passé simple marca os acontecimentos (devint, développèrent, bouleversa, attira). O imparfait descreve o cenário (les marchands s'y croisaient, les producteurs cultivaient).",
+    "exampleFr": "La ville prospéra, l'industrie transforma Toulouse, et la cité regarda vers le ciel.",
+    "examplePt": "A cidade prosperou, a indústria transformou Toulouse, e a cidade olhou para o céu.",
+    "practiceQuestion": "Complete: « Au XIXe siècle, l'industrie ___ la ville. »",
+    "options": ["transforma", "transforme", "transformera", "a transformé"],
+    "correctIndex": 0,
+    "explanationPt": "Passé simple de 'transformer': 'transforma' (il transforma)."
+  },
+  "quizQuestions": [
+    {
+      "question": "Pourquoi Toulouse s'appelle-t-elle la ville rose ?",
+      "options": ["À cause de ses maisons en brique rose", "À cause de ses fleurs roses", "À cause de son ciel rose", "À cause d'une peinture célèbre"],
+      "correctIndex": 0,
+      "explanation": "Les maisons en terre cuite donnent leur couleur rose à la ville."
+    },
+    {
+      "question": "Quel était le commerce qui enrichit Toulouse au Moyen Âge ?",
+      "options": ["Le pastel, une plante pour teindre en bleu", "Le pétrole", "La soie", "Le café"],
+      "correctIndex": 0,
+      "explanation": "Le pastel servait à teindre les tissus en bleu et fit la richesse de la ville."
+    },
+    {
+      "question": "Quelle est la vocation moderne de Toulouse ?",
+      "options": ["L'aéronautique et le spatial", "La pêche", "L'exploitation minière", "Le tourisme balnéaire"],
+      "correctIndex": 0,
+      "explanation": "Toulouse est la capitale européenne de l'aéronautique et du spatial."
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "id": "toulouse_guide_07",
+  "cityId": "toulouse",
+  "domain": "Tecnologia",
+  "level": "Misto (A1–C2)",
+  "titleFr": "La ville numérique : transports et technologies",
+  "titlePt": "A cidade digital: transportes e tecnologias",
+  "subtitleFr": "Métro automatique, objets connectés et services en ligne",
+  "subtitlePt": "Metrô automático, objetos conectados e serviços online",
+  "summaryPt": "Enciclopédia de Toulouse, seção 7: como a tecnologia transforma a cidade — o metrô automático, os transportes e os serviços digitais. Vocabulário de tecnologia e cidade, com níveis mistos.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Toulouse est une ville résolument technologique. Son métro, entièrement automatique, circule sans conducteur depuis les années 1990. Les rames glissent en silence sur les rails, et les portes s'ouvrent avec précision. Les habitants, habitués, ne s'étonnent plus de voyager dans un métro sans conducteur.",
+      "pt": "Toulouse é uma cidade resolutamente tecnológica. Seu metrô, totalmente automático, circula sem condutor desde os anos 1990. Os trens deslizam em silêncio sobre os trilhos, e as portas se abrem com precisão. Os moradores, acostumados, não se surpreendem mais em viajar num metrô sem condutor."
+    },
+    {
+      "id": 2,
+      "fr": "La connectivité est partout : la fibre optique équipe la plupart des quartiers, et l'accès à internet est rapide et fiable. Les services en ligne simplifient la vie : démarches administratives, réservations, paiements. La dématérialisation progresse, même si certaines personnes préfèrent encore le guichet.",
+      "pt": "A conectividade está em toda parte: a fibra óptica equipa a maioria dos bairros, e o acesso à internet é rápido e confiável. Os serviços online simplificam a vida: trâmites administrativos, reservas, pagamentos. A desmaterialização avança, mesmo que algumas pessoas prefiram ainda o balcão."
+    },
+    {
+      "id": 3,
+      "fr": "Les objets connectés se multiplient dans la vie quotidienne. Les capteurs mesurent la qualité de l'air, le trafic et la consommation d'énergie. Les applications sur téléphone permettent de suivre les bus en temps réel, de trouver une place de parking ou de partager une voiture.",
+      "pt": "Os objetos conectados se multiplicam na vida cotidiana. Os sensores medem a qualidade do ar, o tráfego e o consumo de energia. Os aplicativos no celular permitem acompanhar os ônibus em tempo real, encontrar uma vaga de estacionamento ou compartilhar um carro."
+    },
+    {
+      "id": 4,
+      "fr": "La ville teste aussi les transports du futur : bus électriques, vélos en libre-service, et bientôt des navettes autonomes. L'objectif est de réduire la pollution et de rendre les déplacements plus agréables. Les habitants participent aux expérimentations et donnent leur avis sur les nouveautés.",
+      "pt": "A cidade testa também os transportes do futuro: ônibus elétricos, bicicletas de aluguel e, em breve, vans autônomas. O objetivo é reduzir a poluição e tornar os deslocamentos mais agradáveis. Os moradores participam das experimentações e dão sua opinião sobre as novidades."
+    },
+    {
+      "id": 5,
+      "fr": "Le numérique pose aussi des questions éthiques. La ville réfléchit à la protection des données, à la surveillance et à l'inclusion numérique. Des ateliers aident les personnes âgées à utiliser internet, pour que personne ne soit laissé de côté. La technologie doit servir tous les habitants.",
+      "pt": "O digital levanta também questões éticas. A cidade reflete sobre a proteção dos dados, a vigilância e a inclusão digital. Oficinas ajudam as pessoas idosas a usar a internet, para que ninguém fique de fora. A tecnologia deve servir a todos os moradores."
+    },
+    {
+      "id": 6,
+      "fr": "Les start-up toulousaines inventent les services de demain : santé connectée, agriculture de précision, transport intelligent. Des incubateurs accompagnent les jeunes entrepreneurs, et des financements soutiennent les projets les plus prometteurs. La ville rose est devenue un laboratoire à ciel ouvert.",
+      "pt": "As startups toulousaines inventam os serviços de amanhã: saúde conectada, agricultura de precisão, transporte inteligente. Incubadoras acompanham os jovens empreendedores, e financiamentos apoiam os projetos mais promissores. A cidade rosa virou um laboratório a céu aberto."
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "la connectivité",
+      "definitionPt": "a conectividade",
+      "definitionFr": "Capacité de se connecter à des réseaux.",
+      "inflections": ["la connectivité", "une bonne connectivité"],
+      "ptTargets": ["conectividade"],
+      "examples": [
+        { "level": "A1", "fr": "La connectivité est bonne ici.", "pt": "A conectividade é boa aqui." },
+        { "level": "A2-B1", "fr": "La connectivité est partout à Toulouse.", "pt": "A conectividade está em toda parte em Toulouse." },
+        { "level": "B2", "fr": "La connectivité transforme les villes en réseaux vivants.", "pt": "A conectividade transforma as cidades em redes vivas." },
+        { "level": "C1-C2", "fr": "La connectivité rapproche les humains, mais ne remplace jamais leur présence.", "pt": "A conectividade aproxima os humanos, mas nunca substitui sua presença." }
+      ]
+    },
+    {
+      "term": "la dématérialisation",
+      "definitionPt": "a desmaterialização; a digitalização",
+      "definitionFr": "Transformation de procédures papier en procédures numériques.",
+      "inflections": ["la dématérialisation", "les dématérialisations"],
+      "ptTargets": ["desmaterialização", "digitalização", "virtualização"],
+      "examples": [
+        { "level": "A1", "fr": "La dématérialisation avance.", "pt": "A digitalização avança." },
+        { "level": "A2-B1", "fr": "La dématérialisation simplifie les démarches.", "pt": "A digitalização simplifica os trâmites." },
+        { "level": "B2", "fr": "La dématérialisation fait gagner du temps, mais demande de l'adaptation.", "pt": "A digitalização faz ganhar tempo, mas exige adaptação." },
+        { "level": "C1-C2", "fr": "La dématérialisation transforme le papier en mémoire invisible.", "pt": "A digitalização transforma o papel em memória invisível." }
+      ]
+    },
+    {
+      "term": "l'objet connecté",
+      "definitionPt": "o objeto conectado",
+      "definitionFr": "Appareil relié à internet qui échange des données.",
+      "inflections": ["l'objet connecté", "les objets connectés"],
+      "ptTargets": ["objeto conectado", "dispositivo conectado"],
+      "examples": [
+        { "level": "A1", "fr": "L'objet connecté est pratique.", "pt": "O objeto conectado é prático." },
+        { "level": "A2-B1", "fr": "Les objets connectés mesurent la qualité de l'air.", "pt": "Os objetos conectados medem a qualidade do ar." },
+        { "level": "B2", "fr": "L'objet connecté est un assistant silencieux.", "pt": "O objeto conectado é um assistente silencioso." },
+        { "level": "C1-C2", "fr": "L'objet connecté nous relie au monde, mais nous isole parfois de nous-mêmes.", "pt": "O objeto conectado nos liga ao mundo, mas às vezes nos isola de nós mesmos." }
+      ]
+    },
+    {
+      "term": "l'inclusion numérique",
+      "definitionPt": "a inclusão digital",
+      "definitionFr": "Fait de permettre à tous d'accéder au numérique.",
+      "inflections": ["l'inclusion numérique", "les politiques d'inclusion numérique"],
+      "ptTargets": ["inclusão digital"],
+      "examples": [
+        { "level": "A1", "fr": "L'inclusion numérique est importante.", "pt": "A inclusão digital é importante." },
+        { "level": "A2-B1", "fr": "Des ateliers favorisent l'inclusion numérique.", "pt": "Oficinas favorecem a inclusão digital." },
+        { "level": "B2", "fr": "L'inclusion numérique est une question de justice.", "pt": "A inclusão digital é uma questão de justiça." },
+        { "level": "C1-C2", "fr": "L'inclusion numérique est la nouvelle forme de l'égalité des chances.", "pt": "A inclusão digital é a nova forma da igualdade de oportunidades." }
+      ]
+    },
+    {
+      "term": "la start-up",
+      "definitionPt": "a startup",
+      "definitionFr": "Jeune entreprise innovante à fort potentiel de croissance.",
+      "inflections": ["la start-up", "les start-up"],
+      "ptTargets": ["startup"],
+      "examples": [
+        { "level": "A1", "fr": "La start-up est jeune.", "pt": "A startup é jovem." },
+        { "level": "A2-B1", "fr": "Les start-up toulousaines inventent les services de demain.", "pt": "As startups toulousaines inventam os serviços de amanhã." },
+        { "level": "B2", "fr": "La start-up transforme une idée audacieuse en entreprise.", "pt": "A startup transforma uma ideia ousada em empresa." },
+        { "level": "C1-C2", "fr": "La start-up est le rêve d'une génération qui veut inventer son travail.", "pt": "A startup é o sonho de uma geração que quer inventar seu trabalho." }
+      ]
+    },
+    {
+      "term": "expérimenter",
+      "definitionPt": "experimentar; testar",
+      "definitionFr": "Essayer pour vérifier, mettre à l'épreuve.",
+      "inflections": ["expérimenter", "expérimente", "expérimenté"],
+      "ptTargets": ["experimentar", "testar", "vivenciar"],
+      "examples": [
+        { "level": "A1", "fr": "J'expérimente une nouvelle recette.", "pt": "Eu experimento uma receita nova." },
+        { "level": "A2-B1", "fr": "La ville teste et expérimente les transports du futur.", "pt": "A cidade testa e experimenta os transportes do futuro." },
+        { "level": "B2", "fr": "Expérimenter, c'est apprendre par la pratique.", "pt": "Experimentar é aprender pela prática." },
+        { "level": "C1-C2", "fr": "Expérimenter, c'est accepter l'échec comme une étape.", "pt": "Experimentar é aceitar o fracasso como uma etapa." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "O particípio presente em textos técnicos",
+    "explanationPt": "Em textos técnicos, o particípio presente descreve ações simultâneas: des rames qui circulent (que circulam), des applications qui permettent (que permitem). Também serve para evitar repetições: 'les capteurs mesurent, permettant de suivre'.",
+    "exampleFr": "Les capteurs mesurent la qualité de l'air, permettant aux habitants de suivre la pollution en temps réel.",
+    "examplePt": "Os sensores medem a qualidade do ar, permitindo que os moradores acompanhem a poluição em tempo real.",
+    "practiceQuestion": "Complete: « Les applications suivent les bus, ___ aux usagers de gagner du temps. »",
+    "options": ["permettant", "permet", "permettent", "permis"],
+    "correctIndex": 0,
+    "explanationPt": "Particípio presente: 'permettant'."
+  },
+  "quizQuestions": [
+    {
+      "question": "Depuis quand le métro de Toulouse est-il automatique ?",
+      "options": ["Depuis les années 1990", "Depuis 2020", "Depuis le XIXe siècle", "Il n'est pas automatique"],
+      "correctIndex": 0,
+      "explanation": "Le métro toulousain circule sans conducteur depuis les années 1990."
+    },
+    {
+      "question": "Que mesurent les objets connectés dans la ville ?",
+      "options": ["La qualité de l'air et le trafic", "Le prix des maisons", "La température des restaurants", "La hauteur des immeubles"],
+      "correctIndex": 0,
+      "explanation": "Les capteurs mesurent la qualité de l'air, le trafic et la consommation d'énergie."
+    },
+    {
+      "question": "Pourquoi les ateliers d'inclusion numérique sont-ils importants ?",
+      "options": ["Pour que personne ne soit laissé de côté", "Pour vendre des ordinateurs", "Pour supprimer internet", "Pour les entreprises uniquement"],
+      "correctIndex": 0,
+      "explanation": "Les ateliers aident ceux qui n'ont pas accès au numérique."
+    }
+  ]
+}

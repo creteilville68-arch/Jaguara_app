@@ -1,0 +1,153 @@
+{
+  "id": "toulouse_guide_06",
+  "cityId": "toulouse",
+  "domain": "Acadêmico",
+  "level": "Misto (A1–C2)",
+  "titleFr": "Étudier et travailler à Toulouse : la filière du futur",
+  "titlePt": "Estudar e trabalhar em Toulouse: a carreira do futuro",
+  "subtitleFr": "Écoles d'ingénieurs, recherche et marché de l'emploi",
+  "subtitlePt": "Escolas de engenharia, pesquisa e mercado de trabalho",
+  "summaryPt": "Enciclopédia de Toulouse, seção 6: os estudos e as carreiras — as escolas de engenharia, a pesquisa, os estágios e o mercado de trabalho local. Vocabulário de estudos e carreira, com níveis mistos.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Toulouse est une ville étudiante : plus de cent vingt mille jeunes y suivent des cours. Les écoles d'ingénieurs, parmi les plus réputées de France, attirent des étudiants de toute l'Europe. L'emploi du temps y est chargé, entre cours magistraux, travaux pratiques et projets en équipe.",
+      "pt": "Toulouse é uma cidade estudantil: mais de cento e vinte mil jovens frequentam cursos ali. As escolas de engenharia, entre as mais renomadas da França, atraem estudantes de toda a Europa. A agenda é cheia, entre aulas expositivas, trabalhos práticos e projetos em equipe."
+    },
+    {
+      "id": 2,
+      "fr": "Les filières scientifiques dominent : aéronautique, informatique, robotique, biotechnologies. Les étudiants choisissent leur spécialité avec soin, car le marché du travail est exigeant. Les entreprises de la région proposent des stages, des contrats d'apprentissage et des premiers emplois aux jeunes diplômés.",
+      "pt": "Os cursos científicos dominam: aeronáutica, informática, robótica, biotecnologias. Os estudantes escolhem sua especialidade com cuidado, pois o mercado de trabalho é exigente. As empresas da região oferecem estágios, contratos de aprendizagem e primeiros empregos aos jovens formados."
+    },
+    {
+      "id": 3,
+      "fr": "La recherche fait partie intégrante des études. Les doctorants travaillent dans des laboratoires de pointe, encadrés par des chercheurs confirmés. La soutenance de thèse, au bout de trois ou quatre ans, est un moment décisif. Beaucoup de doctorants sont ensuite recrutés par les entreprises du pôle aéronautique.",
+      "pt": "A pesquisa faz parte integrante dos estudos. Os doutorandos trabalham em laboratórios de ponta, orientados por pesquisadores experientes. A defesa de tese, depois de três ou quatro anos, é um momento decisivo. Muitos doutorandos são depois contratados pelas empresas do polo aeronáutico."
+    },
+    {
+      "id": 4,
+      "fr": "Le travail en équipe est essentiel dans ce secteur. Les ingénieurs collaborent avec des spécialistes de tous les domaines : mécanique, électronique, informatique, design. La négociation fait partie du métier : il faut convaincre, argumenter et trouver des compromis pour faire avancer les projets.",
+      "pt": "O trabalho em equipe é essencial nesse setor. Os engenheiros colaboram com especialistas de todas as áreas: mecânica, eletrônica, informática, design. A negociação faz parte do ofício: é preciso convencer, argumentar e encontrar compromissos para fazer os projetos avançarem."
+    },
+    {
+      "id": 5,
+      "fr": "Le marché de l'emploi toulousain est dynamique. Les salaires y sont attractifs, et le taux de chômage des diplômés reste faible. Les entreprises recrutent aussi dans la santé, le numérique et les services. Les jeunes couples s'installent souvent dans la région pour de bon, séduits par la qualité de vie.",
+      "pt": "O mercado de trabalho toulousain é dinâmico. Os salários são atraentes, e a taxa de desemprego dos formados continua baixa. As empresas contratam também na saúde, no digital e nos serviços. Os casais jovens muitas vezes se instalam de vez na região, seduzidos pela qualidade de vida."
+    },
+    {
+      "id": 6,
+      "fr": "Enfin, la formation continue permet à chacun d'évoluer. Des programmes de reconversion professionnelle accompagnent ceux qui changent de métier, et la mobilité professionnelle est encouragée. À Toulouse, apprendre n'est pas une étape de la jeunesse : c'est une habitude de toute une vie.",
+      "pt": "Por fim, a formação continuada permite que cada um evolua. Programas de reconversão profissional acompanham quem muda de profissão, e a mobilidade profissional é incentivada. Em Toulouse, aprender não é uma etapa da juventude: é um hábito da vida inteira."
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "l'école d'ingénieurs",
+      "definitionPt": "a escola de engenharia",
+      "definitionFr": "Établissement qui forme des ingénieurs.",
+      "inflections": ["l'école d'ingénieurs", "les écoles d'ingénieurs"],
+      "ptTargets": ["escola de engenharia", "faculdade de engenharia"],
+      "examples": [
+        { "level": "A1", "fr": "L'école d'ingénieurs est grande.", "pt": "A escola de engenharia é grande." },
+        { "level": "A2-B1", "fr": "Les écoles d'ingénieurs attirent des étudiants de toute l'Europe.", "pt": "As escolas de engenharia atraem estudantes de toda a Europa." },
+        { "level": "B2", "fr": "L'école d'ingénieurs apprend à résoudre des problèmes réels.", "pt": "A escola de engenharia ensina a resolver problemas reais." },
+        { "level": "C1-C2", "fr": "L'école d'ingénieurs forme des rêveurs rigoureux.", "pt": "A escola de engenharia forma sonhadores rigorosos." }
+      ]
+    },
+    {
+      "term": "le doctorant",
+      "definitionPt": "o doutorando",
+      "definitionFr": "Étudiant qui prépare un doctorat.",
+      "inflections": ["le doctorant", "les doctorants", "la doctorante"],
+      "ptTargets": ["doutorando", "doutoranda"],
+      "examples": [
+        { "level": "A1", "fr": "Le doctorant travaille beaucoup.", "pt": "O doutorando trabalha muito." },
+        { "level": "A2-B1", "fr": "Les doctorants travaillent dans des laboratoires de pointe.", "pt": "Os doutorandos trabalham em laboratórios de ponta." },
+        { "level": "B2", "fr": "Le doctorant apprend à transformer des questions en réponses.", "pt": "O doutorando aprende a transformar perguntas em respostas." },
+        { "level": "C1-C2", "fr": "Le doctorant est un artisan de la connaissance.", "pt": "O doutorando é um artesão do conhecimento." }
+      ]
+    },
+    {
+      "term": "la négociation",
+      "definitionPt": "a negociação",
+      "definitionFr": "Discussion pour trouver un accord.",
+      "inflections": ["la négociation", "les négociations"],
+      "ptTargets": ["negociação"],
+      "examples": [
+        { "level": "A1", "fr": "La négociation commence.", "pt": "A negociação começa." },
+        { "level": "A2-B1", "fr": "La négociation fait partie du métier d'ingénieur.", "pt": "A negociação faz parte do ofício de engenheiro." },
+        { "level": "B2", "fr": "Une bonne négociation laisse les deux parties debout.", "pt": "Uma boa negociação deixa as duas partes de pé." },
+        { "level": "C1-C2", "fr": "La négociation est l'art de faire avancer ensemble.", "pt": "A negociação é a arte de avançar juntos." }
+      ]
+    },
+    {
+      "term": "le taux de chômage",
+      "definitionPt": "a taxa de desemprego",
+      "definitionFr": "Pourcentage de personnes sans emploi dans une population.",
+      "inflections": ["le taux de chômage", "les taux de chômage"],
+      "ptTargets": ["taxa de desemprego"],
+      "examples": [
+        { "level": "A1", "fr": "Le taux de chômage baisse.", "pt": "A taxa de desemprego cai." },
+        { "level": "A2-B1", "fr": "Le taux de chômage des diplômés reste faible.", "pt": "A taxa de desemprego dos formados continua baixa." },
+        { "level": "B2", "fr": "Le taux de chômage est un thermomètre de l'économie.", "pt": "A taxa de desemprego é um termômetro da economia." },
+        { "level": "C1-C2", "fr": "Derrière chaque point du taux de chômage, il y a des vies entières.", "pt": "Atrás de cada ponto da taxa de desemprego, há vidas inteiras." }
+      ]
+    },
+    {
+      "term": "la reconversion professionnelle",
+      "definitionPt": "a reconversão profissional",
+      "definitionFr": "Changement de métier, nouvelle orientation de carrière.",
+      "inflections": ["la reconversion professionnelle", "les reconversions professionnelles"],
+      "ptTargets": ["reconversão profissional", "mudança de carreira"],
+      "examples": [
+        { "level": "A1", "fr": "La reconversion est possible.", "pt": "A reconversão é possível." },
+        { "level": "A2-B1", "fr": "Des programmes accompagnent la reconversion professionnelle.", "pt": "Programas acompanham a reconversão profissional." },
+        { "level": "B2", "fr": "La reconversion professionnelle est un deuxième départ.", "pt": "A reconversão profissional é um segundo começo." },
+        { "level": "C1-C2", "fr": "La reconversion professionnelle est le courage de recommencer.", "pt": "A reconversão profissional é a coragem de recomeçar." }
+      ]
+    },
+    {
+      "term": "s'installer pour de bon",
+      "definitionPt": "instalar-se de vez",
+      "definitionFr": "S'établir définitivement dans un lieu.",
+      "inflections": ["s'installer pour de bon", "s'installe pour de bon", "installé pour de bon"],
+      "ptTargets": ["instalar-se de vez", "ficar de vez"],
+      "examples": [
+        { "level": "A1", "fr": "Ils s'installent pour de bon.", "pt": "Eles se instalam de vez." },
+        { "level": "A2-B1", "fr": "Les jeunes couples s'installent souvent pour de bon.", "pt": "Os casais jovens muitas vezes se instalam de vez." },
+        { "level": "B2", "fr": "S'installer pour de bon, c'est choisir son avenir.", "pt": "Instalar-se de vez é escolher seu futuro." },
+        { "level": "C1-C2", "fr": "S'installer pour de bon, c'est planter ses racines dans une ville.", "pt": "Instalar-se de vez é plantar suas raízes numa cidade." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "O comparativo e o superlativo no mundo do trabalho",
+    "explanationPt": "No contexto profissional: les plus réputées (as mais renomadas), plus de cent vingt mille (mais de cento e vinte mil), le taux reste faible. Superlativo com 'le/la/les plus'.",
+    "exampleFr": "Les écoles les plus réputées de France attirent les étudiants les plus motivés.",
+    "examplePt": "As escolas mais renomadas da França atraem os estudantes mais motivados.",
+    "practiceQuestion": "Complete: « Toulouse est ___ ville étudiante de la région. »",
+    "options": ["la plus grande", "plus grande", "très grande", "grande"],
+    "correctIndex": 0,
+    "explanationPt": "Superlativo: 'la plus grande'."
+  },
+  "quizQuestions": [
+    {
+      "question": "Combien d'étudiants suivent des cours à Toulouse ?",
+      "options": ["Plus de cent vingt mille", "Mille", "Dix mille", "Cinq cents"],
+      "correctIndex": 0,
+      "explanation": "Plus de cent vingt mille jeunes étudient à Toulouse."
+    },
+    {
+      "question": "Quel domaine domine les filières toulousaines ?",
+      "options": ["Les sciences et l'ingénierie", "La pêche", "La couture", "L'agriculture traditionnelle"],
+      "correctIndex": 0,
+      "explanation": "Aéronautique, informatique, robotique et biotechnologies dominent."
+    },
+    {
+      "question": "Que permet la formation continue ?",
+      "options": ["Évoluer et changer de métier", "Arrêter d'apprendre", "Voyager gratuitement", "Éviter le travail"],
+      "correctIndex": 0,
+      "explanation": "La formation continue permet l'évolution et la reconversion professionnelle."
+    }
+  ]
+}

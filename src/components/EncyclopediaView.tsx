@@ -51,6 +51,14 @@ import bordeauxGuide05 from '../data/city_guides/bordeaux_guide_05.json';
 import bordeauxGuide06 from '../data/city_guides/bordeaux_guide_06.json';
 import bordeauxGuide07 from '../data/city_guides/bordeaux_guide_07.json';
 import bordeauxGuide08 from '../data/city_guides/bordeaux_guide_08.json';
+import toulouseGuide01 from '../data/city_guides/toulouse_guide_01.json';
+import toulouseGuide02 from '../data/city_guides/toulouse_guide_02.json';
+import toulouseGuide03 from '../data/city_guides/toulouse_guide_03.json';
+import toulouseGuide04 from '../data/city_guides/toulouse_guide_04.json';
+import toulouseGuide05 from '../data/city_guides/toulouse_guide_05.json';
+import toulouseGuide06 from '../data/city_guides/toulouse_guide_06.json';
+import toulouseGuide07 from '../data/city_guides/toulouse_guide_07.json';
+import toulouseGuide08 from '../data/city_guides/toulouse_guide_08.json';
 
 interface EncyclopediaViewProps {
   progress: UserMapProgress;
@@ -118,6 +126,16 @@ const CITY_GUIDES: Record<string, Array<Record<string, unknown>>> = {
     bordeauxGuide06 as unknown as Record<string, unknown>,
     bordeauxGuide07 as unknown as Record<string, unknown>,
     bordeauxGuide08 as unknown as Record<string, unknown>,
+  ],
+  toulouse: [
+    toulouseGuide01 as unknown as Record<string, unknown>,
+    toulouseGuide02 as unknown as Record<string, unknown>,
+    toulouseGuide03 as unknown as Record<string, unknown>,
+    toulouseGuide04 as unknown as Record<string, unknown>,
+    toulouseGuide05 as unknown as Record<string, unknown>,
+    toulouseGuide06 as unknown as Record<string, unknown>,
+    toulouseGuide07 as unknown as Record<string, unknown>,
+    toulouseGuide08 as unknown as Record<string, unknown>,
   ],
 };
 

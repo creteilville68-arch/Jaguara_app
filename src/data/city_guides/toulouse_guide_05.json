@@ -1,0 +1,153 @@
+{
+  "id": "toulouse_guide_05",
+  "cityId": "toulouse",
+  "domain": "Gastronomia",
+  "level": "Misto (A1–C2)",
+  "titleFr": "La cuisine du Sud-Ouest : cassoulet et violettes",
+  "titlePt": "A cozinha do Sudoeste: cassoulet e violetas",
+  "subtitleFr": "Saveurs généreuses et marchés gourmands",
+  "subtitlePt": "Sabores generosos e mercados gastronômicos",
+  "summaryPt": "Enciclopédia de Toulouse, seção 5: a gastronomia do sudoeste — o cassoulet, a salsicha, a violeta e os mercados. Vocabulário de cozinha e sabores, com níveis mistos.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Le cassoulet est le plat roi de la région. Ce ragoût de haricots blancs, de saucisse et de confit d'oie cuit lentement, pendant des heures, dans un plat en terre. Chaque ville du Sud-Ouest revendique sa recette, et les débats sont passionnés : à Toulouse, on y ajoute de la saucisse, et l'on ne discute pas.",
+      "pt": "O cassoulet é o prato rei da região. Esse cozido de feijão branco, salsicha e confit de ganso cozinha lentamente, durante horas, num prato de barro. Cada cidade do Sudoeste reivindica sua receita, e os debates são apaixonados: em Toulouse, acrescenta-se salsicha, e não se discute."
+    },
+    {
+      "id": 2,
+      "fr": "La saucisse de Toulouse est une institution. Faite de porc, poivrée et grossièrement hachée, elle se grille, se mijote ou se cuit au four. Les charcutiers la préparent encore à la main, avec un savoir-faire transmis de génération en génération.",
+      "pt": "A salsicha de Toulouse é uma instituição. Feita de porco, apimentada e grosseiramente picada, grelha-se, cozinha-se em fogo brando ou assa-se no forno. Os açougueiros ainda a preparam à mão, com um saber-fazer transmitido de geração em geração."
+    },
+    {
+      "id": 3,
+      "fr": "Les marchés toulousains sont une fête pour les sens. Les étals débordent de fruits, de légumes, de fromages et de pain frais. Les producteurs vantent leurs produits avec passion, et les clients goûtent, comparent et choisissent. Le marché est aussi un lieu de rencontre, où l'on échange les nouvelles du quartier.",
+      "pt": "Os mercados toulousains são uma festa para os sentidos. As bancas transbordam de frutas, legumes, queijos e pão fresco. Os produtores elogiam seus produtos com paixão, e os clientes provam, comparam e escolhem. O mercado é também um lugar de encontro, onde se trocam as notícias do bairro."
+    },
+    {
+      "id": 4,
+      "fr": "La violette de Toulouse parfume les desserts, les bonbons et les sirops. Les confiseurs la travaillent avec délicatesse pour préserver son arôme subtil. Les visiteurs rapportent souvent un pot de bonbons à la violette comme souvenir, un goût délicat que l'on n'oublie pas.",
+      "pt": "A violeta de Toulouse perfuma as sobremesas, os doces e os xaropes. Os confeiteiros a trabalham com delicadeza para preservar seu aroma sutil. Os visitantes costumam levar um pote de doces de violeta como lembrança, um gosto delicado que não se esquece."
+    },
+    {
+      "id": 5,
+      "fr": "Le Sud-Ouest est aussi la terre du foie gras, du magret et de l'armagnac. Les restaurants proposent des menus généreux, et les chefs revisitent les traditions avec créativité. Les critiques gastronomiques reconnaissent la qualité des tables toulousaines, entre tradition et audace.",
+      "pt": "O Sudoeste é também a terra do foie gras, do magret e do armagnac. Os restaurantes oferecem menus generosos, e os chefs revisitam as tradições com criatividade. Os críticos gastronômicos reconhecem a qualidade das mesas toulousaines, entre tradição e ousadia."
+    },
+    {
+      "id": 6,
+      "fr": "Enfin, la cuisine toulousaine est une cuisine de partage. Les repas de famille durent des heures, les amis se retrouvent autour d'une table généreuse, et les recettes se transmettent comme des trésors. Bien manger ici n'est pas un luxe : c'est une manière d'aimer la vie.",
+      "pt": "Por fim, a cozinha toulousaine é uma cozinha de partilha. As refeições em família duram horas, os amigos se reúnem em torno de uma mesa generosa, e as receitas se transmitem como tesouros. Comer bem aqui não é luxo: é uma maneira de amar a vida."
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "revendiquer",
+      "definitionPt": "reivindicar",
+      "definitionFr": "Réclamer pour soi, affirmer haut et fort.",
+      "inflections": ["revendiquer", "revendique", "revendiqué"],
+      "ptTargets": ["reivindicar", "reclamar"],
+      "examples": [
+        { "level": "A1", "fr": "Elle revendique son droit.", "pt": "Ela reivindica seu direito." },
+        { "level": "A2-B1", "fr": "Chaque ville revendique sa recette de cassoulet.", "pt": "Cada cidade reivindica sua receita de cassoulet." },
+        { "level": "B2", "fr": "Revendiquer ses origines, c'est les assumer.", "pt": "Reivindicar as origens é assumi-las." },
+        { "level": "C1-C2", "fr": "Revendiquer, c'est donner une voix à ce qui nous importe.", "pt": "Reivindicar é dar voz ao que nos importa." }
+      ]
+    },
+    {
+      "term": "hacher",
+      "definitionPt": "picar; moer",
+      "definitionFr": "Couper en petits morceaux.",
+      "inflections": ["hacher", "hache", "haché"],
+      "ptTargets": ["picar", "moer", "triturar"],
+      "examples": [
+        { "level": "A1", "fr": "Je hache l'oignon.", "pt": "Eu pico a cebola." },
+        { "level": "A2-B1", "fr": "La saucisse est grossièrement hachée.", "pt": "A salsicha é grosseiramente picada." },
+        { "level": "B2", "fr": "Hacher finement change le goût d'un plat.", "pt": "Picar finamente muda o gosto de um prato." },
+        { "level": "C1-C2", "fr": "Hacher, c'est réduire le monde aux dimensions d'une recette.", "pt": "Picar é reduzir o mundo às dimensões de uma receita." }
+      ]
+    },
+    {
+      "term": "l'étal",
+      "definitionPt": "a banca (de mercado)",
+      "definitionFr": "Table où l'on expose les marchandises dans un marché.",
+      "inflections": ["l'étal", "les étals"],
+      "ptTargets": ["banca", "barraca", "banquinha"],
+      "examples": [
+        { "level": "A1", "fr": "L'étal est plein de fruits.", "pt": "A banca está cheia de frutas." },
+        { "level": "A2-B1", "fr": "Les étals débordent de produits frais.", "pt": "As bancas transbordam de produtos frescos." },
+        { "level": "B2", "fr": "Un bon étal est une invitation à la gourmandise.", "pt": "Uma boa banca é um convite à gula." },
+        { "level": "C1-C2", "fr": "Derrière chaque étal se cache une histoire de famille.", "pt": "Atrás de cada banca se esconde uma história de família." }
+      ]
+    },
+    {
+      "term": "préserver",
+      "definitionPt": "preservar",
+      "definitionFr": "Garder intact, protéger.",
+      "inflections": ["préserver", "préserve", "préservé"],
+      "ptTargets": ["preservar", "proteger"],
+      "examples": [
+        { "level": "A1", "fr": "Nous préservons la nature.", "pt": "Nós preservamos a natureza." },
+        { "level": "A2-B1", "fr": "Les confiseurs préservent l'arôme de la violette.", "pt": "Os confeiteiros preservam o aroma da violeta." },
+        { "level": "B2", "fr": "Préserver ses traditions, c'est se souvenir de qui l'on est.", "pt": "Preservar as tradições é lembrar quem se é." },
+        { "level": "C1-C2", "fr": "On ne préserve que ce que l'on a appris à aimer.", "pt": "Só se preserva o que se aprendeu a amar." }
+      ]
+    },
+    {
+      "term": "le savoir-faire",
+      "definitionPt": "o saber-fazer; a perícia",
+      "definitionFr": "Compétence technique acquise par l'expérience.",
+      "inflections": ["le savoir-faire", "les savoir-faire"],
+      "ptTargets": ["saber-fazer", "perícia", "habilidade"],
+      "examples": [
+        { "level": "A1", "fr": "Le savoir-faire est précieux.", "pt": "O saber-fazer é precioso." },
+        { "level": "A2-B1", "fr": "Les charcutiers préparent la saucisse avec savoir-faire.", "pt": "Os açougueiros preparam a salsicha com perícia." },
+        { "level": "B2", "fr": "Le savoir-faire se transmet par les mains, pas par les livres.", "pt": "O saber-fazer se transmite pelas mãos, não pelos livros." },
+        { "level": "C1-C2", "fr": "Le savoir-faire est une mémoire qui ne s'écrit nulle part.", "pt": "O saber-fazer é uma memória que não se escreve em lugar nenhum." }
+      ]
+    },
+    {
+      "term": "transmettre",
+      "definitionPt": "transmitir",
+      "definitionFr": "Faire passer à la génération suivante.",
+      "inflections": ["transmettre", "transmet", "transmis"],
+      "ptTargets": ["transmitir", "passar adiante"],
+      "examples": [
+        { "level": "A1", "fr": "Je transmets le message.", "pt": "Eu transmito a mensagem." },
+        { "level": "A2-B1", "fr": "Les recettes se transmettent comme des trésors.", "pt": "As receitas se transmitem como tesouros." },
+        { "level": "B2", "fr": "Transmettre, c'est donner deux fois.", "pt": "Transmitir é dar duas vezes." },
+        { "level": "C1-C2", "fr": "Ce que l'on transmet avec amour ne se perd jamais tout à fait.", "pt": "O que se transmite com amor nunca se perde de todo." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "O pronome 'on' nas receitas e tradições",
+    "explanationPt": "As tradições culinárias usam 'on' para falar de forma impessoal: on y ajoute de la saucisse (acrescenta-se), l'on ne discute pas (não se discute). Também a voz passiva: la saucisse se grille (grelha-se).",
+    "exampleFr": "On ajoute de la saucisse, l'on mijote à feu doux, et l'on partage autour de la table.",
+    "examplePt": "Acrescenta-se salsicha, cozinha-se em fogo brando e partilha-se em volta da mesa.",
+    "practiceQuestion": "Complete: « À Toulouse, on ___ de la saucisse au cassoulet. »",
+    "options": ["ajoute", "ajoutent", "ajouter", "ajouté"],
+    "correctIndex": 0,
+    "explanationPt": "Com 'on', verbo na 3ª pessoa do singular: 'on ajoute'."
+  },
+  "quizQuestions": [
+    {
+      "question": "Quel est le plat roi de la région ?",
+      "options": ["Le cassoulet", "La choucroute", "La bouillabaisse", "Le kouign-amann"],
+      "correctIndex": 0,
+      "explanation": "Le cassoulet, à base de haricots, de saucisse et de confit, est le plat roi."
+    },
+    {
+      "question": "Que fait-on avec la violette de Toulouse ?",
+      "options": ["Des bonbons, des sirops et des parfums", "Du carburant", "Des médicaments seulement", "Des tissus"],
+      "correctIndex": 0,
+      "explanation": "La violette parfume les desserts, les bonbons et les sirops."
+    },
+    {
+      "question": "Comment est préparée la saucisse de Toulouse ?",
+      "options": ["À la main, avec un savoir-faire transmis", "Dans des usines automatiques", "Avec du poisson", "Sans aucun assaisonnement"],
+      "correctIndex": 0,
+      "explanation": "Les charcutiers la préparent à la main, avec un savoir-faire transmis."
+    }
+  ]
+}

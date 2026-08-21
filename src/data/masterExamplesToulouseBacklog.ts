@@ -149,4 +149,34 @@ export const TOULOUSE_BACKLOG_EXAMPLES: Record<string, MasterExample[]> = {
     { level: 'B2', fr: 'La synthèse rassemble les indices sans effacer leurs différences.', pt: 'A síntese reúne as pistas sem apagar suas diferenças.' },
     { level: 'C1-C2', fr: 'Une synthèse rigoureuse distingue les faits, les hypothèses et les conséquences.', pt: 'Uma síntese rigorosa distingue os fatos, as hipóteses e as consequências.' },
   ],
+  progrès: [
+    { level: 'A1', fr: 'Le progrès est rapide.', pt: 'O progresso é rápido.' },
+    { level: 'A2-B1', fr: 'Malgré les progrès, le temps garde une part d’imprévu.', pt: 'Apesar dos progressos, o tempo guarda uma parte de imprevisto.' },
+    { level: 'B2', fr: 'Le progrès technique soulève des questions que nous devons affronter.', pt: 'O progresso técnico levanta perguntas que precisamos enfrentar.' },
+    { level: 'C1-C2', fr: 'Le progrès véritable ne se mesure pas à la vitesse, mais à la direction.', pt: 'O progresso verdadeiro não se mede pela velocidade, mas pela direção.' },
+  ],
+  créativité: [
+    { level: 'A1', fr: 'La créativité est un don.', pt: 'A criatividade é um dom.' },
+    { level: 'A2-B1', fr: 'Les chefs revisitent les traditions avec créativité.', pt: 'Os chefs revisitam as tradições com criatividade.' },
+    { level: 'B2', fr: 'La créativité naît souvent de la contrainte.', pt: 'A criatividade nasce muitas vezes da restrição.' },
+    { level: 'C1-C2', fr: 'La créativité est la capacité de voir un autre monde dans celui-ci.', pt: 'A criatividade é a capacidade de ver outro mundo dentro deste.' },
+  ],
+  thèse: [
+    { level: 'A1', fr: 'La thèse est longue.', pt: 'A tese é longa.' },
+    { level: 'A2-B1', fr: 'La soutenance de thèse est un moment décisif.', pt: 'A defesa de tese é um momento decisivo.' },
+    { level: 'B2', fr: 'Une thèse demande des années de travail solitaire et de dialogue.', pt: 'Uma tese exige anos de trabalho solitário e de diálogo.' },
+    { level: 'C1-C2', fr: 'La thèse est une conversation de plusieurs années avec une seule question.', pt: 'A tese é uma conversa de vários anos com uma única pergunta.' },
+  ],
+  réservations: [
+    { level: 'A1', fr: 'Les réservations sont ouvertes.', pt: 'As reservas estão abertas.' },
+    { level: 'A2-B1', fr: 'Les services en ligne simplifient les réservations.', pt: 'Os serviços online simplificam as reservas.' },
+    { level: 'B2', fr: 'Des réservations bien préparées évitent les mauvaises surprises.', pt: 'Reservas bem preparadas evitam surpresas desagradáveis.' },
+    { level: 'C1-C2', fr: 'Chaque réservation est une promesse que l’on se fait à soi-même.', pt: 'Cada reserva é uma promessa que fazemos a nós mesmos.' },
+  ],
+  conférences: [
+    { level: 'A1', fr: 'Les conférences commencent à neuf heures.', pt: 'As conferências começam às nove horas.' },
+    { level: 'A2-B1', fr: 'Des conférences permettent à chacun de poser des questions.', pt: 'Conferências permitem que cada um faça perguntas.' },
+    { level: 'B2', fr: 'Les conférences scientifiques ouvrent le débat au public.', pt: 'As conferências científicas abrem o debate ao público.' },
+    { level: 'C1-C2', fr: 'Une bonne conférence transforme un auditoire passif en conversation.', pt: 'Uma boa conferência transforma um público passivo em conversa.' },
+  ],
 };

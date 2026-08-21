@@ -1,0 +1,153 @@
+{
+  "id": "toulouse_guide_02",
+  "cityId": "toulouse",
+  "domain": "Aeroespacial",
+  "level": "Misto (A1–C2)",
+  "titleFr": "La capitale de l'aéronautique : le ciel de Toulouse",
+  "titlePt": "A capital da aeronáutica: o céu de Toulouse",
+  "subtitleFr": "De l'usine Airbus à la cité de l'espace",
+  "subtitlePt": "Da fábrica Airbus à cidade do espaço",
+  "summaryPt": "Enciclopédia de Toulouse, seção 2: a indústria aeroespacial — a Airbus, a cidade do espaço e a revolução do transporte aéreo. Vocabulário de indústria e tecnologia, com níveis mistos.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Toulouse est le berceau de l'aviation européenne. C'est ici que naquit l'A380, le plus grand avion de ligne du monde, avant que le programme ne soit transformé. Les usines d'assemblage s'étendent sur des dizaines d'hectares, et chaque avion est assemblé pièce par pièce, comme un immense puzzle.",
+      "pt": "Toulouse é o berço da aviação europeia. É aqui que nasceu o A380, o maior avião de passageiros do mundo, antes que o programa fosse transformado. As fábricas de montagem se estendem por dezenas de hectares, e cada avião é montado peça por peça, como um imenso quebra-cabeça."
+    },
+    {
+      "id": 2,
+      "fr": "Les ingénieurs toulousains conçoivent les avions du futur. Ils améliorent sans cesse les moteurs, réduisent la consommation et développent des matériaux plus légers. La recherche aéronautique mobilise des milliers de chercheurs, qui testent leurs idées dans des souffleries et des simulateurs.",
+      "pt": "Os engenheiros toulousains projetam os aviões do futuro. Melhoram sem parar os motores, reduzem o consumo e desenvolvem materiais mais leves. A pesquisa aeronáutica mobiliza milhares de pesquisadores, que testam suas ideias em túneis de vento e simuladores."
+    },
+    {
+      "id": 3,
+      "fr": "La cité de l'espace est un parc de découverte unique en Europe. Les visiteurs y découvrent une réplique grandeur nature de la fusée Ariane, des maquettes de satellites et des simulateurs de vol. Les enfants rêvent d'astronaute, les parents redécouvrent leur curiosité d'enfance.",
+      "pt": "A cidade do espaço é um parque de descoberta único na Europa. Os visitantes encontram ali uma réplica em tamanho real do foguete Ariane, maquetes de satélites e simuladores de voo. As crianças sonham em ser astronautas, os pais redescobrem sua curiosidade de infância."
+    },
+    {
+      "id": 4,
+      "fr": "Le secteur spatial occupe une place immense dans l'économie locale. Des milliers de personnes travaillent pour les agences et les entreprises qui construisent des satellites, des sondes et des télescopes. Chaque projet dure des années et demande une coordination parfaite entre les équipes.",
+      "pt": "O setor espacial ocupa um lugar imenso na economia local. Milhares de pessoas trabalham para as agências e empresas que constroem satélites, sondas e telescópios. Cada projeto dura anos e exige uma coordenação perfeita entre as equipes."
+    },
+    {
+      "id": 5,
+      "fr": "L'avion gros-porteur a révolutionné les voyages. Grâce à lui, des millions de passagers traversent les océans chaque jour. Toulouse, qui a participé à cette révolution, attire des visiteurs du monde entier, fascinés par ces machines qui défient la gravité.",
+      "pt": "O avião de grande porte revolucionou as viagens. Graças a ele, milhões de passageiros atravessam os oceanos todos os dias. Toulouse, que participou dessa revolução, atrai visitantes do mundo inteiro, fascinados por essas máquinas que desafiam a gravidade."
+    },
+    {
+      "id": 6,
+      "fr": "L'avenir de l'aéronautique se prépare ici : avions électriques, carburants verts, vols supersoniques. Les laboratoires testent, les ingénieurs dessinent, les étudiants se forment. Chaque génération repousse les limites du ciel, et Toulouse reste au cœur de cette aventure.",
+      "pt": "O futuro da aeronáutica se prepara aqui: aviões elétricos, combustíveis verdes, voos supersônicos. Os laboratórios testam, os engenheiros desenham, os estudantes se formam. Cada geração empurra os limites do céu, e Toulouse permanece no coração dessa aventura."
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "assembler",
+      "definitionPt": "montar; reunir",
+      "definitionFr": "Réunir des pièces pour former un ensemble.",
+      "inflections": ["assembler", "assemble", "assemblé"],
+      "ptTargets": ["montar", "reunir", "juntar"],
+      "examples": [
+        { "level": "A1", "fr": "J'assemble les pièces.", "pt": "Eu monto as peças." },
+        { "level": "A2-B1", "fr": "Chaque avion est assemblé pièce par pièce.", "pt": "Cada avião é montado peça por peça." },
+        { "level": "B2", "fr": "Assembler des idées, c'est construire une pensée.", "pt": "Reunir ideias é construir um pensamento." },
+        { "level": "C1-C2", "fr": "Assembler, c'est donner une forme à l'invisible.", "pt": "Montar é dar forma ao invisível." }
+      ]
+    },
+    {
+      "term": "concevoir",
+      "definitionPt": "conceber; projetar",
+      "definitionFr": "Imaginer, créer un projet ou un objet.",
+      "inflections": ["concevoir", "conçoit", "conçu"],
+      "ptTargets": ["conceber", "projetar", "criar"],
+      "examples": [
+        { "level": "A1", "fr": "Ils conçoivent une voiture.", "pt": "Eles projetam um carro." },
+        { "level": "A2-B1", "fr": "Les ingénieurs conçoivent les avions du futur.", "pt": "Os engenheiros projetam os aviões do futuro." },
+        { "level": "B2", "fr": "Concevoir un projet, c'est d'abord le rêver.", "pt": "Conceber um projeto é primeiro sonhá-lo." },
+        { "level": "C1-C2", "fr": "Concevoir, c'est transformer l'imagination en architecture.", "pt": "Conceber é transformar a imaginação em arquitetura." }
+      ]
+    },
+    {
+      "term": "améliorer",
+      "definitionPt": "melhorar",
+      "definitionFr": "Rendre meilleur, perfectionner.",
+      "inflections": ["améliorer", "améliore", "amélioré"],
+      "ptTargets": ["melhorar", "aperfeiçoar"],
+      "examples": [
+        { "level": "A1", "fr": "J'améliore mon français.", "pt": "Eu melhoro meu francês." },
+        { "level": "A2-B1", "fr": "Les ingénieurs améliorent sans cesse les moteurs.", "pt": "Os engenheiros melhoram sem parar os motores." },
+        { "level": "B2", "fr": "Améliorer, c'est accepter que rien n'est jamais fini.", "pt": "Melhorar é aceitar que nada está nunca pronto." },
+        { "level": "C1-C2", "fr": "On améliore le monde en améliorant d'abord ses gestes.", "pt": "Melhoramos o mundo melhorando primeiro nossos gestos." }
+      ]
+    },
+    {
+      "term": "la fusée",
+      "definitionPt": "o foguete",
+      "definitionFr": "Véhicule propulsé qui permet d'aller dans l'espace.",
+      "inflections": ["la fusée", "les fusées"],
+      "ptTargets": ["foguete", "foguete espacial"],
+      "examples": [
+        { "level": "A1", "fr": "La fusée part dans le ciel.", "pt": "O foguete parte para o céu." },
+        { "level": "A2-B1", "fr": "Une réplique de la fusée Ariane trône au parc.", "pt": "Uma réplica do foguete Ariane domina o parque." },
+        { "level": "B2", "fr": "La fusée est le symbole de la curiosité humaine.", "pt": "O foguete é o símbolo da curiosidade humana." },
+        { "level": "C1-C2", "fr": "Chaque fusée porte en elle des années de rêves et de calculs.", "pt": "Cada foguete carrega anos de sonhos e cálculos." }
+      ]
+    },
+    {
+      "term": "révolutionner",
+      "definitionPt": "revolucionar",
+      "definitionFr": "Transformer radicalement quelque chose.",
+      "inflections": ["révolutionner", "révolutionne", "révolutionné"],
+      "ptTargets": ["revolucionar", "transformar radicalmente"],
+      "examples": [
+        { "level": "A1", "fr": "La voiture a révolutionné la ville.", "pt": "O carro revolucionou a cidade." },
+        { "level": "A2-B1", "fr": "L'avion gros-porteur a révolutionné les voyages.", "pt": "O avião de grande porte revolucionou as viagens." },
+        { "level": "B2", "fr": "Révolutionner un secteur, c'est changer des habitudes.", "pt": "Revolucionar um setor é mudar hábitos." },
+        { "level": "C1-C2", "fr": "Ce qui révolutionne le monde naît souvent d'une idée simple.", "pt": "O que revoluciona o mundo nasce muitas vezes de uma ideia simples." }
+      ]
+    },
+    {
+      "term": "repousser",
+      "definitionPt": "empurrar para longe; ampliar",
+      "definitionFr": "Éloigner, faire reculer une limite.",
+      "inflections": ["repousser", "repousse", "repoussé"],
+      "ptTargets": ["empurrar para longe", "ampliar", "expandir"],
+      "examples": [
+        { "level": "A1", "fr": "Il repousse la chaise.", "pt": "Ele afasta a cadeira." },
+        { "level": "A2-B1", "fr": "Chaque génération repousse les limites du ciel.", "pt": "Cada geração amplia os limites do céu." },
+        { "level": "B2", "fr": "Repousser ses limites demande du courage et de la méthode.", "pt": "Ampliar os próprios limites exige coragem e método." },
+        { "level": "C1-C2", "fr": "Repousser les frontières du possible est le métier des rêveurs appliqués.", "pt": "Ampliar as fronteiras do possível é o ofício dos sonhadores aplicados." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "A voz passiva na descrição técnica",
+    "explanationPt": "Na descrição de processos industriais, a voz passiva é frequente: l'avion est assemblé, les moteurs sont améliorés, les idées sont testées. O agente é introduzido por 'par' ou omitido.",
+    "exampleFr": "Chaque avion est assemblé pièce par pièce, puis testé pendant des semaines.",
+    "examplePt": "Cada avião é montado peça por peça e depois testado durante semanas.",
+    "practiceQuestion": "Complete: « Les moteurs ___ sans cesse par les ingénieurs. »",
+    "options": ["sont améliorés", "améliorent", "améliorés", "sont améliorer"],
+    "correctIndex": 0,
+    "explanationPt": "Voz passiva no presente: 'sont améliorés'."
+  },
+  "quizQuestions": [
+    {
+      "question": "Quel avion est né à Toulouse ?",
+      "options": ["L'A380", "Le Concorde uniquement", "Le Boeing 747", "L'Airbus A400M seulement"],
+      "correctIndex": 0,
+      "explanation": "L'A380, le plus grand avion de ligne du monde, est né à Toulouse."
+    },
+    {
+      "question": "Que peut-on voir à la cité de l'espace ?",
+      "options": ["Une réplique de la fusée Ariane", "Un aquarium géant", "Un parc d'attractions aquatiques", "Un zoo"],
+      "correctIndex": 0,
+      "explanation": "La cité de l'espace présente une réplique grandeur nature de la fusée Ariane."
+    },
+    {
+      "question": "Quel est l'avenir de l'aéronautique selon le texte ?",
+      "options": ["Avions électriques et carburants verts", "Retour aux montgolfières", "Suppression des avions", "Vols uniquement de nuit"],
+      "correctIndex": 0,
+      "explanation": "Les laboratoires préparent les avions électriques et les carburants verts."
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "id": "toulouse_guide_08",
+  "cityId": "toulouse",
+  "domain": "Sociedade",
+  "level": "Misto (A1–C2)",
+  "titleFr": "Science et société : le débat toulousain",
+  "titlePt": "Ciência e sociedade: o debate toulousain",
+  "subtitleFr": "Progrès, controverse et vie démocratique",
+  "subtitlePt": "Progresso, controvérsia e vida democrática",
+  "summaryPt": "Enciclopédia de Toulouse, seção 8: o diálogo entre ciência e sociedade — o progresso, as controvérsias, o debate público e a participação cidadã. Vocabulário de sociedade e debate, com níveis mistos.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Toulouse est un lieu où la science et la société dialoguent. Les citoyens s'intéressent aux grands enjeux : climat, énergie, intelligence artificielle. Des conférences, des débats et des cafés scientifiques permettent à chacun de poser des questions et de confronter les opinions.",
+      "pt": "Toulouse é um lugar onde a ciência e a sociedade dialogam. Os cidadãos se interessam pelos grandes temas: clima, energia, inteligência artificial. Conferências, debates e cafés científicos permitem que cada um faça perguntas e confronte as opiniões."
+    },
+    {
+      "id": 2,
+      "fr": "Le progrès technique soulève des controverses légitimes. Certains s'inquiètent des robots, d'autres voient en eux des alliés. Les scientifiques défendent leurs travaux, les critiques interrogent leurs conséquences. Cette polémique, loin d'être un défaut, est le signe d'une société vivante qui réfléchit.",
+      "pt": "O progresso técnico levanta controvérsias legítimas. Alguns se preocupam com os robôs, outros veem neles aliados. Os cientistas defendem seus trabalhos, os críticos interrogam suas consequências. Essa polêmica, longe de ser um defeito, é o sinal de uma sociedade viva que reflete."
+    },
+    {
+      "id": 3,
+      "fr": "La tolérance est une valeur centrale. À Toulouse, les cultures se mélangent : quartiers cosmopolites, festivals internationaux, cuisines du monde entier. Les habitants apprennent à vivre ensemble, à écouter les différences et à trouver des compromis. Cette diversité est une richesse, pas une menace.",
+      "pt": "A tolerância é um valor central. Em Toulouse, as culturas se misturam: bairros cosmopolitas, festivais internacionais, cozinhas do mundo inteiro. Os moradores aprendem a viver juntos, a escutar as diferenças e a encontrar compromissos. Essa diversidade é uma riqueza, não uma ameaça."
+    },
+    {
+      "id": 4,
+      "fr": "La participation citoyenne est encouragée. Les habitants sont consultés sur les grands projets : tramway, parcs, logements. Des réunions publiques présentent les dossiers, et les avis sont pris en compte. La consultation publique transforme les habitants en acteurs de leur ville.",
+      "pt": "A participação cidadã é incentivada. Os moradores são consultados sobre os grandes projetos: bonde, parques, moradias. Reuniões públicas apresentam os dossiês, e as opiniões são levadas em conta. A consulta pública transforma os moradores em atores de sua cidade."
+    },
+    {
+      "id": 5,
+      "fr": "Les inégalités restent un défi. La ville lutte contre l'exclusion sociale et la fracture numérique, soutient les quartiers difficiles et finance des programmes d'aide. La cohésion sociale se construit dans les écoles, les associations et les services publics, jour après jour.",
+      "pt": "As desigualdades continuam um desafio. A cidade luta contra a exclusão social e a exclusão digital, apoia os bairros difíceis e financia programas de ajuda. A coesão social se constrói nas escolas, nas associações e nos serviços públicos, dia após dia."
+    },
+    {
+      "id": 6,
+      "fr": "Enfin, les Toulousains savent que la démocratie demande de l'attention. Ils vérifient les informations, questionnent les certitudes et s'engagent dans les associations. La mobilisation des bénévoles, des militants et des simples citoyens fait de Toulouse une ville où l'on ne se contente pas de regarder passer le monde.",
+      "pt": "Por fim, os toulousains sabem que a democracia exige atenção. Eles verificam as informações, questionam as certezas e se engajam nas associações. A mobilização de voluntários, militantes e simples cidadãos faz de Toulouse uma cidade onde não se contentam em ver o mundo passar."
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "confronter",
+      "definitionPt": "confrontar; contrapor",
+      "definitionFr": "Mettre en face, comparer, opposer.",
+      "inflections": ["confronter", "confronte", "confronté"],
+      "ptTargets": ["confrontar", "contrapor", "comparar"],
+      "examples": [
+        { "level": "A1", "fr": "Je confronte les deux idées.", "pt": "Eu confronto as duas ideias." },
+        { "level": "A2-B1", "fr": "Les débats permettent de confronter les opinions.", "pt": "Os debates permitem confrontar as opiniões." },
+        { "level": "B2", "fr": "Confrontrer ses idées à celles des autres, c'est grandir.", "pt": "Confrontar as próprias ideias com as dos outros é crescer." },
+        { "level": "C1-C2", "fr": "On ne confronte jamais impunément ses rêves à la réalité.", "pt": "Nunca se confrontam impunemente os sonhos com a realidade." }
+      ]
+    },
+    {
+      "term": "la controverse",
+      "definitionPt": "a controvérsia",
+      "definitionFr": "Débat vif autour d'une question controversée.",
+      "inflections": ["la controverse", "les controverses"],
+      "ptTargets": ["controvérsia", "polêmica"],
+      "examples": [
+        { "level": "A1", "fr": "La controverse est vive.", "pt": "A controvérsia é viva." },
+        { "level": "A2-B1", "fr": "Le progrès technique soulève des controverses.", "pt": "O progresso técnico levanta controvérsias." },
+        { "level": "B2", "fr": "Une controverse bien menée fait avancer la réflexion.", "pt": "Uma controvérsia bem conduzida faz avançar a reflexão." },
+        { "level": "C1-C2", "fr": "La controverse est le bruit que fait la vérité en se cherchant.", "pt": "A controvérsia é o barulho que a verdade faz ao se procurar." }
+      ]
+    },
+    {
+      "term": "la polémique",
+      "definitionPt": "a polêmica",
+      "definitionFr": "Débat vif et public autour d'un sujet.",
+      "inflections": ["la polémique", "les polémiques"],
+      "ptTargets": ["polêmica"],
+      "examples": [
+        { "level": "A1", "fr": "La polémique grandit.", "pt": "A polêmica cresce." },
+        { "level": "A2-B1", "fr": "Cette polémique est le signe d'une société vivante.", "pt": "Essa polêmica é o sinal de uma sociedade viva." },
+        { "level": "B2", "fr": "Une polémique éclairée vaut mieux qu'un silence confortable.", "pt": "Uma polêmica esclarecida vale mais que um silêncio confortável." },
+        { "level": "C1-C2", "fr": "La polémique est une conversation qui a perdu sa douceur, pas son utilité.", "pt": "A polêmica é uma conversa que perdeu a doçura, não a utilidade." }
+      ]
+    },
+    {
+      "term": "la consultation publique",
+      "definitionPt": "a consulta pública",
+      "definitionFr": "Procédure qui demande l'avis des citoyens sur un projet.",
+      "inflections": ["la consultation publique", "les consultations publiques"],
+      "ptTargets": ["consulta pública"],
+      "examples": [
+        { "level": "A1", "fr": "La consultation commence.", "pt": "A consulta começa." },
+        { "level": "A2-B1", "fr": "La consultation publique écoute les habitants.", "pt": "A consulta pública escuta os moradores." },
+        { "level": "B2", "fr": "Une consultation publique sincère renforce la confiance.", "pt": "Uma consulta pública sincera reforça a confiança." },
+        { "level": "C1-C2", "fr": "La consultation publique est une main tendue entre la ville et ses citoyens.", "pt": "A consulta pública é uma mão estendida entre a cidade e seus cidadãos." }
+      ]
+    },
+    {
+      "term": "la cohésion sociale",
+      "definitionPt": "a coesão social",
+      "definitionFr": "Lien qui unit les membres d'une société.",
+      "inflections": ["la cohésion sociale", "renforcer la cohésion sociale"],
+      "ptTargets": ["coesão social"],
+      "examples": [
+        { "level": "A1", "fr": "La cohésion sociale est importante.", "pt": "A coesão social é importante." },
+        { "level": "A2-B1", "fr": "La cohésion sociale se construit dans les écoles.", "pt": "A coesão social se constrói nas escolas." },
+        { "level": "B2", "fr": "La cohésion sociale est le ciment invisible d'une ville.", "pt": "A coesão social é o cimento invisível de uma cidade." },
+        { "level": "C1-C2", "fr": "La cohésion sociale se mesure aux liens, pas aux richesses.", "pt": "A coesão social se mede pelos laços, não pelas riquezas." }
+      ]
+    },
+    {
+      "term": "la mobilisation",
+      "definitionPt": "a mobilização",
+      "definitionFr": "Action de rassembler des personnes autour d'une cause.",
+      "inflections": ["la mobilisation", "les mobilisations"],
+      "ptTargets": ["mobilização"],
+      "examples": [
+        { "level": "A1", "fr": "La mobilisation est forte.", "pt": "A mobilização é forte." },
+        { "level": "A2-B1", "fr": "La mobilisation des bénévoles fait vivre la ville.", "pt": "A mobilização dos voluntários faz a cidade viver." },
+        { "level": "B2", "fr": "Une mobilisation réussie commence par une conviction partagée.", "pt": "Uma mobilização bem-sucedida começa por uma convicção compartilhada." },
+        { "level": "C1-C2", "fr": "La mobilisation est la preuve que l'engagement transforme les silences en actions.", "pt": "A mobilização é a prova de que o engajamento transforma silêncios em ações." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "O subjuntivo após expressões de necessidade e opinião",
+    "explanationPt": "Após 'il est essentiel que', 'il faut que', 'pour que', usa-se o subjuntivo: il faut que chacun pose des questions, pour que personne ne soit laissé de côté.",
+    "exampleFr": "Il faut que chacun puisse s'exprimer, pour que la science reste au service de tous.",
+    "examplePt": "É preciso que cada um possa se expressar, para que a ciência continue a serviço de todos.",
+    "practiceQuestion": "Complete: « Il est essentiel que les citoyens ___ informés. »",
+    "options": ["soient", "sont", "seront", "être"],
+    "correctIndex": 0,
+    "explanationPt": "Subjuntivo de 'être' após 'il est essentiel que': 'soient'."
+  },
+  "quizQuestions": [
+    {
+      "question": "Pourquoi les controverses sont-elles utiles selon le texte ?",
+      "options": ["Elles sont le signe d'une société qui réfléchit", "Elles empêchent le progrès", "Elles divisent toujours", "Elles n'ont aucune utilité"],
+      "correctIndex": 0,
+      "explanation": "La polémique est le signe d'une société vivante qui réfléchit."
+    },
+    {
+      "question": "Quel est le rôle de la consultation publique ?",
+      "options": ["Écouter les habitants sur les grands projets", "Vendre des terrains", "Organiser des fêtes", "Contrôler les écoles"],
+      "correctIndex": 0,
+      "explanation": "La consultation publique demande l'avis des citoyens sur les projets."
+    },
+    {
+      "question": "Contre quoi la ville lutte-t-elle ?",
+      "options": ["L'exclusion sociale et la fracture numérique", "Les parcs et les jardins", "L'éducation", "Les associations"],
+      "correctIndex": 0,
+      "explanation": "La ville soutient les quartiers difficiles et finance des programmes d'aide."
+    }
+  ]
+}
