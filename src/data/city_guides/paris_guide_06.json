@@ -1,0 +1,161 @@
+{
+  "id": "paris_guide_06",
+  "cityId": "paris",
+  "domain": "Cotidiano",
+  "level": "Misto (A1–C2)",
+  "titleFr": "Le métro et les transports",
+  "titlePt": "O metrô e os transportes",
+  "subtitleFr": "Seize lignes, des correspondances et un art de vivre",
+  "subtitlePt": "Dezesseis linhas, baldeações e uma arte de viver",
+  "summaryPt": "Enciclopédia de Paris, seção 6: como os parisienses se deslocam. Vocabulário de transporte público, bilhetes e organização do trajeto.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Le métro parisien compte seize lignes et plus de trois cents stations. Certaines stations sont de véritables musées souterrains, avec leurs affiches Art nouveau et leurs couloirs voûtés. La première ligne, ouverte en 1900, reliait déjà la porte de Vincennes à la porte Maillot.",
+      "pt": "O metrô parisiense tem dezesseis linhas e mais de trezentas estações. Algumas estações são verdadeiros museus subterrâneos, com seus cartazes Art nouveau e seus corredores abobadados. A primeira linha, aberta em 1900, já ligava a porta de Vincennes à porta Maillot."
+    },
+    {
+      "id": 2,
+      "fr": "Pour traverser la grande couronne, les voyageurs utilisent le RER, qui relie le centre aux banlieues. Les correspondances entre le métro et le RER sont annoncées dans chaque station, et le réseau est pensé pour limiter les attentes. Aux heures de pointe, il faut parfois attendre la rame suivante.",
+      "pt": "Para atravessar a grande coroa, os viajantes usam o RER, que liga o centro aos subúrbios. As baldeações entre metrô e RER são anunciadas em cada estação, e a rede é pensada para limitar as esperas. Na hora do rush, às vezes é preciso esperar o próximo trem."
+    },
+    {
+      "id": 3,
+      "fr": "Le bus, le tramway et les pistes cyclables complètent l'offre. À vélo, on traverse Paris presque aussi vite qu'en métro, surtout le long des quais aménagés. Les trottinettes et les vélos partagés permettent de se connecter facilement au réseau au dernier moment.",
+      "pt": "O ônibus, o bonde e as ciclovias completam a oferta. De bicicleta, atravessa-se Paris quase tão rápido quanto de metrô, sobretudo ao longo dos cais reformados. As trotinetes e as bicicletas compartilhadas permitem conectar-se facilmente à rede no último momento."
+    },
+    {
+      "id": 4,
+      "fr": "Avant de partir, il faut choisir son titre de transport : un ticket à l'unité, un carnet, ou la carte sans contact rechargeable. Les voyageurs valident leur ticket au tourniquet, calculent leur trajet sur l'application, et vérifient le temps restant, souvent limité à quatre-vingt-dix minutes pour une correspondance.",
+      "pt": "Antes de sair, é preciso escolher seu título de transporte: um bilhete avulso, uma caderneta ou o cartão sem contato recarregável. Os viajantes validam o bilhete na catraca, calculam o trajeto no aplicativo e conferem o tempo restante, muitas vezes limitado a noventa minutos para uma baldeação."
+    },
+    {
+      "id": 5,
+      "fr": "Dans le bus, on attache sa ceinture si le siège en est équipé, on sonne avant d'arriver à l'arrêt et on laisse les personnes âgées s'asseoir. Ces petites attentions font partie de la politesse quotidienne, aussi importante que le billet lui-même.",
+      "pt": "No ônibus, afivelamos o cinto se o assento tiver, tocamos a campainha antes de chegar ao ponto e deixamos os idosos se sentarem. Essas pequenas atenções fazem parte da polidez cotidiana, tão importante quanto o próprio bilhete."
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "la correspondance",
+      "definitionPt": "a baldeação; a conexão (transporte)",
+      "definitionFr": "Le changement de ligne ou de moyen de transport pendant un trajet.",
+      "inflections": ["la correspondance", "les correspondances", "une correspondance directe"],
+      "ptTargets": ["baldeação", "conexão"],
+      "examples": [
+        { "level": "A1", "fr": "Il y a une correspondance à Châtelet.", "pt": "Há uma baldeação em Châtelet." },
+        { "level": "A2-B1", "fr": "La correspondance est annoncée dans le métro.", "pt": "A baldeação é anunciada no metrô." },
+        { "level": "B2", "fr": "Une correspondance bien planifiée réduit le temps de trajet.", "pt": "Uma baldeação bem planejada reduz o tempo de trajeto." },
+        { "level": "C1-C2", "fr": "Dans une grande ville, la correspondance est un art : chaque minute y compte.", "pt": "Numa grande cidade, a baldeação é uma arte: cada minuto conta." }
+      ]
+    },
+    {
+      "term": "le réseau",
+      "definitionPt": "a rede (de transportes)",
+      "definitionFr": "L'ensemble des lignes et des moyens de transport interconnectés.",
+      "inflections": ["le réseau", "les réseaux", "le réseau de métro"],
+      "ptTargets": ["rede"],
+      "examples": [
+        { "level": "A1", "fr": "Le réseau est très grand.", "pt": "A rede é muito grande." },
+        { "level": "A2-B1", "fr": "Le réseau de bus couvre toute la ville.", "pt": "A rede de ônibus cobre a cidade inteira." },
+        { "level": "B2", "fr": "Un bon réseau de transports facilite la vie de millions de personnes.", "pt": "Uma boa rede de transportes facilita a vida de milhões de pessoas." },
+        { "level": "C1-C2", "fr": "Le réseau est le système sanguin de la métropole : quand il ralentit, toute la ville respire moins vite.", "pt": "A rede é o sistema sanguíneo da metrópole: quando ela desacelera, a cidade inteira respira mais devagar." }
+      ]
+    },
+    {
+      "term": "la ligne",
+      "definitionPt": "a linha (de transporte)",
+      "definitionFr": "Le tracé régulier emprunté par un métro, un bus ou un tramway.",
+      "inflections": ["la ligne", "les lignes", "la ligne 1 du métro"],
+      "ptTargets": ["linha"],
+      "examples": [
+        { "level": "A1", "fr": "La ligne 1 va à La Défense.", "pt": "A linha 1 vai para La Défense." },
+        { "level": "A2-B1", "fr": "Je prends la ligne 4 tous les matins.", "pt": "Pego a linha 4 todas as manhãs." },
+        { "level": "B2", "fr": "Chaque ligne de métro a sa couleur et son histoire.", "pt": "Cada linha de metrô tem sua cor e sua história." },
+        { "level": "C1-C2", "fr": "Suivre une ligne jusqu'à son terminus, c'est explorer la ville dans toute sa diversité.", "pt": "Seguir uma linha até seu terminal é explorar a cidade em toda sua diversidade." }
+      ]
+    },
+    {
+      "term": "le terminus",
+      "definitionPt": "o terminal; o ponto final",
+      "definitionFr": "Le dernier arrêt d'une ligne de transport.",
+      "inflections": ["le terminus", "les terminus", "le terminus de la ligne"],
+      "ptTargets": ["terminal", "ponto final"],
+      "examples": [
+        { "level": "A1", "fr": "Le terminus est la dernière station.", "pt": "O terminal é a última estação." },
+        { "level": "A2-B1", "fr": "On descend au terminus.", "pt": "Descemos no terminal." },
+        { "level": "B2", "fr": "Au terminus, le conducteur retourne la rame pour repartir.", "pt": "No terminal, o maquinista vira o trem para voltar." },
+        { "level": "C1-C2", "fr": "Le terminus n'est pas une fin, c'est un point de bascule où tout recommence.", "pt": "O terminal não é um fim, é um ponto de virada onde tudo recomeça." }
+      ]
+    },
+    {
+      "term": "le ticket",
+      "definitionPt": "o bilhete (de transporte)",
+      "definitionFr": "Le titre de transport qui permet de prendre les transports.",
+      "inflections": ["le ticket", "les tickets", "le ticket de métro"],
+      "ptTargets": ["bilhete"],
+      "examples": [
+        { "level": "A1", "fr": "Le ticket coûte deux euros.", "pt": "O bilhete custa dois euros." },
+        { "level": "A2-B1", "fr": "J'achète un carnet de tickets.", "pt": "Compro uma caderneta de bilhetes." },
+        { "level": "B2", "fr": "Le ticket doit être validé avant d'entrer sur le quai.", "pt": "O bilhete deve ser validado antes de entrar na plataforma." },
+        { "level": "C1-C2", "fr": "Le ticket, si petit soit-il, est la clé qui ouvre toute la ville.", "pt": "O bilhete, por menor que seja, é a chave que abre a cidade inteira." }
+      ]
+    },
+    {
+      "term": "le guichet",
+      "definitionPt": "o guichê; o balcão de atendimento",
+      "definitionFr": "Le comptoir où l'on achète des billets ou où l'on reçoit des renseignements.",
+      "inflections": ["le guichet", "les guichets", "le guichet automatique"],
+      "ptTargets": ["guichê", "balcão"],
+      "examples": [
+        { "level": "A1", "fr": "Le guichet est fermé.", "pt": "O guichê está fechado." },
+        { "level": "A2-B1", "fr": "On achète les billets au guichet.", "pt": "Compramos os bilhetes no guichê." },
+        { "level": "B2", "fr": "Le guichet automatique fonctionne jour et nuit.", "pt": "O guichê automático funciona dia e noite." },
+        { "level": "C1-C2", "fr": "Derrière le guichet, l'agent connaît la ville comme sa poche et oriente les voyageurs perdus.", "pt": "Atrás do guichê, o atendente conhece a cidade como a palma da mão e orienta os viajantes perdidos." }
+      ]
+    },
+    {
+      "term": "le tramway",
+      "definitionPt": "o bonde; o elétrico",
+      "definitionFr": "Un transport en commun sur rails qui circule en surface.",
+      "inflections": ["le tramway", "les tramways", "la ligne de tramway"],
+      "ptTargets": ["bonde", "elétrico"],
+      "examples": [
+        { "level": "A1", "fr": "Le tramway passe devant la gare.", "pt": "O bonde passa em frente à estação." },
+        { "level": "A2-B1", "fr": "Le tramway est plus rapide que le bus.", "pt": "O bonde é mais rápido que o ônibus." },
+        { "level": "B2", "fr": "Les nouvelles lignes de tramway relient les banlieues entre elles.", "pt": "As novas linhas de bonde ligam os subúrbios entre si." },
+        { "level": "C1-C2", "fr": "Le tramway, silencieux et régulier, est devenu l'épine dorsale des déplacements de banlieue.", "pt": "O bonde, silencioso e regular, virou a espinha dorsal dos deslocamentos suburbanos." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "O imperativo com 'il faut'",
+    "explanationPt": "'Il faut + infinitivo' expressa obrigação impessoal: 'il faut choisir son ticket', 'il faut valider'. É a forma mais comum de dar instruções em textos de serviço.",
+    "exampleFr": "Il faut valider son ticket avant d'entrer sur le quai.",
+    "examplePt": "É preciso validar o bilhete antes de entrar na plataforma.",
+    "practiceQuestion": "Complete: « ___ sonner avant d'arriver à l'arrêt. »",
+    "options": ["Il faut", "Il faut de", "Nous fallons", "Il faut que"],
+    "correctIndex": 0,
+    "explanationPt": "'Il faut + infinitivo': 'il faut sonner'."
+  },
+  "quizQuestions": [
+    {
+      "question": "Combien de lignes compte le métro parisien ?",
+      "options": ["Seize", "Dix", "Vingt-cinq", "Cinq"],
+      "correctIndex": 0,
+      "explanation": "Le métro parisien compte seize lignes et plus de trois cents stations."
+    },
+    {
+      "question": "Qu'est-ce qu'une correspondance ?",
+      "options": ["Un changement de ligne", "Un billet spécial", "Un quai réservé", "Un horaire de nuit"],
+      "correctIndex": 0,
+      "explanation": "La correspondance est le changement de ligne ou de moyen de transport pendant un trajet."
+    },
+    {
+      "question": "Que fait-on avec son ticket dans le métro ?",
+      "options": ["On le valide", "On le jette", "On le rend", "On le signe"],
+      "correctIndex": 0,
+      "explanation": "Le ticket doit être validé avant d'entrer sur le quai."
+    }
+  ]
+}

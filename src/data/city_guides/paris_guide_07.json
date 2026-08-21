@@ -1,0 +1,153 @@
+{
+  "id": "paris_guide_07",
+  "cityId": "paris",
+  "domain": "Cotidiano",
+  "level": "Misto (A1–C2)",
+  "titleFr": "La vie quotidienne à Paris",
+  "titlePt": "A vida cotidiana em Paris",
+  "subtitleFr": "Matin, maison, ordinateur et loisirs",
+  "subtitlePt": "Manhã, casa, computador e lazeres",
+  "summaryPt": "Enciclopédia de Paris, seção 7: a rotina dos parisienses — casa, computador, lazeres. Vocabulário do dia a dia, dos níveis A1 ao C2.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Beaucoup de Parisiens se lèvent tôt. Dans la salle de bain, on se lave, on se brosse les dents, on se rase, on se maquille ou on se coiffe, selon les habitudes de chacun. Ceux qui ont le temps prennent une douche tranquille avant de prendre le petit-déjeuner.",
+      "pt": "Muitos parisienses se levantam cedo. No banheiro, a gente se lava, escova os dentes, faz a barba, se maquia ou se penteia, conforme o hábito de cada um. Quem tem tempo toma um banho tranquilo antes de tomar o café da manhã."
+    },
+    {
+      "id": 2,
+      "fr": "Le week-end, on fait le ménage : on balaye la cuisine, on essuie la table, on vide le lave-linge et on branche le fer à repasser. Une éponge et un produit de nettoyage suffisent pour les taches ; pour les vêtements, on ajoute de l'adoucissant. Il faut parfois détacher un vêtement avant de le laver.",
+      "pt": "No fim de semana, fazemos a faxina: varremos a cozinha, enxugamos a mesa, esvaziamos a máquina de lavar e ligamos o ferro de passar. Uma esponja e um produto de limpeza bastam para as manchas; para as roupas, acrescenta-se amaciante. Às vezes é preciso tirar uma mancha da roupa antes de lavá-la."
+    },
+    {
+      "id": 3,
+      "fr": "Devant l'ordinateur, chaque geste a son mot : on allume la machine, on tape son mot de passe, on se connecte à son espace de travail, puis on enregistre ses documents. Pour effacer un fichier, on le supprime ; pour récupérer un logiciel, on le télécharge. À la fin, on se déconnecte et on éteint l'ordinateur.",
+      "pt": "Diante do computador, cada gesto tem sua palavra: ligamos a máquina, digitamos a senha, conectamo-nos ao espaço de trabalho e salvamos os documentos. Para apagar um arquivo, nós o suprimimos; para conseguir um software, nós o baixamos. No fim, desconectamo-nos e desligamos o computador."
+    },
+    {
+      "id": 4,
+      "fr": "Le soir, le canapé et le fauteuil du salon attirent tout le monde. On regarde la télé, on suit un reportage ou le journal télévisé, on joue à un jeu vidéo, on cherche sur internet ou on regarde une vidéo. Certains préfèrent faire une vidéo, partager une photo ou aimer une publication, puis commenter celle des amis.",
+      "pt": "À noite, o sofá e a poltrona da sala atraem todo mundo. Assistimos à TV, acompanhamos uma reportagem ou o telejornal, jogamos um videogame, pesquisamos na internet ou assistimos a um vídeo. Alguns preferem fazer um vídeo, compartilhar uma foto ou curtir uma publicação, e depois comentar a dos amigos."
+    },
+    {
+      "id": 5,
+      "fr": "Pour se détendre, chacun a sa recette : lire un livre au calme, pratiquer le yoga, se promener sur les quais ou simplement se coucher tôt. Les voisins sont souvent sympathiques, jamais paresseux quand il s'agit d'aider, et le chat du palier, un peu maigre mais fier, surveille les allées et venues.",
+      "pt": "Para relaxar, cada um tem sua receita: ler um livro em paz, praticar ioga, passear pelos cais ou simplesmente deitar cedo. Os vizinhos são quase sempre simpáticos, nunca preguiçosos quando se trata de ajudar, e o gato do patamar, um pouco magro mas orgulhoso, vigia as idas e vindas."
+    },
+    {
+      "id": 6,
+      "fr": "L'hiver, quand il neige, la ville ralentit et les enfants courent attraper les flocons. Avant de cuisiner, on se lave les mains ; avant de sortir, on vérifie la batterie du téléphone. Et quand on revient du marché, on rapporte les provisions, les bras chargés, heureux de retrouver la chaleur de la maison.",
+      "pt": "No inverno, quando neva, a cidade desacelera e as crianças correm para pegar os flocos. Antes de cozinhar, lavamos as mãos; antes de sair, verificamos a bateria do celular. E quando voltamos do mercado, trazemos as compras, com os braços carregados, felizes por reencontrar o calor da casa."
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "faire le ménage",
+      "definitionPt": "fazer a faxina; limpar a casa",
+      "definitionFr": "Nettoyer et ranger son logement.",
+      "inflections": ["faire le ménage", "fait le ménage", "faisait le ménage"],
+      "ptTargets": ["fazer a faxina", "limpar a casa"],
+      "examples": [
+        { "level": "A1", "fr": "Je fais le ménage le samedi.", "pt": "Faço a faxina no sábado." },
+        { "level": "A2-B1", "fr": "On fait le ménage ensemble le week-end.", "pt": "Fazemos a faxina juntos no fim de semana." },
+        { "level": "B2", "fr": "Faire le ménage prend moins de temps quand on s'y met à deux.", "pt": "Fazer a faxina leva menos tempo quando se faz em dupla." },
+        { "level": "C1-C2", "fr": "Faire le ménage, c'est aussi remettre de l'ordre dans sa tête.", "pt": "Fazer a faxina é também pôr ordem na cabeça." }
+      ]
+    },
+    {
+      "term": "se détendre",
+      "definitionPt": "relaxar; descontrair",
+      "definitionFr": "Se reposer, se libérer du stress.",
+      "inflections": ["se détendre", "se détend", "se détendait", "détendu"],
+      "ptTargets": ["relaxar", "descontrair"],
+      "examples": [
+        { "level": "A1", "fr": "Je me détends après le travail.", "pt": "Eu relaxo depois do trabalho." },
+        { "level": "A2-B1", "fr": "Elle se détend en écoutant de la musique.", "pt": "Ela relaxa ouvindo música." },
+        { "level": "B2", "fr": "Se détendre au bord de la Seine est un luxe accessible.", "pt": "Relaxar à beira do Sena é um luxo acessível." },
+        { "level": "C1-C2", "fr": "Savoir se détendre, c'est reconnaître que l'oisiveté fait partie du travail.", "pt": "Saber relaxar é reconhecer que o ócio faz parte do trabalho." }
+      ]
+    },
+    {
+      "term": "se connecter",
+      "definitionPt": "conectar-se",
+      "definitionFr": "Accéder à un réseau, à un service en ligne.",
+      "inflections": ["se connecter", "se connecte", "connecté", "la connexion"],
+      "ptTargets": ["conectar-se"],
+      "examples": [
+        { "level": "A1", "fr": "Je me connecte à internet.", "pt": "Eu me conecto à internet." },
+        { "level": "A2-B1", "fr": "Il se connecte au wifi du café.", "pt": "Ele se conecta ao wifi do café." },
+        { "level": "B2", "fr": "Se connecter à un réseau public exige des précautions.", "pt": "Conectar-se a uma rede pública exige precauções." },
+        { "level": "C1-C2", "fr": "Se connecter, c'est accepter d'être joignable — et parfois de ne plus l'être.", "pt": "Conectar-se é aceitar ser encontrado — e às vezes não ser mais." }
+      ]
+    },
+    {
+      "term": "télécharger",
+      "definitionPt": "baixar; fazer download",
+      "definitionFr": "Transférer un fichier depuis internet vers son appareil.",
+      "inflections": ["télécharger", "télécharge", "téléchargé", "le téléchargement"],
+      "ptTargets": ["baixar", "fazer download"],
+      "examples": [
+        { "level": "A1", "fr": "Je télécharge une application.", "pt": "Eu baixo um aplicativo." },
+        { "level": "A2-B1", "fr": "Il télécharge la carte de la ville.", "pt": "Ele baixa o mapa da cidade." },
+        { "level": "B2", "fr": "Télécharger un fichier volumineux prend du temps.", "pt": "Baixar um arquivo grande leva tempo." },
+        { "level": "C1-C2", "fr": "Télécharger, c'est faire entrer une partie du monde dans sa poche.", "pt": "Baixar é fazer entrar uma parte do mundo no bolso." }
+      ]
+    },
+    {
+      "term": "partager une photo",
+      "definitionPt": "compartilhar uma foto",
+      "definitionFr": "Montrer une photo à d'autres personnes, souvent en ligne.",
+      "inflections": ["partager une photo", "partage une photo", "partagé une photo"],
+      "ptTargets": ["compartilhar uma foto"],
+      "examples": [
+        { "level": "A1", "fr": "Je partage une photo de Paris.", "pt": "Compartilho uma foto de Paris." },
+        { "level": "A2-B1", "fr": "Elle partage une photo du coucher de soleil.", "pt": "Ela compartilha uma foto do pôr do sol." },
+        { "level": "B2", "fr": "Partager une photo, c'est offrir un morceau de son regard.", "pt": "Compartilhar uma foto é oferecer um pedaço do próprio olhar." },
+        { "level": "C1-C2", "fr": "Partager une photo, c'est confier un souvenir à ceux qui ne l'ont pas vécu.", "pt": "Compartilhar uma foto é confiar uma lembrança a quem não a viveu." }
+      ]
+    },
+    {
+      "term": "se lever tôt",
+      "definitionPt": "levantar cedo",
+      "definitionFr": "Se réveiller et se lever de bonne heure.",
+      "inflections": ["se lever tôt", "se lève tôt", "levé tôt"],
+      "ptTargets": ["levantar cedo"],
+      "examples": [
+        { "level": "A1", "fr": "Je me lève tôt le lundi.", "pt": "Levanto cedo na segunda." },
+        { "level": "A2-B1", "fr": "Il se lève tôt pour prendre le train.", "pt": "Ele se levanta cedo para pegar o trem." },
+        { "level": "B2", "fr": "Se lever tôt permet de profiter de la ville avant la foule.", "pt": "Levantar cedo permite aproveitar a cidade antes da multidão." },
+        { "level": "C1-C2", "fr": "Se lever tôt, c'est voler au jour quelques heures que personne n'a encore réclamées.", "pt": "Levantar cedo é roubar do dia algumas horas que ninguém ainda reivindicou." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Os verbos pronominais da rotina",
+    "explanationPt": "A rotina usa muitos verbos pronominais: se lever, se laver, se connecter, se déconnecter. O pronome concorda com o sujeito: 'je me lève', 'nous nous lavons', 'ils se connectent'.",
+    "exampleFr": "Elle se lève, se lave et se connecte avant de partir.",
+    "examplePt": "Ela se levanta, se lava e se conecta antes de sair.",
+    "practiceQuestion": "Complete: « Nous ___ tôt le matin. »",
+    "options": ["nous levons", "se levons", "nous lèvent", "levons-nous"],
+    "correctIndex": 0,
+    "explanationPt": "Verbo pronominal: 'nous nous levons'."
+  },
+  "quizQuestions": [
+    {
+      "question": "Que fait-on quand on « vide le lave-linge » ?",
+      "options": ["On en sort les vêtements propres", "On le jette", "On le remplit d'eau", "On le branche"],
+      "correctIndex": 0,
+      "explanation": "Vider le lave-linge, c'est en sortir les vêtements après le cycle."
+    },
+    {
+      "question": "Que signifie « télécharger » ?",
+      "options": ["Transférer un fichier depuis internet", "Supprimer un fichier", "Imprimer un document", "Éteindre l'ordinateur"],
+      "correctIndex": 0,
+      "explanation": "Télécharger, c'est transférer un fichier depuis internet vers son appareil."
+    },
+    {
+      "question": "Que fait-on pour « se détendre » ?",
+      "options": ["On se repose et on se libère du stress", "On court très vite", "On fait le ménage", "On éteint le téléphone"],
+      "correctIndex": 0,
+      "explanation": "Se détendre, c'est se reposer et se libérer du stress."
+    }
+  ]
+}

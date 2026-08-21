@@ -1,0 +1,174 @@
+{
+  "id": "paris_guide_03",
+  "cityId": "paris",
+  "domain": "Cultura",
+  "level": "Misto (A1–C2)",
+  "titleFr": "La Seine et ses ponts",
+  "titlePt": "O Sena e suas pontes",
+  "subtitleFr": "Le fleuve qui a fait la ville",
+  "subtitlePt": "O rio que fez a cidade",
+  "summaryPt": "Enciclopédia de Paris, seção 3: o Sena, seus cais, pontes e barcos. Vocabulário fluvial, de transporte e de vida urbana.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "La Seine traverse Paris d'est en ouest sur treize kilomètres. C'est le fleuve qui a fait la ville : sans lui, pas de commerce, pas de navigation, pas de Paris. Aujourd'hui encore, les bateaux-mouches et les péniches sillonnent ses eaux toute l'année.",
+      "pt": "O Sena atravessa Paris de leste a oeste por treze quilômetros. É o rio que fez a cidade: sem ele, não há comércio, não há navegação, não há Paris. Ainda hoje, os bateaux-mouches e as barcaças percorrem suas águas o ano inteiro."
+    },
+    {
+      "id": 2,
+      "fr": "Les quais de la Seine sont inscrits au patrimoine mondial de l'UNESCO. Sur la rive gauche, les bouquinistes installent leurs boîtes vertes le long des parapets, vendant des livres anciens et des affiches. Naviguer sur le fleuve, c'est voir la ville sous un angle qu'aucune rue ne révèle.",
+      "pt": "Os cais do Sena são inscritos no patrimônio mundial da UNESCO. Na margem esquerda, os sebos instalam suas caixas verdes ao longo dos parapeitos, vendendo livros antigos e cartazes. Navegar pelo rio é ver a cidade sob um ângulo que nenhuma rua revela."
+    },
+    {
+      "id": 3,
+      "fr": "La ville compte une trentaine de ponts. Le plus ancien, le Pont Neuf, date de 1607, et le plus récent, la passerelle Simone-Veil, a ouvert en 2024. Chaque pont a son histoire : certains furent détruits puis reconstruits, d'autres ont été allongés pour laisser passer les grandes péniches.",
+      "pt": "A cidade tem cerca de trinta pontes. A mais antiga, a Pont Neuf, data de 1607, e a mais recente, a passarela Simone-Veil, abriu em 2024. Cada ponte tem sua história: algumas foram destruídas e reconstruídas, outras foram alongadas para deixar passar as grandes barcaças."
+    },
+    {
+      "id": 4,
+      "fr": "En hiver, la Seine peut monter dangereusement. Lors des grandes crues, les quais sont fermés, les berges sont inondées, et les services de la ville surveillent le niveau heure par heure. Les Parisiens ont appris à vivre avec ce fleuve imprévisible, tour à tour calme et menaçant.",
+      "pt": "No inverno, o Sena pode subir perigosamente. Durante as grandes cheias, os cais são fechados, as margens são inundadas, e os serviços da cidade vigiam o nível hora a hora. Os parisienses aprenderam a viver com esse rio imprevisível, ora calmo, ora ameaçador."
+    },
+    {
+      "id": 5,
+      "fr": "Entre deux ponts, la vie continue sur l'eau : des péniches transformées en logements, en salles de spectacle ou en cafés accueillent les curieux. Au coucher du soleil, les façades se reflètent dans le fleuve, et la ville entière semble flotter entre le ciel et l'eau.",
+      "pt": "Entre duas pontes, a vida continua sobre a água: barcaças transformadas em moradias, salas de espetáculo ou cafés recebem os curiosos. Ao pôr do sol, as fachadas se refletem no rio, e a cidade inteira parece flutuar entre o céu e a água."
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "naviguer",
+      "definitionPt": "navegar",
+      "definitionFr": "Se déplacer sur l'eau à bord d'un bateau.",
+      "inflections": ["naviguer", "navigue", "naviguent", "la navigation"],
+      "ptTargets": ["navegar"],
+      "examples": [
+        { "level": "A1", "fr": "Nous naviguons sur la Seine.", "pt": "Nós navegamos no Sena." },
+        { "level": "A2-B1", "fr": "Ils ont navigué jusqu'au centre de Paris.", "pt": "Eles navegaram até o centro de Paris." },
+        { "level": "B2", "fr": "Naviguer sur un fleuve exige de connaître ses courants.", "pt": "Navegar num rio exige conhecer suas correntezas." },
+        { "level": "C1-C2", "fr": "Naviguer, c'est accepter que le fleuve décide parfois de votre route.", "pt": "Navegar é aceitar que o rio às vezes decide sua rota." }
+      ]
+    },
+    {
+      "term": "le quai",
+      "definitionPt": "o cais; a margem urbanizada",
+      "definitionFr": "La voie aménagée le long d'un fleuve ou d'un port.",
+      "inflections": ["le quai", "les quais", "le quai de la Seine"],
+      "ptTargets": ["cais", "margem"],
+      "examples": [
+        { "level": "A1", "fr": "Le quai est près du fleuve.", "pt": "O cais fica perto do rio." },
+        { "level": "A2-B1", "fr": "Nous marchons sur le quai le dimanche.", "pt": "Nós caminhamos pelo cais aos domingos." },
+        { "level": "B2", "fr": "Les quais de la Seine sont devenus des espaces piétons.", "pt": "Os cais do Sena viraram espaços para pedestres." },
+        { "level": "C1-C2", "fr": "Sur les quais, la frontière entre la ville et le fleuve s'efface.", "pt": "Nos cais, a fronteira entre a cidade e o rio se apaga." }
+      ]
+    },
+    {
+      "term": "la péniche",
+      "definitionPt": "a barcaça; a casa-barco",
+      "definitionFr": "Un bateau plat servant au transport fluvial ou à l'habitat.",
+      "inflections": ["la péniche", "les péniches", "une péniche de tourisme"],
+      "ptTargets": ["barcaça"],
+      "examples": [
+        { "level": "A1", "fr": "La péniche est sur l'eau.", "pt": "A barcaça está na água." },
+        { "level": "A2-B1", "fr": "Ils habitent sur une péniche.", "pt": "Eles moram numa barcaça." },
+        { "level": "B2", "fr": "Les péniches transportaient autrefois des marchandises.", "pt": "As barcaças transportavam antigamente mercadorias." },
+        { "level": "C1-C2", "fr": "Vivre sur une péniche, c'est habiter le mouvement, entre deux rives.", "pt": "Morar numa barcaça é habitar o movimento, entre duas margens." }
+      ]
+    },
+    {
+      "term": "la crue",
+      "definitionPt": "a cheia; a enchente",
+      "definitionFr": "La montée anormale du niveau d'un cours d'eau.",
+      "inflections": ["la crue", "les crues", "une crue centennale"],
+      "ptTargets": ["cheia", "enchente"],
+      "examples": [
+        { "level": "A1", "fr": "La crue est dangereuse.", "pt": "A cheia é perigosa." },
+        { "level": "A2-B1", "fr": "La crue a fermé les quais.", "pt": "A cheia fechou os cais." },
+        { "level": "B2", "fr": "Les villes fluviales se préparent aux grandes crues.", "pt": "As cidades fluviais se preparam para as grandes cheias." },
+        { "level": "C1-C2", "fr": "La crue rappelle que le fleuve n'est jamais totalement dompté.", "pt": "A cheia lembra que o rio nunca é totalmente domado." }
+      ]
+    },
+    {
+      "term": "la berge",
+      "definitionPt": "a margem (do rio)",
+      "definitionFr": "Le bord naturel d'un cours d'eau.",
+      "inflections": ["la berge", "les berges", "les berges de la Seine"],
+      "ptTargets": ["margem"],
+      "examples": [
+        { "level": "A1", "fr": "La berge est verte.", "pt": "A margem é verde." },
+        { "level": "A2-B1", "fr": "On pique-nique sur la berge.", "pt": "Fazemos piquenique na margem." },
+        { "level": "B2", "fr": "Les berges bétonnées ont été rendues aux piétons.", "pt": "As margens concretadas foram devolvidas aos pedestres." },
+        { "level": "C1-C2", "fr": "Rendre les berges à la nature, c'est redonner au fleuve sa part de sauvagerie.", "pt": "Devolver as margens à natureza é devolver ao rio sua parte de selvageria." }
+      ]
+    },
+    {
+      "term": "le courant",
+      "definitionPt": "a correnteza; a corrente",
+      "definitionFr": "Le mouvement de l'eau qui s'écoule.",
+      "inflections": ["le courant", "les courants", "le courant du fleuve"],
+      "ptTargets": ["correnteza", "corrente"],
+      "examples": [
+        { "level": "A1", "fr": "Le courant est fort.", "pt": "A correnteza é forte." },
+        { "level": "A2-B1", "fr": "Le bateau suit le courant.", "pt": "O barco segue a correnteza." },
+        { "level": "B2", "fr": "Remonter le courant demande plus d'efforts.", "pt": "Subir a correnteza exige mais esforço." },
+        { "level": "C1-C2", "fr": "Le courant emporte tout ce qui ne sait pas s'y adapter.", "pt": "A correnteza leva tudo o que não sabe se adaptar a ela." }
+      ]
+    },
+    {
+      "term": "inonder",
+      "definitionPt": "inundar",
+      "definitionFr": "Recouvrir d'eau de manière excessive.",
+      "inflections": ["inonder", "inonde", "inondé", "l'inondation"],
+      "ptTargets": ["inundar"],
+      "examples": [
+        { "level": "A1", "fr": "L'eau inonde la rue.", "pt": "A água inunda a rua." },
+        { "level": "A2-B1", "fr": "La crue a inondé les caves.", "pt": "A cheia inundou os porões." },
+        { "level": "B2", "fr": "Les berges sont inondées pendant les fortes pluies.", "pt": "As margens são inundadas durante as fortes chuvas." },
+        { "level": "C1-C2", "fr": "Inonder, c'est rappeler à la ville qui est le véritable maître du terrain.", "pt": "Inundar é lembrar à cidade quem é o verdadeiro dono do terreno." }
+      ]
+    },
+    {
+      "term": "le bouquiniste",
+      "definitionPt": "o livreiro de rua (nos cais)",
+      "definitionFr": "Un vendeur de livres anciens installé en plein air.",
+      "inflections": ["le bouquiniste", "les bouquinistes"],
+      "ptTargets": ["livreiro de rua"],
+      "examples": [
+        { "level": "A1", "fr": "Le bouquiniste vend des livres.", "pt": "O livreiro de rua vende livros." },
+        { "level": "A2-B1", "fr": "On trouve des BD chez les bouquinistes.", "pt": "Encontramos quadrinhos com os livreiros de rua." },
+        { "level": "B2", "fr": "Les bouquinistes des quais sont un symbole de Paris.", "pt": "Os livreiros dos cais são um símbolo de Paris." },
+        { "level": "C1-C2", "fr": "Le bouquiniste est le gardien d'une mémoire de papier que le numérique n'a pas remplacée.", "pt": "O livreiro de rua é o guardião de uma memória de papel que o digital não substituiu." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Os pronomes relativos: où / qui / que",
+    "explanationPt": "'où' indica lugar ou tempo ('le quartier où je vis'); 'qui' é sujeito ('le fleuve qui a fait la ville'); 'que' é objeto ('le livre que je lis'). Observe os usos nos parágrafos.",
+    "exampleFr": "La Seine est le fleuve qui traverse Paris.",
+    "examplePt": "O Sena é o rio que atravessa Paris.",
+    "practiceQuestion": "Complete: « La passerelle ___ a ouvert en 2024 est piétonne. »",
+    "options": ["qui", "que", "où", "dont"],
+    "correctIndex": 0,
+    "explanationPt": "'Qui' é sujeito da relativa: a passarela que abriu em 2024."
+  },
+  "quizQuestions": [
+    {
+      "question": "Quel est le plus ancien pont de Paris ?",
+      "options": ["Le Pont Neuf", "Le Pont des Arts", "Le Pont Alexandre-III", "Le Pont de l'Alma"],
+      "correctIndex": 0,
+      "explanation": "Le Pont Neuf, achevé en 1607, est le plus ancien pont de Paris."
+    },
+    {
+      "question": "Que vendent les bouquinistes sur les quais ?",
+      "options": ["Des livres anciens", "Des fruits", "Des vêtements", "Des billets de métro"],
+      "correctIndex": 0,
+      "explanation": "Les bouquinistes vendent des livres anciens, des affiches et des gravures."
+    },
+    {
+      "question": "Pourquoi la Seine peut-elle être dangereuse en hiver ?",
+      "options": ["À cause des crues", "À cause des bateaux", "À cause du froid seul", "À cause des ponts"],
+      "correctIndex": 0,
+      "explanation": "En hiver, les grandes crues peuvent inonder les berges et fermer les quais."
+    }
+  ]
+}

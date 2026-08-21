@@ -47,7 +47,7 @@ const cityStats = new Map<string, CityStats>();
 const backlog: BacklogEntry[] = [];
 
 function cityOf(fileName: string): string {
-  return fileName.replace(/_lesson_\d+\.json$/, '');
+  return fileName.replace(/_(lesson|guide)_\d+\.json$/, '');
 }
 
 function statsFor(city: string): CityStats {
@@ -144,6 +144,13 @@ function auditLessonFile(filePath: string): void {
 const files = fs.readdirSync(DATA_DIR).filter((f) => /_lesson_\d+\.json$/.test(f));
 for (const f of files) {
   auditLessonFile(path.join(DATA_DIR, f));
+}
+const GUIDE_DIR = path.join(DATA_DIR, 'city_guides');
+if (fs.existsSync(GUIDE_DIR)) {
+  const guideFiles = fs.readdirSync(GUIDE_DIR).filter((f) => /_guide_\d+\.json$/.test(f));
+  for (const f of guideFiles) {
+    auditLessonFile(path.join(GUIDE_DIR, f));
+  }
 }
 
 const cities = Array.from(cityStats.keys()).sort();

@@ -11,6 +11,7 @@ import { LessonsView } from './components/LessonsView';
 import { VocabularyView } from './components/VocabularyView';
 import { MentorVoiceView } from './components/MentorVoiceView';
 import { FlashcardsView } from './components/FlashcardsView';
+import { EncyclopediaView } from './components/EncyclopediaView';
 
 import { StorageService } from './services/storageService';
 import { City, MapLocation, UserMapProgress, Lesson, CountryId, DomainType } from './types/map';
@@ -155,6 +156,13 @@ export default function App() {
           )}
 
           {activeTab === 'flashcards' && <FlashcardsView />}
+
+          {activeTab === 'encyclopedia' && (
+            <EncyclopediaView
+              progress={progress}
+              onNavigateToFlashcards={() => setActiveTab('flashcards')}
+            />
+          )}
 
           {activeTab === 'settings' && (
             <div className="flex-1 p-8 text-slate-200 space-y-4 overflow-y-auto">

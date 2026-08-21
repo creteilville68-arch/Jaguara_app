@@ -1,0 +1,161 @@
+{
+  "id": "paris_guide_04",
+  "cityId": "paris",
+  "domain": "Cultura",
+  "level": "Misto (A1–C2)",
+  "titleFr": "Musées et vie artistique",
+  "titlePt": "Museus e vida artística",
+  "subtitleFr": "Des toiles, des notes et des expositions",
+  "subtitlePt": "Telas, notas musicais e exposições",
+  "summaryPt": "Enciclopédia de Paris, seção 4: museus, pintura, música e vida cultural. Vocabulário artístico, de exposições e de lazer cultural.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Paris compte plus de deux cents musées. Le Louvre, le musée d'Orsay et le Centre Pompidou forment le cœur de l'offre culturelle, mais les petits musées de quartier réservent aussi de belles surprises. Chaque année, des millions de visiteurs viennent admirer les collections.",
+      "pt": "Paris tem mais de duzentos museus. O Louvre, o museu d'Orsay e o Centro Pompidou formam o coração da oferta cultural, mas os pequenos museus de bairro também reservam belas surpresas. Todos os anos, milhões de visitantes vêm admirar as coleções."
+    },
+    {
+      "id": 2,
+      "fr": "Le musée d'Orsay, installé dans une ancienne gare, abrite la plus grande collection d'art impressionniste au monde. Les toiles de Monet, Renoir et Degas y captent la lumière de Paris comme nulle part ailleurs. Le peintre pose chaque touche avec le pinceau, cherchant à saisir l'instant qui fuit.",
+      "pt": "O museu d'Orsay, instalado numa antiga estação, abriga a maior coleção de arte impressionista do mundo. As telas de Monet, Renoir e Degas captam a luz de Paris como em nenhum outro lugar. O pintor põe cada pincelada com o pincel, tentando capturar o instante que foge."
+    },
+    {
+      "id": 3,
+      "fr": "Les galeries du Marais et de Belleville organisent des vernissages presque chaque semaine. Ces soirées permettent au public de rencontrer les artistes, de poser des questions sur leur démarche et de découvrir des œuvres avant leur entrée dans les grandes collections.",
+      "pt": "As galerias do Marais e de Belleville organizam vernissages quase toda semana. Essas noites permitem ao público encontrar os artistas, fazer perguntas sobre seu percurso e descobrir obras antes de elas entrarem nas grandes coleções."
+    },
+    {
+      "id": 4,
+      "fr": "La musique occupe une place immense dans la vie parisienne. Des conservatoires aux salles de concert, des artistes apprennent chaque jour à jouer du piano ou de la guitare, tandis que l'opéra et les orchestres attirent les mélomanes du monde entier.",
+      "pt": "A música ocupa um lugar imenso na vida parisiense. Dos conservatórios às salas de concerto, artistas aprendem todos os dias a tocar piano ou violão, enquanto a ópera e as orquestras atraem os melômanos do mundo inteiro."
+    },
+    {
+      "id": 5,
+      "fr": "Apprécier l'art ne demande pas de connaissances savantes : il suffit de regarder longtemps. Les musées proposent des visites guidées, des audioguides et des ateliers pour tous les âges. Sortir d'une exposition, c'est voir la rue avec des yeux neufs, comme si la ville devenait un tableau vivant.",
+      "pt": "Apreciar a arte não exige conhecimentos eruditos: basta olhar por muito tempo. Os museus oferecem visitas guiadas, audioguias e ateliês para todas as idades. Sair de uma exposição é ver a rua com olhos novos, como se a cidade virasse um quadro vivo."
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "la collection",
+      "definitionPt": "a coleção",
+      "definitionFr": "Un ensemble d'œuvres ou d'objets réunis pour leur valeur.",
+      "inflections": ["la collection", "les collections", "la collection permanente"],
+      "ptTargets": ["coleção"],
+      "examples": [
+        { "level": "A1", "fr": "La collection est grande.", "pt": "A coleção é grande." },
+        { "level": "A2-B1", "fr": "Le musée présente sa collection de peintures.", "pt": "O museu apresenta sua coleção de pinturas." },
+        { "level": "B2", "fr": "La collection impressionniste du musée d'Orsay est unique au monde.", "pt": "A coleção impressionista do museu d'Orsay é única no mundo." },
+        { "level": "C1-C2", "fr": "Une collection n'est jamais finie : chaque acquisition change le regard sur l'ensemble.", "pt": "Uma coleção nunca está terminada: cada aquisição muda o olhar sobre o conjunto." }
+      ]
+    },
+    {
+      "term": "la toile",
+      "definitionPt": "a tela (pintura)",
+      "definitionFr": "Une peinture réalisée sur un support de tissu tendu.",
+      "inflections": ["la toile", "les toiles", "une toile de maître"],
+      "ptTargets": ["tela"],
+      "examples": [
+        { "level": "A1", "fr": "La toile est accrochée au mur.", "pt": "A tela está pendurada na parede." },
+        { "level": "A2-B1", "fr": "Le peintre travaille sur une grande toile.", "pt": "O pintor trabalha numa tela grande." },
+        { "level": "B2", "fr": "La toile, restaurée, retrouve ses couleurs d'origine.", "pt": "A tela, restaurada, recupera suas cores originais." },
+        { "level": "C1-C2", "fr": "Derrière chaque toile, il y a des heures de silence et une bataille avec la lumière.", "pt": "Atrás de cada tela há horas de silêncio e uma batalha com a luz." }
+      ]
+    },
+    {
+      "term": "le pinceau",
+      "definitionPt": "o pincel",
+      "definitionFr": "L'outil du peintre, formé de poils fixés sur un manche.",
+      "inflections": ["le pinceau", "les pinceaux"],
+      "ptTargets": ["pincel"],
+      "examples": [
+        { "level": "A1", "fr": "Le pinceau est sur la table.", "pt": "O pincel está sobre a mesa." },
+        { "level": "A2-B1", "fr": "Elle nettoie ses pinceaux après avoir peint.", "pt": "Ela limpa os pincéis depois de pintar." },
+        { "level": "B2", "fr": "Un bon pinceau suit la main du peintre sans résistance.", "pt": "Um bom pincel segue a mão do pintor sem resistência." },
+        { "level": "C1-C2", "fr": "Le pinceau n'est que le prolongement d'une intention qui le précède.", "pt": "O pincel é apenas o prolongamento de uma intenção que o precede." }
+      ]
+    },
+    {
+      "term": "l'impressionnisme",
+      "definitionPt": "o impressionismo",
+      "definitionFr": "Un mouvement pictural qui cherche à traduire les impressions de la lumière.",
+      "inflections": ["l'impressionnisme", "les impressionnistes"],
+      "ptTargets": ["impressionismo"],
+      "examples": [
+        { "level": "A1", "fr": "L'impressionnisme est un style de peinture.", "pt": "O impressionismo é um estilo de pintura." },
+        { "level": "A2-B1", "fr": "Les impressionnistes peignaient en plein air.", "pt": "Os impressionistas pintavam ao ar livre." },
+        { "level": "B2", "fr": "L'impressionnisme a révolutionné la peinture au XIXe siècle.", "pt": "O impressionismo revolucionou a pintura no século XIX." },
+        { "level": "C1-C2", "fr": "L'impressionnisme a appris à l'œil à regarder l'instant plutôt que l'objet.", "pt": "O impressionismo ensinou o olho a olhar o instante em vez do objeto." }
+      ]
+    },
+    {
+      "term": "le vernissage",
+      "definitionPt": "o vernissage; a abertura de exposição",
+      "definitionFr": "La soirée d'ouverture d'une exposition d'art.",
+      "inflections": ["le vernissage", "les vernissages", "un vernissage privé"],
+      "ptTargets": ["vernissage", "abertura de exposição"],
+      "examples": [
+        { "level": "A1", "fr": "Le vernissage commence à dix-huit heures.", "pt": "O vernissage começa às dezoito horas." },
+        { "level": "A2-B1", "fr": "On est invité au vernissage de la galerie.", "pt": "Estamos convidados para o vernissage da galeria." },
+        { "level": "B2", "fr": "Le vernissage permet de rencontrer l'artiste en personne.", "pt": "O vernissage permite encontrar o artista pessoalmente." },
+        { "level": "C1-C2", "fr": "Le vernissage est un rituel où l'œuvre quitte l'atelier pour entrer dans le monde.", "pt": "O vernissage é um ritual em que a obra deixa o ateliê para entrar no mundo." }
+      ]
+    },
+    {
+      "term": "la rétrospective",
+      "definitionPt": "a retrospectiva (exposição)",
+      "definitionFr": "Une exposition qui présente l'ensemble de l'œuvre d'un artiste.",
+      "inflections": ["la rétrospective", "les rétrospectives"],
+      "ptTargets": ["retrospectiva"],
+      "examples": [
+        { "level": "A1", "fr": "La rétrospective ouvre demain.", "pt": "A retrospectiva abre amanhã." },
+        { "level": "A2-B1", "fr": "Le musée organise une rétrospective de Monet.", "pt": "O museu organiza uma retrospectiva de Monet." },
+        { "level": "B2", "fr": "La rétrospective retrace cinquante ans de création.", "pt": "A retrospectiva percorre cinquenta anos de criação." },
+        { "level": "C1-C2", "fr": "Une rétrospective permet de mesurer l'évolution d'une œuvre tout entière.", "pt": "Uma retrospectiva permite medir a evolução de uma obra inteira." }
+      ]
+    },
+    {
+      "term": "apprécier",
+      "definitionPt": "apreciar; gostar de",
+      "definitionFr": "Trouver de la valeur ou du plaisir dans quelque chose.",
+      "inflections": ["apprécier", "apprécie", "apprécié", "apprécier une œuvre"],
+      "ptTargets": ["apreciar"],
+      "examples": [
+        { "level": "A1", "fr": "J'apprécie ce tableau.", "pt": "Eu aprecio este quadro." },
+        { "level": "A2-B1", "fr": "Elle apprécie les concerts en plein air.", "pt": "Ela aprecia os concertos ao ar livre." },
+        { "level": "B2", "fr": "On apprend à apprécier l'art en le fréquentant.", "pt": "A gente aprende a apreciar a arte frequentando-a." },
+        { "level": "C1-C2", "fr": "Apprécier, c'est laisser l'œuvre agir sur soi avant de la juger.", "pt": "Apreciar é deixar a obra agir sobre si antes de julgá-la." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Gerúndio e participio presente",
+    "explanationPt": "O particípio presente ('cherchant', 'regardant') indica simultaneidade: 'le peintre pose chaque touche, cherchant à saisir l'instant'. Também funciona como adjetivo ('une œuvre saisissante').",
+    "exampleFr": "Le public sort de l'exposition, les yeux éblouis par la lumière.",
+    "examplePt": "O público sai da exposição, os olhos ofuscados pela luz.",
+    "practiceQuestion": "Complete: « Les visiteurs déambulent dans les salles, ___ les œuvres une à une. »",
+    "options": ["regardant", "regardé", "regardent", "regarder"],
+    "correctIndex": 0,
+    "explanationPt": "Participio presente 'regardant' expressa a ação simultânea."
+  },
+  "quizQuestions": [
+    {
+      "question": "Où se trouve la plus grande collection impressionniste du monde ?",
+      "options": ["Au musée d'Orsay", "Au Louvre", "Au Centre Pompidou", "Au Panthéon"],
+      "correctIndex": 0,
+      "explanation": "Le musée d'Orsay, installé dans une ancienne gare, abrite la plus grande collection impressionniste."
+    },
+    {
+      "question": "Qu'est-ce qu'un vernissage ?",
+      "options": ["La soirée d'ouverture d'une exposition", "Un type de pinceau", "Une salle de concert", "Un cadre doré"],
+      "correctIndex": 0,
+      "explanation": "Le vernissage est la soirée d'ouverture d'une exposition, souvent ouverte au public et aux invités."
+    },
+    {
+      "question": "Que font les impressionnistes ?",
+      "options": ["Ils traduisent les impressions de la lumière", "Ils sculptent le marbre", "Ils écrivent des romans", "Ils filment des documentaires"],
+      "correctIndex": 0,
+      "explanation": "L'impressionnisme cherche à traduire les impressions visuelles de la lumière et de l'instant."
+    }
+  ]
+}

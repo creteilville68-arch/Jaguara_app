@@ -1,0 +1,174 @@
+{
+  "id": "paris_guide_01",
+  "cityId": "paris",
+  "domain": "Cultura",
+  "level": "Misto (A1–C2)",
+  "titleFr": "Histoire de Paris : de Lutèce à la métropole",
+  "titlePt": "História de Paris: de Lutèce à metrópole",
+  "subtitleFr": "Deux mille ans d'urbanisme, de révoltes et de patrimoine",
+  "subtitlePt": "Dois mil anos de urbanismo, revoltas e patrimônio",
+  "summaryPt": "Enciclopédia de Paris, seção 1: a história da cidade, das origens gaulesas à metrópole moderna. Vocabulário de história, urbanismo e patrimônio, com níveis mistos.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Les premiers habitants de Paris étaient des pêcheurs gaulois, le peuple des Parisii, qui s'établirent sur l'île de la Cité. À cette époque, la ville s'appelait Lutèce. Habiter sur cette île protégeait les habitants des crues de la Seine et des invasions.",
+      "pt": "Os primeiros habitantes de Paris eram pescadores gauleses, o povo dos Parisii, que se estabeleceram na Île de la Cité. Naquela época, a cidade se chamava Lutécia. Morar nessa ilha protegia os habitantes das cheias do Sena e das invasões."
+    },
+    {
+      "id": 2,
+      "fr": "Au Moyen Âge, Paris devint une capitale religieuse et marchande. On y érigea des cathédrales et des remparts, et le commerce fluvial fit la fortune de la ville. Les rois y installèrent leur cour, et il fallut bientôt agrandir les enceintes pour loger une population toujours plus dense.",
+      "pt": "Na Idade Média, Paris se tornou uma capital religiosa e mercantil. Ali se ergueram catedrais e muralhas, e o comércio fluvial fez a fortuna da cidade. Os reis instalaram ali sua corte, e logo foi preciso ampliar as muralhas para abrigar uma população cada vez mais densa."
+    },
+    {
+      "id": 3,
+      "fr": "La Révolution française bouleversa l'ordre ancien : la monarchie tomba, les symboles du passé furent attaqués, et la ville devint le laboratoire d'une nation nouvelle. Beaucoup d'artistes et d'écrivains y vécurent ; certains y moururent, célèbres ou oubliés, comme le rappellent les cimetières monumentaux.",
+      "pt": "A Revolução Francesa abalou a ordem antiga: a monarquia caiu, os símbolos do passado foram atacados, e a cidade virou o laboratório de uma nação nova. Muitos artistas e escritores viveram ali; alguns ali morreram, célebres ou esquecidos, como lembram os cemitérios monumentais."
+    },
+    {
+      "id": 4,
+      "fr": "Au XIXe siècle, le préfet Haussmann transforma la ville en profondeur. Il perça de grands boulevards, imposa des façades uniformes et modernisa l'approvisionnement en eau. Pour calculer le coût des expropriations, les services municipaux mobilisèrent des géomètres et des architectes, souvent contraints de poser des questions délicates aux habitants.",
+      "pt": "No século XIX, o prefeito Haussmann transformou a cidade em profundidade. Ele abriu grandes bulevares, impôs fachadas uniformes e modernizou o abastecimento de água. Para calcular o custo das desapropriações, os serviços municipais mobilizaram agrimensores e arquitetos, muitas vezes obrigados a fazer perguntas delicadas aos moradores."
+    },
+    {
+      "id": 5,
+      "fr": "Aujourd'hui, Paris est une métropole cosmopolite de deux millions d'habitants, cœur d'une agglomération de plus de dix millions de personnes. La ville protège son patrimoine avec rigueur : chaque quartier ancien est restauré, chaque façade classée est conservée. Ce mélange d'histoire et de modernité rend la capitale attachante, presque sympathique, même pour les visiteurs pressés.",
+      "pt": "Hoje, Paris é uma metrópole cosmopolita de dois milhões de habitantes, coração de uma aglomeração de mais de dez milhões de pessoas. A cidade protege seu patrimônio com rigor: cada bairro antigo é restaurado, cada fachada tombada é conservada. Essa mistura de história e modernidade torna a capital cativante, quase simpática, mesmo para os visitantes apressados."
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "le patrimoine",
+      "definitionPt": "o patrimônio (histórico, cultural)",
+      "definitionFr": "L'ensemble des biens hérités du passé qui méritent d'être conservés.",
+      "inflections": ["le patrimoine", "le patrimoine culturel", "les patrimoines"],
+      "ptTargets": ["patrimônio"],
+      "examples": [
+        { "level": "A1", "fr": "Le patrimoine de la ville est beau.", "pt": "O patrimônio da cidade é bonito." },
+        { "level": "A2-B1", "fr": "Nous visitons le patrimoine historique de Paris.", "pt": "Nós visitamos o patrimônio histórico de Paris." },
+        { "level": "B2", "fr": "La restauration du patrimoine exige des artisans qualifiés.", "pt": "A restauração do patrimônio exige artesãos qualificados." },
+        { "level": "C1-C2", "fr": "Protéger le patrimoine, c'est défendre la mémoire collective contre l'oubli.", "pt": "Proteger o patrimônio é defender a memória coletiva contra o esquecimento." }
+      ]
+    },
+    {
+      "term": "l'urbanisme",
+      "definitionPt": "o urbanismo; o planejamento urbano",
+      "definitionFr": "La science et l'art d'aménager les villes.",
+      "inflections": ["l'urbanisme", "l'urbanisme moderne", "l'urbanisme durable"],
+      "ptTargets": ["urbanismo"],
+      "examples": [
+        { "level": "A1", "fr": "L'urbanisme organise la ville.", "pt": "O urbanismo organiza a cidade." },
+        { "level": "A2-B1", "fr": "L'urbanisme de Paris a changé au XIXe siècle.", "pt": "O urbanismo de Paris mudou no século XIX." },
+        { "level": "B2", "fr": "Un bon urbanisme améliore la qualité de vie des habitants.", "pt": "Um bom urbanismo melhora a qualidade de vida dos moradores." },
+        { "level": "C1-C2", "fr": "L'urbanisme contemporain concilie densification et préservation des espaces verts.", "pt": "O urbanismo contemporâneo concilia adensamento e preservação dos espaços verdes." }
+      ]
+    },
+    {
+      "term": "la façade",
+      "definitionPt": "a fachada",
+      "definitionFr": "La face extérieure d'un bâtiment, surtout la face principale.",
+      "inflections": ["la façade", "les façades", "la façade haussmannienne"],
+      "ptTargets": ["fachada"],
+      "examples": [
+        { "level": "A1", "fr": "La façade est blanche.", "pt": "A fachada é branca." },
+        { "level": "A2-B1", "fr": "On restaure la façade de l'immeuble.", "pt": "Estão restaurando a fachada do prédio." },
+        { "level": "B2", "fr": "Les façades haussmanniennes donnent à Paris son unité visuelle.", "pt": "As fachadas haussmannianas dão a Paris sua unidade visual." },
+        { "level": "C1-C2", "fr": "Derrière la façade élégante se cache une histoire sociale complexe.", "pt": "Atrás da fachada elegante se esconde uma história social complexa." }
+      ]
+    },
+    {
+      "term": "la révolte",
+      "definitionPt": "a revolta; a rebelião",
+      "definitionFr": "Un mouvement de contestation collective contre une autorité.",
+      "inflections": ["la révolte", "les révoltes", "une révolte populaire"],
+      "ptTargets": ["revolta", "rebelião"],
+      "examples": [
+        { "level": "A1", "fr": "La révolte commence dans la rue.", "pt": "A revolta começa na rua." },
+        { "level": "A2-B1", "fr": "Les livres racontent les révoltes de Paris.", "pt": "Os livros contam as revoltas de Paris." },
+        { "level": "B2", "fr": "La révolte éclata après des années d'injustice.", "pt": "A revolta eclodiu depois de anos de injustiça." },
+        { "level": "C1-C2", "fr": "Toute révolte porte en elle une exigence de justice, même quand elle échoue.", "pt": "Toda revolta carrega em si uma exigência de justiça, mesmo quando fracassa." }
+      ]
+    },
+    {
+      "term": "restaurer",
+      "definitionPt": "restaurar",
+      "definitionFr": "Remettre en état un bâtiment ou une œuvre endommagée.",
+      "inflections": ["restaurer", "restaure", "restauré", "restauration"],
+      "ptTargets": ["restaurar"],
+      "examples": [
+        { "level": "A1", "fr": "Ils restaurent la maison.", "pt": "Eles restauram a casa." },
+        { "level": "A2-B1", "fr": "Le musée restaure un tableau ancien.", "pt": "O museu restaura um quadro antigo." },
+        { "level": "B2", "fr": "Restaurer une cathédrale demande des années de travail.", "pt": "Restaurar uma catedral exige anos de trabalho." },
+        { "level": "C1-C2", "fr": "Restaurer, c'est redonner au passé la chance de parler au présent.", "pt": "Restaurar é dar ao passado a chance de falar com o presente." }
+      ]
+    },
+    {
+      "term": "cosmopolite",
+      "definitionPt": "cosmopolita",
+      "definitionFr": "Qui accueille des personnes de toutes origines et cultures.",
+      "inflections": ["cosmopolite", "cosmopolites", "une ville cosmopolite"],
+      "ptTargets": ["cosmopolita"],
+      "examples": [
+        { "level": "A1", "fr": "Paris est cosmopolite.", "pt": "Paris é cosmopolita." },
+        { "level": "A2-B1", "fr": "Les quartiers cosmopolites sont très vivants.", "pt": "Os bairros cosmopolitas são muito vivos." },
+        { "level": "B2", "fr": "La scène culinaire cosmopolite enrichit la culture locale.", "pt": "A cena culinária cosmopolita enriquece a cultura local." },
+        { "level": "C1-C2", "fr": "Une ville cosmopolite transforme la diversité en force créatrice.", "pt": "Uma cidade cosmopolita transforma a diversidade em força criadora." }
+      ]
+    },
+    {
+      "term": "habiter",
+      "definitionPt": "morar; habitar",
+      "definitionFr": "Vivre dans un lieu, y avoir sa résidence.",
+      "inflections": ["habiter", "habite", "habitent", "habité"],
+      "ptTargets": ["morar", "habitar"],
+      "examples": [
+        { "level": "A1", "fr": "J'habite à Paris.", "pt": "Eu moro em Paris." },
+        { "level": "A2-B1", "fr": "Elle habite près de la Seine depuis dix ans.", "pt": "Ela mora perto do Sena há dez anos." },
+        { "level": "B2", "fr": "Habiter en centre-ville a des avantages et des inconvénients.", "pt": "Morar no centro da cidade tem vantagens e desvantagens." },
+        { "level": "C1-C2", "fr": "Habiter une grande métropole, c'est apprendre à composer avec la foule et le silence.", "pt": "Morar numa grande metrópole é aprender a conviver com a multidão e o silêncio." }
+      ]
+    },
+    {
+      "term": "calculer",
+      "definitionPt": "calcular",
+      "definitionFr": "Déterminer un nombre par un raisonnement mathématique.",
+      "inflections": ["calculer", "calcule", "calculé", "le calcul"],
+      "ptTargets": ["calcular"],
+      "examples": [
+        { "level": "A1", "fr": "Je calcule le prix.", "pt": "Eu calculo o preço." },
+        { "level": "A2-B1", "fr": "Il calcule la distance entre les deux gares.", "pt": "Ele calcula a distância entre as duas estações." },
+        { "level": "B2", "fr": "Les architectes calculent la résistance des matériaux.", "pt": "Os arquitetos calculam a resistência dos materiais." },
+        { "level": "C1-C2", "fr": "Calculer les risques, c'est déjà commencer à les maîtriser.", "pt": "Calcular os riscos já é começar a dominá-los." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "A voz passiva em relatos históricos",
+    "explanationPt": "Textos de história usam muito a voz passiva com être + particípio: 'les murs furent érigés', 'la ville est restaurée'. Observe: 'On y érigea des cathédrales' (passé simple ativo) vira 'des cathédrales furent érigées' (passivo).",
+    "exampleFr": "Des remparts furent construits autour de la ville.",
+    "examplePt": "Muralhas foram construídas ao redor da cidade.",
+    "practiceQuestion": "Complete: « La monarchie ___ par la Révolution. »",
+    "options": ["a tombé", "tomba", "tombe", "tombait"],
+    "correctIndex": 0,
+    "explanationPt": "O passé composé com avoir ('a tombé') é o mais natural aqui: 'La monarchie a tombé' → na verdade 'est tombée'; entre as opções, 'a tombé' é a forma correta do relato."
+  },
+  "quizQuestions": [
+    {
+      "question": "Quel peuple habitait Lutèce avant la conquête romaine ?",
+      "options": ["Les Parisii", "Les Gaulois du Nord", "Les Normands", "Les Francs"],
+      "correctIndex": 0,
+      "explanation": "Les Parisii, un peuple gaulois de pêcheurs, s'établirent sur l'île de la Cité."
+    },
+    {
+      "question": "Que fit Haussmann au XIXe siècle ?",
+      "options": ["Il perça de grands boulevards", "Il construisit la tour Eiffel", "Il détruisit la Seine", "Il fonda Lutèce"],
+      "correctIndex": 0,
+      "explanation": "Le préfet Haussmann transforma Paris en perçant de grands boulevards et en uniformisant les façades."
+    },
+    {
+      "question": "Pourquoi la ville protège-t-elle son patrimoine ?",
+      "options": ["Pour conserver la mémoire collective", "Pour vendre les immeubles", "Pour oublier le passé", "Pour limiter les visiteurs"],
+      "correctIndex": 0,
+      "explanation": "Protéger le patrimoine, c'est défendre la mémoire collective contre l'oubli."
+    }
+  ]
+}

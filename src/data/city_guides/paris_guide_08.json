@@ -1,0 +1,161 @@
+{
+  "id": "paris_guide_08",
+  "cityId": "paris",
+  "domain": "Cultura",
+  "level": "Misto (A1–C2)",
+  "titleFr": "Le sport à Paris",
+  "titlePt": "O esporte em Paris",
+  "subtitleFr": "Stades, Tour de France et Jeux olympiques",
+  "subtitlePt": "Estádios, Tour de France e Jogos Olímpicos",
+  "summaryPt": "Enciclopédia de Paris, seção 8: o esporte na capital — futebol, ciclismo, atletismo e a prática cotidiana. Vocabulário esportivo, dos níveis A1 ao C2.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Le football est le sport le plus populaire de la capitale. Le week-end, des dizaines de milliers de supporteurs se pressent au Parc des Princes pour soutenir leur équipe. Gagner un match à domicile est une fête ; perdre un match, une déception qui se discute dans tous les cafés.",
+      "pt": "O futebol é o esporte mais popular da capital. No fim de semana, dezenas de milhares de torcedores se apertam no Parc des Princes para apoiar seu time. Vencer uma partida em casa é uma festa; perder uma partida, uma decepção que se discute em todos os cafés."
+    },
+    {
+      "id": 2,
+      "fr": "Chaque été, le Tour de France s'achève sur les Champs-Élysées. Les coureurs, épuisés par trois semaines d'étapes, sprintent sur le pavé dans un dernier effort. Les amateurs se rassemblent au bord du parcours, souvent dès l'aube, pour voir passer le peloton en quelques secondes.",
+      "pt": "Todo verão, o Tour de France termina nos Champs-Élysées. Os ciclistas, exaustos por três semanas de etapas, sprintam sobre o calçamento num último esforço. Os fãs se reúnem à beira do percurso, muitas vezes desde o amanhecer, para ver o pelotão passar em poucos segundos."
+    },
+    {
+      "id": 3,
+      "fr": "En 2024, Paris a accueilli les Jeux olympiques. Pendant deux semaines, des athlètes du monde entier ont rivalisé dans les stades et sur les sites historiques de la ville. Chaque médaille française fut célébrée comme une fête nationale, et la capitale découvrit des sports nouveaux pour elle.",
+      "pt": "Em 2024, Paris recebeu os Jogos Olímpicos. Durante duas semanas, atletas do mundo inteiro competiram nos estádios e nos sítios históricos da cidade. Cada medalha francesa foi celebrada como uma festa nacional, e a capital descobriu esportes novos para ela."
+    },
+    {
+      "id": 4,
+      "fr": "Au quotidien, les Parisiens bougent beaucoup : on court dans les parcs, on nage dans les piscines municipales, on pratique le yoga dans les jardins. À la salle de sport, on s'entraîne, on soulève des poids et on essaie de courir vite ; au basket, chaque panier vaut deux points, parfois trois, et une équipe gagne quand elle atteint vingt et un points.",
+      "pt": "No dia a dia, os parisienses se movem muito: correm nos parques, nadam nas piscinas municipais, praticam ioga nos jardins. Na academia, treinam, levantam pesos e tentam correr rápido; no basquete, cada cesta vale dois pontos, às vezes três, e um time vence quando alcança vinte e um pontos."
+    },
+    {
+      "id": 5,
+      "fr": "Le marathon de Paris traverse la ville au printemps, de l'arc de triomphe à la porte de Vincennes. Des dizaines de milliers de coureurs s'entraînent pendant des mois pour ce jour-là. Le public, massé tout au long du parcours, encourage les derniers avec autant de chaleur que les premiers.",
+      "pt": "A maratona de Paris atravessa a cidade na primavera, do Arco do Triunfo à porta de Vincennes. Dezenas de milhares de corredores treinam durante meses para esse dia. O público, aglomerado ao longo do percurso, incentiva os últimos com tanto carinho quanto os primeiros."
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "le stade",
+      "definitionPt": "o estádio",
+      "definitionFr": "Le lieu où l'on pratique et regarde les sports, entouré de gradins.",
+      "inflections": ["le stade", "les stades", "le stade municipal"],
+      "ptTargets": ["estádio"],
+      "examples": [
+        { "level": "A1", "fr": "Le stade est plein.", "pt": "O estádio está cheio." },
+        { "level": "A2-B1", "fr": "On va au stade pour voir le match.", "pt": "Vamos ao estádio para ver o jogo." },
+        { "level": "B2", "fr": "Le stade accueille quatre-vingt mille spectateurs.", "pt": "O estádio recebe oitenta mil espectadores." },
+        { "level": "C1-C2", "fr": "Le stade est un théâtre où se joue, chaque semaine, la tragédie du score.", "pt": "O estádio é um teatro onde se encena, toda semana, a tragédia do placar." }
+      ]
+    },
+    {
+      "term": "le supporteur",
+      "definitionPt": "o torcedor",
+      "definitionFr": "Une personne qui soutient une équipe ou un athlète.",
+      "inflections": ["le supporteur", "les supporteurs", "une supportrice"],
+      "ptTargets": ["torcedor"],
+      "examples": [
+        { "level": "A1", "fr": "Le supporteur crie.", "pt": "O torcedor grita." },
+        { "level": "A2-B1", "fr": "Les supporteurs chantent pendant le match.", "pt": "Os torcedores cantam durante o jogo." },
+        { "level": "B2", "fr": "Un bon supporteur respecte aussi les joueurs de l'autre équipe.", "pt": "Um bom torcedor respeita também os jogadores do outro time." },
+        { "level": "C1-C2", "fr": "Le supporteur vit la victoire comme une renaissance et la défaite comme une leçon.", "pt": "O torcedor vive a vitória como um renascimento e a derrota como uma lição." }
+      ]
+    },
+    {
+      "term": "le championnat",
+      "definitionPt": "o campeonato",
+      "definitionFr": "La compétition qui désigne le champion sur une saison.",
+      "inflections": ["le championnat", "les championnats", "le championnat national"],
+      "ptTargets": ["campeonato"],
+      "examples": [
+        { "level": "A1", "fr": "Le championnat commence en août.", "pt": "O campeonato começa em agosto." },
+        { "level": "A2-B1", "fr": "Leur équipe a gagné le championnat.", "pt": "O time deles ganhou o campeonato." },
+        { "level": "B2", "fr": "Le championnat se joue sur toute une saison, match après match.", "pt": "O campeonato se joga ao longo de uma temporada, jogo após jogo." },
+        { "level": "C1-C2", "fr": "Un championnat ne se gagne pas en un match : il se construit dans la régularité.", "pt": "Um campeonato não se ganha num jogo: constrói-se na regularidade." }
+      ]
+    },
+    {
+      "term": "s'entraîner",
+      "definitionPt": "treinar",
+      "definitionFr": "Se préparer physiquement pour une compétition.",
+      "inflections": ["s'entraîner", "s'entraîne", "entraîné", "l'entraînement"],
+      "ptTargets": ["treinar"],
+      "examples": [
+        { "level": "A1", "fr": "Je m'entraîne le soir.", "pt": "Eu treino à noite." },
+        { "level": "A2-B1", "fr": "Elle s'entraîne deux fois par semaine.", "pt": "Ela treina duas vezes por semana." },
+        { "level": "B2", "fr": "S'entraîner régulièrement vaut mieux que s'entraîner beaucoup d'un coup.", "pt": "Treinar regularmente vale mais do que treinar muito de uma vez." },
+        { "level": "C1-C2", "fr": "S'entraîner, c'est apprendre à écouter son corps avant qu'il ne parle trop fort.", "pt": "Treinar é aprender a ouvir o corpo antes que ele fale alto demais." }
+      ]
+    },
+    {
+      "term": "la médaille",
+      "definitionPt": "a medalha",
+      "definitionFr": "La récompense décernée aux trois premiers d'une compétition.",
+      "inflections": ["la médaille", "les médailles", "la médaille d'or"],
+      "ptTargets": ["medalha"],
+      "examples": [
+        { "level": "A1", "fr": "La médaille est en or.", "pt": "A medalha é de ouro." },
+        { "level": "A2-B1", "fr": "Elle a gagné une médaille d'argent.", "pt": "Ela ganhou uma medalha de prata." },
+        { "level": "B2", "fr": "Chaque médaille représente des années de sacrifices.", "pt": "Cada medalha representa anos de sacrifícios." },
+        { "level": "C1-C2", "fr": "La médaille ne raconte pas la course : elle ne fait que la résumer.", "pt": "A medalha não conta a corrida: apenas a resume." }
+      ]
+    },
+    {
+      "term": "gagner un match",
+      "definitionPt": "vencer uma partida",
+      "definitionFr": "Remporter la victoire dans une rencontre sportive.",
+      "inflections": ["gagner un match", "gagne un match", "gagné un match"],
+      "ptTargets": ["vencer uma partida"],
+      "examples": [
+        { "level": "A1", "fr": "Nous avons gagné le match.", "pt": "Nós vencemos a partida." },
+        { "level": "A2-B1", "fr": "Ils gagnent souvent leurs matchs à domicile.", "pt": "Eles vencem com frequência suas partidas em casa." },
+        { "level": "B2", "fr": "Gagner un match demande une préparation mentale autant que physique.", "pt": "Vencer uma partida exige preparação mental tanto quanto física." },
+        { "level": "C1-C2", "fr": "Gagner un match, c'est d'abord ne pas avoir perdu contre soi-même.", "pt": "Vencer uma partida é, antes de tudo, não ter perdido para si mesmo." }
+      ]
+    },
+    {
+      "term": "le marathon",
+      "definitionPt": "a maratona",
+      "definitionFr": "Une course à pied de plus de quarante-deux kilomètres.",
+      "inflections": ["le marathon", "les marathons", "le marathon de Paris"],
+      "ptTargets": ["maratona"],
+      "examples": [
+        { "level": "A1", "fr": "Le marathon est très long.", "pt": "A maratona é muito longa." },
+        { "level": "A2-B1", "fr": "Mon frère court le marathon.", "pt": "Meu irmão corre a maratona." },
+        { "level": "B2", "fr": "Préparer un marathon demande des mois d'entraînement.", "pt": "Preparar uma maratona exige meses de treinamento." },
+        { "level": "C1-C2", "fr": "Le marathon est une conversation entre le coureur et sa propre endurance.", "pt": "A maratona é uma conversa entre o corredor e sua própria resistência." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Expressões de quantidade: des dizaines de, des milliers de",
+    "explanationPt": "Para quantidades aproximadas: 'des dizaines de milliers' (dezenas de milhares), 'des centaines de' (centenas), 'des milliers de' (milhares). O substantivo seguinte fica no plural, sem artigo.",
+    "exampleFr": "Des milliers de coureurs s'entraînent pour le marathon.",
+    "examplePt": "Milhares de corredores treinam para a maratona.",
+    "practiceQuestion": "Complete: « ___ de supporteurs se pressent au stade. »",
+    "options": ["Des dizaines", "Dizaines", "Les dizaines de", "Des dizaine"],
+    "correctIndex": 0,
+    "explanationPt": "Forma correta: 'des dizaines de supporteurs'."
+  },
+  "quizQuestions": [
+    {
+      "question": "Où se termine chaque année le Tour de France ?",
+      "options": ["Sur les Champs-Élysées", "Au Parc des Princes", "À la tour Eiffel", "Au Louvre"],
+      "correctIndex": 0,
+      "explanation": "Le Tour de France s'achève traditionnellement sur les Champs-Élysées."
+    },
+    {
+      "question": "Qu'a accueilli Paris en 2024 ?",
+      "options": ["Les Jeux olympiques", "Le Mondial de football", "Une coupe du monde de rugby", "Le championnat de natation"],
+      "correctIndex": 0,
+      "explanation": "Paris a accueilli les Jeux olympiques en 2024."
+    },
+    {
+      "question": "Qu'est-ce qu'un supporteur ?",
+      "options": ["Une personne qui soutient une équipe", "Un arbitre officiel", "Un joueur remplaçant", "Un entraîneur"],
+      "correctIndex": 0,
+      "explanation": "Le supporteur soutient son équipe et ses athlètes."
+    }
+  ]
+}

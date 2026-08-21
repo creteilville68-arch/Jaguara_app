@@ -1,8 +1,8 @@
 import React, { useState } from 'react';
-import { Compass, LayoutDashboard, Mic, BookOpen, Layers, Sparkles, Settings, ChevronLeft, ChevronRight, MapPin } from 'lucide-react';
+import { Compass, LayoutDashboard, Mic, BookOpen, Layers, Sparkles, Settings, ChevronLeft, ChevronRight, MapPin, Landmark } from 'lucide-react';
 import { UserMapProgress } from '../types/map';
 
-export type ActiveTab = 'map' | 'dashboard' | 'mentor' | 'lessons' | 'vocabulary' | 'flashcards' | 'settings';
+export type ActiveTab = 'map' | 'dashboard' | 'mentor' | 'lessons' | 'vocabulary' | 'flashcards' | 'encyclopedia' | 'settings';
 
 interface SidebarProps {
   activeTab: ActiveTab;
@@ -20,6 +20,7 @@ export const Sidebar: React.FC<SidebarProps> = ({ activeTab, onTabChange, progre
     { id: 'lessons' as ActiveTab, label: 'Aulas & Textos', icon: BookOpen },
     { id: 'vocabulary' as ActiveTab, label: 'Vocabulário', icon: Layers },
     { id: 'flashcards' as ActiveTab, label: 'Flashcards SRS', icon: Sparkles },
+    { id: 'encyclopedia' as ActiveTab, label: 'Enciclopédia', icon: Landmark, badge: 'Fase 2' },
   ];
 
   return (

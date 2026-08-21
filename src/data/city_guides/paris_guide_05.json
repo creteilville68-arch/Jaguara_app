@@ -1,0 +1,161 @@
+{
+  "id": "paris_guide_05",
+  "cityId": "paris",
+  "domain": "Cultura",
+  "level": "Misto (A1–C2)",
+  "titleFr": "Gastronomie et marchés",
+  "titlePt": "Gastronomia e mercados",
+  "subtitleFr": "Du petit déjeuner au dîner, les saveurs de Paris",
+  "subtitlePt": "Do café da manhã ao jantar, os sabores de Paris",
+  "summaryPt": "Enciclopédia de Paris, seção 5: a comida parisiense, do café da manhã ao jantar, passando pelos mercados e bistrôs. Vocabulário de cozinha, alimentação e comércio.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Le petit déjeuner parisien est simple : une baguette encore chaude, du beurre, de la confiture et un expresso serré. Beaucoup de Parisiens prennent leur petit-déjeuner debout au comptoir d'un café, avant de courir vers le métro.",
+      "pt": "O café da manhã parisiense é simples: uma baguete ainda quente, manteiga, geleia e um café expresso curto. Muitos parisienses tomam o café da manhã em pé, no balcão de um café, antes de correr para o metrô."
+    },
+    {
+      "id": 2,
+      "fr": "Les marchés de quartier rythment la semaine. Le dimanche matin, on y choisit des fruits, des légumes, du fromage et du poisson, directement chez les producteurs. Mordre dans une pomme de terre rôtie encore fumante, c'est une joie simple que les Parisiens ne bouderont jamais.",
+      "pt": "Os mercados de bairro marcam o ritmo da semana. No domingo de manhã, escolhemos frutas, legumes, queijo e peixe, direto com os produtores. Morder uma batata assada ainda fumegante é uma alegria simples que os parisienses nunca desprezam."
+    },
+    {
+      "id": 3,
+      "fr": "Dans la cuisine, tout se joue dans le geste. On mélange les ingrédients dans un grand saladier, on couvre la casserole avec un couvercle, on sert la soupe avec une louche, on réduit en purée avec un mixeur. Avant de commencer, on se lave les mains, et on ne touche jamais la nourriture sans précaution.",
+      "pt": "Na cozinha, tudo se decide no gesto. Misturamos os ingredientes numa grande saladeira, cobrimos a panela com uma tampa, servimos a sopa com uma concha, reduzimos a purê com um liquidificador. Antes de começar, lavamos as mãos, e nunca tocamos a comida sem cuidado."
+    },
+    {
+      "id": 4,
+      "fr": "Le bistrot est une institution parisienne. On y boit un verre de vin, on y mange un plat du jour, on y lit le journal. La brasserie, plus grande, reste ouverte du matin au soir. Le serveur, vif et précis, connaît ses clients et leurs habitudes.",
+      "pt": "O bistrô é uma instituição parisiense. Ali se bebe um copo de vinho, come-se um prato do dia, lê-se o jornal. A brasserie, maior, fica aberta da manhã à noite. O garçom, ágil e preciso, conhece seus clientes e seus hábitos."
+    },
+    {
+      "id": 5,
+      "fr": "La pâtisserie parisienne est une affaire sérieuse. Les vitrines regorgent d'éclairs, de tartes et de mille-feuilles. On ne déguste pas une pâtisserie à la hâte : on la savoure, lentement, en fermant les yeux, pour en retenir chaque arôme.",
+      "pt": "A confeitaria parisiense é coisa séria. As vitrines transbordam de éclairs, tortas e mil-folhas. Não se degusta uma sobremesa com pressa: saboreia-se, devagar, fechando os olhos, para reter cada aroma."
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "déguster",
+      "definitionPt": "degustar; provar com atenção",
+      "definitionFr": "Goûter quelque chose en appréciant ses qualités.",
+      "inflections": ["déguster", "déguste", "dégusté", "la dégustation"],
+      "ptTargets": ["degustar", "provar"],
+      "examples": [
+        { "level": "A1", "fr": "Nous dégustons un gâteau.", "pt": "Nós degustamos um bolo." },
+        { "level": "A2-B1", "fr": "On déguste le fromage à la fin du repas.", "pt": "Degusta-se o queijo no fim da refeição." },
+        { "level": "B2", "fr": "Déguster un vin demande de l'attention et de la patience.", "pt": "Degustar um vinho exige atenção e paciência." },
+        { "level": "C1-C2", "fr": "Déguster, c'est donner au goût le temps de raconter son histoire.", "pt": "Degustar é dar ao sabor o tempo de contar sua história." }
+      ]
+    },
+    {
+      "term": "savourer",
+      "definitionPt": "saborear",
+      "definitionFr": "Apprécier lentement le goût d'un aliment ou d'un moment.",
+      "inflections": ["savourer", "savoure", "savouré"],
+      "ptTargets": ["saborear"],
+      "examples": [
+        { "level": "A1", "fr": "Elle savoure son chocolat.", "pt": "Ela saboreia seu chocolate." },
+        { "level": "A2-B1", "fr": "On savoure le dessert en silence.", "pt": "Saboreamos a sobremesa em silêncio." },
+        { "level": "B2", "fr": "Savourer un repas entre amis, c'est déjà un voyage.", "pt": "Saborear uma refeição entre amigos já é uma viagem." },
+        { "level": "C1-C2", "fr": "Ceux qui savent savourer ne mangent jamais seul : ils partagent avec le temps lui-même.", "pt": "Quem sabe saborear nunca come sozinho: compartilha com o próprio tempo." }
+      ]
+    },
+    {
+      "term": "l'arôme",
+      "definitionPt": "o aroma",
+      "definitionFr": "L'odeur agréable et caractéristique d'une substance.",
+      "inflections": ["l'arôme", "les arômes", "un arôme délicat"],
+      "ptTargets": ["aroma"],
+      "examples": [
+        { "level": "A1", "fr": "L'arôme du café est bon.", "pt": "O aroma do café é bom." },
+        { "level": "A2-B1", "fr": "L'arôme du pain chaud remplit la rue.", "pt": "O aroma do pão quente enche a rua." },
+        { "level": "B2", "fr": "Le vin révèle des arômes de fruits et d'épices.", "pt": "O vinho revela aromas de frutas e especiarias." },
+        { "level": "C1-C2", "fr": "L'arôme précède le goût et prépare la mémoire à se souvenir.", "pt": "O aroma precede o sabor e prepara a memória para lembrar." }
+      ]
+    },
+    {
+      "term": "le marché",
+      "definitionPt": "o mercado; a feira",
+      "definitionFr": "Un lieu où l'on vend des produits frais en plein air.",
+      "inflections": ["le marché", "les marchés", "le marché du quartier"],
+      "ptTargets": ["mercado", "feira"],
+      "examples": [
+        { "level": "A1", "fr": "Le marché est ouvert le dimanche.", "pt": "O mercado abre no domingo." },
+        { "level": "A2-B1", "fr": "On achète des légumes au marché.", "pt": "Compramos legumes no mercado." },
+        { "level": "B2", "fr": "Les marchés de quartier favorisent les circuits courts.", "pt": "Os mercados de bairro favorecem os circuitos curtos." },
+        { "level": "C1-C2", "fr": "Le marché est une leçon d'économie locale, de saison et de rencontres.", "pt": "O mercado é uma lição de economia local, de estação e de encontros." }
+      ]
+    },
+    {
+      "term": "la recette",
+      "definitionPt": "a receita (culinária)",
+      "definitionFr": "L'ensemble des instructions pour préparer un plat.",
+      "inflections": ["la recette", "les recettes", "la recette de famille"],
+      "ptTargets": ["receita"],
+      "examples": [
+        { "level": "A1", "fr": "La recette est facile.", "pt": "A receita é fácil." },
+        { "level": "A2-B1", "fr": "Je cherche la recette de la soupe.", "pt": "Procuro a receita da sopa." },
+        { "level": "B2", "fr": "Chaque famille garde une recette transmise de génération en génération.", "pt": "Cada família guarda uma receita transmitida de geração em geração." },
+        { "level": "C1-C2", "fr": "Une recette n'est jamais figée : elle se réinvente à chaque cuisinier.", "pt": "Uma receita nunca é fixa: reinventa-se a cada cozinheiro." }
+      ]
+    },
+    {
+      "term": "mijoter",
+      "definitionPt": "cozinhar em fogo brando; refogar lentamente",
+      "definitionFr": "Cuire lentement à feu doux, en parlant d'un plat.",
+      "inflections": ["mijoter", "mijote", "mijoté", "un plat mijoté"],
+      "ptTargets": ["cozinhar em fogo brando"],
+      "examples": [
+        { "level": "A1", "fr": "La soupe mijote.", "pt": "A sopa cozinha em fogo brando." },
+        { "level": "A2-B1", "fr": "Le plat mijote depuis deux heures.", "pt": "O prato cozinha em fogo brando há duas horas." },
+        { "level": "B2", "fr": "Un bon ragoût mijote lentement pour révéler ses saveurs.", "pt": "Um bom ensopado cozinha lentamente para revelar seus sabores." },
+        { "level": "C1-C2", "fr": "Laisser mijoter, c'est apprendre que le temps est l'ingrédient principal.", "pt": "Deixar cozinhar em fogo brando é aprender que o tempo é o ingrediente principal." }
+      ]
+    },
+    {
+      "term": "le bistrot",
+      "definitionPt": "o bistrô",
+      "definitionFr": "Un petit café-restaurant typiquement français.",
+      "inflections": ["le bistrot", "les bistrots", "un bistrot de quartier"],
+      "ptTargets": ["bistrô"],
+      "examples": [
+        { "level": "A1", "fr": "Le bistrot est près de chez moi.", "pt": "O bistrô é perto da minha casa." },
+        { "level": "A2-B1", "fr": "On mange au bistrot le vendredi soir.", "pt": "Comemos no bistrô na sexta à noite." },
+        { "level": "B2", "fr": "Le bistrot est un lieu de vie où se croisent les générations.", "pt": "O bistrô é um lugar de vida onde as gerações se cruzam." },
+        { "level": "C1-C2", "fr": "Le bistrot incarne un art de vivre fondé sur la conversation et la lenteur.", "pt": "O bistrô encarna uma arte de viver fundada na conversa e na lentidão." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "O pronome 'on' com valor de 'nós'",
+    "explanationPt": "No francês falado e em textos de descrição, 'on' substitui 'nous': 'on mélange, on couvre, on sert'. O verbo fica na 3ª pessoa do singular.",
+    "exampleFr": "On se lave les mains avant de cuisiner.",
+    "examplePt": "Lavamos as mãos antes de cozinhar.",
+    "practiceQuestion": "Complete: « Au marché, on ___ des légumes frais. »",
+    "options": ["achète", "achètent", "achetons", "achetez"],
+    "correctIndex": 0,
+    "explanationPt": "'On' exige a 3ª pessoa do singular: 'on achète'."
+  },
+  "quizQuestions": [
+    {
+      "question": "Que boit-on généralement au petit déjeuner parisien ?",
+      "options": ["Un expresso serré", "Un grand bol de thé", "Un jus d'orange glacé", "Un chocolat très sucré"],
+      "correctIndex": 0,
+      "explanation": "Le petit déjeuner parisien s'accompagne souvent d'un expresso serré."
+    },
+    {
+      "question": "Qu'est-ce qu'un bistrot ?",
+      "options": ["Un petit café-restaurant", "Une grande pâtisserie", "Un marché couvert", "Un musée de la cuisine"],
+      "correctIndex": 0,
+      "explanation": "Le bistrot est un petit café-restaurant typiquement français, ouvert du matin au soir."
+    },
+    {
+      "question": "Pourquoi laisser mijoter un plat ?",
+      "options": ["Pour révéler ses saveurs", "Pour le refroidir", "Pour le saler", "Pour le conserver"],
+      "correctIndex": 0,
+      "explanation": "Mijoter à feu doux permet aux saveurs de se développer lentement."
+    }
+  ]
+}

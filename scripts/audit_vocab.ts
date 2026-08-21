@@ -178,6 +178,14 @@ const files = fs.readdirSync(DATA_DIR).filter((f) => /_lesson_\d+\.json$/.test(f
 for (const f of files) {
   auditLessonFile(path.join(DATA_DIR, f));
 }
+// 2. Guias de cidade (Enciclopédia)
+const GUIDE_DIR = path.join(DATA_DIR, 'city_guides');
+if (fs.existsSync(GUIDE_DIR)) {
+  const guideFiles = fs.readdirSync(GUIDE_DIR).filter((f) => /_guide_\d+\.json$/.test(f));
+  for (const f of guideFiles) {
+    auditLessonFile(path.join(GUIDE_DIR, f));
+  }
+}
 
 // 2. Banco mestre — tradução pt vazia
 const bank = getWordBankEntries();

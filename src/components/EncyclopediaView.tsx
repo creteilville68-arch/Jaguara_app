@@ -1,0 +1,235 @@
+import React, { useState } from 'react';
+import { UserMapProgress } from '../types/map';
+import { FRANCE_CITIES } from '../data/franceMapData';
+import { Landmark, Lock, ChevronLeft, BookOpen, ArrowRight, Sparkles, Compass, MapPin } from 'lucide-react';
+import { LessonReader } from './LessonReader';
+import parisGuide01 from '../data/city_guides/paris_guide_01.json';
+import parisGuide02 from '../data/city_guides/paris_guide_02.json';
+import parisGuide03 from '../data/city_guides/paris_guide_03.json';
+import parisGuide04 from '../data/city_guides/paris_guide_04.json';
+import parisGuide05 from '../data/city_guides/paris_guide_05.json';
+import parisGuide06 from '../data/city_guides/paris_guide_06.json';
+import parisGuide07 from '../data/city_guides/paris_guide_07.json';
+import parisGuide08 from '../data/city_guides/paris_guide_08.json';
+
+interface EncyclopediaViewProps {
+  progress: UserMapProgress;
+  onNavigateToFlashcards?: () => void;
+}
+
+/** Dossiês por cidade. Cada seção é uma "aula" no formato padrão (paragraphs + vocabularyDictionary). */
+const CITY_GUIDES: Record<string, Array<Record<string, unknown>>> = {
+  paris: [
+    parisGuide01 as unknown as Record<string, unknown>,
+    parisGuide02 as unknown as Record<string, unknown>,
+    parisGuide03 as unknown as Record<string, unknown>,
+    parisGuide04 as unknown as Record<string, unknown>,
+    parisGuide05 as unknown as Record<string, unknown>,
+    parisGuide06 as unknown as Record<string, unknown>,
+    parisGuide07 as unknown as Record<string, unknown>,
+    parisGuide08 as unknown as Record<string, unknown>,
+  ],
+};
+
+const CITY_ORDER = [
+  'paris', 'amiens', 'lille', 'mont-saint-michel', 'tours', 'bordeaux',
+  'toulouse', 'lyon', 'marseille', 'strasbourg', 'nice',
+];
+
+export const EncyclopediaView: React.FC<EncyclopediaViewProps> = ({ progress, onNavigateToFlashcards }) => {
+  const [selectedCityId, setSelectedCityId] = useState<string | null>(null);
+  const [activeSection, setActiveSection] = useState<Record<string, unknown> | null>(null);
+
+  const journey = progress.activeJourney;
+  const trailEnded =
+    !!journey && journey.currentStepIndex >= journey.citySequence.length - 1;
+  const finalLessonDone = progress.completedLessonIds.includes('nice_lesson_40');
+  const isUnlocked = trailEnded || finalLessonDone;
+
+  const journeyProgress = journey
+    ? Math.min(journey.currentStepIndex + 1, journey.citySequence.length)
+    : 0;
+  const journeyTotal = journey ? journey.citySequence.length : 11;
+
+  // Leitor de seção (reusa o LessonReader das aulas)
+  if (activeSection) {
+    return (
+      <LessonReader
+        onBack={() => setActiveSection(null)}
+        onNavigateToFlashcards={onNavigateToFlashcards}
+        lessonData={activeSection as never}
+      />
+    );
+  }
+
+  // Detalhe da cidade: lista de seções do dossiê
+  if (selectedCityId) {
+    const city = FRANCE_CITIES.find((c) => c.id === selectedCityId);
+    const sections = CITY_GUIDES[selectedCityId] || [];
+    return (
+      <div className="max-w-5xl mx-auto p-6 space-y-6 select-none">
+        <button
+          onClick={() => setSelectedCityId(null)}
+          className="flex items-center space-x-2 text-sm font-semibold text-slate-400 hover:text-white transition-colors"
+        >
+          <ChevronLeft className="w-4 h-4" />
+          <span>Voltar à Enciclopédia</span>
+        </button>
+
+        <div className="bg-slate-900 border border-slate-800 rounded-3xl p-6 space-y-4">
+          <div className="flex items-start justify-between gap-4">
+            <div>
+              <div className="flex items-center space-x-2 text-[11px] font-bold text-emerald-400 uppercase tracking-wider">
+                <Landmark className="w-4 h-4" />
+                <span>Dossiê da cidade</span>
+              </div>
+              <h1 className="text-2xl font-black text-white mt-1">{city?.name || selectedCityId}</h1>
+              <p className="text-sm text-slate-400 mt-1">
+                {sections.length} seções temáticas · níveis A1 a C2
+              </p>
+            </div>
+          </div>
+
+          <div className="grid gap-3 pt-2">
+            {sections.map((section, idx) => {
+              const titleFr = (section.titleFr as string) || `Section ${idx + 1}`;
+              const titlePt = (section.titlePt as string) || '';
+              const paragraphs = (section.paragraphs as Array<{ fr: string; pt: string }>) || [];
+              const vocab = (section.vocabularyDictionary as Array<unknown>) || [];
+              return (
+                <button
+                  key={(section.id as string) || idx}
+                  onClick={() => setActiveSection(section)}
+                  className="group flex items-center justify-between p-4 rounded-2xl bg-slate-950 border border-slate-800 hover:border-emerald-700 hover:bg-slate-900 transition-all text-left"
+                >
+                  <div className="flex items-start space-x-3">
+                    <div className="mt-0.5 w-9 h-9 rounded-xl bg-emerald-950/70 border border-emerald-800/50 flex items-center justify-center text-emerald-400 shrink-0">
+                      <BookOpen className="w-4 h-4" />
+                    </div>
+                    <div>
+                      <p className="text-sm font-bold text-white group-hover:text-emerald-300 transition-colors">
+                        {idx + 1}. {titleFr}
+                      </p>
+                      {titlePt && <p className="text-xs text-slate-400 mt-0.5">{titlePt}</p>}
+                      <p className="text-[11px] text-slate-500 mt-1">
+                        {paragraphs.length} parágrafos · {vocab.length} expressões-chave
+                      </p>
+                    </div>
+                  </div>
+                  <ArrowRight className="w-4 h-4 text-slate-600 group-hover:text-emerald-400 transition-colors shrink-0" />
+                </button>
+              );
+            })}
+          </div>
+        </div>
+      </div>
+    );
+  }
+
+  // Tela bloqueada: fim da trilha ainda não alcançado
+  if (!isUnlocked) {
+    return (
+      <div className="max-w-5xl mx-auto p-6 select-none">
+        <div className="bg-slate-900 border border-slate-800 rounded-3xl p-10 flex flex-col items-center text-center space-y-5">
+          <div className="w-16 h-16 rounded-2xl bg-slate-950 border border-slate-800 flex items-center justify-center">
+            <Lock className="w-7 h-7 text-slate-500" />
+          </div>
+          <div>
+            <h1 className="text-2xl font-black text-white">Enciclopédia da França</h1>
+            <p className="text-sm text-slate-400 mt-2 max-w-lg">
+              Ao terminar a trilha de Irlan, você desbloqueia os dossiês das 11 cidades:
+              história, cultura, gastronomia, esporte e vida cotidiana — com todo o
+              vocabulário do banco, dos níveis A1 ao C2.
+            </p>
+          </div>
+
+          <div className="w-full max-w-md">
+            <div className="flex justify-between text-[11px] font-semibold text-slate-400 mb-1.5">
+              <span className="flex items-center space-x-1">
+                <Compass className="w-3.5 h-3.5 text-emerald-400" />
+                <span>Progresso da trilha</span>
+              </span>
+              <span>{journeyProgress} de {journeyTotal} paradas</span>
+            </div>
+            <div className="h-2 rounded-full bg-slate-800 overflow-hidden">
+              <div
+                className="h-full bg-gradient-to-r from-emerald-500 to-teal-400 transition-all"
+                style={{ width: `${Math.round((journeyProgress / journeyTotal) * 100)}%` }}
+              />
+            </div>
+            <p className="text-xs text-slate-500 mt-3">
+              Complete a aventura de Irlan (A1 → C2) para abrir a Enciclopédia.
+            </p>
+          </div>
+        </div>
+      </div>
+    );
+  }
+
+  // Grade das 11 cidades
+  return (
+    <div className="max-w-5xl mx-auto p-6 space-y-6 select-none">
+      <div className="flex items-start justify-between gap-4">
+        <div>
+          <div className="flex items-center space-x-2 text-[11px] font-bold text-emerald-400 uppercase tracking-wider">
+            <Sparkles className="w-4 h-4" />
+            <span>Fase 2 · pós-trilha</span>
+          </div>
+          <h1 className="text-2xl font-black text-white mt-1">Enciclopédia da França</h1>
+          <p className="text-sm text-slate-400 mt-1 max-w-2xl">
+            Dossiês das 11 cidades: história, patrimônio, gastronomia, esporte e vida
+            cotidiana. Textos ricos em vocabulário A1–C2, com todas as palavras clicáveis.
+          </p>
+        </div>
+      </div>
+
+      <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-3">
+        {CITY_ORDER.map((cityId) => {
+          const city = FRANCE_CITIES.find((c) => c.id === cityId);
+          const sections = CITY_GUIDES[cityId];
+          const isAvailable = !!sections && sections.length > 0;
+          return (
+            <button
+              key={cityId}
+              disabled={!isAvailable}
+              onClick={() => setSelectedCityId(cityId)}
+              className={`group relative overflow-hidden rounded-2xl border p-5 text-left transition-all ${
+                isAvailable
+                  ? 'bg-slate-900 border-slate-800 hover:border-emerald-700 hover:bg-slate-900/70'
+                  : 'bg-slate-950/60 border-slate-800/60 cursor-not-allowed'
+              }`}
+            >
+              <div className="flex items-center justify-between">
+                <div className="flex items-center space-x-2.5">
+                  <div className={`w-9 h-9 rounded-xl flex items-center justify-center ${
+                    isAvailable
+                      ? 'bg-emerald-950/70 border border-emerald-800/50 text-emerald-400'
+                      : 'bg-slate-900 border border-slate-800 text-slate-600'
+                  }`}>
+                    {isAvailable ? <Landmark className="w-4 h-4" /> : <Lock className="w-4 h-4" />}
+                  </div>
+                  <div>
+                    <p className="text-sm font-bold text-white capitalize">{city?.name || cityId}</p>
+                    <p className="text-[11px] text-slate-500">
+                      {isAvailable
+                        ? `${sections.length} seções · ${city?.region || ''}`
+                        : 'Dossiê em breve'}
+                    </p>
+                  </div>
+                </div>
+                {isAvailable && (
+                  <ArrowRight className="w-4 h-4 text-slate-600 group-hover:text-emerald-400 transition-colors" />
+                )}
+              </div>
+            </button>
+          );
+        })}
+      </div>
+
+      <div className="flex items-center space-x-2 text-[11px] text-slate-500 pt-2">
+        <MapPin className="w-3.5 h-3.5" />
+        <span>Novos dossiês são adicionados cidade por cidade.</span>
+      </div>
+    </div>
+  );
+};

@@ -137,4 +137,52 @@ export const PARIS_BACKLOG_EXAMPLES: Record<string, MasterExample[]> = {
     { level: 'B2', fr: 'La crème chantilly accompagne les fraises.', pt: 'O chantilly acompanha os morangos.' },
     { level: 'C1-C2', fr: 'La crème, onctueuse, adoucit les desserts les plus simples.', pt: 'O creme, cremoso, suaviza as sobremesas mais simples.' },
   ],
+  ampoule: [
+    { level: 'A1', fr: "L'ampoule ne marche plus.", pt: 'A lâmpada não funciona mais.' },
+    { level: 'A2-B1', fr: "Il change l'ampoule du couloir.", pt: 'Ele troca a lâmpada do corredor.' },
+    { level: 'B2', fr: "Une ampoule basse consommation dure plus longtemps.", pt: 'Uma lâmpada de baixo consumo dura mais tempo.' },
+    { level: 'C1-C2', fr: "L'ampoule, si banale, éclaire pourtant toute la pièce d'une seule idée.", pt: 'A lâmpada, tão banal, ilumina no entanto a sala inteira com uma única ideia.' },
+  ],
+  valide: [
+    { level: 'A1', fr: 'Le billet est valide.', pt: 'O bilhete é válido.' },
+    { level: 'A2-B1', fr: 'Ton abonnement est encore valide un mois.', pt: 'Sua assinatura ainda é válida por um mês.' },
+    { level: 'B2', fr: "Le document n'est plus valide sans signature.", pt: 'O documento não é mais válido sem assinatura.' },
+    { level: 'C1-C2', fr: "C'est l'usage qui rend une règle valide, pas seulement son énoncé.", pt: 'É o uso que torna uma regra válida, não apenas seu enunciado.' },
+  ],
+  monarchie: [
+    { level: 'A1', fr: 'La monarchie est une forme de gouvernement.', pt: 'A monarquia é uma forma de governo.' },
+    { level: 'A2-B1', fr: 'La monarchie française a pris fin en 1792.', pt: 'A monarquia francesa terminou em 1792.' },
+    { level: 'B2', fr: 'Sous la monarchie, le roi concentrait tous les pouvoirs.', pt: 'Sob a monarquia, o rei concentrava todos os poderes.' },
+    { level: 'C1-C2', fr: 'La monarchie absolue repose sur une légitimité que la Révolution a contestée.', pt: 'A monarquia absoluta repousa sobre uma legitimidade que a Revolução contestou.' },
+  ],
+  'critiquée': [
+    { level: 'A1', fr: 'La tour a été critiquée.', pt: 'A torre foi criticada.' },
+    { level: 'A2-B1', fr: "L'œuvre a été critiquée par le public.", pt: 'A obra foi criticada pelo público.' },
+    { level: 'B2', fr: "Critiquée à sa naissance, la tour est devenue un symbole.", pt: 'Criticada em seu nascimento, a torre virou um símbolo.' },
+    { level: 'C1-C2', fr: "Toute œuvre audacieuse est d'abord critiquée avant d'être admirée.", pt: 'Toda obra audaciosa é primeiro criticada antes de ser admirada.' },
+  ],
+  'mille-feuilles': [
+    { level: 'A1', fr: 'Le mille-feuilles est bon.', pt: 'O mil-folhas é gostoso.' },
+    { level: 'A2-B1', fr: 'Elle achète un mille-feuilles à la pâtisserie.', pt: 'Ela compra um mil-folhas na confeitaria.' },
+    { level: 'B2', fr: 'Le mille-feuilles demande des heures de préparation.', pt: 'O mil-folhas exige horas de preparação.' },
+    { level: 'C1-C2', fr: "Le mille-feuilles, c'est la géométrie qui devient gourmande.", pt: 'O mil-folhas é a geometria que vira gulodice.' },
+  ],
+  facilement: [
+    { level: 'A1', fr: 'Je trouve facilement la gare.', pt: 'Acho a estação facilmente.' },
+    { level: 'A2-B1', fr: 'On se déplace facilement en métro.', pt: 'Deslocamo-nos facilmente de metrô.' },
+    { level: 'B2', fr: 'Les correspondances permettent de traverser la ville facilement.', pt: 'As baldeações permitem atravessar a cidade facilmente.' },
+    { level: 'C1-C2', fr: "Ce qui est bien organisé se fait facilement, presque sans y penser.", pt: 'O que é bem organizado se faz facilmente, quase sem pensar.' },
+  ],
+  correspondance: [
+    { level: 'A1', fr: 'Il y a une correspondance à cette station.', pt: 'Há uma baldeação nesta estação.' },
+    { level: 'A2-B1', fr: 'La correspondance est indiquée sur le plan.', pt: 'A baldeação está indicada no mapa.' },
+    { level: 'B2', fr: 'Une correspondance rapide évite les longues attentes.', pt: 'Uma baldeação rápida evita longas esperas.' },
+    { level: 'C1-C2', fr: 'Dans un réseau bien conçu, chaque correspondance est une promesse de fluidité.', pt: 'Numa rede bem concebida, cada baldeação é uma promessa de fluidez.' },
+  ],
+  étapes: [
+    { level: 'A1', fr: 'Le voyage a trois étapes.', pt: 'A viagem tem três etapas.' },
+    { level: 'A2-B1', fr: "On s'arrête à chaque étape.", pt: 'Paramos em cada etapa.' },
+    { level: 'B2', fr: 'Les étapes du Tour de France traversent toute la France.', pt: 'As etapas do Tour de France atravessam a França inteira.' },
+    { level: 'C1-C2', fr: 'Chaque étape, même la plus rude, rapproche du but final.', pt: 'Cada etapa, mesmo a mais dura, aproxima do objetivo final.' },
+  ],
 };

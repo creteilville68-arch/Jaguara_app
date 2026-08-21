@@ -1,0 +1,161 @@
+{
+  "id": "paris_guide_02",
+  "cityId": "paris",
+  "domain": "Cultura",
+  "level": "Misto (A1–C2)",
+  "titleFr": "Monuments et patrimoine",
+  "titlePt": "Monumentos e patrimônio",
+  "subtitleFr": "Cathédrales, tours, palais et chefs-d'œuvre",
+  "subtitlePt": "Catedrais, torres, palácios e obras-primas",
+  "summaryPt": "Enciclopédia de Paris, seção 2: os monumentos emblemáticos e o patrimônio classificado. Vocabulário de arquitetura, restauração e visitação.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Notre-Dame est le monument gothique le plus célèbre de la capitale. Sa flèche, ses tours et ses vitraux racontent huit siècles d'histoire. Après l'incendie de 2019, des centaines d'artisans ont travaillé à sa restauration, et la cathédrale a rouvert ses portes, plus lumineuse que jamais.",
+      "pt": "Notre-Dame é o monumento gótico mais famoso da capital. Sua flecha, suas torres e seus vitrais contam oito séculos de história. Após o incêndio de 2019, centenas de artesãos trabalharam em sua restauração, e a catedral reabriu suas portas, mais luminosa do que nunca."
+    },
+    {
+      "id": 2,
+      "fr": "La tour Eiffel, érigée pour l'exposition universelle de 1889, fut d'abord critiquée par les artistes. Aujourd'hui, cette structure de fer de trois cents mètres est le symbole de Paris dans le monde entier. La nuit, ses illuminations scintillent pendant cinq minutes à chaque heure, un spectacle qui attire les foules.",
+      "pt": "A Torre Eiffel, erguida para a exposição universal de 1889, foi primeiro criticada pelos artistas. Hoje, essa estrutura de ferro de trezentos metros é o símbolo de Paris no mundo inteiro. À noite, suas iluminações cintilam durante cinco minutos a cada hora, um espetáculo que atrai multidões."
+    },
+    {
+      "id": 3,
+      "fr": "Le musée du Louvre occupe un ancien palais royal agrandi au fil des siècles. Ses collections, immenses, vont de l'Antiquité au XIXe siècle, et ses salles abritent des chefs-d'œuvre comme la Joconde et la Vénus de Milo. La pyramide de verre, construite en 1989, sert aujourd'hui d'entrée principale au palais.",
+      "pt": "O museu do Louvre ocupa um antigo palácio real ampliado ao longo dos séculos. Suas coleções, imensas, vão da Antiguidade ao século XIX, e suas salas abrigam obras-primas como a Mona Lisa e a Vênus de Milo. A pirâmide de vidro, construída em 1989, serve hoje de entrada principal do palácio."
+    },
+    {
+      "id": 4,
+      "fr": "Sur la butte Montmartre, la basilique du Sacré-Cœur domine la ville de son dôme blanc. Plus bas, le Panthéon accueille les restes des grands hommes de la nation : écrivains, savants et résistants y reposent sous une coupole majestueuse. Chaque édifice raconte une époque, chaque pierre garde un souvenir.",
+      "pt": "Na colina de Montmartre, a basílica do Sacré-Cœur domina a cidade com sua cúpula branca. Mais abaixo, o Panteão acolhe os restos dos grandes homens da nação: escritores, cientistas e resistentes ali repousam sob uma cúpula majestosa. Cada edifício conta uma época, cada pedra guarda uma lembrança."
+    },
+    {
+      "id": 5,
+      "fr": "Le patrimoine parisien est protégé par des règles strictes : les façades classées ne peuvent pas être modifiées sans autorisation, et les vestiges antiques, comme les arènes de Lutèce, sont mis en valeur au cœur des quartiers modernes. Visiter ces monuments, c'est lire la ville comme un livre ouvert.",
+      "pt": "O patrimônio parisiense é protegido por regras rígidas: as fachadas tombadas não podem ser modificadas sem autorização, e os vestígios antigos, como as arenas de Lutécia, são valorizados no coração dos bairros modernos. Visitar esses monumentos é ler a cidade como um livro aberto."
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "le chef-d'œuvre",
+      "definitionPt": "a obra-prima",
+      "definitionFr": "Une œuvre d'une qualité exceptionnelle.",
+      "inflections": ["le chef-d'œuvre", "des chefs-d'œuvre"],
+      "ptTargets": ["obra-prima"],
+      "examples": [
+        { "level": "A1", "fr": "Ce tableau est un chef-d'œuvre.", "pt": "Este quadro é uma obra-prima." },
+        { "level": "A2-B1", "fr": "Le musée expose des chefs-d'œuvre célèbres.", "pt": "O museu expõe obras-primas famosas." },
+        { "level": "B2", "fr": "Reconnaître un chef-d'œuvre demande de la culture et de la sensibilité.", "pt": "Reconhecer uma obra-prima exige cultura e sensibilidade." },
+        { "level": "C1-C2", "fr": "Un chef-d'œuvre résiste au temps parce qu'il parle à chaque génération.", "pt": "Uma obra-prima resiste ao tempo porque fala a cada geração." }
+      ]
+    },
+    {
+      "term": "la flèche",
+      "definitionPt": "a flecha; o pináculo (de catedral)",
+      "definitionFr": "La pointe élancée qui couronne une église ou un clocher.",
+      "inflections": ["la flèche", "les flèches", "la flèche de Notre-Dame"],
+      "ptTargets": ["flecha", "pináculo"],
+      "examples": [
+        { "level": "A1", "fr": "La flèche est très haute.", "pt": "A flecha é muito alta." },
+        { "level": "A2-B1", "fr": "On voit la flèche de la cathédrale de loin.", "pt": "Vê-se a flecha da catedral de longe." },
+        { "level": "B2", "fr": "La reconstruction de la flèche a mobilisé des charpentiers experts.", "pt": "A reconstrução do pináculo mobilizou carpinteiros especialistas." },
+        { "level": "C1-C2", "fr": "La flèche, pointée vers le ciel, symbolise l'élan spirituel de tout l'édifice.", "pt": "O pináculo, apontado para o céu, simboliza o impulso espiritual de todo o edifício." }
+      ]
+    },
+    {
+      "term": "le vitrail",
+      "definitionPt": "o vitral",
+      "definitionFr": "Un panneau de verre coloré qui décore une fenêtre d'église.",
+      "inflections": ["le vitrail", "les vitraux"],
+      "ptTargets": ["vitral"],
+      "examples": [
+        { "level": "A1", "fr": "Le vitrail est coloré.", "pt": "O vitral é colorido." },
+        { "level": "A2-B1", "fr": "Les vitraux éclairent la cathédrale.", "pt": "Os vitrais iluminam a catedral." },
+        { "level": "B2", "fr": "La lumière traverse les vitraux et colore la nef.", "pt": "A luz atravessa os vitrais e colore a nave." },
+        { "level": "C1-C2", "fr": "Chaque vitrail raconte une scène sacrée, figée dans le verre et la lumière.", "pt": "Cada vitral conta uma cena sagrada, congelada no vidro e na luz." }
+      ]
+    },
+    {
+      "term": "ériger",
+      "definitionPt": "erguer; erigir",
+      "definitionFr": "Construire en hauteur, dresser un monument.",
+      "inflections": ["ériger", "érige", "érigé", "érigea"],
+      "ptTargets": ["erguer", "erigir"],
+      "examples": [
+        { "level": "A1", "fr": "On érige un monument.", "pt": "Erguem um monumento." },
+        { "level": "A2-B1", "fr": "La statue fut érigée en 1900.", "pt": "A estátua foi erguida em 1900." },
+        { "level": "B2", "fr": "Ériger un bâtiment au cœur d'un quartier ancien soulève des débats.", "pt": "Erguer um prédio no coração de um bairro antigo levanta debates." },
+        { "level": "C1-C2", "fr": "Ériger un monument, c'est fixer dans la pierre ce qu'une société veut se rappeler.", "pt": "Erguer um monumento é fixar na pedra o que uma sociedade quer lembrar." }
+      ]
+    },
+    {
+      "term": "le vestige",
+      "definitionPt": "o vestígio; a ruína",
+      "definitionFr": "Ce qui reste d'un édifice ou d'une époque disparue.",
+      "inflections": ["le vestige", "les vestiges", "les vestiges antiques"],
+      "ptTargets": ["vestígio", "ruína"],
+      "examples": [
+        { "level": "A1", "fr": "Le vestige est très vieux.", "pt": "O vestígio é muito antigo." },
+        { "level": "A2-B1", "fr": "On a découvert des vestiges sous la place.", "pt": "Descobriram vestígios sob a praça." },
+        { "level": "B2", "fr": "Les vestiges gallo-romains enrichissent notre connaissance de la ville.", "pt": "Os vestígios galo-romanos enriquecem nosso conhecimento da cidade." },
+        { "level": "C1-C2", "fr": "Chaque vestige est une page arrachée au passé que l'archéologue tente de relire.", "pt": "Cada vestígio é uma página arrancada do passado que o arqueólogo tenta reler." }
+      ]
+    },
+    {
+      "term": "l'édifice",
+      "definitionPt": "o edifício (construção imponente)",
+      "definitionFr": "Un bâtiment, souvent de grande taille ou de grande valeur.",
+      "inflections": ["l'édifice", "les édifices", "un édifice religieux"],
+      "ptTargets": ["edifício"],
+      "examples": [
+        { "level": "A1", "fr": "L'édifice est grand.", "pt": "O edifício é grande." },
+        { "level": "A2-B1", "fr": "Cet édifice date du Moyen Âge.", "pt": "Este edifício data da Idade Média." },
+        { "level": "B2", "fr": "La ville entretient ses édifices historiques avec soin.", "pt": "A cidade conserva seus edifícios históricos com cuidado." },
+        { "level": "C1-C2", "fr": "Un édifice, par sa seule présence, façonne l'identité d'un quartier.", "pt": "Um edifício, por sua simples presença, molda a identidade de um bairro." }
+      ]
+    },
+    {
+      "term": "classer",
+      "definitionPt": "tombar; classificar",
+      "definitionFr": "Inscrire un monument au patrimoine protégé.",
+      "inflections": ["classer", "classe", "classé", "le classement"],
+      "ptTargets": ["tombar", "classificar"],
+      "examples": [
+        { "level": "A1", "fr": "Le monument est classé.", "pt": "O monumento é tombado." },
+        { "level": "A2-B1", "fr": "Cette façade est classée depuis 1943.", "pt": "Esta fachada é tombada desde 1943." },
+        { "level": "B2", "fr": "Classer un édifice le protège des démolitions.", "pt": "Tomar um edifício o protege das demolições." },
+        { "level": "C1-C2", "fr": "Classer, c'est reconnaître qu'un lieu appartient à la mémoire commune avant d'appartenir à son propriétaire.", "pt": "Tombar é reconhecer que um lugar pertence à memória comum antes de pertencer a seu dono." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "O passé composé vs passé simple no relato",
+    "explanationPt": "Nos textos enciclopédicos, o passé simple ('fut érigée', 'attira') narra fatos pontuais do passado; o passé composé ('a rouvert', 'a travaillé') conecta o passado ao presente. Repare na alternância nos parágrafos.",
+    "exampleFr": "La cathédrale a rouvert ses portes après des années de travaux.",
+    "examplePt": "A catedral reabriu suas portas depois de anos de obras.",
+    "practiceQuestion": "Complete: « La tour Eiffel ___ pour l'exposition de 1889. »",
+    "options": ["fut érigée", "est érigée", "sera érigée", "était érigée"],
+    "correctIndex": 0,
+    "explanationPt": "Fato pontual do passado: passé simple passivo 'fut érigée'."
+  },
+  "quizQuestions": [
+    {
+      "question": "Quel monument fut construit pour l'exposition universelle de 1889 ?",
+      "options": ["La tour Eiffel", "Le Panthéon", "La pyramide du Louvre", "Le Sacré-Cœur"],
+      "correctIndex": 0,
+      "explanation": "La tour Eiffel fut érigée pour l'exposition universelle de 1889."
+    },
+    {
+      "question": "Qu'est-ce qu'un vitrail ?",
+      "options": ["Un panneau de verre coloré", "Une porte ancienne", "Un escalier en pierre", "Un toit en ardoise"],
+      "correctIndex": 0,
+      "explanation": "Le vitrail est un panneau de verre coloré qui décore les fenêtres des églises."
+    },
+    {
+      "question": "Pourquoi classe-t-on les monuments ?",
+      "options": ["Pour les protéger de la démolition", "Pour les vendre plus cher", "Pour les fermer au public", "Pour changer leur style"],
+      "correctIndex": 0,
+      "explanation": "Le classement protège les édifices et reconnaît leur valeur patrimoniale."
+    }
+  ]
+}
