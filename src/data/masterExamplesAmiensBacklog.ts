@@ -119,4 +119,16 @@ export const AMIENS_BACKLOG_EXAMPLES: Record<string, MasterExample[]> = {
     { level: 'B2', fr: 'Cette phrase, placée au bon endroit, change tout le discours.', pt: 'Essa frase, colocada no lugar certo, muda todo o discurso.' },
     { level: 'C1-C2', fr: "C'est un mot bien placé qui, au moment juste, console mieux qu'un long discours.", pt: 'É uma palavra bem colocada que, no momento certo, consola melhor que um longo discurso.' },
   ],
+  "d'euros": [
+    { level: 'A1', fr: "Le pain coûte deux euros.", pt: 'O pão custa dois euros.' },
+    { level: 'A2-B1', fr: "J'ai économisé une centaine d'euros ce mois-ci.", pt: 'Eu economizei cerca de cem euros este mês.' },
+    { level: 'B2', fr: "La rénovation de la cathédrale a coûté des millions d'euros.", pt: 'A reforma da catedral custou milhões de euros.' },
+    { level: 'C1-C2', fr: "Derrière chaque pierre restaurée, ce sont des millions d'euros de savoir-faire qui se transmettent.", pt: 'Atrás de cada pedra restaurada, são milhões de euros de saber-fazer que se transmitem.' },
+  ],
+  sobriété: [
+    { level: 'A1', fr: 'Il mange avec sobriété.', pt: 'Ele come com sobriedade.' },
+    { level: 'A2-B1', fr: 'Elle parle avec une grande sobriété.', pt: 'Ela fala com grande sobriedade.' },
+    { level: 'B2', fr: 'La sobriété énergétique est devenue une priorité publique.', pt: 'A sobriedade energética tornou-se uma prioridade pública.' },
+    { level: 'C1-C2', fr: "C'est dans la sobriété des gestes que se reconnaît parfois la plus grande élégance.", pt: 'É na sobriedade dos gestos que se reconhece às vezes a maior elegância.' },
+  ],
 };

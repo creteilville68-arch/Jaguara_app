@@ -126,4 +126,10 @@ export const TOURS_BACKLOG_EXAMPLES: Record<string, MasterExample[]> = {
     { level: 'B2', fr: 'Les formes géométriques des jardins à la française reflètent l\'ordre et la raison.', pt: 'As formas geométricas dos jardins à francesa refletem a ordem e a razão.' },
     { level: 'C1-C2', fr: 'Le géométrique n\'est pas froid : c\'est la beauté que la main de l\'homme impose à la nature.', pt: 'O geométrico não é frio: é a beleza que a mão do homem impõe à natureza.' },
   ],
+  recherchés: [
+    { level: 'A1', fr: 'Ces produits sont recherchés.', pt: 'Esses produtos são procurados.' },
+    { level: 'A2-B1', fr: 'Les fruits du marché sont très recherchés.', pt: 'As frutas do mercado são muito procuradas.' },
+    { level: 'B2', fr: 'Les vins de cette région sont recherchés par les collectionneurs.', pt: 'Os vinhos dessa região são procurados pelos colecionadores.' },
+    { level: 'C1-C2', fr: "Ce sont les accords les plus recherchés, ceux qui demandent à la fois science et patience.", pt: 'São as harmonizações mais procuradas, aquelas que exigem ao mesmo tempo ciência e paciência.' },
+  ],
 };

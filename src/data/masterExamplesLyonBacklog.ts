@@ -77,4 +77,10 @@ export const LYON_BACKLOG_EXAMPLES: Record<string, MasterExample[]> = {
     { level: 'B2', fr: "D'anciens bâtiments abritent aujourd'hui des ateliers d'artistes.", pt: 'Antigos prédios abrigam hoje ateliês de artistas.' },
     { level: 'C1-C2', fr: "D'anciens rêves reviennent parfois nous chercher au détour d'une rue.", pt: 'Antigos sonhos às vezes voltam para nos buscar na curva de uma rua.' },
   ],
+  'en effet': [
+    { level: 'A1', fr: 'En effet, il pleut.', pt: 'De fato, está chovendo.' },
+    { level: 'A2-B1', fr: 'En effet, la ville est très animée le soir.', pt: 'De fato, a cidade é muito animada à noite.' },
+    { level: 'B2', fr: "Ce choix, en effet, change toute la stratégie de l'entreprise.", pt: 'Essa escolha, de fato, muda toda a estratégia da empresa.' },
+    { level: 'C1-C2', fr: "L'histoire, en effet, ne se répète jamais à l'identique, mais elle rime parfois.", pt: 'A história, de fato, nunca se repete de forma idêntica, mas às vezes rima.' },
+  ],
 };
