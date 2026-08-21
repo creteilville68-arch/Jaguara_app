@@ -1,0 +1,153 @@
+{
+  "id": "amiens_guide_01",
+  "cityId": "amiens",
+  "domain": "Cultura",
+  "level": "Misto (A2–C2)",
+  "titleFr": "Histoire d'Amiens : la ville de la Somme",
+  "titlePt": "História de Amiens: a cidade do Somme",
+  "subtitleFr": "Des teinturiers du Moyen Âge à la ville d'aujourd'hui",
+  "subtitlePt": "Dos tintureiros da Idade Média à cidade de hoje",
+  "summaryPt": "Enciclopédia de Amiens, seção 1: a história da cidade e sua relação com o rio Somme. Vocabulário de vida urbana, clima e hábitos, com níveis mistos.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Les premiers habitants d'Amiens s'installèrent au confluent de la Somme et de l'Avre, un lieu idéal pour le commerce. Chaque matin, les marchands se rendaient sur la place et traversaient le pont pour longer la rivière jusqu'aux entrepôts.",
+      "pt": "Os primeiros habitantes de Amiens se instalaram na confluência do Somme e do Avre, um lugar ideal para o comércio. Toda manhã, os comerciantes se dirigiam à praça e atravessavam a ponte para seguir pela margem do rio até os armazéns."
+    },
+    {
+      "id": 2,
+      "fr": "Au Moyen Âge, Amiens devint célèbre pour ses teinturiers et son velours. Les artisans, habiles et patients, y travaillaient le textile avec une précision qui étonnait les voyageurs. La richesse de la ville attira des marchands venus de toute l'Europe.",
+      "pt": "Na Idade Média, Amiens ficou famosa por seus tintureiros e seu veludo. Os artesãos, hábeis e pacientes, trabalhavam o têxtil com uma precisão que surpreendia os viajantes. A riqueza da cidade atraiu comerciantes vindos de toda a Europa."
+    },
+    {
+      "id": 3,
+      "fr": "Au XXe siècle, la ville fut gravement endommagée pendant les guerres, mais elle se releva avec courage. Les habitants reconstruisirent les quartiers détruits, redonnant à la cité son visage d'aujourd'hui, fait de briques, de pierres et de mémoire.",
+      "pt": "No século XX, a cidade foi gravemente danificada durante as guerras, mas se reergueu com coragem. Os habitantes reconstruíram os bairros destruídos, devolvendo à cidade seu rosto de hoje, feito de tijolos, pedras e memória."
+    },
+    {
+      "id": 4,
+      "fr": "Aujourd'hui, Amiens est une ville agréable où l'on circule facilement. Dans le centre, les rues piétonnes alternent avec les sens uniques ; pour se déplacer, il suffit de se garer en périphérie et de marcher, comme le font la plupart des habitants.",
+      "pt": "Hoje, Amiens é uma cidade agradável onde circulamos facilmente. No centro, as ruas de pedestres alternam com as mãos únicas; para se deslocar, basta estacionar na periferia e caminhar, como faz a maioria dos habitantes."
+    },
+    {
+      "id": 5,
+      "fr": "Le climat picard est doux mais humide : il fait souvent frais, la bruine tombe en silence et l'éclaircie ne dure jamais longtemps. Les habitants ont l'habitude de s'abriter sous un parapluie, de peur de se mouiller et d'attraper froid.",
+      "pt": "O clima picardo é ameno mas úmido: costuma fazer frio, a garoa cai em silêncio e a abertura no céu nunca dura muito. Os habitantes têm o hábito de se abrigar sob um guarda-chuva, com medo de se molhar e pegar um resfriado."
+    },
+    {
+      "id": 6,
+      "fr": "Ceux qui viennent s'installer à Amiens découvrent vite une vie tranquille et attachante. On s'intéresse aux traditions, on est habitué au rythme des saisons, et l'on finit par se sentir chez soi, au bord de la Somme.",
+      "pt": "Quem vem se instalar em Amiens descobre logo uma vida tranquila e cativante. Interessamo-nos pelas tradições, ficamos acostumados ao ritmo das estações e acabamos nos sentindo em casa, à beira do Somme."
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "s'installer",
+      "definitionPt": "instalar-se; mudar-se",
+      "definitionFr": "S'établir dans un lieu pour y vivre.",
+      "inflections": ["s'installer", "s'installe", "installé"],
+      "ptTargets": ["instalar-se", "mudar-se"],
+      "examples": [
+        { "level": "A1", "fr": "Ils s'installent à Amiens.", "pt": "Eles se instalam em Amiens." },
+        { "level": "A2-B1", "fr": "Elle s'est installée près de la cathédrale.", "pt": "Ela se instalou perto da catedral." },
+        { "level": "B2", "fr": "S'installer dans une nouvelle ville demande du temps.", "pt": "Instalar-se numa cidade nova exige tempo." },
+        { "level": "C1-C2", "fr": "S'installer, c'est accepter de recommencer ses repères.", "pt": "Instalar-se é aceitar recomeçar suas referências." }
+      ]
+    },
+    {
+      "term": "se rendre",
+      "definitionPt": "dirigir-se; ir",
+      "definitionFr": "Aller quelque part, se déplacer vers un lieu.",
+      "inflections": ["se rendre", "se rend", "rendu"],
+      "ptTargets": ["dirigir-se", "ir"],
+      "examples": [
+        { "level": "A1", "fr": "Je me rends à la gare.", "pt": "Eu me dirijo à estação." },
+        { "level": "A2-B1", "fr": "Chaque matin, il se rend au marché.", "pt": "Toda manhã, ele se dirige ao mercado." },
+        { "level": "B2", "fr": "Des milliers de visiteurs se rendent à la cathédrale chaque année.", "pt": "Milhares de visitantes se dirigem à catedral todos os anos." },
+        { "level": "C1-C2", "fr": "Se rendre dans un lieu, c'est déjà commencer le voyage avant d'y arriver.", "pt": "Dirigir-se a um lugar já é começar a viagem antes de chegar." }
+      ]
+    },
+    {
+      "term": "se déplacer",
+      "definitionPt": "deslocar-se",
+      "definitionFr": "Changer de lieu, se transporter d'un endroit à un autre.",
+      "inflections": ["se déplacer", "se déplace", "déplacé"],
+      "ptTargets": ["deslocar-se"],
+      "examples": [
+        { "level": "A1", "fr": "On se déplace à pied.", "pt": "A gente se desloca a pé." },
+        { "level": "A2-B1", "fr": "Il se déplace en vélo dans la ville.", "pt": "Ele se desloca de bicicleta pela cidade." },
+        { "level": "B2", "fr": "Se déplacer en centre-ville est plus simple à pied.", "pt": "Deslocar-se no centro é mais simples a pé." },
+        { "level": "C1-C2", "fr": "Savoir se déplacer, c'est comprendre la géographie invisible d'une ville.", "pt": "Saber se deslocar é compreender a geografia invisível de uma cidade." }
+      ]
+    },
+    {
+      "term": "s'abriter",
+      "definitionPt": "abrigar-se",
+      "definitionFr": "Se mettre à l'abri, se protéger des intempéries.",
+      "inflections": ["s'abriter", "s'abrite", "abrité"],
+      "ptTargets": ["abrigar-se"],
+      "examples": [
+        { "level": "A1", "fr": "Nous nous abritons sous l'arbre.", "pt": "Nós nos abrigamos sob a árvore." },
+        { "level": "A2-B1", "fr": "Ils s'abritent sous le porche quand il pleut.", "pt": "Eles se abrigam sob o pórtico quando chove." },
+        { "level": "B2", "fr": "S'abriter quelques minutes suffit quand l'averse est courte.", "pt": "Abrigar-se alguns minutos basta quando a pancada é curta." },
+        { "level": "C1-C2", "fr": "S'abriter, c'est accepter la pluie comme une invitation à ralentir.", "pt": "Abrigar-se é aceitar a chuva como um convite a desacelerar." }
+      ]
+    },
+    {
+      "term": "s'intéresser à",
+      "definitionPt": "interessar-se por",
+      "definitionFr": "Porter son attention sur quelque chose.",
+      "inflections": ["s'intéresser à", "s'intéresse à", "intéressé à"],
+      "ptTargets": ["interessar-se por"],
+      "examples": [
+        { "level": "A1", "fr": "Je m'intéresse à la musique.", "pt": "Eu me interesso por música." },
+        { "level": "A2-B1", "fr": "Elle s'intéresse à l'histoire de la ville.", "pt": "Ela se interessa pela história da cidade." },
+        { "level": "B2", "fr": "S'intéresser à l'art change la façon de regarder le monde.", "pt": "Interessar-se pela arte muda o jeito de olhar o mundo." },
+        { "level": "C1-C2", "fr": "C'est en s'intéressant aux détails que l'on comprend l'ensemble.", "pt": "É interessando-se pelos detalhes que se compreende o conjunto." }
+      ]
+    },
+    {
+      "term": "avoir l'habitude de",
+      "definitionPt": "ter o hábito de",
+      "definitionFr": "Faire quelque chose régulièrement, par habitude.",
+      "inflections": ["avoir l'habitude de", "a l'habitude de", "avait l'habitude de"],
+      "ptTargets": ["ter o hábito de"],
+      "examples": [
+        { "level": "A1", "fr": "J'ai l'habitude de marcher.", "pt": "Tenho o hábito de caminhar." },
+        { "level": "A2-B1", "fr": "Elle a l'habitude de prendre un café le matin.", "pt": "Ela tem o hábito de tomar um café de manhã." },
+        { "level": "B2", "fr": "On a l'habitude de la pluie dans cette région.", "pt": "Temos o hábito da chuva nesta região." },
+        { "level": "C1-C2", "fr": "Avoir l'habitude, c'est transformer l'effort en seconde nature.", "pt": "Ter o hábito é transformar o esforço em segunda natureza." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Verbos pronominais de deslocamento",
+    "explanationPt": "s'installer, se rendre, se déplacer, s'abriter: o pronome reflexivo acompanha o verbo. Observe a concordância: 'les habitants s'installèrent', 'on se rend', 'ils se déplacent'.",
+    "exampleFr": "Les visiteurs se rendent à la cathédrale et s'installent sur la place.",
+    "examplePt": "Os visitantes se dirigem à catedral e se instalam na praça.",
+    "practiceQuestion": "Complete: « Nous ___ dans le centre-ville. »",
+    "options": ["nous installons", "s'installent", "installons", "nous installer"],
+    "correctIndex": 0,
+    "explanationPt": "Verbo pronominal: 'nous nous installons'."
+  },
+  "quizQuestions": [
+    {
+      "question": "Au bord de quel fleuve se trouve Amiens ?",
+      "options": ["La Somme", "La Seine", "La Loire", "Le Rhône"],
+      "correctIndex": 0,
+      "explanation": "Amiens se trouve au confluent de la Somme et de l'Avre."
+    },
+    {
+      "question": "Pour quoi Amiens était-elle célèbre au Moyen Âge ?",
+      "options": ["Son velours et ses teinturiers", "Ses ports", "Ses mines", "Ses vignobles"],
+      "correctIndex": 0,
+      "explanation": "Amiens était célèbre pour son velours et le travail de ses teinturiers."
+    },
+    {
+      "question": "Que font les habitants quand il bruine ?",
+      "options": ["Ils s'abritent sous un parapluie", "Ils sortent sans manteau", "Ils ferment les rues", "Ils allument un feu"],
+      "correctIndex": 0,
+      "explanation": "Par habitude, les habitants s'abritent sous un parapluie pour ne pas se mouiller."
+    }
+  ]
+}

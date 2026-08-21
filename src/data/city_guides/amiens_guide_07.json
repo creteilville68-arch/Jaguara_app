@@ -1,0 +1,153 @@
+{
+  "id": "amiens_guide_07",
+  "cityId": "amiens",
+  "domain": "Cotidiano",
+  "level": "Misto (A2–C2)",
+  "titleFr": "Le voyage et le séjour",
+  "titlePt": "A viagem e a hospedagem",
+  "subtitleFr": "De l'avion à l'hôtel, bien organiser son déplacement",
+  "subtitlePt": "Do avião ao hotel, organizando bem o deslocamento",
+  "summaryPt": "Enciclopédia de Amiens, seção 7: como viajar até a cidade e onde se hospedar. Vocabulário de transporte, hotel e imprevistos.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Pour venir de loin, beaucoup choisissent de voyager en avion. On fait une escale à Paris, on attache sa ceinture de sécurité, et l'on attend l'atterrissage en regardant le pilote travailler dans le cockpit. L'hôtesse de l'air annonce l'heure d'arrivée avec calme.",
+      "pt": "Para vir de longe, muitos escolhem viajar de avião. Faz-se uma escala em Paris, afivela-se o cinto de segurança e espera-se o pouso olhando o piloto trabalhar na cabine. A comissária de bordo anuncia a hora de chegada com calma."
+    },
+    {
+      "id": 2,
+      "fr": "À la gare ou à l'aéroport, un chauffeur de taxi attend les voyageurs. En ville, il faut parfois traverser un embouteillage, puis se garer ou stationner un moment. Le conducteur freine doucement, et l'on descend de la voiture devant l'hôtel.",
+      "pt": "Na estação ou no aeroporto, um motorista de táxi espera os viajantes. Na cidade, às vezes é preciso atravessar um congestionamento e depois estacionar por um momento. O motorista freia devagar, e descemos do carro diante do hotel."
+    },
+    {
+      "id": 3,
+      "fr": "À l'hôtel, le réceptionniste accueille les clients avec un sourire. On réserve une chambre double, on choisit la pension complète ou la demi-pension, on vérifie si le petit-déjeuner est compris. La climatisation fonctionne bien, et l'on peut prolonger le séjour d'une nuitée si la ville nous plaît.",
+      "pt": "No hotel, o recepcionista recebe os clientes com um sorriso. Reserva-se um quarto de casal, escolhe-se a pensão completa ou a meia-pensão, verifica-se se o café da manhã está incluído. O ar-condicionado funciona bem, e pode-se prolongar a estadia por mais uma diária se a cidade agradar."
+    },
+    {
+      "id": 4,
+      "fr": "Pour les courts trajets, le train reste le plus pratique. On achète son billet au distributeur automatique, on choisit une place côté couloir, et l'on admire la locomotive qui tire le convoi. Avec une carte de transport ou un abonnement, il suffit de composter son titre avant de monter.",
+      "pt": "Para trajetos curtos, o trem continua sendo o mais prático. Compra-se o bilhete na máquina automática, escolhe-se um assento no corredor e admira-se a locomotiva puxando o comboio. Com um cartão de transporte ou uma assinatura, basta validar o título antes de embarcar."
+    },
+    {
+      "id": 5,
+      "fr": "Les imprévus existent : une grève, un retard, une annulation. Quand un train est annulé, la compagnie avertit les voyageurs et propose une solution. Il faut parfois prendre rendez-vous au guichet, rappeler le service client ou se renseigner sur les horaires suivants.",
+      "pt": "Os imprevistos existem: uma greve, um atraso, um cancelamento. Quando um trem é cancelado, a companhia avisa os viajantes e propõe uma solução. Às vezes é preciso marcar um atendimento no guichê, retornar a ligação para o serviço ao cliente ou se informar sobre os horários seguintes."
+    },
+    {
+      "id": 6,
+      "fr": "Une fois sur place, on se renseigne à l'office de tourisme, on prend la carte de la ville et l'on descend de bonne humeur dans les rues. Voyager, c'est accepter l'imprévu ; séjourner, c'est apprendre à s'arrêter.",
+      "pt": "Chegando ao destino, informamo-nos no posto de turismo, pegamos o mapa da cidade e descemos de bom humor pelas ruas. Viajar é aceitar o imprevisto; hospedar-se é aprender a parar."
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "faire une escale",
+      "definitionPt": "fazer uma escala",
+      "definitionFr": "S'arrêter dans un lieu pendant un voyage, avant de repartir.",
+      "inflections": ["faire une escale", "fait une escale", "faites une escale"],
+      "ptTargets": ["fazer uma escala"],
+      "examples": [
+        { "level": "A1", "fr": "L'avion fait une escale à Paris.", "pt": "O avião faz uma escala em Paris." },
+        { "level": "A2-B1", "fr": "On fait une escale de deux heures.", "pt": "Fazemos uma escala de duas horas." },
+        { "level": "B2", "fr": "Faire une escale permet de découvrir une ville sans y rester.", "pt": "Fazer uma escala permite conhecer uma cidade sem ficar nela." },
+        { "level": "C1-C2", "fr": "Faire une escale, c'est accepter que le voyage prenne son temps.", "pt": "Fazer uma escala é aceitar que a viagem leve seu tempo." }
+      ]
+    },
+    {
+      "term": "la ceinture de sécurité",
+      "definitionPt": "o cinto de segurança",
+      "definitionFr": "La sangle qui protège les passagers d'un véhicule.",
+      "inflections": ["la ceinture de sécurité", "les ceintures de sécurité"],
+      "ptTargets": ["cinto de segurança"],
+      "examples": [
+        { "level": "A1", "fr": "Je mets la ceinture de sécurité.", "pt": "Coloco o cinto de segurança." },
+        { "level": "A2-B1", "fr": "Attachez votre ceinture de sécurité, s'il vous plaît.", "pt": "Apertem o cinto de segurança, por favor." },
+        { "level": "B2", "fr": "La ceinture de sécurité sauve des vies à chaque trajet.", "pt": "O cinto de segurança salva vidas a cada trajeto." },
+        { "level": "C1-C2", "fr": "La ceinture de sécurité est une petite contrainte qui libère des grandes peurs.", "pt": "O cinto de segurança é uma pequena exigência que liberta de grandes medos." }
+      ]
+    },
+    {
+      "term": "la chambre double",
+      "definitionPt": "o quarto de casal",
+      "definitionFr": "Une chambre d'hôtel avec un grand lit pour deux personnes.",
+      "inflections": ["la chambre double", "les chambres doubles"],
+      "ptTargets": ["quarto de casal"],
+      "examples": [
+        { "level": "A1", "fr": "La chambre double est grande.", "pt": "O quarto de casal é grande." },
+        { "level": "A2-B1", "fr": "Nous avons réservé une chambre double.", "pt": "Reservamos um quarto de casal." },
+        { "level": "B2", "fr": "La chambre double donne sur la cathédrale.", "pt": "O quarto de casal dá para a catedral." },
+        { "level": "C1-C2", "fr": "Une chambre double, c'est un espace conçu pour partager le repos.", "pt": "Um quarto de casal é um espaço feito para compartilhar o descanso." }
+      ]
+    },
+    {
+      "term": "la pension complète",
+      "definitionPt": "a pensão completa",
+      "definitionFr": "Une formule d'hôtel qui inclut les trois repas.",
+      "inflections": ["la pension complète", "la demi-pension"],
+      "ptTargets": ["pensão completa"],
+      "examples": [
+        { "level": "A1", "fr": "La pension complète comprend le dîner.", "pt": "A pensão completa inclui o jantar." },
+        { "level": "A2-B1", "fr": "Nous avons choisi la pension complète pour le séjour.", "pt": "Escolhemos a pensão completa para a estadia." },
+        { "level": "B2", "fr": "En pension complète, on ne paie plus rien au restaurant.", "pt": "Em pensão completa, não se paga mais nada no restaurante." },
+        { "level": "C1-C2", "fr": "La pension complète, c'est l'art de ne plus penser à l'addition pendant les vacances.", "pt": "A pensão completa é a arte de não pensar mais na conta durante as férias." }
+      ]
+    },
+    {
+      "term": "prolonger le séjour",
+      "definitionPt": "prolongar a estadia",
+      "definitionFr": "Rester plus longtemps que prévu dans un lieu.",
+      "inflections": ["prolonger le séjour", "prolonge le séjour", "prolongé le séjour"],
+      "ptTargets": ["prolongar a estadia"],
+      "examples": [
+        { "level": "A1", "fr": "Nous prolongeons le séjour d'un jour.", "pt": "Prolongamos a estadia por um dia." },
+        { "level": "A2-B1", "fr": "Elle prolonge son séjour à Amiens.", "pt": "Ela prolonga sua estadia em Amiens." },
+        { "level": "B2", "fr": "Prolonger le séjour, c'est avouer que la ville a gagné.", "pt": "Prolongar a estadia é confessar que a cidade venceu." },
+        { "level": "C1-C2", "fr": "Prolonger le séjour, c'est laisser la découverte déborder sur les projets.", "pt": "Prolongar a estadia é deixar a descoberta transbordar sobre os planos." }
+      ]
+    },
+    {
+      "term": "l'annulation",
+      "definitionPt": "o cancelamento",
+      "definitionFr": "Le fait d'annuler une réservation ou un voyage.",
+      "inflections": ["l'annulation", "les annulations", "l'annulation du train"],
+      "ptTargets": ["cancelamento"],
+      "examples": [
+        { "level": "A1", "fr": "L'annulation est possible.", "pt": "O cancelamento é possível." },
+        { "level": "A2-B1", "fr": "L'annulation du train a retardé tout le monde.", "pt": "O cancelamento do trem atrasou todo mundo." },
+        { "level": "B2", "fr": "L'annulation doit être signalée le plus tôt possible.", "pt": "O cancelamento deve ser comunicado o quanto antes." },
+        { "level": "C1-C2", "fr": "L'annulation, bien gérée, transforme un contretemps en occasion.", "pt": "O cancelamento, bem administrado, transforma um contratempo em oportunidade." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "O futuro próximo e a hipótese com 'il faut'",
+    "explanationPt": "'Il faut + infinitivo' indica necessidade: 'il faut se garer', 'il faut composter son titre'. É a forma impessoal mais usada em instruções de viagem.",
+    "exampleFr": "Il faut composter son billet avant de monter dans le train.",
+    "examplePt": "É preciso validar o bilhete antes de subir no trem.",
+    "practiceQuestion": "Complete: « ___ se renseigner sur les horaires. »",
+    "options": ["Il faut", "Il faudra de", "Nous fallons", "Il faut que"],
+    "correctIndex": 0,
+    "explanationPt": "'Il faut + infinitivo': 'il faut se renseigner'."
+  },
+  "quizQuestions": [
+    {
+      "question": "Que fait-on avant l'atterrissage ?",
+      "options": ["On attache sa ceinture de sécurité", "On ouvre la fenêtre", "On descend de l'avion", "On appelle un taxi"],
+      "correctIndex": 0,
+      "explanation": "Avant l'atterrissage, les passagers doivent attacher leur ceinture de sécurité."
+    },
+    {
+      "question": "Que signifie « la pension complète » ?",
+      "options": ["Les trois repas sont inclus", "Seul le petit-déjeuner est inclus", "On cuisine soi-même", "Aucun repas n'est inclus"],
+      "correctIndex": 0,
+      "explanation": "La pension complète inclut les trois repas de la journée."
+    },
+    {
+      "question": "Que fait-on avec son billet de train ?",
+      "options": ["On le composte", "On le jette", "On le garde pour la maison", "On le déchire"],
+      "correctIndex": 0,
+      "explanation": "Il faut composter son titre de transport avant de monter dans le train."
+    }
+  ]
+}

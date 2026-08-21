@@ -11,6 +11,14 @@ import parisGuide05 from '../data/city_guides/paris_guide_05.json';
 import parisGuide06 from '../data/city_guides/paris_guide_06.json';
 import parisGuide07 from '../data/city_guides/paris_guide_07.json';
 import parisGuide08 from '../data/city_guides/paris_guide_08.json';
+import amiensGuide01 from '../data/city_guides/amiens_guide_01.json';
+import amiensGuide02 from '../data/city_guides/amiens_guide_02.json';
+import amiensGuide03 from '../data/city_guides/amiens_guide_03.json';
+import amiensGuide04 from '../data/city_guides/amiens_guide_04.json';
+import amiensGuide05 from '../data/city_guides/amiens_guide_05.json';
+import amiensGuide06 from '../data/city_guides/amiens_guide_06.json';
+import amiensGuide07 from '../data/city_guides/amiens_guide_07.json';
+import amiensGuide08 from '../data/city_guides/amiens_guide_08.json';
 
 interface EncyclopediaViewProps {
   progress: UserMapProgress;
@@ -28,6 +36,16 @@ const CITY_GUIDES: Record<string, Array<Record<string, unknown>>> = {
     parisGuide06 as unknown as Record<string, unknown>,
     parisGuide07 as unknown as Record<string, unknown>,
     parisGuide08 as unknown as Record<string, unknown>,
+  ],
+  amiens: [
+    amiensGuide01 as unknown as Record<string, unknown>,
+    amiensGuide02 as unknown as Record<string, unknown>,
+    amiensGuide03 as unknown as Record<string, unknown>,
+    amiensGuide04 as unknown as Record<string, unknown>,
+    amiensGuide05 as unknown as Record<string, unknown>,
+    amiensGuide06 as unknown as Record<string, unknown>,
+    amiensGuide07 as unknown as Record<string, unknown>,
+    amiensGuide08 as unknown as Record<string, unknown>,
   ],
 };
 

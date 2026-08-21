@@ -1,0 +1,153 @@
+{
+  "id": "amiens_guide_08",
+  "cityId": "amiens",
+  "domain": "Cotidiano",
+  "level": "Misto (A2–C2)",
+  "titleFr": "La santé et les émotions",
+  "titlePt": "A saúde e as emoções",
+  "subtitleFr": "Prendre soin de son corps et de son esprit",
+  "subtitlePt": "Cuidando do corpo e da mente",
+  "summaryPt": "Enciclopédia de Amiens, seção 8: saúde, sintomas, estresse e apoio. Vocabulário médico e emocional, dos níveis A2 ao C2.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Être en bonne santé, c'est d'abord se sentir bien dans son corps. Mais l'hiver, on peut tomber malade : la grippe circule, on a mal à la tête, parfois le mal de dos ou le mal de ventre. Quand le mal de dents devient trop fort, on prend rendez-vous chez le dentiste, et l'on surveille son régime alimentaire.",
+      "pt": "Estar com boa saúde é, antes de tudo, sentir-se bem no próprio corpo. Mas no inverno, pode-se adoecer: a gripe circula, dói a cabeça, às vezes a dor nas costas ou a dor de barriga. Quando a dor de dente fica forte demais, marca-se uma consulta no dentista e cuida-se da alimentação."
+    },
+    {
+      "id": 2,
+      "fr": "Pour une petite blessure, on nettoie la plaie, on pose un pansement, et l'on applique une pommade si nécessaire. Dans les cas plus sérieux, le médecin prescrit un bandage ou une piqûre. Avec du repos et des soins, on se rétablit vite, et l'on commence à aller mieux.",
+      "pt": "Para um ferimento pequeno, limpa-se a ferida, coloca-se um curativo e aplica-se uma pomada se necessário. Nos casos mais sérios, o médico prescreve uma bandagem ou uma injeção. Com repouso e cuidados, recupera-se rápido e começa-se a melhorar."
+    },
+    {
+      "id": 3,
+      "fr": "Les symptômes sont faciles à reconnaître : on éternue, on tousse, parfois on vomit. Quand on a froid, on s'habille ; quand on a chaud, on cherche l'ombre ; quand on a faim ou soif, on mange et l'on boit. Pour éviter d'attraper froid, on se couvre bien en sortant.",
+      "pt": "Os sintomas são fáceis de reconhecer: espirra-se, tosse-se, às vezes vomita-se. Quando se tem frio, agasalha-se; quando se tem calor, procura-se a sombra; quando se tem fome ou sede, come-se e bebe-se. Para evitar pegar um resfriado, agasalha-se bem ao sair."
+    },
+    {
+      "id": 4,
+      "fr": "Le stress touche tout le monde : on se sent angoissé, stressé, parfois effrayé sans raison. Une déception peut faire pleurer, un cauchemar peut réveiller en sursaut. On s'inquiète pour ses proches, on se fait du souci pour demain, l'on craint ce que l'on ne contrôle pas.",
+      "pt": "O estresse atinge todo mundo: sentimo-nos angustiados, estressados, às vezes assustados sem razão. Uma decepção pode fazer chorar, um pesadelo pode acordar sobressaltado. Preocupamo-nos com os próximos, afligimo-nos com o amanhã, tememos o que não controlamos."
+    },
+    {
+      "id": 5,
+      "fr": "Heureusement, les proches sont là : ils rassurent, ils consolent, ils encouragent. Un compliment bien placé fait du bien, et l'on félicite sincèrement ceux qui réussissent. On souhaite bonne chance avant un examen, et l'on célèbre chaque petite victoire.",
+      "pt": "Felizmente, os próximos estão ali: tranquilizam, consolam, incentivam. Um elogio bem colocado faz bem, e felicitamos sinceramente quem consegue. Desejamos boa sorte antes de um exame e celebramos cada pequena vitória."
+    },
+    {
+      "id": 6,
+      "fr": "Pour retrouver le calme, on respire profondément, on se concentre sur l'instant, on se détend. Une promenade, un bon repas, une conversation suffisent souvent à satisfaire le cœur. La vie peut décevoir ou attrister parfois, mais elle sait aussi réjouir ceux qui prennent soin d'elle.",
+      "pt": "Para recuperar a calma, respira-se fundo, concentra-se no instante, relaxa-se. Um passeio, uma boa refeição, uma conversa bastam muitas vezes para satisfazer o coração. A vida pode decepcionar ou entristecer às vezes, mas também sabe alegrar quem cuida dela."
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "tomber malade",
+      "definitionPt": "ficar doente",
+      "definitionFr": "Devenir malade, perdre la santé.",
+      "inflections": ["tomber malade", "tombe malade", "tombé malade"],
+      "ptTargets": ["ficar doente"],
+      "examples": [
+        { "level": "A1", "fr": "Il est tombé malade hier.", "pt": "Ele ficou doente ontem." },
+        { "level": "A2-B1", "fr": "On tombe malade plus souvent en hiver.", "pt": "Adoecemos com mais frequência no inverno." },
+        { "level": "B2", "fr": "Tomber malade, c'est aussi une invitation à ralentir.", "pt": "Ficar doente é também um convite a desacelerar." },
+        { "level": "C1-C2", "fr": "Ceux qui ne tombent jamais malades ont oublié d'écouter leur corps.", "pt": "Quem nunca fica doente esqueceu de ouvir o próprio corpo." }
+      ]
+    },
+    {
+      "term": "se rétablir",
+      "definitionPt": "recuperar-se",
+      "definitionFr": "Retrouver la santé après une maladie.",
+      "inflections": ["se rétablir", "se rétablit", "rétabli"],
+      "ptTargets": ["recuperar-se"],
+      "examples": [
+        { "level": "A1", "fr": "Il se rétablit vite.", "pt": "Ele se recupera rápido." },
+        { "level": "A2-B1", "fr": "Elle s'est rétablie après une semaine de repos.", "pt": "Ela se recuperou depois de uma semana de repouso." },
+        { "level": "B2", "fr": "Se rétablir demande de la patience autant que des soins.", "pt": "Recuperar-se exige paciência tanto quanto cuidados." },
+        { "level": "C1-C2", "fr": "Se rétablir, c'est réapprendre à habiter son corps.", "pt": "Recuperar-se é reaprender a habitar o próprio corpo." }
+      ]
+    },
+    {
+      "term": "le stress",
+      "definitionPt": "o estresse",
+      "definitionFr": "Un état de tension physique et mentale.",
+      "inflections": ["le stress", "le stress quotidien", "stressant"],
+      "ptTargets": ["estresse"],
+      "examples": [
+        { "level": "A1", "fr": "Le stress est mauvais pour la santé.", "pt": "O estresse é ruim para a saúde." },
+        { "level": "A2-B1", "fr": "Elle a du stress avant l'examen.", "pt": "Ela tem estresse antes do exame." },
+        { "level": "B2", "fr": "Le stress chronique fatigue le corps et l'esprit.", "pt": "O estresse crônico cansa o corpo e a mente." },
+        { "level": "C1-C2", "fr": "Le stress n'est pas l'ennemi : c'est son accumulation silencieuse qui l'est.", "pt": "O estresse não é o inimigo: é sua acumulação silenciosa que é." }
+      ]
+    },
+    {
+      "term": "se faire du souci",
+      "definitionPt": "preocupar-se; afligir-se",
+      "definitionFr": "S'inquiéter pour quelqu'un ou quelque chose.",
+      "inflections": ["se faire du souci", "se fait du souci", "fait du souci"],
+      "ptTargets": ["preocupar-se", "afligir-se"],
+      "examples": [
+        { "level": "A1", "fr": "Ne te fais pas de souci.", "pt": "Não se preocupe." },
+        { "level": "A2-B1", "fr": "Elle se fait du souci pour son fils.", "pt": "Ela se preocupa com o filho." },
+        { "level": "B2", "fr": "Se faire du souci ne change pas l'avenir, mais gâche le présent.", "pt": "Preocupar-se não muda o futuro, mas estraga o presente." },
+        { "level": "C1-C2", "fr": "Ceux qui se font du souci pour les autres portent le monde sans le dire.", "pt": "Quem se preocupa com os outros carrega o mundo sem dizer." }
+      ]
+    },
+    {
+      "term": "rassurer",
+      "definitionPt": "tranquilizar",
+      "definitionFr": "Redonner confiance, apaiser les inquiétudes.",
+      "inflections": ["rassurer", "rassure", "rassuré"],
+      "ptTargets": ["tranquilizar"],
+      "examples": [
+        { "level": "A1", "fr": "Ses paroles me rassurent.", "pt": "Suas palavras me tranquilizam." },
+        { "level": "A2-B1", "fr": "Le médecin rassure les patients.", "pt": "O médico tranquiliza os pacientes." },
+        { "level": "B2", "fr": "Rassurer, c'est offrir un point d'appui à qui doute.", "pt": "Tranquilizar é dar um ponto de apoio a quem duvida." },
+        { "level": "C1-C2", "fr": "Rassurer, c'est partager sa propre confiance quand l'autre n'en a plus.", "pt": "Tranquilizar é compartilhar a própria confiança quando o outro não tem mais." }
+      ]
+    },
+    {
+      "term": "se concentrer",
+      "definitionPt": "concentrar-se",
+      "definitionFr": "Fixer toute son attention sur une chose.",
+      "inflections": ["se concentrer", "se concentre", "concentré"],
+      "ptTargets": ["concentrar-se"],
+      "examples": [
+        { "level": "A1", "fr": "Je me concentre sur la leçon.", "pt": "Concentro-me na lição." },
+        { "level": "A2-B1", "fr": "Il se concentre avant de parler.", "pt": "Ele se concentra antes de falar." },
+        { "level": "B2", "fr": "Se concentrer demande de mettre le reste du monde en pause.", "pt": "Concentrar-se exige pôr o resto do mundo em pausa." },
+        { "level": "C1-C2", "fr": "Se concentrer, c'est donner à une seule pensée le droit de tout occuper.", "pt": "Concentrar-se é dar a um único pensamento o direito de ocupar tudo." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "'Avoir mal' e as partes do corpo",
+    "explanationPt": "Para dores: 'avoir mal à la tête', 'avoir mal au dos', 'avoir mal aux dents'. O artigo muda com o gênero do substantivo (à la, au, aux).",
+    "exampleFr": "Il a mal à la tête et mal aux dents.",
+    "examplePt": "Ele está com dor de cabeça e dor de dente.",
+    "practiceQuestion": "Complete: « Elle a mal ___ dos. »",
+    "options": ["au", "à la", "aux", "à"],
+    "correctIndex": 0,
+    "explanationPt": "'le dos' é masculino: 'avoir mal au dos'."
+  },
+  "quizQuestions": [
+    {
+      "question": "Que fait-on pour une petite blessure ?",
+      "options": ["On pose un pansement", "On appelle le pilote", "On ouvre le parapluie", "On compose un billet"],
+      "correctIndex": 0,
+      "explanation": "Pour une petite blessure, on nettoie la plaie et on pose un pansement."
+    },
+    {
+      "question": "Que signifie « se rétablir » ?",
+      "options": ["Retrouver la santé", "Tomber malade", "Changer de ville", "Prendre l'avion"],
+      "correctIndex": 0,
+      "explanation": "Se rétablir, c'est retrouver la santé après une maladie."
+    },
+    {
+      "question": "Qui rassure les patients ?",
+      "options": ["Le médecin", "Le chauffeur", "Le maraîcher", "Le réceptionniste"],
+      "correctIndex": 0,
+      "explanation": "Le médecin rassure les patients et leur redonne confiance."
+    }
+  ]
+}

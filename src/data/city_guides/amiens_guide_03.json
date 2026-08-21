@@ -1,0 +1,153 @@
+{
+  "id": "amiens_guide_03",
+  "cityId": "amiens",
+  "domain": "Cultura",
+  "level": "Misto (A2–C2)",
+  "titleFr": "Les hortillonnages : les jardins flottants",
+  "titlePt": "Os hortillonnages: os jardins flutuantes",
+  "subtitleFr": "Un labyrinthe de canaux au cœur de la ville",
+  "subtitlePt": "Um labirinto de canais no coração da cidade",
+  "summaryPt": "Enciclopédia de Amiens, seção 3: os jardins flutuantes dos hortillonnages, seus canais, sua fauna e sua atmosfera. Vocabulário de natureza, barcos e clima.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Les hortillonnages sont des jardins flottants créés au Moyen Âge sur les marais de la Somme. Des centaines de petites îles, reliées par des canaux, forment un labyrinthe de verdure. Les maraîchers y cultivent des légumes depuis des siècles.",
+      "pt": "Os hortillonnages são jardins flutuantes criados na Idade Média sobre os pântanos do Somme. Centenas de pequenas ilhas, ligadas por canais, formam um labirinto de verde. Os horticultores cultivam legumes ali há séculos."
+    },
+    {
+      "id": 2,
+      "fr": "La meilleure façon de visiter le site, c'est de voyager en bateau. Dans une barque plate, on glisse entre les îles, on passe sous les branches, on écoute le silence. Le guide raconte l'histoire des lieux sans jamais élever la voix.",
+      "pt": "A melhor forma de visitar o lugar é viajar de barco. Numa barcaça chata, deslizamos entre as ilhas, passamos sob os galhos, escutamos o silêncio. O guia conta a história do lugar sem nunca levantar a voz."
+    },
+    {
+      "id": 3,
+      "fr": "Chaque année, le marché sur l'eau fait revivre la tradition : les maraîchers accostent leurs barques chargées de légumes et les vendent depuis le quai. Les clients se régalent de tomates, de salades et de petits pois, cueillis le matin même.",
+      "pt": "Todos os anos, o mercado sobre a água faz reviver a tradição: os horticultores atracam suas barcaças carregadas de legumes e os vendem do cais. Os clientes se deliciam com tomates, alfaces e ervilhas, colhidos na própria manhã."
+    },
+    {
+      "id": 4,
+      "fr": "Le site abrite une faune discrète : le corbeau croasse dans les arbres, le faucon plane au-dessus des canaux, le sanglier vient boire à l'aube, et le lézard se chauffe au soleil sur les pierres. Chaque saison change le décor.",
+      "pt": "O lugar abriga uma fauna discreta: o corvo grasna nas árvores, o falcão plana sobre os canais, o javali vem beber ao amanhecer, e o lagarto se aquece ao sol sobre as pedras. Cada estação muda o cenário."
+    },
+    {
+      "id": 5,
+      "fr": "En été, quand le temps est sec, il faut se protéger du soleil : mettre de la crème solaire, porter un chapeau et des lunettes de soleil. Les promeneurs, prévoyants, embarquent aussi une bouteille d'eau pour la balade.",
+      "pt": "No verão, quando o tempo está seco, é preciso se proteger do sol: passar protetor solar, usar chapéu e óculos de sol. Os caminhantes, precavidos, levam também uma garrafa de água para o passeio."
+    },
+    {
+      "id": 6,
+      "fr": "Se promener dans les hortillonnages, c'est quitter la ville sans la quitter. Le bruit des rues s'efface, l'esprit se calme, et l'on comprend pourquoi ce lieu est si précieux. Les habitants le savent : ici, le temps n'a pas la même vitesse.",
+      "pt": "Passear pelos hortillonnages é sair da cidade sem sair dela. O barulho das ruas se apaga, a mente se acalma, e a gente entende por que esse lugar é tão precioso. Os habitantes sabem: ali, o tempo não tem a mesma velocidade."
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "se promener",
+      "definitionPt": "passear; caminhar por lazer",
+      "definitionFr": "Marcher pour le plaisir, sans but précis.",
+      "inflections": ["se promener", "se promène", "promené", "la promenade"],
+      "ptTargets": ["passear"],
+      "examples": [
+        { "level": "A1", "fr": "Je me promène dans le parc.", "pt": "Eu passeio no parque." },
+        { "level": "A2-B1", "fr": "On se promène le long des canaux.", "pt": "Passeamos ao longo dos canais." },
+        { "level": "B2", "fr": "Se promener sans but est un luxe que les villes offrent encore.", "pt": "Passear sem rumo é um luxo que as cidades ainda oferecem." },
+        { "level": "C1-C2", "fr": "Se promener, c'est laisser la ville vous raconter ses histoires.", "pt": "Passear é deixar a cidade contar suas histórias." }
+      ]
+    },
+    {
+      "term": "se régaler",
+      "definitionPt": "deliciar-se",
+      "definitionFr": "Prendre un grand plaisir à manger.",
+      "inflections": ["se régaler", "se régale", "régalé"],
+      "ptTargets": ["deliciar-se"],
+      "examples": [
+        { "level": "A1", "fr": "Nous nous régalons avec le gâteau.", "pt": "Nós nos deliciamos com o bolo." },
+        { "level": "A2-B1", "fr": "Les clients se régalent de légumes frais.", "pt": "Os clientes se deliciam com legumes frescos." },
+        { "level": "B2", "fr": "Se régaler, c'est manger avec tous ses sens.", "pt": "Deliciar-se é comer com todos os sentidos." },
+        { "level": "C1-C2", "fr": "Se régaler, c'est transformer un repas ordinaire en fête.", "pt": "Deliciar-se é transformar uma refeição comum em festa." }
+      ]
+    },
+    {
+      "term": "la barque",
+      "definitionPt": "a barca; o barquinho",
+      "definitionFr": "Un petit bateau, souvent sans moteur.",
+      "inflections": ["la barque", "les barques", "une barque plate"],
+      "ptTargets": ["barca", "barquinho"],
+      "examples": [
+        { "level": "A1", "fr": "La barque flotte sur l'eau.", "pt": "A barca flutua na água." },
+        { "level": "A2-B1", "fr": "On monte dans la barque du maraîcher.", "pt": "Subimos na barca do horticultor." },
+        { "level": "B2", "fr": "La barque glisse sans bruit sur le canal.", "pt": "A barca desliza sem barulho pelo canal." },
+        { "level": "C1-C2", "fr": "La barque, frêle et patiente, est la mémoire des jardins flottants.", "pt": "A barca, frágil e paciente, é a memória dos jardins flutuantes." }
+      ]
+    },
+    {
+      "term": "le maraîcher",
+      "definitionPt": "o horticultor",
+      "definitionFr": "Une personne qui cultive des légumes pour les vendre.",
+      "inflections": ["le maraîcher", "les maraîchers", "la maraîchère"],
+      "ptTargets": ["horticultor"],
+      "examples": [
+        { "level": "A1", "fr": "Le maraîcher vend des tomates.", "pt": "O horticultor vende tomates." },
+        { "level": "A2-B1", "fr": "Les maraîchers cultivent leurs légumes sur les îles.", "pt": "Os horticultores cultivam seus legumes nas ilhas." },
+        { "level": "B2", "fr": "Le maraîcher travaille la terre toute l'année, sous la pluie et sous le soleil.", "pt": "O horticultor trabalha a terra o ano inteiro, na chuva e no sol." },
+        { "level": "C1-C2", "fr": "Le maraîcher est le premier maillon de la chaîne qui nourrit la ville.", "pt": "O horticultor é o primeiro elo da cadeia que alimenta a cidade." }
+      ]
+    },
+    {
+      "term": "le canal",
+      "definitionPt": "o canal",
+      "definitionFr": "Un cours d'eau creusé par l'homme pour la navigation ou l'irrigation.",
+      "inflections": ["le canal", "les canaux"],
+      "ptTargets": ["canal"],
+      "examples": [
+        { "level": "A1", "fr": "Le canal traverse la ville.", "pt": "O canal atravessa a cidade." },
+        { "level": "A2-B1", "fr": "Les canaux relient les petites îles.", "pt": "Os canais ligam as pequenas ilhas." },
+        { "level": "B2", "fr": "Les canaux des hortillonnages forment un réseau de plusieurs kilomètres.", "pt": "Os canais dos hortillonnages formam uma rede de vários quilômetros." },
+        { "level": "C1-C2", "fr": "Le canal est une route d'eau que les hommes ont tracée dans le paysage.", "pt": "O canal é uma estrada de água que os homens traçaram na paisagem." }
+      ]
+    },
+    {
+      "term": "se protéger du soleil",
+      "definitionPt": "proteger-se do sol",
+      "definitionFr": "Se protéger des effets nocifs du soleil.",
+      "inflections": ["se protéger du soleil", "se protège du soleil", "protégé du soleil"],
+      "ptTargets": ["proteger-se do sol"],
+      "examples": [
+        { "level": "A1", "fr": "Je me protège du soleil avec un chapeau.", "pt": "Protejo-me do sol com um chapéu." },
+        { "level": "A2-B1", "fr": "Il faut se protéger du soleil en été.", "pt": "É preciso se proteger do sol no verão." },
+        { "level": "B2", "fr": "Se protéger du soleil, c'est aussi préserver sa peau pour plus tard.", "pt": "Proteger-se do sol é também preservar a pele para depois." },
+        { "level": "C1-C2", "fr": "Se protéger du soleil, c'est accepter que la nature demande des égards.", "pt": "Proteger-se do sol é aceitar que a natureza exige cuidados." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Os artigos partitivos com produtos",
+    "explanationPt": "Com alimentos e quantidades indeterminadas, usa-se 'du', 'de la', 'des': 'des légumes', 'de la crème solaire'. Após verbo de quantidade, vira 'de': 'une bouteille d'eau'.",
+    "exampleFr": "Le maraîcher vend des tomates et de la salade.",
+    "examplePt": "O horticultor vende tomates e alface.",
+    "practiceQuestion": "Complete: « Une barque ___ légumes accoste au quai. »",
+    "options": ["de", "des", "du", "la"],
+    "correctIndex": 0,
+    "explanationPt": "Após 'une barque' (quantidade), usa-se 'de': 'une barque de légumes'."
+  },
+  "quizQuestions": [
+    {
+      "question": "Que sont les hortillonnages ?",
+      "options": ["Des jardins flottants sur des marais", "Des mines anciennes", "Des vignobles", "Des plages de sable"],
+      "correctIndex": 0,
+      "explanation": "Les hortillonnages sont des jardins flottants créés sur les marais de la Somme."
+    },
+    {
+      "question": "Comment visite-t-on le site ?",
+      "options": ["En barque", "En avion", "En voiture", "À cheval"],
+      "correctIndex": 0,
+      "explanation": "On visite les hortillonnages en barque, en suivant les canaux."
+    },
+    {
+      "question": "Que faut-il faire quand le temps est sec en été ?",
+      "options": ["Se protéger du soleil", "Boire un chocolat chaud", "Allumer un feu", "Mettre un manteau"],
+      "correctIndex": 0,
+      "explanation": "Par temps sec, il faut se protéger du soleil : crème, chapeau et lunettes."
+    }
+  ]
+}

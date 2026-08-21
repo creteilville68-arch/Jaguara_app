@@ -1,0 +1,166 @@
+{
+  "id": "amiens_guide_02",
+  "cityId": "amiens",
+  "domain": "Cultura",
+  "level": "Misto (A2–C2)",
+  "titleFr": "La cathédrale Notre-Dame d'Amiens",
+  "titlePt": "A catedral Notre-Dame de Amiens",
+  "subtitleFr": "La plus grande cathédrale gothique de France",
+  "subtitlePt": "A maior catedral gótica da França",
+  "summaryPt": "Enciclopédia de Amiens, seção 2: a catedral gótica, seus tesouros e a visita. Vocabulário de arquitetura, turismo e orientação.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "La cathédrale Notre-Dame d'Amiens est la plus grande cathédrale gothique de France. Sa façade, sculptée de centaines de statues, et sa rosace géante impressionnent dès le premier regard. Les vitraux, baignés de lumière, racontent la Bible aux visiteurs.",
+      "pt": "A catedral Notre-Dame de Amiens é a maior catedral gótica da França. Sua fachada, esculpida com centenas de estátuas, e sua rosácea gigante impressionam à primeira vista. Os vitrais, banhados de luz, contam a Bíblia aos visitantes."
+    },
+    {
+      "id": 2,
+      "fr": "Pour découvrir le monument, on peut suivre un guide touristique ou utiliser un audioguide. Chaque site touristique de la ville propose des explications en plusieurs langues. Il suffit de se repérer sur le plan pour ne rien manquer.",
+      "pt": "Para conhecer o monumento, pode-se seguir um guia turístico ou usar um audioguia. Cada ponto turístico da cidade oferece explicações em várias línguas. Basta se localizar no mapa para não perder nada."
+    },
+    {
+      "id": 3,
+      "fr": "Ceux qui le souhaitent peuvent monter l'escalier de la tour jusqu'au sommet ; les autres préfèrent prendre l'ascenseur. De là-haut, la vue s'étend sur les toits de la ville et la vallée de la Somme, un spectacle qui étonne toujours.",
+      "pt": "Quem quiser pode subir a escadaria da torre até o topo; outros preferem pegar o elevador. De lá de cima, a vista se estende pelos telhados da cidade e pelo vale do Somme, um espetáculo que sempre surpreende."
+    },
+    {
+      "id": 4,
+      "fr": "Pour rejoindre la cathédrale depuis le centre, on continue tout droit, on suit les panneaux, puis on traverse le pont qui enjambe la Somme. Même les visiteurs qui se perdent finissent par retrouver leur chemin : la flèche sert de repère partout dans la ville.",
+      "pt": "Para chegar à catedral a partir do centro, continua-se em frente, seguem-se as placas e atravessa-se a ponte sobre o Somme. Até os visitantes que se perdem acabam reencontrando o caminho: a flecha serve de referência em toda a cidade."
+    },
+    {
+      "id": 5,
+      "fr": "Classée au patrimoine mondial, la cathédrale a été restaurée au fil des siècles. Les conservateurs protègent chaque statue, chaque pierre, comme on protège un trésor de famille. La nuit, un spectacle de couleurs illumine la façade et attire des foules silencieuses.",
+      "pt": "Tombada como patrimônio mundial, a catedral foi restaurada ao longo dos séculos. Os conservadores protegem cada estátua, cada pedra, como se protege um tesouro de família. À noite, um espetáculo de cores ilumina a fachada e atrai multidões silenciosas."
+    },
+    {
+      "id": 6,
+      "fr": "Devant l'édifice, les visiteurs s'arrêtent, se concentrent, respirent profondément. Certains restent de longues minutes sans parler, impressionnés par la hauteur des voûtes. La cathédrale, immense et paisible, semble veiller sur la ville endormie.",
+      "pt": "Diante do edifício, os visitantes param, concentram-se, respiram fundo. Alguns ficam longos minutos sem falar, impressionados pela altura das abóbadas. A catedral, imensa e pacífica, parece velar pela cidade adormecida."
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "le guide touristique",
+      "definitionPt": "o guia turístico",
+      "definitionFr": "Une personne ou un livret qui présente les sites d'une ville.",
+      "inflections": ["le guide touristique", "les guides touristiques", "le guide de la ville"],
+      "ptTargets": ["guia turístico"],
+      "examples": [
+        { "level": "A1", "fr": "Le guide touristique parle français.", "pt": "O guia turístico fala francês." },
+        { "level": "A2-B1", "fr": "On suit le guide touristique dans la cathédrale.", "pt": "Seguimos o guia turístico pela catedral." },
+        { "level": "B2", "fr": "Un bon guide touristique adapte son discours à son public.", "pt": "Um bom guia turístico adapta sua fala ao público." },
+        { "level": "C1-C2", "fr": "Le guide touristique transforme une visite en récit vivant.", "pt": "O guia turístico transforma uma visita em narrativa viva." }
+      ]
+    },
+    {
+      "term": "se repérer",
+      "definitionPt": "localizar-se; orientar-se",
+      "definitionFr": "Retrouver sa position dans l'espace à l'aide de repères.",
+      "inflections": ["se repérer", "se repère", "repéré"],
+      "ptTargets": ["localizar-se", "orientar-se"],
+      "examples": [
+        { "level": "A1", "fr": "Je me repère avec le plan.", "pt": "Eu me localizo com o mapa." },
+        { "level": "A2-B1", "fr": "On se repère grâce à la flèche de la cathédrale.", "pt": "Localizamo-nos graças à flecha da catedral." },
+        { "level": "B2", "fr": "Se repérer dans une ville inconnue demande de l'observation.", "pt": "Localizar-se numa cidade desconhecida exige observação." },
+        { "level": "C1-C2", "fr": "Se repérer, c'est lire la ville comme un texte écrit dans l'espace.", "pt": "Localizar-se é ler a cidade como um texto escrito no espaço." }
+      ]
+    },
+    {
+      "term": "suivre les panneaux",
+      "definitionPt": "seguir as placas",
+      "definitionFr": "Se diriger en suivant les indications écrites.",
+      "inflections": ["suivre les panneaux", "suit les panneaux", "suivi les panneaux"],
+      "ptTargets": ["seguir as placas"],
+      "examples": [
+        { "level": "A1", "fr": "Nous suivons les panneaux.", "pt": "Seguimos as placas." },
+        { "level": "A2-B1", "fr": "Suivez les panneaux pour trouver la gare.", "pt": "Siga as placas para achar a estação." },
+        { "level": "B2", "fr": "Suivre les panneaux évite de s'arrêter à chaque croisement.", "pt": "Seguir as placas evita parar em cada cruzamento." },
+        { "level": "C1-C2", "fr": "Suivre les panneaux, c'est accepter de confier sa route aux autres.", "pt": "Seguir as placas é aceitar confiar sua rota aos outros." }
+      ]
+    },
+    {
+      "term": "la rosace",
+      "definitionPt": "a rosácea",
+      "definitionFr": "Une grande fenêtre circulaire décorée, typique des églises gothiques.",
+      "inflections": ["la rosace", "les rosaces", "la rosace de la cathédrale"],
+      "ptTargets": ["rosácea"],
+      "examples": [
+        { "level": "A1", "fr": "La rosace est ronde.", "pt": "A rosácea é redonda." },
+        { "level": "A2-B1", "fr": "La rosace de la cathédrale est célèbre.", "pt": "A rosácea da catedral é famosa." },
+        { "level": "B2", "fr": "La rosace, immense, filtre la lumière en mille couleurs.", "pt": "A rosácea, imensa, filtra a luz em mil cores." },
+        { "level": "C1-C2", "fr": "La rosace est une fenêtre ouverte sur le ciel, taillée dans la pierre.", "pt": "A rosácea é uma janela aberta para o céu, talhada na pedra." }
+      ]
+    },
+    {
+      "term": "impressionner",
+      "definitionPt": "impressionar",
+      "definitionFr": "Frapper fortement l'esprit, susciter l'admiration.",
+      "inflections": ["impressionner", "impressionne", "impressionné"],
+      "ptTargets": ["impressionar"],
+      "examples": [
+        { "level": "A1", "fr": "Le monument m'impressionne.", "pt": "O monumento me impressiona." },
+        { "level": "A2-B1", "fr": "La cathédrale impressionne les visiteurs.", "pt": "A catedral impressiona os visitantes." },
+        { "level": "B2", "fr": "Ce qui impressionne, c'est la taille des voûtes.", "pt": "O que impressiona é o tamanho das abóbadas." },
+        { "level": "C1-C2", "fr": "Les œuvres qui nous impressionnent changent notre façon de voir.", "pt": "As obras que nos impressionam mudam nosso jeito de ver." }
+      ]
+    },
+    {
+      "term": "le conservateur",
+      "definitionPt": "o conservador (de patrimônio)",
+      "definitionFr": "La personne chargée de protéger et d'entretenir les collections.",
+      "inflections": ["le conservateur", "les conservateurs", "la conservatrice"],
+      "ptTargets": ["conservador"],
+      "examples": [
+        { "level": "A1", "fr": "Le conservateur travaille au musée.", "pt": "O conservador trabalha no museu." },
+        { "level": "A2-B1", "fr": "Le conservateur surveille les statues.", "pt": "O conservador vigia as estátuas." },
+        { "level": "B2", "fr": "Le conservateur décide des travaux de restauration.", "pt": "O conservador decide as obras de restauração." },
+        { "level": "C1-C2", "fr": "Le conservateur est le gardien d'un dialogue entre le passé et l'avenir.", "pt": "O conservador é o guardião de um diálogo entre o passado e o futuro." }
+      ]
+    },
+    {
+      "term": "la voûte",
+      "definitionPt": "a abóbada",
+      "definitionFr": "Un plafond en pierre en forme d'arc.",
+      "inflections": ["la voûte", "les voûtes", "la voûte gothique"],
+      "ptTargets": ["abóbada"],
+      "examples": [
+        { "level": "A1", "fr": "La voûte est très haute.", "pt": "A abóbada é muito alta." },
+        { "level": "A2-B1", "fr": "On lève les yeux vers la voûte.", "pt": "Levantamos os olhos para a abóbada." },
+        { "level": "B2", "fr": "Les voûtes gothiques soutiennent le toit de la cathédrale.", "pt": "As abóbadas góticas sustentam o teto da catedral." },
+        { "level": "C1-C2", "fr": "Sous la voûte, le silence lui-même semble sculpté.", "pt": "Sob a abóbada, o próprio silêncio parece esculpido." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "O imperativo de cortesia (vous)",
+    "explanationPt": "Para orientar visitantes, usa-se o imperativo em 'vous': 'continuez tout droit', 'suivez les panneaux', 'prenez l'ascenseur'. Forma-se com o presente do indicativo sem o sujeito.",
+    "exampleFr": "Continuez tout droit, puis traversez le pont.",
+    "examplePt": "Siga em frente e depois atravesse a ponte.",
+    "practiceQuestion": "Complete: « ___ les panneaux pour trouver la cathédrale. »",
+    "options": ["Suivez", "Suive", "Suivant", "Suivre"],
+    "correctIndex": 0,
+    "explanationPt": "Imperativo em 'vous': 'suivez les panneaux'."
+  },
+  "quizQuestions": [
+    {
+      "question": "Pourquoi la cathédrale d'Amiens est-elle célèbre ?",
+      "options": ["C'est la plus grande cathédrale gothique de France", "Elle est construite en verre", "Elle date du XXe siècle", "Elle est au bord de la mer"],
+      "correctIndex": 0,
+      "explanation": "Notre-Dame d'Amiens est la plus grande cathédrale gothique de France."
+    },
+    {
+      "question": "Qu'est-ce qu'une rosace ?",
+      "options": ["Une grande fenêtre circulaire décorée", "Une statue dorée", "Un escalier en colimaçon", "Un toit de cuivre"],
+      "correctIndex": 0,
+      "explanation": "La rosace est une grande fenêtre circulaire décorée, typique des églises gothiques."
+    },
+    {
+      "question": "Comment retrouver son chemin dans la ville ?",
+      "options": ["En suivant la flèche de la cathédrale", "En fermant les yeux", "En traversant le fleuve à la nage", "En montant sur les toits"],
+      "correctIndex": 0,
+      "explanation": "La flèche de la cathédrale sert de repère dans toute la ville."
+    }
+  ]
+}

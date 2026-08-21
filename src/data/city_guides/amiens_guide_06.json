@@ -1,0 +1,153 @@
+{
+  "id": "amiens_guide_06",
+  "cityId": "amiens",
+  "domain": "Cotidiano",
+  "level": "Misto (A2–C2)",
+  "titleFr": "La vie quotidienne à Amiens",
+  "titlePt": "A vida cotidiana em Amiens",
+  "subtitleFr": "Marché, cantine, courses et petits travaux",
+  "subtitlePt": "Mercado, refeitório, compras e pequenos reparos",
+  "summaryPt": "Enciclopédia de Amiens, seção 6: o dia a dia — compras, refeições, trabalho e casa. Vocabulário de consumo, alimentação e rotina.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Le samedi matin, les magasins du centre sont pleins. Il faut parfois faire la queue devant la caisse et attendre son tour dans la file d'attente. Certains préfèrent acheter en ligne et remplir leur panier en ligne ; d'autres poussent un caddie dans les allées du supermarché.",
+      "pt": "No sábado de manhã, as lojas do centro estão cheias. Às vezes é preciso enfrentar fila diante do caixa e esperar a vez na fila. Alguns preferem comprar online e encher o carrinho virtual; outros empurram um carrinho pelos corredores do supermercado."
+    },
+    {
+      "id": 2,
+      "fr": "À midi, les travailleurs se retrouvent à la cantine, au fast-food ou à la pizzeria. Le plat du jour est souvent le meilleur choix : simple, chaud et copieux. On commande un café serré ou une eau plate, parfois un vin rosé ou une bière pression avec le repas.",
+      "pt": "Ao meio-dia, os trabalhadores se encontram no refeitório, no fast-food ou na pizzaria. O prato do dia costuma ser a melhor escolha: simples, quente e farto. Pede-se um café forte ou uma água sem gás, às vezes um vinho rosé ou uma chope com a refeição."
+    },
+    {
+      "id": 3,
+      "fr": "Le soir, on cherche une table libre au restaurant, ou l'on réserve une table à l'avance. On prend le menu, on demande une place dans le coin non-fumeur, on savoure son assiette creuse de soupe avec une petite cuillère et un pichet d'eau. À la fin, on paie l'addition et on règle sans discuter.",
+      "pt": "À noite, procura-se uma mesa livre no restaurante, ou reserva-se uma mesa com antecedência. Escolhe-se o menu, pede-se um lugar na área de não fumantes, saboreia-se o prato fundo de sopa com uma colher de chá e uma jarra de água. No fim, paga-se a conta e acerta-se sem discutir."
+    },
+    {
+      "id": 4,
+      "fr": "La journée commence tôt : on se prépare, on fait sa toilette, puis on part au travail. En cours de journée, on fait une pause, on prend la pause déjeuner avec les collègues, parfois une pause café. Certaines journées sont chargées, d'autres plus tranquilles ; le dimanche, on fait la grasse matinée.",
+      "pt": "O dia começa cedo: prepara-se, faz-se a higiene e sai-se para o trabalho. No meio do dia, faz-se uma pausa, toma-se a pausa do almoço com os colegas, às vezes uma pausa para o café. Alguns dias são cheios, outros mais tranquilos; no domingo, dorme-se até tarde."
+    },
+    {
+      "id": 5,
+      "fr": "Ceux qui s'installent dans la région louent un appartement d'abord, puis achètent une maison plus tard, ou vendent un appartement pour changer de quartier. Une fois chez soi, on meuble, on bricole, on peint un mur, on accroche un tableau et l'on visse les étagères.",
+      "pt": "Quem se instala na região primeiro aluga um apartamento, depois compra uma casa mais tarde, ou vende um apartamento para mudar de bairro. Uma vez em casa, mobilia-se, fazem-se pequenos reparos, pinta-se uma parede, pendura-se um quadro e aparafusam-se as prateleiras."
+    },
+    {
+      "id": 6,
+      "fr": "Tout n'est pas parfait : il arrive qu'un article soit défectueux. On le rapporte, on demande un échange, on se fait rembourser. Parfois on se plaint, on râle, on s'énerve — puis on se calme. Car s'occuper de sa vie, c'est aussi prendre soin des autres.",
+      "pt": "Nem tudo é perfeito: acontece de um produto vir com defeito. Devolve-se, pede-se uma troca, é-se reembolsado. Às vezes reclama-se, resmunga-se, irrita-se — e depois a gente se acalma. Pois cuidar da própria vida é também cuidar dos outros."
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "faire la queue",
+      "definitionPt": "enfrentar fila",
+      "definitionFr": "Attendre son tour en formant une file.",
+      "inflections": ["faire la queue", "fait la queue", "faites la queue"],
+      "ptTargets": ["enfrentar fila", "ficar na fila"],
+      "examples": [
+        { "level": "A1", "fr": "Nous faisons la queue à la boulangerie.", "pt": "Enfrentamos fila na padaria." },
+        { "level": "A2-B1", "fr": "Il faut faire la queue devant la caisse.", "pt": "É preciso enfrentar fila diante do caixa." },
+        { "level": "B2", "fr": "Faire la queue, c'est accepter la patience des autres.", "pt": "Enfrentar fila é aceitar a paciência dos outros." },
+        { "level": "C1-C2", "fr": "Faire la queue, c'est participer, sans le vouloir, à une leçon de civilité.", "pt": "Enfrentar fila é participar, sem querer, de uma lição de civilidade." }
+      ]
+    },
+    {
+      "term": "payer l'addition",
+      "definitionPt": "pagar a conta",
+      "definitionFr": "Régler le montant d'un repas au restaurant.",
+      "inflections": ["payer l'addition", "paie l'addition", "payé l'addition"],
+      "ptTargets": ["pagar a conta"],
+      "examples": [
+        { "level": "A1", "fr": "Je paie l'addition.", "pt": "Eu pago a conta." },
+        { "level": "A2-B1", "fr": "On paie l'addition et on part.", "pt": "Pagamos a conta e vamos embora." },
+        { "level": "B2", "fr": "Payer l'addition sans regarder le prix est un geste de générosité.", "pt": "Pagar a conta sem olhar o preço é um gesto de generosidade." },
+        { "level": "C1-C2", "fr": "Payer l'addition, c'est clore une conversation qui n'a pas de prix.", "pt": "Pagar a conta é encerrar uma conversa que não tem preço." }
+      ]
+    },
+    {
+      "term": "faire une pause",
+      "definitionPt": "fazer uma pausa",
+      "definitionFr": "Interrompre son activité pour se reposer un moment.",
+      "inflections": ["faire une pause", "fait une pause", "faites une pause"],
+      "ptTargets": ["fazer uma pausa"],
+      "examples": [
+        { "level": "A1", "fr": "Je fais une pause à dix heures.", "pt": "Faço uma pausa às dez horas." },
+        { "level": "A2-B1", "fr": "Les collègues font une pause ensemble.", "pt": "Os colegas fazem uma pausa juntos." },
+        { "level": "B2", "fr": "Faire une pause, c'est recharger ses batteries.", "pt": "Fazer uma pausa é recarregar as baterias." },
+        { "level": "C1-C2", "fr": "Faire une pause, c'est rendre hommage au temps qui passe.", "pt": "Fazer uma pausa é prestar homenagem ao tempo que passa." }
+      ]
+    },
+    {
+      "term": "bricoler",
+      "definitionPt": "fazer pequenos reparos; marretar",
+      "definitionFr": "Faire de petits travaux manuels à la maison.",
+      "inflections": ["bricoler", "bricole", "bricolé", "le bricolage"],
+      "ptTargets": ["fazer pequenos reparos"],
+      "examples": [
+        { "level": "A1", "fr": "Il bricole le samedi.", "pt": "Ele faz pequenos reparos no sábado." },
+        { "level": "A2-B1", "fr": "Elle bricole dans le garage.", "pt": "Ela faz pequenos reparos na garagem." },
+        { "level": "B2", "fr": "Bricoler demande de la patience et de bons outils.", "pt": "Fazer pequenos reparos exige paciência e boas ferramentas." },
+        { "level": "C1-C2", "fr": "Bricoler, c'est réparer le monde, une vis à la fois.", "pt": "Fazer pequenos reparos é consertar o mundo, um parafuso de cada vez." }
+      ]
+    },
+    {
+      "term": "se plaindre",
+      "definitionPt": "reclamar",
+      "definitionFr": "Exprimer son mécontentement.",
+      "inflections": ["se plaindre", "se plaint", "plaint"],
+      "ptTargets": ["reclamar"],
+      "examples": [
+        { "level": "A1", "fr": "Il se plaint du froid.", "pt": "Ele reclama do frio." },
+        { "level": "A2-B1", "fr": "Elle se plaint du service au restaurant.", "pt": "Ela reclama do serviço no restaurante." },
+        { "level": "B2", "fr": "Se plaindre sans agir ne change rien.", "pt": "Reclamar sem agir não muda nada." },
+        { "level": "C1-C2", "fr": "Se plaindre est humain ; proposer une solution est plus rare et plus précieux.", "pt": "Reclamar é humano; propor uma solução é mais raro e mais precioso." }
+      ]
+    },
+    {
+      "term": "prendre soin de",
+      "definitionPt": "cuidar de",
+      "definitionFr": "S'occuper de quelqu'un ou de quelque chose avec attention.",
+      "inflections": ["prendre soin de", "prend soin de", "pris soin de"],
+      "ptTargets": ["cuidar de"],
+      "examples": [
+        { "level": "A1", "fr": "Je prends soin de mes affaires.", "pt": "Eu cuido das minhas coisas." },
+        { "level": "A2-B1", "fr": "Elle prend soin de ses plantes.", "pt": "Ela cuida das plantas." },
+        { "level": "B2", "fr": "Prendre soin de sa ville, c'est prendre soin de soi.", "pt": "Cuidar da própria cidade é cuidar de si." },
+        { "level": "C1-C2", "fr": "Prendre soin des autres, c'est reconnaître qu'ils font partie de nous.", "pt": "Cuidar dos outros é reconhecer que eles fazem parte de nós." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Infinitivo com valor de instrução",
+    "explanationPt": "Em receitas e relatos, o infinitivo funciona como instrução impessoal: 'on se prépare', 'on paie l'addition'. Também é comum o imperativo: 'prenez le menu', 'réglez sans discuter'.",
+    "exampleFr": "On paie l'addition, on règle, et l'on part.",
+    "examplePt": "Paga-se a conta, acerta-se e vai-se embora.",
+    "practiceQuestion": "Complete: « ___ soin de vos affaires. »",
+    "options": ["Prenez", "Prenant", "Prendre", "Pris"],
+    "correctIndex": 0,
+    "explanationPt": "Imperativo em 'vous': 'prenez soin'."
+  },
+  "quizQuestions": [
+    {
+      "question": "Que fait-on devant la caisse le samedi matin ?",
+      "options": ["On fait la queue", "On cuisine", "On dort", "On nage"],
+      "correctIndex": 0,
+      "explanation": "Le samedi matin, il faut souvent faire la queue devant la caisse."
+    },
+    {
+      "question": "Que signifie « bricoler » ?",
+      "options": ["Faire de petits travaux manuels", "Faire du sport", "Cuisiner un gâteau", "Lire un roman"],
+      "correctIndex": 0,
+      "explanation": "Bricoler, c'est faire de petits travaux manuels à la maison."
+    },
+    {
+      "question": "Que fait-on quand un article est défectueux ?",
+      "options": ["On le rapporte et on se fait rembourser", "On le jette à la rivière", "On le cache", "On le peint"],
+      "correctIndex": 0,
+      "explanation": "Pour un article défectueux, on peut demander un échange ou un remboursement."
+    }
+  ]
+}

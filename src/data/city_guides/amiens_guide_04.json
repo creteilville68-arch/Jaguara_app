@@ -1,0 +1,153 @@
+{
+  "id": "amiens_guide_04",
+  "cityId": "amiens",
+  "domain": "Cultura",
+  "level": "Misto (A2–C2)",
+  "titleFr": "Jules Verne et la littérature",
+  "titlePt": "Jules Verne e a literatura",
+  "subtitleFr": "L'écrivain visionnaire qui aimait Amiens",
+  "subtitlePt": "O escritor visionário que amava Amiens",
+  "summaryPt": "Enciclopédia de Amiens, seção 4: Jules Verne, a literatura e a cultura da leitura. Vocabulário de livros, cinema e conversa.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Jules Verne vécut à Amiens pendant plus de trente ans. C'est dans cette ville paisible qu'il écrivit la plupart de ses romans, entre science et imaginaire. Sa maison, devenue musée, attire chaque année des milliers de curieux.",
+      "pt": "Jules Verne viveu em Amiens por mais de trinta anos. Foi nessa cidade tranquila que ele escreveu a maioria de seus romances, entre ciência e imaginação. Sua casa, virada museu, atrai todos os anos milhares de curiosos."
+    },
+    {
+      "id": 2,
+      "fr": "Voyage au centre de la Terre, Le Tour du monde en quatre-vingts jours, Vingt mille lieues sous les mers : ces récits passionnent les lecteurs depuis plus d'un siècle. Verne imaginait des machines et des voyages qui n'existaient pas encore — et qui existent aujourd'hui.",
+      "pt": "Viagem ao Centro da Terra, A Volta ao Mundo em Oitenta Dias, Vinte Mil Léguas Submarinas: esses relatos apaixonam os leitores há mais de um século. Verne imaginava máquinas e viagens que ainda não existiam — e que existem hoje."
+    },
+    {
+      "id": 3,
+      "fr": "La bibliothèque municipale conserve des éditions rares de ses œuvres. Les lecteurs peuvent emprunter un livre pour quelques semaines, puis rendre un livre à la fin du mois. Au café, beaucoup lisent le journal en attendant l'heure du rendez-vous.",
+      "pt": "A biblioteca municipal conserva edições raras de suas obras. Os leitores podem pegar um livro emprestado por algumas semanas e depois devolvê-lo no fim do mês. No café, muitos leem o jornal esperando a hora do encontro."
+    },
+    {
+      "id": 4,
+      "fr": "Les adaptations au cinéma et au théâtre sont nombreuses. On achète un billet de cinéma pour un film d'animation, on applaudit l'actrice au théâtre, on discute du travail du metteur en scène. La salle de spectacle, pleine, vibre jusqu'à la dernière réplique.",
+      "pt": "As adaptações para o cinema e o teatro são numerosas. Compramos um ingresso de cinema para um filme de animação, aplaudimos a atriz no teatro, discutimos o trabalho do diretor. A sala de espetáculo, cheia, vibra até a última fala."
+    },
+    {
+      "id": 5,
+      "fr": "Autour d'un verre, les amis se confient, donnent leur avis sur le dernier roman, débattent de la fin du livre. Certains sont d'accord avec l'écrivain, d'autres ne sont pas d'accord. Peu importe : la discussion fait partie du plaisir de lire.",
+      "pt": "Em volta de uma bebida, os amigos desabafam, dão sua opinião sobre o último romance, debatem o final do livro. Alguns concordam com o escritor, outros não concordam. Não importa: a discussão faz parte do prazer de ler."
+    },
+    {
+      "id": 6,
+      "fr": "Chaque année, la ville organise une fête autour de Jules Verne. On y présente des expositions, des lectures et des spectacles qui étonnent petits et grands. Verne avait promis d'écrire des livres pour rêver ; Amiens lui rend hommage en continuant de rêver.",
+      "pt": "Todos os anos, a cidade organiza uma festa em torno de Jules Verne. Ali se apresentam exposições, leituras e espetáculos que surpreendem crianças e adultos. Verne prometera escrever livros para sonhar; Amiens lhe presta homenagem continuando a sonhar."
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "emprunter un livre",
+      "definitionPt": "pegar um livro emprestado",
+      "definitionFr": "Prendre un livre à la bibliothèque pour un temps limité.",
+      "inflections": ["emprunter un livre", "emprunte un livre", "emprunté un livre"],
+      "ptTargets": ["pegar um livro emprestado"],
+      "examples": [
+        { "level": "A1", "fr": "J'emprunte un livre à la bibliothèque.", "pt": "Pego um livro emprestado na biblioteca." },
+        { "level": "A2-B1", "fr": "Elle emprunte un livre pour les vacances.", "pt": "Ela pega um livro emprestado para as férias." },
+        { "level": "B2", "fr": "Emprunter un livre, c'est recevoir un cadeau qui devra être rendu.", "pt": "Pegar um livro emprestado é receber um presente que deverá ser devolvido." },
+        { "level": "C1-C2", "fr": "Emprunter un livre engage une promesse : celle de le rendre, enrichi d'un lecteur.", "pt": "Pegar um livro emprestado implica uma promessa: devolvê-lo, enriquecido por um leitor." }
+      ]
+    },
+    {
+      "term": "le film d'animation",
+      "definitionPt": "o filme de animação",
+      "definitionFr": "Un film réalisé à partir d'images dessinées ou créées par ordinateur.",
+      "inflections": ["le film d'animation", "les films d'animation"],
+      "ptTargets": ["filme de animação"],
+      "examples": [
+        { "level": "A1", "fr": "Le film d'animation est amusant.", "pt": "O filme de animação é divertido." },
+        { "level": "A2-B1", "fr": "On regarde un film d'animation avec les enfants.", "pt": "Assistimos a um filme de animação com as crianças." },
+        { "level": "B2", "fr": "Le film d'animation demande des années de travail minutieux.", "pt": "O filme de animação exige anos de trabalho minucioso." },
+        { "level": "C1-C2", "fr": "Le film d'animation libère l'imagination des contraintes du réel.", "pt": "O filme de animação liberta a imaginação das amarras do real." }
+      ]
+    },
+    {
+      "term": "le metteur en scène",
+      "definitionPt": "o diretor (de teatro/cinema)",
+      "definitionFr": "La personne qui dirige la réalisation d'un spectacle ou d'un film.",
+      "inflections": ["le metteur en scène", "les metteurs en scène"],
+      "ptTargets": ["diretor"],
+      "examples": [
+        { "level": "A1", "fr": "Le metteur en scène dirige les acteurs.", "pt": "O diretor dirige os atores." },
+        { "level": "A2-B1", "fr": "Le metteur en scène a choisi une salle de spectacle magnifique.", "pt": "O diretor escolheu uma sala de espetáculo magnífica." },
+        { "level": "B2", "fr": "Le metteur en scène donne une lecture personnelle de l'œuvre.", "pt": "O diretor dá uma leitura pessoal da obra." },
+        { "level": "C1-C2", "fr": "Le metteur en scène transforme un texte écrit en émotion partagée.", "pt": "O diretor transforma um texto escrito em emoção compartilhada." }
+      ]
+    },
+    {
+      "term": "se confier",
+      "definitionPt": "desabafar; confiar-se",
+      "definitionFr": "Partager ses sentiments ou ses secrets avec quelqu'un.",
+      "inflections": ["se confier", "se confie", "confié"],
+      "ptTargets": ["desabafar"],
+      "examples": [
+        { "level": "A1", "fr": "Elle se confie à son ami.", "pt": "Ela desabafa com o amigo." },
+        { "level": "A2-B1", "fr": "Ils se confient pendant la promenade.", "pt": "Eles desabafam durante o passeio." },
+        { "level": "B2", "fr": "Se confier demande du courage et de la confiance.", "pt": "Desabafar exige coragem e confiança." },
+        { "level": "C1-C2", "fr": "Se confier, c'est offrir une clé de son cœur à quelqu'un qui en prendra soin.", "pt": "Desabafar é dar uma chave do próprio coração a alguém que cuidará dela." }
+      ]
+    },
+    {
+      "term": "donner son avis",
+      "definitionPt": "dar a opinião",
+      "definitionFr": "Exprimer ce que l'on pense d'un sujet.",
+      "inflections": ["donner son avis", "donne son avis", "donné son avis"],
+      "ptTargets": ["dar a opinião"],
+      "examples": [
+        { "level": "A1", "fr": "Je donne mon avis sur le film.", "pt": "Dou minha opinião sobre o filme." },
+        { "level": "A2-B1", "fr": "Elle donne son avis sur le livre.", "pt": "Ela dá sua opinião sobre o livro." },
+        { "level": "B2", "fr": "Donner son avis, c'est accepter d'être contredit.", "pt": "Dar a opinião é aceitar ser contestado." },
+        { "level": "C1-C2", "fr": "Donner son avis, c'est participer à la conversation du monde.", "pt": "Dar a opinião é participar da conversa do mundo." }
+      ]
+    },
+    {
+      "term": "passionner",
+      "definitionPt": "apaixonar; fascinar",
+      "definitionFr": "Susciter un très grand intérêt.",
+      "inflections": ["passionner", "passionne", "passionné"],
+      "ptTargets": ["apaixonar", "fascinar"],
+      "examples": [
+        { "level": "A1", "fr": "Ce livre me passionne.", "pt": "Este livro me apaixona." },
+        { "level": "A2-B1", "fr": "Les romans de Verne passionnent les lecteurs.", "pt": "Os romances de Verne apaixonam os leitores." },
+        { "level": "B2", "fr": "Ce qui passionne le public, c'est le mystère du voyage.", "pt": "O que apaixona o público é o mistério da viagem." },
+        { "level": "C1-C2", "fr": "Passionner, c'est réveiller chez l'autre une curiosité qui ne s'éteint plus.", "pt": "Apaixonar é despertar no outro uma curiosidade que não se apaga mais." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Títulos de obras e letras maiúsculas",
+    "explanationPt": "Em francês, nos títulos de livros, só a primeira palavra leva maiúscula (salvo nomes próprios): 'Voyage au centre de la Terre', 'Le Tour du monde en quatre-vingts jours'.",
+    "exampleFr": "J'ai lu Le Tour du monde en quatre-vingts jours.",
+    "examplePt": "Li A Volta ao Mundo em Oitenta Dias.",
+    "practiceQuestion": "Qual está correto?",
+    "options": ["Vingt mille lieues sous les mers", "Vingt Mille Lieues Sous Les Mers", "vingt mille lieues sous les mers", "Vingt mille Lieues Sous Les Mers"],
+    "correctIndex": 0,
+    "explanationPt": "Só a primeira palavra do título leva maiúscula (salvo nomes próprios)."
+  },
+  "quizQuestions": [
+    {
+      "question": "Où Jules Verne a-t-il écrit la plupart de ses romans ?",
+      "options": ["À Amiens", "À Paris", "À Marseille", "À Londres"],
+      "correctIndex": 0,
+      "explanation": "Jules Verne a vécu à Amiens pendant plus de trente ans et y a écrit la plupart de ses romans."
+    },
+    {
+      "question": "Que peut-on faire à la bibliothèque ?",
+      "options": ["Emprunter un livre", "Acheter des billets de train", "Manger un repas", "Louer un vélo"],
+      "correctIndex": 0,
+      "explanation": "À la bibliothèque, on emprunte des livres pour un temps limité."
+    },
+    {
+      "question": "Qui dirige un spectacle ?",
+      "options": ["Le metteur en scène", "Le bibliothécaire", "Le maraîcher", "Le guide"],
+      "correctIndex": 0,
+      "explanation": "Le metteur en scène dirige la réalisation d'un spectacle."
+    }
+  ]
+}

@@ -89,4 +89,34 @@ export const AMIENS_BACKLOG_EXAMPLES: Record<string, MasterExample[]> = {
     { level: 'B2', fr: "La pâtisserie d'Amiens est réputée pour son gâteau battu.", pt: 'A pastelaria de Amiens é reconhecida por seu gâteau battu.' },
     { level: 'C1-C2', fr: "C'est la pâtisserie qui, par ses recettes, garde vivante la mémoire sucrée d'une ville.", pt: 'É a pastelaria que, por suas receitas, guarda viva a memória doce de uma cidade.' },
   ],
+  convivialité: [
+    { level: 'A1', fr: 'J\'aime la convivialité du repas.', pt: 'Eu gosto da descontração da refeição.' },
+    { level: 'A2-B1', fr: 'Le dîner de quartier est plein de convivialité.', pt: 'O jantar do bairro é cheio de descontração.' },
+    { level: 'B2', fr: 'La convivialité des fêtes de village rapproche les habitants.', pt: 'A descontração das festas de vila aproxima os moradores.' },
+    { level: 'C1-C2', fr: "C'est la convivialité qui, autour d'une table, réconcilie ce que les disputes avaient séparé.", pt: 'É a descontração que, em volta de uma mesa, reconcilia o que as brigas tinham separado.' },
+  ],
+  réserve: [
+    { level: 'A1', fr: 'Je réserve une table pour deux.', pt: 'Eu reservo uma mesa para dois.' },
+    { level: 'A2-B1', fr: 'On réserve une chambre double à l\'hôtel.', pt: 'Reservamos um quarto de casal no hotel.' },
+    { level: 'B2', fr: 'Elle réserve ses billets de train bien à l\'avance.', pt: 'Ela reserva as passagens de trem com bastante antecedência.' },
+    { level: 'C1-C2', fr: "Réserver à l'avance relève d'une courtoisie qui témoigne du respect du temps de chacun.", pt: 'Reservar com antecedência é uma cortesia que demonstra respeito pelo tempo de cada um.' },
+  ],
+  blessure: [
+    { level: 'A1', fr: 'La blessure fait mal.', pt: 'O ferimento dói.' },
+    { level: 'A2-B1', fr: 'Il a une petite blessure au genou.', pt: 'Ele tem um pequeno ferimento no joelho.' },
+    { level: 'B2', fr: 'Une blessure mal soignée peut s\'infecter.', pt: 'Um ferimento mal tratado pode infeccionar.' },
+    { level: 'C1-C2', fr: "C'est parfois la blessure la plus invisible qui demande le plus de soins.", pt: 'Às vezes é o ferimento mais invisível que exige mais cuidados.' },
+  ],
+  pansement: [
+    { level: 'A1', fr: 'Je mets un pansement sur la plaie.', pt: 'Eu coloco um curativo na ferida.' },
+    { level: 'A2-B1', fr: 'Elle change son pansement chaque matin.', pt: 'Ela troca o curativo toda manhã.' },
+    { level: 'B2', fr: 'Un pansement propre protège la blessure des infections.', pt: 'Um curativo limpo protege o ferimento de infecções.' },
+    { level: 'C1-C2', fr: "C'est le pansement qui, posé à temps, permet à la peau de se refaire en silence.", pt: 'É o curativo que, aplicado a tempo, permite que a pele se refaça em silêncio.' },
+  ],
+  placé: [
+    { level: 'A1', fr: 'Le livre est bien placé sur la table.', pt: 'O livro está bem colocado sobre a mesa.' },
+    { level: 'A2-B1', fr: 'Un compliment bien placé fait plaisir.', pt: 'Um elogio bem colocado agrada.' },
+    { level: 'B2', fr: 'Cette phrase, placée au bon endroit, change tout le discours.', pt: 'Essa frase, colocada no lugar certo, muda todo o discurso.' },
+    { level: 'C1-C2', fr: "C'est un mot bien placé qui, au moment juste, console mieux qu'un long discours.", pt: 'É uma palavra bem colocada que, no momento certo, consola melhor que um longo discurso.' },
+  ],
 };

@@ -1,0 +1,153 @@
+{
+  "id": "amiens_guide_05",
+  "cityId": "amiens",
+  "domain": "Cultura",
+  "level": "Misto (A2–C2)",
+  "titleFr": "Les marionnettes et les traditions picardes",
+  "titlePt": "As marionetes e as tradições picardas",
+  "subtitleFr": "Chés Cabotans et les fêtes du terroir",
+  "subtitlePt": "Chés Cabotans e as festas da terra",
+  "summaryPt": "Enciclopédia de Amiens, seção 5: as marionetes de Amiens, as festas e os costumes de convivência. Vocabulário de festas, encontros e celebrações.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Amiens est célèbre pour ses marionnettes, les Chés Cabotans. Depuis le XIXe siècle, le théâtre de marionnettes fait rire les enfants et les parents avec ses personnages espiègles. Chaque représentation se termine par des applaudissements chaleureux.",
+      "pt": "Amiens é famosa por suas marionetes, os Chés Cabotans. Desde o século XIX, o teatro de marionetes faz rir as crianças e os pais com seus personagens travessos. Cada apresentação termina com aplausos calorosos."
+    },
+    {
+      "id": 2,
+      "fr": "Pendant la fête de village, la place se transforme. On y installe une fête foraine avec ses manèges, un parc d'attractions pour les plus jeunes et parfois un aquarium itinérant. Les familles s'y retrouvent pour le plaisir de partager une journée joyeuse.",
+      "pt": "Durante a festa da vila, a praça se transforma. Instala-se ali uma quermesse com seus carrosséis, um parque de diversões para os menores e às vezes um aquário itinerante. As famílias se encontram ali pelo prazer de compartilhar um dia alegre."
+    },
+    {
+      "id": 3,
+      "fr": "Dans ces fêtes, on se donne rendez-vous, on retrouve des amis que l'on n'a pas vus depuis longtemps. On fait connaissance avec de nouvelles personnes, on présente quelqu'un au groupe, on serre la main, on fait la bise. Ces gestes simples créent le lien.",
+      "pt": "Nessas festas, marcamos encontros, reencontramos amigos que não vemos há muito tempo. Conhecemos novas pessoas, apresentamos alguém ao grupo, apertamos a mão, damos beijinhos. Esses gestos simples criam o vínculo."
+    },
+    {
+      "id": 4,
+      "fr": "Les anniversaires et les mariages sont l'occasion d'offrir un cadeau et de faire une surprise. On souhaite un bon anniversaire à voix haute, on souhaite bonne chance aux jeunes mariés, on accepte une invitation avec plaisir. La générosité fait partie de l'art de vivre picard.",
+      "pt": "Os aniversários e os casamentos são ocasião para dar um presente e fazer uma surpresa. Desejamos feliz aniversário em voz alta, desejamos boa sorte aos recém-casados, aceitamos um convite com prazer. A generosidade faz parte da arte de viver picarda."
+    },
+    {
+      "id": 5,
+      "fr": "Les traditions se transmettent de génération en génération. Les anciens racontent les chansons d'autrefois, les enfants les réapprennent et se réjouissent de les chanter à leur tour. Rien ne réjouit davantage les anciens que de voir les plus jeunes prendre le relais.",
+      "pt": "As tradições se transmitem de geração em geração. Os antigos contam as canções de antigamente, as crianças as reaprendem e se alegram em cantá-las por sua vez. Nada alegra mais os antigos do que ver os mais jovens assumirem o bastão."
+    },
+    {
+      "id": 6,
+      "fr": "Bien sûr, la vie de village connaît aussi ses disputes. Mais on apprend vite à demander pardon, à se calmer et à se réconcilier autour d'une table. Se fâcher pour un rien, puis s'embrasser, fait partie du charme de la convivialité picarde.",
+      "pt": "Claro, a vida da vila também tem suas brigas. Mas aprende-se logo a pedir perdão, a se acalmar e a se reconciliar em volta de uma mesa. Brigar por nada e depois se abraçar faz parte do charme da convivência picarda."
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "la marionnette",
+      "definitionPt": "a marionete; o fantoche",
+      "definitionFr": "Une figurine articulée que l'on anime avec des fils ou à la main.",
+      "inflections": ["la marionnette", "les marionnettes", "le théâtre de marionnettes"],
+      "ptTargets": ["marionete", "fantoche"],
+      "examples": [
+        { "level": "A1", "fr": "La marionnette bouge sa tête.", "pt": "A marionete mexe a cabeça." },
+        { "level": "A2-B1", "fr": "Les enfants adorent le théâtre de marionnettes.", "pt": "As crianças adoram o teatro de marionetes." },
+        { "level": "B2", "fr": "Derrière chaque marionnette, il y a un artiste invisible.", "pt": "Atrás de cada marionete há um artista invisível." },
+        { "level": "C1-C2", "fr": "La marionnette, animée par des fils, devient soudain plus vivante que la main qui la tient.", "pt": "A marionete, animada por fios, torna-se de repente mais viva que a mão que a segura." }
+      ]
+    },
+    {
+      "term": "le théâtre",
+      "definitionPt": "o teatro",
+      "definitionFr": "Un lieu ou un art où l'on joue des pièces devant un public.",
+      "inflections": ["le théâtre", "les théâtres", "le théâtre municipal"],
+      "ptTargets": ["teatro"],
+      "examples": [
+        { "level": "A1", "fr": "Le théâtre est près de la place.", "pt": "O teatro fica perto da praça." },
+        { "level": "A2-B1", "fr": "On va au théâtre samedi soir.", "pt": "Vamos ao teatro no sábado à noite." },
+        { "level": "B2", "fr": "Le théâtre de marionnettes fait vivre une tradition centenaire.", "pt": "O teatro de marionetes mantém viva uma tradição centenária." },
+        { "level": "C1-C2", "fr": "Le théâtre est le lieu où une foule devient, pendant deux heures, un seul spectateur.", "pt": "O teatro é o lugar onde uma multidão se torna, por duas horas, um único espectador." }
+      ]
+    },
+    {
+      "term": "la fête foraine",
+      "definitionPt": "a quermesse; o parque de diversões itinerante",
+      "definitionFr": "Une fête ambulante avec manèges et jeux, installée temporairement.",
+      "inflections": ["la fête foraine", "les fêtes foraines"],
+      "ptTargets": ["quermesse"],
+      "examples": [
+        { "level": "A1", "fr": "La fête foraine est dans le parc.", "pt": "A quermesse está no parque." },
+        { "level": "A2-B1", "fr": "Les enfants aiment la fête foraine.", "pt": "As crianças adoram a quermesse." },
+        { "level": "B2", "fr": "La fête foraine transforme la place pendant une semaine.", "pt": "A quermesse transforma a praça durante uma semana." },
+        { "level": "C1-C2", "fr": "La fête foraine, éphémère et lumineuse, rappelle que la joie ne dure qu'un temps.", "pt": "A quermesse, efêmera e luminosa, lembra que a alegria só dura um tempo." }
+      ]
+    },
+    {
+      "term": "se réjouir",
+      "definitionPt": "alegrar-se",
+      "definitionFr": "Ressentir une grande joie.",
+      "inflections": ["se réjouir", "se réjouit", "réjoui"],
+      "ptTargets": ["alegrar-se"],
+      "examples": [
+        { "level": "A1", "fr": "Je me réjouis de te voir.", "pt": "Alegro-me em te ver." },
+        { "level": "A2-B1", "fr": "Les enfants se réjouissent de la fête.", "pt": "As crianças se alegram com a festa." },
+        { "level": "B2", "fr": "Se réjouir du succès des autres, c'est déjà être heureux.", "pt": "Alegrar-se com o sucesso dos outros já é ser feliz." },
+        { "level": "C1-C2", "fr": "Se réjouir, c'est laisser la joie prendre toute la place, sans calculer.", "pt": "Alegrar-se é deixar a alegria ocupar todo o espaço, sem calcular." }
+      ]
+    },
+    {
+      "term": "offrir un cadeau",
+      "definitionPt": "dar um presente",
+      "definitionFr": "Donner quelque chose à quelqu'un pour lui faire plaisir.",
+      "inflections": ["offrir un cadeau", "offre un cadeau", "offert un cadeau"],
+      "ptTargets": ["dar um presente"],
+      "examples": [
+        { "level": "A1", "fr": "J'offre un cadeau à mon frère.", "pt": "Dou um presente ao meu irmão." },
+        { "level": "A2-B1", "fr": "Elle offre un cadeau pour l'anniversaire.", "pt": "Ela dá um presente de aniversário." },
+        { "level": "B2", "fr": "Offrir un cadeau, c'est offrir un peu de soi.", "pt": "Dar um presente é dar um pouco de si." },
+        { "level": "C1-C2", "fr": "Le plus beau des cadeaux est souvent celui qui ne s'achète pas.", "pt": "O mais belo dos presentes costuma ser o que não se compra." }
+      ]
+    },
+    {
+      "term": "se réconcilier",
+      "definitionPt": "reconciliar-se",
+      "definitionFr": "Retrouver de bonnes relations après une dispute.",
+      "inflections": ["se réconcilier", "se réconcilie", "réconcilié"],
+      "ptTargets": ["reconciliar-se"],
+      "examples": [
+        { "level": "A1", "fr": "Ils se réconcilient après le repas.", "pt": "Eles se reconciliam depois da refeição." },
+        { "level": "A2-B1", "fr": "Les deux amis se sont réconciliés.", "pt": "Os dois amigos se reconciliaram." },
+        { "level": "B2", "fr": "Se réconcilier demande souvent plus de courage que se fâcher.", "pt": "Reconciliar-se exige muitas vezes mais coragem do que brigar." },
+        { "level": "C1-C2", "fr": "Se réconcilier, c'est choisir le lien plutôt que la raison qui nous sépare.", "pt": "Reconciliar-se é escolher o vínculo em vez da razão que nos separa." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Os pronomes 'on' e 'nous' em relatos de costumes",
+    "explanationPt": "Nos textos sobre costumes, 'on' assume valor de 'nós' e o verbo fica na 3ª pessoa: 'on se donne rendez-vous', 'on fait connaissance'. É o estilo da narrativa de vida cotidiana.",
+    "exampleFr": "On se donne rendez-vous sur la place et on se réconcilie autour d'un verre.",
+    "examplePt": "Marcamos encontro na praça e nos reconciliamos em volta de uma bebida.",
+    "practiceQuestion": "Complete: « À la fête, on ___ de la musique. »",
+    "options": ["écoute", "écoutons", "écoutent", "écouter"],
+    "correctIndex": 0,
+    "explanationPt": "'On' exige a 3ª pessoa do singular: 'on écoute'."
+  },
+  "quizQuestions": [
+    {
+      "question": "Que sont les Chés Cabotans ?",
+      "options": ["Des marionnettes d'Amiens", "Des fromages picards", "Des bateaux de pêche", "Des chansons anciennes"],
+      "correctIndex": 0,
+      "explanation": "Les Chés Cabotans sont les célèbres marionnettes d'Amiens."
+    },
+    {
+      "question": "Que fait-on lors d'un anniversaire ?",
+      "options": ["On offre un cadeau", "On emprunte un livre", "On prend le métro", "On composte un billet"],
+      "correctIndex": 0,
+      "explanation": "Pour un anniversaire, on offre un cadeau et on souhaite un bon anniversaire."
+    },
+    {
+      "question": "Que faire après une dispute ?",
+      "options": ["Se réconcilier", "Se fâcher plus fort", "Changer de ville", "Oublier ses amis"],
+      "correctIndex": 0,
+      "explanation": "Après une dispute, on peut demander pardon et se réconcilier."
+    }
+  ]
+}
