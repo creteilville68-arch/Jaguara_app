@@ -137,4 +137,16 @@ export const MARSEILLE_BACKLOG_EXAMPLES: Record<string, MasterExample[]> = {
     { level: 'B2', fr: 'Rien n’est éternellement clos : même une forteresse finit par s’ouvrir.', pt: 'Nada é eternamente fechado: até uma fortaleza acaba se abrindo.' },
     { level: 'C1-C2', fr: 'Ce qui dure éternellement, ce n’est pas la pierre, mais le souvenir qu’elle porte.', pt: 'O que dura eternamente não é a pedra, mas a lembrança que ela carrega.' },
   ],
+  urgence: [
+    { level: 'A1', fr: "C'est une urgence, appelle vite !", pt: 'É uma emergência, ligue rápido!' },
+    { level: 'A2-B1', fr: 'En cas d’urgence, les gardes du parc interviennent en quelques minutes.', pt: 'Em caso de emergência, os guardas do parque intervêm em poucos minutos.' },
+    { level: 'B2', fr: 'L’urgence climatique impose des décisions que l’on remettait depuis trop longtemps.', pt: 'A emergência climática impõe decisões que se adiavam há tempo demais.' },
+    { level: 'C1-C2', fr: 'Il est des urgences qui ne supportent ni le délai ni la demi-mesure : la mer en est une.', pt: 'Há emergências que não suportam nem prazo nem meia-medida: o mar é uma delas.' },
+  ],
+  "d'ailleurs": [
+    { level: 'A1', fr: "D'ailleurs, le soleil est revenu.", pt: 'Aliás, o sol voltou.' },
+    { level: 'A2-B1', fr: "Le plat est bon ; d'ailleurs, tout le monde en reprend.", pt: 'O prato está bom; aliás, todo mundo repete.' },
+    { level: 'B2', fr: "Il ne craint pas la mer ; d'ailleurs, il a grandi sur un port.", pt: 'Ele não tem medo do mar; aliás, ele cresceu num porto.' },
+    { level: 'C1-C2', fr: "Le mistral, d'ailleurs, est un maître exigeant : il n'épargne ni les voiles ni les caractères.", pt: 'O mistral, aliás, é um mestre exigente: não poupa nem velas nem caracteres.' },
+  ],
 };
