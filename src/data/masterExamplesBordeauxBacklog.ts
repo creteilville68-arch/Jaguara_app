@@ -101,4 +101,10 @@ export const BORDEAUX_BACKLOG_EXAMPLES: Record<string, MasterExample[]> = {
     { level: 'B2', fr: 'Le voisinage, réuni autour d’une table, partage des nouvelles et des souvenirs.', pt: 'A vizinhança, reunida ao redor de uma mesa, compartilha notícias e lembranças.' },
     { level: 'C1-C2', fr: 'Un voisinage solidaire résiste mieux aux crises et aux silences.', pt: 'Uma vizinhança solidária resiste melhor às crises e aos silêncios.' },
   ],
+  guérir: [
+    { level: 'A1', fr: 'Il guérit vite.', pt: 'Ele se cura rápido.' },
+    { level: 'A2-B1', fr: "Suivre un traitement régulier, c'est déjà guérir à moitié.", pt: 'Seguir um tratamento regular já é curar pela metade.' },
+    { level: 'B2', fr: 'Guérir demande du temps, mais surtout la volonté de se rétablir.', pt: 'Curar-se exige tempo, mas sobretudo vontade de se restabelecer.' },
+    { level: 'C1-C2', fr: "On ne guérit pas seulement le corps : on guérit aussi la mémoire qu'il porte.", pt: 'Não se cura apenas o corpo: cura-se também a memória que ele carrega.' },
+  ],
 };

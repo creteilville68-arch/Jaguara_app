@@ -1,0 +1,153 @@
+{
+  "id": "bordeaux_guide_08",
+  "cityId": "bordeaux",
+  "domain": "Sociedade",
+  "level": "Misto (A1–C2)",
+  "titleFr": "La citoyenneté à Bordeaux : la ville qui s'engage",
+  "titlePt": "A cidadania em Bordeaux: a cidade que se engaja",
+  "subtitleFr": "Vote, débat public et vie associative",
+  "subtitlePt": "Voto, debate público e vida associativa",
+  "summaryPt": "Enciclopédia de Bordeaux, seção 8: a vida cívica — as eleições, o debate público, as associações e o voluntariado. Vocabulário de política e sociedade, com níveis mistos.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Bordeaux est une ville de tradition démocratique. Lors des scrutins, les habitants se rendent dans leur bureau de vote avec leur carte d'électeur. Les files d'attente s'allongent le dimanche matin, et les familles débattent des résultats autour du déjeuner. Voter est un droit, mais c'est aussi un devoir que les Bordelais prennent au sérieux.",
+      "pt": "Bordeaux é uma cidade de tradição democrática. Nas votações, os moradores vão à sua seção eleitoral com seu título de eleitor. As filas se alongam no domingo de manhã, e as famílias debatem os resultados ao redor do almoço. Votar é um direito, mas é também um dever que os bordeleses levam a sério."
+    },
+    {
+      "id": 2,
+      "fr": "Pendant la campagne électorale, la ville se couvre d'affiches et les candidats multiplient les réunions publiques. Les sondages alimentent les conversations, mais les électeurs décident librement. Le jour du vote, le silence remplace les discours : chacun entre dans l'isoloir avec ses convictions.",
+      "pt": "Durante a campanha eleitoral, a cidade se cobre de cartazes e os candidatos multiplicam as reuniões públicas. As pesquisas alimentam as conversas, mas os eleitores decidem livremente. No dia do voto, o silêncio substitui os discursos: cada um entra na cabine com suas convicções."
+    },
+    {
+      "id": 3,
+      "fr": "Les lois organisent la vie commune. Le conseil municipal applique les lois nationales et vote les règles locales : circulation, urbanisme, environnement. Les citoyens peuvent assister aux séances, signer des pétitions et interpeller leurs élus. La démocratie locale vit dans ces petits gestes quotidiens.",
+      "pt": "As leis organizam a vida em comum. A câmara municipal aplica as leis nacionais e aprova as regras locais: circulação, urbanismo, meio ambiente. Os cidadãos podem assistir às sessões, assinar abaixo-assinados e interpelar seus eleitos. A democracia local vive nesses pequenos gestos cotidianos."
+    },
+    {
+      "id": 4,
+      "fr": "Quand un projet ne plaît pas, les habitants ne restent pas silencieux. Ils manifestent, font grève parfois, et organisent des débats publics. Les associations de quartier jouent un rôle essentiel : elles portent les revendications, rassemblent les énergies et défendent l'intérêt commun.",
+      "pt": "Quando um projeto não agrada, os moradores não ficam em silêncio. Manifestam-se, fazem greve às vezes e organizam debates públicos. As associações de bairro têm um papel essencial: levam as reivindicações, reúnem as energias e defendem o interesse comum."
+    },
+    {
+      "id": 5,
+      "fr": "Le volontariat est une tradition vivante à Bordeaux. Des milliers de bénévoles s'engagent dans les associations : aide alimentaire, soutien scolaire, protection de l'environnement, accompagnement des personnes isolées. Leur générosité et leur altruisme tissent un lien social invisible mais essentiel.",
+      "pt": "O voluntariado é uma tradição viva em Bordeaux. Milhares de voluntários se engajam nas associações: ajuda alimentar, reforço escolar, proteção do meio ambiente, acompanhamento de pessoas isoladas. Sua generosidade e altruísmo tecem um laço social invisível, mas essencial."
+    },
+    {
+      "id": 6,
+      "fr": "La vie démocratique demande aussi de l'esprit critique. Les citoyens apprennent à reconnaître une fausse nouvelle, à vérifier les sources et à écouter les opinions différentes. Le débat public s'enrichit quand chacun parle avec honnêteté et écoute avec respect. C'est ainsi que Bordeaux reste une ville ouverte, curieuse et vivante.",
+      "pt": "A vida democrática exige também espírito crítico. Os cidadãos aprendem a reconhecer uma notícia falsa, a verificar as fontes e a escutar opiniões diferentes. O debate público se enriquece quando cada um fala com honestidade e escuta com respeito. É assim que Bordeaux continua uma cidade aberta, curiosa e viva."
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "le scrutin",
+      "definitionPt": "a votação; o pleito",
+      "definitionFr": "Opération de vote, élection.",
+      "inflections": ["le scrutin", "les scrutins", "lors du scrutin"],
+      "ptTargets": ["votação", "pleito", "eleição"],
+      "examples": [
+        { "level": "A1", "fr": "Le scrutin commence à huit heures.", "pt": "A votação começa às oito horas." },
+        { "level": "A2-B1", "fr": "Lors des scrutins, les habitants se rendent au bureau de vote.", "pt": "Nas votações, os moradores vão à seção eleitoral." },
+        { "level": "B2", "fr": "Un scrutin est la rencontre entre une opinion et une urne.", "pt": "Uma votação é o encontro entre uma opinião e uma urna." },
+        { "level": "C1-C2", "fr": "Le scrutin est la preuve que le désaccord peut rester pacifique.", "pt": "A votação é a prova de que o desacordo pode continuar pacífico." }
+      ]
+    },
+    {
+      "term": "le bureau de vote",
+      "definitionPt": "a seção eleitoral",
+      "definitionFr": "Lieu où les électeurs vont voter.",
+      "inflections": ["le bureau de vote", "les bureaux de vote"],
+      "ptTargets": ["seção eleitoral", "local de votação"],
+      "examples": [
+        { "level": "A1", "fr": "Le bureau de vote est à côté de l'école.", "pt": "A seção eleitoral fica ao lado da escola." },
+        { "level": "A2-B1", "fr": "Ils se rendent dans leur bureau de vote.", "pt": "Eles vão à sua seção eleitoral." },
+        { "level": "B2", "fr": "Le bureau de vote est un lieu où toutes les voix pèsent pareil.", "pt": "A seção eleitoral é um lugar onde todas as vozes pesam igual." },
+        { "level": "C1-C2", "fr": "Le bureau de vote est le temple modeste de la démocratie.", "pt": "A seção eleitoral é o templo modesto da democracia." }
+      ]
+    },
+    {
+      "term": "la campagne électorale",
+      "definitionPt": "a campanha eleitoral",
+      "definitionFr": "Période pendant laquelle les candidats cherchent les voix.",
+      "inflections": ["la campagne électorale", "les campagnes électorales"],
+      "ptTargets": ["campanha eleitoral", "campanha"],
+      "examples": [
+        { "level": "A1", "fr": "La campagne électorale commence.", "pt": "A campanha eleitoral começa." },
+        { "level": "A2-B1", "fr": "Pendant la campagne, la ville se couvre d'affiches.", "pt": "Durante a campanha, a cidade se cobre de cartazes." },
+        { "level": "B2", "fr": "La campagne électorale est un moment de vérité pour les idées.", "pt": "A campanha eleitoral é um momento de verdade para as ideias." },
+        { "level": "C1-C2", "fr": "La campagne électorale promet, mais c'est l'action qui compte après.", "pt": "A campanha eleitoral promete, mas é a ação que conta depois." }
+      ]
+    },
+    {
+      "term": "signer une pétition",
+      "definitionPt": "assinar um abaixo-assinado",
+      "definitionFr": "Appuyer une demande collective par sa signature.",
+      "inflections": ["signer une pétition", "signe une pétition", "signé une pétition"],
+      "ptTargets": ["assinar um abaixo-assinado", "assinar petição"],
+      "examples": [
+        { "level": "A1", "fr": "Je signe une pétition.", "pt": "Eu assino um abaixo-assinado." },
+        { "level": "A2-B1", "fr": "Les citoyens signent des pétitions pour les projets locaux.", "pt": "Os cidadãos assinam abaixo-assinados pelos projetos locais." },
+        { "level": "B2", "fr": "Signer une pétition, c'est joindre sa voix à d'autres voix.", "pt": "Assinar um abaixo-assinado é juntar sua voz a outras vozes." },
+        { "level": "C1-C2", "fr": "Une pétition est une conversation qui se transforme en demande.", "pt": "Um abaixo-assinado é uma conversa que vira pedido." }
+      ]
+    },
+    {
+      "term": "le volontariat",
+      "definitionPt": "o voluntariado",
+      "definitionFr": "Engagement libre et gratuit au service des autres.",
+      "inflections": ["le volontariat", "les volontariats", "faire du volontariat"],
+      "ptTargets": ["voluntariado", "trabalho voluntário"],
+      "examples": [
+        { "level": "A1", "fr": "Le volontariat est utile.", "pt": "O voluntariado é útil." },
+        { "level": "A2-B1", "fr": "Le volontariat est une tradition vivante à Bordeaux.", "pt": "O voluntariado é uma tradição viva em Bordeaux." },
+        { "level": "B2", "fr": "Le volontariat donne du sens au temps libre.", "pt": "O voluntariado dá sentido ao tempo livre." },
+        { "level": "C1-C2", "fr": "Le volontariat est une réponse au monde que l'on veut voir naître.", "pt": "O voluntariado é uma resposta ao mundo que queremos ver nascer." }
+      ]
+    },
+    {
+      "term": "la fausse nouvelle",
+      "definitionPt": "a notícia falsa",
+      "definitionFr": "Information fausse diffusée comme si elle était vraie.",
+      "inflections": ["la fausse nouvelle", "les fausses nouvelles"],
+      "ptTargets": ["notícia falsa", "fake news"],
+      "examples": [
+        { "level": "A1", "fr": "C'est une fausse nouvelle.", "pt": "É uma notícia falsa." },
+        { "level": "A2-B1", "fr": "Il faut apprendre à reconnaître une fausse nouvelle.", "pt": "É preciso aprender a reconhecer uma notícia falsa." },
+        { "level": "B2", "fr": "Une fausse nouvelle voyage plus vite que la vérité.", "pt": "Uma notícia falsa viaja mais rápido que a verdade." },
+        { "level": "C1-C2", "fr": "Contre la fausse nouvelle, l'arme la plus sûre est la vérification.", "pt": "Contra a notícia falsa, a arma mais segura é a verificação." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "O subjuntivo após expressões de necessidade e opinião",
+    "explanationPt": "Após expressões de necessidade e desejo (il faut que, il est essentiel que), usa-se o subjuntivo: il faut que chacun entre, il est essentiel que le débat s'enrichisse. Após 'quand' e 'si', usa-se o indicativo.",
+    "exampleFr": "Il faut que chacun entre dans l'isoloir avec ses convictions, et que le débat reste respectueux.",
+    "examplePt": "É preciso que cada um entre na cabine com suas convicções, e que o debate continue respeitoso.",
+    "practiceQuestion": "Complete: « Il est essentiel que les citoyens ___ leurs sources. »",
+    "options": ["vérifient", "vérifient", "vérifier", "vérifieront"],
+    "correctIndex": 0,
+    "explanationPt": "Subjuntivo após 'il est essentiel que': 'vérifient'."
+  },
+  "quizQuestions": [
+    {
+      "question": "Quel document faut-il pour voter ?",
+      "options": ["La carte d'électeur", "Le passeport uniquement", "La carte de bibliothèque", "Le permis de conduire"],
+      "correctIndex": 0,
+      "explanation": "Les électeurs se présentent avec leur carte d'électeur."
+    },
+    {
+      "question": "Que peuvent faire les citoyens quand un projet ne leur plaît pas ?",
+      "options": ["Manifester, faire grève et organiser des débats", "Voter en secret", "Quitter la ville", "Rien du tout"],
+      "correctIndex": 0,
+      "explanation": "Les citoyens manifestent, font grève et organisent des débats publics."
+    },
+    {
+      "question": "Quel est le rôle des associations de quartier ?",
+      "options": ["Porter les revendications et défendre l'intérêt commun", "Vendre des produits", "Organiser des voyages d'affaires", "Construire des routes"],
+      "correctIndex": 0,
+      "explanation": "Les associations portent les revendications et défendent l'intérêt commun."
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "id": "bordeaux_guide_05",
+  "cityId": "bordeaux",
+  "domain": "Cotidiano",
+  "level": "Misto (A1–C2)",
+  "titleFr": "Se déplacer à Bordeaux : tramway et douceur urbaine",
+  "titlePt": "Deslocar-se em Bordeaux: bonde e suavidade urbana",
+  "subtitleFr": "Transports en commun, vélos et vie de quartier",
+  "subtitlePt": "Transportes públicos, bicicletas e vida de bairro",
+  "summaryPt": "Enciclopédia de Bordeaux, seção 5: como se deslocar na cidade — o bonde, os ônibus, as bicicletas e a vida cotidiana. Vocabulário de transporte e cidade, com níveis mistos.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Le tramway est le roi de Bordeaux. Ses lignes traversent la ville de part en part, reliant les quartiers, les universités et les stades. Les habitants l'utilisent quotidiennement : ils composent leur billet, montent à bord et regardent défiler la ville à travers les grandes baies vitrées.",
+      "pt": "O bonde é o rei de Bordeaux. Suas linhas atravessam a cidade de ponta a ponta, ligando os bairros, as universidades e os estádios. Os moradores o usam diariamente: validam o bilhete, sobem a bordo e veem a cidade desfilar através dos grandes vidros."
+    },
+    {
+      "id": 2,
+      "fr": "Le réseau de transports en commun comprend aussi des bus et des navettes fluviales. Les usagers achètent leur titre de transport dans les automates ou sur leur téléphone. Il faut penser à composter son billet avant de monter : les contrôleurs sont stricts, et l'oubli coûte une contravention.",
+      "pt": "A rede de transportes públicos inclui também ônibus e barcas fluviais. Os usuários compram seu bilhete de transporte nas máquinas ou no celular. É preciso lembrar de validar o bilhete antes de subir: os fiscais são rígidos, e o esquecimento custa uma multa."
+    },
+    {
+      "id": 3,
+      "fr": "Les Bordelais adorent le vélo. Des pistes cyclables sillonnent la ville, et des vélos en libre-service attendent à chaque coin de rue. Les vélos électriques et les trottinettes complètent l'offre. Le matin, des centaines de cyclistes se croisent sur les quais, direction le travail ou l'école.",
+      "pt": "Os bordeleses adoram bicicleta. Ciclovias cortam a cidade, e bicicletas de aluguel esperam em cada esquina. As bicicletas elétricas e os patinetes completam a oferta. De manhã, centenas de ciclistas se cruzam nos cais, rumo ao trabalho ou à escola."
+    },
+    {
+      "id": 4,
+      "fr": "Pour ceux qui préfèrent la voiture, Bordeaux propose des solutions modernes : l'autopartage permet d'utiliser une voiture à l'heure, et les parkings relais attendent les automobilistes en périphérie. Il faut garer sa voiture avec attention : les rues du centre sont étroites, et les zones piétonnes se multiplient.",
+      "pt": "Para quem prefere o carro, Bordeaux oferece soluções modernas: o compartilhamento de carros permite usar um carro por hora, e os estacionamentos de integração esperam os motoristas na periferia. É preciso estacionar com atenção: as ruas do centro são estreitas, e as zonas de pedestres se multiplicam."
+    },
+    {
+      "id": 5,
+      "fr": "Sur les quais, la vie de quartier bat son plein. Les marchés du week-end attirent les familles, les terrasses se remplissent dès que le soleil paraît. Les enfants jouent près du Miroir d'eau, les étudiants révisent sur les pelouses. Bordeaux cultive un art de vivre qui mêle travail et plaisir.",
+      "pt": "Nos cais, a vida de bairro pulsa. Os mercados de fim de semana atraem as famílias, os terraços lotam assim que o sol aparece. As crianças brincam perto do Miroir d'eau, os estudantes revisam nos gramados. Bordeaux cultiva uma arte de viver que mistura trabalho e prazer."
+    },
+    {
+      "id": 6,
+      "fr": "Les habitants respectent les règles : on attend au feu tricolore, on laisse descendre avant de monter, on ne klaxonne pas inutilement. Cette politesse quotidienne fait de la ville un endroit agréable. Les nouveaux arrivants s'habituent vite à ce rythme, et beaucoup ne veulent plus repartir.",
+      "pt": "Os moradores respeitam as regras: espera-se no semáforo, deixa-se descer antes de subir, não se buzina sem necessidade. Essa cortesia cotidiana faz da cidade um lugar agradável. Os recém-chegados se acostumam rápido a esse ritmo, e muitos não querem mais ir embora."
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "composer son billet",
+      "definitionPt": "validar o bilhete",
+      "definitionFr": "Valider son titre de transport avant de monter.",
+      "inflections": ["composer son billet", "compose son billet", "composé son billet"],
+      "ptTargets": ["validar o bilhete", "validar o bilhete de transporte"],
+      "examples": [
+        { "level": "A1", "fr": "Je compose mon billet.", "pt": "Eu valido meu bilhete." },
+        { "level": "A2-B1", "fr": "Il faut composer son billet avant de monter.", "pt": "É preciso validar o bilhete antes de subir." },
+        { "level": "B2", "fr": "Composer son billet, c'est respecter le service public.", "pt": "Validar o bilhete é respeitar o serviço público." },
+        { "level": "C1-C2", "fr": "Composer son billet, c'est accepter de participer au bien commun.", "pt": "Validar o bilhete é aceitar participar do bem comum." }
+      ]
+    },
+    {
+      "term": "la contravention",
+      "definitionPt": "a multa",
+      "definitionFr": "Amende pour une infraction.",
+      "inflections": ["la contravention", "les contraventions", "recevoir une contravention"],
+      "ptTargets": ["multa", "autuação"],
+      "examples": [
+        { "level": "A1", "fr": "Il a une contravention.", "pt": "Ele levou uma multa." },
+        { "level": "A2-B1", "fr": "L'oubli de composer coûte une contravention.", "pt": "Esquecer de validar custa uma multa." },
+        { "level": "B2", "fr": "Une contravention rappelle que chaque règle a une raison.", "pt": "Uma multa lembra que cada regra tem uma razão." },
+        { "level": "C1-C2", "fr": "La contravention est la signature discrète de la loi.", "pt": "A multa é a assinatura discreta da lei." }
+      ]
+    },
+    {
+      "term": "sillonner",
+      "definitionPt": "atravessar; percorrer (cortar)",
+      "definitionFr": "Traverser en tous sens, parcourir.",
+      "inflections": ["sillonner", "sillonne", "sillonné"],
+      "ptTargets": ["atravessar", "percorrer", "cortar"],
+      "examples": [
+        { "level": "A1", "fr": "Des chemins sillonnent le parc.", "pt": "Trilhas cortam o parque." },
+        { "level": "A2-B1", "fr": "Des pistes cyclables sillonnent la ville.", "pt": "Ciclovias cortam a cidade." },
+        { "level": "B2", "fr": "Sillonner un pays, c'est en lire les paysages.", "pt": "Atravessar um país é ler suas paisagens." },
+        { "level": "C1-C2", "fr": "La mémoire sillonne le temps comme la route sillonne la campagne.", "pt": "A memória atravessa o tempo como a estrada corta o campo." }
+      ]
+    },
+    {
+      "term": "l'autopartage",
+      "definitionPt": "o compartilhamento de carros",
+      "definitionFr": "Système de location de voitures à court terme.",
+      "inflections": ["l'autopartage", "une voiture en autopartage"],
+      "ptTargets": ["compartilhamento de carros", "carro compartilhado"],
+      "examples": [
+        { "level": "A1", "fr": "L'autopartage est pratique.", "pt": "O compartilhamento de carros é prático." },
+        { "level": "A2-B1", "fr": "L'autopartage permet d'utiliser une voiture à l'heure.", "pt": "O compartilhamento de carros permite usar um carro por hora." },
+        { "level": "B2", "fr": "L'autopartage réduit le nombre de voitures en ville.", "pt": "O compartilhamento de carros reduz o número de carros na cidade." },
+        { "level": "C1-C2", "fr": "L'autopartage invente une liberté sans possession.", "pt": "O compartilhamento de carros inventa uma liberdade sem posse." }
+      ]
+    },
+    {
+      "term": "klaxonner",
+      "definitionPt": "buzinar",
+      "definitionFr": "Utiliser le klaxon d'un véhicule.",
+      "inflections": ["klaxonner", "klaxonne", "klaxonné"],
+      "ptTargets": ["buzinar", "tocar a buzina"],
+      "examples": [
+        { "level": "A1", "fr": "Le chauffeur klaxonne.", "pt": "O motorista buzina." },
+        { "level": "A2-B1", "fr": "On ne klaxonne pas inutilement en ville.", "pt": "Não se buzina sem necessidade na cidade." },
+        { "level": "B2", "fr": "Klaxonner dans un embouteillage ne fait qu'ajouter du bruit.", "pt": "Buzinar num engarrafamento só acrescenta barulho." },
+        { "level": "C1-C2", "fr": "Ceux qui klaxonnent croient accélérer le temps.", "pt": "Quem buzina acredita que acelera o tempo." }
+      ]
+    },
+    {
+      "term": "se croiser",
+      "definitionPt": "cruzar-se; encontrar-se",
+      "definitionFr": "Se rencontrer en allant dans des directions opposées.",
+      "inflections": ["se croiser", "se croise", "croisé"],
+      "ptTargets": ["cruzar-se", "encontrar-se"],
+      "examples": [
+        { "level": "A1", "fr": "Nos chemins se croisent.", "pt": "Nossos caminhos se cruzam." },
+        { "level": "A2-B1", "fr": "Des cyclistes se croisent sur les quais.", "pt": "Ciclistas se cruzam nos cais." },
+        { "level": "B2", "fr": "Les destins se croisent sans jamais se rejoindre.", "pt": "Os destinos se cruzam sem nunca se encontrarem." },
+        { "level": "C1-C2", "fr": "Une ville, c'est des milliers de chemins qui se croisent chaque matin.", "pt": "Uma cidade são milhares de caminhos que se cruzam toda manhã." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "O 'on' nas regras e hábitos da cidade",
+    "explanationPt": "Para expressar regras e hábitos de forma impessoal: on attend (espera-se), on laisse descendre (deixa-se descer), on ne klaxonne pas (não se buzina).",
+    "exampleFr": "On attend au feu tricolore, on compose son billet, et l'on ne klaxonne pas inutilement.",
+    "examplePt": "Espera-se no semáforo, valida-se o bilhete, e não se buzina sem necessidade.",
+    "practiceQuestion": "Complete: « Sur les quais, on ___ de bon matin. »",
+    "options": ["se croise", "se croisent", "croise", "se croiser"],
+    "correctIndex": 0,
+    "explanationPt": "Com 'on', pronominal na 3ª pessoa do singular: 'on se croise'."
+  },
+  "quizQuestions": [
+    {
+      "question": "Quel est le principal moyen de transport à Bordeaux ?",
+      "options": ["Le tramway", "L'avion", "Le bateau à vapeur", "Le téléphérique"],
+      "correctIndex": 0,
+      "explanation": "Le tramway est le roi de Bordeaux, avec ses lignes qui traversent la ville."
+    },
+    {
+      "question": "Que faut-il faire avant de monter dans le tramway ?",
+      "options": ["Composer son billet", "Acheter un journal", "Mettre un casque", "S'inscrire à la mairie"],
+      "correctIndex": 0,
+      "explanation": "Il faut composer son billet avant de monter."
+    },
+    {
+      "question": "Quelle solution propose Bordeaux pour la voiture ?",
+      "options": ["L'autopartage", "L'interdiction de rouler", "Le stationnement gratuit partout", "Des tunnels privés"],
+      "correctIndex": 0,
+      "explanation": "L'autopartage permet d'utiliser une voiture à l'heure."
+    }
+  ]
+}

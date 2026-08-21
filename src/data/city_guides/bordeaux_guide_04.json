@@ -1,0 +1,153 @@
+{
+  "id": "bordeaux_guide_04",
+  "cityId": "bordeaux",
+  "domain": "Arquitetura",
+  "level": "Misto (A1–C2)",
+  "titleFr": "La pierre blonde : l'architecture de Bordeaux",
+  "titlePt": "A pedra clara: a arquitetura de Bordeaux",
+  "subtitleFr": "Façades, Grand Théâtre et ville classée",
+  "subtitlePt": "Fachadas, Grand Théâtre e cidade tombada",
+  "summaryPt": "Enciclopédia de Bordeaux, seção 4: a arquitetura da cidade — a pedra clara, as fachadas do século XVIII e os monumentos. Vocabulário de arquitetura e patrimônio, com níveis mistos.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Bordeaux est une ville de pierre. La pierre calcaire de la région, dorée et lumineuse, donne aux façades leur couleur unique. Le soir, quand les lampadaires s'allument, les murs semblent briller d'une lumière intérieure. C'est cette pierre qui fait l'unité et la beauté de la ville.",
+      "pt": "Bordeaux é uma cidade de pedra. A pedra calcária da região, dourada e luminosa, dá às fachadas sua cor única. À noite, quando os postes de luz se acendem, as paredes parecem brilhar com uma luz interior. É essa pedra que faz a unidade e a beleza da cidade."
+    },
+    {
+      "id": 2,
+      "fr": "Au XVIIIe siècle, les architectes créèrent un ensemble urbain remarquable : la place de la Bourse, le Grand Théâtre et les quais. Les bâtiments suivent des lignes harmonieuses, avec des colonnes, des balcons et des toits d'ardoise. Cet ensemble, intact après deux siècles, est un chef-d'œuvre d'équilibre.",
+      "pt": "No século XVIII, os arquitetos criaram um conjunto urbano notável: a praça da Bolsa, o Grand Théâtre e os cais. Os edifícios seguem linhas harmoniosas, com colunas, sacadas e telhados de ardósia. Esse conjunto, intacto após dois séculos, é uma obra-prima de equilíbrio."
+    },
+    {
+      "id": 3,
+      "fr": "Le Grand Théâtre est le joyau de la ville. Sa colonnade majestueuse, ses statues et son escalier de marbre en font un des plus beaux théâtres d'Europe. Les artistes du monde entier rêvent de s'y produire, et les habitants en sont très fiers. Chaque soir, des spectateurs élégants montent ses marches.",
+      "pt": "O Grand Théâtre é a joia da cidade. Sua colunata majestosa, suas estátuas e sua escadaria de mármore fazem dele um dos teatros mais bonitos da Europa. Artistas do mundo inteiro sonham em se apresentar lá, e os moradores têm muito orgulho. Todas as noites, espectadores elegantes sobem seus degraus."
+    },
+    {
+      "id": 4,
+      "fr": "La restauration des façades est un art délicat. Les artisans nettoient la pierre sans l'abîmer, refont les sculptures abîmées et remettent en place les ferronneries. Ce travail minutieux peut durer des années pour un seul immeuble. Les habitants acceptent les échafaudages, car ils savent que la beauté demande des soins.",
+      "pt": "A restauração das fachadas é uma arte delicada. Os artesãos limpam a pedra sem danificá-la, refazem as esculturas danificadas e recolocam as ferragens. Esse trabalho minucioso pode durar anos para um único prédio. Os moradores aceitam os andaimes, pois sabem que a beleza exige cuidados."
+    },
+    {
+      "id": 5,
+      "fr": "Les rues du centre-ville sont étroites et bordées de boutiques élégantes. Les vitrines exposent des produits raffinés, et les passants flânent en admirant les détails des immeubles : une porte sculptée, un balcon en fer forgé, une cour cachée. Chaque coin de rue réserve une surprise.",
+      "pt": "As ruas do centro são estreitas e cercadas de lojas elegantes. As vitrines expõem produtos refinados, e os transeuntes passeiam admirando os detalhes dos prédios: uma porta esculpida, uma sacada em ferro forjado, um pátio escondido. Cada esquina reserva uma surpresa."
+    },
+    {
+      "id": 6,
+      "fr": "Bordeaux conjugue harmonieusement l'ancien et le moderne. Le pont de pierre, construit par Napoléon, côtoie le pont Chaban-Delmas, le plus haut pont levant d'Europe. Les architectes contemporains respectent la pierre blonde tout en ajoutant leur touche. La ville prouve que l'on peut moderniser sans détruire.",
+      "pt": "Bordeaux combina harmoniosamente o antigo e o moderno. A ponte de pedra, construída por Napoleão, convive com a ponte Chaban-Delmas, a ponte levadiça mais alta da Europa. Os arquitetos contemporâneos respeitam a pedra clara enquanto acrescentam seu toque. A cidade prova que se pode modernizar sem destruir."
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "la façade",
+      "definitionPt": "a fachada",
+      "definitionFr": "Face extérieure d'un bâtiment.",
+      "inflections": ["la façade", "les façades"],
+      "ptTargets": ["fachada", "frente do prédio"],
+      "examples": [
+        { "level": "A1", "fr": "La façade est blanche.", "pt": "A fachada é branca." },
+        { "level": "A2-B1", "fr": "La pierre blonde donne aux façades leur couleur unique.", "pt": "A pedra clara dá às fachadas sua cor única." },
+        { "level": "B2", "fr": "Une façade raconte parfois mieux qu'un livre.", "pt": "Uma fachada às vezes conta melhor que um livro." },
+        { "level": "C1-C2", "fr": "Derrière chaque façade dort une vie entière.", "pt": "Atrás de cada fachada dorme uma vida inteira." }
+      ]
+    },
+    {
+      "term": "remarquable",
+      "definitionPt": "notável; admirável",
+      "definitionFr": "Qui mérite d'être remarqué, exceptionnel.",
+      "inflections": ["remarquable", "remarquables"],
+      "ptTargets": ["notável", "admirável", "excepcional"],
+      "examples": [
+        { "level": "A1", "fr": "C'est un lieu remarquable.", "pt": "É um lugar notável." },
+        { "level": "A2-B1", "fr": "Les architectes créèrent un ensemble urbain remarquable.", "pt": "Os arquitetos criaram um conjunto urbano notável." },
+        { "level": "B2", "fr": "Une œuvre remarquable naît souvent d'un travail discret.", "pt": "Uma obra notável nasce muitas vezes de um trabalho discreto." },
+        { "level": "C1-C2", "fr": "Le remarquable se cache parfois dans l'ordinaire bien fait.", "pt": "O notável se esconde às vezes no comum bem feito." }
+      ]
+    },
+    {
+      "term": "abîmer",
+      "definitionPt": "danificar; estragar",
+      "definitionFr": "Endommager, détériorer.",
+      "inflections": ["abîmer", "abîme", "abîmé"],
+      "ptTargets": ["danificar", "estragar", "deteriorar"],
+      "examples": [
+        { "level": "A1", "fr": "Ne m'abîme pas mon jouet !", "pt": "Não estrague meu brinquedo!" },
+        { "level": "A2-B1", "fr": "Les artisans nettoient la pierre sans l'abîmer.", "pt": "Os artesãos limpam a pedra sem danificá-la." },
+        { "level": "B2", "fr": "Le temps abîme tout, sauf ce que l'on entretient avec amour.", "pt": "O tempo danifica tudo, exceto o que se mantém com amor." },
+        { "level": "C1-C2", "fr": "Ce qui est abîmé par négligence se répare rarement.", "pt": "O que é danificado por negligência raramente se conserta." }
+      ]
+    },
+    {
+      "term": "minutieux",
+      "definitionPt": "minucioso",
+      "definitionFr": "Qui apporte un soin extrême au détail.",
+      "inflections": ["minutieux", "minutieuse", "minutieuses"],
+      "ptTargets": ["minucioso", "cuidadoso", "detalhista"],
+      "examples": [
+        { "level": "A1", "fr": "Il est minutieux.", "pt": "Ele é minucioso." },
+        { "level": "A2-B1", "fr": "Ce travail minutieux peut durer des années.", "pt": "Esse trabalho minucioso pode durar anos." },
+        { "level": "B2", "fr": "Le travail minutieux des artisans sauve les monuments.", "pt": "O trabalho minucioso dos artesãos salva os monumentos." },
+        { "level": "C1-C2", "fr": "La minutie est l'élégance discrète du travail bien fait.", "pt": "A minúcia é a elegância discreta do trabalho bem feito." }
+      ]
+    },
+    {
+      "term": "flâner",
+      "definitionPt": "passear sem pressa; vadiar",
+      "definitionFr": "Se promener sans but précis, au gré de ses envies.",
+      "inflections": ["flâner", "flâne", "flâné"],
+      "ptTargets": ["passear sem pressa", "vaguear", "flanar"],
+      "examples": [
+        { "level": "A1", "fr": "J'aime flâner dans la ville.", "pt": "Eu gosto de passear sem pressa pela cidade." },
+        { "level": "A2-B1", "fr": "Les passants flânent en admirant les immeubles.", "pt": "Os transeuntes passeiam admirando os prédios." },
+        { "level": "B2", "fr": "Flâner, c'est laisser la ville nous raconter ses histoires.", "pt": "Passear sem pressa é deixar a cidade nos contar suas histórias." },
+        { "level": "C1-C2", "fr": "Flâner est une forme d'attention au monde.", "pt": "Passear sem pressa é uma forma de atenção ao mundo." }
+      ]
+    },
+    {
+      "term": "côtoyer",
+      "definitionPt": "conviver com; estar ao lado de",
+      "definitionFr": "Se trouver à côté de, fréquenter.",
+      "inflections": ["côtoyer", "côtoie", "côtoyé"],
+      "ptTargets": ["conviver com", "estar ao lado de", "coexistir"],
+      "examples": [
+        { "level": "A1", "fr": "La mer côtoie la plage.", "pt": "O mar fica ao lado da praia." },
+        { "level": "A2-B1", "fr": "Le pont ancien côtoie le pont moderne.", "pt": "A ponte antiga convive com a ponte moderna." },
+        { "level": "B2", "fr": "Côtoyer des cultures différentes élargit l'esprit.", "pt": "Conviver com culturas diferentes alarga a mente." },
+        { "level": "C1-C2", "fr": "On côtoie souvent la beauté sans la voir.", "pt": "Convive-se muitas vezes com a beleza sem vê-la." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "A alternância presente/passado na descrição",
+    "explanationPt": "Para descrever um monumento, usa-se o presente (la pierre donne, les artisans nettoient). Para contar sua história, o passé simple ou o passé composé (les architectes créèrent, les bâtiments suivirent).",
+    "exampleFr": "Les architectes créèrent cet ensemble au XVIIIe siècle, et la ville le conserve encore aujourd'hui.",
+    "examplePt": "Os arquitetos criaram esse conjunto no século XVIII, e a cidade o conserva ainda hoje.",
+    "practiceQuestion": "Complete: « Au XVIIIe siècle, les architectes ___ la place de la Bourse. »",
+    "options": ["créèrent", "créent", "créeront", "créaient"],
+    "correctIndex": 0,
+    "explanationPt": "Acontecimento histórico em passé simple: 'créèrent'."
+  },
+  "quizQuestions": [
+    {
+      "question": "Quelle pierre donne aux façades de Bordeaux leur couleur ?",
+      "options": ["La pierre calcaire blonde", "Le marbre noir", "Le granit gris", "La brique rouge"],
+      "correctIndex": 0,
+      "explanation": "La pierre calcaire de la région, dorée et lumineuse, colore les façades."
+    },
+    {
+      "question": "Quel est le joyau architectural de la ville ?",
+      "options": ["Le Grand Théâtre", "La gare", "Le stade", "Le marché couvert"],
+      "correctIndex": 0,
+      "explanation": "Le Grand Théâtre, avec sa colonnade et son escalier de marbre, est le joyau de la ville."
+    },
+    {
+      "question": "Quel pont est le plus haut pont levant d'Europe ?",
+      "options": ["Le pont Chaban-Delmas", "Le pont de pierre", "Le pont de Normandie", "Le viaduc de Millau"],
+      "correctIndex": 0,
+      "explanation": "Le pont Chaban-Delmas est le plus haut pont levant d'Europe."
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "id": "bordeaux_guide_07",
+  "cityId": "bordeaux",
+  "domain": "Saúde",
+  "level": "Misto (A1–C2)",
+  "titleFr": "La santé à Bordeaux : prévention et bien-être",
+  "titlePt": "A saúde em Bordeaux: prevenção e bem-estar",
+  "subtitleFr": "Médecine moderne et hygiène de vie",
+  "subtitlePt": "Medicina moderna e higiene de vida",
+  "summaryPt": "Enciclopédia de Bordeaux, seção 7: os serviços de saúde, a prevenção, o diagnóstico e os hábitos de vida saudáveis. Vocabulário de saúde e medicina, com níveis mistos.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Bordeaux dispose de hôpitaux modernes et de cliniques réputées. Le CHU, centre hospitalier universitaire, est un des plus importants de France. Les patients y sont suivis par des spécialistes de toutes les disciplines. La ville est aussi un pôle de recherche médicale, avec des laboratoires de renommée mondiale.",
+      "pt": "Bordeaux dispõe de hospitais modernos e clínicas renomadas. O CHU, centro hospitalar universitário, é um dos mais importantes da França. Os pacientes são acompanhados por especialistas de todas as disciplinas. A cidade é também um polo de pesquisa médica, com laboratórios de renome mundial."
+    },
+    {
+      "id": 2,
+      "fr": "La prévention est essentielle. Les médecins recommandent un bilan de santé régulier : prise de sang, radiographie, examen de la vue. Le dépistage permet de diagnostiquer les maladies tôt, quand le traitement est le plus efficace. Un simple rendez-vous peut parfois sauver une vie.",
+      "pt": "A prevenção é essencial. Os médicos recomendam um check-up regular: coleta de sangue, radiografia, exame da vista. O rastreamento permite diagnosticar as doenças cedo, quando o tratamento é mais eficaz. Uma simples consulta às vezes pode salvar uma vida."
+    },
+    {
+      "id": 3,
+      "fr": "Quand un symptôme apparaît, il faut consulter sans attendre. Le médecin examine, prescrit des analyses et établit un diagnostic. Il explique la posologie des médicaments et les effets secondaires possibles. Suivre un traitement avec régularité, c'est déjà guérir à moitié.",
+      "pt": "Quando um sintoma aparece, é preciso consultar sem esperar. O médico examina, prescreve exames e estabelece um diagnóstico. Ele explica a posologia dos medicamentos e os possíveis efeitos colaterais. Seguir um tratamento com regularidade já é curar pela metade."
+    },
+    {
+      "id": 4,
+      "fr": "La sédentarité est un fléau moderne. Les médecins bordelais rappellent sans cesse l'importance de l'activité physique : marcher, courir, nager, faire du vélo. Les quais de la Garonne offrent un cadre idéal pour bouger. Un mode de vie sain prévient l'obésité et les maladies du cœur.",
+      "pt": "O sedentarismo é um flagelo moderno. Os médicos bordeleses lembram sem parar a importância da atividade física: caminhar, correr, nadar, pedalar. Os cais da Garonne oferecem um cenário ideal para se mover. Um estilo de vida saudável previne a obesidade e as doenças do coração."
+    },
+    {
+      "id": 5,
+      "fr": "Bien manger fait partie des remèdes. Les marchés de la région regorgent de fruits, de légumes, de poissons et de produits frais. Un petit-déjeuner équilibré, un déjeuner léger et un dîner raisonnable : voilà une recette simple que les nutritionnistes répètent depuis des années.",
+      "pt": "Comer bem faz parte dos remédios. Os mercados da região transbordam de frutas, legumes, peixes e produtos frescos. Um café da manhã equilibrado, um almoço leve e um jantar razoável: eis uma receita simples que os nutricionistas repetem há anos."
+    },
+    {
+      "id": 6,
+      "fr": "Enfin, les médecins insistent sur le moral. La solitude et le stress affaiblissent le corps autant que la maladie. À Bordeaux, on cultive les rencontres : les terrasses, les associations, les marchés. Rire avec des amis, se promener au bord du fleuve, prendre le temps : ce sont les meilleures ordonnances, et elles sont gratuites.",
+      "pt": "Por fim, os médicos insistem no ânimo. A solidão e o estresse enfraquecem o corpo tanto quanto a doença. Em Bordeaux, cultiva-se os encontros: os terraços, as associações, os mercados. Rir com amigos, passear à beira do rio, ter tempo: são as melhores receitas, e são gratuitas."
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "le bilan de santé",
+      "definitionPt": "o check-up",
+      "definitionFr": "Examen médical complet pour vérifier l'état de santé.",
+      "inflections": ["le bilan de santé", "les bilans de santé", "faire un bilan de santé"],
+      "ptTargets": ["check-up", "exame completo"],
+      "examples": [
+        { "level": "A1", "fr": "Je fais un bilan de santé.", "pt": "Eu faço um check-up." },
+        { "level": "A2-B1", "fr": "Les médecins recommandent un bilan de santé régulier.", "pt": "Os médicos recomendam um check-up regular." },
+        { "level": "B2", "fr": "Un bilan de santé, c'est un rendez-vous avec sa propre vie.", "pt": "Um check-up é um encontro com a própria vida." },
+        { "level": "C1-C2", "fr": "Le bilan de santé révèle ce que le quotidien cache.", "pt": "O check-up revela o que o cotidiano esconde." }
+      ]
+    },
+    {
+      "term": "la prise de sang",
+      "definitionPt": "a coleta de sangue",
+      "definitionFr": "Prélèvement de sang pour une analyse.",
+      "inflections": ["la prise de sang", "les prises de sang"],
+      "ptTargets": ["coleta de sangue", "exame de sangue"],
+      "examples": [
+        { "level": "A1", "fr": "La prise de sang est rapide.", "pt": "A coleta de sangue é rápida." },
+        { "level": "A2-B1", "fr": "Le bilan comprend une prise de sang.", "pt": "O check-up inclui uma coleta de sangue." },
+        { "level": "B2", "fr": "Une prise de sang donne des réponses que l'on attendait.", "pt": "Uma coleta de sangue dá respostas que esperávamos." },
+        { "level": "C1-C2", "fr": "La prise de sang est une conversation silencieuse avec son corps.", "pt": "A coleta de sangue é uma conversa silenciosa com o corpo." }
+      ]
+    },
+    {
+      "term": "le diagnostic",
+      "definitionPt": "o diagnóstico",
+      "definitionFr": "Identification d'une maladie par le médecin.",
+      "inflections": ["le diagnostic", "les diagnostics", "établir un diagnostic"],
+      "ptTargets": ["diagnóstico"],
+      "examples": [
+        { "level": "A1", "fr": "Le diagnostic est clair.", "pt": "O diagnóstico é claro." },
+        { "level": "A2-B1", "fr": "Le médecin établit un diagnostic précis.", "pt": "O médico estabelece um diagnóstico preciso." },
+        { "level": "B2", "fr": "Un bon diagnostic vaut mieux qu'un long traitement.", "pt": "Um bom diagnóstico vale mais que um longo tratamento." },
+        { "level": "C1-C2", "fr": "Le diagnostic est le premier acte de soin.", "pt": "O diagnóstico é o primeiro ato de cuidado." }
+      ]
+    },
+    {
+      "term": "la posologie",
+      "definitionPt": "a posologia",
+      "definitionFr": "Indications sur les doses et les horaires d'un médicament.",
+      "inflections": ["la posologie", "les posologies"],
+      "ptTargets": ["posologia", "doses e horários"],
+      "examples": [
+        { "level": "A1", "fr": "La posologie est simple.", "pt": "A posologia é simples." },
+        { "level": "A2-B1", "fr": "Le médecin explique la posologie des médicaments.", "pt": "O médico explica a posologia dos medicamentos." },
+        { "level": "B2", "fr": "Respecter la posologie, c'est respecter son corps.", "pt": "Respeitar a posologia é respeitar o corpo." },
+        { "level": "C1-C2", "fr": "La posologie transforme un poison possible en remède.", "pt": "A posologia transforma um veneno possível em remédio." }
+      ]
+    },
+    {
+      "term": "la sédentarité",
+      "definitionPt": "o sedentarismo",
+      "definitionFr": "Mode de vie caractérisé par le manque d'activité physique.",
+      "inflections": ["la sédentarité", "un mode de vie sédentaire"],
+      "ptTargets": ["sedentarismo", "vida sedentária"],
+      "examples": [
+        { "level": "A1", "fr": "La sédentarité est mauvaise.", "pt": "O sedentarismo é ruim." },
+        { "level": "A2-B1", "fr": "La sédentarité est un fléau moderne.", "pt": "O sedentarismo é um flagelo moderno." },
+        { "level": "B2", "fr": "La sédentarité s'installe sans bruit, comme une habitude.", "pt": "O sedentarismo se instala sem barulho, como um hábito." },
+        { "level": "C1-C2", "fr": "Contre la sédentarité, le seul médicament est le mouvement.", "pt": "Contra o sedentarismo, o único remédio é o movimento." }
+      ]
+    },
+    {
+      "term": "le mode de vie sain",
+      "definitionPt": "o estilo de vida saudável",
+      "definitionFr": "Manière de vivre qui préserve la santé.",
+      "inflections": ["le mode de vie sain", "un mode de vie sain"],
+      "ptTargets": ["estilo de vida saudável", "vida saudável"],
+      "examples": [
+        { "level": "A1", "fr": "Il a un mode de vie sain.", "pt": "Ele tem um estilo de vida saudável." },
+        { "level": "A2-B1", "fr": "Un mode de vie sain prévient les maladies.", "pt": "Um estilo de vida saudável previne doenças." },
+        { "level": "B2", "fr": "Le mode de vie sain est une promesse que l'on se fait.", "pt": "O estilo de vida saudável é uma promessa que fazemos a nós mesmos." },
+        { "level": "C1-C2", "fr": "Un mode de vie sain est la politesse du corps envers l'âme.", "pt": "Um estilo de vida saudável é a cortesia do corpo com a alma." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "As expressões de conselho com 'il faut' e 'on'",
+    "explanationPt": "Para conselhos de saúde: il faut + infinitivo (il faut consulter, il faut bouger) e on + presente (on cultive les rencontres). A voz passiva também é comum: le diagnostic est établi, un traitement est suivi.",
+    "exampleFr": "Il faut consulter sans attendre, faire un bilan régulier, et bouger chaque jour.",
+    "examplePt": "É preciso consultar sem esperar, fazer um check-up regular e se mover todos os dias.",
+    "practiceQuestion": "Complete: « Quand un symptôme apparaît, il ___ consulter. »",
+    "options": ["faut", "fais", "faut que", "fallait"],
+    "correctIndex": 0,
+    "explanationPt": "'Il faut' + infinitivo: é preciso consultar."
+  },
+  "quizQuestions": [
+    {
+      "question": "Qu'est-ce que le CHU de Bordeaux ?",
+      "options": ["Un centre hospitalier universitaire", "Un musée d'art", "Une école de cuisine", "Un stade de football"],
+      "correctIndex": 0,
+      "explanation": "Le CHU est un des plus importants centres hospitaliers de France."
+    },
+    {
+      "question": "Pourquoi le dépistage est-il important ?",
+      "options": ["Il permet de diagnostiquer les maladies tôt", "Il remplace la nourriture", "Il soigne sans médecin", "Il évite le sommeil"],
+      "correctIndex": 0,
+      "explanation": "Le dépistage permet un diagnostic précoce, quand le traitement est le plus efficace."
+    },
+    {
+      "question": "Quel fléau moderne les médecins dénoncent-ils ?",
+      "options": ["La sédentarité", "La lecture", "Les promenades", "Les repas en famille"],
+      "correctIndex": 0,
+      "explanation": "La sédentarité est un fléau moderne que les médecins combattent."
+    }
+  ]
+}

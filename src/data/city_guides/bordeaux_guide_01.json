@@ -1,0 +1,153 @@
+{
+  "id": "bordeaux_guide_01",
+  "cityId": "bordeaux",
+  "domain": "História",
+  "level": "Misto (A1–C2)",
+  "titleFr": "Bordeaux : la ville et son port de la Lune",
+  "titlePt": "Bordeaux: a cidade e seu porto da Lua",
+  "subtitleFr": "De la cité antique à la perle de l'Aquitaine",
+  "subtitlePt": "Da cidade antiga à pérola da Aquitânia",
+  "summaryPt": "Enciclopédia de Bordeaux, seção 1: a história da cidade — da época romana ao porto da Lua — e sua vocação de capital do vinho. Vocabulário de história e cidade, com níveis mistos.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Bordeaux est née au bord de la Garonne, là où le fleuve s'élargit avant de rejoindre l'océan. Les Romains y fondèrent une ville prospère, Burdigala, qui devint une capitale régionale. Les marchands y vendaient des amphores de vin, du plomb et de l'étain venus de toute la Méditerranée.",
+      "pt": "Bordeaux nasceu às margens da Garonne, onde o rio se alarga antes de chegar ao oceano. Os romanos fundaram ali uma cidade próspera, Burdigala, que virou uma capital regional. Os mercadores vendiam ânforas de vinho, chumbo e estanho vindos de todo o Mediterrâneo."
+    },
+    {
+      "id": 2,
+      "fr": "Au Moyen Âge, Bordeaux profita d'un privilège exceptionnel : le roi d'Angleterre, qui possédait la région, autorisa la ville à exporter son vin sans payer d'impôt. Les navires partaient chargés de barriques vers l'Angleterre, la Hollande et l'Irlande. Le commerce du vin fit la fortune de la ville.",
+      "pt": "Na Idade Média, Bordeaux aproveitou um privilégio excepcional: o rei da Inglaterra, que possuía a região, autorizou a cidade a exportar seu vinho sem pagar imposto. Os navios partiam carregados de barris rumo à Inglaterra, à Holanda e à Irlanda. O comércio do vinho fez a fortuna da cidade."
+    },
+    {
+      "id": 3,
+      "fr": "Au XVIIIe siècle, Bordeaux devint un port immense, le plus important de France. Les architectes construisirent des quais magnifiques, des façades de pierre blonde et la place de la Bourse. Le port dessinait un croissant autour du fleuve : on l'appela le port de la Lune.",
+      "pt": "No século XVIII, Bordeaux virou um porto imenso, o mais importante da França. Os arquitetos construíram cais magníficos, fachadas de pedra clara e a praça da Bolsa. O porto desenhava uma meia-lua em volta do rio: chamaram-no de porto da Lua."
+    },
+    {
+      "id": 4,
+      "fr": "Le commerce enrichit la ville, mais le prix fut lourd : les navires du port participèrent à la traite des esclaves. Aujourd'hui, Bordeaux assume cette mémoire douloureuse. Des musées et des monuments racontent cette histoire, pour que les générations futures ne l'oublient jamais.",
+      "pt": "O comércio enriqueceu a cidade, mas o preço foi pesado: os navios do porto participaram do tráfico de escravos. Hoje, Bordeaux assume essa memória dolorosa. Museus e monumentos contam essa história, para que as gerações futuras nunca a esqueçam."
+    },
+    {
+      "id": 5,
+      "fr": "Au XXe siècle, la ville traversa une période difficile : le port déclina, les quartiers se dégradèrent. Mais depuis les années 1990, Bordeaux se transforme. Les façades furent nettoyées, les quais réaménagés et le tramway installé. En 2007, le centre historique fut classé au patrimoine mondial.",
+      "pt": "No século XX, a cidade atravessou um período difícil: o porto declinou, os bairros se degradaram. Mas desde os anos 1990, Bordeaux se transforma. As fachadas foram limpas, os cais requalificados e o bonde instalado. Em 2007, o centro histórico foi classificado como patrimônio mundial."
+    },
+    {
+      "id": 6,
+      "fr": "Aujourd'hui, Bordeaux rayonne dans le monde entier. Sa qualité de vie attire les jeunes, les entreprises et les touristes. Les habitants sont fiers de leur ville, de ses monuments, de ses vins et de son art de vivre. Beaucoup disent que Bordeaux est la plus belle ville de France — et ils ne sont pas les seuls.",
+      "pt": "Hoje, Bordeaux brilha no mundo inteiro. Sua qualidade de vida atrai os jovens, as empresas e os turistas. Os moradores se orgulham de sua cidade, de seus monumentos, de seus vinhos e de sua arte de viver. Muitos dizem que Bordeaux é a cidade mais bonita da França — e não são só eles."
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "prospérer",
+      "definitionPt": "prosperar",
+      "definitionFr": "Se développer avec succès, s'enrichir.",
+      "inflections": ["prospérer", "prospère", "prospéré"],
+      "ptTargets": ["prosperar", "florescer"],
+      "examples": [
+        { "level": "A1", "fr": "La ville prospère.", "pt": "A cidade prospera." },
+        { "level": "A2-B1", "fr": "Burdigala devint une ville prospère.", "pt": "Burdigala virou uma cidade próspera." },
+        { "level": "B2", "fr": "Prospérer sans perdre son âme est un défi moderne.", "pt": "Prosperar sem perder a alma é um desafio moderno." },
+        { "level": "C1-C2", "fr": "Une ville prospère se mesure à ses habitants, pas à ses tours.", "pt": "Uma cidade próspera se mede por seus habitantes, não por suas torres." }
+      ]
+    },
+    {
+      "term": "autoriser",
+      "definitionPt": "autorizar",
+      "definitionFr": "Donner la permission, permettre officiellement.",
+      "inflections": ["autoriser", "autorise", "autorisé"],
+      "ptTargets": ["autorizar", "permitir"],
+      "examples": [
+        { "level": "A1", "fr": "On autorise les photos.", "pt": "Autorizam-se as fotos." },
+        { "level": "A2-B1", "fr": "Le roi autorisa la ville à exporter son vin.", "pt": "O rei autorizou a cidade a exportar seu vinho." },
+        { "level": "B2", "fr": "Autoriser n'est pas encourager, c'est laisser la liberté.", "pt": "Autorizar não é incentivar, é deixar a liberdade." },
+        { "level": "C1-C2", "fr": "Ce que l'on autorise définit autant une société que ce que l'on interdit.", "pt": "O que se autoriza define uma sociedade tanto quanto o que se proíbe." }
+      ]
+    },
+    {
+      "term": "enrichir",
+      "definitionPt": "enriquecer",
+      "definitionFr": "Rendre plus riche, matériellement ou moralement.",
+      "inflections": ["enrichir", "enrichit", "enrichi"],
+      "ptTargets": ["enriquecer", "tornar rico"],
+      "examples": [
+        { "level": "A1", "fr": "Le commerce enrichit la ville.", "pt": "O comércio enriquece a cidade." },
+        { "level": "A2-B1", "fr": "Le commerce du vin enrichit Bordeaux.", "pt": "O comércio do vinho enriqueceu Bordeaux." },
+        { "level": "B2", "fr": "Les voyages enrichissent plus que l'argent.", "pt": "As viagens enriquecem mais que o dinheiro." },
+        { "level": "C1-C2", "fr": "On s'enrichit de ce que l'on partage, pas de ce que l'on garde.", "pt": "Enriquecemos com o que compartilhamos, não com o que guardamos." }
+      ]
+    },
+    {
+      "term": "se dégrader",
+      "definitionPt": "degradar-se",
+      "definitionFr": "Perdre de sa qualité, se détériorer.",
+      "inflections": ["se dégrader", "se dégrade", "dégradé"],
+      "ptTargets": ["degradar-se", "deteriorar-se"],
+      "examples": [
+        { "level": "A1", "fr": "Le temps se dégrade.", "pt": "O tempo piora." },
+        { "level": "A2-B1", "fr": "Les quartiers se dégradèrent après la guerre.", "pt": "Os bairros se degradaram depois da guerra." },
+        { "level": "B2", "fr": "Une relation se dégrade souvent par manque de paroles.", "pt": "Uma relação se degrada muitas vezes por falta de palavras." },
+        { "level": "C1-C2", "fr": "Ce qui se dégrade lentement se répare encore plus lentement.", "pt": "O que se degrada lentamente se conserta ainda mais lentamente." }
+      ]
+    },
+    {
+      "term": "réaménager",
+      "definitionPt": "requalificar; reorganizar",
+      "definitionFr": "Réorganiser un espace, le transformer.",
+      "inflections": ["réaménager", "réaménage", "réaménagé"],
+      "ptTargets": ["requalificar", "reorganizar", "transformar"],
+      "examples": [
+        { "level": "A1", "fr": "Ils réaménagent le parc.", "pt": "Eles reorganizam o parque." },
+        { "level": "A2-B1", "fr": "Les quais furent réaménagés dans les années 1990.", "pt": "Os cais foram requalificados nos anos 1990." },
+        { "level": "B2", "fr": "Réaménager une ville, c'est redessiner des vies.", "pt": "Requalificar uma cidade é redesenhar vidas." },
+        { "level": "C1-C2", "fr": "Réaménager, c'est donner une seconde chance à l'espace.", "pt": "Requalificar é dar uma segunda chance ao espaço." }
+      ]
+    },
+    {
+      "term": "rayonner",
+      "definitionPt": "brilhar; irradiar",
+      "definitionFr": "Diffuser son influence, briller au loin.",
+      "inflections": ["rayonner", "rayonne", "rayonné"],
+      "ptTargets": ["brilhar", "irradiar", "ter destaque"],
+      "examples": [
+        { "level": "A1", "fr": "Le soleil rayonne.", "pt": "O sol brilha." },
+        { "level": "A2-B1", "fr": "Bordeaux rayonne dans le monde entier.", "pt": "Bordeaux brilha no mundo inteiro." },
+        { "level": "B2", "fr": "Rayonner, c'est attirer sans forcer.", "pt": "Brilhar é atrair sem forçar." },
+        { "level": "C1-C2", "fr": "Une culture rayonne quand elle a quelque chose à offrir.", "pt": "Uma cultura brilha quando tem algo a oferecer." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Passé simple e a narrativa da cidade",
+    "explanationPt": "Na história de uma cidade, o passé simple marca as mudanças (devint, autorisa, fit la fortune, déclina) e o imparfait descreve o cenário (les navires partaient, les marchands vendaient).",
+    "exampleFr": "La ville prospéra, les quais s'ornèrent de façades, et le port dessina un croissant.",
+    "examplePt": "A cidade prosperou, os cais se enfeitaram de fachadas, e o porto desenhou uma meia-lua.",
+    "practiceQuestion": "Complete: « Au XVIIIe siècle, Bordeaux ___ le port le plus important de France. »",
+    "options": ["devint", "devient", "deviendra", "est devenu"],
+    "correctIndex": 0,
+    "explanationPt": "Narrativa histórica em passé simple: 'devint'."
+  },
+  "quizQuestions": [
+    {
+      "question": "Comment s'appelait Bordeaux à l'époque romaine ?",
+      "options": ["Burdigala", "Lutetia", "Lugdunum", "Caesarodunum"],
+      "correctIndex": 0,
+      "explanation": "Les Romains fondèrent Burdigala, qui devint une capitale régionale."
+    },
+    {
+      "question": "Pourquoi appelle-t-on Bordeaux le port de la Lune ?",
+      "options": ["Le port dessine un croissant autour du fleuve", "La ville brille la nuit", "Les marins naviguaient à la lune", "Le nom vient d'une déesse"],
+      "correctIndex": 0,
+      "explanation": "Le port dessinait un croissant autour de la Garonne."
+    },
+    {
+      "question": "En quelle année le centre historique fut-il classé au patrimoine mondial ?",
+      "options": ["2007", "1907", "1950", "1990"],
+      "correctIndex": 0,
+      "explanation": "En 2007, le centre historique de Bordeaux fut classé au patrimoine mondial."
+    }
+  ]
+}

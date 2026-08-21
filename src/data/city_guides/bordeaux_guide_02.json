@@ -1,0 +1,153 @@
+{
+  "id": "bordeaux_guide_02",
+  "cityId": "bordeaux",
+  "domain": "Patrimônio",
+  "level": "Misto (A1–C2)",
+  "titleFr": "La Garonne et le port : l'âme de la ville",
+  "titlePt": "A Garonne e o porto: a alma da cidade",
+  "subtitleFr": "Quais, Miroir d'eau et vie au bord du fleuve",
+  "subtitlePt": "Cais, Miroir d'eau e vida à beira do rio",
+  "summaryPt": "Enciclopédia de Bordeaux, seção 2: a Garonne, os cais históricos e o Miroir d'eau — o coração da cidade. Vocabulário de água, cidade e paisagem, com níveis mistos.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "La Garonne est le poumon de Bordeaux. Pendant des siècles, les quais furent le centre de la vie économique : on y déchargeait les navires, on y vendait les marchandises, on y embarquait les barriques de vin. Aujourd'hui, les quais sont devenus des promenades magnifiques, fréquentées du matin au soir.",
+      "pt": "A Garonne é o pulmão de Bordeaux. Durante séculos, os cais foram o centro da vida econômica: descarregavam-se os navios, vendiam-se as mercadorias, embarcavam-se os barris de vinho. Hoje, os cais viraram passeios magníficos, frequentados de manhã à noite."
+    },
+    {
+      "id": 2,
+      "fr": "Devant la place de la Bourse se trouve le Miroir d'eau, la plus grande place d'eau du monde. Une fine couche d'eau recouvre le granit, et le ciel se reflète dans ce miroir géant. Les enfants courent dans l'eau en riant, les photographes attendent la lumière parfaite.",
+      "pt": "Em frente à praça da Bolsa fica o Miroir d'eau, a maior praça d'água do mundo. Uma fina camada de água cobre o granito, e o céu se reflete nesse espelho gigante. As crianças correm na água rindo, os fotógrafos esperam a luz perfeita."
+    },
+    {
+      "id": 3,
+      "fr": "Toutes les trente minutes, un brouillard artificiel s'élève du sol pendant quelques minutes. Les passants s'arrêtent, surpris et enchantés. Les amoureux se prennent en photo, les familles jouent dans la brume. Ce spectacle simple attire des millions de visiteurs chaque année.",
+      "pt": "A cada trinta minutos, uma névoa artificial se eleva do chão durante alguns minutos. Os transeuntes param, surpresos e encantados. Os casais tiram fotos, as famílias brincam na névoa. Esse espetáculo simples atrai milhões de visitantes todos os anos."
+    },
+    {
+      "id": 4,
+      "fr": "Sur les quais, la vie bat son plein. Des joggers courent au lever du soleil, des familles pique-niquent à midi, des musiciens jouent le soir. Les bateaux de croisière s'amarrent le long des pontons, et les voyageurs débarquent avec leurs valises pour découvrir la ville.",
+      "pt": "Nos cais, a vida pulsa. Corredores correm ao nascer do sol, famílias fazem piquenique ao meio-dia, músicos tocam à noite. Os barcos de cruzeiro atracam ao longo dos pontões, e os viajantes desembarcam com suas malas para descobrir a cidade."
+    },
+    {
+      "id": 5,
+      "fr": "La Garonne relie Bordeaux à l'océan, à soixante kilomètres en aval. Des bateaux traditionnels, les gabares, proposent des croisières pour découvrir la ville depuis l'eau. Les passagers admirent les façades, les ponts et les monuments en écoutant l'histoire racontée par le guide.",
+      "pt": "A Garonne liga Bordeaux ao oceano, a sessenta quilômetros rio abaixo. Barcos tradicionais, as gabares, oferecem cruzeiros para descobrir a cidade pela água. Os passageiros admiram as fachadas, as pontes e os monumentos enquanto escutam a história contada pelo guia."
+    },
+    {
+      "id": 6,
+      "fr": "Au coucher du soleil, la Garonne devient dorée, puis rose, puis violette. Les habitants et les visiteurs s'arrêtent sur les quais pour regarder le ciel se transformer. Ce moment suspendu, entre l'eau et la lumière, est peut-être le plus beau cadeau que Bordeaux offre à ses visiteurs.",
+      "pt": "Ao pôr do sol, a Garonne fica dourada, depois rosa, depois violeta. Moradores e visitantes param nos cais para ver o céu se transformar. Esse momento suspenso, entre a água e a luz, é talvez o presente mais bonito que Bordeaux oferece a seus visitantes."
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "décharger",
+      "definitionPt": "descarregar",
+      "definitionFr": "Retirer une charge, vider un véhicule.",
+      "inflections": ["décharger", "décharge", "déchargé"],
+      "ptTargets": ["descarregar", "descarregar mercadoria"],
+      "examples": [
+        { "level": "A1", "fr": "Ils déchargent le camion.", "pt": "Eles descarregam o caminhão." },
+        { "level": "A2-B1", "fr": "On déchargeait les navires sur les quais.", "pt": "Descarregavam-se os navios nos cais." },
+        { "level": "B2", "fr": "Décharger, c'est aussi se libérer d'un poids moral.", "pt": "Descarregar é também se livrar de um peso moral." },
+        { "level": "C1-C2", "fr": "On décharge les caisses, mais l'on garde la mémoire des voyages.", "pt": "Descarregam-se as caixas, mas guarda-se a memória das viagens." }
+      ]
+    },
+    {
+      "term": "se refléter",
+      "definitionPt": "refletir-se",
+      "definitionFr": "Se refléter, apparaître en image sur une surface.",
+      "inflections": ["se refléter", "se reflète", "reflété"],
+      "ptTargets": ["refletir-se", "espelhar"],
+      "examples": [
+        { "level": "A1", "fr": "Mon visage se reflète dans l'eau.", "pt": "Meu rosto se reflete na água." },
+        { "level": "A2-B1", "fr": "Le ciel se reflète dans le miroir géant.", "pt": "O céu se reflete no espelho gigante." },
+        { "level": "B2", "fr": "Une ville se reflète dans ses habitants comme dans son fleuve.", "pt": "Uma cidade se reflete em seus habitantes como em seu rio." },
+        { "level": "C1-C2", "fr": "Se refléter, c'est se voir tel que l'autre nous regarde.", "pt": "Refletir-se é se ver como o outro nos olha." }
+      ]
+    },
+    {
+      "term": "s'élever",
+      "definitionPt": "elevar-se; subir",
+      "definitionFr": "Monter, aller vers le haut.",
+      "inflections": ["s'élever", "s'élève", "élevé"],
+      "ptTargets": ["elevar-se", "subir", "erguer-se"],
+      "examples": [
+        { "level": "A1", "fr": "La fumée s'élève.", "pt": "A fumaça sobe." },
+        { "level": "A2-B1", "fr": "Un brouillard s'élève du sol.", "pt": "Uma névoa se eleva do chão." },
+        { "level": "B2", "fr": "S'élever, c'est prendre de la hauteur sur sa propre vie.", "pt": "Elevar-se é ganhar altura sobre a própria vida." },
+        { "level": "C1-C2", "fr": "Le chant s'élève et, un instant, le monde retient son souffle.", "pt": "O canto se eleva e, por um instante, o mundo prende a respiração." }
+      ]
+    },
+    {
+      "term": "s'amarrer",
+      "definitionPt": "atracar; amarrar",
+      "definitionFr": "Attacher un bateau à un ponton ou à un quai.",
+      "inflections": ["s'amarrer", "s'amarre", "amarré"],
+      "ptTargets": ["atracar", "amarrar"],
+      "examples": [
+        { "level": "A1", "fr": "Le bateau s'amarre au quai.", "pt": "O barco atraca no cais." },
+        { "level": "A2-B1", "fr": "Les bateaux de croisière s'amarrent le long des pontons.", "pt": "Os barcos de cruzeiro atracam ao longo dos pontões." },
+        { "level": "B2", "fr": "S'amarrer, c'est trouver un port après la tempête.", "pt": "Atracar é encontrar um porto depois da tempestade." },
+        { "level": "C1-C2", "fr": "On s'amarre aux êtres comme les bateaux aux quais.", "pt": "Amarramo-nos às pessoas como os barcos aos cais." }
+      ]
+    },
+    {
+      "term": "débarquer",
+      "definitionPt": "desembarcar",
+      "definitionFr": "Descendre d'un bateau, d'un avion ou d'un train.",
+      "inflections": ["débarquer", "débarque", "débarqué"],
+      "ptTargets": ["desembarcar", "chegar"],
+      "examples": [
+        { "level": "A1", "fr": "Nous débarquons à Bordeaux.", "pt": "Nós desembarcamos em Bordeaux." },
+        { "level": "A2-B1", "fr": "Les voyageurs débarquent avec leurs valises.", "pt": "Os viajantes desembarcam com suas malas." },
+        { "level": "B2", "fr": "Débarquer dans une nouvelle ville, c'est recommencer.", "pt": "Desembarcar numa cidade nova é recomeçar." },
+        { "level": "C1-C2", "fr": "On ne débarque jamais deux fois dans la même ville.", "pt": "Nunca se desembarca duas vezes na mesma cidade." }
+      ]
+    },
+    {
+      "term": "admirer",
+      "definitionPt": "admirar",
+      "definitionFr": "Regarder avec plaisir et respect.",
+      "inflections": ["admirer", "admire", "admiré"],
+      "ptTargets": ["admirar", "contemplar"],
+      "examples": [
+        { "level": "A1", "fr": "J'admire la tour.", "pt": "Eu admiro a torre." },
+        { "level": "A2-B1", "fr": "Les passagers admirent les façades depuis l'eau.", "pt": "Os passageiros admiram as fachadas pela água." },
+        { "level": "B2", "fr": "Admirer, c'est reconnaître ce qui nous dépasse.", "pt": "Admirar é reconhecer o que nos supera." },
+        { "level": "C1-C2", "fr": "On admire ce que l'on ne comprend pas encore entièrement.", "pt": "Admiramos o que ainda não compreendemos inteiramente." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "A voz passiva com 'on' e 'se'",
+    "explanationPt": "Para descrever atividades sem sujeito preciso, o francês usa 'on' (on déchargeait, on vendait) ou a forma pronominal (le ciel se reflète, un brouillard s'élève).",
+    "exampleFr": "On déchargeait les navires, on vendait les marchandises, et le ciel se reflétait dans l'eau.",
+    "examplePt": "Descarregavam-se os navios, vendiam-se as mercadorias, e o céu se refletia na água.",
+    "practiceQuestion": "Complete: « Les bateaux ___ le long des pontons. »",
+    "options": ["s'amarent", "amarent", "s'amarrer", "amarre"],
+    "correctIndex": 0,
+    "explanationPt": "Verbo pronominal na 3ª pessoa do plural: 's'amarent'."
+  },
+  "quizQuestions": [
+    {
+      "question": "Qu'est-ce que le Miroir d'eau ?",
+      "options": ["La plus grande place d'eau du monde", "Un lac artificiel", "Une piscine municipale", "Un aquarium géant"],
+      "correctIndex": 0,
+      "explanation": "Le Miroir d'eau est la plus grande place d'eau du monde."
+    },
+    {
+      "question": "Que se passe-t-il toutes les trente minutes au Miroir d'eau ?",
+      "options": ["Un brouillard s'élève du sol", "Un feu d'artifice explose", "Une fontaine se vide", "Des danseurs arrivent"],
+      "correctIndex": 0,
+      "explanation": "Un brouillard artificiel s'élève du sol pendant quelques minutes."
+    },
+    {
+      "question": "Comment appelle-t-on les bateaux traditionnels de la Garonne ?",
+      "options": ["Les gabares", "Les voiliers", "Les canoës", "Les pétroliers"],
+      "correctIndex": 0,
+      "explanation": "Les gabares proposent des croisières sur la Garonne."
+    }
+  ]
+}

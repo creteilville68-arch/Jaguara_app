@@ -1,0 +1,153 @@
+{
+  "id": "bordeaux_guide_06",
+  "cityId": "bordeaux",
+  "domain": "Acadêmico",
+  "level": "Misto (A1–C2)",
+  "titleFr": "Étudier à Bordeaux : une grande université",
+  "titlePt": "Estudar em Bordeaux: uma grande universidade",
+  "subtitleFr": "Campus, cursus et vie étudiante",
+  "subtitlePt": "Campus, cursos e vida estudantil",
+  "summaryPt": "Enciclopédia de Bordeaux, seção 6: a vida universitária — os cursos, os estágios, a pesquisa e a entrada no mercado de trabalho. Vocabulário de estudos e carreira, com níveis mistos.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Bordeaux est une grande ville universitaire : plus de cent mille étudiants suivent des cours dans ses facultés. L'université de Bordeaux, fondée en 1441, est l'une des plus anciennes de France. Ses campus accueillent des étudiants de toutes les régions et de tous les continents.",
+      "pt": "Bordeaux é uma grande cidade universitária: mais de cem mil estudantes frequentam cursos em suas faculdades. A universidade de Bordeaux, fundada em 1441, é uma das mais antigas da França. Seus campus recebem estudantes de todas as regiões e de todos os continentes."
+    },
+    {
+      "id": 2,
+      "fr": "Les filières sont nombreuses : droit, économie, médecine, sciences, agronomie, œnologie. Les étudiants choisissent leur voie selon leurs goûts et leurs projets. Les cours magistraux rassemblent des centaines d'étudiants, tandis que les travaux dirigés permettent un travail en petit groupe.",
+      "pt": "Os cursos são numerosos: direito, economia, medicina, ciências, agronomia, enologia. Os estudantes escolhem seu caminho segundo seus gostos e projetos. As aulas expositivas reúnem centenas de estudantes, enquanto os trabalhos dirigidos permitem um trabalho em grupo pequeno."
+    },
+    {
+      "id": 3,
+      "fr": "La vie étudiante est intense : associations, sport, théâtre, musique. Les étudiants organisent des soirées, des tournois et des débats. Les amphithéâtres se vident le soir, mais les bibliothèques restent pleines jusqu'à minuit, surtout pendant les périodes d'examens.",
+      "pt": "A vida estudantil é intensa: associações, esporte, teatro, música. Os estudantes organizam festas, torneios e debates. Os anfiteatros se esvaziam à noite, mas as bibliotecas ficam cheias até meia-noite, principalmente nos períodos de provas."
+    },
+    {
+      "id": 4,
+      "fr": "Après la licence, beaucoup poursuivent en master, et certains jusqu'au doctorat. La soutenance de thèse est un moment solennel : le candidat présente ses travaux devant un jury, qui pose des questions précises. Obtenir son doctorat est un aboutissement qui demande des années d'efforts.",
+      "pt": "Depois da graduação, muitos continuam no mestrado, e alguns até o doutorado. A defesa de tese é um momento solene: o candidato apresenta seus trabalhos diante de uma banca, que faz perguntas precisas. Obter o doutorado é uma conquista que exige anos de esforço."
+    },
+    {
+      "id": 5,
+      "fr": "Les étudiants étrangers sont nombreux à Bordeaux. Beaucoup reçoivent une bourse d'études de leur pays ou de la France. Ils suivent des cours de français, s'intègrent dans les associations et découvrent la vie bordelaise. Certains décident de rester après leurs études et deviennent de véritables Bordelais.",
+      "pt": "Os estudantes estrangeiros são numerosos em Bordeaux. Muitos recebem uma bolsa de estudos de seu país ou da França. Frequentam cursos de francês, se integram nas associações e descobrem a vida bordelesa. Alguns decidem ficar depois dos estudos e viram bordeleses de verdade."
+    },
+    {
+      "id": 6,
+      "fr": "Le diplôme en poche, les jeunes diplômés cherchent leur premier emploi. Les entreprises de la région recrutent dans l'aéronautique, le vin, la santé et le numérique. L'emploi du temps s'organise autour des entretiens, des stages et des premiers contrats. C'est le passage vers la vie active, une étape que tous connaissent, avec ses joies et ses doutes.",
+      "pt": "Com o diploma na mão, os jovens formados procuram o primeiro emprego. As empresas da região contratam na aeronáutica, no vinho, na saúde e no digital. A agenda se organiza em torno de entrevistas, estágios e primeiros contratos. É a passagem para a vida ativa, uma etapa que todos conhecem, com suas alegrias e dúvidas."
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "le cours magistral",
+      "definitionPt": "a aula expositiva",
+      "definitionFr": "Cours donné à un grand nombre d'étudiants dans un amphithéâtre.",
+      "inflections": ["le cours magistral", "les cours magistraux"],
+      "ptTargets": ["aula expositiva", "aula magna"],
+      "examples": [
+        { "level": "A1", "fr": "Le cours magistral est long.", "pt": "A aula expositiva é longa." },
+        { "level": "A2-B1", "fr": "Les cours magistraux rassemblent des centaines d'étudiants.", "pt": "As aulas expositivas reúnem centenas de estudantes." },
+        { "level": "B2", "fr": "Le cours magistral demande une grande capacité d'écoute.", "pt": "A aula expositiva exige grande capacidade de escuta." },
+        { "level": "C1-C2", "fr": "Le cours magistral est un héritage médiéval qui fascine encore.", "pt": "A aula expositiva é uma herança medieval que ainda fascina." }
+      ]
+    },
+    {
+      "term": "la soutenance",
+      "definitionPt": "a defesa",
+      "definitionFr": "Présentation publique d'un travail devant un jury.",
+      "inflections": ["la soutenance", "les soutenances", "la soutenance de thèse"],
+      "ptTargets": ["defesa", "defesa de tese"],
+      "examples": [
+        { "level": "A1", "fr": "La soutenance est demain.", "pt": "A defesa é amanhã." },
+        { "level": "A2-B1", "fr": "La soutenance de thèse est un moment solennel.", "pt": "A defesa de tese é um momento solene." },
+        { "level": "B2", "fr": "Une bonne soutenance défend le travail, pas l'ego.", "pt": "Uma boa defesa defende o trabalho, não o ego." },
+        { "level": "C1-C2", "fr": "La soutenance est le dernier pas d'une longue montagne.", "pt": "A defesa é o último passo de uma longa montanha." }
+      ]
+    },
+    {
+      "term": "la bourse d'études",
+      "definitionPt": "a bolsa de estudos",
+      "definitionFr": "Aide financière pour financer des études.",
+      "inflections": ["la bourse d'études", "les bourses d'études", "recevoir une bourse"],
+      "ptTargets": ["bolsa de estudos", "bolsa"],
+      "examples": [
+        { "level": "A1", "fr": "Elle a une bourse d'études.", "pt": "Ela tem uma bolsa de estudos." },
+        { "level": "A2-B1", "fr": "Beaucoup reçoivent une bourse d'études.", "pt": "Muitos recebem uma bolsa de estudos." },
+        { "level": "B2", "fr": "Une bourse d'études change parfois une vie entière.", "pt": "Uma bolsa de estudos às vezes muda uma vida inteira." },
+        { "level": "C1-C2", "fr": "La bourse d'études est un pari de la société sur un individu.", "pt": "A bolsa de estudos é uma aposta da sociedade num indivíduo." }
+      ]
+    },
+    {
+      "term": "s'intégrer",
+      "definitionPt": "integrar-se",
+      "definitionFr": "Devenir partie prenante d'un groupe, d'une société.",
+      "inflections": ["s'intégrer", "s'intègre", "intégré"],
+      "ptTargets": ["integrar-se", "inserir-se"],
+      "examples": [
+        { "level": "A1", "fr": "Je m'intègre au groupe.", "pt": "Eu me integro ao grupo." },
+        { "level": "A2-B1", "fr": "Ils s'intègrent dans les associations.", "pt": "Eles se integram nas associações." },
+        { "level": "B2", "fr": "S'intégrer, c'est trouver sa place sans perdre son identité.", "pt": "Integrar-se é encontrar seu lugar sem perder a identidade." },
+        { "level": "C1-C2", "fr": "S'intégrer, c'est apprendre la langue du pays et celle du cœur.", "pt": "Integrar-se é aprender a língua do país e a do coração." }
+      ]
+    },
+    {
+      "term": "le diplôme en poche",
+      "definitionPt": "com o diploma na mão",
+      "definitionFr": "Avoir obtenu son diplôme.",
+      "inflections": ["le diplôme en poche", "avoir un diplôme en poche"],
+      "ptTargets": ["com o diploma na mão", "diplomado"],
+      "examples": [
+        { "level": "A1", "fr": "Il a son diplôme en poche.", "pt": "Ele tem seu diploma na mão." },
+        { "level": "A2-B1", "fr": "Le diplôme en poche, ils cherchent leur premier emploi.", "pt": "Com o diploma na mão, eles procuram o primeiro emprego." },
+        { "level": "B2", "fr": "Avoir un diplôme en poche n'ouvre pas toutes les portes.", "pt": "Ter um diploma na mão não abre todas as portas." },
+        { "level": "C1-C2", "fr": "Le diplôme en poche est un début, pas une fin.", "pt": "O diploma na mão é um começo, não um fim." }
+      ]
+    },
+    {
+      "term": "l'emploi du temps",
+      "definitionPt": "o horário; a grade",
+      "definitionFr": "Organisation des horaires de cours ou de travail.",
+      "inflections": ["l'emploi du temps", "les emplois du temps"],
+      "ptTargets": ["horário", "grade", "agenda"],
+      "examples": [
+        { "level": "A1", "fr": "Mon emploi du temps est chargé.", "pt": "Minha agenda está cheia." },
+        { "level": "A2-B1", "fr": "L'emploi du temps s'organise autour des entretiens.", "pt": "A agenda se organiza em torno das entrevistas." },
+        { "level": "B2", "fr": "Un bon emploi du temps laisse de la place à l'imprévu.", "pt": "Uma boa agenda deixa espaço para o imprevisto." },
+        { "level": "C1-C2", "fr": "L'emploi du temps est le miroir de nos priorités.", "pt": "A agenda é o espelho de nossas prioridades." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "As preposições com cursos e estudos",
+    "explanationPt": "Para falar de estudos: étudier le droit, la médecine (com artigo); se spécialiser en œnologie, en agronomie (com 'en'); suivre des cours de français (com 'de').",
+    "exampleFr": "Elle étudie le droit, se spécialise en œnologie et suit des cours de français.",
+    "examplePt": "Ela estuda direito, se especializa em enologia e faz aulas de francês.",
+    "practiceQuestion": "Complete: « Ils suivent des cours ___ français. »",
+    "options": ["de", "en", "le", "au"],
+    "correctIndex": 0,
+    "explanationPt": "Cours de + matéria: cours de français."
+  },
+  "quizQuestions": [
+    {
+      "question": "En quelle année l'université de Bordeaux fut-elle fondée ?",
+      "options": ["1441", "1789", "1900", "1968"],
+      "correctIndex": 0,
+      "explanation": "L'université de Bordeaux fut fondée en 1441."
+    },
+    {
+      "question": "Combien d'étudiants fréquentent les facultés de Bordeaux ?",
+      "options": ["Plus de cent mille", "Cinq cents", "Dix mille", "Un million"],
+      "correctIndex": 0,
+      "explanation": "Plus de cent mille étudiants suivent des cours à Bordeaux."
+    },
+    {
+      "question": "Qu'est-ce que la soutenance de thèse ?",
+      "options": ["La présentation du travail devant un jury", "La remise du diplôme sans examen", "L'inscription à l'université", "La fête de fin d'année"],
+      "correctIndex": 0,
+      "explanation": "Le candidat présente ses travaux devant un jury qui pose des questions."
+    }
+  ]
+}

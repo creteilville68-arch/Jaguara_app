@@ -1,0 +1,153 @@
+{
+  "id": "bordeaux_guide_03",
+  "cityId": "bordeaux",
+  "domain": "Gastronomia",
+  "level": "Misto (A1–C2)",
+  "titleFr": "Le vin de Bordeaux : une légende vivante",
+  "titlePt": "O vinho de Bordeaux: uma lenda viva",
+  "subtitleFr": "Vignobles, châteaux et art de la dégustation",
+  "subtitlePt": "Vinhedos, castelos e a arte da degustação",
+  "summaryPt": "Enciclopédia de Bordeaux, seção 3: a cultura do vinho — as vinhas da região, a produção e a degustação. Vocabulário de vinho e natureza, com níveis mistos.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Le vin est l'âme de Bordeaux. La région compte plus de cent mille hectares de vignes, répartis entre le Médoc, Saint-Émilion, Pomerol et Sauternes. Chaque année, des millions de bouteilles partent vers le monde entier. Pour les habitants, le vin n'est pas une boisson : c'est une culture, une histoire, une identité.",
+      "pt": "O vinho é a alma de Bordeaux. A região conta com mais de cem mil hectares de vinhas, distribuídos entre Médoc, Saint-Émilion, Pomerol e Sauternes. Todos os anos, milhões de garrafas partem para o mundo inteiro. Para os moradores, o vinho não é uma bebida: é uma cultura, uma história, uma identidade."
+    },
+    {
+      "id": 2,
+      "fr": "La vigne demande une patience infinie. Les vignerons taillent les pieds en hiver, surveillent les bourgeons au printemps et attendent l'été avec inquiétude. Les vendanges commencent à la fin de septembre, quand le raisin a atteint sa maturité. On récolte souvent la nuit, quand la fraîcheur préserve les arômes.",
+      "pt": "A videira exige uma paciência infinita. Os vinicultores podam os pés no inverno, vigiam os brotos na primavera e esperam o verão com preocupação. A vindima começa no fim de setembro, quando a uva atingiu a maturidade. Colhe-se muitas vezes à noite, quando o frescor preserva os aromas."
+    },
+    {
+      "id": 3,
+      "fr": "Après la récolte, le raisin est pressé, puis le jus fermente dans de grandes cuves. Le vin vieillit ensuite dans des barriques de chêne, parfois pendant deux ans. Les caves de la région, creusées dans la pierre, gardent une température idéale. Le temps fait le reste : chaque année de vieillissement transforme le vin.",
+      "pt": "Depois da colheita, a uva é prensada, e depois o suco fermenta em grandes cubas. O vinho envelhece depois em barris de carvalho, às vezes por dois anos. As caves da região, escavadas na pedra, mantêm uma temperatura ideal. O tempo faz o resto: cada ano de envelhecimento transforma o vinho."
+    },
+    {
+      "id": 4,
+      "fr": "Déguster un vin de Bordeaux est un rituel. On observe d'abord la robe, puis on sent le bouquet, enfin on goûte. Les spécialistes parlent de tanins, de notes de fruits rouges, de finale longue. Chaque verre raconte son terroir, son année, et le travail des hommes qui l'ont fait naître.",
+      "pt": "Degustar um vinho de Bordeaux é um ritual. Observa-se primeiro a cor, depois sente-se o buquê, por fim prova-se. Os especialistas falam de taninos, notas de frutas vermelhas, final longo. Cada taça conta seu terroir, seu ano e o trabalho dos homens que o fizeram nascer."
+    },
+    {
+      "id": 5,
+      "fr": "Les châteaux viticoles ouvrent leurs portes aux visiteurs. On y visite les caves, on y déguste les vins et l'on découvre l'histoire des familles qui les dirigent. Certaines propriétés existent depuis des siècles et gardent des archives précieuses, témoins d'une tradition ininterrompue.",
+      "pt": "Os castelos vitivinícolas abrem suas portas aos visitantes. Visitam-se as caves, degustam-se os vinhos e descobre-se a história das famílias que os dirigem. Algumas propriedades existem há séculos e guardam arquivos preciosos, testemunhas de uma tradição ininterrupta."
+    },
+    {
+      "id": 6,
+      "fr": "La cité du vin, un musée moderne à Bordeaux, raconte cette aventure au monde entier. Ses salles immersives, ses dégustations et sa vue panoramique attirent des visiteurs de toutes les nationalités. On y comprend que le vin est un langage universel, qui rapproche les cultures depuis des millénaires.",
+      "pt": "A cidade do vinho, um museu moderno em Bordeaux, conta essa aventura ao mundo inteiro. Suas salas imersivas, suas degustações e sua vista panorâmica atraem visitantes de todas as nacionalidades. Entende-se ali que o vinho é uma linguagem universal, que aproxima as culturas há milênios."
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "la vigne",
+      "definitionPt": "a videira; a vinha",
+      "definitionFr": "Plante qui produit le raisin.",
+      "inflections": ["la vigne", "les vignes", "le vignoble"],
+      "ptTargets": ["videira", "vinha", "vinhedo"],
+      "examples": [
+        { "level": "A1", "fr": "La vigne pousse ici.", "pt": "A videira cresce aqui." },
+        { "level": "A2-B1", "fr": "La région compte des milliers d'hectares de vignes.", "pt": "A região tem milhares de hectares de vinhas." },
+        { "level": "B2", "fr": "La vigne enseigne la patience à qui sait la regarder.", "pt": "A videira ensina paciência a quem sabe olhá-la." },
+        { "level": "C1-C2", "fr": "La vigne est une écriture lente sur la terre.", "pt": "A videira é uma escrita lenta sobre a terra." }
+      ]
+    },
+    {
+      "term": "atteindre",
+      "definitionPt": "atingir; alcançar",
+      "definitionFr": "Parvenir à un niveau, à un objectif.",
+      "inflections": ["atteindre", "atteint", "atteint"],
+      "ptTargets": ["atingir", "alcançar"],
+      "examples": [
+        { "level": "A1", "fr": "Nous atteignons le sommet.", "pt": "Nós alcançamos o topo." },
+        { "level": "A2-B1", "fr": "Le raisin atteint sa maturité en septembre.", "pt": "A uva atinge a maturidade em setembro." },
+        { "level": "B2", "fr": "Atteindre un objectif demande de la constance.", "pt": "Atingir um objetivo exige constância." },
+        { "level": "C1-C2", "fr": "On n'atteint la perfection que dans le mouvement.", "pt": "Só se atinge a perfeição no movimento." }
+      ]
+    },
+    {
+      "term": "vieillir",
+      "definitionPt": "envelhecer",
+      "definitionFr": "Devenir vieux ; mûrir avec le temps.",
+      "inflections": ["vieillir", "vieillit", "vieilli"],
+      "ptTargets": ["envelhecer", "amadurecer"],
+      "examples": [
+        { "level": "A1", "fr": "Le vin vieillit en cave.", "pt": "O vinho envelhece na cave." },
+        { "level": "A2-B1", "fr": "Le vin vieillit dans des barriques de chêne.", "pt": "O vinho envelhece em barris de carvalho." },
+        { "level": "B2", "fr": "Certaines choses s'améliorent en vieillissant : le vin, les amitiés, les souvenirs.", "pt": "Algumas coisas melhoram com o tempo: o vinho, as amizades, as lembranças." },
+        { "level": "C1-C2", "fr": "Vieillir, c'est apprendre à devenir soi-même.", "pt": "Envelhecer é aprender a se tornar você mesmo." }
+      ]
+    },
+    {
+      "term": "déguster",
+      "definitionPt": "degustar; provar",
+      "definitionFr": "Goûter avec attention pour apprécier les saveurs.",
+      "inflections": ["déguster", "déguste", "dégusté"],
+      "ptTargets": ["degustar", "provar", "saborear"],
+      "examples": [
+        { "level": "A1", "fr": "Je déguste le vin.", "pt": "Eu degusto o vinho." },
+        { "level": "A2-B1", "fr": "On déguste les vins dans les châteaux.", "pt": "Degustam-se os vinhos nos castelos." },
+        { "level": "B2", "fr": "Déguster, c'est donner du temps à ses sens.", "pt": "Degustar é dar tempo aos sentidos." },
+        { "level": "C1-C2", "fr": "On ne déguste pas un grand vin, on écoute son histoire.", "pt": "Não se degusta um grande vinho, escuta-se sua história." }
+      ]
+    },
+    {
+      "term": "le terroir",
+      "definitionPt": "o terroir",
+      "definitionFr": "Ensemble des caractéristiques d'un lieu qui donnent son goût à un produit.",
+      "inflections": ["le terroir", "les terroirs"],
+      "ptTargets": ["terroir", "terra"],
+      "examples": [
+        { "level": "A1", "fr": "Le terroir donne le goût.", "pt": "O terroir dá o gosto." },
+        { "level": "A2-B1", "fr": "Chaque verre raconte son terroir.", "pt": "Cada taça conta seu terroir." },
+        { "level": "B2", "fr": "Le terroir, c'est la mémoire du sol.", "pt": "O terroir é a memória do solo." },
+        { "level": "C1-C2", "fr": "Le terroir est la conversation entre la terre et le ciel.", "pt": "O terroir é a conversa entre a terra e o céu." }
+      ]
+    },
+    {
+      "term": "ininterrompu",
+      "definitionPt": "ininterrupto",
+      "definitionFr": "Qui ne s'arrête pas, continu.",
+      "inflections": ["ininterrompu", "ininterrompue", "ininterrompus"],
+      "ptTargets": ["ininterrupto", "contínuo"],
+      "examples": [
+        { "level": "A1", "fr": "La pluie est ininterrompue.", "pt": "A chuva é ininterrupta." },
+        { "level": "A2-B1", "fr": "Une tradition ininterrompue depuis des siècles.", "pt": "Uma tradição ininterrupta há séculos." },
+        { "level": "B2", "fr": "Le travail ininterrompu des vignerons façonne le paysage.", "pt": "O trabalho ininterrupto dos vinicultores molda a paisagem." },
+        { "level": "C1-C2", "fr": "La transmission ininterrompue est le secret des grandes cultures.", "pt": "A transmissão ininterrupta é o segredo das grandes culturas." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "O presente de descrição e o passado de narrativa",
+    "explanationPt": "Para descrever o processo do vinho, alternam-se o presente (le vin vieillit, on récolte) e o passé composé ou o passé simple para os acontecimentos (la région compta, les vendanges commencèrent).",
+    "exampleFr": "On récolte le raisin à la fin de septembre, puis le vin vieillit pendant deux ans.",
+    "examplePt": "Colhe-se a uva no fim de setembro, e depois o vinho envelhece por dois anos.",
+    "practiceQuestion": "Complete: « Après la récolte, le raisin ___ pressé. »",
+    "options": ["est", "a", "était", "sera"],
+    "correctIndex": 0,
+    "explanationPt": "Voz passiva no presente: 'est pressé'."
+  },
+  "quizQuestions": [
+    {
+      "question": "Quelle région viticole n'est PAS à Bordeaux ?",
+      "options": ["La Champagne", "Le Médoc", "Saint-Émilion", "Pomerol"],
+      "correctIndex": 0,
+      "explanation": "La Champagne est une autre région viticole, au nord-est de Paris."
+    },
+    {
+      "question": "Quand commencent les vendanges ?",
+      "options": ["À la fin de septembre", "En janvier", "En juin", "En décembre"],
+      "correctIndex": 0,
+      "explanation": "Les vendanges commencent à la fin de septembre."
+    },
+    {
+      "question": "Où le vin vieillit-il ?",
+      "options": ["Dans des barriques de chêne", "Dans des bouteilles en plastique", "Au soleil", "Dans des congélateurs"],
+      "correctIndex": 0,
+      "explanation": "Le vin vieillit dans des barriques de chêne."
+    }
+  ]
+}
