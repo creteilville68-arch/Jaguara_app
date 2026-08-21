@@ -83,6 +83,14 @@ import strasbourgGuide05 from '../data/city_guides/strasbourg_guide_05.json';
 import strasbourgGuide06 from '../data/city_guides/strasbourg_guide_06.json';
 import strasbourgGuide07 from '../data/city_guides/strasbourg_guide_07.json';
 import strasbourgGuide08 from '../data/city_guides/strasbourg_guide_08.json';
+import niceGuide01 from '../data/city_guides/nice_guide_01.json';
+import niceGuide02 from '../data/city_guides/nice_guide_02.json';
+import niceGuide03 from '../data/city_guides/nice_guide_03.json';
+import niceGuide04 from '../data/city_guides/nice_guide_04.json';
+import niceGuide05 from '../data/city_guides/nice_guide_05.json';
+import niceGuide06 from '../data/city_guides/nice_guide_06.json';
+import niceGuide07 from '../data/city_guides/nice_guide_07.json';
+import niceGuide08 from '../data/city_guides/nice_guide_08.json';
 
 interface EncyclopediaViewProps {
   progress: UserMapProgress;
@@ -190,6 +198,16 @@ const CITY_GUIDES: Record<string, Array<Record<string, unknown>>> = {
     strasbourgGuide06 as unknown as Record<string, unknown>,
     strasbourgGuide07 as unknown as Record<string, unknown>,
     strasbourgGuide08 as unknown as Record<string, unknown>,
+  ],
+  nice: [
+    niceGuide01 as unknown as Record<string, unknown>,
+    niceGuide02 as unknown as Record<string, unknown>,
+    niceGuide03 as unknown as Record<string, unknown>,
+    niceGuide04 as unknown as Record<string, unknown>,
+    niceGuide05 as unknown as Record<string, unknown>,
+    niceGuide06 as unknown as Record<string, unknown>,
+    niceGuide07 as unknown as Record<string, unknown>,
+    niceGuide08 as unknown as Record<string, unknown>,
   ],
 };
 

@@ -77,4 +77,10 @@ export const NICE_BACKLOG_EXAMPLES: Record<string, MasterExample[]> = {
     { level: 'B2', fr: 'La conservatrice consolida la reliure du vieil Atlas.', pt: 'A conservadora consolidou a encadernação do velho Atlas.' },
     { level: 'C1-C2', fr: 'C’est dans la reliure que le livre garde la mémoire des mains qui l’ont tenu.', pt: 'É na encadernação que o livro guarda a memória das mãos que o seguraram.' },
   ],
+  tendances: [
+    { level: 'A1', fr: 'Les tendances changent.', pt: 'As tendências mudam.' },
+    { level: 'A2-B1', fr: 'Les musées présentent les tendances actuelles.', pt: 'Os museus apresentam as tendências atuais.' },
+    { level: 'B2', fr: 'Les tendances artistiques, nées à Nice, ont rayonné sur toute la Côte d’Azur.', pt: 'As tendências artísticas, nascidas em Nice, irradiaram por toda a Côte d’Azur.' },
+    { level: 'C1-C2', fr: 'Une ville qui suit les tendances sans les subir garde sa singularité.', pt: 'Uma cidade que segue as tendências sem sucumbir a elas guarda sua singularidade.' },
+  ],
 };
