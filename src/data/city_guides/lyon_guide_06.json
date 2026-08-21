@@ -1,0 +1,153 @@
+{
+  "id": "lyon_guide_06",
+  "cityId": "lyon",
+  "domain": "Esporte",
+  "level": "Misto (A1–C2)",
+  "titleFr": "Le sport à Lyon : la passion du football",
+  "titlePt": "O esporte em Lyon: a paixão pelo futebol",
+  "subtitleFr": "L'OL, le Groupama Stadium et les sports d'eau",
+  "subtitlePt": "O OL, o Groupama Stadium e os esportes aquáticos",
+  "summaryPt": "Enciclopédia de Lyon, seção 6: o esporte — o Olympique Lyonnais, o estádio, o basquete e os esportes aquáticos entre os dois rios. Vocabulário de esporte e emoções, com níveis mistos.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Le football est une religion à Lyon. L'Olympique Lyonnais, l'OL, est l'un des clubs les plus titrés de France, avec ses sept championnats remportés d'affilée. Le Groupama Stadium, immense enceinte moderne, accueille les matchs à guichets fermés. Les supporters chantent, applaudissent et vibrent dans les tribunes.",
+      "pt": "O futebol é uma religião em Lyon. O Olympique Lyonnais, o OL, é um dos clubes mais vitoriosos da França, com seus sete campeonatos ganhos em sequência. O Groupama Stadium, imensa arena moderna, recebe os jogos com ingressos esgotados. Os torcedores cantam, aplaudem e vibram nas arquibancadas."
+    },
+    {
+      "id": 2,
+      "fr": "Le club est aussi célèbre pour son équipe féminine, la plus titrée d'Europe. Les joueuses lyonnaises ont remporté de nombreux trophées et inspiré des générations de jeunes filles. Leur succès prouve que le football appartient à tous, sans exception.",
+      "pt": "O clube é também famoso por sua equipe feminina, a mais vitoriosa da Europa. As jogadoras lionesas ganharam numerosos troféus e inspiraram gerações de meninas. Seu sucesso prova que o futebol pertence a todos, sem exceção."
+    },
+    {
+      "id": 3,
+      "fr": "Le basket-ball lyonnais est aussi sur le devant de la scène. L'Asvel, club historique, joue ses matchs dans une salle moderne. Les matchs sont des spectacles : musique, danse, animations. Les familles y viennent nombreux, et l'ambiance est toujours électrique.",
+      "pt": "O basquete liones também está em evidência. A Asvel, clube histórico, joga suas partidas numa arena moderna. Os jogos são espetáculos: música, dança, animações. As famílias vão em grande número, e o clima é sempre elétrico."
+    },
+    {
+      "id": 4,
+      "fr": "Entre la Saône et le Rhône, les sports d'eau sont rois. Le kayak, l'aviron et la natation attirent des milliers de pratiquants. Les berges aménagées proposent des parcours de course et de vélo. Les Lyonnais aiment bouger, et la ville offre les moyens de le faire.",
+      "pt": "Entre o Saône e o Rhône, os esportes aquáticos são reis. O caiaque, o remo e a natação atraem milhares de praticantes. As margens requalificadas oferecem percursos de corrida e bicicleta. Os lioneses gostam de se mover, e a cidade oferece os meios para isso."
+    },
+    {
+      "id": 5,
+      "fr": "Le sport apprend la persévérance. Les jeunes athlètes s'entraînent des heures, acceptent les défaites et recommencent. Les entraîneurs transmettent leur passion avec exigence et bienveillance. Sur les terrains comme dans la vie, les Lyonnais savent que l'on gagne à force de travail.",
+      "pt": "O esporte ensina a perseverança. Os jovens atletas treinam por horas, aceitam as derrotas e recomeçam. Os treinadores transmitem sua paixão com exigência e benevolência. Nos campos como na vida, os lioneses sabem que se ganha à força de trabalho."
+    },
+    {
+      "id": 6,
+      "fr": "Enfin, le sport rassemble. Les matchs réunissent des gens de tous les quartiers, de tous les âges et de toutes les origines. Dans les tribunes, on oublie les différences pour partager une même émotion. C'est peut-être la plus belle victoire du sport : faire vibrer tout un peuple ensemble.",
+      "pt": "Por fim, o esporte une. Os jogos reúnem pessoas de todos os bairros, de todas as idades e de todas as origens. Nas arquibancadas, esquecem-se as diferenças para partilhar uma mesma emoção. Talvez seja a vitória mais bonita do esporte: fazer vibrar um povo inteiro junto."
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "remporter",
+      "definitionPt": "conquistar; vencer",
+      "definitionFr": "Gagner un prix, un match, une compétition.",
+      "inflections": ["remporter", "remporte", "remporté"],
+      "ptTargets": ["conquistar", "vencer", "ganhar"],
+      "examples": [
+        { "level": "A1", "fr": "Ils remportent le match.", "pt": "Eles vencem o jogo." },
+        { "level": "A2-B1", "fr": "L'OL a remporté sept championnats.", "pt": "O OL conquistou sete campeonatos." },
+        { "level": "B2", "fr": "Remporter une victoire demande plus que du talent.", "pt": "Conquistar uma vitória exige mais que talento." },
+        { "level": "C1-C2", "fr": "Les plus belles victoires se remportent sur soi-même.", "pt": "As vitórias mais bonitas são conquistadas sobre si mesmo." }
+      ]
+    },
+    {
+      "term": "d'affilée",
+      "definitionPt": "em sequência; seguido",
+      "definitionFr": "Sans interruption, l'un après l'autre.",
+      "inflections": ["d'affilée", "trois fois d'affilée"],
+      "ptTargets": ["em sequência", "seguido", "consecutivamente"],
+      "examples": [
+        { "level": "A1", "fr": "Il dort huit heures d'affilée.", "pt": "Ele dorme oito horas seguidas." },
+        { "level": "A2-B1", "fr": "L'OL a gagné sept titres d'affilée.", "pt": "O OL ganhou sete títulos seguidos." },
+        { "level": "B2", "fr": "Répéter un geste des heures d'affilée forge le talent.", "pt": "Repetir um gesto por horas seguidas forja o talento." },
+        { "level": "C1-C2", "fr": "Les jours d'affilée deviennent des années sans qu'on s'en aperçoive.", "pt": "Os dias seguidos viram anos sem que se perceba." }
+      ]
+    },
+    {
+      "term": "vibrer",
+      "definitionPt": "vibrar; emocionar-se",
+      "definitionFr": "Être très ému, ressentir une émotion intense.",
+      "inflections": ["vibrer", "vibre", "vibré"],
+      "ptTargets": ["vibrar", "emocionar-se"],
+      "examples": [
+        { "level": "A1", "fr": "La foule vibre.", "pt": "A multidão vibra." },
+        { "level": "A2-B1", "fr": "Les supporters vibrent dans les tribunes.", "pt": "Os torcedores vibram nas arquibancadas." },
+        { "level": "B2", "fr": "Vibrer pour un club, c'est vibrer pour une histoire commune.", "pt": "Vibrar por um clube é vibrar por uma história comum." },
+        { "level": "C1-C2", "fr": "Ceux qui savent vibrer n'ont jamais fini de vivre.", "pt": "Quem sabe vibrar nunca terminou de viver." }
+      ]
+    },
+    {
+      "term": "l'enceinte",
+      "definitionPt": "a arena; o recinto",
+      "definitionFr": "Espace clos, stade ou salle de spectacle.",
+      "inflections": ["l'enceinte", "les enceintes"],
+      "ptTargets": ["arena", "recinto", "estádio"],
+      "examples": [
+        { "level": "A1", "fr": "L'enceinte est grande.", "pt": "A arena é grande." },
+        { "level": "A2-B1", "fr": "Le Groupama Stadium est une immense enceinte.", "pt": "O Groupama Stadium é uma arena imensa." },
+        { "level": "B2", "fr": "L'enceinte se remplit peu à peu avant le match.", "pt": "A arena vai se enchendo aos poucos antes do jogo." },
+        { "level": "C1-C2", "fr": "Dans l'enceinte, dix mille voix ne font qu'un seul cœur.", "pt": "Na arena, dez mil vozes formam um único coração." }
+      ]
+    },
+    {
+      "term": "la persévérance",
+      "definitionPt": "a perseverança",
+      "definitionFr": "Qualité de celui qui persévère malgré les difficultés.",
+      "inflections": ["la persévérance", "une grande persévérance"],
+      "ptTargets": ["perseverança", "persistência"],
+      "examples": [
+        { "level": "A1", "fr": "La persévérance est importante.", "pt": "A perseverança é importante." },
+        { "level": "A2-B1", "fr": "Le sport apprend la persévérance.", "pt": "O esporte ensina a perseverança." },
+        { "level": "B2", "fr": "La persévérance transforme les échecs en leçons.", "pt": "A perseverança transforma fracassos em lições." },
+        { "level": "C1-C2", "fr": "La persévérance est le courage qui dure.", "pt": "A perseverança é a coragem que dura." }
+      ]
+    },
+    {
+      "term": "la bienveillance",
+      "definitionPt": "a benevolência; a bondade",
+      "definitionFr": "Disposition à vouloir le bien des autres.",
+      "inflections": ["la bienveillance", "avec bienveillance"],
+      "ptTargets": ["benevolência", "bondade", "cuidado"],
+      "examples": [
+        { "level": "A1", "fr": "La bienveillance est douce.", "pt": "A benevolência é doce." },
+        { "level": "A2-B1", "fr": "Les entraîneurs transmettent leur passion avec bienveillance.", "pt": "Os treinadores transmitem sua paixão com benevolência." },
+        { "level": "B2", "fr": "La bienveillance n'est pas la faiblesse, c'est la force éclairée.", "pt": "A benevolência não é fraqueza, é a força iluminada." },
+        { "level": "C1-C2", "fr": "La bienveillance est l'intelligence du cœur.", "pt": "A benevolência é a inteligência do coração." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "O comparativo de igualdade e superioridade",
+    "explanationPt": "Para comparar: plus... que (mais... que), aussi... que (tão... quanto), moins... que (menos... que). Exemplo: le plus titré, la plus belle victoire (superlativo).",
+    "exampleFr": "L'OL est l'un des clubs les plus titrés de France, et son équipe féminine est la plus titrée d'Europe.",
+    "examplePt": "O OL é um dos clubes mais vitoriosos da França, e sua equipe feminina é a mais vitoriosa da Europa.",
+    "practiceQuestion": "Complete: « L'équipe féminine est la ___ titrée d'Europe. »",
+    "options": ["plus", "très", "moins", "aussi"],
+    "correctIndex": 0,
+    "explanationPt": "Superlativo: 'la plus titrée'."
+  },
+  "quizQuestions": [
+    {
+      "question": "Combien de championnats d'affilée l'OL a-t-il remportés ?",
+      "options": ["Sept", "Deux", "Douze", "Un seul"],
+      "correctIndex": 0,
+      "explanation": "L'OL a remporté sept championnats d'affilée."
+    },
+    {
+      "question": "Quelle équipe est la plus titrée d'Europe ?",
+      "options": ["L'équipe féminine de l'OL", "L'équipe masculine de l'OL", "L'équipe de basket de l'Asvel", "L'équipe de kayak"],
+      "correctIndex": 0,
+      "explanation": "L'équipe féminine de l'OL est la plus titrée d'Europe."
+    },
+    {
+      "question": "Quels sports d'eau pratique-t-on à Lyon ?",
+      "options": ["Le kayak, l'aviron et la natation", "Le surf et la plongée", "Le ski nautique uniquement", "La voile en haute mer"],
+      "correctIndex": 0,
+      "explanation": "Entre la Saône et le Rhône, le kayak, l'aviron et la natation sont populaires."
+    }
+  ]
+}

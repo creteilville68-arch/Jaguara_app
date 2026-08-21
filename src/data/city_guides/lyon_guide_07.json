@@ -1,0 +1,153 @@
+{
+  "id": "lyon_guide_07",
+  "cityId": "lyon",
+  "domain": "Natureza",
+  "level": "Misto (A1–C2)",
+  "titleFr": "Entre Saône et Rhône : la ville des deux fleuves",
+  "titlePt": "Entre Saône e Rhône: a cidade dos dois rios",
+  "subtitleFr": "Berges aménagées, confluent et vie au fil de l'eau",
+  "subtitlePt": "Margens requalificadas, confluência e vida à beira d'água",
+  "summaryPt": "Enciclopédia de Lyon, seção 7: os dois rios — a Saône e o Rhône, a confluência, as margens e a vida ao longo da água. Vocabulário de natureza e cidade, com níveis mistos.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Lyon est née entre deux fleuves. La Saône, douce et paisible, traverse le vieux Lyon. Le Rhône, puissant et rapide, court le long des quartiers modernes. Leur confluent, au sud de la ville, est un lieu symbolique où les deux eaux se rencontrent.",
+      "pt": "Lyon nasceu entre dois rios. O Saône, doce e tranquilo, atravessa o Vieux Lyon. O Rhône, poderoso e rápido, corre ao longo dos bairros modernos. Sua confluência, ao sul da cidade, é um lugar simbólico onde as duas águas se encontram."
+    },
+    {
+      "id": 2,
+      "fr": "Les berges aménagées sont devenues des lieux de vie exceptionnels. Les familles y pique-niquent, les joggers y courent, les amoureux s'y promènent. Des escaliers descendent vers l'eau, des pontons accueillent les bateaux. La ville a reconquis ses rives avec intelligence.",
+      "pt": "As margens requalificadas viraram lugares de vida excepcionais. As famílias fazem piquenique ali, os corredores correm, os apaixonados passeiam. Escadarias descem até a água, pontões recebem os barcos. A cidade reconquistou suas margens com inteligência."
+    },
+    {
+      "id": 3,
+      "fr": "Le Rhône est l'un des fleuves les plus puissants d'Europe. Sa force a longtemps effrayé les habitants, qui construisaient des digues pour se protéger des crues. Aujourd'hui, les ingénieurs surveillent son niveau et gèrent ses eaux avec précision.",
+      "pt": "O Rhône é um dos rios mais poderosos da Europa. Sua força assustou por muito tempo os moradores, que construíam diques para se proteger das cheias. Hoje, os engenheiros vigiam seu nível e gerenciam suas águas com precisão."
+    },
+    {
+      "id": 4,
+      "fr": "Les quais de la Saône, bordés de maisons colorées, comptent parmi les plus beaux de France. Les façades se reflètent dans l'eau, les péniches s'amarrent le long des berges. Le soir, les lumières dansent sur le fleuve, et la ville entière semble suspendue.",
+      "pt": "Os cais do Saône, ladeados de casas coloridas, estão entre os mais bonitos da França. As fachadas se refletem na água, as barcaças atracam ao longo das margens. À noite, as luzes dançam sobre o rio, e a cidade inteira parece suspensa."
+    },
+    {
+      "id": 5,
+      "fr": "Les croisières fluviales permettent de découvrir Lyon autrement. Les bateaux glissent entre les deux fleuves, offrant une vue unique sur les monuments. Les passagers écoutent l'histoire des quais, des ponts et des quartiers. L'eau raconte la ville mieux que les rues.",
+      "pt": "Os cruzeiros fluviais permitem descobrir Lyon de outro jeito. Os barcos deslizam entre os dois rios, oferecendo uma vista única sobre os monumentos. Os passageiros escutam a história dos cais, das pontes e dos bairros. A água conta a cidade melhor que as ruas."
+    },
+    {
+      "id": 6,
+      "fr": "La confluence est aussi un symbole : celui de deux mondes qui s'unissent. Le quartier de la Confluence, construit sur d'anciens terrains industriels, est devenu un laboratoire urbain. Les architectes y expérimentent des formes nouvelles, entre fleuves et futurs.",
+      "pt": "A confluência é também um símbolo: o de dois mundos que se unem. O bairro da Confluência, construído sobre antigos terrenos industriais, virou um laboratório urbano. Os arquitetos experimentam ali formas novas, entre rios e futuros."
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "le confluent",
+      "definitionPt": "a confluência",
+      "definitionFr": "Endroit où deux cours d'eau se rejoignent.",
+      "inflections": ["le confluent", "les confluents"],
+      "ptTargets": ["confluência", "encontro de rios"],
+      "examples": [
+        { "level": "A1", "fr": "Le confluent est au sud.", "pt": "A confluência fica ao sul." },
+        { "level": "A2-B1", "fr": "La Saône et le Rhône se rejoignent au confluent.", "pt": "O Saône e o Rhône se encontram na confluência." },
+        { "level": "B2", "fr": "Le confluent est un lieu où deux histoires deviennent une.", "pt": "A confluência é um lugar onde duas histórias viram uma." },
+        { "level": "C1-C2", "fr": "Nos vies sont des confluents de rencontres et de hasards.", "pt": "Nossas vidas são confluências de encontros e acasos." }
+      ]
+    },
+    {
+      "term": "aménager",
+      "definitionPt": "requalificar; planejar o espaço",
+      "definitionFr": "Organiser, transformer un espace pour un usage précis.",
+      "inflections": ["aménager", "aménage", "aménagé"],
+      "ptTargets": ["requalificar", "planejar", "organizar o espaço"],
+      "examples": [
+        { "level": "A1", "fr": "Ils aménagent le parc.", "pt": "Eles planejam o parque." },
+        { "level": "A2-B1", "fr": "Les berges aménagées sont devenues des lieux de vie.", "pt": "As margens requalificadas viraram lugares de vida." },
+        { "level": "B2", "fr": "Aménager une ville, c'est écouter ses habitants.", "pt": "Planejar uma cidade é escutar seus moradores." },
+        { "level": "C1-C2", "fr": "Aménager, c'est donner une forme à ce que l'on espère.", "pt": "Planejar é dar forma ao que se espera." }
+      ]
+    },
+    {
+      "term": "reconquérir",
+      "definitionPt": "reconquistar",
+      "definitionFr": "Reprendre ce que l'on avait perdu.",
+      "inflections": ["reconquérir", "reconquiert", "reconquis"],
+      "ptTargets": ["reconquistar", "recuperar"],
+      "examples": [
+        { "level": "A1", "fr": "Ils reconquièrent le terrain.", "pt": "Eles reconquistam o terreno." },
+        { "level": "A2-B1", "fr": "La ville a reconquis ses rives.", "pt": "A cidade reconquistou suas margens." },
+        { "level": "B2", "fr": "Reconquérir sa confiance demande du temps.", "pt": "Reconquistar a confiança exige tempo." },
+        { "level": "C1-C2", "fr": "Reconquérir, c'est retrouver ce que l'on n'aurait jamais dû perdre.", "pt": "Reconquistar é reencontrar o que nunca se deveria ter perdido." }
+      ]
+    },
+    {
+      "term": "la crue",
+      "definitionPt": "a cheia; a enchente",
+      "definitionFr": "Montée anormale du niveau d'un cours d'eau.",
+      "inflections": ["la crue", "les crues"],
+      "ptTargets": ["cheia", "enchente", "inundação"],
+      "examples": [
+        { "level": "A1", "fr": "La crue est arrivée.", "pt": "A cheia chegou." },
+        { "level": "A2-B1", "fr": "Les habitants construisaient des digues contre les crues.", "pt": "Os moradores construíam diques contra as cheias." },
+        { "level": "B2", "fr": "La crue rappelle que le fleuve garde sa liberté.", "pt": "A cheia lembra que o rio guarda sua liberdade." },
+        { "level": "C1-C2", "fr": "Après la crue, la vie reprend, plus attentive à l'eau.", "pt": "Depois da cheia, a vida recomeça, mais atenta à água." }
+      ]
+    },
+    {
+      "term": "suspendu",
+      "definitionPt": "suspenso; pendurado",
+      "definitionFr": "Qui reste en l'air, immobile.",
+      "inflections": ["suspendu", "suspendue", "suspendus"],
+      "ptTargets": ["suspenso", "pendurado", "suspensa"],
+      "examples": [
+        { "level": "A1", "fr": "Le ballon est suspendu.", "pt": "O balão está suspenso." },
+        { "level": "A2-B1", "fr": "La ville entière semble suspendue.", "pt": "A cidade inteira parece suspensa." },
+        { "level": "B2", "fr": "Il y a des instants où le temps semble suspendu.", "pt": "Há instantes em que o tempo parece suspenso." },
+        { "level": "C1-C2", "fr": "La beauté est un moment suspendu entre l'éternité et l'oubli.", "pt": "A beleza é um momento suspenso entre a eternidade e o esquecimento." }
+      ]
+    },
+    {
+      "term": "s'unir",
+      "definitionPt": "unir-se",
+      "definitionFr": "Se joindre, se rassembler en un seul ensemble.",
+      "inflections": ["s'unir", "s'unit", "uni"],
+      "ptTargets": ["unir-se", "juntar-se"],
+      "examples": [
+        { "level": "A1", "fr": "Les familles s'unissent.", "pt": "As famílias se unem." },
+        { "level": "A2-B1", "fr": "Les deux fleuves s'unissent au confluent.", "pt": "Os dois rios se unem na confluência." },
+        { "level": "B2", "fr": "S'unir, c'est devenir plus fort sans cesser d'être soi.", "pt": "Unir-se é ficar mais forte sem deixar de ser si mesmo." },
+        { "level": "C1-C2", "fr": "Les peuples qui s'unissent écrivent des histoires plus grandes.", "pt": "Os povos que se unem escrevem histórias maiores." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "A voz passiva e o particípio passado adjetivo",
+    "explanationPt": "As descrições urbanas usam o particípio passado como adjetivo: des berges aménagées (margens requalificadas), des digues construites (diques construídos), bordés de maisons (ladeados de casas).",
+    "exampleFr": "Les quais bordés de maisons colorées se reflètent dans l'eau calme de la Saône.",
+    "examplePt": "Os cais ladeados de casas coloridas se refletem na água calma do Saône.",
+    "practiceQuestion": "Complete: « Les berges ___ sont devenues des lieux de vie. »",
+    "options": ["aménagées", "aménageant", "aménager", "aménageaient"],
+    "correctIndex": 0,
+    "explanationPt": "Particípio passado adjetivo: 'des berges aménagées'."
+  },
+  "quizQuestions": [
+    {
+      "question": "Quels sont les deux fleuves de Lyon ?",
+      "options": ["La Saône et le Rhône", "La Seine et la Marne", "La Loire et le Cher", "La Garonne et le Tarn"],
+      "correctIndex": 0,
+      "explanation": "La Saône et le Rhône traversent Lyon et se rejoignent au confluent."
+    },
+    {
+      "question": "Pourquoi les habitants construisaient-ils des digues ?",
+      "options": ["Pour se protéger des crues", "Pour pêcher", "Pour les promenades", "Pour les bateaux"],
+      "correctIndex": 0,
+      "explanation": "La force du Rhône effrayait, et les digues protégeaient des crues."
+    },
+    {
+      "question": "Qu'est devenu le quartier de la Confluence ?",
+      "options": ["Un laboratoire urbain", "Un port de pêche", "Une réserve naturelle", "Un aéroport"],
+      "correctIndex": 0,
+      "explanation": "Le quartier de la Confluence, sur d'anciens terrains industriels, est un laboratoire urbain."
+    }
+  ]
+}

@@ -71,4 +71,10 @@ export const LYON_BACKLOG_EXAMPLES: Record<string, MasterExample[]> = {
     { level: 'B2', fr: 'Cette architecture associe une façade ancienne à une structure moderne.', pt: 'Essa arquitetura associa uma fachada antiga a uma estrutura moderna.' },
     { level: 'C1-C2', fr: 'L’architecture d’une ville révèle les choix sociaux et techniques de chaque époque.', pt: 'A arquitetura de uma cidade revela as escolhas sociais e técnicas de cada época.' },
   ],
+  "d'anciens": [
+    { level: 'A1', fr: "Ce sont d'anciens livres.", pt: 'São livros antigos.' },
+    { level: 'A2-B1', fr: "Le quartier est construit sur d'anciens terrains industriels.", pt: 'O bairro é construído sobre antigos terrenos industriais.' },
+    { level: 'B2', fr: "D'anciens bâtiments abritent aujourd'hui des ateliers d'artistes.", pt: 'Antigos prédios abrigam hoje ateliês de artistas.' },
+    { level: 'C1-C2', fr: "D'anciens rêves reviennent parfois nous chercher au détour d'une rue.", pt: 'Antigos sonhos às vezes voltam para nos buscar na curva de uma rua.' },
+  ],
 };

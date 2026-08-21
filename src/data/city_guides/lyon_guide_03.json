@@ -1,0 +1,153 @@
+{
+  "id": "lyon_guide_03",
+  "cityId": "lyon",
+  "domain": "Patrimônio",
+  "level": "Misto (A1–C2)",
+  "titleFr": "Les traboules : les passages secrets de Lyon",
+  "titlePt": "As traboules: as passagens secretas de Lyon",
+  "subtitleFr": "Des couloirs mystérieux entre les immeubles",
+  "subtitlePt": "Corredores misteriosos entre os prédios",
+  "summaryPt": "Enciclopédia de Lyon, seção 3: as traboules — os corredores secretos que atravessam os quarteirões e contam a história da cidade. Vocabulário de arquitetura e história, com níveis mistos.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Les traboules sont le secret le mieux gardé de Lyon. Ces passages couverts traversent les immeubles, reliant les rues sans passer par les carrefours. À Lyon, on en compte plus de quatre cents, surtout dans les quartiers du Vieux Lyon et de la Croix-Rousse.",
+      "pt": "As traboules são o segredo mais bem guardado de Lyon. Esses corredores cobertos atravessam os prédios, ligando as ruas sem passar pelos cruzamentos. Em Lyon, contam-se mais de quatrocentas, principalmente nos bairros do Vieux Lyon e da Croix-Rousse."
+    },
+    {
+      "id": 2,
+      "fr": "À l'origine, les traboules servaient aux canuts : ils transportaient les étoffes de soie à l'abri de la pluie. Les marchands les utilisaient pour livrer leurs marchandises sans passer par les rues principales. Ces couloirs étaient aussi des raccourcis pratiques pour les habitants.",
+      "pt": "Na origem, as traboules serviam aos canuts: eles transportavam os tecidos de seda ao abrigo da chuva. Os mercadores as usavam para entregar mercadorias sem passar pelas ruas principais. Esses corredores eram também atalhos práticos para os moradores."
+    },
+    {
+      "id": 3,
+      "fr": "Pendant la Résistance, les traboules devinrent des passages stratégiques. Elles permettaient de se déplacer discrètement, d'échapper aux patrouilles et de transporter des messages. La ville entière était un réseau de cachettes et de chemins invisibles.",
+      "pt": "Durante a Resistência, as traboules viraram passagens estratégicas. Permitiam se deslocar discretamente, escapar das patrulhas e transportar mensagens. A cidade inteira era uma rede de esconderijos e caminhos invisíveis."
+    },
+    {
+      "id": 4,
+      "fr": "Aujourd'hui, certaines traboules se visitent, d'autres restent privées. Les habitants ouvrent parfois leurs cours intérieures aux visiteurs, avec une fierté discrète. Chaque passage cache des escaliers en colimaçon, des puits anciens et des cours aux pavés usés par les siècles.",
+      "pt": "Hoje, algumas traboules podem ser visitadas, outras continuam privadas. Os moradores às vezes abrem seus pátios internos aos visitantes, com um orgulho discreto. Cada passagem esconde escadarias em caracol, poços antigos e pátios de paralelepípedos gastos pelos séculos."
+    },
+    {
+      "id": 5,
+      "fr": "Se perdre dans les traboules est une expérience unique. On passe d'une cour fleurie à un escalier sombre, puis d'un couloir étroit à une place ensoleillée. Les murs gardent la mémoire des siècles : pierres dorées, briques, graffitis anciens.",
+      "pt": "Perder-se nas traboules é uma experiência única. Passa-se de um pátio florido a uma escadaria escura, depois de um corredor estreito a uma praça ensolarada. As paredes guardam a memória dos séculos: pedras douradas, tijolos, grafites antigos."
+    },
+    {
+      "id": 6,
+      "fr": "Les traboules symbolisent l'âme de Lyon : une ville discrète, ingénieuse et fière de ses secrets. Elles rappellent que la beauté se cache parfois dans les passages que l'on ne remarque pas. Les visiteurs qui les découvrent comprennent pourquoi Lyon fascine autant.",
+      "pt": "As traboules simbolizam a alma de Lyon: uma cidade discreta, engenhosa e orgulhosa de seus segredos. Elas lembram que a beleza se esconde às vezes nas passagens que não se notam. Os visitantes que as descobrem entendem por que Lyon fascina tanto."
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "la traboule",
+      "definitionPt": "a traboule (passagem coberta entre prédios)",
+      "definitionFr": "Passage couvert traversant un immeuble pour relier deux rues.",
+      "inflections": ["la traboule", "les traboules"],
+      "ptTargets": ["traboule", "passagem coberta", "corredor secreto"],
+      "examples": [
+        { "level": "A1", "fr": "La traboule est sombre.", "pt": "A traboule é escura." },
+        { "level": "A2-B1", "fr": "Les traboules relient les rues de Lyon.", "pt": "As traboules ligam as ruas de Lyon." },
+        { "level": "B2", "fr": "La traboule est un raccourci chargé d'histoire.", "pt": "A traboule é um atalho carregado de história." },
+        { "level": "C1-C2", "fr": "Chaque traboule est une porte entre deux mondes.", "pt": "Cada traboule é uma porta entre dois mundos." }
+      ]
+    },
+    {
+      "term": "le raccourci",
+      "definitionPt": "o atalho",
+      "definitionFr": "Chemin plus court pour aller d'un point à un autre.",
+      "inflections": ["le raccourci", "les raccourcis"],
+      "ptTargets": ["atalho", "caminho mais curto"],
+      "examples": [
+        { "level": "A1", "fr": "Je connais un raccourci.", "pt": "Eu conheço um atalho." },
+        { "level": "A2-B1", "fr": "Les traboules étaient des raccourcis pratiques.", "pt": "As traboules eram atalhos práticos." },
+        { "level": "B2", "fr": "Le raccourci fait gagner du temps, mais parfois on rate l'essentiel.", "pt": "O atalho faz ganhar tempo, mas às vezes perdemos o essencial." },
+        { "level": "C1-C2", "fr": "La mémoire est un raccourci vers ce que nous avons aimé.", "pt": "A memória é um atalho para o que amamos." }
+      ]
+    },
+    {
+      "term": "stratégique",
+      "definitionPt": "estratégico",
+      "definitionFr": "Qui joue un rôle décisif dans une action.",
+      "inflections": ["stratégique", "stratégiques"],
+      "ptTargets": ["estratégico", "decisivo"],
+      "examples": [
+        { "level": "A1", "fr": "C'est un point stratégique.", "pt": "É um ponto estratégico." },
+        { "level": "A2-B1", "fr": "Les traboules devinrent des passages stratégiques.", "pt": "As traboules viraram passagens estratégicas." },
+        { "level": "B2", "fr": "Une décision stratégique demande du recul.", "pt": "Uma decisão estratégica exige distanciamento." },
+        { "level": "C1-C2", "fr": "Le silence est parfois la stratégie la plus efficace.", "pt": "O silêncio às vezes é a estratégia mais eficaz." }
+      ]
+    },
+    {
+      "term": "se cacher",
+      "definitionPt": "esconder-se",
+      "definitionFr": "Se mettre à l'abri des regards.",
+      "inflections": ["se cacher", "se cache", "caché"],
+      "ptTargets": ["esconder-se", "ocultar-se"],
+      "examples": [
+        { "level": "A1", "fr": "Le chat se cache.", "pt": "O gato se esconde." },
+        { "level": "A2-B1", "fr": "La beauté se cache parfois dans les passages discrets.", "pt": "A beleza se esconde às vezes nas passagens discretas." },
+        { "level": "B2", "fr": "Se cacher, c'est parfois protéger ce qui compte.", "pt": "Esconder-se às vezes é proteger o que importa." },
+        { "level": "C1-C2", "fr": "Les plus grandes richesses se cachent dans les plus petits détails.", "pt": "As maiores riquezas se escondem nos menores detalhes." }
+      ]
+    },
+    {
+      "term": "l'escalier en colimaçon",
+      "definitionPt": "a escadaria em caracol",
+      "definitionFr": "Escalier en spirale autour d'un axe central.",
+      "inflections": ["l'escalier en colimaçon", "les escaliers en colimaçon"],
+      "ptTargets": ["escadaria em caracol", "escada em espiral"],
+      "examples": [
+        { "level": "A1", "fr": "L'escalier en colimaçon est étroit.", "pt": "A escadaria em caracol é estreita." },
+        { "level": "A2-B1", "fr": "Chaque passage cache un escalier en colimaçon.", "pt": "Cada passagem esconde uma escadaria em caracol." },
+        { "level": "B2", "fr": "L'escalier en colimaçon est une spirale de pierre.", "pt": "A escadaria em caracol é uma espiral de pedra." },
+        { "level": "C1-C2", "fr": "Comme un escalier en colimaçon, la mémoire monte en tournant.", "pt": "Como uma escadaria em caracol, a memória sobe girando." }
+      ]
+    },
+    {
+      "term": "symboliser",
+      "definitionPt": "simbolizar",
+      "definitionFr": "Représenter quelque chose par un symbole.",
+      "inflections": ["symboliser", "symbolise", "symbolisé"],
+      "ptTargets": ["simbolizar", "representar"],
+      "examples": [
+        { "level": "A1", "fr": "La colombe symbolise la paix.", "pt": "A pomba simboliza a paz." },
+        { "level": "A2-B1", "fr": "Les traboules symbolisent l'âme de Lyon.", "pt": "As traboules simbolizam a alma de Lyon." },
+        { "level": "B2", "fr": "Chaque ville symbolise une idée à sa manière.", "pt": "Cada cidade simboliza uma ideia à sua maneira." },
+        { "level": "C1-C2", "fr": "Ce que nous construisons symbolise ce que nous espérons.", "pt": "O que construímos simboliza o que esperamos." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "As preposições de movimento e lugar",
+    "explanationPt": "Para descrever deslocamentos: passer par (passar por), traverser (atravessar), relier (ligar), passer d'une cour à un escalier (passar de um pátio a uma escadaria). 'À l'abri de' significa ao abrigo de.",
+    "exampleFr": "On passe d'une cour fleurie à un escalier sombre, puis d'un couloir étroit à une place ensoleillée.",
+    "examplePt": "Passa-se de um pátio florido a uma escadaria escura, depois de um corredor estreito a uma praça ensolarada.",
+    "practiceQuestion": "Complete: « Les canuts transportaient la soie ___ la pluie. »",
+    "options": ["à l'abri de", "dans", "au-dessus de", "sans"],
+    "correctIndex": 0,
+    "explanationPt": "'À l'abri de la pluie': ao abrigo da chuva."
+  },
+  "quizQuestions": [
+    {
+      "question": "Que sont les traboules ?",
+      "options": ["Des passages couverts entre les immeubles", "Des églises", "Des marchés", "Des ponts"],
+      "correctIndex": 0,
+      "explanation": "Les traboules sont des passages couverts qui traversent les immeubles."
+    },
+    {
+      "question": "Combien de traboules compte Lyon ?",
+      "options": ["Plus de quatre cents", "Dix", "Mille cinq cents", "Cinquante"],
+      "correctIndex": 0,
+      "explanation": "On compte plus de quatre cents traboules à Lyon."
+    },
+    {
+      "question": "Quel rôle jouèrent les traboules pendant la Résistance ?",
+      "options": ["Passages stratégiques pour se déplacer discrètement", "Salles de réunion officielles", "Centres de propagande", "Cachots publics"],
+      "correctIndex": 0,
+      "explanation": "Elles permettaient de se déplacer discrètement et d'échapper aux patrouilles."
+    }
+  ]
+}

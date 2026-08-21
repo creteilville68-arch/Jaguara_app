@@ -1,0 +1,153 @@
+{
+  "id": "lyon_guide_01",
+  "cityId": "lyon",
+  "domain": "História",
+  "level": "Misto (A1–C2)",
+  "titleFr": "Lyon : deux mille ans d'histoire",
+  "titlePt": "Lyon: dois mil anos de história",
+  "subtitleFr": "De Lugdunum à la ville entre deux fleuves",
+  "subtitlePt": "De Lugdunum à cidade entre dois rios",
+  "summaryPt": "Enciclopédia de Lyon, seção 1: a história da cidade — fundada pelos romanos como Lugdunum, capital das Gálias, até a metrópole de hoje. Vocabulário de história e cidade, com níveis mistos.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Lyon est née il y a deux mille ans, sur une colline surplombant la Saône. Les Romains y fondèrent Lugdunum, qui devint la capitale des Gaules. Des temples, des théâtres et des aqueducs s'élevèrent sur la colline de Fourvière. Aujourd'hui encore, les fouilles archéologiques révèlent les vestiges de cette ville immense.",
+      "pt": "Lyon nasceu há dois mil anos, numa colina com vista para o Saône. Os romanos fundaram ali Lugdunum, que virou a capital das Gálias. Templos, teatros e aquedutos se ergueram na colina de Fourvière. Ainda hoje, as escavações arqueológicas revelam os vestígios dessa cidade imensa."
+    },
+    {
+      "id": 2,
+      "fr": "Au Moyen Âge, Lyon devint une ville de commerce et de banque. Les marchands italiens et flamands s'y installèrent, attirés par les foires. Les imprimeurs y publièrent des livres dans toute l'Europe. La ville prospéra, et ses quartiers s'étendirent entre les deux fleuves.",
+      "pt": "Na Idade Média, Lyon virou uma cidade de comércio e de banco. Os mercadores italianos e flamengos se instalaram ali, atraídos pelas feiras. Os impressores publicaram ali livros para toda a Europa. A cidade prosperou, e seus bairros se estenderam entre os dois rios."
+    },
+    {
+      "id": 3,
+      "fr": "À la Renaissance, Lyon fut un grand centre intellectuel et artistique. Les imprimeurs, les humanistes et les poètes s'y croisaient dans les cours et les librairies. Les banquiers y finançaient les expéditions et les rois y séjournaient souvent. Cette époque dorée laissa des palais et des hôtels magnifiques.",
+      "pt": "Na Renascença, Lyon foi um grande centro intelectual e artístico. Impressores, humanistas e poetas se cruzavam ali nos pátios e livrarias. Os banqueiros financiavam as expedições, e os reis costumavam se hospedar lá. Essa época dourada deixou palácios e casarões magníficos."
+    },
+    {
+      "id": 4,
+      "fr": "Au XIXe siècle, la révolution industrielle transforma la ville. Les usines de soie s'installèrent sur les collines, et les quartiers ouvriers s'étendirent. La ville se modernisa : chemins de fer, ponts métalliques, grands boulevards. Lyon devint la capitale de la soie et une grande ville ouvrière.",
+      "pt": "No século XIX, a revolução industrial transformou a cidade. As fábricas de seda se instalaram nas colinas, e os bairros operários se estenderam. A cidade se modernizou: ferrovias, pontes metálicas, grandes avenidas. Lyon virou a capital da seda e uma grande cidade operária."
+    },
+    {
+      "id": 5,
+      "fr": "Pendant la Seconde Guerre mondiale, Lyon fut un centre de la Résistance. Les habitants cachèrent des réfugiés, imprimèrent des journaux clandestins et organisèrent des réseaux d'évasion. Des plaques commémorent aujourd'hui ces actes de courage, pour que la mémoire ne s'efface pas.",
+      "pt": "Durante a Segunda Guerra Mundial, Lyon foi um centro da Resistência. Os moradores esconderam refugiados, imprimiram jornais clandestinos e organizaram redes de fuga. Placas comemoram hoje esses atos de coragem, para que a memória não se apague."
+    },
+    {
+      "id": 6,
+      "fr": "Aujourd'hui, Lyon est la troisième ville de France, classée au patrimoine mondial. Son centre historique, ses traboules et ses bouchons attirent des millions de visiteurs. Entre gastronomie, cinéma et innovation, la ville de Lugdunum continue d'écrire son histoire.",
+      "pt": "Hoje, Lyon é a terceira cidade da França, tombada como patrimônio mundial. Seu centro histórico, suas traboules e seus bouchons atraem milhões de visitantes. Entre gastronomia, cinema e inovação, a cidade de Lugdunum continua escrevendo sua história."
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "surplomber",
+      "definitionPt": "dominar (vista); estar acima de",
+      "definitionFr": "Être au-dessus de, dominer par sa hauteur.",
+      "inflections": ["surplomber", "surplombe", "surplombé"],
+      "ptTargets": ["dominar", "estar acima de", "ter vista para"],
+      "examples": [
+        { "level": "A1", "fr": "La colline surplombe la ville.", "pt": "A colina domina a cidade." },
+        { "level": "A2-B1", "fr": "Lyon est née sur une colline surplombant la Saône.", "pt": "Lyon nasceu numa colina com vista para o Saône." },
+        { "level": "B2", "fr": "Surplomber, c'est voir sans être vu.", "pt": "Dominar é ver sem ser visto." },
+        { "level": "C1-C2", "fr": "Le passé surplombe nos vies sans que nous le remarquions.", "pt": "O passado domina nossas vidas sem que o notemos." }
+      ]
+    },
+    {
+      "term": "s'élever",
+      "definitionPt": "erguer-se; elevar-se",
+      "definitionFr": "Se dresser, monter vers le haut.",
+      "inflections": ["s'élever", "s'élève", "élevé"],
+      "ptTargets": ["erguer-se", "elevar-se", "subir"],
+      "examples": [
+        { "level": "A1", "fr": "La tour s'élève dans le ciel.", "pt": "A torre se ergue no céu." },
+        { "level": "A2-B1", "fr": "Des temples s'élevèrent sur la colline.", "pt": "Templos se ergueram na colina." },
+        { "level": "B2", "fr": "S'élever, c'est prendre de la hauteur sur sa propre vie.", "pt": "Elevar-se é ganhar altura sobre a própria vida." },
+        { "level": "C1-C2", "fr": "Le chant s'élève et le monde retient son souffle.", "pt": "O canto se eleva e o mundo prende a respiração." }
+      ]
+    },
+    {
+      "term": "prospérer",
+      "definitionPt": "prosperar",
+      "definitionFr": "Se développer avec succès, s'enrichir.",
+      "inflections": ["prospérer", "prospère", "prospéré"],
+      "ptTargets": ["prosperar", "florescer"],
+      "examples": [
+        { "level": "A1", "fr": "La ville prospère.", "pt": "A cidade prospera." },
+        { "level": "A2-B1", "fr": "La ville prospéra grâce au commerce.", "pt": "A cidade prosperou graças ao comércio." },
+        { "level": "B2", "fr": "Prospérer durablement, c'est penser aux générations suivantes.", "pt": "Prosperar de forma duradoura é pensar nas próximas gerações." },
+        { "level": "C1-C2", "fr": "Une société prospère se reconnaît à ses écoles autant qu'à ses banques.", "pt": "Uma sociedade próspera se reconhece por suas escolas tanto quanto por seus bancos." }
+      ]
+    },
+    {
+      "term": "s'étendre",
+      "definitionPt": "estender-se",
+      "definitionFr": "Occuper un espace de plus en plus grand.",
+      "inflections": ["s'étendre", "s'étend", "étendu"],
+      "ptTargets": ["estender-se", "expandir-se"],
+      "examples": [
+        { "level": "A1", "fr": "La ville s'étend.", "pt": "A cidade se estende." },
+        { "level": "A2-B1", "fr": "Les quartiers s'étendirent entre les deux fleuves.", "pt": "Os bairros se estenderam entre os dois rios." },
+        { "level": "B2", "fr": "S'étendre sans plan, c'est risquer de perdre son âme.", "pt": "Expandir-se sem plano é arriscar perder a alma." },
+        { "level": "C1-C2", "fr": "Une ville s'étend comme une mémoire : en couches.", "pt": "Uma cidade se estende como uma memória: em camadas." }
+      ]
+    },
+    {
+      "term": "commémorer",
+      "definitionPt": "comemorar; homenagear",
+      "definitionFr": "Célébrer la mémoire d'un événement ou d'une personne.",
+      "inflections": ["commémorer", "commémore", "commémoré"],
+      "ptTargets": ["comemorar", "homenagear", "celebrar a memória"],
+      "examples": [
+        { "level": "A1", "fr": "Ils commémorent la fête.", "pt": "Eles comemoram a festa." },
+        { "level": "A2-B1", "fr": "Des plaques commémorent les actes de courage.", "pt": "Placas comemoram os atos de coragem." },
+        { "level": "B2", "fr": "Commémorer, c'est rendre présent ce qui pourrait s'effacer.", "pt": "Comemorar é tornar presente o que poderia se apagar." },
+        { "level": "C1-C2", "fr": "On commémore pour que les oubliés retrouvent leur nom.", "pt": "Comemora-se para que os esquecidos reencontrem seu nome." }
+      ]
+    },
+    {
+      "term": "s'effacer",
+      "definitionPt": "apagar-se; desvanecer-se",
+      "definitionFr": "Disparaître peu à peu, perdre de sa netteté.",
+      "inflections": ["s'effacer", "s'efface", "effacé"],
+      "ptTargets": ["apagar-se", "desvanecer-se", "sumir"],
+      "examples": [
+        { "level": "A1", "fr": "L'écriture s'efface.", "pt": "A escrita se apaga." },
+        { "level": "A2-B1", "fr": "La mémoire ne doit pas s'effacer.", "pt": "A memória não deve se apagar." },
+        { "level": "B2", "fr": "Certains souvenirs s'effacent, d'autres nous choisissent.", "pt": "Algumas lembranças se apagam, outras nos escolhem." },
+        { "level": "C1-C2", "fr": "Ce qui s'efface avec le temps laisse parfois la plus belle trace.", "pt": "O que se apaga com o tempo às vezes deixa o rastro mais bonito." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Passé simple e a narrativa histórica",
+    "explanationPt": "Na história de Lyon, o passé simple marca os acontecimentos (fondèrent, devint, s'élevèrent, prospéra, transforma). O imparfait descreve o cenário (les marchands s'y croisaient, les usines s'installaient).",
+    "exampleFr": "Les Romains fondèrent Lugdunum, la ville prospéra, et l'industrie transforma Lyon.",
+    "examplePt": "Os romanos fundaram Lugdunum, a cidade prosperou, e a indústria transformou Lyon.",
+    "practiceQuestion": "Complete: « Au XIXe siècle, la révolution industrielle ___ la ville. »",
+    "options": ["transforma", "transforme", "transformera", "a transformé"],
+    "correctIndex": 0,
+    "explanationPt": "Passé simple de 'transformer': 'transforma'."
+  },
+  "quizQuestions": [
+    {
+      "question": "Comment s'appelait Lyon à l'époque romaine ?",
+      "options": ["Lugdunum", "Lutetia", "Burdigala", "Caesarodunum"],
+      "correctIndex": 0,
+      "explanation": "Les Romains fondèrent Lugdunum, capitale des Gaules."
+    },
+    {
+      "question": "Quelle industrie fit la renommée de Lyon au XIXe siècle ?",
+      "options": ["La soie", "Le charbon", "Le pétrole", "Le coton"],
+      "correctIndex": 0,
+      "explanation": "Lyon devint la capitale de la soie au XIXe siècle."
+    },
+    {
+      "question": "Quel rôle joua Lyon pendant la Seconde Guerre mondiale ?",
+      "options": ["Centre de la Résistance", "Base militaire ennemie", "Ville abandonnée", "Port de guerre"],
+      "correctIndex": 0,
+      "explanation": "Lyon fut un centre important de la Résistance."
+    }
+  ]
+}

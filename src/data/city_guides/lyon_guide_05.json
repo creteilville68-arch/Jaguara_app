@@ -1,0 +1,153 @@
+{
+  "id": "lyon_guide_05",
+  "cityId": "lyon",
+  "domain": "Cultura",
+  "level": "Misto (A1–C2)",
+  "titleFr": "Le berceau du cinéma : les frères Lumière",
+  "titlePt": "O berço do cinema: os irmãos Lumière",
+  "subtitleFr": "De la première séance à l'institut Lumière",
+  "subtitlePt": "Da primeira sessão ao instituto Lumière",
+  "summaryPt": "Enciclopédia de Lyon, seção 5: o cinema — a invenção dos irmãos Lumière, a primeira projeção e o instituto que preserva essa memória. Vocabulário de arte e cultura, com níveis mistos.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Lyon est le berceau du cinéma. En 1895, les frères Lumière y présentèrent leur invention : le cinématographe, une machine qui filmait et projetait des images en mouvement. La première séance publique eut lieu à Paris, mais c'est à Lyon que tout commença, dans l'usine familiale de Monplaisir.",
+      "pt": "Lyon é o berço do cinema. Em 1895, os irmãos Lumière apresentaram ali sua invenção: o cinematógrafo, uma máquina que filmava e projetava imagens em movimento. A primeira sessão pública aconteceu em Paris, mas foi em Lyon que tudo começou, na fábrica da família em Monplaisir."
+    },
+    {
+      "id": 2,
+      "fr": "Les premières images du cinéma sont lyonnaises : des ouvriers sortant de l'usine, un train entrant en gare, une mer agitée. Ces courts films, d'une minute à peine, stupéfièrent les spectateurs. Certains, dit-on, se baissaient pour éviter le train qui semblait foncer sur eux.",
+      "pt": "As primeiras imagens do cinema são lionesas: operários saindo da fábrica, um trem entrando na estação, um mar agitado. Esses filmes curtos, de um minuto apenas, estupeficaram os espectadores. Alguns, dizem, se abaixavam para evitar o trem que parecia vir em cima deles."
+    },
+    {
+      "id": 3,
+      "fr": "Les frères Lumière furent aussi des inventeurs prolifiques : photographie couleur, cinéma en relief, plaques photographiques. Leur usine de Monplaisir employait des centaines de personnes. Leur génie, c'était de transformer une observation scientifique en art accessible à tous.",
+      "pt": "Os irmãos Lumière foram também inventores prolíficos: fotografia colorida, cinema em relevo, placas fotográficas. Sua fábrica de Monplaisir empregava centenas de pessoas. Seu gênio foi transformar uma observação científica em arte acessível a todos."
+    },
+    {
+      "id": 4,
+      "fr": "Le cinéma devint rapidement une industrie mondiale. Les réalisateurs s'emparèrent de la nouvelle invention, les acteurs devinrent des stars, les salles se multiplièrent. Lyon, fière de son rôle fondateur, garde une place particulière dans l'histoire du septième art.",
+      "pt": "O cinema virou rapidamente uma indústria mundial. Os diretores se apoderaram da nova invenção, os atores viraram estrelas, as salas se multiplicaram. Lyon, orgulhosa de seu papel fundador, guarda um lugar particular na história da sétima arte."
+    },
+    {
+      "id": 5,
+      "fr": "Aujourd'hui, l'institut Lumière, installé dans l'ancienne villa de la famille, célèbre cette mémoire. On y projette des films, on y conserve des archives et l'on y raconte l'histoire du cinéma. Les visiteurs découvrent les premières caméras, les affiches anciennes et les secrets des pionniers.",
+      "pt": "Hoje, o instituto Lumière, instalado na antiga vila da família, celebra essa memória. Projetam-se filmes ali, conservam-se arquivos e conta-se a história do cinema. Os visitantes descobrem as primeiras câmeras, os cartazes antigos e os segredos dos pioneiros."
+    },
+    {
+      "id": 6,
+      "fr": "Le festival Lumière, chaque année en octobre, transforme Lyon en capitale du cinéma. Des stars du monde entier y présentent leurs films, et des milliers de spectateurs remplissent les salles. La ville rend ainsi hommage à ceux qui, un jour, ont donné vie aux images.",
+      "pt": "O festival Lumière, todos os anos em outubro, transforma Lyon em capital do cinema. Estrelas do mundo inteiro apresentam seus filmes ali, e milhares de espectadores lotam as salas. A cidade presta assim homenagem àqueles que, um dia, deram vida às imagens."
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "le cinématographe",
+      "definitionPt": "o cinematógrafo",
+      "definitionFr": "Machine inventée par les frères Lumière pour filmer et projeter.",
+      "inflections": ["le cinématographe", "les cinématographes"],
+      "ptTargets": ["cinematógrafo"],
+      "examples": [
+        { "level": "A1", "fr": "Le cinématographe est ancien.", "pt": "O cinematógrafo é antigo." },
+        { "level": "A2-B1", "fr": "Les frères Lumière inventèrent le cinématographe.", "pt": "Os irmãos Lumière inventaram o cinematógrafo." },
+        { "level": "B2", "fr": "Le cinématographe transforma une science en merveille.", "pt": "O cinematógrafo transformou uma ciência em maravilha." },
+        { "level": "C1-C2", "fr": "Le cinématographe a appris au monde à rêver les yeux ouverts.", "pt": "O cinematógrafo ensinou o mundo a sonhar de olhos abertos." }
+      ]
+    },
+    {
+      "term": "stupéfier",
+      "definitionPt": "estupeficar; deixar atônito",
+      "definitionFr": "Étonner extrêmement, laisser sans voix.",
+      "inflections": ["stupéfier", "stupéfie", "stupéfié"],
+      "ptTargets": ["estupeficar", "deixar atônito", "assombrar"],
+      "examples": [
+        { "level": "A1", "fr": "Le spectacle me stupéfie.", "pt": "O espetáculo me deixa atônito." },
+        { "level": "A2-B1", "fr": "Les premières images stupéfièrent les spectateurs.", "pt": "As primeiras imagens estupeficaram os espectadores." },
+        { "level": "B2", "fr": "Ce qui stupéfie n'est pas toujours ce qui éclaire.", "pt": "O que estupefaz nem sempre é o que ilumina." },
+        { "level": "C1-C2", "fr": "L'art stupéfie d'abord, puis il transforme.", "pt": "A arte estupefaz primeiro, depois transforma." }
+      ]
+    },
+    {
+      "term": "prolifique",
+      "definitionPt": "prolífico",
+      "definitionFr": "Qui produit beaucoup.",
+      "inflections": ["prolifique", "prolifiques"],
+      "ptTargets": ["prolífico", "muito produtivo"],
+      "examples": [
+        { "level": "A1", "fr": "L'écrivain est prolifique.", "pt": "O escritor é prolífico." },
+        { "level": "A2-B1", "fr": "Les frères Lumière furent des inventeurs prolifiques.", "pt": "Os irmãos Lumière foram inventores prolíficos." },
+        { "level": "B2", "fr": "Un artiste prolifique laisse derrière lui un monde entier.", "pt": "Um artista prolífico deixa atrás de si um mundo inteiro." },
+        { "level": "C1-C2", "fr": "La curiosité prolifique est le moteur des grandes vies.", "pt": "A curiosidade prolífica é o motor das grandes vidas." }
+      ]
+    },
+    {
+      "term": "s'emparer de",
+      "definitionPt": "apoderar-se de",
+      "definitionFr": "Prendre possession de, s'approprier.",
+      "inflections": ["s'emparer de", "s'empare de", "emparé de"],
+      "ptTargets": ["apoderar-se de", "apossar-se de"],
+      "examples": [
+        { "level": "A1", "fr": "Il s'empare du livre.", "pt": "Ele se apodera do livro." },
+        { "level": "A2-B1", "fr": "Les réalisateurs s'emparèrent de la nouvelle invention.", "pt": "Os diretores se apoderaram da nova invenção." },
+        { "level": "B2", "fr": "S'emparer d'une idée, c'est la faire sienne.", "pt": "Apoderar-se de uma ideia é torná-la sua." },
+        { "level": "C1-C2", "fr": "Le rêve s'empare de nous sans demander la permission.", "pt": "O sonho se apodera de nós sem pedir permissão." }
+      ]
+    },
+    {
+      "term": "le septième art",
+      "definitionPt": "a sétima arte (o cinema)",
+      "definitionFr": "Nom donné au cinéma comme art.",
+      "inflections": ["le septième art", "les septièmes arts"],
+      "ptTargets": ["sétima arte", "cinema"],
+      "examples": [
+        { "level": "A1", "fr": "J'aime le septième art.", "pt": "Eu amo a sétima arte." },
+        { "level": "A2-B1", "fr": "Lyon garde une place dans l'histoire du septième art.", "pt": "Lyon guarda um lugar na história da sétima arte." },
+        { "level": "B2", "fr": "Le septième art raconte le monde mieux que beaucoup d'histoires.", "pt": "A sétima arte conta o mundo melhor que muitas histórias." },
+        { "level": "C1-C2", "fr": "Le septième art est la mémoire rêvée de notre époque.", "pt": "A sétima arte é a memória sonhada de nossa época." }
+      ]
+    },
+    {
+      "term": "rendre hommage",
+      "definitionPt": "prestar homenagem",
+      "definitionFr": "Honorer quelqu'un ou quelque chose publiquement.",
+      "inflections": ["rendre hommage", "rend hommage", "rendu hommage"],
+      "ptTargets": ["prestar homenagem", "homenagear"],
+      "examples": [
+        { "level": "A1", "fr": "Ils rendent hommage au héros.", "pt": "Eles prestam homenagem ao herói." },
+        { "level": "A2-B1", "fr": "La ville rend hommage aux pionniers du cinéma.", "pt": "A cidade presta homenagem aos pioneiros do cinema." },
+        { "level": "B2", "fr": "Rendre hommage, c'est dire merci à ceux qui nous ont précédés.", "pt": "Prestar homenagem é dizer obrigado aos que vieram antes." },
+        { "level": "C1-C2", "fr": "Rendre hommage, c'est reconnaître que rien ne se construit seul.", "pt": "Prestar homenagem é reconhecer que nada se constrói sozinho." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "O pronome 'y' e 'en' na narrativa",
+    "explanationPt": "'Y' substitui um lugar: c'est à Lyon que tout commença → Lyon y présenta son invention. 'En' substitui um complemento com 'de': des centaines de personnes → l'usine en employait des centaines.",
+    "exampleFr": "Les frères Lumière y présentèrent leur invention, et la ville en garde la mémoire.",
+    "examplePt": "Os irmãos Lumière apresentaram ali sua invenção, e a cidade guarda essa memória.",
+    "practiceQuestion": "Complete: « L'usine ___ employait des centaines. »",
+    "options": ["en", "y", "le", "lui"],
+    "correctIndex": 0,
+    "explanationPt": "'En' substitui 'des centaines de personnes': 'en employait'."
+  },
+  "quizQuestions": [
+    {
+      "question": "Qui inventa le cinématographe ?",
+      "options": ["Les frères Lumière", "Les frères Montgolfier", "Les frères Wright", "Les frères Grimm"],
+      "correctIndex": 0,
+      "explanation": "Les frères Lumière présentèrent le cinématographe en 1895."
+    },
+    {
+      "question": "Où se trouve l'institut Lumière aujourd'hui ?",
+      "options": ["Dans l'ancienne villa de la famille", "Dans une gare", "Sur une île", "Dans un château"],
+      "correctIndex": 0,
+      "explanation": "L'institut Lumière est installé dans l'ancienne villa de la famille."
+    },
+    {
+      "question": "Quel festival anime Lyon en octobre ?",
+      "options": ["Le festival Lumière", "Le festival de Cannes", "Le festival d'Avignon", "Le festival de la BD"],
+      "correctIndex": 0,
+      "explanation": "Le festival Lumière transforme Lyon en capitale du cinéma chaque octobre."
+    }
+  ]
+}

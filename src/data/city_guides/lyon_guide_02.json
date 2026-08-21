@@ -1,0 +1,153 @@
+{
+  "id": "lyon_guide_02",
+  "cityId": "lyon",
+  "domain": "Indústria",
+  "level": "Misto (A1–C2)",
+  "titleFr": "La soie et les canuts : la colline qui travaille",
+  "titlePt": "A seda e os canuts: a colina que trabalha",
+  "subtitleFr": "Métiers à tisser, révoltes et savoir-faire",
+  "subtitlePt": "Teares, revoltas e saber-fazer",
+  "summaryPt": "Enciclopédia de Lyon, seção 2: a indústria da seda — os canuts, os teares da Croix-Rousse e o saber-fazer que transformou a cidade. Vocabulário de trabalho e indústria, com níveis mistos.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Pendant des siècles, la soie fut la grande industrie de Lyon. Les canuts, ouvriers tisseurs, travaillaient sur des métiers à tisser immenses, dans des ateliers aux plafonds hauts. Leurs mains rapides faisaient danser les fils, créant des étoffes somptueuses pour les cours d'Europe.",
+      "pt": "Durante séculos, a seda foi a grande indústria de Lyon. Os canuts, operários tecelões, trabalhavam em teares imensos, em ateliês de tetos altos. Suas mãos rápidas faziam dançar os fios, criando tecidos suntuosos para as cortes da Europa."
+    },
+    {
+      "id": 2,
+      "fr": "La colline de la Croix-Rousse était le cœur de cette industrie. Des milliers d'ateliers y occupaient les étages, éclairés par de grandes fenêtres orientées au nord. Les canuts vivaient dans les quartiers voisins, dans des immeubles hauts aux escaliers de pierre usés par leurs pas.",
+      "pt": "A colina de Croix-Rousse era o coração dessa indústria. Milhares de ateliês ocupavam os andares, iluminados por grandes janelas voltadas para o norte. Os canuts viviam nos bairros vizinhos, em prédios altos com escadarias de pedra gastas por seus passos."
+    },
+    {
+      "id": 3,
+      "fr": "Le travail des canuts était rude : des journées de quatorze heures, des salaires précaires et une discipline sévère. En 1831, ils se révoltèrent contre leurs patrons, une des premières révoltes ouvrières de l'histoire. Leur cri résonne encore : « Vivre en travaillant ou mourir en combattant. »",
+      "pt": "O trabalho dos canuts era duro: jornadas de catorze horas, salários precários e disciplina severa. Em 1831, eles se revoltaram contra seus patrões, uma das primeiras revoltas operárias da história. Seu grito ainda ecoa: «Viver trabalhando ou morrer combatendo.»"
+    },
+    {
+      "id": 4,
+      "fr": "Malgré la répression, la révolte des canuts marqua l'histoire. Elle révéla les injustices du travail industriel et inspira les luttes sociales suivantes. Les patrons durent améliorer les conditions, et les canuts gagnèrent une reconnaissance durable. La mémoire de ces combats reste vivante dans la ville.",
+      "pt": "Apesar da repressão, a revolta dos canuts marcou a história. Ela revelou as injustiças do trabalho industrial e inspirou as lutas sociais seguintes. Os patrões tiveram que melhorar as condições, e os canuts ganharam um reconhecimento duradouro. A memória desses combates permanece viva na cidade."
+    },
+    {
+      "id": 5,
+      "fr": "Aujourd'hui, le savoir-faire de la soie se perpétue dans des ateliers de restauration et des maisons de haute couture. Les tisseurs utilisent encore les anciennes techniques pour restaurer des tapisseries et créer des étoffes uniques. Les visiteurs découvrent ce métier dans des ateliers-musées.",
+      "pt": "Hoje, o saber-fazer da seda se perpetua em ateliês de restauração e casas de alta-costura. Os tecelões ainda usam as antigas técnicas para restaurar tapeçarias e criar tecidos únicos. Os visitantes descobrem esse ofício em ateliês-museu."
+    },
+    {
+      "id": 6,
+      "fr": "La Croix-Rousse est devenue un quartier vivant et créatif. Les anciens ateliers abritent des artistes, des designers et des artisans. Les traboules, ces passages secrets entre les immeubles, rappellent l'histoire des soyeux. La colline qui travaillait est devenue une colline qui crée.",
+      "pt": "A Croix-Rousse virou um bairro vivo e criativo. Os antigos ateliês abrigam artistas, designers e artesãos. As traboules, essas passagens secretas entre os prédios, lembram a história dos sedeiros. A colina que trabalhava virou uma colina que cria."
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "le canut",
+      "definitionPt": "o canut (tecelão de seda de Lyon)",
+      "definitionFr": "Ouvrier tisseur de soie de Lyon.",
+      "inflections": ["le canut", "les canuts"],
+      "ptTargets": ["canut", "tecelão de seda"],
+      "examples": [
+        { "level": "A1", "fr": "Le canut travaille à l'atelier.", "pt": "O canut trabalha no ateliê." },
+        { "level": "A2-B1", "fr": "Les canuts tissaient la soie sur la colline.", "pt": "Os canuts teciam a seda na colina." },
+        { "level": "B2", "fr": "Les canuts ont marqué l'histoire du travail en France.", "pt": "Os canuts marcaram a história do trabalho na França." },
+        { "level": "C1-C2", "fr": "Les canuts restent le symbole d'une dignité ouvrière conquise.", "pt": "Os canuts continuam o símbolo de uma dignidade operária conquistada." }
+      ]
+    },
+    {
+      "term": "le métier à tisser",
+      "definitionPt": "o tear",
+      "definitionFr": "Machine qui sert à tisser les étoffes.",
+      "inflections": ["le métier à tisser", "les métiers à tisser"],
+      "ptTargets": ["tear"],
+      "examples": [
+        { "level": "A1", "fr": "Le métier à tisser est ancien.", "pt": "O tear é antigo." },
+        { "level": "A2-B1", "fr": "Les canuts travaillaient sur des métiers à tisser immenses.", "pt": "Os canuts trabalhavam em teares imensos." },
+        { "level": "B2", "fr": "Le métier à tisser transforme des fils en histoires.", "pt": "O tear transforma fios em histórias." },
+        { "level": "C1-C2", "fr": "Le métier à tisser est une écriture lente et précise.", "pt": "O tear é uma escrita lenta e precisa." }
+      ]
+    },
+    {
+      "term": "se révolter",
+      "definitionPt": "revoltar-se",
+      "definitionFr": "Se soulever contre une autorité, refuser l'injustice.",
+      "inflections": ["se révolter", "se révolte", "révolté"],
+      "ptTargets": ["revoltar-se", "rebelar-se"],
+      "examples": [
+        { "level": "A1", "fr": "Ils se révoltent contre l'injustice.", "pt": "Eles se revoltam contra a injustiça." },
+        { "level": "A2-B1", "fr": "Les canuts se révoltèrent en 1831.", "pt": "Os canuts se revoltaram em 1831." },
+        { "level": "B2", "fr": "Se révolter, c'est refuser que l'injustice devienne une habitude.", "pt": "Revoltar-se é recusar que a injustiça vire hábito." },
+        { "level": "C1-C2", "fr": "Toute révolte juste naît d'une dignité blessée.", "pt": "Toda revolta justa nasce de uma dignidade ferida." }
+      ]
+    },
+    {
+      "term": "la répression",
+      "definitionPt": "a repressão",
+      "definitionFr": "Action de réprimer, de punir avec violence.",
+      "inflections": ["la répression", "les répressions"],
+      "ptTargets": ["repressão"],
+      "examples": [
+        { "level": "A1", "fr": "La répression est dure.", "pt": "A repressão é dura." },
+        { "level": "A2-B1", "fr": "Malgré la répression, la révolte marqua l'histoire.", "pt": "Apesar da repressão, a revolta marcou a história." },
+        { "level": "B2", "fr": "La répression éteint les voix, jamais les idées.", "pt": "A repressão cala as vozes, nunca as ideias." },
+        { "level": "C1-C2", "fr": "La répression mesure souvent la force de ce qu'elle cherche à étouffer.", "pt": "A repressão muitas vezes mede a força do que procura sufocar." }
+      ]
+    },
+    {
+      "term": "se perpétuer",
+      "definitionPt": "perpetuar-se",
+      "definitionFr": "Se transmettre de génération en génération.",
+      "inflections": ["se perpétuer", "se perpétue", "perpétué"],
+      "ptTargets": ["perpetuar-se", "manter-se vivo"],
+      "examples": [
+        { "level": "A1", "fr": "La tradition se perpétue.", "pt": "A tradição se perpetua." },
+        { "level": "A2-B1", "fr": "Le savoir-faire se perpétue dans les ateliers.", "pt": "O saber-fazer se perpetua nos ateliês." },
+        { "level": "B2", "fr": "Une culture se perpétue quand elle reste vivante, pas figée.", "pt": "Uma cultura se perpetua quando continua viva, não congelada." },
+        { "level": "C1-C2", "fr": "Ce qui se perpétue avec amour traverse les siècles sans s'user.", "pt": "O que se perpetua com amor atravessa os séculos sem se desgastar." }
+      ]
+    },
+    {
+      "term": "résonner",
+      "definitionPt": "ressoar; ecoar",
+      "definitionFr": "Produire un son répété, se faire entendre.",
+      "inflections": ["résonner", "résonne", "résonné"],
+      "ptTargets": ["ressoar", "ecoar"],
+      "examples": [
+        { "level": "A1", "fr": "La musique résonne.", "pt": "A música ecoa." },
+        { "level": "A2-B1", "fr": "Leur cri résonne encore dans la ville.", "pt": "Seu grito ainda ecoa na cidade." },
+        { "level": "B2", "fr": "Les paroles justes résonnent longtemps dans la mémoire.", "pt": "As palavras justas ecoam por muito tempo na memória." },
+        { "level": "C1-C2", "fr": "L'histoire résonne dans les rues pour qui sait l'écouter.", "pt": "A história ecoa nas ruas para quem sabe escutá-la." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "O particípio presente na descrição de atividades",
+    "explanationPt": "Para descrever ações simultâneas: des mains qui faisaient danser les fils (que faziam dançar), éclairés par de grandes fenêtres (iluminados por grandes janelas). O particípio presente em -ant e o particípio passado adjetivo.",
+    "exampleFr": "Les canuts travaillaient sur leurs métiers, créant des étoffes somptueuses.",
+    "examplePt": "Os canuts trabalhavam em seus teares, criando tecidos suntuosos.",
+    "practiceQuestion": "Complete: « Les ateliers, ___ par de grandes fenêtres, étaient lumineux. »",
+    "options": ["éclairés", "éclairant", "éclairer", "éclairent"],
+    "correctIndex": 0,
+    "explanationPt": "Particípio passado adjetivo: 'éclairés par'."
+  },
+  "quizQuestions": [
+    {
+      "question": "Qui étaient les canuts ?",
+      "options": ["Des ouvriers tisseurs de soie", "Des banquiers", "Des imprimeurs", "Des architectes"],
+      "correctIndex": 0,
+      "explanation": "Les canuts étaient les ouvriers tisseurs de soie de Lyon."
+    },
+    {
+      "question": "En quelle année les canuts se révoltèrent-ils ?",
+      "options": ["1831", "1789", "1900", "1968"],
+      "correctIndex": 0,
+      "explanation": "En 1831, les canuts se révoltèrent contre leurs patrons."
+    },
+    {
+      "question": "Sur quelle colline se trouvait l'industrie de la soie ?",
+      "options": ["La Croix-Rousse", "Montmartre", "La Butte-aux-Cailles", "Le Mont-Saint-Michel"],
+      "correctIndex": 0,
+      "explanation": "La Croix-Rousse était le cœur de l'industrie de la soie."
+    }
+  ]
+}

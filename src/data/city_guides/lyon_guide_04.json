@@ -1,0 +1,153 @@
+{
+  "id": "lyon_guide_04",
+  "cityId": "lyon",
+  "domain": "Gastronomia",
+  "level": "Misto (A1–C2)",
+  "titleFr": "La capitale mondiale de la gastronomie",
+  "titlePt": "A capital mundial da gastronomia",
+  "subtitleFr": "Bouchons, chefs et art de la table",
+  "subtitlePt": "Bouchons, chefs e arte da mesa",
+  "summaryPt": "Enciclopédia de Lyon, seção 4: a gastronomia — os bouchons, os grandes chefs e a tradição culinária que deu a Lyon seu título de capital da gastronomia. Vocabulário de cozinha e sabores, com níveis mistos.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Lyon est la capitale mondiale de la gastronomie, un titre que la ville revendique avec fierté. Ses bouchons, petits restaurants traditionnels, servent une cuisine généreuse et sincère. Les chefs y honorent les produits locaux avec un savoir-faire transmis depuis des générations.",
+      "pt": "Lyon é a capital mundial da gastronomia, um título que a cidade reivindica com orgulho. Seus bouchons, pequenos restaurantes tradicionais, servem uma cozinha generosa e sincera. Os chefs honram os produtos locais com um saber-fazer transmitido há gerações."
+    },
+    {
+      "id": 2,
+      "fr": "La cuisine lyonnaise est réputée pour ses plats simples et savoureux : quenelles, tablier de sapeur, salade lyonnaise, andouillette. Les ingrédients sont choisis avec soin, les sauces travaillées avec patience. Chaque bouchon a ses recettes, jalousement gardées par les familles.",
+      "pt": "A cozinha lionesa é famosa por seus pratos simples e saborosos: quenelles, tablier de sapeur, salada lionesa, andouillette. Os ingredientes são escolhidos com cuidado, os molhos trabalhados com paciência. Cada bouchon tem suas receitas, zelosamente guardadas pelas famílias."
+    },
+    {
+      "id": 3,
+      "fr": "Les grands chefs ont fait rayonner Lyon dans le monde. Paul Bocuse, surnommé le pape de la gastronomie, y fonda une école et une tradition. Ses élèves, devenus célèbres, perpétuent cet héritage. La ville compte aujourd'hui des dizaines de tables étoilées.",
+      "pt": "Os grandes chefs fizeram Lyon brilhar no mundo. Paul Bocuse, apelidado de papa da gastronomia, fundou ali uma escola e uma tradição. Seus alunos, tornados famosos, perpetuam esse legado. A cidade conta hoje com dezenas de mesas estreladas."
+    },
+    {
+      "id": 4,
+      "fr": "Les marchés de Lyon sont des temples des produits frais. Le marché de la Croix-Rousse et les halles de la ville regorgent de fromages, de charcuteries, de poissons et de légumes. Les chefs y font leurs courses chaque matin, au milieu des producteurs qui connaissent leurs clients par leur prénom.",
+      "pt": "Os mercados de Lyon são templos dos produtos frescos. O mercado da Croix-Rousse e os salões cobertos da cidade transbordam de queijos, embutidos, peixes e legumes. Os chefs fazem suas compras todas as manhãs, no meio dos produtores que conhecem seus clientes pelo nome."
+    },
+    {
+      "id": 5,
+      "fr": "La pâtisserie lyonnaise mérite aussi le détour : la tarte à la praline, rose et croquante, est la plus célèbre. Les pâtissiers rivalisent de créativité pour revisiter les classiques. Les Lyonnais savent qu'un bon repas se termine toujours par une note sucrée.",
+      "pt": "A confeitaria lionesa merece também o desvio: a torta de pralina, rosa e crocante, é a mais famosa. Os confeiteiros rivalizam em criatividade para revisitar os clássicos. Os lioneses sabem que uma boa refeição termina sempre com uma nota doce."
+    },
+    {
+      "id": 6,
+      "fr": "Enfin, la gastronomie à Lyon est une affaire de partage et de convivialité. On y mange bien, lentement, en discutant autour de la table. Les repas durent, les rires s'échangent, les histoires se racontent. C'est cette joie simple que les visiteurs viennent chercher, et qu'ils repartent avec.",
+      "pt": "Por fim, a gastronomia em Lyon é uma questão de partilha e convivialidade. Come-se bem, lentamente, conversando em volta da mesa. As refeições duram, os risos se trocam, as histórias se contam. É essa alegria simples que os visitantes vêm buscar, e que levam embora."
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "le bouchon",
+      "definitionPt": "o bouchon (restaurante típico de Lyon)",
+      "definitionFr": "Petit restaurant traditionnel lyonnais.",
+      "inflections": ["le bouchon", "les bouchons"],
+      "ptTargets": ["bouchon", "restaurante típico de Lyon"],
+      "examples": [
+        { "level": "A1", "fr": "Le bouchon est petit et chaleureux.", "pt": "O bouchon é pequeno e acolhedor." },
+        { "level": "A2-B1", "fr": "Les bouchons servent une cuisine généreuse.", "pt": "Os bouchons servem uma cozinha generosa." },
+        { "level": "B2", "fr": "Un bouchon authentique garde ses recettes de famille.", "pt": "Um bouchon autêntico guarda suas receitas de família." },
+        { "level": "C1-C2", "fr": "Le bouchon est le cœur battant de la gastronomie lyonnaise.", "pt": "O bouchon é o coração pulsante da gastronomia lionesa." }
+      ]
+    },
+    {
+      "term": "savoureux",
+      "definitionPt": "saboroso",
+      "definitionFr": "Qui a bon goût, délicieux.",
+      "inflections": ["savoureux", "savoureuse", "savoureuses"],
+      "ptTargets": ["saboroso", "delicioso", "gostoso"],
+      "examples": [
+        { "level": "A1", "fr": "Le plat est savoureux.", "pt": "O prato é saboroso." },
+        { "level": "A2-B1", "fr": "La cuisine lyonnaise est savoureuse.", "pt": "A cozinha lionesa é saborosa." },
+        { "level": "B2", "fr": "Un plat savoureux raconte l'histoire de sa région.", "pt": "Um prato saboroso conta a história de sua região." },
+        { "level": "C1-C2", "fr": "Le souvenir d'un repas savoureux traverse les années.", "pt": "A lembrança de uma refeição saborosa atravessa os anos." }
+      ]
+    },
+    {
+      "term": "le savoir-faire",
+      "definitionPt": "o saber-fazer; a perícia",
+      "definitionFr": "Compétence technique acquise par l'expérience.",
+      "inflections": ["le savoir-faire", "les savoir-faire"],
+      "ptTargets": ["saber-fazer", "perícia", "habilidade"],
+      "examples": [
+        { "level": "A1", "fr": "Le savoir-faire est précieux.", "pt": "O saber-fazer é precioso." },
+        { "level": "A2-B1", "fr": "Un savoir-faire transmis depuis des générations.", "pt": "Um saber-fazer transmitido há gerações." },
+        { "level": "B2", "fr": "Le savoir-faire se transmet par les gestes plus que par les mots.", "pt": "O saber-fazer se transmite pelos gestos mais do que pelas palavras." },
+        { "level": "C1-C2", "fr": "Le savoir-faire est une mémoire qui vit dans les mains.", "pt": "O saber-fazer é uma memória que vive nas mãos." }
+      ]
+    },
+    {
+      "term": "rayonner",
+      "definitionPt": "brilhar; irradiar",
+      "definitionFr": "Diffuser son influence au loin.",
+      "inflections": ["rayonner", "rayonne", "rayonné"],
+      "ptTargets": ["brilhar", "irradiar", "ter destaque"],
+      "examples": [
+        { "level": "A1", "fr": "Le soleil rayonne.", "pt": "O sol brilha." },
+        { "level": "A2-B1", "fr": "Les grands chefs ont fait rayonner Lyon dans le monde.", "pt": "Os grandes chefs fizeram Lyon brilhar no mundo." },
+        { "level": "B2", "fr": "Une bonne réputation rayonne sans effort.", "pt": "Uma boa reputação brilha sem esforço." },
+        { "level": "C1-C2", "fr": "Rayonner, c'est laisser sa lumière atteindre les autres.", "pt": "Brilhar é deixar sua luz alcançar os outros." }
+      ]
+    },
+    {
+      "term": "regorger de",
+      "definitionPt": "transbordar de; estar repleto de",
+      "definitionFr": "Contenir en très grande quantité.",
+      "inflections": ["regorger de", "regorge de", "regorgé de"],
+      "ptTargets": ["transbordar de", "estar repleto de", "ter aos montes"],
+      "examples": [
+        { "level": "A1", "fr": "Le marché regorge de fruits.", "pt": "O mercado transborda de frutas." },
+        { "level": "A2-B1", "fr": "Les halles regorgent de produits frais.", "pt": "Os salões transbordam de produtos frescos." },
+        { "level": "B2", "fr": "Une région qui regorge de talents ne manque jamais d'avenir.", "pt": "Uma região que transborda de talentos nunca fica sem futuro." },
+        { "level": "C1-C2", "fr": "La mémoire regorge de détails que l'on croyait perdus.", "pt": "A memória transborda de detalhes que acreditávamos perdidos." }
+      ]
+    },
+    {
+      "term": "la convivialité",
+      "definitionPt": "a convivialidade",
+      "definitionFr": "Qualité d'un lieu ou d'une personne chaleureuse et accueillante.",
+      "inflections": ["la convivialité", "une grande convivialité"],
+      "ptTargets": ["convivialidade", "cordialidade", "acolhimento"],
+      "examples": [
+        { "level": "A1", "fr": "La convivialité est agréable.", "pt": "A convivialidade é agradável." },
+        { "level": "A2-B1", "fr": "La gastronomie lyonnaise est une affaire de convivialité.", "pt": "A gastronomia lionesa é uma questão de convivialidade." },
+        { "level": "B2", "fr": "La convivialité transforme un repas en souvenir.", "pt": "A convivialidade transforma uma refeição em lembrança." },
+        { "level": "C1-C2", "fr": "La convivialité est l'art de rendre les autres à l'aise.", "pt": "A convivialidade é a arte de deixar os outros à vontade." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "O artigo partitivo com alimentos",
+    "explanationPt": "Para quantidades indefinidas de comida: du fromage, de la charcuterie, des légumes. Na forma negativa ou com quantidades: plein de, un peu de, beaucoup de (sem artigo).",
+    "exampleFr": "On y mange du fromage, de la charcuterie et des légumes frais.",
+    "examplePt": "Come-se queijo, embutidos e legumes frescos.",
+    "practiceQuestion": "Complete: « Les marchés regorgent ___ produits frais. »",
+    "options": ["de", "du", "des", "la"],
+    "correctIndex": 0,
+    "explanationPt": "Com 'regorger de', usa-se apenas 'de': regorger de produits."
+  },
+  "quizQuestions": [
+    {
+      "question": "Que sont les bouchons lyonnais ?",
+      "options": ["Des petits restaurants traditionnels", "Des monuments antiques", "Des marchés aux fleurs", "Des bibliothèques"],
+      "correctIndex": 0,
+      "explanation": "Les bouchons sont de petits restaurants traditionnels lyonnais."
+    },
+    {
+      "question": "Qui est surnommé le pape de la gastronomie ?",
+      "options": ["Paul Bocuse", "Victor Hugo", "Léonard de Vinci", "Napoléon"],
+      "correctIndex": 0,
+      "explanation": "Paul Bocuse, grand chef lyonnais, est surnommé le pape de la gastronomie."
+    },
+    {
+      "question": "Quelle est la pâtisserie la plus célèbre de Lyon ?",
+      "options": ["La tarte à la praline", "Le macaron", "Le croissant", "La brioche"],
+      "correctIndex": 0,
+      "explanation": "La tarte à la praline, rose et croquante, est la plus célèbre de Lyon."
+    }
+  ]
+}

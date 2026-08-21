@@ -1,0 +1,153 @@
+{
+  "id": "lyon_guide_08",
+  "cityId": "lyon",
+  "domain": "Saúde",
+  "level": "Misto (A1–C2)",
+  "titleFr": "Lyon, ville de médecine : soigner et innover",
+  "titlePt": "Lyon, cidade da medicina: cuidar e inovar",
+  "subtitleFr": "Hospices, recherche médicale et bien-être",
+  "subtitlePt": "Hospitais, pesquisa médica e bem-estar",
+  "summaryPt": "Enciclopédia de Lyon, seção 8: a tradição médica da cidade — os hospices, a pesquisa, os acompanhamentos e o bem-estar. Vocabulário de saúde e medicina, com níveis mistos.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Lyon a une longue tradition médicale. Les hospices civils, fondés il y a des siècles, furent parmi les premiers hôpitaux de France. Aujourd'hui, les hôpitaux lyonnais soignent des millions de patients, et la ville est un pôle mondial de recherche médicale.",
+      "pt": "Lyon tem uma longa tradição médica. Os hospices civis, fundados há séculos, estiveram entre os primeiros hospitais da França. Hoje, os hospitais lioneses tratam milhões de pacientes, e a cidade é um polo mundial de pesquisa médica."
+    },
+    {
+      "id": 2,
+      "fr": "La prévention est au cœur de la médecine moderne. Les campagnes de dépistage, la vaccination et le suivi médical régulier évitent bien des maladies. Les médecins lyonnais rappellent que la santé se construit chaque jour : bien manger, bouger, dormir, écouter son corps.",
+      "pt": "A prevenção está no coração da medicina moderna. As campanhas de rastreamento, a vacinação e o acompanhamento médico regular evitam muitas doenças. Os médicos lioneses lembram que a saúde se constrói todos os dias: comer bem, se mover, dormir, escutar o corpo."
+    },
+    {
+      "id": 3,
+      "fr": "Les maladies chroniques demandent un accompagnement particulier. Les équipes médicales suivent les patients sur la durée, adaptent les traitements et soutiennent les familles. Cette relation de confiance, construite au fil des années, est aussi importante que les médicaments.",
+      "pt": "As doenças crônicas exigem um acompanhamento particular. As equipes médicas acompanham os pacientes ao longo do tempo, adaptam os tratamentos e apoiam as famílias. Essa relação de confiança, construída ao longo dos anos, é tão importante quanto os medicamentos."
+    },
+    {
+      "id": 4,
+      "fr": "La recherche lyonnaise est pionnière dans de nombreux domaines : cancer, maladies infectieuses, neurologie. Les chercheurs collaborent avec des équipes du monde entier et publient leurs découvertes dans les grandes revues scientifiques. Chaque avancée demande des années de travail patient.",
+      "pt": "A pesquisa lionesa é pioneira em numerosos domínios: câncer, doenças infecciosas, neurologia. Os pesquisadores colaboram com equipes do mundo inteiro e publicam suas descobertas nas grandes revistas científicas. Cada avanço exige anos de trabalho paciente."
+    },
+    {
+      "id": 5,
+      "fr": "Le bien-être psychologique fait aussi partie de la santé. Les psychologues et les psychiatres accompagnent ceux qui traversent des périodes difficiles. La ville propose des espaces de calme : parcs, jardins, berges. Prendre soin de son esprit, c'est prendre soin de tout.",
+      "pt": "O bem-estar psicológico também faz parte da saúde. Psicólogos e psiquiatras acompanham quem atravessa períodos difíceis. A cidade oferece espaços de calma: parques, jardins, margens. Cuidar do espírito é cuidar de tudo."
+    },
+    {
+      "id": 6,
+      "fr": "Enfin, le personnel soignant est le cœur du système de santé. Infirmières, médecins, aides-soignants : leur dévouement quotidien mérite le respect de tous. À Lyon, on sait que la médecine n'est pas seulement une science : c'est d'abord une rencontre entre des humains.",
+      "pt": "Por fim, o pessoal de saúde é o coração do sistema de saúde. Enfermeiras, médicos, cuidadores: sua dedicação cotidiana merece o respeito de todos. Em Lyon, sabe-se que a medicina não é apenas uma ciência: é antes de tudo um encontro entre humanos."
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "le suivi médical",
+      "definitionPt": "o acompanhamento médico",
+      "definitionFr": "Suivi régulier de l'état de santé d'un patient.",
+      "inflections": ["le suivi médical", "les suivis médicaux"],
+      "ptTargets": ["acompanhamento médico", "acompanhamento"],
+      "examples": [
+        { "level": "A1", "fr": "Le suivi médical est régulier.", "pt": "O acompanhamento médico é regular." },
+        { "level": "A2-B1", "fr": "Le suivi médical régulier évite bien des maladies.", "pt": "O acompanhamento médico regular evita muitas doenças." },
+        { "level": "B2", "fr": "Un bon suivi médical repose sur la confiance.", "pt": "Um bom acompanhamento médico se apoia na confiança." },
+        { "level": "C1-C2", "fr": "Le suivi médical est un dialogue qui dure des années.", "pt": "O acompanhamento médico é um diálogo que dura anos." }
+      ]
+    },
+    {
+      "term": "la maladie chronique",
+      "definitionPt": "a doença crônica",
+      "definitionFr": "Maladie qui dure longtemps, souvent toute la vie.",
+      "inflections": ["la maladie chronique", "les maladies chroniques"],
+      "ptTargets": ["doença crônica"],
+      "examples": [
+        { "level": "A1", "fr": "La maladie chronique est longue.", "pt": "A doença crônica é longa." },
+        { "level": "A2-B1", "fr": "Les maladies chroniques demandent un accompagnement particulier.", "pt": "As doenças crônicas exigem um acompanhamento particular." },
+        { "level": "B2", "fr": "Vivre avec une maladie chronique, c'est réapprendre son rythme.", "pt": "Viver com uma doença crônica é reaprender o próprio ritmo." },
+        { "level": "C1-C2", "fr": "La maladie chronique enseigne la patience mieux que tous les discours.", "pt": "A doença crônica ensina a paciência melhor que todos os discursos." }
+      ]
+    },
+    {
+      "term": "pionnier",
+      "definitionPt": "pioneiro",
+      "definitionFr": "Qui ouvre la voie, qui fait les premiers pas.",
+      "inflections": ["pionnier", "pionnière", "pionniers"],
+      "ptTargets": ["pioneiro", "vanguardista"],
+      "examples": [
+        { "level": "A1", "fr": "C'est un pionnier.", "pt": "Ele é um pioneiro." },
+        { "level": "A2-B1", "fr": "La recherche lyonnaise est pionnière.", "pt": "A pesquisa lionesa é pioneira." },
+        { "level": "B2", "fr": "Être pionnier, c'est avancer sans modèle.", "pt": "Ser pioneiro é avançar sem modelo." },
+        { "level": "C1-C2", "fr": "Les pionniers ouvrent des chemins que d'autres élargiront.", "pt": "Os pioneiros abrem caminhos que outros alargarão." }
+      ]
+    },
+    {
+      "term": "le bien-être psychologique",
+      "definitionPt": "o bem-estar psicológico",
+      "definitionFr": "État d'équilibre mental et émotionnel.",
+      "inflections": ["le bien-être psychologique", "le bien-être"],
+      "ptTargets": ["bem-estar psicológico", "bem-estar mental"],
+      "examples": [
+        { "level": "A1", "fr": "Le bien-être est important.", "pt": "O bem-estar é importante." },
+        { "level": "A2-B1", "fr": "Le bien-être psychologique fait partie de la santé.", "pt": "O bem-estar psicológico faz parte da saúde." },
+        { "level": "B2", "fr": "Le bien-être psychologique se cultive comme un jardin.", "pt": "O bem-estar psicológico se cultiva como um jardim." },
+        { "level": "C1-C2", "fr": "Le bien-être psychologique est la santé invisible qui soutient toutes les autres.", "pt": "O bem-estar psicológico é a saúde invisível que sustenta todas as outras." }
+      ]
+    },
+    {
+      "term": "le personnel soignant",
+      "definitionPt": "o pessoal de saúde",
+      "definitionFr": "Ensemble des professionnels qui soignent les patients.",
+      "inflections": ["le personnel soignant", "les personnels soignants"],
+      "ptTargets": ["pessoal de saúde", "profissionais de saúde"],
+      "examples": [
+        { "level": "A1", "fr": "Le personnel soignant est gentil.", "pt": "O pessoal de saúde é gentil." },
+        { "level": "A2-B1", "fr": "Le personnel soignant est le cœur du système de santé.", "pt": "O pessoal de saúde é o coração do sistema de saúde." },
+        { "level": "B2", "fr": "Le personnel soignant mérite le respect de tous.", "pt": "O pessoal de saúde merece o respeito de todos." },
+        { "level": "C1-C2", "fr": "Le personnel soignant porte le poids des nuits et la lumière des guérisons.", "pt": "O pessoal de saúde carrega o peso das noites e a luz das curas." }
+      ]
+    },
+    {
+      "term": "le dévouement",
+      "definitionPt": "a dedicação; a devoção",
+      "definitionFr": "Engagement entier au service des autres.",
+      "inflections": ["le dévouement", "un grand dévouement"],
+      "ptTargets": ["dedicação", "devoção"],
+      "examples": [
+        { "level": "A1", "fr": "Le dévouement est admirable.", "pt": "A dedicação é admirável." },
+        { "level": "A2-B1", "fr": "Leur dévouement quotidien mérite le respect.", "pt": "Sua dedicação cotidiana merece respeito." },
+        { "level": "B2", "fr": "Le dévouement est une générosité qui ne compte pas.", "pt": "A dedicação é uma generosidade que não conta." },
+        { "level": "C1-C2", "fr": "Le dévouement silencieux change le monde sans faire de bruit.", "pt": "A dedicação silenciosa muda o mundo sem fazer barulho." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "A estrutura 'c'est... qui' para destacar",
+    "explanationPt": "Para dar ênfase: c'est le personnel soignant qui est le cœur (é o pessoal de saúde que é o coração). Esta estrutura destaca um elemento da frase.",
+    "exampleFr": "C'est la confiance qui soigne autant que les médicaments.",
+    "examplePt": "É a confiança que cura tanto quanto os medicamentos.",
+    "practiceQuestion": "Complete: « ___ le personnel soignant qui porte le système de santé. »",
+    "options": ["C'est", "Il est", "Ce sont", "Elle est"],
+    "correctIndex": 0,
+    "explanationPt": "'C'est... qui' destaca o sujeito."
+  },
+  "quizQuestions": [
+    {
+      "question": "Que sont les hospices civils de Lyon ?",
+      "options": ["D'anciens hôpitaux parmi les premiers de France", "Des écoles de cuisine", "Des théâtres", "Des banques"],
+      "correctIndex": 0,
+      "explanation": "Les hospices civils furent parmi les premiers hôpitaux de France."
+    },
+    {
+      "question": "Dans quels domaines la recherche lyonnaise est-elle pionnière ?",
+      "options": ["Cancer, maladies infectieuses et neurologie", "Astronomie uniquement", "Météorologie", "Géologie"],
+      "correctIndex": 0,
+      "explanation": "La recherche lyonnaise est pionnière dans le cancer, les maladies infectieuses et la neurologie."
+    },
+    {
+      "question": "Qui est le cœur du système de santé ?",
+      "options": ["Le personnel soignant", "Les bâtiments", "Les machines", "Les assurances"],
+      "correctIndex": 0,
+      "explanation": "Le personnel soignant est le cœur du système de santé."
+    }
+  ]
+}
