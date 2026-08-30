@@ -1,0 +1,137 @@
+{
+  "id": "tours_guide_27",
+  "cityId": "tours",
+  "domain": "Cultura",
+  "level": "Nível (C2)",
+  "titleFr": "Tours, berceau de la langue française",
+  "titlePt": "Tours, berço da língua francesa",
+  "subtitleFr": "Le français le plus pur, la Renaissance et les jardins de la Loire",
+  "subtitlePt": "O francês mais puro, o Renascimento e os jardins do Loire",
+  "summaryPt": "Enciclopédia de Tours, seção 27: a cidade onde nasceu o francês mais puro, os castelos do Loire e o artesanato das ilhas. Vocabulário do nível C2.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Tours s'enorgueillit de parler le français le plus pur, une réputation que l'on ne saurait galvauder sans heurter la fierté locale. On y enseigne la langue avec un soin presque religieux, et l'on refuse d'abhorrer les nuances qui font la finesse du discours.",
+      "pt": "Tours se orgulha de falar o francês mais puro, uma reputação que não se pode banalizar sem ferir o orgulho local. Ensina-se ali a língua com um cuidado quase religioso, e recusa-se desdenhar as nuances que fazem a fineza do discurso."
+    },
+    {
+      "id": 2,
+      "fr": "Les châteaux de la Loire, superbement conservés, offrent des façades que le temps n'a pas su ébrécher. On y admire des salles configurées avec élégance, des jardins enclavés dans un écrin de verdure, et des tapisseries dont le tissage granuleux étonne le visiteur.",
+      "pt": "Os castelos do Loire, superbamente conservados, oferecem fachadas que o tempo não conseguiu lascar. Admiram-se ali salões configurados com elegância, jardins enclavados em um berço de verdura, e tapeçarias cuja tecelagem granulosa surpreende o visitante."
+    },
+    {
+      "id": 3,
+      "fr": "La ville, fidèle à son épiscopat ancien, conserve une architecture médiévale remarquable. On y restaure les cathédrales avec une patience d'exégète, on désarticule les ajouts modernes pour retrouver le dessin d'origine, et l'on refuse de dévoyer le passé.",
+      "pt": "A cidade, fiel ao seu antigo bispado, conserva uma arquitetura medieval notável. Restauram-se ali as catedrais com a paciência de um exegeta, desarticulam-se os acréscimos modernos para reencontrar o desenho original, e recusa-se desvirtuar o passado."
+    },
+    {
+      "id": 4,
+      "fr": "L'art de la taille de pierre se transmet de maître en apprenti. Un artisan capable de configurer une voûte, d'entoiler un panneau ou d'émietter un bloc avec précision demeure une rareté précieuse, que la ville célèbre à travers ses ateliers vivants.",
+      "pt": "A arte da cantaria se transmite de mestre a aprendiz. Um artesão capaz de configurar uma abóbada, de entelar um painel ou de esfarelar um bloco com precisão continua sendo raridade preciosa, que a cidade celebra por meio de suas oficinas vivas."
+    },
+    {
+      "id": 5,
+      "fr": "Sur les îles de la Loire, des équipes restaurent les berges avec un souci hypnotique de l'équilibre écologique. On y assène des refus fermes aux pollutions, on y ceindre des zones protégées, et l'on y célèbre la vie sauvage libérée des contraintes humaines.",
+      "pt": "Nas ilhas do Loire, equipes restauram as margens com um cuidado hipnótico de equilíbrio ecológico. Opõem-se firmes recusas às poluições, cingem-se zonas protegidas ali, e celebra-se a vida selvagem liberta das restrições humanas."
+    },
+    {
+      "id": 6,
+      "fr": "La gastronomie tourangelle, réputée pour ses rillettes, séduit par une simplicité désarmante. On y goûte des vins que l'on aime, des fromages de chèvre délicats, et l'on apprend que la cuisine, même désarticulée dans ses gestes, reste un art avant tout.",
+      "pt": "A gastronomia de Tours, famosa por suas rillettes, seduz por uma simplicidade desarmante. Prova-se ali vinhos de que se gosta, queijos de cabra delicados, e aprende-se que a cozinha, mesmo desarticulada em seus gestos, continua sendo acima de tudo uma arte."
+    },
+    {
+      "id": 7,
+      "fr": "Des chercheurs tourangeaux, à la pointe de la psychologie et de la linguistique, mènent des travaux freudiens et herméneutiques reconnus. On y confronte les hypothèses, on y admet les limites, et l'on refuse les raccourcis hypnotiques qui séduisent sans instruire.",
+      "pt": "Pesquisadores de Tours, na vanguarda da psicologia e da linguística, conduzem trabalhos freudianos e hermenêuticos reconhecidos. Confrontam-se ali as hipóteses, admitem-se os limites, e recusam-se os atalhos hipnóticos que seduzem sem instruir."
+    },
+    {
+      "id": 8,
+      "fr": "Le soir, la Loire reflète les dernières lueurs et Tours savoure une quiétude rare. Berceau de la langue, jardin du goût, sanctuaire du patrimoine : la ville demeure un modèle d'équilibre, où la mémoire et l'avenir se donnent la main.",
+      "pt": "À noite, o Loire reflete as últimas luzes e Tours saboreia uma quietude rara. Berço da língua, jardim do paladar, santuário do patrimônio: a cidade permanece um modelo de equilíbrio, onde a memória e o futuro dão-se as mãos."
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "galvauder",
+      "definitionPt": "desgastar / banalizar",
+      "definitionFr": "Faire dégénérer quelque chose, le banaliser par un usage abusif.",
+      "inflections": ["galvauder", "je galvaude", "galvaudé"],
+      "ptTargets": ["banalizar"],
+      "examples": [
+        { "level": "A1", "fr": "Ne galvaude pas ton talent.", "pt": "Não desperdice seu talento." },
+        { "level": "A2-B1", "fr": "Il refuse de galvauder son héritage.", "pt": "Ele recusa banalizar sua herança." },
+        { "level": "B2", "fr": "Une marque galvaudée perd tout son prestige.", "pt": "Uma marca banalizada perde todo o prestígio." },
+        { "level": "C1-C2", "fr": "Galvauder un mot noble finit par en vider le sens.", "pt": "Banalizar uma palavra nobre acaba esvaziando seu sentido." }
+      ]
+    },
+    {
+      "term": "configurer",
+      "definitionPt": "configurar",
+      "definitionFr": "Disposer, organiser selon un ensemble de réglages.",
+      "inflections": ["configurer", "je configure", "configuré"],
+      "ptTargets": ["configurar"],
+      "examples": [
+        { "level": "A1", "fr": "Il configure son téléphone.", "pt": "Ele configura seu celular." },
+        { "level": "A2-B1", "fr": "Configure l'application avant de l'utiliser.", "pt": "Configure o aplicativo antes de usá-lo." },
+        { "level": "B2", "fr": "On a configuré la salle pour le concert.", "pt": "Configurou-se a sala para o concerto." },
+        { "level": "C1-C2", "fr": "Configurer les espaces publics selon les usages exige une vraie expertise.", "pt": "Configurar os espaços públicos segundo os usos exige verdadeira expertise." }
+      ]
+    },
+    {
+      "term": "désarticuler",
+      "definitionPt": "desarticular / desmontar",
+      "definitionFr": "Disloquer, rompre l'articulation, démonter.",
+      "inflections": ["désarticuler", "je désarticule", "désarticulé"],
+      "ptTargets": ["desarticular"],
+      "examples": [
+        { "level": "A1", "fr": "Ils ont désarticulé le meuble.", "pt": "Eles desmontaram o móvel." },
+        { "level": "A2-B1", "fr": "Il désarticule son poignet en tombant.", "pt": "Ele desarticula o punho ao cair." },
+        { "level": "B2", "fr": "Son argument, désarticulé, manque de cohérence.", "pt": "Seu argumento, desarticulado, carece de coerência." },
+        { "level": "C1-C2", "fr": "Désarticuler les strates du bâtiment révèle plusieurs siècles d'usages.", "pt": "Desarticular as camadas do edifício revela vários séculos de usos." }
+      ]
+    },
+    {
+      "term": "hypnotique",
+      "definitionPt": "hipnótico",
+      "definitionFr": "Qui produit une influence de l'ordre de l'hypnose.",
+      "inflections": ["hypnotique", "hypnotiques"],
+      "ptTargets": ["hipnótico"],
+      "examples": [
+        { "level": "A1", "fr": "La musique est hypnotique.", "pt": "A música é hipnótica." },
+        { "level": "A2-B1", "fr": "Son regard avait un effet hypnotique.", "pt": "Seu olhar tinha um efeito hipnótico." },
+        { "level": "B2", "fr": "Le rythme des vagues exerce un pouvoir hypnotique.", "pt": "O ritmo das ondas exerce um poder hipnótico." },
+        { "level": "C1-C2", "fr": "Se méfier des discours hypnotiques, c'est préserver la liberté de jugement.", "pt": "Desconfiar dos discursos hipnóticos é preservar a liberdade de julgamento." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Os adjetivos pós-verbais e o tom erudito",
+    "explanationPt": "No registro C1-C2, o adjetivo anteposto ou posposto muda o matiz: 'un soin presque religieux' (épiteto), 'des zones protégées' (particípio adjetivo). O particípio passado adjetivado concorda com o nome.",
+    "exampleFr": "Des zones protégées, des jardins enclavés, des tapisseries admirées.",
+    "examplePt": "Zonas protegidas, jardins enclavados, tapeçarias admiradas.",
+    "practiceQuestion": "Complete: « des berges ___ avec soin » (restaurer).",
+    "options": ["restaurées", "restauré", "restaurée", "restaurer"],
+    "correctIndex": 0,
+    "explanationPt": "'des berges' é feminino plural: particípio 'restaurées'."
+  },
+  "quizQuestions": [
+    {
+      "question": "De quoi Tours s'enorgueillit-elle ?",
+      "options": ["De parler le français le plus pur", "D'être une ville portuaire", "De ses volcans", "De sa banquise"],
+      "correctIndex": 0,
+      "explanation": "Tours revendique le français le plus pur."
+    },
+    {
+      "question": "Quels édifices bordent la ville ?",
+      "options": ["Les châteaux de la Loire", "Les gratte-ciel", "Les mosquées", "Les lacs salés"],
+      "correctIndex": 0,
+      "explanation": "Les châteaux de la Loire admirent près de Tours."
+    },
+    {
+      "question": "Pour quoi Tours est-elle célèbre en gastronomie ?",
+      "options": ["Les rillettes", "Les sushis", "Les escargots exotiques", "Le fromage bleu"],
+      "correctIndex": 0,
+      "explanation": "La cuisine tourangelle est réputée pour ses rillettes."
+    }
+  ]
+}

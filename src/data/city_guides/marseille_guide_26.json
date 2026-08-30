@@ -1,0 +1,150 @@
+{
+  "id": "marseille_guide_26",
+  "cityId": "marseille",
+  "domain": "Cultura",
+  "level": "Nível (C1)",
+  "titleFr": "Le journalisme et la ville-port",
+  "titlePt": "O jornalismo e a cidade-porto",
+  "subtitleFr": "Marseille, entre la plume, le quai et le tumulte des idées",
+  "subtitlePt": "Marseille, entre a pena, o cais e o tumulto das ideias",
+  "summaryPt": "Enciclopédia de Marseille, seção 26: o jornalismo, a crítica social, o vocabulário da imprensa e das lutas coletivas na cidade-porto. Vocabulário do nível C1.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Au Vieux-Port, l'air sent le sel et l'huile d'olive. Chaque matin, les vagues déferlent contre le quai tandis que les bateaux s'éloignent vers l'embouchure du Rhône. De cette ville montent des rumeurs, des cris, des chansons : un tumulte d'où émanent mille histoires.",
+      "pt": "No Vieux-Port, o ar cheira a sal e azeite. Todas as manhãs, as ondas avançam contra o cais enquanto os barcos se afastam em direção à foz do Ródano. Dessa cidade sobem rumores, gritos, canções: um tumulto de onde emanam mil histórias."
+    },
+    {
+      "id": 2,
+      "fr": "Dans la salle de rédaction, l'éditorialiste prépare son texte de la semaine. L'envoyé spécial revient du quartier nord avec des témoignages, tandis que l'attaché de presse du maire attend dans le couloir. Le téléphone sonne sans arrêt.",
+      "pt": "Na redação, o editorialista prepara seu texto da semana. O enviado especial volta do bairro do norte com depoimentos, enquanto o assessor de imprensa do prefeito espera no corredor. O telefone não para de tocar."
+    },
+    {
+      "id": 3,
+      "fr": "Certains journaux encensent les puissants du jour, d'autres préfèrent étriller les décisions municipales. Le vrai journalisme ne consiste ni à dénigrer ni à décrier tout ce qui bouge : il doit raconter, vérifier, expliquer. Discréditer un témoin sans preuve est une faute grave, parfois diffamatoire.",
+      "pt": "Alguns jornais exaltam os poderosos do dia, outros preferem criticar duramente as decisões municipais. O verdadeiro jornalismo não consiste nem em denegrir nem em depreciar tudo o que se move: ele deve narrar, verificar, explicar. Desacreditar uma testemunha sem prova é uma falta grave, às vezes difamatória."
+    },
+    {
+      "id": 4,
+      "fr": "L'été dernier, une action collective a bloqué le port pendant trois jours. L'activisme syndical, l'altermondialisme et les associations de quartier se sont retrouvés côte à côte. Certains criaient à l'extrémisme ; d'autres parlaient d'autodétermination. L'ethnocentrisme des puissants a fait le reste.",
+      "pt": "No verão passado, uma ação coletiva bloqueou o porto durante três dias. O ativismo sindical, o altermondialismo e as associações de bairro se encontraram lado a lado. Alguns gritavam 'extremismo'; outros falavam de autodeterminação. O etnocentrismo dos poderosos fez o resto."
+    },
+    {
+      "id": 5,
+      "fr": "Lors de la conférence de presse, le maire a esquissé une réponse, puis il a éludé la question centrale. Il savait esquiver les pièges, mais le journaliste éminent du journal régional ne s'est pas laissé désarçonner. Le public, désabusé, attendait des actes.",
+      "pt": "Na coletiva de imprensa, o prefeito esboçou uma resposta, depois esquivou-se da questão central. Ele sabia desviar das armadilhas, mas o jornalista eminente do jornal regional não se deixou desconcertar. O público, desiludido, esperava atos."
+    },
+    {
+      "id": 6,
+      "fr": "Au musée, une exposition envoûtante réunit l'art baroque du Sud et l'expressionnisme du XXe siècle. Dans les textes, les critiques relèvent l'anaphore du poète et l'épigraphe mystérieuse du catalogue. Même l'antihéros du roman marseillais trouve ici sa place.",
+      "pt": "No museu, uma exposição fascinante reúne a arte barroca do Sul e o expressionismo do século XX. Nos textos, os críticos destacam a anáfora do poeta e a epígrafe misteriosa do catálogo. Até o anti-herói do romance marseillais encontra aqui seu lugar."
+    },
+    {
+      "id": 7,
+      "fr": "Sur le port, les réformes se succèdent. Certains veulent déréguler le trafic pour attirer les grands navires ; d'autres dénoncent une logique qui finira par déposséder les petits pêcheurs. Le débat, vif et parfois dérisoire, occupe les terrasses jusqu'à la nuit.",
+      "pt": "No porto, as reformas se sucedem. Alguns querem desregular o tráfego para atrair os grandes navios; outros denunciam uma lógica que acabará por despojar os pequenos pescadores. O debate, vivo e às vezes irrisório, ocupa os terraços até a noite."
+    },
+    {
+      "id": 8,
+      "fr": "Malgré les tensions, Marseille garde son charme rude. L'écomobilité progresse, les quartiers se transforment, la mer reste au bout de chaque rue. Les histoires continuent de déferler, portées par le mistral, comme les vagues contre le vieux quai.",
+      "pt": "Apesar das tensões, Marseille guarda seu charme rude. A ecomobilidade avança, os bairros se transformam, o mar continua no fim de cada rua. As histórias continuam a avançar, levadas pelo mistral, como as ondas contra o velho cais."
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "l'éditorialiste",
+      "definitionPt": "o editorialista",
+      "definitionFr": "Journaliste qui écrit l'éditorial, texte d'opinion du journal.",
+      "inflections": ["l'éditorialiste", "l'éditorial", "éditorialiser"],
+      "ptTargets": ["editorialista"],
+      "examples": [
+        { "level": "A1", "fr": "L'éditorialiste écrit un texte.", "pt": "O editorialista escreve um texto." },
+        { "level": "A2-B1", "fr": "L'éditorialiste donne son avis chaque semaine.", "pt": "O editorialista dá sua opinião toda semana." },
+        { "level": "B2", "fr": "L'éditorialiste engage la ligne du journal.", "pt": "O editorialista define a linha do jornal." },
+        { "level": "C1-C2", "fr": "L'éditorialiste transforme l'actualité en question de conscience.", "pt": "O editorialista transforma a atualidade em questão de consciência." }
+      ]
+    },
+    {
+      "term": "dénigrer",
+      "definitionPt": "denegrir / depreciar",
+      "definitionFr": "Critiquer avec malveillance, chercher à diminuer quelqu'un.",
+      "inflections": ["dénigrer", "je dénigre", "dénigré"],
+      "ptTargets": ["denegrir"],
+      "examples": [
+        { "level": "A1", "fr": "Il dénigre toujours les autres.", "pt": "Ele sempre denigre os outros." },
+        { "level": "A2-B1", "fr": "Arrête de dénigrer son travail.", "pt": "Pare de denegrir o trabalho dele." },
+        { "level": "B2", "fr": "Dénigrer sans proposer de solution est stérile.", "pt": "Denegrir sem propor solução é estéril." },
+        { "level": "C1-C2", "fr": "Dénigrer une œuvre, c'est souvent ne pas avoir pris la peine de la lire.", "pt": "Denegrir uma obra é muitas vezes não ter se dado ao trabalho de lê-la." }
+      ]
+    },
+    {
+      "term": "l'action collective",
+      "definitionPt": "a ação coletiva",
+      "definitionFr": "Mouvement organisé par un groupe pour défendre une cause.",
+      "inflections": ["l'action collective", "les actions collectives", "collectif"],
+      "ptTargets": ["ação coletiva"],
+      "examples": [
+        { "level": "A1", "fr": "L'action collective aide le quartier.", "pt": "A ação coletiva ajuda o bairro." },
+        { "level": "A2-B1", "fr": "Ils ont organisé une action collective.", "pt": "Eles organizaram uma ação coletiva." },
+        { "level": "B2", "fr": "L'action collective a obtenu des résultats concrets.", "pt": "A ação coletiva obteve resultados concretos." },
+        { "level": "C1-C2", "fr": "L'action collective transforme une colère individuelle en force politique.", "pt": "A ação coletiva transforma uma raiva individual em força política." }
+      ]
+    },
+    {
+      "term": "esquiver",
+      "definitionPt": "esquivar / desviar",
+      "definitionFr": "Éviter adroitement une question, un coup ou un obstacle.",
+      "inflections": ["esquiver", "j'esquive", "esquivé"],
+      "ptTargets": ["esquivar"],
+      "examples": [
+        { "level": "A1", "fr": "Il esquive la balle.", "pt": "Ele desvia da bola." },
+        { "level": "A2-B1", "fr": "Elle esquive la question difficile.", "pt": "Ela esquiva da pergunta difícil." },
+        { "level": "B2", "fr": "Esquiver le débat ne fait pas disparaître le problème.", "pt": "Esquivar do debate não faz o problema desaparecer." },
+        { "level": "C1-C2", "fr": "Esquiver une objection élégante vaut parfois mieux qu'une réponse confuse.", "pt": "Esquivar de uma objeção elegante vale às vezes mais do que uma resposta confusa." }
+      ]
+    },
+    {
+      "term": "envoûtant",
+      "definitionPt": "fascinante / enfeitiçante",
+      "definitionFr": "Qui exerce un charme puissant, presque magique.",
+      "inflections": ["envoûtant", "envoûtante", "envoûter"],
+      "ptTargets": ["fascinante"],
+      "examples": [
+        { "level": "A1", "fr": "La musique est envoûtante.", "pt": "A música é fascinante." },
+        { "level": "A2-B1", "fr": "Ce paysage a un charme envoûtant.", "pt": "Essa paisagem tem um charme fascinante." },
+        { "level": "B2", "fr": "L'atmosphère du Vieux-Port est envoûtante au coucher du soleil.", "pt": "A atmosfera do Vieux-Port é fascinante ao pôr do sol." },
+        { "level": "C1-C2", "fr": "Une ville envoûtante ne se laisse jamais entièrement apprivoiser.", "pt": "Uma cidade fascinante nunca se deixa inteiramente domar." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "A negação complexa: 'ni... ni' e 'sans jamais'",
+    "explanationPt": "Para expressar recusa dupla, usa-se 'ni... ni' + substantivo ou infinitivo: 'ne consiste ni à dénigrer ni à décrier'. 'Sans jamais' + infinitivo expressa um limite permanente: 'sans jamais les dicter'.",
+    "exampleFr": "Le vrai journalisme ne consiste ni à flatter ni à détruire, mais à éclairer.",
+    "examplePt": "O verdadeiro jornalismo não consiste nem em bajular nem em destruir, mas em iluminar.",
+    "practiceQuestion": "Complete: « Il ne faut ___ dénigrer ___ décrier sans preuve. »",
+    "options": ["ni... ni", "ou... ou", "soit... soit", "plus... plus"],
+    "correctIndex": 0,
+    "explanationPt": "'Ni... ni' nega duas coisas ao mesmo tempo."
+  },
+  "quizQuestions": [
+    {
+      "question": "Qui attend dans le couloir de la rédaction ?",
+      "options": ["L'attaché de presse du maire", "Le pêcheur", "L'antihéros", "Le poète"],
+      "correctIndex": 0,
+      "explanation": "L'attaché de presse du maire attend dans le couloir."
+    },
+    {
+      "question": "Quel mouvement a bloqué le port pendant trois jours ?",
+      "options": ["Une action collective", "Une exposition", "Un concert", "Une course"],
+      "correctIndex": 0,
+      "explanation": "Une action collective a bloqué le port pendant trois jours."
+    },
+    {
+      "question": "Que relèvent les critiques dans les textes du musée ?",
+      "options": ["L'anaphore et l'épigraphe", "Le chiffre et la date", "Le prix et la marque", "Le nom et l'adresse"],
+      "correctIndex": 0,
+      "explanation": "Les critiques relèvent l'anaphore du poète et l'épigraphe du catalogue."
+    }
+  ]
+}

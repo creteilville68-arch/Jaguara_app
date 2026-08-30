@@ -1,0 +1,150 @@
+{
+  "id": "lille_guide_26",
+  "cityId": "lille",
+  "domain": "Cotidiano",
+  "level": "Nível (A2)",
+  "titleFr": "La vie de quartier à Lille",
+  "titlePt": "A vida de bairro em Lille",
+  "subtitleFr": "Les cheveux, les lunettes, les murs et les petites histoires du quartier",
+  "subtitlePt": "Os cabelos, os óculos, os muros e as pequenas histórias do bairro",
+  "summaryPt": "Enciclopédia de Lille, seção 26: a vida de bairro, a descrição das pessoas, os recados da manhã e as pequenas histórias dos vizinhos. Vocabulário do nível A2.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Dans le quartier de Wazemmes, chacun a son allure. Zoé a les cheveux longs et bruns ; son frère a les cheveux courts et raides. Leur cousine, elle, a les cheveux frisés et blonds. On les reconnaît de loin.",
+      "pt": "No bairro de Wazemmes, cada um tem seu jeito. Zoé tem cabelos compridos e castanhos; seu irmão tem cabelos curtos e lisos. A prima deles, por sua vez, tem cabelos crespos e loiros. Reconhecem-se de longe."
+    },
+    {
+      "id": 2,
+      "fr": "Le matin, Zoé se dépêche. Elle met sa combinaison de travail, elle prend son sac et elle sort. Il fait beau, alors elle porte des lunettes de soleil. Au feu vert, elle traverse la grande avenue.",
+      "pt": "De manhã, Zoé se apressa. Ela veste seu macacão de trabalho, pega a bolsa e sai. Faz tempo bom, então ela usa óculos de sol. No sinal verde, ela atravessa a grande avenida."
+    },
+    {
+      "id": 3,
+      "fr": "Zoé travaille à la mairie. Aujourd'hui, elle doit peindre un mur dans la salle des fêtes. Elle prépare la peinture, elle met une vieille chemise et elle commence. Le mur est grand, mais Zoé est rapide.",
+      "pt": "Zoé trabalha na prefeitura. Hoje, ela precisa pintar uma parede no salão de festas. Ela prepara a tinta, veste uma camisa velha e começa. A parede é grande, mas Zoé é rápida."
+    },
+    {
+      "id": 4,
+      "fr": "Pour finir, elle doit recouvrir une petite zone avec une nouvelle couche. Elle utilise un rouleau et elle fait attention aux bords. Une collègue arrive et rit : « Tu es une vraie peintre ! »",
+      "pt": "Para terminar, ela precisa cobrir uma pequena área com uma nova camada. Ela usa um rolo e presta atenção nas bordas. Uma colega chega e ri: 'Você é uma verdadeira pintora!'"
+    },
+    {
+      "id": 5,
+      "fr": "À midi, Zoé retrouve sa voisine madame Rose. Madame Rose est jalouse de la nouvelle terrasse du café, mais elle ne le dit pas trop. Elle parle plutôt de sa petite-fille, une orpheline qu'elle élève avec beaucoup d'amour.",
+      "pt": "Ao meio-dia, Zoé encontra a vizinha madame Rose. Madame Rose está com inveja do novo terraço do café, mas não diz muito. Ela fala antes de sua neta, uma órfã que ela cria com muito amor."
+    },
+    {
+      "id": 6,
+      "fr": "Après le déjeuner, Zoé passe à la papeterie. Elle cherche une perforatrice pour la mairie et un cahier pour la petite fille. La vendeuse l'aide avec un grand sourire. Le quartier, c'est comme une famille.",
+      "pt": "Depois do almoço, Zoé passa na papelaria. Ela procura um perfurador para a prefeitura e um caderno para a menina. A vendedora a ajuda com um grande sorriso. O bairro é como uma família."
+    },
+    {
+      "id": 7,
+      "fr": "En rentrant, Zoé remarque la nouvelle rampe devant la boulangerie. Un homme handicapé entre facilement avec son fauteuil. Zoé est contente : la ville change, petit à petit, pour tout le monde.",
+      "pt": "Ao voltar, Zoé nota a nova rampa diante da padaria. Um homem com deficiência entra facilmente com sua cadeira de rodas. Zoé fica contente: a cidade muda, aos poucos, para todos."
+    },
+    {
+      "id": 8,
+      "fr": "Le soir, Zoé se repose. Elle regarde le mur qu'elle a peint et elle sourit. Elle pense à la petite orpheline, à madame Rose, au feu vert du matin. Lille, c'est ça : mille petites vies qui se croisent.",
+      "pt": "À noite, Zoé descansa. Ela olha a parede que pintou e sorri. Ela pensa na pequena órfã, em madame Rose, no sinal verde da manhã. Lille é isso: mil pequenas vidas que se cruzam."
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "les cheveux frisés",
+      "definitionPt": "o cabelo crespo / cacheado",
+      "definitionFr": "Cheveux qui forment des boucles serrées.",
+      "inflections": ["les cheveux frisés", "des cheveux frisés", "frisé"],
+      "ptTargets": ["cabelo crespo"],
+      "examples": [
+        { "level": "A1", "fr": "Elle a les cheveux frisés.", "pt": "Ela tem cabelo crespo." },
+        { "level": "A2-B1", "fr": "Mon cousin a les cheveux frisés et blonds.", "pt": "Meu primo tem cabelo crespo e loiro." },
+        { "level": "B2", "fr": "Les cheveux frisés demandent des soins particuliers.", "pt": "Cabelo crespo exige cuidados especiais." },
+        { "level": "C1-C2", "fr": "Elle assumait ses cheveux frisés comme une signature.", "pt": "Ela assumia o cabelo crespo como uma assinatura." }
+      ]
+    },
+    {
+      "term": "porter des lunettes de soleil",
+      "definitionPt": "usar óculos de sol",
+      "definitionFr": "Avoir des lunettes teintées sur les yeux pour se protéger du soleil.",
+      "inflections": ["porter des lunettes de soleil", "des lunettes de soleil"],
+      "ptTargets": ["óculos de sol"],
+      "examples": [
+        { "level": "A1", "fr": "Je porte des lunettes de soleil l'été.", "pt": "Eu uso óculos de sol no verão." },
+        { "level": "A2-B1", "fr": "Elle porte des lunettes de soleil quand il fait beau.", "pt": "Ela usa óculos de sol quando faz tempo bom." },
+        { "level": "B2", "fr": "Porter des lunettes de soleil protège les yeux en plein été.", "pt": "Usar óculos de sol protege os olhos no auge do verão." },
+        { "level": "C1-C2", "fr": "Porter des lunettes de soleil sur une place ensoleillée, c'est aussi choisir son regard.", "pt": "Usar óculos de sol numa praça ensolarada é também escolher o próprio olhar." }
+      ]
+    },
+    {
+      "term": "jaloux",
+      "definitionPt": "ciumento / invejoso",
+      "definitionFr": "Qui éprouve de l'envie ou de la possessivité.",
+      "inflections": ["jaloux", "jalouse", "la jalousie"],
+      "ptTargets": ["ciumento"],
+      "examples": [
+        { "level": "A1", "fr": "Il est jaloux de son frère.", "pt": "Ele tem ciúme do irmão." },
+        { "level": "A2-B1", "fr": "Elle est jalouse de la nouvelle voiture de son voisin.", "pt": "Ela está com inveja do carro novo do vizinho." },
+        { "level": "B2", "fr": "Être jaloux de la réussite des autres est une perte d'énergie.", "pt": "Ter inveja do sucesso dos outros é perda de energia." },
+        { "level": "C1-C2", "fr": "Le regard jaloux dit plus sur celui qui regarde que sur ce qu'il envie.", "pt": "O olhar invejoso diz mais sobre quem olha do que sobre o que se inveja." }
+      ]
+    },
+    {
+      "term": "peindre un mur",
+      "definitionPt": "pintar uma parede",
+      "definitionFr": "Appliquer de la peinture sur une surface verticale.",
+      "inflections": ["peindre un mur", "je peins", "peint"],
+      "ptTargets": ["pintar"],
+      "examples": [
+        { "level": "A1", "fr": "Je peins le mur de ma chambre.", "pt": "Eu pinto a parede do meu quarto." },
+        { "level": "A2-B1", "fr": "Il faut peindre le mur avant la fête.", "pt": "É preciso pintar a parede antes da festa." },
+        { "level": "B2", "fr": "Peindre un mur demande de la patience et un bon rouleau.", "pt": "Pintar uma parede exige paciência e um bom rolo." },
+        { "level": "C1-C2", "fr": "Peindre un mur, c'est aussi donner une nouvelle voix à une pièce.", "pt": "Pintar uma parede é também dar uma nova voz a um cômodo." }
+      ]
+    },
+    {
+      "term": "recouvrir",
+      "definitionPt": "cobrir / revestir",
+      "definitionFr": "Mettre une couche par-dessus une surface.",
+      "inflections": ["recouvrir", "je recouvre", "recouvert"],
+      "ptTargets": ["cobrir"],
+      "examples": [
+        { "level": "A1", "fr": "Je recouvre la table d'une nappe.", "pt": "Eu cubro a mesa com uma toalha." },
+        { "level": "A2-B1", "fr": "Il recouvre le mur d'une couche de peinture blanche.", "pt": "Ele cobre a parede com uma camada de tinta branca." },
+        { "level": "B2", "fr": "La neige recouvre les toits du quartier en hiver.", "pt": "A neve cobre os telhados do bairro no inverno." },
+        { "level": "C1-C2", "fr": "Le temps recouvre les souvenirs d'une fine couche de douceur.", "pt": "O tempo cobre as lembranças com uma fina camada de doçura." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Os possessivos e a descrição física",
+    "explanationPt": "Para descrever pessoas, usamos 'avoir' + parte do corpo: 'elle a les cheveux longs', 'il a les cheveux courts'. O artigo definido ('les') é usado em vez do possessivo quando o dono já está claro.",
+    "exampleFr": "Sa cousine a les cheveux frisés et blonds, et moi, j'ai les cheveux courts.",
+    "examplePt": "A prima dele tem cabelo crespo e loiro, e eu, tenho cabelo curto.",
+    "practiceQuestion": "Complete: « Zoé ___ les cheveux longs et bruns. »",
+    "options": ["a", "est", "fait", "va"],
+    "correctIndex": 0,
+    "explanationPt": "Usamos 'avoir' para características físicas: 'Zoé a les cheveux longs'."
+  },
+  "quizQuestions": [
+    {
+      "question": "Que doit faire Zoé dans la salle des fêtes ?",
+      "options": ["Peindre un mur", "Envoyer un colis", "Nourrir le chat", "Éteindre les appareils"],
+      "correctIndex": 0,
+      "explanation": "Zoé doit peindre un mur dans la salle des fêtes."
+    },
+    {
+      "question": "Qui madame Rose élève-t-elle avec amour ?",
+      "options": ["Une orpheline", "Un chien", "Un chat", "Une plante"],
+      "correctIndex": 0,
+      "explanation": "Madame Rose parle de sa petite-fille, une orpheline qu'elle élève."
+    },
+    {
+      "question": "Quel homme peut maintenant entrer facilement à la boulangerie ?",
+      "options": ["Un homme handicapé", "Un homme pressé", "Un peintre", "Un facteur"],
+      "correctIndex": 0,
+      "explanation": "Grâce à la nouvelle rampe, un homme handicapé entre facilement."
+    }
+  ]
+}

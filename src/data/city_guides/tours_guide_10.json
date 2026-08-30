@@ -36,8 +36,44 @@
     },
     {
       "id": 6,
-      "fr": "Le terroir de Touraine enseigne enfin la valeur du temps long. Construire une réputation viticole demande des générations ; la détruire, quelques scandales suffisent. Les vignerons le savent : leur travail s'inscrit dans une continuité qui dépasse leur propre existence. Cette conscience de la durée, rare dans notre époque d'immédiateté, confère aux paysages tourangeaux une profondeur singulière. Elle invite le visiteur à ralentir, à déguster, à écouter les histoires que racontent les caves. Dans un monde pressé, le Loire offre cette respiration précieuse : le goût du temps retrouvé.",
-      "pt": "O terroir de Touraine ensina, enfim, o valor do tempo longo. Construir uma reputação vinícola exige gerações; destruí-la, bastam alguns escândalos. Os vinicultores sabem disso: seu trabalho se inscreve numa continuidade que ultrapassa sua própria existência. Essa consciência da duração, rara em nossa época de imediatismo, confere às paisagens do Loire uma profundidade singular. Ela convida o visitante a desacelerar, a degustar, a escutar as histórias que as caves contam. Num mundo apressado, o Loire oferece essa respiração preciosa: o gosto do tempo reencontrado."
+      "fr": "Le terroir de Touraine enseigne enfin la valeur du temps long. Construire une réputation viticole demande des générations ; la détruire, quelques scandales suffisent. Ici, le grand-père plantait la vigne, le fils la taillait, le petit-fils la vendangeait. Les vignerons le savent : leur travail s'inscrit dans une continuité qui dépasse leur propre existence. Cette conscience de la durée, rare dans notre époque d'immédiateté, confère aux paysages tourangeaux une profondeur singulière. Elle invite le visiteur à ralentir, à déguster, à écouter les histoires que racontent les caves. Dans un monde pressé, le Loire offre cette respiration précieuse : le goût du temps retrouvé.",
+      "pt": "O terroir de Touraine ensina, enfim, o valor do tempo longo. Construir uma reputação vinícola exige gerações; destruí-la, bastam alguns escândalos. Aqui, o avô plantava a vinha, o filho a podava, o neto a colhia. Os vinicultores sabem disso: seu trabalho se inscreve numa continuidade que ultrapassa sua própria existência. Essa consciência da duração, rara em nossa época de imediatismo, confere às paisagens do Loire uma profundidade singular. Ela convida o visitante a desacelerar, a degustar, a escutar as histórias que as caves contam. Num mundo apressado, o Loire oferece essa respiração preciosa: o gosto do tempo reencontrado."
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "grand-père",
+      "definitionPt": "avô",
+      "definitionFr": "Le père du père ou de la mère.",
+      "inflections": [
+        "grand-père",
+        "grands-pères"
+      ],
+      "ptTargets": [
+        "avô"
+      ],
+      "examples": [
+        {
+          "level": "A1",
+          "fr": "Mon grand-père a quatre-vingts ans.",
+          "pt": "Meu avô tem oitenta anos."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Je passais mes étés chez mon grand-père.",
+          "pt": "Eu passava meus verões na casa do meu avô."
+        },
+        {
+          "level": "B2",
+          "fr": "Ce grand-père viticulteur a transmis son savoir à trois générations.",
+          "pt": "Esse avô viticultor transmitiu seu saber a três gerações."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Le grand-père, gardien du terroir, incarne une mémoire que rien ne remplace.",
+          "pt": "O avô, guardião do terroir, encarna uma memória que nada substitui."
+        }
+      ]
     }
   ]
 }

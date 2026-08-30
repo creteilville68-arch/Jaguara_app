@@ -18,23 +18,24 @@ const OUT = join(process.cwd(), 'scripts', 'city_words_to_write.json');
 type Level = 'A1' | 'A2' | 'B1' | 'B2' | 'C1' | 'C2';
 const LEVEL_ORDER: Level[] = ['A1', 'A2', 'B1', 'B2', 'C1', 'C2'];
 
-const LEVEL_CITIES: Record<Level, string[]> = {
-  A1: ['paris', 'amiens'],
-  A2: ['amiens', 'lille', 'mont-saint-michel'],
-  B1: ['mont-saint-michel', 'tours', 'bordeaux'],
-  B2: ['toulouse', 'lyon'],
-  C1: ['marseille', 'strasbourg'],
-  C2: ['nice'],
-};
+const ALL_CITIES = [
+  'paris', 'amiens', 'lille', 'mont-saint-michel', 'tours', 'bordeaux',
+  'toulouse', 'lyon', 'marseille', 'strasbourg', 'nice',
+];
 
-const ALL_CITIES = ['paris', 'amiens', 'lille', 'mont-saint-michel', 'tours', 'bordeaux', 'toulouse', 'lyon', 'marseille', 'strasbourg', 'nice'];
-
-// Concatenate every city's lesson text.
+// Concatenate every lesson and encyclopedia guide text. The planning list
+// must use the same corpus as the coverage report, otherwise it can assign
+// words that are already present in a guide.
+const GUIDE_DIR = join(DATA_DIR, 'city_guides');
+const textFiles = [
+  ...readdirSync(DATA_DIR).filter((f) => /_lesson_\d+\.json$/.test(f)).map((f) => join(DATA_DIR, f)),
+  ...readdirSync(GUIDE_DIR).filter((f) => /_guide_\d+\.json$/.test(f)).map((f) => join(GUIDE_DIR, f)),
+];
 let globalText = '';
-for (const f of readdirSync(DATA_DIR).filter((f) => /_lesson_\d+\.json$/.test(f))) {
+for (const filePath of textFiles) {
   let data: any;
   try {
-    data = JSON.parse(readFileSync(join(DATA_DIR, f), 'utf8'));
+    data = JSON.parse(readFileSync(filePath, 'utf8'));
   } catch {
     continue;
   }
@@ -57,14 +58,17 @@ for (const lvl of LEVEL_ORDER) {
   (byLevel[lvl] || []).sort((a, b) => fold(a.term).localeCompare(fold(b.term)));
 }
 
-// Round-robin each level's missing words across that level's cities.
+// Round-robin the complete backlog across every city. Each city can host
+// advanced vocabulary in the encyclopedia; the assignment is intentionally
+// balanced instead of tying a CEFR level to one fixed city.
 const toWrite: Record<string, typeof globallyMissing> = {};
 for (const c of ALL_CITIES) toWrite[c] = [];
+let assignmentIndex = 0;
 for (const lvl of LEVEL_ORDER) {
-  const cities = LEVEL_CITIES[lvl];
-  (byLevel[lvl] || []).forEach((w, i) => {
-    toWrite[cities[i % cities.length]].push(w);
-  });
+  for (const word of byLevel[lvl] || []) {
+    toWrite[ALL_CITIES[assignmentIndex % ALL_CITIES.length]].push(word);
+    assignmentIndex += 1;
+  }
 }
 
 console.log('GLOBAL_MISSING', globallyMissing.length);

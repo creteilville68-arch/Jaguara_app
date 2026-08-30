@@ -28,6 +28,7 @@ import { LESSON_DICTIONARY_25 } from './lessonDictionary25';
 import { MASTER_FRENCH_DICTIONARY } from './masterFrenchDictionary';
 import { FUNCTIONAL_WORDS_DICTIONARY } from './functionalWordsDictionary';
 import { TRAIL_DICTIONARY } from './trailDictionaries';
+import { generateBankExamples } from '../utils/bankExamples';
 
 export const LESSON_DICTIONARY: Record<string, DictionaryEntry> = {
   ...LESSON_DICTIONARY_1,
@@ -172,11 +173,26 @@ export function getStaticLessonEntry(word: string): DictionaryEntry | undefined 
     .replace(/[’ʼ‘]/g, "'")
     .trim();
 
+  const hasFourCompleteExamples = (examples: DictionaryEntry['examples']): boolean =>
+    Array.isArray(examples) &&
+    examples.length === 4 &&
+    examples.every((example) => example?.fr?.trim() && example?.pt?.trim());
+
+  const enrichWithBankExamples = (entry: DictionaryEntry, lookupWord: string): DictionaryEntry => {
+    if (hasFourCompleteExamples(entry.examples)) return entry;
+    const bankEntry = lookupWordBankEntry(lookupWord) || lookupWordBankEntry(entry.term || entry.wordFr || '');
+    if (!bankEntry) return entry;
+    return {
+      ...entry,
+      examples: generateBankExamples(bankEntry.term, bankEntry.pt),
+    };
+  };
+
   // 1. Check full word first (e.g., "aujourd'hui", "j'entre" or "c'est")
   const directMatch = lookupTermDirect(normalizedWord);
   if (directMatch) {
     return {
-      ...directMatch,
+      ...enrichWithBankExamples(directMatch, word),
       term: word,
     };
   }
@@ -254,7 +270,7 @@ export function getStaticLessonEntry(word: string): DictionaryEntry | undefined 
     const stemMatch = lookupTermDirect(stem);
     if (stemMatch) {
       return {
-        ...stemMatch,
+        ...enrichWithBankExamples(stemMatch, word),
         term: word,
       };
     }
@@ -274,12 +290,13 @@ export function getStaticLessonEntry(word: string): DictionaryEntry | undefined 
       definitionFr: `Mot du vocabulaire français – ${bankLevel}`,
       difficultyLevel: bankLevel,
       isDictionaryTerm: false,
-      examples: [
-        { level: 'A1', fr: `J'apprends « ${fr} » dans ma leçon.`, pt: `Eu aprendo « ${pt} » na minha lição.` },
-        { level: 'A2-B1', fr: `Je note « ${fr} » dans mon carnet de vocabulaire.`, pt: `Eu anoto « ${pt} » no meu caderno de vocabulário.` },
-        { level: 'B2', fr: `Je comprends maintenant le sens de « ${fr} ».`, pt: `Agora eu entendo o sentido de « ${pt} ».` },
-        { level: 'C1-C2', fr: `L'emploi nuancé de « ${fr} » révèle une maîtrise avancée du français.`, pt: `O uso matizado de « ${pt} » revela um domínio avançado do francês.` },
-      ],
+      // Sem exemplos fabricados: os antigos templates de metalinguagem
+      // ("J'apprends « X » dans ma leçon", "Je note « X » dans mon carnet...")
+      // violavam a regra 13 da bíblia (exemplos reais do dia a dia, nunca
+      // meta-linguagem). Palavra pontilhada sem curadoria fica sem exemplos e
+      // só vira clicável quando o autor cura os 4 exemplos reais no
+      // masterExamplesDictionary (ver parseClickableSentence).
+      examples: generateBankExamples(fr, pt),
     };
   }
 

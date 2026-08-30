@@ -1,0 +1,148 @@
+import type { MasterExample } from './masterExamplesDictionary';
+
+export const GUIDE_EXPANSION_19_EXAMPLES: Record<string, MasterExample[]> = {
+  débrancher: [
+    { level: 'A1', fr: 'Je débranche le chargeur.', pt: 'Eu desconecto o carregador.' },
+    { level: 'A2-B1', fr: "Il faut débrancher l'appareil avant de le nettoyer.", pt: 'É preciso desconectar o aparelho antes de limpá-lo.' },
+    { level: 'B2', fr: 'Débrancher les appareils inutilisés réduit la consommation.', pt: 'Desconectar os aparelhos sem uso reduz o consumo.' },
+    { level: 'C1-C2', fr: 'Débrancher le numérique pendant une heure permet de retrouver son attention.', pt: 'Desconectar-se do digital por uma hora permite recuperar a atenção.' },
+  ],
+  étendre: [
+    { level: 'A1', fr: "J'étends le linge.", pt: 'Eu estendo a roupa.' },
+    { level: 'A2-B1', fr: 'Elle étend les serviettes au soleil.', pt: 'Ela estende as toalhas ao sol.' },
+    { level: 'B2', fr: 'Le débat peut s\'étendre bien au-delà du quartier.', pt: 'O debate pode se estender muito além do bairro.' },
+    { level: 'C1-C2', fr: 'La recherche étend notre compréhension des territoires.', pt: 'A pesquisa amplia nossa compreensão dos territórios.' },
+  ],
+  vider: [
+    { level: 'A1', fr: 'Je vide le seau.', pt: 'Eu esvazio o balde.' },
+    { level: 'A2-B1', fr: 'Nous vidons le sac après la promenade.', pt: 'Esvaziamos a bolsa depois do passeio.' },
+    { level: 'B2', fr: 'La pluie vide rapidement les réserves du bassin.', pt: 'A chuva esvazia rapidamente as reservas da bacia.' },
+    { level: 'C1-C2', fr: 'Une parole sans écoute peut vider la discussion de son sens.', pt: 'Uma fala sem escuta pode esvaziar a discussão de seu sentido.' },
+  ],
+  'le seau': [
+    { level: 'A1', fr: 'Le seau est dans la salle de bains.', pt: 'O balde está no banheiro.' },
+    { level: 'A2-B1', fr: 'Elle remplit le seau pour laver le sol.', pt: 'Ela enche o balde para lavar o chão.' },
+    { level: 'B2', fr: 'Un seau placé sous la fuite évite que l\'eau abîme le parquet.', pt: 'Um balde colocado sob o vazamento evita que a água danifique o piso.' },
+    { level: 'C1-C2', fr: 'Même un simple seau peut devenir utile quand une infrastructure atteint ses limites.', pt: 'Até um simples balde pode ser útil quando uma infraestrutura chega aos seus limites.' },
+  ],
+  'se déshabiller': [
+    { level: 'A1', fr: 'Je me déshabille avant la douche.', pt: 'Eu tiro a roupa antes do banho.' },
+    { level: 'A2-B1', fr: 'L\'enfant se déshabille et met son pyjama.', pt: 'A criança tira a roupa e veste o pijama.' },
+    { level: 'B2', fr: 'Après le sport, il préfère se déshabiller dans une pièce fraîche.', pt: 'Depois do esporte, ele prefere tirar a roupa num cômodo fresco.' },
+    { level: 'C1-C2', fr: 'Se déshabiller du regard des autres demande une confiance patiemment construite.', pt: 'Despir-se do olhar dos outros exige uma confiança construída com paciência.' },
+  ],
+  amical: [
+    { level: 'A1', fr: 'Il me fait un geste amical.', pt: 'Ele me faz um gesto amigável.' },
+    { level: 'A2-B1', fr: 'Un message amical suffit pour commencer une conversation.', pt: 'Uma mensagem amigável basta para começar uma conversa.' },
+    { level: 'B2', fr: 'Le ton amical de la réunion a facilité le désaccord.', pt: 'O tom amigável da reunião facilitou a discordância.' },
+    { level: 'C1-C2', fr: 'Une attention amicale peut atténuer la distance entre des inconnus.', pt: 'Uma atenção amigável pode atenuar a distância entre desconhecidos.' },
+  ],
+  sympa: [
+    { level: 'A1', fr: 'Le voisin est sympa.', pt: 'O vizinho é simpático.' },
+    { level: 'A2-B1', fr: 'Nous avons rencontré des gens très sympas au marché.', pt: 'Conhecemos pessoas muito simpáticas no mercado.' },
+    { level: 'B2', fr: 'C\'est sympa de proposer son aide quand quelqu\'un est perdu.', pt: 'É simpático oferecer ajuda quando alguém está perdido.' },
+    { level: 'C1-C2', fr: 'Derrière une attitude sympa, il peut aussi y avoir une véritable attention civique.', pt: 'Por trás de uma atitude simpática também pode haver uma verdadeira atenção cívica.' },
+  ],
+  'la honte': [
+    { level: 'A1', fr: "J'ai honte de mon erreur.", pt: 'Tenho vergonha do meu erro.' },
+    { level: 'A2-B1', fr: 'La honte disparaît quand on peut parler librement.', pt: 'A vergonha desaparece quando podemos falar livremente.' },
+    { level: 'B2', fr: 'Il ne faut pas laisser la honte empêcher une demande d\'aide.', pt: 'Não devemos deixar a vergonha impedir um pedido de ajuda.' },
+    { level: 'C1-C2', fr: 'La honte sociale se nourrit souvent d\'une comparaison injuste avec les autres.', pt: 'A vergonha social muitas vezes se alimenta de uma comparação injusta com os outros.' },
+  ],
+  'le malheur': [
+    { level: 'A1', fr: 'Le malheur arrive parfois sans prévenir.', pt: 'A desgraça às vezes chega sem avisar.' },
+    { level: 'A2-B1', fr: 'Après ce malheur, ses voisins l\'ont aidée.', pt: 'Depois dessa desgraça, os vizinhos a ajudaram.' },
+    { level: 'B2', fr: 'Un malheur individuel révèle parfois une difficulté collective.', pt: 'Uma desgraça individual às vezes revela uma dificuldade coletiva.' },
+    { level: 'C1-C2', fr: 'Le malheur ne dispense ni de comprendre ses causes ni de chercher une réponse commune.', pt: 'A desgraça não dispensa compreender suas causas nem buscar uma resposta comum.' },
+  ],
+  plaindre: [
+    { level: 'A1', fr: 'Je me plains du bruit.', pt: 'Reclamo do barulho.' },
+    { level: 'A2-B1', fr: 'Elle se plaint parce que le bus est en retard.', pt: 'Ela reclama porque o ônibus está atrasado.' },
+    { level: 'B2', fr: 'Se plaindre ne suffit pas toujours pour changer une situation.', pt: 'Reclamar nem sempre basta para mudar uma situação.' },
+    { level: 'C1-C2', fr: 'Plutôt que de se plaindre, le collectif a proposé une solution vérifiable.', pt: 'Em vez de reclamar, o coletivo propôs uma solução verificável.' },
+  ],
+  "l'achat": [
+    { level: 'A1', fr: "L'achat est dans mon sac.", pt: 'A compra está na minha bolsa.' },
+    { level: 'A2-B1', fr: "Je garde le ticket de l'achat.", pt: 'Guardo o recibo da compra.' },
+    { level: 'B2', fr: "Un achat réfléchi évite souvent un regret.", pt: 'Uma compra refletida muitas vezes evita um arrependimento.' },
+    { level: 'C1-C2', fr: "L'achat n'est pas seulement une dépense : il exprime aussi une préférence sociale.", pt: 'A compra não é apenas uma despesa: também expressa uma preferência social.' },
+  ],
+  'le désaccord': [
+    { level: 'A1', fr: 'Nous avons un désaccord.', pt: 'Temos uma discordância.' },
+    { level: 'A2-B1', fr: 'Le désaccord porte sur le prix.', pt: 'A discordância diz respeito ao preço.' },
+    { level: 'B2', fr: 'Un désaccord peut devenir utile si chacun écoute les raisons de l\'autre.', pt: 'Uma discordância pode tornar-se útil se cada um escutar as razões do outro.' },
+    { level: 'C1-C2', fr: 'Le désaccord argumenté protège la discussion contre le conformisme.', pt: 'A discordância argumentada protege a discussão contra o conformismo.' },
+  ],
+  "d'occasion": [
+    { level: 'A1', fr: "J'achète un livre d'occasion.", pt: 'Compro um livro usado.' },
+    { level: 'A2-B1', fr: "Cette table d'occasion est encore très solide.", pt: 'Esta mesa usada ainda é muito resistente.' },
+    { level: 'B2', fr: "Acheter d'occasion réduit parfois le coût et les déchets.", pt: 'Comprar usado às vezes reduz o custo e os resíduos.' },
+    { level: 'C1-C2', fr: "Le marché d'occasion remet en question l'idée d'une consommation toujours neuve.", pt: 'O mercado de usados questiona a ideia de um consumo sempre novo.' },
+  ],
+  'le policier': [
+    { level: 'A1', fr: 'Le policier aide une personne.', pt: 'O policial ajuda uma pessoa.' },
+    { level: 'A2-B1', fr: 'Le policier indique le chemin de la gare.', pt: 'O policial indica o caminho da estação.' },
+    { level: 'B2', fr: 'Le policier écoute les témoins avant de rédiger son rapport.', pt: 'O policial escuta as testemunhas antes de redigir seu relatório.' },
+    { level: 'C1-C2', fr: 'Le policier doit concilier l\'urgence de l\'intervention et le respect du droit.', pt: 'O policial precisa conciliar a urgência da intervenção e o respeito ao direito.' },
+  ],
+  'le curriculum vitae': [
+    { level: 'A1', fr: 'Mon curriculum vitae est prêt.', pt: 'Meu currículo está pronto.' },
+    { level: 'A2-B1', fr: 'Je corrige mon curriculum vitae avant de répondre à l\'annonce.', pt: 'Corrijo meu currículo antes de responder ao anúncio.' },
+    { level: 'B2', fr: 'Un curriculum vitae clair présente les compétences avec précision.', pt: 'Um currículo claro apresenta as competências com precisão.' },
+    { level: 'C1-C2', fr: 'Un curriculum vitae ne mesure jamais entièrement une trajectoire professionnelle.', pt: 'Um currículo nunca mede completamente uma trajetória profissional.' },
+  ],
+  ennuyeux: [
+    { level: 'A1', fr: 'Le film est ennuyeux.', pt: 'O filme é entediante.' },
+    { level: 'A2-B1', fr: 'Le cours devient moins ennuyeux avec des exercices pratiques.', pt: 'A aula fica menos entediante com exercícios práticos.' },
+    { level: 'B2', fr: 'Une explication ennuyeuse peut cacher une idée importante.', pt: 'Uma explicação entediante pode esconder uma ideia importante.' },
+    { level: 'C1-C2', fr: 'La répétition ennuyeuse d\'un slogan ne remplace pas une démonstration.', pt: 'A repetição entediante de um slogan não substitui uma demonstração.' },
+  ],
+  motivé: [
+    { level: 'A1', fr: 'Je suis motivé pour apprendre.', pt: 'Estou motivado para aprender.' },
+    { level: 'A2-B1', fr: 'Elle reste motivée malgré une journée difficile.', pt: 'Ela continua motivada apesar de um dia difícil.' },
+    { level: 'B2', fr: 'Un objectif concret aide les étudiants à rester motivés.', pt: 'Um objetivo concreto ajuda os estudantes a continuar motivados.' },
+    { level: 'C1-C2', fr: 'Un public motivé accepte plus facilement un effort prolongé.', pt: 'Um público motivado aceita mais facilmente um esforço prolongado.' },
+  ],
+  égal: [
+    { level: 'A1', fr: 'Les deux parts sont égales.', pt: 'As duas partes são iguais.' },
+    { level: 'A2-B1', fr: 'Chaque participant reçoit une part égale.', pt: 'Cada participante recebe uma parte igual.' },
+    { level: 'B2', fr: 'Un accès égal aux transports améliore la vie quotidienne.', pt: 'Um acesso igual aos transportes melhora a vida cotidiana.' },
+    { level: 'C1-C2', fr: 'Traiter tout le monde de manière égale ne signifie pas ignorer les situations différentes.', pt: 'Tratar todos de maneira igual não significa ignorar as situações diferentes.' },
+  ],
+  démissionner: [
+    { level: 'A1', fr: 'Il veut démissionner.', pt: 'Ele quer pedir demissão.' },
+    { level: 'A2-B1', fr: 'Elle démissionne pour chercher un autre emploi.', pt: 'Ela pede demissão para procurar outro emprego.' },
+    { level: 'B2', fr: 'Démissionner demande de préparer la suite avec prudence.', pt: 'Pedir demissão exige preparar o que vem depois com prudência.' },
+    { level: 'C1-C2', fr: 'Démissionner peut être un choix professionnel, mais aussi le symptôme d\'une organisation défaillante.', pt: 'Pedir demissão pode ser uma escolha profissional, mas também o sintoma de uma organização deficiente.' },
+  ],
+  'l\'inflation': [
+    { level: 'A1', fr: "L'inflation augmente le prix du pain.", pt: 'A inflação aumenta o preço do pão.' },
+    { level: 'A2-B1', fr: "À cause de l'inflation, la famille surveille son budget.", pt: 'Por causa da inflação, a família acompanha seu orçamento.' },
+    { level: 'B2', fr: "L'inflation modifie les habitudes de consommation.", pt: 'A inflação modifica os hábitos de consumo.' },
+    { level: 'C1-C2', fr: "L'inflation redistribue les contraintes de manière inégale selon les revenus.", pt: 'A inflação redistribui as restrições de modo desigual conforme as rendas.' },
+  ],
+  'la structure': [
+    { level: 'A1', fr: 'La structure du pont est solide.', pt: 'A estrutura da ponte é resistente.' },
+    { level: 'A2-B1', fr: 'Nous observons la structure de la vieille maison.', pt: 'Observamos a estrutura da casa antiga.' },
+    { level: 'B2', fr: 'La structure du bâtiment protège les visiteurs contre les intempéries.', pt: 'A estrutura do edifício protege os visitantes contra as intempéries.' },
+    { level: 'C1-C2', fr: 'La structure d\'une ville révèle souvent les choix sociaux qui ont orienté son développement.', pt: 'A estrutura de uma cidade frequentemente revela as escolhas sociais que orientaram seu desenvolvimento.' },
+  ],
+  accompagné: [
+    { level: 'A1', fr: 'Je suis accompagné par mon frère.', pt: 'Estou acompanhado pelo meu irmão.' },
+    { level: 'A2-B1', fr: 'Elle est accompagnée jusqu\'à la gare par une amie.', pt: 'Ela é acompanhada até a estação por uma amiga.' },
+    { level: 'B2', fr: 'Le dossier est accompagné d\'une carte qui précise l\'itinéraire.', pt: 'O dossiê é acompanhado de um mapa que especifica o itinerário.' },
+    { level: 'C1-C2', fr: 'Un changement durable doit être accompagné d\'un dialogue avec les personnes concernées.', pt: 'Uma mudança duradoura deve ser acompanhada de um diálogo com as pessoas envolvidas.' },
+  ],
+  'le fournisseur': [
+    { level: 'A1', fr: 'Le fournisseur apporte le pain.', pt: 'O fornecedor traz o pão.' },
+    { level: 'A2-B1', fr: 'L\'entreprise appelle son fournisseur le matin.', pt: 'A empresa liga para seu fornecedor pela manhã.' },
+    { level: 'B2', fr: 'Un fournisseur fiable aide une petite entreprise à tenir ses délais.', pt: 'Um fornecedor confiável ajuda uma pequena empresa a cumprir seus prazos.' },
+    { level: 'C1-C2', fr: 'Choisir un fournisseur engage la responsabilité économique et écologique de l\'entreprise.', pt: 'Escolher um fornecedor envolve a responsabilidade econômica e ecológica da empresa.' },
+  ],
+  taire: [
+    { level: 'A1', fr: 'Je me tais pendant le film.', pt: 'Fico calado durante o filme.' },
+    { level: 'A2-B1', fr: 'Il se tait pour écouter son voisin.', pt: 'Ele fica calado para escutar seu vizinho.' },
+    { level: 'B2', fr: 'Se taire peut éviter une dispute, mais pas toujours résoudre le problème.', pt: 'Ficar calado pode evitar uma briga, mas nem sempre resolver o problema.' },
+    { level: 'C1-C2', fr: 'Se taire face à une injustice revient parfois à la laisser se renforcer.', pt: 'Ficar calado diante de uma injustiça às vezes equivale a deixá-la se fortalecer.' },
+  ],
+};

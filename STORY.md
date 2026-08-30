@@ -60,7 +60,7 @@
 - **O pai** — ensinou Irlan a ler mapas e estrelas na mesa da cozinha, com um atlas encardido e um café. **Frase-símbolo:** *"Quem tem mapa não se perde. Quem tem amor não se esquece."*
 - **A mãe** — o elo emocional com a origem: aparece por chamadas de vídeo nos momentos de dúvida. Doce, firme, sempre perguntando se ele está comendo bem.
 - **As 2 irmãs** — vivem no Brasil (Jaguaquara/BA). Uma manda áudios longos; a outra, fotos da cidade — o "Brasil ao vivo" de Irlan.
-- ⚠️ **Sem avós no cânone:** a família de Irlan é **pai, mãe e duas irmãs**. Nenhuma menção a avós em nenhuma aula.
+- ⚠️ **Sem avós no cânone (regra só do enredo):** a família de Irlan é **pai, mãe e duas irmãs**. Isso é coerência de personagem dentro da narrativa da aventura — não uma proibição de vocabulário. Palavras como *père*, *grand-père*, *grand-mère* e *grands-parents* continuam sendo vocabulário normal do app: aparecem no banco, nos exemplos, nos dossiês da Enciclopédia e nos flashcards como qualquer outra palavra.
 
 ### Madame Simone Lefèvre — (72) — a guardiã da primeira porta
 - Livreira de Montmartre. Séria, minuciosa, olhar de quem já guardou mais de um segredo.
@@ -84,7 +84,7 @@
 ### O MacGuffin — O ATLAS DA ONÇA
 
 Caderno de campo de **Manoel Rocha de Oliveira**, geógrafo baiano que em 1904 trabalhou no Serviço Geográfico da França (inspirado na história real da Carte de Cassini):
-- **11 pranchas**, uma por cidade do percurso;
+- **10 pranchas**, uma por cidade do percurso (Amiens a Nice);
 - anotações cifradas em português arcaico + francês da época;
 - o **sinal do Jaguara** — uma onça desenhada à mão — em cada prancha;
 - **página final EM BRANCO**, com uma rosa dos ventos e a frase:
@@ -151,7 +151,7 @@ Caderno de campo de **Manoel Rocha de Oliveira**, geógrafo baiano que em 1904 t
 
 ## 📌 REGRAS DE OURO PARA TODA A AUTORIA
 
-1. **Cânone fixo:** Irlan é de Jaguaquara/BA; geógrafo; chegou à França; rider de scooter no início; **família: pai, mãe e 2 irmãs (sem avós)**; **namorou Andréa ~5 anos**; **casou em Créteil** (fim do Ato I); **Íris nasce em Nice** (Ato III). Sem contradizer.
+1. **Cânone fixo:** Irlan é de Jaguaquara/BA; geógrafo; chegou à França; rider de scooter no início; **família: pai, mãe e 2 irmãs (sem avós — dentro da narrativa da aventura)**; **namorou Andréa ~5 anos**; **casou em Créteil** (fim do Ato I); **Íris nasce em Nice** (Ato III). Sem contradizer. **Atenção ao escopo:** cada personagem só menciona a família que tem na sua história (uns não têm pai, outros não têm avô — é enredo, não regra). As palavras de família em si (*père*, *grand-père*, *grand-mère*, *grands-parents*...) **não são proibidas no app**: são vocabulário normal dos dossiês, exemplos e flashcards.
 2. **Cronologia:** até o fim de Paris, **Irlan é solteiro**. Andréa entra ~aula 8. Casamento ~aula 50. **Íris: só a partir de Nice.** Nenhuma menção a filha/esposa antes do momento certo.
 3. **Casa em Créteil.** O "voltar para casa" acontece entre cidades — episódios de rotina em cada cidade dão o respiro.
 4. **Irlan aprende francês junto com o usuário.** A evolução do francês nos textos reflete o nível CEFR.
@@ -163,7 +163,7 @@ Caderno de campo de **Manoel Rocha de Oliveira**, geógrafo baiano que em 1904 t
 10. **O sinal do Jaguara:** uma onça desenhada marca o fim de cada cidade — a assinatura do atlas.
 11. **Todo episódio termina em gancho** — como série: *"Et le lendemain, ils virent la silhouette sur le quai..."*
 12. **Sem nomes de estabelecimentos (regra de monetização).** Restaurantes, cafés, padarias, lojas e qualquer comércio ficam **genéricos**: "o restaurante do bairro", "a padaria da esquina", "o café perto do metrô". **Nenhum nome próprio de lugar comercial inventado** — esses espaços serão vendidos como propaganda (naming rights) no futuro. **Pessoas podem ter nome** (personagens: Andréa, Sophie, Karim...); **lugares comerciais, não.** Exceção: referências culturais a pessoas famosas (Matisse, Guignol, Bocuse, Tony Garnier) — não são estabelecimentos inventados e ficam.
-13. **Toda palavra destacada (dourada ou pontilhada) tem 4 exemplos bem elaborados.** Os exemplos são frases reais do dia a dia (A1 → A2-B1 → B2 → C1-C2), nunca meta-linguagem nem frases sem sentido. Palavras douradas guardam os exemplos no próprio `vocabularyDictionary` da aula; palavras pontilhadas guardam no `src/data/masterExamplesDictionary.ts`, preenchido **cidade por cidade**. Ao finalizar uma cidade, `bun run audit:clickable <cidade>` deve sair com zero palavras em falta. **Fluxo obrigatório ao fim de todas as aulas de cada cidade (a partir da 2ª):** rode `bun run audit` (traduções + 4 exemplos das douradas) e `bun run audit:clickable <cidade>` (todas as destacadas), corrija o que aparecer e só então siga para a próxima cidade.
+13. **Toda palavra destacada (dourada ou pontilhada) tem 4 exemplos bem elaborados.** Os exemplos são frases reais do dia a dia (A1 → A2-B1 → B2 → C1-C2), nunca meta-linguagem nem frases sem sentido. Palavras douradas guardam os exemplos no próprio `vocabularyDictionary` da aula; palavras pontilhadas guardam no `src/data/masterExamplesDictionary.ts`, preenchido **cidade por cidade**. Ao finalizar uma cidade, `bun run audit:clickable <cidade>` deve sair com zero palavras em falta. **Fluxo obrigatório ao fim de todas as aulas de cada cidade (a partir da 2ª):** rode `bun run audit` (traduções + 4 exemplos das douradas + **relevância à cidade**) e `bun run audit:clickable <cidade>` (todas as destacadas), corrija o que aparecer e só então siga para a próxima cidade. O `bun run audit` embute o `audit:city` (audit_city_relevance.ts), que reprova guias da Enciclopédia cujo texto não menciona a cidade (nome, gentílico ou pontos de referência locais no título/subtítulo/parágrafos).
 
 ---
 

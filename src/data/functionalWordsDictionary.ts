@@ -296,9 +296,6 @@ export const FUNCTIONAL_WORDS_DICTIONARY: Record<string, DictionaryEntry> = {
     difficultyLevel: "A1",
     examples: [
       { level: "A1", fr: "Montmartre offre une vue panoramique sur Paris.", pt: "Montmartre oferece uma vista panorâmica de Paris." },
-      { level: "A2-B1", fr: "À Paris, nous aimons Montmartre pendant nos journées de découverte.", pt: "Em Paris, nós gostamos de Montmartre durante nossos dias de descoberta." },
-      { level: "B2", fr: "Il est souvent utile de savoir Montmartre pour s'orienter et communiquer facilement.", pt: "É frequentemente útil saber Montmartre para se orientar e comunicar com facilidade." },
-      { level: "C1-C2", fr: "La capacité de Montmartre avec aisance témoigne d'une excellente maîtrise de la langue française.", pt: "A capacidade de Montmartre com naturalidade testemunha um excelente domínio da língua francesa." },
     ],
   },
   "sacré": {
@@ -326,9 +323,6 @@ export const FUNCTIONAL_WORDS_DICTIONARY: Record<string, DictionaryEntry> = {
     difficultyLevel: "B1",
     examples: [
       { level: "A1", fr: "Les artistes exposent sur la place du Tertre.", pt: "Os artistas expõem na praça do Tertre." },
-      { level: "A2-B1", fr: "À Paris, nous aimons Tertre pendant nos journées de découverte.", pt: "Em Paris, nós gostamos de Pequena elevação durante nossos dias de descoberta." },
-      { level: "B2", fr: "Il est souvent utile de savoir Tertre pour s'orienter et communiquer facilement.", pt: "É frequentemente útil saber Pequena elevação para se orientar e comunicar com facilidade." },
-      { level: "C1-C2", fr: "La capacité de Tertre avec aisance témoigne d'une excellente maîtrise de la langue française.", pt: "A capacidade de Pequena elevação com naturalidade testemunha um excelente domínio da língua francesa." },
     ],
   },
   chagall: {
@@ -356,9 +350,6 @@ export const FUNCTIONAL_WORDS_DICTIONARY: Record<string, DictionaryEntry> = {
     difficultyLevel: "B1",
     examples: [
       { level: "A1", fr: "L'Opéra Garnier est un chef-d'œuvre du XIXe siècle.", pt: "A Ópera Garnier é uma obra-prima do século XIX." },
-      { level: "A2-B1", fr: "À Paris, nous aimons Opéra Garnier pendant nos journées de découverte.", pt: "Em Paris, nós gostamos de Garnier (arquiteto Charles Garnier durante nossos dias de descoberta." },
-      { level: "B2", fr: "Il est souvent utile de savoir Opéra Garnier pour s'orienter et communiquer facilement.", pt: "É frequentemente útil saber Garnier (arquiteto Charles Garnier para se orientar e comunicar com facilidade." },
-      { level: "C1-C2", fr: "La capacité d'Opéra Garnier avec aisance témoigne d'une excellente maîtrise de la langue française.", pt: "A capacidade de Garnier (arquiteto Charles Garnier com naturalidade testemunha um excelente domínio da língua francesa." },
     ],
   },
   "châtelet": {
@@ -503,9 +494,6 @@ export const FUNCTIONAL_WORDS_DICTIONARY: Record<string, DictionaryEntry> = {
     difficultyLevel: "A1",
     examples: [
       { level: "A1", fr: "C'est une grande avenue parisienne.", pt: "É uma grande avenida parisiense." },
-      { level: "A2-B1", fr: "Nous avons découvert un endroit vraiment grande au cœur de la capitale.", pt: "Descobrimos um lugar realmente grande no coração da capital." },
-      { level: "B2", fr: "L'atmosphère grande de ce quartier attire aussi bien les habitants que les voyageurs.", pt: "A atmosfera grande deste bairro atrai tanto os moradores quanto os viajantes." },
-      { level: "C1-C2", fr: "Le caractère grande du patrimoine architectural parisien traverse les époques avec distinction.", pt: "O caráter grande do patrimônio arquitetônico parisiense atravessa as épocas com distinção." },
     ],
   },
   grandes: {
@@ -515,9 +503,6 @@ export const FUNCTIONAL_WORDS_DICTIONARY: Record<string, DictionaryEntry> = {
     difficultyLevel: "A1",
     examples: [
       { level: "A1", fr: "Les grandes terrasses sont agréables en été.", pt: "As grandes varandas são agradáveis no verão." },
-      { level: "A2-B1", fr: "Nous avons découvert un endroit vraiment grandes au cœur de la capitale.", pt: "Descobrimos um lugar realmente grandes no coração da capital." },
-      { level: "B2", fr: "L'atmosphère grandes de ce quartier attire aussi bien les habitants que les voyageurs.", pt: "A atmosfera grandes deste bairro atrai tanto os moradores quanto os viajantes." },
-      { level: "C1-C2", fr: "Le caractère grandes du patrimoine architectural parisien traverse les époques avec distinction.", pt: "O caráter grandes do patrimônio arquitetônico parisiense atravessa as épocas com distinção." },
     ],
   },
   grands: {
@@ -527,9 +512,6 @@ export const FUNCTIONAL_WORDS_DICTIONARY: Record<string, DictionaryEntry> = {
     difficultyLevel: "A1",
     examples: [
       { level: "A1", fr: "Les grands boulevards sont animés.", pt: "Os grandes boulevares são animados." },
-      { level: "A2-B1", fr: "Nous avons découvert un endroit vraiment grands au cœur de la capitale.", pt: "Descobrimos um lugar realmente grandes no coração da capital." },
-      { level: "B2", fr: "L'atmosphère grands de ce quartier attire aussi bien les habitants que les voyageurs.", pt: "A atmosfera grandes deste bairro atrai tanto os moradores quanto os viajantes." },
-      { level: "C1-C2", fr: "Le caractère grands du patrimoine architectural parisien traverse les époques avec distinction.", pt: "O caráter grandes do patrimônio arquitetônico parisiense atravessa as épocas com distinção." },
     ],
   },
   villes: {
@@ -557,9 +539,6 @@ export const FUNCTIONAL_WORDS_DICTIONARY: Record<string, DictionaryEntry> = {
     difficultyLevel: "A2",
     examples: [
       { level: "A1", fr: "Je m'assieds à la terrasse du café.", pt: "Eu me sento na varanda do café." },
-      { level: "A2-B1", fr: "À Paris, nous aimons assieds pendant nos journées de découverte.", pt: "Em Paris, nós gostamos de sento durante nossos dias de descoberta." },
-      { level: "B2", fr: "Il est souvent utile de savoir assieds pour s'orienter et communiquer facilement.", pt: "É frequentemente útil saber sento para se orientar e comunicar com facilidade." },
-      { level: "C1-C2", fr: "La capacité d'assieds avec aisance témoigne d'une excellente maîtrise de la langue française.", pt: "A capacidade de sento com naturalidade testemunha um excelente domínio da língua francesa." },
     ],
   },
   ouvre: {
@@ -569,9 +548,6 @@ export const FUNCTIONAL_WORDS_DICTIONARY: Record<string, DictionaryEntry> = {
     difficultyLevel: "A1",
     examples: [
       { level: "A1", fr: "Le musée ouvre à neuf heures.", pt: "O museu abre às nove horas." },
-      { level: "A2-B1", fr: "À Paris, nous aimons ouvre pendant nos journées de découverte.", pt: "Em Paris, nós gostamos de abre durante nossos dias de descoberta." },
-      { level: "B2", fr: "Il est souvent utile de savoir ouvre pour s'orienter et communiquer facilement.", pt: "É frequentemente útil saber abre para se orientar e comunicar com facilidade." },
-      { level: "C1-C2", fr: "La capacité d'ouvre avec aisance témoigne d'une excellente maîtrise de la langue française.", pt: "A capacidade de abre com naturalidade testemunha um excelente domínio da língua francesa." },
     ],
   },
   prochaine: {
@@ -679,9 +655,6 @@ export const FUNCTIONAL_WORDS_DICTIONARY: Record<string, DictionaryEntry> = {
     difficultyLevel: "A2",
     examples: [
       { level: "A1", fr: "À la tombée de la nuit, on voit s'allumer les réverbères.", pt: "Ao cair da noite, vemos acenderem-se os lampiões." },
-      { level: "A2-B1", fr: "À Paris, nous aimons allumer pendant nos journées de découverte.", pt: "Em Paris, nós gostamos de acender durante nossos dias de descoberta." },
-      { level: "B2", fr: "Il est souvent utile de savoir allumer pour s'orienter et communiquer facilement.", pt: "É frequentemente útil saber acender para se orientar e comunicar com facilidade." },
-      { level: "C1-C2", fr: "La capacité d'allumer avec aisance témoigne d'une excellente maîtrise de la langue française.", pt: "A capacidade de acender com naturalidade testemunha um excelente domínio da língua francesa." },
     ],
   },
   ancienne: {
@@ -691,9 +664,6 @@ export const FUNCTIONAL_WORDS_DICTIONARY: Record<string, DictionaryEntry> = {
     difficultyLevel: "A1",
     examples: [
       { level: "A1", fr: "C'est une ancienne place royale.", pt: "É uma antiga praça real." },
-      { level: "A2-B1", fr: "Nous avons découvert un endroit vraiment ancienne au cœur de la capitale.", pt: "Descobrimos um lugar realmente antiga no coração da capital." },
-      { level: "B2", fr: "L'atmosphère ancienne de ce quartier attire aussi bien les habitants que les voyageurs.", pt: "A atmosfera antiga deste bairro atrai tanto os moradores quanto os viajantes." },
-      { level: "C1-C2", fr: "Le caractère ancienne du patrimoine architectural parisien traverse les époques avec distinction.", pt: "O caráter antiga do patrimônio arquitetônico parisiense atravessa as épocas com distinção." },
     ],
   },
   anciens: {
@@ -757,9 +727,6 @@ export const FUNCTIONAL_WORDS_DICTIONARY: Record<string, DictionaryEntry> = {
     difficultyLevel: "A2",
     examples: [
       { level: "A1", fr: "Je vais assister à un opéra ce soir.", pt: "Vou assistir a uma ópera esta noite." },
-      { level: "A2-B1", fr: "À Paris, nous aimons assister pendant nos journées de découverte.", pt: "Em Paris, nós gostamos de assistir a durante nossos dias de descoberta." },
-      { level: "B2", fr: "Il est souvent utile de savoir assister pour s'orienter et communiquer facilement.", pt: "É frequentemente útil saber assistir a para se orientar e comunicar com facilidade." },
-      { level: "C1-C2", fr: "La capacité d'assister avec aisance témoigne d'une excellente maîtrise de la langue française.", pt: "A capacidade de assistir a com naturalidade testemunha um excelente domínio da língua francesa." },
     ],
   },
   belle: {
@@ -769,9 +736,6 @@ export const FUNCTIONAL_WORDS_DICTIONARY: Record<string, DictionaryEntry> = {
     difficultyLevel: "A1",
     examples: [
       { level: "A1", fr: "Paris est une très belle ville.", pt: "Paris é uma cidade muito bela." },
-      { level: "A2-B1", fr: "Nous avons découvert un endroit vraiment belle au cœur de la capitale.", pt: "Descobrimos um lugar realmente bela no coração da capital." },
-      { level: "B2", fr: "L'atmosphère belle de ce quartier attire aussi bien les habitants que les voyageurs.", pt: "A atmosfera bela deste bairro atrai tanto os moradores quanto os viajantes." },
-      { level: "C1-C2", fr: "Le caractère belle du patrimoine architectural parisien traverse les époques avec distinction.", pt: "O caráter bela do patrimônio arquitetônico parisiense atravessa as épocas com distinção." },
     ],
   },
   beurre: {
@@ -781,9 +745,6 @@ export const FUNCTIONAL_WORDS_DICTIONARY: Record<string, DictionaryEntry> = {
     difficultyLevel: "A1",
     examples: [
       { level: "A1", fr: "Un croissant au beurre frais est délicieux.", pt: "Um croissant de manteiga fresco é delicioso." },
-      { level: "A2-B1", fr: "À Paris, nous aimons beurre pendant nos journées de découverte.", pt: "Em Paris, nós gostamos de manteiga durante nossos dias de descoberta." },
-      { level: "B2", fr: "Il est souvent utile de savoir beurre pour s'orienter et communiquer facilement.", pt: "É frequentemente útil saber manteiga para se orientar e comunicar com facilidade." },
-      { level: "C1-C2", fr: "La capacité de beurre avec aisance témoigne d'une excellente maîtrise de la langue française.", pt: "A capacidade de manteiga com naturalidade testemunha um excelente domínio da língua francesa." },
     ],
   },
   bon: {
@@ -838,9 +799,6 @@ export const FUNCTIONAL_WORDS_DICTIONARY: Record<string, DictionaryEntry> = {
     difficultyLevel: "A1",
     examples: [
       { level: "A1", fr: "J'écoute de la musique classique.", pt: "Eu ouço música clássica." },
-      { level: "A2-B1", fr: "Nous avons découvert un endroit vraiment classique au cœur de la capitale.", pt: "Descobrimos um lugar realmente clássico no coração da capital." },
-      { level: "B2", fr: "L'atmosphère classique de ce quartier attire aussi bien les habitants que les voyageurs.", pt: "A atmosfera clássico deste bairro atrai tanto os moradores quanto os viajantes." },
-      { level: "C1-C2", fr: "Le caractère classique du patrimoine architectural parisien traverse les époques avec distinction.", pt: "O caráter clássico do patrimônio arquitetônico parisiense atravessa as épocas com distinção." },
     ],
   },
   commencent: {
@@ -922,9 +880,6 @@ export const FUNCTIONAL_WORDS_DICTIONARY: Record<string, DictionaryEntry> = {
     difficultyLevel: "A1",
     examples: [
       { level: "A1", fr: "C'est le dernier train pour Versailles.", pt: "É o último trem para Versalhes." },
-      { level: "A2-B1", fr: "À Paris, nous aimons dernier pendant nos journées de découverte.", pt: "Em Paris, nós gostamos de último durante nossos dias de descoberta." },
-      { level: "B2", fr: "Il est souvent utile de savoir dernier pour s'orienter et communiquer facilement.", pt: "É frequentemente útil saber último para se orientar e comunicar com facilidade." },
-      { level: "C1-C2", fr: "La capacité de dernier avec aisance témoigne d'une excellente maîtrise de la langue française.", pt: "A capacidade de último com naturalidade testemunha um excelente domínio da língua francesa." },
     ],
   },
   "dernière": {
@@ -934,9 +889,6 @@ export const FUNCTIONAL_WORDS_DICTIONARY: Record<string, DictionaryEntry> = {
     difficultyLevel: "A1",
     examples: [
       { level: "A1", fr: "C'est la dernière étape de notre voyage.", pt: "É a última etapa da nossa viagem." },
-      { level: "A2-B1", fr: "À Paris, nous aimons dernière pendant nos journées de découverte.", pt: "Em Paris, nós gostamos de última durante nossos dias de descoberta." },
-      { level: "B2", fr: "Il est souvent utile de savoir dernière pour s'orienter et communiquer facilement.", pt: "É frequentemente útil saber última para se orientar e comunicar com facilidade." },
-      { level: "C1-C2", fr: "La capacité de dernière avec aisance témoigne d'une excellente maîtrise de la langue française.", pt: "A capacidade de última com naturalidade testemunha um excelente domínio da língua francesa." },
     ],
   },
   dessinent: {
@@ -1009,9 +961,6 @@ export const FUNCTIONAL_WORDS_DICTIONARY: Record<string, DictionaryEntry> = {
     difficultyLevel: "A1",
     examples: [
       { level: "A1", fr: "J'y passe une journée entière.", pt: "Eu passo lá um dia inteiro." },
-      { level: "A2-B1", fr: "À Paris, nous aimons entière pendant nos journées de découverte.", pt: "Em Paris, nós gostamos de inteira durante nossos dias de descoberta." },
-      { level: "B2", fr: "Il est souvent utile de savoir entière pour s'orienter et communiquer facilement.", pt: "É frequentemente útil saber inteira para se orientar e comunicar com facilidade." },
-      { level: "C1-C2", fr: "La capacité d'entière avec aisance témoigne d'une excellente maîtrise de la langue française.", pt: "A capacidade de inteira com naturalidade testemunha um excelente domínio da língua francesa." },
     ],
   },
   envoie: {
@@ -1048,9 +997,6 @@ export const FUNCTIONAL_WORDS_DICTIONARY: Record<string, DictionaryEntry> = {
     difficultyLevel: "A2",
     examples: [
       { level: "A1", fr: "Nous aimons explorer les rues piétonnes.", pt: "Nós gostamos de explorar as ruas de pedestres." },
-      { level: "A2-B1", fr: "À Paris, nous aimons explorer pendant nos journées de découverte.", pt: "Em Paris, nós gostamos de explorar durante nossos dias de descoberta." },
-      { level: "B2", fr: "Il est souvent utile de savoir explorer pour s'orienter et communiquer facilement.", pt: "É frequentemente útil saber explorar para se orientar e comunicar com facilidade." },
-      { level: "C1-C2", fr: "La capacité d'explorer avec aisance témoigne d'une excellente maîtrise de la langue française.", pt: "A capacidade de explorar com naturalidade testemunha um excelente domínio da língua francesa." },
     ],
   },
   facilement: {
@@ -1168,9 +1114,6 @@ export const FUNCTIONAL_WORDS_DICTIONARY: Record<string, DictionaryEntry> = {
     difficultyLevel: "A1",
     examples: [
       { level: "A1", fr: "Le train part à l'heure précise.", pt: "O trem parte na hora certa." },
-      { level: "A2-B1", fr: "À Paris, nous aimons heure pendant nos journées de découverte.", pt: "Em Paris, nós gostamos de hora durante nossos dias de descoberta." },
-      { level: "B2", fr: "Il est souvent utile de savoir heure pour s'orienter et communiquer facilement.", pt: "É frequentemente útil saber hora para se orientar e comunicar com facilidade." },
-      { level: "C1-C2", fr: "La capacité d'heure avec aisance témoigne d'une excellente maîtrise de la langue française.", pt: "A capacidade de hora com naturalidade testemunha um excelente domínio da língua francesa." },
     ],
   },
   immense: {
@@ -1225,9 +1168,6 @@ export const FUNCTIONAL_WORDS_DICTIONARY: Record<string, DictionaryEntry> = {
     difficultyLevel: "A1",
     examples: [
       { level: "A1", fr: "L'orchestre va jouer une symphonie.", pt: "A orquestra vai tocar uma sinfonia." },
-      { level: "A2-B1", fr: "À Paris, nous aimons jouer pendant nos journées de découverte.", pt: "Em Paris, nós gostamos de tocar durante nossos dias de descoberta." },
-      { level: "B2", fr: "Il est souvent utile de savoir jouer pour s'orienter et communiquer facilement.", pt: "É frequentemente útil saber tocar para se orientar e comunicar com facilidade." },
-      { level: "C1-C2", fr: "La capacité de jouer avec aisance témoigne d'une excellente maîtrise de la langue française.", pt: "A capacidade de tocar com naturalidade testemunha um excelente domínio da língua francesa." },
     ],
   },
   lait: {
@@ -1255,9 +1195,6 @@ export const FUNCTIONAL_WORDS_DICTIONARY: Record<string, DictionaryEntry> = {
     difficultyLevel: "A2",
     examples: [
       { level: "A1", fr: "Le libraire me recommande un poème classique.", pt: "O livreiro me recomenda um poema clássico." },
-      { level: "A2-B1", fr: "À Paris, nous aimons libraire pendant nos journées de découverte.", pt: "Em Paris, nós gostamos de livreiro durante nossos dias de descoberta." },
-      { level: "B2", fr: "Il est souvent utile de savoir libraire pour s'orienter et communiquer facilement.", pt: "É frequentemente útil saber livreiro para se orientar e comunicar com facilidade." },
-      { level: "C1-C2", fr: "La capacité de libraire avec aisance témoigne d'une excellente maîtrise de la langue française.", pt: "A capacidade de livreiro com naturalidade testemunha um excelente domínio da língua francesa." },
     ],
   },
   livres: {
@@ -1294,9 +1231,6 @@ export const FUNCTIONAL_WORDS_DICTIONARY: Record<string, DictionaryEntry> = {
     difficultyLevel: "A2",
     examples: [
       { level: "A1", fr: "La salle est très lumineuse le matin.", pt: "A sala é muito luminosa de manhã." },
-      { level: "A2-B1", fr: "Nous avons découvert un endroit vraiment lumineuse au cœur de la capitale.", pt: "Descobrimos um lugar realmente luminosa no coração da capital." },
-      { level: "B2", fr: "L'atmosphère lumineuse de ce quartier attire aussi bien les habitants que les voyageurs.", pt: "A atmosfera luminosa deste bairro atrai tanto os moradores quanto os viajantes." },
-      { level: "C1-C2", fr: "Le caractère lumineuse du patrimoine architectural parisien traverse les époques avec distinction.", pt: "O caráter luminosa do patrimônio arquitetônico parisiense atravessa as épocas com distinção." },
     ],
   },
   "lumières": {
@@ -1315,9 +1249,6 @@ export const FUNCTIONAL_WORDS_DICTIONARY: Record<string, DictionaryEntry> = {
     difficultyLevel: "A2",
     examples: [
       { level: "A1", fr: "Une brise légère souffle sur le pont.", pt: "Uma brisa leve sopra sobre a ponte." },
-      { level: "A2-B1", fr: "À Paris, nous aimons légère pendant nos journées de découverte.", pt: "Em Paris, nós gostamos de leve durante nossos dias de descoberta." },
-      { level: "B2", fr: "Il est souvent utile de savoir légère pour s'orienter et communiquer facilement.", pt: "É frequentemente útil saber leve para se orientar e comunicar com facilidade." },
-      { level: "C1-C2", fr: "La capacité de légère avec aisance témoigne d'une excellente maîtrise de la langue française.", pt: "A capacidade de leve com naturalidade testemunha um excelente domínio da língua francesa." },
     ],
   },
   majestueuse: {
@@ -1416,9 +1347,6 @@ export const FUNCTIONAL_WORDS_DICTIONARY: Record<string, DictionaryEntry> = {
     definitionPt: "nosso / nossa (em 'le nôtre', 'la nôtre')",
     difficultyLevel: "B1",
     examples: [
-      { level: "A2-B1", fr: "À Paris, nous aimons nôtre pendant nos journées de découverte.", pt: "Em Paris, nós gostamos de nosso durante nossos dias de descoberta." },
-      { level: "B2", fr: "Il est souvent utile de savoir nôtre pour s'orienter et communiquer facilement.", pt: "É frequentemente útil saber nosso para se orientar e comunicar com facilidade." },
-      { level: "C1-C2", fr: "La capacité de nôtre avec aisance témoigne d'une excellente maîtrise de la langue française.", pt: "A capacidade de nosso com naturalidade testemunha um excelente domínio da língua francesa." },
     ],
   },
   pansements: {
@@ -1446,9 +1374,6 @@ export const FUNCTIONAL_WORDS_DICTIONARY: Record<string, DictionaryEntry> = {
     difficultyLevel: "A1",
     examples: [
       { level: "A1", fr: "Le train part à dix heures.", pt: "O trem parte às dez horas." },
-      { level: "A2-B1", fr: "À Paris, nous aimons part pendant nos journées de découverte.", pt: "Em Paris, nós gostamos de parte durante nossos dias de descoberta." },
-      { level: "B2", fr: "Il est souvent utile de savoir part pour s'orienter et communiquer facilement.", pt: "É frequentemente útil saber parte para se orientar e comunicar com facilidade." },
-      { level: "C1-C2", fr: "La capacité de part avec aisance témoigne d'une excellente maîtrise de la langue française.", pt: "A capacidade de parte com naturalidade testemunha um excelente domínio da língua francesa." },
     ],
   },
   passer: {
@@ -1458,9 +1383,6 @@ export const FUNCTIONAL_WORDS_DICTIONARY: Record<string, DictionaryEntry> = {
     difficultyLevel: "A1",
     examples: [
       { level: "A1", fr: "Nous aimons passer du temps dans les musées.", pt: "Nós gostamos de passar tempo nos museus." },
-      { level: "A2-B1", fr: "À Paris, nous aimons passer pendant nos journées de découverte.", pt: "Em Paris, nós gostamos de passar durante nossos dias de descoberta." },
-      { level: "B2", fr: "Il est souvent utile de savoir passer pour s'orienter et communiquer facilement.", pt: "É frequentemente útil saber passar para se orientar e comunicar com facilidade." },
-      { level: "C1-C2", fr: "La capacité de passer avec aisance témoigne d'une excellente maîtrise de la langue française.", pt: "A capacidade de passar com naturalidade testemunha um excelente domínio da língua francesa." },
     ],
   },
   "passionnée": {
@@ -1569,9 +1491,6 @@ export const FUNCTIONAL_WORDS_DICTIONARY: Record<string, DictionaryEntry> = {
     difficultyLevel: "A1",
     examples: [
       { level: "A1", fr: "Je prépare ma journée de visite.", pt: "Eu preparo meu dia de visita." },
-      { level: "A2-B1", fr: "À Paris, nous aimons prépare pendant nos journées de découverte.", pt: "Em Paris, nós gostamos de preparo durante nossos dias de descoberta." },
-      { level: "B2", fr: "Il est souvent utile de savoir prépare pour s'orienter et communiquer facilement.", pt: "É frequentemente útil saber preparo para se orientar e comunicar com facilidade." },
-      { level: "C1-C2", fr: "La capacité de prépare avec aisance témoigne d'une excellente maîtrise de la langue française.", pt: "A capacidade de preparo com naturalidade testemunha um excelente domínio da língua francesa." },
     ],
   },
   "prêt": {
@@ -1599,9 +1518,6 @@ export const FUNCTIONAL_WORDS_DICTIONARY: Record<string, DictionaryEntry> = {
     difficultyLevel: "A2",
     examples: [
       { level: "A1", fr: "La tour Eiffel est un repère visible de toute la ville.", pt: "A torre Eiffel é um ponto de referência visível de toda a cidade." },
-      { level: "A2-B1", fr: "À Paris, nous aimons repère pendant nos journées de découverte.", pt: "Em Paris, nós gostamos de ponto de referência durante nossos dias de descoberta." },
-      { level: "B2", fr: "Il est souvent utile de savoir repère pour s'orienter et communiquer facilement.", pt: "É frequentemente útil saber ponto de referência para se orientar e comunicar com facilidade." },
-      { level: "C1-C2", fr: "La capacité de repère avec aisance témoigne d'une excellente maîtrise de la langue française.", pt: "A capacidade de ponto de referência com naturalidade testemunha um excelente domínio da língua francesa." },
     ],
   },
   ressens: {
@@ -1629,9 +1545,6 @@ export const FUNCTIONAL_WORDS_DICTIONARY: Record<string, DictionaryEntry> = {
     difficultyLevel: "A1",
     examples: [
       { level: "A1", fr: "Au revoir, et à bientôt à Paris !", pt: "Até logo, e até breve em Paris!" },
-      { level: "A2-B1", fr: "À Paris, nous aimons revoir pendant nos journées de découverte.", pt: "Em Paris, nós gostamos de rever durante nossos dias de descoberta." },
-      { level: "B2", fr: "Il est souvent utile de savoir revoir pour s'orienter et communiquer facilement.", pt: "É frequentemente útil saber rever para se orientar e comunicar com facilidade." },
-      { level: "C1-C2", fr: "La capacité de revoir avec aisance témoigne d'une excellente maîtrise de la langue française.", pt: "A capacidade de rever com naturalidade testemunha um excelente domínio da língua francesa." },
     ],
   },
   ronde: {
@@ -1695,9 +1608,6 @@ export const FUNCTIONAL_WORDS_DICTIONARY: Record<string, DictionaryEntry> = {
     difficultyLevel: "A2",
     examples: [
       { level: "A1", fr: "Les artistes viennent saluer le public.", pt: "Os artistas vêm saudar o público." },
-      { level: "A2-B1", fr: "À Paris, nous aimons saluer pendant nos journées de découverte.", pt: "Em Paris, nós gostamos de saudar durante nossos dias de descoberta." },
-      { level: "B2", fr: "Il est souvent utile de savoir saluer pour s'orienter et communiquer facilement.", pt: "É frequentemente útil saber saudar para se orientar e comunicar com facilidade." },
-      { level: "C1-C2", fr: "La capacité de saluer avec aisance témoigne d'une excellente maîtrise de la langue française.", pt: "A capacidade de saudar com naturalidade testemunha um excelente domínio da língua francesa." },
     ],
   },
   soin: {
@@ -1716,9 +1626,6 @@ export const FUNCTIONAL_WORDS_DICTIONARY: Record<string, DictionaryEntry> = {
     difficultyLevel: "A1",
     examples: [
       { level: "A1", fr: "J'aime sortir le soir à Paris.", pt: "Eu gosto de sair à noite em Paris." },
-      { level: "A2-B1", fr: "À Paris, nous aimons sortir pendant nos journées de découverte.", pt: "Em Paris, nós gostamos de sair durante nossos dias de descoberta." },
-      { level: "B2", fr: "Il est souvent utile de savoir sortir pour s'orienter et communiquer facilement.", pt: "É frequentemente útil saber sair para se orientar e comunicar com facilidade." },
-      { level: "C1-C2", fr: "La capacité de sortir avec aisance témoigne d'une excellente maîtrise de la langue française.", pt: "A capacidade de sair com naturalidade testemunha um excelente domínio da língua francesa." },
     ],
   },
   structure: {
@@ -1728,9 +1635,6 @@ export const FUNCTIONAL_WORDS_DICTIONARY: Record<string, DictionaryEntry> = {
     difficultyLevel: "A2",
     examples: [
       { level: "A1", fr: "La structure en fer de la tour est impressionnante.", pt: "A estrutura de ferro da torre é impressionante." },
-      { level: "A2-B1", fr: "À Paris, nous aimons structure pendant nos journées de découverte.", pt: "Em Paris, nós gostamos de estrutura durante nossos dias de descoberta." },
-      { level: "B2", fr: "Il est souvent utile de savoir structure pour s'orienter et communiquer facilement.", pt: "É frequentemente útil saber estrutura para se orientar e comunicar com facilidade." },
-      { level: "C1-C2", fr: "La capacité de structure avec aisance témoigne d'une excellente maîtrise de la langue française.", pt: "A capacidade de estrutura com naturalidade testemunha um excelente domínio da língua francesa." },
     ],
   },
   tableau: {
@@ -1749,9 +1653,6 @@ export const FUNCTIONAL_WORDS_DICTIONARY: Record<string, DictionaryEntry> = {
     difficultyLevel: "A2",
     examples: [
       { level: "A1", fr: "Nous allons traverser la Seine par le Pont Neuf.", pt: "Nós vamos atravessar o Sena pela Pont Neuf." },
-      { level: "A2-B1", fr: "À Paris, nous aimons traverser pendant nos journées de découverte.", pt: "Em Paris, nós gostamos de atravessar durante nossos dias de descoberta." },
-      { level: "B2", fr: "Il est souvent utile de savoir traverser pour s'orienter et communiquer facilement.", pt: "É frequentemente útil saber atravessar para se orientar e comunicar com facilidade." },
-      { level: "C1-C2", fr: "La capacité de traverser avec aisance témoigne d'une excellente maîtrise de la langue française.", pt: "A capacidade de atravessar com naturalidade testemunha um excelente domínio da língua francesa." },
     ],
   },
   trilha: {
@@ -1859,9 +1760,6 @@ export const FUNCTIONAL_WORDS_DICTIONARY: Record<string, DictionaryEntry> = {
     difficultyLevel: "A2",
     examples: [
       { level: "A1", fr: "Je pars tôt pour éviter la foule au musée.", pt: "Eu saio cedo para evitar a multidão no museu." },
-      { level: "A2-B1", fr: "À Paris, nous aimons éviter pendant nos journées de découverte.", pt: "Em Paris, nós gostamos de evitar durante nossos dias de descoberta." },
-      { level: "B2", fr: "Il est souvent utile de savoir éviter pour s'orienter et communiquer facilement.", pt: "É frequentemente útil saber evitar para se orientar e comunicar com facilidade." },
-      { level: "C1-C2", fr: "La capacité d'éviter avec aisance témoigne d'une excellente maîtrise de la langue française.", pt: "A capacidade de evitar com naturalidade testemunha um excelente domínio da língua francesa." },
     ],
   },
 };

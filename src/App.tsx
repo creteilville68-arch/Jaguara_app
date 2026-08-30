@@ -14,6 +14,7 @@ import { FlashcardsView } from './components/FlashcardsView';
 import { EncyclopediaView } from './components/EncyclopediaView';
 
 import { StorageService } from './services/storageService';
+import { getAdminMode, setAdminMode, isEncyclopediaUnlocked } from './utils/trailProgression';
 import { City, MapLocation, UserMapProgress, Lesson, CountryId, DomainType } from './types/map';
 import { FRANCE_CITIES } from './data/franceMapData';
 
@@ -31,6 +32,7 @@ export default function App() {
   const [isFiltersOpen, setIsFiltersOpen] = useState<boolean>(false);
   const [selectedCategory, setSelectedCategory] = useState<string>('Todos');
   const [selectedStatus, setSelectedStatus] = useState<string>('all');
+  const [adminMode, setAdminModeState] = useState<boolean>(getAdminMode());
 
   // Handle Country Selection
   const handleCountryChange = (country: CountryId) => {
@@ -148,6 +150,8 @@ export default function App() {
               onNavigateToCity={handleNavigateToCity}
               onNavigateToFlashcards={() => setActiveTab('flashcards')}
               initialCityId={selectedCity?.id || 'paris'}
+              progress={progress}
+              onProgressChange={setProgress}
             />
           )}
 
@@ -167,6 +171,37 @@ export default function App() {
           {activeTab === 'settings' && (
             <div className="flex-1 p-8 text-slate-200 space-y-4 overflow-y-auto">
               <h2 className="text-xl font-bold">Configurações do JAGUARÁ</h2>
+              <div className="p-4 bg-slate-900 border border-slate-800 rounded-2xl max-w-lg space-y-3 text-xs">
+                <p className="font-semibold text-emerald-400">Modo Administrador (Autoria e Revisão)</p>
+                <p className="text-slate-400 leading-relaxed">
+                  Ligado: todas as cidades, lições e a Enciclopédia ficam liberadas para
+                  verificação. Desligado: valem as regras de bloqueio da trilha (a lição N
+                  exige a N-1 concluída; a cidade N abre ao concluir a anterior; a
+                  Enciclopédia abre ao terminar as 11 cidades).
+                </p>
+                <button
+                  onClick={() => {
+                    const next = !adminMode;
+                    setAdminMode(next);
+                    setAdminModeState(next);
+                  }}
+                  className={`px-3 py-1.5 rounded-lg border text-xs font-bold transition-colors ${
+                    adminMode
+                      ? 'bg-emerald-950 hover:bg-emerald-900 text-emerald-200 border-emerald-800'
+                      : 'bg-slate-950 hover:bg-slate-900 text-slate-300 border-slate-700'
+                  }`}
+                >
+                  {adminMode ? '✓ Modo Administrador ATIVO (tudo liberado)' : 'Modo Administrador desligado — regras da trilha ativas'}
+                </button>
+                <p className="text-slate-500">
+                  Enciclopédia: {isEncyclopediaUnlocked(progress) ? (
+                    <span className="text-emerald-400 font-bold">LIBERADA</span>
+                  ) : (
+                    <span className="text-amber-400 font-bold">bloqueada — conclua as 11 cidades</span>
+                  )}
+                </p>
+              </div>
+
               <div className="p-4 bg-slate-900 border border-slate-800 rounded-2xl max-w-lg space-y-2 text-xs">
                 <p className="font-semibold text-emerald-400">Banco de Dados Local e Persistência</p>
                 <p className="text-slate-400">

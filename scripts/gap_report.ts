@@ -26,16 +26,23 @@ interface CityInfo {
 }
 
 const files = readdirSync(DATA_DIR).filter((f) => /_lesson_\d+\.json$/.test(f));
+const GUIDE_DIR = join(DATA_DIR, 'city_guides');
+const guideFiles = readdirSync(GUIDE_DIR).filter((f) => /_guide_\d+\.json$/.test(f));
+const allFiles = [
+  ...files.map((f) => join(DATA_DIR, f)),
+  ...guideFiles.map((f) => join(GUIDE_DIR, f)),
+];
 const cities = new Map<string, CityInfo>();
 
-for (const f of files) {
+for (const filePath of allFiles) {
   let data: any;
   try {
-    data = JSON.parse(readFileSync(join(DATA_DIR, f), 'utf8'));
+    data = JSON.parse(readFileSync(filePath, 'utf8'));
   } catch {
     continue;
   }
-  const city: string = data.cityId || f.replace(/_lesson_\d+\.json$/, '');
+  const fileName = filePath.split('/').pop() || filePath;
+  const city: string = data.cityId || fileName.replace(/_(lesson|guide)_\d+\.json$/, '');
   if (!cities.has(city)) cities.set(city, { lessons: 0, levels: {}, text: '' });
   const info = cities.get(city)!;
   info.lessons += 1;
@@ -83,7 +90,9 @@ const perCity: Record<string, number> = {};
 for (const m of missing) perCity[m.city] = (perCity[m.city] || 0) + 1;
 
 console.log('GAP REPORT — jardim de palavras');
+console.log('TEXT FILES', allFiles.length);
 console.log('LESSONS', files.length);
+console.log('GUIDES', guideFiles.length);
 console.log('TOTAL_BANK', entries.length);
 console.log('COVERED', entries.length - missing.length);
 console.log('MISSING', missing.length);
@@ -99,7 +108,7 @@ const lines: string[] = [];
 lines.push('# Relatório de lacunas — Fase 2 (jardim de palavras)');
 lines.push('');
 lines.push(
-  `Banco: ${entries.length} palavras · Cobertas no texto: ${
+  `Banco: ${entries.length} palavras · Cobertas em aulas e guias: ${
     entries.length - missing.length
   } · **Faltantes: ${missing.length}**`,
 );

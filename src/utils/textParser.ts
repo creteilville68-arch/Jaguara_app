@@ -2,6 +2,7 @@ import { getStaticLessonEntry, normalizeForSearch } from '../data/lessonDictiona
 import { COMMON_EXPRESSIONS } from '../data/commonExpressionsDictionary';
 import { lookupWordBankEntry, formatBankLevel } from '../data/wordBankLookup';
 import { MASTER_EXAMPLES } from '../data/masterExamplesDictionary';
+import { generateBankExamples } from './bankExamples';
 
 export interface DictionaryEntry {
   term?: string;

@@ -1,0 +1,150 @@
+{
+  "id": "paris_guide_26",
+  "cityId": "paris",
+  "domain": "Cotidiano",
+  "level": "Nível (A1)",
+  "titleFr": "La routine de la maison à Créteil",
+  "titlePt": "A rotina da casa em Créteil",
+  "subtitleFr": "Les petits gestes du quotidien, le chat et le repos",
+  "subtitlePt": "Os pequenos gestos do cotidiano, o gato e o descanso",
+  "summaryPt": "Enciclopédia de Paris, seção 26: a rotina da casa em Créteil, os pequenos gestos do dia a dia, o gato da família e os momentos de descanso. Vocabulário do nível A1.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "Aujourd'hui, Irlan reste à la maison. Il se lève tôt, il ouvre la fenêtre et il regarde le ciel. Il y a un chat gris sur le canapé. Le chat dort encore. Irlan rit : c'est un jour calme.",
+      "pt": "Hoje, Irlan fica em casa. Ele se levanta cedo, abre a janela e olha o céu. Há um gato cinza no sofá. O gato ainda dorme. Irlan ri: é um dia calmo."
+    },
+    {
+      "id": 2,
+      "fr": "D'abord, Irlan doit nourrir le chat. Il prend la boîte de croquettes, il remplit le bol et il pose le bol par terre. Le chat arrive vite. Il mange et il fait « miaou ».",
+      "pt": "Primeiro, Irlan precisa alimentar o gato. Ele pega a lata de ração, enche a tigela e coloca a tigela no chão. O gato chega rápido. Ele come e faz 'miau'."
+    },
+    {
+      "id": 3,
+      "fr": "Après le petit-déjeuner, Irlan se chausse et il sort se promener. Il marche jusqu'à la place du quartier. Le métro, à quelques rues, relie Créteil au centre de Paris. Sur la place, le soleil brille. Les arbres sont verts. C'est agréable.",
+      "pt": "Depois do café da manhã, Irlan se calça e sai para passear. Ele caminha até a praça do bairro. O tempo está seco, o sol brilha. As árvores estão verdes. É agradável."
+    },
+    {
+      "id": 4,
+      "fr": "Sur la place, Irlan se repose un peu sur le banc public. Il regarde les enfants jouer. Un homme promène son chien. Tout le monde est calme. Irlan ferme les yeux une minute.",
+      "pt": "Na praça, Irlan descansa um pouco no banco público. Ele olha as crianças brincarem. Um homem passeia com seu cachorro. Todos estão calmos. Irlan fecha os olhos por um minuto."
+    },
+    {
+      "id": 5,
+      "fr": "À la maison, Irlan doit envoyer un colis. Il prépare le paquet, il écrit l'adresse et il va à la poste. La poste est près de la maison. C'est rapide, jusqu'à la fin de la matinée.",
+      "pt": "Em casa, Irlan precisa enviar uma encomenda. Ele prepara o pacote, escreve o endereço e vai ao correio. O correio fica perto de casa. É rápido, até o fim da manhã."
+    },
+    {
+      "id": 6,
+      "fr": "L'après-midi, Irlan est habitué à faire des petites choses. Il fait le téléchargement d'un document pour son travail. Puis il éteint les appareils de la cuisine. Il n'aime pas gaspiller l'énergie.",
+      "pt": "À tarde, Irlan está acostumado a fazer pequenas coisas. Ele faz o download de um documento para o trabalho. Depois ele desliga os aparelhos da cozinha. Ele não gosta de desperdiçar energia."
+    },
+    {
+      "id": 7,
+      "fr": "Le soir, Irlan se repose devant la télévision. Le chat vient sur ses genoux. Irlan pense à la journée : les petits gestes simples, c'est ça, la vie à Créteil. Il est content.",
+      "pt": "À noite, Irlan descansa diante da televisão. O gato vem para o colo dele. Irlan pensa no dia: os pequenos gestos simples, é isso, a vida em Créteil. Ele está contente."
+    },
+    {
+      "id": 8,
+      "fr": "La nuit, la ville est tranquille. Pas de tremblement de terre ici, pas de bruit étrange. Irlan dort bien. Demain, il recommencera : le chat, le bol, la promenade, le repos. Une belle routine.",
+      "pt": "À noite, a cidade está tranquila. Nada de terremoto aqui, nada de barulho estranho. Irlan dorme bem. Amanhã, ele recomeçará: o gato, a tigela, o passeio, o descanso. Uma bela rotina."
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "se promener",
+      "definitionPt": "passear / caminhar por lazer",
+      "definitionFr": "Marcher pour le plaisir, sans but précis.",
+      "inflections": ["se promener", "je me promène", "promener le chien"],
+      "ptTargets": ["passear"],
+      "examples": [
+        { "level": "A1", "fr": "Je me promène dans le parc.", "pt": "Eu passeio no parque." },
+        { "level": "A2-B1", "fr": "Nous nous promenons près de la Seine.", "pt": "Nós passeamos perto do Sena." },
+        { "level": "B2", "fr": "Elle se promène chaque soir pour penser.", "pt": "Ela passeia todas as noites para pensar." },
+        { "level": "C1-C2", "fr": "Se promener sans but est une façon de laisser la ville vous parler.", "pt": "Passear sem destino é uma forma de deixar a cidade falar com você." }
+      ]
+    },
+    {
+      "term": "se reposer",
+      "definitionPt": "descansar / repousar",
+      "definitionFr": "Faire une pause pour retrouver de l'énergie.",
+      "inflections": ["se reposer", "je me repose", "le repos"],
+      "ptTargets": ["descansar"],
+      "examples": [
+        { "level": "A1", "fr": "Je me repose après le travail.", "pt": "Eu descanso depois do trabalho." },
+        { "level": "A2-B1", "fr": "Elle se repose un moment sur le banc.", "pt": "Ela descansa um momento no banco." },
+        { "level": "B2", "fr": "Il faut se reposer avant une longue journée.", "pt": "É preciso descansar antes de um dia longo." },
+        { "level": "C1-C2", "fr": "Se reposer, c'est aussi accepter de ne rien faire.", "pt": "Descansar é também aceitar não fazer nada." }
+      ]
+    },
+    {
+      "term": "être habitué à",
+      "definitionPt": "estar acostumado a",
+      "definitionFr": "Être familiarisé avec quelque chose, le vivre souvent.",
+      "inflections": ["être habitué à", "habitué", "s'habituer"],
+      "ptTargets": ["acostumado"],
+      "examples": [
+        { "level": "A1", "fr": "Je suis habitué à me lever tôt.", "pt": "Estou acostumado a me levantar cedo." },
+        { "level": "A2-B1", "fr": "Elle est habituée au bruit de la rue.", "pt": "Ela está acostumada ao barulho da rua." },
+        { "level": "B2", "fr": "On s'habitue vite aux petites routines du quartier.", "pt": "A gente se acostuma rápido às pequenas rotinas do bairro." },
+        { "level": "C1-C2", "fr": "Être habitué à la ville ne veut pas dire la connaître vraiment.", "pt": "Estar acostumado à cidade não significa conhecê-la de verdade." }
+      ]
+    },
+    {
+      "term": "envoyer un colis",
+      "definitionPt": "enviar uma encomenda",
+      "definitionFr": "Expédier un paquet vers une autre adresse.",
+      "inflections": ["envoyer un colis", "j'envoie un colis", "le colis"],
+      "ptTargets": ["encomenda"],
+      "examples": [
+        { "level": "A1", "fr": "J'envoie un colis à ma sœur.", "pt": "Eu envio uma encomenda para minha irmã." },
+        { "level": "A2-B1", "fr": "Il faut envoyer le colis avant dix-huit heures.", "pt": "É preciso enviar a encomenda antes das dezoito horas." },
+        { "level": "B2", "fr": "Envoyer un colis à l'étranger demande quelques formalités.", "pt": "Enviar uma encomenda para o exterior exige algumas formalidades." },
+        { "level": "C1-C2", "fr": "Envoyer un colis, c'est confier une part de soi à la route.", "pt": "Enviar uma encomenda é confiar uma parte de si à estrada." }
+      ]
+    },
+    {
+      "term": "éteindre les appareils",
+      "definitionPt": "desligar os aparelhos",
+      "definitionFr": "Couper l'alimentation des machines électriques.",
+      "inflections": ["éteindre les appareils", "j'éteins", "éteint"],
+      "ptTargets": ["desligar"],
+      "examples": [
+        { "level": "A1", "fr": "J'éteins la télévision le soir.", "pt": "Eu desligo a televisão à noite." },
+        { "level": "A2-B1", "fr": "N'oublie pas d'éteindre les appareils avant de partir.", "pt": "Não esqueça de desligar os aparelhos antes de sair." },
+        { "level": "B2", "fr": "Éteindre les appareils en veille réduit la consommation.", "pt": "Desligar os aparelhos em espera reduz o consumo." },
+        { "level": "C1-C2", "fr": "Éteindre les appareils est un geste simple aux conséquences réelles.", "pt": "Desligar os aparelhos é um gesto simples com consequências reais." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Os verbos pronominais no presente",
+    "explanationPt": "Verbos pronominais usam 'se' no infinitivo e mudam com o sujeito: 'je me promène', 'tu te reposes', 'il se chausse'. No texto: 'Irlan se chausse et il sort se promener' — o 'se' mostra que a ação volta para a própria pessoa.",
+    "exampleFr": "Le matin, je me repose un peu avant de me chausser.",
+    "examplePt": "De manhã, eu descanso um pouco antes de me calçar.",
+    "practiceQuestion": "Complete: « Irlan ___ promène dans le parc. »",
+    "options": ["se", "le", "lui", "en"],
+    "correctIndex": 0,
+    "explanationPt": "'Se' é o pronome reflexivo correto para 'il' em 'se promener'."
+  },
+  "quizQuestions": [
+    {
+      "question": "Que fait Irlan d'abord à la maison ?",
+      "options": ["Il nourrit le chat", "Il envoie un colis", "Il éteint les appareils", "Il dort"],
+      "correctIndex": 0,
+      "explanation": "D'abord, Irlan doit nourrir le chat."
+    },
+    {
+      "question": "Où Irlan se repose-t-il ?",
+      "options": ["Sur le banc public", "Dans la cuisine", "À la poste", "Dans le métro"],
+      "correctIndex": 0,
+      "explanation": "Irlan se repose un peu sur le banc public de la place."
+    },
+    {
+      "question": "Que fait Irlan à la poste ?",
+      "options": ["Il envoie un colis", "Il achète un billet", "Il téléphone", "Il éteint les appareils"],
+      "correctIndex": 0,
+      "explanation": "Irlan va à la poste pour envoyer un colis."
+    }
+  ]
+}

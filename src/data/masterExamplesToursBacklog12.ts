@@ -1,0 +1,136 @@
+// Curadoria de exemplos — Tours (lote 12, guias avançados C2, 2ª rodada)
+// 4 exemplos progressivos A1→C2 por termo.
+export const TOURS_BACKLOG_EXAMPLES_12: Record<string, { level: string; fr: string; pt: string }[]> = {
+  "la race": [
+    { level: "A1", fr: "La race du chien est connue.", pt: "A raça do cão é conhecida." },
+    { level: "A2", fr: "Cette race de vache est locale.", pt: "Essa raça de vaca é local." },
+    { level: "B1", fr: "La race bovine régionale est protégée.", pt: "A raça bovina regional é protegida." },
+    { level: "C1", fr: "La notion de race, appliquée aux humains, est une imposture scientifique : elle a servi à justifier les pires violences de l'histoire.", pt: "A noção de raça, aplicada aos humanos, é uma impostura científica: serviu para justificar as piores violências da história." },
+  ],
+  "dépendre": [
+    { level: "A1", fr: "Ça dépend du temps.", pt: "Depende do tempo." },
+    { level: "A2", fr: "Le départ dépend de toi.", pt: "A partida depende de você." },
+    { level: "B1", fr: "L'économie dépend des exportations.", pt: "A economia depende das exportações." },
+    { level: "C1", fr: "Dépendre de quelqu'un n'est pas une honte, c'est une réalité humaine : l'autonomie absolue n'est qu'une illusion.", pt: "Depender de alguém não é uma vergonha, é uma realidade humana: a autonomia absoluta é apenas uma ilusão." },
+  ],
+  "l'importation": [
+    { level: "A1", fr: "L'importation de fruits est courante.", pt: "A importação de frutas é comum." },
+    { level: "A2", fr: "L'importation coûte cher.", pt: "A importação custa caro." },
+    { level: "B1", fr: "L'importation de marchandises est contrôlée.", pt: "A importação de mercadorias é controlada." },
+    { level: "C1", fr: "L'importation massive peut enrichir une nation, mais elle peut aussi détruire ses productions locales si elle n'est pas maîtrisée.", pt: "A importação massiva pode enriquecer uma nação, mas também pode destruir suas produções locais se não for controlada." },
+  ],
+  "ajuster": [
+    { level: "A1", fr: "Ajuste la hauteur.", pt: "Ajuste a altura." },
+    { level: "A2", fr: "Il ajuste son nœud.", pt: "Ele ajusta seu nó." },
+    { level: "B1", fr: "Les prix sont ajustés chaque année.", pt: "Os preços são ajustados todos os anos." },
+    { level: "C1", fr: "Ajuster sa pensée à la réalité exige une souplesse que les convictions rigides refusent : c'est pourtant la condition de toute sagesse.", pt: "Ajustar o pensamento à realidade exige uma flexibilidade que as convicções rígidas recusam: é, no entanto, a condição de toda sabedoria." },
+  ],
+  "l'agriculture intensive": [
+    { level: "A1", fr: "L'agriculture intensive produit beaucoup.", pt: "A agricultura intensiva produz muito." },
+    { level: "A2", fr: "L'agriculture intensive use les sols.", pt: "A agricultura intensiva desgasta os solos." },
+    { level: "B1", fr: "L'agriculture intensive est critiquée.", pt: "A agricultura intensiva é criticada." },
+    { level: "C1", fr: "L'agriculture intensive a nourri l'Europe d'après-guerre, mais elle a aussi épuisé les sols, les eaux et la biodiversité : le bilan est désormais ouvert.", pt: "A agricultura intensiva alimentou a Europa do pós-guerra, mas também esgotou solos, águas e biodiversidade: o balanço agora está em aberto." },
+  ],
+  "s'épuiser": [
+    { level: "A1", fr: "Il s'épuise au travail.", pt: "Ele se esgota no trabalho." },
+    { level: "A2", fr: "Les ressources s'épuisent.", pt: "Os recursos se esgotam." },
+    { level: "B1", fr: "La patience des habitants s'épuise.", pt: "A paciência dos moradores se esgota." },
+    { level: "C1", fr: "Les réserves d'un peuple ne s'épuisent jamais aussi vite que lorsqu'il cesse de croire en son avenir.", pt: "As reservas de um povo nunca se esgotam tão rápido quanto quando ele deixa de acreditar em seu futuro." },
+  ],
+  "concentrer": [
+    { level: "A1", fr: "Concentre-toi !", pt: "Concentre-se!" },
+    { level: "A2", fr: "Le sirop concentre le goût.", pt: "O xarope concentra o sabor." },
+    { level: "B1", fr: "La population se concentre dans les villes.", pt: "A população se concentra nas cidades." },
+    { level: "C1", fr: "Concentrer le pouvoir, c'est toujours un pari risqué : l'histoire montre que la concentration commence par l'efficacité et finit souvent par l'abus.", pt: "Concentrar o poder é sempre uma aposta arriscada: a história mostra que a concentração começa pela eficiência e muitas vezes termina no abuso." },
+  ],
+  "le tourment": [
+    { level: "A1", fr: "Le tourment est lourd.", pt: "O tormento é pesado." },
+    { level: "A2", fr: "Il vit dans le tourment.", pt: "Ele vive em tormento." },
+    { level: "B1", fr: "Les tourments de l'amour sont connus.", pt: "Os tormentos do amor são conhecidos." },
+    { level: "C1", fr: "Le tourment est le prix de la conscience : seuls ceux qui pensent savent à quel point la pensée peut faire souffrir.", pt: "O tormento é o preço da consciência: só os que pensam sabem o quanto o pensamento pode fazer sofrer." },
+  ],
+  "le dramaturge": [
+    { level: "A1", fr: "Le dramaturge écrit des pièces.", pt: "O dramaturgo escreve peças." },
+    { level: "A2", fr: "Le dramaturge travaille avec les acteurs.", pt: "O dramaturgo trabalha com os atores." },
+    { level: "B1", fr: "Le dramaturge adapte un roman.", pt: "O dramaturgo adapta um romance." },
+    { level: "C1", fr: "Le dramaturge est un architecte du temps : il décide ce que le public verra, entendra et comprendra, seconde après seconde.", pt: "O dramaturgo é um arquiteto do tempo: decide o que o público verá, ouvirá e compreenderá, segundo a segundo." },
+  ],
+  "la tragédie": [
+    { level: "A1", fr: "La tragédie est triste.", pt: "A tragédia é triste." },
+    { level: "A2", fr: "La tragédie a frappé la ville.", pt: "A tragédia atingiu a cidade." },
+    { level: "B1", fr: "La tragédie grecque met en scène le destin.", pt: "A tragédia grega encena o destino." },
+    { level: "C1", fr: "La tragédie n'est pas le pessimisme : elle est la confrontation lucide avec la fragilité humaine, et c'est cette lucidité qui la rend cathartique.", pt: "A tragédia não é o pessimismo: é a confrontação lúcida com a fragilidade humana, e é essa lucidez que a torna catártica." },
+  ],
+  "instantané": [
+    { level: "A1", fr: "Le café est instantané.", pt: "O café é instantâneo." },
+    { level: "A2", fr: "La réponse est instantanée.", pt: "A resposta é instantânea." },
+    { level: "B1", fr: "La photo instantanée est devenue rare.", pt: "A foto instantânea ficou rara." },
+    { level: "C1", fr: "Le succès instantané est un mirage : ce que l'on obtient sans effort se dissipe aussi vite qu'il est venu.", pt: "O sucesso instantâneo é um miragem: o que se obtém sem esforço se dissipa tão rápido quanto veio." },
+  ],
+  "la date de péremption": [
+    { level: "A1", fr: "La date de péremption est dépassée.", pt: "A data de validade passou." },
+    { level: "A2", fr: "Vérifie la date de péremption.", pt: "Verifique a data de validade." },
+    { level: "B1", fr: "La date de péremption figure sur l'emballage.", pt: "A data de validade aparece na embalagem." },
+    { level: "C1", fr: "La date de péremption ne dit pas la qualité : elle dit la prudence, et bien des produits encore bons finissent à la poubelle par excès de prudence.", pt: "A data de validade não diz a qualidade: diz a prudência, e muitos produtos ainda bons acabam no lixo por excesso de prudência." },
+  ],
+  "le sous-sol": [
+    { level: "A1", fr: "Le sous-sol est humide.", pt: "O subsolo é úmido." },
+    { level: "A2", fr: "Le sous-sol cache des trésors.", pt: "O subsolo esconde tesouros." },
+    { level: "B1", fr: "Le sous-sol de la région est riche en pierre.", pt: "O subsolo da região é rico em pedra." },
+    { level: "C1", fr: "Le sous-sol est la mémoire profonde des territoires : il conserve les traces de tout ce que la surface a oublié.", pt: "O subsolo é a memória profunda dos territórios: conserva os vestígios de tudo o que a superfície esqueceu." },
+  ],
+  "le fossile": [
+    { level: "A1", fr: "Le fossile est ancien.", pt: "O fóssil é antigo." },
+    { level: "A2", fr: "Le fossile est dans la roche.", pt: "O fóssil está na rocha." },
+    { level: "B1", fr: "Le fossile raconte le passé.", pt: "O fóssil conta o passado." },
+    { level: "C1", fr: "Le fossile est une lettre que la vie s'est écrite à elle-même : la lire, c'est reconstituer des mondes disparus à partir d'une trace.", pt: "O fóssil é uma carta que a vida escreveu a si mesma: lê-la é reconstituir mundos desaparecidos a partir de um vestígio." },
+  ],
+  "décalé": [
+    { level: "A1", fr: "L'horaire est décalé.", pt: "O horário está deslocado." },
+    { level: "A2", fr: "Son humour est décalé.", pt: "Seu humor é deslocado." },
+    { level: "B1", fr: "Les saisons sont décalées cette année.", pt: "As estações estão deslocadas este ano." },
+    { level: "C1", fr: "Être décalé par rapport à son époque peut être une faiblesse, mais c'est parfois la condition pour voir ce que les contemporains ne voient pas.", pt: "Estar deslocado em relação à própria época pode ser uma fraqueza, mas às vezes é a condição para ver o que os contemporâneos não veem." },
+  ],
+  "éclairer": [
+    { level: "A1", fr: "La lampe éclaire la pièce.", pt: "A lâmpada ilumina a sala." },
+    { level: "A2", fr: "Le soleil éclaire la rue.", pt: "O sol ilumina a rua." },
+    { level: "B1", fr: "Ce document éclaire le débat.", pt: "Este documento ilumina o debate." },
+    { level: "C1", fr: "Éclairer un problème, ce n'est pas le résoudre : c'est rendre visibles les chemins que l'obscurité cachait.", pt: "Iluminar um problema não é resolvê-lo: é tornar visíveis os caminhos que a escuridão escondia." },
+  ],
+  "la fatalité": [
+    { level: "A1", fr: "La fatalité est triste.", pt: "A fatalidade é triste." },
+    { level: "A2", fr: "Il accepte la fatalité.", pt: "Ele aceita a fatalidade." },
+    { level: "B1", fr: "Ce n'est pas une fatalité.", pt: "Não é uma fatalidade." },
+    { level: "C1", fr: "La fatalité est le refuge de ceux qui ne veulent pas lutter : appeler destin ce qui est décision, c'est se décharger de sa propre responsabilité.", pt: "A fatalidade é o refúgio de quem não quer lutar: chamar de destino o que é decisão é se descarregar da própria responsabilidade." },
+  ],
+  "la vie associative": [
+    { level: "A1", fr: "La vie associative est active.", pt: "A vida associativa é ativa." },
+    { level: "A2", fr: "La vie associative aide les habitants.", pt: "A vida associativa ajuda os moradores." },
+    { level: "B1", fr: "La vie associative renforce les liens.", pt: "A vida associativa fortalece os vínculos." },
+    { level: "C1", fr: "La vie associative est l'école discrète de la démocratie : on y apprend à délibérer, à coopérer, à faire exister des causes sans attendre l'État.", pt: "A vida associativa é a escola discreta da democracia: aprende-se ali a deliberar, cooperar, fazer existir causas sem esperar o Estado." },
+  ],
+  "le sans-abri": [
+    { level: "A1", fr: "Le sans-abri dort dehors.", pt: "O sem-teto dorme na rua." },
+    { level: "A2", fr: "Les sans-abri ont froid l'hiver.", pt: "Os sem-teto sentem frio no inverno." },
+    { level: "B1", fr: "Des associations aident les sans-abri.", pt: "Associações ajudam os sem-teto." },
+    { level: "C1", fr: "Le sans-abri est le miroir que la société préfère éviter : il dit, à lui seul, tout ce que nos systèmes d'assistance n'ont pas su empêcher.", pt: "O sem-teto é o espelho que a sociedade prefere evitar: diz, sozinho, tudo o que nossos sistemas de assistência não souberam impedir." },
+  ],
+  "manifeste": [
+    { level: "A1", fr: "Son intention est manifeste.", pt: "Sua intenção é manifesta." },
+    { level: "A2", fr: "La différence est manifeste.", pt: "A diferença é manifesta." },
+    { level: "B1", fr: "Le mécontentement est manifeste.", pt: "O descontentamento é manifesto." },
+    { level: "C1", fr: "Le manifeste est un acte de naissance : il déclare publiquement ce qui n'existait qu'en secret, et cette déclaration change le cours des choses.", pt: "O manifesto é um ato de nascimento: declara publicamente o que só existia em segredo, e essa declaração muda o curso das coisas." },
+  ],
+  "l'élection": [
+    { level: "A1", fr: "L'élection a lieu dimanche.", pt: "A eleição acontece domingo." },
+    { level: "A2", fr: "L'élection du délégué est proche.", pt: "A eleição do delegado está próxima." },
+    { level: "B1", fr: "L'élection présidentielle mobilise le pays.", pt: "A eleição presidencial mobiliza o país." },
+    { level: "C1", fr: "L'élection est le moment où le peuple parle d'une seule voix, mais c'est aussi celui où l'on mesure combien cette voix est fragile.", pt: "A eleição é o momento em que o povo fala com uma só voz, mas também é quando se mede o quanto essa voz é frágil." },
+  ],
+  "participer": [
+    { level: "A1", fr: "Je participe au jeu.", pt: "Eu participo do jogo." },
+    { level: "A2", fr: "Elle participe à la fête.", pt: "Ela participa da festa." },
+    { level: "B1", fr: "Les citoyens participent au débat.", pt: "Os cidadãos participam do debate." },
+    { level: "C1", fr: "Participer, c'est accepter de ne pas être spectateur : la démocratie n'appartient qu'à ceux qui s'en mêlent.", pt: "Participar é aceitar não ser espectador: a democracia só pertence a quem se envolve." },
+  ],
+};

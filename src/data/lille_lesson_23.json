@@ -85,156 +85,423 @@
       "term": "fermé",
       "definitionPt": "fechado",
       "definitionFr": "Qui n'est pas ouvert.",
-      "inflections": ["fermé", "fermée", "fermer"],
-      "ptTargets": ["fechado"],
+      "inflections": [
+        "fermé",
+        "fermée",
+        "fermer"
+      ],
+      "ptTargets": [
+        "fechado"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le magasin est fermé.", "pt": "A loja está fechada." },
-        { "level": "A2-B1", "fr": "La porte des archives était fermée.", "pt": "A porta dos arquivos estava fechada." },
-        { "level": "B2", "fr": "Une affiche annonçait une fermeture exceptionnelle.", "pt": "Um cartaz anunciava um fechamento excepcional." },
-        { "level": "C1-C2", "fr": "Une porte fermée peut cacher plus de secrets qu'une porte ouverte.", "pt": "Uma porta fechada pode esconder mais segredos que uma porta aberta." }
+        {
+          "level": "A1",
+          "fr": "Le magasin est fermé.",
+          "pt": "A loja está fechada."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "La porte des archives était fermée.",
+          "pt": "A porta dos arquivos estava fechada."
+        },
+        {
+          "level": "B2",
+          "fr": "Une affiche annonçait une fermeture exceptionnelle.",
+          "pt": "Um cartaz anunciava um fechamento excepcional."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Une porte fermée peut cacher plus de secrets qu'une porte ouverte.",
+          "pt": "Uma porta fechada pode esconder mais segredos que uma porta aberta."
+        }
       ]
     },
     {
       "term": "tôt",
       "definitionPt": "cedo",
       "definitionFr": "Avant l'heure habituelle.",
-      "inflections": ["tôt", "très tôt", "plus tôt"],
-      "ptTargets": ["cedo"],
+      "inflections": [
+        "tôt",
+        "très tôt",
+        "plus tôt"
+      ],
+      "ptTargets": [
+        "cedo"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Je me lève tôt.", "pt": "Eu me levanto cedo." },
-        { "level": "A2-B1", "fr": "L'archiviste est parti tôt ce matin.", "pt": "O arquivista saiu cedo esta manhã." },
-        { "level": "B2", "fr": "Le port a fermé plus tôt que d'habitude.", "pt": "O porto fechou mais cedo que o habitual." },
-        { "level": "C1-C2", "fr": "Partir tôt, c'est souvent partir avant que la peur ne se réveille.", "pt": "Partir cedo é muitas vezes partir antes que o medo acorde." }
+        {
+          "level": "A1",
+          "fr": "Je me lève tôt.",
+          "pt": "Eu me levanto cedo."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "L'archiviste est parti tôt ce matin.",
+          "pt": "O arquivista saiu cedo esta manhã."
+        },
+        {
+          "level": "B2",
+          "fr": "Le port a fermé plus tôt que d'habitude.",
+          "pt": "O porto fechou mais cedo que o habitual."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Partir tôt, c'est souvent partir avant que la peur ne se réveille.",
+          "pt": "Partir cedo é muitas vezes partir antes que o medo acorde."
+        }
       ]
     },
     {
       "term": "l'ordre",
       "definitionPt": "a ordem",
       "definitionFr": "Instruction donnée par une autorité.",
-      "inflections": ["l'ordre", "un ordre", "des ordres"],
-      "ptTargets": ["ordem"],
+      "inflections": [
+        "l'ordre",
+        "un ordre",
+        "des ordres"
+      ],
+      "ptTargets": [
+        "ordem"
+      ],
       "examples": [
-        { "level": "A1", "fr": "C'est un ordre.", "pt": "É uma ordem." },
-        { "level": "A2-B1", "fr": "L'archiviste a reçu des ordres.", "pt": "O arquivista recebeu ordens." },
-        { "level": "B2", "fr": "Les ordres venaient de plus haut, et personne ne posait de questions.", "pt": "As ordens vinham de cima, e ninguém fazia perguntas." },
-        { "level": "C1-C2", "fr": "Obéir à un ordre injuste, c'est déjà le trahir un peu.", "pt": "Obedecer a uma ordem injusta já é traí-la um pouco." }
+        {
+          "level": "A1",
+          "fr": "C'est un ordre.",
+          "pt": "É uma ordem."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "L'archiviste a reçu des ordres.",
+          "pt": "O arquivista recebeu ordens."
+        },
+        {
+          "level": "B2",
+          "fr": "Les ordres venaient de plus haut, et personne ne posait de questions.",
+          "pt": "As ordens vinham de cima, e ninguém fazia perguntas."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Obéir à un ordre injuste, c'est déjà le trahir un peu.",
+          "pt": "Obedecer a uma ordem injusta já é traí-la um pouco."
+        }
       ]
     },
     {
       "term": "la pression",
       "definitionPt": "a pressão",
       "definitionFr": "Influence forte exercée sur quelqu'un.",
-      "inflections": ["la pression", "une pression", "des pressions"],
-      "ptTargets": ["pressão"],
+      "inflections": [
+        "la pression",
+        "une pression",
+        "des pressions"
+      ],
+      "ptTargets": [
+        "pressão"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La pression est forte.", "pt": "A pressão é forte." },
-        { "level": "A2-B1", "fr": "L'archiviste a subi des pressions.", "pt": "O arquivista sofreu pressões." },
-        { "level": "B2", "fr": "La pression extérieure avait fait fermer les archives.", "pt": "A pressão externa fizera fechar os arquivos." },
-        { "level": "C1-C2", "fr": "La pression silencieuse est la plus difficile à combattre.", "pt": "A pressão silenciosa é a mais difícil de combater." }
+        {
+          "level": "A1",
+          "fr": "La pression est forte.",
+          "pt": "A pressão é forte."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "L'archiviste a subi des pressions.",
+          "pt": "O arquivista sofreu pressões."
+        },
+        {
+          "level": "B2",
+          "fr": "La pression extérieure avait fait fermer les archives.",
+          "pt": "A pressão externa fizera fechar os arquivos."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "La pression silencieuse est la plus difficile à combattre.",
+          "pt": "A pressão silenciosa é a mais difícil de combater."
+        }
       ]
     },
     {
       "term": "avoir peur",
       "definitionPt": "ter medo",
       "definitionFr": "Ressentir de la peur.",
-      "inflections": ["j'ai peur", "nous avons peur", "eu peur"],
-      "ptTargets": ["ter medo", "medo"],
+      "inflections": [
+        "j'ai peur",
+        "nous avons peur",
+        "eu peur"
+      ],
+      "ptTargets": [
+        "ter medo",
+        "medo"
+      ],
       "examples": [
-        { "level": "A1", "fr": "J'ai peur du noir.", "pt": "Tenho medo do escuro." },
-        { "level": "A2-B1", "fr": "L'archiviste avait l'air d'avoir peur.", "pt": "O arquivista parecia ter medo." },
-        { "level": "B2", "fr": "Il avait peur de perdre son travail s'il parlait.", "pt": "Ele tinha medo de perder o emprego se falasse." },
-        { "level": "C1-C2", "fr": "Avoir peur n'est pas une faiblesse : c'est la preuve qu'on tient à quelque chose.", "pt": "Ter medo não é fraqueza: é a prova de que se dá valor a algo." }
+        {
+          "level": "A1",
+          "fr": "J'ai peur du noir.",
+          "pt": "Tenho medo do escuro."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "L'archiviste avait l'air d'avoir peur.",
+          "pt": "O arquivista parecia ter medo."
+        },
+        {
+          "level": "B2",
+          "fr": "Il avait peur de perdre son travail s'il parlait.",
+          "pt": "Ele tinha medo de perder o emprego se falasse."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Avoir peur n'est pas une faiblesse : c'est la preuve qu'on tient à quelque chose.",
+          "pt": "Ter medo não é fraqueza: é a prova de que se dá valor a algo."
+        }
       ]
     },
     {
       "term": "le silence",
       "definitionPt": "o silêncio",
       "definitionFr": "Absence de bruit ou de parole.",
-      "inflections": ["le silence", "un silence", "des silences"],
-      "ptTargets": ["silêncio"],
+      "inflections": [
+        "le silence",
+        "un silence",
+        "des silences"
+      ],
+      "ptTargets": [
+        "silêncio"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le silence est total.", "pt": "O silêncio é total." },
-        { "level": "A2-B1", "fr": "Il a acheté le silence de l'archiviste.", "pt": "Ele comprou o silêncio do arquivista." },
-        { "level": "B2", "fr": "Le silence s'est installé dans la salle vide.", "pt": "O silêncio se instalou na sala vazia." },
-        { "level": "C1-C2", "fr": "Le silence peut être un refuge ou une prison, selon ce qu'on y cache.", "pt": "O silêncio pode ser um refúgio ou uma prisão, conforme o que se esconde nele." }
+        {
+          "level": "A1",
+          "fr": "Le silence est total.",
+          "pt": "O silêncio é total."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Il a acheté le silence de l'archiviste.",
+          "pt": "Ele comprou o silêncio do arquivista."
+        },
+        {
+          "level": "B2",
+          "fr": "Le silence s'est installé dans la salle vide.",
+          "pt": "O silêncio se instalou na sala vazia."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Le silence peut être un refuge ou une prison, selon ce qu'on y cache.",
+          "pt": "O silêncio pode ser um refúgio ou uma prisão, conforme o que se esconde nele."
+        }
       ]
     },
     {
       "term": "la vérité",
       "definitionPt": "a verdade",
       "definitionFr": "Ce qui est vrai, réel.",
-      "inflections": ["la vérité", "une vérité", "des vérités"],
-      "ptTargets": ["verdade"],
+      "inflections": [
+        "la vérité",
+        "une vérité",
+        "des vérités"
+      ],
+      "ptTargets": [
+        "verdade"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Dis la vérité.", "pt": "Diga a verdade." },
-        { "level": "A2-B1", "fr": "Ils cherchaient la vérité sur le nom.", "pt": "Eles procuravam a verdade sobre o nome." },
-        { "level": "B2", "fr": "La vérité finit toujours par sortir des archives.", "pt": "A verdade sempre acaba saindo dos arquivos." },
-        { "level": "C1-C2", "fr": "La vérité est comme une graine : on peut la cacher, mais elle pousse.", "pt": "A verdade é como uma semente: pode-se escondê-la, mas ela cresce." }
+        {
+          "level": "A1",
+          "fr": "Dis la vérité.",
+          "pt": "Diga a verdade."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Ils cherchaient la vérité sur le nom.",
+          "pt": "Eles procuravam a verdade sobre o nome."
+        },
+        {
+          "level": "B2",
+          "fr": "La vérité finit toujours par sortir des archives.",
+          "pt": "A verdade sempre acaba saindo dos arquivos."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "La vérité est comme une graine : on peut la cacher, mais elle pousse.",
+          "pt": "A verdade é como uma semente: pode-se escondê-la, mas ela cresce."
+        }
       ]
     },
     {
       "term": "menacer",
       "definitionPt": "ameaçar",
       "definitionFr": "Faire craindre un mal à quelqu'un.",
-      "inflections": ["je menace", "nous menaçons", "menacé"],
-      "ptTargets": ["ameaçar"],
+      "inflections": [
+        "je menace",
+        "nous menaçons",
+        "menacé"
+      ],
+      "ptTargets": [
+        "ameaçar"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Il ne faut pas menacer les gens.", "pt": "Não se deve ameaçar as pessoas." },
-        { "level": "A2-B1", "fr": "L'homme a menacé l'archiviste.", "pt": "O homem ameaçou o arquivista." },
-        { "level": "B2", "fr": "Menacé, l'archiviste a fermé les portes du port.", "pt": "Ameaçado, o arquivista fechou as portas do porto." },
-        { "level": "C1-C2", "fr": "Menacer la mémoire d'un homme, c'est menacer tous ceux qui viendront après lui.", "pt": "Ameaçar a memória de um homem é ameaçar todos os que virão depois dele." }
+        {
+          "level": "A1",
+          "fr": "Il ne faut pas menacer les gens.",
+          "pt": "Não se deve ameaçar as pessoas."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "L'homme a menacé l'archiviste.",
+          "pt": "O homem ameaçou o arquivista."
+        },
+        {
+          "level": "B2",
+          "fr": "Menacé, l'archiviste a fermé les portes du port.",
+          "pt": "Ameaçado, o arquivista fechou as portas do porto."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Menacer la mémoire d'un homme, c'est menacer tous ceux qui viendront après lui.",
+          "pt": "Ameaçar a memória de um homem é ameaçar todos os que virão depois dele."
+        }
       ]
     },
     {
       "term": "élégant",
       "definitionPt": "elegante",
       "definitionFr": "Qui a de la grâce et du raffinement.",
-      "inflections": ["élégant", "élégante", "élégants"],
-      "ptTargets": ["elegante"],
+      "inflections": [
+        "élégant",
+        "élégante",
+        "élégants"
+      ],
+      "ptTargets": [
+        "elegante"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Cet homme est élégant.", "pt": "Esse homem é elegante." },
-        { "level": "A2-B1", "fr": "Un homme élégant est venu hier soir.", "pt": "Um homem elegante veio ontem à noite." },
-        { "level": "B2", "fr": "Élégant et froid, il payait les silences comme on achète des tableaux.", "pt": "Elegante e frio, ele pagava os silêncios como quem compra quadros." },
-        { "level": "C1-C2", "fr": "L'élégance peut être un masque parfaitement lisse.", "pt": "A elegância pode ser uma máscara perfeitamente lisa." }
+        {
+          "level": "A1",
+          "fr": "Cet homme est élégant.",
+          "pt": "Esse homem é elegante."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Un homme élégant est venu hier soir.",
+          "pt": "Um homem elegante veio ontem à noite."
+        },
+        {
+          "level": "B2",
+          "fr": "Élégant et froid, il payait les silences comme on achète des tableaux.",
+          "pt": "Elegante e frio, ele pagava os silêncios como quem compra quadros."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "L'élégance peut être un masque parfaitement lisse.",
+          "pt": "A elegância pode ser uma máscara perfeitamente lisa."
+        }
       ]
     },
     {
       "term": "le visage",
       "definitionPt": "o rosto",
       "definitionFr": "La face d'une personne.",
-      "inflections": ["le visage", "un visage", "des visages"],
-      "ptTargets": ["rosto", "face"],
+      "inflections": [
+        "le visage",
+        "un visage",
+        "des visages"
+      ],
+      "ptTargets": [
+        "rosto",
+        "face"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Son visage est doux.", "pt": "O rosto dele é doce." },
-        { "level": "A2-B1", "fr": "Le visage de l'archiviste était pâle.", "pt": "O rosto do arquivista estava pálido." },
-        { "level": "B2", "fr": "Sur son visage fatigué, on lisait des années de secrets.", "pt": "No rosto cansado dele, liam-se anos de segredos." },
-        { "level": "C1-C2", "fr": "Un visage raconte parfois ce que la bouche refuse de dire.", "pt": "Um rosto conta às vezes o que a boca se recusa a dizer." }
+        {
+          "level": "A1",
+          "fr": "Son visage est doux.",
+          "pt": "O rosto dele é doce."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Le visage de l'archiviste était pâle.",
+          "pt": "O rosto do arquivista estava pálido."
+        },
+        {
+          "level": "B2",
+          "fr": "Sur son visage fatigué, on lisait des années de secrets.",
+          "pt": "No rosto cansado dele, liam-se anos de segredos."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Un visage raconte parfois ce que la bouche refuse de dire.",
+          "pt": "Um rosto conta às vezes o que a boca se recusa a dizer."
+        }
       ]
     },
     {
       "term": "suivre",
       "definitionPt": "seguir",
       "definitionFr": "Aller derrière quelqu'un.",
-      "inflections": ["je suis", "nous suivons", "suivi"],
-      "ptTargets": ["seguir"],
+      "inflections": [
+        "je suis",
+        "nous suivons",
+        "suivi"
+      ],
+      "ptTargets": [
+        "seguir"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Suis-moi !", "pt": "Segue-me!" },
-        { "level": "A2-B1", "fr": "La voiture grise les suivait.", "pt": "O carro cinza os seguia." },
-        { "level": "B2", "fr": "Ils ont suivi l'archiviste jusqu'au café.", "pt": "Eles seguiram o arquivista até o café." },
-        { "level": "C1-C2", "fr": "Suivre une piste, c'est accepter qu'elle vous mène où elle veut.", "pt": "Seguir uma pista é aceitar que ela o leve aonde quiser." }
+        {
+          "level": "A1",
+          "fr": "Suis-moi, je connais un passage calme vers la Grand-Place.",
+          "pt": "Siga-me, conheço uma passagem tranquila até a Grand-Place."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "La voiture grise les suivait.",
+          "pt": "O carro cinza os seguia."
+        },
+        {
+          "level": "B2",
+          "fr": "Ils ont suivi l'archiviste jusqu'au café.",
+          "pt": "Eles seguiram o arquivista até o café."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Suivre une piste, c'est accepter qu'elle vous mène où elle veut.",
+          "pt": "Seguir uma pista é aceitar que ela o leve aonde quiser."
+        }
       ]
     },
     {
       "term": "le travail",
       "definitionPt": "o trabalho, o emprego",
       "definitionFr": "Activité professionnelle.",
-      "inflections": ["le travail", "un travail", "des travaux"],
-      "ptTargets": ["trabalho", "emprego"],
+      "inflections": [
+        "le travail",
+        "un travail",
+        "des travaux"
+      ],
+      "ptTargets": [
+        "trabalho",
+        "emprego"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le travail commence à neuf heures.", "pt": "O trabalho começa às nove." },
-        { "level": "A2-B1", "fr": "Il avait peur de perdre son travail.", "pt": "Ele tinha medo de perder o emprego." },
-        { "level": "B2", "fr": "Le travail de l'archiviste était sa vie entière.", "pt": "O trabalho do arquivista era a vida inteira dele." },
-        { "level": "C1-C2", "fr": "Garder son travail au prix de la vérité, c'est le perdre un peu.", "pt": "Manter o emprego ao preço da verdade é perdê-lo um pouco." }
+        {
+          "level": "A1",
+          "fr": "Le travail commence à neuf heures.",
+          "pt": "O trabalho começa às nove."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Il avait peur de perdre son travail.",
+          "pt": "Ele tinha medo de perder o emprego."
+        },
+        {
+          "level": "B2",
+          "fr": "Le travail de l'archiviste était sa vie entière.",
+          "pt": "O trabalho do arquivista era a vida inteira dele."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Garder son travail au prix de la vérité, c'est le perdre un peu.",
+          "pt": "Manter o emprego ao preço da verdade é perdê-lo um pouco."
+        }
       ]
     }
   ],
@@ -244,7 +511,11 @@
     "exampleFr": "L'homme élégant est venu hier soir, et l'archiviste est parti tôt ce matin.",
     "examplePt": "O homem elegante veio ontem à noite, e o arquivista partiu cedo esta manhã.",
     "practiceQuestion": "Complete: « L'archiviste ___ parti tôt. »",
-    "options": ["est", "a", "sont"],
+    "options": [
+      "est",
+      "a",
+      "sont"
+    ],
     "correctIndex": 0,
     "points": [
       {
@@ -253,7 +524,11 @@
         "exampleFr": "L'archiviste avait peur de perdre son travail.",
         "examplePt": "O arquivista tinha medo de perder o emprego.",
         "practiceQuestion": "Complete: « Il ___ peur de parler. »",
-        "options": ["a", "est", "fait"],
+        "options": [
+          "a",
+          "est",
+          "fait"
+        ],
         "correctIndex": 0
       },
       {
@@ -262,7 +537,11 @@
         "exampleFr": "Il buvait un thé pendant que la voiture grise passait lentement.",
         "examplePt": "Ele bebia um chá enquanto o carro cinza passava devagar.",
         "practiceQuestion": "Complete: « Pendant qu'il ___ son thé, la voiture passait. »",
-        "options": ["buvait", "boit", "bu"],
+        "options": [
+          "buvait",
+          "boit",
+          "bu"
+        ],
         "correctIndex": 0
       }
     ]
@@ -270,31 +549,51 @@
   "quizQuestions": [
     {
       "question": "O que dizia o cartaz na porta dos arquivos?",
-      "options": ["Fermeture exceptionnelle", "Ouvert jusqu'à minuit", "Réouverture demain"],
+      "options": [
+        "Fermeture exceptionnelle",
+        "Ouvert jusqu'à minuit",
+        "Réouverture demain"
+      ],
       "correctIndex": 0,
       "explanation": "O cartaz anunciava uma « fermeture exceptionnelle » (fechamento excepcional)."
     },
     {
       "question": "Por que o arquivista parecia ter medo?",
-      "options": ["Um homem elegante falou alto e o ameaçou", "Ele perdeu as chaves", "Ele estava doente"],
+      "options": [
+        "Um homem elegante falou alto e o ameaçou",
+        "Ele perdeu as chaves",
+        "Ele estava doente"
+      ],
       "correctIndex": 0,
       "explanation": "Um homem elegante (ligado a Garnier) o ameaçou e comprou seu silêncio."
     },
     {
       "question": "Complete: « L'archiviste ___ parti tôt ce matin. »",
-      "options": ["est", "a", "sont"],
+      "options": [
+        "est",
+        "a",
+        "sont"
+      ],
       "correctIndex": 0,
       "explanation": "'Partir' usa 'être' no passé composé: 'il est parti'."
     },
     {
       "question": "O que Garnier queria impedir?",
-      "options": ["Que o nome saísse dos arquivos", "Que chovesse em Lille", "Que o metrô funcionasse"],
+      "options": [
+        "Que o nome saísse dos arquivos",
+        "Que chovesse em Lille",
+        "Que o metrô funcionasse"
+      ],
       "correctIndex": 0,
       "explanation": "Ele comprou o silêncio para que o nome de Rocha de Oliveira não saísse dos arquivos."
     },
     {
       "question": "Por que Irlan sorriu no fim?",
-      "options": ["Porque eles já tinham copiado o nome", "Porque desistiu da busca", "Porque o arquivo reabriu"],
+      "options": [
+        "Porque eles já tinham copiado o nome",
+        "Porque desistiu da busca",
+        "Porque o arquivo reabriu"
+      ],
       "correctIndex": 0,
       "explanation": "Irlan sorriu porque o nome já estava copiado — a verdade já tinha saído dos arquivos."
     }

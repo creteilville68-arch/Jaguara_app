@@ -1,0 +1,142 @@
+// Curadoria de exemplos — Marseille
+// 4 exemplos progressivos A1→C2 por termo.
+export const MARSEILLE_BACKLOG_EXAMPLES_8: Record<string, { level: string; fr: string; pt: string }[]> = {
+  "aller": [
+    { level: "A1", fr: "Je vais au marché ce matin.", pt: "Eu vou ao mercado esta manhã." },
+    { level: "A2", fr: "Comment allez-vous depuis notre dernière rencontre ?", pt: "Como vai você desde nosso último encontro?" },
+    { level: "B1", fr: "Il faut y aller doucement pour ne rien casser.", pt: "É preciso ir devagar para não quebrar nada." },
+    { level: "C1", fr: "Aller au bout de ses rêves exige une détermination que peu de gens possèdent.", pt: "Ir até o fim dos seus sonhos exige uma determinação que poucas pessoas possuem." },
+  ],
+  "annoncer": [
+    { level: "A1", fr: "Il annonce une bonne nouvelle.", pt: "Ele anuncia uma boa notícia." },
+    { level: "A2", fr: "La météo a annoncé de la pluie pour demain.", pt: "A meteorologia anunciou chuva para amanhã." },
+    { level: "B1", fr: "Le directeur a annoncé sa démission lors de la réunion.", pt: "O diretor anunciou sua demissão durante a reunião." },
+    { level: "C1", fr: "Annoncer une décision aussi lourde de conséquences sans préparation relève de l'inconscience.", pt: "Anunciar uma decisão tão cheia de consequências sem preparação é uma irresponsabilidade." },
+  ],
+  "appartement": [
+    { level: "A1", fr: "Mon appartement est au troisième étage.", pt: "Meu apartamento fica no terceiro andar." },
+    { level: "A2", fr: "Nous cherchons un appartement avec deux chambres.", pt: "Nós procuramos um apartamento com dois quartos." },
+    { level: "B1", fr: "L'appartement haussmannien a beaucoup de charme.", pt: "O apartamento haussmanniano tem muito charme." },
+    { level: "C1", fr: "L'appartement, témoin silencieux des vies qui s'y sont succédé, conservait l'empreinte indélébile de ses anciens occupants.", pt: "O apartamento, testemunha silenciosa das vidas que ali se sucederam, conservava a marca indelével de seus antigos ocupantes." },
+  ],
+  "beau": [
+    { level: "A1", fr: "C'est un beau jardin.", pt: "É um belo jardim." },
+    { level: "A2", fr: "Marseille est une belle ville.", pt: "Marselha é uma bela cidade." },
+    { level: "B1", fr: "Les plus belles choses arrivent quand on s'y attend le moins.", pt: "As coisas mais belas acontecem quando menos se espera." },
+    { level: "C1", fr: "La beauté, aussi éphémère soit-elle, justifie à elle seule l'existence de l'art.", pt: "A beleza, por mais efêmera que seja, justifica por si só a existência da arte." },
+  ],
+  "boutique": [
+    { level: "A1", fr: "La boutique est fermée le dimanche.", pt: "A loja fica fechada aos domingos." },
+    { level: "A2", fr: "J'adore cette boutique de vêtements.", pt: "Eu adoro esta loja de roupas." },
+    { level: "B1", fr: "Les boutiques du Vieux-Port vendent des produits artisanaux.", pt: "As lojas do Vieux-Port vendem produtos artesanais." },
+    { level: "C1", fr: "La boutique, confidente des secrets intimes de ses clientes, était bien plus qu'un simple commerce.", pt: "A loja, confidente dos segredos íntimos de suas clientes, era muito mais que um simples comércio." },
+  ],
+  "champ": [
+    { level: "A1", fr: "Les fleurs poussent dans le champ.", pt: "As flores crescem no campo." },
+    { level: "A2", fr: "Il y a un champ de blé derrière la ferme.", pt: "Tem um campo de trigo atrás da fazenda." },
+    { level: "B1", fr: "Les champs de lavande du Vaucluse attirent les touristes.", pt: "Os campos de lavanda do Vaucluse atraem os turistas." },
+    { level: "C1", fr: "Le champ des possibles s'ouvre à qui sait regarder au-delà de l'horizon immédiat.", pt: "O campo dos possíveis se abre para quem sabe olhar além do horizonte imediato." },
+  ],
+  "chaud": [
+    { level: "A1", fr: "Le café est chaud.", pt: "O café está quente." },
+    { level: "A2", fr: "Il fait chaud aujourd'hui.", pt: "Está quente hoje." },
+    { level: "B1", fr: "L'accueil a été chaud, tout le monde nous a fait sentir chez nous.", pt: "A recepção foi calorosa, todo mundo nos fez sentir em casa." },
+    { level: "C1", fr: "Le débat, de plus en plus chaud, révélait les fractures profondes qui traversaient la société.", pt: "O debate, cada vez mais acalorado, revelava as fraturas profundas que atravessavam a sociedade." },
+  ],
+  "claire": [
+    { level: "A1", fr: "L'eau est claire.", pt: "A água está clara." },
+    { level: "A2", fr: "J'ai une idée claire de ce que je veux.", pt: "Eu tenho uma ideia clara do que eu quero." },
+    { level: "B1", fr: "Son explication était si claire que tout le monde a compris.", pt: "A explicação dele foi tão clara que todo mundo entendeu." },
+    { level: "C1", fr: "La claire conscience de ses propres limites est le premier pas vers la sagesse.", pt: "A clara consciência dos próprios limites é o primeiro passo para a sabedoria." },
+  ],
+  "côté": [
+    { level: "A1", fr: "La boulangerie est de l'autre côté de la rue.", pt: "A padaria fica do outro lado da rua." },
+    { level: "A2", fr: "Il y a un petit jardin à côté de la maison.", pt: "Tem um pequeno jardim ao lado da casa." },
+    { level: "B1", fr: "De mon côté, je pense que c'est une excellente idée.", pt: "Do meu lado, eu acho que é uma excelente ideia." },
+    { level: "C1", fr: "Le côté obscur de l'histoire, rarement enseigné, révèle pourtant les ressorts profonds de notre présent.", pt: "O lado obscuro da história, raramente ensinado, revela no entanto as molas profundas do nosso presente." },
+  ],
+  "dernier": [
+    { level: "A1", fr: "C'est le dernier jour de la semaine.", pt: "É o último dia da semana." },
+    { level: "A2", fr: "J'ai lu son dernier livre.", pt: "Eu li o último livro dele." },
+    { level: "B1", fr: "Les derniers préparatifs étaient en cours avant l'inauguration.", pt: "Os últimos preparativos estavam em andamento antes da inauguração." },
+    { level: "C1", fr: "Le dernier mot, celui qui clôt tout débat, appartient rarement à celui qui le prononce.", pt: "A última palavra, aquela que encerra todo debate, raramente pertence a quem a pronuncia." },
+  ],
+  "différent": [
+    { level: "A1", fr: "C'est une couleur différente.", pt: "É uma cor diferente." },
+    { level: "A2", fr: "Ils ont choisi des chemins différents.", pt: "Eles escolheram caminhos diferentes." },
+    { level: "B1", fr: "Marseille est différente des autres villes françaises.", pt: "Marselha é diferente das outras cidades francesas." },
+    { level: "C1", fr: "Aborder un problème sous un angle différent permet souvent de débloquer des situations apparemment insolubles.", pt: "Abordar um problema por um ângulo diferente permite frequentemente desbloquear situações aparentemente insolúveis." },
+  ],
+  "fine": [
+    { level: "A1", fr: "C'est une ligne fine.", pt: "É uma linha fina." },
+    { level: "A2", fr: "La pâte doit être très fine pour cette recette.", pt: "A massa deve ser bem fina para esta receita." },
+    { level: "B1", fr: "Il y a une différence fine entre confiance et arrogance.", pt: "Há uma diferença sutil entre confiança e arrogância." },
+    { level: "C1", fr: "L'analyse fine des données révéla des corrélations que personne n'avait soupçonnées.", pt: "A análise refinada dos dados revelou correlações que ninguém tinha suspeitado." },
+  ],
+  "fontaine": [
+    { level: "A1", fr: "Il y a une fontaine sur la place du village.", pt: "Tem uma fonte na praça da aldeia." },
+    { level: "A2", fr: "L'eau de la fontaine est très fraîche.", pt: "A água da fonte é muito fresca." },
+    { level: "B1", fr: "Les fontaines de Marseille sont nombreuses et témoignent de l'histoire de la ville.", pt: "As fontes de Marselha são numerosas e testemunham a história da cidade." },
+    { level: "C1", fr: "La fontaine, chef-d'oeuvre baroque, semblait défier le temps par la grâce éternelle de ses sculptures.", pt: "A fonte, obra-prima barroca, parecia desafiar o tempo pela graça eterna de suas esculturas." },
+  ],
+  "frais": [
+    { level: "A1", fr: "L'eau est fraîche.", pt: "A água está fresca." },
+    { level: "A2", fr: "J'ai acheté des légumes frais au marché.", pt: "Eu comprei legumes frescos no mercado." },
+    { level: "B1", fr: "L'air frais du matin est tonique pour l'esprit.", pt: "O ar fresco da manhã é tônico para o espírito." },
+    { level: "C1", fr: "Le regard frais du nouveau venu permit de résoudre l'énigme qui résistait aux experts depuis des mois.", pt: "O olhar fresco do recém-chegado permitiu resolver o enigma que resistia aos especialistas há meses." },
+  ],
+  "français": [
+    { level: "A1", fr: "J'apprends le français.", pt: "Eu aprendo francês." },
+    { level: "A2", fr: "Les fromages français sont délicieux.", pt: "Os queijos franceses são deliciosos." },
+    { level: "B1", fr: "La gastronomie française est inscrite au patrimoine mondial de l'UNESCO.", pt: "A gastronomia francesa está inscrita no patrimônio mundial da UNESCO." },
+    { level: "C1", fr: "L'exception culturelle française, souvent critiquée, demeure un rempart contre l'uniformisation des esprits.", pt: "A exceção cultural francesa, frequentemente criticada, permanece um baluarte contra a uniformização dos espíritos." },
+  ],
+  "garder": [
+    { level: "A1", fr: "Je garde les clés dans ma poche.", pt: "Eu guardo as chaves no meu bolso." },
+    { level: "A2", fr: "Peux-tu garder mon sac pendant que je vais aux toilettes ?", pt: "Você pode vigiar minha bolsa enquanto eu vou ao banheiro?" },
+    { level: "B1", fr: "Il faut garder espoir même dans les moments difficiles.", pt: "É preciso manter a esperança mesmo nos momentos difíceis." },
+    { level: "C1", fr: "Garder son calme face à l'adversité est une qualité que peu de dirigeants possèdent.", pt: "Manter a calma diante da adversidade é uma qualidade que poucos dirigentes possuem." },
+  ],
+  "jouer": [
+    { level: "A1", fr: "Je joue avec mon chien.", pt: "Eu brinco com meu cachorro." },
+    { level: "A2", fr: "Elle joue du piano depuis cinq ans.", pt: "Ela toca piano há cinco anos." },
+    { level: "B1", fr: "L'OM a joué un match exceptionnel contre le PSG.", pt: "O OM jogou uma partida excepcional contra o PSG." },
+    { level: "C1", fr: "Jouer avec les mots, c'est accepter que la langue n'est jamais figée mais toujours en mouvement.", pt: "Brincar com as palavras é aceitar que a língua nunca está congelada, mas sempre em movimento." },
+  ],
+  "l'écran": [
+    { level: "A1", fr: "L'écran de mon téléphone est cassé.", pt: "A tela do meu celular está quebrada." },
+    { level: "A2", fr: "Nous regardons un film sur l'écran du salon.", pt: "Nós assistimos a um filme na tela da sala." },
+    { level: "B1", fr: "L'écran tactile a révolutionné notre rapport à la technologie.", pt: "A tela sensível ao toque revolucionou nossa relação com a tecnologia." },
+    { level: "C1", fr: "L'écran, à la fois fenêtre sur le monde et miroir de nos illusions, façonne notre perception du réel.", pt: "A tela, ao mesmo tempo janela para o mundo e espelho de nossas ilusões, molda nossa percepção do real." },
+  ],
+  "l'étendue": [
+    { level: "A1", fr: "L'étendue d'eau est immense.", pt: "A extensão de água é imensa." },
+    { level: "A2", fr: "Du sommet, on voit l'étendue de la forêt.", pt: "Do topo, vê-se a extensão da floresta." },
+    { level: "B1", fr: "L'étendue des dégâts causés par la tempête est considérable.", pt: "A extensão dos danos causados pela tempestade é considerável." },
+    { level: "C1", fr: "L'étendue infinie de la mer, ce miroir mouvant qui unit et sépare les continents, fascine l'humanité depuis la nuit des temps.", pt: "A extensão infinita do mar, este espelho movente que une e separa os continentes, fascina a humanidade desde a noite dos tempos." },
+  ],
+  "la cuisine équipée": [
+    { level: "A1", fr: "La cuisine équipée est pratique pour cuisiner.", pt: "A cozinha equipada é prática para cozinhar." },
+    { level: "A2", fr: "Nous avons loué un appartement avec une cuisine équipée.", pt: "Nós alugamos um apartamento com cozinha equipada." },
+    { level: "B1", fr: "Une cuisine équipée comprend généralement un four, un réfrigérateur et des plaques de cuisson.", pt: "Uma cozinha equipada geralmente inclui forno, geladeira e placa de fogão." },
+    { level: "C1", fr: "La cuisine équipée dernier cri mêlait design scandinave et fonctionnalité germanique.", pt: "A cozinha equipada de última geração mesclava design escandinavo e funcionalidade germânica." },
+  ],
+  "la vente": [
+    { level: "A1", fr: "La vente commence demain matin.", pt: "A venda começa amanhã de manhã." },
+    { level: "A2", fr: "J'ai acheté cette robe en vente privée.", pt: "Eu comprei este vestido em venda privada." },
+    { level: "B1", fr: "La vente de produits locaux soutient l'économie régionale.", pt: "A venda de produtos locais apoia a economia regional." },
+    { level: "C1", fr: "La vente aux enchères, rituel séculaire, mêle stratégie, psychologie et théâtralité.", pt: "O leilão, ritual secular, mescla estratégia, psicologia e teatralidade." },
+  ],
+  "le ballon": [
+    { level: "A1", fr: "Le ballon est rouge et bleu.", pt: "A bola é vermelha e azul." },
+    { level: "A2", fr: "Les enfants jouent avec le ballon dans le parc.", pt: "As crianças brincam com a bola no parque." },
+    { level: "B1", fr: "Le ballon a atterri dans le jardin du voisin.", pt: "A bola caiu no jardim do vizinho." },
+    { level: "C1", fr: "Le ballon, comme ultime trait d'union entre des générations que tout oppose, roulait sur le terrain poussiéreux.", pt: "A bola, como último elo entre gerações que tudo opõe, rolava no campo empoeirado." },
+  ],
+  "le pain": [
+    { level: "A1", fr: "Le pain est sur la table.", pt: "O pão está sobre a mesa." },
+    { level: "A2", fr: "Je vais acheter du pain à la boulangerie.", pt: "Eu vou comprar pão na padaria." },
+    { level: "B1", fr: "Le pain au levain a un goût plus prononcé que le pain industriel.", pt: "O pão de fermentação natural tem um sabor mais pronunciado que o pão industrial." },
+    { level: "C1", fr: "Le pain, ce modeste aliment qui a nourri les civilisations, demeure le symbole universel du partage.", pt: "O pão, este modesto alimento que nutriu as civilizações, permanece o símbolo universal da partilha." },
+  ],
+};

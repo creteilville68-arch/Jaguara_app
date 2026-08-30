@@ -140,6 +140,26 @@ export class StorageService {
     }
   }
 
+  /**
+   * Registra a conclusão de uma aula oficial da trilha e avança a jornada.
+   * Usado pelas regras de bloqueio: lição N desbloqueia N+1 e a cidade concluída
+   * desbloqueia a próxima cidade (avanço de nível A1 → C2).
+   */
+  public static completeLesson(lessonId: string, cityId?: string): UserMapProgress {
+    const p = this.getProgress();
+    if (!p.completedLessonIds.includes(lessonId)) {
+      p.completedLessonIds.push(lessonId);
+    }
+    if (cityId && p.activeJourney) {
+      const idx = p.activeJourney.citySequence.indexOf(cityId);
+      if (idx >= 0) {
+        p.activeJourney.currentStepIndex = Math.max(p.activeJourney.currentStepIndex, idx);
+      }
+    }
+    this.saveProgress(p);
+    return p;
+  }
+
   public static addLesson(lesson: Lesson): Lesson[] {
     const lessons = this.getLessons();
     lessons.unshift(lesson);

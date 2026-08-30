@@ -19,12 +19,16 @@ reaparece em outras aulas ou cidades.
 
 ### Status atual (medição real)
 
+> As métricas abaixo são recalculadas por `bun run coverage` e podem mudar
+> quando novas aulas ou guias são adicionados. O relatório completo gerado
+> pelo `bun run gap` fica em `scripts/gap_report.md`.
+
 | Métrica | Valor |
 | --- | --- |
-| Lições existentes (aventura + guias) | 590 |
+| Arquivos de texto analisados (aulas + guias) | 841 |
 | Palavras únicas no banco | 16.796 |
-| Já presentes nos textos | 7.614 |
-| **Ainda falta escrever nos textos** | **~9.200** |
+| Já presentes nos textos (cobertura morfológica) | 11.432 |
+| **Ainda falta escrever nos textos** | **5.364** |
 
 A meta é atingida quando a coluna "ainda falta" chegar a zero — ou seja,
 quando todas as palavras da lista de cada cidade aparecerem nos parágrafos
@@ -32,7 +36,7 @@ em francês. As duas frentes de escrita são:
 
 1. **Aventura (Fase 1):** as aulas da trilha de Irlan (`src/data/<cidade>_lesson_<N>.json`).
 2. **Enciclopédia (Fase 2):** os dossiês temáticos pós-trilha
-   (`src/data/city_guides/<cidade>_guide_<N>.json`) — 11 cidades, 96 seções,
+   (`src/data/city_guides/<cidade>_guide_<N>.json`) — 11 cidades, 344 seções,
    desbloqueados quando o aluno termina a aventura. São o lar natural do
    vocabulário avançado (C1/C2), que não cabe no enredo sem enrolá-lo.
 
@@ -247,10 +251,18 @@ mesmo schema das aulas (`paragraphs` bilíngues + `vocabularyDictionary`).
 
 - **Sem nomes de estabelecimentos** (regra de ouro nº 12): só referências
   culturais reais (Matisse, Lumière, Vauban...).
-- **Sem avós, sem violência** — mesmas regras do cânone da aventura.
+- **Sem violência explícita** — mesmo tom do cânone da aventura.
+- **A restrição de família vale só para o enredo de Irlan, não para os guias:**
+  palavras como *père*, *grand-père*, *grand-mère* e *grands-parents* são
+  vocabulário normal e podem (e devem) aparecer naturalmente nos dossiês,
+  exemplos e flashcards. No cânone, a família de Irlan é **pai, mãe e duas
+  irmãs (sem avós)** — é coerência de personagem na narrativa, não proibição
+  de palavras no app.
 - Textos **factuais e enciclopédicos**, nunca narrativa do Irlan.
 - Misture níveis A1–C2 no corpo do texto: é assim que os dossiês absorvem as
   milhares de palavras avançadas que não cabem no enredo.
 
-Status atual: **11/11 cidades completas** (96 seções, 601 parágrafos,
-+910 palavras cobertas desde o início da Fase 2).
+Status atual: os dossiês estão distribuídos pelas 11 cidades e continuam
+sendo auditados junto com a aventura. Não trate contagens históricas de seções
+ou palavras cobertas como definitivas: use `bun run coverage` e `bun run gap`
+para obter os números do workspace atual.

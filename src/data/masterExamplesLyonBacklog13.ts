@@ -1,0 +1,230 @@
+/**
+ * Curadoria Lyon 13 — exemplos reais (A1 → C2) para as palavras novas do
+ * guia C2 lyon_guide_26 (l'industrie, la science et le Musée des Confluences).
+ */
+import type { MasterExample } from './masterExamplesDictionary';
+
+export const LYON_BACKLOG_EXAMPLES_13: Record<string, MasterExample[]> = {
+  "chromer": [
+    { level: "A1", fr: "On chrome la pièce.", pt: "Croma-se a peça." },
+    { level: "A2-B1", fr: "Le métal est chromé.", pt: "O metal é cromado." },
+    { level: "B2", fr: "Les usines chromaient les pièces avec soin.", pt: "As fábricas cromavam as peças com cuidado." },
+    { level: "C1-C2", fr: "Chronométrer le geste, chromer la matière : l'industrie lyonnaise est une école de précision.", pt: "Cronometrar o gesto, cromar a matéria: a indústria de Lyon é uma escola de precisão." },
+  ],
+  "émouler": [
+    { level: "A1", fr: "On émoule le couteau.", pt: "Amola-se a faca." },
+    { level: "A2-B1", fr: "Il émoule ses outils.", pt: "Ele amola as ferramentas dele." },
+    { level: "B2", fr: "Émouler une lame demande un geste sûr.", pt: "Amolar uma lâmina exige um gesto firme." },
+    { level: "C1-C2", fr: "Émouler, c'est redonner à l'outil ce que l'usage a pris.", pt: "Amolar é devolver à ferramenta o que o uso tirou." },
+  ],
+  "initialiser": [
+    { level: "A1", fr: "J'initialise l'ordinateur.", pt: "Eu inicializo o computador." },
+    { level: "A2-B1", fr: "Initialise le programme.", pt: "Inicialize o programa." },
+    { level: "B2", fr: "Les machines sont initialisées chaque matin.", pt: "As máquinas são inicializadas todas as manhãs." },
+    { level: "C1-C2", fr: "Initialiser un projet, c'est lui donner son premier souffle.", pt: "Inicializar um projeto é dar-lhe o primeiro sopro." },
+  ],
+  "l'aérodynamique": [
+    { level: "A1", fr: "L'aérodynamique est une science.", pt: "A aerodinâmica é uma ciência." },
+    { level: "A2-B1", fr: "La voiture a une bonne aérodynamique.", pt: "O carro tem boa aerodinâmica." },
+    { level: "B2", fr: "On teste l'aérodynamique des prototypes.", pt: "Testa-se a aerodinâmica dos protótipos." },
+    { level: "C1-C2", fr: "L'aérodynamique, art de la forme, décide de la vitesse et de la consommation.", pt: "A aerodinâmica, arte da forma, decide a velocidade e o consumo." },
+  ],
+  "l'agrafeuse": [
+    { level: "A1", fr: "L'agrafeuse est sur le bureau.", pt: "O grampeador está na mesa." },
+    { level: "A2-B1", fr: "Passe-moi l'agrafeuse.", pt: "Me passe o grampeador." },
+    { level: "B2", fr: "L'agrafeuse de l'atelier fonctionne encore.", pt: "O grampeador da oficina ainda funciona." },
+    { level: "C1-C2", fr: "L'agrafeuse, objet banal, garde en elle toute l'histoire du bureau.", pt: "O grampeador, objeto banal, guarda em si toda a história do escritório." },
+  ],
+  "astreignant": [
+    { level: "A1", fr: "Le travail est astreignant.", pt: "O trabalho é extenuante." },
+    { level: "A2-B1", fr: "Les horaires sont astreignants.", pt: "Os horários são extenuantes." },
+    { level: "B2", fr: "Une tâche astreignante exige de la discipline.", pt: "Uma tarefa extenuante exige disciplina." },
+    { level: "C1-C2", fr: "Le métier astreignant apprend la valeur du temps libre.", pt: "O ofício extenuante ensina o valor do tempo livre." },
+  ],
+  "cumulatif": [
+    { level: "A1", fr: "L'effet est cumulatif.", pt: "O efeito é cumulativo." },
+    { level: "A2-B1", fr: "Les retards sont cumulatifs.", pt: "Os atrasos são cumulativos." },
+    { level: "B2", fr: "La fatigue se fait cumulative au fil des semaines.", pt: "O cansaço se torna cumulativo ao longo das semanas." },
+    { level: "C1-C2", fr: "Les petites économies, de façon cumulative, deviennent un capital.", pt: "As pequenas economias, de forma cumulativa, viram um capital." },
+  ],
+  "incitatif": [
+    { level: "A1", fr: "Le message est incitatif.", pt: "A mensagem é de incentivo." },
+    { level: "A2-B1", fr: "La prime est incitative.", pt: "O bônus é de incentivo." },
+    { level: "B2", fr: "Les mesures incitatives encouragent le covoiturage.", pt: "As medidas de incentivo estimulam a carona solidária." },
+    { level: "C1-C2", fr: "Un dispositif incitatif vaut parfois mieux qu'une interdiction.", pt: "Um dispositivo de incentivo vale às vezes mais do que uma proibição." },
+  ],
+  "hypothécaire": [
+    { level: "A1", fr: "C'est un prêt hypothécaire.", pt: "É um empréstimo hipotecário." },
+    { level: "A2-B1", fr: "Le crédit hypothécaire est long.", pt: "O crédito hipotecário é longo." },
+    { level: "B2", fr: "Le taux hypothécaire a baissé.", pt: "A taxa hipotecária caiu." },
+    { level: "C1-C2", fr: "Un engagement hypothécaire se signe pour des décennies.", pt: "Um compromisso hipotecário se assina por décadas." },
+  ],
+  "indolore": [
+    { level: "A1", fr: "Le soin est indolore.", pt: "O procedimento é indolor." },
+    { level: "A2-B1", fr: "La piqûre est presque indolore.", pt: "A injeção é quase indolor." },
+    { level: "B2", fr: "La restructuration est indolore sur le papier seulement.", pt: "A reestruturação só é indolor no papel." },
+    { level: "C1-C2", fr: "Aucune transition majeure n'est vraiment indolore : c'est ce qui la rend honnête.", pt: "Nenhuma transição importante é realmente indolor: é isso que a torna honesta." },
+  ],
+  "infiable": [
+    { level: "A1", fr: "La machine est infiable.", pt: "A máquina não é confiável." },
+    { level: "A2-B1", fr: "Ce site est infiable.", pt: "Esse site não é confiável." },
+    { level: "B2", fr: "Une réputation infiable dessert toute une entreprise.", pt: "Uma reputação não confiável prejudica uma empresa inteira." },
+    { level: "C1-C2", fr: "L'infiable séduit une fois et paie toute sa vie.", pt: "O não confiável seduz uma vez e paga a vida toda." },
+  ],
+  "desservir": [
+    { level: "A1", fr: "Le bus dessert le quartier.", pt: "O ônibus atende o bairro." },
+    { level: "A2-B1", fr: "Cette ligne dessert trois villes.", pt: "Essa linha atende três cidades." },
+    { level: "B2", fr: "La rumeur dessert sa réputation.", pt: "O rumor prejudica a reputação dele." },
+    { level: "C1-C2", fr: "Desservir une cause, c'est souvent la défendre maladroitement.", pt: "Prejudicar uma causa é muitas vezes defendê-la sem habilidade." },
+  ],
+  "différé": [
+    { level: "A1", fr: "Le paiement est différé.", pt: "O pagamento é diferido." },
+    { level: "A2-B1", fr: "La réunion a été différée.", pt: "A reunião foi adiada." },
+    { level: "B2", fr: "La restructuration, différée depuis longtemps, inquiète.", pt: "A reestruturação, adiada há muito tempo, preocupa." },
+    { level: "C1-C2", fr: "Un choix différé n'est pas un choix évité : il revient toujours.", pt: "Uma escolha adiada não é uma escolha evitada: ela sempre volta." },
+  ],
+  "importuner": [
+    { level: "A1", fr: "Ne m'importune pas.", pt: "Não me importune." },
+    { level: "A2-B1", fr: "Désolé de vous importuner.", pt: "Desculpe incomodá-lo." },
+    { level: "B2", fr: "Les appels publicitaires importunent les clients.", pt: "As ligações publicitárias importunam os clientes." },
+    { level: "C1-C2", fr: "Importuner, c'est oublier que l'autre a son propre temps.", pt: "Importunar é esquecer que o outro tem seu próprio tempo." },
+  ],
+  "arc-bouter": [
+    { level: "A1", fr: "Le mur est arc-bouté.", pt: "O muro está escorado." },
+    { level: "A2-B1", fr: "Les contreforts arc-boutent la cathédrale.", pt: "Os contrafortes escoram a catedral." },
+    { level: "B2", fr: "Les arches arc-boutées soutiennent la voûte.", pt: "Os arcos escorados sustentam a abóbada." },
+    { level: "C1-C2", fr: "S'arc-bouter contre le destin, c'est refuser de tomber debout.", pt: "Escorar-se contra o destino é recusar cair em pé." },
+  ],
+  "effilocher": [
+    { level: "A1", fr: "Le tissu s'effiloche.", pt: "O tecido desfia." },
+    { level: "A2-B1", fr: "Les bords du jean s'effilochent.", pt: "As bordas da calça jeans desfiam." },
+    { level: "B2", fr: "Les escaliers s'effilochent sous les pas des habitants.", pt: "As escadas se desfiam sob os passos dos moradores." },
+    { level: "C1-C2", fr: "Une mémoire qui s'effiloche perd ses fils un à un.", pt: "Uma memória que desfia perde os fios um a um." },
+  ],
+  "épousseter": [
+    { level: "A1", fr: "J'époussette la table.", pt: "Eu espo o pó da mesa." },
+    { level: "A2-B1", fr: "Elle époussette les étagères.", pt: "Ela tira o pó das prateleiras." },
+    { level: "B2", fr: "On époussette les statues avant la fête.", pt: "Tira-se o pó das estátuas antes da festa." },
+    { level: "C1-C2", fr: "Épousseter les vieilles idées, c'est leur rendre leur éclat.", pt: "Tirar o pó das velhas ideias é devolver-lhes o brilho." },
+  ],
+  "exorciser": [
+    { level: "A1", fr: "On exorcise les peurs.", pt: "Exorcizam-se os medos." },
+    { level: "A2-B1", fr: "Il cherche à exorciser son passé.", pt: "Ele busca exorcizar o passado dele." },
+    { level: "B2", fr: "La fête exorcise les peurs collectives.", pt: "A festa exorciza os medos coletivos." },
+    { level: "C1-C2", fr: "Exorciser une crainte, c'est la nommer pour la désarmer.", pt: "Exorcizar um temor é nomeá-lo para desarmá-lo." },
+  ],
+  "divertir": [
+    { level: "A1", fr: "Le clown divertit les enfants.", pt: "O palhaço diverte as crianças." },
+    { level: "A2-B1", fr: "Le film nous a bien divertis.", pt: "O filme nos divertiu bastante." },
+    { level: "B2", fr: "Divertir sans vulgarité est un art.", pt: "Divertir sem vulgaridade é uma arte." },
+    { level: "C1-C2", fr: "Divertir, c'est offrir à l'esprit une récréation méritée.", pt: "Divertir é oferecer ao espírito uma recreação merecida." },
+  ],
+  "désennuyer": [
+    { level: "A1", fr: "Ce jeu désennuie.", pt: "Esse jogo distrai." },
+    { level: "A2-B1", fr: "La lecture me désennuie.", pt: "A leitura me distrai." },
+    { level: "B2", fr: "La ville sait désennuyer ceux qui s'y attardent.", pt: "A cidade sabe distrair quem por ela se demora." },
+    { level: "C1-C2", fr: "Désennuyer quelqu'un, c'est lui rendre le goût de l'instant.", pt: "Distrair alguém é devolver-lhe o gosto do instante." },
+  ],
+  "excentrique": [
+    { level: "A1", fr: "Il est excentrique.", pt: "Ele é excêntrico." },
+    { level: "A2-B1", fr: "Elle a des goûts excentriques.", pt: "Ela tem gostos excêntricos." },
+    { level: "B2", fr: "Les roches excentriques intriguent les géologues.", pt: "As rochas excêntricas intrigam os geólogos." },
+    { level: "C1-C2", fr: "L'excentrique dérange l'ordre sans toujours le comprendre.", pt: "O excêntrico perturba a ordem sem sempre compreendê-la." },
+  ],
+  "délinquant": [
+    { level: "A1", fr: "Le délinquant est arrêté.", pt: "O delinquente é preso." },
+    { level: "A2-B1", fr: "C'est un délinquant de la route.", pt: "É um delinquente de trânsito." },
+    { level: "B2", fr: "La réinsertion des délinquants protège la société.", pt: "A reinserção dos delinquentes protege a sociedade." },
+    { level: "C1-C2", fr: "Le délinquant d'aujourd'hui fut souvent l'enfant que l'on n'a pas écouté.", pt: "O delinquente de hoje foi muitas vezes a criança que não se escutou." },
+  ],
+  "béatifier": [
+    { level: "A1", fr: "On béatifie une sainte.", pt: "Beatifica-se uma santa." },
+    { level: "A2-B1", fr: "La cérémonie de béatification est solennelle.", pt: "A cerimônia de beatificação é solene." },
+    { level: "B2", fr: "L'Église a béatifié cette figure après enquête.", pt: "A Igreja beatificou essa figura após investigação." },
+    { level: "C1-C2", fr: "Béatifier, c'est transformer une vie en exemple pour tous.", pt: "Beatificar é transformar uma vida em exemplo para todos." },
+  ],
+  "l'accent circonflexe": [
+    { level: "A1", fr: "L'accent circonflexe est un signe.", pt: "O acento circunflexo é um sinal." },
+    { level: "A2-B1", fr: "'Forêt' prend un accent circonflexe.", pt: "'Forêt' leva acento circunflexo." },
+    { level: "B2", fr: "L'accent circonflexe garde la trace des lettres disparues.", pt: "O acento circunflexo guarda o rastro das letras desaparecidas." },
+    { level: "C1-C2", fr: "L'accent circonflexe, petit chapeau, porte toute une histoire de la langue.", pt: "O acento circunflexo, pequeno chapéu, carrega toda uma história da língua." },
+  ],
+  "l'acronyme": [
+    { level: "A1", fr: "L'acronyme est court.", pt: "O acrônimo é curto." },
+    { level: "A2-B1", fr: "UNESCO est un acronyme.", pt: "UNESCO é um acrônimo." },
+    { level: "B2", fr: "Les institutions modernes aiment les acronymes.", pt: "As instituições modernas adoram acrônimos." },
+    { level: "C1-C2", fr: "L'acronyme condense un monde en quelques lettres.", pt: "O acrônimo condensa um mundo em algumas letras." },
+  ],
+  "l'alchimiste": [
+    { level: "A1", fr: "L'alchimiste cherche l'or.", pt: "O alquimista procura o ouro." },
+    { level: "A2-B1", fr: "Le vieil alchimiste écrit des recettes.", pt: "O velho alquimista escreve receitas." },
+    { level: "B2", fr: "Les alchimistes ont fondé la chimie moderne.", pt: "Os alquimistas fundaram a química moderna." },
+    { level: "C1-C2", fr: "L'alchimiste transforme la matière ; le poète transforme les mots.", pt: "O alquimista transforma a matéria; o poeta transforma as palavras." },
+  ],
+  "l'altération": [
+    { level: "A1", fr: "L'altération est visible.", pt: "A alteração é visível." },
+    { level: "A2-B1", fr: "On constate une altération du son.", pt: "Constata-se uma alteração do som." },
+    { level: "B2", fr: "L'altération des matières inquiète les conservateurs.", pt: "A alteração das matérias preocupa os conservadores." },
+    { level: "C1-C2", fr: "L'altération silencieuse est la plus difficile à détecter.", pt: "A alteração silenciosa é a mais difícil de detectar." },
+  ],
+  "l'amorphie": [
+    { level: "A1", fr: "L'amorphie est rare.", pt: "A amorfia é rara." },
+    { level: "A2-B1", fr: "On étudie l'amorphie des alliages.", pt: "Estuda-se a amorfia das ligas." },
+    { level: "B2", fr: "L'amorphie d'un matériau change ses propriétés.", pt: "A amorfia de um material muda suas propriedades." },
+    { level: "C1-C2", fr: "L'amorphie n'est pas le vide : c'est une forme qui refuse de se figer.", pt: "A amorfia não é o vazio: é uma forma que se recusa a se fixar." },
+  ],
+  "l'abolitionnisme": [
+    { level: "A1", fr: "L'abolitionnisme est ancien.", pt: "O abolicionismo é antigo." },
+    { level: "A2-B1", fr: "On étudie l'abolitionnisme au XIXe siècle.", pt: "Estuda-se o abolicionismo no século XIX." },
+    { level: "B2", fr: "L'abolitionnisme a transformé les sociétés.", pt: "O abolicionismo transformou as sociedades." },
+    { level: "C1-C2", fr: "L'abolitionnisme rappelle qu'une idée juste finit toujours par déplacer les murs.", pt: "O abolicionismo lembra que uma ideia justa acaba sempre deslocando os muros." },
+  ],
+  "fantasmatique": [
+    { level: "A1", fr: "Le récit est fantasmatique.", pt: "O relato é fantasmático." },
+    { level: "A2-B1", fr: "Ses peurs sont fantasmatiques.", pt: "Os medos dele são fantasmáticos." },
+    { level: "B2", fr: "La conversation devient fantasmatique, nourrie de peurs invétérées.", pt: "A conversa se torna fantasmática, alimentada por medos arraigados." },
+    { level: "C1-C2", fr: "Le fantasmatique habite nos rêves autant que nos cauchemars.", pt: "O fantasmático habita nossos sonhos tanto quanto nossos pesadelos." },
+  ],
+  "invétéré": [
+    { level: "A1", fr: "C'est un fumeur invétéré.", pt: "É um fumante inveterado." },
+    { level: "A2-B1", fr: "Il est un menteur invétéré.", pt: "Ele é um mentiroso inveterado." },
+    { level: "B2", fr: "Les peurs invétérées résistent aux preuves.", pt: "Os medos arraigados resistem às provas." },
+    { level: "C1-C2", fr: "Un optimiste invétéré trouve la lumière même dans la pire nouvelle.", pt: "Um otimista inveterado encontra luz até na pior notícia." },
+  ],
+  "antilogique": [
+    { level: "A1", fr: "L'idée est antilogique.", pt: "A ideia é antilógica." },
+    { level: "A2-B1", fr: "Ce raisonnement est antilogique.", pt: "Esse raciocínio é antilógico." },
+    { level: "B2", fr: "Un débat antilogique épuise sans convaincre.", pt: "Um debate antilógico esgota sem convencer." },
+    { level: "C1-C2", fr: "L'antilogique séduit parce qu'elle dispense de réfléchir.", pt: "A antilógica seduz porque dispensa de pensar." },
+  ],
+  "insociable": [
+    { level: "A1", fr: "Il est insociable.", pt: "Ele é insociável." },
+    { level: "A2-B1", fr: "Elle devient insociable le soir.", pt: "Ela fica insociável à noite." },
+    { level: "B2", fr: "Un caractère insociable isole peu à peu.", pt: "Um caráter insociável isola aos poucos." },
+    { level: "C1-C2", fr: "L'insociable a souvent simplement besoin d'un interlocuteur patient.", pt: "O insociável muitas vezes só precisa de um interlocutor paciente." },
+  ],
+  "frissonnant": [
+    { level: "A1", fr: "Il est frissonnant.", pt: "Ele está trêmulo." },
+    { level: "A2-B1", fr: "La nuit est frissonnante.", pt: "A noite é de arrepios." },
+    { level: "B2", fr: "La salle devient frissonnante d'émotion.", pt: "A sala fica trêmula de emoção." },
+    { level: "C1-C2", fr: "Une œuvre frissonnante traverse le temps sans vieillir.", pt: "Uma obra que arrepia atravessa o tempo sem envelhecer." },
+  ],
+  "géophysique": [
+    { level: "A1", fr: "La géophysique étudie la Terre.", pt: "A geofísica estuda a Terra." },
+    { level: "A2-B1", fr: "Il étudie la géophysique à l'université.", pt: "Ele estuda geofísica na universidade." },
+    { level: "B2", fr: "Les données géophysiques cartographient les sous-sols.", pt: "Os dados geofísicos cartografam os subsolos." },
+    { level: "C1-C2", fr: "La géophysique lit dans les roches l'histoire des continents.", pt: "A geofísica lê nas rochas a história dos continentes." },
+  ],
+  "enfouir": [
+    { level: "A1", fr: "Le chien enfouit son os.", pt: "O cão enterra o osso." },
+    { level: "A2-B1", fr: "Il enfouit ses souvenirs.", pt: "Ele enterra as lembranças dele." },
+    { level: "B2", fr: "Les fossiles enfouis se révèlent aux fouilles.", pt: "Os fósseis enterrados se revelam nas escavações." },
+    { level: "C1-C2", fr: "Enfouir un problème, c'est le confier à la terre qui le fera renaître.", pt: "Enterrar um problema é confiá-lo à terra que o fará renascer." },
+  ],
+  "entreposer": [
+    { level: "A1", fr: "On entrepose les cartons.", pt: "Armazenam-se as caixas." },
+    { level: "A2-B1", fr: "Les œuvres sont entreposées au musée.", pt: "As obras são armazenadas no museu." },
+    { level: "B2", fr: "Les réserves entreposent des milliers de pièces.", pt: "Os depósitos armazenam milhares de peças." },
+    { level: "C1-C2", fr: "Entreposer la mémoire, c'est préparer les trésors des générations futures.", pt: "Armazenar a memória é preparar os tesouros das gerações futuras." },
+  ],
+};

@@ -1,0 +1,136 @@
+// Curadoria de exemplos — Toulouse (lote 12, guias avançados C2, 2ª rodada)
+// 4 exemplos progressivos A1→C2 por termo.
+export const TOULOUSE_BACKLOG_EXAMPLES_12: Record<string, { level: string; fr: string; pt: string }[]> = {
+  "incontournables": [
+    { level: "A1", fr: "C'est un passage incontournable.", pt: "É uma passagem obrigatória." },
+    { level: "A2", fr: "Ce monument est incontournable.", pt: "Este monumento é imperdível." },
+    { level: "B1", fr: "La lecture de ce livre est incontournable.", pt: "A leitura deste livro é indispensável." },
+    { level: "C1", fr: "Certaines œuvres sont devenues incontournables non parce qu'elles sont les meilleures, mais parce qu'on ne peut plus les ignorer sans se couper du débat.", pt: "Certas obras tornaram-se incontornáveis não por serem as melhores, mas porque não se pode mais ignorá-las sem se cortar do debate." },
+  ],
+  "le théorème": [
+    { level: "A1", fr: "Le théorème est difficile.", pt: "O teorema é difícil." },
+    { level: "A2", fr: "Le professeur explique le théorème.", pt: "O professor explica o teorema." },
+    { level: "B1", fr: "Le théorème de Pythagore est célèbre.", pt: "O teorema de Pitágoras é famoso." },
+    { level: "C1", fr: "Un théorème est une vérité qui a vaincu tous les doutes : il n'appartient plus à personne, il appartient à la raison elle-même.", pt: "Um teorema é uma verdade que venceu todas as dúvidas: não pertence mais a ninguém, pertence à própria razão." },
+  ],
+  "l'énoncé": [
+    { level: "A1", fr: "L'énoncé est clair.", pt: "O enunciado é claro." },
+    { level: "A2", fr: "Lis l'énoncé avant de répondre.", pt: "Leia o enunciado antes de responder." },
+    { level: "B1", fr: "L'énoncé du problème est long.", pt: "O enunciado do problema é longo." },
+    { level: "C1", fr: "La justesse d'un énoncé décide de tout : une question mal posée ne peut recevoir que des réponses trompeuses.", pt: "A justeza de um enunciado decide tudo: uma pergunta mal formulada só pode receber respostas enganosas." },
+  ],
+  "l'affirmation de soi": [
+    { level: "A1", fr: "L'affirmation de soi demande du courage.", pt: "A afirmação de si exige coragem." },
+    { level: "A2", fr: "L'affirmation de soi aide à dire non.", pt: "A afirmação de si ajuda a dizer não." },
+    { level: "B1", fr: "Les ateliers d'affirmation de soi aident les timides.", pt: "As oficinas de afirmação de si ajudam os tímidos." },
+    { level: "C1", fr: "L'affirmation de soi n'est pas l'arrogance : c'est la capacité de faire valoir sa place sans écraser celle des autres.", pt: "A afirmação de si não é a arrogância: é a capacidade de fazer valer seu lugar sem esmagar o dos outros." },
+  ],
+  "le mathématicien": [
+    { level: "A1", fr: "Le mathématicien aime les nombres.", pt: "O matemático ama os números." },
+    { level: "A2", fr: "Le mathématicien résout des problèmes.", pt: "O matemático resolve problemas." },
+    { level: "B1", fr: "Le mathématicien travaille seul ou en équipe.", pt: "O matemático trabalha sozinho ou em equipe." },
+    { level: "C1", fr: "Le mathématicien passe sa vie à chercher des vérités qui ne servent à rien — jusqu'au jour où elles servent à tout.", pt: "O matemático passa a vida procurando verdades que não servem para nada — até o dia em que servem para tudo." },
+  ],
+  "simuler": [
+    { level: "A1", fr: "Simule la conversation.", pt: "Simule a conversa." },
+    { level: "A2", fr: "L'exercice simule une urgence.", pt: "O exercício simula uma emergência." },
+    { level: "B1", fr: "Les pilotes simulent les pannes.", pt: "Os pilotos simulam as falhas." },
+    { level: "C1", fr: "Simuler n'est pas mentir : c'est construire un monde fictif pour mieux préparer celui qui vient.", pt: "Simular não é mentir: é construir um mundo fictício para melhor preparar o que vem." },
+  ],
+  "le biologiste": [
+    { level: "A1", fr: "Le biologiste étudie la vie.", pt: "O biólogo estuda a vida." },
+    { level: "A2", fr: "Le biologiste observe les cellules.", pt: "O biólogo observa as células." },
+    { level: "B1", fr: "Le biologiste travaille en laboratoire.", pt: "O biólogo trabalha em laboratório." },
+    { level: "C1", fr: "Le biologiste moderne est un aventurier du microscopique : il explore des mondes dont personne ne soupçonnait l'existence.", pt: "O biólogo moderno é um aventureiro do microscópico: explora mundos cuja existência ninguém suspeitava." },
+  ],
+  "le sophisme": [
+    { level: "A1", fr: "Le sophisme est un faux raisonnement.", pt: "O sofisma é um raciocínio falso." },
+    { level: "A2", fr: "Son argument est un sophisme.", pt: "Seu argumento é um sofisma." },
+    { level: "B1", fr: "Les sophismes polluent le débat.", pt: "Os sofismas poluem o debate." },
+    { level: "C1", fr: "Le sophisme est redoutable parce qu'il imite la logique : il ne faut pas le réfuter, il faut le démasquer.", pt: "O sofisma é temível porque imita a lógica: não basta refutá-lo, é preciso desmascará-lo." },
+  ],
+  "prémunir": [
+    { level: "A1", fr: "Le vaccin prémunit contre la maladie.", pt: "A vacina protege contra a doença." },
+    { level: "A2", fr: "Cette assurance prémunit contre les risques.", pt: "Esse seguro protege contra os riscos." },
+    { level: "B1", fr: "L'information prémunit contre la manipulation.", pt: "A informação protege contra a manipulação." },
+    { level: "C1", fr: "Prémunir les esprits contre l'erreur, c'est leur donner des armes que nul ne pourra leur confisquer.", pt: "Proteger os espíritos contra o erro é dar-lhes armas que ninguém poderá confiscar." },
+  ],
+  "inévitable": [
+    { level: "A1", fr: "Le retard est inévitable.", pt: "O atraso é inevitável." },
+    { level: "A2", fr: "La pluie est inévitable.", pt: "A chuva é inevitável." },
+    { level: "B1", fr: "Le vieillissement est inévitable.", pt: "O envelhecimento é inevitável." },
+    { level: "C1", fr: "Ce qui est inévitable ne doit pas être subi : il faut le préparer, car l'anticipation transforme la fatalité en choix.", pt: "O que é inevitável não deve ser sofrido: é preciso prepará-lo, pois a antecipação transforma a fatalidade em escolha." },
+  ],
+  "déployer": [
+    { level: "A1", fr: "Il déploie la carte.", pt: "Ele desdobra o mapa." },
+    { level: "A2", fr: "On déploie les tables.", pt: "Desdobram-se as mesas." },
+    { level: "B1", fr: "L'armée déploie ses troupes.", pt: "O exército desdobra suas tropas." },
+    { level: "C1", fr: "Déployer une stratégie, c'est accepter que les plans se révèlent au fur et à mesure : l'essentiel est de garder le cap.", pt: "Desdobrar uma estratégia é aceitar que os planos se revelem pouco a pouco: o essencial é manter o rumo." },
+  ],
+  "asservir": [
+    { level: "A1", fr: "Asservir est injuste.", pt: "Escravizar é injusto." },
+    { level: "A2", fr: "Le tyran asservit le peuple.", pt: "O tirano escraviza o povo." },
+    { level: "B1", fr: "La technologie peut asservir.", pt: "A tecnologia pode escravizar." },
+    { level: "C1", fr: "Asservir commence toujours par une idée : convaincre l'autre qu'il a besoin de nous pour exister.", pt: "Escravizar começa sempre por uma ideia: convencer o outro de que precisa de nós para existir." },
+  ],
+  "diviser": [
+    { level: "A1", fr: "Divise le gâteau.", pt: "Divida o bolo." },
+    { level: "A2", fr: "Dix divisé par deux égale cinq.", pt: "Dez dividido por dois é cinco." },
+    { level: "B1", fr: "La question divise les experts.", pt: "A questão divide os especialistas." },
+    { level: "C1", fr: "Diviser pour régner est la plus vieille ruse du pouvoir : elle transforme des alliés potentiels en ennemis imaginaires.", pt: "Dividir para reinar é a mais antiga astúcia do poder: transforma aliados potenciais em inimigos imaginários." },
+  ],
+  "la banalité": [
+    { level: "A1", fr: "La banalité du geste étonne.", pt: "A banalidade do gesto surpreende." },
+    { level: "A2", fr: "La banalité de la scène est frappante.", pt: "A banalidade da cena é impressionante." },
+    { level: "B1", fr: "La banalité du mal inquiète les philosophes.", pt: "A banalidade do mal preocupa os filósofos." },
+    { level: "C1", fr: "La banalité n'est pas l'insignifiance : c'est ce qui est si familier qu'on cesse de le voir, et c'est là que se cachent les évidences les plus lourdes.", pt: "A banalidade não é a insignificância: é o que é tão familiar que se deixa de ver, e é aí que se escondem as evidências mais pesadas." },
+  ],
+  "le délégué du personnel": [
+    { level: "A1", fr: "Le délégué du personnel défend les salariés.", pt: "O delegado do pessoal defende os trabalhadores." },
+    { level: "A2", fr: "Le délégué du personnel écoute les problèmes.", pt: "O delegado do pessoal ouve os problemas." },
+    { level: "B1", fr: "Le délégué du personnel négocie avec la direction.", pt: "O delegado do pessoal negocia com a direção." },
+    { level: "C1", fr: "Le délégué du personnel incarne la parole collective : son efficacité se mesure à sa capacité de faire exister des voix que l'on préférerait ne pas entendre.", pt: "O delegado do pessoal encarna a palavra coletiva: sua eficácia se mede pela capacidade de fazer existir vozes que se preferiria não ouvir." },
+  ],
+  "l'apesanteur": [
+    { level: "A1", fr: "L'apesanteur est un état étrange.", pt: "A ausência de peso é um estado estranho." },
+    { level: "A2", fr: "Les astronautes vivent en apesanteur.", pt: "Os astronautas vivem em ausência de peso." },
+    { level: "B1", fr: "L'apesanteur modifie le corps.", pt: "A ausência de peso modifica o corpo." },
+    { level: "C1", fr: "L'apesanteur est une leçon de relativité : elle rappelle que nos évidences les plus solides — le haut, le bas, le poids — ne valent que sur une planète.", pt: "A ausência de peso é uma lição de relatividade: lembra que nossas evidências mais sólidas — alto, baixo, peso — só valem num planeta." },
+  ],
+  "totalement": [
+    { level: "A1", fr: "Je suis totalement d'accord.", pt: "Concordo totalmente." },
+    { level: "A2", fr: "Le travail est totalement fini.", pt: "O trabalho está totalmente terminado." },
+    { level: "B1", fr: "Il est totalement différent.", pt: "Ele é totalmente diferente." },
+    { level: "C1", fr: "Ce qui est totalement vrai dans un contexte peut devenir totalement faux dans un autre : la certitude absolue est une paresse de l'esprit.", pt: "O que é totalmente verdadeiro num contexto pode se tornar totalmente falso noutro: a certeza absoluta é uma preguiça do espírito." },
+  ],
+  "l'exploration": [
+    { level: "A1", fr: "L'exploration de la grotte est excitante.", pt: "A exploração da caverna é empolgante." },
+    { level: "A2", fr: "L'exploration spatiale fascine.", pt: "A exploração espacial fascina." },
+    { level: "B1", fr: "L'exploration des fonds marins progresse.", pt: "A exploração dos fundos marinhos avança." },
+    { level: "C1", fr: "L'exploration est le moteur de l'humanité : chaque fois qu'elle s'arrête, la civilisation s'endort en croyant avoir tout découvert.", pt: "A exploração é o motor da humanidade: cada vez que para, a civilização adormece acreditando ter descoberto tudo." },
+  ],
+  "le forum": [
+    { level: "A1", fr: "Le forum discute d'un sujet.", pt: "O fórum discute um assunto." },
+    { level: "A2", fr: "Le forum réunit des spécialistes.", pt: "O fórum reúne especialistas." },
+    { level: "B1", fr: "Le forum en ligne est très actif.", pt: "O fórum on-line é muito ativo." },
+    { level: "C1", fr: "Le forum est l'agora moderne : il peut éclairer un débat ou l'empoisonner, selon que la parole y sert la raison ou la rumeur.", pt: "O fórum é a ágora moderna: pode iluminar um debate ou envenená-lo, conforme a palavra sirva à razão ou ao boato." },
+  ],
+  "radicaliser": [
+    { level: "A1", fr: "Il radicalise son discours.", pt: "Ele radicaliza seu discurso." },
+    { level: "A2", fr: "La colère radicalise les débats.", pt: "A raiva radicaliza os debates." },
+    { level: "B1", fr: "Les réseaux peuvent radicaliser les opinions.", pt: "As redes podem radicalizar as opiniões." },
+    { level: "C1", fr: "Radicaliser une position, c'est choisir la pureté contre la possibilité : on gagne en cohérence ce que l'on perd en efficacité.", pt: "Radicalizar uma posição é escolher a pureza contra a possibilidade: ganha-se em coerência o que se perde em eficácia." },
+  ],
+  "le recruteur": [
+    { level: "A1", fr: "Le recruteur pose des questions.", pt: "O recrutador faz perguntas." },
+    { level: "A2", fr: "Le recruteur lit les CV.", pt: "O recrutador lê os currículos." },
+    { level: "B1", fr: "Le recruteur organise les entretiens.", pt: "O recrutador organiza as entrevistas." },
+    { level: "C1", fr: "Le recruteur cherche moins le candidat parfait que la personne qui apprendra : l'avenir d'une entreprise se joue dans ses recrutements.", pt: "O recrutador procura menos o candidato perfeito do que a pessoa que aprenderá: o futuro de uma empresa se decide em seus recrutamentos." },
+  ],
+  "redéfinir": [
+    { level: "A1", fr: "On redéfinit les règles.", pt: "Redefinem-se as regras." },
+    { level: "A2", fr: "Il redéfinit son projet.", pt: "Ele redefine seu projeto." },
+    { level: "B1", fr: "La crise redéfinit les priorités.", pt: "A crise redefine as prioridades." },
+    { level: "C1", fr: "Redéfinir ses objectifs n'est pas renoncer : c'est reconnaître que le chemin a changé et que la carte doit être retracée.", pt: "Redefinir os objetivos não é desistir: é reconhecer que o caminho mudou e que o mapa precisa ser retraçado." },
+  ],
+};

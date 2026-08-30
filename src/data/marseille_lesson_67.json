@@ -197,7 +197,7 @@
       "ptTargets": ["pequenina", "menininha"],
       "examples": [
         { "level": "A1", "fr": "Ma pitchounette est adorable.", "pt": "Minha pequenina é adorável." },
-        { "level": "A2-B1", "fr": "Irlan appelle sa fille pitchounette.", "pt": "Irlan chama sua filha de pitchounette." },
+        { "level": "A2-B1", "fr": "À Marseille, on appelle les enfants pitchounette.", "pt": "Em Marseille, as crianças são chamadas de pitchounette." },
         { "level": "B2", "fr": "La pitchounette court sur la plage, les joues roses de soleil.", "pt": "A menininha corre na praia, com as bochechas rosadas de sol." },
         { "level": "C1-C2", "fr": "Une pitchounette endormie dans les bras de sa mère résume toute la douceur provençale.", "pt": "Uma menininha adormecida nos braços da mãe resume toda a doçura provençal." }
       ]
@@ -205,19 +205,22 @@
   ],
   "grammarTip": {
     "ruleTitle": "Le subjonctif dans les expressions de sentiment",
-    "explanationPt": "Após expressões de sentimento, o francês exige o subjonctif: 'je suis ravi que ma fille apprenne' (estou feliz que minha filha aprenda), 'je suis étonné qu'une langue puisse contenir' (estou surpreso que uma língua possa conter), 'je suis heureux que ces mots soient devenus les miens' (estou feliz que essas palavras tenham se tornado minhas).",
-    "exampleFr": "Je suis ravi que ma fille apprenne les mots de sa région ; je suis étonné qu'une langue puisse contenir autant de soleil.",
-    "examplePt": "Estou feliz que minha filha aprenda as palavras de sua região; estou surpreso que uma língua possa conter tanto sol.",
-    "practiceQuestion": "Complete: « Irlan est ravi que sa fille ___ les mots marseillais. »",
-    "options": ["apprenne", "apprend", "apprendra"],
+    "explanationPt": "Após expressões de sentimento, o francês exige o subjonctif: 'je suis ravi que les enfants apprennent' (estou feliz que as crianças aprendam), 'je suis étonné qu'une langue puisse contenir' (estou surpreso que uma língua possa conter), 'je suis heureux que ces mots soient devenus les miens' (estou feliz que essas palavras tenham se tornado minhas).",
+    "exampleFr": "Je suis ravi que les enfants apprennent les mots de leur région ; je suis étonné qu'une langue puisse contenir autant de soleil.",
+    "examplePt": "Estou feliz que as crianças aprendam as palavras de sua região; estou surpreso que uma língua possa conter tanto sol.",
+    "practiceQuestion": "Complete: « Irlan est ravi que les enfants ___ les mots marseillais. »","options": [
+    "apprennent",
+    "apprend",
+    "apprendront"
+   ],
     "correctIndex": 0,
     "points": [
       {
         "ruleTitle": "Être ravi que + subjonctif",
-        "explanationPt": "'Je suis ravi que ma fille apprenne' : o sentimento de alegria exige o subjonctif (apprenne).",
-        "exampleFr": "Irlan est ravi que sa fille apprenne les mots marseillais.",
-        "examplePt": "Irlan está feliz que sua filha aprenda as palavras marselhanas.",
-        "practiceQuestion": "Complete: « Irlan est ravi que sa fille ___ les mots marseillais. »",
+        "explanationPt": "'Je suis ravi que les enfants apprennent' : o sentimento de alegria exige o subjonctif (apprennent).",
+        "exampleFr": "Irlan est ravi que les enfants apprennent les mots marseillais.",
+        "examplePt": "Irlan está feliz que as crianças aprendam as palavras marselhanas.",
+        "practiceQuestion": "Complete: « Irlan est ravi que les enfants ___ les mots marseillais. »",
         "options": ["apprenne", "apprend", "apprendra"],
         "correctIndex": 0
       },
@@ -246,10 +249,7 @@
       "explanation": "O provençal se enriqueceu do italiano, espanhol, árabe e occitano."
     },
     {
-      "question": "Complete: « Irlan est ravi que sa fille ___ les mots marseillais. »",
-      "options": ["apprenne", "apprend", "apprendra"],
-      "correctIndex": 0,
-      "explanation": "Être ravi que + subjonctif: 'apprenne'."
+      "question": "Complete: « Irlan est ravi que les enfants ___ les mots marseillais. »","options": ["apprennent", "apprend", "apprendront"], "correctIndex": 0, "explanation": "Être ravi que + subjonctif: 'apprennent'."
     },
     {
       "question": "O que significa 'faire le mariole'?",

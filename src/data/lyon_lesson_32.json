@@ -26,8 +26,8 @@
     },
     {
       "id": 4,
-      "fr": "Andréa raconta : « Mon grand-père allumait toujours une bougie pour sa mère. C'est une tradition de famille. » Irlan l'embrassa, ému : « Je suis fier que tu me la racontes. »",
-      "pt": "Andréa contou: « Meu avô acendia sempre uma vela para a mãe dele. É uma tradição de família. » Irlan a beijou, emocionado: « Tenho orgulho de que você me conte isso. »"
+      "fr": "Andréa raconta : « Dans ma famille, on allumait toujours une bougie le soir. C'est une tradition de famille. » Irlan l'embrassa, ému : « Je suis fier que tu me la racontes. »",
+      "pt": "Andréa contou: « Na minha família, a gente acendia sempre uma vela à noite. É uma tradição de família. » Irlan a beijou, emocionado: « Tenho orgulho de que você me conte isso. »"
     },
     {
       "id": 5,
@@ -246,10 +246,10 @@
       "explanation": "No texto: 'la pluie a tout annulé' — os lyonnais acenderam velas."
     },
     {
-      "question": "O que o avô de Andréa fazia?",
-      "options": ["Acendia uma vela para a mãe", "Vendia lumignons", "Trabalhava na prefeitura"],
+      "question": "O que se fazia à noite na família de Andréa?",
+      "options": ["Acendia-se uma vela", "Vendia lumignons", "Trabalhava na prefeitura"],
       "correctIndex": 0,
-      "explanation": "No texto: 'Mon grand-père allumait toujours une bougie pour sa mère.'"
+      "explanation": "No texto: 'Dans ma famille, on allumait toujours une bougie le soir.'"
     },
     {
       "question": "Complete: « Il est étonnant qu'une pluie ___ donné naissance à tant de lumière. »",

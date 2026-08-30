@@ -36,8 +36,8 @@
     },
     {
       "id": 6,
-      "fr": "Enfin, la cuisine toulousaine est une cuisine de partage. Les repas de famille durent des heures, les amis se retrouvent autour d'une table généreuse, et les recettes se transmettent comme des trésors. Bien manger ici n'est pas un luxe : c'est une manière d'aimer la vie.",
-      "pt": "Por fim, a cozinha toulousaine é uma cozinha de partilha. As refeições em família duram horas, os amigos se reúnem em torno de uma mesa generosa, e as receitas se transmitem como tesouros. Comer bem aqui não é luxo: é uma maneira de amar a vida."
+      "fr": "Enfin, la cuisine toulousaine est une cuisine de partage. Les repas de famille durent des heures, les amis se retrouvent autour d'une table généreuse, et les recettes se transmettent comme des trésors, souvent de grand-mère en enfant. Bien manger ici n'est pas un luxe : c'est une manière d'aimer la vie.",
+      "pt": "Por fim, a cozinha toulousaine é uma cozinha de partilha. As refeições em família duram horas, os amigos se reúnem em torno de uma mesa generosa, e as receitas se transmitem como tesouros, muitas vezes de avó para filho. Comer bem aqui não é luxo: é uma maneira de amar a vida."
     }
   ],
   "vocabularyDictionary": [
@@ -118,7 +118,41 @@
         { "level": "B2", "fr": "Transmettre, c'est donner deux fois.", "pt": "Transmitir é dar duas vezes." },
         { "level": "C1-C2", "fr": "Ce que l'on transmet avec amour ne se perd jamais tout à fait.", "pt": "O que se transmite com amor nunca se perde de todo." }
       ]
-    }
+    },
+  {
+    "term": "grand-mère",
+    "definitionPt": "avó",
+    "definitionFr": "La mère du père ou de la mère.",
+    "inflections": [
+      "grand-mère",
+      "grands-mères"
+    ],
+    "ptTargets": [
+      "avó"
+    ],
+    "examples": [
+      {
+        "level": "A1",
+        "fr": "Ma grand-mère fait de bons gâteaux.",
+        "pt": "Minha avó faz bolos bons."
+      },
+      {
+        "level": "A2-B1",
+        "fr": "Nous visitons ma grand-mère le dimanche.",
+        "pt": "Visitamos minha avó no domingo."
+      },
+      {
+        "level": "B2",
+        "fr": "Ma grand-mère raconte des histoires d'autrefois.",
+        "pt": "Minha avó conta histórias de antigamente."
+      },
+      {
+        "level": "C1-C2",
+        "fr": "La grand-mère, mémoire vivante de la famille, transmet les recettes et les récits.",
+        "pt": "A avó, memória viva da família, transmite as receitas e as histórias."
+      }
+    ]
+  }
   ],
   "grammarTip": {
     "ruleTitle": "O pronome 'on' nas receitas e tradições",

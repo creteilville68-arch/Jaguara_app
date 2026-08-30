@@ -11,8 +11,8 @@
   "paragraphs": [
     {
       "id": 1,
-      "fr": "L'alsacien, dialecte germanique, fait partie du paysage de Strasbourg. Dans les marchés, les cafés et les familles, on l'entend encore, mélangé au français. Les écoles proposent des classes bilingues, et les panneaux de rue affichent les deux langues. Cette langue, longtemps menacée, connaît un renouveau discret mais réel.",
-      "pt": "O alsaciano, dialeto germânico, faz parte da paisagem de Strasbourg. Nos mercados, cafés e famílias, ainda se ouve, misturado ao francês. As escolas oferecem turmas bilíngues, e as placas de rua exibem as duas línguas. Essa língua, por muito tempo ameaçada, conhece um renascimento discreto mas real."
+      "fr": "L'alsacien, dialecte germanique, fait partie du paysage de Strasbourg. Dans les marchés, les cafés et les familles, on l'entend encore, mélangé au français, surtout quand les grands-parents parlent aux enfants. Les écoles proposent des classes bilingues, et les panneaux de rue affichent les deux langues. Cette langue, longtemps menacée, connaît un renouveau discret mais réel.",
+      "pt": "O alsaciano, dialeto germânico, faz parte da paisagem de Strasbourg. Nos mercados, cafés e famílias, ainda se ouve, misturado ao francês, sobretudo quando os avós falam com as crianças. As escolas oferecem turmas bilíngues, e as placas de rua exibem as duas línguas. Essa língua, por muito tempo ameaçada, conhece um renascimento discreto mas real."
     },
     {
       "id": 2,
@@ -38,6 +38,41 @@
       "id": 6,
       "fr": "Ce qui frappe à Strasbourg, c'est la coexistence naturelle des contraires. Le dialecte et l'anglais des institutions, les maisons anciennes et l'architecture contemporaine, la tradition et l'innovation. Cette ville ne choisit pas : elle additionne. Et cette addition, loin de la diluer, lui donne une profondeur rare — celle d'une ville qui se sait héritière de plusieurs mondes.",
       "pt": "O que impressiona em Strasbourg é a convivência natural dos contrários. O dialeto e o inglês das instituições, as casas antigas e a arquitetura contemporânea, a tradição e a inovação. Essa cidade não escolhe: ela soma. E essa soma, longe de diluí-la, lhe dá uma profundidade rara — a de uma cidade que se sabe herdeira de vários mundos."
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "grands-parents",
+      "definitionPt": "avós",
+      "definitionFr": "Le père et la mère d'un des parents.",
+      "inflections": [
+        "grands-parents"
+      ],
+      "ptTargets": [
+        "avós"
+      ],
+      "examples": [
+        {
+          "level": "A1",
+          "fr": "Mes grands-parents habitent près de la mer.",
+          "pt": "Meus avós moram perto do mar."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Nous passons les vacances chez mes grands-parents.",
+          "pt": "Passamos as férias na casa dos meus avós."
+        },
+        {
+          "level": "B2",
+          "fr": "Les grands-parents transmettent souvent les traditions familiales.",
+          "pt": "Os avós transmitem frequentemente as tradições familiares."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Le rôle des grands-parents dans la transmission des mémoires familiales est irremplaçable.",
+          "pt": "O papel dos avós na transmissão das memórias familiares é insubstituível."
+        }
+      ]
     }
   ]
 }

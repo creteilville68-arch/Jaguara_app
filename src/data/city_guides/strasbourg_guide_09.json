@@ -1,43 +1,148 @@
 {
   "id": "strasbourg_guide_09",
   "cityId": "strasbourg",
-  "domain": "Acadêmico",
+  "domain": "Cultura",
   "level": "Nível (C1)",
-  "titleFr": "Les institutions européennes en profondeur",
-  "titlePt": "As instituições europeias em profundidade",
-  "subtitleFr": "Comment fonctionnent vraiment le Parlement et la Cour",
-  "subtitlePt": "Como funcionam de verdade o Parlamento e a Corte",
-  "summaryPt": "Enciclopédia de Strasbourg, seção avançada: as instituições — os mecanismos concretos do Parlamento Europeu, do Conselho e da Corte de Direitos Humanos. Vocabulário institucional e jurídico de nível C1.",
+  "titleFr": "La Robertsau : le quartier européen entre ville et forêt",
+  "titlePt": "La Robertsau: o bairro europeu entre cidade e floresta",
+  "subtitleFr": "Un quartier de Strasbourg né entre les bras de l'Ill et les bois",
+  "subtitlePt": "Um bairro de Estrasburgo nascido entre os braços do Ill e as matas",
+  "summaryPt": "Enciclopédia de Estrasburgo, seção 09: um único tema aprofundado — a Robertsau, o bairro onde ficam as instituições europeias, entre a cidade e a grande floresta. Das origens como vila agrícola e de pescadores à transformação em sede do Parlamento Europeu, o texto mostra como um bairro concilia o novo e o antigo. Vocabulário avançado de urbanismo e sociedade (C1).",
   "paragraphs": [
     {
       "id": 1,
-      "fr": "Le Parlement européen, qui siège à Strasbourg douze fois par an, est l'une des plus grandes assemblées élues du monde. Ses 720 députés représentent plus de 440 millions d'Européens. Le travail s'organise en commissions thématiques : agriculture, environnement, numérique, justice. Chaque texte de loi est examiné, amendé, négocié pendant des mois avant d'être voté. Cette mécanique, lente et complexe, garantit la prise en compte de toutes les sensibilités.",
-      "pt": "O Parlamento Europeu, que se reúne em Strasbourg doze vezes por ano, é uma das maiores assembleias eleitas do mundo. Seus 720 deputados representam mais de 440 milhões de europeus. O trabalho se organiza em comissões temáticas: agricultura, meio ambiente, digital, justiça. Cada projeto de lei é examinado, emendado, negociado durante meses antes de ser votado. Essa mecânica, lenta e complexa, garante a consideração de todas as sensibilidades."
+      "fr": "Au nord de Strasbourg, un quartier particulier s'étend entre la ville et la forêt : la Robertsau. Ses rues tranquilles, ses maisons de caractère et ses canaux en font un monde à part. C'est ici, pourtant, que se sont installées les grandes institutions européennes — un mariage surprenant entre village et capitale.",
+      "pt": "Ao norte de Estrasburgo, um bairro particular se estende entre a cidade e a floresta: a Robertsau. Suas ruas tranquilas, suas casas de caráter e seus canais fazem dele um mundo à parte. É aqui, no entanto, que se instalaram as grandes instituições europeias — um casamento surpreendente entre vilarejo e capital."
     },
     {
       "id": 2,
-      "fr": "Le dialogue entre les institutions est un art subtil. Le Parlement amende, le Conseil négocie, la Commission propose : chacun doit s'aligner pour qu'une loi voie le jour. Les compromis, souvent critiqués, sont en réalité le cœur du système. Les eurodéputés apprennent à défendre leurs convictions tout en acceptant des accords imparfaits. Cette culture du compromis, exigeante et frustrante, distingue l'Europe des régimes autoritaires.",
-      "pt": "O diálogo entre as instituições é uma arte sutil. O Parlamento emenda, o Conselho negocia, a Comissão propõe: cada um precisa se alinhar para que uma lei nasça. Os compromissos, muitas vezes criticados, são na realidade o coração do sistema. Os eurodeputados aprendem a defender suas convicções aceitando ao mesmo tempo acordos imperfeitos. Essa cultura do compromisso, exigente e frustrante, distingue a Europa dos regimes autoritários."
+      "fr": "Les origines du quartier sont modestes. Pendant des siècles, la Robertsau est une zone rurale : des fermes, des potagers, des pêcheurs qui exploitent les bras de l'Ill. Les familles y cultivent les terres fertiles et vivent au rythme des saisons, loin de l'agitation du centre.",
+      "pt": "As origens do bairro são modestas. Durante séculos, a Robertsau é uma zona rural: fazendas, hortas, pescadores que exploram os braços do Ill. As famílias cultivam as terras férteis e vivem ao ritmo das estações, longe da agitação do centro."
     },
     {
       "id": 3,
-      "fr": "La Cour européenne des droits de l'homme, installée dans son grand bâtiment contemporain, applique la Convention de 1950. Chaque citoyen d'un État membre peut y porter plainte contre son propre gouvernement. Les arrêts de la Cour, contraignants, ont forcé des États à modifier leurs lois. Cette supervision internationale, unique au monde, fait de Strasbourg la conscience juridique du continent.",
-      "pt": "A Corte Europeia de Direitos Humanos, instalada em seu grande edifício contemporâneo, aplica a Convenção de 1950. Cada cidadão de um Estado-membro pode entrar com queixa ali contra seu próprio governo. As sentenças da Corte, coercitivas, forçaram Estados a modificar suas leis. Essa supervisão internacional, única no mundo, faz de Strasbourg a consciência jurídica do continente."
+      "fr": "Au XIXe siècle, la ville s'étend et atteint le village. Les bourgeois strasbourgeois y font construire des villas, des maisons de campagne, des demeures entourées de jardins. La Robertsau devient un lieu de villégiature, prisé pour son air pur et sa proximité de la forêt.",
+      "pt": "No século XIX, a cidade se estende e alcança o vilarejo. Os burgueses estrasburgueses mandam construir ali villas, casas de campo, moradias cercadas de jardins. A Robertsau vira um lugar de veraneio, apreciado pelo ar puro e pela proximidade da floresta."
     },
     {
       "id": 4,
-      "fr": "Les critiques de l'Europe ne manquent pas : bureaucratie excessive, déficit démocratique, lenteur décisionnelle. Les eurosceptiques dénoncent une technocratie éloignée des citoyens ; les fédéralistes, à l'inverse, réclament plus d'intégration. Ce débat, sain et permanent, est lui-même une preuve de vitalité. À Strasbourg, où les institutions côtoient la vie quotidienne, ces questions se discutent dans les cafés comme dans les amphithéâtres.",
-      "pt": "As críticas à Europa não faltam: burocracia excessiva, déficit democrático, lentidão decisória. Os eurocéticos denunciam uma tecnocracia distante dos cidadãos; os federalistas, ao contrário, reclamam mais integração. Esse debate, saudável e permanente, é em si mesmo uma prova de vitalidade. Em Strasbourg, onde as instituições convivem com a vida cotidiana, essas questões se discutem nos cafés como nos anfiteatros."
+      "fr": "La grande forêt de la Robertsau, prolongée par celle du Rhin, est un trésor écologique. Les chênes, les peupliers et les frênes y abritent une faune riche ; les allées ombragées attirent promeneurs et cyclistes. Ce poumon vert, préservé au fil des siècles, donne au quartier son caractère unique.",
+      "pt": "A grande floresta da Robertsau, prolongada pela do Reno, é um tesouro ecológico. Os carvalhos, os choupos e os freixos abrigam ali uma fauna rica; as alamedas sombreadas atraem caminhantes e ciclistas. Esse pulmão verde, preservado ao longo dos séculos, dá ao bairro seu caráter único."
     },
     {
       "id": 5,
-      "fr": "Les fonctionnaires européens, souvent accusés de vivre en bulle, sont pourtant confrontés à la réalité. Ils traduisent, vérifient, contrôlent l'application des règles communes. Leur travail, ingrat et invisible, assure la cohérence d'un espace de 27 nations. Les interprètes, qui traduisent en temps réel dans 24 langues, accomplissent un exploit technique quotidien. Cette armée silencieuse mérite mieux que les caricatures.",
-      "pt": "Os funcionários europeus, muitas vezes acusados de viver numa bolha, estão no entanto confrontados com a realidade. Eles traduzem, verificam, controlam a aplicação das regras comuns. Seu trabalho, ingrato e invisível, assegura a coerência de um espaço de 27 nações. Os intérpretes, que traduzem em tempo real em 24 línguas, realizam um feito técnico diário. Esse exército silencioso merece mais do que as caricaturas."
+      "fr": "Le tournant survient après la Seconde Guerre mondiale. L'Europe naissante cherche un siège ; Strasbourg est choisie, et la Robertsau est retenue pour accueillir les institutions. Les chantiers succèdent aux potagers : le Palais de l'Europe, puis le Parlement européen, imposent leur architecture au bord de l'Ill.",
+      "pt": "A virada ocorre depois da Segunda Guerra Mundial. A Europa nascente procura uma sede; Estrasburgo é escolhida, e a Robertsau é retida para acolher as instituições. Os canteiros sucedem as hortas: o Palácio da Europa, depois o Parlamento Europeu, impõem sua arquitetura à margem do Ill."
     },
     {
       "id": 6,
-      "fr": "Au-delà des institutions, l'Europe se joue à Strasbourg à hauteur d'homme. Les jeunes fonctionnaires venus de toute l'Union y fondent des familles, les étudiants Erasmus y découvrent d'autres cultures, les juristes y échangent leurs pratiques. Cette humanisation concrète, loin des sommets, est peut-être la vraie réussite du projet européen : transformer des étrangers en voisins, puis en amis, sans effacer leurs différences.",
-      "pt": "Além das instituições, a Europa se decide em Strasbourg na altura do homem. Os jovens funcionários vindos de toda a União fundam famílias ali, os estudantes Erasmus descobrem outras culturas, os juristas trocam suas práticas. Essa humanização concreta, longe das cúpulas, é talvez a verdadeira conquista do projeto europeu: transformar estrangeiros em vizinhos, e depois em amigos, sem apagar suas diferenças."
+      "fr": "Le Parlement européen, inauguré en 1999, change l'échelle du quartier. Des milliers de fonctionnaires, de députés et de journalistes s'y rendent chaque semaine ; les langues se mélangent dans les rues, les restaurants, les tramways. La Robertsau devient une petite capitale, sans cesser d'être un village.",
+      "pt": "O Parlamento Europeu, inaugurado em 1999, muda a escala do bairro. Milhares de funcionários, deputados e jornalistas vão até lá toda semana; as línguas se misturam nas ruas, nos restaurantes, nos bondes. A Robertsau vira uma pequena capital, sem deixar de ser um vilarejo."
+    },
+    {
+      "id": 7,
+      "fr": "Cette cohabitation n'est pas sans tensions. Les riverains craignent pour la tranquillité, pour les prix, pour le caractère du quartier ; les institutions réclament de l'espace, des parkings, des services. Un dialogue permanent s'installe entre les habitants et les autorités, chacun défendant sa vision du lieu.",
+      "pt": "Essa coabitação não ocorre sem tensões. Os moradores temem pela tranquilidade, pelos preços, pelo caráter do bairro; as instituições reclamam espaço, estacionamentos, serviços. Um diálogo permanente se instala entre os habitantes e as autoridades, cada um defendendo sua visão do lugar."
+    },
+    {
+      "id": 8,
+      "fr": "Malgré ces débats, la Robertsau a trouvé son équilibre. Les promenades au bord de l'Ill, les marchés de producteurs, les fêtes de quartier rythment la vie locale ; les visiteurs européens découvrent un art de vivre paisible. Le quartier prouve qu'une capitale peut rester un village, si l'on y prend garde.",
+      "pt": "Apesar desses debates, a Robertsau encontrou seu equilíbrio. Os passeios à margem do Ill, os mercados de produtores, as festas de bairro ritmam a vida local; os visitantes europeus descobrem uma arte de viver pacífica. O bairro prova que uma capital pode continuar um vilarejo, se houver cuidado."
+    },
+    {
+      "id": 9,
+      "fr": "La Robertsau enseigne une leçon d'urbanisme : le nouveau ne doit pas effacer l'ancien, il doit composer avec lui. Ici, les tours de verre côtoient les fermes anciennes, les institutions côtoient la forêt. Cette coexistence, fragile mais réelle, fait du quartier un modèle — celui d'une Europe qui sait habiter ses lieux.",
+      "pt": "A Robertsau ensina uma lição de urbanismo: o novo não deve apagar o antigo, deve compor com ele. Aqui, as torres de vidro convivem com as fazendas antigas, as instituições convivem com a floresta. Essa coexistência, frágil mas real, faz do bairro um modelo — o de uma Europa que sabe habitar seus lugares."
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "le quartier",
+      "definitionPt": "o bairro",
+      "definitionFr": "Partie d'une ville, souvent dotée d'une identité propre.",
+      "inflections": ["le quartier", "des quartiers"],
+      "ptTargets": ["bairro"],
+      "examples": [
+        { "level": "A1", "fr": "Le quartier est calme.", "pt": "O bairro é tranquilo." },
+        { "level": "A2-B1", "fr": "J'habite dans le quartier de la Robertsau.", "pt": "Eu moro no bairro da Robertsau." },
+        { "level": "B2", "fr": "Le quartier a su préserver son caractère malgré les institutions.", "pt": "O bairro soube preservar seu caráter apesar das instituições." },
+        { "level": "C1-C2", "fr": "Un quartier est une mémoire en mouvement : il change sans jamais cesser d'être lui-même.", "pt": "Um bairro é uma memória em movimento: ele muda sem nunca deixar de ser ele mesmo." }
+      ]
+    },
+    {
+      "term": "la forêt",
+      "definitionPt": "a floresta",
+      "definitionFr": "Grande étendue de terrain couverte d'arbres.",
+      "inflections": ["la forêt", "des forêts"],
+      "ptTargets": ["floresta"],
+      "examples": [
+        { "level": "A1", "fr": "La forêt est verte.", "pt": "A floresta é verde." },
+        { "level": "A2-B1", "fr": "Nous marchons dans la forêt.", "pt": "Nós caminhamos na floresta." },
+        { "level": "B2", "fr": "La forêt de la Robertsau est un poumon vert pour la ville.", "pt": "A floresta da Robertsau é um pulmão verde para a cidade." },
+        { "level": "C1-C2", "fr": "La forêt est une leçon de patience : elle pousse là où l'homme a décidé de ne pas construire.", "pt": "A floresta é uma lição de paciência: ela cresce onde o homem decidiu não construir." }
+      ]
+    },
+    {
+      "term": "cohabiter",
+      "definitionPt": "coabitar; conviver",
+      "definitionFr": "Vivre ensemble dans un même lieu.",
+      "inflections": ["cohabiter", "cohabite", "cohabitent"],
+      "ptTargets": ["coabitar", "conviver"],
+      "examples": [
+        { "level": "A1", "fr": "Ils cohabitent dans le même immeuble.", "pt": "Eles coabitam no mesmo prédio." },
+        { "level": "A2-B1", "fr": "Les familles cohabitent avec les bureaux.", "pt": "As famílias convivem com os escritórios." },
+        { "level": "B2", "fr": "Les institutions cohabitent avec les habitants du quartier.", "pt": "As instituições convivem com os habitantes do bairro." },
+        { "level": "C1-C2", "fr": "Cohabiter, c'est négocier chaque jour la frontière entre son espace et celui de l'autre.", "pt": "Coabitar é negociar todos os dias a fronteira entre o próprio espaço e o do outro." }
+      ]
+    },
+    {
+      "term": "préserver",
+      "definitionPt": "preservar",
+      "definitionFr": "Maintenir intact, protéger de la destruction.",
+      "inflections": ["préserver", "préserve", "préservent"],
+      "ptTargets": ["preservar"],
+      "examples": [
+        { "level": "A1", "fr": "Il faut préserver la nature.", "pt": "É preciso preservar a natureza." },
+        { "level": "A2-B1", "fr": "La ville préserve ses espaces verts.", "pt": "A cidade preserva seus espaços verdes." },
+        { "level": "B2", "fr": "Le quartier a préservé son caractère au fil des siècles.", "pt": "O bairro preservou seu caráter ao longo dos séculos." },
+        { "level": "C1-C2", "fr": "Préserver n'est pas immobiliser : c'est transmettre un lieu en lui laissant le droit de vivre.", "pt": "Preservar não é imobilizar: é transmitir um lugar deixando-lhe o direito de viver." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "Les articulateurs temporels du récit",
+    "explanationPt": "Os articuladores temporais organizam a narrativa: 'à l'origine', 'au XIXe siècle', 'le tournant survient', 'malgré ces débats'. Eles guiam o leitor através das épocas e dos contrastes.",
+    "exampleFr": "À l'origine, le quartier est rural ; le tournant survient après la guerre.",
+    "examplePt": "Na origem, o bairro é rural; a virada ocorre depois da guerra.",
+    "practiceQuestion": "Complete: « ___, le quartier était une zone rurale. »",
+    "options": ["À l'origine", "Au fait", "En effet"],
+    "correctIndex": 0,
+    "explanationPt": "Articulador temporal: 'à l'origine'."
+  },
+  "quizQuestions": [
+    {
+      "question": "O que era a Robertsau durante séculos?",
+      "options": ["Uma zona rural", "Um porto comercial", "Uma fortaleza", "Um mosteiro"],
+      "correctIndex": 0,
+      "explanation": "A Robertsau era uma zona de fazendas, hortas e pesca."
+    },
+    {
+      "question": "O que foi instalado no bairro depois da Segunda Guerra?",
+      "options": ["As instituições europeias", "Uma usina", "Um aeroporto", "Uma base militar"],
+      "correctIndex": 0,
+      "explanation": "Estrasburgo foi escolhida como sede europeia, e a Robertsau recebeu as instituições."
+    },
+    {
+      "question": "O que dá ao bairro seu caráter único?",
+      "options": ["A grande floresta preservada", "O porto de pesca", "A estação central", "O estádio"],
+      "correctIndex": 0,
+      "explanation": "O pulmão verde da floresta da Robertsau preserva o caráter do bairro."
+    },
+    {
+      "question": "Complete: « ___, le quartier était une zone rurale. »",
+      "options": ["À l'origine", "Au fait", "En effet"],
+      "correctIndex": 0,
+      "explanation": "Articulador temporal: 'à l'origine'."
     }
   ]
 }

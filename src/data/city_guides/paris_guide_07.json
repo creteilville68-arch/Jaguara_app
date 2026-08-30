@@ -11,7 +11,7 @@
   "paragraphs": [
     {
       "id": 1,
-      "fr": "Beaucoup de Parisiens se lèvent tôt. Dans la salle de bain, on se lave, on se brosse les dents, on se rase, on se maquille ou on se coiffe, selon les habitudes de chacun. Ceux qui ont le temps prennent une douche tranquille avant de prendre le petit-déjeuner.",
+      "fr": "Beaucoup de Parisiens se lèvent tôt. Dans la salle de bain, on se lave, on se brosse les dents, on se rase, on se maquille ou on se coiffe, selon les habitudes de chacun. Ceux qui prennent le métro partent en avance pour éviter la cohue matinale, et ceux qui ont le temps prennent une douche tranquille avant le petit-déjeuner.",
       "pt": "Muitos parisienses se levantam cedo. No banheiro, a gente se lava, escova os dentes, faz a barba, se maquia ou se penteia, conforme o hábito de cada um. Quem tem tempo toma um banho tranquilo antes de tomar o café da manhã."
     },
     {
@@ -31,7 +31,7 @@
     },
     {
       "id": 5,
-      "fr": "Pour se détendre, chacun a sa recette : lire un livre au calme, pratiquer le yoga, se promener sur les quais ou simplement se coucher tôt. Les voisins sont souvent sympathiques, jamais paresseux quand il s'agit d'aider, et le chat du palier, un peu maigre mais fier, surveille les allées et venues.",
+      "fr": "Pour se détendre, chacun a sa recette : lire un livre au calme, pratiquer le yoga, se promener sur les quais de la Seine ou dans les grands jardins de l'arrondissement, ou simplement se coucher tôt. Les voisins sont souvent sympathiques, jamais paresseux quand il s'agit d'aider, et le chat du palier, un peu maigre mais fier, surveille les allées et venues.",
       "pt": "Para relaxar, cada um tem sua receita: ler um livro em paz, praticar ioga, passear pelos cais ou simplesmente deitar cedo. Os vizinhos são quase sempre simpáticos, nunca preguiçosos quando se trata de ajudar, e o gato do patamar, um pouco magro mas orgulhoso, vigia as idas e vindas."
     },
     {
@@ -117,6 +117,19 @@
         { "level": "A2-B1", "fr": "Il se lève tôt pour prendre le train.", "pt": "Ele se levanta cedo para pegar o trem." },
         { "level": "B2", "fr": "Se lever tôt permet de profiter de la ville avant la foule.", "pt": "Levantar cedo permite aproveitar a cidade antes da multidão." },
         { "level": "C1-C2", "fr": "Se lever tôt, c'est voler au jour quelques heures que personne n'a encore réclamées.", "pt": "Levantar cedo é roubar do dia algumas horas que ninguém ainda reivindicou." }
+      ]
+    },
+    {
+      "term": "l'arrondissement",
+      "definitionPt": "o distrito; o bairro administrativo",
+      "definitionFr": "Subdivision administrative d'une grande ville, notamment de Paris.",
+      "inflections": ["l'arrondissement", "les arrondissements"],
+      "ptTargets": ["distrito", "bairro"],
+      "examples": [
+        { "level": "A1", "fr": "J'habite un arrondissement.", "pt": "Eu moro num distrito." },
+        { "level": "A2-B1", "fr": "Son arrondissement a un grand marché.", "pt": "O distrito dele tem um grande mercado." },
+        { "level": "B2", "fr": "Chaque arrondissement de Paris conserve son propre caractère.", "pt": "Cada distrito de Paris conserva seu próprio caráter." },
+        { "level": "C1-C2", "fr": "Un arrondissement résume à lui seul la diversité de la capitale.", "pt": "Um distrito resume sozinho a diversidade da capital." }
       ]
     }
   ],

@@ -26,30 +26,13 @@ interface LessonData {
 
 // Helper to generate 4 progressive examples if not explicitly defined
 function build4Examples(word: string, defPt: string): Array<{ level: string; fr: string; pt: string }> {
-  const cleanWord = word.trim();
-  const cleanDef = defPt.split('/')[0].trim();
-  return [
-    {
-      level: "A1",
-      fr: `C'est un exemple simple avec ${cleanWord}.`,
-      pt: `É um exemplo simples com ${cleanDef}.`
-    },
-    {
-      level: "A2-B1",
-      fr: `À Paris, nous découvrons souvent l'importance de ${cleanWord}.`,
-      pt: `Em Paris, nós descobrimos frequentemente a importância de ${cleanDef}.`
-    },
-    {
-      level: "B2",
-      fr: `La compréhension de termes comme ${cleanWord} enrichit les échanges culturels.`,
-      pt: `A compreensão de termos como ${cleanDef} enriquece as trocas culturais.`
-    },
-    {
-      level: "C1-C2",
-      fr: `Dans le contexte urbain parisien, la notion de ${cleanWord} illustre parfaitement la tradition française.`,
-      pt: `No contexto urbano parisiense, a noção de ${cleanDef} ilustra perfeitamente a tradição francesa.`
-    }
-  ];
+  // Regra 13 da bíblia: exemplos devem ser frases reais do dia a dia, nunca
+  // meta-linguagem. Os antigos templates ("C'est un exemple simple avec X",
+  // "l'importance de X") eram deploráveis. Sem curadoria, retornamos vazio —
+  // o autor preenche os 4 exemplos reais no masterExamplesDictionary.
+  void word;
+  void defPt;
+  return [];
 }
 
 const lessonsToGenerate: Array<{

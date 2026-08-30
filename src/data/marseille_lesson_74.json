@@ -14,18 +14,90 @@
       "fr": "Les dernières semaines à Marseille avaient été un tourbillon. Irlan finissait ses dernières livraisons, Andréa préparait le déménagement. La scooter, elle, avait été vendue à un jeune livreur. 'Elle va continuer à servir Marseille', avait dit Irlan en serrant la main du jeune homme. Un chapitre se tournait, doucement, sans bruit.",
       "pt": "As últimas semanas em Marselha foram um turbilhão. Irlan terminava suas últimas entregas, Andréa preparava a mudança. A scooter, por sua vez, foi vendida a um jovem entregador. 'Ela vai continuar servindo Marselha', disse Irlan apertando a mão do jovem. Um capítulo virava a página, devagar, sem ruído.",
       "vocabularies": [
-        { "id": 1, "fr": "un tourbillon", "pt": "um turbilhão", "exampleFr": "Les derniers jours ont été un tourbillon.", "examplePt": "Os últimos dias foram um turbilhão." },
-        { "id": 2, "fr": "un dossier", "pt": "um dossiê", "exampleFr": "Il termine ses dossiers.", "examplePt": "Ele termina seus dossiês." },
-        { "id": 3, "fr": "un déménagement", "pt": "uma mudança", "exampleFr": "Le déménagement est prévu pour samedi.", "examplePt": "A mudança está prevista para sábado." },
-        { "id": 4, "fr": "dire au revoir", "pt": "despedir-se", "exampleFr": "Andréa dit au revoir à ses amis.", "examplePt": "Andréa se despede de seus amigos." },
-        { "id": 5, "fr": "vendre", "pt": "vender", "exampleFr": "Il a vendu sa scooter.", "examplePt": "Ele vendeu sua scooter." },
-        { "id": 6, "fr": "serrer la main", "pt": "apertar a mão", "exampleFr": "Ils se sont serré la main.", "examplePt": "Eles apertaram as mãos." },
-        { "id": 7, "fr": "tourner un chapitre", "pt": "virar um capítulo", "exampleFr": "Un chapitre se tourne.", "examplePt": "Um capítulo vira a página." },
-        { "id": 8, "fr": "sans bruit", "pt": "sem ruído", "exampleFr": "Il est parti sans bruit.", "examplePt": "Ele partiu sem ruído." },
-        { "id": 9, "fr": "doucement", "pt": "devagar / suavemente", "exampleFr": "La vie continue doucement.", "examplePt": "A vida continua devagar." },
-        { "id": 10, "fr": "terminer", "pt": "terminar", "exampleFr": "Il termine son travail.", "examplePt": "Ele termina seu trabalho." },
-        { "id": 11, "fr": "continuer", "pt": "continuar", "exampleFr": "La scooter continuera à servir.", "examplePt": "A scooter continuará a servir." },
-        { "id": 12, "fr": "sans bruit", "pt": "sem barulho", "exampleFr": "Le départ s'est fait sans bruit.", "examplePt": "A partida aconteceu sem barulho." }
+        {
+          "id": 1,
+          "fr": "un tourbillon",
+          "pt": "um turbilhão",
+          "exampleFr": "Les derniers jours ont été un tourbillon.",
+          "examplePt": "Os últimos dias foram um turbilhão."
+        },
+        {
+          "id": 2,
+          "fr": "un dossier",
+          "pt": "um dossiê",
+          "exampleFr": "Il termine ses dossiers.",
+          "examplePt": "Ele termina seus dossiês."
+        },
+        {
+          "id": 3,
+          "fr": "un déménagement",
+          "pt": "uma mudança",
+          "exampleFr": "Le déménagement est prévu pour samedi.",
+          "examplePt": "A mudança está prevista para sábado."
+        },
+        {
+          "id": 4,
+          "fr": "dire au revoir",
+          "pt": "despedir-se",
+          "exampleFr": "Andréa dit au revoir à ses amis.",
+          "examplePt": "Andréa se despede de seus amigos."
+        },
+        {
+          "id": 5,
+          "fr": "vendre",
+          "pt": "vender",
+          "exampleFr": "Il a vendu sa scooter.",
+          "examplePt": "Ele vendeu sua scooter."
+        },
+        {
+          "id": 6,
+          "fr": "serrer la main",
+          "pt": "apertar a mão",
+          "exampleFr": "Ils se sont serré la main.",
+          "examplePt": "Eles apertaram as mãos."
+        },
+        {
+          "id": 7,
+          "fr": "tourner un chapitre",
+          "pt": "virar um capítulo",
+          "exampleFr": "Un chapitre se tourne.",
+          "examplePt": "Um capítulo vira a página."
+        },
+        {
+          "id": 8,
+          "fr": "sans bruit",
+          "pt": "sem ruído",
+          "exampleFr": "Il est parti sans bruit.",
+          "examplePt": "Ele partiu sem ruído."
+        },
+        {
+          "id": 9,
+          "fr": "doucement",
+          "pt": "devagar / suavemente",
+          "exampleFr": "La vie continue doucement.",
+          "examplePt": "A vida continua devagar."
+        },
+        {
+          "id": 10,
+          "fr": "terminer",
+          "pt": "terminar",
+          "exampleFr": "Il termine son travail.",
+          "examplePt": "Ele termina seu trabalho."
+        },
+        {
+          "id": 11,
+          "fr": "continuer",
+          "pt": "continuar",
+          "exampleFr": "La scooter continuera à servir.",
+          "examplePt": "A scooter continuará a servir."
+        },
+        {
+          "id": 12,
+          "fr": "sans bruit",
+          "pt": "sem barulho",
+          "exampleFr": "Le départ s'est fait sans bruit.",
+          "examplePt": "A partida aconteceu sem barulho."
+        }
       ]
     },
     {
@@ -33,18 +105,90 @@
       "fr": "Andréa avait insisté pour faire un dernier dîner avec les amis de Marseille. Le restaurant, au bord du Vieux-Port, servait une bouillabaisse magnifique. Les amis étaient là : Jean, le collègue de rugby, le vieux pêcheur du Vieux-Port, et Fatima, la voisine. 'À Marseille, on ne dit pas adieu, on dit à bientôt', avait dit Fatima. La soirée avait duré jusqu'à minuit, pleine de rires et d'émotions.",
       "pt": "Andréa insistiu para fazer um último jantar com os amigos de Marselha. O restaurante, à beira do Vieux-Port, servia uma bouillabaisse magnífica. Os amigos estavam lá: Jean, o colega de rugby, o velho pescador do Vieux-Port, e Fatima, a vizinha. 'Em Marselha, não se diz adeus, se diz até logo', disse Fatima. A noite durou até meia-noite, cheia de risos e emoções.",
       "vocabularies": [
-        { "id": 1, "fr": "insister pour", "pt": "insistir para", "exampleFr": "Elle a insisté pour ce dîner.", "examplePt": "Ela insistiu para esse jantar." },
-        { "id": 2, "fr": "un dernier dîner", "pt": "um último jantar", "exampleFr": "C'est un dernier dîner entre amis.", "examplePt": "É um último jantar entre amigos." },
-        { "id": 3, "fr": "au bord de", "pt": "à beira de", "exampleFr": "Le restaurant est au bord du port.", "examplePt": "O restaurante fica à beira do porto." },
-        { "id": 4, "fr": "la bouillabaisse", "pt": "a bouillabaisse", "exampleFr": "La bouillabaisse est un plat marseillais.", "examplePt": "A bouillabaisse é um prato marselhano." },
-        { "id": 5, "fr": "une voisine", "pt": "uma vizinha", "exampleFr": "Fatima est leur voisine.", "examplePt": "Fatima é a vizinha deles." },
-        { "id": 6, "fr": "à bientôt", "pt": "até logo", "exampleFr": "À bientôt, mes amis !", "examplePt": "Até logo, meus amigos!" },
-        { "id": 7, "fr": "durée", "pt": "durou", "exampleFr": "La soirée a duré jusqu'à minuit.", "examplePt": "A noite durou até meia-noite." },
-        { "id": 8, "fr": "plein de rires", "pt": "cheio de risos", "exampleFr": "La soirée était pleine de rires.", "examplePt": "A noite estava cheia de risos." },
-        { "id": 9, "fr": "une émotion", "pt": "uma emoção", "exampleFr": "La soirée était pleine d'émotions.", "examplePt": "A noite estava cheia de emoções." },
-        { "id": 10, "fr": "jusqu'à minuit", "pt": "até meia-noite", "exampleFr": "Ils sont restés jusqu'à minuit.", "examplePt": "Eles ficaram até meia-noite." },
-        { "id": 11, "fr": "un adieu", "pt": "um adeus", "exampleFr": "On ne dit pas adieu.", "examplePt": "Não se diz adeus." },
-        { "id": 12, "fr": "servir", "pt": "servir", "exampleFr": "Le restaurant sert des plats traditionnels.", "examplePt": "O restaurante serve pratos tradicionais." }
+        {
+          "id": 1,
+          "fr": "insister pour",
+          "pt": "insistir para",
+          "exampleFr": "Elle a insisté pour ce dîner.",
+          "examplePt": "Ela insistiu para esse jantar."
+        },
+        {
+          "id": 2,
+          "fr": "un dernier dîner",
+          "pt": "um último jantar",
+          "exampleFr": "C'est un dernier dîner entre amis.",
+          "examplePt": "É um último jantar entre amigos."
+        },
+        {
+          "id": 3,
+          "fr": "au bord de",
+          "pt": "à beira de",
+          "exampleFr": "Le restaurant est au bord du port.",
+          "examplePt": "O restaurante fica à beira do porto."
+        },
+        {
+          "id": 4,
+          "fr": "la bouillabaisse",
+          "pt": "a bouillabaisse",
+          "exampleFr": "La bouillabaisse est un plat marseillais.",
+          "examplePt": "A bouillabaisse é um prato marselhano."
+        },
+        {
+          "id": 5,
+          "fr": "une voisine",
+          "pt": "uma vizinha",
+          "exampleFr": "Fatima est leur voisine.",
+          "examplePt": "Fatima é a vizinha deles."
+        },
+        {
+          "id": 6,
+          "fr": "à bientôt",
+          "pt": "até logo",
+          "exampleFr": "À bientôt, mes amis !",
+          "examplePt": "Até logo, meus amigos!"
+        },
+        {
+          "id": 7,
+          "fr": "durée",
+          "pt": "durou",
+          "exampleFr": "La soirée a duré jusqu'à minuit.",
+          "examplePt": "A noite durou até meia-noite."
+        },
+        {
+          "id": 8,
+          "fr": "plein de rires",
+          "pt": "cheio de risos",
+          "exampleFr": "La soirée était pleine de rires.",
+          "examplePt": "A noite estava cheia de risos."
+        },
+        {
+          "id": 9,
+          "fr": "une émotion",
+          "pt": "uma emoção",
+          "exampleFr": "La soirée était pleine d'émotions.",
+          "examplePt": "A noite estava cheia de emoções."
+        },
+        {
+          "id": 10,
+          "fr": "jusqu'à minuit",
+          "pt": "até meia-noite",
+          "exampleFr": "Ils sont restés jusqu'à minuit.",
+          "examplePt": "Eles ficaram até meia-noite."
+        },
+        {
+          "id": 11,
+          "fr": "un adieu",
+          "pt": "um adeus",
+          "exampleFr": "On ne dit pas adieu.",
+          "examplePt": "Não se diz adeus."
+        },
+        {
+          "id": 12,
+          "fr": "servir",
+          "pt": "servir",
+          "exampleFr": "Le restaurant sert des plats traditionnels.",
+          "examplePt": "O restaurante serve pratos tradicionais."
+        }
       ]
     },
     {
@@ -52,18 +196,90 @@
       "fr": "Le matin du départ, Irlan avait fait une dernière balade à pied dans le quartier. Il avait acheté un café chez son habituel barista, un marocain nommé Karim, qui l'avait salué comme un vieil ami. 'Quand tu reviens, le café est pour moi', avait-il plaisanté. Irlan avait souri. Les petits commerces, les habitudes, les visages connus, c'était ça aussi, la vie d'une ville.",
       "pt": "Na manhã da partida, Irlan fez uma última caminhada a pé pelo bairro. Comprou um café no seu barista habitual, um marroquino chamado Karim, que o cumprimentou como um velho amigo. 'Quando você voltar, o café é por minha conta', brincou. Irlan sorriu. Os pequenos comércios, os hábitos, os rostos conhecidos, era isso também, a vida de uma cidade.",
       "vocabularies": [
-        { "id": 1, "fr": "le matin du départ", "pt": "a manhã da partida", "exampleFr": "Le matin du départ, tout était prêt.", "examplePt": "Na manhã da partida, tudo estava pronto." },
-        { "id": 2, "fr": "une balade à pied", "pt": "uma caminhada a pé", "exampleFr": "Il a fait une balade à pied.", "examplePt": "Ele fez uma caminhada a pé." },
-        { "id": 3, "fr": "un barista", "pt": "um barista", "exampleFr": "Son barista habituel connaît sa commande.", "examplePt": "Seu barista habitual conhece seu pedido." },
-        { "id": 4, "fr": "un habitué", "pt": "um cliente habitual", "exampleFr": "Il est un habitué du café.", "examplePt": "Ele é um cliente habitual do café." },
-        { "id": 5, "fr": "un vieil ami", "pt": "um velho amigo", "exampleFr": "Il l'a salué comme un vieil ami.", "examplePt": "Ele o cumprimentou como um velho amigo." },
-        { "id": 6, "fr": "plaisanter", "pt": "brincar", "exampleFr": "Il a plaisanté sur le café.", "examplePt": "Ele brincou sobre o café." },
-        { "id": 7, "fr": "un commerce", "pt": "um comércio", "exampleFr": "Les petits commerces animent le quartier.", "examplePt": "Os pequenos comércios animam o bairro." },
-        { "id": 8, "fr": "une habitude", "pt": "um hábito", "exampleFr": "Les habitudes créent des liens.", "examplePt": "Os hábitos criam laços." },
-        { "id": 9, "fr": "un visage connu", "pt": "um rosto conhecido", "exampleFr": "Tous les visages connus manqueront.", "examplePt": "Todos os rostos conhecidos farão falta." },
-        { "id": 10, "fr": "un habituel", "pt": "habitual", "exampleFr": "Son café habituel est prêt.", "examplePt": "Seu café habitual está pronto." },
-        { "id": 11, "fr": "quand tu reviens", "pt": "quando você voltar", "exampleFr": "Quand tu reviens, appelle-moi.", "examplePt": "Quando você voltar, me ligue." },
-        { "id": 12, "fr": "par ma compte", "pt": "por minha conta", "exampleFr": "Le café est pour moi.", "examplePt": "O café é por minha conta." }
+        {
+          "id": 1,
+          "fr": "le matin du départ",
+          "pt": "a manhã da partida",
+          "exampleFr": "Le matin du départ, tout était prêt.",
+          "examplePt": "Na manhã da partida, tudo estava pronto."
+        },
+        {
+          "id": 2,
+          "fr": "une balade à pied",
+          "pt": "uma caminhada a pé",
+          "exampleFr": "Il a fait une balade à pied.",
+          "examplePt": "Ele fez uma caminhada a pé."
+        },
+        {
+          "id": 3,
+          "fr": "un barista",
+          "pt": "um barista",
+          "exampleFr": "Son barista habituel connaît sa commande.",
+          "examplePt": "Seu barista habitual conhece seu pedido."
+        },
+        {
+          "id": 4,
+          "fr": "un habitué",
+          "pt": "um cliente habitual",
+          "exampleFr": "Il est un habitué du café.",
+          "examplePt": "Ele é um cliente habitual do café."
+        },
+        {
+          "id": 5,
+          "fr": "un vieil ami",
+          "pt": "um velho amigo",
+          "exampleFr": "Il l'a salué comme un vieil ami.",
+          "examplePt": "Ele o cumprimentou como um velho amigo."
+        },
+        {
+          "id": 6,
+          "fr": "plaisanter",
+          "pt": "brincar",
+          "exampleFr": "Il a plaisanté sur le café.",
+          "examplePt": "Ele brincou sobre o café."
+        },
+        {
+          "id": 7,
+          "fr": "un commerce",
+          "pt": "um comércio",
+          "exampleFr": "Les petits commerces animent le quartier.",
+          "examplePt": "Os pequenos comércios animam o bairro."
+        },
+        {
+          "id": 8,
+          "fr": "une habitude",
+          "pt": "um hábito",
+          "exampleFr": "Les habitudes créent des liens.",
+          "examplePt": "Os hábitos criam laços."
+        },
+        {
+          "id": 9,
+          "fr": "un visage connu",
+          "pt": "um rosto conhecido",
+          "exampleFr": "Tous les visages connus manqueront.",
+          "examplePt": "Todos os rostos conhecidos farão falta."
+        },
+        {
+          "id": 10,
+          "fr": "un habituel",
+          "pt": "habitual",
+          "exampleFr": "Son café habituel est prêt.",
+          "examplePt": "Seu café habitual está pronto."
+        },
+        {
+          "id": 11,
+          "fr": "quand tu reviens",
+          "pt": "quando você voltar",
+          "exampleFr": "Quand tu reviens, appelle-moi.",
+          "examplePt": "Quando você voltar, me ligue."
+        },
+        {
+          "id": 12,
+          "fr": "par ma compte",
+          "pt": "por minha conta",
+          "exampleFr": "Le café est pour moi.",
+          "examplePt": "O café é por minha conta."
+        }
       ]
     },
     {
@@ -71,18 +287,90 @@
       "fr": "À la gare Saint-Charles, le TGV attendait déjà. Le couple avait pris ses valises, couvertes d'autocollants des villes visitées. 'Il ne manque que Strasbourg', avait dit Andréa. Irlan avait regardé une dernière fois la gare, la ville, le soleil. Puis il était monté dans le train. Marseille s'éloignait, mais une certitude restait : ils reviendraient. Comme disait Fatima, à Marseille, on ne dit jamais adieu.",
       "pt": "Na estação Saint-Charles, o TGV já esperava. O casal pegou as malas, cobertas de adesivos das cidades visitadas. 'Só falta Estrasburgo', disse Andréa. Irlan olhou uma última vez a estação, a cidade, o sol. Depois subiu no trem. Marselha se afastava, mas uma certeza permanecia: eles voltariam. Como dizia Fatima, em Marselha, nunca se diz adeus.",
       "vocabularies": [
-        { "id": 1, "fr": "la gare", "pt": "a estação", "exampleFr": "La gare Saint-Charles est en haut de la ville.", "examplePt": "A estação Saint-Charles fica no alto da cidade." },
-        { "id": 2, "fr": "attendre", "pt": "esperar", "exampleFr": "Le train attendait déjà.", "examplePt": "O trem já esperava." },
-        { "id": 3, "fr": "monter dans", "pt": "subir em", "exampleFr": "Ils sont montés dans le train.", "examplePt": "Eles subiram no trem." },
-        { "id": 4, "fr": "s'éloigner", "pt": "se afastar", "exampleFr": "Marseille s'éloigne.", "examplePt": "Marselha se afasta." },
-        { "id": 5, "fr": "une certitude", "pt": "uma certeza", "exampleFr": "Une certitude reste.", "examplePt": "Uma certeza permanece." },
-        { "id": 6, "fr": "revenir", "pt": "voltar", "exampleFr": "Ils reviendront un jour.", "examplePt": "Eles voltarão um dia." },
-        { "id": 7, "fr": "il ne manque que", "pt": "só falta", "exampleFr": "Il ne manque que Strasbourg.", "examplePt": "Só falta Estrasburgo." },
-        { "id": 8, "fr": "les valises", "pt": "as malas", "exampleFr": "Les valises sont prêtes.", "examplePt": "As malas estão prontas." },
-        { "id": 9, "fr": "s'éloigner", "pt": "se distanciar", "exampleFr": "Le paysage s'éloigne.", "examplePt": "A paisagem se distancia." },
-        { "id": 10, "fr": "une dernière fois", "pt": "uma última vez", "exampleFr": "Il a regardé une dernière fois.", "examplePt": "Ele olhou uma última vez." },
-        { "id": 11, "fr": "jamais", "pt": "nunca", "exampleFr": "On ne dit jamais adieu.", "examplePt": "Nunca se diz adeus." },
-        { "id": 12, "fr": "le soleil", "pt": "o sol", "exampleFr": "Le soleil de Marseille brillait.", "examplePt": "O sol de Marselha brilhava." }
+        {
+          "id": 1,
+          "fr": "la gare",
+          "pt": "a estação",
+          "exampleFr": "La gare Saint-Charles est en haut de la ville.",
+          "examplePt": "A estação Saint-Charles fica no alto da cidade."
+        },
+        {
+          "id": 2,
+          "fr": "attendre",
+          "pt": "esperar",
+          "exampleFr": "Le train attendait déjà.",
+          "examplePt": "O trem já esperava."
+        },
+        {
+          "id": 3,
+          "fr": "monter dans",
+          "pt": "subir em",
+          "exampleFr": "Ils sont montés dans le train.",
+          "examplePt": "Eles subiram no trem."
+        },
+        {
+          "id": 4,
+          "fr": "s'éloigner",
+          "pt": "se afastar",
+          "exampleFr": "Marseille s'éloigne.",
+          "examplePt": "Marselha se afasta."
+        },
+        {
+          "id": 5,
+          "fr": "une certitude",
+          "pt": "uma certeza",
+          "exampleFr": "Une certitude reste.",
+          "examplePt": "Uma certeza permanece."
+        },
+        {
+          "id": 6,
+          "fr": "revenir",
+          "pt": "voltar",
+          "exampleFr": "Ils reviendront un jour.",
+          "examplePt": "Eles voltarão um dia."
+        },
+        {
+          "id": 7,
+          "fr": "il ne manque que",
+          "pt": "só falta",
+          "exampleFr": "Il ne manque que Strasbourg.",
+          "examplePt": "Só falta Estrasburgo."
+        },
+        {
+          "id": 8,
+          "fr": "les valises",
+          "pt": "as malas",
+          "exampleFr": "Les valises sont prêtes.",
+          "examplePt": "As malas estão prontas."
+        },
+        {
+          "id": 9,
+          "fr": "s'éloigner",
+          "pt": "se distanciar",
+          "exampleFr": "Le paysage s'éloigne.",
+          "examplePt": "A paisagem se distancia."
+        },
+        {
+          "id": 10,
+          "fr": "une dernière fois",
+          "pt": "uma última vez",
+          "exampleFr": "Il a regardé une dernière fois.",
+          "examplePt": "Ele olhou uma última vez."
+        },
+        {
+          "id": 11,
+          "fr": "jamais",
+          "pt": "nunca",
+          "exampleFr": "On ne dit jamais adieu.",
+          "examplePt": "Nunca se diz adeus."
+        },
+        {
+          "id": 12,
+          "fr": "le soleil",
+          "pt": "o sol",
+          "exampleFr": "Le soleil de Marseille brillait.",
+          "examplePt": "O sol de Marselha brilhava."
+        }
       ]
     },
     {
@@ -101,156 +389,427 @@
       "term": "un tourbillon",
       "definitionPt": "um turbilhão",
       "definitionFr": "Mouvement rapide et désordonné, période très intense.",
-      "inflections": ["un tourbillon", "des tourbillons"],
-      "ptTargets": ["turbilhão", "turbilhões"],
+      "inflections": [
+        "un tourbillon",
+        "des tourbillons"
+      ],
+      "ptTargets": [
+        "turbilhão",
+        "turbilhões"
+      ],
       "examples": [
-        { "level": "A1", "fr": "C'est un tourbillon.", "pt": "É um turbilhão." },
-        { "level": "A2-B1", "fr": "Les derniers jours ont été un tourbillon.", "pt": "Os últimos dias foram um turbilhão." },
-        { "level": "B2", "fr": "Les dernières semaines à Marseille avaient été un tourbillon de préparatifs et d'émotions.", "pt": "As últimas semanas em Marselha foram um turbilhão de preparativos e emoções." },
-        { "level": "C1-C2", "fr": "Le tourbillon des adieux laisse place, peu à peu, à la sérénité du nouveau départ.", "pt": "O turbilhão das despedidas dá lugar, aos poucos, à serenidade da nova partida." }
+        {
+          "level": "A1",
+          "fr": "C'est un tourbillon.",
+          "pt": "É um turbilhão."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Les derniers jours ont été un tourbillon.",
+          "pt": "Os últimos dias foram um turbilhão."
+        },
+        {
+          "level": "B2",
+          "fr": "Les dernières semaines à Marseille avaient été un tourbillon de préparatifs et d'émotions.",
+          "pt": "As últimas semanas em Marselha foram um turbilhão de preparativos e emoções."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Le tourbillon des adieux laisse place, peu à peu, à la sérénité du nouveau départ.",
+          "pt": "O turbilhão das despedidas dá lugar, aos poucos, à serenidade da nova partida."
+        }
       ]
     },
     {
       "term": "un déménagement",
       "definitionPt": "uma mudança (de casa)",
       "definitionFr": "Action de changer de logement, de transporter ses affaires.",
-      "inflections": ["un déménagement", "des déménagements"],
-      "ptTargets": ["mudança", "mudanças"],
+      "inflections": [
+        "un déménagement",
+        "des déménagements"
+      ],
+      "ptTargets": [
+        "mudança",
+        "mudanças"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le déménagement est prêt.", "pt": "A mudança está pronta." },
-        { "level": "A2-B1", "fr": "Le déménagement est prévu pour samedi.", "pt": "A mudança está prevista para sábado." },
-        { "level": "B2", "fr": "Andréa préparait le déménagement pendant qu'Irlan terminait ses dossiers.", "pt": "Andréa preparava a mudança enquanto Irlan terminava seus dossiês." },
-        { "level": "C1-C2", "fr": "Un déménagement est une épreuve logistique, mais surtout un rite de passage entre deux vies.", "pt": "Uma mudança é uma prova logística, mas sobretudo um rito de passagem entre duas vidas." }
+        {
+          "level": "A1",
+          "fr": "Le déménagement est prêt.",
+          "pt": "A mudança está pronta."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Le déménagement est prévu pour samedi.",
+          "pt": "A mudança está prevista para sábado."
+        },
+        {
+          "level": "B2",
+          "fr": "Andréa préparait le déménagement pendant qu'Irlan terminait ses dossiers.",
+          "pt": "Andréa preparava a mudança enquanto Irlan terminava seus dossiês."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Un déménagement est une épreuve logistique, mais surtout un rite de passage entre deux vies.",
+          "pt": "Uma mudança é uma prova logística, mas sobretudo um rito de passagem entre duas vidas."
+        }
       ]
     },
     {
       "term": "vendre",
       "definitionPt": "vender",
       "definitionFr": "Céder un bien contre de l'argent.",
-      "inflections": ["je vends", "nous vendons", "il a vendu"],
-      "ptTargets": ["vender", "vendeu", "vendo"],
+      "inflections": [
+        "je vends",
+        "nous vendons",
+        "il a vendu"
+      ],
+      "ptTargets": [
+        "vender",
+        "vendeu",
+        "vendo"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Je vends ma voiture.", "pt": "Eu vendo meu carro." },
-        { "level": "A2-B1", "fr": "Il a vendu sa scooter.", "pt": "Ele vendeu sua scooter." },
-        { "level": "B2", "fr": "Irlan a vendu sa scooter à un jeune livreur qui continuera à servir Marseille.", "pt": "Irlan vendeu sua scooter a um jovem entregador que continuará servindo Marselha." },
-        { "level": "C1-C2", "fr": "Vendre sa scooter, c'est aussi tourner la page d'une époque entière de sa vie citadine.", "pt": "Vender a scooter é também virar a página de uma época inteira da sua vida urbana." }
+        {
+          "level": "A1",
+          "fr": "Je vends ma voiture.",
+          "pt": "Eu vendo meu carro."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Il a vendu sa scooter.",
+          "pt": "Ele vendeu sua scooter."
+        },
+        {
+          "level": "B2",
+          "fr": "Irlan a vendu sa scooter à un jeune livreur qui continuera à servir Marseille.",
+          "pt": "Irlan vendeu sua scooter a um jovem entregador que continuará servindo Marselha."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Vendre sa scooter, c'est aussi tourner la page d'une époque entière de sa vie citadine.",
+          "pt": "Vender a scooter é também virar a página de uma época inteira da sua vida urbana."
+        }
       ]
     },
     {
       "term": "serrer la main",
       "definitionPt": "apertar a mão",
       "definitionFr": "Saluer quelqu'un en lui serrant la main.",
-      "inflections": ["serrer la main", "serre la main", "ont serré la main"],
-      "ptTargets": ["apertar a mão", "apertar as mãos"],
+      "inflections": [
+        "serrer la main",
+        "serre la main",
+        "ont serré la main"
+      ],
+      "ptTargets": [
+        "apertar a mão",
+        "apertar as mãos"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Il serre la main.", "pt": "Ele aperta a mão." },
-        { "level": "A2-B1", "fr": "Ils se sont serré la main.", "pt": "Eles apertaram as mãos." },
-        { "level": "B2", "fr": "En serrant la main du jeune homme, Irlan lui a confié sa scooter.", "pt": "Ao apertar a mão do jovem, Irlan lhe confiou sua scooter." },
-        { "level": "C1-C2", "fr": "Se serrer la main, c'est sceller une confiance qui n'a pas besoin de mots.", "pt": "Apertar a mão é selar uma confiança que não precisa de palavras." }
+        {
+          "level": "A1",
+          "fr": "Il serre la main.",
+          "pt": "Ele aperta a mão."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Ils se sont serré la main.",
+          "pt": "Eles apertaram as mãos."
+        },
+        {
+          "level": "B2",
+          "fr": "En serrant la main du jeune homme, Irlan lui a confié sa scooter.",
+          "pt": "Ao apertar a mão do jovem, Irlan lhe confiou sua scooter."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Se serrer la main, c'est sceller une confiance qui n'a pas besoin de mots.",
+          "pt": "Apertar a mão é selar uma confiança que não precisa de palavras."
+        }
       ]
     },
     {
       "term": "tourner un chapitre",
       "definitionPt": "virar um capítulo (da vida)",
       "definitionFr": "Mettre fin à une période pour en commencer une autre.",
-      "inflections": ["tourner un chapitre", "tourne un chapitre", "se tournait"],
-      "ptTargets": ["virar um capítulo", "virar a página"],
+      "inflections": [
+        "tourner un chapitre",
+        "tourne un chapitre",
+        "se tournait"
+      ],
+      "ptTargets": [
+        "virar um capítulo",
+        "virar a página"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Un chapitre se tourne.", "pt": "Um capítulo vira a página." },
-        { "level": "A2-B1", "fr": "Nous tournons un chapitre de notre vie en quittant Marseille.", "pt": "Nós viramos um capítulo da nossa vida ao deixar Marseille." },
-        { "level": "B2", "fr": "Un chapitre se tournait, doucement, sans bruit.", "pt": "Um capítulo virava a página, devagar, sem ruído." },
-        { "level": "C1-C2", "fr": "Tourner un chapitre, ce n'est pas effacer le passé, c'est l'emporter avec soi vers de nouveaux horizons.", "pt": "Virar um capítulo não é apagar o passado, é levá-lo consigo rumo a novos horizontes." }
+        {
+          "level": "A1",
+          "fr": "Un chapitre se tourne.",
+          "pt": "Um capítulo vira a página."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Nous tournons un chapitre de notre vie en quittant Marseille.",
+          "pt": "Nós viramos um capítulo da nossa vida ao deixar Marseille."
+        },
+        {
+          "level": "B2",
+          "fr": "Un chapitre se tournait, doucement, sans bruit.",
+          "pt": "Um capítulo virava a página, devagar, sem ruído."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Tourner un chapitre, ce n'est pas effacer le passé, c'est l'emporter avec soi vers de nouveaux horizons.",
+          "pt": "Virar um capítulo não é apagar o passado, é levá-lo consigo rumo a novos horizontes."
+        }
       ]
     },
     {
       "term": "insister pour",
       "definitionPt": "insistir para",
       "definitionFr": "Tenir absolument à faire quelque chose.",
-      "inflections": ["insister pour", "insiste pour", "a insisté pour"],
-      "ptTargets": ["insistir para", "insistir em"],
+      "inflections": [
+        "insister pour",
+        "insiste pour",
+        "a insisté pour"
+      ],
+      "ptTargets": [
+        "insistir para",
+        "insistir em"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Elle insiste.", "pt": "Ela insiste." },
-        { "level": "A2-B1", "fr": "Elle a insisté pour ce dîner.", "pt": "Ela insistiu para esse jantar." },
-        { "level": "B2", "fr": "Andréa avait insisté pour faire un dernier dîner avec les amis de Marseille.", "pt": "Andréa insistiu para fazer um último jantar com os amigos de Marselha." },
-        { "level": "C1-C2", "fr": "Insister pour réunir ceux qu'on aime avant de partir, c'est honorer les liens qui donnent sens à une vie.", "pt": "Insistir em reunir quem se ama antes de partir é honrar os laços que dão sentido a uma vida." }
+        {
+          "level": "A1",
+          "fr": "Elle insiste.",
+          "pt": "Ela insiste."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Elle a insisté pour ce dîner.",
+          "pt": "Ela insistiu para esse jantar."
+        },
+        {
+          "level": "B2",
+          "fr": "Andréa avait insisté pour faire un dernier dîner avec les amis de Marseille.",
+          "pt": "Andréa insistiu para fazer um último jantar com os amigos de Marselha."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Insister pour réunir ceux qu'on aime avant de partir, c'est honorer les liens qui donnent sens à une vie.",
+          "pt": "Insistir em reunir quem se ama antes de partir é honrar os laços que dão sentido a uma vida."
+        }
       ]
     },
     {
       "term": "la bouillabaisse",
       "definitionPt": "a bouillabaisse (caldeirada de peixes)",
       "definitionFr": "Soupe de poissons traditionnelle de Marseille.",
-      "inflections": ["la bouillabaisse", "les bouillabaisses"],
-      "ptTargets": ["bouillabaisse", "caldeirada de peixes"],
+      "inflections": [
+        "la bouillabaisse",
+        "les bouillabaisses"
+      ],
+      "ptTargets": [
+        "bouillabaisse",
+        "caldeirada de peixes"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La bouillabaisse est bonne.", "pt": "A bouillabaisse é boa." },
-        { "level": "A2-B1", "fr": "La bouillabaisse est un plat marseillais.", "pt": "A bouillabaisse é um prato marselhano." },
-        { "level": "B2", "fr": "Le restaurant, au bord du Vieux-Port, servait une bouillabaisse magnifique.", "pt": "O restaurante, à beira do Vieux-Port, servia uma bouillabaisse magnífica." },
-        { "level": "C1-C2", "fr": "La bouillabaisse, née de la pêche du Vieux-Port, est le symbole gourmand de l'âme marseillaise.", "pt": "A bouillabaisse, nascida da pesca do Vieux-Port, é o símbolo guloso da alma marselhesa." }
+        {
+          "level": "A1",
+          "fr": "La bouillabaisse est bonne.",
+          "pt": "A bouillabaisse é boa."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "La bouillabaisse est un plat marseillais.",
+          "pt": "A bouillabaisse é um prato marselhano."
+        },
+        {
+          "level": "B2",
+          "fr": "Le restaurant, au bord du Vieux-Port, servait une bouillabaisse magnifique.",
+          "pt": "O restaurante, à beira do Vieux-Port, servia uma bouillabaisse magnífica."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "La bouillabaisse, née de la pêche du Vieux-Port, est le symbole gourmand de l'âme marseillaise.",
+          "pt": "A bouillabaisse, nascida da pesca do Vieux-Port, é o símbolo guloso da alma marselhesa."
+        }
       ]
     },
     {
       "term": "une voisine",
       "definitionPt": "uma vizinha",
       "definitionFr": "Personne qui habite à côté de chez quelqu'un.",
-      "inflections": ["une voisine", "des voisines", "un voisin"],
-      "ptTargets": ["vizinha", "vizinhas"],
+      "inflections": [
+        "une voisine",
+        "des voisines",
+        "un voisin"
+      ],
+      "ptTargets": [
+        "vizinha",
+        "vizinhas"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Fatima est ma voisine.", "pt": "Fatima é minha vizinha." },
-        { "level": "A2-B1", "fr": "Fatima est leur voisine.", "pt": "Fatima é a vizinha deles." },
-        { "level": "B2", "fr": "Fatima, la voisine, était au dernier dîner autour de la bouillabaisse.", "pt": "Fatima, a vizinha, estava no último jantar em volta da bouillabaisse." },
-        { "level": "C1-C2", "fr": "Une voisine devient souvent plus qu'une voisine : un témoin de nos jours heureux et de nos départs.", "pt": "Uma vizinha muitas vezes se torna mais que uma vizinha: uma testemunha dos nossos dias felizes e das nossas partidas." }
+        {
+          "level": "A1",
+          "fr": "Fatima est ma voisine.",
+          "pt": "Fatima é minha vizinha."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Fatima est leur voisine.",
+          "pt": "Fatima é a vizinha deles."
+        },
+        {
+          "level": "B2",
+          "fr": "Fatima, la voisine, était au dernier dîner autour de la bouillabaisse.",
+          "pt": "Fatima, a vizinha, estava no último jantar em volta da bouillabaisse."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Une voisine devient souvent plus qu'une voisine : un témoin de nos jours heureux et de nos départs.",
+          "pt": "Uma vizinha muitas vezes se torna mais que uma vizinha: uma testemunha dos nossos dias felizes e das nossas partidas."
+        }
       ]
     },
     {
       "term": "à bientôt",
       "definitionPt": "até logo, até breve",
       "definitionFr": "Formule de politesse pour dire qu'on se reverra bientôt.",
-      "inflections": ["à bientôt"],
-      "ptTargets": ["até logo", "até breve"],
+      "inflections": [
+        "à bientôt"
+      ],
+      "ptTargets": [
+        "até logo",
+        "até breve"
+      ],
       "examples": [
-        { "level": "A1", "fr": "À bientôt !", "pt": "Até logo!" },
-        { "level": "A2-B1", "fr": "À bientôt, mes amis !", "pt": "Até logo, meus amigos!" },
-        { "level": "B2", "fr": "'À Marseille, on ne dit pas adieu, on dit à bientôt', avait dit Fatima.", "pt": "'Em Marselha, não se diz adeus, se diz até logo', disse Fatima." },
-        { "level": "C1-C2", "fr": "Préférer 'à bientôt' à 'adieu', c'est faire de chaque séparation une promesse de retrouvailles.", "pt": "Preferir 'até logo' a 'adeus' é fazer de cada despedida uma promessa de reencontro." }
+        {
+          "level": "A1",
+          "fr": "À bientôt, nous nous retrouverons devant le Vieux-Port !",
+          "pt": "Até logo, vamos nos reencontrar diante do Vieux-Port!"
+        },
+        {
+          "level": "A2-B1",
+          "fr": "À bientôt, mes amis !",
+          "pt": "Até logo, meus amigos!"
+        },
+        {
+          "level": "B2",
+          "fr": "'À Marseille, on ne dit pas adieu, on dit à bientôt', avait dit Fatima.",
+          "pt": "'Em Marselha, não se diz adeus, se diz até logo', disse Fatima."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Préférer 'à bientôt' à 'adieu', c'est faire de chaque séparation une promesse de retrouvailles.",
+          "pt": "Preferir 'até logo' a 'adeus' é fazer de cada despedida uma promessa de reencontro."
+        }
       ]
     },
     {
       "term": "une balade à pied",
       "definitionPt": "uma caminhada a pé",
       "definitionFr": "Promenade tranquille sans moyen de transport.",
-      "inflections": ["une balade à pied", "des balades à pied"],
-      "ptTargets": ["caminhada a pé", "passeio a pé"],
+      "inflections": [
+        "une balade à pied",
+        "des balades à pied"
+      ],
+      "ptTargets": [
+        "caminhada a pé",
+        "passeio a pé"
+      ],
       "examples": [
-        { "level": "A1", "fr": "J'aime la balade à pied.", "pt": "Eu gosto de caminhada a pé." },
-        { "level": "A2-B1", "fr": "Il a fait une balade à pied.", "pt": "Ele fez uma caminhada a pé." },
-        { "level": "B2", "fr": "Le matin du départ, Irlan avait fait une dernière balade à pied dans le quartier.", "pt": "Na manhã da partida, Irlan fez uma última caminhada a pé pelo bairro." },
-        { "level": "C1-C2", "fr": "La balade à pied est la manière la plus intime de dire adieu aux rues qui ont vu grandir notre histoire.", "pt": "A caminhada a pé é a maneira mais íntima de se despedir das ruas que viram nossa história crescer." }
+        {
+          "level": "A1",
+          "fr": "J'aime la balade à pied.",
+          "pt": "Eu gosto de caminhada a pé."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Il a fait une balade à pied.",
+          "pt": "Ele fez uma caminhada a pé."
+        },
+        {
+          "level": "B2",
+          "fr": "Le matin du départ, Irlan avait fait une dernière balade à pied dans le quartier.",
+          "pt": "Na manhã da partida, Irlan fez uma última caminhada a pé pelo bairro."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "La balade à pied est la manière la plus intime de dire adieu aux rues qui ont vu grandir notre histoire.",
+          "pt": "A caminhada a pé é a maneira mais íntima de se despedir das ruas que viram nossa história crescer."
+        }
       ]
     },
     {
       "term": "plaisanter",
       "definitionPt": "brincar, gracejar",
       "definitionFr": "Dire des choses amusantes sans être sérieux.",
-      "inflections": ["je plaisante", "nous plaisantons", "il a plaisanté"],
-      "ptTargets": ["brincar", "gracejar", "zombar"],
+      "inflections": [
+        "je plaisante",
+        "nous plaisantons",
+        "il a plaisanté"
+      ],
+      "ptTargets": [
+        "brincar",
+        "gracejar",
+        "zombar"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Il plaisante toujours.", "pt": "Ele sempre brinca." },
-        { "level": "A2-B1", "fr": "Il a plaisanté sur le café.", "pt": "Ele brincou sobre o café." },
-        { "level": "B2", "fr": "'Quand tu reviens, le café est pour moi', avait plaisanté Karim.", "pt": "'Quando você voltar, o café é por minha conta', brincou Karim." },
-        { "level": "C1-C2", "fr": "Plaisanter, même au moment des adieux, est une façon élégante d'apprivoiser l'émotion.", "pt": "Brincar, mesmo no momento das despedidas, é uma forma elegante de domar a emoção." }
+        {
+          "level": "A1",
+          "fr": "Il plaisante toujours.",
+          "pt": "Ele sempre brinca."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Il a plaisanté sur le café.",
+          "pt": "Ele brincou sobre o café."
+        },
+        {
+          "level": "B2",
+          "fr": "'Quand tu reviens, le café est pour moi', avait plaisanté Karim.",
+          "pt": "'Quando você voltar, o café é por minha conta', brincou Karim."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Plaisanter, même au moment des adieux, est une façon élégante d'apprivoiser l'émotion.",
+          "pt": "Brincar, mesmo no momento das despedidas, é uma forma elegante de domar a emoção."
+        }
       ]
     },
     {
       "term": "une certitude",
       "definitionPt": "uma certeza",
       "definitionFr": "Chose dont on est absolument sûr.",
-      "inflections": ["une certitude", "des certitudes"],
-      "ptTargets": ["certeza", "certezas"],
+      "inflections": [
+        "une certitude",
+        "des certitudes"
+      ],
+      "ptTargets": [
+        "certeza",
+        "certezas"
+      ],
       "examples": [
-        { "level": "A1", "fr": "C'est une certitude.", "pt": "É uma certeza." },
-        { "level": "A2-B1", "fr": "Une certitude reste.", "pt": "Uma certeza permanece." },
-        { "level": "B2", "fr": "Marseille s'éloignait, mais une certitude restait : ils reviendraient.", "pt": "Marselha se afastava, mas uma certeza permanecia: eles voltariam." },
-        { "level": "C1-C2", "fr": "Dans le tumulte des départs, seule demeure une certitude : les liens tissés ici ne se défont jamais.", "pt": "No tumulto das partidas, só permanece uma certeza: os laços tecidos aqui nunca se desfazem." }
+        {
+          "level": "A1",
+          "fr": "C'est une certitude.",
+          "pt": "É uma certeza."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Une certitude reste.",
+          "pt": "Uma certeza permanece."
+        },
+        {
+          "level": "B2",
+          "fr": "Marseille s'éloignait, mais une certitude restait : ils reviendraient.",
+          "pt": "Marselha se afastava, mas uma certeza permanecia: eles voltariam."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Dans le tumulte des départs, seule demeure une certitude : les liens tissés ici ne se défont jamais.",
+          "pt": "No tumulto das partidas, só permanece uma certeza: os laços tecidos aqui nunca se desfazem."
+        }
       ]
     }
   ],
@@ -260,7 +819,11 @@
     "exampleFr": "Irlan veut qu'Andréa garde ses souvenirs de Marseille.",
     "examplePt": "Irlan quer que Andréa guarde suas lembranças de Marselha.",
     "practiceQuestion": "Complete: « Elle demande qu'on ___ à l'heure. »",
-    "options": ["vienne", "vient", "viendra"],
+    "options": [
+      "vienne",
+      "vient",
+      "viendra"
+    ],
     "correctIndex": 0,
     "points": [
       {
@@ -269,7 +832,11 @@
         "exampleFr": "Andréa voulait qu'ils fassent un dernier dîner entre amis.",
         "examplePt": "Andréa queria que eles fizessem um último jantar entre amigos.",
         "practiceQuestion": "Complete: « Je veux que vous ___ prêts à l'heure. »",
-        "options": ["soyez", "êtes", "serez"],
+        "options": [
+          "soyez",
+          "êtes",
+          "serez"
+        ],
         "correctIndex": 0
       },
       {
@@ -278,7 +845,11 @@
         "exampleFr": "Andréa demande qu'on colle encore une ville sur la valise.",
         "examplePt": "Andréa pede que se cole mais uma cidade na mala.",
         "practiceQuestion": "Complete: « Je demande qu'il ___ de bonne heure. »",
-        "options": ["parte", "part", "partira"],
+        "options": [
+          "parte",
+          "part",
+          "partira"
+        ],
         "correctIndex": 0
       }
     ]
@@ -286,31 +857,51 @@
   "quizQuestions": [
     {
       "question": "Qui a acheté la scooter d'Irlan ?",
-      "options": ["Un jeune livreur", "Un collectionneur", "Un musée"],
+      "options": [
+        "Un jeune livreur",
+        "Un collectionneur",
+        "Un musée"
+      ],
       "correctIndex": 0,
       "explanation": "Irlan a vendu sa scooter à un jeune livreur qui va continuer à servir Marseille."
     },
     {
       "question": "Où la famille prend-elle le TGV ?",
-      "options": ["À la gare Saint-Charles", "À la gare du Nord", "À la gare de Lyon"],
+      "options": [
+        "À la gare Saint-Charles",
+        "À la gare du Nord",
+        "À la gare de Lyon"
+      ],
       "correctIndex": 0,
       "explanation": "La famille prend le TGV à la gare Saint-Charles de Marseille pour aller à Strasbourg."
     },
     {
       "question": "Que dit Fatima à propos des adieux à Marseille ?",
-      "options": ["On ne dit pas adieu, on dit à bientôt", "Il faut partir sans se retourner", "Les adieux sont tristes"],
+      "options": [
+        "On ne dit pas adieu, on dit à bientôt",
+        "Il faut partir sans se retourner",
+        "Les adieux sont tristes"
+      ],
       "correctIndex": 0,
       "explanation": "Fatima dit : 'À Marseille, on ne dit pas adieu, on dit à bientôt'."
     },
     {
       "question": "Complete: « Je veux qu'Andréa ___ ses souvenirs de Marseille. »",
-      "options": ["garde", "gardera", "gardait"],
+      "options": [
+        "garde",
+        "gardera",
+        "gardait"
+      ],
       "correctIndex": 0,
       "explanation": "Après 'vouloir que', on utilise le subjonctif : 'garde'."
     },
     {
       "question": "Que fait Irlan le matin du départ ?",
-      "options": ["Une dernière balade à pied dans le quartier", "Une dernière course en scooter", "Une visite au stade"],
+      "options": [
+        "Une dernière balade à pied dans le quartier",
+        "Une dernière course en scooter",
+        "Une visite au stade"
+      ],
       "correctIndex": 0,
       "explanation": "Irlan fait une dernière balade à pied dans le quartier et achète un café chez son barista habituel."
     }

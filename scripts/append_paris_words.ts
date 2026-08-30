@@ -54,12 +54,10 @@ const lesson25Path = path.join(process.cwd(), 'src/data/paris_lesson_25.json');
 const lesson25Data = JSON.parse(fs.readFileSync(lesson25Path, 'utf8'));
 
 for (const w of newWords) {
-  const examples = [
-    { level: "A1", fr: `C'est un exemple avec ${w.term}.`, pt: `É um exemplo com ${w.defPt}.` },
-    { level: "A2-B1", fr: `À Paris, nous voyons souvent ${w.term}.`, pt: `Em Paris, nós vemos frequentemente ${w.defPt}.` },
-    { level: "B2", fr: `L'expérience de ${w.term} fait partie du charme parisien.`, pt: `A experiência de ${w.defPt} faz parte do charme parisiense.` },
-    { level: "C1-C2", fr: `Dans la tradition urbaine, ${w.term} illustre le patrimoine de la capitale.`, pt: `Na tradição urbana, ${w.defPt} ilustra o patrimônio da capital.` }
-  ];
+  // Regra 13 da bíblia: sem exemplos fabricados de metalinguagem ("C'est un
+  // exemple avec X", "À Paris, nous voyons souvent X"). Sem curadoria, fica
+  // vazio — o autor preenche os 4 exemplos reais no masterExamplesDictionary.
+  const examples: Array<{ level: string; fr: string; pt: string }> = [];
   lesson25Data.vocabularyDictionary.push({
     term: w.term,
     definitionPt: w.defPt,
@@ -77,12 +75,10 @@ let tsContent = fs.readFileSync(path.join(process.cwd(), 'src/data/lessonDiction
 tsContent = tsContent.replace(/};\s*$/, '');
 
 for (const w of newWords) {
-  const examples = [
-    { level: "A1", fr: `C'est un exemple avec ${w.term}.`, pt: `É um exemplo com ${w.defPt}.` },
-    { level: "A2-B1", fr: `À Paris, nous voyons souvent ${w.term}.`, pt: `Em Paris, nós vemos frequentemente ${w.defPt}.` },
-    { level: "B2", fr: `L'expérience de ${w.term} fait partie du charme parisien.`, pt: `A experiência de ${w.defPt} faz parte do charme parisiense.` },
-    { level: "C1-C2", fr: `Dans la tradition urbaine, ${w.term} illustre le patrimoine de la capitale.`, pt: `Na tradição urbana, ${w.defPt} ilustra o patrimônio da capital.` }
-  ];
+  // Regra 13 da bíblia: sem exemplos fabricados de metalinguagem ("C'est un
+  // exemple avec X", "À Paris, nous voyons souvent X"). Sem curadoria, fica
+  // vazio — o autor preenche os 4 exemplos reais no masterExamplesDictionary.
+  const examples: Array<{ level: string; fr: string; pt: string }> = [];
   const key = w.term.toLowerCase().trim();
   const keyFormatted = /^[a-zA-Z_$][a-zA-Z0-9_$]*$/.test(key) ? key : JSON.stringify(key);
   tsContent += `  ${keyFormatted}: {\n`;

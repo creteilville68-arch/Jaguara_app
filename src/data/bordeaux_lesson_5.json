@@ -28,8 +28,8 @@
       "id": 4,
       "fr": "Au comptoir, le couple a dégusté des huîtres avec un verre de blanc. « Elles nous rappellent l'océan », a murmuré Andréa. « Demain, nous pourrions aller à la Cité du Vin ou visiter le quartier des Chartrons », a proposé Irlan.",
       "pt": "No balcão, o casal degustou ostras com uma taça de branco. « Elas nos lembram o oceano », murmurou Andréa. « Amanhã, poderíamos ir à Cité du Vin ou visitar o bairro dos Chartrons », propôs Irlan."
-    }
-    ,{
+    },
+    {
       "id": 5,
       "fr": "Au marché, une vendeuse conviviale propose une offre spéciale. Irlan compare le prix avec celui du commerce en ligne.",
       "pt": "No mercado, uma vendedora sociável oferece uma oferta especial. Irlan compara o preço com o do comércio eletrônico."
@@ -50,156 +50,414 @@
       "term": "le marché",
       "definitionPt": "o mercado",
       "definitionFr": "Lieu où l'on vend des produits.",
-      "inflections": ["le marché", "les marchés"],
-      "ptTargets": ["mercado"],
+      "inflections": [
+        "le marché",
+        "les marchés"
+      ],
+      "ptTargets": [
+        "mercado"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le marché est ouvert.", "pt": "O mercado está aberto." },
-        { "level": "A2-B1", "fr": "Le marché des Capucins est célèbre à Bordeaux.", "pt": "O mercado dos Capuchinhos é famoso em Bordeaux." },
-        { "level": "B2", "fr": "Le marché, qui ouvre tôt le matin, sent bon le pain et le fromage.", "pt": "O mercado, que abre cedo de manhã, cheira a pão e queijo." },
-        { "level": "C1-C2", "fr": "Les marchés couverts du XIXe siècle structurent la vie sociale des villes françaises.", "pt": "Os mercados cobertos do século XIX estruturam a vida social das cidades francesas." }
+        {
+          "level": "A1",
+          "fr": "Le marché est ouvert.",
+          "pt": "O mercado está aberto."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Le marché des Capucins est célèbre à Bordeaux.",
+          "pt": "O mercado dos Capuchinhos é famoso em Bordeaux."
+        },
+        {
+          "level": "B2",
+          "fr": "Le marché, qui ouvre tôt le matin, sent bon le pain et le fromage.",
+          "pt": "O mercado, que abre cedo de manhã, cheira a pão e queijo."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Les marchés couverts du XIXe siècle structurent la vie sociale des villes françaises.",
+          "pt": "Os mercados cobertos do século XIX estruturam a vida social das cidades francesas."
+        }
       ]
     },
     {
       "term": "l'huître",
       "definitionPt": "a ostra",
       "definitionFr": "Coquillage comestible.",
-      "inflections": ["l'huître", "les huîtres"],
-      "ptTargets": ["ostra"],
+      "inflections": [
+        "l'huître",
+        "les huîtres"
+      ],
+      "ptTargets": [
+        "ostra"
+      ],
       "examples": [
-        { "level": "A1", "fr": "L'huître est fraîche.", "pt": "A ostra é fresca." },
-        { "level": "A2-B1", "fr": "Les huîtres du Bassin d'Arcachon sont réputées.", "pt": "As ostras da Bacia de Arcachon são famosas." },
-        { "level": "B2", "fr": "Les huîtres, que l'on sert avec du citron, sont un plaisir d'hiver.", "pt": "As ostras, que se servem com limão, são um prazer de inverno." },
-        { "level": "C1-C2", "fr": "L'ostréiculture du Bassin d'Arcachon est un savoir-faire transmis depuis le XIXe siècle.", "pt": "A ostreicultura da Bacia de Arcachon é um saber-fazer transmitido desde o século XIX." }
+        {
+          "level": "A1",
+          "fr": "L'huître est fraîche.",
+          "pt": "A ostra é fresca."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Les huîtres du Bassin d'Arcachon sont réputées.",
+          "pt": "As ostras da Bacia de Arcachon são famosas."
+        },
+        {
+          "level": "B2",
+          "fr": "Les huîtres, que l'on sert avec du citron, sont un plaisir d'hiver.",
+          "pt": "As ostras, que se servem com limão, são um prazer de inverno."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "L'ostréiculture du Bassin d'Arcachon est un savoir-faire transmis depuis le XIXe siècle.",
+          "pt": "A ostreicultura da Bacia de Arcachon é um saber-fazer transmitido desde o século XIX."
+        }
       ]
     },
     {
       "term": "le fromager",
       "definitionPt": "o queijeiro",
       "definitionFr": "Commerçant qui vend des fromages.",
-      "inflections": ["le fromager", "les fromagers"],
-      "ptTargets": ["queijeiro"],
+      "inflections": [
+        "le fromager",
+        "les fromagers"
+      ],
+      "ptTargets": [
+        "queijeiro"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le fromager conseille.", "pt": "O queijeiro aconselha." },
-        { "level": "A2-B1", "fr": "Andréa a demandé un conseil au fromager.", "pt": "Andréa pediu um conselho ao queijeiro." },
-        { "level": "B2", "fr": "Le fromager, qui affine ses fromages lui-même, est un passionné.", "pt": "O queijeiro, que matura seus queijos ele mesmo, é um apaixonado." },
-        { "level": "C1-C2", "fr": "Le métier de fromager affineur exige une mémoire des terroirs et des saisons.", "pt": "A profissão de queijeiro-maturador exige uma memória dos terroirs e das estações." }
+        {
+          "level": "A1",
+          "fr": "Le fromager conseille.",
+          "pt": "O queijeiro aconselha."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Andréa a demandé un conseil au fromager.",
+          "pt": "Andréa pediu um conselho ao queijeiro."
+        },
+        {
+          "level": "B2",
+          "fr": "Le fromager, qui affine ses fromages lui-même, est un passionné.",
+          "pt": "O queijeiro, que matura seus queijos ele mesmo, é um apaixonado."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Le métier de fromager affineur exige une mémoire des terroirs et des saisons.",
+          "pt": "A profissão de queijeiro-maturador exige uma memória dos terroirs e das estações."
+        }
       ]
     },
     {
       "term": "le fromage",
       "definitionPt": "o queijo",
       "definitionFr": "Aliment fait de lait caillé.",
-      "inflections": ["le fromage", "les fromages"],
-      "ptTargets": ["queijo"],
+      "inflections": [
+        "le fromage",
+        "les fromages"
+      ],
+      "ptTargets": [
+        "queijo"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le fromage est bon.", "pt": "O queijo é bom." },
-        { "level": "A2-B1", "fr": "La France produit plus de mille fromages.", "pt": "A França produz mais de mil queijos." },
-        { "level": "B2", "fr": "Le fromage, que l'on sert avant le dessert, est une tradition française.", "pt": "O queijo, que se serve antes da sobremesa, é uma tradição francesa." },
-        { "level": "C1-C2", "fr": "« Un dessert sans fromage est une belle à qui il manque un œil », disait Brillat-Savarin.", "pt": "« Uma sobremesa sem queijo é uma bela a quem falta um olho », dizia Brillat-Savarin." }
+        {
+          "level": "A1",
+          "fr": "Le fromage est bon.",
+          "pt": "O queijo é bom."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "La France produit plus de mille fromages.",
+          "pt": "A França produz mais de mil queijos."
+        },
+        {
+          "level": "B2",
+          "fr": "Le fromage, que l'on sert avant le dessert, est une tradition française.",
+          "pt": "O queijo, que se serve antes da sobremesa, é uma tradição francesa."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "« Un dessert sans fromage est une belle à qui il manque un œil », disait Brillat-Savarin.",
+          "pt": "« Uma sobremesa sem queijo é uma bela a quem falta um olho », dizia Brillat-Savarin."
+        }
       ]
     },
     {
       "term": "conseiller",
       "definitionPt": "aconselhar",
       "definitionFr": "Donner un avis.",
-      "inflections": ["je conseille", "nous conseillons"],
-      "ptTargets": ["aconselhar", "aconselha"],
+      "inflections": [
+        "je conseille",
+        "nous conseillons"
+      ],
+      "ptTargets": [
+        "aconselhar",
+        "aconselha"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Je conseille ce fromage.", "pt": "Eu aconselho este queijo." },
-        { "level": "A2-B1", "fr": "Le fromager lui a conseillé un brebis.", "pt": "O queijeiro lhe aconselhou um queijo de ovelha." },
-        { "level": "B2", "fr": "Je vous conseille de goûter les huîtres avec un vin blanc sec.", "pt": "Eu lhes aconselho provar as ostras com um vinho branco seco." },
-        { "level": "C1-C2", "fr": "Savoir conseiller, c'est écouter le désir de l'autre avant de proposer.", "pt": "Saber aconselhar é escutar o desejo do outro antes de propor." }
+        {
+          "level": "A1",
+          "fr": "Je conseille ce fromage.",
+          "pt": "Eu aconselho este queijo."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Le fromager lui a conseillé un brebis.",
+          "pt": "O queijeiro lhe aconselhou um queijo de ovelha."
+        },
+        {
+          "level": "B2",
+          "fr": "Je vous conseille de goûter les huîtres avec un vin blanc sec.",
+          "pt": "Eu lhes aconselho provar as ostras com um vinho branco seco."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Savoir conseiller, c'est écouter le désir de l'autre avant de proposer.",
+          "pt": "Saber aconselhar é escutar o desejo do outro antes de propor."
+        }
       ]
     },
     {
       "term": "trancher",
       "definitionPt": "fatiar, cortar",
       "definitionFr": "Couper en tranches.",
-      "inflections": ["je tranche", "nous tranchons"],
-      "ptTargets": ["fatiar", "cortar"],
+      "inflections": [
+        "je tranche",
+        "nous tranchons"
+      ],
+      "ptTargets": [
+        "fatiar",
+        "cortar"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Je tranche le pain.", "pt": "Eu corto o pão." },
-        { "level": "A2-B1", "fr": "Je vous le tranche finement ?", "pt": "Eu o corto fininho para vocês?" },
-        { "level": "B2", "fr": "Le fromager tranche le fromage en fines lamelles.", "pt": "O queijeiro fatiou o queijo em lascas finas." },
-        { "level": "C1-C2", "fr": "Trancher le fromage à la main préserve ses arômes mieux que la lame mécanique.", "pt": "Fatiar o queijo à mão preserva seus aromas melhor que a lâmina mecânica." }
+        {
+          "level": "A1",
+          "fr": "Je tranche le pain.",
+          "pt": "Eu corto o pão."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Je vous le tranche finement ?",
+          "pt": "Eu o corto fininho para vocês?"
+        },
+        {
+          "level": "B2",
+          "fr": "Le fromager tranche le fromage en fines lamelles.",
+          "pt": "O queijeiro fatiou o queijo em lascas finas."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Trancher le fromage à la main préserve ses arômes mieux que la lame mécanique.",
+          "pt": "Fatiar o queijo à mão preserva seus aromas melhor que a lâmina mecânica."
+        }
       ]
     },
     {
       "term": "le pâtissier",
       "definitionPt": "o confeiteiro, a confeitaria",
       "definitionFr": "Personne qui fait des gâteaux.",
-      "inflections": ["le pâtissier", "les pâtissiers"],
-      "ptTargets": ["confeiteiro", "confeitaria"],
+      "inflections": [
+        "le pâtissier",
+        "les pâtissiers"
+      ],
+      "ptTargets": [
+        "confeiteiro",
+        "confeitaria"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le pâtissier est gentil.", "pt": "O confeiteiro é gentil." },
-        { "level": "A2-B1", "fr": "Irlan a acheté des canelés chez le pâtissier.", "pt": "Irlan comprou canelés na confeitaria." },
-        { "level": "B2", "fr": "Le pâtissier, qui travaille depuis l'aube, prépare des gâteaux délicats.", "pt": "O confeiteiro, que trabalha desde a madrugada, prepara bolos delicados." },
-        { "level": "C1-C2", "fr": "Le pâtissier bordelais perpétue la recette du canelé dans son moule en cuivre.", "pt": "O confeiteiro de Bordeaux perpetua a receita do canelé em sua forma de cobre." }
+        {
+          "level": "A1",
+          "fr": "Le pâtissier est gentil.",
+          "pt": "O confeiteiro é gentil."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Irlan a acheté des canelés chez le pâtissier.",
+          "pt": "Irlan comprou canelés na confeitaria."
+        },
+        {
+          "level": "B2",
+          "fr": "Le pâtissier, qui travaille depuis l'aube, prépare des gâteaux délicats.",
+          "pt": "O confeiteiro, que trabalha desde a madrugada, prepara bolos delicados."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Le pâtissier bordelais perpétue la recette du canelé dans son moule en cuivre.",
+          "pt": "O confeiteiro de Bordeaux perpetua a receita do canelé em sua forma de cobre."
+        }
       ]
     },
     {
       "term": "délicieux",
       "definitionPt": "delicioso",
       "definitionFr": "Très bon à manger.",
-      "inflections": ["délicieux", "délicieuse"],
-      "ptTargets": ["delicioso", "deliciosa"],
+      "inflections": [
+        "délicieux",
+        "délicieuse"
+      ],
+      "ptTargets": [
+        "delicioso",
+        "deliciosa"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le gâteau est délicieux.", "pt": "O bolo é delicioso." },
-        { "level": "A2-B1", "fr": "Le canelé est délicieux.", "pt": "O canelé é delicioso." },
-        { "level": "B2", "fr": "Ce fromage, qui est délicieux, fond sur le pain.", "pt": "Este queijo, que é delicioso, derrete no pão." },
-        { "level": "C1-C2", "fr": "La cuisine du Sud-Ouest, généreuse et délicieuse, est un art de vivre.", "pt": "A cozinha do Sudoeste, generosa e deliciosa, é uma arte de viver." }
+        {
+          "level": "A1",
+          "fr": "Le gâteau est délicieux.",
+          "pt": "O bolo é delicioso."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Le canelé est délicieux.",
+          "pt": "O canelé é delicioso."
+        },
+        {
+          "level": "B2",
+          "fr": "Ce fromage, qui est délicieux, fond sur le pain.",
+          "pt": "Este queijo, que é delicioso, derrete no pão."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "La cuisine du Sud-Ouest, généreuse et délicieuse, est un art de vivre.",
+          "pt": "A cozinha do Sudoeste, generosa e deliciosa, é uma arte de viver."
+        }
       ]
     },
     {
       "term": "le comptoir",
       "definitionPt": "o balcão",
       "definitionFr": "Table longue d'un commerce.",
-      "inflections": ["le comptoir", "les comptoirs"],
-      "ptTargets": ["balcão"],
+      "inflections": [
+        "le comptoir",
+        "les comptoirs"
+      ],
+      "ptTargets": [
+        "balcão"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le comptoir est en bois.", "pt": "O balcão é de madeira." },
-        { "level": "A2-B1", "fr": "La famille a dégusté les huîtres au comptoir.", "pt": "A família degustou as ostras no balcão." },
-        { "level": "B2", "fr": "Le comptoir, où l'on boit un verre debout, est une tradition française.", "pt": "O balcão, onde se bebe um copo em pé, é uma tradição francesa." },
-        { "level": "C1-C2", "fr": "Le comptoir du marché est le théâtre des conversations populaires de Bordeaux.", "pt": "O balcão do mercado é o teatro das conversas populares de Bordeaux." }
+        {
+          "level": "A1",
+          "fr": "Le comptoir est en bois.",
+          "pt": "O balcão é de madeira."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "La famille a dégusté les huîtres au comptoir.",
+          "pt": "A família degustou as ostras no balcão."
+        },
+        {
+          "level": "B2",
+          "fr": "Le comptoir, où l'on boit un verre debout, est une tradition française.",
+          "pt": "O balcão, onde se bebe um copo em pé, é uma tradição francesa."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Le comptoir du marché est le théâtre des conversations populaires de Bordeaux.",
+          "pt": "O balcão do mercado é o teatro das conversas populares de Bordeaux."
+        }
       ]
     },
     {
       "term": "l'océan",
       "definitionPt": "o oceano",
       "definitionFr": "Vaste étendue d'eau salée.",
-      "inflections": ["l'océan", "les océans"],
-      "ptTargets": ["oceano"],
+      "inflections": [
+        "l'océan",
+        "les océans"
+      ],
+      "ptTargets": [
+        "oceano"
+      ],
       "examples": [
-        { "level": "A1", "fr": "L'océan est bleu.", "pt": "O oceano é azul." },
-        { "level": "A2-B1", "fr": "Les huîtres rappellent l'océan.", "pt": "As ostras lembram o oceano." },
-        { "level": "B2", "fr": "L'océan, que l'on sent dans le sel des huîtres, est à une heure de Bordeaux.", "pt": "O oceano, que se sente no sal das ostras, fica a uma hora de Bordeaux." },
-        { "level": "C1-C2", "fr": "Entre océan et estuaire, le Bassin d'Arcachon offre un écosystème unique.", "pt": "Entre oceano e estuário, a Bacia de Arcachon oferece um ecossistema único." }
+        {
+          "level": "A1",
+          "fr": "L'océan est bleu.",
+          "pt": "O oceano é azul."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Les huîtres rappellent l'océan.",
+          "pt": "As ostras lembram o oceano."
+        },
+        {
+          "level": "B2",
+          "fr": "L'océan, que l'on sent dans le sel des huîtres, est à une heure de Bordeaux.",
+          "pt": "O oceano, que se sente no sal das ostras, fica a uma hora de Bordeaux."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Entre océan et estuaire, le Bassin d'Arcachon offre un écosystème unique.",
+          "pt": "Entre oceano e estuário, a Bacia de Arcachon oferece um ecossistema único."
+        }
       ]
     },
     {
       "term": "le ventre",
       "definitionPt": "a barriga, o ventre",
       "definitionFr": "Partie du corps ; centre.",
-      "inflections": ["le ventre", "les ventres"],
-      "ptTargets": ["barriga", "ventre"],
+      "inflections": [
+        "le ventre",
+        "les ventres"
+      ],
+      "ptTargets": [
+        "barriga",
+        "ventre"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le ventre a faim.", "pt": "A barriga tem fome." },
-        { "level": "A2-B1", "fr": "Le marché des Capucins est le ventre de Bordeaux.", "pt": "O mercado dos Capuchinhos é o ventre de Bordeaux." },
-        { "level": "B2", "fr": "Le ventre de la ville, c'est là où bat son cœur gourmand.", "pt": "O ventre da cidade é onde bate seu coração guloso." },
-        { "level": "C1-C2", "fr": "L'expression « ventre de Bordeaux » doit sa fortune au goût des Bordelais pour la bonne chère.", "pt": "A expressão « ventre de Bordeaux » deve sua fortuna ao gosto dos bordeleses pela boa mesa." }
+        {
+          "level": "A1",
+          "fr": "Le ventre a faim.",
+          "pt": "A barriga tem fome."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Le marché des Capucins est le ventre de Bordeaux.",
+          "pt": "O mercado dos Capuchinhos é o ventre de Bordeaux."
+        },
+        {
+          "level": "B2",
+          "fr": "Le ventre de la ville, c'est là où bat son cœur gourmand.",
+          "pt": "O ventre da cidade é onde bate seu coração guloso."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "L'expression « ventre de Bordeaux » doit sa fortune au goût des Bordelais pour la bonne chère.",
+          "pt": "A expressão « ventre de Bordeaux » deve sua fortuna ao gosto dos bordeleses pela boa mesa."
+        }
       ]
     },
     {
       "term": "goûter (verbe)",
       "definitionPt": "provar",
       "definitionFr": "Essayer une saveur.",
-      "inflections": ["je goûte", "nous goûtons"],
-      "ptTargets": ["provar", "experimentar"],
+      "inflections": [
+        "je goûte",
+        "nous goûtons"
+      ],
+      "ptTargets": [
+        "provar",
+        "experimentar"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Goûte-le !", "pt": "Prova!" },
-        { "level": "A2-B1", "fr": "Andréa a goûté le premier canelé.", "pt": "Andréa provou o primeiro canelé." },
-        { "level": "B2", "fr": "Il faudrait goûter chaque fromage avant de choisir.", "pt": "Seria preciso provar cada queijo antes de escolher." },
-        { "level": "C1-C2", "fr": "Goûter, c'est ouvrir un dialogue silencieux avec le produit et son producteur.", "pt": "Provar é abrir um diálogo silencioso com o produto e seu produtor." }
+        {
+          "level": "A1",
+          "fr": "Goûte ce canelé, il est encore tiède !",
+          "pt": "Prove este canelé, ele ainda está morno!"
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Andréa a goûté le premier canelé.",
+          "pt": "Andréa provou o primeiro canelé."
+        },
+        {
+          "level": "B2",
+          "fr": "Il faudrait goûter chaque fromage avant de choisir.",
+          "pt": "Seria preciso provar cada queijo antes de escolher."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Goûter, c'est ouvrir un dialogue silencieux avec le produit et son producteur.",
+          "pt": "Provar é abrir um diálogo silencioso com o produto e seu produtor."
+        }
       ]
     }
   ],
@@ -209,7 +467,11 @@
     "exampleFr": "Le fromager lui a recommandé un vieux brebis.",
     "examplePt": "O queijeiro lhe recomendou um queijo velho de ovelha.",
     "practiceQuestion": "Complete: « Il ___ a recommandé un fromage. » (à Andréa)",
-    "options": ["lui", "leur", "les"],
+    "options": [
+      "lui",
+      "leur",
+      "les"
+    ],
     "correctIndex": 0,
     "points": [
       {
@@ -218,7 +480,11 @@
         "exampleFr": "Elle le lui a tendu en riant.",
         "examplePt": "Ela o entregou a ela rindo.",
         "practiceQuestion": "Complete: « Elle ___ a tendu. » (le canelé à Andréa)",
-        "options": ["le lui", "lui le", "la leur"],
+        "options": [
+          "le lui",
+          "lui le",
+          "la leur"
+        ],
         "correctIndex": 0
       },
       {
@@ -227,7 +493,11 @@
         "exampleFr": "Ces huîtres nous rappellent l'océan.",
         "examplePt": "Estas ostras nos lembram o oceano.",
         "practiceQuestion": "Complete: « Ces huîtres ___ rappellent l'océan. »",
-        "options": ["nous", "vous", "leur"],
+        "options": [
+          "nous",
+          "vous",
+          "leur"
+        ],
         "correctIndex": 0
       }
     ]
@@ -235,31 +505,51 @@
   "quizQuestions": [
     {
       "question": "Qual é o apelido do mercado dos Capucins?",
-      "options": ["o ventre de Bordeaux", "o coração da França", "a cozinha do Sul"],
+      "options": [
+        "o ventre de Bordeaux",
+        "o coração da França",
+        "a cozinha do Sul"
+      ],
       "correctIndex": 0,
       "explanation": "O mercado é apelidado de 'ventre de Bordeaux'."
     },
     {
       "question": "De onde vêm as ostras vendidas no mercado?",
-      "options": ["da Bacia de Arcachon", "da Bretanha", "do Mediterrâneo"],
+      "options": [
+        "da Bacia de Arcachon",
+        "da Bretanha",
+        "do Mediterrâneo"
+      ],
       "correctIndex": 0,
       "explanation": "As ostras vêm do Bassin d'Arcachon."
     },
     {
       "question": "O que o fromager recomendou a Andréa?",
-      "options": ["um queijo velho de ovelha", "um roquefort", "um queijo fresco"],
+      "options": [
+        "um queijo velho de ovelha",
+        "um roquefort",
+        "um queijo fresco"
+      ],
       "correctIndex": 0,
       "explanation": "Ele recomendou um vieux brebis des Pyrénées."
     },
     {
       "question": "Complete: « Elle ___ a tendu. » (o canelé a Andréa)",
-      "options": ["le lui", "lui le", "la leur"],
+      "options": [
+        "le lui",
+        "lui le",
+        "la leur"
+      ],
       "correctIndex": 0,
       "explanation": "Ordem dos pronomes duplos: le + lui."
     },
     {
       "question": "O que as ostras lembram a Andréa?",
-      "options": ["o oceano", "o campo", "a montanha"],
+      "options": [
+        "o oceano",
+        "o campo",
+        "a montanha"
+      ],
       "correctIndex": 0,
       "explanation": "Andréa diz que as ostras lembram l'océan."
     }

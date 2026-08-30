@@ -24,7 +24,7 @@ import { masterExamplesFor, hasFourCompleteExamples } from '../src/utils/clickab
 import { lookupWordBankEntry } from '../src/data/wordBankLookup';
 
 const DATA_DIR = path.join(process.cwd(), 'src', 'data');
-const CITY_ARG = (process.argv[2] || '').trim().toLowerCase();
+const CITY_ARG = (process.argv[2] || '').trim().toLowerCase().replace(/_/g, '-');
 
 interface BacklogEntry {
   city: string;
@@ -67,7 +67,7 @@ function statsFor(city: string): CityStats {
 function auditLessonFile(filePath: string): void {
   const fileName = path.basename(filePath);
   const city = cityOf(fileName);
-  if (CITY_ARG && city !== CITY_ARG) return;
+  if (CITY_ARG && city.replace(/_/g, '-') !== CITY_ARG) return;
 
   let data: any;
   try {
@@ -114,9 +114,9 @@ function auditLessonFile(filePath: string): void {
       continue;
     }
 
-    // Pontilhada: aplica a regra do parser de clique (curadoria mestre tem
-    // prioridade absoluta, como no app).
-    const curated = masterExamplesFor(matchedTerm || text);
+    // Pontilhada: aplica a regra do parser de clique.
+    const canon = entry?.term || entry?.wordFr || '';
+    const curated = masterExamplesFor(matchedTerm || text, canon);
     if (curated) {
       entry.examples = curated;
     }

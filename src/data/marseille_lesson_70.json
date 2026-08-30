@@ -31,8 +31,8 @@
     },
     {
       "id": 5,
-      "fr": "Le soir, Irlan écrivit : « Je crains que Marseille ne me manque. J'ai peur que ma fille oublie les mots appris ici. Mais j'ai aussi la certitude que les villes quittées restent dans le cœur, comme des amis que l'on retrouve. »",
-      "pt": "À noite, Irlan escreveu: « Temo que Marseille me faça falta. Tenho medo que minha filha esqueça as palavras aprendidas aqui. Mas tenho também a certeza de que as cidades deixadas ficam no coração, como amigos que se reencontra. »"
+      "fr": "Le soir, Irlan écrivit : « Je crains que Marseille ne me manque. J'ai peur que les mots appris ici s'effacent. Mais j'ai aussi la certitude que les villes quittées restent dans le cœur, comme des amis que l'on retrouve. »",
+      "pt": "À noite, Irlan escreveu: « Temo que Marseille me faça falta. Tenho medo que as palavras aprendidas aqui se apaguem. Mas tenho também a certeza de que as cidades deixadas ficam no coração, como amigos que se reencontram. »"
     },
     {
       "id": 6,
@@ -55,7 +55,7 @@
       "examples": [
         { "level": "A1", "fr": "Le tour est court.", "pt": "O passeio é curto." },
         { "level": "A2-B1", "fr": "Il a fait le tour de la ville.", "pt": "Ele fez o giro pela cidade." },
-        { "level": "B2", "fr": "Le tour, fait une dernière fois, avait le goût des adieux.", "pt": "O passeio, feito uma última vez, tinha o gosto das despedidas." },
+        { "level": "B2", "fr": "Fait une dernière fois avant le départ, ce tour du port avait le goût des adieux.", "pt": "Feito uma última vez antes da partida, esse passeio pelo porto tinha o gosto das despedidas." },
         { "level": "C1-C2", "fr": "C'est au dernier tour que l'on mesure tout ce que l'on quitte.", "pt": "É no último passeio que se mede tudo o que se deixa." }
       ]
     },
@@ -205,11 +205,14 @@
   ],
   "grammarTip": {
     "ruleTitle": "Le subjonctif dans les expressions de crainte",
-    "explanationPt": "Após expressões de crença, o francês usa o subjonctif (com ne explétivo): 'je crains que Marseille ne me manque' (temo que Marseille me faça falta), 'j'ai peur que ma fille oublie les mots appris' (tenho medo que minha filha esqueça as palavras aprendidas), 'il craint que Marseille ne lui manque' (ele teme que Marseille lhe faça falta).",
-    "exampleFr": "Je crains que Marseille ne me manque ; j'ai peur que ma fille oublie les mots appris ici.",
-    "examplePt": "Temo que Marseille me faça falta; tenho medo que minha filha esqueça as palavras aprendidas aqui.",
-    "practiceQuestion": "Complete: « Irlan a peur que sa fille ___ les mots appris à Marseille. »",
-    "options": ["oublie", "oublie", "oubliera"],
+    "explanationPt": "Após expressões de crença, o francês usa o subjonctif (com ne explétivo): 'je crains que Marseille ne me manque' (temo que Marseille me faça falta), 'j'ai peur que les mots appris s'effacent' (tenho medo que as palavras aprendidas se apaguem), 'il craint que Marseille ne lui manque' (ele teme que Marseille lhe faça falta).",
+    "exampleFr": "Je crains que Marseille ne me manque ; j'ai peur que les mots appris ici s'effacent.",
+    "examplePt": "Temo que Marseille me faça falta; tenho medo que as palavras aprendidas aqui se apaguem.",
+    "practiceQuestion": "Complete: « Irlan a peur que les mots appris à Marseille ___. »","options": [
+   "s'effacent",
+   "s'effaçaient",
+   "s'effaceront"
+  ],
     "correctIndex": 0,
     "points": [
       {
@@ -223,11 +226,14 @@
       },
       {
         "ruleTitle": "Avoir peur que + subjonctif",
-        "explanationPt": "'J'ai peur que ma fille oublie les mots' : avoir peur que também exige o subjonctif.",
-        "exampleFr": "Irlan a peur que sa fille oublie les mots appris à Marseille.",
-        "examplePt": "Irlan tem medo que sua filha esqueça as palavras aprendidas em Marseille.",
-        "practiceQuestion": "Complete: « Irlan a peur que sa fille ___ les mots appris. »",
-        "options": ["oublie", "oubliait", "oubliera"],
+        "explanationPt": "'J'ai peur que les mots s'effacent' : avoir peur que também exige o subjonctif.",
+        "exampleFr": "Irlan a peur que les mots appris à Marseille s'effacent.",
+        "examplePt": "Irlan tem medo que as palavras aprendidas em Marseille se apaguem.",
+        "practiceQuestion": "Complete: « Irlan a peur que les mots appris ___. »","options": [
+   "s'effacent",
+   "s'effaçaient",
+   "s'effaceront"
+  ],
         "correctIndex": 0
       }
     ]
@@ -245,11 +251,7 @@
       "correctIndex": 0,
       "explanation": "O casal parte para Strasbourg, a décima cidade da aventura."
     },
-    {
-      "question": "Complete: « Irlan a peur que sa fille ___ les mots appris à Marseille. »",
-      "options": ["oublie", "oubliait", "oubliera"],
-      "correctIndex": 0,
-      "explanation": "Avoir peur que + subjonctif: 'oublie'."
+    {"question": "Complete: « Irlan a peur que les mots appris à Marseille ___. »", "options": ["s'effacent", "s'effaçaient", "s'effaceront"], "correctIndex": 0, "explanation": "Avoir peur que + subjonctif: 's'effacent'."
     },
     {
       "question": "O que o casal colou nas malas?",

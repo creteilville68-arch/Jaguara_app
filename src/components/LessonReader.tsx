@@ -144,6 +144,8 @@ export const LessonReader: React.FC<LessonReaderProps> = ({
       const term = getTermFromEntry(entry);
       StorageService.addWordToVocab(term, entry.definitionPt, lessonData.cityId, (entry as any).lemma || term);
     });
+    // Registra a conclusão oficial (desbloqueia a próxima lição / cidade na trilha)
+    StorageService.completeLesson(lessonData.id, lessonData.cityId);
     setLessonCompleted(true);
   };
 

@@ -7,9 +7,9 @@ Aplicativo **100% offline** de aprendizagem de francês. Sem IA, sem chaves de A
 - **Trilha imersiva pelas 11 cidades da França** — de Paris (#1) a Nice (#11), com progressão pedagógica do nível A1 ao C2 (Quadro Europeu Comum de Referência).
 - **Leitura 100% interativa** — todas as palavras do texto são clicáveis: abrem uma janela com tradução, nível CEFR e **4 exemplos progressivos (A1 → C2)**.
 - **Flashcards com repetição espaçada (Leitner)** — cada palavra e cada exemplo podem ser adicionados aos Flashcards e revisados em caixas de nível 1 a 5.
-- **Banco de palavras deduplicado por lemma** — a mesma palavra nunca é contabilizada duas vezes, mesmo quando reaparece em outras lições.
+- **Banco de palavras deduplicado por lema** — a mesma palavra nunca é contabilizada duas vezes, mesmo quando reaparece em outras lições.
 - **Evolução por cidade** — cada cidade introduz novos tempos verbais, estruturas gramaticais e vocabulário mais avançado.
-- **Enciclopédia da França (Fase 2)** — ao concluir a trilha, o aluno desbloqueia 11 dossiês temáticos (88 seções, 529 parágrafos) com história, cultura, gastronomia, esporte e vida cotidiana de cada cidade — uma camada extra de vocabulário A1–C2, separada do enredo de Irlan.
+- **Enciclopédia da França (Fase 2)** — ao concluir a trilha, o aluno desbloqueia dossiês temáticos por cidade (seções e parágrafos bilíngues) com história, cultura, gastronomia, esporte e vida cotidiana de cada cidade — uma camada extra de vocabulário A1–C2, separada do enredo de Irlan.
 
 ## Executando localmente
 

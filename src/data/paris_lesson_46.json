@@ -75,156 +75,421 @@
       "term": "épouser",
       "definitionPt": "casar-se com",
       "definitionFr": "Prendre quelqu'un pour époux ou épouse.",
-      "inflections": ["épouser", "j'épouse", "nous épousons"],
-      "ptTargets": ["casar-se com", "desposar"],
+      "inflections": [
+        "épouser",
+        "j'épouse",
+        "nous épousons"
+      ],
+      "ptTargets": [
+        "casar-se com",
+        "desposar"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Il veut l'épouser.", "pt": "Ele quer se casar com ela." },
-        { "level": "A2-B1", "fr": "Veux-tu m'épouser ?", "pt": "Quer se casar comigo?" },
-        { "level": "B2", "fr": "Ils ont choisi de s'épouser après cinq ans de vie commune.", "pt": "Eles escolheram se casar depois de cinco anos de vida em comum." },
-        { "level": "C1-C2", "fr": "C'est épouser que de s'engager, chaque jour, à marcher côte à côte.", "pt": "É casar-se que é se comprometer, todos os dias, a caminhar lado a lado." }
+        {
+          "level": "A1",
+          "fr": "Il veut l'épouser.",
+          "pt": "Ele quer se casar com ela."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Veux-tu m'épouser ?",
+          "pt": "Quer se casar comigo?"
+        },
+        {
+          "level": "B2",
+          "fr": "Ils ont choisi de s'épouser après cinq ans de vie commune.",
+          "pt": "Eles escolheram se casar depois de cinco anos de vida em comum."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est épouser que de s'engager, chaque jour, à marcher côte à côte.",
+          "pt": "É casar-se que é se comprometer, todos os dias, a caminhar lado a lado."
+        }
       ]
     },
     {
       "term": "la bague",
       "definitionPt": "a aliança (anel)",
       "definitionFr": "Anneau que l'on porte au doigt.",
-      "inflections": ["la bague", "une bague", "des bagues"],
-      "ptTargets": ["aliança", "anel"],
+      "inflections": [
+        "la bague",
+        "une bague",
+        "des bagues"
+      ],
+      "ptTargets": [
+        "aliança",
+        "anel"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La bague est brillante.", "pt": "A aliança é brilhante." },
-        { "level": "A2-B1", "fr": "Irlan passe la bague au doigt d'Andréa.", "pt": "Irlan coloca a aliança no dedo de Andréa." },
-        { "level": "B2", "fr": "Une bague simple peut porter une promesse immense.", "pt": "Uma aliança simples pode carregar uma promessa imensa." },
-        { "level": "C1-C2", "fr": "C'est la bague qui, minuscule, scelle un engagement pour toute une vie.", "pt": "É a aliança que, minúscula, sela um compromisso para uma vida inteira." }
+        {
+          "level": "A1",
+          "fr": "La bague est brillante.",
+          "pt": "A aliança é brilhante."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Irlan passe la bague au doigt d'Andréa.",
+          "pt": "Irlan coloca a aliança no dedo de Andréa."
+        },
+        {
+          "level": "B2",
+          "fr": "Une bague simple peut porter une promesse immense.",
+          "pt": "Uma aliança simples pode carregar uma promessa imensa."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Toute petite, la bague suffit pourtant à sceller un engagement pour toute une vie.",
+          "pt": "Muito pequena, a aliança basta no entanto para selar um compromisso para a vida inteira."
+        }
       ]
     },
     {
       "term": "le genou",
       "definitionPt": "o joelho",
       "definitionFr": "Articulation de la jambe.",
-      "inflections": ["le genou", "un genou", "des genoux"],
-      "ptTargets": ["joelho"],
+      "inflections": [
+        "le genou",
+        "un genou",
+        "des genoux"
+      ],
+      "ptTargets": [
+        "joelho"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le genou est plié.", "pt": "O joelho está dobrado." },
-        { "level": "A2-B1", "fr": "Irlan se met à genou devant Andréa.", "pt": "Irlan se ajoelha diante de Andréa." },
-        { "level": "B2", "fr": "Il met un genou à terre pour faire sa demande.", "pt": "Ele põe um joelho no chão para fazer o pedido." },
-        { "level": "C1-C2", "fr": "C'est à genou que l'on dit, sans détour, la plus importante des questions.", "pt": "É de joelhos que se faz, sem rodeios, a mais importante das perguntas." }
+        {
+          "level": "A1",
+          "fr": "Le genou est plié.",
+          "pt": "O joelho está dobrado."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Irlan se met à genou devant Andréa.",
+          "pt": "Irlan se ajoelha diante de Andréa."
+        },
+        {
+          "level": "B2",
+          "fr": "Il met un genou à terre pour faire sa demande.",
+          "pt": "Ele põe um joelho no chão para fazer o pedido."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est à genou que l'on dit, sans détour, la plus importante des questions.",
+          "pt": "É de joelhos que se faz, sem rodeios, a mais importante das perguntas."
+        }
       ]
     },
     {
       "term": "demander",
       "definitionPt": "perguntar / pedir",
       "definitionFr": "Poser une question ou solliciter.",
-      "inflections": ["demander", "je demande", "nous demandons"],
-      "ptTargets": ["perguntar", "pedir"],
+      "inflections": [
+        "demander",
+        "je demande",
+        "nous demandons"
+      ],
+      "ptTargets": [
+        "perguntar",
+        "pedir"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Je demande une question.", "pt": "Eu faço uma pergunta." },
-        { "level": "A2-B1", "fr": "Irlan demande à Andréa de l'épouser.", "pt": "Irlan pede Andréa em casamento." },
-        { "level": "B2", "fr": "Demander de l'aide n'est pas un signe de faiblesse.", "pt": "Pedir ajuda não é sinal de fraqueza." },
-        { "level": "C1-C2", "fr": "C'est en demandant que l'on ouvre une porte qui resterait autrement fermée.", "pt": "É perguntando que se abre uma porta que, de outro modo, ficaria fechada." }
+        {
+          "level": "A1",
+          "fr": "Je demande une question.",
+          "pt": "Eu faço uma pergunta."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Irlan demande à Andréa de l'épouser.",
+          "pt": "Irlan pede Andréa em casamento."
+        },
+        {
+          "level": "B2",
+          "fr": "Demander de l'aide n'est pas un signe de faiblesse.",
+          "pt": "Pedir ajuda não é sinal de fraqueza."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est en demandant que l'on ouvre une porte qui resterait autrement fermée.",
+          "pt": "É perguntando que se abre uma porta que, de outro modo, ficaria fechada."
+        }
       ]
     },
     {
       "term": "dire oui",
       "definitionPt": "dizer sim",
       "definitionFr": "Accepter.",
-      "inflections": ["dire oui", "je dis oui"],
-      "ptTargets": ["dizer sim"],
+      "inflections": [
+        "dire oui",
+        "je dis oui"
+      ],
+      "ptTargets": [
+        "dizer sim"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Elle dit oui.", "pt": "Ela diz sim." },
-        { "level": "A2-B1", "fr": "Andréa dit oui à Irlan.", "pt": "Andréa diz sim a Irlan." },
-        { "level": "B2", "fr": "Dire oui, c'est accepter de construire à deux.", "pt": "Dizer sim é aceitar construir a dois." },
-        { "level": "C1-C2", "fr": "C'est en disant oui que l'on engage, sans réserve, toute sa confiance.", "pt": "É dizendo sim que se empenha, sem reservas, toda a confiança." }
+        {
+          "level": "A1",
+          "fr": "Elle dit oui.",
+          "pt": "Ela diz sim."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Andréa dit oui à Irlan.",
+          "pt": "Andréa diz sim a Irlan."
+        },
+        {
+          "level": "B2",
+          "fr": "Dire oui, c'est accepter de construire à deux.",
+          "pt": "Dizer sim é aceitar construir a dois."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est en disant oui que l'on engage, sans réserve, toute sa confiance.",
+          "pt": "É dizendo sim que se empenha, sem reservas, toda a confiança."
+        }
       ]
     },
     {
       "term": "l'amour",
       "definitionPt": "o amor",
       "definitionFr": "Sentiment profond d'affection.",
-      "inflections": ["l'amour", "un amour"],
-      "ptTargets": ["amor"],
+      "inflections": [
+        "l'amour",
+        "un amour"
+      ],
+      "ptTargets": [
+        "amor"
+      ],
       "examples": [
-        { "level": "A1", "fr": "L'amour est fort.", "pt": "O amor é forte." },
-        { "level": "A2-B1", "fr": "Irlan dit son amour à Andréa.", "pt": "Irlan diz seu amor a Andréa." },
-        { "level": "B2", "fr": "L'amour grandit dans les gestes simples du quotidien.", "pt": "O amor cresce nos gestos simples do cotidiano." },
-        { "level": "C1-C2", "fr": "C'est l'amour qui, patient, transforme deux chemins en une seule carte.", "pt": "É o amor que, paciente, transforma dois caminhos num só mapa." }
+        {
+          "level": "A1",
+          "fr": "L'amour est fort.",
+          "pt": "O amor é forte."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Irlan dit son amour à Andréa.",
+          "pt": "Irlan diz seu amor a Andréa."
+        },
+        {
+          "level": "B2",
+          "fr": "L'amour grandit dans les gestes simples du quotidien.",
+          "pt": "O amor cresce nos gestos simples do cotidiano."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est l'amour qui, patient, transforme deux chemins en une seule carte.",
+          "pt": "É o amor que, paciente, transforma dois caminhos num só mapa."
+        }
       ]
     },
     {
       "term": "le cœur",
       "definitionPt": "o coração",
       "definitionFr": "Organe, ou siège des sentiments.",
-      "inflections": ["le cœur", "un cœur", "des cœurs"],
-      "ptTargets": ["coração"],
+      "inflections": [
+        "le cœur",
+        "un cœur",
+        "des cœurs"
+      ],
+      "ptTargets": [
+        "coração"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le cœur bat.", "pt": "O coração bate." },
-        { "level": "A2-B1", "fr": "Irlan a le cœur qui bat très fort.", "pt": "O coração de Irlan bate muito forte." },
-        { "level": "B2", "fr": "Le cœur s'emballe quand l'émotion est trop grande.", "pt": "O coração dispara quando a emoção é grande demais." },
-        { "level": "C1-C2", "fr": "C'est le cœur qui, avant les mots, sait ce que l'on veut vraiment dire.", "pt": "É o coração que, antes das palavras, sabe o que a gente quer realmente dizer." }
+        {
+          "level": "A1",
+          "fr": "Le cœur bat.",
+          "pt": "O coração bate."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Irlan a le cœur qui bat très fort.",
+          "pt": "O coração de Irlan bate muito forte."
+        },
+        {
+          "level": "B2",
+          "fr": "Le cœur s'emballe quand l'émotion est trop grande.",
+          "pt": "O coração dispara quando a emoção é grande demais."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est le cœur qui, avant les mots, sait ce que l'on veut vraiment dire.",
+          "pt": "É o coração que, antes das palavras, sabe o que a gente quer realmente dizer."
+        }
       ]
     },
     {
       "term": "promettre",
       "definitionPt": "prometer",
       "definitionFr": "S'engager à faire quelque chose.",
-      "inflections": ["promettre", "je promets", "nous promettons"],
-      "ptTargets": ["prometer"],
+      "inflections": [
+        "promettre",
+        "je promets",
+        "nous promettons"
+      ],
+      "ptTargets": [
+        "prometer"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Je promets.", "pt": "Eu prometo." },
-        { "level": "A2-B1", "fr": "Irlan promet de passer sa vie avec Andréa.", "pt": "Irlan promete passar a vida com Andréa." },
-        { "level": "B2", "fr": "Promettre, c'est engager sa parole.", "pt": "Prometer é empenhar a palavra." },
-        { "level": "C1-C2", "fr": "C'est en promettant que l'on offre à l'autre la confiance de l'avenir.", "pt": "É prometendo que se oferece ao outro a confiança do futuro." }
+        {
+          "level": "A1",
+          "fr": "Je promets de rester à tes côtés malgré les difficultés.",
+          "pt": "Eu prometo ficar ao seu lado apesar das dificuldades."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Irlan promet de passer sa vie avec Andréa.",
+          "pt": "Irlan promete passar a vida com Andréa."
+        },
+        {
+          "level": "B2",
+          "fr": "Promettre, c'est engager sa parole.",
+          "pt": "Prometer é empenhar a palavra."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est en promettant que l'on offre à l'autre la confiance de l'avenir.",
+          "pt": "É prometendo que se oferece ao outro a confiança do futuro."
+        }
       ]
     },
     {
       "term": "le futur",
       "definitionPt": "o futuro",
       "definitionFr": "Ce qui viendra après.",
-      "inflections": ["le futur"],
-      "ptTargets": ["futuro"],
+      "inflections": [
+        "le futur"
+      ],
+      "ptTargets": [
+        "futuro"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le futur est ouvert.", "pt": "O futuro está aberto." },
-        { "level": "A2-B1", "fr": "Ils parlent du futur ensemble.", "pt": "Eles falam do futuro juntos." },
-        { "level": "B2", "fr": "Construire le futur demande des choix communs.", "pt": "Construir o futuro exige escolhas em comum." },
-        { "level": "C1-C2", "fr": "C'est le futur qui, incertain, se laisse dessiner par ceux qui avancent ensemble.", "pt": "É o futuro que, incerto, se deixa desenhar por quem avança junto." }
+        {
+          "level": "A1",
+          "fr": "Le futur est ouvert.",
+          "pt": "O futuro está aberto."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Ils parlent du futur ensemble.",
+          "pt": "Eles falam do futuro juntos."
+        },
+        {
+          "level": "B2",
+          "fr": "Construire le futur demande des choix communs.",
+          "pt": "Construir o futuro exige escolhas em comum."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est le futur qui, incertain, se laisse dessiner par ceux qui avancent ensemble.",
+          "pt": "É o futuro que, incerto, se deixa desenhar por quem avança junto."
+        }
       ]
     },
     {
       "term": "la question",
       "definitionPt": "a pergunta",
       "definitionFr": "Phrase qui demande une réponse.",
-      "inflections": ["la question", "une question", "des questions"],
-      "ptTargets": ["pergunta", "questão"],
+      "inflections": [
+        "la question",
+        "une question",
+        "des questions"
+      ],
+      "ptTargets": [
+        "pergunta",
+        "questão"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La question est simple.", "pt": "A pergunta é simples." },
-        { "level": "A2-B1", "fr": "Irlan pose la grande question.", "pt": "Irlan faz a grande pergunta." },
-        { "level": "B2", "fr": "Une question bien posée peut changer une vie.", "pt": "Uma pergunta bem feita pode mudar uma vida." },
-        { "level": "C1-C2", "fr": "C'est la question qui, posée au bon moment, ouvre tout un avenir.", "pt": "É a pergunta que, feita na hora certa, abre todo um futuro." }
+        {
+          "level": "A1",
+          "fr": "La question est simple.",
+          "pt": "A pergunta é simples."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Irlan pose la grande question.",
+          "pt": "Irlan faz a grande pergunta."
+        },
+        {
+          "level": "B2",
+          "fr": "Une question bien posée peut changer une vie.",
+          "pt": "Uma pergunta bem feita pode mudar uma vida."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Posée au bon moment, la question peut ouvrir tout un avenir.",
+          "pt": "Feita na hora certa, a pergunta pode abrir todo um futuro."
+        }
       ]
     },
     {
       "term": "la surprise",
       "definitionPt": "a surpresa",
       "definitionFr": "Événement inattendu.",
-      "inflections": ["la surprise", "une surprise", "des surprises"],
-      "ptTargets": ["surpresa"],
+      "inflections": [
+        "la surprise",
+        "une surprise",
+        "des surprises"
+      ],
+      "ptTargets": [
+        "surpresa"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La surprise est belle.", "pt": "A surpresa é bonita." },
-        { "level": "A2-B1", "fr": "Irlan a préparé une surprise.", "pt": "Irlan preparou uma surpresa." },
-        { "level": "B2", "fr": "Garder une surprise demande de la discrétion.", "pt": "Guardar uma surpresa exige discrição." },
-        { "level": "C1-C2", "fr": "C'est la surprise qui, par sa spontanéité, transforme un soir ordinaire en souvenir.", "pt": "É a surpresa que, por sua espontaneidade, transforma uma noite comum em lembrança." }
+        {
+          "level": "A1",
+          "fr": "La surprise est belle.",
+          "pt": "A surpresa é bonita."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Irlan a préparé une surprise.",
+          "pt": "Irlan preparou uma surpresa."
+        },
+        {
+          "level": "B2",
+          "fr": "Garder une surprise demande de la discrétion.",
+          "pt": "Guardar uma surpresa exige discrição."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est la surprise qui, par sa spontanéité, transforme un soir ordinaire en souvenir.",
+          "pt": "É a surpresa que, por sua espontaneidade, transforma uma noite comum em lembrança."
+        }
       ]
     },
     {
       "term": "les larmes",
       "definitionPt": "as lágrimas",
       "definitionFr": "Gouttes qui coulent des yeux.",
-      "inflections": ["les larmes", "une larme", "des larmes"],
-      "ptTargets": ["lágrimas", "lágrima"],
+      "inflections": [
+        "les larmes",
+        "une larme",
+        "des larmes"
+      ],
+      "ptTargets": [
+        "lágrimas",
+        "lágrima"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Elle a des larmes.", "pt": "Ela tem lágrimas." },
-        { "level": "A2-B1", "fr": "Ses yeux se remplissent de larmes de joie.", "pt": "Os olhos dela se enchem de lágrimas de alegria." },
-        { "level": "B2", "fr": "Les larmes de joie disent ce que les mots n'arrivent pas à dire.", "pt": "As lágrimas de alegria dizem o que as palavras não conseguem dizer." },
-        { "level": "C1-C2", "fr": "Ce sont les larmes qui, parfois, expriment le bonheur le plus pur.", "pt": "São as lágrimas que, às vezes, expressam a felicidade mais pura." }
+        {
+          "level": "A1",
+          "fr": "Elle a des larmes.",
+          "pt": "Ela tem lágrimas."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Ses yeux se remplissent de larmes de joie.",
+          "pt": "Os olhos dela se enchem de lágrimas de alegria."
+        },
+        {
+          "level": "B2",
+          "fr": "Les larmes de joie disent ce que les mots n'arrivent pas à dire.",
+          "pt": "As lágrimas de alegria dizem o que as palavras não conseguem dizer."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Ce sont les larmes qui, parfois, expriment le bonheur le plus pur.",
+          "pt": "São as lágrimas que, às vezes, expressam a felicidade mais pura."
+        }
       ]
     }
   ],
@@ -234,7 +499,11 @@
     "exampleFr": "Nous allons nous marier.",
     "examplePt": "Vamos nos casar.",
     "practiceQuestion": "Complete: 'Ils _____ se marier.'",
-    "options": ["vont", "va", "allons"],
+    "options": [
+      "vont",
+      "va",
+      "allons"
+    ],
     "correctIndex": 0,
     "points": [
       {
@@ -243,7 +512,11 @@
         "exampleFr": "Il se met à genou devant elle.",
         "examplePt": "Ele se ajoelha diante dela.",
         "practiceQuestion": "Complete: 'Il se met _____ genou.'",
-        "options": ["à", "de", "en"],
+        "options": [
+          "à",
+          "de",
+          "en"
+        ],
         "correctIndex": 0
       },
       {
@@ -252,7 +525,11 @@
         "exampleFr": "Veux-tu m'épouser ?",
         "examplePt": "Quer se casar comigo?",
         "practiceQuestion": "Complete: '_____-tu m'épouser ?'",
-        "options": ["Veux", "Veut", "Voulez"],
+        "options": [
+          "Veux",
+          "Veut",
+          "Voulez"
+        ],
         "correctIndex": 0
       }
     ]
@@ -260,31 +537,51 @@
   "quizQuestions": [
     {
       "question": "O que Irlan esconde no bolso?",
-      "options": ["uma aliança", "um bilhete", "uma foto"],
+      "options": [
+        "uma aliança",
+        "um bilhete",
+        "uma foto"
+      ],
       "correctIndex": 0,
       "explanation": "Dans sa poche, il y a une bague."
     },
     {
       "question": "O que Irlan pergunta a Andréa?",
-      "options": ["se ela quer se casar com ele", "se ela quer viajar", "se ela quer jantar"],
+      "options": [
+        "se ela quer se casar com ele",
+        "se ela quer viajar",
+        "se ela quer jantar"
+      ],
       "correctIndex": 0,
       "explanation": "Il demande : « Veux-tu m'épouser ? »"
     },
     {
       "question": "Qual é a resposta de Andréa?",
-      "options": ["sim", "não", "talvez"],
+      "options": [
+        "sim",
+        "não",
+        "talvez"
+      ],
       "correctIndex": 0,
       "explanation": "Andréa dit : « Oui ! Oui, je veux ! »"
     },
     {
       "question": "Complete: 'Ils _____ se marier.'",
-      "options": ["vont", "va", "allons"],
+      "options": [
+        "vont",
+        "va",
+        "allons"
+      ],
       "correctIndex": 0,
       "explanation": "Ils vont se marier (futur proche)."
     },
     {
       "question": "Complete: '_____-tu m'épouser ?'",
-      "options": ["Veux", "Veut", "Voulez"],
+      "options": [
+        "Veux",
+        "Veut",
+        "Voulez"
+      ],
       "correctIndex": 0,
       "explanation": "Veux-tu m'épouser ?"
     }

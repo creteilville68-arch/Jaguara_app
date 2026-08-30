@@ -1,0 +1,150 @@
+{
+  "id": "toulouse_guide_26",
+  "cityId": "toulouse",
+  "domain": "Acadêmico",
+  "level": "Nível (B2)",
+  "titleFr": "La science et le débat à Toulouse",
+  "titlePt": "A ciência e o debate em Toulouse",
+  "subtitleFr": "Entre les laboratoires, les conférences et l'esprit critique",
+  "subtitlePt": "Entre os laboratórios, as conferências e o espírito crítico",
+  "summaryPt": "Enciclopédia de Toulouse, seção 26: o método científico, o debate de ideias, o vocabulário da análise e da argumentação na cidade dos engenheiros. Vocabulário do nível B2.",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "À Toulouse, la ville rose qui abrite le CNES et la Cité de l'espace, la recherche attire des esprits curieux du monde entier. Chaque candidat doit prouver son aptitude à analyser et son aspiration à progresser. L'estimation du potentiel d'un projet est souvent le préalable à tout financement.",
+      "pt": "Em Toulouse, a pesquisa atrai mentes curiosas do mundo inteiro. Cada candidato precisa provar sua aptidão para analisar e sua aspiração a progredir. A estimativa do potencial de um projeto costuma ser o pré-requisito para qualquer financiamento."
+    },
+    {
+      "id": 2,
+      "fr": "Dans le laboratoire, on apprend d'abord à catégoriser les données, puis à les énumérer sans les mélanger. On incorpore les nouvelles mesures au modèle existant et on implémente les corrections une à une. La finalisation du rapport prend souvent plus de temps que prévu.",
+      "pt": "No laboratório, aprende-se primeiro a categorizar os dados, depois a enumerá-los sem misturá-los. Incorporam-se as novas medições ao modelo existente e implementam-se as correções uma a uma. A finalização do relatório costuma demorar mais do que o previsto."
+    },
+    {
+      "id": 3,
+      "fr": "L'approche analytique permet d'élucider des problèmes complexes. On entrevoit parfois une solution avant de pouvoir la démontrer. Le seuil de certitude reste pourtant difficile à fixer : une preuve imparfaite laisse toujours une part d'ombre.",
+      "pt": "A abordagem analítica permite elucidar problemas complexos. Às vezes se entrevê uma solução antes de poder demonstrá-la. O limiar de certeza continua, no entanto, difícil de fixar: uma prova imperfeita deixa sempre uma parte de sombra."
+    },
+    {
+      "id": 4,
+      "fr": "Lors des conférences, chacun doit défendre une idée avec des arguments. Émettre une opinion ne suffit pas : il faut préparer un contre-argument pour chaque objection. La réfutation d'une thèse faible et le scepticisme du public font partie du jeu. Le consensus arrive rarement vite.",
+      "pt": "Nas conferências, cada um precisa defender uma ideia com argumentos. Emitir uma opinião não basta: é preciso preparar um contra-argumento para cada objeção. A refutação de uma tese fraca e o ceticismo do público fazem parte do jogo. O consenso raramente chega rápido."
+    },
+    {
+      "id": 5,
+      "fr": "Parfois, le débat devient déplorable : on déplore des attaques personnelles, des conclusions hâtives, des chiffres imprécis. Un chercheur expérimenté sait que la colère est un mauvais conseiller. Il préfère examiner le point faible de sa propre position avant celui des autres.",
+      "pt": "Às vezes, o debate fica deplorável: lamentam-se ataques pessoais, conclusões apressadas, números imprecisos. Um pesquisador experiente sabe que a raiva é um mau conselheiro. Ele prefere examinar o ponto fraco da própria posição antes do dos outros."
+    },
+    {
+      "id": 6,
+      "fr": "Le jugement irrationnel guette même les meilleurs esprits. Une décision prise sous pression semble parfois insensée quelques jours plus tard. La rigueur consiste à ralentir : vérifier la formulation, reformuler l'hypothèse, écarter ce qui est indéfendable.",
+      "pt": "O julgamento irracional espreita até as melhores mentes. Uma decisão tomada sob pressão parece às vezes insensata alguns dias depois. O rigor consiste em desacelerar: verificar a formulação, reformular a hipótese, descartar o que é indefensável."
+    },
+    {
+      "id": 7,
+      "fr": "Le jargon technique isole ceux qui ne le maîtrisent pas. Un bon communicateur remplace le terme obscur par un synonyme simple ou par une formulation claire. La science n'avance que si elle se fait comprendre au-delà des murs du laboratoire.",
+      "pt": "O jargão técnico isola quem não o domina. Um bom comunicador substitui o termo obscuro por um sinônimo simples ou por uma formulação clara. A ciência só avança se se faz compreender para além dos muros do laboratório."
+    },
+    {
+      "id": 8,
+      "fr": "Quel avenir pour Toulouse et ses berges de la Garonne ? L'éventualité d'un nouveau pôle spatial, après Ariane et Airbus, est envisageable, mais l'incertitude reste inhérente à tout grand projet. Les pronostics les plus sérieux influent sur les décisions publiques sans jamais les dicter. La recherche, elle, continue, discrète et obstinée.",
+      "pt": "Qual o futuro de Toulouse? A eventualidade de um novo polo espacial é plausível, mas a incerteza permanece inerente a todo grande projeto. Os prognósticos mais sérios influem nas decisões públicas sem nunca ditá-las. A pesquisa, por sua vez, continua, discreta e obstinada."
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "défendre une idée",
+      "definitionPt": "defender uma ideia",
+      "definitionFr": "Argumenter en faveur d'une opinion ou d'une thèse.",
+      "inflections": ["défendre une idée", "je défends", "défendu"],
+      "ptTargets": ["defender"],
+      "examples": [
+        { "level": "A1", "fr": "Je défends mon idée.", "pt": "Eu defendo minha ideia." },
+        { "level": "A2-B1", "fr": "Elle défend son idée avec des exemples.", "pt": "Ela defende sua ideia com exemplos." },
+        { "level": "B2", "fr": "Défendre une idée demande de connaître les arguments contraires.", "pt": "Defender uma ideia exige conhecer os argumentos contrários." },
+        { "level": "C1-C2", "fr": "Défendre une idée avec honnêteté, c'est accepter de la voir évoluer.", "pt": "Defender uma ideia com honestidade é aceitar vê-la evoluir." }
+      ]
+    },
+    {
+      "term": "émettre une opinion",
+      "definitionPt": "emitir uma opinião",
+      "definitionFr": "Exprimer son point de vue sur un sujet.",
+      "inflections": ["émettre une opinion", "j'émets", "émis"],
+      "ptTargets": ["emitir opinião"],
+      "examples": [
+        { "level": "A1", "fr": "J'émets une opinion simple.", "pt": "Eu emito uma opinião simples." },
+        { "level": "A2-B1", "fr": "Chacun peut émettre une opinion librement.", "pt": "Cada um pode emitir uma opinião livremente." },
+        { "level": "B2", "fr": "Émettre une opinion sans l'étayer reste une simple impression.", "pt": "Emitir uma opinião sem sustentá-la é apenas uma impressão." },
+        { "level": "C1-C2", "fr": "Émettre une opinion engage celui qui la prononce.", "pt": "Emitir uma opinião compromete quem a pronuncia." }
+      ]
+    },
+    {
+      "term": "élucider",
+      "definitionPt": "elucidar / esclarecer",
+      "definitionFr": "Rendre clair ce qui était obscur ou confus.",
+      "inflections": ["élucider", "j'élucide", "élucidé"],
+      "ptTargets": ["elucidar"],
+      "examples": [
+        { "level": "A1", "fr": "Le professeur élucide la question.", "pt": "O professor elucida a questão." },
+        { "level": "A2-B1", "fr": "Il faut élucider ce mystère.", "pt": "É preciso elucidar esse mistério." },
+        { "level": "B2", "fr": "L'enquête a permis d'élucider les causes de l'incident.", "pt": "A investigação permitiu elucidar as causas do incidente." },
+        { "level": "C1-C2", "fr": "Élucider un problème, c'est d'abord le formuler correctement.", "pt": "Elucidar um problema é antes de tudo formulá-lo corretamente." }
+      ]
+    },
+    {
+      "term": "le consensus",
+      "definitionPt": "o consenso",
+      "definitionFr": "Accord large entre des personnes ou des groupes.",
+      "inflections": ["le consensus", "un consensus", "consensuel"],
+      "ptTargets": ["consenso"],
+      "examples": [
+        { "level": "A1", "fr": "Il y a un consensus dans la classe.", "pt": "Há um consenso na turma." },
+        { "level": "A2-B1", "fr": "Ils cherchent un consensus avant de voter.", "pt": "Eles buscam um consenso antes de votar." },
+        { "level": "B2", "fr": "Le consensus scientifique se construit sur des preuves accumulées.", "pt": "O consenso científico se constrói sobre provas acumuladas." },
+        { "level": "C1-C2", "fr": "Un consensus trop rapide mérite toujours d'être interrogé.", "pt": "Um consenso rápido demais merece sempre ser interrogado." }
+      ]
+    },
+    {
+      "term": "le scepticisme",
+      "definitionPt": "o ceticismo",
+      "definitionFr": "Attitude de doute méthodique face aux affirmations.",
+      "inflections": ["le scepticisme", "sceptique", "sceptiquement"],
+      "ptTargets": ["ceticismo"],
+      "examples": [
+        { "level": "A1", "fr": "Son scepticisme est visible.", "pt": "Seu ceticismo é visível." },
+        { "level": "A2-B1", "fr": "Il écoute avec scepticisme cette annonce.", "pt": "Ele ouve com ceticismo esse anúncio." },
+        { "level": "B2", "fr": "Le scepticisme protège la science des conclusions hâtives.", "pt": "O ceticismo protege a ciência das conclusões apressadas." },
+        { "level": "C1-C2", "fr": "Le scepticisme n'est pas le refus de croire, mais l'exigence de vérifier.", "pt": "O ceticismo não é a recusa de crer, mas a exigência de verificar." }
+      ]
+    }
+  ],
+  "grammarTip": {
+    "ruleTitle": "As conjunções de concessão e causa",
+    "explanationPt": "No debate, usa-se 'bien que' + subjuntivo (concessão), 'en raison de' (causa) e 'sans jamais' (restrição). No texto: 'Les pronostics influent sur les décisions publiques sans jamais les dicter' — 'sans jamais' + infinitivo expressa um limite.",
+    "exampleFr": "Bien que l'incertitude soit réelle, la recherche continue, discrète et obstinée.",
+    "examplePt": "Embora a incerteza seja real, a pesquisa continua, discreta e obstinada.",
+    "practiceQuestion": "Complete: « ___ que le résultat soit incertain, ils publient. »",
+    "options": ["Bien", "Malgré", "Parce", "Depuis"],
+    "correctIndex": 0,
+    "explanationPt": "'Bien que' exige o subjuntivo e expressa concessão."
+  },
+  "quizQuestions": [
+    {
+      "question": "Que doit-on faire avant de financer un projet selon le texte ?",
+      "options": ["Estimer son potentiel", "Refuser le consensus", "Cacher les données", "Éviter le débat"],
+      "correctIndex": 0,
+      "explanation": "L'estimation du potentiel d'un projet est souvent le préalable à tout financement."
+    },
+    {
+      "question": "Quelle attitude protège la science des conclusions hâtives ?",
+      "options": ["Le scepticisme", "L'impatience", "La colère", "Le jargon"],
+      "correctIndex": 0,
+      "explanation": "Le scepticisme protège la science des conclusions hâtives."
+    },
+    {
+      "question": "Que remplace un bon communicateur ?",
+      "options": ["Le terme obscur par un synonyme simple", "Le consensus par un conflit", "La preuve par l'opinion", "Le débat par le silence"],
+      "correctIndex": 0,
+      "explanation": "Un bon communicateur remplace le terme obscur par un synonyme simple."
+    }
+  ]
+}

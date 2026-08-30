@@ -726,5 +726,10 @@ export const MASTER_EXAMPLES: Record<string, MasterExample[]> = {
     { level: 'B2', fr: 'Il a pris un moment de repos avant de reprendre la route.', pt: 'Ele tirou um momento de descanso antes de retomar a estrada.' },
     { level: 'C1-C2', fr: 'Le repos n\'est pas un luxe, c\'est une condition de la clarté.', pt: 'O descanso não é um luxo, é uma condição para a clareza.' },
   ],
-  garde_fallback: [],
+  garde_fallback: [
+    { level: 'A1', fr: 'Je garde mon billet dans ma poche.', pt: 'Eu guardo meu bilhete no bolso.' },
+    { level: 'A2-B1', fr: 'Elle garde toujours une copie des documents importants.', pt: 'Ela sempre guarda uma cópia dos documentos importantes.' },
+    { level: 'B2', fr: 'Le musée garde les archives à l’abri de la lumière.', pt: 'O museu mantém os arquivos protegidos da luz.' },
+    { level: 'C1-C2', fr: 'Une ville garde la mémoire de ceux qui l’ont façonnée.', pt: 'Uma cidade guarda a memória daqueles que a moldaram.' },
+  ],
 };

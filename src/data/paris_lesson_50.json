@@ -75,156 +75,421 @@
       "term": "le mariage",
       "definitionPt": "o casamento",
       "definitionFr": "Union officielle de deux personnes.",
-      "inflections": ["le mariage", "un mariage", "des mariages"],
-      "ptTargets": ["casamento"],
+      "inflections": [
+        "le mariage",
+        "un mariage",
+        "des mariages"
+      ],
+      "ptTargets": [
+        "casamento"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le mariage est beau.", "pt": "O casamento é bonito." },
-        { "level": "A2-B1", "fr": "Le mariage a lieu à Créteil.", "pt": "O casamento acontece em Créteil." },
-        { "level": "B2", "fr": "Le mariage réunit deux familles et deux cultures.", "pt": "O casamento reúne duas famílias e duas culturas." },
-        { "level": "C1-C2", "fr": "C'est le mariage qui, au-delà de la fête, fonde une promesse pour la vie.", "pt": "É o casamento que, além da festa, funda uma promessa para a vida." }
+        {
+          "level": "A1",
+          "fr": "Le mariage est beau.",
+          "pt": "O casamento é bonito."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Le mariage a lieu à Créteil.",
+          "pt": "O casamento acontece em Créteil."
+        },
+        {
+          "level": "B2",
+          "fr": "Le mariage réunit deux familles et deux cultures.",
+          "pt": "O casamento reúne duas famílias e duas culturas."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est le mariage qui, au-delà de la fête, fonde une promesse pour la vie.",
+          "pt": "É o casamento que, além da festa, funda uma promessa para a vida."
+        }
       ]
     },
     {
       "term": "la mariée",
       "definitionPt": "a noiva",
       "definitionFr": "La femme qui se marie.",
-      "inflections": ["la mariée", "une mariée", "des mariées"],
-      "ptTargets": ["noiva"],
+      "inflections": [
+        "la mariée",
+        "une mariée",
+        "des mariées"
+      ],
+      "ptTargets": [
+        "noiva"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La mariée est belle.", "pt": "A noiva é bonita." },
-        { "level": "A2-B1", "fr": "La mariée avance au bras de son père.", "pt": "A noiva avança de braços dados com o pai." },
-        { "level": "B2", "fr": "La mariée porte une robe blanche.", "pt": "A noiva usa um vestido branco." },
-        { "level": "C1-C2", "fr": "C'est la mariée qui, au centre de tous les regards, vit le jour le plus lumineux.", "pt": "É a noiva que, no centro de todos os olhares, vive o dia mais luminoso." }
+        {
+          "level": "A1",
+          "fr": "La mariée est belle.",
+          "pt": "A noiva é bonita."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "La mariée avance au bras de son père.",
+          "pt": "A noiva avança de braços dados com o pai."
+        },
+        {
+          "level": "B2",
+          "fr": "La mariée porte une robe blanche.",
+          "pt": "A noiva usa um vestido branco."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Au centre de tous les regards, la mariée vit le jour le plus lumineux de sa vie.",
+          "pt": "No centro de todos os olhares, a noiva vive o dia mais luminoso da sua vida."
+        }
       ]
     },
     {
       "term": "le marié",
       "definitionPt": "o noivo",
       "definitionFr": "L'homme qui se marie.",
-      "inflections": ["le marié", "un marié", "des mariés"],
-      "ptTargets": ["noivo"],
+      "inflections": [
+        "le marié",
+        "un marié",
+        "des mariés"
+      ],
+      "ptTargets": [
+        "noivo"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Le marié est ému.", "pt": "O noivo está emocionado." },
-        { "level": "A2-B1", "fr": "Le marié attend devant la mairie.", "pt": "O noivo espera diante da prefeitura." },
-        { "level": "B2", "fr": "Le marié porte un costume sombre et élégant.", "pt": "O noivo usa um terno escuro e elegante." },
-        { "level": "C1-C2", "fr": "C'est le marié qui, ému, voit approcher celle qui partagera sa route.", "pt": "É o noivo que, emocionado, vê se aproximar aquela que compartilhará seu caminho." }
+        {
+          "level": "A1",
+          "fr": "Le marié est ému.",
+          "pt": "O noivo está emocionado."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Le marié attend devant la mairie.",
+          "pt": "O noivo espera diante da prefeitura."
+        },
+        {
+          "level": "B2",
+          "fr": "Le marié porte un costume sombre et élégant.",
+          "pt": "O noivo usa um terno escuro e elegante."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est le marié qui, ému, voit approcher celle qui partagera sa route.",
+          "pt": "É o noivo que, emocionado, vê se aproximar aquela que compartilhará seu caminho."
+        }
       ]
     },
     {
       "term": "la cérémonie",
       "definitionPt": "a cerimônia",
       "definitionFr": "Moment solennel du mariage.",
-      "inflections": ["la cérémonie", "une cérémonie", "des cérémonies"],
-      "ptTargets": ["cerimônia"],
+      "inflections": [
+        "la cérémonie",
+        "une cérémonie",
+        "des cérémonies"
+      ],
+      "ptTargets": [
+        "cerimônia"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La cérémonie commence.", "pt": "A cerimônia começa." },
-        { "level": "A2-B1", "fr": "La cérémonie a lieu à la mairie.", "pt": "A cerimônia acontece na prefeitura." },
-        { "level": "B2", "fr": "La cérémonie est sobre et émouvante.", "pt": "A cerimônia é sóbria e comovente." },
-        { "level": "C1-C2", "fr": "C'est la cérémonie qui, par ses mots et ses silences, rend officielle la promesse des mariés.", "pt": "É a cerimônia que, por suas palavras e silêncios, torna oficial a promessa dos noivos." }
+        {
+          "level": "A1",
+          "fr": "La cérémonie commence.",
+          "pt": "A cerimônia começa."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "La cérémonie a lieu à la mairie.",
+          "pt": "A cerimônia acontece na prefeitura."
+        },
+        {
+          "level": "B2",
+          "fr": "La cérémonie est sobre et émouvante.",
+          "pt": "A cerimônia é sóbria e comovente."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est la cérémonie qui, par ses mots et ses silences, rend officielle la promesse des mariés.",
+          "pt": "É a cerimônia que, por suas palavras e silêncios, torna oficial a promessa dos noivos."
+        }
       ]
     },
     {
       "term": "la promesse",
       "definitionPt": "a promessa",
       "definitionFr": "Engagement que l'on prend.",
-      "inflections": ["la promesse", "une promesse", "des promesses"],
-      "ptTargets": ["promessa"],
+      "inflections": [
+        "la promesse",
+        "une promesse",
+        "des promesses"
+      ],
+      "ptTargets": [
+        "promessa"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La promesse est belle.", "pt": "A promessa é bonita." },
-        { "level": "A2-B1", "fr": "Irlan fait une promesse à Andréa.", "pt": "Irlan faz uma promessa a Andréa." },
-        { "level": "B2", "fr": "Une promesse engage celui qui la fait.", "pt": "Uma promessa empenha quem a faz." },
-        { "level": "C1-C2", "fr": "C'est la promesse qui, tenue au fil des jours, devient le socle d'une vie.", "pt": "É a promessa que, cumprida ao longo dos dias, vira o alicerce de uma vida." }
+        {
+          "level": "A1",
+          "fr": "La promesse est belle.",
+          "pt": "A promessa é bonita."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Irlan fait une promesse à Andréa.",
+          "pt": "Irlan faz uma promessa a Andréa."
+        },
+        {
+          "level": "B2",
+          "fr": "Une promesse engage celui qui la fait.",
+          "pt": "Uma promessa empenha quem a faz."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est la promesse qui, tenue au fil des jours, devient le socle d'une vie.",
+          "pt": "É a promessa que, cumprida ao longo dos dias, vira o alicerce de uma vida."
+        }
       ]
     },
     {
       "term": "embrasser",
       "definitionPt": "beijar / abraçar",
       "definitionFr": "Donner un baiser.",
-      "inflections": ["embrasser", "j'embrasse", "nous embrassons"],
-      "ptTargets": ["beijar", "abraçar"],
+      "inflections": [
+        "embrasser",
+        "j'embrasse",
+        "nous embrassons"
+      ],
+      "ptTargets": [
+        "beijar",
+        "abraçar"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Ils s'embrassent.", "pt": "Eles se beijam." },
-        { "level": "A2-B1", "fr": "Les mariés s'embrassent après le oui.", "pt": "Os noivos se beijam depois do sim." },
-        { "level": "B2", "fr": "Embrasser quelqu'un, c'est dire sans mots ce que l'on ressent.", "pt": "Beijar alguém é dizer sem palavras o que se sente." },
-        { "level": "C1-C2", "fr": "C'est en s'embrassant que deux êtres scellent, l'espace d'un instant, toute une histoire.", "pt": "É se beijando que duas pessoas selam, por um instante, toda uma história." }
+        {
+          "level": "A1",
+          "fr": "Ils s'embrassent.",
+          "pt": "Eles se beijam."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Les mariés s'embrassent après le oui.",
+          "pt": "Os noivos se beijam depois do sim."
+        },
+        {
+          "level": "B2",
+          "fr": "Embrasser quelqu'un, c'est dire sans mots ce que l'on ressent.",
+          "pt": "Beijar alguém é dizer sem palavras o que se sente."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est en s'embrassant que deux êtres scellent, l'espace d'un instant, toute une histoire.",
+          "pt": "É se beijando que duas pessoas selam, por um instante, toda uma história."
+        }
       ]
     },
     {
       "term": "la fête",
       "definitionPt": "a festa",
       "definitionFr": "Moment de célébration.",
-      "inflections": ["la fête", "une fête", "des fêtes"],
-      "ptTargets": ["festa"],
+      "inflections": [
+        "la fête",
+        "une fête",
+        "des fêtes"
+      ],
+      "ptTargets": [
+        "festa"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La fête est belle.", "pt": "A festa é bonita." },
-        { "level": "A2-B1", "fr": "La fête commence après la cérémonie.", "pt": "A festa começa depois da cerimônia." },
-        { "level": "B2", "fr": "La fête de mariage réunit toutes les générations.", "pt": "A festa de casamento reúne todas as gerações." },
-        { "level": "C1-C2", "fr": "C'est la fête qui, par la danse et le rire, prolonge la joie du oui.", "pt": "É a festa que, pela dança e pelo riso, prolonga a alegria do sim." }
+        {
+          "level": "A1",
+          "fr": "La fête est belle.",
+          "pt": "A festa é bonita."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "La fête commence après la cérémonie.",
+          "pt": "A festa começa depois da cerimônia."
+        },
+        {
+          "level": "B2",
+          "fr": "La fête de mariage réunit toutes les générations.",
+          "pt": "A festa de casamento reúne todas as gerações."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est la fête qui, par la danse et le rire, prolonge la joie du oui.",
+          "pt": "É a festa que, pela dança e pelo riso, prolonga a alegria do sim."
+        }
       ]
     },
     {
       "term": "danser",
       "definitionPt": "dançar",
       "definitionFr": "Bouger sur la musique.",
-      "inflections": ["danser", "je danse", "nous dansons"],
-      "ptTargets": ["dançar"],
+      "inflections": [
+        "danser",
+        "je danse",
+        "nous dansons"
+      ],
+      "ptTargets": [
+        "dançar"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Ils dansent.", "pt": "Eles dançam." },
-        { "level": "A2-B1", "fr": "Les deux familles dansent ensemble.", "pt": "As duas famílias dançam juntas." },
-        { "level": "B2", "fr": "Danser jusqu'au bout de la nuit épuise mais rend heureux.", "pt": "Dançar até o fim da noite cansa mas deixa feliz." },
-        { "level": "C1-C2", "fr": "C'est en dansant que l'on oublie, un instant, tout ce qui n'est pas la joie.", "pt": "É dançando que se esquece, por um instante, tudo o que não é alegria." }
+        {
+          "level": "A1",
+          "fr": "Ils dansent.",
+          "pt": "Eles dançam."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Les deux familles dansent ensemble.",
+          "pt": "As duas famílias dançam juntas."
+        },
+        {
+          "level": "B2",
+          "fr": "Danser jusqu'au bout de la nuit épuise mais rend heureux.",
+          "pt": "Dançar até o fim da noite cansa mas deixa feliz."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est en dansant que l'on oublie, un instant, tout ce qui n'est pas la joie.",
+          "pt": "É dançando que se esquece, por um instante, tudo o que não é alegria."
+        }
       ]
     },
     {
       "term": "la robe",
       "definitionPt": "o vestido",
       "definitionFr": "Vêtement féminin.",
-      "inflections": ["la robe", "une robe", "des robes"],
-      "ptTargets": ["vestido"],
+      "inflections": [
+        "la robe",
+        "une robe",
+        "des robes"
+      ],
+      "ptTargets": [
+        "vestido"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La robe est blanche.", "pt": "O vestido é branco." },
-        { "level": "A2-B1", "fr": "Andréa avance en robe blanche.", "pt": "Andréa avança de vestido branco." },
-        { "level": "B2", "fr": "La robe de mariée est choisie avec soin.", "pt": "O vestido de noiva é escolhido com cuidado." },
-        { "level": "C1-C2", "fr": "C'est la robe qui, portée un seul jour, garde pour toujours la lumière de ce jour-là.", "pt": "É o vestido que, usado por um único dia, guarda para sempre a luz daquele dia." }
+        {
+          "level": "A1",
+          "fr": "La robe est blanche.",
+          "pt": "O vestido é branco."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Andréa avance en robe blanche.",
+          "pt": "Andréa avança de vestido branco."
+        },
+        {
+          "level": "B2",
+          "fr": "La robe de mariée est choisie avec soin.",
+          "pt": "O vestido de noiva é escolhido com cuidado."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est la robe qui, portée un seul jour, garde pour toujours la lumière de ce jour-là.",
+          "pt": "É o vestido que, usado por um único dia, guarda para sempre a luz daquele dia."
+        }
       ]
     },
     {
       "term": "l'anneau",
       "definitionPt": "o anel",
       "definitionFr": "Cercle de métal porté au doigt.",
-      "inflections": ["l'anneau", "un anneau", "des anneaux"],
-      "ptTargets": ["anel"],
+      "inflections": [
+        "l'anneau",
+        "un anneau",
+        "des anneaux"
+      ],
+      "ptTargets": [
+        "anel"
+      ],
       "examples": [
-        { "level": "A1", "fr": "L'anneau est doré.", "pt": "O anel é dourado." },
-        { "level": "A2-B1", "fr": "Ils échangent les anneaux.", "pt": "Eles trocam os anéis." },
-        { "level": "B2", "fr": "L'anneau symbolise un lien sans fin.", "pt": "O anel simboliza um elo sem fim." },
-        { "level": "C1-C2", "fr": "C'est l'anneau qui, sans début ni fin, représente la continuité de leur engagement.", "pt": "É o anel que, sem começo nem fim, representa a continuidade do compromisso deles." }
+        {
+          "level": "A1",
+          "fr": "L'anneau est doré.",
+          "pt": "O anel é dourado."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Ils échangent les anneaux.",
+          "pt": "Eles trocam os anéis."
+        },
+        {
+          "level": "B2",
+          "fr": "L'anneau symbolise un lien sans fin.",
+          "pt": "O anel simboliza um elo sem fim."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est l'anneau qui, sans début ni fin, représente la continuité de leur engagement.",
+          "pt": "É o anel que, sem começo nem fim, representa a continuidade do compromisso deles."
+        }
       ]
     },
     {
       "term": "suivre",
       "definitionPt": "seguir",
       "definitionFr": "Aller avec quelqu'un.",
-      "inflections": ["suivre", "je suis", "nous suivons"],
-      "ptTargets": ["seguir"],
+      "inflections": [
+        "suivre",
+        "je suis",
+        "nous suivons"
+      ],
+      "ptTargets": [
+        "seguir"
+      ],
       "examples": [
-        { "level": "A1", "fr": "Je te suis.", "pt": "Eu te sigo." },
-        { "level": "A2-B1", "fr": "Je te suivrai jusqu'au bout de la carte.", "pt": "Eu te seguirei até o fim do mapa." },
-        { "level": "B2", "fr": "Suivre quelqu'un, c'est choisir de partager sa route.", "pt": "Seguir alguém é escolher compartilhar o caminho." },
-        { "level": "C1-C2", "fr": "C'est en suivant que l'on apprend à faire siennes les routes de l'autre.", "pt": "É seguindo que se aprende a tornar suas as estradas do outro." }
+        {
+          "level": "A1",
+          "fr": "Je te suis, mais explique-moi d’abord où nous allons.",
+          "pt": "Eu sigo você, mas primeiro me explique para onde vamos."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Je te suivrai jusqu'au bout de la carte.",
+          "pt": "Eu te seguirei até o fim do mapa."
+        },
+        {
+          "level": "B2",
+          "fr": "Suivre quelqu'un, c'est choisir de partager sa route.",
+          "pt": "Seguir alguém é escolher compartilhar o caminho."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est en suivant que l'on apprend à faire siennes les routes de l'autre.",
+          "pt": "É seguindo que se aprende a tornar suas as estradas do outro."
+        }
       ]
     },
     {
       "term": "la carte",
       "definitionPt": "o mapa",
       "definitionFr": "Dessin d'un territoire.",
-      "inflections": ["la carte", "une carte", "des cartes"],
-      "ptTargets": ["mapa"],
+      "inflections": [
+        "la carte",
+        "une carte",
+        "des cartes"
+      ],
+      "ptTargets": [
+        "mapa"
+      ],
       "examples": [
-        { "level": "A1", "fr": "La carte est claire.", "pt": "O mapa é claro." },
-        { "level": "A2-B1", "fr": "Irlan promet de la suivre jusqu'au bout de la carte.", "pt": "Irlan promete segui-la até o fim do mapa." },
-        { "level": "B2", "fr": "Une carte ne montre pas le chemin du cœur, mais il la lit autrement.", "pt": "Um mapa não mostra o caminho do coração, mas ele o lê de outro jeito." },
-        { "level": "C1-C2", "fr": "C'est la carte qui, tenue entre leurs mains, deviendra bientôt le fil de leur aventure.", "pt": "É o mapa que, segurado entre as mãos deles, logo se tornará o fio da aventura." }
+        {
+          "level": "A1",
+          "fr": "La carte est claire.",
+          "pt": "O mapa é claro."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Irlan promet de la suivre jusqu'au bout de la carte.",
+          "pt": "Irlan promete segui-la até o fim do mapa."
+        },
+        {
+          "level": "B2",
+          "fr": "Une carte ne montre pas le chemin du cœur, mais il la lit autrement.",
+          "pt": "Um mapa não mostra o caminho do coração, mas ele o lê de outro jeito."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "C'est la carte qui, tenue entre leurs mains, deviendra bientôt le fil de leur aventure.",
+          "pt": "É o mapa que, segurado entre as mãos deles, logo se tornará o fio da aventura."
+        }
       ]
     }
   ],
@@ -234,7 +499,11 @@
     "exampleFr": "Je te suivrai jusqu'au bout de la carte.",
     "examplePt": "Eu te seguirei até o fim do mapa.",
     "practiceQuestion": "Complete: 'Nous _____ notre vie ensemble.'",
-    "options": ["commencerons", "commencerai", "commencerez"],
+    "options": [
+      "commencerons",
+      "commencerai",
+      "commencerez"
+    ],
     "correctIndex": 0,
     "points": [
       {
@@ -243,7 +512,11 @@
         "exampleFr": "Andréa avance au bras de son père.",
         "examplePt": "Andréa avança de braços dados com o pai.",
         "practiceQuestion": "Complete: 'Elle avance _____ bras de son père.'",
-        "options": ["au", "à", "en"],
+        "options": [
+          "au",
+          "à",
+          "en"
+        ],
         "correctIndex": 0
       },
       {
@@ -252,7 +525,11 @@
         "exampleFr": "Je te suivrai jusqu'au bout de la carte.",
         "examplePt": "Eu te seguirei até o fim do mapa.",
         "practiceQuestion": "Complete: 'Il l'aimera _____ au bout.'",
-        "options": ["jusqu", "pour", "depuis"],
+        "options": [
+          "jusqu",
+          "pour",
+          "depuis"
+        ],
         "correctIndex": 0
       }
     ]
@@ -260,31 +537,51 @@
   "quizQuestions": [
     {
       "question": "Onde acontece o casamento?",
-      "options": ["em Créteil", "em Paris", "no Brasil"],
+      "options": [
+        "em Créteil",
+        "em Paris",
+        "no Brasil"
+      ],
       "correctIndex": 0,
       "explanation": "Le mariage a lieu à Créteil."
     },
     {
       "question": "Como Andréa entra?",
-      "options": ["de vestido branco, de braços dados com o pai", "de azul, sozinha", "de terno"],
+      "options": [
+        "de vestido branco, de braços dados com o pai",
+        "de azul, sozinha",
+        "de terno"
+      ],
       "correctIndex": 0,
       "explanation": "Andréa avance en robe blanche, au bras de son père."
     },
     {
       "question": "O que Irlan promete a Andréa?",
-      "options": ["segui-la até o fim do mapa", "viajar sozinho", "trabalhar mais"],
+      "options": [
+        "segui-la até o fim do mapa",
+        "viajar sozinho",
+        "trabalhar mais"
+      ],
       "correctIndex": 0,
       "explanation": "Il promet : « Je te suivrai jusqu'au bout de la carte. »"
     },
     {
       "question": "Complete: 'Nous _____ notre vie ensemble.'",
-      "options": ["commencerons", "commencerai", "commencerez"],
+      "options": [
+        "commencerons",
+        "commencerai",
+        "commencerez"
+      ],
       "correctIndex": 0,
       "explanation": "nous commencerons (futur simple)."
     },
     {
       "question": "Complete: 'Elle avance _____ bras de son père.'",
-      "options": ["au", "à", "en"],
+      "options": [
+        "au",
+        "à",
+        "en"
+      ],
       "correctIndex": 0,
       "explanation": "au bras de son père."
     }

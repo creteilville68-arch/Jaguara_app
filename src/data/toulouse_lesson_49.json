@@ -11,8 +11,8 @@
   "paragraphs": [
     {
       "id": 1,
-      "fr": "Le dimanche, la prairie des Filtres s'éveille : des familles, des ballons, des guitares. « On y vient depuis toujours, dit une voisine. Mon grand-père y avait déjà pique-niqué, il y a soixante ans. »",
-      "pt": "No domingo, a prairie des Filtres desperta: famílias, bolas, violões. « Vem-se nela desde sempre, disse uma vizinha. Meu avô já tinha feito piquenique nela há sessenta anos. »"
+      "fr": "Le dimanche, la prairie des Filtres s'éveille : des familles, des ballons, des guitares. « On y vient depuis toujours, dit une voisine. J'y avais déjà pique-niqué, il y a soixante ans. »",
+      "pt": "No domingo, a prairie des Filtres desperta: famílias, bolas, violões. « Vem-se nela desde sempre, disse uma vizinha. Eu já tinha feito piquenique nela há sessenta anos. »"
     },
     {
       "id": 2,
@@ -68,7 +68,7 @@
       "examples": [
         { "level": "A1", "fr": "Le pique-nique est bon.", "pt": "O piquenique é bom." },
         { "level": "A2-B1", "fr": "Nous faisons un pique-nique.", "pt": "Fazemos um piquenique." },
-        { "level": "B2", "fr": "Mon grand-père y avait déjà pique-niqué il y a soixante ans.", "pt": "Meu avô já tinha feito piquenique nela há sessenta anos." },
+        { "level": "B2", "fr": "On y pique-niquait déjà il y a soixante ans.", "pt": "Já se fazia piquenique nela há sessenta anos." },
         { "level": "C1-C2", "fr": "Le pique-nique dominical est un rituel d'appartenance à la ville.", "pt": "O piquenique dominical é um ritual de pertencimento à cidade." }
       ]
     },
@@ -223,9 +223,9 @@
       },
       {
         "ruleTitle": "Le plus-que-parfait du dimanche",
-        "explanationPt": "'Mon grand-père y avait déjà pique-niqué' / 'je n'en avais jamais profité' : le passé avant le présent du dimanche.",
-        "exampleFr": "Mon grand-père y avait déjà pique-niqué il y a soixante ans.",
-        "examplePt": "Meu avô já tinha feito piquenique nela há sessenta anos.",
+        "explanationPt": "'J'y avais déjà pique-niqué' / 'je n'en avais jamais profité' : le passé avant le présent du dimanche.",
+        "exampleFr": "J'y avais déjà pique-niqué il y a soixante ans.",
+        "examplePt": "Eu já tinha feito piquenique nela há sessenta anos.",
         "practiceQuestion": "Complete: 'Je n'en avais jamais _____ de ce luxe-là.'",
         "options": ["profité", "profiter", "profite"],
         "correctIndex": 0
@@ -240,10 +240,10 @@
       "explanation": "EN retoma a quantidade de comida: 'il y en a'."
     },
     {
-      "question": "O que o avô da vizinha fazia há sessenta anos?",
+      "question": "O que a vizinha fazia na prairie há sessenta anos?",
       "options": ["Fazia piquenique na prairie", "Nadava no rio", "Trabalhava no hospital"],
       "correctIndex": 0,
-      "explanation": "No texto: 'Mon grand-père y avait déjà pique-niqué, il y a soixante ans.'"
+      "explanation": "No texto: 'J'y avais déjà pique-niqué, il y a soixante ans.'"
     },
     {
       "question": "O que Irlan fazia aos domingos antes?",
