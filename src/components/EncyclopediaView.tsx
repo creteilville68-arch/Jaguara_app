@@ -53,6 +53,7 @@ import parisGuide46 from '../data/city_guides/paris_guide_46.json';
 import parisGuide47 from '../data/city_guides/paris_guide_47.json';
 import parisGuide48 from '../data/city_guides/paris_guide_48.json';
 import parisGuide49 from '../data/city_guides/paris_guide_49.json';
+import parisGuide50 from '../data/city_guides/paris_guide_50.json';
 import amiensGuide01 from '../data/city_guides/amiens_guide_01.json';
 import amiensGuide02 from '../data/city_guides/amiens_guide_02.json';
 import amiensGuide03 from '../data/city_guides/amiens_guide_03.json';
@@ -259,6 +260,7 @@ import bordeauxGuide40 from '../data/city_guides/bordeaux_guide_40.json';
 import bordeauxGuide41 from '../data/city_guides/bordeaux_guide_41.json';
 import bordeauxGuide42 from '../data/city_guides/bordeaux_guide_42.json';
 import bordeauxGuide43 from '../data/city_guides/bordeaux_guide_43.json';
+import bordeauxGuide44 from '../data/city_guides/bordeaux_guide_44.json';
 import toulouseGuide01 from '../data/city_guides/toulouse_guide_01.json';
 import toulouseGuide02 from '../data/city_guides/toulouse_guide_02.json';
 import toulouseGuide03 from '../data/city_guides/toulouse_guide_03.json';
@@ -399,6 +401,7 @@ import marseilleGuide45 from '../data/city_guides/marseille_guide_45.json';
 import marseilleGuide46 from '../data/city_guides/marseille_guide_46.json';
 import marseilleGuide47 from '../data/city_guides/marseille_guide_47.json';
 import marseilleGuide48 from '../data/city_guides/marseille_guide_48.json';
+import marseilleGuide49 from '../data/city_guides/marseille_guide_49.json';
 import strasbourgGuide01 from '../data/city_guides/strasbourg_guide_01.json';
 import strasbourgGuide02 from '../data/city_guides/strasbourg_guide_02.json';
 import strasbourgGuide03 from '../data/city_guides/strasbourg_guide_03.json';
@@ -448,6 +451,7 @@ import strasbourgGuide46 from '../data/city_guides/strasbourg_guide_46.json';
 import strasbourgGuide47 from '../data/city_guides/strasbourg_guide_47.json';
 import strasbourgGuide48 from '../data/city_guides/strasbourg_guide_48.json';
 import strasbourgGuide49 from '../data/city_guides/strasbourg_guide_49.json';
+import strasbourgGuide50 from '../data/city_guides/strasbourg_guide_50.json';
 import niceGuide01 from '../data/city_guides/nice_guide_01.json';
 import niceGuide02 from '../data/city_guides/nice_guide_02.json';
 import niceGuide03 from '../data/city_guides/nice_guide_03.json';
@@ -563,6 +567,7 @@ const CITY_GUIDES: Record<string, Array<Record<string, unknown>>> = {
     parisGuide47 as unknown as Record<string, unknown>,
     parisGuide48 as unknown as Record<string, unknown>,
     parisGuide49 as unknown as Record<string, unknown>,
+    parisGuide50 as unknown as Record<string, unknown>,
   ],
   amiens: [
     amiensGuide01 as unknown as Record<string, unknown>,
@@ -779,6 +784,7 @@ const CITY_GUIDES: Record<string, Array<Record<string, unknown>>> = {
     bordeauxGuide41 as unknown as Record<string, unknown>,
     bordeauxGuide42 as unknown as Record<string, unknown>,
     bordeauxGuide43 as unknown as Record<string, unknown>,
+    bordeauxGuide44 as unknown as Record<string, unknown>,
   ],
   toulouse: [
     toulouseGuide01 as unknown as Record<string, unknown>,
@@ -925,6 +931,7 @@ const CITY_GUIDES: Record<string, Array<Record<string, unknown>>> = {
     marseilleGuide46 as unknown as Record<string, unknown>,
     marseilleGuide47 as unknown as Record<string, unknown>,
     marseilleGuide48 as unknown as Record<string, unknown>,
+    marseilleGuide49 as unknown as Record<string, unknown>,
   ],
   strasbourg: [
     strasbourgGuide01 as unknown as Record<string, unknown>,
@@ -976,6 +983,7 @@ const CITY_GUIDES: Record<string, Array<Record<string, unknown>>> = {
     strasbourgGuide47 as unknown as Record<string, unknown>,
     strasbourgGuide48 as unknown as Record<string, unknown>,
     strasbourgGuide49 as unknown as Record<string, unknown>,
+    strasbourgGuide50 as unknown as Record<string, unknown>,
   ],
   nice: [
     niceGuide01 as unknown as Record<string, unknown>,
