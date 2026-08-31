@@ -54,6 +54,7 @@ import parisGuide47 from '../data/city_guides/paris_guide_47.json';
 import parisGuide48 from '../data/city_guides/paris_guide_48.json';
 import parisGuide49 from '../data/city_guides/paris_guide_49.json';
 import parisGuide50 from '../data/city_guides/paris_guide_50.json';
+import parisGuide51 from '../data/city_guides/paris_guide_51.json';
 import amiensGuide01 from '../data/city_guides/amiens_guide_01.json';
 import amiensGuide02 from '../data/city_guides/amiens_guide_02.json';
 import amiensGuide03 from '../data/city_guides/amiens_guide_03.json';
@@ -304,6 +305,7 @@ import toulouseGuide40 from '../data/city_guides/toulouse_guide_40.json';
 import toulouseGuide41 from '../data/city_guides/toulouse_guide_41.json';
 import toulouseGuide42 from '../data/city_guides/toulouse_guide_42.json';
 import toulouseGuide43 from '../data/city_guides/toulouse_guide_43.json';
+import toulouseGuide44 from '../data/city_guides/toulouse_guide_44.json';
 import lyonGuide01 from '../data/city_guides/lyon_guide_01.json';
 import lyonGuide02 from '../data/city_guides/lyon_guide_02.json';
 import lyonGuide03 from '../data/city_guides/lyon_guide_03.json';
@@ -507,8 +509,8 @@ import niceGuide52 from '../data/city_guides/nice_guide_52.json';
 import niceGuide53 from '../data/city_guides/nice_guide_53.json';
 import niceGuide54 from '../data/city_guides/nice_guide_54.json';
 import niceGuide55 from '../data/city_guides/nice_guide_55.json';
-import niceGuide56 from '../data/city_guides/nice_guide_56.json';
-import niceGuide57 from '../data/city_guides/nice_guide_57.json';
+import niceGuide56 from '../data/city_guides/nice_guide_56.json';import niceGuide57 from '../data/city_guides/nice_guide_57.json';
+
 
 interface EncyclopediaViewProps {
   progress: UserMapProgress;
@@ -568,6 +570,7 @@ const CITY_GUIDES: Record<string, Array<Record<string, unknown>>> = {
     parisGuide48 as unknown as Record<string, unknown>,
     parisGuide49 as unknown as Record<string, unknown>,
     parisGuide50 as unknown as Record<string, unknown>,
+    parisGuide51 as unknown as Record<string, unknown>,
   ],
   amiens: [
     amiensGuide01 as unknown as Record<string, unknown>,
@@ -830,6 +833,7 @@ const CITY_GUIDES: Record<string, Array<Record<string, unknown>>> = {
     toulouseGuide41 as unknown as Record<string, unknown>,
     toulouseGuide42 as unknown as Record<string, unknown>,
     toulouseGuide43 as unknown as Record<string, unknown>,
+    toulouseGuide44 as unknown as Record<string, unknown>,
   ],
   lyon: [
     lyonGuide01 as unknown as Record<string, unknown>,
