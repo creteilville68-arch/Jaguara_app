@@ -509,7 +509,9 @@ import niceGuide52 from '../data/city_guides/nice_guide_52.json';
 import niceGuide53 from '../data/city_guides/nice_guide_53.json';
 import niceGuide54 from '../data/city_guides/nice_guide_54.json';
 import niceGuide55 from '../data/city_guides/nice_guide_55.json';
-import niceGuide56 from '../data/city_guides/nice_guide_56.json';import niceGuide57 from '../data/city_guides/nice_guide_57.json';
+import niceGuide56 from '../data/city_guides/nice_guide_56.json';
+import niceGuide57 from '../data/city_guides/nice_guide_57.json';
+import niceGuide58 from '../data/city_guides/nice_guide_58.json';
 
 
 interface EncyclopediaViewProps {
@@ -1047,6 +1049,7 @@ const CITY_GUIDES: Record<string, Array<Record<string, unknown>>> = {
     niceGuide55 as unknown as Record<string, unknown>,
     niceGuide56 as unknown as Record<string, unknown>,
     niceGuide57 as unknown as Record<string, unknown>,
+    niceGuide58 as unknown as Record<string, unknown>,
   ],
 };
 
