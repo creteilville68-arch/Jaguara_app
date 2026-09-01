@@ -1,0 +1,112 @@
+{
+  "id": "toulouse_guide_50",
+  "cityId": "toulouse",
+  "domain": "Saúde & Cotidiano",
+  "level": "Misto (A1–C2)",
+  "titleFr": "La santé à Toulouse : médecins, prescriptions et hôpitaux",
+  "titlePt": "A saúde em Toulouse: médicos, receitas e hospitais",
+  "subtitleFr": "Salles d'attente, IRM et conseils du docteur dans la Ville rose",
+  "subtitlePt": "Salas de espera, ressonância e conselhos do médico na Ville rose",
+  "summaryPt": "Enciclopédia de Toulouse, seção 50: um único tema aprofundado — a saúde na cidade. O dossiê percorre a medicina de bairro (salle d'attente, voisine, médecin), a consulta (prescrire une IRM, rédiger la prescription), os alertas (rechute, surpoids, obésité), os remédios simples (dormir, se reposer) e os grandes hospitais de Toulouse (Purpan, Rangueil), sempre com o vocabulário do corpo e do cuidado (A1–C2).",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "À Toulouse, la santé repose sur un réseau dense : médecins de quartier, kinésithérapeutes et grands hôpitaux comme le CHU Purpan et le CHU Rangueil, reliés à la faculté de médecine de l'université Toulouse III – Paul Sabatier. « Je ressens une vraie sympathie pour cette salle d'attente », plaisante un patient, malgré une certaine appréhension ; une voisine raconte sa relation amoureuse et ses fiançailles, un père dit qu'il est fatigué. « J'ai sommeil, c'est tout », entend-on souvent.",
+      "pt": "Em Toulouse, a saúde se apoia numa rede densa: médicos de bairro, fisioterapeutas e grandes hospitais como o CHU Purpan e o CHU Rangueil, ligados à faculdade de medicina da universidade Toulouse III – Paul Sabatier. « Sinto uma verdadeira simpatia por esta sala de espera », brinca um paciente, apesar de certa apreensão; uma vizinha conta o seu relacionamento amoroso e o noivado, um pai diz que está cansado. « Tenho sono, só isso », ouve-se com frequência."
+    },
+    {
+      "id": 2,
+      "fr": "En cas de douleur à l'épaule, le médecin peut prescrire une IRM : il rédige la prescription et met en garde contre la rechute. « Évitons le surpoids, répète-t-il, un peu de minceur ne ferait pas de mal, et pas question de prendre du poids ni d'être obèse. » La coupure qui saigne, la malchance de tomber malade trois fois dans l'année : la santé se vit au quotidien. Une patiente nous révèle un secret : « À propos de santé, mon frère paraît être amoureux de sa kinésithérapeute — il paraît souffrir en silence depuis un an. » Le remède le plus probable reste simple : dormir un peu plus.",
+      "pt": "Em caso de dor no ombro, o médico pode prescrever uma ressonância: ele escreve a receita e alerta contra a recaída. « Evitemos o sobrepeso », repete ele, « um pouco de magreza não faria mal, e nada de ganhar peso nem ser obeso ». O corte que sangra, o azar de ficar doente três vezes no ano: a saúde se vive no dia a dia. Uma paciente nos revela um segredo: « A propósito de saúde, meu irmão parece estar apaixonado pela fisioterapeuta — ele parece sofrer em silêncio há um ano. » O remédio mais provável continua simples: dormir um pouco mais."
+    },
+    {
+      "id": 3,
+      "fr": "Les remèdes simples gardent leur place : dormir un peu plus, se reposer, ne pas avoir honte de ses questions. On dit que celui qui a de la chance ne remet jamais sa visite à plus tard ; la kinésithérapie aide les épaules fragiles, et le suivi après une IRM rassure tout le monde.",
+      "pt": "Os remédios simples mantêm seu lugar: dormir um pouco mais, descansar, não ter vergonha das próprias perguntas. Dizem que quem tem sorte nunca adia a consulta; a fisioterapia ajuda os ombros frágeis, e o acompanhamento depois da ressonância tranquiliza todo mundo."
+    },
+    {
+      "id": 4,
+      "fr": "Les conseils du docteur valent pour tous : attention à la rechute, suivez le traitement prescrit, n'oubliez pas que le surpoids pèse sur les articulations. À Toulouse comme ailleurs, prévention rime avec patience, et le sommeil reste le premier des médicaments.",
+      "pt": "Os conselhos do médico valem para todos: atenção à recaída, siga o tratamento prescrito, não esqueça que o sobrepeso pesa nas articulações. Em Toulouse como em qualquer lugar, prevenção rima com paciência, e o sono segue sendo o primeiro dos remédios."
+    },
+    {
+      "id": 5,
+      "fr": "Le dimanche, une promenade santé longe la Garonne entre le Bazacle et Saint-Cyprien, avant le retour au cabinet de kinésithérapie. Entre l'hôpital Purpan, la salle d'attente du quartier et le fleuve, la santé toulousaine conjugue technologie (l'IRM) et bon sens. Prescrire moins, écouter plus : la Ville rose soigne aussi la peur.",
+      "pt": "No domingo, um passeio saudável acompanha o Garona entre o Bazacle e Saint-Cyprien, antes do retorno ao consultório de fisioterapia. Entre o hospital Purpan, a sala de espera do bairro e o rio, a saúde de Toulouse combina tecnologia (a ressonância) e bom senso. Prescrever menos, ouvir mais: a Ville rose também cura o medo."
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "prescrire",
+      "definitionPt": "prescrever",
+      "definitionFr": "Ordonner un traitement médical.",
+      "inflections": [
+        "je prescris",
+        "il prescrit",
+        "nous prescrivons",
+        "a prescrit"
+      ],
+      "ptTargets": [
+        "prescrever",
+        "receitar"
+      ],
+      "examples": [
+        {
+          "level": "A1",
+          "fr": "Le docteur prescrit un médicament.",
+          "pt": "O médico prescreve um remédio."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Il a prescrit des vitamines pour l'hiver.",
+          "pt": "Ele prescreveu vitaminas para o inverno."
+        },
+        {
+          "level": "B2",
+          "fr": "Le traitement que le médecin a prescrit dure trois semaines.",
+          "pt": "O tratamento que o médico prescreveu dura três semanas."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Prescrire, c'est écrire un avenir de guérison sur une page blanche.",
+          "pt": "Prescrever é escrever um futuro de cura numa página em branco."
+        }
+      ]
+    },
+    {
+      "term": "la rechute",
+      "definitionPt": "a recaída",
+      "definitionFr": "Retour d'une maladie après amélioration.",
+      "inflections": [
+        "la rechute",
+        "une rechute",
+        "des rechutes"
+      ],
+      "ptTargets": [
+        "recaída"
+      ],
+      "examples": [
+        {
+          "level": "A1",
+          "fr": "La rechute est possible.",
+          "pt": "A recaída é possível."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Il a eu une rechute après le match.",
+          "pt": "Ele teve uma recaída depois do jogo."
+        },
+        {
+          "level": "B2",
+          "fr": "La rechute qu'il redoutait est arrivée en plein examen.",
+          "pt": "A recaída que ele temia chegou bem no meio da prova."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "La rechute, invitée silencieuse, rappelle que la santé se mérite chaque jour.",
+          "pt": "A recaída, convidada silenciosa, lembra que a saúde se conquista a cada dia."
+        }
+      ]
+    }
+  ]
+}

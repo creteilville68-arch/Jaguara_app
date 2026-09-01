@@ -1,0 +1,148 @@
+{
+  "id": "toulouse_guide_47",
+  "cityId": "toulouse",
+  "domain": "Viagem & Transportes",
+  "level": "Misto (A1–C2)",
+  "titleFr": "Voyager en train depuis Toulouse : la gare Matabiau et le TER",
+  "titlePt": "Viajar de trem a partir de Toulouse: a estação Matabiau e o TER",
+  "subtitleFr": "Billets, compostage et zone tarifaire dans la région toulousaine",
+  "subtitlePt": "Bilhetes, validação e zona tarifária na região de Toulouse",
+  "summaryPt": "Enciclopédia de Toulouse, seção 47: um único tema aprofundado — viajar de trem. O dossiê percorre a gare Matabiau, a compra do billet aller-retour com carte de réduction, a borne automatique e o compostage obrigatório, a voiture-bar, os imprevistos (train annulé, train complet, deuxième classe) e a zona tarifaire urbana, num retrato do viajante da região (A1–C2).",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "La gare Matabiau, au cœur de la ville rose, est la porte de la région Occitanie. Sur le tableau des départs, les TER s'enchaînent vers Montauban, Albi ou Foix. Un billet aller-retour à tarif réduit s'achète avec une carte de réduction ; composer son billet à la borne automatique est obligatoire avant de monter, rappelle le contrôleur.",
+      "pt": "A estação Matabiau, no coração da ville rose, é a porta da região da Occitânia. No painel de partidas, os TER se sucedem rumo a Montauban, Albi ou Foix. Uma passagem de ida e volta com tarifa reduzida se compra com o cartão de desconto; validar o bilhete no totem automático é obrigatório antes de embarcar, lembra o fiscal."
+    },
+    {
+      "id": 2,
+      "fr": "Non loin, le canal du Midi longe les voies de la gare : ses péniches et ses écluses rappellent que Toulouse s'est construite sur l'eau. La ligne de bus qui mène à la gare traverse toute la zone tarifaire urbaine : un ticket unique suffit pour le bus, le métro et le tramway du réseau Tisséo. Un train annulé peut bloquer les voyageurs ; on finit parfois en deuxième classe, assis par terre, avant de trouver deux fauteuils près de la fenêtre.",
+      "pt": "Perto dali, o canal do Midi acompanha os trilhos da estação: suas barcaças e eclusas lembram que Toulouse se construiu sobre a água. A linha de ônibus que leva à estação atravessa toda a zona tarifária urbana: um bilhete único basta para ônibus, metrô e bonde da rede Tisséo. Um trem cancelado pode bloquear os viajantes; às vezes se acaba na segunda classe, sentados no chão, antes de achar duas poltronas perto da janela."
+    },
+    {
+      "id": 3,
+      "fr": "Dans le train complet, la voiture-bar sert des cafés et des en-cas. Le compostage du billet reste la règle d'or : le contrôleur fait des rappels réguliers. Les voyageurs réguliers gardent leur carte de réduction sur eux et vérifient la zone tarifaire avant de réserver un voyage organisé trop serré.",
+      "pt": "No trem lotado, o vagão-bar serve cafés e lanches. A validação do bilhete segue sendo a regra de ouro: o fiscal faz lembretes constantes. Os viajantes frequentes mantêm o cartão de desconto consigo e conferem a zona tarifária antes de reservar uma viagem organizada apertada demais."
+    },
+    {
+      "id": 4,
+      "fr": "Pour les longues distances, l'avion part de l'aéroport de Blagnac, avec son lot de formalités : un vol avec escale, un décalage horaire à gérer. Mais pour Montauban ou Albi, les Toulousains préfèrent le train : tarif réduit, ponctualité et le plaisir de la voiture-bar.",
+      "pt": "Para distâncias longas, o avião parte do aeroporto de Blagnac, com sua carga de formalidades: um voo com escala, um fuso horário para administrar. Mas para Montauban ou Albi, os toulousains preferem o trem: tarifa reduzida, pontualidade e o prazer do vagão-bar."
+    },
+    {
+      "id": 5,
+      "fr": "Composer son billet, vérifier la zone tarifaire, réserver un aller-retour : le voyage en train depuis Matabiau est un rituel bien huilé. Un plein tarif, un train annulé, une deuxième classe par terre : chaque galère enseigne la patience aux voyageurs.",
+      "pt": "Validar o bilhete, conferir a zona tarifária, reservar uma ida e volta: a viagem de trem a partir de Matabiau é um ritual bem azeitado. Uma tarifa cheia, um trem cancelado, uma segunda classe no chão: cada perrengue ensina paciência aos viajantes."
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "le billet aller-retour",
+      "definitionPt": "a passagem de ida e volta",
+      "definitionFr": "Ticket valable pour l'aller et le retour.",
+      "inflections": [
+        "le billet aller-retour",
+        "un billet aller-retour",
+        "des billets aller-retour"
+      ],
+      "ptTargets": [
+        "passagem de ida e volta",
+        "bilhete de ida e volta"
+      ],
+      "examples": [
+        {
+          "level": "A1",
+          "fr": "Je prends un billet aller-retour.",
+          "pt": "Eu pego uma passagem de ida e volta."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Le billet aller-retour coûte moins cher que deux allers.",
+          "pt": "A passagem de ida e volta custa menos que duas de ida."
+        },
+        {
+          "level": "B2",
+          "fr": "Le billet aller-retour qu'il a acheté est valable un mois.",
+          "pt": "A passagem de ida e volta que ele comprou vale por um mês."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Le billet aller-retour promet un retour, mais le voyage, lui, ne revient jamais.",
+          "pt": "A passagem de ida e volta promete um retorno, mas a viagem, essa, nunca volta."
+        }
+      ]
+    },
+    {
+      "term": "composer son billet",
+      "definitionPt": "validar o bilhete",
+      "definitionFr": "Oblitérer son ticket avant de monter.",
+      "inflections": [
+        "je compose mon billet",
+        "il compose son billet",
+        "a composé son billet"
+      ],
+      "ptTargets": [
+        "validar o bilhete",
+        "carimbar o bilhete"
+      ],
+      "examples": [
+        {
+          "level": "A1",
+          "fr": "Je compose mon billet.",
+          "pt": "Eu valido meu bilhete."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Andréa a composé son billet à la borne.",
+          "pt": "Andréa validou o bilhete no totem."
+        },
+        {
+          "level": "B2",
+          "fr": "Chaque voyageur doit composer son billet avant de monter.",
+          "pt": "Cada viajante deve validar o bilhete antes de embarcar."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Composer son billet, geste minuscule, ouvre pourtant la porte d'un monde entier.",
+          "pt": "Validar o bilhete, gesto minúsculo, abre no entanto a porta de um mundo inteiro."
+        }
+      ]
+    },
+    {
+      "term": "la voiture-bar",
+      "definitionPt": "o vagão-bar",
+      "definitionFr": "Wagon où l'on peut boire et manger.",
+      "inflections": [
+        "la voiture-bar",
+        "une voiture-bar",
+        "des voitures-bars"
+      ],
+      "ptTargets": [
+        "vagão-bar",
+        "vagão restaurante"
+      ],
+      "examples": [
+        {
+          "level": "A1",
+          "fr": "La voiture-bar est au milieu du train.",
+          "pt": "O vagão-bar fica no meio do trem."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "On boit un café dans la voiture-bar.",
+          "pt": "Bebemos um café no vagão-bar."
+        },
+        {
+          "level": "B2",
+          "fr": "La voiture-bar où ils ont déjeuné était pleine.",
+          "pt": "O vagão-bar onde almoçaram estava cheio."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "La voiture-bar, bistrot roulant, sert des adieux légers aux voyageurs.",
+          "pt": "O vagão-bar, bistrô rodante, serve despedidas leves aos viajantes."
+        }
+      ]
+    }
+  ]
+}

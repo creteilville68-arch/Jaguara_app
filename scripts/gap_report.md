@@ -1,15 +1,15 @@
 # Relatório de lacunas — Fase 2 (jardim de palavras)
 
-Banco: 16796 palavras · Cobertas em aulas e guias: 13021 · **Faltantes: 3775**
+Banco: 16796 palavras · Cobertas em aulas e guias: 13023 · **Faltantes: 3773**
 
 | Nível | Faltantes |
 |---|---|
 | A1 | 7 |
 | A2 | 0 |
-| B1 | 2 |
+| B1 | 1 |
 | B2 | 376 |
 | C1 | 725 |
-| C2 | 2665 |
+| C2 | 2664 |
 
 ## Lista de compras (por nível, cidade sugerida)
 
@@ -23,7 +23,6 @@ Banco: 16796 palavras · Cobertas em aulas e guias: 13021 · **Faltantes: 3775**
 | reposer (se) | Descansar, repousar (verbo pronominal) | A1 | paris |
 | trilha | trilha / caminho cultural de exploração | A1 | paris |
 | goûter (verbe) | provar | B1 | tours |
-| l’estime de soi | a autoestima | B1 | tours |
 | accentué | acentuado | B2 | toulouse |
 | adhérer | aderir | B2 | toulouse |
 | admissible | admissível | B2 | toulouse |
@@ -204,7 +203,6 @@ Banco: 16796 palavras · Cobertas em aulas e guias: 13021 · **Faltantes: 3775**
 | la gendarmerie | a gendarmaria | B2 | toulouse |
 | la globalisation | a globalização | B2 | toulouse |
 | la justification | a justificativa | B2 | toulouse |
-| la kinésithérapie | a fisioterapia | B2 | toulouse |
 | la langue seconde | a segunda língua | B2 | toulouse |
 | la levée de fonds | a captação de recursos | B2 | toulouse |
 | la ligne éditoriale | a linha editorial | B2 | toulouse |
@@ -363,6 +361,7 @@ Banco: 16796 palavras · Cobertas em aulas e guias: 13021 · **Faltantes: 3775**
 | pliable | dobrável | B2 | toulouse |
 | pourri | podre / estragado | B2 | toulouse |
 | préjudiciable | prejudicial | B2 | toulouse |
+| préoccupé | preocupado | B2 | toulouse |
 | présenter ses excuses | pedir desculpas | B2 | toulouse |
 | privatif | privativo | B2 | toulouse |
 | productif | produtivo | B2 | toulouse |
@@ -2205,7 +2204,6 @@ Banco: 16796 palavras · Cobertas em aulas e guias: 13021 · **Faltantes: 3775**
 | la mante religieuse | o louva-a-deus | C2 | nice |
 | la marcassite | a marcassita | C2 | nice |
 | la marguerite | a margarida | C2 | nice |
-| la marne | a marga | C2 | nice |
 | la marquise | a marquesa | C2 | nice |
 | la martre | a marta | C2 | nice |
 | la médiane | a mediana | C2 | nice |

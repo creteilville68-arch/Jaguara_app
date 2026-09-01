@@ -1,0 +1,180 @@
+{
+  "id": "toulouse_guide_54",
+  "cityId": "toulouse",
+  "domain": "Natureza & Campo",
+  "level": "Misto (A1–C2)",
+  "titleFr": "Aux portes de Toulouse : l'Aveyron, la ferme et la nature",
+  "titlePt": "Às portas de Toulouse: o Aveyron, a fazenda e a natureza",
+  "subtitleFr": "Étables, ruches et gorges, le poumon vert de la région toulousaine",
+  "subtitlePt": "Estábulos, colmeias e desfiladeiros, o pulmão verde da região de Toulouse",
+  "summaryPt": "Enciclopédia de Toulouse, seção 54: um único tema aprofundado — o campo que cerca a cidade. O dossiê percorre as fermes do Aveyron (étable, poulailler, ruches), os ofícios rurais (apiculteur, braconnage), as paisagens (ravin, galets, bouleaux), os desafios ambientais (marée noire, éruption volcanique) e os valores da vida camponesa (patience, régularité, silence), num retrato do hinterland toulousain (A1–C2).",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "À une heure et demie de la ville rose, l'Aveyron, région d'Occitanie, offre une campagne profonde : hameaux de pierre, fermes et vallées. Dans l'étable, le bétail dort ; au poulailler, les poules attendent leur grain ; dans les ruches, l'apiculteur récolte un miel réputé depuis des décennies.",
+      "pt": "A uma hora e meia da ville rose, o Aveyron, região da Occitânia, oferece um campo profundo: vilarejos de pedra, fazendas e vales. No estábulo, o gado dorme; no galinheiro, as galinhas esperam o grão; nas colmeias, o apicultor colhe um mel famoso há décadas."
+    },
+    {
+      "id": 2,
+      "fr": "Le braconnage, vraie plaie de la région, inquiète les éleveurs : la loi protège la faune, et les gendarmes veillent sur les vallées. Les braconniers passent parfois, dit-on, mais le gendarme et le maire rappellent que respecter la loi, c'est protéger le bien commun.",
+      "pt": "A caça ilegal, verdadeira praga da região, preocupa os criadores: a lei protege a fauna, e os gendarmes vigiam os vales. Os caçadores ilegais às vezes passam, dizem, mas o gendarme e o prefeito lembram que respeitar a lei é proteger o bem comum."
+    },
+    {
+      "id": 3,
+      "fr": "Au nord de Toulouse, la vallée du Tarn annonce la campagne ; plus loin, les paysages offrent des ravins aux galets arrondis par l'eau, des bouleaux penchés au-dessus du vide, des pierres polies par les siècles. Les randonneurs y cherchent le silence de la forêt. « Pas d'oasis ni de jungle ici, plaisante-t-on, la forêt suffit. »",
+      "pt": "Ao norte de Toulouse, o vale do Tarn anuncia o campo; mais longe, as paisagens oferecem desfiladeiros com seixos arredondados pela água, bétulas inclinadas sobre o vazio, pedras polidas pelos séculos. Os trilheiros buscam ali o silêncio da floresta. « Sem oásis nem selva aqui », brinca-se, « a floresta basta »."
+    },
+    {
+      "id": 4,
+      "fr": "Les documentaires rappellent les grands défis planétaires : la marée noire sur les côtes, une éruption volcanique en Islande, le coût de l'aluminium, la fourrure passée de mode. La nature se respecte comme on respecte la loi, répètent les habitants des fermes.",
+      "pt": "Os documentários lembram os grandes desafios planetários: o vazamento de petróleo no litoral, uma erupção vulcânica na Islândia, o custo do alumínio, a pele fora de moda. A natureza se respeita como se respeita a lei, repetem os moradores das fazendas."
+    },
+    {
+      "id": 5,
+      "fr": "À la ferme, la patience s'apprend : on goûte le miel sur une tartine, on retire les cadres des ruches, on attend les veaux nouveau-nés au printemps. Les abeilles enseignent la régularité, la forêt, le silence. Aux portes de Toulouse, l'Aveyron est une école de campagne.",
+      "pt": "Na fazenda, a paciência se aprende: prova-se o mel numa torrada, retiram-se os favos das colmeias, esperam-se os bezerros recém-nascidos na primavera. As abelhas ensinam a regularidade; a floresta, o silêncio. Às portas de Toulouse, o Aveyron é uma escola do campo."
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "le braconnage",
+      "definitionPt": "a caça ilegal",
+      "definitionFr": "Chasse interdite, sans permis.",
+      "inflections": [
+        "le braconnage"
+      ],
+      "ptTargets": [
+        "caça ilegal"
+      ],
+      "examples": [
+        {
+          "level": "A1",
+          "fr": "Le braconnage est interdit.",
+          "pt": "A caça ilegal é proibida."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Le braconnage menace les animaux.",
+          "pt": "A caça ilegal ameaça os animais."
+        },
+        {
+          "level": "B2",
+          "fr": "Le braconnage dont parle le cousin sévit dans la vallée.",
+          "pt": "A caça ilegal de que o primo fala assola o vale."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Le braconnage, guerre sourde des forêts, tue sans bruit la beauté du monde.",
+          "pt": "A caça ilegal, guerra surda das florestas, mata sem ruído a beleza do mundo."
+        }
+      ]
+    },
+    {
+      "term": "l'apiculteur",
+      "definitionPt": "o apicultor",
+      "definitionFr": "Personne qui élève des abeilles.",
+      "inflections": [
+        "l'apiculteur",
+        "un apiculteur",
+        "des apiculteurs"
+      ],
+      "ptTargets": [
+        "apicultor"
+      ],
+      "examples": [
+        {
+          "level": "A1",
+          "fr": "L'apiculteur aime les abeilles.",
+          "pt": "O apicultor ama as abelhas."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "L'apiculteur récolte le miel en été.",
+          "pt": "O apicultor colhe o mel no verão."
+        },
+        {
+          "level": "B2",
+          "fr": "L'apiculteur qui vit dans le hameau connaît chaque ruche.",
+          "pt": "O apicultor que mora no vilarejo conhece cada colmeia."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "L'apiculteur, confident des abeilles, lit dans leur danse la carte des saisons.",
+          "pt": "O apicultor, confidente das abelhas, lê na dança delas o mapa das estações."
+        }
+      ]
+    },
+    {
+      "term": "l'étable",
+      "definitionPt": "o estábulo",
+      "definitionFr": "Lieu où l'on garde les vaches.",
+      "inflections": [
+        "l'étable",
+        "une étable",
+        "des étables"
+      ],
+      "ptTargets": [
+        "estábulo",
+        "estábulo de vacas"
+      ],
+      "examples": [
+        {
+          "level": "A1",
+          "fr": "L'étable est grande.",
+          "pt": "O estábulo é grande."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Le bétail dormait dans l'étable.",
+          "pt": "O gado dormia no estábulo."
+        },
+        {
+          "level": "B2",
+          "fr": "L'étable où ils ont dormi sentait le foin.",
+          "pt": "O estábulo onde dormiram cheirava a feno."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "L'étable, cathédrale de bois et de chaleur, garde le souffle tranquille des bêtes.",
+          "pt": "O estábulo, catedral de madeira e calor, guarda o sopro tranquilo dos animais."
+        }
+      ]
+    },
+    {
+      "term": "la marée noire",
+      "definitionPt": "o vazamento de petróleo",
+      "definitionFr": "Pollution des côtes par du pétrole.",
+      "inflections": [
+        "la marée noire",
+        "une marée noire",
+        "des marées noires"
+      ],
+      "ptTargets": [
+        "vazamento de petróleo",
+        "maré negra"
+      ],
+      "examples": [
+        {
+          "level": "A1",
+          "fr": "La marée noire est triste.",
+          "pt": "O vazamento de petróleo é triste."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "La marée noire a sali la plage.",
+          "pt": "O vazamento de petróleo sujou a praia."
+        },
+        {
+          "level": "B2",
+          "fr": "La marée noire dont parlait le documentaire reste un drame.",
+          "pt": "O vazamento de petróleo de que o documentário falava segue sendo um drama."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "La marée noire, tache de l'avidité sur l'océan, efface des vies d'un seul geste.",
+          "pt": "O vazamento de petróleo, mancha da ganância no oceano, apaga vidas num único gesto."
+        }
+      ]
+    }
+  ]
+}

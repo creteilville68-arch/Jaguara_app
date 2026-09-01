@@ -1,0 +1,111 @@
+{
+  "id": "toulouse_guide_48",
+  "cityId": "toulouse",
+  "domain": "Compras & Consumo",
+  "level": "Misto (A1–C2)",
+  "titleFr": "Commerces toulousains : du vide-grenier à la livraison à domicile",
+  "titlePt": "Comércios de Toulouse: do bazar de domingo à entrega em domicílio",
+  "subtitleFr": "Marchés, boutiques en ligne et rapport qualité-prix dans la Ville rose",
+  "subtitlePt": "Mercados, lojas online e custo-benefício na Ville rose",
+  "summaryPt": "Enciclopédia de Toulouse, seção 48: um único tema aprofundado — o comércio na cidade. O dossiê percorre o vide-grenier e o troc entre vizinhos, os marchés (Victor Hugo, Carmes), a boutique en ligne com ses modes de livraison (livraison à domicile, retrait en magasin), o código de barras e os pontos de fidelidade, numa visão do consumidor toulousain e do seu rapport qualité-prix (A1–C2).",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "À Toulouse, le commerce vit à deux rythmes : les grands marchés couverts, comme le marché Victor Hugo et le marché des Carmes, et le vide-grenier du dimanche, où le troc entre voisins offre un rapport qualité-prix imbattable. On y trouve un produit d'occasion, un vélo, ou un manteau sur lequel il faudra faire une retouche chez le retoucheur.",
+      "pt": "Em Toulouse, o comércio vive em dois ritmos: os grandes mercados cobertos, como o mercado Victor Hugo e o mercado dos Carmes, e o bazar (vide-grenier) de domingo, onde a troca entre vizinhos oferece um custo-benefício imbatível. Acha-se lá um produto de segunda mão, uma bicicleta, ou um casaco no qual será preciso fazer um ajuste no costureiro."
+    },
+    {
+      "id": 2,
+      "fr": "Les boutiques en ligne ont conquis le quartier : le client choisit entre la livraison à domicile et le retrait en magasin. Pour suivre la commande, il scanne le code-barres dans l'application. Le délai de livraison reste un mystère, et l'impossibilité de trouver une place pour se garer près du centre, un cauchemar bien connu. Beaucoup appellent cela une vraie inutilité.",
+      "pt": "As lojas online conquistaram o bairro: o cliente escolhe entre a entrega em domicílio e a retirada na loja. Para acompanhar o pedido, ele escaneia o código de barras no aplicativo. O prazo de entrega segue um mistério, e a impossibilidade de achar vaga perto do centro, um pesadelo conhecido. Muitos chamam isso de uma inutilidade total."
+    },
+    {
+      "id": 3,
+      "fr": "Le service après-vente simplifie la vie : une réclamation suffit souvent pour être remboursé. Les points de fidélité s'accumulent dans l'application, le magasin d'usine de la zone vend à prix bas, et les vitrines du centre présentent des mannequins habillés par de jeunes stylistes.",
+      "pt": "O serviço de pós-venda simplifica a vida: uma reclamação costuma bastar para ser reembolsado. Os pontos de fidelidade se acumulam no aplicativo, a loja de fábrica da zona vende a preço baixo, e as vitrines do centro apresentam manequins vestidos por jovens estilistas."
+    },
+    {
+      "id": 4,
+      "fr": "Marché couvert, magasin de proximité, boutique en ligne : le Toulousain compare tout. « Par contre, le délai de livraison reste un mystère », plaisante-t-on au comptoir. Le retour en magasin, le suivi de commande, le scan du code-barres : la consommation moderne a ses rituels.",
+      "pt": "Mercado coberto, loja de bairro, loja online: o toulousain compara tudo. « Em compensação, o prazo de entrega continua um mistério », brinca-se no balcão. A devolução na loja, o rastreio do pedido, o escaneamento do código de barras: o consumo moderno tem seus rituais."
+    },
+    {
+      "id": 5,
+      "fr": "Au final, le rapport qualité-prix prime : on chine la bonne affaire au vide-grenier, on sélectionne la livraison à domicile, on garde ses points de fidélité. À Toulouse, même les courses racontent une ville marchande et débrouillarde, du troc de quartier au clic en ligne.",
+      "pt": "No fim, o custo-benefício manda: caça-se a boa pechincha no bazar, escolhe-se a entrega em domicílio, guardam-se os pontos de fidelidade. Em Toulouse, até as compras contam uma cidade mercadora e desenrascada, da troca no bairro ao clique online."
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "la livraison à domicile",
+      "definitionPt": "a entrega em domicílio",
+      "definitionFr": "Service qui porte les achats chez le client.",
+      "inflections": [
+        "la livraison à domicile",
+        "une livraison à domicile",
+        "des livraisons à domicile"
+      ],
+      "ptTargets": [
+        "entrega em domicílio",
+        "entrega na porta de casa"
+      ],
+      "examples": [
+        {
+          "level": "A1",
+          "fr": "La livraison à domicile est pratique.",
+          "pt": "A entrega em domicílio é prática."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "J'attends une livraison à domicile cet après-midi.",
+          "pt": "Espero uma entrega em domicílio hoje à tarde."
+        },
+        {
+          "level": "B2",
+          "fr": "La livraison à domicile qu'ils annonçaient a mis trois jours.",
+          "pt": "A entrega em domicílio que anunciavam levou três dias."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "La livraison à domicile, messagère moderne, traverse la ville sans jamais saluer.",
+          "pt": "A entrega em domicílio, mensageira moderna, atravessa a cidade sem nunca cumprimentar."
+        }
+      ]
+    },
+    {
+      "term": "le rapport qualité-prix",
+      "definitionPt": "o custo-benefício",
+      "definitionFr": "Équilibre entre le prix et la qualité.",
+      "inflections": [
+        "le rapport qualité-prix",
+        "un bon rapport qualité-prix"
+      ],
+      "ptTargets": [
+        "custo-benefício",
+        "relação qualidade-preço"
+      ],
+      "examples": [
+        {
+          "level": "A1",
+          "fr": "Le rapport qualité-prix est bon.",
+          "pt": "O custo-benefício é bom."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Ce magasin offre un bon rapport qualité-prix.",
+          "pt": "Essa loja oferece um bom custo-benefício."
+        },
+        {
+          "level": "B2",
+          "fr": "Le rapport qualité-prix du vide-grenier est imbattable.",
+          "pt": "O custo-benefício do bazar é imbatível."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Le rapport qualité-prix, juge sourd des marchés, décide sans un mot.",
+          "pt": "O custo-benefício, juiz surdo dos mercados, decide sem dizer palavra."
+        }
+      ]
+    }
+  ]
+}

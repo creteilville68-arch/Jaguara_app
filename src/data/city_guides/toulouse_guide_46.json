@@ -1,0 +1,113 @@
+{
+  "id": "toulouse_guide_46",
+  "cityId": "toulouse",
+  "domain": "Transportes & Mobilidade",
+  "level": "Misto (A1–C2)",
+  "titleFr": "La voiture à Toulouse : stationnement, garagiste et sécurité routière",
+  "titlePt": "O carro em Toulouse: estacionamento, mecânico e segurança no trânsito",
+  "subtitleFr": "Horodateurs, dépanneuses et auto-écoles dans la Ville rose",
+  "subtitlePt": "Parquímetros, guinchos e autoescolas na Ville rose",
+  "summaryPt": "Enciclopédia de Toulouse, seção 46: um único tema aprofundado — o automóvel na cidade. O dossiê percorre o estacionamento (horodateur, disque, amende), os imprevistos na estrada (un clou crève un pneu, la dépanneuse, la bande d'arrêt d'urgence), a oficina (boîte de vitesses, embrayage, voiture hybride et électrique, gazole) e a prudência toulousaine (cédez-le-passage, limiteur de vitesse, auto-école, permis moto) (A1–C2).",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "À Toulouse, la voiture reste reine dans les quartiers périphériques, mais le centre-ville impose ses règles. Rue du Taur, près du Capitole, il faut glisser une pièce dans l'horodateur avant de s'éloigner. Les panneaux rappellent les zones de stationnement interdit, et un disque de stationnement mal posé expose à prendre une amende, surtout devant le marché du samedi.",
+      "pt": "Em Toulouse, o carro ainda reina nos bairros periféricos, mas o centro impõe suas regras. Na rue du Taur, perto do Capitole, é preciso pôr uma moeda no parquímetro antes de se afastar. As placas lembram as zonas de estacionamento proibido, e um disco de estacionamento mal colocado expõe a levar uma multa, sobretudo diante do mercado de sábado."
+    },
+    {
+      "id": 2,
+      "fr": "Les Toulousains connaissent les aléas de la route : une amende pour un mauvais stationnement, un clou qui crève un pneu sur la bande d'arrêt d'urgence, un embrayage fatigué. On jette le clou dans une poubelle publique, on actionne le limiteur de vitesse, on s'arrête au stop — pas au simple cédez-le-passage — et on appelle le dépannage : la dépanneuse arrive en vingt minutes.",
+      "pt": "Os toulousains conhecem os imprevistos da estrada: multa por mau estacionamento, um prego que fura o pneu no acostamento, uma embreagem cansada. Joga-se o prego numa lixeira pública, aciona-se o limitador de velocidade, para-se no pare — não no simples dê a preferência — e chama-se o socorro: o guincho chega em vinte minutos."
+    },
+    {
+      "id": 3,
+      "fr": "Chez le garagiste, les diagnostics parlent clair : la boîte de vitesses est solide, l'embrayage fatigué. Dans la salle d'exposition, on découvre aussi la voiture hybride, présentée comme le meilleur des deux mondes, aux côtés des voitures électriques ; le gazole, lui, reste le plus doux pour le budget. Boucler sa ceinture, se ranger dans la file de droite pendant que la file de gauche défile, rester sur la bande d'arrêt d'urgence : la prudence, à Toulouse, fait loi.",
+      "pt": "Na oficina, os diagnósticos são claros: a caixa de marchas está sólida, a embreagem cansada. Na sala de exposição, descobre-se também o carro híbrido, apresentado como o melhor dos dois mundos, ao lado dos carros elétricos; o diesel, esse, segue o mais suave para o bolso. Afivelar o cinto, encostar na faixa da direita enquanto a faixa da esquerda passa, permanecer no acostamento: a prudência, em Toulouse, vira lei."
+    },
+    {
+      "id": 4,
+      "fr": "La ville pousse à la mobilité douce : métro Tisséo, téléphérique Téléo au-dessus de la Garonne et vélos en libre-service. Pourtant, l'auto-école du quartier affiche complet : beaucoup veulent passer le permis moto, apprendre à se garer entre les filets sans crainte et maîtriser le limiteur de vitesse avant de s'aventurer dans la circulation.",
+      "pt": "A cidade incentiva a mobilidade suave: metrô Tisséo, o teleférico Téléo sobre o Garona e bicicletas compartilhadas. Ainda assim, a autoescola do bairro está lotada: muitos querem tirar a carteira de moto, aprender a estacionar entre as faixas sem medo e dominar o limitador de velocidade antes de se aventurar no trânsito."
+    },
+    {
+      "id": 5,
+      "fr": "Au final, la voiture toulousaine apprend la patience : garer la voiture rue du Taur, respecter les zones de stationnement interdit, faire réviser l'embrayage chez le garagiste. Entre la dépanneuse et le plein de gazole, conduire à Toulouse, c'est aussi savoir lire la ville — sauf si l'on préfère la marche.",
+      "pt": "No fim, o carro toulousain ensina paciência: estacionar na rue du Taur, respeitar as zonas de estacionamento proibido, revisar a embreagem no mecânico. Entre o guincho e o tanque cheio de diesel, dirigir em Toulouse também é saber ler a cidade — a não ser que se prefira caminhar."
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "crever un pneu",
+      "definitionPt": "furar um pneu",
+      "definitionFr": "Perdre l'air à cause d'un trou.",
+      "inflections": [
+        "crever un pneu",
+        "je crève un pneu",
+        "il crève un pneu",
+        "a crevé un pneu"
+      ],
+      "ptTargets": [
+        "furar um pneu",
+        "estourar o pneu"
+      ],
+      "examples": [
+        {
+          "level": "A1",
+          "fr": "Le clou a crevé un pneu.",
+          "pt": "O prego furou um pneu."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Sur la route, la voiture a crevé un pneu.",
+          "pt": "Na estrada, o carro furou um pneu."
+        },
+        {
+          "level": "B2",
+          "fr": "Crever un pneu un dimanche soir, c'est le scénario préféré des vacances.",
+          "pt": "Furar um pneu num domingo à noite é o cenário preferido das férias."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Crever un pneu à l'aube, c'est faire halte là où le destin vous pose.",
+          "pt": "Furar um pneu ao amanhecer é fazer uma parada onde o destino o deixa."
+        }
+      ]
+    },
+    {
+      "term": "la dépanneuse",
+      "definitionPt": "o guincho",
+      "definitionFr": "Camion qui remorque les voitures en panne.",
+      "inflections": [
+        "la dépanneuse",
+        "une dépanneuse",
+        "des dépanneuses"
+      ],
+      "ptTargets": [
+        "guincho",
+        "reboque"
+      ],
+      "examples": [
+        {
+          "level": "A1",
+          "fr": "La dépanneuse est grande.",
+          "pt": "O guincho é grande."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "La dépanneuse emmène la voiture au garage.",
+          "pt": "O guincho leva o carro para a oficina."
+        },
+        {
+          "level": "B2",
+          "fr": "La dépanneuse que nous avons appelée est arrivée très vite.",
+          "pt": "O guincho que chamamos chegou muito rápido."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "La dépanneuse, fourmi des routes, emporte les machines vers leur guérison.",
+          "pt": "O guincho, formiga das estradas, leva as máquinas rumo à cura."
+        }
+      ]
+    }
+  ]
+}

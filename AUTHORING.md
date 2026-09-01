@@ -27,8 +27,8 @@ reaparece em outras aulas ou cidades.
 | --- | --- |
 | Arquivos de texto analisados (aulas + guias) | 1012 |
 | Palavras únicas no banco | 16.796 |
-| Já presentes nos textos (cobertura morfológica) | 13.021 |
-| **Ainda falta escrever nos textos** | **3.775** |
+| Já presentes nos textos (cobertura morfológica) | 13.023 |
+| **Ainda falta escrever nos textos** | **3.773** |
 
 A meta é atingida quando a coluna "ainda falta" chegar a zero — ou seja,
 quando todas as palavras da lista de cada cidade aparecerem nos parágrafos

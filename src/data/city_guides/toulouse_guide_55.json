@@ -1,0 +1,180 @@
+{
+  "id": "toulouse_guide_55",
+  "cityId": "toulouse",
+  "domain": "Justiça & Cidadania",
+  "level": "Misto (A1–C2)",
+  "titleFr": "La justice à Toulouse : tribunal, procès et sécurité",
+  "titlePt": "A justiça em Toulouse: tribunal, julgamentos e segurança",
+  "subtitleFr": "Du palais de justice au commissariat, les règles de la Ville rose",
+  "subtitlePt": "Do palácio da justiça à delegacia, as regras da Ville rose",
+  "summaryPt": "Enciclopédia de Toulouse, seção 55: um único tema aprofundado — a justiça e a segurança na cidade. O dossiê percorre o fait divers (cambriolage, agression sur un gardien), a enquete (arrestation, suspect, alibi), o tribunal (preuve, procès, juge, avocat, prévenu, condamnation, prison), a liberté conditionnelle e o papel da loi e do sénateur, num retrato da cidadania toulousaine (A1–C2).",
+  "paragraphs": [
+    {
+      "id": 1,
+      "fr": "À Toulouse, le palais de justice et le tribunal traitent chaque année de nombreux faits divers. Un cambriolage au premier étage, une agression sur un gardien : la police procède à une arrestation rapide, et le suspect, souvent un voisin, présente un alibi fragile.",
+      "pt": "Em Toulouse, o palácio da justiça e o tribunal tratam todos os anos muitos casos policiais. Um arrombamento no primeiro andar, uma agressão a um zelador: a polícia faz uma prisão rápida, e o suspeito, geralmente um vizinho, apresenta um álibi frágil."
+    },
+    {
+      "id": 2,
+      "fr": "La liberté conditionnelle n'arrive pas tout de suite : le commissaire, puis le juge, examinent la preuve. Respecter la loi est la base de la vie collective, rappellent les magistrats ; le tribunal, lui, attend les témoignages et les éléments concrets.",
+      "pt": "A liberdade condicional não chega logo: o comissário, depois o juiz, examinam a prova. Respeitar a lei é a base da vida coletiva, lembram os magistrados; o tribunal, esse, espera os testemunhos e os elementos concretos."
+    },
+    {
+      "id": 3,
+      "fr": "Au procès, le juge écoute le gardien, puis l'avocat du prévenu. Quand l'alibi ne tient plus — deux voisins ont vu le suspect devant l'immeuble —, le juge condamne le coupable à une peine de prison. Le sénateur du département propose, lui, de voter une loi plus sévère contre le cambriolage.",
+      "pt": "No julgamento, o juiz ouve o zelador e depois o advogado do réu. Quando o álibi não se sustenta — dois vizinhos viram o suspeito diante do prédio —, o juiz condena o culpado a uma pena de prisão. O senador do departamento propõe, ele, aprovar uma lei mais severa contra o arrombamento."
+    },
+    {
+      "id": 4,
+      "fr": "Les débats touchent la citoyenneté : la liberté conditionnelle vient si le condamné change vraiment ; la confiance de la rue, elle, se recolle lentement. Le tribunal punit, mais la rue se souvient, et la prévention vaut mieux que la répression.",
+      "pt": "Os debates tocam a cidadania: a liberdade condicional vem se o condenado muda de verdade; a confiança da rua, essa, se reconstrói devagar. O tribunal pune, mas a rua lembra, e a prevenção vale mais que a repressão."
+    },
+    {
+      "id": 5,
+      "fr": "De la plainte à l'arrestation, de l'alibi au procès, la justice toulousaine suit son cours lent et minutieux, de la place du Capitole au palais de justice. Pour les habitants, un cambriolage s'oublie moins qu'une amende : la loi protège, mais la prudence protège mieux.",
+      "pt": "Da queixa à prisão, do álibi ao julgamento, a justiça de Toulouse segue seu curso lento e minucioso, da place du Capitole ao palácio da justiça. Para os moradores, um arrombamento se esquece menos que uma multa: a lei protege, mas a prudência protege melhor."
+    }
+  ],
+  "vocabularyDictionary": [
+    {
+      "term": "le cambriolage",
+      "definitionPt": "o arrombamento; o roubo a uma casa",
+      "definitionFr": "Vol commis en s'introduisant dans un lieu privé.",
+      "inflections": [
+        "le cambriolage",
+        "un cambriolage",
+        "des cambriolages"
+      ],
+      "ptTargets": [
+        "arrombamento",
+        "roubo de residência"
+      ],
+      "examples": [
+        {
+          "level": "A1",
+          "fr": "Le cambriolage est grave.",
+          "pt": "O arrombamento é grave."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Il y a eu un cambriolage au premier étage.",
+          "pt": "Houve um arrombamento no primeiro andar."
+        },
+        {
+          "level": "B2",
+          "fr": "Le cambriolage dont parle le journal s'est passé la nuit.",
+          "pt": "O arrombamento de que o jornal fala aconteceu de noite."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "Le cambriolage, main anonyme dans la pénombre, laisse derrière lui des portes brisées.",
+          "pt": "O arrombamento, mão anônima na penumbra, deixa atrás de si portas quebradas."
+        }
+      ]
+    },
+    {
+      "term": "l'arrestation",
+      "definitionPt": "a prisão; a detenção",
+      "definitionFr": "Action de priver quelqu'un de liberté.",
+      "inflections": [
+        "l'arrestation",
+        "une arrestation",
+        "des arrestations"
+      ],
+      "ptTargets": [
+        "prisão",
+        "detenção"
+      ],
+      "examples": [
+        {
+          "level": "A1",
+          "fr": "L'arrestation est terminée.",
+          "pt": "A prisão terminou."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "La police a procédé à une arrestation rapide.",
+          "pt": "A polícia fez uma prisão rápida."
+        },
+        {
+          "level": "B2",
+          "fr": "L'arrestation qui a suivi le cambriolage a duré deux heures.",
+          "pt": "A prisão que se seguiu ao arrombamento durou duas horas."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "L'arrestation, poing fermé de la justice, tombe parfois sur l'innocent.",
+          "pt": "A prisão, punho fechado da justiça, às vezes cai sobre o inocente."
+        }
+      ]
+    },
+    {
+      "term": "l'alibi",
+      "definitionPt": "o álibi",
+      "definitionFr": "Preuve que l'on était ailleurs au moment des faits.",
+      "inflections": [
+        "l'alibi",
+        "un alibi",
+        "des alibis"
+      ],
+      "ptTargets": [
+        "álibi"
+      ],
+      "examples": [
+        {
+          "level": "A1",
+          "fr": "L'alibi est important.",
+          "pt": "O álibi é importante."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Le suspect avait un alibi fragile.",
+          "pt": "O suspeito tinha um álibi frágil."
+        },
+        {
+          "level": "B2",
+          "fr": "L'alibi qu'il présentait ne tenait pas debout.",
+          "pt": "O álibi que ele apresentava não se sustentava."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "L'alibi, masque du temps, prétend que l'heure protège celui qui la maîtrise.",
+          "pt": "O álibi, máscara do tempo, afirma que a hora protege quem a domina."
+        }
+      ]
+    },
+    {
+      "term": "la liberté conditionnelle",
+      "definitionPt": "a liberdade condicional",
+      "definitionFr": "Sortie de prison sous conditions.",
+      "inflections": [
+        "la liberté conditionnelle"
+      ],
+      "ptTargets": [
+        "liberdade condicional"
+      ],
+      "examples": [
+        {
+          "level": "A1",
+          "fr": "La liberté conditionnelle est une chance.",
+          "pt": "A liberdade condicional é uma chance."
+        },
+        {
+          "level": "A2-B1",
+          "fr": "Il a obtenu la liberté conditionnelle après trois ans.",
+          "pt": "Ele obteve a liberdade condicional depois de três anos."
+        },
+        {
+          "level": "B2",
+          "fr": "La liberté conditionnelle qu'il a obtenue impose des règles strictes.",
+          "pt": "A liberdade condicional que ele obteve impõe regras rígidas."
+        },
+        {
+          "level": "C1-C2",
+          "fr": "La liberté conditionnelle, pont fragile entre la prison et la vie, se traverse pas à pas.",
+          "pt": "A liberdade condicional, ponte frágil entre a prisão e a vida, atravessa-se passo a passo."
+        }
+      ]
+    }
+  ]
+}
