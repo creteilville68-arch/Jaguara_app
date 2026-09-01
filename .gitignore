@@ -8,3 +8,5 @@ coverage/
 !.env.example
 scripts/audit_report.json
 scripts/clickable_examples_report.json
+scripts/city_relevance_report.json
+scripts/city_substance_report.json

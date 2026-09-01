@@ -133,4 +133,22 @@ export const TOULOUSE_BACKLOG_EXAMPLES_12: Record<string, { level: string; fr: s
     { level: "B1", fr: "La crise redéfinit les priorités.", pt: "A crise redefine as prioridades." },
     { level: "C1", fr: "Redéfinir ses objectifs n'est pas renoncer : c'est reconnaître que le chemin a changé et que la carte doit être retracée.", pt: "Redefinir os objetivos não é desistir: é reconhecer que o caminho mudou e que o mapa precisa ser retraçado." },
   ],
+  'par contre': [
+    { level: 'A1', fr: "Je n'aime pas le froid. Par contre, j'adore la neige.", pt: 'Não gosto do frio. Em compensação, adoro a neve.' },
+    { level: 'A2-B1', fr: 'Le voyage était long ; par contre, les paysages étaient magnifiques.', pt: 'A viagem foi longa; em compensação, as paisagens eram magníficas.' },
+    { level: 'B2', fr: 'Le restaurant était cher, mais par contre le service était irréprochable.', pt: 'O restaurante era caro, mas em compensação o serviço era impecável.' },
+    { level: 'C1-C2', fr: "L'échec, par contre, n'est permis que si l'on en tire une leçon.", pt: 'O fracasso, em compensação, só é permitido se dele se tira uma lição.' },
+  ],
+  "j'évite": [
+    { level: 'A1', fr: "J'évite le sucre le soir.", pt: 'Evito açúcar à noite.' },
+    { level: 'A2-B1', fr: "J'évite le vol avec escale quand c'est possible.", pt: 'Evito voo com escala quando é possível.' },
+    { level: 'B2', fr: 'J\'évite de répondre quand je suis en colère.', pt: 'Evito responder quando estou com raiva.' },
+    { level: 'C1-C2', fr: "J'évite les jugements hâtifs : l'apparence trompe souvent.", pt: 'Evito julgamentos precipitados: a aparência muitas vezes engana.' },
+  ],
+  "d'affichage": [
+    { level: 'A1', fr: "Le panneau d'affichage est au mur.", pt: 'O painel de avisos está na parede.' },
+    { level: 'A2-B1', fr: "Le panneau d'affichage du club annonce les matchs.", pt: 'O painel de avisos do clube anuncia os jogos.' },
+    { level: 'B2', fr: "Le panneau d'affichage qu'elle consulte affiche les nouveaux horaires.", pt: 'O painel de avisos que ela consulta exibe os novos horários.' },
+    { level: 'C1-C2', fr: "Le panneau d'affichage, mémoire de la rue, parle plus fort que les rumeurs.", pt: 'O painel de avisos, memória da rua, fala mais alto que os boatos.' },
+  ],
 };
