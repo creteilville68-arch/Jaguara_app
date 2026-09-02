@@ -1,15 +1,15 @@
 # Relatório de lacunas — Fase 2 (jardim de palavras)
 
-Banco: 16796 palavras · Cobertas em aulas e guias: 13213 · **Faltantes: 3583**
+Banco: 16796 palavras · Cobertas em aulas e guias: 13287 · **Faltantes: 3509**
 
 | Nível | Faltantes |
 |---|---|
 | A1 | 7 |
 | A2 | 0 |
 | B1 | 1 |
-| B2 | 270 |
-| C1 | 680 |
-| C2 | 2625 |
+| B2 | 241 |
+| C1 | 650 |
+| C2 | 2610 |
 
 ## Lista de compras (por nível, cidade sugerida)
 
@@ -32,10 +32,7 @@ Banco: 16796 palavras · Cobertas em aulas e guias: 13213 · **Faltantes: 3583**
 | apathique | apático | B2 | toulouse |
 | appréhender | apreender / temer | B2 | toulouse |
 | approximativement | aproximadamente | B2 | toulouse |
-| attristé | entristecido | B2 | toulouse |
-| bafouiller | gaguejar / enrolar | B2 | toulouse |
 | basique | básico | B2 | toulouse |
-| bredouiller | balbuciar | B2 | toulouse |
 | cassable | quebrável | B2 | toulouse |
 | catastrophique | catastrófico | B2 | toulouse |
 | congelé | congelado | B2 | toulouse |
@@ -51,15 +48,12 @@ Banco: 16796 palavras · Cobertas em aulas e guias: 13213 · **Faltantes: 3583**
 | docile | dócil | B2 | toulouse |
 | entrevoir | entrever | B2 | toulouse |
 | ergonomique | ergonômico | B2 | toulouse |
-| excité | excitado / animado | B2 | toulouse |
 | explicable | explicável | B2 | toulouse |
 | externaliser | externalizar | B2 | toulouse |
 | facultatif | facultativo | B2 | toulouse |
 | frémissir | estremecer, tremer (verbo) | B2 | toulouse |
-| gai | alegre / animado | B2 | toulouse |
 | graduel | gradual | B2 | toulouse |
 | horrible | horrível | B2 | toulouse |
-| immangeable | intragável | B2 | toulouse |
 | improductif | improdutivo | B2 | toulouse |
 | impropre | impróprio | B2 | toulouse |
 | inactif | inativo | B2 | toulouse |
@@ -78,11 +72,9 @@ Banco: 16796 palavras · Cobertas em aulas e guias: 13213 · **Faltantes: 3583**
 | inviable | inviável | B2 | toulouse |
 | invivable | insuportável | B2 | toulouse |
 | l’acte notarié | a escritura pública | B2 | toulouse |
-| l’affirmation de soi | a autoafirmação | B2 | toulouse |
 | l’agressivité | a agressividade | B2 | toulouse |
 | l’aide financière | a ajuda financeira | B2 | toulouse |
 | l’allocution | a alocução | B2 | toulouse |
-| l’amour-propre | o amor-próprio | B2 | toulouse |
 | l’antonyme | o antônimo | B2 | toulouse |
 | l’assimilation | a assimilação | B2 | toulouse |
 | l’audimat | o ibope | B2 | toulouse |
@@ -105,17 +97,14 @@ Banco: 16796 palavras · Cobertas em aulas e guias: 13213 · **Faltantes: 3583**
 | l’idéologie | a ideologia | B2 | toulouse |
 | l’immoralité | a imoralidade | B2 | toulouse |
 | l’impolitesse | a grosseria | B2 | toulouse |
-| l’imprécision | a imprecisão | B2 | toulouse |
 | l’indécence | a indecência | B2 | toulouse |
 | l’indiscrétion | a indiscrição | B2 | toulouse |
 | l’individualisme | o individualismo | B2 | toulouse |
 | l’ingratitude | a ingratidão | B2 | toulouse |
 | l’insatisfaction | a insatisfação | B2 | toulouse |
-| l’insinuation | a insinuação | B2 | toulouse |
 | l’interrogatoire | o interrogatório | B2 | toulouse |
 | l’intervalle | o intervalo | B2 | toulouse |
 | l’intimidation | a intimidação | B2 | toulouse |
-| l’intonation | a entonação | B2 | toulouse |
 | l’irrationalité | a irracionalidade | B2 | toulouse |
 | l’organisme génétiquement modifié | o organismo geneticamente modificado | B2 | toulouse |
 | la base de données | o banco de dados | B2 | toulouse |
@@ -126,10 +115,8 @@ Banco: 16796 palavras · Cobertas em aulas e guias: 13213 · **Faltantes: 3583**
 | la chaîne de montagnes | a cadeia de montanhas | B2 | toulouse |
 | la commodité | a comodidade | B2 | toulouse |
 | la communication non verbale | a comunicação não verbal | B2 | toulouse |
-| la confusion | a confusão | B2 | toulouse |
 | la conjugaison | a conjugação | B2 | toulouse |
 | la contenance | a capacidade / o volume | B2 | toulouse |
-| la crème fraîche | o creme de leite | B2 | toulouse |
 | la désapprobation | a desaprovação | B2 | toulouse |
 | la famille monoparentale | a família monoparental | B2 | toulouse |
 | la famille recomposée | a família recomposta | B2 | toulouse |
@@ -151,27 +138,21 @@ Banco: 16796 palavras · Cobertas em aulas e guias: 13213 · **Faltantes: 3583**
 | la moralité | a moralidade | B2 | toulouse |
 | la natalité | a natalidade | B2 | toulouse |
 | la nièce | a sobrinha | B2 | toulouse |
-| la paraphrase | a paráfrase | B2 | toulouse |
 | la pension alimentaire | a pensão alimentícia | B2 | toulouse |
-| la persuasion | a persuasão | B2 | toulouse |
 | la présidence | a presidência | B2 | toulouse |
 | la presse écrite | a imprensa escrita | B2 | toulouse |
 | la presse en ligne | a imprensa online | B2 | toulouse |
 | la pression sociale | a pressão social | B2 | toulouse |
-| la prise de parole | a tomada da palavra | B2 | toulouse |
 | la probabilité | a probabilidade | B2 | toulouse |
 | la propagande | a propaganda | B2 | toulouse |
 | la protestation | o protesto | B2 | toulouse |
 | la rectification | a retificação | B2 | toulouse |
-| la reformulation | a reformulação | B2 | toulouse |
 | la répercussion | a repercussão | B2 | toulouse |
 | la richesse nationale | a riqueza nacional | B2 | toulouse |
 | la séparation de corps | a separação de corpos | B2 | toulouse |
 | la soumission | a submissão | B2 | toulouse |
-| la suggestion | a sugestão | B2 | toulouse |
 | la susceptibilité | a suscetibilidade | B2 | toulouse |
 | la suspicion | a suspeita | B2 | toulouse |
-| la timidité | a timidez | B2 | toulouse |
 | la tornade | o tornado | B2 | toulouse |
 | la xénophobie | a xenofobia | B2 | toulouse |
 | la zone commerciale | a zona comercial | B2 | toulouse |
@@ -182,7 +163,6 @@ Banco: 16796 palavras · Cobertas em aulas e guias: 13213 · **Faltantes: 3583**
 | le beau-frère | o cunhado | B2 | toulouse |
 | le beau-père | o sogro / o padrasto | B2 | toulouse |
 | le best-seller | o best-seller | B2 | toulouse |
-| le bocal | o vidro / o pote | B2 | toulouse |
 | le briquetier | tijoleiro (substantivo masculino) | B2 | toulouse |
 | le casque de vélo | o capacete de bicicleta | B2 | toulouse |
 | le CDD | o contrato por tempo determinado | B2 | toulouse |
@@ -211,7 +191,6 @@ Banco: 16796 palavras · Cobertas em aulas e guias: 13213 · **Faltantes: 3583**
 | le lobby | o lobby | B2 | toulouse |
 | le loisir créatif | o lazer criativo | B2 | toulouse |
 | le mal-logement | a moradia precária | B2 | toulouse |
-| le malaise | o mal-estar | B2 | toulouse |
 | le matériel informatique | o hardware | B2 | toulouse |
 | le meurtre | o assassinato | B2 | toulouse |
 | le milieu urbain | o meio urbano | B2 | toulouse |
@@ -219,7 +198,6 @@ Banco: 16796 palavras · Cobertas em aulas e guias: 13213 · **Faltantes: 3583**
 | le neveu | o sobrinho | B2 | toulouse |
 | le plaignant | o queixoso / o autor | B2 | toulouse |
 | le pourcentage | a porcentagem | B2 | toulouse |
-| le pressentiment | o pressentimento | B2 | toulouse |
 | le pressing | a lavanderia (a seco) | B2 | toulouse |
 | le racisme | o racismo | B2 | toulouse |
 | le registre courant | o registro corrente | B2 | toulouse |
@@ -242,21 +220,17 @@ Banco: 16796 palavras · Cobertas em aulas e guias: 13213 · **Faltantes: 3583**
 | mélioratif | positivo / elogioso | B2 | toulouse |
 | milier | militar | B2 | toulouse |
 | momentané | momentâneo | B2 | toulouse |
-| navrant | lamentável / comovente | B2 | toulouse |
 | nocif | prejudicial | B2 | toulouse |
 | nuisible | nocivo | B2 | toulouse |
 | omettre | omitir | B2 | toulouse |
 | onéreux | oneroso | B2 | toulouse |
 | optimal | ótimo | B2 | toulouse |
-| partager un avis | compartilhar uma opinião | B2 | toulouse |
 | pathétique | patético | B2 | toulouse |
 | perpétuellement | perpetuamente | B2 | toulouse |
 | pitoyable | lastimável / patético | B2 | toulouse |
 | pliable | dobrável | B2 | toulouse |
 | pourri | podre / estragado | B2 | toulouse |
 | préjudiciable | prejudicial | B2 | toulouse |
-| préoccupé | preocupado | B2 | toulouse |
-| présenter ses excuses | pedir desculpas | B2 | toulouse |
 | privatif | privativo | B2 | toulouse |
 | productif | produtivo | B2 | toulouse |
 | proliférer | proliferar | B2 | toulouse |
@@ -283,12 +257,9 @@ Banco: 16796 palavras · Cobertas em aulas e guias: 13213 · **Faltantes: 3583**
 | substantiel | substancial | B2 | toulouse |
 | succinct | sucinto | B2 | toulouse |
 | supplier | suplicar | B2 | toulouse |
-| suspicieux | desconfiado | B2 | toulouse |
 | symptomatique | sintomático | B2 | toulouse |
 | terne | apagado / sem brilho | B2 | toulouse |
-| troublant | perturbador | B2 | toulouse |
 | unilatéral | unilateral | B2 | toulouse |
-| vexé | ofendido / magoado | B2 | toulouse |
 | viable | viável / sustentável | B2 | toulouse |
 | visqueux | viscoso | B2 | toulouse |
 | vu que | visto que | B2 | toulouse |
@@ -297,17 +268,14 @@ Banco: 16796 palavras · Cobertas em aulas e guias: 13213 · **Faltantes: 3583**
 | abjurer | abjurar | C1 | marseille |
 | abominable | abominável | C1 | marseille |
 | abstème | abstêmio | C1 | marseille |
-| accablé | desolado / sobrecarregado | C1 | marseille |
 | accessoirement | secundariamente | C1 | marseille |
 | acerbé | acerbo / mordaz | C1 | marseille |
-| affable | afável | C1 | marseille |
 | affligé | aflito | C1 | marseille |
 | ajustable | ajustável | C1 | marseille |
 | analogique | analógico | C1 | marseille |
 | arrangeant | complacente / flexível | C1 | marseille |
 | assommant | entediante ao extremo | C1 | marseille |
 | asynchrone | assíncrono | C1 | marseille |
-| atterré | consternado | C1 | marseille |
 | avilissant | aviltante | C1 | marseille |
 | basané | moreno / bronzeado | C1 | marseille |
 | benêt | tolo / ingênuo | C1 | marseille |
@@ -315,16 +283,12 @@ Banco: 16796 palavras · Cobertas em aulas e guias: 13213 · **Faltantes: 3583**
 | blême | pálido / lívido | C1 | marseille |
 | boulevard périphérique | anel viário ao redor de Paris | C1 | marseille |
 | brosser un tableau | traçar um panorama | C1 | marseille |
-| calculateur | calculista | C1 | marseille |
 | calomnieux | calunioso | C1 | marseille |
 | cambriolable | sujeito a arrombamento | C1 | marseille |
 | canonique | canônico | C1 | marseille |
 | caricatural | caricatural | C1 | marseille |
 | carnet de tickets | bloco de passagens de metrô | C1 | marseille |
-| carriériste | carreirista | C1 | marseille |
 | cartésien | cartesiano | C1 | marseille |
-| casanier | caseiro | C1 | marseille |
-| caustique | cáustico | C1 | marseille |
 | cérémonieux | cerimonioso | C1 | marseille |
 | chiffrable | quantificável | C1 | marseille |
 | choquant | chocante | C1 | marseille |
@@ -342,8 +306,6 @@ Banco: 16796 palavras · Cobertas em aulas e guias: 13213 · **Faltantes: 3583**
 | corruptible | corruptível | C1 | marseille |
 | craintif | receoso | C1 | marseille |
 | cribler | peneirar / crivar | C1 | marseille |
-| croque-madame | sanduíche quente com ovo frito por cima | C1 | marseille |
-| croque-monsieur | sanduíche quente de presunto e queijo gratinado | C1 | marseille |
 | cryptique | críptico | C1 | marseille |
 | débouter | indeferir / julgar improcedente | C1 | marseille |
 | décoloniser | descolonizar | C1 | marseille |
@@ -380,8 +342,6 @@ Banco: 16796 palavras · Cobertas em aulas e guias: 13213 · **Faltantes: 3583**
 | dolent | queixoso / doído | C1 | marseille |
 | dramatiser | dramatizar | C1 | marseille |
 | éclair au chocolat | bomba de chocolate / éclair | C1 | marseille |
-| écœurant | repugnante / enjoativo | C1 | marseille |
-| embrouillé | confuso / embaraçado | C1 | marseille |
 | émotionnaliser | emocionalizar | C1 | marseille |
 | endémique | endêmico | C1 | marseille |
 | endoctriner | doutrinar | C1 | marseille |
@@ -397,7 +357,6 @@ Banco: 16796 palavras · Cobertas em aulas e guias: 13213 · **Faltantes: 3583**
 | extirper | extirpar | C1 | marseille |
 | faire allusion | fazer alusão | C1 | marseille |
 | faire marche arrière | recuar | C1 | marseille |
-| faire ressortir | fazer sobressair | C1 | marseille |
 | félon | traidor / desleal | C1 | marseille |
 | fictionnel | ficcional | C1 | marseille |
 | flagorner | bajular | C1 | marseille |
@@ -406,17 +365,12 @@ Banco: 16796 palavras · Cobertas em aulas e guias: 13213 · **Faltantes: 3583**
 | fonctionnaliser | funcionalizar | C1 | marseille |
 | fondre en larmes | desfazer-se em lágrimas | C1 | marseille |
 | fontaine wallace | fonte pública de água potável em Paris | C1 | marseille |
-| fourbe | sorrateiro / pérfido | C1 | marseille |
-| galette complète | crepe salgado de trigo sarraceno com presunto, queijo e ovo | C1 | marseille |
 | garçon de café | o garçom de café parisiense | C1 | marseille |
 | geignard | lamuriento | C1 | marseille |
 | geindre | lamuriar | C1 | marseille |
 | gémir | gemer | C1 | marseille |
 | généraliser abusivement | generalizar indevidamente | C1 | marseille |
 | glauque | sombrio / desagradável | C1 | marseille |
-| glouton | glutão | C1 | marseille |
-| goinfre | comilão | C1 | marseille |
-| grincheux | rabugento | C1 | marseille |
 | grivois | obsceno / picante | C1 | marseille |
 | habiliter | habilitar | C1 | marseille |
 | hédoniste | hedonista | C1 | marseille |
@@ -457,12 +411,10 @@ Banco: 16796 palavras · Cobertas em aulas e guias: 13213 · **Faltantes: 3583**
 | inguérissable | incurável | C1 | marseille |
 | injurieux | injurioso | C1 | marseille |
 | insinuer | insinuar | C1 | marseille |
-| insipide | insípido | C1 | marseille |
 | insultant | insultuoso | C1 | marseille |
 | inusuel | incomum | C1 | marseille |
 | invariablement | invariavelmente | C1 | marseille |
 | inviolable | inviolável | C1 | marseille |
-| irascible | irascível | C1 | marseille |
 | irrécupérable | irrecuperável | C1 | marseille |
 | irrécusable | irrecusável | C1 | marseille |
 | irrémédiable | irremediável | C1 | marseille |
@@ -497,7 +449,6 @@ Banco: 16796 palavras · Cobertas em aulas e guias: 13213 · **Faltantes: 3583**
 | l’aréopage | o areópago | C1 | marseille |
 | l’aridité | a aridez | C1 | marseille |
 | l’armoise | a artemísia | C1 | marseille |
-| l’assertivité | a assertividade | C1 | marseille |
 | l’association d’idées | a associação de ideias | C1 | marseille |
 | l’assujettissement | a sujeição | C1 | marseille |
 | l’asymétrie | a assimetria | C1 | marseille |
@@ -643,7 +594,6 @@ Banco: 16796 palavras · Cobertas em aulas e guias: 13213 · **Faltantes: 3583**
 | la leucémie | a leucemia | C1 | marseille |
 | la localisation | a localização | C1 | marseille |
 | la luette | a úvula | C1 | marseille |
-| la mâchoire | o maxilar / a mandíbula | C1 | marseille |
 | la magnanimité | a magnanimidade | C1 | marseille |
 | la moelle osseuse | a medula óssea | C1 | marseille |
 | la molaire | o molar | C1 | marseille |
@@ -828,15 +778,12 @@ Banco: 16796 palavras · Cobertas em aulas e guias: 13213 · **Faltantes: 3583**
 | littéral | literal | C1 | marseille |
 | livide | lívido | C1 | marseille |
 | localiser | localizar | C1 | marseille |
-| loquace | loquaz | C1 | marseille |
 | lugubre | lúgubre | C1 | marseille |
-| lunatique | lunático / volúvel | C1 | marseille |
 | macabre | macabro | C1 | marseille |
 | manichéen | maniqueísta | C1 | marseille |
 | manipulable | manipulável | C1 | marseille |
 | marquant | marcante | C1 | marseille |
 | matérialiste | materialista | C1 | marseille |
-| maussade | mal-humorado | C1 | marseille |
 | maximiser | maximizar | C1 | marseille |
 | médisant | maledicente | C1 | marseille |
 | mettre en exergue | pôr em destaque | C1 | marseille |
@@ -855,7 +802,6 @@ Banco: 16796 palavras · Cobertas em aulas e guias: 13213 · **Faltantes: 3583**
 | notionnel | nocional | C1 | marseille |
 | obéissant | obediente | C1 | marseille |
 | obtempérer | obedecer / acatar | C1 | marseille |
-| obtus | obtuso / limitado | C1 | marseille |
 | odieux | odioso | C1 | marseille |
 | offensant | ofensivo | C1 | marseille |
 | opérationnel | operacional | C1 | marseille |
@@ -863,7 +809,6 @@ Banco: 16796 palavras · Cobertas em aulas e guias: 13213 · **Faltantes: 3583**
 | outrageant | ultrajante | C1 | marseille |
 | paradigmatique | paradigmático | C1 | marseille |
 | paranoïaque | paranoico | C1 | marseille |
-| parcimonieux | parcimonioso | C1 | marseille |
 | pénétrant | penetrante / perspicaz | C1 | marseille |
 | péremptoire | peremptório | C1 | marseille |
 | permissif | permissivo | C1 | marseille |
@@ -888,7 +833,6 @@ Banco: 16796 palavras · Cobertas em aulas e guias: 13213 · **Faltantes: 3583**
 | rabaisser | rebaixar | C1 | marseille |
 | raffermir | reafirmar / fortalecer | C1 | marseille |
 | railleur | zombeteiro | C1 | marseille |
-| rasséréner | tranquilizar / serenar | C1 | marseille |
 | rébarbatif | árido / desagradável | C1 | marseille |
 | recommandable | recomendável | C1 | marseille |
 | réflexif | reflexivo | C1 | marseille |
@@ -926,7 +870,6 @@ Banco: 16796 palavras · Cobertas em aulas e guias: 13213 · **Faltantes: 3583**
 | soporifique | soporífero | C1 | marseille |
 | souhaitable | desejável | C1 | marseille |
 | souillé | maculado | C1 | marseille |
-| soupçonneux | desconfiado / suspeitoso | C1 | marseille |
 | sous-évaluer | subvalorizar | C1 | marseille |
 | sponsoriser | patrocinar | C1 | marseille |
 | stockpiler | estocar | C1 | marseille |
@@ -940,9 +883,7 @@ Banco: 16796 palavras · Cobertas em aulas e guias: 13213 · **Faltantes: 3583**
 | surévaluer | supervalorizar | C1 | marseille |
 | surmédiatiser | superexpor na mídia | C1 | marseille |
 | tacitement | tacitamente | C1 | marseille |
-| taciturne | taciturno | C1 | marseille |
 | tanné | curtido / bronzeado | C1 | marseille |
-| tatillon | meticuloso ao extremo | C1 | marseille |
 | tempérant | moderado | C1 | marseille |
 | ténébreux | tenebroso | C1 | marseille |
 | ternaire | ternário | C1 | marseille |
@@ -1118,7 +1059,6 @@ Banco: 16796 palavras · Cobertas em aulas e guias: 13213 · **Faltantes: 3583**
 | dévisser | desparafusar; desmontar | C2 | nice |
 | dictatorial | ditatorial | C2 | nice |
 | diffamer | difamar | C2 | nice |
-| digérer | digerir | C2 | nice |
 | disjoindre | disjungir; separar | C2 | nice |
 | dispatcher | distribuir; despachar | C2 | nice |
 | dissemblable | dessemelhante | C2 | nice |
@@ -2198,7 +2138,6 @@ Banco: 16796 palavras · Cobertas em aulas e guias: 13213 · **Faltantes: 3583**
 | la sage-femme | a parteira | C2 | nice |
 | la saillie | a tirada espirituosa | C2 | nice |
 | la salamandre héraldique | a salamandra heráldica | C2 | nice |
-| la satiété | a saciedade | C2 | nice |
 | la sauge | a sálvia | C2 | nice |
 | la scie à ruban | a serra de fita | C2 | nice |
 | la scie circulaire | a serra circular | C2 | nice |
@@ -2305,7 +2244,6 @@ Banco: 16796 palavras · Cobertas em aulas e guias: 13213 · **Faltantes: 3583**
 | la vignette | o selo | C2 | nice |
 | la vilenie | a vileza | C2 | nice |
 | la vindicte | a vingança | C2 | nice |
-| la virgule | a vírgula | C2 | nice |
 | la voiture particulière | o carro particular | C2 | nice |
 | la volcanologie | a vulcanologia | C2 | nice |
 | la vrille | a verruma | C2 | nice |
@@ -2866,7 +2804,6 @@ Banco: 16796 palavras · Cobertas em aulas e guias: 13213 · **Faltantes: 3583**
 | le possessif | o possessivo | C2 | nice |
 | le post-modernisme | o pós-modernismo | C2 | nice |
 | le poste de travail | o posto de trabalho | C2 | nice |
-| le pot-au-feu | o pot-au-feu | C2 | nice |
 | le potassium | o potássio | C2 | nice |
 | le potiron | a abóbora | C2 | nice |
 | le pou | o piolho | C2 | nice |
@@ -3160,7 +3097,6 @@ Banco: 16796 palavras · Cobertas em aulas e guias: 13213 · **Faltantes: 3583**
 | manigancer | maquinar; tramar | C2 | nice |
 | marmonner | resmungar | C2 | nice |
 | marxiste | marxista | C2 | nice |
-| mastiquer | mastigar | C2 | nice |
 | materner | maternar | C2 | nice |
 | matutinal | matutino | C2 | nice |
 | mécaniser | mecanizar | C2 | nice |
@@ -3271,7 +3207,6 @@ Banco: 16796 palavras · Cobertas em aulas e guias: 13213 · **Faltantes: 3583**
 | paronymique | paronímico | C2 | nice |
 | parquer | estacionar; confinar | C2 | nice |
 | passer au crible | peneirar; filtrar | C2 | nice |
-| pasteuriser | pasteurizar | C2 | nice |
 | paterner | paternalizar | C2 | nice |
 | pathologique | patológico | C2 | nice |
 | pénalisant | penalizante | C2 | nice |
@@ -3340,7 +3275,6 @@ Banco: 16796 palavras · Cobertas em aulas e guias: 13213 · **Faltantes: 3583**
 | prophylactique | profilático | C2 | nice |
 | prosodique | prosódico | C2 | nice |
 | provenir | provir | C2 | nice |
-| proverbial | proverbial | C2 | nice |
 | providentiel | providencial | C2 | nice |
 | ptolémaïque | ptolomaico | C2 | nice |
 | pudique | pudico | C2 | nice |
@@ -3385,7 +3319,6 @@ Banco: 16796 palavras · Cobertas em aulas e guias: 13213 · **Faltantes: 3583**
 | réinsérer un détenu | reinserir um detento | C2 | nice |
 | réintégrer | reintegrar; readmitir | C2 | nice |
 | réjouissant | alegre | C2 | nice |
-| relancer le dialogue | relançar o diálogo | C2 | nice |
 | relativiste | relativista | C2 | nice |
 | relayer une information | retransmitir uma informação | C2 | nice |
 | relier des idées | relacionar ideias | C2 | nice |
@@ -3430,7 +3363,6 @@ Banco: 16796 palavras · Cobertas em aulas e guias: 13213 · **Faltantes: 3583**
 | rompre les relations | romper as relações | C2 | nice |
 | s’abreuver | dessedentar-se | C2 | nice |
 | s’affamer | passar fome | C2 | nice |
-| s’entendre sur | entender-se sobre | C2 | nice |
 | sableux | arenoso | C2 | nice |
 | saboter | sabotar; boicotar | C2 | nice |
 | saisissable | penhorável | C2 | nice |
@@ -3446,11 +3378,9 @@ Banco: 16796 palavras · Cobertas em aulas e guias: 13213 · **Faltantes: 3583**
 | se conformer à | conformar-se a | C2 | nice |
 | se convertir à | converter-se a | C2 | nice |
 | se déjuger | desdizer-se | C2 | nice |
-| se désaltérer | matar a sede | C2 | nice |
 | se disculper | inocentar-se | C2 | nice |
 | se distancier | distanciar-se | C2 | nice |
 | se distancier de | distanciar-se de | C2 | nice |
-| se rassasier | saciar-se | C2 | nice |
 | se rebeller contre | rebelar-se contra | C2 | nice |
 | se réorienter | reorientar-se | C2 | nice |
 | sécularisé | secularizado | C2 | nice |
@@ -3508,7 +3438,6 @@ Banco: 16796 palavras · Cobertas em aulas e guias: 13213 · **Faltantes: 3583**
 | subsumer | subsumir | C2 | nice |
 | subtropical | subtropical | C2 | nice |
 | subversif | subversivo | C2 | nice |
-| succulent | suculento | C2 | nice |
 | sucer | chupar; sugar | C2 | nice |
 | suffocant | sufocante | C2 | nice |
 | suffoquer | sufocar | C2 | nice |
@@ -3520,7 +3449,6 @@ Banco: 16796 palavras · Cobertas em aulas e guias: 13213 · **Faltantes: 3583**
 | sursseoir | sobrestar | C2 | nice |
 | sursseoir à | sobrestar a | C2 | nice |
 | survenir | sobrevir; ocorrer | C2 | nice |
-| susceptible | suscetível | C2 | nice |
 | suspendre les négociations | suspender as negociações | C2 | nice |
 | susurrer | sussurrar | C2 | nice |
 | suturer | suturar | C2 | nice |
@@ -3564,7 +3492,6 @@ Banco: 16796 palavras · Cobertas em aulas e guias: 13213 · **Faltantes: 3583**
 | transversal | transversal | C2 | nice |
 | trépasser | falecer; morrer | C2 | nice |
 | trépigner | espernear; sapatear | C2 | nice |
-| tressaillir | sobressaltar-se | C2 | nice |
 | trier le bon grain de l’ivraie | separar o joio do trigo | C2 | nice |
 | trimbaler | carregar; arrastar | C2 | nice |
 | triompher de | triunfar sobre | C2 | nice |
@@ -3584,7 +3511,6 @@ Banco: 16796 palavras · Cobertas em aulas e guias: 13213 · **Faltantes: 3583**
 | vérifier une hypothèse | verificar uma hipótese | C2 | nice |
 | vespéral | vespertino | C2 | nice |
 | vétilleux | minucioso | C2 | nice |
-| vexer | vexar; magoar | C2 | nice |
 | viager | vitalício | C2 | nice |
 | vigoureux | vigoroso | C2 | nice |
 | villageois | aldeão | C2 | nice |

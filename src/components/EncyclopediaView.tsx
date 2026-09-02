@@ -142,6 +142,7 @@ import lilleGuide39 from '../data/city_guides/lille_guide_39.json';
 import lilleGuide40 from '../data/city_guides/lille_guide_40.json';
 import lilleGuide41 from '../data/city_guides/lille_guide_41.json';
 import lilleGuide42 from '../data/city_guides/lille_guide_42.json';
+import lilleGuide43 from '../data/city_guides/lille_guide_43.json';
 import msmGuide01 from '../data/city_guides/mont_saint_michel_guide_01.json';
 import msmGuide02 from '../data/city_guides/mont_saint_michel_guide_02.json';
 import msmGuide03 from '../data/city_guides/mont_saint_michel_guide_03.json';
@@ -223,6 +224,7 @@ import toursGuide37 from '../data/city_guides/tours_guide_37.json';
 import toursGuide38 from '../data/city_guides/tours_guide_38.json';
 import toursGuide39 from '../data/city_guides/tours_guide_39.json';
 import toursGuide40 from '../data/city_guides/tours_guide_40.json';
+import toursGuide41 from '../data/city_guides/tours_guide_41.json';
 import bordeauxGuide01 from '../data/city_guides/bordeaux_guide_01.json';
 import bordeauxGuide02 from '../data/city_guides/bordeaux_guide_02.json';
 import bordeauxGuide03 from '../data/city_guides/bordeaux_guide_03.json';
@@ -268,6 +270,7 @@ import bordeauxGuide42 from '../data/city_guides/bordeaux_guide_42.json';
 import bordeauxGuide43 from '../data/city_guides/bordeaux_guide_43.json';
 import bordeauxGuide44 from '../data/city_guides/bordeaux_guide_44.json';
 import bordeauxGuide45 from '../data/city_guides/bordeaux_guide_45.json';
+import bordeauxGuide46 from '../data/city_guides/bordeaux_guide_46.json';
 import toulouseGuide01 from '../data/city_guides/toulouse_guide_01.json';
 import toulouseGuide02 from '../data/city_guides/toulouse_guide_02.json';
 import toulouseGuide03 from '../data/city_guides/toulouse_guide_03.json';
@@ -533,6 +536,7 @@ import niceGuide55 from '../data/city_guides/nice_guide_55.json';
 import niceGuide56 from '../data/city_guides/nice_guide_56.json';
 import niceGuide57 from '../data/city_guides/nice_guide_57.json';
 import niceGuide58 from '../data/city_guides/nice_guide_58.json';
+import niceGuide59 from '../data/city_guides/nice_guide_59.json';
 
 
 interface EncyclopediaViewProps {
@@ -685,6 +689,7 @@ const CITY_GUIDES: Record<string, Array<Record<string, unknown>>> = {
     lilleGuide40 as unknown as Record<string, unknown>,
     lilleGuide41 as unknown as Record<string, unknown>,
     lilleGuide42 as unknown as Record<string, unknown>,
+    lilleGuide43 as unknown as Record<string, unknown>,
   ],
   'mont-saint-michel': [
     msmGuide01 as unknown as Record<string, unknown>,
@@ -770,6 +775,7 @@ const CITY_GUIDES: Record<string, Array<Record<string, unknown>>> = {
     toursGuide38 as unknown as Record<string, unknown>,
     toursGuide39 as unknown as Record<string, unknown>,
     toursGuide40 as unknown as Record<string, unknown>,
+    toursGuide41 as unknown as Record<string, unknown>,
   ],
   bordeaux: [
     bordeauxGuide01 as unknown as Record<string, unknown>,
@@ -817,6 +823,7 @@ const CITY_GUIDES: Record<string, Array<Record<string, unknown>>> = {
     bordeauxGuide43 as unknown as Record<string, unknown>,
     bordeauxGuide44 as unknown as Record<string, unknown>,
     bordeauxGuide45 as unknown as Record<string, unknown>,
+    bordeauxGuide46 as unknown as Record<string, unknown>,
   ],
   toulouse: [
     toulouseGuide01 as unknown as Record<string, unknown>,
@@ -1092,6 +1099,7 @@ const CITY_GUIDES: Record<string, Array<Record<string, unknown>>> = {
     niceGuide56 as unknown as Record<string, unknown>,
     niceGuide57 as unknown as Record<string, unknown>,
     niceGuide58 as unknown as Record<string, unknown>,
+    niceGuide59 as unknown as Record<string, unknown>,
   ],
 };
 
