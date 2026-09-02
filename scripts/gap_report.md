@@ -1,15 +1,15 @@
 # Relatório de lacunas — Fase 2 (jardim de palavras)
 
-Banco: 16796 palavras · Cobertas em aulas e guias: 13115 · **Faltantes: 3681**
+Banco: 16796 palavras · Cobertas em aulas e guias: 13213 · **Faltantes: 3583**
 
 | Nível | Faltantes |
 |---|---|
 | A1 | 7 |
 | A2 | 0 |
 | B1 | 1 |
-| B2 | 351 |
-| C1 | 691 |
-| C2 | 2631 |
+| B2 | 270 |
+| C1 | 680 |
+| C2 | 2625 |
 
 ## Lista de compras (por nível, cidade sugerida)
 
@@ -75,168 +75,104 @@ Banco: 16796 palavras · Cobertas em aulas e guias: 13115 · **Faltantes: 3681**
 | injustifiable | injustificável | B2 | toulouse |
 | injustifié | injustificado | B2 | toulouse |
 | inoccupé | desocupado | B2 | toulouse |
-| intrinsèque | intrínseco | B2 | toulouse |
 | inviable | inviável | B2 | toulouse |
 | invivable | insuportável | B2 | toulouse |
-| l’absentéisme | o absenteísmo | B2 | toulouse |
-| l’accès à l’éducation | o acesso à educação | B2 | toulouse |
-| l’accident du travail | o acidente de trabalho | B2 | toulouse |
 | l’acte notarié | a escritura pública | B2 | toulouse |
 | l’affirmation de soi | a autoafirmação | B2 | toulouse |
 | l’agressivité | a agressividade | B2 | toulouse |
 | l’aide financière | a ajuda financeira | B2 | toulouse |
 | l’allocution | a alocução | B2 | toulouse |
-| l’ambiance de travail | o ambiente de trabalho | B2 | toulouse |
 | l’amour-propre | o amor-próprio | B2 | toulouse |
-| l’analyse de laboratoire | a análise laboratorial | B2 | toulouse |
-| l’angine | a amigdalite | B2 | toulouse |
-| l’anti-inflammatoire | o anti-inflamatório | B2 | toulouse |
-| l’antiviral | o antiviral | B2 | toulouse |
 | l’antonyme | o antônimo | B2 | toulouse |
-| l’apprentissage en ligne | a aprendizagem online | B2 | toulouse |
 | l’assimilation | a assimilação | B2 | toulouse |
-| l’assurance santé | o seguro de saúde | B2 | toulouse |
-| l’asthme | a asma | B2 | toulouse |
 | l’audimat | o ibope | B2 | toulouse |
 | l’audiovisuel | o audiovisual | B2 | toulouse |
-| l’autoformation | a autoformação | B2 | toulouse |
-| l’automédication | a automedicação | B2 | toulouse |
 | l’autosuggestion | a autossugestão | B2 | toulouse |
 | l’avant-propos | o prefácio | B2 | toulouse |
-| l’échec scolaire | o fracasso escolar | B2 | toulouse |
 | l’éclaircissement | o esclarecimento | B2 | toulouse |
-| l’école privée | a escola privada | B2 | toulouse |
 | l’éducation des enfants | a educação dos filhos | B2 | toulouse |
-| l’effectif | o número de alunos | B2 | toulouse |
 | l’égalité salariale | a igualdade salarial | B2 | toulouse |
 | l’énergie nucléaire | a energia nuclear | B2 | toulouse |
-| l’enseignement à distance | o ensino a distância | B2 | toulouse |
 | l’entrave | o entrave | B2 | toulouse |
-| l’équilibre vie professionnelle | o equilíbrio entre vida profissional | B2 | toulouse |
-| l’équilibre vie professionnelle-vie privée | o equilíbrio entre vida profissional e pessoal | B2 | toulouse |
 | l’équilibre vie-travail | o equilíbrio vida-trabalho | B2 | toulouse |
-| l’ergothérapie | a terapia ocupacional | B2 | toulouse |
 | l’esthéticien | o esteticista | B2 | toulouse |
 | l’étalement urbain | a expansão urbana | B2 | toulouse |
 | l’évasion fiscale | a evasão fiscal | B2 | toulouse |
-| l’externat | o externato | B2 | toulouse |
 | l’extrême gauche | a extrema esquerda | B2 | toulouse |
-| l’hérédité | a hereditariedade | B2 | toulouse |
 | l’homéopathie | a homeopatia | B2 | toulouse |
 | l’homicide | o homicídio | B2 | toulouse |
 | l’homonyme | o homônimo | B2 | toulouse |
-| l’hypertension | a hipertensão | B2 | toulouse |
-| l’identité culturelle | a identidade cultural | B2 | toulouse |
 | l’idéologie | a ideologia | B2 | toulouse |
 | l’immoralité | a imoralidade | B2 | toulouse |
-| l’immunisation | a imunização | B2 | toulouse |
 | l’impolitesse | a grosseria | B2 | toulouse |
 | l’imprécision | a imprecisão | B2 | toulouse |
-| l’inconfort | o desconforto | B2 | toulouse |
 | l’indécence | a indecência | B2 | toulouse |
 | l’indiscrétion | a indiscrição | B2 | toulouse |
 | l’individualisme | o individualismo | B2 | toulouse |
 | l’ingratitude | a ingratidão | B2 | toulouse |
 | l’insatisfaction | a insatisfação | B2 | toulouse |
 | l’insinuation | a insinuação | B2 | toulouse |
-| l’internat | o internato | B2 | toulouse |
 | l’interrogatoire | o interrogatório | B2 | toulouse |
 | l’intervalle | o intervalo | B2 | toulouse |
-| l’intervention chirurgicale | a intervenção cirúrgica | B2 | toulouse |
 | l’intimidation | a intimidação | B2 | toulouse |
 | l’intonation | a entonação | B2 | toulouse |
 | l’irrationalité | a irracionalidade | B2 | toulouse |
-| l’offre d’emploi | a oferta de emprego | B2 | toulouse |
 | l’organisme génétiquement modifié | o organismo geneticamente modificado | B2 | toulouse |
-| l’orientation professionnelle | a orientação profissional | B2 | toulouse |
 | la base de données | o banco de dados | B2 | toulouse |
 | la belle-fille | a nora / a enteada | B2 | toulouse |
 | la belle-mère | a sogra / a madrasta | B2 | toulouse |
 | la belle-sœur | a cunhada | B2 | toulouse |
-| la bibliographie | a bibliografia | B2 | toulouse |
 | la borne de recharge | o ponto de recarga | B2 | toulouse |
-| la cécité | a cegueira | B2 | toulouse |
-| la certification | a certificação | B2 | toulouse |
 | la chaîne de montagnes | a cadeia de montanhas | B2 | toulouse |
-| la charge de travail | a carga de trabalho | B2 | toulouse |
-| la chronicité | a cronicidade | B2 | toulouse |
-| la collecte des déchets | a coleta de lixo | B2 | toulouse |
 | la commodité | a comodidade | B2 | toulouse |
 | la communication non verbale | a comunicação não verbal | B2 | toulouse |
-| la compréhension écrite | a compreensão escrita | B2 | toulouse |
 | la confusion | a confusão | B2 | toulouse |
 | la conjugaison | a conjugação | B2 | toulouse |
 | la contenance | a capacidade / o volume | B2 | toulouse |
-| la couverture médiatique | a cobertura da mídia | B2 | toulouse |
 | la crème fraîche | o creme de leite | B2 | toulouse |
-| la croissance économique | o crescimento econômico | B2 | toulouse |
-| la démographie | a demografia | B2 | toulouse |
 | la désapprobation | a desaprovação | B2 | toulouse |
-| la désintoxication | a desintoxicação | B2 | toulouse |
 | la famille monoparentale | a família monoparental | B2 | toulouse |
 | la famille recomposée | a família recomposta | B2 | toulouse |
-| la fatigue mentale | a fadiga mental | B2 | toulouse |
-| la fonte des glaces | o derretimento das geleiras | B2 | toulouse |
-| la formation initiale | a formação inicial | B2 | toulouse |
 | la fraude fiscale | a fraude fiscal | B2 | toulouse |
 | la futilité | a futilidade | B2 | toulouse |
-| la garde des enfants | a guarda dos filhos | B2 | toulouse |
 | la gare routière | a rodoviária | B2 | toulouse |
 | la gendarmerie | a gendarmaria | B2 | toulouse |
 | la globalisation | a globalização | B2 | toulouse |
 | la justification | a justificativa | B2 | toulouse |
-| la langue seconde | a segunda língua | B2 | toulouse |
 | la levée de fonds | a captação de recursos | B2 | toulouse |
 | la ligne éditoriale | a linha editorial | B2 | toulouse |
 | la loi scientifique | a lei científica | B2 | toulouse |
 | la maison d’édition | a editora | B2 | toulouse |
 | la malhonnêteté | a desonestidade | B2 | toulouse |
-| la malnutrition | a desnutrição | B2 | toulouse |
 | la manipulation médiatique | a manipulação midiática | B2 | toulouse |
 | la mégapole | a megacidade | B2 | toulouse |
-| la mémorisation | a memorização | B2 | toulouse |
-| la méthode de travail | o método de trabalho | B2 | toulouse |
 | la mixité urbaine | a diversidade urbana | B2 | toulouse |
-| la mobilité sociale | a mobilidade social | B2 | toulouse |
 | la monotonie | a monotonia | B2 | toulouse |
 | la moralité | a moralidade | B2 | toulouse |
-| la motivation intrinsèque | a motivação intrínseca | B2 | toulouse |
 | la natalité | a natalidade | B2 | toulouse |
 | la nièce | a sobrinha | B2 | toulouse |
 | la paraphrase | a paráfrase | B2 | toulouse |
 | la pension alimentaire | a pensão alimentícia | B2 | toulouse |
 | la persuasion | a persuasão | B2 | toulouse |
-| la plateforme éducative | a plataforma educacional | B2 | toulouse |
 | la présidence | a presidência | B2 | toulouse |
 | la presse écrite | a imprensa escrita | B2 | toulouse |
 | la presse en ligne | a imprensa online | B2 | toulouse |
 | la pression sociale | a pressão social | B2 | toulouse |
-| la prise de notes | a anotação | B2 | toulouse |
 | la prise de parole | a tomada da palavra | B2 | toulouse |
 | la probabilité | a probabilidade | B2 | toulouse |
-| la procrastination | a procrastinação | B2 | toulouse |
 | la propagande | a propaganda | B2 | toulouse |
 | la protestation | o protesto | B2 | toulouse |
-| la psychothérapie | a psicoterapia | B2 | toulouse |
 | la rectification | a retificação | B2 | toulouse |
 | la reformulation | a reformulação | B2 | toulouse |
 | la répercussion | a repercussão | B2 | toulouse |
-| la réussite scolaire | o sucesso escolar | B2 | toulouse |
 | la richesse nationale | a riqueza nacional | B2 | toulouse |
-| la scolarité | a escolaridade | B2 | toulouse |
-| la sécurité au travail | a segurança no trabalho | B2 | toulouse |
 | la séparation de corps | a separação de corpos | B2 | toulouse |
 | la soumission | a submissão | B2 | toulouse |
-| la spécialisation | a especialização | B2 | toulouse |
 | la suggestion | a sugestão | B2 | toulouse |
-| la superstition | a superstição | B2 | toulouse |
-| la surcharge de travail | a sobrecarga de trabalho | B2 | toulouse |
-| la surdité | a surdez | B2 | toulouse |
 | la susceptibilité | a suscetibilidade | B2 | toulouse |
 | la suspicion | a suspeita | B2 | toulouse |
 | la timidité | a timidez | B2 | toulouse |
 | la tornade | o tornado | B2 | toulouse |
-| la Voie lactée | a Via Láctea | B2 | toulouse |
 | la xénophobie | a xenofobia | B2 | toulouse |
 | la zone commerciale | a zona comercial | B2 | toulouse |
 | la zone industrielle | a zona industrial | B2 | toulouse |
@@ -248,19 +184,16 @@ Banco: 16796 palavras · Cobertas em aulas e guias: 13115 · **Faltantes: 3681**
 | le best-seller | o best-seller | B2 | toulouse |
 | le bocal | o vidro / o pote | B2 | toulouse |
 | le briquetier | tijoleiro (substantivo masculino) | B2 | toulouse |
-| le burn-out | a síndrome de burnout | B2 | toulouse |
 | le casque de vélo | o capacete de bicicleta | B2 | toulouse |
 | le CDD | o contrato por tempo determinado | B2 | toulouse |
 | le CDI | o contrato por tempo indeterminado | B2 | toulouse |
 | le chamboulement | a reviravolta | B2 | toulouse |
-| le cholestérol | o colesterol | B2 | toulouse |
 | le clonage | a clonagem | B2 | toulouse |
 | le code civil | o código civil | B2 | toulouse |
 | le collectivisme | o coletivismo | B2 | toulouse |
 | le conditionnement | o condicionamento | B2 | toulouse |
 | le conflit social | o conflito social | B2 | toulouse |
 | le conformisme | o conformismo | B2 | toulouse |
-| le congé parental | a licença parental | B2 | toulouse |
 | le conjoint | o cônjuge | B2 | toulouse |
 | le cyclone | o ciclone | B2 | toulouse |
 | le déshonneur | a desonra | B2 | toulouse |
@@ -269,11 +202,9 @@ Banco: 16796 palavras · Cobertas em aulas e guias: 13115 · **Faltantes: 3681**
 | le dessein | o desígnio / o intento | B2 | toulouse |
 | le développeur | o desenvolvedor | B2 | toulouse |
 | le dividende | o dividendo | B2 | toulouse |
-| le feedback | o retorno / o feedback | B2 | toulouse |
 | le gant de toilette | a luva de banho | B2 | toulouse |
 | le gendre | o genro | B2 | toulouse |
 | le harcèlement en ligne | o assédio online | B2 | toulouse |
-| le harcèlement moral | o assédio moral | B2 | toulouse |
 | le journalisme d’investigation | o jornalismo investigativo | B2 | toulouse |
 | le langage corporel | a linguagem corporal | B2 | toulouse |
 | le lectorat | o público leitor | B2 | toulouse |
@@ -282,22 +213,15 @@ Banco: 16796 palavras · Cobertas em aulas e guias: 13115 · **Faltantes: 3681**
 | le mal-logement | a moradia precária | B2 | toulouse |
 | le malaise | o mal-estar | B2 | toulouse |
 | le matériel informatique | o hardware | B2 | toulouse |
-| le mentorat | a mentoria | B2 | toulouse |
 | le meurtre | o assassinato | B2 | toulouse |
-| le milieu rural | o meio rural | B2 | toulouse |
 | le milieu urbain | o meio urbano | B2 | toulouse |
 | le militant écologiste | o militante ecológico | B2 | toulouse |
 | le neveu | o sobrinho | B2 | toulouse |
-| le perfectionnisme | o perfeccionismo | B2 | toulouse |
 | le plaignant | o queixoso / o autor | B2 | toulouse |
-| le poste à pourvoir | a vaga a preencher | B2 | toulouse |
 | le pourcentage | a porcentagem | B2 | toulouse |
 | le pressentiment | o pressentimento | B2 | toulouse |
 | le pressing | a lavanderia (a seco) | B2 | toulouse |
-| le programme scolaire | o programa escolar | B2 | toulouse |
 | le racisme | o racismo | B2 | toulouse |
-| le reboisement | o reflorestamento | B2 | toulouse |
-| le redoublement | a repetência | B2 | toulouse |
 | le registre courant | o registro corrente | B2 | toulouse |
 | le registre soutenu | o registro culto | B2 | toulouse |
 | le réseau routier | a malha viária | B2 | toulouse |
@@ -306,19 +230,14 @@ Banco: 16796 palavras · Cobertas em aulas e guias: 13115 · **Faltantes: 3681**
 | le secteur primaire | o setor primário | B2 | toulouse |
 | le sexisme | o sexismo | B2 | toulouse |
 | le sotaque | sotaque (substantivo masculino) | B2 | toulouse |
-| le syndrome | a síndrome | B2 | toulouse |
-| le système immunitaire | o sistema imunológico | B2 | toulouse |
 | le taux d’intérêt | a taxa de juros | B2 | toulouse |
 | le tissu associatif | a rede associativa | B2 | toulouse |
 | le totalitarisme | o totalitarismo | B2 | toulouse |
 | le train de banlieue | o trem suburbano | B2 | toulouse |
 | le traitement médiatique | o tratamento midiático | B2 | toulouse |
-| le tutorat | a tutoria | B2 | toulouse |
 | le typhon | o tufão | B2 | toulouse |
 | les compétences clés | as competências-chave | B2 | toulouse |
 | les forces de l’ordre | as forças de segurança | B2 | toulouse |
-| les heures supplémentaires | as horas extras | B2 | toulouse |
-| les soins intensifs | a terapia intensiva | B2 | toulouse |
 | maximal | máximo | B2 | toulouse |
 | mélioratif | positivo / elogioso | B2 | toulouse |
 | milier | militar | B2 | toulouse |
@@ -553,36 +472,25 @@ Banco: 16796 palavras · Cobertas em aulas e guias: 13115 · **Faltantes: 3681**
 | l’abomination | a abominação | C1 | marseille |
 | l’absolution | a absolvição | C1 | marseille |
 | l’acception | a acepção | C1 | marseille |
-| l’accompagnement personnalisé | o acompanhamento personalizado | C1 | marseille |
 | l’accréditation | a acreditação | C1 | marseille |
 | l’acte de colloque | os anais de congresso | C1 | marseille |
-| l’acupuncture | a acupuntura | C1 | marseille |
 | l’administration centrale | a administração central | C1 | marseille |
-| l’admission | a admissão | C1 | marseille |
 | l’adret | a vertente ensolarada | C1 | marseille |
 | l’afféterie | o afetamento | C1 | marseille |
 | l’âge de pierre | a Idade da Pedra | C1 | marseille |
-| l’âge du bronze | a Idade do Bronze | C1 | marseille |
-| l’âge du fer | a Idade do Ferro | C1 | marseille |
 | l’agrégat | o agregado | C1 | marseille |
-| l’alevin | o alevino | C1 | marseille |
 | l’alto | a viola | C1 | marseille |
 | l’amabilité | a amabilidade | C1 | marseille |
 | l’ambassade | a embaixada | C1 | marseille |
 | l’amorçage | o priming | C1 | marseille |
 | l’amphigouri | o amfigúri | C1 | marseille |
-| l’andragogie | a andragogia | C1 | marseille |
-| l’anémie | a anemia | C1 | marseille |
 | l’annulaire | o anelar | C1 | marseille |
 | l’anonymisation | a anonimização | C1 | marseille |
 | l’antagoniste | o antagonista | C1 | marseille |
 | l’antisémitisme | o antissemitismo | C1 | marseille |
 | l’antonymie | a antonímia | C1 | marseille |
-| l’apnée du sommeil | a apneia do sono | C1 | marseille |
 | l’appareil d’État | o aparelho de Estado | C1 | marseille |
 | l’appareillage | a aparelhagem | C1 | marseille |
-| l’appendice | o apêndice | C1 | marseille |
-| l’apprentissage coopératif | a aprendizagem cooperativa | C1 | marseille |
 | l’apprentissage profond | o aprendizado profundo | C1 | marseille |
 | l’arachnide | o aracnídeo | C1 | marseille |
 | l’arcade sourcilière | o arco superciliar | C1 | marseille |
@@ -1334,7 +1242,6 @@ Banco: 16796 palavras · Cobertas em aulas e guias: 13115 · **Faltantes: 3681**
 | igné | ígneo | C2 | nice |
 | immatriculer | matricular; registrar | C2 | nice |
 | immodeste | imodesto | C2 | nice |
-| immunitaire | imunitário | C2 | nice |
 | impartir | conceder; outorgar | C2 | nice |
 | impérialiste | imperialista | C2 | nice |
 | impersonnel | impessoal | C2 | nice |
@@ -1500,7 +1407,6 @@ Banco: 16796 palavras · Cobertas em aulas e guias: 13115 · **Faltantes: 3681**
 | l’antivenin | o antiveneno | C2 | nice |
 | l’apatite | a apatita | C2 | nice |
 | l’aphérèse | a aférese | C2 | nice |
-| l’apnée | a apneia | C2 | nice |
 | l’apodicticité | a apoditicidade | C2 | nice |
 | l’apodictique | o apodíctico | C2 | nice |
 | l’apologétique | a apologética | C2 | nice |
@@ -1811,7 +1717,6 @@ Banco: 16796 palavras · Cobertas em aulas e guias: 13115 · **Faltantes: 3681**
 | l’oïdium | o oídio | C2 | nice |
 | l’oiseau de proie | a ave de rapina | C2 | nice |
 | l’oiseau sédentaire | a ave sedentária | C2 | nice |
-| l’oisiveté | a ociosidade | C2 | nice |
 | l’omnipotence | a onipotência | C2 | nice |
 | l’omnivore | o onívoro | C2 | nice |
 | l’once | a onça | C2 | nice |
@@ -3169,7 +3074,6 @@ Banco: 16796 palavras · Cobertas em aulas e guias: 13115 · **Faltantes: 3681**
 | le triangle de signalisation | o triângulo de sinalização | C2 | nice |
 | le tricheur | o trapaceiro | C2 | nice |
 | le triglyphe | o tríglifo | C2 | nice |
-| le trimestre | o trimestre | C2 | nice |
 | le trio | o trio | C2 | nice |
 | le triperie | a miudezas (loja) | C2 | nice |
 | le trisaïeul | o trisavô | C2 | nice |
@@ -3356,7 +3260,6 @@ Banco: 16796 palavras · Cobertas em aulas e guias: 13115 · **Faltantes: 3681**
 | paléographique | paleográfico | C2 | nice |
 | palliatif | paliativo | C2 | nice |
 | panacher | mesclar; matizar | C2 | nice |
-| panser | fazer curativo | C2 | nice |
 | papal | papal | C2 | nice |
 | parabolique | parabólico | C2 | nice |
 | paraffiner | parafinar | C2 | nice |
@@ -3612,7 +3515,6 @@ Banco: 16796 palavras · Cobertas em aulas e guias: 13115 · **Faltantes: 3681**
 | supplicier | supliciar; torturar | C2 | nice |
 | supranational | supranacional | C2 | nice |
 | suraigu | superagudo | C2 | nice |
-| surcharger | sobrecarregar | C2 | nice |
 | surnager | flutuar; sobrenadar | C2 | nice |
 | surpeupler | superpovoar | C2 | nice |
 | sursseoir | sobrestar | C2 | nice |
