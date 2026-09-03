@@ -1,6 +1,6 @@
 # Relatório de lacunas — Fase 2 (jardim de palavras)
 
-Banco: 16796 palavras · Cobertas em aulas e guias: 13287 · **Faltantes: 3509**
+Banco: 16796 palavras · Cobertas em aulas e guias: 13315 · **Faltantes: 3481**
 
 | Nível | Faltantes |
 |---|---|
@@ -8,8 +8,8 @@ Banco: 16796 palavras · Cobertas em aulas e guias: 13287 · **Faltantes: 3509**
 | A2 | 0 |
 | B1 | 1 |
 | B2 | 241 |
-| C1 | 650 |
-| C2 | 2610 |
+| C1 | 644 |
+| C2 | 2588 |
 
 ## Lista de compras (por nível, cidade sugerida)
 
@@ -327,7 +327,6 @@ Banco: 16796 palavras · Cobertas em aulas e guias: 13287 · **Faltantes: 3509**
 | désynchronisé | dessincronizado | C1 | marseille |
 | détestable | detestável | C1 | marseille |
 | détrôner | destronar | C1 | marseille |
-| diaphane | diáfano | C1 | marseille |
 | dilapider | dilapidar | C1 | marseille |
 | dilater | dilatar / expandir | C1 | marseille |
 | diligent | diligente | C1 | marseille |
@@ -335,7 +334,6 @@ Banco: 16796 palavras · Cobertas em aulas e guias: 13287 · **Faltantes: 3509**
 | discontinu | descontínuo | C1 | marseille |
 | disculper | inocentar / desculpar | C1 | marseille |
 | discursif | discursivo | C1 | marseille |
-| dissiper le doute | dissipar a dúvida | C1 | marseille |
 | distinguable | distinguível | C1 | marseille |
 | diviseur | divisor | C1 | marseille |
 | dogmatique | dogmático | C1 | marseille |
@@ -351,7 +349,6 @@ Banco: 16796 palavras · Cobertas em aulas e guias: 13287 · **Faltantes: 3509**
 | éreinter | criticar sem piedade | C1 | marseille |
 | ésotérique | esotérico | C1 | marseille |
 | étatiser | estatizar | C1 | marseille |
-| étiqueter | rotular | C1 | marseille |
 | exécrable | execrável | C1 | marseille |
 | exterminer | exterminar | C1 | marseille |
 | extirper | extirpar | C1 | marseille |
@@ -809,11 +806,9 @@ Banco: 16796 palavras · Cobertas em aulas e guias: 13287 · **Faltantes: 3509**
 | outrageant | ultrajante | C1 | marseille |
 | paradigmatique | paradigmático | C1 | marseille |
 | paranoïaque | paranoico | C1 | marseille |
-| pénétrant | penetrante / perspicaz | C1 | marseille |
 | péremptoire | peremptório | C1 | marseille |
 | permissif | permissivo | C1 | marseille |
 | pernicieux | pernicioso | C1 | marseille |
-| persuasif | persuasivo | C1 | marseille |
 | phénoménal | fenomenal | C1 | marseille |
 | piller | pilhar | C1 | marseille |
 | plaintif | lamurioso | C1 | marseille |
@@ -890,7 +885,6 @@ Banco: 16796 palavras · Cobertas em aulas e guias: 13287 · **Faltantes: 3509**
 | terrifiant | aterrorizante | C1 | marseille |
 | thésauriser | entesourar / acumular | C1 | marseille |
 | timoré | tímido / temeroso | C1 | marseille |
-| tirer les conséquences | tirar as consequências | C1 | marseille |
 | tituber | cambalear | C1 | marseille |
 | toxique | tóxico | C1 | marseille |
 | traditionaliste | tradicionalista | C1 | marseille |
@@ -1073,7 +1067,6 @@ Banco: 16796 palavras · Cobertas em aulas e guias: 13287 · **Faltantes: 3509**
 | einsteinien | einsteiniano | C2 | nice |
 | électrocuter | eletrocutar | C2 | nice |
 | émaner de | emanar de | C2 | nice |
-| embrocher | espetar; colocar no espeto | C2 | nice |
 | emmancher | encaixar; encabar | C2 | nice |
 | emmêler | embaraçar | C2 | nice |
 | empiéter | invadir; usurpar | C2 | nice |
@@ -1319,10 +1312,8 @@ Banco: 16796 palavras · Cobertas em aulas e guias: 13287 · **Faltantes: 3509**
 | l’anaphylaxie | a anafilaxia | C2 | nice |
 | l’anche | a palheta | C2 | nice |
 | l’andante | o andante | C2 | nice |
-| l’anémomètre | o anemômetro | C2 | nice |
 | l’anesthésiologie | a anestesiologia | C2 | nice |
 | l’anesthésique | o anestésico | C2 | nice |
-| l’aneth | o endro | C2 | nice |
 | l’anglésite | a anglesita | C2 | nice |
 | l’anguille électrique | a enguia elétrica | C2 | nice |
 | l’anhydrite | a anidrita | C2 | nice |
@@ -1332,7 +1323,6 @@ Banco: 16796 palavras · Cobertas em aulas e guias: 13287 · **Faltantes: 3509**
 | l’anthropocène | o antropoceno | C2 | nice |
 | l’anthroponymie | a antroponímia | C2 | nice |
 | l’anthroposphère | a antroposfera | C2 | nice |
-| l’anti-héros | o anti-herói | C2 | nice |
 | l’anticyclone | o anticiclone | C2 | nice |
 | l’antidopage | o antidoping | C2 | nice |
 | l’antidote | o antídoto | C2 | nice |
@@ -1355,7 +1345,6 @@ Banco: 16796 palavras · Cobertas em aulas e guias: 13287 · **Faltantes: 3509**
 | l’aporétique | a aporética | C2 | nice |
 | l’aporisme | o aporisma | C2 | nice |
 | l’appel de note | a chamada de nota | C2 | nice |
-| l’appétence | a apetência | C2 | nice |
 | l’apposition | a aposição | C2 | nice |
 | l’après-shampoing | o condicionador | C2 | nice |
 | l’après-shampooing | o condicionador | C2 | nice |
@@ -1383,7 +1372,6 @@ Banco: 16796 palavras · Cobertas em aulas e guias: 13287 · **Faltantes: 3509**
 | l’arrière-petit-fils | o bisneto | C2 | nice |
 | l’arsenic | o arsênio | C2 | nice |
 | l’arsénopyrite | a arsenopirita | C2 | nice |
-| l’art oratoire | a arte oratória | C2 | nice |
 | l’artériosclérose | a arteriosclerose | C2 | nice |
 | l’artichaut | a alcachofra | C2 | nice |
 | l’article de presse | o artigo de imprensa | C2 | nice |
@@ -1404,7 +1392,6 @@ Banco: 16796 palavras · Cobertas em aulas e guias: 13287 · **Faltantes: 3509**
 | l’attelle | a tala | C2 | nice |
 | l’attique | o ático | C2 | nice |
 | l’attraction touristique | a atração turística | C2 | nice |
-| l’attrait | o atrativo | C2 | nice |
 | l’attribut | o atributo | C2 | nice |
 | l’aubépine | o pilriteiro | C2 | nice |
 | l’auberge de jeunesse | o albergue da juventude | C2 | nice |
@@ -1437,7 +1424,6 @@ Banco: 16796 palavras · Cobertas em aulas e guias: 13287 · **Faltantes: 3509**
 | l’écoconception | o ecodesign | C2 | nice |
 | l’économétrie | a econometria | C2 | nice |
 | l’écotourisme | o ecoturismo | C2 | nice |
-| l’écoulement | o escoamento | C2 | nice |
 | l’écritoire | o tinteiro | C2 | nice |
 | l’écu bandé | o escudo bandado | C2 | nice |
 | l’écu chevronné | o escudo chevronado | C2 | nice |
@@ -1448,7 +1434,6 @@ Banco: 16796 palavras · Cobertas em aulas e guias: 13287 · **Faltantes: 3509**
 | l’écu parti | o escudo partido | C2 | nice |
 | l’écu taillé | o escudo fendido | C2 | nice |
 | l’écu tranché | o escudo talhado | C2 | nice |
-| l’écumoire | a escumadeira | C2 | nice |
 | l’écusson | o escudo | C2 | nice |
 | l’écuyer | o escudeiro; o cavaleiro | C2 | nice |
 | l’eczéma | o eczema | C2 | nice |
@@ -1472,7 +1457,6 @@ Banco: 16796 palavras · Cobertas em aulas e guias: 13287 · **Faltantes: 3509**
 | l’encéphalite | a encefalite | C2 | nice |
 | l’enchaînement causal | o encadeamento causal | C2 | nice |
 | l’encyclopédie | a enciclopédia | C2 | nice |
-| l’endive | a endívia | C2 | nice |
 | l’endocarde | o endocárdio | C2 | nice |
 | l’enduit | o reboco | C2 | nice |
 | l’énergie cinétique | a energia cinética | C2 | nice |
@@ -1770,9 +1754,7 @@ Banco: 16796 palavras · Cobertas em aulas e guias: 13287 · **Faltantes: 3509**
 | la chanson de geste | a canção de gesta | C2 | nice |
 | la chapellerie | a chapelaria | C2 | nice |
 | la charrue | o arado | C2 | nice |
-| la châtaigne | a castanha | C2 | nice |
 | la chaumière | a choupana | C2 | nice |
-| la chicorée | a chicória | C2 | nice |
 | la chouette effraie | a coruja-das-torres | C2 | nice |
 | la chromatographie | a cromatografia | C2 | nice |
 | la chromite | a cromita | C2 | nice |
@@ -2005,7 +1987,6 @@ Banco: 16796 palavras · Cobertas em aulas e guias: 13287 · **Faltantes: 3509**
 | la monture | a armação | C2 | nice |
 | la moraine | a morena | C2 | nice |
 | la morgue | a arrogância | C2 | nice |
-| la morille | a morchela | C2 | nice |
 | la mouffette | a gambá | C2 | nice |
 | la mousse à raser | a espuma de barbear | C2 | nice |
 | la mousse des bois | o musgo do bosque | C2 | nice |
@@ -2028,7 +2009,6 @@ Banco: 16796 palavras · Cobertas em aulas e guias: 13287 · **Faltantes: 3509**
 | la page de titre | a folha de rosto | C2 | nice |
 | la pagination | a paginação | C2 | nice |
 | la palatalisation | a palatalização | C2 | nice |
-| la palourde | o amêijoa | C2 | nice |
 | la panière | o cesto | C2 | nice |
 | la panthère | a pantera | C2 | nice |
 | la papaye | o mamão | C2 | nice |
@@ -2042,7 +2022,6 @@ Banco: 16796 palavras · Cobertas em aulas e guias: 13287 · **Faltantes: 3509**
 | la passivité | a passividade | C2 | nice |
 | la pastourelle | a pastorela | C2 | nice |
 | la patate douce | a batata-doce | C2 | nice |
-| la pâte d’amande | a pasta de amêndoa | C2 | nice |
 | la paumelle | a dobradiça | C2 | nice |
 | la pechblende | a pechblenda | C2 | nice |
 | la pelleteuse | a escavadeira | C2 | nice |
@@ -2130,7 +2109,6 @@ Banco: 16796 palavras · Cobertas em aulas e guias: 13287 · **Faltantes: 3509**
 | la rhodochrosite | a rodocrosita | C2 | nice |
 | la ronde-bosse | a escultura de vulto | C2 | nice |
 | la rondelle | a arruela | C2 | nice |
-| la roquette | a rúcula | C2 | nice |
 | la rose héraldique | a rosa heráldica | C2 | nice |
 | la rotogravure | a rotogravura | C2 | nice |
 | la rubéole | a rubéola | C2 | nice |
@@ -2228,8 +2206,6 @@ Banco: 16796 palavras · Cobertas em aulas e guias: 13287 · **Faltantes: 3509**
 | la tronçonneuse | a motosserra | C2 | nice |
 | la trousse de secours | o kit de primeiros socorros | C2 | nice |
 | la truffe | a trufa | C2 | nice |
-| la truite arc-en-ciel | a truta-arco-íris | C2 | nice |
-| la turbulence | a turbulência | C2 | nice |
 | la typogravure | a tipogravura | C2 | nice |
 | la valve | a válvula | C2 | nice |
 | la vanadinite | a vanadinita | C2 | nice |
@@ -2545,7 +2521,6 @@ Banco: 16796 palavras · Cobertas em aulas e guias: 13287 · **Faltantes: 3509**
 | le gage | o penhor | C2 | nice |
 | le gallinacé | o galináceo | C2 | nice |
 | le gallium | o gálio | C2 | nice |
-| le gastéropode | o gastrópode | C2 | nice |
 | le gavial | o gavial | C2 | nice |
 | le geai | o gaio | C2 | nice |
 | le gecko | a lagartixa | C2 | nice |
@@ -2658,7 +2633,6 @@ Banco: 16796 palavras · Cobertas em aulas e guias: 13287 · **Faltantes: 3509**
 | le marquis | o marquês | C2 | nice |
 | le marsupial | o marsupial | C2 | nice |
 | le martinet | o andorinhão | C2 | nice |
-| le massepain | o maçapão | C2 | nice |
 | le médailleur | o medalhista | C2 | nice |
 | le médiator | a palheta | C2 | nice |
 | le médiéviste | o medievalista | C2 | nice |
@@ -2790,7 +2764,6 @@ Banco: 16796 palavras · Cobertas em aulas e guias: 13287 · **Faltantes: 3509**
 | le point de fuite | o ponto de fuga | C2 | nice |
 | le point-virgule | o ponto e vírgula | C2 | nice |
 | le pointillisme | o pontilhismo | C2 | nice |
-| le poisson-chat | o bagre | C2 | nice |
 | le poisson-clown | o peixe-palhaço | C2 | nice |
 | le poisson-perroquet | o peixe-papagaio | C2 | nice |
 | le pollen | o pólen | C2 | nice |
@@ -3007,7 +2980,6 @@ Banco: 16796 palavras · Cobertas em aulas e guias: 13287 · **Faltantes: 3509**
 | le traversin | o travesseiro comprido | C2 | nice |
 | le trèfle | o trevo | C2 | nice |
 | le tréma | o trema | C2 | nice |
-| le treuil | o guincho | C2 | nice |
 | le triangle de signalisation | o triângulo de sinalização | C2 | nice |
 | le tricheur | o trapaceiro | C2 | nice |
 | le triglyphe | o tríglifo | C2 | nice |

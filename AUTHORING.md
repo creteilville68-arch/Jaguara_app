@@ -25,10 +25,10 @@ reaparece em outras aulas ou cidades.
 
 | Métrica | Valor |
 | --- | --- |
-| Arquivos de texto analisados (aulas + guias) | 1024 |
+| Arquivos de texto analisados (aulas + guias) | 1028 |
 | Palavras únicas no banco | 16.796 |
-| Já presentes nos textos (cobertura morfológica) | 13.287 |
-| **Ainda falta escrever nos textos** | **3.509** |
+| Já presentes nos textos (cobertura morfológica) | 13.315 |
+| **Ainda falta escrever nos textos** | **3.481** |
 
 A meta é atingida quando a coluna "ainda falta" chegar a zero — ou seja,
 quando todas as palavras da lista de cada cidade aparecerem nos parágrafos
