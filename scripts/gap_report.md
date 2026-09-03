@@ -1,6 +1,6 @@
 # Relatório de lacunas — Fase 2 (jardim de palavras)
 
-Banco: 16796 palavras · Cobertas em aulas e guias: 13382 · **Faltantes: 3414**
+Banco: 16796 palavras · Cobertas em aulas e guias: 13370 · **Faltantes: 3426**
 
 | Nível | Faltantes |
 |---|---|
@@ -8,7 +8,7 @@ Banco: 16796 palavras · Cobertas em aulas e guias: 13382 · **Faltantes: 3414**
 | A2 | 0 |
 | B1 | 1 |
 | B2 | 239 |
-| C1 | 580 |
+| C1 | 592 |
 | C2 | 2587 |
 
 ## Lista de compras (por nível, cidade sugerida)
@@ -263,6 +263,7 @@ Banco: 16796 palavras · Cobertas em aulas e guias: 13382 · **Faltantes: 3414**
 | vu que | visto que | B2 | toulouse |
 | vulgaire | vulgar | B2 | toulouse |
 | abject | abjeto | C1 | marseille |
+| abjurer | abjurar | C1 | marseille |
 | abominable | abominável | C1 | marseille |
 | abstème | abstêmio | C1 | marseille |
 | accessoirement | secundariamente | C1 | marseille |
@@ -276,10 +277,12 @@ Banco: 16796 palavras · Cobertas em aulas e guias: 13382 · **Faltantes: 3414**
 | avilissant | aviltante | C1 | marseille |
 | basané | moreno / bronzeado | C1 | marseille |
 | benêt | tolo / ingênuo | C1 | marseille |
+| blasphématoire | blasfemo | C1 | marseille |
 | blême | pálido / lívido | C1 | marseille |
 | boulevard périphérique | anel viário ao redor de Paris | C1 | marseille |
 | calomnieux | calunioso | C1 | marseille |
 | cambriolable | sujeito a arrombamento | C1 | marseille |
+| canonique | canônico | C1 | marseille |
 | caricatural | caricatural | C1 | marseille |
 | carnet de tickets | bloco de passagens de metrô | C1 | marseille |
 | cartésien | cartesiano | C1 | marseille |
@@ -328,6 +331,7 @@ Banco: 16796 palavras · Cobertas em aulas e guias: 13382 · **Faltantes: 3414**
 | discursif | discursivo | C1 | marseille |
 | distinguable | distinguível | C1 | marseille |
 | diviseur | divisor | C1 | marseille |
+| dogmatique | dogmático | C1 | marseille |
 | dolent | queixoso / doído | C1 | marseille |
 | dramatiser | dramatizar | C1 | marseille |
 | éclair au chocolat | bomba de chocolate / éclair | C1 | marseille |
@@ -344,6 +348,7 @@ Banco: 16796 palavras · Cobertas em aulas e guias: 13382 · **Faltantes: 3414**
 | exterminer | exterminar | C1 | marseille |
 | extirper | extirpar | C1 | marseille |
 | faire marche arrière | recuar | C1 | marseille |
+| félon | traidor / desleal | C1 | marseille |
 | fictionnel | ficcional | C1 | marseille |
 | flagorner | bajular | C1 | marseille |
 | flambant neuf | novinho em folha | C1 | marseille |
@@ -360,12 +365,14 @@ Banco: 16796 palavras · Cobertas em aulas e guias: 13382 · **Faltantes: 3414**
 | grivois | obsceno / picante | C1 | marseille |
 | habiliter | habilitar | C1 | marseille |
 | hédoniste | hedonista | C1 | marseille |
+| hérétique | herético | C1 | marseille |
 | hétérodoxe | heterodoxo | C1 | marseille |
 | idoine | idôneo / adequado | C1 | marseille |
 | ignoble | ignóbil | C1 | marseille |
 | immoral | imoral | C1 | marseille |
 | impératif | imperativo | C1 | marseille |
 | impétueux | impetuoso | C1 | marseille |
+| impie | ímpio | C1 | marseille |
 | implanter | implantar | C1 | marseille |
 | impur | impuro | C1 | marseille |
 | imputer | imputar | C1 | marseille |
@@ -439,7 +446,6 @@ Banco: 16796 palavras · Cobertas em aulas e guias: 13382 · **Faltantes: 3414**
 | l’attribution causale | a atribuição causal | C1 | marseille |
 | l’aubier | o alburno | C1 | marseille |
 | l’auge | o cocho | C1 | marseille |
-| l’aumône | a esmola | C1 | marseille |
 | l’auriculaire | o mindinho | C1 | marseille |
 | l’austérité budgétaire | a austeridade orçamentária | C1 | marseille |
 | l’authentification | a autenticação | C1 | marseille |
@@ -547,6 +553,7 @@ Banco: 16796 palavras · Cobertas em aulas e guias: 13382 · **Faltantes: 3414**
 | la commissure | a comissura | C1 | marseille |
 | la compatibilité | a compatibilidade | C1 | marseille |
 | la contrariété | o aborrecimento / a contrariedade | C1 | marseille |
+| la contrition | a contrição | C1 | marseille |
 | la corvée | a corveia | C1 | marseille |
 | la croyance limitante | a crença limitante | C1 | marseille |
 | la cryptographie | a criptografia | C1 | marseille |
@@ -597,6 +604,8 @@ Banco: 16796 palavras · Cobertas em aulas e guias: 13382 · **Faltantes: 3414**
 | la RSE | a responsabilidade social empresarial | C1 | marseille |
 | la schizophrénie | a esquizofrenia | C1 | marseille |
 | la sécession | a secessão | C1 | marseille |
+| la seigneurie | o senhorio | C1 | marseille |
+| la serf | o servo | C1 | marseille |
 | la Shoah | a Shoah / o Holocausto | C1 | marseille |
 | la source secondaire | a fonte secundária | C1 | marseille |
 | la sous-espèce | a subespécie | C1 | marseille |
@@ -702,7 +711,9 @@ Banco: 16796 palavras · Cobertas em aulas e guias: 13382 · **Faltantes: 3414**
 | le scarabée | o escaravelho | C1 | marseille |
 | le scorpion | o escorpião | C1 | marseille |
 | le séparatisme | o separatismo | C1 | marseille |
+| le servage | a servidão | C1 | marseille |
 | le socialisme | o socialismo | C1 | marseille |
+| le suzerain | o suserano | C1 | marseille |
 | le système politique | o sistema político | C1 | marseille |
 | le tiers état | o terceiro estado | C1 | marseille |
 | le traçage | o rastreamento | C1 | marseille |
@@ -710,6 +721,7 @@ Banco: 16796 palavras · Cobertas em aulas e guias: 13382 · **Faltantes: 3414**
 | le tropique | o trópico | C1 | marseille |
 | le trouble obsessionnel | o transtorno obsessivo | C1 | marseille |
 | le vague à l’âme | o tédio / a melancolia | C1 | marseille |
+| le vassal | o vassalo | C1 | marseille |
 | les annales | os anais | C1 | marseille |
 | les mégadonnées | o big data | C1 | marseille |
 | littéral | literal | C1 | marseille |
@@ -790,13 +802,13 @@ Banco: 16796 palavras · Cobertas em aulas e guias: 13382 · **Faltantes: 3414**
 | s’officialiser | oficializar-se | C1 | marseille |
 | salutations | as saudações / cumprimentos | C1 | marseille |
 | sans égal | sem igual | C1 | marseille |
-| sans espoir | sem esperança | C1 | marseille |
 | sardonique | sardônico | C1 | marseille |
 | sataniser | demonizar | C1 | marseille |
 | schématique | esquemático | C1 | marseille |
 | se dégoûter | enojar-se | C1 | marseille |
 | se faner | murchar / desbotar | C1 | marseille |
 | séquentiel | sequencial | C1 | marseille |
+| sermonner | sermonar | C1 | marseille |
 | soporifique | soporífero | C1 | marseille |
 | souhaitable | desejável | C1 | marseille |
 | souillé | maculado | C1 | marseille |
