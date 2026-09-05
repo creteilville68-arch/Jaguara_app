@@ -25,10 +25,10 @@ reaparece em outras aulas ou cidades.
 
 | Métrica | Valor |
 | --- | --- |
-| Arquivos de texto analisados (aulas + guias) | 1036 |
+| Arquivos de texto analisados (aulas + guias) | 1043 |
 | Palavras únicas no banco | 16.796 |
-| Já presentes nos textos (cobertura morfológica) | 13.459 |
-| **Ainda falta escrever nos textos** | **3.337** |
+| Já presentes nos textos (cobertura morfológica) | 13.784 |
+| **Ainda falta escrever nos textos** | **3.012** |
 
 A meta é atingida quando a coluna "ainda falta" chegar a zero — ou seja,
 quando todas as palavras da lista de cada cidade aparecerem nos parágrafos
@@ -36,7 +36,7 @@ em francês. As duas frentes de escrita são:
 
 1. **Aventura (Fase 1):** as aulas da trilha de Irlan (`src/data/<cidade>_lesson_<N>.json`).
 2. **Enciclopédia (Fase 2):** os dossiês temáticos pós-trilha
-   (`src/data/city_guides/<cidade>_guide_<N>.json`) — 11 cidades, 545 seções,
+   (`src/data/city_guides/<cidade>_guide_<N>.json`) — 11 cidades, 552 seções,
    desbloqueados quando o aluno termina a aventura. São o lar natural do
    vocabulário avançado (C1/C2), que não cabe no enredo sem enrolá-lo.
 

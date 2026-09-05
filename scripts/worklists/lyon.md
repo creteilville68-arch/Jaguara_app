@@ -1,539 +1,291 @@
 # #8 Lyon — B2+
 
-**516 palavras** ainda precisam aparecer nos textos das aulas desta cidade.
+**274 palavras** ainda precisam aparecer nos textos das aulas desta cidade.
 
 Risque uma linha (marque como `[x]`) conforme for inserindo cada palavra na aventura do Irlan.
 
-## A1 (1)
+## B1 (1)
 
-- [ ] **trilha** — trilha / caminho cultural de exploração
-
-## A2 (1)
-
-- [ ] **les cheveux blonds** — o cabelo loiro
-
-## B1 (30)
-
-- [ ] **arrondi** — arredondado
-- [ ] **crever un pneu** — furar um pneu
-- [ ] **élastique** — elástico
 - [ ] **goûter (verbe)** — provar
-- [ ] **irresponsable** — irresponsável
-- [ ] **l’apiculteur** — o apicultor
-- [ ] **l’effroi** — o pavor
-- [ ] **l’extension électrique** — a extensão elétrica
-- [ ] **l’origan** — o orégano
-- [ ] **la carte mémoire** — o cartão de memória
-- [ ] **la deuxième classe** — a segunda classe
-- [ ] **la ligne de bus** — a linha de ônibus
-- [ ] **la natation synchronisée** — o nado sincronizado
-- [ ] **la réclamation** — a reclamação
-- [ ] **la terreur** — o terror
-- [ ] **le bouleau** — a bétula
-- [ ] **le code-barres** — o código de barras
-- [ ] **le délégué du personnel** — o representante dos funcionários
-- [ ] **le golf** — o golfe
-- [ ] **le livret de famille** — a certidão de família
-- [ ] **le patinage** — a patinação
-- [ ] **le produit d’occasion** — o produto de segunda mão
-- [ ] **le sénateur** — o senador
-- [ ] **le surpoids** — o sobrepeso
-- [ ] **le vol avec escale** — o voo com escala
-- [ ] **mature** — maduro
-- [ ] **périmé** — vencido / expirado
-- [ ] **ressens** — sinto / experimento (do verbo ressentir)
-- [ ] **soudainement** — subitamente
-- [ ] **tourner un film** — rodar um filme
 
-## B2 (55)
+## B2 (19)
 
-- [ ] **affreux** — horrível
-- [ ] **assigner** — atribuir / designar
-- [ ] **compenser** — compensar
-- [ ] **conventionnel** — convencional
-- [ ] **dépeindre** — retratar / descrever
-- [ ] **dorénavant** — doravante
-- [ ] **équivaloir** — equivaler
-- [ ] **facultatif** — facultativo
-- [ ] **humoristique** — humorístico
-- [ ] **inadapté** — inadequado
-- [ ] **indocile** — indócil
-- [ ] **inoffensif** — inofensivo
-- [ ] **jouir** — desfrutar / gozar
-- [ ] **l’aide financière** — a ajuda financeira
-- [ ] **l’aparté** — o aparte / o comentário à parte
-- [ ] **l’automédication** — a automedicação
-- [ ] **l’emprise** — o domínio / a influência
-- [ ] **l’étalement urbain** — a expansão urbana
-- [ ] **l’homicide** — o homicídio
-- [ ] **l’incohérence** — a incoerência
-- [ ] **l’intervalle** — o intervalo
-- [ ] **la base de données** — o banco de dados
-- [ ] **la chaîne de montagnes** — a cadeia de montanhas
-- [ ] **la conjugaison** — a conjugação
-- [ ] **la démographie** — a demografia
-- [ ] **la fraude fiscale** — a fraude fiscal
-- [ ] **la levée de fonds** — a captação de recursos
-- [ ] **la mimique** — a mímica / a expressão facial
-- [ ] **la paraphrase** — a paráfrase
-- [ ] **la prétention** — a pretensão
-- [ ] **la pulsion** — o impulso
-- [ ] **la séparation de corps** — a separação de corpos
-- [ ] **la susceptibilité** — a suscetibilidade
-- [ ] **lamentable** — lamentável
-- [ ] **le castelet** — castelet (palco de marionetes)
-- [ ] **le comptable** — o contador
+- [ ] **catastrophique** — catastrófico
+- [ ] **docile** — dócil
+- [ ] **inactif** — inativo
+- [ ] **injustifié** — injustificado
+- [ ] **l’éducation des enfants** — a educação dos filhos
+- [ ] **l’immoralité** — a imoralidade
+- [ ] **la belle-fille** — a nora / a enteada
+- [ ] **la famille recomposée** — a família recomposta
+- [ ] **la natalité** — a natalidade
+- [ ] **la tornade** — o tornado
+- [ ] **le CDD** — o contrato por tempo determinado
 - [ ] **le déshonneur** — a desonra
-- [ ] **le gône** — gône (lionense, em dialeto local)
-- [ ] **le mal-être** — o mal-estar
-- [ ] **le perfectionnement** — o aperfeiçoamento
-- [ ] **le racisme** — o racismo
-- [ ] **le secteur primaire** — o setor primário
-- [ ] **le tracas** — o aborrecimento / a preocupação
-- [ ] **marginaliser** — marginalizar
-- [ ] **navrant** — lamentável / comovente
-- [ ] **officieux** — oficioso
-- [ ] **pendant ce temps** — nesse ínterim
-- [ ] **prendre position** — posicionar-se
-- [ ] **proliférer** — proliferar
-- [ ] **rectifier** — retificar
-- [ ] **révélateur** — revelador
-- [ ] **sensiblement** — sensivelmente / consideravelmente
-- [ ] **subdiviser** — subdividir
-- [ ] **tolérable** — tolerável
-- [ ] **vraisemblablement** — provavelmente
+- [ ] **le loisir créatif** — o lazer criativo
+- [ ] **le réseau routier** — a malha viária
+- [ ] **maximal** — máximo
+- [ ] **pliable** — dobrável
+- [ ] **rigoureusement** — rigorosamente
+- [ ] **soutenable** — sustentável / defensável
+- [ ] **vu que** — visto que
 
-## C1 (139)
+## C1 (41)
 
-- [ ] **abstème** — abstêmio
-- [ ] **aduler** — adular
-- [ ] **allusif** — alusivo
-- [ ] **antithétique** — antitético
-- [ ] **athée** — ateu
-- [ ] **bancal** — inconsistente / manco
-- [ ] **blessant** — ofensivo / magoado
-- [ ] **candide** — cândido / ingênuo
-- [ ] **cérémonieux** — cerimonioso
-- [ ] **clivant** — divisor / polarizador
-- [ ] **condamnable** — condenável
+- [ ] **arrangeant** — complacente / flexível
+- [ ] **canonique** — canônico
 - [ ] **corrélé** — correlacionado
-- [ ] **cupide** — cúpido / ávido por dinheiro
-- [ ] **décrédibiliser** — descredibilizar
-- [ ] **dépolitiser** — despolitizar
+- [ ] **dégoûtant** — nojento
 - [ ] **détestable** — detestável
-- [ ] **disculper** — inocentar / desculpar
 - [ ] **dolent** — queixoso / doído
-- [ ] **enchevêtrer** — enredar / entrelaçar
-- [ ] **épique** — épico
-- [ ] **évitable** — evitável
-- [ ] **faire allusion** — fazer alusão
-- [ ] **flairer** — farejar / pressentir
-- [ ] **foudroyant** — fulminante
-- [ ] **généraliser abusivement** — generalizar indevidamente
-- [ ] **hédoniste** — hedonista
-- [ ] **immaculé** — imaculado
-- [ ] **implanter** — implantar
-- [ ] **inavouable** — inconfessável
-- [ ] **incontrôlable** — incontrolável
-- [ ] **indéracinable** — inerradicável
-- [ ] **infâme** — infame
+- [ ] **exécrable** — execrável
+- [ ] **fontaine wallace** — fonte pública de água potável em Paris
+- [ ] **hétérodoxe** — heterodoxo
+- [ ] **inabordable** — inabordável
+- [ ] **incurable** — incurável
 - [ ] **insultant** — insultuoso
-- [ ] **invérifiable** — inverificável
-- [ ] **irrespectueux** — desrespeitoso
-- [ ] **l’accablement** — o desalento
-- [ ] **l’administration centrale** — a administração central
-- [ ] **l’âge du fer** — a Idade do Ferro
-- [ ] **l’amabilité** — a amabilidade
-- [ ] **l’anonymisation** — a anonimização
-- [ ] **l’appauvrissement** — o empobrecimento
-- [ ] **l’art classique** — a arte clássica
-- [ ] **l’asymétrie** — a assimetria
-- [ ] **l’austérité budgétaire** — a austeridade orçamentária
-- [ ] **l’aversion** — a aversão
-- [ ] **l’éducation au développement durable** — a educação para o desenvolvimento sustentável
-- [ ] **l’empathie affective** — a empatia afetiva
-- [ ] **l’enseignement hybride** — o ensino híbrido
-- [ ] **l’étape charnière** — a etapa decisiva
-- [ ] **l’expiration du délai** — o fim do prazo
-- [ ] **l’hémorragie** — a hemorragia
-- [ ] **l’hypnose** — a hipnose
-- [ ] **l’immuabilité** — a imutabilidade
-- [ ] **l’inclination** — a inclinação
-- [ ] **l’inexécution** — o descumprimento
-- [ ] **l’instrumentiste** — o instrumentista
-- [ ] **l’intermittence** — a intermitência
-- [ ] **l’irritabilité** — a irritabilidade
-- [ ] **l’ophtalmologie** — a oftalmologia
-- [ ] **l’outrecuidance** — a presunção / a insolência
-- [ ] **la bactériologie** — a bacteriologia
-- [ ] **la chaire** — a cátedra
-- [ ] **la civilité** — a civilidade
-- [ ] **la composition musicale** — a composição musical
-- [ ] **la cornée** — a córnea
-- [ ] **la déréglementation** — a desregulamentação
-- [ ] **la différenciation** — a diferenciação
-- [ ] **la fadeur** — a insipidez
-- [ ] **la généralisation abusive** — a generalização indevida
-- [ ] **la hanche** — o quadril
-- [ ] **la lingua franca** — a língua franca
-- [ ] **la médiatisation** — a divulgação midiática
-- [ ] **la narine** — a narina
-- [ ] **la paume** — a palma
-- [ ] **la personnalité juridique** — a personalidade jurídica
-- [ ] **la pommette** — a maçã do rosto
-- [ ] **la prémisse** — a premissa
-- [ ] **la prophétie** — a profecia
-- [ ] **la réalisation** — a realização
-- [ ] **la relativité** — a relatividade
-- [ ] **la rétractation** — a retratação
-- [ ] **la scission** — a cisão
-- [ ] **la soif de savoir** — a sede de saber
-- [ ] **la stupeur** — o estupor
-- [ ] **la table ronde** — a mesa-redonda
-- [ ] **la traçabilité alimentaire** — a rastreabilidade alimentar
-- [ ] **la validité externe** — a validade externa
-- [ ] **laconique** — lacônico
-- [ ] **le biais de confirmation** — o viés de confirmação
-- [ ] **le bulletin de vote** — a cédula de voto
-- [ ] **le chambardement** — a reviravolta
-- [ ] **le climat continental** — o clima continental
-- [ ] **le communautarisme** — o comunitarismo
-- [ ] **le contre-exemple** — o contraexemplo
-- [ ] **le dadaïsme** — o dadaísmo
-- [ ] **le fanatisme** — o fanatismo
-- [ ] **le hautbois** — o oboé
-- [ ] **le locavorisme** — o locavorismo
-- [ ] **le mécanisme de défense** — o mecanismo de defesa
-- [ ] **le mouvement social** — o movimento social
-- [ ] **le non-figuratif** — o não-figurativo
-- [ ] **le patrimoine génétique** — o patrimônio genético
+- [ ] **l’absolution** — a absolvição
+- [ ] **l’annulaire** — o anelar
+- [ ] **l’association d’idées** — a associação de ideias
+- [ ] **l’baraque** — o barraco
+- [ ] **l’entreprise citoyenne** — a empresa cidadã
+- [ ] **l’hameçonnage** — o phishing
+- [ ] **l’indétermination** — a indeterminação
+- [ ] **l’intelligibilité** — a inteligibilidade
+- [ ] **l’ovaire** — o ovário
+- [ ] **la compatibilité** — a compatibilidade
+- [ ] **la gynécologie** — a ginecologia
+- [ ] **la potentialité** — a potencialidade
+- [ ] **la Shoah** — a Shoah / o Holocausto
+- [ ] **laxiste** — laxista / permissivo
+- [ ] **le colonialisme** — o colonialismo
+- [ ] **le lobe** — o lóbulo
 - [ ] **le plan média** — o plano de mídia
-- [ ] **le prime time** — o horário nobre
-- [ ] **le registre vocal** — o registro vocal
-- [ ] **le scoop** — o furo jornalístico
-- [ ] **le sommeil paradoxal** — o sono REM
-- [ ] **le surmoi** — o superego
-- [ ] **le tiers état** — o terceiro estado
-- [ ] **le violoncelle** — o violoncelo
-- [ ] **les médias de masse** — os meios de comunicação de massa
-- [ ] **lugubre** — lúgubre
-- [ ] **manipulable** — manipulável
-- [ ] **mélodramatique** — melodramático
-- [ ] **mettre en perspective** — pôr em perspectiva
-- [ ] **mûrement réfléchi** — bem pensado
-- [ ] **notoirement** — notoriamente
-- [ ] **ombrageux** — desconfiado / suscetível
-- [ ] **paraphraser** — parafrasear
-- [ ] **persuasif** — persuasivo
-- [ ] **polyvalent** — polivalente
-- [ ] **probant** — convincente / probante
-- [ ] **rabaisser** — rebaixar
-- [ ] **rébarbatif** — árido / desagradável
-- [ ] **régressif** — regressivo
-- [ ] **répugnant** — repugnante
-- [ ] **revenir sur** — voltar atrás em
-- [ ] **s’affilier** — filiar-se
+- [ ] **le réseau de neurones** — a rede neural
+- [ ] **les mégadonnées** — o big data
+- [ ] **modifiable** — modificável
+- [ ] **offensant** — ofensivo
+- [ ] **plaintif** — lamurioso
+- [ ] **pusillanime** — pusilânime
+- [ ] **remettre à plus tard** — adiar
 - [ ] **s’officialiser** — oficializar-se
-- [ ] **schématiser** — esquematizar
-- [ ] **se normaliser** — normalizar-se
-- [ ] **séquentiel** — sequencial
-- [ ] **spolier** — espoliar
-- [ ] **suggestible** — sugestionável
-- [ ] **taciturne** — taciturno
-- [ ] **ternaire** — ternário
-- [ ] **transparaître** — transparecer
-- [ ] **user de** — usar de
-- [ ] **véreux** — sórdido / corrupto
+- [ ] **sous-évaluer** — subvalorizar
+- [ ] **tanné** — curtido / bronzeado
+- [ ] **turbide** — túrbido
+- [ ] **vitrine de noël** — vitrine decorada de Natal
 
-## C2 (290)
+## C2 (213)
 
-- [ ] **abâtardir** — abastardar
-- [ ] **aérien** — aéreo
-- [ ] **anamnestique** — anamnéstico
-- [ ] **antonymique** — antonímico
-- [ ] **asocial** — associal
-- [ ] **axiologique** — axiológico
+- [ ] **agonistique** — agonístico
+- [ ] **antidater** — antedatar
+- [ ] **arrogé** — arrogar-se
+- [ ] **autoréférentiel** — autorreferencial
 - [ ] **campagnard** — camponês
-- [ ] **chapeler** — descascar
-- [ ] **conciliaire** — conciliar
-- [ ] **constitutionnel** — constitucional
-- [ ] **correctionnel** — correcional
-- [ ] **déboiser** — desmatar
-- [ ] **décroissant** — decrescente
-- [ ] **démagnétiser** — desmagnetizar
-- [ ] **déposséder de** — desapossar de
-- [ ] **désobéissant** — desobediente
-- [ ] **dispatcher** — distribuir; despachar
-- [ ] **égocentrique** — egocêntrico
+- [ ] **chauffer à blanc** — aquecer ao rubro
+- [ ] **congénital** — congênito
+- [ ] **cosmologique** — cosmológico
+- [ ] **déchristianisé** — descristianizado
+- [ ] **défrayer** — causar furor
+- [ ] **dépolariser** — despolarizar
+- [ ] **dévaluer** — desvalorizar
+- [ ] **échu** — vencido
 - [ ] **encadrer une activité** — enquadrar uma atividade
-- [ ] **entortiller** — enrolar; enredar
-- [ ] **équatorial** — equatorial
-- [ ] **être à l’origine** — estar na origem
-- [ ] **exécutable** — executável
-- [ ] **extracontractuel** — extracontratual
-- [ ] **flexueux** — flexuoso
-- [ ] **frigorifier** — refrigerar; congelar
-- [ ] **gnostique** — gnóstico
-- [ ] **hagiographique** — hagiográfico
-- [ ] **holonymique** — holonímico
-- [ ] **hypersensible** — hipersensível
-- [ ] **impiété** — ímpio
-- [ ] **inclement** — inclemente
-- [ ] **inexigible** — inexigível
-- [ ] **ingurgiter** — ingerir
-- [ ] **innommable** — inominável
-- [ ] **intempestif** — intempestivo
+- [ ] **entropique** — entrópico
+- [ ] **éruptif** — eruptivo
+- [ ] **éventrer** — estripar; rasgar
+- [ ] **expliquer une position** — explicar uma posição
+- [ ] **floculer** — flocular
+- [ ] **gazéifier** — gaseificar
+- [ ] **habiliter à** — habilitar a
+- [ ] **horrifier** — horrorizar
+- [ ] **impérialiste** — imperialista
+- [ ] **incompressible** — incompressível
+- [ ] **inférentiel** — inferencial
+- [ ] **insane** — insano
 - [ ] **intuitif** — intuitivo
-- [ ] **islamophobe** — islamofóbico
-- [ ] **l’abcès** — o abscesso
-- [ ] **l’accalmie** — a calmaria
-- [ ] **l’acrimonie** — a acrimônia
-- [ ] **l’affaire Dreyfus** — o caso Dreyfus
-- [ ] **l’ahurissement** — o aturdimento
-- [ ] **l’alinéa** — a alínea
-- [ ] **l’aménité** — a amenidade
-- [ ] **l’anadiplose** — a anadiplose
-- [ ] **l’anglésite** — a anglesita
-- [ ] **l’anticléricalisme** — o anticlericalismo
-- [ ] **l’antipyrétique** — o antipirético
-- [ ] **l’apophatisme** — o apofatismo
-- [ ] **l’aquarelliste** — o aquarelista
-- [ ] **l’ardoisier** — o telhador de ardósia
-- [ ] **l’arrière-grand-père** — o bisavô
-- [ ] **l’assemblée constituante** — a assembleia constituinte
-- [ ] **l’athérosclérose** — a aterosclerose
-- [ ] **l’auditoire** — o auditório
-- [ ] **l’aven** — o algar
+- [ ] **jurisprudentiel** — jurisprudencial
+- [ ] **l’acarien** — o ácaro
+- [ ] **l’administrateur réseau** — o administrador de rede
+- [ ] **l’agresseur** — o agressor
+- [ ] **l’alligator** — o aligátor
+- [ ] **l’anaconda** — a sucuri
+- [ ] **l’anhydrite** — a anidrita
+- [ ] **l’antimoine** — o antimônio
+- [ ] **l’apophase** — a apófase
+- [ ] **l’arachide** — o amendoim
+- [ ] **l’arpenteur** — o agrimensor
+- [ ] **l’astate** — o astato
+- [ ] **l’auberge de jeunesse** — o albergue da juventude
+- [ ] **l’avatar** — o avatar
 - [ ] **l’échelle de Richter** — a escala Richter
-- [ ] **l’écu coupé** — o escudo cortado
-- [ ] **l’effectivité** — a efetividade
-- [ ] **l’émail** — o esmalte
-- [ ] **l’endocarde** — o endocárdio
-- [ ] **l’entonnoir** — o funil
-- [ ] **l’épizeuxe** — a epizeuxe
-- [ ] **l’érythrite** — a eritrita
-- [ ] **l’établissement de crédit** — a instituição de crédito
-- [ ] **l’étiologie** — a etiologia
-- [ ] **l’évolution des mœurs** — a evolução dos costumes
-- [ ] **l’expert-comptable** — o contador
-- [ ] **l’harmonica** — a gaita
-- [ ] **l’herpès** — o herpes
-- [ ] **l’huile de moteur** — o óleo de motor
-- [ ] **l’hymne** — o hino
-- [ ] **l’iambe** — o iambo
+- [ ] **l’écu fascé** — o escudo faixado
+- [ ] **l’ego** — o ego
+- [ ] **l’énargite** — a enargita
+- [ ] **l’entrebâilleur** — o retentor
+- [ ] **l’épuisement nerveux** — o esgotamento nervoso
+- [ ] **l’espadon** — o espadarte
+- [ ] **l’ethnologie** — a etnologia
+- [ ] **l’évolutionnisme** — o evolucionismo
+- [ ] **l’hafnium** — o háfnio
+- [ ] **l’hémistiche** — o hemistíquio
+- [ ] **l’huisserie** — a esquadria
+- [ ] **l’hypermodernité** — a hipermodernidade
 - [ ] **l’imitation** — a imitação
-- [ ] **l’incubation** — a incubação
-- [ ] **l’inférence statistique** — a inferência estatística
-- [ ] **l’inopposabilité** — a inoponibilidade
-- [ ] **l’interligne** — o espaçamento entre linhas
-- [ ] **l’isolement social** — o isolamento social
-- [ ] **l’octogénaire** — o octogenário
+- [ ] **l’indigène** — o indígena
+- [ ] **l’injecteur** — o injetor
+- [ ] **l’internaute** — o internauta
+- [ ] **l’objet indirect** — o objeto indireto
 - [ ] **l’omnipotence** — a onipotência
-- [ ] **l’opposabilité** — a oponibilidade
-- [ ] **l’organite** — a organela
-- [ ] **l’orvet** — o licranço
-- [ ] **l’ukulélé** — o uquelele
-- [ ] **la bannière** — o estandarte
-- [ ] **la bauxite** — a bauxita
-- [ ] **la bornite** — a bornita
-- [ ] **la cagette** — a caixinha
-- [ ] **la canalisation de gaz** — a tubulação de gás
-- [ ] **la célérité** — a celeridade
-- [ ] **la chalcocite** — a calcocita
+- [ ] **l’ordre corinthien** — a ordem coríntia
+- [ ] **l’orpiment** — o ouro-pigmento
+- [ ] **l’oxygénation** — a oxigenação
+- [ ] **la banque de détail** — o banco de varejo
+- [ ] **la blatte** — a barata
+- [ ] **la caille** — a codorna
+- [ ] **la capitalisation** — a capitalização
+- [ ] **la cession** — a cessão
 - [ ] **la chromolithographie** — a cromolitografia
-- [ ] **la clé de fa** — a clave de fá
-- [ ] **la cohésion d’équipe** — a coesão de equipe
-- [ ] **la condensation** — a condensação
-- [ ] **la convenance** — a conveniência
-- [ ] **la courtepointe** — a colcha
-- [ ] **la cuillère à café** — a colher de chá
-- [ ] **la déchristianisation** — a descristianização
-- [ ] **la dérobade** — a fuga
-- [ ] **la diode** — o diodo
-- [ ] **la dolomite** — a dolomita
-- [ ] **la falsifiabilité** — a falseabilidade
+- [ ] **la clé de roue** — a chave de roda
+- [ ] **la composante** — a componente
+- [ ] **la corroboration** — a corroboração
+- [ ] **la cryptologie** — a criptologia
+- [ ] **la démarcation** — a demarcação
+- [ ] **la dissimilation** — a dissimilação
+- [ ] **la dysphorie** — a disforia
 - [ ] **la firme** — a firma
-- [ ] **la force obligatoire** — a força obrigatória
-- [ ] **la fromagerie** — a queijaria
-- [ ] **la géodésie** — a geodésia
-- [ ] **la gondole** — a gôndola
-- [ ] **la haute trahison** — a alta traição
+- [ ] **la fosse septique** — a fossa séptica
+- [ ] **la gélule** — a cápsula
+- [ ] **la goyave** — a goiaba
 - [ ] **la laîche** — a carriça
-- [ ] **la lésion** — a lesão
-- [ ] **la limnologie** — a limnologia
-- [ ] **la luxation** — a luxação
-- [ ] **la manière noire** — a maneira negra
-- [ ] **la maturation** — a maturação
-- [ ] **la meute** — a matilha
-- [ ] **la mise en scène lyrique** — a encenação lírica
-- [ ] **la monnaie fiduciaire** — a moeda fiduciária
-- [ ] **la mousse des bois** — o musgo do bosque
-- [ ] **la néguentropie** — a neguentropia
-- [ ] **la nymphe** — a ninfa
+- [ ] **la liaison hydrogène** — a ligação de hidrogênio
+- [ ] **la littéralité** — a literalidade
+- [ ] **la manique** — a luva de cozinha
+- [ ] **la microscopie** — a microscopia
+- [ ] **la molybdénite** — a molibdenita
+- [ ] **la mousson** — a monção
+- [ ] **la non-rétroactivité** — a não retroatividade
 - [ ] **la parasitologie** — a parasitologia
-- [ ] **la paumelle** — a dobradiça
-- [ ] **la péridotite** — o peridotito
-- [ ] **la phlébite** — a flebite
-- [ ] **la plasticité** — a plasticidade
-- [ ] **la polyvalence** — a polivalência
-- [ ] **la prédestination** — a predestinação
-- [ ] **la prosthèse** — a prótese (linguística)
-- [ ] **la quatrième république** — a quarta república
-- [ ] **la ramure** — a ramagem
-- [ ] **la refondation** — a refundação
-- [ ] **la rhinite** — a rinite
-- [ ] **la saillie** — a tirada espirituosa
-- [ ] **la séquentialité** — a sequencialidade
-- [ ] **la sociologie économique** — a sociologia econômica
-- [ ] **la spationaute** — o espacionauta
-- [ ] **la subduction** — a subducção
-- [ ] **la symploque** — o simploque
-- [ ] **la tanière** — a toca
-- [ ] **la termitière** — o cupinzeiro
-- [ ] **la tonnellerie** — a tanoaria
-- [ ] **la traîtrise** — a traição
-- [ ] **la triple croche** — a fusa
-- [ ] **la vandoise** — o escalo
-- [ ] **la vindicte** — a vingança
-- [ ] **lacanien** — lacaniano
-- [ ] **le bailleur** — o locador
-- [ ] **le bécarre** — o bequadro
-- [ ] **le biotope** — o biótopo
-- [ ] **le blogueur** — o blogueiro
-- [ ] **le bourrelier** — o seleiro
-- [ ] **le buffet** — o aparador
-- [ ] **le cadmium** — o cádmio
-- [ ] **le cambrioleur** — o arrombador
-- [ ] **le carnivore** — o carnívoro
-- [ ] **le céleri** — o aipo
-- [ ] **le chacal** — o chacal
-- [ ] **le chaume** — o colmo
-- [ ] **le chiroptère** — o quiróptero
-- [ ] **le citron vert** — a lima
-- [ ] **le cnidaire** — o cnidário
-- [ ] **le collectionneur d’art** — o colecionador de arte
-- [ ] **le compositeur** — o compositor
-- [ ] **le constituant** — o constituinte
-- [ ] **le contrôle technique** — a inspeção veicular
-- [ ] **le coulis** — o coulis
-- [ ] **le cratère lunaire** — a cratera lunar
-- [ ] **le crumble** — o crumble
-- [ ] **le déambulateur** — o andador
-- [ ] **le dénigrement** — a difamação
-- [ ] **le dilettante** — o diletante
+- [ ] **la pénalité** — o pênalti
+- [ ] **la pince à linge** — o prendedor
+- [ ] **la pollinisation** — a polinização
+- [ ] **la préparation physique** — a preparação física
+- [ ] **la pulpe** — a polpa
+- [ ] **la raie manta** — a arraia-manta
+- [ ] **la rente** — a renda
+- [ ] **la ruralité** — a ruralidade
+- [ ] **la sidérite** — a siderita
+- [ ] **la source chaude** — a fonte termal
+- [ ] **la strontianite** — a estroncianita
+- [ ] **la symptomatologie** — a sintomatologia
+- [ ] **la tergiversation** — a tergiversação
+- [ ] **la topaze** — o topázio
+- [ ] **la trigonométrie** — a trigonometria
+- [ ] **la varicelle** — a catapora
+- [ ] **la wolframite** — a wolframita
+- [ ] **le bagage à main** — a bagagem de mão
+- [ ] **le bêlement** — o balido
+- [ ] **le bivalve** — o bivalve
+- [ ] **le boudin** — o chouriço
+- [ ] **le bruissement** — o sussurro
+- [ ] **le caféier** — o cafeeiro
+- [ ] **le carbonate** — o carbonato
+- [ ] **le caviar** — o caviar
+- [ ] **le chameau** — o camelo
+- [ ] **le chiendent** — a grama
+- [ ] **le cimier** — o timbre
+- [ ] **le cobaye** — a cobaia
+- [ ] **le commissionnaire** — o comissionário
+- [ ] **le congélateur** — o freezer
+- [ ] **le coquelicot** — a papoula
+- [ ] **le craquement** — o estalo
+- [ ] **le cuivre natif** — o cobre nativo
+- [ ] **le déchiffrement** — a decifração
+- [ ] **le diagramme** — o diagrama
 - [ ] **le dompteur** — o domador
-- [ ] **le droit de manifester** — o direito de manifestar
 - [ ] **le fair-play** — o fair play
-- [ ] **le figurant** — o figurante
-- [ ] **le florilège** — a antologia
-- [ ] **le francium** — o frâncio
+- [ ] **le fil de fer** — o arame
+- [ ] **le foulon** — o pisoeiro
 - [ ] **le fusible** — o fusível
-- [ ] **le genêt** — a giesta
-- [ ] **le glissement de terrain** — o deslizamento de terra
-- [ ] **le gouvernail** — o leme
-- [ ] **le gribouillis** — o rabisco
-- [ ] **le hanneton** — o besouro
-- [ ] **le joaillier** — o joalheiro
-- [ ] **le lactaire** — o lactário
-- [ ] **le largo** — o largo
-- [ ] **le lied** — o lied
-- [ ] **le lithographe** — o litógrafo
-- [ ] **le madrigal** — o madrigal
-- [ ] **le mammifère marin** — o mamífero marinho
-- [ ] **le marquage au sol** — a sinalização de solo
-- [ ] **le mendelevium** — o mendelévio
-- [ ] **le microscope électronique** — o microscópio eletrônico
-- [ ] **le modelage** — a modelagem
-- [ ] **le moustique** — o mosquito
-- [ ] **le narrateur omniscient** — o narrador onisciente
-- [ ] **le nobélium** — o nobélio
-- [ ] **le paillasson** — o capacho
-- [ ] **le pantoum** — o pantum
-- [ ] **le passereau** — o pássaro
+- [ ] **le germe** — o germe
+- [ ] **le golfeur** — o golfista
+- [ ] **le griffonnage** — o garrancho
+- [ ] **le hêtre** — a faia
+- [ ] **le kiwi** — o kiwi
+- [ ] **le langage de programmation** — a linguagem de programação
+- [ ] **le lierre** — a hera
+- [ ] **le lucane** — o vaca-loura
+- [ ] **le management** — a gestão
+- [ ] **le médailleur** — o medalhista
+- [ ] **le miaulement** — o miado
+- [ ] **le mitigeur** — o misturador
+- [ ] **le muguet** — o lírio-do-vale
+- [ ] **le néoclassicisme** — o neoclassicismo
+- [ ] **le noisetier** — a aveleira
+- [ ] **le palmipède** — a palmípede
+- [ ] **le pare-chocs** — o para-choque
 - [ ] **le pergélisol** — o permafrost
-- [ ] **le phasme** — o bicho-pau
-- [ ] **le pickpocket** — o batedor de carteiras
-- [ ] **le piston** — o pistão
-- [ ] **le podcasteur** — o podcaster
-- [ ] **le polypore** — o políporo
-- [ ] **le pot-au-feu** — o pot-au-feu
-- [ ] **le préfixe** — o prefixo
-- [ ] **le prométhium** — o promécio
-- [ ] **le puits de mine** — o poço de mina
-- [ ] **le quinoa** — a quinoa
-- [ ] **le ramoneur** — o limpa-chaminés
-- [ ] **le receleur** — o receptador
-- [ ] **le régime de Vichy** — o regime de Vichy
-- [ ] **le retour à la ligne** — a quebra de linha
-- [ ] **le rondeau** — o rondó
-- [ ] **le samarium** — o samário
-- [ ] **le schiste** — o xisto
-- [ ] **le semi-conducteur** — o semicondutor
-- [ ] **le sextuor** — o sexteto
-- [ ] **le sodium** — o sódio
+- [ ] **le pic épeiche** — o pica-pau-malhado
+- [ ] **le pistil** — o pistilo
+- [ ] **le poids lourd** — o caminhão pesado
+- [ ] **le porte-savon** — a saboneteira
+- [ ] **le précambrien** — o pré-cambriano
+- [ ] **le pronom** — o pronome
+- [ ] **le puma** — o puma
+- [ ] **le radioisotope** — o radioisótopo
+- [ ] **le réalgar** — o realgar
+- [ ] **le réseau trophique** — a teia alimentar
+- [ ] **le roentgenium** — o roentgênio
+- [ ] **le rutherfordium** — o rutherfórdio
+- [ ] **le scénariste** — o roteirista
+- [ ] **le semoir** — a semeadora
+- [ ] **le sirocco** — o siroco
 - [ ] **le soupirail** — a seteira
-- [ ] **le stylo à bille** — a caneta esferográfica
-- [ ] **le sureau** — o sabugueiro
-- [ ] **le tamis** — a peneira
-- [ ] **le ténor** — o tenor
-- [ ] **le thorium** — o tório
+- [ ] **le subjonctif présent** — o subjuntivo presente
+- [ ] **le symposium** — o simpósio
+- [ ] **le télescope spatial** — o telescópio espacial
+- [ ] **le thesaurus** — o tesauro
 - [ ] **le tortionnaire** — o torturador
-- [ ] **le traversin** — o travesseiro comprido
-- [ ] **le trisaïeul** — o trisavô
+- [ ] **le triglyphe** — o tríglifo
 - [ ] **le tuba** — a tuba
-- [ ] **le vautour** — o abutre
-- [ ] **le vicomte** — o visconde
+- [ ] **le vibraphone** — o vibrafone
 - [ ] **le voltigeur** — o volteador
-- [ ] **le zirconium** — o zircônio
-- [ ] **les lambrequins** — os paquifes
+- [ ] **les circonstances aggravantes** — as circunstâncias agravantes
 - [ ] **libérable** — libertável
-- [ ] **lofer** — orçar (velejar)
-- [ ] **mai 68** — maio de 68
-- [ ] **maturer** — amadurecer; maturar
-- [ ] **mensualiser** — mensalizar
-- [ ] **militer pour** — militar por
-- [ ] **moite** — úmido
-- [ ] **mortifère** — mortífero
-- [ ] **nationaliste** — nacionalista
-- [ ] **non-euclidien** — não euclidiano
-- [ ] **occuper une usine** — ocupar uma fábrica
-- [ ] **opportun** — oportuno
-- [ ] **oscillant** — oscilante
-- [ ] **panacher** — mesclar; matizar
-- [ ] **parémiologique** — paremiológico
-- [ ] **pénitentiaire** — penitenciário
-- [ ] **perpétrer** — perpetrar
-- [ ] **pigmenter** — pigmentar; colorir
-- [ ] **polyédrique** — poliédrico
-- [ ] **postdater** — pós-datar
-- [ ] **prescriptif** — prescritivo
-- [ ] **probatoire** — probatório
-- [ ] **prosodique** — prosódico
+- [ ] **longitudinal** — longitudinal
+- [ ] **manigancer** — maquinar; tramar
+- [ ] **mener à terme** — levar a termo
+- [ ] **minéralogique** — mineralógico
+- [ ] **monétaire** — monetário
+- [ ] **multilatéral** — multilateral
+- [ ] **niveler** — nivelar; igualar
+- [ ] **observer la loi** — observar a lei
+- [ ] **onirique** — onírico
+- [ ] **ouaté** — abafado
+- [ ] **parapher un accord** — rubricar um acordo
+- [ ] **pénultième** — penúltimo
+- [ ] **philanthropique** — filantrópico
+- [ ] **plomber** — chumbar; lacrar
+- [ ] **postulatoire** — postulatório
+- [ ] **prêter serment** — prestar juramento
+- [ ] **prononcer une peine** — proferir uma pena
 - [ ] **puritain** — puritano
 - [ ] **reboiser** — reflorestar
-- [ ] **reconnaître sa culpabilité** — reconhecer sua culpa
-- [ ] **réfrigérer** — refrigerar; resfriar
-- [ ] **réintégrer** — reintegrar; readmitir
-- [ ] **remettre en liberté** — pôr em liberdade
-- [ ] **répudier** — repudiar
-- [ ] **rétablir les faits** — restabelecer os fatos
-- [ ] **rétrospectif** — retrospectivo
-- [ ] **rompre les relations** — romper as relações
-- [ ] **saisissable** — penhorável
-- [ ] **se conformer à** — conformar-se a
-- [ ] **se recouper** — coincidir
+- [ ] **réduire une fracture** — reduzir uma fratura
+- [ ] **réinsérer** — reinserir
+- [ ] **réminiscent** — reminiscente
+- [ ] **restaurer la confiance** — restaurar a confiança
+- [ ] **rhabiller** — revestir; revestir
+- [ ] **saboter** — sabotar; boicotar
+- [ ] **se convertir à** — converter-se a
 - [ ] **sensoriel** — sensorial
-- [ ] **similaire** — similar
-- [ ] **soulever des interrogations** — levantar questionamentos
-- [ ] **sporadique** — esporádico
-- [ ] **strophique** — estrófico
-- [ ] **suburbain** — suburbano
-- [ ] **surcharger** — sobrecarregar
-- [ ] **syllogistique** — silogístico
-- [ ] **tarifaire** — tarifário
+- [ ] **sociétal** — social
+- [ ] **soustractif** — subtrativo
+- [ ] **stipuler** — estipular; fixar
+- [ ] **subsumer** — subsumir
+- [ ] **sursseoir** — sobrestar
+- [ ] **synodal** — sinodal
 - [ ] **théocratique** — teocrático
-- [ ] **tragi-comique** — tragicômico
-- [ ] **transversal** — transversal
-- [ ] **urinaire** — urinário
-- [ ] **venimeux** — venenoso
-- [ ] **violer la loi** — violar a lei
+- [ ] **trancher un différend** — decidir um diferendo
+- [ ] **tutoyer** — tutear
+- [ ] **vespéral** — vespertino
+- [ ] **xénophobe** — xenófobo
