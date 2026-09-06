@@ -25,10 +25,10 @@ reaparece em outras aulas ou cidades.
 
 | Métrica | Valor |
 | --- | --- |
-| Arquivos de texto analisados (aulas + guias) | 1043 |
+| Arquivos de texto analisados (aulas + guias) | 1056 |
 | Palavras únicas no banco | 16.796 |
-| Já presentes nos textos (cobertura morfológica) | 13.784 |
-| **Ainda falta escrever nos textos** | **3.012** |
+| Já presentes nos textos (cobertura morfológica) | 14.425 |
+| **Ainda falta escrever nos textos** | **2.371** |
 
 A meta é atingida quando a coluna "ainda falta" chegar a zero — ou seja,
 quando todas as palavras da lista de cada cidade aparecerem nos parágrafos
@@ -36,7 +36,7 @@ em francês. As duas frentes de escrita são:
 
 1. **Aventura (Fase 1):** as aulas da trilha de Irlan (`src/data/<cidade>_lesson_<N>.json`).
 2. **Enciclopédia (Fase 2):** os dossiês temáticos pós-trilha
-   (`src/data/city_guides/<cidade>_guide_<N>.json`) — 11 cidades, 552 seções,
+   (`src/data/city_guides/<cidade>_guide_<N>.json`) — 11 cidades, 565 seções,
    desbloqueados quando o aluno termina a aventura. São o lar natural do
    vocabulário avançado (C1/C2), que não cabe no enredo sem enrolá-lo.
 
@@ -46,28 +46,20 @@ em francês. As duas frentes de escrita são:
    específico. O app exibe esse rótulo no cabeçalho do leitor e como
    badge na lista de seções.
 
-## 2. Distribuição por cidade (ponderada pelo CEFR)
+## 2. Distribuição por cidade (equilibrada — sem travar palavras no nível da cidade)
 
-Níveis básicos concentram poucas palavras por cidade; os níveis avançados
-concentram mais (densidade crescente):
+O plano (`bun run plan` → `scripts/city_words_to_write.json`) distribui o
+backlog de palavras ainda não escritas de forma **equilibrada pelas 11
+cidades e sem limitar pelo nível da cidade**: cada cidade recebe uma cota
+mista de todos os níveis CEFR (A1 → C2).
 
-| # | Cidade | Nível | Palavras a escrever |
-| --- | --- | --- | --- |
-| 1 | Paris | A1 | 189 |
-| 2 | Amiens | A1/A2 | 428 |
-| 3 | Lille | A2 | 239 |
-| 4 | Mont Saint-Michel | A2/B1 | 728 |
-| 5 | Tours | B1 | 488 |
-| 6 | Bordeaux | B1+ | 488 |
-| 7 | Toulouse | B2 | 1.063 |
-| 8 | Lyon | B2+ | 1.063 |
-| 9 | Marseille | C1 | 1.596 |
-| 10 | Strasbourg | C1+ | 1.596 |
-| 11 | Nice | C2 | 5.146 |
-
-Os níveis já foram corrigidos: o banco CEFR agora é a fonte de verdade, então
-cada cidade recebe as palavras do seu nível real (antes havia palavras
-avançadas como *bombarder* ou *l'orbite* marcadas como A1).
+**A regra vale sobretudo para a Enciclopédia (Fase 2):** qualquer cidade —
+inclusive as de nível inicial da trilha, como Amiens, Lille ou
+Mont-Saint-Michel — pode (e deve) hospedar palavras avançadas (B2/C1/C2)
+em textos únicos, sofisticados e enciclopédicos. O rótulo do campo `level`
+de cada dossiê descreve o registro do texto; ele não é um teto de
+vocabulário. Só as aulas da aventura de Irlan (Fase 1) seguem a progressão
+pedagógica da cidade.
 
 As listas prontas para riscar estão em `scripts/worklists/<cidade>.md`
 (ex.: `scripts/worklists/nice.md`). Cada item traz a palavra em francês e a
@@ -236,11 +228,14 @@ mesmo schema das aulas (`paragraphs` bilíngues + `vocabularyDictionary`).
    ```bash
    bun run scripts/list_missing_words.ts C1   # ou A1/A2/B1/B2/C2
    ```
-2. Escolha **8 seções temáticas** que combinem com a cidade (história,
-   patrimônio, gastronomia, esporte, natureza, instituições...).
-3. Escreva ~6 parágrafos por seção, entrelaçando **de propósito** as palavras
-   que faltam — misturando todos os níveis (A1–C2), com densidade maior nos
-   níveis avançados da cidade.
+2. Escolha **um tema único e aprofundado** para o dossiê, que combine com a
+   cidade (história, patrimônio, gastronomia, esporte, natureza,
+   instituições, saúde, cultura...) e ainda não tenha sido usado nos guias
+   anteriores dela.
+3. Escreva ~6 parágrafos, entrelaçando **de propósito** as palavras que
+   faltam — misturando todos os níveis (A1–C2), com densidade maior nos
+   níveis avançados. **Não limite as palavras ao nível da cidade:** um
+   dossiê de Amiens ou do Mont-Saint-Michel pode ser C1/C2 sem problema.
 4. Salve como `src/data/city_guides/<cidade>_guide_01.json` … `_08.json`.
 5. **Registre** no app: imports + entrada no `CITY_GUIDES` em
    `src/components/EncyclopediaView.tsx`.
@@ -259,6 +254,9 @@ mesmo schema das aulas (`paragraphs` bilíngues + `vocabularyDictionary`).
   irmãs (sem avós)** — é coerência de personagem na narrativa, não proibição
   de palavras no app.
 - Textos **factuais e enciclopédicos**, nunca narrativa do Irlan.
+- **Sem limite de vocabulário por nível da cidade:** cada cidade pode ter
+  palavras avançadas (B2/C1/C2). Textos **únicos e avançados**, com tema
+  exclusivo por dossiê — evite repetir o tema de outro guia da mesma cidade.
 - Misture níveis A1–C2 no corpo do texto: é assim que os dossiês absorvem as
   milhares de palavras avançadas que não cabem no enredo.
 

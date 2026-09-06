@@ -296,8 +296,11 @@
       "ptTargets": ["hoje"],
       "examples": [
         { "level": "A1", "fr": "Aujourd'hui, il fait beau.", "pt": "Hoje, faz sol." },
-        { "level": "A2-B1", "fr": "« Hui » voulait dire « aujourd'hui » en vieux français.", "pt": "« Hui » queria dizer « hoje » em francês antigo." },
-        { "level": "B2", "fr": "Le mot « aujourd'hui » est né d'une fusion : « au jour d'hui ».", "pt": "A palavra « aujourd'hui » nasceu de uma fusão: « no dia de hoje »." },
+        { "level": "A2-B1", "fr": "« Hui » voulait dire « aujourd'hui » en vieux français.", "pt": "« Hui » queria dizer « hoje » em francês antigo." },{
+    "level": "B2",
+    "fr": "« Aujourd'hui » garde la trace de « hui », l'ancien nom du jour présent.",
+    "pt": "« Aujourd'hui » guarda o traço de « hui », o antigo nome do dia presente."
+   },
         { "level": "C1-C2", "fr": "Hui, en ancien français, portait le sens plein du présent, avant de se figer dans notre « aujourd'hui ».", "pt": "Hui, em francês antigo, carregava o sentido pleno do presente, antes de se fixar no nosso « aujourd'hui »." }
       ]
     }

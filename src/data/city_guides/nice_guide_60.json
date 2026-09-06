@@ -73,8 +73,11 @@
       "definitionFr": "Transformation d'une voyelle en deux sons prononcés d'un seul souffle.",
       "inflections": ["la diphtongaison", "une diphtongaison"],
       "ptTargets": ["ditongação"],
-      "examples": [
-        { "level": "A1", "fr": "Le mot se prononce avec deux sons.", "pt": "A palavra se pronuncia com dois sons." },
+      "examples": [{
+    "level": "A1",
+    "fr": "Dans « toi », on entend deux sons.",
+    "pt": "Em « toi », ouvem-se dois sons."
+   },
         { "level": "A2-B1", "fr": "La diphtongaison change la prononciation.", "pt": "A ditongação muda a pronúncia." },
         { "level": "B2", "fr": "La diphtongaison explique des différences entre dialectes voisins.", "pt": "A ditongação explica diferenças entre dialetos vizinhos." },
         { "level": "C1-C2", "fr": "La diphtongaison, comme un ralentissement de la voix, donne à certaines langues leur musique de vagues.", "pt": "A ditongação, como um retardar da voz, dá a certas línguas sua música de ondas." }
@@ -165,8 +168,11 @@
       "inflections": ["l'expression figée", "les expressions figées", "des expressions figées"],
       "ptTargets": ["expressão fixa"],
       "examples": [
-        { "level": "A1", "fr": "On dit toujours la même phrase.", "pt": "Diz-se sempre a mesma frase." },
-        { "level": "A2-B1", "fr": "Une expression figée ne se traduit pas mot à mot.", "pt": "Uma expressão fixa não se traduz palavra por palavra." },
+        { "level": "A1", "fr": "On dit toujours la même phrase.", "pt": "Diz-se sempre a mesma frase." },{
+    "level": "A2-B1",
+    "fr": "« Tomber dans les pommes » n'a pas le même sens dans une autre langue.",
+    "pt": "« Tomber dans les pommes » não tem o mesmo sentido em outro idioma."
+   },
         { "level": "B2", "fr": "Les expressions figées donnent du sel à la conversation.", "pt": "As expressões fixas dão sabor à conversa." },
         { "level": "C1-C2", "fr": "L'expression figée est une petite fenêtre sur l'âme d'un peuple : elle garde, dans ses mots, une façon ancienne de voir le monde.", "pt": "A expressão fixa é uma pequena janela para a alma de um povo: guarda, em suas palavras, um modo antigo de ver o mundo." }
       ]
@@ -203,8 +209,11 @@
       "definitionFr": "Signe posé sur une voyelle, noté de gauche à droite vers le bas.",
       "inflections": ["l'accent grave", "un accent grave"],
       "ptTargets": ["acento grave"],
-      "examples": [
-        { "level": "A1", "fr": "Le mot a un accent.", "pt": "A palavra tem um acento." },
+      "examples": [{
+    "level": "A1",
+    "fr": "Le français écrit a des petits signes sur les lettres.",
+    "pt": "O francês escrito tem pequenos sinais sobre as letras."
+   },
         { "level": "A2-B1", "fr": "L'accent grave change la prononciation du e.", "pt": "O acento grave muda a pronúncia do e." },
         { "level": "B2", "fr": "L'accent grave distingue des mots qui s'écrivent pareil.", "pt": "O acento grave distingue palavras que se escrevem igual." },
         { "level": "C1-C2", "fr": "L'accent grave, petit signe discret, décide parfois du sens d'une phrase entière.", "pt": "O acento grave, pequeno sinal discreto, decide às vezes o sentido de uma frase inteira." }
